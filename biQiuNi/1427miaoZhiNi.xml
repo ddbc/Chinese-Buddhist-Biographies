@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="bqnz0942c06miaoZhiNi">
+    <head><placeName key="CN0320106T42AA">華嚴寺</placeName><persName key="A015580">妙智</persName>尼<ptr target="fn32"/>傳五</head><p><anchor n="T.50.2063.0942c07"/><lb ed="T" n="0942c07"/><persName key="A015580">妙智</persName>，本姓曹，<placeName key="CN0410882Z30AA">河內</placeName>人也。稟性柔明，陶心大化，<lb ed="T" n="0942c08"/>執持禁範，如護明珠。心勤忍辱，與物無忤，雖<lb ed="T" n="0942c09"/>有毀惱，必以和顏。下帷窮年，終日無悶，精達<lb ed="T" n="0942c10"/>法相，物共宗之。</p><p>禪堂初建，<persName key="A003032">齊武皇帝</persName>勅請<lb ed="T" n="0942c11"/><ptr target="fn33"/><persName key="A015580">妙智</persName>講勝鬘、淨名，開題及講，<ref target="#A003032" type="person">帝</ref>數親臨，詔問<lb ed="T" n="0942c12"/>無方，<persName key="A015580">智</persName>連環剖析，初無遺滯，<ref target="#A003032" type="person">帝</ref>屢稱善，四眾<lb ed="T" n="0942c13"/>雅服。<persName key="A002655">齊竟陵文宣王</persName>疆界<placeName key="CN0320102M02AA">鍾山</placeName>，集葬名德。年<lb ed="T" n="0942c14"/>六十四，<date from-iso="0495-02-12" key="j19018981902251" to-iso="0496-01-31">建武二年</date>卒，葬于<placeName key="CN0320115T17AA">定林寺</placeName>南，齊侍中<lb ed="T" n="0942c15"/><placeName key="CN0371302Z20AA">瑯瑘</placeName><persName key="A015585">王倫</persName>妻<persName key="A015586">江氏</persName>，為著石讚文序，立于墓左<lb ed="T" n="0942c16"/>耳。</p>
+    
+    <linkGrp>
+        <link targets="#0942c13 #0942c14"/>
+        <ptr target="#A015580" type="person"/>
+        <ptr target="#j19018981902251" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0942c14 #0942c16"/>
+        <ptr target="#A015585" type="person"/>
+        <ptr target="#A015586" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0942c06 #0942c06"/>
+        <ptr target="#A015580" type="person"/>
+        <ptr target="#CN0320106T42AA" type="place"/>
+        </linkGrp>
+    <linkGrp>
+        <link targets="#0942c10 #0942c13"/>
+        <ptr target="#A015580" type="person"/>
+        <ptr target="#A003032" type="person"/>
+        </linkGrp>
+</div>

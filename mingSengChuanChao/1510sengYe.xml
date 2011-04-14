@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><div xml:id="mscc0358a09sengYe" xmlns="http://www.tei-c.org/ns/1.0"><head>宋欣平<placeName key="CN0000000T25AA">慈氏寺</placeName><persName key="A018948">釋僧業</persName></head><p><anchor n="X.77.1523.0358a09"/><lb ed="X" n="0358a09"/>僧業本姓馮。蜀郡<placeName key="CN0510108Z12AA">城都</placeName>人。索行貞。奉持律業。蔬食勇<lb ed="X" n="0358a10"/>猛。心形不綴。宕渠太守<placeName key="CN0511422Z21AA">江陽</placeName><persName key="A018951">錢。生</persName>世事外道。忽夢入<lb ed="X" n="0358a11"/>寺禮拜。見一白玉珠。長四寸。懸在空中。復有散衣。高<lb ed="X" n="0358a12"/>覆其上。又一重珠。隨其手中。既旦遇見<persName key="A018948">僧業</persName>。共述所<lb ed="X" n="0358a13"/>夢。業便獎發。遂能精進。共市地。以<date from-iso="0477-01-31" to-iso="0477-08-02" key="j18953121895495">元徽五年</date>。立寺焉。<lb ed="X" n="0358a14"/>謂為<placeName key="CN0000000T25AA">慈氏寺</placeName>。以所悟為名。<persName key="A018948">業</persName>乃移住之。厭惡穢形。期<lb ed="X" n="0358a15"/>彼常樂(云云)。</p>
+    <linkGrp>
+        <link targets="#0358a09 #0358a09"/>
+        <ptr type="person" target="#A018948"/>
+        <ptr type="place" target="#CN0510108Z12AA"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0358a10 #0358a13"/>
+        <ptr type="person" target="#A018948"/>
+        <ptr type="person" target="#A018951"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0358a13 #0358a15"/>
+        <ptr type="person" target="#A018948"/>
+        <ptr type="place" target="#CN0000000T25AA"/>
+        <ptr type="time" target="#d18953121895495"/>
+    </linkGrp>
+    
+</div>

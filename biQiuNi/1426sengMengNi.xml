@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="bqnz0942b14sengMengNi">
+    <head>鹽官<placeName key="CN0330109T07AA">齊明寺</placeName><persName key="A015561">僧猛</persName>尼<ptr target="fn23"/>傳四</head><p><anchor n="T.50.2063.0942b15"/><lb ed="T" n="0942b15"/><persName key="A015561">僧猛</persName>，本姓岑，<placeName key="CN0411302Z01AA">南陽</placeName>人也。遷居<placeName key="CN0330109Z01AA">鹽官縣</placeName>，至<persName key="A015561">猛</persName>五<lb ed="T" n="0942b16"/>世矣。曾祖率，晉正員郎<placeName key="CN0330110Z22AA">餘抗</placeName>令，世事黃老，加<lb ed="T" n="0942b17"/>信敬邪神。<persName key="A015561">猛</persName>幼而慨然，有拔俗之志。<date key="j18777501878114" from-iso="0429-01-01" to-iso="0429-12-31">年十二</date>，<lb ed="T" n="0942b18"/>父亡，號哭吐血，<ptr target="fn24"/>絕而復蘇。三年告終，示不<lb ed="T" n="0942b19"/>滅性，辭母出家。行已清潔，奉師恭肅，<ptr target="fn25"/>蔬糲<lb ed="T" n="0942b20"/>之食，止存支命。行道禮懺，嘗疲怠，說悔先<lb ed="T" n="0942b21"/>罪，精懇流淚，能行人所不能行。<placeName key="CN0510108Z32AA">益州</placeName>刺<ptr target="fn26"/>史<placeName key="CN0320503Z01AA">吳<lb ed="T" n="0942b22"/>郡</placeName><persName key="A003362">張岱</persName>，聞風貴敬，請為門師。</p><p>宋<ptr target="fn27"/><date from-iso="0473-02-14" key="j18938651894219" to-iso="0474-02-03">元徽元年</date>，<persName key="A015566">淨<lb ed="T" n="0942b23"/><ptr target="fn28"/>度</persName>尼入<placeName key="CN0320503Z01AA">吳</placeName>，携出<placeName key="CN0320106Z05AA">京城</placeName>，仍住<placeName key="CN0320106T35AA">建福寺</placeName>。歷觀眾<lb ed="T" n="0942b24"/>經，以日係夜，隨逐講說，心無厭勌。多聞強記，<lb ed="T" n="0942b25"/>經耳必憶，由是經律皆悉研明。澄情宴坐，<ptr target="fn29"/>泊<lb ed="T" n="0942b26"/>然不<ptr target="fn30"/>測。</p><p><date from-iso="0482-02-05" key="j18971431897208" to-iso="0482-04-11">齊建元四年</date>，母病，<ptr target="fn31"/>乃捨東宅為寺，<lb ed="T" n="0942b27"/>名曰<placeName key="CN0330109T07AA">齊明</placeName>。締搆殿宇，列植竹樹，內外清靖，狀<lb ed="T" n="0942b28"/>若仙居。飢者撤饍以施之，寒者解衣而與之。<lb ed="T" n="0942b29"/>嘗有獵者近於<ref target="#CN0330109T07AA" type="place">寺</ref>南，飛禽走獸競來投<persName key="A015561">猛</persName>，而<lb ed="T" n="0942c01"/>鷹犬馳逐相去咫尺。<persName key="A015561">猛</persName>以身手遮遏，雖體被<lb ed="T" n="0942c02"/>啄嚙，而投者獲免。同止數十人，三十餘載未<lb ed="T" n="0942c03"/>嘗見其慍怒之色。年七十二，<date from-iso="0489-02-17" key="j18997121900066" to-iso="0490-02-06">永明七年</date>卒。</p><p>時<lb ed="T" n="0942c04"/>又有<persName key="A015568">僧瑗</persName>尼，<persName key="A015561">猛</persName>之從弟女也，亦以孝聞，業行<lb ed="T" n="0942c05"/>高邈，慧悟凝深也。</p>
+    <linkGrp>
+        <link targets="#0942b15 #0942b16"/>
+        <ptr target="#A015561" type="person"/>
+        <ptr target="#CN0330109Z01AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0942b17 #0942b18"/>
+        <ptr target="#A015561" type="person"/>
+        <ptr target="#j18777501878114" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0942c03 #0942c03"/>
+        <ptr target="#A015561" type="person"/>
+        <ptr target="#j18997121900066" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0942b21 #0942b22"/>
+        <ptr target="#A015561" type="person"/>
+        <ptr target="#A003362" type="person"/>
+        </linkGrp>
+    <linkGrp>
+        <link targets="#0942b22 #0942b24"/>
+        <ptr target="#A015561" type="person"/>
+        <ptr target="#A015566" type="person"/>
+        <ptr target="#CN0320106T35AA" type="place"/>
+        <ptr target="#j18938651894219" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0942b26 #0942c02"/>
+        <ptr target="#A015561" type="person"/>
+        <ptr target="#CN0330109T07AA" type="place"/>
+        <ptr target="#j18971431897208" type="time"/>
+    </linkGrp>
+</div>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="bqnz0938c28faShengNi">
+    <head>吳縣<placeName key="CN0320504T05AA">南寺</placeName><persName key="A015277">法勝</persName>尼<ptr target="fn49"/>傳十</head><p><anchor n="T.50.2063.0939a01"/><lb ed="T" n="0939a01"/><persName key="A015277">法勝</persName>，<ptr target="fn1"/>少出家，住吳縣<placeName key="CN0320504T05AA">南寺</placeName>，<ptr target="fn2"/>或云<placeName key="CN0320504T05AA">東寺</placeName>，恭信<lb ed="T" n="0939a02"/>恪勤，眾所知識。宋<date from-iso="0424-09-18" key="j18761841886591" to-iso="0453-03-17">元嘉</date>中，<placeName key="CN0410882Z30AA">河內</placeName>司馬<persName key="A015286">隆</persName>為<placeName key="CN0321102Z20AA">毘<lb ed="T" n="0939a03"/>陵</placeName>丞，遇抄戰亡。妻<persName key="A015288">山氏</persName>，二親早沒，復無兒<lb ed="T" n="0939a04"/>女，年又老大，入<placeName key="CN0320504Z01AA">吳</placeName>投<persName key="A015277">勝</persName>，<persName key="A015277">勝</persName>接待如親。後<ptr target="fn3"/>百<lb ed="T" n="0939a05"/>日，<persName key="A015288">山氏</persName>遇<ptr target="fn＊"/>疾，<ptr target="fn＊"/>疾涉三年，甚經危篤。<persName key="A015277">勝</persName>本無<lb ed="T" n="0939a06"/>蓄積，贍待醫藥，皆資乞告，不憚<ptr target="fn4"/>雨暑，<ptr target="fn5"/>不避<lb ed="T" n="0939a07"/>風寒，<persName key="A015288">山氏</persName><ptr target="fn6"/>遂愈，眾<ptr target="fn7"/>並稱貴之。</p><p>後遊<placeName key="CN0320106Z05AA">京師</placeName>，進<lb ed="T" n="0939a08"/>修禪律，該通定慧，探索幽隱，訓誘<ptr target="fn8"/>徒屬，不肅<lb ed="T" n="0939a09"/>而成。動不<ptr target="fn9"/>詢利，靜不求名，殷勤周至，莫非<lb ed="T" n="0939a10"/>濟物。</p><p>年造六十，疾病經時，自言不差。親屬怪<lb ed="T" n="0939a11"/>問，答云：「昨見二沙門，道知如此。」頃之復言：「見<lb ed="T" n="0939a12"/>二比丘，非前所見者，偏袒<ptr target="fn10"/>右肩，手各執花，立<lb ed="T" n="0939a13"/>其<ptr target="fn11"/>疾床。後遙見一佛，坐蓮華上，光照<ref target="#A015277" type="person">我</ref>身。」從<lb ed="T" n="0939a14"/>此已後，夕不復眠，令人為轉法<ptr target="fn12"/>華，至于後夜，<lb ed="T" n="0939a15"/>氣息稍微，命令止經，「為<ref target="#A015277" type="person">我</ref>稱佛」，亦自稱佛。將<lb ed="T" n="0939a16"/>欲平明，容貌不改，奄忽而終焉。</p>
+    <linkGrp>
+        <link targets="#0939a01 #0939a01"/>
+        <ptr target="#A015277" type="person"/>
+        <ptr target="#CN0320504T05AA" type="place"/>
+        </linkGrp>
+    <linkGrp>
+        <link targets="#0939a02 #0939a07"/>
+        <ptr target="#A015277" type="person"/>
+        <ptr target="#A015288" type="person"/>
+        <ptr target="#CN0320504Z01AA" type="place"/>
+        <ptr target="#j18761841886591" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0939a07 #0939a08"/>
+        <ptr target="#A015277" type="person"/>
+        <ptr target="#CN0320106Z05AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0939a02 #0939a04"/>
+        <ptr target="#A015286" type="person"/>
+        <ptr target="#A015288" type="person"/>
+        <ptr target="#j18761841886591" type="time"/>
+    </linkGrp>
+</div>

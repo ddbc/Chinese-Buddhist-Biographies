@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0405c02shiSengQing">
+    <p><anchor n="T.50.2059.0405c02"/><lb ed="T" n="0405c02"/><persName key="A002336">釋僧慶</persName>，姓陳，<placeName key="CN0511302Z13AA">巴西安漢</placeName>人。家世事五<ptr target="fn25"/>斗米<lb ed="T" n="0405c03"/>道。<persName key="A002336">慶</persName>生而獨悟，<date key="j18850561885420" from-iso="0449-01-02" to-iso="0450-01-01">十三</date>出家，止義興寺。淨修<lb ed="T" n="0405c04"/>梵行，願求見佛，<ptr target="fn26"/>先捨三指，末誓燒身，漸<lb ed="T" n="0405c05"/>絕糧粒，唯服香油。到<date key="j18887931888793" when-iso="0459-03-28">大明三年二月八日</date>，<lb ed="T" n="0405c06"/>於<placeName key="CN0510101T07AA">蜀<ptr target="fn27"/>城武擔寺</placeName>西，對其所造淨名像前，焚<lb ed="T" n="0405c07"/>身供養。刺史<persName key="A002953">張悅</persName>躬出臨視，道俗僑舊，觀者<lb ed="T" n="0405c08"/>傾邑。行雲為結，苦雨悲零。俄而晴景開明，天<lb ed="T" n="0405c09"/>色澄淨，見一物如龍，從[卄/積]<ptr target="fn28"/>昇天。時年二十<lb ed="T" n="0405c10"/>三，<placeName key="CN0620502Z02AA">天水</placeName>太守<persName key="A003398">裴方明</persName>。為收灰起塔。</p>
+    <linkGrp>
+        <link targets="#0405c03 #0405c03"/>
+        <ptr target="#A002336" type="person"/>
+        <ptr target="#j18850561885420" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0405c10 #0405c10"/>
+        <ptr target="#A003398" type="person"/>
+        <ptr target="#CN0620502Z02AA " type="place"/>    
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0405c05 #0405c09"/>
+        <ptr target="#A002336" type="person"/>
+        <ptr target="#A002953" type="person"/>
+        <ptr target="#CN0510101T07AA" type="place"/>
+        <ptr target="#j18887931888793" type="time"/>
+    </linkGrp>
+</div>

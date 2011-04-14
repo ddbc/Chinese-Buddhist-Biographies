@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0606b02shiDaoXin">
+    <p><anchor n="T.50.2060.0606b02"/><lb ed="T" n="0606b02"/><persName key="A003654">釋道信</persName>。姓司馬。未詳何人。初<date key="j19350931935457" from-iso="0586-01-01" to-iso="0586-12-31">七歲</date>時經事<lb ed="T" n="0606b03"/>一師。戒行不純。<persName key="A003654">信</persName>每陳諫。以不見從密懷<lb ed="T" n="0606b04"/>齋檢。經於五載而師不知。又有二僧莫知<lb ed="T" n="0606b05"/>何來。入<placeName key="CN0340824Z13AA">舒州</placeName><placeName key="CN0340824M01AA">[山*完]公山</placeName>靜修禪業。聞而往赴<lb ed="T" n="0606b06"/>便蒙授法。隨逐依學遂經十年。師往<placeName key="CN0441322M01AA">羅浮</placeName><lb ed="T" n="0606b07"/>不許相逐。但於後住必大弘益。國訪賢良<lb ed="T" n="0606b08"/>許度出家。因此附名住<placeName key="CN0360802T01AA">吉州寺</placeName>。被賊圍<placeName key="CN0360802Z11AA">城</placeName><lb ed="T" n="0606b09"/>七十餘日。城中乏水人皆困弊。<persName key="A003654">信</persName>從外入<lb ed="T" n="0606b10"/>井水還復。刺史叩頭。賊何時散。<persName key="A003654">信</persName>曰。但念<lb ed="T" n="0606b11"/>般若。乃令合城同時合聲。須臾外賊見城<lb ed="T" n="0606b12"/>四角。大人力士威猛絕倫。思欲得見刺史。<lb ed="T" n="0606b13"/>告曰。欲見大人可自入城。群賊即散。既見<lb ed="T" n="0606b14"/>平定欲往<placeName key="CN0430412M01AA">衡岳</placeName>。路次<placeName key="CN0360403Z14AA">江洲</placeName>。道俗留止<placeName key="CN0360402M01AA">廬山</placeName><lb ed="T" n="0606b15"/><placeName key="CN0360402T05AA">大林寺</placeName>。雖經賊盜又經十年。<placeName key="CN0421126Z08AA">蘄州</placeName>道俗請<lb ed="T" n="0606b16"/>度江北<placeName key="CN0421127Z03AA">黃梅縣</placeName>眾造寺。依然山行。遂見<placeName key="CN0421127M01AA">雙<lb ed="T" n="0606b17"/>峯</placeName>有好泉石。即住終志。當夜大有猛獸來<lb ed="T" n="0606b18"/>繞。並為授歸戒。授已令去。自入山來三十<lb ed="T" n="0606b19"/>餘載。諸州學道無遠不至。刺史<persName key="A004935">崔義玄</persName>。聞<lb ed="T" n="0606b20"/>而就禮。臨終語弟子<persName key="A000237">弘忍</persName>。可為<persName key="A003654">吾</persName>造塔。命<lb ed="T" n="0606b21"/>將不久。又催急成。又問中未。答欲至中。眾<lb ed="T" n="0606b22"/>人曰。<persName key="A003654">和尚</persName>可不付囑耶。曰生來付囑不少。<lb ed="T" n="0606b23"/>此語纔了奄爾便絕。于時<placeName key="CN0421127M01AA">山</placeName>中五百餘人。<lb ed="T" n="0606b24"/>並諸州道俗。忽見天地闇冥。遶住三里樹<lb ed="T" n="0606b25"/>木葉白。房側梧桐樹曲枝向房。至今曲處<lb ed="T" n="0606b26"/>皆枯。即<date key="j19591311959131" when-iso="0651-10-26">永徽二年閏九月四日</date>也。春秋七<lb ed="T" n="0606b27"/>十有二。至<date key="j19592461959599" from-iso="0652-02-18" to-iso="0653-02-05">三年</date>弟子<persName key="A000237">弘忍</persName>等。至塔開看端<lb ed="T" n="0606b28"/>坐如舊。即移往本處。于今若存。</p>
+    <linkGrp>  
+        <link targets="#0606b02 #0606b04"/>
+        <ptr target="#A003654" type="person"/>
+        <ptr target="#CN0340824M01AA" type="place"/>
+        <ptr target="#j19350931935457" type="time"/>
+    </linkGrp>
+    <linkGrp>  
+        <link targets="#0606b04 #0606b07"/>
+        <ptr target="#A003654" type="person"/>
+        <ptr target="#CN0340824M01AA" type="place"/>
+    </linkGrp>
+    <linkGrp>  
+        <link targets="#0606b08 #0606b08"/>
+        <ptr target="#A003654" type="person"/>
+        <ptr target="#CN0360802T01AA" type="place"/>
+    </linkGrp>
+    <linkGrp>  
+        <link targets="#0606b08 #0606b13"/>
+        <ptr target="#A003654" type="person"/>
+        <ptr target="#CN0360802Z11AA" type="place"/>
+    </linkGrp>
+    <linkGrp>  
+        <link targets="#0606b14 #0606b15"/>
+        <ptr target="#A003654" type="person"/>
+        <ptr target="#CN0360402T05AA" type="place"/>
+    </linkGrp>
+    <linkGrp>  
+        <link targets="#0606b15 #0606b18"/>
+        <ptr target="#A003654" type="person"/>
+        <ptr target="#CN0421127Z03AA" type="place"/>
+    </linkGrp>
+    <linkGrp>  
+        <link targets="#0606b18 #0606b21"/>
+        <ptr target="#A003654" type="person"/>
+        <ptr target="#A004935" type="person"/>
+        <ptr target="#CN0421127M01AA" type="place"/>
+        </linkGrp>
+    <linkGrp>  
+        <link targets="#0606b21 #0606b26"/>
+        <ptr target="#A003654" type="person"/>
+        <ptr target="#A000237" type="person"/>
+        <ptr target="#CN0421127M01AA" type="place"/>
+        <ptr target="#j19591311959131" type="time"/>
+    </linkGrp>
+    <linkGrp>  
+        <link targets="#0606b27 #0606b28"/>
+        <ptr target="#A000237" type="person"/>
+        <ptr target="#CN0421127M01AA" type="place"/>
+        <ptr target="#j19592461959599" type="time"/>
+    </linkGrp>
+</div>

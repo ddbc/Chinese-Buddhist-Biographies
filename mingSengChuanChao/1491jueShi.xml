@@ -1,0 +1,27 @@
+<?xml version="1.0" ?><div xml:id="mscc0353b24jueShi" xmlns="http://www.tei-c.org/ns/1.0"><head>宋<placeName key="CN0320101T67AA">長樂寺</placeName><persName key="A003017">釋覺世</persName></head><p><anchor n="X.77.1523.0353b24"/><lb ed="X" n="0354b09"/>覺世<placeName key="CN0610112Z11AA">京兆</placeName>人也。年十二出家。篤信行。無嗜慾。觀世榮<lb ed="X" n="0354b10"/>利若浮雲。<ptr target="fn3"/>烏學善泥洹大品。立二諦義。以不空假名<lb ed="X" n="0354b11"/>為宗。論議清辨。與惠[(束*力)/心]齊名。其高談玄勝。以理會心。<lb ed="X" n="0354b12"/>商略過之。少遊<placeName key="CN0320303Z11AA">彭城</placeName>。後來京甸。憩<placeName key="CN0320101T67AA">長樂寺</placeName>。<date from-iso="0466-01-10" key="j18912731893480" to-iso="0472-01-26">太始</date>中。多<lb ed="X" n="0354b13"/>通方等經。世手不執卷。而思徹微眇。磐疑石難莫不<lb ed="X" n="0354b14"/>氷釋。精進勇猛。三業俱勤。弟子<persName key="A018899">僧瑤</persName>遇酒小過。戒之<lb ed="X" n="0354b15"/>曰。縱情殆惰。醉酒飽食。此皆罸性之斧也。婆寒不為。<lb ed="X" n="0354b16"/>況復息心。若能依律懇懺。特恕一反。若其不爾。便宜<lb ed="X" n="0354b17"/>遠去。於是門徒肅然。莫不戰慓。四輩崇仰。遠人慕義。<lb ed="X" n="0354b18"/>春秋五十九(云云)。</p>
+    <linkGrp>
+        <link targets="#0354b09 #0354b09"/>
+        <ptr target="#A003017" type="person"/>
+        <ptr target="#CN0610112Z11AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0354b12 #0354b12"/>
+        <ptr target="#A003017" type="person"/>
+        <ptr target="#CN0320303Z11AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0354b12 #0354b12"/>
+        <ptr target="#A003017" type="person"/>
+        <ptr target="#CN0320101T67AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0354b12 #0354b14"/>
+        <ptr target="#A003017" type="person"/>
+        <ptr target="#j18912731893480" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0354b14 #0354b17"/>
+        <ptr target="#A003017" type="person"/>
+        <ptr target="#A018899" type="person"/>
+    </linkGrp>
+</div>

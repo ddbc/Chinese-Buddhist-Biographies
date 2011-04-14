@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0550c27shiDaoZhen">
+    <p><anchor n="T.50.2060.0550c27"/><lb ed="T" n="0550c27"/><persName key="A005875">釋道珍</persName>。未詳何人。<date key="j19045331909604" notAfter-iso="0516" notBefore-iso="0502">梁初</date>住<placeName key="CN0360402M01AA">廬山</placeName>中。恒作<persName key="A002843">彌<lb ed="T" n="0550c28"/>陀</persName>業觀。夢有人乘船處大海中。云向<placeName key="XZ0000033A01AA">阿彌<lb ed="T" n="0550c29"/>陀國</placeName>。<persName key="A005875">珍</persName>欲隨去。船人云。未作淨土業。謂須<lb ed="T" n="0551a01"/>經營浴室并誦<persName key="A002843">阿彌陀</persName>經。既覺即如夢所<lb ed="T" n="0551a02"/>作。年歲綿遠。及於房中<ptr target="fn01"/>小池降白銀臺。<lb ed="T" n="0551a03"/>時人不知。獨記其事安經函底。及命過時。<lb ed="T" n="0551a04"/>當夕半山已上如列數千炬火。近村人見<lb ed="T" n="0551a05"/>謂。是諸王<ptr target="fn02"/>觀禮。旦就山尋。乃云<persName key="A005875">珍</persName>卒。方<lb ed="T" n="0551a06"/>委冥祥外應也。後因搜檢經中方知往生<lb ed="T" n="0551a07"/>本事。遂封記焉用示後學。時此<placeName key="CN0360402M01AA">山</placeName><placeName key="CN0360402T06AA">峰頂寺</placeName><lb ed="T" n="0551a08"/>有<persName key="A005876">法歸禪師</persName>者。本住<placeName key="CN0410502Z10AA">襄陽漢陰</placeName>。出家<ptr target="fn03"/>昧靜<lb ed="T" n="0551a09"/>為務。感夢有神來請。遂往<placeName key="CN0360402M01AA">廬山</placeName>遊歷諸<lb ed="T" n="0551a10"/>處。忽然驚覺。乃尋夢而往。但<placeName key="CN0360402M01AA">廬山</placeName>者生來<lb ed="T" n="0551a11"/>不到。及至彼處樹石寺塔宛如前夢。方知<lb ed="T" n="0551a12"/>為<placeName key="CN0360402M01AA">廬山</placeName>神之所請也。依而結宇晨夕繼業。<lb ed="T" n="0551a13"/>遂終山舍。時又有<persName key="A005877">慧景禪師</persName>者。清卓出類<lb ed="T" n="0551a14"/>不偶道俗。<ptr target="fn04"/>狐行林阜。禪慧在宗。及其終<lb ed="T" n="0551a15"/>後。乃返<ptr target="fn05"/>掘兩指。人有捋者雖伸還屈如<lb ed="T" n="0551a16"/>前<ptr target="fn06"/>故傳所紀。獲二果矣。當景卒旦。山峰<lb ed="T" n="0551a17"/>松樹並雨甘露。今名<placeName key="CN0360402M06AA">甘露峰</placeName>是也。生常感<lb ed="T" n="0551a18"/>二<ptr target="fn07"/>鳥依時乞食。及其<ptr target="fn08"/>沒後絕迹此山。斯<lb ed="T" n="0551a19"/>之三德。道扇梁朝樹銘山阿。各題芳績<lb ed="T" n="0551a20"/>矣。</p>
+    <linkGrp>
+        <link targets="#0550c27 #0550c27"/>
+        <ptr target="#A005875" type="person"/>
+        <ptr target="#CN0360402M01AA" type="place"/>
+        <ptr target="#j19045331909604" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0551a08 #0551a08"/>
+        <ptr target="#A005876" type="person"/>
+        <ptr target="#CN0410502Z10AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0551a07 #0551a13"/>
+        <ptr target="#A005876" type="person"/>
+        <ptr target="#CN0360402T06AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0551a13 #0551a18"/>
+        <ptr target="#A005877" type="person"/>
+        <ptr target="#CN0360402M06AA" type="place"/>
+    </linkGrp>
+</div>

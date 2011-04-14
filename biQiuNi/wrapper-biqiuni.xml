@@ -1,0 +1,110 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+          <title xml:lang="zh-Latn">Biqiuni  Zhuan</title>
+          <title xml:lang="zh-Hant">比丘尼傳</title>
+          <title xml:lang="en">Biographies of Eminent Nuns</title>
+        </title>
+        <author><name xml:lang="zh-Latn">Baocheng</name><name xml:lang="zh-Hant">寶唱</name>(?-?)</author>        
+        <respStmt><resp>Encoding, Markup</resp><name>Zhiwei Xu 許智偉</name></respStmt>
+        <respStmt><resp>Programming, Interface Design</resp><name>Jen-jou Hung 洪振洲, Jhih-Sian Lee 李志賢</name></respStmt>
+        <respStmt><resp>Archive Creation and Maintainance</resp><name>Ray Chou 周邦信</name></respStmt>
+        <principal>Marcus Bingenheimer</principal>
+      </titleStmt>      
+      <publicationStmt>        
+        <date>2010-2011</date>
+        <publisher>Dharma Drum Buddhist College 法鼓佛教學院</publisher>
+        <pubPlace>Jinshan, Taiwan 台灣新北市金山區</pubPlace>  
+        <availability status="free"><p>This electronic text is distributed by Dharma Drum Buddhist College under a <ref target="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution Share-Alike Licence Version 3.0</ref>.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Text Base is the CBETA edition of the Chinese Buddhist Canon (Version 2009)</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>The Biqiuni zhuan is dated <date>516 CE</date></creation>
+    </profileDesc>
+    <encodingDesc>
+      <p xml:lang="zh">文本中所使用的新式標點，其主要是參考北京中華書局於2006年出版的《比丘尼傳校註》，校註者為王孺童。</p>
+      <p xml:lang="en">The punctuation of this digital edition follows in the main the 2006 edition "Biqiuni zhuan jiaozhu 比丘尼傳校註" Beijing: Zhonghua 中華. Wang Rutong.</p>
+      <p xml:lang="zh">本數位版本是法鼓佛教學院佛教傳記文學專案的一部分<ref>http://buddhistinformatics.ddbc.edu.tw/biographies/</ref></p>
+      <p xml:lang="en">This digital edition is part of the Buddhist Biography Literature Project at Dharma Drum Buddhist College. <ref>http://buddhistinformatics.ddbc.edu.tw/biographies/</ref></p>
+      <p>For a discussion of the project please refer to <bibl>Bingenheimer, Marcus; Hong, Jen-Jou; Wiles, Simon 2009: “Markup meets GIS - Visualizing the ‘Biographies of Eminent Buddhist Monks’.” In: Proceedings Information Visualization IV 2009. Edited by E.Banissi et.al. Published by the IEEE Computer Society. ISBN: 978-0-7695-3733-7. pp.550-554. DOI: 10.1109/IV.2009.91</bibl> and <bibl>Jen-Jou HUNG, Marcus BINGENHEIMER, Zhi-Wei XU 2010: “漢文佛典的語意標記與應用：《高僧傳》文獻的時空資訊視覺化和語意搜尋 - Semantic markup for Chinese Buddhist texts and its Application- A Platform for Querying and Spatio-temporal Visualization of the Biographies of Eminent Monks”, (國立政治大學) 圖書與資訊學刊 (National Changchi University) Journal of Librarianship and Information Studies. Vol.2, No.3 (No.74), Aug 2010, pp.1-24.</bibl> <bibl>Jen-Jou HUNG, Marcus BINGENHEIMER, Simon WILES 2010: “Digital Texts and GIS: The interrogation and coordinated visualization of Classical Chinese texts" Proceedings International Conference on Computer Design and Applications ICCDA 2010. ISBN: 978-1-4244-7163-8</bibl></p>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <!-- Numbering in filenames continues from the Ming Gaoseng Zhuan -->
+      <xi:include href="1387jingJianNi.xml"/>
+      <xi:include href="1388anLingShouNi.xml"/>
+      <xi:include href="1389zhiXianNi.xml"/>
+      <xi:include href="1390miaoXiangNi.xml"/>
+      <xi:include href="1391kangMingGanNi.xml"/>
+      <xi:include href="1392tanBeiNi.xml"/>
+      <xi:include href="1393huiZhanNi.xml"/>
+      <xi:include href="1394sengJiNi.xml"/>
+      <xi:include href="1395daoXinNi.xml"/>
+      <xi:include href="1396daoRongNi.xml"/>
+      <xi:include href="1397lingZongNi.xml"/>
+      <xi:include href="1398miaoYinNi.xml"/>
+      <xi:include href="1399daoYiNi.xml"/>
+      <xi:include href="1400huiGuoNi.xml"/>
+      <xi:include href="1401faChengNi.xml"/>
+      <xi:include href="1402huiYuNi.xml"/>
+      <xi:include href="1403daoQiongNi.xml"/>
+      <xi:include href="1404daoShouNi.xml"/>
+      <xi:include href="1405shiXuanZaoNi.xml"/>
+      <xi:include href="1406shiHuiQiongNi.xml"/>
+      <xi:include href="1407puZhaoNi.xml"/>
+      <xi:include href="1408shiHuiMuNi.xml"/>
+      <xi:include href="1409faShengNi.xml"/>
+      <xi:include href="1410sengDuanNi.xml"/>
+      <xi:include href="1411guangJingNi.xml"/>
+      <xi:include href="1412shanMiaoNi.xml"/>
+      <xi:include href="1413sengGuoNi.xml"/>
+      <xi:include href="1414jingChengNi.xml"/>
+      <xi:include href="1415faXiangNi.xml"/>
+      <xi:include href="1416yeShouNi.xml"/>
+      <xi:include href="1417faBianNi.xml"/>
+      <xi:include href="1418daoZongNi.xml"/>
+      <xi:include href="1419huiJunNi.xml"/>
+      <xi:include href="1420baoXianNi.xml"/>
+      <xi:include href="1421faJingNi.xml"/>
+      <xi:include href="1422huiYaoNi.xml"/>
+      <xi:include href="1423faYuanNi.xml"/>
+      <xi:include href="1424tanCheNi.xml"/>
+      <xi:include href="1425sengJingNi.xml"/>
+      <xi:include href="1426sengMengNi.xml"/>
+      <xi:include href="1427miaoZhiNi.xml"/>
+      <xi:include href="1428zhiShengNi.xml"/>
+      <xi:include href="1429sengGaiNi.xml"/>
+      <xi:include href="1430faQuanNi.xml"/>
+      <xi:include href="1431jingHuiNi.xml"/>
+      <xi:include href="1432tanJianNi.xml"/>
+      <xi:include href="1433jingGuiNi.xml"/>
+      <xi:include href="1434huiXuNi.xml"/>
+      <xi:include href="1435chaoMingNi.xml"/>
+      <xi:include href="1436tanYongNi.xml"/>
+      <xi:include href="1437deLeNi.xml"/>
+      <xi:include href="1438jingXiuNi.xml"/>
+      <xi:include href="1439sengNianNi.xml"/>
+      <xi:include href="1440tanHuiNi.xml"/>
+      <xi:include href="1441fengNi.xml"/>
+      <xi:include href="1442huiShengNi.xml"/>
+      <xi:include href="1443jingXianNi.xml"/>
+      <xi:include href="1444jingYuanNi.xml"/>
+      <xi:include href="1445jingXingNi.xml"/>
+      <xi:include href="1446lingYuNi.xml"/>
+      <xi:include href="1447sengShuNi.xml"/>
+      <xi:include href="1448miaoYiNi.xml"/>
+      <xi:include href="1449huiHuiNi.xml"/>
+      <xi:include href="1450daoGuiNi.xml"/>
+      <xi:include href="1451faXuanNi.xml"/>
+      
+    </body>
+  </text>
+</TEI>

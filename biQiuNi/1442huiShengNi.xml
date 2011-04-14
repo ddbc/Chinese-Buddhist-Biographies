@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="bqnz0946c02huiShengNi">
+    <head><placeName key="CN0000000T16AA">閑居寺</placeName><ptr target="fn＊"/><persName key="A016120">慧勝</persName>尼<ptr target="fn32"/>傳五</head><p><anchor n="T.50.2063.0946c03"/><lb ed="T" n="0946c03"/><ptr target="fn＊"/><persName key="A016120">慧勝</persName>，本姓唐，<placeName key="CN0320303Z11AA">彭城</placeName>人也。父<persName key="A016127">僧智</persName>，<ptr target="fn33"/>寓<placeName key="CN0320106Z05AA">建康</placeName>。<persName key="A016120">勝</persName><lb ed="T" n="0946c04"/>幼願出家，正自立，希於語言，言必能行，<lb ed="T" n="0946c05"/>身無輕躁，旬日不出戶牖，見之者莫不敬異。<lb ed="T" n="0946c06"/>以宋<date from-iso="0444-02-06" key="j18832641883617" to-iso="0445-01-24">元嘉二十一年</date>出家，時年十八，為<persName key="A016046">淨秀</persName><lb ed="T" n="0946c07"/>尼弟子，住<placeName key="CN0000000T14AA">禪林寺</placeName>。<ptr target="fn34"/>具戒以後，講法華經。隨<lb ed="T" n="0946c08"/><ptr target="fn35"/><placeName key="CN0320102T30AA">集善寺</placeName><persName key="A003290">緒</persName>尼學五<ptr target="fn36"/>行禪。後從<placeName key="CN0320102T52AA">草堂寺</placeName><ptr target="fn37"/><persName key="A016130">思隱</persName>、<lb ed="T" n="0946c09"/><placeName key="CN0320101T62AA">靈根寺</placeName><persName key="A016131">法穎</persName>，備修觀<ptr target="fn38"/>行，奇相妙證，獨得懷<lb ed="T" n="0946c10"/>抱。人見而問之，皆答云：「罪無輕重，一時發露，<lb ed="T" n="0946c11"/>懺悔懇惻，以晝係夜。」貴賤崇敬，供施不斷。年<lb ed="T" n="0946c12"/>八十一，<date from-iso="0505-01-23" key="j19055301905913" to-iso="0506-02-10">梁天監四年</date>卒，葬于<placeName key="CN0000000A03AA">白板山</placeName>也。</p>
+    
+    <linkGrp>
+        <link targets="#0946c03 #0946c03"/>
+        <ptr target="#A016120" type="person"/>
+        <ptr target="#A016127" type="person"/>
+        <ptr target="#CN0320106Z05AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0946c11 #0946c12"/>
+        <ptr target="#A016120" type="person"/>
+        <ptr target="#j19055301905913" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0946c06 #0946c07"/>
+        <ptr target="#A016120" type="person"/>
+        <ptr target="#A016046" type="person"/>
+        <ptr target="#CN0000000T14AA" type="place"/>
+        <ptr target="#j18832641883617" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0946c08 #0946c08"/>
+        <ptr target="#A016120" type="person"/>
+        <ptr target="#A003290" type="person"/>
+        <ptr target="#CN0320102T30AA" type="place"/>
+        </linkGrp>
+    <linkGrp>
+        <link targets="#0946c08 #0946c09"/>
+        <ptr target="#A016120" type="person"/>
+        <ptr target="#A016130" type="person"/>
+        <ptr target="#CN0320102T52AA" type="place"/>
+        </linkGrp>
+    <linkGrp>
+        <link targets="#0946c08 #0946c10"/>
+        <ptr target="#A016120" type="person"/>
+        <ptr target="#A016131" type="person"/>
+        <ptr target="#CN0320101T62AA" type="place"/>
+        </linkGrp>
+</div>

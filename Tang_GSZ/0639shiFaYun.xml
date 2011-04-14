@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0664a19shiFaYun">
+    <p><anchor n="T.50.2060.0664a19"/><lb ed="T" n="0664a19"/><persName key="A006996">釋法運</persName>。姓鄧。<placeName key="CN0420802Z22AA">荊州長林</placeName>人。姿容挺秀。有拔<lb ed="T" n="0664a20"/>群之美。至於算曆五行。洞其幽致。傳述楚<lb ed="T" n="0664a21"/>二晦星。以<persName key="A006996">運</persName>為一也。後值<persName key="A006928">智曠禪師</persName>。誨以<lb ed="T" n="0664a22"/>出俗之資。便削除俗玩。剃髮入道。修學禪<lb ed="T" n="0664a23"/>要志樂閑寂。別於<placeName key="CN0420624T01AA">開聖</placeName>西北起一道場。如<lb ed="T" n="0664a24"/>常觀行不隔昏曉。嘗誦七佛呪等救濟。無<lb ed="T" n="0664a25"/>不輒應。<date key="j19434961946884" notAfter-iso="0618" notBefore-iso="0609">隋末</date>虎暴摩頂曰。天下正亂百姓<lb ed="T" n="0664a26"/>遑遑。汝可遠藏莫為他厭。及八營賊主<persName key="A007004">楊<lb ed="T" n="0664a27"/>道生</persName>承名迎接安置供給。<persName key="A006993">蕭銑</persName>次立又加<lb ed="T" n="0664a28"/>奉敬。所獲施物即入悲敬二田。又於<placeName key="CN0421003Z07AA">州</placeName>內<lb ed="T" n="0664a29"/>別置道場。號為<placeName key="CN0421003T13AA">龍歸精舍</placeName>。<persName key="A006993">銑</persName>乃請問興亡。<lb ed="T" n="0664b01"/>答曰。<persName key="A006996">貧道</persName>薄德不得久為善友。時不測其<lb ed="T" n="0664b02"/>言也。不久<persName key="A006995">趙郡王恭</persName>泝游兵至。又加頂謁<lb ed="T" n="0664b03"/>兵。又東下圖像隨身。又留一影令<persName key="A006996">運</persName>慈屬。<lb ed="T" n="0664b04"/>允所謂道德之感動也。嘗有信心士女。晨<lb ed="T" n="0664b05"/>夕供施。妖邪鬼怪見必迴心。社廟神祇悉<lb ed="T" n="0664b06"/>參歸戒。以<date key="j19469511950091" notAfter-iso="0627" notBefore-iso="0618">武德中</date>化往。春秋六十。葬於<placeName key="CN0420624T01AA">開<lb ed="T" n="0664b07"/>聖寺</placeName><persName key="A006928">智曠禪師</persName>塔側。</p>
+    <linkGrp> 
+        <link targets="#0664a19 #0664a19"/>
+        <ptr target="#A006996" type="person"/>
+        <ptr target="#CN0420802Z22AA" type="place"/>
+    </linkGrp>
+    <linkGrp> 
+        <link targets="#0664a20 #0664a24"/>
+        <ptr target="#A006996" type="person"/>
+        <ptr target="#A006928" type="person"/>
+        <ptr target="#CN0420624T01AA" type="place"/>
+    </linkGrp>
+    <linkGrp> 
+        <link targets="#0664a25 #0664a26"/>
+        <ptr target="#A006996" type="person"/>
+        <ptr target="#j19434961946884" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0664a25 #0664b01"/>
+        <ptr target="#A006996" type="person"/>
+        <ptr target="#A007004" type="person"/>
+        <ptr target="#A006993" type="person"/>
+        <ptr target="#CN0421003T13AA" type="place"/>
+        <ptr target="#j19434961946884" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0664b02 #0664b03"/>
+        <ptr target="#A006996" type="person"/>
+        <ptr target="#A006995" type="person"/>
+        <ptr target="#CN0421003Z07AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0664b06 #0664b07"/>
+        <ptr target="#A006996" type="person"/>
+        <ptr target="#CN0420624T01AA" type="place"/>
+        <ptr target="#j19469511950091" type="time"/>
+    </linkGrp>
+</div>

@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="bqnz0944b06chaoMingNi">
+    <head>錢<ptr target="fn19"/>塘<placeName key="CN0330109T07AA">齊明寺</placeName><persName key="A015970">超明</persName>尼<ptr target="fn20"/>傳十三</head><p><anchor n="T.50.2063.0944b07"/><lb ed="T" n="0944b07"/><persName key="A015970">超明</persName>，本姓范，<placeName key="CN0330106Z01AA">錢<ptr target="fn＊"/>塘</placeName>人。父<ptr target="fn21"/><persName key="A015976">先</persName>，少為國子生，世<lb ed="T" n="0944b08"/>奉大法。<persName key="A015970">明</persName>幼聰頴，雅有志尚，讀五經，善文義，<lb ed="T" n="0944b09"/>方正有禮，內外敬之。年二十一，夫<ptr target="fn22"/>亡寡居，鄉<lb ed="T" n="0944b10"/>隣求嫂，誓而<ptr target="fn23"/>弗許，因遂出家，住<placeName key="CN0000000T12AA">崇隱寺</placeName>。神理<lb ed="T" n="0944b11"/>明<ptr target="fn24"/>徹，道識清悟，聞吳縣<placeName key="CN0320504T06AA">北張寺</placeName>有<persName key="A015979">曇整</persName>法師，<lb ed="T" n="0944b12"/>道行精苦，從受具足。後往<placeName key="CN0000000M03AA">塗山</placeName>聽<persName key="A002263">慧基</persName>法師<lb ed="T" n="0944b13"/>講說眾經，便究義旨，一經於耳，退無不記。<placeName key="CN0300000D01AA">三<lb ed="T" n="0944b14"/>吳</placeName>士庶，內外崇敬。尋還錢<ptr target="fn＊"/>塘，移憩<placeName key="CN0330109T07AA">齊明寺</placeName>，年<lb ed="T" n="0944b15"/>六十餘，<date from-iso="0498-02-08" key="j19029901903080" to-iso="0498-05-09">建武五年</date>而卒<ptr target="fn＊"/>也。</p><p>時又有<persName key="A015984">法藏</persName>尼，<lb ed="T" n="0944b16"/>亦以學行馳名<ptr target="fn25"/>也。</p>
+    <linkGrp>
+        <link targets="#0944b07 #0944b08"/>
+        <ptr target="#A015970" type="person"/>
+        <ptr target="#A015976" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0944b14 #0944b15"/>
+        <ptr target="#A015970" type="person"/>
+        <ptr target="#j19029901903080" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0944b10 #0944b11"/>
+        <ptr target="#A015970" type="person"/>
+        <ptr target="#CN0000000T12AA" type="place"/>
+        </linkGrp>
+    <linkGrp>
+        <link targets="#0944b11 #0944b12"/>
+        <ptr target="#A015970" type="person"/>
+        <ptr target="#A015979" type="person"/>
+        <ptr target="#CN0320504T06AA" type="place"/>
+        </linkGrp>
+    <linkGrp>
+        <link targets="#0944b12 #0944b13"/>
+        <ptr target="#A015970" type="person"/>
+        <ptr target="#A002263" type="person"/>
+        <ptr target="#CN0000000M03AA" type="place"/>
+        </linkGrp>
+    <linkGrp>
+        <link targets="#0944b14 #0944b14"/>
+        <ptr target="#A015970" type="person"/>
+        <ptr target="#CN0330109T07AA" type="place"/>
+        </linkGrp>
+</div>

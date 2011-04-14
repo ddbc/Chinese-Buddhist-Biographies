@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0528c04shiGongHui">
+    <p><anchor n="T.50.2060.0528c04"/><lb ed="T" n="0528c04"/><persName key="A005677">釋功<ptr target="fn20"/>逈</persName>。姓邊。<placeName key="CN0410204Z14AA">汴州浚儀</placeName>人。年六歲便思出<lb ed="T" n="0528c05"/>家。慈親口授<persName key="A002803">觀音</persName>經。累<ptr target="fn21"/>月而度。自此專訓<lb ed="T" n="0528c06"/>經法。九歲而送在寺。年十六捨俗服志願<lb ed="T" n="0528c07"/>山居。因入<placeName key="CN0370902M01AA">泰岳</placeName>苦心忘倦。年二十五。便事<lb ed="T" n="0528c08"/><persName key="A005678">弘法師</persName>。私自惟曰。拱默山林。乃是一途獨<lb ed="T" n="0528c09"/>善。至於<ptr target="fn22"/>道達蒙瞽維持餘寄。非化誘不<lb ed="T" n="0528c10"/>弘。住<placeName key="CN0410224T02AA">汴州<ptr target="fn23"/>惠福寺</placeName>。昔在山中。十地勝鬘已<lb ed="T" n="0528c11"/>曾講解。及遊<placeName key="CN0410204Z13AA">城邑</placeName>人有知者勸而說之。遂<lb ed="T" n="0528c12"/>因闡揚。諸經論等亦備敷說。晚以法華特<lb ed="T" n="0528c13"/>為時要。便撰疏五卷。鎮常弘演。前後五十<lb ed="T" n="0528c14"/>餘遍。每至藥草品天必降雨。故其幽誠徵<lb ed="T" n="0528c15"/>感為若此也。其佛地般若制疏并講。津濟<lb ed="T" n="0528c16"/>後學。聲滿<placeName key="CN0000000E01AA">東川</placeName>。又撰無性攝論疏。厥功始<lb ed="T" n="0528c17"/>成。奄然長<ptr target="fn24"/>往<placeName key="CN0410224T02AA">本寺</placeName>。年六十六。餘聞之行人。<lb ed="T" n="0528c18"/>曰。其人少欲自節。衣布坐茅。所獲利祿隨<lb ed="T" n="0528c19"/>時散盡。房無<ptr target="fn25"/>櫃篋四壁廓然。未終之前。<lb ed="T" n="0528c20"/>異香靈光至所住室二夜四至。自覩嘉相。<lb ed="T" n="0528c21"/>門人同美。<persName key="A005677">逈</persName>曰。願乘此瑞往生<placeName key="XZ0000033A01AA">樂土</placeName>。因不<lb ed="T" n="0528c22"/>食二十日而終。所飲井水終旦泉竭。殯經數<lb ed="T" n="0528c23"/>日水方復舊。道俗悲涼。通感若此。</p>
+    <linkGrp>
+        <link targets="#0528c04 #0528c06"/>
+        <ptr target="#A005677" type="person"/>
+        <ptr target="#CN0410204Z14AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0528c06 #0528c07"/>
+        <ptr target="#A005677" type="person"/>
+        <ptr target="#CN0370902M01AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0528c07 #0528c08"/>
+        <ptr target="#A005677" type="person"/>
+        <ptr target="#A005678" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0528c10 #0528c17"/>
+        <ptr target="#A005677" type="person"/>
+        <ptr target="#CN0410224T02AA" type="place"/>
+        </linkGrp>
+</div>

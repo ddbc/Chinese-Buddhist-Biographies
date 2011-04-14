@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0655a05shiYouDe">
+    <p><anchor n="T.50.2060.0655a05"/><lb ed="T" n="0655a05"/><persName key="A006877">釋<ptr target="fn03"/>叉德</persName>。姓徐。雍州<placeName key="CN0610425Z05AA">醴泉</placeName><ptr target="fn04"/>人。形質長偉秀眉<lb ed="T" n="0655a06"/>骨面。立履清白服麁素衣。而放言來事多<lb ed="T" n="0655a07"/>所弘獎。年有凶暴毒<ptr target="fn05"/>勵流者。必先勸四<lb ed="T" n="0655a08"/>民令奉三寶。其所施設或禮佛設齋。或<lb ed="T" n="0655a09"/>稱名念誦。用其言者皆攘災禍。有不信者<lb ed="T" n="0655a10"/>莫不殃終。預記未然略如對目。時遭亢<lb ed="T" n="0655a11"/>旱。懼而問焉。<ptr target="fn06"/><persName key="A006877">叉</persName>以手指撝。某日當雨。但<lb ed="T" n="0655a12"/>齊某處。約時雨至。必如其言。或蝗暴廣狹。<lb ed="T" n="0655a13"/>澤潤淺深。事符明鏡不漏纖失。且執志清<lb ed="T" n="0655a14"/>慎。不濫刑科。力所未<ptr target="fn07"/>行不受其法。故壯<lb ed="T" n="0655a15"/>年在道惟遵十戒。而於篇聚雜相。多所承<lb ed="T" n="0655a16"/>修。末於<placeName key="CN0610425M01AA">九峻山</placeName>南。造<placeName key="CN0610425M01AB">阿耨達池</placeName>。并鐫石鉢。<lb ed="T" n="0655a17"/>即於池側用濟眾生。以<date key="j19541081954491" from-iso="0638-01-24" to-iso="0639-02-11">貞觀十二年</date>。卒於<lb ed="T" n="0655a18"/>山舍。百姓感焉。為起白塔。<ptr target="fn08"/>苕然<ptr target="fn09"/>上表。</p>
+    <linkGrp>
+        <link targets="#0655a05 #0655a05"/>
+        <ptr target="#A006877" type="person"/>
+        <ptr target="#CN0610425Z05AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0655a16 #0655a17"/>
+        <ptr target="#A006877" type="person"/>
+        <ptr target="#CN0610425M01AB" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0655a16 #0655a18"/>
+        <ptr target="#A006877" type="person"/>
+        <ptr target="#CN0610425M01AA" type="place"/>
+    </linkGrp>
+</div>

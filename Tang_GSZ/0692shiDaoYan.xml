@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0676c08shiDaoYan">
+    <p><anchor n="T.50.2060.0676c08"/><lb ed="T" n="0676c08"/><persName key="A007336">釋道顏</persName>。姓李氏。<placeName key="CN0130682Z15AA">定州</placeName>人。初學<persName key="A002000">遠公</persName>涅槃十<lb ed="T" n="0676c09"/>地。領牒樞紐。最所殷贍。<ptr target="fn24"/>仍頻講授門學聯<lb ed="T" n="0676c10"/>塵。道啟東川開悟不少。後入<placeName key="CN0610102Z14AA">京輦</placeName>還住<lb ed="T" n="0676c11"/><placeName key="CN0610113T13AA">淨影寺</placeName>。當<persName key="A002000">遠</persName>盛世居宗紹業。<date key="j19406121942058" notAfter-iso="0605" notBefore-iso="0601">仁壽中年</date>。置<lb ed="T" n="0676c12"/>塔<placeName key="CN0000000E01AA">赤縣</placeName>。下勅徵召送舍利于<placeName key="CN0450302Z12AA">桂州</placeName>。初入州<lb ed="T" n="0676c13"/>境。有鳥數千齊飛。行列來迎輿上。從野入<lb ed="T" n="0676c14"/>城良久方散。及下安處。感五色雲靉靆垂<lb ed="T" n="0676c15"/>布屯聚基上。餘便廓清日曜天地。後返<placeName key="CN0610102Z14AA">京<lb ed="T" n="0676c16"/>邑</placeName>常<ptr target="fn25"/>尊上業。<date key="j19469511949949" notAfter-iso="0626" notBefore-iso="0618">唐運惟新</date>宇內尚梗。崇樹齋<lb ed="T" n="0676c17"/>講相循<placeName key="CN0610113T13AA">淨影</placeName>。因疾而卒。春秋七十餘。即<date key="j19482901948643" from-iso="0622-02-19" to-iso="0623-02-07">武<lb ed="T" n="0676c18"/>德五年</date>矣。臨終清漱。手執香爐。若有所見<lb ed="T" n="0676c19"/>奄然而逝。自<persName key="A007336">顏</persName>之處世也。衣服麁素不妄<lb ed="T" n="0676c20"/>朋從。行必以時情避嫌<ptr target="fn26"/>郄。言必詳審深惟<lb ed="T" n="0676c21"/>物忤。又兼濟禽畜慈育在心。微經惱頓便<lb ed="T" n="0676c22"/>即垂泣。不忽童稚不行楚叱。縱有輕陵<lb ed="T" n="0676c23"/>事同風拂。顧諸屬曰。不久去也何煩累人。<lb ed="T" n="0676c24"/>故於無常得其旨矣。</p>
+    <linkGrp>
+        <link targets="#0676c08 #0676c08"/>
+        <ptr target="#A007336" type="person"/>
+        <ptr target="#CN0130682Z15AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0676c08 #0676c09"/>
+        <ptr target="#A007336" type="person"/>
+        <ptr target="#A002000" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0676c10 #0676c11"/>
+        <ptr target="#A007336" type="person"/>
+        <ptr target="#A002000" type="person"/>
+        <ptr target="#CN0610113T13AA" type="place"/>
+        </linkGrp>
+    <linkGrp>
+        <link targets="#0676c11 #0676c15"/>
+        <ptr target="#A007336" type="person"/>
+        <ptr target="#CN0450302Z12AA" type="place"/>
+        <ptr target="#j19406121942058" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0676c15 #0676c16"/>
+        <ptr target="#A007336" type="person"/>
+        <ptr target="#CN0610102Z14AA" type="place"/>
+        </linkGrp>
+    <linkGrp>
+        <link targets="#0676c16 #0676c17"/>
+        <ptr target="#A007336" type="person"/>
+        <ptr target="#CN0610113T13AA" type="place"/>
+        <ptr target="#j19469511949949" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0676c16 #0676c18"/>
+        <ptr target="#A007336" type="person"/>
+        <ptr target="#CN0610113T13AA" type="place"/>
+        <ptr target="#j19482901948643" type="time"/>
+    </linkGrp>
+</div>

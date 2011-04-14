@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0649b21shiSengYuan">
+    <p><anchor n="T.50.2060.0649b21"/><lb ed="T" n="0649b21"/><persName key="A006832">釋僧遠</persName>。不知何人。住梁州<placeName key="CN0610702T01AA">薛寺</placeName>為性疎誕<lb ed="T" n="0649b22"/>不修細行。好追隨流<ptr target="fn12"/>蕩歡醼為任。以<date key="j19300111930394" from-iso="0572-02-02" to-iso="0573-02-19">齊武<lb ed="T" n="0649b23"/>平三年</date>。夢見大人。切齒責<persName key="A006832">之</persName>曰。<persName key="A006832">汝</persName>是出家<lb ed="T" n="0649b24"/>人。面目如此。<ptr target="fn13"/>猶縱造惡。何不取鏡自照。<lb ed="T" n="0649b25"/><persName key="A006832">遠</persName>忽<ptr target="fn14"/>覺悸流汗。至曉以盆水自映。乃見<lb ed="T" n="0649b26"/>眼邊烏黯。謂是垢汗。便洗拭之。眉毛一時隨<lb ed="T" n="0649b27"/>手落盡。因自咎責。奈<ptr target="fn15"/>遭此譴。遂改革常<lb ed="T" n="0649b28"/>習<ptr target="fn16"/>反形易性。弊衣破履一食長齋。遵奉律<lb ed="T" n="0649b29"/>儀。昏曉行悔。悲淚交注。經一月餘日又夢。<lb ed="T" n="0649c01"/>前人含笑謂曰。知過能改。是謂智乎。赦<persName key="A006832">汝</persName><lb ed="T" n="0649c02"/>前愆。勿復相續。忽驚喜而覺。流汗遍身面<lb ed="T" n="0649c03"/>目津潤眉毛漸出。<persName key="A006832">遠</persName><ptr target="fn17"/>頻感兩報信知三世。<lb ed="T" n="0649c04"/>自後竭精奉法。中不暫怠。卒為練行僧也。<lb ed="T" n="0649c05"/>鄉川所歸終於本土。</p>
+    <linkGrp>
+        <link targets="#0649b21 #0649c05"/>
+        <ptr target="#A006832" type="person"/>
+        <ptr target="#CN0610702T01AA" type="place"/>
+        <ptr target="#j19300111930394" type="time"/>
+    </linkGrp>
+</div>

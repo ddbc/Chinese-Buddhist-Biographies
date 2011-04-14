@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0381a27shiZhiShun">
+	<p><anchor n="T.50.2059.0381a27"/><lb ed="T" n="0381a27"/><persName key="A002273">釋智順</persName>，本姓徐，<placeName key="CN0371325Z13AA">瑯瑘臨沂</placeName>人。<date key="j18894391889803" from-iso="0461-01-02" to-iso="0462-01-01">年十五</date>出家，<lb ed="T" n="0381a28"/>事<placeName key="CN0320102T18AA">鍾山延賢寺</placeName><persName key="A003143">智度</persName>為師。少而聰頴，篤志過<lb ed="T" n="0381a29"/><ptr target="fn08"/>人。雖年在息慈，而學功已<ptr target="fn09"/>積。及受具<lb ed="T" n="0381b01"/>戒，秉<ptr target="fn10"/>禁無疵。陶練眾經，而獨步於《涅槃》、《成<lb ed="T" n="0381b02"/>實》。講說徒眾，常數百餘人。嘗以事生非慮，<lb ed="T" n="0381b03"/>頗致坎折，而貞素確然，其徽無點。<persName key="A002655">齊竟陵文<lb ed="T" n="0381b04"/>宣王</persName>特深禮異，為修<placeName key="CN0320103T07AA">治城寺</placeName>以居之。司空<lb ed="T" n="0381b05"/><persName key="A003126">徐孝嗣</persName>亦崇其行解，奉以師敬。及<persName key="A003144">東昏</persName>失<lb ed="T" n="0381b06"/>德，<persName key="A003126">孝嗣</persName>被誅，子<persName key="A003145">緄</persName>逃竄避禍，<persName key="A002273">順</persName>身自營護，卒<lb ed="T" n="0381b07"/>以<ptr target="fn11"/>見免。<persName key="A003145">緄</persName>後重加資俸，一無所受。嘗有夜<lb ed="T" n="0381b08"/>盜<persName key="A002273">順</persName>者，淨人追而擒之。<persName key="A002273">順</persName>留盜宿于房內，<lb ed="T" n="0381b09"/>明旦遺以錢絹，喻而遣之。其仁洽篤恕如<lb ed="T" n="0381b10"/>此。後東遊<placeName key="CN0330602A01AA">禹穴</placeName>，止于<placeName key="CN0330621T05AA">雲門精舍</placeName>。法輪之盛，<lb ed="T" n="0381b11"/>復見江左。</p><p><persName key="A002273">順</persName>為人<ptr target="fn12"/>謙虛恭恪，形器若神，風<lb ed="T" n="0381b12"/>軌<ptr target="fn13"/>嚴厲，動無失厝。故士庶瞻<ptr target="fn＊"/>禮，常有懼<lb ed="T" n="0381b13"/>焉。以<date key="j19062681906651" from-iso="0507-01-31" to-iso="0508-02-18">天鑒六年</date>卒于<placeName key="CN0330621T05AA">山寺</placeName>，春秋六十一。</p><p>初<lb ed="T" n="0381b14"/><persName key="A002273">順</persName>之疾甚，不食多日，一時中竟忽索齋<ptr target="fn14"/>飲。弟<lb ed="T" n="0381b15"/>子<persName key="A003146">曇和</persName>以<persName key="A002273">順</persName>絕穀日久，密以半合米雜煮<lb ed="T" n="0381b16"/>以進<persName key="A002273">順</persName>。<persName key="A002273">順</persName>咽而還吐，索水<ptr target="fn15"/>洒漱。語<persName key="A003146">和</persName>云：「<lb ed="T" n="0381b17"/><persName key="A003146">汝</persName>永出<placeName key="CN0330621T05AA">雲門</placeName>，不得還住。」其執節<ptr target="fn16"/>清苦皆此<lb ed="T" n="0381b18"/>之類。臨終之日，房內頗聞異香，亦有<ptr target="fn17"/>見天<lb ed="T" n="0381b19"/>蓋者。遺命露骸空地，以施蟲鳥。門人不忍<lb ed="T" n="0381b20"/>行之，乃窆于寺側。弟子等立碑頌德，<placeName key="CN0411624Z17AA">陳<lb ed="T" n="0381b21"/>郡</placeName><persName key="A003147">袁昂</persName>製文，<placeName key="CN0330483T02AA">法華寺</placeName><persName key="A003148">釋<ptr target="fn18"/>慧舉</persName>又為之墓誌。<lb ed="T" n="0381b22"/><persName key="A002273">順</persName>所著〈法事<ptr target="fn＊"/>贊〉及〈受戒〉、〈弘法〉等記，皆行於<lb ed="T" n="0381b23"/>世。</p>
+	<linkGrp>
+		<link targets="#0381b03 #0381b04"/>
+		<ptr target="#A002273" type="person"/>
+		<ptr target="#A002655" type="person"/>
+		<ptr target="#CN0320103T07AA" type="place"/>
+	</linkGrp>
+	<linkGrp>
+		<link targets="#0381b04 #0381b05"/>
+		<ptr target="#A002273" type="person"/>
+		<ptr target="#A003126" type="person"/>
+	</linkGrp>
+	<linkGrp>
+		<link targets="#0381b05 #0381b07"/>
+		<ptr target="#A002273" type="person"/>
+		<ptr target="#A003145" type="person"/>
+	</linkGrp>
+	<linkGrp>
+		<link targets="#0381b10 #0381b10"/>
+		<ptr target="#A002273" type="person"/>
+		<ptr target="#CN0330621T05AA" type="place"/>
+	</linkGrp>
+	<linkGrp>
+		<link targets="#0381b14 #0381b17"/>
+		<ptr target="#A002273" type="person"/>
+		<ptr target="#A003146" type="person"/>
+		<ptr target="#CN0330621T05AA" type="place"/>
+	</linkGrp>
+	<linkGrp>
+		<link targets="#0381b21 #0381b23"/>
+		<ptr target="#A003148" type="person"/>
+		<ptr target="#CN0330483T02AA" type="place"/>
+	</linkGrp>
+	<linkGrp>
+		<link targets="#0381a27 #0381a28"/>
+		<ptr target="#A002273" type="person"/>
+		<ptr target="#A003143" type="person"/>
+		<ptr target="#j18894391889803" type="time"/>
+	</linkGrp>
+	<linkGrp>
+		<link targets="#0381b13 #0381b13"/>
+		<ptr target="#A002273" type="person"/>
+		<ptr target="#CN0330621T05AA" type="place"/>
+		<ptr target="#j19062681906651" type="time"/>
+	</linkGrp>
+</div>

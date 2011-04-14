@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0393c21shiHuiTong">
+    <p><anchor n="T.50.2059.0393c21"/><lb ed="T" n="0393c21"/><persName key="A002295">釋慧通</persName>，不知何許人<ptr target="fn＊"/>也。<date key="j18761761886925" notAfter-iso="0454" notBefore-iso="0424">宋元嘉</date>中，見在<placeName key="CN0341521Z56AA">壽<lb ed="T" n="0393c22"/>春</placeName>，衣服趨爾，寢宿無定，遊歷村里，飲讌食<lb ed="T" n="0393c23"/>噉不異恒人。常自稱<persName key="A002295">鄭散騎</persName>，言未然之事，<lb ed="T" n="0393c24"/>頗時有驗。<placeName key="CN0421003Z03AA">江陵</placeName>邊有<persName key="A003289">僧歸</persName>者，遊賈<placeName key="CN0341521Z56AA">壽春</placeName>。將<lb ed="T" n="0393c25"/>應反鄉，路值<persName key="A002295">慧通</persName>，稱欲寄物。僧歸時自負<lb ed="T" n="0393c26"/>重擔，固以致辭。遂強置擔上，而了不覺重。<lb ed="T" n="0393c27"/>行數里，便別去，謂僧歸曰：「<persName key="A002295">我</persName>有姊。在<placeName key="CN0421003Z03AA">江陵</placeName><lb ed="T" n="0393c28"/>作尼，名<ptr target="fn＊"/><persName key="A003290">惠緒</persName>，住<placeName key="CN0422421T01AA">三層寺</placeName>，<persName key="A003289">君</persName>可為我相聞，<lb ed="T" n="0393c29"/>道尋欲往。」言訖忽然不見。顧視擔上，所寄<lb ed="T" n="0394a01"/>物亦失。</p><p>僧歸既至，尋得<persName key="A003290">慧緒</persName>，具說其意。<persName key="A003290">緒</persName><lb ed="T" n="0394a02"/>既無此弟，亦不知何以而然。乃自往<ptr target="fn01"/>來<placeName key="CN0341521Z56AA">壽<lb ed="T" n="0394a03"/>春</placeName>尋之，竟不相見。<persName key="A002295">通</persName>後自往<placeName key="CN0421003Z03AA">江陵</placeName>，而<persName key="A003290">慧緒</persName><lb ed="T" n="0394a04"/>已死。入其房中，訊問委悉，因留<placeName key="CN0421003Z03AA">江陵</placeName>少時。<lb ed="T" n="0394a05"/>路由人家墳墓，無不悉其氏族死亡年月。<lb ed="T" n="0394a06"/>傳以相問，並如其言。或時懸指偷劫，道其<lb ed="T" n="0394a07"/>罪狀，於是群盜遙見通者，輒間行避走。又<lb ed="T" n="0394a08"/>於<placeName key="CN0421002Z10AA">江津</placeName>路值一人，忽以杖打之，語云：「可<lb ed="T" n="0394a09"/>駛歸去，看汝家若為？」此人至家，果<ptr target="fn02"/>為延火<lb ed="T" n="0394a10"/>所及，舍物蕩盡。</p><p><date key="j19033451904141" notAfter-iso="0501" notBefore-iso="0499">齊永元</date>初，忽就相識人<persName key="A003291">任漾</persName><lb ed="T" n="0394a11"/>求酒甚急，云：「今應遠行，不復相見。為謝諸<lb ed="T" n="0394a12"/>知識，並宜精懃修善為先。」飲酒畢，至牆邊<lb ed="T" n="0394a13"/>臥地。就看已死。後數十日，復有人於市中<lb ed="T" n="0394a14"/>見<persName key="A002295">之</persName>。追及共語，久之乃失。</p>
+    <linkGrp>
+        <link targets="#0393c24 #0393c29"/>
+        <ptr target="#A002295" type="person"/>
+        <ptr target="#A003289" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0394a01 #0394a02"/>
+        <ptr target="#A002295" type="person"/>
+        <ptr target="#A003290" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0394a03 #0394a05"/>
+        <ptr target="#A002295" type="person"/>
+        <ptr target="#CN0421003Z03AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0393c28 #0393c28"/>
+        <ptr target="#A003290" type="person"/>
+        <ptr target="#CN0422421T01AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0394a07 #0394a10"/>
+        <ptr target="#A002295" type="person"/>
+        <ptr target="#CN0421002Z10AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0393c21 #0393c22"/>
+        <ptr target="#A002295" type="person"/>
+        <ptr target="#CN0341521Z56AA" type="place"/>
+        <ptr target="#j18761761886925" type="time"/>
+    </linkGrp>
+</div>

@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0505c14shiFaZong">
+    <p><anchor n="T.50.2060.0505c14"/><lb ed="T" n="0505c14"/><persName key="A005464">釋法總</persName>。姓段氏。<placeName key="CN0140110Z03AA">并州太原</placeName>人也。少以誦涅<lb ed="T" n="0505c15"/>槃為業。既通全部。志在文言。未遑聽涉。<lb ed="T" n="0505c16"/>十餘年中初不替廢。後聽玄義便即傳講。<lb ed="T" n="0505c17"/>前後二紀領悟非一。而寬厚遜仰為物歸投。<lb ed="T" n="0505c18"/><date key="j19333311940611" notAfter-iso="0601" notBefore-iso="0581">開皇<ptr target="fn24"/>中年</date>。勅召為涅槃眾主。居于<placeName key="CN0610103T20AA">海覺</placeName>。聚<lb ed="T" n="0505c19"/>結四方常敷至理。無捨炎燠。<date key="j19406121940932" notAfter-iso="0601" notBefore-iso="0601">仁壽歲初</date>。勅<lb ed="T" n="0505c20"/>送舍利于<placeName key="CN0421302T01AA">隋州之智門寺</placeName>。掘基三尺。獲神<lb ed="T" n="0505c21"/>龜一枚。色黃且綠狀如彩繡。頭有八字云。<lb ed="T" n="0505c22"/>上大王八萬七千年。腹下有王興二字。馳步<lb ed="T" n="0505c23"/>往來都無所食。及舍利所。由令人治道。於<lb ed="T" n="0505c24"/>隋侯。橋側柳樹又雨甘露。狀如雨下。香甜<lb ed="T" n="0505c25"/>濃潤眾共飲之。<persName key="A005464">總</persName>乃表聞。<persName key="A004324">帝</persName>敬謁靈祥。恒<lb ed="T" n="0505c26"/>以此龜置於御座。與臣下觀之。有經年<lb ed="T" n="0505c27"/>月。<persName key="A004324">帝</persName>遊<placeName key="CN0610102A20AA">北苑</placeName>放之清池。雖<ptr target="fn25"/>汎泳少時。還<lb ed="T" n="0505c28"/>出遶池。<ptr target="fn26"/>隨逐<persName key="A004324">帝</persName>躬前後非一。陪衛咸覩共<lb ed="T" n="0505c29"/>欣徵感。及<date key="j19417051941792" from-iso="0604-02-09" to-iso="0604-05-06">四年春</date>。又勅送舍利于<placeName key="CN0211002T01AA">遼州下<lb ed="T" n="0506a01"/>生寺</placeName>。放光分粒其相極多。石函變為錦文<lb ed="T" n="0506a02"/>及童子之<ptr target="fn01"/>象。函之北面現於雙樹。下有臥<lb ed="T" n="0506a03"/>佛。又於函南現金剛捉杵擬山之相。又於<lb ed="T" n="0506a04"/>函東現二佛俱立。并一騏驎。又於凾西現<lb ed="T" n="0506a05"/>一菩薩并一神尼。曲身合掌向於菩薩。更<lb ed="T" n="0506a06"/>有諸相。略不述之。又放大光<ptr target="fn02"/>聊亂而起。<lb ed="T" n="0506a07"/>動眩人目從<ptr target="fn03"/>冥達曉。諸燈雖滅而光續<lb ed="T" n="0506a08"/>照不異日月之明。爾夕陰雨。佛堂鵄吻放<lb ed="T" n="0506a09"/>於黃光。飛移東南。三百餘步。外人謂火。走<lb ed="T" n="0506a10"/>赴知非。尋光所發。乃從堂中舍利處。出眾<lb ed="T" n="0506a11"/>皆通見大發道心。八日將下五色雲蓋覆<lb ed="T" n="0506a12"/>于塔上。又感奇鳥素身烏尾赤觜口銜片<lb ed="T" n="0506a13"/>雲狀如華蓋亦現塔上。斯瑞之感。五萬餘<lb ed="T" n="0506a14"/>人一時同見。及<ptr target="fn04"/>墳下訖雲鳥皆滅。<date key="j19418011941801" when-iso="0604-05-15">四月九<lb ed="T" n="0506a15"/>日</date>基上放光。分為五道直西而去。色如<ptr target="fn05"/>采<lb ed="T" n="0506a16"/>畫。數百里引之。見者非一。<persName key="A005464">總</persName>躬臨此瑞。喜<lb ed="T" n="0506a17"/>發內心。具圖上聞。勅封祕閣。後因故業講<lb ed="T" n="0506a18"/>誦不疲。<date key="j19420591946768" notAfter-iso="0617" notBefore-iso="0605">大業年中</date>卒於<placeName key="CN0610103T20AA">海覺</placeName>。春秋七十矣。<lb ed="T" n="0506a19"/>門人<persName key="A005465">行等</persName>。<persName key="A002384">玄會</persName>嗣續擅名。見于別傳。</p>
+    <linkGrp>
+        <link targets="#0505c14 #0505c16"/>
+        <ptr target="#A005464" type="person"/>
+        <ptr target="#CN0140110Z03AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0505c18 #0505c18"/>
+        <ptr target="#A005464" type="person"/>
+        <ptr target="#CN0610103T20AA" type="place"/>
+        <ptr target="#j19333311940611" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0505c19 #0505c25"/>
+        <ptr target="#A005464" type="person"/>
+        <ptr target="#CN0421302T01AA" type="place"/>
+        <ptr target="#j19406121940932" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0505c25 #0505c29"/>
+        <ptr target="#A005464" type="person"/>
+        <ptr target="#A004324" type="person"/>
+        <ptr target="#CN0610102A20AA" type="place"/>
+        <ptr target="#j19406121940932" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0505c29 #0506a14"/>
+        <ptr target="#A005464" type="person"/>
+        <ptr target="#CN0211002T01AA" type="place"/>
+        <ptr target="#j19417051941792" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#05056a14 #0506a17"/>
+        <ptr target="#A005464" type="person"/>
+        <ptr target="#CN0211002T01AA" type="place"/>
+        <ptr target="#j19418011941801" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#05056a18 #0506a19"/>
+        <ptr target="#A005464" type="person"/>
+        <ptr target="#A005465" type="person"/>
+        <ptr target="#A002384" type="person"/>
+        <ptr target="#CN0610103T20AA" type="place"/>
+        <ptr target="#j19420591946768" type="time"/>
+    </linkGrp>
+</div>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="bqnz0937a07daoYiNi">
+    <head><placeName key="CN0320106T36AA">何后寺</placeName><persName key="A002830">道儀</persName>尼傳十三</head><p><anchor n="T.50.2063.0937a08"/><lb ed="T" n="0937a08"/><persName key="A002830">道儀</persName>，本姓賈，雁門<ptr target="fn6"/><placeName key="CN0140927Z15AA">婁煩</placeName>人。<ptr target="fn7"/><persName key="A001204">慧遠</persName><ptr target="fn8"/>之姑。出<lb ed="T" n="0937a09"/><ptr target="fn9"/>適同郡<persName key="A019381">解直</persName>，<persName key="A019381">直</persName>為<ptr target="fn10"/><placeName key="CN0360421Z08AA">尋陽</placeName>令，亡，<persName key="A002830">儀</persName>年二十二，<lb ed="T" n="0937a10"/>棄捨俗累，披著法衣，聰明敏哲，博聞強記。誦<lb ed="T" n="0937a11"/>法華經，講維摩、小品，精義<ptr target="fn11"/>妙理，因心獨悟，戒<lb ed="T" n="0937a12"/>行高峻，神氣清邈。聞中畿經律漸備，講集相<lb ed="T" n="0937a13"/>續。<date key="j18641131866007" notAfter-iso="0396-11-07" notBefore-iso="0391-09-01">晉泰元末</date>，<ptr target="fn12"/>乃至<placeName key="CN0320106Z06AA">京師</placeName>，住<placeName key="CN0320106T36AA">何后寺</placeName>。端心律藏，<lb ed="T" n="0937a14"/>妙究精微，身執卑恭，在幽不惰，衣裳麁弊，自<lb ed="T" n="0937a15"/>執杖鉢，清散無矯，道俗高之。年七十八，遇疾<lb ed="T" n="0937a16"/><ptr target="fn13"/>已篤，執心彌勵，誦念無殆。弟子請曰：「願加<lb ed="T" n="0937a17"/>消息，冀蒙勝損。」答曰：「<ptr target="fn14"/>非所宜言。」<ptr target="fn15"/>言絕而卒。</p>
+    <linkGrp>
+        <link targets="#0937a08 #0937a08"/>
+        <ptr target="#A002830" type="person"/>
+        <ptr target="#A001204" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0937a08 #0937a09"/>
+        <ptr target="#A002830" type="person"/>
+        <ptr target="#A019381" type="person"/>
+        <ptr target="#CN0360421Z08AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0937a13 #0937a14"/>
+        <ptr target="#A002830" type="person"/>
+        <ptr target="#CN0320106Z06AA" type="place"/>
+        <ptr target="#j18641131866007" type="time"/>
+    </linkGrp>
+</div>

@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0404c11shiFaYu">
+    <p><anchor n="T.50.2059.0404c11"/><lb ed="T" n="0404c11"/><persName key="A002332">釋法羽</persName>，<placeName key="CN0130423Z24AA">冀州</placeName>人。十五出家，為<persName key="A003393">慧始</persName>弟子。<persName key="A003393">始</persName><lb ed="T" n="0404c12"/>立行精苦，修頭陀之業。<persName key="A002332">羽</persName>操心<ptr target="fn24"/>勇猛，深達<lb ed="T" n="0404c13"/>其道。常欲仰軌藥王，燒身供養。時<ptr target="fn25"/>偽晉<lb ed="T" n="0404c14"/>王<persName key="A002768">姚緒</persName>鎮<placeName key="CN0140881Z34AA">蒱坂</placeName>，<persName key="A002332">羽</persName>以事白<persName key="A002768">緒</persName>，<persName key="A002768">緒</persName>曰：「入道多<lb ed="T" n="0404c15"/>方，何必燒身，不敢固違，幸願三思。」<persName key="A002332">羽</persName>誓志<lb ed="T" n="0404c16"/>既重，即服香<ptr target="fn26"/>屑，以布纏體，誦〈捨身品〉竟，<lb ed="T" n="0404c17"/>以火自燎。道俗觀視，莫不悲慕焉。時年四<lb ed="T" n="0404c18"/>十有五。</p>
+    <linkGrp>
+        <link targets="#0404c11 #0404c11"/>
+        <ptr target="#A002332" type="person"/>
+        <ptr target="#A003393" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0404c13 #0404c15"/>
+        <ptr target="#A002332" type="person"/>
+        <ptr target="#A002768" type="person"/>
+        <ptr target="#CN0140881Z34AA" type="place"/>
+        </linkGrp>
+</div>

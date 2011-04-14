@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="bqnz0938c15shiHuiMuNi">
+    <head>梁郡<placeName key="CN0000000T06AA">築<ptr target="fn42"/>戈村寺</placeName><ptr target="fn＊"/><persName key="A015275">釋慧木</persName>尼<ptr target="fn43"/>傳九</head><p><anchor n="T.50.2063.0938c16"/><lb ed="T" n="0938c16"/><persName key="A015275">慧木</persName>，本姓傅，<placeName key="CN0610204Z16AA">北地</placeName>人。十一出家，師事<persName key="A015276">慧超</persName>，受<lb ed="T" n="0938c17"/>持<ptr target="fn44"/>小戒。居梁郡<placeName key="CN0000000T06AA">築<ptr target="fn45"/>戈村寺</placeName>，始讀大品，日誦<lb ed="T" n="0938c18"/>兩卷，兼通雜經。木母老病，口中無齒，<ptr target="fn46"/><persName key="A015275">木</persName>嚼<lb ed="T" n="0938c19"/>脯飴母，為口不淨，不受大戒。<ptr target="fn47"/>白衣精勤，懺悔<lb ed="T" n="0938c20"/>自業。忽見戒壇與天皆黃金色，舉頭仰視，南<lb ed="T" n="0938c21"/>見一人，著襈衣，衣色悉黃，去<persName key="A015275">木</persName>或近或遠，語<lb ed="T" n="0938c22"/><persName key="A015275">木</persName>曰：「我已授汝戒。」尋復不見，<persName key="A015275">木</persName>不以語人。多<lb ed="T" n="0938c23"/>諸感異，皆類此也。木兄聞，欲知，乃詐之曰：「<ref target="#A015275" type="person">汝</ref><lb ed="T" n="0938c24"/>為道積年，竟無所益，便可養髮，當為訪婿。」<persName key="A015275">木</persName><lb ed="T" n="0938c25"/>聞心愁，因述所見，即受具戒。臨受戒夕，夢人<lb ed="T" n="0938c26"/>口授戒本，及受戒竟，再覽便誦。宋<date from-iso="0424-09-18" key="j18761841886591" to-iso="0453-03-17">元嘉</date>中，造<lb ed="T" n="0938c27"/>十方佛像，并四部戒本及羯<ptr target="fn48"/>磨，施四眾云。</p>
+    <linkGrp>
+        <link targets="#0938c17 #0938c17"/>
+        <ptr target="#A015275" type="person"/>
+        <ptr target="#CN0000000T06AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0938c26 #0938c27"/>
+        <ptr target="#A015275" type="person"/>
+        <ptr target="#j18761841886591" type="time"/>
+    </linkGrp>
+</div>

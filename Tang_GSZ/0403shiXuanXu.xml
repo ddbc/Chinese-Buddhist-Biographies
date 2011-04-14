@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0530c28shiXuanXu">
+    <p><anchor n="T.50.2060.0530c28"/><lb ed="T" n="0530c28"/><persName key="A005699">釋玄續</persName>。姓桑。<placeName key="CN0510108Z11AA">蜀郡成都</placeName>人。出家既久。經綸道<lb ed="T" n="0530c29"/>業。涅槃成實所學之宗。常講法華導引蒙<lb ed="T" n="0531a01"/>曉。然風彩高峻容止方複。言談之際機<ptr target="fn01"/>俊變<lb ed="T" n="0531a02"/>通。達外書工草隷。時吐篇什繼美前修。<lb ed="T" n="0531a03"/>又能折節下人。僮少道俗有才調者。命來<lb ed="T" n="0531a04"/>與語愛而狎之。至於侯王雄伯名儒大德。便<lb ed="T" n="0531a05"/>傲然特立。不以介意。而神爽更高辯<ptr target="fn02"/>給電<lb ed="T" n="0531a06"/>疾。有<placeName key="CN0510722Z25AA">梓州</placeName>東曹掾<persName key="A005700">蕭平仲</persName>者。<persName key="A002098">梁高</persName>之孫也。博<lb ed="T" n="0531a07"/>學機關當時絕偶。往參談敘文集相示。<persName key="A005700">平仲</persName><lb ed="T" n="0531a08"/>尚之從容曰。仰承高懷蔑略諸貴等。今蒙<lb ed="T" n="0531a09"/>禮顧深愧非人。<persName key="A005699">續</persName>曰。諸貴驕蹇須以驕蹇<lb ed="T" n="0531a10"/>對之。明公汎愛。故以汎愛相答。<persName key="A005700">仲</persName>曰。<persName key="A005699">法師</persName><lb ed="T" n="0531a11"/>從來不爾。今日忽然。疑是虛談恐非實錄。<lb ed="T" n="0531a12"/>答曰。<persName key="A005699">貧道</persName>待<persName key="A005700">公</persName>之虛實。亦如<persName key="A005700">公</persName>遇<persName key="A005699">續</persName>之實<lb ed="T" n="0531a13"/>虛耳。相與驩笑。嘗為<placeName key="CN0510108T35AA">寶園寺</placeName>製碑銘。中有<lb ed="T" n="0531a14"/>彈<persName key="A002104">老</persName><persName key="A002718">莊</persName>曰。<persName key="A002104">老</persName>稱聖者<persName key="A002718">莊</persName>號哲人。持螢比<lb ed="T" n="0531a15"/>日用岳方塵。屬有祭江道士<persName key="A005701">憑善英</persName>。過寺<lb ed="T" n="0531a16"/>禮拜見而惡之謂<persName key="A005699">續</persName>曰。文章各談其美。苦<lb ed="T" n="0531a17"/>相誹毀未識所懷。若不除改。<persName key="A005701">我</persName>是勅使當<lb ed="T" n="0531a18"/>即奏聞。<persName key="A005699">續</persName>曰。文<ptr target="fn03"/>之體勢非爾所知。若稱勅<lb ed="T" n="0531a19"/>使欲相威愶者。<persName key="A005699">我</persName>寺內年別差人當莊。此<lb ed="T" n="0531a20"/>是勅許。亦是勅使。<persName key="A005701">卿</persName>欲奏<persName key="A005699">我</persName>。<persName key="A005699">我</persName>當莊人亦<lb ed="T" n="0531a21"/>能奏<persName key="A005701">卿</persName>。英雖大恨無如之何。寺僧五十。雖<lb ed="T" n="0531a22"/>並遲暮。皆順伏之。嘗見人述<persName key="A002718">莊子</persName>鵬鷃之<lb ed="T" n="0531a23"/>喻。便歎曰。<persName key="A002718">莊</persName>蒙以小大極於此矣。豈知<lb ed="T" n="0531a24"/>須彌不容金翅。世界入於隣虛。井蛙之智<lb ed="T" n="0531a25"/>穢人耳目。後疾甚召僧。集已罄捨<placeName key="CN0510108Z11AA">都</placeName>盡曰。<lb ed="T" n="0531a26"/>生死常<ptr target="fn04"/>耳。願各早為津濟。其夜命終。<date key="j19500921958507" notAfter-iso="0650" notBefore-iso="0627">貞觀<lb ed="T" n="0531a27"/>中</date>矣。</p>
+    <linkGrp>
+        <link targets="#0530c28 #0530c28"/>
+        <ptr target="#A005699" type="person"/>
+        <ptr target="#CN0510108Z11AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0531a06 #0531a06"/>
+        <ptr target="#A005700" type="person"/>
+        <ptr target="#CN0510722Z25AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0531a06 #0531a13"/>
+        <ptr target="#A005700" type="person"/>
+        <ptr target="#A005699" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0531a13 #0531a21"/>
+        <ptr target="#A005699" type="person"/>
+        <ptr target="#A005701" type="person"/>
+        <ptr target="#CN0510108T35AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0531a13 #0531a21"/>
+        <ptr target="#A005699" type="person"/>
+        <ptr target="#CN0510108T35AA" type="place"/>
+        <ptr target="#j19500921958507" type="time"/>
+    </linkGrp>
+</div>

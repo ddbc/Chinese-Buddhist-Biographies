@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0414b09shiSengBian">
+    <p><anchor n="T.50.2059.0414b09"/><lb ed="T" n="0414b09"/><persName key="A003486">釋僧辯</persName>，姓吳，<placeName key="CN0320106Z06AA">建康</placeName>人。出家止<placeName key="CN0320101T36AA">安樂寺</placeName>。少好<lb ed="T" n="0414b10"/>讀經，受業於<persName key="A003476">遷</persName>、<persName key="A003479">暢</persName>二師。初雖祖述其風，晚<lb ed="T" n="0414b11"/>更措意斟酌。哀婉折衷，獨步齊初。嘗在<placeName key="CN0320105A04AA">新<lb ed="T" n="0414b12"/>亭</placeName><persName key="A003487">劉紹</persName>宅齋，<persName key="A003486">辯</persName>初夜讀經，始得一契。忽有<lb ed="T" n="0414b13"/>群鶴下集階前，及<persName key="A003486">辯</persName>度卷，一時飛去。由是<lb ed="T" n="0414b14"/>聲<ptr target="fn15"/>振天下，遠近知名。後來學者，莫不宗<lb ed="T" n="0414b15"/>事。<date key="j18997601899760" when-iso="0489-04-06">永明七年二月十九日</date>，<persName key="A002655">司徒竟陵文宣王</persName><lb ed="T" n="0414b16"/>夢於佛前詠《維摩》一契。<ptr target="fn16"/>同聲發而覺，即起<lb ed="T" n="0414b17"/>至佛堂中，還如夢中法，更詠《古維摩》一契，<lb ed="T" n="0414b18"/>便覺韻聲流好，<ptr target="fn17"/>著工恒日。明旦，即集<placeName key="CN0320106Z06AA">京師</placeName><lb ed="T" n="0414b19"/>善聲沙門<placeName key="CN0320102T17AA">龍光</placeName><ptr target="fn18"/><persName key="A003488">普<ptr target="fn19"/>智</persName>、<placeName key="CN0320101T59AA">新安</placeName><persName key="A003489">道興</persName>、<placeName key="CN0320101T58AA">多寶</placeName><persName key="A003490">慧忍</persName>、<placeName key="CN0320101T62AA">天<lb ed="T" n="0414b20"/>保</placeName><persName key="A003491">超勝</persName>，及<persName key="A003486">僧辯</persName>等。集第作聲。<persName key="A003486">辯</persName>傳《古維摩》<lb ed="T" n="0414b21"/>一契、瑞應七言偈一契，最是命家之作。後人<lb ed="T" n="0414b22"/>時有傳者，並訛漏失其大體。<persName key="A003486">辯</persName>以<date key="j19011591901513" from-iso="0493-02-03" to-iso="0494-01-23">齊永明<lb ed="T" n="0414b23"/>十一年</date><ptr target="fn20"/>卒。</p><p><ptr target="fn21"/><placeName key="CN0320105T02AA">中興</placeName>有<persName key="A003492">釋僧恭</persName>，當時與<persName key="A003486">辯</persName>齊<lb ed="T" n="0414b24"/>名，後遂退道。</p>
+    <linkGrp>
+        <link targets="#0414b15 #0414b21"/>
+        <ptr target="#A003486" type="person"/>
+        <ptr target="#A002655" type="person"/>
+        <ptr target="#A003488" type="person"/>
+        <ptr target="#A003489" type="person"/>
+        <ptr target="#A003490" type="person"/>
+        <ptr target="#A003491" type="person"/>
+        <ptr target="#CN0320106Z06AA" type="place"/>
+        <ptr target="#j18997601899760" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0414b22 #0414b23"/>
+        <ptr target="#A003486" type="person"/>
+        <ptr target="#CN0320101T36AA" type="place"/>
+        <ptr target="#j19011591901513" type="time"/>
+    </linkGrp>
+</div>

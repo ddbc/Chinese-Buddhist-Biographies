@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0649c22shiHongXian">
+    <p><anchor n="T.50.2060.0649c22"/><lb ed="T" n="0649c22"/><persName key="A006834">釋洪獻</persName>。<placeName key="CN0130423Z23AA">鄴</placeName>人。少履道門早明律檢。聽涉勞<lb ed="T" n="0649c23"/><ptr target="fn25"/>頓。遂兩目俱暗。住相州<placeName key="CN0130427T01AA">大慈寺</placeName>。既無前導<lb ed="T" n="0649c24"/>常處房中。禮誦為先不輟晨夕。<date key="j19380431938426" from-iso="0594-01-29" to-iso="0595-02-16">開皇十四<lb ed="T" n="0649c25"/>年</date>。忽感一神。自稱般若檀越來從受戒。數<lb ed="T" n="0649c26"/>致談話。同房<persName key="A006835">僧綱禪師</persName>。上堂中食。般若乃<lb ed="T" n="0649c27"/>將<persName key="A006835">綱</persName>一<ptr target="fn26"/>襆衣來嚫<persName key="A006834">獻</persName>云。勞陳法事。利益不<lb ed="T" n="0649c28"/>少。輒奉衣物。願必受之。<persName key="A006834">獻</persName>納于櫃中。後<persName key="A006835">綱</persName><lb ed="T" n="0649c29"/>食還怪失衣襆。搜求寺內。乃於<persName key="A006834">獻</persName>所得<lb ed="T" n="0650a01"/>之。具以告語。<persName key="A006835">綱</persName>終不信。神遂發撤<persName key="A006835">綱</persName>房衣<lb ed="T" n="0650a02"/>物被案。狼藉滿庭。竿扇秤尺摧折數段。神<lb ed="T" n="0650a03"/>於空中語曰。<persName key="A006835">僧綱</persName>不好設齋會供養三<lb ed="T" n="0650a04"/>寶。我會禍汝未央。<persName key="A006834">獻</persName>雖目冥<ptr target="fn01"/>乃與般若<lb ed="T" n="0650a05"/>言及事同<ptr target="fn02"/>目覩。神語<persName key="A006834">獻</persName>曰。伴眾極多悉在<lb ed="T" n="0650a06"/><placeName key="CN0130423R01AA">紫陌河</placeName>上。惟三十人相隨。可令寺家設食。<lb ed="T" n="0650a07"/>眾僧便於西院會之。神曰。大好飲食。勞費<lb ed="T" n="0650a08"/>師等。雖然<persName key="A006835">僧綱</persName>不<ptr target="fn03"/>赴齋供。後會使知。<persName key="A006835">綱</persName><lb ed="T" n="0650a09"/>無奈之何。恐迫不已。便私費財物營諸齋<lb ed="T" n="0650a10"/>福。般若<ptr target="fn04"/>乃曰。既能行福。今相放矣。仍以絹<lb ed="T" n="0650a11"/>兩匹付<persName key="A006834">獻</persName>云。當以一匹。施大眾一匹贈<lb ed="T" n="0650a12"/><persName key="A006835">綱師</persName>。<persName key="A006834">獻</persName>對眾受得具皆聞見。仍<ptr target="fn05"/>依<ptr target="fn06"/>付領。<lb ed="T" n="0650a13"/>於後彌<ptr target="fn07"/>勤本業。遂卒於所住。</p>
+    <linkGrp>
+        <link targets="#0649c22 #0649c22"/>
+        <ptr target="#A006834" type="person"/>
+        <ptr target="#CN0130423Z23AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0649c23 #0649c23"/>
+        <ptr target="#A006834" type="person"/>
+        <ptr target="#CN0130427T01AA" type="place"/>
+        </linkGrp>
+    <linkGrp>
+        <link targets="#0649c24 #0650a12"/>
+        <ptr target="#A006834" type="person"/>
+        <ptr target="#A006835" type="person"/>
+        <ptr target="#CN0130427T01AA" type="place"/>
+        <ptr target="#j19380431938426" type="time"/>
+    </linkGrp>
+</div>

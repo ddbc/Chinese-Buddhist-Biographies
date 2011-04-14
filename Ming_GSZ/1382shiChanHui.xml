@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0933b21shiChanHui">
+  <p><anchor n="T.50.2062.0933b21"/><lb ed="T" n="0933b21"/><persName key="A008752">釋禪惠</persName>即<placeName key="CN0511821Z12AA">名山</placeName>人也。家世業儒。屢舉不第。<lb ed="T" n="0933b22"/><date from-iso="1098" key="j21222852123228" to-iso="1101">元符間</date>郡守<persName key="A008753">呂由誠</persName>見以僧勅戲之。遂棄<lb ed="T" n="0933b23"/>儒從釋。力參祖道得大開悟。初出住邑<placeName key="CN0511821T01AA">天<lb ed="T" n="0933b24"/>寧寺</placeName>。出入必策馬乘輿。諸耆宿言以佛法<lb ed="T" n="0933b25"/>貴乎苦行固不宜乘輿馬服綺繡。<persName key="A008752">師</persName>答以<lb ed="T" n="0933b26"/>偈曰。<persName key="A002144">文殊</persName>駕師子。<persName key="A003079">普賢</persName>跨象王。新來一個<lb ed="T" n="0933b27"/>佛騎馬也無妨。凡所說法機鋒敏捷。有語<lb ed="T" n="0933b28"/>錄行世。</p>
+  <linkGrp>
+    <link targets="#0933b23 #0933b25"/>
+    <ptr target="#A008752" type="person"/>
+    <ptr target="#CN0511821T01AA" type="place"/>
+  </linkGrp>
+  <linkGrp>
+    <link targets="#0933b22 #0933b23"/>
+    <ptr target="#A008752" type="person"/>
+    <ptr target="#A008753" type="person"/>
+    <ptr target="#j21222852123228" type="time"/>
+  </linkGrp>
+</div>

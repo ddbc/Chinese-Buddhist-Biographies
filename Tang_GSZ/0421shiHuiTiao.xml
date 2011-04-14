@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0539b13shiHuiTiao">
+    <p><anchor n="T.50.2060.0539b13"/><lb ed="T" n="0539b13"/><persName key="A005835">釋慧眺</persName>。姓莊氏。少出家。以小乘為業。遊學<lb ed="T" n="0539b14"/><placeName key="CN0370103Z06AA">齊</placeName><placeName key="CN0320303Z07AA">徐</placeName><placeName key="CN0370781Z15AA">青</placeName><placeName key="CN0320706Z08AA">海</placeName>諸州。數論之精馳譽<placeName key="CN0420100A02AA">江漢</placeName>。<date key="j19387881940611" notAfter-iso="0601" notBefore-iso="0596">開皇末<lb ed="T" n="0539b15"/>年</date>。還住鄉壤之<placeName key="CN0420602T18AA">報善寺</placeName>。承象王<persName key="A005338">哲公</persName>在下<lb ed="T" n="0539b16"/><placeName key="CN0420602T04AA">龍泉</placeName>講開三論心生不忍曰。三論明空。講<lb ed="T" n="0539b17"/>者著空。當發言訖。舌出三尺。鼻眼兩耳並<lb ed="T" n="0539b18"/>皆流血。七日不語。有<ptr target="fn12"/><persName key="A005837">汰律師</persName>。聞其撥略<lb ed="T" n="0539b19"/>大乘。舌即挺出。告曰。<persName key="A005835">汝</persName>大癡也。一言毀經<lb ed="T" n="0539b20"/>罪過五逆。可信大乘方可免耳。乃令燒香<lb ed="T" n="0539b21"/>發願懺悔前言。舌還收入。便輿往<persName key="A005338">哲</persName>所。誓<lb ed="T" n="0539b22"/>心斂迹惟聽大乘。<persName key="A005338">哲</persName>之云亡。為設大齋於<lb ed="T" n="0539b23"/>墓。又建七處八會廣請道俗。百日既滿。即<lb ed="T" n="0539b24"/>往<placeName key="CN0420602T06AA">香山神足寺</placeName>。足不踰閫常習大乘。每勸<lb ed="T" n="0539b25"/>諸村年別四時講華嚴等經。用陳懺謝。常<lb ed="T" n="0539b26"/>於眾中顯陳前失。獨處一房常坐常念。<date key="j19538441953844" when-iso="0637-05-05">貞<lb ed="T" n="0539b27"/>觀十一年四月三日</date>。在<placeName key="CN0420602T06AA">寺</placeName>後松林坐禪。見<lb ed="T" n="0539b28"/>有三人。形貌都雅赤服。禮拜請受菩薩戒<lb ed="T" n="0539b29"/>訖。白曰。禪師大利根。若不改心信大乘者。<lb ed="T" n="0539c01"/>千佛出世猶在地獄。聞此重囑。涕<ptr target="fn13"/>泗交流<lb ed="T" n="0539c02"/>大哭還<placeName key="CN0420602T06AA">寺</placeName>。在講者房前宛轉嗚咽不能得<lb ed="T" n="0539c03"/>言。以水洒醒。乃更大哭。繞佛懺悔。用此<lb ed="T" n="0539c04"/>為<ptr target="fn14"/>恒。又勸化士俗。造華嚴大品法華維摩<lb ed="T" n="0539c05"/>思益佛藏三論等各一百部。至<date key="j19545591954559" when-iso="0639-04-20">十三年三月<lb ed="T" n="0539c06"/>九日</date>中時。佛前禮懺因此而終。春秋八十餘<lb ed="T" n="0539c07"/>矣。自終七日。林樹變白大泉渾濁。過此方<lb ed="T" n="0539c08"/>復。斯亦知過能改無過者同。誠可嘉矣。<placeName key="CN0420602T06AA">寺</placeName><lb ed="T" n="0539c09"/>去城邑將五十里。從受歸戒者七千餘人。<lb ed="T" n="0539c10"/>填赴山<ptr target="fn15"/>河為建大齋於墓所。三十法師各<lb ed="T" n="0539c11"/>開一經。用津靈造。</p>
+    <linkGrp>
+        <link targets="#0539b13 #0539b14"/>
+        <ptr target="#A005835" type="person"/>
+        <ptr target="#CN0370103Z06AA" type="place"/>
+        </linkGrp>
+    <linkGrp>
+        <link targets="#0539b13 #0539b14"/>
+        <ptr target="#A005835" type="person"/>
+        <ptr target="#CN0320303Z07AA" type="place"/>
+        </linkGrp>
+    <linkGrp>
+        <link targets="#0539b13 #0539b14"/>
+        <ptr target="#A005835" type="person"/>
+        <ptr target="#CN0370781Z15AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0539b13 #0539b14"/>
+        <ptr target="#A005835" type="person"/>
+        <ptr target="#CN0320706Z08AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0539b14 #0539b15"/>
+        <ptr target="#A005835" type="person"/>
+        <ptr target="#CN0420602T18AA" type="place"/>
+        <ptr target="#j19387881940611" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0539b14 #0539b23"/>
+        <ptr target="#A005835" type="person"/>
+        <ptr target="#A005338" type="person"/>
+        <ptr target="#A005837" type="person"/>
+        <ptr target="#CN0420602T04AA" type="place"/>
+        <ptr target="#j19387881940611" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0539b23 #0539b24"/>
+        <ptr target="#A005835" type="person"/>
+        <ptr target="#CN0420602T06AA" type="place"/>
+        </linkGrp>
+    <linkGrp>
+        <link targets="#0539b26 #0539c02"/>
+        <ptr target="#A005835" type="person"/>
+        <ptr target="#CN0420602T06AA" type="place"/>
+        <ptr target="#j19538441953844" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0539c05 #0539c07"/>
+        <ptr target="#A005835" type="person"/>
+        <ptr target="#CN0420602T06AA" type="place"/>
+        <ptr target="#j19545591954559" type="time"/>
+    </linkGrp>
+</div>

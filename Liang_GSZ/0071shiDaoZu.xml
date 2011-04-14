@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0363a05shiDaoZu">
+	<p><anchor n="T.50.2059.0363a05"/><lb ed="T" n="0363a05"/><persName key="A001528">釋道祖</persName>，<placeName key="CN0320503Z22AA">吳國</placeName>人也，少出家，為<placeName key="CN0330623T01AA">臺寺</placeName><persName key="A002846">支法<ptr target="fn02"/>齊</persName><lb ed="T" n="0363a06"/>弟子。幼有才思，精勤務學。後與同志<persName key="A002570">僧遷</persName>、<lb ed="T" n="0363a07"/><persName key="A002572">道流</persName>等，共入<placeName key="CN0360402M01AA">廬山</placeName>七年，並山中受戒，各隨<lb ed="T" n="0363a08"/>所習，日有其新。<persName key="A001204">遠公</persName>每謂<persName key="A001528">祖</persName>等易悟，盡如<lb ed="T" n="0363a09"/>此輩，不復憂後生矣。<persName key="A002570">遷</persName>、<persName key="A002572">流</persName>等並年二十八<lb ed="T" n="0363a10"/>而卒，<persName key="A001204">遠</persName>歎曰：「此子並才義英茂，清悟日新，懷<lb ed="T" n="0363a11"/>此長往，一何痛哉。」<persName key="A002572">道流</persName>撰諸經目未就，<persName key="A001528">祖</persName><lb ed="T" n="0363a12"/>為成之，今行於世。<persName key="A001528">祖</persName>後還<placeName key="CN0320104T02AA">京師瓦官寺</placeName>講<lb ed="T" n="0363a13"/>說，<persName key="A002824">桓玄</persName><ptr target="fn03"/>每往觀聽，乃謂人曰：「<persName key="A001528">道祖</persName>後發，愈<lb ed="T" n="0363a14"/>於<persName key="A001204">遠公</persName>，但儒博不逮耳。」及<persName key="A002824">玄輔</persName><ptr target="fn＊"/>正，欲使<lb ed="T" n="0363a15"/>沙門敬<ptr target="fn04"/>王，<persName key="A001528">祖</persName>乃辭還吳之<placeName key="CN0330623T01AA">臺寺</placeName>。有頃，<persName key="A002824">玄</persName>纂<lb ed="T" n="0363a16"/>位，勅郡送<persName key="A001528">祖</persName>出<placeName key="CN0320106Z06AA">京</placeName>。<persName key="A001528">祖</persName>稱<ptr target="fn05"/>疾不行，於是<lb ed="T" n="0363a17"/>絕迹人事，講道終日。以<date key="j18741391874492" from-iso="0419-02-12" to-iso="0420-01-31">晉元熙元年</date>卒，春<lb ed="T" n="0363a18"/>秋七十<ptr target="fn06"/>二矣。</p>
+	<p><persName key="A001204">遠</persName>有弟子<persName key="A002847">慧要</persName>，亦解經律，而<lb ed="T" n="0363a19"/>尤長巧思。山中無<ptr target="fn07"/>刻漏，乃於泉水中立十<lb ed="T" n="0363a20"/>二葉芙蓉，因流波轉，以定十二時，晷<ptr target="fn08"/>景無<lb ed="T" n="0363a21"/>差焉。亦嘗作木鳶，飛數百步。</p>
+	<p><persName key="A001204">遠</persName>又有弟子<lb ed="T" n="0363a22"/><persName key="A002848">曇順</persName>、<persName key="A002849">曇詵</persName>，並義學致<ptr target="fn09"/>譽。<persName key="A002848">順</persName>本<placeName key="CN0211302Z14AA">黃龍</placeName>人，少受<lb ed="T" n="0363a23"/>業<persName key="A001583">什公</persName>，後還師<persName key="A001204">遠</persName>，蔬食有德行。南蠻校尉<lb ed="T" n="0363a24"/><persName key="A002850">劉遵</persName>，於<placeName key="CN0421003Z05AA">江陵</placeName>立<placeName key="CN0421087T04AA">竹林寺</placeName>，請經始。<persName key="A001204">遠</persName>遣<ptr target="fn10"/>徙<lb ed="T" n="0363a25"/>焉。</p>
+	<p><persName key="A002849">詵</persName>亦清雅有風則，注《維摩》及著〈窮通論〉<lb ed="T" n="0363a26"/>等。</p>
+	<p>又有<persName key="A002851">法幽</persName>、<persName key="A002224">道恒</persName>、<persName key="A002852">道授</persName>等百有餘人，或義解<lb ed="T" n="0363a27"/>深明，或匡<ptr target="fn11"/>拯眾事，或戒行清高，或禪思深<lb ed="T" n="0363a28"/>入，並振名當世，傳<ptr target="fn12"/>業于今。</p>
+	<linkGrp>
+		<link targets="#0363a05 #0363a06"/>
+		<ptr target="#A001528" type="person"/>
+		<ptr target="#A002846" type="person"/>
+		<ptr target="#CN0330623T01AA" type="place"/>
+		<ptr target="#j18741391874492" type="time"/>
+	</linkGrp>
+	<linkGrp>
+		<link targets="#0363a06 #0363a08"/>
+		<ptr target="#A001528" type="person"/>
+		<ptr target="#A002570" type="person"/>
+		<ptr target="#A002572" type="person"/>
+		<ptr target="#CN0360402M01AA" type="place"/>
+	</linkGrp>
+	<linkGrp>
+		<link targets="#0363a08 #0363a09"/>
+		<ptr target="#A001528" type="person"/>
+		<ptr target="#A001204" type="person"/>
+		<ptr target="#CN0360402M01AA" type="place"/>
+	</linkGrp>
+	<linkGrp>
+		<link targets="#0363a12 #0363a14"/>
+		<ptr target="#A001528" type="person"/>
+		<ptr target="#A002824" type="person"/>
+		<ptr target="#CN0320104T02AA" type="place"/>
+	</linkGrp>
+	<linkGrp>
+		<link targets="#0363a17 #0363a18"/>
+		<ptr target="#A001528" type="person"/>
+		<ptr target="#j18741391874492" type="time"/>
+	</linkGrp>
+	<linkGrp>
+		<link targets="#0363a18 #0363a22"/>
+		<ptr target="#A001204" type="person"/>
+		<ptr target="#A002847" type="person"/>
+		<ptr target="#A002848" type="person"/>
+		<ptr target="#A002849" type="person"/>
+	</linkGrp>
+	<linkGrp>
+		<link targets="#0363a22 #0363a22"/>
+		<ptr target="#A002848" type="person"/>
+		<ptr target="#CN0211302Z14AA" type="place"/>
+	</linkGrp>
+	<linkGrp>
+		<link targets="#0363a22 #0363a23"/>
+		<ptr target="#A002848" type="person"/>
+		<ptr target="#A001583" type="person"/>
+	</linkGrp>
+	<linkGrp>
+		<link targets="#0363a23 #0363a25"/>
+		<ptr target="#A002850" type="person"/>
+		<ptr target="#A001204" type="person"/>
+		<ptr target="#CN0421087T04AA" type="place"/>
+	</linkGrp>
+</div>

@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="bqnz0946c24jingXianNi">
+    <head><placeName key="CN0320102T14AA">竹園寺</placeName><persName key="A016141">淨淵</persName>尼<ptr target="fn45"/>傳七</head><p><anchor n="T.50.2063.0946c25"/><lb ed="T" n="0946c25"/><persName key="A016141">淨淵</persName>，本姓時，<placeName key="CN0130532Z08AA">鉅鹿</placeName>人也。幼有成人之智，<date from-iso="0440" key="j18817671882497" to-iso="0441">五、六<lb ed="T" n="0946c26"/>歲</date>時，<ptr target="fn46"/>甞聚沙為塔，刻木<ptr target="fn47"/>作像，燒香<ptr target="fn48"/>拜敬，彌<lb ed="T" n="0946c27"/>日不足。每聞人言，輒難。盡取其理究。<date key="j18872461887610" from-iso="0455-01-01" to-iso="0455-12-31">二十</date>出<lb ed="T" n="0946c28"/>家，戀慕膝下，不食不寢，飲水持齋，諫曉不<lb ed="T" n="0946c29"/>從，終竟七日。自爾之後，蔬食長齋，戒忍精苦，<lb ed="T" n="0947a01"/>不由課<ptr target="fn1"/>勵。師友嗟敬，遠近稱譽。<persName key="A002654">齊文帝</persName>大相<lb ed="T" n="0947a02"/>欽禮，四事供養，信驛重沓。年七十一，<ptr target="fn2"/><date from-iso="0506-02-11" key="j19059141906267" to-iso="0507-01-30">天監<lb ed="T" n="0947a03"/>五年</date>卒<ptr target="fn＊"/>也。</p>
+    <linkGrp>
+        <link targets="#0946c25 #0946c27"/>
+        <ptr target="#A016141" type="person"/>
+        <ptr target="#j18817671882497" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0946c27 #0946c29"/>
+        <ptr target="#A016141" type="person"/>
+        <ptr target="#j18872461887610" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0947a02 #0947a03"/>
+        <ptr target="#A016141" type="person"/>
+        <ptr target="#j19059141906267" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0946c24 #0946c24"/>
+        <ptr target="#A016141" type="person"/>
+        <ptr target="#CN0320102T14AA" type="place"/>
+        </linkGrp>
+    <linkGrp>
+        <link targets="#0947a01 #0947a02"/>
+        <ptr target="#A016141" type="person"/>
+        <ptr target="#A002654" type="person"/>
+         
+        </linkGrp>
+</div>

@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0701b25shiFaCheng"><head>隋京師<placeName key="CN0610101T22AA">定水寺</placeName><persName key="A007544">釋法稱</persName>傳三</head>
+    <p><anchor n="T.50.2060.0701b25"/><lb ed="T" n="0701b25"/><persName key="A007544">釋法稱</persName>。<placeName key="CN0000007D01AA">江南</placeName>人。<ptr target="fn22"/>通諸經聲清響動眾。陳氏<lb ed="T" n="0701b26"/>所化舉朝奉之。又善披導即務標奇。雖無<lb ed="T" n="0701b27"/>希世之明。而有隨機之要。<date key="j19362121936595" from-iso="0589-01-24" to-iso="0590-02-11">隋平南服</date>。與<persName key="A007546">白<lb ed="T" n="0701b28"/>雲經師</persName>。同歸<placeName key="CN0610000E01AA">秦壤</placeName>。住<placeName key="CN0610103T03AA">興善寺</placeName>。每引內禁。敘<lb ed="T" n="0701b29"/>論正義開納<persName key="A004324">帝</persName>心。即勅<placeName key="CN0610100A02AA">正殿</placeName>常置經座。日<lb ed="T" n="0701c01"/>別差讀經。聲<ptr target="fn23"/>聲不絕。聽覽微隙即問經旨。<lb ed="T" n="0701c02"/>遂終昇<ptr target="fn24"/>遐。晚住<placeName key="CN0610101T22AA">定水</placeName>。與<persName key="A007546">雲</persName>同卒。俱八十<lb ed="T" n="0701c03"/>餘。<date key="j19406121942058" notAfter-iso="0605" notBefore-iso="0601">仁壽年</date>也。時有<persName key="A007547">智雲</persName>。亦善經唄。對前<persName key="A007546">白<lb ed="T" n="0701c04"/>者</persName>。世號<persName key="A007547">烏雲</persName>。令望所高聲飛南北。每執經<lb ed="T" n="0701c05"/>對御。<ptr target="fn25"/>嚮<ptr target="fn26"/>振如雷。時<ptr target="fn27"/>慘哀囀。停駐飛走。<lb ed="T" n="0701c06"/>其德甚眾。祕不泄之。故無事緒可列。又善<lb ed="T" n="0701c07"/>席上談吐驚奇。子史丘索都皆諳曉。對時引<lb ed="T" n="0701c08"/>挽如宿搆焉。<persName key="A004413">隋煬</persName>在蕃。彌崇敬愛。召入<placeName key="CN0410305T02AA">慧<lb ed="T" n="0701c09"/>日</placeName>。把臂朋從。欣其詞<ptr target="fn28"/>令故也。年登五十<lb ed="T" n="0701c10"/>卒於<placeName key="CN0610102Z14AA">京師</placeName>。王悲惜焉數日不出。廣為追福。<lb ed="T" n="0701c11"/>又教沙門<persName key="A005402">法論</persName>為之墓誌見於別集。</p>
+    <linkGrp>
+        <link targets="#0701b25 #0701b25"/>
+        <ptr target="#A007544" type="person"/>
+        <ptr target="#CN0000007D01AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0701b27 #0701b28"/>
+        <ptr target="#A007544" type="person"/>
+        <ptr target="#A007546" type="person"/>
+        <ptr target="#CN0610103T03AA" type="place"/>
+        <ptr target="#j19362121936595" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0701b28 #0701c02"/>
+        <ptr target="#A007544" type="person"/>
+        <ptr target="#A004324" type="person"/>
+        <ptr target="#CN0610100A02AA" type="place"/>
+        <ptr target="#j19362121936595" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0701c02 #0701c02"/>
+        <ptr target="#A007544" type="person"/>
+        <ptr target="#CN0610101T22AA" type="place"/>
+        <ptr target="#j19406121942058" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0701c08 #0701c09"/>
+        <ptr target="#A007547" type="person"/>
+        <ptr target="#A004413" type="person"/>
+        <ptr target="#CN0410305T02AA" type="place"/>
+        </linkGrp>
+    <linkGrp>
+        <link targets="#0701c03 #0701c10"/>
+        <ptr target="#A007547" type="person"/>
+        <ptr target="#CN0610102Z14AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0701c10 #0701c11"/>
+        <ptr target="#A004413" type="person"/>
+        <ptr target="#A005402" type="person"/>
+    </linkGrp>
+</div>

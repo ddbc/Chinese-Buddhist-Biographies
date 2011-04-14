@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0672b28shiTanSui">
+    <p><anchor n="T.50.2060.0672b28"/><lb ed="T" n="0672b28"/><persName key="A007215">釋曇遂</persName>。<placeName key="CN0610112Z16AA">雍州</placeName>人。初學大論。後味<ptr target="fn11"/>唯識。研<lb ed="T" n="0672b29"/>精攝論選其幽理。每言三界虛妄。但是一心<lb ed="T" n="0672c01"/>追求外境未悟難息。故得名稱高遠。有通<lb ed="T" n="0672c02"/>美焉。然復慎守根門勤修戒檢。住<placeName key="CN0610104T07AA">真寂寺</placeName><lb ed="T" n="0672c03"/>掩關勵業。<date key="j19406121942058" notAfter-iso="0605" notBefore-iso="0601">仁壽中年</date>。下勅送舍利于晉州<lb ed="T" n="0672c04"/><placeName key="CN0141002T04AA">法吼寺</placeName>。初停公館。放大光明照精舍門朗<lb ed="T" n="0672c05"/>如金色。又放黃白二光。從道場出。久久乃<lb ed="T" n="0672c06"/>滅。又從舍利輿所。至於塔基。而放瑞光。三<lb ed="T" n="0672c07"/>道虹飛色如朝霞耿然空望。下塔之<ptr target="fn12"/>內又<lb ed="T" n="0672c08"/>放光明。隱顯時現。大都為言七日之內。瑞<lb ed="T" n="0672c09"/>靈雜沓相仍不絕。還<placeName key="CN0610102Z14AA">京</placeName>服業。<date key="j19469511949949" notAfter-iso="0626" notBefore-iso="0618">迄于唐運</date>。八<lb ed="T" n="0672c10"/>十餘卒矣。</p>
+    <linkGrp>
+        <link targets="#0672b28 #0672b28"/>
+        <ptr target="#A007215" type="person"/>
+        <ptr target="#CN0610112Z16AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0672c02 #0672c03"/>
+        <ptr target="#A007215" type="person"/>
+        <ptr target="#CN0610104T07AA" type="place"/>
+        </linkGrp>
+    <linkGrp>
+        <link targets="#0672c03 #0672c09"/>
+        <ptr target="#A007215" type="person"/>
+        <ptr target="#CN0141002T04AA" type="place"/>
+        <ptr target="#j19406121942058" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0672c09 #0672c10"/>
+        <ptr target="#A007215" type="person"/>
+        <ptr target="#CN0610102Z14AA" type="place"/>
+        </linkGrp>
+</div>

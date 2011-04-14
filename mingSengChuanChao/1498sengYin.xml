@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><div xml:id="mscc0355c20sengYin" xmlns="http://www.tei-c.org/ns/1.0"><head>偽魏<placeName key="CN0610125T14AA">長安大寺</placeName><persName key="A003320">釋僧印</persName></head><p><anchor n="X.77.1523.0355c20"/><lb ed="X" n="0355c20"/>僧印姓樊氏。金城<placeName key="CN0620123Z10AA">榆中</placeName>人。<persName key="A002303">釋玄高</persName>弟子。性腹清純。意<lb ed="X" n="0355c21"/>懷篤至。與之久處者。未當見慢忤之色。下接庸隷。必<lb ed="X" n="0355c22"/>出矝愛之言。振卹貧餧。有求無逆。心道聰利。修大乘<lb ed="X" n="0355c23"/>觀。所得境界。為禪學之宗。省削身口。具持淨律。甞在<lb ed="X" n="0355c24"/><placeName key="CN0421003Z03AA">江陵</placeName>。教一比丘受禪。頗有所得。印語之曰。上坐所學。<lb ed="X" n="0356a01"/>應得異境。若得便能隨願往生。修之不已。果值異應。<lb ed="X" n="0356a02"/>即以告印。<persName key="A003320">印</persName>戒之曰。此法乃將來美事。然脫不幸大<lb ed="X" n="0356a03"/>命應終。此僧欣然曰。由來願生西方。得應之後。或有<lb ed="X" n="0356a04"/>勸往<placeName key="XZ0000002A01AA">兜率者</placeName>。此僧嗟疑良久。至三更方決云。定向<placeName key="XZ0000002A01AA">兜<lb ed="X" n="0356a05"/>率</placeName>。言意就臥。同學起看。命已逝矣。印晝夜誦經禮懺<lb ed="X" n="0356a06"/>無癈。後還<placeName key="CN0610125T14AA">長安大寺</placeName>。年六十餘卒。</p>
+    <linkGrp>
+        <link targets="#0355c20 #0355c20"/>
+        <ptr type="person" target="#A003320"/>
+        <ptr type="place" target="#CN0620123Z10AA"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0355c20 #0355c20"/>
+        <ptr type="person" target="#A003320"/>
+        <ptr type="person" target="#A002303"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0355c23 #0355c24"/>
+        <ptr type="person" target="#A003320"/>
+        <ptr type="place" target="#CN0421003Z03AA"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0356a06 #0356a06"/>
+        <ptr type="person" target="#A003320"/>
+        <ptr type="place" target="#CN0610125T14AA"/>
+    </linkGrp>
+</div>

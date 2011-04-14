@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0333a26tanMoLiuZhi">
+    <p><anchor n="T.50.2059.0333a26"/><lb ed="T" n="0333a26"/><persName key="A001795">曇摩流支</persName>，此云<persName key="A001795">法樂</persName>，<placeName key="CN0650000E01AA">西域</placeName>人也。棄家入道，<lb ed="T" n="0333a27"/>偏以律藏馳名，以<date key="j18692071869295" notAfter-iso="0405-11" notBefore-iso="0405-08">弘始七年秋</date>，達自<placeName key="CN0610000E01AA">關<lb ed="T" n="0333a28"/>中</placeName>。</p><p>初，<persName key="A000247">弗若多羅</persName>誦出《十誦》，未竟而亡。<placeName key="CN0360402M01AA">廬山</placeName><lb ed="T" n="0333a29"/><persName key="A001204">釋慧遠</persName>聞<persName key="A001795">支</persName>既善毘尼，希得究竟律部，乃<lb ed="T" n="0333b01"/>遣書通好曰：「佛教之興，先行上國，自分流<lb ed="T" n="0333b02"/><ptr target="fn15"/>以來，四百餘年。至於沙門<ptr target="fn16"/>德式，所闕尤<lb ed="T" n="0333b03"/>多。<ptr target="fn17"/>頃西域道士<persName key="A000247">弗若多羅</persName>，是<placeName key="PKNWPS000E01AA">罽賓</placeName>人。<ptr target="fn18"/>甚諷<lb ed="T" n="0333b04"/>《十誦》<ptr target="fn＊"/>梵本。有<persName key="A001583">羅什</persName>法師，通才博見，為之傳<lb ed="T" n="0333b05"/>譯。《十誦》之中，文始過半，<persName key="A000247">多羅</persName>早喪，中途而寢，<lb ed="T" n="0333b06"/>不得究竟大業，慨恨良深，傳聞<persName key="A001795">仁者</persName>齎此<lb ed="T" n="0333b07"/>經自隨，甚欣所遇，冥運之來，豈人事而已<lb ed="T" n="0333b08"/>耶。想弘道為物，感時而動，叩之有人，必<lb ed="T" n="0333b09"/><ptr target="fn19"/>情無所悋。若能為律學之徒，畢此經本，<lb ed="T" n="0333b10"/>開示梵行，洗其耳目，使始涉之流，不失無<lb ed="T" n="0333b11"/>上之津，<ptr target="fn20"/>參懷勝業者，日月彌朗，此則<ptr target="fn21"/>慧深<lb ed="T" n="0333b12"/>德厚，人神同感矣。幸願垂懷，不乖往意一<lb ed="T" n="0333b13"/>二。悉諸道人所具。」<persName key="A001795">流支</persName>既得<persName key="A001204">遠</persName>書，及<persName key="A002097">姚興</persName>敦<lb ed="T" n="0333b14"/>請，乃與<persName key="A001583">什</persName>共譯《十誦》都畢。研詳考<ptr target="fn22"/>覈，條制<lb ed="T" n="0333b15"/>審定，而<persName key="A001583">什</persName>猶恨文煩未善。既而<persName key="A001583">什</persName>化，不獲<lb ed="T" n="0333b16"/>刪治。<persName key="A001795">流支</persName>住<placeName key="CN0610125T14AA">長安大寺</placeName>，<persName key="A001746">慧觀</persName>欲請下<placeName key="CN0320106Z06AA">京師</placeName>，<lb ed="T" n="0333b17"/><persName key="A001795">支</persName>曰：「<placeName key="CN0320106Z06AA">彼土</placeName>有人有法，足以利世，<persName key="A001795">吾</persName>當更行<lb ed="T" n="0333b18"/>無律教處。」於是遊化餘方，不知所卒。或云終於<placeName key="CN0620602Z11AA">涼土</placeName>，未詳。</p>
+    <linkGrp>
+        <link targets="#0333a26 #0333a26"/>
+        <ptr target="#A001795" type="person"/>
+        <ptr target="#CN0650000E01AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0333a28 #0333b13"/>
+        <ptr target="#A001795" type="person"/>
+        <ptr target="#A001204" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0333b16 #0333b18"/>
+        <ptr target="#A001795" type="person"/>
+        <ptr target="#A001746" type="person"/>
+    </linkGrp> 
+    <linkGrp>
+        <link targets="#0333a27 #0333a28"/>
+        <ptr target="#A001795" type="person"/>
+        <ptr target="#CN0610000E01AA" type="place"/>
+        <ptr target="#j18692071869295" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0333b13 #0333b16"/>
+        <ptr target="#A001795" type="person"/>
+        <ptr target="#A001583" type="person"/>
+        <ptr target="#A002097" type="person"/>
+        <ptr target="#CN0610125T14AA" type="place"/>
+        </linkGrp>
+</div>

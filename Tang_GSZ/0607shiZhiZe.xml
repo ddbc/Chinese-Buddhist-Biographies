@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0655a19shiZhiZe">
+    <p><anchor n="T.50.2060.0655a19"/><lb ed="T" n="0655a19"/><persName key="A006886">釋智則</persName>。姓憑。雍州<placeName key="CN0610102Z01AA">長安</placeName>人。二十出家。<ptr target="fn10"/>止<placeName key="CN0610102T34AA">辯<lb ed="T" n="0655a20"/>才寺</placeName>。聽<persName key="A004635">凝法師</persName>攝論四十餘遍。性度掉舉僅<lb ed="T" n="0655a21"/><ptr target="fn11"/>絕觀採。恒披敗納裙垂膝上。有問其故<lb ed="T" n="0655a22"/><persName key="A006886">則</persName>云。衣長多立耳。遊浪坊市宿止寺中。銷<lb ed="T" n="0655a23"/>聲<placeName key="CN0610102Z07AA">京邑</placeName>將五十載。財法食息一同僧伍。房<lb ed="T" n="0655a24"/>施單床上加<ptr target="fn12"/>以薦。瓦椀木匙餘無一物。<lb ed="T" n="0655a25"/>或見其繿縷為經營者。隨得服用。言終不<lb ed="T" n="0655a26"/>及。<persName key="A006886">則</persName>雖同僧住形有往來。門無<ptr target="fn13"/>開閉。同<lb ed="T" n="0655a27"/>房僧不知靈異。號為<persName key="A006886">狂者</persName>。<persName key="A006886">則</persName>聞之仰面笑<lb ed="T" n="0655a28"/>曰。道他狂者。不知自狂。出家離俗只為衣<lb ed="T" n="0655a29"/>食。<ptr target="fn14"/>往往遮障鎖門鎖櫃。費時亂業。種種<lb ed="T" n="0655b01"/>聚<ptr target="fn15"/>斂役役不安。此而非狂。更無狂者。乃撫<lb ed="T" n="0655b02"/>掌大笑。<persName key="A006886">則</persName>性嗜餺飽。<placeName key="CN0610102T34AA">寺</placeName>北有<persName key="A006888">王摩訶</persName>家。恒<lb ed="T" n="0655b03"/>令辦之。須便輒往。因事伺候。兩處俱見。方<lb ed="T" n="0655b04"/>委分身。而言行相投。片無<ptr target="fn16"/>瑕謬。自<date key="j19500921958507" notAfter-iso="0650" notBefore-iso="0627">貞觀</date><lb ed="T" n="0655b05"/>來。恒獨房宿竟夜端坐。<ptr target="fn17"/>嘅[口*敕]達曙。<persName key="A001519">余</persName>親<ptr target="fn18"/>目<lb ed="T" n="0655b06"/>見。故略述其相云。</p>
+    <linkGrp>
+        <link targets="#0655a19 #0655a19"/>
+        <ptr target="#A006886" type="person"/>
+        <ptr target="#CN0610102Z01AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0655a19 #0655a20"/>
+        <ptr target="#A006886" type="person"/>
+        <ptr target="#A004635" type="person"/>
+        <ptr target="#CN0610102T34AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0655a23 #0655a25"/>
+        <ptr target="#A006886" type="person"/>
+        <ptr target="#CN0610102Z07AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0655b02 #0655b04"/>
+        <ptr target="#A006886" type="person"/>
+        <ptr target="#A006888" type="person"/>
+        <ptr target="#CN0610102T34AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0655b04 #0655b06"/>
+        <ptr target="#A001519" type="person"/>
+        <ptr target="#A006888" type="person"/>
+        <ptr target="#j19500921958507" type="time"/>
+    </linkGrp>
+</div>

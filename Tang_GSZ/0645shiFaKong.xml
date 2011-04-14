@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0665b08shiFaKong">
+    <p><anchor n="T.50.2060.0665b08"/><lb ed="T" n="0665b08"/><persName key="A007015">釋法空</persName>者。不知何人。<date key="j19434961946884" notAfter-iso="0618" notBefore-iso="0609">隋末</date>任<placeName key="CN0140923Z23AA">雁門郡</placeName>府鷹<lb ed="T" n="0665b09"/>擊郎將。時年四十。欻自生厭離。見妻子家<lb ed="T" n="0665b10"/>宅。如牢獄桎梏。志慕佛法情無已。已總召<lb ed="T" n="0665b11"/>家屬曰。<persName key="A007015">吾</persName>為爾沈<ptr target="fn06"/>日久矣。旦夕區區。止<lb ed="T" n="0665b12"/>是供給。可各自取計。<persName key="A007015">吾</persName>自決矣。便裹糧負<lb ed="T" n="0665b13"/>襆獨詣<placeName key="CN0140900M01AA">臺山</placeName>。飢則餐松皮柏末。寒則入穴<lb ed="T" n="0665b14"/>苫覆。專思經中要偈。亦無所參問。時賊寇<lb ed="T" n="0665b15"/>交起。追擊攸歸。府司郡官所在追掩。將至<lb ed="T" n="0665b16"/>禁所。正念不語。志逾慷慨。跏坐不動不食<lb ed="T" n="0665b17"/>不息已經五日。守令以下莫不鷺愕。因放<lb ed="T" n="0665b18"/>之任其所往。一坐三十餘載。禽獸以為親<lb ed="T" n="0665b19"/>隣。妻子尋獲欲致糧粒。<persName key="A007015">空</persName>曰。<persName key="A007015">吾</persName>厭俗為道。<lb ed="T" n="0665b20"/>以解脫為先。自今以往願為善知識。非爾<lb ed="T" n="0665b21"/>纏縛<persName key="A007015">吾</persName>何解之。更不須相見。於是遂絕。幽<lb ed="T" n="0665b22"/>居日久每有清聲。召曰空禪。如是非一。<persName key="A007015">空</persName><lb ed="T" n="0665b23"/>知是自心境界以法遣之。後遂安靜。初學<lb ed="T" n="0665b24"/>九次。以禪用乃明。終為對礙。遂學大乘離<lb ed="T" n="0665b25"/>相。有從學者。並以此誨之。不知所終。</p>
+    <linkGrp>
+        <link targets="#0665b08 #0665b09"/>
+        <ptr target="#A007015" type="person"/>
+        <ptr target="#CN0140923Z23AA" type="place"/>
+        <ptr target="#j19434961946884" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0665b12 #0665b14"/>
+        <ptr target="#A007015" type="person"/>
+        <ptr target="#CN0140900M01AA" type="place"/>
+        </linkGrp>
+</div>

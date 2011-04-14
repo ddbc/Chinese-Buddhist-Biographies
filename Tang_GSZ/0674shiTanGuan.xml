@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0672c11shiTanGuan">
+    <p><anchor n="T.50.2060.0672c11"/><lb ed="T" n="0672c11"/><persName key="A007218">釋曇觀</persName>。<placeName key="CN0371122Z13AA">莒州</placeName>人。七歲出家。慕欣法字。及進<lb ed="T" n="0672c12"/>具後尋討義門。偏宗成實祛<ptr target="fn13"/>析玄滯。後<lb ed="T" n="0672c13"/>以慧解亂神本也。乃返駕澄源攝慮巖壑。<lb ed="T" n="0672c14"/>十六特勝彌所留心神呪廣被鎖殄邪障。高<lb ed="T" n="0672c15"/><ptr target="fn14"/>問周遠及<ptr target="fn15"/>于天闕。<date key="j19333311935151" notAfter-iso="0586" notBefore-iso="0581">開皇之始</date>下勅徵召。延<lb ed="T" n="0672c16"/>入京室住<placeName key="CN0610103T03AA">大興善</placeName>。供事隆厚日問起居。屢<lb ed="T" n="0672c17"/><ptr target="fn16"/>上紫庭坐以華褥。<persName key="A004324">帝</persName>親供<ptr target="fn17"/>侍欽德受法。<lb ed="T" n="0672c18"/><persName key="A007218">觀</persName>寬<ptr target="fn18"/>厚敦裕言無浮侈。深得法忍。苦樂虛<lb ed="T" n="0672c19"/>心故使名利日增而。素氣常在。所獲信施<lb ed="T" n="0672c20"/>並入僧中。房宇索然衣鉢而已。時俗流湎之<lb ed="T" n="0672c21"/>夫。雅尚之也。<date key="j19406121942058" notAfter-iso="0605" notBefore-iso="0601">仁壽中歲</date>。奉勅送舍利於本<lb ed="T" n="0672c22"/>州<placeName key="CN0371122T01AA">定林寺</placeName>。初停公館。即放大光。掘基八尺<lb ed="T" n="0672c23"/>獲銅浮圖一枚。平頂圓基兩戶相對。制同神<lb ed="T" n="0672c24"/>造雕鏤駭人。乃用盛舍利安瓶置內。恰<lb ed="T" n="0672c25"/>得相容州民<persName key="A019428">禽巨海</persName>者。患瘂六年聞舍利<lb ed="T" n="0672c26"/>至。自書請瑞。見本一粒分為三分。色如黃<lb ed="T" n="0672c27"/>金乍沈乍舉。<ptr target="fn19"/>又見三佛從空而降。即能陳<lb ed="T" n="0672c28"/>述詞句如流。<persName key="A007218">觀</persName>還<placeName key="CN0610102Z14AA">京都</placeName>不委終事。</p>
+    <linkGrp>
+        <link targets="#0672c11 #0672c11"/>
+        <ptr target="#A007218" type="person"/>
+        <ptr target="#CN0371122Z13AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0672c15 #0672c17"/>
+        <ptr target="#A007218" type="person"/>
+        <ptr target="#CN0610103T03AA" type="place"/>
+        <ptr target="#j19333311935151" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0672c15 #0672c20"/>
+        <ptr target="#A004324" type="person"/>
+        <ptr target="#A007218" type="person"/>
+        <ptr target="#CN0610102Z14AA" type="place"/>
+        <ptr target="#j19333311935151" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0672c21 #0672c28"/>
+        <ptr target="#A007218" type="person"/>
+        <ptr target="#A019428" type="person"/>
+        <ptr target="#CN0371122T01AA" type="place"/>
+        <ptr target="#j19406121942058" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0672c28 #0672c28"/>
+        <ptr target="#A007218" type="person"/>
+        <ptr target="#CN0610102Z14AA" type="place"/>
+        </linkGrp>
+</div>

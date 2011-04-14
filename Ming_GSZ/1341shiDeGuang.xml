@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0921c01shiDeGuang">
+  <p><anchor n="T.50.2062.0921c01"/><lb ed="T" n="0921c01"/><persName key="A007385">釋德光</persName>賜號<persName key="A007385">佛照</persName>。<placeName key="CN0360982Z19AA">臨江軍</placeName>彭氏子也。<date key="j21356172135981" from-iso="1135-01-08" to-iso="1136-01-07">志學之<lb ed="T" n="0921c02"/>年</date>即依本郡<placeName key="CN0360982T02AA">光化寺</placeName><persName key="A008506">吉和尚</persName>薙髮受具。一日<lb ed="T" n="0921c03"/>入室<persName key="A008506">吉</persName>問曰。不是心不是佛不是物是個甚麼<lb ed="T" n="0921c04"/>光。罔措通夕不寐。次日復登方丈請曰。昨<lb ed="T" n="0921c05"/>蒙<persName key="A008506">和尚</persName>垂問。既不是心不是佛又不是物畢<lb ed="T" n="0921c06"/>竟是甚麼。望乞慈悲指示。<persName key="A008506">吉</persName>乃震威喝曰。這<lb ed="T" n="0921c07"/>沙彌更要我與儞下註脚在。拈棒劈脊打<lb ed="T" n="0921c08"/>出。於是有省。次謁月菴<persName key="A000475">杲</persName>應菴華百丈震。<lb ed="T" n="0921c09"/>皆無所入。適<persName key="A000475">大慧</persName>奉旨住明州<placeName key="CN0330212T01AA">阿育王</placeName>。四<lb ed="T" n="0921c10"/>海英才鱗集。<persName key="A007385">光</persName>亦造焉入室。<persName key="A000475">大慧</persName>舉竹篦<lb ed="T" n="0921c11"/>問曰。喚作竹篦則觸。不喚作竹篦則背。不<lb ed="T" n="0921c12"/>得下語不得無語。<persName key="A007385">光</persName>擬對。<persName key="A000475">大慧</persName>便棒。<persName key="A007385">光</persName><lb ed="T" n="0921c13"/>豁然大悟。從前所得到此瓦解氷消。侍久之<lb ed="T" n="0921c14"/><persName key="A000480">宋孝宗</persName>慕<persName key="A007385">光</persName>道價降詔命住<placeName key="CN0330106T01AA">靈隱</placeName>。一日召<lb ed="T" n="0921c15"/>問對答稱旨。留宿內觀堂。後示寂。塔全身<lb ed="T" n="0921c16"/>於東菴<!--找不到此地-->。</p>
+  <linkGrp>
+    <link targets="#0921c01 #0921c08"/>
+    <ptr target="#A007385" type="person"/>
+    <ptr target="#A008506" type="person"/>
+    <ptr target="#CN0360982T02AA" type="place"/>
+    <ptr target="#j21356172135981" type="time"/>
+  </linkGrp>
+  <linkGrp>
+    <link targets="#0921c09 #0921c13"/>
+    <ptr target="#A007385" type="person"/>
+    <ptr target="#A000475" type="person"/>
+    <ptr target="#CN0330212T01AA" type="place"/>
+  </linkGrp>
+  <linkGrp>
+    <link targets="#0921c13 #0921c15"/>
+    <ptr target="#A007385" type="person"/>
+    <ptr target="#CN0330106T01AA" type="place"/>
+  </linkGrp>
+</div>

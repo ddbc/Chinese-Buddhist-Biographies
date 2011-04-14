@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="bqnz0937c08faChengNi">
+    <head><placeName key="CN0320106T35AA">建福寺</placeName><persName key="A015012">法盛</persName>尼<ptr target="fn40"/>傳二</head>
+    <p><anchor n="T.50.2063.0937c09"/><lb ed="T" n="0937c09"/><persName key="A015012">法盛</persName>，本姓聶，<placeName key="CN0371581Z27AA">清河</placeName>人也。遭趙氏亂，避地<placeName key="CN0320106Z05AA">金陵</placeName>，<lb ed="T" n="0937c10"/>以<date from-iso="0437-02-22" key="j18807241881077" to-iso="0438-02-10">元嘉十四年</date>於<placeName key="CN0320106T35AA">建福寺</placeName>出家。才識<ptr target="fn41"/>慧解，率<lb ed="T" n="0937c11"/>由敏悟。自以桑榆之齒，流寓皇邑，雖復帝道<lb ed="T" n="0937c12"/>隆寧，而猶懷舊土，唯有探頤<persName key="A002209">玄宗</persName>，乃可以<lb ed="T" n="0937c13"/><ptr target="fn42"/>遣忘<persName key="A002104">老耳</persName>。遂從<placeName key="CN0321002T10AA">道場寺</placeName><persName key="A015018">偶法師</persName>受菩薩戒。<lb ed="T" n="0937c14"/>晝則披陳玄素，夕則清言味理，漸染積<ptr target="fn43"/>年，神<lb ed="T" n="0937c15"/>情朗<ptr target="fn44"/>瞻，雖曰暮齒，有逾壯年。常願生安養，謂<lb ed="T" n="0937c16"/>同業<persName key="A015020">曇敬</persName>、<persName key="A015021">曇愛</persName>曰：「<ref target="#A015012" type="person">吾</ref>立身行道，志在西方。」<date key="j18816951881695" when-iso="0439-10-21">十<lb ed="T" n="0937c17"/>六年九月二十七日</date>，塔下禮佛，晚因遇<ptr target="fn45"/>疾，稍<lb ed="T" n="0937c18"/>就綿篤。其月晦夕，初宵假寐，如來<ptr target="fn46"/>垂虛而<lb ed="T" n="0937c19"/>下，與二大士論二乘，俄與大眾騰芳蹈藹臨，<lb ed="T" n="0937c20"/>省<persName key="A015012">盛</persName>疾，光明顯燭，一寺咸見。僉來問<persName key="A015012">盛</persName>：「此何<lb ed="T" n="0937c21"/>光色？」<persName key="A015012">盛</persName>具說之，言竟尋<ptr target="fn47"/>終，年七十二。</p>
+    <p><placeName key="CN0360103Z07AA">豫章</placeName><lb ed="T" n="0937c22"/>太守<placeName key="CN0320503Z01AA">吳郡</placeName><persName key="A002927">張辯</persName>，素所尊敬，為之傳述云。</p>
+    
+    <linkGrp>
+        <link targets="#0937c15 #0937c16"/>
+        <ptr target="#A015012" type="person"/>
+        <ptr target="#A015020" type="person"/>
+        <ptr target="#A015021" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0937c16 #0937c18"/>
+        <ptr target="#A015012" type="person"/>
+        <ptr target="#j18816951881695" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0937c21 #0937c22"/>
+        <ptr target="#A015012" type="person"/>
+        <ptr target="#A002927" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0937c09 #0937c09"/>
+        <ptr target="#A015012" type="person"/>
+        <ptr target="#CN0320106Z05AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0937c10 #0937c10"/>
+        <ptr target="#A015012" type="person"/>
+        <ptr target="#CN0320106T35AA" type="place"/>
+        <ptr target="#j18807241881077" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0937c13 #0937c13"/>
+        <ptr target="#A015012" type="person"/>
+        <ptr target="#A015018" type="person"/>
+        <ptr target="#CN0321002T10AA" type="place"/>
+    </linkGrp>
+</div>

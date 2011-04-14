@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0687a16shiFaTai">
+    <p><anchor n="T.50.2060.0687a16"/><lb ed="T" n="0687a16"/><persName key="A007450">釋法泰</persName>。眉州<placeName key="CN0511422Z11AA">隆山縣</placeName>人也。俗姓呂氏。初為<lb ed="T" n="0687a17"/>道士十餘年。中間忽自悟。迴心正覺。因即<lb ed="T" n="0687a18"/>剃除。始誦法華經。尋即通利。乃精勤寫得<lb ed="T" n="0687a19"/>法華經一部。數有靈瑞。欲將向<placeName key="CN0510108Z32AA">益州</placeName><ptr target="fn07"/>莊<lb ed="T" n="0687a20"/>潢。令一人擔負。一頭以籠盛錢二千。束縛<lb ed="T" n="0687a21"/>經置錢上。一頭是衣服。擔行至地名<placeName key="CN0510108A03AA">莋橋</placeName>。<lb ed="T" n="0687a22"/>橋忽斷<persName key="A007450">泰</persName>在後。負擔人俱墜水中。人浮得<lb ed="T" n="0687a23"/>出。擔沒不見。<persName key="A007450">泰</persName>於岸上槌胸號哭曰。錢衣<lb ed="T" n="0687a24"/>豈非閑事。何忍溺經。即高聲唱言。如能為<lb ed="T" n="0687a25"/>漉得者。賞錢兩貫。時有一人聞之脫衣入<lb ed="T" n="0687a26"/>水沒。求之數度。出入得錢與衣<ptr target="fn08"/>幞。而不<lb ed="T" n="0687a27"/>得經。<persName key="A007450">泰</persName>轉悲泣。巡岸上下。望小洲上有<lb ed="T" n="0687a28"/>一<ptr target="fn＊"/>幞。命人取之。乃是經也。草木擎之宛<lb ed="T" n="0687a29"/>無濕處。<persName key="A007450">泰</persName>不勝歡喜。即以<ptr target="fn09"/>二千錢。償所<lb ed="T" n="0687b01"/>漉人曰。法師悲號劇喪父母。故為急覓。非<lb ed="T" n="0687b02"/>是貪錢弟子。雖<ptr target="fn10"/>傭夫亦知福報。請以此<lb ed="T" n="0687b03"/>錢充莊嚴之直。言訖遁去。更欲與言去已<lb ed="T" n="0687b04"/>遠矣。<persName key="A007450">泰</persName>至<ptr target="fn11"/><placeName key="CN0510108Z32AA">城都</placeName>裝潢。以檀香為軸。表帶<lb ed="T" n="0687b05"/>及帙并函。將還本寺別處安置。夜夜有異<lb ed="T" n="0687b06"/>香。<persName key="A007450">泰</persName>勤誦持一夜一遍。時<persName key="A007452">彪法師</persName>彼寺講。夜<lb ed="T" n="0687b07"/>欲看讀。恒嫌<persName key="A007450">泰</persName>鬧亂其心。自欲往請令稍<lb ed="T" n="0687b08"/>下聲。乃見<persName key="A007450">泰</persName>前大有人眾皆<ptr target="fn12"/>胡跪合掌。<persName key="A007452">彪</persName><lb ed="T" n="0687b09"/>退流汗。即移所住。<persName key="A007450">泰</persName>年八十終矣。</p>
+    <linkGrp>
+        <link targets="#0687a16 #0687a16"/>
+        <ptr target="#A007450" type="person"/>
+        <ptr target="#CN0511422Z11AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0687a19 #0687b03"/>
+        <ptr target="#A007450" type="person"/>
+        <ptr target="#CN0510108A03AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0687b04 #0687b09"/>
+        <ptr target="#A007450" type="person"/>
+        <ptr target="#A007452" type="person"/>
+        <ptr target="#CN0510108Z32AA" type="place"/>
+    </linkGrp>
+</div>

@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0670b27shiSengShun">
+    <p><anchor n="T.50.2060.0670b27"/><lb ed="T" n="0670b27"/><persName key="A006205">釋<ptr target="fn21"/>僧順</persName>。<placeName key="CN0130534Z02AA">貝州</placeName>人。習學涅槃。文疏精覈。志勤<lb ed="T" n="0670b28"/>策立。堪勝艱苦。常樂弘法於囹圄中。無<lb ed="T" n="0670b29"/>緣拘縶假訴良善。文書既<ptr target="fn22"/>効方便雪他。<lb ed="T" n="0670c01"/>投身桎梏情志欣泰。監獄者愍斯厄苦將<lb ed="T" n="0670c02"/>欲解免。方取經疏鋪舒詳讀。旁為囚隷說<lb ed="T" n="0670c03"/>法勸化。事本無蹤還蒙放釋。出獄之日猶<lb ed="T" n="0670c04"/>恨太早。有問其故。答曰。<persName key="A006205">吾</persName>聞諸聖地獄化<lb ed="T" n="0670c05"/>生。雖不逮彼且事<ptr target="fn23"/>微轍。<date key="j19333311940611" notAfter-iso="0601" notBefore-iso="0581">開皇</date>隆法。杖步<lb ed="T" n="0670c06"/>入<placeName key="CN0610102Z13AA">關</placeName>。採訪經術住<placeName key="CN0610103T35AA">玄法寺</placeName>。及後造塔。勅<lb ed="T" n="0670c07"/>召送<ptr target="fn24"/>舍利于<placeName key="CN0411403Z20AA">宋州</placeName>。初到<placeName key="CN0411403Z21AA">宋城</placeName>。市中古井由<lb ed="T" n="0670c08"/>來醎苦。水色又赤。無敢甞者。及舍利至。色<lb ed="T" n="0670c09"/>忽變白味如甜蜜。至造塔所。初放赤光又<lb ed="T" n="0670c10"/>放白光通照寺內。七日辰時天雨白花。如<lb ed="T" n="0670c11"/>雪<ptr target="fn25"/>不落紛紛滿空。及下塔時。白鶴九頭<lb ed="T" n="0670c12"/>飛翔塔上。下函既了。方乃北逝。<persName key="A006205">順</persName>後還<placeName key="CN0610102Z14AA">京</placeName><lb ed="T" n="0670c13"/>遊尋行業。<date key="j19469511949949" notAfter-iso="0626" notBefore-iso="0618">唐運初興</date>巡栖山<ptr target="fn26"/>世。年既遲暮<lb ed="T" n="0670c14"/>欲事終心。行至覇川<!--找不到此地--><placeName key="CN0610115M01AA">驪山</placeName>南<ptr target="fn27"/>足。遇見古<lb ed="T" n="0670c15"/>寺。龕窟崩壞形像縱橫。即<ptr target="fn28"/>住修理。先有主<lb ed="T" n="0670c16"/>護。乃具表請<persName key="A004630">武皇</persName>特聽。遂得安復。今之<placeName key="CN0610122T05AA">津梁<lb ed="T" n="0670c17"/>寺</placeName>是也。僕射<persName key="A002385">蕭瑀</persName>。為大檀越。福事所資咸<lb ed="T" n="0670c18"/>從宋國。僧眾濟濟有倫理焉。<persName key="A006205">順</persName>後卒於<placeName key="CN0610103T35AA">住<lb ed="T" n="0670c19"/>寺</placeName>。春秋八十餘矣。</p>
+    <linkGrp>
+        <link targets="#0670b27 #0670b27"/>
+        <ptr target="#A006205" type="person"/>
+        <ptr target="#CN0130534Z02AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0670c05 #0670c06"/>
+        <ptr target="#A006205" type="person"/>
+        <ptr target="#CN0610103T35AA" type="place"/>
+        <ptr target="#j19333311940611" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0670c06 #0670c12"/>
+        <ptr target="#A006205" type="person"/>
+        <ptr target="#CN0411403Z21AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0670c12 #0670c13"/>
+        <ptr target="#A006205" type="person"/>
+        <ptr target="#CN0610102Z14AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0670c14 #0670c16"/>
+        <ptr target="#A006205" type="person"/>
+        <ptr target="#A004630" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0670c13 #0670c18"/>
+        <ptr target="#A006205" type="person"/>
+        <ptr target="#A002385" type="person"/>
+        <ptr target="#CN0610122T05AA" type="place"/>
+        <ptr target="#j19469511949949" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0670c18 #0670c19"/>
+        <ptr target="#A006205" type="person"/>
+        <ptr target="#CN0610103T35AA" type="place"/>
+        </linkGrp>
+</div>

@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="bqnz0938b13shiHuiQiongNi">
+    <head><placeName key="CN0321011T06AA">南安寺</placeName><ptr target="fn＊"/><persName key="A015178">釋慧瓊</persName>尼<ptr target="fn24"/>傳七</head><p><anchor n="T.50.2063.0938b14"/><lb ed="T" n="0938b14"/><persName key="A015178">慧瓊</persName>者，本姓鍾，<placeName key="CN0440104Z36AA">廣州</placeName>人也。履道高潔，不味魚<lb ed="T" n="0938b15"/>肉。年垂八十，志業彌勤，常衣芻麻，不服綿纊，<lb ed="T" n="0938b16"/>綱紀寺舍，兼行講說本經，住廣陵<placeName key="CN0321011T06AA">南安寺</placeName>。<date from-iso="0441-02-08" key="j18821711882524" to-iso="0442-01-27">元<lb ed="T" n="0938b17"/>嘉十八年</date>，宋<placeName key="CN0420106Z20AA">江夏</placeName><persName key="A015182">王世子</persName>母王氏以地施<persName key="A015178">瓊</persName>，<lb ed="T" n="0938b18"/><persName key="A015178">瓊</persName>修立為寺，號曰<placeName key="CN0321011T06AA">南<ptr target="fn25"/>外永安寺</placeName>。至<date from-iso="0445-01-25" key="j18836181884001" to-iso="0446-02-12">二十二年</date>，<lb ed="T" n="0938b19"/><placeName key="CN0320412Z04AA">蘭陵</placeName><persName key="A015184">蕭承之</persName>為起外國塔。<persName key="A015178">瓊</persName>以<date from-iso="0438-02-11" key="j18810781881432" to-iso="0439-01-31">元嘉十五年</date><lb ed="T" n="0938b20"/>又造<placeName key="CN0000000T05AA">菩提寺</placeName>，堂殿坊宇，皆悉嚴麗。因移住之，<lb ed="T" n="0938b21"/>以<placeName key="CN0321011T06AA">南安</placeName>施沙門<persName key="A015186">慧智</persName>。<persName key="A015178">瓊</persName>以<date from-iso="0443-02-16" key="j18829091883263" to-iso="0444-02-05">元嘉二<ptr target="fn26"/>十年</date>隨<persName key="A002587">孟<lb ed="T" n="0938b22"/>顗</persName>之<placeName key="CN0330602Z04AA">會稽</placeName>，至破<ptr target="fn27"/>綱卒。勅弟子云：「<ref target="#A015178" type="person">吾</ref>死後不<lb ed="T" n="0938b23"/>須埋藏，可借人剝裂身體，以<ptr target="fn28"/>飤眾生。」至於終<lb ed="T" n="0938b24"/>盡，不忍屠割，乃<ptr target="fn29"/>造<placeName key="CN0321183Z15AA">句容縣</placeName>，<ptr target="fn30"/>舉著山中，欲使<lb ed="T" n="0938b25"/>鳥獸自就噉之。經十餘日，儼然如故，顏色不<lb ed="T" n="0938b26"/>異。令使村人以米散屍邊，鳥食遠處米盡，近<lb ed="T" n="0938b27"/>屍之粒皆<ptr target="fn31"/>存。</p><p>弟子<persName key="A015216">慧朗</persName>在<ref target="#CN0320106Z05AA" type="place">都</ref>聞之，奔馳奉<lb ed="T" n="0938b28"/>迎，還葬<placeName key="CN0320114T02AA">高座寺</placeName>前<ptr target="fn32"/>堈，墳上起塔云。</p>
+    <linkGrp>
+        <link targets="#0938b16 #0938b18"/>
+        <ptr target="#A015178" type="person"/>
+        <ptr target="#A015182" type="person"/>
+        <ptr target="#CN0321011T06AA" type="place"/>
+        <ptr target="#j18821711882524" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0938b19 #0938b20"/>
+        <ptr target="#A015178" type="person"/>
+        <ptr target="#CN0000000T05AA" type="place"/>
+        <ptr target="#j18810781881432" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0938b19 #0938b21"/>
+        <ptr target="#A015186" type="person"/>
+        <ptr target="#CN0000000T05AA" type="place"/>
+        <ptr target="#j18810781881432" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0938b21 #0938b22"/>
+        <ptr target="#A015178" type="person"/>
+        <ptr target="#A002587" type="person"/>
+        <ptr target="#CN0330602Z04AA" type="place"/>
+        <ptr target="#j18829091883263" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0938b27 #0938b28"/>
+        <ptr target="#A015216" type="person"/>
+        <ptr target="#CN0320114T02AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0938b23 #0938b27"/>
+        <ptr target="#A015178" type="person"/>
+        <ptr target="#CN0321183Z15AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0938b27 #0938b28"/>
+        <ptr target="#A015178" type="person"/>
+        <ptr target="#A015216" type="person"/>
+    </linkGrp>
+</div>

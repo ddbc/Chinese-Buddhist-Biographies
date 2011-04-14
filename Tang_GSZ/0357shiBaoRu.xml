@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0507a19shiBaoRu">
+    <p><anchor n="T.50.2060.0507a19"/><lb ed="T" n="0507a19"/><persName key="A005472">釋寶儒</persName>。<placeName key="CN0110104Z08AA">幽州</placeName>人也。童子出家。遊博諸講居<lb ed="T" n="0507a20"/>無常准惟道是務。後至<placeName key="CN0130423Z22AA">鄴</placeName>下依止<persName key="A002000">遠公</persName>。十<lb ed="T" n="0507a21"/>地微言頗知綱領。<date key="j19321711932535" from-iso="0578-01-01" to-iso="0578-12-31">值周喪法寶</date>。南歸<ptr target="fn08"/>在<lb ed="T" n="0507a22"/><placeName key="CN0000000A07AA">陳</placeName>。達命清通亟振名<ptr target="fn09"/>譽。<date key="j19333311936719" notAfter-iso="0590" notBefore-iso="0581">自隋氏<ptr target="fn10"/>戡定文軌<lb ed="T" n="0507a23"/>大同</date>。便歸<placeName key="CN0410300R01AA">洛汭</placeName>。還師於<persName key="A002000">遠</persName>。聽大涅槃首尾<lb ed="T" n="0507a24"/>三載。通鏡其旨。即蒙覆述。<persName key="A002000">遠</persName>自處坐印可<lb ed="T" n="0507a25"/>其言。慕義相從還居<placeName key="CN0610113T13AA">淨影</placeName>。慧心更舉。遐<ptr target="fn11"/>討<lb ed="T" n="0507a26"/>前英立破之間。深鑒彌密。<date key="j19406121942058" notAfter-iso="0605" notBefore-iso="0601">仁壽</date>建塔<placeName key="CN0411381Z33AA">鄧州</placeName>。乃<lb ed="T" n="0507a27"/>勅令<ptr target="fn12"/>往寺。名<placeName key="CN0411381T01AA">大興國</placeName>也。<persName key="A004324">帝</persName>昔龍潛所基。既<lb ed="T" n="0507a28"/>至求石訪無美者。乃取寺內璞石鐫斲為<lb ed="T" n="0507a29"/>凾。石本麁惡。磨飾將了。乃變成馬碯。細膩<lb ed="T" n="0507b01"/>異倫。復有隸<ptr target="fn13"/>字三枚。云正國得也。形設正<lb ed="T" n="0507b02"/>直巧類神工。名筆之人未可加點。又見種<lb ed="T" n="0507b03"/>種林木麟鳳等像。儒與官人圖以表奏。返<lb ed="T" n="0507b04"/>寺之後閉門修業。時因食次方見其面。不<lb ed="T" n="0507b05"/>久卒於本寺。</p>
+    <linkGrp>
+        <link targets="#0507a19 #0507a19"/>
+        <ptr target="#A005472" type="person"/>
+        <ptr target="#CN0110104Z08AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0507a20 #0507a20"/>
+        <ptr target="#A005472" type="person"/>
+        <ptr target="#A002000" type="person"/>
+        <ptr target="#CN0130423Z22AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0507a21 #0507a22"/>
+        <ptr target="#A005472" type="person"/>
+        <ptr target="#CN0000000A07AA" type="place"/>
+        <ptr target="#j19321711932535" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0507a22 #0507a24"/>
+        <ptr target="#A005472" type="person"/>
+        <ptr target="#A002000" type="person"/>
+        <ptr target="#CN0410300R01AA" type="place"/>
+        <ptr target="#j19333311936719" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0507a25 #0507a25"/>
+        <ptr target="#A005472" type="person"/>
+        <ptr target="#A002000" type="person"/>
+        <ptr target="#CN0610113T13AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0507a27 #0507a27"/>
+        <ptr target="#A004324" type="person"/>
+        <ptr target="#CN0411381T01AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0507a26 #0507a27"/>
+        <ptr target="#A005472" type="person"/>
+        <ptr target="#CN0411381T01AA" type="place"/>
+        <ptr target="#j19406121942058" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0507b03 #0507b04"/>
+        <ptr target="#A004324" type="person"/>
+        <ptr target="#A005472" type="person"/>
+    </linkGrp>
+</div>

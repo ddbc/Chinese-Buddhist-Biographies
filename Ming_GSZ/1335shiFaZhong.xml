@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0920a16shiFaZhong">
+  <p><anchor n="T.50.2062.0920a16"/><lb ed="T" n="0920a16"/><persName key="A008460">釋法忠</persName>號<persName key="A008460">牧菴</persName>。<placeName key="CN0330203Z03AA">四明</placeName>姚氏子也。<date key="j21235642123928" from-iso="1102-01-08" to-iso="1103-01-07">十九</date>試經得<lb ed="T" n="0920a17"/>度習天台教。悟一心三觀之旨未能泯跡。<lb ed="T" n="0920a18"/>故遍參名德。後至<placeName key="CN0340825T03AA">龍門</placeName>。觀水磨旋轉發明<lb ed="T" n="0920a19"/>述偈呈<persName key="A008397">佛眼</persName>曰。轉大法輪。目前包裹。更問<lb ed="T" n="0920a20"/>如何。水推石磨。<persName key="A008397">佛眼</persName>曰。其中事作麼生。<persName key="A008460">忠</persName><lb ed="T" n="0920a21"/>曰澗下水長流。<persName key="A008397">眼</persName>曰。<persName key="A008397">我</persName>有末後一句。待分<lb ed="T" n="0920a22"/>付<persName key="A008460">汝</persName>。<persName key="A008460">忠</persName>即掩耳而去。後至<placeName key="CN0360402M01AA">廬山</placeName>。於同安枯<lb ed="T" n="0920a23"/>樹中絕食清坐。宣和間湘潭大旱。禱弗應。<lb ed="T" n="0920a24"/><persName key="A008460">忠</persName>躍入龍淵呼曰。業畜當雨一尺。雨隨至。<lb ed="T" n="0920a25"/>甞居<placeName key="CN0430412M01AA">南嶽</placeName>。每跨虎出遊。儒釋皆望塵而拜。<lb ed="T" n="0920a26"/>上堂我有一句子。不借諸聖口不動自己<lb ed="T" n="0920a27"/>舌。非聲氣呼吸非情識分別。假使淨名杜<lb ed="T" n="0920a28"/>口毘耶釋迦掩室摩竭。大似掩耳偷鈴。未<lb ed="T" n="0920a29"/>免天機漏泄。直饒德山<!--找不到此地-->棒臨濟喝。若向<persName key="A008460">牧菴</persName><lb ed="T" n="0920b01"/>門下秖得一橛。千種言萬般說秖要教君<lb ed="T" n="0920b02"/>自家歇。一任大地虛空七凹八凸。<lb ed="T" n="0920b03"/>系曰。<persName key="A008460">牧菴</persName>既悟一心三觀。即當揮塵為台<lb ed="T" n="0920b04"/>教吐氣。尤以未能泯跡。乃遍扣<persName key="A001361">達磨</persName>之<lb ed="T" n="0920b05"/>徒。正如香象渡河。直欲一踏到底。所以宜<lb ed="T" n="0920b07"/>習三觀者。且指悟之一字不知其為何<lb ed="T" n="0920b08"/>物。誤認糟粕作醍醐。詆壁觀為護教。豈<lb ed="T" n="0920b09"/>非師子之蟲耶。故渰山集深斥台教傳佛<lb ed="T" n="0920b10"/>心印書。後卷當刪去。蓋令學者障悟門。造<lb ed="T" n="0920b11"/>地獄業不淺矣。</p>
+  <linkGrp>
+    <link targets="#0920a16 #0920a17"/>
+    <ptr target="#A008460" type="person"/>
+    <ptr target="#j21235642123928" type="time"/>
+  </linkGrp>
+  <linkGrp>
+    <link targets="#0920a18 #0920a22"/>
+    <ptr target="#A008460" type="person"/>
+    <ptr target="#A008397" type="person"/>
+    <ptr target="#CN0340825T03AA" type="place"/>
+  </linkGrp>
+  <linkGrp>
+    <link targets="#0920a22 #0920a24"/>
+    <ptr target="#A008460" type="person"/>
+    <ptr target="#CN0360402M01AA" type="place"/>
+  </linkGrp>
+  <linkGrp>
+    <link targets="#0920a25 #0920a29"/>
+    <ptr target="#A008460" type="person"/>
+    <ptr target="#CN0430412M01AA" type="place"/>
+  </linkGrp>
+</div>

@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0570b15shiZhiKai">
+    <p><anchor n="T.50.2060.0570b15"/><lb ed="T" n="0570b15"/><persName key="A006044">釋智鍇</persName>。姓夏<ptr target="fn15"/>侯。<placeName key="CN0360103Z01AA">豫章</placeName>人。少出家在<placeName key="CN0320102T24AA">楊州興<lb ed="T" n="0570b16"/>皇寺</placeName>。聽<persName key="A002918">朗公</persName>講三論。善受玄文。有名當<lb ed="T" n="0570b17"/>日。<date key="j19384271938780" from-iso="0595-02-17" to-iso="0596-02-05">開皇十五年</date>遇<persName key="A001301">天台顗公</persName>。修習禪法特<lb ed="T" n="0570b18"/>有念力。<persName key="A001301">顗</persName>歎重<persName key="A006044">之</persName>。晚講涅槃法華及十誦<lb ed="T" n="0570b19"/>律。弘敷之盛見重於時。又善外學。文筆史<lb ed="T" n="0570b20"/>籍彌是所長。晚住<placeName key="CN0360402M01AA">廬山</placeName>造<placeName key="CN0360402T19AA">大林精舍</placeName>。締構<lb ed="T" n="0570b21"/>伊始並是營綜。末又治<placeName key="CN0360402T08AA">西林寺</placeName>。兩處監護皆<lb ed="T" n="0570b22"/>終其事。然守志<placeName key="CN0360402T19AA">大林</placeName>。二十餘載足不下山。<lb ed="T" n="0570b23"/>常修定業。<persName key="A004324">隋文</persName>重<persName key="A006044">之</persName>。下勅追召。稱疾不<lb ed="T" n="0570b24"/>赴。後<placeName key="CN0360103Z01AA">豫章</placeName>請講。苦違不往。云<persName key="A006044">吾</persName>意終山<lb ed="T" n="0570b25"/>舍。豈死城邑。道俗虔請。不獲志而臨之。未<lb ed="T" n="0570b26"/>幾遂卒于州治之寺。時以為知命也。春秋<lb ed="T" n="0570b27"/>七十有八。即<date key="j19440381944066" from-iso="0610-06-30" to-iso="0610-07-28">大業六年六月</date>也。氣屬炎熱。而<lb ed="T" n="0570b28"/>加坐如生。接還<placeName key="CN0360402M01AA">廬阜</placeName>形不摧變。都無臭腐<lb ed="T" n="0570b29"/><ptr target="fn16"/>反有異香。道俗歎訝。遂緘于石室。至今如<lb ed="T" n="0570c01"/>初焉。</p>
+    <linkGrp>
+        <link targets="#0570b15 #0570b15"/>
+        <ptr target="#A006044" type="person"/>
+        <ptr target="#CN0360103Z01AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0570b15 #0570b16"/>
+        <ptr target="#A006044" type="person"/>
+        <ptr target="#A002918" type="person"/>
+        <ptr target="#CN0320102T24AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0570b17 #0570b18"/>
+        <ptr target="#A006044" type="person"/>
+        <ptr target="#A001301" type="person"/>
+        <ptr target="#j19384271938780" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0570b20 #0570b20"/>
+        <ptr target="#A006044" type="person"/>
+        <ptr target="#CN0360402T19AA" type="place"/>
+        </linkGrp>
+    <linkGrp>
+        <link targets="#0570b21 #0570b21"/>
+        <ptr target="#A006044" type="person"/>
+        <ptr target="#CN0360402T08AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0570b23 #0570b24"/>
+        <ptr target="#A006044" type="person"/>
+        <ptr target="#A004324" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0570b24 #0570b27"/>
+        <ptr target="#A006044" type="person"/>
+        <ptr target="#CN0360103Z01AA" type="place"/>
+        <ptr target="#j19440381944066" type="time"/>
+    </linkGrp>
+</div>

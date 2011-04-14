@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0674a20shiBaoAn">
+    <p><anchor n="T.50.2060.0674a20"/><lb ed="T" n="0674a20"/><persName key="A007234">釋寶安</persName>。<placeName key="CN0370882Z18AA">兗州</placeName>人。安貧習學。見者敬<persName key="A007234">之</persName>。初依<lb ed="T" n="0674a21"/><persName key="A002000">慧遠</persName>聽涉涅槃。博究宗領。<date key="j19318061932170" from-iso="0577-01-01" to-iso="0577-12-31">周滅齊亡</date>。南投<lb ed="T" n="0674a22"/><placeName key="CN0000000A07AA">陳國</placeName>。<date key="j19361891936553" from-iso="0589-01-01" to-iso="0589-12-31">大隋一統</date>還歸<placeName key="CN0370882Z18AA">鄉壤</placeName>。行次<placeName key="CN0410305Z16AA">瀍洛</placeName>。又從<lb ed="T" n="0674a23"/><persName key="A002000">遠</persName>焉。因仍故業彌見深隱。<date key="j19355041935857" from-iso="0587-02-16" to-iso="0588-02-04">開皇七年</date>。慕義<lb ed="T" n="0674a24"/>入<placeName key="CN0610000E01AA">關</placeName>住<placeName key="CN0610113T13AA">淨影寺</placeName>。當<persName key="A002000">遠</persName>盛日。法輪之下聽眾<lb ed="T" n="0674a25"/>將千。講會制約一付<persName key="A007234">安</persName>掌。于時遠方輻湊<lb ed="T" n="0674a26"/>名望者多。難用緝諧。故在斯任。<persName key="A007234">安</persName>隨機喻<lb ed="T" n="0674a27"/>接匡救有儀。雖具徵治而無銜怨。各懷敬<lb ed="T" n="0674a28"/>歎登<ptr target="fn05"/>白稱焉。講十地涅槃純熟時匠。性<lb ed="T" n="0674a29"/>存攝默不好揚演。有問酬對辯<ptr target="fn06"/>寫泉流。<lb ed="T" n="0674b01"/><date key="j19409671941349" from-iso="0602-02-01" to-iso="0603-02-18">仁壽二年</date>。奉勅置塔於營州<placeName key="CN0211302T01AA">梵幢寺</placeName>。即<placeName key="CN0211302Z09AA">黃龍<lb ed="T" n="0674b02"/>城</placeName>也。舊有十七級浮圖。<ptr target="fn07"/>擁在其內。<persName key="A007234">安</persName>置舍<lb ed="T" n="0674b03"/>利。當夜半上並放白光。狀如雲霧。初<ptr target="fn＊"/>惟<lb ed="T" n="0674b04"/>一丈。漸大滿院。明徹朗然良久乃滅。前後三<lb ed="T" n="0674b05"/>度相類並同。舊有石龜形狀極大。欲作函<lb ed="T" n="0674b06"/>用引致極難。匠石規模斵截成函。三分去<lb ed="T" n="0674b07"/>二。<persName key="A007234">安</persName>自思念。石大函小何由卒成。懼日愆<lb ed="T" n="0674b08"/>期內懷憂灼。比曉看之。其石稱函。自然分<lb ed="T" n="0674b09"/>析。不勞鐫琢宛爾成就。函雖神造計應大<lb ed="T" n="0674b10"/>重。薄用拖曳輕迅若馳。不勞至寺。便<ptr target="fn08"/>依<lb ed="T" n="0674b11"/>期限。深慶情願。晚還<placeName key="CN0610102Z14AA">京寺</placeName>不測其終。</p>
+    <linkGrp>
+        <link targets="#0674a20 #0674a20"/>
+        <ptr target="#A007234" type="person"/>
+        <ptr target="#CN0370882Z18AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0674a20 #0674a21"/>
+        <ptr target="#A007234" type="person"/>
+        <ptr target="#A002000" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0674a21 #0674a22"/>
+        <ptr target="#A007234" type="person"/>
+        <ptr target="#A002000" type="person"/>
+        <ptr target="#CN0000000A07AA" type="place"/>
+        <ptr target="#j19318061932170" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0674a22 #0674a23"/>
+        <ptr target="#A007234" type="person"/>
+        <ptr target="#A002000" type="person"/>
+        <ptr target="#CN0410305Z16AA" type="place"/>
+        <ptr target="#j19361891936553" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0674a23 #0674a26"/>
+        <ptr target="#A007234" type="person"/>
+        <ptr target="#A002000" type="person"/>
+        <ptr target="#CN0610113T13AA" type="place"/>
+        <ptr target="#j19355041935857" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0674b01 #0674b11"/>
+        <ptr target="#A007234" type="person"/>
+        <ptr target="#CN0211302T01AA" type="place"/>
+        <ptr target="#j19409671941349" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0674b11 #0674b11"/>
+        <ptr target="#A007234" type="person"/>
+        <ptr target="#CN0610102Z14AA" type="place"/>
+        </linkGrp>
+</div>

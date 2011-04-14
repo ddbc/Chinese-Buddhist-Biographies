@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0534c10shiSanHui">
+    <p><anchor n="T.50.2060.0534c10"/><lb ed="T" n="0534c10"/><persName key="A005742">釋三慧</persName>。<ptr target="fn16"/><placeName key="CN0140123Z03AA">婁煩</placeName>人。崇履涅槃以為正業。行<lb ed="T" n="0534c11"/>流<placeName key="CN0000000E02AA">河朔</placeName>名振<placeName key="CN0410300R02AA">伊</placeName><placeName key="CN0410301R01AA">瀍</placeName>。<date key="j19420591943236" notAfter-iso="0608" notBefore-iso="0605">大業初年</date>。以學功成采。<lb ed="T" n="0534c12"/>下勅徵入<placeName key="CN0410305T02AA">慧日道場</placeName>。<placeName key="CN0410305Z16AA">東都</placeName>晚進玄津通涉。<persName key="A005742">慧</persName><lb ed="T" n="0534c13"/>有功矣。而神氣清嚴顧盻成則。鼓言動論<lb ed="T" n="0534c14"/>眾所憚焉 。<persName key="A004413">帝</persName>以通道明機務須揚選。乃勅<lb ed="T" n="0534c15"/>往<placeName key="CN0510108Z02AA">巴蜀</placeName>搜舉藝能。屬<date key="j19464591946945" notAfter-iso="0618" notBefore-iso="0617">隋運告終</date>寓居<ptr target="fn17"/><placeName key="CN0511823Z42AA">卭<lb ed="T" n="0534c16"/>[棘/火]</placeName>。流離從物因事引生。而性絕煩囂屏居<lb ed="T" n="0534c17"/>弘業。<persName key="A005740">酇國公竇軌</persName>作鎮<placeName key="CN0510000E01AA">庸蜀</placeName>。偏所諮崇。服<lb ed="T" n="0534c18"/>其處靜自虛。致斯隆敬異等。<persName key="A005742">慧</persName>觀時制用。<lb ed="T" n="0534c19"/>故無虛影。<date key="j19497371950091" from-iso="0626-02-05" to-iso="0627-01-25">武德九年</date>遠朝<placeName key="CN0610102Z01AA">京闕</placeName>。勅見勞問<lb ed="T" n="0534c20"/>任處<placeName key="CN0610102Z01AA">黃圖</placeName>。<ptr target="fn18"/>工部尚書<persName key="A005743">段綸</persName>。宿樹善因造<placeName key="CN0610102T16AA">靈<lb ed="T" n="0534c21"/>化寺</placeName>。欽<persName key="A005742">慧</persName>道素上奏<ptr target="fn19"/>任之。時復闡弘重移<lb ed="T" n="0534c22"/><ptr target="fn20"/>滎<ptr target="fn＊"/>采。頗傳筆記。後學稱尋。<date key="j19500921958507" notAfter-iso="0650" notBefore-iso="0627">貞觀年中</date>召<lb ed="T" n="0534c23"/>入參譯。綴文證義倫次可崇。製翻經館序。<lb ed="T" n="0534c24"/>控<ptr target="fn21"/>情置列贍勇豐矣。以其年卒於<placeName key="CN0610102T16AA">本寺</placeName>。春<lb ed="T" n="0534c25"/>秋七十矣。<persName key="A005742">慧</persName>昔在<placeName key="CN0140825Z16AA">絳州</placeName>。獨處別院感見神<lb ed="T" n="0534c26"/>童。形質希世。致敬於<persName key="A005742">慧</persName>云。屈法師誡勗<lb ed="T" n="0534c27"/>知事勿耕墓所。言已便隱。初<ptr target="fn22"/>未之為述。<lb ed="T" n="0534c28"/>後復重來還述前事。若不為語。當打彼僧<lb ed="T" n="0534c29"/>必至死也。登為問之。乃正耕田中故塚。遂<lb ed="T" n="0535a01"/>令止之。由是僧侶清晏卒無後患。自非立<lb ed="T" n="0535a02"/>正處懷。焉使非人投告。故<persName key="A005742">慧</persName>之垂訓。不許<lb ed="T" n="0535a03"/>觸犯幽顯。如所引云。</p>
+    <linkGrp>
+        <link targets="#0534c10 #0534c10"/>
+        <ptr target="#A005742" type="person"/>
+        <ptr target="#CN0140123Z03AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0534c10 #0534c11"/>
+        <ptr target="#A005742" type="person"/>
+        <ptr target="#CN0000000E02AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0534c11 #0534c13"/>
+        <ptr target="#A005742" type="person"/>
+        <ptr target="#CN0410305T02AA" type="place"/>
+        <ptr target="#j19420591943236" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0534c14 #0534c15"/>
+        <ptr target="#A005742" type="person"/>
+        <ptr target="#A004413" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0534c14 #0534c15"/>
+        <ptr target="#A005742" type="person"/>
+        <ptr target="#CN0510108Z02AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0534c15 #0534c16"/>
+        <ptr target="#A005742" type="person"/>
+        <ptr target="#CN0511823Z42AA" type="place"/>
+        <ptr target="#j19464591946945" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0534c17 #0534c17"/>
+        <ptr target="#A005740" type="person"/>
+        <ptr target="#CN0510000E01AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0534c16 #0534c19"/>
+        <ptr target="#A005742" type="person"/>
+        <ptr target="#A005740" type="person"/>
+        <ptr target="#CN0511823Z42AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0534c19 #0534c22"/>
+        <ptr target="#A005742" type="person"/>
+        <ptr target="#A004630" type="person"/>
+        <ptr target="#A005743" type="person"/>
+        <ptr target="#CN0610102T16AA" type="place"/>
+        <ptr target="#j19497371950091" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0534c22 #0534c24"/>
+        <ptr target="#A005742" type="person"/>
+        <ptr target="#CN0610102T16AA" type="place"/>
+        <ptr target="#j19500921958507" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0534c25 #0535a01"/>
+        <ptr target="#A005742" type="person"/>
+        <ptr target="#CN0140825Z16AA" type="place"/>
+    </linkGrp>
+</div>

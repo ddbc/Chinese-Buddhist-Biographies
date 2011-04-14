@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0407a05shiFaZong">
+    <p><anchor n="T.50.2059.0407a05"/><lb ed="T" n="0407a05"/><persName key="A002343">釋法宗</persName>，<placeName key="CN0331002Z15AA">臨海</placeName>人。少好遊獵，嘗於<placeName key="CN0330683Z21AA">剡</placeName>遇射孕<lb ed="T" n="0407a06"/>鹿<ptr target="fn03"/>母墮胎，鹿母銜箭，猶就地舐子。<persName key="A002343">宗</persName>迺<lb ed="T" n="0407a07"/>悔悟，知貪生愛子，是有識所同。於是摧弓<lb ed="T" n="0407a08"/>折矢，出家業道。常分衛自資，受一食法，蔬<lb ed="T" n="0407a09"/>苦六時，以悔先罪。誦《法華》、《維摩》。常昇臺諷<lb ed="T" n="0407a10"/>詠，響聞四遠。士庶稟其歸戒者三千餘人，<lb ed="T" n="0407a11"/>遂開拓所住，以為精舍。因誦為目，號曰「<placeName key="CN0330623T05AA">法<lb ed="T" n="0407a12"/>華臺</placeName>」也。<persName key="A002343">宗</persName>後不測所終。</p>
+    <linkGrp>
+        <link targets="#0407a11 #0407a12"/>
+        <ptr target="#A002343" type="person"/>
+        <ptr target="#CN0330623T05AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0407a05 #0407a08"/>
+        <ptr target="#A002343" type="person"/>
+        <ptr target="#CN0330683Z21AA" type="place"/>
+        </linkGrp>
+</div>

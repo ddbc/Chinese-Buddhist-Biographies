@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0661b22shiDeShan">
+    <p><anchor n="T.50.2060.0661b22"/><lb ed="T" n="0661b22"/><persName key="A006966">釋德山</persName>。姓山氏。莫測何人。忽棄妻子入<placeName key="CN0510108M02AA">山</placeName><!-- (X77n1522_p0220a05) --><lb ed="T" n="0661b23"/>修道。鬚髮不暇削。衣食不暇給。唯息緣靜<lb ed="T" n="0661b24"/>念為得性也。人莫知其觀行。視其相狀如<lb ed="T" n="0661b25"/>得定者。時遊化<placeName key="CN0510108T19AA">竹林</placeName><placeName key="CN0610116T03AA">龍池</placeName>。開悟道俗。以清<lb ed="T" n="0661b26"/>簡為本。每云。煩亂之法道俗同弊。故政煩<lb ed="T" n="0661b27"/>則國亂。心煩則意亂。水清則魚石可見。神<lb ed="T" n="0661b28"/>清則想倒可識。學清簡者尚自諠煩。況在<lb ed="T" n="0661b29"/>亂使焉可道哉。後入<placeName key="CN0511181M07AA">馬鞍山</placeName>。每多毒蛇。噬<lb ed="T" n="0661c01"/>人必死。然<persName key="A006966">山</persName>來往都不為害。諸餘僮侍晨<lb ed="T" n="0661c02"/>夕所行。一無所懼。曾蹋被嚙。<persName key="A006966">山</persName>以水洗之。<lb ed="T" n="0661c03"/>尋爾還復。後還<placeName key="CN0510108M02AA">天勅山</placeName>夏坐樹下。人來山<lb ed="T" n="0661c04"/>所逢虎迫逐。便入繩床下。虎蹲床前。<persName key="A006966">山</persName>曰。<lb ed="T" n="0661c05"/>床下佛子肉味可勝貧道耶。即脫衣以施。<lb ed="T" n="0661c06"/>虎屈起而永去。後其小子於山訪獲。<persName key="A006966">山</persName>曰。<lb ed="T" n="0661c07"/>爾來何為。曰久不奉見。生死不知。故來定<lb ed="T" n="0661c08"/>省。<persName key="A006966">山</persName>曰。汝去各自覓活。更來與杖。去後數<lb ed="T" n="0661c09"/>年又來。<persName key="A006966">山</persName>取杖欲捶之。兒却住曰。闍梨遇<lb ed="T" n="0661c10"/>兒如他人。他人可受打耶。<persName key="A006966">山</persName>大笑曰。<persName key="A006966">吾</persName>不<lb ed="T" n="0661c11"/>打爾者。必更來敗<persName key="A006966">我</persName>道意。遂長去。<persName key="A006966">山</persName>年九<lb ed="T" n="0661c12"/>十餘。終於山谷舍。時益州<placeName key="CN0510105T01AA">草堂寺</placeName><persName key="A006968">旭上</persName>者。<lb ed="T" n="0661c13"/>不知何許人。少居<placeName key="CN0510105T01AA">草堂</placeName>。唯以禪誦為業。餘<lb ed="T" n="0661c14"/>無所營。蜀土尤尚二月八日四月八日。每<lb ed="T" n="0661c15"/>至二時四方大集馳騁遊遨。諸僧忙遽無<lb ed="T" n="0661c16"/>一閑者。而<persName key="A006968">旭</persName>端坐竹林泊然寂想。瓶水自<lb ed="T" n="0661c17"/>溢爐香自然。諸人城西看了相從參之。<persName key="A006968">旭</persName><lb ed="T" n="0661c18"/>儼然不動等同金石。三日之後方復如常。<lb ed="T" n="0661c19"/>四眾敬而異之。故覩如朝日之初出。同共<lb ed="T" n="0661c20"/>目之為<persName key="A006968">旭上</persName>也。年九十<ptr target="fn06"/>八。</p>
+    <linkGrp>
+        <link targets="#0661b22 #0661b24"/>
+        <ptr target="#A006966" type="person"/>
+        <ptr target="#CN0510108M02AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0661b25 #0661b26"/>
+        <ptr target="#A006966" type="person"/>
+        <ptr target="#CN0510108T19AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0661b25 #0661b26"/>
+        <ptr target="#A006966" type="person"/>
+        <ptr target="#CN0610116T03AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0661b29 #0661c03"/>
+        <ptr target="#A006966" type="person"/>
+        <ptr target="#CN0511181M07AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0661c03 #0661c12"/>
+        <ptr target="#A006966" type="person"/>
+        <ptr target="#CN0510108M02AA" type="place"/>
+        </linkGrp>
+    <linkGrp>
+        <link targets="#0661c12 #0661c14"/>
+        <ptr target="#A006968" type="person"/>
+        <ptr target="#CN0510105T01AA" type="place"/>
+        </linkGrp>
+</div>

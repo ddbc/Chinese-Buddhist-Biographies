@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0487c08shiHuiRong">
+    <p><anchor n="T.50.2060.0487c08"/><lb ed="T" n="0487c08"/><persName key="A004824">釋慧榮</persName>。姓顧氏。<placeName key="CN0330602Z05AA">會稽山陰</placeName>人也。<date key="j19136611914595" notAfter-iso="0529" notBefore-iso="0527">梁高<ptr target="fn16"/>祖大<lb ed="T" n="0487c09"/>通年</date>。辭親出聽。時<placeName key="CN0320104T04AA">建初</placeName><placeName key="CN0320103T06AA">彭城</placeName>盛弘成實。素<lb ed="T" n="0487c10"/>未陳略即盡<ptr target="fn17"/>清辯。一眾同嗟便開令望。而<lb ed="T" n="0487c11"/>稟性虛廓不指世務。<ptr target="fn18"/>惟以法事餘全無敘。<lb ed="T" n="0487c12"/>鄉邑二親哀<persName key="A004824">其</persName>弱喪。數<ptr target="fn19"/>因行李寄以書信。<lb ed="T" n="0487c13"/><persName key="A004824">榮</persName>得而焚之。顧諸友曰。<persName key="A004824">余</persName>豈不懷乎。廢<persName key="A004824">余</persName><lb ed="T" n="0487c14"/>業也。書中但二字耳。復何開乎。人問是何。<lb ed="T" n="0487c15"/>答吉凶也。如此積功三十餘載。不號義龍<lb ed="T" n="0487c16"/>誓無返迹。自是專業勇鎧。聲稱彌遠。即而<lb ed="T" n="0487c17"/>講悟。學者歸之。年至五十門人亦爾。乃大<lb ed="T" n="0487c18"/>弘法席廣延緇素。時梁儲在坐素不識<persName key="A004824">之</persName>。<lb ed="T" n="0487c19"/>令問講者何名。乃抗聲曰。<persName key="A004824"><placeName key="CN0330602A01AA">禹穴</placeName>慧榮</persName><placeName key="CN0522627Z03AA">江東</placeName>獨<lb ed="T" n="0487c20"/>步。太子不識何謂儲君。一坐掩耳。以為<ptr target="fn20"/>彭<lb ed="T" n="0487c21"/>亨之太甚也。<persName key="A004824">榮</persName>從容如舊旁若無人。後與<lb ed="T" n="0487c22"/>諸徒還歸故邑。其母尚在餘並物故。乃喟然<lb ed="T" n="0487c23"/>嘆曰。十五辭隣故。五十還故隣。少年不識<lb ed="T" n="0487c24"/>我。長老無一人。本邑道俗欲光其價。而忌<lb ed="T" n="0487c25"/>其言令也。大集諸眾令其竪義。<persName key="A004824">榮</persName>曰。<persName key="A004824">余</persName>學<lb ed="T" n="0487c26"/>廣矣。輒竪恐致餘詞。任眾舉其義門。然後<lb ed="T" n="0487c27"/>標據。眾以其博達矜尚。乃令竪八十種好。<lb ed="T" n="0487c28"/>謂必不能誦持。<persName key="A004824">榮</persName>曰。舉眾無人也。斯乃文<lb ed="T" n="0487c29"/>繁義可知耳。即部分上下。以法繩持。須臾<lb ed="T" n="0488a01"/>牒數列名出體。僉雖難激蓋無成濟。晚又<lb ed="T" n="0488a02"/>出都。相仍講授。<date key="j19340291935504" notAfter-iso="0587" notBefore-iso="0583">至德末年</date>卒<ptr target="fn01"/>於<placeName key="CN0320106Z05AA">楊都</placeName>。</p>
+    <linkGrp>
+        <link targets="#0487c08 #0487c09"/>
+        <ptr target="#A004824" type="person"/>
+        <ptr target="#CN0330602Z05AA" type="place"/>
+        <ptr target="#j19136611914595" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0487c09 #0487c10"/>
+        <ptr target="#A004824" type="person"/>
+        <ptr target="#CN0320104T04AA" type="place"/>
+        <ptr target="#j19136611914595" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0487c09 #0487c10"/>
+        <ptr target="#A004824" type="person"/>
+        <ptr target="#CN0320103T06AA" type="place"/>
+        <ptr target="#j19136611914595" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0488a02 #0488a02"/>
+        <ptr target="#A004824" type="person"/>
+        <ptr target="#CN0320106Z05AA" type="place"/>
+        <ptr target="#j19340291935504" type="time"/>
+    </linkGrp>
+</div>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><div xml:id="mscc0356a07huiLan" xmlns="http://www.tei-c.org/ns/1.0"><head>宋<placeName key="CN0320105T02AA">中興寺</placeName><persName key="A002309">釋慧攬</persName></head><p><anchor n="X.77.1523.0356a07"/><lb ed="X" n="0356a07"/><persName key="A002309">惠欖</persName>本姓成。<placeName key="CN0620902Z11AA">酒泉</placeName>人也。道行峻梁。德聲遠振。與玄高<lb ed="X" n="0356a08"/>俱以寂觀見崇於西土。遂遠遊外國。供養羅漢。禮敬<lb ed="X" n="0356a09"/>佛鉢。習禪於<placeName key="WW034KASME02AA">罽賓</placeName><persName key="A003333">達摩達</persName>。以<date from-iso="0427-02-13" to-iso="0428-02-02" key="j18770621877416">元嘉四年</date>。於樹上。得菩<lb ed="X" n="0356a10"/>薩戒本。<ptr target="fn1"/>人定見<persName key="A001428">彌勒</persName>。云是我與汝。<placeName key="CN0000000E01AA">漢地</placeName>道士。多發大<lb ed="X" n="0356a11"/>心。欲使大德宣流。<persName key="A003333">達摩</persName>問言。何處受之。答曰當於尼<lb ed="X" n="0356a12"/>揵訶羅國。影邊受之。此國去<placeName key="WW034KASME02AA">罽賓</placeName>。五千餘里。詣彼受<lb ed="X" n="0356a13"/>之。還授惠欖。謂<persName key="A002309">欖</persName>曰。汝宜還<placeName key="CN0000000E01AA">東國</placeName>。多有利益。來至于<lb ed="X" n="0356a14"/>寘<placeName key="CN0620982Z55AA">沙洲</placeName>。皆集大眾。從欖師受。舉國禪思。思法忘飡。<placeName key="CN0510108Z03AA">蜀</placeName><lb ed="X" n="0356a15"/><ptr target="fn2"/>聞禪學。莫不師焉(云云)。</p>
+    <linkGrp>
+        <link targets="#0356a07 #0356a07"/>
+        <ptr type="person" target="#A002309"/>
+        <ptr type="place" target="#CN0620902Z11AA"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0356a09 #0356a09"/>
+        <ptr type="person" target="#A002309"/>
+        <ptr type="person" target="#A003333"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0356a09 #0356a10"/>
+        <ptr type="person" target="#A002309"/>
+        <ptr type="time" target="#d18770621877416"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0356a13 #0356a14"/>
+        <ptr type="person" target="#A002309"/>
+        <ptr type="place" target="#CN0620982Z55AA"/>
+    </linkGrp>
+</div>

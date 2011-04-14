@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="bqnz0935a26zhiXianNi">
+    <head>司州<placeName key="CN0410311T15AA">西寺</placeName><persName key="A012799">智賢</persName>尼傳三</head><p><anchor n="T.50.2063.0935a27"/><lb ed="T" n="0935a27"/><persName key="A012799">智賢</persName>，本姓趙，<placeName key="CN0130105Z03AA">常山</placeName>人也。父<persName key="A012800">珍</persName>，<placeName key="CN0131181Z34AA">扶柳</placeName>縣令。<persName key="A012799">賢</persName><lb ed="T" n="0935a28"/>幼有雅操，志槩貞立。及在緇衣，戒行修備，神<lb ed="T" n="0935a29"/>情凝遠，曠然不雜。太守<persName key="A012801">杜覇</persName>，篤信<persName key="A004009">黃</persName><persName key="A002104">老</persName>，憎<ptr target="fn13"/>愱<lb ed="T" n="0935b01"/>釋種，符下諸寺，剋日簡汰。制格高峻，非凡所<lb ed="T" n="0935b02"/>行。年少怖懼，皆望風奔駭，唯<persName key="A012799">賢</persName>獨無懼<ptr target="fn14"/>容，興<lb ed="T" n="0935b03"/>居自若。集城外射堂，皆是耆德，簡試之日，尼<lb ed="T" n="0935b04"/>眾盛壯，唯<persName key="A012799">賢</persName>而已。<persName key="A012801">覇</persName>先試<persName key="A012799">賢</persName>以格，格皆有餘。<lb ed="T" n="0935b05"/><persName key="A012799">賢</persName>儀觀清雅，辭吐辯麗。<persName key="A012801">覇</persName>密挾邪心，逼<persName key="A012799">賢</persName>獨<lb ed="T" n="0935b06"/>住。<persName key="A012799">賢</persName>識其意，誓不毀戒法，不苟存身命，抗言<lb ed="T" n="0935b07"/>拒之。<persName key="A012801">覇</persName>怒，以刀斫<persName key="A012799">賢</persName>二十餘瘡，悶絕躄地，<persName key="A012801">覇</persName><lb ed="T" n="0935b08"/>去乃甦。倍加精進，菜齋苦節，門徒百餘人，常<lb ed="T" n="0935b09"/>如水乳。及<persName key="A002515">符堅</persName>偽立，聞風敬重，為製織繡袈<lb ed="T" n="0935b10"/>裟，三歲方成，價直<ptr target="fn15"/>百萬。後住司州<placeName key="CN0410311T15AA">西寺</placeName>，弘<lb ed="T" n="0935b11"/>顯正法，開長信行。晉<date key="j18547671856935" notAfter-iso="0372-01-06" notBefore-iso="0366-01-29">太和</date>中，年七十餘，誦正<lb ed="T" n="0935b12"/>法華經，猶日夜一遍，其所住處，眾鳥依栖，經<lb ed="T" n="0935b13"/>行之時，鳴呼隨逐<ptr target="fn16"/>云。</p>
+    
+    <linkGrp>
+        <link targets="#0935a29 #0935b08"/>
+        <ptr target="#A012799" type="person"/>
+        <ptr target="#A012801" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0935b11 #0935b13"/>
+        <ptr target="#A012799" type="person"/>
+        <ptr target="#j18547671856935" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0935a27 #0935a27"/>
+        <ptr target="#A012799" type="person"/>
+        <ptr target="#A012800" type="person"/>
+        </linkGrp>
+    <linkGrp>
+        <link targets="#0935b10 #0935b10"/>
+        <ptr target="#A012799" type="person"/>
+        <ptr target="#CN0410311T15AA" type="place"/>
+        </linkGrp>
+</div>

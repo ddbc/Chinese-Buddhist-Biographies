@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0931b18shiTanMi">
+  <p><anchor n="T.50.2062.0931b18"/><lb ed="T" n="0931b18"/><persName key="A008740">釋曇密</persName>號<persName key="A008740">混源</persName>。<placeName key="CN0331023M01AA">天台</placeName>盧氏子也。生即英敏頴<lb ed="T" n="0931b19"/>異匪凡。幼失廕天志懷高邁。初依邑之資<lb ed="T" n="0931b20"/>福道榮研窮竺教。十六圓具足戒登大僧<lb ed="T" n="0931b21"/>籍。大小律部瑩無瑕疵。精習天台教觀。而<lb ed="T" n="0931b22"/>於頓漸偏圓性具理毒之旨如指諸掌。一<lb ed="T" n="0931b23"/>日歎曰。教乘之妙無得而稱。但未離於名<lb ed="T" n="0931b24"/>言終非見性。不若更衣從別傳之學。倘有<lb ed="T" n="0931b25"/>隙見足快生平。聞<persName key="A000475">大慧</persName>唱道<placeName key="CN0330110T11AA">徑山</placeName>。腰包禮<lb ed="T" n="0931b26"/>謁。又訪雪巢一此庵元諸公。皆無省發。於<lb ed="T" n="0931b27"/>是從<placeName key="CN0350000E02AA">閩</placeName>而之泉南<!--找不到此地-->。投<placeName key="CN0350503T05AA">教忠</placeName><persName key="A008520">光和尚</persName>。俾職維<lb ed="T" n="0931b28"/>那。聞忠舉香嚴擊竹因緣。豁然契悟呈偈。<lb ed="T" n="0931b29"/>忠詰玄沙未徹之語。對酧無滯。始囑曰。子<lb ed="T" n="0931c01"/>此後方可見<persName key="A000475">大慧</persName>也。於是受教辭往梅陽<!--找不到此地-->。<lb ed="T" n="0931c02"/>服勤四載。<persName key="A000475">慧</persName>甞登座焉。出世奉詔住持<placeName key="CN0330103T02AA">淨<lb ed="T" n="0931c03"/>慈</placeName>大弘<placeName key="CN0350503T05AA">教忠</placeName>之道。戶外之履常滿。示寂塔<lb ed="T" n="0931c04"/>于本山之西北隅。</p>
+  <linkGrp>
+    <link targets="#0931b25 #0931b26"/>
+    <ptr target="#A008740" type="person"/>
+    <ptr target="#A000475" type="person"/>
+    <ptr target="#CN0330110T11AA" type="place"/>
+  </linkGrp>
+  <linkGrp>
+    <link targets="#0931b27 #0931c01"/>
+    <ptr target="#A008740" type="person"/>
+    <ptr target="#A008520" type="person"/>
+    <ptr target="#CN0350503T05AA" type="place"/>
+  </linkGrp>
+  <linkGrp>
+    <link targets="#0931c02 #0931c04"/>
+    <ptr target="#A008740" type="person"/>
+    <ptr target="#CN0330103T02AA" type="place"/>
+  </linkGrp>
+</div>

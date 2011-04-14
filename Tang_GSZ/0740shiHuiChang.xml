@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0704c21shiHuiChang"><head>隋京師<placeName key="CN0610113T02AA">日嚴道場</placeName><persName key="A007524">釋慧常</persName>傳九</head>
+    <p><anchor n="T.50.2060.0704c21"/><lb ed="T" n="0704c21"/><persName key="A007524">釋慧常</persName>。<placeName key="CN0610102Z10AA">京兆</placeName>人。以梵唄之<ptr target="fn30"/>工。住<placeName key="CN0610113T02AA">日嚴寺</placeName>。尤<lb ed="T" n="0704c22"/>能却囀<ptr target="fn31"/>哢響飛揚。長引滔滔清流不竭。然<lb ed="T" n="0704c23"/>其聲發喉中。脣口不動。與人並立推檢莫<lb ed="T" n="0704c24"/>知。自非素識方明其作。時<persName key="A004324">隋文</persName><date key="j19333191942058" notAfter-iso="0605" notBefore-iso="0581">興法</date>。<persName key="A004413">煬<lb ed="T" n="0704c25"/>帝</persName>倍隆。四海輻湊同歸帝室。至於梵<ptr target="fn32"/>導讚<lb ed="T" n="0704c26"/>敘各重家風聞<persName key="A007524">常</persName>一梵颯然傾耳。皆<ptr target="fn33"/>推<lb ed="T" n="0704c27"/>心喪膽。如飢渴焉。僉曰。若此聲梵。有心<lb ed="T" n="0704c28"/>聞之何得不善也。眾雖效學風骨時參。至<lb ed="T" n="0704c29"/>於用與牽挽。皆不及矣。晚入<placeName key="CN0410305Z16AA">東都</placeName>。<date key="j19449831945366" from-iso="0613-01-30" to-iso="0614-02-17"><persName key="A005879">梟感</persName><lb ed="T" n="0705a01"/>作亂</date><!-- (http://zh.wikipedia.org/zh-tw/杨玄感，2011.02.11) -->。齋梵總任咸共委<persName key="A007524">常</persName>。及平殄後復還<lb ed="T" n="0705a02"/><ptr target="fn01"/><placeName key="CN0610000E01AA">關壤</placeName>。時有僣帝曰。逆賊建福。言涉國家<lb ed="T" n="0705a03"/>並可收之。因即募覓。<persName key="A007524">常</persName>被固送。行次<placeName key="CN0410328Z11AA">莎<lb ed="T" n="0705a04"/><ptr target="fn02"/>柵</placeName>。逃賊留曰。往必被戮。可於此止。<persName key="A007524">常</persName>曰。<lb ed="T" n="0705a05"/>債負久作。終須償了。<ptr target="fn03"/>遂至<placeName key="CN0410305Z16AA">東都</placeName>。果如言<lb ed="T" n="0705a06"/>焉。年四十餘矣。時京師<placeName key="CN0610103T03AA">興善</placeName>有<persName key="A006859">道英</persName><persName key="A007525">神爽</persName>者。<lb ed="T" n="0705a07"/>亦以聲梵馳名。<persName key="A006859">道英</persName>喉顙偉壯詞氣雄遠。<lb ed="T" n="0705a08"/>大眾一聚其數萬餘聲調稜稜高超眾外。<placeName key="CN0610103T03AA">興<lb ed="T" n="0705a09"/>善</placeName>大殿鋪基十畝。櫺扇高大非卒搖鼓。及<persName key="A006859">英</persName><lb ed="T" n="0705a10"/>引眾遶旋行次窓門。聲聒衝擊皆為動<ptr target="fn04"/>振。<lb ed="T" n="0705a11"/><persName key="A007525">神爽</persName>唱梵彌工長引。遊囀聯綿周流內外。<lb ed="T" n="0705a12"/>臨機<ptr target="fn05"/>賒捉愜洽眾心。<date key="j19500921958507" notAfter-iso="0650" notBefore-iso="0627">貞觀年</date>中。<placeName key="CN0411727Z18AA">豫州</placeName>治下<lb ed="T" n="0705a13"/><placeName key="CN0411727T04AA">照機寺</placeName><persName key="A007527">曇寶禪師</persName>者。斷穀練形戒行無點。<lb ed="T" n="0705a14"/>年六十許。<persName key="A007524">常</persName>講觀音導引士俗。而聲調超<lb ed="T" n="0705a15"/>挺特異<ptr target="fn06"/>人<ptr target="fn07"/>倫。寺有塔基。至於靜夜於上<lb ed="T" n="0705a16"/>讚禮。聲響飛衝周三十里。四遠所聞無不<lb ed="T" n="0705a17"/>驚仰。</p>
+    <linkGrp>
+        <link targets="#0704c21 #0704c21"/>
+        <ptr target="#A007524" type="person"/>
+        <ptr target="#CN0610102Z10AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0704c21 #0704c27"/>
+        <ptr target="#A007524" type="person"/>
+        <ptr target="#CN0610113T02AA" type="place"/>
+        </linkGrp>
+    <linkGrp>
+        <link targets="#0704c29 #0705a01"/>
+        <ptr target="#A007524" type="person"/>
+        <ptr target="#CN0410305Z16AA" type="place"/>
+        <ptr target="#j19449831945366" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0705a01 #0705a01"/>
+        <ptr target="#A007524" type="person"/>
+        <ptr target="#CN0410305Z16AA" type="place"/>
+        <ptr target="#j19449831945366" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0705a01 #0705a03"/>
+        <ptr target="#A007524" type="person"/>
+        <ptr target="#CN0610000E01AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0705a02 #0705a06"/>
+        <ptr target="#A007524" type="person"/>
+        <ptr target="#CN0410328Z11AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0705a05 #0705a06"/>
+        <ptr target="#A007524" type="person"/>
+        <ptr target="#CN0410305Z16AA" type="place"/>
+        </linkGrp>
+    <linkGrp>
+        <link targets="#0705a06 #0705a11"/>
+        <ptr target="#A006859" type="person"/>
+        <ptr target="#A007525" type="person"/>
+        <ptr target="#CN0610103T03AA" type="place"/>
+        </linkGrp>
+    <linkGrp>
+        <link targets="#0705a12 #0705a13"/>
+        <ptr target="#A007527" type="person"/>
+        <ptr target="#CN0411727T04AA" type="place"/>
+        <ptr target="#j19500921958507" type="time"/>
+    </linkGrp>
+</div>

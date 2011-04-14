@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><div xml:id="mscc0357c02zhuHuiQing" xmlns="http://www.tei-c.org/ns/1.0"><head>宋<placeName key="CN0320104T02AA">瓦官寺</placeName><persName key="A002348">釋慧果</persName></head><p><anchor n="X.77.1523.0357c02"/><lb ed="X" n="0357c02"/>惠果者<placeName key="CN0341521Z16AA">豫洲</placeName>人。清規索履。爰自童[歹*專]。奉親孝。事師敬。<lb ed="X" n="0357c03"/>家貧衣食不給。<date from-iso="0427-02-13" to-iso="0428-02-02" key="j18770621877416">元喜四年</date>。負笈南遊至<ref type="place" target="#CN0320106Z05AA">京師</ref>。住<placeName key="CN0320104T02AA">瓦官</placeName><lb ed="X" n="0357c04"/>禪房。簟食屢空。不噉魚肉。燒香禮懺尤懃諷誦。十地<lb ed="X" n="0357c05"/>法華三乘方等靡不通覽。清聲秀譽。與僧<ptr target="fn8"/>據齊名。<persName key="A002348">果</persName><lb ed="X" n="0357c06"/>甞於清前。忽見一人。身著衣帢。[僉*殳]板致敬。<persName key="A002348">果</persName>問曰。汝<lb ed="X" n="0357c07"/>是何人。答曰。昔為此寺沙門。今報為噉糞之鬼。果曰。<lb ed="X" n="0357c08"/>昔何所名。今那著帢。答曰。名不足道。臨出寺遇事還<lb ed="X" n="0357c09"/>俗。果曰。為何罪過。而作此鬼。答曰。昔作直月。多請飯<lb ed="X" n="0357c10"/>食。以醬酢乞人。法師道德。幽顯同敬。請作功德。令離<lb ed="X" n="0357c11"/>此身。果曰。當為禮誦。都有物不。答曰。昔有三千錢。埋<lb ed="X" n="0357c12"/>東房前大柿樹下。去時不得取。願取為功德也。言訖<lb ed="X" n="0357c13"/>不見。<persName key="A002348">果</persName>告眾掘得三千。為造法華經一部。餘物設會。<lb ed="X" n="0357c14"/>會後一月餘日。夢見此鬼。自云。當得更生。故未能稱<lb ed="X" n="0357c15"/>大差於此也。<persName key="A002348">果</persName>仁愛遠被。為世津梁。皆類此也。春秋<lb ed="X" n="0357c16"/>七十六。<date from-iso="0470-02-18" to-iso="0471-02-06" key="j18927731893126">泰始六年</date>卒(云云)。</p>
+    <linkGrp>
+        <link targets="#0357c02 #0357c02"/>
+        <ptr type="person" target="#A002348"/>
+        <ptr type="place" target="#CN0341521Z16AA"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0357c03 #0357c05"/>
+        <ptr type="person" target="#A002348"/>
+        <ptr type="place" target="#CN0320104T02AA"/>
+        <ptr type="time" target="#d18770621877416"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0357c15 #0357c16"/>
+        <ptr type="person" target="#A002348"/>
+        <ptr type="time" target="#d18927731893126"/>
+    </linkGrp>
+</div>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0405a08shiSengYu">
+    <p><anchor n="T.50.2059.0405a08"/><lb ed="T" n="0405a08"/><persName key="A002334">釋僧瑜</persName>，姓周，<placeName key="CN0330110Z22AA">吳興餘杭</placeName>人。弱冠出家，業素純<lb ed="T" n="0405a09"/>粹。<date key="j18810781881432" from-iso="0438-02-11" to-iso="0439-01-31">元嘉十五年</date>，與同學<persName key="A003395">曇溫</persName>、<persName key="A003396">慧光</persName>等於<placeName key="CN0360402M01AA">廬<lb ed="T" n="0405a10"/>山</placeName>南嶺，共建精舍，名曰「<placeName key="CN0360402T02AA">招隱</placeName>」。<persName key="A002334">瑜</persName>常以為結<lb ed="T" n="0405a11"/>累三塗，情形故也，情將盡矣，形亦宜<ptr target="fn03"/>損。<persName key="A003397">藥<lb ed="T" n="0405a12"/>王</persName>之<ptr target="fn04"/>[跳-兆+(轍-車)]<!-- Unicode=2814a -->，獨何云遠？於是屢發言誓，始契燒<lb ed="T" n="0405a13"/>身。</p><p>以<date key="j18874301887430" when-iso="0455-07-04">宋孝建二年六月三日</date>，集薪為龕，并<lb ed="T" n="0405a14"/>請僧設齋，告眾辭別。是日，雲霧晦合，密雨<lb ed="T" n="0405a15"/>交零。<persName key="A002334">瑜</persName>迺誓曰：「若我所志克明，天當清朗，<lb ed="T" n="0405a16"/>如其無感，便當滂注。使此四輩知神應之<lb ed="T" n="0405a17"/>無昧也。」言已，雲景明霽。至初夜竟，便入薪<lb ed="T" n="0405a18"/>龕中，合掌平坐，誦《藥王品》，火焰交至，猶合掌<lb ed="T" n="0405a19"/>不散。道俗知者，奔赴彌山，並稽首作禮，願<lb ed="T" n="0405a20"/>結因緣。咸見紫氣騰空，久之<ptr target="fn＊"/>乃歇。時年四<lb ed="T" n="0405a21"/>十四。</p><p><ptr target="fn05"/>其後<date key="j18874451887445" when-iso="0455-07-19">旬有四日</date>，<persName key="A002334">瑜</persName>房中生雙<ptr target="fn06"/>梧桐，根<lb ed="T" n="0405a22"/>枝豐茂，巨細相<ptr target="fn07"/>如，貫壤直聳，遂成<ptr target="fn08"/>連樹<lb ed="T" n="0405a23"/>理，識者以為娑羅寶樹。剋炳泥洹，<persName key="A002334">瑜</persName>之庶幾，<lb ed="T" n="0405a24"/>故<ptr target="fn09"/>現斯證，因號為<persName key="A002334">雙桐沙門</persName>。<placeName key="CN0320503Z22AA">吳郡</placeName><persName key="A002927">張辯</persName>為<lb ed="T" n="0405a25"/>平南長史，親覩其事，具為傳<ptr target="fn10"/>贊。<ptr target="fn＊"/>贊曰：「悠<lb ed="T" n="0405a26"/>悠玄機，茫茫至道。出生入死，孰為妙寶(其一)。<lb ed="T" n="0405a27"/>自昔藥王，殊化絕倫。往聞其說，今覩斯人<lb ed="T" n="0405a28"/>(其二)。英英沙門，慧定心固。凝神紫氣，表迹雙<lb ed="T" n="0405a29"/>樹(其三)。其德可樂，其操可貴。文之作矣，<ptr target="fn11"/>式<lb ed="T" n="0405b01"/><ptr target="fn12"/>飄髣髴(其四)。」</p>
+    <linkGrp>
+        <link targets="#0405a09 #0405a10"/>
+        <ptr target="#A002334" type="person"/>
+        <ptr target="#A003395" type="person"/>
+        <ptr target="#A003396" type="person"/>
+        <ptr target="#CN0360402T02AA" type="place"/>
+        <ptr target="#j18810781881432" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0405a13 #0405a17"/>
+        <ptr target="#A002334" type="person"/>
+        <ptr target="#j18874301887430" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0405a17 #0405a21"/>
+        <ptr target="#A002334" type="person"/>
+        <ptr target="#CN0360402M01AA" type="place"/>
+        <ptr target="#j18874311887431" type="time"/>
+    </linkGrp>
+</div>

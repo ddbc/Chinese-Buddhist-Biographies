@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0658a12shiShangYuan">
+    <p><anchor n="T.50.2060.0658a12"/><lb ed="T" n="0658a12"/><persName key="A006926">釋尚圓</persName>。姓陳。廣漢<placeName key="CN0510681A01AA">洛</placeName>人。出家以呪術救物。<lb ed="T" n="0658a13"/>梁武陵王<persName key="A005072">蕭紀</persName>。宮中鬼怪魅諸婇女。或歌<lb ed="T" n="0658a14"/>或哭紛然亂舉。<persName key="A005072">王</persName>乃令善射者控弦擬之。<lb ed="T" n="0658a15"/>鬼乃現形。即放箭射。鬼便遙接。還返擲人。<lb ed="T" n="0658a16"/>久而不已。聞<persName key="A006926">圓</persName>持呪。請入宮中。諸鬼競前<lb ed="T" n="0658a17"/>作諸變現。龍蛇百獸倏忽前後。在空在地<lb ed="T" n="0658a18"/>怪變多端。<persName key="A006926">圓</persName>安坐告曰。<persName key="A005072">汝</persName>小家鬼。何因敢<lb ed="T" n="0658a19"/>入王宮。能變<persName key="A006926">我</persName>身。則可自變萬種。秖是小<lb ed="T" n="0658a20"/>鬼。可住聽我一言。諸鬼合掌住立。<persName key="A006926">圓</persName>始發<lb ed="T" n="0658a21"/>云。南無佛陀。鬼皆失所。自爾安靜。<persName key="A002098">武帝</persName>聞<lb ed="T" n="0658a22"/>召。大蒙賞遇。<date key="j19197471924818" notAfter-iso="0557" notBefore-iso="0543">值梁覆擾</date>。<persName key="A006926">圓</persName>行至<placeName key="CN0510108Z03AA">蜀</placeName>。所有痛<lb ed="T" n="0658a23"/>惱因之護衛。年八十一終所住。治城今已<lb ed="T" n="0658a24"/>摩滅。</p>
+    <linkGrp>
+        <link targets="#0658a12 #0658a12"/>
+        <ptr target="#A006926" type="person"/>
+        <ptr target="#CN0510681A01AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0658a13 #0658a21"/>
+        <ptr target="#A006926" type="person"/>
+        <ptr target="#A005072" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0658a21 #0658a22"/>
+        <ptr target="#A006926" type="person"/>
+        <ptr target="#A002098" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0658a22 #0658a23"/>
+        <ptr target="#A006926" type="person"/>
+        <ptr target="#CN0510108Z03AA" type="place"/>
+        <ptr target="#j19197471924818" type="time"/>
+    </linkGrp>
+</div>

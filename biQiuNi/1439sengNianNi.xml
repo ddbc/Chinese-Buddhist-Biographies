@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="bqnz0945c09sengNianNi">
+    <head><placeName key="CN0000000T14AA">禪林寺</placeName><persName key="A016081">僧念</persName>尼<ptr target="fn43"/>傳二</head><p><anchor n="T.50.2063.0945c10"/><lb ed="T" n="0945c10"/><persName key="A016081">僧念</persName>，本姓羊，泰山<placeName key="CN0371326Z21AA">南城</placeName>人<ptr target="fn44"/>也。父<persName key="A016090">彌</persName>，州從事<lb ed="T" n="0945c11"/><ptr target="fn45"/>吏。<persName key="A016081">念</persName>即招提寺<persName key="A016092">曇叡</persName>法師之姑也。珪璋早秀，<lb ed="T" n="0945c12"/>才<ptr target="fn46"/>監明達，立德幼年，<date key="j18759231876288" from-iso="0424-01-01" to-iso="0424-12-31">十歲</date>出家，為<persName key="A016094">法護</persName>尼<lb ed="T" n="0945c13"/>弟子，從<ref target="#A016094" type="person">師</ref>住<placeName key="CN0610101T20AA">太后寺</placeName>。貞節苦心，禪思精密，博<lb ed="T" n="0945c14"/>涉多通，文義兼美。蔬食禮懺，老而彌篤，誦法<lb ed="T" n="0945c15"/>華經，日夜七遍。宋<persName key="A002604">文</persName>、<persName key="A002105">孝武</persName>二帝，常加資給。齊<lb ed="T" n="0945c16"/><date from-iso="0483-01-26" key="j18974981901365" to-iso="0493-08-28">永<ptr target="fn47"/>明</date>中，移住<placeName key="CN0000000T14AA">禪林寺</placeName>，禪範大隆，<ptr target="fn48"/>諸學者眾。<lb ed="T" n="0945c17"/>司徒<persName key="A002655">竟陵王</persName>，四<ptr target="fn49"/>事供養。年九十，<date from-iso="0504-02-03" key="j19051751905529" to-iso="0505-01-22">梁天監三年</date><lb ed="T" n="0945c18"/>卒，葬秣陵縣<placeName key="CN0320115A24AA">中興里</placeName>內。</p>
+    <linkGrp>
+        <link targets="#0945c10 #0945c11"/>
+        <ptr target="#A016081" type="person"/>
+        <ptr target="#A016090" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0945c11 #0945c11"/>
+        <ptr target="#A016081" type="person"/>
+        <ptr target="#A016092" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0945c15 #0945c15"/>
+        <ptr target="#A016081" type="person"/>
+        <ptr target="#A002604" type="person"/>
+        <ptr target="#A002105" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0945c17 #0945c18"/>
+        <ptr target="#A016081" type="person"/>
+        <ptr target="#j19051751905529" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0945c12 #0945c14"/>
+        <ptr target="#A016081" type="person"/>
+        <ptr target="#A016094" type="person"/>
+        <ptr target="#CN0610101T20AA" type="place"/>
+        <ptr target="#j18759231876288" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0945c15 #0945c17"/>
+        <ptr target="#A016081" type="person"/>
+        <ptr target="#A002655" type="person"/>
+        <ptr target="#CN0000000T14AA" type="place"/>
+        <ptr target="#j18974981901365" type="time"/>
+    </linkGrp>
+</div>

@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0601c28shiJingZhi">
+    <p><anchor n="T.50.2060.0601c28"/><lb ed="T" n="0601c28"/><persName key="A006311">釋靜之</persName>。姓趙。雍州<placeName key="CN0610126Z06AA">高陵</placeName>人。父母念善絕無<lb ed="T" n="0601c29"/>息胤。祈求遍至而無所果。遂念<persName key="A002803">觀音</persName>旬內<lb ed="T" n="0602a01"/>有娠。能令母氏厭惡欲染辛腥永絕。誕育<lb ed="T" n="0602a02"/>之後。<date key="j19438581944587" notAfter-iso="0611" notBefore-iso="0610">年七八歲</date>樂<persName key="A002843">阿彌陀</persName>觀。依文修學隨<lb ed="T" n="0602a03"/>位並成。行見美境骨觀明淨。性樂出家。既<lb ed="T" n="0602a04"/>有一子誓而不許。隨父任<placeName key="CN0510184Z16AA">蜀</placeName>不久崩亡。意<lb ed="T" n="0602a05"/>欲為父焚身報德。有一賢人引金剛般若<lb ed="T" n="0602a06"/>云。捨身不如持經。乃迴心剃剪用伸罔極。<lb ed="T" n="0602a07"/>一入法門翹誠逾厲。隨聽經律而意在定<lb ed="T" n="0602a08"/>門。後從<persName key="A006312">江禪師</persName>習觀。而威容端雅。見者發<lb ed="T" n="0602a09"/>心。<date key="j19500921952143" notAfter-iso="0632" notBefore-iso="0627">貞觀初</date>。隱益部道江彭門山<placeName key="CN0510108T14AA">光化寺</placeName>。一<lb ed="T" n="0602a10"/>十餘載。常坐茅宇不居僧房。四方集者二<lb ed="T" n="0602a11"/>百餘人。六時三業不負光景。又別深隱入<lb ed="T" n="0602a12"/><placeName key="CN0510181T03AA">靈巖山</placeName>。大虫為偶無所驚擾。<placeName key="CN0510802Z11AA">利州</placeName><persName key="A006314">道禪師</persName>。<lb ed="T" n="0602a13"/>素交既久。請入<placeName key="CN0510823Z01AA">劍閣</placeName>北<placeName key="CN0510823M01AA">窮腹山</placeName>。徒侶十餘。<lb ed="T" n="0602a14"/>齎米四石。恰至夏竟一石未盡。小時鼻患<lb ed="T" n="0602a15"/>肉塞。百方無驗。有僧令誦般若多心萬遍。<lb ed="T" n="0602a16"/>恰至五千肉鈴便落。行至<placeName key="CN0620522Z22AA">秦州</placeName>被毒蛇螫。<lb ed="T" n="0602a17"/>苦楚叵言。以觀行力便見善境。自然除滅。<lb ed="T" n="0602a18"/>後遇疾苦依前得差。乃撰諸家觀門以為<lb ed="T" n="0602a19"/>一卷。要約精最後學重之。<date key="j19614311961785" from-iso="0658-02-11" to-iso="0659-01-31">顯慶三年</date>。召入<lb ed="T" n="0602a20"/><placeName key="CN0610103T02AA">西明</placeName>。別立禪府。<placeName key="CN0510802Z11AA">利州</placeName>本寺。桂樹忽凋胡桃<lb ed="T" n="0602a21"/>自拔。佛殿無故北面仰地尊儀不損。斯亦<lb ed="T" n="0602a22"/>德動幽靈為若此也。以<date key="j19622551962255" when-iso="0660-05-15">顯慶五年春三月<lb ed="T" n="0602a23"/>二十七日</date>。右脇而終於<placeName key="CN0610103T02AA">西明</placeName>。春秋五十七<lb ed="T" n="0602a24"/>矣。</p>
+    <linkGrp>
+        <link targets="#0601c28 #0601c28"/>
+        <ptr target="#A006311" type="person"/>
+        <ptr target="#CN0610126Z06AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0602a02 #0602a04"/>
+        <ptr target="#A006311" type="person"/>
+        <ptr target="#j19438581944587" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0602a04 #0602a06"/>
+        <ptr target="#A006311" type="person"/>
+        <ptr target="#CN0510184Z16AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0602a08 #0602a09"/>
+        <ptr target="#A006311" type="person"/>
+        <ptr target="#A006312" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0602a09 #0602a11"/>
+        <ptr target="#A006311" type="person"/>
+        <ptr target="#CN0510108T14AA" type="place"/>
+        <ptr target="#j19500921952143" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0602a11 #0602a12"/>
+        <ptr target="#A006311" type="person"/>
+        <ptr target="#CN0510181T03AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0602a12 #0602a12"/>
+        <ptr target="#A006314" type="person"/>
+        <ptr target="#CN0510802Z11AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0602a12 #0602a14"/>
+        <ptr target="#A006311" type="person"/>
+        <ptr target="#A006314" type="person"/>
+        <ptr target="#CN0510823M01AA" type="place"/>
+        </linkGrp>
+    <linkGrp>
+        <link targets="#0602a16 #0602a17"/>
+        <ptr target="#A006311" type="person"/>
+        <ptr target="#CN0620522Z22AA" type="place"/>
+        </linkGrp>
+    <linkGrp>
+        <link targets="#0602a19 #0602a20"/>
+        <ptr target="#A006311" type="person"/>
+        <ptr target="#CN0610103T02AA" type="place"/>
+        <ptr target="#j19614311961785" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0602a22 #0602a24"/>
+        <ptr target="#A006311" type="person"/>
+        <ptr target="#CN0610103T02AA" type="place"/>
+        <ptr target="#j19622551962255" type="time"/>
+    </linkGrp>
+</div>

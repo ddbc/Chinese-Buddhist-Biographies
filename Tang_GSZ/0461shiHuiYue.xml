@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0568c20shiHuiYue">
+    <p><anchor n="T.50.2060.0568c20"/><lb ed="T" n="0568c20"/><persName key="A006024">釋慧越</persName>。<placeName key="CN0440104Z23AA">嶺南</placeName>人。住<placeName key="CN0441322M01AA">羅浮山</placeName>中。聚眾業禪。有<lb ed="T" n="0568c21"/>聞<placeName key="CN0440000E01AA">南越</placeName>。性多汎愛慈救蒼生。栖頓幽阻虎<lb ed="T" n="0568c22"/>豹無擾。曾有群獸來前。因為說法。虎遂以<lb ed="T" n="0568c23"/>頭枕膝。<persName key="A006024">越</persName>便捋其鬚面。情無所畏。眾咸<lb ed="T" n="0568c24"/>覩之以為異倫也。化行<placeName key="CN0000001M01AA">五嶺</placeName>聲流<placeName key="CN0400000E01AA">三楚</placeName>。<persName key="A004413">隋<lb ed="T" n="0568c25"/>煬</persName>在蕃搜選英異。<date key="j19387911940611" notAfter-iso="0601" notBefore-iso="0596">開皇末年</date>。遣舍人<persName key="A006028">王延<lb ed="T" n="0568c26"/>壽</persName>。往召追入晉府<placeName key="CN0321002T05AA">慧日道場</placeName>。并<ptr target="fn23"/>隨<persName key="A004413">王</persName>至<placeName key="CN0610102Z14AA">京</placeName><lb ed="T" n="0568c27"/>在所通化。末還<placeName key="CN0321002Z02AA">楊州</placeName>。路中感疾而卒。停屍<lb ed="T" n="0568c28"/>船上。有若生焉。夜見焰光從足而出入于<lb ed="T" n="0568c29"/>頂上。還從頂出而從足入。竟夕不斷。道俗<lb ed="T" n="0569a01"/>殊歎未曾有也。王教歸葬本山。以旌誠敬。</p>
+    <linkGrp>
+        <link targets="#0568c20 #0568c20"/>
+        <ptr target="#A006024" type="person"/>
+        <ptr target="#CN0440104Z23AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0568c20 #0568c20"/>
+        <ptr target="#A006024" type="person"/>
+        <ptr target="#CN0441322M01AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0568c25 #0568c26"/>
+        <ptr target="#A006024" type="person"/>
+        <ptr target="#A006028" type="person"/>
+        <ptr target="#A004413" type="person"/>
+        <ptr target="#CN0321002T05AA" type="place"/>
+        <ptr target="#j19387911940611" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0568c26 #0568c27"/>
+        <ptr target="#A006024" type="person"/>
+        <ptr target="#A004413" type="person"/>
+        <ptr target="#CN0610102Z14AA" type="place"/>
+        </linkGrp>
+    <linkGrp>
+        <link targets="#0568c27 #0569a01"/>
+        <ptr target="#A006024" type="person"/>
+        <ptr target="#CN0321002Z02AA" type="place"/>
+        </linkGrp>
+</div>

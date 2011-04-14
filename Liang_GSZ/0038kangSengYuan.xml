@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0346c28kangSengYuan">
+    <p><anchor n="T.50.2059.0346c28"/><lb ed="T" n="0346c28"/><persName key="A002200">康僧淵</persName>，本<placeName key="CN0650000E01AA">西域</placeName>人，生于<placeName key="CN0610112Z01AA">長安</placeName>。貌雖梵人，語<lb ed="T" n="0346c29"/>實中國，容止詳正，志業弘深，誦《放光》、《道行》二<lb ed="T" n="0347a01"/><ptr target="fn＊"/>《波若》，即大小《品》也。<date from-iso="0326" key="j18402081846379" to-iso="0343">晉成之世</date>，與<persName key="A002661">康法暢</persName>、<persName key="A002662">支<lb ed="T" n="0347a02"/>敏度</persName>等俱過<placeName key="CN0000000R01AA">江</placeName>。</p>
+    <p><persName key="A002661">暢</persName>亦有才思，善為往復，著<lb ed="T" n="0347a03"/>《人物始義論》等。暢常執<ptr target="fn01"/>麈尾，行每值名<lb ed="T" n="0347a04"/>賓，輒清談盡日。<persName key="A002505">庾元規</persName>謂<persName key="A002661">暢</persName>曰：「此麈尾何<lb ed="T" n="0347a05"/>以常在？」<persName key="A002661">暢</persName>曰：「廉者不<ptr target="fn02"/>取，貪者不與，故得常<lb ed="T" n="0347a06"/>在也。」<persName key="A002662">敏度</persName>亦聰哲有譽，<ptr target="fn03"/>著《譯經錄》，今行<lb ed="T" n="0347a07"/>於世。<persName key="A002200">淵</persName>雖德愈<persName key="A002661">暢</persName>、<persName key="A002662">度</persName>，而別以清約自處，常<lb ed="T" n="0347a08"/>乞匃自資，人未之識。後因分衛之次，遇<placeName key="CN0411626Z27AA">陳郡</placeName><lb ed="T" n="0347a09"/><persName key="A002663">殷浩</persName>，<persName key="A002663">浩</persName>始問佛經深遠之理，却辯俗書性情<lb ed="T" n="0347a10"/>之義，自晝<ptr target="fn04"/>之曛浩，不能屈，由是改觀。<placeName key="CN0371302Z24AA">瑯<lb ed="T" n="0347a11"/>瑘</placeName><persName key="A002504">王茂弘</persName>以鼻高眼深戲之，<persName key="A002200">淵</persName>曰：「鼻者面<lb ed="T" n="0347a12"/>之山，眼者面之淵，山不高則不靈，淵不深<lb ed="T" n="0347a13"/>則不清。」時人以為名答。</p>
+    <p>後於<placeName key="CN0360103Z03AA">豫章</placeName>山立寺，<lb ed="T" n="0347a14"/>去邑數十里。帶江傍嶺，<ptr target="fn05"/>林竹欝茂，名僧勝<lb ed="T" n="0347a15"/>達，響附成群。<ptr target="fn06"/>以常《持心<ptr target="fn07"/>梵經》空理幽遠，<lb ed="T" n="0347a16"/>故偏加講說，尚學之徒，往還填委。後卒於<lb ed="T" n="0347a17"/>寺焉。</p>
+
+    <linkGrp>
+        <link targets="#0346c28 #0346c28"/>
+        <ptr target="#A002200" type="person"/>
+        <ptr target="#CN0610112Z01AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0347a08 #0347a10"/>
+        <ptr target="#A002200" type="person"/>
+        <ptr target="#A002663" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0347a10 #0347a13"/>
+        <ptr target="#A002200" type="person"/>
+        <ptr target="#A002504" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0347a13 #0347a17"/>
+        <ptr target="#A002200" type="person"/>
+        <ptr target="#CN0360103Z03AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0347a01 #0347a02"/>
+        <ptr target="#A002200" type="person"/>
+        <ptr target="#A002661" type="person"/>
+        <ptr target="#A002662" type="person"/>
+        <ptr target="#CN0000000R01AA" type="place"/>
+        <ptr target="#j18402081846379" type="time"/>
+    </linkGrp>
+</div>

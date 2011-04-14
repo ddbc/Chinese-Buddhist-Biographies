@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0918c23shiZhiCai">
+  <p><anchor n="T.50.2062.0918c23"/><lb ed="T" n="0918c23"/><persName key="A008425">釋智才</persName><placeName key="CN0340824Z10AA">舒州</placeName>施氏子。早歲服勤於<persName key="A004697">佛鑑</persName>。及<lb ed="T" n="0918c24"/>遊方謁<persName key="A008395">黃龍死心</persName>。翌日入室。<persName key="A008395">死心</persName>問曰。會<lb ed="T" n="0918c25"/>得最初句便會末後句。會得末後句便會<lb ed="T" n="0918c26"/>最初句。最初末後拈放一邊。百丈野狐話作<lb ed="T" n="0918c27"/>麼生會。<persName key="A008425">才</persName>曰。入戶已知來見解。何須更舉<lb ed="T" n="0918c28"/>轢中泥。<persName key="A008395">心</persName>曰。新長老死在上座手裏也。<persName key="A008425">才</persName><lb ed="T" n="0918c29"/>曰。語言雖有異至理且無差。<persName key="A008395">心</persName>曰。如何是<lb ed="T" n="0919a01"/>無差底事。<persName key="A008425">才</persName>曰。不扣黃龍角焉知頷下珠。<lb ed="T" n="0919a02"/>心便打。<persName key="A008425">才</persName>初住嶽麓<!--找不到此地-->。次遷<placeName key="CN0430922T01AA">龍牙</placeName>。三十載以<lb ed="T" n="0919a03"/>清苦蒞眾。故衲子畏敬之。又遷雲溪<!--找不到此地-->。<date from-iso="1138-02-19" key="j21367552137108" to-iso="1139-02-07">紹興<lb ed="T" n="0919a04"/>戊午八月</date>望俄集眾付寺事。書偈曰。<date key="j21369752136975" when-iso="1138-09-27">戊午<lb ed="T" n="0919a05"/>中秋</date>之日。出家住持事畢。臨行自己尚無<lb ed="T" n="0919a06"/>有。甚虛空可覓。每日垂訓如常。至<date key="j21369832136983" when-iso="1138-10-05">二十三<lb ed="T" n="0919a07"/>日</date>再示眾曰。涅槃生死盡是空花佛。及眾生<lb ed="T" n="0919a08"/>並為增語。汝等諸人合作麼生。眾皆下語<lb ed="T" n="0919a09"/>不契。<persName key="A008425">才</persName>喝曰。苦苦。復曰。白雲湧地明月<lb ed="T" n="0919a10"/>當天。言訖囅然而逝。火浴獲設利五色。塔<lb ed="T" n="0919a11"/>寺<!--找不到此地-->西北隅。</p>
+  <linkGrp>
+    <link targets="#0919a02 #0919a03"/>
+    <ptr target="#A008425" type="person"/>
+    <ptr target="#CN0430922T01AA" type="place"/>
+  </linkGrp>
+  <linkGrp>
+    <link targets="#0918c23 #0918c23"/>
+    <ptr target="#A008425" type="person"/>
+    <ptr target="#A004697" type="person"/>
+  </linkGrp>
+  <linkGrp>
+    <link targets="#0918c23 #0918c24"/>
+    <ptr target="#A008425" type="person"/>
+    <ptr target="#A008395" type="person"/>
+  </linkGrp>
+  <linkGrp>
+    <link targets="#0919a03 #0919a04"/>
+    <ptr target="#A008425" type="person"/>
+    <ptr target="#j21367552137108" type="time"/>
+  </linkGrp>
+  <linkGrp>
+    <link targets="#0919a03 #0919a06"/>
+    <ptr target="#A008425" type="person"/>
+    <ptr target="#j21369752136975" type="time"/>
+  </linkGrp>
+  <linkGrp>
+    <link targets="#0919a06 #0919a07"/>
+    <ptr target="#A008425" type="person"/>
+    <ptr target="#j21369832136983" type="time"/>
+  </linkGrp>
+</div>

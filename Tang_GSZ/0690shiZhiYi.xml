@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0676b23shiZhiYi">
+    <p><anchor n="T.50.2060.0676b23"/><lb ed="T" n="0676b23"/><persName key="A007317">釋智嶷</persName>。姓康。本<placeName key="UZSASD000A01AA">康居</placeName>王胤也。國難東歸魏<lb ed="T" n="0676b24"/>封于<placeName key="CN0420602Z06AA">襄陽</placeName>。因累居之十餘世矣。七歲初學。<lb ed="T" n="0676b25"/>尋文究竟。無師自悟。敬重佛宗。雖晝<ptr target="fn18"/>權<lb ed="T" n="0676b26"/>俗緣令依學侶。而夜私誦法華。竟文純熟。<lb ed="T" n="0676b27"/>二親初不知也。十三拜辭即蒙剃落。更諮<lb ed="T" n="0676b28"/>大部情<ptr target="fn19"/>因彌著。二十有四方受具足。携帙<lb ed="T" n="0676b29"/><placeName key="CN0410311A02AA">洛濱</placeName>依承<persName key="A002000">慧遠</persName>。傳業十地及以涅槃。皆可<lb ed="T" n="0676c01"/>敷導。後入<placeName key="CN0610000E01AA">關中</placeName>住<placeName key="CN0610102T06AA">靜法寺</placeName>。<date key="j19406121942058" notAfter-iso="0605" notBefore-iso="0601">仁壽</date>置塔。勅召<lb ed="T" n="0676c02"/><ptr target="fn20"/>送于瓜州<placeName key="CN0620922T01AA">崇<ptr target="fn21"/>教寺</placeName>。初達定基。黃龍出現<lb ed="T" n="0676c03"/>於州側大池。牙角身尾合境通矚。具表上聞。<lb ed="T" n="0676c04"/><persName key="A007317">嶷</persName>住寺多年常思定慧。非<ptr target="fn22"/>大要事不出戶<lb ed="T" n="0676c05"/>庭。故往參候罕覩其面。末以年事高邁勵<lb ed="T" n="0676c06"/>業彌崇。寺任眾務並悉推謝。<date key="j19469511949949" notAfter-iso="0626" notBefore-iso="0618">唐初</date>卒也。<ptr target="fn23"/>七<lb ed="T" n="0676c07"/>十餘矣。</p>
+    <linkGrp>
+        <link targets="#0676b23 #0676b24"/>
+        <ptr target="#A007317" type="person"/>
+        <ptr target="#CN0420602Z06AA" type="place"/>
+        </linkGrp>
+    <linkGrp>
+        <link targets="#0676b28 #0676c01"/>
+        <ptr target="#A007317" type="person"/>
+        <ptr target="#A002000" type="person"/>
+        <ptr target="#CN0410311A02AA" type="place"/>
+        </linkGrp>
+    <linkGrp>
+        <link targets="#0676c01 #0676c01"/>
+        <ptr target="#A007317" type="person"/>
+        <ptr target="#CN0610102T06AA" type="place"/>
+        </linkGrp>
+    <linkGrp>
+        <link targets="#0676c01 #0676c03"/>
+        <ptr target="#A007317" type="person"/>
+        <ptr target="#CN0620922T01AA" type="place"/>
+        <ptr target="#j19406121942058" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0676c06 #0676c07"/>
+        <ptr target="#A007317" type="person"/>
+        <ptr target="#j19469511949949" type="time"/>
+    </linkGrp>
+</div>

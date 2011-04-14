@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0493c03shiFaAn">
+    <p><anchor n="T.50.2060.0493c03"/><lb ed="T" n="0493c03"/><persName key="A005336">釋法安</persName>。姓田。<placeName key="CN0420583Z10AA">枝江</placeName>人。神彩俊越見稱僮幼。<lb ed="T" n="0493c04"/>年十八遊學<placeName key="CN0320106Z05AA">金陵</placeName>。初聽成實。後學中觀於<lb ed="T" n="0493c05"/><placeName key="CN0320102T24AA"><persName key="A002918">興皇</persName></placeName>座下。十有餘年庶乎屢空智乎特秀。三<lb ed="T" n="0493c06"/>千學侶獨標三絕之名。形長八尺風儀挺特<lb ed="T" n="0493c07"/>一也。解義窮深二也。精進潔己三也。時聽<lb ed="T" n="0493c08"/>涅槃每立異義。令眾難之。人雖巨眾無<lb ed="T" n="0493c09"/>能屈者。由是聲聞楚越。一時<persName key="A002918">朗公</persName>知其穎<lb ed="T" n="0493c10"/>拔令論義。應命搆擊問領如<ptr target="fn＊"/>嚮。往復既<lb ed="T" n="0493c11"/>久便止。<persName key="A002918">朗</persName>曰。<persName key="A005336">爾</persName>義窮乎。對曰。義若恒沙何<lb ed="T" n="0493c12"/>可盡也。時學<ptr target="fn20"/>門名安者多。目之為沙安。<lb ed="T" n="0493c13"/>三論四經皆講<ptr target="fn04"/><ptr target="fn21"/>制廣初章及鹿角章等。理致<lb ed="T" n="0493c14"/>宏遠流傳<placeName key="CN0420100A02AA">江漢</placeName>。年過不惑。迴情在定更不<lb ed="T" n="0493c15"/>談說。時往<persName key="A005337">成禪師</persName>所共論<ptr target="fn22"/>定道。琢磨心<lb ed="T" n="0493c16"/>性。動經晨夕。而不噉僧食。不飲濁漿。春<lb ed="T" n="0493c17"/>秋六十五終<ptr target="fn23"/>於<placeName key="CN0421003T02AA">等界寺</placeName>。<placeName key="CN0421003T02AA">寺</placeName>在<ptr target="fn24"/>私洲之上。<lb ed="T" n="0493c18"/>西望沙<ptr target="fn25"/>洲。即<persName key="A002973">劉虬</persName>注法華之地。今經臺餘<lb ed="T" n="0493c19"/>基尚<ptr target="fn26"/>在。</p>
+    <linkGrp>
+        <link targets="#0493c03 #0493c03"/>
+        <ptr target="#A005336" type="person"/>
+        <ptr target="#CN0420583Z10AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0493c04 #0493c04"/>
+        <ptr target="#A005336" type="person"/>
+        <ptr target="#CN0320106Z05AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0493c04 #0493c12"/>
+        <ptr target="#A005336" type="person"/>
+        <ptr target="#A002918" type="person"/>
+        <ptr target="#CN0320102T24AA" type="place"/>
+    </linkGrp> 
+    <linkGrp>
+        <link targets="#0493c15 #0493c16"/>
+        <ptr target="#A005336" type="person"/>
+        <ptr target="#A005337" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0493c16 #0493c17"/>
+        <ptr target="#A005336" type="person"/>
+        <ptr target="#CN0421003T02AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0493c17 #0493c18"/>
+        <ptr target="#A002973" type="person"/>
+        <ptr target="#CN0421003T02AA" type="place"/>
+    </linkGrp>
+</div>

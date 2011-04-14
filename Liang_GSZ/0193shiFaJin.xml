@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0404a29shiFaJin">
+    <p><anchor n="T.50.2059.0404a29"/><lb ed="T" n="0404a29"/><persName key="A002330">釋法進</persName>，或曰<persName key="A002330">道進</persName>，或曰<persName key="A002330">法迎</persName>，姓唐，<placeName key="CN0620702Z16AA">涼州張<lb ed="T" n="0404b01"/>掖</placeName>人。幼而精苦習誦，有超邁之德，為<persName key="A002559">沮渠<lb ed="T" n="0404b02"/>蒙遜</persName>所重。<persName key="A002559">遜</persName>卒，子<persName key="A003388">景環</persName>為胡寇所破，問<persName key="A002330">進</persName><lb ed="T" n="0404b03"/>曰：「今欲轉略<placeName key="CN0652101Z28AA">高昌</placeName>，為可剋不？」<persName key="A002330">進</persName>曰：「必捷，<lb ed="T" n="0404b04"/>但憂災餓耳。」迴軍即定。</p><p>後三年，<persName key="A003388">景環</persName>卒，弟<lb ed="T" n="0404b05"/><persName key="A003389">安周</persName>續立。是歲飢荒，死者無限。<persName key="A003389">周</persName>既事<persName key="A002330">進</persName>，<lb ed="T" n="0404b06"/><persName key="A002330">進</persName>屢從求乞，以賑貧餓。國蓄稍竭，<persName key="A002330">進</persName>不復<lb ed="T" n="0404b07"/>求。迺淨洗浴，取刀鹽，至深窮窟餓人所聚<lb ed="T" n="0404b08"/>之處，次第授以三歸。便掛衣鉢著樹，投身<lb ed="T" n="0404b09"/>餓者前云：「施汝共食。」眾雖飢困，猶義不忍<lb ed="T" n="0404b10"/>受。<persName key="A002330">進</persName>即自割肉，<ptr target="fn10"/>和鹽以啖之。兩股肉盡，心<lb ed="T" n="0404b11"/>悶不能自割，因語餓人云：「汝取<persName key="A002330">我</persName>皮肉，猶<lb ed="T" n="0404b12"/>足數日，若王使來，必當將去，但取藏之。」餓<lb ed="T" n="0404b13"/>者悲悼，無能取者。須臾弟子來至，王人復<lb ed="T" n="0404b14"/><ptr target="fn11"/>看。舉國奔赴，號叫相屬。因輿之還宮。周<lb ed="T" n="0404b15"/>勅以三百斛麥以施<ptr target="fn12"/>餓者，別發倉廩以<lb ed="T" n="0404b16"/>賑貧民。至明晨乃絕，出<placeName key="CN0652101Z28AA">城</placeName>北闍維之。烟<lb ed="T" n="0404b17"/>炎衝天，七日乃歇。屍骸都盡，唯<ptr target="fn13"/>舌不爛。即<lb ed="T" n="0404b18"/>於其處起塔三層，樹碑于右。</p><p><persName key="A002330">進</persName>弟子<persName key="A003390">僧遵</persName>，<lb ed="T" n="0404b19"/>姓趙，<placeName key="CN0652101Z28AA">高昌</placeName>人。善《十誦律》，蔬食節行，誦《法華》、<lb ed="T" n="0404b20"/>《勝鬘》、《金剛<ptr target="fn14"/>波若》，<ptr target="fn15"/>又篤厲門人，常懺悔為<lb ed="T" n="0404b21"/>業。</p>
+    
+    <linkGrp>
+        <link targets="#0404b18 #0404b21"/>
+        <ptr target="#A002330" type="person"/>
+        <ptr target="#A003390" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0404b02 #0404b04"/>
+        <ptr target="#A002330" type="person"/>
+        <ptr target="#A003388" type="person"/>
+        </linkGrp>
+    <linkGrp>
+        <link targets="#0404b05 #0404b07"/>
+        <ptr target="#A002330" type="person"/>
+        <ptr target="#A003389" type="person"/>
+        </linkGrp>
+</div>

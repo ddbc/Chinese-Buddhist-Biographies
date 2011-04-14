@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0690a17shiYiSu">
+    <p><anchor n="T.50.2060.0690a17"/><lb ed="T" n="0690a17"/><persName key="A007492">釋遺俗</persName>。不知何<ptr target="fn06"/>許人。以<date key="j19469511949949" notAfter-iso="0626" notBefore-iso="0618">唐運初<ptr target="fn07"/>開</date>遊止<lb ed="T" n="0690a18"/>雍州醴泉縣<placeName key="CN0610425A07AA">南美泉鄉</placeName><ptr target="fn08"/><persName key="A007505">陽陸</persName>家。鎮常供養清<lb ed="T" n="0690a19"/>儉寡<ptr target="fn09"/>慾。<ptr target="fn＊"/>惟誦法華為業。晝夜相係乃數<lb ed="T" n="0690a20"/>千遍。以<date key="j19500921950475" from-iso="0627-01-26" to-iso="0628-02-13">貞觀初</date>。因疾將終。遺囑友人<persName key="A019469">慧廓</persName><lb ed="T" n="0690a21"/>曰。比雖誦經意望靈驗以生蒙俗信向之<lb ed="T" n="0690a22"/>善。若身死後。不須<ptr target="fn10"/>棺盛露骸埋之。十載<lb ed="T" n="0690a23"/>可為發出。舌根必爛知無受持。若猶存在。<lb ed="T" n="0690a24"/>當告道俗為起一塔以示感靈。言訖而<lb ed="T" n="0690a25"/>終。遂依埋葬。至<date key="j19537541954107" from-iso="0637-02-04" to-iso="0638-01-23">貞觀十一年</date>。<persName key="A019469">廓</persName>與諸知故<lb ed="T" n="0690a26"/>就墓發之。身肉都銷<ptr target="fn＊"/>惟舌不朽。一縣士女<lb ed="T" n="0690a27"/>咸共仰<ptr target="fn11"/>戴。誦持之流又倍恒度。乃函盛其<lb ed="T" n="0690a28"/>舌。於<ptr target="fn12"/>陽陸村<placeName key="CN0610425A08AA">北甘谷</placeName>南<ptr target="fn13"/>岸為建甎塔。識<lb ed="T" n="0690a29"/>者尊嚴彌隆信敬誦讀更甚。又京城西南豐<lb ed="T" n="0690b01"/>谷鄉<placeName key="CN0610125A07AA">福水南史村</placeName><persName key="A007503">史呵擔</persName>者。少懷善念。常誦<lb ed="T" n="0690b02"/>法華行安樂行。<ptr target="fn14"/>慈悲在意不乘畜產。虛<lb ed="T" n="0690b03"/>約為心名霑令史。往還<placeName key="CN0610102Z14AA">京</placeName>省以習誦相。仍<lb ed="T" n="0690b04"/>恐路逢相識。人事暄涼便廢所誦。故其所<lb ed="T" n="0690b05"/>行必小徑左道低氣怡顏緣念相續。初不<lb ed="T" n="0690b06"/>告倦。及終之時。感異香氣充於村曲。親疎<lb ed="T" n="0690b07"/>同怪遂埋殯之。爾後十年妻亡。乃發屍出。<lb ed="T" n="0690b08"/>舌<ptr target="fn15"/>根鮮明餘並朽盡。乃別標顯葬。<lb ed="T" n="0690b09"/>又黃州<ptr target="fn16"/><placeName key="CN0420117T01AA">隨華寺</placeName>僧<persName key="A007499">玄秀</persName>者。性清慎溫恭為<lb ed="T" n="0690b10"/>志。常誦法華。每感徵異。未以為怪。時屬<lb ed="T" n="0690b11"/>炎暑同友逐涼。遣召<persName key="A007499">秀</persName>來欲有談笑。既<lb ed="T" n="0690b12"/>至房前。但見羽衛嚴肅人馬偉大。怖而返<lb ed="T" n="0690b13"/>告。同往共觀。如初不異。轉至後門其徒彌<lb ed="T" n="0690b14"/>盛。上望空中填塞無際。多乘象馬類雜鬼<lb ed="T" n="0690b15"/>神。乃知其感通也。置而却返。明晨慚謝。朋<lb ed="T" n="0690b16"/>從遂絕。<persName key="A007499">秀</persName>專斯業。<date key="j19434961946884" notAfter-iso="0618" notBefore-iso="0609">隋末</date>終寺。</p>
+    <linkGrp>
+        <link targets="#0690a17 #0690a18"/>
+        <ptr target="#A007492" type="person"/>
+        <ptr target="#A007505" type="person"/>
+        <ptr target="#CN0610425A07AA" type="place"/>
+        <ptr target="#j19469511949949" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0690a20 #0690a25"/>
+        <ptr target="#A007492" type="person"/>
+        <ptr target="#A019469" type="person"/>
+        <ptr target="#CN0610425A07AA" type="place"/>
+        <ptr target="#j19500921950475" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0690a25 #0690a28"/>
+        <ptr target="#A019469" type="person"/>
+        <ptr target="#CN0610425A08AA" type="place"/>
+        <ptr target="#j19537541954107" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0690a29 #0690b02"/>
+        <ptr target="#A007503" type="person"/>
+        <ptr target="#CN0610125A07AA" type="place"/>
+    </linkGrp>   
+    <linkGrp>
+        <link targets="#0690b03 #0690b04"/>
+        <ptr target="#A007503" type="person"/>
+        <ptr target="#CN0610102Z14AA" type="place"/>
+        </linkGrp>
+    <linkGrp>
+        <link targets="#0690b09 #0690b10"/>
+        <ptr target="#A007499" type="person"/>
+        <ptr target="#CN0420117T01AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0690b16 #0690b16"/>
+        <ptr target="#A007499" type="person"/>
+        <ptr target="#j19434961946884" type="time"/>
+    </linkGrp>
+</div>

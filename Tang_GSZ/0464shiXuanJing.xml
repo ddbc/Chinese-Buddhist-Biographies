@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0569b17shiXuanJing">
+    <p><anchor n="T.50.2060.0569b17"/><lb ed="T" n="0569b17"/><persName key="A006041">釋玄景</persName>。姓石氏。<placeName key="CN0130921Z17AA">滄州</placeName>人。十八被舉秀才。至<lb ed="T" n="0569b18"/><placeName key="CN0130423Z22AA">鄴都</placeName>。為和王省事。讀書一遍便究文義。<lb ed="T" n="0569b19"/><ptr target="fn11"/>須便輒引曾無所遺。五載之中無書可讀。<lb ed="T" n="0569b20"/>晚從<persName key="A004806">和禪師</persName>所聽大品維摩。<persName key="A006041">景</persName>既後來門側<lb ed="T" n="0569b21"/>立聽。深鑒超拔將歸受學。<persName key="A004806">和</persName>以定業之望<lb ed="T" n="0569b22"/>參問繁廣。令依止<persName key="A006042">慧法師</persName>授以大乘祕奧<lb ed="T" n="0569b23"/>之極。既沃乃心便志<ptr target="fn12"/>存捨俗。二十有七。<lb ed="T" n="0569b24"/>與諸妻子執別。告云。自<placeName key="CN0130423Z20AA">臨漳</placeName>已南屬<persName key="A006041">吾</persName>所<lb ed="T" n="0569b25"/>遊。名涅槃境。<placeName key="CN0130423Z16AA">臨漳</placeName>已<ptr target="fn13"/>比是生死分。爾之行<lb ed="T" n="0569b26"/>往也。<persName key="A006041">吾</persName>誓非聖更不重<ptr target="fn14"/>涉。還從<persName key="A004806">和公</persName>剃<lb ed="T" n="0569b27"/>落。授以正法。<persName key="A006041">景</persName>晨<ptr target="fn15"/>霄思擇統解玄微。<date key="j19307491932344" notAfter-iso="0578" notBefore-iso="0574">遭<lb ed="T" n="0569b28"/><ptr target="fn16"/>周滅法</date>逃潛林薄。又以禪道內外相融。<date key="j19333311935151" notAfter-iso="0586" notBefore-iso="0581">開<lb ed="T" n="0569b29"/>皇初年</date>就緣講導。儀設華約事事翹心。故<lb ed="T" n="0569c01"/>二時法會必香湯洒地。熏爐引導前經後<persName key="A006041">景</persName><lb ed="T" n="0569c02"/>初無一絕。洗穢護淨欽若戒科。常讀開經<lb ed="T" n="0569c03"/>行不過五。尋訖更展。其例如前。故每<ptr target="fn＊"/>振<lb ed="T" n="0569c04"/>法鼓。動即千人屯赴。供施為儔罕匹。所以<persName key="A006041">景</persName><lb ed="T" n="0569c05"/>之房內。黃紫<ptr target="fn17"/>緇衣上下之服各百餘副。一時<lb ed="T" n="0569c06"/>一換。為生<ptr target="fn18"/>初善。經身一著便以施僧。其<lb ed="T" n="0569c07"/>感利之殷為如此也。後因臥疾三日。告侍<lb ed="T" n="0569c08"/>人<ptr target="fn19"/>曰。<persName key="A006043">玄覺</persName>。<persName key="A006041">吾</persName>欲見<persName key="A001428">彌勒佛</persName>。云何乃作<placeName key="XZ0000034A01AA">夜<lb ed="T" n="0569c09"/>摩天</placeName>主。又云。賓客極多。事須看視。有問其<lb ed="T" n="0569c10"/>故。答云。凡夫識想何可檢校。向有天<ptr target="fn20"/>眾邀<lb ed="T" n="0569c11"/>迎耳。爾後異香充戶。眾共聞之。又曰。<persName key="A006041">吾</persName>欲<lb ed="T" n="0569c12"/>去矣。當願生世為善知識。遂終於所住。<lb ed="T" n="0569c13"/>即<date key="j19425911942619" from-iso="0606-07-14" to-iso="0606-08-11">大業二年六月</date>也。自生常立願。沈骸水<lb ed="T" n="0569c14"/>中。及其沒後遵用前旨。葬于<placeName key="CN0130423R01AA">紫陌河</placeName>深瀅<lb ed="T" n="0569c15"/>之中。三日往觀。所沈之處返成沙墳。極高<lb ed="T" n="0569c16"/>峻而水分兩派。道俗異其雅瑞。傳迹于今。<lb ed="T" n="0569c17"/><persName key="A006043">玄覺</persName>孝慈居性祖學先謨。後住<placeName key="CN0610102Z14AA">京師</placeName>隷<placeName key="CN0610113T06AA">莊<lb ed="T" n="0569c18"/>嚴寺</placeName>純講大乘。於文殊般若偏為意得。榮<lb ed="T" n="0569c19"/>觀帝壤譽顯當鋒。</p>
+    <linkGrp>
+        <link targets="#0569b17 #0569b17"/>
+        <ptr target="#A006041" type="person"/>
+        <ptr target="#CN0130921Z17AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0569b17 #0569b18"/>
+        <ptr target="#A006041" type="person"/>
+        <ptr target="#CN0130423Z22AA" type="place"/>
+        </linkGrp>
+    <linkGrp>
+        <link targets="#0569b20 #0569b23"/>
+        <ptr target="#A006041" type="person"/>
+        <ptr target="#A006042" type="person"/>
+        <ptr target="#A004806" type="person"/>
+        <ptr target="#CN0130423Z22AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0569b23 #0569b26"/>
+        <ptr target="#A006041" type="person"/>
+        <ptr target="#CN0130423Z16AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0569b27 #0569b28"/>
+        <ptr target="#A006041" type="person"/>
+        <ptr target="#j19307491932344" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0569b28 #0569c04"/>
+        <ptr target="#A006041" type="person"/>
+        <ptr target="#j19333311935151" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0569c07 #0569c13"/>
+        <ptr target="#A006041" type="person"/>
+        <ptr target="#A006043" type="person"/>
+        <ptr target="#j19425911942619" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0569c13 #0569c16"/>
+        <ptr target="#A006043" type="person"/>
+        <ptr target="#CN0130423R01AA" type="place"/>
+        <ptr target="#j19425911942619" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0569c17 #0569c19"/>
+        <ptr target="#A006043" type="person"/>
+        <ptr target="#CN0610113T06AA" type="place"/>
+    </linkGrp>
+</div>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0659b05shiTongJin">
+    <p><anchor n="T.50.2060.0659b05"/><lb ed="T" n="0659b05"/><persName key="A006943">釋童進</persName>。姓李。<placeName key="CN0510704Z01AA">綿州</placeName>人。昔周出家。不拘禮<lb ed="T" n="0659b06"/>度。唯樂飲酒。謂人曰。此可以灌等身也。來<lb ed="T" n="0659b07"/>去酣醉。遺尿臭穢。眾共非之。有遠識者曰。<lb ed="T" n="0659b08"/>此賢愚難識。<date key="j19307491931841" notAfter-iso="0577" notBefore-iso="0574">會<persName key="A004350">周武</persName>東征</date>。云須毒藥。勅<placeName key="CN0510502Z10AA">瀘<lb ed="T" n="0659b09"/>州</placeName>營造。置監吏力科。獠採藥蝮頭鐵猩鬵<lb ed="T" n="0659b10"/>根大蜂野葛鴆羽等數十種。釀以鐵瓮。藥<lb ed="T" n="0659b11"/>成。著皮衣。琉璃障眼。方得近之。不爾氣衝<lb ed="T" n="0659b12"/>成瘡致死。藥著人畜肉穿便死。<persName key="A006943">童進</persName>聞之。<lb ed="T" n="0659b13"/>往彼監所。官人弄曰。能飲一盃豈非酒士。<lb ed="T" n="0659b14"/><persName key="A006943">進</persName>曰。得一升解酲亦要。官曰。任飲多少。何<lb ed="T" n="0659b15"/>論一升。便取鐵杓。於藥瓮中取一杓飲之。<lb ed="T" n="0659b16"/>言謔自若。都不為患。道士等聞皆來看。<persName key="A006943">進</persName><lb ed="T" n="0659b17"/>又舉一杓以勸之。皆遠走避。或曰。此乃故<lb ed="T" n="0659b18"/>殺人。何得無罪。<persName key="A006943">進</persName>曰。無所苦藥。<persName key="A006943">進</persName>自飲有<lb ed="T" n="0659b19"/>誰相勸。乃噫曰。今日得一醉臥方石上。俄<lb ed="T" n="0659b20"/>爾遺尿所著石皆碎。良久睡覺。精爽如常。<lb ed="T" n="0659b21"/>爾後飲酒更多。食亦逾倍。<date key="j19333311936719" notAfter-iso="0590" notBefore-iso="0581">隋初</date>得度。配<placeName key="CN0510502T01AA">等<lb ed="T" n="0659b22"/>行寺</placeName>。抱疾月餘而終。年九十餘。弟子檀越<lb ed="T" n="0659b23"/>等。終後檢校衣服。床褥皆香。絕無酒氣。</p>
+    <linkGrp>
+        <link targets="#0659b05 #0659b05"/>
+        <ptr target="#A006943" type="person"/>
+        <ptr target="#CN0510704Z01AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0659b08 #0659b20"/>
+        <ptr target="#A006943" type="person"/>
+        <ptr target="#CN0510502Z10AA" type="place"/>
+        <ptr target="#j19307491931841" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0659b21 #0659b22"/>
+        <ptr target="#A006943" type="person"/>
+        <ptr target="#CN0510502T01AA" type="place"/>
+        <ptr target="#j19333311936719" type="time"/>
+    </linkGrp>
+</div>

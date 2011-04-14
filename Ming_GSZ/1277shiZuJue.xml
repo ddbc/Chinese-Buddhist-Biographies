@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0902a069shiZuJue">
+  <p><anchor n="T.50.2062.0902a06"/><lb ed="T" n="0902a06"/><persName key="A007870">釋祖覺</persName>別號<persName key="A007870">癡庵</persName>。<placeName key="CN0511102Z08AA">嘉州</placeName>楊氏子也。聰頴夙發<lb ed="T" n="0902a07"/>獨嗜佛乘。精究賢首宗旨盡得其奧。後奉<lb ed="T" n="0902a08"/>旨出住<placeName key="CN0511402Z04AA">眉州</placeName>之<placeName key="CN0511402T01AA">中巖</placeName>。四方學者雲委川騖而<lb ed="T" n="0902a09"/>至。日於開堂弗倦誨示。汲引後學曲盡<lb ed="T" n="0902a10"/>慈悲。清涼一宗至師可為鼎盛矣。而於拈<lb ed="T" n="0902a11"/>椎之外。古今書史諸子典謨無不該研。一覽<lb ed="T" n="0902a12"/>成誦。甞修北宋僧史<!--經名ID -->併華嚴集解<!--經名ID -->金剛經註<!--經名ID --><lb ed="T" n="0902a13"/>水陸齋儀等<!--經名ID -->。行世。</p>
+  <linkGrp>
+    <link targets="#0902a07 #0902a12"/>
+    <ptr target="#A007870" type="person"/>
+    <ptr target="#CN0511402T01AA" type="place"/>
+  </linkGrp>
+</div>

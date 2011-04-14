@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0499c04shiFaCheng">
+    <p><anchor n="T.50.2060.0499c04"/><lb ed="T" n="0499c04"/><persName key="A005400">釋法澄</persName>。<placeName key="CN0320505Z04AA">吳郡</placeName>人。少機警善談論。文章書史頗<lb ed="T" n="0499c05"/>皆綜涉。初從<placeName key="CN0320102T24AA">興皇</placeName><persName key="A002918">朗公</persName>講釋三論。至於教<lb ed="T" n="0499c06"/>旨乖競者。皆條理而通暢焉。末聚徒立講<lb ed="T" n="0499c07"/>於<placeName key="CN0321002T01AA">江都開善寺</placeName>。常聽二百餘僧。化洽<placeName key="CN0300000A03AA">吳楚</placeName><lb ed="T" n="0499c08"/>傳譽<placeName key="CN0321002Z02AA">淮海</placeName>。負帙相趨日增位席。<persName key="A004413">晉王</persName>置四<lb ed="T" n="0499c09"/>道場。<persName key="A005400">澄</persName>被召入。安時悟物弘<ptr target="fn20"/>導無絕。<date key="j19413501941704" from-iso="0603-02-19" to-iso="0604-02-08">仁<lb ed="T" n="0499c10"/>壽三年</date>。奉<ptr target="fn21"/>令<ptr target="fn22"/><placeName key="CN0610000E01AA">關壤</placeName>居于<placeName key="CN0610113T02AA">日嚴</placeName>。廣流視聽<lb ed="T" n="0499c11"/>憲章新<ptr target="fn23"/>致。披講智論聲望彌重。<placeName key="CN0610102Z02AA">京師</placeName>碩學<lb ed="T" n="0499c12"/>咸謁問<persName key="A005400">之</persName>。<persName key="A004413">煬帝</persName>徙駕<placeName key="CN0410305Z16AA">東都</placeName>定鼎<placeName key="CN0410300R02AA">伊</placeName><placeName key="CN0410000R01AA">雒</placeName>。從出<lb ed="T" n="0499c13"/>淆右。因疾而終。時年七十餘矣。</p>
+    <linkGrp>
+        <link targets="#0499c04 #0499c04"/>
+        <ptr target="#A005400" type="person"/>
+        <ptr target="#CN0320505Z04AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0499c05 #0499c05"/>
+        <ptr target="#A005400" type="person"/>
+        <ptr target="#A002918" type="person"/>
+        <ptr target="#CN0320102T24AA" type="place"/>
+        </linkGrp>
+    <linkGrp>
+        <link targets="#0499c06 #0499c08"/>
+        <ptr target="#A005400" type="person"/>
+        <ptr target="#CN0321002T01AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0499c09 #0499c10"/>
+        <ptr target="#A005400" type="person"/>
+        <ptr target="#CN0610113T02AA" type="place"/>
+        <ptr target="#j19413501941704" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0499c12 #0499c13"/>
+        <ptr target="#A005400" type="person"/>
+        <ptr target="#A004413" type="person"/>
+        <ptr target="#CN0410305Z16AA" type="place"/>
+        </linkGrp>
+</div>

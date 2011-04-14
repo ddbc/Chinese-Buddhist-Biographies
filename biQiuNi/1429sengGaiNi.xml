@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="bqnz0943a22sengGaiNi">
+    <head><placeName key="CN0000000T09AA">禪基寺</placeName><persName key="A015745">僧蓋</persName>尼<ptr target="fn14"/>傳七</head><p><anchor n="T.50.2063.0943a23"/><lb ed="T" n="0943a23"/><persName key="A015745">僧蓋</persName>，本姓田，趙國<placeName key="CN0130127A01AA">均仁</placeName>人<ptr target="fn＊"/>也。父<ptr target="fn15"/><persName key="A015846">宏</persName>，梁<placeName key="CN0620502Z14AA">天水</placeName><lb ed="T" n="0943a24"/>太守。<persName key="A015745">蓋</persName>幼出家，為<persName key="A015849">僧志</persName>尼弟子住彭城<placeName key="CN0320303T06AA">華林<lb ed="T" n="0943a25"/>寺</placeName>。忘利養，惔毀譽。<date from-iso="0473-02-14" key="j18938651894219" to-iso="0474-02-03">永徽元年</date><!--應為元徽元年-->，索虜侵州，與同<lb ed="T" n="0943a26"/>學<persName key="A015851">法進</persName>南遊<placeName key="CN0320106Z05AA">京室</placeName>，住<placeName key="CN0320106T43AA">妙相尼寺</placeName>。博聽經律，深<lb ed="T" n="0943a27"/>究旨歸，專修禪定，惟日<ptr target="fn16"/>不足。寒暑不變衣<lb ed="T" n="0943a28"/>裳，四時<ptr target="fn17"/>無新；<ptr target="fn18"/>飲食但資一菜，中<ptr target="fn19"/>飯而已。<lb ed="T" n="0943a29"/>受業於<persName key="A002321">隱</persName>、<persName key="A002314">審</persName>二禪師，禪師皆歎其易悟。齊<date from-iso="0483-01-26" key="j18974981901365" to-iso="0493-08-28">永<lb ed="T" n="0943b01"/>明</date>中，移止<placeName key="CN0000000T09AA">禪基寺</placeName>，欲廣弘觀道。道俗諮訪，更<lb ed="T" n="0943b02"/>成紛動，乃別立禪房於寺之左，宴默其中，出<lb ed="T" n="0943b03"/>則善誘，<ptr target="fn20"/>諄諄不勌。齊竟陵文宣王<persName key="A002655">蕭子良</persName>，四<lb ed="T" n="0943b04"/>時資給。雖<ptr target="fn21"/>已耆艾，而志<ptr target="fn22"/>向不衰，終日清虛，<lb ed="T" n="0943b05"/>通夜不寐。年六十四，<date from-iso="0493-02-03" key="j19011591901365" to-iso="0493-08-28">永明十一年</date>卒<ptr target="fn＊"/>也。</p><p>時<lb ed="T" n="0943b06"/><ref type="place" target="#CN0000000T09AA">寺</ref>又有<persName key="A015746">法<ptr target="fn23"/>延</persName>者，本姓許，高陽<!--無法判定其為河北的高陽還是山東的高陽?-->人也，精<ptr target="fn24"/>進有<lb ed="T" n="0943b07"/>行業，亦以禪定顯<ptr target="fn25"/>聞<ptr target="fn＊"/>也。</p>
+    <linkGrp>
+        <link targets="#A015745 #0943a24"/>
+        <ptr target="#A015745" type="person"/>
+        <ptr target="#A015846" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0943b05 #0943b05"/>
+        <ptr target="#A015745" type="person"/>
+        <ptr target="#j19011591901365" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0943a23 #0943a24"/>
+        <ptr target="#A015846" type="person"/>
+        <ptr target="#CN0620502Z14AA" type="place"/>
+        </linkGrp>
+    <linkGrp>
+        <link targets="#0943a24 #0943a25"/>
+        <ptr target="#A015745" type="person"/>
+        <ptr target="#A015849" type="person"/>
+        <ptr target="#CN0320303T06AA" type="place"/>
+        </linkGrp>
+    <linkGrp>
+        <link targets="#0943a25 #0943a26"/>
+        <ptr target="#A015745" type="person"/>
+        <ptr target="#A015851" type="person"/>
+        <ptr target="#CN0320106T43AA" type="place"/>
+        <ptr target="#j18938651894219" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0943a29 #0943a29"/>
+        <ptr target="#A015745" type="person"/>
+        <ptr target="#A002314" type="person"/>
+        </linkGrp>
+    <linkGrp>
+        <link targets="#0943a29 #0943a29"/>
+        <ptr target="#A015745" type="person"/>
+        <ptr target="#A002321" type="person"/>
+        </linkGrp>
+    <linkGrp>
+        <link targets="#0943a29 #0943b05"/>
+        <ptr target="#A015745" type="person"/>
+        <ptr target="#A002655" type="person"/>
+        <ptr target="#CN0000000T09AA" type="place"/>
+        <ptr target="#j18974981901365" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0943b05 #0943b07"/>
+        <ptr target="#A015746" type="person"/>
+        <ptr target="#CN0000000T09AA" type="place"/>
+        </linkGrp>
+</div>

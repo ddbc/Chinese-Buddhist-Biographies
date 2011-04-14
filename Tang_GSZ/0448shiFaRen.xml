@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0557b29shiFaRen">
+    <p><anchor n="T.50.2060.0557b29"/><lb ed="T" n="0557b29"/><persName key="A005922">釋法忍</persName>。<placeName key="CN0421003Z03AA">江陵</placeName>人。初投<placeName key="CN0421024T06AA">天皇寺</placeName>出家。受具已<lb ed="T" n="0557c01"/>後受持法華維摩。日常再遍。眾聚多諠<ptr target="fn37"/>枯<lb ed="T" n="0557c02"/>折由<ptr target="fn38"/>生。西往<placeName key="CN0420582M02AA">覆舟</placeName>。巖下頭陀自靜觀理。三<lb ed="T" n="0557c03"/>十餘年木食麻衣破<ptr target="fn39"/>衲而已。自得幽林無<lb ed="T" n="0557c04"/>求外護。升粒若盡繼以水果。終不馳求。或<lb ed="T" n="0557c05"/>一食七日跏坐求志。曾於一夏費米三斗。<lb ed="T" n="0557c06"/>必限自恣猶盈五升。雖獨宿非入戒科。而<lb ed="T" n="0557c07"/><ptr target="fn40"/>儉約一<ptr target="fn41"/>隅別行。所止龕室纔容膝頭。伏<lb ed="T" n="0557c08"/>夏嚴冬形不出戶。故寒不加絮熱不減衣。<lb ed="T" n="0557c09"/>安然守道無為而已。忽有一象無事至龕。<lb ed="T" n="0557c10"/>經于數日。<persName key="A005922">忍</persName>便現疾。於<placeName key="CN0420582T03AA">寺</placeName>北窟右脇而終。<lb ed="T" n="0557c11"/>春秋六十有七。衣鉢塵朽眾無預焉。評其估<lb ed="T" n="0557c12"/>價。不至於十云。</p>
+    <linkGrp>
+        <link targets="#0557b29 #0557b29"/>
+        <ptr target="#A005922" type="person"/>
+        <ptr target="#CN0421024T06AA" type="place"/>
+        </linkGrp>
+    <linkGrp>
+        <link targets="#0557c02 #0557c03"/>
+        <ptr target="#A005922" type="person"/>
+        <ptr target="#CN0420582M02AA" type="place"/>
+        </linkGrp>
+    <linkGrp>
+        <link targets="#0557c10 #0557c11"/>
+        <ptr target="#A005922" type="person"/>
+        <ptr target="#CN0420582T03AA" type="place"/>
+        </linkGrp>
+</div>

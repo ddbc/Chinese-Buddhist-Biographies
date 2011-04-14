@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><div xml:id="mscc0356c24huiYong" xmlns="http://www.tei-c.org/ns/1.0"><head>晉尋陽廬山<placeName key="CN0360402T01AA">陵雲寺</placeName><persName key="A002218">釋慧永</persName></head><p><anchor n="X.77.1523.0356c24"/><lb ed="X" n="0356c24"/>惠永<placeName key="CN0410882Z32AA">河內</placeName>人也。出家為<persName key="A002840">竺曇現</persName>弟子。現篤志直方。少<lb ed="X" n="0357a01"/>有清節。長慕肥遁。山棲養志。以<date from-iso="0366-01-29" to-iso="0372-01-06" key="j18547671856935">晉太和</date>中。於尋陽<placeName key="CN0360402M01AA">廬<lb ed="X" n="0357a02"/>山</placeName>北嶺下。創立寺廟。<persName key="A002218">永</persName>以北嶺下尚多喧動。移於南<lb ed="X" n="0357a03"/>嶺之上。築葺房宇。搆起堂殿。與烟霞交接。名曰<placeName key="CN0360402T01AA">淩雲<lb ed="X" n="0357a04"/>精舍</placeName>。於是棄絕人事。隱居幽岳。弊衣菜食。禪誦為務。<lb ed="X" n="0357a05"/>時有往者。轉聞香氣芬馨。流於<ptr target="fn1"/>各內。<persName key="A002218">永</persName>室中堂有一<lb ed="X" n="0357a06"/>虎。若有畏者。駈令上山。客去便還。甚能馴伏。由是道<lb ed="X" n="0357a07"/>俗景仰焉。<persName key="A002218">永</persName>甞獨下山。薄<ptr target="fn2"/>脫而歸。至<placeName key="CN0360401A02AA">烏橋</placeName>。烏橋營主<lb ed="X" n="0357a08"/>飲酒大醉。乘馬當道。終不相過。日轉逼暮。求請不從。<lb ed="X" n="0357a09"/>振錫向馬。馬驚反擲。營主落地頓仆。不能即起。馬僻<lb ed="X" n="0357a10"/>易入草。明旦營主入山懺謝。謂<persName key="A002218">永</persName>使神力。永曰。貧道<lb ed="X" n="0357a11"/>體君飲酒。初不相恠。以常扣錫。遂至於斯。<ptr target="fn3"/>苦審有此<lb ed="X" n="0357a12"/>改。當是戒神見護耳。<persName key="A002218">永</persName>性謙恭精苦。雖遇疾病。而長<lb ed="X" n="0357a13"/>齊不癈。春秋八十三。<date from-iso="0380-02-23" to-iso="0381-02-10" key="j18599051860258">晉泰元五年</date>卒(云云)。</p>
+    <linkGrp>
+        <link targets="#0356c24 #0356c24"/>
+        <ptr type="person" target="#A002218"/>
+        <ptr type="place" target="#CN0410882Z32AA"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0356c24 #0356c24"/>
+        <ptr type="person" target="#A002218"/>
+        <ptr type="person" target="#A002840"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0357a01 #0357a07"/>
+        <ptr type="person" target="#A002218"/>
+        <ptr type="place" target="#CN0360402T01AA"/>
+        <ptr type="time" target="#d18547671856935"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0357a07 #0357a12"/>
+        <ptr type="person" target="#A002218"/>
+        <ptr type="place" target="#CN0360401A02AA"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0357a12 #0357a13"/>
+        <ptr type="person" target="#A002218"/>
+        <ptr type="time" target="#d18599051860258"/>
+    </linkGrp>
+</div>

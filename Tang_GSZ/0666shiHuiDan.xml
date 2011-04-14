@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0671b16shiHuiDan">
+    <p><anchor n="T.50.2060.0671b16"/><lb ed="T" n="0671b16"/><persName key="A007206">釋慧誕</persName>。<placeName key="CN0610102Z10AA">雍州</placeName>人。學究涅槃及通攝論。每登<lb ed="T" n="0671b17"/>講席有名<placeName key="CN0610102Z14AA">京室</placeName>。即<persName key="A001779">曇延法師</persName>之學士也。住<lb ed="T" n="0671b18"/><placeName key="CN0610104T36AA">延興寺</placeName>。<date key="j19406121942058" notAfter-iso="0605" notBefore-iso="0601">仁壽</date>下勅召起塔于杭州<placeName key="CN0330106T09AA">天竺寺</placeName>。<lb ed="T" n="0671b19"/>住在<placeName key="CN0330106M02AA">靈隱山</placeName>。林石岑竦實來仙聖。初搆塔<lb ed="T" n="0671b20"/>基。多逢伏石。掘得一所是古石函。傍推<lb ed="T" n="0671b21"/>其際眇不可測。因用<ptr target="fn16"/>今造置古函中。大小<lb ed="T" n="0671b22"/>和可宛如昔契。<persName key="A007206">誕</persName>還本寺講授尋常。雖非<lb ed="T" n="0671b23"/>卓犖亦例能色。<date key="j19500921952195" notAfter-iso="0632" notBefore-iso="0627">貞觀初年</date>卒于<placeName key="CN0610104T36AA">本寺</placeName>。七十<lb ed="T" n="0671b24"/>餘矣。臨終清言安話<ptr target="fn17"/>神色無異。顧諸法屬<lb ed="T" n="0671b25"/>深累住持。通告好住。<ptr target="fn18"/>怗然神逝。</p>
+    <linkGrp>
+        <link targets="#0671b16 #0671b16"/>
+        <ptr target="#A007206" type="person"/>
+        <ptr target="#CN0610102Z10AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0671b17 #0671b18"/>
+        <ptr target="#A007206" type="person"/>
+        <ptr target="#A001779" type="person"/>
+        <ptr target="#CN0610104T36AA" type="place"/>
+        </linkGrp>
+    <linkGrp>
+        <link targets="#0671b18 #0671b19"/>
+        <ptr target="#A007206" type="person"/>
+        <ptr target="#CN0330106T09AA" type="place"/>
+        <ptr target="#j19406121942058" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0671b18 #0671b22"/>
+        <ptr target="#A007206" type="person"/>
+        <ptr target="#CN0330106M02AA" type="place"/>
+        <ptr target="#j19406121942058" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0671b23 #0671b24"/>
+        <ptr target="#A007206" type="person"/>
+        <ptr target="#CN0610104T36AA" type="place"/>
+        <ptr target="#j19500921952195" type="time"/>
+    </linkGrp>
+</div>

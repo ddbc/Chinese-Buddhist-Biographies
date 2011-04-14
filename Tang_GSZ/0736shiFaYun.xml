@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0703c09shiFaYun"><head>隋蘇州<placeName key="CN0320113T01AA">栖霞寺</placeName><persName key="A007543">釋法韻</persName>傳五</head>
+    <p><anchor n="T.50.2060.0703c09"/><lb ed="T" n="0703c09"/><persName key="A007543">釋法韻</persName>。姓陳氏。<placeName key="CN0320503Z16AA">蘇州</placeName>人。追慕朋從偏工席<lb ed="T" n="0703c10"/>上。騷索遠度罕得其節。誦諸碑誌及古導文<lb ed="T" n="0703c11"/>百有餘卷。并<persName key="A007516">王僧孺</persName>等諸賢所撰。至於導<lb ed="T" n="0703c12"/>達善能引用。又通經聲七百餘契。每有宿<lb ed="T" n="0703c13"/><ptr target="fn＊"/>齋經導兩務並委於<persName key="A007543">韻</persName>。年至三十弊於諠<lb ed="T" n="0703c14"/>梗。邀延<ptr target="fn20"/>疏請日別重疊。乃於正旦割繩永<lb ed="T" n="0703c15"/>斷。即聽華嚴。不久便覆。恨<ptr target="fn21"/>悢棄功<ptr target="fn22"/>妄銷<lb ed="T" n="0703c16"/>脣舌。承<placeName key="CN0320113T01AA">栖霞</placeName>清眾<placeName key="CN0000007D01AA">江表</placeName>所推。尋聲即造。從<lb ed="T" n="0703c17"/>受禪道。又聞泰岳<placeName key="CN0370113T03AA">靈巖</placeName>。因往追蹤。般<ptr target="fn23"/>舟苦<lb ed="T" n="0703c18"/>行<ptr target="fn24"/>特立志梗潔不希名聞。擔石破薪供給<lb ed="T" n="0703c19"/>為任。晚還<placeName key="CN0320503Z16AA">故鄉</placeName>。有浮江<ptr target="fn25"/>石像者。如前傳<lb ed="T" n="0703c20"/>述。後被燒燼而不委相量。無由可建。便<lb ed="T" n="0703c21"/>於石像故基。願禮八萬四千塔。樹功既滿。<lb ed="T" n="0703c22"/>感遇野姥。送一卷書。及披讀之乃是昔像<lb ed="T" n="0703c23"/>之緣也。既有樣度。依而造成。大有徵應。海<lb ed="T" n="0703c24"/>中有<placeName key="CN1300000A01AA">陽虎島</placeName>者。去岸三<ptr target="fn26"/>百。<persName key="A007543">韻</persName>往安禪。<ptr target="fn＊"/>惟<lb ed="T" n="0703c25"/>服布艾。行慈故也。初達逢怪大風鬼物。既<lb ed="T" n="0703c26"/>見如常心毛不動。九十日後<ptr target="fn27"/>帖然大安。自<lb ed="T" n="0703c27"/><ptr target="fn28"/>知終事。還返<placeName key="CN0320113T01AA">栖霞</placeName>。不久便卒。春秋三十<lb ed="T" n="0703c28"/>五。即<date key="j19417051942058" from-iso="0604-02-09" to-iso="0605-01-27">仁壽四年</date>矣。</p>
+    <linkGrp>
+        <link targets="#0703c09 #0703c09"/>
+        <ptr target="#A007543" type="person"/>
+        <ptr target="#CN0320503Z16AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0703c16 #0703c17"/>
+        <ptr target="#A007543" type="person"/>
+        <ptr target="#CN0320113T01AA" type="place"/>
+        </linkGrp>
+    <linkGrp>
+        <link targets="#0703c17 #0703c18"/>
+        <ptr target="#A007543" type="person"/>
+        <ptr target="#CN0370113T03AA" type="place"/>
+        </linkGrp>
+    <linkGrp>
+        <link targets="#0703c19 #0703c23"/>
+        <ptr target="#A007543" type="person"/>
+        <ptr target="#CN0320503Z16AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0703c23 #0703c26"/>
+        <ptr target="#A007543" type="person"/>
+        <ptr target="#CN1300000A01AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0703c27 #0703c28"/>
+        <ptr target="#A007543" type="person"/>
+        <ptr target="#CN0320113T01AA" type="place"/>
+        <ptr target="#j19417051942058" type="time"/>
+    </linkGrp>
+</div>

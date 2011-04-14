@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0414a11shiZhiZong">
+    <p><anchor n="T.50.2059.0414a11"/><lb ed="T" n="0414a11"/><persName key="A003473">釋智宗</persName>，姓周，<placeName key="CN0320106Z06AA">建康</placeName>人。出家止<placeName key="CN0320115T14AA">謝寺</placeName>。博學多<lb ed="T" n="0414a12"/>聞，尤長轉讀。聲至清而爽快，若乃八關長夕。<lb ed="T" n="0414a13"/>中宵之後，四眾低昂，睡<ptr target="fn08"/>蛇交至。<persName key="A003473">宗</persName>則昇座<lb ed="T" n="0414a14"/>一轉，梵響干雲。莫不開神暢體，豁然醒悟。<lb ed="T" n="0414a15"/><date key="j18887561889110" from-iso="0459-02-19" to-iso="0460-02-08">大明三年</date>卒，年三十一。</p><p>時有<persName key="A003474">慧寶</persName>、<persName key="A003475">道詮</persName>，雖<lb ed="T" n="0414a16"/>非同時，作法相似。甚豐聲而高調，製用無<lb ed="T" n="0414a17"/>取焉。<persName key="A002652">宋明</persName>忽賞<persName key="A003475">道詮</persName>，<ptr target="fn09"/>議者謂逢時也。</p>
+    <linkGrp>
+        <link targets="#0414a11 #0414a11"/>
+        <ptr target="#A003473" type="person"/>
+        <ptr target="#CN0320115T14AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0414a17 #0414a17"/>
+        <ptr target="#A002652" type="person"/>
+        <ptr target="#A003475" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0414a15 #0414a15"/>
+        <ptr target="#A003473" type="person"/>
+        <ptr target="#j18887561889110" type="time"/>
+    </linkGrp>
+</div>

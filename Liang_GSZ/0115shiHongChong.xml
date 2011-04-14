@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0376a10shiHongChong">
+	<p><anchor n="T.50.2059.0376a10"/><lb ed="T" n="0376a10"/><persName key="A002257">釋弘充</persName>，<placeName key="CN0620602Z10AA">涼州</placeName>人。少有志力，通《莊》《老》，解經律。<lb ed="T" n="0376a11"/><date key="j18880181890941" notAfter-iso="0465" notBefore-iso="0457">大明</date>末過江，初止<placeName key="CN0320101T58AA">多寶寺</placeName>。善能問難，先達<lb ed="T" n="0376a12"/>多為所屈。後自開法筵，鋒鏑互起。<persName key="A002257">充</persName>既思<lb ed="T" n="0376a13"/>入玄微，口辯天逸，通疑釋滯，無所間然。每<lb ed="T" n="0376a14"/>講《法華》《十地》，聽者盈堂，宋太宰<placeName key="CN0420106Z20AA">江夏</placeName><persName key="A003042">文獻王<lb ed="T" n="0376a15"/>義恭</persName>雅重之。<persName key="A002652">明帝</persName>踐祚，起<placeName key="CN0320106T18AA">湘宮寺</placeName>，請<persName key="A002257">充</persName>為<lb ed="T" n="0376a16"/>綱領，於是移居焉。</p><p>于時<placeName key="CN0320106T18AA">湘宮</placeName>又有<persName key="A003043">法鮮比<lb ed="T" n="0376a17"/>丘</persName>，亦聰哲有思力，與<persName key="A002257">充</persName>齊名。<persName key="A002257">充</persName>以<date key="j18974971901513" notAfter-iso="0494" notBefore-iso="0483">齊永明<lb ed="T" n="0376a18"/>中</date>卒，春秋七十有<ptr target="fn07"/>二。注《文殊問菩提經》及<lb ed="T" n="0376a19"/>注《首楞嚴經》。</p>
+	<linkGrp>
+		<link targets="#0376a15 #0376a16"/>
+		<ptr target="#A002257" type="person"/>
+		<ptr target="#A002652" type="person"/>
+	</linkGrp>
+	<linkGrp>
+		<link targets="#0376a14 #0376a15"/>
+		<ptr target="#A002257" type="person"/>
+		<ptr target="#A003042" type="person"/>
+	</linkGrp>
+	<linkGrp>
+		<link targets="#0376a15 #0376a17"/>
+		<ptr target="#A002257" type="person"/>
+		<ptr target="#A003043" type="person"/>
+		<ptr target="#CN0320106T18AA" type="place"/>
+	</linkGrp>
+	<linkGrp>
+		<link targets="#0376a11 #0376a11"/>
+		<ptr target="#A002257" type="person"/>
+		<ptr target="#CN0320101T58AA" type="place"/>
+		<ptr target="#j18880181890941" type="time"/>
+	</linkGrp>
+	<linkGrp>
+		<link targets="#0376a16 #0376a18"/>
+		<ptr target="#A002257" type="person"/>
+		<ptr target="#j18974971901513" type="time"/>
+	</linkGrp>
+</div>

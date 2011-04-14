@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0615c04shiFaLi">
+    <p><anchor n="T.50.2060.0615c04"/><lb ed="T" n="0615c04"/><persName key="A000747">釋法礪</persName>。俗姓李氏。<placeName key="CN0130133Z25AA">趙</placeName>人也。因<ptr target="fn21"/>宦遂家于<placeName key="CN0130427Z19AA">相</placeName><lb ed="T" n="0615c05"/>焉。生而牙齒全具。迄于終老中無齓毀。堅<lb ed="T" n="0615c06"/>白逾常。登年學位便欣大法。初歸<persName key="A005283">靈<ptr target="fn22"/>裕<lb ed="T" n="0615c07"/>法師</persName>。即度為弟子。風素翔郁威容都雅。言議<lb ed="T" n="0615c08"/>博達欣尚玄奧。受具已後敦慎戒科。從<persName key="A006075">靜洪<lb ed="T" n="0615c09"/><ptr target="fn23"/>津師</persName>諮<ptr target="fn24"/>學四分。指撝刑<ptr target="fn25"/>網有歷年所。<lb ed="T" n="0615c10"/>振績徽猷譽騰時類。功業既著更師異軌。<lb ed="T" n="0615c11"/>又從<placeName key="CN0130123Z21AA">恒州</placeName><persName key="A006409">淵公</persName>。聽集大義乃周兩載。統略<lb ed="T" n="0615c12"/><ptr target="fn26"/>支葉窮討根源。當即<ptr target="fn27"/>簙引所聞開講律<lb ed="T" n="0615c13"/>要。詞吐簡詣攻難彌堅。故得隣幾獨絕尤稱<lb ed="T" n="0615c14"/>今古。末又往<placeName key="CN0000007D01AA">江南</placeName>遊覽十誦。而<ptr target="fn28"/>盛專師<lb ed="T" n="0615c15"/>授討擊未資。還返<placeName key="CN0130423Z23AA"> 鄴</placeName>中適緣開導。屬<persName key="A004413">隋煬</persName><lb ed="T" n="0615c16"/>道銷岳瀆塵擾。聽徒擁戢諮逮無因。<date key="j19469511949949" notAfter-iso="0626" notBefore-iso="0618">唐運初<lb ed="T" n="0615c17"/>基</date>法門重闢。會<placeName key="CN0130423Z22AA">臨漳</placeName>令<persName key="A006410">裴師遠</persName>。夙承清訓預<lb ed="T" n="0615c18"/>展法筵。請<persName key="A000747">礪</persName>在縣敷弘相續。綿積累載開<lb ed="T" n="0615c19"/>悟極多。四方懷道霄興命駕。解契昇堂行<lb ed="T" n="0615c20"/>敦入室。<persName key="A000747">礪</persName>以初學舊習委訪莫歸。若不流<lb ed="T" n="0615c21"/>于文記是則通心無路。乃開拓素業更委<lb ed="T" n="0615c22"/>異聞。旁訊經論為之本疏。時<persName key="A002380">慧休法師</persName>道<lb ed="T" n="0615c23"/>聲遠被見重世猷。讚擊神理文義相接。故<lb ed="T" n="0615c24"/>得符<ptr target="fn29"/>采相照律觀高邈。<persName key="A002380">休</persName>有功焉。以<date key="j19533111953339" from-iso="0635-11-19" to-iso="0635-12-17">貞觀<lb ed="T" n="0615c25"/>九年十月</date>。卒于故鄴<placeName key="CN0130423T15AA">日光住寺</placeName>。春秋六十有<lb ed="T" n="0615c26"/>七。前後講律四十餘遍。製四分疏十卷。羯<lb ed="T" n="0615c27"/>磨疏三卷。捨懺儀輕重敘等。各施卷部見<lb ed="T" n="0615c28"/>重於時。時<placeName key="CN0410781Z16AA">衛州</placeName><persName key="A006411">道爍</persName>。律學所<ptr target="fn30"/>崇。業駕於<lb ed="T" n="0615c29"/><persName key="A000747">礪</persName>。為時所重矣。</p>
+    <linkGrp>
+        <link targets="#0615c04 #0615c04"/>
+        <ptr target="#A000747" type="person"/>
+        <ptr target="#CN0130133Z25AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0615c04 #0615c05"/>
+        <ptr target="#A000747" type="person"/>
+        <ptr target="#CN0130427Z19AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0615c06 #0615c07"/>
+        <ptr target="#A000747" type="person"/>
+        <ptr target="#A005283" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0615c08 #0615c10"/>
+        <ptr target="#A000747" type="person"/>
+        <ptr target="#A006075" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0615c11 #0615c12"/>
+        <ptr target="#A000747" type="person"/>
+        <ptr target="#A006409" type="person"/>
+        <ptr target="#CN0130123Z21AA" type="place"/>
+        </linkGrp>
+    <linkGrp>
+        <link targets="#0615c14 #0615c14"/>
+        <ptr target="#A000747" type="person"/>
+        <ptr target="#CN0000007D01AA" type="place"/>
+        </linkGrp>
+    <linkGrp>
+        <link targets="#0615c15 #0615c16"/>
+        <ptr target="#A000747" type="person"/>
+        <ptr target="#CN0130423Z23AA" type="place"/>
+        </linkGrp>
+    <linkGrp>
+        <link targets="#0615c16 #0615c18"/>
+        <ptr target="#A000747" type="person"/>
+        <ptr target="#A006410" type="person"/>
+        <ptr target="#CN0130423Z22AA" type="place"/>
+        <ptr target="#j19469511949949" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0615c24 #0615c26"/>
+        <ptr target="#A000747" type="person"/>
+        <ptr target="#CN0130423T15AA" type="place"/>
+        <ptr target="#j19533111953339" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0615c28 #0615c29"/>
+        <ptr target="#A006411" type="person"/>
+        <ptr target="#CN0410781Z16AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0615c28 #0615c29"/>
+        <ptr target="#A000747" type="person"/>
+        <ptr target="#A006411" type="person"/>
+    </linkGrp>
+</div>

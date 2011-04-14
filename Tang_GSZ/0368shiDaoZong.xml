@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0512a03shiDaoZong">
+    <p><anchor n="T.50.2060.0512a03"/><lb ed="T" n="0512a03"/><persName key="A005532">釋道宗</persName>。俗姓孫氏。<placeName key="CN0370282Z18AA">萊州即墨</placeName>人。少從<placeName key="CN0370781T01AA">青州道<lb ed="T" n="0512a04"/>藏寺</placeName><persName key="A004648">道奘法師</persName>。學通經論。<persName key="A004648">奘</persName>明達識慧。標<lb ed="T" n="0512a05"/>舉河海名播南北。立四種<ptr target="fn01"/>黎耶聞熏解性<lb ed="T" n="0512a06"/>佛果等義。廣如別傳。<persName key="A005532">宗</persName>受業智論十地地持<lb ed="T" n="0512a07"/>成實毘曇。大小該博。晚住州中<placeName key="CN0370781T07AA">遊德寺</placeName>。寺即<lb ed="T" n="0512a08"/><persName key="A005532">宗</persName>之所造。房堂園圃悉是經<ptr target="fn02"/>論。聲名雄遠<lb ed="T" n="0512a09"/>玄素攸仰。及講大論天雨眾花。旋遶講<lb ed="T" n="0512a10"/>堂飛流戶內。既不委地。久之還去。合眾驚<lb ed="T" n="0512a11"/>嗟希有瑞也。<persName key="A005532">宗</persName>雖目對初不怪之。行講如<lb ed="T" n="0512a12"/>初。後不重述。時共伏其遠度。晚住<placeName key="CN0410305T02AA">慧日</placeName>。英<lb ed="T" n="0512a13"/>彥同聚該富是推。常講成實弘匠後學。<ptr target="fn03"/>偽<lb ed="T" n="0512a14"/>鄭欽敬禮問優繁。上清東夏又欽德素。召<lb ed="T" n="0512a15"/>入<placeName key="CN0610102Z02AA">西京</placeName>住<placeName key="CN0610103T12AA">勝光寺</placeName>。復延入<placeName key="CN0610100A03AA">弘義宮</placeName>。通<ptr target="fn04"/>霄法<lb ed="T" n="0512a16"/>集。群后百辟咸從伏聽。披闡新異振發時<lb ed="T" n="0512a17"/>心。自爾周輪隨講無替。雖無成濟而學者<lb ed="T" n="0512a18"/>推焉。以<date key="j19486441948998" from-iso="0623-02-08" to-iso="0624-01-28">武德六年</date>卒<ptr target="fn05"/>于<placeName key="CN0610103T12AA">所住</placeName>。春秋六十<lb ed="T" n="0512a19"/>一。秦府下教贈物二百段。收葬于<placeName key="CN0610116T01AA">終南山<lb ed="T" n="0512a20"/>至相寺</placeName>之南巖。</p>
+    <linkGrp>
+        <link targets="#0512a03 #0512a03"/>
+        <ptr target="#A005532" type="person"/>
+        <ptr target="#CN0370282Z18AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0512a03 #0512a04"/>
+        <ptr target="#A005532" type="person"/>
+        <ptr target="#A004648" type="person"/>
+        <ptr target="#CN0370781T01AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0512a06 #0512a08"/>
+        <ptr target="#A005532" type="person"/>
+        <ptr target="#CN0370781T07AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0512a12 #0512a14"/>
+        <ptr target="#A005532" type="person"/>
+        <ptr target="#CN0410305T02AA" type="place"/>
+        </linkGrp>
+    <linkGrp>
+        <link targets="#0512a14 #0512a15"/>
+        <ptr target="#A005532" type="person"/>
+        <ptr target="#CN0610103T12AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0512a15 #0512a16"/>
+        <ptr target="#A005532" type="person"/>
+        <ptr target="#CN0610100A03AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0512a18 #0512a19"/>
+        <ptr target="#A005532" type="person"/>
+        <ptr target="#CN0610103T12AA" type="place"/>
+        <ptr target="#j19486441948998" type="time"/>
+    </linkGrp>
+</div>

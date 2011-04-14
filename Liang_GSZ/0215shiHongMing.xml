@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0408a06shiHongMing">
+    <p><anchor n="T.50.2059.0408a06"/><lb ed="T" n="0408a06"/><persName key="A002352">釋弘明</persName>，本姓嬴，<placeName key="CN0330602Z05AA">會稽山陰</placeName>人。少出家，貞苦有<lb ed="T" n="0408a07"/>戒節，止<placeName key="CN0330621T05AA">山陰雲門寺</placeName>。誦《法華》，習禪定，精勤<lb ed="T" n="0408a08"/>禮懺，六時不輟。每旦則水瓶自滿，實諸天童<lb ed="T" n="0408a09"/>子以為給使也。<persName key="A002352">明</persName>嘗於<placeName key="CN0330621T05AA">雲門</placeName>坐禪，虎來入<lb ed="T" n="0408a10"/><persName key="A002352">明</persName>室內，伏于床前，見<persName key="A002352">明</persName>端然不動，久久乃<lb ed="T" n="0408a11"/>去。又時見一小兒來，聽<persName key="A002352">明</persName>誦經。<persName key="A002352">明</persName>曰：「汝是<lb ed="T" n="0408a12"/>何人？」答云：「昔是此寺沙彌，盜帳下食，今墮<lb ed="T" n="0408a13"/>圊中。聞<persName key="A002352">上人</persName>道業，故來聽誦經，願助方便，<lb ed="T" n="0408a14"/>使免斯累也。」<persName key="A002352">明</persName>即說法勸化，領解方隱。後<lb ed="T" n="0408a15"/>於<placeName key="CN0330109A19AA">永興石姥巖</placeName>入定，又有山精來惱<persName key="A002352">明</persName>。<persName key="A002352">明</persName><lb ed="T" n="0408a16"/>捉得以腰繩繫之，鬼遜謝求脫，云：「後不敢<lb ed="T" n="0408a17"/>復來。」<ptr target="fn01"/>及解放。於是絕迹。</p><p><date from-iso="0424" key="j18761761886925" to-iso="0454">元嘉中</date>，郡守<placeName key="CN0370782Z43AA">平昌</placeName><lb ed="T" n="0408a18"/><persName key="A002587">孟顗</persName>，重其真素，要出安止<placeName key="CN0330601T05AA">道樹精舍</placeName>。後<placeName key="CN0410225Z03AA">濟<lb ed="T" n="0408a19"/>陽</placeName><ptr target="fn02"/><persName key="A003414">江</persName>於<placeName key="CN0330109Z23AA">永興邑</placeName>立<ptr target="fn03"/><placeName key="CN0330109T01AA">昭玄寺</placeName>，復請<persName key="A002352">明</persName>往住。<lb ed="T" n="0408a20"/><date key="j18880181890941" notAfter-iso="0465" notBefore-iso="0457">大明</date>末，<placeName key="CN0330621A07AA">陶里</placeName><persName key="A003415">董氏</persName>，又為<persName key="A002352">明</persName>於<placeName key="CN0330621A07AA">村</placeName>立<placeName key="CN0330621T01AA">栢林寺</placeName>，<lb ed="T" n="0408a21"/>要<persName key="A002352">明</persName>還止，訓勗禪戒，門人成列。以<date key="j18985901898973" from-iso="0486-01-22" to-iso="0487-02-09">齊永明<lb ed="T" n="0408a22"/>四年</date>卒於<placeName key="CN0330621T01AA">栢林寺</placeName>，春秋八十有四。</p>
+    <linkGrp>
+        <link targets="#0408a07 #0408a07"/>
+        <ptr target="#A002352" type="person"/>
+        <ptr target="#CN0330621T05AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0408a14 #0408a15"/>
+        <ptr target="#A002352" type="person"/>
+        <ptr target="#CN0330109A19AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0408a18 #0408a19"/>
+        <ptr target="#A002352" type="person"/>
+        <ptr target="#A003414" type="person"/>
+        <ptr target="#CN0330109T01AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0408a17 #0408a18"/>
+        <ptr target="#A002352" type="person"/>
+        <ptr target="#A002587" type="person"/>
+        <ptr target="#CN0330601T05AA" type="place"/>
+        <ptr target="#j18761761886925" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0408a20 #0408a21"/>
+        <ptr target="#A002352" type="person"/>
+        <ptr target="#A003415" type="person"/>
+        <ptr target="#CN0330621T01AA" type="place"/>
+        <ptr target="#j18880181890941" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0408a21 #0408a22"/>
+        <ptr target="#A002352" type="person"/>
+        <ptr target="#CN0330621T01AA" type="place"/>
+        <ptr target="#j18985901898973" type="time"/>
+    </linkGrp>
+</div>

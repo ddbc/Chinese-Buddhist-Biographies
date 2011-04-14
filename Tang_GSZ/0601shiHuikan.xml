@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0652b11shiHuikan">
+    <p><anchor n="T.50.2060.0652b11"/><lb ed="T" n="0652b11"/><persName key="A006851">釋慧<ptr target="fn10"/>偘</persName>。姓湯。晉陵<placeName key="CN0320402A01AA">典<ptr target="fn11"/>河</placeName>人也。少受學於<persName key="A004806">和<lb ed="T" n="0652b12"/>闍梨</persName>。<persName key="A004806">和</persName>靈通幽顯。世莫識其淺深。而翹敬<lb ed="T" n="0652b13"/>尊像。事同真佛。每見立像不敢前坐。勸<lb ed="T" n="0652b14"/>人造像惟作坐者。道行遇諸因厄無不救<lb ed="T" n="0652b15"/>濟。或見被縛之猪。<persName key="A004806">和</persName>曰解脫首楞嚴。猪尋<lb ed="T" n="0652b16"/>解縛。主因放之。自爾偏以慈救為業。大眾<lb ed="T" n="0652b17"/>集處輒為說法。皆隨事讚引即物成務。眾<lb ed="T" n="0652b18"/>無不悟而歸於道。末往<placeName key="CN0130423Z16AA">鄴下</placeName>大弘正法。歸<lb ed="T" n="0652b19"/>向之徒至今流詠。臨終在<placeName key="CN0130423Z16AA">鄴</placeName>。人問其所獲。<lb ed="T" n="0652b20"/>云得善根成熟耳。<persName key="A006851">侃</persName>奉其神化積有年稔。<lb ed="T" n="0652b21"/>眾知靈異初不廣之。後往<placeName key="CN0440104Z23AA">嶺南</placeName>歸心<persName key="A000962">真<lb ed="T" n="0652b22"/>諦</persName>。因授禪法專精。不久大有深悟。末住<placeName key="CN0320113T01AA">栖<lb ed="T" n="0652b23"/>霞</placeName>。安志<ptr target="fn12"/>靈靜。往還自任不拘山世。時往<placeName key="CN0321002Z02AA">楊<lb ed="T" n="0652b24"/>都</placeName><persName key="A006857">偲法師</persName>所。<persName key="A006857">偲</persName>素知道行。異禮接<persName key="A006851">之</persName>。將還<lb ed="T" n="0652b25"/>山寺。請現神力。<persName key="A006851">侃</persName>云。許復何難。即從窓中<lb ed="T" n="0652b26"/>出臂。長數十丈。解<placeName key="CN0321002T06AA">齊熙寺</placeName>佛殿上額。將還<lb ed="T" n="0652b27"/>房中。語偲云。世人無遠識。見多驚異。故<persName key="A006851">吾</persName><lb ed="T" n="0652b28"/>所不為耳。以<date key="j19420591942442" from-iso="0605-01-28" to-iso="0606-02-15">大業元年</date>。終於<placeName key="CN0320103T01AA">蔣州大歸善<lb ed="T" n="0652b29"/>寺</placeName>。春秋八十有二。初<persName key="A006851">侃</persName>終日。以三衣<ptr target="fn13"/>襆遙<lb ed="T" n="0652c01"/>[打-丁+勉]堂中自云。三衣還眾僧。<persName key="A006851">吾</persName>今死去。便<lb ed="T" n="0652c02"/>還房內。大眾驚起追<persName key="A006851">之</persName>。乃見白骨一具跏<lb ed="T" n="0652c03"/>坐床上。就而撼之鏗然不散。</p>
+    <linkGrp>
+        <link targets="#0652b11 #0652b11"/>
+        <ptr target="#A006851" type="person"/>  
+        <ptr target="#CN0320402A01AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0652b11 #0652b12"/>
+        <ptr target="#A004806" type="person"/>  
+        <ptr target="#A006851" type="person"/>  
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0652b18 #0652b19"/>
+        <ptr target="#A004806" type="person"/>  
+        <ptr target="#CN0130423Z16AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0652b21 #0652b22"/>
+        <ptr target="#A006851" type="person"/>  
+        <ptr target="#A000962" type="person"/>
+        <ptr target="#CN0440104Z23AA" type="place"/>
+        </linkGrp>   
+    <linkGrp>
+        <link targets="#0652b22 #0652b23"/>
+        <ptr target="#A006851" type="person"/>  
+        <ptr target="#CN0320113T01AA" type="place"/>
+        </linkGrp>
+    <linkGrp>
+        <link targets="#0652b23 #0652b25"/>
+        <ptr target="#A006851" type="person"/>  
+        <ptr target="#A006857" type="person"/>
+        <ptr target="#CN0321002Z02AA" type="place"/>
+        </linkGrp>
+    <linkGrp>
+        <link targets="#0652b26 #0652b28"/>
+        <ptr target="#A006851" type="person"/>  
+        <ptr target="#A006857" type="person"/>
+        <ptr target="#CN0321002T06AA" type="place"/>
+        </linkGrp>
+    <linkGrp>
+        <link targets="#0652b28 #0652b29"/>
+        <ptr target="#A006851" type="person"/>  
+        <ptr target="#CN0320103T01AA" type="place"/>
+        <ptr target="#j19420591942442" type="time"/>
+    </linkGrp>
+</div>

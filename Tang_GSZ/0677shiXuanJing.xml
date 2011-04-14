@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0673c03shiXuanJing">
+    <p><anchor n="T.50.2060.0673c03"/><lb ed="T" n="0673c03"/><persName key="A007226">釋玄鏡</persName>。<placeName key="CN0130133Z25AA">趙州</placeName>人。立志清貞不干流俗。四分<lb ed="T" n="0673c04"/>一律文義精通。不樂闡揚。恒尋異部<ptr target="fn31"/>激<lb ed="T" n="0673c05"/>發違順。品章廢立有神彩焉。住<placeName key="CN0610103T22AA">空觀寺</placeName>。閑<lb ed="T" n="0673c06"/>散優遊無為僧也。<date key="j19409671941349" from-iso="0602-02-01" to-iso="0603-02-18">仁壽二年</date>。奉勅置塔本州<lb ed="T" n="0673c07"/><placeName key="CN0130133T02AA">無際寺</placeName>。建基<ptr target="fn32"/>趾日。尋放赤光變轉不常。<lb ed="T" n="0673c08"/>或如形像乍似樓闕。又出白光時吐大小<lb ed="T" n="0673c09"/>巡繞瓶側。<date key="j19410581941058" when-iso="0602-05-03">四月四日</date>又放光明紫綠相間。<lb ed="T" n="0673c10"/>三度乃止。又於光內見佛像形長二尺餘<lb ed="T" n="0673c11"/>坐蓮花座。并有菩薩俠侍嚴儀。從卯至酉<lb ed="T" n="0673c12"/>方始歇滅。當此之時有目皆覩。<persName key="A007226">鏡</persName>還<placeName key="CN0610103T22AA">空觀</placeName><lb ed="T" n="0673c13"/>復學禪宗。居止<placeName key="CN0610103T22AB">東院</placeName>。合集同侶多行頭陀。<lb ed="T" n="0673c14"/>遂終其<ptr target="fn33"/><placeName key="CN0610103T22AA">寺</placeName>也。</p>
+    <linkGrp>
+        <link targets="#0673c03 #0673c03"/>
+        <ptr target="#A007226" type="person"/>
+        <ptr target="#CN0130133Z25AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0673c05 #0673c06"/>
+        <ptr target="#A007226" type="person"/>
+        <ptr target="#CN0610103T22AA" type="place"/>
+        </linkGrp>
+    <linkGrp>
+        <link targets="#0673c06 #0673c12"/>
+        <ptr target="#A007226" type="person"/>
+        <ptr target="#CN0130133T02AA" type="place"/>
+        <ptr target="#j19409671941349" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0673c12 #0673c13"/>
+        <ptr target="#A007226" type="person"/>
+        <ptr target="#CN0610103T22AB" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0673c12 #0673c14"/>
+        <ptr target="#A007226" type="person"/>
+        <ptr target="#CN0610103T22AA" type="place"/>
+    </linkGrp>
+</div>

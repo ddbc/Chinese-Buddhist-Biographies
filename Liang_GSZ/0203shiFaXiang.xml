@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0406c08shiFaXiang">
+    <p><anchor n="T.50.2059.0406c08"/><lb ed="T" n="0406c08"/><persName key="A002340">釋法相</persName>，姓梁，不測何人。常山居精苦，誦經<lb ed="T" n="0406c09"/>十餘萬言，鳥獸集其左右，皆馴若家禽。太<lb ed="T" n="0406c10"/>山祠有大石函，貯財寶，<persName key="A002340">相</persName>時山行，宿于廟<lb ed="T" n="0406c11"/>側，忽見一人玄衣武冠，令<persName key="A002340">相</persName>開函，言絕不<lb ed="T" n="0406c12"/>見。其函石蓋，重過千鈞，<persName key="A002340">相</persName>試提之，飄然而<lb ed="T" n="0406c13"/>起，於是取其財以施貧民。後度<placeName key="CN0000007D01AA">江南</placeName>止<lb ed="T" n="0406c14"/><placeName key="CN0320114T09AA">越城寺</placeName>。忽遊縱放蕩，優俳滑稽，或時裸袒，干<lb ed="T" n="0406c15"/>冒朝貴。晉鎮北將軍<persName key="A003402">司馬恬</persName>，惡其不節，招而<lb ed="T" n="0406c16"/>鴆之。頻傾三鍾，神氣清夷，淡然無擾，<persName key="A003402">恬</persName>大<lb ed="T" n="0406c17"/>異之。至<date key="j18679371869029" notAfter-iso="0405" notBefore-iso="0402">晉元興</date>末卒。春秋八十。</p><p>時有<persName key="A003403">竺曇<lb ed="T" n="0406c18"/>蓋</persName>、<persName key="A003404">竺僧法</persName>，並苦行通感。<ptr target="fn25"/><persName key="A003403">蓋</persName>能神呪請雨，為<lb ed="T" n="0406c19"/><placeName key="CN0320106Z02AA">楊州</placeName>刺史<persName key="A003406">司馬元顯</persName>所敬。<persName key="A003404">法</persName>亦善神呪，晉<lb ed="T" n="0406c20"/>丞相<persName key="A003405">會稽王司馬道子</persName>。為起<ptr target="fn26"/><placeName key="CN0320103T07AA">治城寺</placeName>焉。</p>
+    <linkGrp>
+        <link targets="#0406c13 #0406c15"/>
+        <ptr target="#A002340" type="person"/>
+        <ptr target="#CN0320114T09AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0406c15 #0406c17"/>
+        <ptr target="#A002340" type="person"/>
+        <ptr target="#A003402" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0406c17 #0406c20"/>
+        <ptr target="#A003403" type="person"/>
+        <ptr target="#A003406" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0406c17 #0406c20"/>
+        <ptr target="#A003404" type="person"/>
+        <ptr target="#A003405" type="person"/>
+        <ptr target="#CN0320103T07AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0406c17 #0406c17"/>
+        <ptr target="#A002340" type="person"/>
+        <ptr target="#j18679371869029" type="time"/>
+    </linkGrp>
+</div>

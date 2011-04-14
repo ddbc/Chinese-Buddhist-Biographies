@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0689b16shiKongZang">
+    <p><anchor n="T.50.2060.0689b16"/><lb ed="T" n="0689b16"/><persName key="A004652">釋空藏</persName>。俗姓王氏。先祖<placeName key="CN0140110Z06AA">晉陽</placeName>。今在雍州之<placeName key="CN0610115Z28AA">新<lb ed="T" n="0689b17"/>豐</placeName>焉。母初孕日。自然不食酒肉五辛。時以<lb ed="T" n="0689b18"/>同塵身子故。密加異之。既誕育後。靈鑒日<lb ed="T" n="0689b19"/>陳。情用高遠。讀誦經論思存拔濟。至年<date key="j19350931935457" from-iso="0586-01-01" to-iso="0586-12-31">十<lb ed="T" n="0689b20"/>九</date>。同佛出家。既<ptr target="fn＊"/>惟一己二親留礙。乃於父<lb ed="T" n="0689b21"/>前以身四布。七日不起。恐其命絕方從所<lb ed="T" n="0689b22"/>願。即辭向<placeName key="CN0610122Z09AA">藍田</placeName>負兒山中私自剃落。初齎<lb ed="T" n="0689b23"/>麵六斗。擬作月糧。日噉二升。三年不盡。屢<lb ed="T" n="0689b24"/>感神鼎自然而至。由是增其禪誦。晨宵無<lb ed="T" n="0689b25"/>輟。後依止<persName key="A005568">判法師</persName>住<placeName key="CN0610116T03AA">龍池寺</placeName>。欽重經論日<lb ed="T" n="0689b26"/>誦萬言。前後總計三百餘卷。三論涅槃探窮<lb ed="T" n="0689b27"/>巖穴。<date key="j19420591943236" notAfter-iso="0608" notBefore-iso="0605">大業之始</date>。以<persName key="A004652">藏</persName>名稱<ptr target="fn＊"/>惟遠道俗所聞。<lb ed="T" n="0689b28"/>下勅徵延入住<placeName key="CN0610113T06AA">禪定</placeName>。<date key="j19469511949949" notAfter-iso="0626" notBefore-iso="0618">唐運既興</date>崇繕法宇。<lb ed="T" n="0689b29"/>有勅於金城坊建<placeName key="CN0610102T13AA">會昌寺</placeName>。并請大德<ptr target="fn18"/>十<lb ed="T" n="0689c01"/>人。度僧五十人。永用住持。以<persName key="A004652">藏</persName>行德夙彰。<lb ed="T" n="0689c02"/>又請住焉。供事彌隆極光恒<ptr target="fn19"/>美。而性樂山<lb ed="T" n="0689c03"/>水志存清曠。每年仲春遊浪林阜。行次<placeName key="CN0610122T04AA">玉<lb ed="T" n="0689c04"/>泉</placeName>。遂有終焉之思。居止載紀眾聚如山。說<lb ed="T" n="0689c05"/>導<ptr target="fn20"/>亡疲開悟逾廣。後為亢旱。經時山泉乃<lb ed="T" n="0689c06"/>竭。合寺僧眾咸以驚嗟。<persName key="A004652">藏</persName>乃至心祈請。其泉<lb ed="T" n="0689c07"/>應時還復。遠近道俗動色相歡。兼又弘操嶽<lb ed="T" n="0689c08"/>峙器局川<ptr target="fn21"/>停。不擾榮利不懷寵辱。濟度<lb ed="T" n="0689c09"/>群有不略寸陰。乃鈔摘眾經大乘要句。以<lb ed="T" n="0689c10"/>為卷軸。紙別五經三經。卷部<ptr target="fn22"/>二十五十。總<lb ed="T" n="0689c11"/>有十卷。每講開務極增成學。聞義兩持偏<lb ed="T" n="0689c12"/>無迷<ptr target="fn23"/>忘。<ptr target="fn24"/>夏分常行方等懺法。賢劫千佛日<lb ed="T" n="0689c13"/>禮一遍。常坐不臥垂<ptr target="fn25"/>三十年。翹勤專注難<lb ed="T" n="0689c14"/>加係迹。以<date key="j19557131955713" when-iso="0642-06-17">貞觀十六年五月十二日</date>。終於<lb ed="T" n="0689c15"/><placeName key="CN0610102T13AA">會昌</placeName>。春秋七十有四。遺身於<placeName key="CN0610116T03AA">龍池寺</placeName>側。收<lb ed="T" n="0689c16"/>骨起塔。觀其讀誦之富。振古罕儔。視其髏<lb ed="T" n="0689c17"/>骨。兩耳通明。頂有雙孔。眼眶含竅各有三<lb ed="T" n="0689c18"/>焉。弟子等追惟永往。樹碑於<placeName key="CN0610102T13AA">會昌寺</placeName>中。金<lb ed="T" n="0689c19"/>紫光祿大夫衛尉卿<persName key="A002442">于志寧</persName>為<ptr target="fn26"/>文。</p>
+    <linkGrp>
+        <link targets="#0689b16 #0689b16"/>
+        <ptr target="#A004652" type="person"/>
+        <ptr target="#CN0140110Z06AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0689b16 #0689b17"/>
+        <ptr target="#A004652" type="person"/>
+        <ptr target="#CN0610115Z28AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0689b19 #0689b22"/>
+        <ptr target="#A004652" type="person"/>
+        <ptr target="#CN0610122Z09AA" type="place"/>
+        <ptr target="#j19350931935457" type="time"/>
+        </linkGrp>
+    <linkGrp>
+        <link targets="#0689b25 #0689b26"/>
+        <ptr target="#A004652" type="person"/>
+        <ptr target="#A005568" type="person"/>
+        <ptr target="#CN0610116T03AA" type="place"/>
+        </linkGrp>
+    <linkGrp>
+        <link targets="#0689b27 #0689b28"/>
+        <ptr target="#A004652" type="person"/>
+        <ptr target="#CN0610113T06AA" type="place"/>
+        <ptr target="#j19420591943236" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0689b28 #0689c02"/>
+        <ptr target="#A004652" type="person"/>
+        <ptr target="#CN0610102T13AA" type="place"/>
+        <ptr target="#j19469511949949" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0689c03 #0689c07"/>
+        <ptr target="#A004652" type="person"/>
+        <ptr target="#CN0610122T04AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0689c14 #0689c15"/>
+        <ptr target="#A004652" type="person"/>
+        <ptr target="#CN0610102T13AA" type="place"/>
+        <ptr target="#j19557131955713" type="time"/>
+    </linkGrp>
+</div>

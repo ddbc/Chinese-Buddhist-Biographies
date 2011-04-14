@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="bqnz0939b14shanMiaoNi">
+    <head><placeName key="CN0510108Z03AA">蜀郡</placeName><persName key="A015324">善妙</persName>尼<ptr target="fn28"/>傳十三</head><p><anchor n="T.50.2063.0939b15"/><lb ed="T" n="0939b15"/><persName key="A015324">善妙</persName>，本姓歐陽，<placeName key="CN0510182Z04AA">繁縣</placeName>人也。少出家，性用柔和，<lb ed="T" n="0939b16"/>少瞋喜，不營好衣，不食美食。有妹，婿亡孀居，<lb ed="T" n="0939b17"/>無所依託，擕一稚子，寄其房內，常聞<ptr target="fn29"/><persName key="A015324">妙</persName>自慨<lb ed="T" n="0939b18"/>生不值佛，每一言此，流涕<ptr target="fn30"/>歔欷，悲不能已。同<lb ed="T" n="0939b19"/>住四<ptr target="fn31"/>年、五年，未<ptr target="fn32"/>曾見其食。妹作食熟，呼<persName key="A015324">妙</persName><lb ed="T" n="0939b20"/>共食，<persName key="A015324">妙</persName><ptr target="fn33"/>云：「適於某處食竟。」或云：「四大不好，<lb ed="T" n="0939b21"/>未能食。」如此積年，妹甚<ptr target="fn34"/>恨愧，白言：「無福婿<lb ed="T" n="0939b22"/>亡，更無親屬，擕兒依姊，多所穢亂，姊當見厭，<lb ed="T" n="0939b23"/>故不與共食耳。」流淚而言，言已欲去。<persName key="A015324">妙</persName>執其<lb ed="T" n="0939b24"/>手喻之曰：「汝不解<ref target="#A015324" type="person">我</ref>意，<ref target="#A015324" type="person">我</ref>幸於外得他供養，<lb ed="T" n="0939b25"/>何須自損家中食。汝但安住，<ref target="#A015324" type="person">我</ref><ptr target="fn35"/>不久應遠行，<lb ed="T" n="0939b26"/>汝當守屋，慎莫餘去。」妹聞此而<ptr target="fn36"/>止。</p><p>自績作布<lb ed="T" n="0939b27"/>買數斛油，瓦<ptr target="fn37"/>堈盛之，著庭中，語妹<ptr target="fn38"/>云：「擬作<lb ed="T" n="0939b28"/>功德，慎勿取也。」至四月八日夜半，以布自纏而<lb ed="T" n="0939b29"/>燒其身，火已親頂，命其妹令呼維那打磬：「<ref target="#A015324" type="person">我</ref><lb ed="T" n="0939c01"/>今捨壽，可遍告諸尼，速來共別。」比諸尼驚至，<lb ed="T" n="0939c02"/><ptr target="fn39"/>命未絕，語諸尼云：「各勤精進，生死可畏，當<lb ed="T" n="0939c03"/>求出離，慎勿流轉。<ref target="#A015324" type="person">我</ref>捨此身供養已二十七<lb ed="T" n="0939c04"/><ptr target="fn40"/>反，止此一身，當得初果。」(問<ptr target="fn41"/>益<ptr target="fn42"/>士人，或云<date from-iso="0440-02-20" key="j18818171882170" to-iso="0441-02-07">元嘉十<ptr target="fn43"/>七年</date>燒身，或云<date from-iso="0454-02-15" key="j18869261888017" to-iso="0457-02-10">孝建</date>時，<lb ed="T" n="0939c05"/>或言<date from-iso="0457-02-11" key="j18880181890726" to-iso="0464-07-12">大明</date>中，故備記<ptr target="fn44"/>之。)</p>
+    <linkGrp>
+        <link targets="#0939b15 #0939b15"/>
+        <ptr target="#A015324" type="person"/>
+        <ptr target="#CN0510182Z04AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0939c04 #0939c05"/>
+        <ptr target="#A015324" type="person"/>
+        <ptr target="#j18818171882170" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0939c04 #0939c05"/>
+        <ptr target="#A015324" type="person"/>
+        <ptr target="#j18869261888017" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0939c04 #0939c05"/>
+        <ptr target="#A015324" type="person"/>
+        <ptr target="#j18880181890726" type="time"/>
+    </linkGrp>
+</div>

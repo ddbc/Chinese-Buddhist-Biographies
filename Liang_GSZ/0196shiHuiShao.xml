@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0404c19shiHuiShao">
+    <p><anchor n="T.50.2059.0404c19"/><lb ed="T" n="0404c19"/><persName key="A002333">釋慧紹</persName>，不知氏族。小兒時，母哺魚肉輒吐，<lb ed="T" n="0404c20"/>咽菜不疑。於是便蔬食。至<date key="j18785091878892" from-iso="0431-01-30" to-iso="0432-02-17">八歲</date>出家，為<persName key="A003394">僧<lb ed="T" n="0404c21"/>要</persName>弟子。精勤<ptr target="fn27"/>懍勵，苦行標節。</p><p>後隨<persName key="A003394">要</persName>止<placeName key="CN0362502T01AA">臨<lb ed="T" n="0404c22"/>川招提寺</placeName>，迺密有燒身之意。常雇人斫薪，<lb ed="T" n="0404c23"/>[卄/積]<!-- Unicode="27090" -->於<placeName key="CN0362502M01AA">東山</placeName>石室，高數丈，中央開一龕，足容<lb ed="T" n="0404c24"/>己身。迺還<placeName key="CN0362502T01AA">寺</placeName>辭<persName key="A003394">要</persName>，<ptr target="fn28"/><persName key="A003394">要</persName>苦諫不從。即於焚<lb ed="T" n="0404c25"/>身之日，於<placeName key="CN0362502M01AA">東山</placeName>設大眾八關，并告別知識。<lb ed="T" n="0404c26"/>其日闔境<ptr target="fn29"/>犇波，車馬人眾及齎金寶者，不<lb ed="T" n="0404c27"/>可稱數。至初夜行道，<persName key="A002333">紹</persName>自行香，行香既竟，<lb ed="T" n="0404c28"/>執燭然薪，入中而坐，誦《藥王．本事品》。眾既<lb ed="T" n="0404c29"/>不見<persName key="A002333">紹</persName>，悟其已去，禮拜未畢，悉至<ptr target="fn30"/>薪所。<lb ed="T" n="0405a01"/>[卄/積]已<ptr target="fn01"/>恫然，誦聲未息。火至額，聞唱一心，言<lb ed="T" n="0405a02"/>已奄絕。大眾咸見有一星，其大如斗，直下<lb ed="T" n="0405a03"/>烟中，俄而上天。時見者咸謂天宮迎<persName key="A002333">紹</persName>。經<lb ed="T" n="0405a04"/>三日，薪聚乃盡。</p><p><persName key="A002333">紹</persName>臨終謂同學曰：「<persName key="A002333">吾</persName>燒身<lb ed="T" n="0405a05"/>處，當生梧桐，慎莫伐之。」其後三日，果生焉。<lb ed="T" n="0405a06"/><persName key="A002333">紹</persName>焚身是<date key="j18858331886186" from-iso="0451-02-18" to-iso="0452-02-06">元嘉二十八年</date>，年二十八。紹師<persName key="A003394">僧<lb ed="T" n="0405a07"/>要</persName>亦清謹有懿德，年一百六十終於寺<ptr target="fn02"/>矣。</p>
+    
+    <linkGrp>
+        <link targets="#0404c21 #0404c22"/>
+        <ptr target="#A002333" type="person"/>
+        <ptr target="#CN0362502M01AA" type="place"/>
+        <ptr target="#j18858331886186" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0404c21 #0404c22"/>
+        <ptr target="#A002333" type="person"/>
+        <ptr target="#A003394" type="person"/>
+        <ptr target="#j18785091878892" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0404c21 #0404c22"/>
+        <ptr target="#A002333" type="person"/>
+        <ptr target="#A003394" type="person"/>
+        <ptr target="#CN0362502T01AA" type="place"/>
+    </linkGrp>
+</div>

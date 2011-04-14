@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0600b02shiHuiXian">
+    <p><anchor n="T.50.2060.0600b02"/><lb ed="T" n="0600b02"/><persName key="A006293">釋惠仙</persName>。姓趙。河東<placeName key="CN0140881Z35AA">蒲坂</placeName>人。幼懷出俗。緣故<lb ed="T" n="0600b03"/>淹留。年登<date key="j19475101947875" from-iso="0620-01-01" to-iso="0620-12-31">不惑</date>方果前願。既出家後隨方<lb ed="T" n="0600b04"/>問津。雖多涉獵。然以華嚴涅槃二部。為始<lb ed="T" n="0600b05"/>卒之極教也。迄於暮齒耽味逾深。謂人曰。<lb ed="T" n="0600b06"/>斯之二寶全如意珠。無忽忘而暫捨也。所<lb ed="T" n="0600b07"/>以執卷自隨有若雙翼。或有言晤披而廣<lb ed="T" n="0600b08"/>之。住處衝要九衢都會。百疾相投萬禍憑<lb ed="T" n="0600b09"/>救。而<persName key="A006293">仙</persName>慈善根力無假多方。但令念佛無<lb ed="T" n="0600b10"/>往不濟。由是蒙祐遐邇傾心。寺有大像製<lb ed="T" n="0600b11"/>過十丈。年載既久埃塵是生。棟宇頹落珠<lb ed="T" n="0600b12"/>璣披散。遂控告士俗更締構之。雖淹星律<lb ed="T" n="0600b13"/>大造云就。爾後年漸遲暮。夢僧告曰。卿次<lb ed="T" n="0600b14"/>冬間必當遷化。可早運行應得延期。便如<lb ed="T" n="0600b15"/>常業不以為慮。至<date key="j19605751960603" from-iso="0655-10-09" to-iso="0655-11-06">九月中</date>微覺不愈。知終<lb ed="T" n="0600b16"/>在近。告侍人曰。<persName key="A006293">吾</persName>出家有年。屢受菩薩戒。<lb ed="T" n="0600b17"/>今者更欲受之。召諸大德並不赴命。乃曰。<lb ed="T" n="0600b18"/>大德但自調耳。何名度人。又曰。但取戒本<lb ed="T" n="0600b19"/>讀誦訖。自慶潛然而止。入夜有異天仙星<lb ed="T" n="0600b20"/>布前後。高談廣述乍隱乍顯。合寺聞見。或<lb ed="T" n="0600b21"/>見佛像來入房者。日次將午。忽起坐合掌<lb ed="T" n="0600b22"/>召眾人曰。大限雖多小期一念。並好住。願<lb ed="T" n="0600b23"/>與諸眾為歷劫因緣。遂臥氣絕。年七十五。<lb ed="T" n="0600b24"/>即<date key="j19606501960650" when-iso="0655-12-23">永徽六年十一月十七日</date>也。道俗哀之<lb ed="T" n="0600b25"/>雲布原野。<placeName key="CN0140881T05AA">寺</placeName>有<persName key="A006294">亘禪師</persName>。頴脫當時有聲<placeName key="CN0410302Z04AA">京<lb ed="T" n="0600b26"/>洛</placeName>。行<persName key="A001428">彌勒</persName>願生在四天。覩<persName key="A006293">仙</persName>行業感徵。告<lb ed="T" n="0600b27"/>眾曰。必見<persName key="A001428">慈氏</persName>矣。若乖斯者。何能禎應若<lb ed="T" n="0600b28"/>是乎。</p>
+    <linkGrp>
+        <link targets="#0600b02 #0600b03"/>
+        <ptr target="#A006293" type="person"/>
+        <ptr target="#CN0140881Z35AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0600b02 #0600b03"/>
+        <ptr target="#A006293" type="person"/>
+        <ptr target="#j19475101947875" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0600b15 #0600b19"/>
+        <ptr target="#A006293" type="person"/>
+        <ptr target="#CN0140881T05AA" type="place"/>
+        <ptr target="#j19605751960603" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0600b23 #0600b28"/>
+        <ptr target="#A006293" type="person"/>
+        <ptr target="#A006294" type="person"/>
+        <ptr target="#CN0140881T05AA" type="place"/>
+        </linkGrp>
+    <linkGrp>
+        <link targets="#0600b19 #0600b25"/>
+        <ptr target="#A006293" type="person"/>
+        <ptr target="#CN0140881T05AA" type="place"/>
+        <ptr target="#j19606501960650" type="time"/>
+    </linkGrp>
+</div>

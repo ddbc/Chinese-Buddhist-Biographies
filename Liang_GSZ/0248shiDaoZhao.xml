@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0415c14shiDaoZhao">
+    <p><anchor n="T.50.2059.0415c14"/><lb ed="T" n="0415c14"/><persName key="A003515">釋道照</persName>，姓麴，<ptr target="fn30"/><placeName key="CN0630102Z09AA">平西</placeName>人。少善尺牘，兼博經<lb ed="T" n="0415c15"/>史，<date key="j18689851869349" from-iso="0405-01-02" to-iso="0406-01-01">十八</date>出家，止<placeName key="CN0320106Z05AA">京師</placeName><placeName key="CN0320116T04AA">祇洹寺</placeName>。披覽群典，以<lb ed="T" n="0415c16"/>宣唱為業。音吐<ptr target="fn31"/>寥亮，洗悟塵心，指事適<lb ed="T" n="0415c17"/>時，言不孤發，獨步於宋代之初。<persName key="A002043">宋武帝</persName>嘗<lb ed="T" n="0415c18"/>於內殿齋，<persName key="A003515">照</persName>初夜略敘百年迅速，遷滅俄頃。<lb ed="T" n="0415c19"/>苦樂參差，必由因<ptr target="fn32"/>召。如來慈應六道，<persName key="A002043">陛下</persName><lb ed="T" n="0415c20"/>撫矜一切，<persName key="A002043">帝</persName>言善<ptr target="fn33"/>久之。齋竟，別<ptr target="fn34"/>嚫三萬。<lb ed="T" n="0415c21"/><persName key="A003516">臨川王道規</persName>從受五戒，奉為門師。<date key="j18865421886925" from-iso="0453-01-27" to-iso="0454-02-14">宋元嘉<lb ed="T" n="0415c22"/><ptr target="fn35"/>三十年</date>卒，年六十六。<persName key="A003515">照</persName>弟子<persName key="A003517">慧明</persName>，姓焦，<placeName key="CN0130423Z26AA">魏<lb ed="T" n="0415c23"/>郡</placeName>人。神情俊邁，祖習<persName key="A003515">師</persName>風，亦有名當世。</p>
+    <linkGrp>
+        <link targets="#0415c17 #0415c20"/>
+        <ptr target="#A003515" type="person"/>
+        <ptr target="#A002043" type="person"/>
+        <ptr target="#CN0320106Z05AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0415c21 #0415c21"/>
+        <ptr target="#A003515" type="person"/>
+        <ptr target="#A003516" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0415c22 #0415c23"/>
+        <ptr target="#A003515" type="person"/>
+        <ptr target="#A003517" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0415c15 #0415c16"/>
+        <ptr target="#A003515" type="person"/>
+        <ptr target="#CN0320116T04AA" type="place"/>
+        <ptr target="#j18689851869349" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0415c21 #0415c22"/>
+        <ptr target="#A003515" type="person"/>
+        <ptr target="#j18865421886925" type="time"/>
+    </linkGrp>
+</div>

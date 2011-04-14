@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0400a05shiTanChao">
+    <p><anchor n="T.50.2059.0400a06"/><lb ed="T" n="0400a06"/><persName key="A002315">釋曇超</persName>，姓張，<placeName key="CN0371581Z02AA">清河</placeName>人。形長八尺，容止可觀。<lb ed="T" n="0400a07"/>蔬食布衣，一中而已。初止<ptr target="fn03"/><placeName key="CN0321183T02AA">上都龍華寺</placeName><!-- 牧田諦亮謂此與 "法期傳" 之 "龍華寺" 為同一寺，今不用  -->。<date key="j18761761886925" notAfter-iso="0454" notBefore-iso="0424">元<lb ed="T" n="0400a08"/>嘉</date>末，南遊<placeName key="CN0440203Z05AA">始興</placeName>，遍觀山水，獨宿樹下，虎兕<lb ed="T" n="0400a09"/>不傷。<date key="j18880181890941" notAfter-iso="0465" notBefore-iso="0457">大明中</date>還<placeName key="CN0320106Z05AA">都</placeName>。<date key="j18961391897496" notAfter-iso="0483" notBefore-iso="0479">至<persName key="A003039">齊太祖</persName>即位</date>，被勅<lb ed="T" n="0400a10"/>往<placeName key="CN0211002Z10AA">遼東</placeName>，弘讚禪道。停彼二年，大行法化。<date key="j18961391897496" notAfter-iso="0483" notBefore-iso="0479">建<lb ed="T" n="0400a11"/>元</date>末還<placeName key="CN0320106Z05AA">京</placeName>，俄又適<placeName key="CN0330106M02AA">錢塘之靈<ptr target="fn04"/>苑山</placeName>。</p><p>每一入<lb ed="T" n="0400a12"/>禪，累日不起。後時忽聞風雷之聲，俄見一<lb ed="T" n="0400a13"/>人秉笏而進，稱<persName key="A003352">嚴鎮<ptr target="fn05"/>東通</persName>。須臾有一人<lb ed="T" n="0400a14"/>至，形甚端正，羽衛連翩，下席禮敬，自稱：「弟子<lb ed="T" n="0400a15"/>居在七里，<ptr target="fn06"/>任周此地。承<persName key="A002315">法師</persName>至，故來展<lb ed="T" n="0400a16"/><ptr target="fn07"/>禮：<placeName key="CN0330183Z03AA">富陽縣</placeName>人故冬鑿麓山下為塼，侵壤龍<lb ed="T" n="0400a17"/>室。群龍共忿，作三百日不雨。今已一百餘日，<lb ed="T" n="0400a18"/>井池枯涸，田種永罷。<persName key="A002315">法師</persName>既道德通神，欲仰<lb ed="T" n="0400a19"/>屈前行，必能感致，潤澤蒼生，功有歸也。」<persName key="A002315">超</persName><lb ed="T" n="0400a20"/>曰：「興雲降雨，本是檀越之力，<persName key="A002315">貧道</persName>何所能<lb ed="T" n="0400a21"/>乎？」神曰：「弟子部曲，止能興雲，不能降雨，是<lb ed="T" n="0400a22"/>故相請耳。」遂許之，神倏<ptr target="fn08"/>忽而去。<persName key="A002315">超</persName>乃南行，<lb ed="T" n="0400a23"/>經五日，至<placeName key="CN0330183M01AA">赤亭山</placeName>，遙為龍呪願說法。至夜，<lb ed="T" n="0400a24"/>群龍悉化作人，來詣<ptr target="fn09"/><persName key="A002315">超</persName>禮拜。<persName key="A002315">超</persName>更說法，因<lb ed="T" n="0400a25"/>乞三歸，自稱是龍。<persName key="A002315">超</persName>請其降雨，乃相看無<lb ed="T" n="0400a26"/>言。其夜又與<persName key="A002315">超</persName>夢云：「本因忿立誓，<persName key="A002315">法師</persName>既<lb ed="T" n="0400a27"/>導之以善，輒不敢違命，明日晡時當降<lb ed="T" n="0400a28"/>雨。」<persName key="A002315">超</persName>明旦即往<placeName key="CN0330183T01AA">臨泉寺</placeName>，遣人告縣令，辦船<lb ed="T" n="0400a29"/>於江中，轉海《龍王經》。縣令即請僧浮船石<lb ed="T" n="0400b01"/>首。轉經<ptr target="fn10"/>裁竟，<ptr target="fn11"/>遂降大雨。高下皆足，歲以<lb ed="T" n="0400b02"/>獲收。</p><p><persName key="A002315">超</persName>以<date key="j19008051901158" from-iso="0492-02-15" to-iso="0493-02-02">永明十<ptr target="fn12"/>卒年</date>，春秋七十有四。</p>
+    <linkGrp>
+        <link targets="#0400a07 #0400a07"/>
+        <ptr target="#A002315" type="person"/>
+        <ptr target="#CN0321183T02AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0400a28 #0400a29"/>
+        <ptr target="#A002315" type="person"/>
+        <ptr target="#CN0330183T01AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0400a22 #0400a24"/>
+        <ptr target="#A002315" type="person"/>
+        <ptr target="#CN0330183M01AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0400a11 #0400a11"/>
+        <ptr target="#A002315" type="person"/>
+        <ptr target="#CN0330106M02AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0400a07 #0400a09"/>
+        <ptr target="#A002315" type="person"/>
+        <ptr target="#CN0440203Z05AA" type="place"/>
+        <ptr target="#j18761761886925" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0400a09 #0400a10"/>
+        <ptr target="#A002315" type="person"/>
+        <ptr target="#CN0320106Z05AA" type="place"/>
+        <ptr target="#j18880181890941" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0400a09 #0400a10"/>
+        <ptr target="#A002315" type="person"/>
+        <ptr target="#CN0211002Z10AA" type="place"/>
+        <ptr target="#j18961391897496" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0400a10 #0400a11"/>
+        <ptr target="#A002315" type="person"/>
+        <ptr target="#CN0320106Z05AA" type="place"/>
+        <ptr target="#j18961391897496" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0400b02 #0400b02"/>
+        <ptr target="#A002315" type="person"/>
+        <ptr target="#j19008051901158" type="time"/>
+    </linkGrp>
+</div>

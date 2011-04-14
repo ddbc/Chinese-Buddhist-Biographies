@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0526a11shiShenJiong">
+    <p><anchor n="T.50.2060.0526a11"/><lb ed="T" n="0526a11"/><persName key="A005631">釋神逈</persName>。姓田氏。<placeName key="CN0610523Z18AA">馮翊臨晉</placeName>人。弱齡挺悟。辭恩<lb ed="T" n="0526a12"/>出俗。遠懷匠<ptr target="fn04"/>碩備歷艱虞。問道<placeName key="CN0320724Z06AA">海西</placeName>包<lb ed="T" n="0526a13"/>括幽奧。博<ptr target="fn05"/>采三藏研尋百氏。年未及冠<lb ed="T" n="0526a14"/>欝為鴻彩。雖廣融經論。而以大衍著名。<lb ed="T" n="0526a15"/>至於所撰序引注解群經篇章銘論合四十<lb ed="T" n="0526a16"/>餘卷。每於春初三月放浪巖阿。迄於夏<lb ed="T" n="0526a17"/>首方還<placeName key="CN0610102Z14AA">京邑</placeName>。漁獵子史諷味名篇逸調橫<lb ed="T" n="0526a18"/>馳。頗以此而懷簡傲也。兼以嘲謔豪傑辯<lb ed="T" n="0526a19"/>調<ptr target="fn06"/>中外。陵轢倫右誇尚矜莊。<placeName key="CN0610102Z14AA">京邑</placeName>所推侯<lb ed="T" n="0526a20"/>王揖仰。又以旬暇餘隙遊歷省臺。預是文<lb ed="T" n="0526a21"/>雄。通名謁對。或談敘儒史。或開悟玄宗。優<lb ed="T" n="0526a22"/>遊自任。亦季世縱達之高僧也。故華壤英俊<lb ed="T" n="0526a23"/><ptr target="fn07"/>謂之諺曰。大論主釋迦逈法界多羅一時領。<lb ed="T" n="0526a24"/>以其竪論之時必令五三人別難後乃總領<lb ed="T" n="0526a25"/>通之故。懷斯目矣。<date key="j19453671945720" from-iso="0614-02-18" to-iso="0615-02-06">大業十</date>年召入<placeName key="CN0610113T06AA">禪定</placeName>。尋<lb ed="T" n="0526a26"/>又應詔請入<placeName key="CN0610126A01AA">鴻臚</placeName>。為敷大論。訓開<placeName key="KR0000000E04AA">三韓</placeName>諸<lb ed="T" n="0526a27"/>方士也。<date key="j19508301951213" from-iso="0629-02-02" to-iso="0630-02-20">貞觀三年</date>。以正道所歸通務為則。<lb ed="T" n="0526a28"/>遂擁錫<placeName key="CN0510184Z16AA">庸蜀</placeName>流化<placeName key="CN0513224M01AA">岷</placeName><placeName key="CN0511181M01AA">峨</placeName>。道俗虔虔靡若風<lb ed="T" n="0526a29"/>草。法流亹亹所至汪濊。以<date key="j19513911951391" when-iso="0630-08-17">四年七日一日</date><lb ed="T" n="0526b01"/>遷<ptr target="fn08"/>神於<placeName key="CN0510108T06AA">法聚寺</placeName>。春秋六十五矣。四眾哀慟。<lb ed="T" n="0526b02"/>悲其為法來儀未幾而終素懷莫展。<placeName key="CN0510108Z31AA">益州</placeName><lb ed="T" n="0526b03"/>官庶士俗。<ptr target="fn09"/>及以同舟列道。<ptr target="fn10"/>爭趨奔于葬<lb ed="T" n="0526b04"/>所。素幢竟野香烟蔽空。萬計哀號聲動天<lb ed="T" n="0526b05"/>地。於昇遷橋南焚之。遵遺令也。弟子<persName key="A005632">玄詧</persName><lb ed="T" n="0526b06"/>收其餘柩。以約<placeName key="CN0610000E01AA">秦中</placeName>與同學<persName key="A005633">玄究</persName>等。於<placeName key="CN0610125T06AA">終<lb ed="T" n="0526b07"/>南山仙遊寺</placeName>北。而繕塔焉。<persName key="A005633">究</persName>為其文銘于<lb ed="T" n="0526b08"/>塔所。空<ptr target="fn11"/>情貞抱。素志樂林泉。頗工篇什。時<lb ed="T" n="0526b09"/>會精越學文。驚其藻銳也。未立而終。哀<lb ed="T" n="0526b10"/>傷才府。</p>
+    <linkGrp>
+        <link targets="#0526a11 #0526a11"/>
+        <ptr target="#A005631" type="person"/>
+        <ptr target="#CN0610523Z18AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0526a12 #0526a12"/>
+        <ptr target="#A005631" type="person"/>
+        <ptr target="#CN0320724Z06AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0526a16 #0526a17"/>
+        <ptr target="#A005631" type="person"/>
+        <ptr target="#CN0610102Z14AA" type="place"/>
+        </linkGrp>
+    <linkGrp>
+        <link targets="#0526a25 #0526a25"/>
+        <ptr target="#A005631" type="person"/>
+        <ptr target="#CN0610113T06AA" type="place"/>
+        <ptr target="#j19453671945720" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0526a25 #0526a26"/>
+        <ptr target="#A005631" type="person"/>
+        <ptr target="#CN0610126A01AA" type="place"/>
+        </linkGrp>
+    <linkGrp>
+        <link targets="#0526a27 #0526a29"/>
+        <ptr target="#A005631" type="person"/>
+        <ptr target="#CN0510184Z16AA" type="place"/>
+        <ptr target="#j19508301951213" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0526a29 #0526b01"/>
+        <ptr target="#A005631" type="person"/>
+        <ptr target="#CN0510108T06AA" type="place"/>
+        <ptr target="#j19513911951391" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0526b05 #0526b07"/>
+        <ptr target="#A005631" type="person"/>
+        <ptr target="#A005632" type="person"/>
+        <ptr target="#A005633" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0526b05 #0526b07"/>
+        <ptr target="#A005632" type="person"/>
+        <ptr target="#A005633" type="person"/>
+        <ptr target="#CN0610125T06AA" type="place"/>
+    </linkGrp>
+</div>

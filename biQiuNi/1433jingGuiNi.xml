@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="bqnz0943c14jingGuiNi">
+    <head><placeName key="CN0320101T04AA">法音寺</placeName><persName key="A015927">淨珪</persName>尼<ptr target="fn45"/>傳十一</head><p><anchor n="T.50.2063.0943c15"/><lb ed="T" n="0943c15"/><persName key="A015927">淨珪</persName>，本姓周，<placeName key="CN0320402Z07AA">晉陵</placeName>人也。寓居<placeName key="CN0320115Z16AA">建康縣</placeName>三世矣。<lb ed="T" n="0943c16"/><persName key="A015927">珪</persName>幼而聰頴，一聞多悟，性不狎俗，早願出家。<lb ed="T" n="0943c17"/>父母<ptr target="fn46"/>怜之，不違其志，為<persName key="A015444">法淨</persName>尼弟子，住<placeName key="CN0320101T04AA">法音<lb ed="T" n="0943c18"/>寺</placeName>。德行純<ptr target="fn47"/>邃，經律博通，三<ptr target="fn48"/>業禪祕，無不善<lb ed="T" n="0943c19"/>達。神量淵遠，物莫能窺，遺身忘味，常自枯槁。<lb ed="T" n="0943c20"/>其精進總持，為世法則，傳授訓誘，多能導利，<lb ed="T" n="0943c21"/>當世歸心。</p><p>與<persName key="A015902">曇簡</persName>尼同憩<placeName key="CN0320101T04AA">法音寺</placeName>，後移<placeName key="CN0000000M02AA">白山</placeName>，<lb ed="T" n="0943c22"/>栖<ptr target="fn49"/>託樹下，功化轉弘。以<date key="j19015501901550" when-iso="0494-03-01">建武元年二月八<lb ed="T" n="0943c23"/>日</date>，與<persName key="A015902">曇簡</persName>同夜燒身。道俗哀赴，莫不<ptr target="fn50"/>哽咽，<lb ed="T" n="0943c24"/>收其舍利，樹封墳剎焉。</p>
+    <linkGrp>
+        <link targets="#0943c15 #0943c15"/>
+        <ptr target="#A015927" type="person"/>
+        <ptr target="#CN0320115Z16AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0943c22 #0943c24"/>
+        <ptr target="#A015927" type="person"/>
+        <ptr target="#A015902" type="person"/>
+        <ptr target="#j19015501901550" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0943c17 #0943c18"/>
+        <ptr target="#A015927" type="person"/>
+        <ptr target="#A015444" type="person"/>
+        <ptr target="#CN0320101T04AA" type="place"/>
+        </linkGrp>
+    <linkGrp>
+        <link targets="#0943c21 #0943c21"/>
+        <ptr target="#A015927" type="person"/>
+        <ptr target="#A015902" type="person"/>
+        <ptr target="#CN0320101T04AA" type="place"/>
+        </linkGrp>
+    <linkGrp>
+        <link targets="#0943c21 #0943c22"/>
+        <ptr target="#A015927" type="person"/>
+        <ptr target="#CN0000000M02AA" type="place"/>
+        </linkGrp>
+</div>

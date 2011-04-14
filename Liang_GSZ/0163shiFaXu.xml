@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0396c25shiFaXu">
+    <p><anchor n="T.50.2059.0396c26"/><lb ed="T" n="0396c26"/><persName key="A002302">釋法緒</persName>，姓混，<placeName key="CN0652101Z28AA">高昌</placeName>人。德行清謹，蔬食修禪。後<lb ed="T" n="0396c27"/>入<placeName key="CN0510108Z04AA">蜀</placeName>，於劉師塚間頭陀，山谷虎兕不傷。誦<lb ed="T" n="0396c28"/>《法華》、《維摩》、《金光明》。常處石室中，且禪且誦。盛<lb ed="T" n="0396c29"/>夏於室中捨命，七日不臭。屍左側有香，經<lb ed="T" n="0397a01"/>旬乃歇，每<ptr target="fn01"/>夕放光，照徹數里。村人即於屍<lb ed="T" n="0397a02"/>上為起塚塔焉。</p>
+    <linkGrp>
+        <link targets="#0396c27 #0396c28"/>
+        <ptr target="#A002302" type="person"/>
+        <ptr target="#CN0510108Z04AA" type="place"/>
+        </linkGrp>
+</div>

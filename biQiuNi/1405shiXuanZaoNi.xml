@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="bqnz0938a28shiXuanZaoNi">
+    <head>吳<placeName key="CN0320503T20AA">太玄臺寺</placeName><ptr target="fn14"/><persName key="A011459">釋玄藻</persName>尼<ptr target="fn15"/>傳六</head><p><anchor n="T.50.2063.0938a29"/><lb ed="T" n="0938a29"/><persName key="A011459">玄藻</persName>，本姓路，<placeName key="CN0320503Z22AA">吳郡</placeName><ptr target="fn16"/>人，<persName key="A015173">安<ptr target="fn17"/>苟</persName>女也(宣驗記云<ptr target="fn18"/>即是<persName key="A015173">安<ptr target="fn19"/>苟</persName>。)。<lb ed="T" n="0938b01"/><persName key="A011459">藻</persName>年十餘，身嬰重疾，良藥必進，日增無損。時<lb ed="T" n="0938b02"/><ptr target="fn20"/><placeName key="CN0320503T20AA">玄臺寺</placeName><persName key="A015176">釋法濟</persName>語<persName key="A015173">安<ptr target="fn＊"/>苟</persName>曰：「恐此<ptr target="fn＊"/>疾由業，非<lb ed="T" n="0938b03"/><ptr target="fn21"/>藥所消。<ref target="#A015176" type="person">貧道</ref>按佛經云：『 若履危苦，能歸依三<lb ed="T" n="0938b04"/>寶，懺悔求願者，皆獲甄濟。』<ref target="#A015173" type="person">君</ref>能與<ref target="#A011459" type="person">女</ref>並捐棄<lb ed="T" n="0938b05"/>邪俗，洗滌塵穢，專心一向，當得痊愈。」<persName key="A015173">安<ptr target="fn＊"/>苟</persName>然<lb ed="T" n="0938b06"/>之。即於宅<ptr target="fn22"/>上設觀世音齋，<persName key="A011459">藻</persName>心潔意，傾誠戴<lb ed="T" n="0938b07"/>仰，扶疾稽顙，專念相續。經七日，初夜忽見金<lb ed="T" n="0938b08"/>像高尺許，三摩其身，從首至足，即覺沈痾豁<lb ed="T" n="0938b09"/>然消愈。既靈驗在躬，遂求出<ptr target="fn23"/>家，住<placeName key="CN0320503T20AA">太玄臺<lb ed="T" n="0938b10"/>寺</placeName>，精勤匪懈，誦法華經，菜食長齋，三十七載。<lb ed="T" n="0938b11"/>常翹心注想，願生兜率。宋<date from-iso="0439-02-01" key="j18814331881816" to-iso="0440-02-19">元嘉十六年</date>，出都<lb ed="T" n="0938b12"/>造經，不測所終。</p>
+    <linkGrp>
+        <link targets="#0938b09 #0938b10"/>
+        <ptr target="#A011459" type="person"/>
+        <ptr target="#CN0320503T20AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0938b01 #0938b06"/>
+        <ptr target="#A015176" type="person"/>
+        <ptr target="#A015173" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0938b11 #0938b12"/>
+        <ptr target="#A011459" type="person"/>
+        <ptr target="#j18814331881816" type="time"/>
+    </linkGrp>
+</div>

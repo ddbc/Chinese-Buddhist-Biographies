@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0672a26shiFaLang">
+    <p><anchor n="T.50.2060.0672a26"/><persName key="A007214">釋法朗</persName>。<placeName key="CN0140881Z15AA">蒲州</placeName>人。學涉三藏偏鏡毘尼。開<lb ed="T" n="0672a27"/><ptr target="fn06"/>割篇聚不阻名<ptr target="fn07"/>問。加復器用平直無受<lb ed="T" n="0672a28"/>輕陵。決斷剛正未私強禦。後住<placeName key="CN0610103T12AA">勝光</placeName>披究<lb ed="T" n="0672a29"/>律典。經其房戶莫不懍然。<date key="j19409671941349" from-iso="0602-02-01" to-iso="0603-02-18">仁壽二年</date>。勅召<lb ed="T" n="0672b01"/>送舍利於陝州<placeName key="CN0411202T02AA">大興國寺</placeName>。<placeName key="CN0411202T02AA">寺</placeName>即皇考<persName key="A006379">武元</persName>本<lb ed="T" n="0672b02"/>生處也。故置<placeName key="CN0411202T02AA">寺</placeName>建塔。仰謝昔緣。初達<placeName key="CN0411202Z07AA">州</placeName>境。<lb ed="T" n="0672b03"/><placeName key="CN0411202T01AA">大通</placeName><placeName key="CN0411202T03AA">善法</placeName><placeName key="CN0411202T04AA">演業</placeName>三寺。夜各放光。不知何來。<lb ed="T" n="0672b04"/>而通照寺內朗徹無障。<placeName key="CN0411202T03AA">善法寺</placeName>中見三花<lb ed="T" n="0672b05"/>樹形色分明。<date key="j19410561941056" when-iso="0602-05-01">四月二日</date><placeName key="CN0411200T01AA">靈勝寺</placeName>中夜忽放光。<lb ed="T" n="0672b06"/>五色彩雲合成一蓋。通變為紫。比靈輿入<lb ed="T" n="0672b07"/>城。雲蓋方散。又有五色彩雲。從乾巽二處<lb ed="T" n="0672b08"/>纏糺而來。至於塔上相合而住。及掘塔基<lb ed="T" n="0672b09"/>下深五尺。獲一異鳥狀如鸜鵒。色甚青黃。<lb ed="T" n="0672b10"/>巡行基<ptr target="fn08"/>趾。人捉無畏。唯食黃花。三日而<lb ed="T" n="0672b11"/>死。又青石為函。忽生光影。表裏洞徹現諸<lb ed="T" n="0672b12"/>靈異。東西兩面俱現雙樹。樹下悉有水<ptr target="fn09"/>文<lb ed="T" n="0672b13"/>生焉。函內西面現二菩薩。南邊金色北邊銀<lb ed="T" n="0672b14"/>色。相對而立。又<ptr target="fn10"/>二菩薩坐花臺上。各長一<lb ed="T" n="0672b15"/>尺並放紅紫光明。函內南面現神尼像。合掌<lb ed="T" n="0672b16"/>向西。函脣西面又見臥佛。右脇而偃。首北<lb ed="T" n="0672b17"/>面西。函外東面雙樹間。現前死鳥傾臥。須<lb ed="T" n="0672b18"/>臾起立。鳥上有三金花。其鳥西南而行。至<lb ed="T" n="0672b19"/>臥佛下住立不動。凡此光相從已至未形<lb ed="T" n="0672b20"/>狀儼然。命人圖寫。上紙素訖。方漸歇滅。及<lb ed="T" n="0672b21"/>將下日。忽然雲起。如煙如霧團圓翳日。又<lb ed="T" n="0672b22"/>如車輪。雲色條別。又如車輻輪輻。雲色皆<lb ed="T" n="0672b23"/>如紅紫。人皆仰視其相歎怪希遇。藏瘞既<lb ed="T" n="0672b24"/>了。天還明淨失雲所在。當斯時也寺院牆<lb ed="T" n="0672b25"/>外咸見幡蓋圍遶。謂言他處助來供養。事了<lb ed="T" n="0672b26"/>追問一無蹤緒。<persName key="A007214">朗</persName>慶斯神瑞。登即奏聞。晚<lb ed="T" n="0672b27"/>還<placeName key="CN0610102Z14AA">京師</placeName>以疾而卒。</p>
+    <linkGrp>
+        <link targets="#0672a26 #0672a26"/>
+        <ptr target="#A007214" type="person"/>
+        <ptr target="#CN0140881Z15AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0672a28 #0672a29"/>
+        <ptr target="#A007214" type="person"/>
+        <ptr target="#CN0610103T12AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0672b01 #0672b02"/>
+        <ptr target="#A006379" type="person"/>
+        <ptr target="#CN0411202T02AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0672a29 #0672b26"/>
+        <ptr target="#A007214" type="person"/>
+        <ptr target="#CN0411202T02AA" type="place"/>
+        <ptr target="#j19409671941349" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0672a29 #0672b26"/>
+        <ptr target="#A004324" type="person"/>
+        <ptr target="#A007214" type="person"/>
+        <ptr target="#j19409671941349" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0672b26 #0672b27"/>
+        <ptr target="#A007214" type="person"/>
+        <ptr target="#CN0610102Z14AA" type="place"/>
+        </linkGrp>
+</div>

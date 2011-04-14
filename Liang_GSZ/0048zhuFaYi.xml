@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0350c16zhuFaYi">
+    <p><anchor n="T.50.2059.0350c16"/><lb ed="T" n="0350c16"/><persName key="A002208">竺法義</persName>，未詳何許人。<date key="j18375731837937" from-iso="0319-01-02" to-iso="0320-01-01">年十三</date>，遇<persName key="A002204">深公</persName>，便問：「<lb ed="T" n="0350c17"/>仁利是君子所行，<persName key="A002174">孔丘</persName>何故罕言？」<persName key="A002204">深</persName>曰：「物尠 <lb ed="T" n="0350c18"/>能行，是故<ptr target="fn24"/>罕言。」<persName key="A002204">深</persName>見其幼而頴悟，勸令出<lb ed="T" n="0350c19"/>家。於是棲志法門，從深受學。遊刃眾典 ，<lb ed="T" n="0350c20"/>尤善《法華》。後辭深出<placeName key="CN0320106Z06AA">京</placeName>，復大開講席，<persName key="A002504">王導</persName>、<lb ed="T" n="0350c21"/><persName key="A002732">孔敷</persName>並承風敬友。至<date from-iso="0363" key="j18536741854766" to-iso="0366">晉興寧中</date>，更還江左， <lb ed="T" n="0350c22"/>憩于<placeName key="CN0330683Z23AA">始寧</placeName>之<placeName key="CN0330623M06AA">保山</placeName>，受業弟子常有百餘。至 <lb ed="T" n="0350c23"/><date key="j18569821857335" from-iso="0372-02-22" to-iso="0373-02-09">咸安二年</date>，忽感心氣疾病，常存念觀音，乃 <lb ed="T" n="0350c24"/>夢見一人，破腹洗腸，覺便病愈。<persName key="A002733">傅亮</persName>每云：「<lb ed="T" n="0350c25"/>吾先君與<persName key="A002208">義公</persName>遊處，每聞說觀音神異，莫<lb ed="T" n="0350c26"/>不大小肅<ptr target="fn25"/>然。」</p>
+    <p><date key="j18580741858428" from-iso="0375-02-18" to-iso="0376-02-07">晉寧康三年</date>，<persName key="A002681">孝武皇帝</persName>遣使<lb ed="T" n="0350c27"/>徵請出<placeName key="CN0320106Z06AA">都</placeName>講說，<date key="j18599051860258" from-iso="0380-02-23" to-iso="0381-02-10">晉太元五年</date>卒於<placeName key="CN0320106Z06AA">都</placeName>，春秋七 <lb ed="T" n="0350c28"/>十有四矣。<persName key="A002681">帝</persName>以錢十萬，買<placeName key="CN0320105A05AA">新亭崗</placeName>為墓，起 <lb ed="T" n="0350c29"/>塔三級，<persName key="A002208">義</persName>弟子<persName key="A002734">曇爽</persName>於墓所立寺，因名<placeName key="CN0320105T02AA">新<lb ed="T" n="0351a01"/>亭精舍</placeName>。後<persName key="A002105">宋孝武</persName>南下伐凶，鑾斾至止，式宮<lb ed="T" n="0351a02"/>此寺。及登禪，復幸禪堂，因為開拓，改曰「<placeName key="CN0320105T02AA">中 <lb ed="T" n="0351a03"/>興</placeName>」。故<date from-iso="0424" key="j18761761886925" to-iso="0454">元嘉</date>末童謠云：「錢唐出天子。」乃<placeName key="CN0320105T02AA">禪堂</placeName>之<lb ed="T" n="0351a04"/>謂。故<placeName key="CN0320105T02AA">中興禪房</placeName>，猶有龍飛殿焉，今之<placeName key="CN0320105T02AA">天安</placeName>是 <lb ed="T" n="0351a05"/>也。</p>
+    <linkGrp>
+        <link targets="#0350c16 #0350c19"/>
+        <ptr target="#A002208" type="person"/>
+        <ptr target="#A002204" type="person"/>
+        <ptr target="#CN0320106Z06AA" type="place"/>
+        <ptr target="#j18375731837937" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0350c21 #0350c22"/>
+        <ptr target="#A002208" type="person"/>
+        <ptr target="#CN0330623M06AA" type="place"/>
+        <ptr target="#j18536741854766" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0350c23 #0350c24"/>
+        <ptr target="#A002208" type="person"/>
+        <ptr target="#CN0330623M06AA" type="place"/>
+        <ptr target="#j18569821857335" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0350c26 #0350c27"/>
+        <ptr target="#A002208" type="person"/>
+        <ptr target="#A002681" type="person"/>
+        <ptr target="#CN0320106Z06AA" type="place"/>
+        <ptr target="#j18580741858428" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0350c27 #0351a01"/>
+        <ptr target="#A002208" type="person"/>
+        <ptr target="#A002734" type="person"/>
+        <ptr target="#CN0320105A05AA" type="place"/>
+        <ptr target="#j18599051860258" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0350c29 #0351a01"/>
+        <ptr target="#A002208" type="person"/>
+        <ptr target="#A002734" type="person"/>
+    </linkGrp>
+</div>

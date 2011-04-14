@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0499c14shiDaoZhuang">
+    <p><anchor n="T.50.2060.0499c14"/><lb ed="T" n="0499c14"/><persName key="A005240">釋道莊</persName>。<placeName key="CN0320106Z05AA">楊州建業</placeName>人。遊踐經史聽習玄論。<lb ed="T" n="0499c15"/>皆會其標詣。而儀止弘雅立性滔然。故少為<lb ed="T" n="0499c16"/>同倫所尚。初聽<placeName key="CN0320103T06AA">彭城寺</placeName><persName key="A004281">瓊法師</persName>。稟受成實。<lb ed="T" n="0499c17"/>宗匠師表門學所推。<persName key="A004281">瓊</persName>後年疾相侵。將欲傳<lb ed="T" n="0499c18"/>緒。通召學徒宗猷顧命。眾咸揖<ptr target="fn24"/>謝於<persName key="A005240">莊</persName>。<lb ed="T" n="0499c19"/>允當遺寄。<persName key="A004281">瓊</persName>曰。<persName key="A005240">莊公</persName>學業優奧。誠如弘選。<lb ed="T" n="0499c20"/>理副諸望。用光於後。然其首大足小。終無<lb ed="T" n="0499c21"/>後成。恐其徙轍餘宗耳。遂不行眾議。<persName key="A005240">莊</persName>後<lb ed="T" n="0499c22"/>果鄙小乘歸崇大法。從<placeName key="CN0320102T24AA">興皇</placeName><persName key="A002918">朗法師</persName>。聽酌<lb ed="T" n="0499c23"/>四論。一聞神悟挺慧孤超。後入<placeName key="CN0410305T02AA">內道場</placeName>時聲<lb ed="T" n="0499c24"/>法鼓。一寺榮望無不預筵。諮謁前疑披解<lb ed="T" n="0499c25"/>無滯年德既富皆敬而推焉。<persName key="A004413">帝</persName>昔處蕃。致<lb ed="T" n="0499c26"/>書禮問。詩論嘉篇每令<ptr target="fn25"/>扣擊。詞<ptr target="fn26"/>采豐逸屢<lb ed="T" n="0499c27"/>動人心。末又追入<placeName key="CN0610102Z02AA">京師</placeName>。住<placeName key="CN0610113T02AA">日嚴寺</placeName>。頻蒙謁<lb ed="T" n="0499c28"/>見酬抗新敘。引處宮圍令其講授。言悟清<lb ed="T" n="0499c29"/>華玄儒總萃。皆歎其博要也。晚出曲池<placeName key="CN0610113T02AA">日<lb ed="T" n="0500a01"/>嚴</placeName>本室。又講法華。直敘綱致不存文句。<lb ed="T" n="0500a02"/>著疏三卷。皆風骨雅趣。師者眾焉。<persName key="A004413">煬帝</persName>初臨<lb ed="T" n="0500a03"/>以<persName key="A005240">莊</persName>留連<ptr target="fn01"/>風雅道味所流。賜帛五百段氈<lb ed="T" n="0500a04"/><ptr target="fn02"/>四十領。隨駕東指。因疾而卒於<placeName key="CN0410305Z16AA">洛陽</placeName>。時年<lb ed="T" n="0500a05"/>八十一矣。即<date key="j19420591943236" notAfter-iso="0608" notBefore-iso="0605">大業之初</date>也。有集數十卷多<lb ed="T" n="0500a06"/>在<placeName key="CN0340001D01AA">淮南</placeName>。少流北壤。</p>
+    <linkGrp>
+        <link targets="#0499c14 #0499c14"/>
+        <ptr target="#A005240" type="person"/>
+        <ptr target="#CN0320106Z05AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0499c16 #0499c21"/>
+        <ptr target="#A005240" type="person"/>
+        <ptr target="#A004281" type="person"/>
+        <ptr target="#CN0320103T06AA" type="place"/>
+        </linkGrp>
+    <linkGrp>
+        <link targets="#0499c22 #0499c23"/>
+        <ptr target="#A005240" type="person"/>
+        <ptr target="#A002918" type="person"/>
+        <ptr target="#CN0320102T24AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0499c23 #0499c27"/>
+        <ptr target="#A005240" type="person"/>
+        <ptr target="#CN0410305T02AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0499c27 #500a02"/>
+        <ptr target="#A005240" type="person"/>
+        <ptr target="#CN0610113T02AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0499c25 #0499c28"/>
+        <ptr target="#A005240" type="person"/>
+        <ptr target="#A004413" type="person"/>
+        <ptr target="#CN0610102Z02AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0500a04 #0500a05"/>
+        <ptr target="#A005240" type="person"/>
+        <ptr target="#A004413" type="person"/>
+        <ptr target="#CN0410305Z16AA" type="place"/>
+        <ptr target="#j19420591943236" type="time"/>
+    </linkGrp>
+</div>

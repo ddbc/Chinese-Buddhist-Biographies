@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0670c20shiFaXian">
+    <p><anchor n="T.50.2060.0670c20"/><lb ed="T" n="0670c20"/><persName key="A007176">釋法顯</persName>。<placeName key="CN0610112Z12AA">雍州</placeName><placeName key="CN0610322Z18AA">扶風</placeName>人。厥姓寗氏。生平志尚禪<lb ed="T" n="0670c21"/>寂為宗。文字紙筆性不遊履。沈默寡欲不<lb ed="T" n="0670c22"/>為世累。其師法開。定門幽祕。殆是不測。<date key="j19225391924547" notAfter-iso="0557" notBefore-iso="0551">元<lb ed="T" n="0670c23"/>魏之末</date>。住<placeName key="CN0610125T04AA">京兆王寺</placeName>。與<persName key="A007180">實禪師</persName>齊駕朝野。<lb ed="T" n="0670c24"/>兼以簡約清素。華貴傾屬。<persName key="A007176">顯</persName>遇斯明匠承<lb ed="T" n="0670c25"/>奉累年。傳習師宗頗接<ptr target="fn＊"/>微緒。住<placeName key="CN0610113T02AA">日嚴寺</placeName>。<lb ed="T" n="0670c26"/><date key="j19415741942058" notAfter-iso="0605" notBefore-iso="0603">仁壽末歲</date>。置塔<placeName key="CN0610327Z17AA">隴州</placeName>。下勅令送。<persName key="A007176">顯</persName>發自<placeName key="CN0610102Z14AA">帝<lb ed="T" n="0670c27"/>京</placeName>。奉輿至彼<placeName key="CN0610327T01AA">藥王寺</placeName>內。然<placeName key="CN0610327T01AA">寺</placeName>去州一十餘<lb ed="T" n="0670c28"/>里。褊狹<ptr target="fn29"/>邪仄殊非形望。乃移近州北<placeName key="CN0610327M01AA"/>三王<lb ed="T" n="0670c29"/>山下。背崖臨水。高勝博敞。仍構大塔。放大<lb ed="T" n="0671a01"/>光明。闔境同觀。欣其罪滅。<persName key="A007176">顯</persName>因其所利。即<lb ed="T" n="0671a02"/>而利之。廣說法要。傾其心惱。當斯一會榮<lb ed="T" n="0671a03"/>嘆成諠。晚還入<placeName key="CN0610102Z14AA">京</placeName>聚徒綜業。每年歲首受<lb ed="T" n="0671a04"/>具者多。<persName key="A007176">顯</persName>為開發戒緣。鼓行壇懺。引聚清<lb ed="T" n="0671a05"/>眾即而惠之。後終時也。將八十矣。</p>
+    <linkGrp>
+        <link targets="#0670c20 #0670c20"/>
+        <ptr target="#A007176" type="person"/>
+        <ptr target="#CN0610322Z18AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0670c22 #0670c23"/>
+        <ptr target="#A007176" type="person"/>
+        <ptr target="#CN0610125T04AA" type="place"/>
+        <ptr target="#j19225391924547" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0670c25 #0670c25"/>
+        <ptr target="#A007176" type="person"/>
+        <ptr target="#CN0610113T02AA" type="place"/>
+        </linkGrp>
+    <linkGrp>
+        <link targets="#0670c26 #0670c27"/>
+        <ptr target="#A007176" type="person"/>
+        <ptr target="#CN0610102Z14AA" type="place"/>
+        <ptr target="#j19415741942058" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0670c26 #0670c27"/>
+        <ptr target="#A007176" type="person"/>
+        <ptr target="#CN0610327T01AA" type="place"/>
+        <ptr target="#j19415741942058" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0670c26 #0671a03"/>
+        <ptr target="#A007176" type="person"/>
+        <ptr target="#CN0610327M01AA" type="place"/>
+        <ptr target="#j19415741942058" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0671a03 #0671a05"/>
+        <ptr target="#A007176" type="person"/>
+        <ptr target="#CN0610102Z14AA" type="place"/>
+        </linkGrp>
+</div>

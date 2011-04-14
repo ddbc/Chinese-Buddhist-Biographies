@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0389b23sheGong">
+    <p><anchor n="T.50.2059.0389b23"/><lb ed="T" n="0389b23"/><persName key="A002285">涉公</persName>者，<placeName key="CN0650000E01AA">西域</placeName>人也。虛<ptr target="fn17"/>靖服氣，不食五穀，日<lb ed="T" n="0389b24"/>能行五百里。言未然之事，驗若指掌。以<persName key="A002515">苻<lb ed="T" n="0389b25"/>堅</persName><date key="j18584291858782" from-iso="0376-02-08" to-iso="0377-01-26">建元十<ptr target="fn18"/>二年</date>至<placeName key="CN0610112Z07AA">長安</placeName>。能以祕呪呪下神<lb ed="T" n="0389b26"/>龍，每旱，<persName key="A002515">堅</persName>常請之呪龍，俄而龍下鉢中，天<lb ed="T" n="0389b27"/>輒大雨。堅及群臣親就鉢中觀之，咸歎其<lb ed="T" n="0389b28"/>異。<persName key="A002515">堅</persName>奉為國神，士庶皆投身接足，自是無<lb ed="T" n="0389b29"/>復炎旱之憂。至<date key="j18602301860258" from-iso="0381-01-13" to-iso="0381-02-10">十六年十二月</date>無疾而化，<lb ed="T" n="0389c01"/><persName key="A002515">堅</persName>哭之甚慟。卒後七日，<persName key="A002515">堅</persName>以其神異，試開<lb ed="T" n="0389c02"/>棺視之，不見尸骸所在，唯有殮被存焉。<lb ed="T" n="0389c03"/>至<date from-iso="0381-02" key="j18602591860437" to-iso="0381-08">十七年，自正月不雨，至于六月</date>。<persName key="A002515">堅</persName>減<lb ed="T" n="0389c04"/><ptr target="fn19"/>膳撤懸，以迎和氣，至<date key="j18604371860465" from-iso="0381-08-08" to-iso="0381-09-05">七月</date>降雨。<persName key="A002515">堅</persName>謂中<lb ed="T" n="0389c05"/>書<persName key="A003236">朱<ptr target="fn20"/>肜</persName>曰：「<persName key="A002285">涉公</persName>若在，<persName key="A002515">朕</persName>豈燋心於雲漢若<lb ed="T" n="0389c06"/>是哉？<persName key="A002285">此公</persName>其大聖乎！」<ptr target="fn＊"/><persName key="A003236">肜</persName>曰：「斯術幽遠，實亦<lb ed="T" n="0389c07"/>曠古之奇也。」</p>
+    <linkGrp>
+        <link targets="#0389b25 #0389b29"/>
+        <ptr target="#A002285" type="person"/>
+        <ptr target="#A002515" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0389c04 #0389c07"/>
+        <ptr target="#A003236" type="person"/>
+        <ptr target="#A002515" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0389b24 #0389b29"/>
+        <ptr target="#A002285" type="person"/>
+        <ptr target="#CN0610112Z07AA" type="place"/>
+        <ptr target="#j18584291858782" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0389b29 #0389b29"/>
+        <ptr target="#A002285" type="person"/>
+        <ptr target="#CN0610112Z07AA" type="place"/>
+        <ptr target="#j18602301860258" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0389c03 #0389c04"/>
+        <ptr target="#A002515" type="person"/>
+        <ptr target="#CN0610112Z07AA" type="place"/>
+        <ptr target="#j18602591860437" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0389c04 #0389c07"/>
+        <ptr target="#A002515" type="person"/>
+        <ptr target="#A003236" type="person"/>
+        <ptr target="#CN0610112Z07AA" type="place"/>
+        <ptr target="#j18604371860465" type="time"/>
+    </linkGrp>
+</div>

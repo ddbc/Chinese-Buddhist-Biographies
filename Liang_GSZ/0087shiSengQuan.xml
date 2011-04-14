@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0369c10shiSengQuan">
+	<p><anchor n="T.50.2059.0369c10"/><lb ed="T" n="0369c10"/><persName key="A002231">釋僧詮</persName>，姓張，<placeName key="CN0130224Z04AA">遼西海陽</placeName>人。少遊<placeName key="CN0110102Z12AA">燕</placeName>、<placeName key="CN0370305Z15AA">齊</placeName>，遍學<lb ed="T" n="0369c11"/>外典，弱冠方出家。復精<ptr target="fn23"/>鍊三藏，為北土學<lb ed="T" n="0369c12"/>者之宗。後過江止<placeName key="CN0320106Z06AA">京師</placeName>，鋪筵大講，化洽<placeName key="CN0000007D01AA">江<lb ed="T" n="0369c13"/>南</placeName>。<placeName key="CN0320503Z22AA">吳郡</placeName><persName key="A002913">張恭</persName>請還<placeName key="CN0320503Z22AA">吳</placeName>講說，<placeName key="CN0320503Z22AA">姑蘇</placeName>之士，並慕德<lb ed="T" n="0369c14"/>歸心。初止<placeName key="CN0320501T02AA">閑居寺</placeName>，晚憩<placeName key="CN0320505M01AA">虎丘山</placeName>。<persName key="A002231">詮</persName>先於<placeName key="CN0211302Z14AA">黃<lb ed="T" n="0369c15"/>龍國</placeName>造丈六金像，入<placeName key="CN0320503Z22AA">吳</placeName>又造人中金像，置<lb ed="T" n="0369c16"/>于虎丘山之<placeName key="CN0320505T01AA">東寺</placeName>。<persName key="A002231">詮</persName>性好檀施，周贍貧乏，<lb ed="T" n="0369c17"/>清確自守，居無<ptr target="fn24"/>兼幣。後<placeName key="CN0370782Z06AA">平昌</placeName><persName key="A002587">孟顗</persName>，於<placeName key="CN0330110Z22AA">餘杭</placeName><lb ed="T" n="0369c18"/>立<placeName key="CN0330110T01AA">方顯寺</placeName>，請<persName key="A002231">詮</persName>居之。率眾翹勤，禪禮無輟，<lb ed="T" n="0369c19"/>看尋苦至，遂<ptr target="fn25"/>乃失明。而策厲彌精，講授不<lb ed="T" n="0369c20"/>廢。<placeName key="CN0320503Z22AA">吳國</placeName><persName key="A002649">張暢</persName>、<persName key="A002914">張敷</persName>，<placeName key="CN0411402Z06AA">譙國</placeName><persName key="A002915">戴顒</persName>、<persName key="A002916">戴勃</persName>，並慕德結<lb ed="T" n="0369c21"/>交，崇以師禮。詮後暫遊<placeName key="CN0330185Z03AA">臨安縣</placeName>，投<persName key="A002917">董功曹</persName><lb ed="T" n="0369c22"/>家，<persName key="A002917">功曹</persName>者清信弟子也。<persName key="A002231">詮</persName>投止少時，便遇疾<lb ed="T" n="0369c23"/>甚篤，而常見所造之像，來在西<ptr target="fn26"/>壁，又見諸<lb ed="T" n="0369c24"/>天童子皆來侍病。弟子<persName key="A002918">法朗</persName>，夢見一臺，數人<lb ed="T" n="0369c25"/>捧之，問何所去，答云迎<persName key="A002231">詮法師</persName>。明旦果卒。<lb ed="T" n="0369c26"/>縣令<persName key="A002919">阮尚之</persName>，使葬<placeName key="CN0330185M01AA">白土山</placeName><persName key="A002883">郭文舉</persName>之塚右，以<lb ed="T" n="0369c27"/>擬<persName key="A002921">梁鴻</persName>之附<persName key="A002922">要離</persName>也。特進<persName key="A002923">王裕</persName>及高士<persName key="A002915">戴<lb ed="T" n="0369c28"/>顒</persName>，至<persName key="A002231">詮</persName>墓所，刻石立碑，<persName key="A002924">唐思賢</persName>造文，<persName key="A002914">張敷</persName><lb ed="T" n="0369c29"/>作誄。</p>
+	
+	<linkGrp>
+		<link targets="#0369c10 #0369c11"/>
+		<ptr target="#A002231" type="person"/>
+		<ptr target="#CN0110102Z12AA" type="place"/>
+	</linkGrp>
+	<linkGrp>
+		<link targets="#0369c10 #0369c11"/>
+		<ptr target="#A002231" type="person"/>
+		<ptr target="#CN0370305Z15AA" type="place"/>
+	</linkGrp>
+	<linkGrp>
+		<link targets="#0369c12 #0369c13"/>
+		<ptr target="#A002231" type="person"/>
+		<ptr target="#CN0320106Z06AA" type="place"/>
+	</linkGrp>
+	<linkGrp>
+		<link targets="#0369c12 #0369c14"/>
+		<ptr target="#A002231" type="person"/>
+		<ptr target="#A002913" type="person"/>	
+		<ptr target="#CN0320503Z22AA" type="place"/>
+	</linkGrp>
+	<linkGrp>
+		<link targets="#0369c14 #0369c14"/>
+		<ptr target="#A002231" type="person"/>
+		<ptr target="#CN0320501T02AA" type="place"/>
+	</linkGrp>
+	<linkGrp>
+		<link targets="#0369c14 #0369c14"/>
+		<ptr target="#A002231" type="person"/>
+		<ptr target="#CN0320505M01AA" type="place"/>
+	</linkGrp>
+	<linkGrp>
+		<link targets="#0369c14 #0369c15"/>
+		<ptr target="#A002231" type="person"/>
+		<ptr target="#CN0211302Z14AA" type="place"/>
+	</linkGrp>
+	<linkGrp>
+		<link targets="#0369c15 #0369c16"/>
+		<ptr target="#A002231" type="person"/>
+		<ptr target="#CN0320505T01AA" type="place"/>
+	</linkGrp>
+	<linkGrp>
+		<link targets="#0369c20 #0369c21"/>
+		<ptr target="#A002231" type="person"/>
+		<ptr target="#A002649" type="person"/>
+		<ptr target="#A002914" type="person"/>
+	</linkGrp>
+	<linkGrp>
+		<link targets="#0369c20 #0369c21"/>
+		<ptr target="#A002231" type="person"/>
+		<ptr target="#A002915" type="person"/>
+		<ptr target="#A002916" type="person"/>
+	</linkGrp>
+	<linkGrp>
+		<link targets="#0369c24 #0369c25"/>
+		<ptr target="#A002231" type="person"/>
+		<ptr target="#A002918" type="person"/>
+	</linkGrp>
+	<linkGrp>
+		<link targets="#0369c17 #0369c18"/>
+		<ptr target="#A002231" type="person"/>
+		<ptr target="#A002587" type="person"/>
+		<ptr target="#CN0330110Z22AA" type="place"/>
+		</linkGrp>
+	<linkGrp>
+		<link targets="#0369c21 #0369c22"/>
+		<ptr target="#A002231" type="person"/>
+		<ptr target="#A002917" type="person"/>
+		<ptr target="#CN0330185Z03AA" type="place"/>
+		</linkGrp>
+</div>

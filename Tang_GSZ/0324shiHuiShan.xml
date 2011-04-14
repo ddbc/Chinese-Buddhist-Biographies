@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0486b27shiHuiShan">
+    <p><anchor n="T.50.2060.0486b27"/><lb ed="T" n="0486b27"/><persName key="A005292">釋慧善</persName>。幼出家。<persName key="A005292">善</persName>法勝毘曇。住<placeName key="CN0320106T01AA">楊都栖玄<lb ed="T" n="0486b28"/>寺</placeName>。徵擊論道四座驚神。會有<date key="j19197471924818" notAfter-iso="0557" notBefore-iso="0543">梁末序</date>。逃難<lb ed="T" n="0486b29"/><placeName key="CN0421003Z03AA">江陵</placeName>。<date key="j19238101924095" notAfter-iso="0555" notBefore-iso="0555">承聖季年</date>因俘<ptr target="fn15"/><placeName key="CN0610000E01AA">秦壤</placeName>。住<placeName key="CN0610112T01AA">長安崇華寺</placeName>。<lb ed="T" n="0486c01"/>義學之美。為<persName key="A002060">周冡宰</persName>見知。別修供養敷導<lb ed="T" n="0486c02"/>終老。以<date key="j19278301930082" notAfter-iso="0572" notBefore-iso="0566">天和年</date>卒<ptr target="fn16"/>於<placeName key="CN0610112Z06AA">長安</placeName>。時年六十。<persName key="A005292">善</persName><lb ed="T" n="0486c03"/>以<ptr target="fn17"/>大智度論每引小乘相證成義。故依<lb ed="T" n="0486c04"/>文次第散釋精理。譬諸星月助朗太陽。猶<lb ed="T" n="0486c05"/>如眾花繽紛而散<ptr target="fn18"/>亂。故著斯文名為散花<lb ed="T" n="0486c06"/>論也。其序略云。著述之體。貴言約而理豐。<lb ed="T" n="0486c07"/>余頗悉諸作。而今<ptr target="fn19"/>[覶-(ㄙ/又)+土]縷者正由斯轍。罕人<lb ed="T" n="0486c08"/>諳練。是以觸義慇懃逢文指掌。有詳覽者<lb ed="T" n="0486c09"/>想鑒茲焉。文多不盡。</p>
+    <linkGrp>
+        <link targets="#0486b27 #0486b28"/>
+        <ptr target="#A005292" type="person"/>
+        <ptr target="#CN0320106T01AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0486b28 #0486b29"/>
+        <ptr target="#A005292" type="person"/>
+        <ptr target="#CN0421003Z03AA" type="place"/>
+        <ptr target="#j19197471924818" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0486b29 #0486c02"/>
+        <ptr target="#A005292" type="person"/>
+        <ptr target="#A002060" type="person"/>
+        <ptr target="#CN0610112T01AA" type="place"/>
+        <ptr target="#j19238101924095" type="time"/>
+    </linkGrp>  
+    <linkGrp>
+        <link targets="#0486c02 #0486c02"/>
+        <ptr target="#A005292" type="person"/>
+        <ptr target="#CN0610112Z06AA" type="place"/>
+        <ptr target="#j19278301930082" type="time"/>
+    </linkGrp>  
+</div>

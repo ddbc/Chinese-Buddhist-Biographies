@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0375a27shiSengYuan">
+    <p><anchor n="T.50.2059.0375a27"/><lb ed="T" n="0375a27"/><persName key="A002253">釋僧淵</persName>，本姓趙，<placeName key="CN0341423Z21AA">頴川</placeName>人，魏司空<persName key="A003020">儼</persName>之後也。少<lb ed="T" n="0375a28"/>好讀書。進戒之後，專攻佛義。初遊<placeName key="CN0320303Z01AA">徐<ptr target="fn04"/>邦</placeName>，<lb ed="T" n="0375a29"/>止<placeName key="CN0320321T01AA">白塔寺</placeName>，從<persName key="A003021">僧嵩</persName>受《成實<ptr target="fn05"/>論》、《毘曇》。學未<lb ed="T" n="0375b01"/>三年，功踰十載，慧解之聲，馳於遐邇。<persName key="A002253">淵</persName>風<lb ed="T" n="0375b02"/>姿宏偉，腰帶十圍，神氣清遠，含吐灑落。隱士<lb ed="T" n="0375b03"/><persName key="A003022">劉因之</persName>捨所住山給為精舍。</p><p><persName key="A002254">曇度</persName>、<persName key="A003023">慧記</persName>、<persName key="A003024">道登</persName><lb ed="T" n="0375b04"/>並從<persName key="A002253">淵</persName>受業。<persName key="A003023">慧記</persName>兼通數論，<persName key="A003024">道登</persName>善《涅<lb ed="T" n="0375b05"/>槃》、《法華》，並為<persName key="A002158">魏主元宏</persName>所重，馳名<ptr target="fn06"/>魏國。</p><p><lb ed="T" n="0375b06"/><persName key="A002253">淵</persName>以偽<date key="j18967891897142" from-iso="0481-02-16" to-iso="0482-02-04">太和五年</date>卒，春秋六十有八，即<date key="j18967891897142" from-iso="0481-02-16" to-iso="0482-02-04">齊建<lb ed="T" n="0375b07"/>元三年</date>也。</p>
+    <linkGrp>
+        <link targets="#0375a28 #0375b01"/>
+        <ptr target="#A002253" type="person"/>
+        <ptr target="#CN0320321T01AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0375a28 #0375b01"/>
+        <ptr target="#A002253" type="person"/>
+        <ptr target="#A003021" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0375b02 #0375b02"/>
+        <ptr target="#A002253" type="person"/>
+        <ptr target="#A003022" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0375b03 #0375b04"/>
+        <ptr target="#A002253" type="person"/>
+        <ptr target="#A002254" type="person"/>
+        <ptr target="#A003023" type="person"/>
+        <ptr target="#A003024" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0375b04 #0375b05"/>
+        <ptr target="#A002158" type="person"/>
+        <ptr target="#A003024" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0375b06 #0375b07"/>
+        <ptr target="#A002158" type="person"/>
+        <ptr target="#j18967891897142" type="time"/>
+    </linkGrp>
+</div>

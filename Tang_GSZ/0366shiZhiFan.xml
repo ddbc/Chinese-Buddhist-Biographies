@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0511a28shiZhiFan">
+    <p><anchor n="T.50.2060.0511a28"/><lb ed="T" n="0511a28"/><persName key="A005529">釋智梵</persName>。姓封氏。<placeName key="CN0131127Z21AA">渤海條</placeName>人。後因祖父剖符。<lb ed="T" n="0511a29"/>遂居<placeName key="CN0110111Z12AA">涿郡之良鄉</placeName>焉。岐嶷彰美早悟歸信。<lb ed="T" n="0511b01"/><date key="j19219441922308" from-iso="0550-01-01" to-iso="0550-12-31">年十二</date>屆<placeName key="CN0130984Z31AA">河間郡</placeName>。值<persName key="A005530">靈簡禪師</persName>。求而剃落。<lb ed="T" n="0511b02"/>遂遊學<placeName key="CN0130423Z23AA">鄴都</placeName>。師承大論十地等文。並嘗味<lb ed="T" n="0511b03"/>弘旨溫習真性。俊響遐逸同侶歸宗。<date key="j19259621926326" from-iso="0561-01-01" to-iso="0561-12-31">二十有<lb ed="T" n="0511b04"/>三</date>躬當師導。後策錫<placeName key="CN0411200G01AA">崤函</placeName>通化京壤。綿歷<lb ed="T" n="0511b05"/>二紀利益弘多。結眾法筵星羅帝里。<date key="j19387811939135" from-iso="0596-02-06" to-iso="0597-01-25">開皇十<lb ed="T" n="0511b06"/>六年</date>。<placeName key="CN0620502Z12AA">天水</placeName><placeName key="CN0610322Z18AA">扶風</placeName>二方勝壤。聞<persName key="A005529">梵</persName>道務競申<lb ed="T" n="0511b07"/>奏請。有勅許焉。<persName key="A005529">梵</persName><ptr target="fn03"/>任吹虛舟憩翼天水。<lb ed="T" n="0511b08"/>大行道化信靡如風。<date key="j19416971942058" notAfter-iso="0605" notBefore-iso="0604">仁壽末年</date>重還<placeName key="CN0610102Z02AA">魏闕</placeName>。<lb ed="T" n="0511b09"/>法輪重轉學侶雲隨。開帙剖文皆傳義旨。<lb ed="T" n="0511b10"/>其年季春。奉勅置塔於<placeName key="CN0420821T01AA">郢州寶香寺</placeName>。仍於<lb ed="T" n="0511b11"/>塔東流水獲毛龜八枚。<placeName key="CN0420821T01AA">寺</placeName>內基東池內又獲<lb ed="T" n="0511b12"/>八枚。皆大小相似與世無異。但毛色青綠可<lb ed="T" n="0511b13"/>長三寸。背上橫行五節而起。光相超異。出<lb ed="T" n="0511b14"/>水便靡但見綠甲。入水毛起歷然上竦。具<lb ed="T" n="0511b15"/>以奏聞。由是騰實<placeName key="CN0420821Z22AA">楚都</placeName>知名<placeName key="CN0610102Z02AA">帝闕</placeName>。<date key="j19435361943889" from-iso="0609-02-13" to-iso="0610-02-01">大業五<lb ed="T" n="0511b16"/>年</date>又應詔旨令住<placeName key="CN0610113T06AA">禪定</placeName>。靜緣攝想無替暄<lb ed="T" n="0511b17"/>寒。<date key="j19450151945015" when-iso="0613-03-03">九年二月四日</date>卒于<placeName key="CN0610113T06AA">寺</placeName>房。春秋七十有五。<lb ed="T" n="0511b18"/>遺<ptr target="fn04"/>屬施身。門徒遵旨乃送<placeName key="CN0610125M01AA">終南山</placeName>。鳩集餘<lb ed="T" n="0511b19"/>骸緘于塔內。外施銘文。于今傳尚矣。</p>
+    <linkGrp>
+        <link targets="#0511a28 #0511a28"/>
+        <ptr target="#A005529" type="person"/>
+        <ptr target="#CN0131127Z21AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0511a28 #0511a29"/>
+        <ptr target="#A005529" type="person"/>
+        <ptr target="#CN0110111Z12AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0511b01 #0511b01"/>
+        <ptr target="#A005529" type="person"/>
+        <ptr target="#A005530" type="person"/>
+        <ptr target="#CN0130984Z31AA" type="place"/>
+        <ptr target="#j19219441922308" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0511b02 #0511b03"/>
+        <ptr target="#A005529" type="person"/>
+        <ptr target="#CN0130423Z23AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0511b03 #0511b04"/>
+        <ptr target="#A005529" type="person"/>
+        <ptr target="#j19259621926326" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0511b04 #0511b04"/>
+        <ptr target="#A005529" type="person"/>
+        <ptr target="#CN0411200G01AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0511b05 #0511b08"/>
+        <ptr target="#A005529" type="person"/>
+        <ptr target="#CN0620502Z12AA" type="place"/>
+        <ptr target="#j19387811939135" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0511b05 #0511b08"/>
+        <ptr target="#A005529" type="person"/>
+        <ptr target="#CN0610322Z18AA" type="place"/>
+        <ptr target="#j19387811939135" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0511b08 #0511b09"/>
+        <ptr target="#A005529" type="person"/>
+        <ptr target="#CN0610102Z02AA" type="place"/>
+        <ptr target="#j19416971942058" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0511b10 #0511b15"/>
+        <ptr target="#A005529" type="person"/>
+        <ptr target="#CN0420821T01AA" type="place"/>
+        <ptr target="#j19416971942058" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0511b15 #0511b16"/>
+        <ptr target="#A005529" type="person"/>
+        <ptr target="#CN0610113T06AA" type="place"/>
+        <ptr target="#j19435361943889" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0511b17 #0511b17"/>
+        <ptr target="#A005529" type="person"/>
+        <ptr target="#CN0610113T06AA" type="place"/>
+        <ptr target="#j19450151945015" type="time"/>
+    </linkGrp>
+</div>

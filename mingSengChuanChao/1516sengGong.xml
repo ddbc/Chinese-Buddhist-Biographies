@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><div xml:id="mscc0359a04sengGong" xmlns="http://www.tei-c.org/ns/1.0"><head>宋<placeName key="CN0320104T02AA">瓦官寺</placeName><persName key="A018959">釋僧供</persName></head><p><anchor n="X.77.1523.0359a04"/><lb ed="X" n="0359a04"/>僧供<placeName key="CN0411727Z23AA">豫洲</placeName>人也。少持高節。以戒德知名。住<placeName key="CN0320104T02AA">瓦官寺</placeName>。後<lb ed="X" n="0359a05"/>招率同志。造丈六金像。鑄始畢未出模。未知美惡。值<lb ed="X" n="0359a06"/><date from-iso="0416-02-15" to-iso="0417-02-03" key="j18730461873400">義熈十二年</date>銅禁甚嚴。有犯入死。<persName key="A018959">供</persName>為官所錄。在<placeName key="CN0430105Z01AA">湘<lb ed="X" n="0359a07"/>府</placeName>判姧。鏁械堅重。無復生冀。一心念觀世音。兼晝夜<lb ed="X" n="0359a08"/>誦經一月許日。夢見其所鑄像。來至獄中。以手摩<persName key="A018959">供</persName><lb ed="X" n="0359a09"/>頭。問曰。汝怖不。<persName key="A018959">供</persName>啟言。恐必死。像曰。無所憂。<persName key="A018959">供</persName>觀像<lb ed="X" n="0359a10"/>相貌。見胸前方一尺許銅色燋沸。羅辟既定。至<ptr target="fn1"/>形日。<lb ed="X" n="0359a11"/>參軍應來監殺。當駕車而牛不肯入。既入便奔。車即<lb ed="X" n="0359a12"/>壞敗。遂更剋日。乃有勑至<placeName key="CN0320303Z11AA">彭城</placeName>。若未殺<persName key="A018959">僧供</persName>者可原。<lb ed="X" n="0359a13"/>遂獲<ptr target="fn2"/>勉濟。還見所鑄像。胸前果有燋沸。<persName key="A018959">供</persName>既瑞驗。清<lb ed="X" n="0359a14"/>答日勤。以至捨命(云云)。</p>
+    <linkGrp>
+        <link targets="#0359a04 #0359a04"/>
+        <ptr type="person" target="#A018959"/>
+        <ptr type="place" target="#CN0411727Z23AA"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0359a04 #0359a04"/>
+        <ptr type="person" target="#A018959"/>
+        <ptr type="place" target="#CN0320104T02AA"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0359a05 #0359a12"/>
+        <ptr type="person" target="#A018959"/>
+        <ptr type="place" target="#CN0430105Z01AA"/>
+        <ptr type="time" target="#d18730461873400"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0359a12 #0359a14"/>
+        <ptr type="person" target="#A018959"/>
+        <ptr type="place" target="#CN0320303Z11AA"/>
+    </linkGrp>
+</div>

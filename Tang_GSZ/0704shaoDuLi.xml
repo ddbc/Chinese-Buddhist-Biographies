@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0684a20shaoDuLi">
+    <p><anchor n="T.50.2060.0684a20"/><lb ed="T" n="0684a20"/><persName key="A007406"><ptr target="fn06"/>紹闍梨</persName>者。梓州<placeName key="CN0510623Z09AA">玄武</placeName>人也。俗姓蒲氏。未出<lb ed="T" n="0684a21"/>家前。山行見<ptr target="fn07"/>一<ptr target="fn＊"/>蟲甚瘦。又將一子於澗<lb ed="T" n="0684a22"/>中取<ptr target="fn08"/>鰕子。<ptr target="fn＊"/>鰕子又不可得。<persName key="A007406">紹</persName>乃歎曰。此<lb ed="T" n="0684a23"/><ptr target="fn＊"/>蟲應在深山。今乃出路。飢渴甚矣。等是一<lb ed="T" n="0684a24"/>死。不如充此飢渴。乃脫衣往臥<ptr target="fn＊"/>蟲前<ptr target="fn＊"/>蟲<lb ed="T" n="0684a25"/>乃避去。後方出家。唯誦經行道而已。更無異<lb ed="T" n="0684a26"/>行。<date key="j19420591943236" notAfter-iso="0608" notBefore-iso="0605">大業之初</date>。<placeName key="CN0410482Z26AA">汝州</placeName>界<ptr target="fn＊"/>蟲暴非常。三五十人<lb ed="T" n="0684a27"/>持<ptr target="fn09"/>仗不敢獨行。害人既多。<persName key="A007406">紹</persName>乃往到其<lb ed="T" n="0684a28"/>處立茅<ptr target="fn10"/>苫坐。<ptr target="fn＊"/>蟲並遠去。道路清夷。年一<lb ed="T" n="0684a29"/>百九歲乃見疾。謂弟子曰。<persName key="A007406">我</persName>欲露屍乞諸<lb ed="T" n="0684b01"/>蟲鳥。而彪嫌<persName key="A007406">我</persName>身。生尚不食。豈死能甞。可<lb ed="T" n="0684b02"/>焚之無餘燼。弟子等不忍依其言。乃露屍<lb ed="T" n="0684b03"/>月餘。鳥獸不犯。乃收葬之。</p>
+    <linkGrp>
+        <link targets="#0684a20 #0684a20"/>
+        <ptr target="#A007406" type="person"/>
+        <ptr target="#CN0510623Z09AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0684a26 #0684a28"/>
+        <ptr target="#A007406" type="person"/>
+        <ptr target="#CN0410482Z26AA" type="place"/>
+        <ptr target="#j19420591943236" type="time"/>
+    </linkGrp>
+</div>

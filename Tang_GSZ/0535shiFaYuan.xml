@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0610a01shiFaYuan">
+    <p><anchor n="T.50.2060.0610a01"/><lb ed="T" n="0610a01"/><persName key="A006373">釋法願</persName>。姓任。<placeName key="CN0141182Z15AA">西河</placeName>人也。性警達頗自高<ptr target="fn01"/>上。<lb ed="T" n="0610a02"/>而拔致窮玄不偶儕侶。東觀道化遂達<placeName key="CN0130423Z23AA">鄴<lb ed="T" n="0610a03"/>都</placeName>。形廁白衣言揚緇服。齊<placeName key="CN0130423T03AA">昭玄</placeName>大統<persName key="A000689">法上</persName>。<lb ed="T" n="0610a04"/>嘉<persName key="A006373">其</persName>神慧與語終朝。深通志<ptr target="fn02"/>梗。因攝而剃<lb ed="T" n="0610a05"/>落。日賜幽奧。橫<ptr target="fn03"/>勵時倫。乃恣其遊博。<persName key="A006373">願</persName><lb ed="T" n="0610a06"/>勇思風馳周行講席。求法無怠問道新奇。<lb ed="T" n="0610a07"/>後乃仰蹤波離專經律部網羅佛<ptr target="fn04"/>治舟<lb ed="T" n="0610a08"/>逕僧猷。自<placeName key="CN0000000E01AA">東夏</placeName>所傳四部律本。並製義疏。<lb ed="T" n="0610a09"/>妙會異同。當<date key="j19221051931862" notAfter-iso="0577" notBefore-iso="0550">有齊之盛</date>。律徒<ptr target="fn05"/>飈舉。法正一<lb ed="T" n="0610a10"/>部各競前驅。<persName key="A005410">雲公</persName>創敘綱模。<persName key="A005411">暉</persName>上刪其纖<lb ed="T" n="0610a11"/>芥。<persName key="A006373">法願</persName>霜情啟旦孤映群篇。挫拉言<ptr target="fn06"/>初<lb ed="T" n="0610a12"/>流威滅後。所以履歷談對眾皆杜詞。故得<lb ed="T" n="0610a13"/>立破眾家。百有餘計。並莫敢當其鋒銳也。<lb ed="T" n="0610a14"/>時以其<ptr target="fn07"/>彭亨罕敵。號之為律虎焉。至於<lb ed="T" n="0610a15"/>斷處事途。多從<persName key="A005233">文</persName>相商度結正。僉<ptr target="fn08"/>義攸<lb ed="T" n="0610a16"/>歸廼下勅召為<placeName key="CN0130423T13AA">大莊嚴</placeName><placeName key="CN0130406T02AA">石窟</placeName>二寺上座。<date key="j19333311936719" notAfter-iso="0590" notBefore-iso="0581">皇<lb ed="T" n="0610a17"/>隋受命</date>。又勅任并州<placeName key="CN0140110T02AA">大興國寺</placeName>主。頻登綱<lb ed="T" n="0610a18"/>管善御大眾。化移前政實濟濟焉。以<date key="j19356721935672" when-iso="0587-08-03">開皇<lb ed="T" n="0610a19"/>七年六月二十二日</date>。終於所住。春秋六十有<lb ed="T" n="0610a20"/>四。葬于<placeName key="CN0140110Z01AA">并城</placeName>之西。建塔崇範。所製律疏。<lb ed="T" n="0610a21"/><ptr target="fn09"/>惟四分一本十卷是非鈔兩卷見存。餘並零<lb ed="T" n="0610a22"/>失。有弟子<persName key="A006376">道行</persName>者。器局淹和親傳師授。善<lb ed="T" n="0610a23"/>機悟明控引。談述疏旨不墜厥宗。每至<lb ed="T" n="0610a24"/>講散身導學徒。遶於<persName key="A006373">願</persName>塔致敬而返。及春<lb ed="T" n="0610a25"/>秋至節此例恒修。今年八十有餘。猶鋪疏<lb ed="T" n="0610a26"/>旨摘示諸<ptr target="fn10"/>測隱。時又有沙門<persName key="A006377">道龕</persName>。資學於<lb ed="T" n="0610a27"/><persName key="A006373">願</persName>。執教赴行學望最優。成進初心弘持<lb ed="T" n="0610a28"/><ptr target="fn11"/>獨秀。為<ptr target="fn12"/>時歎美。而素尚競肅遵若文宗。<lb ed="T" n="0610a29"/>纔有違忤即不參隷。故說戒序引有言。唱<lb ed="T" n="0610b01"/>白之者既無正制號為非法。雖初從眾侶。<lb ed="T" n="0610b02"/>後必重張。乃出郭結界。更說新本。斯亦貞<lb ed="T" n="0610b03"/>梗之嚴令也。太為剋<ptr target="fn13"/>峭未是倫通。至今此<lb ed="T" n="0610b04"/><ptr target="fn14"/>部猶多滯結云。</p>
+    <linkGrp>
+        <link targets="#0610a01 #0610a01"/>
+        <ptr target="#A006373" type="person"/>
+        <ptr target="#CN0141182Z15AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0610a03 #0610a03"/>
+        <ptr target="#A000689" type="person"/>
+        <ptr target="#CN0130423T03AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0610a02 #0610a04"/>
+        <ptr target="#A006373" type="person"/>
+        <ptr target="#A000689" type="person"/>
+        <ptr target="#CN0130423Z23AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0610a05 #0610a14"/>
+        <ptr target="#A006373" type="person"/>
+        <ptr target="#A005410" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0610a05 #0610a14"/>
+        <ptr target="#A006373" type="person"/>
+        <ptr target="#A005411" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0610a14 #0610a15"/>
+        <ptr target="#A006373" type="person"/>
+        <ptr target="#A005233" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0610a15 #0610a16"/>
+        <ptr target="#A006373" type="person"/>
+        <ptr target="#CN0130423T13AA" type="place"/>
+        </linkGrp>
+    <linkGrp>
+        <link targets="#0610a15 #0610a16"/>
+        <ptr target="#A006373" type="person"/>
+        <ptr target="#CN0130406T02AA" type="place"/>
+        </linkGrp>
+    <linkGrp>
+        <link targets="#0610a15 #0610a17"/>
+        <ptr target="#A006373" type="person"/>
+        <ptr target="#CN0140110T02AA" type="place"/>
+        <ptr target="#j19333311936719" type="time"/>
+        </linkGrp>
+    <linkGrp>
+        <link targets="#0610a18 #0610a19"/>
+        <ptr target="#A006373" type="person"/>
+        <ptr target="#CN0140110T02AA" type="place"/>
+        <ptr target="#j19356721935672" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0610a22 #0610a26"/>
+        <ptr target="#A006373" type="person"/>
+        <ptr target="#A006376" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0610a26 #0610b03"/>
+        <ptr target="#A006373" type="person"/>
+        <ptr target="#A006377" type="person"/>
+    </linkGrp>
+</div>

@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="bqnz0941c24faYuanNi">
+    <head>東<ptr target="fn＊"/>官<placeName key="CN0441323A01AA">曾成</placeName><persName key="A015466">法緣</persName>尼<ptr target="fn39"/>傳第一</head><p><anchor n="T.50.2063.0941c25"/><lb ed="T" n="0941c25"/><persName key="A015466">法<ptr target="fn40"/>緣</persName>，本姓<ptr target="fn41"/>侖，東<ptr target="fn＊"/>官<placeName key="CN0441323A01AA">曾成</placeName>人也。宋<date from-iso="0432-02-18" key="j18788931879247" to-iso="0433-02-06">元嘉九<lb ed="T" n="0941c26"/>年</date>，年十<ptr target="fn42"/>歲，妹<persName key="A015485">法綵</persName>年九歲，未識經法，忽以<lb ed="T" n="0941c27"/>其<date key="j18789301878930" when-iso="0432-03-26">年二月八日</date>俱失所在，經三日而歸，說至<lb ed="T" n="0941c28"/><placeName key="XZ0000002A01AA">淨土天宮</placeName>見佛，佛為開化。至<date key="j18791431879143" when-iso="0432-10-25">九月十五日</date>又<lb ed="T" n="0941c29"/>去，一旬乃還，<ptr target="fn43"/>便能作外國書語及<ptr target="fn44"/>誦經，見<lb ed="T" n="0942a01"/><placeName key="WW142XIYUE01AA">西域</placeName>人言謔，善相了解。<date key="j18792621879262" when-iso="0433-02-21">十年正月十五日</date>又<lb ed="T" n="0942a02"/>復失去，田中作人見其隨風飄颺上天。父母<lb ed="T" n="0942a03"/>憂<ptr target="fn1"/>之，祀神求福。既而經月乃返，返已出家，披<lb ed="T" n="0942a04"/>著法服，持髮而歸。自說見佛及比丘尼，語云：「<lb ed="T" n="0942a05"/>汝前世因緣，<ptr target="fn2"/>應為我弟子。」舉手摩頭，髮自墮<lb ed="T" n="0942a06"/><ptr target="fn3"/>落，為立法名，大<ptr target="fn4"/>名<persName key="A015466">法緣</persName>，小<ptr target="fn5"/>曰<persName key="A015485">法綵</persName>，臨遣<lb ed="T" n="0942a07"/>還曰：「可作精舍，當與汝經<ptr target="fn6"/>法也。」緣等還家，<lb ed="T" n="0942a08"/>即毀神座，繕立精<ptr target="fn7"/>廬，晝夜講誦。夕中每有五<lb ed="T" n="0942a09"/>色光明，流泛峯嶺，有若燈燭。自此<ptr target="fn8"/>以後，容止<lb ed="T" n="0942a10"/>華雅，音制詮正，上京諷誦，不能過也。刺史韋<lb ed="T" n="0942a11"/>朗、孔<ptr target="fn9"/>默並屈供養，聞其談說，甚敬異焉，因是<lb ed="T" n="0942a12"/><ptr target="fn10"/>土人皆事正法。年五十六，<date from-iso="0479-05-30" key="j18961611896404" to-iso="0480-01-28">建元中</date>卒<!--根據此文章推算應為建元元年--><ptr target="fn11"/>也。</p>
+    <linkGrp>
+        <link targets="#0941c25 #0941c27"/>
+        <ptr target="#A015466" type="person"/>
+        <ptr target="#A015485" type="person"/>
+        <ptr target="#CN0441323A01AA" type="place"/>
+        <ptr target="#j18789301878930" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0941c28 #0941c29"/>
+        <ptr target="#A015466" type="person"/>
+        <ptr target="#j18791431879143" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0942a01 #0942a03"/>
+        <ptr target="#A015466" type="person"/>
+        <ptr target="#j18792621879262" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0942a12 #0942a12"/>
+        <ptr target="#A015466" type="person"/>
+        <ptr target="#j18961611896404" type="time"/>
+    </linkGrp>
+</div>

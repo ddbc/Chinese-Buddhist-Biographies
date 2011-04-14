@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0399b15shiPuHeng">
+    <p><anchor n="T.50.2059.0399b16"/><lb ed="T" n="0399b16"/><persName key="A002312">釋普恒</persName>，姓郭，<placeName key="CN0510108Z13AA">蜀郡成都</placeName>人也。為兒童時，<ptr target="fn33"/>常<lb ed="T" n="0399b17"/>於日光中見聖僧在空中說法，向家人<lb ed="T" n="0399b18"/><ptr target="fn34"/>敘之，並未之信。後苦求出家，止<placeName key="CN0510101T14AA">治下安<lb ed="T" n="0399b19"/>樂寺</placeName>。獨處一房，不立眷屬，習<ptr target="fn35"/>靖業禪，善<lb ed="T" n="0399b20"/>入出住。與蜀<persName key="A003123">韜律師</persName><!-- 慧韜?? -->為同意。自說入火光<lb ed="T" n="0399b21"/>三昧，光從眉直下，至金剛際，於光中見諸<lb ed="T" n="0399b22"/>色像，先身業報，頗亦明了。<date key="j18960501896109" from-iso="0479-02-08" to-iso="0479-04-08">宋昇明三年</date>卒，春<lb ed="T" n="0399b23"/>秋七十有八。</p><p>未<ptr target="fn36"/>亡月日，忽與親知告別，竟<lb ed="T" n="0399b24"/>無慼顏，時人謂是戲言。將終之日，微有病<lb ed="T" n="0399b25"/>相，唯俗家一奴看之，明旦平坐而卒。奴不<lb ed="T" n="0399b26"/>解，強取臥之，屍竟不申。眾僧來見，<ptr target="fn37"/>便令坐<lb ed="T" n="0399b27"/>之。手屈三指，其餘皆申。眾僧試取捋之，亦<lb ed="T" n="0399b28"/>隨手即申，申已復更屈。</p><p>生時體<ptr target="fn38"/>黑，死更潔<lb ed="T" n="0399b29"/>白。於是依得道法闍維之。薪[卄/積]<!-- Unicode="27090" -->始然，便有<lb ed="T" n="0399c01"/>五色烟起，殊香芬馥。州將<persName key="A003340">王玄載</persName>乃為<persName key="A002312">之</persName>讚<lb ed="T" n="0399c02"/>曰：「大覺眇無像，懸應貴忘靖。一念會道場，<lb ed="T" n="0399c03"/>空過萬劫永。信心虛東想，遇聖藻西影。妙<lb ed="T" n="0399c04"/>趣澄三界，傳神四禪境。俗物故參差，真性<lb ed="T" n="0399c05"/>理恒炳。韜光寄浮世，遺德方化逈。」</p>
+    <linkGrp>
+        <link targets="#0399b22 #0399b23"/>
+        <ptr target="#A002312" type="person"/>
+        <ptr target="#j18960501896109" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0399b18 #0399b19"/>
+        <ptr target="#A002312" type="person"/>
+        <ptr target="#CN0510101T14AA" type="place"/>
+    </linkGrp>
+</div>

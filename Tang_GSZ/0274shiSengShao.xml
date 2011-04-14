@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0460a23shiSengShao">
+    <head><placeName key="CN0320101T41AA">梁楊都建元寺</placeName>沙門<persName key="A003142">釋僧韶</persName>傳二</head><p><anchor n="T.50.2060.0460a23"/><lb ed="T" n="0460a23"/><persName key="A003142">釋僧韶</persName>。姓王。<placeName key="CN0420525Z12AA">齊國高安</placeName>人。幼願拔俗。弱年<lb ed="T" n="0460a24"/>從志斂服。道俗恭敬師宗。美姿制善舉止。<lb ed="T" n="0460a25"/>情性溫和韻調清雅。好弘經<ptr target="fn04"/>數名顯州壤。<lb ed="T" n="0460a26"/>專以毘曇擅業。<date from-iso="0473" key="j18938651894272" to-iso="0474">元徽之初</date>始來<placeName key="CN0320106Z05AA">皇邑</placeName>住<placeName key="CN0320101T41AA">建<lb ed="T" n="0460a27"/>元寺</placeName>。寬厚閑澹不妄交游。<date from-iso="0464" key="j18907841896160" to-iso="0479">宋季</date>澆薄體裁<lb ed="T" n="0460a28"/>無准。物競目前榮枯俄頃。<persName key="A003142">韶</persName>閑房自守。狀<lb ed="T" n="0460a29"/>若無人。及<date from-iso="0479" key="j18961611896422" to-iso="0480">齊氏開泰</date>禮教夙被。白黑鑽仰講<lb ed="T" n="0460b01"/>說頻仍。後學知宗前修改觀。毘曇一部化流<lb ed="T" n="0460b02"/>海內。諮聽之徒常有百數。<persName key="A002654">齊文<ptr target="fn05"/>惠</persName>及<persName key="A002655">竟陵<lb ed="T" n="0460b03"/>王蕭子良</persName>。雅相欽禮。<placeName key="CN0371581Z02AA">清河</placeName><persName key="A015028">崔慧</persName>。親從北面諮<lb ed="T" n="0460b04"/>承餘誨。以<date key="j19051751905529" from-iso="0504-02-03" to-iso="0505-01-22">天監三年</date>卒于住<placeName key="CN0320101T41AA">寺</placeName>。春秋五十有<lb ed="T" n="0460b05"/>八。時<placeName key="CN0320101T41AA">建元</placeName>又有<persName key="A004376">法朗</persName>。兼以<ptr target="fn06"/>慧學知名。本<lb ed="T" n="0460b06"/>姓沈氏。<placeName key="CN0330521Z12AA">吳興武康</placeName>人。家遭世禍因住<placeName key="CN0320106Z05AA">建業</placeName>。<lb ed="T" n="0460b07"/><date key="j18902031890557" from-iso="0463-02-05" to-iso="0464-01-25">大明七年</date>與兄<persName key="A005016">法亮</persName>。被勅紹繼<persName key="A002335">慧益</persName>出家。<lb ed="T" n="0460b08"/>初住<placeName key="CN0320101T69AA">藥王寺</placeName>。<persName key="A005016">亮</persName>履行高潔經數修明。<persName key="A004376">朗</persName>稟性<lb ed="T" n="0460b09"/>疎率不事威儀。聲轉有聞義解傳譽。集注<lb ed="T" n="0460b10"/>涅槃勒成部帙。而言謔調笑不擇交遊。高<lb ed="T" n="0460b11"/>人勝己<ptr target="fn07"/>見必齒錄。並卒于<date from-iso="0502" key="j19045331911021" to-iso="0520">天監中</date>。</p>
+    <linkGrp>
+        <link targets="#0460a23 #0460a23"/>
+        <ptr target="#A003142" type="person"/>
+        <ptr target="#CN0420525Z12AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0460a26 #0460a27"/>
+        <ptr target="#A003142" type="person"/>
+        <ptr target="#CN0320101T41AA" type="place"/>
+        <ptr target="#j18938651894272" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0460a27 #0460a29"/>
+        <ptr target="#A003142" type="person"/>
+        <ptr target="#j18907841896160" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0460a29 #0460b03"/>
+        <ptr target="#A003142" type="person"/>
+        <ptr target="#A002654" type="person"/>
+        <ptr target="#A002655" type="person"/>
+        <ptr target="#CN0320101T41AA" type="place"/>
+        <ptr target="#j18961611896422" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0460b03 #0460b04"/>
+        <ptr target="#A015028" type="person"/>
+        <ptr target="#CN0371581Z02AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0460b03 #0460b04"/>
+        <ptr target="#A015028" type="person"/>
+        <ptr target="#A003142" type="person"/>
+        <ptr target="#CN0320101T41AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0460b04 #0460b05"/>
+        <ptr target="#A003142" type="person"/>
+        <ptr target="#CN0320101T41AA" type="place"/>
+        <ptr target="#j19051751905529" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0460b04 #0460b05"/>
+        <ptr target="#A003142" type="person"/>
+        <ptr target="#A004376" type="person"/>
+        <ptr target="#CN0320101T41AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0460b05 #0460b07"/>
+        <ptr target="#A005016" type="person"/>
+        <ptr target="#A004376" type="person"/>
+        <ptr target="#CN0330521Z12AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0460b07 #0460b08"/>
+        <ptr target="#A004376" type="person"/>
+        <ptr target="#A005016" type="person"/>
+        <ptr target="#A002335" type="person"/>
+        <ptr target="#j18902031890557" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0460b07 #0460b08"/>
+        <ptr target="#A004376" type="person"/>
+        <ptr target="#A005016" type="person"/>
+        <ptr target="#CN0320101T69AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0460b11 #0460b11"/>
+        <ptr target="#A004376" type="person"/>
+        <ptr target="#A005016" type="person"/>
+        <ptr target="#j19045331911021" type="time"/>
+    </linkGrp>
+</div>

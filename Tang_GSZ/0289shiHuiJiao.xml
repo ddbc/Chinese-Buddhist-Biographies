@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0471b14shiHuiJiao">
+    <head><placeName key="CN0330601T09AA">梁會稽嘉祥寺</placeName><persName key="A001724">釋慧皎</persName>傳五</head><p><anchor n="T.50.2060.0471b14"/><lb ed="T" n="0471b14"/><persName key="A001724">釋慧皎</persName>。未詳氏族。<placeName key="CN0330602Z02AA">會稽</placeName><placeName key="CN0330682Z13AA">上虞</placeName>人。學通內外<lb ed="T" n="0471b15"/>博訓經律。住<placeName key="CN0330601T09AA">嘉祥寺</placeName>。春夏弘法秋冬著述。<lb ed="T" n="0471b16"/>撰涅槃義疏十卷及梵網經疏行世。又以<lb ed="T" n="0471b17"/><persName key="A001926">唱公</persName>所撰名僧頗多浮沈。因遂開例成廣。<lb ed="T" n="0471b18"/>著高僧傳一十四卷。其序略云。前之作者。或<lb ed="T" n="0471b19"/>嫌以繁廣刪減其事。而抗迹之奇多所遺<lb ed="T" n="0471b20"/>削。謂出家之士處國賓王。不應勵然自遠<lb ed="T" n="0471b21"/>高蹈獨絕尋辭榮棄愛本以異俗為賢。若<lb ed="T" n="0471b22"/>此而不論竟何所紀。又云。自前代所撰。多<lb ed="T" n="0471b23"/>曰名僧。然名者本實之賓也。若實行潛光。<lb ed="T" n="0471b24"/>則高而不名。若寡德適時。則名而不高。名<lb ed="T" n="0471b25"/>而不高本非所紀。高而不名則備今錄。故<lb ed="T" n="0471b26"/>省名音代以高字。傳成通國傳之。實為龜<lb ed="T" n="0471b27"/>鏡。文義明約即世崇重。後不知所終。<placeName key="CN0000007D01AA">江表</placeName><lb ed="T" n="0471b28"/>多有。<persName key="A015418">裴子野</persName>高僧傳一帙十卷。文極省約未<lb ed="T" n="0471b29"/>極通鑒。故其差少。</p>
+    <linkGrp>
+        <link targets="#0471b14 #0471b14"/>
+        <ptr target="#A001724" type="person"/>
+        <ptr target="#CN0330682Z13AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0471b14 #0471b18"/>
+        <ptr target="#A001724" type="person"/>
+        <ptr target="#CN0330601T09AA" type="place"/>
+        </linkGrp>
+</div>

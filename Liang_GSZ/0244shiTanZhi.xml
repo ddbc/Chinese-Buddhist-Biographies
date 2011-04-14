@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0414a29shiTanZhi">
+    <p><anchor n="T.50.2059.0414a29"/><lb ed="T" n="0414a29"/><persName key="A003481">釋曇智</persName>，姓王，<placeName key="CN0320106Z06AA">建康</placeName>人。出家止<placeName key="CN0320115T63AA">東安寺</placeName>。性風<lb ed="T" n="0414b01"/>流，善舉止。能談莊老，經論書史，多所綜涉。<lb ed="T" n="0414b02"/>既有高亮之聲，雅好轉讀。雖依擬前宗，而<lb ed="T" n="0414b03"/>獨拔新異。高調清徹，寫送有餘。<persName key="A002105">宋孝武</persName>、<persName key="A002068">蕭思<lb ed="T" n="0414b04"/>話</persName>、<persName key="A003118">王僧虔</persName>等，並深加識重。<persName key="A003118">僧虔</persName>臨<placeName key="CN0430105Z01AA">湘州</placeName>，携<lb ed="T" n="0414b05"/>與同行。<persName key="A002068">蕭</persName>守<placeName key="CN0320503Z22AA">吳</placeName>，復招同入。<date key="j18989741899327" from-iso="0487-02-10" to-iso="0488-01-29">齊永明五年</date>卒於<lb ed="T" n="0414b06"/><placeName key="CN0320503Z22AA">吳國</placeName>，年七十九。</p><p><ptr target="fn14"/>時有<persName key="A003482">道朗</persName>、<persName key="A003483">法忍</persName>、<persName key="A003484">智欣</persName>、<persName key="A003485">慧光</persName>，<lb ed="T" n="0414b07"/>並無餘解，薄能轉讀。<persName key="A003482">道朗</persName>捉調小緩，<persName key="A003483">法忍</persName>好<lb ed="T" n="0414b08"/>存擊切，<persName key="A003484">智欣</persName>善能側調，<persName key="A003485">慧光</persName>喜騁飛聲。</p>
+    <linkGrp>
+        <link targets="#0414a29 #0414a29"/>
+        <ptr target="#A003481" type="person"/>
+        <ptr target="#CN0320115T63AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0414b03 #0414b05"/>
+        <ptr target="#A003481" type="person"/>
+        <ptr target="#A002105" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0414b03 #0414b05"/>
+        <ptr target="#A003481" type="person"/>
+        <ptr target="#A002068" type="person"/>
+        <ptr target="#CN0320503Z22AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0414b03 #0414b05"/>
+        <ptr target="#A003481" type="person"/>
+        <ptr target="#A003118" type="person"/>
+        <ptr target="#CN0430105Z01AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0414b05 #0414b06"/>
+        <ptr target="#A003481" type="person"/>
+        <ptr target="#CN0320503Z22AA" type="place"/>
+        <ptr target="#j18989741899327" type="time"/>
+    </linkGrp>
+</div>

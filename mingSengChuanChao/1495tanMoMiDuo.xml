@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><div xml:id="mscc0355b01tanMoMiDuo" xmlns="http://www.tei-c.org/ns/1.0"><head>宋<placeName key="CN0320115T17AA">定林寺</placeName><persName key="A001786">曇摩蜜多</persName></head><p><anchor n="X.77.1523.0355b01"/><lb ed="X" n="0355b01"/>曇摩密多(梁言<persName key="A001786">法友</persName>)。少稟道化。喰味玄秘。為三寶之勇卒。<lb ed="X" n="0355b02"/>法城之巨塹。諷誦經藏。堅持律部。偏好禪那。兼修定<lb ed="X" n="0355b03"/>品。心安虗靜。思達玄微。志願遊方。弘通禪悅。於是汎<lb ed="X" n="0355b04"/>泊來東。以<date from-iso="0422-06-27" to-iso="0423-01-28" key="j18753701875585">宋永初三年</date>。始至<placeName key="CN0421003Z03AA">江陵</placeName>。住<placeName key="CN0421003T06AA">長沙寺</placeName>。旬日之<lb ed="X" n="0355b05"/>中。得一舍利。形質雖小。光色異常。以鉢水汎之。<ptr target="fn4"/>遙淥<lb ed="X" n="0355b06"/>右轉。乍浮乍沈。光[卄/(澄-豆+示)]炳煥。眾皆驚此神奇。嗟歎盈路。<lb ed="X" n="0355b07"/><date from-iso="0424-09-18" to-iso="0431-11-02" key="j18761841878785">元嘉初</date>來集<ref type="place" target="#CN0320106Z05AA">京師</ref>。住<placeName key="CN0320116T04AA">祇洹寺</placeName>。譯普賢觀經一分。虗空<lb ed="X" n="0355b08"/>藏觀一分。至<date from-iso="0433-02-07" to-iso="0434-01-26" key="j18792481879601">十年</date>移憩<placeName key="CN0320115T17AA">定林</placeName>。業遠囂動。專務清寂。更<lb ed="X" n="0355b09"/>華。寺後別禪堂。師友十餘。並雅精業。晝夜不休。供施<lb ed="X" n="0355b10"/>雲集。以<date from-iso="0441-02-08" to-iso="0442-01-27" key="j18821711882524">十八年</date>。更譯禪秘要三分。五門禪經一分。春<lb ed="X" n="0355b11"/>秋八十。<date from-iso="0442-07-25" to-iso="0442-08-22" key="j18827031882731">元嘉十九年六月</date>。卒于寺(云云)。</p>
+    <linkGrp>
+        <link targets="#0355b04 #0355b06"/>
+        <ptr type="person" target="#A001786"/>
+        <ptr type="place" target="#CN0421003T06AA"/>
+        <ptr type="time" target="#j18753701875585"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0355b07 #0355b08"/>
+        <ptr type="person" target="#A001786"/>
+        <ptr type="place" target="#CN0320116T04AA"/>
+        <ptr type="time" target="#j18761841878785"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0355b08 #0355b10"/>
+        <ptr type="person" target="#A001786"/>
+        <ptr type="place" target="#CN0320115T17AA"/>
+        <ptr type="time" target="#j18792481879601"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0355b10 #0355b10"/>
+        <ptr type="person" target="#A001786"/>
+        <ptr type="time" target="#j18821711882524"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0355b10 #0355b11"/>
+        <ptr type="person" target="#A001786"/>
+        <ptr type="time" target="#j18827031882731"/>
+    </linkGrp>
+</div>
+

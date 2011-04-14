@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0657a21xiangSheLi">
+    <p><anchor n="T.50.2060.0657a21"/><lb ed="T" n="0657a21"/><persName key="A006906">香闍梨</persName>者。莫測其來。以<date key="j19045331909604" notAfter-iso="0516" notBefore-iso="0502">梁初</date>至<placeName key="CN0510181T01AA">益州青城<lb ed="T" n="0657a22"/>山飛赴寺</placeName>。欣然有終志。時俗每至三月<lb ed="T" n="0657a23"/>三日。必往<placeName key="CN0510181M01AA">山</placeName>遊賞。多將酒肉共相酣樂。前<lb ed="T" n="0657a24"/>後勸喻曾未能斷。後年三月。又如前集。<lb ed="T" n="0657a25"/>例坐已了。<persName key="A006906">香</persName>令人於座穿坑方丈。人莫知<lb ed="T" n="0657a26"/>意。謂人曰。檀越等恒自飲噉。未曾與<persName key="A006906">香</persName>。今<lb ed="T" n="0657a27"/>日為眾須飡一頓。諸人爭奉肴酒。隨得隨<lb ed="T" n="0657a28"/>盡。若填巨壑。識者怪之。至晚曰。<persName key="A006906">我</persName>大醉<lb ed="T" n="0657a29"/>飽。扶<persName key="A006906">我</persName>就坑不爾污地。及至坑所。張口大<lb ed="T" n="0657b01"/>吐<ptr target="fn03"/>雞肉自口出。即能飛鳴。羊肉自口出。<lb ed="T" n="0657b02"/>即馳走。酒食亂出。將欲滿坑。魚䱉鵝鴨游<lb ed="T" n="0657b03"/>泳交錯。眾咸驚嗟。誓斷辛殺。迄今酒肉永<lb ed="T" n="0657b04"/>絕上山。此<persName key="A006906">香</persName>之風德也。<placeName key="CN0510108Z32AA">益州</placeName>別駕<persName key="A006914">羅研</persName>朝<lb ed="T" n="0657b05"/>梁。<persName key="A002296">誌公</persName>謂曰。<placeName key="CN0510108Z32AA">益州</placeName><persName key="A006906">香</persName>貴賤。答曰甚賤。初不<lb ed="T" n="0657b06"/>謂是人也。<persName key="A002296">誌</persName>曰。既為人所賤。何為久留。<persName key="A006914">研</persName><lb ed="T" n="0657b07"/>亦不測此語。為有識者說之。或曰。將不指<lb ed="T" n="0657b08"/><placeName key="CN0510181M01AA">青城</placeName><persName key="A006906">香闍梨</persName>乎。遂往山具述。<persName key="A006906">香</persName>曰。檀越遠<lb ed="T" n="0657b09"/>來。固非虛說。其夜便化。弟子等營墓將殯。<lb ed="T" n="0657b10"/>怪棺太輕。及開止見几杖而已。</p>
+    <linkGrp>
+        <link targets="#0657a21 #0657a22"/>
+        <ptr target="#A006906" type="person"/>
+        <ptr target="#CN0510181T01AA" type="place"/>
+        <ptr target="#j19045331909604" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0657a22 #0657b04"/>
+        <ptr target="#A006906" type="person"/>
+        <ptr target="#CN0510181M01AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0657b04 #0657b04"/>
+        <ptr target="#A006914" type="person"/>
+        <ptr target="#CN0510108Z32AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0657b04 #0657b06"/>
+        <ptr target="#A002296" type="person"/>
+        <ptr target="#A006914" type="person"/>
+        <ptr target="#CN0320106Z05AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0657b04 #0657b09"/>
+        <ptr target="#A002296" type="person"/>
+        <ptr target="#A006906" type="person"/>
+        <ptr target="#CN0510181M01AA" type="place"/>
+    </linkGrp>
+</div>

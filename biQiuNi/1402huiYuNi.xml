@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="bqnz0937c23huiYuNi">
+    <head>江陵<placeName key="CN0421003T23AA">牛牧寺</placeName><persName key="A015024">慧玉</persName>尼<ptr target="fn48"/>傳三</head>
+    <p><anchor n="T.50.2063.0937c24"/><lb ed="T" n="0937c24"/><persName key="A015024">慧玉</persName>，<placeName key="CN0610112Z07AA">長安</placeName>人也。行業勤修，經戒通備。常遊行<lb ed="T" n="0937c25"/>教化，歷履邦邑，每屬機緣，不避寒暑。南至<placeName key="CN0400000E02AA">荊<lb ed="T" n="0937c26"/>楚</placeName>，仍住江陵<placeName key="CN0421003T23AA">牛牧精舍</placeName>。誦法華、首楞嚴等經，<lb ed="T" n="0937c27"/>旬日通利。<ptr target="fn49"/>郯西道俗，皆歸敬<ptr target="fn50"/>之。觀覽經論，<lb ed="T" n="0937c28"/>未曾廢息。<date from-iso="0437-11-15" key="j18809901881018" to-iso="0437-12-13">元嘉十四年十月</date>為苦行，齋七日，<lb ed="T" n="0937c29"/>乃立誓言：「若誠齋有感，捨身之後，必見佛<lb ed="T" n="0938a01"/><ptr target="fn1"/>者。願於七日之內，見佛光明。」五日中宵，<ref target="#CN0421003T23AA" type="place">寺</ref> 東<lb ed="T" n="0938a02"/>林樹，靈光赫然。即以告眾，眾皆欣敬，加悅服<lb ed="T" n="0938a03"/>焉。寺主<persName key="A002532">法弘</persName>，後於光處起立禪室。</p>
+    <p>初<persName key="A015024">玉</persName>在<placeName key="CN0610112Z07AA">長<lb ed="T" n="0938a04"/>安</placeName>，於<placeName key="CN0610112T10AA">薛尚書寺</placeName>見紅白色光，燭曜左右。十日<lb ed="T" n="0938a05"/>小歇。後<placeName key="CN0000000T04AA">六重寺</placeName>沙門。四月八日於光處得金<lb ed="T" n="0938a06"/>彌勒像，高一尺云。</p>
+    <linkGrp>
+        <link targets="#0937c28 #0938a03"/>
+        <ptr target="#A015024" type="person"/>
+        <ptr target="#j18809901881018" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0938a03 #0938a03"/>
+        <ptr target="#A015024" type="person"/>
+        <ptr target="#A002532" type="person"/>
+        <ptr target="#CN0421003T23AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0937c25 #0937c27"/>
+        <ptr target="#A015024" type="person"/>
+        <ptr target="#CN0421003T23AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0938a03 #0938a06"/>
+        <ptr target="#A015024" type="person"/>
+        <ptr target="#CN0610112T10AA" type="place"/>
+    </linkGrp>
+</div>

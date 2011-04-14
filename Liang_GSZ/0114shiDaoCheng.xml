@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0375c28shiDaoCheng">
+	<p><anchor n="T.50.2059.0375c28"/><lb ed="T" n="0375c28"/><persName key="A001535">釋道盛</persName>，姓朱，<placeName key="CN0340621Z32AA">沛國</placeName>人。幼<ptr target="fn18"/>而出家務學，善《涅<lb ed="T" n="0375c29"/>槃》、《維摩》，兼通《周易》。始住<placeName key="CN0430105Z01AA">湘州</placeName>，<persName key="A002652">宋明</persName>承風，勅<lb ed="T" n="0376a01"/>令下<placeName key="CN0320106Z05AA">京</placeName>，止<placeName key="CN0320103T06AA">彭城寺</placeName>。<persName key="A003027">謝超宗</persName>一遇，遂敬以師<lb ed="T" n="0376a02"/>禮。迺著〈述交論〉及〈生死本無源論〉等。後憩<placeName key="CN0320114T08AA">天<lb ed="T" n="0376a03"/>保寺</placeName>，<persName key="A003039">齊高帝</persName>勅代<persName key="A002999">曇度</persName>為僧主。<placeName key="CN0320105Z01AA">丹<ptr target="fn01"/>陽尹</placeName><persName key="A003040">沈<lb ed="T" n="0376a04"/>文季</persName>素奉黃、老，排嫉能仁。迺建義符僧局，<lb ed="T" n="0376a05"/>責僧屬籍，欲沙簡僧尼，由<persName key="A001535">盛</persName>綱領有功，事<lb ed="T" n="0376a06"/>得寧寢。<ptr target="fn02"/>後<persName key="A003040">文季</persName>故於<ptr target="fn03"/><placeName key="CN0320114T08AA">天保</placeName>設會，令<persName key="A003041">陸修<lb ed="T" n="0376a07"/>靜</persName>與<persName key="A001535">盛</persName>論議。<persName key="A001535">盛</persName>既理有所長，又<ptr target="fn04"/>詞氣俊發，<lb ed="T" n="0376a08"/>嘲謔往還，言無暫<ptr target="fn05"/>擾。<persName key="A003041">靜</persName>意不獲申，<ptr target="fn06"/>恧焉<lb ed="T" n="0376a09"/>而退。<persName key="A001535">盛</persName>以<date key="j18974971901513" notAfter-iso="0494" notBefore-iso="0483">齊永明中</date>卒，春秋六十餘矣。</p>
+	
+	<linkGrp>
+		<link targets="#0375c29 #0375c29"/>
+		<ptr target="#A001535" type="person"/>
+		<ptr target="#CN0430105Z01AA" type="place"/>
+	</linkGrp>
+	<linkGrp>
+		<link targets="#0375c29 #0376a01"/>
+		<ptr target="#A001535" type="person"/>
+		<ptr target="#A002652" type="person"/>
+		<ptr target="#CN0320106Z05AA" type="place"/>
+	</linkGrp>
+	<linkGrp>
+		<link targets="#0375c29 #0376a02"/>
+		<ptr target="#A001535" type="person"/>
+		<ptr target="#A003027" type="person"/>
+		<ptr target="#CN0320103T06AA" type="place"/>
+	</linkGrp>
+	<linkGrp>
+		<link targets="#0376a02 #0376a03"/>
+		<ptr target="#A001535" type="person"/>
+		<ptr target="#CN0320114T08AA" type="place"/>
+	</linkGrp>
+	<linkGrp>
+		<link targets="#0376a03 #0376a03"/>
+		<ptr target="#A001535" type="person"/>
+		<ptr target="#A003039" type="person"/>
+	</linkGrp>
+	<linkGrp>
+		<link targets="#0376a06 #0376a09"/>
+		<ptr target="#A001535" type="person"/>
+		<ptr target="#A003040" type="person"/>
+		<ptr target="#A003041" type="person"/>
+		<ptr target="#CN0320114T08AA" type="place"/>
+	</linkGrp>
+	<linkGrp>
+		<link targets="#0376a09 #0376a09"/>
+		<ptr target="#A001535" type="person"/>
+		<ptr target="#j18974971901513" type="time"/>
+	</linkGrp>
+</div>

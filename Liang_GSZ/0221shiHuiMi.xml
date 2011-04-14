@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0408c15shiHuiMi">
+    <p><anchor n="T.50.2059.0408c15"/><lb ed="T" n="0408c15"/><persName key="A002358">釋慧彌</persName>，姓楊氏，<placeName key="CN0610582Z12AA">弘農華陰</placeName>人。漢太尉<persName key="A003422">震</persName>之後<lb ed="T" n="0408c16"/>裔也。<date key="j18872471887611" from-iso="0455-01-02" to-iso="0456-01-01">年十六</date>出家。及具戒之後，志修遠離，<lb ed="T" n="0408c17"/>迺入<placeName key="CN0610125M01AA">長安終南山</placeName>。巖谷險絕，軌迹莫至，<persName key="A002358">彌</persName>負<lb ed="T" n="0408c18"/>錫獨前，<ptr target="fn18"/>猛虎肅兕無擾。少誦《大品》，又精<lb ed="T" n="0408c19"/>修三昧，於是剪茅結宇，以為栖神之宅。時<lb ed="T" n="0408c20"/>至則持鉢入村，食竟則還室禪誦，如此者<lb ed="T" n="0408c21"/>八年。</p><p>後聞江東有法之盛，迺觀化<placeName key="CN0320106Z05AA">京師</placeName>，止<lb ed="T" n="0408c22"/>于<placeName key="CN0320102T04AA">鍾山定林寺</placeName>，習業如先。為人溫恭<ptr target="fn19"/>冲讓，<lb ed="T" n="0408c23"/>喜慍無色，戒範精明，獎化忘勌，諮賢求善，<lb ed="T" n="0408c24"/>恒若未足。凡黑白造山禮拜者，皆為說法<lb ed="T" n="0408c25"/>提誘，以代餚饌。爰自出家，至于衰老，葷醪<lb ed="T" n="0408c26"/>鮮豢，一皆永絕，足不出<ptr target="fn20"/>戶三十餘年。曉夜<lb ed="T" n="0408c27"/>習定，常誦《<ptr target="fn21"/>波若》，六時禮懺，必為眾先。以<lb ed="T" n="0408c28"/><date key="j19105341910534" when-iso="0518-10-06">梁天監十七年閏八月十五日</date>終於<placeName key="CN0320102T04AA">山舍</placeName>，春<lb ed="T" n="0408c29"/>秋七十有九。葬于<placeName key="CN0320102T04AA">寺</placeName>南，立碑頌德。</p><p>時<placeName key="CN0320102T04AA">定林</placeName><lb ed="T" n="0409a01"/>又有沙門<persName key="A003423">法仙</persName>，亦誦經有素行。後還<placeName key="CN0320503Z01AA">吳</placeName>為<lb ed="T" n="0409a02"/>僧正，卒於<placeName key="CN0320503Z01AA">彼</placeName>。</p>
+    <linkGrp>
+        <link targets="#0408c21 #0408c23"/>
+        <ptr target="#A002358" type="person"/>
+        <ptr target="#CN0320102T04AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0408c29 #0409a02"/>
+        <ptr target="#A003423" type="person"/>
+        <ptr target="#CN0320102T04AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0408c29 #0409a02"/>
+        <ptr target="#A003423" type="person"/>
+        <ptr target="#CN0320503Z01AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0408c16 #0408c17"/>
+        <ptr target="#A002358" type="person"/>
+        <ptr target="#CN0610125M01AA" type="place"/>
+        <ptr target="#j18872471887611" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0408c28 #0408c29"/>
+        <ptr target="#A002358" type="person"/>
+        <ptr target="#CN0320102T04AA" type="place"/>
+        <ptr target="#j19105341910534" type="time"/>
+    </linkGrp>
+</div>

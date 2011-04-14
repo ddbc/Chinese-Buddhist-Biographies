@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0671c20shiYuanChao">
+    <p><anchor n="T.50.2060.0671c20"/><lb ed="T" n="0671c20"/><persName key="A007211">釋圓超</persName>。觀州<placeName key="CN0131128Z10AA">阜城</placeName>人。十地涅槃是其經略。言<lb ed="T" n="0671c21"/>行所表必詢猷焉。晚住<placeName key="CN0610102Z14AA">京</placeName>寺策名臺省。<date key="j19415741942058" notAfter-iso="0605" notBefore-iso="0603">仁<lb ed="T" n="0671c22"/>壽<ptr target="fn26"/>末歲</date>。下勅造塔於<ptr target="fn27"/><placeName key="CN0450722Z34AA">廉州</placeName><placeName key="CN0450722T01AA">化城寺</placeName>。初達<lb ed="T" n="0671c23"/><placeName key="CN0450722Z34AA">州</placeName>西四十餘里。道俗導引競列長幡。南風勁<lb ed="T" n="0671c24"/>利樹林北靡。<ptr target="fn＊"/>惟有幡脚南北相分。雖為風<lb ed="T" n="0671c25"/>吹都不移亂。及初行道設二佛盤。忽有蜻<lb ed="T" n="0671c26"/>蛉二枚各在盤上。相當而住。形極麁大長五<lb ed="T" n="0671c27"/>寸許。色麗青綠大如人指。七日相續如前停<lb ed="T" n="0671c28"/>住。行道既散欻然飛去。比後下塔還復飛來。<lb ed="T" n="0671c29"/>填埋都了絕而不見。當下正中。塔基上空。<lb ed="T" n="0672a01"/>五色慶雲狀如傘蓋。方直齊正如人所為。<lb ed="T" n="0672a02"/>雲下見一白<ptr target="fn01"/>鵠翔飛旋轉。事了俱散。<persName key="A007211">超</persName>還<lb ed="T" n="0672a03"/><placeName key="CN0610102Z14AA">京室</placeName>不測其終。</p>
+    <linkGrp>
+        <link targets="#0671c20 #0671c20"/>
+        <ptr target="#A007211" type="person"/>
+        <ptr target="#CN0131128Z10AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0671c21 #0671c21"/>
+        <ptr target="#A007211" type="person"/>
+        <ptr target="#CN0610102Z14AA" type="place"/>
+        </linkGrp>
+    <linkGrp>
+        <link targets="#0671c21 #0672a02"/>
+        <ptr target="#A007211" type="person"/>
+        <ptr target="#CN0450722T01AA" type="place"/>
+        <ptr target="#j19415741942058" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0672a02 #0672a03"/>
+        <ptr target="#A007211" type="person"/>
+        <ptr target="#CN0610102Z14AA" type="place"/>
+        <ptr target="#j19415741942058" type="time"/>
+    </linkGrp>
+</div>

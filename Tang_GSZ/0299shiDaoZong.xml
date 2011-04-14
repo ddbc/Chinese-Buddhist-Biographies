@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0474a23shiDaoZong">
+    <head><placeName key="CN0320104T02AA">梁楊都瓦官寺</placeName><persName key="A003124">釋道宗</persName>傳十五</head><p><anchor n="T.50.2060.0474a23"/><lb ed="T" n="0474a23"/><persName key="A003124">釋道宗</persName>。未知氏族。<placeName key="CN0421003Z03AA">荊州江陵</placeName>人。早年離俗<lb ed="T" n="0474a24"/>住<placeName key="CN0320104T02AA">瓦官寺</placeName>。情性真直不務馳競。耳不妄屬<lb ed="T" n="0474a25"/>口不<ptr target="fn08"/>狂言。修身潔己動靜有度。歷學經<lb ed="T" n="0474a26"/>論了無常師。終日寢處卷軸而已。清談高<lb ed="T" n="0474a27"/>論聽者忘疲。衣裳麁弊飲食疎儉。遭值年飢<lb ed="T" n="0474a28"/>入里不給。南遊<placeName key="CN0400000E07AA">嶺表</placeName>其道大行。以死自誓<lb ed="T" n="0474a29"/>誘化不息。年五十餘卒於彼土。復有<persName key="A005115">法敝</persName>。<lb ed="T" n="0474b01"/>住<placeName key="CN0320102T18AA">延賢寺</placeName>。少研經數長多講說。<date key="j19024331904523" notAfter-iso="0502" notBefore-iso="0496">齊末</date>歲儉。<lb ed="T" n="0474b02"/>固窮守操清貧。馳務不競貪積。<date key="j19045331906155" notAfter-iso="0506" notBefore-iso="0502">天監初</date>。西<lb ed="T" n="0474b03"/>遊陸海東歸<ptr target="fn09"/>全<placeName key="CN0400000E01AA">楚</placeName>。弘宣有功焉。</p>
+    <linkGrp>
+        <link targets="#0474a23 #0474a23"/>
+        <ptr target="#A003124" type="person"/>
+        <ptr target="#CN0421003Z03AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0474a23 #0474a24"/>
+        <ptr target="#A003124" type="person"/>
+        <ptr target="#CN0320104T02AA" type="place"/>
+        </linkGrp>
+    <linkGrp>
+        <link targets="#0474a27 #0474a28"/>
+        <ptr target="#A003124" type="person"/>
+        <ptr target="#CN0400000E07AA" type="place"/>
+        </linkGrp>
+    <linkGrp>
+        <link targets="#0474a29 #0474b02"/>
+        <ptr target="#A005115" type="person"/>
+        <ptr target="#CN0320102T18AA" type="place"/>
+        <ptr target="#j19024331904523" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0474b02 #0474b03"/>
+        <ptr target="#A005115" type="person"/>
+        <ptr target="#CN0400000E01AA" type="place"/>
+        <ptr target="#j19045331906155" type="time"/>
+    </linkGrp>
+</div>

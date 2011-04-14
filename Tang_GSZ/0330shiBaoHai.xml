@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0492b23shiBaoHai">
+    <p><anchor n="T.50.2060.0492b23"/><lb ed="T" n="0492b23"/><persName key="A005319">釋寶海</persName>。姓龔。<placeName key="CN0511381Z20AA">巴西閬中</placeName>人。少出家有遠志。<lb ed="T" n="0492b24"/>承<placeName key="CN0320106Z05AA">楊都</placeName>佛法崇盛。便決誓下<placeName key="CN0000000D01AA">峽</placeName>。既至<placeName key="CN0320106Z05AA">金陵</placeName>。<lb ed="T" n="0492b25"/>依<persName key="A000729">雲法師</persName>聽習成實。旁經諸席亟發清譽。<lb ed="T" n="0492b26"/>乃引眾別講徒屬兼多。于時<ptr target="fn18"/><persName key="A002098">梁高</persName>重法自<lb ed="T" n="0492b27"/>講涅槃。命<persName key="A005319">海</persName>論佛性義。便昇論榻。雖往返<lb ed="T" n="0492b28"/>言晤而執鍮<ptr target="fn19"/>石香爐。<persName key="A002098">帝</persName>曰。<persName key="A005319">法師</persName>雖斷慳貪。<lb ed="T" n="0492b29"/>香爐非<ptr target="fn20"/>鍮不執。<persName key="A005319">海</persName>應聲曰。<persName key="A002098">陛下</persName>位居宸<lb ed="T" n="0492c01"/>極。帽簪非纛不戴。<persName key="A002098">帝</persName>大悅。眾咸驚歎。及後<lb ed="T" n="0492c02"/>還<placeName key="CN0510108Z03AA">蜀</placeName>住<placeName key="CN0510108T04AA">謝<ptr target="fn21"/>鎮寺</placeName>。大弘講肆。<persName key="A005072">武陵王紀</persName>作<lb ed="T" n="0492c03"/>鎮<placeName key="CN0510108Z03AA">井絡</placeName>。敬愛無已。每就<persName key="A005319">海</persName>宿<ptr target="fn22"/>清談玄理。<lb ed="T" n="0492c04"/>乃忘晝夜。至旦<persName key="A005072">王</persName>將<ptr target="fn23"/>灌手。日影初出。<persName key="A005072">王</persName><lb ed="T" n="0492c05"/>曰。日暉粉壁狀似城中。風動剎鈴方知寺<lb ed="T" n="0492c06"/>裏。其晨車蓋迎<persName key="A005072">王</persName>。馬復嘶鳴。<persName key="A005319">海</persName>曰。遙看蓋<lb ed="T" n="0492c07"/>動喜遇<persName key="A006014">陳思</persName>。忽聽馬鳴慶逢<persName key="A001482">龍樹</persName>。相與<lb ed="T" n="0492c08"/>欣笑而出。<persName key="A005072">王</persName>昇車謂御從曰。聽<persName key="A005319">海法師</persName>言<lb ed="T" n="0492c09"/>詞。令<persName key="A005072">我</persName><ptr target="fn24"/>盤桓而不能去。其<ptr target="fn25"/>辯給無方為<lb ed="T" n="0492c10"/>此例也。周氏跨躡<placeName key="CN0610702Z16AA">梁</placeName><placeName key="CN0510108Z31AA">益</placeName>。<persName key="A018881">庸公</persName>鎮方。彌加深<lb ed="T" n="0492c11"/>敬越於恒伍。時年八十。謂門人<persName key="A005320">法明</persName>曰。<persName key="A005072">吾</persName><lb ed="T" n="0492c12"/>死至矣。一無前慮。但悲去後圖塔湮滅耳。<lb ed="T" n="0492c13"/>當露屍以遺鳥<ptr target="fn26"/>狩。及<date key="j19300831932278" notAfter-iso="0578" notBefore-iso="0572">建<ptr target="fn27"/>武之年</date><!-- 建德年間，請參閱校勘碼 -->果被除<lb ed="T" n="0492c14"/>屏。<ptr target="fn28"/>令院宇荒<ptr target="fn29"/>蕪。<ptr target="fn30"/>惟餘一堂容像存焉。</p>
+    <linkGrp>
+        <link targets="#0492b23 #0492b23"/>
+        <ptr target="#A005319" type="person"/>
+        <ptr target="#CN0511381Z20AA" type="place"/>
+    </linkGrp>    
+    <linkGrp>
+        <link targets="#0492b24 #0492b26"/>
+        <ptr target="#A005319" type="person"/>
+        <ptr target="#A000729" type="person"/>
+        <ptr target="#CN0320106Z05AA" type="place"/>
+        </linkGrp>
+    <linkGrp>
+        <link targets="#0492b26 #0492c01"/>
+        <ptr target="#A005319" type="person"/>
+        <ptr target="#A002098" type="person"/>
+        <ptr target="#CN0320106Z05AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0492c02 #0492c03"/>
+        <ptr target="#A005072" type="person"/>
+        <ptr target="#CN0510108Z03AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0492c01 #0492c09"/>
+        <ptr target="#A005319" type="person"/>
+        <ptr target="#A005072" type="person"/>
+        <ptr target="#CN0510108T04AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0492c10 #0492c11"/>
+        <ptr target="#A005319" type="person"/>
+        <ptr target="#A018881" type="person"/>
+        <ptr target="#CN0510108Z03AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0492c11 #0492c13"/>
+        <ptr target="#A005319" type="person"/>
+        <ptr target="#A005320" type="person"/>
+        <ptr target="#CN0510108T04AA" type="place"/>
+    </linkGrp>
+</div>

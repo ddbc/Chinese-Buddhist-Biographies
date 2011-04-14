@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0399a01shiFaCheng">
+    <p><anchor n="T.50.2059.0399a02"/><lb ed="T" n="0399a02"/><persName key="A002308">釋法成</persName>，<placeName key="CN0620602Z11AA">涼州</placeName>人。十六出家，學通經律。不餌<lb ed="T" n="0399a03"/>五穀，唯食<ptr target="fn02"/>松脂，<ptr target="fn03"/>隱居巖穴，習禪為務。<date key="j18761761886925" notAfter-iso="0454" notBefore-iso="0424">元<lb ed="T" n="0399a04"/>嘉中</date>，<placeName key="CN0371322Z19AA">東海</placeName><persName key="A003332">王懷素</persName>出守<placeName key="CN0511381Z21AA">巴西</placeName>，聞風遣<ptr target="fn04"/>迎，會<lb ed="T" n="0399a05"/>於<placeName key="CN0510722Z09AA">涪城</placeName>。夏坐講律，事竟辭反。因停<placeName key="CN0510681Z02AA">廣漢</placeName>，復<lb ed="T" n="0399a06"/>弘禪法。後小疾便告眾<ptr target="fn05"/>云。<persName key="A002308">成</persName>常誦《寶積經》，<lb ed="T" n="0399a07"/>於是自力誦之，始得半卷，氣劣不堪，乃令<lb ed="T" n="0399a08"/>人讀之，一遍<ptr target="fn06"/>纔竟，合掌而卒。侍疾十餘人，<lb ed="T" n="0399a09"/>咸見空<ptr target="fn07"/>中紺馬背負金<ptr target="fn08"/>棺，升空而逝。</p>
+    <linkGrp>
+        <link targets="#0399a05 #0399a06"/>
+        <ptr target="#A002308" type="person"/>
+        <ptr target="#CN0510681Z02AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0399a03 #0399a05"/>
+        <ptr target="#A002308" type="person"/>
+        <ptr target="#A003332" type="person"/>
+        <ptr target="#CN0510722Z09AA" type="place"/>
+        <ptr target="#j18761761886925" type="time"/>
+    </linkGrp>
+</div>

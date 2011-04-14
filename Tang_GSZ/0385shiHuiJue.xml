@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0520c17shiHuiJue">
+    <p><anchor n="T.50.2060.0520c17"/><lb ed="T" n="0520c17"/><persName key="A005590">釋慧覺</persName>。俗姓范氏。<placeName key="CN0370103Z06AA">齊</placeName>人也。達量通鑒罕附<lb ed="T" n="0520c18"/>其倫。而儀形秀峙。眉目峯映。衣服鮮潔。身長<lb ed="T" n="0520c19"/>七尺。容止溫弘顧步淹融。鏘鏘然也。執持行<lb ed="T" n="0520c20"/>路。莫不駐步迎睇而目送者。其威儀感人<lb ed="T" n="0520c21"/>如此。明華嚴十地。講席相繼流軌齊岱。榮<lb ed="T" n="0520c22"/>名遠著門學成風。大隋受禪闡隆像法。以<lb ed="T" n="0520c23"/><persName key="A004324">文皇</persName>在周既總元戎。躬履鋒刃。兵機失捷。<lb ed="T" n="0520c24"/>逃難于<placeName key="CN0140110Z23AA">并城</placeName>南澤。後飛龍之日。追惟舊壤。<lb ed="T" n="0520c25"/><date key="j19333311933672" from-iso="0581-03-06" to-iso="0582-02-10">開皇元年</date>。乃於幽憂之所置<placeName key="CN0140110T04AA">武德寺</placeName>焉。地<lb ed="T" n="0520c26"/>惟泥濕遍以石鋪。然始增基通於寺院。<ptr target="fn21"/>周<lb ed="T" n="0520c27"/>閭千計廊廡九重。靈塔雲張景臺星布。以<persName key="A005590">覺</persName><lb ed="T" n="0520c28"/>識解騰譽。召而處之。弘闡法門。多以華嚴<lb ed="T" n="0520c29"/>為首。受悟請益。宏略遵於四宗。後被請<placeName key="CN0130628Z14AA">高<lb ed="T" n="0521a01"/>陽</placeName>允當講匠。聽眾千餘堂宇充溢。而來者不<lb ed="T" n="0521a02"/>絕。遂停法肆。待有堂宇方可弘導。爰有<lb ed="T" n="0521a03"/>施主。即為造千人講堂。締搆斯須不月便<lb ed="T" n="0521a04"/>就。既登法座眾引充滿。<persName key="A005590">覺</persName>威容<ptr target="fn01"/>宏雅其狀<lb ed="T" n="0521a05"/>若神。談吐抑揚。汲引玄隱。披釋沖洽。聽徒<lb ed="T" n="0521a06"/>竦戴。誠博義之弘量也。著華嚴十地維摩等<lb ed="T" n="0521a07"/>疏并纘義章一十三卷。文質恢恢條貫倫約。<lb ed="T" n="0521a08"/><placeName key="CN0370103Z06AA">齊</placeName><placeName key="CN0410502Z13AA">魏</placeName>明德<ptr target="fn02"/>咸誦行之。至<date key="j19475521947905" from-iso="0620-02-12" to-iso="0621-01-30">武德三年</date>。會獫狁<lb ed="T" n="0521a09"/>南侵。<persName key="A005590">覺</persName>少有恙。通告門人曰。<persName key="A005590">吾</persName>其去矣。侍<lb ed="T" n="0521a10"/>者曰。今寇賊臨<placeName key="CN0140110Z23AA">城</placeName>人路阻絕。知何處去。答<lb ed="T" n="0521a11"/>曰。生死道長去留無日。明當別矣。乃勅出<lb ed="T" n="0521a12"/>身資為僧設食。與眾取訣。通夜正念精爽<lb ed="T" n="0521a13"/>冷然。明相纔出奄然從化。春秋九十矣。初<persName key="A005590">覺</persName><lb ed="T" n="0521a14"/>慧解之性素蓄胸襟。福業攝生隨喜者眾。凡<lb ed="T" n="0521a15"/>有營理。身助修治故寺之基<ptr target="fn03"/>趾。咸由勸勉。<lb ed="T" n="0521a16"/>又聞往生<placeName key="XZ0000033A01AA">淨土</placeName>園施為功。不遠千里<placeName key="CN0370781Z15AA">青州</placeName><lb ed="T" n="0521a17"/>取棗。於<placeName key="CN0140110T01AA">并城開義寺</placeName>種之。行列千株供通<lb ed="T" n="0521a18"/>五眾。日呈茂美斯業弘矣。時寺有二僧。俱<lb ed="T" n="0521a19"/>名<ptr target="fn04"/><persName key="A005591">智達</persName>。<persName key="A002000">遠公</persName>門人。善解當世。<date key="j19469511947700" notAfter-iso="0620" notBefore-iso="0618">武德之初</date><placeName key="CN0610102Z01AA">京<lb ed="T" n="0521a20"/>邑</placeName>呈美。又有<persName key="A005592">明幹</persName>者。亦亞其倫。相與傳燈<lb ed="T" n="0521a21"/>流芳不絕。</p>
+    <linkGrp>
+        <link targets="#0520c17 #0520c17"/>
+        <ptr target="#A005590" type="person"/>
+        <ptr target="#CN0370103Z06AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0520c24 #0520c24"/>
+        <ptr target="#A004324" type="person"/>
+        <ptr target="#CN0140110Z23AA" type="place"/>
+        </linkGrp>
+    <linkGrp>
+        <link targets="#0520c25 #0520c27"/>
+        <ptr target="#A005590" type="person"/>
+        <ptr target="#A004324" type="person"/>
+        <ptr target="#CN0140110T04AA" type="place"/>
+        <ptr target="#j19333311933672" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0520c29 #0521a03"/>
+        <ptr target="#A005590" type="person"/>
+        <ptr target="#CN0130628Z14AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0521a08 #0521a13"/>
+        <ptr target="#A005590" type="person"/>
+        <ptr target="#CN0140110T04AA" type="place"/>
+        <ptr target="#j19475521947905" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0521a16 #0521a17"/>
+        <ptr target="#A005590" type="person"/>
+        <ptr target="#CN0370781Z15AA" type="place"/>
+        </linkGrp>
+    <linkGrp>
+        <link targets="#0521a17 #0521a18"/>
+        <ptr target="#A005590" type="person"/>
+        <ptr target="#CN0140110T01AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0521a17 #0521a19"/>
+        <ptr target="#A005591" type="person"/>
+        <ptr target="#CN0140110T01AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0521a19 #0521a20"/>
+        <ptr target="#A005591" type="person"/>
+        <ptr target="#A002000" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0521a19 #0521a20"/>
+        <ptr target="#A005591" type="person"/>
+        <ptr target="#CN0610102Z01AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0521a19 #0521a21"/>
+        <ptr target="#A005592" type="person"/>
+        <ptr target="#CN0610102Z01AA" type="place"/>
+        </linkGrp>
+</div>

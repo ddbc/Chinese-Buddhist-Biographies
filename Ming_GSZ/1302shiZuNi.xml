@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0908a27shiZuNi">
+  <p><anchor n="T.50.2062.0908a27"/><lb ed="T" n="0908a27"/><persName key="A008200">釋祖儞</persName>字<persName key="A008200">日章</persName>別號<persName key="A008200">用拙</persName>。蘇州<placeName key="CN0320581Z14AA">常熟</placeName>張氏子。<lb ed="T" n="0908a28"/>祝髮後東游<placeName key="CN0330203Z03AA">四明</placeName>。時<persName key="A007930">我庵無</persName>公住<placeName key="CN0330205T02AA">延慶</placeName>。石室<!--找不到此地--><lb ed="T" n="0908a29"/><persName key="A008206">瑛公</persName>居<placeName key="CN0330212T01AA">育王</placeName>。皆待以忘年。後嗣法于<persName key="A008204">竹屋<lb ed="T" n="0908b01"/>淨法師</persName>。出世永定教寺<!--找不到此地-->。繼遷崑山廣孝<!--找不到此地-->嘉定<lb ed="T" n="0908b02"/>淨信<!--找不到此地-->。而主教吳下垂五十年。<date from-iso="1368" key="j22207392223935" to-iso="1376">洪武初</date>預選<lb ed="T" n="0908b03"/>高行。有　　旨就<placeName key="CN0320114T01AA">天界寺</placeName>說法　　上數召<lb ed="T" n="0908b04"/>入　　禁中。奏對稱允加賜<persName key="A008200">慈忍法師</persName>之號。<lb ed="T" n="0908b05"/>後賜歸故里終焉。</p>
+  <linkGrp>
+    <link targets="#0908a28 #0908a28"/>
+    <ptr target="#A008200" type="person"/>
+    <ptr target="#CN0330203Z03AA" type="place"/>
+  </linkGrp>
+  <linkGrp>
+    <link targets="#0908a28 #0908a28"/>
+    <ptr target="#A007930" type="person"/>
+    <ptr target="#CN0330205T02AA" type="place"/>
+  </linkGrp>
+  <linkGrp>
+    <link targets="#0908a28 #0908a29"/>
+    <ptr target="#A008206" type="person"/>
+    <ptr target="#CN0330212T01AA" type="place"/>
+  </linkGrp>
+  <linkGrp>
+    <link targets="#0908b02 #0908b05"/>
+    <ptr target="#A008200" type="person"/>
+    <ptr target="#CN0320114T01AA" type="place"/>
+    <ptr target="#j22207392223935" type="time"/>
+  </linkGrp>
+  <linkGrp>
+    <link targets="#0908a29 #0908b01"/>
+    <ptr target="#A008200" type="person"/>
+    <ptr target="#A008204" type="person"/>
+  </linkGrp>
+</div>

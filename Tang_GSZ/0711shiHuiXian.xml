@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0687c09shiHuiXian">
+    <p><anchor n="T.50.2060.0687c09"/><lb ed="T" n="0687c09"/><persName key="A007459">釋慧顯</persName>。<placeName key="KR3441230E01AA">伯濟國</placeName>人也。少出家。苦心精專。以<lb ed="T" n="0687c10"/>誦法華為業。祈福請願。所遂者多。聞講<lb ed="T" n="0687c11"/>三論便從聽受。法一染神彌增其緒。初住<lb ed="T" n="0687c12"/>本國北部<placeName key="KR3441230T01AA">修德寺</placeName>有眾則講無便清誦。四遠<lb ed="T" n="0687c13"/>聞風造山諠接。便往南方<placeName key="KR3441230M01AA">達拏山</placeName>。山極深<lb ed="T" n="0687c14"/>險重隒巖固。縱有往展登陟艱危。<persName key="A007459">顯</persName>靜坐<lb ed="T" n="0687c15"/>其中專業如故。遂終于<placeName key="KR3441230M01AA">彼</placeName>。同學<ptr target="fn18"/>輿屍置<lb ed="T" n="0687c16"/>石窟中。虎噉身骨並盡。<ptr target="fn＊"/>惟餘髏舌存焉。<lb ed="T" n="0687c17"/>經于三周其舌彌紅赤。柔軟勝常。過後方<lb ed="T" n="0687c18"/>變紫鞕如石。道俗怪而敬焉。俱緘閉于石<lb ed="T" n="0687c19"/>塔。時年五十有八。即<date key="j19500921952143" notAfter-iso="0632" notBefore-iso="0627">貞觀之初年</date>也。</p>
+    <linkGrp>
+        <link targets="#0687c09 #0687c09"/>
+        <ptr target="#A007459" type="person"/>
+        <ptr target="#KR3441230E01AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0687c11 #0687c12"/>
+        <ptr target="#A007459" type="person"/>
+        <ptr target="#KR3441230T01AA" type="place"/>
+        </linkGrp>
+    <linkGrp>
+        <link targets="#0687c13 #0687c14"/>
+        <ptr target="#A007459" type="person"/>
+        <ptr target="#KR3441230M01AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0687c15 #0687c19"/>
+        <ptr target="#A007459" type="person"/>
+        <ptr target="#KR3441230M01AA" type="place"/>
+        <ptr target="#j19500921952143" type="time"/>
+    </linkGrp>
+</div>

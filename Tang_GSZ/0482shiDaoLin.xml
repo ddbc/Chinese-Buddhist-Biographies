@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0579c04shiDaoLin">
+    <p><anchor n="T.50.2060.0579c04"/><lb ed="T" n="0579c04"/><persName key="A006119">釋道林</persName>。姓李。<placeName key="CN0610524Z07AA">同州郃陽</placeName>人也。年<ptr target="fn25"/>二十五發<lb ed="T" n="0579c05"/>心出家。入<placeName key="CN0610000M01AA">太白山</placeName>結宇深巖路絕登陟。木<lb ed="T" n="0579c06"/>食濟形<ptr target="fn26"/>惟法檢心更無營拯。<date key="j19333311935151" notAfter-iso="0586" notBefore-iso="0581">隋開皇之始</date>。<lb ed="T" n="0579c07"/>創啟玄宗。勅度七人。選窮翹楚。有司加訪。<lb ed="T" n="0579c08"/>搜得<persName key="A006119">林</persName>焉。<persName key="A004324">文皇</persName>親命出家苦辭不可。乃啟<lb ed="T" n="0579c09"/>曰。<persName key="A006119">貧道</persName>聞山林之士往而不返。<ptr target="fn27"/>晧然之氣<lb ed="T" n="0579c10"/>獨結林泉。望得連蹤既往。故應義絕凡貫。<lb ed="T" n="0579c11"/><persName key="A004324">陛下</persName>大敞法門。載清海陸。乞以此名遺虛<lb ed="T" n="0579c12"/>仰者。<persName key="A004324">帝</persName>曰。名實相副其來久矣。<persName key="A006119">禪師</persName>但隷公<lb ed="T" n="0579c13"/>府身任山栖。<persName key="A006119">林</persName>不從乃逃還<ptr target="fn＊"/><placeName key="CN0610000M01AA">大白</placeName>。仍宗<lb ed="T" n="0579c14"/>前業。後以事聞奏。乃更搜揚仄陋。窮巖倒<lb ed="T" n="0579c15"/>穴。方始捉獲。而履節無虧。勅勞殷重崇敬<lb ed="T" n="0579c16"/>彌異。乃賜香爐等物。仍令住<placeName key="CN0610523T01AA">馮翊大興國<lb ed="T" n="0579c17"/>寺</placeName>。經止少時。又逃于<placeName key="CN0610581M01AA">梁山</placeName>之陽。<ptr target="fn28"/>河崖迴曲<lb ed="T" n="0579c18"/>地稱天固。鑿山為窟凝道其中。<date key="j19491761949205" from-iso="0624-07-24" to-iso="0624-08-22">武德七年<lb ed="T" n="0579c19"/>七月</date>。微覺有疾。遺誡門侍無越律儀。又<lb ed="T" n="0579c20"/>聞笳吹響空。道俗歆會。又降異香大如桃<lb ed="T" n="0579c21"/>棗。眾皆拾而供養莫知名目。燒發美暢聞者<lb ed="T" n="0579c22"/>驚心。經於三日精氣爽朗<ptr target="fn＊"/>跏坐而終。停屍<lb ed="T" n="0579c23"/>七日。色相無改。即於山<ptr target="fn29"/>栖鑿龕處之。<lb ed="T" n="0579c24"/>眾聚如煙數盈萬計。鼓舞而<ptr target="fn30"/>送。生死榮焉。<lb ed="T" n="0579c25"/>自<persName key="A006119">林</persName>之在道。<ptr target="fn31"/>隱括為先。從生至終儉約<lb ed="T" n="0579c26"/>為務。女人生染之本。偏所誡期。故<persName key="A006119">林</persName>一生<lb ed="T" n="0579c27"/>常不親面不為說法。不從取食。不上房<lb ed="T" n="0579c28"/>基。致使臨終之前有來問疾者。<persName key="A006119">林</persName>隔障<lb ed="T" n="0579c29"/>潛知。遙止之不令面對。斯行潔通幽故也。<lb ed="T" n="0580a01"/>而慈濟生靈深護物性。蚤虱之屬任其遊<lb ed="T" n="0580a02"/>行。每徐徐舉衣。恐其驚走。<persName key="A006119">斯</persName>仁育之量。殆<lb ed="T" n="0580a03"/>難嗣矣。</p>
+    <linkGrp>
+        <link targets="#0579c04 #0579c04"/>
+        <ptr target="#A006119" type="person"/>
+        <ptr target="#CN0610524Z07AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0579c04 #0579c05"/>
+        <ptr target="#A006119" type="person"/>
+        <ptr target="#CN0610000M01AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0579c06 #0579c13"/>
+        <ptr target="#A006119" type="person"/>
+        <ptr target="#A004324" type="person"/>
+        <ptr target="#j19333311935151" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0579c06 #0579c14"/>
+        <ptr target="#A006119" type="person"/>
+        <ptr target="#CN0610000M01AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0579c16 #0579c17"/>
+        <ptr target="#A006119" type="person"/>
+        <ptr target="#CN0610523T01AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0579c17 #0579c18"/>
+        <ptr target="#A006119" type="person"/>
+        <ptr target="#CN0610581M01AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0579c18 #0579c23"/>
+        <ptr target="#A006119" type="person"/>
+        <ptr target="#CN0610581M01AA" type="place"/>
+        <ptr target="#j19491761949205" type="time"/>
+    </linkGrp>
+</div>

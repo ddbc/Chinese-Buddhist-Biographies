@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0663c15shiFaShi">
+    <p><anchor n="T.50.2060.0663c15"/><lb ed="T" n="0663c15"/><persName key="A006990">釋法施</persName>。姓江。<placeName key="CN0420381Z18AA">武當</placeName>人。少而弘直。神智難<lb ed="T" n="0663c16"/>測。形無定方。出處不滯。遊巴陵<placeName key="CN0430602T01AA">顯安寺</placeName>。娑<lb ed="T" n="0663c17"/>羅樹下宴默。而人亦莫之顧也。依荊南記<lb ed="T" n="0663c18"/>云。<date key="j18306701831023" from-iso="0300-02-07" to-iso="0301-01-26">晉永康元年</date>。僧房床下忽生一樹。隨伐<lb ed="T" n="0663c19"/>隨生。如是非一。樹生逾疾。咸共異之。置而<lb ed="T" n="0663c20"/>不剪。旬日之間植柯極棟。遂移房避之。自<lb ed="T" n="0663c21"/>爾已後。樹長便遲。但極晚秀夏中方有花。<lb ed="T" n="0663c22"/>葉秋落與眾木不殊。多歷年稔人莫識也。<lb ed="T" n="0663c23"/>後外國僧見攀。而流涕曰。此娑羅樹也。佛<lb ed="T" n="0663c24"/>處其下涅槃。吾思本事所以泣耳。而花開<lb ed="T" n="0663c25"/>細白不足觀採。<date key="j18796021879985" from-iso="0434-01-27" to-iso="0435-02-14">元嘉十一年</date>。忽生一花。形<lb ed="T" n="0663c26"/>色如芙蓉樹。今見在此。亦一方之奇迹也。<lb ed="T" n="0663c27"/><date key="j19434961946884" notAfter-iso="0618" notBefore-iso="0609">隋末</date>喪亂。稱兵非一。<persName key="A006993">蕭銑</persName>時為<placeName key="CN0430681Z11AA">羅縣</placeName>令。<persName key="A006990">施</persName><lb ed="T" n="0663c28"/>拊背指<placeName key="CN0430602Z09AA">巴陵城</placeName>曰。此天子城也。後果王之<lb ed="T" n="0663c29"/>米極平賤。<persName key="A006990">施</persName>誡深藏。人不測其言。於後米<lb ed="T" n="0663c30"/>斗直萬五千。飢餒者眾。如此記授來事若<lb ed="T" n="0664a01"/>指諸掌。<date key="j19479061948289" from-iso="0621-01-31" to-iso="0622-02-18"><persName key="A006995">趙郡王</persName>伐<placeName key="CN0000000A09AA">偽梁</placeName></date>。<persName key="A006993">銑</persName>問。今事如何。<persName key="A006990">施</persName><lb ed="T" n="0664a02"/>遺雙銅筋。<persName key="A006993">銑</persName>曰。令<persName key="A006993">我</persName>同矣。遂舉眾歸化。百<lb ed="T" n="0664a03"/>姓咸賴。其德弘矣。嘗於<placeName key="CN0421003Z01AA">江陵</placeName>北頭陀。虎來<lb ed="T" n="0664a04"/>床側。人來語虎曰。佛子閉目。虎即低頭閉<lb ed="T" n="0664a05"/>目。斯遇猛獸如家犬者。斯人在斯。誦勝天<lb ed="T" n="0664a06"/>王一部。靜念出觀誦而美之。而精進牢強<lb ed="T" n="0664a07"/>越於常伍。後潛形高<ptr target="fn01"/>邁。</p>
+    <linkGrp>
+        <link targets="#0663c15 #0663c15"/>
+        <ptr target="#A006990" type="person"/>
+        <ptr target="#CN0420381Z18AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0663c16 #0663c17"/>
+        <ptr target="#A006990" type="person"/>
+        <ptr target="#CN0430602T01AA" type="place"/>
+        </linkGrp>
+    <linkGrp>
+        <link targets="#0663c26 #0663c28"/>
+        <ptr target="#A006993" type="person"/>
+        <ptr target="#CN0430681Z11AA" type="place"/>
+        <ptr target="#j19434961946884" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0663c26 #0663c29"/>
+        <ptr target="#A006990" type="person"/>
+        <ptr target="#CN0430602Z09AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0664a01 #0664a01"/>
+        <ptr target="#A006995" type="person"/>
+        <ptr target="#CN0000000A09AA" type="place"/>
+        <ptr target="#j19479061948289" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0664a01 #0664a03"/>
+        <ptr target="#A006990" type="person"/>
+        <ptr target="#A006993" type="person"/>
+        <ptr target="#CN0000000A09AA" type="place"/>
+        <ptr target="#j19479061948289" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0664a03 #0664a05"/>
+        <ptr target="#A006990" type="person"/>
+        <ptr target="#CN0421003Z01AA" type="place"/>
+        </linkGrp>
+</div>

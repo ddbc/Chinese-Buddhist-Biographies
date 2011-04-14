@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0687c20shiDaoJi">
+    <p><anchor n="T.50.2060.0687c20"/><lb ed="T" n="0687c20"/><persName key="A007460">釋道積</persName>。<placeName key="CN0510184Z16AA">蜀</placeName>人。住益州<placeName key="CN0510108T05AA">福<ptr target="fn19"/>成寺</placeName>。誦通涅槃生<lb ed="T" n="0687c21"/>常恒業。凡有宣述。必洗滌身穢淨衣法座。<lb ed="T" n="0687c22"/>然後開之。立性沈審慈仁總務。諸有<ptr target="fn20"/>厲疾<lb ed="T" n="0687c23"/>洞爛者。其氣彌復欝勃。眾咸掩鼻。而<persName key="A007460">積</persName>與<lb ed="T" n="0687c24"/>之供給。身心無貳。或同器食。或為補浣。時<lb ed="T" n="0687c25"/>有問者。<persName key="A007460">積</persName>云。清淨臭處心憎愛也。<persName key="A007460">吾</persName>豈一<lb ed="T" n="0687c26"/>其神慮耶。寄此陶練耳。皆慕其為行也。而<lb ed="T" n="0687c27"/>患己不能及之。以<date key="j19502391950267" from-iso="0627-06-22" to-iso="0627-07-20">貞觀初年五月</date>終于<placeName key="CN0510108T05AA">住<lb ed="T" n="0687c28"/>寺</placeName>。春秋七十餘矣。時屬炎夏而不腐臭。經<lb ed="T" n="0687c29"/>停百日跏坐如初。莫不嗟尚。乃就加漆布<lb ed="T" n="0688a01"/>興敬。<placeName key="CN0510184Z16AA">巴蜀</placeName><placeName key="CN0610102Z07AA">京邑</placeName>諸僧受誦涅槃。其<ptr target="fn01"/>列非少。<lb ed="T" n="0688a02"/>又有沙門<persName key="A007461">洪遠</persName><persName key="A007462">僧恩</persName>。並誦涅槃。皂素迴向。<lb ed="T" n="0688a03"/><persName key="A007461">遠</persName>志尚敦慤情捐名利。徵入<placeName key="CN0610102T13AA">會昌</placeName>隆禮供<lb ed="T" n="0688a04"/>給。<persName key="A007462">恩</persName>道心清肅成節動人。<placeName key="CN0610104T16AA">弘福</placeName><placeName key="CN0610113T06AA">禪定</placeName>兩以崇<lb ed="T" n="0688a05"/>德。而卑牧自處。蒙俗罕知。時<placeName key="CN0610104T16AA">弘福寺</placeName>有沙<lb ed="T" n="0688a06"/>門<persName key="A007463">智曄</persName>者。本族<placeName key="CN0000007D01AA">江表</placeName>。<date key="j19333311946931" notAfter-iso="0618" notBefore-iso="0581">隋朝</date>徵入。深樂法華<lb ed="T" n="0688a07"/>鎮恒抄寫。所得外利即用<ptr target="fn02"/>雇人。前後出本<lb ed="T" n="0688a08"/>二千餘部。身恒自勵日寫五張。年事乃秋斯<lb ed="T" n="0688a09"/>業無怠。今總寺任彌勤恒業。年七十餘矣。</p>
+    <linkGrp>
+        <link targets="#0687c20 #0687c20"/>
+        <ptr target="#A007460" type="person"/>
+        <ptr target="#CN0510184Z16AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0687c20 #0687c22"/>
+        <ptr target="#A007460" type="person"/>
+        <ptr target="#CN0510108T05AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0687c27 #0687c29"/>
+        <ptr target="#A007460" type="person"/>
+        <ptr target="#CN0510108T05AA" type="place"/>
+        <ptr target="#j19502391950267" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0688a03 #0688a04"/>
+        <ptr target="#A007461" type="person"/>
+        <ptr target="#CN0610102T13AA" type="place"/>
+        </linkGrp>
+    <linkGrp>
+        <link targets="#0688a04 #0688a05"/>
+        <ptr target="#A007462" type="person"/>
+        <ptr target="#CN0610104T16AA" type="place"/>
+        </linkGrp>
+    <linkGrp>
+        <link targets="#0688a04 #0688a05"/>
+        <ptr target="#A007462" type="person"/>
+        <ptr target="#CN0610113T06AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0688a05 #0688a06"/>
+        <ptr target="#A007463" type="person"/>
+        <ptr target="#CN0000007D01AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0688a05 #0688a07"/>
+        <ptr target="#A007463" type="person"/>
+        <ptr target="#CN0610104T16AA" type="place"/>
+        </linkGrp>
+</div>

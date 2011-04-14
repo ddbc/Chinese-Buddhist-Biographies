@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0381a08shiHuiQiu">
+	<p><anchor n="T.50.2059.0381a08"/><lb ed="T" n="0381a08"/><persName key="A002271">釋慧球</persName>，本姓馬氏，<placeName key="CN0610424Z16AA">扶風郡</placeName>人，世為冠族，<date key="j18839601884324" from-iso="0446-01-02" to-iso="0447-01-01">年<lb ed="T" n="0381a09"/>十六</date>出家，住<placeName key="CN0421087T04AA">荊州竹林寺</placeName>，事<persName key="A003136">道馨</persName>為師，稟<lb ed="T" n="0381a10"/>承戒訓，履行清潔。後入<placeName key="CN0430104T03AA">湘州麓山<ptr target="fn05"/>寺</placeName>，專業<lb ed="T" n="0381a11"/>禪道。頃之，與同學<persName key="A003137">慧度</persName>俱適<placeName key="CN0320106Z05AA">京師</placeName>，諮訪經<lb ed="T" n="0381a12"/>典。後又之<placeName key="CN0320303Z11AA">彭城</placeName>，從<persName key="A002253">僧淵</persName>受《成實論》。至<date key="j18898041890168" from-iso="0462-01-02" to-iso="0463-01-01">年三<lb ed="T" n="0381a13"/>十二</date>，方還<placeName key="CN0421087Z20AA">荊土</placeName>，專當法匠。講集相繼，學侶<lb ed="T" n="0381a14"/>成群，<placeName key="CN0421087Z20AA">荊</placeName>、<placeName key="CN0300000A03AA">楚</placeName>之間，終古稱最。使西夏義僧，得<lb ed="T" n="0381a15"/>與京邑抗衡者，<persName key="A002271">球</persName>之力也。<date key="j19041421904436" from-iso="0501-04-06" to-iso="0502-01-25">中興元年</date>勅為<lb ed="T" n="0381a16"/>荊土僧主。訓勗之功，有譽當世。<date key="j19051751905175" when-iso="0504">天<ptr target="fn06"/>鑒三年</date><lb ed="T" n="0381a17"/>卒，春秋七十有四。遺命露骸松下，弟子不<lb ed="T" n="0381a18"/>忍行也。</p>
+	<linkGrp>
+		<link targets="#0381a10 #0381a11"/>
+		<ptr target="#A002271" type="person"/>
+		<ptr target="#CN0430104T03AA" type="place"/>
+	</linkGrp>
+	<linkGrp>
+		<link targets="#0381a11 #0381a11"/>
+		<ptr target="#A002271" type="person"/>
+		<ptr target="#A003137" type="person"/>
+		<ptr target="#CN0320106Z05AA" type="place"/>
+	</linkGrp>
+	<linkGrp>
+		<link targets="#0381a12 #0381a12"/>
+		<ptr target="#A002271" type="person"/>
+		<ptr target="#A002253" type="person"/>
+		<ptr target="#CN0320303Z11AA" type="place"/>
+	</linkGrp>
+	<linkGrp>
+		<link targets="#0381a16 #0381a18"/>
+		<ptr target="#A002271" type="person"/>
+		<ptr target="#j19051751905175" type="time"/>
+	</linkGrp>
+	<linkGrp>
+		<link targets="#0381a08 #0381a09"/>
+		<ptr target="#A002271" type="person"/>
+		<ptr target="#A003136" type="person"/>
+		<ptr target="#CN0421087T04AA" type="place"/>
+		<ptr target="#j18839601884324" type="time"/>
+	</linkGrp>
+	<linkGrp>
+		<link targets="#0381a12 #0381a14"/>
+		<ptr target="#A002271" type="person"/>
+		<ptr target="#CN0421087Z20AA" type="place"/>
+		<ptr target="#j18898041890168" type="time"/>
+	</linkGrp>
+	<linkGrp>
+		<link targets="#0381a15 #0381a16"/>
+		<ptr target="#A002271" type="person"/>
+		<ptr target="#CN0421087Z20AA" type="place"/>
+		<ptr target="#j19041421904436" type="time"/>
+	</linkGrp>
+	<linkGrp>
+		<link targets="#0381a16 #0381a17"/>
+		<ptr target="#A002271" type="person"/>
+		<ptr target="#CN0421087Z20AA" type="place"/>
+		<ptr target="#j19051751905175" type="time"/>
+	</linkGrp>
+</div>

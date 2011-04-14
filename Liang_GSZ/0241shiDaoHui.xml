@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0414a04shiDaoHui">
+    <p><anchor n="T.50.2059.0414a04"/><lb ed="T" n="0414a04"/><persName key="A003472">釋道慧</persName>，姓張，<ptr target="fn02"/><placeName key="CN0360421Z05AA">尋陽柴桑</placeName>人。<date key="j18784811878845" from-iso="0431-01-02" to-iso="0432-01-01">年二十四</date>出家，<lb ed="T" n="0414a05"/>止<placeName key="CN0360402T04AA">廬山寺</placeName>。<ptr target="fn03"/>素行清貞，博涉經典。特稟自然<lb ed="T" n="0414a06"/>之聲，故偏好轉讀。發響<ptr target="fn04"/>含奇，製無定准，條<lb ed="T" n="0414a07"/>章<ptr target="fn05"/>折句，綺麗分明。後出<placeName key="CN0320106Z06AA">都</placeName>，止<placeName key="CN0320101T36AA">安樂寺</placeName>，轉讀<lb ed="T" n="0414a08"/>之名，大盛<placeName key="CN0320106Z06AA">京邑</placeName>。晚移<placeName key="CN0321111T04AA">朱方竹林寺</placeName>，誦經數<lb ed="T" n="0414a09"/>萬言。每夕諷詠，<ptr target="fn06"/>輒聞闇中，有彈指唱薩之<lb ed="T" n="0414a10"/>聲。宋<date key="j18883731888755" from-iso="0458-02-01" to-iso="0459-02-18">大明二年</date>卒，<ptr target="fn＊"/>年五<ptr target="fn07"/>十一。</p>
+    <linkGrp>
+        <link targets="#0414a07 #0414a08"/>
+        <ptr target="#A003472" type="person"/>
+        <ptr target="#CN0320101T36AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0414a08 #0414a09"/>
+        <ptr target="#A003472" type="person"/>
+        <ptr target="#CN0321111T04AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0414a04 #0414a05"/>
+        <ptr target="#A003472" type="person"/>
+        <ptr target="#CN0360402T04AA" type="place"/>
+        <ptr target="#j18784811878845" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0414a10 #0414a10"/>
+        <ptr target="#A003472" type="person"/>
+        <ptr target="#j18883731888755" type="time"/>
+    </linkGrp>
+</div>

@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="bqnz0937b18huiGuoNi">
+    <head><ptr target="fn25"/><placeName key="CN0320114T07AA">景福寺</placeName><persName key="A002628">慧果</persName>尼傳<ptr target="fn26"/>第一</head><p><anchor n="T.50.2063.0937b19"/><lb ed="T" n="0937b19"/><persName key="A002628">慧果</persName>，<ptr target="fn27"/>本姓潘，<placeName key="CN0341521Z55AA">淮南</placeName>人也。常行苦節，不衣綿<lb ed="T" n="0937b20"/>纊，篤好毘尼，戒行清白，道俗欽羨，風譽遠聞。<lb ed="T" n="0937b21"/>宋青州刺史北地<persName key="A015011">傳弘仁</persName>。雅相歎貴，厚加賑<lb ed="T" n="0937b22"/>給。以<date from-iso="0422-02-08" key="j18752311875369" to-iso="0422-06-26">永初三年</date>(<persName key="A002152">曇宗</persName>云：<date from-iso="0430-02-10" key="j18781551878508" to-iso="0431-01-29">元嘉七年，</date>寺<ptr target="fn28"/>生<persName key="A015009">弘安</persName>尼，以起<ptr target="fn29"/>寺，借券書見示，<ptr target="fn30"/>是<date from-iso="0422-02-08" key="j18752311875369" to-iso="0422-06-26">永初三年</date>。)，<lb ed="T" n="0937b23"/>割宅東面，為立精舍，名曰<placeName key="CN0320114T07AA">景<ptr target="fn31"/>福</placeName>。<persName key="A002628">果</persName>為綱紀，<lb ed="T" n="0937b24"/><ptr target="fn32"/>嚫遺之物，悉以入僧，眾業興隆，大小悅服。</p><p>到<lb ed="T" n="0937b25"/><date from-iso="0429-02-21" key="j18778011878154" to-iso="0430-02-09">元嘉六年</date>，<placeName key="WW142XIYUE01AA">西域</placeName>沙門<persName key="A000218">求那跋摩</persName>至。<persName key="A002628">果</persName>問曰：「此<lb ed="T" n="0937b26"/>土諸尼，先受戒者，未有本事。推之愛道，誠有<lb ed="T" n="0937b27"/>高例，未測厥後，得無異耶？」<ptr target="fn33"/>答<ptr target="fn34"/>：「無異。」又問：「就<lb ed="T" n="0937b28"/>如律文，戒師得罪，何無異耶？」答曰：「有尼眾處，<lb ed="T" n="0937b29"/>不二歲學，故言得罪耳。」又問：「乃可此國先未<lb ed="T" n="0937c01"/>有尼，非閻浮無也？」答曰：「律制十僧，得<ptr target="fn35"/>授具<lb ed="T" n="0937c02"/>戒；邊地五人，亦得授之。正為有處，不可不如<lb ed="T" n="0937c03"/>法耳。」又問：「幾許里為邊地？」答曰：「千里之外，山<lb ed="T" n="0937c04"/>海艱<ptr target="fn36"/>隔者是也。」</p><p><date from-iso="0432-02-18" key="j18788931879247" to-iso="0433-02-06">九年</date>，率弟子<ptr target="fn37"/><persName key="A015008">慧意</persName>、<persName key="A015007">慧<ptr target="fn38"/>鎧</persName>等<lb ed="T" n="0937c05"/>五人，從<persName key="A001592">僧伽跋摩</persName>重受具戒，敬慎奉持，如愛<lb ed="T" n="0937c06"/>頂腦。春秋七十餘，<date from-iso="0433-02-07" key="j18792481879601" to-iso="0434-01-26">元嘉十年</date>而卒。弟<ptr target="fn39"/>子<persName key="A015007">慧<lb ed="T" n="0937c07"/>鎧</persName>，並以節行聞于時也。</p>
+    
+    <linkGrp>
+        <link targets="#0937c04 #0937c06"/>
+        <ptr target="#A002628" type="person"/>
+        <ptr target="#A015008" type="person"/>
+        <ptr target="#A015007" type="person"/>
+        <ptr target="#A001592" type="person"/>
+        <ptr target="#j18788931879247" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0937c06 #0937c06"/>
+        <ptr target="#A002628" type="person"/>
+        <ptr target="#j18792481879601" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0937b21 #0937b23"/>
+        <ptr target="#A002628" type="person"/>
+        <ptr target="#A015011" type="person"/>
+        <ptr target="#CN0320114T07AA" type="place"/>
+        <ptr target="#j18752311875369" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0937b25 #0937c04"/>
+        <ptr target="#A002628" type="person"/>
+        <ptr target="#A000218" type="person"/>
+        <ptr target="#CN0320114T07AA" type="place"/>
+        <ptr target="#j18778011878154" type="time"/>
+    </linkGrp>
+</div>

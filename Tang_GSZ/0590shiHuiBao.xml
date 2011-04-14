@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0649a16shiHuiBao">
+    <p><anchor n="T.50.2060.0649a16"/><lb ed="T" n="0649a16"/><persName key="A006830">釋慧寶</persName>。氏族未詳。誦經二百餘卷。德優先<lb ed="T" n="0649a17"/>達。時共知名。以<date key="j19300111930394" from-iso="0572-02-02" to-iso="0573-02-19">齊武平三年</date>。從<placeName key="CN0140110Z01AA">并</placeName>向<placeName key="CN0130423Z23AA">鄴</placeName>。行<lb ed="T" n="0649a18"/>達<placeName key="CN0370900A01AA">艾陵</placeName>川。失道尋徑入山。暮宿巖下。室<lb ed="T" n="0649a19"/>似人居逈無所見<persName key="A006830">寶</persName>端坐室前。上觀松樹。<lb ed="T" n="0649a20"/>見有橫枝懸磬。去地丈餘。夜至二更。有人<lb ed="T" n="0649a21"/>身服草衣。自外而至。口云。此中何為有俗<lb ed="T" n="0649a22"/>氣。<persName key="A006830">寶</persName>即具述設敬。與共言議問<persName key="A006830">寶</persName>。即今何<lb ed="T" n="0649a23"/>姓統國。答曰。姓高氏。號齊國。<persName key="A006830">寶</persName>問曰。尊師<lb ed="T" n="0649a24"/>山居早晚。曰後漢時來。長老得何經業。<persName key="A006830">寶</persName><lb ed="T" n="0649a25"/>恃己誦博頗以自矜。山僧曰。修道者未應<lb ed="T" n="0649a26"/>如此。欲聞何經為誦之。<persName key="A006830">寶</persName>曰。樂聞花嚴。<lb ed="T" n="0649a27"/>僧即少時誦之便度。聲韻諧暢非世<ptr target="fn04"/>所聞。<lb ed="T" n="0649a28"/>更令誦餘。率皆如此。<persName key="A006830">寶</persName>驚歎曰。何因大部<lb ed="T" n="0649a29"/>經文倏然即度。報曰。<persName key="A006830">汝</persName>是有作心。我是無作<lb ed="T" n="0649b01"/>心。夫忘懷於萬物者。彼我自得矣。<persName key="A006830">寶</persName>知為<lb ed="T" n="0649b02"/>神異也求哀乞住。山僧曰。國中利養召<persName key="A006830">汝</persName>。<lb ed="T" n="0649b03"/>何能自安。且<persName key="A006830">汝</persName>情累未遣。住亦無補。至曉<lb ed="T" n="0649b04"/>便捨去。<persName key="A006830">寶</persName>遂返尋行迹。達<placeName key="CN0130423Z23AA">鄴</placeName>敘之。<ptr target="fn05"/></p>
+    <linkGrp>
+        <link targets="#0649a17 #0649a17"/>
+        <ptr target="#A006830" type="person"/>
+        <ptr target="#CN0140110Z01AA" type="place"/>
+        <ptr target="#j19300111930394" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0649a17 #0649b04"/>
+        <ptr target="#A006830" type="person"/>
+        <ptr target="#CN0370900A01AA" type="place"/>
+        <ptr target="#j19300111930394" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0649b04 #0649b04"/>
+        <ptr target="#A006830" type="person"/>
+        <ptr target="#CN0130423Z23AA" type="place"/>
+        </linkGrp>
+</div>

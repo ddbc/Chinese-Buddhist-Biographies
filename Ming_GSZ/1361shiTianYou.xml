@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0927c21shiTianYou">
+  <p><anchor n="T.50.2062.0927c21"/><lb ed="T" n="0927c21"/><persName key="A008655">釋天遊</persName>自號<persName key="A008655">典牛</persName>。<placeName key="CN0510108Z19AA">成都</placeName>鄭氏子也。幼業儒。<lb ed="T" n="0927c22"/>頴俊逸倫儕輩推重。初試郡庠復試<placeName key="CN0510722Z22AA">梓州</placeName>。<lb ed="T" n="0927c23"/>二處皆與貢籍。懼不敢承。遂竄名出關。適<lb ed="T" n="0927c24"/>會<persName key="A008663">王山谷</persName>西還。見<persName key="A008655">其</persName>風骨不凡談論超卓。<lb ed="T" n="0927c25"/>邀<persName key="A008655">其</persName>同舟。策往<placeName key="CN0360402M01AA">廬山</placeName>削髮。不易舊名。首<lb ed="T" n="0927c26"/>參死心不契。依<persName key="A008378">湛堂準</persName>於<placeName key="CN0360925T01AA">泐潭</placeName>。一日<persName key="A008378">湛堂</persName><lb ed="T" n="0927c27"/>普說曰。諸人苦苦就<persName key="A008378">準</persName>上座覓佛法。遂拊<lb ed="T" n="0927c28"/>膝曰。會麼雪上加霜。又拊膝曰。若也不會<lb ed="T" n="0927c29"/>豈不見乾峯示眾曰。舉一不得舉二。放<lb ed="T" n="0928a01"/>過一著落在第二。<persName key="A008655">師</persName>聞脫然悟入。出世於<lb ed="T" n="0928a02"/>雲蓋。遷靈巖<!--找不到此地-->說法大有<persName key="A008378">湛堂</persName>之風。甞和忠<lb ed="T" n="0928a03"/>道者牧牛頌曰。兩角指天。四脚著地。拽斷<lb ed="T" n="0928a04"/>鼻繩。牧甚屎屁。張無盡見之甚為擊節。因<lb ed="T" n="0928a05"/>退<placeName key="CN0360723T02AA">雲巖</placeName>過<placeName key="CN0360402M01AA">廬山</placeName>。而棲賢主者意不欲納。乃<lb ed="T" n="0928a06"/>故曰。老老大大正是質庫中<persName key="A008655">典牛</persName>耶。<persName key="A008655">師</persName>聞述<lb ed="T" n="0928a07"/>偈曰。質庫何曾解<persName key="A008655">典牛</persName>。秖緣價重實難酬。<lb ed="T" n="0928a08"/>想君本領無多子。畢竟難禁這一頭。竟去<lb ed="T" n="0928a09"/>菴於武寧<!--找不到此地-->。匾曰典牛。則終其身不出。年<lb ed="T" n="0928a10"/>近百歲而告寂焉。<placeName key="CN0330110M01AA">徑山</placeName>塗毒見時九十三矣。</p>
+  <linkGrp>
+    <link targets="#0928a10 #0928a10"/>
+    <ptr target="#A008655" type="person"/>
+    <ptr target="#CN0330110M01AA" type="place"/>
+  </linkGrp>
+  <linkGrp>
+    <link targets="#0927c24 #0927c26"/>
+    <ptr target="#A008655" type="person"/>
+    <ptr target="#CN0360402M01AA" type="place"/>
+  </linkGrp>
+  <linkGrp>
+    <link targets="#0927c26 #0928a01"/>
+    <ptr target="#A008655" type="person"/>
+    <ptr target="#A008378" type="person"/>
+    <ptr target="#CN0360925T01AA" type="place"/>
+  </linkGrp>
+</div>

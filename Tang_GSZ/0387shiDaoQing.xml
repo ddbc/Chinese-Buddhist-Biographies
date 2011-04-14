@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0521b16shiDaoQing">
+    <p><anchor n="T.50.2060.0521b16"/><lb ed="T" n="0521b16"/><persName key="A005600">釋道慶</persName>。姓戴。其先<placeName key="CN0321011Z02AA">廣陵</placeName>。後<ptr target="fn12"/>進度<placeName key="CN0000000R01AA">江</placeName>家于<placeName key="CN0320202Z04AA">無<lb ed="T" n="0521b17"/>錫</placeName>。<date key="j19314401931805" from-iso="0576-01-01" to-iso="0576-12-31">年十一</date>出家。事<placeName key="CN0320503T03AA">吳郡建善寺</placeName><persName key="A005601">藏闍梨</persName>。服勤<lb ed="T" n="0521b18"/>盡禮同侶所推。<date key="j19336321933996" from-iso="0582-01-01" to-iso="0582-12-31">十七</date>出都。聽<placeName key="CN0320103T06AA">彭城寺</placeName>講成<lb ed="T" n="0521b19"/>實論。大義餘論皆莫之遺。所以時匠目曰。<lb ed="T" n="0521b20"/>懸日月於懷中。注江河於口內者。誠歸於<lb ed="T" n="0521b21"/><persName key="A005600">慶</persName>矣。既荷嘉問倍志兼常。利齒聞於既<lb ed="T" n="0521b22"/>往。高座屬於茲日。及<date key="j19355941936231" notAfter-iso="0589" notBefore-iso="0587">陳祚云亡</date>法朋<ptr target="fn13"/>彫散。<lb ed="T" n="0521b23"/>東歸<placeName key="CN0320202Z04AA">無錫</placeName>居<placeName key="CN0320202T01AA">鳳光寺</placeName>。學徒載萃誨誘如初。<lb ed="T" n="0521b24"/>後止<placeName key="CN0320402T04AA">毘壇弘業寺</placeName>。專事闡弘無棄涼暑。然<lb ed="T" n="0521b25"/>其<ptr target="fn14"/>美容止善言笑。淡名利厚交遊。毫翰奔<lb ed="T" n="0521b26"/><ptr target="fn15"/>涌琴詩婉妙。風神閑縱韻宇虛凝。應物有<lb ed="T" n="0521b27"/>方履機無忤。以<date key="j19499431949972" from-iso="0626-08-30" to-iso="0626-09-28">武德九年八月</date>終於<placeName key="CN0320402T04AA">寺</placeName>房。<lb ed="T" n="0521b28"/>春秋六十一。即以<date key="j19499651949965" when-iso="0626-09-21">其月二十三日</date>。窆於<placeName key="CN0300000A04AA">扶塘</placeName><lb ed="T" n="0521b29"/>之山<ptr target="fn16"/>津也。穿壙之日。鍬鍤纔施。感白鶴一<lb ed="T" n="0521c01"/>群自天而下。遙曳翻翔摧藏哀唳。自非道<lb ed="T" n="0521c02"/>光遠被。何由致此異祥。同<placeName key="CN0320402T04AA">寺</placeName>沙門<persName key="A004910">法宣</persName>曰。<persName key="A004910">余</persName><lb ed="T" n="0521c03"/>與<persName key="A005600">伊</persName>人言忘道狎。<placeName key="CN0320106Z05AA">京輦</placeName>小年已欣共被。他<lb ed="T" n="0521c04"/>鄉衰暮更喜同袍。月席風筵接腕<ptr target="fn17"/>晤語。<persName key="A004910">吾</persName><lb ed="T" n="0521c05"/>子經堂論室促膝非異人。豈意玄穹殲<persName key="A004910">我</persName>良<lb ed="T" n="0521c06"/>友。千行徒洒百身寧贖。未能抑筆聊書短<lb ed="T" n="0521c07"/>銘。其<ptr target="fn18"/>曰。<ptr target="fn19"/>十力潛景。四依匡世。踵德連暉<lb ed="T" n="0521c08"/>伊人是繼。宮牆戒忍燈炬禪慧。並驅生林<lb ed="T" n="0521c09"/>分庭安叡。論堂<ptr target="fn20"/>振玉義室芬蘭。坐威師<lb ed="T" n="0521c10"/>子眾遶栴檀。道潔塵外理析談端。四儀式<lb ed="T" n="0521c11"/>序三業惟安。穢土機窮勝人現滅。<ptr target="fn21"/>帳留餘<lb ed="T" n="0521c12"/>影車迴去轍。隴月孤照墳泉幽冽。竹露暫團<lb ed="T" n="0521c13"/>松風長切。氣運有終德音無絕。</p>
+    <linkGrp>
+        <link targets="#0521b16 #0521b17"/>
+        <ptr target="#A005600" type="person"/>
+        <ptr target="#CN0320202Z04AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0521b17 #0521b18"/>
+        <ptr target="#A005600" type="person"/>
+        <ptr target="#A005601" type="person"/>
+        <ptr target="#CN0320503T03AA" type="place"/>
+        <ptr target="#j19314401931805" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0521b18 #0521b19"/>
+        <ptr target="#A005600" type="person"/>
+        <ptr target="#CN0320103T06AA" type="place"/>
+        <ptr target="#j19336321933996" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0521b22 #0521b23"/>
+        <ptr target="#A005600" type="person"/>
+        <ptr target="#CN0320202T01AA" type="place"/>
+        <ptr target="#j19355941936231" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0521b28 #0521c02"/>
+        <ptr target="#A005600" type="person"/>
+        <ptr target="#A004910" type="person"/>
+        <ptr target="#CN0320402T04AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0521b28 #0521c03"/>
+        <ptr target="#A005600" type="person"/>
+        <ptr target="#A004910" type="person"/>
+        <ptr target="#CN0320106Z05AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0521b24 #0521b28"/>
+        <ptr target="#A005600" type="person"/>
+        <ptr target="#CN0320402T04AA" type="place"/>
+        <ptr target="#j19499431949972" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0521b28 #0521c13"/>
+        <ptr target="#A004910" type="person"/>
+        <ptr target="#CN0300000A04AA" type="place"/>
+        <ptr target="#j19499651949965" type="time"/>
+    </linkGrp>
+</div>

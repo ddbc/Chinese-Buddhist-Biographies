@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0399a10shiHuiLan">
+    <p><anchor n="T.50.2059.0399a11"/><lb ed="T" n="0399a11"/><persName key="A002309">釋慧覽</persName>，姓成，<placeName key="CN0620902Z11AA">酒泉</placeName>人。少與<persName key="A002303">玄高</persName>俱以寂觀<lb ed="T" n="0399a12"/>見稱。<persName key="A002309">覽</persName>曾遊<placeName key="CN0650000E01AA">西域</placeName>，頂戴佛鉢，仍於<placeName key="PKNWPS000E01AA">罽賓</placeName><lb ed="T" n="0399a13"/>從<persName key="A003333">達<ptr target="fn10"/>摩比丘</persName>諮受禪要。<ptr target="fn11"/><persName key="A003333">達摩</persName>曾入定往<lb ed="T" n="0399a14"/><placeName key="XZ0000002A01AA">兜率天</placeName>，從<persName key="A001428">彌勒</persName>受菩薩戒。後以戒法授覽。<lb ed="T" n="0399a15"/><ptr target="fn12"/><persName key="A002309">覽</persName>還至<placeName key="CN0653221Z10AA">于填</placeName>，復以戒法授彼方諸僧。後<lb ed="T" n="0399a16"/>乃歸，路由<placeName key="CN0000003R01AA">河</placeName>南。河南<placeName key="CN0632522Z04AA">吐谷渾</placeName><persName key="A003334">慕延</persName>世子<persName key="A003335">瓊</persName>等，<lb ed="T" n="0399a17"/>敬<persName key="A002309">覽</persName>德<ptr target="fn13"/>問，遣使并資財，令於<placeName key="CN0510108Z04AA">蜀</placeName>立<placeName key="CN0510101T09AA">左軍<lb ed="T" n="0399a18"/>寺</placeName>，<persName key="A002309">覽</persName>即居<placeName key="CN0510101T09AA">之</placeName>。後移<ptr target="fn14"/><placeName key="CN0441322T01AA">羅天宮寺</placeName>。<persName key="A002604">宋文</persName>請下<placeName key="CN0320106Z06AA">都</placeName>，<lb ed="T" n="0399a19"/><ptr target="fn15"/>止<placeName key="CN0320102T04AA">鍾山定林寺</placeName>。<persName key="A002105">孝武</persName>起<placeName key="CN0320105T02AA">中興寺</placeName>，復勅令移<lb ed="T" n="0399a20"/>住。<placeName key="CN0320106Z06AA">京邑</placeName>禪僧皆隨踵受業。<placeName key="CN0330502Z01AA">吳興</placeName><persName key="A003011">沈演</persName>、<placeName key="CN0370782Z06AA">平昌</placeName><persName key="A002587">孟<lb ed="T" n="0399a21"/>顗</persName>。並欽慕道德，為造禪室於<placeName key="CN0320105T02AA">寺</placeName>。<ptr target="fn16"/><date key="j18880181890941" notAfter-iso="0465" notBefore-iso="0457">東大明中</date><lb ed="T" n="0399a22"/>卒，春秋六十餘矣。</p>
+    <linkGrp>
+        <link targets="#0399a11 #0399a12"/>
+        <ptr target="#A002309" type="person"/>
+        <ptr target="#A002303" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0399a12 #0399a13"/>
+        <ptr target="#A002309" type="person"/>
+        <ptr target="#A003333" type="person"/>
+        <ptr target="#PKNWPS000E01AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0399a15 #0399a15"/>
+        <ptr target="#A002309" type="person"/>
+        <ptr target="#CN0653221Z10AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0399a16 #0399a18"/>
+        <ptr target="#A002309" type="person"/>
+        <ptr target="#A003335" type="person"/>
+        <ptr target="#CN0510101T09AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0399a18 #0399a18"/>
+        <ptr target="#A002309" type="person"/>
+        <ptr target="#CN0441322T01AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0399a18 #0399a19"/>
+        <ptr target="#A002309" type="person"/>
+        <ptr target="#CN0320102T04AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0399a18 #0399a19"/>
+        <ptr target="#A002309" type="person"/>
+        <ptr target="#A002604" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0399a19 #0399a20"/>
+        <ptr target="#A002309" type="person"/>
+        <ptr target="#A002105" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0399a19 #0399a20"/>
+        <ptr target="#A002309" type="person"/>
+        <ptr target="#CN0320105T02AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0399a20 #0399a21"/>
+        <ptr target="#A002309" type="person"/>
+        <ptr target="#A003011" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0399a20 #0399a21"/>
+        <ptr target="#A002309" type="person"/>
+        <ptr target="#A002587" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0399a21 #0399a22"/>
+        <ptr target="#A002309" type="person"/>
+        <ptr target="#j18880181890941" type="time"/>
+    </linkGrp>
+</div>

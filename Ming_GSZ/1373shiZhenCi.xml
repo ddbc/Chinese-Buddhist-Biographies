@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0931a08shiZhenCi">
+  <p><anchor n="T.50.2062.0931a08"/><lb ed="T" n="0931a08"/><persName key="A008737">釋真慈</persName>號<persName key="A008737">元庵</persName>。<placeName key="CN0510722Z21AA">潼川</placeName>李氏子也。總角即慕空<lb ed="T" n="0931a09"/>寂好遊伽藍。懇父母依成都之正<placeName key="CN0510108T32AA">法院圓</placeName><lb ed="T" n="0931a10"/>頂受具足大小乘戒。潔肅氷雪解慧日隆。耽<lb ed="T" n="0931a11"/>嗜貝文遍遊講肆。聽圓覺修多羅。至四大<lb ed="T" n="0931a12"/>各離今者妄身當在何處畢竟無體實同<lb ed="T" n="0931a13"/>幻化。因而有省頌曰。一顆明珠。在<persName key="A008737">我</persName>這裏。<lb ed="T" n="0931a14"/>撥著動著。放光動地。呈似諸座講師。無能<lb ed="T" n="0931a15"/>識者。歸舉受業師。師以狗子無佛性話詰<lb ed="T" n="0931a16"/>之。<persName key="A008737">慈</persName>曰。百千公案無出此頌也。師乃叱<lb ed="T" n="0931a17"/>出。因而南遊<placeName key="CN0360402M01AA">廬阜</placeName>掛錫圓通<!--找不到此地-->。時<persName key="A008262">卍庵</persName>為西<lb ed="T" n="0931a18"/>堂為眾入室。舉僧問<persName key="A003703">雲門</persName>。撥塵見佛時如<lb ed="T" n="0931a19"/>何。<persName key="A003703">門</persName>曰。佛亦是塵。<persName key="A008737">慈</persName>聞豁然。隨聲便喝。以<lb ed="T" n="0931a20"/>手指胸曰。佛亦是塵。復呈頌曰。撥塵見佛<lb ed="T" n="0931a21"/>佛亦是塵。問了答了直下翻身。勸君更盡一<lb ed="T" n="0931a22"/>杯酒。西出陽關無故人。又頌塵塵三昧曰。<lb ed="T" n="0931a23"/>鉢裏飯桶裏水。別寶崑崙坐潭底。一塵塵<lb ed="T" n="0931a24"/>上走須彌。明眼波斯笑彈指。笑彈指珊瑚枝<lb ed="T" n="0931a25"/>上清風起。<persName key="A008262">卍庵</persName>頷之。於是聲揚四表道洽<lb ed="T" n="0931a26"/>殊途。出主<placeName key="CN0330702T07AA">智者</placeName>誨誘學者。大屠龍之手焉。</p>
+  <linkGrp>
+    <link targets="#0931a09 #0931a11"/>
+    <ptr target="#A008737" type="person"/>
+    <ptr target="#CN0510108T32AA" type="place"/>
+  </linkGrp>
+  <linkGrp>
+    <link targets="#0931a17 #0931a26"/>
+    <ptr target="#A008737" type="person"/>
+    <ptr target="#A008262" type="person"/>
+    <ptr target="#CN0360402M01AA" type="place"/>
+  </linkGrp>
+  <linkGrp>
+    <link targets="#0931a26 #0931a26"/>
+    <ptr target="#A008737" type="person"/>
+    <ptr target="#CN0330702T07AA" type="place"/>
+  </linkGrp>
+</div>

@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0326b14weiZhiNan">
+    <p><anchor n="T.50.2059.0326b14"/><lb ed="T" n="0326b14"/><persName key="A001634">維祇難</persName>，本<placeName key="IN0000000E01AA">天竺</placeName><ptr target="fn13"/>人。世奉異道，以火<ptr target="fn14"/>祠為<ptr target="fn15"/><lb ed="T" n="0326b15"/>正。時有<placeName key="IN0000000E01AA">天竺</placeName>沙門習學小乘，多行道術，<lb ed="T" n="0326b16"/>經遠行逼暮，欲寄<persName key="A001634">難</persName>家宿。<persName key="A001634">難</persName>家既事異<lb ed="T" n="0326b17"/>道，猜忌釋子，乃處之門外，露地而宿。沙門<lb ed="T" n="0326b18"/>夜密加呪術，令<persName key="A001634">難</persName>家所事之火欻然變滅，<lb ed="T" n="0326b19"/>於是舉家共出，稽請沙門入室供養。沙門<lb ed="T" n="0326b20"/>還以呪術，變火令生。<persName key="A001634">難</persName>既覩沙門神力勝<lb ed="T" n="0326b21"/>己，即於佛法大生信樂，乃捨本所事，出家<lb ed="T" n="0326b22"/>為道，依此沙門以為和<ptr target="fn16"/>上。受學三藏，妙<lb ed="T" n="0326b23"/>善四《含》，遊化諸國，莫不皆奉。</p>
+    <p>以<date from-iso="0224-02-07" key="j18029111803264" to-iso="0225-01-25">吳黃武三<lb ed="T" n="0326b24"/>年</date>，與同伴<persName key="A000764">竺律炎</persName>。來至<placeName key="CN0420704Z04AA">武昌</placeName>，齎《曇鉢經》梵<lb ed="T" n="0326b25"/>本。《曇鉢》者。即《法句經》也。時吳士共請出經，<persName key="A001634"><lb ed="T" n="0326b26"/>難</persName>既未善國語，乃共其伴<persName key="A000764">律炎</persName>譯為漢文。<persName key="A000764"><lb ed="T" n="0326b27"/>炎</persName>亦未善漢言，頗有不盡，志存義本，辭近<lb ed="T" n="0326b28"/>朴質。至<date key="j18330031833238" from-iso="0306-06-29" to-iso="0307-02-19">晉惠之末</date>，有沙門<persName key="A000693">法立</persName>，更譯為五<lb ed="T" n="0326b29"/>卷。沙門<persName key="A000707">法巨</persName>著筆，其<ptr target="fn17"/>辭小華也。<persName key="A000693">立</persName>又別出<lb ed="T" n="0326c01"/>小經近四許首，值<date key="j18354241835552" from-iso="0313-02-13" to-iso="0313-06-21">永嘉末</date>亂，多不復存。</p>
+
+    <linkGrp>
+        <link targets="#0326b23 #0326b27"/>
+        <ptr n="譯者" target="#A001634" type="person"/>
+        <ptr n="譯者" target="#A000764" type="person"/>
+        <ptr target="#CN0420704Z04AA" type="place"/>
+        <ptr target="#j18029111803264" type="time"/>
+        <!--    <link targets="#event"/>     -->
+    </linkGrp>
+</div>

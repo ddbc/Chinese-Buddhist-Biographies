@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0578c25shiHongLin">
+    <p><anchor n="T.50.2060.0578c25"/><lb ed="T" n="0578c25"/><persName key="A006116">釋洪林</persName>。未詳氏族。<placeName key="CN0140110Z03AA">太原</placeName>人也。少履釋門稟<lb ed="T" n="0578c26"/>受清化。率志都雅言晤<ptr target="fn41"/>精穆。住<placeName key="CN0140110T02AA">并州大興<lb ed="T" n="0578c27"/>國寺</placeName>。履操栖靜退屏人物。而住房連匝與眾<lb ed="T" n="0578c28"/>比居。整畟貞嚴希言寡涉。高眾盛德皆敬<lb ed="T" n="0578c29"/>而奉之。遊至林房。莫不捻履潛步<ptr target="fn42"/>[素-糸+回]然<lb ed="T" n="0579a01"/>趣越也。其為世重如此。獨居一室積五十<lb ed="T" n="0579a02"/>年。賓客送迎足不踰閾。至於僧法制度道<lb ed="T" n="0579a03"/>俗二食。身先座首勵力行奉。不以道德用<lb ed="T" n="0579a04"/>虧時眾。餘則端坐房中儼然卓立。瓶衣什<lb ed="T" n="0579a05"/>物周正方所。故登其門者不覺毛竪。有問<lb ed="T" n="0579a06"/>其故則從容談論。詞義審當。而不測其心<lb ed="T" n="0579a07"/>造也。故<placeName key="CN0140110T02AA">興國大寺</placeName>百有餘僧。敬異崇仰有<lb ed="T" n="0579a08"/>如天<ptr target="fn01"/>岸。以<date key="j19469321950091" notAfter-iso="0627" notBefore-iso="0618">武德年中</date>終于所住。春秋八<lb ed="T" n="0579a09"/>十餘矣。</p>
+    <linkGrp>
+        <link targets="#0578c25 #0578c25"/>
+        <ptr target="#A006116" type="person"/>
+        <ptr target="#CN0140110Z03AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0578c26 #0579a02"/>
+        <ptr target="#A006116" type="person"/>
+        <ptr target="#CN0140110T02AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0579a08 #0579a09"/>
+        <ptr target="#A006116" type="person"/>
+        <ptr target="#CN0140110T02AA" type="place"/>
+        <ptr target="#j19469321950091" type="time"/>
+    </linkGrp>
+</div>

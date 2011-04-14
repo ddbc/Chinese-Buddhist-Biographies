@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0658b14shiDaoMu">
+    <p><anchor n="T.50.2060.0658b14"/><lb ed="T" n="0658b14"/><persName key="A006933">釋道穆</persName>。<placeName key="CN0421087Z05AA">松滋</placeName>人。性愛山林。初入荊州<placeName key="CN0421003M04AA">神山</placeName>。<lb ed="T" n="0658b15"/>將事巖隱。感迅雷烈風震山折木神蛇繞<lb ed="T" n="0658b16"/>床群虎縱吼。<persName key="A006933">穆</persName>心安泰然都無外想。七日<lb ed="T" n="0658b17"/>一定蛇虎方隱。方登<placeName key="CN0421003M04AA">山</placeName>遠眺。其<placeName key="CN0421003M04AA">山</placeName>東依浚<lb ed="T" n="0658b18"/>壑。西顧深流。有終焉之志。山神變形謝過<lb ed="T" n="0658b19"/>云。是<persName key="A006934">田伯<ptr target="fn02"/>玉</persName>也。來請受戒。及施法式。諸<lb ed="T" n="0658b20"/>毒潛亡。祭祀絕於羶辛。祈澤應時雲雨。如<lb ed="T" n="0658b21"/>此衛候不一。例可知也。居<placeName key="CN0421003M04AA">山</placeName>三十餘載。名<lb ed="T" n="0658b22"/>聲及遠。遊遁之賓咸歸<ptr target="fn03"/>向請。沙門則<persName key="A006935">僧展</persName><lb ed="T" n="0658b23"/><persName key="A006937">僧安</persName>。高士則<persName key="A002973">劉虬</persName><persName key="A006938">車綴</persName>。敘言命的無爽風<lb ed="T" n="0658b24"/>聲。梁湘東王<persName key="A002426">蕭繹</persName>。欽德經過。於挂錫之所<lb ed="T" n="0658b25"/>建臺一區。立碑敘胤。<persName key="A005213">簡文</persName>為頌。立碑在於<lb ed="T" n="0658b26"/>山頂。及<persName key="A006933">穆</persName>將終。欣於觀遠。乃行至山峯而<lb ed="T" n="0658b27"/>卒。春秋七十矣。</p>
+    <linkGrp>
+        <link targets="#0658b14 #0658b14"/>
+        <ptr target="#A006933" type="person"/>
+        <ptr target="#CN0421087Z05AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0658b14 #0658b19"/>
+        <ptr target="#A006933" type="person"/>
+        <ptr target="#A006934" type="person"/>
+        <ptr target="#CN0421003M04AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0658b22 #0658b23"/>
+        <ptr target="#A006933" type="person"/>
+        <ptr target="#A006935" type="person"/>
+        <ptr target="#CN0421003M04AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0658b22 #0658b23"/>
+        <ptr target="#A006933" type="person"/>
+        <ptr target="#A006937" type="person"/>
+        <ptr target="#CN0421003M04AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0658b22 #0658b23"/>
+        <ptr target="#A006933" type="person"/>
+        <ptr target="#A002973" type="person"/>
+        <ptr target="#CN0421003M04AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0658b22 #0658b23"/>
+        <ptr target="#A006933" type="person"/>
+        <ptr target="#A006938" type="person"/>
+        <ptr target="#CN0421003M04AA" type="place"/>
+        </linkGrp>
+    <linkGrp>
+        <link targets="#0658b24 #0658b25"/>
+        <ptr target="#A002426" type="person"/>
+        <ptr target="#A006933" type="person"/>
+        <ptr target="#CN0421003M04AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0658b25 #0658b26"/>
+        <ptr target="#A005213" type="person"/>
+        <ptr target="#A006933" type="person"/>
+        <ptr target="#CN0421003M04AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0658b26 #0658b27"/>
+        <ptr target="#A006933" type="person"/>
+        <ptr target="#CN0421003M04AA" type="place"/>
+    </linkGrp>
+</div>

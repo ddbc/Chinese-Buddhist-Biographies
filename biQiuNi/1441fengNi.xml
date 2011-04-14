@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="bqnz0946b12fengNi">
+    <head>偽高昌都<placeName key="CN0652101T01AA">郎中寺</placeName><persName key="A016107">馮</persName>尼<ptr target="fn21"/>傳四</head><p><anchor n="T.50.2063.0946b13"/><lb ed="T" n="0946b13"/><persName key="A016107">馮</persName>尼者，本姓馮，<placeName key="CN0652101Z28AA">高昌</placeName>人也。時人敬重，因以姓<lb ed="T" n="0946b14"/>為號。<date key="j18810371881401" from-iso="0438-01-01" to-iso="0438-12-31">年三十</date>出家，住高昌都<placeName key="CN0652101T01AA">郎中寺</placeName>。<ptr target="fn22"/>菜蔬一<lb ed="T" n="0946b15"/>食，戒行精苦，燒六指供養，皆悉至掌。誦大<lb ed="T" n="0946b16"/><ptr target="fn23"/>般涅槃經，三日一遍。時有<persName key="A014025">法<ptr target="fn＊"/>慧</persName>法師，精進<lb ed="T" n="0946b17"/>邁群，為<placeName key="CN0652101Z28AA">高昌</placeName>一國尼依止師。<persName key="A016107">馮</persName>後忽謂<persName key="A014025">法惠</persName><lb ed="T" n="0946b18"/>言：「阿闍<ptr target="fn24"/>梨<ptr target="fn25"/>未好，<persName key="A016107">馮</persName>是闍梨善知識，闍梨可<lb ed="T" n="0946b19"/>往<placeName key="CN0652923Z09AA">龜茲國</placeName>金<ptr target="fn26"/>花，帳下<persName key="A016111">直<ptr target="fn27"/>月</persName>聞，當得勝法。」<persName key="A014025">法<lb ed="T" n="0946b20"/>惠</persName>聞而從之，往至彼寺，見<persName key="A016111">直<ptr target="fn＊"/>月</persName>。<persName key="A016111">直<ptr target="fn＊"/>月</persName>歡喜，<lb ed="T" n="0946b21"/>以蒲萄酒<ptr target="fn28"/>一升與之令飲。<persName key="A014025">法惠</persName>驚愕：「<ref target="#A014025" type="person">我</ref>來覓<lb ed="T" n="0946b22"/>勝法，翻然飲<ref target="#A014025" type="person">我</ref>。非法之物」 不肯飲。<persName key="A016111">直<ptr target="fn＊"/>月</persName>推<lb ed="T" n="0946b23"/>背，急令出去。<persName key="A014025">法惠</persName>退思：「 <ref target="#A014025" type="person">我</ref>既遠來，未達此意，<lb ed="T" n="0946b24"/>恐不宜違。」即頓飲之，醉吐迷悶，無所復識，<persName key="A016111">直<lb ed="T" n="0946b25"/><ptr target="fn＊"/>月</persName>便自他行。<persName key="A014025">法惠</persName>酒醒，自知犯戒，追大慚愧，<lb ed="T" n="0946b26"/>自<ptr target="fn29"/>搥其身，悔責所行，欲自<ptr target="fn30"/>害命。因此思惟，<lb ed="T" n="0946b27"/>得第三果。<persName key="A016111">直<ptr target="fn＊"/>月</persName>還，問曰：「 已得耶？」答曰：「然。」因<lb ed="T" n="0946b28"/>還<placeName key="CN0652101Z28AA">高昌</placeName>，未至二百里，初無音信，<persName key="A016107">馮</persName>呼尼眾遠<lb ed="T" n="0946b29"/>出迎候。先知之迹，皆類此也，<placeName key="CN0652101Z28AA">高昌</placeName>諸尼莫不<lb ed="T" n="0946c01"/>師奉。年九十六，梁<date from-iso="0504-02-03" key="j19051751905529" to-iso="0505-01-22">天監<ptr target="fn31"/>三年</date>卒。</p>
+    <linkGrp>
+        <link targets="#0946c01 #0946c01"/>
+        <ptr target="#A016107" type="person"/>
+        <ptr target="#j19051751905529" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0946b14 #0946b15"/>
+        <ptr target="#A016107" type="person"/>
+        <ptr target="#CN0652101T01AA" type="place"/>
+        <ptr target="#j18810371881401" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0946b16 #0946b18"/>
+        <ptr target="#A016107" type="person"/>
+        <ptr target="#A014025" type="person"/>
+        <ptr target="#CN0652101Z28AA" type="place"/>
+        <ptr target="#j18810371881401" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0946b19 #0946b26"/>
+        <ptr target="#A014025" type="person"/>
+        <ptr target="#A016111" type="person"/>
+        <ptr target="#CN0652923Z09AA" type="place"/>
+        </linkGrp>
+</div>

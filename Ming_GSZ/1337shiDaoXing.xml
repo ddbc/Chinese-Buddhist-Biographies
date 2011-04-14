@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0920c06shiDaoXing">
+  <p><anchor n="T.50.2062.0920c06"/><lb ed="T" n="0920c06"/><persName key="A001504">釋道行</persName>號<persName key="A001504">雪堂</persName>。<placeName key="CN0331102Z09AA">處州</placeName>葉氏子也。初依<persName key="A008477">普照<lb ed="T" n="0920c07"/>英</persName>得度。出遊參<persName key="A008397">佛眼</persName>。一日聞眼舉玄沙築<lb ed="T" n="0920c08"/>著脚指話遂大悟。住郡<placeName key="CN0331102T05AA">南明</placeName>。上堂會得便<lb ed="T" n="0920c09"/>會玉本無瑕。若言不會碓嘴生花。試問九<lb ed="T" n="0920c10"/>年面壁何如大會拈花。<placeName key="CN0331102T05AA">南明</placeName>恁麼商確也。是<lb ed="T" n="0920c11"/>順風撒沙。次遷<placeName key="CN0330802M01AA">烏巨</placeName>示眾舉。<persName key="A008478">璣和尚</persName>問<lb ed="T" n="0920c12"/>僧。禪以何為義。眾雖下語未契厥心。眾<lb ed="T" n="0920c13"/>僧請益<persName key="A008478">璣</persName>代云。以謗為義。<persName key="A001504">師</persName>曰。三世諸佛<lb ed="T" n="0920c14"/>是謗。<persName key="G000018">西天二十八祖</persName>是謗。<persName key="G000017">唐土六祖</persName>是謗。天<lb ed="T" n="0920c15"/>下老和尚是謗。諸人是謗。山僧是謗。於中還<lb ed="T" n="0920c16"/>有不謗者無。談玄說妙河沙數。爭似雙峯<lb ed="T" n="0920c17"/>謗得親。忽示微疾。門弟子教授汪喬年至省。<lb ed="T" n="0920c18"/>遂以後事委之。說偈曰。識則識自本心。見<lb ed="T" n="0920c19"/>則見自本性。識得本心本性。正是宗門大<lb ed="T" n="0920c20"/>病。又註曰。爛泥中有刺。莫道不疑好。黎明<lb ed="T" n="0920c21"/>沐浴更衣加趺而逝。闍維獲五色舍利。煙<lb ed="T" n="0920c22"/>所至處舍利纍然。齒舌不壞。塔于寺西。</p>
+  <linkGrp>
+    <link targets="#0920c08 #0920c08"/>
+    <ptr target="#A001504" type="person"/>
+    <ptr target="#CN0331102T05AA" type="place"/>
+  </linkGrp>
+  <linkGrp>
+    <link targets="#0920c06 #0920c07"/>
+    <ptr target="#A001504" type="person"/>
+    <ptr target="#A008477" type="person"/>
+  </linkGrp>
+  <linkGrp>
+    <link targets="#0920c06 #0920c07"/>
+    <ptr target="#A001504" type="person"/>
+    <ptr target="#A008397" type="person"/>
+  </linkGrp>
+  <linkGrp>
+    <link targets="#0920c11 #0920c17"/>
+    <ptr target="#A001504" type="person"/>
+    <ptr target="#A008478" type="person"/>
+    <ptr target="#CN0330802M01AA" type="place"/>
+  </linkGrp>
+</div>

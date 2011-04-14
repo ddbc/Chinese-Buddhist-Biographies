@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0416a19shiTanZong">
+    <p><anchor n="T.50.2059.0416a19"/><lb ed="T" n="0416a19"/><persName key="A002152">釋曇宗</persName>，姓虢，<placeName key="CN0320115Z36AA">秣陵</placeName>人。出家止<placeName key="CN0320102T20AA">靈味寺</placeName>。少而<lb ed="T" n="0416a20"/>好學，博通眾典。唱說之功，獨步當世。辯口<lb ed="T" n="0416a21"/>適時，應變無盡。嘗為<persName key="A002105">孝武</persName>唱導，行菩薩五<lb ed="T" n="0416a22"/>法禮竟，<persName key="A002105">帝</persName>乃笑謂<persName key="A002152">宗</persName>曰：「<persName key="A002105">朕</persName>有何罪，而為懺<lb ed="T" n="0416a23"/>悔？」<persName key="A002152">宗</persName>曰：「昔<persName key="A002434">虞舜</persName>至聖，猶云<persName key="A002434">予</persName>違爾弼。<persName key="A002431">湯武</persName>亦<lb ed="T" n="0416a24"/>云萬姓有罪，在<persName key="A002431">予</persName>一人。聖王引咎，蓋以軌<lb ed="T" n="0416a25"/>世。<persName key="A002105">陛下</persName>德邁往代，齊聖虞殷，履道思沖，<lb ed="T" n="0416a26"/>寧得獨異。」<persName key="A002105">帝</persName>大悅。後<persName key="A003061">殷淑儀</persName>薨，三七設會，<lb ed="T" n="0416a27"/>悉請<persName key="A002152">宗</persName>。<persName key="A002152">宗</persName>始歎世道浮偽，恩愛必離。嗟<persName key="A003061">殷氏</persName><lb ed="T" n="0416a28"/>淑德，榮幸未暢，而滅實當年，收芳今日，發<lb ed="T" n="0416a29"/>言悽至。<persName key="A002105">帝</persName>泫愴良久，賞異彌深。後終於<placeName key="CN0320102T20AA">所<lb ed="T" n="0416b01"/>住</placeName>，著《京師塔寺記》二卷。時<placeName key="CN0320102T20AA">靈味寺</placeName>復有<persName key="A003521">釋僧<lb ed="T" n="0416b02"/>意</persName>者，亦善唱說。製<ptr target="fn05"/>《睒經》新聲，哀亮有序。</p>
+    <linkGrp>
+        <link targets="#0416a19 #0416a19"/>
+        <ptr target="#A002152" type="person"/>
+        <ptr target="#CN0320102T20AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0416a21 #0416a26"/>
+        <ptr target="#A002152" type="person"/>
+        <ptr target="#A002105" type="person"/>
+        <ptr target="#CN0320102T20AA" type="place"/>
+        </linkGrp>
+    <linkGrp>
+        <link targets="#0416b01 #0416b02"/>
+        <ptr target="#A003521" type="person"/>
+        <ptr target="#CN0320102T20AA" type="place"/>
+        </linkGrp>
+</div>

@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0663a18shiHuiCong">
+    <p><anchor n="T.50.2060.0663a18"/><lb ed="T" n="0663a18"/><ptr target="fn03"/><persName key="A006983">釋慧聰</persName>。姓王。出家已後遊行齋講。手不釋<lb ed="T" n="0663a19"/>卷。尋經旨趣心自欣躍。苦形節食行知足<lb ed="T" n="0663a20"/>行。自云。法華經。<persName key="A003064">常不輕菩薩</persName>。不專讀誦經<lb ed="T" n="0663a21"/>典。但行禮拜四眾。尚得六根清淨。我何為<lb ed="T" n="0663a22"/>不禮諸佛世尊。即於<placeName key="CN0510108T24AA">別院</placeName>閉門。常禮萬五<lb ed="T" n="0663a23"/>千佛。依經自唱。一一禮之。寺僧怪其所作。<lb ed="T" n="0663a24"/>於壁隙伺之。見禮拜頭下天龍八部等亦<lb ed="T" n="0663a25"/>頭下。數數非一。諸人來其院者。無不心戰<lb ed="T" n="0663a26"/>走出。恒聞異香蔚蔚爾。及死在。<date key="j19500921958507" notAfter-iso="0650" notBefore-iso="0627">貞觀年中</date><lb ed="T" n="0663a27"/><placeName key="CN0510108T24AA">院</placeName>絕人往。每夜常聞彈指禮拜行道等相。</p>
+    <linkGrp>
+        <link targets="#0663a22 #0663a23"/>
+        <ptr target="#A006983" type="person"/>
+        <ptr target="#CN0510108T24AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0663a26 #0663a27"/>
+        <ptr target="#A006983" type="person"/>
+        <ptr target="#CN0510108T24AA" type="place"/>
+        <ptr target="#j19500921958507" type="time"/>
+    </linkGrp>
+</div>

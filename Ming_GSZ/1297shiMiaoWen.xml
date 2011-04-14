@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0907a13shiMiaoWen">
+  <p><anchor n="T.50.2062.0907a13"/><lb ed="T" n="0907a13"/><persName key="A008177">釋妙文</persName><placeName key="CN0130726Z43AA">蔚州</placeName>孫氏子也。<date key="j21757952176159" from-iso="1245-01-08" to-iso="1246-01-07">九歲</date>出家十八受具。<lb ed="T" n="0907a14"/>已而遊學於雲朔<placeName key="CN0130000E01AA">燕趙</placeName>之境。<date key="j21801782180542" from-iso="1257-01-08" to-iso="1258-01-07">二十一</date>抵<placeName key="CN0110102Z01AA">京師</placeName>。<lb ed="T" n="0907a15"/>依<persName key="A008178">大德明和尚</persName>學圓頓教。遂陸沈于眾十<lb ed="T" n="0907a16"/>有一年。眾請出世。始赤服升猊座。縱無礙<lb ed="T" n="0907a17"/>辯若峽倒川奔。及乎閒居簡默言不妄發。<lb ed="T" n="0907a18"/>其涵養冲挹無欲速。不躁進大類如此。<date key="j21900392190404" from-iso="1284-01-08" to-iso="1285-01-07">年<lb ed="T" n="0907a19"/>四十八</date>住薊之<placeName key="CN0120225T04AA">雲泉</placeName>勤儉節用。老者懷其<lb ed="T" n="0907a20"/>德。少者嚴其教。故眾睦而寺治。廩有餘粟<lb ed="T" n="0907a21"/>以賑饑民。<placeName key="CN0120225Z06AA">薊</placeName>人稱之。<persName key="A002085">世祖</persName>召見顧謂侍臣<lb ed="T" n="0907a22"/>曰。此<persName key="A008177">福德僧</persName>也詔居<placeName key="CN0110102T05AA">寶集</placeName>。自爾教乘法席<lb ed="T" n="0907a23"/>益盛。性相並驅僧俗溥濟。斯時海內講席紛<lb ed="T" n="0907a24"/>紛方膠錮於名相凝滯於殊途。<persName key="A008177">文</persName>獨大弘<lb ed="T" n="0907a25"/>方等振以圓宗。使守株者融通於寂默之<lb ed="T" n="0907a26"/>表。龍象蹴踏競駕一乘。年逾八十專修念<lb ed="T" n="0907a27"/>佛三昧。<date from-iso="1319-01-30" key="j22028442203227" to-iso="1320-02-17">延祐六年</date>預知時至誡諸弟子。高<lb ed="T" n="0907a28"/>聲稱彌陀佛名面西趺坐。手結三昧印泊<lb ed="T" n="0907a29"/>然而蛻。塔于平則門外。</p>
+  <linkGrp>
+    <link targets="#0907a27 #0907a29"/>
+    <ptr target="#A008177" type="person"/>
+    <ptr target="#j22028442203227" type="time"/>
+  </linkGrp>
+  <linkGrp>
+    <link targets="#0907a14 #0907a14"/>
+    <ptr target="#A008177" type="person"/>
+    <ptr target="#CN0130000E01AA" type="place"/>
+  </linkGrp>
+  <linkGrp>
+    <link targets="#0907a14 #0907a15"/>
+    <ptr target="#A008177" type="person"/>
+    <ptr target="#A008178" type="person"/>
+    <ptr target="#CN0110102Z01AA" type="place"/>
+  </linkGrp>
+  <linkGrp>
+    <link targets="#0907a18 #0907a21"/>
+    <ptr target="#A008177" type="person"/>
+    <ptr target="#CN0120225T04AA" type="place"/>
+    <ptr target="#j21900392190404" type="time"/>
+  </linkGrp>
+  <linkGrp>
+    <link targets="#0907a21 #0907a26"/>
+    <ptr target="#A008177" type="person"/>
+    <ptr target="#CN0110102T05AA" type="place"/>
+    <ptr target="#j21900392190404" type="time"/>
+  </linkGrp>
+</div>

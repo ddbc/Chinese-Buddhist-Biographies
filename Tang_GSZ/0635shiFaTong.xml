@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0663a28shiFaTong">
+    <p><anchor n="T.50.2060.0663a28"/><lb ed="T" n="0663a28"/><persName key="A006985">釋法通</persName>。姓關。京兆<placeName key="CN0610125Z11AA">鄠</placeName>人。小出家。極尫弱。<lb ed="T" n="0663a29"/>隨風偃<ptr target="fn04"/>什似任羅綺。由是同侶頗輕<persName key="A006985">之</persName>。<persName key="A006985">通</persName><lb ed="T" n="0663b01"/>輒流淚。一朝對<persName key="A002803">觀音</persName>像慨慷曰。<persName key="A006985">通</persName>聞<persName key="A002803">菩薩</persName><lb ed="T" n="0663b02"/>聖鑒所願剋從。乞垂提誘免斯輕侮。因斯<lb ed="T" n="0663b03"/>誦觀音經晝夜不捨。後歲餘歸本生覲母。<lb ed="T" n="0663b04"/>旦食訖。假寐於庭樹下。少間口中涎沫流<lb ed="T" n="0663b05"/>液。向有三升。母以為物忤。遽呼覺問。何事<lb ed="T" n="0663b06"/>如此。<persName key="A006985">通</persName>曰。向見有人遺三驢馱筋。<persName key="A006985">通</persName>噉始<lb ed="T" n="0663b07"/>一驢。孃呼遂覺。餘二失之。自爾覺身力雄<lb ed="T" n="0663b08"/>勇肌膚堅[革*卬]。密舉大木石不以為重。<placeName key="CN0610104T09AA">寺</placeName>有<lb ed="T" n="0663b09"/><persName key="A006986">僧戡</persName>者。膂力之最。<persName key="A006985">通</persName>竊取袈裟安在柱下。<lb ed="T" n="0663b10"/><persName key="A006986">戡</persName>初不見。謂是神鬼所為。<persName key="A006985">通</persName>笑為舉梁抽<lb ed="T" n="0663b11"/>取。<persName key="A006986">戡</persName>大駭服。有大石臼重五百餘斤。<persName key="A006985">通</persName><lb ed="T" n="0663b12"/>於<placeName key="CN0610125M01AA">南山</placeName>負來供僧用。今見在貯水施禽鳥。<lb ed="T" n="0663b13"/><persName key="A004324">隋高祖</persName>重之。有<placeName key="CN0540102E01AA">西蕃</placeName>貢一人。云<persName key="A006988">大壯</persName>。在北<lb ed="T" n="0663b14"/>門試相撲無得者。<persName key="A004324">帝</persName>頗恧之云。大隋國無<lb ed="T" n="0663b15"/>有健者。召<persName key="A006985">通</persName>來令相撲。<persName key="A006985">通</persName>曰。何處出家人<lb ed="T" n="0663b16"/>為此事。必知氣力。把手即知。便喚彼來。<persName key="A006985">通</persName><lb ed="T" n="0663b17"/>任其把捉。其人努力把捉。<persName key="A006985">通</persName>都不以為懷。<lb ed="T" n="0663b18"/>至<persName key="A006985">通</persName>後捉。總攬兩手急搦。一時血出外灒。<lb ed="T" n="0663b19"/>彼即蟠臥在地乞命。<persName key="A006985">通</persName>放之曰。<persName key="A006985">我</persName>不敢殺<lb ed="T" n="0663b20"/>捉。恐爾手碎去。於是大伏。舉朝稱慶<placeName key="CN0610102Z14AA">京邑</placeName><lb ed="T" n="0663b21"/>弄力者聞而造之。<persName key="A006985">通</persName>為把豆麥便碎。倒曳<lb ed="T" n="0663b22"/>車牛却行。當時壯士命為<persName key="A006985">天力士</persName>也。<date key="j19455501946768" notAfter-iso="0617" notBefore-iso="0614"><persName key="A004413">煬帝</persName><lb ed="T" n="0663b23"/>末</date>。避亂隱<placeName key="CN0610125M01AA">南山</placeName>。乃負一具磑并犢子。大神<lb ed="T" n="0663b24"/>通也。未幾丁母憂出山歸葬。事了返山。雖<lb ed="T" n="0663b25"/>力兼百夫。未曾忤物。精誠節約。時輩推<persName key="A006985">之</persName>。<lb ed="T" n="0663b26"/>以<date key="j19469511947700" notAfter-iso="0620" notBefore-iso="0618">武德初</date>卒。春秋五十六。</p>
+    <linkGrp>
+        <link targets="#0663a28 #0663a28"/>
+        <ptr target="#A006985" type="person"/>
+        <ptr target="#CN0610125Z11AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0663b08 #0663b11"/>
+        <ptr target="#A006985" type="person"/>
+        <ptr target="#A006986" type="person"/>
+        <ptr target="#CN0610104T09AA" type="place"/>
+        </linkGrp>
+    <linkGrp>
+        <link targets="#0663b11 #0663b12"/>
+        <ptr target="#A006985" type="person"/>
+        <ptr target="#CN0610125M01AA" type="place"/>
+        </linkGrp>
+    <linkGrp>
+        <link targets="#0663b13 #0663b22"/>
+        <ptr target="#A006985" type="person"/>
+        <ptr target="#A006988" type="person"/>
+        <ptr target="#A004324" type="person"/>
+        <ptr target="#CN0610102Z14AA" type="place"/>
+        </linkGrp>
+    <linkGrp>
+        <link targets="#0663b22 #0663b24"/>
+        <ptr target="#A006985" type="person"/>
+        <ptr target="#CN0610125M01AA" type="place"/>
+        <ptr target="#j19455501946768" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0663b26 #0663b26"/>
+        <ptr target="#A006985" type="person"/>
+        <ptr target="#j19469511947700" type="time"/>
+    </linkGrp>
+</div>

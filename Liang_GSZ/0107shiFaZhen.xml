@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0374b25shiFaZhen">
+	<p><anchor n="T.50.2059.0374b25"/><lb ed="T" n="0374b25"/><persName key="A002250">釋法<ptr target="fn＊"/>珍</persName>，姓楊，<placeName key="CN0140881Z16AA">河東</placeName>人。少而好學，尋問萬里。<lb ed="T" n="0374b26"/><date key="j18755861876175" notAfter-iso="0424" notBefore-iso="0423">宋景平中</date>，來遊<placeName key="CN0370882Z05AA">兗</placeName>、<placeName key="CN0411727Z23AA">豫</placeName>。貫極眾經，傍通異部。<lb ed="T" n="0374b27"/>後聽<placeName key="CN0371521Z08AA">東阿</placeName><persName key="A002229">靜公</persName>講，眾屢請覆述，<persName key="A002229">靜</persName>歎曰：「吾不<lb ed="T" n="0374b28"/>及也。」<date from-iso="0424" key="j18761761886925" to-iso="0454">元嘉中</date>中過江，<placeName key="CN0350722Z22AA">吳興</placeName><persName key="A003011">沈演之</persName>特深器重，<lb ed="T" n="0374b29"/>請還<placeName key="CN0350722Z22AA">吳興</placeName><placeName key="CN0330521T01AA">武康小山寺</placeName>，首尾十有九年。自非<lb ed="T" n="0374c01"/>祈請法事，未嘗出門。居于<placeName key="CN0330521Z07AA">武康</placeName>，每歲開講，<lb ed="T" n="0374c02"/>三吳學者負笈盈衢。乃著《涅槃》、《法華》、《大品》、《勝<lb ed="T" n="0374c03"/>鬘》等義疏。<date key="j18898491890202" from-iso="0462-02-16" to-iso="0463-02-04">大明六年</date>，勅<placeName key="CN0350722Z22AA">吳興郡</placeName><ptr target="fn15"/>致禮上<placeName key="CN0320106Z06AA">京</placeName>，<lb ed="T" n="0374c04"/>與<persName key="A002251">道猷</persName>同止<placeName key="CN0320101T59AA">新安寺</placeName>，使頓、漸二悟，義各有<lb ed="T" n="0374c05"/>宗。至便就講，鑾輿降蹕，百辟陪筵。<ptr target="fn＊"/><persName key="A002250">珍</persName>年<lb ed="T" n="0374c06"/>雖栖暮，而蔬苦弗改，戒節清白，道俗歸焉。<lb ed="T" n="0374c07"/><date key="j18938651895488" notAfter-iso="0477" notBefore-iso="0473">宋元徽中</date>卒，春秋七十有六。</p><p>時<placeName key="CN0320102T19AA">宋熙</placeName>有<persName key="A003012">曇瑤</persName><lb ed="T" n="0374c08"/>者，善《淨名》、《十住》及《莊》、《老》，又工草隷，為<persName key="A003013">宋建<lb ed="T" n="0374c09"/>平宣簡王宏</persName>所重<ptr target="fn16"/>也。</p>
+	<linkGrp>
+		<link targets="#0374b27 #0374b28"/>
+		<ptr target="#A002250" type="person"/>
+		<ptr target="#A002229" type="person"/>
+	</linkGrp>
+	<linkGrp>
+		<link targets="#0374c07 #0374c09"/>
+		<ptr target="#A003012" type="person"/>
+		<ptr target="#A003013" type="person"/>
+	</linkGrp>
+	<linkGrp>
+		<link targets="#0374c07 #0374c08"/>
+		<ptr target="#A003012" type="person"/>
+		<ptr target="#CN0320102T19AA" type="place"/>
+	</linkGrp>
+	<linkGrp>
+		<link targets="#0374b26 #0374b26"/>
+		<ptr target="#A002250" type="person"/>
+		<ptr target="#CN0370882Z05AA" type="place"/>
+		<ptr target="#j18755861876175" type="time"/>
+	</linkGrp>
+	<linkGrp>
+		<link targets="#0374b26 #0374b26"/>
+		<ptr target="#A002250" type="person"/>
+		<ptr target="#CN0411727Z23AA" type="place"/>
+		<ptr target="#j18755861876175" type="time"/>
+	</linkGrp>
+	<linkGrp>
+		<link targets="#0374b28 #0374c01"/>
+		<ptr target="#A002250" type="person"/>
+		<ptr target="#A003011" type="person"/>
+		<ptr target="#CN0330521T01AA" type="place"/>
+		<ptr target="#j18761761886925" type="time"/>
+	</linkGrp>
+	<linkGrp>
+		<link targets="#0374c03 #0374c04"/>
+		<ptr target="#A002250" type="person"/>
+		<ptr target="#A002251" type="person"/>
+		<ptr target="#CN0320101T59AA" type="place"/>
+		<ptr target="#j18898491890202" type="time"/>
+	</linkGrp>
+	<linkGrp>
+		<link targets="#0374c07 #0374c07"/>
+		<ptr target="#A002250" type="person"/>
+		<ptr target="#CN0330521T01AA" type="place"/>
+		<ptr target="#j18938651895488" type="time"/>
+	</linkGrp>
+</div>

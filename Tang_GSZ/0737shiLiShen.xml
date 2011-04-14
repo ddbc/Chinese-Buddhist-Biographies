@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0703c29shiLiShen"><head>隋東都<placeName key="CN0410305T02AA">慧日道場</placeName><persName key="A007540">釋立身</persName>傳六</head>
+    <p><anchor n="T.50.2060.0703c29"/><lb ed="T" n="0703c29"/><persName key="A007540">釋立身</persName>。江<ptr target="fn29"/>表<placeName key="CN0320106Z05AA">金陵</placeName>人。志節雄果不緣浮綺。<lb ed="T" n="0704a01"/>威容肅然見者憚懾。有文章<ptr target="fn01"/>工辯對。時<placeName key="CN0000007D01AA">江<lb ed="T" n="0704a02"/>左</placeName>文士多興法會。每<ptr target="fn02"/>集名僧連<ptr target="fn03"/>霄法集。<lb ed="T" n="0704a03"/>導達之務偏所牽心。及身之登座也創發<lb ed="T" n="0704a04"/>謦咳。砰磕如雷。通俗<ptr target="fn04"/>斂襟。毛竪自整。至<lb ed="T" n="0704a05"/>於談述業緣布列當果。冷然若面。人懷厭<lb ed="T" n="0704a06"/>勇。晚入<placeName key="CN0410305T02AA">慧日</placeName>。優贈日隆。<date key="j19420591943236" notAfter-iso="0608" notBefore-iso="0605">大業初年</date>。聲唱尤<lb ed="T" n="0704a07"/>重。<persName key="A004413">帝</persName>以聲辯之功動<ptr target="fn05"/>哀情抱。賜帛四百段<lb ed="T" n="0704a08"/>氈四十領。性本清儉無兼<ptr target="fn06"/>儲畜。率命門學<lb ed="T" n="0704a09"/>通共均分。從駕<placeName key="CN0410305Z16AA">東都</placeName>。遂終于彼。時年八十<lb ed="T" n="0704a10"/>餘矣。時<placeName key="CN0610102Z14AA">西京</placeName>興善官供尋常唱導之士。人分<lb ed="T" n="0704a11"/>羽翼。其中高者。則<ptr target="fn07"/><persName key="A007541">慧寧</persName><ptr target="fn08"/><persName key="A007542">曠壽</persName><persName key="A005514">法達</persName><persName key="A007513">寶<ptr target="fn09"/>巖</persName>。<lb ed="T" n="0704a12"/>哮吼之勢有餘。機變之能未顯。人世可覿<lb ed="T" n="0704a13"/>故不廣也。</p>
+    <linkGrp>
+        <link targets="#0703c29 #0703c29"/>
+        <ptr target="#A007540" type="person"/>
+        <ptr target="#CN0320106Z05AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0704a06 #0704a06"/>
+        <ptr target="#A007540" type="person"/>
+        <ptr target="#CN0410305T02AA" type="place"/>
+        </linkGrp>
+    <linkGrp>
+        <link targets="#0704a06 #0704a09"/>
+        <ptr target="#A004413" type="person"/>
+        <ptr target="#A007540" type="person"/>
+        <ptr target="#CN0410305Z16AA" type="place"/>
+        <ptr target="#j19420591943236" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0704a10 #0704a13"/>
+        <ptr target="#A007541" type="person"/>
+        <ptr target="#CN0610102Z14AA" type="place"/>
+        </linkGrp>
+    <linkGrp>
+        <link targets="#0704a10 #0704a13"/>
+        <ptr target="#A007542" type="person"/>
+        <ptr target="#CN0610102Z14AA" type="place"/>
+        </linkGrp>
+    <linkGrp>
+        <link targets="#0704a10 #0704a13"/>
+        <ptr target="#A005514" type="person"/>
+        <ptr target="#CN0610102Z14AA" type="place"/>
+        </linkGrp>
+    <linkGrp>
+        <link targets="#0704a10 #0704a13"/>
+        <ptr target="#A007513" type="person"/>
+        <ptr target="#CN0610102Z14AA" type="place"/>
+        </linkGrp>
+</div>

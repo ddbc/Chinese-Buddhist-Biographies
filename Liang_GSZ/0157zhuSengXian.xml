@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0395b24zhuSengXian">
+    <p><anchor n="T.50.2059.0395b24"/><lb ed="T" n="0395b24"/><persName key="A002297">竺僧顯</persName>，本姓傅氏，<placeName key="CN0610204Z16AA">北地</placeName>人。貞苦善戒節，蔬<lb ed="T" n="0395b25"/>食誦經，業禪為務。常獨處山林，頭陀<ptr target="fn29"/>人<lb ed="T" n="0395b26"/>外。或時數日入禪，亦無飢色。時<persName key="A003170">劉曜</persName>寇蕩<lb ed="T" n="0395b27"/><placeName key="CN0610112Z01AA">西京</placeName>，朝野崩亂。<persName key="A002297">顯</persName>以<date from-iso="0318" key="j18373141838701" to-iso="0322">晉太興</date>之末，南<ptr target="fn30"/>逗<placeName key="CN0000007D01AA">江<lb ed="T" n="0395b28"/>左</placeName>。復歷名山，修己恒業。後遇疾綿篤，乃屬<lb ed="T" n="0395b29"/>想西方，心甚苦至。見無量壽佛降以真容，<lb ed="T" n="0395c01"/>光照其身，所苦都愈，是夕<ptr target="fn31"/>便起澡浴，為同<lb ed="T" n="0395c02"/>住及侍疾者說己所見，并陳誡因果，辭甚<lb ed="T" n="0395c03"/>精<ptr target="fn32"/>析。至明清晨，平坐而化。室內有殊香，旬<lb ed="T" n="0395c04"/>餘乃歇。</p>
+    <linkGrp>
+        <link targets="#0395b26 #0395b27"/>
+        <ptr target="#A003170" type="person"/>
+        <ptr target="#CN0610112Z01AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0395b27 #0395b28"/>
+        <ptr target="#A002297" type="person"/>
+        <ptr target="#CN0000007D01AA" type="place"/>
+        <ptr target="#j18373141838701" type="time"/>
+    </linkGrp>
+</div>

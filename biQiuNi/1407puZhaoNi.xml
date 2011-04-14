@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="bqnz0938b29puZhaoNi">
+    <head>南皮<placeName key="CN0130927T01AA">張國寺</placeName><persName key="A015220">普照</persName>尼<ptr target="fn33"/>傳八</head><p><anchor n="T.50.2063.0938c01"/><lb ed="T" n="0938c01"/><persName key="A015220">普照</persName>，本姓董。<ptr target="fn34"/>名悲，<ptr target="fn35"/>勃海<placeName key="CN0130928Z01AA">安陵</placeName>人也。少秉節<lb ed="T" n="0938c02"/>概，<date key="j18795761879940" from-iso="0434-01-01" to-iso="0434-12-31">十七</date>出家，住南皮<placeName key="CN0130927T01AA">張國寺</placeName>，後從師遊學廣<lb ed="T" n="0938c03"/>陵<placeName key="CN0321011T07AA">建熙精舍</placeName>，率心奉法，闔眾嘉之。及師慧<ptr target="fn36"/>孜<lb ed="T" n="0938c04"/>亡，<ptr target="fn37"/>杜於慶弔，而苦行絕倫。宋<date from-iso="0441-12-30" key="j18824961882524" to-iso="0442-01-27">元嘉十八年十<lb ed="T" n="0938c05"/>二月</date>，因<ptr target="fn38"/>感勞疾，雖劇，而篤情深信，初自不<lb ed="T" n="0938c06"/>改，專意祈誠，不捨日夜。不能下地，枕上叩頭<lb ed="T" n="0938c07"/>懺悔，時息如常，誦法華經一日三卷。到<date from-iso="0442-02-27" key="j18825551882584" to-iso="0442-03-28">十九<lb ed="T" n="0938c08"/>年二月</date>中，忽然而絕，兩食頃甦，云：「向西行，中<lb ed="T" n="0938c09"/>道有一塔，塔中有一僧，閉眼思惟，驚問何來，<lb ed="T" n="0938c10"/>答以其事，即問僧曰：『 此處去某甲寺幾里？』答<lb ed="T" n="0938c11"/>曰：『 五千萬里。』路上有草及行人，皆無所識。時<lb ed="T" n="0938c12"/>風雲高靡，區墟嚴淨，西面尤明，意欲前進，僧<lb ed="T" n="0938c13"/>乃不許，因爾迴還，豁然醒<ptr target="fn39"/>悟。」後七日而卒，<lb ed="T" n="0938c14"/><ptr target="fn40"/>時年二十五<ptr target="fn41"/>也。</p>
+  
+    <linkGrp>
+        <link targets="#0938c04 #0938c07"/>
+        <ptr target="#A015220" type="person"/>
+        <ptr target="#j18824961882524" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0938c07 #0938c11"/>
+        <ptr target="#A015220" type="person"/>
+        <ptr target="#j18825551882584" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0938c02 #0938c02"/>
+        <ptr target="#A015220" type="person"/>
+        <ptr target="#CN0130927T01AA" type="place"/>
+        <ptr target="#j18795761879940" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0938c02 #0938c03"/>
+        <ptr target="#A015220" type="person"/>
+        <ptr target="#CN0321011T07AA" type="place"/>
+        </linkGrp>
+</div>

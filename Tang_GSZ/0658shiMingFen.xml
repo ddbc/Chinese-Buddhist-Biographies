@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0669c15shiMingFen">
+    <p><anchor n="T.50.2060.0669c15"/><lb ed="T" n="0669c15"/><persName key="A004780">釋明芬</persName>。<placeName key="CN0410502Z11AA">相州</placeName>人。齊<persName key="A000545">三藏耶舍</persName>之神足也。通解<lb ed="T" n="0669c16"/>方俗妙識梵言。傳度幽旨莫匪喉舌。<date key="j19333311940611" notAfter-iso="0601" notBefore-iso="0581">開皇</date><lb ed="T" n="0669c17"/>之譯。下勅追延。令與梵僧對傳法本。而意<lb ed="T" n="0669c18"/>專撿失好住空閑。味詠十地言輒引據。問<lb ed="T" n="0669c19"/>論清巧通滯罕倫。<date key="j19406121942058" notAfter-iso="0605" notBefore-iso="0601">仁壽</date>下勅。令置塔于慈<lb ed="T" n="0669c20"/>州之<placeName key="CN0130406T02AA">石窟寺</placeName>。<placeName key="CN0130406T02AA">寺</placeName>即<persName key="A004698">齊文宣</persName>之所立也。大窟像<lb ed="T" n="0669c21"/>背文宣陵藏中諸雕刻駭動人鬼。<persName key="A004780">芬</persName>引舍<lb ed="T" n="0669c22"/>利去州三十許里。白雲欝起從寺至輿長<lb ed="T" n="0669c23"/>引不絕。耿耿橫空中有天仙飛騰往返。竟<lb ed="T" n="0669c24"/>日方滅。明旦將曉還有白雲長引來迎。雲<lb ed="T" n="0669c25"/>中天仙如昨無異。人眾同見<ptr target="fn15"/>傾目叵論。識<lb ed="T" n="0669c26"/>者以為<placeName key="CN0130406T02AA">石窟</placeName>之與<placeName key="CN0130406M01AA">鼓山</placeName>連接密<ptr target="fn16"/>爾。竹林<ptr target="fn17"/>仙<lb ed="T" n="0669c27"/>聖響應之乎。<ptr target="fn18"/>既至山塔。東面有泉。<ptr target="fn19"/>眾生<lb ed="T" n="0669c28"/>飲皆病愈。<persName key="A004780">芬</persName>後卒于<placeName key="CN0610103T03AA">興善</placeName>。所著眾經。如費<lb ed="T" n="0669c29"/>氏錄。</p>
+    <linkGrp>
+        <link targets="#0669c15 #0669c15"/>
+        <ptr target="#A004780" type="person"/>
+        <ptr target="#CN0410502Z11AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0669c15 #0669c16"/>
+        <ptr target="#A000545" type="person"/>
+        <ptr target="#A004780" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0669c16 #0669c19"/>
+        <ptr target="#A004780" type="person"/>
+        <ptr target="#j19333311940611" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0669c20 #0669c20"/>
+        <ptr target="#A004698" type="person"/>
+        <ptr target="#CN0130406T02AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0669c19 #0669c25"/>
+        <ptr target="#A004780" type="person"/>
+        <ptr target="#CN0130406T02AA" type="place"/>
+        <ptr target="#j19406121942058" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0669c28 #0669c28"/>
+        <ptr target="#A004780" type="person"/>
+        <ptr target="#CN0610103T03AA" type="place"/>
+        </linkGrp>
+</div>

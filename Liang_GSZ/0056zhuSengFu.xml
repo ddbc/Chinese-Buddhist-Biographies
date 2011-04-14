@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" corresp="gsz0355b15zhuSengFu">
+    <p><anchor n="T.50.2059.0355b15"/><lb ed="T" n="0355b15"/><persName key="A002196">竺僧敷</persName>，未詳氏族。學通眾經，尤善《放光》及<lb ed="T" n="0355b16"/>《道行<ptr target="fn12"/>波若》。西晉末亂，移居江左，止<placeName key="CN0320104T02AA">京師瓦 <lb ed="T" n="0355b17"/>官寺</placeName>，盛開講席，<placeName key="CN0320106Z06AA">建<ptr target="fn13"/>鄴</placeName>舊<ptr target="fn14"/>僧莫不推服。時<lb ed="T" n="0355b18"/><placeName key="CN0320104T02AA">同寺</placeName>沙門<persName key="A002354">道嵩</persName>，亦才解相次。與<persName key="A001503">道安</persName>書云：「<persName key="A002196">敷<lb ed="T" n="0355b19"/>公</persName>研微秀發，非吾等所及也。」時異學之徒，咸<lb ed="T" n="0355b20"/>謂心神有形，但妙於萬物。隨其能言，互相摧 <lb ed="T" n="0355b21"/>壓。<persName key="A002196">敷</persName>乃著《神無形論》，以有形便有數，有數<lb ed="T" n="0355b22"/>則有盡，神既無盡，故知無形矣。時<ptr target="fn15"/>仗辯<lb ed="T" n="0355b23"/>之徒，紛紜交諍，既理有所歸，愜然信服。後又<lb ed="T" n="0355b24"/>著《放光》、《道行》等義疏。</p>
+    <p>後終於<placeName key="CN0320104T02AA">寺</placeName>中，春秋七十<lb ed="T" n="0355b25"/>餘矣。<persName key="A002193">竺法汰</persName>與<persName key="A001503">道安</persName>書云：「每憶<persName key="A002196">敷上人</persName>周<lb ed="T" n="0355b26"/>旋如昨，逝歿奄復多年，與其清談之日，未<lb ed="T" n="0355b27"/>嘗不相憶。思得與君共覆疏其美，豈圖一<lb ed="T" n="0355b28"/>旦永為異世。痛恨之深，何能忘情。其義理所<lb ed="T" n="0355b29"/>得，披尋之功，信難可圖矣。」<persName key="A002193">汰</persName>與<persName key="A001503">安</persName>書，數述 <lb ed="T" n="0355c01"/><persName key="A002196">敷</persName>義，今推尋失其文製，湮沒可悲。</p>
+    <linkGrp>
+        <link targets="#0355b18 #0355b07"/>
+        <ptr target="#A002196" type="person"/>
+        <ptr target="#A002354" type="person"/>
+        <ptr target="#CN0320104T02AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0355b18 #0355b21"/>
+        <ptr target="#A002354" type="person"/>
+        <ptr target="#A001503" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0355b29 #0355c01"/>
+        <ptr target="#A002193" type="person"/>
+        <ptr target="#A001503" type="person"/>
+    </linkGrp>
+</div>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><div xml:id="mscc0359a15daoJiao" xmlns="http://www.tei-c.org/ns/1.0"><head>宋<placeName key="CN0321183T02AA">龍華寺</placeName><persName key="A014019">釋道矯</persName></head><p><anchor n="X.77.1523.0359a15"/><lb ed="X" n="0359a15"/>道矯<placeName key="CN0610126Z07AA">高陸</placeName>人也。性清約。蔬食禪誦。住<placeName key="CN0321183T02AA">龍花寺</placeName>。專當寺<lb ed="X" n="0359a16"/>任。恪居客眾。<date from-iso="0439-02-01" to-iso="0440-02-19" key="j18814331881816">元嘉十六年</date>。磬率衣資。開誘聞業。與<placeName key="CN0320106Z05AA">建<lb ed="X" n="0359a17"/>康</placeName>民<persName key="A018961">朱舛孫</persName>。共起佛殿三間。并諸花幡。造夾苧彌勒<lb ed="X" n="0359a18"/>佛倚像一軀。高一丈六尺。神儀端儼。開發信悟。春秋<lb ed="X" n="0359a19"/>九十三。<date from-iso="0449-02-10" to-iso="0450-01-29" key="j18850951885448">二十六年</date>卒(云云)。</p>
+    <linkGrp>
+        <link targets="#0359a15 #0359a15"/>
+        <ptr type="person" target="#A014019"/>
+        <ptr type="place" target="#CN0610126Z07AA"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0359a15 #0359a16"/>
+        <ptr type="person" target="#A014019"/>
+        <ptr type="place" target="#CN0321183T02AA"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0359a16 #0359a18"/>
+        <ptr type="person" target="#A014019"/>
+        <ptr type="person" target="#A018961"/>
+        <ptr type="time" target="#d18814331881816"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0359a18 #0359a19"/>
+        <ptr type="person" target="#A014019"/>
+        <ptr type="time" target="#d18850951885448"/>
+    </linkGrp>
+</div>

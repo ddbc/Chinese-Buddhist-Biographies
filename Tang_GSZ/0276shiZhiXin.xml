@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0460c02shiZhiXin">
+    <head><placeName key="CN0320102T19AA">梁鍾山宋熙寺</placeName>沙門<persName key="A003484">釋智欣</persName>傳四</head><p><anchor n="T.50.2060.0460c02"/><lb ed="T" n="0460c02"/><persName key="A003484">釋智欣</persName>。姓潘。<placeName key="CN0320106Z05AA">丹陽建<ptr target="fn09"/>康</placeName>人也。稚而聰警稟懷<lb ed="T" n="0460c03"/>變躁。率爾形儀過無修整。<date from-iso="0452" key="j18861501886880" to-iso="0453">年七八歲</date>。世間<lb ed="T" n="0460c04"/>近事經耳不妄。曾入<placeName key="CN0320000T03AA">栖靜寺</placeName>正值上講。聞<lb ed="T" n="0460c05"/>十二因緣義。云生死輪轉無有窮已。便慨然<lb ed="T" n="0460c06"/>有離俗之志。他日即就<placeName key="CN0320000T03AA">栖靜</placeName><persName key="A002314">僧審禪師</persName>求<lb ed="T" n="0460c07"/>出家焉。篤好博學多<ptr target="fn10"/>集近事。師訓之曰。<lb ed="T" n="0460c08"/>觀<persName key="A003484">汝</persName>神明人非率爾。所可習學皆非奧遠<lb ed="T" n="0460c09"/>何耶。答曰。欲廣其節目耳。及具足後。從<lb ed="T" n="0460c10"/><placeName key="CN0320115T63AA">東安寺</placeName><persName key="A002248">道猛</persName>聽成實論。四遍雖周未曾注<lb ed="T" n="0460c11"/>記。結帙而反<ptr target="fn11"/>亭然獨悟。莫與為群不交當<lb ed="T" n="0460c12"/>世。<ptr target="fn12"/>無<ptr target="fn13"/>因得參其門者也。及至講說文<lb ed="T" n="0460c13"/>義精悉。四眾推服。聽者八百餘人。陳心序<lb ed="T" n="0460c14"/>事貴在可解不務才華有異流俗。客問未<lb ed="T" n="0460c15"/>申酬答已罷。皆美其豐贍名重四海。<date from-iso="0491" key="j19005091901513" to-iso="0494">齊永<lb ed="T" n="0460c16"/>明末</date>。<persName key="A002654">太子</persName>數幸<placeName key="CN0320102A06AA">東田</placeName>。携諸內侍亟經<ptr target="fn14"/>住<lb ed="T" n="0460c17"/>寺。<persName key="A003484">欣</persName>因謝病<placeName key="CN0320102M02AA">鍾山</placeName>居<placeName key="CN0320102T19AA">宋熙寺</placeName>。確然自得不<lb ed="T" n="0460c18"/>與富貴遊往。行不苟合交不<ptr target="fn15"/>委親。嚫施<lb ed="T" n="0460c19"/>之物構改住寺。以<date key="j19059141906267" from-iso="0506-02-11" to-iso="0507-01-30">天<ptr target="fn16"/>鑑五年</date>卒。春秋六十<lb ed="T" n="0460c20"/>一。葬于山墓。</p>
+    <linkGrp>
+        <link targets="#0460c02 #0460c02"/>
+        <ptr target="#A003484" type="person"/>
+        <ptr target="#CN0320106Z05AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0460c03 #0460c06"/>
+        <ptr target="#A003484" type="person"/>
+        <ptr target="#CN0320000T03AA" type="place"/>
+        <ptr target="#j18861501886880" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0460c06 #0460c09"/>
+        <ptr target="#A002314" type="person"/>
+        <ptr target="#A003484" type="person"/>
+        <ptr target="#CN0320000T03AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0460c09 #0460c10"/>
+        <ptr target="#A003484" type="person"/>
+        <ptr target="#A002248" type="person"/>
+        <ptr target="#CN0320115T63AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0460c15 #0460c16"/>
+        <ptr target="#A002654" type="person"/>
+        <ptr target="#CN0320102A06AA" type="place"/>
+        <ptr target="#j19005091901513" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0460c17 #0460c19"/>
+        <ptr target="#A003484" type="person"/>
+        <ptr target="#CN0320102T19AA" type="place"/>
+        <ptr target="#j19005091901513" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0460c15 #0460c19"/>
+        <ptr target="#A003484" type="person"/>
+        <ptr target="#A002654" type="person"/>
+        <ptr target="#j19005091901513" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0460c19 #0460c20"/>
+        <ptr target="#A003484" type="person"/>
+        <ptr target="#j19059141906267" type="time"/>
+    </linkGrp>
+</div>

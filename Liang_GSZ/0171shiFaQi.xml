@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0399a23shiFaQi">
+    <p><anchor n="T.50.2059.0399a24"/><lb ed="T" n="0399a24"/><persName key="A002310">釋法期</persName>，姓向，<placeName key="CN0510124Z14AA">蜀<ptr target="fn18"/>都陴</placeName>人。早喪二親，事兄如<lb ed="T" n="0399a25"/>父。十四出家，從<persName key="A002190">智猛</persName>諮受禪業，與<placeName key="CN0510101T10AA">靈期寺</placeName><lb ed="T" n="0399a26"/><persName key="A003336">法林</persName><ptr target="fn19"/>同共習觀。<persName key="A002190">猛</persName>所諳知，皆已證得。後<lb ed="T" n="0399a27"/>遇<persName key="A000298">玄暢</persName>，復從進業。</p><p>及<persName key="A000298">暢</persName>下<placeName key="CN0421003Z05AA">江陵</placeName>，<persName key="A002310">期</persName>亦隨從。<lb ed="T" n="0399a28"/>十住觀門，所得已<ptr target="fn20"/>九。有師子奮迅三昧，唯<lb ed="T" n="0399a29"/>此未盡。<persName key="A000298">暢</persName>歎曰：「<persName key="A000298">吾</persName>自西<ptr target="fn21"/>至流沙，北履幽<lb ed="T" n="0399b01"/>漠，東探<placeName key="CN0330602A01AA">禹穴</placeName>，南盡衡羅，唯見此一<persName key="A002310">子</persName>特有<lb ed="T" n="0399b02"/>禪分。」</p><p>後卒於<placeName key="CN0421003T06AA">長沙寺</placeName>，春秋六十有二。神光映<lb ed="T" n="0399b03"/>屍，體更香潔。</p><p>時<ptr target="fn22"/>屬<placeName key="CN0510101T11AA">龍華寺</placeName>又有<persName key="A003337">釋道果</persName>者，<lb ed="T" n="0399b04"/>亦以禪業顯焉。</p>
+    <linkGrp>
+        <link targets="#0399b03 #0399b04"/>
+        <ptr target="#A003337" type="person"/>
+        <ptr target="#CN0510101T11AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0399a25 #0399a26"/>
+        <ptr target="#A002310" type="person"/>
+        <ptr target="#A002190" type="person"/>
+        <ptr target="#A003336" type="person"/>
+        <ptr target="#CN0510101T10AA" type="place"/>
+        </linkGrp>
+    <linkGrp>
+        <link targets="#0399a27 #0399a28"/>
+        <ptr target="#A002310" type="person"/>
+        <ptr target="#A000298" type="person"/>
+        <ptr target="#CN0421003Z05AA" type="place"/>
+        </linkGrp>
+    <linkGrp>
+        <link targets="#0399b02 #0399b03"/>
+        <ptr target="#A002310" type="person"/>
+        <ptr target="#CN0421003T06AA" type="place"/>
+        </linkGrp>
+</div>

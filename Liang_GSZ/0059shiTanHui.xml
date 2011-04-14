@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0356b03shiTanHui">
+        <p><anchor n="T.50.2059.0356b03"/><lb ed="T" n="0356b03"/><persName key="A002211">釋曇<ptr target="fn04"/>徽</persName>，<placeName key="CN0410882Z32AA">河內</placeName>人。<date key="j18430521843416" from-iso="0334-01-02" to-iso="0335-01-01">年十二</date>，投<persName key="A001503">道安</persName>出家，<persName key="A001503">安</persName>尚 <lb ed="T" n="0356b04"/>其神彩，且令讀書，二三年中，學兼經史，<date key="j18445131844877" from-iso="0338-01-02" to-iso="0339-01-01">十<lb ed="T" n="0356b05"/>六</date>方許剃髮。於是專務佛理，鏡測幽凝，未 <lb ed="T" n="0356b06"/>及立年，便能講說。雖志業高素，而以恭<lb ed="T" n="0356b07"/><ptr target="fn05"/>推見重。後隨<persName key="A001503">安</persName>在<placeName key="CN0420602Z09AA">襄陽</placeName>，<persName key="A002754">符<ptr target="fn06"/>丕</persName>寇境，乃<lb ed="T" n="0356b08"/>東下<placeName key="CN0420602Z03AA">荊州</placeName>，止<placeName key="CN0421087T06AA">上明寺</placeName>。每法輪一轉，則黑白 <lb ed="T" n="0356b09"/>奔波。常顧解有所從，乃圖寫<persName key="A001503">安</persName>形，存念禮<lb ed="T" n="0356b10"/>拜。於是<placeName key="CN0421003Z05AA">江陵</placeName>士女，咸西向致敬<persName key="A001503">印手菩薩</persName>。或 <lb ed="T" n="0356b11"/>問：「<persName key="A002211">法師</persName>道化，何如<persName key="A001503">和上</persName>？」<ptr target="fn＊"/><persName key="A002211">徽</persName>曰：「和上內行深 <lb ed="T" n="0356b12"/>淺，未易可測；外緣所被，多諸應驗。在吾一<lb ed="T" n="0356b13"/>渧，寧比江海耶！」</p>
+        <p>以<date key="j18653681865722" from-iso="0395-02-07" to-iso="0396-01-27">晉太元二十年</date>卒。臨亡 <lb ed="T" n="0356b14"/>之日，體無餘患，上堂同眾中食，因而告別。<lb ed="T" n="0356b15"/>食竟還房，右脇而化，春秋七十三矣。著《立本<lb ed="T" n="0356b16"/>論》九篇、《六識旨歸》十二首，並行於世。</p>
+        <linkGrp>
+                <link targets="#0356b13 #0356b15"/>
+                <ptr target="#A002211" type="person"/>
+                <ptr target="#CN0421087T06AA" type="place"/>
+                <ptr target="#j18653681865722" type="time"/>
+        </linkGrp>
+        <linkGrp>
+                <link targets="#0356b03 #0356b03"/>
+                <ptr target="#A002211" type="person"/>
+                <ptr target="#CN0410882Z32AA" type="place"/>
+        </linkGrp>
+        <linkGrp>
+                <link targets="#0356b03 #0356b04"/>
+                <ptr target="#A002211" type="person"/>
+                <ptr target="#A001503" type="person"/>
+                <ptr target="#j18430521843416" type="time"/>
+        </linkGrp>
+        <linkGrp>
+                <link targets="#0356b04 #0356b07"/>
+                <ptr target="#A002211" type="person"/>
+                <ptr target="#j18445131844877" type="time"/>
+        </linkGrp>
+        <linkGrp>
+                <link targets="#0356b07 #0356b07"/>
+                <ptr target="#A002211" type="person"/>
+                <ptr target="#A001503" type="person"/>
+                <ptr target="#CN0420602Z09AA" type="place"/>
+        </linkGrp>
+        <linkGrp>
+                <link targets="#0356b07 #0356b09"/>
+                <ptr target="#A002211" type="person"/>
+                <ptr target="#CN0421087T06AA" type="place"/>
+        </linkGrp>
+</div>

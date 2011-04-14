@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="bqnz0940b05yeShouNi">
+    <head><placeName key="CN0000000T10AA">東青園寺</placeName><persName key="A015376">業首</persName>尼<ptr target="fn28"/>傳十七</head><p><anchor n="T.50.2063.0940b06"/><lb ed="T" n="0940b06"/><persName key="A015376">業首</persName>，本姓張，<placeName key="CN0320303Z24AA">彭城</placeName>人也。風<ptr target="fn29"/>儀峻整，戒行清<lb ed="T" n="0940b07"/>白，深解大乘，善搆妙理，彌好禪誦，造次無怠。<lb ed="T" n="0940b08"/><persName key="A002043">宋高祖武皇帝</persName>雅相敬異，<persName key="A002604">文帝</persName>少時從受三<lb ed="T" n="0940b09"/>歸。住<placeName key="CN0320106T36AA">永安寺</placeName>，供施相續。<date from-iso="0425-02-05" key="j18763241876677" to-iso="0426-01-24">元嘉<ptr target="fn30"/>二年</date>，<persName key="A015377">王景深</persName>母<lb ed="T" n="0940b10"/><persName key="A015378">范</persName>氏，以<persName key="A002717">王坦之</persName>故祠堂地施<persName key="A015376">首</persName>，起立寺舍，名<lb ed="T" n="0940b11"/>曰<placeName key="CN0000000T10AA">青園</placeName>。<ptr target="fn31"/>齋肅徒眾，甚有風規。<persName key="A015379">潘貴妃</persName>歎曰：「<lb ed="T" n="0940b12"/><persName key="A015376">首尼</persName>弘<ptr target="fn32"/>振佛法甚可敬重。」以<date from-iso="0438-02-11" key="j18810781881432" to-iso="0439-01-31">元嘉十五年</date>，為<lb ed="T" n="0940b13"/><persName key="A015376">首</persName>更廣寺西，創立佛殿，復拓寺北，造立僧房，<lb ed="T" n="0940b14"/>賑給所須。寺業興<ptr target="fn33"/>立，眾二百人，法事不絕。春<lb ed="T" n="0940b15"/>秋稍高，仰者彌盛。累以耆艾自陳，眾咸不許。<lb ed="T" n="0940b16"/>年九十，<date from-iso="0462-02-16" key="j18898491890202" to-iso="0463-02-04">大明六年</date><ptr target="fn34"/>而卒。</p><p>時又有<persName key="A015380">淨哀</persName>、<persName key="A015381">寶英</persName>、<persName key="A015382">法<lb ed="T" n="0940b17"/>林</persName>，並以<ptr target="fn35"/>立身清<ptr target="fn36"/>潔，有聲京縣。<persName key="A015380">哀</persName><ptr target="fn37"/>久禪誦，任<lb ed="T" n="0940b18"/>事清允，<date from-iso="0469-01-30" key="j18923891892772" to-iso="0470-02-17">泰始五年</date>卒。<persName key="A015381">英</persName>建塔五層，閱理有勤，<lb ed="T" n="0940b19"/>蔬食精進，<date from-iso="0470-02-18" key="j18927731893126" to-iso="0471-02-06">泰始六年</date>卒。<persName key="A015382">林</persName>博覽經律，老而不<lb ed="T" n="0940b20"/>懈，<date from-iso="0473-02-14" key="j18938651894219" to-iso="0474-02-03">元徽元年</date>卒。</p><p>又有弟子<persName key="A015383">曇<ptr target="fn38"/>寅</persName>，兼通禪律，<lb ed="T" n="0940b21"/>簡絕榮華，不<ptr target="fn39"/>[門@視]朝市，<date from-iso="0473-02-14" key="j18938651895495" to-iso="0477-08-02">元徽</date>六年<!--資料庫中無元徽六年-->卒。</p>
+    
+    <linkGrp>
+        <link targets="#0940b09 #0940b10"/>
+        <ptr target="#A015377" type="person"/>
+        <ptr target="#A015378" type="person"/>  
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0940b11 #0940b12"/>
+        <ptr target="#A015376" type="person"/>
+        <ptr target="#A015379" type="person"/>  
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0940b16 #0940b16"/>
+        <ptr target="#A015376" type="person"/>
+        <ptr target="#j18898491890202" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0940b16 #0940b18"/>
+        <ptr target="#A015380" type="person"/>
+        <ptr target="#j18923891892772" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0940b16 #0940b19"/>
+        <ptr target="#A015381" type="person"/>
+        <ptr target="#j18927731893126" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0940b16 #0940b20"/>
+        <ptr target="#A015382" type="person"/>
+        <ptr target="#j18927731893126" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0940b20 #0940b21"/>
+        <ptr target="#A015383" type="person"/>
+        <ptr target="#j18938651895495" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0940b20 #0940b21"/>
+        <ptr target="#A015376" type="person"/>
+        <ptr target="#A015383" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0940b08 #0940b08"/>
+        <ptr target="#A015376" type="person"/>
+        <ptr target="#A002043" type="person"/>
+        <ptr target="#A002604" type="person"/>
+        </linkGrp>
+    <linkGrp>
+        <link targets="#0940b09 #0940b09"/>
+        <ptr target="#A015376" type="person"/>
+        <ptr target="#CN0320106T36AA" type="place"/>
+        </linkGrp>
+    <linkGrp>
+        <link targets="#0940b09 #0940b11"/>
+        <ptr target="#A015376" type="person"/>
+        <ptr target="#A015378" type="person"/>
+        <ptr target="#CN0000000T10AA" type="place"/>
+        <ptr target="#j18763241876677" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0940b12 #0940b14"/>
+        <ptr target="#A015376" type="person"/>
+        <ptr target="#A015379" type="person"/>
+        <ptr target="#CN0000000T10AA" type="place"/>
+        <ptr target="#j18810781881432" type="time"/>
+    </linkGrp>
+</div>

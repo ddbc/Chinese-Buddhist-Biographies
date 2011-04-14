@@ -1,0 +1,97 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0382a25shiFaTong">
+	<p><anchor n="T.50.2059.0382a25"/><lb ed="T" n="0382a25"/><persName key="A002274">釋法通</persName>，本姓褚氏，<placeName key="CN0411081Z10AA">河南陽翟</placeName>人，晉安東將軍<lb ed="T" n="0382a26"/><ptr target="fn07"/>揚州都督<persName key="A003155">䂮</persName>之八世孫也。家世衣冠，禮義相<lb ed="T" n="0382a27"/>襲。通幼而岐頴，聰悟絕倫。<date key="j18865171886881" from-iso="0453-01-02" to-iso="0454-01-01">年十<ptr target="fn08"/>一</date>出家，遊<lb ed="T" n="0382a28"/>學三藏，專精方等，《大品》、《法華》尤所研<ptr target="fn09"/>審。年<lb ed="T" n="0382a29"/>未登立，便為講匠，學徒雲聚，千里必<ptr target="fn10"/>萃。後<lb ed="T" n="0382b01"/>踐迹<placeName key="CN0320106Z05AA">京師</placeName>，初止<placeName key="CN0320101T60AA">莊嚴</placeName>，後憩<placeName key="CN0320102T15AA">定林上寺</placeName>。栖閑<lb ed="T" n="0382b02"/>隱素，履道<ptr target="fn11"/>唯勤。希風影附者，復盈山室。<persName key="A002655">齊<lb ed="T" n="0382b03"/>竟陵文宣王</persName>、丞相<persName key="A003056">文獻王</persName>，皆紆貴慕德，親承<lb ed="T" n="0382b04"/>頂禮。<placeName key="CN0411624Z17AA">陳郡</placeName><persName key="A003157">謝舉</persName>、<placeName key="CN0320503Z01AA">吳國</placeName><persName key="A003158">陸果</persName>、<ptr target="fn12"/><placeName key="CN0360421Z06AA">潯陽</placeName><persName key="A003159">張孝秀</persName>，並策<lb ed="T" n="0382b05"/>步山門，稟其戒法，白黑弟子七千餘人。晦<lb ed="T" n="0382b06"/>迹<placeName key="CN0320102M02AA">鍾阜</placeName>三十餘載，坐禪誦念，禮懺精苦。</p><p>至<date key="j19082561908256" when-iso="0512-07-11">天<lb ed="T" n="0382b07"/>監十一年六月十日</date>便覺不悆，語弟子云：「<lb ed="T" n="0382b08"/>我<ptr target="fn13"/>正可至<date key="j19083541908354" when-iso="0512-10-17">九月二十<ptr target="fn14"/>日</date>間耳。」到<date key="j19083481908348" when-iso="0512-10-11">九月十<lb ed="T" n="0382b09"/>四日</date>，見兩居士皆報白拂，來向床前，便次<lb ed="T" n="0382b10"/>第<ptr target="fn15"/>出。至<date key="j19083511908351" when-iso="0512-10-14">十七日</date>忽漫語云：「檀越不相識，何<lb ed="T" n="0382b11"/>處來耶？」弟子<persName key="A003160">曇智</persName>問意故，答<ptr target="fn16"/>曰：「有一人著<lb ed="T" n="0382b12"/>朱衣戴幘，擎木箱底在床前。」至<date key="j19083541908354" when-iso="0512-10-17">二十日</date>，<lb ed="T" n="0382b13"/>見佛像作兩行來，通合掌良久。侍疾者但<lb ed="T" n="0382b14"/>聞異香，竟不測其意。<persName key="A002274">通</persName>乃密向同意<persName key="A002358">慧<ptr target="fn17"/>彌</persName><lb ed="T" n="0382b15"/>說之。至<date key="j19083551908355" when-iso="0512-10-18">二十一日</date>，索香湯洗浴竟，仍作禮<lb ed="T" n="0382b16"/>還臥，叉手當胸，正中時卒，春秋七十。仍葬<lb ed="T" n="0382b17"/><ptr target="fn18"/>于<placeName key="CN0320102T15AA">寺</placeName>南。弟子<persName key="A003161">靜深</persName>等立碑墓側，陳郡謝舉、<lb ed="T" n="0382b18"/><placeName key="CN0371324Z22AA">蘭陵</placeName><persName key="A003162">蕭子雲</persName>，並為製文，刻于兩面。</p><p>時<placeName key="CN0320102T15AA">定林上<lb ed="T" n="0382b19"/>寺</placeName>復有沙彌<ptr target="fn19"/><persName key="A003163">聖進</persName>，本閹人。清信篤至，遂出<lb ed="T" n="0382b20"/>家苦節。嘗頭陀至<ptr target="fn20"/>東山，宿<ptr target="fn＊"/>于樹下。有虎<lb ed="T" n="0382b21"/>來摩其頭，見<persName key="A003163">進</persName>端坐無擾，跪之而去。<ptr target="fn21"/>後<lb ed="T" n="0382b22"/>每獨行獨坐，常見青馬一匹，衛其左右。</p>
+	<linkGrp>
+		<link targets="#0382a27 #0382a28"/>
+		<ptr target="#A002274" type="person"/>
+		<ptr target="#j18865171886881" type="time"/>
+	</linkGrp>
+	<linkGrp>
+		<link targets="#0382a29 #0382b02"/>
+		<ptr target="#A002274" type="person"/>
+		<ptr target="#CN0320102T15AA" type="place"/>
+	</linkGrp>
+	<linkGrp>
+		<link targets="#0382b02 #0382b03"/>
+		<ptr target="#A002274" type="person"/>
+		<ptr target="#A002655" type="person"/>
+		<ptr target="#CN0320102T15AA" type="place"/>
+	</linkGrp>
+	<linkGrp>
+		<link targets="#0382b02 #0382b03"/>
+		<ptr target="#A002274" type="person"/>
+		<ptr target="#A003056" type="person"/>
+		<ptr target="#CN0320102T15AA" type="place"/>
+	</linkGrp>
+	<linkGrp>
+		<link targets="#0382b04 #0382b05"/>
+		<ptr target="#A002274" type="person"/>
+		<ptr target="#A003157" type="person"/>
+		<ptr target="#CN0320102T15AA" type="place"/>
+	</linkGrp>
+	<linkGrp>
+		<link targets="#0382b04 #0382b05"/>
+		<ptr target="#A002274" type="person"/>
+		<ptr target="#A003158" type="person"/>
+		<ptr target="#CN0320102T15AA" type="place"/>
+	</linkGrp>
+	<linkGrp>
+		<link targets="#0382b04 #0382b05"/>
+		<ptr target="#A002274" type="person"/>
+		<ptr target="#A003159" type="person"/>
+		<ptr target="#CN0320102T15AA" type="place"/>
+	</linkGrp>
+	<linkGrp>
+		<link targets="#0382b05 #0382b06"/>
+		<ptr target="#A002274" type="person"/>
+		<ptr target="#CN0320102M02AA" type="place"/>
+	</linkGrp>
+	<linkGrp>
+		<link targets="#0382b17 #0382b17"/>
+		<ptr target="#A002274" type="person"/>
+		<ptr target="#A003161" type="person"/>
+	</linkGrp>
+	<linkGrp>
+		<link targets="#0382b18 #0382b20"/>
+		<ptr target="#A003163" type="person"/>
+		<ptr target="#CN0320102T15AA" type="place"/>
+	</linkGrp>
+	<linkGrp>
+		<link targets="#0382a27 #0382a28"/>
+		<ptr target="#A002274" type="person"/>
+		<ptr target="#CN0411081Z10AA" type="place"/>
+		<ptr target="#j18865171886881" type="time"/>
+	</linkGrp>
+	<linkGrp>
+		<link targets="#0382b06 #0382b08"/>
+		<ptr target="#A002274" type="person"/>
+		<ptr target="#CN0320102T15AA" type="place"/>
+		<ptr target="#j19082561908256" type="time"/>
+	</linkGrp>
+	<linkGrp>
+		<link targets="#0382b08 #0382b10"/>
+		<ptr target="#A002274" type="person"/>
+		<ptr target="#CN0320102T15AA" type="place"/>
+		<ptr target="#j19083481908348" type="time"/>
+	</linkGrp>
+	<linkGrp>
+		<link targets="#0382b10 #0382b11"/>
+		<ptr target="#A002274" type="person"/>
+		<ptr target="#A003160" type="person"/>
+		<ptr target="#CN0320102T15AA" type="place"/>
+		<ptr target="#j19083511908351" type="time"/>
+	</linkGrp>
+	<linkGrp>
+		<link targets="#0382b12 #0382b15"/>
+		<ptr target="#A002274" type="person"/>
+		<ptr target="#A002358" type="person"/>
+		<ptr target="#CN0320102T15AA" type="place"/>
+		<ptr target="#j19083541908354" type="time"/>
+	</linkGrp>
+	<linkGrp>
+		<link targets="#0382b15 #0382b16"/>
+		<ptr target="#A002274" type="person"/>
+		<ptr target="#CN0320102T15AA" type="place"/>
+		<ptr target="#j19083551908355" type="time"/>
+	</linkGrp>
+</div>

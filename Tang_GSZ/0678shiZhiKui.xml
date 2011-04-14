@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0673c15shiZhiKui">
+    <p><anchor n="T.50.2060.0673c15"/><lb ed="T" n="0673c15"/><persName key="A007227">釋智揆</persName>。<placeName key="CN0131181Z20AA">冀州</placeName>人。愛慕涅槃淨持戒行。不重<lb ed="T" n="0673c16"/>榮渥知足無求。住<placeName key="CN0610102T29AA">弘濟寺</placeName>閉門習業。僧<lb ed="T" n="0673c17"/>眾服其智德敬而宗<persName key="A007227">之</persName>。每處勝筵推其名<lb ed="T" n="0673c18"/>實。而<persName key="A007227">揆</persName>弗之顧也。退屏自修若無聞見。<date key="j19406121942058" notAfter-iso="0605" notBefore-iso="0601">仁<lb ed="T" n="0673c19"/>壽之歲</date>弘塔四方。有勅召<persName key="A007227">揆</persName>。送舍利於魏<lb ed="T" n="0673c20"/>州<placeName key="CN0130425T02AA">開覺寺</placeName>。初屆治所遂放大光。紫白相宣<lb ed="T" n="0673c21"/>五色<ptr target="fn34"/>遽發。有尼<persName key="A007228">智曠</persName>。冷疰積年。因禮發願。<lb ed="T" n="0673c22"/>乃見赤光遍<ptr target="fn35"/>室便吐惡物其患即除。有患<lb ed="T" n="0673c23"/>重者。聞斯嘉慶伏枕發願。亦蒙光照。平復<lb ed="T" n="0673c24"/>如本。方來塔所。其例眾夥不復具<ptr target="fn36"/>書。又<persName key="A019432">楊<lb ed="T" n="0673c25"/>大眼</persName>者。先患兩目冥無所見。牽來至輿乞<lb ed="T" n="0673c26"/>願求恩。即見舍利如本明淨。斯例復眾。四<lb ed="T" n="0673c27"/>月八日下塔既訖。西北雲<ptr target="fn37"/>來雨花塔上。紛<lb ed="T" n="0673c28"/>霏如雪色似黃金。<placeName key="CN0130425T02AA">寺院</placeName>皆遍。道俗收取狀<lb ed="T" n="0673c29"/>如金花。感一黑狗莫知由來。直入<placeName key="CN0130425T02AA">道場</placeName><lb ed="T" n="0674a01"/>周旋行道。每日午後與餅不食與水便飲。<lb ed="T" n="0674a02"/>至解齋時與粥方食。<placeName key="CN0130425T02AA">寺</placeName>內群犬非常<ptr target="fn01"/>噤惡。<lb ed="T" n="0674a03"/>一見此狗低頭畏敬不敢斜視。塔所樹碑<lb ed="T" n="0674a04"/>厚三尺半。忽發光彩狀如琉璃。映物對視<lb ed="T" n="0674a05"/>分明悉見。又見象<ptr target="fn02"/>六並現石碑內。至五月<lb ed="T" n="0674a06"/>末。來於其碑中。七變相狀。或為佛像聖僧<lb ed="T" n="0674a07"/>雙樹。眾瑞非一。並以事聞。<persName key="A007227">揆</persName>晚<ptr target="fn03"/>徙迹<placeName key="CN0610125M01AA">終<lb ed="T" n="0674a08"/>南</placeName>。居閑禪寂。登陟巖藪往而不返。</p>
+    <linkGrp>
+        <link targets="#0673c15 #0673c15"/>
+        <ptr target="#A007227" type="person"/>
+        <ptr target="#CN0131181Z20AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0673c16 #0673c18"/>
+        <ptr target="#A007227" type="person"/>
+        <ptr target="#CN0610102T29AA" type="place"/>
+        </linkGrp>
+    <linkGrp>
+        <link targets="#0673c18 #0673c22"/>
+        <ptr target="#A007227" type="person"/>
+        <ptr target="#A007228" type="person"/>
+        <ptr target="#CN0130425T02AA" type="place"/>
+        <ptr target="#j19406121942058" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0673c24 #0673c26"/>
+        <ptr target="#A007227" type="person"/>
+        <ptr target="#A019432" type="person"/>
+        <ptr target="#CN0130425T02AA" type="place"/>
+        <ptr target="#j19406121942058" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0674a07 #0674a08"/>
+        <ptr target="#A007227" type="person"/>
+        <ptr target="#CN0610125M01AA" type="place"/>
+        </linkGrp>
+</div>

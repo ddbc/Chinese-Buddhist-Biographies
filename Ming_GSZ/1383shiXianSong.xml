@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0933c01shiXianSong">
+  <p><anchor n="T.50.2062.0933c01"/><lb ed="T" n="0933c01"/><persName key="A008754">釋顯嵩</persName>西蜀重慶<placeName key="CN0500224Z12AA">銅梁</placeName>李氏子。飽參倦遊出<lb ed="T" n="0933c02"/>世住巴川之<placeName key="CN0500224T01AA">宣密院</placeName>。三十年跡不出閫。<date from-iso="1131" key="j21341862145878" to-iso="1163">紹<lb ed="T" n="0933c03"/>興</date>中集眾說偈曰。八十年中甞浩浩宏開肆<lb ed="T" n="0933c04"/>貨摩尼寶也。無一個共商量。不是山僧收舖<lb ed="T" n="0933c05"/>早。言訖端坐而逝。荼毘舍利無算。時有<persName key="A008755">淨<lb ed="T" n="0933c06"/>業和尚</persName>。<placeName key="CN0500117Z09AA">石照</placeName>文氏子。少業屠。有羊方乳二<lb ed="T" n="0933c07"/>羔。將殺之。二羔銜其刀跪伏於門。若乞<lb ed="T" n="0933c08"/>母命。<persName key="A008755">師</persName>感歎棄家為僧。力參宗匠忽大悟<lb ed="T" n="0933c09"/>作偈曰。昨日羅剎心。今朝菩薩面。羅剎與<lb ed="T" n="0933c10"/>菩薩。不隔一條線。</p>
+  <linkGrp>
+    <link targets="#0933c01 #0933c02"/>
+    <ptr target="#A008754" type="person"/>
+    <ptr target="#CN0500224T01AA" type="place"/>
+  </linkGrp>
+  <linkGrp>
+    <link targets="#0933c05 #0933c10"/>
+    <ptr target="#A008755" type="person"/>
+    <ptr target="#CN0500117Z09AA" type="place"/>
+  </linkGrp>
+  <linkGrp>
+    <link targets="#0933c02 #0933c03"/>
+    <ptr target="#A008755" type="person"/>
+    <ptr target="#j21341862145878" type="time"/>
+  </linkGrp>
+</div>

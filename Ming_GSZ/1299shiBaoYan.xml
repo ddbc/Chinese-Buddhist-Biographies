@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0907c01shiBaoYan">
+  <p><anchor n="T.50.2062.0907c01"/><lb ed="T" n="0907c01"/><persName key="A008139">釋寶嚴</persName>字<persName key="A008139">士威</persName>。<persName key="A008139">幻堂</persName>其號也。<placeName key="CN0620502Z06AA">成紀</placeName>康氏季子。<lb ed="T" n="0907c02"/>因罹喪亂與弟同薙髮為僧。後參<persName key="A000166">真覺</persName><lb ed="T" n="0907c03"/>得傳賢首宗旨而嗣其道為人淳朴無偽。<lb ed="T" n="0907c04"/>方寸之地湛如止水。值<persName key="A000166">真覺</persName>三坐道場。<persName key="A008139">嚴</persName><lb ed="T" n="0907c05"/>與弟皆從而佐<persName key="A000166">之</persName>。<persName key="A000166">真覺</persName>入滅乃繼其席。無<lb ed="T" n="0907c06"/>何奉詔住<placeName key="CN0361123T02AA">普安</placeName><placeName key="CN0140922T21AA">祐國</placeName>二寺最久。而與<persName key="A008138">大林<lb ed="T" n="0907c07"/>性公</persName>表裏大弘清涼之教。<date from-iso="1322-08-21" key="j22041432204172" to-iso="1322-09-19">至治二年七月</date>入<lb ed="T" n="0907c08"/>寂。世壽五十一。建塔于封谷之口。</p>
+  <linkGrp>
+    <link targets="#0907c02 #0907c03"/>
+    <ptr target="#A008139" type="person"/>
+    <ptr target="#A000166" type="person"/>
+  </linkGrp>
+  <linkGrp>
+    <link targets="#0907c06 #0907c07"/>
+    <ptr target="#A008139" type="person"/>
+    <ptr target="#A008138" type="person"/>
+  </linkGrp>
+  <linkGrp>
+    <link targets="#0907c07 #0907c08"/>
+    <ptr target="#A008139" type="person"/>
+    <ptr target="#j22041432204172" type="time"/>
+  </linkGrp>
+  <linkGrp>
+    <link targets="#0907c05 #0907c06"/>
+    <ptr target="#A008139" type="person"/>
+    <ptr target="#CN0361123T02AA" type="place"/>
+  </linkGrp>
+  <linkGrp>
+    <link targets="#0907c05 #0907c06"/>
+    <ptr target="#A008139" type="person"/>
+    <ptr target="#CN0140922T21AA" type="place"/>
+  </linkGrp>
+</div>

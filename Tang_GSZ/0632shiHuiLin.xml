@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0662c20shiHuiLin">
+    <p><anchor n="T.50.2060.0662c20"/><lb ed="T" n="0662c20"/><persName key="A006976">釋慧琳</persName>。姓薛。<placeName key="CN0510724Z15AA">綿州神泉</placeName>人。以<date key="j19333311936719" notAfter-iso="0590" notBefore-iso="0581">隋初</date>隱於<placeName key="CN0510724T01AA">建<lb ed="T" n="0662c21"/>明寺</placeName>。清虛守靜與物不群。<placeName key="CN0510724T01AA">寺</placeName>有塑像常在<lb ed="T" n="0662c22"/>供養。像為生鬚三十六枚。<date key="j19455911946768" notAfter-iso="0617" notBefore-iso="0614">大業末年</date>。掃一<lb ed="T" n="0662c23"/>古墳。竪二竹竿云。是天眼。後忽拔一云。<placeName key="CN0411282Z62AA">弘<lb ed="T" n="0662c24"/>農</placeName>揚為魔所拔也。不久<persName key="A006569">義寧</persName><date key="j19464151946779" from-iso="0617-01-01" to-iso="0617-12-31">嗣曆</date>。有時著<lb ed="T" n="0662c25"/>複衣夏坐墳上。日雖炎赫身無熱狀。口雖<lb ed="T" n="0662c26"/>涉道形同於俗。言談之次以理居先。<placeName key="CN0510681Z14AA">雒縣</placeName><lb ed="T" n="0662c27"/>先有<persName key="A002034">育王</persName>浮圖。<persName key="A006976">琳</persName>忽一時歷村借車三百<lb ed="T" n="0662c28"/>乘。云欲向<placeName key="CN0510681Z14AA">雒縣</placeName>迎浮圖於此安置。未經旬<lb ed="T" n="0662c29"/>日遂被火燒。<date key="j19469511950091" notAfter-iso="0627" notBefore-iso="0618">武德年中</date>。潛伏草野。人莫知<lb ed="T" n="0663a01"/>也。彼有<persName key="A006980">楊<ptr target="fn01"/>祜</persName>師不測何人。直往草中相<lb ed="T" n="0663a02"/>見。曾生未面宛若舊朋。各云。別來八百年<lb ed="T" n="0663a03"/>矣。曾為人呪病得差。病者令女齎裙以施。<lb ed="T" n="0663a04"/>女遂留衣送直。<persName key="A006976">琳</persName>遙見謂曰。但將裙來<persName key="A006976">我</persName><lb ed="T" n="0663a05"/>不須錢。女驚其聖。以<date key="j19512141951567" from-iso="0630-02-21" to-iso="0631-02-09">貞觀四年</date>示從物故。</p>
+    <linkGrp>
+        <link targets="#0662c20 #0662c20"/>
+        <ptr target="#A006976" type="person"/>
+        <ptr target="#CN0510724Z15AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0662c20 #0662c21"/>
+        <ptr target="#A006976" type="person"/>
+        <ptr target="#CN0510724T01AA" type="place"/>
+        <ptr target="#j19333311936719" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0662c22 #0662c23"/>
+        <ptr target="#A006976" type="person"/>
+        <ptr target="#CN0510724T01AA" type="place"/>
+        <ptr target="#j19455911946768" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0662c27 #0662c28"/>
+        <ptr target="#A006976" type="person"/>
+        <ptr target="#CN0510681Z14AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0663a05 #0663a05"/>
+        <ptr target="#A006976" type="person"/>
+        <ptr target="#CN0510724T01AA" type="place"/>
+        <ptr target="#j19512141951567" type="time"/>
+    </linkGrp>
+</div>

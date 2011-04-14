@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0908a03shiPuXi">
+  <p><anchor n="T.50.2062.0908a03"/><lb ed="T" n="0908a03"/><persName key="A008192">釋普喜</persName>號<persName key="A008192">吉祥</persName>。<placeName key="CN0370000A01AA">山東</placeName>人也。身偉面黑而瘠脫<lb ed="T" n="0908a04"/>類梵僧。早歲懇父母出家。父母責以無後<lb ed="T" n="0908a05"/>為大。因娶育二子。已而始得為沙門。精究<lb ed="T" n="0908a06"/>慈恩相宗研習唯識<!--經名ID -->師地<!--經名ID -->因明<!--經名ID -->等論。<date from-iso="1288-02-10" key="j21915332191887" to-iso="1289-01-29">元至元<lb ed="T" n="0908a07"/>二十五年</date><persName key="A002085">薛禪皇帝</persName>剏立<placeName key="CN0340001D01AA">江淮</placeName>御講之所。<placeName key="CN0321102T02AA">普<lb ed="T" n="0908a08"/>照</placeName>居其一也。詔<persName key="A008192">師</persName>主之。升座外日誦華嚴<lb ed="T" n="0908a09"/>大經<!--經名ID -->。以十卷為常課。而素與<placeName key="CN0532923Z14AA">雲南</placeName><persName key="A008194">端無念</persName><lb ed="T" n="0908a10"/>相善。<persName key="A008194">端</persName>為唯識之巨魁。天下無出其右。每<lb ed="T" n="0908a11"/>與<persName key="A008192">師</persName>論辯理趣。或有少失<persName key="A008192">師</persName>以正言救<lb ed="T" n="0908a12"/>之。<persName key="A008194">端</persName>亦為誠服而稱之。入滅荼毘舍利甚<lb ed="T" n="0908a13"/>夥。其門人留其靈骨。貯以髹函奉藏二十<lb ed="T" n="0908a14"/>餘年。始建塔于丹徒<placeName key="CN0321100M01AA">雩山</placeName>。逮入塔之際啟<lb ed="T" n="0908a15"/>視之。但見舍利霑綴函袱若蜂屯蟻聚。觸<lb ed="T" n="0908a16"/>之熠熠然也。<placeName key="CN0321102Z06AA">鎮江</placeName>之民多有圖像。隨處祠<lb ed="T" n="0908a17"/>之。稱為<persName key="A008192">吉祥佛</persName>云。</p>
+  <linkGrp>
+    <link targets="#0908a06 #0908a14"/>
+    <ptr target="#A008192" type="person"/>
+    <ptr target="#A008194" type="person"/>
+    <ptr target="#CN0321102T02AA" type="place"/>
+    <ptr target="#j21915332191887" type="time"/>
+  </linkGrp>
+</div>

@@ -1,0 +1,81 @@
+<?xml version="1.0" ?><?oxygen RNGSchema="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/gisSchema.rng" type="xml"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+          <title xml:lang="zh-Latn">Mingseng zhuan chao</title>
+          <title xml:lang="zh-Hant">名僧傳抄</title>
+          <title xml:lang="en">Excerpt of 'Biographies of Famous Monks'</title>
+        </title>
+        <author><name xml:lang="zh-Latn">Baochang</name><name xml:lang="zh-Hant">寶唱</name>(after 514)</author>
+        <editor><name xml:lang="jp-Latn">Sōshō</name><name xml:lang="jp-Hant">宗性</name>(1202-1278)</editor>
+        <respStmt><resp>Encoding, Markup</resp><name>Zhiwei Xu 許智偉</name></respStmt>
+        <respStmt><resp>Programming, Interface Design</resp><name>Jen-jou Hung 洪振洲, Jhih-Sian Lee 李志賢</name></respStmt>
+        <respStmt><resp>Archive Creation and Maintainance</resp><name>Ray Chou 周邦信</name></respStmt>
+        <principal>Marcus Bingenheimer</principal>
+      </titleStmt>
+      <publicationStmt>
+        <date>2011</date>
+        <publisher>Dharma Drum Buddhist College 法鼓佛教學院</publisher>
+        <pubPlace>Jinshan, Taiwan 台灣新北市金山區</pubPlace>
+        <availability status="free"><p>This electronic text is distributed by Dharma Drum Buddhist College under a <ref target="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution Share-Alike Licence</ref>.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Text Base is the CBETA edition of the Chinese Buddhist Canon (Version 2009)</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>"Biographies of Famous Monks" written by Baochang until 515. Complete work now lost. Excerpted by Sōshō in Nara, Japan ca.<date>1235</date>.</creation>
+    </profileDesc>
+    <encodingDesc>
+      <p xml:lang="zh">文本中之人名、地名或日期，若於大正藏中之校勘用字較正確，則從校勘用字。</p>
+      <p xml:lang="en">Wherever we can, within a name or date, identify a mistake in the main text of the Taisho canon and a better reading is available in the apparatus, the character from the apparatus is used.</p>
+      <p xml:lang="zh">本數位版本是法鼓佛教學院佛教傳記文學專案的一部分<ref>http://buddhistinformatics.ddbc.edu.tw/biographies/</ref></p>
+      <p xml:lang="en">This digital edition is part of the Buddhist Biography Literature Project at Dharma Drum Buddhist College. <ref>http://buddhistinformatics.ddbc.edu.tw/biographies/</ref></p>
+      <p>For a discussion of the project please refer to <bibl>Bingenheimer, Marcus; Hong, Jen-Jou; Wiles, Simon 2009: “Markup meets GIS - Visualizing the ‘Biographies of Eminent Buddhist Monks’.” In: Proceedings Information Visualization IV 2009. Edited by E.Banissi et.al. Published by the IEEE Computer Society. ISBN: 978-0-7695-3733-7. pp.550-554. DOI: 10.1109/IV.2009.91</bibl> and <bibl>Jen-Jou HUNG, Marcus BINGENHEIMER, Zhi-Wei XU 2010: “漢文佛典的語意標記與應用：《高僧傳》文獻的時空資訊視覺化和語意搜尋 - Semantic markup for Chinese Buddhist texts and its Application- A Platform for Querying and Spatio-temporal Visualization of the Biographies of Eminent Monks”, (國立政治大學) 圖書與資訊學刊 (National Changchi University) Journal of Librarianship and Information Studies. Vol.2, No.3 (No.74), Aug 2010, pp.1-24.</bibl> <bibl>Jen-Jou HUNG, Marcus BINGENHEIMER, Simon WILES 2010: “Digital Texts and GIS: The interrogation and coordinated visualization of Classical Chinese texts" Proceedings International Conference on Computer Design and Applications ICCDA 2010. ISBN: 978-1-4244-7163-8</bibl></p>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <xi:include href="1484qiuNaBaTuo.xml"/>
+      <xi:include href="1485daoAn.xml"/>
+      <xi:include href="1486tanYi.xml"/>
+      <xi:include href="1487zhuFaYi.xml"/>
+      <xi:include href="1488sengXing.xml"/>
+      <xi:include href="1489faYu.xml"/>
+      <xi:include href="1490daoHeng.xml"/>
+      <xi:include href="1491jueShi.xml"/>
+      <xi:include href="1492tanBin.xml"/>
+      <xi:include href="1493tanJi.xml"/>
+      <xi:include href="1494foTuoBaTuo.xml"/>
+      <xi:include href="1495tanMoMiDuo.xml"/>
+      <xi:include href="1496sengQieLuoDuoDuo.xml"/>
+      <xi:include href="1497daoShao.xml"/>
+      <xi:include href="1498sengYin.xml"/>
+      <xi:include href="1499huiLan.xml"/>
+      <xi:include href="1500naYi.xml"/>
+      <xi:include href="1501huiTong.xml"/>
+      <xi:include href="1502daoWang.xml"/>
+      <xi:include href="1503huiYong.xml"/>
+      <xi:include href="1504huiJing.xml"/>
+      <xi:include href="1505zhuFaChun.xml"/>
+      <xi:include href="1506zhuHuiQing.xml"/>
+      <xi:include href="1507daoHai.xml"/>
+      <xi:include href="1508huiGuo.xml"/>
+      <xi:include href="1509daoFa.xml"/>
+      <xi:include href="1510sengYe.xml"/>
+      <xi:include href="1511faHui.xml"/>
+      <xi:include href="1512sengBiao.xml"/>
+      <xi:include href="1513zhiYan.xml"/>
+      <xi:include href="1514baoYun.xml"/>
+      <xi:include href="1515faCheng.xml"/>
+      <xi:include href="1516sengGong.xml"/>
+      <xi:include href="1517daoJiao.xml"/>
+      <xi:include href="1518tanFu.xml"/>
+      <xi:include href="1519shiFaXiang.xml"/>
+ 
+      <!--   <xi:include href="anqing.xml"/> -->
+    </body>
+  </text>
+</TEI>

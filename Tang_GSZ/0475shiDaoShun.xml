@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0576c28shiDaoShun">
+    <p><anchor n="T.50.2060.0576c28"/><lb ed="T" n="0576c28"/><persName key="A006098">釋道舜</persName>。未詳何人。靜處林泉庇道自隱。言<lb ed="T" n="0576c29"/>常含笑談述清遠。嘗止<placeName key="CN0140581M01AA">澤州羊頭山</placeName><persName key="A006100">神農</persName>定<lb ed="T" n="0577a01"/>藥之所。結宇茅茨餘無蓄積。日<ptr target="fn＊"/>惟一食常<lb ed="T" n="0577a02"/>坐卒歲斯亦清素之沙門也。德豐內溢聲<lb ed="T" n="0577a03"/>流<ptr target="fn01"/>氓俗。<ptr target="fn02"/>能感蛇鼠同居在繩床下各孚<lb ed="T" n="0577a04"/>產育不相危惱。又致虎來蹲踞其側。便為<lb ed="T" n="0577a05"/>說法。有人還往告虎令去。或語之云。明日<lb ed="T" n="0577a06"/>人來。汝不須至。便如<persName key="A006098">舜</persName>言。虎便不現。其通<lb ed="T" n="0577a07"/>感深識為若此也。給侍之人與虎同住。<ptr target="fn03"/>視<lb ed="T" n="0577a08"/>如家犬。曾莫之畏。身著弊納略無可採。<lb ed="T" n="0577a09"/>跣行林野不擇晨夕。<date key="j19333311935151" notAfter-iso="0586" notBefore-iso="0581">開皇之初</date>忽遊聚落。<lb ed="T" n="0577a10"/>說法化諸村民。皆盛集受法。獨不為一女<lb ed="T" n="0577a11"/><ptr target="fn04"/>人<ptr target="fn05"/>授戒。告云。汝當生牛中。其相已現。戒<lb ed="T" n="0577a12"/>不救汝也。業不定者。爾乃<ptr target="fn06"/>濟耳。時有不<lb ed="T" n="0577a13"/>信其言。以為惑眾。咸有疑者。<persName key="A006098">舜</persName>欲決於<lb ed="T" n="0577a14"/>眾議。告眾曰。必不信者。試蹋汝牛尾業影。<lb ed="T" n="0577a15"/>必當不起。即以足躡女裙後空地。云是尾<lb ed="T" n="0577a16"/>影。其女依言<ptr target="fn07"/>趣起不得。時眾驚信。請<persName key="A006098">舜</persName><lb ed="T" n="0577a17"/>曰。如何除此業報。其女家積粟數萬石。既<lb ed="T" n="0577a18"/>懼惡業一時頓捨。<persName key="A006098">舜</persName>並為營福令其懺悔。<lb ed="T" n="0577a19"/>如此累作<ptr target="fn08"/>業惡便傾。方為受戒。由斯以談。<lb ed="T" n="0577a20"/>能見業影之存亡。將隣聖之極矣。或<ptr target="fn09"/>醫<lb ed="T" n="0577a21"/>諸癘村受於癘供。見有膿潰外流者。皆口<lb ed="T" n="0577a22"/>就而[口*束]之。情無<ptr target="fn10"/>餘念。或洗其衣服。或淨<lb ed="T" n="0577a23"/>其心業。用為己任。情向欣然初無<ptr target="fn11"/>頻蹙。後<lb ed="T" n="0577a24"/>遊於<placeName key="CN0410581M01AA">林慮</placeName><placeName key="CN0410581T03AA">洪谷</placeName>。北詣晉盤亭等諸山隱寺。<lb ed="T" n="0577a25"/>綜禪<ptr target="fn12"/>定業不測終所。</p>
+    <linkGrp>
+        <link targets="#0576c29 #0577a01"/>
+        <ptr target="#A006098" type="person"/>
+        <ptr target="#CN0140581M01AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0577a09 #0577a19"/>
+        <ptr target="#A006098" type="person"/>
+        <ptr target="#j19333311935151" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0577a23 #0577a25"/>
+        <ptr target="#A006098" type="person"/>
+        <ptr target="#CN0410581M01AA" type="place"/>
+        </linkGrp>
+</div>

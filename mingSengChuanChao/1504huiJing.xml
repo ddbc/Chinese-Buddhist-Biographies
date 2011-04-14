@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><div xml:id="mscc0357a14huiJing" xmlns="http://www.tei-c.org/ns/1.0"><head>晉長安<placeName key="CN0610101T20AA">太后寺</placeName><persName key="A002213">釋慧精</persName></head><p><anchor n="X.77.1523.0357a14"/><lb ed="X" n="0357a14"/>惠精又名<persName key="A002213">曇戒</persName>。本姓卓。<placeName key="CN0411302Z03AA">南陽</placeName>人。晉外兵郎<placeName key="CN0411302Z28AA">[來*來]陽</placeName>令<persName key="A002789">潛</persName><lb ed="X" n="0357a15"/>之弟也。幼而家貧。無衣著。不得從師友。負薪炙火。披<lb ed="X" n="0357a16"/>翫六籍。後聞<persName key="A002722">于法道</persName>講放光經。借衣聽焉。告其兄曰。<lb ed="X" n="0357a17"/>始悟儒淺近。道教虗曠。不能復馳騁方內。政欲自放<lb ed="X" n="0357a18"/>人外耳。<persName key="A002789">潛</persName>曰。誠復人各有心。何能獨善其志。年十九<lb ed="X" n="0357a19"/>投<persName key="A001503">釋道安</persName>。安津為同學。甚相知敬。遊方請業數四年<lb ed="X" n="0357a20"/>中。忽請<persName key="A001503">安</persName>曰。世間之苦難可大堪。百年俄頃復不待<lb ed="X" n="0357a21"/>人。雖苦之速。德行為先。精學足以導心。今就行道去。<lb ed="X" n="0357a22"/>安曰。兼之為勝。如不能兼。各從其志。吾助爾憙。誦經<lb ed="X" n="0357a23"/>五十萬言。禮佛為業。時禪法未傳。依經獨坐。晉<ref type="person" target="#A002790">臨川<lb ed="X" n="0357a24"/>王</ref>雅相禮待。資給四事。後與<persName key="A001503">安</persName>同憩長安<placeName key="CN0610101T20AA">太后寺</placeName>。安<lb ed="X" n="0357b01"/>平後隆安中疾病。口誦彌勒。未甞懈息。弟子<persName key="A002791">智生</persName>侍<lb ed="X" n="0357b02"/>疾。問曰。何不願生<placeName key="XZ0000033A01AA">西方</placeName>。而專呼彌勒。答曰。吾等<persName key="A001503">道安</persName><lb ed="X" n="0357b03"/>八人先發誓願。願生<placeName key="XZ0000002A01AA">兜率</placeName>。面見<persName key="A001428">彌勒</persName>。道願悉以先見。<lb ed="X" n="0357b04"/>唯吾尚存。欲遂本願。語畢。即有光照于身。容顏更悅。<lb ed="X" n="0357b05"/>俄而遷化。春秋七十。葬于<persName key="A001503">道安</persName>墓右(云云)。</p>
+    <linkGrp>
+        <link targets="#0357a14 #0357a14"/>
+        <ptr type="person" target="#A002213"/>
+        <ptr type="place" target="#CN0411302Z03AA"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0357a14 #0357a15"/>
+        <ptr type="person" target="#A002213"/>
+        <ptr type="person" target="#A002789"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0357a16 #0357a18"/>
+        <ptr type="person" target="#A002213"/>
+        <ptr type="person" target="#A002722"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0357a23 #0357a24"/>
+        <ptr type="person" target="#A002213"/>
+        <ptr type="person" target="#A001503"/>
+        <ptr type="person" target="#A002790"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0357a24 #0357a24"/>
+        <ptr type="person" target="#A002213"/>
+        <ptr type="person" target="#A001503"/>
+        <ptr type="place" target="#CN0610101T20AA"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0357b01 #0357b05"/>
+        <ptr type="person" target="#A002213"/>
+        <ptr type="person" target="#A002791"/>
+        <ptr type="place" target="#CN0610101T20AA"/>
+    </linkGrp>
+</div>

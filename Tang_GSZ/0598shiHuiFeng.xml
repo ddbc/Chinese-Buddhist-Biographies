@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0651c04shiHuiFeng">
+    <p><anchor n="T.50.2060.0651c04"/><lb ed="T" n="0651c04"/><persName key="A006837">釋慧峯</persName>。不知何人。住<placeName key="CN0320113T01AA">栖霞寺</placeName>。聽<persName key="A002231">詮公</persName>三<lb ed="T" n="0651c05"/>論。深悟其旨。最為得意。名<ptr target="fn29"/>價遐<ptr target="fn30"/>布眾所<lb ed="T" n="0651c06"/>推美。<persName key="A002231">詮</persName>每云。<persName key="A006837">峯</persName>之達解思力。<persName key="A002231">吾</persName>不及也。以<lb ed="T" n="0651c07"/><persName key="A002231">吾</persName>年老且復相依。<persName key="A006837">峯</persName>遊心正理。身範律儀。<lb ed="T" n="0651c08"/>攝靜松林日惟一食。衣服麁素略無寸積。<lb ed="T" n="0651c09"/>顧步鏘鏘雅有風<ptr target="fn31"/>彩。未<ptr target="fn32"/>出都偏弘十誦<lb ed="T" n="0651c10"/>讚誘前修。聽者如市。有問云。今學大乘。如<lb ed="T" n="0651c11"/>何講律。<persName key="A006837">峯</persName>云。此致非汝所知。豈學正法而<lb ed="T" n="0651c12"/>大小相乖乎。以<date key="j19256401927882" notAfter-iso="0566" notBefore-iso="0560">陳天嘉年卒</date>。春秋六十。臨<lb ed="T" n="0651c13"/>終告<ptr target="fn33"/>弟<persName key="A006838">智琨</persName>曰。<persName key="A006837">吾</persName>去處懸遠。非<persName key="A006838">汝</persName>所知。<lb ed="T" n="0651c14"/>終後屈一指。<ptr target="fn34"/>將之雖伸還屈。時議謂證<lb ed="T" n="0651c15"/>初果。</p>
+    <linkGrp>
+        <link targets="#0651c04 #0651c05"/>
+        <ptr target="#A006837" type="person"/>
+        <ptr target="#A002231" type="person"/>
+        <ptr target="#CN0320113T01AA" type="place"/>
+        </linkGrp>
+    <linkGrp>
+        <link targets="#0651c12 #0651c15"/>
+        <ptr target="#A006837" type="person"/>
+        <ptr target="#A006838" type="person"/>
+        <ptr target="#CN0320113T01AA" type="place"/>
+        <ptr target="#j19256401927882" type="time"/>
+    </linkGrp>
+</div>

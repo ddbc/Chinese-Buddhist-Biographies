@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0649c06shiHuiTian">
+    <p><anchor n="T.50.2060.0649c06"/><lb ed="T" n="0649c06"/><persName key="A006829">釋慧瑱</persName>。<placeName key="CN0140411Z12AA">上黨</placeName>人。奉律齊真貞確難拔。住<placeName key="CN0140411Z12AA">郡</placeName><lb ed="T" n="0649c07"/>內<placeName key="CN0140402T03AA">元開府寺</placeName>。獨靜一房禪懺為業。會周<date key="j19318421932195" from-iso="0577-02-06" to-iso="0578-01-25">建<lb ed="T" n="0649c08"/>德六年</date>。國滅三寶。<persName key="A006829">瑱</persName>抱持經像隱<ptr target="fn18"/>于深<lb ed="T" n="0649c09"/>山。遇賊欲劫之。初未覺也。忽見一人形<lb ed="T" n="0649c10"/>長丈餘。美鬚面。<ptr target="fn19"/>著<ptr target="fn20"/>紗帽。衣青袍。九環金<lb ed="T" n="0649c11"/>帶吉莫皮靴。乘白馬朱鬉。自山頂徑至<persName key="A006829">瑱</persName><lb ed="T" n="0649c12"/>前。下馬而謂曰。今夜賊至。<persName key="A006829">師</persName>可急避。<persName key="A006829">瑱</persName>居<lb ed="T" n="0649c13"/>懸崖之下。絕無餘道。疑是山神。乃曰。今佛<lb ed="T" n="0649c14"/>法毀滅。<persName key="A006829">貧道</persName>容身無地。故來依投檀越。今<lb ed="T" n="0649c15"/>有賊來。正可於此取死。更何逃竄神曰。<persName key="A006829">師</persName><lb ed="T" n="0649c16"/>既遠投弟子。弟子亦能護<persName key="A006829">師</persName>。正爾住此。遂<lb ed="T" n="0649c17"/>失所在。當夜忽降大雪可深丈許。遂免賊<lb ed="T" n="0649c18"/>難。後群賊更往。神遂告山下諸村曰。賊欲<lb ed="T" n="0649c19"/>劫<persName key="A006829">瑱師</persName>。急往共救。乃各持器仗入<ptr target="fn21"/>山。路<lb ed="T" n="0649c20"/>中相遇拒擊驚散。從此每日<persName key="A006829">瑱</persName>恒憑之<ptr target="fn22"/>安<lb ed="T" n="0649c21"/>業<ptr target="fn23"/>山阜。不<ptr target="fn24"/>側其卒。</p>
+    <linkGrp>
+        <link targets="#0649c06 #0649c06"/>
+        <ptr target="#A006829" type="person"/>
+        <ptr target="#CN0140411Z12AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0649c06 #0649c08"/>
+        <ptr target="#A006829" type="person"/>
+        <ptr target="#CN0140402T03AA" type="place"/>
+        <ptr target="#j19318421932195" type="time"/>
+    </linkGrp>
+</div>

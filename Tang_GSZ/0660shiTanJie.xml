@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0670a19shiTanJie">
+    <p><anchor n="T.50.2060.0670a19"/><lb ed="T" n="0670a19"/><persName key="A007119">釋曇瑎</persName>。<placeName key="CN0321002Z08AA">江都</placeName>人。少學成實兼諸經論。涅槃<lb ed="T" n="0670a20"/>大品包蘊心目。雖講道時缺。而以慧解馳<lb ed="T" n="0670a21"/>名。每往法筵亟陳論決。徵據文旨。學者憚<lb ed="T" n="0670a22"/>焉。常<ptr target="fn04"/>讀經盈箱滿<ptr target="fn05"/>[止/ㄆ/木]。記注幽隱追問<ptr target="fn06"/>老<lb ed="T" n="0670a23"/>耄。皆揖其精府反啟其志。<persName key="A007119">瑎</persName>乃為斟酌通<lb ed="T" n="0670a24"/>問<ptr target="fn07"/>盤梗。自<placeName key="CN0000007D01AA">江左右</placeName>歷覽多年。傳譽不爽實<lb ed="T" n="0670a25"/>鍾華望。<persName key="A004413">煬帝</persName>昔為晉王。造寺<placeName key="CN0610102Z14AA">京室</placeName>諸方搜<lb ed="T" n="0670a26"/>選。延<persName key="A007119">瑎</persName>入住。內<ptr target="fn08"/>史令<persName key="A006568">蕭琮</persName>。合門昆季祖尋<lb ed="T" n="0670a27"/>義學。屈禮歸心奉以家僧。携現大小常處<lb ed="T" n="0670a28"/>第內。晨夕歡娛。講論正理惟其開悟。<date key="j19415741942058" notAfter-iso="0605" notBefore-iso="0603">仁壽<lb ed="T" n="0670a29"/>之末</date>。勅送舍利于熙州環<ptr target="fn09"/>谷山<placeName key="CN0340824T01AA">山谷寺</placeName>。古<lb ed="T" n="0670b01"/>傳云。昔有齊人<persName key="A007127">郭智辯</persName>。數遊<placeName key="CN0340824M03AA">環山</placeName>之陽。世<lb ed="T" n="0670b02"/>俗重之。因以名焉。此<placeName key="CN0340824T01AA">寺</placeName>即<persName key="A003039">蕭齊高帝</persName>之所立<lb ed="T" n="0670b03"/>也。林崖重映松竹交參。前帶環川北背峻<lb ed="T" n="0670b04"/>嶺。江流縈繞<ptr target="fn10"/>寔為清勝。<persName key="A007119">瑎</persName>巡此地<ptr target="fn11"/>仍搆<lb ed="T" n="0670b05"/>塔焉。初正月內當擬基處。屢放金光如一<lb ed="T" n="0670b06"/><ptr target="fn12"/>綖許。十餘日中然後方息。舍利恰到如即<lb ed="T" n="0670b07"/>置基。先不相謀若同合契。皆大慶也。又初<lb ed="T" n="0670b08"/>到治。天本亢陽。人物燋渴。夜降大雨高下<lb ed="T" n="0670b09"/>皆足。無不賴幸。又放赤光流<ptr target="fn13"/>矚如火。行<lb ed="T" n="0670b10"/>道七夕又放大光。被諸山<ptr target="fn14"/>也。五千餘人<lb ed="T" n="0670b11"/><ptr target="fn15"/>咸蒙斯瑞。及懺罪營福不可勝言。晚承<lb ed="T" n="0670b12"/>故業。迄于隋運。後住<placeName key="CN0610103T43AA">弘善</placeName>。以疾而終。春秋<lb ed="T" n="0670b13"/>八十有三。<date key="j19469321947721" notAfter-iso="0620" notBefore-iso="0618">武德初</date>矣。</p>
+    <linkGrp>
+        <link targets="#0670a19 #0670a19"/>
+        <ptr target="#A007119" type="person"/>
+        <ptr target="#CN0321002Z08AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0670a24 #0670a25"/>
+        <ptr target="#A007119" type="person"/>
+        <ptr target="#CN0000007D01AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0670a25 #0670a26"/>
+        <ptr target="#A007119" type="person"/>
+        <ptr target="#A004413" type="person"/>
+        <ptr target="#CN0610102Z14AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0670a26 #0670a28"/>
+        <ptr target="#A007119" type="person"/>
+        <ptr target="#A006568" type="person"/>
+        <ptr target="#CN0610102Z14AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0670b01 #0670b01"/>
+        <ptr target="#A007127" type="person"/>
+        <ptr target="#CN0340824M03AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0670a29 #0670b02"/>
+        <ptr target="#A003039" type="person"/>
+        <ptr target="#CN0340824T01AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0670a28 #0670b11"/>
+        <ptr target="#A007119" type="person"/>
+        <ptr target="#CN0340824T01AA" type="place"/>
+        <ptr target="#j19415741942058" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0670b12 #0670b12"/>
+        <ptr target="#A007119" type="person"/>
+        <ptr target="#CN0610103T43AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0670b12 #0670b13"/>
+        <ptr target="#A007119" type="person"/>
+        <ptr target="#j19469321947721" type="time"/>
+    </linkGrp>
+</div>

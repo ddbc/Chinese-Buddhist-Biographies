@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0600a14shiXuanShuang">
+    <p><anchor n="T.50.2060.0600a14"/><lb ed="T" n="0600a14"/><persName key="A006288">釋玄爽</persName>。姓劉。<placeName key="CN0411302Z14AA">南陽</placeName>人。早修聰行見稱鄉邑。<lb ed="T" n="0600a15"/>弱冠成婚。妻少而美。然<persName key="A006288">爽</persName>貞誠清拔志高<lb ed="T" n="0600a16"/>蹈。視如革囊。情逾厭離。既無所偶棄而入<lb ed="T" n="0600a17"/>道。遊習肆道有空俱涉。末聽<placeName key="CN0421003T01AA">龍泉寺</placeName><persName key="A006289">璇法<lb ed="T" n="0600a18"/>師</persName>。欣然自得。覃思遠詣頗震時譽。又往<placeName key="CN0421126Z07AA">蘄<lb ed="T" n="0600a19"/>州</placeName><persName key="A003654">信禪師</persName>所。伏開請道亟發幽微。後返<placeName key="CN0411302Z14AA">本<lb ed="T" n="0600a20"/>鄉</placeName>唯存攝念。長坐不臥繫念在前。時本邑<lb ed="T" n="0600a21"/>沙門<persName key="A006290">藹明</persName><persName key="A006291">稜法</persName>等。並禪府名宗。往結投分。<lb ed="T" n="0600a22"/>以<date key="j19595201959520" when-iso="0652-11-18">永徽三年十月九日</date>。遷神山谷。時<placeName key="CN0420602Z05AA">襄部</placeName><lb ed="T" n="0600a23"/><placeName key="CN0420602T10AA">法門寺</placeName>沙門<persName key="A006292">惠普</persName>者。亦<placeName key="CN0410502Z10AA">漢陰</placeName>之僧傑也。研<lb ed="T" n="0600a24"/>精律藏二十餘年。依而振績風霜屢結。七<lb ed="T" n="0600a25"/>眾齊肅屬城挹歸。晚專入定門廓銷事惱。<lb ed="T" n="0600a26"/><persName key="A006286">紀王</persName>作鎮。將修追聖廢寺綱總須人。眾舉<lb ed="T" n="0600a27"/>於<persName key="A006292">普</persName>。<persName key="A006286">王</persName>深賞會。又<placeName key="CN0400000E01AA">楚</placeName>俗信巫殺為淫祀。<persName key="A006292">普</persName><lb ed="T" n="0600a28"/>因孚化比屋崇仁。又修明因道場凡三十<lb ed="T" n="0600a29"/>所。皆盡輪奐之工。仍彫金碧之飾。以<date key="j19614311961785" from-iso="0658-02-11" to-iso="0659-01-31">顯慶<lb ed="T" n="0600b01"/>三年</date>終於<placeName key="CN0420602T10AA">本寺</placeName>。春秋八十。</p>
+    <linkGrp>
+        <link targets="#0600a14 #0600a16"/>
+        <ptr target="#A006288" type="person"/>
+        <ptr target="#CN0411302Z14AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0600a17 #0600a18"/>
+        <ptr target="#A006288" type="person"/>
+        <ptr target="#A006289" type="person"/>
+        <ptr target="#CN0421003T01AA" type="place"/>
+        </linkGrp>
+    <linkGrp>
+        <link targets="#0600a18 #0600a19"/>
+        <ptr target="#A006288" type="person"/>
+        <ptr target="#A003654" type="person"/>
+        <ptr target="#CN0421126Z07AA" type="place"/>
+        </linkGrp>
+    <linkGrp>
+        <link targets="#0600a20 #0600a21"/>
+        <ptr target="#A006288" type="person"/>
+        <ptr target="#A006290" type="person"/>
+        <ptr target="#A006291" type="person"/>
+        <ptr target="#CN0411302Z14AA" type="place"/>
+        </linkGrp>
+    <linkGrp>
+        <link targets="#0600a22 #0600a22"/>
+        <ptr target="#A006288" type="person"/>
+        <ptr target="#CN0411302Z14AA" type="place"/>
+        <ptr target="#j19595201959520" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0600a22 #0600a23"/>
+        <ptr target="#A006292" type="person"/>
+        <ptr target="#CN0420602T10AA" type="place"/>
+        </linkGrp>
+    <linkGrp>
+        <link targets="#0600a26 #0600a27"/>
+        <ptr target="#A006292" type="person"/>
+        <ptr target="#A006286" type="person"/>
+        <ptr target="#CN0420602Z05AA" type="place"/>
+        </linkGrp>
+    <linkGrp>
+        <link targets="#0600a29 #0600b01"/>
+        <ptr target="#A006292" type="person"/>
+        <ptr target="#CN0420602T10AA" type="place"/>
+        <ptr target="#j19614311961785" type="time"/>
+    </linkGrp>
+</div>

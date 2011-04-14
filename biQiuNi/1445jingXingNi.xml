@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="bqnz0947a04jingXingNi">
+    <head><placeName key="CN0320102T14AA">竹園寺</placeName><persName key="A016142">淨行</persName>尼<ptr target="fn3"/>傳八</head><p><anchor n="T.50.2063.0947a05"/><lb ed="T" n="0947a05"/><persName key="A016142">淨行</persName>，即<persName key="A016141">淨淵</persName>尼第五妹也。幼而神理清秀，遠<lb ed="T" n="0947a06"/>識<ptr target="fn4"/>遒贍，爽<ptr target="fn5"/>烈有志分，風調舉止，每輒不群。<lb ed="T" n="0947a07"/>少經與<ptr target="fn6"/>大袜令<persName key="A016148">郭洽</persName>妻<persName key="A016149">臧</persName>氏相識，<persName key="A016148">洽</persName>欲害其<lb ed="T" n="0947a08"/>妻，言泄于路。<persName key="A016142">行</persName>請兄諫<persName key="A016148">洽</persName>，<persName key="A016148">洽</persName>不從之。<persName key="A016142">行</persName>密語<lb ed="T" n="0947a09"/><persName key="A016149">臧</persName>氏，<persName key="A016149">臧</persName>氏不信，<persName key="A016142">行</persName>執手慟泣，於是而<ptr target="fn7"/>反。後<lb ed="T" n="0947a10"/>一二日，<persName key="A016148">洽</persName>果害之。</p><p>及<date key="j18890721889437" from-iso="0460-01-01" to-iso="0460-12-31">年十七</date>，從<persName key="A016150">法施</persName>尼出家，<lb ed="T" n="0947a11"/>住<placeName key="CN0320102T14AA">竹園寺</placeName>，學成實、毘曇、涅槃、華嚴。每見事端，<lb ed="T" n="0947a12"/>已達旨趣，探究淵賾，博辯無窮。齊竟陵文宣<lb ed="T" n="0947a13"/>王<persName key="A002655">蕭子良</persName>厚加資給，<persName key="A002266">僧宗</persName>、<persName key="A001921">寶亮</persName>二法師雅相<lb ed="T" n="0947a14"/>賞異。及請講說，聽眾數百人。官第尼寺法事<lb ed="T" n="0947a15"/>連續，當時先達無能屈者。<persName key="A002655">竟陵王</persName>後區品學<lb ed="T" n="0947a16"/>眾，欲撰僧錄，莫可與<persName key="A016142">行</persName>為輩。後有尼聰朗特<lb ed="T" n="0947a17"/>達，博辯若神，<persName key="A016142">行</persName>特親狎之，眾亦以為後來之<lb ed="T" n="0947a18"/>秀，可<ptr target="fn8"/>學為儔也。</p><p><persName key="A016142">行</persName>晚節好禪觀，菜食精苦。<lb ed="T" n="0947a19"/>皇帝聞之，雅相歎賞。年六十六，<ptr target="fn＊"/><date from-iso="0509-02-07" key="j19070061907360" to-iso="0510-01-27">天監八年</date><lb ed="T" n="0947a20"/><ptr target="fn＊"/>而卒，葬于<placeName key="CN0320102M02AA">鍾<ptr target="fn9"/>山</placeName>。</p>
+    <linkGrp>
+        <link targets="#0947a05 #0947a05"/>
+        <ptr target="#A016142" type="person"/>
+        <ptr target="#A016141" type="person"/>
+         
+        </linkGrp>
+    <linkGrp>
+        <link targets="#0947a07 #0947a10"/>
+        <ptr target="#A016142" type="person"/>
+        <ptr target="#A016149" type="person"/>
+         
+        </linkGrp>
+    <linkGrp>
+        <link targets="#0947a07 #0947a10"/>
+        <ptr target="#A016148" type="person"/>
+        <ptr target="#A016149" type="person"/>
+         
+        </linkGrp>
+    <linkGrp>
+        <link targets="#0947a10 #0947a11"/>
+        <ptr target="#A016142" type="person"/>
+        <ptr target="#A016150" type="person"/>
+        <ptr target="#CN0320102T14AA" type="place"/>
+        <ptr target="#j18890721889437" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0947a12 #0947a13"/>
+        <ptr target="#A016142" type="person"/>
+        <ptr target="#A002655" type="person"/>
+         
+        </linkGrp>
+    <linkGrp>
+        <link targets="#0947a13 #0947a14"/>
+        <ptr target="#A016142" type="person"/>
+        <ptr target="#A002266" type="person"/>
+         
+        </linkGrp>
+    <linkGrp>
+        <link targets="#0947a13 #0947a14"/>
+        <ptr target="#A016142" type="person"/>
+        <ptr target="#A001921" type="person"/>
+         
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0947a19 #0947a20"/>
+        <ptr target="#A016142" type="person"/>
+        <ptr target="#j19070061907360" type="time"/>
+    </linkGrp>
+</div>

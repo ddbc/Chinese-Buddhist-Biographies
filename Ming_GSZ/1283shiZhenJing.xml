@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0903b11shiZhenJing">
+  <p><anchor n="T.50.2062.0903b11"/><lb ed="T" n="0903b11"/><persName key="A007894">釋真淨</persName>字<persName key="A007894">如庵</persName>。雲間<placeName key="CN0310117Z08AA">華亭</placeName>姚氏子也。母朱氏<lb ed="T" n="0903b12"/>夢月自海昇墮於懷。覺而有娠。及誕時瑞<lb ed="T" n="0903b13"/>光滿室。有異僧過指謂其母曰。此<persName key="A007894">兒</persName><persName key="A007895">海月<lb ed="T" n="0903b14"/>法師</persName>之再來也。<date key="j21849262185290" from-iso="1270-01-08" to-iso="1271-01-07">九歲</date>依化城寺<!--找不到此地--><persName key="A007899">明靜志法師</persName>。<lb ed="T" n="0903b15"/>授法華經歷耳成誦。<date key="j21874832187847" from-iso="1277-01-08" to-iso="1278-01-07">十六</date>得度。博究諸乘<lb ed="T" n="0903b16"/>夙慧頓發。乃以性學自許。首謁<placeName key="CN0330103Z15AA">杭</placeName>之<placeName key="CN0330106T07AA">廣福</placeName><persName key="A007877">雲<lb ed="T" n="0903b17"/>夢澤公</persName>。聞<persName key="A007902">無極度法師</persName>化聲大振。遂造其室<lb ed="T" n="0903b18"/>盡得其學。<date from-iso="1297" key="j21948412198827" to-iso="1308">元大德</date>間出住海鹽<placeName key="CN0330424T04AA">德藏</placeName>。法嗣<lb ed="T" n="0903b19"/>無極。其<placeName key="CN0330424T04AA">寺</placeName>方[[土*已]&gt;圮]。<persName key="A007894">淨</persName>竭力扶樹。眾散復聚。田<lb ed="T" n="0903b20"/>為豪門所奪復歸。不數年翕然成舊式<lb ed="T" n="0903b21"/>也。至治遷松江<placeName key="CN0310117T03AA">超果</placeName>。<date from-iso="1325-01-23" key="j22050292205412" to-iso="1326-02-10">泰定乙丑</date>元相脫驩舉<lb ed="T" n="0903b22"/>住<placeName key="CN0330106T18AA">下竺</placeName>。居七[禾*冀]。講席不倦。闢寺前之徑高<lb ed="T" n="0903b23"/>大其門。書佛國山以揭之。<date from-iso="1331-02-16" key="j22072442207597" to-iso="1332-02-04">至順辛未</date><placeName key="CN0330106T17AA">上竺</placeName><persName key="A000640">湛<lb ed="T" n="0903b24"/>堂澄公</persName>以老告休。舉<persName key="A007894">淨</persName>自代。先是<persName key="A007894">淨</persName>因疾<lb ed="T" n="0903b25"/>晝寢。夢<persName key="A002803">白衣大士</persName>持金瓶水灌其口曰。<persName key="A007894">汝</persName><lb ed="T" n="0903b26"/>勿憂非久自愈矣。叩以未來休咎。示云。<persName key="A007894">汝</persName><lb ed="T" n="0903b27"/>却後二年當避喧大樹之下。覺疾果差。竊疑<lb ed="T" n="0903b28"/>避喧樹下非入滅之讖耶。及乎澄舉住<placeName key="CN0330106T17AA">上<lb ed="T" n="0903b29"/>竺</placeName>。至見寢堂西有大樹堂匾曰靜處。始悟<lb ed="T" n="0903c01"/>夢之所示。由是殫心弘法。學者常數千指。<lb ed="T" n="0903c02"/>元主慕其道。賜<persName key="A007894">佛心弘辯</persName>之號及金紋紫伽<lb ed="T" n="0903c03"/>黎衣。<persName key="A007894">淨</persName>素簡重有古人風。舉止不妄言笑。<lb ed="T" n="0903c04"/>夙興默課法華經。寒暑不輟。<date from-iso="1333-01-25" key="j22079532208254" to-iso="1333-11-22">癸酉</date>冬預告<lb ed="T" n="0903c05"/>終期。乃命舟亟歸於受業。未幾示疾書偈<lb ed="T" n="0903c06"/>而逝。閱世七十有二。坐五十有六夏。闍維<lb ed="T" n="0903c07"/>得舌根頂骨不壞舍利五色。</p>
+  <linkGrp>
+    <link targets="#0903b14 #0903b15"/>
+    <ptr target="#A007894" type="person"/>
+    <ptr target="#A007899" type="person"/>
+    <ptr target="#j21849262185290" type="time"/>
+  </linkGrp>
+  <linkGrp>
+    <link targets="#0903b15 #0903b16"/>
+    <ptr target="#A007894" type="person"/>
+    <ptr target="#j21874832187847" type="time"/>
+  </linkGrp>
+  <linkGrp>
+    <link targets="#0903c04 #0903c07"/>
+    <ptr target="#A007894" type="person"/>
+    <ptr target="#j22079532208254" type="time"/>
+  </linkGrp>
+  <linkGrp>
+    <link targets="#0903b16 #0903b17"/>
+    <ptr target="#A007894" type="person"/>
+    <ptr target="#A007877" type="person"/>
+    <ptr target="#CN0330106T07AA" type="place"/>
+    <ptr target="#j21874832187847" type="time"/>
+  </linkGrp>
+  <linkGrp>
+    <link targets="#0903b18 #0903b20"/>
+    <ptr target="#A007894" type="person"/>
+    <ptr target="#CN0330424T04AA" type="place"/>
+    <ptr target="#j21948412198827" type="time"/>
+  </linkGrp>
+  <linkGrp>
+    <link targets="#0903b21 #0903b21"/>
+    <ptr target="#A007894" type="person"/>
+    <ptr target="#CN0310117T03AA" type="place"/>
+  </linkGrp>
+  <linkGrp>
+    <link targets="#0903b21 #0903b23"/>
+    <ptr target="#A007894" type="person"/>
+    <ptr target="#CN0330106T18AA" type="place"/>
+    <ptr target="#j22050292205412" type="time"/>
+  </linkGrp>
+  <linkGrp>
+    <link targets="#0903b23 #0903b23"/>
+    <ptr target="#A007894" type="person"/>
+    <ptr target="#A000640" type="person"/>
+    <ptr target="#CN0330106T17AA" type="place"/>
+    <ptr target="#j22072442207597" type="time"/>
+  </linkGrp>
+</div>

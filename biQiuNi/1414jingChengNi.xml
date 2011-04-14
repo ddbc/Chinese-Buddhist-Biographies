@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="bqnz0940a04jingChengNi">
+    <head>山陽東鄉<placeName key="CN0320803T06AA">竹林寺</placeName><persName key="A015335">靜稱</persName>尼<ptr target="fn6"/>傳十五</head><p><anchor n="T.50.2063.0940a05"/><lb ed="T" n="0940a05"/><persName key="A015335">靜稱</persName>，本姓劉，名<persName key="A015335">勝</persName>，<placeName key="CN0411402Z06AA">譙<ptr target="fn7"/>郡</placeName>人也。戒業精苦，誦<lb ed="T" n="0940a06"/>經四十五萬言。<ref target="#CN0320803T06AA" type="place">寺</ref>傍山林，無諸囂雜，遊心禪<lb ed="T" n="0940a07"/>默，永絕塵勞。曾有人失牛，推尋不已，夜至山<lb ed="T" n="0940a08"/>中，<ptr target="fn8"/>望寺林火光熾盛，及至都無。常有一虎，隨<lb ed="T" n="0940a09"/><persName key="A015335">稱</persName>去來，<persName key="A015335">稱</persName>若坐禪，蹲踞左右。寺內諸尼，若犯<lb ed="T" n="0940a10"/>罪失，不時懺<ptr target="fn9"/>悔，虎即大怒，<ptr target="fn10"/>悔罪便悅。</p><p><persName key="A015335">稱</persName>後<lb ed="T" n="0940a11"/>暫出山，道遇一<placeName key="CN0610528Z14AA">北地</placeName>女人，造次問<ptr target="fn11"/>訪，欣然若<lb ed="T" n="0940a12"/>舊。女姓<ptr target="fn12"/>仇，名<persName key="A015339">文姜</persName>，本<placeName key="CN0371523Z03AA">博平</placeName>人也。性好佛法，<lb ed="T" n="0940a13"/>聞南國<ptr target="fn13"/>富道關開，託避得至此土，因遂出家。<lb ed="T" n="0940a14"/>既同苦節，二<ptr target="fn14"/>人不資<ptr target="fn15"/>糧米，餌麻朮而已。聲<lb ed="T" n="0940a15"/>達虜都，虜謂聖人，遠遣迎接，二人不樂邊境，<lb ed="T" n="0940a16"/>故穢聲迹，危行言遜。虜主為設餚饌，皆悉進<lb ed="T" n="0940a17"/>噉，因此輕之，不復拘留，<persName key="A015335">稱</persName>與<persName key="A015339">文姜</persName>復還本寺。</p><p><lb ed="T" n="0940a18"/><persName key="A015335">稱</persName>年九十三，無疾而卒<ptr target="fn16"/>也。</p>
+    <linkGrp>
+        <link targets="#0940a05 #0940a10"/>
+        <ptr target="#A015335" type="person"/>
+        <ptr target="#CN0320803T06AA" type="place"/>
+        </linkGrp>
+    <linkGrp>
+        <link targets="#0940a17 #0940a17"/>
+        <ptr target="#A015335" type="person"/>
+        <ptr target="#A015339" type="person"/>
+        <ptr target="#CN0320803T06AA" type="place"/>
+        </linkGrp>
+</div>

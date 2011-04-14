@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0608c01shiTanYin">
+    <p><anchor n="T.50.2060.0608c01"/><lb ed="T" n="0608c01"/><persName key="A005364">釋曇隱</persName>。姓史。<placeName key="CN0410882Z18AA">河內</placeName><ptr target="fn24"/>人。少厭塵俗早遊佛<lb ed="T" n="0608c02"/>寺。崇奉<ptr target="fn25"/>戒約誦習群經。凡三十萬言。日夜<lb ed="T" n="0608c03"/>通准以為常業。及年滿受具。歸宗<persName key="A006355">道覆</persName>而<lb ed="T" n="0608c04"/>聽律部。精勵彌久穿鑿逾深。後從<persName key="A006354">光公</persName>更<lb ed="T" n="0608c05"/>採精要。陶染變通。遂為<persName key="A006354">光部</persName>之大弟子也。<lb ed="T" n="0608c06"/>乃超步<placeName key="CN0130423Z23AA">京鄴</placeName>北悟<placeName key="CN0130000E01AA">燕趙</placeName>。<placeName key="CN0130682Z19AA">定州</placeName>刺史<persName key="A004282">侯景</persName>。敬<lb ed="T" n="0608c07"/>若神仙。為<persName key="A005364">之</persName>造寺延住供給。末還<placeName key="CN0130423Z23AA">漳濱</placeName>闡<lb ed="T" n="0608c08"/>揚斯教。僕射<persName key="A005880">高隆之</persName>。加禮榮異行臺。<persName key="A004282">侯景</persName><lb ed="T" n="0608c09"/>又於<placeName key="CN0130423Z23AA">鄴</placeName>東為造<placeName key="CN0130423T14AA">大衍寺</placeName>。重引處之。弘播戒<lb ed="T" n="0608c10"/>宗五眾師仰。隨問判決文義雅正。時有持<lb ed="T" n="0608c11"/>律沙門<persName key="A006359">道樂</persName>者。行解相兼物望同美。氣調宏<lb ed="T" n="0608c12"/>逸或擬連衡。故<placeName key="CN0130423Z23AA">鄴</placeName>中語曰。律宗明略唯有<persName key="A005364">隱</persName><lb ed="T" n="0608c13"/><persName key="A006359">樂</persName>。其為世重如此。而<persName key="A005364">隱</persName>性<persName key="A006359">樂</persName>獨遊不畜<lb ed="T" n="0608c14"/><ptr target="fn26"/>弟子。財無尺貯袒背終身。衣鉢恒隨誠<lb ed="T" n="0608c15"/>均鳥翼。顧旋身轉取譬象迴。通律持律。時<lb ed="T" n="0608c16"/>惟一人而已。年六十有三。終於鄴城<placeName key="CN0130423T08AA">大覺寺</placeName>。<lb ed="T" n="0608c17"/>著鈔四卷。門人成器者十餘。皆宗其軌轍。<lb ed="T" n="0608c18"/>時有律師<persName key="A006360">洪理</persName>者。精氣獨架詞<ptr target="fn27"/>采嚴正。預<lb ed="T" n="0608c19"/>在論擊罕不喪輪。著鈔兩卷時共同祕。後<lb ed="T" n="0608c20"/>為沙門<persName key="A001269">智首</persName>開散詞義。<ptr target="fn28"/>更張綱目合成<lb ed="T" n="0608c21"/>四卷。所在<ptr target="fn29"/>咸誦云。</p>
+    <linkGrp>
+        <link targets="#0608c01 #0608c01"/>
+        <ptr target="#A005364" type="person"/>
+        <ptr target="#CN0410882Z18AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0608c03 #0608c04"/>
+        <ptr target="#A005364" type="person"/>
+        <ptr target="#A006355" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0608c04 #0608c05"/>
+        <ptr target="#A005364" type="person"/>
+        <ptr target="#A006354" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0608c06 #0608c06"/>
+        <ptr target="#A005364" type="person"/>
+        <ptr target="#CN0130000E01AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0608c06 #0608c07"/>
+        <ptr target="#A005364" type="person"/>
+        <ptr target="#A004282" type="person"/>
+        <ptr target="#CN0130682Z19AA" type="place"/>
+        </linkGrp>
+    <linkGrp>
+        <link targets="#0608c07 #0608c08"/>
+        <ptr target="#A005364" type="person"/>
+        <ptr target="#A005880" type="person"/>
+        <ptr target="#CN0130423Z23AA" type="place"/>
+        </linkGrp>
+    <linkGrp>
+        <link targets="#0608c08 #0608c10"/>
+        <ptr target="#A005364" type="person"/>
+        <ptr target="#A004282" type="person"/>
+        <ptr target="#CN0130423T14AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0608c10 #0608c13"/>
+        <ptr target="#A005364" type="person"/>
+        <ptr target="#A006359" type="person"/>
+        <ptr target="#CN0130423Z23AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0608c16 #0608c16"/>
+        <ptr target="#A005364" type="person"/>
+        <ptr target="#CN0130423T08AA" type="place"/>
+        </linkGrp>
+</div>

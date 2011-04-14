@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0910c20shiShanQi">
+  <p><anchor n="T.50.2062.0910c20"/><lb ed="T" n="0910c20"/><persName key="A008285">釋善啟</persName>字<persName key="A008285">東白</persName>別號<persName key="A008285">曉菴</persName>。<placeName key="CN0320505A01AA">姑蘇長洲</placeName>楊氏子。<lb ed="T" n="0910c21"/>世為宦族。甫能言即通釋典如舊熟。父母<lb ed="T" n="0910c22"/>異之。知是法器捨入永茂院 出家。無幾薙<lb ed="T" n="0910c23"/>染受具。屏跡龍山研窮大藏<!--經名ID -->。百氏諸史無<lb ed="T" n="0910c24"/>不精究。<date from-iso="1408-02-06" key="j22353572235710" to-iso="1409-01-24">永樂戊子</date>出世郡之<placeName key="CN0320503T10AA">延慶寺</placeName>。明年<lb ed="T" n="0910c25"/>應召纂修永樂大典<!--經名ID -->併校大藏經<!--經名ID -->。賜<persName key="A008285">金縷<lb ed="T" n="0910c26"/>僧伽黎</persName>。一時名人若<persName key="A008286">沈民望</persName><persName key="A008287">王汝玉</persName><persName key="A008288">錢原溥</persName><lb ed="T" n="0910c27"/>輩皆為方外交。或辯儒釋之異。<persName key="A008285">師</persName>曰。無論<lb ed="T" n="0910c28"/>聖人理同且各為其教。又曰。<placeName key="CN0000000A10AA">東魯</placeName>垂道<placeName key="IN0000000E01AA">西竺</placeName><lb ed="T" n="0910c29"/>見性皆莫先於厚本。故<persName key="A008285">吾</persName>儕雖離父母而<lb ed="T" n="0911a01"/>養生送死率皆從厚。與兄弟極友愛。<date from-iso="1443-02-09" key="j22481442248497" to-iso="1444-01-28">正統<lb ed="T" n="0911a02"/>癸亥</date>示寂。塔於龍山。</p>
+  <linkGrp>
+    <link targets="#0910c24 #0910c24"/>
+    <ptr target="#A008285" type="person"/>
+    <ptr target="#CN0320503T10AA" type="place"/>
+    <ptr target="#j22353572235710" type="time"/>
+  </linkGrp>
+  <linkGrp>
+    <link targets="#0911a01 #0911a02"/>
+    <ptr target="#A008285" type="person"/>
+    <ptr target="#j22481442248497" type="time"/>
+  </linkGrp>
+</div>

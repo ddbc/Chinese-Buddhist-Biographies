@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="bqnz0939b01guangJingNi">
+    <head>廣陵<placeName key="CN0320101T38AA">中寺</placeName><persName key="A015305">光靜</persName>尼<ptr target="fn18"/>傳十二</head><p><anchor n="T.50.2063.0939b02"/><lb ed="T" n="0939b02"/><persName key="A015305">光靜</persName>，本姓胡，名<persName key="A015305">道婢</persName>，吳興<placeName key="CN0330503Z01AA">東遷</placeName>人也。幼出家，<lb ed="T" n="0939b03"/>隨師住廣陵<placeName key="CN0320101T38AA">中寺</placeName>。<persName key="A015305">靜</persName>少而<ptr target="fn19"/>勵行，長<ptr target="fn＊"/>而習禪<lb ed="T" n="0939b04"/>思，不食甘肥，將受大戒，絕穀餌松。具<ptr target="fn20"/>足之<lb ed="T" n="0939b05"/>後，積十五年，雖心識鮮明，而體力<ptr target="fn21"/>羸憊，祈誠<lb ed="T" n="0939b06"/>慊到，每輒感勞，動經晦朔。沙門<ptr target="fn＊"/><persName key="A015310">釋法成</persName>謂<lb ed="T" n="0939b07"/>曰：「服食非佛盛事。」<persName key="A015305">靜</persName>聞之，還食粳糧，倍加勇<lb ed="T" n="0939b08"/>猛，精學不倦。從學觀<ptr target="fn22"/>行者，常百許人。<date from-iso="0441-06-06" key="j18822891882318" to-iso="0441-07-05">元嘉十<lb ed="T" n="0939b09"/>八年五月</date><ptr target="fn23"/>患疾，曰：「<ref target="#A015305" type="person">我</ref>厭苦此身，其來久矣。」於<lb ed="T" n="0939b10"/>是牽病懺悔，不離心口，<ptr target="fn24"/>情理恬明，神氣怡悅。<lb ed="T" n="0939b11"/>至<date from-iso="0442-01-28" key="j18825251882908" to-iso="0443-02-15">十九年</date>歲旦，飲粒皆絕，屬念兜率，心心相<lb ed="T" n="0939b12"/>續，如是不斷。至<date key="j18826311882631" when-iso="0442-05-14">四月<ptr target="fn25"/>十八日</date>夜，殊香異相，<lb ed="T" n="0939b13"/>滿虛空中，其夜命<ptr target="fn26"/>過<ptr target="fn27"/>焉。</p>
+    <linkGrp>
+        <link targets="#0939b02 #0939b03"/>
+        <ptr target="#A015305" type="person"/>
+        <ptr target="#CN0320101T38AA" type="place"/>
+        </linkGrp>
+    <linkGrp>
+        <link targets="#0939b02 #0939b08"/>
+        <ptr target="#A015305" type="person"/>
+        <ptr target="#A015310" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0939b08 #0939b10"/>
+        <ptr target="#A015305" type="person"/>
+        <ptr target="#j18822891882318" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0939b11 #0939b12"/>
+        <ptr target="#A015305" type="person"/>
+        <ptr target="#j18825251882908" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0939b12 #0939b13"/>
+        <ptr target="#A015305" type="person"/>
+        <ptr target="#j18826311882631" type="time"/>
+    </linkGrp>
+</div>

@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0657a06shiSengAn">
+    <p><anchor n="T.50.2060.0657a06"/><lb ed="T" n="0657a06"/><persName key="A006907">釋僧安</persName>。不知何人。戒業精苦坐禪講解。時<lb ed="T" n="0657a07"/>號多能。<date key="j19221051925561" notAfter-iso="0559" notBefore-iso="0550"><persName key="A004698">齊文宣</persName>時</date>。在<placeName key="CN0410881M01AA">王屋山</placeName>。聚徒二十許<lb ed="T" n="0657a08"/>人講涅槃。始發題有雌雉。來座側伏聽。僧<lb ed="T" n="0657a09"/>若食時出外飲啄。日晚上講依時赴集。三<lb ed="T" n="0657a10"/>卷未了遂絕不至。眾咸怪之。<persName key="A006907">安</persName>曰。雉今<lb ed="T" n="0657a11"/>生人道。不須怪也。<date key="j19303951930748" from-iso="0573-02-20" to-iso="0574-02-08">武平四年</date>。<persName key="A006907">安</persName>領徒至<placeName key="CN0330602Z29AA">越<lb ed="T" n="0657a12"/>州</placeName>行頭陀。忽云。往年雌雉應生在此。<ptr target="fn01"/>徑<lb ed="T" n="0657a13"/>至一家。遙喚雌雉。一女走出。如舊相識。禮<lb ed="T" n="0657a14"/>拜<ptr target="fn02"/>歌喜。女父母異之。引入設食。<persName key="A006907">安</persName>曰。此<lb ed="T" n="0657a15"/>女何故名雌雉耶。答曰。見其初生髮如雉<lb ed="T" n="0657a16"/>毛。既是女故名雌雉也。<persName key="A006907">安</persName>大笑為述本緣。<lb ed="T" n="0657a17"/>女聞涕泣。苦求出家。二親欣然許之。為講<lb ed="T" n="0657a18"/>涅槃。聞便領解一無遺漏。至後三卷。茫然<lb ed="T" n="0657a19"/>不解。于時始年十四。便就講說。遠近咸聽。<lb ed="T" n="0657a20"/>歎其宿習。因斯躬勸。從學者眾矣。</p>
+    <linkGrp>
+        <link targets="#0657a07 #0657a11"/>
+        <ptr target="#A006907" type="person"/>
+        <ptr target="#CN0410881M01AA" type="place"/>
+        <ptr target="#j19221051925561" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0657a11 #0657a19"/>
+        <ptr target="#A006907" type="person"/>
+        <ptr target="#CN0330602Z29AA" type="place"/>
+        <ptr target="#j19303951930748" type="time"/>
+    </linkGrp>
+</div>

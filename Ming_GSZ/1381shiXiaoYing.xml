@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0933b11shiXiaoYing">
+  <p><anchor n="T.50.2062.0933b11"/><lb ed="T" n="0933b11"/><persName key="A001777">釋曉瑩</persName>字<persName key="A001777">仲溫</persName>。未詳氏族。歷參叢席頓明<lb ed="T" n="0933b12"/>大事。四眾推重。晚歸<placeName key="CN0360103A01AA">羅湖</placeName>之上。杜門却掃<lb ed="T" n="0933b13"/>不與世接。惟以生平之所見聞諸方尊宿<lb ed="T" n="0933b14"/>提唱之語及友朋談說議論宗教之言或得<lb ed="T" n="0933b15"/>於殘碑蠧簡有關典謨之說。皆會萃成編<lb ed="T" n="0933b16"/>曰羅湖野錄。其所載者皆命世宗匠賢士大<lb ed="T" n="0933b17"/>夫言行之粹美機鋒之勁捷酧酢之雄偉氣格<lb ed="T" n="0933b18"/>之弘曠可以輔宗乘訓後學抑起人于至<lb ed="T" n="0933b19"/>善。是故閱者不忍釋手云。</p>
+  <linkGrp>
+    <link targets="#0933b12 #0933b13"/>
+    <ptr target="#A001777" type="person"/>
+    <ptr target="#CN0360103A01AA" type="place"/>
+  </linkGrp>
+</div>

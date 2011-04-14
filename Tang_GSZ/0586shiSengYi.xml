@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0647a04shiSengYi">
+    <p><anchor n="T.50.2060.0647a04"/><lb ed="T" n="0647a04"/><persName key="A006820">釋僧意</persName>。不知何人。貞確有思力。每登座講<lb ed="T" n="0647a05"/>說。輒天花下散在于法座。<date key="j18620951916335" notAfter-iso="0534" notBefore-iso="0386">元魏中</date>。住太山<lb ed="T" n="0647a06"/><persName key="A005471">朗公</persName><placeName key="CN0370902T01AA">谷山寺</placeName>。聚徒教授。迄<ptr target="fn01"/>於暮齒精誠不<lb ed="T" n="0647a07"/>倦。<placeName key="CN0370902T01AA">寺</placeName>有高<ptr target="fn02"/>驪像。相國像。胡國像。女國像。<lb ed="T" n="0647a08"/>吳國像。崑<ptr target="fn03"/>崙像。岱京像。如此七像並是金<lb ed="T" n="0647a09"/>銅。俱陳寺堂。堂門常開。而鳥<ptr target="fn＊"/>狩無敢入者。<lb ed="T" n="0647a10"/>至今猶爾。故靈裕像讚云。應感而來。誠無<lb ed="T" n="0647a11"/>指屬。豈神通冥著。理隔尋常之議乎。<persName key="A006820">意</persName>奉<lb ed="T" n="0647a12"/>法自資。束躬供養。將終前夕。有一沙彌死<lb ed="T" n="0647a13"/>來已久。<ptr target="fn04"/>見拜云。違奉已來。常為天帝驅使。<lb ed="T" n="0647a14"/><ptr target="fn05"/>栖遑無暇。<ptr target="fn06"/>癈修道業。不久天帝請師講<lb ed="T" n="0647a15"/>經。願因一言得免形苦。<persName key="A006820">意</persName>便洗浴燒香。<lb ed="T" n="0647a16"/>端坐靜室候待時至。及期果有天來入寺<lb ed="T" n="0647a17"/>及房。冠服羽從偉麗殊特。眾僧初見但謂。是<lb ed="T" n="0647a18"/>何世貴入山參謁。不生驚異。及<persName key="A006820">意</persName>爾日無<lb ed="T" n="0647a19"/>疾而逝。方知靈感。其都講住在<ptr target="fn07"/><placeName key="CN0370882Z05AA">兗州</placeName>。自餘<lb ed="T" n="0647a20"/>香火唄匿散在<ptr target="fn08"/>他邑。後試檢勘。皆同日而<lb ed="T" n="0647a21"/>終焉。有說云。<persName key="A006820">僧意</persName>志湛。即<persName key="A005471">朗公</persName>同侶。前傳<lb ed="T" n="0647a22"/>闕之。故今緝綴湛得初果。其塔見存。在泰<lb ed="T" n="0647a23"/>山<placeName key="CN0370113T03AA">靈巖寺</placeName>側。見別傳。</p>
+    <linkGrp>
+        <link targets="#0647a05 #0647a06"/>
+        <ptr target="#A006820" type="person"/>
+        <ptr target="#CN0370902T01AA" type="place"/>
+        <ptr target="#j18620951916335" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0647a06 #0647a06"/>
+        <ptr target="#A005471" type="person"/>
+        <ptr target="#CN0370902T01AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0647a19 #0647a19"/>
+        <ptr target="#A006820" type="person"/>
+        <ptr target="#CN0370882Z05AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0647a21 #0647a21"/>
+        <ptr target="#A006820" type="person"/>
+        <ptr target="#A005471" type="person"/>
+    </linkGrp>
+</div>

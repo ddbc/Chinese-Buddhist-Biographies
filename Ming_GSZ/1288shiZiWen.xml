@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0905a15shiZiWen">
+  <p><anchor n="T.50.2062.0905a15"/><lb ed="T" n="0905a15"/><persName key="A007983">釋子文</persName>字<persName key="A007983">宗周</persName>。四明<placeName key="CN0330225Z05AA">象山</placeName>人也。即<persName key="A007984">北溪 <!--找不到此地-->聞法<lb ed="T" n="0905a16"/>師</persName>之上足。出主<placeName key="CN0330203T03AA">寶雲寺</placeName>。淹博教觀律規甚<lb ed="T" n="0905a17"/>嚴。常與人言則蹇訥若不出口。至於升座<lb ed="T" n="0905a18"/>滔滔如建瓴之水莫之禦也。臨終時講十<lb ed="T" n="0905a19"/>六觀經<!--經名ID -->。終即欲就座別眾入滅。或有啟曰。<lb ed="T" n="0905a20"/><persName key="A007983">和尚</persName>後事未曾分付。奈何遽爾告寂耶。<persName key="A007983">文</persName><lb ed="T" n="0905a21"/>曰。僧家要行便行。莫做俗漢伎倆為兒女<lb ed="T" n="0905a22"/>計。而有後事。眾懇益切。於是下座。復歸方<lb ed="T" n="0905a23"/>丈一一條畫之。即合掌稱西方四聖號。回向<lb ed="T" n="0905a24"/>發願畢遂入滅。闍維舍利燦然無數。異香襲<lb ed="T" n="0905a25"/>人彌日而止。</p>
+  <linkGrp>
+    <link targets="#0905a15 #0905a18"/>
+    <ptr target="#A007983" type="person"/>
+    <ptr target="#CN0330203T03AA" type="place"/>
+  </linkGrp>
+  <linkGrp>
+    <link targets="#0905a15 #0905a16"/>
+    <ptr target="#A007983" type="person"/>
+    <ptr target="#A007984" type="person"/>
+  </linkGrp>
+</div>

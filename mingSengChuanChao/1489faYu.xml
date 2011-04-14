@@ -1,0 +1,31 @@
+<?xml version="1.0" ?><div xml:id="mscc0353b08faYu" xmlns="http://www.tei-c.org/ns/1.0"><head>晉江陵<placeName key="CN0421003T06AA">長沙寺</placeName><persName key="A002210">釋法遇</persName></head><p><anchor n="X.77.1523.0353b08"/><lb ed="X" n="0353b08"/>法遇(別傳云<persName key="A002210">曇遇</persName>。又別記云<persName key="A002210">道遇</persName>也)。不知何處人也。少而慷慨。養索<lb ed="X" n="0353b09"/>自居。隣豪妻之以女。郡守徵以為吏。皆不從。專慕大<lb ed="X" n="0353b10"/>法。投<persName key="A001503">釋道安</persName>為師。既得沐浴玄化。諮諏昧理。執橾精<lb ed="X" n="0353b11"/>懇。禁行無[虛*予]。鍾摩頂之愛。留起予之賞。於是下帷就<lb ed="X" n="0353b12"/>業。博究深經。<placeName key="CN0411502Z04AA">義陽</placeName>太守陳<ptr target="fn3"/>笛<persName key="A002788">阮保</persName>。聞風欽悅。修書通<lb ed="X" n="0353b13"/>好。信使往還。果有嚫遺。<date from-iso="0377-01-27" key="j18587831859166" to-iso="0378-02-14">晉太元二年</date>。寺荷本圍<placeName key="CN0420602Z09AA">襄陽</placeName>。<lb ed="X" n="0353b14"/>與<persName key="A002211">曇微</persName><persName key="A002197">曇翼</persName><ptr target="fn4"/><persName key="A001204">遠惠</persName>等。下集江陵<placeName key="CN0421003T06AA">長沙</placeName><ptr target="fn5"/>等。法輪移軔。學<lb ed="X" n="0353b15"/>徒雲湊。聽受之眾。常四百人。有一僧。於寺飲酒。<ptr target="fn6"/>癡夕<lb ed="X" n="0353b16"/>燒香。遇罸而不遣。安聞之。以竹筒封一荊子。手題寄<lb ed="X" n="0353b17"/>遇。遇<placeName key="CN0410224Z33AA">開封</placeName>見杖。即曰。此由飲酒僧也。我訓眾不勤。遠<lb ed="X" n="0353b18"/>貽憂賜。令維那<ptr target="fn7"/>繫磬聚眾。以杖筒<ptr target="fn8"/>量香橙上。行香畢。<lb ed="X" n="0353b19"/>出眾前。向筒致化。化竟伏地。命維那行杖三下。內杖<lb ed="X" n="0353b20"/>筒中起。又作垂淚嗚咽。時境內道俗莫不歎息。既而<lb ed="X" n="0353b21"/>與<persName key="A001204">惠遠</persName>書曰。吾不能率眾。和上隔在異域。猶遠垂憂。<lb ed="X" n="0353b22"/>吾罪深矣。年六十一。卒於<placeName key="CN0421003Z05AA">江陵</placeName>(云云)。</p>
+    <linkGrp>
+        <link targets="#0353b09 #0353b11"/>
+        <ptr target="#A002210" type="person"/>
+        <ptr target="#A001503" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0353b11 #0353b13"/>
+        <ptr target="#A002210" type="person"/>
+        <ptr target="#A002788" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0353b13 #0353b15"/>
+        <ptr target="#A002210" type="person"/>
+        <ptr target="#A002211" type="person"/>
+        <ptr target="#A002197" type="person"/>
+        <ptr target="#A001204" type="person"/>
+        <ptr target="#CN0421003T06AA" type="place"/>
+        <ptr target="#j18587831859166" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0353b20 #0353b22"/>
+        <ptr target="#A002210" type="person"/>
+        <ptr target="#A001204" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0353b22 #0353b22"/>
+        <ptr target="#A002210" type="person"/>
+        <ptr target="#CN0421003Z05AA" type="place"/>
+    </linkGrp>
+</div>

@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="bqnz0940a19faXiangNi">
+    <head>吳<placeName key="CN0320503T20AA">太玄臺寺</placeName><persName key="A015359">法相</persName>尼<ptr target="fn17"/>傳十六</head><p><anchor n="T.50.2063.0940a20"/><lb ed="T" n="0940a20"/><persName key="A015359">法相</persName>，本姓侯，<placeName key="CN0620982Z56AA">燉煌</placeName>人<ptr target="fn18"/>也。履操清貞，才識英<lb ed="T" n="0940a21"/>拔。篤志好學，不以屢空廢業；<ptr target="fn19"/>清安貧窶，不<lb ed="T" n="0940a22"/>以榮達移心。出適傅氏，家道多故。<persName key="A002515">符堅</persName>敗績，<lb ed="T" n="0940a23"/>眷屬散亡。出家持戒，信解彌深。常割衣食好<lb ed="T" n="0940a24"/>者，<ptr target="fn20"/>施<ptr target="fn21"/><persName key="A015375">慧宿</persName>尼。寺僧諫曰：「<ptr target="fn＊"/><persName key="A015375">慧宿</persName><ptr target="fn22"/>質野，言不<lb ed="T" n="0940a25"/>出口，佛法經律曾未厝心。欲學禪定，又無師<lb ed="T" n="0940a26"/>範，專頑拙訥，是下愚人耳。何<ptr target="fn23"/>不種以上田，而<lb ed="T" n="0940a27"/>修此下福？」答曰：「<ptr target="fn24"/>田之勝負，唯聖乃知。 <ref target="#A015359" type="person">我</ref>既<lb ed="T" n="0940a28"/>凡人，寧立取捨。遇有如施，何關作意耶？」</p><p><ptr target="fn＊"/><persName key="A015375">慧宿</persName><lb ed="T" n="0940a29"/>後建禪齋七日，至第<ptr target="fn25"/>三夜，與眾共坐。眾起不<lb ed="T" n="0940b01"/>起，眾共觀之，堅如木石，牽持不動，<ptr target="fn26"/>或謂已<lb ed="T" n="0940b02"/>死。後三日起，起後如常，眾方異之，始悟<persName key="A015359">法相</persName><lb ed="T" n="0940b03"/>深相領照矣。其如此類，前後非一。</p><p><persName key="A015359">相</persName>年<ptr target="fn27"/>逮桑<lb ed="T" n="0940b04"/>榆，操行彌篤，年九十餘，<date key="j18839901886591" notAfter-iso="0453-03-17" notBefore-iso="0446-02-01">元嘉末</date>卒也。</p>
+    <linkGrp>
+        <link targets="#0940a23 #0940b03"/>
+        <ptr target="#A015359" type="person"/>
+        <ptr target="#A015375" type="person"/>
+        <ptr target="#CN0320503T20AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0940b03 #0940b04"/>
+        <ptr target="#A015359" type="person"/>
+        <ptr target="#j18839901886591" type="time"/>
+    </linkGrp>
+</div>

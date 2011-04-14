@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0653a22JiaYi">
+    <p><anchor n="T.50.2060.0653a22"/><lb ed="T" n="0653a22"/><ptr target="fn09"/><persName key="A006852">賈逸</persName>者。不知<ptr target="fn10"/>何人。<date key="j19406121940966" from-iso="0601-02-11" to-iso="0602-01-31">隋仁壽初</date>遊于<placeName key="CN0420982Z17AA">安陸</placeName>。<lb ed="T" n="0653a23"/>言戲出沒有逾符讖。形服變改時或緇素。後<lb ed="T" n="0653a24"/>於一時分身諸縣。及至推驗方敬其德。<lb ed="T" n="0653a25"/>行迹不經而為無識所恥。有<placeName key="CN0420982T02AA">方等寺</placeName>沙門<lb ed="T" n="0653a26"/><persName key="A004773">慧暠</persName>者。學行通博。<persName key="A006852">逸</persName>因過<persName key="A004773">之</persName>。以紙五十幅<lb ed="T" n="0653a27"/>施云。<persName key="A004773">法師</persName>由此得解耳。初不測其所因也。<lb ed="T" n="0653a28"/>後有諍起。<persName key="A004773">暠</persName>被引禁。官司責問。引辯而答。<lb ed="T" n="0653a29"/>紙盡事了。如其語焉。故徵應所指。例如此<lb ed="T" n="0653b01"/>也。末至一家云。<persName key="A006854">承卿</persName>有女欲為婚媾。因<lb ed="T" n="0653b02"/>往市中唱令告乞云。他與我婦須得禮<lb ed="T" n="0653b03"/>贈。廣索錢米剋日成就。數往彼門揚聲陳<lb ed="T" n="0653b04"/>述。女家羞恥。遂密殺<persName key="A006852">之</persName>。埋在糞下。經停三<lb ed="T" n="0653b05"/>日。行遊市<ptr target="fn11"/>上。逢人言告被殺之事。<date key="j19435361943889" from-iso="0609-02-13" to-iso="0610-02-01">大業<lb ed="T" n="0653b06"/>五年</date>。天下清晏。<persName key="A006852">逸</persName>與諸群小戲於水側。或<lb ed="T" n="0653b07"/>騎橋檻。手<ptr target="fn12"/>挵之云。拗羊頭捩羊頭。眾人<lb ed="T" n="0653b08"/>倚看笑其所作。及<placeName key="CN0321002Z14AA">江都</placeName>禍亂。咸契前言。不<lb ed="T" n="0653b09"/>知所終。時<placeName key="CN0510108Z02AA">蜀郡</placeName>又有<persName key="A006855">揚祐</persName>師者。佯狂<placeName key="CN0510108Z11AA">岷<lb ed="T" n="0653b10"/><ptr target="fn13"/>絡</placeName>。古老百歲者云。初見至今貌常不改。可<lb ed="T" n="0653b11"/>年四十。著故黃衫。食噉同俗。栖止無定。每<lb ed="T" n="0653b12"/>有大集身必在先。言笑應變不傷物議。預<lb ed="T" n="0653b13"/>記來驗。時共稱美。迄<ptr target="fn14"/>于<date key="j19469511973336" notAfter-iso="0690" notBefore-iso="0618">唐初</date>猶見<placeName key="CN0510108Z11AA">彼土</placeName>。<lb ed="T" n="0653b14"/>後失其所在。</p>
+    <linkGrp>
+        <link targets="#0653a22 #0653a23"/>
+        <ptr target="#A006852" type="person"/>
+        <ptr target="#CN0420982Z17AA" type="place"/>
+        <ptr target="#j19406121940966" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0653a25 #0653a26"/>
+        <ptr target="#A006852" type="person"/>
+        <ptr target="#A004773" type="person"/>
+        <ptr target="#CN0420982T02AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0653b01 #0653b05"/>
+        <ptr target="#A006852" type="person"/>
+        <ptr target="#A006854" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0653b05 #0653b08"/>
+        <ptr target="#A006852" type="person"/>
+        <ptr target="#j19435361943889" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0653b09 #0653b09"/>
+        <ptr target="#A006855" type="person"/>
+        <ptr target="#CN0510108Z02AA" type="place"/>
+        <ptr target="#j19435361943889" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0653b13 #0653b14"/>
+        <ptr target="#A006855" type="person"/>
+        <ptr target="#CN0510108Z02AA" type="place"/>
+        <ptr target="#j19469511973336" type="time"/>
+    </linkGrp>
+</div>

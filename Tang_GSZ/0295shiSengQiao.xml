@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0472c06shiSengQiao">
+    <head><placeName key="CN0320102T17AA">梁楊都龍光寺</placeName><persName key="A005097">釋僧喬</persName>傳十一</head><p><anchor n="T.50.2060.0472c06"/><lb ed="T" n="0472c06"/><persName key="A005097">釋僧喬</persName>。姓華氏。<placeName key="CN0330503Z01AA">吳興東遷</placeName>人。出家住<placeName key="CN0320102T17AA">龍光<lb ed="T" n="0472c07"/>寺</placeName>。聞<persName key="A001595">僧旻</persName>說。前修立義有諸同異。則忘寢<lb ed="T" n="0472c08"/>息志欲稟受。又聽其語論轉捷。則撫掌累<lb ed="T" n="0472c09"/>嘆思與偕也。<date key="j19015141901739" notAfter-iso="0494" notBefore-iso="0494">隆昌之世</date>法筵轉少。仍與同<lb ed="T" n="0472c10"/>寺<persName key="A005098">僧整</persName><persName key="A005099">寶淵</persName><persName key="A005100">慧濟</persName><persName key="A005101">慧紹</persName>等。請<persName key="A001595">旻</persName>移住。於是終<lb ed="T" n="0472c11"/>晨竟夜一心諮求。布被禦冬單蔣藉體。饘粥<lb ed="T" n="0472c12"/>糊口茹菜充飢。而未曾以貧寒變節。但自<lb ed="T" n="0472c13"/>勤勵維日不足。研精奧粹理悟深明。三四<lb ed="T" n="0472c14"/>年間經論通達。後<persName key="A001595">旻</persName>還<placeName key="CN0320101T60AA">莊嚴</placeName>。<placeName key="CN0320102T17AA">龍光</placeName><persName key="A002878">慧生</persName>問<lb ed="T" n="0472c15"/>曰。諸少相携並得成器。其間勝負可得聞<lb ed="T" n="0472c16"/>耶。<persName key="A001595">旻</persName>曰。<persName key="A005097">喬公</persName>儒雅清虛<ptr target="fn28"/>履今用古。卷舒文<lb ed="T" n="0472c17"/>義優遊教理。鉤深致遠善能讎校。<ptr target="fn29"/>廉而未<lb ed="T" n="0472c18"/>講莫與爭先。此乃遺法之所寄也。<persName key="A005098">整公</persName>精<lb ed="T" n="0472c19"/>勤經論博綜有<ptr target="fn30"/>敘。同其業者重其情<ptr target="fn31"/>性。<lb ed="T" n="0472c20"/><persName key="A005099">淵公</persName>不無神明。而心性偏激亟違禮度。久<lb ed="T" n="0472c21"/>從異集。無以測其多少。<persName key="A005100">濟公</persName>神識清審。經<lb ed="T" n="0472c22"/>素有功論文未熟。由其體羸不堪辛苦故<lb ed="T" n="0472c23"/>耳。且於義理足以明道。志行足以<ptr target="fn32"/>厲俗。<lb ed="T" n="0472c24"/><persName key="A005101">紹公</persName>情性<ptr target="fn33"/>和理篤有志行。貧而有累學不<lb ed="T" n="0472c25"/>得恒。向無妨礙。不患不成美器。自<persName key="A005097">喬</persName>學<lb ed="T" n="0472c26"/>之成也。不修世務不附名聞。閉門靜處<lb ed="T" n="0472c27"/>坐無雜客。澄懷潛悟獨得而已。年三十六<date key="j19045331906155" notAfter-iso="0506" notBefore-iso="0502">天<lb ed="T" n="0472c28"/>監初</date>卒。<persName key="A002878">生</persName>本<ptr target="fn34"/>任<placeName key="CN0430105Z01AA">湘州</placeName>。學明經數頻御法<lb ed="T" n="0472c29"/>座。少秉高操。慕<persName key="A001503">安</persName><persName key="A002193">汰</persName>之風規。而弊衣<ptr target="fn35"/>蔬食<lb ed="T" n="0473a01"/>終身不改。美風姿善草隷。<persName key="A005098">整</persName>住<placeName key="CN0420602Z11AA">襄陽</placeName><ptr target="fn01"/>未<lb ed="T" n="0473a02"/>遊<placeName key="CN0420106Z20AA">夏首</placeName>。道化大行。<persName key="A005100">濟</persName><placeName key="CN0440104Z38AA">番禺</placeName>人。<ptr target="fn02"/>未還<placeName key="CN0400000E07AA">嶺表</placeName><lb ed="T" n="0473a03"/>德被<placeName key="VNB56BN00Z02AA">南越</placeName>。文義風宣有廣被焉。並<date key="j19045331911021" notAfter-iso="0520" notBefore-iso="0502">天監中</date><lb ed="T" n="0473a04"/>卒。</p>
+    <linkGrp>
+        <link targets="#0472c06 #0472c06"/>
+        <ptr target="#A005097" type="person"/>
+        <ptr target="#CN0330503Z01AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0472c09 #0472c14"/>
+        <ptr target="#A005097" type="person"/>
+        <ptr target="#A001595" type="person"/>
+        <ptr target="#A005098" type="person"/>
+        <ptr target="#A005099" type="person"/>
+        <ptr target="#A005100" type="person"/>
+        <ptr target="#A005101" type="person"/>
+        <ptr target="#CN0320102T17AA" type="place"/>
+        <ptr target="#j19015141901739" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0472c14 #0472c14"/>
+        <ptr target="#A002878" type="person"/>
+        <ptr target="#CN0320102T17AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0472c14 #0472c25"/>
+        <ptr target="#A001595" type="person"/>
+        <ptr target="#A002878" type="person"/>
+        <ptr target="#CN0320101T60AA" type="place"/>
+        </linkGrp>
+    <linkGrp>
+        <link targets="#0472c27 #0472c28"/>
+        <ptr target="#A005097" type="person"/>
+        <ptr target="#CN0320102T17AA" type="place"/>
+        <ptr target="#j19045331906155" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0472c28 #0472c28"/>
+        <ptr target="#A002878" type="person"/>
+        <ptr target="#CN0430105Z01AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0473a01 #0473a01"/>
+        <ptr target="#A005098" type="person"/>
+        <ptr target="#CN0420602Z11AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0473a01 #0473a02"/>
+        <ptr target="#A005098" type="person"/>
+        <ptr target="#CN0420106Z20AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0473a02 #0473a02"/>
+        <ptr target="#A005100" type="person"/>
+        <ptr target="#CN0440104Z38AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0473a02 #0473a04"/>
+        <ptr target="#A005100" type="person"/>
+        <ptr target="#CN0400000E07AA" type="place"/>
+        <ptr target="#j19045331911021" type="time"/>
+    </linkGrp>
+</div>

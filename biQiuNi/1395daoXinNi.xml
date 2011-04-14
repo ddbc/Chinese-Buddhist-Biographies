@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="bqnz0936a27daoXinNi">
+    <head><placeName key="CN0410322T04AA">洛陽城東寺</placeName><persName key="A014865">道馨</persName>尼傳九</head>
+    <p><anchor n="T.50.2063.0936a28"/><lb ed="T" n="0936a28"/><persName key="A014865">竺道馨</persName>，本姓<ptr target="fn18"/>羊，<placeName key="CN0370911Z02AA">太山</placeName>人也。志性專謹，與物<lb ed="T" n="0936a29"/>無忤。沙彌時，常為眾使，口恒誦經。及年二十，<lb ed="T" n="0936b01"/>誦法華、維摩<ptr target="fn19"/>等經。具戒後，研求理味，蔬食苦<lb ed="T" n="0936b02"/>節，彌老彌<ptr target="fn20"/>至。住洛陽<placeName key="CN0410322T04AA">東寺</placeName>，雅能清談，尤善<lb ed="T" n="0936b03"/>小品，貴在理通，不事辭辯，一州道學所共師<lb ed="T" n="0936b04"/>宗。比丘尼<ptr target="fn21"/>講經，<persName key="A014865">馨</persName>其始也。</p>
+    <p>晉<date key="j18547671856935" notAfter-iso="0372-01-06" notBefore-iso="0366-01-29">泰和</date>中，有女人<lb ed="T" n="0936b05"/><persName key="A014880">楊令辯</persName>，篤信<persName key="A004009">黃</persName><persName key="A002104">老</persName>，專行服氣。先時人物亦多<lb ed="T" n="0936b06"/>敬事，及<persName key="A014865">馨</persName>道王，其術寢亡。<persName key="A014880">令<ptr target="fn22"/>辯</persName>假結同姓，數<lb ed="T" n="0936b07"/>相去來，內懷姤嫉，伺行毒害。後竊以毒藥內<lb ed="T" n="0936b08"/><persName key="A014865">馨</persName>食中，諸治不愈。弟子問：「往誰家得病？」答曰：「<lb ed="T" n="0936b09"/><ref target="#A014865" type="date">我</ref><ptr target="fn23"/>其知主，皆籍業緣，汝無問也。設道有益，<lb ed="T" n="0936b10"/><ref target="#A014865" type="date">我</ref>尚不說，況無益耶？」不言而終。</p>
+    
+    <linkGrp>
+        <link targets="#0936b04 #0936b10"/>
+        <ptr target="#A014865" type="person"/>
+        <ptr target="#A014880" type="person"/>
+        <ptr target="#j18547671856935" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0936b02 #0936b03"/>
+        <ptr target="#A014865" type="person"/>
+        <ptr target="#CN0410322T04AA" type="place"/>
+    </linkGrp>
+</div>

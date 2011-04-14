@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0355b05zhuSengFu">
+               <p><anchor n="T.50.2059.0355b05"/><lb ed="T" n="0355b05"/><persName key="A002195">竺僧輔</persName>，<placeName key="CN0130423Z23AA">鄴</placeName>人也。少持戒行，執志貞苦，學通<lb ed="T" n="0355b06"/>諸論，兼善經法，道振<placeName key="CN0610112Z11AA">伊</placeName><placeName key="CN0410322Z26AA">洛</placeName>，一都宗事。<date key="j18472881848919" notAfter-iso="0350" notBefore-iso="0345">值西<lb ed="T" n="0355b07"/>晉饑亂</date>，<persName key="A002195">輔</persName>與<persName key="A001503">釋道安</persName>等隱于<placeName key="CN0140522Z22AA">濩澤</placeName>，研精辯<lb ed="T" n="0355b08"/>析，洞盡幽微。後憩<placeName key="CN0420602Z03AA">荊州</placeName><placeName key="CN0421087T06AA">上明寺</placeName>，單蔬自節，禮<lb ed="T" n="0355b09"/>懺翹懃，誓生<placeName key="XZ0000002A01AA">兜率</placeName>，仰瞻<persName key="A001428">慈氏</persName>。時瑯瑘<persName key="A019002">王<ptr target="fn10"/>忼</persName><lb ed="T" n="0355b10"/>為<placeName key="CN0420602Z03AA">荊州</placeName>刺史，<ptr target="fn11"/>藉<persName key="A002195">輔</persName>貞素，請為戒師，一門宗<lb ed="T" n="0355b11"/>奉。後未亡二日，忽云：「」明日當去。」至于臨終，<lb ed="T" n="0355b12"/>妙香滿室，梵響相係，道俗奔波，來者萬數。是<lb ed="T" n="0355b13"/>日後分，無疾而化，春秋六十，因葬寺中，僧<lb ed="T" n="0355b14"/>為起塔。</p>
+               <linkGrp>
+                              <link targets="#0355b05 #0355b05"/>
+                              <ptr target="#A002195" type="person"/>
+                              <ptr target="#CN0130423Z23AA" type="place"/>
+               </linkGrp>
+               <linkGrp>
+                              <link targets="#0355b06 #0355b08"/>
+                              <ptr target="#A002196" type="person"/>
+                              <ptr target="#A001503" type="person"/>
+                              <ptr target="#CN0140522Z22AA" type="place"/>
+                              <ptr type="time" target="#j18472881848919"/>
+               </linkGrp>
+               <linkGrp>
+                              <link targets="#0355b08 #0355b09"/>
+                              <ptr target="#A002196" type="person"/>
+                              <ptr target="#CN0421087T06AA" type="place"/>
+               </linkGrp>
+               <linkGrp>
+                              <link targets="#0355b09 #0355b11"/>
+                              <ptr target="#A002196" type="person"/>
+                              <ptr target="#A019002" type="person"/>
+                              <ptr target="#CN0420602Z03AA" type="place"/>
+               </linkGrp>
+</div>

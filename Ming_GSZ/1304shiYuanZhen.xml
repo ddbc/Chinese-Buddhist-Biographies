@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0908b16shiYuanZhen">
+  <p><anchor n="T.50.2062.0908b16"/><lb ed="T" n="0908b16"/><persName key="A008215">釋原真</persName>號<persName key="A008215">用藏</persName>。松江<placeName key="CN0310101Z04AA">上海</placeName>朱氏子也。出家受<lb ed="T" n="0908b17"/>具<placeName key="CN0310117T07AA">興聖寺</placeName>傳天台教觀。戒行高潔博極群<lb ed="T" n="0908b18"/>書。精修法華彌陀<!--經名ID -->懺法。暇則書法華諸經<!--經名ID -->。<lb ed="T" n="0908b19"/>隨緣演說禪坐達旦。<date from-iso="1385-02-18" key="j22269702227324" to-iso="1386-02-07">洪武乙丑</date>微疾。索浴<lb ed="T" n="0908b20"/>書偈告眾曰。四十二年。無作無修。有生<lb ed="T" n="0908b21"/>有滅。大海一漚。真歸無歸。心空淨遊。趺坐<lb ed="T" n="0908b22"/>泊然而終。</p>
+  <linkGrp>
+    <link targets="#0908b16 #0908b19"/>
+    <ptr target="#A008215" type="person"/>
+    <ptr target="#CN0310117T07AA" type="place"/>
+  </linkGrp>
+  <linkGrp>
+    <link targets="#0908b19 #0908b20"/>
+    <ptr target="#A008215" type="person"/>
+    <ptr target="#j22269702227324" type="time"/>
+  </linkGrp>
+</div>

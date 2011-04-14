@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0647a24shiSengZhao">
+    <p><anchor n="T.50.2060.0647a24"/><lb ed="T" n="0647a24"/><persName key="A006821">釋僧照</persName>。未詳氏族。住泰山<placeName key="CN0370902T02AA">丹嶺寺</placeName>。性虛放<lb ed="T" n="0647a25"/>喜追奇。每聞靈迹譎詭。無不登踐。承瀑<lb ed="T" n="0647a26"/>布之下多諸洞穴仙聖攸止。以<date key="j19150961915527" notAfter-iso="0532" notBefore-iso="0531">魏普泰</date>年<lb ed="T" n="0647a27"/>行至<placeName key="CN0371082M02AA">榮山</placeName>。見飛流下有穴。因穴隨入。行可<lb ed="T" n="0647a28"/>五六里。便出穴外。逐微逕東北上數里。得<lb ed="T" n="0647a29"/>石渠闊兩三步。水西流清而且<ptr target="fn09"/>徹。帶渠藥<lb ed="T" n="0647b01"/>草<ptr target="fn10"/>延蔓委地。渠北有瓦舍三口。形甚古陋。<lb ed="T" n="0647b02"/>庭前穀穗縱橫。鳥雀殘食。東頭屋裏有數架<lb ed="T" n="0647b03"/>黃帙。中間有鐵臼兩具。亦有釜器。並附遊<lb ed="T" n="0647b04"/>塵。都無炊爨之迹。西頭屋內有一沙門。端<lb ed="T" n="0647b05"/>坐儼然飛塵沒膝。四望惟見茂林懸澗。非<lb ed="T" n="0647b06"/>復人居。須臾逢一神僧。年可六十。眉長丈<lb ed="T" n="0647b07"/>餘<ptr target="fn11"/>槃掛耳上。相見欣然如舊。問所從來。自<lb ed="T" n="0647b08"/>云。我同學三人來此避世。一人外行未返。<lb ed="T" n="0647b09"/>一人死來極久。似入滅定。今在西屋內汝<lb ed="T" n="0647b10"/>見之未。今日何姓為主。答是魏家。僧云。魏<lb ed="T" n="0647b11"/>家享國已久不姓曹耶。<persName key="A006821">照</persName>云姓元。僧曰。我<lb ed="T" n="0647b12"/>不知。遂取穀穗擣之作粥。又往林中葉下<lb ed="T" n="0647b13"/>取梨棗與之令噉。僧云。<persName key="A006821">汝</persName>但食。我不噉<lb ed="T" n="0647b14"/>此。又問誦何經。<persName key="A006821">照</persName>云。誦法華。神僧頷頭曰。<lb ed="T" n="0647b15"/>大好精進業。今東屋格上如許經。並自誦之。<lb ed="T" n="0647b16"/>欲得聞不。<persName key="A006821">照</persName>合掌曰。惟敢聞命。彼遂<ptr target="fn12"/>部別<lb ed="T" n="0647b17"/>誦之。聲氣朗徹。乃至通夜。<persName key="A006821">照</persName>苦睡。僧曰。但<lb ed="T" n="0647b18"/>睡。我自恒業耳。達<ptr target="fn13"/>日不眠。更為造食。<persName key="A006821">照</persName><lb ed="T" n="0647b19"/>謝曰。幸得奉謁。今<ptr target="fn14"/>且暫歸尋來接事。僧亦<lb ed="T" n="0647b20"/>不留。但言。我同學行去。<persName key="A006821">汝</persName>若值者大有開<lb ed="T" n="0647b21"/>悟。恨不見之。既言須歸好去。<persName key="A006821">照</persName>尋路得<lb ed="T" n="0647b22"/>還。結侶重往。瀑布與穴莫測其處。今<placeName key="CN0610125M01AA">終南</placeName><lb ed="T" n="0647b23"/>諸山亦有斯事。既多餘涉。不無其理云。</p>
+    <linkGrp>
+        <link targets="#0647a24 #0647a24"/>
+        <ptr target="#A006821" type="person"/>
+        <ptr target="#CN0370902T02AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0647a26 #0647b22"/>
+        <ptr target="#A006821" type="person"/>
+        <ptr target="#CN0371082M02AA" type="place"/>
+        <ptr target="#j19150961915527" type="time"/>
+    </linkGrp>
+</div>

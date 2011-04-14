@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0413b25boFaQiao">
+    <p><anchor n="T.50.2059.0413b25"/><lb ed="T" n="0413b25"/><persName key="A002372">帛法橋</persName>，<placeName key="CN0130682Z44AA">中<ptr target="fn27"/>山</placeName>人。<ptr target="fn28"/>少樂轉讀而乏聲，每以<lb ed="T" n="0413b26"/>不暢為慨。於是絕粒懺悔七日七夕，稽首<lb ed="T" n="0413b27"/>觀音，以<ptr target="fn29"/>祈現報。同學苦諫，誓而不改。至第<lb ed="T" n="0413b28"/>七日，覺喉內豁然，即索水洗漱云：「<persName key="A002372">吾</persName>有應<lb ed="T" n="0413b29"/>矣。」於是作三契，經聲徹里許，遠近驚嗟，悉<lb ed="T" n="0413c01"/>來觀聽。爾後誦經數十萬言，晝夜諷詠，哀婉<lb ed="T" n="0413c02"/>通神。至年九十，聲猶不變。以<date key="j18471181851488" notAfter-iso="0357" notBefore-iso="0345">晉穆帝永和<lb ed="T" n="0413c03"/>中</date>，卒於<placeName key="CN0140830Z22AA">河北</placeName>。即<persName key="A002743">石虎</persName>末也。有弟子<persName key="A003464">僧扶</persName>，亦<lb ed="T" n="0413c04"/>戒行清高。</p>
+    <linkGrp>
+        <link targets="#0413c03 #0413c04"/>
+        <ptr target="#A002372" type="person"/>
+        <ptr target="#A003464" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0413c02 #0413c03"/>
+        <ptr target="#A002372" type="person"/>
+        <ptr target="#CN0140830Z22AA" type="place"/>
+        <ptr target="#j18471181851488" type="time"/>
+    </linkGrp>
+</div>

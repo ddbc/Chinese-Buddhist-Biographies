@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0683b20shiFaKuang">
+    <p><anchor n="T.50.2060.0683b20"/><lb ed="T" n="0683b20"/><persName key="A007394">釋法曠</persName>。姓駱。雍州<placeName key="CN0610404Z14AA">咸陽</placeName>人。少有異節。偏愛<lb ed="T" n="0683b21"/>儒素。後聽<placeName key="CN0610103T43AA">弘善寺</placeName><persName key="A007396">榮師</persName>大論。<persName key="A007396">榮</persName>即周世<persName key="A005929">道安</persName><lb ed="T" n="0683b22"/>之弟子也。創染玄業便悟非常。資學之勤<lb ed="T" n="0683b23"/>不出門院。年十六。講解前論道穆<placeName key="CN0610102Z07AA">京華</placeName>。酬<lb ed="T" n="0683b24"/>答冷然無替玄理。專修念定無涉時方。無<lb ed="T" n="0683b25"/>量壽經世稱難誦。<persName key="A007394">曠</persName>聞試尋。一日兩卷。文<lb ed="T" n="0683b26"/>言闇了。故其誦持罕有加者。自爾藏經披<lb ed="T" n="0683b27"/>讀。以為恒任。文理所指問無不知。顧諸布<lb ed="T" n="0683b28"/>薩人多說欲。乃自勵心力立誦千遍。數旬<lb ed="T" n="0683b29"/>之間便得滿願。性樂儉約不尚華靡。故其<lb ed="T" n="0683c01"/>房中無有氈席。滿院種莎。用擬隨坐頭陀<lb ed="T" n="0683c02"/>行也。勗誡門人惟存離著。以末代根機隨<lb ed="T" n="0683c03"/>塵生染故<ptr target="fn11"/>也。年登知命。便<ptr target="fn12"/>袒三衣。瓶鉢<lb ed="T" n="0683c04"/>以外一無受畜。卓然正色<ptr target="fn13"/>懍潔風霜。人有<lb ed="T" n="0683c05"/>與語惟言離著。至時分衛一食而已。每曰。<lb ed="T" n="0683c06"/><persName key="A007394">余</persName>惟生死滯著無始輪迴。生厭者希死厭又<lb ed="T" n="0683c07"/>少。常懷怏怏欲試捨之。以<date key="j19523561952356" when-iso="0633-04-08">貞觀七年二月<lb ed="T" n="0683c08"/>二十一日</date>。入<placeName key="CN0610125M01AA">終南山</placeName>。在<placeName key="CN0610125A06AA">炭谷</placeName>內四十里許。<lb ed="T" n="0683c09"/>脫衣掛樹以刀自刎。既獨自<ptr target="fn14"/>殯無由知<lb ed="T" n="0683c10"/>處。諸識故等。至<date key="j19525131952542" from-iso="0633-09-12" to-iso="0633-10-11">八月</date>中。方始訪得其遺身<lb ed="T" n="0683c11"/>頌<ptr target="fn15"/>云。<ptr target="fn16"/>又近有汾州<placeName key="CN0141182T07AA">大乘寺</placeName>僧忘名者。常<lb ed="T" n="0683c12"/>厭生死濁世難度。誓必捨身。先節食服<lb ed="T" n="0683c13"/>香。至期道俗通集。香花幡蓋列衛。而往西<lb ed="T" n="0683c14"/>山子夏學巖。面西<ptr target="fn17"/>斂容。眾唱善哉。咸送隨<lb ed="T" n="0683c15"/>喜。乃放身懸壑。至地起坐。及眾就視方知<lb ed="T" n="0683c16"/>已逝。博訪遺身其類甚眾。且隨疏出。示為<lb ed="T" n="0683c17"/>一例。餘者蓋闕。</p>
+    <linkGrp>
+        <link targets="#0683b20 #0683b20"/>
+        <ptr target="#A007394" type="person"/>
+        <ptr target="#CN0610404Z14AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0683b21 #0683b21"/>
+        <ptr target="#A007394" type="person"/>
+        <ptr target="#A007396" type="person"/>
+        <ptr target="#CN0610103T43AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0683b21 #0683b22"/>
+        <ptr target="#A005929" type="person"/>
+        <ptr target="#A007396" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0683c07 #0683c10"/>
+        <ptr target="#A007394" type="person"/>
+        <ptr target="#CN0610125A06AA" type="place"/>
+        <ptr target="#j19523561952356" type="time"/>
+    </linkGrp>
+</div>

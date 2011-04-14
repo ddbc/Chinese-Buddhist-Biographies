@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0569a02shiHuiShi">
+    <p><anchor n="T.50.2060.0569a02"/><lb ed="T" n="0569a02"/><persName key="A006029">釋慧實</persName>。俗姓許氏。<placeName key="CN0411082Z12AA">潁川</placeName>人。少出家。志敦幽<lb ed="T" n="0569a03"/>尚遍履名山。<date key="j19197471924818" notAfter-iso="0557" notBefore-iso="0543">梁末</date>遊步<placeName key="CN0331023M01AA">天台</placeName>綜習禪業。入<lb ed="T" n="0569a04"/>房閉戶。出即蕩門。衣鉢隨身惟留床席。<lb ed="T" n="0569a05"/><ptr target="fn01"/>寔輕清之丈夫也。<date key="j19248221927674" notAfter-iso="0565" notBefore-iso="0557">陳祚伊始</date>負錫龍<ptr target="fn02"/>盤。絕<lb ed="T" n="0569a06"/>跡人世五十餘年。貴尚頭陀恒居宴默。自<lb ed="T" n="0569a07"/>少及終脇不親物。雖形衰年積。而精節之<lb ed="T" n="0569a08"/>志。老而彌厲。以<date key="j19419341941934" when-iso="0604-09-25">仁壽四年八月二十三日</date>。<lb ed="T" n="0569a09"/>遷于<placeName key="CN0320106T08AA">蔣州履道寺</placeName>之房。春秋九十有六。遺旨<lb ed="T" n="0569a10"/>令屍陀北嶺。後收窆於山南。奉造三層塼<lb ed="T" n="0569a11"/>塔。就而紀德。</p>
+    <linkGrp>
+        <link targets="#0569a02 #0569a02"/>
+        <ptr target="#A006029" type="person"/>
+        <ptr target="#CN0411082Z12AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0569a03 #0569a04"/>
+        <ptr target="#A006029" type="person"/>
+        <ptr target="#CN0331023M01AA" type="place"/>
+        <ptr target="#j19197471924818" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0569a05 #0569a06"/>
+        <ptr target="#A006029" type="person"/>
+        <ptr target="#j19248221927674" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0569a08 #0569a09"/>
+        <ptr target="#A006029" type="person"/>
+        <ptr target="#CN0320106T08AA" type="place"/>
+        <ptr target="#j19419341941934" type="time"/>
+    </linkGrp>
+</div>

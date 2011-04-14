@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="bqnz0942a22sengJingNi">
+    <head>崇聖寺<persName key="A015499">僧敬</persName>尼<ptr target="fn15"/>傳三</head><p><anchor n="T.50.2063.0942a23"/><lb ed="T" n="0942a23"/><persName key="A015499">僧敬</persName>，本姓李，<placeName key="CN0330602Z04AA">會稽</placeName>人也。寓居<placeName key="CN0320106Z05AA">秣陵</placeName>。<persName key="A015499">僧敬</persName>在孕，<lb ed="T" n="0942a24"/>家人設會，請<placeName key="CN0320104T02AA">瓦官寺</placeName><persName key="A015512">僧超</persName>、<placeName key="CN0320505T04AA">西寺</placeName><persName key="A015514">曇芝</persName>尼，使二<lb ed="T" n="0942a25"/>人指腹，呼胎中 <ref target="#A015499" type="person">兒</ref>為弟子，母代<ref target="#A015499" type="person">兒</ref>喚二人為<lb ed="T" n="0942a26"/>師，約不問男女，必令出家。將產之日，母夢神<lb ed="T" n="0942a27"/>人語之曰：「可建八關。」即命經<ptr target="fn16"/>始，僧像未集，<lb ed="T" n="0942a28"/><persName key="A015499">敬</persName>便生焉。聞空中語曰：「可與建安寺<persName key="A005769">白<ptr target="fn17"/>尼</persName>作<lb ed="T" n="0942a29"/>弟子。」母即從之。及<date key="j18697141870444" notAfter-iso="0408" notBefore-iso="0407">年五、六歲</date>，聞人經唄，輒能<lb ed="T" n="0942b01"/>誦憶。讀經數百卷，妙解日深。菜蔬刻已，清風<lb ed="T" n="0942b02"/>漸著。</p><p>逮<date from-iso="0424-09-18" key="j18761841886591" to-iso="0453-03-17">元嘉</date>中，<placeName key="CN0370881Z07AA">魯郡</placeName><persName key="A015516">孔默</persName>出鎮<placeName key="CN0440104Z36AA">廣州</placeName>，携與同<lb ed="T" n="0942b03"/>行。遇見外國<persName key="A002632">鐵薩羅</persName>尼等來向<ref target="#CN0320106Z05AA" type="place">宋都</ref>，並風節<lb ed="T" n="0942b04"/><ptr target="fn18"/>峧異，更從受戒，深悟無常，乃欲乘<ptr target="fn19"/>船泛海，<lb ed="T" n="0942b05"/>尋求聖跡。道俗禁閉，留滯<placeName key="CN0400000E07AA">嶺南</placeName>三十餘載。風<lb ed="T" n="0942b06"/>流所漸，獷俗移心，捨園宅施之者十有三家，<lb ed="T" n="0942b07"/>共為立寺於潮亭，名曰<placeName key="CN0440104T06AA">眾造</placeName>。</p><p><persName key="A002652">宋明帝</persName>聞之，遠<lb ed="T" n="0942b08"/>遣徵迎，<placeName key="CN0440104Z38AA">番禺</placeName>道俗，大相悲戀。還<placeName key="CN0320106Z05AA">都</placeName>，勅住<placeName key="CN0320106T41AA">崇聖<lb ed="T" n="0942b09"/>寺</placeName>，道<ptr target="fn20"/>俗服其進止。<placeName key="CN0320105Z01AA">丹陽</placeName><persName key="A015525">樂遵</persName>為<persName key="A015499">敬</persName>捨宅立寺，<lb ed="T" n="0942b10"/>後遷居之。<persName key="A002654">齊文惠帝</persName>、<persName key="A002655">竟陵文宣王</persName>並欽風德，<lb ed="T" n="0942b11"/><ptr target="fn21"/>嚫施無<ptr target="fn22"/>闕。</p><p>年八十四，<date key="j18986511898651" when-iso="0486-03-24">永明四年二月三日</date><lb ed="T" n="0942b12"/>卒，葬于<placeName key="CN0320102M02AA">鍾山</placeName>之陽。弟子造碑，中書侍郎<placeName key="CN0330502Z21AA">吳興</placeName><lb ed="T" n="0942b13"/><persName key="A003454">沈約</persName>製其文焉。</p>
+    <linkGrp>
+        <link targets="#0942a29 #0942b01"/>
+        <ptr target="#A015499" type="person"/>
+        <ptr target="#j18697141870444" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0942b07 #0942b08"/>
+        <ptr target="#A015499" type="person"/>
+        <ptr target="#A002652" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0942b11 #0942b12"/>
+        <ptr target="#A015499" type="person"/>
+        <ptr target="#j18986511898651" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0942a23 #0942a23"/>
+        <ptr target="#A015499" type="person"/>
+        <ptr target="#CN0320106Z05AA" type="place"/>
+        </linkGrp>
+    <linkGrp>
+        <link targets="#0942a28 #0942a29"/>
+        <ptr target="#A015499" type="person"/>
+        <ptr target="#A005769" type="person"/>
+         
+        </linkGrp>
+    <linkGrp>
+        <link targets="#0942b02 #0942b05"/>
+        <ptr target="#A015499" type="person"/>
+        <ptr target="#A015516" type="person"/>
+        <ptr target="#A002632" type="person"/>
+        <ptr target="#CN0440104Z36AA" type="place"/>
+        <ptr target="#j18761841886591" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0942b05 #0942b06"/>
+        <ptr target="#A015499" type="person"/>
+        <ptr target="#CN0400000E07AA" type="place"/>
+        </linkGrp>
+    <linkGrp>
+        <link targets="#0942b06 #0942b07"/>
+        <ptr target="#A015499" type="person"/>
+        <ptr target="#CN0440104T06AA" type="place"/>
+        </linkGrp>
+    <linkGrp>
+        <link targets="#0942b08 #0942b09"/>
+        <ptr target="#A015499" type="person"/>
+        <ptr target="#CN0320106T41AA" type="place"/>
+        </linkGrp>
+    <linkGrp>
+        <link targets="#0942b09 #0942b11"/>
+        <ptr target="#A015499" type="person"/>
+        <ptr target="#A015525" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0942b09 #0942b11"/>
+        <ptr target="#A015499" type="person"/>
+        <ptr target="#A002655" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0942b09 #0942b11"/>
+        <ptr target="#A015499" type="person"/>
+        <ptr target="#A002654" type="person"/>
+    </linkGrp>
+</div>

@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0538a11shiZhiKai">
+    <p><anchor n="T.50.2060.0538a11"/><lb ed="T" n="0538a11"/><persName key="A005821">釋智凱</persName>。姓馮氏。<placeName key="CN0320105Z23AA">丹陽</placeName>人。父早亡。六年聽<persName key="A000329">吉<lb ed="T" n="0538a12"/>藏法師</persName>法華火宅品。夜告母曰。經明火宅<lb ed="T" n="0538a13"/>者。只<persName key="A005821">我</persName>身耳。若<persName key="A005821">我</persName>是火宅。<persName key="A005821">我</persName>應燒人。既其<lb ed="T" n="0538a14"/>不燒明知無<persName key="A005821">我</persName>。終夜達朝詣<persName key="A000329">藏</persName>出家。身相<lb ed="T" n="0538a15"/>黑色。故號<persName key="A005821">烏凱</persName>。年十三。覆藏經論縱達。論<lb ed="T" n="0538a16"/>並不拘檢約。隨<persName key="A000329">藏</persName><placeName key="CN0330601T09AA">會稽嘉祥</placeName>等寺。門人英<lb ed="T" n="0538a17"/>達無敢右之。及<persName key="A000329">藏</persName>入<placeName key="CN0610102Z01AA">京</placeName>即還靜林聚徒<lb ed="T" n="0538a18"/>常講。<date key="j19489991949382" from-iso="0624-01-29" to-iso="0625-02-15">武德七年</date>。<placeName key="CN0330683Z13AA">剡縣</placeName>立講聽徒五百<date key="j19500921950475" from-iso="0627-01-26" to-iso="0628-02-13">貞觀元<lb ed="T" n="0538a19"/>年</date>。往<placeName key="CN0330281Z06AA">餘姚縣</placeName><placeName key="CN0330281T01AA">小龍泉寺</placeName>。常講三論大品等<lb ed="T" n="0538a20"/>經。誓不出<placeName key="CN0330281T01AA">寺</placeName>脇不親席。不受供施自僧<lb ed="T" n="0538a21"/>而已。佛殿之後忽生一池。便曰。只飲此池<lb ed="T" n="0538a22"/>可以卒耳。為性慈仁言極<ptr target="fn04"/>獚厲。時越常<lb ed="T" n="0538a23"/>俗多棄狗子。凱聞憐之乃令拾聚。三十五<lb ed="T" n="0538a24"/>十常事養育。氈被臥寢不辭污染。至<date from-iso="0645-02-05" key="j19566771957030" to-iso="0646-01-24">十九<lb ed="T" n="0538a25"/>年</date>。<placeName key="CN0370103Z06AA">齊</placeName>都督請出<placeName key="CN0330601T09AA">嘉祥</placeName>令講三論。四方義學<lb ed="T" n="0538a26"/>八百餘人。上下僚庶依時翔集。用為興顯<lb ed="T" n="0538a27"/><ptr target="fn05"/>也。百有餘日日論十人。答對冷然消散無<lb ed="T" n="0538a28"/>滯。初發<placeName key="CN0330281T01AA">龍泉</placeName>小池即竭。<persName key="A005821">凱</persName>聞歎曰。池竭食<lb ed="T" n="0538a29"/>亡<persName key="A005821">吾</persName>無返矣。<ptr target="fn06"/>至<date key="j19572651957265" when-iso="0646-09-16">二十年七月二十八日</date>。依<lb ed="T" n="0538b01"/>常登座。手執如意默然不言。就<ptr target="fn07"/>撿已終。<lb ed="T" n="0538b02"/>乃加坐送<placeName key="CN0330602M14AA">大禹山</placeName>七日供養。常有異香。州<lb ed="T" n="0538b03"/>宰自<ptr target="fn＊"/>撿深發堅信。乃起塔七層以旌厥德<lb ed="T" n="0538b04"/><ptr target="fn08"/>云。</p>
+    <linkGrp>
+        <link targets="#0538a11 #0538a11"/>
+        <ptr target="#A005821" type="person"/>
+        <ptr target="#CN0320105Z23AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0538a11 #0538a17"/>
+        <ptr target="#A005821" type="person"/>
+        <ptr target="#A000329" type="person"/>
+        <ptr target="#CN0330601T09AA" type="place"/>
+        </linkGrp>
+    <linkGrp>
+        <link targets="#0538a17 #0538a17"/>
+        <ptr target="#A000329" type="person"/>
+        <ptr target="#CN0610102Z01AA" type="place"/>
+        </linkGrp>
+    <linkGrp>
+        <link targets="#0538a18 #0538a18"/>
+        <ptr target="#A005821" type="person"/>
+        <ptr target="#CN0330683Z13AA" type="place"/>
+        <ptr target="#j19489991949382" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0538a18 #0538a19"/>
+        <ptr target="#A005821" type="person"/>
+        <ptr target="#CN0330281T01AA" type="place"/>
+        <ptr target="#j19500921950475" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0538a24 #0538a25"/>
+        <ptr target="#A005821" type="person"/>
+        <ptr target="#CN0330601T09AA" type="place"/>
+        <ptr target="#j19566771957030" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0538a29 #0538b01"/>
+        <ptr target="#A005821" type="person"/>
+        <ptr target="#CN0330601T09AA" type="place"/>
+        <ptr target="#j19572651957265" type="time"/>
+    </linkGrp>
+</div>

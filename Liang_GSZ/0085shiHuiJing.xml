@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0369a05shiHuiJing">
+	<p><anchor n="T.50.2059.0369a05"/><lb ed="T" n="0369b04"/><persName key="A002229">釋慧靜</persName>，姓王，<ptr target="fn12"/><placeName key="CN0371521Z08AA">東阿</placeName>人。少遊學<placeName key="CN0410300R02AA">伊</placeName>、<placeName key="CN0410300R01AA">洛</placeName>之間，晚<lb ed="T" n="0369b05"/>歷<placeName key="CN0320303Z01AA">徐</placeName>、<placeName key="CN0370882Z05AA">兗</placeName>。容貌甚黑，而識悟清遠。時<placeName key="CN0410322Z26AA">洛中</placeName>有沙<lb ed="T" n="0369b06"/>門<persName key="A002910">道經</persName>，亦解邁當世，與<persName key="A002229">靜</persName>齊名，而耳甚長<lb ed="T" n="0369b07"/>大，故時人語曰：「<persName key="A002910">洛下<ptr target="fn13"/>大長耳</persName>，<ptr target="fn＊"/><persName key="A002229">東阿黑如墨</persName>。<lb ed="T" n="0369b08"/>有問無不酬，有酬無不塞。」靜至性虛通，<lb ed="T" n="0369b09"/>澄審有思力，每法輪一轉，輒負帙千人，海<lb ed="T" n="0369b10"/>內學賓，無不<ptr target="fn14"/>必集。誦《法華》、《小品》，<ptr target="fn15"/>註《維摩》、<lb ed="T" n="0369b11"/>《思益》，著〈涅槃略記〉、〈大品旨歸〉及〈達命論〉，并諸<lb ed="T" n="0369b12"/>法師誄。多流傳北土，不甚過江。<date from-iso="0424" key="j18761761886925" to-iso="0454">宋元嘉中</date><lb ed="T" n="0369b13"/>卒，春秋六十餘矣。</p>
+	<linkGrp>
+		<link targets="#0369b04 #0369b04"/>
+		<ptr target="#A002229" type="person"/>
+		<ptr target="#CN0410300R02AA" type="place"/>
+	</linkGrp>
+	<linkGrp>
+		<link targets="#0369b04 #0369b04"/>
+		<ptr target="#A002229" type="person"/>
+		<ptr target="#CN0410300R01AA" type="place"/>
+	</linkGrp>
+	<linkGrp>
+		<link targets="#0369b04 #0369b05"/>
+		<ptr target="#A002229" type="person"/>
+		<ptr target="#CN0370882Z05AA" type="place"/>
+	</linkGrp>
+	<linkGrp>
+		<link targets="#0369b04 #0369b05"/>
+		<ptr target="#A002229" type="person"/>
+		<ptr target="#CN0320303Z01AA" type="place"/>
+	</linkGrp>
+	<linkGrp>
+		<link targets="#0369b05 #0369b08"/>
+		<ptr target="#A002910" type="person"/>
+		<ptr target="#CN0410322Z26AA" type="place"/>
+	</linkGrp>
+	<linkGrp>
+		<link targets="#0369b12 #0369b13"/>
+		<ptr target="#A002229" type="person"/>
+		<ptr type="time" target="#j18761761886925"/>
+	</linkGrp>
+</div>

@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0484b24shiDaoPing">
+    <p><anchor n="T.50.2060.0484b24"/><lb ed="T" n="0484b24"/><persName key="A005278">釋道憑</persName>。姓韓。<placeName key="CN0130435Z23AA">平恩</placeName>人。<date key="j19033171903681" from-iso="0499-01-01" to-iso="0499-12-31">十二</date>出家。投<placeName key="CN0130425T01AA">貴鄉邵<lb ed="T" n="0484b25"/>寺</placeName>。初誦維摩經。自惟歷覽日計四千四百言。<lb ed="T" n="0484b26"/>一聞無忘乃通數部。後學涅槃略觀遠節。<lb ed="T" n="0484b27"/>復尋成實。初<ptr target="fn10"/>聽半文便竪大義。聰明之譽<lb ed="T" n="0484b28"/>無羨昔人。致使遐邇聞風咸思頂謁。七夏<lb ed="T" n="0484b29"/>欲講涅槃。惟曰。文一釋異。情理難資。恐兼<lb ed="T" n="0484c01"/>虛課謗法誠重。八夏既登遂行禪境。<placeName key="CN0130000R01AA">漳</placeName><placeName key="CN0130000R02AA">滏</placeName><placeName key="CN0410300R02AA">伊</placeName><lb ed="T" n="0484c02"/><placeName key="CN0410300R01AA">洛</placeName>遍討嘉猷。後於<placeName key="CN0410185T01AA">少林寺</placeName>攝心夏坐。問道<lb ed="T" n="0484c03"/>之僧披榛而至。聞<persName key="A006354">光師</persName>弘揚戒本。因往聽<lb ed="T" n="0484c04"/>之。涉悟大乘深副情願。經停十載。聲聞漸<lb ed="T" n="0484c05"/>高。乃辭<persName key="A006354">光</persName>通法弘化。趙魏傳燈之美。罕有<lb ed="T" n="0484c06"/>斯焉。講地論涅槃花嚴四分。皆覽卷便講。<lb ed="T" n="0484c07"/>目不尋文章疏本無。手不舉筆而開塞任<lb ed="T" n="0484c08"/>情。吐納清爽。洞會<ptr target="fn11"/>筌旨。有若證焉。故<placeName key="CN0130423Z23AA">京<lb ed="T" n="0484c09"/>師</placeName>語曰。<persName key="A005278">憑師</persName>法相上公。文句一代希寶。斯言<lb ed="T" n="0484c10"/>信矣。時人以其口<ptr target="fn12"/>辯方於身子也。以<date key="j19253211925321" when-iso="0559-04-01">齊<lb ed="T" n="0484c11"/>天保十年三月七日</date>。卒於<placeName key="CN0130423Z23AA">鄴城</placeName>西南<placeName key="CN0130423T10AA">寶山寺</placeName>。<lb ed="T" n="0484c12"/>春秋七十有二。將終之前。大<ptr target="fn13"/>鍾兩口小觸<lb ed="T" n="0484c13"/>而破。康存之日願生<placeName key="XZ0000033A01AA">安養</placeName>。故使臨終光尋<lb ed="T" n="0484c14"/>滿室。<persName key="A005278">憑</persName>獨見之。異香充庭大眾<ptr target="fn14"/>同美。初<persName key="A005278">憑</persName><lb ed="T" n="0484c15"/>之處道。弘護居心。經律<ptr target="fn15"/>遽講。福智雙習。骨<lb ed="T" n="0484c16"/>族血親往來頓絕。勢貴豪家全無遊止。而乞<lb ed="T" n="0484c17"/>食自資少所恒習。袒肩洗淨老而彌固。脛<lb ed="T" n="0484c18"/>臂無服生死齊焉。兼以心緣口授杜於文相<lb ed="T" n="0484c19"/>者古今絕矣。</p>
+    <linkGrp>
+        <link targets="#0484b24 #0484b24"/>
+        <ptr target="#A005278" type="person"/>
+        <ptr target="#CN0130435Z23AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0484b24 #0484b25"/>
+        <ptr target="#A005278" type="person"/>
+        <ptr target="#CN0130425T01AA" type="place"/>
+        <ptr target="#j19033171903681" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0484c01 #0484c02"/>
+        <ptr target="#A005278" type="person"/>
+        <ptr target="#CN0130000R01AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0484c01 #0484c02"/>
+        <ptr target="#A005278" type="person"/>
+        <ptr target="#CN0130000R02AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0484c01 #0484c02"/>
+        <ptr target="#A005278" type="person"/>
+        <ptr target="#CN0410300R02AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0484c01 #0484c02"/>
+        <ptr target="#A005278" type="person"/>
+        <ptr target="#CN0410300R01AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0484c02 #0484c02"/>
+        <ptr target="#A005278" type="person"/>
+        <ptr target="#CN0410185T01AA" type="place"/>
+    </linkGrp> 
+    <linkGrp>
+        <link targets="#0484c03 #0484c04"/>
+        <ptr target="#A005278" type="person"/>
+        <ptr target="#A006354" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0484c10 #0484c12"/>
+        <ptr target="#A005278" type="person"/>
+        <ptr target="#CN0130423T10AA" type="place"/>
+        <ptr target="#j19253211925321" type="time"/>
+    </linkGrp>  
+</div>

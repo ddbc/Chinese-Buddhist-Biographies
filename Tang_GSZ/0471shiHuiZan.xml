@@ -1,0 +1,107 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0575a18shiHuiZan">
+    <p><anchor n="T.50.2060.0575a18"/><lb ed="T" n="0575a18"/><persName key="A004914">釋慧瓚</persName>。俗姓王氏。<placeName key="CN0130921Z17AA">滄州</placeName>人。<date key="j19274231927787" from-iso="0565-01-01" to-iso="0565-12-31">壯室</date>出家。清貞自<lb ed="T" n="0575a19"/>遠。承稟玄奧學慕綱紐。受具已後偏業毘<lb ed="T" n="0575a20"/>尼。隨方聽略不存文句。時在<placeName key="CN0130682Z15AA">定州</placeName>居于律<lb ed="T" n="0575a21"/>席。講至寶戒。法師曰。此事即目卒難制斷<lb ed="T" n="0575a22"/>如何。<persName key="A004914">瓚</persName>聞之私賤其說。時襆中有錢三百。<lb ed="T" n="0575a23"/>乃擲棄之。由是卒世言不及利。<date key="j19307491932344" notAfter-iso="0578" notBefore-iso="0574">周武誅剪</date><lb ed="T" n="0575a24"/>避地<placeName key="CN0320106Z05AA">南陳</placeName>。流聽群師咸加芟改。<date key="j19333311940611" notAfter-iso="0601" notBefore-iso="0581">開皇</date>弘法<lb ed="T" n="0575a25"/>返迹<placeName key="CN0000012D01AA">東川</placeName>。於<placeName key="CN0130132M01AA">趙州西封龍山</placeName>。引攝學徒安<lb ed="T" n="0575a26"/>居結業。大小經律互談文義。<ptr target="fn06"/>宗重行<ptr target="fn07"/>科<lb ed="T" n="0575a27"/>以戒為主。心用所<ptr target="fn08"/>指法依為基。道聞遠流<lb ed="T" n="0575a28"/>歸向如市。故其所開悟。以離著為先。身則<lb ed="T" n="0575a29"/>依附頭陀行蘭若法。心則思尋念慧。識妄知<lb ed="T" n="0575b01"/>詮。徒侶相依數盈二百。繩床道具齊肅有<lb ed="T" n="0575b02"/>儀。展轉西遊路經<placeName key="CN0140602Z08AA">馬邑</placeName>。<placeName key="CN0140602Z06AA">朔</placeName><placeName key="CN0140923Z20AA">代</placeName><placeName key="CN0140110Z01AA">并</placeName><placeName key="CN0140110Z25AA">晉</placeName>名行師<lb ed="T" n="0575b03"/>尋。譽滿二河道俗傾望。<persName key="A004467">秦王俊</persName>。作鎮<placeName key="CN0140110Z01AA">并部</placeName>。<lb ed="T" n="0575b04"/>弘尚釋門。於<placeName key="CN0140110M01AA">太原蒙山</placeName>置<placeName key="CN0140110T05AA">開化寺</placeName>。承斯道<lb ed="T" n="0575b05"/>行延請居<placeName key="CN0140110T05AA">之</placeName>。僧眾邕熙聲榮逸口。至於黑<lb ed="T" n="0575b06"/>白布薩。要簡行淨之人。知有小愆便<ptr target="fn09"/>止<lb ed="T" n="0575b07"/>法事。重過則依方等。輕罪約律治之。必須<lb ed="T" n="0575b08"/>以教驗緣。片缺則經律俱捨。沙彌<persName key="A005957">信行</persName>。重<lb ed="T" n="0575b09"/>斯正業從受十戒。<persName key="A004914">瓚</persName>不許之。乃歸<persName key="A004914">瓚</persName>之弟<lb ed="T" n="0575b10"/>子<persName key="A006084">明胤禪師</persName>。遵崇行法。晚還<placeName key="CN0130423Z16AA">鄴</placeName><placeName key="CN0130427Z19AA">相</placeName>方立部<lb ed="T" n="0575b11"/>眾。及<date key="j19411731941202" from-iso="0602-08-26" to-iso="0602-09-24"><persName key="A005376">獻后</persName>云崩<placeName key="CN0610113T06AA">禪定</placeName>初搆</date>。下勅追召入<placeName key="CN0610102Z14AA">京</placeName><lb ed="T" n="0575b12"/>傳化。自<placeName key="CN0140110Z01AA">并</placeName>至<placeName key="CN0610112Z16AA">雍</placeName>千里欽風。道次逢迎禮謁<lb ed="T" n="0575b13"/>修敬。<placeName key="CN0610102Z14AA">帝里</placeName>上德又邀住于<placeName key="CN0610116T03AA">終南山之龍池寺</placeName>。<lb ed="T" n="0575b14"/>日夜請誨聞所未聞。因而卒<ptr target="fn10"/>於山舍。春<lb ed="T" n="0575b15"/>秋七十有二。即<date key="j19430341943062" from-iso="0607-09-30" to-iso="0607-10-28">大業三年九月</date>也。弟子<persName key="A004659">志超</persName>。<lb ed="T" n="0575b16"/>追崇先範立<ptr target="fn11"/>像<placeName key="CN0140000E03AA">晉川</placeName>。<ptr target="fn12"/>見別傳。</p>
+    <linkGrp>
+        <link targets="#0575a18 #0575a18"/>
+        <ptr target="#A004914" type="person"/>
+        <ptr target="#CN0130921Z17AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0575a18 #0575a19"/>
+        <ptr target="#A004914" type="person"/>
+        <ptr target="#j19274231927787" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0575a20 #0575a21"/>
+        <ptr target="#A004914" type="person"/>
+        <ptr target="#CN0130682Z15AA" type="place"/>
+        </linkGrp>
+    <linkGrp>
+        <link targets="#0575a23 #0575a24"/>
+        <ptr target="#A004914" type="person"/>
+        <ptr target="#CN0320106Z05AA" type="place"/>
+        <ptr target="#j19307491932344" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0575a24 #0575a26"/>
+        <ptr target="#A004914" type="person"/>
+        <ptr target="#CN0130132M01AA" type="place"/>
+        <ptr target="#j19333311940611" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0575b02 #0575b03"/>
+        <ptr target="#A004914" type="person"/>
+        <ptr target="#CN0140602Z08AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0575b02 #0575b03"/>
+        <ptr target="#A004914" type="person"/>
+        <ptr target="#CN0140602Z06AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0575b02 #0575b03"/>
+        <ptr target="#A004914" type="person"/>
+        <ptr target="#CN0140923Z20AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0575b02 #0575b03"/>
+        <ptr target="#A004914" type="person"/>
+        <ptr target="#CN0140110Z01AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0575b02 #0575b03"/>
+        <ptr target="#A004914" type="person"/>
+        <ptr target="#CN0140110Z25AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0575b03 #0575b03"/>
+        <ptr target="#A004467" type="person"/>
+        <ptr target="#CN0140110Z01AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0575b04 #0575b05"/>
+        <ptr target="#A004914" type="person"/>
+        <ptr target="#A004467" type="person"/>
+        <ptr target="#CN0140110T05AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0575b04 #0575b10"/>
+        <ptr target="#A004914" type="person"/>
+        <ptr target="#A005957" type="person"/>
+        <ptr target="#A006084" type="person"/>
+        <ptr target="#CN0140110T05AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0575b10 #0575b11"/>
+        <ptr target="#A004914" type="person"/>
+        <ptr target="#CN0130423Z16AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0575b10 #0575b11"/>
+        <ptr target="#A004914" type="person"/>
+        <ptr target="#CN0130427Z19AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0575b11 #0575b12"/>
+        <ptr target="#A004914" type="person"/>
+        <ptr target="#CN0610113T06AA" type="place"/>
+        <ptr target="#j19411731941202" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0575b11 #0575b14"/>
+        <ptr target="#A004914" type="person"/>
+        <ptr target="#CN0610116T03AA" type="place"/>
+        <ptr target="#j19411731941202" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0575b11 #0575b15"/>
+        <ptr target="#A004914" type="person"/>
+        <ptr target="#CN0610116T03AA" type="place"/>
+        <ptr target="#j19430341943062" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0575b15 #0575b16"/>
+        <ptr target="#A004914" type="person"/>
+        <ptr target="#A004659" type="person"/>
+    </linkGrp>
+</div>

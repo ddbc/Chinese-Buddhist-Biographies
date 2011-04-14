@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0370b14shiSengHan">
+	<p><anchor n="T.50.2059.0370b14"/><lb ed="T" n="0370b14"/><persName key="A002235">釋僧含</persName>，不知何許人。幼而好學，篤志經史，<lb ed="T" n="0370b15"/>及天文、算術。長通佛義，數論兼明，尤善《大<lb ed="T" n="0370b16"/>涅槃》，常講說不輟。<date key="j18781551878508" from-iso="0430-02-10" to-iso="0431-01-29">元嘉七年</date>，<placeName key="CN0421002Z02AA">新興</placeName>太守<persName key="A002937">陶仲<lb ed="T" n="0370b17"/>祖</persName>，立<placeName key="CN0320102T20AA">靈味寺</placeName>。欽<persName key="A002235">含</persName>風軌，請以居<placeName key="CN0320102T20AA">之</placeName>。<persName key="A002235">含</persName>勗眾<lb ed="T" n="0370b18"/>清謹，三業無虧。後西遊<placeName key="CN0341424Z31AA">歷陽</placeName>，弘<ptr target="fn＊"/>贊正法，江<lb ed="T" n="0370b19"/><ptr target="fn18"/>左道俗，響<ptr target="fn19"/>附如林。時<placeName key="CN0370802Z07AA">任<ptr target="fn20"/>城</placeName><persName key="A002938">彭丞</persName>著〈無三<lb ed="T" n="0370b20"/>世論〉，<persName key="A002235">含</persName>迺作〈神不滅論〉以抗之。使夫見聞<lb ed="T" n="0370b21"/>之者，莫不將墜而更興矣。又著〈聖智圓鑒<lb ed="T" n="0370b22"/>論〈無生論、〉〈法身論、〉〈業報論〉及〈法華宗論〉等，皆<lb ed="T" n="0370b23"/>傳於世。頃之，南遊<placeName key="CN0360421Z08AA">九江</placeName><!-- 中國歷史地名大辭典=九江會於尋陽 -->，大闡經法。<placeName key="CN0371302Z20AA">瑯瑘</placeName><persName key="A002939">顏<lb ed="T" n="0370b24"/><ptr target="fn21"/>峻</persName>時為南中郎記室參軍，隨鎮<placeName key="CN0360421Z08AA">潯陽</placeName>，與<persName key="A002235">含</persName><lb ed="T" n="0370b25"/>深相器重，造必終日。<persName key="A002235">含</persName>嘗密謂<ptr target="fn＊"/><persName key="A002939">峻</persName>曰：「如<ptr target="fn22"/>令<lb ed="T" n="0370b26"/><ptr target="fn23"/>讖緯不虛者，<placeName key="CN0320106Z06AA">京師</placeName>尋有禍亂。真人應符，屬<lb ed="T" n="0370b27"/>在<persName key="A002940">殿下</persName>，<persName key="A002939">檀越</persName>善以緘之。」俄而<persName key="A002940">元凶</persName>構逆，<persName key="A002105">世祖</persName><lb ed="T" n="0370b28"/>龍飛，果如其言也。後平康無疾，忽告眾辭<lb ed="T" n="0370b29"/>別。至<ptr target="fn24"/>乎明晨，奄然已化，時人謂之知命。</p><p><lb ed="T" n="0370c01"/>時又有<persName key="A002941">釋道含</persName>者，亦學解有功，著〈釋異十<lb ed="T" n="0370c02"/>論〉<ptr target="fn25"/>云。</p>
+	<linkGrp>
+		<link targets="#0370b18 #0370b19"/>
+		<ptr target="#A002235" type="person"/>
+		<ptr target="#CN0341424Z31AA" type="place"/>
+	</linkGrp>
+	<linkGrp>
+		<link targets="#0370b23 #0370b23"/>
+		<ptr target="#A002235" type="person"/>
+		<ptr target="#CN0360421Z08AA" type="place"/>
+	</linkGrp>
+	<linkGrp>
+		<link targets="#0370b23 #0370b28"/>
+		<ptr target="#A002235" type="person"/>
+		<ptr target="#A002939" type="person"/>
+	</linkGrp>
+	<linkGrp>
+		<link targets="#0370b16 #00370b17"/>
+		<ptr target="#A002235" type="person"/>
+		<ptr target="#A002937" type="person"/>
+		<ptr target="#CN0320102T20AA" type="place"/>
+		<ptr target="#j18781551878508" type="time"/>
+	</linkGrp>
+</div>

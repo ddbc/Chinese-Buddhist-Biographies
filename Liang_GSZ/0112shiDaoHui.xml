@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0375b19shiDaoHui">
+	<p><anchor n="T.50.2059.0375b19"/><lb ed="T" n="0375b19"/><persName key="A002255">釋道慧</persName>，姓王，<placeName key="CN0330281Z08AA">餘姚</placeName>人，寓居<placeName key="CN0320106Z05AA">建<ptr target="fn08"/>鄴</placeName>。<date key="j18894391889803" from-iso="0461-01-02" to-iso="0462-01-01">十一</date>出家，<lb ed="T" n="0375b20"/>為<persName key="A002260">僧遠</persName>弟子，止<placeName key="CN0320102T25AA">靈曜寺</placeName>。至<date key="j18905341890899" from-iso="0464-01-02" to-iso="0465-01-01">年十四</date>，讀<placeName key="CN0360402M01AA">廬山</placeName><lb ed="T" n="0375b21"/>《慧遠集》，迺慨然歎息，恨有生之晚，遂與友<lb ed="T" n="0375b22"/>人<persName key="A002273">智順</persName><ptr target="fn09"/>沂流千里，觀遠遺迹，於是憩<placeName key="CN0360402T03AA">廬<lb ed="T" n="0375b23"/>山西寺</placeName>，涉歷三年，更還<placeName key="CN0320106Z05AA">京邑</placeName>。時<persName key="A003025">王或</persName>辯「三<lb ed="T" n="0375b24"/>相」義，大聚學僧。<persName key="A002255">慧</persName>時<date key="j18916301891994" from-iso="0467-01-02" to-iso="0468-01-01">年十七</date>，便發問數番，言<lb ed="T" n="0375b25"/>語玄微，詮牒有次。眾咸奇之。</p><p>後受業於<persName key="A002248">猛</persName>、<lb ed="T" n="0375b26"/><persName key="A002244">斌</persName>二法師。<persName key="A002248">猛</persName>嘗講《成實》。<persName key="A003002">張融</persName>構難重疊。<persName key="A002248">猛</persName><lb ed="T" n="0375b27"/>稱疾不堪多領，乃命<persName key="A002255">慧</persName>令答<persName key="A003002">之</persName>。<persName key="A003002">融</persName>以<persName key="A002255">慧</persName><lb ed="T" n="0375b28"/>年少，頗協輕心。<persName key="A002255">慧</persName>乘機挫銳，言必詣理，酬<lb ed="T" n="0375b29"/>酢往還，綽有餘裕。善大乘，明數論，講說相<lb ed="T" n="0375c01"/>續，學徒甚盛。區別義類，始為章段焉。<persName key="A003026">褚澄</persName>、<lb ed="T" n="0375c02"/><persName key="A003027">謝超宗</persName>名重當時，並見推禮。</p><p><persName key="A002255">慧</persName>以母年老，<lb ed="T" n="0375c03"/>欲存資奉，<ptr target="fn10"/>迺移憩<placeName key="CN0320101T60AA">莊嚴寺</placeName>。母<ptr target="fn11"/>憐其志，復<lb ed="T" n="0375c04"/>出家為道，捨宅為福，<ptr target="fn12"/>建遠精舍。<persName key="A002255">慧</persName>以<date key="j18967891897142" from-iso="0481-02-16" to-iso="0482-02-04">齊<lb ed="T" n="0375c05"/>建元三年</date>卒，春秋三十有一。臨終呼取麈<lb ed="T" n="0375c06"/>尾授友人智順。<persName key="A002273">順</persName>慟曰：「如此之人，年不至<lb ed="T" n="0375c07"/>四十，惜矣。」因以麈尾內棺中而<ptr target="fn13"/>斂焉。葬<lb ed="T" n="0375c08"/>於<placeName key="CN0320102M02AA">鍾山</placeName>之陽。<placeName key="CN0411624Z17AA">陳郡</placeName><persName key="A003027">謝超宗</persName>為造碑<ptr target="fn14"/>文。</p><p>時<placeName key="CN0320101T60AA">莊<lb ed="T" n="0375c09"/>嚴</placeName>復有<persName key="A003028">玄趣</persName>、<persName key="A003029">僧達</persName>，並以學解見稱。<persName key="A003028">趣</persName>博通<lb ed="T" n="0375c10"/>眾經，<ptr target="fn15"/>並精內外，而尤善席上，風軌可欣。<lb ed="T" n="0375c11"/><persName key="A003029">達</persName>少而頭白，時人號曰「<persName key="A003029">白頭達</persName>」，亦博解眾<lb ed="T" n="0375c12"/>典，尤精往復。而性剛忤物，被擯<placeName key="CN0430105Z02AA">長沙</placeName>。</p>
+	<linkGrp>
+		<link targets="#0375b19 #0375b19"/>
+		<ptr target="#A002255" type="person"/>
+		<ptr target="#CN0320106Z05AA" type="place"/>
+	</linkGrp>
+	<linkGrp>
+		<link targets="#0375b25 #0375b26"/>
+		<ptr target="#A002255" type="person"/>
+		<ptr target="#A002248" type="person"/>
+		<ptr target="#A002244" type="person"/>
+	</linkGrp>
+	<linkGrp>
+		<link targets="#0375b26 #0375b29"/>
+		<ptr target="#A002255" type="person"/>
+		<ptr target="#A002248" type="person"/>
+		<ptr target="#A003002" type="person"/>
+	</linkGrp>
+	<linkGrp>
+		<link targets="#0375c01 #0375c02"/>
+		<ptr target="#A002255" type="person"/>
+		<ptr target="#A003026" type="person"/>
+	</linkGrp>
+	<linkGrp>
+		<link targets="#0375c01 #0375c02"/>
+		<ptr target="#A002255" type="person"/>
+		<ptr target="#A003027" type="person"/>
+	</linkGrp>
+	<linkGrp>
+		<link targets="#0375c02 #0375c03"/>
+		<ptr target="#A002255" type="person"/>
+		<ptr target="#CN0320101T60AA" type="place"/>
+	</linkGrp>
+	<linkGrp>
+		<link targets="#0375c08 #0375c12"/>
+		<ptr target="#A002255" type="person"/>
+		<ptr target="#A003028" type="person"/>
+		<ptr target="#A003029" type="person"/>
+		<ptr target="#CN0320101T60AA" type="place"/>
+	</linkGrp>
+	<linkGrp>
+		<link targets="#0375c11 #0375c12"/>
+		<ptr target="#A003029" type="person"/>
+		<ptr target="#CN0430105Z02AA" type="place"/>
+	</linkGrp>
+	<linkGrp>
+		<link targets="#0375b19 #0375b20"/>
+		<ptr target="#A002255" type="person"/>
+		<ptr target="#A002260" type="person"/>
+		<ptr target="#CN0320102T25AA" type="place"/>
+		<ptr target="#j18894391889803" type="time"/>
+	</linkGrp>
+	<linkGrp>
+		<link targets="#0375b20 #0375b23"/>
+		<ptr target="#A002255" type="person"/>
+		<ptr target="#A002273" type="person"/>
+		<ptr target="#CN0360402T03AA" type="place"/>
+		<ptr target="#j18905341890899" type="time"/>
+	</linkGrp>
+	<linkGrp>
+		<link targets="#0375b23 #0375b25"/>
+		<ptr target="#A002255" type="person"/>
+		<ptr target="#A003025" type="person"/>
+		<ptr target="#CN0320106Z05AA" type="place"/>
+		<ptr target="#j18916301891994" type="time"/>
+	</linkGrp>
+	<linkGrp>
+		<link targets="#0375c05 #0375c07"/>
+		<ptr target="#A002255" type="person"/>
+		<ptr target="#A002273" type="person"/>
+		<ptr target="#j18967891897142" type="time"/>
+	</linkGrp>
+</div>

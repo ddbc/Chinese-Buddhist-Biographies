@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0396c09zhiTanLan">
+    <p><anchor n="T.50.2059.0396c10"/><lb ed="T" n="0396c10"/><persName key="A002301">支曇蘭</persName>，<placeName key="CN0321081Z26AA">青州</placeName><ptr target="fn27"/>人。蔬食樂禪，誦經三十萬言。<lb ed="T" n="0396c11"/><date from-iso="0376" key="j18584291866105" notAfter-iso="0397">晉太元</date>中遊<placeName key="CN0330683Z21AA">剡</placeName>，後憩<placeName key="CN0331023M02AA">始豐赤城山</placeName>，見一處<lb ed="T" n="0396c12"/>林泉清曠而居之。經于數日，忽見一<ptr target="fn28"/>人，<lb ed="T" n="0396c13"/>長<ptr target="fn29"/>大數，呵<persName key="A002301">蘭</persName>令去。又見諸異形禽獸，<ptr target="fn30"/>數<lb ed="T" n="0396c14"/>以恐<persName key="A002301">蘭</persName>。見<persName key="A002301">蘭</persName>恬然自得，乃屈膝禮拜云：「<persName key="A003311">珠<lb ed="T" n="0396c15"/>欺王</persName>是家舅，今往<placeName key="CN0340001D01AA">韋<ptr target="fn31"/>卿山</placeName>就之，推此處<lb ed="T" n="0396c16"/>以相奉。」爾後三年，忽聞車騎隱隱，從者彌<placeName key="CN0331023M02AA">峰</placeName>。<lb ed="T" n="0396c17"/>俄而有人著幘稱<persName key="A003311">珠欺王</persName>，通既前，從其妻<lb ed="T" n="0396c18"/>子男女等二十三人，並形貌端整有逾於世。<lb ed="T" n="0396c19"/>既至<persName key="A002301">蘭</persName>所，暄涼訖，<persName key="A002301">蘭</persName>問住在何處。答云：「<placeName key="CN0331024M01AA">樂<lb ed="T" n="0396c20"/>安縣韋<ptr target="fn＊"/>卿山</placeName>。久服風<ptr target="fn32"/>問，今與家累仰投，<lb ed="T" n="0396c21"/>乞受歸戒。」<persName key="A002301">蘭</persName>即授之。受法竟，<ptr target="fn33"/>嚫錢一萬，蜜<lb ed="T" n="0396c22"/>二器，辭別而去。便聞鳴笳動吹，響<ptr target="fn34"/>振山谷。<lb ed="T" n="0396c23"/><persName key="A002301">蘭</persName>禪眾十餘，共所聞見。<date from-iso="0419" key="j18741391874610" notAfter-iso="0420">晉元熙</date>中卒於山，春<lb ed="T" n="0396c24"/>秋八十有三矣。</p>
+    <linkGrp>
+        <link targets="#0396c11 #0396c11"/>
+        <ptr target="#A002301" type="person"/>
+        <ptr target="#CN0331023M02AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0396c12 #0396c22"/>
+        <ptr target="#A002301" type="person"/>
+        <ptr target="#A003311" type="person"/>
+        <ptr target="#CN0331023M02AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0396c19 #0396c20"/>
+        <ptr target="#A003311" type="person"/>
+        <ptr target="#CN0331024M01AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0396c11 #0396c11"/>
+        <ptr target="#A002301" type="person"/>
+        <ptr target="#CN0330683Z21AA" type="place"/>
+        <ptr target="#j18584291866105" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0396c23 #0396c24"/>
+        <ptr target="#A002301" type="person"/>
+        <ptr target="#CN0331023M02AA" type="place"/>
+        <ptr target="#j18741391874610" type="time"/>
+    </linkGrp>
+</div>

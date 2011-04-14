@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0674b12shiBaoYan">
+    <p><anchor n="T.50.2060.0674b12"/><lb ed="T" n="0674b12"/><persName key="A007235">釋寶巖</persName>。<placeName key="CN0110104Z08AA">幽州</placeName>人。標意十地。次綜毘曇。<ptr target="fn09"/>未<lb ed="T" n="0674b13"/>究成實。故於宗部涉獵繁焉。戶牖玄文踈<lb ed="T" n="0674b14"/>條本幹。時傳富博。而性殊省事不樂談說。<lb ed="T" n="0674b15"/>苦祈敷散精理載揚。住京下<placeName key="CN0610102T17AA">仁覺寺</placeName>。守道<lb ed="T" n="0674b16"/>自娛無事交厚。<date key="j19406121942058" notAfter-iso="0605" notBefore-iso="0601">仁壽</date>下勅召。送舍利于本<lb ed="T" n="0674b17"/>州<placeName key="CN0110104T01AA">弘業寺</placeName>。即<persName key="A002158">元魏孝文</persName>之所造也。舊號<placeName key="CN0110104T01AA">光<lb ed="T" n="0674b18"/>林</placeName>。依峯帶澗面勢高敞。多挾徵異事遵清<lb ed="T" n="0674b19"/>肅。故使行僻之徒必致驚悚。由斯此眾濫<lb ed="T" n="0674b20"/>迹希過。自<date key="j19387911940611" notAfter-iso="0601" notBefore-iso="0596">開皇將末</date>。舍利到前。山恒傾搖<lb ed="T" n="0674b21"/>未曾休止。及安塔竟山動自息。又<date key="j19406121940966" notAfter-iso="0602" notBefore-iso="0601">仁壽初<lb ed="T" n="0674b22"/>歲</date>。天降剃刀三十三枚。用甚銛利。而形制殊<lb ed="T" n="0674b23"/>別。今僧常用以剃剪也。又初造石函。明如<lb ed="T" n="0674b24"/>水鏡。文同馬瑙光似琉璃。內外照徹紫焰<lb ed="T" n="0674b25"/>光起。函外生<ptr target="fn10"/>文如菩薩像。及以眾仙禽<ptr target="fn11"/>狩<lb ed="T" n="0674b26"/>師子林樹。雜相非一。四月三日夜放大光<lb ed="T" n="0674b27"/>明照天地。有目皆見。<persName key="A007235">巖</persName>事了還。不測其<lb ed="T" n="0674b28"/>卒。</p>
+    <linkGrp>
+        <link targets="#0674b12 #0674b12"/>
+        <ptr target="#A007235" type="person"/>
+        <ptr target="#CN0110104Z08AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0674b15 #0674b16"/>
+        <ptr target="#A007235" type="person"/>
+        <ptr target="#CN0610102T17AA" type="place"/>
+        </linkGrp>
+    <linkGrp>
+        <link targets="#0674b16 #0674b27"/>
+        <ptr target="#A007235" type="person"/>
+        <ptr target="#CN0110104T01AA" type="place"/>
+        <ptr target="#j19406121942058" type="time"/>
+    </linkGrp>
+</div>

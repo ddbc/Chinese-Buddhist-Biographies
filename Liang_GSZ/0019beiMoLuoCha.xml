@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0333b21beiMoLuoCha">
+    <p><anchor n="T.50.2059.0333b21"/><lb ed="T" n="0333b21"/><persName key="A000552">卑摩羅叉</persName>，此云<persName key="A000552">無垢眼</persName>，<placeName key="PKNWPS000E01AA">罽賓</placeName>人。沈<ptr target="fn24"/>靖有志<lb ed="T" n="0333b22"/>力，出家履道，苦節成務。先在<placeName key="CN0652923Z16AA">龜茲</placeName>，弘闡律<lb ed="T" n="0333b23"/>藏，四方學者，競往師<persName key="A000552">之</persName>，<persName key="A001583">鳩摩羅什</persName>時亦預焉。<lb ed="T" n="0333b24"/>及<placeName key="CN0652923Z16AA">龜茲</placeName>陷沒，乃避地<ptr target="fn25"/>焉。頃之，聞<persName key="A001583">什</persName>在<placeName key="CN0610112Z07AA">長<lb ed="T" n="0333b25"/>安</placeName>大弘經藏，又欲使毘尼勝品，復洽<placeName key="CN0000000E01AA">東國</placeName>，<lb ed="T" n="0333b26"/>於是杖錫流沙，冒險東<ptr target="fn26"/>入，以<date key="j18693841869738" from-iso="0406-02-05" to-iso="0407-01-25">偽秦弘始八<lb ed="T" n="0333b27"/>年</date>達自<placeName key="CN0610000E01AA">關中</placeName>，<persName key="A001583">什</persName>以師禮敬待，<persName key="A000552">叉</persName>亦以<ptr target="fn27"/>遠<lb ed="T" n="0333b28"/>遇欣然。及<persName key="A001583">羅什</persName>棄世，<persName key="A000552">叉</persName>乃出遊關左，逗<lb ed="T" n="0333b29"/><ptr target="fn28"/>於<placeName key="CN0341521Z56AA">壽春</placeName>止，<placeName key="CN0341521T03AA">石澗寺</placeName>。律<ptr target="fn29"/>眾雲聚，盛闡毘尼。<persName key="A001583">羅<lb ed="T" n="0333c01"/>什</persName>所譯《十誦》本，五十八卷，最後一誦，謂明受<lb ed="T" n="0333c02"/>戒法，及諸成善法事，逐其義要，<ptr target="fn30"/>名為《善誦》。<lb ed="T" n="0333c03"/><ptr target="fn31"/><persName key="A000552">叉</persName>後齎往<placeName key="CN0341521T03AA">石澗</placeName>，開為六十一卷，最後一誦，改<lb ed="T" n="0333c04"/>為《毘尼誦》，故猶二名存焉。</p>
+    <p>頃之，南適<placeName key="CN0421003Z05AA">江陵</placeName>，<lb ed="T" n="0333c05"/>於<ptr target="fn32"/><placeName key="CN0422422T01AA">辛寺</placeName>夏坐，開講《十誦》。既通漢言，善相<lb ed="T" n="0333c06"/>領納，無作妙本，大闡當時，<ptr target="fn33"/>析文求理者，其<lb ed="T" n="0333c07"/>聚如林，明條知禁者，數亦殷矣，律藏大弘，<lb ed="T" n="0333c08"/><persName key="A000552">叉</persName>之力也。<placeName key="CN0321002T10AA">道場</placeName><persName key="A001746">慧觀</persName>深括宗旨，記其所制<lb ed="T" n="0333c09"/>內禁輕重，撰為二卷，送還<placeName key="CN0320106Z06AA">京師</placeName>，僧尼披習，<lb ed="T" n="0333c10"/>競相傳寫，時聞者諺曰：「<persName key="A000552">卑羅</persName>鄙語，<persName key="A001746">慧觀</persName>才錄，<lb ed="T" n="0333c11"/>都人繕寫，紙貴如玉。」今猶行於世，為後生<lb ed="T" n="0333c12"/>法矣。<persName key="A000552">叉</persName>養德好閑，棄諠離俗，其年冬，復還<lb ed="T" n="0333c13"/><placeName key="CN0341521T03AA">壽春石澗</placeName>，卒於<placeName key="CN0341521T03AA">寺</placeName>焉，春秋七十有七。<persName key="A000552">叉</persName>為<lb ed="T" n="0333c14"/>人眼青，時人亦號為<persName key="A000552">青眼律師</persName>。</p>
+
+    <linkGrp>
+        <link targets="#0333b21 #0333b21"/>
+        <ptr target="#A000552" type="person"/>
+        <ptr target="#PKNWPS000E01AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0333b22 #0333b23"/>
+        <ptr target="#A000552" type="person"/>
+        <ptr target="#CN0652923Z16AA" type="place"/>
+    </linkGrp>
+
+
+    <linkGrp>
+        <link targets="#0333b26 #0333b27"/>
+        <ptr target="#A000552" type="person"/>
+        <ptr target="#A001583" type="person"/>
+        <ptr target="#CN0610000E01AA" type="place"/>
+        <ptr target="#j18693841869738" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0333b28 #0333c04"/>
+        <ptr target="#A000552" type="person"/>
+        <ptr target="#CN0341521T03AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0333c04 #0333c05"/>
+        <ptr target="#A000552" type="person"/>
+        <ptr target="#CN0422422T01AA" type="place"/>
+    </linkGrp>
+</div>

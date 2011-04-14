@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0506c19shiFaZan">
+    <p><anchor n="T.50.2060.0506c19"/><lb ed="T" n="0506c19"/><persName key="A005470">釋法瓚</persName>。<placeName key="CN0370103Z06AA">齊州</placeName>人也。安心寂定樂居巖穴。頭<lb ed="T" n="0506c20"/>陀苦行是所<ptr target="fn21"/>纏懷。隱於<placeName key="CN0370902M01AA">泰岳</placeName>之阜。開蒙訓<lb ed="T" n="0506c21"/>接善知方便。兼以達解諦義時揚清論。致<lb ed="T" n="0506c22"/>有覆喪。坐<ptr target="fn22"/>無輟講。待移之誚興世。<persName key="A005470">瓚</persName>初<lb ed="T" n="0506c23"/>聞之。深自赧怍曰。問非<ptr target="fn23"/>切並不欲<ptr target="fn24"/>困<lb ed="T" n="0506c24"/>人。謂言彼解何言致斃。因遂杜口不事言<lb ed="T" n="0506c25"/>論。閉謁尋<ptr target="fn25"/>閑披翫而已。<date key="j19380431938426" from-iso="0594-01-29" to-iso="0595-02-16">開皇十四年</date>。<persName key="A004324">文帝</persName><lb ed="T" n="0506c26"/>省方招訪名德。人有述其清曠者。乃下勅<lb ed="T" n="0506c27"/>延之。與<persName key="A004324">帝</persName>同歸達于<placeName key="CN0610102Z02AA">京邑</placeName>。住<placeName key="CN0610103T12AA">勝光寺</placeName>。肅肅<lb ed="T" n="0506c28"/>禪侶擁<ptr target="fn26"/>篲門庭。以身範世復見斯日。<date key="j19406121942058" notAfter-iso="0605" notBefore-iso="0601">仁壽</date><lb ed="T" n="0506c29"/>置塔。勅令送舍利于<placeName key="CN0370103T01AA">齊州泰山神通寺</placeName>。即<lb ed="T" n="0507a01"/><persName key="A002771">南燕主慕容德</persName>。為<persName key="A005471">僧朗禪師</persName>之所立也。事<lb ed="T" n="0507a02"/>見前傳。<persName key="A002771">燕主</persName>以三縣民<ptr target="fn01"/>調用給於<persName key="A005471">朗</persName>。並散<lb ed="T" n="0507a03"/>營寺。上下諸院十有餘所。長廊延袤千有餘<lb ed="T" n="0507a04"/>間。三度廢教人無敢撤。欲有犯者<persName key="A005471">朗</persName>輒現<lb ed="T" n="0507a05"/>形以錫杖撝之。病困垂死。求悔先過。還<lb ed="T" n="0507a06"/>差如初。井深五尺由來不減。女人臨之即<lb ed="T" n="0507a07"/>為枯竭。燒香懺求還復如故。<placeName key="CN0370103T01AA">寺</placeName>立已來四百<lb ed="T" n="0507a08"/>餘載。佛<ptr target="fn02"/>象鮮<ptr target="fn03"/>瑩色如新造。眾禽不踐于<lb ed="T" n="0507a09"/>今儼然。古號為<placeName key="CN0370103T01AA">朗公寺</placeName>。以其感靈即目故。<lb ed="T" n="0507a10"/>天下崇焉。<date key="j19340271934410" from-iso="0583-01-31" to-iso="0584-02-18">開皇三年</date>。<persName key="A004324">文帝</persName>以通<ptr target="fn04"/>徵屢感故。<lb ed="T" n="0507a11"/>改曰<placeName key="CN0370103T01AA">神通</placeName>也。初至<placeName key="CN0370103T01AA">寺</placeName>內即放圓光。乍赤乍<lb ed="T" n="0507a12"/>白時沈時舉。或如流星。人眾同見。井水涌<lb ed="T" n="0507a13"/>溢。酌而用之。下後還復又感群鹿自然至<lb ed="T" n="0507a14"/>塔。雖鼓吹眾鬧馴附無恐。又感鵝一雙從<lb ed="T" n="0507a15"/>四月三日。終于八日。恒來<ptr target="fn05"/>輿前立聽梵<lb ed="T" n="0507a16"/><ptr target="fn06"/>贊。恰至埋訖迹絕不來。斯之感致罕聞<lb ed="T" n="0507a17"/>於古。<persName key="A005470">瓚</persName>具以聞。後導以禪定時揚法化。言<lb ed="T" n="0507a18"/>無嚴切而密附懷抱。遂終<ptr target="fn07"/>沒於所住。</p>
+    <linkGrp>
+        <link targets="#0506c19 #0506c19"/>
+        <ptr target="#A005470" type="person"/>
+        <ptr target="#CN0370103Z06AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0506c19 #0506c21"/>
+        <ptr target="#A005470" type="person"/>
+        <ptr target="#CN0370902M01AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0506c25 #0506c27"/>
+        <ptr target="#A005470" type="person"/>
+        <ptr target="#A004324" type="person"/>
+        <ptr target="#CN0610103T12AA" type="place"/>
+        <ptr target="#j19380431938426" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0506c28 #0507a01"/>
+        <ptr target="#A005470" type="person"/>
+        <ptr target="#CN0370103T01AA" type="place"/>
+        <ptr target="#j19406121942058" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0507a01 #0507a01"/>
+        <ptr target="#A002771" type="person"/>
+        <ptr target="#A005471" type="person"/>
+        <ptr target="#CN0370103T01AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0507a10 #0507a17"/>
+        <ptr target="#A005470" type="person"/>
+        <ptr target="#CN0370103T01AA" type="place"/>
+        <ptr target="#j19340271934410" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0507a10 #0507a18"/>
+        <ptr target="#A005470" type="person"/>
+        <ptr target="#A004324" type="person"/>
+        <ptr target="#j19340271934410" type="time"/>
+    </linkGrp>
+</div>

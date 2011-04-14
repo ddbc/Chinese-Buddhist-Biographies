@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0408a23shiHuiYu">
+    <p><anchor n="T.50.2059.0408a23"/><lb ed="T" n="0408a23"/><persName key="A002353">釋慧豫</persName>，<placeName key="CN0211302Z14AA">黃龍</placeName>人。來遊<placeName key="CN0320106Z05AA">京師</placeName>，止<placeName key="CN0320101T62AA">靈根寺</placeName>。少而<lb ed="T" n="0408a24"/>務學，遍訪眾師。善談論，美風則，每聞臧<lb ed="T" n="0408a25"/>否人物，輒塞耳不聽或時以異言間止。瓶<lb ed="T" n="0408a26"/>衣率素，日以一中自畢。精勤標節，以救苦<lb ed="T" n="0408a27"/>為先。誦《大涅槃》、《法華》、《十地》。又習禪業，精於<lb ed="T" n="0408a28"/>五門。<date key="j18993281899711" from-iso="0488-01-30" to-iso="0489-02-16"/>嘗寢見有三人來扣戶，並衣冠鮮潔，<lb ed="T" n="0408a29"/>執持華蓋。<persName key="A002353">豫</persName>問：「覓誰？」答云：「<persName key="A002353">法師</persName>應死，故來<lb ed="T" n="0408b01"/>奉迎。」<persName key="A002353">豫</persName>曰：「小事未了，可申一年不？」答云：「可<lb ed="T" n="0408b02"/>爾。」至明年滿一周而卒。是歲<date key="j18997121900066" from-iso="0489-02-17" to-iso="0490-02-06">齊永明七年</date>，<lb ed="T" n="0408b03"/>春秋五十有七。</p><p><persName key="A002353">豫</persName><placeName key="CN0320101T62AA">同寺</placeName>有沙門<persName key="A003416">法<ptr target="fn04"/>普</persName>，亦素<lb ed="T" n="0408b04"/>行誦經。</p>
+    <linkGrp>
+        <link targets="#0408a23 #0408a23"/>
+        <ptr target="#A002353" type="person"/>
+        <ptr target="#CN0320101T62AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0408b02 #0408b03"/>
+        <ptr target="#A002353" type="person"/>
+        <ptr target="#CN0320101T62AA" type="place"/>
+        <ptr target="#j18997121900066" type="time"/>
+    </linkGrp>
+</div>

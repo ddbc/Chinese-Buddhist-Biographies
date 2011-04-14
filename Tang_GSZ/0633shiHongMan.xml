@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0663a06shiHongMan">
+    <p><anchor n="T.50.2060.0663a06"/><lb ed="T" n="0663a06"/><persName key="A006984">釋洪滿</persName>。姓梁。<placeName key="CN0620821Z11AA">安定</placeName>人。在<date key="j19296141929978" from-iso="0571-01-01" to-iso="0571-12-31">俗年十五</date>遇時患。<lb ed="T" n="0663a07"/>雙足攣躄。常念觀音經三年。忽有僧執澡<lb ed="T" n="0663a08"/>罐。在前立不言。問曰。師從何來。答曰。以<lb ed="T" n="0663a09"/>檀越常喚所以來。<persName key="A006984">滿</persName>扣頭問曰。<persName key="A006984">弟子</persName><ptr target="fn02"/>往何<lb ed="T" n="0663a10"/>罪報。今施此攣躄。僧曰。<persName key="A006984">汝</persName>前身拘縛物命。<lb ed="T" n="0663a11"/>餘殃致爾。<persName key="A006984">汝</persName>但閉目。吾為<persName key="A006984">汝</persName>療之。<persName key="A006984">滿</persName>隨言<lb ed="T" n="0663a12"/>冥目。但覺兩膝上各如拔六七寸。丁却既<lb ed="T" n="0663a13"/>了。開目將欲謝恩。失僧所在。起行如故。<persName key="A006984">滿</persName><lb ed="T" n="0663a14"/>乃悟是<persName key="A002803">觀音</persName>。因爾精誠誓不妻娶。後忽自<lb ed="T" n="0663a15"/>通禪觀。安坐不動。乃經三日七日者。<date key="j19333311935151" notAfter-iso="0586" notBefore-iso="0581">開皇<lb ed="T" n="0663a16"/>初</date>元變俗從道。住<placeName key="CN0610102T42AA">救度寺</placeName>。<date key="j19420591946754" notAfter-iso="0617" notBefore-iso="0605">大業</date>融併入居<lb ed="T" n="0663a17"/><placeName key="CN0610104T09AA">法海</placeName>。<date key="j19544921954845" from-iso="0639-02-12" to-iso="0640-01-31">貞觀十三年</date>卒。春秋八十三矣。</p>
+    <linkGrp>
+        <link targets="#0663a06 #0663a07"/>
+        <ptr target="#A006984" type="person"/>
+        <ptr target="#CN0620821Z11AA" type="place"/>
+        <ptr target="#j19296141929978" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0663a15 #0663a16"/>
+        <ptr target="#A006984" type="person"/>
+        <ptr target="#CN0610102T42AA" type="place"/>
+        <ptr target="#j19333311935151" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0663a16 #0663a17"/>
+        <ptr target="#A006984" type="person"/>
+        <ptr target="#CN0610104T09AA" type="place"/>
+        <ptr target="#j19420591946754" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0663a17 #0663a17"/>
+        <ptr target="#A006984" type="person"/>
+        <ptr target="#j19544921954845" type="time"/>
+    </linkGrp>
+</div>

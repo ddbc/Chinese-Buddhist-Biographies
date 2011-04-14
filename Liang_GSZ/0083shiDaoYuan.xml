@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0369a05shiDaoYuan">
+	<p><anchor n="T.50.2059.0369a05"/><lb ed="T" n="0369a05"/><persName key="A002227">釋道淵</persName>，姓寇，不知何許人，出家止<placeName key="CN0320115T63AA">京師東<lb ed="T" n="0369a06"/>安寺</placeName>。少持律撿，長習義宗，眾經、數論，靡不<lb ed="T" n="0369a07"/>通達。而潛光隱德，世莫之知。後於<placeName key="CN0320115T63AA">東安寺</placeName><lb ed="T" n="0369a08"/>開講，剖析玄微，洞盡幽[(厂-一)*臣*責]<!--  Unicode=27de4-->，使終古積滯，渙<lb ed="T" n="0369a09"/>然氷解。於是學徒改觀，翕然附德。後移止<lb ed="T" n="0369a10"/><placeName key="CN0320103T06AA">彭城寺</placeName>。<persName key="A002604">宋文帝</persName>以<persName key="A002227">淵</persName>行為物軌，勅居<placeName key="CN0320103T06AA">寺</placeName><ptr target="fn02"/>住。<lb ed="T" n="0369a11"/>後卒於所住，春秋七十有八。</p>
+	<p><persName key="A002227">淵</persName>弟子<persName key="A002907">慧琳</persName>，本<lb ed="T" n="0369a12"/>姓劉，<placeName key="CN0320116T02AA">秦郡</placeName>人。善諸經及《莊》《老》，<ptr target="fn03"/>排諧好語笑，<lb ed="T" n="0369a13"/>長於製作，故集有十卷。而為性傲誕，頗自<lb ed="T" n="0369a14"/>矜伐。<persName key="A002227">淵</persName>嘗詣<persName key="A002733">傅亮</persName>，<persName key="A002907">琳</persName>先在坐，及<persName key="A002227">淵</persName>至，<persName key="A002907">琳</persName>不<lb ed="T" n="0369a15"/>為致禮。<persName key="A002227">淵</persName>怒之彰<ptr target="fn04"/>色，<persName key="A002733">亮</persName>遂罰<persName key="A002907">琳</persName>杖二十。<lb ed="T" n="0369a16"/><persName key="A002105">宋世祖</persName>雅重<persName key="A002907">琳</persName>，<ptr target="fn05"/>引見常<ptr target="fn06"/>升獨榻，<persName key="A002645">顏延之</persName>每<lb ed="T" n="0369a17"/>以致譏，<persName key="A002105">帝</persName>輒不悅，後著〈白黑論〉，乖於佛理。<lb ed="T" n="0369a18"/><placeName key="CN0430321Z03AA">衡陽</placeName>太守<persName key="A002892">何承天</persName>與<persName key="A002907">琳</persName>比狎，雅相擊揚，著〈達<lb ed="T" n="0369a19"/>性論〉，並拘滯一方，詆呵釋教。<persName key="A002645">顏延之</persName>及<persName key="A002812">宗<lb ed="T" n="0369a20"/>炳</persName><ptr target="fn07"/>撿駁二論，各萬餘言。<persName key="A002907">琳</persName>既自毀其法，被<lb ed="T" n="0369a21"/>斥<placeName key="VNB56QV00Z02AA">交州</placeName>。世云<ptr target="fn08"/><persName key="A002227">淵公</persName>見麻星者，即其人也。</p>
+	<linkGrp>
+		<link targets="#0369a05 #0369a06"/>
+		<ptr target="#A002227" type="person"/>
+		<ptr target="#CN0320115T63AA" type="place"/>
+	</linkGrp>
+	<linkGrp>
+		<link targets="#0369a09 #0369a09"/>
+		<ptr target="#A002227" type="person"/>
+		<ptr target="#CN0320103T06AA" type="place"/>
+	</linkGrp>
+	<linkGrp>
+		<link targets="#0369a11 #0369a15"/>
+		<ptr target="#A002227" type="person"/>
+		<ptr target="#A002907" type="person"/>
+		<ptr target="#A002733" type="person"/>
+	</linkGrp>
+	<linkGrp>
+		<link targets="#0369a16 #0369a17"/>
+		<ptr target="#A002105" type="person"/>
+		<ptr target="#A002907" type="person"/>
+		<ptr target="#A002645" type="person"/>
+	</linkGrp>
+	<linkGrp>
+		<link targets="#0369a18 #0369a20"/>
+		<ptr target="#A002892" type="person"/>
+		<ptr target="#A002907" type="person"/>
+		<ptr target="#A002645" type="person"/>
+		<ptr target="#A002812" type="person"/>
+	</linkGrp>
+	<linkGrp>
+		<link targets="#0369a20 #0369a21"/>
+		<ptr target="#A002907" type="person"/>
+		<ptr target="#VNB56QV00Z02AA" type="place"/>
+	</linkGrp>
+</div>

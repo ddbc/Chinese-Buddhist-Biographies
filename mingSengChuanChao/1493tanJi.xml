@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><div xml:id="mscc0354c09tanJi" xmlns="http://www.tei-c.org/ns/1.0"><head>宋<placeName key="CN0320101T60AA">莊嚴寺</placeName><persName key="A002988">釋曇濟</persName></head><p><anchor n="X.77.1523.0354c09"/><lb ed="X" n="0354c09"/>曇濟<placeName key="CN0140881Z16AA">河東</placeName>人也。十三出家。為<persName key="A018923">導法師</persName>弟子。住壽陽<placeName key="CN0340405T01AA">八<lb ed="X" n="0354c10"/>公山東寺</placeName>。少有器度。汪汪然。儀望端肅。機悟通舉。讀<lb ed="X" n="0354c11"/>成實論涅槃。以夜繼日。未常安寢。高談遠論。以此自<lb ed="X" n="0354c12"/>娛。善言謔巧應對。及自當師匠。虗心待物。動止云為<lb ed="X" n="0354c13"/>莫非<ptr target="fn6"/>體度。綱維正法。開示未聞。年始登立。譽流四海。<lb ed="X" n="0354c14"/>天子聞風。請出 <ref type="place" target="#CN0320106Z05AA">都邑</ref>。以<date from-iso="0458-02-01" to-iso="0459-02-18" key="j18883731888755">宋大明二年</date>。過江住<placeName key="CN0320105T02AA">中興寺</placeName>。<lb ed="X" n="0354c15"/>法輪<ptr target="fn7"/>移甘露灑澤。四方義學異軌同到。理愜物心。道<lb ed="X" n="0354c16"/>俗嗟仰。着七宗論。第一本無立宗。曰如來興世。以本<lb ed="X" n="0354c17"/>無<ptr target="fn8"/>佛教。故方等深經。皆備明五陰本無。本無之論由<lb ed="X" n="0354c18"/>來尚矣。何者。夫冥造之前。廓然而已。至於元氣陶化。<lb ed="X" n="0354c19"/>則群像稟形。形雖資化。權化之本。則出於自然。自然<lb ed="X" n="0354c20"/>自爾。豈有造之者哉。由此而言。無在元化之先。空為<lb ed="X" n="0354c21"/>眾形之始。故稱本無。非謂虗豁之中能生萬有也。夫<lb ed="X" n="0354c22"/>人之所滯。滯在未有。苟宅心本無。則斯累豁矣。夫崇<lb ed="X" n="0354c23"/>本可以息末者。盖此之謂也(云云)。</p>
+    <linkGrp>
+        <link targets="#0354c09 #0354c09"/>
+        <ptr type="person" target="#A002988"/>
+        <ptr type="place" target="#CN0140881Z16AA"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0354c09 #0354c10"/>
+        <ptr type="person" target="#A002988"/>
+        <ptr type="person" target="#A018923"/>
+        <ptr type="place" target="#CN0340405T01AA"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0354c14 #0354c14"/>
+        <ptr type="person" target="#A002988"/>
+        <ptr type="place" target="#CN0320105T02AA"/>
+        <ptr type="time" target="#j18883731888755"/>
+    </linkGrp>
+</div>
+

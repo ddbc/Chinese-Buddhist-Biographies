@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><div xml:id="mscc0359a20tanFu" xmlns="http://www.tei-c.org/ns/1.0"><head>齊<placeName key="CN0320101T36AA">安樂寺</placeName><persName key="A018962">釋曇副</persName></head><p><anchor n="X.77.1523.0359a20"/><lb ed="X" n="0359a20"/>曇副本姓鄒。<placeName key="CN0130423Z23AA">鄴</placeName>陽人也。清貞有風望。十餘入道。憩<placeName key="CN0320101T36AA">安<lb ed="X" n="0359a21"/>樂寺</placeName>。宿植其因。產業豐積。雖蘊金盈遺。不以累心。行<lb ed="X" n="0359a22"/>慈悲。知止足。常內懷矝傷。以濟物為務。為沙門<persName key="A002296">寶誌</persName><lb ed="X" n="0359a23"/>所敬。常言此人五法城之侶也。每記之云。君當生<placeName key="XZ0000002A01AA">兜<lb ed="X" n="0359a24"/>率</placeName>懃慈氏。符其本願。會其夙心。乃捨貲財。造法花無<lb ed="X" n="0359b01"/>量壽彌勒<persName key="G000054">四天王</persName>遺教。乃賢劫千佛名。僧尼戒本。各<lb ed="X" n="0359b02"/>一千部。作布薩籌十萬枚。傳布遐方。流化殊域。開暢<lb ed="X" n="0359b03"/>微遠。竭財弘教。盡思幽深。應門到广。戒行精峻。唯至<lb ed="X" n="0359b04"/>唯勤。乃通夢想。有人語之曰。若<placeName key="XZ0000002A01AA">兜率</placeName>之業已辨。無所<lb ed="X" n="0359b05"/>復慮也。又夢<persName key="A001428">彌勒</persName>佛手摩其頂。天香幡氣神龍現體。<lb ed="X" n="0359b06"/>一二年中靈應<ptr target="fn3"/>想襲。春秋六十餘。<date from-iso="0498-02-08" to-iso="0498-05-09" key="j19029901903080">齊建四年</date><!--應為齊建武四年-->卒。<placeName key="CN0430702Z16AA">武陵</placeName><lb ed="X" n="0359b07"/>都尉<ptr target="fn4"/>舟揚仁益弟之立碑(云云)。</p>
+    <linkGrp>
+        <link targets="#0359a20 #0359a20"/>
+        <ptr type="person" target="#A018962"/>
+        <ptr type="place" target="#CN0130423Z23AA"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0359a20 #0359a21"/>
+        <ptr type="person" target="#A018962"/>
+        <ptr type="place" target="#CN0320101T36AA"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0359b06 #0359b07"/>
+        <ptr type="person" target="#A018962"/>
+        <ptr type="time" target="#d19029901903080"/>
+    </linkGrp>
+</div>

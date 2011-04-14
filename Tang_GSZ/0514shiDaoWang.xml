@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0599b21shiDaoWang">
+    <p><anchor n="T.50.2060.0599b21"/><lb ed="T" n="0599b21"/><persName key="A006279">釋道暀</persName>。姓周。<placeName key="CN0411727Z06AA">汝南</placeName>人。幼而精確。希志尚<lb ed="T" n="0599b22"/>聞。古跡勝人心願齊之。負笈<placeName key="CN0320106Z05AA">金陵</placeName>。居<placeName key="CN0320114T02AA">高座<lb ed="T" n="0599b23"/>寺</placeName>聽阿毘曇心妙達關鍵。非其好也。欽匡<lb ed="T" n="0599b24"/>山遺軌每逸言前。<date key="j19373341937688" from-iso="0592-02-20" to-iso="0593-02-08">隋開皇十二年</date>。依大將<lb ed="T" n="0599b25"/>軍<persName key="A006280">周羅侯</persName>。遠屆<placeName key="CN0360402M01AA">廬岳</placeName>止<placeName key="CN0360402T13AA">東林精舍</placeName>。心願匿<lb ed="T" n="0599b26"/>迹無事音塵。山寺法擁勸引非一。遂不拒<lb ed="T" n="0599b27"/>命弘道度人。修建僧坊四時無絕。<date key="j19434961946884" notAfter-iso="0618" notBefore-iso="0609">隋季</date>寇<lb ed="T" n="0599b28"/>擾華戎薦臻。獎撫門徒如初不替。<date key="j19507111950740" from-iso="0628-10-06" to-iso="0628-11-04">貞觀二<lb ed="T" n="0599b29"/>年九月</date>。身示有疾。曾未浹旬。忽有大星天<lb ed="T" n="0599c01"/>墮正在西閣大水池中。照朗山谷逾千炬<lb ed="T" n="0599c02"/>火。<date key="j19507331950733" when-iso="0628-10-28">二十三日</date>。僧正中食謂弟子曰。僧食訖<lb ed="T" n="0599c03"/>未。答曰未竟。又曰。且喚上座來。依言既<lb ed="T" n="0599c04"/>至。委以後事跏坐而卒。諸殿閣門一時自<lb ed="T" n="0599c05"/>開。異香滿<placeName key="CN0360402T13AA">寺</placeName>七日便歇。年八十二矣。</p>
+    <linkGrp>
+        <link targets="#0599b21 #0599b21"/>
+        <ptr target="#A006279" type="person"/>
+        <ptr target="#CN0411727Z06AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0599b22 #0599b23"/>
+        <ptr target="#A006279" type="person"/>
+        <ptr target="#CN0320114T02AA" type="place"/>
+        </linkGrp>
+    <linkGrp>
+        <link targets="#0599b24 #0599b26"/>
+        <ptr target="#A006279" type="person"/>
+        <ptr target="#A006280" type="person"/>
+        <ptr target="#CN0360402T13AA" type="place"/>
+        <ptr target="#j19373341937688" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0599b27 #0599b28"/>
+        <ptr target="#A006279" type="person"/>
+        <ptr target="#CN0360402T13AA" type="place"/>
+        <ptr target="#j19434961946884" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0599b28 #0599c02"/>
+        <ptr target="#A006279" type="person"/>
+        <ptr target="#CN0360402T13AA" type="place"/>
+        <ptr target="#j19507111950740" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0599c02 #0599c05"/>
+        <ptr target="#A006279" type="person"/>
+        <ptr target="#CN0360402T13AA" type="place"/>
+        <ptr target="#j19507331950733" type="time"/>
+    </linkGrp>
+</div>

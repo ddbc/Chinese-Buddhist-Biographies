@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0672a04shiHuiZang">
+    <p><anchor n="T.50.2060.0672a04"/><lb ed="T" n="0672a04"/><persName key="A004392">釋慧藏</persName>。<placeName key="CN0131181Z20AA">冀州</placeName>人。初學涅槃後專講解。禁守<lb ed="T" n="0672a05"/>貪競絕迹譏嫌。安詳詞令不形顏色。入<lb ed="T" n="0672a06"/><placeName key="CN0610102Z14AA">京</placeName>訪道住<placeName key="CN0610104T12AA">光明寺</placeName>。<date key="j19406121942058" notAfter-iso="0605" notBefore-iso="0601">仁壽中年</date>。勅召置塔于<lb ed="T" n="0672a07"/><ptr target="fn02"/><placeName key="CN0130923Z16AA">歡州</placeName>。初至塔<ptr target="fn03"/>寺。行道設齋。當其塔上景<lb ed="T" n="0672a08"/>雲出見。彩含五色有若花蓋。綺繡錦繢無<lb ed="T" n="0672a09"/>以加焉。從午至酉方始隱滅。又<placeName key="CN0610104T36AA">延興寺</placeName>僧<lb ed="T" n="0672a10"/><persName key="A007212">法順</persName>者。聽習涅槃善守根禁。退讓自節負<lb ed="T" n="0672a11"/>德無傲。勅住江州廬山<placeName key="CN0360402T13AA">東林寺</placeName>。置舍利塔。<lb ed="T" n="0672a12"/>初至<placeName key="CN0360402T13AA">其地</placeName>。耕者見光尋而掘之。獲金銅<persName key="A001428">彌<lb ed="T" n="0672a13"/>勒</persName>像一軀。形質瓌異。即而供養。並不測其<lb ed="T" n="0672a14"/>終。</p>
+    <linkGrp>
+        <link targets="#0672a04 #0672a04"/>
+        <ptr target="#A004392" type="person"/>
+        <ptr target="#CN0131181Z20AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0672a05 #0672a06"/>
+        <ptr target="#A004392" type="person"/>
+        <ptr target="#CN0610104T12AA" type="place"/>
+        </linkGrp>
+    <linkGrp>
+        <link targets="#0672a06 #0672a09"/>
+        <ptr target="#A004392" type="person"/>
+        <ptr target="#CN0130923Z16AA" type="place"/>
+        <ptr target="#j19406121942058" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0672a09 #0672a11"/>
+        <ptr target="#A007212" type="person"/>
+        <ptr target="#CN0610104T36AA" type="place"/>
+        </linkGrp>
+    <linkGrp>
+        <link targets="#0672a11 #0672a13"/>
+        <ptr target="#A007212" type="person"/>
+        <ptr target="#CN0360402T13AA" type="place"/>
+        </linkGrp>
+</div>

@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0659b24shiFuShang">
+    <p><anchor n="T.50.2060.0659b24"/><lb ed="T" n="0659b24"/><persName key="A006947">富上</persName>者。莫測何人。恒依益州<placeName key="CN0510108T23AA">淨德寺</placeName>宿。埋<lb ed="T" n="0659b25"/>一大笠在路。晝日坐下讀經。人雖去來不<lb ed="T" n="0659b26"/>喚令施。有擲錢者亦不呪願。每於靜路不<lb ed="T" n="0659b27"/>入閙中。狀如五十。雖在多年過無所獲。有<lb ed="T" n="0659b28"/>信心者曰。城西城北人稠施多。在此何為。<lb ed="T" n="0659b29"/>答曰。一錢兩錢足養身命。復用多為。<placeName key="CN0511421Z12AA">陵州</placeName><lb ed="T" n="0659c01"/>刺史<persName key="A006948">趙仲舒</persName>者。三代之酷吏也。甚無信敬。<lb ed="T" n="0659c02"/>聞故往試。騎馬直過。<ptr target="fn＊"/>佯墮貫錢。<persName key="A006947">富</persName>但讀<lb ed="T" n="0659c03"/>經。目未曾顧。去遠<persName key="A006948">舒</persName>令取錢。<persName key="A006947">富</persName>亦不顧。<persName key="A006948">舒</persName><lb ed="T" n="0659c04"/>乃返來曰。<persName key="A006947">爾</persName>見<persName key="A006948">我</persName>錢墮地<ptr target="fn07"/>以不。曰見。問<lb ed="T" n="0659c05"/>曰。錢今何在。曰見一人拾將去。<persName key="A006948">舒</persName>曰。<persName key="A006947">爾</persName>終<lb ed="T" n="0659c06"/>日在路唯乞一錢。豈有貫錢在地。而不取<lb ed="T" n="0659c07"/>者。見人將去。何不止之。答曰。非<persName key="A006947">貧道</persName>物。<lb ed="T" n="0659c08"/>何為浪認。<persName key="A006948">仲舒</persName>曰。<persName key="A006948">我</persName>欲須<persName key="A006947">爾</persName>身上袈裟。<persName key="A006947">富</persName><lb ed="T" n="0659c09"/>曰。欲相試耳。<persName key="A006948">公</persName>能將去。復有與者。可謂得<lb ed="T" n="0659c10"/>失一種。即疊授與。<persName key="A006948">仲舒</persName>下馬禮謝曰。<persName key="A006948">弟子</persName><lb ed="T" n="0659c11"/><date key="j19245481933331" notAfter-iso="0581" notBefore-iso="0557">周朝</date>人。官歷三代。大與眾僧往還。少不貪<lb ed="T" n="0659c12"/>者。聞名故謁。本非惡意。請往<placeName key="CN0511421Z12AA">陵州</placeName>。<persName key="A006947">富</persName>曰大<lb ed="T" n="0659c13"/>善。然<persName key="A006947">貧道</persName>廣欲結緣願<persName key="A006948">公</persName>助國安撫。即是<lb ed="T" n="0659c14"/>長相見受供養也。<persName key="A006948">舒</persName>辭歎曰。毛中有人不<lb ed="T" n="0659c15"/>可輕慢。爾後不見。<placeName key="CN0510108Z31AA">益州</placeName>人<ptr target="fn08"/><persName key="A006949">薊相</persName>者。從<placeName key="CN0321002Z02AA">揚<lb ed="T" n="0659c16"/>州</placeName>還見<persName key="A006947">之</persName>。亦埋笠路側。顏狀如常。</p>
+    <linkGrp>
+        <link targets="#0659b24 #0659b24"/>
+        <ptr target="#A006947" type="person"/>
+        <ptr target="#CN0510108T23AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0659b29 #0659c01"/>
+        <ptr target="#A006948" type="person"/>
+        <ptr target="#CN0511421Z12AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0659c10 #0659c11"/>
+        <ptr target="#A006948" type="person"/>
+        <ptr target="#j19245481933331" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0659b27 #0659c11"/>
+        <ptr target="#A006947" type="person"/>
+        <ptr target="#A006948" type="person"/>
+        <ptr target="#CN0510108Z31AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0659c15 #0659c15"/>
+        <ptr target="#A006949" type="person"/>
+        <ptr target="#CN0510108Z31AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0659c15 #0659c16"/>
+        <ptr target="#A006947" type="person"/>
+        <ptr target="#A006949" type="person"/>
+        <ptr target="#CN0321002Z02AA" type="place"/>
+        </linkGrp>
+</div>

@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0409a03shiDaoLin">
+    <p><anchor n="T.50.2059.0409a03"/><lb ed="T" n="0409a03"/><persName key="A002359">釋道琳</persName>，本<placeName key="CN0330602Z05AA">會稽山陰</placeName>人。少出家，有戒行。善<lb ed="T" n="0409a04"/>《涅槃》、《法華》，誦《淨名經》，<placeName key="CN0320503Z01AA">吳國</placeName><persName key="A002990">張緒</persName>禮事之。後<lb ed="T" n="0409a05"/>居<placeName key="CN0330183T02AA">富陽縣泉林寺</placeName>。<placeName key="CN0330183T02AA">寺</placeName>常有鬼怪，自<persName key="A002359">琳</persName>居<placeName key="CN0330183T02AA">之</placeName>，<lb ed="T" n="0409a06"/>則消。<persName key="A002359">琳</persName>弟子<persName key="A003424">慧韶</persName>，為屋所<ptr target="fn01"/>押，頭陷入<ptr target="fn02"/>肩，<lb ed="T" n="0409a07"/><persName key="A002359">琳</persName>為祈請。<persName key="A003424">韶</persName>夜見兩<ptr target="fn03"/>梵道人拔出其頭，旦<lb ed="T" n="0409a08"/>起遂平復。<persName key="A002359">琳</persName>於是設聖僧齋，鋪新帛於床<lb ed="T" n="0409a09"/>上，齋畢，見帛上有人迹，皆長三尺餘，眾咸<lb ed="T" n="0409a10"/>服其徵感。<placeName key="CN0330183Z03AA">富陽</placeName>人始家家立聖僧坐以飯<lb ed="T" n="0409a11"/>之。至<date key="j19045261910667" notAfter-iso="0519" notBefore-iso="0502">梁初</date>，<persName key="A002359">琳</persName>出居<placeName key="CN0330183T03AA">齊熙寺</placeName>。<date key="j19106681911021" from-iso="0519-02-17" to-iso="0520-02-05">天監十八年</date>卒，<lb ed="T" n="0409a12"/>春秋七十有三。</p><p><lb ed="T" n="0409a13"/>論曰：諷誦之利大矣，而成其功者希焉。良<lb ed="T" n="0409a14"/>由總持難得，惛忘易生。如經所說，止復一<lb ed="T" n="0409a15"/>句一偈，亦是聖所稱美。是以<persName key="A002339">曇邃</persName>通神於石<lb ed="T" n="0409a16"/>塢，<persName key="A002342">僧生</persName>感衛於空<ptr target="fn4"/>中，<persName key="A002344">道冏</persName>臨危而獲濟，<persName key="A002345">慧<lb ed="T" n="0409a17"/>慶</persName>將沒而蒙全。斯皆實德內充，故使徵應外<lb ed="T" n="0409a18"/>啟。經云：「六牙降室，四王衛座。」豈粵虛哉？若<lb ed="T" n="0409a19"/>迺凝寒<ptr target="fn5"/>靖夜，朗月長宵，獨處閑房，吟諷經<lb ed="T" n="0409a20"/>典，音吐<ptr target="fn6"/>遒亮，文字分明。足使幽<ptr target="fn7"/>靈忻踊，精<lb ed="T" n="0409a21"/>神暢悅。所謂歌<ptr target="fn8"/>詠誦法言，以此為音樂<lb ed="T" n="0409a22"/>者也。</p><p><lb ed="T" n="0409a23"/>讚曰：法身既遠，所寄者辭。沈吟反復，惠利<lb ed="T" n="0409a24"/>難思。無怠三業，有競六時。化人乃衛，變<lb ed="T" n="0409a25"/>眾<ptr target="fn9"/>來<ptr target="fn10"/>比。此焉實德，誰與較之？
+    </p>
+    
+    
+    
+    
+    
+    <linkGrp>
+        <link targets="#0409a04 #0409a04"/>
+        <ptr target="#A002359" type="person"/>
+        <ptr target="#A002990" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0409a04 #0409a05"/>
+        <ptr target="#A002359" type="person"/>
+        <ptr target="#CN0330183T02AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0409a06 #0409a10"/>
+        <ptr target="#A002359" type="person"/>
+        <ptr target="#A003424" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0409a11 #0409a11"/>
+        <ptr target="#A002359" type="person"/>
+        <ptr target="#CN0330183T03AA" type="place"/>
+        <ptr target="#j19045261910667" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0409a11 #0409a12"/>
+        <ptr target="#A002359" type="person"/>
+        <ptr target="#j19106681911021" type="time"/>
+    </linkGrp>
+</div>

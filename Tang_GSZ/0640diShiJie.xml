@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0664b08diShiJie">
+    <p><anchor n="T.50.2060.0664b08"/><lb ed="T" n="0664b08"/><date key="j19500921958507" notAfter-iso="0650" notBefore-iso="0627">貞觀年中</date>。遼西<placeName key="CN0211302Z08AA">柳城</placeName>靺鞨名<persName key="A007003">帝示階</persName>者。年<lb ed="T" n="0664b09"/>十八時逃入<placeName key="KPPYOTS00E01AA">高麗</placeName>。拾得二寸許銅像。不知<lb ed="T" n="0664b10"/>何神明。安皮袋中。每有飲噉酒肉。拔出祭<lb ed="T" n="0664b11"/>之。逢<placeName key="KPPYOTS00E01AA">高麗</placeName>捉獲。具說<persName key="A007003">我</persName>是北邊<placeName key="CN0230422Z06AA">靺鞨</placeName>。不信<lb ed="T" n="0664b12"/>謂是細作。斫之三刀不傷皮肉。疑是神人。<lb ed="T" n="0664b13"/>問有何道術。答曰無也。唯供養神明而已。<lb ed="T" n="0664b14"/>乃出示之。曰此我國中佛也。因說本末。看<lb ed="T" n="0664b15"/>像背上有三刀痕。遂放<persName key="A007003">之</persName>令往<placeName key="CN0000000E24AA">唐國</placeName>。彼大<lb ed="T" n="0664b16"/>有佛事。可諮問也。<persName key="A007003">其人</persName>得信在懷深厭俗<lb ed="T" n="0664b17"/>網。今在<placeName key="CN0110104Z08AA">幽州</placeName>出家。大聰明有儀止。巡講採<lb ed="T" n="0664b18"/>聽。隨聞便解。有疑錄出。以問者皆深隱。遠<lb ed="T" n="0664b19"/>思者難之。</p>
+    <linkGrp>
+        <link targets="#0664b08 #0664b08"/>
+        <ptr target="#A007003" type="person"/>
+        <ptr target="#CN0211302Z08AA" type="place"/>
+        <ptr target="#j19500921958507" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0664b09 #0664b15"/>
+        <ptr target="#A007003" type="person"/>
+        <ptr target="#KPPYOTS00E01AA" type="place"/>
+        </linkGrp>
+    <linkGrp>
+        <link targets="#0664b17 #0664b19"/>
+        <ptr target="#A007003" type="person"/>
+        <ptr target="#CN0110104Z08AA" type="place"/>
+        </linkGrp>
+</div>

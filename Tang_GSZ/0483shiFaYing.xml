@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0580a04shiFaYing">
+    <p><anchor n="T.50.2060.0580a04"/><lb ed="T" n="0580a04"/><persName key="A006123">釋法應</persName>。姓王氏。<placeName key="CN0330602Z02AA">東<ptr target="fn01"/>越會稽</placeName>人。生自孩孺性<lb ed="T" n="0580a05"/>度沈默。隨住緣想幽思難移。<date key="j19277881928152" from-iso="0566-01-01" to-iso="0566-12-31">弱冠</date>出家。事<lb ed="T" n="0580a06"/>沙門<persName key="A005988">曇崇</persName>。學宗禪業。見于別傳。時值<ptr target="fn02"/><date key="j19245481926743" notAfter-iso="0563" notBefore-iso="0557">周初</date><lb ed="T" n="0580a07"/>定門初闢。奉法履行。亘道相<ptr target="fn03"/>趨。<persName key="A006123">應</persName>於門<lb ed="T" n="0580a08"/>學殊為稱首。後逢<date key="j19307491932344" notAfter-iso="0578" notBefore-iso="0574">周禍</date>避迹<placeName key="CN0610125M01AA">終南</placeName>。飯衣松<lb ed="T" n="0580a09"/>蘿潛形六載。專修念慧用祛夙罪。精厲所<lb ed="T" n="0580a10"/>及法門彌<ptr target="fn04"/>淨。心用攸厝妄境斯澄。屢感虎<lb ed="T" n="0580a11"/>狼蹲踞廬側。或入門內似有相因。<persName key="A006123">應</persName>素體<lb ed="T" n="0580a12"/>生緣。又閑禪病。對猶家犬。為受三歸。自爾<lb ed="T" n="0580a13"/>馴狎更繁其類。<ptr target="fn05"/><date key="j19333311935151" notAfter-iso="0586" notBefore-iso="0581">隋開入度</date>。還事<persName key="A005988">崇公</persName>。定<lb ed="T" n="0580a14"/>業既深偏蒙印可。徒眾五百並委維持。教授<lb ed="T" n="0580a15"/>獎擢允開眾望。<date key="j19373341937688" from-iso="0592-02-20" to-iso="0593-02-08">開皇十二年</date>。有勅令搜簡<lb ed="T" n="0580a16"/>三學業長者。海內通化崇於禪府。選得二十<lb ed="T" n="0580a17"/>五人。其中行解高者。<persName key="A006123">應</persName>為其長。勅城內別<lb ed="T" n="0580a18"/>置五眾。各使一人曉夜教習。<persName key="A006123">應</persName>領徒三百。<lb ed="T" n="0580a19"/>於<ptr target="fn06"/><placeName key="CN0610103T48AA">實際寺</placeName>相續傳業。四事供養並出有司。<lb ed="T" n="0580a20"/>聲聞惟遠。下勅賜帛三百段。仍用造經一<lb ed="T" n="0580a21"/>藏。親躬受持。以<date key="j19469511947700" notAfter-iso="0620" notBefore-iso="0618">武德初年</date>素無所患。云<persName key="A006123">吾</persName><lb ed="T" n="0580a22"/>今將逝。已有香華見迎。言已卒於<placeName key="CN0610102T25AA">清禪寺</placeName>。<lb ed="T" n="0580a23"/>春秋八十矣。</p>
+    <linkGrp>
+        <link targets="#0580a04 #0580a04"/>
+        <ptr target="#A006123" type="person"/>
+        <ptr target="#CN0330602Z02AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0580a05 #0580a08"/>
+        <ptr target="#A005988" type="person"/>
+        <ptr target="#A006123" type="person"/>
+        <ptr target="#j19277881928152" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0580a08 #0580a12"/>
+        <ptr target="#A006123" type="person"/>
+        <ptr target="#CN0610125M01AA" type="place"/>
+        <ptr target="#j19307491932344" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0580a13 #0580a15"/>
+        <ptr target="#A005988" type="person"/>
+        <ptr target="#A006123" type="person"/>
+        <ptr target="#j19333311935151" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0580a15 #0580a20"/>
+        <ptr target="#A006123" type="person"/>
+        <ptr target="#CN0610103T48AA" type="place"/>
+        <ptr target="#j19373341937688" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0580a22 #0580a23"/>
+        <ptr target="#A006123" type="person"/>
+        <ptr target="#CN0610102T25AA" type="place"/>
+        <ptr target="#j19469511947700" type="time"/>
+    </linkGrp>
+</div>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0917b14shiJingYuan">
+  <p><anchor n="T.50.2062.0917b14"/><lb ed="T" n="0917b14"/><persName key="A008404">釋景元</persName>號<persName key="A008404">此菴</persName>。溫州<placeName key="CN0330302Z07AA">永嘉</placeName>張氏子也。<date key="j21268512127215" from-iso="1111-01-08" to-iso="1112-01-07">年十八</date><lb ed="T" n="0917b15"/>依靈山<!--找不到此地--><persName key="A008405">希拱和尚</persName>圓具戒。習台教三[禾*冀]。棄<lb ed="T" n="0917b16"/>去謁<persName key="A001411">圓悟勤禪師</persName>於<placeName key="CN0320102M02AA">鍾阜</placeName>。聞僧讀<persName key="A008395">死心和尚</persName><lb ed="T" n="0917b17"/>小參語。云。既迷須得箇悟。既悟須識悟中<lb ed="T" n="0917b18"/>迷迷中悟。迷悟雙忘却從無迷悟處建立<lb ed="T" n="0917b19"/>一切法。<persName key="A008404">元</persName>聞而疑。即趨佛殿以手托開門<lb ed="T" n="0917b20"/>扉。豁然大徹機辯逸發。<persName key="A001411">圓悟</persName>目為<persName key="A008404">聱頭元侍<lb ed="T" n="0917b21"/>者</persName>。<persName key="A001411">悟</persName>自讚像付之曰。生平只說聱頭禪。撞<lb ed="T" n="0917b22"/>著聱頭如鐵壁。脫却羅籠截脚跟。大地撮<lb ed="T" n="0917b23"/>來墨漆黑。晚年轉復沒刀刀。奮金剛椎碎<lb ed="T" n="0917b24"/>窠窟。他時要識<persName key="A001411">圓悟</persName>面。一為渠儂併坫出。<lb ed="T" n="0917b25"/>自爾鏟彩埋光不求聞達。後為<placeName key="CN0331102Z12AA">括蒼</placeName>太守<lb ed="T" n="0917b26"/><persName key="A008406">耿延禧</persName>慕<persName key="A008404">元</persName>欲致開法南明<!--找不到此地-->。物色得<persName key="A008404">元</persName>於<lb ed="T" n="0917b27"/><placeName key="CN0331023Z04AA">台</placeName>之報恩<!--找不到此地-->。迫其受命。僧問。三聖道。我逢人<lb ed="T" n="0917b28"/>即出。出則不為人。意旨如何。曰八十翁翁<lb ed="T" n="0917b29"/>嚼生鐵。僧又問。興化道。我逢人即不出。出<lb ed="T" n="0917c01"/>則便為人。又作麼生。曰須彌頂上浪翻空。<lb ed="T" n="0917c02"/><persName key="A008404">元</persName>後示疾。請西堂<!--找不到此地-->應庵華付囑院事。訓徒<lb ed="T" n="0917c03"/>如常時。俄握拳而逝。荼毘得五色舍利。齒<lb ed="T" n="0917c04"/>舌右拳不壞。塔于寺<!--找不到此地-->東北<placeName key="CN0331023A05AA">劉阮洞</placeName>前。世壽五<lb ed="T" n="0917c05"/>十三。<lb ed="T" n="0917c06"/>系曰。<persName key="A000475">大慧</persName>既<persName key="A008388">雲峯悅</persName>之再來。可謂具大根<lb ed="T" n="0917c07"/>器者。尚受湛堂痛拶不入。至三十餘方觸<lb ed="T" n="0917c08"/><persName key="A001411">圓悟</persName>鉗鎚。始得大悟。今<persName key="A008404">元公</persName>年方<date key="j21279472128311" from-iso="1114-01-08" to-iso="1115-01-07">二十一</date>。<lb ed="T" n="0917c09"/>聽傍僧讀<persName key="A008395">死心</persName>語便乃徹證。其根器之利過<lb ed="T" n="0917c10"/>於<persName key="A000475">大慧</persName>概可知也。出世初住南明<!--找不到此地-->終居<placeName key="CN0331023T13AA">護<lb ed="T" n="0917c11"/>國</placeName>。叢林稱為<persName key="A008404">元布袋</persName>。以其有聖者之風。耳<lb ed="T" n="0917c12"/>簡堂機出于其門。說法拈椎詞雄氣偉機鋒<lb ed="T" n="0917c13"/>圓捷。益見<persName key="A008404">元公</persName>之垣墻者矣。</p>
+  <linkGrp>
+    <link targets="#0917b15 #0917b16"/>
+    <ptr target="#A008404" type="person"/>
+    <ptr target="#A001411" type="person"/>
+    <ptr target="#CN0320102M02AA" type="place"/>
+  </linkGrp>
+  <linkGrp>
+    <link targets="#0917c10 #0917c11"/>
+    <ptr target="#A008404" type="person"/>
+    <ptr target="#CN0331023T13AA" type="place"/>
+  </linkGrp>
+  <linkGrp>
+    <link targets="#0917b14 #0917b15"/>
+    <ptr target="#A008404" type="person"/>
+    <ptr target="#A008405" type="person"/>
+    <ptr target="#j21268512127215" type="time"/>
+  </linkGrp>
+</div>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0698a22shiHuiZhen">
+    <p><anchor n="T.50.2060.0698a22"/><lb ed="T" n="0698a22"/><persName key="A007549">釋慧震</persName>。姓龐。住梓州<placeName key="CN0510722T02AA">通泉寺</placeName>。身長八尺。後<lb ed="T" n="0698a23"/>聽<persName key="A004773">暠師</persName>三論。大領玄旨。福力所被<placeName key="CN0510108Z02AA">蜀部</placeName>遙<lb ed="T" n="0698a24"/>推。<persName key="A004773">暠</persName>之還南。得袈裟<ptr target="fn07"/>二百領以贈路首。<lb ed="T" n="0698a25"/>每年正月轉藏經。千人袈裟奉施無闕。常<lb ed="T" n="0698a26"/>弘三論聽眾百餘。忽於高座似悶見人。語<lb ed="T" n="0698a27"/>曰。西山頭好造大佛。既覺下座。領眾案行。<lb ed="T" n="0698a28"/>中堪造像兩邊泉流。即命石工鐫鏨座身。<lb ed="T" n="0698a29"/>高百三十尺。<date key="j19526611953014" from-iso="0634-02-07" to-iso="0635-01-26">貞觀八年</date>。周備成就。四面都集。<lb ed="T" n="0698b01"/>道俗三萬慶此尊儀。其像口中放大白光。遠<lb ed="T" n="0698b02"/>近同奉。先有一馬日行五<ptr target="fn08"/>百。曾經入陣餘<lb ed="T" n="0698b03"/>馬並死。<ptr target="fn＊"/>惟此得還。至<date key="j19550231955052" from-iso="0640-07-27" to-iso="0640-08-25">十四年七月</date>。忽自嘶<lb ed="T" n="0698b04"/>鳴。不食三日。<persName key="A007549">震</persName>聞毛竪。有一異僧名為<persName key="A005509">十<lb ed="T" n="0698b05"/>力</persName>。語<persName key="A007549">震</persName>曰。馬與主別。<ptr target="fn09"/>主當先行。來年<date key="j19552441955244" when-iso="0641-03-05">正<lb ed="T" n="0698b06"/>月十五日</date>。日正中時應入涅槃。<persName key="A007549">法師</persName>須散<lb ed="T" n="0698b07"/>財物無留於後於身何益。言已而隱。莫<lb ed="T" n="0698b08"/>知其由。先造藏經。請僧常轉開大施門。四<lb ed="T" n="0698b09"/>遠悲敬來者皆給。至終年初又請眾僧。讀<lb ed="T" n="0698b10"/>經行道作三七日。俗緣昆季內外皆集。至於<lb ed="T" n="0698b11"/>八日香氣欝勃充滿寺中。傾邑道俗共聞<lb ed="T" n="0698b12"/>異香。捨散山積。至十五日氣猶不歇。從旦<lb ed="T" n="0698b13"/>至午寺內樹木土地皆生蓮華。眾覩奇瑞<lb ed="T" n="0698b14"/>知其即世。<persName key="A007549">震</persName>曰。嘉相已現不容待滿。便行<lb ed="T" n="0698b15"/>嚫施。早食訖手執香爐。繞<persName key="A004206">盧舍那</persName>三匝。還<lb ed="T" n="0698b16"/>於佛前<ptr target="fn10"/>胡跪正念。大眾滿堂。不覺已逝。春<lb ed="T" n="0698b17"/>秋六十有六。停喪待滿香氣猶存。兄弟三人<lb ed="T" n="0698b18"/>各捨五十萬。於墓所作僧德施及以悲田。<lb ed="T" n="0698b19"/>作石塔高五丈。龕安繩床。扶屍置上。經<lb ed="T" n="0698b20"/>百餘日猶不委仆。道俗萬餘悲<ptr target="fn11"/>涼相<ptr target="fn12"/>結<lb ed="T" n="0698b21"/><ptr target="fn13"/>云。</p>    
+    <linkGrp>
+        <link targets="#0698a22 #0698a24"/>
+        <ptr target="#A007549" type="person"/>
+        <ptr target="#A004773" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0698a22 #0698a29"/>
+        <ptr target="#A007549" type="person"/>
+        <ptr target="#CN0510722T02AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0698b02 #0698b08"/>
+        <ptr target="#A007549" type="person"/>
+        <ptr target="#A005509" type="person"/>
+        <ptr target="#CN0510722T02AA" type="place"/>
+        <ptr target="#j19550231955052" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0698b09 #0698b17"/>
+        <ptr target="#A007549" type="person"/>
+        <ptr target="#CN0510722T02AA" type="place"/>
+        <ptr target="#j19552441955244" type="time"/>
+    </linkGrp>
+</div>

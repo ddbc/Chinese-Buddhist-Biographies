@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0484b03shiHuiShun">
+    <p><anchor n="T.50.2060.0484b03"/><lb ed="T" n="0484b03"/><persName key="A005275">釋<ptr target="fn06"/>慧順</persName>。姓崔。齊人侍中<persName key="A002054">崔光</persName>之弟也。少愛<lb ed="T" n="0484b04"/>儒宗統知雅趣。長厭塵網為居士焉。初<lb ed="T" n="0484b05"/>聽涅槃略無遺義。因講而睡聞有言曰。此<lb ed="T" n="0484b06"/>解乃明猶未為極。心遂遲疑伺決其病。承<lb ed="T" n="0484b07"/><placeName key="CN0410322Z24AA">都</placeName>下有<persName key="A006354">光律師</persName>者廣涉大乘文無不曉。因<lb ed="T" n="0484b08"/>往<placeName key="CN0410322Z24AA">洛陽</placeName>。時年二十有五。即投<persName key="A006354">光</persName>而出家焉。<lb ed="T" n="0484b09"/>寓於門下。纂修地旨倦無終食。歲紀相尋。<lb ed="T" n="0484b10"/>證教兩途。銳鏡於心內。三持三聚。影現於<lb ed="T" n="0484b11"/>神外。博見融冶陶然有餘。講十地地持華嚴<lb ed="T" n="0484b12"/>維摩。並立疏記。年將知命。欲以大法弘<lb ed="T" n="0484b13"/>利<placeName key="CN0370302Z07AA">本鄉</placeName><!-- 詳參規範資料庫-崔光詞條 -->。即傳歸戒情無不愜。隨有講會眾<lb ed="T" n="0484b14"/>必千餘。精誠之響廣流<placeName key="CN0000000E01AA">東夏</placeName>。故齊趙瀛冀有<lb ed="T" n="0484b15"/>奉信者。咸稟其風焉。僕射<persName key="A005299">祖孝徵</persName>。欽尚厥<lb ed="T" n="0484b16"/>德奏為國都。年七十有二終於<placeName key="CN0130423Z23AA">鄴</placeName>下之<placeName key="CN0130423T09AA">總持<lb ed="T" n="0484b17"/>寺</placeName>。當終之日身心清卓。專念平等而為心<lb ed="T" n="0484b18"/>印。然順族胄菁華言<ptr target="fn07"/>成世範。<ptr target="fn＊"/>慧解騰譽事<lb ed="T" n="0484b19"/>義<ptr target="fn08"/>深沈。而志存順法不局一方。衣略鮮<lb ed="T" n="0484b20"/>華食無兼味。受施尋散情闕愛憎。形寄任<lb ed="T" n="0484b21"/>緣未依夏臘。進止在益不顧己損。言行適<lb ed="T" n="0484b22"/>時不與物諍。故傳者具<ptr target="fn09"/>書。不敢遺其事<lb ed="T" n="0484b23"/>行矣。</p>
+    <linkGrp>
+        <link targets="#0484b03 #0484b03"/>
+        <ptr target="#A005275" type="person"/>
+        <ptr target="#A002054" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0484b06 #0484b09"/>
+        <ptr target="#A005275" type="person"/>
+        <ptr target="#A006354" type="person"/>
+        <ptr target="#CN0410322Z24AA" type="place"/>
+    </linkGrp> 
+    <linkGrp>
+        <link targets="#0484b12 #0484b14"/>
+        <ptr target="#A005275" type="person"/>
+        <ptr target="#CN0370302Z07AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0484b15 #0484b16"/>
+        <ptr target="#A005275" type="person"/>
+        <ptr target="#A005299" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0484b16 #0484b18"/>
+        <ptr target="#A005275" type="person"/>
+        <ptr target="#CN0130423T09AA" type="place"/>
+        </linkGrp>  
+</div>

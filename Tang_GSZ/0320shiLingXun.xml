@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0484c20shiLingXun">
+    <p><anchor n="T.50.2060.0484c20"/><lb ed="T" n="0484c20"/><persName key="A005280">釋靈詢</persName>。姓傅氏。<placeName key="CN0110228Z36AA">漁陽</placeName>人也。少年入道。學成<lb ed="T" n="0484c21"/>實論并涅槃經。窮其幽府。又於論中刪要<lb ed="T" n="0484c22"/>兩卷注而釋之。盛行於世。後棄小道崇仰<lb ed="T" n="0484c23"/><persName key="A006354">光公</persName>。曉夕研尋十有餘載。纖旨祕教備知通<lb ed="T" n="0484c24"/>塞。雖博知群籍。而擅出維摩。兼有疏記。至<lb ed="T" n="0484c25"/>遷京<placeName key="CN0130423Z23AA">漳鄴</placeName>。遊歷<placeName key="CN0130000E01AA">燕趙</placeName>化霑四眾。邪正分焉。<lb ed="T" n="0484c26"/>而書畫有<ptr target="fn16"/>工頗愛篇什。文筆之華時所推<lb ed="T" n="0484c27"/>舉。美客貌善風儀。詞辯雅淨聽者無撓。初<lb ed="T" n="0484c28"/>為國都。<ptr target="fn17"/><date key="j19206811922103" notAfter-iso="0550" notBefore-iso="0546">魏末</date>為<placeName key="CN0140110Z01AA">并州</placeName>僧統。<date key="j19221051924544" notAfter-iso="0557" notBefore-iso="0550">齊初</date>卒於<placeName key="CN0140110Z02AA">晉陽</placeName>。<lb ed="T" n="0484c29"/>時年六十九矣。</p>
+    <linkGrp>
+        <link targets="#0484c20 #0484c20"/>
+        <ptr target="#A005280" type="person"/>
+        <ptr target="#CN0110228Z36AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0484c22 #0484c23"/>
+        <ptr target="#A005280" type="person"/>
+        <ptr target="#A006354" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0484c24 #0484c25"/>
+        <ptr target="#A005280" type="person"/>
+        <ptr target="#CN0130423Z23AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0484c24 #0484c25"/>
+        <ptr target="#A005280" type="person"/>
+        <ptr target="#CN0130000E01AA" type="place"/>
+    </linkGrp>  
+    <linkGrp>
+        <link targets="#0484c28 #0484c28"/>
+        <ptr target="#A005280" type="person"/>
+        <ptr target="#CN0140110Z01AA" type="place"/>
+        <ptr target="#j19206811922103" type="time"/>
+    </linkGrp>  
+    <linkGrp>
+        <link targets="#0484c28 #0484c29"/>
+        <ptr target="#A005280" type="person"/>
+        <ptr target="#CN0140110Z02AA" type="place"/>
+        <ptr target="#j19221051924544" type="time"/>
+    </linkGrp>  
+</div>

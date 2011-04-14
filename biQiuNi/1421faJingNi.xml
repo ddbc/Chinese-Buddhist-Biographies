@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="bqnz0941b03faJingNi">
+    <head><placeName key="CN0320106T39AA">普賢寺</placeName><persName key="A015444">法淨</persName>尼<ptr target="fn19"/>傳二十二</head><p><anchor n="T.50.2063.0941b04"/><lb ed="T" n="0941b04"/><persName key="A015444">法淨</persName>，<placeName key="CN0000000E11AA">江北</placeName>人也。<date key="j18773841877749" from-iso="0428-01-01" to-iso="0428-12-31">年二十</date>值亂，隨父避地<placeName key="CN0320115Z36AA">秣陵</placeName>，<lb ed="T" n="0941b05"/>門修釋教。<persName key="A015444">淨</persName>少出家，住<placeName key="CN0320114T07AA">永福寺</placeName>。戒行清潔，明<lb ed="T" n="0941b06"/>於事理，<ptr target="fn20"/>沈思精研，深究義奧，與<persName key="A015417">寶賢</persName>尼名輩<lb ed="T" n="0941b07"/>略齊。<persName key="A002652">宋明皇帝</persName>異之，<date from-iso="0466-01-10" key="j18912731891295" to-iso="0466-02-01">泰始元年</date>勅住<placeName key="CN0320106T39AA">普賢寺</placeName>，<lb ed="T" n="0941b08"/>宮內接遇，禮兼師友。<date from-iso="0466-02-02" key="j18912961891649" to-iso="0467-01-21">二年</date>，勅為<placeName key="CN0320106Z05AA">京邑</placeName>都維那，<lb ed="T" n="0941b09"/>在事公正，確然殊絕，隨方引汲，<ptr target="fn21"/>歸德如流。<placeName key="CN0400000E02AA">荊<lb ed="T" n="0941b10"/>楚</placeName>諸尼及通家婦女，莫不遠修書嚫，求結知<lb ed="T" n="0941b11"/>識。其陶治德風，皆<ptr target="fn22"/>類此也。諮其戒範者七百<lb ed="T" n="0941b12"/>人。年六十五，<ptr target="fn＊"/><date from-iso="0473-02-14" key="j18938651894219" to-iso="0474-02-03">元徽元年</date>卒<ptr target="fn＊"/>也。</p>
+    
+    
+    
+    <linkGrp>
+        <link targets="#0941b07 #0941b07"/>
+        <ptr target="#A015444" type="person"/>
+        <ptr target="#A002652" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0941b08 #0941b09"/>
+        <ptr target="#A015444" type="person"/>
+        <ptr target="#CN0320115Z36AA" type="place"/>
+        <ptr target="#CN0320106Z05AA" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0941b12 #0941b12"/>
+        <ptr target="#A015444" type="person"/>
+        <ptr target="#j18938651894219" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0941b04 #0941b05"/>
+        <ptr target="#A015444" type="person"/>
+        <ptr target="#CN0320115Z36AA" type="place"/>
+        <ptr target="#j18773841877749" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0941b05 #0941b06"/>
+        <ptr target="#A015444" type="person"/>
+        <ptr target="#CN0320114T07AA" type="place"/>
+        </linkGrp>
+    <linkGrp>
+        <link targets="#0941b07 #0941b08"/>
+        <ptr target="#A015444" type="person"/>
+        <ptr target="#CN0320106T39AA" type="place"/>
+        <ptr target="#j18912731891295" type="time"/>
+    </linkGrp>
+</div>

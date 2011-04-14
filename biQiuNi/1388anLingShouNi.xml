@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="bqnz0935a06anLingShouNi">
+    <head>偽趙<placeName key="CN0000000T07AA">建賢寺</placeName><persName key="A012797">安令首</persName>尼傳二</head><p><anchor n="T.50.2063.0935a07"/><lb ed="T" n="0935a07"/><persName key="A012797">安令首</persName>，本姓徐，<placeName key="CN0371323Z21AA">東莞</placeName>人<ptr target="fn＊"/>也。父<persName key="A012798">忡</persName>，仕偽趙，<ptr target="fn3"/>為<lb ed="T" n="0935a08"/>外兵<ptr target="fn4"/>郎。<persName key="A012797">令首</persName>幼聰敏好學，言論清綺，雅性虛<lb ed="T" n="0935a09"/>淡，不樂人間，從容閑靜，以佛法自娛，不願求<lb ed="T" n="0935a10"/>娉。<ref target="#A012798" type="person">父</ref>曰：「<persName key="A012797">汝</persName>應外屬，何得如此？」<persName key="A012797">首</persName>曰：「端心業道，<lb ed="T" n="0935a11"/>絕想人外，毀譽不動，廉正自足。何必三從，然<lb ed="T" n="0935a12"/>後為禮？」<ref target="#A012798" type="person">父</ref>曰：「<ref target="#A012797" type="person">汝</ref>欲獨善一身，何能兼濟父母？」<lb ed="T" n="0935a13"/><persName key="A012797">首</persName>曰：「立身行道，方欲度脫一切，何況二親耶？」<lb ed="T" n="0935a14"/><persName key="A012798">忡</persName>以問<persName key="A002277">佛圖澄</persName>，<persName key="A002277">澄</persName>曰：「<ref target="#A012798" type="person">君</ref>歸家，潔齋三日竟，可<lb ed="T" n="0935a15"/>來。」<persName key="A012798">忡</persName>從之。<persName key="A002277">澄</persName><ptr target="fn5"/>以<ptr target="fn6"/>茵支子磨麻油傅<persName key="A012798">忡</persName>右掌，<lb ed="T" n="0935a16"/>令<persName key="A012798">忡</persName>視之。見一沙門在大眾中說法，形狀似<lb ed="T" n="0935a17"/>女。具以白<persName key="A002277">澄</persName>。<persName key="A002277">澄</persName>曰：「是<ref target="#A012798" type="person">君</ref><ref target="#A012797" type="person">女</ref>先身，出家益物。往<lb ed="T" n="0935a18"/>事如此，若從<ref target="#A012797" type="person">其</ref>志，方當榮拔六親，令<persName key="A012798">君</persName>富貴。<lb ed="T" n="0935a19"/>生死大苦<ptr target="fn7"/>海，向得其邊。」<persName key="A012798">忡</persName>還許之。<persName key="A012797">首</persName>便剪落，<lb ed="T" n="0935a20"/>從<persName key="A002277">澄</persName>乃<persName key="A010336">淨撿尼</persName>受戒，立<placeName key="CN0000000T07AA">建賢寺</placeName>。<persName key="A002277">澄</persName>以<persName key="A002888">石勒</persName>所<lb ed="T" n="0935a21"/>遺剪花納七條衣及象鼻澡<ptr target="fn8"/>灌與<ref target="#A012797" type="person">之</ref>。博覽群<lb ed="T" n="0935a22"/>籍，經目必誦，思致淵深，神照詳遠。一時道<ptr target="fn9"/>學，<lb ed="T" n="0935a23"/>莫不宗焉。因其出家者二百餘人，又造<ptr target="fn10"/>五<lb ed="T" n="0935a24"/><ptr target="fn11"/>六精舍，匪憚勤苦，皆得修立。<persName key="A002743">石虎</persName>敬<ref target="#A012797" type="person">之</ref>，擢<lb ed="T" n="0935a25"/><ptr target="fn12"/>父<persName key="A012798">忡</persName>為黃門侍郎、<placeName key="CN0371581Z27AA">清河</placeName>太守。</p>
+    <linkGrp>
+        <link targets="#0935a14 #0935a15"/>
+        <ptr target="#A012798" type="person"/>
+        <ptr target="#A002277" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0935a19 #0935a20"/>
+        <ptr target="#A012797" type="person"/>
+        <ptr target="#A002277" type="person"/>
+        <ptr target="#A010336" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0935a20 #0935a20"/>
+        <ptr target="#A012797" type="person"/>
+        <ptr target="#CN0000000T07AA" type="place"/>
+    </linkGrp>
+        <linkGrp>
+            <link targets="#0935a07 #0935a07"/>
+            <ptr target="#A012797" type="person"/>
+            <ptr target="#A012798" type="person"/>
+            </linkGrp>
+    <linkGrp>
+        <link targets="#0935a24 #0935a25"/>
+        <ptr target="#A012798" type="person"/>
+        <ptr target="#CN0371581Z27AA" type="place"/>
+        </linkGrp>
+</div>

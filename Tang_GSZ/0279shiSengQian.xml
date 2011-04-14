@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0461c10shiSengQian">
+    <head><placeName key="CN0320101T62AA">梁楊都靈根寺</placeName>沙門<persName key="A005030">釋僧遷</persName>傳七</head><p><anchor n="T.50.2060.0461c10"/><lb ed="T" n="0461c10"/><persName key="A005030">釋僧遷</persName>。姓樂氏。<placeName key="CN0420607Z43AA">襄陽杜</placeName>人。<ptr target="fn20"/>幼出家。進忠退<lb ed="T" n="0461c11"/>儉早協州鄉。晚遊<placeName key="CN0320106Z05AA">都邑</placeName>住<placeName key="CN0320101T62AA">靈根寺</placeName>。却掃一<lb ed="T" n="0461c12"/>房淨若仙觀。潔整衣服塵水不染。從<placeName key="CN0320102T20AA">靈味<lb ed="T" n="0461c13"/>寺</placeName><persName key="A001921">寶亮</persName>諮學經論。文理通達籍甚知名。性<lb ed="T" n="0461c14"/>方稜不撓高自崇遇。若非意得罕所賓接。<lb ed="T" n="0461c15"/><persName key="A002098">武帝</persName>以家僧引<persName key="A005030">之</persName>。<persName key="A005031">吳平侯蕭昺</persName>。亦遇<persName key="A005030">之</persName>以<lb ed="T" n="0461c16"/>禮。<date key="j19100181910106" from-iso="0517-05-08" to-iso="0517-08-04">天監十六年夏</date>。<persName key="A002098">帝</persName>嘗夜見沙門<ptr target="fn＊"/><persName key="A005032">慧詡</persName>。他<lb ed="T" n="0461c17"/>日因<ptr target="fn21"/>計法會。<persName key="A005030">遷</persName>問<persName key="A005032">詡</persName>曰。<persName key="A002098">御</persName>前夜何所道。<persName key="A005032">詡</persName><lb ed="T" n="0461c18"/>曰。<persName key="A005030">卿</persName>何忽問此。而言氣甚厲。<persName key="A005030">遷</persName>抗聲曰。<persName key="A005030">我</persName><lb ed="T" n="0461c19"/>與<persName key="A005032">卿</persName>同出<placeName key="CN0320106Z02AA">西州</placeName>俱為沙門。<persName key="A005032">卿</persName>一時邀逢<persName key="A002098">天</persName><lb ed="T" n="0461c20"/>接。便欲<ptr target="fn22"/>陵駕儕黨。<persName key="A005030">我</persName>惟事佛。視<persName key="A005032">卿</persName>輩蔑<lb ed="T" n="0461c21"/>如也。眾人滿坐<persName key="A002098">御</persName>有慚忒。其<ptr target="fn23"/>為梗正皆類<lb ed="T" n="0461c22"/>此也。以<date key="j19121151912468" from-iso="0523-02-03" to-iso="0524-01-22">普通四年</date>卒。春秋五十九矣。</p>
+    <linkGrp>
+        <link targets="#0461c10 #0461c10"/>
+        <ptr target="#A005030" type="person"/>
+        <ptr target="#CN0420607Z43AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0461c10 #0461c11"/>
+        <ptr target="#A005030" type="person"/>
+        <ptr target="#CN0320106Z05AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0461c10 #0461c12"/>
+        <ptr target="#A005030" type="person"/>
+        <ptr target="#CN0320101T62AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0461c12 #0461c13"/>
+        <ptr target="#A005030" type="person"/>
+        <ptr target="#A001921" type="person"/>
+        <ptr target="#CN0320102T20AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0461c15 #0461c16"/>
+        <ptr target="#A005030" type="person"/>
+        <ptr target="#A002098" type="person"/>
+        <ptr target="#A005031" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0461c16 #0461c21"/>
+        <ptr target="#A005030" type="person"/>
+        <ptr target="#A002098" type="person"/>
+        <ptr target="#A005032" type="person"/>
+        <ptr target="#j19100181910106" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0461c22 #0461c22"/>
+        <ptr target="#A005030" type="person"/>
+        <ptr target="#j19121151912468" type="time"/>
+    </linkGrp>
+</div>

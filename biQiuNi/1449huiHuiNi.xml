@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="bqnz0947c03huiHuiNi">
+    <head><placeName key="CN0000000T18AA">樂安寺</placeName><ptr target="fn37"/><persName key="A016253">釋惠暉</persName>尼<ptr target="fn38"/>傳十二</head><p><anchor n="T.50.2063.0947c04"/><lb ed="T" n="0947c04"/><ptr target="fn＊"/><persName key="A016253">慧暉</persName>，本姓駱，青州<!--無法確定此地-->人也。<date key="j18843241884688" from-iso="0447-01-01" to-iso="0447-12-31">六歲</date>樂道，父母不<lb ed="T" n="0947c05"/>聽。至<date key="j18861501886515" from-iso="0452-01-01" to-iso="0452-12-31">年十一</date>，斷葷辛<ptr target="fn39"/>滋味，清虛淡朗，姿貌詳<lb ed="T" n="0947c06"/>雅，讀大涅槃經，誦<ptr target="fn40"/>法華經。及<date key="j18883421888706" from-iso="0458-01-01" to-iso="0458-12-31">年十七</date>，隨父出<lb ed="T" n="0947c07"/>都，精進勇猛，行人所不<ptr target="fn41"/>能行。父母愛焉，聽遂<lb ed="T" n="0947c08"/>其志。<date key="j18887071889071" from-iso="0459-01-01" to-iso="0459-12-31">十八</date>出家，住<placeName key="CN0000000T18AA">樂安寺</placeName>，從<persName key="A002244">斌</persName>、<persName key="A002988">濟</persName>、<persName key="A002262">柔</persName>、<persName key="A002264">次</persName>四法<lb ed="T" n="0947c09"/>師聽成實論及涅槃諸經，於十餘年中，欝為<lb ed="T" n="0947c10"/>義林，<placeName key="CN0320106Z05AA">京邑</placeName>諸尼無不<ptr target="fn42"/>諮受。於是法筵頻建，四<lb ed="T" n="0947c11"/>遠雲集，講說不休，禪誦無<ptr target="fn43"/>輟，標心正念，日夕<lb ed="T" n="0947c12"/>忘寢。王公貴賤無不敬重，十方<ptr target="fn44"/>嚫遺，四時殷<lb ed="T" n="0947c13"/>競。所獲之財，追造經像，隨宜遠施。時有不泄<lb ed="T" n="0947c14"/>者，改緝<placeName key="CN0000000T18AA">樂安寺</placeName>莫不新整。年七十三。<ptr target="fn＊"/><date from-iso="0514-02-12" key="j19088371909191" to-iso="0515-02-01">天監<lb ed="T" n="0947c15"/>十三年</date><ptr target="fn＊"/>而卒，葬于<placeName key="CN0000000T19AA">石頭崗</placeName>。</p><p>時復有<ptr target="fn＊"/>慧<ptr target="fn45"/>音，<lb ed="T" n="0947c16"/>以禮誦為業<ptr target="fn＊"/>也。</p>
+    <linkGrp>
+        <link targets="#0947c04 #0947c05"/>
+        <ptr target="#A016253" type="person"/>
+        <ptr target="#j18843241884688" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0947c05 #0947c06"/>
+        <ptr target="#A016253" type="person"/>
+        <ptr target="#j18861501886515" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0947c06 #0947c08"/>
+        <ptr target="#A016253" type="person"/>
+        <ptr target="#j18883421888706" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0947c14 #0947c15"/>
+        <ptr target="#A016253" type="person"/>
+        <ptr target="#j19088371909191" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0947c08 #0947c08"/>
+        <ptr target="#A016253" type="person"/>
+        <ptr target="#CN0000000T17AA" type="place"/>
+        <ptr target="#j18887071889071" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0947c08 #0947c08"/>
+        <ptr target="#A016253" type="person"/>
+        <ptr target="#A002244" type="person"/>
+        <ptr target="#j18887071889071" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0947c08 #0947c08"/>
+        <ptr target="#A016253" type="person"/>
+        <ptr target="#A002988" type="person"/>
+        <ptr target="#j18887071889071" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0947c08 #0947c08"/>
+        <ptr target="#A016253" type="person"/>
+        <ptr target="#A002262" type="person"/>
+        <ptr target="#j18887071889071" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0947c08 #0947c08"/>
+        <ptr target="#A016253" type="person"/>
+        <ptr target="#A002264" type="person"/>
+        <ptr target="#j18887071889071" type="time"/>
+    </linkGrp>
+</div>

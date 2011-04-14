@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0688a10shiBaoQiong">
+    <p><anchor n="T.50.2060.0688a10"/><lb ed="T" n="0688a10"/><persName key="A007464">釋寶瓊</persName>。馬氏。益州<placeName key="CN0510683Z09AA">綿竹</placeName>人。小年出家。清貞儉<lb ed="T" n="0688a11"/>素。讀誦大品兩日一遍。為常途業。歷遊<placeName key="CN0410302Z03AA"><lb ed="T" n="0688a12"/>邑<ptr target="fn03"/>落</placeName>無他方術。但勸信向尊敬佛法。晚移<lb ed="T" n="0688a13"/>州治住<placeName key="CN0510108T25AA">福壽寺</placeName>。率勵坊郭。邑義為先。每<lb ed="T" n="0688a14"/>結一邑必三十人。合誦大品人別一卷。月<lb ed="T" n="0688a15"/>營齋集各依次誦。如此義邑乃盈千計。四<lb ed="T" n="0688a16"/>遠聞者皆<ptr target="fn04"/>來造欵。<persName key="A007464">瓊</persName>乘機授化望風靡服。<lb ed="T" n="0688a17"/>而卑弱自持先人後德。經行擁鬧下道相<lb ed="T" n="0688a18"/>避。言問酬對怡聲謙敬。斯實量也不媚於<lb ed="T" n="0688a19"/>時。本邑連比<placeName key="CN0510682Z09AA">什邡</placeName>諸縣。並是道民尤不奉<lb ed="T" n="0688a20"/>佛。僧有投寄無容施者。致使老幼之徒<lb ed="T" n="0688a21"/>於沙門像不識者眾。<persName key="A007464">瓊</persName>雖桑梓習俗難改。<lb ed="T" n="0688a22"/>徒有開悟莫之能受。李氏諸族正作道會。<lb ed="T" n="0688a23"/>邀<persName key="A007464">瓊</persName>赴之。來既後至不禮而坐。僉謂不禮<lb ed="T" n="0688a24"/>天尊非法也。<persName key="A007464">瓊</persName>曰。邪正道殊所事各異。天<lb ed="T" n="0688a25"/>尚不禮何況<persName key="A002104">老君</persName>。眾議紜紜頗相<ptr target="fn05"/>凌侮。<persName key="A007464">瓊</persName><lb ed="T" n="0688a26"/>曰。<persName key="A007464">吾</persName>禮非所禮。恐貽辱也。遂禮一拜。道像<lb ed="T" n="0688a27"/>並座動搖不安。又禮一拜。連座返倒摧<ptr target="fn06"/>殘<lb ed="T" n="0688a28"/>在地。道民相視謂是風鼓競來周正。<persName key="A007464">瓊</persName>曰。斯<lb ed="T" n="0688a29"/><persName key="A007464">吾</persName>所為。勿妄怨也。<ptr target="fn07"/>初未之信。既安又禮。<lb ed="T" n="0688b01"/><ptr target="fn08"/>如前崩倒。合眾驚懼舉<ptr target="fn09"/>掌禮<persName key="A007464">瓊</persName>。一時迴<lb ed="T" n="0688b02"/>信從受<ptr target="fn10"/>戒法。傍縣道黨相將歎<ptr target="fn11"/>訝。咸復奉<lb ed="T" n="0688b03"/>法。時既創開釋化。皆<ptr target="fn12"/>授菩薩戒焉。縣令<lb ed="T" n="0688b04"/><persName key="A007465">高<ptr target="fn13"/>遠</persName>者。素有誠敬。承風敷<ptr target="fn14"/>導。更於州寺<lb ed="T" n="0688b05"/>召僧弘講<ptr target="fn15"/>合境傾味自此而繁。以<date key="j19526611953014" from-iso="0634-02-07" to-iso="0635-01-26">貞觀八<lb ed="T" n="0688b06"/>年</date>。終於所住。</p>
+    <linkGrp>
+        <link targets="#0688a10 #0688a10"/>
+        <ptr target="#A007464" type="person"/>
+        <ptr target="#CN0510683Z09AA" type="place"/>
+    </linkGrp>  
+    <linkGrp>
+        <link targets="#0688a12 #0688a13"/>
+        <ptr target="#A007464" type="person"/>
+        <ptr target="#CN0510108T25AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0688a19 #0688b02"/>
+        <ptr target="#A007464" type="person"/>
+        <ptr target="#CN0510682Z09AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0688b05 #0688b06"/>
+        <ptr target="#A007464" type="person"/>
+        <ptr target="#j19526611953014" type="time"/>
+    </linkGrp>
+</div>

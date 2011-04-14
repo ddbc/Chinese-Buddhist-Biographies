@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0920b20shiFaNing">
+  <p><anchor n="T.50.2062.0920b20"/><lb ed="T" n="0920b20"/><persName key="A008468">釋法寧</persName>因住沂州<placeName key="CN0371302M01AA">馬[山*耆]</placeName>山故號<persName key="A008468">馬[山*耆]山</persName>。東<lb ed="T" n="0920b21"/>密州<placeName key="CN0371122Z12AA">莒縣</placeName>李氏子也。初依沂州<placeName key="CN0371302T03AA">天寧</placeName><persName key="A008469">妙空明<lb ed="T" n="0920b22"/>和尚</persName>得度。參侍既久盡得雲門宗旨。出世<lb ed="T" n="0920b23"/>住沂之<placeName key="CN0371302T04AA">淨居寺</placeName>。大弘雪竇之道。<date from-iso="1131" key="j21341862145878" to-iso="1163">紹興</date>間抵<lb ed="T" n="0920b24"/>華亭<placeName key="CN0310118Z03AA">青龍。鎮</placeName>察判章滾母高氏夢。天人告曰。<lb ed="T" n="0920b25"/>古佛來也。翌日<persName key="A008468">師</persName>至。迎之止錢氏園<!--找不到此地-->乃建<lb ed="T" n="0920b26"/>精舍。掘地得鐵磬斷碑佛像之應。於是華<lb ed="T" n="0920b27"/>亭令<persName key="A008472">柳約</persName>奏所建剎賜額曰<placeName key="CN0371302T04AA">淨居</placeName>。因省<persName key="A008469">明<lb ed="T" n="0920b28"/>公</persName>于明州<placeName key="CN0330283T01AA">雪竇</placeName>。時郡守<persName key="A008473">莫將</persName>請主吉祥。哲宗<lb ed="T" n="0920b29"/>元符余山有精舍曰靈峯<!--找不到此地-->。部符改曰<placeName key="CN0310117T10AA">昭慶<lb ed="T" n="0920c01"/>禪院</placeName>。右丞<persName key="A008474">朱諤</persName>請<persName key="A008468">師</persName>為開山第一代。無何<lb ed="T" n="0920c02"/>遷明州<placeName key="CN0330203T04AA">廣慧</placeName>復返<placeName key="CN0310117T10AA">昭慶</placeName>。<date key="j21433172143317" when-iso="1156-02-07">紹興二十六年丙子<lb ed="T" n="0920c03"/>正月八日</date>沐浴端坐說法辭眾而寂。世壽七<lb ed="T" n="0920c04"/>十六。僧臘五十九。塔全身于<placeName key="CN0310117T10AA">寺</placeName>之東隅。</p>
+  <linkGrp>
+    <link targets="#0920b20 #0920b20"/>
+    <ptr target="#A008468" type="person"/>
+    <ptr target="#CN0371302M01AA" type="place"/>
+  </linkGrp>
+  <linkGrp>
+    <link targets="#0920b21 #0920b22"/>
+    <ptr target="#A008468" type="person"/>
+    <ptr target="#A008469" type="person"/>
+    <ptr target="#CN0371302T03AA" type="place"/>
+  </linkGrp>
+  <linkGrp>
+    <link targets="#0920b22 #0920b23"/>
+    <ptr target="#A008468" type="person"/>
+    <ptr target="#CN0371302T04AA" type="place"/>
+  </linkGrp>
+  <linkGrp>
+    <link targets="#0920b23 #0920b25"/>
+    <ptr target="#A008468" type="person"/>
+    <ptr target="#CN0310118Z03AA" type="place"/>
+    <ptr target="#j21341862145878" type="time"/>
+  </linkGrp>
+  <linkGrp>
+    <link targets="#0920b26 #0920b27"/>
+    <ptr target="#A008468" type="person"/>
+    <ptr target="#A008472" type="person"/>
+    <ptr target="#CN0371302T04AA" type="place"/>
+  </linkGrp>
+  <linkGrp>
+    <link targets="#0920b27 #0920b28"/>
+    <ptr target="#A008468" type="person"/>
+    <ptr target="#A008469" type="person"/>
+    <ptr target="#CN0330283T01AA" type="place"/>
+  </linkGrp>
+  <linkGrp>
+    <link targets="#0920b28 #0920c01"/>
+    <ptr target="#A008468" type="person"/>
+    <ptr target="#A008474" type="person"/>
+    <ptr target="#CN0310117T10AA" type="place"/>
+  </linkGrp>
+  <linkGrp>
+    <link targets="#0920c01 #0920c02"/>
+    <ptr target="#A008468" type="person"/>
+    <ptr target="#CN0330203T04AA" type="place"/>
+  </linkGrp>
+  <linkGrp>
+    <link targets="#0920c02 #0920c04"/>
+    <ptr target="#A008468" type="person"/>
+    <ptr target="#CN0310117T10AA" type="place"/>
+    <ptr target="#j21433172143317" type="time"/>
+  </linkGrp>
+</div>

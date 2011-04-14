@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0374c28shiHuiTong">
+    <p><anchor n="T.50.2059.0374c28"/><lb ed="T" n="0374c28"/><persName key="A002252">釋慧通</persName>，姓劉，<placeName key="CN0340621Z32AA">沛國</placeName>人。少而神情爽發，俊氣虛<lb ed="T" n="0374c29"/>玄，止<ptr target="fn＊"/>于<placeName key="CN0320103T07AA">治城寺</placeName>。每麈尾一振，輒軒蓋盈衢。<lb ed="T" n="0375a01"/><placeName key="CN0320381Z12AA">東海</placeName><persName key="A002991">徐湛之</persName>、<placeName key="CN0411626Z27AA">陳郡</placeName><persName key="A002985">袁粲</persName>，敬以師友之禮。<persName key="A002105">孝武<lb ed="T" n="0375a02"/>皇帝</persName>厚加寵秩，勅與<persName key="A003018">海陵</persName>、<persName key="A002987">小建平</persName>二王為<lb ed="T" n="0375a03"/>友。<persName key="A002985">袁粲</persName>著〈蘧顏論〉示通，<ptr target="fn01"/><persName key="A002252">通</persName>難詰往反，著<lb ed="T" n="0375a04"/>文<ptr target="fn＊"/>于世。又製《大品》、《勝鬘》、《雜心》、《毘曇》等義疏，<lb ed="T" n="0375a05"/>并<ptr target="fn02"/>〈駮夷夏論〉、〈顯證論〉、〈法性論〉及〈爻象記〉等，皆<lb ed="T" n="0375a06"/>傳於世。<date key="j18954891896109" notAfter-iso="0479" notBefore-iso="0477">宋昇明中</date>卒，春秋六十三矣。</p>
+    <linkGrp>
+        <link targets="#0374c28 #0374c29"/>
+        <ptr target="#A002252" type="person"/>
+        <ptr target="#CN0320103T07AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0375a01 #0375a01"/>
+        <ptr target="#A002252" type="person"/>
+        <ptr target="#A002991" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0375a01 #0375a01"/>
+        <ptr target="#A002252" type="person"/>
+        <ptr target="#A002985" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0375a01 #0375a03"/>
+        <ptr target="#A002252" type="person"/>
+        <ptr target="#A002105" type="person"/>
+        <ptr target="#A003018" type="person"/>
+        <ptr target="#A002987" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0375a06 #0375a06"/>
+        <ptr target="#A002252" type="person"/>
+        <ptr target="#j18954891896109" type="time"/>
+    </linkGrp>
+</div>

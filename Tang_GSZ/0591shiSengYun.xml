@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0649b05shiSengYun">
+    <p><anchor n="T.50.2060.0649b05"/><lb ed="T" n="0649b05"/><ptr target="fn06"/><persName key="A006825">釋僧雲</persName>。不知何人也。辯聰詞令備明大<lb ed="T" n="0649b06"/>小。崇附齋講恒以常<ptr target="fn07"/>住。<date key="j19221051931862" notAfter-iso="0577" notBefore-iso="0550"><placeName key="CN0130423A11AA">齊鄴</placeName></date>盛昌三寶。<persName key="A006825">雲</persName><lb ed="T" n="0649b07"/>著名焉。<ptr target="fn08"/>住<placeName key="CN0130423T17AA">寶明寺</placeName>襟帶眾理。以四月十<lb ed="T" n="0649b08"/>五日臨說戒時。<ptr target="fn09"/>眾並集堂。<persName key="A006825">雲</persName>居上首乃白<lb ed="T" n="0649b09"/>眾曰。戒本防非。人人誦得。何勞煩眾數數<lb ed="T" n="0649b10"/>聞之。可令一僧竪義令後生開悟。<persName key="A006825">雲</persName>氣格<lb ed="T" n="0649b11"/>當時無敢抗者。咸從之。訖於夏末常廢說<lb ed="T" n="0649b12"/>戒至七月十五日旦。將昇草坐。失<persName key="A006825">雲</persName>所在。<lb ed="T" n="0649b13"/>大眾以新歲未受交廢自恣。一時崩騰四出<lb ed="T" n="0649b14"/>追覓。乃於<placeName key="CN0130423T17AA">寺</placeName>側三里許。於古塚內得之。遍<lb ed="T" n="0649b15"/>體血流如刀割處。借問其故。云有一丈夫。<lb ed="T" n="0649b16"/>執三尺大刀厲色瞋<ptr target="fn10"/>云。改變布薩妄充<lb ed="T" n="0649b17"/>竪義。刀膾身形痛毒難忍。因接還<placeName key="CN0130423T17AA">寺</placeName>竭情<lb ed="T" n="0649b18"/>懺悔。乃經十載說戒布薩。讀誦眾經以為<lb ed="T" n="0649b19"/>常業。臨終之日。異香迎之神色無亂。欣然<lb ed="T" n="0649b20"/>而卒。時<ptr target="fn11"/>感嘉其即世懲革不墜彝倫云。</p>
+    <linkGrp>
+        <link targets="#0649b07 #0649b20"/>
+        <ptr target="#A006825" type="person"/>
+        <ptr target="#CN0130423T17AA" type="place"/>
+        <ptr target="#j19221051931862" type="time"/>
+        </linkGrp>
+</div>

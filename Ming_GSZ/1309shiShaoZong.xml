@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0910b21shiShaoZong">
+  <p><anchor n="T.50.2062.0910b21"/><lb ed="T" n="0910b21"/><persName key="A008276">釋紹宗</persName>別號<persName key="A008276">遂初</persName>。<placeName key="CN0310101Z04AA">上海</placeName>陳氏子。<date key="j22141462214510" from-iso="1350-01-09" to-iso="1351-01-08">年十三</date>父母<lb ed="T" n="0910b22"/>捨入里之<placeName key="CN0310101T01AA">安國寺</placeName>。得法於<persName key="A008279">靜庵鎮法師</persName>。天資<lb ed="T" n="0910b23"/>頴悟戒行精嚴。初出說法於杭之<placeName key="CN0330103T12AA">長慶寺</placeName>。大<lb ed="T" n="0910b24"/>展玄風緇素嚮化。次遷吳興<placeName key="CN0330502T06AA">慈感寺</placeName>。時金<lb ed="T" n="0910b25"/>陵<placeName key="CN0320104T01AA">長干</placeName><persName key="A008280">守仁法師</persName>延居第一座。一眾傾伏。<date from-iso="1393-02-20" key="j22298942230247" to-iso="1394-02-08">洪<lb ed="T" n="0910b26"/>武癸酉</date>應召有事<placeName key="CN0360402M01AA">廬山</placeName>。奏對稱　　旨賜<lb ed="T" n="0910b27"/><persName key="A008276">金縷僧伽黎</persName>。擢右講經。無何陞右善世。<date key="j22313452231345" when-iso="1397-02-10">丁<lb ed="T" n="0910b28"/>丑正月五日</date>示微疾端坐而化　　上聞勅<lb ed="T" n="0910b29"/>遣中使致祭。荼毘日送者數千人徒眾奉<lb ed="T" n="0910c01"/>收舍利遺骨塔于<placeName key="CN0310101T01AA">安國寺</placeName>。</p>
+  <linkGrp>
+    <link targets="#0910b27 #0910c01"/>
+    <ptr target="#A008276" type="person"/>
+    <ptr target="#j22313452231345" type="time"/>
+  </linkGrp>
+  <linkGrp>
+    <link targets="#0910b21 #0910b23"/>
+    <ptr target="#A008276" type="person"/>
+    <ptr target="#A008279" type="person"/>
+    <ptr target="#CN0310101T01AA" type="place"/>
+    <ptr target="#j22141462214510" type="time"/>
+  </linkGrp>
+  <linkGrp>
+    <link targets="#0910b23 #0910b24"/>
+    <ptr target="#A008276" type="person"/>
+    <ptr target="#CN0330103T12AA" type="place"/>
+  </linkGrp>
+  <linkGrp>
+    <link targets="#0910b24 #0910b24"/>
+    <ptr target="#A008276" type="person"/>
+    <ptr target="#CN0330502T06AA" type="place"/>
+  </linkGrp>
+  <linkGrp>
+    <link targets="#0910b24 #0910b25"/>
+    <ptr target="#A008280" type="person"/>
+    <ptr target="#CN0320104T01AA" type="place"/>
+  </linkGrp>
+  <linkGrp>
+    <link targets="#0910b25 #0910b27"/>
+    <ptr target="#A008276" type="person"/>
+    <ptr target="#CN0360402M01AA" type="place"/>
+    <ptr target="#j22298942230247" type="time"/>
+  </linkGrp>
+</div>

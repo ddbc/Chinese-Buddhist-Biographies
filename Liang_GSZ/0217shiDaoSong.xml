@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0408b05shiDaoSong">
+    <p><anchor n="T.50.2059.0408b05"/><lb ed="T" n="0408b05"/><persName key="A002354">釋道嵩</persName>，姓夏，<placeName key="CN0370782Z25AA">高密</placeName>人。年十歲出家，少而沈隱<lb ed="T" n="0408b06"/>有志用。及具戒之後，專好律學。誦經三十<lb ed="T" n="0408b07"/>萬言。交接上下，未嘗有喜慍之色。性好檀<lb ed="T" n="0408b08"/>捨，隨獲利養，皆以施人。瓶衣之外，略無兼<lb ed="T" n="0408b09"/>物。<date key="j18938651895488" notAfter-iso="0477" notBefore-iso="0473">宋元徽中</date>來<placeName key="CN0320106Z05AA">京師</placeName>，止<placeName key="CN0320102T04AA">鍾山定林寺</placeName>。守<ptr target="fn05"/>靖<lb ed="T" n="0408b10"/>閑房，懺誦無輟。人有造者，輒為<ptr target="fn06"/>其說法訓<lb ed="T" n="0408b11"/>獎，以代饌焉。從之請戒者甚眾。後卒於<placeName key="CN0320102M02AA">山</placeName><lb ed="T" n="0408b12"/>中，春秋四十有九。</p>
+    <linkGrp>
+        <link targets="#0408b09 #0408b12"/>
+        <ptr target="#A002354" type="person"/>
+        <ptr target="#CN0320102T04AA" type="place"/>
+        <ptr target="#j18938651895488" type="time"/>
+    </linkGrp>
+</div>

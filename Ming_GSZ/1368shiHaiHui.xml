@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0929b29shiHaiHui">
+  <p><anchor n="T.50.2062.0929b29"/><lb ed="T" n="0929b29"/><persName key="A008704">釋海慧</persName>金國人也。幼而英敏學不由師。魯誥<lb ed="T" n="0929c01"/>竺墳過目成誦。初遊講肆如入<placeName key="XZ0000001A01AA">龍宮</placeName>。性相<lb ed="T" n="0929c02"/>玄途無不挾其英而挹其粹也。所以法喜<lb ed="T" n="0929c03"/>禪悅飫而飽餐。潛踪<placeName key="CN0140900M01AA">五臺</placeName>刀耕火種就巖縛<lb ed="T" n="0929c04"/>屋。一榻蕭然。如是者十有五[禾*冀]。一日歎曰。<lb ed="T" n="0929c05"/>大丈夫當以眾生為急。溺是胡為。遂携錫<lb ed="T" n="0929c06"/><placeName key="CN0110104Z12AA">燕都</placeName>遍歷禪寺。隨緣演化。七眾雲屯。於是<lb ed="T" n="0929c07"/>聲播寰宇道布宸宮。<date from-iso="1143-07-21" key="j21387332138762" to-iso="1143-08-19">金皇統三年六月</date>英悼<lb ed="T" n="0929c08"/>太子創造<placeName key="CN0230112T01AA">大儲慶寺</placeName>於<placeName key="CN0230112A01AA">上京宮</placeName>側。告成極世<lb ed="T" n="0929c09"/>精巧幻若天宮。慕<persName key="A008704">師</persName>道價降旨請為開山<lb ed="T" n="0929c10"/>第一代。說法賜牒。普度境內童行有籍于<lb ed="T" n="0929c11"/>官者百萬為僧尼。次年詔迎旃檀瑞像供<lb ed="T" n="0929c12"/>養于<placeName key="CN0230112T01AA">寺</placeName>之積慶閣。<date from-iso="1145-02-01" key="j21392942139677" to-iso="1146-02-19">皇統五年</date><persName key="A008704">海慧</persName>入寂。火浴<lb ed="T" n="0929c13"/>獲舍利五色無算。光明徹於空表異香彌<lb ed="T" n="0929c14"/>旬。<persName key="A006630">金主</persName>偕后太子親王百官設供五日。奉<lb ed="T" n="0929c15"/>分五處建塔。諡曰<persName key="A008704">佛覺祐國大師</persName>。<date from-iso="1146-02-20" key="j21396782139706" to-iso="1146-03-20">次年正<lb ed="T" n="0929c16"/>月</date>詔<persName key="A008705">清慧禪師</persName>住持<placeName key="CN0230112T01AA">儲慶</placeName>。賜號<persName key="A008705">佛智護國<lb ed="T" n="0929c17"/>大師</persName>。命登國師座。特賜金縷僧伽梨衣并珍<lb ed="T" n="0929c18"/>異瓶罏寶器。<persName key="A006630">金主</persName>后妃太子頂禮雙足奉服<lb ed="T" n="0929c19"/>法衣。其震丹國王致敬沙門。古所未若於<lb ed="T" n="0929c20"/>是時也。</p>
+  <linkGrp>
+    <link targets="#0929c12 #0929c13"/>
+    <ptr target="#A008704" type="person"/>
+    <ptr target="#j21392942139677" type="time"/>
+  </linkGrp>
+  <linkGrp>
+    <link targets="#0929c03 #0929c05"/>
+    <ptr target="#A008704" type="person"/>
+    <ptr target="#CN0140900M01AA" type="place"/>
+  </linkGrp>
+  <linkGrp>
+    <link targets="#0929c05 #0929c07"/>
+    <ptr target="#A008704" type="person"/>
+    <ptr target="#CN0110104Z12AA" type="place"/>
+  </linkGrp>
+  <linkGrp>
+    <link targets="#0929c07 #0929c11"/>
+    <ptr target="#A008704" type="person"/>
+    <ptr target="#CN0230112T01AA" type="place"/>
+    <ptr target="#j21387332138762" type="time"/>
+  </linkGrp>
+  <linkGrp>
+    <link targets="#0929c15 #0929c20"/>
+    <ptr target="#A008705" type="person"/>
+    <ptr target="#CN0230112T01AA" type="place"/>
+    <ptr target="#j21396782139706" type="time"/>
+  </linkGrp>
+</div>

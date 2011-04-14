@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0350b29zhuFaChong">
+    <p><anchor n="T.50.2059.0350b29"/><lb ed="T" n="0350b29"/><persName key="A000714">竺法崇</persName>，未詳<ptr target="fn15"/>何人。少入道，以戒節見稱，<lb ed="T" n="0350c01"/>加又敏而好學，篤志經<ptr target="fn16"/>記，而尤長《法華》一 <lb ed="T" n="0350c02"/>教。嘗遊<placeName key="CN0430101M01AA">湘州麓山</placeName>，山精化為<ptr target="fn17"/>夫人，詣<persName key="A000714">崇</persName>請<lb ed="T" n="0350c03"/>戒，捨所住山以為寺，崇居之，少時。化洽<lb ed="T" n="0350c04"/><placeName key="CN0430101M01AA">湘土</placeName>。後還<placeName key="CN0330683Z21AA">剡</placeName>之<placeName key="CN0330623M05AA">葛峴山</placeName>，茅菴澗飲，取欣禪 <lb ed="T" n="0350c05"/>慧，東甌學者，競往湊焉。與隱士<placeName key="CN0370881Z21AA">魯國</placeName><persName key="A002730">孔淳之</persName>
+        <lb ed="T" n="0350c06"/>相遇，每盤遊極日，輒信宿<ptr target="fn18"/>妄歸，披袊<ptr target="fn19"/>頓 <lb ed="T" n="0350c07"/>契，自以為得意之交也。崇迺歎曰：「緬想人<lb ed="T" n="0350c08"/>外三十餘年，傾蓋于茲，不覺老之將至。」後 <lb ed="T" n="0350c09"/><persName key="A002730">淳之</persName>別遊，<persName key="A000714">崇</persName>咏曰：「<ptr target="fn20"/>晧然之氣，猶在心目，山<lb ed="T" n="0350c10"/>林之士，往而不反。其若人之謂乎！」<persName key="A000714">崇</persName>後卒 <lb ed="T" n="0350c11"/><ptr target="fn21"/>於山中，著《法華義疏》四卷云。</p>
+    <p>時剡東<placeName key="CN0330623M02AA">仰山</placeName>，<lb ed="T" n="0350c12"/>復有<persName key="A002731">釋道寶</persName>者，本姓王，<placeName key="CN0371302Z13AA">瑯瑘</placeName>人，晉丞相<ptr target="fn22"/><persName key="A002504">道</persName>
+        <lb ed="T" n="0350c13"/>之弟。弱年信悟，避世辭榮，親舊諫止，莫之 <lb ed="T" n="0350c14"/>能制。香湯澡<ptr target="fn23"/>浴，將就下髮，乃詠曰：「安知萬<lb ed="T" n="0350c15"/>里水，初發濫觴時。」後以學行顯焉。</p>
+    <linkGrp>
+        <link targets="#0350c05 #0350c07"/>
+        <ptr target="#A000714" type="person"/>
+        <ptr target="#A002730" type="person"/>
+        <ptr target="#CN0330623M05AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0350c11 #0350c13"/>
+        <ptr target="#A002731" type="person"/>
+        <ptr target="#CN0330623M02AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0350c02 #0350c03"/>
+        <ptr target="#A002731" type="person"/>
+        <ptr target="#CN0430101M01AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0350c11 #0350c15"/>
+        <ptr target="#A002731" type="person"/>
+        <ptr target="#CN0330623M02AA" type="place"/>
+    </linkGrp>
+</div>

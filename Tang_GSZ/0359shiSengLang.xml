@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0507c20shiSengLang">
+    <p><anchor n="T.50.2060.0507c20"/><lb ed="T" n="0507c20"/><persName key="A005382">釋僧朗</persName>。<placeName key="CN0130123Z21AA">恒州</placeName>人。少而出俗。希崇正化。附從<lb ed="T" n="0507c21"/>聽眾。尋繹大論及以雜心。談唱相接歸學同<lb ed="T" n="0507c22"/>市。入<placeName key="CN0610000E01AA">關</placeName>住<placeName key="CN0610103T22AA">空觀寺</placeName>。復揚講席隨方利安。<lb ed="T" n="0507c23"/>而仁恕在懷。言笑溫雅。有在其席無悶神<lb ed="T" n="0507c24"/>心。宏博見知眾所推尚。時有異問素非所<lb ed="T" n="0507c25"/>覽者。便合掌答云。<persName key="A005382">僧朗</persName>學所未通。解惟至<lb ed="T" n="0507c26"/>此。故英聲大德咸美其識分。不敢蔑其高<lb ed="T" n="0507c27"/>行也。<date key="j19406121942058" notAfter-iso="0605" notBefore-iso="0601">仁壽</date>置塔。下勅令送舍利於<placeName key="CN0440104Z25AA">番州</placeName>。今<lb ed="T" n="0507c28"/>所謂<placeName key="CN0440104T02AA">廣州靈鷲山果實寺寶塔</placeName>是也。初至州<lb ed="T" n="0507c29"/><ptr target="fn21"/>治巡行處所。至<placeName key="CN0440104T02AA">果實寺</placeName>便可安之。<placeName key="CN0440104T02AA">寺</placeName>西<lb ed="T" n="0508a01"/>對<placeName key="CN0440104M02AA">水枕山</placeName>。荒榛之下掘深六尺。獲石函三<lb ed="T" n="0508a02"/>枚。二函之內各有銅函。盛二銀像并二銀<lb ed="T" n="0508a03"/>仙。其一函內有金銀瓶。大小相盛中無舍<lb ed="T" n="0508a04"/>利。銘云。<date key="j18938651894219" from-iso="0473-02-14" to-iso="0474-02-03">宋元徽元年</date>建塔。又<placeName key="CN0440104T02AA">寺</placeName>中舊碑云。<lb ed="T" n="0508a05"/><date key="j18746541874876" from-iso="0420-07-11" to-iso="0421-02-18">宋永初元年</date>。<placeName key="IN0000000E01AA">天竺</placeName>沙門<persName key="A005478">僧律</persName>。嘗行此處聞<lb ed="T" n="0508a06"/><ptr target="fn＊"/>鍾磬聲天花滿山因建伽藍。其後有梵僧<lb ed="T" n="0508a07"/><persName key="A000218">求那跋摩</persName>。來居此<placeName key="CN0440104T02AA">寺</placeName>。曰此山將來必逢菩薩<lb ed="T" n="0508a08"/>聖主。大弘寶塔。遂同銘之。今<persName key="A005382">朗</persName>規度山勢<lb ed="T" n="0508a09"/>惟此堪置。暗合昔言諒非徒作。事了還<placeName key="CN0610102Z02AA">京</placeName><lb ed="T" n="0508a10"/>住<placeName key="CN0610113T06AA">禪定寺</placeName>。講習為務。<date key="j19455911946768" notAfter-iso="0617" notBefore-iso="0614">大業末年</date>終於所住。<lb ed="T" n="0508a11"/>春秋七十<ptr target="fn01"/>有餘矣。</p>
+    <linkGrp>
+        <link targets="#0507c20 #0507c20"/>
+        <ptr target="#A005382" type="person"/>
+        <ptr target="#CN0130123Z21AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0507c22 #0507c22"/>
+        <ptr target="#A005382" type="person"/>
+        <ptr target="#CN0610103T22AA" type="place"/>
+        </linkGrp>
+    <linkGrp>
+        <link targets="#0507c27 #0508a09"/>
+        <ptr target="#A005382" type="person"/>
+        <ptr target="#CN0440104T02AA" type="place"/>
+        <ptr target="#j19406121942058" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0508a05 #0508a05"/>
+        <ptr target="#A005478" type="person"/>
+        <ptr target="#IN0000000E01AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0508a06 #0508a08"/>
+        <ptr target="#A000218" type="person"/>
+        <ptr target="#CN0440104T02AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0508a04 #0508a09"/>
+        <ptr target="#A005478" type="person"/>
+        <ptr target="#CN0440104T02AA" type="place"/>
+        <ptr target="#j18746541874876" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0508a09 #0508a11"/>
+        <ptr target="#A005382" type="person"/>
+        <ptr target="#CN0610113T06AA" type="place"/>
+        <ptr target="#j19455911946768" type="time"/>
+    </linkGrp>
+</div>

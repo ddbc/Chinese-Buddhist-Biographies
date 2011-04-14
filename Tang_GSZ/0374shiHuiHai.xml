@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0515c06shiHuiHai">
+    <p><anchor n="T.50.2060.0515c06"/><lb ed="T" n="0515c06"/><persName key="A005554">釋慧海</persName>。姓張氏。<placeName key="CN0131126Z18AA">清河武城</placeName>人。少年入道。師<lb ed="T" n="0515c07"/>事<placeName key="CN0130423T21AA">鄴都<ptr target="fn13"/>廣國寺</placeName><persName key="A005555">冏法師</persName>。聽涅槃楞伽。始通<lb ed="T" n="0515c08"/>再遍便能覆述。上首加賞。又經五稔學徒推<lb ed="T" n="0515c09"/>服。更從<placeName key="CN0370781T04AA">青州大業寺</placeName><persName key="A005556">道猷法師</persName>。受摩訶衍毘<lb ed="T" n="0515c10"/>曇等。然<persName key="A005556">猷</persName>慧<ptr target="fn14"/>解無礙開智難思。<persName key="A005554">海</persName>以頴脫<lb ed="T" n="0515c11"/>之才當斯榮寄。以<date key="j19329351933288" from-iso="0580-02-04" to-iso="0581-01-22">周大象二年</date>來儀濤浦。<lb ed="T" n="0515c12"/>創居<placeName key="CN0321002T02AA">安樂</placeName>修葺伽藍莊嚴佛事建造重閣。<lb ed="T" n="0515c13"/>躬自經始咸資率化。竭筋力而忘倦。蒙寒<lb ed="T" n="0515c14"/>暑而載馳。常以<placeName key="XZ0000033A01AA">淨土</placeName>為期。專精致感。忽<lb ed="T" n="0515c15"/>有<placeName key="CN0370103Z06AA">齊州</placeName>僧<persName key="A005557">道詮</persName>。齎畫<persName key="A002843">無量壽</persName>像來云。是<placeName key="IN0000000E01AA">天竺</placeName><lb ed="T" n="0515c16"/><placeName key="IN0000000T02AA">雞頭摩寺</placeName><persName key="A018942">五通菩薩</persName>。乘空往彼<placeName key="XZ0000033A01AA">安樂世界</placeName>圖<lb ed="T" n="0515c17"/>寫尊儀。既冥會素情深懷禮懺。乃覩神光<lb ed="T" n="0515c18"/>炤爍。慶所希幸。於是模寫懇苦。願生彼<lb ed="T" n="0515c19"/>土。沒齒為念。以<date key="j19436541943682" from-iso="0609-06-11" to-iso="0609-07-09">大業五年五月</date>旦疹患增<lb ed="T" n="0515c20"/>甚。語弟子曰。<persName key="A005554">我</persName>當滅矣。伸手五指用表<lb ed="T" n="0515c21"/>終期。氣息綿微屬纊斯待。至<date key="j19436581943658" when-iso="0609-06-15">五日</date>夜欻然而<lb ed="T" n="0515c22"/>起。依常面西禮竟<ptr target="fn15"/>加坐。至曉方逝。春秋六<lb ed="T" n="0515c23"/>十有九。顏色恬和儼如神在。道俗悲涼競申<lb ed="T" n="0515c24"/>接足。花香如雨下。金寶若山頹。充委階<lb ed="T" n="0515c25"/><ptr target="fn16"/>墀。福<ptr target="fn17"/>惠之力矣。然其自少精苦老而逾篤。<lb ed="T" n="0515c26"/>般舟密行之法。蘭若思惟之儀。亟展修行。瑞<lb ed="T" n="0515c27"/>相常擾。兼以慈仁救護有劇諸己。誘勸博<lb ed="T" n="0515c28"/>約必竭其才。宰官居士之流。老病貧窮之侶。<lb ed="T" n="0515c29"/>並情遺重輕德施平等。斯固器宇該含。末<lb ed="T" n="0516a01"/>代之通人也。講涅槃三十遍。誦法華經一部<lb ed="T" n="0516a02"/>講五十遍。即以<date key="j19436621943662" when-iso="0609-06-19">其月九日</date>琢石於<placeName key="CN0321002T02AA">寺</placeName>。鐫為<lb ed="T" n="0516a03"/>巨室而移坐焉。<placeName key="CN0321002Z16AA">江都</placeName>縣令<persName key="A005558">辛孝凱</persName>。崇信是投<lb ed="T" n="0516a04"/>內外通捨。解衣撤膳躬自指撝。弟子<persName key="A005559">慧昞</persName>。<lb ed="T" n="0516a05"/>以全身處乃架塔築基增其華麗。仍建碑<lb ed="T" n="0516a06"/>旌德於<placeName key="CN0321002T02AA">寺</placeName>之門。祕書學士<ptr target="fn01"/><placeName key="CN0371302Z10AA">琅耶</placeName><persName key="A005560">王眘</persName>為文。</p>
+    <linkGrp>
+        <link targets="#0515c06 #0515c06"/>
+        <ptr target="#A005554" type="person"/>
+        <ptr target="#CN0131126Z18AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0515c06 #0515c08"/>
+        <ptr target="#A005554" type="person"/>
+        <ptr target="#A005555" type="person"/>
+        <ptr target="#CN0130423T21AA" type="place"/>
+        </linkGrp>
+    <linkGrp>
+        <link targets="#0515c09 #0515c10"/>
+        <ptr target="#A005554" type="person"/>
+        <ptr target="#A005556" type="person"/>
+        <ptr target="#CN0370781T04AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0515c11 #0515c14"/>
+        <ptr target="#A005554" type="person"/>
+        <ptr target="#CN0321002T02AA" type="place"/>
+        <ptr target="#j19329351933288" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0515c16 #0515c16"/>
+        <ptr target="#A018942" type="person"/>
+        <ptr target="#IN0000000T02AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0515c14 #0515c19"/>
+        <ptr target="#A005554" type="person"/>
+        <ptr target="#A005557" type="person"/>
+        <ptr target="#CN0321002T02AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0515c19 #0515c22"/>
+        <ptr target="#A005554" type="person"/>
+        <ptr target="#CN0321002T02AA" type="place"/>
+        <ptr target="#j19436581943658" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0516a03 #0516a03"/>
+        <ptr target="#A005558" type="person"/>
+        <ptr target="#CN0321002Z16AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0516a04 #0516a04"/>
+        <ptr target="#A005554" type="person"/>
+        <ptr target="#A005558" type="person"/>
+        <ptr target="#CN0321002T02AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0516a06 #0516a06"/>
+        <ptr target="#A005560" type="person"/>
+        <ptr target="#CN0371302Z10AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0516a02 #0516a06"/>
+        <ptr target="#A005558" type="person"/>
+        <ptr target="#A005559" type="person"/>
+        <ptr target="#A005560" type="person"/>
+        <ptr target="#CN0321002T02AA" type="place"/>
+        <ptr target="#j19436621943662" type="time"/>
+    </linkGrp>
+</div>

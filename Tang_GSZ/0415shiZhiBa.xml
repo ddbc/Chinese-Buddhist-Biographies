@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0537b04shiZhiBa">
+    <p><anchor n="T.50.2060.0537b04"/><lb ed="T" n="0537b04"/><persName key="A005810">釋智拔</persName>。姓張<placeName key="CN0420602Z06AA">襄陽</placeName>人。幼年清悟雅好道法。<lb ed="T" n="0537b05"/><date key="j19321711932535" from-iso="0578-01-01" to-iso="0578-12-31">六歲</date>出家。初為<persName key="A005431">閏師</persName>弟子。<persName key="A005431">閏</persName>顧有濟器。乃<lb ed="T" n="0537b06"/>携付<persName key="A005338">哲法師</persName>。<persName key="A005338">哲</persName>亦<placeName key="CN0420602Z06AA">襄</placeName>川僧望。具之別傳。初<lb ed="T" n="0537b07"/>誦法華。日通五紙。經中理路略有規度。惟<lb ed="T" n="0537b08"/>曰。斯經諸佛出世之大意也。一人一道非弘<lb ed="T" n="0537b09"/>不通。誓畢依持開悟蒙俗。周聽乃洽。承<lb ed="T" n="0537b10"/><placeName key="CN0610102Z14AA">帝京</placeName>上德<persName key="A000329">吉藏法師</persName>四海標領三乘明匠。尋<lb ed="T" n="0537b11"/>詣奉旨欣擊素心。首尾兩遍命令覆述。英<lb ed="T" n="0537b12"/>俊鼓言無非亂<ptr target="fn05"/>轍。<persName key="A000329">藏</persName>親臨坐。<persName key="A005810">拔</persName>問眾曰。<lb ed="T" n="0537b13"/>一乘為<ptr target="fn06"/>兩。遂分為三。亦可一乘為<ptr target="fn07"/>兩。分<lb ed="T" n="0537b14"/>為三<ptr target="fn08"/>兩。眾無敢答。<persName key="A000329">藏</persName>曰。<persName key="A005810">拔公</persName>此問深得旨<lb ed="T" n="0537b15"/>矣乃囑累。大法必在機緣。於是還<placeName key="CN0420602Z06AA">襄</placeName>。會賊<lb ed="T" n="0537b16"/>徒擾<ptr target="fn09"/>攘無由講<ptr target="fn10"/>悟。晝藏夜伏私薀文義。<lb ed="T" n="0537b17"/>後值清平住<placeName key="CN0420600T03AA">耆闍寺</placeName>。恒在常濟。講法華經<lb ed="T" n="0537b18"/>年別五遍。門人<persName key="A018974">法長</persName>後生穎萃。見住<placeName key="CN0420606T01AA">梵雲</placeName>領<lb ed="T" n="0537b19"/>徒承業。<date key="j19550981955098" when-iso="0640-10-10">貞觀十四年九月十七日</date>。於清信<lb ed="T" n="0537b20"/>士<persName key="A005811">張英</persName>家。宿集竪義開法華題。或問今昔<lb ed="T" n="0537b21"/>開覆三一之旨者。答對如風響。解悟啟時<lb ed="T" n="0537b22"/>心。便告<persName key="A005795">稜法師</persName>曰。<persName key="A005810">智拔</persName>答畢須<ptr target="fn11"/>彌來難。盡<lb ed="T" n="0537b23"/>皆神<ptr target="fn12"/>俊。詣八方鄉里大德檀越等相別。時<lb ed="T" n="0537b24"/>不測其言也。遂即潛然。迫而察之。已遷化<lb ed="T" n="0537b25"/>矣。合境玄素嗟惋驚<ptr target="fn13"/>慟。顏狀如生。<ptr target="fn14"/>加坐堅<lb ed="T" n="0537b26"/>正<persName key="A005804">蔣王</persName>躬臨燒香供養。贈物百餘段。墓所<lb ed="T" n="0537b27"/>設五千<ptr target="fn15"/>僧齋。春秋六十八矣。</p>
+    <linkGrp>
+        <link targets="#0537b05 #0537b06"/>
+        <ptr target="#A005810" type="person"/>
+        <ptr target="#A005431" type="person"/>
+        <ptr target="#A005338" type="person"/>
+        <ptr target="#CN0420602Z06AA" type="place"/>
+        <ptr target="#j19321711932535" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0537b09 #0537b15"/>
+        <ptr target="#A005810" type="person"/>
+        <ptr target="#A000329" type="person"/>
+        <ptr target="#CN0610102Z14AA" type="place"/>
+        </linkGrp>
+    <linkGrp>
+        <link targets="#0537b15 #0537b16"/>
+        <ptr target="#A005810" type="person"/>
+        <ptr target="#CN0420602Z06AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0537b17 #0537b18"/>
+        <ptr target="#A005810" type="person"/>
+        <ptr target="#CN0420600T03AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0537b18 #0537b18"/>
+        <ptr target="#A005810" type="person"/>
+        <ptr target="#A018974" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0537b18 #0537b19"/>
+        <ptr target="#A018974" type="person"/>
+        <ptr target="#CN0420606T01AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0537b19 #0537b21"/>
+        <ptr target="#A005810" type="person"/>
+        <ptr target="#A005811" type="person"/>
+        <ptr target="#j19550981955098" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0537b19 #0537b23"/>
+        <ptr target="#A005810" type="person"/>
+        <ptr target="#A005795" type="person"/>
+        <ptr target="#j19550981955098" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0537b19 #0537b26"/>
+        <ptr target="#A005804" type="person"/>
+        <ptr target="#j19550981955098" type="time"/>
+    </linkGrp>
+</div>

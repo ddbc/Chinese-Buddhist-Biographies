@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0671c10shiZhiJiao">
+    <p><anchor n="T.50.2060.0671c10"/><lb ed="T" n="0671c10"/><persName key="A007210">釋智教</persName>。<placeName key="CN0610112Z16AA">雍州</placeName>人。習誦眾經意存禪觀。晝則<lb ed="T" n="0671c11"/>尋讀夜便坐默。蕭散無為不存世累。住<placeName key="CN0610103T43AA">弘<lb ed="T" n="0671c12"/>善寺</placeName>閑居綜業。<date key="j19406121942058" notAfter-iso="0605" notBefore-iso="0601">仁壽中年</date>。起塔<ptr target="fn25"/>秦州之<placeName key="CN0620522T03AA">永<lb ed="T" n="0671c13"/>寧寺</placeName>。下勅令送。既至塔所。夜逢布薩。異香<lb ed="T" n="0671c14"/>如霧。屯結入門。合眾同怪欣所聞見。又於<lb ed="T" n="0671c15"/>塔上剎柱之前。見大人跡長尺二寸蹈深二<lb ed="T" n="0671c16"/>分十指螺文圓相周備。推無蹤緒。蓋神瑞也。<lb ed="T" n="0671c17"/>又降異雲屯聚塔上。又雨天花狀如金寶。<lb ed="T" n="0671c18"/>又聞空中讚歎佛聲。官民道俗相慶騰踊。<lb ed="T" n="0671c19"/>教還<placeName key="CN0610103T43AA">本寺</placeName>綜業終年。</p>
+    <linkGrp>
+        <link targets="#0671c10 #0671c10"/>
+        <ptr target="#A007210" type="person"/>
+        <ptr target="#CN0610112Z16AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0671c11 #0671c12"/>
+        <ptr target="#A007210" type="person"/>
+        <ptr target="#CN0610103T43AA" type="place"/>
+        </linkGrp>
+    <linkGrp>
+        <link targets="#0671c12 #0671c18"/>
+        <ptr target="#A007210" type="person"/>
+        <ptr target="#CN0620522T03AA" type="place"/>
+        <ptr target="#j19406121942058" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0671c19 #0671c19"/>
+        <ptr target="#A007210" type="person"/>
+        <ptr target="#CN0610103T43AA" type="place"/>
+        <ptr target="#j19406121942058" type="time"/>
+    </linkGrp>
+</div>

@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0674b29shiMingYu">
+    <p><anchor n="T.50.2060.0674b29"/><lb ed="T" n="0674b29"/><persName key="A007236">釋明馭</persName>。<placeName key="CN0130984Z19AA">瀛州</placeName>人。初學涅槃後習攝論。推尋<lb ed="T" n="0674c01"/>理源究括疑滯。晚遊<placeName key="CN0130423Z16AA">鄴下</placeName>諮訪未聞。隱義<lb ed="T" n="0674c02"/>重玄皆所披覽。<date key="j19358581936211" from-iso="0588-02-05" to-iso="0589-01-23">開皇八年</date>。來儀<placeName key="CN0610102Z14AA">帝里</placeName>。更就<lb ed="T" n="0674c03"/><persName key="A002119">遷師</persName>詢求攝論。意量弘廣容姿都雅。人有<lb ed="T" n="0674c04"/>勃怒初不改容。眾服其忍力也。住<placeName key="CN0610102T67AA">無漏<lb ed="T" n="0674c05"/>寺</placeName>講誦為業。<date key="j19406121942058" notAfter-iso="0605" notBefore-iso="0601">仁壽中年</date>。勅請送舍利于濟<lb ed="T" n="0674c06"/>州<placeName key="CN0371524T01AA">崇梵寺</placeName>。寺基帶危峯多饒異樹。山<ptr target="fn12"/>泉盤<lb ed="T" n="0674c07"/>屈脩竹蒙天。<ptr target="fn13"/>寔佳地<ptr target="fn14"/>也。剋日將下。<placeName key="CN0371524T01AA">寺</placeName>有<lb ed="T" n="0674c08"/>育王瑞像。乃放三道神光遍于體上。金石<lb ed="T" n="0674c09"/>榴色朗晃奪精。經一食頃乃遂漸歇。又聞<lb ed="T" n="0674c10"/>磬聲搖曳長遠。<placeName key="CN0371524T01AA">寺</placeName>東巖上唱善哉聲。清暢徹<lb ed="T" n="0674c11"/>心。追尋莫委。又舍利函上光高三尺。狀如<lb ed="T" n="0674c12"/>花樹本送舍<ptr target="fn15"/>利分為二粒。出琉璃瓶相<lb ed="T" n="0674c13"/>隨而轉。並放光明。有黃白雲從西南來聲<lb ed="T" n="0674c14"/>如雨相流音樂聲正當塔上凝住不動。復<lb ed="T" n="0674c15"/>見二花從雲中出。或時上下。大鳥群飛迴<lb ed="T" n="0674c16"/>旋塔上。又於雲中現仙人頭。其數無量。於<lb ed="T" n="0674c17"/>此之時<placeName key="CN0371522Z27AA">莘州</placeName>城人。見諸仙人從空東來向<lb ed="T" n="0674c18"/>于<placeName key="CN0130425Z13AA">魏州</placeName>。<persName key="A007236">馭</persName>當斯運欣慶嘉瑞。說不可盡。民<lb ed="T" n="0674c19"/><ptr target="fn16"/>百捨物積之如山。並用構塔。沙門五人生<lb ed="T" n="0674c20"/>逢奇瑞。捨戒為奴供養三寶。因勒銘紀。廣<lb ed="T" n="0674c21"/>如別傳。<date key="j19409671941349" from-iso="0602-02-01" to-iso="0603-02-18"><persName key="A005376">獻后</persName>昇<ptr target="fn17"/>遐</date>造<placeName key="CN0610113T06AA">禪定寺</placeName>。召而處<placeName key="CN0610113T06AA">之</placeName>。遂<lb ed="T" n="0674c22"/>終世矣。</p>
+    <linkGrp>
+        <link targets="#0674b29 #0674b29"/>
+        <ptr target="#A007236" type="person"/>
+        <ptr target="#CN0130984Z19AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0674c01 #0674c02"/>
+        <ptr target="#A007236" type="person"/>
+        <ptr target="#CN0130423Z16AA" type="place"/>
+        </linkGrp>
+    <linkGrp>
+        <link targets="#0674c02 #0674c03"/>
+        <ptr target="#A007236" type="person"/>
+        <ptr target="#A002119" type="person"/>
+        <ptr target="#CN0610102Z14AA" type="place"/>
+        <ptr target="#j19358581936211" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0674c04 #0674c05"/>
+        <ptr target="#A007236" type="person"/>
+        <ptr target="#CN0610102T67AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0674c05 #0674c20"/>
+        <ptr target="#A007236" type="person"/>
+        <ptr target="#CN0371524T01AA" type="place"/>
+        <ptr target="#j19406121942058" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0674c21 #0674c22"/>
+        <ptr target="#A004324" type="person"/>
+        <ptr target="#A007236" type="person"/>
+        <ptr target="#j19409671941349" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0674c21 #0674c22"/>
+        <ptr target="#A007236" type="person"/>
+        <ptr target="#CN0610113T06AA" type="place"/>
+        <ptr target="#j19409671941349" type="time"/>
+    </linkGrp>
+</div>

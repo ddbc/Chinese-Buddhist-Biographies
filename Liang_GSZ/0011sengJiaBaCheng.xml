@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0328a28sengJiaBaCheng">
+    <p><anchor n="T.50.2059.0328a28"/><lb ed="T" n="0328a28"/><persName key="A001593">僧伽跋澄</persName>，此云<persName key="A001593">眾現</persName>，<placeName key="WW034KASME02AA">罽賓</placeName>人。毅然有淵懿<lb ed="T" n="0328a29"/>之量，歷尋名師，備習三藏，博覽眾典，特善<lb ed="T" n="0328b01"/>數經，闇誦《阿毘曇毘婆沙》，貫其妙旨。常浪<lb ed="T" n="0328b02"/>志遊方，觀風弘化。<persName key="A002515">符堅</persName><date from-iso="0381-02-11" key="j18602591860613" to-iso="0382-01-31">建元十七年</date>，來入<placeName key="CN0610000E01AA">關<lb ed="T" n="0328b03"/>中</placeName>。</p>
+    <p>先是，大乘之典未廣，禪數之學甚盛，既<lb ed="T" n="0328b04"/>至<placeName key="CN0610112Z07AA">長安</placeName>，咸稱法匠焉。<persName key="A002515">符堅</persName>祕書郎<persName key="A002042">趙正</persName>，崇<lb ed="T" n="0328b05"/>仰大法，嘗聞外國宗習《阿毘曇毘婆沙》，而<persName key="A001593">跋<lb ed="T" n="0328b06"/>澄</persName>諷誦，乃四事禮供，請<ptr target="fn13"/>譯梵文，遂共名德<lb ed="T" n="0328b07"/>法師<persName key="A001503">釋道安</persName>等，集僧宣譯。<persName key="A001593">跋<ptr target="fn14"/>證</persName>口誦經本，<lb ed="T" n="0328b08"/>外國沙門<persName key="A001798">曇摩難提</persName>筆受為<ptr target="fn＊"/>梵文，<persName key="A002516">佛圖羅剎</persName><lb ed="T" n="0328b09"/>宣譯，秦沙門<persName key="A002517">敏智</persName>筆受為晉本，以偽秦<date from-iso="0383-02-20" key="j18609981861351" to-iso="0384-02-08">建元<lb ed="T" n="0328b10"/>十九年</date>譯出，自孟夏至仲秋方訖。初，<persName key="A001593">跋澄</persName><lb ed="T" n="0328b11"/>又齎《婆須蜜》<ptr target="fn＊"/>梵本自隨，<date from-iso="0384-02-09" key="j18613521861705" to-iso="0385-01-27">明年</date>，<persName key="A002042">趙正</persName>復請出<lb ed="T" n="0328b12"/>之，<persName key="A001593">跋澄</persName>乃與<persName key="A001798">曇摩難提</persName>及<persName key="A001589">僧伽提婆</persName>三人共<lb ed="T" n="0328b13"/>執<ptr target="fn＊"/>梵本，秦沙門<persName key="A000435">佛念</persName>宣譯，<ptr target="fn15"/><persName key="A002112">慧嵩</persName>筆受，<persName key="A001503">安公</persName>、<lb ed="T" n="0328b14"/><persName key="A002191">法和</persName>對共校定，故二經流布，傳學迄今。<persName key="A001593">跋澄</persName><lb ed="T" n="0328b15"/>戒德整峻，虛<ptr target="fn16"/>靖離俗，<placeName key="CN0610000E01AA">關中</placeName>僧眾則而象之，<lb ed="T" n="0328b16"/>後不知所終。</p>
+    <p><persName key="A002516">佛圖羅剎</persName>，不知何國人，德業<lb ed="T" n="0328b17"/>純粹，該覽經典。久遊中土，善閑漢言，其宣譯梵，文見重<date from-iso="0381" key="j18602591865308" to-iso="0394">符世</date>。</p>
+    <linkGrp>
+        <link targets="#0328b02 #0328b06"/>
+        <ptr n="師父" target="#A001593" type="person"/>
+        <ptr n="弟子（祕書郎）" target="#A002042" type="person"/>
+        <ptr target="#CN0610112Z07AA" type="place"/>
+        <ptr target="#j18602591860613" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0328b07 #0328b10"/>
+        <ptr n="宣譯者" target="#A001593" type="person"/>
+        <ptr n="邀譯者（祕書郎）" target="#A002042" type="person"/>
+        <ptr n="譯者" target="#A001503" type="person"/>
+        <ptr n="梵文筆受者" target="#A001798" type="person"/>
+        <ptr n="宣譯者" target="#A002516" type="person"/>
+        <ptr n="漢文筆受者" target="#A002517" type="person"/>
+        <ptr target="#CN0610112Z07AA" type="place"/>
+        <ptr target="#j18609981861351" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0328b11 #0328b14"/>
+        <ptr n="督宣譯者" target="#A001593" type="person"/>
+        <ptr n="邀譯者（祕書郎）" target="#A002042" type="person"/>
+        <ptr n="督宣譯者" target="#A001798" type="person"/>
+        <ptr n="督宣譯者" target="#A001589" type="person"/>
+        <ptr n="宣譯者" target="#A000435" type="person"/>
+        <ptr n="筆受者" target="#A002112" type="person"/>
+        <ptr n="校定者" target="#A001503" type="person"/>
+        <ptr n="校定者" target="#A002191" type="person"/>
+        <ptr target="#CN0610112Z07AA" type="place"/>
+        <ptr target="#j18613521861705" type="time"/>
+    </linkGrp>
+</div>

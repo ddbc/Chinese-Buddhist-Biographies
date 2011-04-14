@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0370a29shiTanWuCheng">
+	<p><anchor n="T.50.2059.0370a29"/><lb ed="T" n="0370a29"/><persName key="A002234">釋曇無成</persName>，姓馬，<placeName key="CN0610424Z16AA">扶風</placeName>人。家世避難，移居<placeName key="CN0211302Z14AA">黃<lb ed="T" n="0370b01"/>龍</placeName>，年十三出家，履業清正，神悟絕倫，未及具<lb ed="T" n="0370b02"/>戒，便精往復。聞<persName key="A001583">什公</persName>在<placeName key="CN0610000E01AA">關</placeName>，負笈從<persName key="A001583">之</persName>。既<lb ed="T" n="0370b03"/>至見<persName key="A001583">什</persName>，<persName key="A001583">什</persName>問：「<persName key="A002234">沙彌</persName>何能遠來？」答曰：「聞道而<lb ed="T" n="0370b04"/>至。」<persName key="A001583">什</persName>大善之。於是經停務學，慧業愈深。<persName key="A002097">姚<lb ed="T" n="0370b05"/>興</persName>謂<persName key="A002234">成</persName>曰：「<persName key="A000784">馬季長</persName>碩學高明，素<ptr target="fn16"/>驕當世，法<lb ed="T" n="0370b06"/>師故當不爾。」答曰：「以道伏心，為除此過。」<lb ed="T" n="0370b07"/><persName key="A002097">興</persName>甚異之，供事殷厚。<persName key="A002097">姚</persName>祚將亡，<placeName key="CN0610000E01AA">關中</placeName>危擾，<lb ed="T" n="0370b08"/>成迺憩於<placeName key="CN0342422T02AA">淮南中寺</placeName>。《涅槃》、《大品》常更互講說，<lb ed="T" n="0370b09"/>受業二百餘人。與<persName key="A002645">顏延之</persName>、<persName key="A002880">何尚之</persName>共論實<lb ed="T" n="0370b10"/>相，往復彌晨。成<ptr target="fn＊"/>迺著〈實相論〉。又著〈明漸<lb ed="T" n="0370b11"/>論〉。<date from-iso="0424" key="j18761761886925" to-iso="0454">宋元嘉中</date>卒，春秋六十有四。</p><p>時<placeName key="CN0342422T02AA">中寺</placeName>復有<lb ed="T" n="0370b12"/><persName key="A002935">曇冏</persName>者，與<persName key="A002234">成</persName>同學齊名，為宋<placeName key="CN0361002Z01AA">臨川</placeName><persName key="A002151">康王義<lb ed="T" n="0370b13"/>慶</persName>所<ptr target="fn17"/>重。</p>
+		
+		
+		<linkGrp>
+			<link targets="#0370a29 #0370b01"/>
+			<ptr target="#A002234" type="person"/>
+			<ptr target="#CN0211302Z14AA" type="place"/>
+		</linkGrp>
+		<linkGrp>
+			<link targets="#0370b02 #0370b04"/>
+			<ptr target="#A002234" type="person"/>
+			<ptr target="#A001583" type="person"/>
+			<ptr target="#CN0610000E01AA" type="place"/>
+		</linkGrp>
+		<linkGrp>
+			<link targets="#0370b04 #0370b07"/>
+			<ptr target="#A002234" type="person"/>
+			<ptr target="#A002097" type="person"/>
+			<ptr target="#CN0610000E01AA" type="place"/>
+		</linkGrp>
+		<linkGrp>
+			<link targets="#0370b09 #0370b11"/>
+			<ptr target="#A002234" type="person"/>
+			<ptr target="#A002645" type="person"/>
+			<ptr target="#A002880" type="person"/>
+		</linkGrp>
+	<linkGrp>
+		<link targets="#0370b11 #0370b11"/>
+		<ptr target="#A002234" type="person"/>
+		<ptr target="#j18761761886925" type="time"/>
+	</linkGrp>
+	<linkGrp>
+		<link targets="#0370b11 #0370b12"/>
+		<ptr target="#A002234" type="person"/>
+		<ptr target="#A002935" type="person"/>
+	</linkGrp>
+	<linkGrp>
+		<link targets="#0370b12 #0370b13"/>
+		<ptr target="#A002151" type="person"/>
+		<ptr target="#A002935" type="person"/>
+	</linkGrp>
+	<linkGrp>
+		<link targets="#0370b08 #0370a29"/>
+		<ptr target="#A002234" type="person"/>
+		<ptr target="#CN0342422T02AA" type="place"/>
+	</linkGrp>
+</div>

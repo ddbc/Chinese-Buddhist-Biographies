@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0659c17shiMingGong">
+    <p><anchor n="T.50.2060.0659c17"/><lb ed="T" n="0659c17"/><persName key="A006950">釋明恭</persName>。住鄭州<placeName key="CN0410185T02AA">會善寺</placeName>。昔在俗。是<persName key="A004324">隋高</persName>下<lb ed="T" n="0659c18"/>[狗-口+一]騎。與伴三人膂力相似。而時所忌。<persName key="A004324">帝</persName>深<lb ed="T" n="0659c19"/>慮以事除<persName key="A006950">之</persName>。作兩裹餅啗。一餅裹一具生<lb ed="T" n="0659c20"/>鹿角。一餅裹五升鹽。俱賜食之並盡。其噉<lb ed="T" n="0659c21"/>鹽者出至朝堂。腹裂而死。<persName key="A006950">恭</persName>噉鹿角全無<lb ed="T" n="0659c22"/>所覺。厭俗出家住<placeName key="CN0410185T02AA">會善寺</placeName>。其力若神不可<lb ed="T" n="0659c23"/>當者。曾與<placeName key="CN0410183T02AA">超化寺</placeName>爭地。彼多召無賴者百<lb ed="T" n="0659c24"/>餘人。來奪<placeName key="CN0410185T02AA">會善</placeName>秋苗。眾咸憂惱。<persName key="A006950">恭</persName>曰勿愁。<lb ed="T" n="0659c25"/>獨詣<placeName key="CN0410183T02AA">超化</placeName>。脫其大鐘塞孔。以乾飯六升投<lb ed="T" n="0659c26"/>中。水和可噉。一手承底一手取噉。須臾並<lb ed="T" n="0659c27"/>盡。仍取大石。可三十人轉者。<persName key="A006950">恭</persName>獨拈之如<lb ed="T" n="0659c28"/>小土塊。遠擲于地。超化既見一時驚走。又<lb ed="T" n="0659c29"/><date key="j19434961946884" notAfter-iso="0618" notBefore-iso="0609">隋末</date>賊起。周行抄掠。先告<placeName key="CN0410185T02AA">寺</placeName>曰。明當兵至。<lb ed="T" n="0660a01"/>可辦食具。并大猪一頭。<placeName key="CN0410185T02AA">寺</placeName>無力制。隨言為<lb ed="T" n="0660a02"/>辦。至時列坐。鋪<ptr target="fn01"/>奠食具。<persName key="A006950">恭</persName>不忍斯。負拄<lb ed="T" n="0660a03"/>杖會所。與賊言議。賊先讓食。<persName key="A006950">恭</persName>乃鋪餅數<lb ed="T" n="0660a04"/>十。安猪裹之。從頭咬拉。須臾並盡。賊眾驚<lb ed="T" n="0660a05"/>伏。<persName key="A006950">恭</persName>召為護寺檀趣。群賊然之。故<placeName key="CN0410185T02AA">會善</placeName>一<lb ed="T" n="0660a06"/>寺。隋唐交軍。絕賊往來。<persName key="A006950">恭</persName>之力也。又曾山<lb ed="T" n="0660a07"/>行。虎猪交鬪。猪漸不如。<persName key="A006950">恭</persName>語虎曰。可放令<lb ed="T" n="0660a08"/>去。虎不肯。便一手捉頭。一手撮尾。<ptr target="fn02"/>拋之<lb ed="T" n="0660a09"/>深谷。斯氣力也。說多難信而實有之。<persName key="A006950">恭</persName>戒<lb ed="T" n="0660a10"/>潔貞嚴。常依眾食。所噉如恒人。一食有值<lb ed="T" n="0660a11"/>機候。便噉二百人料。眾但深訝。莫知其所<lb ed="T" n="0660a12"/>由。<date key="j19482901948643" from-iso="0622-02-19" to-iso="0623-02-07">武德五年</date>。終於<placeName key="CN0410185T02AA">本寺</placeName>。春秋八十五。時<placeName key="CN0410185T02AA">會<lb ed="T" n="0660a13"/>善</placeName>有客遊沙彌。口作<placeName key="CN0320503Z16AA">吳</placeName>語。厨下然火。乾竹<lb ed="T" n="0660a14"/>大如臂。兩指折而燒之。<persName key="A006950">恭</persName>時怪訝。亦以指<lb ed="T" n="0660a15"/>折而不得。沙彌出後。<persName key="A006950">恭</persName>抱厨柱起。以沙彌<lb ed="T" n="0660a16"/>衣置磉上。柱壓之。沙彌來求衣不得。見在<lb ed="T" n="0660a17"/>柱下。欲取不得。<persName key="A006950">恭</persName>笑為捧柱取衣。此亦難<lb ed="T" n="0660a18"/>可思者。</p>
+    <linkGrp>
+        <link targets="#0659c17 #0659c22"/>
+        <ptr target="#A006950" type="person"/>
+        <ptr target="#A004324" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0659c17 #0659c22"/>
+        <ptr target="#A006950" type="person"/>
+        <ptr target="#CN0410185T02AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0659c22 #0659c28"/>
+        <ptr target="#A006950" type="person"/>
+        <ptr target="#CN0410183T02AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0659c29 #0660a05"/>
+        <ptr target="#A006950" type="person"/>
+        <ptr target="#CN0410185T02AA" type="place"/>
+        <ptr target="#j19434961946884" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0660a12 #0660a18"/>
+        <ptr target="#A006950" type="person"/>
+        <ptr target="#CN0410185T02AA" type="place"/>
+        <ptr target="#j19482901948643" type="time"/>
+    </linkGrp>
+</div>

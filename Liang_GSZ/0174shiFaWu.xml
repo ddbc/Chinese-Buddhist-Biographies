@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0399c06shiFaWu">
+    <p><anchor n="T.50.2059.0399c07"/><lb ed="T" n="0399c07"/><ptr target="fn40"/><persName key="A002313">釋法<ptr target="fn41"/>晤</persName>，<placeName key="CN0320116Z17AA">齊</placeName>人。家以田桑為業，有男六人，<lb ed="T" n="0399c08"/><ptr target="fn42"/>普皆成長。<ptr target="fn＊"/><persName key="A002313">晤</persName><date key="j18890731889438" from-iso="0460-01-02" to-iso="0461-01-01">年五十</date>喪妻，舉家欝然慕<lb ed="T" n="0399c09"/>道，父子七人，悉共出家。南至<placeName key="CN0420704Z12AA">武昌</placeName>，履行山<lb ed="T" n="0399c10"/>水，見<placeName key="CN0420704M01AA">樊山</placeName>之陽，可為幽拪之處，本隱士<persName key="A003341">郭<lb ed="T" n="0399c11"/>長翔</persName>所止，於是有意終焉。時至<placeName key="CN0420704Z12AA">武昌</placeName>太守<placeName key="CN0410224Z17AA">陳<lb ed="T" n="0399c12"/>留</placeName><persName key="A003342">阮晦</persName>聞而奇之，因為剪逕開山，造立房<lb ed="T" n="0399c13"/>室。<ptr target="fn＊"/>晤不食粳米，常資麥飯，日一食而已。<lb ed="T" n="0399c14"/>誦大小《品》、《法華》。常六時行道，頭陀山澤，不<lb ed="T" n="0399c15"/>避虎兕。有時在樹下坐禪，或經日不起。<lb ed="T" n="0399c16"/>以<date key="j18997121900066" from-iso="0489-02-17" to-iso="0490-02-06">齊永明七年</date>卒於山中，春秋七十有九。</p><p><lb ed="T" n="0399c17"/>後有沙門<persName key="A003343">道濟</persName>，踵其高業。今<placeName key="CN0420704Z12AA">武昌</placeName>謂其所<lb ed="T" n="0399c18"/>住為<placeName key="CN0420701T01AA">頭陀寺</placeName>焉。</p>
+    <linkGrp>
+        <link targets="#0399c09 #0399c11"/>
+        <ptr target="#A002313" type="person"/>
+        <ptr target="#CN0420704M01AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0399c11 #0399c13"/>
+        <ptr target="#A002313" type="person"/>
+        <ptr target="#A003342" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0399c17 #0399c18"/>
+        <ptr target="#A003343" type="person"/>
+        <ptr target="#CN0420701T01AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0399c08 #0399c09"/>
+        <ptr target="#A002313" type="person"/>
+        <ptr target="#j18890731889438" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0399c16 #0399c16"/>
+        <ptr target="#A002313" type="person"/>
+        <ptr target="#CN0420704M01AA" type="place"/>
+        <ptr target="#j18997121900066" type="time"/>
+    </linkGrp>
+</div>

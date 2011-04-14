@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0402a05shiFaYing">
+    <p><anchor n="T.50.2059.0402a05"/><lb ed="T" n="0402a05"/><persName key="A002325">釋法頴</persName>，姓索，<placeName key="CN0620982Z56AA">燉煌</placeName>人。<date key="j18773851877750" from-iso="0428-01-02" to-iso="0429-01-01">十三</date>出家，為<persName key="A003368">法香</persName>弟<lb ed="T" n="0402a07"/>子，住<placeName key="CN0622301T02AA">涼州公府寺</placeName>，與同學<persName key="A003369">法力</persName>俱以律藏<lb ed="T" n="0402a08"/>知名。<persName key="A002325">頴</persName>伏膺已後，學無再請，記在一聞。研<lb ed="T" n="0402a09"/>精律部，博涉經論。<date from-iso="0424" key="j18761761886925" to-iso="0454">元嘉</date>末，下<placeName key="CN0320106Z05AA">都</placeName>止<placeName key="CN0320105T02AA">新亭寺</placeName>。<lb ed="T" n="0402a10"/><ptr target="fn02"/><persName key="A002105">孝武</persName>南下，改治此<placeName key="CN0320105T02AA">寺</placeName>，以<persName key="A002325">穎</persName>學業兼明，勅為<lb ed="T" n="0402a11"/>都邑僧正。後辭任，還<placeName key="CN0320101T58AA">多寶寺</placeName>。常習定閑房，<lb ed="T" n="0402a12"/>亦時開律席。及<persName key="A003039">齊高</persName>即位，復勅為僧主，資<lb ed="T" n="0402a13"/>給事事有倍常科。<persName key="A002325">頴</persName>以從來信施，造經像<lb ed="T" n="0402a14"/>及藥藏，鎮於<placeName key="CN0320104T01AA">長干</placeName>。<date key="j18971431897496" from-iso="0482-02-05" to-iso="0483-01-24">齊建元四年</date>卒，春秋六十<lb ed="T" n="0402a15"/>有七。撰《十誦戒本》并《羯磨》等。</p><p>時<placeName key="CN0320114T08AA">天<ptr target="fn03"/>寶寺</placeName>又<lb ed="T" n="0402a16"/>有<persName key="A003370">慧文律師</persName>，亦善諸部毘尼，為<placeName key="CN0371302Z20AA">瑯瑘</placeName><persName key="A003282">王奐</persName><lb ed="T" n="0402a17"/>所事云。</p>
+    <linkGrp>
+        <link targets="#0402a06 #0402a07"/>
+        <ptr target="#A002325" type="person"/>
+        <ptr target="#A003369" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0402a15 #0402a17"/>
+        <ptr target="#A003370" type="person"/>
+        <ptr target="#A003282" type="person"/>
+        <ptr target="#CN0320114T08AA " type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0402a06 #0402a07"/>
+        <ptr target="#A002325" type="person"/>
+        <ptr target="#A003368" type="person"/>
+        <ptr target="#CN0622301T02AA" type="place"/>
+        <ptr target="#j18773851877750" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0402a09 #0402a11"/>
+        <ptr target="#A002325" type="person"/>
+        <ptr target="#CN0320105T02AA" type="place"/>
+        <ptr target="#j18761761886925" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0402a14 #0402a15"/>
+        <ptr target="#A002325" type="person"/>
+        <ptr target="#CN0320104T01AA" type="place"/>
+        <ptr target="#j18971431897496" type="time"/>
+    </linkGrp>
+</div>

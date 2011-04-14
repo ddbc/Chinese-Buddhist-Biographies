@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0347a18faYa">
+    <p><anchor n="T.50.2059.0347a18"/><lb ed="T" n="0347a18"/><ptr target="fn08"/><persName key="A002201">法雅</persName>，<placeName key="CN0130929Z22AA">河間</placeName>人，凝正有器度，少善外學，長<lb ed="T" n="0347a19"/>通佛義，衣冠士子，咸附諮稟。時<ptr target="fn09"/>依門徒，並<lb ed="T" n="0347a20"/>世典有功，未善佛理，<persName key="A002201">雅</persName>乃與<persName key="A002202">康法朗</persName>等，以<lb ed="T" n="0347a21"/>經中事數，擬配外書，為生解之例，謂之格<lb ed="T" n="0347a22"/>義。<ptr target="fn10"/>乃<persName key="A002665">毘浮</persName>、<ptr target="fn11"/><persName key="A002666">相曇</persName>等。亦辯格義，以訓門徒。</p>
+    <p><lb ed="T" n="0347a23"/><persName key="A002201">雅</persName>風<ptr target="fn12"/>采灑落，善於樞機。外典佛經，遞互講<lb ed="T" n="0347a24"/>說。與<persName key="A001503">道安</persName>、<persName key="A002193">法汰</persName>每披釋湊疑，共盡經要。後<lb ed="T" n="0347a25"/>立寺於<placeName key="CN0130524Z11AA">高邑</placeName>，僧眾百餘，訓誘無懈。<persName key="A002201">雅</persName>弟子<persName key="A002667">曇<lb ed="T" n="0347a26"/>習</persName>，祖述<persName key="A002201">先師</persName>，善於言論。為<ptr target="fn13"/><date from-iso="0333" key="j18426871848530" to-iso="0349">偽趙太子<ptr target="fn14"/><persName key="A002668">石<lb ed="T" n="0347a27"/>宣</persName>所敬云</date>。</p>
+    <linkGrp>
+        <link targets="#0347a18 #0347a18"/>
+        <ptr target="#A002667" type="person"/>
+        <ptr target="#CN0130929Z22AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0347a20 #0347a24"/>
+        <ptr target="#A002667" type="person"/>
+        <ptr target="#A002202" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0347a25 #0347a27"/>
+        <ptr target="#A002667" type="person"/>
+        <ptr target="#A002667" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0347a25 #0347a27"/>
+        <ptr target="#A002667" type="person"/>
+        <ptr target="#A002668" type="person"/>
+        <ptr target="#CN0130524Z11AA" type="place"/>
+        <ptr target="#j18426871848530" type="time"/>
+    </linkGrp>
+</div>

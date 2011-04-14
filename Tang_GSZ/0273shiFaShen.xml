@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0460a02shiFaShen">
+    <head><placeName key="CN0320101T36AA">梁楊都安樂寺</placeName>沙門<persName key="A005013">釋法申</persName>傳一</head><p><anchor n="T.50.2060.0460a02"/><lb ed="T" n="0460a02"/><persName key="A005013">釋法申</persName>。本姓呂。<placeName key="CN0370802Z05AA">任城</placeName>人也。祖世寓居<placeName key="CN0370781Z15AA">青州</placeName>。<lb ed="T" n="0460a03"/><persName key="A005013">申</persName>幼出家。夙懷儒素廣學經論。妙思獨<lb ed="T" n="0460a04"/>遠彌歷年祀。規空<ptr target="fn01"/>畫有日夜惆悵。隱士<persName key="A018528">平<lb ed="T" n="0460a05"/>原明</persName>曇聊嘲之曰。三陽在節明辰淑景。何<lb ed="T" n="0460a06"/>不飲美酒賦新詩。而終日竟歲瞪視四壁。<lb ed="T" n="0460a07"/>百年俄頃。知得成儒素以不。答曰。蓋是平<lb ed="T" n="0460a08"/>生鄙好。何論得失。頃之而大明成論。譽美<lb ed="T" n="0460a09"/>州鄉值<date from-iso="0466" key="j18912731891824" to-iso="0467">宋太始之初</date><placeName key="CN0320101T60AA">莊嚴寺</placeName>法集。勅請度江<lb ed="T" n="0460a10"/>住<placeName key="CN0320101T36AA">安樂寺</placeName>。累當師匠道俗欽賞。<date from-iso="0479" key="j18961611897497" to-iso="0483">建元之中</date><lb ed="T" n="0460a11"/>遭本親遠喪。道途迴<ptr target="fn02"/>岨有礙北歸。因爾屏<lb ed="T" n="0460a12"/>絕人事杜塞講說。逮齊竟陵王<persName key="A002655">蕭子良</persName><date from-iso="0483" key="j18974981901513" to-iso="0494">永明<lb ed="T" n="0460a13"/>之中</date>。請二十法師。弘宣講授苦相徵屈。辭不<lb ed="T" n="0460a14"/>獲免。當斯之盛無與友者。兼又淳厚仁<lb ed="T" n="0460a15"/><ptr target="fn＊"/>慧不出厲言。安閑守素不狎人世。以<date key="j19048211905174" from-iso="0503-02-14" to-iso="0504-02-02">天<lb ed="T" n="0460a16"/>監二年</date>卒。春秋七十有四。時復有<persName key="A005014">道達</persName><ptr target="fn＊"/><persName key="A005015">慧<lb ed="T" n="0460a17"/>命</persName>。並以勤學顯名。<persName key="A005014">達</persName>姓裴。<placeName key="CN0140823Z11AA">河東聞喜</placeName>人。住<lb ed="T" n="0460a18"/><placeName key="CN0321011Z03AA">廣陵</placeName><placeName key="CN0321001T02AA">永福精舍</placeName>。少以孝行知名。拯濟危險<lb ed="T" n="0460a19"/>道<ptr target="fn03"/>閏江濆。<date from-iso="0483" key="j18974981901513" to-iso="0494">永明中</date>為<placeName key="CN0321011Z01AA">南兗州</placeName>僧正在職廉<lb ed="T" n="0460a20"/>潔雅有治才。罷任之日唯有紙故五束。<ptr target="fn＊"/><persName key="A005015">慧<lb ed="T" n="0460a21"/>命</persName><placeName key="CN0321011Z03AA">廣陵</placeName>人。住<placeName key="CN0320101T36AA">安樂寺</placeName>。開濟篤素。專以成實<lb ed="T" n="0460a22"/>見知。</p>
+   
+     <linkGrp>
+          <link targets="#0460a02 #0460a02"/>
+          <ptr target="#A005013" type="person"/>
+          <ptr target="#CN0370802Z05AA" type="place"/>
+     </linkGrp>
+    <linkGrp>
+        <link targets="#0460a04 #0460a08"/>
+        <ptr target="#A005013" type="person"/>
+        <ptr target="#A018528" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0460a09 #0460a10"/>
+        <ptr target="#A005013" type="person"/>
+        <ptr target="#CN0320101T36AA" type="place"/>
+        <ptr target="#j18912731891824" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0460a10 #0460a14"/>
+        <ptr target="#A005013" type="person"/>
+        <ptr target="#A002655" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0460a15 #0460a16"/>
+        <ptr target="#A005013" type="person"/>
+        <ptr target="#j19048211905174" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0460a16 #0460a17"/>
+        <ptr target="#A005014" type="person"/>
+        <ptr target="#CN0140823Z11AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0460a16 #0460a18"/>
+        <ptr target="#A005014" type="person"/>
+        <ptr target="#CN0321001T02AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0460a19 #0460a20"/>
+        <ptr target="#A005014" type="person"/>
+        <ptr target="#CN0321011Z01AA" type="place"/>
+        <ptr target="#j18974981901513" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0460a20 #0460a21"/>
+        <ptr target="#A005015" type="person"/>
+        <ptr target="#CN0321011Z03AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0460a20 #0460a22"/>
+        <ptr target="#A005015" type="person"/>
+        <ptr target="#CN0320101T36AA" type="place"/>
+    </linkGrp>
+</div>

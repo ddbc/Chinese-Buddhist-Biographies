@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0669b09shiBaoJi">
+    <p><anchor n="T.50.2060.0669b09"/><lb ed="T" n="0669b09"/><persName key="A007089">釋寶積</persName>。姓朱。冀州<placeName key="CN0131181A02AA">條</placeName>人。割略愛網訪道為<lb ed="T" n="0669b10"/>任。浮遊靡定不存住止。<date key="j19318421932344" notAfter-iso="0578" notBefore-iso="0577">齊亡法毀</date>潛隱<placeName key="CN0370902M01AA">太<lb ed="T" n="0669b11"/>山</placeName>。迴互<placeName key="CN0370882Z21AA">魯</placeName><placeName key="CN0370882Z18AA">兗</placeName>乃經年稔。<date key="j19380431938426" from-iso="0594-01-29" to-iso="0595-02-16">開皇十四</date>寺。<persName key="A004324">隋高</persName><lb ed="T" n="0669b12"/>東巡候駕請謁。一見便悅。下勅入京住<placeName key="CN0610103T12AA">勝<lb ed="T" n="0669b13"/>光寺</placeName>。講揚智論及攝大乘。而體量虛廓不<lb ed="T" n="0669b14"/>計仇隙。曾有屏毀達其耳者。解衣遺之<lb ed="T" n="0669b15"/>曰。卿見<persName key="A007089">吾</persName>過。真<persName key="A007089">吾</persName>師友。<date key="j19406121940966" notAfter-iso="0602" notBefore-iso="0601">仁壽初年</date>。勅送舍<lb ed="T" n="0669b16"/>利於華岳<placeName key="CN0610582T03AA">思覺寺</placeName>。<placeName key="CN0610582T03AA">寺</placeName>即左僕射<persName key="A004462">楊素</persName>之所立<lb ed="T" n="0669b17"/>也。初下之晨。雲垂四布雪滿山邑。天地奄<lb ed="T" n="0669b18"/><ptr target="fn11"/>暗逼目無見。及期當午忽爾天清日朗。<lb ed="T" n="0669b19"/>現五色雲於塔基上。去地五丈。圓如輪蓋。<lb ed="T" n="0669b20"/>遙有見者。望其蓋上<ptr target="fn12"/>朱光赫奕。團團直上<lb ed="T" n="0669b21"/>遠連天際。暨于覆了雲合光收。還如晨旦。<lb ed="T" n="0669b22"/><persName key="A007089">積</persName>後卒於<placeName key="CN0610102Z14AA">京室</placeName>。</p>
+    <linkGrp>
+        <link targets="#0669b09 #0669b09"/>
+        <ptr target="#A007089" type="person"/>
+        <ptr target="#CN0131181A02AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0669b10 #0669b11"/>
+        <ptr target="#A007089" type="person"/>
+        <ptr target="#CN0370902M01AA" type="place"/>
+        <ptr target="#j19318421932344" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0669b10 #0669b11"/>
+        <ptr target="#A007089" type="person"/>
+        <ptr target="#CN0370882Z21AA" type="place"/>
+        </linkGrp>
+    <linkGrp>
+        <link targets="#0669b10 #0669b11"/>
+        <ptr target="#A007089" type="person"/>
+        <ptr target="#CN0370882Z18AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0669b11 #0669b12"/>
+        <ptr target="#A004324" type="person"/>
+        <ptr target="#A007089" type="person"/>
+        <ptr target="#j19380431938426" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0669b11 #0669b13"/>
+        <ptr target="#A007089" type="person"/>
+        <ptr target="#CN0610103T12AA" type="place"/>
+        <ptr target="#j19380431938426" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0669b16 #0669b16"/>
+        <ptr target="#A004462" type="person"/>
+        <ptr target="#CN0610582T03AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0669b15 #0669b21"/>
+        <ptr target="#A007089" type="person"/>
+        <ptr target="#CN0610582T03AA" type="place"/>
+        <ptr target="#j19406121940966" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0669b22 #0669b22"/>
+        <ptr target="#A007089" type="person"/>
+        <ptr target="#CN0610102Z14AA" type="place"/>
+        </linkGrp>
+</div>

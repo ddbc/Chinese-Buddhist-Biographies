@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0689c20shiHuiQuan">
+    <p><anchor n="T.50.2060.0689c20"/><lb ed="T" n="0689c20"/><persName key="A007484">釋慧<ptr target="fn27"/>銓</persName>。姓蕭氏。今特進<persName key="A002385">宋公瑀</persName>之兄子也。<lb ed="T" n="0689c21"/>父仕隋為<persName key="A006568">梁公</persName>。祖即<persName key="A005141">梁明帝</persName>矣。性度恢簡志<lb ed="T" n="0689c22"/>用冲粹。<persName key="A004876">姑</persName>即<persName key="A004413">隋煬</persName>之后也。自幼及長恒在<lb ed="T" n="0689c23"/>宮闕。慕樂超世無因自達年既冠成。帝乃<lb ed="T" n="0689c24"/>尚以<persName key="A004467">秦孝王</persName>女為妻。非其願也。事不獲<lb ed="T" n="0689c25"/>已。時行伉儷。及妻終後方遂夙心。以鄭<lb ed="T" n="0689c26"/>氏<placeName key="CN0410305Z15AA">東都</placeName>預茲剃落。及<date key="j19469511947700" notAfter-iso="0620" notBefore-iso="0618">武德初歲</date>。方還京輦<lb ed="T" n="0689c27"/>住<placeName key="CN0610113T06AA">莊嚴寺</placeName>。廣聽眾部。而以攝論為心。頗<lb ed="T" n="0689c28"/>懷篇什尤能草隷。隨筆所被用為模楷。故<lb ed="T" n="0689c29"/>經題寺額。咸推仰之。兄<persName key="A005611">鈞</persName>任東宮中舍。文<lb ed="T" n="0690a01"/>才之舉朝廷攸屬。每歲春秋相携巖岫。觸<lb ed="T" n="0690a02"/>興題篇連句同韻。時以為難兄弟也。又弟<lb ed="T" n="0690a03"/><persName key="A007485">智證</persName>。出家同住。即<persName key="A002385">宋公</persName>之兄太府卿之子也。<lb ed="T" n="0690a04"/>略榮位之好欣懷道業。勤勤自課無擇昏<lb ed="T" n="0690a05"/>曉。<persName key="A007485">證</persName>與兄<ptr target="fn01"/><persName key="A007484">銓</persName>相次而卒。以家世信奉偏弘<lb ed="T" n="0690a06"/>法華。同族尊卑咸所成誦。故蕭氏法華。皂<lb ed="T" n="0690a07"/>素稱富。特進撰疏。總集十有餘家。採掇菁<lb ed="T" n="0690a08"/>華<ptr target="fn02"/>揉以胸臆。勒成<ptr target="fn03"/>卷數常自敷弘。時召<lb ed="T" n="0690a09"/><placeName key="CN0610102Z07AA">京輦</placeName>名僧。指摘瑕累。或集親屬僧尼。數將<lb ed="T" n="0690a10"/>二十。給惠以時四事無怠。故封祿所及<ptr target="fn＊"/>惟<lb ed="T" n="0690a11"/>存通濟。太府<ptr target="fn04"/>情好讀誦為先。<ptr target="fn05"/>故生至終<lb ed="T" n="0690a12"/>誦盈萬遍雇人抄寫總有千部。每日朝參<lb ed="T" n="0690a13"/>必使儐者執經在前。至於公事微隙。便就<lb ed="T" n="0690a14"/>轉讀朝伍仰屬以為絕倫。自釋化東傳。流<lb ed="T" n="0690a15"/>味彌遠。承受讀誦世罕伊人。蕭氏一門。可<lb ed="T" n="0690a16"/>為天下模楷矣。</p>
+    <linkGrp>
+        <link targets="#0689c20 #0689c21"/>
+        <ptr target="#A007484" type="person"/>
+        <ptr target="#A002385" type="person"/>
+        <ptr target="#A006568" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0689c20 #0689c21"/>
+        <ptr target="#A005141" type="person"/>
+        <ptr target="#A002385" type="person"/>
+        <ptr target="#A006568" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0689c22 #0689c22"/>
+        <ptr target="#A007484" type="person"/>
+        <ptr target="#A004413" type="person"/>
+        <ptr target="#A004876" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0689c25 #0689c26"/>
+        <ptr target="#A007484" type="person"/>
+        <ptr target="#CN0410305Z15AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0689c26 #0689c27"/>
+        <ptr target="#A007484" type="person"/>
+        <ptr target="#CN0610113T06AA" type="place"/>
+        <ptr target="#j19469511947700" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0689c29 #0690a01"/>
+        <ptr target="#A005611" type="person"/>
+        <ptr target="#CN0610102Z07AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0689c29 #0690a03"/>
+        <ptr target="#A007484" type="person"/>
+        <ptr target="#A005611" type="person"/>
+        <ptr target="#A007485" type="person"/>
+        <ptr target="#A002385" type="person"/>
+        <ptr target="#CN0610102Z07AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0690a02 #0690a04"/>
+        <ptr target="#A007484" type="person"/>
+        <ptr target="#A007485" type="person"/>
+        <ptr target="#CN0610113T06AA" type="place"/>
+        </linkGrp>
+</div>

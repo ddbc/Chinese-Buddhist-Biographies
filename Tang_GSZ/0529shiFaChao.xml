@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0607a07shiFaChao">
+    <p><anchor n="T.50.2060.0607a07"/><lb ed="T" n="0607a07"/><persName key="A004940">釋法超</persName>。姓孟氏。<placeName key="CN0320402Z06AA">晉陵</placeName><placeName key="CN0320202Z06AA">無錫</placeName>人也。<date key="j18912641891628" from-iso="0466-01-01" to-iso="0466-12-31">十一</date>出家住<lb ed="T" n="0607a08"/><placeName key="CN0320101T62AA">靈根寺</placeName>。幼而聰頴篤學無倦。從<placeName key="CN0320101T62AA">同寺</placeName><persName key="A003141">僧護</persName><lb ed="T" n="0607a09"/>修習經論。而雅有深思。幽求討擊學論歸<lb ed="T" n="0607a10"/><ptr target="fn04"/>仰。貧無衣食乞匃自資。心性柔軟勞苦非<lb ed="T" n="0607a11"/>慮。晚從<placeName key="CN0320101T36AA">安樂寺</placeName><persName key="A002327">智稱</persName>專攻十誦。致<ptr target="fn05"/>名命<lb ed="T" n="0607a12"/>家語其折<ptr target="fn06"/>衷者。數過二百。自稱<persName key="A002327">公</persName>歿後<lb ed="T" n="0607a13"/>獨步<placeName key="CN0320106Z05AA">京邑</placeName>。中歲廢業頗失鴻緒。後復綴講<lb ed="T" n="0607a14"/>眾重殷矣。<persName key="A002098">帝</persName>謂律教乃是<ptr target="fn07"/>象運攸憑。<ptr target="fn08"/>覺<lb ed="T" n="0607a15"/><ptr target="fn09"/>慧階漸。治身滅罪之要。三聖由之而歸。必<lb ed="T" n="0607a16"/>不得<ptr target="fn10"/>門如閉目夜行。常懼蹈諸坑塹。欲<lb ed="T" n="0607a17"/>使僧尼於五篇七聚導意獎心。以超律學<lb ed="T" n="0607a18"/>之秀。勅為都邑僧正。庶其弘扇有徒。儀表<lb ed="T" n="0607a19"/>斯立。<persName key="A002098">武帝</persName>又以律部繁廣臨事難究。聽覽<lb ed="T" n="0607a20"/>餘隙遍尋戒檢。附世結文。撰為一十四卷。<lb ed="T" n="0607a21"/>號曰出要律儀。以少許之詞網羅眾部。通<lb ed="T" n="0607a22"/>下梁境並依詳用。<date key="j19128531913207" from-iso="0525-02-10" to-iso="0526-01-30">普通六年</date>。遍集知事及<lb ed="T" n="0607a23"/>於名解。於<placeName key="CN0320101A42AA">平等殿</placeName>勅<persName key="A004940">超</persName>講律。<persName key="A002098">帝</persName>親臨座聽<lb ed="T" n="0607a24"/>受成規。以眾通道俗。恐陷於愆目。但略舉<lb ed="T" n="0607a25"/><ptr target="fn11"/>剛要宣示宏旨。三旬將滿文言便竟。所以<lb ed="T" n="0607a26"/>導揚祕部弘悟當機。遂得四眾移心朝宰<lb ed="T" n="0607a27"/>胥悅。至<date key="j19134741913591" from-iso="0526-10-24" to-iso="0527-02-18">七年冬</date>。卒於<placeName key="CN0320101T37AA">天竺住寺</placeName>。春秋七十<lb ed="T" n="0607a28"/>有一。<persName key="A002098">天子</persName>下勅<ptr target="fn12"/>流慰。并令有司葬<placeName key="CN0320102T05AA">鍾山開<lb ed="T" n="0607a29"/>善寺</placeName>墓。</p>
+    <linkGrp>
+        <link targets="#0607a07 #0607a07"/>
+        <ptr target="#A004940" type="person"/>
+        <ptr target="#CN0320202Z06AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0607a07 #0607a09"/>
+        <ptr target="#A004940" type="person"/>
+        <ptr target="#A003141" type="person"/>
+        <ptr target="#CN0320101T62AA" type="place"/>
+        <ptr target="#j18912641891628" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0607a11 #0607a12"/>
+        <ptr target="#A004940" type="person"/>
+        <ptr target="#A002327" type="person"/>
+        <ptr target="#CN0320101T36AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0607a14 #0607a25"/>
+        <ptr target="#A004940" type="person"/>
+        <ptr target="#A002098" type="person"/>
+        <ptr target="#CN0320101A42AA" type="place"/>
+        <ptr target="#j19128531913207" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0607a27 #0607a28"/>
+        <ptr target="#A004940" type="person"/>
+        <ptr target="#CN0320101T37AA" type="place"/>
+        <ptr target="#j19134741913591" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0607a27 #0607a29"/>
+        <ptr target="#A004940" type="person"/>
+        <ptr target="#A002098" type="person"/>
+        <ptr target="#j19134741913591" type="time"/>
+    </linkGrp>
+</div>

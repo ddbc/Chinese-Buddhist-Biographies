@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0346c15zhiXiaoLong">
+    <p><anchor n="T.50.2059.0346c15"/><lb ed="T" n="0346c15"/><persName key="A002199">支孝龍</persName>，<placeName key="CN0320804Z27AA">淮陽</placeName>人。少以風姿見重，加復神彩<lb ed="T" n="0346c16"/>卓犖，高論適時。常披味《小品》以為心要。<placeName key="CN0341521Z58AA">陳<lb ed="T" n="0346c17"/>留</placeName><persName key="A002483">阮瞻</persName>、<placeName key="CN0341423Z21AA">頴川</placeName><persName key="A002660">庾凱</persName>，並結知音之<ptr target="fn35"/>交，世人呼 <lb ed="T" n="0346c18"/>為「八達」。時或嘲之曰：「大晉龍興，天下為家，<lb ed="T" n="0346c19"/>沙門何不全髮膚，去袈裟，釋<ptr target="fn36"/>胡服，被綾<lb ed="T" n="0346c20"/>羅？」<persName key="A002199">龍</persName>曰：「抱一以逍遙，唯寂以致誠。剪髮毀<lb ed="T" n="0346c21"/>容，改服變形，彼謂我辱，我棄彼榮。故無<lb ed="T" n="0346c22"/>心於貴而愈貴。無心於足而愈足矣。」其機<lb ed="T" n="0346c23"/>辯適時，皆此類也。</p>
+    <p>時<persName key="A000763">竺叔蘭</persName>初譯《放光經》，龍<lb ed="T" n="0346c24"/>既素樂無相，<ptr target="fn37"/>得即披閱，旬有餘日，便就開<lb ed="T" n="0346c25"/>講。後不知所終矣。<persName key="A002181">孫綽</persName>為之<ptr target="fn38"/>贊曰：「小方<lb ed="T" n="0346c26"/>易擬，大器難像，<ptr target="fn39"/>桓桓<persName key="A002199">孝龍</persName>，剋邁高廣。物<lb ed="T" n="0346c27"/>競宗歸，人思効仰，雲泉彌漫，蘭風肹<ptr target="fn40"/>嚮。」</p>
+    <linkGrp>
+        <link targets="#0346c16 #0346c18"/>
+        <ptr target="#A002199" type="person"/>
+        <ptr target="#A002483" type="person"/>
+        <ptr target="#A002660" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0346c15 #0346c15"/>
+        <ptr target="#A002199" type="person"/>
+        <ptr target="#CN0320804Z27AA" type="place"/>
+    </linkGrp>
+</div>

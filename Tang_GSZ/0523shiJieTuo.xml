@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0603b11shiJieTuo">
+    <p><anchor n="T.50.2060.0603b11"/><lb ed="T" n="0603b11"/><persName key="A006332">釋解脫</persName>。姓邢。臺山<placeName key="CN0140922A14AA">夾川</placeName>人。七歲出家。依投<lb ed="T" n="0603b12"/>名匠。志在出道唯在禪思。遠近訪法無師<lb ed="T" n="0603b13"/>不詣。復住五臺縣<placeName key="CN0140922T04AA">照果寺</placeName>。隱五臺南<placeName key="CN0140922T05AA">佛光<lb ed="T" n="0603b14"/>山寺</placeName>四十餘年。今猶故堂十餘見在。山如<lb ed="T" n="0603b15"/>佛光華彩甚盛。至夏大發昱人眼口。其側<lb ed="T" n="0603b16"/>不遠有<placeName key="CN0140900M01AA">清涼山</placeName>。山下清涼即<persName key="A002144">文殊師利</persName>遊<lb ed="T" n="0603b17"/>處之地也。有高行沙門<persName key="A006338">曜者</persName>。年百六歲。自<lb ed="T" n="0603b18"/>云。<persName key="A006338">我</persName>年五十時。與<persName key="A006332">解脫</persName>上人至中臺東南<lb ed="T" n="0603b19"/>下三十里<placeName key="CN0140922T06AA">大孚靈鷲寺</placeName>。請見<persName key="A002144">文殊</persName>。行至花<lb ed="T" n="0603b20"/>園北。遇一大德。形神慈遠。徐行東去。<persName key="A006332">解<lb ed="T" n="0603b21"/>脫</persName>頂禮發願。<persName key="A006332">我</persName>時精神欣喜不暇諮清解<lb ed="T" n="0603b22"/>脫云。已曾三度親見<persName key="A002144">文殊</persName>。誡語云。汝自悔<lb ed="T" n="0603b23"/>責。若切至必悟道也。便依言自咎。晝夜剋<lb ed="T" n="0603b24"/>責心便安靜。又感諸佛見身說偈曰。<lb ed="T" n="0603b25"/>　諸佛寂滅甚深法　　曠劫修行今乃得<lb ed="T" n="0603b26"/>　若能開明此法明　　一切諸佛皆隨喜<lb ed="T" n="0603b27"/>因問。寂滅法何者是。若為教人令解之。諸<lb ed="T" n="0603b28"/>佛即隱。空中聲曰。方便智為燈照見心境<lb ed="T" n="0603b29"/>界。欲究真實法。一切無所見。遂依此法化<lb ed="T" n="0603c01"/>導有緣。在山學者來往七八百人。四遠欽<lb ed="T" n="0603c02"/>風資給弘護。四十餘年常在佛光。<date key="j19585081960698" notAfter-iso="0656" notBefore-iso="0650">永徽中</date><lb ed="T" n="0603c03"/>卒。今靈軀尚在。嶷然坐定在山窟中。又五<lb ed="T" n="0603c04"/>臺南<placeName key="CN0140922T07AA">娑婆寺</placeName>南五六里。<persName key="A006340">普明禪師</persName>獨靜坐<lb ed="T" n="0603c05"/>禪求見<persName key="A002144">文殊</persName>。意欲請法。有神人空中告曰。<lb ed="T" n="0603c06"/><persName key="A006340">汝</persName>無神習。止可長生龕前取藥服之。可得<lb ed="T" n="0603c07"/>延壽。<persName key="A006340">明</persName>懷疑不決。後又告曰。藥名長松。<persName key="A006340">汝</persName><lb ed="T" n="0603c08"/>何不服。此藥無毒。<persName key="A006340">明</persName>便依言服之。又告同<lb ed="T" n="0603c09"/>行諸僧已騰空而去。厥處見在。去<placeName key="CN0100000M01AA">恒岳</placeName>目<lb ed="T" n="0603c10"/>矚相接。又有<persName key="A006341">僧奣禪師</persName>者。住欣州秀容<placeName key="CN0140902T01AA">建<lb ed="T" n="0603c11"/>國寺</placeName>。恒於<placeName key="CN0140921Z08AA">定襄</placeName>來望人山南坐禪餌藥。年<lb ed="T" n="0603c12"/>將八十。道俗尊仰不知志入何法。而興歎<lb ed="T" n="0603c13"/>者號不可思議人。其山靈泉望迹石上見<lb ed="T" n="0603c14"/>在。祈福者眾。<date key="j19585081960698" notAfter-iso="0656" notBefore-iso="0650">永徽中</date>有人無目不知何來。<lb ed="T" n="0603c15"/>彈琵琶誦法華一部。向望人山。手彈口誦。<lb ed="T" n="0603c16"/>以娛此山。亦不測其然。</p>
+    <linkGrp>
+        <link targets="#0603b11 #0603b13"/>
+        <ptr target="#A006332" type="person"/>
+        <ptr target="#CN0140922A14AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0603b13 #0603b13"/>
+        <ptr target="#A006332" type="person"/>
+        <ptr target="#CN0140922T04AA" type="place"/>
+        </linkGrp>
+    <linkGrp>
+        <link targets="#0603b13 #0603b14"/>
+        <ptr target="#A006332" type="person"/>
+        <ptr target="#CN0140922T05AA" type="place"/>
+        </linkGrp>
+    <linkGrp>
+        <link targets="#0603b17 #0603b19"/>
+        <ptr target="#A006332" type="person"/>
+        <ptr target="#A006338" type="person"/>
+        <ptr target="#CN0140922T06AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0603c02 #0603c03"/>
+        <ptr target="#A006332" type="person"/>
+        <ptr target="#j19585081960698" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0603c03 #0603c08"/>
+        <ptr target="#A006340" type="person"/>
+        <ptr target="#CN0140922T07AA" type="place"/>
+        </linkGrp>
+    <linkGrp>
+        <link targets="#0603c09 #0603c10"/>
+        <ptr target="#A006340" type="person"/>
+        <ptr target="#CN0100000M01AA" type="place"/>
+        </linkGrp>
+    <linkGrp>
+        <link targets="#0603c10 #0603c13"/>
+        <ptr target="#A006341" type="person"/>
+        <ptr target="#CN0140902T01AA" type="place"/>
+        </linkGrp>
+</div>

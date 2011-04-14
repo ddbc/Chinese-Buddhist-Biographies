@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0518c28shiJingTuo">
+    <p><anchor n="T.50.2060.0518c28"/><lb ed="T" n="0518c28"/><persName key="A005579">釋敬脫</persName>。不詳姓氏。<placeName key="CN0410781Z20AA">汲郡</placeName>人也。<ptr target="fn34"/>童少出家。<lb ed="T" n="0518c29"/>以孝行清直知名。雖該覈小大偏明成<lb ed="T" n="0519a01"/>實。講解周鏡不虧聲<ptr target="fn01"/>問。開張衢術章疏惟<lb ed="T" n="0519a02"/>新。為後學宗仰。又善聲韻兼通字體。蒼雅<lb ed="T" n="0519a03"/>林統識其科蹤。文章篇什頗豫倫伍。同住<lb ed="T" n="0519a04"/>房院罕見餘談。手不輟卷專師廣贍。威儀<lb ed="T" n="0519a05"/>修整未曾反顧。身極長大充滿圓成。時共目<lb ed="T" n="0519a06"/>之以為僧傑。人有達於<persName key="A004413">帝</persName>者。乃追住<placeName key="CN0410305T02AA">慧<lb ed="T" n="0519a07"/>日</placeName>。四海齊架又無與競。志節堅正最為稱<lb ed="T" n="0519a08"/>首。<persName key="A004413">帝</persName>欲試諸大德誰為剛亮。通命引入<ptr target="fn02"/><placeName key="CN0610102A01AA">允<lb ed="T" n="0519a09"/>武殿</placeName>。勅監門郎將<persName key="A005580">段文操</persName>。拔刀逐之令走。<lb ed="T" n="0519a10"/>諸大德並趨步速往。唯<persName key="A005579">脫</persName>緩步如常。語操<lb ed="T" n="0519a11"/>曰<persName key="A005580">卿</persName>何事以此相逼。及上殿坐語論佛理。<lb ed="T" n="0519a12"/><persName key="A004413">帝</persName>徐顧操曰。眾僧素不知俗法。監門何得<lb ed="T" n="0519a13"/>催耶。私異<persName key="A005579">脫</persName>之大志也。勅賜大竹扇。面闊<lb ed="T" n="0519a14"/>三尺。即令執用。并賜松抱高屧。令著於宮<lb ed="T" n="0519a15"/>中而出。<persName key="A004413">帝</persName><ptr target="fn03"/>自送之曰。誠僧傑矣。爾後常<lb ed="T" n="0519a16"/>弘成實無替時序。以<date key="j19464591946754" from-iso="0617-02-14" to-iso="0617-12-06">大業十三年</date>卒于<placeName key="CN0410311T14AA">東<lb ed="T" n="0519a17"/>都鴻臚寺</placeName>。春秋六十三。自<persName key="A005579">脫</persName>之聽學也。常<lb ed="T" n="0519a18"/>施荷擔母置一頭。經書及筆又置一頭。若<lb ed="T" n="0519a19"/>至食時留母樹下。入村乞食用以<ptr target="fn04"/>充繼。其<lb ed="T" n="0519a20"/>筆絕大麁管如臂可長三尺。方丈一字莫<lb ed="T" n="0519a21"/>不高推。人有乞書者。紙但一字耳。風力遒<lb ed="T" n="0519a22"/>逸覩之不厭。皆施諸壁上來往觀省。<placeName key="CN0410305Z16AA">東都</placeName><lb ed="T" n="0519a23"/>門額。皆<persName key="A005579">脫</persName>所題。隨一賦筆更不修飾。時<placeName key="CN0410305T02AA">慧<lb ed="T" n="0519a24"/>日</placeName>有沙門<persName key="A005507">法楞</persName>者。偏弘地論著述疏記。聲<lb ed="T" n="0519a25"/>名相副見重道場。及于終世。以事聞奏。<persName key="A004413">帝</persName><lb ed="T" n="0519a26"/>哀之。殯殮所資皆從天府。</p>
+    <linkGrp>
+        <link targets="#0518c28 #0518c28"/>
+        <ptr target="#A005579" type="person"/>
+        <ptr target="#CN0410781Z20AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0519a06 #0519a07"/>
+        <ptr target="#A005579" type="person"/>
+        <ptr target="#CN0410305T02AA" type="place"/>
+        </linkGrp>
+    <linkGrp>
+        <link targets="#0519a08 #0519a15"/>
+        <ptr target="#A005579" type="person"/>
+        <ptr target="#A004413" type="person"/>
+        <ptr target="#A005580" type="person"/>
+        <ptr target="#CN0610102A01AA" type="place"/>
+        </linkGrp>
+    <linkGrp>
+        <link targets="#0519a16 #0519a17"/>
+        <ptr target="#A005579" type="person"/>
+        <ptr target="#CN0410311T14AA" type="place"/>
+        <ptr target="#j19464591946754" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0519a23 #0519a25"/>
+        <ptr target="#A005507" type="person"/>
+        <ptr target="#CN0410305T02AA" type="place"/>
+        </linkGrp>
+</div>

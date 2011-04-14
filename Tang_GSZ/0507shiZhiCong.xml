@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0595a28shiZhiCong">
+    <p><anchor n="T.50.2060.0595a28"/><lb ed="T" n="0595a28"/><persName key="A006253">釋智聰</persName>。未詳何人。昔住楊<ptr target="fn14"/>都<placeName key="CN0320101T49AA">白馬寺</placeName>。後住<lb ed="T" n="0595a29"/><ptr target="fn15"/><placeName key="CN0320113T02AA">止觀</placeName>專聽三論。<date key="j19361891936553" from-iso="0589-01-01" to-iso="0589-12-31">陳平</date>後<ptr target="fn16"/>度江住楊州<placeName key="CN0321002T02AA">安<lb ed="T" n="0595b01"/>樂寺</placeName>。<date key="j19464151946779" from-iso="0617-01-01" to-iso="0617-12-31">大業既崩</date>思歸無計。隱江荻中誦法<lb ed="T" n="0595b02"/>華經七日不<ptr target="fn＊"/>饑。恒有四虎遶之而已。不<lb ed="T" n="0595b03"/>食已來經今十日。<persName key="A006253">聰</persName>曰。<persName key="A006253">吾</persName>命須臾。卿須可<lb ed="T" n="0595b04"/>食。虎曰。造天立地無有此理。忽有一<ptr target="fn17"/>翁<lb ed="T" n="0595b05"/>年可八十。掖下挾船曰。師欲度江<placeName key="CN0320113T01AA">栖霞</placeName>住<lb ed="T" n="0595b06"/>者。可即上船。四虎一時目中淚出。<persName key="A006253">聰</persName>曰。救<lb ed="T" n="0595b07"/>危拔難正在今日可迎四虎。於是利涉往<lb ed="T" n="0595b08"/>達南岸。船及老人不知何在。<persName key="A006253">聰</persName>領四虎同<lb ed="T" n="0595b09"/>至<placeName key="CN0320113T01AA">栖霞</placeName>舍利塔西。經行坐禪誓不寢臥。眾徒<lb ed="T" n="0595b10"/>八十咸不出院。若有凶事一虎入<placeName key="CN0320113T01AA">寺</placeName>大聲<lb ed="T" n="0595b11"/>告眾。由此<ptr target="fn18"/>驚悟每以為式。<persName key="A006253">聰</persName>以山林幽遠<lb ed="T" n="0595b12"/>糧粒<ptr target="fn19"/>艱阻。乃合率<placeName key="CN0321002Z02AA">楊州</placeName>三百清信以為米<lb ed="T" n="0595b13"/>社人別一石年<ptr target="fn20"/>一送之。由此山糧供給。道<lb ed="T" n="0595b14"/>俗乃至禽獸通皆濟給。至<date key="j19578651957865" when-iso="0648-05-08">貞觀二十<ptr target="fn21"/>二年<lb ed="T" n="0595b15"/>四月八日</date>。小食訖往<placeName key="CN0320113T02AA">止觀寺</placeName>。禮大師影像<lb ed="T" n="0595b16"/>執鑪遍禮。又往<placeName key="CN0320102T24AA">興皇</placeName>墓所禮拜。還歸本房<lb ed="T" n="0595b17"/>安坐而卒。異香充溢。<placeName key="CN0320105Z23AA">丹</placeName>陽一郭受戒道俗三<lb ed="T" n="0595b18"/>千餘人。奔走山服哀慟林野。時年九十九<lb ed="T" n="0595b19"/>矣。</p>
+    <linkGrp>
+        <link targets="#0595a28 #0595a28"/>
+        <ptr target="#A006253" type="person"/>
+        <ptr target="#CN0320101T49AA" type="place"/>
+        </linkGrp>
+    <linkGrp>
+        <link targets="#0595a28 #0595a29"/>
+        <ptr target="#A006253" type="person"/>
+        <ptr target="#CN0320113T02AA" type="place"/>
+        </linkGrp>
+    <linkGrp>
+        <link targets="#0595a29 #0595b01"/>
+        <ptr target="#A006253" type="person"/>
+        <ptr target="#CN0321002T02AA" type="place"/>
+        <ptr target="#j19361891936553" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0595b01 #0595b09"/>
+        <ptr target="#A006253" type="person"/>
+        <ptr target="#CN0320113T01AA" type="place"/>
+        <ptr target="#j19464151946779" type="time"/>
+        </linkGrp>
+    <linkGrp>
+        <link targets="#0595b12 #0595b13"/>
+        <ptr target="#A006253" type="person"/>
+        <ptr target="#CN0321002Z02AA" type="place"/>
+        </linkGrp>
+    <linkGrp>
+        <link targets="#0595b14 #0595b17"/>
+        <ptr target="#A006253" type="person"/>
+        <ptr target="#CN0320113T02AA" type="place"/>
+        <ptr target="#j19578651957865" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0595b14 #0595b17"/>
+        <ptr target="#A006253" type="person"/>
+        <ptr target="#CN0320102T24AA" type="place"/>
+        <ptr target="#j19578651957865" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0595b14 #0595b17"/>
+        <ptr target="#A006253" type="person"/>
+        <ptr target="#CN0320113T01AA" type="place"/>
+        <ptr target="#j19578651957865" type="time"/>
+    </linkGrp>
+</div>

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0388c20qianTuoLe">
+    <p><anchor n="T.50.2059.0388c20"/><lb ed="T" n="0388c20"/><persName key="A002281">揵陀勒</persName>者，本<placeName key="CN0650000E01AA">西域</placeName>人，來至<placeName key="CN0410322Z24AA">洛陽</placeName>積年。眾雖<lb ed="T" n="0388c21"/>敬其風操，而終莫能測。後謂眾僧曰：「<placeName key="CN0410322Z24AA">洛</placeName>東<lb ed="T" n="0388c22"/>南有<placeName key="CN0410301M01AA">槃鵄山</placeName>，<placeName key="CN0410301M01AA">山</placeName>有古寺廟處，基墌猶存，可<lb ed="T" n="0388c23"/>共修立。」眾未之信，試逐檢視。入山到一處，<lb ed="T" n="0388c24"/>四面平坦，<persName key="A002281">勒</persName>示云：「此即寺基也。」即掘之，果<lb ed="T" n="0388c25"/>得寺下石基。後示講堂僧房處，如言皆驗。<lb ed="T" n="0388c26"/>眾咸驚歎，因共修立，以勒為寺主。</p><p><ptr target="fn25"/>寺去<placeName key="CN0410322Z24AA">洛<lb ed="T" n="0388c27"/>城</placeName>一百餘里，朝朝至<placeName key="CN0410322Z24AA">洛陽</placeName>諸寺赴中，暮輒<lb ed="T" n="0388c28"/>乞油一鉢，還寺然燈。以此為常，未曾違<lb ed="T" n="0388c29"/>失。有人健行，欲隨勒觀其遲疾，奔馳流汗，<lb ed="T" n="0389a01"/>恒苦不及。勒令執袈裟角，唯聞厲風之響，<lb ed="T" n="0389a02"/>不復覺倦，須臾至寺。勒後不知所終。</p>
+    <linkGrp>
+        <link targets="#0388c20 #0388c20"/>
+        <ptr target="#A002281" type="person"/>
+        <ptr target="#CN0650000E01AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0388c20 #0388c21"/>
+        <ptr target="#A002281" type="person"/>
+        <ptr target="#CN0410322Z24AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0388c21 #0388c26"/>
+        <ptr target="#A002281" type="person"/>
+        <ptr target="#CN0410301M01AA" type="place"/>
+        </linkGrp>
+</div>

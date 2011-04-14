@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0668c11shiMingDan">
+    <p><anchor n="T.50.2060.0668c11"/><lb ed="T" n="0668c11"/><persName key="A007062">釋明誕</persName>。姓史。衛州<placeName key="CN0410781Z15AA">汲</placeName>人。律儀行務履顧前<lb ed="T" n="0668c12"/>賢。通十地地持。赴機講解。攝大乘論彌見<lb ed="T" n="0668c13"/>弘演。後入京住<placeName key="CN0610103T12AA">勝光寺</placeName>。溫柔敦厚姓無迫<lb ed="T" n="0668c14"/>暴。有勅召送舍利于襄州<placeName key="CN0420602T02AA">上鳳林寺</placeName>基<ptr target="fn22"/>趾。<lb ed="T" n="0668c15"/>梁代雕飾隋初顯敞。高林跨谷連院。松竹交<lb ed="T" n="0668c16"/>映泉石相喧。邑<ptr target="fn23"/>屋相望索然閑舉。有遊覽<lb ed="T" n="0668c17"/>者皆忘返焉。<date key="j19186571933330" notAfter-iso="0581" notBefore-iso="0541"><persName key="A004324">文帝</persName>龍潛之日</date>。因往禮拜乞願<lb ed="T" n="0668c18"/>弘護。及踐寶位追惟往福。歲常就寺廣設<lb ed="T" n="0668c19"/>供養。仍又改為<placeName key="CN0420602T02AA">大興國寺</placeName>。及<persName key="A007062">誕</persName>之至彼安<lb ed="T" n="0668c20"/><ptr target="fn24"/>厝塔基。<placeName key="CN0420602T02AA">寺</placeName>之東院鑿地數尺獲琉璃瓶。內<lb ed="T" n="0668c21"/>有舍利八枚。聚散呈祥形質不定。或現<ptr target="fn25"/>全<lb ed="T" n="0668c22"/>碎顯發神奇。即與<ptr target="fn26"/>今送同處起塔。又下<lb ed="T" n="0668c23"/>穿掘得石。銘云。大同三十六年已後。開<date key="j19406121942058" notAfter-iso="0605" notBefore-iso="0601">仁<lb ed="T" n="0668c24"/>壽</date>之化。依檢梁<ptr target="fn27"/>歷有號大同。至今歲紀<lb ed="T" n="0668c25"/>髣髴符會。<persName key="A007062">誕</persName>欣感嘉瑞。乃表奏聞。寺有金<lb ed="T" n="0668c26"/>像一<ptr target="fn28"/>軀。舉高丈六。面部圓滿相儀充備<ptr target="fn29"/>峙<lb ed="T" n="0668c27"/>于堂內。眾鳥無敢踐足。庭前樹碑。<persName key="A005005">庾信</persName>文<lb ed="T" n="0668c28"/>蕭雲<!--找不到此人-->書。世稱冠絕。<persName key="A007062">誕</persName>歷覽徽猷。講授相接。<lb ed="T" n="0668c29"/>終于本寺。</p>
+    <linkGrp>
+        <link targets="#0668c11 #0668c11"/>
+        <ptr target="#A007062" type="person"/>
+        <ptr target="#CN0410781Z15AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0668c13 #0668c14"/>
+        <ptr target="#A007062" type="person"/>
+        <ptr target="#CN0610103T12AA" type="place"/>
+        </linkGrp>
+    <linkGrp>
+        <link targets="#0668c14 #0668c25"/>
+        <ptr target="#A007062" type="person"/>
+        <ptr target="#CN0420602T02AA" type="place"/>
+        </linkGrp>
+    <linkGrp>
+        <link targets="#0668c17 #0668c18"/>
+        <ptr target="#A004324" type="person"/>
+        <ptr target="#CN0420602T02AA" type="place"/>
+        <ptr target="#j19186571933330" type="time"/>
+    </linkGrp>
+</div>

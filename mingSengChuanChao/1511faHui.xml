@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><div xml:id="mscc0358a17faHui" xmlns="http://www.tei-c.org/ns/1.0"><head>齊山陰天柱等<!--應為"齊高昌仙窟寺"--><persName key="A014025">釋法慧</persName></head><p><anchor n="X.77.1523.0358a17"/><lb ed="X" n="0358a17"/>法惠本姓李氏。<placeName key="CN0360826Z01AA">高昌</placeName>人。少好射獵。酣酒弦歌。其婦美<lb ed="X" n="0358a18"/>艶。一國無雙。<ptr target="fn2"/>高富子弟。爭與私通。<persName key="A014025">惠</persName>他日出遊。為豪<lb ed="X" n="0358a19"/>富所打。友人報語。<persName key="A014025">惠</persName>自思惟。己有大力。必當見殺。避<lb ed="X" n="0358a20"/>往<placeName key="CN0652923Z09AA">龜茲</placeName>。乃願出家。貧無法服。外國人死。衣以好衣。送<lb ed="X" n="0358a21"/>尸陀林。辭訣而反。<persName key="A014025">惠</persName>隨他葬家人去彼。剝死人衣。遇<lb ed="X" n="0358a22"/>起尸鬼起。相菆臾更為上下。凡經七反。惠率獲勝。剝<lb ed="X" n="0358a23"/>取衣裳。貨得三千。以為法服。仍得出家。修學禪律。苦<lb ed="X" n="0358a24"/>行絕群。蔬食善誘。心無是非。後還<placeName key="CN0652101Z28AA">高昌</placeName>。住<placeName key="CN0652101T02AA">仙窟寺</placeName>。德<lb ed="X" n="0358b01"/>索既高。尼眾依止。稟其誠訓。唯都<placeName key="CN0652101T01AA">郎中寺</placeName><persName key="A016107">馮尼</persName>每謂<lb ed="X" n="0358b02"/><persName key="A014025">惠</persName>曰。阿闍梨未好。可往<placeName key="CN0652923Z09AA">龜茲國</placeName>。<placeName key="CN0652923T04AA">金華寺</placeName>帳下<persName key="A016111">直月</persName>間。<lb ed="X" n="0358b03"/>當得勝法。惠信尼語。往至<placeName key="CN0652923Z16AA">龜茲</placeName>。到見<persName key="A016111">直月</persName>。直月歡喜。<lb ed="X" n="0358b04"/>呼進房內。以蒲陶酒。一斗五升。服令其飲。<persName key="A014025">惠</persName>大驚愕。<lb ed="X" n="0358b05"/>我清淨久。本來覓法。翻飲非法之藥。苦執不肯。<persName key="A016111">直月</persName><lb ed="X" n="0358b06"/>急推令去。<persName key="A014025">惠</persName>即退思。遂不敢違。<ptr target="fn3"/>違便頓飲盡。醉<ptr target="fn4"/>問而<lb ed="X" n="0358b07"/>臥。<persName key="A016111">直月</persName>鏁房。乃更餘行。及<persName key="A014025">惠</persName>酒醒。追自拔惱。我忽犯<lb ed="X" n="0358b08"/>戒。悔過自責。槌打身體。欲自害命。於此少時。得第三<lb ed="X" n="0358b09"/>果。<persName key="A016111">直月</persName>還問曰。得<ptr target="fn5"/>和後。還<placeName key="CN0652101Z28AA">高昌</placeName>。大弘經律。道俗歸敬。<lb ed="X" n="0358b10"/>頎動鄉邑。<date from-iso="0499-01-29" to-iso="0502-01-02" key="j19033451904413">齊永元年</date>。無疾坐亡。手屈四指云(弟子<persName key="A018952">惠化</persName>所述<lb ed="X" n="0358b11"/>云云)。</p>
+    <linkGrp>
+        <link targets="#0358a19 #0358a20"/>
+        <ptr type="person" target="#A014025"/>
+        <ptr type="place" target="#CN0652923Z09AA"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0358a24 #0358b03"/>
+        <ptr type="person" target="#A014025"/>
+        <ptr type="person" target="#A016107"/>
+        <ptr type="place" target="#CN0652101T02AA"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0358a24 #0358b09"/>
+        <ptr type="person" target="#A014025"/>
+        <ptr type="person" target="#A016111"/>
+        <ptr type="place" target="#CN0652923T04AA"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0358b09 #0358b11"/>
+        <ptr type="person" target="#A014025"/>
+        <ptr type="person" target="#A018952"/>
+        <ptr type="place" target="#CN0652101Z28AA"/>
+        <ptr type="time" target="#d54077265408773"/>
+    </linkGrp>
+</div>
+

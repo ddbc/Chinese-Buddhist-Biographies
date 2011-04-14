@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0398c06shiHuiTong">
+    <p><anchor n="T.50.2059.0398c07"/><lb ed="T" n="0398c07"/><persName key="A002305">釋慧通</persName>，<placeName key="CN0610000E01AA">關中</placeName>人。少止<placeName key="CN0610101T20AA">長安太后寺</placeName>，蔬食持<lb ed="T" n="0398c08"/>呪，誦《增一阿含經》。初從<placeName key="CN0620602Z11AA">涼州</placeName>禪師<persName key="A003330">慧<ptr target="fn17"/>詔</persName>諮<lb ed="T" n="0398c09"/>受禪業，法門觀行，多所遊刃。常祈心安養，<lb ed="T" n="0398c10"/>而欲栖神彼國。微疾，乃於禪中見一人來，<lb ed="T" n="0398c11"/>形甚端嚴，語通言：良時至矣。須臾見無量<lb ed="T" n="0398c12"/>壽佛光<ptr target="fn18"/>相暉然。<persName key="A002305">通</persName>因覺禪，具告同學所見，<lb ed="T" n="0398c13"/>言訖便化。異香在房，三日乃歇，春秋五十九<lb ed="T" n="0398c14"/>矣。</p>
+    <linkGrp>
+        <link targets="#0398c08 #0398c09"/>
+        <ptr target="#A002305" type="person"/>
+        <ptr target="#A003330" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0398c07 #0398c07"/>
+        <ptr target="#A002305" type="person"/>
+        <ptr target="#CN0610101T20AA" type="place"/>
+        </linkGrp>
+</div>

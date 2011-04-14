@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0370a01shiTanJian">
+	<p><anchor n="T.50.2059.0370a01"/><lb ed="T" n="0370a01"/><persName key="A002232">釋曇鑒</persName>，姓趙，<placeName key="CN0130423Z24AA">冀州</placeName>人。少出家，事<persName key="A002925">竺道祖</persName>為<lb ed="T" n="0370a02"/>師。蔬食布衣，律行精苦，學究群經，兼善數<lb ed="T" n="0370a03"/>論。聞<persName key="A001583">什公</persName>在<placeName key="CN0610000E01AA">關</placeName>，杖策從學。<persName key="A001583">什</persName>常謂<persName key="A002232">鑒</persName>為一<lb ed="T" n="0370a04"/>聞持人。後遊方宣化，達自<placeName key="CN0421087Z20AA">荊州</placeName>，止<placeName key="CN0422422T01AA">江陵辛<lb ed="T" n="0370a05"/>寺</placeName>。年登耳順，勵行彌潔，常願生安養，瞻覲<lb ed="T" n="0370a06"/>彌陀。後弟子<persName key="A002219">僧濟</persName>，辭往<placeName key="CN0421087T06AA">上明</placeName>，<persName key="A002232">鑒</persName>云：「<persName key="A002219">汝</persName>去迺<lb ed="T" n="0370a07"/><ptr target="fn01"/>佳，恐不復相見。」因委曲疏受付囑。至夜與<lb ed="T" n="0370a08"/>諸耆老共敘無常，言甚切至。既夜，各各還<lb ed="T" n="0370a09"/>房，<persName key="A002232">鑒</persName>獨留步廊下。至三更，沙彌<persName key="A002926">僧願</persName>請還<lb ed="T" n="0370a10"/>房，<persName key="A002232">鑒</persName>曰：「<persName key="A002926">汝</persName>但眠，不須復來。」至明旦，弟子<persName key="A001741">慧<lb ed="T" n="0370a11"/>嚴</persName>依常問訊，見合掌平坐，而口不言，迫就<lb ed="T" n="0370a12"/>察<persName key="A002232">之</persName>，實迺已卒。身體柔軟，香潔倍常，因申而<lb ed="T" n="0370a13"/>殮焉。春秋七十。<placeName key="CN0320503Z22AA">吳郡</placeName><persName key="A002927">張<ptr target="fn02"/>辯</persName>作傳并<ptr target="fn03"/>贊，<ptr target="fn＊"/>贊<lb ed="T" n="0370a14"/>曰：「披荔逞芬，<ptr target="fn04"/>握<ptr target="fn05"/>瑾表潔。渾渾法<ptr target="fn06"/>師，弗<lb ed="T" n="0370a15"/><ptr target="fn07"/>淄弗涅。暐曄初辰，條蔚<ptr target="fn08"/>暮節。神遊智往，<lb ed="T" n="0370a16"/>豈伊實訣。」</p><p>時<placeName key="CN0421003Z05AA">江陵</placeName>又有<persName key="A002928">釋道海</persName>、北州<!-- 中國歷史地名大辭典=泛指西部各州 --><persName key="A002929">釋<ptr target="fn＊"/>慧龕</persName>、<lb ed="T" n="0370a17"/>東州<!-- 中國歷史地名大辭典=泛指東方各州 --><persName key="A002930">釋<ptr target="fn＊"/>慧恭</persName>、<placeName key="CN0341521Z55AA">淮南</placeName><persName key="A002931">釋曇泓</persName>、東轅山<persName key="A002932">釋道廣</persName>、<placeName key="CN0411282Z20AA">弘<lb ed="T" n="0370a18"/>農</placeName><persName key="A002933">釋道光</persName>等，並願生安養，臨終祥瑞焉。</p>
+	
+	<linkGrp>
+		<link targets="#0370a01 #0370a02"/>
+		<ptr target="#A002232" type="person"/>
+		<ptr target="#A002925" type="person"/>
+	</linkGrp>
+	<linkGrp>
+		<link targets="#0370a03 #0370a04"/>
+		<ptr target="#A002232" type="person"/>
+		<ptr target="#A001583" type="person"/>
+		<ptr target="#CN0610000E01AA" type="place"/>
+	</linkGrp>
+	<linkGrp>
+		<link targets="#0370a06 #0370a13"/>
+		<ptr target="#A002232" type="person"/>
+		<ptr target="#A002219" type="person"/>
+		<ptr target="#A001741" type="person"/>
+		<ptr target="#A002926" type="person"/>
+		<ptr target="#CN0422422T01AA" type="place"/>
+	</linkGrp>
+	<linkGrp>
+		<link targets="#0370a03 #0370a04"/>
+		<ptr target="#A002232" type="person"/>
+		<ptr target="#A001583" type="person"/>
+		<ptr target="#CN0610000E01AA" type="place"/>
+		</linkGrp>
+               <linkGrp>
+               	<link targets="#0370a04 #0370a05"/>
+		<ptr target="#A002232" type="person"/>
+		<ptr target="#CN0422422T01AA" type="place"/>
+		</linkGrp>
+</div>

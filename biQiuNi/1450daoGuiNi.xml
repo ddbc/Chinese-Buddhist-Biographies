@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="bqnz0947c17daoGuiNi">
+    <head><ptr target="fn46"/><placeName key="CN0000000T20AA">邸山寺</placeName><ptr target="fn＊"/><persName key="A016299">釋道貴</persName>尼<ptr target="fn47"/>傳十三</head><p><anchor n="T.50.2063.0947c18"/><lb ed="T" n="0947c18"/><persName key="A016299">道貴</persName>，本姓壽，<placeName key="CN0610112Z06AA">長安</placeName>人也。幼清夷沖素，善研<lb ed="T" n="0947c19"/>機理，志幹勤整，精苦過人。誓弘<ptr target="fn48"/>大化，葷鮮不<lb ed="T" n="0947c20"/>食，濟物為懷，弊衣自足。誦勝鬘、無量壽經，不<lb ed="T" n="0947c21"/>捨晝夜。父母<ptr target="fn49"/>愛念，使其為道。<date key="j18843241884688" from-iso="0447-01-01" to-iso="0447-12-31">十七</date>出家，博覽<lb ed="T" n="0947c22"/>經律，究<ptr target="fn50"/>委文理，不羨名聞，唯以<ptr target="fn51"/>習道為業。<lb ed="T" n="0947c23"/>觀境入定，行坐不休。悔過發願，言辭哀<ptr target="fn52"/>懇，<lb ed="T" n="0947c24"/>聽者震肅。齊竟陵文宣王<persName key="A002655">蕭子良</persName>善相推敬，<lb ed="T" n="0947c25"/>為造<placeName key="CN0000000T20AA">頂山寺</placeName>，以聚禪眾。請<persName key="A016299">貴</persName>為知事，固執不<lb ed="T" n="0947c26"/>從；請為禪範，然後許之。於是結<ptr target="fn53"/>桂林下，栖<lb ed="T" n="0948a01"/>寄畢世。縱復屯雲晦景，委雪埋山，端然寂坐，<lb ed="T" n="0948a02"/>曾無<ptr target="fn1"/>間焉。得人信施，廣興福業，不以纖毫自<lb ed="T" n="0948a03"/>潤己身。年八十六，<ptr target="fn＊"/><date from-iso="0516" key="j19095751909929" to-iso="0517">天監十五年</date><ptr target="fn＊"/>而卒，葬于<lb ed="T" n="0948a04"/><placeName key="CN0320102M02AA">鍾山</placeName>之陽也。</p>
+    <linkGrp>
+        <link targets="#0947c21 #0947c22"/>
+        <ptr target="#A016299" type="person"/>
+        <ptr target="#j18843241884688" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0948a03 #0948a04"/>
+        <ptr target="#A016299" type="person"/>
+        <ptr target="#j19095751909929" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0947c24 #0947c26"/>
+        <ptr target="#A016299" type="person"/>
+        <ptr target="#A002655" type="person"/>
+        <ptr target="#CN0000000T20AA" type="place"/>
+        </linkGrp>
+</div>

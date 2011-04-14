@@ -1,0 +1,302 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+          <title xml:lang="zh-Latn">Liang Gaoseng Zhuan</title>
+          <title xml:lang="zh-Hant">梁高僧傳</title>
+          <title xml:lang="en">Liang Dynasty Collection of Biographies of Eminent Monks</title>
+        </title>
+        <author><name xml:lang="zh-Latn">Huijiao</name><name xml:lang="zh-Hant">慧皎</name>(497-554)</author>
+        <respStmt><resp>Encoding, Markup</resp><name>Zhiwei Xu 許智偉, Bo-Yong Zhang 張伯雍</name></respStmt>
+        <respStmt><resp>Programming, Interface Design</resp><name>Jen-jou Hung 洪振洲, Jhih-Sian Lee 李志賢</name></respStmt>
+        <respStmt><resp>Archive Creation and Maintainance</resp><name>Ray Chou 周邦信</name></respStmt>
+        <principal>Marcus Bingenheimer</principal>
+      </titleStmt>
+      <publicationStmt>
+        <date>2008-2011</date>
+        <publisher>Dharma Drum Buddhist College 法鼓佛教學院</publisher>
+        <pubPlace>Jinshan, Taiwan 台灣新北市金山區</pubPlace>
+        <availability status="free"><p>This electronic text is distributed by Dharma Drum Buddhist College under a <ref target="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution Share-Alike Licence</ref>.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Text base is the CBETA edition of the Chinese Buddhist Canon (Version 2008). </p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc> 
+      <creation>The Liang Gaoseng zhuan is dated <date>519 CE</date></creation>
+    </profileDesc>
+    <encodingDesc>
+      <p xml:lang="zh">文本中之人名、地名或日期，若於大正藏中之參校用字較正確，則從參校用字。</p>
+      <p xml:lang="en">Within a name or date, we identify wherever possible mistakes in the main text of the Taisho canon. In cases where a better reading is available in the apparatus, the character from the apparatus is used.</p>
+      <p xml:lang="zh">文本中所使用的新式標點，其主要是參考台北三民書局於2005年出版的《新譯高僧傳》，作者為朱恒夫、王學鈞、趙益、潘柏世。</p>
+      <p xml:lang="en">The punctuation of this digital edition follows in the main the 2005 edition "XInyi Gaoseng zhuan 新譯高僧傳" Taipei: Sanmin 三民. Zhu Hengfu et.al. (eds.)</p>
+      <p xml:lang="zh">本數位版本是法鼓佛教學院佛教傳記文學專案的一部分<ref>http://buddhistinformatics.ddbc.edu.tw/biographies/</ref></p>
+      <p xml:lang="en">This digital edition is part of the Buddhist Biography Literature Project at Dharma Drum Buddhist College. <ref>http://buddhistinformatics.ddbc.edu.tw/biographies/</ref></p>
+      <p>For a discussion of the project please refer to <bibl>Bingenheimer, Marcus; Hong, Jen-Jou; Wiles, Simon 2009: “Markup meets GIS - Visualizing the ‘Biographies of Eminent Buddhist Monks’.” In: Proceedings Information Visualization IV 2009. Edited by E.Banissi et.al. Published by the IEEE Computer Society. ISBN: 978-0-7695-3733-7. pp.550-554. DOI: 10.1109/IV.2009.91</bibl> and <bibl>Jen-Jou HUNG, Marcus BINGENHEIMER, Zhi-Wei XU 2010: “漢文佛典的語意標記與應用：《高僧傳》文獻的時空資訊視覺化和語意搜尋 - Semantic markup for Chinese Buddhist texts and its Application- A Platform for Querying and Spatio-temporal Visualization of the Biographies of Eminent Monks”, (國立政治大學) 圖書與資訊學刊 (National Changchi University) Journal of Librarianship and Information Studies. Vol.2, No.3 (No.74), Aug 2010, pp.1-24.</bibl> <bibl>Jen-Jou HUNG, Marcus BINGENHEIMER, Simon WILES 2010: “Digital Texts and GIS: The interrogation and coordinated visualization of Classical Chinese texts" Proceedings International Conference on Computer Design and Applications ICCDA 2010. ISBN: 978-1-4244-7163-8</bibl></p>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <xi:include href="0001sheMoteng.xml"/>
+      <xi:include href="0002zhufalan.xml"/>
+      <xi:include href="0003anqing.xml"/>
+      <xi:include href="0004zhiloujiachen.xml"/>
+      <xi:include href="0005tankejialuo.xml"/>
+      <xi:include href="0006kangSengHui.xml"/>
+      <xi:include href="0007weizhiNan.xml"/>
+      <xi:include href="0008zhuTanmoLuoCha.xml"/>
+      <xi:include href="0009boYuan.xml"/>
+      <xi:include href="0010boShilimiduoluo.xml"/>
+      <xi:include href="0011sengjiabaCheng.xml"/>
+      <xi:include href="0012tanmonanti.xml"/>
+      <xi:include href="0013sengJiatipo.xml"/>
+      <xi:include href="0014zhufonian.xml"/>
+      <xi:include href="0015tanmoyeShe.xml"/>
+      <xi:include href="0016jiumoluoShi.xml"/>
+      <xi:include href="0017fuRuoDuoLuo.xml"/>
+      <xi:include href="0018tanmoliuzhi.xml"/>
+      <xi:include href="0019beimoluocha.xml"/>
+      <xi:include href="0020fotuoyeShe.xml"/>
+      <xi:include href="0021fotuobatuoluo.xml"/>
+      <xi:include href="0022tanwuchen.xml"/>
+      <xi:include href="0023faXian.xml"/>
+      <xi:include href="0024tanwujie.xml"/>
+      <xi:include href="0025fotuoShi.xml"/>
+      <xi:include href="0026futuobamo.xml"/>
+      <xi:include href="0027zhiYan.xml"/>
+      <xi:include href="0028baoYun.xml"/>
+      <xi:include href="0029qiuNabamo.xml"/>
+      <xi:include href="0030sengjiabamo.xml"/>
+      <xi:include href="0031tanmomiduo.xml"/>
+      <xi:include href="0032zhiMeng.xml"/>
+      <xi:include href="0033jiangliangYeShe.xml"/>
+      <xi:include href="0034qiuNabamoluo.xml"/>
+      <xi:include href="0035qiuNapidi.xml"/>
+      <xi:include href="0036zhushixing.xml"/>
+      <xi:include href="0037zhixiaolong.xml"/>
+      <xi:include href="0038kangSengYuan.xml"/>
+      <xi:include href="0039faya.xml"/>
+      <xi:include href="0040kangFalang.xml"/>
+      <xi:include href="0041zhufacheng.xml"/>
+      <xi:include href="0042zhuQian.xml"/>
+      <xi:include href="0043zhidun.xml"/>
+      <xi:include href="0044yufalan.xml"/>
+      <xi:include href="0045yufakai.xml"/>
+      <xi:include href="0046yudaosui.xml"/>
+      <xi:include href="0047zhufachong.xml"/>
+      <xi:include href="0048zhuFaYi.xml"/>
+      <xi:include href="0049zhusengdu.xml"/>
+      <xi:include href="0050shidaoan.xml"/>
+      <xi:include href="0051shifahe.xml"/>
+      <xi:include href="0052zhusenglang.xml"/>
+      <xi:include href="0053zhufatai.xml"/>
+      <xi:include href="0054shisengxian.xml"/>
+      <xi:include href="0055zhusengfu.xml"/>
+      <xi:include href="0056zhusengfu.xml"/>
+      <xi:include href="0057shiTanYi.xml"/>
+      <xi:include href="0058shifayu.xml"/>
+      <xi:include href="0059shitanhui.xml"/>
+      <xi:include href="0060shidaoli.xml"/>
+      <xi:include href="0061shitanjie.xml"/>
+      <xi:include href="0062zhufakuang.xml"/>
+      <xi:include href="0063zhudaoyi.xml"/>
+      <xi:include href="0064shihuiqian.xml"/>
+      <xi:include href="0065shihuiyuan.xml"/>
+      <xi:include href="0066shihuichi.xml"/>
+      <xi:include href="0067shihuiyong.xml"/>
+      <xi:include href="0068shisengji.xml"/>
+      <xi:include href="0069shifaAn.xml"/>
+      <xi:include href="0070shitanYong.xml"/>
+      <xi:include href="0071shidaozu.xml"/>
+      <xi:include href="0072shiSengLue.xml"/>
+      <xi:include href="0073shidaorong.xml"/>
+      <xi:include href="0074shitanying.xml"/>
+      <xi:include href="0075shisengRui.xml"/>
+      <xi:include href="0076shidaoheng.xml"/>
+      <xi:include href="0077shisengzhao.xml"/>
+      <xi:include href="0078zhudaosheng.xml"/>
+      <xi:include href="0079shihuiRui.xml"/>
+      <xi:include href="0080shihuiYan.xml"/>
+      <xi:include href="0081shihuiguan.xml"/>
+      <xi:include href="0082shihuiyi.xml"/>
+      <xi:include href="0083shidaoyuan.xml"/>
+      <xi:include href="0084shisengbi.xml"/>
+      <xi:include href="0085shihuiJing.xml"/>
+      <xi:include href="0086shiSengbao.xml"/>
+      <xi:include href="0087shiSengQuan.xml"/>
+      <xi:include href="0088shiTanJian.xml"/>
+      <xi:include href="0089shihuiAn.xml"/>
+      <xi:include href="0090shitanwucheng.xml"/>
+      <xi:include href="0091shisenghan.xml"/>
+      <xi:include href="0092shiSengChe.xml"/>
+      <xi:include href="0093shiTandi.xml"/>
+      <xi:include href="0094shiSengdao.xml"/>
+      <xi:include href="0095shiDaowang.xml"/>
+      <xi:include href="0096shiHuiJing.xml"/>
+      <xi:include href="0097shifaMin.xml"/>
+      <xi:include href="0098shidaoLiang.xml"/>
+      <xi:include href="0099shifanMin.xml"/>
+      <xi:include href="0100shidaowen.xml"/>
+      <xi:include href="0101shitanbin.xml"/>
+      <xi:include href="0102shihuiLiang.xml"/>
+      <xi:include href="0103shiSengJing.xml"/>
+      <xi:include href="0104shiSengJin.xml"/>
+      <xi:include href="0105shidaoMeng.xml"/>
+      <xi:include href="0106shiChaoJin.xml"/>
+      <xi:include href="0107shiFaZhen.xml"/>
+      <xi:include href="0108shiDaoYou.xml"/>
+      <xi:include href="0109shiHuiTong.xml"/>
+      <xi:include href="0110shiSengYuan.xml"/>
+      <xi:include href="0111shiTanDu.xml"/>
+      <xi:include href="0112shiDaoHui.xml"/>
+      <xi:include href="0113shiSengZhong.xml"/>
+      <xi:include href="0114shiDaoCheng.xml"/>
+      <xi:include href="0115shiHongChong.xml"/>
+      <xi:include href="0116shiZhiLin.xml"/>
+      <xi:include href="0117shiFaYuan.xml"/>
+      <xi:include href="0118shiXuanChang.xml"/>
+      <xi:include href="0119shiSengYuan.xml"/>
+      <xi:include href="0120shiSengHui.xml"/>
+      <xi:include href="0121shiSengRou.xml"/>
+      <xi:include href="0122shiHuiJi.xml"/>
+      <xi:include href="0123shiHuiCi.xml"/>
+      <xi:include href="0124shiHuiLong.xml"/>
+      <xi:include href="0125shiSengZong.xml"/>
+      <xi:include href="0126shiFaAn.xml"/>
+      <xi:include href="0127shiSengYin.xml"/>
+      <xi:include href="0128shiFaDu.xml"/>
+      <xi:include href="0129shiZhiXiu.xml"/>
+      <xi:include href="0130shiHuiQiu.xml"/>
+      <xi:include href="0131shiSengCheng.xml"/>
+      <xi:include href="0132shiZhiShun.xml"/>
+      <xi:include href="0133shiBaoLiang.xml"/>
+      <xi:include href="0134shiFaTong.xml"/>
+      <xi:include href="0135shiHuiJi.xml"/>
+      <xi:include href="0136shiTanFei.xml"/>
+      <xi:include href="0137zhuFoTuCheng.xml"/>
+      <xi:include href="0138shanDaoKai.xml"/>
+      <xi:include href="0139zhuFoDiao.xml"/>
+      <xi:include href="0140qiYu.xml"/>
+      <xi:include href="0141qianTuoLe.xml"/>
+      <xi:include href="0142heLuoJie.xml"/>
+      <xi:include href="0143zhuFaHui.xml"/>
+      <xi:include href="0144anHuiZe.xml"/>
+      <xi:include href="0145sheGong.xml"/>
+      <xi:include href="0146shiTanHuo.xml"/>
+      <xi:include href="0147shiZong.xml"/>
+      <xi:include href="0148beiDu.xml"/>
+      <xi:include href="0149shiTanShi.xml"/>
+      <xi:include href="0150shiFaLang.xml"/>
+      <xi:include href="0151ShaoShuo.xml"/>
+      <xi:include href="0152shiHuiAn.xml"/>
+      <xi:include href="0153shiFaKui.xml"/>
+      <xi:include href="0154shiSengHui.xml"/>
+      <xi:include href="0155shiHuiTong.xml"/>
+      <xi:include href="0156shiBaoZhi.xml"/>
+      <xi:include href="0157zhuSengXian.xml"/>
+      <xi:include href="0158boSengGuang.xml"/>
+      <xi:include href="0159zhuTanYou.xml"/>
+      <xi:include href="0160shiHuiWei.xml"/>
+      <xi:include href="0161shiXianHu.xml"/>
+      <xi:include href="0162zhiTanLan.xml"/>
+      <xi:include href="0163shiFaXu.xml"/>
+      <xi:include href="0164shiXuanGao.xml"/>
+      <xi:include href="0165shiSengZhou.xml"/>
+      <xi:include href="0166shiHuiTong.xml"/>
+      <xi:include href="0167shiJingDu.xml"/>
+      <xi:include href="0168shiSengCong.xml"/>
+      <xi:include href="0169shiFaCheng.xml"/>
+      <xi:include href="0170shiHuiLan.xml"/>
+      <xi:include href="0171shiFaQi.xml"/>
+      <xi:include href="0172shiDaoFa.xml"/>
+      <xi:include href="0173shiPuHeng.xml"/>
+      <xi:include href="0174shiFaWu.xml"/>
+      <xi:include href="0175shiSengShen.xml"/>
+      <xi:include href="0176shiTanChao.xml"/>
+      <xi:include href="0177shiHuiMing.xml"/>
+      <xi:include href="0178shiHuiYou.xml"/>
+      <xi:include href="0179shiSengYe.xml"/>
+      <xi:include href="0180shiHuiXun.xml"/>
+      <xi:include href="0181shiSengQu.xml"/>
+      <xi:include href="0182shiDaoYan.xml"/>
+      <xi:include href="0183shiSengYin.xml"/>
+      <xi:include href="0184shiDaoFang.xml"/>
+      <xi:include href="0185shiDaoYing.xml"/>
+      <xi:include href="0186shiZhiDao.xml"/>
+      <xi:include href="0187shiFaYing.xml"/>
+      <xi:include href="0188shiFaLin.xml"/>
+      <xi:include href="0189shiZhiCheng.xml"/>
+      <xi:include href="0190shiSengYou.xml"/>
+      <xi:include href="0191shiSengQun.xml"/>
+      <xi:include href="0192shiTanCheng.xml"/>
+      <xi:include href="0193shiFaJin.xml"/>
+      <xi:include href="0194shiSengFu.xml"/>
+      <xi:include href="0195shiFaYu.xml"/>
+      <xi:include href="0196shiHuiShao.xml"/>
+      <xi:include href="0197shiSengYu.xml"/>
+      <xi:include href="0198shiHuiYi.xml"/>
+      <xi:include href="0199shiSengQing.xml"/>
+      <xi:include href="0200shiFaGuang.xml"/>
+      <xi:include href="0201shiTanHong.xml"/>
+      <xi:include href="0202shiTanSui.xml"/>
+      <xi:include href="0203shiFaXiang.xml"/>
+      <xi:include href="0204zhuFaChun.xml"/>
+      <xi:include href="0205shiSengSheng.xml"/>
+      <xi:include href="0206shiFaZong.xml"/>
+      <xi:include href="0207shiDaoJiong.xml"/>
+      <xi:include href="0208shiHuiQing.xml"/>
+      <xi:include href="0209shiPuMing.xml"/>
+      <xi:include href="0210shiFaZhuang.xml"/>
+      <xi:include href="0211shiHuiGuo.xml"/>
+      <xi:include href="0212shiFaGong.xml"/>
+      <xi:include href="0213shiSengFu.xml"/>
+      <xi:include href="0214shiHuiJin.xml"/>
+      <xi:include href="0215shiHongMing.xml"/>
+      <xi:include href="0216shiHuiYu.xml"/>
+      <xi:include href="0217shiDaoSong.xml"/>
+      <xi:include href="0218shiChaoBian.xml"/>
+      <xi:include href="0219shiFaHui.xml"/>
+      <xi:include href="0220shiSengHou.xml"/>
+      <xi:include href="0221shiHuiMi.xml"/>
+      <xi:include href="0222shiDaoLin.xml"/>
+      <xi:include href="0223shiHuiDa.xml"/>
+      <xi:include href="0224shiHuiYuan.xml"/>
+      <xi:include href="0225shiHuiLi.xml"/>
+      <xi:include href="0226shiHuiShou.xml"/>
+      <xi:include href="0227shiSengHui.xml"/>
+      <xi:include href="0228shiSengYi.xml"/>
+      <xi:include href="0229shiSengHong.xml"/>
+      <xi:include href="0230shiSengLiang.xml"/>
+      <xi:include href="0231shiFaYi.xml"/>
+      <xi:include href="0232shiHuiJing.xml"/>
+      <xi:include href="0233shiFaXian.xml"/>
+      <xi:include href="0234shiFaXian.xml"/>
+      <xi:include href="0235shiSengHu.xml"/>
+      <xi:include href="0236shiFaYue.xml"/>
+      <xi:include href="0237boFaQiao.xml"/>
+      <xi:include href="0238zhiTanYue.xml"/>
+      <xi:include href="0239shiFaPing.xml"/>
+      <xi:include href="0240shiSengRao.xml"/>
+      <xi:include href="0241shiDaoHui.xml"/>
+      <xi:include href="0242shiZhiZong.xml"/>
+      <xi:include href="0243shiTanQian.xml"/>
+      <xi:include href="0244shiTanZhi.xml"/>
+      <xi:include href="0245shiSengBian.xml"/>
+      <xi:include href="0246shiTanPing.xml"/>
+      <xi:include href="0247shiHuiRen.xml"/>
+      <xi:include href="0248shiDaoZhao.xml"/>
+      <xi:include href="0249shiTanYing.xml"/>
+      <xi:include href="0250shiHuiQu.xml"/>
+      <xi:include href="0251shiTanZong.xml"/>
+      <xi:include href="0252shiTanGuang.xml"/>
+      <xi:include href="0253shiHuiFen.xml"/>
+      <xi:include href="0254shiDaoRu.xml"/>
+      <xi:include href="0255shiHuiZhong.xml"/>
+      <xi:include href="0256shiFaYuan.xml"/>
+      <xi:include href="0257shiFaJing.xml"/>
+    </body>
+  </text>
+</TEI>

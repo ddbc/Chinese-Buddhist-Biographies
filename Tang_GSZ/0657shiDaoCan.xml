@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0669c04shiDaoCan">
+    <p><anchor n="T.50.2060.0669c04"/><lb ed="T" n="0669c04"/><persName key="A007091">釋道璨</persName>。<placeName key="CN0130123Z21AA">恒州</placeName>人。慧學如神。鑽求攝論華嚴<lb ed="T" n="0669c05"/>十地。深疑伏旨解其由緒。志尚幽靜不務<lb ed="T" n="0669c06"/>奢華。重義輕財自小之大。後入<placeName key="CN0610102Z13AA">關輦</placeName>便<lb ed="T" n="0669c07"/>住<placeName key="CN0610103T12AA">勝光</placeName>。訪道求賢栖遑靡託。<date key="j19406121942058" notAfter-iso="0605" notBefore-iso="0601">仁壽</date>起塔。勅<lb ed="T" n="0669c08"/>召送舍利于<placeName key="CN0411002T01AA">許州辯行寺</placeName>。初至<placeName key="CN0411002T01AA">塔寺</placeName>。堂中佛<lb ed="T" n="0669c09"/>像素無靈異。忽放大光通<ptr target="fn14"/>爥院宇。舍利<lb ed="T" n="0669c10"/>上踊金瓶之表。又放光明遶瓶旋轉。既屬<lb ed="T" n="0669c11"/>炎熱。將入塔時感雲承日。覆訖方滅又於<lb ed="T" n="0669c12"/>塔側造池供養。因獲古井。水深且清輕軟<lb ed="T" n="0669c13"/>甜美。舉州齊調一從此井而無竭濁。莫不<lb ed="T" n="0669c14"/>嗟嘆。<persName key="A007091">璨</persName>後不測其終。</p>
+    <linkGrp>
+        <link targets="#0669c04 #0669c04"/>
+        <ptr target="#A007091" type="person"/>
+        <ptr target="#CN0130123Z21AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0669c06 #0669c07"/>
+        <ptr target="#A007091" type="person"/>
+        <ptr target="#CN0610103T12AA" type="place"/>
+        </linkGrp>
+    <linkGrp>
+        <link targets="#0669c07 #0669c13"/>
+        <ptr target="#A007091" type="person"/>
+        <ptr target="#CN0411002T01AA" type="place"/>
+        <ptr target="#j19406121942058" type="time"/>
+    </linkGrp>
+</div>

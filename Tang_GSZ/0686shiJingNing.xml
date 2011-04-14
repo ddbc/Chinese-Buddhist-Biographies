@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0675b06shiJingNing">
+    <p><anchor n="T.50.2060.0675b06"/><lb ed="T" n="0675b06"/><persName key="A007243">釋靜凝</persName>。<placeName key="CN0410204Z13AA">汴州</placeName>人。<persName key="A002119">遷禪師</persName>之門人也。早年聽受<lb ed="T" n="0675b07"/>深<ptr target="fn09"/>閑邪正。經律十地是所詢求。後師攝論<lb ed="T" n="0675b08"/>備嘗幽<ptr target="fn10"/>顯。常樂<ptr target="fn11"/>止觀掩關思擇。緣來便<lb ed="T" n="0675b09"/>講唱吼如雷。事竟退靜狀如愚叟。世間之務<lb ed="T" n="0675b10"/>略不在言。人不委者謂為庸劣。同住久處<lb ed="T" n="0675b11"/>方知有道。兼以行不涉疑。口無慶弔。塊然<lb ed="T" n="0675b12"/>卓坐似不能言。<date key="j19351201935503" from-iso="0586-01-28" to-iso="0587-02-15">開皇六年</date>隨遷入<placeName key="CN0610102Z10AA">雍</placeName>住<placeName key="CN0610103T03AA">興<lb ed="T" n="0675b13"/>善寺</placeName>。<date key="j19409671941349" from-iso="0602-02-01" to-iso="0603-02-18">仁壽二年</date>。下勅送舍利于<placeName key="CN0410221Z09AA">杞州</placeName>。初至<lb ed="T" n="0675b14"/>頻放白光。狀如皎月。流轉通照。及下塔日。<lb ed="T" n="0675b15"/>白鳥空中旋繞基上瘞訖遠逝。更有餘相。<lb ed="T" n="0675b16"/>凝為藏隱。示出一二。知大聖之通瑞也。餘<lb ed="T" n="0675b17"/>則隱之不書。及至<placeName key="CN0610102Z14AA">京師</placeName>又被責及。方便解<lb ed="T" n="0675b18"/>免不久而<ptr target="fn12"/>終。</p>
+    <linkGrp>
+        <link targets="#0675b06 #0675b06"/>
+        <ptr target="#A007243" type="person"/>
+        <ptr target="#CN0410204Z13AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0675b06 #0675b08"/>
+        <ptr target="#A002119" type="person"/>
+        <ptr target="#A007243" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0675b12 #0675b13"/>
+        <ptr target="#A007243" type="person"/>
+        <ptr target="#CN0610103T03AA" type="place"/>
+        <ptr target="#j19351201935503" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0675b13 #0675b16"/>
+        <ptr target="#A007243" type="person"/>
+        <ptr target="#CN0410221Z09AA" type="place"/>
+        <ptr target="#j19409671941349" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0675b17 #0675b18"/>
+        <ptr target="#A007243" type="person"/>
+        <ptr target="#CN0610102Z14AA" type="place"/>
+        </linkGrp>
+</div>

@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0408b13shiChaoBian">
+    <p><anchor n="T.50.2059.0408b13"/><lb ed="T" n="0408b13"/><persName key="A002355">釋超辯</persName>，姓張，<placeName key="CN0620982Z55AA">燉煌</placeName>人。幼而神悟孤發，履操深<lb ed="T" n="0408b14"/>沈。誦《法華》、《金剛》、《<ptr target="fn07"/>波若》。聞<placeName key="CN0320106Z05AA">京師</placeName>盛於佛法，<lb ed="T" n="0408b15"/><ptr target="fn＊"/>迺越自<placeName key="CN0141182Z17AA">西河</placeName>，路由<placeName key="CN0500105Z19AA">巴</placeName><placeName key="CN0421003Z09AA">楚</placeName>，達于<placeName key="CN0320106Z05AA">建業</placeName>。頃之，<lb ed="T" n="0408b16"/>東適吳越，觀矚山水，停<placeName key="CN0330601T03AA">山陰城傍寺</placeName>少時。<lb ed="T" n="0408b17"/>後還<placeName key="CN0320106Z05AA">都</placeName>，止<placeName key="CN0320102T15AA">定林上寺</placeName>。閑居養素，畢命山門。<lb ed="T" n="0408b18"/>誦《法華》，日限一遍，心<ptr target="fn08"/>敏口從，恒有餘力。<lb ed="T" n="0408b19"/>禮千佛，凡一百五十餘萬拜，足不出門三<lb ed="T" n="0408b20"/>十餘載。以<date key="j19008051901158" from-iso="0492-02-15" to-iso="0493-02-02">齊永明十年</date>終於<placeName key="CN0320102T15AA">山寺</placeName>，春秋七<lb ed="T" n="0408b21"/>十有三。葬于<placeName key="CN0320102T15AA">寺</placeName>南，沙門<persName key="A001587">僧祐</persName>為造碑墓所，<lb ed="T" n="0408b22"/><placeName key="CN0371122Z15AA">東<ptr target="fn09"/>莧</placeName><persName key="A003075">劉勰</persName>製文。</p><p>時有<placeName key="CN0320101T62AA">靈根</placeName><persName key="A003417">釋法明</persName>、<placeName key="CN0320116T04AA">祇洹</placeName><persName key="A003418">釋<lb ed="T" n="0408b23"/>僧志</persName>、<placeName key="CN0510108Z32AA">益州</placeName><persName key="A003419">釋法定</persName>，並誦經十餘萬言，<ptr target="fn10"/>蔬苦<lb ed="T" n="0408b24"/>有至<ptr target="fn11"/>德。</p>
+    <linkGrp>
+        <link targets="#0408b13 #0408b13"/>
+        <ptr target="#A002355" type="person"/>
+        <ptr target="#CN0620982Z55AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0408b14 #0408b15"/>
+        <ptr target="#A002355" type="person"/>
+        <ptr target="#CN0320106Z05AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0408b16 #0408b16"/>
+        <ptr target="#A002355" type="person"/>
+        <ptr target="#CN0330601T03AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0408b17 #0408b17"/>
+        <ptr target="#A002355" type="person"/>
+        <ptr target="#CN0320102T15AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0408b22 #0408b24"/>
+        <ptr target="#A003417" type="person"/>
+        <ptr target="#CN0320101T62AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0408b22 #0408b24"/>
+        <ptr target="#A003418" type="person"/>
+        <ptr target="#CN0320116T04AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0408b22 #0408b24"/>
+        <ptr target="#A003419" type="person"/>
+        <ptr target="#CN0510108Z32AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0408b20 #0408b21"/>
+        <ptr target="#A002355" type="person"/>
+        <ptr target="#CN0320102T15AA" type="place"/>
+        <ptr target="#j19008051901158" type="time"/>
+    </linkGrp>
+</div>

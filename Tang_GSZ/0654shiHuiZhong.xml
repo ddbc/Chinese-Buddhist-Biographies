@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0669a16shiHuiZhong">
+    <p><anchor n="T.50.2060.0669a16"/><lb ed="T" n="0669a16"/><persName key="A005468">釋慧重</persName>。姓郭。<placeName key="CN0610112Z16AA">雍州</placeName>人。志幹威稜不怯邪障。<lb ed="T" n="0669a17"/>鬼神林屋聞有栖止無往不降。淨持戒地<lb ed="T" n="0669a18"/>明解攝論。履遊名教清逈不群。住<placeName key="CN0610103T03AA">大興善</placeName>。<lb ed="T" n="0669a19"/>博綜機要榮達敘顧。<ptr target="fn07"/>辯章言令寫送有法。<lb ed="T" n="0669a20"/><date key="j19406121942058" notAfter-iso="0605" notBefore-iso="0601">仁壽</date>置塔。勅召送舍利于泰山之<placeName key="CN0370911T01AA">岱岳寺</placeName>。初<lb ed="T" n="0669a21"/>至放光。乃至入塔相續流照。岳上白氣三<lb ed="T" n="0669a22"/>道下流。至于基所。岳神廟門無故自開。如<lb ed="T" n="0669a23"/>是者三。識者以為神靈歸敬故也。<date key="j19417051942058" from-iso="0604-02-09" to-iso="0605-01-27">四年</date>建<lb ed="T" n="0669a24"/>塔。又送于隆州<placeName key="CN0511300T01AA">禪寂寺</placeName>。初至設齋。忽有野<lb ed="T" n="0669a25"/>鹿。從<placeName key="CN0610125M01AA">南山</placeName>下度<placeName key="CN0000000R03AA">嘉陵江</placeName>直趣塔所。人以手<lb ed="T" n="0669a26"/>摩自然依附。乃至下訖。其鹿方去。夜放大<lb ed="T" n="0669a27"/>光在佛堂上。焰高數丈青赤流集。眾人同<lb ed="T" n="0669a28"/>見。三日打剎。合州喜捨。紫雲覆塔。雨金銀<lb ed="T" n="0669a29"/>花遍於城邑。其收得者乃有五色相鏤。又<lb ed="T" n="0669b01"/>獲舍利五枚於天花上。浮<ptr target="fn08"/>汎旋轉合散隨<lb ed="T" n="0669b02"/><ptr target="fn09"/>心。州內<placeName key="CN0511381T07AA">修梵寺</placeName>先為<persName key="A004324">文帝</persName>造塔。有一分<lb ed="T" n="0669b03"/>舍利。欲與今塔。同日下基。其夜兩塔雙放<lb ed="T" n="0669b04"/>光明。朗照幽顯至曉方滅。同覩此瑞無<lb ed="T" n="0669b05"/>數千人。將下之晨又雨銀花。變轉非一。<persName key="A005468">重</persName><lb ed="T" n="0669b06"/>還<placeName key="CN0610102Z14AA">京室</placeName>。改革前度專修禪悔。晝夜十有二<lb ed="T" n="0669b07"/>時。禮五十三佛。餘則<ptr target="fn10"/>加坐正念。畢世終<lb ed="T" n="0669b08"/>業。</p>
+    <linkGrp>
+        <link targets="#0669a16 #0669a16"/>
+        <ptr target="#A005468" type="person"/>
+        <ptr target="#CN0610112Z16AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0669a18 #0669a19"/>
+        <ptr target="#A005468" type="person"/>
+        <ptr target="#CN0610103T03AA" type="place"/>
+        </linkGrp>
+    <linkGrp>
+        <link targets="#0669a20 #0669a23"/>
+        <ptr target="#A005468" type="person"/>
+        <ptr target="#CN0370911T01AA" type="place"/>
+        <ptr target="#j19406121942058" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0669a23 #0669b02"/>
+        <ptr target="#A005468" type="person"/>
+        <ptr target="#CN0511300T01AA" type="place"/>
+        <ptr target="#j19417051942058" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0669b05 #0669b08"/>
+        <ptr target="#A005468" type="person"/>
+        <ptr target="#CN0610102Z14AA" type="place"/>
+    </linkGrp>
+</div>

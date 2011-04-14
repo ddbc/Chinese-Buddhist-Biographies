@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0372a14shiHuiJing">
+	<p><anchor n="T.50.2059.0372a14"/><lb ed="T" n="0372a14"/><persName key="A002239">釋慧靜</persName>，姓邵，<placeName key="CN0330110Z23AA">吳興餘杭</placeName>人。居貧履操，厲行精<lb ed="T" n="0372a15"/>苦，風姿秀整，容止可觀。始遊學<placeName key="CN0360402M01AA">廬山</placeName>，晚<lb ed="T" n="0372a16"/>還<ptr target="fn04"/><placeName key="CN0320106Z06AA">上都</placeName>進業。解兼內外，偏善《涅槃》。初<lb ed="T" n="0372a17"/><ptr target="fn05"/>止<placeName key="CN0320103T07AA">治城寺</placeName>，<persName key="A002645">顏延之</persName>、<persName key="A002880">何尚之</persName>並欽慕風德。<persName key="A002645">顏<lb ed="T" n="0372a18"/>延<ptr target="fn06"/>之</persName>每歎曰：「荊山之玉，唯<persName key="A002239">靜</persName>是焉。」及子<persName key="A002963">竣</persName><lb ed="T" n="0372a19"/>出鎮<placeName key="CN0330602Z06AA">東州</placeName>，<!-- 宋書/列傳/卷七十五 列傳第三十五/顏竣=大明元年，以為東揚州刺史 -->。携與同行，因棲<ptr target="fn＊"/>于<placeName key="CN0330601T11AA">天柱山寺</placeName>。及<lb ed="T" n="0372a20"/><date from-iso="0457" key="j18880181890941" to-iso="0465">大明之中</date>，又遷居<placeName key="CN0330683Z21AA">剡</placeName>之<placeName key="CN0330623T05AA">法華臺</placeName>。後憩<placeName key="CN0330624M01AA">東<ptr target="fn07"/>仰<lb ed="T" n="0372a21"/>山</placeName>，處處<ptr target="fn08"/>般遊，並以弘法為務。年過知命，<lb ed="T" n="0372a22"/>志節彌堅。<date from-iso="0466" key="j18912671893480" to-iso="0472">宋太始中</date>卒，春秋五十有八。所著<lb ed="T" n="0372a23"/>文翰，集為十卷。</p>
+	<linkGrp>
+		<link targets="#0372a15 #0372a15"/>
+		<ptr target="#A002239" type="person"/>
+		<ptr target="#CN0360402M01AA" type="place"/>
+	</linkGrp>
+	<linkGrp>
+		<link targets="#0372a15 #0372a16"/>
+		<ptr target="#A002239" type="person"/>
+		<ptr target="#CN0320106Z06AA" type="place"/>
+	</linkGrp>
+	<linkGrp>
+		<link targets="#0372a16 #0372a17"/>
+		<ptr target="#A002239" type="person"/>
+		<ptr target="#CN0320103T07AA" type="place"/>
+	</linkGrp>
+	<linkGrp>
+		<link targets="#0372a17 #0372a18"/>
+		<ptr target="#A002239" type="person"/>
+		<ptr target="#A002645" type="person"/>
+	</linkGrp>
+	<linkGrp>
+		<link targets="#0372a17 #0372a18"/>
+		<ptr target="#A002239" type="person"/>
+		<ptr target="#A002880" type="person"/>
+	</linkGrp>
+	<linkGrp>
+		<link targets="#0372a20 #0372a20"/>
+		<ptr target="#A002239" type="person"/>
+		<ptr target="#CN0330683Z21AA" type="place"/>
+		<ptr target="#j18880181890941" type="time"/>
+	</linkGrp>
+	<linkGrp>
+		<link targets="#0372a22 #0372a23"/>
+		<ptr target="#A002239" type="person"/>
+		<ptr target="#j18912671893480" type="time"/>
+	</linkGrp>
+	<linkGrp>
+		<link targets="#0372a18 #0372a19"/>
+		<ptr target="#A002239" type="person"/>
+		<ptr target="#A002963" type="person"/>
+		<ptr target="#CN0330601T11AA" type="place"/>
+	</linkGrp>
+</div>

@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0356b25shiTanJie">
+    <p><anchor n="T.50.2059.0356b25"/><lb ed="T" n="0356b25"/><persName key="A002213">釋曇戒</persName>，一名<persName key="A002213">慧精</persName>，姓卓，<placeName key="CN0411302Z03AA">南陽</placeName>人，晉外兵<ptr target="fn09"/>部<lb ed="T" n="0356b26"/><placeName key="CN0411302Z28AA">棘陽</placeName>令<persName key="A002789">潛</persName>之弟也。居貧務學，遊心墳典。後<lb ed="T" n="0356b27"/>聞<persName key="A002722">于法道</persName>講《放光經》，乃借衣一聽，遂深悟<lb ed="T" n="0356b28"/>佛理，廢俗從道，伏事<persName key="A001503">安公</persName>為師。博通三<lb ed="T" n="0356b29"/>藏，誦經五十餘萬言，常日禮五百拜佛，晉<lb ed="T" n="0356c01"/><persName key="A002790">臨川王</persName>甚知重<date key="j18613671874610" notAfter-iso="0420-05-28" notBefore-iso="0384-02-24"/>。後篤疾，常誦<persName key="A001428">彌勒佛</persName>名不輟<lb ed="T" n="0356c02"/>口，弟子<persName key="A002791">智生</persName>侍疾，問何不願生安養，<ptr target="fn10"/><persName key="A002213">誡</persName><lb ed="T" n="0356c03"/>曰：「吾與和上等八人，同願生兜率。<persName key="A001503">和上</persName>及<lb ed="T" n="0356c04"/><persName key="A002792">道願</persName>等皆已往生，吾未得去，是故有願耳。」<lb ed="T" n="0356c05"/>言畢，即有光照于身，容貌更悅，遂奄爾遷<lb ed="T" n="0356c06"/>化，春秋七十，仍葬安公墓右。</p>
+    <linkGrp>
+        <link targets="#0356b25 #0356b26"/>
+        <ptr target="#A002213" type="person"/>
+        <ptr target="#A002789" type="person"/>
+        <ptr target="#CN0411302Z03AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0356b25 #0356b25"/>
+        <ptr target="#A002213" type="person"/>
+        <ptr target="#CN0411302Z03AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0356b28 #0356b29"/>
+        <ptr target="#A002213" type="person"/>
+        <ptr target="#A001503" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0356b29 #0356b29"/>
+        <ptr target="#A002213" type="person"/>
+        <ptr target="#A002790" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0356c02 #0356c04"/>
+        <ptr target="#A002213" type="person"/>
+        <ptr target="#A002791" type="person"/>
+    </linkGrp>
+</div>

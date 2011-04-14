@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0671a06shiSengShi">
+    <p><anchor n="T.50.2060.0671a06"/><lb ed="T" n="0671a06"/><persName key="A007186">釋僧世</persName>。<placeName key="CN0370781Z15AA">青州</placeName>人。負帙問道無擇夷險。觀其<lb ed="T" n="0671a07"/><ptr target="fn01"/>遊履略周方岳。而雄氣所指鋒刃<ptr target="fn02"/>難當。<lb ed="T" n="0671a08"/>時<ptr target="fn03"/>地論是長偏愛喉舌豐詞疊難。名聞<placeName key="CN0370000A01AA">齊<lb ed="T" n="0671a09"/>魯</placeName>。<date key="j19333311940611" notAfter-iso="0601" notBefore-iso="0581">開皇</date>入<placeName key="CN0610102Z14AA">京</placeName>住<placeName key="CN0610103T03AA">興善寺</placeName>。長遊講會必存論<lb ed="T" n="0671a10"/>決。<date key="j19406121942058" notAfter-iso="0605" notBefore-iso="0601">仁壽</date>下勅召。送舍利于萊州之<placeName key="CN0370683T01AA">弘藏寺</placeName>。<lb ed="T" n="0671a11"/><date key="j19417051942058" from-iso="0604-02-09" to-iso="0605-01-27">四年</date>又勅送密州<placeName key="CN0370782T01AA">茂勝寺</placeName>。行達<placeName key="CN0370781Z15AA">青州</placeName>停<placeName key="CN0370781T01AA">道藏<lb ed="T" n="0671a12"/>寺</placeName>。夜放赤光。從房而出直指東南。爾夜<placeName key="CN0370782Z20AA">密<lb ed="T" n="0671a13"/>州城</placeName>內又見光明從西北來。相如火炬叢<lb ed="T" n="0671a14"/>焰非一。遶城內外朗徹如日。預有目者無<lb ed="T" n="0671a15"/>不同覩。後<ptr target="fn04"/>乃勘究方知先告。既至治所<lb ed="T" n="0671a16"/>兩夜放光。如前遶城朗徹無異。及<ptr target="fn05"/>世舉<lb ed="T" n="0671a17"/>瓶欲示大眾。忽然不見。後至寺塔復放<lb ed="T" n="0671a18"/>大光。通照寺宇。行道初日打剎教化。舍利二<lb ed="T" n="0671a19"/>粒見于瓶內。及造石函忽變為金。如棗如<lb ed="T" n="0671a20"/>豆。間錯函底。餘處並變為青琉璃。因具圖<lb ed="T" n="0671a21"/>表。帝大悅<ptr target="fn06"/>也。後還<placeName key="CN0610102Z14AA">京</placeName>不久尋卒。</p>
+    <linkGrp>
+        <link targets="#0671a06 #0671a06"/>
+        <ptr target="#A007186" type="person"/>
+        <ptr target="#CN0370781Z15AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0671a09 #0671a10"/>
+        <ptr target="#A007186" type="person"/>
+        <ptr target="#CN0610103T03AA" type="place"/>
+        <ptr target="#j19333311940611" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0671a10 #0671a10"/>
+        <ptr target="#A007186" type="person"/>
+        <ptr target="#CN0370683T01AA" type="place"/>
+        <ptr target="#j19406121942058" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0671a10 #0671a15"/>
+        <ptr target="#A007186" type="person"/>
+        <ptr target="#CN0370781T01AA" type="place"/>
+        <ptr target="#j19417051942058" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0671a10 #0671a21"/>
+        <ptr target="#A007186" type="person"/>
+        <ptr target="#CN0370782T01AA" type="place"/>
+        <ptr target="#j19417051942058" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0671a21 #0671a21"/>
+        <ptr target="#A007186" type="person"/>
+        <ptr target="#CN0610102Z14AA" type="place"/>
+        </linkGrp>
+</div>

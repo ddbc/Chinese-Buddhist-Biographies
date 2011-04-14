@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0664c03shiFaCong">
+    <p><anchor n="T.50.2060.0664c03"/><lb ed="T" n="0664c03"/><persName key="A007009">釋法聰</persName>。姓陳。住蘇州<placeName key="CN0320503T07AA">常樂寺</placeName>。初負帙周游<lb ed="T" n="0664c04"/>法席參詣。隨聞雖曉然未本意。意在息言。<lb ed="T" n="0664c05"/>然言為理詮。事須博覽。不著為本無得虛<lb ed="T" n="0664c06"/>延。如灰除垢。灰亦須淨。後往金陵攝山<placeName key="CN0320113T01AA">栖<lb ed="T" n="0664c07"/>霞寺</placeName>觀顧泉石僧眾清嚴。一見發心思從<lb ed="T" n="0664c08"/>解髮。時遇善友依言度脫。遂誦大品不久<lb ed="T" n="0664c09"/>便通。又往<placeName key="CN0330602Z02AA">會稽</placeName>。聽<placeName key="CN0330602T29AA">一音</placeName><persName key="A007010">慧敏法師</persName>講。得自<lb ed="T" n="0664c10"/>於心蕩然無累。<date key="j19552301955583" from-iso="0641-02-19" to-iso="0642-02-07">貞觀十五年</date>。還<placeName key="CN0330103Z19AA">杭</placeName><placeName key="CN0320503Z16AA">蘇</placeName>等州。<lb ed="T" n="0664c11"/>開導集眾。受道者三百餘人。自爾華嚴涅<lb ed="T" n="0664c12"/>槃相續二十餘遍。<date key="j19566771957030" from-iso="0645-02-05" to-iso="0646-01-24">貞觀十九年</date>。<placeName key="CN0330402Z17AA">嘉興縣</placeName>高<lb ed="T" n="0664c13"/>王神。降其祝曰。為我請<persName key="A007009">聰法師</persName>受菩薩戒。<lb ed="T" n="0664c14"/>依言為授。又降祝曰。自今以往酒肉五辛<lb ed="T" n="0664c15"/>一切悉斷。後若祈福可請眾僧。在廟設齋<lb ed="T" n="0664c16"/>行道。又<date key="j19574151957768" from-iso="0647-02-13" to-iso="0648-02-01">二十一年</date>。<placeName key="CN0330424Z08AA">海鹽縣</placeName>鄱陽府君神。因<lb ed="T" n="0664c17"/>常祭會。降祝曰。為我請<persName key="A007009">聰法師</persName>講涅槃經。<lb ed="T" n="0664c18"/>道俗奉迎幡花相接。遂往就講。餘數紙在。<lb ed="T" n="0664c19"/>又降祝曰。蒙法師講說。得稟法言。神道業<lb ed="T" n="0664c20"/>障多有苦惱。自聽法來。身鱗甲內細蟲噉<lb ed="T" n="0664c21"/>苦已得輕<ptr target="fn03"/>昇。願道俗為我稽請<persName key="A007009">法師</persName>。更講<lb ed="T" n="0664c22"/>大品一遍乃不違之。<date key="j19609591961046" from-iso="0656-10-27" to-iso="0657-01-22">顯慶元年冬</date>。謂弟子<lb ed="T" n="0664c23"/>曰。<persName key="A007009">吾</persName>不久捨報。可施諸禽鳥。而恒講不輟。<lb ed="T" n="0664c24"/>後講於高座上。塵尾忽墮而終。春秋七十<lb ed="T" n="0664c25"/>一矣。</p>
+    <linkGrp>
+        <link targets="#0664c03 #0664c03"/>
+        <ptr target="#A007009" type="person"/>
+        <ptr target="#CN0320503T07AA" type="place"/>
+        </linkGrp>
+    <linkGrp>
+        <link targets="#0664c06 #0664c07"/>
+        <ptr target="#A007009" type="person"/>
+        <ptr target="#CN0320113T01AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0664c09 #0664c09"/>
+        <ptr target="#A007010" type="person"/>
+        <ptr target="#CN0330602T29AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0664c09 #0664c10"/>
+        <ptr target="#A007009" type="person"/>
+        <ptr target="#A007010" type="person"/>
+        <ptr target="#CN0330602Z02AA" type="place"/>
+        </linkGrp>
+    <linkGrp>
+        <link targets="#0664c10 #0664c11"/>
+        <ptr target="#A007009" type="person"/>
+        <ptr target="#CN0330103Z19AA" type="place"/>
+        <ptr target="#j19552301955583" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0664c10 #0664c11"/>
+        <ptr target="#A007009" type="person"/>
+        <ptr target="#CN0320503Z16AA" type="place"/>
+        <ptr target="#j19552301955583" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0664c12 #0664c16"/>
+        <ptr target="#A007009" type="person"/>
+        <ptr target="#CN0330402Z17AA" type="place"/>
+        <ptr target="#j19566771957030" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0664c16 #0664c22"/>
+        <ptr target="#A007009" type="person"/>
+        <ptr target="#CN0330424Z08AA" type="place"/>
+        <ptr target="#j19574151957768" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0664c22 #0664c25"/>
+        <ptr target="#A007009" type="person"/>
+        <ptr target="#j19609591961046" type="time"/>
+    </linkGrp>
+</div>

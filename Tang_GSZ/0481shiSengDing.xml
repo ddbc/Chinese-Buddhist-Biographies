@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0579b02shiSengDing">
+    <p><anchor n="T.50.2060.0579b02"/><lb ed="T" n="0579b02"/><persName key="A006118">釋僧定</persName>。<placeName key="CN0320105Z23AA">丹陽</placeName>人。本學成實。博綜有功。討擊<lb ed="T" n="0579b03"/>既繁便感風癘。乃惟曰。形異同倫學當徙<lb ed="T" n="0579b04"/>轍。遂屏絕還顧歸宗禪府。初栖<placeName key="CN0320102M02AA">鍾山</placeName>林阜<lb ed="T" n="0579b05"/>獨靜空齋。侍者道遊供給左右。唯以粳米<lb ed="T" n="0579b06"/>白粥日進一<ptr target="fn07"/>杯。餘則繫念相續不愧空景。<lb ed="T" n="0579b07"/>經于數年不涉村邑。遊<ptr target="fn08"/>仞<persName key="A006118">定</persName>心更增幽<lb ed="T" n="0579b08"/><ptr target="fn09"/>績。故使門牖重隱吐納自新。牆宇崇峻違<lb ed="T" n="0579b09"/>順斯薄。微誠獲應故所苦忽銷。致令身首<lb ed="T" n="0579b10"/>面目一時圓淨。<ptr target="fn10"/>鬢眉並生有逾恒日。雖福<lb ed="T" n="0579b11"/>感所及儀貌倍常。而雙眉最濃可長數寸。<lb ed="T" n="0579b12"/>蒼赤通顏乃成奇異。<persName key="A006118">定</persName>既屬斯靈瑞翹厲<lb ed="T" n="0579b13"/>晨夕。山中多虎蹤跡成蹊。本性仁慈<ptr target="fn11"/>來入<lb ed="T" n="0579b14"/>于室。<ptr target="fn12"/>床前庭下惟繁虎迹。或禪想乍浮<ptr target="fn13"/>未<lb ed="T" n="0579b15"/>能安靜。便通夜山行無<ptr target="fn14"/>問榛梗猛獸鷙鳥<lb ed="T" n="0579b16"/>見等同群。而<persName key="A006118">定</persName>安之若遊城市。<ptr target="fn15"/>其含育之<lb ed="T" n="0579b17"/>感不可類也。<persName key="A004324">隋文</persName>於<placeName key="CN0610102Z14AA">西京</placeName>造寺。遠召處之。<lb ed="T" n="0579b18"/>業<persName key="A006118">定</persName>之心無庸世務。至於受戒師禮畢志<lb ed="T" n="0579b19"/><ptr target="fn16"/>岠違。預在尊嚴聞便避隱。嘗遇傷寒通身<lb ed="T" n="0579b20"/>蒸熱。<ptr target="fn17"/>遂如常<ptr target="fn18"/>跏坐斷食三日。沙門<persName key="A005535">保恭</persName>道<lb ed="T" n="0579b21"/>場上首。<persName key="A006118">定</persName>之徒也。親喻令食。答曰。疾勢將<lb ed="T" n="0579b22"/>陵。命非可保。應以法援。何用食為。便閉<lb ed="T" n="0579b23"/>口<ptr target="fn19"/>靜坐。七日既滿所苦頓痊。其立操要心<lb ed="T" n="0579b24"/>為此類也。<date key="j19455911946768" notAfter-iso="0617" notBefore-iso="0614">大業末歲</date>。<ptr target="fn20"/>栖<placeName key="CN0610125T08AA">南山<ptr target="fn21"/>大和寺</placeName>。群<lb ed="T" n="0579b25"/>盜來劫。<persName key="A006118">定</persName>初不怖。盜曰。豈不聞世<ptr target="fn22"/>間有<lb ed="T" n="0579b26"/>奴賊耶。<persName key="A006118">定</persName>曰。縱有郎賊。<persName key="A006118">吾</persName>尚不怖。況奴賊<lb ed="T" n="0579b27"/>耶。因剝其衣服曾無悋色。至於坐氈將欲<lb ed="T" n="0579b28"/>挽掣。<persName key="A006118">定</persName>捉之曰。<persName key="A006118">吾</persName>仰此度冬。卿今將去。命<lb ed="T" n="0579b29"/>必不濟。乍斷<persName key="A006118">吾</persName>命於此。<ptr target="fn23"/>氈不可離<persName key="A006118">吾</persName>命<lb ed="T" n="0579c01"/>也。群<ptr target="fn24"/>賊相看便止之。以<date key="j19491461949175" from-iso="0624-06-24" to-iso="0624-07-23">武德七年六月</date>因<lb ed="T" n="0579c02"/>有少疾。<ptr target="fn＊"/>跏坐如常。不覺已逝。春秋八十<lb ed="T" n="0579c03"/>餘矣。</p>
+    <linkGrp>
+        <link targets="#0579b02 #0579b02"/>
+        <ptr target="#A006118" type="person"/>
+        <ptr target="#CN0320105Z23AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0579b04 #0579b05"/>
+        <ptr target="#A006118" type="person"/>
+        <ptr target="#CN0320102M02AA" type="place"/>
+        </linkGrp>
+    <linkGrp>
+        <link targets="#0579b17 #0579b23"/>
+        <ptr target="#A006118" type="person"/>
+        <ptr target="#CN0610102Z14AA" type="place"/>
+        </linkGrp>
+    <linkGrp>
+        <link targets="#0579b24 #0579c01"/>
+        <ptr target="#A006118" type="person"/>
+        <ptr target="#CN0610125T08AA" type="place"/>
+        <ptr target="#j19455911946768" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0579c01 #0579c03"/>
+        <ptr target="#A006118" type="person"/>
+        <ptr target="#j19491461949175" type="time"/>
+    </linkGrp>
+</div>

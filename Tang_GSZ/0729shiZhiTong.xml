@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0698a12shiZhiTong">
+    <p><anchor n="T.50.2060.0698a12"/><lb ed="T" n="0698a12"/><persName key="A007551">釋智通</persName>姓陳。住<placeName key="CN0510722Z25AA">梓州</placeName>。<date key="j19252311925595" from-iso="0559-01-01" to-iso="0559-12-31">八歲</date>出家。為<persName key="A007552">正道法<lb ed="T" n="0698a13"/>師</persName>弟子。後誦法華并講在<placeName key="CN0510700M01AA">牛頭山</placeName>。善持威<lb ed="T" n="0698a14"/>儀奉戒貞苦。降伏<ptr target="fn02"/>皇老。士女奏章必杖之<lb ed="T" n="0698a15"/>五十。遠近皆<ptr target="fn03"/>憚。寺宇成就。<ptr target="fn＊"/>惟其<ptr target="fn04"/>終始。合<lb ed="T" n="0698a16"/>眾畏懾無蓄私財者。常有雙<ptr target="fn05"/>鵝依時聽<lb ed="T" n="0698a17"/>講。講百餘遍兩度放光。至<date key="j19584311958431" when-iso="0649-11-25">貞觀二十三年十<lb ed="T" n="0698a18"/>月十三日</date>告眾。<persName key="A007551">吾</persName>造山寺可用十萬貫。恨<lb ed="T" n="0698a19"/>未<ptr target="fn06"/>周備。今便永別。言訖而卒。春秋九十七<lb ed="T" n="0698a20"/>矣。小食時終。合寺房堂皆動而作白色。經<lb ed="T" n="0698a21"/>一食頃。</p>
+    <linkGrp>
+        <link targets="#0698a12 #0698a12"/>
+        <ptr target="#A007551" type="person"/>
+        <ptr target="#CN0510722Z25AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0698a12 #0698a13"/>
+        <ptr target="#A007551" type="person"/>
+        <ptr target="#A007552" type="person"/>
+        <ptr target="#j19252311925595" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0698a13 #0698a14"/>
+        <ptr target="#A007551" type="person"/>
+        <ptr target="#CN0510700M01AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0698a17 #0698a21"/>
+        <ptr target="#A007551" type="person"/>
+        <ptr target="#j19584311958431" type="time"/>
+    </linkGrp>
+</div>

@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0380c23shiZhiXiu">
+	<p><anchor n="T.50.2059.0380c23"/><lb ed="T" n="0380c23"/><persName key="A002270">釋智秀</persName>，本姓裘，<placeName key="CN0610111Z01AA">京兆</placeName>人，寓居<placeName key="CN0320106Z05AA">建業</placeName>。幼而頴<lb ed="T" n="0380c24"/>悟，早有出家之心。二親愛而不許，密為求<lb ed="T" n="0380c25"/>婚。將剋娶日，<persName key="A002270">秀</persName>乃<ptr target="fn20"/>間行避走。投<placeName key="CN0320102M02AA">蔣山</placeName><placeName key="CN0320102T25AA">靈<lb ed="T" n="0380c26"/><ptr target="fn21"/>耀寺</placeName>，剃髮出家。及年滿具戒，業操<ptr target="fn22"/>逾堅。<lb ed="T" n="0380c27"/>稟訪眾師，搜檢新異。於是大、小兼明，數論<lb ed="T" n="0380c28"/>精熟，尤善大、小《涅槃》、《淨名》、<ptr target="fn＊"/>《波若》。及講筵一<lb ed="T" n="0380c29"/>建，輒王俟接駕，負<persName key="A002270">袠</persName>肩隨。為人神<ptr target="fn＊"/>彩細密，<lb ed="T" n="0381a01"/>思入玄微。其文句幽隱，並見披釋。以<date key="j19045261911021" notAfter-iso="0520" notBefore-iso="0502">天監<lb ed="T" n="0381a02"/>之初</date>，卒于<ptr target="fn01"/><placeName key="CN0320103T07AA">治城寺</placeName>，春秋六十有三。會葬之<lb ed="T" n="0381a03"/>日，黑白奔赴，街巷填<ptr target="fn02"/>闉，士庶含酸。榮哀以<lb ed="T" n="0381a04"/>備。</p><p>時<placeName key="CN0320103T07AA">治城</placeName>又有<persName key="A003133">僧若</persName>、<persName key="A003134">道乘</persName>。<ptr target="fn03"/><persName key="A003134">乘</persName>當時令<ptr target="fn04"/>問，<persName key="A003133">若</persName><lb ed="T" n="0381a05"/>與兄<persName key="A003135">僧璿</persName>並善諸經及外書。若誦《法華》，工<lb ed="T" n="0381a06"/>草隷，後為吳國僧正。乘亦志業明敏，而特<lb ed="T" n="0381a07"/>善《毘曇》。</p>
+	<linkGrp>
+		<link targets="#0380c23 #0380c24"/>
+		<ptr target="#A002270" type="person"/>
+		<ptr target="#CN0320106Z05AA" type="place"/>
+	</linkGrp>
+	<linkGrp>
+		<link targets="#0380c25 #0380c26"/>
+		<ptr target="#A002270" type="person"/>
+		<ptr target="#CN0320102T25AA" type="place"/>
+	</linkGrp>
+	<linkGrp>
+		<link targets="#0381a04 #0381a04"/>
+		<ptr target="#A002270" type="person"/>
+		<ptr target="#A003133" type="person"/>
+		<ptr target="#A003134" type="person"/>
+		<ptr target="#CN0320103T07AA" type="place"/>
+	</linkGrp>
+	<linkGrp>
+		<link targets="#0381a04 #0381a05"/>
+		<ptr target="#A003133" type="person"/>
+		<ptr target="#A003135" type="person"/>
+	</linkGrp>
+	<linkGrp>
+		<link targets="#0381a01 #0381a02"/>
+		<ptr target="#A002270" type="person"/>
+		<ptr target="#CN0320103T07AA" type="place"/>
+		<ptr target="#j19045261911021" type="time"/>
+	</linkGrp>
+</div>
