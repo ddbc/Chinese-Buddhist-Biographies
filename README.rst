@@ -23,7 +23,7 @@ License
 =======
 
 The data is distributed under a `Creative Commons Attribution-ShareAlike 3.0
-Unported`__. See `COPYING.rst` for the complete license.
+Unported`__. See `LICENSE.rst` for the complete license.
 
 .. __: http://creativecommons.org/licenses/by-sa/3.0/
 
