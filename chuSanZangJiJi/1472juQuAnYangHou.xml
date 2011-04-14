@@ -1,0 +1,102 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="cszjj0106b22juQuAnYangHou">
+    <head><lb ed="T" n="0106b22"/><persName key="A000751">沮渠安陽侯</persName>傳第九</head>
+    <p><anchor n="T.55.2145.0106b23"/><lb ed="T" n="0106b23"/><persName key="A000751">沮渠安陽侯</persName>者，其先<placeName key="CN0620502Z02AA">天水</placeName>臨<ptr target="fn15"/>成縣胡人，<persName key="A002559">河西<lb ed="T" n="0106b24"/>王蒙遜</persName>之從弟也。初，<persName key="A002559">蒙遜</persName>滅呂氏，竊號<placeName key="CN0620602Z11AA">涼州</placeName>
+        <lb ed="T" n="0106b25"/>稱<persName key="A002559">河西王</persName>焉。<persName key="A000751">安陽</persName>為人強志疎通，敏朗有智
+        <lb ed="T" n="0106b26"/>鑒，涉獵書記，善於談論。幼稟五戒，銳意內典，
+        <lb ed="T" n="0106b27"/>所讀眾經，即能諷誦。常以為務學多聞，大士
+        <lb ed="T" n="0106b28"/>之盛業也。少時<ptr target="fn＊"/>常度流涉，到<placeName key="CN0653221Z09AA">于闐國</placeName>，於<placeName key="CN0653221T01AA">衢摩<lb ed="T" n="0106b29"/>帝大寺</placeName>，遇天竺法師<persName key="A002065">佛陀斯那</persName>，諮問道義。<persName key="A002065">斯<lb ed="T" n="0106c01"/>那</persName>本學大乘，天才秀出，誦半億偈，明了禪法，
+        <lb ed="T" n="0106c02"/>故西方諸國號為人中師子。<persName key="A000751">安陽</persName>從受《禪要
+        <lb ed="T" n="0106c03"/>祕密<ptr target="fn16"/>治病經》，因其<ptr target="fn＊"/>胡本口誦通利。既而東
+        <lb ed="T" n="0106c04"/>歸，於<placeName key="CN0652101Z16AA">高昌郡</placeName>求得《觀世音》、《彌勒》二《觀經》各一
+        <lb ed="T" n="0106c05"/>卷。及還<placeName key="CN0600000D03AA">河西</placeName>，即譯出《禪要》，轉為漢文。</p><p>居數
+            <lb ed="T" n="0106c06"/>年，<date key="j18814021881766" from-iso="0439-01-01" to-iso="0439-12-31">魏虜<persName key="A002596">託跋燾</persName>伐<placeName key="CN0620602Z11AA">涼州</placeName></date>，<persName key="A000751">安陽</persName>宗國殄滅，遂
+            <lb ed="T" n="0106c07"/><ptr target="fn17"/>南奔于<placeName key="CN0000000E54AA">宋</placeName>，晦志卑身，不交世務，常遊止塔
+            <lb ed="T" n="0106c08"/>寺，以居士自畢。初出《彌勒》、《觀世音》二《觀經》，<placeName key="CN0320105Z01AA">丹<lb ed="T" n="0106c09"/><ptr target="fn18"/>陽尹</placeName><persName key="A002587">孟顗</persName>見而善之，請與相見。一面之後，雅
+            <lb ed="T" n="0106c10"/>相崇愛，亟設供饌，厚相優贍。至<date from-iso="0455-02-04" to-iso="0456-01-23" key="j18872801887633">孝建二年</date>，<placeName key="CN0320102T14AA">竹<lb ed="T" n="0106c11"/>園寺</placeName>比丘尼<persName key="A002603">慧濬</persName>，聞其諷誦《禪經》，請令傳寫。
+            <lb ed="T" n="0106c12"/><persName key="A000751">安陽</persName>通習積久，臨筆無滯，旬有七日，出為五
+            <lb ed="T" n="0106c13"/>卷。其年仍於鍾山<placeName key="CN0320102T15AA">定林上寺</placeName>，續出《佛母泥洹
+            <lb ed="T" n="0106c14"/>經》一卷。<persName key="A000751">安陽</persName>居絕妻孥。無欲榮利，從容法侶
+            <lb ed="T" n="0106c15"/>宣通經典，是以<ref type="place" target="#CN0320106Z05AA">京邑</ref>白黑咸敬而嘉焉。以<date from-iso="0462" to-iso="0465" key="j18900491890941">大<lb ed="T" n="0106c16"/>明之末</date>遘<ptr target="fn19"/>疾卒。</p><p>時有外國沙門<persName key="A019572">功德<ptr target="fn20"/>直</persName>者，
+                <lb ed="T" n="0106c17"/>不知何國人。以<date from-iso="0457" to-iso="0465" key="j18880181890941">宋大明中</date>遊方至<placeName key="CN0421003Z08AA">荊州</placeName>，寓<placeName key="CN0421000T02AA">禪<lb ed="T" n="0106c18"/>房寺</placeName>。沙門<persName key="A000298">玄暢</persName>請其譯出《念佛三昧經》六卷，
+                <lb ed="T" n="0106c19"/>及《破魔陀羅尼》。停<placeName key="CN0421003Z08AA">荊</placeName>歷年，後不知所移。</p>
+   
+    <linkGrp>
+        <link targets="#0106b23 #0106b24"/>
+        <ptr target="#A000751" type="person"/>
+        <ptr target="#A002559" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0106b24 #0106b25"/>
+        <ptr target="#A002559" type="person"/>
+        <ptr target="#CN0620602Z11AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0106b28 #0106c03"/>
+        <ptr target="#A000751" type="person"/>
+        <ptr target="#A002065" type="person"/>
+        <ptr target="#CN0653221T01AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0106c03 #0106c05"/>
+        <ptr target="#A000751" type="person"/>
+        <ptr target="#CN0652101Z16AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0106c03 #0106c06"/>
+        <ptr target="#A000751" type="person"/>
+        <ptr target="#CN0600000D03AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0106c06 #0106c07"/>
+        <ptr target="#A000751" type="person"/>
+        <ptr target="#CN0620602Z11AA" type="place"/>
+        <ptr target="#j18814021881766" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0106c06 #0106c07"/>
+        <ptr target="#A000751" type="person"/>
+        <ptr target="#CN0000000E54AA" type="place"/>
+        <ptr target="#j18814021881766" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0106c07 #0106c10"/>
+        <ptr target="#A000751" type="person"/>
+        <ptr target="#A002587" type="person"/>
+        <ptr target="#CN0320105Z01AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0106c10 #0106c13"/>
+        <ptr target="#A002603" type="person"/>
+        <ptr target="#CN0320102T14AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0106c10 #0106c13"/>
+        <ptr target="#A000751" type="person"/>
+        <ptr target="#A002603" type="person"/>
+        <ptr target="#j18872801887633" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0106c13 #0106c14"/>
+        <ptr target="#A000751" type="person"/>
+        <ptr target="#CN0320102T15AA" type="place"/>
+        <ptr target="#j18872801887633" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0106c14 #0106c16"/>
+        <ptr target="#A000751" type="person"/>
+        <ptr target="#CN0320106Z05AA" type="place"/>
+        <ptr target="#j18900491890941" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0106c16 #0106c18"/>
+        <ptr target="#A019572" type="person"/>
+        <ptr target="#CN0421000T02AA" type="place"/>
+        <ptr target="#j18880181890941" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0106c18 #0106c19"/>
+        <ptr target="#A000298" type="person"/>
+        <ptr target="#A019572" type="person"/>
+    </linkGrp>
+</div>

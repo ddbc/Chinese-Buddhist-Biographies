@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="cszjj0106c20qiuNaPiDi">
+    <head><lb ed="T" n="0106c20"/><persName key="A000526">求那毘地</persName>傳第十</head>
+    <p><anchor n="T.55.2145.0106c21"/><lb ed="T" n="0106c21"/><persName key="A000526">求那毘地</persName>，<placeName key="IN0000000E02AA">中天竺</placeName>人也。弱齡從道，師事天竺
+        <lb ed="T" n="0106c22"/>大乘法師<persName key="A001590">僧伽斯</persName>，聰慧強記，勤於諷習，所誦
+        <lb ed="T" n="0106c23"/>大小乘經十餘萬言。兼學外典，明解陰陽，其
+        <lb ed="T" n="0106c24"/>候時<ptr target="fn21"/>逢占，多有徵驗，故道術之稱，有聞<placeName key="CN0650000E01AA">西域</placeName>。
+        <lb ed="T" n="0106c25"/><date from-iso="0479" to-iso="0480" key="j18961611896422">建元初</date>來至<ref type="place" target="#CN0320106Z05AA">京師</ref>，止<placeName key="CN0320101T26AA">毘耶離寺</placeName>，執錫從徒，威
+        <lb ed="T" n="0106c26"/>儀端肅，王公貴勝，迭相供請焉。初，<persName key="A001590">僧伽斯</persName>於
+        <lb ed="T" n="0106c27"/><placeName key="IN0000000E01AA">天竺</placeName>國抄集修多羅藏十二部經中要切譬喻，
+        <lb ed="T" n="0106c28"/>撰為一部，凡有百事，以教授新學。<persName key="A000526">毘地</persName>悉皆
+        <lb ed="T" n="0106c29"/>通誦，兼明義旨。以<date from-iso="0492-08-10" to-iso="0492-11-06" key="j19009821901070">永明十年秋</date>，譯出為齊文
+        <lb ed="T" n="0107a01"/>凡十卷，即《百句譬喻經》也。復出《<ptr target="fn1"/>須達長者》、《十
+        <lb ed="T" n="0107a02"/>二因緣經》，各一卷。自<date from-iso="0457" to-iso="0464" key="j18880181890726">大明</date>以後，譯經殆絕，及
+        <lb ed="T" n="0107a03"/>其宣流法寶世咸美之。</p><p><persName key="A000526">毘地</persName>為人弘厚，有識
+            <lb ed="T" n="0107a04"/>度，善於接誘，勤躬行道，夙夜匪懈。是以外國
+            <lb ed="T" n="0107a05"/>僧眾，萬里歸集，南海商人，悉共宗事，供贈往
+            <lb ed="T" n="0107a06"/>來，歲時不絕。性頗<ptr target="fn2"/>蓄積，富於財寶，然營建法
+            <lb ed="T" n="0107a07"/>事，已無<ptr target="fn3"/>私焉。於建業淮側造<placeName key="CN0320101T27AA"><ptr target="fn4"/>止觀寺</placeName>，重閣
+            <lb ed="T" n="0107a08"/>層門，殿房整飾，養徒施化，德業甚著。以<date from-iso="0502-01-26" to-iso="0502-04-22" key="j19044371904523">中興
+                <lb ed="T" n="0107a09"/>二年</date>冬卒。</p>
+   
+    <linkGrp>
+        <link targets="#0106c21 #0106c21"/>
+        <ptr target="#A000526" type="person"/>
+        <ptr target="#IN0000000E02AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0106c21 #0106c24"/>
+        <ptr target="#A000526" type="person"/>
+        <ptr target="#A001590" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0106c25 #0106c26"/>
+        <ptr target="#A000526" type="person"/>
+        <ptr target="#CN0320101T26AA" type="place"/>
+        <ptr target="#j18961611896422" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0106c26 #0107a01"/>
+        <ptr target="#A000526" type="person"/>
+        <ptr target="#j19009821901070" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0107a07 #0107a08"/>
+        <ptr target="#A000526" type="person"/>
+        <ptr target="#CN0320101T27AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0107a08 #0107a09"/>
+        <ptr target="#A000526" type="person"/>
+        <ptr target="#j19044371904523" type="time"/>
+    </linkGrp>
+</div>

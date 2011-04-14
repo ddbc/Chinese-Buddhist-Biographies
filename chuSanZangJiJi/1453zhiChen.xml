@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="cszjj0095c22zhiChen">
+    <head><lb ed="T" n="0095c22"/><persName key="A000163">支讖</persName>傳第二</head>
+    <p><anchor n="T.55.2145.0095c23"/><lb ed="T" n="0095c23"/><persName key="A000163">支讖</persName>本<placeName key="WW142YZ00E01AA">月支國</placeName>人也。操行淳深，性度開敏，稟
+        <lb ed="T" n="0095c24"/>持法戒，以精勤著稱。諷誦群經，志存宣法，漢
+        <lb ed="T" n="0095c25"/><date from-iso="0162-09-09" to-iso="0168-01-24" key="j17804811782444"><persName key="A002040">桓帝</persName><ptr target="fn19"/>末</date>，遊于<placeName key="CN0410300Z01AA">洛陽</placeName>。以<date from-iso="0178" to-iso="0189" key="j17861881790223"><persName key="A002041">靈帝</persName>光和、中平之間</date>，
+        <lb ed="T" n="0095c26"/>傳譯<ptr target="fn＊"/>胡文，出《般若道行品》、《首楞嚴》、《<ptr target="fn20"/>般舟三昧》
+        <lb ed="T" n="0095c27"/>等三經。又有《阿闍<ptr target="fn21"/>世王》、《寶積》等十部經，以歲
+        <lb ed="T" n="0095c28"/>久無錄，<persName key="A001503">安公</persName>挍練古今，精尋文體，云「似<persName key="A000163">讖</persName>所
+        <lb ed="T" n="0095c29"/>出」。凡此諸經，皆審得本旨，了不加飾，可謂善
+        <lb ed="T" n="0096a01"/>宣法要，弘道之士也。後不知所終，</p><p>沙門<persName key="A002162">竺朔<lb ed="T" n="0096a02"/>佛</persName>者，<placeName key="IN0000000E01AA">天竺</placeName>人也。<date from-iso="0146" to-iso="0168" key="j17745921782444">漢桓帝時</date>，亦齎《道行經》來適
+            <lb ed="T" n="0096a03"/><placeName key="CN0410300Z01AA">洛陽</placeName>，即轉胡為漢。譯人時滯，雖有失旨，然棄
+            <lb ed="T" n="0096a04"/>文存質，深得經意。<persName key="A002162">朔</persName>又以<date from-iso="0179-01-25" to-iso="0180-02-12" key="j17864631786846"><persName key="A002041">靈帝</persName>光和二年</date>於
+            <lb ed="T" n="0096a05"/><placeName key="CN0410300Z01AA">洛陽</placeName>譯出《般舟三昧經》，時<persName key="A000163">讖</persName>為傳言，河南<placeName key="CN0410300Z01AA">洛<lb ed="T" n="0096a06"/>陽</placeName><ptr target="fn1"/><persName key="A002163">孟福</persName>、<persName key="A002164">張蓮</persName>筆受。時又有<persName key="A000165">支曜</persName>譯出《成具光
+            <lb ed="T" n="0096a07"/>明經》云。</p>
+    <linkGrp>
+        <link targets="#0095c23 #0095c23"/>
+        <ptr target="#A000163" type="person"/>
+        <ptr target="#WW142YZ00E01AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0095c24 #0095c25"/>
+        <ptr target="#A000163" type="person"/>
+        <ptr target="#CN0410300Z01AA" type="place"/>
+        <ptr target="#j17804811782444" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0095c25 #0095c27"/>
+        <ptr target="#A000163" type="person"/>
+        <ptr target="#j17861881790223" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0096a01 #0096a01"/>
+        <ptr target="#A002162" type="person"/>
+        <ptr target="#IN0000000E01AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0096a02 #0096a03"/>
+        <ptr target="#A002162" type="person"/>
+        <ptr target="#CN0410300Z01AA" type="place"/>   
+        <ptr target="#j17745921782444" type="time"/>            
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0096a04 #0096a06"/>
+        <ptr target="#A002162" type="person"/>
+        <ptr target="#A002163" type="person"/>
+        <ptr target="#A002164" type="person"/>        
+        <ptr target="#CN0410300Z01AA" type="place"/>   
+        <ptr target="#j17864631786846" type="time"/>
+    </linkGrp>
+</div>

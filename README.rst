@@ -40,6 +40,9 @@ This repository contains the following files:
 * `LICENSE.rst`
    Complete license information.
 
+* `chuSanZangJiJi/`
+   Chu sanzang jiji / 出三藏記集
+
 * `biQiuNi/`
    Biqiuni  Zhuan / 比丘尼傳
 

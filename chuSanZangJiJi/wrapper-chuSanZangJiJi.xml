@@ -1,0 +1,76 @@
+<?xml version="1.0" ?><?oxygen RNGSchema="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/gisSchema.rng" type="xml"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+          <title xml:lang="zh-Latn">Chu sanzang jiji</title>
+          <title xml:lang="zh-Hant">出三藏記集</title>
+          <title xml:lang="en">A Compilation of Notes on the Translation of the Tripitaka</title>
+        </title>
+        <author><name xml:lang="zh-Latn">Sengyou</name><name xml:lang="zh-Hant">僧祐</name>(445-518)</author>
+        <respStmt><resp>Encoding, Markup</resp><name>Ren-shun HUNG 黃仁順</name></respStmt>
+        <respStmt><resp>Programming, Interface Design</resp><name>Jen-jou Hung 洪振洲, Jhih-Sian Lee 李志賢</name></respStmt>
+        <principal>Marcus Bingenheimer</principal>
+      </titleStmt>
+      <publicationStmt>
+        <date>2011</date>
+        <publisher>Dharma Drum Buddhist College 法鼓佛教學院</publisher>
+        <pubPlace>Jinshan, Taiwan 台灣新北市金山區</pubPlace>
+        <availability status="free"><p>This electronic text is distributed by Dharma Drum Buddhist College under a <ref target="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution Share-Alike Licence</ref>.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Text Base is the CBETA edition of the Chinese Buddhist Canon (Version 2010)</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>A Compilation of Notes on the Translation of the Tripitaka is dated <date>515 CE</date>.</creation>
+    </profileDesc>
+    <encodingDesc>
+      <p xml:lang="zh">文本中之人名、地名或日期，若於大正藏中之校勘用字較正確，則從校勘用字。</p>
+      <p xml:lang="en">Wherever we can, within a name or date, identify a mistake in the main text of the Taisho canon and a better reading is available in the apparatus, the character from the apparatus is used.</p>
+      <p xml:lang="zh">本數位版本是法鼓佛教學院佛教傳記文學專案的一部分<ref>http://buddhistinformatics.ddbc.edu.tw/biographies/</ref></p>
+      <p xml:lang="en">This digital edition is part of the Buddhist Biography Literature Project at Dharma Drum Buddhist College. <ref>http://buddhistinformatics.ddbc.edu.tw/biographies/</ref></p>
+      <p>For a discussion of the project please refer to <bibl>Bingenheimer, Marcus; Hong, Jen-Jou; Wiles, Simon 2009: “Markup meets GIS - Visualizing the ‘Biographies of Eminent Buddhist Monks’.” In: Proceedings Information Visualization IV 2009. Edited by E.Banissi et.al. Published by the IEEE Computer Society. ISBN: 978-0-7695-3733-7. pp.550-554. DOI: 10.1109/IV.2009.91</bibl> and <bibl>Jen-Jou HUNG, Marcus BINGENHEIMER, Zhi-Wei XU 2010: “漢文佛典的語意標記與應用：《高僧傳》文獻的時空資訊視覺化和語意搜尋 - Semantic markup for Chinese Buddhist texts and its Application- A Platform for Querying and Spatio-temporal Visualization of the Biographies of Eminent Monks”, (國立政治大學) 圖書與資訊學刊 (National Changchi University) Journal of Librarianship and Information Studies. Vol.2, No.3 (No.74), Aug 2010, pp.1-24.</bibl> <bibl>Jen-Jou HUNG, Marcus BINGENHEIMER, Simon WILES 2010: “Digital Texts and GIS: The interrogation and coordinated visualization of Classical Chinese texts" Proceedings International Conference on Computer Design and Applications ICCDA 2010. ISBN: 978-1-4244-7163-8</bibl></p>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <!-- Numbering in filenames continues from the Chu sanzang jiji -->
+      <xi:include href="1452anShiGao.xml"/>
+      <xi:include href="1453zhiChen.xml"/>
+      <xi:include href="1454anXuan.xml"/>
+      <xi:include href="1455kangSengHui.xml"/>
+      <xi:include href="1456zhuShiXing.xml"/>
+      <xi:include href="1457zhiQian.xml"/>
+      <xi:include href="1458zhuFaHu.xml"/>
+      <xi:include href="1459zhuShuLan.xml"/>
+      <xi:include href="1460shiLiMi.xml"/>
+      <xi:include href="1461sengQieBaCheng.xml"/>
+      <xi:include href="1462tanMoNanTi.xml"/>
+      <xi:include href="1463sengQieTiPo.xml"/>
+      <xi:include href="1464jiuMoLuoShe.xml"/>
+      <xi:include href="1465foTuoYeShe.xml"/>
+      <xi:include href="1466tanWuChen.xml"/>
+      <xi:include href="1467foDaBaTuo.xml"/>
+      <xi:include href="1468qiuNaBaMo.xml"/>
+      <xi:include href="1469sengQieBaMo.xml"/>
+      <xi:include href="1470tanMoMiDuo.xml"/>
+      <xi:include href="1471qiuNaBaTuoLuo.xml"/>
+      <xi:include href="1472juQuAnYangHou.xml"/>
+      <xi:include href="1473qiuNaPiDi.xml"/>
+      <xi:include href="1474faZu.xml"/>
+      <xi:include href="1475daoAn.xml"/>
+      <xi:include href="1476huiYuan.xml"/>
+      <xi:include href="1477daoSheng.xml"/>
+      <xi:include href="1478foNian.xml"/>
+      <xi:include href="1479faXian.xml"/>
+      <xi:include href="1480zhiYan.xml"/>
+      <xi:include href="1481baoYun.xml"/>
+      <xi:include href="1482zhiMeng.xml"/>
+      <xi:include href="1483faYong.xml"/>
+ 
+      <!--   <xi:include href="anqing.xml"/> -->
+    </body>
+  </text>
+</TEI>

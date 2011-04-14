@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="cszjj0099b10tanMoNanTi">
+    <head><lb ed="T" n="0099b10"/><persName key="A001798">曇摩難提</persName>傳第十一</head>
+    <p><anchor n="T.55.2145.0099b11"/><lb ed="T" n="0099b11"/><persName key="A001798">曇摩難提</persName>，<placeName key="WW142DHL0E01AA">兜佉<ptr target="fn16"/>勒</placeName>人也。齠歲出家，聰慧夙
+        <lb ed="T" n="0099b12"/>成。研諷經典，以專精致業。遍觀三藏，闇誦《增
+        <lb ed="T" n="0099b13"/>一》、《中阿<ptr target="fn17"/>鋡經》。博識洽聞，靡所不練。是以國內
+        <lb ed="T" n="0099b14"/>遠近，咸共推服。少而觀方，遍涉諸國。常謂弘
+        <lb ed="T" n="0099b15"/>法之體，宜宣布未聞。故遠冒<ptr target="fn18"/>流沙，懷寶東
+        <lb ed="T" n="0099b16"/>遊，以<date from-iso="0384-02-09" to-iso="0385-01-27" key="j18613521861705"><persName key="A002515">符堅</persName>建元二十年</date>至于<placeName key="CN0610112Z07AA">長安</placeName>。先是<placeName key="CN0000000E01AA">中土</placeName>
+        <lb ed="T" n="0099b17"/>群經，未有《四鋡》，<persName key="A002515">堅</persName>侍臣<placeName key="CN0620602Z20AA">武威</placeName>太守<persName key="A002042">趙政</persName>，志深
+        <lb ed="T" n="0099b18"/>法藏，乃與<persName key="A001503">安公</persName>共請出經。是時<persName key="A002519">慕容冲</persName>已叛，
+        <lb ed="T" n="0099b19"/>起兵擊<persName key="A002515">堅</persName>，<placeName key="CN0610000E01AA">關中</placeName>騷動。<persName key="A002042">政</persName>於<placeName key="CN0610112Z07AA">長安</placeName>城內集義學
+        <lb ed="T" n="0099b20"/>僧寫出兩<ptr target="fn19"/>經，<persName key="A000435">佛念</persName>傳譯，<persName key="A002112">慧嵩</persName>筆受。自夏迄
+        <lb ed="T" n="0099b21"/>春，綿歷二年方訖。<ptr target="fn＊"/>具二《阿鋡》凡一百卷。自
+        <lb ed="T" n="0099b22"/>經流<placeName key="CN0000000E01AA">東夏</placeName>，迄于符世，卷數之繁，唯此為廣。難
+        <lb ed="T" n="0099b23"/>提學業既優，道聲甚盛，<persName key="A002515">堅</persName>屢禮請，厚致供施。
+        <lb ed="T" n="0099b24"/>在<placeName key="CN0000000E45AA">秦</placeName>積載，後不知所終。</p><p><persName key="A000435">竺佛念</persName>，<placeName key="CN0620602Z11AA">涼州</placeName>人也。志
+            <lb ed="T" n="0099b25"/>行弘美，辭才辯贍，博見多聞，<ptr target="fn20"/>備識風俗。家世
+            <lb ed="T" n="0099b26"/><placeName key="CN0600000D03AA">河西</placeName>，通習方語。故能交譯<ptr target="fn21"/>戎華，宣法<placeName key="CN0610000E01AA">關中</placeName><placeName key="CN0610000R02AA">渭</placeName>，<date from-iso="0357" to-iso="0394" key="j18516361864997"><persName key="A002515">符</persName>、<lb ed="T" n="0099b27"/><persName key="A002520">姚</persName>二代</date>常參傳經，二《鋡》之具，蓋其功也。</p>
+   
+    <linkGrp>
+        <link targets="#0099b11 #0099b14"/>
+        <ptr target="#A001798" type="person"/>
+        <ptr target="#WW142DHL0E01AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0099b17 #0099b17"/>
+        <ptr target="#A002042" type="person"/>
+        <ptr target="#CN0620602Z20AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0099b17 #0099b17"/>
+        <ptr target="#A002042" type="person"/>
+        <ptr target="#A002515" type="person"/>
+        <ptr target="#j18613521861705" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0099b16 #0099b19"/>
+        <ptr target="#A002519" type="person"/>
+        <ptr target="#A002515" type="person"/>
+        <ptr target="#j18613521861705" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0099b16 #0099b22"/>
+        <ptr target="#A001798" type="person"/>
+        <ptr target="#A002042" type="person"/>
+        <ptr target="#A001503" type="person"/>
+        <ptr target="#A000435" type="person"/>
+        <ptr target="#A002112" type="person"/>
+        <ptr target="#CN0610112Z07AA" type="place"/>
+        <ptr target="#j18613521861705" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0099b22 #0099b24"/>
+        <ptr target="#A001798" type="person"/>
+        <ptr target="#A002515" type="person"/>
+        <ptr target="#CN0000000E45AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0099b24 #0099b24"/>
+        <ptr target="#A000435" type="person"/>
+        <ptr target="#CN0620602Z11AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0099b25 #0099b27"/>
+        <ptr target="#A000435" type="person"/>
+        <ptr target="#j18516361864997" type="time"/>
+    </linkGrp>
+</div>

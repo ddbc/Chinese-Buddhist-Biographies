@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="cszjj0096a08anXuan">
+    <head><lb ed="T" n="0096a08"/><persName key="A000367">安玄</persName>傳第三</head>
+    <p><anchor n="T.55.2145.0096a09"/><lb ed="T" n="0096a09"/><persName key="A000367">安玄</persName>，<placeName key="IR0000000E02AA">安息國</placeName>人也。志性貞白，深沈有理致。為
+        <lb ed="T" n="0096a10"/>優婆塞，秉持法戒，<ptr target="fn2"/>豪釐弗虧，博誦群經，多所
+        <lb ed="T" n="0096a11"/>通習。<date from-iso="0184-01-15" to-iso="0189-05-12" key="j17882791790223"><persName key="A002041">漢靈帝</persName>末</date>，遊賈<placeName key="CN0410300Z01AA">洛陽</placeName>，有功，號騎都尉。性
+        <lb ed="T" n="0096a12"/>虛靜溫恭，常以法事為己務。漸練漢言，志宣
+        <lb ed="T" n="0096a13"/>經典，常與沙門講論道義，世所謂都尉<ptr target="fn3"/>言也。
+        <lb ed="T" n="0096a14"/><persName key="A000367">玄</persName>與沙門<persName key="A001912">嚴佛調</persName>共出《法鏡經》，<persName key="A000367">玄</persName>口譯梵文，
+        <lb ed="T" n="0096a15"/><persName key="A001912">佛調</persName>筆受。理得音正，盡經微旨，郢匠之<ptr target="fn4"/>義，見
+        <lb ed="T" n="0096a16"/>述後代。</p><p><persName key="A001912">佛調</persName>，<placeName key="CN0321324Z13AA">臨淮</placeName>人也。綺年頴悟，敏而好學，
+            <lb ed="T" n="0096a17"/>信慧自然，遂出家修道。通譯經典，見重於時。
+            <lb ed="T" n="0096a18"/>世稱<persName key="A000366">安侯</persName>、<persName key="A000367">都尉</persName>、<persName key="A001912">佛調</persName>三人傳譯號為難繼。
+            <lb ed="T" n="0096a19"/><persName key="A001912">佛調</persName>又撰《十慧》，並傳於世。<persName key="A001503">安公</persName>稱：「<persName key="A001912">佛調</persName>出經，
+            <lb ed="T" n="0096a20"/><ptr target="fn5"/>省不煩，全本妙巧。」</p><p>次有<persName key="A001045">康孟詳</persName>者，其先<placeName key="UZTO00000E01AA">康居</placeName>
+                <lb ed="T" n="0096a21"/>人也。譯出《中本起》。<persName key="A001503">安公</persName>稱：「<persName key="A001045">孟詳</persName>出經，奕奕流
+                <lb ed="T" n="0096a22"/>便，足騰玄趣。」</p><p>後有沙門<persName key="A001634">維秖難</persName>者，<placeName key="IN0000000E01AA">天竺</placeName>人也。
+                    <lb ed="T" n="0096a23"/>以<date from-iso="0224-02-07" to-iso="0225-01-25" key="j18029111803264"><persName key="A002169">孫權</persName>黃武三年</date>，齎《曇鉢經》<ptr target="fn＊"/>胡本來至<placeName key="CN0420704Z04AA">武昌</placeName>，
+                    <lb ed="T" n="0096a24"/>《曇鉢》即《法句經》也。時<persName key="A000164">支謙</persName>請出經，乃令其同
+                    <lb ed="T" n="0096a25"/>道<persName key="A000764">竺將炎</persName>傳譯，<persName key="A000164">謙</persName>寫為漢文。<ptr target="fn6"/>時<persName key="A000764">炎</persName>未善漢言，
+                    <lb ed="T" n="0096a26"/>頗有不盡。然志存義本，近於質實，今所傳《法
+                    <lb ed="T" n="0096a27"/>句》是也。</p><p><persName key="A000304">白延</persName>者，不知何許人。<date from-iso="0247" to-iso="0249" key="j18112881812131">魏正始之末</date>，重
+                        <lb ed="T" n="0096a28"/>譯出《首楞嚴》，又《須賴》及《除災患經》，凡三部云。</p>
+    
+    <linkGrp>
+        <link targets="#0096a09 #0096a09"/>
+        <ptr target="#A000367" type="person"/>
+        <ptr target="#IR0000000E02AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0096a11 #0096a11"/>
+        <ptr target="#A000367" type="person"/>
+        <ptr target="#CN0410300Z01AA" type="place"/>
+        <ptr target="#j17882791790223" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0096a14 #0096a15"/>
+        <ptr target="#A000367" type="person"/>
+        <ptr target="#A001912" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0096a16 #0096a16"/>
+        <ptr target="#A001912" type="person"/>
+        <ptr target="#CN0321324Z13AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0096a20 #0096a21"/>
+        <ptr target="#A001045" type="person"/>
+        <ptr target="#UZTO00000E01AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0096a22 #0096a22"/>
+        <ptr target="#A001634" type="person"/>
+        <ptr target="#IN0000000E01AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0096a23 #0096a23"/>
+        <ptr target="#A001634" type="person"/>
+        <ptr target="#CN0420704Z04AA" type="place"/>
+        <ptr target="#j18029111803264" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0096a24 #0096a26"/>
+        <ptr target="#A001634" type="person"/>
+        <ptr target="#A000164" type="person"/>
+        <ptr target="#A000764" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0096a27 #0096a28"/>
+        <ptr target="#A000304" type="person"/>
+        <ptr target="#j18112881812131" type="time"/>
+    </linkGrp>
+</div>

@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="cszjj0097a18zhuShiXing">
+    <head><lb ed="T" n="0097a18"/><persName key="A002198">朱士行</persName>傳第五</head>
+    <p><anchor n="T.55.2145.0097a19"/><lb ed="T" n="0097a19"/><persName key="A002198">朱士行</persName>，<placeName key="CN0411081Z18AA">頴川</placeName>人也。志業清粹，氣韻明烈，堅正
+        <lb ed="T" n="0097a20"/><ptr target="fn4"/>方直，<ptr target="fn5"/>勸沮不能移焉。少懷遠悟，脫落塵俗，
+        <lb ed="T" n="0097a21"/>出家以後，便以大法為己任。常謂入道資慧，
+        <lb ed="T" n="0097a22"/>故專務經典。初<placeName key="IN0000000E01AA">天竺</placeName><persName key="A002162">朔佛</persName>，以<date from-iso="0168" to-iso="0189" key="j17824451790223">漢靈帝時</date>，出《道
+        <lb ed="T" n="0097a23"/>行經》，譯人口傳，或不領，輒抄撮而過，故意義
+        <lb ed="T" n="0097a24"/>首尾頗有格礙。<persName key="A002198">士行</persName><ptr target="fn6"/>常於<placeName key="CN0410322Z25AA">洛陽</placeName>講《小品》，往往
+        <lb ed="T" n="0097a25"/>不通。每歎此經大乘之要，而譯理不盡，誓志
+        <lb ed="T" n="0097a26"/>捐身，遠<ptr target="fn7"/>迎《大品》。遂以<date from-iso="0260-01-30" to-iso="0260-06-26" key="j18160521816200">魏甘露五年</date>，發迹<placeName key="CN0610112Z12AA">雍州</placeName>，
+        <lb ed="T" n="0097a27"/>西渡流沙。既至<placeName key="CN0653222Z09AA">于闐</placeName>，果寫得正品梵書，胡
+        <lb ed="T" n="0097a28"/>本九十章，六十萬餘言，遣弟子<persName key="A002658">不如檀</persName>，晉言
+        <lb ed="T" n="0097a29"/><persName key="A002658">法饒</persName>，凡十人，送經胡本還<placeName key="CN0410322Z25AA">洛陽</placeName>。未發之間，<placeName key="CN0653222Z09AA">于<lb ed="T" n="0097b01"/>闐</placeName>小乘學眾遂以白王云：「漢地沙門欲以婆
+        <lb ed="T" n="0097b02"/>羅門書惑亂正典，王為地主，若不禁之，將斷
+        <lb ed="T" n="0097b03"/>大法，聾盲漢地，王之咎也！」王即不聽齎經。<persName key="A002198">士<lb ed="T" n="0097b04"/>行</persName>憤慨，乃求燒經為證。王欲試驗，乃積薪殿
+        <lb ed="T" n="0097b05"/>庭，以火燔之。<persName key="A002198">士行</persName>臨階而誓曰：「若大法應流
+        <lb ed="T" n="0097b06"/>漢地者，經當不燒；若其無應，命也如何！」言已
+        <lb ed="T" n="0097b07"/>投經，火即為滅，不損一字，皮<ptr target="fn8"/>牒如故。大眾
+        <lb ed="T" n="0097b08"/>駭服，稱其神感，遂得送至陳留倉恒<placeName key="CN0410224T01AA">水南寺</placeName>。
+        <lb ed="T" n="0097b09"/><placeName key="CN0410381Z28AA">河南</placeName>居士<persName key="A000763">竺叔蘭</persName>，善解方言，譯出為《放光經》
+        <lb ed="T" n="0097b10"/>二十卷。<persName key="A002198">士行</persName>年八十而卒，依西方闍維法，薪
+        <lb ed="T" n="0097b11"/>盡火滅而尸骸猶全。眾咸驚異，乃呪曰：「若真
+        <lb ed="T" n="0097b12"/>得道，法當毀壞。」應聲碎散，遂<ptr target="fn9"/>斂骨起塔焉。</p>
+    
+    <linkGrp>
+        <link targets="#0097a19 #0097a19"/>
+        <ptr target="#A002198" type="person"/>
+        <ptr target="#CN0411081Z18AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0097a22 #0097a22"/>
+        <ptr target="#A002162" type="person"/>
+        <ptr target="#IN0000000E01AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0097a22 #0097a22"/>
+        <ptr target="#A002162" type="person"/>
+        <ptr target="#j17824451790223" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0097a24 #0097a25"/>
+        <ptr target="#A002198" type="person"/>
+        <ptr target="#CN0410322Z25AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0097a26 #0097a26"/>
+        <ptr target="#A002198" type="person"/>
+        <ptr target="#CN0610112Z12AA" type="place"/>
+        <ptr target="#j18160521816200" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0097a27 #0097b08"/>
+        <ptr target="#A002198" type="person"/>
+        <ptr target="#A002658" type="person"/>
+        <ptr target="#CN0653222Z09AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0097a27 #0097b08"/>
+        <ptr target="#A002658" type="person"/>
+        <ptr target="#CN0410224T01AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0097b09 #0097b10"/>
+        <ptr target="#A000763" type="person"/>
+        <ptr target="#CN0410381Z28AA" type="place"/>
+    </linkGrp>
+</div>
