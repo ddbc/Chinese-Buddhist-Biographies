@@ -38,6 +38,7 @@
   </teiHeader>
   <text>
     <body>
+      <!-- Numbering in filenames continues from the Chu sanzang jiji -->
       <xi:include href="1484qiuNaBaTuo.xml"/>
       <xi:include href="1485daoAn.xml"/>
       <xi:include href="1486tanYi.xml"/>
@@ -75,7 +76,7 @@
       <xi:include href="1518tanFu.xml"/>
       <xi:include href="1519shiFaXiang.xml"/>
  
-      <!--   <xi:include href="anqing.xml"/> -->
+   
     </body>
   </text>
 </TEI>
