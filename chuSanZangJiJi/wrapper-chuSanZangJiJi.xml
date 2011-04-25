@@ -1,4 +1,5 @@
-<?xml version="1.0" ?><?oxygen RNGSchema="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/gisSchema.rng" type="xml"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -36,7 +37,7 @@
   </teiHeader>
   <text>
     <body>
-      <!-- Numbering in filenames continues from the Chu sanzang jiji -->
+      <!-- Numbering in filenames continues from the Biqiuni Zhuan -->
       <xi:include href="1452anShiGao.xml"/>
       <xi:include href="1453zhiChen.xml"/>
       <xi:include href="1454anXuan.xml"/>
@@ -69,8 +70,7 @@
       <xi:include href="1481baoYun.xml"/>
       <xi:include href="1482zhiMeng.xml"/>
       <xi:include href="1483faYong.xml"/>
- 
-      <!--   <xi:include href="anqing.xml"/> -->
+   
     </body>
   </text>
 </TEI>
