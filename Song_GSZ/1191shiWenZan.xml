@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0877b26shiWenZan">
+    <anchor n="T.50.2061.0877b26"/><head><date from-iso="0618-06-21" key="j19469512052491" to-iso="0907-06-06">唐</date>京兆荷恩寺<persName key="A013708">文瓚</persName>傳</head><p>
+<lb ed="T" n="0877b27"/><persName key="A013708">釋文瓚</persName>，姓張氏，<placeName key="CN0140110Z06AA">晉陽</placeName>人也。天姿整恪，幼事
+<lb ed="T" n="0877b28"/>師於并州<placeName key="CN0140110T10AA">崇福寺</placeName>。學該群籍，控帶三乘。至
+<lb ed="T" n="0877b29"/>若金版銀繩之籙，龍韜象祕之文，罔不耰<pb ed="T" n="0877c" xml:id="T50.2061.0877c"/>
+<lb ed="T" n="0877c01"/>耘情田，波濤口海，宣暢皇化，對揚天休，一
+<lb ed="T" n="0877c02"/>皆悅服。詔為翻譯，并河南<placeName key="CN0410311T08AA">佛授記寺</placeName>兼京兆
+<lb ed="T" n="0877c03"/><placeName key="CN0610102T37AA">安國</placeName>、<placeName key="CN0610102T39AA">荷恩</placeName>、<placeName key="CN0610104T33AA">崇福</placeName>等寺大德。好修福事，設無遮
+<lb ed="T" n="0877c04"/>一百會，凡聖混淆，一皆等施。縱風雲連起，及
+<lb ed="T" n="0877c05"/>至齋日，必晴明晏然，感動人祇，福無唐設。
+<lb ed="T" n="0877c06"/>春秋六十餘，卒於<placeName key="CN0610102T39AA">本院</placeName>。境內苦霧如泣，數
+<lb ed="T" n="0877c07"/>日不解焉。</p>
+    <linkGrp>
+        <link targets="#0877b27 #0877b27"/>
+        <ptr target="#A013708" type="person"/>
+        <ptr target="#CN0140110T10AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0877c05 #0877c07"/>
+        <ptr target="#A013708" type="person"/>
+        <ptr target="#CN0610102T39AA" type="place"/>
+    </linkGrp>
+</div>

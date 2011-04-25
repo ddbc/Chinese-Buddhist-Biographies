@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0770c13shiHuaiHai">
+    <anchor n="T.50.2061.0770c13"/><head><date from-iso="0618-06-21" key="j19469512052491" to-iso="0907-06-06">唐</date><placeName key="CN0360921M01AA">新吳百丈山</placeName><persName key="A001897">懷海</persName>傳</head><p>
+<lb ed="T" n="0770c14"/><persName key="A001897">釋懷海</persName>，<placeName key="CN0350104Z18AA">閩</placeName>人也。少離朽宅，長遊頓門，稟自
+<lb ed="T" n="0770c15"/>天然，不由激勸。聞<persName key="A003623">大寂</persName>始化<placeName key="CN0360782Z13AA">南康</placeName>，操心依
+<lb ed="T" n="0770c16"/>附，虛往實歸，果成宗匠。後檀信請居<placeName key="CN0360921Z08AA">新吳</placeName>
+<lb ed="T" n="0770c17"/>界，有山峻極，可千尺許，號百丈歟？<persName key="A001897">海</persName>既居
+        <lb ed="T" n="0770c18"/>之，禪客無遠不至，堂室隘矣。且曰：「<ref type="person" target="#A001897">吾</ref>行大
+<lb ed="T" n="0770c19"/>乘法，豈宜以諸部阿笈摩教為隨行邪？」或
+<lb ed="T" n="0770c20"/>曰：「《瑜伽論》、《瓔珞經》，是大乘戒律，胡不依隨
+        <lb ed="T" n="0770c21"/>乎？」<persName key="A001897">海</persName>曰：「<ref type="person" target="#A001897">吾</ref>於大小乘中博約折中，設規務
+<lb ed="T" n="0770c22"/>歸於善焉。」乃創意不循律制，別立禪居。
+<lb ed="T" n="0770c23"/>初自<persName key="A001361">達磨</persName>傳法至<persName key="A001719">六祖</persName>已來，得道眼者
+<lb ed="T" n="0770c24"/>號長老，同<placeName key="WW142XIYUE01AA">西域</placeName>道高臘長者呼須菩提也。
+<lb ed="T" n="0770c25"/>然多居律寺中，唯別院異耳。又令不論高
+<lb ed="T" n="0770c26"/>下，盡入僧堂。堂中設長連床，施椸架挂搭
+<lb ed="T" n="0770c27"/>道具。臥必斜枕床脣，謂之帶刀睡，為其坐
+<lb ed="T" n="0770c28"/>禪既久，略偃亞而已。朝參夕聚，飲食隨宜，
+<lb ed="T" n="0770c29"/>示節儉也。行普請法，示上下均力也。長老<pb ed="T" n="0771a" xml:id="T50.2061.0771a"/>
+<lb ed="T" n="0771a01"/>居方丈，同維摩之一室也。不立佛殿，唯
+<lb ed="T" n="0771a02"/>樹法堂，表法超言象也。其諸制度，與毘尼
+<lb ed="T" n="0771a03"/>師一倍相翻，天下禪宗如風偃草。禪門獨
+<lb ed="T" n="0771a04"/>行，由<persName key="A001897">海</persName>之始也。以<date key="j20184122018412" when-iso="0814-02-14">元和九年甲午歲正月十
+<lb ed="T" n="0771a05"/>七日</date>歸寂，享年九十五矣。<date from-iso="0821-02-13" key="j20209682021319" to-iso="0822-01-30">穆宗長慶元年</date>，勅
+<lb ed="T" n="0771a06"/><app type="cb-app" xml:id="begd1e16822"/>諡<anchor xml:id="endd1e16822"/><persName key="A001897">大智禪師</persName>，塔曰大寶勝輪焉。</p>
+    <p><lb ed="T" n="0771a07"/>系曰：自<date key="j17304061801741" from-iso="0025" to-iso="0220">漢</date>傳法，居處不分禪律，是以通禪
+<lb ed="T" n="0771a08"/>達法者，皆居一寺中，院有別耳。至乎<persName key="A001897">百丈</persName>
+<lb ed="T" n="0771a09"/>立制，出意用方便，亦頭陀之流也。矯枉從
+<lb ed="T" n="0771a10"/>端，乃簡易之業也。所言自我作古。古，故也；
+<lb ed="T" n="0771a11"/>故，事也。如立事克成，則云自此始也；不成，
+<lb ed="T" n="0771a12"/>則云無自立辟。今<persName key="A001897">海公</persName>作古，天下隨之者，
+<lb ed="T" n="0771a13"/>益多而損少之故也。<app type="cb-app" xml:id="begd1e16845"/>諡<anchor xml:id="endd1e16845"/><persName key="A001897">海公</persName>為<persName key="A001897">大智</persName>，不其
+<lb ed="T" n="0771a14"/>然乎？語曰：「利不百，不變格。」將知變斯格，
+<lb ed="T" n="0771a15"/>厥利多矣。《彌沙塞律》有諸，雖非佛制，諸方
+<lb ed="T" n="0771a16"/>為清淨者不得不行也。</p>
+    <linkGrp>
+        <link targets="#0770c14 #0770c14"/>
+        <ptr target="#A001897" type="person"/>
+        <ptr target="#CN0350104Z18AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0770c15 #0770c16"/>
+        <ptr target="#A001897" type="person"/>
+        <ptr target="#A003623" type="person"/>
+        <ptr target="#CN0360782Z13AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0770c16 #0770c17"/>
+        <ptr target="#A001897" type="person"/>
+        <ptr target="#CN0360921Z08AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0771a04 #0771a05"/>
+        <ptr target="#A001897" type="person"/>
+        <ptr target="#j20184122018412" type="time"/>
+    </linkGrp>
+</div>

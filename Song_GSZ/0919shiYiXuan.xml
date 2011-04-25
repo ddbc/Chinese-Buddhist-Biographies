@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0779a26shiYiXuan">
+    <anchor n="T.50.2061.0779a26"/><head><date from-iso="0618-06-21" key="j19469512052491" to-iso="0907-06-06">唐</date>真定府臨濟院<persName key="A003627">義玄</persName>傳</head><p>
+        <lb ed="T" n="0779a27"/><persName key="A003627">釋義玄</persName>，俗姓邢，<placeName key="CN0371702Z18AA">曹州南華</placeName>人也。參學諸方，
+<lb ed="T" n="0779a28"/>不憚艱苦。因見<placeName key="CN0360924M01AA">黃檗山</placeName><persName key="A000490">運禪師</persName>，鳴啄同時，
+<lb ed="T" n="0779a29"/>了然通徹。乃北歸鄉土，俯徇趙人之請，住<pb ed="T" n="0779b" xml:id="T50.2061.0779b"/>
+<lb ed="T" n="0779b01"/>子城南<placeName key="CN0370181Z05AA">臨濟</placeName>焉。罷唱經論之徒，皆親堂室，
+<lb ed="T" n="0779b02"/>示人心要，頗與<persName key="A003868">德山</persName>相類。以<date key="j20375112037511" when-iso="0866-05-31">咸通七年丙
+<lb ed="T" n="0779b03"/>戌歲四月十日</date>示滅。勅<app type="cb-app" xml:id="begd1e19178"/>諡<anchor xml:id="endd1e19178"/><persName key="A003627">慧照大師</persName>，塔號
+<lb ed="T" n="0779b04"/>澄虛。言教頗行于世，今<placeName key="CN0130634Z13AA">恒陽</placeName>號<placeName key="CN0370181Z05AA">臨濟</placeName>禪宗
+<lb ed="T" n="0779b05"/>焉。</p>
+    <linkGrp>
+        <link targets="#0779a28 #0779a28"/>
+        <ptr target="#A003627" type="person"/>
+        <ptr target="#A000490" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0779a29 #0779b02"/>
+        <ptr target="#A003627" type="person"/>
+        <ptr target="#CN0370181Z05AA" type="place"/>
+    </linkGrp>
+</div>

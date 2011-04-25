@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0721c03shiFeiXi">
+    <anchor n="T.50.2061.0721c03"/><head><date from-iso="0618-06-21" key="j19469512052491" to-iso="0907-06-06">唐</date>大聖千福寺<persName key="A000888">飛錫</persName>傳</head><p>
+<lb ed="T" n="0721c04"/><persName key="A000888">釋飛錫</persName>，未知何許人也。神氣高邈，識量過
+<lb ed="T" n="0721c05"/>人。初學律儀，後於天台法門一心三觀，與
+<lb ed="T" n="0721c06"/>沙門<persName key="A009174">楚金</persName>棲心研習。<date from-iso="0742" key="j19921141993438" to-iso="0745">天寶初</date>遊于<placeName key="CN0610102Z07AA">京闕</placeName>，多
+<lb ed="T" n="0721c07"/>止終南紫閣峯<placeName key="CN0610125T14AA">草堂寺</placeName>。屬<persName key="A000095">不空</persName>當途傳譯，慎
+<lb ed="T" n="0721c08"/>選英髦，<persName key="A000888">錫</persName>預其數，頻登筆受、潤文之任。<date key="j20006032000603" when-iso="0765-05-13">代
+    <lb ed="T" n="0721c09"/>宗永泰元年四月十五日</date>，奉詔於<placeName key="CN0610112A02AC">大明宮內
+        <lb ed="T" n="0721c10"/>道場</placeName>同義學沙門<persName key="A000540">良賁</persName>等十六人參譯《仁王
+<lb ed="T" n="0721c11"/>護國般若經》并《密嚴經》。先在多羅葉時，並是
+<lb ed="T" n="0721c12"/>偈頌，今所譯者多作散文。<persName key="A000095">不空</persName>與<persName key="A000888">錫</persName>等及
+<lb ed="T" n="0721c13"/>翰林學士<persName key="A009172">柳抗</persName>重更詳定，<persName key="A000888">錫</persName>充證義正員，
+<lb ed="T" n="0721c14"/>辭筆不愧斯職也。</p>
+    <p><lb ed="T" n="0721c15"/>系曰：<persName key="A000888">錫</persName>外研儒墨，其筆仍長，時多請其論
+    <lb ed="T" n="0721c16"/>譔，如《忠國師》、《楚金》等碑。與<placeName key="CN0320402Z04AA">晉陵</placeName><persName key="A009173">德宣</persName>、<placeName key="CN0330502Z19AA">吳興</placeName><persName key="A008833">晝
+    <lb ed="T" n="0721c17"/>公</persName>同獵廣原，不知鹿死何人之手。然<persName key="A009173">宣</persName><persName key="A000888">錫</persName>
+<lb ed="T" n="0721c18"/>二公亦有不羈之失，緣飾過其實。如<persName key="A008833">晝公</persName>
+<lb ed="T" n="0721c19"/>合建中之體，儗事得其倫。唯虛與實，不可
+<lb ed="T" n="0721c20"/>同日也。</p>
+    <linkGrp>
+        <link targets="#0721c05 #0721c06"/>
+        <ptr target="#A000888" type="person"/>
+        <ptr target="#A009174" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0721c06 #0721c07"/>
+        <ptr target="#A000888" type="person"/>
+        <ptr target="#CN0610125T14AA" type="place"/>
+        <ptr target="#j19921141993438" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0721c08 #0721c11"/>
+        <ptr target="#A000888" type="person"/>
+        <ptr target="#A000540" type="person"/>
+        <ptr target="#CN0610112A02AC" type="place"/>
+        <ptr target="#j20006032000603" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0721c12 #0721c13"/>
+        <ptr target="#A000888" type="person"/>
+        <ptr target="#A000095" type="person"/>
+        <ptr target="#A009172" type="person"/>
+    </linkGrp>
+</div>

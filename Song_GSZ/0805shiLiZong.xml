@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0735c23shiLiZong">
+    <anchor n="T.50.2061.0735c23"/><head><date from-iso="0618-06-21" key="j19469512052491" to-iso="0907-06-06">唐</date><placeName key="CN0330602Z01AA">越州</placeName><persName key="A009412">禮宗</persName>傳</head><p>
+<lb ed="T" n="0735c24"/><persName key="A009412">釋禮宗</persName>，俗姓宋，<placeName key="CN0330602Z02AA">會稽</placeName>人也。道氣酋壯，志求玄
+<lb ed="T" n="0735c25"/>微，願遂出塵，決除鞅絆。聞<placeName key="CN0410311T04AA">長壽寺</placeName>和尚通
+<lb ed="T" n="0735c26"/>達禪觀，往叩其關，學習之心，未甞少懈。師
+<lb ed="T" n="0735c27"/>誨<persName key="A009412">之</persName>曰：「<persName key="A009412">汝</persName>之出塵，有大利益，可謂良玉度
+<lb ed="T" n="0735c28"/>尺，雖有十仞之土，不能揜其光矣。」乃奮
+<lb ed="T" n="0735c29"/>藻攄華，注《涅槃經》，懷鉛握槧，周于二載。挫<pb ed="T" n="0736a" xml:id="T50.2061.0736a"/>
+<lb ed="T" n="0736a01"/>銳解紛，怡然理順，遂成夾注八十卷焉。及
+<lb ed="T" n="0736a02"/><persName key="A009429">鄭卿</persName>尚書典郡，聞<persName key="A009412">其</persName>盛名，致疏往請，確然
+<lb ed="T" n="0736a03"/>拒而不赴。<date from-iso="0708-02-01" key="j19796821980065" to-iso="0709-02-18">景龍二年</date>，有御史大夫<persName key="A009430">馮思</persName>忽爾
+<lb ed="T" n="0736a04"/>暴終，入一處，有二童子持簿領<persName key="A009430">馮</persName>庭對判
+<lb ed="T" n="0736a05"/>官廳，按覆罪愆，令望彼巨樹枝柯可覆數
+<lb ed="T" n="0736a06"/>畝。判官身旁舊識者<persName key="A009431">張思義</persName>，招手呼<persName key="A009430">馮</persName>曰：
+<lb ed="T" n="0736a07"/>「<persName key="A009431">吾</persName>是<persName key="A009430">汝</persName>舅，曾為<placeName key="CN0410302Z03AA">洛陽</placeName>倉吏，被長官越格誣
+<lb ed="T" n="0736a08"/>殺，兼假貸<placeName key="CN0410304T01AA">太平寺</placeName>中錢及油麪，于今未脫。
+<lb ed="T" n="0736a09"/><persName key="A009430">汝</persName>所坐者，不合於天后宮中亂越，致此暴
+<lb ed="T" n="0736a10"/>卒。可發願造《涅<anchor xml:id="beg0736001"/>槃<anchor xml:id="end0736001"/>經》，鑄鐘。」登即關奏，判
+<lb ed="T" n="0736a11"/>放却還人世。臨行，<persName key="A009431">張</persName>語<persName key="A009430">馮</persName>曰：「在閻浮一日
+<lb ed="T" n="0736a12"/>造功德，得福無量，胡忍一生不修功德耶？
+<lb ed="T" n="0736a13"/>此《涅槃經》者，<persName key="A009430">禮宗大師</persName>注解，從天台傳授，每
+<lb ed="T" n="0736a14"/>有善神守護。」時<persName key="A009431">張</persName>差押<persName key="A009430">馮</persName>往諸司考校輕
+        <lb ed="T" n="0736a15"/>重生處，囑<persName key="A009430">之</persName>曰：「<persName key="A009430">汝</persName>去<placeName key="CN0410302A05AA">洛城道光坊</placeName>內十字街
+<lb ed="T" n="0736a16"/>第三宅是<persName key="A009431">吾</persName>家。家有池亭竹樹，為問妻兒
+<lb ed="T" n="0736a17"/>安否？」<persName key="A009430">馮</persName>起尋經本，未獲，而又死，經三日，立
+<lb ed="T" n="0736a18"/>限歸寫經鑄鐘工畢。<persName key="A009430">馮</persName>在世得四十八年
+<lb ed="T" n="0736a19"/>終。<persName key="A009412">宗</persName>亡，春秋九十七焉。</p>
+    <linkGrp>
+        <link targets="#0735c24 #0735c24"/>
+        <ptr target="#A009412" type="person"/>
+        <ptr target="#CN0330602Z02AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0735c25 #0735c29"/>
+        <ptr target="#A009412" type="person"/>
+        <ptr target="#CN0410311T04AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0736a07 #0736a07"/>
+        <ptr target="#A009431" type="person"/>
+        <ptr target="#CN0410302Z03AA" type="place"/>
+    </linkGrp>
+</div>

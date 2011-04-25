@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0869b15shiWeiGong">
+    <anchor n="T.50.2061.0869b15"/><head><date from-iso="0618-06-21" key="j19469512052491" to-iso="0907-06-06">唐</date>荊州法性寺<persName key="A011803">惟恭</persName>傳（<persName key="A013600">靈巋</persName>）</head><p>
+<lb ed="T" n="0869b16"/><persName key="A011803">釋惟恭</persName>，不詳何許人也。少孺出俗于<placeName key="CN0421003T22AA">法性
+<lb ed="T" n="0869b17"/>寺</placeName>，好尚偪下，多狎非<anchor xml:id="beg0869004"/>法<anchor xml:id="end0869004"/>之友。雖乖僧行，
+<lb ed="T" n="0869b18"/>猶勤持誦金剛般若，罕離脣齒。酒徒博侶，
+<lb ed="T" n="0869b19"/>交集門庭，虛誑云為，曾無廉恥。後遇病且
+<lb ed="T" n="0869b20"/>死。同<placeName key="CN0421003T22AA">寺</placeName>有<persName key="A013600">靈巋</persName>，其跡相類，號為一寺二害
+<lb ed="T" n="0869b21"/>也。<persName key="A013600">巋</persName>偶出，去<placeName key="CN0421003T22AA">寺</placeName>一里所，逢六七人少年甚
+<lb ed="T" n="0869b22"/>都，衣服鮮潔，各執樂器如<placeName key="CN0652923Z18AA">龜茲部</placeName>，問<persName key="A013600">靈巋</persName>
+<lb ed="T" n="0869b23"/>曰：「<persName key="A011803">惟恭</persName>上人何在？」<persName key="A013600">巋</persName>即語其處，疑其寺行
+<lb ed="T" n="0869b24"/>香樂佛也。及曉，迴入<placeName key="CN0421003T22AA">寺</placeName>，聞鐘聲，云「<persName key="A011803">恭</persName>卒」。
+<lb ed="T" n="0869b25"/>所見者乃天樂耳。蓋承經力，必生淨剎，亦
+<lb ed="T" n="0869b26"/>以其跡勉<persName key="A013600">靈巋</persName>也。<persName key="A013600">巋</persName>感悟折節，緇門崇重，
+<lb ed="T" n="0869b27"/>終成高邁焉。</p>
+    <linkGrp>
+        <link targets="#0869b16 #0869b20"/>
+        <ptr target="#A011803" type="person"/>
+        <ptr target="#A013600" type="person"/>
+        <ptr target="#CN0421003T22AA" type="place"/>
+    </linkGrp>
+</div>

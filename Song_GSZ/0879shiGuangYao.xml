@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0766c29shiGuangYao">
+    <anchor n="T.50.2061.0766c29"/><head><date from-iso="0618-06-21" key="j19469512052491" to-iso="0907-06-06">唐</date><placeName key="CN0371302T05AA">沂州寶真院</placeName><persName key="A010354">光瑤</persName>傳（<persName key="A010355">道堅</persName>）</head><p>
+        <lb ed="T" n="0767a01"/><persName key="A010354">釋光瑤</persName>，姓周氏，<placeName key="CN0140110Z05AA">北京</placeName>人也。幼鍾荼蓼，都不
+<lb ed="T" n="0767a02"/>勝情，誓志出家。捨講肆，入禪林，凡嚮宗
+        <lb ed="T" n="0767a03"/>師，悉從求益。末遭<persName key="A005612">會禪師</persName>，金<g ref="#CB04280">[鏍-糸+廾]</g><anchor xml:id="beg0767001"/>抉<anchor xml:id="end0767001"/>瞙，明
+        <lb ed="T" n="0767a04"/>視十方。後到<placeName key="CN0371326M01AA">沂水蒙山</placeName>，結草成庵，怡然宴
+        <lb ed="T" n="0767a05"/>坐。<placeName key="CN0370404Z10AA">鄶</placeName>、<placeName key="CN0371325Z23AA">費</placeName>之人翕然從化。時慎邑大夫知重，首
+<lb ed="T" n="0767a06"/>創禪宮，次<placeName key="CN0370882Z18AA">兗州</placeName>節使<persName key="A010362">王僚</persName>尚書躬請入州行
+<lb ed="T" n="0767a07"/>化，奏<anchor xml:id="beg0767002"/>著<anchor xml:id="end0767002"/>額號<placeName key="CN0371302T05AA">寶真</placeName>。學侶憧憧，多霑大利。<date from-iso="0807-02-15" key="j20158562016209" to-iso="0808-02-03">元
+    <lb ed="T" n="0767a08"/>和二年</date>示滅，享年九十二云。又<placeName key="CN0420602T13AA">唐襄州慈恩
+<lb ed="T" n="0767a09"/>寺</placeName><persName key="A010355">釋道堅</persName>，姓王氏，<placeName key="CN0321102Z12AA">丹陽</placeName>人也。初發心於<placeName key="CN0320100M01AA">牛頭
+    <lb ed="T" n="0767a10"/>山</placeName><persName key="A010048">慧忠禪祖</persName>。<date from-iso="0766-12-22" key="j20011912001238" to-iso="0767-02-07">大曆元年</date>，栖隱<placeName key="CN0341702M03AA">池州南泉山</placeName>。後
+        <lb ed="T" n="0767a11"/>詣<placeName key="CN0420602Z06AA">襄漢</placeName>，泊<placeName key="CN0420602T13AA">慈恩寺</placeName>。<date from-iso="0806-01-29" key="j20154742015855" to-iso="0807-02-14">元和初載</date>，相國<ref type="person" target="#A000047">燕公</ref><note resp="sgsz">案《舊唐書．卷十四》：「元和…二年…八月…辛巳…于頔為燕國公。…三年…九月…庚寅，以山南東道節度使于頔守司空、同平章事。」</note>鎮
+        <lb ed="T" n="0767a12"/>于<placeName key="CN0420602Z04AA">漢南</placeName><note resp="sgsz">案《禹貢錐指．卷七》：「『漢南』曰『荆』之義耳。」</note>，深相欽重，問道周勤，施供繁沓。遂
+        <lb ed="T" n="0767a13"/>於<placeName key="CN0420602A05AA">鳳林關</placeName>外造寺請居。<date from-iso="0807" key="j20158562016209">二年</date>示滅，春秋七
+<lb ed="T" n="0767a14"/>十三云。</p>
+    <linkGrp>
+        <link targets="#0767a01 #0767a01"/>
+        <ptr target="#A010354" type="person"/>
+        <ptr target="#CN0140110Z05AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0767a03 #0767a03"/>
+        <ptr target="#A010354" type="person"/>
+        <ptr target="#A005612" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0767a04 #0767a05"/>
+        <ptr target="#A010354" type="person"/>
+        <ptr target="#CN0371326M01AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0767a06 #0767a07"/>
+        <ptr target="#A010354" type="person"/>
+        <ptr target="#A010362" type="person"/>
+        <ptr target="#CN0370882Z18AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0767a07 #0767a08"/>
+        <ptr target="#A010354" type="person"/>
+        <ptr target="#j20158562016209" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0767a08 #0767a09"/>
+        <ptr target="#A010355" type="person"/>
+        <ptr target="#CN0321102Z12AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0767a09 #0767a10"/>
+        <ptr target="#A010355" type="person"/>
+        <ptr target="#A010048" type="person"/>
+        <ptr target="#CN0320100M01AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0767a10 #0767a10"/>
+        <ptr target="#A010355" type="person"/>
+        <ptr target="#CN0341702M03AA" type="place"/>
+        <ptr target="#j20011912001238" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0767a11 #0767a11"/>
+        <ptr target="#A010355" type="person"/>
+        <ptr target="#CN0420602T13AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0767a11 #0767a13"/>
+        <ptr target="#A010354" type="person"/>
+        <ptr target="#A000047" type="person"/>
+        <ptr target="#CN0420602A05AA" type="place"/>
+        <ptr target="#j20154742015855" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0767a13 #0767a14"/>
+        <ptr target="#A010354" type="person"/>
+        <ptr target="#j20158562016209" type="time"/>
+    </linkGrp>
+</div>

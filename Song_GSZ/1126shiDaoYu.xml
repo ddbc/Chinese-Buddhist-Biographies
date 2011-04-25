@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0858b02shiDaoYu">
+    <anchor n="T.50.2061.0858b02"/><head><date from-iso="0936-12-05" key="j20632662067017" to-iso="0947-03-14">晉</date>天台山平田寺<persName key="A012044">道育</persName>傳</head><p>
+<lb ed="T" n="0858b03"/><persName key="A012044">釋道育</persName>，<placeName key="KR0000000E03AA">新羅國</placeName>人也，本國姓氏未所詳練。
+<lb ed="T" n="0858b04"/>自<date key="j20468932047247" notBefore-iso="0892-02-06" to-iso="0893-01-25">唐景福壬子歲</date>來遊于<placeName key="CN0331023M01AA">天台</placeName>，遲迴而挂
+<lb ed="T" n="0858b05"/>錫於<placeName key="CN0331023T67AA">平田寺</placeName>眾堂中。慈愛接物，然終不捨
+<lb ed="T" n="0858b06"/>島夷言音。恒持一鉢受食，食訖，略經行而
+<lb ed="T" n="0858b07"/>常坐，脇不著席。日中灑掃殿廊，料理常住，
+<lb ed="T" n="0858b08"/>得殘羨之食，雖色惡氣變，收貯于器，齋時
+<lb ed="T" n="0858b09"/>自食。與僧供湢浴煎茶，遇薪木中蠢蠢，乃
+<lb ed="T" n="0858b10"/>置之遠地，護生偏切。所服皆大布納，其
+<lb ed="T" n="0858b11"/>重難荷。每至夏首秋末，日昳，乃裸露胸背
+<lb ed="T" n="0858b12"/>䏶腨，云飼蚊蚋虻蛭雜色蟲螫齧，至於血
+<lb ed="T" n="0858b13"/>流于地。如是行之四十餘載，未甞少廢。凡
+<lb ed="T" n="0858b14"/>對晤賓客，止云伊伊二字，殊不通華語。然
+<lb ed="T" n="0858b15"/>其會認人意，且無差脫。頂髮垂白，眉亦尨
+<lb ed="T" n="0858b16"/>焉。身出紺赤色舍利，有如珠顆，人或求之，
+<lb ed="T" n="0858b17"/>隨意皆獲。至<date key="j20639702063970" when-iso="0938-11-09">晉天福三年戊戌歲十月十日</date>，
+<lb ed="T" n="0858b18"/>終于僧堂中，揣其年八十餘耳。寺僧<g ref="#CB02436">[臼/丌]</g>上
+<lb ed="T" n="0858b19"/>山後焚之，灰中得舍利不可勝數。或有
+        <lb ed="T" n="0858b20"/>得巨骨者。<date key="j20626032062957" notBefore-iso="0935-02-11" to-iso="0936-01-31">後唐清泰二年</date>，曾遊<placeName key="CN0331023A08AA">石梁</placeName>，迴與
+<lb ed="T" n="0858b21"/><persName key="A012044">育</persName>同宿堂內。時春煦，亦燒榾柮柴以自熏
+<lb ed="T" n="0858b22"/>灼，口中嘮嘮，通夜不輟。或云凡供養羅漢
+<lb ed="T" n="0858b23"/>大齋日，<persName key="A012044">育</persName>則不食。人或見迎羅漢時問：「何
+<lb ed="T" n="0858b24"/>不去殿內受供？」口云「伊伊去」。或云「飼蟲」。
+<lb ed="T" n="0858b25"/>時見群虎嗅之，盤桓而去矣。</p>
+    <linkGrp>
+        <link targets="#0858b03 #0858b03"/>
+        <ptr target="#A012044" type="person"/>
+        <ptr target="#KR0000000E03AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0858b04 #0858b06"/>
+        <ptr target="#A012044" type="person"/>
+        <ptr target="#CN0331023T67AA" type="place"/>
+        <ptr target="#j20468932047247" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0858b20 #0858b25"/>
+        <ptr target="#A012044" type="person"/>
+        <ptr target="#CN0331023A08AA" type="place"/>
+        <ptr target="#j20626032062957" type="time"/>
+    </linkGrp>
+</div>

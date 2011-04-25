@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0729c04shiYiZhong">
+    <anchor n="T.50.2061.0729c04"/><head><date from-iso="0618-06-21" key="j19469512052491" to-iso="0907-06-06">唐</date>京兆大慈恩寺<persName key="A001464">義忠</persName>傳</head><p>
+        <lb ed="T" n="0729c05"/><persName key="A001464">釋義忠</persName>，姓尹氏，<placeName key="CN0140423Z16AA">潞府襄垣</placeName>人也。年始九歲，宿
+<lb ed="T" n="0729c06"/>殖之性，志願出家，得<persName key="A001708">淄州沼闍梨</persName>為師，若
+<lb ed="T" n="0729c07"/>鳳巢中之生鵷雛也。少秉奇操，慧解不倫。
+<lb ed="T" n="0729c08"/><persName key="A001708">沼</persName>授與《大涅槃經》，時十三歲矣。相次誦徹四
+<lb ed="T" n="0729c09"/>十卷，眾皆驚駭，號<persName key="A001464">空門奇童</persName>也。二十登戒，
+<lb ed="T" n="0729c10"/>學《四分律》，義理淹通。旁習《十二門論》二本，
+<lb ed="T" n="0729c11"/>即當講演。<persName key="A001708">沼師</persName>知是千里之駿，學恐失時，
+<lb ed="T" n="0729c12"/>聞<placeName key="CN0610102Z07AA">長安</placeName><persName key="A001019">基師</persName>新造疏章，門生填委，聲振天下。
+<lb ed="T" n="0729c13"/>乃師資相將，同就<persName key="A001019">基</persName>之講肆，未極五年，又
+<lb ed="T" n="0729c14"/>通二經五論，則《法華》、《無垢稱》及《百法》、《因明》、《俱
+<lb ed="T" n="0729c15"/>舍》、《成唯識》、《唯識道》等也。由茲開獎，弟子繁多，
+<lb ed="T" n="0729c16"/>講樹別茂於枝<anchor xml:id="beg0729004"/>修<anchor xml:id="end0729004"/>，義門旁開於關竅，乃著
+<lb ed="T" n="0729c17"/>《成唯識論纂要》、《成唯識論鈔》三十卷、《法華經
+<lb ed="T" n="0729c18"/>鈔》二十卷、《無垢稱經鈔》二十卷。《百法論疏》最
+<lb ed="T" n="0729c19"/>為要當，移解二無我歸後，是以掩<placeName key="CN0610113T05AA">慈恩</placeName>之
+<lb ed="T" n="0729c20"/>繁，于今盛行勿過<persName key="A001464">忠</persName>本。所謂列群玉，貫眾
+<lb ed="T" n="0729c21"/>花，<anchor xml:id="beg0729005"/>王<anchor xml:id="end0729005"/>裝瓊樹之林，花綴<anchor xml:id="beg0729006"/>蜀<anchor xml:id="end0729006"/>機之錦。輩流首
+<lb ed="T" n="0729c22"/>伏，聲彩悠颺。況<persName key="A001019">基師</persName>正照於太陽，<persName key="A001464">忠</persName>也旁䘖
+<lb ed="T" n="0729c23"/>於龍燭，四方美譽，千里歸心者，不可勝算
+<lb ed="T" n="0729c24"/>矣。傳持靡怠，僅五十餘年，計講諸教七十
+<lb ed="T" n="0729c25"/>許遍。至年七十二，忽起懷土之心，歸于<placeName key="CN0140402Z17AA">昭
+<lb ed="T" n="0729c26"/>義</placeName>，示同初夏誦戒行道。每一坐時，面向西
+<lb ed="T" n="0729c27"/>北，仰視<placeName key="XZ0000002A01AA">兜率天宮</placeName>，冥心內院，願捨壽時得
+<lb ed="T" n="0729c28"/>見天主，永離凡濁，終得轉依。一日，晨興澡
+<lb ed="T" n="0729c29"/>洗訖，整肅容儀，望空禮拜，如有哀告之狀。<pb ed="T" n="0730a" xml:id="T50.2061.0730a"/>
+<lb ed="T" n="0730a01"/>少頃，結加趺坐，囑付流通教法之意畢，忽
+<lb ed="T" n="0730a02"/>異香滿室，彩雲垂空。<persName key="A001464">忠</persName>合掌仰視曰：「穢弱比
+<lb ed="T" n="0730a03"/>丘，何煩大聖躬來引接？」言盡而化。鄉人道俗
+<lb ed="T" n="0730a04"/>建塔供養，全身不壞，至今<placeName key="CN0140881Z13AA">河東</placeName>鄉里高岡
+<lb ed="T" n="0730a05"/>存焉。</p>
+    <linkGrp>
+        <link targets="#0729c05 #0729c05"/>
+        <ptr target="#A001464" type="person"/>
+        <ptr target="#CN0140423Z16AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0729c06 #0729c09"/>
+        <ptr target="#A001464" type="person"/>
+        <ptr target="#A001708" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0729c11 #0729c13"/>
+        <ptr target="#A001464" type="person"/>
+        <ptr target="#A001708" type="person"/>
+        <ptr target="#A001019" type="person"/>
+        <ptr target="#CN0610102Z07AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0729c19 #0729c19"/>
+        <ptr target="#A001464" type="person"/>
+        <ptr target="#CN0610113T05AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0729c25 #0729c25"/>
+        <ptr target="#A001464" type="person"/>
+        <ptr target="#CN0140402Z17AA" type="place"/>
+    </linkGrp>
+</div>

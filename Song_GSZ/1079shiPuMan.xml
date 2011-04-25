@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0841b06shiPuMan">
+    <anchor n="T.50.2061.0841b06"/><head><date from-iso="0618-06-21" key="j19469512052491" to-iso="0907-06-06">唐</date>潞州<persName key="A012747">普滿</persName>傳</head><p>
+<lb ed="T" n="0841b07"/><persName key="A012747">釋普滿</persName>者，未知何許人也。於<placeName key="CN0141182Z13AA">汾</placeName>、<placeName key="CN0141002Z23AA">晉</placeName>間，所為
+<lb ed="T" n="0841b08"/>率意，不拘僧體，或歌或哭，莫喻其旨。以言
+        <lb ed="T" n="0841b09"/>斥事，往必有徵，故時人以強練<persName key="A011670">萬迴</persName>待之。
+        <lb ed="T" n="0841b10"/>或入稽胡<note resp="sgsz">案《周書．卷四十九》：「稽胡， 一曰步落稽，蓋匈奴別種，劉元海五部之苗裔也。或云山戎、赤狄之後。自<placeName key="CN0141102Z16AA">離石</placeName>以西，<placeName key="CN0620821Z08AA">安定</placeName>以東，方七八百里，居山谷間，種落繁熾。」</note>，激勸修善，至有罷弋獵者。<date from-iso="0780" key="j20059942006355" to-iso="0781">建中
+<lb ed="T" n="0841b11"/>初</date>，於<placeName key="CN0140402Z11AA">潞州</placeName>佛舍中題詩數篇而亡去。所記
+        <lb ed="T" n="0841b12"/>者云：「此水連涇水，雙朱血滿川。青牛將赤
+<lb ed="T" n="0841b13"/>虎，還號太平年。」題後，人莫能知。至<persName key="A008866">朱泚</persName>為
+        <lb ed="T" n="0841b14"/><placeName key="CN0620821Z12AA">涇源</placeName>叛徒推擁，<ref type="person" target="#A004215">駕</ref>幸<placeName key="CN0610424Z12AA">奉天</placeName>。干時天下徵兵，
+<lb ed="T" n="0841b15"/><placeName key="CN0610000E01AA">關</placeName><placeName key="CN0610000E02AA">輔</placeName>賊據，圍逼連戰，人方解悟。此水者，<persName key="A008866">泚</persName>也。
+<lb ed="T" n="0841b16"/>涇水者，<placeName key="CN0620821Z12AA">涇州</placeName>來兵始亂也。雙朱，<persName key="A008866">泚</persName>與<persName key="A010457">滔</persName>也。青
+<lb ed="T" n="0841b17"/>牛者，<date from-iso="0785-02-18" key="j20078242008178" to-iso="0786-02-07">興元元年乙丑</date>。乙木青也。丑牛也。其年
+<lb ed="T" n="0841b18"/>改元貞元，至<date from-iso="0786-02-08" key="j20081792008532" to-iso="0787-01-27">二年丙寅</date>，丙火赤也，寅虎也，
+<lb ed="T" n="0841b19"/>至是賊始平，故曰還號太平年也。</p>
+    <linkGrp>
+        <link targets="#0841b07 #0841b09"/>
+        <ptr target="#A012747" type="person"/>
+        <ptr target="#CN0141182Z13AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0841b07 #0841b09"/>
+        <ptr target="#A012747" type="person"/>
+        <ptr target="#CN0141002Z23AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0841b10 #0841b11"/>
+        <ptr target="#A012747" type="person"/>
+        <ptr target="#CN0140402Z11AA" type="place"/>
+        <ptr target="#j20059942006355" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0841b16 #0841b16"/>
+        <ptr target="#A008866" type="person"/>
+        <ptr target="#A010457" type="person"/>
+    </linkGrp>
+</div>

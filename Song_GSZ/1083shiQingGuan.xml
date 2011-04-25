@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0842a27shiQingGuan">
+    <anchor n="T.50.2061.0842a27"/><head><date from-iso="0618-06-21" key="j19469512052491" to-iso="0907-06-06">唐</date>天台山國清寺<persName key="A012764">清觀</persName>傳（<persName key="A012377">物外</persName>）</head><p>
+<lb ed="T" n="0842a28"/><persName key="A012764">釋清觀</persName>，字<persName key="A012764">明中</persName>，<placeName key="CN0331082Z13AA">臨海</placeName>人也，姓屈氏。初誕彌，手
+<lb ed="T" n="0842a29"/>足指間有幕蹼屬相著焉，佛經所謂網漫相<pb ed="T" n="0842b" xml:id="T50.2061.0842b"/>
+<lb ed="T" n="0842b01"/>也。迨為童孺，神俊挺然，乃有出塵之志。遂
+<lb ed="T" n="0842b02"/>詣<placeName key="CN0331023T01AA">國清寺</placeName>，投<persName key="A012765">元璋律師</persName>執侍瓶鉢，非父母
+<lb ed="T" n="0842b03"/>不沮之，若迦樓羅鳥啄幾萬重圍矣。年十
+<lb ed="T" n="0842b04"/>八，納形俱法，良由善根深<anchor xml:id="beg0842002"/>植<anchor xml:id="end0842002"/>，悟解天然，台
+<lb ed="T" n="0842b05"/>嶺教文，洞明三觀，兼得深定，神異通感，皆
+<lb ed="T" n="0842b06"/>莫我知。少覽百家，彌通三教。仍善屬文，長
+<lb ed="T" n="0842b07"/>於詩筆。凡其邦伯輶軒，皆響風造謁，<persName key="A012764">觀</persName>則持
+<lb ed="T" n="0842b08"/>重若嚴君焉。見則畏伏，秖就几杖以待貴
+<lb ed="T" n="0842b09"/>士。或施財寶，皆迴入常住，罄無私畜。或曰：
+<lb ed="T" n="0842b10"/>「貴人所施皆充別施，何不己用耶？」對曰：「恨
+<lb ed="T" n="0842b11"/>未能捨頭目，況世財乎？」<date from-iso="0847" key="j20304612031609" to-iso="0850">大中初</date>，天下寺剎
+        <lb ed="T" n="0842b12"/>中興，<persName key="A012764">觀</persName>入<placeName key="CN0610102Z07AA">京</placeName>請大鐘歸<ref type="place" target="#CN0331023T01AA">寺</ref>鳴擊，并重懸勅
+<lb ed="T" n="0842b13"/>額，則集賢院學士<persName key="A012766">柳公權</persName>書題也。<persName key="A012766">柳</persName>復有詩
+<lb ed="T" n="0842b14"/>序，送其東歸。復請藏經歸寺。<date from-iso="0853-02-16" key="j20326592033012" to-iso="0854-02-04">大中癸酉</date>，<placeName key="CN0000007D01AA">江
+<lb ed="T" n="0842b15"/>表</placeName>荐饑，殍踣相望，<persName key="A012764">觀</persName>遂併糧食施之。又山
+        <lb ed="T" n="0842b16"/>僧<persName key="A012377">物外</persName>度荒，自入室禪定，謂弟子曰：「汝如
+<lb ed="T" n="0842b17"/>不死，至禾黍熟時，當以磬引<persName key="A012764">我</persName>出。」果如其
+        <lb ed="T" n="0842b18"/>言，明歲方從定起矣<note resp="sgsz">此事另見《釋門正統．卷二》 (cf. 釋門正統<ref>CBETA, X75, no. 1513, p. 278, a05</ref>)</note>。一旦溪南人命<persName key="A012764">觀</persName>齋
+<lb ed="T" n="0842b19"/>食，可去寺二十里餘。其夜溪㵎泛溢，無人
+<lb ed="T" n="0842b20"/>可渡，謂<persName key="A012764">觀</persName>不來。頃刻而至，且無淹濕，作用
+<lb ed="T" n="0842b21"/>可知也，人皆異之。遠近瞻禮，日別盈滿，喧
+<lb ed="T" n="0842b22"/>擾可厭，乃逃往翠屏山<!--找不到此地-->蘭若獨棲。續<placeName key="CN0331023M01AA">天台
+<lb ed="T" n="0842b23"/>山</placeName>眾列請為僧正，乃佯狂隱晦。州牧<persName key="A010633">杜雄</persName>遂
+<lb ed="T" n="0842b24"/>奏<persName key="A003875">昭宗</persName>宣賜紫衣，<persName key="A012764">觀</persName>聞之，若愁思不樂。後
+<lb ed="T" n="0842b25"/>無疾而終焉。</p>
+    <linkGrp>
+        <link targets="#0842b01 #0842b03"/>
+        <ptr target="#A012764" type="person"/>
+        <ptr target="#A012765" type="person"/>
+        <ptr target="#CN0331023T01AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0842b11 #0842b14"/>
+        <ptr target="#A012764" type="person"/>
+        <ptr target="#A012766" type="person"/>
+        <ptr target="#CN0610102Z07AA" type="place"/>
+        <ptr target="#j20304612031609" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0842b14 #0842b20"/>
+        <ptr target="#A012764" type="person"/>
+        <ptr target="#CN0000007D01AA" type="place"/>
+        <ptr target="#j20326592033012" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0842b23 #0842b24"/>
+        <ptr target="#A010633" type="person"/>
+        <ptr target="#A003875" type="person"/>
+    </linkGrp>
+</div>

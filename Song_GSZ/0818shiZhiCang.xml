@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0740c02shiZhiCang">
+    <anchor n="T.50.2061.0740c02"/><head><date from-iso="0618-06-21" key="j19469512052491" to-iso="0907-06-06">唐</date><placeName key="CN0330681M03AA">越州暨陽杭烏山</placeName><persName key="A009653">智藏</persName>傳</head><p>
+<lb ed="T" n="0740c03"/><persName key="A009653">釋智藏</persName>，姓皮氏，<placeName key="WW034XI00E01AA">西印度</placeName>種族，祖父從華，世
+<lb ed="T" n="0740c04"/>居官宦，後僑寓<placeName key="CN0360802Z12AA">廬陵</placeName>。<persName key="A009653">藏</persName>少入精舍，覩像設
+<lb ed="T" n="0740c05"/>之繁，乃陋俗求真，而於三學各所留心，
+<lb ed="T" n="0740c06"/>唯《律藏》也最為精敏。<date from-iso="0768-01-28" key="j20015932001976" to-iso="0769-02-14">大曆三年</date>，遊<placeName key="CN0360103Z01AA">豫章</placeName>，因
+<lb ed="T" n="0740c07"/>隸名<placeName key="CN0410302T01AA">天宮寺</placeName>，眾懇命臨壇秉度，時仰炮烋，
+<lb ed="T" n="0740c08"/>號為<persName key="A009653">律虎</persName>。每登法座，提唱毘尼，堂盈席滿，
+<lb ed="T" n="0740c09"/>聽受無厭。<anchor xml:id="beg0740001"/>辯<anchor xml:id="end0740001"/>名理，析微言，連環可解也。
+<lb ed="T" n="0740c10"/><date from-iso="0785" key="j20078242015139" to-iso="0805">貞元</date>中，遇<persName key="A003623">大寂禪師</persName>，篤明心要。及遊<placeName key="CN0330602Z02AA">會稽</placeName>，
+<lb ed="T" n="0740c11"/>於<placeName key="CN0330681M03AA">杭烏山</placeName>頂築小室安禪。乃著《華嚴經妙
+<lb ed="T" n="0740c12"/>義》。宣吐<anchor xml:id="beg0740002"/>亹亹<anchor xml:id="end0740002"/>，學者歸焉。至<date from-iso="0819-03-04" key="j20202562020285" to-iso="0819-04-02">元和十四年二
+<lb ed="T" n="0740c13"/>月</date>，無疾而終，報齡七十九。焚收舍利圓淨
+<lb ed="T" n="0740c14"/>者，建塔於院北峯焉。<placeName key="CN0330681M03AA">杭烏山</placeName>者，越俗言訛，
+<lb ed="T" n="0740c15"/>合言<placeName key="CN0330681M03AA">杭嵨</placeName>，謂<placeName key="CN0300000R01AA">浙江</placeName>所渡古用杭筏，到岸藏
+<lb ed="T" n="0740c16"/>杭，故云嵨也。</p>
+    <linkGrp>
+        <link targets="#0740c03 #0740c04"/>
+        <ptr target="#A009653" type="person"/>
+        <ptr target="#CN0360802Z12AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0740c06 #0740c07"/>
+        <ptr target="#A009653" type="person"/>
+        <ptr target="#CN0410302T01AA" type="place"/>
+        <ptr target="#j20015932001976" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0740c10 #0740c10"/>
+        <ptr target="#A009653" type="person"/>
+        <ptr target="#A003623" type="person"/>
+        <ptr target="#j20078242015139" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0740c10 #0740c12"/>
+        <ptr target="#A009653" type="person"/>
+        <ptr target="#CN0330681M03AA" type="place"/>
+        <ptr target="#j20078242015139" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0740c12 #0740c13"/>
+        <ptr target="#A009653" type="person"/>
+        <ptr target="#j20202562020285" type="time"/>
+    </linkGrp>
+</div>

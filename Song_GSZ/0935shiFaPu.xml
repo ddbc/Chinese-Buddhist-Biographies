@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0785a03shiFaPu">
+    <anchor n="T.50.2061.0785a03"/><head><date from-iso="0618-06-21" key="j19469512052491" to-iso="0907-06-06">唐</date>蘄州黃崗山<persName key="A010662">法普</persName>傳（<persName key="A010664">休靜</persName>）</head><p>
+<lb ed="T" n="0785a04"/><persName key="A010662">釋法普</persName>，姓潘氏，<placeName key="CN0341421Z12AA">廬江</placeName>人也。貌古情寬，擁敗
+<lb ed="T" n="0785a05"/>納觀方。<date from-iso="0806" key="j20154742020606" to-iso="0820">元和</date>中，因見<placeName key="CN0421126M04AA">黃崗山</placeName>色奇秀，其峯
+<lb ed="T" n="0785a06"/>巉崪，其林欝密，中有石壇，平坦而高峙。乃放
+<lb ed="T" n="0785a07"/>囊挂錫，于中班荊。久之，尋附樹架蓬茨，僅
+<lb ed="T" n="0785a08"/>容身而已。未幾，有人自小徑而至，見<persName key="A010662">普</persName>驚
+<lb ed="T" n="0785a09"/>怪，問云：「何緣至此？」曰：「某本行山麓，見巔頂
+<lb ed="T" n="0785a10"/>騰漲，紫氣盤紆可愛，意此山有尤物，故來
+<lb ed="T" n="0785a11"/>耳。」諦視<persName key="A010662">普</persName>，遲迴而去。山下行者聞而尋焉。
+<lb ed="T" n="0785a12"/>禪學之徒，不數年遽盈百數。<persName key="A010662">普</persName>却之曰：「老
+<lb ed="T" n="0785a13"/>僧獨居，無物利人，君等亦無所乏。」由是星
+<lb ed="T" n="0785a14"/>居之庵多矣。弟子<persName key="A010663">廣嚴</persName>等構成大院，禪客翕
+<lb ed="T" n="0785a15"/>如，傳其法者無算。一日，集眾辭云：「<persName key="A010662">吾</persName>其終
+<lb ed="T" n="0785a16"/>矣。汝曹善住珍惜！」加趺坐胡床而卒。其身
+<lb ed="T" n="0785a17"/>不壞散，後以香泥塗<anchor xml:id="beg0785001"/>繢<anchor xml:id="end0785001"/>之。至<date from-iso="0874" key="j20406372042521" to-iso="0880">乾符</date>中，重
+<lb ed="T" n="0785a18"/>立碑頌云。次洛京<placeName key="CN0410304T02AA">華嚴寺</placeName><persName key="A010664">釋休靜</persName>，不知何
+        <lb ed="T" n="0785a19"/>許人也。屬<persName key="A009489">洞山</persName>禪道風行，<persName key="A010664">靜</persName>往造<ref type="person" target="#A009489">之</ref>，抉擿
+<lb ed="T" n="0785a20"/>所疑，若雷復于本位焉。北返於<placeName key="CN0410302Z03AA">洛邑</placeName>，開演。
+<lb ed="T" n="0785a21"/>因赴內齋，諸名公皆執經諷讀，唯<persName key="A010664">靜</persName>并其徒
+        <lb ed="T" n="0785a22"/>俱默坐。<ref type="person" target="#A006575">帝</ref>宣問：「胡不轉經？」詶答響應，仍皆
+<lb ed="T" n="0785a23"/>屬對，悅可帝情。尋迴平陽<!--找不到此地-->示滅。收舍利，四
+<lb ed="T" n="0785a24"/>處樹浮圖。勅<app type="cb-app" xml:id="begd1e20884"/>諡<anchor xml:id="endd1e20884"/><persName key="A010664">寶智大師</persName>，塔號無為也。</p>
+    <linkGrp>
+        <link targets="#0785a05 #0785a08"/>
+        <ptr target="#A010662" type="person"/>
+        <ptr target="#CN0421126M04AA" type="place"/>
+        <ptr target="#j20154742020606" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0785a14 #0785a15"/>
+        <ptr target="#A010662" type="person"/>
+        <ptr target="#A010663" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0785a18 #0785a18"/>
+        <ptr target="#A010664" type="person"/>
+        <ptr target="#CN0410304T02AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0785a19 #0785a19"/>
+        <ptr target="#A010664" type="person"/>
+        <ptr target="#A009489" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0785a22 #0785a22"/>
+        <ptr target="#A010664" type="person"/>
+        <ptr target="#A006575" type="person"/>
+    </linkGrp>
+</div>

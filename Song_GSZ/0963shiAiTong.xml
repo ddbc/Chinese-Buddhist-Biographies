@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0796a22shiAiTong">
+    <anchor n="T.50.2061.0796a22"/><head><date from-iso="0618-06-21" key="j19469512052491" to-iso="0907-06-06">唐</date>開業寺<persName key="A001434">愛同</persName>傳（<persName key="A010850">玄通</persName>）</head><p>
+<lb ed="T" n="0796a23"/><persName key="A001434">釋愛同</persName>，俗姓趙氏，本<placeName key="CN0620522Z22AA">天水</placeName>人也。代襲冠冕
+<lb ed="T" n="0796a24"/>弱齡挺拔，惠然肯來，為佛家子。具戒後，講彌
+<lb ed="T" n="0796a25"/>沙塞律，遠近師稟，若鱗羽宗乎鯤鳳也。昔
+<lb ed="T" n="0796a26"/>南宋朝<placeName key="WW034KASME02AA">罽賓</placeName>三藏<persName key="A000436">覺壽</persName>譯成此律，因出《羯磨》
+<lb ed="T" n="0796a27"/>一卷，時運遷移，其本零落，尋求不獲，學者無
+<lb ed="T" n="0796a28"/>依。<persName key="A001434">同</persName>遂於《大律》之內，抄出《羯磨》一卷，彼宗
+<lb ed="T" n="0796a29"/>學者盛傳流布，被事方全。<date from-iso="0683" key="j19708851980570" to-iso="0710">孝和之世</date>，<date from-iso="0705" key="j19786111979566" to-iso="0707">神龍中</date><pb ed="T" n="0796b" xml:id="T50.2061.0796b"/>
+<lb ed="T" n="0796b01"/>盛重翻宣，<persName key="A001434">同</persName>與<persName key="A002468">文綱</persName>等參預譯場，推為證
+<lb ed="T" n="0796b02"/>義。<persName key="A001470">義淨</persName>所出之經，<persName key="A001434">同</persName>有力焉。著《五分律疏》
+<lb ed="T" n="0796b03"/>十卷，復遺囑<placeName key="CN0610103T02AA">西明寺</placeName><persName key="A010850">玄通律師</persName>重施潤色。
+<lb ed="T" n="0796b04"/>後<persName key="A008454">安</persName><persName key="A010333">史</persName><date from-iso="0755" key="j19968182000104" to-iso="0763">俶擾</date>，焚燎喪寺，今無類矣。</p>
+    <linkGrp>
+        <link targets="#0796b01 #0796b02"/>
+        <ptr target="#A001434" type="person"/>
+        <ptr target="#A002468" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0796b02 #0796b03"/>
+        <ptr target="#A010850" type="person"/>
+        <ptr target="#CN0610103T02AA" type="place"/>
+    </linkGrp>
+</div>

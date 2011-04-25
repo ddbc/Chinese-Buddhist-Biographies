@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0770b21shiZhenShu">
+    <anchor n="T.50.2061.0770b21"/><head><date from-iso="0618-06-21" key="j19469512052491" to-iso="0907-06-06">唐</date><placeName key="CN0360902M02AA">袁州陽岐山</placeName><persName key="A010429">甄叔</persName>傳</head><p>
+<lb ed="T" n="0770b22"/><persName key="A010429">釋甄叔</persName>，不知何許人也。幼而聰敏，倜儻不
+<lb ed="T" n="0770b23"/>羈。心目融明，具大人相。觀生死輪上，見九
+<lb ed="T" n="0770b24"/>地群迷，猶如蟭螟處在蚊睫。受勝妙欲，似
+<lb ed="T" n="0770b25"/>嚼蠟無味。遂投簪削頂，具佛幖幟，求正
+<lb ed="T" n="0770b26"/>覺了義，扣<persName key="A003623">大寂禪師</persName>，一造玄機，萬慮都寂。
+<lb ed="T" n="0770b27"/>乃曰：「群靈本源，假名為佛，體竭形消而不
+<lb ed="T" n="0770b28"/>滅，金流朴散而常存。性海無風，驚波自湧。
+<lb ed="T" n="0770b29"/>心虛絕兆，萬象齊照。體斯理者，不言而遍<pb ed="T" n="0770c" xml:id="T50.2061.0770c"/>
+<lb ed="T" n="0770c01"/>歷沙界，不用而功益玄化。如何背覺，反合
+<lb ed="T" n="0770c02"/>塵勞，於陰界中，妄自囚繫。」於是形同水月
+        <lb ed="T" n="0770c03"/>流浪人天哉。<persName key="A010429">叔</persName>見<placeName key="CN0360902M02AA">宜春陽岐山</placeName>群峯四合，
+<lb ed="T" n="0770c04"/>歎曰：「坤元作鎮，造我法城。」纔發一言，千巖
+<lb ed="T" n="0770c05"/>響答，松開月殿，星布雲廊，青嵐域中化出
+<lb ed="T" n="0770c06"/>金界。始從宴坐，四十餘年，滿室金光，晝夜常
+<lb ed="T" n="0770c07"/>照。於是化緣已畢，機感難留。<date key="j20205932020593" when-iso="0820-02-04">元和庚子歲正
+<lb ed="T" n="0770c08"/>月十三日</date>，忽棄塵區，還歸大定。門弟子<persName key="A010432">如
+<lb ed="T" n="0770c09"/>坦</persName>、<persName key="A010433">良寶</persName>等心沒悲海，哀聲動山，如月隱天，
+<lb ed="T" n="0770c10"/>群星失耀。大集眾木，𧂐為香樓，用作<anchor xml:id="beg0770004"/>茶<anchor xml:id="end0770004"/>
+<lb ed="T" n="0770c11"/>毘，獲舍利七百粒，於東峯下建窣堵波。上
+        <lb ed="T" n="0770c12"/>足<persName key="A019209">任運</persName>者<note resp="sgsz">案《新脩科分六學僧傳．卷六》：「上足<persName key="A019209">運命</persName>請<persName key="A010423">志閑</persName>作文于碑。」 (cf. 新脩科分六學僧傳<ref>CBETA, X77, no. 1522, p. 121, a18</ref>)</note>命<persName key="A010423">志閑</persName>為《碑》紀述矣。</p>
+    <linkGrp>
+        <link targets="#0770b26 #0770b26"/>
+        <ptr target="#A009179" type="person"/>
+        <ptr target="#A003623" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0770c03 #0770c05"/>
+        <ptr target="#A009179" type="person"/>
+        <ptr target="#CN0360902M02AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0770c07 #0770c08"/>
+        <ptr target="#A009179" type="person"/>
+        <ptr target="#CN0360902M02AA" type="place"/>
+        <ptr target="#j20205932020593" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0770c08 #0770c12"/>
+        <ptr target="#A009179" type="person"/>
+        <ptr target="#A010432" type="person"/>
+        <ptr target="#A010433" type="person"/>
+        <ptr target="#A019209" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0770c12 #0770c12"/>
+        <ptr target="#A010423" type="person"/>
+        <ptr target="#A019209" type="person"/>
+    </linkGrp>
+</div>

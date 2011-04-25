@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0833b19shiHeHe">
+    <anchor n="T.50.2061.0833b03"/><head><date from-iso="0618-06-21" key="j19469512052491" to-iso="0907-06-06">唐</date>京師大安國寺<persName key="A012427">和和</persName>傳</head><p>
+<lb ed="T" n="0833b19"/><persName key="A012427">釋和和</persName>者，莫詳氏族本生。其為僧也狂而
+<lb ed="T" n="0833b20"/>不亂，愚而有知，罔測其由。發言多中，時
+<lb ed="T" n="0833b21"/>號為聖。<placeName key="CN0610102T37AA">安國寺</placeName>中居住，出入無拘撿。見<placeName key="CN0610102T37AA">本
+    <lb ed="T" n="0833b22"/>寺</placeName>修營殿閣未就，有<ref type="person" target="#A019444">越國<!--找不到此地-->公主</ref>降<placeName key="CN0410182Z36AA"><anchor xml:id="beg0833004"/>榮<anchor xml:id="end0833004"/>陽</placeName>
+        <lb ed="T" n="0833b23"/><persName key="A012428">鄭萬鈞</persName>，雖琴瑟相諧，而數年無子。<persName key="A012427">和</persName>因至
+<lb ed="T" n="0833b24"/>公主家，<persName key="A012428">鈞</persName>焚香灑掃以待之。主拜跪歸向，
+<lb ed="T" n="0833b25"/><persName key="A012428">鈞</persName>祈告之曰：「某自叨選尚，願得一子為
+<lb ed="T" n="0833b26"/>嗣，唯<persName key="A012427">師</persName>能致之乎？」<persName key="A012427">和</persName>曰：「易耳。但遺<persName key="A012427">我</persName>三千
+<lb ed="T" n="0833b27"/>疋絹，主當誕二男。」<persName key="A012428">鈞</persName>勤重如聽佛語，出絹
+<lb ed="T" n="0833b28"/>如所求施之。<persName key="A012427">和</persName>取付修寺殿閣功德主。乃
+<lb ed="T" n="0833b29"/>曰：「主有娠矣，<persName key="A012427">吾</persName>令二天人下為公主作兒。<pb ed="T" n="0833c" xml:id="T50.2061.0833c"/>
+<lb ed="T" n="0833c01"/>所憂者公主不能併妊二子乎？為㝈乳包
+<lb ed="T" n="0833c02"/>羞耳。<persName key="A012427">吾</persName>俾其同年而前後誕之。」果如其言，
+<lb ed="T" n="0833c03"/>歲初年末，各生之矣。長曰<persName key="A012429">潛耀</persName>，次曰<persName key="A012430">晦明</persName>，
+<lb ed="T" n="0833c04"/>皆美丈夫，後博涉成事焉。<placeName key="CN0610102Z07AA">京邑</placeName>之間傳揚沸
+<lb ed="T" n="0833c05"/>渭，量其位地，不可輕議哉。</p>
+    <linkGrp>
+        <link targets="#0833b21 #0833b21"/>
+        <ptr target="#A012427" type="person"/>
+        <ptr target="#CN0610102T37AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0833b23 #0833b27"/>
+        <ptr target="#A012427" type="person"/>
+        <ptr target="#A012428" type="person"/>
+        <ptr target="#A019444" type="person"/>
+        <ptr target="#CN0610102Z07AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0833b28 #0833c02"/>
+        <ptr target="#A012427" type="person"/>
+        <ptr target="#A012428" type="person"/>
+        <ptr target="#A019444" type="person"/>
+        <ptr target="#CN0610102Z07AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0833c02 #0833c04"/>
+        <ptr target="#A019444" type="person"/>
+        <ptr target="#A012428" type="person"/>
+        <ptr target="#A012429" type="person"/>
+        <ptr target="#A012430" type="person"/>
+        <ptr target="#CN0610102Z07AA" type="place"/>
+    </linkGrp>
+</div>

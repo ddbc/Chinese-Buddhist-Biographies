@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0895b06shiYuanBiao">
+    <anchor n="T.50.2061.0895b06"/><head><date from-iso="0618-06-21" key="j19469512052491" to-iso="0907-06-06">唐</date>高麗國<persName key="A008819">元表</persName>傳（<persName key="A013933">全清</persName>）</head><p>
+<lb ed="T" n="0895b07"/><persName key="A008819">釋元表</persName>，本<placeName key="KR0000000E04AA">三韓</placeName>人也。<date key="j19921141997410" notAfter-iso="0756" notBefore-iso="0742">天寶</date>中來遊<placeName key="CN0000000E01AA">華土</placeName>，仍
+<lb ed="T" n="0895b08"/>往<placeName key="WW142XIYUE01AA">西域</placeName>，瞻禮聖迹，遇<persName key="A004206">心王菩薩</persName>指示<placeName key="CN0331023M02AA">支提
+<lb ed="T" n="0895b09"/>山</placeName>靈府，遂負華嚴經八十卷，尋訪<placeName key="CN0350902M01AA">霍童</placeName>，禮
+<lb ed="T" n="0895b10"/><persName key="A012852">天冠菩薩</persName>，至<placeName key="CN0331023M02AA">支提</placeName>石室而宅焉。先是<placeName key="CN0331023M02AA">此山</placeName>
+<lb ed="T" n="0895b11"/>不容人居，居之必多霆震猛獸毒蟲，不然
+<lb ed="T" n="0895b12"/>鬼魅惑亂於人。曾有未得道僧輒居一宿，
+<lb ed="T" n="0895b13"/>為山神驅斥，明旦止見身投山下數里間。
+<lb ed="T" n="0895b14"/><persName key="A008819">表</persName>齎經棲泊，㵎飲木食，後不知出處之蹤
+<lb ed="T" n="0895b15"/>矣。于時屬<date key="j20282682030170" notAfter-iso="0846" notBefore-iso="0841">會昌</date>搜毀，<persName key="A008819">表</persName>將經以華櫚木函
+<lb ed="T" n="0895b16"/>盛，深藏石室中。殆<date key="j20305332030561" notAfter-iso="0847-05-21" notBefore-iso="0847-04-23">宣宗大中元年丙寅</date>，保福<!--找不到此地-->
+<lb ed="T" n="0895b17"/><persName key="A013936">慧評禪師</persName>素聞往事，躬率信士迎出<placeName key="CN0350902T02AA">甘露都
+<lb ed="T" n="0895b18"/>尉院</placeName>，其紙墨如新繕寫，今貯在<placeName key="CN0350104Z18AA">福州</placeName>僧寺
+<lb ed="T" n="0895b19"/>焉。又<placeName key="CN0330602Z02AA">會稽</placeName><persName key="A013933">釋全清</persName>，<placeName key="CN0330000A17AA">越</placeName>人也。耰耘戒地，芬然
+<lb ed="T" n="0895b20"/>杜若。於密藏禁呪法也，能劾鬼神。時有市
+<lb ed="T" n="0895b21"/>儈王家之婦患邪氣，言語狂倒，或啼或笑，如
+<lb ed="T" n="0895b22"/>是數歲。召<persName key="A013933">清</persName>治之，乃縛草人長尺餘，衣以
+<lb ed="T" n="0895b23"/>五綵，置之於壇，呪禁之。良久，婦言乞命，遂
+<lb ed="T" n="0895b24"/>誌之曰：「頃歲春日於禹祠<!--找不到此地-->前相附耳。如師
+<lb ed="T" n="0895b25"/>不見殺，即放之遠去。」<persName key="A013933">清</persName>乃取一䍌以鞭驅
+<lb ed="T" n="0895b26"/>芻靈入其中，而呦呦有聲，緘器口以六乙
+<lb ed="T" n="0895b27"/>泥朱書符印之，瘞于桑林之下，戒家人無
+<lb ed="T" n="0895b28"/>動之，婦人病差。經五載後，值<persName key="A013938">劉漢宏</persName>與<persName key="A010641">董
+<lb ed="T" n="0895b29"/>昌</persName>隔江相持，<placeName key="CN0330602Z01AA">越城</placeName>陷，人謂此為窖藏，掘<pb ed="T" n="0895c" xml:id="T50.2061.0895c"/>
+<lb ed="T" n="0895c01"/>打䍌破，見一鵶闖然飛出，立於桑杪而作
+<lb ed="T" n="0895c02"/>人語曰：「今<anchor xml:id="beg0895002"/>得<anchor xml:id="end0895002"/>日光矣。」時<persName key="A013933">清公</persName>已卒也。</p>
+    <linkGrp>
+        <link targets="#0895b07 #0895b07"/>
+        <ptr target="#A008819" type="person"/>
+        <ptr target="#KR0000000E04AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0895b07 #0895b09"/>
+        <ptr target="#A008819" type="person"/>
+        <ptr target="#WW142XIYUE01AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0895b09 #0895b10"/>
+        <ptr target="#A008819" type="person"/>
+        <ptr target="#A012852" type="person"/>
+        <ptr target="#CN0350902M01AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0895b10 #0895b14"/>
+        <ptr target="#A008819" type="person"/>
+        <ptr target="#CN0331023M02AA" type="place"/>
+        <ptr target="#j20282682030170" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0895b19 #0895b19"/>
+        <ptr target="#A013933" type="person"/>
+        <ptr target="#CN0330602Z02AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0895b28 #0895c02"/>
+        <ptr target="#A013938" type="person"/>
+        <ptr target="#A010641" type="person"/>
+        <ptr target="#CN0330602Z01AA" type="place"/>
+    </linkGrp>
+</div>

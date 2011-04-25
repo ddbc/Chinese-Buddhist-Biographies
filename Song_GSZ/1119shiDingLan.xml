@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0856b03shiDingLan">
+    <anchor n="T.50.2061.0856b03"/><head><date from-iso="0618-06-21" key="j19469512052491" to-iso="0907-06-06">唐</date>成都府福感寺<persName key="A010594">定蘭</persName>傳</head><p>
+<lb ed="T" n="0856b04"/><persName key="A010594">釋定蘭</persName>，姓楊氏，<placeName key="CN0510108Z11AA">成都</placeName>人也。本闤闠間兇惡屠
+<lb ed="T" n="0856b05"/>沽類，天與厥性，悔往前非，誓預六和，化行
+<lb ed="T" n="0856b06"/><placeName key="CN0510000E02AA">三蜀</placeName>。當爾時也，咸歸信焉。造伽藍一，號聖
+<lb ed="T" n="0856b07"/>壽<!--找不到此地-->歟。其緣未發，乃藏於傭保中耳。而父母
+<lb ed="T" n="0856b08"/>早亡，無資可以追往，每遇諱辰，<persName key="A010594">蘭</persName>悲哭咽
+<lb ed="T" n="0856b09"/>絕。輒裸露入<placeName key="CN0510181M01AA">青城山</placeName>，縱蚊蚋䗈蠅唼咋膚
+<lb ed="T" n="0856b10"/>體，且云「捨內財也，用答劬勞。」<placeName key="CN0510184Z16AA">蜀</placeName>中有黑白
+<lb ed="T" n="0856b11"/>蟆，形如粟，𠯗人口及肉，而少見者。次則
+<lb ed="T" n="0856b12"/><app type="multiplier" xml:id="begd1e40337"/>刺<anchor xml:id="endd1e40337"/>血寫經，後則<app type="multiplier" xml:id="begd1e40344"/>煉<anchor xml:id="endd1e40344"/>臂，至于拔耳剜目，餧
+<lb ed="T" n="0856b13"/>飼鷙鳥猛獸。既而行步非扶導而觸物顛
+<lb ed="T" n="0856b14"/>躓。後有異人，掌擎物若珠顆然，內空眥
+<lb ed="T" n="0856b15"/>中，斯須瞻矚如故。冥告曰：「南天王還<persName key="A010594">師</persName>眼
+<lb ed="T" n="0856b16"/>珠矣。」遠近驚駭。常謂人曰：「<persName key="A010594">吾</persName>聞善戒經中
+<lb ed="T" n="0856b17"/>名為無上施，<persName key="A010594">吾</persName>願勤行，速要上果矣。」<date key="j20311832031566" notAfter-iso="0850-02-19" notBefore-iso="0849-02-01">大中
+<lb ed="T" n="0856b18"/>三年</date>，<persName key="A003667">宣宗</persName>詔入內供養，仰其感應之故，以
+<lb ed="T" n="0856b19"/>優禮奉之。弟子有緣，恒執事左右。<date key="j20323052032334" notAfter-iso="0852-03-28" notBefore-iso="0852-02-28">六年二
+<lb ed="T" n="0856b20"/>月</date>中，又願焚然肩膊。<persName key="A003667">帝</persName>累勸勉，年耆且務
+<lb ed="T" n="0856b21"/>久長修<anchor xml:id="beg0856003"/>煉<anchor xml:id="end0856003"/>。<persName key="A010594">蘭</persName>不奉詔，遂焚焉而絕。有緣表
+<lb ed="T" n="0856b22"/>請易名建塔，勅<app type="cb-app" xml:id="begd1e40381"/>諡<anchor xml:id="endd1e40381"/><persName key="A010594">覺性</persName>也，塔號<placeName key="CN0510108T36AA">悟真</placeName>也。
+<lb ed="T" n="0856b23"/><placeName key="CN0510108Z11AA">蜀都</placeName>止呼<placeName key="CN0510108T36AA">定蘭塔院</placeName>，于今香火不絕云。</p>
+    <linkGrp>
+        <link targets="#0856b05 #0856b07"/>
+        <ptr target="#A010594" type="person"/>
+        <ptr target="#CN0510000E02AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0856b09 #0856b10"/>
+        <ptr target="#A010594" type="person"/>
+        <ptr target="#CN0510181M01AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0856b17 #0856b18"/>
+        <ptr target="#A010594" type="person"/>
+        <ptr target="#A003667" type="person"/>
+        <ptr target="#j20311832031566" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0856b19 #0856b21"/>
+        <ptr target="#A010594" type="person"/>
+        <ptr target="#A003667" type="person"/>
+        <ptr target="#j20323052032334" type="time"/>
+    </linkGrp>
+</div>

@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0731b08shiYinZong">
+    <anchor n="T.50.2061.0731b08"/><head><date from-iso="0618-06-21" key="j19469512052491" to-iso="0907-06-06">唐</date>會稽山妙喜寺<persName key="A009251">印宗</persName>傳</head><p>
+<lb ed="T" n="0731b09"/><persName key="A009251">釋印宗</persName>姓印氏，<placeName key="CN0320505Z04AA">吳郡</placeName>人也。母劉氏始娠，隣家
+<lb ed="T" n="0731b10"/>咸見一沙門端雅，徐步入<persName key="A009251">印</persName>舍，白劉曰：「願為
+<lb ed="T" n="0731b11"/>子焉。」母夢同此，再三陳讓，不克。父夢有饋
+<lb ed="T" n="0731b12"/>栴檀香木，童子跪授付劉。劉頓厭葷羶，俗
+<lb ed="T" n="0731b13"/>間食味隔在脣吻之外。及生而長，從師誦
+<lb ed="T" n="0731b14"/>通經典，末最精講者《涅槃經》。<date from-iso="0670-03-30" key="j19658611966185" to-iso="0671-02-17">咸亨元年</date>在<placeName key="CN0610102Z07AA">京
+<lb ed="T" n="0731b15"/>都</placeName>，盛揚道化。<date from-iso="0674" key="j19674991968318" to-iso="0676">上元中</date>，勅入<placeName key="CN0320102T28AA">大愛敬寺</placeName>居，辭
+<lb ed="T" n="0731b16"/>不赴，請於<placeName key="CN0421126Z08AA">蘄春</placeName>東山<persName key="A000237">忍大師</persName>諮受禪法。復
+<lb ed="T" n="0731b17"/>於<placeName key="CN0440105Z01AA">番禺</placeName>遇<persName key="A001719">慧能禪師</persName>，問答之間，深詣玄理。
+<lb ed="T" n="0731b18"/>還<placeName key="CN0320505Z04AA">鄉地</placeName>，刺史<persName key="A009266">王胄</persName>禮重殊倫，請置戒壇，命
+        <lb ed="T" n="0731b19"/><persName key="A009251">宗</persName>度人，可數千百。續勅召入<ref target="#CN0610102Z07AA" type="place">內</ref>，乃造慈氏
+<lb ed="T" n="0731b20"/>大像。所著《心要集》，<date from-iso="0502" key="j19045262052494" to-iso="0907">起梁至唐</date>，天下諸達者
+<lb ed="T" n="0731b21"/>語言總錄焉。又奉勅<placeName key="CN0000007D01AA">江東</placeName>諸寺院<placeName key="CN0330601T11AA">天柱</placeName>、<placeName key="CN0330103T02AA">報恩</placeName>
+<lb ed="T" n="0731b22"/>各置戒壇度人。又纂百家諸儒士三教文
+<lb ed="T" n="0731b23"/>意表明佛法者，重結集之。手筆逾高，著述
+<lb ed="T" n="0731b24"/>流布。至<date key="j19815611981561" when-iso="0713-03-25">先天二年二月二十一日</date>示終，囑
+<lb ed="T" n="0731b25"/>循輪王法葬之，年八十七。<placeName key="CN0330602Z02AA">會稽</placeName><persName key="A009268">王師乾</persName>立
+<lb ed="T" n="0731b26"/>《塔銘》焉。</p>
+    <linkGrp>
+        <link targets="#0731b09 #0731b09"/>
+        <ptr target="#A009251" type="person"/>
+        <ptr target="#CN0320505Z04AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0731b14 #0731b15"/>
+        <ptr target="#A009251" type="person"/>
+        <ptr target="#CN0610102Z07AA" type="place"/>
+        <ptr target="#j19658611966185" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0731b15 #0731b16"/>
+        <ptr target="#A009251" type="person"/>
+        <ptr target="#A000237" type="person"/>
+        <ptr target="#CN0421126Z08AA" type="place"/>
+        <ptr target="#j19674991968318" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0731b17 #0731b17"/>
+        <ptr target="#A009251" type="person"/>
+        <ptr target="#A001719" type="person"/>
+        <ptr target="#CN0440105Z01AA" type="place"/>
+        <ptr target="#j19674991968318" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0731b18 #0731b19"/>
+        <ptr target="#A009251" type="person"/>
+        <ptr target="#A009266" type="person"/>
+        <ptr target="#CN0320505Z04AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0731b19 #0731b20"/>
+        <ptr target="#A009251" type="person"/>
+        <ptr target="#A009266" type="person"/>
+        <ptr target="#CN0320505Z04AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0731b21 #0731b22"/>
+        <ptr target="#A009251" type="person"/>
+        <ptr target="#CN0330601T11AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0731b21 #0731b22"/>
+        <ptr target="#A009251" type="person"/>
+        <ptr target="#CN0330103T02AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0731b24 #0731b24"/>
+        <ptr target="#A009251" type="person"/>
+        <ptr target="#j19815611981561" type="time"/>
+    </linkGrp>
+</div>

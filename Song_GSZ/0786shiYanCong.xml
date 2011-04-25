@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0728c15shiYanCong">
+    <anchor n="T.50.2061.0728c15"/><head><date from-iso="0618-06-21" key="j19469512052491" to-iso="0907-06-06">唐</date>京兆大慈恩寺<persName key="A000827">彥悰</persName>傳</head><p>
+        <lb ed="T" n="0728c16"/><persName key="A000827">釋彥悰</persName>，未知何許人也。<date from-iso="0644" key="j19564041958507" to-iso="0650">貞觀之末</date>，觀光<placeName key="CN0610102Z07AA">上
+<lb ed="T" n="0728c17"/>京</placeName>，求法于<persName key="A000294">三藏法師</persName>之門。然其才不迨<persName key="A000060">光</persName>、
+<lb ed="T" n="0728c18"/><persName key="A000746">寶</persName>，遍長綴習學耳。於玄儒之業，頗見精
+<lb ed="T" n="0728c19"/>微。辭筆之能，殊超流輩。有<placeName key="CN0610104T33AA">魏國西寺</placeName>沙門<persName key="A001194">慧
+<lb ed="T" n="0728c20"/>立</persName>性氣炰烋，以護法為己任，著《傳》五卷，專
+<lb ed="T" n="0728c21"/>記<persName key="A000294">三藏</persName>自<date from-iso="0627" key="j19500921958507" to-iso="0650">貞觀中</date>一行盛化及<placeName key="WW142XIYUE01AA">西域</placeName>所歷
+<lb ed="T" n="0728c22"/>夷險等，號《慈恩傳》，蓋取<placeName key="CN0610113T05AA">寺</placeName>題也。及削<g ref="#CB06224">稿</g>云
+<lb ed="T" n="0728c23"/>畢，慮遺諸美，遂藏于地穴。至疾亟，命門 
+<lb ed="T" n="0728c24"/>徒掘土出之而卒。其本數年流散他所，搜
+<lb ed="T" n="0728c25"/>購乃獲。弟子等命<persName key="A000827">悰</persName>排次之，序引之，或文
+<lb ed="T" n="0728c26"/>未允，或事稍虧，重更伸明，曰《箋述》是也，乃
+<lb ed="T" n="0728c27"/>象<persName key="A009224">鄭司農</persName>箋毛之詁訓也。或有調之曰：「子
+        <lb ed="T" n="0728c28"/>與隋<persName key="A000829">彥<anchor xml:id="beg0728005"/>悰<anchor xml:id="end0728005"/></persName>相去幾何？」對曰：「<persName key="A017911">賜</persName>也。何敢望<persName key="A002780">回</persName>，
+<lb ed="T" n="0728c29"/>雖<persName key="A006416">長卿</persName>慕<persName key="A009225">藺</persName>，心宗慕於玉宗，故有以也。《詩》<pb ed="T" n="0729a" xml:id="T50.2061.0729a"/>
+<lb ed="T" n="0729a01"/>曰：『言念君子，溫其如玉』，自許亦<persName key="A002780">顏</persName>之士也。」
+<lb ed="T" n="0729a02"/>或人許焉。<persName key="A000827">悰</persName>不知終所。</p>
+    <linkGrp>
+        <link targets="#0728c16 #0728c17"/>
+        <ptr target="#A000827" type="person"/>
+        <ptr target="#A000294" type="person"/>
+        <ptr target="#CN0610102Z07AA" type="place"/>
+        <ptr target="#j19564041958507" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0728c19 #0728c22"/>
+        <ptr target="#A001194" type="person"/>
+        <ptr target="#CN0610104T33AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0728c19 #0728c20"/>
+        <ptr target="#A000827" type="person"/>
+        <ptr target="#CN0610104T33AA" type="place"/>
+    </linkGrp>
+</div>

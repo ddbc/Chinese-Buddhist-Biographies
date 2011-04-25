@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0837b28shiDaChuan">
+    <anchor n="T.50.2061.0837b28"/><head><date from-iso="0618-06-21" key="j19469512052491" to-iso="0907-06-06">唐</date>漢州棲賢寺<persName key="A012496">大川</persName>傳（<persName key="A012499">法烱</persName>）</head><p>
+<lb ed="T" n="0837b29"/><persName key="A012496">釋大川</persName>，不知何許人也，沈默自居，節操彌<pb ed="T" n="0837c" xml:id="T50.2061.0837c"/>
+<lb ed="T" n="0837c01"/>厲。戒無竁穴，言不浪施。於漢州<placeName key="CN0510681T05AA">棲賢寺</placeName>行
+<lb ed="T" n="0837c02"/>四聖種法，克苦既增，<persName key="A012496">川</persName>也其樂也泄泄。<placeName key="CN0510683Z09AA">綿竹</placeName>
+<lb ed="T" n="0837c03"/>之人無夙少，率皆宗奉。及乎終也，臥于<placeName key="CN0510681T05AA">寺</placeName>
+<lb ed="T" n="0837c04"/>外，白衣具床榻，相率舁歸寺中，務營喪禮。
+<lb ed="T" n="0837c05"/>方當屍舉，無何雙鹿引前若騶導焉。始履
+<lb ed="T" n="0837c06"/>門閾，寺額奮然隕地，遠近驚歎。又此山靈異，
+        <lb ed="T" n="0837c07"/>不容麁鄙。有僧<persName key="A019447">深藏</persName>者，不謹愿，多所違
+<lb ed="T" n="0837c08"/>犯。神人擲于山下可七里許，唯傷足指。從
+<lb ed="T" n="0837c09"/>此無不悛革守戒者。<date from-iso="0766" key="j20011912002330" to-iso="0770">大曆初</date>北山<!--找不到此地-->變成黃
+<lb ed="T" n="0837c10"/>金色，上有樓閣，菩薩行道。斯須之間，萬形千
+<lb ed="T" n="0837c11"/>狀。<persName key="A012496">川</persName>素居此<placeName key="CN0510681T05AA">寺</placeName>，與地俱靈，留影供養，如事
+<lb ed="T" n="0837c12"/>靈祠焉。次<placeName key="CN0350104Z19AA">閩城</placeName><persName key="A012499">法烱</persName>者，未詳何許人也，行
+<lb ed="T" n="0837c13"/>頭陀法，克苦克勤，激勸<placeName key="CN0350104Z19AA">閩</placeName>人，辭氣剛直。聞
+<lb ed="T" n="0837c14"/>海壇練門江<!--找不到此地-->內有巨鐘，相傳云昔有人往<placeName key="CN0440104Z22AA">廣
+<lb ed="T" n="0837c15"/>州</placeName>慕鑄，信鼓巨艦至此，忽值風濤沈溺。每
+<lb ed="T" n="0837c16"/>月望日，其潮大至，水退，其蒲牢乃出，可容一
+<lb ed="T" n="0837c17"/>人從中穿過，約其周圍徑一丈餘。<date from-iso="0766" key="j20011912005747" to-iso="0779">大曆</date>中
+<lb ed="T" n="0837c18"/><persName key="A012499">烱</persName>欲出此鐘，先於開元寺<!--找不到此地-->設大會齋誦呪，
+<lb ed="T" n="0837c19"/>令一小僧詣<placeName key="XZ0000001A01AA">龍宮</placeName>乞鐘於人世，擊扣以警
+<lb ed="T" n="0837c20"/>晨昏。小僧見海神，曰：「我惜以鎮海。」別與小
+<lb ed="T" n="0837c21"/>珠三顆為信，當爾時小僧有如夢覺，珠在
+<lb ed="T" n="0837c22"/>手焉。</p>
+    <linkGrp>
+        <link targets="#0837c01 #0837c02"/>
+        <ptr target="#A012496" type="person"/>
+        <ptr target="#CN0510681T05AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0837c12 #0837c13"/>
+        <ptr target="#A012499" type="person"/>
+        <ptr target="#CN0350104Z19AA" type="place"/>
+    </linkGrp>
+</div>

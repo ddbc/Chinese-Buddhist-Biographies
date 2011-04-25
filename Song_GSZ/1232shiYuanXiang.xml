@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0889b12shiYuanXiang">
+    <anchor n="T.50.2061.0889b12"/><head><date from-iso="0618-06-21" key="j19469512052491" to-iso="0907-06-06">唐</date>成都府法聚寺<persName key="A013834">員相</persName>傳</head><p>
+<lb ed="T" n="0889b13"/><persName key="A013834">釋員相</persName>，<placeName key="CN0510184Z16AA">蜀</placeName>人也。七歲出家，博綜內外，善屬
+<lb ed="T" n="0889b14"/>文，時號<persName key="A013834">奇童</persName>。內修律範，人無間然。<date key="j19625821962877" notAfter-iso="0662-01-27" notBefore-iso="0661-04-07">龍朔元
+<lb ed="T" n="0889b15"/>年</date>，有疾而終于<placeName key="CN0510108T06AA">此寺</placeName>。將啟手足，房內長虹
+<lb ed="T" n="0889b16"/>若練而飛上天，寺塔鈴索無風自鳴。其大
+<lb ed="T" n="0889b17"/>門屋壁畫剝落，每夜有鼓角聲，經百餘日
+<lb ed="T" n="0889b18"/>方息。從此鳥雀不棲其屋。<date key="j19668951967278" notAfter-iso="0674-02-14" notBefore-iso="0673-01-27">咸亨四年</date>，甘露
+<lb ed="T" n="0889b19"/>降于講堂前椶櫚樹焉。<persName key="A013834">相</persName>終，弟子收文集三
+<lb ed="T" n="0889b20"/>十餘卷。寺中石像碑，<persName key="A013834">相</persName>作辭，<persName key="A013837">龔靈曠</persName>同撰，是
+<lb ed="T" n="0889b21"/>歟。</p>
+    <linkGrp>
+        <link targets="#0889b14 #0889b15"/>
+        <ptr target="#A013834" type="person"/>
+        <ptr target="#CN0510108T06AA" type="place"/>
+        <ptr target="#j19625821962877" type="time"/>
+    </linkGrp>
+</div>

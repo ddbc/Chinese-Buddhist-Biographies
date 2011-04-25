@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0868a18shiShouSu">
+    <anchor n="T.50.2061.0868a18"/><head><date from-iso="0618-06-21" key="j19469512052491" to-iso="0907-06-06">唐</date>京兆大興善寺<persName key="A013589">守素</persName>傳</head><p>
+<lb ed="T" n="0868a19"/><persName key="A013589">釋守素</persName>者，立性高邁，與群不同。居<placeName key="CN0610103T03AA">京興善
+<lb ed="T" n="0868a20"/>寺</placeName>恒以誦持為急務。其院幽僻，庭有青桐
+<lb ed="T" n="0868a21"/>四株，皆<persName key="A013589">素</persName>之手植。<date key="j20154742020606" notAfter-iso="0820" notBefore-iso="0806">元和</date>中，卿相多遊此院。青
+<lb ed="T" n="0868a22"/>桐至夏中無何發汗，頗污人衣，如輠脂
+<lb ed="T" n="0868a23"/>焉，而不可浣。時相國<persName key="A009535">鄭公絪</persName>甞與丞郎數
+<lb ed="T" n="0868a24"/>人避暑，且惡其滴瀝，謂<persName key="A013589">素</persName>曰：「<persName key="A009535">弟子</persName>為<persName key="A013589">師</persName>
+<lb ed="T" n="0868a25"/>伐此樹，各<anchor xml:id="beg0868004"/>植<anchor xml:id="end0868004"/>一松，可乎？」及暮，<persName key="A013589">素</persName>戲呪之
+<lb ed="T" n="0868a26"/>曰：「<persName key="A013589">我</persName>種汝二十餘年，汝以汗之淋<anchor xml:id="beg0868005"/>瀝<anchor xml:id="end0868005"/>，為人
+<lb ed="T" n="0868a27"/>所惡，同惡木之不可休其下也。來歲若然，
+<lb ed="T" n="0868a28"/><persName key="A013589">我</persName>必薪之。」自爾絕蹤矣。<persName key="A013589">素</persName>誓不出院，誦
+<lb ed="T" n="0868a29"/>法華經三萬七千部。夜恒有狢子馴擾，來聽<pb ed="T" n="0868b" xml:id="T50.2061.0868b"/>
+        <lb ed="T" n="0868b01"/>經。齋時則烏鵲就掌取食。他僧以食誘，群
+<lb ed="T" n="0868b02"/>羽皆驚噪而逝。<date key="j20209682021245" notAfter-iso="0821" notBefore-iso="0821">長慶初</date>，有僧<persName key="A013590">玄幽</persName>題此院
+<lb ed="T" n="0868b03"/>云：「三萬蓮經三十春，半生不踏院門塵。」當時
+<lb ed="T" n="0868b04"/>以為<anchor xml:id="beg0868006"/>住<anchor xml:id="end0868006"/>句也。<persName key="A013589">素</persName>之終代，罔得詳焉。</p>
+<p>刺漆樹者恒患其少滴，愛故難求。
+<lb ed="T" n="0868b06"/>斬魏樹者患其多辛，惡之易得。嗟爾青桐
+<lb ed="T" n="0868b07"/>發汗，世所罕聞。及乎<persName key="A013589">素公</persName>詆呵，明年絕跡。
+<lb ed="T" n="0868b08"/>豈有出家弟子不如其無情樹木乎？既不
+<lb ed="T" n="0868b09"/>能為漆與物隔其污，為魏與食加其味
+<lb ed="T" n="0868b10"/>乎？苟認師友之彈呵，取<anchor xml:id="beg0868007"/>今<anchor xml:id="end0868007"/>完淨，傳曰：「過則
+<lb ed="T" n="0868b11"/>勿憚改。」本教則悔罪清淨，如本無異，思
+<lb ed="T" n="0868b12"/>之。</p>
+    <linkGrp>
+        <link targets="#0868a19 #0868a21"/>
+        <ptr target="#A013589" type="person"/>
+        <ptr target="#CN0610103T03AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0868a21 #0868a28"/>
+        <ptr target="#A013589" type="person"/>
+        <ptr target="#A009535" type="person"/>
+        <ptr target="#CN0610103T03AA" type="place"/>
+        <ptr target="#j20154742020606" type="time"/>
+    </linkGrp>
+</div>

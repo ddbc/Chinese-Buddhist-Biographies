@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0881b25shiZhiJun">
+    <anchor n="T.50.2061.0881b25"/><head><date from-iso="0618-06-21" key="j19469512052491" to-iso="0907-06-06">唐</date>會稽呂后山<persName key="A013748">文質</persName>傳</head><p>
+        <lb ed="T" n="0881b26"/><persName key="A013748">釋文質</persName>，俗姓祝氏，<persName key="A013749">尚丘</persName>之遠孫，<placeName key="CN0330881Z11AA">衢州須江</placeName>人
+<lb ed="T" n="0881b27"/>也。叔氏為僧號<persName key="A013750">唯寬</persName>，學通多本經論。<persName key="A013750">寬</persName>被
+<lb ed="T" n="0881b28"/>詔入<placeName key="CN0610102Z07AA">長安</placeName>，止<placeName key="CN0610103T03AA">大興善寺</placeName>，重詔入內道場，兼
+<lb ed="T" n="0881b29"/>請受菩薩戒。<persName key="A013748">質</persName>隨<persName key="A013750">寬</persName>入內。<date key="j20103322010697" from-iso="0792-01-01" to-iso="0792-12-31">年十五</date>，誦法華、<pb ed="T" n="0881c" xml:id="T50.2061.0881c"/>
+<lb ed="T" n="0881c01"/>華嚴、維摩等經。<date key="j20132542013619" from-iso="0800-01-01" to-iso="0800-12-31">二十三</date>，受具。七日誦周戒本，
+<lb ed="T" n="0881c02"/>二夏便講四分律。<date key="j20147152015080" from-iso="0804-01-01" to-iso="0804-12-31">二十七</date>，講通俱舍。四十年
+<lb ed="T" n="0881c03"/>中，精曉諸大經論，後約束<persName key="A010356">大悲</persName>、<persName key="A013751">禹跡</persName>二禪師，
+<lb ed="T" n="0881c04"/>參問心要。既博達矣，歸<placeName key="CN0330109T06AA">諸暨法樂寺</placeName>領徒。
+<lb ed="T" n="0881c05"/>時有虎來聽法，<persName key="A013748">質</persName>摩其頂而去。後往<placeName key="CN0330302Z12AA">永嘉</placeName>，
+        <lb ed="T" n="0881c06"/>鍾<date from-iso="0841" key="j20282682030170" to-iso="0846">會昌</date>之搜簡，乃隱<placeName key="CN0330382M02AA">樂成縣大芙蓉山</placeName>，胎息
+<lb ed="T" n="0881c07"/>而已。<date from-iso="0847" key="j20304612035056" to-iso="0859">大中</date>重興，太守<persName key="A013753">韋君</persName>累請不來，強置
+        <lb ed="T" n="0881c08"/>于榻，[臼/丌]出州開元寺<!--找不到此地-->居。檀施駢貤，迴造大
+<lb ed="T" n="0881c09"/>佛殿，并講堂房廊形像，并寫藏教，無不備
+<lb ed="T" n="0881c10"/>焉。<placeName key="CN0330602Z01AA">越州</placeName>廉使<persName key="A013754">沈貳卿</persName>命住<placeName key="CN0330602T27AA">呂后山院</placeName>，本<persName key="A008823">寧賁
+<lb ed="T" n="0881c11"/>禪師</persName>舊化之地也。<persName key="A013748">質</persName>唯居草庵而止。<date key="j20358612035861" when-iso="0861-11-23">咸通二
+<lb ed="T" n="0881c12"/>年十月十四日</date>，告眾言別。<date key="j20358622035862" when-iso="0861-11-24">十五日</date>，端坐而化，
+<lb ed="T" n="0881c13"/>春秋八十四，僧臘六十二。窆于雲谷<!--找不到此地-->，建塔，
+<lb ed="T" n="0881c14"/><placeName key="CN0330602Z01AA">越州</placeName>刺史<persName key="A013755">段式</persName>為行錄焉。</p>
+    <linkGrp>
+        <link targets="#0881b27 #0881b29"/>
+        <ptr target="#A013748" type="person"/>
+        <ptr target="#A013750" type="person"/>
+        <ptr target="#CN0610103T03AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0881c03 #0881c04"/>
+        <ptr target="#A013748" type="person"/>
+        <ptr target="#A010356" type="person"/>
+        <ptr target="#A013751" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0881c04 #0881c05"/>
+        <ptr target="#A013748" type="person"/>
+        <ptr target="#CN0330109T06AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0881c05 #0881c05"/>
+        <ptr target="#A013748" type="person"/>
+        <ptr target="#CN0330302Z12AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0881c06 #0881c07"/>
+        <ptr target="#A013748" type="person"/>
+        <ptr target="#CN0330382M02AA" type="place"/>
+        <ptr target="#j20282682030170" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0881c07 #0881c08"/>
+        <ptr target="#A013748" type="person"/>
+        <ptr target="#A013753" type="person"/>
+        <ptr target="#CN0330302Z12AA" type="place"/>
+        <ptr target="#j20304612035056" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0881c10 #0881c11"/>
+        <ptr target="#A013748" type="person"/>
+        <ptr target="#A013754" type="person"/>
+        <ptr target="#CN0330602T27AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0881c14 #0881c14"/>
+        <ptr target="#A013755" type="person"/>
+        <ptr target="#CN0330602Z01AA" type="place"/>
+    </linkGrp>
+</div>

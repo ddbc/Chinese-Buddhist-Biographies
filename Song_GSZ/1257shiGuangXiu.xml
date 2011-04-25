@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0895a15shiGuangXiu">
+    <anchor n="T.50.2061.0895a15"/><head><date from-iso="0618-06-21" key="j19469512052491" to-iso="0907-06-06">唐</date>天台山禪林寺<persName key="A001660">廣脩</persName>傳（<persName key="A013931">高閑</persName>）</head><p>
+<lb ed="T" n="0895a16"/><persName key="A001660">釋廣脩</persName>，俗姓留氏，東陽<placeName key="CN0330783A03AA">下崑</placeName>人也。淑質貞亮，
+<lb ed="T" n="0895a17"/>早預<persName key="A001563">邃師</persName>之門，研窮教迹，學者雲擁。日誦
+<lb ed="T" n="0895a18"/>法華、維摩、金光明、梵網、四分戒本。六時行道
+<lb ed="T" n="0895a19"/>弗休，彌年更篤。每一歲行懺法七七日，則
+<lb ed="T" n="0895a20"/>第四隨自意三昧也。<date key="j20271672027520" notAfter-iso="0839-01-22" notBefore-iso="0838-02-03">開成三年</date>，<placeName key="JP0000000E01AA">日本國</placeName>僧<persName key="A013929">圓
+<lb ed="T" n="0895a21"/>載</persName>來躬請法，<placeName key="CN0331082Z12AA">台州</placeName>刺史<persName key="A012374">韋珩</persName>。<anchor xml:id="beg0895001"/>謂<anchor xml:id="end0895001"/>講止觀于
+<lb ed="T" n="0895a22"/>郡齋。以<date key="j20290422029042" when-iso="0843-03-24">會昌三年癸亥歲二月十六日</date>終于
+<lb ed="T" n="0895a23"/><placeName key="CN0331023T06AA">禪林本寺</placeName>，俗壽七十三，法臘五十二。遷神于
+<lb ed="T" n="0895a24"/><placeName key="CN0331023T21AA">金地道場</placeName>，法付門人物外焉。<date key="j20373852037768" notAfter-iso="0867-02-12" notBefore-iso="0866-01-25">咸通七年</date>，門人
+<lb ed="T" n="0895a25"/><persName key="A013930">良汶</persName>發墳火葬，淘收舍利一千餘粒，重塔緘
+<lb ed="T" n="0895a26"/>藏焉。又湖州<placeName key="CN0330502T17AA">開元寺</placeName><persName key="A013931">釋高閑</persName>，本<placeName key="CN0330502Z18AA">烏程</placeName>人也。髫
+<lb ed="T" n="0895a27"/>年卓躒，范露異才。受法已還，有隣堅志，苦
+<lb ed="T" n="0895a28"/>學勞形，未甞少惰。後入<placeName key="CN0610102Z07AA">長安</placeName>，於<placeName key="CN0610103T49AA">薦福</placeName>、<placeName key="CN0610103T02AA">西明</placeName>
+<lb ed="T" n="0895a29"/>等寺隷習經律，克精講貫。<persName key="A003667">宣宗</persName>重興佛法，<pb ed="T" n="0895b" xml:id="T50.2061.0895b"/>
+<lb ed="T" n="0895b01"/>召入對御前草聖，遂賜紫衣，仍預臨洗懺
+<lb ed="T" n="0895b02"/>戒壇，號<persName key="A013931">十望大德</persName>。性情節操，矗然難屈。老
+<lb ed="T" n="0895b03"/>思歸鄉，終于本寺。弟子<persName key="A010559">鑒宗</persName>，勅署<persName key="A010559">無上大
+    <lb ed="T" n="0895b04"/>師</persName>，亦得<persName key="A013931">閑</persName>之筆法。<persName key="A013931">閑</persName>常好將<placeName key="CN0330502Z19AA">霅川</placeName>白紵書
+<lb ed="T" n="0895b05"/>真草之蹤，與人為學法焉。</p>
+    <linkGrp>
+        <link targets="#0895a17 #0895a17"/>
+        <ptr target="#A001660" type="person"/>
+        <ptr target="#A001563" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0895a20 #0895a22"/>
+        <ptr target="#A001660" type="person"/>
+        <ptr target="#A013929" type="person"/>
+        <ptr target="#A012374" type="person"/>
+        <ptr target="#CN0331023T06AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0895a24 #0895a26"/>
+        <ptr target="#A001660" type="person"/>
+        <ptr target="#A013930" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0895a26 #0895a26"/>
+        <ptr target="#A013931" type="person"/>
+        <ptr target="#CN0330502T17AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0895a28 #0895a29"/>
+        <ptr target="#A013931" type="person"/>
+        <ptr target="#CN0610103T49AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0895a28 #0895a29"/>
+        <ptr target="#A013931" type="person"/>
+        <ptr target="#CN0610103T02AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0895a29 #0895b01"/>
+        <ptr target="#A013931" type="person"/>
+        <ptr target="#A003667" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0895b03 #0895b03"/>
+        <ptr target="#A013931" type="person"/>
+        <ptr target="#A010559" type="person"/>
+    </linkGrp>
+</div>

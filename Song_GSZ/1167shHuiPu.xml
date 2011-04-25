@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0869a03shiFaZhao">
+    <anchor n="T.50.2061.0869a03"/><head><date from-iso="0618-06-21" key="j19469512052491" to-iso="0907-06-06">唐</date>蘄州廣濟縣清著禪院<persName key="A013597">慧普</persName>傳</head><p>
+<lb ed="T" n="0869a04"/><persName key="A013597">釋慧普</persName>，姓宋，本郡<placeName key="CN0421125Z06AA">蘄水</placeName>人也。性地疎朗，敏利
+<lb ed="T" n="0869a05"/>桀然，既奉尸羅，氷雪任操。<date key="j20194882019871" notAfter-iso="0818-02-12" notBefore-iso="0817-01-25">元和十二年</date>，樂
+<lb ed="T" n="0869a06"/><placeName key="CN0421182Z04AA">廣濟</placeName>山秀地靈，願棲于此。始謀誦大涅槃
+<lb ed="T" n="0869a07"/>經，歷稔彌年，卒通四十二卷。聞者憮然曰：
+<lb ed="T" n="0869a08"/>「四帙大經，若為溫習，非揣量而可庶幾乎！」
+<lb ed="T" n="0869a09"/>或疑其妄言徹部，有亂次舉品題以試驗
+        <lb ed="T" n="0869a10"/>之，且無澁滯，少遼緩之，無不弭伏。<persName key="A013597">普</persName>亦
+<lb ed="T" n="0869a11"/>不戒意，躬刀耕火種，趣足而已。卉服布裘，度
+<lb ed="T" n="0869a12"/>其伏臘，日夜經聲不絕。如是涉三十載，邑
+<lb ed="T" n="0869a13"/>人學者，莫不推重，增修院宇。以<date key="j20311832031566" notAfter-iso="0850-02-19" notBefore-iso="0849-02-01">大中三年</date>
+<lb ed="T" n="0869a14"/>冬，無疾，集眾告違，<anchor xml:id="beg0869001"/>跏<anchor xml:id="end0869001"/>趺坐終，儼若凝思。
+<lb ed="T" n="0869a15"/>弟子以香泥纏飾，遷于山椒塔中，號涅槃
+<lb ed="T" n="0869a16"/>焉。于今香火不絕。</p>
+    <linkGrp>
+        <link targets="#0869a05 #0869a07"/>
+        <ptr target="#A013597" type="person"/>
+        <ptr target="#CN0421182Z04AA" type="place"/>
+        <ptr target="#j20194882019871" type="time"/>
+    </linkGrp>
+</div>

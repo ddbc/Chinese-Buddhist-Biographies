@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0831a02shiAZu">
+    <anchor n="T.50.2061.0831a02"/><head><date from-iso="0618-06-21" key="j19469512052491" to-iso="0907-06-06">唐</date>虢州閿鄉<persName key="A012367">阿足師</persName>傳</head><p>
+<lb ed="T" n="0831a03"/><persName key="A012367">釋阿足師</persName>者，莫詳出處。形質癡濁，精神瞢
+<lb ed="T" n="0831a04"/>然，時有所言，靡不先覺。雖居無定所，多
+<lb ed="T" n="0831a05"/>寓閿鄉。以其踵<persName key="A011670">法雲公</persName>之塵躅，憧憧往來，
+<lb ed="T" n="0831a06"/>爭路禮謁，檀施山積，曾無顧瞻。人有隱憂，
+<lb ed="T" n="0831a07"/>身嬰所苦，獲其指南者，其驗神速。時<placeName key="CN0411202Z07AA"><app type="cb-app" xml:id="begd1e33158"/>陝<anchor xml:id="endd1e33158"/>州</placeName>
+<lb ed="T" n="0831a08"/>有富家翁<persName key="A012368">張臻</persName>者，產業且多，財貨增溢。少子
+<lb ed="T" n="0831a09"/>息，<persName key="A012368">臻</persName>恒懼錢帛身後無嗣。後產男，既愚且
+<lb ed="T" n="0831a10"/><app type="cb-app" xml:id="begd1e33170"/>憃<anchor xml:id="endd1e33170"/>，手足拳攣，語言謇澁，唯嗜飲食，殆與平
+        <lb ed="T" n="0831a11"/>人有異，口如溪壑，終日無厭。年可十七，
+<lb ed="T" n="0831a12"/>父母鐘愛，縱其須索，迎醫求藥，不遠千里。
+<lb ed="T" n="0831a13"/>數十年後家業罄窮，或有謂其<persName key="A012368">臻</persName>曰：「<persName key="A012367">阿足
+<lb ed="T" n="0831a14"/>師</persName>其實<persName key="A002296">寶誌</persName>之流，何不敷布腹心，求救其
+<lb ed="T" n="0831a15"/>疾？」乃夫妻來抵<placeName key="CN0411282Z27AA">閿鄉</placeName>，叩頭抆淚，告其拯拔。
+<lb ed="T" n="0831a16"/><persName key="A012367">阿足</persName>瞑目久之，謂<persName key="A012368">臻</persName>曰：「<persName key="A012368">汝</persName>冤未散，尚須數
+<lb ed="T" n="0831a17"/>年，憫<persName key="A012368">汝</persName>勤拳，為<persName key="A012368">汝</persName>除去。」即令選日於河上
+<lb ed="T" n="0831a18"/>致齋，廣召眾多，同觀度脫。仍領引其男赴
+<lb ed="T" n="0831a19"/>于道場。時眾知<persName key="A012367">阿足</persName>奇異，觀者如堵。少選，
+<lb ed="T" n="0831a20"/>指呼壯夫三數輩叱曳其子，令投諸河，隨
+<lb ed="T" n="0831a21"/>急流而逝。<persName key="A012368">臻</persName>且哀且驚，莫測其由。<persName key="A012367">阿足</persName>語
+<lb ed="T" n="0831a22"/><persName key="A012368">臻</persName>曰：「為<persName key="A012368">汝</persName>除災訖。」良久，其子忽於流數十
+<lb ed="T" n="0831a23"/>步外聳身水面，戟手罵其父母曰：「與爾冤
+<lb ed="T" n="0831a24"/>仇宿世緣業，賴逢<persName key="A012367">聖者</persName>遽此解紛。儻或不
+<lb ed="T" n="0831a25"/>然，未期畢日。」挺身高呼，辭理分明，都無癡
+<lb ed="T" n="0831a26"/>濁之狀。須臾沈水，不知其他。<persName key="A012367">阿足</persName>由茲傳
+<lb ed="T" n="0831a27"/>播，歸信之人如就市焉。所行化導皆此類
+<lb ed="T" n="0831a28"/>矣，蓋<date from-iso="0766" key="j20011912005747" to-iso="0779">大曆</date>、<date from-iso="0780" key="j20059942007439" to-iso="0784">建中</date>中也。殆<date from-iso="0796-02-18" key="j20118412012194" to-iso="0797-02-05">德宗貞元十二年丙
+<lb ed="T" n="0831a29"/>子</date>，勅<app type="cb-app" xml:id="begd1e33223"/>諡<anchor xml:id="endd1e33223"/>為<persName key="A012367">大圓禪師</persName>。至今<placeName key="CN0411202Z07AA"><app type="cb-app" xml:id="begd1e33229"/>陝<anchor xml:id="endd1e33229"/></placeName><placeName key="CN0411282Z54AA">虢</placeName>之間，猶崇重<pb ed="T" n="0831b" xml:id="T50.2061.0831b"/>
+<lb ed="T" n="0831b01"/>焉。</p>
+    <linkGrp>
+        <link targets="#0831a07 #0831a15"/>
+        <ptr target="#A012368" type="person"/>
+        <ptr target="#CN0411202Z07AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0831a15 #0831a26"/>
+        <ptr target="#A012367" type="person"/>
+        <ptr target="#A012368" type="person"/>
+        <ptr target="#CN0411282Z27AA" type="place"/>
+    </linkGrp>
+</div>

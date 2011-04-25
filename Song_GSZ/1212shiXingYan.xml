@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0883a05shiXingYan">
+    <anchor n="T.50.2061.0883a05"/><head><date from-iso="0618-06-21" key="j19469512052491" to-iso="0907-06-06">唐</date>五臺山<persName key="A013771">行嚴</persName>傳</head><p>
+<lb ed="T" n="0883a06"/><persName key="A013771">釋行嚴</persName>，<placeName key="CN0410182Z36AA"><anchor xml:id="beg0883002"/>榮<anchor xml:id="end0883002"/>陽</placeName>人也。家襲簪組，業嗣典墳。
+<lb ed="T" n="0883a07"/><persName key="A013771">嚴</persName>稟庭誥以周旋，約成器能而濟用，<anchor xml:id="beg0883003"/>內<anchor xml:id="end0883003"/>要
+<lb ed="T" n="0883a08"/>隨計，俄發宿緣。因聞妙莊嚴王經品，白父
+<lb ed="T" n="0883a09"/>母求出塵勞。堂親抑禁，略無却退。既而削
+<lb ed="T" n="0883a10"/>飾去華，年充納戒，諸方問道，綽有餘能。聞
+<lb ed="T" n="0883a11"/><placeName key="CN0140900M01AA">五臺山</placeName><persName key="A002144">文殊</persName>應現，凡聖交蹤，乃登遊而隷名
+<lb ed="T" n="0883a12"/>斯地。自爾一成慕學，三教偕明，談論天人
+<lb ed="T" n="0883a13"/>之際，聽者茫昧，不知區域之內外耶！王公
+<lb ed="T" n="0883a14"/>大人靡不迴向。<date key="j20231922026427" notAfter-iso="0836" notBefore-iso="0827">大和</date>中，多行激勸，俾營福
+<lb ed="T" n="0883a15"/>焉。自設大供，日計千人。聞見之流，皆鳴指
+<lb ed="T" n="0883a16"/>讚嘆曰：「行合解通，世之希寶也。助道之法，當
+<lb ed="T" n="0883a17"/>如是修。」以<date key="j20311832031566" notAfter-iso="0850-02-19" notBefore-iso="0849-02-01">大中三年</date>右脇而滅，建塔寺西
+<lb ed="T" n="0883a18"/>一里云。</p>
+    <linkGrp>
+        <link targets="#0883a10 #0883a13"/>
+        <ptr target="#A013771" type="person"/>
+        <ptr target="#CN0140900M01AA" type="place"/>
+    </linkGrp>
+</div>

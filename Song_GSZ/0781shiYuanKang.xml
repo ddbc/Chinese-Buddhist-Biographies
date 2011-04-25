@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0727b15shiYuanKang">
+    <anchor n="T.50.2061.0727b15"/><head><date from-iso="0618-06-21" key="j19469512052491" to-iso="0907-06-06">唐</date>京師安國寺<persName key="A000122">元康</persName>傳</head><p>
+<lb ed="T" n="0727b16"/><persName key="A000122">釋元康</persName>，不詳姓氏。<date from-iso="0627" key="j19500921958507" to-iso="0650">貞觀中</date>遊學<placeName key="CN0610102Z07AA">京邑</placeName>，有彭
+<lb ed="T" n="0727b17"/>亨之譽。形擁腫而短，然其性情酋勇，聞少解
+<lb ed="T" n="0727b18"/>多，群輩推許。先居山野，恒務持誦《觀音》，求
+<lb ed="T" n="0727b19"/>加慧解，遂感鹿一首角分八岐，厥形絕異。
+<lb ed="T" n="0727b20"/><persName key="A000122">康</persName>見之，撫而馴伏，遂豢養之，乘而致遠，曾
+<lb ed="T" n="0727b21"/>無倦色。以《三論》之文荷之于背，又以小軸
+<lb ed="T" n="0727b22"/>繫之於尾，曳入上都，意為戲弄：說有之徒
+<lb ed="T" n="0727b23"/>不達空性，我與輕軸碾之，令悟真理。又
+<lb ed="T" n="0727b24"/>衣大布，曳納播，戴竹笠，笠寬丈有二尺。裝
+<lb ed="T" n="0727b25"/>飾詭異，人皆駭觀。既入<placeName key="CN0610102Z07AA">京城</placeName>，見一法師盛集
+<lb ed="T" n="0727b26"/>講經化導。<persName key="A000122">康</persName>造其筵，近其座，便就所講義
+<lb ed="T" n="0727b27"/>申問，往返數百言，人咸驚<persName key="A000122">康</persName>之辯給如此。復
+<lb ed="T" n="0727b28"/>戲法師曰：「甘桃不結實，苦李壓低枝。」講者
+<lb ed="T" n="0727b29"/>曰：「輪王千箇子，巷伯勿孫兒。」蓋譏<persName key="A000122">康</persName>之無<pb ed="T" n="0727c" xml:id="T50.2061.0727c"/>
+<lb ed="T" n="0727c01"/>生徒也。<persName key="A000122">康</persName>曰：「丹之藏者赤，漆之藏者黑，隨
+<lb ed="T" n="0727c02"/>汝之赤者非纁絳焉，入汝之黑者非鉛墨
+<lb ed="T" n="0727c03"/>焉。」舉眾皆云：「辭理渙然，可非垂跡之大士
+<lb ed="T" n="0727c04"/>也？」<persName key="A002414">帝</persName>聞之，喜曰：「何代無其人！」詔入<placeName key="CN0610102T37AA">安國寺</placeName>
+<lb ed="T" n="0727c05"/>講此《三論》。遂造疏，解中觀之理。別撰《玄樞》
+<lb ed="T" n="0727c06"/>兩卷，總明《中》、《百門》之宗旨焉。後不測其終。</p>
+        <p><lb ed="T" n="0727c07"/>系曰：<persName key="A000122">康師</persName>曳納播者何？通曰：「梵言立播，華
+<lb ed="T" n="0727c08"/>言裹腹衣，亦云抱腹，形制如偏袒，一幅纔
+<lb ed="T" n="0727c09"/>穿得手，肩袖不寬。著在左邊，右邊施帶，多
+<lb ed="T" n="0727c10"/>貯綿絮。然是禦寒之服，熱國則否，用此亦聖
+<lb ed="T" n="0727c11"/>開。流于<placeName key="CN0000000E01AA">東土</placeName>，則變成色帛，而削幅綴于左
+<lb ed="T" n="0727c12"/>右袖上，垂之製曳然，旌表我通贍經論。一
+<lb ed="T" n="0727c13"/>本則曳一支，多則多曳。未知稽古自何人
+<lb ed="T" n="0727c14"/>始乎？今單言播，略立字耳，全非禦寒之
+<lb ed="T" n="0727c15"/>意，翻為我慢之衣。既失元端，而多濫作，別
+<lb ed="T" n="0727c16"/>形聖教以俟後賢，此外無施異制以亂大
+<lb ed="T" n="0727c17"/>倫。《詩》曰：服之不稱，身之災也，吁！」</p>
+    <linkGrp>
+        <link targets="#0727b16 #0727c04"/>
+        <ptr target="#A000122" type="person"/>
+        <ptr target="#CN0610102Z07AA" type="place"/>
+        <ptr target="#j19500921958507" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0727c04 #0727c06"/>
+        <ptr target="#A000122" type="person"/>
+        <ptr target="#A002414" type="person"/>
+        <ptr target="#j19500921958507" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0727c04 #0727c06"/>
+        <ptr target="#A000122" type="person"/>
+        <ptr target="#CN0610102T37AA" type="place"/>
+        <ptr target="#j19500921958507" type="time"/>
+    </linkGrp>
+</div>

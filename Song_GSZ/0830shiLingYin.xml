@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0747a05shiLingYin">
+    <anchor n="T.50.2061.0747a05"/><head><date from-iso="0923-05-18" key="j20583162063308" to-iso="0937-01-16">後唐</date><placeName key="CN0410328Z13AA">洛陽長水</placeName><persName key="A009885">令諲</persName>傳</head><p>
+        <lb ed="T" n="0747a06"/><persName key="A009885">釋令諲</persName>，姓楊氏，<placeName key="CN0411282Z27AA"><app type="cb-app" xml:id="begd1e10235"/>陝<anchor xml:id="endd1e10235"/>府閿鄉</placeName>人也。幼而履操，迴
+        <lb ed="T" n="0747a07"/>求出俗，得<ref type="place" target="#CN0411282Z27AA">本邑</ref>之師，授《淨名經》。年既應法，
+<lb ed="T" n="0747a08"/>乃納戒津，大小乘教兼而學之。於名數法
+<lb ed="T" n="0747a09"/>門，染成淳粹。《彌陀》、《中觀》斡及膏腴，聲光振
+        <lb ed="T" n="0747a10"/>發，莫之與京。因遊<placeName key="CN0410328Z13AA">洛南長水</placeName>，遇歸心檀信
+<lb ed="T" n="0747a11"/>構伽藍，就中講貫。一論一經，三十載中宣
+<lb ed="T" n="0747a12"/>化，計各五十餘遍。日別誦《維摩》、《上生》以為恒
+<lb ed="T" n="0747a13"/>課。執行持心而絕瑕類，遠近宗承，若望梅
+<lb ed="T" n="0747a14"/>者得飲焉。以<date from-iso="0935-02-11" key="j20626032062957" to-iso="0936-01-31">清泰二年乙未</date>歲終于邑寺，
+<lb ed="T" n="0747a15"/>春秋七十一，法臘五十一。其年遷于山麓，
+<lb ed="T" n="0747a16"/>徇西域法火葬，獲舍利，學人檀越共建塔
+<lb ed="T" n="0747a17"/>焉。</p>
+    <linkGrp>
+        <link targets="#0747a06 #0747a06"/>
+        <ptr target="#A009885" type="person"/>
+        <ptr target="#CN0411282Z27AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0747a10 #0747a11"/>
+        <ptr target="#A009885" type="person"/>
+        <ptr target="#CN0410328Z13AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0747a14 #0747a15"/>
+        <ptr target="#A009885" type="person"/>
+        <ptr target="#CN0410328Z13AA" type="place"/>
+        <ptr target="#j20626032062957" type="time"/>
+    </linkGrp>
+</div>

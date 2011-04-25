@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0720a14shiANiZhenNa">
+    <anchor n="T.50.2061.0720a14"/><head><date from-iso="0618-06-21" key="j19469512052491" to-iso="0907-06-06">唐</date>洛京天竺寺<persName key="A001922">寶思惟</persName>傳</head><p>
+        <lb ed="T" n="0720a15"/><persName key="A001922">釋阿儞真那</persName>，華言<persName key="A001922">寶思惟</persName>，北印度<placeName key="WW034KASME01AA">迦濕密
+<lb ed="T" n="0720a16"/>羅國</placeName>人，剎帝利種。幼而捨家，禪誦為業。進
+<lb ed="T" n="0720a17"/>具之後，專精律品，而慧解超群，學兼真俗，
+<lb ed="T" n="0720a18"/>乾文呪術，尤攻其妙。加以化導為心，無戀
+<lb ed="T" n="0720a19"/>鄉國。以<persName key="A002099">天后</persName><date from-iso="0692-12-17" key="j19741591974512" to-iso="0693-12-05">長壽二年</date>，屆于<placeName key="CN0410302Z03AA">洛都</placeName>，勅於<placeName key="CN0410302T01AA">天
+    <lb ed="T" n="0720a20"/>宮寺</placeName>安置。即以<date from-iso="0692-12-17" key="j19741591979566" to-iso="0707-10-08">其年創譯至中宗神龍景<lb ed="T" n="0720a21"/>午</date>，於<placeName key="CN0410311T08AA">佛授記</placeName>、<placeName key="CN0410302T01AA">天宮</placeName>、<placeName key="CN0410311T16AA">福先</placeName>等寺。出《不空罥索陀
+<lb ed="T" n="0720a22"/>羅尼經》等七部。<persName key="A002461">睿宗</persName><date from-iso="0712-05-14" key="j19812461981275" to-iso="0712-06-12"><anchor xml:id="beg0720002"/>大<anchor xml:id="end0720002"/>極元年四月</date>，太子洗
+        <lb ed="T" n="0720a23"/>馬<persName key="A000442">張齊賢</persName>等繕寫進內。<date from-iso="0712-07-13" key="j19813061981334" to-iso="0712-08-10">其年六月</date>，勅令禮部
+<lb ed="T" n="0720a24"/>尚書晉國公<persName key="A009028">薛稷</persName>、右常侍高平侯<persName key="A009029">徐彥伯</persName>等
+        <lb ed="T" n="0720a25"/>詳定入目施行。<persName key="A001922">那</persName>自<date from-iso="0705" key="j19786111979566" to-iso="0707">神龍</date>之後，不務翻譯，
+<lb ed="T" n="0720a26"/>唯精勤禮誦，修諸福業。每於晨朝磨香為
+<lb ed="T" n="0720a27"/>水，塗浴佛像，後方飲食。從始洎終，此為恒
+<lb ed="T" n="0720a28"/>業。衣鉢之外，隨得隨施。後於<placeName key="CN0410311M01AA">龍門山</placeName>請置
+<lb ed="T" n="0720a29"/>一寺，制度皆依西域，因名<placeName key="CN0410311T13AA">天竺</placeName>焉。門徒學<pb ed="T" n="0720b" xml:id="T50.2061.0720b"/>
+        <lb ed="T" n="0720b01"/>侶同居<ref target="#CN0410311T13AA" type="place">此寺</ref>，精誠所感，靈應寔繁。壽百有餘
+        <lb ed="T" n="0720b02"/>歲，以<date from-iso="0721-02-05" key="j19844351984789" to-iso="0722-01-25">開元九年</date>終於<ref target="#CN0410311T13AA" type="place">寺</ref>，構塔旌表焉。</p>
+    <linkGrp>
+        <link targets="#0720a15 #0720a16"/>
+        <ptr target="#A001922" type="person"/>
+        <ptr target="#WW034KASME01AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0720a19 #0720a19"/>
+        <ptr target="#A001922" type="person"/>
+        <ptr target="#CN0410302T01AA" type="place"/>
+        <ptr target="#j19741591974512" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0720a20 #0720a21"/>
+        <ptr target="#A001922" type="person"/>
+        <ptr target="#CN0410311T08AA" type="place"/>
+        <ptr target="#j19741591979566" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0720a20 #0720a21"/>
+        <ptr target="#A001922" type="person"/>
+        <ptr target="#CN0410302T01AA" type="place"/>
+        <ptr target="#j19741591979566" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0720a20 #0720a21"/>
+        <ptr target="#A001922" type="person"/>
+        <ptr target="#CN0410311T16AA" type="place"/>
+        <ptr target="#j19741591979566" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0720a22 #0720a23"/>
+        <ptr target="#A000442" type="person"/>
+        <ptr target="#j19812461981275" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0720a23 #0720a25"/>
+        <ptr target="#A009028" type="person"/>
+        <ptr target="#A009029" type="person"/>
+        <ptr target="#j19813061981334" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0720a28 #0720b01"/>
+        <ptr target="#A001922" type="person"/>
+        <ptr target="#CN0410311T13AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0720b02 #0720b02"/>
+        <ptr target="#A001922" type="person"/>
+        <ptr target="#CN0410311T13AA" type="place"/>
+        <ptr target="#j19844351984789" type="time"/>
+    </linkGrp>
+</div>

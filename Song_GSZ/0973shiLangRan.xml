@@ -1,0 +1,95 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0799c20shiLangRan">
+    <anchor n="T.50.2061.0799c20"/><head><date from-iso="0618-06-21" key="j19469512052491" to-iso="0907-06-06">唐</date>潤州招隱寺<persName key="A010979">朗然</persName>傳</head><p>
+<lb ed="T" n="0799c21"/><persName key="A010979">釋朗然</persName>，俗姓魏，世襲冠冕，其先隨東晉南
+<lb ed="T" n="0799c22"/>渡，則為<placeName key="CN0321302Z09AA">南徐</placeName>人也。<date from-iso="0713" key="j19818371992113" to-iso="0742">開元</date>中入道，受業於丹
+<lb ed="T" n="0799c23"/>陽<placeName key="CN0321102T05AA">開元寺</placeName><persName key="A010980">齊大師</persName>。<date from-iso="0742" key="j19921141993438" to-iso="0745">天寶初</date>受具於杭州<placeName key="CN0330106T05AA">華嚴
+<lb ed="T" n="0799c24"/>寺</placeName><persName key="A010882">光律師</persName>。後徙<placeName key="CN0330106T01AA">靈隱寺</placeName>，依<persName key="A010981">遠律師</persName>，通《四分
+<lb ed="T" n="0799c25"/>律鈔》，重稟<placeName key="CN0330602Z01AA">越州</placeName><persName key="A004177">曇一律師</persName>，精研律部《講訓》，
+<lb ed="T" n="0799c26"/>生徒四遠響應。肅宗<date from-iso="0757-01-29" key="j19975771997960" to-iso="0758-02-16">至德二年</date>，恩命舉移，隷
+<lb ed="T" n="0799c27"/>名於<placeName key="CN0610104T39AA">慈和寺</placeName>。<date from-iso="0760" key="j19988071999309" to-iso="0761">上元</date>中，刺史<persName key="A010982">韋儇</persName>又請為<placeName key="CN0321111T02AA">招隱</placeName>
+<lb ed="T" n="0799c28"/>統領大德。即以其年講授之暇，著《古今決》十
+<lb ed="T" n="0799c29"/>卷。解釋《四分律鈔》數十萬言，繁雜義例，條貫<pb ed="T" n="0800a" xml:id="T50.2061.0800a"/>
+<lb ed="T" n="0800a01"/>甚明，大行於世。觀其先列古人之義，有所
+<lb ed="T" n="0800a02"/>不安，則判斷之，故號決也。《決》中自序，初依
+        <lb ed="T" n="0800a03"/><placeName key="IN0000000E01AA">天竺</placeName><persName key="A010983">威律師</persName>學習，復從<persName key="A010981">遠</persName>、<persName key="A004177">一</persName>二師也。凡戒
+<lb ed="T" n="0800a04"/>壇則二十六登，皆為壇席之主。《律鈔》凡二十
+<lb ed="T" n="0800a05"/>八過講。有饋遺者隨豐薄，受而轉施悲信
+<lb ed="T" n="0800a06"/>二田。凡於教理，披文究義，皆言宿習之力
+<lb ed="T" n="0800a07"/>也。執持戒檢，斯須不違。<date from-iso="0777-02-17" key="j20049012005254" to-iso="0778-02-05">大曆十二年</date>冬癸
+<lb ed="T" n="0800a08"/>卯，趺坐如常，恬然化滅，時年五十四，僧臘三
+<lb ed="T" n="0800a09"/>十五。越十三年春辛酉，建塔<app type="multiplier" xml:id="begd1e24980"/>於<anchor xml:id="endd1e24980"/>山西原<!--找不到此地-->，縗
+<lb ed="T" n="0800a10"/>麻之徒泣血千計。高行弟子<persName key="A010984">清浩</persName>、<persName key="A010985">擇言</persName>等。請
+<lb ed="T" n="0800a11"/>益弟子御史中丞洪府觀察使<persName key="A010982">韋儇</persName>、吏部員
+<lb ed="T" n="0800a12"/>外<persName key="A000519">李華</persName>、<placeName key="CN0321102Z12AA">潤州</placeName>刺史<persName key="A010986">韓賁</persName>、<placeName key="CN0321102Z12AA">湖州</placeName>刺史<persName key="A010987">韋損</persName>、御史
+<lb ed="T" n="0800a13"/>大夫<persName key="A010988">劉暹</persName>、<placeName key="CN0321102Z12AA">潤州</placeName>刺史<persName key="A010989">樊冕</persName>，皆歸心奉信。屯田
+<lb ed="T" n="0800a14"/>員外郎<persName key="A010990">柳識</persName>為碑頌焉。</p>
+    <linkGrp>
+        <link targets="#0799c22 #0799c23"/>
+        <ptr target="#A010979" type="person"/>
+        <ptr target="#A010980" type="person"/>
+        <ptr target="#CN0321102T05AA" type="place"/>
+        <ptr target="#j19818371992113" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0799c23 #0799c24"/>
+        <ptr target="#A010979" type="person"/>
+        <ptr target="#A010882" type="person"/>
+        <ptr target="#CN0330106T05AA" type="place"/>
+        <ptr target="#j19921141993438" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0799c24 #0799c25"/>
+        <ptr target="#A010979" type="person"/>
+        <ptr target="#A010981" type="person"/>
+        <ptr target="#CN0330106T01AA" type="place"/>
+        <ptr target="#j19921141993438" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0799c25 #0799c26"/>
+        <ptr target="#A010979" type="person"/>
+        <ptr target="#A004177" type="person"/>
+        <ptr target="#CN0330602Z01AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0799c26 #0799c27"/>
+        <ptr target="#A010979" type="person"/>
+        <ptr target="#CN0610104T39AA" type="place"/>
+        <ptr target="#j19975771997960" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0799c27 #0799c29"/>
+        <ptr target="#A010979" type="person"/>
+        <ptr target="#A010982" type="person"/>
+        <ptr target="#CN0321111T02AA" type="place"/>
+        <ptr target="#j19988071999309" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0800a02 #0800a03"/>
+        <ptr target="#A010979" type="person"/>
+        <ptr target="#A010983" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0800a03 #0800a03"/>
+        <ptr target="#A010979" type="person"/>
+        <ptr target="#A010981" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0800a03 #0800a03"/>
+        <ptr target="#A010979" type="person"/>
+        <ptr target="#A004177" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0800a10 #0800a13"/>
+        <ptr target="#A010979" type="person"/>
+        <ptr target="#A010984" type="person"/>
+        <ptr target="#A010985" type="person"/>
+        <ptr target="#A010982" type="person"/>
+        <ptr target="#A000519" type="person"/>
+        <ptr target="#A010986" type="person"/>
+        <ptr target="#A010987" type="person"/>
+        <ptr target="#A010988" type="person"/>
+        <ptr target="#A010989" type="person"/>
+        <ptr target="#A010990" type="person"/>
+    </linkGrp>
+</div>

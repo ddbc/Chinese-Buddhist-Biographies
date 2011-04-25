@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0841a21shiDaoXing">
+    <anchor n="T.50.2061.0841a21"/><head><date from-iso="0618-06-21" key="j19469512052491" to-iso="0907-06-06">唐</date>廣州羅浮山<persName key="A012742">道行</persName>傳</head><p>
+<lb ed="T" n="0841a22"/><persName key="A012742">釋道行</persName>，姓梅氏，<placeName key="CN0330602Z02AA">會稽</placeName>人也。父為<placeName key="CN0330602Z01AA">越州</placeName>衙吏。
+        <lb ed="T" n="0841a23"/><persName key="A012742">行</persName><date key="j19986441999009" from-iso="0760-01-01" to-iso="0760-12-31">弱齡</date>知書，比成造秀。有僧分衛，<persName key="A012742">行</persName>接之
+<lb ed="T" n="0841a24"/>談道，頗精禪觀，遂求出家。至四明山<placeName key="CN0330212T08AA">保壽
+<lb ed="T" n="0841a25"/>院</placeName><persName key="A012746">智幽</persName>所，稟訓進修，拾薪汲水。後遊<placeName key="CN0430412M01AA">南岳</placeName>，
+<lb ed="T" n="0841a26"/>聞<persName key="A003623">江西大寂</persName>道化，往親附焉。思養聖胎，見
+        <lb ed="T" n="0841a27"/><placeName key="CN0441322M01AA">羅浮</placeName>奇異，高三千丈，有七十石室，七十二長
+<lb ed="T" n="0841a28"/>溪。仙人仙禽，玉樹朱草，生于上，半入海中。
+<lb ed="T" n="0841a29"/><persName key="A012742">行</persName>居于石室，默爾安禪。然或山精水怪，往往<pb ed="T" n="0841b" xml:id="T50.2061.0841b"/>
+<lb ed="T" n="0841b01"/>驚鳴，<persName key="A012742">行</persName>視之蔑如也。有老人容貌端正，衣
+<lb ed="T" n="0841b02"/>冠華楚，再拜稽顙云：「我居此中僅二百載，
+<lb ed="T" n="0841b03"/>今因<persName key="A012742">師</persName>住，冥感匪躬，逍遙脫苦，歸人趣受
+        <lb ed="T" n="0841b04"/>樂矣。」其感物多此類也。<date from-iso="0825-02-02" key="j20224182023128" to-iso="0827-01-13">寶曆九載</date>疾終<!--寶曆沒有九年，這裡依（疑年錄：134）標為寶曆年間-->，春
+        <lb ed="T" n="0841b05"/>秋九十五。<date key="j20230492023049" when-iso="0826-10-26">其年九月十八日</date>入塔焉。</p>
+    <linkGrp>
+        <link targets="#0841a24 #0841a25"/>
+        <ptr target="#A012742" type="person"/>
+        <ptr target="#A012746" type="person"/>
+        <ptr target="#CN0330212T08AA" type="place"/>
+        <ptr target="#j19986441999009" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0841a25 #0841a26"/>
+        <ptr target="#A012742" type="person"/>
+        <ptr target="#A003623" type="person"/>
+        <ptr target="#CN0430412M01AA" type="place"/>
+    </linkGrp>
+</div>

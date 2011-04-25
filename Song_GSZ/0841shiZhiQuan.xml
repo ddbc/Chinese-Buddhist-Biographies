@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0750b24shiZhiQuan">
+    <anchor n="T.50.2061.0750b24"/><head><date from-iso="0951-02-18" key="j20684542071729" to-iso="0960-02-06">周</date><placeName key="CN0130425T07AA">魏府觀音院</placeName><persName key="A009978">智佺</persName>傳</head><p>
+        <lb ed="T" n="0750b25"/><persName key="A009978">釋智佺</persName>，姓張氏，<placeName key="CN0130433Z06AA">銅臺永濟</placeName>人也。<date key="j20439352044300" from-iso="0884-01-01" to-iso="0884-12-31">九歲</date>，於<placeName key="CN0130535T01AA">鄴都
+<lb ed="T" n="0750b26"/>臨清王舍城寺</placeName>事師。暨受具戒，身器挺然
+<lb ed="T" n="0750b27"/>八尺，面色玉如，行步若舒雁，言音如扣鐘。
+<lb ed="T" n="0750b28"/>人望之凜然，僉曰：「美丈夫也。」恒誦諸經，晝
+<lb ed="T" n="0750b29"/>三夜三，禮佛無闕。本師知其法器，遣往<placeName key="CN0410526Z22AA">滑<pb ed="T" n="0750c" xml:id="T50.2061.0750c"/>
+<lb ed="T" n="0750c01"/>臺</placeName>，抵<placeName key="CN0410526T02AA">明福寺</placeName>，就<persName key="A009862">暉師</persName>講肆。朞月，頓見諸法
+<lb ed="T" n="0750c02"/>體用，喜不自任。時<persName key="A009862">暉</persName>之門生炮勇烋幹者數
+<lb ed="T" n="0750c03"/>十員，皆出<persName key="A009978">佺</persName>之下。徇<placeName key="CN0411403Z19AA">睢陽</placeName>人請講，未久，又
+<lb ed="T" n="0750c04"/>今<placeName key="CN0410224Z41AA">東京</placeName>遇信士捨宅為<placeName key="CN0410224T06AA">萬歲百法院</placeName>。由此
+        <lb ed="T" n="0750c05"/><placeName key="CN0410305Z22AA">洛京</placeName>、<placeName key="CN0411626Z10AA">陳</placeName>、<placeName key="CN0411002Z18AA">許</placeName>、<placeName key="CN0320303Z06AA">徐</placeName>、<placeName key="CN0341302Z05AA">宿</placeName>、<placeName>維</placeName>、<placeName key="CN0370781Z14AA">青</placeName>、<placeName>琴臺</placeName>咸樂請其敷演，自
+        <lb ed="T" n="0750c06"/>鳩聚檀嚫，前後飯僧三十萬。<placeName key="CN0130425Z14AA">天雄軍</placeName>戴、張、郭
+<lb ed="T" n="0750c07"/>三家同建<placeName key="CN0130425T07AA">觀音院</placeName>，命居之。<persName key="A009978">佺</persName>敏利之性天
+<lb ed="T" n="0750c08"/>資，初終講《百法論》，可百許遍。登法座，多不
+<lb ed="T" n="0750c09"/>臨文，懸述辯給。後三過覽《大藏經》，以輔見
+<lb ed="T" n="0750c10"/>知。其誦諷經呪也，甞聞戶外閴然有彈指
+<lb ed="T" n="0750c11"/>聲者，感鬼神讚歎歟？魏帥<persName key="A010001">陳君思讓</persName>篤志
+<lb ed="T" n="0750c12"/>歸依，表薦紫衣師，號曰<persName key="A009978">歸政</persName>。殆臨八十一，
+<lb ed="T" n="0750c13"/>而剋意學<persName key="A006169">歐</persName><persName key="A002704">王</persName>書體，僅入能妙。或問之，曰：
+        <lb ed="T" n="0750c14"/>「<ref type="person" target="#A009978">吾</ref>習來生字耳。」<date from-iso="0958-01-28" key="j20709902071373" to-iso="0959-02-15">顯德五年</date>，年八十三，呼弟
+<lb ed="T" n="0750c15"/>子<persName key="A010000">奉晏</persName>等囑累，令造木輿一所，<anchor xml:id="beg0750005"/>歛<anchor xml:id="end0750005"/>送闍維。
+<lb ed="T" n="0750c16"/>至<date key="j20713242071324" when-iso="0958-12-28">其年十一月十<anchor xml:id="beg0750006"/>一<anchor xml:id="end0750006"/>日</date>奄終，奉木塔，舉高
+<lb ed="T" n="0750c17"/>三丈餘。縱燎時有白鶴哀鳴，紫雲旋覆。收
+<lb ed="T" n="0750c18"/>拾舍利，建塔緘焉。</p>
+    <linkGrp>
+        <link targets="#0750b25 #0750b25"/>
+        <ptr target="#A009978" type="person"/>
+        <ptr target="#CN0130433Z06AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0750b25 #0750b28"/>
+        <ptr target="#A009978" type="person"/>
+        <ptr target="#CN0130535T01AA" type="place"/>
+        <ptr target="#j20439352044300" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0750b29 #0750c02"/>
+        <ptr target="#A009978" type="person"/>
+        <ptr target="#A009862" type="person"/>
+        <ptr target="#CN0410526T02AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0750c03 #0750c03"/>
+        <ptr target="#A009978" type="person"/>
+        <ptr target="#CN0411403Z19AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0750c04 #0750c04"/>
+        <ptr target="#A009978" type="person"/>
+        <ptr target="#CN0410224T06AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0750c06 #0750c07"/>
+        <ptr target="#A009978" type="person"/>
+        <ptr target="#CN0130425T07AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0750c11 #0750c12"/>
+        <ptr target="#A009978" type="person"/>
+        <ptr target="#A010001" type="person"/>
+        <ptr target="#CN0130425Z14AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0750c14 #0750c16"/>
+        <ptr target="#A009978" type="person"/>
+        <ptr target="#A010000" type="person"/>
+        <ptr target="#CN0130425T07AA" type="place"/>
+    </linkGrp>
+</div>

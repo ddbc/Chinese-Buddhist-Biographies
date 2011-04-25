@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0760a09shiCangShi">
+    <anchor n="T.50.2061.0760a09"/><head><date from-iso="0618-06-21" key="j19469512052491" to-iso="0907-06-06">唐</date><placeName key="CN0370902M01AA">兗州東嶽</placeName><persName key="A010198">降魔藏師</persName>傳</head><p>
+<lb ed="T" n="0760a10"/><persName key="A010198">釋藏師</persName>，姓王氏，<placeName key="CN0130133Z25AA">趙郡</placeName>人也。父為<placeName key="CN0341602Z07AA">毫州</placeName>掾。稚
+        <lb ed="T" n="0760a11"/>齒尋師，居然慕法，而性好獨處。<placeName key="CN0341602Z07AA">譙</placeName>多厲鬼，
+<lb ed="T" n="0760a12"/>持魅於人。<persName key="A010198">藏</persName>七歲，隻影閑房，孤形逈野，甞
+<lb ed="T" n="0760a13"/>無少畏。至年長，彌見挺拔，故號<persName key="A010198">降魔藏</persName>
+        <lb ed="T" n="0760a14"/>歟。請列青衿于<placeName key="CN0341602T06AA">廣福院</placeName><note resp="sgsz">案此處未明示寺院所在，暫定位於<placeName key="CN0341602Z07AA">譙郡</placeName>。</note><persName key="A012441">明讚禪師</persName>，<ref type="person" target="#A012441">師</ref>意其法
+<lb ed="T" n="0760a15"/>器，乃發擿之，譍對辯給，答出問表。因留執
+<lb ed="T" n="0760a16"/>事，服勤受法，俾誦《法華》，踰月徹部，登即
+<lb ed="T" n="0760a17"/>剃落，受具習律焉。次講南宗論，大機將發。
+<lb ed="T" n="0760a18"/>俄投麈尾，<placeName key="CN0000000E01AA">九州</placeName>靈跡罕不登升。後往遇北
+        <lb ed="T" n="0760a19"/>州鼎盛，便誓依棲。<persName key="A009582">秀</persName>問曰：「<ref type="person" target="#A010198">汝</ref>名<persName key="A010198">降魔</persName>，<ref type="person" target="#A009582">我</ref>此
+        <lb ed="T" n="0760a20"/>無山精木怪，<ref type="person" target="#A010198">汝</ref>翻作魔邪？」曰：「有佛有魔。」<persName key="A009582">秀</persName>
+        <lb ed="T" n="0760a21"/>云：「<ref type="person" target="#A010198">汝</ref>若是魔，必住不思議境界也。」曰：「是佛
+        <lb ed="T" n="0760a22"/>亦空，何不思議之有？」時眾莫不異而欽<ref type="person" target="#A010198">之</ref>。
+        <lb ed="T" n="0760a23"/>先是<persName key="A009582">秀師</persName>懸記之：「<ref type="person" target="#A010198">汝</ref>與<ref type="place" target="#CN0370881Z06AA">少皞之墟</ref><note resp="sgsz">相傳<persName key="A008669">少皞</persName>陵位於<placeName key="CN0370881Z06AA">曲阜</placeName>。</note>有緣。」尋
+<lb ed="T" n="0760a24"/>入<placeName key="CN0370902M01AA">泰山</placeName>數年，學者臻萃，供億克周，為<persName key="A002192">金輿谷
+    <lb ed="T" n="0760a25"/>朗公</persName>行化之亞也。一日，告門人曰：「<ref type="person" target="#A010198">吾</ref>今老
+<lb ed="T" n="0760a26"/>朽，物極有歸，正是其時。」言訖而終。春秋九
+<lb ed="T" n="0760a27"/>十一矣。</p>
+    <linkGrp>
+        <link targets="#0760a10 #0760a10"/>
+        <ptr target="#A010198" type="person"/>
+        <ptr target="#CN0130133Z25AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0760a14 #0760a15"/>
+        <ptr target="#A010198" type="person"/>
+        <ptr target="#A012441" type="person"/>
+        <ptr target="#CN0341602T06AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0760a18 #0760a22"/>
+        <ptr target="#A010198" type="person"/>
+        <ptr target="#A009582" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0760a24 #0760a24"/>
+        <ptr target="#A010198" type="person"/>
+        <ptr target="#CN0370902M01AA" type="place"/>
+    </linkGrp>
+</div>

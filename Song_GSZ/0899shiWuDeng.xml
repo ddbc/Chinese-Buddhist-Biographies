@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0774b07shiWuDeng">
+    <anchor n="T.50.2061.0774b07"/><head><date from-iso="0618-06-21" key="j19469512052491" to-iso="0907-06-06">唐</date><placeName key="CN0420106T08AA">鄂州大寂院</placeName><persName key="A003863">無等</persName>傳</head><p>
+        <lb ed="T" n="0774b08"/><persName key="A003863">釋無等</persName>姓李氏，今<placeName key="CN0410223Z07AA">東京尉氏</placeName>人也。負志卓犖，
+<lb ed="T" n="0774b09"/>辭氣貞正。少隨父官于<placeName key="CN0360782Z13AA">南康</placeName>，頻遊梵剎，向
+<lb ed="T" n="0774b10"/>僧瞻像，往即忘歸。既作沙門，遇<persName key="A003623">道一禪師</persName>
+<lb ed="T" n="0774b11"/>在<placeName key="CN0360782M01AA">龔公山</placeName>，學侶螘慕。<persName key="A003863">等</persName>求法於其間，挺然
+        <lb ed="T" n="0774b12"/>出類。<date from-iso="0812-02-21" key="j20176882018041" to-iso="0813-02-08">元和七年</date>遊<placeName key="CN0420602Z06AA">漢上</placeName><note resp="sgsz">案《尚書講義．卷五》：「沔，漢上也。」乃指<placeName key="CN0420000R01AA">漢水</placeName>的一條源頭。此應泛指<placeName key="CN0420602Z06AA">襄陽</placeName>一帶。</note>。後至<placeName key="CN0420704Z09AA">武昌</placeName>，覩郡西
+<lb ed="T" n="0774b13"/><placeName key="CN0420106M01AA">黃鵠山</placeName>奇秀，遂結茅分衛。由此<placeName key="CN0511902Z05AA">巴</placeName>、<placeName key="CN0510184Z16AA">蜀</placeName>、<placeName key="CN0421003Z07AA">荊</placeName>、<placeName key="CN0420602Z05AA">襄</placeName>
+<lb ed="T" n="0774b14"/>尚玄理者，無遠不至矣。<date from-iso="0827-03-18" key="j20231922023504" to-iso="0828-01-24">大和元載</date>，屬相國
+        <lb ed="T" n="0774b15"/><persName key="A010440">牛公僧孺</persName>出鎮<ref type="place" target="#CN0420106Z31AA">三江</ref>，聞<persName key="A003863">等</persName>道香，普熏遐邇，
+<lb ed="T" n="0774b16"/>命駕枉問。風虎相須，為法重人。<persName key="A010440">牛公</persName>慮其
+<lb ed="T" n="0774b17"/>蘭若不隸名籍，特為秦題曰「<placeName key="CN0420106T08AA">大寂</placeName>」也。憧憧
+<lb ed="T" n="0774b18"/>往來，堂無虛位。至<date from-iso="0830-10-25" key="j20245092024537" to-iso="0830-11-22">四年十月</date>示滅，年八十
+        <lb ed="T" n="0774b19"/>二。弟子<persName key="A019211">誓通</persName>奉全身入塔焉。</p>
+    <linkGrp>
+        <link targets="#0774b08 #0774b08"/>
+        <ptr target="#A003863" type="person"/>
+        <ptr target="#CN0410223Z07AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0774b09 #0774b10"/>
+        <ptr target="#A003863" type="person"/>
+        <ptr target="#CN0360782Z13AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0774b10 #0774b12"/>
+        <ptr target="#A003863" type="person"/>
+        <ptr target="#A003623" type="person"/>
+        <ptr target="#CN0360782M01AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0774b12 #0774b12"/>
+        <ptr target="#A003863" type="person"/>
+        <ptr target="#CN0420602Z06AA" type="place"/>
+        <ptr target="#j20176882018041" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0774b12 #0774b12"/>
+        <ptr target="#A003863" type="person"/>
+        <ptr target="#CN0420704Z09AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0774b12 #0774b13"/>
+        <ptr target="#A003863" type="person"/>
+        <ptr target="#CN0420106M01AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0774b14 #0774b17"/>
+        <ptr target="#A010440" type="person"/>
+        <ptr target="#A003863" type="person"/>
+        <ptr target="#CN0420106T08AA" type="place"/>
+        <ptr target="#j20231922023504" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0774b18 #0774b18"/>
+        <ptr target="#A003863" type="person"/>
+        <ptr target="#CN0420106T08AA" type="place"/>
+        <ptr target="#j20245092024537" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0774b19 #0774b19"/>
+        <ptr target="#A003863" type="person"/>
+        <ptr target="#A019211" type="person"/>
+    </linkGrp>
+</div>

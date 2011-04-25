@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0893a19shiXuanYan">
+    <anchor n="T.50.2061.0893a19"/><head><date from-iso="0618-06-21" key="j19469512052491" to-iso="0907-06-06">唐</date>鄂州開元寺<persName key="A008829">玄晏</persName>傳</head><p>
+        <lb ed="T" n="0893a20"/><persName key="A008829">釋玄晏</persName>，<placeName key="CN0420106Z30AA">江夏</placeName>人也，姓李氏。祖<persName key="A017616">善</persName>而博識多學，
+<lb ed="T" n="0893a21"/>注《文選》，行講集於梁、宋之間。<persName key="A007761"><anchor xml:id="beg0893003"/>李<anchor xml:id="end0893003"/>邕</persName>，<placeName key="CN0370705Z05AA">北海</placeName>太
+<lb ed="T" n="0893a22"/>守，《唐書》有傳。<persName key="A008829">晏</persName>穉昧之齡，決志離俗，<date key="j19974111997556" notAfter-iso="0757" notBefore-iso="0756">至德
+<lb ed="T" n="0893a23"/>初年</date>，誦經高第，依僧<persName key="A013902">崇真</persName>剃落，配住<placeName key="CN0420106T09AA">開元
+<lb ed="T" n="0893a24"/>寺</placeName>。<date key="j20015932001976" notAfter-iso="0769-02-14" notBefore-iso="0768-01-28">大曆三年</date>，從大闍梨<persName key="A013903">真悟</persName>受具足法，便
+<lb ed="T" n="0893a25"/>尋律範，目不視靡曼，足不履邪徑，於四
+<lb ed="T" n="0893a26"/>儀中，無終食之間違教。儀形峭拔，眉目秀
+<lb ed="T" n="0893a27"/>朗，如孤鴻野鶴，獨立逈澤，望風瞻想，自有
+<lb ed="T" n="0893a28"/>遠致。性多分劑，苟與惡比丘共住，遑遑然
+<lb ed="T" n="0893a29"/>如以佉陀羅炭浴身也。不出戶牖，焚香<pb ed="T" n="0893b" xml:id="T50.2061.0893b"/>
+<lb ed="T" n="0893b01"/>掃地，端坐盡日。人不堪其憂，而<persName key="A008829">晏</persName>居之，以
+<lb ed="T" n="0893b02"/>為三禪之樂不敵也。<persName key="A008829">晏</persName>少習毘尼，長學金
+<lb ed="T" n="0893b03"/>剛，解空破相，臻極玄奧。而聞律藏有一時
+<lb ed="T" n="0893b04"/>外學之說，或賦詩一章，運思標拔，孤遊境
+<lb ed="T" n="0893b05"/>外。<placeName key="CN0320303Z13AA">彭城</placeName><persName key="A010166">劉長卿</persName>名重五言，大嗟賞之。由是
+<lb ed="T" n="0893b06"/>風雲草木，每有賦詠，輒為工文者之所吟
+<lb ed="T" n="0893b07"/>諷也。<persName key="A008829">晏</persName>房舍在寺之北隅，頗為湫陋，凡當
+<lb ed="T" n="0893b08"/>時名士共營草堂，有若<placeName key="CN0411626Z12AA">陳郡</placeName><persName key="A013904">袁滋</persName>、<placeName key="CN0130133Z25AA">趙郡</placeName><persName key="A013905">李則</persName>、
+<lb ed="T" n="0893b09"/><persName key="A013906">盧來卿</persName>、<persName key="A013907">于文炫</persName>、<persName key="A013908">蔡直</persName>偕檀捨同締構也。鄂嶽<!--找不到此地-->
+<lb ed="T" n="0893b10"/>連<anchor xml:id="beg0893004"/>師<anchor xml:id="end0893004"/>何公旌其行業，請居<placeName key="CN0511381Z40AA">晉安</placeName>，不移其志。
+<lb ed="T" n="0893b11"/><date key="j20059942007439" notAfter-iso="0784" notBefore-iso="0780">建中</date>伊始，<persName key="A013909">符載</persName>與<persName key="A013910">楊衡</persName>、<persName key="A013911">李演</persName>約<persName key="A008829">晏</persName>為塵外之
+<lb ed="T" n="0893b12"/>侶焉。以<date key="j20135362013536" when-iso="0800-10-09">貞元十六年九月十四日</date>示滅，春
+<lb ed="T" n="0893b13"/>秋五十八，僧臘三十四。遷塔于<placeName key="CN0420106M02AA">黃鶴山</placeName>南
+<lb ed="T" n="0893b14"/>原也。</p>
+    <linkGrp>
+        <link targets="#0893a20 #0893a21"/>
+        <ptr target="#A017616" type="person"/>
+        <ptr target="#A007761" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0893a21 #0893a22"/>
+        <ptr target="#A008829" type="person"/>
+        <ptr target="#A007761" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0893a22 #0893a24"/>
+        <ptr target="#A008829" type="person"/>
+        <ptr target="#A013902" type="person"/>
+        <ptr target="#CN0420106T09AA" type="place"/>
+        <ptr target="#j19974111997556" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0893a24 #0893a24"/>
+        <ptr target="#A008829" type="person"/>
+        <ptr target="#A013903" type="person"/>
+        <ptr target="#j20015932001976" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0893b07 #0893b10"/>
+        <ptr target="#A008829" type="person"/>
+        <ptr target="#A013904" type="person"/>
+        <ptr target="#A013905" type="person"/>
+        <ptr target="#A013906" type="person"/>
+        <ptr target="#A013907" type="person"/>
+        <ptr target="#A013908" type="person"/>
+        <ptr target="#CN0420106T09AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0893b11 #0893b12"/>
+        <ptr target="#A008829" type="person"/>
+        <ptr target="#A013909" type="person"/>
+        <ptr target="#A013910" type="person"/>
+        <ptr target="#A013911" type="person"/>
+        <ptr target="#CN0420106T09AA" type="place"/>
+        <ptr target="#j20059942007439" type="time"/>
+    </linkGrp>
+</div>

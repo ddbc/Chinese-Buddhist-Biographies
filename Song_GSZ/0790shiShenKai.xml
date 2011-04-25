@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0730c01shiShenKai">
+    <anchor n="T.50.2061.0730c01"/><head><date from-iso="0689-12-21" key="j19730671978610" to-iso="0705-02-24">周</date>京兆崇福寺<persName key="A009242">神楷</persName>傳（<persName key="A000661">明恂</persName>）</head><p>
+<lb ed="T" n="0730c02"/><persName key="A009242">釋神楷</persName>，姓郭氏，<placeName key="CN0140110Z03AA">太原</placeName>人也，即漢末<persName key="A002875">林宗</persName>之後。
+<lb ed="T" n="0730c03"/>世襲冠裳，後隨父宦于秦，為<placeName key="CN0610102Z10AA">京兆</placeName>人也。昆
+<lb ed="T" n="0730c04"/>弟六人，<persName key="A009242">楷</persName>居其季。幼而聰敏，立志弗群，不
+<lb ed="T" n="0730c05"/>樂浮榮，誓求翦落，禮<persName key="A000661">明恂法師</persName>為弟子，
+<lb ed="T" n="0730c06"/>即<persName key="A000661">大乘恂</persName>也。洎乎年滿受具，於經論義理，
+<lb ed="T" n="0730c07"/>大小該通，耳聞口誦，譬鮮㲲之易染。遂講
+<lb ed="T" n="0730c08"/>《攝大乘》、《俱舍》等論，頴晤輩流罕有齊駕。後
+<lb ed="T" n="0730c09"/>因講《淨名經》，見古師判處，喟然歎曰：「美則
+        <lb ed="T" n="0730c10"/>美矣，未盡善也！」乃於<placeName key="CN0420982M01AA">安陸白趙山</placeName>撰《疏》，一
+        <lb ed="T" n="0730c11"/>云在<placeName key="CN0330624T05AA">越州剡石城寺</placeName>述作素有巧性，於<placeName key="CN0330683R01AA">剡
+<lb ed="T" n="0730c12"/>溪</placeName>南巖之下，映水塑貌。今有池，已涸矣。巖下
+<lb ed="T" n="0730c13"/>石隙縫間幽暗，然中有木棺者，云是<persName key="A009242">楷</persName>殯于
+<lb ed="T" n="0730c14"/>此。遊人下窺，歷歷皆覩。又言<persName key="A009242">楷</persName>因<placeName key="CN0610113T05AA">慈恩</placeName>、<placeName key="CN0610103T02AA">西明</placeName>
+<lb ed="T" n="0730c15"/>等寺度公<anchor xml:id="beg0730003"/>者<anchor xml:id="end0730003"/>出家，及翻經論，勅諸道高行
+<lb ed="T" n="0730c16"/>才學僧並赴<placeName key="CN0610102Z07AA">京師</placeName>，遂應詔而入，配居<placeName key="CN0610103T10AA">崇業
+<lb ed="T" n="0730c17"/>寺</placeName>。至<date from-iso="0684" key="j19711811978588" to-iso="0705">天后朝</date>，方行其《疏》。後卒於此<placeName key="CN0610103T10AA">寺</placeName>，弟子
+<lb ed="T" n="0730c18"/>遷塔于南逍遙園<!--找不到此地-->焉，實<persName key="A001019">大乘基</persName>之法門猶子
+<lb ed="T" n="0730c19"/>也。</p>
+    <p><lb ed="T" n="0730c20"/>系曰：<persName key="A009242">楷師</persName>遺迹，何<placeName key="CN0610102Z10AA">京兆</placeName>、<placeName key="CN0330683R01AA">剡溪</placeName>二處？孰是？令人
+<lb ed="T" n="0730c21"/>疑惑，若兩家之俱見葪訓焉。此乃古人名
+<lb ed="T" n="0730c22"/>顯於四方，因子孫南北徙遷，追念先宗，遂
+<lb ed="T" n="0730c23"/>有僑置焉。如晉氏渡江，衣冠之家多立祖
+<lb ed="T" n="0730c24"/>先之遺迹同也。若然者，<placeName key="CN0330683Z13AA">剡</placeName>則是<persName key="A009242">楷</persName>曾遊歷之
+<lb ed="T" n="0730c25"/>地也。</p>
+    <linkGrp>
+        <link targets="#0730c02 #0730c02"/>
+        <ptr target="#A009242" type="person"/>
+        <ptr target="#CN0140110Z03AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0730c03 #0730c06"/>
+        <ptr target="#A009242" type="person"/>
+        <ptr target="#A000661" type="person"/>
+        <ptr target="#CN0610102Z10AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0730c10 #0730c10"/>
+        <ptr target="#A009242" type="person"/>
+        <ptr target="#CN0420982M01AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0730c11 #0730c11"/>
+        <ptr target="#A009242" type="person"/>
+        <ptr target="#CN0330624T05AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0730c11 #0730c13"/>
+        <ptr target="#A009242" type="person"/>
+        <ptr target="#CN0330683R01AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0730c14 #0730c14"/>
+        <ptr target="#A009242" type="person"/>
+        <ptr target="#CN0610113T05AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0730c14 #0730c15"/>
+        <ptr target="#A009242" type="person"/>
+        <ptr target="#CN0610103T02AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0730c16 #0730c17"/>
+        <ptr target="#A009242" type="person"/>
+        <ptr target="#CN0610103T10AA" type="place"/>
+        <ptr target="#j19711811978588" type="time"/>
+    </linkGrp>
+</div>

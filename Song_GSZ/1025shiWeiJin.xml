@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0818b20shiWeiJin">
+    <anchor n="T.50.2061.0818b20"/><head><date from-iso="0923-05-18" key="j20583162063308" to-iso="0937-01-16">後唐</date>南嶽般舟道場<persName key="A001066">惟勁</persName>傳</head><p>
+        <lb ed="T" n="0818b21"/><persName key="A001066">釋惟勁</persName>，<placeName key="CN0350921Z12AA">福州長溪</placeName>人也。節操精苦，奉養棲約，
+<lb ed="T" n="0818b22"/>破納擁身，衣無繒纊，號頭陀焉。初參<persName key="A003677">雪峯</persName>，
+<lb ed="T" n="0818b23"/>便探淵府。<date from-iso="0911" key="j20539512055611" to-iso="0915">乾化</date>中，入<placeName key="CN0430412M01AA">嶽</placeName>住<placeName key="CN0430412T15AA">報慈東藏</placeName>，亦號
+<lb ed="T" n="0818b24"/><persName key="A001066">三生藏</persName>，中見<persName key="A002450">法藏禪師</persName>鑑燈，頓了如是廣
+<lb ed="T" n="0818b25"/>大法界重重帝網之門，因歎曰：「先達聖人，具
+<lb ed="T" n="0818b26"/>此不思議智慧方便，非小智之所能！」又<placeName key="CN0430412M01AA">嶽</placeName>道
+<lb ed="T" n="0818b27"/>觀中亦設此燈，往因廢教時竊移入仙壇
+<lb ed="T" n="0818b28"/>也。有遊<placeName key="CN0430412M01AA">嶽</placeName>才人達士，留題頗多。<persName key="A001066">勁</persName>乃歎曰：
+<lb ed="T" n="0818b29"/>「盧橘夏熟，寧期<anchor xml:id="beg0818001"/>植<anchor xml:id="end0818001"/>在於<placeName key="CN0410302Z03AA">神都</placeName>；《舜韶》齊聞，不<pb ed="T" n="0818c" xml:id="T50.2061.0818c"/>
+<lb ed="T" n="0818c01"/>覺頓忘於肉味。嗟其無識，不究本端。盜王
+<lb ed="T" n="0818c02"/>氏之青氈，以為舊物；認嶺南之孔雀，以作
+<lb ed="T" n="0818c03"/>家禽。後世安知？于今區別。」乃作五字頌，頌
+<lb ed="T" n="0818c04"/>五章，覽者知其理事相融，燈有所屬，屬在
+<lb ed="T" n="0818c05"/>乎互相涉入，光影含容，顯華嚴性悔主伴交
+<lb ed="T" n="0818c06"/>光，非道家之器用也。<persName key="A011960">楚王馬氏</persName>奏賜紫，署
+<lb ed="T" n="0818c07"/><persName key="A001066">寶聞大師</persName>，梁<date from-iso="0907" key="j20524952052858" to-iso="0908">開平</date>中也。<persName key="A001066">勁</persName>續《寶林傳》，蓋錄
+<lb ed="T" n="0818c08"/><date from-iso="0785" key="j20078242015139" to-iso="0805">貞元</date>已後禪門祖祖相繼源脈者也。別著《南
+<lb ed="T" n="0818c09"/>嶽高僧傳》，未知卷數，亦一代禪宗達士，文采
+<lb ed="T" n="0818c10"/>可觀。後終于岳中也。</p>
+    <p xml:id="pT50p0818c1101"><lb ed="T" n="0818c11"/>系曰：物涉疑似，難輒區分。<persName key="A001066">勁公</persName>誌鑑燈，若
+<lb ed="T" n="0818c12"/>遺物重獲歸家也。後之人必不敢攘物歸
+<lb ed="T" n="0818c13"/>家也。故曰前事不忘，後世之元龜也。</p>
+    <linkGrp>
+        <link targets="#0818b22 #0818b23"/>
+        <ptr target="#A001066" type="person"/>
+        <ptr target="#A003677" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0818b23 #0818b26"/>
+        <ptr target="#A001066" type="person"/>
+        <ptr target="#CN0430412T15AA" type="place"/>
+        <ptr target="#j20539512055611" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0818c06 #0818c07"/>
+        <ptr target="#A001066" type="person"/>
+        <ptr target="#A011960" type="person"/>
+        <ptr target="#A003877" type="person"/>
+    </linkGrp>
+</div>

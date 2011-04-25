@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0770a24shiYuanJi">
+    <anchor n="T.50.2061.0770a24"/><head><date from-iso="0618-06-21" key="j19469512052491" to-iso="0907-06-06">唐</date><placeName key="CN0410502Z11AA">鄴都</placeName><persName key="A009179">圓寂</persName>傳（<persName key="A010428">掘多</persName>）</head><p>
+<lb ed="T" n="0770a25"/><persName key="A009179">釋圓寂</persName>，不知何許人也。恒以禪觀為務，勤
+<lb ed="T" n="0770a26"/>修匪懈，就<placeName key="CN0410185M02AA">嵩山</placeName><persName key="A010232">老安禪師</persName>請決心疑，一皆
+        <lb ed="T" n="0770a27"/>明煥。<persName key="A009179">寂</persName>化行<placeName key="CN0410502Z11AA">相部</placeName>，依附者多。久居<placeName key="CN0410581M02AA">天平</placeName>等山，
+<lb ed="T" n="0770a28"/><persName key="A004688">稠禪師</persName>往跡無不遍尋。時大司空<persName key="A004372">嚴綬</persName>傾心
+<lb ed="T" n="0770a29"/>信重。享壽一百五十五歲，<date from-iso="0671-02-18" key="j19661861966540" to-iso="0672-02-07">咸亨二年</date>己巳歲<pb ed="T" n="0770b" xml:id="T50.2061.0770b"/>
+        <lb ed="T" n="0770b01"/>生。（按<date from-iso="0671-02-18" key="j19661861966540" to-iso="0672-02-07">咸亨二年辛未</date>，合云<date from-iso="0669-02-09" key="j19654471965801" to-iso="0670-01-29">總章二年己巳</date>
+        <lb ed="T" n="0770b02"/>也。）<note resp="sgsz">原文夾注</note>
+<lb ed="T" n="0770b03"/>世號<persName key="A009179">無生和尚</persName>是歟。<persName key="A009179">寂</persName>之高岸，恒不欲人
+<lb ed="T" n="0770b04"/>致禮邀請，必有不可犯之色，時或非之。然
+<lb ed="T" n="0770b05"/>則志意修則驕富貴，道義重則輕王公，非
+<lb ed="T" n="0770b06"/>其傲誕，勢使然也。<persName key="A010428">釋掘多</persName>者，<placeName key="IN0000000E01AA">印度</placeName>人也。從
+<lb ed="T" n="0770b07"/>踰沙磧，向慕<placeName key="CN0000000E01AA">神州</placeName>，不問狄鞮，旋通華語，
+<lb ed="T" n="0770b08"/>而尚禪定。徑謁<placeName key="CN0440205A01AA">曹溪</placeName><persName key="A001719">能師</persName>，機教相接，猶弱
+<lb ed="T" n="0770b09"/>喪還家焉。<persName key="A010428">多</persName>遊<placeName key="CN0140900M01AA">五臺</placeName>，路由<placeName key="CN0140921Z08AA">定襄</placeName>。歷村見一
+<lb ed="T" n="0770b10"/>禪者結庵獨坐，問之曰：「子在此奚為？」曰：「吾
+<lb ed="T" n="0770b11"/>觀靜。」<persName key="A010428">多</persName>曰：「觀者何人？靜者何物？得非勞子
+<lb ed="T" n="0770b12"/>之形，役子之慮乎？」其僧茫昧，拱默而已，作
+<lb ed="T" n="0770b13"/>禮數四，請垂啟發。<persName key="A010428">多</persName>曰：「子出誰門邪？」曰：「<persName key="A009582">神
+    <lb ed="T" n="0770b14"/>秀大師</persName>。」<persName key="A010428">多</persName>曰：「<ref type="person" target="#A010428">我</ref><placeName key="WW142XIYUE01AA">西域</placeName>異道寔繁有徒，最下
+<lb ed="T" n="0770b15"/>劣者，不墮此見。兀然空坐，蓐爛身疲，初無
+        <lb ed="T" n="0770b16"/>深益。子莫起如是見，立如是論。」早往<placeName key="CN0440222Z14AA">韶
+            <lb ed="T" n="0770b17"/>陽</placeName>請決所疑。<persName key="A001719">能</persName>曰：「<ref type="person" target="#A010428">子</ref>何不自觀自靜邪？」不
+        <lb ed="T" n="0770b18"/>觀相，不觀如，<ref type="person" target="#A010428">子</ref>遊歷日用，自然安樂也。」一
+<lb ed="T" n="0770b19"/>如<persName key="A010428">多</persName>所言，略無少異。伊僧抉開羅網。<persName key="A010428">多</persName>後
+<lb ed="T" n="0770b20"/>莫知攸往。</p>
+    <linkGrp>
+        <link targets="#0770a26 #0770a26"/>
+        <ptr target="#A009179" type="person"/>
+        <ptr target="#A010232" type="person"/>
+        <ptr target="#CN0410185M02AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0770a27 #0770a27"/>
+        <ptr target="#A009179" type="person"/>
+        <ptr target="#CN0410502Z11AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0770a28 #0770a29"/>
+        <ptr target="#A009179" type="person"/>
+        <ptr target="#A004372" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0770a28 #0770b01"/>
+        <ptr target="#A009179" type="person"/>
+        <ptr target="#j19654472022750" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0770b06 #0770b06"/>
+        <ptr target="#A010428" type="person"/>
+        <ptr target="#IN0000000E01AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0770b08 #0770b08"/>
+        <ptr target="#A010428" type="person"/>
+        <ptr target="#A001719" type="person"/>
+        <ptr target="#CN0440205A01AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0770b09 #0770b09"/>
+        <ptr target="#A010428" type="person"/>
+        <ptr target="#CN0140900M01AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0770b09 #0770b09"/>
+        <ptr target="#A010428" type="person"/>
+        <ptr target="#CN0140921Z08AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0770b16 #0770b16"/>
+        <ptr target="#A010428" type="person"/>
+        <ptr target="#A001719" type="person"/>
+        <ptr target="#CN0440222Z14AA" type="place"/>
+    </linkGrp>
+</div>

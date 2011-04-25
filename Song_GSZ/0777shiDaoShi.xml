@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0726c06shiDaoShi">
+    <anchor n="T.50.2061.0726c06"/><head><date from-iso="0618-06-21" key="j19469512052491" to-iso="0907-06-06">唐</date>京師西明寺<persName key="A000296">道世</persName>傳</head><p>
+        <lb ed="T" n="0726c07"/><persName key="A000296">釋道世</persName>，字<persName key="A000296">玄惲</persName>，姓韓氏，厥先<placeName key="CN0410329Z15AA">伊闕</placeName>人也。祖<persName key="A018816">代</persName>
+<lb ed="T" n="0726c08"/>因官為<placeName key="CN0610102Z10AA">京兆</placeName>人焉。生且渥潤，漸而聰敏，俄
+<lb ed="T" n="0726c09"/>厭眾沙，思參救蟻。二親鍾愛，遏絕其請，久
+<lb ed="T" n="0726c10"/>而遂心。時年十二，於<placeName key="CN0610113T14AA">青龍寺</placeName>出家，從執德
+<lb ed="T" n="0726c11"/>瓶，止臨欣鑑，律宗研覈，書籍鑽尋，特慕上
+<lb ed="T" n="0726c12"/>乘融明實性。于時籍甚，<placeName key="CN0610000E02AA">三輔</placeName>欽歸。<date from-iso="0656" key="j19606991962581" to-iso="0661">顯慶年
+<lb ed="T" n="0726c13"/>中</date>，<persName key="A002146">大帝</persName>以<persName key="A000294">玄奘師</persName>所翻經論，未幾詔入內，
+<lb ed="T" n="0726c14"/>及<placeName key="CN0610113T05AA">慈恩寺</placeName>大德更代行道，不替於時，<persName key="A000296">世</persName>亦
+<lb ed="T" n="0726c15"/>預其選。及為皇太子造<placeName key="CN0610103T02AA">西明寺</placeName>，爰以英
+<lb ed="T" n="0726c16"/>博召入<placeName key="CN0610103T02AA">斯寺</placeName>，時<persName key="A001519">道宣律師</persName>當塗行律，<persName key="A000296">世</persName>且
+<lb ed="T" n="0726c17"/>旁敷，同驅五部之車，共導三乘之軌，人莫
+<lb ed="T" n="0726c18"/>我及，道望芬然。復因講貫之餘，仍覽甚深
+        <lb ed="T" n="0726c19"/>之藏。以為古今綿代，製作多人，雖雅趣佳
+<lb ed="T" n="0726c20"/>辭，無足於傳記。由是搴文囿之菁華，嗅大
+<lb ed="T" n="0726c21"/>義之瞻蔔，以類編錄，號法苑珠林，總一百
+<lb ed="T" n="0726c22"/>篇，勒成十帙。始從劫量，終乎雜記，部類之
+<lb ed="T" n="0726c23"/>前，各序別論。令學覽之人，就門隨部，撿括
+<lb ed="T" n="0726c24"/>所知，如提綱焉，如舉領焉。<persName key="A000296">世</persName>之用心周
+<lb ed="T" n="0726c25"/>乎十稔，至<date from-iso="0668-04-25" key="j19651571965446" to-iso="0669-02-08">總章元年</date>畢軸，蘭臺郎<persName key="A008892">李儼</persName>為
+<lb ed="T" n="0726c26"/>之都序，此文行于天下。又著《善惡業報》及《信
+<lb ed="T" n="0726c27"/>福論》共二十三卷，《大小乘禪門觀》及《大乘觀》
+<lb ed="T" n="0726c28"/>共十一卷，《受戒儀式》、《禮佛儀式》共六卷，《四分
+<lb ed="T" n="0726c29"/>律討要》五卷、《四分律尼鈔》五卷、《金剛經集注》<pb ed="T" n="0727a" xml:id="T50.2061.0727a"/>
+<lb ed="T" n="0727a01"/>三卷，十部都一百五十三卷。<persName key="A000296">世</persName>頗多著述，未
+<lb ed="T" n="0727a02"/>測其終。名避<persName key="A002414">太宗</persName>廟諱，多行字耳，故時稱
+<lb ed="T" n="0727a03"/><persName key="A000296">玄惲</persName>焉。</p>
+    <linkGrp>
+        <link targets="#0726c07 #0726c08"/>
+        <ptr target="#A018816" type="person"/>
+        <ptr target="#CN0610102Z10AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0726c10 #0726c12"/>
+        <ptr target="#A000296" type="person"/>
+        <ptr target="#CN0610113T14AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0726c12 #0726c14"/>
+        <ptr target="#A000296" type="person"/>
+        <ptr target="#CN0610113T05AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0726c14 #0726c16"/>
+        <ptr target="#A000296" type="person"/>
+        <ptr target="#CN0610103T02AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0726c25 #0726c26"/>
+        <ptr target="#A000296" type="person"/>
+        <ptr target="#A008892" type="person"/>
+        <ptr target="#j19651571965446" type="time"/>
+    </linkGrp>
+</div>

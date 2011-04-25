@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0878b18shiSengJie">
+    <anchor n="T.50.2061.0878b18"/><head><date from-iso="0618-06-21" key="j19469512052491" to-iso="0907-06-06">唐</date>京師光宅寺<persName key="A013710">僧竭</persName>傳</head><p>
+<lb ed="T" n="0878b19"/><persName key="A013710">釋僧竭</persName>者，不知何許人也，生在佛家，化行
+<lb ed="T" n="0878b20"/>神甸。護珠言戒，止水澄心。每嗟靳固之夫，
+<lb ed="T" n="0878b21"/>不自檀那之度，乃於<date key="j20059942007439" notAfter-iso="0784" notBefore-iso="0780">建中</date>中造曼殊堂<!--找不到此地-->，擬
+<lb ed="T" n="0878b22"/>摹<placeName key="CN0140922Z16AA">五臺</placeName>之聖相。議築臺至于水際，<persName key="A013710">竭</persName>懼傷
+<lb ed="T" n="0878b23"/>生命，俾立三日道場，呪其多足至無足，當
+<lb ed="T" n="0878b24"/>移竄相避，勿成某梵行之難。將知至誠所
+<lb ed="T" n="0878b25"/>感，徵驗弗虛，掘土及泉，了無蠢動焉。常
+<lb ed="T" n="0878b26"/>以複素為漉袋，遇汲有蟲，投諸井坎，時
+<lb ed="T" n="0878b27"/>號護生井，恒盈不涸。又觀其飛蛾蠛蠓，錯
+<lb ed="T" n="0878b28"/>認火明為可飛之路，故犯之，乃鑄銅蟾
+<lb ed="T" n="0878b29"/>為息煙調。天下傳其制度。其曼殊院<!--找不到此地-->甞轉<pb ed="T" n="0878c" xml:id="T50.2061.0878c"/>
+        <lb ed="T" n="0878c01"/>經，每勅賜香。此寺本<placeName key="CN0430412T14AA">七寶臺寺</placeName>，內有<persName key="A002099">天后</persName>
+<lb ed="T" n="0878c02"/>所造之臺，<persName key="A013710">竭</persName>居于中焉。</p>
+    <linkGrp>
+        <link targets="#0878c01 #0878c02"/>
+        <ptr target="#A013710" type="person"/>
+        <ptr target="#CN0430412T14AA" type="place"/>
+    </linkGrp>
+</div>

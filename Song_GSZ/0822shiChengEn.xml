@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0743a18shiChengEn">
+    <anchor n="T.50.2061.0743a18"/><head><date from-iso="0618-06-21" key="j19469512052491" to-iso="0907-06-06">唐</date><placeName key="CN0610103T02AA">京師西明寺</placeName><persName key="A009682">乘恩</persName>傳</head><p>
+<lb ed="T" n="0743a19"/><persName key="A009682">釋乘恩</persName>，不知何許人也。肇從志學，知遍
+<lb ed="T" n="0743a20"/>尋師，凡廁黌堂，必窮義路。常訓門人曰：
+<lb ed="T" n="0743a21"/>「好學近乎智，力行近乎仁。仁智稍成，是殊
+<lb ed="T" n="0743a22"/>名同實，趨菩薩地，若下坂之走丸耳。」<persName key="A009682">恩</persName>
+<lb ed="T" n="0743a23"/>樂人為學，不忘講導。及<date from-iso="0752" key="j19960861997410" to-iso="0756">天寶末</date>，<placeName key="CN0610000E01AA">關中</placeName>版蕩，
+<lb ed="T" n="0743a24"/>因避地<placeName key="CN0620602Z01AA">姑臧</placeName>。旅泊之間，嗟彼密邇羌虜之
+<lb ed="T" n="0743a25"/>封，極尚經論之學。<persName key="A009682">恩</persName>化其內眾，勉其成功，
+<lb ed="T" n="0743a26"/>深染華風，悉登義府。自是重撰《百法論疏》
+        <lb ed="T" n="0743a27"/>并《鈔》，行于西土。其《疏》祖<persName key="A000294">慈恩</persName>而宗<persName key="A001464">潞府</persName>，大
+<lb ed="T" n="0743a28"/>抵同而少聞異，終後弟子傳布。迨<date from-iso="0863-03-27" key="j20363502036379" to-iso="0863-04-25">咸通四年
+<lb ed="T" n="0743a29"/>三月</date>中，<placeName key="CN0620602Z09AA">西涼</placeName>僧<persName key="A009689">法信</persName>精研此道，稟本道節度<pb ed="T" n="0743b" xml:id="T50.2061.0743b"/>
+<lb ed="T" n="0743b01"/>使<persName key="A009685">張義朝</persName>表進<persName key="A009682">恩</persName>之著述，勅令兩街三學大
+<lb ed="T" n="0743b02"/>德等詳定，實堪行用，勅依，其僧賜紫衣，充
+<lb ed="T" n="0743b03"/>本道大德焉。</p>
+    <linkGrp>
+        <link targets="#0743a23 #0743a24"/>
+        <ptr target="#A009682" type="person"/>
+        <ptr target="#CN0610000E01AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0743a23 #0743a24"/>
+        <ptr target="#A009682" type="person"/>
+        <ptr target="#CN0620602Z01AA" type="place"/>
+        <ptr target="#j19960861997410" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0743a28 #0743b03"/>
+        <ptr target="#A009689" type="person"/>
+        <ptr target="#A009685" type="person"/>
+        <ptr target="#j20363502036379" type="time"/>
+    </linkGrp>
+</div>

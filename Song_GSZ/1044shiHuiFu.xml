@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0829b17shiHuiFu">
+    <anchor n="T.50.2061.0829b17"/><head><date from-iso="0618-06-21" key="j19469512052491" to-iso="0907-06-06">唐</date>廬江灊山天柱寺<persName key="A012309">惠符</persName>傳</head><p>
+        <lb ed="T" n="0829b18"/><persName key="A012309">釋惠符</persName>，姓戚氏，<placeName key="CN0330681Z11AA">越州諸暨</placeName>人也。登其弱冠，
+<lb ed="T" n="0829b19"/>勇氣過人，角力馳逐，無能及者。然其任俠，且
+<lb ed="T" n="0829b20"/>厭在家，忽投<placeName key="CN0411326T01AA">香嚴寺</placeName>，矯迹柔心，淳淑頓變。
+<lb ed="T" n="0829b21"/>納法之後，練行孤標。每夜沿山據草座，安禪
+<lb ed="T" n="0829b22"/>不動。復研尋經論，見潛縣之<placeName key="CN0340824M02AA">霍山</placeName>，昔<persName key="A002147">漢武</persName>
+<lb ed="T" n="0829b23"/>甞徙<placeName key="CN0430412M01AA">南嶽</placeName>之祭于此，極成勝境。其中<placeName key="CN0340824T03AA">天柱寺</placeName>
+<lb ed="T" n="0829b24"/>可以棲神，乃結庵居焉。無幾，有巨蛇張
+<lb ed="T" n="0829b25"/>口，毒火焱焱。<persName key="A012309">符</persName>徐語之曰：「汝尋宿債，<persName key="A012309">吾</persName>可
+<lb ed="T" n="0829b26"/>噬也。不然，洗身定意，如運業通，來為受
+<lb ed="T" n="0829b27"/>戒。」斯須，弭按蜿蜒而去，果化成人形，來求出
+<lb ed="T" n="0829b28"/>家。<persName key="A012309">符</persName>為之落<anchor xml:id="beg0829003"/>髮<anchor xml:id="end0829003"/>，披衣受訖，禮辭而退。後被
+<lb ed="T" n="0829b29"/>告<persName key="A012309">符</persName>私度，具以實對辯。<persName key="A012309">符</persName>云：「若私度有愆，甘<pb ed="T" n="0829c" xml:id="T50.2061.0829c"/>
+<lb ed="T" n="0829c01"/>聽其罪。」官吏知非常而縱之。<persName key="A012309">符</persName>凡見瘡癤膿
+<lb ed="T" n="0829c02"/>流，皆呪之則差。至<date from-iso="0730-01-27" key="j19877131988096" to-iso="0731-02-14">開元十八年</date>，無疾而終。乃
+<lb ed="T" n="0829c03"/>從火葬，見骨節相連之狀焉。</p>
+    <linkGrp>
+        <link targets="#0829b20 #0829b22"/>
+        <ptr target="#A012309" type="person"/>
+        <ptr target="#CN0411326T01AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0829b20 #0829b23"/>
+        <ptr target="#A012309" type="person"/>
+        <ptr target="#CN0340824M02AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0829b22 #0829b24"/>
+        <ptr target="#A012309" type="person"/>
+        <ptr target="#CN0340824T03AA" type="place"/>
+    </linkGrp>
+</div>

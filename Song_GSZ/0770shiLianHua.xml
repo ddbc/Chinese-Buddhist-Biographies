@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0721b14shiLianHua">
+    <anchor n="T.50.2061.0721b14"/><head><date from-iso="0618-06-21" key="j19469512052491" to-iso="0907-06-06">唐</date><persName key="A009161">蓮華</persName>傳</head><p>
+<lb ed="T" n="0721b15"/><persName key="A009161">釋蓮華</persName>，本<placeName key="IN0000000E02AA">中印度</placeName>人也。以<date from-iso="0784-01-31" key="j20074402007823" to-iso="0785-02-17">興元元年</date>杖錫
+<lb ed="T" n="0721b16"/>謁<persName key="A004215">德宗</persName>，乞鐘一口歸<placeName key="IN0000000E01AA">天竺</placeName>聲擊。勅<placeName key="CN0440104Z22AA">廣州</placeName>
+        <lb ed="T" n="0721b17"/>節度使<persName key="A009171">李復修</persName>鼓鑄畢，令送於<placeName key="IN0000000T01AA">南天竺金堆
+            <lb ed="T" n="0721b18"/>寺</placeName>。<persName key="A009161">華</persName>乃將此鐘於<placeName key="IN0000000T03AA">寶軍國毘盧遮那塔所</placeName>
+<lb ed="T" n="0721b19"/>安置。後以《華嚴》後分梵夾附舶來，為信者
+        <lb ed="T" n="0721b20"/><persName key="A000993">般若三藏</persName>於<placeName key="CN0610104T33AA">崇福寺</placeName>翻成四十卷焉。一云：
+        <lb ed="T" n="0721b21"/>梵夾本是<placeName key="INORKH000E01AA">南天竺烏荼國</placeName>王書獻<placeName key="CN0000000E01AA">支那</placeName>天子，
+<lb ed="T" n="0721b22"/>書云：「手自書寫《華嚴經》百千偈中所說善財
+<lb ed="T" n="0721b23"/>童子五十五聖者，善知識入不思議解脫境
+<lb ed="T" n="0721b24"/>界普賢行願品，謹奉進上，願於龍華會中
+<lb ed="T" n="0721b25"/>奉覲云」，即<date from-iso="0795-01-30" key="j20114572011840" to-iso="0796-02-17">貞元十一年</date>也。至<date from-iso="0796-07-13" key="j20119872012016" to-iso="0796-08-11">十二年六月</date>，詔
+        <lb ed="T" n="0721b26"/>於<placeName key="CN0610104T33AA">崇福寺</placeName>翻譯，<placeName key="WW034KASME02AA">罽賓</placeName>沙門<persName key="A000993">般若</persName>宣梵文，<placeName key="CN0410302T01AA">洛
+<lb ed="T" n="0721b27"/>京天宮寺</placeName><persName key="A009165">廣濟</persName>譯語，<placeName key="CN0610103T02AA">西明寺</placeName><persName key="A001417">圓照</persName>筆受，<persName key="A009170">智柔</persName>、
+        <lb ed="T" n="0721b28"/><persName key="A001275">智通</persName>綴文，<placeName key="CN0510108T33AA">成都府正覺寺</placeName><persName key="A009167">道恒</persName>、<persName key="A009169">鑒虛</persName>潤文，<placeName key="CN0610104T31AA">千
+<lb ed="T" n="0721b29"/>福寺</placeName><persName key="A002108">大通</persName>證義，<persName key="A001755">澄觀</persName>、<persName key="A004375">靈邃</persName>詳定，神策軍護軍<pb ed="T" n="0721c" xml:id="T50.2061.0721c"/>
+<lb ed="T" n="0721c01"/>中尉<persName key="A009163">霍仙鳴</persName>、左街功德使<persName key="A009162">竇文場</persName>寫進，<date from-iso="0798-02-25" key="j20125792012607" to-iso="0798-03-25">十四
+<lb ed="T" n="0721c02"/>年二月</date>解座。</p>
+    <linkGrp>
+        <link targets="#0721b15 #0721b15"/>
+        <ptr target="#A009161" type="person"/>
+        <ptr target="#IN0000000E02AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0721b15 #0721b18"/>
+        <ptr target="#A009161" type="person"/>
+        <ptr target="#A004215" type="person"/>
+        <ptr target="#A009171" type="person"/>
+        <ptr target="#j20074402007823" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0721b16 #0721b17"/>
+        <ptr target="#A009171" type="person"/>
+        <ptr target="#CN0440104Z22AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0721b18 #0721b19"/>
+        <ptr target="#A009171" type="person"/>
+        <ptr target="#IN0000000T01AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0721b20 #0721c02"/>
+        <ptr target="#A000993" type="person"/>
+        <ptr target="#A009165" type="person"/>
+        <ptr target="#A001417" type="person"/>
+        <ptr target="#A009170" type="person"/>
+        <ptr target="#A001275" type="person"/>
+        <ptr target="#A009167" type="person"/>
+        <ptr target="#A009169" type="person"/>
+        <ptr target="#A002108" type="person"/>
+        <ptr target="#A001755" type="person"/>
+        <ptr target="#A004375" type="person"/>
+        <ptr target="#A009163" type="person"/>
+        <ptr target="#A009162" type="person"/>
+        <ptr target="#CN0610104T33AA" type="place"/>
+        <ptr target="#j20119872012607" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0721b27 #0721b27"/>
+        <ptr target="#A009165" type="person"/>
+        <ptr target="#CN0410302T01AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0721b27 #0721b27"/>
+        <ptr target="#A001417" type="person"/>
+        <ptr target="#CN0610103T02AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0721b28 #0721b28"/>
+        <ptr target="#A009167" type="person"/>
+        <ptr target="#CN0510108T33AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0721b28 #0721b29"/>
+        <ptr target="#A002108" type="person"/>
+        <ptr target="#CN0610104T31AA" type="place"/>
+    </linkGrp>
+</div>

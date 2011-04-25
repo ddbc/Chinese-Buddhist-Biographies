@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0876c06shiZiYu">
+    <anchor n="T.50.2061.0876c06"/><head><date from-iso="0618-06-21" key="j19469512052491" to-iso="0907-06-06">唐</date>湖州大雲寺<persName key="A010808">子瑀</persName>傳</head><p>
+<lb ed="T" n="0876c07"/><persName key="A010808">釋子瑀</persName>字<persName key="A010808">真瑛</persName>，姓沈氏，吳興<placeName key="CN0330521Z20AA">德清</placeName>人也。其先
+<lb ed="T" n="0876c08"/>亡國於沈，因以為氏，春秋<persName key="A013693">沈子</persName>之後也。<persName key="A010808">瑀</persName>
+<lb ed="T" n="0876c09"/>生而聰慧，不以師授。年未總角，辭親出家，
+<lb ed="T" n="0876c10"/>以<date from-iso="0692" key="j19739231974106" to-iso="0692">如意年</date>中大赦度人，壞衣削䰂，煤炱世
+<lb ed="T" n="0876c11"/>事，於洛京<placeName key="CN0410311T16AA">大福先寺</placeName>受戒。勤勤祈請，假寐
+<lb ed="T" n="0876c12"/>三日之夕，見有神人儼然在目，倏往忽來，
+<lb ed="T" n="0876c13"/>或同或異，得非至誠乎？於是燭如來燈，
+<lb ed="T" n="0876c14"/>佩菩薩印。證聖中歸于<placeName key="CN0330502T15AA">大雲道場</placeName>，堅執律
+<lb ed="T" n="0876c15"/>柄，僧綱釐舉，不亦宜哉！<persName key="A010808">瑀</persName>素履純厖，無咎
+<lb ed="T" n="0876c16"/>無譽。使天下之士有外道焉，有闡提焉，
+<lb ed="T" n="0876c17"/>心如飄風，言若泉涌，撓我聖教，擠我妙門，
+<lb ed="T" n="0876c18"/><persName key="A010808">瑀</persName>示以從容，誘以方便，莫不稽<anchor xml:id="beg0876004"/>首<anchor xml:id="end0876004"/>挫色
+<lb ed="T" n="0876c19"/>而聞命焉。常禮一萬五千佛名兼慈悲懺，
+<lb ed="T" n="0876c20"/>日夜一匝，或二日三日一匝。夜有聖僧九人
+<lb ed="T" n="0876c21"/>降於禮懺之所，相與行道，彈指而去。或夜無
+<lb ed="T" n="0876c22"/>燈燭，心口是念，圓光照室，如坐月中。如此
+<lb ed="T" n="0876c23"/>則往往有之。<persName key="A010808">瑀</persName>慨德清<app type="multiplier" xml:id="begd1e46097"/>徧<anchor xml:id="endd1e46097"/>邑，未有塔寺，遂
+<lb ed="T" n="0876c24"/>銳懷營構。一唱齊和，乃成精宇。前後寫經
+<lb ed="T" n="0876c25"/>三藏，凡一萬六千卷。<date from-iso="0742" key="j19921141993438" to-iso="0745">天寶初</date>，<placeName key="CN0330185Z01AA">臨安</placeName><persName key="A013697">足法師</persName>死，
+<lb ed="T" n="0876c26"/>經三宿，將入地獄，冥中見<persName key="A010808">瑀</persName>引至王所，謂
+<lb ed="T" n="0876c27"/>王曰：「此人能講涅槃經，王宜宥之。」王曰：「唯
+<lb ed="T" n="0876c28"/>聞<persName key="A013698">巖崙師</persName>能講，不聞此師名，何也？」如是再
+<lb ed="T" n="0876c29"/>三，王不能屈，因赦之。曾是鄉人施<anchor xml:id="beg0876005"/>𤛴牛<pb ed="T" n="0877a" xml:id="T50.2061.0877a"/>
+<lb ed="T" n="0877a01"/>者，天然不孕，因而出乳，其通感如是。以<date from-iso="0752-01-25" key="j19957461996129" to-iso="0753-02-11">十
+<lb ed="T" n="0877a02"/>一年</date>秋禪坐而終。<date from-iso="0753-02-12" key="j19961301996483" to-iso="0754-01-31">十二年</date>春，將啟靈龕，欲焚
+<lb ed="T" n="0877a03"/>之，容色不變，如生，雖少林孕髭，蘄春育髮，
+<lb ed="T" n="0877a04"/>何獨嘉也？大理評事攝監察御史<persName key="A013696">姚淡</persName>、主客
+<lb ed="T" n="0877a05"/>郎中<persName key="A013695">姚泲</persName>、刺史<persName key="A013694">楊慧才</persName>偕歸信焉。</p>
+    <linkGrp>
+        <link targets="#0876c10 #0876c14"/>
+        <ptr target="#A010808" type="person"/>
+        <ptr target="#CN0410311T16AA" type="place"/>
+        <ptr target="#j19739231974106" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0876c14 #0876c15"/>
+        <ptr target="#A010808" type="person"/>
+        <ptr target="#CN0330502T15AA" type="place"/>
+        <ptr target="#j19739231974106" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0877a04 #0877a05"/>
+        <ptr target="#A010808" type="person"/>
+        <ptr target="#A013696" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0877a04 #0877a05"/>
+        <ptr target="#A010808" type="person"/>
+        <ptr target="#A013695" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0877a04 #0877a05"/>
+        <ptr target="#A010808" type="person"/>
+        <ptr target="#A013694" type="person"/>
+    </linkGrp>
+</div>

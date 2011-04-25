@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0863a11shiHuiJing">
+    <anchor n="T.50.2061.0863a11"/><head><date from-iso="0618-06-21" key="j19469512052491" to-iso="0907-06-06">唐</date>太原府崇福寺<persName key="A013536">崇政</persName>傳</head><p>
+<lb ed="T" n="0863a12"/><persName key="A013536">釋崇政</persName>，侯姓，本府人也。幼齡敏達，固願出
+<lb ed="T" n="0863a13"/>家，誦經通一千餘紙。耆宿歎賞，謂之為經
+<lb ed="T" n="0863a14"/>藏焉。神氣沈約，儀容整麗，秀眉廣目，挺志高
+        <lb ed="T" n="0863a15"/>奇。雖通群籍，所精者俱舍論，相國<persName key="A008502">王公縉</persName>
+<lb ed="T" n="0863a16"/>躬請<persName key="A013536">政</persName>宣講。于時談叢發秀，美曲流音，屬
+<lb ed="T" n="0863a17"/>聽無厭，雖移辰歷晷，謂如食頃焉。其剖判
+        <lb ed="T" n="0863a18"/>尤長，無得形似矣。<persName key="A004379">代宗皇帝</persName>下詔徵為<placeName key="CN0610102T61AA">章
+<lb ed="T" n="0863a19"/>信寺</placeName>大德，稱疾不赴。終于<placeName key="CN0140110T10AA">本院</placeName>，春秋五十
+<lb ed="T" n="0863a20"/>八云。</p>
+    <linkGrp>
+        <link targets="#0863a12 #0863a16"/>
+        <ptr target="#A013536" type="person"/>
+        <ptr target="#A008502" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0863a16 #0863a19"/>
+        <ptr target="#A013536" type="person"/>
+        <ptr target="#A004379" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0863a19 #0863a20"/>
+        <ptr target="#A013536" type="person"/>
+        <ptr target="#CN0140110T10AA" type="place"/>
+    </linkGrp>
+</div>

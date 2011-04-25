@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0837b14shiPuHua">
+    <anchor n="T.50.2061.0837b14"/><head><date from-iso="0618-06-21" key="j19469512052491" to-iso="0907-06-06">唐</date>真定府<persName key="A012492">普化</persName>傳</head><p>
+<lb ed="T" n="0837b15"/><persName key="A012492">釋普化</persName>，不知何許人也。<anchor xml:id="beg0837003"/>秉<anchor xml:id="end0837003"/>性殊常，且多真
+<lb ed="T" n="0837b16"/>率，作為簡放，言語不拘。躬事<persName key="A012493">盤山積禪師</persName>，
+<lb ed="T" n="0837b17"/>密密指教，深入堂奧，誡令保任，而發狂悖。
+<lb ed="T" n="0837b18"/>甞與<placeName key="CN0370181Z05AA">臨濟</placeName><persName key="A003627">玄公</persName>相見，乃對之以之驢鳴，旁
+<lb ed="T" n="0837b19"/>侍無不哂笑。<anchor xml:id="beg0837004"/>直<anchor xml:id="end0837004"/>時歌舞，或即悲號。人或接
+<lb ed="T" n="0837b20"/>之，千變萬態，略無恒度。一日，擎挾棺木巡
+<lb ed="T" n="0837b21"/>街，徇戶告辭云：「<persName key="A012492">普化</persName>明日死去。」時視之知
+<lb ed="T" n="0837b22"/>不可訾。<placeName key="CN0130133Z25AA">趙</placeName>人相率隨送出城東門，而揚言
+        <lb ed="T" n="0837b23"/>曰：「今日葬，不合<persName key="A019446">青烏</persName>。」經二日出南門，人亦
+<lb ed="T" n="0837b24"/>隨送，又曰：「明日方吉。」如是西門北門，出而還
+<lb ed="T" n="0837b25"/>返，人煩意怠。一旦坐于郊野，如入禪定焉。
+<lb ed="T" n="0837b26"/>禪宗有著述者，以其發言先覺，排<persName key="A012492">普化</persName>為
+<lb ed="T" n="0837b27"/>散聖科目中，言非正員也矣。</p>
+    <linkGrp>
+        <link targets="#0837b16 #0837b17"/>
+        <ptr target="#A012492" type="person"/>
+        <ptr target="#A012493" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0837b18 #0837b19"/>
+        <ptr target="#A012492" type="person"/>
+        <ptr target="#A003627" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0837b20 #0837b25"/>
+        <ptr target="#A012492" type="person"/>
+        <ptr target="#CN0130133Z25AA" type="place"/>
+    </linkGrp>
+</div>

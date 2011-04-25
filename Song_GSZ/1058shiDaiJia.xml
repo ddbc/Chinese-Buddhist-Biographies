@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0834b18shiDaiJia">
+    <anchor n="T.50.2061.0834b18"/><head><date from-iso="0618-06-21" key="j19469512052491" to-iso="0907-06-06">唐</date>簡州慈雲寺<persName key="A012443">待駕</persName>傳（<persName key="A010861">懷一</persName>）</head><p>
+<lb ed="T" n="0834b19"/><persName key="A012443">釋待駕</persName>，俗姓王氏，<placeName key="CN0510121Z04AA">金水縣</placeName>人也。沖孺出家，作
+<lb ed="T" n="0834b20"/>為詭異，其父立名<persName key="A012443">待駕</persName>，當<date key="j19960861997410" notBefore-iso="0752" to-iso="0756">天寶末</date>也。練行
+<lb ed="T" n="0834b21"/>精進，時號頭陀。及<persName key="A000291">玄宗</persName>巡幸，果自詣府剃
+<lb ed="T" n="0834b22"/>䰂為僧。至是「<persName key="A012443">待駕</persName>得度」，其言信矣。<persName key="A012443">駕</persName>去
+<lb ed="T" n="0834b23"/>縣邑二十里，開逕芟茅，獨居山頂，後成<placeName key="CN0512081T01AA">一
+<lb ed="T" n="0834b24"/>寺</placeName>。此山絕多靈跡，初名<placeName key="CN0510121M01AA">石城</placeName>，迨<persName key="A000291">明皇</persName>至<placeName key="CN0510823M03AA">劍
+<lb ed="T" n="0834b25"/>門山</placeName>，神見形迎駕，稱姓李氏，勅賜與玄孫
+<lb ed="T" n="0834b26"/>之稱。後陟武擔東臺，遠望祥雲紫氣，盤結
+<lb ed="T" n="0834b27"/>空界，問左右曰：「此何處？」對曰：「名城山。」乃悟
+<lb ed="T" n="0834b28"/>山神扈衛之意，遂改<placeName key="CN0512081T01AA">雲頂</placeName>為<placeName key="CN0512081T01AA">慈雲寺</placeName>也。<persName key="A012443">駕</persName>
+<lb ed="T" n="0834b29"/>後卒干<placeName key="CN0512081T01AA">此寺</placeName>。又福州<placeName key="CN0350104T08AA">楞伽寺</placeName><persName key="A010861">釋懷一</persName>，<date key="j19795671980570" notBefore-iso="0707" to-iso="0710">景龍</date>中<pb ed="T" n="0834c" xml:id="T50.2061.0834c"/>
+<lb ed="T" n="0834c01"/>銳意於<placeName key="CN0350111T02AA">愛同寺</placeName>東造精舍，相度地形，無水
+<lb ed="T" n="0834c02"/>濟用，方拱手而去。忽山禽擊鬪於地，<persName key="A010861">一</persName>異
+<lb ed="T" n="0834c03"/>之，命工穴深尺餘，甘泉沸湧。此後伏臘而
+<lb ed="T" n="0834c04"/>無加耗。寺中每有休咎，必暫減耗，候以知
+<lb ed="T" n="0834c05"/>之，風俗謂之靈泉焉。以<date key="j20008842001190" notBefore-iso="0766-02-18" to-iso="0766-12-21">永泰二年</date>歸寂，弟
+<lb ed="T" n="0834c06"/>子<persName key="A012450">超悟</persName>奏乞<persName key="A004379">代宗</persName>題寺額。上首曰<persName key="A012453">智恒</persName>，次
+<lb ed="T" n="0834c07"/><persName key="A012451">行弼</persName>。<placeName key="CN0330602Z01AA">越州</placeName><app type="multiplier" xml:id="begd1e34292"/>刺<anchor xml:id="endd1e34292"/>史<persName key="A012449">皇甫政</persName>為碑紀德，<placeName key="CN0420602Z05AA">襄州</placeName>節
+<lb ed="T" n="0834c08"/>度使<persName key="A000047">于頔</persName>書焉。</p>
+    <linkGrp>
+        <link targets="#0834b22 #0834b24"/>
+        <ptr target="#A012443" type="person"/>
+        <ptr target="#CN0512081T01AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0834b24 #0834b28"/>
+        <ptr target="#A000291" type="person"/>
+        <ptr target="#CN0510823M03AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0834b29 #0834c05"/>
+        <ptr target="#A010861" type="person"/>
+        <ptr target="#CN0350104T08AA" type="place"/>
+        <ptr target="#j19795671980570" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0834c05 #0834c06"/>
+        <ptr target="#A004379" type="person"/>
+        <ptr target="#A012450" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0834c06 #0834c07"/>
+        <ptr target="#A010861" type="person"/>
+        <ptr target="#A012450" type="person"/>
+        <ptr target="#A012451" type="person"/>
+        <ptr target="#A012453" type="person"/>
+    </linkGrp>
+</div>

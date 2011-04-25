@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0719b14shiHuiZhi">
+    <anchor n="T.50.2061.0719b14"/><head><date from-iso="0689-12-21" key="j19730671978610" to-iso="0705-02-24">周</date>洛京佛授記寺<persName key="A001727">慧智</persName>傳（<persName key="A000657">明佺</persName>）</head><p>
+        <lb ed="T" n="0719b15"/><persName key="A001727">釋慧智</persName>，其父<placeName key="IN0000000E01AA">印度</placeName>人，婆羅門種，因使遊此
+<lb ed="T" n="0719b16"/>方，而生於<persName key="A001727">智</persName>。少而精勤有出俗之志。<persName key="A002146">天皇</persName>
+<lb ed="T" n="0719b17"/><date from-iso="0650" key="j19585081970910" to-iso="0684">時</date>從長年婆羅門僧，奉勅度為弟子。本既
+<lb ed="T" n="0719b18"/>梵人，善閑<placeName key="IN0000000E01AA">天竺</placeName>書語；生于唐國，復練此土
+<lb ed="T" n="0719b19"/>言音。三藏<persName key="A000332">地婆訶羅</persName>、<persName key="A008997">提雲若那</persName>、<persName key="A001922">寶思惟</persName>等所
+<lb ed="T" n="0719b20"/>有翻譯，皆召<persName key="A001727">智</persName>為證，兼令度語。後至<date from-iso="0692-12-17" key="j19741591974512" to-iso="0693-12-05">長壽
+    <lb ed="T" n="0719b21"/>二年癸巳</date>，<persName key="A001727">智</persName>於<placeName key="CN0410311T08AA">東都佛授記寺</placeName>自譯《觀世音
+<lb ed="T" n="0719b22"/>頌》一卷。不詳所終。有沙門<persName key="A000657">明佺</persName>者，不知
+<lb ed="T" n="0719b23"/>何許人，出家隸業，悉在<placeName key="CN0410311T08AA">佛授記寺</placeName>。尤善毘
+<lb ed="T" n="0719b24"/>尼，兼閑經論。<date from-iso="0695-10-25" key="j19752011975251" to-iso="0695-12-14">天冊萬歲元年</date>，勅令刊定經
+<lb ed="T" n="0719b25"/>目，<persName key="A000657">佺</persName>所專纂錄，編次持疑，更與翻經大德
+<lb ed="T" n="0719b26"/>二十餘人同共參正，號曰《大周經錄》焉。<persName key="A001261">智
+<lb ed="T" n="0719b27"/>昇</persName>云：「雖云刊定，繁穢尤多。徒見流行，寔難
+<lb ed="T" n="0719b28"/>憑準。」蓋此錄支經別品，雜沓不倫，致為<persName key="A001261">昇
+<lb ed="T" n="0719b29"/>公</persName>之所黜矣。</p>
+    <linkGrp>
+        <link targets="#0719b19 #0719b20"/>
+        <ptr target="#A001727" type="person"/>
+        <ptr target="#A000332" type="person"/>
+        <ptr target="#A008997" type="person"/>
+        <ptr target="#A001922" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0719b20 #0719b22"/>
+        <ptr target="#A001727" type="person"/>
+        <ptr target="#CN0410311T08AA" type="place"/>
+        <ptr target="#j19741591974512" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0719b22 #0719b24"/>
+        <ptr target="#A001727" type="person"/>
+        <ptr target="#CN0410311T08AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0719b24 #0719b29"/>
+        <ptr target="#A000657" type="person"/>
+        <ptr target="#CN0410311T08AA" type="place"/>
+        <ptr target="#j19752011975251" type="time"/>
+    </linkGrp>
+</div>

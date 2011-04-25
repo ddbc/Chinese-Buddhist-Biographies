@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0719c18shiZhiTong">
+    <anchor n="T.50.2061.0719c18"/><head><date from-iso="0618-06-21" key="j19469512052491" to-iso="0907-06-06">唐</date>京師總持寺<persName key="A001275">智通</persName>傳</head><p>
+        <lb ed="T" n="0719c19"/><persName key="A001275">釋智通</persName>，姓趙氏，本<placeName key="CN0140802Z17AA">陝州安邑</placeName>人也。<date from-iso="0605" key="j19420591946754" to-iso="0617">隋大業</date>中
+        <lb ed="T" n="0719c20"/>出家受具，後隸名<placeName key="CN0610113T16AA">總持寺</placeName>。律行精明，經論該
+        <lb ed="T" n="0719c21"/>博。自幼挺秀，即有遊方之志，因往<placeName key="CN0410304A01AA">洛京翻
+            <lb ed="T" n="0719c22"/>經館</placeName>學梵書并語，曉然明解。屬<date from-iso="0627" key="j19500921958507" to-iso="0650">貞觀中</date>，有
+<lb ed="T" n="0719c23"/><placeName key="WW034NI00E01AA">北天竺</placeName>僧齎到《千臂千眼經》梵本，<persName key="A002414">太宗</persName>勅搜
+        <lb ed="T" n="0719c24"/>天下僧中學解者充<placeName key="CN0410304A01AA">翻經館</placeName>綴文、筆受、證義
+        <lb ed="T" n="0719c25"/>等。<persName key="A001275">通</persName>應其選，與梵僧對譯，成二卷。<persName key="A002146">天皇</persName><date from-iso="0653-02-06" key="j19596001959954" to-iso="0654-01-26">永
+            <lb ed="T" n="0719c26"/>徽四年</date>，復於<ref target="#CN0610113T16AA" type="place">本寺</ref>出《千囀陀羅尼觀世音菩
+<lb ed="T" n="0719c27"/>薩呪》一卷、《觀自在菩薩隨心呪》一卷、《清淨觀世
+        <lb ed="T" n="0719c28"/>音菩薩陀羅尼》一卷，共四部五卷。<persName key="A001275">通</persName>善其梵
+<lb ed="T" n="0719c29"/>字，復究華言，敵對相翻，時皆推伏。又云：「行<pb ed="T" n="0720a" xml:id="T50.2061.0720a"/>
+<lb ed="T" n="0720a01"/>瑜伽祕密教，大有感通。」後不知所終。</p>
+    <linkGrp>
+        <link targets="#0719c19 #0719c19"/>
+        <ptr target="#A001275" type="person"/>
+        <ptr target="#CN0140802Z17AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0719c19 #0719c21"/>
+        <ptr target="#A001275" type="person"/>
+        <ptr target="#CN0410305Z16AA" type="place"/>
+        <ptr target="#j19420591946754" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0719c21 #0719c22"/>
+        <ptr target="#A001275" type="person"/>
+        <ptr target="#CN0410304A01AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0719c22 #0719c25"/>
+        <ptr target="#A001275" type="person"/>
+        <ptr target="#A002414" type="person"/>
+        <ptr target="#CN0410304A01AA" type="place"/>
+        <ptr target="#j19500921958507" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0719c25 #0719c28"/>
+        <ptr target="#A001275" type="person"/>
+        <ptr target="#CN0610113T16AA" type="place"/>
+        <ptr target="#j19596001959954" type="time"/>
+    </linkGrp>
+</div>

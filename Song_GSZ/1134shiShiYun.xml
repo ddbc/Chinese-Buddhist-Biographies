@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0860a13shiShiYun">
+    <anchor n="T.50.2061.0860a13"/><head><date from-iso="0960-02-09" key="j20717322132856" to-iso="1127-06-18">宋</date>天台山般若寺<persName key="A013524">師蘊</persName>傳</head><p>
+<lb ed="T" n="0860a14"/><persName key="A013524">釋師蘊</persName>，<placeName key="CN0330702Z09AA">金華</placeName>人也。厥性真率，不好封植，遇
+<lb ed="T" n="0860a15"/>事屬情，有多訐直。<date key="j20576132058534" notAfter-iso="0923" notBefore-iso="0921">梁龍德</date>中，與<persName key="A008355">德韶禪師</persName>
+<lb ed="T" n="0860a16"/>結侶遐征，遊訪名師勝境，至於北代清涼
+<lb ed="T" n="0860a17"/>山<!--找不到此地-->，冥心巡禮。後登蒼梧野，陟<placeName key="CN0430412M01AB">祝融峯</placeName>。然<persName key="A008355">韶
+<lb ed="T" n="0860a18"/>師</persName>或隨或否。迴于<placeName key="CN0330000A17AA">浙</placeName>，來還棲息<persName key="A008355">韶師</persName>法會。
+<lb ed="T" n="0860a19"/>其為人也，稠人廣眾，往往滑稽，有好戲噱
+<lb ed="T" n="0860a20"/>者則狎之，膠漆如也。故高達之者，置之於度
+<lb ed="T" n="0860a21"/>外矣。唯<persName key="A008355">韶師</persName>默而識之，謂人曰：「<persName key="A013524">蘊公</persName>癡狂，
+<lb ed="T" n="0860a22"/><persName key="A008355">吾</persName>不測其邊際焉。」因有疾，求僧作懺悔文，
+<lb ed="T" n="0860a23"/>誦經及密呪各論幾百藏為度，方知其密
+<lb ed="T" n="0860a24"/>持之不懈。嘗謂道友曰：「<persName key="A013524">吾</persName>生無益於人，欲
+<lb ed="T" n="0860a25"/>投宴坐峯，不然石梁下，所願早預賢聖之
+<lb ed="T" n="0860a26"/>儔也。」其道友多沮其計。以<date key="j20766592076688" notAfter-iso="0973-09-04" notBefore-iso="0973-08-06">開寶六年七月</date>
+<lb ed="T" n="0860a27"/>內，無疾坐終，如入禪定。時炎蒸，停屍二
+<lb ed="T" n="0860a28"/>七日，身無欹側，竅無氣穢。及遷神座，就
+<lb ed="T" n="0860a29"/>寺之東隅闍維，煨燼中收舍利外，舌根不<pb ed="T" n="0860b" xml:id="T50.2061.0860b"/>
+<lb ed="T" n="0860b01"/>壞。灰寒拾之，如紅芙蕖色，柔軟可憐。或曰：
+<lb ed="T" n="0860b02"/>「伊僧別無奇異，此物偶存。」乃重燔爇其舌，
+<lb ed="T" n="0860b03"/>隨同火色，遲久還如蓮葉。遂議結小塔于
+<lb ed="T" n="0860b04"/>寺中緘藏。後有不信者重燒鍛，凡數十過
+<lb ed="T" n="0860b05"/>矣。<persName key="A013524">蘊</persName>生不言姓氏年齒，人以貌取之，則年
+<lb ed="T" n="0860b06"/>八十餘矣。</p>
+    <linkGrp>
+        <link targets="#0860a15 #0860a18"/>
+        <ptr target="#A013524" type="person"/>
+        <ptr target="#A008355" type="person"/>
+        <ptr target="#CN0430412M01AB" type="place"/>
+        <ptr target="#j20576132058534" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0860a18 #0860a18"/>
+        <ptr target="#A013524" type="person"/>
+        <ptr target="#A008355" type="person"/>
+        <ptr target="#CN0330000A17AA" type="place"/>
+    </linkGrp>
+</div>

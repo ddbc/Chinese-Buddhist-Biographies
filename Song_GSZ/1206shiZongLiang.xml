@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0881c15shiZongLiang">
+    <anchor n="T.50.2061.0881c15"/><head><date from-iso="0618-06-21" key="j19469512052491" to-iso="0907-06-06">唐</date>明州國寧寺<persName key="A007279">宗亮</persName>傳</head><p>
+<lb ed="T" n="0881c16"/><persName key="A007279">釋宗亮</persName>，姓馮氏，<placeName key="CN0330283Z12AA">奉化</placeName>人也。家傍月山<!--找不到此地-->而居，
+<lb ed="T" n="0881c17"/>後稱<persName key="A007279">月僧</persName>焉。<persName key="A007279">亮</persName><date key="j20264282027904" notAfter-iso="0840" notBefore-iso="0836">開成</date>中剃落納法，方事毘
+<lb ed="T" n="0881c18"/>尼，循于四儀，且無遺行。而云我生不辰，屬
+<lb ed="T" n="0881c19"/><date key="j20282682030170" notAfter-iso="0846" notBefore-iso="0841">會昌</date>之難，便隱家山<!--找不到此地-->深巖洞穴。<date key="j20304612035056" notAfter-iso="0859" notBefore-iso="0847">大中</date>再造，<placeName key="CN0330203T01AA">國
+<lb ed="T" n="0881c20"/>寧寺</placeName>徵選清高者隸名，<persName key="A007279">亮</persName>預住持。<placeName key="CN0350783Z24AA">建州</placeName>太
+<lb ed="T" n="0881c21"/>守<persName key="A013756">李頻</persName>為寺碑云：「於清心行不污者，得二
+<lb ed="T" n="0881c22"/>十八人，以補其員，廣住持也。律僧<persName key="A007279">宗亮</persName>、禪僧
+<lb ed="T" n="0881c23"/><persName key="A013757">全祐</persName>而已。」<placeName key="CN0330203T01AA">國寧</placeName>經藏，載加繕寫，躬求正本，
+<lb ed="T" n="0881c24"/>選紙墨，鳩聚嚫施，建造三門藏院諸功德
+<lb ed="T" n="0881c25"/>廊宇，皆<persName key="A007279">亮</persName>之力焉。晚年專事禪寂，不出寺
+<lb ed="T" n="0881c26"/>門。處士方干贈詩云：「秋水一泓常見底，㵎
+<lb ed="T" n="0881c27"/>松千尺不生枝。空門學佛知多少，剃盡心
+<lb ed="T" n="0881c28"/>華只有師。」終于<placeName key="CN0330203T01AA">本寺</placeName>，春秋八十。<persName key="A007279">亮</persName>恒與沙
+<lb ed="T" n="0881c29"/>門<persName key="A013758">貫霜</persName>、<persName key="A013759">棲<anchor xml:id="beg0881001"/>悟<anchor xml:id="end0881001"/></persName>、不吟數十人，皆秉執清奇，好<pb ed="T" n="0882a" xml:id="T50.2061.0882a"/>
+<lb ed="T" n="0882a01"/>迭為文會，結林下之交。撰嶽林寺碑、詩集
+<lb ed="T" n="0882a02"/>三百許首，讚頌並行于代。而於福敬二田，
+        <lb ed="T" n="0882a03"/>銳心彌厚焉。<persName key="A007279">亮</persName>為<persName key="A009976">江東生羅隱</persName>追慕，<placeName key="CN0331024Z08AA">樂安</placeName>
+<lb ed="T" n="0882a04"/><persName key="A013760">孫郃</persName>最加肯重，著《<placeName key="CN0330283Z01AA">四明郡</placeName>才名志序》，諸儒
+<lb ed="T" n="0882a05"/>駿士外，獨云：「<persName key="A007279">釋宗亮</persName>多為文士先達倣仰
+<lb ed="T" n="0882a06"/>焉。」</p>
+    <linkGrp>
+        <link targets="#0881c19 #0881c20"/>
+        <ptr target="#A007279" type="person"/>
+        <ptr target="#CN0330203T01AA" type="place"/>
+        <ptr target="#j20304612035056" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0881c20 #0881c23"/>
+        <ptr target="#A007279" type="person"/>
+        <ptr target="#A013756" type="person"/>
+        <ptr target="#CN0350783Z24AA" type="place"/>
+        <ptr target="#j20304612035056" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0881c28 #0882a01"/>
+        <ptr target="#A007279" type="person"/>
+        <ptr target="#A013758" type="person"/>
+        <ptr target="#A013759" type="person"/>
+    </linkGrp>
+</div>

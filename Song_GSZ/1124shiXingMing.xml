@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0857b19shiXingMing">
+    <anchor n="T.50.2061.0857b19"/><head><date from-iso="0618-06-21" key="j19469512052491" to-iso="0907-06-06">唐</date>南嶽蘭若<persName key="A009501">行明</persName>傳</head><p>
+        <lb ed="T" n="0857b20"/><persName key="A009501">釋行明</persName>，俗姓魯，<placeName key="CN0320503Z15AA">吳郡長洲</placeName>人也。幼從師于本
+<lb ed="T" n="0857b21"/>部，後遊方問道，然其耿介軒昂，嘯傲自放。
+<lb ed="T" n="0857b22"/>初歷<placeName key="CN0140900M01AA">五臺</placeName>、<placeName key="CN0511181M01AA">峨嵋</placeName>，禮金色銀二世界菩薩，皆
+<lb ed="T" n="0857b23"/>隨心應現。由此登<placeName key="CN0331023M01AA">天台</placeName>，陟<placeName key="CN0441322M01AA">羅浮</placeName>，入<placeName key="CN0430412M01AA">衡嶽</placeName>，
+<lb ed="T" n="0857b24"/>遊<placeName key="CN0510725Z08AA">梓潼</placeName>。屬唐季<placeName key="CN0430103A01AA">湘</placeName>之左右割裂爭尋，常
+<lb ed="T" n="0857b25"/>而未息，靡有寧歲。於是棲<placeName key="CN0430412M01AB">祝融峯</placeName>下，有
+<lb ed="T" n="0857b26"/>終焉之志。止<placeName key="CN0430412T14AA">七寶臺</placeName>，與<persName key="A010511">玄泰布納</persName>為交契。
+<lb ed="T" n="0857b27"/>其性之好惡，<persName key="A010511">泰</persName>亦罔抗其輕重焉。甞謂道
+<lb ed="T" n="0857b28"/>友曰：「<persName key="A010511">吾</persName>不願隨<persName key="A005296">僧崖</persName>焚之於木樓，不欲作
+<lb ed="T" n="0857b29"/><persName key="A006021">屈原</persName>葬之於魚腹。終誓投軀，學<persName key="A005335">薩埵太子</persName><pb ed="T" n="0857c" xml:id="T50.2061.0857c"/>
+<lb ed="T" n="0857c01"/>超多劫而成聖果，可不務乎？」屢屢言之，都
+<lb ed="T" n="0857c02"/>不之信。忽於林薄間，委身虓虎前，爭競食
+<lb ed="T" n="0857c03"/>之，須臾肉盡。時<persName key="A010511">泰公</persName>收其殘骼焚之，而獲
+<lb ed="T" n="0857c04"/>舍利。乃擷華酌水，為文祭之。辭中明其勇
+<lb ed="T" n="0857c05"/>猛，能捐內財，破慳法，成檀度，未捨、已捨、當
+<lb ed="T" n="0857c06"/>捨三輪頓空，取大果若俯拾芥焉。</p>
+    <p xml:id="pT50p0857c0701"><lb ed="T" n="0857c07"/>系曰：佛勅比丘施眾生食，二世順益，感果
+<lb ed="T" n="0857c08"/>非輕。若其<persName key="A009501">明公</persName>，成大檀度，遠慳貪也。成
+<lb ed="T" n="0857c09"/>大勇猛，得無畏也。成三輪空，無為功德也，
+<lb ed="T" n="0857c10"/>成難捨心，淨佛土也。一擲其軀，其利博哉！
+<lb ed="T" n="0857c11"/>譬猶善賞者費少而勸多，其是之謂乎？</p>
+    <linkGrp>
+        <link targets="#0857b22 #0857b23"/>
+        <ptr target="#A009501" type="person"/>
+        <ptr target="#CN0140900M01AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0857b22 #0857b23"/>
+        <ptr target="#A009501" type="person"/>
+        <ptr target="#CN0511181M01AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0857b22 #0857b24"/>
+        <ptr target="#A009501" type="person"/>
+        <ptr target="#CN0331023M01AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0857b22 #0857b24"/>
+        <ptr target="#A009501" type="person"/>
+        <ptr target="#CN0441322M01AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0857b22 #0857b24"/>
+        <ptr target="#A009501" type="person"/>
+        <ptr target="#CN0430412M01AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0857b22 #0857b24"/>
+        <ptr target="#A009501" type="person"/>
+        <ptr target="#CN0510725Z08AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0857b25 #0857b26"/>
+        <ptr target="#A009501" type="person"/>
+        <ptr target="#CN0430412M01AB" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0857b25 #0857b26"/>
+        <ptr target="#A009501" type="person"/>
+        <ptr target="#A010511" type="person"/>
+        <ptr target="#CN0430412T14AA" type="place"/>
+    </linkGrp>
+</div>

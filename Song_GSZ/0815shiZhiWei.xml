@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0739a21shiZhiWei">
+    <anchor n="T.50.2061.0739a21"/><head><date from-iso="0618-06-21" key="j19469512052491" to-iso="0907-06-06">唐</date><placeName key="CN0330621T02AA">處州法華寺</placeName><persName key="A001263">智威</persName>傳（<persName key="A009596">慧威</persName>）</head><p>
+<lb ed="T" n="0739a22"/><persName key="A001263">釋智威</persName>，姓蔣氏，<placeName key="CN0331122Z09AA">縉雲</placeName>人也。頴脫塵蒙，心遊
+<lb ed="T" n="0739a23"/>物表，少事師于軒轅氏鍊丹山。聞天台宗教
+        <lb ed="T" n="0739a24"/>盛，遂負笈往<placeName key="CN0330624T05AA">沃洲石城寺</placeName>，親<persName key="A004896">灌頂禪師</persName>求
+<lb ed="T" n="0739a25"/>請心要。既而得一融道，體二居宗，定慧方
+<lb ed="T" n="0739a26"/>均，寂照相半，雖云自了，急在利他。天與多
+<lb ed="T" n="0739a27"/>能，富有辭藻，著《桃巖寺碑》，與《頭陀寺碑》氣
+<lb ed="T" n="0739a28"/>度相<anchor xml:id="beg0739001"/>表<anchor xml:id="end0739001"/>。後以法眼付授<persName key="A009596">慧威</persName>焉。時傳<persName key="A001263">威</persName>是
+<lb ed="T" n="0739a29"/><persName key="A004803">徐陵</persName>後身，其利智雄才，斷可知矣。又<persName key="A009596">釋慧威</persName>，<pb ed="T" n="0739b" xml:id="T50.2061.0739b"/>
+<lb ed="T" n="0739b01"/>姓留氏，<placeName key="CN0330783Z08AA">東陽</placeName>人也。<anchor xml:id="beg0739002"/>總<anchor xml:id="end0739002"/>角之年，露其舊習，抉
+<lb ed="T" n="0739b02"/>開愛網。徑入空門，不滯一方，仍參三益。
+<lb ed="T" n="0739b03"/>聞<persName key="A001263">縉雲大威禪師</persName>盛行禪法，裹足造焉。刻
+<lb ed="T" n="0739b04"/>志忘勞，覩威牆奧。一日千里，罔不推稱，至
+<lb ed="T" n="0739b05"/>有成業，時謂<persName key="A009596">小威</persName>。然其樂靜居山，罕交
+<lb ed="T" n="0739b06"/>人事。指教門人，不少傑出者，<persName key="A009605">左溪玄朗</persName>矣。<persName key="A009596">威</persName>
+<lb ed="T" n="0739b07"/>常修止觀，匪棄光陰，說與行而並馳，語將
+<lb ed="T" n="0739b08"/>默而齊貫，落落然汪汪然，人無得名焉。</p>
+    <linkGrp>
+        <link targets="#0739a22 #0739a22"/>
+        <ptr target="#A001263" type="person"/>
+        <ptr target="#CN0331122Z09AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0739a23 #0739a25"/>
+        <ptr target="#A001263" type="person"/>
+        <ptr target="#A004896" type="person"/>
+        <ptr target="#CN0330624T05AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0739a28 #0739a28"/>
+        <ptr target="#A001263" type="person"/>
+        <ptr target="#A009596" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0739a29 #0739b01"/>
+        <ptr target="#A009596" type="person"/>
+        <ptr target="#CN0330783Z08AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0739b03 #0739b03"/>
+        <ptr target="#A001263" type="person"/>
+        <ptr target="#A009596" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0739b06 #0739b06"/>
+        <ptr target="#A009605" type="person"/>
+        <ptr target="#A009596" type="person"/>
+    </linkGrp>
+</div>

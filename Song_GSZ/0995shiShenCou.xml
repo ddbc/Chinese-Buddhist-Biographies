@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0807a23shiShenCou">
+    <anchor n="T.50.2061.0807a23"/><head><date from-iso="0618-06-21" key="j19469512052491" to-iso="0907-06-06">唐</date>江州興果寺<persName key="A011324">神湊</persName>傳</head><p>
+        <lb ed="T" n="0807a24"/><persName key="A011324">釋神湊</persName>，姓成氏，<placeName key="CN0610122Z09AA">京兆藍田</placeName>人也。生而奇秀，丱
+<lb ed="T" n="0807a25"/>角出塵，遠慕戒律，祈<placeName key="CN0430412M01AA">南嶽</placeName><persName key="A010470">希操師</persName>受具，復
+<lb ed="T" n="0807a26"/>參<placeName key="CN0360103Z26AA">鐘陵</placeName><persName key="A003623">大寂禪師</persName>。然則志在《楞嚴經》，行在
+<lb ed="T" n="0807a27"/>《四分律》，其他諸教，餘力則通。<date from-iso="0773-02-01" key="j20034242003806" to-iso="0774-02-18">大曆八年</date>，制懸
+<lb ed="T" n="0807a28"/>經、論、律三科，策試天下出家者，中等第方
+<lb ed="T" n="0807a29"/>度。<persName key="A011324">湊</persName>應是選，詔配九江<placeName key="CN0360403T05AA">興果精舍</placeName>。後從僧<pb ed="T" n="0807b" xml:id="T50.2061.0807b"/>
+<lb ed="T" n="0807b01"/>望移居<placeName key="CN0360402T13AA">東林寺</placeName>，即<persName key="A001204">雁門賈遠</persName>之舊道場也，
+<lb ed="T" n="0807b02"/>有甘露戒壇、白蓮池在焉。既居是，嗣興佛
+<lb ed="T" n="0807b03"/>事，雖經論資神，終研律成務。<persName key="A011324">湊</persName>羸瘠，視之
+<lb ed="T" n="0807b04"/>頹然，州將門人醫療，而不願進藥。<date from-iso="0817-10-18" key="j20197542019783" to-iso="0817-11-16">元和十
+<lb ed="T" n="0807b05"/>二年九月</date>遘疾，<date key="j20197792019779" when-iso="0817-11-12">二十六日</date>儼然坐終于<placeName key="CN0360402T13AA">寺</placeName>。<date key="j20198022019802" when-iso="0817-12-05">十
+<lb ed="T" n="0807b06"/>月十九日</date>，門人奉全身窆于寺西道北，祔
+<lb ed="T" n="0807b07"/><persName key="A001204">雁門</persName>墳左，若<persName key="A002231">僧詮</persName>葬近<persName key="A002920">郭文</persName>之墓也。春秋
+<lb ed="T" n="0807b08"/>七十四，夏臘五十一。<persName key="A011324">湊</persName>以精進心脂不退
+<lb ed="T" n="0807b09"/>輪，以勇健力撾無畏鼓，故登壇秉法垂三
+<lb ed="T" n="0807b10"/>十年。一盂而食，一榻而居，衣縫枲麻，坐薦
+<lb ed="T" n="0807b11"/><g ref="#CB06224">藳</g>秸。由茲檀施臻集于躬，即迴入常住無
+<lb ed="T" n="0807b12"/>盡財中，與眾共之。每夜捧鑪秉燭，行道禮
+<lb ed="T" n="0807b13"/>佛，徇十二時，少有廢闕，如是經四十五
+<lb ed="T" n="0807b14"/>載。生常遇<persName key="A004029">白樂天</persName>為典午于郡相善，及終，
+<lb ed="T" n="0807b15"/>悲悼，作《塔銘》云：「本結菩提香火社，共嫌煩
+<lb ed="T" n="0807b16"/>惱電泡身，不須惆悵隨師去，先請西方作
+<lb ed="T" n="0807b17"/>主人。」</p>
+    <linkGrp>
+        <link targets="#0807a24 #0807a25"/>
+        <ptr target="#A011324" type="person"/>
+        <ptr target="#A010470" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0807a26 #0807a27"/>
+        <ptr target="#A011324" type="person"/>
+        <ptr target="#A003623" type="person"/>
+        <ptr target="#CN0360103Z26AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0807a27 #0807a29"/>
+        <ptr target="#A011324" type="person"/>
+        <ptr target="#CN0360403T05AA" type="place"/>
+        <ptr target="#j20034242003806" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0807a29 #0807b02"/>
+        <ptr target="#A011324" type="person"/>
+        <ptr target="#CN0360402T13AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0807b04 #0807b05"/>
+        <ptr target="#A011324" type="person"/>
+        <ptr target="#CN0360402T13AA" type="place"/>
+        <ptr target="#j20197792019779" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0807b14 #0807b14"/>
+        <ptr target="#A011324" type="person"/>
+        <ptr target="#A004029" type="person"/>
+    </linkGrp>
+</div>

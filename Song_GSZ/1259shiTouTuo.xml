@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0895c03shiTouTuo">
+    <anchor n="T.50.2061.0895c03"/><head><date from-iso="0618-06-21" key="j19469512052491" to-iso="0907-06-06">唐</date>鎮州龍興寺<persName key="A008818">頭陀</persName>傳</head><p>
+<lb ed="T" n="0895c04"/><persName key="A008818">釋頭陀</persName>，本下野磨家之子，然其器度溫潤，若
+<lb ed="T" n="0895c05"/>長者之規。厥父課令其守磨，夜深憫驢牛
+<lb ed="T" n="0895c06"/>之困憊，自己代之。放其畜嚙草飲水歇臥
+<lb ed="T" n="0895c07"/>者。父母知之，為其罷業。<persName key="A008818">兒</persName>亦乞出家，遂落
+<lb ed="T" n="0895c08"/>髮受具。持無嗔怒，唯收拾糞掃物為衣，可
+<lb ed="T" n="0895c09"/>重數斤。臥具三十年未嘗更易。苦節之行，無
+<lb ed="T" n="0895c10"/>有倫比，<placeName key="CN0130123Z16AA">真定</placeName>之民重之。而不受人供施，
+<lb ed="T" n="0895c11"/>號<persName key="A008818">抖擻上人</persName>焉。</p>
+    <p xml:id="pT50p0895c1201"><lb ed="T" n="0895c12"/>系曰：糞掃衣者，四聖種之一也。凡修<anchor xml:id="beg0895003"/>鍊<anchor xml:id="end0895003"/>者
+<lb ed="T" n="0895c13"/>必願成此行，奈何少堪任之！其勝之者。勇
+<lb ed="T" n="0895c14"/>猛堪能之人也。</p>
+    <linkGrp>
+        <link targets="#0895c09 #0895c10"/>
+        <ptr target="#A008818" type="person"/>
+        <ptr target="#CN0130123Z16AA" type="place"/>
+    </linkGrp>
+</div>

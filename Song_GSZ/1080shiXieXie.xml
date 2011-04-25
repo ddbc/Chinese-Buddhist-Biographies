@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0841b20shiXieXie">
+    <anchor n="T.50.2061.0841b20"/><head><date from-iso="0618-06-21" key="j19469512052491" to-iso="0907-06-06">唐</date>江陵府<persName key="A012750">些些</persName>傳（<persName key="A012752">食油師</persName>）</head><p>
+<lb ed="T" n="0841b21"/><persName key="A012750">釋些些師</persName>，又名<persName key="A012750">青者</persName>，蓋是不與人交狎，口
+<lb ed="T" n="0841b22"/>自言些些，故號之矣。<date from-iso="0780" key="j20059942015139" to-iso="0805">德宗朝</date>，於<placeName key="CN0421003Z01AA">渚宮</placeName>游，衣
+        <lb ed="T" n="0841b23"/>服零落，狀極憨癡，而善歌《河滿子》<note resp="sgsz">宋．葛立方《韻語陽秋．卷十五》：「<persName key="A004029">白樂天</persName>云：『《河滿子》，開元中滄州歌者臨刑進此曲以贖死，竟不得免。』<persName key="A004029">白樂天</persName>為詩曰：『世傳《滿子》是人名，臨就刑時曲始成，一曲四詞歌八疊，從頭便是斷腸聲。」</note>。縱肆所
+        <lb ed="T" n="0841b24"/>為，故無定檢。甞遇醉<persName key="A019452">伍伯</persName>，<persName key="A019452">伯</persName>於塗中辱
+<lb ed="T" n="0841b25"/>之，抑令唱歌。<persName key="A012750">些</persName>便揚音揭調，詞中皆<anchor xml:id="beg0841001"/>訐<anchor xml:id="end0841001"/>
+        <lb ed="T" n="0841b26"/><persName key="A019452">伍伯</persName>從前陰私惡迹，人所未聞事。<persName key="A019452">伍伯</persName>慚
+<lb ed="T" n="0841b27"/>惶，旁聽之者知是聖僧，拜跪悔過焉。<date from-iso="0785" key="j20078242009652" to-iso="0790">貞元
+<lb ed="T" n="0841b28"/>初</date>，多入市肆，聚群小隨逐，<placeName key="CN0400000E02AA">楚</placeName>人以興笑本
+<lb ed="T" n="0841b29"/>矣。後不測其終。次有<persName key="A012752">僧</persName>憨狂，遊行無度。每<pb ed="T" n="0841c" xml:id="T50.2061.0841c"/>
+        <lb ed="T" n="0841c01"/>斷中<note resp="sgsz">因沙門持過午不食戒，故「斷中」引申為食時。《中阿含經．卷五十》：「然我等於<persName key="A002799">世尊</persName>威神妙德敬重不堪，是故我等斷中後食。」 (cf. 中阿含經<ref>CBETA, T01, no. 0026, p. 741, a19</ref>)</note>，唯食麻油幾升。如見巨器盛施之，則
+<lb ed="T" n="0841c02"/>喜。<placeName key="CN0421003Z07AA">荊</placeName><placeName key="CN0421003Z01AA">渚</placeName>一家特召啜麻膏，是日又在<placeName key="CN0430103A01AA">湖南</placeName>
+<lb ed="T" n="0841c03"/>齋，分身應供號<persName key="A012752">食油師</persName>焉。</p>
+    <p xml:id="pT50p0841c0401"><lb ed="T" n="0841c04"/>系曰：<persName key="A012750">些</persName>之聲為商為羽耶？通曰：「傳家<app type="cb-app" xml:id="begd1e36213"/>采<anchor xml:id="endd1e36213"/>錄，
+<lb ed="T" n="0841c05"/>其例有二：一則按文不音，二則口授知韻。
+<lb ed="T" n="0841c06"/>今得<persName key="A012750"><anchor xml:id="beg0841002"/>些<anchor xml:id="end0841002"/></persName>者，按文也。若<placeName key="CN0400000E02AA">楚</placeName>詞聲餘則蘇箇切
+<lb ed="T" n="0841c07"/>也，若山東言少，則寫邪切焉。此師<placeName key="CN0400000E02AA">荊楚</placeName>間事
+<lb ed="T" n="0841c08"/>也，其二音以聽來教，<persName key="A012750">些</persName>名同鳥獸之自呼
+<lb ed="T" n="0841c09"/>也。</p>
+    <linkGrp>
+        <link targets="#0841b22 #0841b27"/>
+        <ptr target="#A012750" type="person"/>
+        <ptr target="#A019452" type="person"/>
+        <ptr target="#CN0421003Z01AA" type="place"/>
+        <ptr target="#j20059942015139" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0841c02 #0841c03"/>
+        <ptr target="#A012752" type="person"/>
+        <ptr target="#CN0421003Z07AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0841c02 #0841c03"/>
+        <ptr target="#A012752" type="person"/>
+        <ptr target="#CN0421003Z01AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0841c02 #0841c03"/>
+        <ptr target="#A012752" type="person"/>
+        <ptr target="#CN0430103A01AA" type="place"/>
+    </linkGrp>
+</div>

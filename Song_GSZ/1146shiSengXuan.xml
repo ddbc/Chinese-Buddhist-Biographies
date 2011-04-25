@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0863b21shiSengXuan">
+    <anchor n="T.50.2061.0863b21"/><head><date from-iso="0618-06-21" key="j19469512052491" to-iso="0907-06-06">唐</date>河東<persName key="A011852">僧衒</persName>傳（<persName key="A011815">啟芳</persName> <persName key="A012468">圓果</persName>）</head><p>
+<lb ed="T" n="0863b22"/><persName key="A011852">釋僧衒</persName>，<placeName key="CN0140110Z03AA">并州</placeName>人也。本學該通，解行相副。年九
+<lb ed="T" n="0863b23"/>十六，遇<persName key="A001547">道綽禪師</persName>著安樂集講觀經，始迴
+<lb ed="T" n="0863b24"/>心念佛。恐壽將終，日夜禮佛一千拜，念
+<lb ed="T" n="0863b25"/>彌陀佛八百萬遍。於五年間，一心無怠。大
+        <lb ed="T" n="0863b26"/>漸，告弟子曰：「<persName key="A002843">阿彌陀佛</persName>來授<persName key="A011852">我</persName>香衣，<persName key="A002803">觀音</persName>、
+<lb ed="T" n="0863b27"/><persName key="A006106">勢至</persName>行列在前，化佛遍滿虛空。從此西去，
+<lb ed="T" n="0863b28"/>純是淨土。」言訖而終。時有<persName key="A011815">啟芳法師</persName>、<persName key="A012468">圓果法
+<lb ed="T" n="0863b29"/>師</persName>於藍田縣<placeName key="CN0610122T01AA">悟真寺</placeName>一夏結契，念阿彌陀佛，<pb ed="T" n="0863c" xml:id="T50.2061.0863c"/>
+<lb ed="T" n="0863c01"/>共折一楊枝於<persName key="A002803">觀音</persName>手中，誓曰：「若得生佛
+<lb ed="T" n="0863c02"/>土者，願七日不萎。」至期鮮翠也。又夢在大
+<lb ed="T" n="0863c03"/>池內東面有大寶帳，乃飛入其中，見僧云
+<lb ed="T" n="0863c04"/>「但專念佛，並生此也。」又見<persName key="A002803">觀音</persName>垂脚而坐。
+<lb ed="T" n="0863c05"/><persName key="A011815">啟芳</persName>奉足頂戴，見一池蓮華，<persName key="A002843">彌陀佛</persName>從西而
+<lb ed="T" n="0863c06"/>來。<persName key="A011815">芳</persName>問<persName key="A002843">佛</persName>曰：「閻浮眾生依經念佛，得生此
+<lb ed="T" n="0863c07"/>否？」<persName key="A002843">佛</persName>言：「勿疑，定生我國也。」且見極樂世界
+<lb ed="T" n="0863c08"/>平坦如鑑，娑婆世界純是山川。音樂寶帳，直
+<lb ed="T" n="0863c09"/>西而去。有一僧名<persName key="A013544">法藏</persName>，御一大車來迎。<persName key="A011815">芳</persName>
+<lb ed="T" n="0863c10"/>見自身坐百寶蓮華，成等正覺，<persName key="A002843">釋迦牟尼
+<lb ed="T" n="0863c11"/>佛</persName>與<persName key="A002144">文殊</persName>讚法華經。復見三道寶階向西
+<lb ed="T" n="0863c12"/>直往，第一道階上並是白衣，第二階有道俗
+<lb ed="T" n="0863c13"/>相參，第三階唯有僧也，云皆是念佛人往生
+<lb ed="T" n="0863c14"/>矣。<persName key="A011815">芳</persName>、<persName key="A012468">果</persName>二師躬云己見云。</p>
+    <linkGrp>
+        <link targets="#0863b22 #0863b23"/>
+        <ptr target="#A011852" type="person"/>
+        <ptr target="#CN0140110Z03AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0863b22 #0863b24"/>
+        <ptr target="#A011852" type="person"/>
+        <ptr target="#A001547" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0863b28 #0863b29"/>
+        <ptr target="#A011815" type="person"/>
+        <ptr target="#A012468" type="person"/>
+        <ptr target="#CN0610122T01AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0863c09 #0863c14"/>
+        <ptr target="#A011815" type="person"/>
+        <ptr target="#A013544" type="person"/>
+    </linkGrp>
+</div>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0897c01shiZhiXuan">
+    <anchor n="T.50.2061.0897c01"/><head><date from-iso="0907-06-10" key="j20524952058534" to-iso="0923-12-22">梁</date>泉州<persName key="A008810">智宣</persName>傳</head><p>
+<lb ed="T" n="0897c02"/><persName key="A008810">釋智宣</persName>，<placeName key="CN0350503Z11AA">泉州</placeName>人也。壯歲慕法，學<persName key="A001470">義淨</persName>之為
+<lb ed="T" n="0897c03"/>人也。輕生誓死，欲遊<placeName key="WW142XIYUE01AA">西域</placeName>，禮佛八塔，并
+<lb ed="T" n="0897c04"/>求此方未流經法。以唐季結侶渡流沙，所
+<lb ed="T" n="0897c05"/>至國土，懷古尋師，好奇徇異，聚梵夾，求
+<lb ed="T" n="0897c06"/>舍利。<date key="j20525042052532" notAfter-iso="0907-07-17" notBefore-iso="0907-06-19">開平元年五月</date>中達今<placeName key="CN0410224Z42AA">東京</placeName>，進辟支佛
+<lb ed="T" n="0897c07"/>骨并梵書多羅葉夾經律。<persName key="A008810">宣</persName>壯歲而往，還已
+<lb ed="T" n="0897c08"/>衰耄矣。<persName key="A002656">梁太祖</persName>新革唐命，聞<persName key="A008810">宣</persName>迴，大悅，宣
+<lb ed="T" n="0897c09"/>賜分物，請譯將歸夾葉。于時干戈，不遑此
+<lb ed="T" n="0897c10"/>務也。</p>
+    <linkGrp>
+        <link targets="#0897c03 #0897c06"/>
+        <ptr target="#A008810" type="person"/>
+        <ptr target="#WW142XIYUE01AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0897c06 #0897c10"/>
+        <ptr target="#A008810" type="person"/>
+        <ptr target="#A002656" type="person"/>
+        <ptr target="#CN0410224Z42AA" type="place"/>
+        <ptr target="#j20525042052532" type="time"/>
+    </linkGrp>
+</div>

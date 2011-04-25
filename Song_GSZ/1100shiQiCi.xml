@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0848b23shiQiCi">
+    <anchor n="T.50.2061.0848b23"/><head><date from-iso="0618-06-21" key="j19469512052491" to-iso="0907-06-06">唐</date>明州奉化縣<persName key="A012858">契此</persName>傳</head><p>
+<lb ed="T" n="0848b24"/><persName key="A012858">釋契此</persName>者，不詳氏族，或云<placeName key="CN0330283Z01AA">四明</placeName>人也。形裁
+<lb ed="T" n="0848b25"/>腲脮，蹙頞皤腹，言語無恒，寢臥隨處。常以
+<lb ed="T" n="0848b26"/>杖荷布囊入鄽肆，見物則乞，至于醯醬魚
+<lb ed="T" n="0848b27"/>𦵔，纔接入口，分少許入囊，號為<persName key="A012858">長汀子
+<lb ed="T" n="0848b28"/>布袋師</persName>也。曾於雪中臥，而身上無雪，人以
+<lb ed="T" n="0848b29"/>此奇之。有偈云：「<persName key="A001428">彌勒</persName>真<persName key="A001428">彌勒</persName>。」時人皆不識<pb ed="T" n="0848c" xml:id="T50.2061.0848c"/>
+        <lb ed="T" n="0848c01"/>等句。人言<persName key="A001428">慈氏</persName>垂迹也。又於大橋上立，或
+        <lb ed="T" n="0848c02"/>問：「<ref type="person" target="#A012858">和尚</ref>在此何為？」曰：「<ref type="person" target="#A012858">我</ref>在此覓人。」常就人
+<lb ed="T" n="0848c03"/>乞啜，其店則物售。袋囊中皆百一供身具也。
+<lb ed="T" n="0848c04"/>示人吉凶，必現相表兆。亢陽，即曳高齒木
+<lb ed="T" n="0848c05"/>屐，市橋上竪膝而眠。水潦，則係<anchor xml:id="beg0848002"/>濕<anchor xml:id="end0848002"/>草屨。人
+<lb ed="T" n="0848c06"/>以此驗知。以<date from-iso="0901" key="j20502812051391" to-iso="0904">天復</date>中終于<placeName key="CN0330283Z12AA">奉川</placeName>，鄉邑共埋
+        <lb ed="T" n="0848c07"/>之。後有他州見<ref type="person" target="#A012858">此公</ref>，亦荷布袋行。<ref type="place" target="#CN0320503Z14AA #CN0360103Z25AA">江</ref>、<ref type="place" target="#CN0330000E06AA #CN0300000E11AA">浙</ref>之
+<lb ed="T" n="0848c08"/>間多圖畫其像焉。</p>
+    <linkGrp>
+        <link targets="#0848c06 #0848c07"/>
+        <ptr target="#A012858" type="person"/>
+        <ptr target="#CN0330283Z12AA" type="place"/>
+        <ptr target="#j20502812051391" type="time"/>
+    </linkGrp>
+</div>

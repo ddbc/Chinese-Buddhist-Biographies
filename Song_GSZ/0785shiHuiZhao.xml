@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0728c01shiHuiZhao">
+    <anchor n="T.50.2061.0728c01"/><head><date from-iso="0618-06-21" key="j19469512052491" to-iso="0907-06-06">唐</date>淄州<persName key="A001708">慧沼</persName>傳（<persName key="A009215">大願</persName> <persName key="A009083">塵外</persName>）</head><p>
+        <lb ed="T" n="0728c02"/><persName key="A001708">釋慧沼</persName>，不知何許人也。<note resp="sgsz">另見李邕著《唐故白馬寺主翻譯惠沼神塔碑銘并序》，收在《玄奘三藏師資傳叢書》 XZJ, v.150.90b. 據此，「和上諱玄。字惠沼。俗姓劉氏。彭城人也。」</note>少而警慧，始預青
+        <lb ed="T" n="0728c03"/>衿，依于庠序，誦習該通。入法<anchor xml:id="beg0728c03-01"/>修<anchor xml:id="end0728c03-01"/>身，不違戒
+        <lb ed="T" n="0728c04"/>範，乃被時諺<persName key="A001708">沼闍<anchor xml:id="beg0728c04-01"/>梨<anchor xml:id="end0728c04-01"/></persName>焉。次攻堅于經論，善
+        <lb ed="T" n="0728c05"/>達翻傳。自<persName key="A000294">奘三藏</persName>到<placeName key="CN0610102Z07AA">京</placeName>，恒窺壼<anchor xml:id="beg0728c05-01"/>奧<anchor xml:id="end0728c05-01"/>。後親<persName key="A001019">大
+            <lb ed="T" n="0728c06"/>乘基師</persName>，更加精博。及<persName key="A001358">菩提流志</persName>於<placeName key="CN0610104T33AA">崇福寺</placeName>
+        <lb ed="T" n="0728c07"/>譯《大寶積經》<note resp="sgsz"> 大寶積經<ref>T.310</ref></note>，<persName key="A001708">沼</persName>預其選，充證義，<placeName key="KR0000000E03AA">新羅</placeName><persName key="A001179">勝莊
+<lb ed="T" n="0728c08"/>法師</persName>執筆，沙門<persName key="A009215">大願</persName>、<persName key="A009083">塵外</persName>皆一時英秀，當代
+<lb ed="T" n="0728c09"/>象龍。于時<persName key="A009217">武平一</persName>充使，<persName key="A002111">盧藏用</persName>、<persName key="A009218">陸景初</persName>總
+<lb ed="T" n="0728c10"/>預斯場。中書侍郎<persName key="A002459">崔湜</persName>因行香至翻經院，
+<lb ed="T" n="0728c11"/>歎曰：「清流盡在此矣，豈應見隔？」因奏請乞
+<lb ed="T" n="0728c12"/>同潤色新經。初，<persName key="A001708">沼</persName>證義於<persName key="A001470">義淨</persName>譯場，多所
+<lb ed="T" n="0728c13"/>刊正，訛言舛義，悉從指定，無敢踰制。後著
+<lb ed="T" n="0728c14"/>諸《疏義》，號<persName key="A001708">淄州沼</persName>也。</p>
+    <linkGrp>
+        <link targets="#0728c05 #0728c05"/>
+        <ptr target="#A001708" type="person"/>
+        <ptr target="#A000294" type="person"/>
+        <ptr target="#CN0610102Z07AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0728c05 #0728c06"/>
+        <ptr target="#A001708" type="person"/>
+        <ptr target="#A001019" type="person"/>
+        <ptr target="#CN0610102Z07AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0728c06 #0728c12"/>
+        <ptr target="#A001708" type="person"/>
+        <ptr target="#A001358" type="person"/>
+        <ptr target="#A001179" type="person"/>
+        <ptr target="#A009215" type="person"/>
+        <ptr target="#A009083" type="person"/>
+        <ptr target="#A009217" type="person"/>
+        <ptr target="#A002111" type="person"/>
+        <ptr target="#A009218" type="person"/>
+        <ptr target="#A002459" type="person"/>
+        <ptr target="#CN0610104T33AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0728c12 #0728c14"/>
+        <ptr target="#A001708" type="person"/>
+        <ptr target="#A001470" type="person"/>
+    </linkGrp>
+    <p>
+        <app from="beg0728c03-01">
+            <lem wit="【大】">修</lem>
+            <rdg resp="sgsz" wit="【磧】">脩</rdg>
+        </app>
+        <app from="beg0728c04-01">
+            <lem wit="【大】">梨</lem>
+            <rdg resp="sgsz" wit="【磧】">黎</rdg>
+        </app>
+        <app from="beg0728c05-01">
+            <lem wit="【大】">奧</lem>
+            <rdg resp="sgsz" wit="【磧】">奥</rdg>
+        </app>
+    </p>
+</div>

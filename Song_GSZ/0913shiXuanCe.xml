@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0777c13shiXuanCe">
+    <anchor n="T.50.2061.0777b16"/><head><date from-iso="0618-06-21" key="j19469512052491" to-iso="0907-06-06">唐</date>黃州九井<persName key="A010534">玄策</persName>傳</head><p>
+<lb ed="T" n="0777c13"/><persName key="A010534">釋玄策</persName>，俗姓魯，<placeName key="CN0330602Z02AA">會稽</placeName>人也。幼隨父商估，赴
+<lb ed="T" n="0777c14"/><placeName key="CN0331023M01AA">天台山</placeName>光明會，乃隋朝<persName key="A001301">智顗禪師</persName>立教，年別
+<lb ed="T" n="0777c15"/>九月。遠近州邑黑白二眾鳩聚。<persName key="A010534">策</persName>覩殊異，遂
+<lb ed="T" n="0777c16"/><app type="multiplier" xml:id="begd1e18733"/>于<anchor xml:id="endd1e18733"/><placeName key="CN0331023T06AA">禪林寺</placeName><persName key="A010536">智廣師</persName>下出家。遊方見<persName key="A003623">江西大
+<lb ed="T" n="0777c17"/>寂</persName>，頓開翳障。及遍參問，覩黃陂<placeName key="CN0420116M01AA">九井山</placeName>奇
+<lb ed="T" n="0777c18"/>秀，乃結茅為舍，學侶若蟬之走明也。或慰
+<lb ed="T" n="0777c19"/><persName key="A010534">策</persName>曰：「<persName key="A010534">師</persName>之耐寂<anchor xml:id="beg0777004"/>寞<anchor xml:id="end0777004"/>如此乎？」<persName key="A010534">策</persName>曰：「致道者
+<lb ed="T" n="0777c20"/>忘心矣，<persName key="A010534">吾</persName>樂甚哉。」以<date from-iso="0854-02-05" key="j20330132033367" to-iso="0855-01-25">大中八年</date>現疾而滅。
+<lb ed="T" n="0777c21"/>續勅<app type="cb-app" xml:id="begd1e18762"/>諡<anchor xml:id="endd1e18762"/>大師曰<persName key="A010534">圓寂</persName>，塔名智覺焉。</p>
+    <linkGrp>
+        <link targets="#0777c13 #0777c14"/>
+        <ptr target="#A010534" type="person"/>
+        <ptr target="#CN0331023M01AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0777c15 #0777c16"/>
+        <ptr target="#A010534" type="person"/>
+        <ptr target="#A010536" type="person"/>
+        <ptr target="#CN0331023T06AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0777c16 #0777c17"/>
+        <ptr target="#A010534" type="person"/>
+        <ptr target="#A003623" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0777c17 #0777c18"/>
+        <ptr target="#A010534" type="person"/>
+        <ptr target="#CN0420116M01AA" type="place"/>
+    </linkGrp>
+</div>

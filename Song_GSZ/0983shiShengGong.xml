@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0802b25shiShengGong">
+    <anchor n="T.50.2061.0802b25"/><head><date from-iso="0618-06-21" key="j19469512052491" to-iso="0907-06-06">唐</date>揚州慧照寺<persName key="A011073">省躬</persName>傳</head><p>
+        <lb ed="T" n="0802b26"/><persName key="A011073">釋省躬</persName>，<placeName key="CN0330122Z20AA">睦州桐廬</placeName>人也。為童強識，耆宿呼語，
+<lb ed="T" n="0802b27"/>怪其志大而言高。<anchor xml:id="beg0802002"/>每<anchor xml:id="end0802002"/>厭樊籠。忽投聖德寺<!--找不到此地-->
+<lb ed="T" n="0802b28"/>慕道從師，勅恩得度。性靈天發，於毘尼道，
+<lb ed="T" n="0802b29"/>學如溫習。復擇名師，得姑蘇開元<persName key="A011021">道恒師</persName>。<pb ed="T" n="0802c" xml:id="T50.2061.0802c"/>
+<lb ed="T" n="0802c01"/><persName key="A011021">恒</persName>曰：「甚矣<persName key="A011021">吾</persName>得<persName key="A011073">躬</persName>也，門人日益親。」及乎探
+<lb ed="T" n="0802c02"/>頤精微，愈征愈遠，時有擊論互指為迷者，
+<lb ed="T" n="0802c03"/>必請見<persName key="A011073">躬</persName>為其判之，坐分曲直。諺曰：「義
+<lb ed="T" n="0802c04"/>盡省<persName key="A011073">躬</persName>。」言到<persName key="A011073">躬</persName>義無不盡也。其博綜律乘，
+<lb ed="T" n="0802c05"/>扞禦師門也若此。<persName key="A011021">恒</persName>曰：「自<persName key="A011021">吾</persName>有<persName key="A011073">躬</persName>也，惡言
+<lb ed="T" n="0802c06"/>不聞矣。」<persName key="A011073">躬</persName>避席葉拱而對曰：「某不佞也，仰
+<lb ed="T" n="0802c07"/>師之道，若<anchor xml:id="beg0802003"/>採<anchor xml:id="end0802003"/>扶桑以啖𧔞蠶。所患者，未
+<lb ed="T" n="0802c08"/>能嘔繁絲以報主耳。」<persName key="A011021">恒</persName>曰：「視子吐園客
+<lb ed="T" n="0802c09"/>五色絲，可供黼繡之資。言太謙矣。」晚赴<placeName key="CN0321002Z02AA">維
+<lb ed="T" n="0802c10"/>揚</placeName>之召，廣訓徒焉。然其滿口雌黃，品藻否
+<lb ed="T" n="0802c11"/>臧古今之義。生徒明敏者各錄之。都加潤色，
+<lb ed="T" n="0802c12"/>號《順正記》十卷，行之。復著《分輕重物儀》別
+<lb ed="T" n="0802c13"/>行，沿襲《十三章門條例》，外加近世現有物之
+<lb ed="T" n="0802c14"/>重輕，頗為要用。<persName key="A011073">躬</persName>復高儒學，作碑頌越多，
+<lb ed="T" n="0802c15"/>以其曾化<anchor xml:id="beg0802004"/>邪<anchor xml:id="end0802004"/>溝，故呼<persName key="A011073">淮南記主</persName>，自號<persName key="A011073">清冷
+<lb ed="T" n="0802c16"/>山沙門</persName>焉。</p>
+    <linkGrp>
+        <link targets="#0802b29 #0802c01"/>
+        <ptr target="#A011073" type="person"/>
+        <ptr target="#A011021" type="person"/>
+        <ptr target="#CN0321002Z02AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0802c05 #0802c09"/>
+        <ptr target="#A011073" type="person"/>
+        <ptr target="#A011021" type="person"/>
+        <ptr target="#CN0321002Z02AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0802c09 #0802c10"/>
+        <ptr target="#A011073" type="person"/>
+        <ptr target="#CN0321002Z02AA" type="place"/>
+    </linkGrp>
+</div>

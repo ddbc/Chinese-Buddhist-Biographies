@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0739a06shiHuiYuan">
+    <anchor n="T.50.2061.0739a06"/><head><date from-iso="0618-06-21" key="j19469512052491" to-iso="0907-06-06">唐</date><placeName key="CN0410311T08AA">洛京佛授記寺</placeName><persName key="A001713">慧苑</persName>傳</head><p>
+<lb ed="T" n="0739a07"/><persName key="A001713">釋慧苑</persName>，<placeName key="CN0610102Z10AA">京兆</placeName>人也。少而秀異，蔚有茂才，厭
+<lb ed="T" n="0739a08"/>彼塵寰，投于淨域，禮華嚴<persName key="A002450">法藏</persName>為師。陶神
+<lb ed="T" n="0739a09"/>練性，未幾深達法義，號<persName key="A001713">上首門人</persName>也。有
+<lb ed="T" n="0739a10"/>勤無惰，內外該通，華嚴一宗，尤成精博。<persName key="A001713">苑</persName>
+<lb ed="T" n="0739a11"/>依《寶性論》立四種教，為有四類不識如來
+<lb ed="T" n="0739a12"/>藏，如生盲人，則凡夫、聲聞、辟支、初心菩薩也。
+<lb ed="T" n="0739a13"/>一迷真異執教，當凡夫；二真一分半教，當二
+<lb ed="T" n="0739a14"/>乘；三真一分滿教，當初心菩薩；四真具滿教，
+<lb ed="T" n="0739a15"/>當識如來藏者也。諸師處判，或依或違，然
+<lb ed="T" n="0739a16"/>其綱領教乘一家之說。次以新譯之經未有
+<lb ed="T" n="0739a17"/>音釋，披讀之者取決無從。遂博覽經書，恢
+<lb ed="T" n="0739a18"/>張詁訓，撰成二卷，俾初學之流不遠求師，
+        <lb ed="T" n="0739a19"/>覽無滯句，旋曉字源。然稟從<persName key="A002450">賢首</persName>之門，不
+<lb ed="T" n="0739a20"/>負庭訓之美也。</p>
+    <linkGrp>
+        <link targets="#0739a07 #0739a07"/>
+        <ptr target="#A001713" type="person"/>
+        <ptr target="#CN0610102Z10AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0739a07 #0739a07"/>
+        <ptr target="#A001713" type="person"/>
+        <ptr target="#A002450" type="person"/>
+    </linkGrp>
+</div>
