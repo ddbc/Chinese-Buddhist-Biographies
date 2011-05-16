@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0714b02shiShanWuWei">
-    <lb n="0714b02" ed="T"/><head><anchor xml:id="beg0714002"/>宋<anchor xml:id="end0714002"/>高僧傳卷第二</head>
+    <lb n="0714b02" ed="T"/><anchor n="T.50.2061.0714b02"/><head><anchor xml:id="beg0714002"/>宋<anchor xml:id="end0714002"/>高僧傳卷第二</head>
     <lb n="0714b03" ed="T"/>
     <lb n="0714b04" ed="T"/><byline n="Author"><anchor xml:id="beg0714003"/>宋左街天壽寺通慧大師
         <lb n="0714b05" ed="T"/>賜紫沙門贊寧等奉　勅撰<anchor xml:id="end0714003"/></byline>
-    <lb n="0714b06" ed="T"/><head>譯經篇第一之二<note place="inline">正傳十五人附見八人</note></head>
-    <lb ed="T" n="0714b07"/><anchor n="T.50.2061.0714b07"/><head><date from-iso="0618-06-21" key="j19469512052491" to-iso="0907-06-06">唐</date><placeName key="CN0410311T12AA">洛京聖善寺</placeName><persName key="A001342">善無畏</persName>傳（<persName key="A008849">達摩掬多</persName>）</head><p>
+    <lb n="0714b06" ed="T"/><head>譯經篇第一之二（正傳十五人附見八人）</head>
+    <lb ed="T" n="0714b07"/><head><date from-iso="0618-06-21" key="j19469512052491" to-iso="0907-06-06">唐</date><placeName key="CN0410311T12AA">洛京聖善寺</placeName><persName key="A001342">善無畏</persName>傳（<persName key="A008849">達摩掬多</persName>）</head><p>
 <lb ed="T" n="0714b08"/><persName key="A001342">釋善無畏</persName>，本<placeName key="IN0000000E02AA">中印度</placeName>人也，<persName key="A002799">釋迦如來</persName>季父<persName key="A002576">甘露
 <lb ed="T" n="0714b09"/>飯王</persName>之後，梵名<persName key="A001342">戍婆揭羅僧訶</persName>，華言<persName key="A001342">淨師子</persName>，
 <lb ed="T" n="0714b10"/>義翻為<persName key="A001342">善無畏</persName>；一云<persName key="A001342">輸波迦羅</persName>，此名<persName key="A001342">無畏</persName>，
@@ -47,7 +47,7 @@
         <lb ed="T" n="0714c17"/>一燈<note resp="sgsz">丁福保《佛學大辭典．一燈》：「以一燈明喻智慧破迷闇。華嚴經七十八曰：『譬如一燈入於暗室，百千年暗悉能破盡。』 」</note>而已。根殊性異，燈亦無邊。由是有百億
         <lb ed="T" n="0714c18"/>釋迦微塵三昧<note resp="sgsz">微塵，極微之微；三昧，心定一處。丁福保《佛學大辭典．微塵》：「色體之極少為極微，七倍極微，為微塵。七倍微塵，為金塵。金塵者，得遊履金中之間隙也。 」又《佛學大辭典．三昧》：「梵音samādhi，舊稱三昧，三摩提，三摩帝。譯言定，正受，調直定，正心行處，息慮凝心。心定於一處而不動，故曰定。」</note>，菩薩以綱<note resp="sgsz">案《善無畏三藏和尚碑銘并序》「綱 」作「金剛」(cf. <ref>CBETA, T50, no. 2055, p. 290, c26</ref>)。《佛光大辭典．金剛》頁3532：「梵語 vajra，巴利語 vajira。音譯作伐闍羅、跋闍羅、跋折羅、嚩日囉、伐折羅、跋日羅。即金中最剛之義。經論中常以金剛比喻武器及寶石，較常用於比喻武器。以金剛比喻武器，乃因其堅固、銳利，而能摧毀一切，且非萬物所能破壞。以金剛比喻寶石，及取其最勝之義。 」</note>總攝於諸定，頓
 <lb ed="T" n="0714c19"/>升階位，隣於大覺，此其旨也。于時<persName key="A001342">畏</persName>周行
-        <lb ed="T" n="0714c20"/>大荒<note resp="makita">荒遠之地。《山海經．卷十四．大荒東經》：「東海之外，大荒之中，有山名曰『大言』，日月所出。」</note>，遍<anchor corresp="#beg0712sgsz2"/>禮<anchor corresp="#end0712sgsz2"/>聖迹，不憚艱險。凡所履處，皆三
+        <lb ed="T" n="0714c20"/>大荒<note resp="makita">荒遠之地。《山海經．卷十四．大荒東經》：「東海之外，大荒之中，有山名曰『大言』，日月所出。」</note>，遍<anchor xml:id="beg0714sgsz2"/>禮<anchor xml:id="end0714sgsz2"/>聖迹，不憚艱險。凡所履處，皆三
         <lb ed="T" n="0714c21"/>返<note resp="sgsz">三次來回。《白虎通義．卷上．耕桑》：「天子耕東田，而三反之。」</note>焉。又入<placeName key="INBRGA000M02AA">雞足山</placeName>，為<persName key="A002188">迦葉</persName>剃頭<note resp="sgsz">案《摩訶摩耶經．卷下》：「<persName key="A002188">摩訶迦葉</persName>於<placeName key="INBRGA000M02AA">狼跡山</placeName>中入滅盡定。」</note>，受<persName key="A002803">觀音</persName>摩
         <lb ed="T" n="0714c22"/>頂。甞結夏<note resp="makita">即「坐夏」。</note>於<placeName key="INBRNL000M02AA">靈鷲</placeName>，有猛獸前導，深入山穴。
 <lb ed="T" n="0714c23"/>穴明如晝，見<ref target="#A002799" type="person">牟尼</ref>像，<ref target="#A002144 #A003079" type="person">左右侍者</ref>如生焉。時
@@ -77,7 +77,7 @@
         <lb ed="T" n="0715a18"/>耶？」言訖沖天，<persName key="A001342"><anchor xml:id="beg0715sgsz1"/>畏<anchor xml:id="end0715sgsz1"/></persName>洗然而愈。路出<placeName key="CN0540102E01AA">吐蕃</placeName>，與商
 <lb ed="T" n="0715a19"/>旅同次，胡人貪貨，率眾合圍，<persName key="A001342">畏</persName>密運心印，
 <lb ed="T" n="0715a20"/>而蕃豪請罪。至<placeName key="CN0000000E24AA">大唐</placeName>西境，夜有神人曰：「此
-        <lb ed="T" n="0715a21"/>東非弟子界也，<persName key="A002144">文殊師利</persName>實護<placeName key="CN0000000E01AA">神州</placeName>。」<anchor corresp="#beg0712sgsz2"/>禮<anchor corresp="#end0712sgsz2"/>足
+        <lb ed="T" n="0715a21"/>東非弟子界也，<persName key="A002144">文殊師利</persName>實護<placeName key="CN0000000E01AA">神州</placeName>。」<anchor xml:id="beg0715sgsz2"/>禮<anchor xml:id="end0715sgsz2"/>足
 <lb ed="T" n="0715a22"/>而滅，此亦猶<persName key="A002638">迦毘羅神</persName>送<persName key="A001786">連眉</persName>也。<persName key="A001342">畏</persName>以駝
 <lb ed="T" n="0715a23"/>負經，至<placeName key="CN0652101Z24AA">西州</placeName>，涉于河。龍陷駝足，沒于泉
 <lb ed="T" n="0715a24"/>下，<persName key="A001342">畏</persName>亦入泉。三日止住<placeName key="XZ0000001A01AA">龍宮</placeName>，宣揚法化，開
@@ -120,10 +120,10 @@
 <lb ed="T" n="0715c03"/>藏</persName>而已，此外皆行門人之禮焉。<persName key="A000008">一行禪師</persName>
         <lb ed="T" n="0715c04"/>者，帝王宗重，時賢所歸，定慧之餘，陰陽<note resp="sgsz">指古代有關日、月等天體運行規律之學。《後漢書．卷三十下》：「<persName key="A002494">張衡</persName>亦云：『天文歷數， 陰陽占候，今所宜急也。』」</note>之妙，
 <lb ed="T" n="0715c05"/>有所未決，亦咨稟而後行。<persName key="A001342">畏</persName>甞於本院鑄
-        <lb ed="T" n="0715c06"/>銅為塔，手成模範，妙出人天。寺眾以銷<anchor xml:id="beg0715sgsz2"/><corr>冶</corr><anchor xml:id="end0715sgsz2"/>
+        <lb ed="T" n="0715c06"/>銅為塔，手成模範，妙出人天。寺眾以銷<anchor xml:id="beg0715sgsz3"/><corr>冶</corr><anchor xml:id="end0715sgsz3"/>
 <lb ed="T" n="0715c07"/>至廣，庭除深隘，慮風至火盛，災延寶坊。<persName key="A001342">畏</persName>笑
 <lb ed="T" n="0715c08"/>曰：「無苦，自當知也。」鼓鑄之日，果大雪蔽空，
-        <lb ed="T" n="0715c09"/><anchor xml:id="beg0715sgsz3"/><corr>靈塔出鑪</corr><anchor xml:id="end0715sgsz3"/>，瑞花飄席，眾皆稱歎焉。又屬暑
+        <lb ed="T" n="0715c09"/><anchor xml:id="beg0715sgsz4"/><corr>靈塔出鑪</corr><anchor xml:id="end0715sgsz4"/>，瑞花飄席，眾皆稱歎焉。又屬暑
 <lb ed="T" n="0715c10"/>天亢旱，<ref target="#A000291" type="person">帝</ref>遣中官<persName key="A008712">高力士</persName>疾召<persName key="A001342">畏</persName>祈雨。<persName key="A001342">畏</persName>
 <lb ed="T" n="0715c11"/>曰：「今旱，數當然也，若苦召龍致雨，必暴，適
 <lb ed="T" n="0715c12"/>足所損，不可為也。」<ref target="#A000291" type="person">帝</ref>強之曰：「人苦暑病
@@ -145,7 +145,7 @@
 <lb ed="T" n="0715c28"/><persName key="A001519">宣</persName>捫蝨投于地，<persName key="A001342">畏</persName>連呼「<persName key="A001519">律師</persName>撲死佛子」。<persName key="A001519">宣</persName>
 <lb ed="T" n="0715c29"/>方知是大菩薩，詰旦攝衣作禮焉。若觀此<pb ed="T" n="0716a" xml:id="T50.2061.0716a"/>
 <lb ed="T" n="0716a01"/>說，<persName key="A001519">宣</persName>滅至<date from-iso="0713" key="j19818371992113" to-iso="0742">開元中</date>僅五十載矣，如<persName key="A001342">畏</persName>出沒
-        <lb ed="T" n="0716a02"/>無常，非人之所測也<note resp="sgsz">案此段，<persName key="A001910">贊寧</persName>亦志疑於《宋高僧傳．卷十四．道宣》：「又<persName key="A001342">無畏</persName>非<date from-iso="0713-12-26" key="j19818371992113" to-iso="0742-02-13">開元中</date>者。<date from-iso="0627-01-26" key="j19500921958296" to-iso="0649-07-13">貞觀</date>、<date from-iso="0656-02-10" key="j19606991962581" to-iso="0661-04-06">顯慶</date>已來莫別有<persName>無畏</persName>否？」(cf.<ref>CBETA, T50, no. 2061, p. 791, b25</ref>)</note>。<date key="j19884521988806" from-iso="0732-02-05" to-iso="0733-01-24">二十年</date>，求還<placeName key="WW142XIYUE01AA">西域</placeName>，優
+        <lb ed="T" n="0716a02"/>無常，非人之所測也<note resp="sgsz">案此段，<persName key="A001910">贊寧</persName>亦志疑於《宋高僧傳．卷十四．道宣》：「又<persName key="A001342">無畏</persName>非<date from-iso="0713-12-26" key="j19818371992113" to-iso="0742-02-13">開元中</date>者。<date from-iso="0627-01-26" key="j19500921958296" to-iso="0649-07-13">貞觀</date>、<date from-iso="0656-02-10" key="j19606991962581" to-iso="0661-04-06">顯慶</date>已來莫別有『無畏』否？」(cf.<ref>CBETA, T50, no. 2061, p. 791, b25</ref>)</note>。<date key="j19884521988806" from-iso="0732-02-05" to-iso="0733-01-24">二十年</date>，求還<placeName key="WW142XIYUE01AA">西域</placeName>，優
 <lb ed="T" n="0716a03"/>詔不許。<date key="j19898161989816" when-iso="0735-10-31">二十三年乙亥十月七日</date>，右脅累足，
 <lb ed="T" n="0716a04"/>奄然而化，享齡九十九，僧臘八十。法侶淒涼，
         <lb ed="T" n="0716a05"/>皇心震悼，贈「鴻臚卿」。遣鴻臚丞<persName key="A016811">李<anchor xml:id="beg0716sgsz1"/><corr>峴</corr><anchor xml:id="end0716sgsz1"/></persName>具威

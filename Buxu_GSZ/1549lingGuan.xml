@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0379c20lingGuan">
+    <head><lb ed="X" n="0379c20"/>　　　　<persName key="A014421">令觀</persName></head>
+    <p><anchor n="X.77.1524.0379c21"/><lb ed="X" n="0379c21"/><persName key="A014421">令觀</persName>。<placeName key="CN0350304Z10AA">莆田</placeName>黃氏子。<date key="j20899552090319" when-iso="1010">十三</date>出家<placeName key="CN0350302T01AA">廣化寺</placeName>。<date key="j20917812092145" when-iso="1015">十八</date>受具。通易
+        <lb ed="X" n="0379c22"/>孟子莊老諸書。已而撥去。聽講大乘經論。他日讀楞
+        <lb ed="X" n="0379c23"/>嚴經。駭然大悟曰。世徒傳當年圓覺之<persName key="A000587">圭峰</persName>。何知不
+        <lb ed="X" n="0379c24"/>有今日楞嚴之我耶。未幾。得寺之<placeName key="CN0350302T01AB">安養院</placeName>。折筇坏戶
+        <lb ed="X" n="0380a01"/>而居之。標尚質素。語終日不妄出身。非有迫致。或竟
+        <lb ed="X" n="0380a02"/>歲未甞倚閭。閱大藏經。更數返。雖老益力。又天性慈
+        <lb ed="X" n="0380a03"/>甚。哀病者而急阨窮。呪食放生。無不為者。貲不逮必
+        <lb ed="X" n="0380a04"/>解衣就質。無難色。事佛朝香夕燈者五十年。不驅蚊。
+        <lb ed="X" n="0380a05"/>不搔餒蝨。不以匡眾。為己任人。或戲之曰。憊乎。觀公
+        <lb ed="X" n="0380a06"/>奚事爾為。師曰。吾非憊者。正恐坐此得憊耳。其密意
+        <lb ed="X" n="0380a07"/>警人類如此。忽一日示疾。語其徒曰。有六上人。當過
+        <lb ed="X" n="0380a08"/>我。亟具茗果。眾疑師屬疾語迷謬。既而人有賷像自
+        <lb ed="X" n="0380a09"/>遠至者。物色之正六。則傅金羅漢也。是夜沐浴。黎明
+        <lb ed="X" n="0380a10"/>更衣。敷座。與眾別。勉以無負佛祖。語已抵掌就寂。實
+        <lb ed="X" n="0380a11"/><date from-iso="1088-08-25" to-iso="1088-09-23" key="j21186812118710">元祐三年八月</date>也。住壽九十一。僧臘七十三。居三日
+        <lb ed="X" n="0380a12"/>頂猶溫。茶毗于寺之北岡。火行異香。收燼得舌根不
+        <lb ed="X" n="0380a13"/>壞。其徒塔之。夜有光炯然。自茶毗所。屬塔中。如往還
+        <lb ed="X" n="0380a14"/>狀。又三日。現金銀色舍利。環五里餘。尺草寸木。悉發
+        <lb ed="X" n="0380a15"/>光曜。蹷石相土。無不得者。而不窮也。旁近居民。至取
+        <lb ed="X" n="0380a16"/>以售用。奇矣。盛哉。則師生平功行存養之實。可知矣。</p>
+    
+    <linkGrp>
+        <link targets="#0379c21 #0379c21"/>
+        <ptr target="#A014421" type="person"/>
+        <ptr target="#CN0350304Z10AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0379c21 #0379c21"/>
+        <ptr target="#A014421" type="person"/>
+        <ptr target="#CN0350302T01AA" type="place"/>
+        <ptr target="#j20899552090319" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0379c21 #0379c21"/>
+        <ptr target="#A014421" type="person"/>
+        <ptr target="#j20917812092145" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0379c22 #0380a01"/>
+        <ptr target="#A014421" type="person"/>
+        <ptr target="#CN0350302T01AB" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0380a07 #0380a11"/>
+        <ptr target="#A014421" type="person"/>
+        <ptr target="#j21186812118710" type="time"/>
+    </linkGrp>
+</div>

@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0374c12ziXuan">
+    <head><lb ed="X" n="0374c12"/>　　　　<persName key="A000085">長水法師</persName>傳</head>
+    <p><anchor n="X.77.1524.0374c13"/><lb ed="X" n="0374c13"/><persName key="A000085">子璿</persName>。<placeName key="CN0330402Z12AA">秀州</placeName>人。自落髮。誦楞嚴經不輟。從<persName key="A004233">洪敏</persName>法師講。
+        <lb ed="X" n="0374c14"/>至動靜二相。了然不生有省。謂<persName key="A004233">敏</persName>曰。敲空擊木。尚落
+        <lb ed="X" n="0374c15"/>筌蹄。舉目揚眉。已成儗議。去此二途。方契斯旨。<persName key="A004233">敏</persName>拊
+        <lb ed="X" n="0374c16"/>而證之。然欲探禪源。罔知攸往。聞<persName key="A004234">瑯琊覺</persName>禪師。道重
+        <lb ed="X" n="0374c17"/>當世。即趨其席。值上堂。遂問曰。清淨本然。云何忽生
+        <lb ed="X" n="0374c18"/>山河大地。<persName key="A004234">覺</persName>憑陵答曰。清淨本然。云何忽生山河大
+        <lb ed="X" n="0374c19"/>地。師領悟禮謝曰。願侍巾瓶。<persName key="A004234">覺</persName>謂之曰。汝宗不振久
+        <lb ed="X" n="0374c20"/>矣。宜厲志扶持。報佛恩德。勿以殊宗為介也。師如教。
+        <lb ed="X" n="0374c21"/>後住<placeName key="CN0330402T34AA">長水</placeName>。眾幾一千。弘賢首教。疏楞嚴經十卷。御史
+        <lb ed="X" n="0374c22"/>中丞<persName key="A017492">王隨</persName>。序而行之。紙為之貴。賜號<persName key="A000085">楞嚴大師</persName>。甞示
+        <lb ed="X" n="0374c23"/>眾曰。道非言象得。禪非儗議知。會意通宗。曾無別致。
+        <lb ed="X" n="0374c24"/>由是二宗仰之。後跏趺示疾。以兩甕合之。葬於<placeName key="CN0330402T07AA">真如<lb ed="X" n="0375a01"/>院</placeName>。<persName key="A008980">兀朮</persName>入[寇-(敲-高)+ㄆ]。發視指爪繞身。復瘞而去。</p>
+    
+    <linkGrp>
+        <link targets="#0374c13 #0374c13"/>
+        <ptr target="#A000085" type="person"/>
+        <ptr target="#CN0330402Z12AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0374c13 #0374c16"/>
+        <ptr target="#A000085" type="person"/>
+        <ptr target="#A004233" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0374c16 #0374c20"/>
+        <ptr target="#A000085" type="person"/>
+        <ptr target="#A004234" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0374c21 #0374c21"/>
+        <ptr target="#A000085" type="person"/>
+        <ptr target="#CN0330402T34AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0374c21 #0374c22"/>
+        <ptr target="#A000085" type="person"/>
+        <ptr target="#A017492" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0374c24 #0375a01"/>
+        <ptr target="#A008980" type="person"/>
+        <ptr target="#CN0330402T07AA" type="place"/>
+    </linkGrp>
+</div>

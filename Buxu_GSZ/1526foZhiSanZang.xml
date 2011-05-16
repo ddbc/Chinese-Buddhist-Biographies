@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0371b10foZhiSanZang">
+    <head><lb ed="X" n="0371b10"/>　　　　<persName key="A000529">佛智三藏</persName>傳</head>
+    <p><anchor n="X.77.1524.0371b11"/><lb ed="X" n="0371b11"/><persName key="A000529">佛智三藏</persName>。出積寧氏。昆弟四人。師其季也。總丱之歲。
+        <lb ed="X" n="0371b12"/>依帝師<persName key="A000889">癹思八</persName>。薙染為僧。通諸部灌頂之法。<persName key="A002085">世祖</persName>受
+        <lb ed="X" n="0371b13"/>教於帝師。銳意翻譯。<ref type="person" target="#A000529">師</ref>與參譯語。辭致明辯。[ㄠ-ㄙ+?]愜上
+        <lb ed="X" n="0371b14"/>意。詔賜<persName key="A000529">大辯廣智</persName>法師。論者謂。季葉以來。譯場久廢。
+        <lb ed="X" n="0371b15"/>能者葢寡。豈意人物凋殘之際。乃見公乎。觀其所譯。
+        <lb ed="X" n="0371b16"/>可謂能者哉。<ref type="person" target="#A000529">師</ref>之道大闡。<placeName key="CN0600000D03AA">河西</placeName>之人。尊之不敢名。至
+        <lb ed="X" n="0371b17"/>呼其族黨。皆曰。此<persName key="A000529">積寧法師</persName>家。其為見重如此。時僧
+        <lb ed="X" n="0371b18"/>司盛設。風紀[穴/浸]弊。既不能干城遺法。抗禦外侮。反為
+        <lb ed="X" n="0371b19"/>諸僧勞擾。頺波所激。<placeName key="CN0000007D01AA">江南</placeName>尤甚。朝廷欲選能者正之。
+        <lb ed="X" n="0371b20"/>僉以必得精識時務。如<ref type="person" target="#A000529">師</ref>者始可。詔授<ref type="person" target="#A000529">師</ref><placeName key="CN0330103E02AA">江浙</placeName>等處
+        <lb ed="X" n="0371b21"/>釋教總統。既至。削去煩苛。務從寬大。僧眾安之。既而
+        <lb ed="X" n="0371b22"/>改授<placeName key="CN0350104Z39AA">福建</placeName>等處。方正之氣。頗與同列乖忤。<ref type="person" target="#A000529">師</ref>歎曰。天
+        <lb ed="X" n="0371b23"/>下何事。況教門乎。葢吾人之庸。自擾之耳。夫設官愈
+        <lb ed="X" n="0371b24"/>多。則事愈煩。十羊九牧。其誰能堪。遂建言罷之。議者
+        <lb ed="X" n="0371c01"/>稱其高。<ref type="person" target="#A000529">師</ref>。既得請隨謝事。遁跡<placeName key="CN0610327Z12AA">壠坻</placeName>。築室種樹。葢將
+        <lb ed="X" n="0371c02"/>終焉。未幾。以光祿大夫起。<persName key="A002087">仁宗</persName>為太子時。甞就<ref type="person" target="#A000529">師</ref>問
+        <lb ed="X" n="0371c03"/>法。<date from-iso="1312-02-16" to-iso="1313-02-03" key="j22003042200657">既踐大寶</date>。眷遇益隆。館於<placeName key="CN0110100T01AA">慶壽寺</placeName>。給廩饍。詔<ref type="person" target="#A000529">師</ref>所
+        <lb ed="X" n="0371c04"/>譯。皆板行之。<ref type="person" target="#A000529">師</ref>幼而頴悟。諸國語言。皆不學而能。既
+        <lb ed="X" n="0371c05"/>長。果能樹立。其為學。誦言觀義。涉其涯。遂厲於深。且
+        <lb ed="X" n="0371c06"/>好賢愛能。尤能取諸人以為善。談論之際。發其端。已
+        <lb ed="X" n="0371c07"/>得過半之思。故其所有皆以好問而致。是以名勝之
+        <lb ed="X" n="0371c08"/>流。皆樂從之游。<date from-iso="1314-11-16" to-iso="1314-12-15" key="j22013082201337">延祐元年十月</date>。示寂。年五十有六。其
+        <lb ed="X" n="0371c09"/>始疾也。詔賜中統鈔萬緡。俾佐醫藥。太尉瀋王。往眎
+        <lb ed="X" n="0371c10"/>疾。既歿。又賜幣萬緡。以給葬事。遣使驛送其喪。歸葬
+        <lb ed="X" n="0371c11"/>故里云。</p>
+    
+    <linkGrp>
+        <link targets="#0371b11 #0371b14"/>
+        <ptr target="#A000529" type="person"/>
+        <ptr target="#A000889" type="person"/>
+        <ptr target="#A002085" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0371b16 #0371b17"/>
+        <ptr target="#A000529" type="person"/>
+        <ptr target="#CN0600000D03AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0371b20 #0371b21"/>
+        <ptr target="#A000529" type="person"/>
+        <ptr target="#CN0330103E02AA" type="place"/>
+    </linkGrp> 
+    <linkGrp>
+        <link targets="#0371b21 #0371b22"/>
+        <ptr target="#A000529" type="person"/>
+        <ptr target="#CN0350104Z39AA" type="place"/>
+    </linkGrp> 
+    <linkGrp>
+        <link targets="#0371c01 #0371c02"/>
+        <ptr target="#A000529" type="person"/>
+        <ptr target="#CN0610327Z12AA" type="place"/>
+    </linkGrp> 
+    <linkGrp>
+        <link targets="#0371c02 #0371c03"/>
+        <ptr target="#A000529" type="person"/>
+        <ptr target="#A002087" type="person"/>
+    </linkGrp> 
+    <linkGrp>
+        <link targets="#0371c03 #0371c04"/>
+        <ptr target="#A000529" type="person"/>
+        <ptr target="#CN0110100T01AA" type="place"/>
+        <ptr target="#j22003042200657" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0371c08 #0371c08"/>
+        <ptr target="#A000529" type="person"/>
+        <ptr target="#j22013082201337" type="time"/>
+    </linkGrp>
+</div>

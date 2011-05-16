@@ -1,0 +1,96 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0377a05jiZhong">
+    <head><lb ed="X" n="0377a05"/>　　　　<persName key="A001931">繼忠</persName>．左伸傳</head>
+    <p><anchor n="X.77.1524.0377a06"/><lb ed="X" n="0377a06"/><persName key="A001931">繼忠</persName>。字<persName key="A001931">法臣</persName>。<placeName key="CN0330302Z09AA">永嘉</placeName>丘氏子。父母求嗣佛祠。同夢一僧
+        <lb ed="X" n="0377a07"/>授以好子云。<persName key="A010042">螺溪尊者</persName>。寄汝養之。母娠。即厭葷血。幼
+        <lb ed="X" n="0377a08"/>見佛像必致敬。<date key="j20932422093606" when-iso="1019">八歲</date>得度。即詣<placeName key="CN0330205T02AA">南湖</placeName>。依<persName key="A000615">廣智</persName>學。勞苦
+        <lb ed="X" n="0377a09"/>得疾。乃行請觀音三昧。感<persName key="A002803">大士</persName>放光以水灌頂。其疾
+        <lb ed="X" n="0377a10"/>即愈。既而洞悟教觀。<persName key="A000615">廣智</persName>深契之。時令代講。<persName key="A000885">雪竇顯</persName>
+        <lb ed="X" n="0377a11"/>禪師。見而歎曰。<persName key="A000756">四明</persName>之道。為有傳矣。<placeName key="CN0330302Z09AA">永嘉</placeName>士庶。請居
+        <lb ed="X" n="0377a12"/><placeName key="CN0330302T05AB">開元東閣</placeName>。遷<placeName key="CN0330302T09AA">妙果</placeName>。<placeName key="CN0330300T02AA">慧安</placeName>退隱。<placeName key="CN0330302T02AA">江心</placeName>嗣。又出主<placeName key="CN0330106T50AA">西湖法<lb ed="X" n="0377a13"/>明</placeName>。學者驟集。有欲革大其居者。師曰。施者方受其福。
+        <lb ed="X" n="0377a14"/>吾忍毀之乎。每歲正月上八。於郡中授菩薩戒。行放
+        <lb ed="X" n="0377a15"/>生事。士庶甞至數萬人。每誓於眾曰。入吾道場。而皈
+        <lb ed="X" n="0377a16"/>命三寶者。縱未得道願。生生世世。不失人身。正見出
+        <lb ed="X" n="0377a17"/>家。求無上道。行法華光明彌陀觀音三昧。日不虗過。
+        <lb ed="X" n="0377a18"/>誦呪救疾。神應莫測。每入市。坐者避席。行者避路。舉
+        <lb ed="X" n="0377a19"/>首加敬。稱為戒師。<date when-iso="1082-11-06" key="j21165622116562">元豐五年十月八日</date>。沐浴更衣。坐
+        <lb ed="X" n="0377a20"/>脫。人見赤光炤澈空表。鳥[少/隹]悲鳴。三日不下。</p><p>
+            <lb ed="X" n="0377a21"/><persName key="A011773">左伸</persName>。<placeName key="CN0331082Z11AA">臨海</placeName>人。從<placeName key="CN0331082M01AA">東掖</placeName><persName key="A000252">神炤</persName>。授菩薩戒。及大乘法要。深
+            <lb ed="X" n="0377a22"/>有契悟。<persName key="A000252">神炤</persName>對眾。摩頂與記。自是嚴奉戒律。遇事不
+            <lb ed="X" n="0377a23"/>易其節。刻<persName key="G000014">西方三聖</persName>像。旦夜虔事。誦法華。三千四百
+            <lb ed="X" n="0377a24"/>部。金剛經二萬過。<date from-iso="1095-08-09" to-iso="1095-11-05" key="j21212212121309">紹聖二年秋</date>。臥疾。命僧唱法華題。
+        <lb ed="X" n="0377b01"/>增授菩薩戒。尋夢三偉人。立於江皐。召己登舟。瞥然
+        <lb ed="X" n="0377b02"/>西邁。師知往生有期。乃命僧誦阿彌陀經。未徹即云。
+        <lb ed="X" n="0377b03"/>我已見佛光矣。遂沐浴更衣。戒左右。勿哭。勿逼吾前。
+        <lb ed="X" n="0377b04"/>稱佛結印而化。</p>
+    
+    <linkGrp>
+        <link targets="#0377a06 #0377a08"/>
+        <ptr target="#A001931" type="person"/>
+        <ptr target="#CN0330302Z09AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0377a08 #0377a08"/>
+        <ptr target="#A000615" type="person"/>
+        <ptr target="#A001931" type="person"/>
+        <ptr target="#CN0330205T02AA" type="place"/>
+        <ptr target="#j20932422093606" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0377a08 #0377a11"/>
+        <ptr target="#A000615" type="person"/>
+        <ptr target="#A000885" type="person"/>
+        <ptr target="#A001931" type="person"/>
+        <ptr target="#CN0330205T02AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0377a11 #0377a12"/>
+        <ptr target="#A001931" type="person"/>
+        <ptr target="#CN0330302T05AB" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0377a11 #0377a12"/>
+        <ptr target="#A001931" type="person"/>
+        <ptr target="#CN0330302T09AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0377a11 #0377a12"/>
+        <ptr target="#A001931" type="person"/>
+        <ptr target="#CN0330300T02AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0377a11 #0377a12"/>
+        <ptr target="#A001931" type="person"/>
+        <ptr target="#CN0330302T02AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0377a12 #0377a19"/>
+        <ptr target="#A001931" type="person"/>
+        <ptr target="#CN0330106T50AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0377a19 #0377a20"/>
+        <ptr target="#A001931" type="person"/>
+        <ptr target="#j21165622116562" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0377a21 #0377a21"/>
+        <ptr target="#A011773" type="person"/>
+        <ptr target="#CN0331082Z11AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0377a21 #0377a21"/>
+        <ptr target="#A000252" type="person"/>
+        <ptr target="#CN0331082M01AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0377a21 #0377a23"/>
+        <ptr target="#A000252" type="person"/>
+        <ptr target="#A011773" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0377a24 #0377b04"/>
+        <ptr target="#A011773" type="person"/>
+        <ptr target="#j21212212121309" type="time"/>
+    </linkGrp>
+</div>

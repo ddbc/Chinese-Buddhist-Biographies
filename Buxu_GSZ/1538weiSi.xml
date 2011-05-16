@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0376a17weiSi">
+    <head><lb ed="X" n="0376a17"/>　　　　<persName key="A014369">惟巳</persName>傳</head>
+    <p><anchor n="X.77.1524.0376a18"/><lb ed="X" n="0376a18"/><persName key="A014369">惟巳</persName>。字<persName key="A014369">亞休</persName>。邛州<placeName key="CN0510183A01AA">蒲頓</placeName>人。姓仇氏。自童時。趨尚高遠。
+        <lb ed="X" n="0376a19"/>無所嗜好。惟喜佛事。不敕之而自率。父母知其異根
+        <lb ed="X" n="0376a20"/>也。俾[隸-木+匕]大邑<placeName key="CN0510129T02AA">靜林</placeName>僧籍。事<persName key="A019710">仁普</persName>為師。落髮受具。入<placeName key="CN0510108Z19AA">成<lb ed="X" n="0376a21"/>都</placeName>講。庠習經論。通曉奧義。七年而還舊居。其所止悉
+        <lb ed="X" n="0376a22"/>荒落不治。陳屋數間。腐椽破壁。欹斜罅漏。<persName key="A014369">巳</persName>恬然處
+        <lb ed="X" n="0376a23"/>其中。無厭色。鄉人<persName key="A019711">胡惟岳</persName>者。高世之士。與<persName key="A014369">巳</persName>遊處甚
+        <lb ed="X" n="0376a24"/>厚。以詩相往來。<persName key="A014369">巳</persName>甞以詩見邑宰祕書丞<persName key="A019712">勝喬</persName>。<persName key="A019712">喬</persName>來
+        <lb ed="X" n="0376b01"/>謝。見庭廡壞裂。殆不可坐。起倡邑人為修之。<persName key="A014369">巳</persName>德業
+        <lb ed="X" n="0376b02"/>日遠已。事外遇物感興時亦作詩。其句度夷澹精粹。
+        <lb ed="X" n="0376b03"/>與人語和軟。未甞輒迕人。出入縣中六十年。亦未甞
+        <lb ed="X" n="0376b04"/>以愛惡置利害于其間。素堅強少疾。狀貌修偉。慈恕
+        <lb ed="X" n="0376b05"/>溫裕。人無少長。咸願見之。見必拜伏欣喜。丁寧留連。
+        <lb ed="X" n="0376b06"/>為誨諭。慰滿而後去。一日戒弟子。惡不宜為。善不宜
+        <lb ed="X" n="0376b07"/>失。語已攝足趺坐而逝。搖挽莫動。嶷如塑刻。年八十
+        <lb ed="X" n="0376b08"/>六。<date from-iso="1064-11-17" to-iso="1064-12-16" key="j21099992110028">治平元年十月</date>也。四眾。以真身建蘇塗。而扄藏之。
+        <lb ed="X" n="0376b09"/>使來者觀相起善焉。<persName key="A019714">文與可</persName>。弔之曰。余往年甞居郡
+        <lb ed="X" n="0376b10"/>幕。識師甚熟。後復來權州事。師則已化矣。歸日枉道
+        <lb ed="X" n="0376b11"/>過邑。詣師塔下。旋繞瞻禮。悲悼歎息。雖師之面目如
+        <lb ed="X" n="0376b12"/>生。而師之語言已不聞矣。為銘其塔。</p>
+    
+    <linkGrp>
+        <link targets="#0376a18 #0376a20"/>
+        <ptr target="#A014369" type="person"/>
+        <ptr target="#CN0510183A01AA" type="place"/>  
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0376a20 #0376a20"/>
+        <ptr target="#A014369" type="person"/>
+        <ptr target="#A019710" type="person"/>
+        <ptr target="#CN0510129T02AA" type="place"/>  
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0376a20 #0376a21"/>
+        <ptr target="#A014369" type="person"/>
+        <ptr target="#CN0510108Z19AA" type="place"/>  
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0376a23 #0376a24"/>
+        <ptr target="#A014369" type="person"/>
+        <ptr target="#A019711" type="person"/>
+        <ptr target="#CN0510183A01AA" type="place"/>  
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0376a24 #0376b01"/>
+        <ptr target="#A014369" type="person"/>
+        <ptr target="#A019712" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0376b06 #0376b08"/>
+        <ptr target="#A014369" type="person"/>
+        <ptr target="#j21099992110028" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0376b09 #0376b10"/>
+        <ptr target="#A014369" type="person"/>
+        <ptr target="#A019714" type="person"/>
+    </linkGrp>
+</div>

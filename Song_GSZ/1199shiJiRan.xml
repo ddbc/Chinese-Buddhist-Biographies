@@ -3,7 +3,7 @@
     <anchor n="T.50.2061.0880a03"/><head><date from-iso="0618-06-21" key="j19469512052491" to-iso="0907-06-06">唐</date>剡沃洲山禪院<persName key="A013730">寂然</persName>傳</head><p>
 <lb ed="T" n="0880a04"/><persName key="A013730">釋寂然</persName>，姓白氏，不知何許人也。名節素奇，
 <lb ed="T" n="0880a05"/>踵四聖種，故號<persName key="A013730">頭陀</persName>焉。<date key="j20235052023888" notAfter-iso="0829-02-11" notBefore-iso="0828-01-25">大和二年</date>，振錫觀
-<lb ed="T" n="0880a06"/>方，訪<placeName key="CN0331023M01AA">天台</placeName>勝境。到剡<placeName key="CN0330623M03AA">沃洲山</placeName>者，在<placeName key="CN0330624M02AA">天姥</placeName>岑
+<lb ed="T" n="0880a06"/>方，訪<placeName key="CN0331023M01AA">天台</placeName>勝境。到剡<placeName key="CN0330683M04AA">沃洲山</placeName>者，在<placeName key="CN0330624M02AA">天姥</placeName>岑
 <lb ed="T" n="0880a07"/>之陰，對天台<placeName key="CN0331023M01AB">華頂</placeName>、<placeName key="CN0331023M02AA">赤城</placeName>，北望<placeName key="CN0330212M01AA">四明</placeName>，金庭<placeName key="CN0330683T07AA">石
 <lb ed="T" n="0880a08"/>鼓山</placeName>介焉西北。<anchor xml:id="beg0880002"/>北<anchor xml:id="end0880002"/>有<placeName key="CN0330624A03AA">支遁嶺</placeName>、<placeName key="CN0330624A04AA">養馬坡</placeName>、<placeName key="CN0330624M06AA">放鶴</placeName>
 <lb ed="T" n="0880a09"/>岑次焉。<date key="j18182531896159" notAfter-iso="0479" notBefore-iso="0266">晉宋</date>已來，茲山洞開。初有羅漢白道
@@ -26,7 +26,7 @@
     <linkGrp>
         <link targets="#0880a05 #0880a09"/>
         <ptr target="#A013730" type="person"/>
-        <ptr target="#CN0330623M03AA" type="place"/>
+        <ptr target="#CN0330683M04AA" type="place"/>
         <ptr target="#j20235052023888" type="time"/>
     </linkGrp>
     <linkGrp>
@@ -81,13 +81,13 @@
         <link targets="#0880a14 #0880a15"/>
         <ptr target="#A013730" type="person"/>
         <ptr target="#A009452" type="person"/>
-        <ptr target="#CN0330623M03AA" type="place"/>
+        <ptr target="#CN0330683M04AA" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0880a14 #0880a16"/>
         <ptr target="#A013730" type="person"/>
         <ptr target="#A010473" type="person"/>
-        <ptr target="#CN0330623M03AA" type="place"/>
+        <ptr target="#CN0330683M04AA" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0880a17 #0880a18"/>

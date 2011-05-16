@@ -2,9 +2,9 @@
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0794c15shiXiuGong">
     <anchor n="T.50.2061.0794c15"/><head><date from-iso="0618-06-21" key="j19469512052491" to-iso="0907-06-06">唐</date>安州十力寺<persName key="A010820">秀律師</persName>傳</head><p>
 <lb ed="T" n="0794c16"/><persName key="A010820">釋秀公</persName>者，<placeName key="CN0421102Z11AA">齊安</placeName>人也。髫年天然有離俗之
-<lb ed="T" n="0794c17"/>意焉。既丁荼蓼，便往<placeName key="CN0510184Z16AA">蜀<anchor xml:id="beg0794003"/>郡<anchor xml:id="end0794003"/></placeName>，禮<persName key="A010821">興律師</persName>，諷
+<lb ed="T" n="0794c17"/>意焉。既丁荼蓼，便往<placeName key="CN0510184Z16AA">蜀<anchor xml:id="beg0794003"/>郡<anchor xml:id="end0794003"/></placeName>，禮<persName key="A006502">興律師</persName>，諷
 <lb ed="T" n="0794c18"/>誦經典，易若溫尋。又依之進具，果通達毘
-<lb ed="T" n="0794c19"/>尼，乃為<persName key="A010821">興公</persName>傳律上足弟子歟？如是四載，
+<lb ed="T" n="0794c19"/>尼，乃為<persName key="A006502">興公</persName>傳律上足弟子歟？如是四載，
 <lb ed="T" n="0794c20"/>入<placeName key="CN0610102Z07AA">長安</placeName>，造<persName key="A001519">宣律師</persName>門，為依止之客。勤以忘
 <lb ed="T" n="0794c21"/>勞，涉十六年，不離函丈。窮幽諸部，陶練
 <lb ed="T" n="0794c22"/>數家，將首疏為宗本，然向<placeName key="CN0421102Z11AA">黃州</placeName>報所生
@@ -16,7 +16,7 @@
     <linkGrp>
         <link targets="#0794c17 #0794c19"/>
         <ptr target="#A010820" type="person"/>
-        <ptr target="#A010821" type="person"/>
+        <ptr target="#A006502" type="person"/>
         <ptr target="#CN0510184Z16AA" type="place"/>
     </linkGrp>
     <linkGrp>

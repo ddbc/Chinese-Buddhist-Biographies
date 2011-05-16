@@ -1,0 +1,103 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0378a23chuXian">
+    <head><lb ed="X" n="0378a23"/>　　　　<persName key="A001140">處咸</persName>．<persName key="A001142">處謙</persName>二師傳</head>
+    <p><anchor n="X.77.1524.0378a24"/><lb ed="X" n="0378a24"/><persName key="A001140">處咸</persName>。生<placeName key="CN0331023Z05AA">天台</placeName>王氏。<date key="j20943382094702" when-iso="1022">七歲</date>入<placeName key="CN0331023T01AA">國清</placeName>。<date key="j20968952097259" when-iso="1029">十四</date>受具戒。力學無
+        <lb ed="X" n="0378b01"/>對入<placeName key="CN0331023T14AA">天封</placeName>。三年畢閱藏典。謁<persName key="A000252">神炤</persName>。深契教旨。為人恭
+        <lb ed="X" n="0378b02"/>默自遜。<persName key="A000252">神炤</persName>託疾。命代宣。眾一聆而心服。初住赤城
+        <lb ed="X" n="0378b03"/><placeName key="CN0331023T38AA">崇善</placeName>。<persName key="A019744">李庭芝</persName>守<placeName key="CN0331082Z10AA">台</placeName>。夢神人曰。公典<persName key="A004896">天台五祖</persName>臺下。有
+        <lb ed="X" n="0378b04"/>龍頭九九和上。宜就見之。諮詢莫喻。有識者謂李曰。
+        <lb ed="X" n="0378b05"/><persName key="A004896">天台五祖</persName>。昔居<placeName key="CN0331023M02AA">赤城</placeName>。今<persName key="A001140">咸師</persName>住此。生于丙辰九月九
+        <lb ed="X" n="0378b06"/>日。其龍頭九九之謂乎。李大愕。即命駕造訪師。為談
+        <lb ed="X" n="0378b07"/>出世道。深有契會。以寺宇隘陋。謀遷之。李捐金十。就
+        <lb ed="X" n="0378b08"/>東南地開址。獲銅磬於土中。繼主<placeName key="CN0331082T07AA">白蓮</placeName>。師居山五十
+        <lb ed="X" n="0378b09"/>年。登門受道者。以萬計。<date from-iso="1086-01-24" to-iso="1086-02-22" key="j21177372117766">元祐元年正月</date>。法鼓擊之不
+        <lb ed="X" n="0378b10"/>嗚。師曰。吾將行矣。期以晨鐘時。寂然而化。</p><p>
+            <lb ed="X" n="0378b11"/><persName key="A001142">處謙</persName>。生<placeName key="CN0330302Z09AA">永嘉</placeName>潘氏。處胞三年。<date key="j20932422093606" when-iso="1019">九歲</date>出家。謁<persName key="A000252">神炤</persName>。大明
+            <lb ed="X" n="0378b12"/>圓頓之旨。然三指供佛祈妙悟。未幾。擢居第一座。<persName key="A000252">炤</persName>
+        <lb ed="X" n="0378b13"/>以止觀一帙。授之曰。汝當建大法幢。恨吾不之見耳。
+            <lb ed="X" n="0378b14"/>後屢主大剎。道化隆振。旨署<persName key="A001142">神悟</persName>之號。丞相<persName key="A007519">王安石</persName>。
+            <lb ed="X" n="0378b15"/>與一時朝賢。競為歌詩。以贊其德。郡大旱。師至<placeName key="CN0331023M01AQ">龍湫</placeName>。
+            <lb ed="X" n="0378b16"/>為龍語。忽大風黑雲從<placeName key="CN0331023M01AQ">湫</placeName>起。驟雨如注。師四十年中。
+            <lb ed="X" n="0378b17"/>十坐道場。講唱無倦。登門受法者。三千人。<date from-iso="1075-04-24" to-iso="1075-06-21" key="j21138092113867">熙寧乙卯<lb ed="X" n="0378b18"/>四月</date>。集眾諷普賢行法阿彌陀經。乃曰。吾得無生。日
+            <lb ed="X" n="0378b19"/>用久矣。今以無生。而生<placeName key="XZ0000033A01AA">淨土</placeName>。遂寂。弟子塔其全身。<persName key="A003554">楊<lb ed="X" n="0378b20"/>無為</persName>。為之銘。師與<persName key="A001140">咸</persName>。同出<persName key="A000252">神炤</persName>。人稱<persName key="A000252">神炤</persName>之門。二處
+        <lb ed="X" n="0378b21"/>一身云。</p>
+    
+    <linkGrp>
+        <link targets="#0378a24 #0378a24"/>
+        <ptr target="#A001140" type="person"/>
+        <ptr target="#CN0331023Z05AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0378a24 #0378a24"/>
+        <ptr target="#A001140" type="person"/>
+        <ptr target="#CN0331023T01AA" type="place"/>
+        <ptr target="#j20943382094702" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0378a24 #0378a24"/>
+        <ptr target="#A001140" type="person"/>
+        <ptr target="#j20968952097259" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0378a24 #0378b02"/>
+        <ptr target="#A001140" type="person"/>
+        <ptr target="#A000252" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0378b03 #0378b03"/>
+        <ptr target="#A019744" type="person"/>
+        <ptr target="#CN0331082Z10AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0378b02 #0378b08"/>
+        <ptr target="#A001140" type="person"/>
+        <ptr target="#A019744" type="person"/>
+        <ptr target="#CN0331023T38AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0378b08 #0378b09"/>
+        <ptr target="#A001140" type="person"/>
+        <ptr target="#CN0331082T07AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0378b09 #0378b10"/>
+        <ptr target="#A001140" type="person"/>
+        <ptr target="#j21177372117766" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0378b11 #0378b11"/>
+        <ptr target="#A001142" type="person"/>
+        <ptr target="#CN0330302Z09AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0378b11 #0378b11"/>
+        <ptr target="#A001142" type="person"/>
+        <ptr target="#j20932422093606" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0378b11 #0378b13"/>
+        <ptr target="#A000252" type="person"/>
+        <ptr target="#A001142" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0378b14 #0378b15"/>
+        <ptr target="#A007519" type="person"/>
+        <ptr target="#A001142" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0378b15 #0378b16"/>
+        <ptr target="#A001142" type="person"/>
+        <ptr target="#CN0331023M01AQ" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0378b17 #0378b19"/>
+        <ptr target="#A001142" type="person"/>
+        <ptr target="#j21138092113867" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0378b20 #0378b21"/>
+        <ptr target="#A000252" type="person"/>
+        <ptr target="#A001140" type="person"/>
+        <ptr target="#A001142" type="person"/>
+    </linkGrp>
+</div>

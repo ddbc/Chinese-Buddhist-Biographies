@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0381a14zhiYuan">
+    <head><lb ed="X" n="0381a14"/>　　　　<persName key="A001282">智圓</persName></head>
+    <p><anchor n="X.77.1524.0381a15"/><lb ed="X" n="0381a15"/><persName key="A001282">智圓</persName>。字<persName key="A001282">無外</persName>。<placeName key="CN0330103Z16AA">錢塘</placeName>徐氏子。學語即知孝悌。稍長。甞析
+        <lb ed="X" n="0381a16"/>木濡水。就石書字。列花卉若綿蕝。戲為講訓之狀。父
+        <lb ed="X" n="0381a17"/>母異之。令入空門受具戒。<date key="j20848422085207" when-iso="0996">二十一</date>。聞<persName key="A001449">奉先清公</persName>傳天
+        <lb ed="X" n="0381a18"/>台三觀之道。負笈造焉。<date key="j20855732085937" when-iso="0998">二年</date>而<persName key="A001449">清</persName>亡。遂往居西湖之
+        <lb ed="X" n="0381a19"/><placeName key="CN0330106A23AA">孤山</placeName>。杜門樂道。自號<persName key="A001282">潛夫</persName>。與<persName key="A012844">林處士逋</persName>。為鄰友。雅善
+        <lb ed="X" n="0381a20"/>病。又號病夫。師甞嘆<persName key="A001307">荊溪</persName>歿後。微言墜地。曰。吾何人
+        <lb ed="X" n="0381a21"/>也。于是。著十疏以通經。述諸鈔以釋疏。翼贊弘宣。其
+        <lb ed="X" n="0381a22"/>功偉矣。師雪骨冰心。傲然物外。視人間之世。如纖塵。
+        <lb ed="X" n="0381a23"/>過目了不關懷。時<persName key="A016950">王欽若</persName>。撫<placeName key="CN0330103Z16AA">錢唐</placeName>。<persName key="A001832">慈雲</persName>遣使邀師。同
+        <lb ed="X" n="0381a24"/>往迓之。師笑語使人曰。為我致意。慈雲錢唐。且駐却
+        <lb ed="X" n="0381b01"/>一僧。聞者嘆服。於講道之外。以詩文自娛。有襍述五
+        <lb ed="X" n="0381b02"/>十卷。題曰閒居編。以<date when-iso="1022-03-27" key="j20944232094423">乾興元年二月十七日</date>。自作祭
+        <lb ed="X" n="0381b03"/>文挽詞。越二日。示寂。年僅四十有七也。預戒門人曰。
+        <lb ed="X" n="0381b04"/>吾歿後。無厚葬以罪我。無建塔以誣我。無謁有位求
+        <lb ed="X" n="0381b05"/>銘以虗美我。但用陶器二合而瘞。立石志名字年月
+        <lb ed="X" n="0381b06"/>而已。及亡。門人如所戒。斂以陶器。斸所居巖以藏之。
+        <lb ed="X" n="0381b07"/>不屋而壇。後十五年。積兩山頹。門人開視陶器。肉身
+        <lb ed="X" n="0381b08"/>不壞。爪髮俱長。脣微開露。齒若珂玉。乃更襲新衣。屑
+        <lb ed="X" n="0381b09"/>眾香散其上。而重瘞之。<date from-iso="1104-02-06" to-iso="1105-01-24" key="j21243232124676">崇寧三年</date>。賜諡法慧大師。</p>
+    
+    <linkGrp>
+        <link targets="#0381a15 #0381a17"/>
+        <ptr target="#A001282" type="person"/>
+        <ptr target="#CN0330103Z16AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0381a17 #0381a18"/>
+        <ptr target="#A001282" type="person"/>
+        <ptr target="#A001449" type="person"/>
+        <ptr target="#j20848422085207" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0381a18 #0381a18"/>
+        <ptr target="#A001282" type="person"/>
+        <ptr target="#A001449" type="person"/>
+        <ptr target="#j20855732085937" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0381a18 #0381a19"/>
+        <ptr target="#A001282" type="person"/>
+        <ptr target="#A012844" type="person"/>
+        <ptr target="#CN0330106A23AA" type="place"/>
+        <ptr target="#j20855732085937" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0381a23 #0381a24"/>
+        <ptr target="#A001282" type="person"/>
+        <ptr target="#A001832" type="person"/>
+        <ptr target="#A016950" type="person"/>
+        <ptr target="#CN0330103Z16AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0381b02 #0381b03"/>
+        <ptr target="#A001282" type="person"/>
+        <ptr target="#j20944232094423" type="time"/>
+    </linkGrp>
+</div>

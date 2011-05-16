@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0369c21suTuoShiLi">
+    <head><lb ed="X" n="0369c21"/>　　　　金　<persName key="A010746">蘇陀室利</persName>傳(附<persName key="A019652">寶公</persName><persName key="A010748">慧洪</persName>)</head>
+    <p><anchor n="X.77.1524.0369c22"/><lb ed="X" n="0369c22"/><persName key="A010746">蘇陀室利</persName>者。<placeName key="WW142XIYUE01AA">西域</placeName>中印土<placeName key="INBRNL000T02AA">[邱-丘+冉]爛陀寺</placeName>僧也。內閑三藏。
+        <lb ed="X" n="0369c23"/>外徹五明。能誦雜華經。久慕此土<placeName key="CN0140900M01AA">清凉山</placeName>萬菩薩住
+        <lb ed="X" n="0369c24"/>處。年八十五。與弟子七人。航海而來。七人三還三殞。
+        <lb ed="X" n="0370a01"/>唯<persName key="A010747">佛陀室利</persName>一人隨之。凡六年。方達<placeName key="CN0140900M01AA">清凉</placeName>。每至一臺
+        <lb ed="X" n="0370a02"/>頂。誦華嚴經十部。禪寂七日。不息不食。每入定。則見
+        <lb ed="X" n="0370a03"/>紫磨金城。玻璃紺殿。寶蓮香水。珠網交輝。無盡莊嚴。
+        <lb ed="X" n="0370a04"/>諸天童子。遊戲其中。後於<placeName key="CN0140922T06AA">靈鷲寺</placeName>化去。<persName key="A010747">佛陀</persName>收舍利
+        <lb ed="X" n="0370a05"/>八合。熣爛如珠。持還<placeName key="WW142XIYUE01AA">西土</placeName>。<persName key="A019650">唐括</persName>讚其真曰。似似是是。
+        <lb ed="X" n="0370a06"/><persName key="A010746">蘇陀室利</persName>。西竺來遊。一百八歲。雪色連腮。碧光溢臂。
+        <lb ed="X" n="0370a07"/>內蘊真慈。外現可畏。在<persName key="A006630">閔宗</persName>朝。連陰不霽。特詔登壇。
+        <lb ed="X" n="0370a08"/>呪龍落地。赭色伽棃。后妃親製。施內藏財。度僧起寺。
+        <lb ed="X" n="0370a09"/>人半疑信。<persName key="A000438">佛陀波利</persName>。借路重來。<placeName key="CN0140900M01AA">五峯</placeName>遊禮。峩五佛冠。
+        <lb ed="X" n="0370a10"/><persName key="A002144">曼殊</persName>何異。圓滿月面。色非紅粹。真人<persName key="A019651">蕭生</persName>。遙瞻拜跪
+        <lb ed="X" n="0370a11"/>(羽士<persName key="A019651">蕭真人</persName>。技術難問。皆為師伏。稽首為謝。故云云)。</p><p>
+            <lb ed="X" n="0370a12"/><persName key="A019652">寶公</persName><persName key="A010748">慧洪</persName>者。皆慧性超絕。<persName key="A019652">寶公</persName>。出<placeName key="CN0130427Z08AA">磁州</placeName>武氏。<date from-iso="1161-11-03" to-iso="1168-08-24" key="j21454132147899">大定初</date>。
+            <lb ed="X" n="0370a13"/>於<placeName key="CN0130427Z07AA">[汾-刀+金]陽</placeName>造<placeName key="CN0130427T08AA">仰山寺</placeName>。殿宇宏壯。兩柱鏤金龍蟠之。觀者
+        <lb ed="X" n="0370a14"/>瞠駭。忽有題詩柱上者。曰。人道班鳩拙。我道班鳩巧。
+            <lb ed="X" n="0370a15"/>一根兩根柴。便是家緣了。<persName key="A019652">寶公</persName>見之大悟。即入<placeName key="CN0410700M01AA">西山</placeName>。
+            <lb ed="X" n="0370a16"/>結茆以居。終身不出。<persName key="A010748">慧洪</persName>。字<persName key="A010748">子範</persName>。因閱楞嚴。一人發
+        <lb ed="X" n="0370a17"/>真歸元。十方虗空。悉皆銷殞。忽悟曰。諸佛心印。本無
+            <lb ed="X" n="0370a18"/>玄玅。今日始為無事人矣。遂造<persName key="A010749">河朔汶</persName>禪師所。陳所
+            <lb ed="X" n="0370a19"/>見。<persName key="A010749">汶</persName>可之。臨終有偈云。六十春光有八年。浮雲收盡
+        <lb ed="X" n="0370a20"/>露青天。臨行踢倒須彌去。後夜山頭月更圓。</p>
+    
+    <linkGrp>
+        <link targets="#0369c22 #0370a01"/>
+        <ptr target="#A010746" type="person"/>
+        <ptr target="#A010747" type="person"/>
+        <ptr target="#INBRNL000T02AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0369c23 #0370a04"/>
+        <ptr target="#A010746" type="person"/>
+        <ptr target="#A010747" type="person"/>
+        <ptr target="#CN0140900M01AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0370a04 #0370a05"/>
+        <ptr target="#A010746" type="person"/>
+        <ptr target="#A010747" type="person"/>
+        <ptr target="#CN0140922T06AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0370a11 #0370a11"/>
+        <ptr target="#A010746" type="person"/>
+        <ptr target="#A019651" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0370a12 #0370a12"/>
+        <ptr target="#A019652" type="person"/>
+        <ptr target="#CN0130427Z08AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0370a12 #0370a15"/>
+        <ptr target="#A019652" type="person"/>
+        <ptr target="#CN0130427T08AA" type="place"/>
+        <ptr target="#j21454132147899" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0370a14 #0370a16"/>
+        <ptr target="#A019652" type="person"/>
+        <ptr target="#CN0410700M01AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0370a16 #0370a19"/>
+        <ptr target="#A010748" type="person"/>
+        <ptr target="#A010749" type="person"/>
+    </linkGrp>
+</div>

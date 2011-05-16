@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0371c12biLanNaShiLi">
+    <head><lb ed="X" n="0371c12"/>　　　　<persName key="A019673">必蘭納識理</persName>傳</head>
+    <p><anchor n="X.77.1524.0371c13"/><lb ed="X" n="0371c13"/><persName key="A019673">必蘭納識理</persName>者。初名<persName key="A019673">只剌瓦彌的理</persName>。北庭<placeName key="CN0652327E01AA">感本魯國</placeName>
+        <lb ed="X" n="0371c14"/>人。幼熟畏兀兒。及西天書。長能貫通三藏。及諸國語。
+        <lb ed="X" n="0371c15"/><date from-iso="1302-02-07" to-iso="1303-01-26" key="j21966432196996">大德六年</date>。奉旨從帝師。受戒於<placeName key="CN0110102A05AA">廣寒殿</placeName>。代<ref type="person" target="#A004321">帝</ref>出家。更
+        <lb ed="X" n="0371c16"/>賜今名。<date from-iso="1312-02-16" to-iso="1314-01-24" key="j22003042201012">皇慶中</date>。命翻譯諸梵經典。<date from-iso="1314-01-25" to-iso="1321-02-05" key="j22010132203581">延祐間</date>。賜銀印。授
+        <lb ed="X" n="0371c17"/>光祿大夫。是時。諸番朝貢。表牋文字。無能識者。皆令
+        <lb ed="X" n="0371c18"/><persName key="A019673">必蘭納識理</persName>譯進。甞有以金刻字為表進者。<ref type="person" target="#A002087">帝</ref>遣視
+        <lb ed="X" n="0371c19"/>之。廷中愕眙。觀所以對。<persName key="A019673">必蘭納識理</persName>。隨取案上墨汁。
+        <lb ed="X" n="0371c20"/>塗金葉審其字。命左右執筆。口授表中語。及使人名
+        <lb ed="X" n="0371c21"/>氏。與貢物之數。書而上之。明日有司簡閱。一如所書。
+        <lb ed="X" n="0371c22"/>眾無不服其博識。而竟莫測其何所從授。或者。以為
+        <lb ed="X" n="0371c23"/>神悟云。後厄于數。</p>
+    
+    <linkGrp>
+        <link targets="#0371c13 #0371c14"/>
+        <ptr target="#A019673" type="person"/>
+        <ptr target="#CN0652327E01AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0371c15 #0371c16"/>
+        <ptr target="#A004321" type="person"/>
+        <ptr target="#A019673" type="person"/>
+        <ptr target="#j21966432196996" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0371c15 #0371c16"/>
+        <ptr target="#A019673" type="person"/>
+        <ptr target="#CN0110102A05AA" type="place"/>
+        <ptr target="#j21966432196996" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0371c16 #0371c16"/>
+        <ptr target="#A019673" type="person"/>
+        <ptr target="#j22003042201012" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0371c16 #0371c22"/>
+        <ptr target="#A002087" type="person"/>
+        <ptr target="#A019673" type="person"/>
+        <ptr target="#CN0110102Z01AA" type="place"/>
+        <ptr target="#j22010132203581" type="time"/>
+    </linkGrp>
+</div>

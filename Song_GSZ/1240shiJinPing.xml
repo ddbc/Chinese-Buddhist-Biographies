@@ -2,7 +2,7 @@
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0891a27shiJinPing">
     <anchor n="T.50.2061.0891a27"/><head><date from-iso="0618-06-21" key="j19469512052491" to-iso="0907-06-06">唐</date>懷安郡西隱山<persName key="A010072">進平</persName>傳</head><p>
 <lb ed="T" n="0891a28"/><persName key="A010072">釋進平</persName>，姓吳氏，<placeName key="CN0610102Z10AA">京兆</placeName>人也。早出家于永安山
-<lb ed="T" n="0891a29"/><placeName key="CN0130000M01AA">明福院</placeName>，風表端雅。諸經大論，皆所研尋。銷文<pb ed="T" n="0891b" xml:id="T50.2061.0891b"/>
+<lb ed="T" n="0891a29"/><placeName key="CN0420982T06AA">明福院</placeName>，風表端雅。諸經大論，皆所研尋。銷文<pb ed="T" n="0891b" xml:id="T50.2061.0891b"/>
 <lb ed="T" n="0891b01"/>鍊注，令人樂聞。末思禪觀，於<placeName key="CN0410302Z03AA">洛下</placeName>遇<persName key="A005612">荷澤
 <lb ed="T" n="0891b02"/>會師</persName>了悟，且曰：「甚矣，不自外知者，所知難
 <lb ed="T" n="0891b03"/>乎哉！」後至唐州遂居<placeName key="CN0411726M03AA">西隱山</placeName>。刺史<persName key="A013865">鄭文簡</persName>
@@ -11,7 +11,7 @@
     <linkGrp>
         <link targets="#0891a28 #0891a29"/>
         <ptr target="#A010072" type="person"/>
-        <ptr target="#CN0130000M01AA" type="place"/>
+        <ptr target="#CN0420982T06AA" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0891b01 #0891b03"/>

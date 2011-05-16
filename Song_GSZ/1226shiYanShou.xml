@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0887a29shiYanShou">
     <anchor n="T.50.2061.0887a29"/><head><date from-iso="0960-02-09" key="j20717322132856" to-iso="1127-06-18">宋</date>錢塘永明寺<persName key="A000282">延壽</persName>傳</head><p>
-<lb ed="T" n="0887b01"/><persName key="A000282">釋延壽</persName>，姓王，本<placeName key="CN0330103Z20AA">錢塘</placeName>人也。<placeName key="CN0330000A17AA">兩浙</placeName>有國時為
+<lb ed="T" n="0887b01"/><persName key="A000282">釋延壽</persName>，姓王，本<placeName key="CN0330103Z20AA">錢塘</placeName>人也。<placeName key="CN0330103E03AA">兩浙</placeName>有國時為
 <lb ed="T" n="0887b02"/>吏，督納軍須，其性純直，口無二言，誦徹法
 <lb ed="T" n="0887b03"/>華經，聲不輟響。屬翠巖<persName key="A013517">參公</persName>盛化，<persName key="A000282">壽</persName>捨妻
 <lb ed="T" n="0887b04"/>孥，削染登戒。甞於台嶺<placeName key="CN0331023M08AA">天柱峯</placeName>九旬習定，
@@ -20,7 +20,7 @@
     <linkGrp>
         <link targets="#0887b01 #0887b03"/>
         <ptr target="#A000282" type="person"/>
-        <ptr target="#CN0330000A17AA" type="place"/>
+        <ptr target="#CN0330103E03AA" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0887b04 #0887b06"/>

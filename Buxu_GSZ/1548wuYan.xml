@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0379b23wuYan">
+    <head><lb ed="X" n="0379b23"/>　　　　圓明大師<persName key="A014536">演公</persName>傳</head>
+    <p><anchor n="X.77.1524.0379b24"/><lb ed="X" n="0379b24"/><persName key="A014536">無演</persName>。<placeName key="CN0510182M01AA">天彭</placeName>張氏子。幼英烈。不甘處俗。<date key="j21078522108216" when-iso="1059">十五</date>棄家。事<placeName key="CN0510182T07AA">承<lb ed="X" n="0379c01"/>天院</placeName><persName key="A019770">寶梵</persName>大師<persName key="A019770">昭符</persName>。<persName key="A019770">符</persName>記之曰。此子。他日法中龍象
+        <lb ed="X" n="0379c02"/>也。<date key="j21096782110043" when-iso="1064">二十</date>以誦經。落髮。受首楞嚴於<persName key="A019771">繼靜</persName>。<persName key="A019771">靜</persName>歿。卒業于
+        <lb ed="X" n="0379c03"/><persName key="A019772">惟鳳文昭</persName>。受圓覺肇論于<persName key="A019773">省身</persName>。受華嚴法界觀起信
+        <lb ed="X" n="0379c04"/>論于<persName key="A019774">曉顏</persName>。受唯識百法論于<persName key="A019775">延慶</persName>。凡此諸師。皆聲名
+        <lb ed="X" n="0379c05"/>藉藉。師。必妙得其家風。然後已。又從諸儒講學。於書
+        <lb ed="X" n="0379c06"/>無所不觀。於文無所不能。<persName key="A005166">趙清獻公</persName>。挽師登法席。於
+        <lb ed="X" n="0379c07"/>楞嚴了義。指掌極談。聞者。如飲醇酒。無不必醉。既於
+        <lb ed="X" n="0379c08"/>此經。心融形釋。復出入內外篇籍。如風行電激。所向
+        <lb ed="X" n="0379c09"/>如志。又甞問道於禪師<persName key="A019776">惟廸</persName><persName key="A009520">惟勝</persName>。師嘿然心許曰。此
+        <lb ed="X" n="0379c10"/>自在吾術內矣。又作大悲觀音化相。宇以崇閣。極天
+        <lb ed="X" n="0379c11"/>下之竘工珍材。二十餘年乃成。人以為莊嚴之冠。不
+        <lb ed="X" n="0379c12"/>知師之遊戲也。中年。喜<persName key="A006915">葛洪</persName>內篇。延異譎士。將以丹
+        <lb ed="X" n="0379c13"/>石伏物。皆為黃金。或取其金而畔去。師不悔不怒。他
+        <lb ed="X" n="0379c14"/>日遇之。視之如初。此可以觀其德性也。<persName key="A019770">寶梵</persName>既歿。二
+        <lb ed="X" n="0379c15"/>親又耄。期去世。乃南遊曰。吾聞南方大士。有若<persName key="A008470">祖心</persName>。
+        <lb ed="X" n="0379c16"/>有若<persName key="A007526">克文</persName>。有若<persName key="A011684">善本</persName>。皆命世亞聖大人也。不可不行
+        <lb ed="X" n="0379c17"/>觀道焉。<date from-iso="1100-04-19" to-iso="1100-05-17" key="j21229352122963">元符三年三月</date>。道出<placeName key="CN0511502Z15AA">戎州</placeName>。憩渝州<placeName key="CN0500105T05AA">覺林禪院</placeName>。
+        <lb ed="X" n="0379c18"/>不疾而化。僧臘三十有七。其法子。奉師遺骨。藏於<placeName key="CN0510000T01AA">寶<lb ed="X" n="0379c19"/>梵塔</placeName>之西。有志不果。遽厄於數。惜哉。</p>
+    
+    <linkGrp>
+        <link targets="#0379b24 #0379b24"/>
+        <ptr target="#A014536" type="person"/>
+        <ptr target="#CN0510182M01AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0379b24 #0379c01"/>
+        <ptr target="#A014536" type="person"/>
+        <ptr target="#A019770" type="person"/>
+        <ptr target="#CN0510182T07AA" type="place"/>
+        <ptr target="#j21078522108216" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0379c02 #0379c02"/>
+        <ptr target="#A014536" type="person"/>
+        <ptr target="#A019771" type="person"/>
+        <ptr target="#j21096782110043" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0379c02 #0379c03"/>
+        <ptr target="#A014536" type="person"/>
+        <ptr target="#A019772" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0379c03 #0379c03"/>
+        <ptr target="#A014536" type="person"/>
+        <ptr target="#A019773" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0379c03 #0379c04"/>
+        <ptr target="#A014536" type="person"/>
+        <ptr target="#A019774" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0379c04 #0379c04"/>
+        <ptr target="#A014536" type="person"/>
+        <ptr target="#A019775" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0379c06 #0379c07"/>
+        <ptr target="#A014536" type="person"/>
+        <ptr target="#A005166" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0379c09 #0379c10"/>
+        <ptr target="#A014536" type="person"/>
+        <ptr target="#A019776" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0379c09 #0379c10"/>
+        <ptr target="#A014536" type="person"/>
+        <ptr target="#A009520" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0379c17 #0379c18"/>
+        <ptr target="#A014536" type="person"/>
+        <ptr target="#CN0500105T05AA" type="place"/>
+        <ptr target="#j21229352122963" type="time"/>
+    </linkGrp>
+</div>

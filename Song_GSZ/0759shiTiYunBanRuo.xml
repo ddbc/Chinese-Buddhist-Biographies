@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0719b05shiTiYunBanRuo">
-    <anchor n="T.50.2061.0719b05"/><head><date from-iso="0689-12-21" key="j19730671978610" to-iso="0705-02-24">周</date>洛京魏國東寺<persName key="A001210">天智</persName>傳</head><p>
+    <lb ed="T" n="0719b05"/><anchor n="T.50.2061.0719b05"/><head><date from-iso="0689-12-21" key="j19730671978610" to-iso="0705-02-24">周</date><placeName key="CN0410311T16AA">洛京魏國東寺</placeName><persName key="A001210">天智</persName>傳</head><p>
         <lb ed="T" n="0719b06"/><persName key="A001210">釋提雲般若</persName>，或云<persName key="A001210">提雲陀若那</persName>，華言<persName key="A001210">天智</persName>，
-<lb ed="T" n="0719b07"/><placeName key="CN0653221Z07AA">于闐國</placeName>人也。學通大小，解兼真俗，呪術禪
-<lb ed="T" n="0719b08"/>門，無不諳曉。<date from-iso="0689" key="j19727421973066" to-iso="0689"><anchor xml:id="beg0719002"/>水<anchor xml:id="end0719002"/>昌</date>元年，來屆于此，謁<persName key="A002099">天后</persName>
-<lb ed="T" n="0719b09"/>於<placeName key="CN0410302Z03AA">洛陽</placeName>，勅令就<placeName key="CN0410302T05AA">魏國東寺</placeName><note place="inline">後改<placeName key="CN0410302T05AA">大周東寺</placeName></note>翻譯。即
+        <lb ed="T" n="0719b07"/><placeName key="CN0653221Z07AA">于闐國</placeName>人也。學通大小，解兼真俗<note resp="sgsz">《佛光大辭典》頁4217：「梵語 paramārtha-saṃvṛti-satyau。為真諦、俗諦之並稱。前者又稱勝義諦、第一義諦，指真實平等之理；後者又稱世俗諦、世諦，指世俗差別之理。此外，真俗亦為事理之異名；因緣所生之事理，稱為俗，不生不滅之理性，稱為真。」</note>，呪術禪
+<lb ed="T" n="0719b08"/>門，無不諳曉。<date from-iso="0689" key="j19727421973066" to-iso="0689"><anchor xml:id="beg0719002"/><corr>永</corr><anchor xml:id="end0719002"/>昌</date>元年，來屆于此，謁<persName key="A002099">天后</persName>
+<lb ed="T" n="0719b09"/>於<placeName key="CN0410302Z03AA">洛陽</placeName>，勅令就<placeName key="CN0410311T16AA">魏國東寺</placeName>（後改<placeName key="CN0410311T16AA">大周東寺</placeName>）翻譯。即
 <lb ed="T" n="0719b10"/>以<date from-iso="0689" key="j19727421973774" to-iso="0691">其年己丑至天授二年辛卯</date>，出《華嚴經
-<lb ed="T" n="0719b11"/>法界無差別論》等六部七卷，沙門<persName key="A008996">處一</persName>筆受，
+        <lb ed="T" n="0719b11"/>法界無差別論》等六部七卷<note resp="sgsz">另參(cf.《大乘法界無差別論》後記<ref>CBETA, T31, no. 1626, p. 894, a27</ref>)</note>，沙門<persName key="A008996">處一</persName>筆受，
 <lb ed="T" n="0719b12"/>沙門<persName key="A001192">復禮</persName>綴文，沙門<persName key="A002451">德感</persName>、<persName key="A008993">慧儼</persName>、<persName key="A008994">法明</persName>、<persName key="A008970">恒景</persName>等
-<lb ed="T" n="0719b13"/>證義。<persName key="A001210">智</persName>終年卒地，莫得而聞。</p>
+        <lb ed="T" n="0719b13"/>證義<note resp="makita">另參(cf.《佛說寶雨經》<ref>CBETA, T16, no. 0660, p. 292, a26</ref>)、《舊唐書．卷一百八十三》</note>。<persName key="A001210">智</persName>終年卒地，莫得而聞。</p>
     <linkGrp>
         <link targets="#0719b06 #0719b08"/>
         <ptr target="#A001210" type="person"/>
@@ -22,7 +22,7 @@
         <ptr target="#j19727421973066" type="time"/>
     </linkGrp>
     <linkGrp>
-        <link targets="#0719b09 #0719b12"/>
+        <link targets="#0719b09 #0719b13"/>
         <ptr target="#A001210" type="person"/>
         <ptr target="#A008996" type="person"/>
         <ptr target="#A001192" type="person"/>
@@ -30,7 +30,7 @@
         <ptr target="#A008993" type="person"/>
         <ptr target="#A008994" type="person"/>
         <ptr target="#A008970" type="person"/>
-        <ptr target="#CN0410302T05AA" type="place"/>
+        <ptr target="#CN0410311T16AA" type="place"/>
         <ptr target="#j19727421973774" type="time"/>
     </linkGrp>
 </div>

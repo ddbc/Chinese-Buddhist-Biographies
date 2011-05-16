@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0709a03shiYiJing">
-<div><anchor n="T.50.2061.0709a03"/><head><lb n="0709a03" ed="T"/>進《高僧傳》表</head>
+    <div><anchor n="T.50.2061.0709a03"/><head><lb n="0709a03" ed="T"/>進《高僧傳》表</head>
 <lb n="0709a04" ed="T"/>
     <lb n="0709a05" ed="T"/><byline n="Author"><anchor xml:id="tnote0709001"/><anchor xml:id="cbnot-mod0709001"/><anchor xml:id="beg0709001" n="0709001"/><date when-iso="0988-11-23" key="j20822472082247">端拱元年十月日</date><placeName key="CN0410204T06AA">左街天壽寺</placeName>
     <lb n="0709a06" ed="T"/><persName key="A001910">通慧大師賜紫臣僧贊寧</persName>上表<anchor xml:id="end0709001"/></byline>
@@ -61,12 +61,12 @@
         <lb n="0709c01" ed="T"/>象世家而布濩<note resp="sgsz">《說文解字》：「濩，雨流霤下貌。」布濩，分散遍布也。</note>，蓋欲希<persName key="A002780">顏</persName>之者，慕<persName key="A009225">藺</persName>之儔，
         <lb n="0709c02" ed="T"/>成飛錫之應真<note resp="sgsz">丁福保《佛學大辭典．應真》：「阿羅漢之舊譯。」</note>，作曳山之上士。時則<persName key="A015418">裴子
             <lb n="0709c03" ed="T"/>野</persName>著《眾僧傳》，<persName key="A002687">釋法濟</persName>撰《高逸沙門傳》，<persName key="A003158">陸<anchor xml:id="beg0709sgsz3" n="0709sgsz3"/>杲<anchor xml:id="end0709sgsz3"/></persName>
-        <lb n="0709c04" ed="T"/>述《沙門傳》，<persName key="A001926">釋寶唱</persName>立《名僧傳》<note resp="sgsz">(cf. 名僧傳<ref>CBETA, X77, no. 1523, p. 346, b09</ref>)</note>，斯皆河圖作
+        <lb n="0709c04" ed="T"/>述《沙門傳》，<persName key="A001926">釋寶唱</persName>立《名僧傳》<note resp="sgsz">(cf.《名僧傳》<ref>CBETA, X77, no. 1523, p. 346, b09</ref>)</note>，斯皆河圖作
     <lb n="0709c05" ed="T"/>《洪範》之椎輪，土鼓為《咸池》之坏器。焉知來者，
         <lb n="0709c06" ed="T"/>靡曠其人。<persName key="A001724">慧皎</persName><anchor xml:id="beg0709007" n="0709007"/>刊<anchor xml:id="end0709007"/>修，用實行潛光之目；<persName key="A001519">道
 <lb n="0709c07" ed="T"/>宣</persName>緝綴，續高而不名之風，令六百載行道之
-        <lb n="0709c08" ed="T"/>人弗墜于地者矣。爰自<date from-iso="0627-01-26" to-iso="0649-07-13" key="j19500921958296">貞觀</date>命章之後，<placeName key="CN0610103T02AA">西
-            <lb n="0709c09" ed="T"/>明</placeName>絕筆已還<note resp="makita"><placeName key="CN0610103T02AA">西明寺</placeName><persName key="A001519">道宣</persName>於<date from-iso="0645-02-05" to-iso="0646-01-24" key="j19566771957030">貞觀十九年</date>完成《續高僧傳》。</note>，此作蔑聞，斯文將缺。時有再
+        <lb n="0709c08" ed="T"/>人弗墜于地者矣。爰自<date from-iso="0627-01-26" to-iso="0649-07-13" key="j19500921958296">貞觀</date>命章<note resp="sgsz">命章，文章之起始也。(cf.《法華玄義釋籤》<ref>CBETA, T33, no. 1717, p. 953, a29</ref>)：「初文云『命章』者，『命』字『口令』也，謂教也，即命召也，謂章初也。」</note>之後，<placeName key="CN0610103T02AA">西
+            <lb n="0709c09" ed="T"/>明</placeName>絕筆<note resp="sgsz">絕筆，擱筆不書也。<persName key="A005221">杜甫</persName>《戲為韋偃雙松圖歌》：「絶筆長風起纖末，滿堂動色嗟神妙。」<persName key="A020010">仇兆鰲</persName>注：「絶筆，畫成而閣筆也。」</note>已還<note resp="makita"><placeName key="CN0610103T02AA">西明寺</placeName><persName key="A001519">道宣</persName>於<date from-iso="0645-02-05" to-iso="0646-01-24" key="j19566771957030">貞觀十九年</date>完成《續高僧傳》。</note>，此作蔑聞，斯文將缺。時有再
         <lb n="0709c10" ed="T"/>至，肅殺過而繁華來；世無久虛，地天<anchor xml:id="beg0709008" n="0709008"/><corr>泰</corr><anchor xml:id="end0709008"/><note resp="makita">案《周易．泰傳第二》：「象曰：『天地交泰，后以財成。』」</note>而
         <lb n="0709c11" ed="T"/>聖明出。我<persName key="A001640">應運統天叡文英武大聖至明廣
 <lb n="0709c12" ed="T"/>孝皇帝</persName>陛下，陽龍挺德，斗電均威。踐大道
@@ -100,16 +100,16 @@
         <lb n="0710a10" ed="T"/><date when-iso="0988-11-23" key="j20822472082247">端拱元年乾明節</date>臣僧<persName key="A001910">贊寧</persName>等謹上。</p>
 <lb n="0710a11" ed="T"/>
 <lb n="0710a12" ed="T"/>
-    <p xml:id="pT50p0710a1301"><lb n="0710a13" ed="T"/>譯經篇第一<note place="inline">變梵成華。通凡入聖。法輪斯轉。諸佛所師</note></p>
-    <p xml:id="pT50p0710a1401"><lb n="0710a14" ed="T"/>義解篇第二<note place="inline">尋文見義。得意忘言。三慧克全。二依當轉</note></p>
-    <p xml:id="pT50p0710a1501"><lb n="0710a15" ed="T"/>習禪篇第三<note place="inline">修至無念。善惡都亡。亡其所亡。常住安樂</note></p>
-    <p xml:id="pT50p0710a1601"><lb n="0710a16" ed="T"/>明律篇第四<note place="inline">嚴而少恩。正而急護。嬰守三業。同彼金湯</note></p>
-    <p xml:id="pT50p0710a1701"><lb n="0710a17" ed="T"/>護法篇第五<note place="inline">家有良吏。守藏何虞。法有名師。外禦其侮</note></p>
-    <p xml:id="pT50p0710a1801"><lb n="0710a18" ed="T"/>感通篇第六<note place="inline">逆於常理。感而遂通。化于世間。觀之難測</note></p>
-    <p xml:id="pT50p0710a1901"><lb n="0710a19" ed="T"/>遺身篇第七<note place="inline">難捨易捐。施中第一。以穢漏體。迴金剛身</note></p>
-    <p xml:id="pT50p0710a2001"><lb n="0710a20" ed="T"/>讀誦篇第八<note place="inline">十種法師。此為高大。染枸櫞花。果時瓤赤</note></p>
-    <p xml:id="pT50p0710a2101"><lb n="0710a21" ed="T"/>興福篇第九<note place="inline">為己為他。福生罪滅。有為之善。其利博哉</note></p>
-    <p xml:id="pT50p0710a2201"><lb n="0710a22" ed="T"/>雜科聲德十<note place="inline">統攝諸科。同歸高尚。唱導之匠。光顯佛乘</note></p></div>
+    <p xml:id="pT50p0710a1301"><lb n="0710a13" ed="T"/>譯經篇第一</p><lg><l>變梵成華。通凡入聖。</l><l>法輪斯轉。諸佛所師</l></lg>
+    <p xml:id="pT50p0710a1401"><lb n="0710a14" ed="T"/>義解篇第二</p><lg><l>尋文見義。得意忘言。</l><l>三慧<note resp="sgsz">丁福保《佛學大辭典．三慧》：「一、聞慧，依見聞經教而生之智慧。二、思慧，依思惟道理而生之智慧。三、修慧，依修禪定而生之智慧。」</note>克全。二依當轉</l></lg>
+    <p xml:id="pT50p0710a1501"><lb n="0710a15" ed="T"/>習禪篇第三</p><lg><l>修至無念。善惡都亡。</l><l>亡其所亡。常住安樂</l></lg>
+    <p xml:id="pT50p0710a1601"><lb n="0710a16" ed="T"/>明律篇第四</p><lg><l>嚴而少恩。正而急護。</l><l>嬰守三業<note resp="sgsz">丁福保《佛學大辭典．三業》：「身口意三處之所作也。」</note>。同彼金湯</l></lg>
+    <p xml:id="pT50p0710a1701"><lb n="0710a17" ed="T"/>護法篇第五</p><lg><l>家有良吏。守藏何虞。</l><l>法有名師。外禦其侮</l></lg>
+    <p xml:id="pT50p0710a1801"><lb n="0710a18" ed="T"/>感通篇第六</p><lg><l>逆於常理。感而遂通。</l><l>化于世間。觀之難測</l></lg>
+    <p xml:id="pT50p0710a1901"><lb n="0710a19" ed="T"/>遺身篇第七</p><lg><l>難捨易捐。施中第一。</l><l>以穢漏體。迴金剛身</l></lg>
+    <p xml:id="pT50p0710a2001"><lb n="0710a20" ed="T"/>讀誦篇第八</p><lg><l>十種法師。此為高大。</l><l>染枸櫞花。果時瓤赤</l></lg>
+    <p xml:id="pT50p0710a2101"><lb n="0710a21" ed="T"/>興福篇第九</p><lg><l>為己為他。福生罪滅。</l><l>有為之善。其利博哉</l></lg>
+    <p xml:id="pT50p0710a2201"><lb n="0710a22" ed="T"/>雜科聲德十</p><lg><l>統攝諸科。同歸高尚。</l><l>唱導之匠。光顯佛乘</l></lg></div>
 <div><pb n="0710b" xml:id="T50.2061.0710b" ed="T"/><lb n="0710b01" ed="T"/>
 <lb n="0710b02" ed="T"/><head><anchor xml:id="beg0710001"/>宋<anchor xml:id="end0710001"/>高僧傳卷第一</head>
 <lb n="0710b03" ed="T"/>
@@ -118,7 +118,7 @@
     <div><lb n="0710b06" ed="T"/><head>譯經篇第一之一<note place="inline">正傳三人附見一人</note></head>
         <lb n="0710b07" ed="T"/><anchor n="T.50.2061.0710b07"/><head><date from-iso="0618-06-21" key="j19469512052491" to-iso="0907-06-06">唐</date><placeName key="CN0610103T49AA">京兆大薦福寺</placeName><persName key="A001470">義淨</persName>傳</head><p>
         <lb ed="T" n="0710b08"/><persName key="A001470">釋義淨</persName>字<persName key="A001470">文明</persName>，姓張氏，<placeName key="CN0130681Z24AA">范陽</placeName>人也<note resp="sgsz">義淨事蹟另見《開元釋教錄》卷九(cf. <ref>CBETA, T55, no. 2154, p. 568, b05</ref>)、《貞元新定釋教目錄》卷十三 (cf. <ref>CBETA, T55, no. 2157, p. 869, a09</ref>)、《續古今譯經圖紀》卷一 (cf. <ref>CBETA, T55, no. 2152, p. 370, a13</ref>)、《佛祖統紀》卷三十九 (cf. <ref>CBETA, T49, no. 2035, p. 369, b26</ref>)、《大唐龍興三藏聖教序》等。</note>。髫齓之時，
-    <lb ed="T" n="0710b09"/>辭親落髮，遍詢名匠，廣探群籍，內外<note resp="sgsz">顧炎武云：「《後漢書．方術傳》：『自是習為内學。』注：『蓋謂圖讖之書。其事祕宻，故稱内也。』褚少孫《補滑嵇傳》：『以傳記雜說為外家，是以六經為内也。』東漢儒者則以七緯為内學，六經為外學。」 (cf. 魏書．卷十六考證)</note>閑習，
+            <lb ed="T" n="0710b09"/>辭親落髮，遍詢名匠，廣探群籍，內外<note resp="sgsz">顧炎武云：「《後漢書．方術傳》：『自是習為内學。』注：『蓋謂圖讖之書。其事祕宻，故稱内也。』褚少孫《補滑嵇傳》：『以傳記雜說為外家，是以六經為内也。』東漢儒者則以七緯為内學，六經為外學。」 (cf. 魏書．卷十六考證)。而<persName key="A018428">王禹偁</persName>《左街僧錄通惠大師文集序》：「釋子謂佛書為內典，謂儒書為外學。」</note>閑習，
 <lb ed="T" n="0710b10"/>今古博通。<date key="j19581531958296" from-iso="0649-02-20" to-iso="0649-07-13">年十有五</date>，便萌其志，欲遊<placeName key="WW142XIYUE01AA">西域</placeName>，
 <lb ed="T" n="0710b11"/>仰<persName key="A000750">法顯</persName>之雅操，慕<persName key="A000294">玄奘</persName>之高風。加以勤無
         <lb ed="T" n="0710b12"/>棄時，手不釋卷，<date key="j19599551960338" from-iso="0654-01-27" to-iso="0655-02-14">弱冠</date>登具<note resp="makita">登壇受具足戒。丁福保《佛學大辭典．戒壇》：「梵云曼陀羅，譯曰壇。高築之，故云壇。」《佛學大辭典．具足戒 》：「為比丘，比丘尼當受之戒，別解脫戒中之至極也。」</note>，愈堅貞志。<date key="j19661861966540" from-iso="0671-02-18" to-iso="0672-02-07">咸亨
@@ -132,7 +132,7 @@
         <lb ed="T" n="0710b20"/>五十萬頌，金剛座<note resp="sgsz">丁福保《佛學大辭典．金剛座》：「佛成等正覺時之座處。」</note>真容一鋪、舍利三百粒。<persName key="A002099">天 
             <lb ed="T" n="0710b21"/>后</persName>親迎于<placeName key="CN0410301A04AA">上東門</placeName>外，諸寺緇伍<note resp="sgsz">丁福保《佛學大辭典．緇衣》：「紫而淺黑，非正黑。若黑為五方之正色。服之者非法也。」《佛學大辭典．緇流》：「僧著緇衣，故謂之緇流或緇徒。」</note>具幡蓋歌樂
 <lb ed="T" n="0710b22"/>前導，勅於<placeName key="CN0410311T08AA">佛授記寺</placeName>安置焉。初與<placeName key="CN0653221Z03AA">于闐</placeName>三
-    <lb ed="T" n="0710b23"/>藏<persName key="A001606">實叉難陀</persName>飜《華嚴經》<note resp="sgsz">T.279 (cf. 大方廣佛華嚴經<ref>CBETA, T10, no. 0279, p. 001, a03</ref>)</note>。<date key="j19768801977143" from-iso="0700-05-31" to-iso="0701-02-18">久視</date>之後乃<ref type="person" target="#A001470">自</ref>專譯。
+            <lb ed="T" n="0710b23"/>藏<persName key="A001606">實叉難陀</persName>飜《華嚴經》<note resp="sgsz">T.279 (cf.《大方廣佛華嚴經》<ref>CBETA, T10, no. 0279, p. 001, a03</ref>)</note>。<date key="j19768801977143" from-iso="0700-05-31" to-iso="0701-02-18">久視</date>之後乃<ref type="person" target="#A001470">自</ref>專譯。
 <lb ed="T" n="0710b24"/>起<date from-iso="0699" key="j19766981978233" to-iso="0704">庚子歲至長安癸卯</date>，於<placeName key="CN0410311T16AA">福先寺</placeName>及<placeName key="CN0610103T02AA">雍京西
     <lb ed="T" n="0710b25"/>明寺</placeName>譯《金光明最勝王》<note resp="sgsz">T.665 (cf. 金光明最勝王經<ref>CBETA, T16, no. 0665, p. 403, a03</ref>)</note>、《能斷金剛般若》<note resp="sgsz">T.239 (cf. 佛說能斷金剛般若波羅蜜多經<ref>CBETA, T08, no. 0239, p. 771, c21</ref>)</note>、《彌勒
     <lb ed="T" n="0710b26"/>成佛》<note resp="sgsz">T.455(cf. 佛說彌勒下生成佛經<ref>CBETA, T14, no. 0455, p. 426, a03</ref>)</note>、《一字呪王》<note resp="sgsz">T.1182(cf. 曼殊室利菩薩呪藏中一字呪王經<ref>CBETA, T20, no. 1182, p. 781, a19</ref>)</note>、《莊嚴王陀羅尼》<note resp="sgsz">T.1375(cf. 佛說莊嚴王陀羅尼呪經<ref>CBETA, T21, no. 1375, p. 894, c16</ref>)</note>、《長爪梵志》<note resp="sgsz">T.584(cf. 長爪梵志請問經<ref>CBETA, T14, no. 0584, p. 968, a08</ref>)</note>等
