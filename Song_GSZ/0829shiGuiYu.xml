@@ -7,7 +7,7 @@
 <lb ed="T" n="0746c08"/>元寺</placeName><persName key="A009877">道宗律師</persName>為力生焉。未及周星，念通
 <lb ed="T" n="0746c09"/>《法華》、《仁王》二經。登于<date key="j20424742042839" from-iso="0880-01-01" to-iso="0880-12-31">弱冠</date>，而全戒足，矜持
 <lb ed="T" n="0746c10"/>三行，靡曠四儀，習聽新章，<anchor xml:id="beg0746005"/>寺<anchor xml:id="end0746005"/>通講授。後
-<lb ed="T" n="0746c11"/>聞<placeName key="CN0410302Z03AA">洛京</placeName>、<placeName key="CN0610000E02AA">三輔</placeName>經論盛行，結侶求師。僅于十
+<lb ed="T" n="0746c11"/>聞<placeName key="CN0410302Z03AA">洛京</placeName>、<placeName key="CN0610000E01AA">三輔</placeName>經論盛行，結侶求師。僅于十
 <lb ed="T" n="0746c12"/>載，疏通性相，精大小乘，名數一支，《因明》一
 <lb ed="T" n="0746c13"/>學，《俱舍》、《唯識》、《維摩》、《上生》，皆深藏若虛也。復
 <lb ed="T" n="0746c14"/>往<placeName key="CN0410726Z12AA">南燕</placeName>就<persName key="A009862">暉公</persName>，重覆所學，研朱益丹，猶
@@ -55,7 +55,7 @@
     <linkGrp>
         <link targets="#0746c11 #0746c11"/>
         <ptr target="#A009874" type="person"/>
-        <ptr target="#CN0610000E02AA" type="place"/>
+        <ptr target="#CN0610000E01AA" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0746c14 #0746c15"/>

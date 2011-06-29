@@ -9,10 +9,14 @@
           <title xml:lang="en">Song Dynasty Collection of Biographies of Eminent Monks</title>
         </title>
         <author><name xml:lang="zh-Latn">Zanning</name><name xml:lang="zh-Hant">釋贊寧</name>(919-1001)</author>
+        <editor>John Kieschnick</editor>
+        <editor>Bo-Yong Zhang 張伯雍</editor>
+        <editor>Marcus Bingenheimer</editor>
         <respStmt><resp>Encoding, Markup</resp><name>Zhiwei Xu 許智偉, Bo-Yong Zhang 張伯雍</name></respStmt>
         <respStmt><resp>Programming, Interface Design</resp><name>Jen-jou Hung 洪振洲, Jhih-Sian Lee 李志賢</name></respStmt>
         <respStmt><resp>Archive Creation and Maintainance</resp><name>Ray Chou 周邦信</name></respStmt>
         <principal>Marcus Bingenheimer</principal>
+        <funder>Chiang Ching-kuo Foundation for International Scholarly Exchange 蔣經國國際學術交流基金會</funder>
       </titleStmt>
       <publicationStmt>
         <date>2008-2011</date>
@@ -22,18 +26,18 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <p>Text Base is the CBETA edition of the Chinese Buddhist Canon (Version 2009)</p>
+        <p>Text Base is the CBETA edition of the Chinese Buddhist Canon (Version 2009).</p>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
       <creation>The Song Gaoseng zhuan is dated <date>988 CE</date>.</creation>
     </profileDesc>
     <encodingDesc>
+      <projectDesc>
+        <p xml:lang="en">Based on previous work on the Gaoseng zhuan corpus the project "A Critical, Digital Edition of the Song gaoseng zhuan 宋高僧傳之校勘與數位化版本" aims at a best edition and visualization of the Song gaoseng zhuan. It is funded by the Chiang Ching-Kuo Foundation for International Scholarly Exchange 蔣經國國際學術交流基金會 (RG001-D-09) and conducted 2010 to 2012 at Dharma Drum Buddhist College. Next to this digital archive, the edition will be available through a web-interface and in print format.</p>
+      </projectDesc>
       <p xml:lang="zh">文本中之人名、地名或日期，若於《大正藏》中之參校用字較正確，則從參校用字。</p>
       <p xml:lang="en">Wherever we can, within a name or date, identify a mistake in the main text of the Taisho canon and a better reading is available in the apparatus, the character from the apparatus is used.</p>
-      <p xml:lang="zh">本數位版本是法鼓佛教學院佛教傳記文學專案的一部分<ref>http://buddhistinformatics.ddbc.edu.tw/biographies/</ref></p>
-      <p xml:lang="en">This digital edition is part of the Buddhist Biography Literature Project at Dharma Drum Buddhist College. <ref>http://buddhistinformatics.ddbc.edu.tw/biographies/</ref></p>
-      <p>For a discussion of the project please refer to <bibl>Bingenheimer, Marcus; Hong, Jen-Jou; Wiles, Simon 2009: “Markup meets GIS - Visualizing the ‘Biographies of Eminent Buddhist Monks’.” In: Proceedings Information Visualization IV 2009. Edited by E.Banissi et.al. Published by the IEEE Computer Society. ISBN: 978-0-7695-3733-7. pp.550-554. DOI: 10.1109/IV.2009.91</bibl> and <bibl>Jen-Jou HUNG, Marcus BINGENHEIMER, Zhi-Wei XU 2010: “漢文佛典的語意標記與應用：《高僧傳》文獻的時空資訊視覺化和語意搜尋 - Semantic markup for Chinese Buddhist texts and its Application- A Platform for Querying and Spatio-temporal Visualization of the Biographies of Eminent Monks”, (國立政治大學) 圖書與資訊學刊 (National Changchi University) Journal of Librarianship and Information Studies. Vol.2, No.3 (No.74), Aug 2010, pp.1-24.</bibl> <bibl>Jen-Jou HUNG, Marcus BINGENHEIMER, Simon WILES 2010: “Digital Texts and GIS: The interrogation and coordinated visualization of Classical Chinese texts" Proceedings International Conference on Computer Design and Applications ICCDA 2010. ISBN: 978-1-4244-7163-8</bibl></p>
     </encodingDesc>
   </teiHeader>
   <text>

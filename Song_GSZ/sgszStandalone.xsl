@@ -7,7 +7,7 @@
          
         <style type="text/css">
             body { font-size:14pt; 
-            background-color:#F0F8FF;
+            background-color:#F8FAFA;
             font-family: sans-serif;
             }
             #middle {float: left; width:60%;}

@@ -1,18 +1,18 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0722a26shiBanRuo">
-    <anchor n="T.50.2061.0722a26"/><head><date from-iso="0618-06-21" key="j19469512052491" to-iso="0907-06-06">唐</date>醴泉寺<persName key="A000993">般若</persName>傳</head><p>
+    <lb ed="T" n="0722a26"/><anchor n="T.50.2061.0722a26"/><head><date from-iso="0618-06-21" key="j19469512052491" to-iso="0907-06-06">唐</date><placeName key="CN0610104T27AA">醴泉寺</placeName><persName key="A000993">般若</persName>傳</head><p>
 <lb ed="T" n="0722a27"/><persName key="A000993">釋般若</persName>，<placeName key="WW034KASME02AA">罽賓國</placeName>人也。貌質魁梧，執戒嚴整，
-<lb ed="T" n="0722a28"/>在<placeName key="CN0610102Z07AA">京師</placeName>，充義學沙門。<persName key="A002120">憲宗</persName>敦崇佛門，深思
-<lb ed="T" n="0722a29"/>翻譯，奈何有事于<placeName key="CN0510184Z16AA">蜀部</placeName>，<persName key="A009181">劉闢</persName>阻命，<persName key="A009182">王承宗</persName><pb ed="T" n="0722b" xml:id="T50.2061.0722b"/>
-<lb ed="T" n="0722b01"/>未平，朝廷多故。至<date from-iso="0810-02-12" key="j20169492017302" to-iso="0811-01-31">元和五年庚寅</date>，詔工部
+        <lb ed="T" n="0722a28"/>在<placeName key="CN0610102Z07AA">京師</placeName>，充義學<ptr target="#n395"/>沙門。<persName key="A002120">憲宗</persName>敦崇佛門，深思
+        <lb ed="T" n="0722a29"/>翻譯，奈何有事于<placeName key="CN0510184Z16AA">蜀部</placeName>，<persName key="A009181">劉闢</persName>阻命<ptr target="#n416"/>，<persName key="A009182">王承宗</persName><pb ed="T" n="0722b" xml:id="T50.2061.0722b"/>
+        <lb ed="T" n="0722b01"/>未平，朝廷多故<ptr target="#n417"/>。至<date from-iso="0810-02-12" key="j20169492017302" to-iso="0811-01-31">元和五年庚寅</date>，詔工部
 <lb ed="T" n="0722b02"/>侍郎<persName key="A009183">歸登</persName>、<persName key="A009184">孟簡</persName>、<persName key="A009185">劉伯芻</persName>、<persName key="A009186">蕭俛</persName>等。就<placeName key="CN0610104T27AA">醴泉寺</placeName>譯
-<lb ed="T" n="0722b03"/>出經八卷、號《本生心地觀》，此之梵夾乃<persName key="A002146">高宗</persName>
-<lb ed="T" n="0722b04"/>朝<placeName key="LK0000000E01AA">師子國</placeName>所進者，寫畢進上。<persName key="A002146">帝</persName>覽有勅，「<persName key="A002146">朕</persName>
-        <lb ed="T" n="0722b05"/>願為序」。尋頌下其文，冠于經首，<ref target="#A000993" type="person">三藏</ref>賜帛，
-<lb ed="T" n="0722b06"/>證義諸沙門錫賚有差。先於<date from-iso="0785" key="j20078242015139" to-iso="0805">貞元中</date>譯《華
+<lb ed="T" n="0722b03"/>出經八卷，號《本生心地觀》，此之梵夾乃<persName key="A002146">高宗</persName>
+        <lb ed="T" n="0722b04"/>朝<placeName key="LK0000000E01AA">師子國</placeName>所進者，寫畢進上。<ref type="person" target="#A002120">帝</ref>覽有勅，「<ref type="person" target="#A002120">朕</ref>
+        <lb ed="T" n="0722b05"/>願為序」。尋<anchor xml:id="beg0722sgsz5"/><corr>頒</corr><anchor xml:id="end0722sgsz5"/>下其文，冠于經首，<ref target="#A000993" type="person">三藏</ref>賜帛，
+        <lb ed="T" n="0722b06"/>證義<ptr target="#n54"/>諸沙門錫賚有差。<anchor xml:id="beg0722sgsz6"/>先<anchor xml:id="end0722sgsz6"/>於<date from-iso="0785" key="j20078242015139" to-iso="0805">貞元中</date>譯《華
 <lb ed="T" n="0722b07"/>嚴經》後分四十卷，此蓋<placeName key="INORKH000E01AA">烏荼國</placeName>王所進者，于
 <lb ed="T" n="0722b08"/>時而賜紫衣。後<date from-iso="0847" key="j20304612035523" to-iso="0860">大中中</date>，<persName key="A009180">法寶大師玄暢</persName>奏請
-<lb ed="T" n="0722b09"/>入藏焉。</p>   
+<lb ed="T" n="0722b09"/>入藏焉。</p>
     <linkGrp>
         <link targets="#0722a27 #0722a27"/>
         <ptr target="#A000993" type="person"/>
@@ -25,8 +25,18 @@
     </linkGrp>
     <linkGrp>
         <link targets="#0722a28 #0722a29"/>
-        <ptr target="#A002120" type="person"/>
+        <ptr target="#A009181" type="person"/>
         <ptr target="#CN0510184Z16AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0722a28 #0722b01"/>
+        <ptr target="#A002120" type="person"/>
+        <ptr target="#A009181" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0722a28 #0722b01"/>
+        <ptr target="#A002120" type="person"/>
+        <ptr target="#A009182" type="person"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0722b01 #0722b03"/>
@@ -41,7 +51,12 @@
     <linkGrp>
         <link targets="#0722b04 #0722b05"/>
         <ptr target="#A009180" type="person"/>
-        <ptr target="#A002146" type="person"/>
+        <ptr target="#A002120" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0722b06 #0722b07"/>
+        <ptr target="#A000993" type="person"/>
+        <ptr target="#j20078242015139" type="time"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0722b08 #0722b09"/>

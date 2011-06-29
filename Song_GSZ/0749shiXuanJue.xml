@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0716c17shiXuanJue">
     <lb ed="T" n="0716c17"/><anchor n="T.50.2061.0716c17"/><head><date from-iso="0618-06-21" key="j19469512052491" to-iso="0907-06-06">唐</date><placeName key="CN0610222A01AA">玉華寺</placeName><persName key="A008881">玄覺</persName>傳</head><p>
-        <lb ed="T" n="0716c18"/><persName key="A008881">釋玄覺</persName>，<placeName key="CN0652101Z22AA">高昌國</placeName>人也，西土種姓<note resp="sgsz">《佛光大辭典．種姓制度》頁5867：「種姓，英語、法語 caste，德語 kaste。係依種族、職業、地域等將社會區分為各種尊卑貴賤階級之制度，為一世襲、封閉而不平等之社會制度。」</note>未得聞焉。
+        <lb ed="T" n="0716c18"/><persName key="A008881">釋玄覺</persName>，<placeName key="CN0652101Z22AA">高昌國</placeName>人也，西土種姓<ptr target="#n271"/>未得聞焉。
 <lb ed="T" n="0716c19"/>學慕大乘，從<persName key="A000294">玄奘三藏</persName>研覈經論，亦於<placeName key="CN0610222A01AA">玉
-    <lb ed="T" n="0716c20"/>華宮</placeName>參預翻譯。及《大般若經》<note resp="sgsz">案《大唐故三藏玄奘師行狀》：「以<date from-iso="0660-02-19" key="j19621691963550" to-iso="0663-12-01">顯慶五年正月一日。翻《大般若》。至龍朔三年十月二十三日</date>終訖。」(cf. 大唐故三藏玄奘師行狀<ref>CBETA, T50, no. 2052, p. 218, c29</ref>)</note>向就<note resp="sgsz">向，近也。就，成也。</note>，同請翻
-        <lb ed="T" n="0716c21"/>《寶積經》，<persName key="A000294">奘</persName>辭惙然<note resp="sgsz">《說文解字．卷十下》：「惙，憂也。《詩》曰：『憂心惙惙』」</note>。<persName key="A008881">覺</persName>因夢一浮圖莊嚴高大，
+    <lb ed="T" n="0716c20"/>華宮</placeName>參預翻譯。及《大般若經》<ptr target="#n272"/>向就<ptr target="#n273"/>，同請翻
+        <lb ed="T" n="0716c21"/>《寶積經》，<persName key="A000294">奘</persName>辭惙然<ptr target="#n274"/>。<persName key="A008881">覺</persName>因夢一浮圖莊嚴高大，
 <lb ed="T" n="0716c22"/>忽然摧倒，遂驚起告<persName key="A000294">奘</persName>。<persName key="A000294">奘</persName>曰：「非<ref target="#A008881" type="person">汝</ref>身事。此
-        <lb ed="T" n="0716c23"/><ref target="#A000294" type="person">吾</ref>滅之徵耳。」<persName key="A008881">覺</persName>暗悲安倣<note resp="sgsz">《康熙字典．卷二》：「倣，音『紡』，傚也、依也。通作『仿』，亦作『放』。」語出《禮記．檀弓上》：「哲人其萎，則<ref target="#A017911" type="person">吾</ref>將安放？」</note>，勸諸法侶競求
+        <lb ed="T" n="0716c23"/><ref target="#A000294" type="person">吾</ref>滅之徵耳。」<persName key="A008881">覺</persName>暗悲安倣<ptr target="#n275"/>，勸諸法侶競求
 <lb ed="T" n="0716c24"/>醫藥。<persName key="A008881">覺</persName>後莫測終焉。</p>
     <linkGrp>
         <link targets="#0716c18 #0716c18"/>

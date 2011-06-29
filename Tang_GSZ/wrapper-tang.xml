@@ -4,8 +4,8 @@
     <fileDesc>
       <titleStmt>
         <title>
-          <title xml:lang="zh-Latn">Tang Gaoseng Zhuan</title>
-          <title xml:lang="zh-Hant">唐高僧傳</title>
+          <title xml:lang="zh-Latn">Xu Gaoseng Zhuan</title>
+          <title xml:lang="zh-Hant">續高僧傳</title>
           <title xml:lang="en">Tang Dynasty Collection of Biographies of Eminent Monks</title>
         </title>
         <author><name xml:lang="zh-Latn">Daoxuan</name><name xml:lang="zh-Hant">道宣</name>(596-667)</author>
@@ -38,7 +38,7 @@
   </teiHeader>
   <text>
     <body>
-      <!-- Numbering in filenames continues from the Tang Gaoseng Zhuan -->
+      <!-- Numbering in filenames continues from the Liang Gaoseng Zhuan -->
       <xi:include href="0258sengQiePoLuo.xml"/>
       <xi:include href="0259shiBaoChang.xml"/>
       <xi:include href="0260shiTanYao.xml"/>

@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0717b23shiZhiXian">
     <lb ed="T" n="0717b23"/><anchor n="T.50.2061.0717b23"/><head><date from-iso="0618-06-21" key="j19469512052491" to-iso="0907-06-06">唐</date><placeName key="IDJW00000E01AA">波凌國</placeName><persName key="A000871">智賢</persName>傳（<persName key="A001438">會寧</persName>）</head><p>
-<lb ed="T" n="0717b24"/><persName key="A000871">釋若那跋陀羅</persName>，華言<persName key="A000871">智賢</persName>，<placeName key="IDJW00000E01AA">南海波凌</placeName><note place="inline">亦曰<placeName key="IDJW00000E01AA">訶凌</placeName></note>國
+<lb ed="T" n="0717b24"/><persName key="A000871">釋若那跋陀羅</persName>，華言<persName key="A000871">智賢</persName>，<placeName key="IDJW00000E01AA">南海波凌</placeName>（亦曰<placeName key="IDJW00000E01AA">訶凌</placeName>）國
 <lb ed="T" n="0717b25"/>人也，善三藏學。<date from-iso="0664" key="j19636161964354" to-iso="0666">麟德年中</date>，有<placeName key="CN0510108Z11AA">成都</placeName>沙門<persName key="A001438">會
     <lb ed="T" n="0717b26"/>寧</persName>欲往<placeName key="IN0000000E01AA">天竺</placeName>，觀<anchor xml:id="beg0717sgsz5"/>禮<anchor xml:id="end0717sgsz5"/>聖跡，泛舶西遊，路經
         <lb ed="T" n="0717b27"/><placeName key="IDJW00000E01AA">波凌</placeName>，遂與<persName key="A000871">智賢</persName>同譯《涅槃》後分二卷。此於
-        <lb ed="T" n="0717b28"/>《阿笈摩經》<note resp="makita">即《阿含經》。</note>內譯出，說<persName key="A002799">世尊</persName>焚棺、收設利羅<note resp="sgsz">即「舍利子」。</note>
+        <lb ed="T" n="0717b28"/>《阿笈摩經》<ptr target="#n310"/>內譯出，說<persName key="A002799">世尊</persName>焚棺、收設利羅<ptr target="#n311"/>
 <lb ed="T" n="0717b29"/>等事，與《大涅槃》頗不相涉。譯畢寄經達<placeName key="VNB64DD00Z02AA">交<pb ed="T" n="0717c" xml:id="T50.2061.0717c"/>
     <lb ed="T" n="0717c01"/>州</placeName>，<persName key="A001438">寧</persName>方之<placeName key="WW142XIYUE01AA">西域</placeName>。至<date from-iso="0676" key="j19683121968547" to-iso="0677">儀鳳年初</date>，<placeName key="VNB64DD00Z02AA">交州</placeName>都督<persName key="A018714">梁
         <lb ed="T" n="0717c02"/>難敵</persName>遣使同<persName key="A001438">會寧</persName>弟子<persName key="A018715">運期</persName>奉表進經，入

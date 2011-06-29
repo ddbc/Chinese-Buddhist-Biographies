@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0785b18shiGuangRen">
-    <anchor n="T.50.2061.0785a25"/><head><date from-iso="0907-06-10" key="j20524952058534" to-iso="0923-12-22">梁</date>撫州疎山<persName key="A010678">光仁</persName>傳（<persName key="A010680">本仁</persName> <persName key="A010681">居遁</persName>）</head><p>
+    <anchor n="T.50.2061.0785a25"/><head><date from-iso="0907-06-10" key="j20524952058534" to-iso="0923-12-22">梁</date>撫州疎山<persName key="A010678">光仁</persName>傳（<persName key="A009487">本仁</persName> <persName key="A010681">居遁</persName>）</head><p>
 <lb ed="T" n="0785b18"/><persName key="A010678">釋光仁</persName>，不知何許人也。其形矬而么麼，幼
 <lb ed="T" n="0785b19"/>則氣槩凌物，精爽殆與常不同。早參<persName key="A009489">洞山</persName>，
 <lb ed="T" n="0785b20"/>深入玄奧，其辯給又多於人也。嘗問<persName key="A005255">香嚴
@@ -9,7 +9,7 @@
 <lb ed="T" n="0785b23"/>請，頗有言辭，著《四大等頌略》、《華嚴長者論》，
 <lb ed="T" n="0785b24"/>行于世。終入龕中，已有白鹿至靈前屈
 <lb ed="T" n="0785b25"/>膝而起，時眾謂為作弔焉。次筠州<placeName key="CN0360983T03AA">白水院</placeName>
-<lb ed="T" n="0785b26"/><persName key="A010680">釋本仁</persName>，不知何許人也。得心於<persName key="A009489">洞山</persName>法席。
+<lb ed="T" n="0785b26"/><persName key="A009487">釋本仁</persName>，不知何許人也。得心於<persName key="A009489">洞山</persName>法席。
 <lb ed="T" n="0785b27"/>仁罕談道，而四方之人若影之附形，却之
 <lb ed="T" n="0785b28"/>還至。乃徇<placeName key="CN0321102Z12AA">丹陽</placeName>人請，住無幾時。<date from-iso="0901" key="j20502812051391" to-iso="0904">天復</date>中，至
 <lb ed="T" n="0785b29"/>洪井高安<placeName key="CN0360983T03AA">白水院</placeName>聚徒。垂欲入滅，先觸處<pb ed="T" n="0785c" xml:id="T50.2061.0785c"/>
@@ -47,17 +47,17 @@
     </linkGrp>
     <linkGrp>
         <link targets="#0785b26 #0785b27"/>
-        <ptr target="#A010680" type="person"/>
+        <ptr target="#A009487" type="person"/>
         <ptr target="#A009489" type="person"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0785b28 #0785b28"/>
-        <ptr target="#A010680" type="person"/>
+        <ptr target="#A009487" type="person"/>
         <ptr target="#CN0321102Z12AA" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0785b28 #0785b29"/>
-        <ptr target="#A010680" type="person"/>
+        <ptr target="#A009487" type="person"/>
         <ptr target="#CN0360983T03AA" type="place"/>
         <ptr target="#j20502812051391" type="time"/>
     </linkGrp>

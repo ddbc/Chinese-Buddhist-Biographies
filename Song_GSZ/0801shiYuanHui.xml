@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0734a11shiZhiSheng">
     <anchor n="T.50.2061.0734a11"/><head><date from-iso="0618-06-21" key="j19469512052491" to-iso="0907-06-06">唐</date>中大雲寺<persName key="A001416">圓暉</persName>傳（<persName key="A001902">懷遠</persName> <persName key="A009380">崇廙</persName>）</head><p>
-        <lb ed="T" n="0734a12"/><persName key="A001416">釋圓暉</persName>，未詳何許人也。<placeName key="CN0610000G01AA">關輔</placeName>之間，聲名籍
+        <lb ed="T" n="0734a12"/><persName key="A001416">釋圓暉</persName>，未詳何許人也。<placeName key="CN0610000E01AA">關輔</placeName>之間，聲名籍
 <lb ed="T" n="0734a13"/>甚，精研性相，善達諸宗。幼於《俱舍》一門，最
 <lb ed="T" n="0734a14"/>為銳意。時禮部侍郎<persName key="A009364">賈曾</persName>歸心釋氏，好樂
 <lb ed="T" n="0734a15"/>斯文，多命<persName key="A001416">暉</persName>談此宗相，然其難者則非想
@@ -15,7 +15,7 @@
     <linkGrp>
         <link targets="#0734a12 #0734a13"/>
         <ptr target="#A001416" type="person"/>
-        <ptr target="#CN0610000G01AA" type="place"/>
+        <ptr target="#CN0610000E01AA" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0734a14 #0734a16"/>

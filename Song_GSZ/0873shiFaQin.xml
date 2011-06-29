@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0764b13shiFaQin">
-    <anchor n="T.50.2061.0764b13"/><head><date from-iso="0618-06-21" key="j19469512052491" to-iso="0907-06-06">唐</date><placeName key="CN0330110M01AA">杭州徑山</placeName><persName key="A004218">法欽</persName>傳</head><p>
+    <anchor n="T.50.2061.0764b13"/><head><date from-iso="0618-06-21" key="j19469512052491" to-iso="0907-06-06">唐</date><placeName key="CN0330185T17AA">杭州徑山</placeName><persName key="A004218">法欽</persName>傳</head><p>
         <lb ed="T" n="0764b14"/><persName key="A004218">釋法欽</persName>，俗姓朱氏，<placeName key="CN0310118Z09AA">吳郡崑山</placeName>人也。門地儒雅，
 <lb ed="T" n="0764b15"/>祖、考皆達玄儒，而傲睨林藪不仕。<persName key="A004218">欽</persName>託孕，
         <lb ed="T" n="0764b16"/>母<persName key="A019152">管氏</persName>，忽夢蓮華生於庭際，因折一房繫
@@ -15,7 +15,7 @@
 <lb ed="T" n="0764b25"/>戒，鍊行安禪，領徑直之一言，越周旋之三
         <lb ed="T" n="0764b26"/>學。自此辭<persName key="A010251">素</persName>南征，<persName key="A010251">素</persName>曰：「<ref type="person" target="#A004218">汝</ref>乘流而行，逢徑
         <lb ed="T" n="0764b27"/>即止。」後到<placeName key="CN0330185Z01AA">臨安</placeName>，視東北之高巒，乃<placeName key="CN0330185M03AA">天目</placeName>之
-<lb ed="T" n="0764b28"/>分徑，偶問樵子，言是<placeName key="CN0330110M01AA">徑山</placeName>。遂謀挂錫於此，
+<lb ed="T" n="0764b28"/>分徑，偶問樵子，言是<placeName key="CN0330185T17AA">徑山</placeName>。遂謀挂錫於此，
 <lb ed="T" n="0764b29"/>見苫蓋覆罝網，屑近而宴居，介然而坐。時雨<pb ed="T" n="0764c" xml:id="T50.2061.0764c"/>
 <lb ed="T" n="0764c01"/>雪方霽，旁無煙火，獵者至，將取其物，頗甚
 <lb ed="T" n="0764c02"/>驚異歎嗟，皆焚網折弓而知止殺焉。下山
@@ -47,7 +47,7 @@
             <lb ed="T" n="0764c28"/>弟子<persName key="A010315">崇惠禪師</persName>，次大祿山<persName key="A010316">顏禪師</persName>，參學范陽
             <lb ed="T" n="0764c29"/>杏山<persName key="A010317">悟禪師</persName>，次<placeName key="CN0130534Z04AA">清陽</placeName><persName key="A010318">廣敷禪師</persName>。于時奉葬<pb ed="T" n="0765a" xml:id="T50.2061.0765a"/>
             <lb ed="T" n="0765a01"/>禮者，弟子<persName key="A010319">實相</persName>、<persName key="A010320">常覺</persName>等，以全身起塔于<placeName key="CN0330103T13AA">龍
-                    <lb ed="T" n="0765a02"/>興淨院</placeName>。初，<persName key="A004218">欽</persName>在<ref type="place" target="#CN0330110M01AA">山</ref>，猛獸鷙鳥馴狎。有白兔
+                    <lb ed="T" n="0765a02"/>興淨院</placeName>。初，<persName key="A004218">欽</persName>在<ref type="place" target="#CN0330185T17AA">山</ref>，猛獸鷙鳥馴狎。有白兔
 <lb ed="T" n="0765a03"/>二跪于杖屨之間。又嘗養一鷄，不食生類，
 <lb ed="T" n="0765a04"/>隨之若影，不遊他所。及其入<placeName key="CN0610102Z07AA">長安</placeName>，長鳴三
 <lb ed="T" n="0765a05"/>日而絕。今鷄塚在山之椒。<persName key="A004218">欽</persName>形貌魁岸，身
@@ -79,7 +79,7 @@
         <linkGrp>
                 <link targets="#0764b27 #0764b29"/>
                 <ptr target="#A004218" type="person"/>
-                <ptr target="#CN0330110M01AA" type="place"/>
+                <ptr target="#CN0330185T17AA" type="place"/>
         </linkGrp>
         <linkGrp>
                 <link targets="#0764c03 #0764c04"/>

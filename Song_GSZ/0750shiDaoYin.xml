@@ -1,51 +1,51 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0716c25shiDaoYin">
     <lb ed="T" n="0716c26"/><anchor n="T.50.2061.0716c25"/><head><date from-iso="0618-06-21" key="j19469512052491" to-iso="0907-06-06">唐</date><placeName key="CN0510108T21AA">益州多寶寺</placeName><persName key="A008882">道因</persName>傳（<persName key="A005407">嵩公</persName> <persName key="A004354">寶暹</persName>）</head><p>
-        <lb ed="T" n="0716c26"/><persName key="A008882">釋道因</persName>，姓侯氏，<placeName key="CN0410928Z04AA">濮陽</placeName>人也。稟祜居醇<note resp="sgsz">承襲福份，稟性純一。《說文解字．卷一》：「祜，福也。」《說文解字．卷十四下》：「醇，不澆酒也。」</note>，含章<note resp="makita">含章，包含美質。《易經．坤卦》：「六三，含章可貞。」<persName key="A005009">孔穎達</persName>疏：「章，美也。」</note>
-        <lb ed="T" n="0716c27"/>縱哲，<date key="j19358231937649" from-iso="0588-01-01" to-iso="0592-12-31">覃訏之歲</date><note resp="makita">覃訏，學歩能語之歲。《詩經．大雅．生民》：「實覃實訏，厥聲載路。」</note>，粹<anchor type="cb-app" xml:id="begd1e2220"/>采<anchor xml:id="endd1e2220"/><note resp="sgsz">精美多采。《淮南子．說山訓》：「貂裘而雜，不若狐裘而粹。」又《漢書．卷九十一》：「文采千匹。」<persName key="A019696">顏師古</persName>注：「帛之有色者曰『采』。」</note>多奇，<date key="j19376501940205" notAfter-iso="0599" notBefore-iso="0593">髫齓之辰</date><note resp="sgsz">喻童年。《說文解字．卷九上》：「髫，小兒垂結也。」《說文解字．卷二下》：「齓，毁齒也。男八月生齒，八嵗而齔；女七月生齒，七嵗而齔。」</note>，殊姿特
-        <lb ed="T" n="0716c28"/>茂。孝愛之節，慈順之風，率志于斯，因心<note resp="sgsz">因心，親愛之心。《詩經．大雅．皇矣》：「維此王季，因心則友。」毛疏：「因，親也。」</note>以
-        <lb ed="T" n="0716c29"/>極。年甫<date key="j19376521938016" from-iso="0593-01-03" to-iso="0594-01-02">七歲</date>，丁于內艱<note resp="sgsz">丁內艱，猶「丁母艱」，喪母也。《舊唐書．卷一百四十七．<persName key="A019698">杜悰</persName>》：「丁內艱，<date key="j20257202026073" from-iso="0833-01-29" to-iso="0834-02-16">八年</date>，起復授忠武軍節度使。」</note>，嗌粒絕漿，殆乎滅<pb ed="T" n="0717a" xml:id="T50.2061.0717a"/>
-        <lb ed="T" n="0717a01"/>性<note resp="sgsz">性，性命也。</note>。成人<note resp="sgsz">成人，德才兼備者。《論語．憲問》：「<persName key="A002891">子路</persName>問『成人』。<ref type="person" target="#A002174">子</ref>曰：『若<persName key="A019699">臧武仲</persName>之知、<persName key="A019700">公綽</persName>之不欲、<persName key="A019701">卞莊子</persName>之勇、<persName key="A019702">冉求</persName>之藝，文之以禮樂，亦可以為成人矣！』」</note>之德，見稱州里。<date key="j19387451939110" from-iso="0596-01-01" to-iso="0596-12-31">免喪</date><note resp="sgsz">案《舊唐書/志/卷二十七 /禮儀七》：「三年之制，說者紛然。<persName key="A002959">鄭玄</persName>以為二十七月，<persName key="A019703">王肅</persName>以為二十五月。」</note>之後，思酬
-        <lb ed="T" n="0717a02"/>罔極<note resp="makita">語出《詩經．小雅．蓼莪》：「欲報之德，昊天罔極。」言不復報親恩也。</note>，出家之志，人莫我移。便詣<placeName key="CN0370113T03AA">靈巖寺</placeName>求
-        <lb ed="T" n="0717a03"/>師誦習，曾不浹旬<note resp="sgsz">浹旬，十日。猶「浹日」，遍一旬也。</note>，通《涅槃經》二帙，舉眾驚
+        <lb ed="T" n="0716c26"/><persName key="A008882">釋道因</persName>，姓侯氏，<placeName key="CN0410928Z04AA">濮陽</placeName>人也。稟祜居醇<ptr target="#n276"/>，含章<ptr target="#n277"/>
+        <lb ed="T" n="0716c27"/>縱哲，<date key="j19358231937649" from-iso="0588-01-01" to-iso="0592-12-31">覃訏之歲</date><ptr target="#n278"/>，粹<anchor type="cb-app" xml:id="begd1e2220"/>采<anchor xml:id="endd1e2220"/><ptr target="#n279"/>多奇，<date key="j19376501940205" notAfter-iso="0599" notBefore-iso="0593">髫齓之辰</date><ptr target="#n280"/>，殊姿特
+        <lb ed="T" n="0716c28"/>茂。孝愛之節，慈順之風，率志于斯，因心<ptr target="#n281"/>以
+        <lb ed="T" n="0716c29"/>極。年甫<date key="j19376521938016" from-iso="0593-01-03" to-iso="0594-01-02">七歲</date>，丁于內艱<ptr target="#n282"/>，嗌粒絕漿，殆乎滅<pb ed="T" n="0717a" xml:id="T50.2061.0717a"/>
+        <lb ed="T" n="0717a01"/>性<ptr target="#n283"/>。成人<ptr target="#n284"/>之德，見稱州里。<date key="j19387451939110" from-iso="0596-01-01" to-iso="0596-12-31">免喪</date><ptr target="#n285"/>之後，思酬
+        <lb ed="T" n="0717a02"/>罔極<ptr target="#n286"/>，出家之志，人莫我移。便詣<placeName key="CN0370113T03AA">靈巖寺</placeName>求
+        <lb ed="T" n="0717a03"/>師誦習，曾不浹旬<ptr target="#n287"/>，通《涅槃經》二帙，舉眾驚
         <lb ed="T" n="0717a04"/>駭，謂為神童。落髮已來，砥礪其行，揣摩《義
-        <lb ed="T" n="0717a05"/>章》<note resp="sgsz">《涅槃義章》四卷，<date from-iso="0618-06-21" key="j19469512052491" to-iso="0907-06-06">唐</date><persName key="A002384">玄會</persName>造。(cf. 《續高僧傳》<ref>CBETA, T50, no. 2060, p. 542, c12</ref>)</note>，即講《涅槃》，宿齒名流，咸所歎服。及升上
-        <lb ed="T" n="0717a06"/>品<note resp="sgsz">丁福保《佛學大辭典．三品沙彌》：「上品沙彌，二十已上者，名為名字沙彌。本是僧之位，以緣未及，故稱沙彌之名字。 」</note>，旋學律儀<note resp="sgsz">丁福保《佛學大辭典．律儀》：「律者法律，儀者儀則。因而立身之儀則也。行事鈔資持記中一之二曰：『通禁制止名律，造作有相名儀。』 」</note>，又於<placeName key="CN0320303Z07AA">彭城</placeName><persName key="A005407">嵩法師</persName>所傳《攝大
+        <lb ed="T" n="0717a05"/>章》<ptr target="#n288"/>，即講《涅槃》，宿齒名流，咸所歎服。及升上
+        <lb ed="T" n="0717a06"/>品<ptr target="#n289"/>，旋學律儀<ptr target="#n290"/>，又於<placeName key="CN0320303Z07AA">彭城</placeName><persName key="A005407">嵩法師</persName>所傳《攝大
 <lb ed="T" n="0717a07"/>乘》。<persName key="A005407">嵩公</persName>懿德玄猷，蘭薰月映，門徒學侶，魚貫
 <lb ed="T" n="0717a08"/>鳧趨，講室談筵，為之囂隘。遂依科戒而為
-        <lb ed="T" n="0717a09"/>節文<note resp="sgsz">節文，禮儀、禮節也。《禮記．檀弓下》：「辟踊，哀之至也。有筭為之節文也。」<persName key="A005009">孔穎達</persName>疏：「男踊女辟，是哀痛之至極也。若不裁限，恐傷其性。故辟踊有筭為準節文章。」</note>，年少沙門且令習律，曉《四分》者，方許
-        <lb ed="T" n="0717a10"/>入聽。<persName key="A008882">因</persName>夏臘雖幼，業行<note resp="sgsz">丁福保《佛學大辭典．業行》：「業即行，非別義。種類雜多，故重二字。」</note>攸高，獨於眾中，逈
+        <lb ed="T" n="0717a09"/>節文<ptr target="#n291"/>，年少沙門且令習律，曉《四分》者，方許
+        <lb ed="T" n="0717a10"/>入聽。<persName key="A008882">因</persName>夏臘雖幼，業行<ptr target="#n292"/>攸高，獨於眾中，逈
         <lb ed="T" n="0717a11"/>見推揖，每敷《攝論》，即令覆講。後隱<placeName key="CN0370902M01AA">泰嶽</placeName>，
         <lb ed="T" n="0717a12"/>凡經四秋。將詣<placeName key="CN0410302Z03AA">洛中</placeName>，屬昏<anchor xml:id="beg0717sgsz1"/><corr>季</corr><anchor xml:id="end0717sgsz1"/>陵夷，法<anchor xml:id="beg0717001"/><corr>網</corr><anchor xml:id="end0717001"/>
-        <lb ed="T" n="0717a13"/>嚴峻，僧無徒侶，弗許遊方<note resp="sgsz">此禁不詳，疑指<date from-iso="0621-01-31" key="j19479061948289" to-iso="0622-02-18">武德四年</date><persName key="A002414">李世民</persName>平<placeName key="CN0410302Z03AA">洛陽</placeName>事。案《資治通鑑．卷一百八十九》：「廢諸道塲，城中僧尼，留有名德者各三十人，餘皆返初。」又《續高僧傳．卷二十四》：「<date from-iso="0621-01-31" key="j19479061948289" to-iso="0622-02-18">武德四年</date>掃定東夏。有勅偽亂地僧是非難識。州別一寺留三十僧。餘者從俗。」 (cf.<ref>CBETA, T50, no. 2060, p. 633, c26</ref>)</note>。於是杖錫出
-        <lb ed="T" n="0717a14"/>山，孑焉超邁<note resp="sgsz">《全唐文．卷二百一．<placeName key="CN0510108T21AA">益州多寶寺</placeName><persName key="A008882">道因</persName>法師碑文》作「孤邁」，義較洽。</note>，恐<anchor xml:id="beg0717sgsz2"/><corr>罹</corr><anchor xml:id="end0717sgsz2"/>刑憲，靜念觀音。少選之
-        <lb ed="T" n="0717a15"/>間，有僧歘<note resp="sgsz">歘，忽也。《康熙字典．卷十五》：「歘，音『䬍』，《說文》：『有所吹起也。』又《玉篇》：『忽也。』」</note>至，皓然白首，請與偕行。迨至<placeName key="CN0410304A02AA">銅
+        <lb ed="T" n="0717a13"/>嚴峻，僧無徒侶，弗許遊方<ptr target="#n293"/>。於是杖錫出
+        <lb ed="T" n="0717a14"/>山，孑焉超邁<ptr target="#n294"/>，恐<anchor xml:id="beg0717sgsz2"/><corr>罹</corr><anchor xml:id="end0717sgsz2"/>刑憲，靜念觀音。少選之
+        <lb ed="T" n="0717a15"/>間，有僧歘<ptr target="#n295"/>至，皓然白首，請與偕行。迨至<placeName key="CN0410304A02AA">銅
             <lb ed="T" n="0717a16"/>街</placeName>，暨於金地，俯仰之際，莫知所在。咸謂<persName key="A002799">善
 <lb ed="T" n="0717a17"/>逝</persName>之力，有感斯見。未幾，因避難<placeName key="CN0510000E02AA">三蜀</placeName>，居于
 <lb ed="T" n="0717a18"/><placeName key="CN0510108T21AA">多寶寺</placeName>。好事者素聞道譽，乃命開筵《攝論》、《維
 <lb ed="T" n="0717a19"/>摩》，聽者千數。時有<persName key="A004354">寶暹法師</persName>，<placeName key="CN0320705Z07AA">東海</placeName>人也，殖
         <lb ed="T" n="0717a20"/>藝該洽，尤善大乘，昔在<date from-iso="0581-03-06" key="j19333311946884" to-iso="0618-04-15">隋朝</date>，英塵久播，學
-        <lb ed="T" n="0717a21"/>徒來請，接武<note resp="sgsz">《毛詩李黃集解．卷三十一》：「毛氏曰：『武，繼也。』蘇氏曰：『武，迹也。』」</note>磨肩。<persName key="A004354">暹公</persName>傲爾其間，仰之彌
+        <lb ed="T" n="0717a21"/>徒來請，接武<ptr target="#n296"/>磨肩。<persName key="A004354">暹公</persName>傲爾其間，仰之彌
         <lb ed="T" n="0717a22"/>峻，每至<persName key="A008882">因</persName>之論席，肅然改容，沈吟久之，方
-        <lb ed="T" n="0717a23"/>用酬遣。<persName key="A008882">因</persName>抗音<note resp="sgsz">抗音，高聲也。《唐才子傳．卷八》：「常對花臨月，悠然獨酌，抗音長謡，放適自遂。」</note>馳辯，雷驚波注，盡妙窮微，
-        <lb ed="T" n="0717a24"/>藏牙折角<note resp="makita">喻雄辯難敵也。語出《山堂肆考．卷二百十八》、《漢書．卷六十七》。</note>。<placeName key="CN0510108Z31AA">益州</placeName>總管鄧國公<persName key="A008885">竇璡</persName>、行臺左僕
+        <lb ed="T" n="0717a23"/>用酬遣。<persName key="A008882">因</persName>抗音<ptr target="#n297"/>馳辯，雷驚波注，盡妙窮微，
+        <lb ed="T" n="0717a24"/>藏牙折角<ptr target="#n298"/>。<placeName key="CN0510108Z31AA">益州</placeName>總管鄧國公<persName key="A008885">竇璡</persName>、行臺左僕
         <lb ed="T" n="0717a25"/>射<anchor xml:id="beg0717002"/><corr>賛</corr><anchor xml:id="end0717002"/>國公<persName key="A005740">竇軌</persName>、長史申國公<persName key="A008886">高士廉</persName>、范陽公
 <lb ed="T" n="0717a26"/><persName key="A008888">盧承慶</persName>，及前後首僚，西南嶽牧，並國華朝秀，
-        <lb ed="T" n="0717a27"/>重望崇班<note resp="makita">崇班，高位也。<persName key="A007025">屠隆</persName>《綵毫記．為國薦賢》：「近侍崇班，貂璫領袖。」</note>，共籍芳聲，俱申虔仰。乃於<placeName key="CN0510182T06AA">彭門
+        <lb ed="T" n="0717a27"/>重望崇班<ptr target="#n299"/>，共籍芳聲，俱申虔仰。乃於<placeName key="CN0510182T06AA">彭門
             <lb ed="T" n="0717a28"/>山寺</placeName>習道安居。<ref type="place" target="#CN0510182T06AA">此寺</ref>往經廢毀，院宇凋弊，<persName key="A008882">因</persName>
 <lb ed="T" n="0717a29"/>慨然構懷，專事營緝，未移再稔，蔚成淨場。<pb ed="T" n="0717b" xml:id="T50.2061.0717b"/>
-        <lb ed="T" n="0717b01"/>又以九部<note resp="sgsz">梵語 navāṅga-śāsana，巴利語 navaṅga-buddha-sāsana。《佛光大辭典．九部經》頁145：「為佛經內容之九種分類。 」</note>微言，三界<note resp="sgsz">梵語 trayo dhātavaḥ，巴利語 tisso dhātuyo。《佛光大辭典．三界》頁584：「指眾生所居之欲界、色界、無色界。」</note>式仰，緬惟法盡，將翳
-        <lb ed="T" n="0717b02"/><placeName key="XZ0000001A01AA">龍宮</placeName>。遂於<ref target="#CN0510182T06AA" type="place">寺</ref>之北巖，刻書經典，窮多羅<note resp="sgsz">《佛光大辭典．多羅》頁2333：「為梵語 tāla 之音譯。指多羅樹。自古即用於書寫經文，稱為貝多羅葉。」</note>之
+        <lb ed="T" n="0717b01"/>又以九部<ptr target="#n300"/>微言，三界<ptr target="#n301"/>式仰，緬惟法盡，將翳
+        <lb ed="T" n="0717b02"/><placeName key="XZ0000001A01AA">龍宮</placeName>。遂於<ref target="#CN0510182T06AA" type="place">寺</ref>之北巖，刻書經典，窮多羅<ptr target="#n302"/>之
         <lb ed="T" n="0717b03"/>祕袠，盡<placeName key="NPWLURP00A01AA">毘尼</placeName>之正文。縱<persName key="A002433">堯</persName>世之洪水襄陵，
-        <lb ed="T" n="0717b04"/>任<persName key="A019724">趙簡</persName>之北山燎狩，必無他慮，與劫<note resp="sgsz">《佛光大辭典．劫》頁2811：「梵語 kalpa，巴利語 kappa。原為古代印度婆羅門教極大時限之時間單位。佛教沿之，而視之為不可計算之長大年月，故經論中多以譬喻故事喻顯之。」</note>齊休。
-        <lb ed="T" n="0717b05"/>既而清猷遠暢，峻業遐昭，遂簡<note resp="sgsz">簡，通「諫」，直言規勸也。《左傳．成公八年》：「詩曰：『猶之未遠，是用大簡。』」</note>宸衷，乃紆天
-        <lb ed="T" n="0717b06"/>綍<note resp="makita">紆，音「迂」，繫也。綍，音「服」，大索也。《禮記．緇衣》：「王言如絲，其出如綸；王言如綸，其出如綍。」</note>，追赴<placeName key="CN0610102Z07AA">京邑</placeName>，止<placeName key="CN0610113T05AA">大慈恩寺</placeName>，與<persName key="A000294">玄奘法師</persName>翻
-<lb ed="T" n="0717b07"/>譯校定梵本，兼充證義。<persName key="A000294">奘師</persName>偏獎賞之，每
+        <lb ed="T" n="0717b04"/>任<persName key="A019724">趙簡</persName>之北山燎狩，必無他慮，與劫<ptr target="#n303"/>齊休。
+        <lb ed="T" n="0717b05"/>既而清猷遠暢，峻業遐昭，遂簡<ptr target="#n304"/>宸衷，乃紆天
+        <lb ed="T" n="0717b06"/>綍<ptr target="#n305"/>，追赴<placeName key="CN0610102Z07AA">京邑</placeName>，止<placeName key="CN0610113T05AA">大慈恩寺</placeName>，與<persName key="A000294">玄奘法師</persName>翻
+        <lb ed="T" n="0717b07"/>譯校定梵本，兼充證義<ptr target="#n54"/>。<persName key="A000294">奘師</persName>偏獎賞之，每
         <lb ed="T" n="0717b08"/>有難文，同加參酌，新翻弗墜，<persName key="A008882">因</persName>有力焉。<placeName key="CN0610102T23AA">慧
-            <lb ed="T" n="0717b09"/>日寺</placeName>主<persName key="A008889"><anchor xml:id="beg0717sgsz3"/>楷<anchor xml:id="end0717sgsz3"/>法師</persName>者，聰爽溫贍<note resp="sgsz">贍，文辭廣博華麗也。《後漢書．卷四十下》：「<persName key="A008642">固</persName>文贍而事詳。」</note>，聲藹鴻都<note resp="sgsz">藹，籠罩也。<persName key="A002645">顏延之</persName>《文選．卷二十六．直東宫荅鄭尚書》：「流雲藹青闕，皓月鑒丹宫。」鴻都，為漢代藏書之所。《後漢書．卷八》：「始置鴻都門學生。」<persName key="A019637">李賢</persName>注：「鴻都，門名也，於內置學。」</note>，首建
+            <lb ed="T" n="0717b09"/>日寺</placeName>主<persName key="A008889"><anchor xml:id="beg0717sgsz3"/>楷<anchor xml:id="end0717sgsz3"/>法師</persName>者，聰爽溫贍<ptr target="#n306"/>，聲藹鴻都<ptr target="#n307"/>，首建
         <lb ed="T" n="0717b10"/>法筵，請開奧義。<ref target="#CN0610102Z07AA" type="place">帝城</ref>緇俗，具來諮稟，欣焉
         <lb ed="T" n="0717b11"/>相顧，得所未聞。<persName key="A008882">因</persName>研幾史籍，尤好<persName key="A002104">老</persName><persName key="A002718">莊</persName>，
-        <lb ed="T" n="0717b12"/>咀其菁華，含其腴潤，包四始於風律<note resp="makita">四始，《詩》之至也。<persName key="A005009">孔穎達</persName>《正義》：「<persName key="A002959">鄭</persName>答<persName key="A019729">張逸</persName>云：『風也、小雅也、大雅也、頌也，此四者人君行之則為興，廢之則為衰。」風律，音律也。《管子．宙合》：「君失音，則風律必流。」</note>，綜五
+        <lb ed="T" n="0717b12"/>咀其菁華，含其腴潤，包四始<ptr target="#n63"/>於風律<ptr target="#n308"/>，綜五
         <lb ed="T" n="0717b13"/>聲於文緒，故所講訓，內外該通。其專業者，
 <lb ed="T" n="0717b14"/>《涅槃華嚴》、《大品》、《維摩》、《法華》、《楞伽》等經，《十地》、《地持》、
 <lb ed="T" n="0717b15"/>《毘曇》、《智度》、《攝大乘》、《對法》、《佛地》等論，及《四分》等

@@ -2,7 +2,7 @@
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0816c13shiChongHui">
     <anchor n="T.50.2061.0816c13"/><head><date from-iso="0618-06-21" key="j19469512052491" to-iso="0907-06-06">唐</date>京師章信寺<persName key="A010315">崇惠</persName>傳</head><p>
 <lb ed="T" n="0816c14"/><persName key="A010315">釋崇惠</persName>，姓章氏，<placeName key="CN0330103Z19AA">抗州</placeName>人也。穉<anchor xml:id="beg0816004"/>秫<anchor xml:id="end0816004"/>之年，見乎
-<lb ed="T" n="0816c15"/>器局，鷙鳥難籠，出塵心切。往禮<placeName key="CN0330110M01AA">徑山</placeName><persName key="A004218">國一禪
+<lb ed="T" n="0816c15"/>器局，鷙鳥難籠，出塵心切。往禮<placeName key="CN0330185T17AA">徑山</placeName><persName key="A004218">國一禪
 <lb ed="T" n="0816c16"/>師</persName>為弟子，雖勤禪觀，多以《三密教》為恒
 <lb ed="T" n="0816c17"/>務。初於昌化<placeName key="CN0330103M01AA">千頃</placeName>最峯頂結茅為庵，專誦
 <lb ed="T" n="0816c18"/>《佛頂呪》數稔。又往鹽官硤石<placeName key="CN0330481M01AA">東山</placeName>，卓小尖
@@ -38,7 +38,7 @@
         <link targets="#0816c15 #0816c17"/>
         <ptr target="#A010315" type="person"/>
         <ptr target="#A004218" type="person"/>
-        <ptr target="#CN0330110M01AA" type="place"/>
+        <ptr target="#CN0330185T17AA" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0816c18 #0816c19"/>

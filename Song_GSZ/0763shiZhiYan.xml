@@ -1,17 +1,17 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0720a02shiZhiTong">
     <lb ed="T" n="0720a02"/><anchor n="T.50.2061.0720a02"/><head><date from-iso="0618-06-21" key="j19469512052491" to-iso="0907-06-06">唐</date><placeName key="CN0610104T08AA">京師奉恩寺</placeName><persName key="A001302">智嚴</persName>傳</head><p>
-        <lb ed="T" n="0720a03"/><persName key="A001302">釋智嚴</persName>，姓尉遲氏，本<placeName key="CN0653221Z07AA">于闐國</placeName>質子<note resp="sgsz">質子，古代派往他國作為抵押的人質，多為王子或世子。《舊唐書．卷一百九十八》：「<persName key="A004413">煬帝</persName>立其質子<persName key="A019908">順</persName>為王，送之本國，令統餘眾。」</note>也，名樂。受
-        <lb ed="T" n="0720a04"/>性<note resp="sgsz">受性，秉性、生性也。《舊唐書．卷一百六十》：「臣受性愚陋，人事多所不通，唯酷好學問文章。」</note>聰利，隸<placeName key="CN0610104A07AA">鴻臚寺</placeName>，授「左領軍衛大將軍上柱
-        <lb ed="T" n="0720a05"/>國」，封「金滿郡公」。而深患塵勞<note resp="sgsz">塵勞，世俗之勞煩也。(cf. 《中阿含經》<ref>CBETA, T01, no. 0026, p. 552, b12</ref>)：「居家至狹，塵勞之處，出家學道，發露曠大。」</note>，唯思脫屣<note resp="sgsz">脫屣，言無眷戀也。《漢書．卷二十五上》：「天子曰：『嗟乎！誠得如<persName key="A004009">黃帝</persName>，吾視去妻子如脫屣耳。』」<persName key="A019696">顏師古</persName>注：「屣，小履。脫屣者，言其便易，無所顧也。」</note>。<date from-iso="0706-06-19" key="j19790901979119" to-iso="0706-07-18">神
+        <lb ed="T" n="0720a03"/><persName key="A001302">釋智嚴</persName>，姓尉遲氏，本<placeName key="CN0653221Z07AA">于闐國</placeName>質子<ptr target="#n353"/>也，名樂。受
+        <lb ed="T" n="0720a04"/>性<ptr target="#n354"/>聰利，隸<placeName key="CN0610104A07AA">鴻臚寺</placeName>，授「左領軍衛大將軍上柱
+        <lb ed="T" n="0720a05"/>國」，封「金滿郡公」。而深患塵勞<ptr target="#n355"/>，唯思脫屣<ptr target="#n356"/>。<date from-iso="0706-06-19" key="j19790901979119" to-iso="0706-07-18">神
 <lb ed="T" n="0720a06"/>龍二年五月</date>，奏乞以所居宅為寺，勅允，題
 <lb ed="T" n="0720a07"/>牓曰「<placeName key="CN0610104T08AA">奉恩</placeName>」是也。相次乞捨官入道，<date key="j19792911979291" when-iso="0707-01-06">十一月
 <lb ed="T" n="0720a08"/>二十四日</date>墨制聽許。<date key="j19796261979626" when-iso="0707-12-07">景龍元年十一月五日</date>，
         <lb ed="T" n="0720a09"/><persName key="A002100">孝和帝</persName>誕節剃染。尋奉勅於<ref target="#CN0610104T08AA" type="place">此寺</ref>翻經，多
-<lb ed="T" n="0720a10"/>證梵文，諸經成部，<persName key="A001302">嚴</persName>有力焉。<persName key="A001302">嚴</persName>重譯出《生
-        <lb ed="T" n="0720a11"/>無邊法門陀羅尼經》。後於<placeName key="CN0610116A07AA">石鼈谷</placeName>行頭陀<note resp="sgsz">《佛光大辭典．頭陀》頁6362：「梵語dhūta。謂去除塵垢煩惱，苦行之一。對日常生活立有十二種修行規定。」</note>
-        <lb ed="T" n="0720a12"/>法，又充<placeName key="CN0610116T01AA">終南山至相寺</placeName>上座，體道<note resp="sgsz">體道，躬行正道也。《舊唐書．卷七十》：「安於貧賤， 體道履正，交不苟合。」</note>用和<note resp="sgsz">用，施行也；和，從容不迫也。《論語．學而》：「禮之用，和為貴。」</note>，率從
-        <lb ed="T" n="0720a13"/>清謹<note resp="sgsz">率從，謹守遵循也；清謹，廉潔謹慎也。《舊唐書．卷一百九十下》：「脩之也則人不勸而自至，導之也則人敦行而率從。」《舊唐書．卷九十 一》：「<persName key="A012118">玄暐</persName>遵奉母氏教誡，以清謹見稱。」</note>。不知其終。</p>
+        <lb ed="T" n="0720a10"/>證梵文<ptr target="#n52"/>，諸經成部，<persName key="A001302">嚴</persName>有力焉。<persName key="A001302">嚴</persName>重譯出《生
+        <lb ed="T" n="0720a11"/>無邊法門陀羅尼經》。後於<placeName key="CN0610116A07AA">石鼈谷</placeName>行頭陀<ptr target="#n357"/>
+        <lb ed="T" n="0720a12"/>法，又充<placeName key="CN0610116T01AA">終南山至相寺</placeName>上座，體道<ptr target="#n358"/>用和<ptr target="#n359"/>，率從
+        <lb ed="T" n="0720a13"/>清謹<ptr target="#n360"/>。不知其終。</p>
     <linkGrp>
         <link targets="#0720a03 #0720a03"/>
         <ptr target="#A001302" type="person"/>

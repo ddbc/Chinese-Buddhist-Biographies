@@ -501,5 +501,258 @@
 			<lem wit="【大】">身</lem>
 			<rdg resp="sgsz" wit="【范】【磧】">車</rdg>
 		</app>
+		<app from="beg0721sgsz1" ana="2a">
+			<lem wit="【大】">焉</lem>
+			<rdg resp="fan" wit="【范】">焉</rdg>
+			<rdg resp="sgsz" wit="【磧】">馬</rdg>
+		</app>
+		<app from="beg0721sgsz2" ana="1b">
+			<lem wit="【大】">徒</lem>
+			<rdg resp="sgsz" wit="【范】【磧】">徙</rdg>
+		</app>
+		<app from="beg0721sgsz3" ana="4">
+			<lem wit="【大】">芻</lem>
+			<rdg resp="sgsz" wit="【范】【磧】">蒭</rdg>
+		</app>
+		<app from="beg0721sgsz4" ana="4">
+			<lem wit="【大】">堆</lem>
+			<rdg resp="sgsz" wit="【范】【磧】">塠</rdg>
+		</app>
+		<app from="beg0721sgsz5" ana="4">
+			<lem wit="【大】">支</lem>
+			<rdg resp="sgsz" wit="【范】【磧】">脂</rdg>
+		</app>
+		<app from="beg0721sgsz6" ana="3b">
+			<lem wit="【大】">驅</lem>
+			<rdg resp="sgsz" wit="【范】【磧】">敺</rdg>
+		</app>
+		<app from="beg0721001" ana="4">
+			<lem wit="【大】">代</lem>
+			<rdg resp="Taisho" wit="【宋】">岱</rdg>
+			<rdg resp="fan" wit="【范】">岱</rdg>
+			<rdg resp="sgsz" wit="【磧】">代</rdg>
+		</app>
+		<app from="beg0722001" ana="3b">
+			<lem wit="【大】">何</lem>
+			<rdg resp="Taisho" wit="【宋】【元】">胡</rdg>
+			<rdg resp="fan" wit="【范】">胡</rdg>
+			<rdg resp="sgsz" wit="【磧】">胡</rdg>
+		</app>
+		<app from="beg0722sgsz1" ana="3a">
+			<lem wit="【大】">禮</lem>
+			<rdg resp="sgsz" wit="【范】【磧】">礼</rdg>
+		</app>
+		<app from="beg0722sgsz2" ana="3a">
+			<lem wit="【大】">禮</lem>
+			<rdg resp="sgsz" wit="【范】【磧】">礼</rdg>
+		</app>
+		<app from="beg0722sgsz3" ana="3a">
+			<lem wit="【大】">禮</lem>
+			<rdg resp="sgsz" wit="【范】【磧】">礼</rdg>
+		</app>
+		<app from="beg0722sgsz4" ana="1b">
+			<lem wit="【大】">緣</lem>
+			<rdg resp="sgsz" wit="【范】【磧】">緑</rdg>
+		</app>
+		<app from="beg0722sgsz5" ana="1b">
+			<lem wit="【大】">頌</lem>
+			<rdg resp="sgsz" wit="【范】【磧】">頒</rdg>
+		</app>
+		<app from="beg0722sgsz6" ana="2a">
+			<lem wit="【大】">先</lem>
+			<rdg resp="fan" wit="【范】">先</rdg>
+			<rdg resp="sgsz" wit="【磧】">光</rdg>
+		</app>
+		<app from="beg0722002" ana="4">
+			<lem wit="【大】">遠</lem>
+			<rdg resp="Taisho" wit="【宋】【元】">達</rdg>
+			<rdg resp="sgsz" wit="【范】【磧】">達</rdg>
+		</app>
+		<app from="beg0722003" ana="1a">
+			<lem wit="【大】">兼</lem>
+			<rdg resp="Taisho" wit="【宋】【元】">傔</rdg>
+			<rdg resp="sgsz" wit="【范】【磧】">傔</rdg>
+		</app>
+		<app from="beg0722sgsz7" ana="4">
+			<lem wit="【大】">馱</lem>
+			<rdg resp="fan" wit="【范】">馱</rdg>
+			<rdg resp="sgsz" wit="【磧】">䭾</rdg>
+		</app>
+		<app from="beg0722sgsz8" ana="1b">
+			<lem wit="【大】">果</lem>
+			<rdg resp="sgsz" wit="【范】【磧】">東</rdg>
+		</app>
+		<app from="beg0722004" ana="1a">
+			<lem wit="【大】">拱</lem>
+			<rdg resp="Taisho" wit="【宋】【元】">栱</rdg>
+			<rdg resp="sgsz" wit="【范】【磧】">栱</rdg>
+		</app>
+		<app from="beg0722sgsz9" ana="1b">
+			<lem wit="【大】">記</lem>
+			<rdg resp="sgsz" wit="【范】【磧】">紀</rdg>
+		</app>
+		<app from="beg0722sgsz10" ana="3a">
+			<lem wit="【大】">禮</lem>
+			<rdg resp="sgsz" wit="【范】【磧】">礼</rdg>
+		</app>
+		<app from="beg0722sgsz11" ana="2b">
+			<lem wit="【大】">末</lem>
+			<rdg resp="fan" wit="【范】">末</rdg>
+			<rdg resp="sgsz" wit="【磧】">未</rdg>
+		</app>
+		<app from="beg0722sgsz12" ana="4">
+			<lem wit="【大】">薩</lem>
+			<rdg resp="sgsz" wit="【范】【磧】">提</rdg>
+		</app>
+		<app from="beg0723001" ana="1a">
+			<lem wit="【大】">侍</lem>
+			<rdg resp="Taisho" wit="【宋】【元】">持</rdg>
+			<rdg resp="sgsz" wit="【范】【磧】">持</rdg>
+		</app>
+		<app from="beg0723002" ana="1a">
+			<lem wit="【大】">十</lem>
+			<rdg resp="Taisho" wit="【宋】">千</rdg>
+			<rdg resp="fan" wit="【范】">千</rdg>
+			<rdg resp="sgsz" wit="【磧】">十</rdg>
+		</app>
+		<app from="beg0723sgsz1" ana="4">
+			<lem wit="【大】">揚</lem>
+			<rdg resp="fan" wit="【范】">揚</rdg>
+			<rdg resp="sgsz" wit="【磧】">楊</rdg>
+		</app>
+		<app from="beg0723sgsz2" ana="2a">
+			<lem wit="【大】">北</lem>
+			<rdg resp="fan" wit="【范】">北</rdg>
+			<rdg resp="sgsz" wit="【磧】">比</rdg>
+		</app>
+		<app from="beg0723003" ana="2a">
+			<lem wit="【大】">夾</lem>
+			<rdg resp="Taisho" wit="【宋】">失</rdg>
+			<rdg resp="fan" wit="【范】">夾</rdg>
+			<rdg resp="sgsz" wit="【磧】">失</rdg>
+		</app>
+		<app from="beg0723004" ana="1a">
+			<lem wit="【大】">住</lem>
+			<rdg resp="Taisho" wit="【宋】【元】">在</rdg>
+			<rdg resp="sgsz" wit="【范】【磧】">住</rdg>
+		</app>
+		<app from="beg0724sgsz1" ana="1b">
+			<lem wit="【大】">術</lem>
+			<rdg resp="sgsz" wit="【范】【磧】">街</rdg>
+		</app>
+		<app from="beg0724sgsz2" ana="2b">
+			<lem wit="【大】">三</lem>
+			<rdg resp="fan" wit="【范】">三</rdg>
+			<rdg resp="sgsz" wit="【磧】">二</rdg>
+		</app>
+		<app from="beg0724001" ana="2a">
+			<lem wit="【大】">真</lem>
+			<rdg resp="Taisho" wit="【宋】【元】">貞</rdg>
+			<rdg resp="fan" wit="【范】">真</rdg>
+			<rdg resp="sgsz" wit="【磧】">貞</rdg>
+		</app>
+		<app from="beg0724002" ana="1a">
+			<lem wit="【大】">不</lem>
+			<rdg resp="Taisho" wit="【宋】">可</rdg>
+			<rdg resp="sgsz" wit="【范】【磧】">不</rdg>
+		</app>
+		<app from="beg0724sgsz3" ana="1b">
+			<lem wit="【大】">幹</lem>
+			<rdg resp="sgsz" wit="【范】【磧】">翰</rdg>
+		</app>
+		<app from="beg0724sgsz4" ana="1b">
+			<lem wit="【大】">前</lem>
+			<rdg resp="sgsz" wit="【范】【磧】">則</rdg>
+		</app>
+		<app from="beg0724sgsz5" ana="3b">
+			<lem wit="【大】">茶</lem>
+			<rdg resp="fan" wit="【范】">荼</rdg>
+			<rdg resp="sgsz" wit="【磧】">茶</rdg>
+		</app>
+		<app from="beg0725sgsz1" ana="2b">
+			<lem wit="【大】">祿</lem>
+			<rdg resp="sgsz" wit="【范】【磧】">錄</rdg>
+		</app>
+		<app from="beg0725sgsz2" ana="1b">
+			<lem wit="【大】">就</lem>
+			<rdg resp="sgsz" wit="【范】【磧】">孰</rdg>
+		</app>
+		<app from="beg0725sgsz3" ana="1b">
+			<lem wit="【大】">祥</lem>
+			<rdg resp="sgsz" wit="【范】【磧】">詳</rdg>
+		</app>
+		<app from="beg0725001" ana="1a">
+			<lem wit="【大】">犬</lem>
+			<rdg resp="Taisho" wit="【宋】【元】">大</rdg>
+			<rdg resp="sgsz" wit="【范】【磧】">大</rdg>
+		</app>
+		<app from="beg0725sgsz4" ana="2a">
+			<lem wit="【大】">茶</lem>
+			<rdg resp="fan" wit="【范】">荼</rdg>
+			<rdg resp="sgsz" wit="【磧】">茶</rdg>
+		</app>
+		<app from="beg0725003" ana="3b">
+			<lem wit="【大】">宋</lem>
+			<rdg resp="Taisho" wit="【宋】【元】">大宋</rdg>
+			<rdg resp="sgsz" wit="【范】【磧】">大宋</rdg>
+		</app>
+		<app from="begT50p0725b01" ana="3b">
+			<lem wit="【大】"><placeName key="CN0410204T06AA">宋左街天壽寺</placeName><persName key="A001910">通慧大師賜紫沙門贊寧</persName>等奉　勅撰</lem>
+			<rdg resp="Taisho" wit="【宋】【元】"><placeName key="CN0410204T06AA">左街天壽寺</placeName><persName key="A001910">通慧大師賜紫贊寧</persName><placeName key="CN0410204T02AA">左街相國寺</placeName><persName key="A001297">講經論大德賜紫智輪</persName>同奉勅撰</rdg>
+			<rdg resp="sgsz" wit="【磧】"><placeName key="CN0410204T06AA">左街天壽寺</placeName><persName key="A001910">通慧大師賜紫　贊寧</persName>　<placeName key="CN0410204T02AA">左街相國寺</placeName><persName key="A001297">講經論大德賜紫　智輪</persName>同奉　勑撰</rdg>
+		</app>
+		<app from="beg0725004" ana="1a">
+			<lem wit="【大】">此</lem>
+			<rdg resp="Taisho" wit="【宋】">比</rdg>
+			<rdg resp="sgsz" wit="【范】【磧】">此</rdg>
+		</app>
+		<app from="beg0725005" ana="3b">
+			<lem wit="【大】">欲</lem>
+			<rdg resp="Taisho" wit="【宋】【元】">慾</rdg>
+			<rdg resp="sgsz" wit="【范】【磧】">慾</rdg>
+		</app>
+		<app from="beg0725sgsz5" ana="1b">
+			<lem wit="【大】">今</lem>
+			<rdg resp="sgsz" wit="【范】【磧】">令</rdg>
+		</app>
+		<app from="beg0725sgsz6" ana="1b">
+			<lem wit="【大】">撿</lem>
+			<rdg resp="sgsz" wit="【范】【磧】">檢</rdg>
+		</app>
+		<app from="beg0725sgsz7" ana="2b">
+			<lem wit="【大】">糅</lem>
+			<rdg resp="fan" wit="【范】">糅</rdg>
+			<rdg resp="sgsz" wit="【磧】">楺</rdg>
+		</app>
+		<app from="beg0725006" ana="2a">
+			<lem wit="【大】">椎</lem>
+			<rdg resp="Taisho" wit="【宋】【元】">稚</rdg>
+			<rdg resp="fan" wit="【范】">椎</rdg>
+			<rdg resp="sgsz" wit="【磧】">稚</rdg>
+		</app>
+		<app from="beg0726001" ana="4">
+			<lem wit="【大】">太</lem>
+			<rdg resp="Taisho" wit="【宋】【元】">大</rdg>
+			<rdg resp="fan" wit="【范】">大</rdg>
+			<rdg resp="sgsz" wit="【磧】">大</rdg>
+		</app>
+		<app from="beg0726002" ana="3b">
+			<lem wit="【大】">于</lem>
+			<rdg resp="Taisho" wit="【宋】【元】">於</rdg>
+			<rdg resp="sgsz" wit="【范】【磧】">於</rdg>
+		</app>
+		<app from="beg0726003" ana="3b">
+			<lem wit="【大】">玉如</lem>
+			<rdg resp="Taisho" wit="【宋】">如玉</rdg>
+			<rdg resp="sgsz" wit="【范】【磧】">玉如</rdg>
+		</app>
+		<app from="beg0726sgsz1" ana="3b">
+			<lem wit="【大】">眾</lem>
+			<rdg resp="sgsz" wit="【范】【磧】">眾</rdg>
+		</app>
+		<app from="beg0726sgsz2" ana="3a">
+			<lem wit="【大】">禮</lem>
+			<rdg resp="sgsz" wit="【范】【磧】">礼</rdg>
+		</app>
 	</p>
 </div>
