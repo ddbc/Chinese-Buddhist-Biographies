@@ -1,26 +1,24 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0486a02zuDeng">
-    <head><lb ed="X" n="0486a02"/>　　　　無盡燈禪師傳</head>
-    <p><anchor n="X.77.1524.0486a03"/><lb ed="X" n="0486a03"/>祖燈。無盡其字也。族王氏。四明人。父好謙。甞寫華嚴
+    <head><lb ed="X" n="0486a02"/>　　　　<persName key="A015552">無盡燈</persName>禪師傳</head>
+    <p><anchor n="X.77.1524.0486a03"/><lb ed="X" n="0486a03"/><persName key="A015552">祖燈</persName>。<persName key="A015552">無盡</persName>其字也。族王氏。<placeName key="CN0330203Z06AA">四明</placeName>人。父<persName key="unknown">好謙</persName>。甞寫華嚴
         <lb ed="X" n="0486a04"/>經。五色舍利。見於筆端。師年方幼。歎曰。般若之驗。一
-        <lb ed="X" n="0486a05"/>至於斯邪。即求出家。依郡之天寧東白明公。秉戒於
-        <lb ed="X" n="0486a06"/>開元奎律師。已而日溪泳公。來代明公說法。命掌綱
-        <lb ed="X" n="0486a07"/>維司藏鑰。日溪升堂。師出問曰。生死事大。無常迅速。
+        <lb ed="X" n="0486a05"/>至於斯邪。即求出家。依郡之<placeName key="CN0330203T01AA">天寧</placeName><persName key="unknown">東白明</persName>公。秉戒於
+        <lb ed="X" n="0486a06"/><persName key="unknown">開元奎</persName>律師。已而<persName key="unknown">日溪泳</persName>公。來代<persName key="unknown">明</persName>公說法。命掌綱
+        <lb ed="X" n="0486a07"/>維司藏鑰。<persName key="unknown">日溪</persName>升堂。師出問曰。生死事大。無常迅速。
         <lb ed="X" n="0486a08"/>乞賜指示。溪曰。十二時中。密密參究。忽然觸著。却來
         <lb ed="X" n="0486a09"/>再問。師抗聲曰。無常迅速。生死事大。語未終。溪便喝。
         <lb ed="X" n="0486a10"/>師遽禮拜。溪曰。見何道理。便爾作禮。師曰。開口即錯。
-        <lb ed="X" n="0486a11"/>溪領之。服勤數載。復出參名德。以驗其所證。時中峰
-        <lb ed="X" n="0486a12"/>本公在天目。方山瑤公居淨慈。無見覩公住華頂。斗
-        <lb ed="X" n="0486a13"/>巖芳公主景星。師皆與之辨。詰其所印。葢不異日溪
-        <lb ed="X" n="0486a14"/>云。師得道已。思韜晦而護持之。乃入天台上雲峰。縛
+        <lb ed="X" n="0486a11"/>溪領之。服勤數載。復出參名德。以驗其所證。時<persName key="A000655">中峰<lb ed="X" n="0486a12"/>本</persName>公在<placeName key="CN0330185M03AA">天目</placeName>。<persName key="unknown">方山瑤</persName>公居<placeName key="CN0330106T54AA">淨慈</placeName>。<persName key="A000325">無見覩</persName>公住<placeName key="CN0331023M01AB">華頂</placeName>。<persName key="unknown">斗<lb ed="X" n="0486a13"/>巖芳</persName>公主<placeName key="unknown">景星</placeName>。師皆與之辨。詰其所印。葢不異<persName key="unknown">日溪</persName>
+        <lb ed="X" n="0486a14"/>云。師得道已。思韜晦而護持之。乃入天台上<placeName key="unknown">雲峰</placeName>。縛
         <lb ed="X" n="0486a15"/>草為廬。宴坐其間。虎狼蛇豕。交跡於戶外。師攝伏之。
         <lb ed="X" n="0486a16"/>不能加害。日與其徒修苦行。以自給。冬一裘。夏一葛。
         <lb ed="X" n="0486a17"/>朝夕飯一盂。影不出山者。逾五十春秋。人多化之。有
         <lb ed="X" n="0486a18"/>以土田為布施者。師辭曰。先佛以乞食為事。吾焉用
-        <lb ed="X" n="0486a19"/>此為。然天性尤孝謹。迎母童氏養山中。年九十四而
-        <lb ed="X" n="0486a20"/>終。眾以非沙門行讓之。師曰。世尊尚升忉利天。為母
-        <lb ed="X" n="0486a21"/>說經。我何人。斯敢忘所自哉　洪武己酉春。示微疾。
-        <lb ed="X" n="0486a22"/>二月八日夜將半。顧左右曰。天向明乎。對曰未也。或
+        <lb ed="X" n="0486a19"/>此為。然天性尤孝謹。迎母<persName key="unknown">童氏</persName>養山中。年九十四而
+        <lb ed="X" n="0486a20"/>終。眾以非沙門行讓之。師曰。<persName key="A002799">世尊</persName>尚升<placeName key="XZ0000003A01AA">忉利天</placeName>。為母
+        <lb ed="X" n="0486a21"/>說經。我何人。斯敢忘所自哉　<date from-iso="1369-02-15" to-iso="1369-05-14" key="j22211232221211">洪武己酉春</date>。示微疾。
+        <lb ed="X" n="0486a22"/><date when-iso="1369-03-25" key="j22211612221161">二月八日</date>夜將半。顧左右曰。天向明乎。對曰未也。或
         <lb ed="X" n="0486a23"/>曰。和尚正當此際何如。師破顏微笑曰。昔古德坐疾。
         <lb ed="X" n="0486a24"/>有問者云。還有不病者乎。古德云有。又問云。何物是
         <lb ed="X" n="0486b01"/>不病者。古德云。阿爺阿爺。師舉此良久。又曰。如此喚
@@ -28,9 +26,9 @@
         <lb ed="X" n="0486b03"/>紙乞偈。師曰。無偈便不可死耶。乃書曰。生滅與去來。
         <lb ed="X" n="0486b04"/>本是如來藏。拶倒五須彌。廓然無背向。擲筆端坐而
         <lb ed="X" n="0486b05"/>逝。壽七十八。臘五十七。火化。異香襲人。所獲舍利。不
-        <lb ed="X" n="0486b06"/>可勝計。塔於峰之左原。大河衛鎮撫林君性宗。甞從
+        <lb ed="X" n="0486b06"/>可勝計。塔於峰之左原。<placeName key="CN0320803Z30AA">大河衛</placeName>鎮撫<persName key="unknown">林君性宗</persName>。甞從
         <lb ed="X" n="0486b07"/>師游。師勉以忠孝。迄能為國宣勞。為時顯人。恐師之
-        <lb ed="X" n="0486b08"/>行不白於叢林。請宋太史景濂文。宣師行業。其略云。
+        <lb ed="X" n="0486b08"/>行不白於叢林。請<persName key="A007271">宋太史景濂</persName>文。宣師行業。其略云。
         <lb ed="X" n="0486b09"/>嗚呼。若禪師者。可謂能守道而弗遷者矣。古之僧伽。
         <lb ed="X" n="0486b10"/>多寄跡巖穴。友烟霞而侶泉石。至有蹞步不與塵俗
         <lb ed="X" n="0486b11"/>接者。治內之功純。務外之意絕也。風教日偷。學者。始

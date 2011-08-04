@@ -1,29 +1,26 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0393b10yiRu">
-    <head><lb ed="X" n="0393b10"/>　　　　一如傳(附能義)</head>
-    <p><anchor n="X.77.1524.0393b11"/><lb ed="X" n="0393b11"/>一如。字一菴。既老別號退翁。上虞孫氏子也。年十三
-        <lb ed="X" n="0393b12"/>辭父母。[隸-木+匕]長慶為僧。從具菴玘公。於吳山寶奎寺。礪
+    <head><lb ed="X" n="0393b10"/>　　　　<persName key="A000007">一如</persName>傳(附<persName key="A015643">能義</persName>)</head>
+    <p><anchor n="X.77.1524.0393b11"/><lb ed="X" n="0393b11"/><persName key="A000007">一如</persName>。字<persName key="A000007">一菴</persName>。既老別號<persName key="A000007">退翁</persName>。<placeName key="CN0330682Z29AA">上虞</placeName>孫氏子也。<date key="j22192512219616" when-iso="1364">年十三</date>
+        <lb ed="X" n="0393b12"/>辭父母。[隸-木+匕]<placeName key="CN0330103T12AA">長慶</placeName>為僧。從<persName key="A000334">具菴玘公</persName>。於吳山<placeName key="CN0330110T30AA">寶奎寺</placeName>。礪
         <lb ed="X" n="0393b13"/>志所業。祁寒盛暑不少懈。一義之未徹。一疑之未釋。
-        <lb ed="X" n="0393b14"/>必究竟乃已。攻苦[擊-手+口]淡。逾久逾篤。遂深造閫奧　洪
-        <lb ed="X" n="0393b15"/>武十八年。出世住松江崇慶。進住蘇之北禪。緇素歸
-        <lb ed="X" n="0393b16"/>化者日眾。二十七年。南洲洽公。掌僧錄司。兼主大報
-        <lb ed="X" n="0393b17"/>恩寺。延師為都講。時清理釋教。庶務叢脞。洽公酬應
-        <lb ed="X" n="0393b18"/>上下。而講演不廢。葢資於師為多。二十八年住杭州
-        <lb ed="X" n="0393b19"/>天竺靈山寺。三十一年。住上竺。益以振宗啟後為己
-        <lb ed="X" n="0393b20"/>任。而從學者益眾。　永樂初。退處大報恩寺。以法華
+        <lb ed="X" n="0393b14"/>必究竟乃已。攻苦[擊-手+口]淡。逾久逾篤。遂深造閫奧　<date from-iso="1385-02-18" to-iso="1386-02-07" key="j22269702227324">洪<lb ed="X" n="0393b15"/>武十八年</date>。出世住松江崇慶。進住蘇之<placeName key="CN0320503T08AA">北禪</placeName>。緇素歸
+        <lb ed="X" n="0393b16"/>化者日眾。<date from-iso="1394-02-09" to-iso="1395-01-29" key="j22302482230602">二十七年</date>。<persName key="A012732">南洲洽</persName>公。掌僧錄司。兼主<placeName key="CN0320104T01AA">大報<lb ed="X" n="0393b17"/>恩寺</placeName>。延師為都講。時清理釋教。庶務叢脞。洽公酬應
+        <lb ed="X" n="0393b18"/>上下。而講演不廢。葢資於師為多。<date from-iso="1395-01-30" to-iso="1396-02-17" key="j22306032230986">二十八</date>年住杭州
+        <lb ed="X" n="0393b19"/><placeName key="CN0330106T18AA">天竺靈山寺</placeName>。<date from-iso="1398-01-27" to-iso="1399-02-13" key="j22316962232078">三十一年</date>。住<placeName key="CN0330106T17AA">上竺</placeName>。益以振宗啟後為己
+        <lb ed="X" n="0393b20"/>任。而從學者益眾。　<date from-iso="1403-02-01" to-iso="1408-06-22" key="j22335262235494">永樂初</date>。退處<placeName key="CN0320104T01AA">大報恩寺</placeName>。以法華
         <lb ed="X" n="0393b21"/>如來奧旨所寓。非學者所易入。乃集眾說為之註。太
-        <lb ed="X" n="0393b22"/>子少師姚公。為序之。且稱如公兩浙一人。　上甞覽
-        <lb ed="X" n="0393b23"/>之。獎諭再三。加以厚賚。十二年被召。纂修大藏經。而
-        <lb ed="X" n="0393b24"/>師總其事。授僧錄司右覺義。既陞右闡教。　洪熈元
-        <lb ed="X" n="0393c01"/>年三月。示寂於京師海印寺。春秋七十有四。坐六十
+        <lb ed="X" n="0393b22"/>子少師<persName key="A001522">姚公</persName>。為序之。且稱<persName key="A000007">如公</persName><placeName key="CN0330103E03AA">兩浙</placeName>一人。　<ref type="person" target="#A000149">上</ref>甞覽
+        <lb ed="X" n="0393b23"/>之。獎諭再三。加以厚賚。<date from-iso="1414-01-31" to-iso="1415-02-18" key="j22375432237926">十二年</date>被召。纂修大藏經。而
+        <lb ed="X" n="0393b24"/>師總其事。授僧錄司右覺義。既陞右闡教。　<date from-iso="1425-03-29" to-iso="1425-04-26" key="j22416182241646">洪熈元<lb ed="X" n="0393c01"/>年三月</date>。示寂於京師<placeName key="CN0110100T01AA">海印寺</placeName>。春秋七十有四。坐六十
         <lb ed="X" n="0393c02"/>一夏。闍維。舌本不壞。塔而藏焉。</p><p>
-        <lb ed="X" n="0393c03"/>能義者。四明人。與如同時。道望亦相等。埒皆為僧錄
-        <lb ed="X" n="0393c04"/>司官。受知于　皇上。楊東里序如塔云。吾行四方。所
+            <lb ed="X" n="0393c03"/><persName key="A015643">能義</persName>者。<placeName key="CN0330203Z03AA">四明</placeName>人。與<persName key="A000007">如</persName>同時。道望亦相等。埒皆為僧錄
+            <lb ed="X" n="0393c04"/>司官。受知于　皇上。<persName key="A020089">楊東里</persName>序如塔云。吾行四方。所
         <lb ed="X" n="0393c05"/>遇其人。器識論議。偉然出乎眾人。而汲汲以修。廢舉
         <lb ed="X" n="0393c06"/>墜光。大師門為任者。亦不少矣。則豈獨昔之時為然
         <lb ed="X" n="0393c07"/>或。而求夫淵然。其存泊然。其行望之如無能。即之而
-        <lb ed="X" n="0393c08"/>有味者。葢在昔已不多得。亦何獨於今也。　太宗皇
+            <lb ed="X" n="0393c08"/>有味者。葢在昔已不多得。亦何獨於今也。　<persName key="A000149">太宗</persName>皇
         <lb ed="X" n="0393c09"/>帝。臨御四方之名高僧。皆甞入覲。而　聖心所重者。
-        <lb ed="X" n="0393c10"/>獨四明之能義。會稽之一如。噫。是豈偶然哉。又云。二
+            <lb ed="X" n="0393c10"/>獨<placeName key="CN0330203Z03AA">四明</placeName>之<persName key="A015643">能義</persName>。<placeName key="CN0330602Z15AA">會稽</placeName>之<persName key="A000007">一如</persName>。噫。是豈偶然哉。又云。二
         <lb ed="X" n="0393c11"/>師。恂恂溫恭。言若不出口。如。深於法華。義。深於楞嚴。</p>
 </div>

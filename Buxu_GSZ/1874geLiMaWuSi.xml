@@ -1,37 +1,34 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0503c24geLiMaWuSi">
-    <head><lb ed="X" n="0503c24"/>　　　　明　烏斯法王傳(附何清)</head>
-    <p><anchor n="X.77.1524.0504a01"/><lb ed="X" n="0504a01"/>葛哩麻烏斯。藏人也。道懷冲漠。神用叵測。聲聞於中
-        <lb ed="X" n="0504a02"/>國。永樂間。我　太宗文皇帝。遣使西土迎之。至金陵
-        <lb ed="X" n="0504a03"/>道啟　聖衷誥。封如來大寶法王西天大善自在佛。
-        <lb ed="X" n="0504a04"/>領天下釋教。師性躭靜隱。不任囂煩。奏辭。游五臺
-        <lb ed="X" n="0504a05"/>　上眷注殷勤。留之不獲。乃　賜鑾輿旌幢之儀。遣中
-        <lb ed="X" n="0504a06"/>使衛送於五臺大顯通寺。更　敕內監楊昇。重修其
-        <lb ed="X" n="0504a07"/>寺。兼修育王所置佛舍利塔。以飾法王之居。先是
-        <lb ed="X" n="0504a08"/>　上與法王幸靈谷寺。為　皇考妣。設薦祀法壇。感塔
-        <lb ed="X" n="0504a09"/>影金光之瑞。及法王入臺山。　上眷戀不能釋然。因
-        <lb ed="X" n="0504a10"/>思前瑞。再幸靈谷。　上嘿有所禱。是日覩瑞相倍前。
-        <lb ed="X" n="0504a11"/>丁亥四月　上遣使。致書於臺山大寶法王大善自
-        <lb ed="X" n="0504a12"/>在佛。其書略曰。朕四月十五日。與弘濟大師詣靈谷。
+    <head><lb ed="X" n="0503c24"/>　　　　明　<persName key="A009983">烏斯法王</persName>傳(附<persName key="unknown">何清</persName>)</head>
+    <p><anchor n="X.77.1524.0504a01"/><lb ed="X" n="0504a01"/><persName key="A009983">葛哩麻烏斯</persName>。<placeName key="CN0540000A02AA">藏</placeName>人也。道懷冲漠。神用叵測。聲聞於<placeName key="CN0000000E01AA">中<lb ed="X" n="0504a02"/>國</placeName>。<date from-iso="1403-02-01" to-iso="1424-08-21" key="j22335262241398">永樂間</date>。我　<persName key="A000149">太宗文皇帝</persName>。遣使<placeName key="WW142XIYUE01AA">西土</placeName>迎之。至<placeName key="CN0320105Z10AA">金陵</placeName>
+        <lb ed="X" n="0504a03"/>道啟　聖衷誥。封<persName key="A009983">如來大寶法王西天大善自在佛</persName>。
+        <lb ed="X" n="0504a04"/>領天下釋教。師性躭靜隱。不任囂煩。奏辭。游<placeName key="CN0140900M01AA">五臺</placeName>
+        <lb ed="X" n="0504a05"/>　<ref type="person" target="#A000149">上</ref>眷注殷勤。留之不獲。乃　賜鑾輿旌幢之儀。遣中
+        <lb ed="X" n="0504a06"/>使衛送於五臺<placeName key="CN0140922T06AA">大顯通寺</placeName>。更　敕內監<persName key="A009688">楊昇</persName>。重修其
+        <lb ed="X" n="0504a07"/>寺。兼修<persName key="A002034">育王</persName>所置佛舍利塔。以飾法王之居。先是
+        <lb ed="X" n="0504a08"/>　<ref type="person" target="#A000149">上</ref>與法王幸<placeName key="CN0320102T02AA">靈谷寺</placeName>。為　皇考妣。設薦祀法壇。感塔
+        <lb ed="X" n="0504a09"/>影金光之瑞。及法王入<placeName key="CN0140900M01AA">臺山</placeName>。　<ref type="person" target="#A000149">上</ref>眷戀不能釋然。因
+        <lb ed="X" n="0504a10"/>思前瑞。再幸<placeName key="CN0320102T02AA">靈谷</placeName>。　<ref type="person" target="#A000149">上</ref>嘿有所禱。是日覩瑞相倍前。
+        <lb ed="X" n="0504a11"/><date from-iso="1407-05-17" to-iso="1407-06-14" key="j22350922235120">丁亥四月</date>　上遣使。致書於<placeName key="CN0140900M01AA">臺山</placeName><persName key="A009983">大寶法王大善自<lb ed="X" n="0504a12"/>在佛</persName>。其書略曰。朕<date when-iso="1407-05-31" key="j22351062235106">四月十五日</date>。與<persName key="A010851">弘濟大師</persName>詣<placeName key="CN0320102T02AA">靈谷</placeName>。
         <lb ed="X" n="0504a13"/>觀向所見塔影。文彩光明。珍奇妙好。千變萬態。十倍
         <lb ed="X" n="0504a14"/>於前。雖極丹青之巧。言論之辯。莫能圖說其萬一。(云
-        <lb ed="X" n="0504a15"/>云)。此皆如來大寶法王大善自在佛。道超無等。德高
-        <lb ed="X" n="0504a16"/>無比。具足萬行。闡揚六通。化導羣品。實釋迦佛。再現
+        <lb ed="X" n="0504a15"/>云)。此皆<persName key="A009983">如來大寶法王大善自在佛</persName>。道超無等。德高
+        <lb ed="X" n="0504a16"/>無比。具足萬行。闡揚六通。化導羣品。實<persName key="A002799">釋迦佛</persName>。再現
         <lb ed="X" n="0504a17"/>世間。而乃顯茲靈應。不可思議。朕心歡喜。難以名言。
-        <lb ed="X" n="0504a18"/>略此相報。如來亮之。明年辭。　上入滅火化。是年。函
-        <lb ed="X" n="0504a19"/>谷關吏。見法王翩翩西逝。貽　上所賜玉玦回奏。
-        <lb ed="X" n="0504a20"/>　上驚歎不已。敕太監楊昇。塑像於顯通法堂。以永瞻
-        <lb ed="X" n="0504a21"/>奉。　何清。雲南人。持明精進。往見法王。法王與授戒法
-        <lb ed="X" n="0504a22"/>密書。大著靈德。正統中。奉　詔從征麓川。結壇行法
-        <lb ed="X" n="0504a23"/>有功。天順六年。詔入對。未幾而化　上遣禮部主事
+        <lb ed="X" n="0504a18"/>略此相報。如來亮之。明年辭。　上入滅火化。是年。<placeName key="CN0411282A01AA">函<lb ed="X" n="0504a19"/>谷關</placeName>吏。見法王翩翩西逝。貽　上所賜玉玦回奏。
+        <lb ed="X" n="0504a20"/>　上驚歎不已。敕太監<persName key="A009688">楊昇</persName>。塑像於<placeName key="unknown">顯通法堂</placeName>。以永瞻
+        <lb ed="X" n="0504a21"/>奉。　<persName key="unknown">何清</persName>。<placeName key="CN0532923Z05AA">雲南</placeName>人。持明精進。往見<persName key="A009983">法王</persName>。<persName key="A009983">法王</persName>與授戒法
+        <lb ed="X" n="0504a22"/>密書。大著靈德。<date from-iso="1436-01-27" to-iso="1450-01-22" key="j22455742250683">正統中</date>。奉　詔從征<placeName key="CN0533102Z04AA">麓川</placeName>。結壇行法
+        <lb ed="X" n="0504a23"/>有功。<date from-iso="1462-02-08" to-iso="1463-01-28" key="j22550832255437">天順六年</date>。詔入對。未幾而化　上遣禮部主事
         <lb ed="X" n="0504a24"/>曾卓諭祭。</p><p>
-        <lb ed="X" n="0504b01"/>　皇明通紀云。命西僧尚師哈立麻於靈谷寺。啟建
+            <lb ed="X" n="0504b01"/>　皇明通紀云。命西僧尚師<persName key="A009983">哈立麻</persName>於<placeName key="CN0320102T02AA">靈谷寺</placeName>。啟建
         <lb ed="X" n="0504b02"/>　法壇。薦祀　皇考　皇妣。尚師率天下僧伽。舉揚
         <lb ed="X" n="0504b03"/>　普度大齋科。十有四日。慶雲天花。甘雨甘露。舍利
         <lb ed="X" n="0504b04"/>　祥光。青鳥白[鴳-女+隹]。連日畢集。一夕檜柏。生金色花。徧
-        <lb ed="X" n="0504b05"/>　於都城。金仙羅漢。化現雲表。白象青獅。莊嚴妙相。
+            <lb ed="X" n="0504b05"/>　於<placeName key="CN0320105Z10AA">都城</placeName>。金仙羅漢。化現雲表。白象青獅。莊嚴妙相。
         <lb ed="X" n="0504b06"/>　天燈導引。旛蓋旋繞。種種不絕。又聞梵唄空樂。自
-        <lb ed="X" n="0504b07"/>　天而降。羣臣上表稱賀。學士胡廣等。獻　聖孝瑞
+            <lb ed="X" n="0504b07"/>　天而降。羣臣上表稱賀。學士<persName key="unknown">胡廣</persName>等。獻　聖孝瑞
         <lb ed="X" n="0504b08"/>　應歌頌。自是　上潛心釋典。作為佛曲。使宮中歌
         <lb ed="X" n="0504b09"/>　舞之。</p>
 </div>

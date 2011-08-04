@@ -1,13 +1,13 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0381b16zhongLi">
     <head><lb ed="X" n="0381b16"/>　　　　宋　<persName key="A010636">中立</persName>傳</head>
-    <p><anchor n="X.77.1524.0381b17"/><lb ed="X" n="0381b17"/><persName key="A010636">中立</persName>。<placeName key="CN0330203Z10AA">鄞</placeName>之陳氏子。母夢日輪入懷。遂有娠。夜不三浴。
+    <p><anchor n="X.77.1524.0381b17"/><lb ed="X" n="0381b17"/><persName key="A010636">中立</persName>。<placeName key="CN0330203Z10AA">鄞</placeName>之陳氏子。<date key="j21031042103468" when-iso="1046">母夢日輪入懷。遂有娠</date>母夢日輪入懷。遂有娠。夜不三浴。
         <lb ed="X" n="0381b18"/>則啼號不止。<date key="j21060262106390" when-iso="1054">九歲</date>出家。受經一誦。永憶不忘。<date from-iso="1064-01-27" to-iso="1068-02-11" key="j21097042111180">治平中</date>
-        <lb ed="X" n="0381b19"/>試經<placeName key="CN0410224Z43AA">開封</placeName>得度。依神智於<placeName key="CN0330205T02AA">南湖</placeName>渡。神智開幃。設問答
-        <lb ed="X" n="0381b20"/>者二百人。無出師右。及神智謝事。乃俾師為繼。<date from-iso="1086-01-24" to-iso="1088-02-18" key="j21177372118492">元祐<lb ed="X" n="0381b21"/>初</date>。<persName key="A001462">高麗僧統</persName>。問道<placeName key="CN0000000E01AA">中國</placeName>。甫濟岸。遇師升堂。歎曰。果有
+        <lb ed="X" n="0381b19"/>試經<placeName key="CN0410224Z43AA">開封</placeName>得度。依<persName key="A020232">神智</persName>於<placeName key="CN0330205T02AA">南湖</placeName>渡。<persName key="A020232">神智</persName>開幃。設問答
+        <lb ed="X" n="0381b20"/>者二百人。無出師右。及<persName key="A020232">神智</persName>謝事。乃俾師為繼。<date from-iso="1086-01-24" to-iso="1088-02-18" key="j21177372118492">元祐<lb ed="X" n="0381b21"/>初</date>。<persName key="A001462">高麗僧統</persName>。問道<placeName key="CN0000000E01AA">中國</placeName>。甫濟岸。遇師升堂。歎曰。果有
         <lb ed="X" n="0381b22"/>人焉。遂以師禮見。師令門徒<persName key="A019740">介然</persName>。始作<placeName key="CN0330203T12AA">十六觀室</placeName>。以
         <lb ed="X" n="0381b23"/>延淨業之士。已而辭去。曰。<date key="j21246532125017" when-iso="1105">吾年六十</date>。當再來。即退處
-        <lb ed="X" n="0381b24"/><placeName key="CN0330212R01AA">東湖</placeName>之隱。學數年。郡太守王公。勉主<placeName key="CN0330203T03AA">寶雲</placeName>。一新棟宇。
+        <lb ed="X" n="0381b24"/><placeName key="CN0330212R01AA">東湖</placeName>之隱。學數年。郡太守<persName key="unknown">王公</persName>。勉主<placeName key="CN0330203T03AA">寶雲</placeName>。一新棟宇。
         <lb ed="X" n="0381c01"/>於伽藍神腹。得願文。云後百年。當有肉身菩薩。重興
         <lb ed="X" n="0381c02"/>此地。聞者異之。後退隱<placeName key="CN0330000T22AA">白雲菴</placeName>。日宣止觀。至不思議。
         <lb ed="X" n="0381c03"/>歎曰。吾道至此極矣。有不思議境。則有不思議心。乃
@@ -22,4 +22,70 @@
         <lb ed="X" n="0381c13"/>曰。吾甞見<persName key="A019794">摩利支</persName><persName key="A004095">韋[馬*犬]</persName>於夢中。求護法。他日幸於<placeName key="CN0330205T02AC">南<lb ed="X" n="0381c14"/>湖懺堂</placeName>。置其位及師主席。乃立像自師始。<persName key="A009572">陳瑩中</persName>。甞
         <lb ed="X" n="0381c15"/>贊師曰。嚴奉木叉。堅持淨慮。以身為舌。說百億事。師
         <lb ed="X" n="0381c16"/>諡號<persName key="A010636">明智</persName>。</p>
+    
+    <linkGrp>
+        <link targets="#0381b17 #0381b18"/>
+        <ptr target="#A010636" type="person"/>
+        <ptr target="#CN0330203Z10AA" type="place"/>
+        <ptr target="#j21031042103468" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0381b18 #0381b18"/>
+        <ptr target="#A010636" type="person"/>
+        <ptr target="#j21060262106390" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0381b18 #0381b20"/>
+        <ptr target="#A010636" type="person"/>
+        <ptr target="#CN0410224Z43AA" type="place"/>
+        <ptr target="#j21097042111180" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0381b20 #0381b22"/>
+        <ptr target="#A010636" type="person"/>
+        <ptr target="#A001462" type="person"/>
+        <ptr target="#CN0000000E01AA" type="place"/>
+        <ptr target="#j21177372118492" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0381b22 #0381b23"/>
+        <ptr target="#A010636" type="person"/>
+        <ptr target="#A019740" type="person"/>
+        <ptr target="#CN0330203T12AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0381b22 #0381b24"/>
+        <ptr target="#A010636" type="person"/>
+        <ptr target="#CN0330212R01AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0381b24 #0381c02"/>
+        <ptr target="#A010636" type="person"/>
+        <ptr target="#CN0330203T03AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0381c02 #0381c02"/>
+        <ptr target="#A010636" type="person"/>
+        <ptr target="#CN0330000T22AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0381c04 #0381c05"/>
+        <ptr target="#A019793" type="person"/>
+        <ptr target="#CN0330205T02AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0381c04 #0381c05"/>
+        <ptr target="#A010636" type="person"/>
+        <ptr target="#CN0330205T02AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0381c07 #0381c08"/>
+        <ptr target="#A010636" type="person"/>
+        <ptr target="#j21284272128456" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0381c12 #0381c14"/>
+        <ptr target="#A010636" type="person"/>
+        <ptr target="#CN0330302Z09AA" type="place"/>
+    </linkGrp>
 </div>

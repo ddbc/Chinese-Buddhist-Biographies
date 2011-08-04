@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0383c11yuXian">
     <head><lb ed="X" n="0383c11"/>　　　　<persName key="A001637">與咸</persName>．<persName key="A012626">圓智</persName>二師傳</head>
-    <p><anchor n="X.77.1524.0383c12"/><lb ed="X" n="0383c12"/><persName key="A001637">與咸</persName>。字虗中。<placeName key="CN0331003Z05AA">黃巖</placeName>張氏子。住<placeName key="CN0330106T17AA">上竺</placeName>。持戒修身。時稱第
+    <p><anchor n="X.77.1524.0383c12"/><lb ed="X" n="0383c12"/><persName key="A001637">與咸</persName>。字<persName key="A001637">虗中</persName>。<placeName key="CN0331003Z05AA">黃巖</placeName>張氏子。住<placeName key="CN0330106T17AA">上竺</placeName>。持戒修身。時稱第
         <lb ed="X" n="0383c13"/>一。然以<placeName key="XZ0000033A01AA">淨土</placeName>為歸。常曰。佛國。在十萬億剎外。而提封
         <lb ed="X" n="0383c14"/>不越方寸。若克循觀道則往。彼非遙也。後遷<placeName key="CN0331023T80AA">赤城</placeName>。甞
-        <lb ed="X" n="0383c15"/>於法輪寺施戒。當請聖師。眾覩寶光下燭。有梵僧立
+        <lb ed="X" n="0383c15"/>於<placeName key="CN0331003T06AA">法輪寺</placeName>施戒。當請聖師。眾覩寶光下燭。有梵僧立
         <lb ed="X" n="0383c16"/>空表。禪宴之餘。常諷空品。至本性空寂。則入定數日。
         <lb ed="X" n="0383c17"/>至死生無際。則大慟不已。其體法真切若此。一日。<persName key="A008621">萬<lb ed="X" n="0383c18"/>年一禪師</persName>來訪。見床上小冊。記回買。甞住物一錢不
         <lb ed="X" n="0383c19"/>遺。嘆曰。我於道無媿。行不及師。郡太守入山。見池中
@@ -25,4 +25,56 @@
         <lb ed="X" n="0384a10"/>地曰。何可違佛禁耶。即為神說戒。易以素饌。後示疾。
             <lb ed="X" n="0384a11"/>書偈坐亡。好事者。以夢徵師。為<placeName key="CN0331023M01AA">天台</placeName>五百羅漢之一
         <lb ed="X" n="0384a12"/>云。其或然耶。</p>
+    
+    <linkGrp>
+        <link targets="#0383c12 #0383c12"/>
+        <ptr target="#A001637" type="person"/>
+        <ptr target="#CN0331003Z05AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0383c12 #0383c14"/>
+        <ptr target="#A001637" type="person"/>
+        <ptr target="#CN0330106T17AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0383c14 #0383c14"/>
+        <ptr target="#A001637" type="person"/>
+        <ptr target="#CN0331023T80AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0383c14 #0383c16"/>
+        <ptr target="#A001637" type="person"/>
+        <ptr target="#CN0331003T06AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0383c17 #0383c19"/>
+        <ptr target="#A001637" type="person"/>
+        <ptr target="#A008621" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0383c23 #0383c23"/>
+        <ptr target="#A001637" type="person"/>
+        <ptr target="#j21458792146233" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0384a01 #0384a01"/>
+        <ptr target="#A012626" type="person"/>
+        <ptr target="#CN0331003Z05AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0384a01 #0384a02"/>
+        <ptr target="#A012626" type="person"/>
+        <ptr target="#CN0331082M01AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0384a05 #0384a08"/>
+        <ptr target="#A012626" type="person"/>
+        <ptr target="#CN0330106T17AC" type="place"/>
+        <ptr target="#j21341862145682" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0384a08 #0384a09"/>
+        <ptr target="#A012626" type="person"/>
+        <ptr target="#CN0330185T01AA" type="place"/>
+    </linkGrp>    
 </div>

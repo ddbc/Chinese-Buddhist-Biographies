@@ -1,24 +1,23 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0534b01zongLin">
-    <head><lb ed="X" n="0534b01"/>　　　　宗林傳(附智淳)</head>
-    <p><anchor n="X.77.1524.0534b02"/><lb ed="X" n="0534b02"/>宗林。字大風。朽菴其號。杭人也。幼孤。母憂其不能自
-        <lb ed="X" n="0534b03"/>立。捨送普寧菴。事某師為童子。誦經執務。能得師歡
+    <head><lb ed="X" n="0534b01"/>　　　　<persName key="A011080">宗林</persName>傳(附<persName key="A015687">智淳</persName>)</head>
+    <p><anchor n="X.77.1524.0534b02"/><lb ed="X" n="0534b02"/><persName key="A011080">宗林</persName>。字<persName key="A011080">大風</persName>。<persName key="A011080">朽菴</persName>其號。<placeName key="CN0330103Z08AA">杭</placeName>人也。幼孤。母憂其不能自
+        <lb ed="X" n="0534b03"/>立。捨送<placeName key="unknown">普寧菴</placeName>。事某師為童子。誦經執務。能得師歡
         <lb ed="X" n="0534b04"/>心。及長。精戒行。起息必慎。不妄與人交。交必以道。能
         <lb ed="X" n="0534b05"/>詩文。不漫作。作必驚人。性至孝。雖出家。孜孜以母為
-        <lb ed="X" n="0534b06"/>念。曰戒不忘親也。自是流譽遂達　宸聽。弘治中。被
-        <lb ed="X" n="0534b07"/>徵入京。　命為登壇大戒主。為學佛者師。又　敕提
-        <lb ed="X" n="0534b08"/>督五臺山。校正清涼通傳入藏。正德改元。　賜紫衣
-        <lb ed="X" n="0534b09"/>玉帶。大宗師之號。西直門外大香山寺。立宗師府居
+        <lb ed="X" n="0534b06"/>念。曰戒不忘親也。自是流譽遂達　宸聽。<date from-iso="1488-01-23" to-iso="1506-02-02" key="j22645632271147">弘治中</date>。被
+        <lb ed="X" n="0534b07"/>徵入<placeName key="CN0110102Z07AA">京</placeName>。　命為登壇大戒主。為學佛者師。又　敕提
+        <lb ed="X" n="0534b08"/>督<placeName key="CN0140900M01AA">五臺山</placeName>。校正清涼通傳入藏。<date from-iso="1506-02-03" to-iso="1521-04-30" key="j22711482276713">正德改元</date>。　賜紫衣
+        <lb ed="X" n="0534b09"/>玉帶。大宗師之號。<placeName key="unknown">西直門</placeName>外<placeName key="CN0110108T07AA">大香山寺</placeName>。立宗師府居
         <lb ed="X" n="0534b10"/>之。雖際榮盛。處之若無。淡如也。有詩云。天命傳來墨
         <lb ed="X" n="0534b11"/>未乾。櫛風沐雨上長安。低頭嬾進三公位。洗足羞登
-        <lb ed="X" n="0534b12"/>萬壽壇。聞戒故多持戒少。承　恩雖易報　恩難。何
+        <lb ed="X" n="0534b12"/><placeName key="unknown">萬壽壇</placeName>。聞戒故多持戒少。承　恩雖易報　恩難。何
         <lb ed="X" n="0534b13"/>如只向山中住。松竹蕭蕭共歲寒。師倦於津梁。　奏
         <lb ed="X" n="0534b14"/>乞南還。得請喜。而有詩云。再拜下　丹宸。衣香　御
         <lb ed="X" n="0534b15"/>路新。九門三月雨。千里一歸人。馬踏殘花路。鶯啼細
         <lb ed="X" n="0534b16"/>柳春。因思頭白母。心火熱如焚。二詩可以想見林為
         <lb ed="X" n="0534b17"/>人矣。</p><p>
-        <lb ed="X" n="0534b18"/>前是。杭有智淳者。亦以戒行著聲。甞於靈芝寺說戒。
-        <lb ed="X" n="0534b19"/>受從頗眾。正統間。被徵為登壇大宗師。至景泰六年。
-        <lb ed="X" n="0534b20"/>沐浴坐化。　上遣禮部趙勗　諭祭。碑石現存靈芝
-        <lb ed="X" n="0534b21"/>寺中。</p>
+            <lb ed="X" n="0534b18"/>前是。<placeName key="CN0330103Z08AA">杭</placeName>有<persName key="A015687">智淳</persName>者。亦以戒行著聲。甞於<placeName key="CN0330106T15AA">靈芝寺</placeName>說戒。
+            <lb ed="X" n="0534b19"/>受從頗眾。<date from-iso="1436-01-27" to-iso="1450-01-22" key="j22455742250683">正統間</date>。被徵為登壇大宗師。至<date from-iso="1455-01-27" to-iso="1456-02-14" key="j22525142252897">景泰六年</date>。
+            <lb ed="X" n="0534b20"/>沐浴坐化。　上遣禮部趙勗　諭祭。碑石現存<placeName key="CN0330106T15AA">靈芝<lb ed="X" n="0534b21"/>寺</placeName>中。</p>
 </div>

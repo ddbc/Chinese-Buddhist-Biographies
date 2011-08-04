@@ -1,26 +1,25 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0440c12zhiBen">
-    <head><lb ed="X" n="0440c12"/>　　　　夾山本禪師傳</head>
-    <p><anchor n="X.77.1524.0440c13"/><lb ed="X" n="0440c13"/>智本。筠高安郭氏子。生五歲大饑。有貴客過門。見其
+    <head><lb ed="X" n="0440c12"/>　　　　<persName key="A001253">夾山本</persName>禪師傳</head>
+    <p><anchor n="X.77.1524.0440c13"/><lb ed="X" n="0440c13"/><persName key="A001253">智本</persName>。筠<placeName key="CN0360983Z07AA">高安</placeName>郭氏子。生五歲大饑。有貴客過門。見其
         <lb ed="X" n="0440c14"/>氣骨。留萬錢與其父母。欲携去。祖母劉。適從旁舍歸。
         <lb ed="X" n="0440c15"/>顧見怒曰。兒生之夕。吾夢天雨華。吾家吉兆也。寧饑
-        <lb ed="X" n="0440c16"/>死不以與人。推錢還之。既長大。遊報恩寺。聞僧說出
-        <lb ed="X" n="0440c17"/>家因緣。願為門弟子。劉氏喜曰。此吾志也。年十九試
-        <lb ed="X" n="0440c18"/>經為僧。明年受具足戒。即往游方。時雲居舜老夫。開
-        <lb ed="X" n="0440c19"/>先暹道者。法席冠於廬山。師往來二老之間。久之。聞
-        <lb ed="X" n="0440c20"/>法華端禪師者。深為法窟。氣壓叢林。師往謁之。遂留
-        <lb ed="X" n="0440c21"/>十年。名聲遠聞。舒州太守李公端臣。請說法於龍門。
-        <lb ed="X" n="0440c22"/>辭去之日。端領眾送之。師馬逸而先。顧端曰。當仁不
-        <lb ed="X" n="0440c23"/>讓。端笑謂大眾曰。國清才子貴。家富小兒驕。其父子
-        <lb ed="X" n="0440c24"/>法喜遊戲。多類此。未幾。解院還廬山。時曾丞相。由翰
-        <lb ed="X" n="0441a01"/>林學士。出領長沙。以禮延居南岳之法輪。學者爭宗
-        <lb ed="X" n="0441a02"/>向之。遷居南臺。又遷道林。遷雲益。遷石霜。凡十三年。
-        <lb ed="X" n="0441a03"/>道大顯著。勸請皆一時名公卿。師既老矣。而湖北運
-        <lb ed="X" n="0441a04"/>使陳公舉。必欲以夾山致師。師亦不辭。忻然曳杖而
-        <lb ed="X" n="0441a05"/>去。人登問之。師曰。係情去留。豈道人事。湖南湖北。真
-        <lb ed="X" n="0441a06"/>一夢境耳。何優劣避就之耶。以大觀元年上元夕。沐
-        <lb ed="X" n="0441a07"/>浴更衣端坐。終于夾山。閱世七十有三。僧臘五十有
-        <lb ed="X" n="0441a08"/>二。闍維。齒骨數珠不壞。葬於樂普庵之西。師性真率。
+        <lb ed="X" n="0440c16"/>死不以與人。推錢還之。既長大。遊<placeName key="CN0360902T01AA">報恩寺</placeName>。聞僧說出
+        <lb ed="X" n="0440c17"/>家因緣。願為門弟子。<persName key="unknown">劉氏</persName>喜曰。此吾志也。<date key="j21056612106025" when-iso="1053">年十九</date>試
+        <lb ed="X" n="0440c18"/>經為僧。明年受具足戒。即往游方。時<placeName key="CN0360425T02AA">雲居</placeName><persName key="A004035">舜老夫</persName>。<placeName key="CN0360427T01AA">開<lb ed="X" n="0440c19"/>先</placeName><persName key="unknown">暹道</persName>者。法席冠於<placeName key="CN0360402M01AA">廬山</placeName>。師往來二老之間。久之。聞
+        <lb ed="X" n="0440c20"/><persName key="A003723">法華端</persName>禪師者。深為法窟。氣壓叢林。師往謁之。遂留
+        <lb ed="X" n="0440c21"/>十年。名聲遠聞。<placeName key="CN0340824Z10AA">舒州</placeName>太守<persName key="unknown">李公端臣</persName>。請說法於<placeName key="CN0340825T03AA">龍門</placeName>。
+        <lb ed="X" n="0440c22"/>辭去之日。<persName key="A003723">端</persName>領眾送之。師馬逸而先。顧端曰。當仁不
+        <lb ed="X" n="0440c23"/>讓。<persName key="A003723">端</persName>笑謂大眾曰。國清才子貴。家富小兒驕。其父子
+        <lb ed="X" n="0440c24"/>法喜遊戲。多類此。未幾。解院還<placeName key="CN0360402M01AA">廬山</placeName>。時<persName key="unknown">曾丞相</persName>。由翰
+        <lb ed="X" n="0441a01"/>林學士。出領<placeName key="CN0430105Z19AA">長沙</placeName>。以禮延居南岳之<placeName key="CN0430421T02AA">法輪</placeName>。學者爭宗
+        <lb ed="X" n="0441a02"/>向之。遷居<placeName key="CN0430412T08AA">南臺</placeName>。又遷<placeName key="CN0430104T02AA">道林</placeName>。遷<placeName key="CN0430104T04AA">雲益</placeName>。遷<placeName key="CN0430181T02AA">石霜</placeName>。凡十三年。
+        <lb ed="X" n="0441a03"/>道大顯著。勸請皆一時名公卿。師既老矣。而<placeName key="CN0420000E02AA">湖北</placeName>運
+        <lb ed="X" n="0441a04"/>使<persName key="unknown">陳公舉</persName>。必欲以<placeName key="unknown">夾山</placeName>致師。師亦不辭。忻然曳杖而
+        <lb ed="X" n="0441a05"/>去。人登問之。師曰。係情去留。豈道人事。<placeName key="CN0430103A01AA">湖南</placeName><placeName key="CN0420000E02AA">湖北</placeName>。真
+        <lb ed="X" n="0441a06"/>一夢境耳。何優劣避就之耶。以<date when-iso="1107-02-16" key="j21254292125429">大觀元年上元夕</date>。沐
+        <lb ed="X" n="0441a07"/>浴更衣端坐。終于<placeName key="unknown">夾山</placeName>。閱世七十有三。僧臘五十有
+        <lb ed="X" n="0441a08"/>二。闍維。齒骨數珠不壞。葬於<placeName key="unknown">樂普庵</placeName>之西。師性真率。
         <lb ed="X" n="0441a09"/>不事事。膽氣葢於流輩。作為偈語。肆筆而成。亦一時
         <lb ed="X" n="0441a10"/>禪林之秀者。</p>
 </div>

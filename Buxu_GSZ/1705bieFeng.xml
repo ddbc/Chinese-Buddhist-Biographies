@@ -1,51 +1,45 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0439c12bieFeng">
-    <head><lb ed="X" n="0439c12"/>　　　　別峰印禪師傳(附慧綽)</head>
-    <p><anchor n="X.77.1524.0439c13"/><lb ed="X" n="0439c13"/>別峰禪師。名寶印。字坦叔。生為龍游李氏子。世居峨
-        <lb ed="X" n="0439c14"/>嵋之麓。少而奇警。然不喜在家。乃從德山院清遠道
-        <lb ed="X" n="0439c15"/>人得度。自成童時。已愽通六經及百家之說。至是。復
+    <head><lb ed="X" n="0439c12"/>　　　　<persName key="A008602">別峰印</persName>禪師傳(附<persName key="A009609">慧綽</persName>)</head>
+    <p><anchor n="X.77.1524.0439c13"/><lb ed="X" n="0439c13"/><persName key="A008602">別峰</persName>禪師。名<persName key="A008602">寶印</persName>。字<persName key="A008602">坦叔</persName>。生為<placeName key="CN0511102Z09AA">龍游</placeName>李氏子。世居<placeName key="CN0511181M01AA">峨<lb ed="X" n="0439c14"/>嵋</placeName>之麓。少而奇警。然不喜在家。乃從<placeName key="unknown">德山院</placeName><persName key="A009587">清遠道<lb ed="X" n="0439c15"/>人</persName>得度。自成童時。已愽通六經及百家之說。至是。復
         <lb ed="X" n="0439c16"/>從華嚴起信諸名宿。窮源探賾。不高出同學不止。時
-        <lb ed="X" n="0439c17"/>密印禪師民公。說法於中峰道場。乃挈一笠往從之。
-        <lb ed="X" n="0439c18"/>一日密印舉。僧問巗頭起滅不停時如何。頭叱曰是
-        <lb ed="X" n="0439c19"/>誰起滅。師豁然大悟。自是鋒不可觸。密印恨相得之
-        <lb ed="X" n="0439c20"/>晚。會圓悟自南歸成都昭覺。乃遣師往省。因隨眾入
-        <lb ed="X" n="0439c21"/>室。圓悟舉從上諸聖以何法接人。師舉起拳。圓悟曰。
-        <lb ed="X" n="0439c22"/>此是老僧用者。孰為從上諸聖用者。師即揮拳。圓悟
-        <lb ed="X" n="0439c23"/>亦舉拳相交。大笑而罷。圓悟歎異之曰。是子。他日必
-        <lb ed="X" n="0439c24"/>類我師。留昭覺三年。密印猶在中峰。以堂中第一座
-        <lb ed="X" n="0440a01"/>致師。師辭。密印大怒曰。我以法得人。人不我傳。尚何
-        <lb ed="X" n="0440a02"/>以說法。為欲棄眾去。眾皇恐亟趨昭覺。羅拜懇請。圓
-        <lb ed="X" n="0440a03"/>悟亦助之請。始行。道望日隆。學者爭歸之。雖圓悟密
-        <lb ed="X" n="0440a04"/>印。不能揜也。久之。南游歷見諸大禪老。最後扣妙喜
-        <lb ed="X" n="0440a05"/>於徑山。為師獨掃一室。堂中皆大驚。妙喜南遷。師亦
-        <lb ed="X" n="0440a06"/>西歸。始住臨卭鳳皇山。舉香。嗣密印。道既盛行。築都
-        <lb ed="X" n="0440a07"/>不會庵。松竹幽[穴/逐]。暇日名勝畢集。聞師一言。皆自謂
+        <lb ed="X" n="0439c17"/><persName key="A008434">密印禪師民公</persName>。說法於<placeName key="unknown">中峰道場</placeName>。乃挈一笠往從之。
+        <lb ed="X" n="0439c18"/>一日<persName key="A008434">密印</persName>舉。僧問巗頭起滅不停時如何。頭叱曰是
+        <lb ed="X" n="0439c19"/>誰起滅。師豁然大悟。自是鋒不可觸。<persName key="A008434">密印</persName>恨相得之
+        <lb ed="X" n="0439c20"/>晚。會<persName key="A001411">圓悟</persName>自南歸成都<placeName key="CN0510108T30AA">昭覺</placeName>。乃遣師往省。因隨眾入
+        <lb ed="X" n="0439c21"/>室。<persName key="A001411">圓悟</persName>舉從上諸聖以何法接人。師舉起拳。<persName key="A001411">圓悟</persName>曰。
+        <lb ed="X" n="0439c22"/>此是老僧用者。孰為從上諸聖用者。師即揮拳。<persName key="A001411">圓悟</persName>
+        <lb ed="X" n="0439c23"/>亦舉拳相交。大笑而罷。<persName key="A001411">圓悟</persName>歎異之曰。是子。他日必
+        <lb ed="X" n="0439c24"/>類我師。留<placeName key="CN0510108T30AA">昭覺</placeName>三年。<persName key="A008434">密印</persName>猶在<placeName key="unknown">中峰</placeName>。以堂中第一座
+        <lb ed="X" n="0440a01"/>致師。師辭。<persName key="A008434">密印</persName>大怒曰。我以法得人。人不我傳。尚何
+        <lb ed="X" n="0440a02"/>以說法。為欲棄眾去。眾皇恐亟趨<placeName key="CN0510108T30AA">昭覺</placeName>。羅拜懇請。<persName key="A001411">圓<lb ed="X" n="0440a03"/>悟</persName>亦助之請。始行。道望日隆。學者爭歸之。雖<persName key="A001411">圓悟</persName><persName key="A008434">密<lb ed="X" n="0440a04"/>印</persName>。不能揜也。久之。南游歷見諸大禪老。最後扣<persName key="A000475">妙喜</persName>
+        <lb ed="X" n="0440a05"/>於<placeName key="CN0330110T11AA">徑山</placeName>。為師獨掃一室。堂中皆大驚。<persName key="A000475">妙喜</persName>南遷。師亦
+        <lb ed="X" n="0440a06"/>西歸。始住<placeName key="unknown">臨卭鳳皇山</placeName>。舉香。嗣<persName key="A008434">密印</persName>。道既盛行。築都
+        <lb ed="X" n="0440a07"/><placeName key="unknown">不會庵</placeName>。松竹幽[穴/逐]。暇日名勝畢集。聞師一言。皆自謂
         <lb ed="X" n="0440a08"/>意消稍或間濶。輙相語曰。吾輩鄙吝萌矣。其道德服
-        <lb ed="X" n="0440a09"/>人如此。俄復下硤挾金陵。應庵華方住蔣山。館師於
-        <lb ed="X" n="0440a10"/>上方。白留守張公燾。舉以代己。師聞。即日發去。會陳
-        <lb ed="X" n="0440a11"/>丞相俊鄉來。為金陵。以保寧延師。俄徙京口金山。學
-        <lb ed="X" n="0440a12"/>者傾諸方。金山自兵亂後。雖屢葺莫能成。至是始復
+        <lb ed="X" n="0440a09"/>人如此。俄復下硤挾<placeName key="CN0320106Z07AA">金陵</placeName>。<persName key="A004687">應庵華</persName>方住<placeName key="CN0320102T05AA">蔣山</placeName>。館師於
+        <lb ed="X" n="0440a10"/>上方。白留守<persName key="unknown">張公燾</persName>。舉以代己。師聞。即日發去。會<persName key="unknown">陳<lb ed="X" n="0440a11"/>丞相俊鄉</persName>來。為<placeName key="CN0320106Z07AA">金陵</placeName>。以<placeName key="CN0320104T07AA">保寧</placeName>延師。俄徙京口<placeName key="CN0321111T03AA">金山</placeName>。學
+        <lb ed="X" n="0440a12"/>者傾諸方。<placeName key="CN0321111T03AA">金山</placeName>自兵亂後。雖屢葺莫能成。至是始復
         <lb ed="X" n="0440a13"/>大興。如承平時。而有加焉。異時居此山。鮮踰三年者。
-        <lb ed="X" n="0440a14"/>師獨安坐十五夏。魏惠憲王牧四明。虗雪竇來請。住
-        <lb ed="X" n="0440a15"/>四年。樂其山林。有終老之意。而名益重。被勅住徑山。
-        <lb ed="X" n="0440a16"/>淳熈七年五月也。七月至行在所。壽皇降中使。召入
-        <lb ed="X" n="0440a17"/>禁中。以老病足蹇。賜肩輿於東華門內。賜食於觀堂。
-        <lb ed="X" n="0440a18"/>引對於選德殿。賜坐勞問良渥。師目舉古宿云。透得
+        <lb ed="X" n="0440a14"/>師獨安坐十五夏。<persName key="A007289">魏惠憲王</persName>牧<placeName key="CN0330203Z08AA">四明</placeName>。虗<placeName key="CN0330283T01AA">雪竇</placeName>來請。住
+        <lb ed="X" n="0440a15"/>四年。樂其山林。有終老之意。而名益重。被勅住<placeName key="CN0330110T11AA">徑山</placeName>。
+        <lb ed="X" n="0440a16"/><date from-iso="1180-06-02" to-iso="1180-07-01" key="j21521992152228">淳熈七年五月</date>也。<date from-iso="1180-07-31" to-iso="1180-08-29" key="j21522582152287">七月</date>至行在所。<persName key="A000480">壽皇</persName>降中使。召入
+        <lb ed="X" n="0440a17"/>禁中。以老病足蹇。賜肩輿於<placeName key="unknown">東華門</placeName>內。賜食於<placeName key="unknown">觀堂</placeName>。
+        <lb ed="X" n="0440a18"/>引對於<placeName key="CN0330103A02AA">選德殿</placeName>。賜坐勞問良渥。師目舉古宿云。透得
         <lb ed="X" n="0440a19"/>見聞覺知。受用見聞覺知。不墮見聞覺知。上悅。畢其
-        <lb ed="X" n="0440a20"/>說乃退。後十餘日。又命開堂於靈隱山。中使齎賜御
-        <lb ed="X" n="0440a21"/>香。恩禮俻至。十年二月。上製圓覺經註。遣使馳賜。且
+        <lb ed="X" n="0440a20"/>說乃退。後十餘日。又命開堂於<placeName key="CN0330106M02AA">靈隱山</placeName>。中使齎賜御
+        <lb ed="X" n="0440a21"/>香。恩禮俻至。<date from-iso="1183-03-03" to-iso="1183-04-01" key="j21532032153232">十年二月</date>。上製圓覺經註。遣使馳賜。且
         <lb ed="X" n="0440a22"/>命作序。師老益厭住持事。門人懼其遠游不返。相與
-        <lb ed="X" n="0440a23"/>築庵於山北俟其歸。光宗在東宮。書別峰二大字榜
-        <lb ed="X" n="0440a24"/>之。十五年冬。奏乞養疾於別峰。得請。明年。光宗受內
-        <lb ed="X" n="0440b01"/>禪。取向取賜宸翰。識以御寶。復賜焉。紹熈元年冬十
-        <lb ed="X" n="0440b02"/>一月。忽往見嗣住山智[竺-二+束]告別。[竺-二+束]問行日。師曰。水到
-        <lb ed="X" n="0440b03"/>渠成。歸取幅紙大書曰。十二月七日夜鷄鳴時。如期
-        <lb ed="X" n="0440b04"/>而化。奉蛻質。返寺之法堂。留七日。顏色精明。鬚髮皆
-        <lb ed="X" n="0440b05"/>長。頂溫如沃湯。是月十四日。葬於別峰之西岡。壽八
+        <lb ed="X" n="0440a23"/>築庵於山北俟其歸。<persName key="A006608">光宗</persName>在東宮。書別峰二大字榜
+        <lb ed="X" n="0440a24"/>之。<date from-iso="1188-10-29" to-iso="1189-01-25" key="j21552702155358">十五年冬</date>。奏乞養疾於<placeName key="CN0331023M01AB">別峰</placeName>。得請。<date key="j21553342155698" when-iso="1189">明年</date>。<persName key="A006608">光宗</persName>受內
+        <lb ed="X" n="0440b01"/>禪。取向取賜宸翰。識以御寶。復賜焉。<date from-iso="1190-12-06" to-iso="1191-01-04" key="j21560382156067">紹熈元年冬十<lb ed="X" n="0440b02"/>一月</date>。忽往見嗣住山智[竺-二+束]告別。[竺-二+束]問行日。師曰。水到
+        <lb ed="X" n="0440b03"/>渠成。歸取幅紙大書曰。<date when-iso="1191-01-11" key="j21560742156074">十二月七日</date>夜鷄鳴時。如期
+        <lb ed="X" n="0440b04"/>而化。奉蛻質。返寺之<placeName key="unknown">法堂</placeName>。留七日。顏色精明。鬚髮皆
+        <lb ed="X" n="0440b05"/>長。頂溫如沃湯。<date when-iso="1191-01-18" key="j21560812156081">是月十四日</date>。葬於<placeName key="CN0331023M01AB">別峰</placeName>之西岡。壽八
         <lb ed="X" n="0440b06"/>十有二。臘六十有四。得法弟子實繁。指不能一二屈。
-        <lb ed="X" n="0440b07"/>有慧綽者。山陰陸氏子。當以蔭得官辭之。從師祝髮。
+        <lb ed="X" n="0440b07"/>有<persName key="A009609">慧綽</persName>者。<placeName key="CN0330602Z19AA">山陰</placeName>陸氏子。當以蔭得官辭之。從師祝髮。
         <lb ed="X" n="0440b08"/>得記莂。遯跡巗岫。終身不出。師既示寂。上為勅有司。
-        <lb ed="X" n="0440b09"/>定諡曰慈辯。塔曰智光。菴曰別峰。極方外之寵。師說
-        <lb ed="X" n="0440b10"/>法數十年。所至門人。集為語錄。晚際遇壽皇。被宸翰
+        <lb ed="X" n="0440b09"/>定諡曰<persName key="A008602">慈辯</persName>。塔曰<placeName key="unknown">智光</placeName>。菴曰<placeName key="unknown">別峰</placeName>。極方外之寵。師說
+        <lb ed="X" n="0440b10"/>法數十年。所至門人。集為語錄。晚際遇<persName key="A000480">壽皇</persName>。被宸翰
         <lb ed="X" n="0440b11"/>咨詢法要。皆對使者具奏。別具行世。此不悉著。</p>
 </div>

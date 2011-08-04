@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0406a12fuShangZuo">
-    <head><lb ed="X" n="0406a12"/>　　　　太原上座傳</head>
-    <p><anchor n="X.77.1524.0406a13"/><lb ed="X" n="0406a13"/>太原孚上座。初在揚州光孝寺。講涅槃經。有禪者阻
+    <head><lb ed="X" n="0406a12"/>　　　　<persName key="A010732">太原上座</persName>傳</head>
+    <p><anchor n="X.77.1524.0406a13"/><lb ed="X" n="0406a13"/><persName key="A010732">太原孚上座</persName>。初在揚州<placeName key="CN0321202T07AA">光孝寺</placeName>。講涅槃經。有禪者阻
         <lb ed="X" n="0406a14"/>雪。因往聽講。至三因佛性三德法身。廣談法身妙理。
         <lb ed="X" n="0406a15"/>禪者失笑。師講罷。請禪者喫茶白曰。某甲素志狹劣。
         <lb ed="X" n="0406a16"/>依文解義。適蒙見笑。且望見教。禪者曰。寔笑座主不
@@ -16,42 +16,41 @@
         <lb ed="X" n="0406b01"/>教汝傳持大教。代佛說法。夜來為甚醉酒臥街。師曰。
         <lb ed="X" n="0406b02"/>禪德。自來講經。將生身父母鼻孔杻揑。今已去更不
         <lb ed="X" n="0406b03"/>敢如是。禪者曰。且去。來日相見。師遂罷講。徧歷諸方。
-        <lb ed="X" n="0406b04"/>名聞宇內。甞游浙中。登徑山法會。一日于大佛殿前
-        <lb ed="X" n="0406b05"/>有僧問。上座曾到五臺否。曰到。見文殊否。曰見。甚處
-        <lb ed="X" n="0406b06"/>見。曰。徑山佛殿前見。其僧後適閩川。舉似雪峰。峰曰。
-        <lb ed="X" n="0406b07"/>何不令入嶺來。師聞。趨裝而往。初至峰。廨院憩錫。因
-        <lb ed="X" n="0406b08"/>分柑子與僧。長慶問甚處將來。師曰。自嶺外。曰遠涉
-        <lb ed="X" n="0406b09"/>不易擔負得來。師曰。柑子柑子。次日上山。雪峰聞乃
-        <lb ed="X" n="0406b10"/>集眾。師到法堂上。顧視雪峰。便下看知事。明日却上
-        <lb ed="X" n="0406b11"/>禮拜曰。某甲昨日觸忤和尚。峰曰。知是般事便休。峰
-        <lb ed="X" n="0406b12"/>一日見師。乃指日示之。師搖手而出。峰曰。汝不肯我
-        <lb ed="X" n="0406b13"/>耶。師曰。和尚搖頭。某甲擺尾。甚麼處是不肯。峰曰。到
-        <lb ed="X" n="0406b14"/>處也須諱却。一日眾僧晚參。峰在中庭臥。師曰。五州
-        <lb ed="X" n="0406b15"/>管內。祇有這老和尚較些子。峰便起去。峰甞問師。見
+        <lb ed="X" n="0406b04"/>名聞宇內。甞游浙中。登<placeName key="CN0330110T11AA">徑山</placeName>法會。一日于<placeName key="CN0330110T11AC">大佛殿</placeName>前
+        <lb ed="X" n="0406b05"/>有僧問。<persName key="A010732">上座</persName>曾到<placeName key="CN0140900M01AA">五臺</placeName>否。曰到。見<persName key="A002144">文殊</persName>否。曰見。甚處
+        <lb ed="X" n="0406b06"/>見。曰。<placeName key="CN0330110T11AA">徑山</placeName>佛殿前見。其僧後適<placeName key="CN0350000E02AA">閩川</placeName>。舉似<persName key="A003677">雪峰</persName>。<persName key="A003677">峰</persName>曰。
+        <lb ed="X" n="0406b07"/>何不令入嶺來。師聞。趨裝而往。初至<persName key="A003677">峰</persName>廨院憩錫。因
+        <lb ed="X" n="0406b08"/>分柑子與僧。<persName key="A003890">長慶</persName>問甚處將來。師曰。自嶺外。曰遠涉
+        <lb ed="X" n="0406b09"/>不易擔負得來。師曰。柑子柑子。次日上山。<persName key="A003677">雪峰</persName>聞乃
+        <lb ed="X" n="0406b10"/>集眾。師到法堂上。顧視<persName key="A003677">雪峰</persName>。便下看知事。明日却上
+        <lb ed="X" n="0406b11"/>禮拜曰。某甲昨日觸忤和尚。<persName key="A003677">峰</persName>曰。知是般事便休。<persName key="A003677">峰</persName>
+        <lb ed="X" n="0406b12"/>一日見師。乃指日示之。師搖手而出。<persName key="A003677">峰</persName>曰。汝不肯我
+        <lb ed="X" n="0406b13"/>耶。師曰。和尚搖頭。某甲擺尾。甚麼處是不肯。<persName key="A003677">峰</persName>曰。到
+        <lb ed="X" n="0406b14"/>處也須諱却。一日眾僧晚參。<persName key="A003677">峰</persName>在中庭臥。師曰。五州
+        <lb ed="X" n="0406b15"/>管內。祇有這老和尚較些子。<persName key="A003677">峰</persName>便起去。<persName key="A003677">峰</persName>甞問師。見
         <lb ed="X" n="0406b16"/>說臨濟有三句是否。師曰是。曰作麼生是第一句。師
-        <lb ed="X" n="0406b17"/>舉目視之。峰曰。此猶是第二句。如何是第一句。師叉
-        <lb ed="X" n="0406b18"/>手而退。自是雪峰深器之。室中印解。師資道契。更不
-        <lb ed="X" n="0406b19"/>他游。而掌浴焉。一日玄沙上問訊雪峰。峰曰。此間有
-        <lb ed="X" n="0406b20"/>箇老鼠子。今在浴室裏。沙曰。待與和尚勘過。言訖到
-        <lb ed="X" n="0406b21"/>浴室。遇師打水。沙曰。相看上座。師曰。已相見了。沙曰。
-        <lb ed="X" n="0406b22"/>甚劫中相見。師曰。瞌睡作麼。沙却入方丈。白峰曰。已
-        <lb ed="X" n="0406b23"/>勘破了。峰曰。作麼生勘伊。沙舉前話。峰曰。汝著賊也。
-        <lb ed="X" n="0406b24"/>鼓山問師。父母未生時。鼻孔在甚麼處。師曰。老兄先
-        <lb ed="X" n="0406c01"/>道。山曰。如今生也。汝道在甚麼處。師不肯。山却問作
-        <lb ed="X" n="0406c02"/>麼生。師曰。將手中扇子來。山與扇子。再徵前話。師搖
-        <lb ed="X" n="0406c03"/>扇不對。山罔測。乃毆師一拳。鼓山赴大王請。雪峰門
+        <lb ed="X" n="0406b17"/>舉目視之。<persName key="A003677">峰</persName>曰。此猶是第二句。如何是第一句。師叉
+        <lb ed="X" n="0406b18"/>手而退。自是<persName key="A003677">雪峰</persName>深器之。室中印解。師資道契。更不
+        <lb ed="X" n="0406b19"/>他游。而掌浴焉。一日<persName key="A008370">玄沙</persName>上問訊<persName key="A003677">雪峰</persName>。<persName key="A003677">峰</persName>曰。此間有
+        <lb ed="X" n="0406b20"/>箇老鼠子。今在浴室裏。<persName key="A008370">沙</persName>曰。待與和尚勘過。言訖到
+        <lb ed="X" n="0406b21"/>浴室。遇師打水。<persName key="A008370">沙</persName>曰。相看上座。師曰。已相見了。<persName key="A008370">沙</persName>曰。
+        <lb ed="X" n="0406b22"/>甚劫中相見。師曰。瞌睡作麼。<persName key="A008370">沙</persName>却入方丈。白<persName key="A003677">峰</persName>曰。已
+        <lb ed="X" n="0406b23"/>勘破了。<persName key="A003677">峰</persName>曰。作麼生勘伊。<persName key="A008370">沙</persName>舉前話。<persName key="A003677">峰</persName>曰。汝著賊也。
+        <lb ed="X" n="0406b24"/><persName key="A003900">鼓山</persName>問師。父母未生時。鼻孔在甚麼處。師曰。老兄先
+        <lb ed="X" n="0406c01"/>道。<persName key="A003900">山</persName>曰。如今生也。汝道在甚麼處。師不肯。<persName key="A003900">山</persName>却問作
+        <lb ed="X" n="0406c02"/>麼生。師曰。將手中扇子來。<persName key="A003900">山</persName>與扇子。再徵前話。師搖
+        <lb ed="X" n="0406c03"/>扇不對。<persName key="A003900">山</persName>罔測。乃毆師一拳。<persName key="A003900">鼓山</persName>赴<persName key="A003732">大王</persName>請。<persName key="A003677">雪峰</persName>門
         <lb ed="X" n="0406c04"/>送。同至法堂。乃曰。一隻聖箭。直射九重城裏去也。師
         <lb ed="X" n="0406c05"/>曰。是伊未在。曰。渠是徹底人。師曰。若不信。待某甲去
-        <lb ed="X" n="0406c06"/>勘過。遂趂至中路。便問師兄甚處去。山曰。九重城裏。
-        <lb ed="X" n="0406c07"/>師曰。忽遇三軍圍繞時如何。山曰。他家自有通霄路。
-        <lb ed="X" n="0406c08"/>師曰。恁麼則離宮失殿去也。山曰。何處不稱尊。師拂
-        <lb ed="X" n="0406c09"/>袖便回。峰問如何。師曰。好隻聖箭。中路折却了也。遂
-        <lb ed="X" n="0406c10"/>舉前話。峰乃曰。奴渠語在。師曰。這老凍膿。猶有鄉情
+        <lb ed="X" n="0406c06"/>勘過。遂趂至中路。便問師兄甚處去。<persName key="A003900">山</persName>曰。九重城裏。
+        <lb ed="X" n="0406c07"/>師曰。忽遇三軍圍繞時如何。<persName key="A003900">山</persName>曰。他家自有通霄路。
+        <lb ed="X" n="0406c08"/>師曰。恁麼則離宮失殿去也。<persName key="A003900">山</persName>曰。何處不稱尊。師拂
+        <lb ed="X" n="0406c09"/>袖便回。<persName key="A003677">峰</persName>問如何。師曰。好隻聖箭。中路折却了也。遂
+        <lb ed="X" n="0406c10"/>舉前話。<persName key="A003677">峰</persName>乃曰。奴渠語在。師曰。這老凍膿。猶有鄉情
         <lb ed="X" n="0406c11"/>在。師在庫前立。有問。如何是觸目菩提。師踢狗子作
-        <lb ed="X" n="0406c12"/>聲走。僧無對。師曰。小狗子不消一踢。保福簽瓜次。師
-        <lb ed="X" n="0406c13"/>至福曰。道得與汝瓜喫。師曰。把將來。福度與一片。師
-        <lb ed="X" n="0406c14"/>接得便去。師不出世。諸方目為太原孚上座。後歸維
-        <lb ed="X" n="0406c15"/>揚。陳尚書留供養。一日謂尚書曰。來日講一遍大涅
+        <lb ed="X" n="0406c12"/>聲走。僧無對。師曰。小狗子不消一踢。<persName key="A003878">保福</persName>簽瓜次。師
+        <lb ed="X" n="0406c13"/>至<persName key="A003878">福</persName>曰。道得與汝瓜喫。師曰。把將來。福度與一片。師
+        <lb ed="X" n="0406c14"/>接得便去。師不出世。諸方目為<persName key="A010732">太原孚上座</persName>。後歸<placeName key="CN0321002Z02AA">維<lb ed="X" n="0406c15"/>揚</placeName>。陳尚書留供養。一日謂尚書曰。來日講一遍大涅
         <lb ed="X" n="0406c16"/>槃經。報答尚書。書至期致齋茶畢。師遂陞座。良久揮
         <lb ed="X" n="0406c17"/>尺一下曰。如是我聞。乃召尚書。書應諾。師曰。一時佛
         <lb ed="X" n="0406c18"/>在。便乃脫去。</p>

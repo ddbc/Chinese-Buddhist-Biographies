@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0519c19quanGong">
-    <head><lb ed="X" n="0519c19"/>　　　　銓公傳</head>
-    <p><anchor n="X.77.1524.0519c20"/><lb ed="X" n="0519c20"/>銓公。賜號文炤大師。華亭人。體清弱。以閉門習靜為
-        <lb ed="X" n="0519c21"/>事。不泛交。惟主簿劉發。常詣之。善鼓琴。有美琴。曰響
+    <head><lb ed="X" n="0519c19"/>　　　　<persName key="A021582">銓公</persName>傳</head>
+    <p><anchor n="X.77.1524.0519c20"/><lb ed="X" n="0519c20"/><persName key="A021582">銓公</persName>。賜號<persName key="A021582">文炤大師</persName>。<placeName key="CN0310117Z12AA">華亭</placeName>人。體清弱。以閉門習靜為
+        <lb ed="X" n="0519c21"/>事。不泛交。惟主簿<persName key="unknown">劉發</persName>。常詣之。善鼓琴。有美琴。曰響
         <lb ed="X" n="0519c22"/>泉。好風良月。則清香撫之。云。以供佛。鄰貴慕之。隔垣
         <lb ed="X" n="0519c23"/>起亭。宵頃以聽。知之徙北牖。發。恃師所知。間邀一客
-        <lb ed="X" n="0519c24"/>同見銓。銓方操絃為泛聲。客遽稱善。銓即止。客不懌
-        <lb ed="X" n="0520a01"/>而去。銓顧發曰。何得引俗人入我座耶。發媿謝。師所
-        <lb ed="X" n="0520a02"/>居曰妙音閣。發為記。且贈以詩曰。寶琴何所得。所得
+        <lb ed="X" n="0519c24"/>同見銓。<persName key="A021582">銓</persName>方操絃為泛聲。客遽稱善。<persName key="A021582">銓</persName>即止。客不懌
+        <lb ed="X" n="0520a01"/>而去。<persName key="A021582">銓</persName>顧發曰。何得引俗人入我座耶。發媿謝。師所
+        <lb ed="X" n="0520a02"/>居曰<placeName key="unknown">妙音閣</placeName>。發為記。且贈以詩曰。寶琴何所得。所得
         <lb ed="X" n="0520a03"/>甚幽微。聊借絲桐韻。還超智惠機。霜風悲玉軫。江月
-        <lb ed="X" n="0520a04"/>入珠徽。向此諸緣盡。人間孰是非。銓。發。皆元祐間人
+        <lb ed="X" n="0520a04"/>入珠徽。向此諸緣盡。人間孰是非。<persName key="A021582">銓</persName>。發。皆<date from-iso="1086-01-24" to-iso="1094-05-04" key="j21177372120759">元祐間</date>人
         <lb ed="X" n="0520a05"/>也。</p>
 </div>

@@ -1,16 +1,13 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0534c17daAn">
-    <head><lb ed="X" n="0534c17"/>　　　　大安傳</head>
-    <p><anchor n="X.77.1524.0534c18"/><lb ed="X" n="0534c18"/>大安。襄陽郝氏子也。幼禮古宗禪伯。祝髮於梅林。古
-        <lb ed="X" n="0534c19"/>宗知其具宿智。遣之就古巖參學。二古同出天奇之
-        <lb ed="X" n="0534c20"/>門。而巖為上首。居終南山。龍象景附。師至。一語投機。
-        <lb ed="X" n="0534c21"/>輒授衣鉢。禪栖廬岳三十年。楚人嚴事之。新都汪公
-        <lb ed="X" n="0534c22"/>伯玉。甞從師質疑。多有開發。甞謂。聞大安和尚所云
-        <lb ed="X" n="0534c23"/>見性。冥合孔子所謂體仁。非惟世儒未之或知。雖大
-        <lb ed="X" n="0534c24"/>安。亦不自知也。葢師甞與汪。論見性也。某年五月胐
+    <head><lb ed="X" n="0534c17"/>　　　　<persName key="A015775">大安</persName>傳</head>
+    <p><anchor n="X.77.1524.0534c18"/><lb ed="X" n="0534c18"/><persName key="A015775">大安</persName>。<placeName key="CN0420606Z02AA">襄陽</placeName>郝氏子也。幼禮<persName key="unknown">古宗</persName>禪伯。祝髮於<persName key="unknown">梅林</persName>。<persName key="unknown">古<lb ed="X" n="0534c19"/>宗</persName>知其具宿智。遣之就<persName key="A020108">古巖</persName>參學。二古同出<persName key="A000259">天奇</persName>之
+        <lb ed="X" n="0534c20"/>門。而<persName key="A020108">巖</persName>為上首。居<placeName key="CN0610125M01AA">終南山</placeName>。龍象景附。師至。一語投機。
+        <lb ed="X" n="0534c21"/>輒授衣鉢。禪栖<placeName key="CN0360402M01AA">廬岳</placeName>三十年。楚人嚴事之。新都<persName key="A007641">汪公<lb ed="X" n="0534c22"/>伯玉</persName>。甞從師質疑。多有開發。甞謂。聞<persName key="A015775">大安</persName>和尚所云
+        <lb ed="X" n="0534c23"/>見性。冥合<persName key="A002174">孔子</persName>所謂體仁。非惟世儒未之或知。雖<persName key="A015775">大<lb ed="X" n="0534c24"/>安</persName>。亦不自知也。葢師甞與<persName key="A007641">汪</persName>。論見性也。<date from-iso="1579-06-04" to-iso="1579-07-03" key="j22979322297961">某年五月</date>胐
         <lb ed="X" n="0535a01"/>示寂。先是。預示諸弟子以行期。若等無以衰麻。哭泣
         <lb ed="X" n="0535a02"/>為喪。毋背吾家法。諸弟子問故。則以一偈示之。既及
         <lb ed="X" n="0535a03"/>期。沐浴端坐。諸弟子請遺令。則又以一偈示之。距生
-        <lb ed="X" n="0535a04"/>丁卯。行年七十有三。弟子就故廬傍築浮屠。以藏舍
+        <lb ed="X" n="0535a04"/><date from-iso="1507-01-23" to-iso="1508-02-10" key="j22715022271885">丁卯</date>。行年七十有三。弟子就故廬傍築浮屠。以藏舍
         <lb ed="X" n="0535a05"/>利。</p>
 </div>

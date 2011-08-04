@@ -1,37 +1,35 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0447a18chongYue">
-    <head><lb ed="X" n="0447a18"/>　　　　松源嶽傳</head>
-    <p><anchor n="X.77.1524.0447a19"/><lb ed="X" n="0447a19"/>崇嶽。號松源。處州龍泉吳氏子。幼不好弄。稍長慕出
-        <lb ed="X" n="0447a20"/>世法。二十三。棄家衣掃塔。服受五戒。首造靈石妙公。
-        <lb ed="X" n="0447a21"/>繼見大慧杲禪師於徑山。久之。大慧陞堂。稱蔣山應
-        <lb ed="X" n="0447a22"/>菴華公。為人徑捷。師聞之。不待旦而行。既至入室。未
+    <head><lb ed="X" n="0447a18"/>　　　　<persName key="A001037">松源嶽</persName>傳</head>
+    <p><anchor n="X.77.1524.0447a19"/><lb ed="X" n="0447a19"/><persName key="A001037">崇嶽</persName>。號<persName key="A001037">松源</persName>。處州<placeName key="CN0331181Z05AA">龍泉</placeName>吳氏子。幼不好弄。稍長慕出
+        <lb ed="X" n="0447a20"/>世法。<date key="j21451072145471" when-iso="1161">二十三</date>。棄家衣掃塔。服受五戒。首造<persName key="unknown">靈石妙</persName>公。
+        <lb ed="X" n="0447a21"/>繼見<persName key="A000475">大慧杲</persName>禪師於<placeName key="CN0330110T11AA">徑山</placeName>。久之。<persName key="A000475">大慧</persName>陞堂。稱<placeName key="CN0320102M02AA">蔣山</placeName><persName key="A004687">應
+        <lb ed="X" n="0447a22"/>菴華</persName>公。為人徑捷。師聞之。不待旦而行。既至入室。未
         <lb ed="X" n="0447a23"/>契。退愈自奮勵。中夜自舉狗子無佛性話。豁然有得。
-        <lb ed="X" n="0447a24"/>以扣應菴。菴舉世尊有密語。迦葉不覆藏。師云。鈍置
-        <lb ed="X" n="0447b01"/>和尚。菴厲聲一喝。自是朝夕咨請。菴大喜。以為法器。
-        <lb ed="X" n="0447b02"/>說偈勸使祝髮。棟梁吾道。隆興二年。師始得度於臨
-        <lb ed="X" n="0447b03"/>安西湖白蓮精舍。自是徧歷江浙諸大老之門。罕當
-        <lb ed="X" n="0447b04"/>其意。乃浮海入閩。見木菴永公。木菴。舉有句無句如
-        <lb ed="X" n="0447b05"/>藤倚樹。師云。裂破。木菴云。瑯瑘道好一堆爛柴聻。師
-        <lb ed="X" n="0447b06"/>云。矢上加尖。如是應酬數反。木菴云。老兄下語。老僧
+        <lb ed="X" n="0447a24"/>以扣<persName key="A004687">應菴</persName>。<persName key="A004687">菴</persName>舉<persName key="A002799">世尊</persName>有密語。<persName key="A002188">迦葉</persName>不覆藏。師云。鈍置
+        <lb ed="X" n="0447b01"/>和尚。<persName key="A004687">菴</persName>厲聲一喝。自是朝夕咨請。<persName key="A004687">菴</persName>大喜。以為法器。
+        <lb ed="X" n="0447b02"/>說偈勸使祝髮。棟梁吾道。<date from-iso="1164-02-02" to-iso="1165-02-19" key="j21462342146617">隆興二年</date>。師始得度於臨
+        <lb ed="X" n="0447b03"/>安西湖<placeName key="unknown">白蓮精舍</placeName>。自是徧歷<placeName key="CN0300000G01AA">江浙</placeName>諸大老之門。罕當
+        <lb ed="X" n="0447b04"/>其意。乃浮海入<placeName key="CN0350000E02AA">閩</placeName>。見<persName key="A008738">木菴永</persName>公。<persName key="A008738">木菴</persName>。舉有句無句如
+        <lb ed="X" n="0447b05"/>藤倚樹。師云。裂破。<persName key="A008738">木菴</persName>云。瑯瑘道好一堆爛柴聻。師
+        <lb ed="X" n="0447b06"/>云。矢上加尖。如是應酬數反。<persName key="A008738">木菴</persName>云。老兄下語。老僧
         <lb ed="X" n="0447b07"/>不過如此。秪是未在。他日拂柄在手。為人不得。驗人
         <lb ed="X" n="0447b08"/>不得。師云。為人者。使博地凡夫。一超入聖域。固難矣。
         <lb ed="X" n="0447b09"/>至於驗人。打向面前過。不待開口。已知渠骨髓。何難
-        <lb ed="X" n="0447b10"/>之有。木菴舉手云。明明向汝道。開口不在舌頭上。後
-        <lb ed="X" n="0447b11"/>自知。逾年見密菴於衢之西山。隨問即答。密菴微笑
-        <lb ed="X" n="0447b12"/>曰。黃楊禪爾。師切于明道。至忘寢食。密菴移住蔣山
-        <lb ed="X" n="0447b13"/>華藏徑山。皆從之。一日密菴入室次。問傍僧。不是心。
-        <lb ed="X" n="0447b14"/>不是佛。不是物。師侍側。豁然大悟。乃云。今日方知木
-        <lb ed="X" n="0447b15"/>菴道開口不在舌頭上。自是機辯縱橫。鋒不可觸。木
-        <lb ed="X" n="0447b16"/>菴遷靈隱。遂命師為第一座。旋出世於平江澄炤。為
-        <lb ed="X" n="0447b17"/>密菴嗣。遷江陰之光孝。無為之冶父。饒之薦福。平江
-        <lb ed="X" n="0447b18"/>之虎丘。皆天下名山。惟冶父最寂寞。又以火廢。師一
+        <lb ed="X" n="0447b10"/>之有。<persName key="A008738">木菴</persName>舉手云。明明向汝道。開口不在舌頭上。後
+        <lb ed="X" n="0447b11"/>自知。逾年見<persName key="A001561">密菴</persName>於衢之<placeName key="unknown">西山</placeName>。隨問即答。<persName key="A001561">密菴</persName>微笑
+        <lb ed="X" n="0447b12"/>曰。黃楊禪爾。師切于明道。至忘寢食。<persName key="A001561">密菴</persName>移住<placeName key="CN0320102M02AA">蔣山</placeName>
+        <lb ed="X" n="0447b13"/><placeName key="unknown">華藏</placeName><placeName key="CN0330110T11AA">徑山</placeName>。皆從之。一日<persName key="A001561">密菴</persName>入室次。問傍僧。不是心。
+        <lb ed="X" n="0447b14"/>不是佛。不是物。師侍側。豁然大悟。乃云。今日方知<persName key="A008738">木<lb ed="X" n="0447b15"/>菴</persName>道開口不在舌頭上。自是機辯縱橫。鋒不可觸。<persName key="A008738">木<lb ed="X" n="0447b16"/>菴</persName>遷<placeName key="CN0330106T01AA">靈隱</placeName>。遂命師為第一座。旋出世於平江<placeName key="unknown">澄炤</placeName>。為
+        <lb ed="X" n="0447b17"/><persName key="A001561">密菴</persName>嗣。遷江陰之<placeName key="CN0320281T03AA">光孝</placeName>。無為之<placeName key="CN0341421T02AA">冶父</placeName>。饒之<placeName key="CN0361128T02AA">薦福</placeName>。平江
+        <lb ed="X" n="0447b18"/>之<placeName key="CN0320504T03AA">虎丘</placeName>。皆天下名山。惟<placeName key="CN0341421T02AA">冶父</placeName>最寂寞。又以火廢。師一
         <lb ed="X" n="0447b19"/>臨之。四方名衲踵至。棟宇亦大興。人謂師能使所居
-        <lb ed="X" n="0447b20"/>山大。慶元丁巳。被旨住靈隱。居六年。道盛行。得法者
+        <lb ed="X" n="0447b20"/>山大。<date from-iso="1197-01-27" to-iso="1198-02-14" key="j21582822158665">慶元丁巳</date>。被旨住<placeName key="CN0330106T01AA">靈隱</placeName>。居六年。道盛行。得法者
         <lb ed="X" n="0447b21"/>眾。法席為一時冠。而師有棲隱之志。即上章乞罷住
-        <lb ed="X" n="0447b22"/>持事。上察其誠許之。退居東菴。俄屬微疾。猶不少廢
+        <lb ed="X" n="0447b22"/>持事。上察其誠許之。退居<placeName key="unknown">東菴</placeName>。俄屬微疾。猶不少廢
         <lb ed="X" n="0447b23"/>唱道。忽垂一則語。以驗學者。曰。有力量人。為甚麼擡
         <lb ed="X" n="0447b24"/>脚不起。開口不在舌頭上。又貽書諸嗣法。囑令傳持
         <lb ed="X" n="0447c01"/>大法。因書偈曰。來無所來。去無所去。瞥轉玄關。佛祖
-        <lb ed="X" n="0447c02"/>罔措。跏趺而寂。實嘉泰二年八月四日也。得年七十
+        <lb ed="X" n="0447c02"/>罔措。跏趺而寂。實<date when-iso="1202-08-29" key="j21603222160322">嘉泰二年八月四日</date>也。得年七十
         <lb ed="X" n="0447c03"/>有一。坐夏四十。徒輩奉全身。塔於北高峯之原。</p>
 </div>

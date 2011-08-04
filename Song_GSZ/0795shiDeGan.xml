@@ -1,22 +1,22 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0731c12shiDeGan">
-    <anchor n="T.50.2061.0731c12"/><head><date from-iso="0618-06-21" key="j19469512052491" to-iso="0907-06-06">唐</date>洛京佛授記寺<persName key="A002451">德感</persName>傳</head><p>
-<lb ed="T" n="0731c13"/><persName key="A002451">釋德感</persName>，姓侯氏，<placeName key="CN0140110Z03AA">太原</placeName>人也。儀容瓌麗，學業精
+    <lb ed="T" n="0731c12"/><anchor n="T.50.2061.0731c12"/><head><date from-iso="0618-06-21" key="j19469512052491" to-iso="0907-06-06">唐</date><placeName key="CN0410311T08AA">洛京佛授記寺</placeName><persName key="A002451">德感</persName>傳</head><p>
+<lb ed="T" n="0731c13"/><persName key="A002451">釋德感</persName>，姓侯氏，<placeName key="CN0140110Z04AA">太原</placeName>人也。儀容瓌麗，學業精
 <lb ed="T" n="0731c14"/>贍，眾典服勤，於《瑜伽論》特振聲彩。<persName key="A002146">天皇大
 <lb ed="T" n="0731c15"/>帝</persName>徵為翻經大德。又與<persName key="A001179">勝莊</persName>、<persName key="A002454">大儀</persName>等同參
-<lb ed="T" n="0731c16"/><persName key="A001470">義淨</persName>譯場，對敡受賜，言謝瀏亮。<persName key="A002146">帝</persName>悅，尋授封
-<lb ed="T" n="0731c17"/><placeName key="CN0110114Z13AA">昌平縣</placeName><persName key="A002451">開國公</persName>，累井田至三千戶。<persName key="A002146">帝</persName>為讚
-<lb ed="T" n="0731c18"/>曰：「河汾之寶，山嶽之英，早祛俗累，夙解塵
-<lb ed="T" n="0731c19"/>纓。緇門仰德，紺宇馳聲。式亞<persName key="A001482">龍樹</persName>，爰齊<persName key="A001003">馬
+        <lb ed="T" n="0731c16"/><persName key="A001470">義淨</persName>譯場，對<anchor xml:id="beg0731sgsz4"/><choice resp="sgsz"><sic>敡</sic><corr>敭</corr></choice><anchor xml:id="end0731sgsz4"/><ptr target="#n666"/>受賜，言謝瀏亮<ptr target="#n667"/>。<ref type="person" target="#A002146">帝</ref>悅，尋授封
+        <lb ed="T" n="0731c17"/><placeName key="CN0110114Z13AA">昌平縣</placeName><persName key="A002451">開國公</persName><ptr target="#n671"/>，累井田至三千戶。<ref type="person" target="#A002146">帝</ref>為讚
+        <lb ed="T" n="0731c18"/>曰：「<placeName key="CN0000003R01AA">河</placeName><placeName key="CN0140925R01AA">汾</placeName>之寶，<placeName key="CN0140900M01AA">山</placeName><placeName key="CN0100000M01AA">嶽</placeName>之英，早祛俗累，夙解塵
+        <lb ed="T" n="0731c19"/>纓。緇門仰德，紺宇<ptr target="#n668"/>馳聲。式亞<persName key="A001482">龍樹</persName>，爰齊<persName key="A001003">馬
     <lb ed="T" n="0731c20"/>鳴</persName>。」為<ref target="#A002146" type="person">時君</ref>之所貴，為若此也。御製風行，緇
 <lb ed="T" n="0731c21"/>伍榮之。後充<placeName key="CN0410311T08AA">河南佛授記寺</placeName>都維那，晚升
-<lb ed="T" n="0731c22"/><placeName key="CN0410311T08AA">寺</placeName>任，中外肅然。終年六十餘，著《義門》行于
-<lb ed="T" n="0731c23"/>世。如其七方便人迴心漸頓悟義，與<persName key="A001307">湛法
-<lb ed="T" n="0731c24"/>師</persName>為勍敵耳，故交綏而退焉。</p>
+        <lb ed="T" n="0731c22"/><ref type="place" target="#CN0410311T08AA">寺</ref>任，中外肅然。終年六十餘，著《義門》行于
+<lb ed="T" n="0731c23"/>世。如其「七方便人迴心漸頓悟」義，與<persName key="A001307">湛法
+    <lb ed="T" n="0731c24"/>師</persName>為勍敵<ptr target="#n669"/>耳，故交綏<ptr target="#n670"/>而退焉。</p>
     <linkGrp>
         <link targets="#0731c13 #0731c13"/>
         <ptr target="#A002451" type="person"/>
-        <ptr target="#CN0140110Z03AA" type="place"/>
+        <ptr target="#CN0140110Z04AA" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0731c14 #0731c16"/>

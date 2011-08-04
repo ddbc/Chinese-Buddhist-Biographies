@@ -1,24 +1,23 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0404c17daoXian">
-    <head><lb ed="X" n="0404c17"/>　　　　羅山閑傳</head>
-    <p><anchor n="X.77.1524.0404c18"/><lb ed="X" n="0404c18"/>羅山道閑禪師。長溪陳氏子。出家龜山。年滿受具。徧
-        <lb ed="X" n="0404c19"/>歷諸方。甞謁石霜。問。去住不寧時如何。霜曰。直須盡
-        <lb ed="X" n="0404c20"/>却。師不契。乃參巖頭。亦如前問。頭曰。從他去住。管他
-        <lb ed="X" n="0404c21"/>作麼。師于是服膺。閩帥飲其法味。請居羅山。號法寶
-        <lb ed="X" n="0404c22"/>禪師。僧辭保福。福問。甚處去。曰。禮拜羅山。福曰。汝向
-        <lb ed="X" n="0404c23"/>羅山道。保福秋間上府朝覲大王。置四十箇問。頭問。
-        <lb ed="X" n="0404c24"/>和尚忽若一句不相當。莫言不道。僧舉似師。師呵呵
-        <lb ed="X" n="0405a01"/>大笑曰。陳老師自入福建道洪塘橋下一寨。未曾見
-        <lb ed="X" n="0405a02"/>有箇毛頭星現。汝與我向從展道。陳老師無許多問
+    <head><lb ed="X" n="0404c17"/>　　　　<persName key="A009588">羅山閑</persName>傳</head>
+    <p><anchor n="X.77.1524.0404c18"/><lb ed="X" n="0404c18"/><persName key="A009588">羅山道閑</persName>禪師。<placeName key="CN0350921Z12AA">長溪</placeName>陳氏子。出家<placeName key="CN0350981T01AA">龜山</placeName>。年滿受具。徧
+        <lb ed="X" n="0404c19"/>歷諸方。甞謁<persName key="A010581">石霜</persName>。問。去住不寧時如何。<persName key="A010581">霜</persName>曰。直須盡
+        <lb ed="X" n="0404c20"/>却。師不契。乃參<persName key="A008167">巖頭</persName>。亦如前問。<persName key="A008167">頭</persName>曰。從他去住。管他
+        <lb ed="X" n="0404c21"/>作麼。師于是服膺。閩帥飲其法味。請居<placeName key="CN0350102T03AA">羅山</placeName>。號<persName key="A009588">法寶<lb ed="X" n="0404c22"/>禪師</persName>。僧辭<persName key="A003878">保福</persName>。<persName key="A003878">福</persName>問。甚處去。曰。禮拜<placeName key="CN0350102M02AA">羅山</placeName>。<persName key="A003878">福</persName>曰。汝向
+        <lb ed="X" n="0404c23"/><placeName key="CN0350102M02AA">羅山</placeName>道。<persName key="A003878">保福</persName>秋間上府朝覲大王。置四十箇問。頭問。
+        <lb ed="X" n="0404c24"/>和尚忽若一句不相當。莫言不道。僧舉似師。<ref type="person" target="#A009588">師</ref>呵呵
+        <lb ed="X" n="0405a01"/>大笑曰。<persName key="A009588">陳老師</persName>自入福建道洪塘橋下一寨。未曾見
+        <lb ed="X" n="0405a02"/>有箇毛頭星現。汝與我向<persName key="A003878">從展</persName>道。<persName key="A009588">陳老師</persName>無許多問
         <lb ed="X" n="0405a03"/>頭。祗有一口劒。一劒下有分身意。有出身路。不明便
-        <lb ed="X" n="0405a04"/>須成末。僧迴舉似福。福曰。我當時也祗是謔伊。至秋
-        <lb ed="X" n="0405a05"/>入府。師特為辦茶筵請福。福不赴。却向僧曰。我中間
+        <lb ed="X" n="0405a04"/>須成末。僧迴舉似<persName key="A003878">福</persName>。<persName key="A003878">福</persName>曰。我當時也祗是謔伊。至秋
+        <lb ed="X" n="0405a05"/>入府。<ref type="person" target="#A009588">師</ref>特為辦茶筵請福。<persName key="A003878">福</persName>不赴。却向僧曰。我中間
         <lb ed="X" n="0405a06"/>曾有謔語。恐和尚問著。僧歸舉似。師曰。汝向他道。猛
-        <lb ed="X" n="0405a07"/>虎終不食伏肉。僧又去。福遂來。臨遷化。上堂集眾良
+        <lb ed="X" n="0405a07"/>虎終不食伏肉。僧又去。<persName key="A003878">福</persName>遂來。臨遷化。上堂集眾良
         <lb ed="X" n="0405a08"/>久。展左手。主事罔測。乃令東邊師僧退後。又展右手。
         <lb ed="X" n="0405a09"/>令西邊師僧退後。乃曰。欲報佛恩。無過流通大教。歸
         <lb ed="X" n="0405a10"/>去也珍重。言訖莞爾而寂。</p><p>
-        <lb ed="X" n="0405a11"/>系曰。巖頭門下得法者。傳燈現錄六人。而二彥一閑
-        <lb ed="X" n="0405a12"/>最著。僧統僅傳瑞岩彥。而玄泉彥與閑師不載。予故
-        <lb ed="X" n="0405a13"/>表之。使知黃龍明招二公所自出也。</p>
+            <lb ed="X" n="0405a11"/>系曰。<persName key="A008167">巖頭</persName>門下得法者。傳燈現錄六人。而二彥一閑
+            <lb ed="X" n="0405a12"/>最著。僧統僅傳<persName key="A010689">瑞岩彥</persName>。而<persName key="A020172">玄泉彥</persName>與<persName key="A009588">閑師</persName>不載。<ref type="person" target="#A000658">予</ref>故
+            <lb ed="X" n="0405a13"/>表之。使知<persName key="A009468">黃龍</persName><persName key="A020196">明招</persName>二公所自出也。</p>
 </div>

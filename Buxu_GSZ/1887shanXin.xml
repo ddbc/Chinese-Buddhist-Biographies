@@ -1,18 +1,17 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0508b03shanXin">
-    <head><lb ed="X" n="0508b03"/>　　　　善信．大雲傳</head>
-    <p><anchor n="X.77.1524.0508b04"/><lb ed="X" n="0508b04"/>善信。字無疑。蘇州嘉定吳氏子也。年二十九。削染為
-        <lb ed="X" n="0508b05"/>僧。不識一字。惟事禪那入玄墓。參萬峰和尚。忽有得。
+    <head><lb ed="X" n="0508b03"/>　　　　<persName key="A021535">善信</persName>．<persName key="A015733">大雲</persName>傳</head>
+    <p><anchor n="X.77.1524.0508b04"/><lb ed="X" n="0508b04"/><persName key="A021535">善信</persName>。字<persName key="A021535">無疑</persName>。蘇州<placeName key="CN0310114Z02AA">嘉定</placeName>吳氏子也。年二十九。削染為
+        <lb ed="X" n="0508b05"/>僧。不識一字。惟事禪那入<placeName key="CN0320506M05AA">玄墓</placeName>。參<persName key="A000933">萬峰</persName>和尚。忽有得。
         <lb ed="X" n="0508b06"/>謂眾曰。我自出家以來。脇不至席。今日始了當矣。未
         <lb ed="X" n="0508b07"/>幾。示微疾。索浴入龕。畢於彈指間。歘然火起。自焚其
         <lb ed="X" n="0508b08"/>身。是蓋得道急於入滅者也。或贊之以偈曰。一念纔
         <lb ed="X" n="0508b09"/>空萬境忘。更無餘事可商量。翻身永入火光定。驚倒
         <lb ed="X" n="0508b10"/>靈山老藥王。出輪迴又入輪迴。究竟何曾有去來。昨
         <lb ed="X" n="0508b11"/>夜冰河中發[舀*炎]。虗空燒作一堆灰。</p><p>
-        <lb ed="X" n="0508b12"/>大雲。襄陽人。初為北京吉祥寺僧。大極之弟。性敏重。
-        <lb ed="X" n="0508b13"/>通內外學。戒律清苦。嘉靖中。住廣德寺。律身事眾。人
-        <lb ed="X" n="0508b14"/>無間然。偶二僧相閧不已。雲作齋。為之釋憤。因謂曰。
-        <lb ed="X" n="0508b15"/>昔吾兄大極在京中。一日試合掌。自誦云。願生西方
-        <lb ed="X" n="0508b16"/>淨土中。九品蓮花為父母。即坐化。我今為汝解紛。亦
+            <lb ed="X" n="0508b12"/><persName key="A015733">大雲</persName>。<placeName key="CN0420606Z02AA">襄陽</placeName>人。初為北京<placeName key="unknown">吉祥寺</placeName>僧。<persName key="unknown">大極</persName>之弟。性敏重。
+            <lb ed="X" n="0508b13"/>通內外學。戒律清苦。<date from-iso="1522-02-07" to-iso="1567-02-18" key="j22769962293443">嘉靖中</date>。住<placeName key="unknown">廣德寺</placeName>。律身事眾。人
+            <lb ed="X" n="0508b14"/>無間然。偶二僧相閧不已。<persName key="A015733">雲</persName>作齋。為之釋憤。因謂曰。
+            <lb ed="X" n="0508b15"/>昔吾兄<persName key="unknown">大極</persName>在<placeName key="CN0110102Z07AA">京</placeName>中。一日試合掌。自誦云。願生<placeName key="XZ0000033A01AA">西方<lb ed="X" n="0508b16"/>淨土</placeName>中。九品蓮花為父母。即坐化。我今為汝解紛。亦
         <lb ed="X" n="0508b17"/>當學吾兄自便耳。因趺坐合掌。誦前二句。言訖化去。</p>
 </div>

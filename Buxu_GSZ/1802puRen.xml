@@ -1,24 +1,23 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0478b06puRen">
-    <head><lb ed="X" n="0478b06"/>　　　　德隱仁公傳</head>
-    <p><anchor n="X.77.1524.0478b07"/><lb ed="X" n="0478b07"/>普仁。字德隱。蘭溪趙氏子。趙故名宦家。師生有出塵
-        <lb ed="X" n="0478b08"/>之思。博極羣書。參了然義公于智者。機鋒奮觸。當仁
-        <lb ed="X" n="0478b09"/>無讓。聲稱籍籍。起叢林間。掌記室於東陽輝公。分座
-        <lb ed="X" n="0478b10"/>說法于南楚悅公。古鼎銘公。月江印公。無弗咨叩。相
+    <head><lb ed="X" n="0478b06"/>　　　　<persName key="A015579">德隱仁</persName>公傳</head>
+    <p><anchor n="X.77.1524.0478b07"/><lb ed="X" n="0478b07"/><persName key="A015579">普仁</persName>。字<persName key="A015579">德隱</persName>。<placeName key="CN0330781Z05AA">蘭溪</placeName>趙氏子。趙故名宦家。師生有出塵
+        <lb ed="X" n="0478b08"/>之思。博極羣書。參<persName key="A020041">了然義</persName>公于<placeName key="CN0330702T07AA">智者</placeName>。機鋒奮觸。當仁
+        <lb ed="X" n="0478b09"/>無讓。聲稱籍籍。起叢林間。掌記室於<persName key="A001688">東陽輝</persName>公。分座
+        <lb ed="X" n="0478b10"/>說法于<persName key="A021440">南楚悅</persName>公。<persName key="A000981">古鼎銘</persName>公。<persName key="A009687">月江印</persName>公。無弗咨叩。相
         <lb ed="X" n="0478b11"/>與辯詰無虗日。徵以宗門機緣。大而沙界。小而毫芒。
-        <lb ed="X" n="0478b12"/>無不收攝。激揚正法之餘。旁及辭章者。唯覺隱誠公。
-        <lb ed="X" n="0478b13"/>笑隱訢公。為最密。元至正乙未。部使者挽師。出世金
-        <lb ed="X" n="0478b14"/>華之西峰。時天下大亂。師知事不可為。鳴鼓而退。及
-        <lb ed="X" n="0478b15"/>王師聚婺州。　駕幸智者。見其山川深秀。而法席尚
-        <lb ed="X" n="0478b16"/>虗。特　詔師住持。不聽。韶之南華。不遠三千里。致州
-        <lb ed="X" n="0478b17"/>侯之命。不從。杭之中竺。其請如南華。又加勤焉。師惠
-        <lb ed="X" n="0478b18"/>然欲往。郡守鍾某。惜其行。從容問師曰。佛法有重輕
+        <lb ed="X" n="0478b12"/>無不收攝。激揚正法之餘。旁及辭章者。唯<persName key="A021418">覺隱誠</persName>公。
+        <lb ed="X" n="0478b13"/><persName key="A000062">笑隱訢</persName>公。為最密。<date from-iso="1355-01-22" to-iso="1356-02-09" key="j22159852216368">元至正乙未</date>。部使者挽師。出世金
+        <lb ed="X" n="0478b14"/>華之<placeName key="CN0330702T06AA">西峰</placeName>。時天下大亂。師知事不可為。鳴鼓而退。及
+        <lb ed="X" n="0478b15"/>王師聚<placeName key="CN0330702Z06AA">婺州</placeName>。　駕幸<placeName key="CN0330702T07AA">智者</placeName>。見其山川深秀。而法席尚
+        <lb ed="X" n="0478b16"/>虗。特　詔師住持。不聽。韶之<placeName key="CN0440205T01AA">南華</placeName>。不遠三千里。致州
+        <lb ed="X" n="0478b17"/>侯之命。不從。杭之<placeName key="CN0330106T09AA">中竺</placeName>。其請如<placeName key="CN0440205T01AA">南華</placeName>。又加勤焉。師惠
+        <lb ed="X" n="0478b18"/>然欲往。郡守<persName key="unknown">鍾某</persName>。惜其行。從容問師曰。佛法有重輕
         <lb ed="X" n="0478b19"/>耶。曰否。曰佛法既無重輕。師位寧有崇卑耶。師一笑
-        <lb ed="X" n="0478b20"/>而止。久之。起應淨慈。道聲洪震。方以興壞起廢為己
-        <lb ed="X" n="0478b21"/>任。而秘書事起矣。有誣智者寺僧購名畫以歸者。事
-        <lb ed="X" n="0478b22"/>下刑曹。刑曹以師舊主智者。當知其是非。逮而質焉。
-        <lb ed="X" n="0478b23"/>事將白。忽示微疾于京師寓舍。屈指計曰。此八月八
-        <lb ed="X" n="0478b24"/>日最良。吾將逝矣。至期整衣。端坐而化。閱世六十有
+        <lb ed="X" n="0478b20"/>而止。久之。起應<placeName key="CN0330106T54AA">淨慈</placeName>。道聲洪震。方以興壞起廢為己
+        <lb ed="X" n="0478b21"/>任。而秘書事起矣。有誣<placeName key="CN0330702T07AA">智者寺</placeName>僧購名畫以歸者。事
+        <lb ed="X" n="0478b22"/>下刑曹。刑曹以師舊主<placeName key="CN0330702T07AA">智者</placeName>。當知其是非。逮而質焉。
+        <lb ed="X" n="0478b23"/>事將白。忽示微疾于<placeName key="CN0320105Z10AA">京師</placeName>寓舍。屈指計曰。此<date when-iso="1375-09-11" key="j22235222223522">八月八<lb ed="X" n="0478b24"/>日</date>最良。吾將逝矣。至期整衣。端坐而化。閱世六十有
         <lb ed="X" n="0478c01"/>四。僧臘五十。師風指孤峭。不樂與非類狎逢。學行之
         <lb ed="X" n="0478c02"/>士。輒敬之如賓師。縱無儋石儲。亦必久留不厭。故薦
         <lb ed="X" n="0478c03"/>紳服其偉度。樂與過從。善談論。終日不倦。玉貫珠聯。

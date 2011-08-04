@@ -574,7 +574,9 @@
       <xi:include href="1272shiZiXin.xml"/>
       <xi:include href="1273shiXingXiu.xml"/>
       <xi:include href="1274shiZongYuan.xml"/>
-      <xi:include href="sgszApparatus.xml"/>
     </body>
+    <back>
+      <xi:include href="sgszApparatus.xml"/>
+    </back>
   </text>
 </TEI>

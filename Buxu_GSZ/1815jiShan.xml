@@ -1,26 +1,24 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0483b12jiShan">
-    <head><lb ed="X" n="0483b12"/>　　　　毒峰善傳(天淵湛附)</head>
-    <p><anchor n="X.77.1524.0483b13"/><lb ed="X" n="0483b13"/>季善。祖鳳陽人。隨任生於廣東之雷陽。父姓吳。母鍾
-        <lb ed="X" n="0483b14"/>氏。稚小以佛事為兒戲。十七出家。初投源明和尚。明
+    <head><lb ed="X" n="0483b12"/>　　　　<persName key="A015704">毒峰善</persName>傳(<persName key="A019971">天淵湛</persName>附)</head>
+    <p><anchor n="X.77.1524.0483b13"/><lb ed="X" n="0483b13"/><persName key="A015704">季善</persName>。祖<placeName key="CN0341126Z23AA">鳳陽</placeName>人。隨任生於廣東之<placeName key="unknown">雷陽</placeName>。父姓吳。母<persName key="unknown">鍾<lb ed="X" n="0483b14"/>氏</persName>。稚小以佛事為兒戲。十七出家。初投<persName key="unknown">源明</persName>和尚。明
         <lb ed="X" n="0483b15"/>示以無字公案。囑云。須發大願。以自護持。師便發願。
         <lb ed="X" n="0483b16"/>若生死不了。大事未明。遺棄修行。貪著名利。死墮阿
-        <lb ed="X" n="0483b17"/>鼻地獄。受苦無量。正統八年。入閩參無際。閉關力究。
+        <lb ed="X" n="0483b17"/>鼻地獄。受苦無量。<date from-iso="1443-02-09" to-iso="1444-01-28" key="j22481442248497">正統八年</date>。入<placeName key="CN0510000E01AA">閩</placeName><!-- 四川〈X84n1583_p0567b12〉 -->參<persName key="A009565">無際</persName>。閉關力究。
         <lb ed="X" n="0483b18"/>關中不設臥牀。安一櫈。誓不倒身。以悟為則。昏沉來。
         <lb ed="X" n="0483b19"/>因去櫈立。誓不坐不近墻壁。遼空徑行。一朝聞鐘聲
         <lb ed="X" n="0483b20"/>忽悟。說偈云。沉沉寂寂絕施為。觸著無端吼似雷。動
-        <lb ed="X" n="0483b21"/>地一聲消息盡。髑髏粉碎夢初回。見蒙隱楚山二老。
-        <lb ed="X" n="0483b22"/>又見月溪。溪印可之。天順庚辰。趙氏建西湖三塔寺。
-        <lb ed="X" n="0483b23"/>請師開山。繼興天目昭明。繼興吳山寶蓮。繼興南山
-        <lb ed="X" n="0483b24"/>甘露成化。庚子。掩關石屋寺。壬寅。慈雲嶺有寺。曰天
-        <lb ed="X" n="0483c01"/>真。僧宗綱。請師興建。事竣。即掩關杜人事。師一生苦
+        <lb ed="X" n="0483b21"/>地一聲消息盡。髑髏粉碎夢初回。見<persName key="unknown">蒙隱</persName><persName key="A009064">楚山</persName>二老。
+        <lb ed="X" n="0483b22"/>又見<persName key="A010860">月溪</persName>。<persName key="A010860">溪</persName>印可之。<date from-iso="1460-02-02" to-iso="1461-02-18" key="j22543462254728">天順庚辰</date>。<persName key="unknown">趙氏</persName>建西湖<placeName key="CN0330106A11AA">三塔寺</placeName>。
+        <lb ed="X" n="0483b23"/>請師開山。繼興天目<placeName key="CN0330185T10AA">昭明</placeName>。繼興吳山<placeName key="CN0330102A03AA">寶蓮</placeName>。繼興南山
+        <lb ed="X" n="0483b24"/><placeName key="CN0330106A19AA">甘露</placeName><placeName key="unknown">成化</placeName>。<date from-iso="1480-02-20" to-iso="1481-02-07" key="j22616692262022">庚子</date>。掩關<placeName key="CN0330106A12AA">石屋寺</placeName>。<date from-iso="1482-01-28" to-iso="1483-02-15" key="j22623772262760">壬寅</date>。<placeName key="unknown">慈雲嶺</placeName>有寺。曰<placeName key="CN0330102T06AA">天<lb ed="X" n="0483c01"/>真</placeName>。僧<persName key="unknown">宗綱</persName>。請師興建。事竣。即掩關杜人事。師一生苦
         <lb ed="X" n="0483c02"/>功。無與倫比。雖得相應。而勒持彌督。涵養淘汰。至老
         <lb ed="X" n="0483c03"/>無替。有四十餘年秪掩關之句。示寂後。真身覆以缸
-        <lb ed="X" n="0483c04"/>龕。藏天真石洞中。門人輯師言論行實。為三會語錄
+        <lb ed="X" n="0483c04"/>龕。藏<placeName key="CN0330102T06AA">天真</placeName>石洞中。門人輯師言論行實。為三會語錄
         <lb ed="X" n="0483c05"/>云。</p><p>
-        <lb ed="X" n="0483c06"/>福湛。號天淵。楚人也。居蓬溪智林。亦以勤苦入道。獲
-        <lb ed="X" n="0483c07"/>印於月溪。後開堂弘化。大為楚蜀學禪者所歸。有法
+            <lb ed="X" n="0483c06"/><persName key="A019971">福湛</persName>。號<persName key="A019971">天淵</persName>。<placeName key="CN0400000E02AA">楚</placeName>人也。居<placeName key="unknown">蓬溪智林</placeName>。亦以勤苦入道。獲
+            <lb ed="X" n="0483c07"/>印於<persName key="A010860">月溪</persName>。後開堂弘化。大為<placeName key="CN0400000E02AA">楚</placeName><placeName key="CN0510000E01AA">蜀</placeName>學禪者所歸。有法
         <lb ed="X" n="0483c08"/>語二卷。曰天淵錄。七十七歲而化。倒騎鐵馬吼西風。
-        <lb ed="X" n="0483c09"/>明月清風一樣同。師偈也。月溪之門。自不乏人。語孤
+            <lb ed="X" n="0483c09"/>明月清風一樣同。師偈也。<persName key="A010860">月溪</persName>之門。自不乏人。語孤
         <lb ed="X" n="0483c10"/>硬之風。二師為最。</p>
 </div>

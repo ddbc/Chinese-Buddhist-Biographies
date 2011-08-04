@@ -3,9 +3,9 @@
     <lb ed="T" n="0721c21"/><anchor n="T.50.2061.0721c21"/><head><date from-iso="0618-06-21" key="j19469512052491" to-iso="0907-06-06">唐</date><placeName key="CN0610102T37AA">京師大安國寺</placeName><persName key="A009176">子隣</persName>傳</head><p>
         <lb ed="T" n="0721c22"/><persName key="A009176">釋子隣</persName>，姓范氏，<placeName key="CN0370902A01AA">兗州乾封大范村</placeName>人也。父<persName key="A018812">峻
 <lb ed="T" n="0721c23"/>朝</persName>，不喜三寶，或見桑門，必加咄唾。有問
-        <lb ed="T" n="0721c24"/>其故，即欲<anchor xml:id="beg0721sgsz6"/><corr>敺</corr><anchor xml:id="end0721sgsz6"/>焉。<persName key="A009176">隣</persName>生已數歲，小字<persName key="A009176">隣兒</persName>，見
+        <lb ed="T" n="0721c24"/>其故，即欲<anchor xml:id="beg0721sgsz6"/><choice resp="sgsz"><sic>驅</sic><corr>敺</corr></choice><anchor xml:id="end0721sgsz6"/>焉。<persName key="A009176">隣</persName>生已數歲，小字<persName key="A009176">隣兒</persName>，見
         <lb ed="T" n="0721c25"/>著袈裟者，則生慕羨之意。<date from-iso="0713" key="j19818371984406" to-iso="0721">開元初</date>，<placeName key="CN0410301T12AA">東都廣
-            <lb ed="T" n="0721c26"/>愛寺</placeName><persName key="A007911">慶修律師</persName>遊于<placeName key="CN0370902M01AA"><anchor xml:id="beg0721001"/><corr>岱</corr><anchor xml:id="end0721001"/>宗</placeName>，經范氏之舍。<persName key="A009176">隣</persName>
+            <lb ed="T" n="0721c26"/>愛寺</placeName><persName key="A007911">慶修律師</persName>遊于<placeName key="CN0370902M01AA"><anchor xml:id="beg0721001"/><choice resp="sgsz"><sic>代</sic><corr>岱</corr></choice><anchor xml:id="end0721001"/>宗</placeName>，經范氏之舍。<persName key="A009176">隣</persName>
 <lb ed="T" n="0721c27"/>一見之，喜貫顏色，拜求出家。問曰：「父母云
         <lb ed="T" n="0721c28"/>何？」對曰：「不令<ref target="#A018812 #A020333" type="person">堂親</ref>知，知則遭箠撻矣。<ref target="#A007911" type="person">師</ref>但
         <lb ed="T" n="0721c29"/>先去，<ref target="#A009176" type="person">某</ref>乃影隨。」<ref target="#A007911" type="person">律師</ref>行五里間，<persName key="A009176">隣</persName>已至矣。及<pb ed="T" n="0722a" xml:id="T50.2061.0722a"/>
@@ -33,7 +33,7 @@
     <lb ed="T" n="0722a22"/>靜</persName>、<placeName key="CN0610102T54AA">保壽寺</placeName><persName key="A020397">圓寂</persName>分職證義<ptr target="#n54"/>，並<persName key="A000540">良賁</persName>潤文<ptr target="#n70"/>。<persName key="A009176">隣</persName>
         <lb ed="T" n="0722a23"/>莫測其終。先所<anchor xml:id="beg0722sgsz3"/>禮<anchor xml:id="end0722sgsz3"/>塔，今<placeName key="CN0330212T01AA">鄮山育王寺</placeName>後峯之
         <lb ed="T" n="0722a24"/>翠微<ptr target="#n415"/>茅庵基及井存焉。井實方池，其水碧
-        <lb ed="T" n="0722a25"/>色，<anchor xml:id="beg0722sgsz4"/><corr>緑</corr><anchor xml:id="end0722sgsz4"/>苔泛泛然，辭人遊者，詩詠絕多矣。</p>
+        <lb ed="T" n="0722a25"/>色，<anchor xml:id="beg0722sgsz4"/><choice resp="sgsz"><sic>緣</sic><corr>緑</corr></choice><anchor xml:id="end0722sgsz4"/>苔泛泛然，辭人遊者，詩詠絕多矣。</p>
     <linkGrp>
         <link targets="#0721c22 #0721c23"/>
         <ptr target="#A009176" type="person"/>

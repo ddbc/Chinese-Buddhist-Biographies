@@ -1,20 +1,19 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0409a01daoQuan">
-    <head><lb ed="X" n="0409a01"/>　　　　歸宗詮師傳</head>
-    <p><anchor n="X.77.1524.0409a02"/><lb ed="X" n="0409a02"/>禪師。名道詮。生劉氏。吉州安福人也。童子棄家。事思
-        <lb ed="X" n="0409a03"/>禪師。思為剃落。受具足戒。後聞長沙慧輪禪師。思一
-        <lb ed="X" n="0409a04"/>見之。時馬氏竊據荊楚。與建康接壤。詮年二十餘。結
-        <lb ed="X" n="0409a05"/>友冒險造焉。會馬氏滅。劉言有其地。以王逵代劉言。
+    <head><lb ed="X" n="0409a01"/>　　　　<persName key="A014314">歸宗詮</persName>師傳</head>
+    <p><anchor n="X.77.1524.0409a02"/><lb ed="X" n="0409a02"/>禪師。名<persName key="A014314">道詮</persName>。生劉氏。吉州<placeName key="CN0360829Z11AA">安福</placeName>人也。童子棄家。事思
+        <lb ed="X" n="0409a03"/>禪師。思為剃落。受具足戒。後聞<placeName key="CN0430105Z19AA">長沙</placeName><persName key="A020350">慧輪</persName>禪師。思一
+        <lb ed="X" n="0409a04"/>見之。時馬氏竊據<placeName key="CN0400000E02AA">荊楚</placeName>。與<placeName key="CN0320106Z07AA">建康</placeName>接壤。詮年二十餘。結
+        <lb ed="X" n="0409a05"/>友冒險造焉。會馬氏滅。<persName key="unknown">劉言</persName>有其地。以王逵代劉言。
         <lb ed="X" n="0409a06"/>領其事。逵見詮輩。疑為諜者。捕縛欲投江中。詮怡然
-        <lb ed="X" n="0409a07"/>無怖。逵異之。以問輪曰。此道人。視死如見鼻端。何種
-        <lb ed="X" n="0409a08"/>人乃能爾。輪曰。彼蓋為法忘軀之人。聞老僧虗名。故
-        <lb ed="X" n="0409a09"/>來決擇耳。逵釋之加敬。詮傲然而去。依延壽十年輪
-        <lb ed="X" n="0409a10"/>歿。詮還廬山。乾德初。庵于東南牛首峰下。開寶五年。
-        <lb ed="X" n="0409a11"/>洪帥林仁肇。請住九峰。賜大沙門。尋屬江南國絕。僧
+        <lb ed="X" n="0409a07"/>無怖。逵異之。以問<persName key="A020350">輪</persName>曰。此道人。視死如見鼻端。何種
+        <lb ed="X" n="0409a08"/>人乃能爾。<persName key="A020350">輪</persName>曰。彼蓋為法忘軀之人。聞老僧虗名。故
+        <lb ed="X" n="0409a09"/>來決擇耳。逵釋之加敬。<persName key="A014314">詮</persName>傲然而去。依<placeName key="CN0430105T08AA">延壽</placeName>十年<persName key="A020350">輪</persName>
+        <lb ed="X" n="0409a10"/>歿。<persName key="A014314">詮</persName>還<placeName key="CN0360402M01AA">廬山</placeName>。<date from-iso="0963-12-09" to-iso="0965-03-12" key="j20731312073590">乾德初</date>。庵于東南牛首峰下。<date from-iso="0972-01-24" to-iso="0973-02-10" key="j20760992076482">開寶五年</date>。
+        <lb ed="X" n="0409a11"/>洪帥林仁肇。請住<placeName key="unknown">九峰</placeName>。賜大沙門。尋屬江南國絕。僧
         <lb ed="X" n="0409a12"/>徒例試經業。師之眾並習禪觀。乃述一偈。聞于州牧
         <lb ed="X" n="0409a13"/>曰。比擬忘言合太虗。免教和氣有親疎。誰知道德全
         <lb ed="X" n="0409a14"/>無用。今日為僧貴識書。州牧閱之。與僚佐議曰。旃檀
-        <lb ed="X" n="0409a15"/>林中。必無雜樹。惟師一院特免試。太平興國九年。南
-        <lb ed="X" n="0409a16"/>康牧張南金。請居歸宗。雍熙二年十一月二十八日
+        <lb ed="X" n="0409a15"/>林中。必無雜樹。惟師一院特免試。<date from-iso="0984-02-10" to-iso="0984-12-10" key="j20804992080803">太平興國九年</date>。<placeName key="CN0360427Z10AA">南<lb ed="X" n="0409a16"/>康</placeName>牧張南金。請居歸宗。<date when-iso="0986-01-16" key="j20812052081205">雍熙二年十一月二十八日</date>
         <lb ed="X" n="0409a17"/>中夜。辭眾而化。</p>
 </div>

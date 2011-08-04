@@ -1,11 +1,10 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0448a15ruJue">
-    <head><lb ed="X" n="0448a15"/>　　　　如珏傳</head>
-    <p><anchor n="X.77.1524.0448a16"/><lb ed="X" n="0448a16"/>如珏。字荊叟。婺州人。圓悟五世孫癡鈍之子。初見癡
-        <lb ed="X" n="0448a17"/>鈍。室中僧問。如何是佛。癡鈍命師下語。師答。爛冬爪。
+    <head><lb ed="X" n="0448a15"/>　　　　<persName key="A021176">如珏</persName>傳</head>
+    <p><anchor n="X.77.1524.0448a16"/><lb ed="X" n="0448a16"/><persName key="A021176">如珏</persName>。字<persName key="A021176">荊叟</persName>。<placeName key="CN0330702Z08AA">婺州</placeName>人。<persName key="A001411">圓悟</persName>五世孫<persName key="unknown">癡鈍</persName>之子。初見<persName key="unknown">癡<lb ed="X" n="0448a17"/>鈍</persName>。室中僧問。如何是佛。<persName key="unknown">癡鈍</persName>命師下語。師答。爛冬爪。
         <lb ed="X" n="0448a18"/>即呈頌曰。如何是佛爛冬瓜。咬著氷霜透齒牙。根蒂
-        <lb ed="X" n="0448a19"/>雖然無窖子。一年一度一開花。癡鈍笑而可之。後知
-        <lb ed="X" n="0448a20"/>遇穆陵。端平中。有詔。自育王陞住徑山。始開堂。乃述
+        <lb ed="X" n="0448a19"/>雖然無窖子。一年一度一開花。<persName key="unknown">癡鈍</persName>笑而可之。後知
+        <lb ed="X" n="0448a20"/>遇穆陵。<date from-iso="1234-02-07" to-iso="1237-02-03" key="j21718072172899">端平中</date>。有詔。自<placeName key="CN0330212T01AA">育王</placeName>陞住<placeName key="CN0330110T11AA">徑山</placeName>。始開堂。乃述
         <lb ed="X" n="0448a21"/>銘以諭眾曰。幻身夢宅。空中物色。前際無窮。後際寧
         <lb ed="X" n="0448a22"/>克。出此沒彼。升沉疲極。未免三輪。何時休息。貪戀世
         <lb ed="X" n="0448a23"/>間。因緣成質。從生至老。一無所得。根本無明。因茲被
@@ -20,5 +19,5 @@
         <lb ed="X" n="0448b08"/>見氣急。殊不知髑髏未具己眼。先明[囗@力]地一聲。千了
         <lb ed="X" n="0448b09"/>百當。然雖如此。親證者萬無一二。錯會者數有河沙。
         <lb ed="X" n="0448b10"/>師見地高朗。不多讓古人。然福德因緣。不無少遜。或
-        <lb ed="X" n="0448b11"/>云。師功用比圓悟益弘。或亦未之思耳。</p>
+        <lb ed="X" n="0448b11"/>云。師功用比<persName key="A001411">圓悟</persName>益弘。或亦未之思耳。</p>
 </div>

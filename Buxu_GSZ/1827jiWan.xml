@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0488a24jiWan">
-    <head><lb ed="X" n="0488a24"/>　　　　繼萬闍黎傳</head>
-    <p><anchor n="X.77.1524.0488b01"/><lb ed="X" n="0488b01"/>繼萬。號古峰。建福寺僧。嘉靖十七年。入京受戒。祖母
+    <head><lb ed="X" n="0488a24"/>　　　　<persName key="A021504">繼萬</persName>闍黎傳</head>
+    <p><anchor n="X.77.1524.0488b01"/><lb ed="X" n="0488b01"/><persName key="A021504">繼萬</persName>。號<persName key="A021504">古峰</persName>。<placeName key="unknown">建福寺</placeName>僧。<date from-iso="1538-02-10" to-iso="1539-01-29" key="j22828432283196">嘉靖十七年</date>。入<placeName key="CN0110102Z07AA">京</placeName>受戒。祖母
         <lb ed="X" n="0488b02"/>繼母前後死。廬墓六年。春秋七十有九而歿。其間閉
-        <lb ed="X" n="0488b03"/>關者四。計三十餘年。太史李少莊。贈以詩有云。篆烟
-        <lb ed="X" n="0488b04"/>雲自結。簾影晝長閒。其高靜可想。有僧問。聶公道號
-        <lb ed="X" n="0488b05"/>甚麼。曰古峰。又問。如何是古峰景。答曰。乾坤長不老。
-        <lb ed="X" n="0488b06"/>今古獨能存。僧又問法名。曰。繼萬。曰。何不繼一。答云
+        <lb ed="X" n="0488b03"/>關者四。計三十餘年。太史<persName key="unknown">李少莊</persName>。贈以詩有云。篆烟
+        <lb ed="X" n="0488b04"/>雲自結。簾影晝長閒。其高靜可想。有僧問。<persName key="A021504">聶公</persName>道號
+        <lb ed="X" n="0488b05"/>甚麼。曰<persName key="A021504">古峰</persName>。又問。如何是古峰景。答曰。乾坤長不老。
+        <lb ed="X" n="0488b06"/>今古獨能存。僧又問法名。曰。<persName key="A021504">繼萬</persName>。曰。何不繼一。答云
         <lb ed="X" n="0488b07"/>萬即是一。一即是萬。觀其應對機辨。似亦非槁然枯
-        <lb ed="X" n="0488b08"/>坐者云。聶公蓋其姓也。</p>
+        <lb ed="X" n="0488b08"/>坐者云。<persName key="A021504">聶公</persName>蓋其姓也。</p>
 </div>

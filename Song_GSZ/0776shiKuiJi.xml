@@ -2,7 +2,7 @@
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0725b12shiKuiJi">
     <lb n="0725b12" ed="T"/><anchor n="T.50.2061.0725b12"/><head><anchor xml:id="beg0725003"/>宋<anchor xml:id="end0725003"/>高僧傳卷第四</head>
     <lb n="0725b13" ed="T"/>
-    <lb n="0725b14" ed="T"/><byline n="Author"><anchor xml:id="begT50p0725b01"/>宋左街天壽寺通慧大師
+    <lb n="0725b14" ed="T"/><byline n="Author"><anchor xml:id="beg0725b01"/>宋左街天壽寺通慧大師
         <lb n="0725b15" ed="T"/>賜紫沙門贊寧等奉　勅撰<anchor xml:id="endT50p0725b01"/></byline>
     <lb n="0725b16" ed="T"/><head>義解篇第二之一（正傳二十一人附見七人）</head>
     <lb n="0725b17" ed="T"/><head><date from-iso="0618-06-21" key="j19469512052491" to-iso="0907-06-06">唐</date><placeName key="CN0610113T05AA">京兆大慈恩寺</placeName><persName key="A001019">窺基</persName>傳</head><p>
@@ -23,7 +23,7 @@
         <lb ed="T" n="0725c03"/><ref type="person" target="#A009200">將軍</ref>不生，非<ref type="person" target="#A000294">某</ref>不識。」<ref type="person" target="#A009200">父</ref>雖然諾，<persName key="A001019">基</persName>亦強
         <lb ed="T" n="0725c04"/>拒。激勉再三，拜以從命，奮然抗聲曰：「聽<ref type="person" target="#A001019">我</ref>
 <lb ed="T" n="0725c05"/>三事，方誓出家。不斷情<anchor xml:id="beg0725005"/>欲<anchor xml:id="end0725005"/>、葷血、過中食
-        <lb ed="T" n="0725c06"/>也。」<persName key="A000294">奘</persName>先以欲勾牽，後<anchor xml:id="beg0725sgsz5"/><corr>令</corr><anchor xml:id="end0725sgsz5"/>入佛智，佯而肯焉。
+        <lb ed="T" n="0725c06"/>也。」<persName key="A000294">奘</persName>先以欲勾牽，後<anchor xml:id="beg0725sgsz5"/><choice resp="sgsz"><sic>今</sic><corr>令</corr></choice><anchor xml:id="end0725sgsz5"/>入佛智，佯而肯焉。
 <lb ed="T" n="0725c07"/>行駕累載前之所欲，故<placeName key="CN0610000E01AA">關輔</placeName>語曰「<persName key="A001019">三車和尚</persName>」。
 <lb ed="T" n="0725c08"/>即<date from-iso="0648-02-02" key="j19577691958152" to-iso="0649-02-19">貞觀二十二年</date>也。一<persName key="A001019">基</persName>自序云：「<date key="j19548151955180" from-iso="0640-01-01" to-iso="0640-12-31">九歲</date>丁艱，
         <lb ed="T" n="0725c09"/>漸疎浮俗。」<ptr target="#n488"/>若然者，三車之說，乃厚誣也。至
@@ -35,7 +35,7 @@
 <lb ed="T" n="0725c15"/>譯經，講通大小乘教三十餘本。創意留心，
         <lb ed="T" n="0725c16"/>勤勤著述，蓋切問而近思<ptr target="#n490"/>，其則不遠矣。造「疏」
 <lb ed="T" n="0725c17"/>計可百本。<persName key="A000294">奘</persName>所譯《唯識論》，初與<persName key="A009198">昉</persName>、<persName key="A008981">尚</persName>、<persName key="A000060">光</persName>四
-        <lb ed="T" n="0725c18"/>人同受，潤色<ptr target="#n70"/>、執筆<ptr target="#n53"/>、<anchor xml:id="beg0725sgsz6"/><corr>檢</corr><anchor xml:id="end0725sgsz6"/>文<ptr target="#n491"/>、纂義<ptr target="#n492"/>，數朝之後，<persName key="A001019">基</persName>
+        <lb ed="T" n="0725c18"/>人同受，潤色<ptr target="#n70"/>、執筆<ptr target="#n53"/>、<anchor xml:id="beg0725sgsz6"/><choice resp="sgsz"><sic>撿</sic><corr>檢</corr></choice><anchor xml:id="end0725sgsz6"/>文<ptr target="#n491"/>、纂義<ptr target="#n492"/>，數朝之後，<persName key="A001019">基</persName>
 <lb ed="T" n="0725c19"/>求退焉。<persName key="A000294">奘</persName>問之，對曰：「夕夢金容，晨趨白
         <lb ed="T" n="0725c20"/>馬，雖得法門之糟粕，然失玄源之醇粹，<ref type="person" target="#A001019">某</ref>
         <lb ed="T" n="0725c21"/>不願立功於參<anchor xml:id="beg0725sgsz7"/>糅<anchor xml:id="end0725sgsz7"/>。若意成一本，受責則

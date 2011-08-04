@@ -1,43 +1,43 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0419a18ziBao">
-    <head><lb ed="X" n="0419a18"/>　　　　洞山寶．泐潭澄傳</head>
-    <p><anchor n="X.77.1524.0419a19"/><lb ed="X" n="0419a19"/>自寶。廬州合肥人。姓吳氏生有奇相。弱齡歸普寧院。
-        <lb ed="X" n="0419a20"/>已抱出群之見。聞五祖戒公匠石宗門造之。置水投
-        <lb ed="X" n="0419a21"/>鍼。理存默識。遂入室傳法焉。祖病。令行者往庫司取
-        <lb ed="X" n="0419a22"/>生薑煎藥。寶方主庫事叱之。行者白祖。祖令將錢回
-        <lb ed="X" n="0419a23"/>買。乃與之。後往洞山。聰公知其為人。特加器重。臨歿
-        <lb ed="X" n="0419a24"/>遺言。令繼其席。郡守。又以書託祖。舉所知者主洞山。
-        <lb ed="X" n="0419b01"/>祖云。無如買生薑漢。住未幾。戶外屨滿矣。叢林殷足
-        <lb ed="X" n="0419b02"/>委積。常餘百萬。黃檗山饘粥不繼。寶移杖總之。黃檗
-        <lb ed="X" n="0419b03"/>為之豐。直院祖君無擇。部憲程君師孟。並著好賢樂
-        <lb ed="X" n="0419b04"/>善之名。祖。既挽寶主歸宗。程。復以雲居致寶。前後凡
-        <lb ed="X" n="0419b05"/>四住名剎。在歸宗時。一日扶杖出門見喝道來問甚。
-        <lb ed="X" n="0419b06"/>官吏云。縣尉令避路。寶側立道左。馬至前跪不行。寶
-        <lb ed="X" n="0419b07"/>曰。畜生却識人。尉知是寶。再拜而去。住雲居時。一夜
-        <lb ed="X" n="0419b08"/>山神肩輿。輿寶繞寺行。寶云。擡你爺擡你娘擡上方
-        <lb ed="X" n="0419b09"/>丈去。神直擡上方丈。寶為人精嚴。護持戒法。初行脚
-        <lb ed="X" n="0419b10"/>時。宿旅店。為娼女所窘。與同寢榻。寶危坐終夜。明發
+    <head><lb ed="X" n="0419a18"/>　　　　<persName key="A014368">洞山寶</persName>．<persName key="A008345">泐潭澄</persName>傳</head>
+    <p><anchor n="X.77.1524.0419a19"/><lb ed="X" n="0419a19"/><persName key="A014368">自寶</persName>。廬州<placeName key="CN0340103Z10AA">合肥</placeName>人。姓吳氏生有奇相。弱齡歸<placeName key="unknown">普寧院</placeName>。
+        <lb ed="X" n="0419a20"/>已抱出群之見。聞<persName key="A011759">五祖戒</persName>公匠石宗門造之。置水投
+        <lb ed="X" n="0419a21"/>鍼。理存默識。遂入室傳法焉。<persName key="A011759">祖</persName>病。令行者往庫司取
+        <lb ed="X" n="0419a22"/>生薑煎藥。<persName key="A014368">寶</persName>方主庫事叱之。行者<persName key="unknown">白祖</persName>。祖令將錢回
+        <lb ed="X" n="0419a23"/>買。乃與之。後往<placeName key="CN0360924T02AA">洞山</placeName>。<persName key="A014346">聰公</persName>知其為人。特加器重。臨歿
+        <lb ed="X" n="0419a24"/>遺言。令繼其席。郡守。又以書託<persName key="A011759">祖</persName>。舉所知者主<placeName key="CN0360924T02AA">洞山</placeName>。
+        <lb ed="X" n="0419b01"/><persName key="A011759">祖</persName>云。無如買生薑漢。住未幾。戶外屨滿矣。叢林殷足
+        <lb ed="X" n="0419b02"/>委積。常餘百萬。<placeName key="CN0360924M01AA">黃檗山</placeName>饘粥不繼。<persName key="A014368">寶</persName>移杖總之。<placeName key="CN0360924M01AA">黃檗</placeName>
+        <lb ed="X" n="0419b03"/>為之豐。直院<persName key="A019720">祖君無擇</persName>。部憲<persName key="A018358">程君師孟</persName>。並著好賢樂
+        <lb ed="X" n="0419b04"/>善之名。<persName key="A011759">祖</persName>。既挽<persName key="A014368">寶</persName>主<placeName key="CN0360427T02AA">歸宗</placeName>。程。復以<placeName key="unknown">雲居</placeName>致<persName key="A014368">寶</persName>。前後凡
+        <lb ed="X" n="0419b05"/>四住名剎。在<placeName key="CN0360427T02AA">歸宗</placeName>時。一日扶杖出門見喝道來問甚。
+        <lb ed="X" n="0419b06"/>官吏云。縣尉令避路。<persName key="A014368">寶</persName>側立道左。馬至前跪不行。<persName key="A014368">寶</persName>
+        <lb ed="X" n="0419b07"/>曰。畜生却識人。尉知是<persName key="A014368">寶</persName>。再拜而去。住<placeName key="unknown">雲居</placeName>時。一夜
+        <lb ed="X" n="0419b08"/>山神肩輿。輿<persName key="A014368">寶</persName>繞寺行。<persName key="A014368">寶</persName>云。擡你爺擡你娘擡上方
+        <lb ed="X" n="0419b09"/>丈去。神直擡上方丈。<persName key="A014368">寶</persName>為人精嚴。護持戒法。初行脚
+        <lb ed="X" n="0419b10"/>時。宿旅店。為娼女所窘。與同寢榻。<persName key="A014368">寶</persName>危坐終夜。明發
         <lb ed="X" n="0419b11"/>娼女索錢。與之出門。燒被而去。娼女以實告其父母。
         <lb ed="X" n="0419b12"/>遂請歸置齋以謝。謂真佛子也。然好名事邊幅故。所
-        <lb ed="X" n="0419b13"/>至必選名僧自隨。為其羽翼。寶實得法于五祖。祖暮
-        <lb ed="X" n="0419b14"/>年。棄眾造焉。寶以其行藏落人疑似。弗為禮。且說偈
-        <lb ed="X" n="0419b15"/>譏之。祖遂造大愚。一日於僧堂前。倚拄杖。談笑而化。
-        <lb ed="X" n="0419b16"/>寶雖有盛名。叢林亦以是少之。師在洞山。甞自甓壽
-        <lb ed="X" n="0419b17"/>藏。後二十餘年。遂終于歸宗。壽七十七。僧臘五十一。
-        <lb ed="X" n="0419b18"/>示寂。十八日全身入塔。至和元年也。余襄公靖。為之
+        <lb ed="X" n="0419b13"/>至必選名僧自隨。為其羽翼。<persName key="A014368">寶</persName>實得法于<persName key="A011759">五祖</persName>。<persName key="A011759">祖</persName>暮
+        <lb ed="X" n="0419b14"/>年。棄眾造焉。<persName key="A014368">寶</persName>以其行藏落人疑似。弗為禮。且說偈
+        <lb ed="X" n="0419b15"/>譏之。<persName key="A011759">祖</persName>遂造大愚。一日於僧堂前。倚拄杖。談笑而化。
+        <lb ed="X" n="0419b16"/><persName key="A014368">寶</persName>雖有盛名。叢林亦以是少之。師在<placeName key="CN0360924T02AA">洞山</placeName>。甞自甓壽
+        <lb ed="X" n="0419b17"/>藏。後二十餘年。遂終于<placeName key="CN0360427T02AA">歸宗</placeName>。壽七十七。僧臘五十一。
+        <lb ed="X" n="0419b18"/>示寂。十八日全身入塔。<date from-iso="1054-05-02" to-iso="1055-02-05" key="j21061472106426">至和元年</date>也。<persName key="unknown">余襄公靖</persName>。為之
         <lb ed="X" n="0419b19"/>銘曰。彼上人者。叢林獨步。激揚宗旨。慈心廣度。言發
         <lb ed="X" n="0419b20"/>其機。俾之自悟。人得其要。直趨覺路。橫杖而來。捨筏
-        <lb ed="X" n="0419b21"/>而去。吁嗟妙圓。人天仰慕。妙圓。師賜號也。
-        <lb ed="X" n="0419b22"/>懷澄禪師不知何許人。與寶同出于五祖之門。出世
-        <lb ed="X" n="0419b23"/>洪州泐潭。諸方呼為泐潭澄。黃龍南公依之最久。然
-        <lb ed="X" n="0419b24"/>雲門法道。至師小變。故雲峰悅公。方之藥汞銀。鍛則
-        <lb ed="X" n="0419c01"/>流去。大覺連和尚其嗣也。所謂青出于藍者。別具。
-        <lb ed="X" n="0419c02"/>系曰。一洞山也。詮去授聰。聰嗣文殊。聰死授寶。寶嗣
-        <lb ed="X" n="0419c03"/>五祖。要見<ptr target="fn1"/>拄持續佛慧命。非細事故。古人舉授唯大。
-        <lb ed="X" n="0419c04"/>公弗容一毫私念于其間。不然詮聰工老。豈少法嗣
-        <lb ed="X" n="0419c05"/>哉。中峰國師。與定叟書云。古人於法嗣嫡傳。所以深
+        <lb ed="X" n="0419b21"/>而去。吁嗟<persName key="A014368">妙圓</persName>。人天仰慕。<persName key="A014368">妙圓</persName>。師賜號也。
+        <lb ed="X" n="0419b22"/><persName key="A008345">懷澄</persName>禪師不知何許人。與<persName key="A014368">寶</persName>同出于<persName key="A011759">五祖</persName>之門。出世
+        <lb ed="X" n="0419b23"/>洪州<placeName key="CN0360925T01AA">泐潭</placeName>。諸方呼為<persName key="A008345">泐潭澄</persName>。<persName key="A003921">黃龍南</persName>公依之最久。然
+        <lb ed="X" n="0419b24"/>雲門法道。至師小變。故<persName key="A008388">雲峰悅</persName>公。方之藥汞銀。鍛則
+        <lb ed="X" n="0419c01"/>流去。<persName key="A007530">大覺連</persName>和尚其嗣也。所謂青出于藍者。別具。
+        <lb ed="X" n="0419c02"/>系曰。一洞山也。<persName key="unknown">詮</persName>去授<persName key="A014346">聰</persName>。<persName key="A014346">聰</persName>嗣<persName key="unknown">文殊</persName>。<persName key="A014346">聰</persName>死授<persName key="A014368">寶</persName>。<persName key="A014368">寶</persName>嗣
+        <lb ed="X" n="0419c03"/><persName key="A011759">五祖</persName>。要見<ptr target="fn1"/>拄持續佛慧命。非細事故。古人舉授唯大。
+        <lb ed="X" n="0419c04"/>公弗容一毫私念于其間。不然<persName key="unknown">詮</persName><persName key="A014346">聰</persName>工老。豈少法嗣
+        <lb ed="X" n="0419c05"/>哉。<persName key="A000655">中峰國師</persName>。與<persName key="unknown">定叟</persName>書云。古人於法嗣嫡傳。所以深
         <lb ed="X" n="0419c06"/>明宗係者。大法源委不可誣也。世漓俗薄。奉金請拂。
-        <lb ed="X" n="0419c07"/>以院易嗣者有之。某甞痛心于此。寶亦雲門子孫之
-        <lb ed="X" n="0419c08"/>傑出者。惜大德為一眚所掩。燈錄謂寶生娼室無姓
+        <lb ed="X" n="0419c07"/>以院易嗣者有之。某甞痛心于此。<persName key="A014368">寶</persName>亦<persName key="A003703">雲門</persName>子孫之
+        <lb ed="X" n="0419c08"/>傑出者。惜大德為一眚所掩。燈錄謂<persName key="A014368">寶</persName>生娼室無姓
         <lb ed="X" n="0419c09"/>氏。未之考耳。</p>
 </div>

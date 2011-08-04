@@ -1,36 +1,33 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0500a07huiKai">
-    <head><lb ed="X" n="0500a07"/>　　　　無門開傳</head>
-    <p><anchor n="X.77.1524.0500a08"/><lb ed="X" n="0500a08"/>慧開。字無門。杭之良渚人。俗姓梁。母宋氏。禮天龍肱
-        <lb ed="X" n="0500a09"/>和尚。為受業師。聞月林觀公開法於萬壽。師同石霜
-        <lb ed="X" n="0500a10"/>印公。往謁之。林令看無字話。六年逈無入處。乃奮自
+    <head><lb ed="X" n="0500a07"/>　　　　<persName key="A001730">無門開</persName>傳</head>
+    <p><anchor n="X.77.1524.0500a08"/><lb ed="X" n="0500a08"/><persName key="A001730">慧開</persName>。字<persName key="A001730">無門</persName>。杭之<placeName key="unknown">良渚</placeName>人。俗姓梁。母<persName key="unknown">宋氏</persName>。禮<persName key="unknown">天龍肱</persName>
+        <lb ed="X" n="0500a09"/>和尚。為受業師。聞<persName key="A013182">月林觀</persName>公開法於<placeName key="CN0321202T07AA">萬壽</placeName>。師同<persName key="unknown">石霜<lb ed="X" n="0500a10"/>印</persName>公。往謁之。<persName key="A013182">林</persName>令看無字話。六年逈無入處。乃奮自
         <lb ed="X" n="0500a11"/>尅責。誓云。若去睡眠。爛却我身。每至困劇時。廊下行
         <lb ed="X" n="0500a12"/>道。以首觸露柱。一日在法座邊立。忽聞齋鼓聲有省。
         <lb ed="X" n="0500a13"/>成偈云。青天白日一聲雷。大地羣生眼豁開。萬象森
-        <lb ed="X" n="0500a14"/>羅齊稽首。須彌[跳-兆+孛]跳舞三臺。入室通所得。林叱曰。何
-        <lb ed="X" n="0500a15"/>得見神見鬼。師便喝。林亦喝。師又喝。自此機語脗合。
-        <lb ed="X" n="0500a16"/>嘉定間。出世住安吉報國。遷龍興天寧。黃龍翠巖。蘇
-        <lb ed="X" n="0500a17"/>之開元靈巖。鎮江焦山。金陵保寧。淳祐間。還里。于西
-        <lb ed="X" n="0500a18"/>湖北山林木幽蔭處。樂而居之。有石自山趾斗折而
+        <lb ed="X" n="0500a14"/>羅齊稽首。須彌[跳-兆+孛]跳舞三臺。入室通所得。<persName key="A013182">林</persName>叱曰。何
+        <lb ed="X" n="0500a15"/>得見神見鬼。師便喝。<persName key="A013182">林</persName>亦喝。師又喝。自此機語脗合。
+        <lb ed="X" n="0500a16"/><date from-iso="1208-01-26" to-iso="1225-02-15" key="j21622982168528">嘉定間</date>。出世住安吉<placeName key="unknown">報國</placeName>。遷龍興<placeName key="unknown">天寧</placeName>。黃龍<placeName key="unknown">翠巖</placeName>。蘇
+        <lb ed="X" n="0500a17"/>之<placeName key="CN0320503T01AA">開元</placeName><placeName key="CN0320506T01AA">靈巖</placeName>。鎮江<placeName key="CN0321102T06AA">焦山</placeName>。金陵<placeName key="CN0320104T07AA">保寧</placeName>。<date from-iso="1241-02-20" to-iso="1253-02-06" key="j21743772178746">淳祐間</date>。還里。于西
+        <lb ed="X" n="0500a18"/>湖<placeName key="CN0330182M01AA">北山</placeName>林木幽蔭處。樂而居之。有石自山趾斗折而
         <lb ed="X" n="0500a19"/>上。[石*含]砑不合如礪。師之來其下。劃然出泉。色紺而甘。
-        <lb ed="X" n="0500a20"/>洌澄若重淵。言者謂。師自黃龍移是山。葢龍隨師錫
-        <lb ed="X" n="0500a21"/>而歸也。遂呼其石處。為黃龍洞。而峰為黃龍峰。是凡
+        <lb ed="X" n="0500a20"/>洌澄若重淵。言者謂。師自<placeName key="unknown">黃龍</placeName>移是山。葢龍隨師錫
+        <lb ed="X" n="0500a21"/>而歸也。遂呼其石處。為<placeName key="unknown">黃龍洞</placeName>。而峰為<placeName key="unknown">黃龍峰</placeName>。是凡
         <lb ed="X" n="0500a22"/>夏雨初霽。有物蜿蜒松上。氣茀茀而黃。其黃龍焉。時
-        <lb ed="X" n="0500a23"/>境內大旱。少保孟珙。丞相吳潛鄭清之。奏師道行。致
-        <lb ed="X" n="0500a24"/>泉自湧龍時現。必能為蒼生救枯槁也。有旨。召入文
-        <lb ed="X" n="0500b01"/>德殿演法。師升座。無所說唯嘿坐。雨應時大作。遠近
+        <lb ed="X" n="0500a23"/>境內大旱。少保<persName key="A008965">孟珙</persName>。丞相<persName key="A008709">吳潛</persName><persName key="A008467">鄭清之</persName>。奏師道行。致
+        <lb ed="X" n="0500a24"/>泉自湧龍時現。必能為蒼生救枯槁也。有旨。召入<placeName key="unknown">文<lb ed="X" n="0500b01"/>德殿</placeName>演法。師升座。無所說唯嘿坐。雨應時大作。遠近
         <lb ed="X" n="0500b02"/>普洽。上喜甚。問何以致是。師曰。寂然不動。感而遂通。
-        <lb ed="X" n="0500b03"/>上悅。賜號佛眼禪師。被以金縷伽梨。勑祠黃龍。曰靈
-        <lb ed="X" n="0500b04"/>濟侯。于黃龍峰下。建護國仁王寺。撥平江官田三千
+        <lb ed="X" n="0500b03"/>上悅。賜號<persName key="A001730">佛眼禪師</persName>。被以金縷伽梨。勑祠黃龍。曰靈
+        <lb ed="X" n="0500b04"/>濟侯。于<placeName key="unknown">黃龍峰</placeName>下。建<placeName key="CN0330106T36AA">護國仁王寺</placeName>。撥<placeName key="CN0320503Z09AA">平江</placeName>官田三千
         <lb ed="X" n="0500b05"/>畝。命師開山。師形體矬小。其赴召也。指日觀眾。而後
         <lb ed="X" n="0500b06"/>踰閾。施重墄於座級而升焉。朝士多竊笑之。師誓弘
         <lb ed="X" n="0500b07"/>法教。惟自諱報身不偉。洞之顛。有玉峰一片。削成插
         <lb ed="X" n="0500b08"/>天。瑩如脂肪。高二丈餘。因命工肖己形。長丈許。飛雲
         <lb ed="X" n="0500b09"/>隱其足。緣背光[舀*炎]蔚起。鑿龍首蟠。繞右向虗。左竇可
         <lb ed="X" n="0500b10"/>俛入。前施案焉。皆就石勢鏤之。幻若從地湧出。而登
-        <lb ed="X" n="0500b11"/>坐於空中者。私祝云。願後有身視此。師遷化之夕。錢
-        <lb ed="X" n="0500b12"/>塘孫氏婦。夢一僧篝燈。自稱開道人。寄宿。翼日產男
-        <lb ed="X" n="0500b13"/>子。後為大禪師。即中峰本公也。師法嗣為永嘉見和
-        <lb ed="X" n="0500b14"/>尚。高峰語石屋云。溫有瞎驢。是也。亦為大宗匠。不墜
+        <lb ed="X" n="0500b11"/>坐於空中者。私祝云。願後有身視此。師遷化之夕。<placeName key="CN0330103Z12AA">錢<lb ed="X" n="0500b12"/>塘</placeName><persName key="unknown">孫氏</persName>婦。夢一僧篝燈。自稱開道人。寄宿。翼日產男
+        <lb ed="X" n="0500b13"/>子。後為大禪師。即<persName key="A000655">中峰本</persName>公也。師法嗣為<persName key="unknown">永嘉見</persName>和
+        <lb ed="X" n="0500b14"/>尚。<persName key="A004700">高峰</persName>語<persName key="A007799">石屋</persName>云。溫有瞎驢。是也。亦為大宗匠。不墜
         <lb ed="X" n="0500b15"/>家聲者。</p>
 </div>

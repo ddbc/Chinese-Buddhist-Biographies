@@ -1,45 +1,40 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0444a04zhiNe">
-    <head><lb ed="X" n="0444a04"/>　　　　妙空智訥禪師傳</head>
-    <p><anchor n="X.77.1524.0444a05"/><lb ed="X" n="0444a05"/>智訥。姓夏氏。秀之崇德人。母。夢一婦人著黃衣。寘一
-        <lb ed="X" n="0444a06"/>兒盆中。舉而授之。因娠。生而頴秀。甫四歲。事其兄慈
-        <lb ed="X" n="0444a07"/>相上人道孜。十四得度。器質不凡。追營香火。練習戒
+    <head><lb ed="X" n="0444a04"/>　　　　<persName key="A012839">妙空智訥</persName>禪師傳</head>
+    <p><anchor n="X.77.1524.0444a05"/><lb ed="X" n="0444a05"/><persName key="A012839">智訥</persName>。姓夏氏。秀之<placeName key="CN0330483Z23AA">崇德</placeName>人。母。夢一婦人著黃衣。寘一
+        <lb ed="X" n="0444a06"/>兒盆中。舉而授之。因娠。生而頴秀。<date key="j21162532116617" when-iso="1082">甫四歲</date>。事其兄<persName key="unknown">慈<lb ed="X" n="0444a07"/>相</persName>上人道孜。<date key="j21199052120270" when-iso="1092">十四</date>得度。器質不凡。追營香火。練習戒
         <lb ed="X" n="0444a08"/>律。已如成人。久之悟。歎曰。吾修無上道。而求之文句
-        <lb ed="X" n="0444a09"/>中。是刻舟也。即舍去。學禪於桐川之天寧。一日度磵。
+        <lb ed="X" n="0444a09"/>中。是刻舟也。即舍去。學禪於<placeName key="unknown">桐川</placeName>之<placeName key="unknown">天寧</placeName>。一日度磵。
         <lb ed="X" n="0444a10"/>有文書出流水中。攬取視之。乃心經也。讀之。五蘊皆
-        <lb ed="X" n="0444a11"/>空。恍然若有契于心者。走姑蘇瑞光。見淨照信公。公
-        <lb ed="X" n="0444a12"/>一見喜曰。宿世沙門也。未幾。淨炤徙住真州長蘆。會
-        <lb ed="X" n="0444a13"/>學去來。率數百人。師學成行尊。齒其高第。淮人敬愛
-        <lb ed="X" n="0444a14"/>之曰。有如訥公。而不坐道場。可乎。延住天寧禪寺。賜
-        <lb ed="X" n="0444a15"/>妙空大師。儀真當二江三吳舟車之會。檀施大集。鼎
-        <lb ed="X" n="0444a16"/>新一剎。幾至萬礎。建炎初。住靈隱。慈聖獻皇后。車駕
-        <lb ed="X" n="0444a17"/>臨幸。詔師升坐說法。賜號佛海。明年。金人陷錢塘。師
+        <lb ed="X" n="0444a11"/>空。恍然若有契于心者。走姑蘇<placeName key="CN0320502T05AA">瑞光</placeName>。見<persName key="unknown">淨照信</persName>公。公
+        <lb ed="X" n="0444a12"/>一見喜曰。宿世沙門也。未幾。淨炤徙住真州<placeName key="CN0320116T01AA">長蘆</placeName>。會
+        <lb ed="X" n="0444a13"/>學去來。率數百人。師學成行尊。齒其高第。<placeName key="CN0340001D01AA">淮</placeName>人敬愛
+        <lb ed="X" n="0444a14"/>之曰。有如<persName key="A012839">訥</persName>公。而不坐道場。可乎。延住<placeName key="CN0321002T10AA">天寧禪寺</placeName>。賜
+        <lb ed="X" n="0444a15"/><persName key="A012839">妙空大師</persName>。<placeName key="CN0321081Z14AA">儀真</placeName>當二江三吳舟車之會。檀施大集。鼎
+        <lb ed="X" n="0444a16"/>新一剎。幾至萬礎。<date from-iso="1127-06-19" to-iso="1128-05-16" key="j21328572133189">建炎初</date>。住<placeName key="CN0330106T01AA">靈隱</placeName>。<persName key="unknown">慈聖獻皇后</persName>。車駕
+        <lb ed="X" n="0444a17"/>臨幸。詔師升坐說法。賜號<persName key="A012839">佛海</persName>。明年。金人陷<placeName key="CN0330103Z12AA">錢塘</placeName>。師
         <lb ed="X" n="0444a18"/>被執。大酋解師縛。置一榻尊事之。比去。飭十騎送還。
-        <lb ed="X" n="0444a19"/>咸安王韓世忠。表請平江靈巖。為功德院薦先福。命
+        <lb ed="X" n="0444a19"/><persName key="unknown">咸安王</persName><persName key="A017923">韓世忠</persName>。表請平江<placeName key="CN0320506T01AA">靈巖</placeName>。為<placeName key="unknown">功德院</placeName>薦先福。命
         <lb ed="X" n="0444a20"/>師主之。已去復留。凡五更住持。前後二十餘年。最後
-        <lb ed="X" n="0444a21"/>被詔住徑山。紹興二十七年。師持鉢詣秀州華亭。縣
-        <lb ed="X" n="0444a22"/>人朱飛卿者。聞師名。具蒲饌卜日。馳書以請。師以十
-        <lb ed="X" n="0444a23"/>一月二十六日。至其家。據坐說法。緇素咸會。有僧出
+        <lb ed="X" n="0444a21"/>被詔住<placeName key="CN0330110T11AA">徑山</placeName>。<date from-iso="1157-02-19" to-iso="1158-02-07" key="j21436952144048">紹興二十七年</date>。師持鉢詣秀州<placeName key="CN0310117Z11AA">華亭</placeName>。縣
+        <lb ed="X" n="0444a22"/>人<persName key="unknown">朱飛卿</persName>者。聞師名。具蒲饌卜日。馳書以請。師以<date when-iso="1158-01-05" key="j21440152144015">十<lb ed="X" n="0444a23"/>一月二十六日</date>。至其家。據坐說法。緇素咸會。有僧出
         <lb ed="X" n="0444a24"/>膜拜。問生死根本。師酬對語未卒。舉拂扣床。一擊而
         <lb ed="X" n="0444b01"/>逝。道俗奔赴。空巷相登。贊歎作禮。如佛滅度。其徒具
         <lb ed="X" n="0444b02"/>舟載歸山中。則已有治命矣。七日而斂。舉體如生。葬
-        <lb ed="X" n="0444b03"/>於寺之白雲菴。壽八十。僧臘六十七。師儀狀奇龐。容
+        <lb ed="X" n="0444b03"/>於寺之<placeName key="CN0330110T11AD">白雲菴</placeName>。壽八十。僧臘六十七。師儀狀奇龐。容
         <lb ed="X" n="0444b04"/>止端默。雖行出世間法。而以營塔廟修齋供作佛事。
-        <lb ed="X" n="0444b05"/>金帛之施。歲一出之。槖中無[酉-二+干]蓄。在儀真時。州民王
-        <lb ed="X" n="0444b06"/>氏婦病沒。後配孟氏又病。一日其姑誦經佛室中。聞
-        <lb ed="X" n="0444b07"/>扣壁聲。問之。曰王氏也。我有遺槖簪珥之屬。盡歸孟
-        <lb ed="X" n="0444b08"/>氏。可斥賣一二。請天寧訥公說法。使我解脫。舍汝家
-        <lb ed="X" n="0444b09"/>而去。孟氏亦復無恙。家人即日馳告師。師至王氏。憑
+        <lb ed="X" n="0444b05"/>金帛之施。歲一出之。槖中無[酉-二+干]蓄。在<placeName key="CN0321081Z14AA">儀真</placeName>時。州民<persName key="unknown">王<lb ed="X" n="0444b06"/>氏</persName>婦病沒。後配<persName key="unknown">孟氏</persName>又病。一日其姑誦經佛室中。聞
+        <lb ed="X" n="0444b07"/>扣壁聲。問之。曰<persName key="unknown">王氏</persName>也。我有遺槖簪珥之屬。盡歸<persName key="unknown">孟<lb ed="X" n="0444b08"/>氏</persName>。可斥賣一二。請<placeName key="CN0321002T10AA">天寧</placeName><persName key="A012839">訥公</persName>說法。使我解脫。舍汝家
+        <lb ed="X" n="0444b09"/>而去。<persName key="unknown">孟氏</persName>亦復無恙。家人即日馳告師。師至<persName key="unknown">王氏</persName>。憑
         <lb ed="X" n="0444b10"/>附一女子立師側。說法竟。懽踴躍跪謝。後數日。現夢
-        <lb ed="X" n="0444b11"/>曰。我已則受後身矣。而孟氏病良已徐。師書其事為
-        <lb ed="X" n="0444b12"/>記。在靈巖時。平江大姓胡氏。設大齋。耆宿皆會。前一
+        <lb ed="X" n="0444b11"/>曰。我已則受後身矣。而<persName key="unknown">孟氏</persName>病良已徐。師書其事為
+        <lb ed="X" n="0444b12"/>記。在<placeName key="CN0320506T01AA">靈巖</placeName>時。<placeName key="CN0320503Z09AA">平江</placeName>大姓<persName key="unknown">胡氏</persName>。設大齋。耆宿皆會。前一
         <lb ed="X" n="0444b13"/>夕。夢人告曰。詰朝。有騎赤馬衣黃褐而至者。辟支佛
-        <lb ed="X" n="0444b14"/>也。黎明物色求之。而師裘馬如夢。胡氏舉室迎拜。一
-        <lb ed="X" n="0444b15"/>坐盡驚。靈岩寺。據絕頂。而井飲不給。葢數百年矣。師
-        <lb ed="X" n="0444b16"/>擇地庀工。伐石鑿井。出泉清甘。人不病汲。今號佛海
-        <lb ed="X" n="0444b17"/>泉云。儀真天寧僧伽一塔。高數百尺。并大輪藏壯麗。
-        <lb ed="X" n="0444b18"/>甲于淮海。皆師所為。孫尚書覿。過而歎曰。公材智不
+        <lb ed="X" n="0444b14"/>也。黎明物色求之。而師裘馬如夢。<persName key="unknown">胡氏</persName>舉室迎拜。一
+        <lb ed="X" n="0444b15"/>坐盡驚。<placeName key="CN0320506T01AA">靈岩寺</placeName>。據絕頂。而井飲不給。葢數百年矣。師
+        <lb ed="X" n="0444b16"/>擇地庀工。伐石鑿井。出泉清甘。人不病汲。今號<placeName key="CN0320506T01AB">佛海<lb ed="X" n="0444b17"/>泉</placeName>云。儀真<placeName key="CN0321002T10AA">天寧</placeName>僧伽一塔。高數百尺。并大輪藏壯麗。
+        <lb ed="X" n="0444b18"/>甲于<placeName key="CN0000000E10AA">淮海</placeName>。皆師所為。<persName key="A018342">孫尚書覿</persName>。過而歎曰。公材智不
         <lb ed="X" n="0444b19"/>下澄。觀時方多故。而隱於浮屠中。可惜也。其後五住
-        <lb ed="X" n="0444b20"/>靈巖。築一室于方丈西偏。孫登訪。題曰五至。留詩而
+        <lb ed="X" n="0444b20"/><placeName key="CN0320506T01AA">靈巖</placeName>。築一室于方丈西偏。<persName key="A018342">孫</persName>登訪。題曰<placeName key="unknown">五至</placeName>。留詩而
         <lb ed="X" n="0444b21"/>別。暨師沒。復銘其塔。致哀慕焉。</p>
 </div>

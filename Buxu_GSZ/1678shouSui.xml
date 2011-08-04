@@ -1,27 +1,23 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0430b08shouSui">
-    <head><lb ed="X" n="0430b08"/>　　　　守遂傳(慶顯附)</head>
-    <p><anchor n="X.77.1524.0430b09"/><lb ed="X" n="0430b09"/>守遂。遂寧蓬溪章氏子。幼不茹葷酒。不好弄。事南麓
-        <lb ed="X" n="0430b10"/>院自慶上人為童子。二十七得度。南游初抵玉泉。見
-        <lb ed="X" n="0430b11"/>懃禪師。懃深器之。命副院事。歲餘走大洪。謁恩禪師。
+    <head><lb ed="X" n="0430b08"/>　　　　<persName key="A000362">守遂</persName>傳(<persName key="A014754">慶顯</persName>附)</head>
+    <p><anchor n="X.77.1524.0430b09"/><lb ed="X" n="0430b09"/><persName key="A000362">守遂</persName>。遂寧<placeName key="CN0510921Z07AA">蓬溪</placeName>章氏子。幼不茹葷酒。不好弄。事<placeName key="unknown">南麓<lb ed="X" n="0430b10"/>院</placeName><persName key="unknown">自慶</persName>上人為童子。<date key="j21220972122461" when-iso="1098">二十七</date>得度。南游初抵<placeName key="unknown">玉泉</placeName>。見
+        <lb ed="X" n="0430b11"/><persName key="unknown">懃禪師</persName>。懃深器之。命副院事。歲餘走<placeName key="unknown">大洪</placeName>。謁<persName key="A011155">恩禪師</persName>。
         <lb ed="X" n="0430b12"/>上方丈纔展坐具。忽一小蟲。飛墮于地。遽引手拂之。
-        <lb ed="X" n="0430b13"/>豁然大悟。恩肯之。俾總院事。說法一本於恩。政和戊
-        <lb ed="X" n="0430b14"/>戌。賜號淨慈。隨州袁公灼。奏師道德堪表率叢林也。
-        <lb ed="X" n="0430b15"/>俄遷水南。靖康丁未。退止德安[山*廣]山之延福院。時海
-        <lb ed="X" n="0430b16"/>內大亂。江淮盜起。所在戒嚴。安守李公濟。慮師所居
-        <lb ed="X" n="0430b17"/>荒。遠命移錫入城。建化城菴居之。賊圍城久。每攻輒
-        <lb ed="X" n="0430b18"/>不利。乃曰。城中有異人。遂引去。鎮撫陳規。聞而歎曰。
-        <lb ed="X" n="0430b19"/>異人誰歟。必吾淨嚴師也。紹興乙卯。宣撫司命居大
-        <lb ed="X" n="0430b20"/>洪。學子望山而歸。極一時之盛。師亦誨人無倦。至丁
-        <lb ed="X" n="0430b21"/>卯三月。示疾而化。師天質溫靖。與物無忤。且奉戒謹。
+        <lb ed="X" n="0430b13"/>豁然大悟。<persName key="A011155">恩</persName>肯之。俾總院事。說法一本於<persName key="A011155">恩</persName>。<date from-iso="1118-01-31" to-iso="1118-12-21" key="j21294312129755">政和戊<lb ed="X" n="0430b14"/>戌</date>。賜號<persName key="A000362">淨慈</persName>。<placeName key="CN0421302Z07AA">隨州</placeName><persName key="unknown">袁公灼</persName>。奏師道德堪表率叢林也。
+        <lb ed="X" n="0430b15"/>俄遷<placeName key="CN0421302A01AA">水南</placeName>。<date from-iso="1127-02-20" to-iso="1127-06-18" key="j21327382132856">靖康丁未</date>。退止德安[山*廣]山之<placeName key="unknown">延福院</placeName>。時海
+        <lb ed="X" n="0430b16"/>內大亂。<placeName key="CN0340001D01AA">江淮</placeName>盜起。所在戒嚴。<placeName key="CN0360426Z06AA">安</placeName>守<persName key="unknown">李公濟</persName>。慮師所居
+        <lb ed="X" n="0430b17"/>荒。遠命移錫入城。建<placeName key="unknown">化城菴</placeName>居之。賊圍城久。每攻輒
+        <lb ed="X" n="0430b18"/>不利。乃曰。城中有異人。遂引去。鎮撫<persName key="unknown">陳規</persName>。聞而歎曰。
+        <lb ed="X" n="0430b19"/>異人誰歟。必吾<persName key="A000362">淨嚴</persName>師也。<date from-iso="1135-01-23" to-iso="1136-02-10" key="j21356322136015">紹興乙卯</date>。宣撫司命居大
+        <lb ed="X" n="0430b20"/>洪。學子望山而歸。極一時之盛。師亦誨人無倦。至<date from-iso="1147-04-09" to-iso="1147-05-08" key="j21400912140120">丁<lb ed="X" n="0430b21"/>卯三月</date>。示疾而化。師天質溫靖。與物無忤。且奉戒謹。
         <lb ed="X" n="0430b22"/>終身不服縑纊。不執財寶。不近玩好。士大夫以為貺。
         <lb ed="X" n="0430b23"/>隨得隨施。慈至蚤虱。不忍棄地。納之衣中。</p><p>
-        <lb ed="X" n="0430b24"/>慶顯。蜀廣安王氏子。誦寶公十二時歌。有省。甞參佛
-        <lb ed="X" n="0430c01"/>性。又見宏智。皆有啟發。而瓣香所表信于人天。獨歸
-        <lb ed="X" n="0430c02"/>淨嚴。葢以淨嚴。鍵槌穩密。所得獨深也。顯性恬淡。于
+            <lb ed="X" n="0430b24"/><persName key="A014754">慶顯</persName>。蜀<placeName key="CN0511602Z18AA">廣安</placeName>王氏子。誦<persName key="A002296">寶公</persName>十二時歌。有省。甞參<persName key="unknown">佛<lb ed="X" n="0430c01"/></persName>性。又見<persName key="A000278">宏智</persName>。皆有啟發。而瓣香所表信于人天。獨歸
+            <lb ed="X" n="0430c02"/><persName key="A000362">淨嚴</persName>。葢以<persName key="A000362">淨嚴</persName>。鍵槌穩密。所得獨深也。<persName key="A014754">顯</persName>性恬淡。于
         <lb ed="X" n="0430c03"/>世念泊然無所起。其視榮名貴勢。等太虗浮雲。倐焉
         <lb ed="X" n="0430c04"/>起滅。不足當一盻。一時名公鉅卿。皆忘勢交之。京西
-        <lb ed="X" n="0430c05"/>帥漕。列道行于朝。當道下省帖起。住大洪。賜號覺照
-        <lb ed="X" n="0430c06"/>慧空佛智明悟大師。大洪一席。恩遂顯三世的承。道
+            <lb ed="X" n="0430c05"/>帥漕。列道行于朝。當道下省帖起。住<placeName key="unknown">大洪</placeName>。賜號覺照
+            <lb ed="X" n="0430c06"/>慧空佛智明悟大師。<placeName key="unknown">大洪</placeName>一席。<persName key="A011155">恩</persName><persName key="A000362">遂</persName><persName key="A014754">顯</persName>三世的承。道
         <lb ed="X" n="0430c07"/>望不少衰。可以觀其家風矣。</p>
 </div>

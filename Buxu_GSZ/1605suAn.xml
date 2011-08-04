@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0398c21suAn">
-    <head><lb ed="X" n="0398c21"/>　　　　素庵法師傳(附兀齋．幻齋二比丘)</head>
-    <p><anchor n="X.77.1524.0398c22"/><lb ed="X" n="0398c22"/>素庵法師。諱某。生於襄陽鍾氏。壯歲棄儒。遍訪知識。
-        <lb ed="X" n="0398c23"/>至南陽留山寺。禮泯庵休公落髮。瓢然一鉢。歷伏牛
-        <lb ed="X" n="0398c24"/>清凉受具。依秀法師。習經論凡十一載。精其業。南禮
-        <lb ed="X" n="0399a01"/>普陀。過白下。白下名流。針芥自合。以攝山講席留師。
+    <head><lb ed="X" n="0398c21"/>　　　　<persName key="A008316">素庵</persName>法師傳(附<persName key="A015832">兀齋</persName>．<persName key="A015839">幻齋</persName>二比丘)</head>
+    <p><anchor n="X.77.1524.0398c22"/><lb ed="X" n="0398c22"/><persName key="A008316">素庵</persName>法師。諱某。生於<placeName key="CN0420606Z02AA">襄陽</placeName>鍾氏。壯歲棄儒。遍訪知識。
+        <lb ed="X" n="0398c23"/>至南陽留山寺。禮<persName key="A008318">泯庵休</persName>公落髮。瓢然一鉢。歷<placeName key="CN0411300M01AA">伏牛</placeName>
+        <lb ed="X" n="0398c24"/><placeName key="CN0140900M01AA">清凉</placeName>受具。依<persName key="A008319">秀</persName>法師。習經論凡十一載。精其業。南禮
+        <lb ed="X" n="0399a01"/><placeName key="CN0330903M01AA">普陀</placeName>。過<placeName key="CN0320105Z10AA">白下</placeName>。<placeName key="CN0320105Z10AA">白下</placeName>名流。針芥自合。以<placeName key="CN0320113T01AA">攝山</placeName>講席留師。
         <lb ed="X" n="0399a02"/>道聲大振。師亦樂茲山幽[穴/逐]。遂誅茆築室。棲遲十年。
-        <lb ed="X" n="0399a03"/>一日扶杖將行。留偈淨業堂云。自入棲霞已十年。東
+        <lb ed="X" n="0399a03"/>一日扶杖將行。留偈<placeName key="CN0320113T01AC">淨業堂</placeName>云。自入<placeName key="CN0320113T01AA">棲霞</placeName>已十年。東
         <lb ed="X" n="0399a04"/>修西補未曾閒。掀翻瓦礫成禪院。除剪荊榛作菜園。
         <lb ed="X" n="0399a05"/>每煉蔬羮供海眾。恒宜大教繼先賢。如斯弗為兒孫
         <lb ed="X" n="0399a06"/>業。留與同袍萬古傳。其氣韻可想矣。已而為眾復留。
@@ -14,39 +14,34 @@
         <lb ed="X" n="0399a08"/>如鐘。生平履踐。如氷雪。隨所酧應。春溫日旭。人自意
         <lb ed="X" n="0399a09"/>消。說法直截簡易。不為峻語。而格頑導愚。遠近欽悅。
         <lb ed="X" n="0399a10"/>凡講華嚴大鈔法華楞嚴諸大乘經論。各若干座。以
-        <lb ed="X" n="0399a11"/>萬曆癸巳十一月十三日後夜。端坐念佛而逝。三日
+        <lb ed="X" n="0399a11"/><date when-iso="1593-12-05" key="j23032302303230">萬曆癸巳十一月十三日</date>後夜。端坐念佛而逝。三日
         <lb ed="X" n="0399a12"/>中夜。火滿山。若列炬。閱世七十五。法臘五十。師生平
-        <lb ed="X" n="0399a13"/>瑞跡甚多。初至攝山演華嚴。至入法界品。塔放五色
-        <lb ed="X" n="0399a14"/>光。又一日講法華。至寶塔品。見空中光相儼然。汪司
-        <lb ed="X" n="0399a15"/>馬道昆。為作銘記。司馬公兩舉無遮大會。於新安焦
-        <lb ed="X" n="0399a16"/>山。見異人數十曹。伏師前以脫苦謝。司馬親見之。丙
-        <lb ed="X" n="0399a17"/>戌大饑。僧眾絕食。而蕪陰郝氏。裹百斛米至。初登殿
-        <lb ed="X" n="0399a18"/>禮佛。驚謂曰。是夢中教我賑米佛也。辛卯冬。講法華
+        <lb ed="X" n="0399a13"/>瑞跡甚多。初至<placeName key="CN0320113T01AA">攝山</placeName>演華嚴。至入法界品。塔放五色
+        <lb ed="X" n="0399a14"/>光。又一日講法華。至寶塔品。見空中光相儼然。<persName key="A007641">汪司<lb ed="X" n="0399a15"/>馬道昆</persName>。為作銘記。司馬公兩舉無遮大會。於新安焦
+        <lb ed="X" n="0399a16"/>山。見異人數十曹。伏師前以脫苦謝。<persName key="A007641">司馬</persName>親見之。<date from-iso="1586-02-18" to-iso="1587-02-06" key="j23003832300736">丙<lb ed="X" n="0399a17"/>戌</date>大饑。僧眾絕食。而蕪陰郝氏。裹百斛米至。初登殿
+        <lb ed="X" n="0399a18"/>禮佛。驚謂曰。是夢中教我賑米佛也。<date from-iso="1591-11-16" to-iso="1592-02-12" key="j23024802302568">辛卯冬</date>。講法華
         <lb ed="X" n="0399a19"/>於婁東之淮雲。至地湧品。毫光繚繞法座下。經久不
-        <lb ed="X" n="0399a20"/>散。應蕪湖講。期度江。風浪大作。師呪觀音力。應聲寂
+        <lb ed="X" n="0399a20"/>散。應<placeName key="CN0340202Z02AA">蕪湖</placeName>講。期度江。風浪大作。師呪觀音力。應聲寂
         <lb ed="X" n="0399a21"/>然。其他毛舉未易悉數。</p><p>
-        <lb ed="X" n="0399a22"/>兀齋．幻齋二比丘。俱出襄陰鍾氏。為同祖兄弟。同師
-        <lb ed="X" n="0399a23"/>素庵法師。稱高足。兀齋。名如慧。法師與慧。在俗父子
-        <lb ed="X" n="0399a24"/>也。母汪腹之時。師已入留山矣。慧生三歷不語。一日
+            <lb ed="X" n="0399a22"/><persName key="A015832">兀齋</persName>．<persName key="A015839">幻齋</persName>二比丘。俱出<placeName key="CN0420606Z02AA">襄陰</placeName>鍾氏。為同祖兄弟。同師
+            <lb ed="X" n="0399a23"/><persName key="A008316">素庵</persName>法師。稱高足。<persName key="A015832">兀齋</persName>。名<persName key="A015832">如慧</persName>。法師與<persName key="A015832">慧</persName>。在俗父子
+            <lb ed="X" n="0399a24"/>也。母<persName key="A020238">汪</persName>腹之時。師已入留山矣。<date key="j22846292284993" when-iso="1543"><persName key="A015832">慧</persName>生</date>三歷不語。一日
         <lb ed="X" n="0399b01"/>父歸省其祖。一見喜曰。我父子同出家去。家人異之。
-        <lb ed="X" n="0399b02"/>五歲失母。養於伯母江。即幻齋之母也。慧。幼習世典
-        <lb ed="X" n="0399b03"/>通大意。會法師集講京師。因來省。遂祝髮座下。時十
-        <lb ed="X" n="0399b04"/>三歲。初聽楞嚴。至徵心辯見會五陰三科處。愕然自
+            <lb ed="X" n="0399b02"/><date key="j22860902286454" when-iso="1547">五歲</date>失母。養於伯母<persName key="A020239">江</persName>。即<persName key="A015839">幻齋</persName>之母也。<persName key="A015832">慧</persName>。幼習世典
+            <lb ed="X" n="0399b03"/>通大意。會法師集講<placeName key="CN0110102Z07AA">京師</placeName>。因來省。遂祝髮座下。時<date key="j22890122289376" when-iso="1555">十<lb ed="X" n="0399b04"/>三歲</date>。初聽楞嚴。至徵心辯見會五陰三科處。愕然自
         <lb ed="X" n="0399b05"/>失。乃登壇受具。晝夜六時。除聽講外。即跏趺習定。兀
-        <lb ed="X" n="0399b06"/>然如槁木者三年。同學呼為兀齋。一日定中。見大光
+            <lb ed="X" n="0399b06"/>然如槁木者三年。同學呼為<persName key="A015832">兀齋</persName>。一日定中。見大光
         <lb ed="X" n="0399b07"/>明身等虗空。自是掩關不語。妙悟益發。內外典籍。寓
             <lb ed="X" n="0399b08"/>目即了。無滯義矣。</p><p>
-        <lb ed="X" n="0399b09"/>幻齋。名如念。為人溫厚老成。嗜學經論如渴。二人同
-        <lb ed="X" n="0399b10"/>心執侍。如阿難難陀。以故栖霞法席。為江南最。二公
+                <lb ed="X" n="0399b09"/><persName key="A015839">幻齋</persName>。名<persName key="A015839">如念</persName>。為人溫厚老成。嗜學經論如渴。二人同
+                <lb ed="X" n="0399b10"/>心執侍。如<persName key="A003861">阿難</persName><persName key="A003861">難陀</persName>。以故<placeName key="CN0320113T01AA">栖霞</placeName>法席。為<placeName key="CN0000007D01AA">江南</placeName>最。二公
         <lb ed="X" n="0399b11"/>俱善達觀老人。觀方佩南宗心印。勘辯諸方。而二公
-        <lb ed="X" n="0399b12"/>與之出入議論。時蒙許可。其人可知矣。丙戌十一月
-        <lb ed="X" n="0399b13"/>初七日。慧忻然謂弟子曰。我願畢將去矣。遂七日不
-        <lb ed="X" n="0399b14"/>食。而精神挺然。至十三日。端坐將逝。弟子請曰。着甚
-        <lb ed="X" n="0399b15"/>麼衣好。曰。不干他。遂逝。其夕。觀師在京之潭柘。夢慧
+                <lb ed="X" n="0399b12"/>與之出入議論。時蒙許可。其人可知矣。<date when-iso="1586-12-16" key="j23006842300684">丙戌十一月<lb ed="X" n="0399b13"/>初七日</date>。<persName key="A015832">慧</persName>忻然謂弟子曰。我願畢將去矣。遂七日不
+                <lb ed="X" n="0399b14"/>食。而精神挺然。至<date when-iso="1586-12-22" key="j23006902300690">十三日</date>。端坐將逝。弟子請曰。着甚
+                <lb ed="X" n="0399b15"/>麼衣好。曰。不干他。遂逝。其夕。觀師在京之<placeName key="CN0110109T02AA">潭柘</placeName>。夢<persName key="A015832">慧</persName>
         <lb ed="X" n="0399b16"/>掉臂西行而無侶。呼之不答。訃至。方騐其異。又三年
-        <lb ed="X" n="0399b17"/>戊子十一月十三日。慧方大祥。而念忽歎曰。我更十
-        <lb ed="X" n="0399b18"/>日逝矣。至期果逝。與慧同塔龍化庵後。慧。世壽四十
-        <lb ed="X" n="0399b19"/>四。僧臘三十二。念。世壽三十八。僧臘二十五。方今叢
+                <lb ed="X" n="0399b17"/><date when-iso="1588-12-30" key="j23014292301429">戊子十一月十三日</date>。<persName key="A015832">慧</persName>方大祥。而<persName key="A015839">念</persName>忽歎曰。我更<date when-iso="1588-12-31" key="j23014302301430">十<lb ed="X" n="0399b18"/>日</date>逝矣。至期果逝。與<persName key="A015832">慧</persName>同塔龍化庵後。<persName key="A015832">慧</persName>。世壽四十
+                <lb ed="X" n="0399b19"/>四。僧臘三十二。<persName key="A015839">念</persName>。世壽三十八。僧臘二十五。方今叢
         <lb ed="X" n="0399b20"/>林衰替。二公俱精進光明幢。使不奪其年。庶幾為大
         <lb ed="X" n="0399b21"/>法棟梁。而竟為報緣所局。未終下壽。遂棄人天。傷哉。</p>
 </div>

@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0382a12zongTan">
     <head><lb ed="X" n="0382a12"/>　　　　<persName key="A017133">宗坦</persName>傳</head>
-    <p><anchor n="X.77.1524.0382a13"/><lb ed="X" n="0382a13"/><persName key="A017133">宗坦</persName>。襄陽<placeName key="CN0420600A08AA">黎城</placeName>人。出家於延祥院。事道恭為師。圓具
+    <p><anchor n="X.77.1524.0382a13"/><lb ed="X" n="0382a13"/><persName key="A017133">宗坦</persName>。襄陽<placeName key="CN0140426Z07AA">黎城</placeName><!-- 潞州非襄陽(X62n1172_p0088c04、T47n1973_p0325c19) -->人。出家於<placeName key="CN0140400T01AA">延祥院</placeName>。事<persName key="A020244">道恭</persName>為師。圓具
         <lb ed="X" n="0382a14"/>後。遍遊講肆。通經論。為時所稱。於圓覺十六觀等經。
         <lb ed="X" n="0382a15"/>皆具疏釋。由是五十年。以圓頓作門。夜禪晝講。開發
-        <lb ed="X" n="0382a16"/>良多。晚年駐錫<placeName key="CN0420606Z05AA">襄陽</placeName>。專修淨土。時說淨土觀門。曉示
+        <lb ed="X" n="0382a16"/>良多。晚年駐錫<placeName key="CN0420606Z05AA">襄陽</placeName>。專修淨土。時說<placeName key="XZ0000033A01AA">淨土</placeName>觀門。曉示
         <lb ed="X" n="0382a17"/>里俗。聽者如雲。又於唐州<placeName key="CN0411327Z03AA">青臺</placeName>。閉關習觀。日益勤至。
         <lb ed="X" n="0382a18"/>三業四儀。未甞暫忘。大都師之化人。人之從師化。皆
         <lb ed="X" n="0382a19"/>視力行。非徒言說耳。<date when-iso="1114-06-09" key="j21280992128099">政和四年四月二十七日</date>。忽佛
@@ -12,4 +12,36 @@
         <lb ed="X" n="0382a21"/>不豫。猶唱警[竺-二+束]。至<date when-iso="1114-06-15" key="j21281052128105">五月初四日</date>。聲鐘告眾曰。勝緣在
         <lb ed="X" n="0382a22"/>邇。惟憑時刻。幸大眾念佛助往。俄而雷鳴。白雲覆庵。
         <lb ed="X" n="0382a23"/>作兜羅綿狀。寂然而逝。異香三日始歇。</p>
+    
+    <linkGrp>
+        <link targets="#0382a13 #0382a13"/>
+        <ptr target="#A017133" type="person"/>
+        <ptr target="#CN0140426Z07AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0382a13 #0382a13"/>
+        <ptr target="#A017133" type="person"/>
+        <ptr target="#A020244" type="person"/>
+        <ptr target="#CN0140400T01AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0382a16 #0382a17"/>
+        <ptr target="#A017133" type="person"/>
+        <ptr target="#CN0420606Z05AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0382a17 #0382a18"/>
+        <ptr target="#A017133" type="person"/>
+        <ptr target="#CN0411327Z03AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0382a19 #0382a20"/>
+        <ptr target="#A017133" type="person"/>
+        <ptr target="#j21280992128099" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0382a21 #0382a23"/>
+        <ptr target="#A017133" type="person"/>
+        <ptr target="#j21281052128105" type="time"/>
+    </linkGrp>
 </div>

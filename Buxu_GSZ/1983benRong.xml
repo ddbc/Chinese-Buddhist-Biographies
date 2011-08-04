@@ -1,13 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0538b04benRong">
-    <head><lb ed="X" n="0538b04"/>　　　　三藏師傳</head>
-    <p><anchor n="X.77.1524.0538b05"/><lb ed="X" n="0538b05"/>本融。陝西郿縣人。薙染。參懷慶松谷和尚。又參隱菴
-        <lb ed="X" n="0538b06"/>於大佛山。大千主少林。師預其眾。一鉢隨身。不擾甞
-        <lb ed="X" n="0538b07"/>住。千異之。付以帕不受。住達磨洞。四十餘年。萬曆丁
-        <lb ed="X" n="0538b08"/>亥。抵京師。住龍華寺山門。風雨炎寒自若。又居積善
-        <lb ed="X" n="0538b09"/>寺。廊房長老。見師勤苦蚤夜不息。特為造一龕。請居
-        <lb ed="X" n="0538b10"/>之。繼開十方院奉師。接雲水凡十有三年。信施雲委。
-        <lb ed="X" n="0538b11"/>而因果之間。毫無差錯。最後住世剎海。隨緣接眾。持
+    <head><lb ed="X" n="0538b04"/>　　　　<persName key="A015819">三藏師</persName>傳</head>
+    <p><anchor n="X.77.1524.0538b05"/><lb ed="X" n="0538b05"/><persName key="A015819">本融</persName>。陝西<placeName key="CN0610326Z06AA">郿縣</placeName>人。薙染。參<placeName key="CN0410882Z11AA">懷慶</placeName><persName key="A015814">松谷</persName>和尚。又參<persName key="A020507">隱菴</persName>
+        <lb ed="X" n="0538b06"/>於<placeName key="unknown">大佛山</placeName>。<persName key="A015790">大千</persName>主<placeName key="CN0410185T01AA">少林</placeName>。師預其眾。一鉢隨身。不擾甞
+        <lb ed="X" n="0538b07"/>住。<persName key="A015790">千</persName>異之。付以帕不受。住<placeName key="unknown">達磨洞</placeName>。四十餘年。<date from-iso="1587-02-07" to-iso="1588-01-27" key="j23007372301091">萬曆丁<lb ed="X" n="0538b08"/>亥</date>。抵<placeName key="CN0110102Z07AA">京師</placeName>。住龍華寺<placeName key="unknown">山門</placeName>。風雨炎寒自若。又居<placeName key="unknown">積善<lb ed="X" n="0538b09"/>寺</placeName>。廊房長老。見師勤苦蚤夜不息。特為造一龕。請居
+        <lb ed="X" n="0538b10"/>之。繼開<placeName key="CN0110102T14AA">十方院</placeName>奉師。接雲水凡十有三年。信施雲委。
+        <lb ed="X" n="0538b11"/>而因果之間。毫無差錯。最後住<placeName key="unknown">世剎海</placeName>。隨緣接眾。持
         <lb ed="X" n="0538b12"/>妙法華經為甞課。密行甚至。生平脇不至席。食不過
         <lb ed="X" n="0538b13"/>午。不飯於甞住。持鉢行乞村市間。如已得食則鉢內
         <lb ed="X" n="0538b14"/>向。未得食鉢外向。人以是覘知師食否。而分衛之。每
@@ -17,16 +15,13 @@
         <lb ed="X" n="0538b18"/>中大德。不諳諷誦。有就寺飯僧者。付貲過。即日營辦
         <lb ed="X" n="0538b19"/>米鹽蔬果。設不移時。作務以身先眾。食飲旨菲。隨其
         <lb ed="X" n="0538b20"/>所有不強為。生平絕不以修造煩人。曰。勞生旅泊。住
-        <lb ed="X" n="0538b21"/>則隨緣。去則忘矣。何事華美。以累身心耶。　慈聖。甞
+        <lb ed="X" n="0538b21"/>則隨緣。去則忘矣。何事華美。以累身心耶。　<persName key="A007207">慈聖</persName>。甞
         <lb ed="X" n="0538b22"/>為諸大僧設齋。每僧襯五金一疋絹旃檀滿觔。師堅
-        <lb ed="X" n="0538b23"/>不肯赴。中貴人不得已舁至院。師乃與眾同飡。萬曆
-        <lb ed="X" n="0538b24"/>壬寅初臘。師示微疾。侍御蕭公問之。師竪一指。即日
+        <lb ed="X" n="0538b23"/>不肯赴。中貴人不得已舁至院。師乃與眾同飡。<date from-iso="1602-01-23" to-iso="1603-02-10" key="j23062012306584">萬曆<lb ed="X" n="0538b24"/>壬寅</date>初臘。師示微疾。侍御<persName key="unknown">蕭公</persName>問之。師竪一指。即日
         <lb ed="X" n="0538c01"/>午。端坐而逝。茶毗。頂骨如芡實大。烟入地處。掘之皆
-        <lb ed="X" n="0538c02"/>得舍利。初。張劉二內監。共捨住宅。為世剎海。師住此
-        <lb ed="X" n="0538c03"/>食指甞逾千。當是時。曹郎郭家珍。王玄謨。蕭丁泰。鮑
-        <lb ed="X" n="0538c04"/>應鰲。給舍段然。俱欽師道風。敬仰尊重。段公甞詣師。
-        <lb ed="X" n="0538c05"/>師曰。居士坐久饑。當煑麫作供。段曰。久嚮老師。大麫
+        <lb ed="X" n="0538c02"/>得舍利。初。<persName key="unknown">張</persName><persName key="unknown">劉</persName>二內監。共捨住宅。為<placeName key="unknown">世剎海</placeName>。師住此
+        <lb ed="X" n="0538c03"/>食指甞逾千。當是時。<persName key="unknown">曹郎</persName>。<persName key="unknown">郭家珍</persName>。<persName key="unknown">王玄謨</persName>。<persName key="unknown">蕭丁泰</persName>。<persName key="unknown">鮑<lb ed="X" n="0538c04"/>應鰲</persName>。給舍<persName key="unknown">段然</persName>。俱欽師道風。敬仰尊重。<persName key="unknown">段</persName>公甞詣師。
+        <lb ed="X" n="0538c05"/>師曰。居士坐久饑。當煑麫作供。<persName key="unknown">段</persName>曰。久嚮老師。大麫
         <lb ed="X" n="0538c06"/>特來。甞甞滋味。師厲聲曰。麫許你喫。却恐你吞吐不
-        <lb ed="X" n="0538c07"/>下。段為之吐舌。其門風高峻如此。京師人。稱師三藏
-        <lb ed="X" n="0538c08"/>師。多應是其號也。</p>
+        <lb ed="X" n="0538c07"/>下。<persName key="unknown">段</persName>為之吐舌。其門風高峻如此。<placeName key="CN0110102Z07AA">京師</placeName>人。稱師<persName key="A015819">三藏<lb ed="X" n="0538c08"/>師</persName>。多應是其號也。</p>
 </div>

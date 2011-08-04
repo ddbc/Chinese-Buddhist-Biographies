@@ -1,24 +1,21 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0445c04wenEr">
-    <head><lb ed="X" n="0445c04"/>　　　　文爾傳</head>
-    <p><anchor n="X.77.1524.0445c05"/><lb ed="X" n="0445c05"/>文爾。福州長溪人。姓李氏。十一辭親出家。十六為僧。
-        <lb ed="X" n="0445c06"/>十七受戒。十八裹足游禪會。參月菴果公。無所入。忘
+    <head><lb ed="X" n="0445c04"/>　　　　<persName key="A014761">文爾</persName>傳</head>
+    <p><anchor n="X.77.1524.0445c05"/><lb ed="X" n="0445c05"/><persName key="A014761">文爾</persName>。福州<placeName key="CN0350921Z10AA">長溪</placeName>人。姓李氏。<date key="j21275752127939" when-iso="1113">十一</date>辭親出家。<date key="j21294012129765" when-iso="1118">十六</date>為僧。
+        <lb ed="X" n="0445c06"/><date key="j21297662130130" when-iso="1119">十七</date>受戒。<date key="j21301312130496" when-iso="1120">十八</date>裹足游禪會。參<persName key="A001334">月菴果</persName>公。無所入。忘
         <lb ed="X" n="0445c07"/>寢與食。瘡痏徧體。抱膝危坐。每聞五更鐘聲。輒駭汗
-        <lb ed="X" n="0445c08"/>曰。又過一日矣。後因觸物有省。入為侍者數年。游廬
-        <lb ed="X" n="0445c09"/>陵。為眾迫請。住吉水清凉院。徙興國之梵山。寧都之
-        <lb ed="X" n="0445c10"/>桃林。紹興二十一年。郡守李子揚。初至。嚴峭寡與。獨
-        <lb ed="X" n="0445c11"/>有契於師。迎住報恩。報恩望剎。棟宇久隳。法席不振。
-        <lb ed="X" n="0445c12"/>贛民貲少嗇施。師接以誠慤。咸竭其力。堂搆像設次
+        <lb ed="X" n="0445c08"/>曰。又過一日矣。後因觸物有省。入為侍者數年。游<placeName key="CN0360802Z08AA">廬<lb ed="X" n="0445c09"/>陵</placeName>。為眾迫請。住吉水<placeName key="unknown">清凉院</placeName>。徙興國之<placeName key="unknown">梵山</placeName>。寧都之
+        <lb ed="X" n="0445c10"/><placeName key="unknown">桃林</placeName>。<date from-iso="1151-01-27" to-iso="1152-02-14" key="j21414802141863">紹興二十一年</date>。郡守<persName key="unknown">李子揚</persName>。初至。嚴峭寡與。獨
+        <lb ed="X" n="0445c11"/>有契於師。迎住<placeName key="unknown">報恩</placeName>。<placeName key="unknown">報恩</placeName>望剎。棟宇久隳。法席不振。
+        <lb ed="X" n="0445c12"/><placeName key="CN0360702Z07AA">贛</placeName>民貲少嗇施。師接以誠慤。咸竭其力。堂搆像設次
         <lb ed="X" n="0445c13"/>第一新。叢林成矣。會齊述嬰城叛。緇素宵潰。師曰。我
         <lb ed="X" n="0445c14"/>去寺必墟。止不動。閱百二十日。賊欲屢縱火加害。師
         <lb ed="X" n="0445c15"/>隨機解免。舍匿士庶千計。皆賴以全。居十年。引疾求
-        <lb ed="X" n="0445c16"/>去。遂移慶雲。地僻而用足。異時主者。自殖而已。師至。
+        <lb ed="X" n="0445c16"/>去。遂移<placeName key="unknown">慶雲</placeName>。地僻而用足。異時主者。自殖而已。師至。
         <lb ed="X" n="0445c17"/>改造三門。規創殿宇。理事兼舉。老而彌篤。一日與門
-        <lb ed="X" n="0445c18"/>人行西圃。指尋丈曰。此存以待我。未幾坐亡。實乾道
-        <lb ed="X" n="0445c19"/>二年冬也。報齡四十六。坐三十一夏。門人葬師所示
-        <lb ed="X" n="0445c20"/>之地。丞相周必大。為石上之文。謂師住報恩時。妙喜
-        <lb ed="X" n="0445c21"/>杲公。與無垢張公。同時北歸。士大夫日往參請。師初
-        <lb ed="X" n="0445c22"/>無言說。妙喜獨謂無垢。是人所得端實。不可忽也。予
+        <lb ed="X" n="0445c18"/>人行<placeName key="unknown">西圃</placeName>。指尋丈曰。此存以待我。未幾坐亡。實<date from-iso="1166-11-02" to-iso="1167-01-29" key="j21472382147326">乾道<lb ed="X" n="0445c19"/>二年冬</date>也。報齡四十六。坐三十一夏。門人葬師所示
+        <lb ed="X" n="0445c20"/>之地。丞相<persName key="A007177">周必大</persName>。為石上之文。謂師住<placeName key="unknown">報恩</placeName>時。<persName key="A000475">妙喜<lb ed="X" n="0445c21"/>杲</persName>公。與<persName key="A007553">無垢張</persName>公。同時北歸。士大夫日往參請。師初
+        <lb ed="X" n="0445c22"/>無言說。<persName key="A000475">妙喜</persName>獨謂<persName key="A007553">無垢</persName>。是人所得端實。不可忽也。予
         <lb ed="X" n="0445c23"/>聞斯語。然後知師。故以鈍為利者。自是益思與之游。
         <lb ed="X" n="0445c24"/>而宦牒推移。會合之日殊少。去冬。師有過予意。方報
         <lb ed="X" n="0446a01"/>有書。而師沒矣。其為時賢歆慕。如此。</p>

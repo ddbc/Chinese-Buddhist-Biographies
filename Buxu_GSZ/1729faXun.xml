@@ -1,19 +1,16 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0448c08faXun">
-    <head><lb ed="X" n="0448c08"/>　　　　石田薰禪師傳</head>
-    <p><anchor n="X.77.1524.0448c09"/><lb ed="X" n="0448c09"/>法薰。號石田。眉公彭氏子也。生而慧敏。三四歲時。見
-        <lb ed="X" n="0448c10"/>僧即喜。年十六從丹稜石龍山法寶院智明出家。二
-        <lb ed="X" n="0448c11"/>十二薙髮受具戒。游方至石霜。禮雷遷塔。述偈曰。一
+    <head><lb ed="X" n="0448c08"/>　　　　<persName key="A008260">石田薰</persName>禪師傳</head>
+    <p><anchor n="X.77.1524.0448c09"/><lb ed="X" n="0448c09"/><persName key="A008260">法薰</persName>。號<persName key="A008260">石田</persName>。<placeName key="CN0511402Z03AA">眉公</placeName>彭氏子也。生而慧敏。<date from-iso="1173-01-01" to-iso="1174-12-31" key="j21494902150219">三四歲時</date>。見
+        <lb ed="X" n="0448c10"/>僧即喜。<date key="j21542382154602" when-iso="1186">年十六</date>從丹稜石龍山<placeName key="unknown">法寶院</placeName><persName key="unknown">智明</persName>出家。<date key="j21564292156794" when-iso="1192">二<lb ed="X" n="0448c11"/>十二</date>薙髮受具戒。游方至<placeName key="CN0430181M02AA">石霜</placeName>。禮<placeName key="unknown">雷遷塔</placeName>。述偈曰。一
         <lb ed="X" n="0448c12"/>念慈容元不隔。何須特地肆乖張。平高就下婆心切。
-        <lb ed="X" n="0448c13"/>惱得雷公一夜忙。薰名因是大著。聞吳門穹窿破菴
-        <lb ed="X" n="0448c14"/>先禪師道望。遂往依焉。一見知為法器。室中舉世尊
-        <lb ed="X" n="0448c15"/>拈華迦葉微笑。薰云。焦磚打著連底凍。赤眼撞著火
-        <lb ed="X" n="0448c16"/>柴頭。破菴陰奇之。每於日用語默。故起其疑。薰於是
-        <lb ed="X" n="0448c17"/>决志。依栖隨時咨詢。與無準範。日相激勵。後見松源
-        <lb ed="X" n="0448c18"/>岳。肯堂充。遯菴演。咸謂。其從作家爐韛中來。自不同
-        <lb ed="X" n="0448c19"/>也。初住蘇州之高峯。次遷楓橋。鍾山虗席。亦補其處。
-        <lb ed="X" n="0448c20"/>寶慶初。遷淨慈。端平二年。遷靈隱。淳祐甲辰三月望。
-        <lb ed="X" n="0448c21"/>示徒云。但得本莫愁末。喚甚麼作本。喚甚麼作末。松
+        <lb ed="X" n="0448c13"/>惱得雷公一夜忙。<persName key="A008260">薰</persName>名因是大著。聞吳門<placeName key="CN0320506M06AA">穹窿</placeName><persName key="A004696">破菴<lb ed="X" n="0448c14"/>先</persName>禪師道望。遂往依焉。一見知為法器。室中舉<persName key="A002799">世尊</persName>
+        <lb ed="X" n="0448c15"/>拈華<persName key="A002188">迦葉</persName>微笑。<persName key="A008260">薰</persName>云。焦磚打著連底凍。赤眼撞著火
+        <lb ed="X" n="0448c16"/>柴頭。<persName key="A004696">破菴</persName>陰奇之。每於日用語默。故起其疑。<persName key="A008260">薰</persName>於是
+        <lb ed="X" n="0448c17"/>决志。依栖隨時咨詢。與<persName key="A004697">無準範</persName>。日相激勵。後見<persName key="A001037">松源<lb ed="X" n="0448c18"/>岳</persName>。<persName key="A008735">肯堂充</persName>。<persName key="A008055">遯菴演</persName>。咸謂。其從作家爐韛中來。自不同
+        <lb ed="X" n="0448c19"/>也。初住蘇州之<placeName key="unknown">高峯</placeName>。次遷<placeName key="CN0320504T08AA">楓橋</placeName>。<placeName key="CN0320102M02AA">鍾山</placeName>虗席。亦補其處。
+        <lb ed="X" n="0448c20"/><date from-iso="1225-02-16" to-iso="1226-02-05" key="j21685292168883">寶慶初</date>。遷<placeName key="CN0330106T54AA">淨慈</placeName>。<date from-iso="1235-01-28" to-iso="1236-02-15" key="j21721622172545">端平二年</date>。遷<placeName key="CN0330106T01AA">靈隱</placeName>。<date from-iso="1244-04-16" to-iso="1244-05-15" key="j21755282175557">淳祐甲辰三月</date>。
+        <lb ed="X" n="0448c21"/>望示徒云。但得本莫愁末。喚甚麼作本。喚甚麼作末。松
         <lb ed="X" n="0448c22"/>栢千年青。不入時人意。牡丹一日紅。滿城公子醉。山
         <lb ed="X" n="0448c23"/>僧恁麼道。若有不肯底是我同參。弟子繪像求贊。有
         <lb ed="X" n="0448c24"/>云。末後一句。分付廚山。眾訝之。明日示疾而逝。</p>

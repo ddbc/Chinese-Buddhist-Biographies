@@ -1,39 +1,38 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0479b20shiWei">
-    <head><lb ed="X" n="0479b20"/>　　　　萬峰蔚禪師傳</head>
-    <p><anchor n="X.77.1524.0479b21"/><lb ed="X" n="0479b21"/>時蔚。字萬峰。溫州樂清金氏子。生而室有光。母懼欲
+    <head><lb ed="X" n="0479b20"/>　　　　<persName key="A000933">萬峰蔚</persName>禪師傳</head>
+    <p><anchor n="X.77.1524.0479b21"/><lb ed="X" n="0479b21"/><persName key="A000933">時蔚</persName>。字<persName key="A000933">萬峰</persName>。溫州<placeName key="CN0330382Z06AA">樂清</placeName>金氏子。生而室有光。母懼欲
         <lb ed="X" n="0479b22"/>弗舉。其姑保而育之。襁抱中。見僧輙微笑。作合掌態。
-        <lb ed="X" n="0479b23"/>年十一讀法華有省。入杭受具戒。謁止巖禪老於虎
-        <lb ed="X" n="0479b24"/>跑俾參南泉三不是。迷悶無所入。抵明州達蓬山。卓
-        <lb ed="X" n="0479c01"/>菴。佛跡古址。力究至忘寢食。一日聞寺主宗律師。舉
-        <lb ed="X" n="0479c02"/>溈山踢倒淨瓶話。忽大悟。偈曰。顛顛倒倒老南泉。累
+        <lb ed="X" n="0479b23"/><date key="j22006242200988" when-iso="1313">年十一</date>讀法華有省。入<placeName key="CN0330103Z01AA">杭</placeName>受具戒。謁<persName key="unknown">止巖</persName>禪老於<placeName key="CN0330106T24AA">虎<lb ed="X" n="0479b24"/>跑</placeName>俾參<persName key="A003889">南泉</persName>三不是。迷悶無所入。抵明州<placeName key="unknown">達蓬山</placeName>。卓
+        <lb ed="X" n="0479c01"/>菴。佛跡古址。力究至忘寢食。一日聞寺主<persName key="unknown">宗律師</persName>。舉
+        <lb ed="X" n="0479c02"/><persName key="A001984">溈山</persName>踢倒淨瓶話。忽大悟。偈曰。顛顛倒倒老南泉。累
         <lb ed="X" n="0479c03"/>我功夫却半年。當下若能親薦得。如何不進劈胸拳。
-        <lb ed="X" n="0479c04"/>走虎跑呈悟。復之華頂。謁無見求決擇。見。深肯之。囑
-        <lb ed="X" n="0479c05"/>曰。爾年小且居山去。蔚仍還達蓬。單丁十歷寒暑。時
-        <lb ed="X" n="0479c06"/>千巖長禪師。住伏龍山。道望昭著。蔚提包謁之。相見
-        <lb ed="X" n="0479c07"/>如舊識。慧辯風馳。如天馬行空。不可控馭。巖亦極盡
-        <lb ed="X" n="0479c08"/>鉗槌之妙。知其已徹。顧謂昭首座曰。蔚山主。頗有衲
-        <lb ed="X" n="0479c09"/>僧氣象。煩請歸堂。尋為第一座。一日巖陞堂。舉無風
-        <lb ed="X" n="0479c10"/>荷葉動。一定有魚行。語未畢。蔚出眾。震聲一喝。拂袖
-        <lb ed="X" n="0479c11"/>便行。巖示以偈。有一喝西江水逆流之句。既而別巖。
-        <lb ed="X" n="0479c12"/>住靜嵩山。又一紀。巖前後為手書招之者三。所以愛
+        <lb ed="X" n="0479c04"/>走<placeName key="CN0330106T24AA">虎跑</placeName>呈悟。復之<placeName key="CN0331023T41AA">華頂</placeName>。謁<persName key="A000325">無見</persName>求決擇。<persName key="A000325">見</persName>。深肯之。囑
+        <lb ed="X" n="0479c05"/>曰。爾年小且居山去。<persName key="A000933">蔚</persName>仍還<placeName key="unknown">達蓬</placeName>。單丁十歷寒暑。時
+        <lb ed="X" n="0479c06"/><persName key="A004551">千巖長</persName>禪師。住<placeName key="unknown">伏龍山</placeName>。道望昭著。蔚提包謁之。相見
+        <lb ed="X" n="0479c07"/>如舊識。慧辯風馳。如天馬行空。不可控馭。<persName key="A004551">巖</persName>亦極盡
+        <lb ed="X" n="0479c08"/>鉗槌之妙。知其已徹。顧謂<persName key="unknown">昭首座</persName>曰。<persName key="A000933">蔚</persName>山主。頗有衲
+        <lb ed="X" n="0479c09"/>僧氣象。煩請歸堂。尋為第一座。一日<persName key="A004551">巖</persName>陞堂。舉無風
+        <lb ed="X" n="0479c10"/>荷葉動。一定有魚行。語未畢。<persName key="A004551">巖</persName>出眾。震聲一喝。拂袖
+        <lb ed="X" n="0479c11"/>便行。<persName key="A004551">巖</persName>示以偈。有一喝西江水逆流之句。既而別<persName key="A004551">巖</persName>。
+        <lb ed="X" n="0479c12"/>住<placeName key="CN0330781M01AA">靜嵩山</placeName>。又一紀。<persName key="A004551">巖</persName>前後為手書招之者三。所以愛
         <lb ed="X" n="0479c13"/>重期待者甚厚。比至。使分座說法。遂付以法衣。囑云。
-        <lb ed="X" n="0479c14"/>汝緣在浙西。可往化導。吾道有寄矣。蔚奉命入吳。凡
-        <lb ed="X" n="0479c15"/>三築精藍。卒之玄墓鄧蔚山中。斬蒙羃結菴居之。久
-        <lb ed="X" n="0479c16"/>之。四眾歸向。乃搆為大伽藍。額曰聖恩。奔赴者日甚。
+        <lb ed="X" n="0479c14"/>汝緣在<placeName key="CN0330000E03AA">浙</placeName>西。可往化導。吾道有寄矣。<persName key="A000933">蔚</persName>奉命入<placeName key="CN0320503Z06AA">吳</placeName>。凡
+        <lb ed="X" n="0479c15"/>三築精藍。卒之玄墓<placeName key="unknown">鄧蔚山</placeName>中。斬蒙羃結菴居之。久
+        <lb ed="X" n="0479c16"/>之。四眾歸向。乃搆為大伽藍。額曰<placeName key="CN0320506T17AA">聖恩</placeName>。奔赴者日甚。
         <lb ed="X" n="0479c17"/>一日至不能容。蔚隨機演說。俾人人滿意。故人益慕
-        <lb ed="X" n="0479c18"/>而信之。於洪武十四年正月二十九日。坐化。閱世七
+        <lb ed="X" n="0479c18"/>而信之。於<date when-iso="1381-03-03" key="j22255222225522">洪武十四年正月二十九日</date>。坐化。閱世七
         <lb ed="X" n="0479c19"/>十有九。僧臘六十。停龕十三日。肢體溫軟香潔。如平
         <lb ed="X" n="0479c20"/>時。門人奉全身。瘞於菴之西崗。師貌古神清。髭鬚疎
-        <lb ed="X" n="0479c21"/>朗。寡緣飾。千巖稱其純粹質樸。有古人風。談道三十
-        <lb ed="X" n="0479c22"/>餘年。吳人無少長。咸知敬慕。有繪像而事之者。平生
+        <lb ed="X" n="0479c21"/>朗。寡緣飾。<persName key="A004551">千巖</persName>稱其純粹質樸。有古人風。談道三十
+        <lb ed="X" n="0479c22"/>餘年。<placeName key="CN0320503Z06AA">吳</placeName>人無少長。咸知敬慕。有繪像而事之者。平生
         <lb ed="X" n="0479c23"/>未甞讀書。惟以深悟自得。其形諸語默者。俱能刊落
-        <lb ed="X" n="0479c24"/>浮華。而一踐乎其寔。門人請留法語。蔚曰。從上佛祖。
+        <lb ed="X" n="0479c24"/>浮華。而一踐乎其寔。門人請留法語。<persName key="A000933">蔚</persName>曰。從上佛祖。
         <lb ed="X" n="0480a01"/>諸所言說。句句朝宗。言言見諦。略不肯聽從。況吾言
-        <lb ed="X" n="0480a02"/>乎。悉付火燼。門人。竊而錄其少許以傳。蔚未化前數
+        <lb ed="X" n="0480a02"/>乎。悉付火燼。門人。竊而錄其少許以傳。<persName key="A000933">蔚</persName>未化前數
         <lb ed="X" n="0480a03"/>日。大眾普集。或以得法承嗣為問。示偈曰。慈悲無念。
-        <lb ed="X" n="0480a04"/>華開果熟。因地分明。慧寶致囑。葢記無念學。翠峰華。
-        <lb ed="X" n="0480a05"/>榮果林。寶藏持四公也。於中。學公顯受衣法。後出世。
-        <lb ed="X" n="0480a06"/>開導之盛。無媿于蔚。況受知　太祖高皇帝。龍章寵
-        <lb ed="X" n="0480a07"/>錫。雲漢昭回。法脉淵源不絕。蔚所付得人矣。</p>
+        <lb ed="X" n="0480a04"/>華開果熟。因地分明。<persName key="unknown">慧寶</persName>致囑。葢記<persName key="A015617">無念學</persName>。<persName key="unknown">翠峰華</persName>。
+        <lb ed="X" n="0480a05"/><persName key="unknown">榮果林</persName>。<persName key="A004721">寶藏持</persName>四公也。於中。<persName key="A015617">學</persName>公顯受衣法。後出世。
+        <lb ed="X" n="0480a06"/>開導之盛。無媿于<persName key="A000933">蔚</persName>。況受知　<persName key="A003672">太祖高皇帝</persName>。龍章寵
+        <lb ed="X" n="0480a07"/>錫。雲漢昭回。法脉淵源不絕。<persName key="A000933">蔚</persName>所付得人矣。</p>
 </div>

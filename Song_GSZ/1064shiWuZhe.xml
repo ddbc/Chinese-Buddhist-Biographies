@@ -2,7 +2,7 @@
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0836c01shiWuZhe">
     <anchor n="T.50.2061.0836c01"/><head><date from-iso="0618-06-21" key="j19469512052491" to-iso="0907-06-06">唐</date>代州五臺山華嚴寺<persName key="A009517">無著</persName>傳</head><p>
 <lb ed="T" n="0836c02"/><persName key="A009517">釋無著</persName>，<placeName key="CN0330302Z12AA">永嘉</placeName>人也，識度寬明，秉操貞礭。留神
-<lb ed="T" n="0836c03"/>大道，約志遊方，抵于京師<placeName key="CN0610102T60AA">雲華寺</placeName>，就<persName key="A001755">澄觀
+<lb ed="T" n="0836c03"/>大道，約志遊方，抵于京師<placeName key="CN0610124T05AA">雲華寺</placeName>，就<persName key="A001755">澄觀
 <lb ed="T" n="0836c04"/>法師</persName>研習華嚴之教。凡諸經論，志極旁通，然
 <lb ed="T" n="0836c05"/>於華藏海，終誓遨遊。以<date from-iso="0767-02-08" key="j20012392001592" to-iso="0768-01-27">大曆二年</date>入<placeName key="CN0140900M01AA">五臺
 <lb ed="T" n="0836c06"/>山</placeName>，肆欲觀聖人之境界。<date key="j20013562001385" notAfter-iso="0767-07-04" notBefore-iso="0767-06-05">五月</date>，到<placeName key="CN0140922T06AA">華嚴寺</placeName>挂
@@ -75,7 +75,7 @@
         <link targets="#0836c03 #0836c05"/>
         <ptr target="#A009517" type="person"/>
         <ptr target="#A001755" type="person"/>
-        <ptr target="#CN0610102T60AA" type="place"/>
+        <ptr target="#CN0610124T05AA" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0836c05 #0836c06"/>

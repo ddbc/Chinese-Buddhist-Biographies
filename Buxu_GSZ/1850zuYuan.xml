@@ -1,39 +1,36 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0496c05zuYuan">
-    <head><lb ed="X" n="0496c05"/>　　　　天泉淵公傳</head>
-    <p><anchor n="X.77.1524.0496c06"/><lb ed="X" n="0496c06"/>祖淵。字天泉。雨菴其號也。廬陵楊氏之子。生有異質。
-        <lb ed="X" n="0496c07"/>永樂癸未。具戒於青原山。上金陵謁幻居戒公。多所
+    <head><lb ed="X" n="0496c05"/>　　　　<persName key="A009164">天泉淵</persName>公傳</head>
+    <p><anchor n="X.77.1524.0496c06"/><lb ed="X" n="0496c06"/><persName key="A009164">祖淵</persName>。字<persName key="A009164">天泉</persName>。<persName key="A009164">雨菴</persName>其號也。<placeName key="CN0360802Z04AA">廬陵</placeName>楊氏之子。生有異質。
+        <lb ed="X" n="0496c07"/><date from-iso="1403-02-01" to-iso="1404-02-19" key="j22335262233909">永樂癸未</date>。具戒於<placeName key="CN0360803M01AA">青原山</placeName>。上<placeName key="CN0320105Z10AA">金陵</placeName>謁<persName key="unknown">幻居戒</persName>公。多所
         <lb ed="X" n="0496c08"/>啟發。號入室弟子。甞對眾稱之。師不以小得自滿。然
         <lb ed="X" n="0496c09"/>臂香。篤志求道。至廢寢食者五年。始得微悟。若開雲
         <lb ed="X" n="0496c10"/>霧行虗空。無所留閡。遂振錫觀方。遍禮祖塔。所至叢
-        <lb ed="X" n="0496c11"/>林畏敬之。聲稱隱然。起同輩間。壬寅。還天界。刺血書
-        <lb ed="X" n="0496c12"/>雜華經。宣德改元。住山闡教。月山公嘉其行。延置座
-        <lb ed="X" n="0496c13"/>端。為龍象表率。尋為僧錄司。舉住雪峰。未幾。天童虗
-        <lb ed="X" n="0496c14"/>席。移師居之。百廢具興。化道大行。甲寅。被　召入京。
-        <lb ed="X" n="0496c15"/>命為左覺義。時　勑建大功德寺成。住持難其人。命
+        <lb ed="X" n="0496c11"/>林畏敬之。聲稱隱然。起同輩間。<date from-iso="1422-02-01" to-iso="1423-02-19" key="j22404662240849">壬寅</date>。還<placeName key="CN0320114T01AA">天界</placeName>。刺血書
+        <lb ed="X" n="0496c12"/>雜華經。<date from-iso="1426-02-17" to-iso="1435-02-09" key="j22419432245222">宣德</date>改元。住山闡教。<persName key="unknown">月山公</persName>嘉其行。延置座
+        <lb ed="X" n="0496c13"/>端。為龍象表率。尋為僧錄司。舉住<placeName key="CN0320102T11AA">雪峰</placeName>。未幾。<placeName key="CN0330212T02AA">天童</placeName>虗
+        <lb ed="X" n="0496c14"/>席。移師居之。百廢具興。化道大行。<date from-iso="1434-02-18" to-iso="1435-02-06" key="j22448662245219">甲寅</date>。被　召入<placeName key="CN0110102Z07AA">京</placeName>。
+        <lb ed="X" n="0496c15"/>命為左覺義。時　勑建<placeName key="CN0110108T14AA">大功德寺</placeName>成。住持難其人。命
         <lb ed="X" n="0496c16"/>師兼之。僧眾聞之。皆樂從展鉢如雲。　上悅。賜田四
         <lb ed="X" n="0496c17"/>百餘頃。以贍焉。師念禪講教三宗。名不可不正。奏以
-        <lb ed="X" n="0496c18"/>大功德。大慈恩。大隆善三寺為之。繇是。三宗弟子。各
+        <lb ed="X" n="0496c18"/><placeName key="CN0110108T14AA">大功德</placeName>。<placeName key="CN0110100T01AA">大慈恩</placeName>。<placeName key="CN0110102T07AA">大隆善</placeName>三寺為之。繇是。三宗弟子。各
         <lb ed="X" n="0496c19"/>有依歸。傳道受業。而綱緒始無紊亂矣。又以天下寺
         <lb ed="X" n="0496c20"/>多廢。繇學徒未廣。於甞度正額外。增其數五之一。一
         <lb ed="X" n="0496c21"/>時受度者。如川滙雲委。其徒之繁昌。廢剎多繇是而
-        <lb ed="X" n="0496c22"/>興。陞右善世。發　上所賜物。建大剎於江寧之鳳翔
-        <lb ed="X" n="0496c23"/>山。　賜額曰普寧禪寺。萬善戒壇成。命師為傳戒宗
+        <lb ed="X" n="0496c22"/>興。陞右善世。發　上所賜物。建大剎於江寧之<placeName key="unknown">鳳翔<lb ed="X" n="0496c23"/>山</placeName>。　賜額曰<placeName key="unknown">普寧禪寺</placeName>。<placeName key="unknown">萬善戒壇</placeName>成。命師為傳戒宗
         <lb ed="X" n="0496c24"/>師。天下學者。聞師戒。皆知所守。而行不離道。寺左道。
         <lb ed="X" n="0497a01"/>北山阻。溝水泥淖。往來者苦之。師同太監興安。拓地
-        <lb ed="X" n="0497a02"/>三百畝。甃石作安和橋。築菴橋側。命僧守之。以濟眾。
+        <lb ed="X" n="0497a02"/>三百畝。甃石作<placeName key="unknown">安和橋</placeName>。築菴橋側。命僧守之。以濟眾。
         <lb ed="X" n="0497a03"/>於是。寒不病涉。暑則供茗飲。人歸德焉。師氣宇弘深。
         <lb ed="X" n="0497a04"/>制行潔白。葢湛然淵澄。浩然海蓄。凡諸世緣。無一可
         <lb ed="X" n="0497a05"/>以動其意。其為國家祝釐。則洞洞然盡其誠。為諸弟
         <lb ed="X" n="0497a06"/>子說法。則懇懇然發其趣。葢忠於事上。勤以接下。一
         <lb ed="X" n="0497a07"/>時尊而仰之。如泰山北斗云。所度弟子。以萬計。嗣興
-        <lb ed="X" n="0497a08"/>教事。及主名山。住大剎者又若干人。生於洪武己巳
-        <lb ed="X" n="0497a09"/>二月四日。化於正統己巳三月七日。壽六十一。僧臘
+        <lb ed="X" n="0497a08"/>教事。及主名山。住大剎者又若干人。生於<date when-iso="1389-03-09" key="j22284502228450">洪武己巳<lb ed="X" n="0497a09"/>二月四日</date>。化於<date when-iso="1449-04-08" key="j22503942250394">正統己巳三月七日</date>。壽六十一。僧臘
         <lb ed="X" n="0497a10"/>四十七。卒之時。沐浴更衣而坐。索筆書偈曰。觀世間
         <lb ed="X" n="0497a11"/>六十一。一即是三三即一。團團爍破去來踪。白日虗
-        <lb ed="X" n="0497a12"/>空轟霹靂。書畢瞑目而逝。異香滿室者數日。　太上
-        <lb ed="X" n="0497a13"/>皇聞之。遣太監吳弼。賜以白金香幣鈔萬緡。又遣禮
-        <lb ed="X" n="0497a14"/>部主事林璧賜祭。朝之公卿大夫。莫不致祭。茶毗於
-        <lb ed="X" n="0497a15"/>都城之西山。貴賤耄耋送者萬餘人。得舍利盈掬。藏
-        <lb ed="X" n="0497a16"/>於功德院。靈骨。奏還南京普寧。建大窣堵波藏焉。</p>
+        <lb ed="X" n="0497a12"/>空轟霹靂。書畢瞑目而逝。異香滿室者數日。　<persName key="A006683">太上<lb ed="X" n="0497a13"/>皇</persName>聞之。遣太監<persName key="unknown">吳弼</persName>。賜以白金香幣鈔萬緡。又遣禮
+        <lb ed="X" n="0497a14"/>部主事<persName key="unknown">林璧</persName>賜祭。朝之公卿大夫。莫不致祭。茶毗於
+        <lb ed="X" n="0497a15"/>都城之<placeName key="CN0110108M02AA">西山</placeName>。貴賤耄耋送者萬餘人。得舍利盈掬。藏
+        <lb ed="X" n="0497a16"/>於<placeName key="unknown">功德院</placeName>。靈骨。奏還南京<placeName key="unknown">普寧</placeName>。建大窣堵波藏焉。</p>
 </div>

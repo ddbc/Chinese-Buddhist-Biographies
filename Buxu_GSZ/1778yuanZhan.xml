@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0467c18yuanZhan">
-    <head><lb ed="X" n="0467c18"/>　　　　元湛傳</head>
-    <p><anchor n="X.77.1524.0467c19"/><lb ed="X" n="0467c19"/>元湛。號秋江。不知何許人。操守端靖。久從禪者遊。有
-        <lb ed="X" n="0467c20"/>所發明。行息無定。一日杖錫至松巖。愛其山水深秀。
+    <head><lb ed="X" n="0467c18"/>　　　　<persName key="A021446">元湛</persName>傳</head>
+    <p><anchor n="X.77.1524.0467c19"/><lb ed="X" n="0467c19"/><persName key="A021446">元湛</persName>。號<persName key="A021446">秋江</persName>。不知何許人。操守端靖。久從禪者遊。有
+        <lb ed="X" n="0467c20"/>所發明。行息無定。一日杖錫至<placeName key="unknown">松巖</placeName>。愛其山水深秀。
         <lb ed="X" n="0467c21"/>不忍去。乃趺坐石上。荊棘圍繞。風露凄苦。是夜有二
-        <lb ed="X" n="0467c22"/>虎。環其左右。若相衛護者。湛命之伏。虎皆伏。湛以手
+        <lb ed="X" n="0467c22"/>虎。環其左右。若相衛護者。<persName key="A021446">湛</persName>命之伏。虎皆伏。<persName key="A021446">湛</persName>以手
         <lb ed="X" n="0467c23"/>枕虎背熟睡。遲明虎去。如是者屢夕。山民聞之以為
         <lb ed="X" n="0467c24"/>神。即其處剏阿蘭若奉之。湛不交世事。不應檀齋。雖
         <lb ed="X" n="0468a01"/>皈依者踵繼。開道之外。不雜塵俗一語。漠如也。將化
@@ -12,5 +12,5 @@
         <lb ed="X" n="0468a03"/>藏。花開鐵樹泥牛吼。一月長輝天地光。又謂其眾曰。
         <lb ed="X" n="0468a04"/>後十五年寺當火。啟吾龕則火可止。至期果然。眾匍
         <lb ed="X" n="0468a05"/>匐開龕。見其神色如生。爪髮皆長。復封固瘞之。或云。
-        <lb ed="X" n="0468a06"/>湛得法寶方山。斷橋倫禪師之法孫也。</p>
+        <lb ed="X" n="0468a06"/>湛得法<persName key="A000187">寶方山</persName>。<persName key="A000470">斷橋倫</persName>禪師之法孫也。</p>
 </div>

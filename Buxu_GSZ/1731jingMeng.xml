@@ -1,34 +1,31 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0449c08jingMeng">
-    <head><lb ed="X" n="0449c08"/>　　　　景蒙傳</head>
-    <p><anchor n="X.77.1524.0449c09"/><lb ed="X" n="0449c09"/>景蒙。邵氏。溫之平陽人。族姓甚眾。多以儒顯。師英達
-        <lb ed="X" n="0449c10"/>開爽。幼聞鐘梵則喜。年十三從惠安淨覺大師惟梵。
+    <head><lb ed="X" n="0449c08"/>　　　　<persName key="A015272">景蒙</persName>傳</head>
+    <p><anchor n="X.77.1524.0449c09"/><lb ed="X" n="0449c09"/><persName key="A015272">景蒙</persName>。邵氏。溫之<placeName key="CN0330326Z04AA">平陽</placeName>人。族姓甚眾。多以儒顯。師英達
+        <lb ed="X" n="0449c10"/>開爽。幼聞鐘梵則喜。<date key="j21359752136340" when-iso="1136">年十三</date>從<placeName key="unknown">惠安</placeName><persName key="unknown">淨覺大師惟梵</persName>。
         <lb ed="X" n="0449c11"/>著僧伽黎。明習天台教觀。自以名相之學。不足了大
-        <lb ed="X" n="0449c12"/>事。去游國清。又參育王佛智[示*谷]公。公問鄉里。對曰。永
-        <lb ed="X" n="0449c13"/>嘉。曰。還識永嘉大師否。未及答。批頰而出。至於再。兀
+        <lb ed="X" n="0449c12"/>事。去游<placeName key="CN0331023T01AA">國清</placeName>。又參<placeName key="CN0330212M03AA">育王</placeName><persName key="A007993">佛智[示*谷]</persName>公。公問鄉里。對曰。<placeName key="CN0330326Z04AA">永<lb ed="X" n="0449c13"/>嘉</placeName>。曰。還識<persName key="A010119">永嘉大師</persName>否。未及答。批頰而出。至於再。兀
         <lb ed="X" n="0449c14"/>然如癡。寢食不安者累月。行道次。忽聞鐘聲而悟。即
         <lb ed="X" n="0449c15"/>造室中。公復理前問。師曰。即日伏惟。和尚尊體。起居
         <lb ed="X" n="0449c16"/>萬福。隨問向上事。師儗對被逐。次日再上。公方發問。
         <lb ed="X" n="0449c17"/>師抗聲云。老漢。今日敗闕也。一拍而出。公笑曰。雋哉。
-        <lb ed="X" n="0449c18"/>因省母歸里。龍翔心聞。一見深器之。問曰。言無展事。
+        <lb ed="X" n="0449c18"/>因省母歸里。<persName key="A015194"><placeName key="CN0330302T02AA">龍翔</placeName>心聞</persName>。一見深器之。問曰。言無展事。
         <lb ed="X" n="0449c19"/>語不投機。承言者喪。滯句者迷。試向言詮不及處。通
-        <lb ed="X" n="0449c20"/>箇消息。師。以左手畫一圓相。聞。以拂子擊左。師。又畫
-        <lb ed="X" n="0449c21"/>以右手。聞。擊右。又畫於中以兩手托呈。聞。以拂子當
-        <lb ed="X" n="0449c22"/>中畫兩畫。師。禮拜而立。聞大笑云。三十年揀苗。苗今
-        <lb ed="X" n="0449c23"/>日得此烏喙。遂令執侍。盡揭底蘊。尋歸鹿園。如在菴
-        <lb ed="X" n="0449c24"/>賢。雪菴瑾。咦菴鑑。全菴存。筠谷達。還菴淳會下。皆一
-        <lb ed="X" n="0450a01"/>時名流。唯師妙齡傑出。心聞。以谷名師菴。且為之銘。
-        <lb ed="X" n="0450a02"/>蒙侍者之名日高矣。又甞謁臨安顯寧志公。志門風
+        <lb ed="X" n="0449c20"/>箇消息。師。以左手畫一圓相。<persName key="A015194">聞</persName>。以拂子擊左。師。又畫
+        <lb ed="X" n="0449c21"/>以右手。<persName key="A015194">聞</persName>。擊右。又畫於中以兩手托呈。<persName key="A015194">聞</persName>。以拂子當
+        <lb ed="X" n="0449c22"/>中畫兩畫。師。禮拜而立。<persName key="A015194">聞</persName>大笑云。三十年揀苗。苗今
+        <lb ed="X" n="0449c23"/>日得此烏喙。遂令執侍。盡揭底蘊。尋歸<placeName key="unknown">鹿園</placeName>。如<persName key="A020715">在菴<lb ed="X" n="0449c24"/>賢</persName>。<persName key="A012926">雪菴瑾</persName>。<persName key="unknown">咦菴鑑</persName>。<persName key="unknown">全菴存</persName>。<persName key="unknown">筠谷達</persName>。<persName key="unknown">還菴淳</persName>會下。皆一
+        <lb ed="X" n="0450a01"/>時名流。唯師妙齡傑出。<persName key="A015194">心聞</persName>。以谷名師菴。且為之銘。
+        <lb ed="X" n="0450a02"/><persName key="A015272">蒙</persName>侍者之名日高矣。又甞謁<placeName key="CN0330103Z13AA">臨安</placeName><persName key="unknown">顯寧志</persName>公。志門風
         <lb ed="X" n="0450a03"/>壁立。學者望崖。獨謂師曰。先世遺風。餘烈若未墜者。
-        <lb ed="X" n="0450a04"/>尚在汝躬。吾且拭目觀之。初住智門。遷瑞巖。皆史魏
-        <lb ed="X" n="0450a05"/>公浩推轂也。魏公在永嘉時。與心聞為方外交。罷相
-        <lb ed="X" n="0450a06"/>里居。夢如平生。旁有僧曰。景蒙。貌古神清。談笑久之。
-        <lb ed="X" n="0450a07"/>覺而叩天童朴曰。僧名頗異。有斯人否。朴曰。是方為
+        <lb ed="X" n="0450a04"/>尚在汝躬。吾且拭目觀之。初住<placeName key="unknown">智門</placeName>。遷<placeName key="unknown">瑞巖</placeName>。皆史<persName key="unknown">魏<lb ed="X" n="0450a05"/>公浩</persName>推轂也。魏公在<placeName key="CN0330326Z04AA">永嘉</placeName>時。與<persName key="A015194">心聞</persName>為方外交。罷相
+        <lb ed="X" n="0450a06"/>里居。夢如平生。旁有僧曰。<persName key="A015272">景蒙</persName>。貌古神清。談笑久之。
+        <lb ed="X" n="0450a07"/>覺而叩<persName key="A009498">天童朴</persName>曰。僧名頗異。有斯人否。<persName key="A009498">朴</persName>曰。是方為
         <lb ed="X" n="0450a08"/>堂中第一座。招之。恍如夢所見。與論出世法。了辯如
-        <lb ed="X" n="0450a09"/>響。問其師則心聞也。大異之。遂為延譽而住智門。及
-        <lb ed="X" n="0450a10"/>瑞岩虗席。復以師應命。師孤高絕俗。弱不勝衣。而嚴
+        <lb ed="X" n="0450a09"/>響。問其師則<persName key="A015194">心聞</persName>也。大異之。遂為延譽而住<placeName key="unknown">智門</placeName>。及
+        <lb ed="X" n="0450a10"/><placeName key="unknown">瑞岩</placeName>虗席。復以師應命。師孤高絕俗。弱不勝衣。而嚴
         <lb ed="X" n="0450a11"/>冷峻峭。不可挹酌。既坐道場。搥拂所加。龍象蹴踏。長
-        <lb ed="X" n="0450a12"/>靈之道光焉。智門瑞巖。皆承頹毀之餘。人以為不可
+        <lb ed="X" n="0450a12"/>靈之道光焉。<placeName key="unknown">智門</placeName><placeName key="unknown">瑞巖</placeName>。皆承頹毀之餘。人以為不可
         <lb ed="X" n="0450a13"/>復興矣。師從容規畫。會不踰時。而輪奐一新。壯麗反
         <lb ed="X" n="0450a14"/>過其舊。具大材智。尋常不以毫末自見。因事而顯。無
         <lb ed="X" n="0450a15"/>不歎服。韜養之深。從可知矣。</p>

@@ -1,28 +1,26 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0505c24liaoWu">
-    <head><lb ed="X" n="0505c24"/>　　　　安岳了悟傳(附露源)</head>
-    <p><anchor n="X.77.1524.0506a01"/><lb ed="X" n="0506a01"/>了悟。號無際。一號蠶骨。安岳人。生莫氏。幼傭於大竹
-        <lb ed="X" n="0506a02"/>鴈平里黃友諒家。能辦異他傭。甞有人代為耕牧者。
+    <head><lb ed="X" n="0505c24"/>　　　　<persName key="A009565">安岳了悟</persName>傳(附<persName key="unknown">靈源</persName>)</head>
+    <p><anchor n="X.77.1524.0506a01"/><lb ed="X" n="0506a01"/><persName key="A009565">了悟</persName>。號<persName key="A009565">無際</persName>。一號<persName key="A009565">蠶骨</persName>。<placeName key="CN0512021Z04AA">安岳</placeName>人。生莫氏。幼傭於大竹
+        <lb ed="X" n="0506a02"/><placeName key="unknown">鴈平里</placeName><persName key="unknown">黃友諒</persName>家。能辦異他傭。甞有人代為耕牧者。
         <lb ed="X" n="0506a03"/>黃異之。妻以義女。相對疊膝。坐如賓客。未甞小涉溫
         <lb ed="X" n="0506a04"/>煖。與同作語皆佛法。黃益奇之。因結菴使居。以成其
         <lb ed="X" n="0506a05"/>志。如時送飲食衣服無闕。一日義女。私送一[革*兩]鞋。師
         <lb ed="X" n="0506a06"/>訝曰。此何來也。遂引刀碎之。說偈謝主人而去。削髮
-        <lb ed="X" n="0506a07"/>於定遠之羅圍寺。師事本真長老。本真。為言。幽谷和
-        <lb ed="X" n="0506a08"/>尚。為當今善知識。即躡蹻往參。獲證心要。因而發通。
+        <lb ed="X" n="0506a07"/>於定遠之<placeName key="unknown">羅圍寺</placeName>。師事<persName key="unknown">本真</persName>長老。<persName key="unknown">本真</persName>為言幽谷。和
+        <lb ed="X" n="0506a08"/>尚為當今善知識。即躡蹻往參。獲證心要。因而發通。
         <lb ed="X" n="0506a09"/>大著靈異。四方無賢愚。咸歸向之。登座說法。天花如
-        <lb ed="X" n="0506a10"/>雨。甞經巴之劉何鄉。鄉人禮之。師說偈曰。天下大旱。
+        <lb ed="X" n="0506a10"/>雨。甞經巴之<placeName key="unknown">劉何鄉</placeName>。鄉人禮之。師說偈曰。天下大旱。
         <lb ed="X" n="0506a11"/>此處半收。天下大亂。此處無憂。所言罔弗獲驗。自是
         <lb ed="X" n="0506a12"/>從者日眾。所至騰沸。或以妖妄惑眾。拘於按察獄中。
         <lb ed="X" n="0506a13"/>晝則端坐。夜則出募錢。修獄壞屋。至今獄無鼠虱蚊
-        <lb ed="X" n="0506a14"/>蚋。師居安岳四十餘年。永樂中。召詣京師。　命為宗
-        <lb ed="X" n="0506a15"/>主登壇說戒。　賜號大善知識。後居南京牛首寺。一
+        <lb ed="X" n="0506a14"/>蚋。師居<placeName key="CN0512021Z04AA">安岳</placeName>四十餘年。<date from-iso="1403-02-01" to-iso="1424-08-21" key="j22335262241398">永樂中</date>。召詣<placeName key="CN0110102Z07AA">京師</placeName>。　命為宗
+        <lb ed="X" n="0506a15"/>主登壇說戒。　賜號大善知識。後居南京<placeName key="unknown">牛首寺</placeName>。一
         <lb ed="X" n="0506a16"/>日集眾說偈。我我元無我。光明圓陀陀。蕩蕩任縱橫。
-        <lb ed="X" n="0506a17"/>處處無拘鎖。端坐而化。　賜祭給傳。還葬木門。所著
+        <lb ed="X" n="0506a17"/>處處無拘鎖。端坐而化。　賜祭給傳。還葬<placeName key="unknown">木門</placeName>。所著
         <lb ed="X" n="0506a18"/>語錄一卷。行世。</p><p>
-        <lb ed="X" n="0506a19"/>師之嗣。曰靈源。字不二。鳳陽薛氏子。神采頴秀。謁無
-        <lb ed="X" n="0506a20"/>際。授以無字話。久之有省。樂廣安山水。結茅扁曰雪
-        <lb ed="X" n="0506a21"/>骨。方時　太宗遣使纂修天下。及訪仙釋有顯跡者。
-        <lb ed="X" n="0506a22"/>有司忽而不錄。源作文自上之。中寓規諷。知州朱亨。
-        <lb ed="X" n="0506a23"/>惡其妄。奏之。取至京。下于理問狀。甫及門。泊然脫化。
-        <lb ed="X" n="0506a24"/>　上聞之歎曰。失此僧。朕無緣也。賜塔北門。</p>
+            <lb ed="X" n="0506a19"/>師之嗣。曰<persName key="unknown">靈源</persName>。字<persName key="unknown">不二</persName>。<placeName key="CN0341126Z23AA">鳳陽</placeName>薛氏子。神采頴秀。謁<persName key="A009565">無<lb ed="X" n="0506a20"/>際</persName>。授以無字話。久之有省。樂<placeName key="CN0511602Z12AA">廣安</placeName>山水。結茅扁曰<placeName key="unknown">雪<lb ed="X" n="0506a21"/>骨</placeName>。方時　<persName key="A000149">太宗</persName>遣使纂修天下。及訪仙釋有顯跡者。
+            <lb ed="X" n="0506a22"/>有司忽而不錄。源作文自上之。中寓規諷。知州<persName key="unknown">朱亨</persName>。
+            <lb ed="X" n="0506a23"/>惡其妄。奏之。取至<placeName key="CN0110102Z07AA">京</placeName>。下于理問狀。甫及門。泊然脫化。
+            <lb ed="X" n="0506a24"/>　上聞之歎曰。失此僧。朕無緣也。賜塔<placeName key="unknown">北門</placeName>。</p>
 </div>

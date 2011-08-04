@@ -61,7 +61,7 @@
 <lb ed="T" n="0737c04"/>人<persName key="A009538">錢徽</persName>、兵部侍郎<persName key="A009183">歸登</persName>、<placeName key="CN0420602Z06AA">襄陽</placeName>節度使<persName key="A004372">嚴綬</persName>、<placeName key="CN0330602Z01AA">越州</placeName>
 <lb ed="T" n="0737c05"/>觀察使<persName key="A009184">孟簡</persName>、<placeName key="CN0360103Z26AA">洪州</placeName><persName key="A009540">韋丹</persName>，咸慕高風，或從戒
         <lb ed="T" n="0737c06"/>訓。以<date from-iso="0806-01-29" key="j20154742020967" to-iso="0821-02-12">元和年</date>卒，春秋七十餘。弟子傳法者
-<lb ed="T" n="0737c07"/>一百許人，餘堪講者千數。<persName key="A001755">觀</persName>甞於新創<placeName key="CN0610102T28AA">雲花
+<lb ed="T" n="0737c07"/>一百許人，餘堪講者千數。<persName key="A001755">觀</persName>甞於新創<placeName key="CN0610124T05AA">雲花
 <lb ed="T" n="0737c08"/>寺</placeName>般若閣下畫《華藏世界圖相》，又著《隨疏演
 <lb ed="T" n="0737c09"/>義》四十卷，允齊相請述《華嚴經綱要》一卷《法
 <lb ed="T" n="0737c10"/>界玄鑑》一卷《三聖圓融觀》一卷《華嚴》、《法華》、《楞伽》、
@@ -252,7 +252,7 @@
     <linkGrp>
         <link targets="#0737c07 #0737c08"/>
         <ptr target="#A001755" type="person"/>
-        <ptr target="#CN0610102T28AA" type="place"/>
+        <ptr target="#CN0610124T05AA" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0737c13 #0737c20"/>

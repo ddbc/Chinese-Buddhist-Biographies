@@ -1,35 +1,32 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0449a01daoChong">
-    <head><lb ed="X" n="0449a01"/>　　　　癡絕沖傳</head>
-    <p><anchor n="X.77.1524.0449a02"/><lb ed="X" n="0449a02"/>道沖。自號癡絕。武信長江荀氏子。母郭氏。甞夢經山
+    <head><lb ed="X" n="0449a01"/>　　　　<persName key="A001507">癡絕沖</persName>傳</head>
+    <p><anchor n="X.77.1524.0449a02"/><lb ed="X" n="0449a02"/><persName key="A001507">道沖</persName>。自號<persName key="A001507">癡絕</persName>。武信<placeName key="CN0510921Z20AA">長江</placeName>荀氏子。母<persName key="unknown">郭氏</persName>。甞夢經山
         <lb ed="X" n="0449a03"/>木瓜樹下。其實纍纍。取而食之。占者謂。當產奇士。已
         <lb ed="X" n="0449a04"/>而師生。豐上短下。資稟過人。長應進士舉不利。受釋
-        <lb ed="X" n="0449a05"/>氏舉於梓州妙應院。落髮游成都。習經論有聲。紹熈
-        <lb ed="X" n="0449a06"/>壬子。出峽回旋荊楚間。時松源倡道於饒之薦福。徑
-        <lb ed="X" n="0449a07"/>造其廬。適歲饑不受。會曹源生公。以雲居首座。出世
-        <lb ed="X" n="0449a08"/>妙果。許師入室。俾侍香。老拳痛棒不少貸。至是平生
-        <lb ed="X" n="0449a09"/>知見。絕無影響。然終以未見松源為闕然。及松源遷
-        <lb ed="X" n="0449a10"/>靈隱。師曰。尚餘窮相一雙手。要向諸方癢處[爬-爪+瓜]。至杭。
-        <lb ed="X" n="0449a11"/>松源門庭高峻。八閱月不得入。每囁嚅欲自言。屢呵
-        <lb ed="X" n="0449a12"/>斥不容近。一日有告之松源者。松源曰。我已八宇打
-        <lb ed="X" n="0449a13"/>開。自是他當面蹉過。師聞此語。口耳俱喪。始知侍曹
-        <lb ed="X" n="0449a14"/>源時。嘻戲怒罵。無非善呵方便。既而曹源順寂。遍歷
-        <lb ed="X" n="0449a15"/>諸老之門。踰二十年。出世秀州之光孝。金陵之蔣山。
-        <lb ed="X" n="0449a16"/>福州之鼓山雪峯。嘉熈戊戌。有旨住太白名山。兩育
-        <lb ed="X" n="0449a17"/>王住持未得人。因師之至。又強之兼領。師往來兩山
-        <lb ed="X" n="0449a18"/>間。四方學者。從之如歸。教聞京師。詔下移靈隱。追念
-        <lb ed="X" n="0449a19"/>密菴松源舊游。方思所以振起祖風。而魔事出於意
+        <lb ed="X" n="0449a05"/>氏舉於梓州<placeName key="unknown">妙應院</placeName>。落髮游<placeName key="CN0510108Z26AA">成都</placeName>。習經論有聲。<date from-iso="1192-01-24" to-iso="1193-02-10" key="j21564522156835">紹熈<lb ed="X" n="0449a06"/>壬子</date>。出<placeName key="CN0000000D01AA">峽</placeName>回旋<placeName key="CN0400000E02AA">荊楚</placeName>間。時<persName key="A001037">松源</persName>倡道於饒之<placeName key="CN0361128T02AA">薦福</placeName>。徑
+        <lb ed="X" n="0449a07"/>造其廬。適歲饑不受。會<persName key="A002613">曹源生</persName>公。以<placeName key="CN0360425T02AA">雲居</placeName>首座。出世
+        <lb ed="X" n="0449a08"/><placeName key="CN0330103T14AA">妙果</placeName>。許師入室。俾侍香。老拳痛棒不少貸。至是平生
+        <lb ed="X" n="0449a09"/>知見。絕無影響。然終以未見<persName key="A001037">松源</persName>為闕然。及<persName key="A001037">松源</persName>遷
+        <lb ed="X" n="0449a10"/><placeName key="CN0330106T01AA">靈隱</placeName>。師曰。尚餘窮相一雙手。要向諸方癢處[爬-爪+瓜]。至<placeName key="CN0330103Z13AA">杭</placeName>。
+        <lb ed="X" n="0449a11"/><persName key="A001037">松源</persName>門庭高峻。八閱月不得入。每囁嚅欲自言。屢呵
+        <lb ed="X" n="0449a12"/>斥不容近。一日有告之<persName key="A001037">松源</persName>者。<persName key="A001037">松源</persName>曰。我已八宇打
+        <lb ed="X" n="0449a13"/>開。自是他當面蹉過。師聞此語。口耳俱喪。始知侍<persName key="A002613">曹<lb ed="X" n="0449a14"/>源</persName>時。嘻戲怒罵。無非善呵方便。既而<persName key="A002613">曹源</persName>順寂。遍歷
+        <lb ed="X" n="0449a15"/>諸老之門。踰二十年。出世秀州之<placeName key="CN0330402T12AA">光孝</placeName>。金陵之<placeName key="CN0320102T05AA">蔣山</placeName>。
+        <lb ed="X" n="0449a16"/>福州之鼓山<placeName key="CN0350121T03AA">雪峯</placeName>。<date from-iso="1238-01-25" to-iso="1239-02-12" key="j21732552173638">嘉熈戊戌</date>。有旨住<placeName key="CN0330212T02AA">太白名山</placeName>。兩<placeName key="CN0330212T01AA">育<lb ed="X" n="0449a17"/>王</placeName>住持未得人。因師之至。又強之兼領。師往來兩山
+        <lb ed="X" n="0449a18"/>間。四方學者。從之如歸。教聞<placeName key="CN0330103Z13AA">京師</placeName>。詔下移<placeName key="CN0330106T01AA">靈隱</placeName>。追念
+        <lb ed="X" n="0449a19"/><persName key="A004691">密菴</persName><!-- 曹源生之師 --><persName key="A001037">松源</persName>舊游。方思所以振起祖風。而魔事出於意
         <lb ed="X" n="0449a20"/>料所不及。難以口舌爭。遽動歸老故山之志。伐鼓亟
-        <lb ed="X" n="0449a21"/>去。雖京兆尹節齋趙公。致書力挽堂帖有虎丘之命
-        <lb ed="X" n="0449a22"/>昇師。虗齋趙公以蔣山起之。俱莫能回其意。戊申春。
-        <lb ed="X" n="0449a23"/>育王散席。諸大老落落如晨星。惟師為叢林尊宿。眾
+        <lb ed="X" n="0449a21"/>去。雖<placeName key="CN0330103Z13AA">京兆</placeName>尹<persName key="unknown">節齋趙</persName>公。致書力挽堂帖有<placeName key="CN0320504T03AA">虎丘</placeName>之命
+        <lb ed="X" n="0449a22"/>昇師。虗<persName key="unknown">齋趙</persName>公以<placeName key="CN0320102T05AA">蔣山</placeName>起之。俱莫能回其意。<date from-iso="1248-02-04" to-iso="1248-05-01" key="j21769172177004">戊申春</date>。
+        <lb ed="X" n="0449a23"/><placeName key="CN0330212T01AA">育王</placeName>散席。諸大老落落如晨星。惟師為叢林尊宿。眾
         <lb ed="X" n="0449a24"/>舉于朝。日夜俟師之出。亦固辭乃已。又有欲挽之為
-        <lb ed="X" n="0449b01"/>法華開山。懇祈再三不得請。而勑牒住徑山之命繼
-        <lb ed="X" n="0449b02"/>至。師謂先諾固不可違君命。豈應引避。乃以九月至
-        <lb ed="X" n="0449b03"/>法華。踰月登雙徑。人神響應。懽聲如雷。師說法。簡直
+        <lb ed="X" n="0449b01"/><placeName key="CN0330110T32AA">法華</placeName>開山。懇祈再三不得請。而勑牒住<placeName key="CN0330110T11AA">徑山</placeName>之命繼
+        <lb ed="X" n="0449b02"/>至。師謂先諾固不可違君命。豈應引避。乃以<date from-iso="1248-09-26" to-iso="1248-10-24" key="j21771522177180">九月</date>至
+        <lb ed="X" n="0449b03"/><placeName key="CN0330110T32AA">法華</placeName>。踰月登<placeName key="CN0330110T11AA">雙徑</placeName>。人神響應。懽聲如雷。師說法。簡直
         <lb ed="X" n="0449b04"/>明爽。不落窠臼。甞云。盡乾坤大地。無絲毫許大。汝諸
         <lb ed="X" n="0449b05"/>人。橫擔拄杖。繞四天下。行脚道。我無處不到。無事不
-        <lb ed="X" n="0449b06"/>知。且道。西天那爛陀寺戒賢論師。今日說甚麼法。又
+        <lb ed="X" n="0449b06"/>知。且道。西天<placeName key="INBRNL000T02AA">那爛陀寺</placeName><persName key="A002406">戒賢</persName>論師。今日說甚麼法。又
         <lb ed="X" n="0449b07"/>云。有一人一念頓證。墮在佛數。有一人累劫闡提。不
         <lb ed="X" n="0449b08"/>願成佛。且道。那箇合受人天供養。良久云。蝶穿芳徑
         <lb ed="X" n="0449b09"/>雙眉濕。蜂掠殘花兩股肥。詞旨高詣之如此。俄染疾。
@@ -47,11 +44,10 @@
         <lb ed="X" n="0449b21"/>贊無虗日。雖祁寒盛暑。揮染不倦。士大夫多樂從之
         <lb ed="X" n="0449b22"/>游。而尤為名公鉅卿所推重。以至教名宣傳海外。有
         <lb ed="X" n="0449b23"/>具書禮。犯鯨波而來問法者。其道德有以服人。一至
-        <lb ed="X" n="0449b24"/>於此。方在天童育王時。被旨開堂靈隱。束擔將戒行。
+        <lb ed="X" n="0449b24"/>於此。方在<placeName key="CN0330212T02AA">天童</placeName><placeName key="CN0330212T01AA">育王</placeName>時。被旨開堂<placeName key="CN0330106T01AA">靈隱</placeName>。束擔將戒行。
         <lb ed="X" n="0449c01"/>而隣峯疾之者。教言欲嗾羣不逞。梗於中道。左右聞
         <lb ed="X" n="0449c02"/>之奉以告。師曰。吾平日以誠實接人。將何以加我。略
-        <lb ed="X" n="0449c03"/>不為之動。彼亦終於無所施而止。雙徑。冷泉。太白。雪
-        <lb ed="X" n="0449c04"/>峯。為海內甲剎。萌欲速之念者。挾奧援矜。智巧曆階
+        <lb ed="X" n="0449c03"/>不為之動。彼亦終於無所施而止。<placeName key="CN0330110T11AA">雙徑</placeName>。<placeName key="unknown">冷泉</placeName>。<placeName key="CN0330212T02AA">太白</placeName>。<placeName key="CN0350121T03AA">雪<lb ed="X" n="0449c04"/>峯</placeName>。為海內甲剎。萌欲速之念者。挾奧援矜。智巧曆階
         <lb ed="X" n="0449c05"/>而上。力可以通神。師則不然。短褐布衣終其身。不為
         <lb ed="X" n="0449c06"/>勢利所動。故其進。不由介紹。其退。心常泰然。真法門
         <lb ed="X" n="0449c07"/>之梁棟。後學之標準也。</p>

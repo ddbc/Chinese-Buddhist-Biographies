@@ -2,19 +2,69 @@
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0382b18liaoRan">
     <head><lb ed="X" n="0382b18"/>　　　　<persName key="A000035">了然</persName>傳(<persName key="A019806">智仙</persName>附)</head>
     <p><anchor n="X.77.1524.0382b19"/><lb ed="X" n="0382b19"/><persName key="A000035">了然</persName>。台<placeName key="CN0331082Z11AA">臨海</placeName>薛氏子。處胎十三月而生。<date key="j21199052120270" when-iso="1092">十六</date>具戒。從
-        <lb ed="X" n="0382b20"/>安國惠師。學教觀得要領。甞夢坐盤石泛大海。望大
+        <lb ed="X" n="0382b20"/><persName key="A020314">安國惠</persName>師。學教觀得要領。甞夢坐盤石泛大海。望大
         <lb ed="X" n="0382b21"/>士坐山上竹林間。師正立。說百偈以讚。覺憶其半。自
-        <lb ed="X" n="0382b22"/>是頓發辯才。侍安國遷白蓮。未幾去。謁<persName key="A010636">明智</persName>。凡有所
+        <lb ed="X" n="0382b22"/>是頓發辯才。侍<persName key="A020314">安國</persName>遷<placeName key="CN0330200T05AA">白蓮</placeName>。未幾去。謁<persName key="A010636">明智</persName>。凡有所
         <lb ed="X" n="0382b23"/>論。皆首肯之。因舉住<placeName key="CN0331023T10AA">廣嚴</placeName>。師曰。吾不當負所得。卒為
-        <lb ed="X" n="0382b24"/>安國嗣。居山二十四年。學者甞五六百人。<date from-iso="1138-02-19" to-iso="1139-02-07" key="j21367552137108">紹興戊午</date>。
+        <lb ed="X" n="0382b24"/><persName key="A020314">安國</persName>嗣。居山二十四年。學者甞五六百人。<date from-iso="1138-02-19" to-iso="1139-02-07" key="j21367552137108">紹興戊午</date>。
         <lb ed="X" n="0382c01"/><placeName key="CN0330226Z07AA">寧海</placeName>建大會。有使者持牒來。曰。<placeName key="XZ0000002A01AA">兜率天</placeName>請師說法。師
         <lb ed="X" n="0382c02"/>曰。此間法會未終。使曰。符不可緩。當先其次者。即毀
         <lb ed="X" n="0382c03"/>師名而去。<date from-iso="1141-06-13" to-iso="1141-07-12" key="j21379652137994">辛酉五月</date>。夢兩龍戲空中。一化為神人。袖
         <lb ed="X" n="0382c04"/>出書曰。師七日當行。師唯唯。既寤。集眾說法。且曰。因
         <lb ed="X" n="0382c05"/>念佛力。得歸<placeName key="XZ0000033A01AA">極樂</placeName>。吾徒勉之。即沐浴更衣。與眾同誦
         <lb ed="X" n="0382c06"/>阿彌陀經。至<placeName key="XZ0000033A01AA">西方世界</placeName>而逝。眾聞天樂騰空。祥光四
-        <lb ed="X" n="0382c07"/>燭。葬東岡。錫號<persName key="A000035">智湧</persName>。師平生多異跡。郡祈雨於玉溪。
+        <lb ed="X" n="0382c07"/>燭。葬<placeName key="unknown">東岡</placeName>。錫號<persName key="A000035">智湧</persName>。師平生多異跡。郡祈雨於<placeName key="CN0331022T02AA">玉溪</placeName>。
         <lb ed="X" n="0382c08"/>眾苦路險。師呪龍使移之。是夜風雨大作。旦見潭在
-        <lb ed="X" n="0382c09"/>所。指夷坦處。　與師同叅安國。有曰。<persName key="A019806">智仙</persName>者。亦精心靜
+        <lb ed="X" n="0382c09"/>所。指夷坦處。　與師同叅<persName key="A020314">安國</persName>。有曰。<persName key="A019806">智仙</persName>者。亦精心靜
         <lb ed="X" n="0382c10"/>業。臨終眾聞佛聲沸天。天樂盈耳。可謂難兄弟也。</p>
+    
+    <linkGrp>
+        <link targets="#0382b19 #0382b19"/>
+        <ptr target="#A000035" type="person"/>
+        <ptr target="#CN0331082Z11AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0382b19 #0382b20"/>
+        <ptr target="#A000035" type="person"/>
+        <ptr target="#A020314" type="person"/>
+        <ptr target="#j21199052120270" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0382b22 #0382b22"/>
+        <ptr target="#A000035" type="person"/>
+        <ptr target="#A020314" type="person"/>
+        <ptr target="#CN0330200T05AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0382b22 #0382b23"/>
+        <ptr target="#A000035" type="person"/>
+        <ptr target="#A010636" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0382b23 #0382b23"/>
+        <ptr target="#A000035" type="person"/>
+        <ptr target="#CN0331023T10AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0382b24 #0382c03"/>
+        <ptr target="#A000035" type="person"/>
+        <ptr target="#CN0330226Z07AA" type="place"/>
+        <ptr target="#j21367552137108" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0382c03 #0382c07"/>
+        <ptr target="#A000035" type="person"/>
+        <ptr target="#j21379652137994" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0382c07 #0382c09"/>
+        <ptr target="#A000035" type="person"/>
+        <ptr target="#CN0331022T02AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0382c09 #0382c10"/>
+        <ptr target="#A000035" type="person"/>
+        <ptr target="#A019806" type="person"/>
+        <ptr target="#A020314" type="person"/>
+    </linkGrp>
 </div>

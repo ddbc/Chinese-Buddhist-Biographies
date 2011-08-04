@@ -1,46 +1,45 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0512c03liaoMing">
-    <head><lb ed="X" n="0512c03"/>　　　　明大禪傳</head>
-    <p><anchor n="X.77.1524.0512c04"/><lb ed="X" n="0512c04"/>了明。秀州人。妙喜會中龍象。叢林所謂明大禪也。身
-        <lb ed="X" n="0512c05"/>長八尺。腹大十圍。所至人必聚觀之。始妙喜謫梅州。
+    <head><lb ed="X" n="0512c03"/>　　　　<persName key="A014758">明大禪</persName>傳</head>
+    <p><anchor n="X.77.1524.0512c04"/><lb ed="X" n="0512c04"/><persName key="A014758">了明</persName>。<placeName key="CN0330402Z12AA">秀州</placeName>人。<persName key="A000475">妙喜</persName>會中龍象。叢林所謂<persName key="A014758">明大禪</persName>也。身
+        <lb ed="X" n="0512c05"/>長八尺。腹大十圍。所至人必聚觀之。始<persName key="A000475">妙喜</persName>謫<placeName key="CN0441402Z05AA">梅州</placeName>。
         <lb ed="X" n="0512c06"/>州縣防送甚嚴。或以為禍在不測。師為荷枷。以行間
         <lb ed="X" n="0512c07"/>關。辛苦未曾少怠。既至貶所。衲子追隨。問道者。率不
-        <lb ed="X" n="0512c08"/>下二三百人。妙喜。以齋粥不給。且慮禍。甞勉之令去。
+        <lb ed="X" n="0512c08"/>下二三百人。<persName key="A000475">妙喜</persName>。以齋粥不給。且慮禍。甞勉之令去。
         <lb ed="X" n="0512c09"/>師輒不肯。以身任齋粥。每肩栲栳行乞。至晚即數十
         <lb ed="X" n="0512c10"/>人為之荷米麫薪疏。食用之屬。成列以歸。衲子雖多。
-        <lb ed="X" n="0512c11"/>無不具足。如是者十七年如一日。妙喜法嗣之盛。在
-        <lb ed="X" n="0512c12"/>貶所接者居其半。師之力也。妙喜被旨復僧衣自便。
-        <lb ed="X" n="0512c13"/>繼被旨往育王。師甞在座下。師為人豪邁。機鋒敏速。
-        <lb ed="X" n="0512c14"/>妙喜室中。不許衲子下喝。師每入室。必振聲一喝而
-        <lb ed="X" n="0512c15"/>退。妙喜一日榜方丈前云。下喝者罰一貫錢。師見之。
+        <lb ed="X" n="0512c11"/>無不具足。如是者十七年如一日。<persName key="A000475">妙喜</persName>法嗣之盛。在
+        <lb ed="X" n="0512c12"/>貶所接者居其半。師之力也。<persName key="A000475">妙喜</persName>被旨復僧衣自便。
+        <lb ed="X" n="0512c13"/>繼被旨往<placeName key="CN0330212T01AA">育王</placeName>。師甞在座下。師為人豪邁。機鋒敏速。
+        <lb ed="X" n="0512c14"/><persName key="A000475">妙喜</persName>室中。不許衲子下喝。師每入室。必振聲一喝而
+        <lb ed="X" n="0512c15"/>退。<persName key="A000475">妙喜</persName>一日榜方丈前云。下喝者罰一貫錢。師見之。
         <lb ed="X" n="0512c16"/>乃密具千錢於袖中至室中。先頓於地。高聲一喝便
-        <lb ed="X" n="0512c17"/>出。如是者數矣。妙喜無如之何。再榜曰。下喝者。罰當
+        <lb ed="X" n="0512c17"/>出。如是者數矣。<persName key="A000475">妙喜</persName>無如之何。再榜曰。下喝者。罰當
         <lb ed="X" n="0512c18"/>日堂供一中。師見之。即驟步往庫司語曰。和尚要十
         <lb ed="X" n="0512c19"/>兩金。主事者不疑。即與之。乃遣行者隨往方丈。師袖
-        <lb ed="X" n="0512c20"/>之以入。復頓於地。高聲一喝。而妙喜大駭。入室罷徐
+        <lb ed="X" n="0512c20"/>之以入。復頓於地。高聲一喝。而<persName key="A000475">妙喜</persName>大駭。入室罷徐
         <lb ed="X" n="0512c21"/>問知其然。為之一笑。每語師云。你這肥漢。如是會禪。
         <lb ed="X" n="0512c22"/>驢年也未夢見在。然念其勤劬之久。舉令出住舒州
-        <lb ed="X" n="0512c23"/>之投子。先是。投子諸庄。牛遭疾疫。死斃幾盡。比歲不
+        <lb ed="X" n="0512c23"/>之<placeName key="CN0340881T03AA">投子</placeName>。先是。<placeName key="CN0340881M02AA">投子</placeName>諸庄。牛遭疾疫。死斃幾盡。比歲不
         <lb ed="X" n="0512c24"/>登。師以大願力。化二百隻牛。以實之。連歲大稔倍甞。
-        <lb ed="X" n="0513a01"/>頗有異迹。遷住長蘆。衲子輻湊。叢林改觀。及妙喜住
-        <lb ed="X" n="0513a02"/>徑山。師來供施。及飯大眾。洎歸長蘆。妙喜送以偈云。
-        <lb ed="X" n="0513a03"/>人言棒頭出孝子。我道憐兒不覺醜。長蘆長老恁麼
-        <lb ed="X" n="0513a04"/>來。妙喜空費一張口。從教四海妄流傳。野干能作師
+        <lb ed="X" n="0513a01"/>頗有異迹。遷住<placeName key="unknown">長蘆</placeName>。衲子輻湊。叢林改觀。及<persName key="A000475">妙喜</persName>住
+        <lb ed="X" n="0513a02"/><placeName key="CN0330110T11AA">徑山</placeName>。師來供施。及飯大眾。洎歸<placeName key="unknown">長蘆</placeName>。<persName key="A000475">妙喜</persName>送以偈云。
+        <lb ed="X" n="0513a03"/>人言棒頭出孝子。我道憐兒不覺醜。<placeName key="unknown">長蘆</placeName>長老恁麼
+        <lb ed="X" n="0513a04"/>來。<persName key="A000475">妙喜</persName>空費一張口。從教四海妄流傳。野干能作師
         <lb ed="X" n="0513a05"/>子吼。孰云無物贈君行。喝下鐵圍山倒走。後奉詔住
-        <lb ed="X" n="0513a06"/>徑山。道望愈著。先是。陽和王。夢一異僧。長大皤腹緩
-        <lb ed="X" n="0513a07"/>行。言欲化蘇州一庄。覺而異之。未言也。翼日師忽杖
-        <lb ed="X" n="0513a08"/>履徒步而至。門者呵。不止。以白。和王出見之。遙望師
+        <lb ed="X" n="0513a06"/><placeName key="CN0330110T11AA">徑山</placeName>。道望愈著。先是。<persName key="A019443">陽和王</persName>。夢一異僧。長大皤腹緩
+        <lb ed="X" n="0513a07"/>行。言欲化<placeName key="CN0320503Z09AA">蘇州</placeName>一庄。覺而異之。未言也。翼日師忽杖
+        <lb ed="X" n="0513a08"/>履徒步而至。門者呵。不止。以白。<persName key="A019443">和王</persName>出見之。遙望師
         <lb ed="X" n="0513a09"/>奇偉。與夢中見者無異。遽呼其眷屬。出觀之。眷屬並
-        <lb ed="X" n="0513a10"/>炷香作禮。茶罷。師首言。大王庄田至多。可施蘇州一
-        <lb ed="X" n="0513a11"/>庄。以為徑山供佛齋僧。無窮之利。和王未有可否。因
+        <lb ed="X" n="0513a10"/>炷香作禮。茶罷。師首言。大王庄田至多。可施<placeName key="CN0320503Z09AA">蘇州</placeName>一
+        <lb ed="X" n="0513a11"/>庄。以為<placeName key="CN0330110T11AA">徑山</placeName>供佛齋僧。無窮之利。<persName key="A019443">和王</persName>未有可否。因
         <lb ed="X" n="0513a12"/>令一辦齋。師飯罷便出。更無他語。時內外閧然傳言。
-        <lb ed="X" n="0513a13"/>和王以蘇州庄。施徑山長老。遂達孝宗。會和王入朝。
-        <lb ed="X" n="0513a14"/>上為言。聞。卿捨蘇州一庄施徑山。朕當為蠲免賦稅。
-        <lb ed="X" n="0513a15"/>和王謝恩歸。次日以書至徑山。請師入城。而二日前。
-        <lb ed="X" n="0513a16"/>先已遷化矣。自是和王。宴居寤寐之際。或少倦交睫。
+        <lb ed="X" n="0513a13"/><persName key="A019443">和王</persName>以<placeName key="CN0320503Z09AA">蘇州</placeName>庄。施<placeName key="CN0330110T11AA">徑山</placeName>長老。遂達<persName key="A000480">孝宗</persName>。會<persName key="A019443">和王</persName>入朝。
+        <lb ed="X" n="0513a14"/>上為言。聞。卿捨<placeName key="CN0320503Z09AA">蘇州</placeName>一庄施<placeName key="CN0330110T11AA">徑山</placeName>。朕當為蠲免賦稅。
+        <lb ed="X" n="0513a15"/><persName key="A019443">和王</persName>謝恩歸。次日以書至<placeName key="CN0330110T11AA">徑山</placeName>。請師入城。而二日前。
+        <lb ed="X" n="0513a16"/>先已遷化矣。自是<persName key="A019443">和王</persName>。宴居寤寐之際。或少倦交睫。
         <lb ed="X" n="0513a17"/>即見師在前。語曰。六度之大。施度為先。善始善終。斯
-        <lb ed="X" n="0513a18"/>為究竟。和王即以庄隷徑山。此庄。歲出十萬。犂牛舟
+        <lb ed="X" n="0513a18"/>為究竟。<persName key="A019443">和王</persName>即以庄隷<placeName key="CN0330110T11AA">徑山</placeName>。此庄。歲出十萬。犂牛舟
         <lb ed="X" n="0513a19"/>車。解庫應用。百事具足。師於緇素。有大因緣。所在施
-        <lb ed="X" n="0513a20"/>供雲委。衲子臻萃。佛事殊勝。江淛兩湖皆號之。為布
-        <lb ed="X" n="0513a21"/>袋和尚再出焉。</p>
+        <lb ed="X" n="0513a20"/>供雲委。衲子臻萃。佛事殊勝。江淛兩湖皆號之。為<persName key="A012858">布<lb ed="X" n="0513a21"/>袋和尚</persName>再出焉。</p>
 </div>

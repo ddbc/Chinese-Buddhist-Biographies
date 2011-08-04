@@ -1,24 +1,23 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0495b07zhiWen">
-    <head><lb ed="X" n="0495b07"/>　　　　至溫傳</head>
-    <p><anchor n="X.77.1524.0495b08"/><lb ed="X" n="0495b08"/>至溫。字其玉。號全一。生邢州郝氏。幼聰敏異甞。六歲
-        <lb ed="X" n="0495b09"/>見寂照和尚。照曰。汝其為釋氏乎。師心許之。會照避
-        <lb ed="X" n="0495b10"/>亂。去隱遼西。乃禮照弟子辯菴訥。而祝髮焉。無還富
-        <lb ed="X" n="0495b11"/>公。開法萬壽。涖眾甚嚴。師不以為忤。與十僧同往佐
-        <lb ed="X" n="0495b12"/>之。尋為萬松侍者。以才氣過人。稍不容於眾。然博記
+    <head><lb ed="X" n="0495b07"/>　　　　<persName key="A015360">至溫</persName>傳</head>
+    <p><anchor n="X.77.1524.0495b08"/><lb ed="X" n="0495b08"/><persName key="A015360">至溫</persName>。字<persName key="A015360">其玉</persName>。號<persName key="A015360">全一</persName>。生<placeName key="CN0130502Z07AA">邢州</placeName>郝氏。幼聰敏異甞。<date key="j21673872167751" when-iso="1222">六歲</date>
+        <lb ed="X" n="0495b09"/>見<persName key="unknown">寂照</persName>和尚。照曰。汝其為釋氏乎。師心許之。會照避
+        <lb ed="X" n="0495b10"/>亂。去隱<placeName key="CN0210727Z38AA">遼西</placeName>。乃禮照弟子<persName key="unknown">辯菴訥</persName>。而祝髮焉。<persName key="unknown">無還富</persName>
+        <lb ed="X" n="0495b11"/>公。開法<placeName key="unknown">萬壽</placeName>。涖眾甚嚴。師不以為忤。與十僧同往佐
+        <lb ed="X" n="0495b12"/>之。尋為<persName key="A000408">萬松</persName>侍者。以才氣過人。稍不容於眾。然博記
         <lb ed="X" n="0495b13"/>多聞。百家之言。罔不該涉。又善草書。有顛素之遺法。
-        <lb ed="X" n="0495b14"/>凡萬松偈頌法語。一聞輒了之。遂得法焉。甞使代應
-        <lb ed="X" n="0495b15"/>對。談鋒不可犯。太保劉文貞公。長師一歲。少時相好
-        <lb ed="X" n="0495b16"/>也。薦師可大用。世祖召見與語。大悅。將授以官。辭曰。
-        <lb ed="X" n="0495b17"/>天下佛法流通。僧之願。富貴非所望也。慰而遣之。世
-        <lb ed="X" n="0495b18"/>祖征雲南還。文貞為言。錫師號。曰佛國普安大禪師。
+        <lb ed="X" n="0495b14"/>凡<persName key="A000408">萬松</persName>偈頌法語。一聞輒了之。遂得法焉。甞使代應
+        <lb ed="X" n="0495b15"/>對。談鋒不可犯。太保<persName key="unknown">劉文貞</persName>公。長師一歲。少時相好
+        <lb ed="X" n="0495b16"/>也。薦師可大用。<persName key="A002085">世祖</persName>召見與語。大悅。將授以官。辭曰。
+        <lb ed="X" n="0495b17"/>天下佛法流通。僧之願。富貴非所望也。慰而遣之。<persName key="A002085">世<lb ed="X" n="0495b18"/>祖</persName>征<placeName key="CN0530102E01AA">雲南</placeName>還。<persName key="unknown">文貞</persName>為言。錫師號。曰<persName key="A015360">佛國普安大禪師</persName>。
         <lb ed="X" n="0495b19"/>總攝諸路僧事。刻印以賜。師銳意衛教。凡僧之田廬。
         <lb ed="X" n="0495b20"/>見侵於豪富及他教者。皆力歸之。馳驛四出。周於所
-        <lb ed="X" n="0495b21"/>履。必獲其志乃已。或勸之少憩弗懈也。憲宗末年。僧
-        <lb ed="X" n="0495b22"/>道士。各為違言以相傾。上命聚訟於和林。剖決真偽。
-        <lb ed="X" n="0495b23"/>師從少林諸師辯之。道士義墮。自是法教大興。僧徒
+        <lb ed="X" n="0495b21"/>履。必獲其志乃已。或勸之少憩弗懈也。<date from-iso="1258-01-15" to-iso="1260-05-11" key="j21805502181397"><persName key="A006669">憲宗</persName>末年</date>。僧
+        <lb ed="X" n="0495b22"/>道士。各為違言以相傾。上命聚訟於<placeName key="MN055HR00Z04AA">和林</placeName>。剖決真偽。
+        <lb ed="X" n="0495b23"/>師從<placeName key="CN0410185T01AA">少林</placeName>諸師辯之。道士義墮。自是法教大興。僧徒
         <lb ed="X" n="0495b24"/>賴之。師遂納印辭職。每歲賜金。輒緣手盡。世味泊如
-        <lb ed="X" n="0495c01"/>也。以至元丁卯。終於桓州之天宮寺。當盛暑。儀形如
+        <lb ed="X" n="0495c01"/>也。以<date from-iso="1267-02-03" to-iso="1268-01-22" key="j21838562184209">至元丁卯</date>。終於桓州之<placeName key="unknown">天宮寺</placeName>。當盛暑。儀形如
         <lb ed="X" n="0495c02"/>生。異香馥郁。停三日火浴之。心舌牙齒不壞。人掊其
         <lb ed="X" n="0495c03"/>地深數尺。皆得舍利云。世壽五十一。僧臘四十。</p>
 </div>

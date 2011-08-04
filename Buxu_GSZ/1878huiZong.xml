@@ -1,36 +1,33 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0505b15huiZong">
-    <head><lb ed="X" n="0505b15"/>　　　　別傳老人傳</head>
-    <p><anchor n="X.77.1524.0505b16"/><lb ed="X" n="0505b16"/>慧宗。別傳其字。湖廣雲夢汪氏子。生而凝寂。不樂世
-        <lb ed="X" n="0505b17"/>相。七歲投白[鴳-女+隹]寺出家。九歲。有王居士者。引之入蜀。
-        <lb ed="X" n="0505b18"/>至重慶綦江石門寺。受具戒。嘉靖甲午。登峨眉顛禮
+    <head><lb ed="X" n="0505b15"/>　　　　<persName key="A009033">別傳老人</persName>傳</head>
+    <p><anchor n="X.77.1524.0505b16"/><lb ed="X" n="0505b16"/><persName key="A009033">慧宗</persName>。<persName key="A009033">別傳</persName>其字。湖廣<placeName key="CN0420923Z07AA">雲夢</placeName>汪氏子。生而凝寂。不樂世
+        <lb ed="X" n="0505b17"/>相。<date key="j22707502271114" when-iso="1505">七歲</date>投<placeName key="unknown">白[鴳-女+隹]寺</placeName>出家。<date key="j22714802271844" when-iso="1507">九歲</date>。有<persName key="unknown">王居士</persName>者。引之入<placeName key="CN0510108E01AA">蜀</placeName>。
+        <lb ed="X" n="0505b18"/>至重慶綦江<placeName key="CN0500222T01AA">石門寺</placeName>。受具戒。<date from-iso="1534-01-24" to-iso="1535-02-11" key="j22813652281748">嘉靖甲午</date>。登<placeName key="CN0511181M01AA">峨眉</placeName>顛禮
         <lb ed="X" n="0505b19"/>佛次。時雲氣乍斂。杲日當空。見金色異人。乘小舟歷
-        <lb ed="X" n="0505b20"/>銅塔崖而沒。述於得法師謙公。公曰。爾大有緣。此菩
+        <lb ed="X" n="0505b20"/>銅塔崖而沒。述於得法師<persName key="unknown">謙公</persName>。公曰。爾大有緣。此菩
         <lb ed="X" n="0505b21"/>薩示現也。自是以荷擔山門為事矣。居山四十年。自
-        <lb ed="X" n="0505b22"/>白水至山顛。樓觀像設之屬。無不鼎新充拓。儼如天
-        <lb ed="X" n="0505b23"/>宮化城。隆慶己巳。始出山。游京師。渡南海。禮觀音大
-        <lb ed="X" n="0505b24"/>士。入五臺。有終焉之志。師生平嚴持戒律。不喜作紙
+        <lb ed="X" n="0505b22"/><placeName key="CN0511181T01AA">白水</placeName>至山顛。樓觀像設之屬。無不鼎新充拓。儼如天
+        <lb ed="X" n="0505b23"/>宮化城。<date from-iso="1569-01-27" to-iso="1570-02-14" key="j22941522294535">隆慶己巳</date>。始出山。游<placeName key="CN0110102Z07AA">京師</placeName>。渡<placeName key="CN0330903M01AA">南海</placeName>。禮<persName key="A002803">觀音大<lb ed="X" n="0505b24"/>士</persName>。入<placeName key="CN0140900M01AA">五臺</placeName>。有終焉之志。師生平嚴持戒律。不喜作紙
         <lb ed="X" n="0505c01"/>墨文字曰。三藏教典。亦是糟粕。更饒舌何為。先示寂
         <lb ed="X" n="0505c02"/>三日。忽云。將西歸。澡浴更衣。結跏澄息。誦佛號不輟。
         <lb ed="X" n="0505c03"/>至期召諸弟子曰。吾素不留文字。今日不能無言。因
         <lb ed="X" n="0505c04"/>唱偈曰。生本無所生。死亦何所有。這箇臭皮囊。今朝
         <lb ed="X" n="0505c05"/>成腐朽。弟子鳴鐘。鐘止忽開目。續唱(云云)。安然而逝。
-        <lb ed="X" n="0505c06"/>世壽八十一。僧臘七十五。塔在四會亭下。師生平靈
-        <lb ed="X" n="0505c07"/>異最多。甞至新津興化寺。鍊排不勝勞苦。白板首求
+        <lb ed="X" n="0505c06"/>世壽八十一。僧臘七十五。塔在<placeName key="unknown">四會亭</placeName><!--請參(http://www.emsfj.com/dcls/ShowArticle.asp?ArticleID=218，2011.07.12) -->下。師生平靈
+        <lb ed="X" n="0505c07"/>異最多。甞至新津<placeName key="unknown">興化寺</placeName>。鍊排不勝勞苦。白板首求
         <lb ed="X" n="0505c08"/>退。遂往富民某氏之門。趺坐七晝夜。乞若干緡齋僧。
         <lb ed="X" n="0505c09"/>主人初不樂施。至夜光明徹屋。驚異跡之。光從師坐
-        <lb ed="X" n="0505c10"/>處起。始皈敬焉。又往漢州金堂縣。擊魚募化。其聲所
+        <lb ed="X" n="0505c10"/>處起。始皈敬焉。又往漢州<placeName key="CN0510113Z01AA">金堂</placeName>縣。擊魚募化。其聲所
         <lb ed="X" n="0505c11"/>應不定。東擊西聞。西擊東聞。一夕大雨。師不出戶。魚
         <lb ed="X" n="0505c12"/>聲亦遍田野。村民物色之。師但安坐神祠而已。其渡
-        <lb ed="X" n="0505c13"/>海也。見白衣大士。坐金色蓮花。冉冉雲氣中。弟子鎮
-        <lb ed="X" n="0505c14"/>滄。未剃髮時。從師荷擔甚疲。師問曰。耐煩乎。應曰諾
-        <lb ed="X" n="0505c15"/>行一二十里。復問答如前不少惰。乃於雙飛橋。為滄
-        <lb ed="X" n="0505c16"/>落髮。憐其愚。令炷香跪大士前。頂水盂誦祝聰明。呪
-        <lb ed="X" n="0505c17"/>一百遍。歷年至白水。猶如此。一日寺災。滄跪請師休
-        <lb ed="X" n="0505c18"/>去。師數而罵之。滄於是作入水想。祝空曰。殿宇既空。
+        <lb ed="X" n="0505c13"/>海也。見<persName key="A002803">白衣大士</persName>。坐金色蓮花。冉冉雲氣中。弟子<persName key="A009561">鎮<lb ed="X" n="0505c14"/>滄</persName>。未剃髮時。從師荷擔甚疲。師問曰。耐煩乎。應曰諾
+        <lb ed="X" n="0505c15"/>行一二十里。復問答如前不少惰。乃於<placeName key="CN0511181M01EF">雙飛橋</placeName>。為<persName key="A009561">滄</persName>
+        <lb ed="X" n="0505c16"/>落髮。憐其愚。令炷香跪<persName key="A002803">大士</persName>前。頂水盂誦祝聰明。呪
+        <lb ed="X" n="0505c17"/>一百遍。歷年至<placeName key="CN0511181T01AA">白水</placeName>。猶如此。一日寺災。<persName key="A009561">滄</persName>跪請師休
+        <lb ed="X" n="0505c18"/>去。師數而罵之。<persName key="A009561">滄</persName>於是作入水想。祝空曰。殿宇既空。
         <lb ed="X" n="0505c19"/>願保庫司無恙。遂歸庫房默坐。頂水宛然。火至自滅。
-        <lb ed="X" n="0505c20"/>乃知師平生。造就弟子。皆此類也。馮司成夢禎謂。別
-        <lb ed="X" n="0505c21"/>傳老人。踐履純白。以莊嚴道場為佛事。其向上一著
+        <lb ed="X" n="0505c20"/>乃知師平生。造就弟子。皆此類也。<persName key="A007548">馮司成夢禎</persName>謂。<persName key="A009033">別<lb ed="X" n="0505c21"/>傳老人</persName>。踐履純白。以莊嚴道場為佛事。其向上一著
         <lb ed="X" n="0505c22"/>子。雖不聞其曾見何人。嗣何家宗派。要之乘願輪而
         <lb ed="X" n="0505c23"/>來。不可以凡情測者也。</p>
 </div>

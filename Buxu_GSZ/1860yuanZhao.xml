@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0500b16yuanZhao">
-    <head><lb ed="X" n="0500b16"/>　　　　肇公奘公傳</head>
-    <p><anchor n="X.77.1524.0500b17"/><lb ed="X" n="0500b17"/>原肇。通州靖海潘氏子。母朱氏。邑之利和寺妙觀。其
-        <lb ed="X" n="0500b18"/>諸父也。携之出家。事瑜伽教師。六七歲即能詩。脫口
+    <head><lb ed="X" n="0500b16"/>　　　　<persName key="A009002">肇公</persName><persName key="A021521">奘公</persName>傳</head>
+    <p><anchor n="X.77.1524.0500b17"/><lb ed="X" n="0500b17"/><persName key="A009002">原肇</persName>。通州<placeName key="CN0320602Z05AA">靖海</placeName>潘氏子。母<persName key="unknown">朱氏</persName>。邑之<placeName key="CN0320602T02AA">利和寺</placeName><persName key="A021510">妙觀</persName>。其
+        <lb ed="X" n="0500b18"/>諸父也。携之出家。事瑜伽教師。<date from-iso="1194-01-01" to-iso="1195-12-31" key="j21571602157889">六七歲</date>即能詩。脫口
         <lb ed="X" n="0500b19"/>可誦。未甞見其執卷習學。既為僧。嗜酒肉。無日不醉
         <lb ed="X" n="0500b20"/>飽。酣呼叫嘯。嘔噦狼籍。寺眾惡之。後忽顯神異。人莫
         <lb ed="X" n="0500b21"/>之測。甞就江洗酒甕。翻裏作表。甕軟如麫。有時大醉
@@ -15,20 +15,20 @@
         <lb ed="X" n="0500c04"/>按佛頭。引項而哇之。其物淋然而下。殿主見之。倉皇
         <lb ed="X" n="0500c05"/>報寺主。眾集開殿門。師歎曰。來何早也。遂下行。且罵
         <lb ed="X" n="0500c06"/>曰。賊賊。自是不復還寺矣。視之唾所及處。皆成真金。
-        <lb ed="X" n="0500c07"/>止於佛胸而已。眾始知師聖人也。後見徑山浙翁琰
+        <lb ed="X" n="0500c07"/>止於佛胸而已。眾始知師聖人也。後見<placeName key="CN0330110M09AA">徑山</placeName><persName key="A009592">浙翁琰</persName>
         <lb ed="X" n="0500c08"/>禪師。以師根器警敏。欲大激發。未容其參堂。見即喝
-        <lb ed="X" n="0500c09"/>出。且問曰。泗州大聖。為甚麼在揚州出現。師曰。今日
-        <lb ed="X" n="0500c10"/>又在杭州撞着。翁又喝。久之。大悟。彈指一下云。吽吽
+        <lb ed="X" n="0500c09"/>出。且問曰。<placeName key="CN0320830Z19AA">泗州</placeName>大聖。為甚麼在<placeName key="CN0321002Z03AA">揚州</placeName>出現。師曰。今日
+        <lb ed="X" n="0500c10"/>又在<placeName key="CN0330103Z13AA">杭州</placeName>撞着。翁又喝。久之。大悟。彈指一下云。吽吽
         <lb ed="X" n="0500c11"/>遂入室。掌書記。翁既寂。師因繼席。值歉餘。逋劵山積。
         <lb ed="X" n="0500c12"/>僧殘屋老。未幾。樓閣矗霄。雲衲踵至。不減翁全盛時。
         <lb ed="X" n="0500c13"/>師自渡江而南。無復故態。實經諸禪老磨琢。故收斂
         <lb ed="X" n="0500c14"/>精光。行止謹密。若與前隔世者。其題喝石巖詩云。皓
         <lb ed="X" n="0500c15"/>首來迎宴坐師。山靈易地致俱胝。要知弘法回天力。
         <lb ed="X" n="0500c16"/>但看精誠裂石時。葢託古以自見耳。將寂。囑其徒曰。
-        <lb ed="X" n="0500c17"/>為吾附一穴於東磵。見生死不忘奉師之意。東磵。翁
+        <lb ed="X" n="0500c17"/>為吾附一穴於<placeName key="unknown">東磵</placeName>。見生死不忘奉師之意。<placeName key="unknown">東磵</placeName>。翁
         <lb ed="X" n="0500c18"/>葬處也。</p><p>
-        <lb ed="X" n="0500c19"/>元奘。永嘉人。為嘉福院僧。飲酒啖肉。日與兒童嬉戲。
-        <lb ed="X" n="0500c20"/>市人呼為奘顛。見人即覔酒。努目張拳。為金剛之狀。
+            <lb ed="X" n="0500c19"/><persName key="A021521">元奘</persName>。<placeName key="CN0330302Z07AA">永嘉</placeName>人。為<placeName key="unknown">嘉福院</placeName>僧。飲酒啖肉。日與兒童嬉戲。
+            <lb ed="X" n="0500c20"/>市人呼為<persName key="A021521">奘顛</persName>。見人即覔酒。努目張拳。為金剛之狀。
         <lb ed="X" n="0500c21"/>見者絕倒。雖夜醉。至四鼓必起。誦法華經。天明復入
         <lb ed="X" n="0500c22"/>酒肆。醉時遺溺滿衣。未甞浣濯無穢氣。忽一日。遍辭
         <lb ed="X" n="0500c23"/>諸酒徒。刻期趺坐而逝。</p>

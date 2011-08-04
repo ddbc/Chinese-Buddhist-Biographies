@@ -1,34 +1,30 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0514b01zhenRong">
-    <head><lb ed="X" n="0514b01"/>　　　　大智禪師傳</head>
-    <p><anchor n="X.77.1524.0514b02"/><lb ed="X" n="0514b02"/>真融。楚之麻城人也。幼有慧性。十五為沙彌。潛心教
-        <lb ed="X" n="0514b03"/>乘數年。托鉢行游。涉歷名山。所至隨處結緣。嘉靖丁
-        <lb ed="X" n="0514b04"/>未。抵建康。入牛首山。修苦行。明年入燕京。掛搭崇國
-        <lb ed="X" n="0514b05"/>寺。諷法華經。越數月至萬壽山。登壇受戒已。入五臺
-        <lb ed="X" n="0514b06"/>山。禁步五年。愈益精進。甲寅。往伏牛山龜背石。煉磨
-        <lb ed="X" n="0514b07"/>三年。持行益苦。丁巳。自伏牛還楚。寓會城龍華寺轉
-        <lb ed="X" n="0514b08"/>經。明年入蜀。住峨眉山頂。禁步一十二年。集眾修安
-        <lb ed="X" n="0514b09"/>養行。立叢林。建藏閣。名淨土菴。接納雲水。孳孳如不
-        <lb ed="X" n="0514b10"/>及。萬曆二年。出山。隨喜止[鎣-(冗-几)]華山。[鎣-(冗-几)]華與峨眉。相拱
+    <head><lb ed="X" n="0514b01"/>　　　　<persName key="A006946">大智</persName>禪師傳</head>
+    <p><anchor n="X.77.1524.0514b02"/><lb ed="X" n="0514b02"/><persName key="A006946">真融</persName>。楚之<placeName key="CN0421181Z15AA">麻城</placeName>人也。幼有慧性。<date key="j22828032283167" when-iso="1538">十五</date>為沙彌。潛心教
+        <lb ed="X" n="0514b03"/>乘數年。托鉢行游。涉歷名山。所至隨處結緣。<date from-iso="1547-02-01" to-iso="1548-02-19" key="j22861212286504">嘉靖丁<lb ed="X" n="0514b04"/>未</date>。抵建康。入<placeName key="CN0320100M01AA">牛首山</placeName>。修苦行。明年入<placeName key="CN0110102Z07AA">燕京</placeName>。掛搭<placeName key="CN0110102T07AA">崇國<lb ed="X" n="0514b05"/>寺</placeName>。諷法華經。越數月至<placeName key="CN0110108M04AA">萬壽山</placeName>。登壇受戒已。入<placeName key="CN0140900M01AA">五臺<lb ed="X" n="0514b06"/>山</placeName>。禁步五年。愈益精進。<date from-iso="1554-02-12" to-iso="1555-02-01" key="j22886892289043">甲寅</date>。往伏牛山<placeName key="unknown">龜背石</placeName>。煉磨
+        <lb ed="X" n="0514b07"/>三年。持行益苦。<date from-iso="1557-02-09" to-iso="1558-01-29" key="j22897822290136">丁巳</date>。自<placeName key="unknown">伏牛</placeName>還<placeName key="CN0420000E01AA">楚</placeName>。寓會城<placeName key="unknown">龍華寺</placeName>轉
+        <lb ed="X" n="0514b08"/>經。明年入<placeName key="CN0510108E01AA">蜀</placeName>。住<placeName key="CN0511181M01AA">峨眉山</placeName>頂。禁步一十二年。集眾修安
+        <lb ed="X" n="0514b09"/>養行。立叢林。建藏閣。名<placeName key="CN0511181M01HK">淨土菴</placeName>。接納雲水。孳孳如不
+        <lb ed="X" n="0514b10"/>及。<date from-iso="1574-02-02" to-iso="1575-02-20" key="j22959842296367">萬曆二年</date>。出山。隨喜止<placeName key="CN0510682M02AA">[鎣-(冗-几)]華山</placeName>。<placeName key="CN0510682M02AA">[鎣-(冗-几)]華</placeName>與<placeName key="CN0511181M01AA">峨眉</placeName>。相拱
         <lb ed="X" n="0514b11"/>向。每見朝山人眾。山路八十里。崎嶇嶮峻。風雨不時。
-        <lb ed="X" n="0514b12"/>措足無地。欲為憩息之所。而難其基。聞山有池。曰金
-        <lb ed="X" n="0514b13"/>蓮池。上平衍可建道場。師大喜。往視果然。遂夷石為
+        <lb ed="X" n="0514b12"/>措足無地。欲為憩息之所。而難其基。聞山有池。曰<placeName key="unknown">金<lb ed="X" n="0514b13"/>蓮池</placeName>。上平衍可建道場。師大喜。往視果然。遂夷石為
         <lb ed="X" n="0514b14"/>址。伐木為材。工勤於趨。人樂於助。不一二年成一大
-        <lb ed="X" n="0514b15"/>剎。名金蓮菴。寔峨山之化城。雲水賴之。復修千佛閣。
-        <lb ed="X" n="0514b16"/>為金蓮之鎮。既而復念。天下三大道場。五臺峨眉。已
-        <lb ed="X" n="0514b17"/>獲朝參。獨普陀山。乃觀世音示化之地。可弗至乎。以
-        <lb ed="X" n="0514b18"/>萬曆庚辰。渡海抵小白華。感大士示相。大慰夙願。自
-        <lb ed="X" n="0514b19"/>謂。與此山有緣。餔糜喫菜。了餘生足矣。乃於寶陀寺
-        <lb ed="X" n="0514b20"/>之左。曰千步沙。迤邐而東。沙盡處有山。曰光熙峰。師
-        <lb ed="X" n="0514b21"/>結菴其麓。前為樓儼然。觀滄海日出。後為大士精舍。
-        <lb ed="X" n="0514b22"/>其餘方丈香積。靡不翼翼然飾矣。菴成。命之曰海潮。
-        <lb ed="X" n="0514b23"/>葢視峨眉[鎣-(冗-几)]華之勝。不相遠也。師為人。一味真實。捍
+        <lb ed="X" n="0514b15"/>剎。名<placeName key="CN0510682T03AA">金蓮菴</placeName>。寔峨山之化城。雲水賴之。復修<placeName key="unknown">千佛閣</placeName>。
+        <lb ed="X" n="0514b16"/>為<placeName key="unknown">金蓮</placeName>之鎮。既而復念。天下三大道場。<placeName key="CN0140900M01AA">五臺</placeName><placeName key="CN0511181M01AA">峨眉</placeName>。已
+        <lb ed="X" n="0514b17"/>獲朝參。獨<placeName key="CN0330903M01AA">普陀山</placeName>。乃<persName key="A002803">觀世音</persName>示化之地。可弗至乎。以
+        <lb ed="X" n="0514b18"/><date from-iso="1580-01-26" to-iso="1581-02-13" key="j22981682298552">萬曆庚辰</date>。渡海抵<placeName key="CN0330903M01AA">小白華</placeName>。感<persName key="A002803">大士</persName>示相。大慰夙願。自
+        <lb ed="X" n="0514b19"/>謂。與此山有緣。餔糜喫菜。了餘生足矣。乃於<placeName key="CN0330903T02AA">寶陀寺</placeName>
+        <lb ed="X" n="0514b20"/>之左。曰<placeName key="CN0330903A02AA">千步沙</placeName>。迤邐而東。沙盡處有山。曰<placeName key="CN0330903M19AA">光熙峰</placeName>。師
+        <lb ed="X" n="0514b21"/>結菴其麓。前為樓儼然。觀滄海日出。後為<placeName key="unknown">大士精舍</placeName>。
+        <lb ed="X" n="0514b22"/>其餘方丈香積。靡不翼翼然飾矣。菴成。命之曰<placeName key="CN0330903T03AA">海潮</placeName>。
+        <lb ed="X" n="0514b23"/>葢視<placeName key="CN0511181M01AA">峨眉</placeName><placeName key="CN0510682M02AA">[鎣-(冗-几)]華</placeName>之勝。不相遠也。師為人。一味真實。捍
         <lb ed="X" n="0514b24"/>忍勤苦。剗滅情識。人無賢愚少長。一以慈眼視之。游
-        <lb ed="X" n="0514c01"/>泳教海。深入三昧。終不以二門。自居淨業堂。一單終
+        <lb ed="X" n="0514c01"/>泳教海。深入三昧。終不以二門。自居<placeName key="unknown">淨業堂</placeName>。一單終
         <lb ed="X" n="0514c02"/>身。不與眾異也。甞謂人曰。某甲苦行六十年。豈敢妄
         <lb ed="X" n="0514c03"/>有希圖。但願與三寶結緣。成人天小果。畢吾志耳。師
         <lb ed="X" n="0514c04"/>住山。多神異之跡。痛秘之人。有見者戒勿泄。靜極光
         <lb ed="X" n="0514c05"/>通。理固然耳。吾自不惑。焉敢惑人。師之道岸。無涯涘
-        <lb ed="X" n="0514c06"/>矣。故朝海者見大智禪師。以為現在肉身大士。叢林
-        <lb ed="X" n="0514c07"/>相傳。以為口實云。歲□□□月。坐化於海潮院。</p>
+        <lb ed="X" n="0514c06"/>矣。故朝海者見<persName key="A006946">大智</persName>禪師。以為現在肉身大士。叢林
+        <lb ed="X" n="0514c07"/>相傳。以為口實云。歲□□□月。坐化於<placeName key="unknown">海潮院</placeName>。</p>
 </div>

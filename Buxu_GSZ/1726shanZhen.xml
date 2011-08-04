@@ -1,20 +1,18 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0447c22shanZhen">
-    <head><lb ed="X" n="0447c22"/>　　　　藏叟珍公傳</head>
-    <p><anchor n="X.77.1524.0447c23"/><lb ed="X" n="0447c23"/>善珍。字藏叟。泉之南安呂氏子。年十三落髮。十六游
-        <lb ed="X" n="0447c24"/>方。至杭受具足戒。謁妙峯善公于靈隱。入室悟旨。後
-        <lb ed="X" n="0448a01"/>出住里之光孝。升承天。繼遷安吉之思溪圓覺。福之
-        <lb ed="X" n="0448a02"/>雪峯。復以朝命。移四明之育王。臨安之徑山。上堂。靈
-        <lb ed="X" n="0448a03"/>雲見桃花悟去。玄沙道。敢保老兄未徹。香嚴聞擊竹
+    <head><lb ed="X" n="0447c22"/>　　　　<persName key="A009665">藏叟珍</persName>公傳</head>
+    <p><anchor n="X.77.1524.0447c23"/><lb ed="X" n="0447c23"/><persName key="A009665">善珍</persName>。字<persName key="A009665">藏叟</persName>。泉之<placeName key="CN0350583Z12AA">南安</placeName>呂氏子。<date key="j21396282139992" when-iso="1146">年十三</date>落髮。<date key="j21407242141088" when-iso="1149">十六</date>游
+        <lb ed="X" n="0447c24"/>方。至<placeName key="CN0330103Z15AA">杭</placeName>受具足戒。謁<persName key="A007798">妙峯善</persName>公于<placeName key="CN0330106M02AA">靈隱</placeName>。入室悟旨。後
+        <lb ed="X" n="0448a01"/>出住里之<placeName key="CN0350502T06AA">光孝</placeName>。升<placeName key="CN0350502T03AA">承天</placeName>。繼遷安吉之<placeName key="CN0330502A12AA">思溪</placeName><placeName key="unknown">圓覺</placeName>。福之
+        <lb ed="X" n="0448a02"/><placeName key="CN0350121T03AA">雪峯</placeName>。復以朝命。移四明之<placeName key="CN0330212T01AA">育王</placeName>。臨安之<placeName key="CN0330110T11AA">徑山</placeName>。上堂。<persName key="A005134">靈<lb ed="X" n="0448a03"/>雲</persName>見桃花悟去。<persName key="A008370">玄沙</persName>道。敢保老兄未徹。香嚴聞擊竹
         <lb ed="X" n="0448a04"/>悟去仰山道。祖師禪未會。禪和十箇五雙道。我此一
-        <lb ed="X" n="0448a05"/>門。全無肯路示。未知靈雲香嚴在。要知二大老<ptr target="fn1"/>磨。醉
+        <lb ed="X" n="0448a05"/>門。全無肯路示。未知<persName key="A005134">靈雲</persName><persName key="A005255">香嚴</persName>在。要知二大老<ptr target="fn1"/>磨。醉
         <lb ed="X" n="0448a06"/>我落花天。借他絃歌裏。又據室云。這裏便是問訊燒
         <lb ed="X" n="0448a07"/>香。了來老僧身邊。玄地底所在麼。呆子你自鈍置猶
-        <lb ed="X" n="0448a08"/>可。莫來鈍置老僧。師法語無拘滯。大率類此。門人貌
-        <lb ed="X" n="0448a09"/>師真請題。揮云。叅禪無悟。識字有數。眼三角似燕山
+        <lb ed="X" n="0448a08"/>可。莫來鈍置老僧。師法語無拘滯。大率類此。門人<persName key="unknown">貌<lb ed="X" n="0448a09"/>師真</persName>請題。揮云。叅禪無悟。識字有數。眼三角似燕山
         <lb ed="X" n="0448a10"/>愁胡。面百摺如趙婆呷醋。一著高出諸方。敢道飯是
-        <lb ed="X" n="0448a11"/>米做。生於紹興甲寅。逝于嘉定丁丑。年八十有三。六
-        <lb ed="X" n="0448a12"/>住大剎。接納良多。而入室得髓者。唯元叟端公一人
-        <lb ed="X" n="0448a13"/>而已。端之後法脉繩繩。至我　明。尚有振起作師吼
+        <lb ed="X" n="0448a11"/>米做。生於<date from-iso="1134-02-03" to-iso="1135-01-22" key="j21352782135631">紹興甲寅</date>。逝于<date from-iso="1217-02-15" to-iso="1218-02-03" key="j21656062165959">嘉定丁丑</date>。年八十有三。六
+        <lb ed="X" n="0448a12"/>住大剎。接納良多。而入室得髓者。唯<persName key="A001032">元叟端</persName>公一人
+        <lb ed="X" n="0448a13"/>而已。<persName key="A001032">端</persName>之後法脉繩繩。至我　<persName key="A000658">明</persName>。尚有振起作師吼
         <lb ed="X" n="0448a14"/>者。師之道。源遠流長。可知矣。</p>
 </div>

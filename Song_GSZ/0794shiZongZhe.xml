@@ -1,19 +1,19 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0731b27shiZongZhe">
-    <anchor n="T.50.2061.0731b27"/><head><date from-iso="0618-06-21" key="j19469512052491" to-iso="0907-06-06">唐</date>太原府崇福寺<persName key="A009269">宗哲</persName>傳</head><p>
+    <lb ed="T" n="0731b27"/><anchor n="T.50.2061.0731b27"/><head><date from-iso="0618-06-21" key="j19469512052491" to-iso="0907-06-06">唐</date><placeName key="CN0140110T10AA">太原府崇福寺</placeName><persName key="A009269">宗哲</persName>傳</head><p>
         <lb ed="T" n="0731b28"/><persName key="A009269">釋宗哲</persName>，<placeName key="CN0140728Z07AA">西河平遙</placeName>人也。稚歲而有奇相，聰頴
 <lb ed="T" n="0731b29"/>天資，既尋師範，砥節飾躬。屬<persName key="A000294">玄奘三藏</persName>新<pb ed="T" n="0731c" xml:id="T50.2061.0731c"/>
-<lb ed="T" n="0731c01"/>翻諸經論，<persName key="A009269">哲</persName>就其門，請益無替，凡幾周星，
+        <lb ed="T" n="0731c01"/>翻諸經論，<persName key="A009269">哲</persName>就其門，請益無替<ptr target="#n522"/>，凡幾周星<ptr target="#n659"/>，
 <lb ed="T" n="0731c02"/>備窮諸典，若指于掌，於<persName key="A000294">奘</persName>門下號為<persName key="A009269">得
-<lb ed="T" n="0731c03"/>意哲</persName>，猶隋<persName key="A004580">慧布</persName>之題目焉。後因講唱，厥義
-<lb ed="T" n="0731c04"/>日新，時謂之為「<persName key="A009269">法江</persName>」。<persName key="A009269">哲</persName>曰：「為<persName key="A009269">吾</persName>謝此品藻
-        <lb ed="T" n="0731c05"/>焉，殊不知<persName key="A009275">法海</persName>在乎<placeName key="CN0140110Z03AA"><anchor xml:id="beg0731001"/>大<anchor xml:id="end0731001"/>原</placeName>矣。」所指者蓋
-        <lb ed="T" n="0731c06"/><persName key="A009275">浮丘</persName>為滄溟也。<persName key="A009269">哲</persName>憫學者不達其意而師，
+    <lb ed="T" n="0731c03"/>意哲</persName>，猶<date from-iso="0581-03-06" key="j19333311946884" to-iso="0618-04-15">隋</date><persName key="A004580">慧布</persName>之題目焉<ptr target="#n660"/>。後因講唱，厥義
+        <lb ed="T" n="0731c04"/>日新，時謂之為「<persName key="A009269">法江</persName>」。<persName key="A009269">哲</persName>曰：「為<ref type="person" target="#A009269">吾</ref>謝<ptr target="#n661"/>此品藻
+        <lb ed="T" n="0731c05"/>焉，殊不知<persName key="A009275">法海</persName>在乎<placeName key="CN0140110Z03AA"><anchor xml:id="beg0731001"/><choice resp="sgsz"><sic>大</sic><corr>太</corr></choice><anchor xml:id="end0731001"/>原</placeName>矣。」所指者蓋
+        <lb ed="T" n="0731c06"/><persName key="A009275">浮丘</persName>為滄溟也。<persName key="A009269">哲</persName>憫<ptr target="#n662"/>學者不達其意而師，
 <lb ed="T" n="0731c07"/>誖哉，乃著義例，寰海之內莫不企<app type="cb-app" xml:id="begd1e6230"/>羨<anchor xml:id="endd1e6230"/>。其如
-<lb ed="T" n="0731c08"/>說佛位三事喻中，<persName key="A001708">沼法師</persName>言三點三目，強
+        <lb ed="T" n="0731c08"/>說「佛位三事喻」中，<persName key="A001708">沼法師</persName>言「三點三目」<ptr target="#n663"/>，強
 <lb ed="T" n="0731c09"/>分上下，勝劣配屬，太成巧誣。<persName key="A009269">哲</persName>云三事俱
 <lb ed="T" n="0731c10"/>得。然無名師品量。退而省之，<persName key="A009269">哲</persName>其得矣。號
-<lb ed="T" n="0731c11"/>之「<persName key="A009269">得意</persName>」。豈虛也乎！<persName key="A001708">沼師</persName>所以成餘師之說也。</p>
+        <lb ed="T" n="0731c11"/>之「<persName key="A009269">得意</persName>」，豈虛也乎！<persName key="A001708">沼師</persName>所以成餘師<ptr target="#n664"/>之說也。</p>
     <linkGrp>
         <link targets="#0731b28 #0731b28"/>
         <ptr target="#A009269" type="person"/>

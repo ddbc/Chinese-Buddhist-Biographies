@@ -1,37 +1,36 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0423c15chengHao">
-    <head><lb ed="X" n="0423c15"/>　　　　荊門軍玉泉皓禪師傳</head>
-    <p><anchor n="X.77.1524.0423c16"/><lb ed="X" n="0423c16"/>承皓。眉州丹稜王氏子。依大力院出家。登具後。游方。
-        <lb ed="X" n="0423c17"/>見北塔。發明心要。元豐間。首眾僧于谷隱。望聳諸方。
-        <lb ed="X" n="0423c18"/>張無盡。奉使京西南路。就謁之。問曰。師得法何人。曰。
-        <lb ed="X" n="0423c19"/>北塔廣和尚。曰。與伊相契可得聞乎。師曰。只為伊。不
-        <lb ed="X" n="0423c20"/>肯與人說破。無盡善其言。致開法于郢州大陽。是時
-        <lb ed="X" n="0423c21"/>谷隱主者。私為之喜曰。吾首座出世矣。盛集緇素。以
-        <lb ed="X" n="0423c22"/>為歆艶。師升座曰。承皓在谷隱十年。不曾飲谷隱一
-        <lb ed="X" n="0423c23"/>滴水。嚼谷隱一粒米。汝若不會。來大陽為汝說破。[打-丁+嶲]
+    <head><lb ed="X" n="0423c15"/>　　　　<placeName key="CN0420802Z06AA">荊門軍</placeName><persName key="A009515">玉泉皓</persName>禪師傳</head>
+    <p><anchor n="X.77.1524.0423c16"/><lb ed="X" n="0423c16"/><persName key="A009515">承皓</persName>。眉州<placeName key="CN0511424Z04AA">丹稜</placeName>王氏子。依<persName key="unknown">大力院</persName>出家。登具後。游方。
+        <lb ed="X" n="0423c17"/>見<persName key="unknown">北塔</persName>。發明心要。<date from-iso="1078-01-23" to-iso="1086-01-23" key="j21148142117736">元豐間</date>。首眾僧于<placeName key="CN0420602T11AA">谷隱</placeName>。望聳諸方。
+        <lb ed="X" n="0423c18"/><persName key="A001050">張無盡</persName>。奉使<placeName key="CN0420606E01AA">京西南路</placeName>。就謁之。問曰。師得法何人。曰。
+        <lb ed="X" n="0423c19"/><persName key="unknown">北塔廣</persName>和尚。曰。與伊相契可得聞乎。師曰。只為伊。不
+        <lb ed="X" n="0423c20"/>肯與人說破。<persName key="A001050">無盡</persName>善其言。致開法于郢州<placeName key="CN0420821T02AA">大陽</placeName>。是時
+        <lb ed="X" n="0423c21"/><placeName key="CN0420602T11AA">谷隱</placeName>主者。私為之喜曰。吾首座出世矣。盛集緇素。以
+        <lb ed="X" n="0423c22"/>為歆艶。師升座曰。<persName key="A009515">承皓</persName>在<placeName key="CN0420602T11AA">谷隱</placeName>十年。不曾飲<placeName key="CN0420602T11AA">谷隱</placeName>一
+        <lb ed="X" n="0423c23"/>滴水。嚼<placeName key="CN0420602T11AA">谷隱</placeName>一粒米。汝若不會。來<placeName key="CN0420821T02AA">大陽</placeName>為汝說破。[打-丁+嶲]
         <lb ed="X" n="0423c24"/>拄杖下座。傲然而去。于是先入院。後見州郡官責之
         <lb ed="X" n="0424a01"/>曰。長老得何指揮入院。師曰。某山林人。誰知郡縣禮
-        <lb ed="X" n="0424a02"/>數。乃拽杖而去。無盡以書抵郢守云。皓有道之士。不
+        <lb ed="X" n="0424a02"/>數。乃拽杖而去。<persName key="A001050">無盡</persName>以書抵<placeName key="CN0420881Z43AA">郢</placeName>守云。<persName key="A009515">皓</persName>有道之士。不
         <lb ed="X" n="0424a03"/>可以世禮責。當加禮請之。守如其言。師不得已復來。
-        <lb ed="X" n="0424a04"/>尋遷玉泉。示眾曰。一夜雨滂烹。打倒葡萄棚。知事頭
+        <lb ed="X" n="0424a04"/>尋遷<placeName key="CN0420582T03AA">玉泉</placeName>。示眾曰。一夜雨滂烹。打倒葡萄棚。知事頭
         <lb ed="X" n="0424a05"/>首行者　人力拄底拄。撐底撐。撐撐拄拄到天明。依
-        <lb ed="X" n="0424a06"/>舊可憐生。自謂。此頌法身向上事。如傅大士云。空手
-        <lb ed="X" n="0424a07"/>把鋤頭。洞山云。五臺山上雲蒸飯。只頌得法身邊事。
+        <lb ed="X" n="0424a06"/>舊可憐生。自謂。此頌法身向上事。如<persName key="A006833">傅大士</persName>云。空手
+        <lb ed="X" n="0424a07"/>把鋤頭。<persName key="unknown">洞山</persName>云。<placeName key="CN0140900M01AA">五臺山</placeName>上雲蒸飯。只頌得法身邊事。
         <lb ed="X" n="0424a08"/>然為人超放。未易以凡聖議。甞製犢鼻裩。書歷代祖
         <lb ed="X" n="0424a09"/>師名字。而服之。乃曰。唯有文殊普賢。較些子。書於帶
         <lb ed="X" n="0424a10"/>上。故叢林目為皓布裩。有鄉僧効為之。師見而詬曰。
-        <lb ed="X" n="0424a11"/>汝具何道理。敢以為戲事耶。嘔血無及。僧尋於鹿門
-        <lb ed="X" n="0424a12"/>如所言而逝。蘇長公。抵荊南。聞師機鋒不可觸。擬抑
+        <lb ed="X" n="0424a11"/>汝具何道理。敢以為戲事耶。嘔血無及。僧尋於<placeName key="CN0420607M01AA">鹿門</placeName>
+        <lb ed="X" n="0424a12"/>如所言而逝。<persName key="A003555">蘇長公</persName>。抵<placeName key="unknown">荊南</placeName>。聞師機鋒不可觸。擬抑
         <lb ed="X" n="0424a13"/>之。即微服求見。師問。尊官高姓曰。姓秤。乃秤天下長
         <lb ed="X" n="0424a14"/>老底秤。師震喝一聲曰。且道重多少。公無對。于是尊
         <lb ed="X" n="0424a15"/>禮之。冬至示眾云。晷運推移。布裩赫赤。莫怪不洗。無
         <lb ed="X" n="0424a16"/>來換替。一僧入室。適狗子在室中。師叱之。狗便出去。
         <lb ed="X" n="0424a17"/>師曰。狗却會。你却不會。將示寂。門人圍繞。師笑曰。吾
-        <lb ed="X" n="0424a18"/>年八十一。老死舁尸出。兒郎齊著力。一年三百六十
-        <lb ed="X" n="0424a19"/>日。言畢而逝。師法嗣。有曰文慶者。住林溪興教。聞秀
-        <lb ed="X" n="0424a20"/>圓通住棲賢。棄眾訪之。慶貌寢人不啟眼。秀遣督割
-        <lb ed="X" n="0424a21"/>稻石橋莊。既辭去。有識者曰。慶。出世湘鄉十餘年。皓
-        <lb ed="X" n="0424a22"/>和尚嗣也。秀遣人追謝之。且迎以還山。慶曰。竢稻人
-        <lb ed="X" n="0424a23"/>囷乃還。秀心奇之。稱于眾舉以自代。住棲賢二十年。
+        <lb ed="X" n="0424a18"/><date from-iso="1091-01-29" to-iso="1092-02-15" key="j21195682119950">年八十一</date>。老死舁尸出。兒郎齊著力。一年三百六十
+        <lb ed="X" n="0424a19"/>日。言畢而逝。師法嗣。有曰<persName key="unknown">文慶</persName>者。住林溪<placeName key="unknown">興教</placeName>。聞<persName key="A008393">秀<lb ed="X" n="0424a20"/>圓通</persName>住<placeName key="CN0420105T03AA">棲賢</placeName>。棄眾訪之。慶貌寢人不啟眼。<persName key="A008393">秀</persName>遣督割
+        <lb ed="X" n="0424a21"/>稻石橋莊。既辭去。有識者曰。慶。出世<placeName key="CN0430381Z08AA">湘鄉</placeName>十餘年。<persName key="A009515">皓</persName>
+        <lb ed="X" n="0424a22"/>和尚嗣也。<persName key="A008393">秀</persName>遣人追謝之。且迎以還山。慶曰。竢稻人
+        <lb ed="X" n="0424a23"/>囷乃還。<persName key="A008393">秀</persName>心奇之。稱于眾舉以自代。住<placeName key="CN0420105T03AA">棲賢</placeName>二十年。
         <lb ed="X" n="0424a24"/>而終。</p>
 </div>

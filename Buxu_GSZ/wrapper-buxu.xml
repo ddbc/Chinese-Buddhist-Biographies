@@ -129,7 +129,7 @@
       <xi:include href="1609fangNian.xml"/>
       <xi:include href="1610lianChiZhuHong.xml"/>
       <xi:include href="1611guiYang.xml"/>
-      <xi:include href="1612ruiLong.xml"/>
+      <xi:include href="1612ruiLongZhang.xml"/>
       <xi:include href="1613daoJian.xml"/>
       <xi:include href="1614xianZi.xml"/>
       <xi:include href="1615weiJin.xml"/>
@@ -168,7 +168,7 @@
       <xi:include href="1648ziBao.xml"/>
       <xi:include href="1649zhiFeng.xml"/>
       <xi:include href="1650chengShi.xml"/>
-      <xi:include href="1651ruoTan.xml"/>
+      <xi:include href="1651xingJiaoTan.xml"/>
       <xi:include href="1652daoYuan.xml"/>
       <xi:include href="1653weiSheng.xml"/>
       <xi:include href="1654huiYuan.xml"/>
@@ -409,7 +409,7 @@
       <xi:include href="1889yeTai.xml"/>
       <xi:include href="1890hongZhun.xml"/>
       <xi:include href="1891daoGuang.xml"/>
-      <xi:include href="1892yiAn.xml"/>
+      <xi:include href="1892yiAnRu.xml"/>
       <xi:include href="1893xingRan.xml"/>
       <xi:include href="1894puMing.xml"/>
       <xi:include href="1895yongGong.xml"/>

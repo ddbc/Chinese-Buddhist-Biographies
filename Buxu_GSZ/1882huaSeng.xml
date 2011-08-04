@@ -1,13 +1,12 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0506c15huaSeng">
-    <head><lb ed="X" n="0506c15"/>　　　　化僧傳(附吉祥．慈濟)</head>
-    <p><anchor n="X.77.1524.0506c16"/><lb ed="X" n="0506c16"/>化僧者。初不識其誰何。蒼顱黧面。去來[郫-卑+((白-日+田)/廾)]繁間。甚熟
-        <lb ed="X" n="0506c17"/>帀人。蓋多見之。而無相問訊者。崇寧五年十二月二
-        <lb ed="X" n="0506c18"/>日晨。從外來乞食城中。如故甞洋洋也。眡日欲昃。輒
-        <lb ed="X" n="0506c19"/>囊其衣。若將去者。行次廛東。小息於逆旅馬氏。乞漿
+    <head><lb ed="X" n="0506c15"/>　　　　<persName key="A014546">化僧</persName>傳(附<persName key="unknown">吉祥</persName>．<persName key="A010546">慈濟</persName>)</head>
+    <p><anchor n="X.77.1524.0506c16"/><lb ed="X" n="0506c16"/><persName key="A014546">化僧</persName>者。初不識其誰何。蒼顱黧面。去來<placeName key="unknown">[郫-卑+((白-日+田)/廾)]繁</placeName>間。甚熟
+        <lb ed="X" n="0506c17"/>帀人。蓋多見之。而無相問訊者。<date when-iso="1107-01-04" key="j21253862125386">崇寧五年十二月二<lb ed="X" n="0506c18"/>日</date>晨。從外來乞食城中。如故甞洋洋也。眡日欲昃。輒
+        <lb ed="X" n="0506c19"/>囊其衣。若將去者。行次<placeName key="unknown">廛東</placeName>。小息於逆旅<persName key="unknown">馬氏</persName>。乞漿
         <lb ed="X" n="0506c20"/>焉。斂裓趺坐。漿未饋而告寂。玉骨山峙。不杌不倚。人
-        <lb ed="X" n="0506c21"/>皆聚觀羅拜。迎歸北溪。龕而奉之。至今真身儼然如
-        <lb ed="X" n="0506c22"/>生。宋楊天惠。作文記之曰。異哉。我昔未之見也。是導
+        <lb ed="X" n="0506c21"/>皆聚觀羅拜。迎歸<placeName key="unknown">北溪</placeName>。龕而奉之。至今真身儼然如
+        <lb ed="X" n="0506c22"/>生。宋<persName key="unknown">楊天惠</persName>。作文記之曰。異哉。我昔未之見也。是導
         <lb ed="X" n="0506c23"/>師者。不離闤闤喧閧。而示靜便。不鄙屠沽垢紛。而示
         <lb ed="X" n="0506c24"/>精潔。不舍生死濁惡。而示究竟。不樂相好設飾。而示
         <lb ed="X" n="0507a01"/>堅固。其音制和軟。類近里社。而莫知其名氏。其膚臞
@@ -15,11 +14,11 @@
         <lb ed="X" n="0507a03"/>衲子。而莫知其居止。嗚呼。生吾不知從師遊。沒吾徒
         <lb ed="X" n="0507a04"/>知志其跡。是刻舟之說也。雖然。繇吾之說。瞷師之相。
         <lb ed="X" n="0507a05"/>起欣慕想。成淨信行。庶其有從入哉。</p><p>
-        <lb ed="X" n="0507a06"/>又僧。曰吉祥。甞寓東川解魔寺。魁梧多力。一飯五鉢。
+            <lb ed="X" n="0507a06"/>又僧。曰<persName key="unknown">吉祥</persName>。甞寓東川<placeName key="unknown">解魔寺</placeName>。魁梧多力。一飯五鉢。
         <lb ed="X" n="0507a07"/>日夜誦經五函。寺前有池畜魚。祥。盡知其數。以名詔
             <lb ed="X" n="0507a08"/>之。皆次第出水面。若受祥話言。靡靡而去。</p><p>
-        <lb ed="X" n="0507a09"/>滇有僧。曰慈濟。甞在洱海東北青顛山險石上。禮迦
-        <lb ed="X" n="0507a10"/>葉佛。日課百拜。人名其石。名禮拜石。下臨不測之淵。
+                <lb ed="X" n="0507a09"/><placeName key="CN0530102Z04AA">滇</placeName>有僧。曰<persName key="A010546">慈濟</persName>。甞在<placeName key="CN0532901R01AA">洱海</placeName>東北<placeName key="CN0532924M01AA">青顛山</placeName>險石上。禮迦
+                <lb ed="X" n="0507a10"/>葉佛。日課百拜。人名其石。名<placeName key="unknown">禮拜石</placeName>。下臨不測之淵。
         <lb ed="X" n="0507a11"/>後即於石立化。今無能躡其石者。示現難思。皆化僧
         <lb ed="X" n="0507a12"/>之流亞也。</p>
 </div>

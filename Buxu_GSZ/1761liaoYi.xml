@@ -1,38 +1,37 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0460c04liaoYi">
-    <head><lb ed="X" n="0460c04"/>　　　　天目斷崖禪師</head>
-    <p><anchor n="X.77.1524.0460c05"/><lb ed="X" n="0460c05"/>了義。德清人。俗姓楊。母張氏。宋景定癸亥舉師。六歲
+    <head><lb ed="X" n="0460c04"/>　　　　<persName key="A009087">天目斷崖</persName>禪師</head>
+    <p><anchor n="X.77.1524.0460c05"/><lb ed="X" n="0460c05"/><persName key="A009087">了義</persName>。<placeName key="CN0330521Z15AA">德清</placeName>人。俗姓楊。母<persName key="unknown">張氏</persName>。<date from-iso="1263-02-17" to-iso="1264-02-06" key="j21824092182763">宋景定癸亥</date>舉師。<date key="j21841882184553" when-iso="1268">六歲</date>
         <lb ed="X" n="0460c06"/>始能言。從其母誦法華經。人世事懵無所知。姿貌凝
-        <lb ed="X" n="0460c07"/>然。志若有所待。年十七。有僧遇之。舉高峰上堂語。師
+        <lb ed="X" n="0460c07"/>然。志若有所待。<date key="j21882062188570" when-iso="1279">年十七</date>。有僧遇之。舉<persName key="A004700">高峰</persName>上堂語。師
         <lb ed="X" n="0460c08"/>矍然起立。謂僧曰。能引我往見之乎。母具裝遣之。行
-        <lb ed="X" n="0460c09"/>見高峰於天目獅子巖之死關。以童子給侍左右。乃
+        <lb ed="X" n="0460c09"/>見<persName key="A004700">高峰</persName>於天目<placeName key="unknown">獅子巖</placeName>之<placeName key="unknown">死關</placeName>。以童子給侍左右。乃
         <lb ed="X" n="0460c10"/>令提萬法歸一一歸何處。因名之曰從一。他日室中。
-        <lb ed="X" n="0460c11"/>舉牛過窗櫺話。師儗開口。峰隨痛棒之。不覺墮於崖
-        <lb ed="X" n="0460c12"/>下。同學明通。捫蘿接磴以救之。則已出半山無所苦
-        <lb ed="X" n="0460c13"/>也。謂通曰。我機緣不在此。往江西見欽公去也。通曰
-        <lb ed="X" n="0460c14"/>汝負老漢棒矣。即與還山之西禪庵。自誓曰。我七日
+        <lb ed="X" n="0460c11"/>舉牛過窗櫺話。師儗開口。<persName key="A004700">峰</persName>隨痛棒之。不覺墮於崖
+        <lb ed="X" n="0460c12"/>下。同學<persName key="unknown">明通</persName>。捫蘿接磴以救之。則已出半山無所苦
+        <lb ed="X" n="0460c13"/>也。謂通曰。我機緣不在此。往<placeName key="CN0360000E01AA">江西</placeName>見<persName key="A004699">欽公</persName>去也。通曰
+        <lb ed="X" n="0460c14"/>汝負老漢棒矣。即與還山之<placeName key="unknown">西禪庵</placeName>。自誓曰。我七日
         <lb ed="X" n="0460c15"/>不證則決去。端直堅壁。忘廢寢食。夜則攀樹。露立達
-        <lb ed="X" n="0460c16"/>旦。未及所期。豁然大悟。馳至死關。呼曰。老和尚。今日
+        <lb ed="X" n="0460c16"/>旦。未及所期。豁然大悟。馳至<placeName key="unknown">死關</placeName>。呼曰。老和尚。今日
         <lb ed="X" n="0460c17"/>謾我不得。呈頌曰。大地山河一片雪。太陽一出便無
-        <lb ed="X" n="0460c18"/>蹤。自此不疑諸佛祖。更無南北與西東。明日峰上堂
+        <lb ed="X" n="0460c18"/>蹤。自此不疑諸佛祖。更無南北與西東。明日<persName key="A004700">峰</persName>上堂
         <lb ed="X" n="0460c19"/>云。我漫天網子。打鳳羅龍。不曾遇得一蝦蠏。今日有
         <lb ed="X" n="0460c20"/>蟭螟蟲撞入。三十年後。向孤峰絕頂。揚聲大叫去在。
         <lb ed="X" n="0460c21"/>自此呵勵同學。言不少遜。乃曰。盡大地有一人發真
-        <lb ed="X" n="0460c22"/>歸源。我皆知之。峰歎其俊快。久參者媿焉。幾有命如
-        <lb ed="X" n="0460c23"/>懸絲之慮。遂歸德清。其母為賣簪珥。同入武康上栢
-        <lb ed="X" n="0460c24"/>山。結茅以居。人見其混俗。罔測其意。峰召之還山。峰
-        <lb ed="X" n="0461a01"/>曰。大有人道。你[掐-臼+也]泥帶水。師曰。兩眼對兩眼。峰為落
-        <lb ed="X" n="0461a02"/>髮受具。改名了義。元貞乙未。高峰示寂。師亦韜晦。或
-        <lb ed="X" n="0461a03"/>游禪林居下板。孤峭嚴峻。不假借人辭色。或嬉笑怒
+        <lb ed="X" n="0460c22"/>歸源。我皆知之。<persName key="A004700">峰</persName>歎其俊快。久參者媿焉。幾有命如
+        <lb ed="X" n="0460c23"/>懸絲之慮。遂歸<placeName key="CN0330521Z15AA">德清</placeName>。其母為賣簪珥。同入武康上<placeName key="unknown">栢<lb ed="X" n="0460c24"/>山</placeName>。結茅以居。人見其混俗。罔測其意。<persName key="A004700">峰</persName>召之還山。<persName key="A004700">峰</persName>
+        <lb ed="X" n="0461a01"/>曰。大有人道。你[掐-臼+也]泥帶水。師曰。兩眼對兩眼。<persName key="A004700">峰</persName>為落
+        <lb ed="X" n="0461a02"/>髮受具。改名<persName key="A009087">了義</persName>。<date from-iso="1295-01-24" to-iso="1296-02-11" key="j21940732194456">元貞乙未</date>。<persName key="A004700">高峰</persName>示寂。師亦韜晦。或
+        <lb ed="X" n="0461a03"/>游禪林居<placeName key="unknown">下板</placeName>。孤峭嚴峻。不假借人辭色。或嬉笑怒
         <lb ed="X" n="0461a04"/>罵。粗言穢語。人所不堪。或不因勸請。隨機開導。聲如
         <lb ed="X" n="0461a05"/>奔雷。自是王公貴人爭相迎。奉布施充斥。視之漠如。
-        <lb ed="X" n="0461a06"/>以泰定三年。歸坐祖山。學士大集。示眾曰。除却語默
+        <lb ed="X" n="0461a06"/>以<date from-iso="1326-02-11" to-iso="1327-01-31" key="j22054132205767">泰定三年</date>。歸坐祖山。學士大集。示眾曰。除却語默
         <lb ed="X" n="0461a07"/>動靜道。將一句來。又曰。一息不來。向何處安身立命。
         <lb ed="X" n="0461a08"/>答者皆不契。觀師就席之意。勉狥眾望。多非得已也。
-        <lb ed="X" n="0461a09"/>至順中。仁宗聞師道行。詔命宣政院。使賷香入山宣
-        <lb ed="X" n="0461a10"/>問。敕有司加護。元統二年。賜號佛慧圓明正覺普度
+        <lb ed="X" n="0461a09"/>至順中。<persName key="A002087">仁宗</persName>聞師道行。詔命宣政院。使賷香入山宣
+        <lb ed="X" n="0461a10"/>問。敕有司加護。<date from-iso="1334-02-13" to-iso="1335-02-01" key="j22083372208690">元統二年</date>。賜號<persName key="A009087">佛慧圓明正覺普度</persName>
         <lb ed="X" n="0461a11"/>禪師。璽書未至山而師化矣。前一日召眾云。汝等克
         <lb ed="X" n="0461a12"/>念先宗。弘揚大法。念報佛恩。勿生懈怠。旦起眾。聞空
         <lb ed="X" n="0461a13"/>中雷聲隱隱。師已跏趺就逝。世壽七十二。僧臘四十
-        <lb ed="X" n="0461a14"/>九。藏全身於獅子巖之後。</p>
+        <lb ed="X" n="0461a14"/>九。藏全身於<placeName key="unknown">獅子巖</placeName>之後。</p>
 </div>

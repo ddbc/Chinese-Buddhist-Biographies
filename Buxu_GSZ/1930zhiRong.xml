@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0522c03zhiRong">
-    <head><lb ed="X" n="0522c03"/>　　　　宋　老牛智融傳</head>
-    <p><anchor n="X.77.1524.0522c04"/><lb ed="X" n="0522c04"/>智融。俗姓邢。初名澄。世居京師。以醫入仕。南渡居臨
-        <lb ed="X" n="0522c05"/>安萬松嶺。號草菴。邢郎中官。至成和。郎出入禁延。賞
-        <lb ed="X" n="0522c06"/>賚殊渥。年五十。棄官謝妻子。祝髮入靈隱寺。諸公貴
-        <lb ed="X" n="0522c07"/>人。挽之不可。於以去塵俗弗遠。肆游諸方。徑山匡廬。
-        <lb ed="X" n="0522c08"/>經行殆遍。聞雪竇之勝。遂投跡為終焉計。深坐一室。
+    <head><lb ed="X" n="0522c03"/>　　　　宋　<persName key="A014835">老牛智融</persName>傳</head>
+    <p><anchor n="X.77.1524.0522c04"/><lb ed="X" n="0522c04"/><persName key="A014835">智融</persName>。俗姓邢。初名<persName key="A014835">澄</persName>。世居<placeName key="CN0410224Z41AA">京師</placeName>。以醫入仕。南渡居臨
+        <lb ed="X" n="0522c05"/>安<placeName key="unknown">萬松嶺</placeName>。號<placeName key="unknown">草菴</placeName>。邢郎中官至成和郎出入禁延。賞
+        <lb ed="X" n="0522c06"/>賚殊渥。<date key="j21458372146201" when-iso="1163">年五十</date>。棄官謝妻子。祝髮入<placeName key="CN0330106T01AA">靈隱寺</placeName>。諸公貴
+        <lb ed="X" n="0522c07"/>人。挽之不可。於以去塵俗弗遠。肆游諸方。<placeName key="CN0330110M09AA">徑山</placeName><placeName key="CN0360402M01AA">匡廬</placeName>。
+        <lb ed="X" n="0522c08"/>經行殆遍。聞<placeName key="CN0330283M02AA">雪竇</placeName>之勝。遂投跡為終焉計。深坐一室。
         <lb ed="X" n="0522c09"/>土木形骸。泊然如偶人。或曳杖以出。有欲相隨。則謝
         <lb ed="X" n="0522c10"/>遣之。山中幽僻勝絕之地。意行獨坐。或至移晷。人莫
         <lb ed="X" n="0522c11"/>窺其際。善畫。而絕不以與人。山深多蛇。忽作二奇鬼
@@ -19,8 +19,8 @@
         <lb ed="X" n="0522c19"/>以勢利。則避之愈深。意苟相契。亦輒與不吝。樓攻媿。
         <lb ed="X" n="0522c20"/>求之久不與。催以古風。有曰。古人惜墨如惜金。老融
         <lb ed="X" n="0522c21"/>惜墨如惜命。作詩不多語字。畫亦無俗韻。初自言。若
-        <lb ed="X" n="0522c22"/>得為僧。三十秋瞑目。無言萬事休。紹熙四年五月卒。
-        <lb ed="X" n="0522c23"/>壽八十。僧臘如師言。尤好作牛。自號老牛智融云。</p><p>
-        <lb ed="X" n="0522c24"/>　明河曰。旨哉。融牛之論畫也。吾聞庖丁之言。得養
+        <lb ed="X" n="0522c22"/>得為僧。三十秋瞑目。無言萬事休。<date from-iso="1193-06-08" to-iso="1193-07-07" key="j21569532156982">紹熙四年五月</date>卒。
+        <lb ed="X" n="0522c23"/>壽八十。僧臘如師言。尤好作牛。自號<persName key="A014835">老牛智融</persName>云。</p><p>
+            <lb ed="X" n="0522c24"/>　<persName key="A000658">明河</persName>曰。旨哉。<persName key="A014835">融牛</persName>之論畫也。吾聞庖丁之言。得養
         <lb ed="X" n="0523a01"/>　生焉。</p>
 </div>

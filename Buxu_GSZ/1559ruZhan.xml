@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0382c11ruZhan">
     <head><lb ed="X" n="0382c11"/>　　　　<persName key="A011493">如湛</persName>傳</head>
-    <p><anchor n="X.77.1524.0382c12"/><lb ed="X" n="0382c12"/><persName key="A011493">如湛</persName>。生永嘉焦氏。幼年試經得度。力研教乘。往依<persName key="A011104">車<lb ed="X" n="0382c13"/>溪卿公</persName>。時眾已多無所容。惟小室如斗。安之不以為
+    <p><anchor n="X.77.1524.0382c12"/><lb ed="X" n="0382c12"/><persName key="A011493">如湛</persName>。生<placeName key="CN0330302Z07AA">永嘉</placeName>焦氏。幼年試經得度。力研教乘。往依<persName key="A011104">車<lb ed="X" n="0382c13"/>溪卿公</persName>。時眾已多無所容。惟小室如斗。安之不以為
         <lb ed="X" n="0382c14"/>隘。劇暑埋大甕。實以寒泉。與四友背甕環坐。以挹其
         <lb ed="X" n="0382c15"/>爽。如此數載。眾戲目小室。為五瘟堂。後叅<persName key="A011364">慧覺</persName>。晝夜
         <lb ed="X" n="0382c16"/>潛心。盡得教觀之妙。初主<placeName key="CN0330402A06AA">車溪</placeName><placeName key="CN0330402T03AA">壽聖</placeName>。講餘課法華一
@@ -13,4 +13,30 @@
         <lb ed="X" n="0382c22"/>我血聞我經。以此為緣耳。後人因表其處。為餧蚊臺。
         <lb ed="X" n="0382c23"/>晚歲謝事。居閒一小菴。日熏淨業。<date from-iso="1140-01-29" to-iso="1141-02-15" key="j21374642137847">紹興庚申</date>。端坐念
         <lb ed="X" n="0382c24"/>佛而逝。闍維。得五色舍利。</p>
+    
+    <linkGrp>
+        <link targets="#0382c12 #0382c12"/>
+        <ptr target="#A011493" type="person"/>
+        <ptr target="#CN0330302Z07AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0382c12 #0382c15"/>
+        <ptr target="#A011493" type="person"/>
+        <ptr target="#A011104" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0382c15 #0382c16"/>
+        <ptr target="#A011493" type="person"/>
+        <ptr target="#A011364" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0382c16 #0382c19"/>
+        <ptr target="#A011493" type="person"/>
+        <ptr target="#CN0330402T03AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0382c23 #0382c24"/>
+        <ptr target="#A011493" type="person"/>
+        <ptr target="#j21374642137847" type="time"/>
+    </linkGrp>
 </div>

@@ -1,13 +1,12 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0539c23yueTan">
-    <head><lb ed="X" n="0539c23"/>　　　　月潭和尚傳</head>
-    <p><anchor n="X.77.1524.0539c24"/><lb ed="X" n="0539c24"/>月潭。和尚不知何許人。自言姓楊氏。生於成化。甲午
-        <lb ed="X" n="0540a01"/>從師圓省。祝髮五臺山。嘉靖戊寅。始受具足戒。周行
-        <lb ed="X" n="0540a02"/>天下。殆半於蜀。卭[(束*束)/火]山中最久。隆慶辛未。杖錫來江
-        <lb ed="X" n="0540a03"/>南。至婁東。王鳳洲麟洲二先生。築室以居之。凡七十
-        <lb ed="X" n="0540a04"/>年。以萬曆丙戌冬告寂。俗壽一百一十三。僧臘九十
+    <head><lb ed="X" n="0539c23"/>　　　　<persName key="A015732">月潭</persName>和尚傳</head>
+    <p><anchor n="X.77.1524.0539c24"/><lb ed="X" n="0539c24"/><persName key="A015732">月潭</persName>和尚不知何許人。自言姓楊氏。生於<date from-iso="1474-01-27" to-iso="1475-02-14" key="j22594542259837">成化甲午</date>。
+        <lb ed="X" n="0540a01"/>從師<persName key="unknown">圓省</persName>祝髮<placeName key="CN0140900M01AA">五臺山</placeName>。<date from-iso="1522-02-07" to-iso="1567-02-18" key="j22769962293443">嘉靖</date>戊寅始受具足戒。周行
+        <lb ed="X" n="0540a02"/>天下。殆半於<placeName key="CN0510108E01AA">蜀</placeName>。<placeName key="unknown">卭[(束*束)/火]山</placeName>中最久。<date from-iso="1571-02-05" to-iso="1572-01-24" key="j22948912295244">隆慶辛未</date>。杖錫來<placeName key="CN0000007D01AA">江<lb ed="X" n="0540a03"/>南</placeName>。至<placeName key="CN0320585Z07AA">婁東</placeName>。<persName key="A008120">王鳳洲</persName><persName key="unknown">麟洲</persName>二先生。築室以居之。凡七十
+        <lb ed="X" n="0540a04"/>年。以<date from-iso="1586-11-11" to-iso="1587-02-06" key="j23006492300736">萬曆丙戌冬</date>告寂。俗壽一百一十三。僧臘九十
         <lb ed="X" n="0540a05"/>八。王銘其塔而敘之曰。和尚以不欺為本。以無住為
-        <lb ed="X" n="0540a06"/>宗。以彌陀為父。以釋迦為師。以淨土為歸地。以無為
+        <lb ed="X" n="0540a06"/>宗。以<persName key="A002843">彌陀</persName>為父。以<persName key="A002799">釋迦</persName>為師。以<placeName key="XZ0000033A01AA">淨土</placeName>為歸地。以無為
         <lb ed="X" n="0540a07"/>為法事。不談禪不竪義。不沾講席。無寒而已不備三
         <lb ed="X" n="0540a08"/>衣。無饑而已不強中食。既得疾。水飲者五日。絕水者
         <lb ed="X" n="0540a09"/>二日。至夜分乃呼浴。浴畢。使僧雛誦無量壽佛經。傾

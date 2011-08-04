@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0482a15shaoQi">
-    <head><lb ed="X" n="0482a15"/>　　　　楚山琦傳</head>
-    <p><anchor n="X.77.1524.0482a16"/><lb ed="X" n="0482a16"/>紹琦。字楚山。唐安雷氏子。生自不凡。慎動止。寡言笑。
-        <lb ed="X" n="0482a17"/>九歲出家。從玄極和尚學禪。後獲印于東普無際禪
-        <lb ed="X" n="0482a18"/>師。正統六年。再參東普。普問。子數年住何處。曰我所
+    <head><lb ed="X" n="0482a15"/>　　　　<persName key="A009064">楚山琦</persName>傳</head>
+    <p><anchor n="X.77.1524.0482a16"/><lb ed="X" n="0482a16"/><persName key="A009064">紹琦</persName>。字<persName key="A009064">楚山</persName>。<placeName key="unknown">唐安</placeName>雷氏子。生自不凡。慎動止。寡言笑。
+        <lb ed="X" n="0482a17"/><date key="j22367822237147" when-iso="1412">九歲</date>出家。從<persName key="unknown">玄極</persName>和尚學禪。後獲印于<persName key="A009565">東普無際</persName>禪
+        <lb ed="X" n="0482a18"/>師。正統六年。再參<persName key="unknown">東普</persName>。普問。子數年住何處。曰我所
         <lb ed="X" n="0482a19"/>住處。廓然無定。普曰。有何所得。曰本自無失。何得之
         <lb ed="X" n="0482a20"/>有。普曰。莫不是學得來者。曰一法不有。學自何來。普
         <lb ed="X" n="0482a21"/>曰。汝落空耶。曰我尚非我。誰落誰空。普曰。克家須是
@@ -14,6 +14,6 @@
         <lb ed="X" n="0482b02"/>水。燕語鶯啼。歷歷分明。更疑何事。普曰。未在更道。曰
         <lb ed="X" n="0482b03"/>頭頂虗空。脚踏實地。普召弟子。鳴鐘集眾。取袈裟拂
         <lb ed="X" n="0482b04"/>子授之。師容止莊重。雖宴居。如對清眾。具擇法眼。勘
-        <lb ed="X" n="0482b05"/>驗學者。百不失一。門徒數十人。唯寶山金者。深入堂
+        <lb ed="X" n="0482b05"/>驗學者。百不失一。門徒數十人。唯<persName key="unknown">寶山金</persName>者。深入堂
         <lb ed="X" n="0482b06"/>奧。讀師語錄。直捷簡明。不在古人下也。</p>
 </div>

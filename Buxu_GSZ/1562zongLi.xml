@@ -1,9 +1,8 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0383b21zongLi">
     <head><lb ed="X" n="0383b21"/>　　　　<persName key="A014587">宗利</persName>傳(<persName key="A019808">若水</persName>附)</head>
-    <p><anchor n="X.77.1524.0383b22"/><lb ed="X" n="0383b22"/><persName key="A014587">宗利</persName>。<placeName key="CN0330602Z22AA">會稽</placeName>高氏子。<date key="j21085832108947" when-iso="1061">七歲</date>受業於<placeName key="CN0330682T04AA">天華</placeName>。夢往靈芝。謁大
-        <lb ed="X" n="0383b23"/>智律師。受戒法。智呼<persName key="A014587">宗利</persName>名。口吐白珠令吞之。又甞
-        <lb ed="X" n="0383b24"/>於淨定中。神遊淨土道場。晚還<placeName key="CN0330682T04AA">天華</placeName>。建<placeName key="CN0330682T04AB">無量壽佛閣</placeName>。
+    <p><anchor n="X.77.1524.0383b22"/><lb ed="X" n="0383b22"/><persName key="A014587">宗利</persName>。<placeName key="CN0330602Z22AA">會稽</placeName>高氏子。<date key="j21085832108947" when-iso="1061">七歲</date>受業於<placeName key="CN0330682T04AA">天華</placeName>。往<placeName key="CN0330106T15AA">靈芝</placeName>。謁<persName key="A000129">大<lb ed="X" n="0383b23"/>智律師</persName>。受戒法。夢<persName key="A000129">智</persName>呼<persName key="A014587">宗利</persName>名。口吐白珠令吞之。又甞
+        <lb ed="X" n="0383b24"/>於淨定中。神遊<placeName key="XZ0000033A01AA">淨土</placeName>道場。晚還<placeName key="CN0330682T04AA">天華</placeName>。建<placeName key="CN0330682T04AB">無量壽佛閣</placeName>。
         <lb ed="X" n="0383c01"/>接待雲水。天旱。詣<placeName key="CN0330621M07AA">日鑄山</placeName><placeName key="CN0330621A13AA">帝舜祠</placeName>祈雨。感龍現金色
         <lb ed="X" n="0383c02"/>身。雨甘沾足。<date from-iso="1130-02-17" to-iso="1131-02-06" key="j21338312134185">建炎末</date>。入<placeName key="CN0330621M08AA">道味山</placeName>。題所居曰<placeName key="CN0330621T12AA">一相庵</placeName>。<placeName key="CN0330602Z22AA">會<lb ed="X" n="0383c03"/>稽</placeName>道俗。請師主繫念。至第三夜。繪像頂珠。放光大如
         <lb ed="X" n="0383c04"/>箕。 <date when-iso="1144-03-12" key="j21389682138968">紹興十四年正月晦</date>。告弟子曰。佛來迎我也。遂書
@@ -13,4 +12,48 @@
         <lb ed="X" n="0383c08"/>笋。庖以非時笑之。至日暮。師噀盂水後圃。夜聞[焊-干+恭]烈
         <lb ed="X" n="0383c09"/>聲。詰旦視之。笋戢戢布地矣。且能以呪水救[病-丙+失]。全活
         <lb ed="X" n="0383c10"/>者夥。不知所終。</p>
+    
+    <linkGrp>
+        <link targets="#0383b22 #0383b22"/>
+        <ptr target="#A014587" type="person"/>
+        <ptr target="#CN0330602Z22AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0383b22 #0383b22"/>
+        <ptr target="#A014587" type="person"/>
+        <ptr target="#CN0330682T04AA" type="place"/>
+        <ptr target="#j21085832108947" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0383b22 #0383b23"/>
+        <ptr target="#A014587" type="person"/>
+        <ptr target="#A000129" type="person"/>
+        <ptr target="#CN0330106T15AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0383b24 #0383c01"/>
+        <ptr target="#A014587" type="person"/>
+        <ptr target="#CN0330682T04AB" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0383c01 #0383c02"/>
+        <ptr target="#A014587" type="person"/>
+        <ptr target="#CN0330621A13AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0383c02 #0383c04"/>
+        <ptr target="#A014587" type="person"/>
+        <ptr target="#CN0330621T12AA" type="place"/>
+        <ptr target="#j21338312134185" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0383c04 #0383c06"/>
+        <ptr target="#A014587" type="person"/>
+        <ptr target="#j21389682138968" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0383c07 #0383c07"/>
+        <ptr target="#A019808" type="person"/>
+        <ptr target="#CN0330802Z10AA" type="place"/>
+    </linkGrp>
 </div>

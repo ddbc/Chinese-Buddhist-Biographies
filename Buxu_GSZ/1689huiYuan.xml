@@ -1,13 +1,13 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0434a07huiYuan">
-    <head><lb ed="X" n="0434a07"/>　　　　宋　瞎堂遠禪師傳</head>
-    <p><anchor n="X.77.1524.0434a08"/><lb ed="X" n="0434a08"/>慧遠。號瞎堂。眉山金流鎮彭氏子。年十三。[隸-木+匕]藥師院
-        <lb ed="X" n="0434a09"/>為僧。聽習經論。棄而依靈巖。徽公。微有省發。會圓悟
-        <lb ed="X" n="0434a10"/>領昭覺。師即之聞。舉龐居士問馬祖。不與萬法為侶
+    <head><lb ed="X" n="0434a07"/>　　　　宋　<persName key="A008408">瞎堂遠</persName>禪師傳</head>
+    <p><anchor n="X.77.1524.0434a08"/><lb ed="X" n="0434a08"/><persName key="A008408">慧遠</persName>。號<persName key="A008408">瞎堂</persName>。眉山<placeName key="unknown">金流鎮</placeName>彭氏子。<date key="j21283052128669" when-iso="1115">年十三</date>。[隸-木+匕]<placeName key="unknown">藥師院</placeName>
+        <lb ed="X" n="0434a09"/>為僧。聽習經論。棄而依<persName key="A008410"><placeName key="CN0511181T12AA">靈巖</placeName>徽</persName>公。微有省發。會<persName key="A001411">圓悟</persName>
+        <lb ed="X" n="0434a10"/>領<placeName key="CN0510108T30AA">昭覺</placeName>。師即之聞。舉<persName key="A005250">龐居士</persName>問<persName key="A003623">馬祖</persName>。不與萬法為侶
         <lb ed="X" n="0434a11"/>因緣。師大悟。仆於眾。眾掖之。師乃曰。吾夢覺矣。自是
-        <lb ed="X" n="0434a12"/>機鋒峻發。眾目為鐵舌遠。圓悟順寂。師東下。屢遷名
-        <lb ed="X" n="0434a13"/>剎。繇虎丘。奉詔住臯亭崇光。時孝宗留心空宗。召師
-        <lb ed="X" n="0434a14"/>入對選德殿。或入內觀堂見。必延坐進茶。稱師而不
+        <lb ed="X" n="0434a12"/>機鋒峻發。眾目為<persName key="A008408">鐵舌遠</persName>。<persName key="A001411">圓悟</persName>順寂。師東下。屢遷名
+        <lb ed="X" n="0434a13"/>剎。繇<placeName key="CN0320504T03AA">虎丘</placeName>。奉詔住臯亭<placeName key="CN0330104T01AA">崇光</placeName>。時<persName key="A000480">孝宗</persName>留心空宗。召師
+        <lb ed="X" n="0434a14"/>入對<placeName key="CN0330103A02AA">選德殿</placeName>。或入<placeName key="unknown">內觀堂</placeName>見。必延坐進茶。稱師而不
         <lb ed="X" n="0434a15"/>名。禮數視諸師有加。上曰。前日睡中。忽聞鐘聲遂覺。
         <lb ed="X" n="0434a16"/>未知夢與覺如何。師曰。夢覺無殊。覺心不動。上曰。夢
         <lb ed="X" n="0434a17"/>幻既非。且鐘聲從何處起。師曰。從陛下問處起。上曰。
@@ -15,12 +15,11 @@
         <lb ed="X" n="0434a19"/>曰。如何得悟。師曰。本有之性磨之。歲月自然得悟。曰。
         <lb ed="X" n="0434a20"/>悟後如何。師曰。悟後。始知今日問答皆非。曰。一切處
         <lb ed="X" n="0434a21"/>不是後如何。師曰。脫體現前。更無可見之相。上首肯
-        <lb ed="X" n="0434a22"/>之。賜號佛海禪師。一日車駕幸其室。室掛行道影。上
+        <lb ed="X" n="0434a22"/>之。賜號<persName key="A008408">佛海</persName>禪師。一日車駕幸其室。室掛行道影。上
         <lb ed="X" n="0434a23"/>指問師曰。此是水墨空塵。而真者安在。師叉手近前
         <lb ed="X" n="0434a24"/>曰。春氣和暖。恭惟聖躬萬福。上大笑。因書贊焉。師一
         <lb ed="X" n="0434b01"/>身繫法門之望。奇言妙句。傳播諸方。學者雲奔川委。
-        <lb ed="X" n="0434b02"/>視師所在為歸正。如一佛出世。乙未秋。示眾曰。淳熈
-        <lb ed="X" n="0434b03"/>二年閏季秋九月旦。閙處莫出頭。冷地着眼看。明暗
+        <lb ed="X" n="0434b02"/>視師所在為歸正。如一佛出世。<date from-iso="1175-07-27" to-iso="1175-11-21" key="j21504272150544">乙未秋</date>。示眾曰。<date when-iso="1175-10-24" key="j21505162150516">淳熈<lb ed="X" n="0434b03"/>二年閏季秋九月旦</date>。閙處莫出頭。冷地着眼看。明暗
         <lb ed="X" n="0434b04"/>不相干。彼此分一半。一種作貴人教。誰賣柴炭向汝。
         <lb ed="X" n="0434b05"/>道不可毀不可讚。體若虗空沒涯岸。相喚相呼歸去
         <lb ed="X" n="0434b06"/>來。上元定是正月半。都下喧傳而疑之。至期諸王卿
@@ -28,5 +27,5 @@
         <lb ed="X" n="0434b08"/>馴狎因衣之。命曰猿行者。久之。眾窺窓隙聲息並無。
         <lb ed="X" n="0434b09"/>惟見猿持卷侍側。亟入師已逝矣。猿書。乃辭世偈也。
         <lb ed="X" n="0434b10"/>偈曰。拗折秤鎚。掀翻露布。突出機光。鵶飛不度。留七
-        <lb ed="X" n="0434b11"/>日顏色不變。塔全身於寺之烏峯。</p>
+        <lb ed="X" n="0434b11"/>日顏色不變。塔全身於寺之<placeName key="unknown">烏峯</placeName>。</p>
 </div>

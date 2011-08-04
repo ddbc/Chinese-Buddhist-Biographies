@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0496a07daiAnZhuang">
-    <head><lb ed="X" n="0496a07"/>　　　　明　呆菴莊公傳(敬菴)</head>
-    <p><anchor n="X.77.1524.0496a08"/><lb ed="X" n="0496a08"/>呆菴莊禪師。台州人也。住持徑山。學者雲合。說法酧
+    <head><lb ed="X" n="0496a07"/>　　　　明　<persName key="A001222">呆菴莊</persName>公傳(<persName key="unknown">敬菴</persName>)</head>
+    <p><anchor n="X.77.1524.0496a08"/><lb ed="X" n="0496a08"/><persName key="A001222">呆菴莊</persName>禪師。<placeName key="CN0331082Z04AA">台州</placeName>人也。住持<placeName key="CN0330110T11AA">徑山</placeName>。學者雲合。說法酧
         <lb ed="X" n="0496a09"/>機。迅若奔雷。有呆菴語錄。湮沒無傳。記籍但載其答
         <lb ed="X" n="0496a10"/>儒一編。意深而遠。語宏以肆。轟轟然。誠宗門之偉人
-        <lb ed="X" n="0496a11"/>也。或以儒釋內外之辯問者曰。昔宋儒晦翁曰。釋所
-        <lb ed="X" n="0496a12"/>謂心上做工夫。本不是。程子曰。釋氏之學。於敬以直
+        <lb ed="X" n="0496a11"/>也。或以儒釋內外之辯問者曰。昔宋儒<persName key="A003586">晦翁</persName>曰。釋所
+        <lb ed="X" n="0496a12"/>謂心上做工夫。本不是。<persName key="G000002">程子</persName>曰。釋氏之學。於敬以直
         <lb ed="X" n="0496a13"/>內。則有之矣。義以方外。則未之有也。故滯固者入於
         <lb ed="X" n="0496a14"/>枯稿。疏通者歸於恣肆。此佛教所以隘也。吾儒則不
         <lb ed="X" n="0496a15"/>然。率性而已。斯理也聖人於易備言之。二翁之說何
@@ -17,8 +17,7 @@
         <lb ed="X" n="0496a21"/>其病。又知吾心工夫為有本。是當教本抑末。以斥其
         <lb ed="X" n="0496a22"/>言語文字之非。可也。而復以心上工夫不是。何自為
         <lb ed="X" n="0496a23"/>矛盾歟。本既不是。何謂却勝儒者乎。此其不能窮心
-        <lb ed="X" n="0496a24"/>學之理。於吾佛之道。深自惑亂。而不能取決也。觀伊
-        <lb ed="X" n="0496b01"/>川之言。亦然。夫既愍吾道為有內無外矣。果能以道
+        <lb ed="X" n="0496a24"/>學之理。於吾佛之道。深自惑亂。而不能取決也。觀<persName key="A007883">伊<lb ed="X" n="0496b01"/>川</persName>之言。亦然。夫既愍吾道為有內無外矣。果能以道
         <lb ed="X" n="0496b02"/>為本。得本何憂於末哉。繼言枯稿恣肆。又愍吾道之
         <lb ed="X" n="0496b03"/>隘。是未見其大者矣。既曰。佛有覺之理。為敬以直內。
         <lb ed="X" n="0496b04"/>復言要之亦不是。皆反覆自惑之言耳。豈真知此理
@@ -40,10 +39,9 @@
         <lb ed="X" n="0496b20"/>遂不究盡其說。使孔聖之道不明。乃成毀佛之過也。
         <lb ed="X" n="0496b21"/>惜哉。師將化忽云。難難。二八嬌娘上高山。老僧扶不
         <lb ed="X" n="0496b22"/>得。言訖而寂。</p><p>
-        <lb ed="X" n="0496b23"/>敬菴莊公。亦台人。自幼智慧不凡。祝髮廣慈祝。輕世
-        <lb ed="X" n="0496b24"/>薄塵。遍參有悟入。永樂間。住徑山。奉詔修大典。寓天
-        <lb ed="X" n="0496c01"/>界三年。姚廣孝等諸公。交章舉住持。固辭還徑山。其
-        <lb ed="X" n="0496c02"/>嘉言善行。惜不得盡傳。呆菴甞云。敬菴。甞主越中二
-        <lb ed="X" n="0496c03"/>剎。既來龍河全室翁。以二座處之。退休一室。以風節
-        <lb ed="X" n="0496c04"/>自持。良可尚也。一日含笑而化。塔於水嶺小池之上。</p>
+            <lb ed="X" n="0496b23"/><persName key="unknown">敬菴莊</persName>公。亦<placeName key="CN0331082Z04AA">台</placeName>人。自幼智慧不凡。祝髮<placeName key="unknown">廣慈</placeName>祝。輕世
+            <lb ed="X" n="0496b24"/>薄塵。遍參有悟入。<date from-iso="1403-02-01" to-iso="1424-08-21" key="j22335262241398">永樂間</date>。住<placeName key="CN0330110T11AA">徑山</placeName>。奉詔修大典。寓<placeName key="CN0320114T01AA">天<lb ed="X" n="0496c01"/>界</placeName>三年。<persName key="A001522">姚廣孝</persName>等諸公。交章舉住持。固辭還<placeName key="CN0330110T11AA">徑山</placeName>。其
+            <lb ed="X" n="0496c02"/>嘉言善行。惜不得盡傳。<persName key="A001222">呆菴</persName>甞云。<persName key="unknown">敬菴</persName>。甞主<placeName key="unknown">越中</placeName>二
+            <lb ed="X" n="0496c03"/>剎。既來<placeName key="unknown">龍河</placeName><persName key="A000581">全室</persName>翁。以二座處之。退休一室。以風節
+            <lb ed="X" n="0496c04"/>自持。良可尚也。一日含笑而化。塔於<placeName key="unknown">水嶺小池</placeName>之上。</p>
 </div>

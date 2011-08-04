@@ -1,35 +1,31 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0416c22chongXian">
-    <head><lb ed="X" n="0416c22"/>　　　　雪竇顯禪師傳</head>
-    <p><anchor n="X.77.1524.0416c23"/><lb ed="X" n="0416c23"/>雪竇禪師。名重顯。字隱之。遂州李氏子。幼精銳抗志
-        <lb ed="X" n="0416c24"/>塵表。依普安詵上人。出家受具。遍歷講筵。游刃經論。
-        <lb ed="X" n="0417a01"/>問辯風馳。同學斂氣。不敢伸。棄而歸禪。出蜀入楚。甞
-        <lb ed="X" n="0417a02"/>典客大陽。與客論趙州宗旨。客曰。法眼禪師。昔解后
-        <lb ed="X" n="0417a03"/>覺銕觜於金陵。覺趙州侍者也。號稱明眼。問曰。趙州
-        <lb ed="X" n="0417a04"/>柏樹子因緣。記得麼。覺曰。無此語莫謗先師。法眼拊
-        <lb ed="X" n="0417a05"/>手曰。真自師子窟中來。覺公言無此語。法眼肯之。其
-        <lb ed="X" n="0417a06"/>旨安在。師曰。宗門抑揚。那有規轍乎。時有苦行名韓
-        <lb ed="X" n="0417a07"/>大伯者。貌寒寢侍其傍。輒匿笑而去。客退。師數之曰。
+    <head><lb ed="X" n="0416c22"/>　　　　<persName key="A000885">雪竇顯</persName>禪師傳</head>
+    <p><anchor n="X.77.1524.0416c23"/><lb ed="X" n="0416c23"/><persName key="A000885">雪竇</persName>禪師。名<persName key="A000885">重顯</persName>。字<persName key="A000885">隱之</persName>。<placeName key="CN0510903Z09AA">遂州</placeName>李氏子。幼精銳抗志
+        <lb ed="X" n="0416c24"/>塵表。依<placeName key="unknown">普安</placeName><persName key="unknown">詵</persName>上人。出家受具。遍歷講筵。游刃經論。
+        <lb ed="X" n="0417a01"/>問辯風馳。同學斂氣。不敢伸。棄而歸禪。出<placeName key="CN0510000E01AA">蜀</placeName>入<placeName key="CN0400000E02AA">楚</placeName>。甞
+        <lb ed="X" n="0417a02"/>典客<placeName key="CN0420821T02AA">大陽</placeName>。與客論<persName key="A004475">趙州</persName>宗旨。客曰。<persName key="A000174">法眼</persName>禪師。昔解后
+        <lb ed="X" n="0417a03"/><persName key="A008416">覺銕觜</persName>於<placeName key="CN0320103Z01AA">金陵</placeName>。<persName key="A008416">覺</persName><persName key="A004475">趙州</persName>侍者也。號稱明眼。問曰。<persName key="A004475">趙州</persName>
+        <lb ed="X" n="0417a04"/>柏樹子因緣。記得麼。<persName key="A008416">覺</persName>曰。無此語莫謗先師。<persName key="A000174">法眼</persName>拊
+        <lb ed="X" n="0417a05"/>手曰。真自師子窟中來。<persName key="A008416">覺</persName>公言無此語。<persName key="A000174">法眼</persName>肯之。其
+        <lb ed="X" n="0417a06"/>旨安在。師曰。宗門抑揚。那有規轍乎。時有苦行名<persName key="unknown">韓<lb ed="X" n="0417a07"/>大伯</persName>者。貌寒寢侍其傍。輒匿笑而去。客退。師數之曰。
         <lb ed="X" n="0417a08"/>我偶客語耳。乃敢慢笑。笑何事。對曰。笑知客眼未正。
         <lb ed="X" n="0417a09"/>擇法不明。師曰。有說乎。對以偈曰。一兔橫身當古路。
         <lb ed="X" n="0417a10"/>蒼鷹纔見便生擒。後來獵犬無靈性。空向枯椿舊處
         <lb ed="X" n="0417a11"/>尋。師陰異之。結以為友。師盛年工翰墨。作為法句。追
-        <lb ed="X" n="0417a12"/>慕禪月休公。有詩云。紅芍藥邊方舞蝶。碧梧桐裡正
-        <lb ed="X" n="0417a13"/>啼鶯。離亭不折依依柳。況有春山送又迎。甞依棲賢
-        <lb ed="X" n="0417a14"/>湜公。機不合。作師子峰詩而去。與齊岳者為侶。同謁
-        <lb ed="X" n="0417a15"/>五祖戒師。休於山莊前。遣岳先往。機語不契。師亦竟
-        <lb ed="X" n="0417a16"/>不見。遂南游。謁智門祚禪師。祚者。香林遠公嫡子。雲
-        <lb ed="X" n="0417a17"/>門之孫也。知見高。學者。莫能覯其機。師俊邁。智門愛
-        <lb ed="X" n="0417a18"/>之。一日伸問曰。不起一念云何有過。智門召師。師近
-        <lb ed="X" n="0417a19"/>前。智門以拂子驀口。打擬開口。隨又打。師豁然開悟。
-        <lb ed="X" n="0417a20"/>依止五年。盡得其道。師與學士曾公會厚善。相值淮
-        <lb ed="X" n="0417a21"/>上。問師何之。曰將遊錢塘絕西興。登天台鴈蕩。曾公
-        <lb ed="X" n="0417a22"/>曰。靈隱天下勝處。珊禪師吾故人。以書薦師。師至靈
-        <lb ed="X" n="0417a23"/>隱。三年陸沉眾中。俄曾公。奉使浙西訪師。靈隱無識
+        <lb ed="X" n="0417a12"/>慕<persName key="A005200">禪月休</persName>公。有詩云。紅芍藥邊方舞蝶。碧梧桐裡正
+        <lb ed="X" n="0417a13"/>啼鶯。離亭不折依依柳。況有春山送又迎。甞依<placeName key="CN0360427T03AA">棲賢</placeName>
+        <lb ed="X" n="0417a14"/><persName key="unknown">湜</persName>公。機不合。作<placeName key="unknown">師子峰</placeName>詩而去。與<persName key="A020497">齊岳</persName>者為侶。同謁
+        <lb ed="X" n="0417a15"/><persName key="A011759">五祖戒</persName>師。休於山莊前。遣<persName key="A020497">岳</persName>先往。機語不契。師亦竟
+        <lb ed="X" n="0417a16"/>不見。遂南游。謁<persName key="A015592">智門祚</persName>禪師。<persName key="A015592">祚</persName>者。<persName key="A009463">香林遠</persName>公嫡子。<persName key="A003703">雲<lb ed="X" n="0417a17"/>門</persName>之孫也。知見高。學者。莫能覯其機。師俊邁。<persName key="A015592">智門</persName>愛
+        <lb ed="X" n="0417a18"/>之。一日伸問曰。不起一念云何有過。<persName key="A015592">智門</persName>召師。師近
+        <lb ed="X" n="0417a19"/>前。<persName key="A015592">智門</persName>以拂子驀口。打擬開口。隨又打。師豁然開悟。
+        <lb ed="X" n="0417a20"/>依止五年。盡得其道。師與學士<persName key="unknown">曾公會</persName>厚善。相值<placeName key="CN0320804A05AA">淮<lb ed="X" n="0417a21"/>上</placeName>。問師何之。曰將遊<placeName key="CN0330103Z16AA">錢塘</placeName>絕<placeName key="CN0330109Z13AA">西興</placeName>。登<placeName key="CN0331023M01AA">天台</placeName><placeName key="CN0330382M01AA">鴈蕩</placeName>。曾公
+        <lb ed="X" n="0417a22"/>曰。<placeName key="CN0330106T01AA">靈隱</placeName>天下勝處。<persName key="unknown">珊</persName>禪師吾故人。以書薦師。師至<placeName key="CN0330106T01AA">靈<lb ed="X" n="0417a23"/>隱</placeName>。三年陸沉眾中。俄曾公。奉使<placeName key="CN0330103Z11AA">浙西</placeName>訪師。<placeName key="CN0330106T01AA">靈隱</placeName>無識
         <lb ed="X" n="0417a24"/>者。時堂中僧千餘。使吏撿牀曆。物色求之。乃至曾公
         <lb ed="X" n="0417b01"/>問向所附書。師袖納之曰。公意勤然。行脚人非督郵
-        <lb ed="X" n="0417b02"/>也。曾公大笑。珊公以是奇之。師出世。初住吳江翠峰。
-        <lb ed="X" n="0417b03"/>後遷明州雪竇。曾公守越時。敦請也。上堂云。春山疊
+        <lb ed="X" n="0417b02"/>也。曾公大笑。珊公以是奇之。師出世。初住吳江<placeName key="CN0320506T04AA">翠峰</placeName>。
+        <lb ed="X" n="0417b03"/>後遷明州<placeName key="CN0330283T01AA">雪竇</placeName>。曾公守<placeName key="CN0330602Z24AA">越</placeName>時。敦請也。上堂云。春山疊
         <lb ed="X" n="0417b04"/>亂青。春水漾虗碧。寥寥天地間。獨立望何極。便下座
         <lb ed="X" n="0417b05"/>却顧謂侍者曰。適來有人看方丈否。曰有。師曰。作賊
         <lb ed="X" n="0417b06"/>人心虗。師舉揚宗教三十餘年。海內奇衲子爭赴之。
@@ -37,22 +33,21 @@
         <lb ed="X" n="0417b08"/>二早過。靈臺一點不揩磨。貪生逐日區區去。喚不回
         <lb ed="X" n="0417b09"/>頭爭奈何。又書壁文。戒進後學。其略曰。身如行廁。利
         <lb ed="X" n="0417b10"/>稱軟賊。百年非久。三界無安。可惜寸陰。當求解脫。讀
-        <lb ed="X" n="0417b11"/>者鼻為之酸師一日偶經行。植杖于林下。眾衲環之。
-        <lb ed="X" n="0417b12"/>忽問曰。有問雲門樹凋葉落時如何。曰體露金風。雲
-        <lb ed="X" n="0417b13"/>門答這僧耶。為解說耶。有宗上座出眾對曰。待老漢
-        <lb ed="X" n="0417b14"/>有悟處即說。師熟視驚曰。非韓大伯乎。曰老漢瞥地
-        <lb ed="X" n="0417b15"/>也。於是令撾鼓。眾集。師曰。大眾。今日雪竇宗上座。乃
-        <lb ed="X" n="0417b16"/>是昔日大陽韓大伯。具大知見。晦迹韜光。欲得發揚
+        <lb ed="X" n="0417b11"/>者鼻為之酸。師一日偶經行。植杖于林下。眾衲環之。
+        <lb ed="X" n="0417b12"/>忽問曰。有問<persName key="A003703">雲門</persName>樹凋葉落時如何。曰體露金風。雲
+        <lb ed="X" n="0417b13"/>門答這僧耶。為解說耶。有<persName key="unknown">宗上座</persName>出眾對曰。待老漢
+        <lb ed="X" n="0417b14"/>有悟處即說。師熟視驚曰。非<persName key="unknown">韓大伯</persName>乎。曰老漢瞥地
+        <lb ed="X" n="0417b15"/>也。於是令撾鼓。眾集。師曰。大眾。今日<placeName key="CN0330283T01AA">雪竇</placeName><persName key="unknown">宗上座</persName>。乃
+        <lb ed="X" n="0417b16"/>是昔日<placeName key="CN0420821T02AA">大陽</placeName><persName key="unknown">韓大伯</persName>。具大知見。晦迹韜光。欲得發揚
         <lb ed="X" n="0417b17"/>宗風。幸願特升此座。宗遂升座。僧問。寶劒未出匣時
         <lb ed="X" n="0417b18"/>如何。曰。神光射斗牛。又問。出匣後如何。曰。千兵易得。
         <lb ed="X" n="0417b19"/>一將難求。僧退。宗乃曰。寶劒未出匣。神光射斗牛。千
-        <lb ed="X" n="0417b20"/>兵容易得。一將實難求。便下座。一眾大驚。宗即承天
-        <lb ed="X" n="0417b21"/>宗禪師也。師一日游山。四顧周覽。謂侍者。何日復來
+        <lb ed="X" n="0417b20"/>兵容易得。一將實難求。便下座。一眾大驚。宗即<persName key="unknown">承天<lb ed="X" n="0417b21"/>宗</persName>禪師也。師一日游山。四顧周覽。謂侍者。何日復來
         <lb ed="X" n="0417b22"/>此。侍者哀乞遺偈。師曰。平生惟患語之多矣。翌日出
         <lb ed="X" n="0417b23"/>杖履衣盂。散及徒眾。乃曰。七月七日復相見耳。至期
         <lb ed="X" n="0417b24"/>盥沐攝衣。北首而逝。閱世七十三。坐五十夏。塔全身
-        <lb ed="X" n="0417c01"/>于寺之西塢。賜號明覺禪師。</p><p>
-        <lb ed="X" n="0417c02"/>系曰。雲門一宗。得雪竇而中興。不然亦撲撲矣。師器
+        <lb ed="X" n="0417c01"/>于寺之西塢。賜號<persName key="A000885">明覺</persName>禪師。</p><p>
+            <lb ed="X" n="0417c02"/>系曰。雲門一宗。得<placeName key="CN0330283T01AA">雪竇</placeName>而中興。不然亦撲撲矣。師器
         <lb ed="X" n="0417c03"/>宇凝重。即袖中一書。三年仍還本人。便足氣壓千古。
-        <lb ed="X" n="0417c04"/>家聲浩浩。子孫繩繩。豈偶然哉。</p>
+            <lb ed="X" n="0417c04"/>家聲浩浩。子孫繩繩。豈偶然哉。</p>
 </div>

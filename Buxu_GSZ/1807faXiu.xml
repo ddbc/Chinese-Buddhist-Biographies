@@ -1,26 +1,23 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0480b12faXiu">
-    <head><lb ed="X" n="0480b12"/>　　　　法秀禪師傳</head>
-    <p><anchor n="X.77.1524.0480b13"/><lb ed="X" n="0480b13"/>法秀禪師。不知何許人。見左春坊鄒濟所作。般若禪
-        <lb ed="X" n="0480b14"/>院記中。想見其人。故當時高德。惜無從考始末。記稱。
-        <lb ed="X" n="0480b15"/>江寧天王山有佛龕。曰般若。在京都城南九十里。山
+    <head><lb ed="X" n="0480b12"/>　　　　<persName key="A021487">法秀</persName>禪師傳</head>
+    <p><anchor n="X.77.1524.0480b13"/><lb ed="X" n="0480b13"/><persName key="A021487">法秀</persName>禪師。不知何許人。見左春坊<persName key="unknown">鄒濟</persName>所作。<placeName key="CN0320115T91AA">般若禪<lb ed="X" n="0480b14"/>院</placeName>記中。想見其人。故當時高德。惜無從考始末。記稱。
+        <lb ed="X" n="0480b15"/>江寧<placeName key="unknown">天王山</placeName>有佛龕。曰<placeName key="CN0320115T91AA">般若</placeName>。在<placeName key="CN0320105Z10AA">京都</placeName>城南九十里。山
         <lb ed="X" n="0480b16"/>形勢若蓮花。二水環拱于其間。峰巒秀麗。泉清木盛。
-        <lb ed="X" n="0480b17"/>堪為阿蘭若地。元大德中。法秀禪師。棲禪於此。師得
-        <lb ed="X" n="0480b18"/>法於千巖長禪師。戒行孤峻。甞居婺之聖壽。為第一
-        <lb ed="X" n="0480b19"/>座。道播諸方。禪衲雲集。至正甲午。　太祖高皇帝渡
+        <lb ed="X" n="0480b17"/>堪為阿蘭若地。<date from-iso="1297-03-02" to-iso="1308-01-31" key="j21948412198827">元大德中</date>。<persName key="A021487">法秀</persName>禪師。棲禪於此。師得
+        <lb ed="X" n="0480b18"/>法於<persName key="A004551">千巖長</persName>禪師。戒行孤峻。甞居婺之<placeName key="CN0330782T01AA">聖壽</placeName>。為第一
+        <lb ed="X" n="0480b19"/>座。道播諸方。禪衲雲集。<date from-iso="1354-02-02" to-iso="1355-01-21" key="j22156312215984">至正甲午</date>。　<persName key="A003672">太祖高皇帝</persName>渡
         <lb ed="X" n="0480b20"/>江。聞師名。單騎入山。與語相契。時遣繆總制者。送供
-        <lb ed="X" n="0480b21"/>久之。師游廬阜。莫知所之。境遂蓁蕪。洪武二十年歲
-        <lb ed="X" n="0480b22"/>丁卯。　上記憶其事。　詔工部右侍郎黃立恭。選一
+        <lb ed="X" n="0480b21"/>久之。師游<placeName key="CN0360402M01AA">廬阜</placeName>。莫知所之。境遂蓁蕪。<date from-iso="1387-01-28" to-iso="1388-02-15" key="j22276792228062">洪武二十年歲<lb ed="X" n="0480b22"/>丁卯</date>。　上記憶其事。　詔工部右侍郎<persName key="unknown">黃立恭</persName>。選一
         <lb ed="X" n="0480b23"/>辦道僧。即舊地重新創立。因諭之曰。我渡江來。曾謁
-        <lb ed="X" n="0480b24"/>法秀禪師。其僧有見識。立菴正在蓮菂上。賜名般若
-        <lb ed="X" n="0480c01"/>禪院。立恭乃舉僧紹義。引見受命而去。遠近聞　上
+        <lb ed="X" n="0480b24"/><persName key="A021487">法秀</persName>禪師。其僧有見識。立菴正在蓮菂上。賜名<placeName key="CN0320115T91AA">般若<lb ed="X" n="0480c01"/>禪院</placeName>。<persName key="unknown">立恭</persName>乃舉僧<persName key="unknown">紹義</persName>。引見受命而去。遠近聞　上
         <lb ed="X" n="0480c02"/>意所嚮。莫不隨喜。輸財助力。未幾而成叢席。即今之
-        <lb ed="X" n="0480c03"/>般若寺也。</p><p>
-        <lb ed="X" n="0480c04"/>　明河曰。圖記列千巖法嗣。唯萬峰蔚松隱然耳。安
-        <lb ed="X" n="0480c05"/>　知復有秀哉。如秀者。顯隱之際。猶神龍。不可得而
-        <lb ed="X" n="0480c06"/>　繫覊。能使我　聖祖。僅一見之。不及再見。至念其
+        <lb ed="X" n="0480c03"/><placeName key="CN0320115T91AA">般若寺</placeName>也。</p><p>
+            <lb ed="X" n="0480c04"/>　<persName key="A000658">明河</persName>曰。圖記列<persName key="A004551">千巖</persName>法嗣。唯<persName key="A000933">萬峰蔚</persName><persName key="A010704">松隱然</persName>耳。安
+            <lb ed="X" n="0480c05"/>　知復有秀哉。如<persName key="A021487">秀</persName>者。顯隱之際。猶神龍。不可得而
+            <lb ed="X" n="0480c06"/>　繫覊。能使我　<persName key="A003672">聖祖</persName>。僅一見之。不及再見。至念其
         <lb ed="X" n="0480c07"/>　人不忘其處。誠足傳持師道。將超然跨蔚而上之
-        <lb ed="X" n="0480c08"/>　天際真人。宜乎　聖祖謂其有見識也。故予。不能
+            <lb ed="X" n="0480c08"/>　天際真人。宜乎　<persName key="A003672">聖祖</persName>謂其有見識也。故予。不能
         <lb ed="X" n="0480c09"/>　盡無疑于圖記之所見。而於圖記之所未見。寓想
-        <lb ed="X" n="0480c10"/>　增歎之深。不特秀公一人而己。</p>
+            <lb ed="X" n="0480c10"/>　增歎之深。不特<persName key="A021487">秀</persName>公一人而己。</p>
 </div>

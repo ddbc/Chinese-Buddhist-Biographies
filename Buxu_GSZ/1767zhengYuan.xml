@@ -1,15 +1,14 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0463c03zhengYuan">
-    <head><lb ed="X" n="0463c03"/>　　　　竺遠源公傳</head>
-    <p><anchor n="X.77.1524.0463c04"/><lb ed="X" n="0463c04"/>正源。字竺遠。姓歐陽。南康人也。生之夕。梵僧見夢於
-        <lb ed="X" n="0463c05"/>其母。具戒後。參虗谷陵公。公以龍潭滅紙炬語問之。
+    <head><lb ed="X" n="0463c03"/>　　　　<persName key="A015547">竺遠源</persName>公傳</head>
+    <p><anchor n="X.77.1524.0463c04"/><lb ed="X" n="0463c04"/><persName key="A015547">正源</persName>。字<persName key="A015547">竺遠</persName>。姓歐陽。<placeName key="CN0360782Z10AA">南康</placeName>人也。生之夕。梵僧見夢於
+        <lb ed="X" n="0463c05"/>其母。具戒後。參<persName key="A000489">虗谷陵</persName>公。公以<persName key="unknown">龍潭</persName>滅紙炬語問之。
         <lb ed="X" n="0463c06"/>師對以焦石可破層冰。公曰。破後奚為。應之曰。探索
         <lb ed="X" n="0463c07"/>乃知。公詰曰。所知者何事。方思對其語。公遽舉杖擊
         <lb ed="X" n="0463c08"/>之。師悚然默喻。由是智開識融。外內無礙。而人歸之
         <lb ed="X" n="0463c09"/>矣。出世。凡五主巨剎。皆方鎮大臣。遣使者所邀致。位
         <lb ed="X" n="0463c10"/>尊而不以為榮。德盛而守之以謙。居道場。增室廬之
-        <lb ed="X" n="0463c11"/>未備。主徑山。掩亂兵之遺骼。在靈隱。樓閣皆為煨燼。
-        <lb ed="X" n="0463c12"/>惟師所居獨存。類有神以相之者。以元至正二十一
-        <lb ed="X" n="0463c13"/>年六月。示寂。壽七十又三。塔全身于徑山。弟子分瘞
+        <lb ed="X" n="0463c11"/>未備。主<placeName key="CN0330110T11AA">徑山</placeName>。掩亂兵之遺骼。在<placeName key="CN0330106T01AA">靈隱</placeName>。樓閣皆為煨燼。
+        <lb ed="X" n="0463c12"/>惟師所居獨存。類有神以相之者。以<date from-iso="1361-07-11" to-iso="1361-08-08" key="j22183472218375">元至正二十一<lb ed="X" n="0463c13"/>年六月</date>。示寂。壽七十又三。塔全身于<placeName key="CN0330110T11AA">徑山</placeName>。弟子分瘞
         <lb ed="X" n="0463c14"/>爪髮于道場。舍利叢然乎其間。</p>
 </div>

@@ -1,71 +1,66 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0412a11chuYuan">
-    <head><lb ed="X" n="0412a11"/>　　　　慈明圓禪師傳</head>
-    <p><anchor n="X.77.1524.0412a12"/><lb ed="X" n="0412a12"/>石霜楚圓禪師。號慈明。汾陽嫡嗣也。生全州李氏。少
-        <lb ed="X" n="0412a13"/>為書生。年二十二出家。母有賢行。使游方。師連眉秀
+    <head><lb ed="X" n="0412a11"/>　　　　<persName key="A001439">慈明圓</persName>禪師傳</head>
+    <p><anchor n="X.77.1524.0412a12"/><lb ed="X" n="0412a12"/><persName key="A001439">石霜楚圓</persName>禪師。號<persName key="A001439">慈明</persName>。<persName key="A004984">汾陽</persName>嫡嗣也。生<placeName key="CN0450324Z29AA">全州</placeName>李氏。少
+        <lb ed="X" n="0412a13"/>為書生。<date key="j20888592089223" when-iso="1007">年二十二</date>出家。母有賢行。使游方。師連眉秀
         <lb ed="X" n="0412a14"/>目。頎然豐碩。然忽繩墨。所至為老宿呵。以為少叢林。
         <lb ed="X" n="0412a15"/>師柴崖而笑曰。龍象蹴踏。非驢所堪。甞槖骨董箱。以
-        <lb ed="X" n="0412a16"/>竹杖荷之。游湘沔間。聞汾陽道望。遂與大愚谷泉瑯
-        <lb ed="X" n="0412a17"/>琊造焉。陽顧而默器之。經二年未許入室。每見必罵
+        <lb ed="X" n="0412a16"/>竹杖荷之。游<placeName key="CN0420602Z05AA">湘沔</placeName>間。聞<persName key="A004984">汾陽</persName>道望。遂與<persName key="A014374">大愚</persName><persName key="A014357">谷泉</persName><persName key="A004234">瑯<lb ed="X" n="0412a17"/>琊</persName>造焉。<persName key="A004984">陽</persName>顧而默器之。經二年未許入室。每見必罵
         <lb ed="X" n="0412a18"/>詬。或毀詆。諸方所訓。皆流俗鄙事。一夕訴曰。自至法
         <lb ed="X" n="0412a19"/>席已再夏。不蒙指示。但增世俗塵勞念。歲月飄忽。己
-        <lb ed="X" n="0412a20"/>事不明。語未卒。陽熟視罵曰。是惡知識。敢裨販我。怒
-        <lb ed="X" n="0412a21"/>舉杖逐之。師擬伸救。陽掩師口。乃大悟曰。乃知臨濟
-        <lb ed="X" n="0412a22"/>道出常情。服役七年辭去。依唐明嵩公。嵩指會楊大
-        <lb ed="X" n="0412a23"/>年。因大年。復會李都尉。二公恨見之晚。館於齋中。日
-        <lb ed="X" n="0412a24"/>夕質疑智證。以為法友。久之辭還河東。省唐明。李公
-        <lb ed="X" n="0412b01"/>遣二僧訊師。師於書尾。畫雙足寫來僧名。以寄之。李
+        <lb ed="X" n="0412a20"/>事不明。語未卒。<persName key="A004984">陽</persName>熟視罵曰。是惡知識。敢裨販我。怒
+        <lb ed="X" n="0412a21"/>舉杖逐之。師擬伸救。<persName key="A004984">陽</persName>掩師口。乃大悟曰。乃知臨濟
+        <lb ed="X" n="0412a22"/>道出常情。服役七年辭去。依<persName key="unknown">唐明嵩</persName>公。嵩指會<persName key="A001446">楊大<lb ed="X" n="0412a23"/>年</persName>。因<persName key="A001446">大年</persName>。復會<persName key="A000520">李都尉</persName><!-- T49n2037_p0866a11 -->。二公恨見之晚。館於齋中。日
+        <lb ed="X" n="0412a24"/>夕質疑智證。以為法友。久之辭還<placeName key="CN0140881Z30AA">河東</placeName>。省唐明。<persName key="A000520">李公</persName>
+        <lb ed="X" n="0412b01"/>遣二僧訊師。師於書尾。畫雙足寫來僧名。以寄之。<persName key="A000520">李</persName>
         <lb ed="X" n="0412b02"/>作偈曰。黑毫千里餘。金槨示雙趺。人天渾莫測。珍重
-        <lb ed="X" n="0412b03"/>赤鬚胡。師以母老。南歸至筠州。首眾於洞山。時聰禪
-        <lb ed="X" n="0412b04"/>師居焉。先是。汾陽謂師曰。我遍參雲門兒孫。特以未
-        <lb ed="X" n="0412b05"/>見聰為恨。故師依止三年。乃游仰山。大年以書抵宜
-        <lb ed="X" n="0412b06"/>春太守黃宗旦。使請師出世。守虗南原致師。師不赴。
+        <lb ed="X" n="0412b03"/>赤鬚胡。師以母老。南歸至<placeName key="CN0360983Z10AA">筠州</placeName>。首眾於<placeName key="CN0360924T02AA">洞山</placeName>。時<persName key="A014346">聰</persName>禪
+        <lb ed="X" n="0412b04"/>師居焉。先是。<persName key="A004984">汾陽</persName>謂師曰。我遍參<persName key="A003703">雲門</persName>兒孫。特以未
+        <lb ed="X" n="0412b05"/>見<persName key="A014346">聰</persName>為恨。故師依止三年。乃游<placeName key="CN0360902M01AA">仰山</placeName>。<persName key="A001446">大年</persName>以書抵<placeName key="CN0360902Z09AA">宜<lb ed="X" n="0412b06"/>春</placeName>太守<persName key="unknown">黃宗旦</persName>。使請師出世。守虗<placeName key="unknown">南原</placeName>致師。師不赴。
         <lb ed="X" n="0412b07"/>旋特謁候守願行。守問其故。師曰。始為讓。今偶欲之
         <lb ed="X" n="0412b08"/>耳。守大賢之。住三年。棄去省母。以白金為壽。母投金
         <lb ed="X" n="0412b09"/>于地。罵曰。汝少行脚。負布槖去。今安得此物。吾望汝
-        <lb ed="X" n="0412b10"/>濟我。反置我地獄耶。師色不怍。徐收之辭去。謁神鼎
-        <lb ed="X" n="0412b11"/>諲公。鼎首山高弟。望尊一時。衲子非人類精奇。無敢
+        <lb ed="X" n="0412b10"/>濟我。反置我地獄耶。師色不怍。徐收之辭去。謁<persName key="A020451">神鼎<lb ed="X" n="0412b11"/>諲</persName>公。<persName key="A020451">鼎</persName><persName key="A004983">首山</persName>高弟。望尊一時。衲子非人類精奇。無敢
         <lb ed="X" n="0412b12"/>登其門者。住山三十年。門弟子氣吞諸方。師髮長不
-        <lb ed="X" n="0412b13"/>剪。弊衣楚音。通謁稱法姪。一眾大笑。鼎遣童子問。長
-        <lb ed="X" n="0412b14"/>老誰之嗣。師仰視屋曰。親見汾陽來。鼎杖而出。顧見
-        <lb ed="X" n="0412b15"/>頎然。問曰。汾州有西河師子是否。師指其後。絕叫曰。
-        <lb ed="X" n="0412b16"/>屋倒矣。童子返走。鼎回顧相矍鑠。師地坐脫隻履而
-        <lb ed="X" n="0412b17"/>視之。鼎老忘所問。又失師所在。師徐起整衣行。且語
-        <lb ed="X" n="0412b18"/>曰。見面不如聞名。遂去。鼎遣人追之。不可。歎曰。汾陽
+        <lb ed="X" n="0412b13"/>剪。弊衣楚音。通謁稱法姪。一眾大笑。<persName key="A020451">鼎</persName>遣童子問。長
+        <lb ed="X" n="0412b14"/>老誰之嗣。師仰視屋曰。親見<persName key="A004984">汾陽</persName>來。<persName key="A020451">鼎</persName>杖而出。顧見
+        <lb ed="X" n="0412b15"/>頎然。問曰。<placeName key="CN0141182Z11AA">汾州</placeName>有<persName key="A004984">西河師子</persName>是否。師指其後。絕叫曰。
+        <lb ed="X" n="0412b16"/>屋倒矣。童子返走<persName key="A020451">鼎</persName>鼎回顧相矍鑠。師地坐脫隻履而
+        <lb ed="X" n="0412b17"/>視之。<persName key="A020451">鼎</persName>老忘所問。又失師所在。師徐起整衣行。且語
+        <lb ed="X" n="0412b18"/>曰。見面不如聞名。遂去。<persName key="A020451">鼎</persName>遣人追之。不可。歎曰。<persName key="A004984">汾陽</persName>
         <lb ed="X" n="0412b19"/>乃有此兒耶。師自是名重叢林。適道吾虗席。郡移書。
-        <lb ed="X" n="0412b20"/>欲得大禪伯領之。鼎以師應召。法令嚴整。亡身為法
+        <lb ed="X" n="0412b20"/>欲得大禪伯領之。<persName key="A020451">鼎</persName>以師應召。法令嚴整。亡身為法
         <lb ed="X" n="0412b21"/>者集焉。師之大機大用。不可思議。傳者謂。師以事事
-        <lb ed="X" n="0412b22"/>無礙行心。凡聖不能測。可為知言矣。水庵。謂尤侍郎
-        <lb ed="X" n="0412b23"/>延之曰。昔大愚慈明谷泉等。結伴參汾陽。河東苦寒。
-        <lb ed="X" n="0412b24"/>眾人憚之。惟慈明曉夕不憚。夜坐欲睡。則引錐自刺。
+        <lb ed="X" n="0412b22"/>無礙行心。凡聖不能測。可為知言矣。<persName key="unknown">水庵</persName>。謂<persName key="unknown">尤侍郎</persName>
+        <lb ed="X" n="0412b23"/>延之曰。昔<persName key="A014374">大愚</persName><persName key="A001439">慈明</persName><persName key="A014357">谷泉</persName>等。結伴參<persName key="A004984">汾陽</persName>。<placeName key="CN0140881Z14AA">河東</placeName>苦寒。
+        <lb ed="X" n="0412b24"/>眾人憚之。惟<persName key="A001439">慈明</persName>曉夕不憚。夜坐欲睡。則引錐自刺。
         <lb ed="X" n="0412c01"/>歎曰。古人為生死事大。不食不寢。我何人哉。乃縱荒
-        <lb ed="X" n="0412c02"/>逸。生無益於時。死無聞於後。是自棄也。及辭歸。汾陽
-        <lb ed="X" n="0412c03"/>歎曰。楚圓今去。吾道東矣。次住福嚴。又移興化。甞室
+        <lb ed="X" n="0412c02"/>逸。生無益於時。死無聞於後。是自棄也。及辭歸。<persName key="A004984">汾陽</persName>
+        <lb ed="X" n="0412c03"/>歎曰。<persName key="A001439">楚圓</persName>今去。吾道東矣。次住<placeName key="CN0430412T03AA">福嚴</placeName>。又移<placeName key="unknown">興化</placeName>。甞室
         <lb ed="X" n="0412c04"/>中插劍一口。以草鞵一對。水一盆。置在劒邊。擬議者。
         <lb ed="X" n="0412c05"/>師曰。喪身失命了也。便喝出。無有一人契者。其他玄
-        <lb ed="X" n="0412c06"/>言妙語。提唱宗乘。探旨者麻粟出焉。而黃龍南楊岐
-        <lb ed="X" n="0412c07"/>會二人。最為上首。能世其家。以某年正月五日示寂。
-        <lb ed="X" n="0412c08"/>前是。李都尉遣使邀師曰。海內法友。唯師與楊大年
-        <lb ed="X" n="0412c09"/>耳。大年棄我而先。僕年來頓覺衰落。忍死以一見公。
-        <lb ed="X" n="0412c10"/>仍以書抵潭帥敦遣之。師惻然。與侍者舟而東下。舟
-        <lb ed="X" n="0412c11"/>中作偈曰。長江行不盡。帝里到何時。既得凉風便。休
-        <lb ed="X" n="0412c12"/>將[木*虜]棹施。至京與李公會。月餘而李公歿。臨終畫一
+        <lb ed="X" n="0412c06"/>言妙語。提唱宗乘。探旨者麻粟出焉。而<persName key="A003921">黃龍南</persName><persName key="A004146">楊岐<lb ed="X" n="0412c07"/>會</persName>二人。最為上首。能世其家。以<date when-iso="1039-02-06" key="j21005832100583">某年正月五日</date><!-- （X79n1559_p0293c21） -->示寂。
+        <lb ed="X" n="0412c08"/>前是。<persName key="A000520">李都尉</persName>遣使邀師曰。海內法友。唯師與<persName key="A001446">楊大年</persName>
+        <lb ed="X" n="0412c09"/>耳。<persName key="A001446">大年</persName>棄我而先。僕年來頓覺衰落。忍死以一見公。
+        <lb ed="X" n="0412c10"/>仍以書抵<placeName key="CN0430105Z21AA">潭帥</placeName>敦遣之。師惻然。與侍者舟而東下。舟
+        <lb ed="X" n="0412c11"/>中作偈曰。<placeName key="CN0000000R01AA">長江</placeName>行不盡。帝里到何時。既得凉風便。休
+        <lb ed="X" n="0412c12"/>將[木*虜]棹施。至<placeName key="CN0410224Z41AA">京</placeName>與<persName key="A000520">李公</persName>會。月餘而<persName key="A000520">李公</persName>歿。臨終畫一
         <lb ed="X" n="0412c13"/>圓相。又作偈獻師。偈曰。世界無依。山河匪礙。大海微
         <lb ed="X" n="0412c14"/>塵。須彌納芥。拈起幞頭。解下腰帶。若覓死生。問取皮
         <lb ed="X" n="0412c15"/>袋。師曰。如何是本來佛性。公曰。今日熱如昨日。隨聲
         <lb ed="X" n="0412c16"/>便問。師臨行一句作麼生。師曰。本來無質礙。隨處任
         <lb ed="X" n="0412c17"/>方圓。公曰。晚來困倦。更不答話。師曰。無佛處作佛。公
-        <lb ed="X" n="0412c18"/>于是泊然而逝。仁宗皇帝。尤留神空宗。聞李公化與
+        <lb ed="X" n="0412c18"/>于是泊然而逝。<persName key="A006606">仁宗皇帝</persName>。尤留神空宗。聞<persName key="A000520">李公</persName>化與
         <lb ed="X" n="0412c19"/>師問答。嘉歎久之。師哭之慟。臨壙而別。有旨賜官舟
         <lb ed="X" n="0412c20"/>南還。中途謂侍者曰。我忽得風痺疾。視之口吻已喎
         <lb ed="X" n="0412c21"/>斜。侍者以足頓地曰。當奈何平生呵佛罵祖。今乃爾。
         <lb ed="X" n="0412c22"/>師曰。無憂為汝正之。以手整之如故。曰。而今而後。不
-        <lb ed="X" n="0412c23"/>鈍置汝。逾年而化。李公子。銘誌其行于興化。全身塔
-        <lb ed="X" n="0412c24"/>于石霜。</p><p>
+        <lb ed="X" n="0412c23"/>鈍置汝。逾年而化。<persName key="A000520">李公</persName>子。銘誌其行于<placeName key="unknown">興化</placeName>。全身塔
+        <lb ed="X" n="0412c24"/>于<placeName key="CN0430181M02AA">石霜</placeName>。</p><p>
         <lb ed="X" n="0413a01"/>系曰。達人出世。以開物成務。為心非自衒也。方師之
-        <lb ed="X" n="0413a02"/>受南原也。戢天際想于眉睫間。聊試吾道動靜何如。
-        <lb ed="X" n="0413a03"/>觀其初不赴。後自請行。進退躊躇。意可知矣。覺範云。
-        <lb ed="X" n="0413a04"/>慈明道。起臨濟於將仆。而平昔廓落乃如此。微神鼎。
-        <lb ed="X" n="0413a05"/>則亦谷泉流也。雖然。狂奴故態。特師之寓言耳。真面
-        <lb ed="X" n="0413a06"/>目。豈無知音者哉。然神鼎固長者。難及也。</p>
+            <lb ed="X" n="0413a02"/>受<placeName key="unknown">南原</placeName>也。戢天際想于眉睫間。聊試吾道動靜何如。
+            <lb ed="X" n="0413a03"/>觀其初不赴。後自請行。進退躊躇。意可知矣。<persName key="A001673">覺範</persName>云。
+            <lb ed="X" n="0413a04"/><persName key="A001439">慈明</persName>道。起臨濟於將仆。而平昔廓落乃如此。微<persName key="A020451">神鼎</persName>。
+            <lb ed="X" n="0413a05"/>則亦<persName key="A014357">谷泉</persName>流也。雖然。狂奴故態。特師之寓言耳。真面
+            <lb ed="X" n="0413a06"/>目。豈無知音者哉。然<persName key="A020451">神鼎</persName>固長者。難及也。</p>
 </div>

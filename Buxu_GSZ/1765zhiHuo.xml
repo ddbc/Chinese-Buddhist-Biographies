@@ -1,40 +1,36 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0462c11zhiHuo">
-    <head><lb ed="X" n="0462c11"/>　　　　日本夢窗國師傳</head>
-    <p><anchor n="X.77.1524.0462c12"/><lb ed="X" n="0462c12"/>智曤。更名疎石。字夢窗。姓源氏。勢州人。宇多天王九
-        <lb ed="X" n="0462c13"/>世孫。九歲出家。羣書一覧輒能記。暨長。繪死屍九變
-        <lb ed="X" n="0462c14"/>之相。獨坐觀想。慨然有求道志。一夜夢。遊中國疎山
-        <lb ed="X" n="0462c15"/>石頭二剎。一龐眉僧。持達磨像。授之曰。爾善事之。寤
-        <lb ed="X" n="0462c16"/>而歎曰。洞明吾本心者。其唯禪觀乎。遂更名疎石。謁
-        <lb ed="X" n="0462c17"/>無隱範公。又見一山寧公。不甚契。後求指決于高峰
-        <lb ed="X" n="0462c18"/>日公。於言下有省。因夕坐久。偶作倚壁勢。身忽仆去。
+    <head><lb ed="X" n="0462c11"/>　　　　<placeName key="JP0000000E01AA">日本</placeName><persName key="A001605">夢窗</persName>國師傳</head>
+    <p><anchor n="X.77.1524.0462c12"/><lb ed="X" n="0462c12"/><persName key="A001605">智曤</persName>。更名<persName key="A001605">疎石</persName>。字<persName key="A001605">夢窗</persName>。姓源氏。<placeName key="unknown">勢州</placeName>人。<persName key="unknown">宇多天王</persName>九
+        <lb ed="X" n="0462c13"/>世孫。<date key="j21896672190031" when-iso="1283">九歲</date>出家。羣書一覧輒能記。暨長。繪死屍九變
+        <lb ed="X" n="0462c14"/>之相。獨坐觀想。慨然有求道志。一夜夢。遊中國<placeName key="CN0361027T03AA">疎山</placeName>
+        <lb ed="X" n="0462c15"/><placeName key="unknown">石頭</placeName>二剎。一龐眉僧。持達磨像。授之曰。爾善事之。寤
+        <lb ed="X" n="0462c16"/>而歎曰。洞明吾本心者。其唯禪觀乎。遂更名<persName key="A001605">疎石</persName>。謁
+        <lb ed="X" n="0462c17"/><persName key="unknown">無隱範</persName>公。又見<persName key="A000006">一山寧</persName>公。不甚契。後求指決于<persName key="A001005">高峰<lb ed="X" n="0462c18"/>日</persName>公。於言下有省。因夕坐久。偶作倚壁勢。身忽仆去。
         <lb ed="X" n="0462c19"/>豁然大悟。平生礙膺之物。冰解雪融。心眼爛然如月。
-        <lb ed="X" n="0462c20"/>佛祖玄機。一時爍破。高峰囑其護持。且出其然無學
-        <lb ed="X" n="0462c21"/>元公手書一通。[田/廾]之以寓相傳付授之意。師志在烟
-        <lb ed="X" n="0462c22"/>霞。出世非所願。聘致皆力辭之。甲州之龍山庵。五臺
-        <lb ed="X" n="0462c23"/>山之吸江庵。與夫泊船庵。退耕庵。兜率內苑。皆師避
+        <lb ed="X" n="0462c20"/>佛祖玄機。一時爍破。<persName key="A001005">高峰</persName>囑其護持。且出其然<persName key="A000077">無學<lb ed="X" n="0462c21"/>元</persName>公手書一通。[田/廾]之以寓相傳付授之意。師志在烟
+        <lb ed="X" n="0462c22"/>霞。出世非所願。聘致皆力辭之。<placeName key="unknown">甲州</placeName>之<placeName key="unknown">龍山庵</placeName>。<placeName key="unknown">五臺<lb ed="X" n="0462c23"/>山</placeName>之<placeName key="unknown">吸江庵</placeName>。<placeName key="unknown">與夫泊船庵</placeName>。<placeName key="unknown">退耕庵</placeName>。<placeName key="unknown">兜率內苑</placeName>。皆師避
         <lb ed="X" n="0462c24"/>隱之所。或慕迫之不已。至逃入海嶼以避之。春秋五
-        <lb ed="X" n="0463a01"/>十一。國主後醍醐天王。強起師主南禪。入見引坐。師
+        <lb ed="X" n="0463a01"/>十一。國主後<persName key="unknown">醍醐天王</persName>。強起師主<placeName key="unknown">南禪</placeName>。入見引坐。師
         <lb ed="X" n="0463a02"/>言所志求退。王曰。吾心非有他。欲朝夕問道耳。及王
-        <lb ed="X" n="0463a03"/>妃薨。強師再入南禪。請宣說大戒。執弟予禮彌謹。賜
-        <lb ed="X" n="0463a04"/>國師之號。王即世。太倉天王。復從師受戒。願為弟子。
+        <lb ed="X" n="0463a03"/>妃薨。強師再入<placeName key="unknown">南禪</placeName>。請宣說大戒。執弟予禮彌謹。賜
+        <lb ed="X" n="0463a04"/>國師之號。王即世。<persName key="unknown">太倉天王</persName>。復從師受戒。願為弟子。
         <lb ed="X" n="0463a05"/>敷宣之際。有二星降於庭。光如白日。兩宮國母。請師
-        <lb ed="X" n="0463a06"/>於仙洞受五戒。廷議重師名德。復強師入天龍。錫師
-        <lb ed="X" n="0463a07"/>號正覺心宗普濟。遺以手書。其略曰。道振三朝。名飛
-        <lb ed="X" n="0463a08"/>四海。主天龍席。再轉法輪。秉佛祖權。數摧魔壘。國中
-        <lb ed="X" n="0463a09"/>以為榮。後化于兜率內院。世壽七十九。僧臘六十。弟
+        <lb ed="X" n="0463a06"/>於<placeName key="unknown">仙洞</placeName>受五戒。廷議重師名德。復強師入<placeName key="unknown">天龍</placeName>。錫師
+        <lb ed="X" n="0463a07"/>號<persName key="A001605">正覺心宗普濟</persName>。遺以手書。其略曰。道振三朝。名飛
+        <lb ed="X" n="0463a08"/>四海。主<placeName key="unknown">天龍</placeName>席。再轉法輪。秉佛祖權。數摧魔壘。國中
+        <lb ed="X" n="0463a09"/>以為榮。後化于<placeName key="unknown">兜率內院</placeName>。世壽七十九。僧臘六十。弟
         <lb ed="X" n="0463a10"/>子奉全身塔于院之後。送者黑白二萬餘人。皆哀慟
-        <lb ed="X" n="0463a11"/>不勝。分存日所翦爪髮。瘞於雲居。髮中累累生舍利
+        <lb ed="X" n="0463a11"/>不勝。分存日所翦爪髮。瘞於<placeName key="unknown">雲居</placeName>。髮中累累生舍利
         <lb ed="X" n="0463a12"/>云。師儀觀高朗。慧學淵深。凡所蒞止。如見一佛出世。
-        <lb ed="X" n="0463a13"/>香花供養。惟恐或後。故管領源公賴之。甞與人言曰。
+        <lb ed="X" n="0463a13"/>香花供養。惟恐或後。故<persName key="unknown">管領源</persName>公賴之。甞與人言曰。
         <lb ed="X" n="0463a14"/>我從先人。聽國師劇談佛法。頗達真乘。遂能死生如
         <lb ed="X" n="0463a15"/>一。臨事不懾。而先人竟死於忠。吾亦知委身以事君
         <lb ed="X" n="0463a16"/>者。皆國師化導之力。然則師之道。非特究明心學。實
         <lb ed="X" n="0463a17"/>足增其世教之重。且其抗志高明。視榮名利養。澹若
         <lb ed="X" n="0463a18"/>無物。唯欲棲身林泉。雖屢典大剎。皆迫於王命而起。
         <lb ed="X" n="0463a19"/>世稱大善知識。非師孰能當之。</p><p>
-        <lb ed="X" n="0463a20"/>　宋文憲曰。宋南渡後。傳達磨氏之宗于日本者。自
-        <lb ed="X" n="0463a21"/>　千光禪師榮西始。厥後無學元公。以佛鑑範公之
-        <lb ed="X" n="0463a22"/>　子。附海舶東游。大振厥宗。高峰纂而承之。師為高
-        <lb ed="X" n="0463a23"/>　峰之遺胤。</p>
+            <lb ed="X" n="0463a20"/>　<persName key="A007271">宋文憲</persName>曰。宋南渡後。傳達磨氏之宗于日本者。自
+            <lb ed="X" n="0463a21"/>　<persName key="A001624">千光禪師榮西</persName>始。厥後<persName key="A000077">無學元</persName>公。以<persName key="A004697">佛鑑範</persName>公之
+            <lb ed="X" n="0463a22"/>　子。附海舶東游。大振厥宗。<persName key="A001005">高峰</persName>纂而承之。師為<persName key="A001005">高<lb ed="X" n="0463a23"/>　峰</persName>之遺胤。</p>
 </div>

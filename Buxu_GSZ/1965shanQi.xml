@@ -1,38 +1,34 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0532b09shanQi">
-    <head><lb ed="X" n="0532b09"/>　　　　啟東白傳</head>
-    <p><anchor n="X.77.1524.0532b10"/><lb ed="X" n="0532b10"/>善啟。字東白。曉菴其號。姓楊氏。蘇之長洲人。楊故簪
-        <lb ed="X" n="0532b11"/>組。累世家吳之支硎山。值兵徙北郭。父永年。母陸氏。
-        <lb ed="X" n="0532b12"/>師甫能言通佛典。父母異之。命入無量壽院。禮永茂
-        <lb ed="X" n="0532b13"/>為落髮師。既長。屏跡龍山。窮日夜力於經史百氏不
-        <lb ed="X" n="0532b14"/>輟。聲譽隱然起。少師姚公廣孝。善世洽公南洲。皆器
-        <lb ed="X" n="0532b15"/>重之。而典記於洽公者甚久。永樂元年。主蘇之永定。
-        <lb ed="X" n="0532b16"/>六年。主松之延慶。逾年擢本府副都綱。住南禪寺。尋
+    <head><lb ed="X" n="0532b09"/>　　　　<persName key="A008285">啟東白</persName>傳</head>
+    <p><anchor n="X.77.1524.0532b10"/><lb ed="X" n="0532b10"/><persName key="A008285">善啟</persName>。字<persName key="A008285">東白</persName>。<persName key="A008285">曉菴</persName>其號。姓楊氏。蘇之<placeName key="CN0320505A01AA">長洲</placeName>人。楊故簪
+        <lb ed="X" n="0532b11"/>組。累世家吳之<placeName key="CN0320505M02AA">支硎山</placeName>。值兵徙北郭。父<persName key="unknown">永年</persName>。母<persName key="unknown">陸氏</persName>。
+        <lb ed="X" n="0532b12"/>師甫能言通佛典。父母異之。命入<placeName key="CN0320503T16AA">無量壽院</placeName>。禮<persName key="unknown">永茂</persName>
+        <lb ed="X" n="0532b13"/>為落髮師。既長。屏跡<placeName key="CN0331023M32AA">龍山</placeName>。窮日夜力於經史百氏不
+        <lb ed="X" n="0532b14"/>輟。聲譽隱然起。少師<persName key="A001522">姚公廣孝</persName>。善世<persName key="A012732">洽公南洲</persName>。皆器
+        <lb ed="X" n="0532b15"/>重之。而典記於<persName key="A012732">洽公</persName>者甚久。永樂元年。主蘇之<placeName key="CN0320503T05AA">永定</placeName>。
+        <lb ed="X" n="0532b16"/>六年。主松之<placeName key="CN0320503T10AA">延慶</placeName>。逾年擢本府副都綱。住<placeName key="CN0320502T07AA">南禪寺</placeName>。尋
         <lb ed="X" n="0532b17"/>應　召纂修永樂大典。預校大藏經。　賜金縷袈裟
         <lb ed="X" n="0532b18"/>一襲。時三殿災。　詔求直言。師上疏陳利病。不報。一
-        <lb ed="X" n="0532b19"/>時名人。如沈民望。王希範。王汝玉。陳嗣初。錢溥。趙宗
-        <lb ed="X" n="0532b20"/>文。皆與師為方外交。甞遇牡丹盛開。邀集題賞。錢塘
-        <lb ed="X" n="0532b21"/>瞿宗吉。雄於詞賦。師與對壘。常用一韻往復百首。詞
-        <lb ed="X" n="0532b22"/>鋒益銳。海內傳焉。此師之緒餘也。正統八年十一月
-        <lb ed="X" n="0532b23"/>八日卒。距　洪武三年十一月十五日。世壽七十五。
-        <lb ed="X" n="0532b24"/>僧臘六十。即示寂之歲。弟子等奉柩。歸葬於舊隱龍
-        <lb ed="X" n="0532c01"/>山。遵治命也。錢文通公溥。銘其塔。敘曰。夫以交之深
-        <lb ed="X" n="0532c02"/>者知必至也。言之夥者情必厚也。昔宣德間。大理卿
-        <lb ed="X" n="0532c03"/>胡公槩。巡撫東吳。威聲大振。於師獨加敬禮。時溥方
+        <lb ed="X" n="0532b19"/>時名人。如<persName key="A008286">沈民望</persName>。<persName key="unknown">王希範</persName>。<persName key="A008287">王汝玉</persName>。<persName key="unknown">陳嗣初</persName>。<persName key="A008288">錢溥</persName>。<persName key="unknown">趙宗<lb ed="X" n="0532b20"/>文</persName>。皆與師為方外交。甞遇牡丹盛開。邀集題賞。<placeName key="CN0330103Z09AA">錢塘</placeName>
+        <lb ed="X" n="0532b21"/><persName key="unknown">瞿宗吉</persName>。雄於詞賦。師與對壘。常用一韻往復百首。詞
+        <lb ed="X" n="0532b22"/>鋒益銳。海內傳焉。此師之緒餘也。<date when-iso="1443-12-08" key="j22484462248446">正統八年十一月<lb ed="X" n="0532b23"/>八日</date>卒。距　<date when-iso="1370-12-11" key="j22217872221787">洪武三年十一月十五日</date>。世壽七十五。
+        <lb ed="X" n="0532b24"/>僧臘六十。即示寂之歲。弟子等奉柩。歸葬於舊隱<placeName key="CN0331023M32AA">龍<lb ed="X" n="0532c01"/>山</placeName>。遵治命也。<persName key="A008288">錢文通公溥</persName>。銘其塔。敘曰。夫以交之深
+        <lb ed="X" n="0532c02"/>者知必至也。言之夥者情必厚也。昔<date from-iso="1426-02-17" to-iso="1436-01-26" key="j22419432245573">宣德間</date>。大理卿
+        <lb ed="X" n="0532c03"/><persName key="unknown">胡公槩</persName>。巡撫<placeName key="CN0320503Z06AA">東吳</placeName>。威聲大振。於師獨加敬禮。時<persName key="A008288">溥</persName>方
         <lb ed="X" n="0532c04"/>冠。欲應鄉舉謁公。師忽見而喜之。遂入白於公。得預
-        <lb ed="X" n="0532c05"/>鄉舉。然溥亦始聆論議。察其動止。毅然一儒者。繇是
+        <lb ed="X" n="0532c05"/>鄉舉。然<persName key="A008288">溥</persName>亦始聆論議。察其動止。毅然一儒者。繇是
         <lb ed="X" n="0532c06"/>往還[款-士+止]洽。數日不見。必折簡招之。簡類歐語。作字有
         <lb ed="X" n="0532c07"/>帖意。見必肅衣。焚香啜茗。坐語移時。去則且談且送。
         <lb ed="X" n="0532c08"/>或閉戶發篋。出古人真蹟。對閱評品。詩文皆不務蹈
-        <lb ed="X" n="0532c09"/>襲以為奇。至論儒釋之辯曰。且各為其教。又曰。東魯
+        <lb ed="X" n="0532c09"/>襲以為奇。至論儒釋之辯曰。且各為其教。又曰。<persName key="A002174">東魯</persName>
         <lb ed="X" n="0532c10"/>垂道。西竺見性。皆莫先於厚本。故雖離父母。養生送
         <lb ed="X" n="0532c11"/>死。一務從厚。與兄弟極友。愛撫諸姪。教養兼至。交四
         <lb ed="X" n="0532c12"/>方宿儒名緇必以誠。未甞見惰容。然非其人。亦未甞
-        <lb ed="X" n="0532c13"/>與交此。韓子謂墨名而儒行者也。溥也荷師期待既
+        <lb ed="X" n="0532c13"/>與交此。<persName key="unknown">韓子</persName>謂墨名而儒行者也。<persName key="A008288">溥</persName>也荷師期待既
         <lb ed="X" n="0532c14"/>久。倘以餘齒。無負於斯世。則亦無負於所知矣。</p><p>
-        <lb ed="X" n="0532c15"/>　(何氏叢說云。錢文通。小時即有文譽。郡中有一僧。名善啟。號曉菴。有詩名能書。乃十大高僧之流亞也。永
-        <lb ed="X" n="0532c16"/>　樂中　召至京師。修大典。後為僧官。住南禪。周文襄公為巡撫。甚重之。每公事稍暇。即徃南禪。與啟公談
-        <lb ed="X" n="0532c17"/>　語。時錢文通為秀才。亦與啟公交欵。一日學中散堂。過謁啟公。以藍衫置欄栒上。繼而文襄適至。屏當不
-        <lb ed="X" n="0532c18"/>　及。文襄問之。啟公因稱文通之才。文襄即請相見。索其舊作。觀之。大加賞識。遂為相知○何氏言巡撫。是
+            <lb ed="X" n="0532c15"/>　(何氏叢說云。<persName key="A008288">錢文通</persName>。小時即有文譽。郡中有一僧。名<persName key="A008285">善啟</persName>。號<persName key="A008285">曉菴</persName>。有詩名能書。乃十大高僧之流亞也。<date from-iso="1403-02-01" to-iso="1424-08-21" key="j22335262241398">永<lb ed="X" n="0532c16"/>　樂中</date>　召至<placeName key="CN0110102Z07AA">京師</placeName>。修大典。後為僧官。住<placeName key="CN0320502T07AA">南禪</placeName>。<persName key="unknown">周文襄公</persName>為巡撫。甚重之。每公事稍暇。即徃<placeName key="CN0320502T07AA">南禪</placeName>。與<persName key="A008285">啟</persName>公談
+            <lb ed="X" n="0532c17"/>　語。時<persName key="A008288">錢文通</persName>為秀才。亦與<persName key="A008285">啟</persName>公交欵。一日學中散堂。過謁<persName key="A008285">啟</persName>公。以藍衫置欄栒上。繼而<persName key="unknown">文襄</persName>適至。屏當不
+            <lb ed="X" n="0532c18"/>　及。<persName key="unknown">文襄</persName>問之。<persName key="A008285">啟</persName>公因稱<persName key="A008288">文通</persName>之才。<persName key="unknown">文襄</persName>即請相見。索其舊作。觀之。大加賞識。遂為相知○何氏言巡撫。是
         <lb ed="X" n="0532c19"/>　周。錢自云是胡。當是兩時。胡前而周後)。</p>
 </div>

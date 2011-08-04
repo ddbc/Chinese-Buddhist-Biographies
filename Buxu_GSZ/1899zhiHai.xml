@@ -1,15 +1,13 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0512b03zhiHai">
-    <head><lb ed="X" n="0512b03"/>　　　　嶽麓海禪師傳</head>
-    <p><anchor n="X.77.1524.0512b04"/><lb ed="X" n="0512b04"/>智海。吉州太和萬氏子。幼靜專。無適俗韻。出家為金
-        <lb ed="X" n="0512b05"/>公弟子。受具游方。依東林玉磵二公最久。然無所契
-        <lb ed="X" n="0512b06"/>悟。晚抵仰山。陸沉於眾。佛印元公。獨異之。師方銳於
-        <lb ed="X" n="0512b07"/>學。喜翰墨。元呵曰。子本行道。反從事語言筆畫。語言
-        <lb ed="X" n="0512b08"/>筆畫借工。於道何益。矧未工乎。師於是棄去。經行湘
-        <lb ed="X" n="0512b09"/>南諸山。依止大溈十年。真如門風。號稱壁立。學者皆
-        <lb ed="X" n="0512b10"/>望崖而退。師獨受印可。及真如赴詔住上都相國寺。
-        <lb ed="X" n="0512b11"/>師雅志不欲西。首眾衲於衡陽花藥山。分座說法。元
-        <lb ed="X" n="0512b12"/>符己卯。開法於城東之東明。俄遷湘西之嶽麓。無何。
+    <head><lb ed="X" n="0512b03"/>　　　　<persName key="A014615">嶽麓海</persName>禪師傳</head>
+    <p><anchor n="X.77.1524.0512b04"/><lb ed="X" n="0512b04"/><persName key="A014615">智海</persName>。吉州<placeName key="CN0360826Z21AA">太和</placeName>萬氏子。幼靜專。無適俗韻。出家為<persName key="unknown">金<lb ed="X" n="0512b05"/>公</persName>弟子。受具游方。依<persName key="A003923">東林</persName><persName key="unknown">玉磵</persName>二公最久。然無所契
+        <lb ed="X" n="0512b06"/>悟。晚抵<placeName key="CN0360902M01AA">仰山</placeName>。陸沉於眾。<persName key="A009839">佛印元</persName>公。獨異之。師方銳於
+        <lb ed="X" n="0512b07"/>學。喜翰墨。<persName key="A009839">元</persName>呵曰。子本行道。反從事語言筆畫。語言
+        <lb ed="X" n="0512b08"/>筆畫借工。於道何益。矧未工乎。師於是棄去。經行<placeName key="CN0430103A01AA">湘</placeName>
+        <lb ed="X" n="0512b09"/>南諸山。依止<persName key="A008633">大溈</persName>十年。真如門風。號稱壁立。學者皆
+        <lb ed="X" n="0512b10"/>望崖而退。師獨受印可。及<persName key="A008633">真如</persName>赴詔住上都<placeName key="CN0410204T02AA">相國寺</placeName>。
+        <lb ed="X" n="0512b11"/>師雅志不欲西。首眾衲於衡陽<placeName key="CN0430406M01AA">花藥山</placeName>。分座說法。<date from-iso="1099-01-30" to-iso="1100-02-17" key="j21224912122874">元<lb ed="X" n="0512b12"/>符己卯</date>。開法於城東之<placeName key="unknown">東明</placeName>。俄遷湘西之<placeName key="CN0430104T03AA">嶽麓</placeName>。無何。
         <lb ed="X" n="0512b13"/>麓厄於火。一夕而燼。道俗驚嗟。以死弔。師笑曰。夢幻
         <lb ed="X" n="0512b14"/>成壞。葢皆戲劇。然吾恃願力。宮室未終廢也。於是就
         <lb ed="X" n="0512b15"/>林縛屋。單丁而住。雜蒼頭廝養。運瓦礫。收燼餘之材。
@@ -18,10 +16,10 @@
         <lb ed="X" n="0512b18"/>若也。未幾月。富者以金帛施。貧者以力施。匠者以巧
         <lb ed="X" n="0512b19"/>施。十年之間。廈屋崇成。盤崖萬礎。飛楹層閣。塗金間
         <lb ed="X" n="0512b20"/>碧。如化成釋梵龍天之宮。人徒見其經營之功日新。
-        <lb ed="X" n="0512b21"/>而不知其出於閒暇談笑。宣和己亥七月九日。以平
+        <lb ed="X" n="0512b21"/>而不知其出於閒暇談笑。<date when-iso="1119-08-23" key="j21300002130000">宣和己亥七月九日</date>。以平
         <lb ed="X" n="0512b22"/>生道具付侍者。使集眾估唱。黎明。漱盥罷。坐丈室。聞
         <lb ed="X" n="0512b23"/>粥鼓。命門弟子。因敘出世本末。囑以行道勿解。說偈
-        <lb ed="X" n="0512b24"/>為別。有智暹者。進曰。師獨不能少留乎。師以手搖去。
+        <lb ed="X" n="0512b24"/>為別。有<persName key="unknown">智暹</persName>者。進曰。師獨不能少留乎。師以手搖去。
         <lb ed="X" n="0512c01"/>復周眴左右。良久。右脇而逝。閱世六十有二。坐四十
-        <lb ed="X" n="0512c02"/>二夏。塔於西崦舜塘之陰。</p>
+        <lb ed="X" n="0512c02"/>二夏。塔於<placeName key="unknown">西崦舜塘</placeName>之陰。</p>
 </div>

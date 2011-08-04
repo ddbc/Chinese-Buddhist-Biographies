@@ -8,12 +8,12 @@
         <lb ed="X" n="0375a24"/>何必待思量。<persName key="A000756">法智</persName>肯之曰。向來若為汝說。豈有今日。
         <lb ed="X" n="0375b01"/><date from-iso="1008-02-20" to-iso="1017-02-05" key="j20892742092547">祥符中</date>。<persName key="A001832">慈雲</persName>遷<placeName key="CN0330106T18AA">靈山</placeName>。向<persName key="A000756">法智</persName>。求可為繼。<persName key="A000756">法智</persName>曰。當於
         <lb ed="X" n="0375b02"/>眾中自擇之。<persName key="A001832">慈雲</persName>。閱視至師。乃云。斯人可也。師至<placeName key="CN0331022T03AA">承<lb ed="X" n="0375b03"/>天</placeName>。大弘法道。歷三十年。眾甞五六百人。離言顯法。<persName key="A000756">法<lb ed="X" n="0375b04"/>智</persName>用掣電之機。繼闡求人。<persName key="A001832">慈雲</persName>具擇法之眼。教未甞
-        <lb ed="X" n="0375b05"/>不為禪也。更有禪而為教。如<placeName key="CN0330103T02AA">永明</placeName><persName key="A000085">長水</persName>者。後如公。百
+        <lb ed="X" n="0375b05"/>不為禪也。更有禪而為教。如<placeName key="CN0330106T54AA">永明</placeName><persName key="A000085">長水</persName>者。後如公。百
         <lb ed="X" n="0375b06"/>年則有<persName key="A019704">子琳</persName>。<persName key="A019704">琳</persName>。陞<persName key="A007993">佛智裕公</persName>之堂。得言外之旨。故于
         <lb ed="X" n="0375b07"/>講演。惟提大意。揭綱宗。不沾泥于名相。使聞者恍然
         <lb ed="X" n="0375b08"/>自得。皆知道之在己。不關文字。而又不外文字也。雖
         <lb ed="X" n="0375b09"/>老禪宿德。無不趨下風。聆謦欬。皆服其辯。而厭其心。
-        <lb ed="X" n="0375b10"/><persName key="A000475">大慧杲</persName>公醉心焉。甞謂師曰。時人秪知老姪有教。<placeName key="CN0330110M01AA">徑<lb ed="X" n="0375b11"/>山</placeName>却許老姪有禪。<persName key="A000475">杲</persName>於<persName key="A007993">裕</persName>同嗣<persName key="A001411">佛果</persName>。故稱師為姪云。
+        <lb ed="X" n="0375b10"/><persName key="A000475">大慧杲</persName>公醉心焉。甞謂師曰。時人秪知老姪有教。<placeName key="CN0330110M09AA">徑<lb ed="X" n="0375b11"/>山</placeName>却許老姪有禪。<persName key="A000475">杲</persName>於<persName key="A007993">裕</persName>同嗣<persName key="A001411">佛果</persName>。故稱師為姪云。
         <lb ed="X" n="0375b12"/>仍為師。題其真曰。悟得旋陀羅尼三昧。于一切法得
         <lb ed="X" n="0375b13"/>大自在。舌端之上海波翻。第一義諦無違背。<date from-iso="1165-02-20" to-iso="1165-05-18" key="j21466182146705"><persName key="A000480">孝宗</persName>乾<lb ed="X" n="0375b14"/>道元年春</date>。召師問道。上曰。朕欲讀經。以何為要。師曰。
         <lb ed="X" n="0375b15"/>金剛圓覺最為要道。曰。參禪如何。師曰。禪須自悟。曰
@@ -47,7 +47,7 @@
     <linkGrp>
         <link targets="#0375b05 #0375b05"/>
         <ptr target="#A000085" type="person"/>
-        <ptr target="#CN0330103T02AA" type="place"/>
+        <ptr target="#CN0330106T54AA" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0375b06 #0375b09"/>
@@ -58,7 +58,7 @@
         <link targets="#0375b10 #0375b11"/>
         <ptr target="#A000475" type="person"/>
         <ptr target="#A019704" type="person"/>
-        <ptr target="#CN0330110M01AA" type="place"/>
+        <ptr target="#CN0330110M09AA" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0375b11 #0375b11"/>

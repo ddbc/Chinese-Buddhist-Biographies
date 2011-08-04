@@ -1,17 +1,17 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0380c18youYan">
     <head><lb ed="X" n="0380c18"/>　　　　<persName key="A000383">有嚴</persName>傳</head>
-    <p><anchor n="X.77.1524.0380c19"/><lb ed="X" n="0380c19"/><persName key="A000383">有嚴</persName>。台之<placeName key="CN0331082Z11AA">臨海</placeName>胡氏子。母將孕。號痛頓<ptr target="fn1"/>什。其兄沙門
-        <lb ed="X" n="0380c20"/>宗本曰。是必有異。若生男當出家。母聞合掌以許。既
+    <p><anchor n="X.77.1524.0380c19"/><lb ed="X" n="0380c19"/><persName key="A000383">有嚴</persName>。台之<placeName key="CN0331082Z11AA">臨海</placeName>胡氏子。<date key="j20939732094337" when-iso="1021">母將孕</date>。號痛頓<ptr target="fn1"/>什。其兄沙門
+        <lb ed="X" n="0380c20"/><persName key="A020228">宗本</persName>曰。是必有異。若生男當出家。母聞合掌以許。既
         <lb ed="X" n="0380c21"/>而痛止。果生男。<date key="j20957992096163" when-iso="1026">六歲</date>從師。<date key="j20987212099085" when-iso="1034">十四</date>受具戒。閱<persName key="A000282">壽禪師</persName>心
         <lb ed="X" n="0380c22"/>賦若有所悟。即往<placeName key="CN0331082M01AA">東山</placeName>。謁<persName key="A000252">神炤</persName>。於一心三觀之道。法
         <lb ed="X" n="0380c23"/>華三昧之行。莫不神解。而躬行之。甞讀止觀。至不思
         <lb ed="X" n="0380c24"/>議境。曰。萬法惟一心。心外無一法。心法不可得。是名
-        <lb ed="X" n="0381a01"/>妙三千。初主<placeName key="CN0331023T45AA">無相</placeName>。慧因<persName key="A001140">法真</persName>。自<placeName key="CN0331023M02AA">赤城</placeName>遷<placeName key="CN0331082M01AA">東掖</placeName>。舉師以
+        <lb ed="X" n="0381a01"/>妙三千。初主<placeName key="CN0331023T45AA">無相</placeName><placeName key="CN0330106T05AA">慧因</placeName>。<persName key="A001140">法真</persName>。自<placeName key="CN0331023M02AA">赤城</placeName>遷<placeName key="CN0331082M01AA">東掖</placeName>。舉師以
         <lb ed="X" n="0381a02"/>代。甞謂。去佛久遠。人迷自性。凡宣演之際。必近指一
         <lb ed="X" n="0381a03"/>心。使之易領。聞者皆能有入。<date from-iso="1094-04-24" to-iso="1098-07-07" key="j21207492122284">紹聖中</date>。郡請主<placeName key="CN0331082M01AA">東掖</placeName>。師
         <lb ed="X" n="0381a04"/>曰。<persName key="A001301">智者</persName>年未五十。已散徒眾。吾老矣。可堪此耶。卒不
-        <lb ed="X" n="0381a05"/>赴。隱居<ref type="place" target="#CN0330106M22AA">故山</ref><!-- 靈鷲，請參見 http://glossary.buddhistdoor.com/en/word/52109/有嚴，2011.05.03-->東峰。廬于樝木之傍。因自號<persName key="A000383">樝菴</persName>。一鉢
+        <lb ed="X" n="0381a05"/>赴。隱居<ref type="place" target="#CN0331023M02AA">故山</ref>東峰。廬于樝木之傍。因自號<persName key="A000383">樝菴</persName>。一鉢
         <lb ed="X" n="0381a06"/>無長物。躬拾薪汲水。食唯三白。二十年中。專事淨業。
         <lb ed="X" n="0381a07"/>以<placeName key="XZ0000033A01AA">安養</placeName>為故鄉。作懷淨土詩八章。辭情凄切。人多樂
         <lb ed="X" n="0381a08"/>誦。母病目。師對<persName key="A002803">觀音</persName>。想日精摩尼手。母即夢神擎日
@@ -19,4 +19,65 @@
         <lb ed="X" n="0381a11"/>中生大蓮華。天樂四列。乃作餞歸<placeName key="XZ0000033A01AA">淨土</placeName>之詩。越七日。
         <lb ed="X" n="0381a12"/>趺坐而化。以陶器。塔於菴北。有光在塔。如月形。三夕
         <lb ed="X" n="0381a13"/>乃沒。</p>
+    
+    <linkGrp>
+        <link targets="#0380c19 #0380c21"/>
+        <ptr target="#A000383" type="person"/>
+        <ptr target="#A020228" type="person"/>
+        <ptr target="#CN0331082Z11AA" type="place"/>
+        <ptr target="#j20939732094337" type="time"/>
+    </linkGrp> 
+    <linkGrp>
+        <link targets="#0380c21 #0380c21"/>
+        <ptr target="#A000383" type="person"/>        
+        <ptr target="#j20957992096163" type="time"/>
+    </linkGrp> 
+    <linkGrp>
+        <link targets="#0380c21 #0380c21"/>
+        <ptr target="#A000383" type="person"/>        
+        <ptr target="#j20987212099085" type="time"/>
+    </linkGrp> 
+    <linkGrp>
+        <link targets="#0380c21 #0380c23"/>
+        <ptr target="#A000383" type="person"/>        
+        <ptr target="#A000252" type="person"/>
+        <ptr target="#CN0331082M01AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0381a01 #0381a01"/>
+        <ptr target="#A001140" type="person"/> 
+        <ptr target="#CN0331023M02AA" type="place"/>
+    </linkGrp> 
+    <linkGrp>
+        <link targets="#0381a01 #0381a01"/>
+        <ptr target="#A001140" type="person"/> 
+        <ptr target="#CN0331082M01AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0381a01 #0381a01"/>
+        <ptr target="#A000383" type="person"/> 
+        <ptr target="#CN0331023T45AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0381a01 #0381a01"/>
+        <ptr target="#A000383" type="person"/> 
+        <ptr target="#CN0330106T05AA" type="place"/>
+    </linkGrp> 
+    <linkGrp>
+        <link targets="#0381a01 #0381a02"/>
+        <ptr target="#A000383" type="person"/> 
+        <ptr target="#CN0331023M02AA" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0381a03 #0381a06"/>
+        <ptr target="#A000383" type="person"/>
+        <ptr target="#CN0331023M02AA" type="place"/>
+        <ptr target="#j21207492122284" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0381a09 #0381a13"/>
+        <ptr target="#A000383" type="person"/>
+        <ptr target="#CN0331023M02AA" type="place"/>
+        <ptr target="#j21232292123583" type="time"/>
+    </linkGrp>
 </div>

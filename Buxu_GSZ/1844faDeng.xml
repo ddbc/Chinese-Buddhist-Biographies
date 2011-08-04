@@ -1,45 +1,38 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0493c23faDeng">
-    <head><lb ed="X" n="0493c23"/>　　　　法燈禪師傳</head>
-    <p><anchor n="X.77.1524.0493c24"/><lb ed="X" n="0493c24"/>法燈。字傳炤。成都華陽王氏子。自幼時。則能論氣節。
-        <lb ed="X" n="0494a01"/>工翰墨。逸羣不受世緣控勒。年二十三。剃落於承天
-        <lb ed="X" n="0494a02"/>院。受具足戒。即當首楞嚴講。耆年皆卑下之。其師圓
-        <lb ed="X" n="0494a03"/>明大師。棄講出蜀。師侍行。至恭州而歿。師扶護歸葬
-        <lb ed="X" n="0494a04"/>成都。辭塔而去。下荊江。歷淮山。北抵漢沔。徧謁諸老。
-        <lb ed="X" n="0494a05"/>所至少留。機語不契。振[竺-二+束]即行。登大洪。謁楷禪師。遂
+    <head><lb ed="X" n="0493c23"/>　　　　<persName key="A014673">法燈</persName>禪師傳</head>
+    <p><anchor n="X.77.1524.0493c24"/><lb ed="X" n="0493c24"/><persName key="A014673">法燈</persName>。字<persName key="A014673">傳炤</persName>。成都<placeName key="unknown">華陽</placeName>王氏子。自幼時。則能論氣節。
+        <lb ed="X" n="0494a01"/>工翰墨。逸羣不受世緣控勒。<date key="j21217322122096" when-iso="1097">年二十三</date>。剃落於<placeName key="CN0510182T07AA">承天<lb ed="X" n="0494a02"/>院</placeName>。受具足戒。即當首楞嚴講。耆年皆卑下之。其師<persName key="unknown">圓<lb ed="X" n="0494a03"/>明</persName>大師。棄講出<placeName key="CN0510184Z14AA">蜀</placeName>。師侍行。至<placeName key="CN0500105Z27AA">恭州</placeName>而歿。師扶護歸葬
+        <lb ed="X" n="0494a04"/><placeName key="CN0510108Z19AA">成都</placeName>。辭塔而去。下<placeName key="unknown">荊江</placeName>。歷<placeName key="unknown">淮山</placeName>。北抵<placeName key="CN0420000R01AA">漢沔</placeName>。徧謁諸老。
+        <lb ed="X" n="0494a05"/>所至少留。機語不契。振[竺-二+束]即行。登<placeName key="unknown">大洪</placeName>。謁<persName key="A001539">楷禪師</persName>。遂
         <lb ed="X" n="0494a06"/>服膺戾止。承顏接詞。商略古今。應機妙密。當仁不讓。
-        <lb ed="X" n="0494a07"/>大觀初。楷公應詔而西。三年。坐不受師名敕牒。縫掖
-        <lb ed="X" n="0494a08"/>其衣謫緇州。師趼足隨之。緇之道俗高其義。太守李
-        <lb ed="X" n="0494a09"/>公擴。虗太平興國禪院。以居之。於是。洞上宗風。盛於
-        <lb ed="X" n="0494a10"/>京東。政和元年。楷公得釋。東遁海濵千餘里。太湖中
-        <lb ed="X" n="0494a11"/>而止。草衣[澗-日+月]飲。若將終焉。師猶往從之。楷以手揶揄
-        <lb ed="X" n="0494a12"/>曰。雲巖路絕。責在汝躬。行矣。師識其意。再拜而還。七
-        <lb ed="X" n="0494a13"/>年。解院事。西歸京師。名聞天子。俄詔住襄陽鹿門政
-        <lb ed="X" n="0494a14"/>和禪寺。師謝恩罷退。飯丞相第堂。吏抱牘至白曰。江
-        <lb ed="X" n="0494a15"/>州東林寺。當改為觀。從道士所請。師避席曰。廬山冠
-        <lb ed="X" n="0494a16"/>世絕境。東林又其勝處。世為僧居。如春湖白鷗。自然
-        <lb ed="X" n="0494a17"/>相宜。今黃冠其中。絕境其厄會乎。丞相大以為然。東
-        <lb ed="X" n="0494a18"/>林之獲存。師之力也。既至漢上。郡將諷諸山辦金帛。
-        <lb ed="X" n="0494a19"/>詣京師作千道齋。師笑曰。童牙事佛有死無二。苟非
+        <lb ed="X" n="0494a07"/><date from-iso="1107-02-02" to-iso="1108-02-20" key="j21254152125798">大觀初</date>。<persName key="A001539">楷</persName>公應詔而西。三年。坐不受師名敕牒。縫掖
+        <lb ed="X" n="0494a08"/>其衣謫<placeName key="unknown">緇州</placeName>。師趼足隨之。緇之道俗高其義。太守<persName key="unknown">李<lb ed="X" n="0494a09"/>公擴</persName>。虗<placeName key="unknown">太平興國禪院</placeName>。以居之。於是。洞上宗風。盛於
+        <lb ed="X" n="0494a10"/><placeName key="CN0370781E01AA">京東</placeName>。<date from-iso="1111-02-17" to-iso="1112-02-06" key="j21268912127245">政和元年</date>。<persName key="A001539">楷</persName>公得釋。東遁海濵千餘里。<placeName key="unknown">太湖</placeName>中
+        <lb ed="X" n="0494a11"/>而止。草衣[澗-日+月]飲。若將終焉。師猶往從之。<persName key="A001539">楷</persName>以手揶揄
+        <lb ed="X" n="0494a12"/>曰。雲巖路絕。責在汝躬。行矣。師識其意。再拜而還。<date from-iso="1117-02-11" to-iso="1118-01-30" key="j21290772129430">七<lb ed="X" n="0494a13"/>年</date>。解院事。西歸<placeName key="CN0410224Z41AA">京師</placeName>。名聞天子。俄詔住襄陽鹿門<placeName key="unknown">政<lb ed="X" n="0494a14"/>和禪寺</placeName>。師謝恩罷退。飯丞相第堂。吏抱牘至白曰。江
+        <lb ed="X" n="0494a15"/>州<placeName key="CN0360402T13AA">東林寺</placeName>。當改為觀。從道士所請。師避席曰。<placeName key="CN0360402M01AA">廬山</placeName>冠
+        <lb ed="X" n="0494a16"/>世絕境。<placeName key="CN0360402T13AA">東林</placeName>又其勝處。世為僧居。如春湖白鷗。自然
+        <lb ed="X" n="0494a17"/>相宜。今黃冠其中。絕境其厄會乎。丞相大以為然。<placeName key="CN0360402T13AA">東<lb ed="X" n="0494a18"/>林</placeName>之獲存。師之力也。既至<placeName key="unknown">漢上</placeName>。郡將諷諸山辦金帛。
+        <lb ed="X" n="0494a19"/>詣<placeName key="CN0410224Z41AA">京師</placeName>作千道齋。師笑曰。童牙事佛有死無二。苟非
         <lb ed="X" n="0494a20"/>風狂失心。輒以十方檀施之物。千里媚道士耶。郡將
-        <lb ed="X" n="0494a21"/>愧其言而止。然天下叢林。聞而壯之。鹿門。瀕漢江。斷
+        <lb ed="X" n="0494a21"/>愧其言而止。然天下叢林。聞而壯之。<placeName key="CN0420607M01AA">鹿門</placeName>。瀕<placeName key="CN0420000R01AA">漢江</placeName>。斷
         <lb ed="X" n="0494a22"/>岸千尺。寺甞艱於水。師坐巖石下。念曰。吾欲叢林此
         <lb ed="X" n="0494a23"/>地。為皇朝植福。而泉不能贍眾。山靈其亦知之乎。師
         <lb ed="X" n="0494a24"/>以杖擿草根。俄眾泉觱發。一眾大驚。山中之人。目之
-        <lb ed="X" n="0494b01"/>曰燈公泉。師初依夾山齡禪師。齡道孤化。而無嗣之
-        <lb ed="X" n="0494b02"/>者。僧惟顯。得其旨。隱於南岳。師以書抵長沙。使者迎
-        <lb ed="X" n="0494b03"/>出。以居龍安禪寺。聞者服其公。貴其行。初慧定禪師
-        <lb ed="X" n="0494b04"/>自覺。革律為禪。開剏未半而逝。螘藏蜂聚。故窠遺垤。
+        <lb ed="X" n="0494b01"/>曰<placeName key="unknown">燈公泉</placeName>。師初依<persName key="A021094">夾山齡</persName>禪師。<persName key="A021094">齡</persName>道孤化。而無嗣之
+        <lb ed="X" n="0494b02"/>者。僧<persName key="unknown">惟顯</persName>。得其旨。隱於<placeName key="CN0430412M01AA">南岳</placeName>。師以書抵<placeName key="CN0430105Z19AA">長沙</placeName>。使者迎
+        <lb ed="X" n="0494b03"/>出。以居<placeName key="CN0430321T01AA">龍安禪寺</placeName>。聞者服其公。貴其行。初<persName key="unknown">慧定禪師<lb ed="X" n="0494b04"/>自覺</persName>。革律為禪。開剏未半而逝。螘藏蜂聚。故窠遺垤。
         <lb ed="X" n="0494b05"/>十猶七。師為一新之。長廡廣廈。萬礎盤崖。椎拂之下
         <lb ed="X" n="0494b06"/>五千指。十年之間。宗風大振。人徒見其婆娑勃窣若
         <lb ed="X" n="0494b07"/>游戲。然不知其至剛峭激也。篤信所學。雖威武貴勢。
         <lb ed="X" n="0494b08"/>不敢干以非義。性喜施。不計有無。傾囷倒廩。以走人
-        <lb ed="X" n="0494b09"/>之急。靖康二年春。金人復入宼。兩宮圍閉。師驚悸不
+        <lb ed="X" n="0494b09"/>之急。<date from-iso="1127-02-20" to-iso="1127-03-27" key="j21327382132773">靖康二年春</date>。金人復入宼。兩宮圍閉。師驚悸不
         <lb ed="X" n="0494b10"/>言。謝遣學徒。杜門面壁而已。弟子曰。朝廷軍旅之事。
         <lb ed="X" n="0494b11"/>何預林下人。而師獨憂念之深乎。師熟視。徐曰。河潤
         <lb ed="X" n="0494b12"/>九里。漸洳者三百步。木仆千仞。蹂踐者一寸草。豈有
-        <lb ed="X" n="0494b13"/>中原失守。而林下之人得寧逸耶。五月十三日中夜
+        <lb ed="X" n="0494b13"/><placeName key="CN0000012D01AA">中原</placeName>失守。而林下之人得寧逸耶。<date when-iso="1127-07-01" key="j21328692132869">五月十三日</date>中夜
         <lb ed="X" n="0494b14"/>安坐。戒門弟子。皆宗門大事。不及其私。泊然而逝。檢
         <lb ed="X" n="0494b15"/>其所蓄。道具之外。書畵數軸而已。閱世五十有三。坐
-        <lb ed="X" n="0494b16"/>夏三十。塔全身於山口別墅慧定塔之東。</p>
+        <lb ed="X" n="0494b16"/>夏三十。塔全身於山口別墅<placeName key="unknown">慧定塔</placeName>之東。</p>
 </div>

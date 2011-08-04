@@ -1,42 +1,37 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0459c10zuMing">
-    <head><lb ed="X" n="0459c10"/>　　　　祖銘傳</head>
-    <p><anchor n="X.77.1524.0459c11"/><lb ed="X" n="0459c11"/>祖銘。字古鼎。奉化應氏子。幼頴悟。不近葷食。稍長學
-        <lb ed="X" n="0459c12"/>通百氏書。而尤嗜佛典。年十八厭處塵俗。從金峨錫
-        <lb ed="X" n="0459c13"/>公。學出世法。二十五得度受具戒。出遊諸方。首依竺
-        <lb ed="X" n="0459c14"/>西坦公。掌記室。復走閩浙。多所參訪。莫有契者。時元
-        <lb ed="X" n="0459c15"/>叟在靈隱。師往謁焉。一語之下。遂坦然無疑滯。久之。
+    <head><lb ed="X" n="0459c10"/>　　　　<persName key="A000981">祖銘</persName>傳</head>
+    <p><anchor n="X.77.1524.0459c11"/><lb ed="X" n="0459c11"/><persName key="A000981">祖銘</persName>。字<persName key="A000981">古鼎</persName>。<placeName key="CN0330283Z09AA">奉化</placeName>應氏子。幼頴悟。不近葷食。稍長學
+        <lb ed="X" n="0459c12"/>通百氏書。而尤嗜佛典。<date key="j21951462195510" when-iso="1298">年十八</date>厭處塵俗。從<persName key="unknown">金峨錫</persName>
+        <lb ed="X" n="0459c13"/>公。學出世法。二十五得度受具戒。出遊諸方。首依<persName key="A014312">竺<lb ed="X" n="0459c14"/>西坦</persName>公。掌記室。復走<placeName key="CN0350000E02AA">閩</placeName><placeName key="CN0330000E07AA">浙</placeName>。多所參訪。莫有契者。時<persName key="A001032">元<lb ed="X" n="0459c15"/>叟</persName>在<placeName key="CN0330106T01AA">靈隱</placeName>。師往謁焉。一語之下。遂坦然無疑滯。久之。
         <lb ed="X" n="0459c16"/>臻其閫奧。一時德譽藹著。所與交遊。皆雅望之士。去
         <lb ed="X" n="0459c17"/>留為叢林重輕。而師愈謙抑自持。有以輿從為相迎
-        <lb ed="X" n="0459c18"/>者。悉謝絕之。唯杖履而已。順帝元統元年。師五十有
-        <lb ed="X" n="0459c19"/>四。始自徑山出。住昌國之隆教。學者不憚步險。爭願
-        <lb ed="X" n="0459c20"/>趨往座下。後八年。遷普陀。浙東都元帥完者都公。威
-        <lb ed="X" n="0459c21"/>震海上。而於師至禮甚恭。日本商航。數奉國命。盛賷
-        <lb ed="X" n="0459c22"/>金幣來聘。師每避去。未幾。遷中天竺。至正七年。還主
-        <lb ed="X" n="0459c23"/>徑山。師在中竺時。有童子仇姓者。從師荷包笠。夜宿
-        <lb ed="X" n="0459c24"/>蘇之承天寺。見空中有一寶鼎。左右翼衛皆天神。若
-        <lb ed="X" n="0460a01"/>有所告曰。天帝以此鼎。還賜徑山。詰旦以事質。其僧
-        <lb ed="X" n="0460a02"/>曰。此必古鼎師。還遷徑山也。因與之俱來。為求給役。
-        <lb ed="X" n="0460a03"/>俄而徑山命下。聞者異之。朝廷以師法席之盛。錫號
-        <lb ed="X" n="0460a04"/>慧性文敏宏學普濟禪師。十一年。頴豪亂作。師治妙
-        <lb ed="X" n="0460a05"/>明庵於放生池上。曰。吾將老於是。十七年。杭再受兵。
-        <lb ed="X" n="0460a06"/>師退而庵居。又數月。苗獠焚掠徑山。丞相達識帖木
-        <lb ed="X" n="0460a07"/>邇。延師入雲居庵。暇則詣師問道。請禮彌篤。一日請
+        <lb ed="X" n="0459c18"/>者。悉謝絕之。唯杖履而已。<date from-iso="1333-11-23" to-iso="1334-02-12" key="j22082552208336"><persName key="A006676">順帝</persName>元統元年</date>。師五十有
+        <lb ed="X" n="0459c19"/>四。始自<placeName key="CN0330110T11AA">徑山</placeName>出。住昌國之<placeName key="CN0330902T01AA">隆教</placeName>。學者不憚步險。爭願
+        <lb ed="X" n="0459c20"/>趨往座下。後八年。遷<placeName key="CN0330903M01AA">普陀</placeName>。浙東都元帥<persName key="unknown">完者都</persName>公。威
+        <lb ed="X" n="0459c21"/>震海上。而於師至禮甚恭。<placeName key="JP0000000E01AA">日本</placeName>商航。數奉國命。盛賷
+        <lb ed="X" n="0459c22"/>金幣來聘。師每避去。未幾。遷<placeName key="CN0330106T09AA">中天竺</placeName>。<date from-iso="1347-02-19" to-iso="1348-02-07" key="j22130912213444">至正七年</date>。還主
+        <lb ed="X" n="0459c23"/><placeName key="CN0330110T11AA">徑山</placeName>。師在<placeName key="CN0330106T09AA">中竺</placeName>時。有童子仇姓者。從師荷包笠。夜宿
+        <lb ed="X" n="0459c24"/>蘇之<placeName key="CN0320505T03AA">承天寺</placeName>。見空中有一寶鼎。左右翼衛皆天神。若
+        <lb ed="X" n="0460a01"/>有所告曰。天帝以此鼎。還賜<placeName key="CN0330110T11AA">徑山</placeName>。詰旦以事質。其僧
+        <lb ed="X" n="0460a02"/>曰。此必<persName key="A000981">古鼎</persName>師。還遷<placeName key="CN0330110T11AA">徑山</placeName>也。因與之俱來。為求給役。
+        <lb ed="X" n="0460a03"/>俄而<placeName key="CN0330110T11AA">徑山</placeName>命下。聞者異之。朝廷以師法席之盛。錫號
+        <lb ed="X" n="0460a04"/><persName key="A000981">慧性文敏宏學普濟禪師</persName>。<date from-iso="1351-02-05" to-iso="1352-01-25" key="j22145382214892">十一年</date>。<placeName key="CN0341204Z05AA">頴</placeName>豪亂作。師治<placeName key="unknown">妙<lb ed="X" n="0460a05"/>明庵</placeName>於<placeName key="unknown">放生池</placeName>上。曰。吾將老於是。<date from-iso="1357-01-29" to-iso="1358-02-16" key="j22167232217106">十七年</date>。<placeName key="CN0330103Z01AA">杭</placeName>再受兵。
+        <lb ed="X" n="0460a06"/>師退而庵居。又數月。苗獠焚掠<placeName key="CN0330110T11AA">徑山</placeName>。丞相<persName key="A008221">達識帖木<lb ed="X" n="0460a07"/>邇</persName>。延師入<placeName key="unknown">雲居庵</placeName>。暇則詣師問道。請禮彌篤。一日請
         <lb ed="X" n="0460a08"/>看經次。師惟默坐。公問。長老何不看經。師云。尋行數
         <lb ed="X" n="0460a09"/>墨為看經耶。公無語。師翻經云。老僧看經。看經去也。
         <lb ed="X" n="0460a10"/>公以手覆經云。請與說破。師云。伊尹周公阿誰做。公
         <lb ed="X" n="0460a11"/>遂領悟。已而示微疾。更衣危坐。致書丞相。囑以外護
-        <lb ed="X" n="0460a12"/>佛法之意。俄而指語其徒曰。觀世音金臺至矣。吾平
+        <lb ed="X" n="0460a12"/>佛法之意。俄而指語其徒曰。<persName key="A002803">觀世音</persName>金臺至矣。吾平
         <lb ed="X" n="0460a13"/>生兼修之功。有驗也。乃大書偈曰。生死純真。太虗純
         <lb ed="X" n="0460a14"/>滿。七十九年。搖籃繩斷。書已擲筆而逝。留七日。顏貌
         <lb ed="X" n="0460a15"/>如生。行院概郡府官僚。設爼奠於道。茶毗。舌根數珠
-        <lb ed="X" n="0460a16"/>不壞。得五色光舍利無算。建塔於徑山及隆教普陀
+        <lb ed="X" n="0460a16"/>不壞。得五色光舍利無算。建塔於<placeName key="CN0330110T11AA">徑山</placeName>及<placeName key="CN0330902T01AA">隆教</placeName><placeName key="CN0330903M01AA">普陀</placeName>
         <lb ed="X" n="0460a17"/>青山。有四會語錄。暨外集若干卷。傳於世。師意度直
         <lb ed="X" n="0460a18"/>率。不為緣飾。居處物用。清苦淡泊。晨興盥頮以至浣
         <lb ed="X" n="0460a19"/>濯。未甞役童僕。自幼至耆年。未甞少休。修淨業禮觀
         <lb ed="X" n="0460a20"/>音像。日必千拜。而於大法。洞徹玄微。開示直截。踔厲
         <lb ed="X" n="0460a21"/>縱橫。應變無窮。雖門庭峻拔。若不可少殺。隨其夙器。
-        <lb ed="X" n="0460a22"/>慈悲誘掖成就為多。至於文學。廼師之世業。里中袁
-        <lb ed="X" n="0460a23"/>文清公桷。金華胡公長孺。黃公溍。蜀郡虞文靖公集。
-        <lb ed="X" n="0460a24"/>長沙歐陽公玄。咸稱慕之。見諸文字者。舉可徵已。</p>
+        <lb ed="X" n="0460a22"/>慈悲誘掖成就為多。至於文學。廼師之世業。里中<persName key="unknown">袁<lb ed="X" n="0460a23"/>文清</persName>公桷。<placeName key="CN0330702Z05AA">金華</placeName><persName key="A008212">胡公長孺</persName>。<persName key="A007555">黃公溍</persName>。<placeName key="CN0510184Z12AA">蜀郡</placeName><persName key="A008211">虞文靖公集</persName>。
+        <lb ed="X" n="0460a24"/><placeName key="CN0430105Z13AA">長沙</placeName><persName key="A014409">歐陽公玄</persName>。咸稱慕之。見諸文字者。舉可徵已。</p>
 </div>

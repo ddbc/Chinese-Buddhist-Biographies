@@ -1,70 +1,65 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0527c18puQia">
-    <head><lb ed="X" n="0527c18"/>　　　　南洲溥洽法師傳</head>
-    <p><anchor n="X.77.1524.0527c19"/><lb ed="X" n="0527c19"/>師。諱溥洽。字南洲。晚號迂叟。又稱一雨翁。姓陸氏。宋
-        <lb ed="X" n="0527c20"/>寶章閣待制游之後。世居會稽之山陰。祖某。為饒州
-        <lb ed="X" n="0527c21"/>餘干縣尹。父仁。甫因家焉。母周氏。師生於至正丙戌。
+    <head><lb ed="X" n="0527c18"/>　　　　<persName key="A012732">南洲溥洽</persName>法師傳</head>
+    <p><anchor n="X.77.1524.0527c19"/><lb ed="X" n="0527c19"/>師。諱<persName key="A012732">溥洽</persName>。字<persName key="A012732">南洲</persName>。晚號<persName key="A012732">迂叟</persName>。又稱<persName key="A012732">一雨翁</persName>。姓陸氏。宋
+        <lb ed="X" n="0527c20"/>寶章閣待制<persName key="A008955">游</persName>之後。世居會稽之<placeName key="CN0330602Z16AA">山陰</placeName>。祖某。為饒州
+        <lb ed="X" n="0527c21"/><placeName key="CN0361127Z06AA">餘干</placeName>縣尹。父<persName key="unknown">仁</persName>。甫因家焉。母<persName key="unknown">周氏</persName>。師生於<date from-iso="1346-01-31" to-iso="1347-02-18" key="j22127072213090">至正丙戌</date>。
         <lb ed="X" n="0527c22"/>自幼闓爽頴異。父教之詩書。悟解日益進。未齔。已志
         <lb ed="X" n="0527c23"/>慕出世法。有老長戲之曰。仙人本是山人作。師應聲
         <lb ed="X" n="0527c24"/>對曰。鳳鳥終非凡鳥。為眾驚異之。每入招提瞻佛像。
-        <lb ed="X" n="0528a01"/>輒敬禮膜拜。父母知不可遏。命於郡之普濟寺。禮雪
-        <lb ed="X" n="0528a02"/>庭祥公為師。受具上天竺。謁東明日公。一見器重之。
+        <lb ed="X" n="0528a01"/>輒敬禮膜拜。父母知不可遏。命於郡之<placeName key="CN0330621T05AE">普濟寺</placeName>。禮<persName key="unknown">雪<lb ed="X" n="0528a02"/>庭祥</persName>公為師。受具<placeName key="CN0330106T17AA">上天竺</placeName>。謁<persName key="unknown">東明日</persName>公。一見器重之。
         <lb ed="X" n="0528a03"/>命典賓客。其儀矩從容秩然。藂林老宿多推服。以為
-        <lb ed="X" n="0528a04"/>難能。而博究教典。雖寒暑夙夜不懈。已而從具菴玘
-        <lb ed="X" n="0528a05"/>公於普福。講求旨要。凡諸經籍。精粗小大之義。靡不
-        <lb ed="X" n="0528a06"/>貫串。而旁通儒書。間以餘力為詩文。多有造詣。玘公
-        <lb ed="X" n="0528a07"/>命首懺事行三昧法。自是進於止觀明靜之道。　洪
-        <lb ed="X" n="0528a08"/>武辛亥。出世住孤山瑪瑙講寺。又住蘇州北禪。學徒
+        <lb ed="X" n="0528a04"/>難能。而博究教典。雖寒暑夙夜不懈。已而從<persName key="A000334">具菴玘</persName>
+        <lb ed="X" n="0528a05"/>公於<placeName key="unknown">普福</placeName>。講求旨要。凡諸經籍。精粗小大之義。靡不
+        <lb ed="X" n="0528a06"/>貫串。而旁通儒書。間以餘力為詩文。多有造詣。<persName key="A000334">玘</persName>公
+        <lb ed="X" n="0528a07"/>命首懺事行三昧法。自是進於止觀明靜之道。　<date from-iso="1371-01-25" to-iso="1372-02-12" key="j22218322222215">洪<lb ed="X" n="0528a08"/>武辛亥</date>。出世住孤山<placeName key="CN0330106T20AA">瑪瑙講寺</placeName>。又住蘇州<placeName key="CN0320503T08AA">北禪</placeName>。學徒
         <lb ed="X" n="0528a09"/>雲集。師為開演五時八教。如來一代施化之儀。無智
-        <lb ed="X" n="0528a10"/>愚高下。人人滿所欲而退。一時宗門耆碩。如九臯聲
-        <lb ed="X" n="0528a11"/>公。啟宗佑公。咸共嗟賞。謂吳中法席第一。又六年。至
-        <lb ed="X" n="0528a12"/>杭之下天竺。乃循慈雲故事。建金光明護國。期懺七
-        <lb ed="X" n="0528a13"/>晝夜。為眾講貫無虗日。　太宗皇帝。聞其賢。召為僧
-        <lb ed="X" n="0528a14"/>錄司右講經。　玉音褒諭。有通東魯書博西來意之
-        <lb ed="X" n="0528a15"/>語。居長干西丈室三年。時夢觀主天禧。其徒由高者。
+        <lb ed="X" n="0528a10"/>愚高下。人人滿所欲而退。一時宗門耆碩。如<persName key="A018657">九臯聲</persName>
+        <lb ed="X" n="0528a11"/>公。<persName key="A000055">啟宗佑</persName>公。咸共嗟賞。謂<placeName key="CN0320503Z06AA">吳中</placeName>法席第一。<date from-iso="1377-02-17" to-iso="1378-02-05" key="j22240472224400">又六年</date>。至
+        <lb ed="X" n="0528a12"/>杭之<placeName key="CN0330106T18AA">下天竺</placeName>。乃循<persName key="A001832">慈雲</persName>故事。建金光明護國。期懺七
+        <lb ed="X" n="0528a13"/>晝夜。為眾講貫無虗日。　<persName key="A000149">太宗皇帝</persName>。聞其賢。召為僧
+        <lb ed="X" n="0528a14"/>錄司右講經。　玉音褒諭。有通<persName key="A002174">東魯</persName>書博西來意之
+        <lb ed="X" n="0528a15"/>語。居<placeName key="unknown">長干西丈室</placeName>三年。時<persName key="A003579">夢觀</persName>主<placeName key="CN0320104T04AA">天禧</placeName>。其徒由高者。
         <lb ed="X" n="0528a16"/>夜夢詣師室及門。有二神人。兜鍪金甲。衛護甚嚴。叱
         <lb ed="X" n="0528a17"/>止高曰。寺主在是。既覺。詣師告所夢。且曰。公其代吾
-        <lb ed="X" n="0528a18"/>師乎。踰月夢觀卒。有旨。命師主天禧。又三年。陞左善
-        <lb ed="X" n="0528a19"/>世。　太宗皇帝。舉靖難。師道衍公。有輔翼居守功。及
-        <lb ed="X" n="0528a20"/>即位　召衍。至自北京。　命主教事。師以左善世遜
-        <lb ed="X" n="0528a21"/>衍。而己居右。　上嘉從之。永樂四年　詔修天禧寺
+        <lb ed="X" n="0528a18"/>師乎。踰月<persName key="A003579">夢觀</persName>卒。有旨。命師主<placeName key="CN0320104T04AA">天禧</placeName>。又三年。陞左善
+        <lb ed="X" n="0528a19"/>世。　<persName key="A000149">太宗皇帝</persName>。舉靖難。師<persName key="A001522">道衍</persName>公。有輔翼居守功。及
+        <lb ed="X" n="0528a20"/>即位　召<persName key="A001522">衍</persName>。至自<placeName key="CN0110102Z07AA">北京</placeName>。　命主教事。師以左善世遜
+        <lb ed="X" n="0528a21"/><persName key="A001522">衍</persName>。而己居右。　上嘉從之。<date from-iso="1406-01-29" to-iso="1407-02-16" key="j22346192235002">永樂四年</date>　詔修<placeName key="CN0320104T04AA">天禧寺</placeName>
         <lb ed="X" n="0528a22"/>浮圖。落成之日。　車駕臨幸。　命師慶讚。祥光燁煜。
-        <lb ed="X" n="0528a23"/>萬眾聚觀。天顏愉懌。時有任覺義者。忌師之寵。搆詞
+        <lb ed="X" n="0528a23"/>萬眾聚觀。天顏愉懌。時有<persName key="unknown">任覺義</persName>者。忌師之寵。搆詞
         <lb ed="X" n="0528a24"/>間之。左遷右覺義。疏斥。師不辯。自處裕如。既而　上
-        <lb ed="X" n="0528b01"/>察其心。復右善世。　仁宗皇帝臨御。以老宿數被
-        <lb ed="X" n="0528b02"/>　召問。禮遇特厚。　命居慶壽寺松陰精舍。以自佚。而
+        <lb ed="X" n="0528b01"/>察其心。復右善世。　<persName key="A006678">仁宗皇帝</persName>臨御。以老宿數被
+        <lb ed="X" n="0528b02"/>　召問。禮遇特厚。　命居慶壽寺<placeName key="unknown">松陰精舍</placeName>。以自佚。而
         <lb ed="X" n="0528b03"/>　上御便殿。　召師入見。慰勞甚至。遂奏乞還南京
-        <lb ed="X" n="0528b04"/>大報恩寺以終老。從之。　賜佛像經鈔若干緡。給驛
-        <lb ed="X" n="0528b05"/>舟。　命中官護逃。既至。明年為宣德元年。七月二十
-        <lb ed="X" n="0528b06"/>八日。微疾。呼寺之住持惟寔。付後事留偈。訣別其徒
+        <lb ed="X" n="0528b04"/><placeName key="CN0320104T01AA">大報恩寺</placeName>以終老。從之。　賜佛像經鈔若干緡。給驛
+        <lb ed="X" n="0528b05"/>舟。　命中官護逃。既至。明年為<date when-iso="1426-09-08" key="j22421462242146">宣德元年七月二十<lb ed="X" n="0528b06"/>八日</date>。微疾。呼寺之住持<persName key="unknown">惟寔</persName>。付後事留偈。訣別其徒
         <lb ed="X" n="0528b07"/>云。清淨自在住。遂化。春秋八十有一。僧臘六十有九。
-        <lb ed="X" n="0528b08"/>塔全身於鳳嶺。送者萬餘人。訃聞。　上遣行人王麟
+        <lb ed="X" n="0528b08"/>塔全身於<placeName key="CN0320115T84AA">鳳嶺</placeName>。送者萬餘人。訃聞。　<ref type="person" target="#A006682">上</ref>遣行人<persName key="unknown">王麟</persName>
         <lb ed="X" n="0528b09"/>蒞祭焉。師歷事列聖。一以至誠。而言動必祇禮度。處
         <lb ed="X" n="0528b10"/>物和。馭眾寬。解逅逢掖士。喜商論文事。三四十年間。
-        <lb ed="X" n="0528b11"/>鉅緇老衲。有文聲者。惟師與衍公耳。師所著。有金剛
+        <lb ed="X" n="0528b11"/>鉅緇老衲。有文聲者。惟師與<persName key="A001522">衍</persName>公耳。師所著。有金剛
         <lb ed="X" n="0528b12"/>注解附錄二卷。應制及與名人唱和詩若干卷。　國
         <lb ed="X" n="0528b13"/>家建法會。一切科儀文字。皆師所定。以貽範於後。所
-        <lb ed="X" n="0528b14"/>度弟子。慈霔圓悟大霑等若干人。得法弟子。圓瀞鴻
-        <lb ed="X" n="0528b15"/>義惠朗等若干人。宣德元年秋。示寂於南京。弟子奉
-        <lb ed="X" n="0528b16"/>龕建塔於長干西南鳳嶺之陽。復於塔前搆精廬以
-        <lb ed="X" n="0528b17"/>居。工部右侍郎廬陵周忱。為之記曰。公戒行之精。才
-        <lb ed="X" n="0528b18"/>望之高。既已詳見少傅楊公塔銘矣。今之記似可略
-        <lb ed="X" n="0528b19"/>也。然予於茲寺之建。獨有感焉。昔者孔子沒。弟子皆
-        <lb ed="X" n="0528b20"/>冢於墓。服心喪之禮三年。喪畢治任將歸。入揖於子
-        <lb ed="X" n="0528b21"/>貢。相嚮而哭皆失聲。子貢反廬於墓上。又三年而後
+        <lb ed="X" n="0528b14"/>度弟子。<persName key="unknown">慈霔</persName><persName key="unknown">圓悟</persName><persName key="unknown">大霑</persName>等若干人。得法弟子。<persName key="A001412">圓瀞</persName><persName key="unknown">鴻<lb ed="X" n="0528b15"/>義</persName><persName key="unknown">惠朗</persName>等若干人。<date from-iso="1426-08-12" to-iso="1426-11-08" key="j22421192242207">宣德元年秋</date>。示寂於<placeName key="CN0320105Z10AA">南京</placeName>。弟子奉
+        <lb ed="X" n="0528b16"/>龕建塔於<placeName key="CN0320104T04AA">長干</placeName>西南<placeName key="CN0320115T84AA">鳳嶺</placeName>之陽。復於塔前搆精廬以
+        <lb ed="X" n="0528b17"/>居。工部右侍郎<placeName key="CN0360802Z04AA">廬陵</placeName><persName key="A008931">周忱</persName>。為之記曰。公戒行之精。才
+        <lb ed="X" n="0528b18"/>望之高。既已詳見<persName key="unknown">少傅楊</persName>公塔銘矣。今之記似可略
+        <lb ed="X" n="0528b19"/>也。然予於茲寺之建。獨有感焉。昔者<persName key="A002174">孔子</persName>沒。弟子皆
+        <lb ed="X" n="0528b20"/>冢於墓。服心喪之禮三年。喪畢治任將歸。入揖於<persName key="A017911">子<lb ed="X" n="0528b21"/>貢</persName>。相嚮而哭皆失聲。<persName key="A017911">子貢</persName>反廬於墓上。又三年而後
         <lb ed="X" n="0528b22"/>去。蓋師之與弟子。所以傳其道授其業。有父子之恩
         <lb ed="X" n="0528b23"/>焉。後世此道不明。當其師之生存反其道。背之而去
         <lb ed="X" n="0528b24"/>者有矣。能服乎心喪之禮者。幾何人哉。心喪之禮。且
         <lb ed="X" n="0528c01"/>不能服。況望其廬墓至於三年六年之久者乎。予聞。
-        <lb ed="X" n="0528c02"/>洽公當永樂間。甞為同列所間。　太宗皇帝。欲試其
-        <lb ed="X" n="0528c03"/>戒行。繫之於錦衣獄。一時門弟子。多雲鳥散去。獨霔
+        <lb ed="X" n="0528c02"/><persName key="A012732">洽</persName>公當<date from-iso="1403-02-01" to-iso="1424-08-21" key="j22335262241398">永樂間</date>。甞為同列所間。　<persName key="A000149">太宗皇帝</persName>。欲試其
+        <lb ed="X" n="0528c03"/>戒行。繫之於錦衣獄。一時門弟子。多雲鳥散去。獨<persName key="unknown">霔</persName>
         <lb ed="X" n="0528c04"/>公焦心苦骨。從其師於患難。服薪水之勞。未甞一日
         <lb ed="X" n="0528c05"/>去左右。卒使其獲全行業。蒙被　國恩。大昌其教於
         <lb ed="X" n="0528c06"/>晚節。觀其盡心所事。不以死生窮達。而有所改易。此
-        <lb ed="X" n="0528c07"/>葢士大夫之所難能。而霔公能之。予於是重有感也。
-        <lb ed="X" n="0528c08"/>是用書以為記。使後之觀於此者。或因霔公而有所
+        <lb ed="X" n="0528c07"/>葢士大夫之所難能。而<persName key="unknown">霔</persName>公能之。予於是重有感也。
+        <lb ed="X" n="0528c08"/>是用書以為記。使後之觀於此者。或因<persName key="unknown">霔</persName>公而有所
         <lb ed="X" n="0528c09"/>激勸焉。</p><p>
-        <lb ed="X" n="0528c10"/>　(有言。靖難兵起。師為建文君。設藥師燈懺詛　長陵。金川門開。又為建文君削髮。　長陵即位。微聞其事。
-        <lb ed="X" n="0528c11"/>　囚師十餘年。榮國公疾革。　長陵遣人問所欲言。言願釋漙洽。　長陵從之釋其獄。時白髮長數寸覆額
+            <lb ed="X" n="0528c10"/>　(有言。靖難兵起。師為<persName key="A006677">建文君</persName>。設藥師燈懺詛　長陵。<placeName key="CN0320102A03AA">金川門</placeName>開。又為<persName key="A006677">建文君</persName>削髮。　<persName key="unknown">長陵</persName>即位。微聞其事。
+            <lb ed="X" n="0528c11"/>　囚師十餘年。<persName key="unknown">榮國公</persName>疾革。　<persName key="unknown">長陵</persName>遣人問所欲言。言願釋<persName key="A012732">漙洽</persName>。　<persName key="unknown">長陵</persName>從之釋其獄。時白髮長數寸覆額
         <lb ed="X" n="0528c12"/>　矣)。</p>
 </div>

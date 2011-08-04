@@ -1,37 +1,33 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0422c10zuXin">
-    <head><lb ed="X" n="0422c10"/>　　　　黃龍心禪師傳</head>
-    <p><anchor n="X.77.1524.0422c11"/><lb ed="X" n="0422c11"/>祖心。南雄始興鄔氏子。少為書生有聲。年十九而目
-        <lb ed="X" n="0422c12"/>盲。父母許以出家。輒復見物。乃往依龍山寺惠全。明
-        <lb ed="X" n="0422c13"/>年試經業。獨獻詩。試官奇之。遂以合格聞。繼住受業
-        <lb ed="X" n="0422c14"/>院。不奉戒律。且逢橫逆。棄之謁雲峯悅公。難其孤硬
-        <lb ed="X" n="0422c15"/>告行。峯曰。必往依黃檗南公。居黃檗四年。知有而機
-        <lb ed="X" n="0422c16"/>不發。又辭而上雲峯。會峯謝世。因就止石霜。無所參
+    <head><lb ed="X" n="0422c10"/>　　　　<persName key="A008470">黃龍心</persName>禪師傳</head>
+    <p><anchor n="X.77.1524.0422c11"/><lb ed="X" n="0422c11"/><persName key="A008470">祖心</persName>。南雄<placeName key="CN0440222Z13AA">始興</placeName>鄔氏子。少為書生有聲。<date key="j21020082102372" when-iso="1043">年十九</date>而目
+        <lb ed="X" n="0422c12"/>盲。父母許以出家。輒復見物。乃往依<placeName key="unknown">龍山寺</placeName><persName key="unknown">惠全</persName>。明
+        <lb ed="X" n="0422c13"/>年試經業。獨獻詩。試官奇之。遂以合格聞。繼住<placeName key="unknown">受業<lb ed="X" n="0422c14"/>院</placeName>。不奉戒律。且逢橫逆。棄之謁<persName key="A008388">雲峯悅</persName>公。難其孤硬
+        <lb ed="X" n="0422c15"/>告行。<persName key="A008388">峯</persName>曰。必往依<persName key="A003921">黃檗南</persName>公。居<placeName key="CN0360924T03AA">黃檗</placeName>四年。知有而機
+        <lb ed="X" n="0422c16"/>不發。又辭而上<placeName key="unknown">雲峯</placeName>。會<persName key="A008388">峯</persName>謝世。因就止<persName key="unknown">石霜</persName>。無所參
         <lb ed="X" n="0422c17"/>決。後閱傳燈。至僧問如何是多福一叢竹(云云)。此時
-        <lb ed="X" n="0422c18"/>頓覺。親見二師。往歸黃檗。方展坐具。南公曰。子入吾
+        <lb ed="X" n="0422c18"/>頓覺。親見二師。往歸<placeName key="CN0360924T03AA">黃檗</placeName>。方展坐具。<persName key="A003921">南公</persName>曰。子入吾
         <lb ed="X" n="0422c19"/>室矣。師踊躍自喜。即應曰。大事本來如是。和尚何用
-        <lb ed="X" n="0422c20"/>教人看話下語。百計搜尋。南公曰。若不令汝如此究
-        <lb ed="X" n="0422c21"/>尋。到無用心處。自見自肯。吾即埋沒汝也。往見翠巖
-        <lb ed="X" n="0422c22"/>真。真與語大奇之。又見泐潭月。月以經論精義入神。
+        <lb ed="X" n="0422c20"/>教人看話下語。百計搜尋。<persName key="A003921">南公</persName>曰。若不令汝如此究
+        <lb ed="X" n="0422c21"/>尋。到無用心處。自見自肯。吾即埋沒汝也。往見<persName key="A003920">翠巖<lb ed="X" n="0422c22"/>真</persName>。<persName key="A003920">真</persName>與語大奇之。又見<persName key="A001776">泐潭月</persName>。<persName key="A001776">月</persName>以經論精義入神。
         <lb ed="X" n="0422c23"/>聞諸方同列笑之。以為下喬入幽。師曰。彼以有得之
-        <lb ed="X" n="0422c24"/>得。護前遮後。我以無字之學。朝宗百川。初南公使分
+        <lb ed="X" n="0422c24"/>得。護前遮後。我以無字之學。朝宗百川。初<persName key="A003921">南公</persName>使分
         <lb ed="X" n="0423a01"/>座。公遷化。師繼其席。凡十有二年。法道大振。然性真
-        <lb ed="X" n="0423a02"/>率。不樂從事。五求解去。乃得謝事閑居。學者益親。謝
-        <lb ed="X" n="0423a03"/>景溫師直。守潭。虗大溈以致。三辭不往。又囑江西轉
-        <lb ed="X" n="0423a04"/>運判官彭汝礪器資。請所以不赴長沙之意。願見謝
-        <lb ed="X" n="0423a05"/>公。不願領大溈也。馬祖百丈以前。無住持事。道人相
+        <lb ed="X" n="0423a02"/>率。不樂從事。五求解去。乃得謝事閑居。學者益親。<persName key="unknown">謝<lb ed="X" n="0423a03"/>景溫</persName>師直。守<placeName key="CN0430105Z21AA">潭</placeName>。虗<placeName key="CN0430124T02AA">大溈</placeName>以致。三辭不往。又囑<placeName key="CN0360000E01AA">江西</placeName>轉
+        <lb ed="X" n="0423a04"/>運判官<persName key="unknown">彭汝礪</persName><persName key="unknown">器資</persName>。請所以不赴<placeName key="CN0430105Z19AA">長沙</placeName>之意。願見謝
+        <lb ed="X" n="0423a05"/>公。不願領<placeName key="CN0430124T02AA">大溈</placeName>也。<persName key="A003623">馬祖</persName><persName key="A001897">百丈</persName>以前。無住持事。道人相
         <lb ed="X" n="0423a06"/>尋於空山寂寞之濵而已。其後雖有住持。王臣尊禮。
         <lb ed="X" n="0423a07"/>如天人師。今則掛名官府。若編戶民直。遣五伯追呼
         <lb ed="X" n="0423a08"/>之耳。豈可復為。師直聞之。不敢以院事屈。願一見之。
-        <lb ed="X" n="0423a09"/>至長沙。師直願受法訓。為舉其綱。師直聞所未聞。後
-        <lb ed="X" n="0423a10"/>一至京師。尋還廬岳。適器資守九江。問曰。人臨命終
-        <lb ed="X" n="0423a11"/>時。有旨決乎。曰有。曰。願聞其說。曰。待器資死即說。器
-        <lb ed="X" n="0423a12"/>資起增敬。曰。此事須是和尚始得。葢於四方公卿。合
-        <lb ed="X" n="0423a13"/>則千里應之。不合則數舍不往。南公道貌德威。極難
+        <lb ed="X" n="0423a09"/>至<placeName key="CN0430105Z19AA">長沙</placeName>。師直願受法訓。為舉其綱。師直聞所未聞。後
+        <lb ed="X" n="0423a10"/>一至<placeName key="CN0410224Z41AA">京師</placeName>。尋還<placeName key="CN0360402M01AA">廬岳</placeName>。適<persName key="unknown">器資</persName>守<placeName key="CN0360403Z10AA">九江</placeName>。問曰。人臨命終
+        <lb ed="X" n="0423a11"/>時。有旨決乎。曰有。曰。願聞其說。曰。待<persName key="unknown">器資</persName>死即說。<persName key="unknown">器<lb ed="X" n="0423a12"/>資</persName>起增敬。曰。此事須是和尚始得。葢於四方公卿。合
+        <lb ed="X" n="0423a13"/>則千里應之。不合則數舍不往。<persName key="A003921">南公</persName>道貌德威。極難
         <lb ed="X" n="0423a14"/>親附。雖老於叢林者。見之汗下。師直造前。意甚閑暇。
         <lb ed="X" n="0423a15"/>終日語笑。師資相忘四十年間。士大夫聞其風。而開
         <lb ed="X" n="0423a16"/>發者甚眾。惟其善巧無方。普慈不間。人未見者。或慢
         <lb ed="X" n="0423a17"/>謗。承顏接詞。無不服膺。臘既高。益移菴。深入棧絕學
-        <lb ed="X" n="0423a18"/>者。又二十餘年。以元符三年冬歿。閱世七十有六。坐
-        <lb ed="X" n="0423a19"/>五十有五夏。賜號寶覺。葬於南公塔之東。號雙塔云。</p>
+        <lb ed="X" n="0423a18"/>者。又二十餘年。以<date from-iso="1100-11-11" to-iso="1101-02-06" key="j21231412123228">元符三年冬</date>歿。閱世七十有六。坐
+        <lb ed="X" n="0423a19"/>五十有五夏。賜號寶覺。葬於<persName key="A003921">南公</persName>塔之東。號<placeName key="unknown">雙塔</placeName>云。</p>
 </div>

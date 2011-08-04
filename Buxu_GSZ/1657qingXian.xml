@@ -1,27 +1,26 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0422a16qingXian">
-    <head><lb ed="X" n="0422a16"/>　　　　隆慶閑禪師傳</head>
-    <p><anchor n="X.77.1524.0422a17"/><lb ed="X" n="0422a17"/>慶閑。福州古田卓氏子。母夢胡僧授以明珠。吞之而
-        <lb ed="X" n="0422a18"/>娠。及生白光炤室。幼不近酒胾。年十一。事建州昇山
-        <lb ed="X" n="0422a19"/>圓長老。十七削髮受具。二十辭師遠游。見諸大老。最
-        <lb ed="X" n="0422a20"/>後印心黃龍南公。公每歎曰。祖師之道。不墜于地。在
+    <head><lb ed="X" n="0422a16"/>　　　　<persName key="A014491">隆慶閑</persName>禪師傳</head>
+    <p><anchor n="X.77.1524.0422a17"/><lb ed="X" n="0422a17"/><persName key="A014491">慶閑</persName>。福州<placeName key="CN0350922Z12AA">古田</placeName>卓氏子。母夢胡僧授以明珠。吞之而
+        <lb ed="X" n="0422a18"/>娠。及生白光炤室。幼不近酒胾。<date key="j21005472100911" when-iso="1039">年十一</date>。事<placeName key="CN0350783Z19AA">建州</placeName><placeName key="unknown">昇山</placeName>
+        <lb ed="X" n="0422a19"/><persName key="unknown">圓長老</persName>。<date key="j21027392103103" when-iso="1045">十七</date>削髮受具。<date key="j21038342104199" when-iso="1048">二十</date>辭師遠游。見諸大老。最
+        <lb ed="X" n="0422a20"/>後印心<persName key="A003921">黃龍南</persName>公。公每歎曰。祖師之道。不墜于地。在
         <lb ed="X" n="0422a21"/>斯人也。公在世。學者已歸之。公既寂。一時尊宿。無出
-        <lb ed="X" n="0422a22"/>其右者。熙寧間。廬陵太守張公鑑。請居隆慶。未期年。
-        <lb ed="X" n="0422a23"/>鐘陵太守王公韶。請居龍泉。不逾年。以病求去。廬陵
-        <lb ed="X" n="0422a24"/>道俗。以其捨龍泉也。舟載而歸居隆慶西堂。事之益
+        <lb ed="X" n="0422a22"/>其右者。<date from-iso="1068-02-12" to-iso="1078-01-22" key="j21111812114813">熙寧間</date>。<placeName key="CN0360802Z10AA">廬陵</placeName>太守<persName key="unknown">張公鑑</persName>。請居<placeName key="CN0360802T04AA">隆慶</placeName>。未期年。
+        <lb ed="X" n="0422a23"/><placeName key="CN0360124Z17AA">鐘陵</placeName>太守<persName key="A017793">王公韶</persName>。請居<placeName key="unknown">龍泉</placeName>。不逾年。以病求去。<placeName key="CN0360802Z10AA">廬陵</placeName>
+        <lb ed="X" n="0422a24"/>道俗。以其捨<placeName key="unknown">龍泉</placeName>也。舟載而歸居<placeName key="CN0360802T04AB">隆慶西堂</placeName>。事之益
         <lb ed="X" n="0422b01"/>篤。師性純至。無所嗜好。貌豐碩。寡言語。所至獨處。罕
-        <lb ed="X" n="0422b02"/>與人接。有即者一舉手而去。初師之在黃檗也。與翠
-        <lb ed="X" n="0422b03"/>岩順公。竝事南公為父。機無所讓。順訴于南公曰。閑
-        <lb ed="X" n="0422b04"/>輕易。且語未辯觸淨。南公曰。法如是。以情求閑。乃成
-        <lb ed="X" n="0422b05"/>是非。其可哉。元豐四年三月七日。告眾將入滅。說偈
+        <lb ed="X" n="0422b02"/>與人接。有即者一舉手而去。初師之在<placeName key="CN0360924T03AA">黃檗</placeName>也。與<persName key="unknown">翠<lb ed="X" n="0422b03"/>岩順</persName>公。竝事<persName key="A003921">南公</persName>為父。機無所讓。順訴于<persName key="A003921">南公</persName>曰。<persName key="A014491">閑</persName>
+        <lb ed="X" n="0422b04"/>輕易。且語未辯觸淨。<persName key="A003921">南公</persName>曰。法如是。以情求<persName key="A014491">閑</persName>閑。乃成
+        <lb ed="X" n="0422b05"/>是非。其可哉。<date when-iso="1081-04-24" key="j21160012116001">元豐四年三月七日</date>。告眾將入滅。說偈
         <lb ed="X" n="0422b06"/>曰。露質浮世。奄質浮滅。五十三歲。六七八月。南嶽天
         <lb ed="X" n="0422b07"/>台。松風磵雪。珍重知音。紅爐優鉢。泊然坐逝。神色不
-        <lb ed="X" n="0422b08"/>變。手足和柔。髮剃復出。眾願留事全身。長老利儼。遵
+        <lb ed="X" n="0422b08"/>變。手足和柔。髮剃復出。眾願留事全身。長老<persName key="unknown">利儼</persName>。遵
         <lb ed="X" n="0422b09"/>遺命闍維。薪盡火滅。跏趺不散。益以油薪乃化。是日
         <lb ed="X" n="0422b10"/>雲起風作。飛瓦折木。煙氣所至。草木砂礫之間。皆得
         <lb ed="X" n="0422b11"/>舍利。如金色。碎之如砂。細民拾而鬻之。數日不絕。計
-        <lb ed="X" n="0422b12"/>所獲幾數斛。蘇子由。欲為作記。而疑其事。方臥痁。夢
-        <lb ed="X" n="0422b13"/>有訶者曰。此何疑哉。疑即病矣。子由。夢中作數百言。
+        <lb ed="X" n="0422b12"/>所獲幾數斛。<persName key="A007595">蘇子由</persName>。欲為作記。而疑其事。方臥痁。夢
+        <lb ed="X" n="0422b13"/>有訶者曰。此何疑哉。疑即病矣。<persName key="A007595">子由</persName>。夢中作數百言。
         <lb ed="X" n="0422b14"/>甚雋偉。醒而續成之。病亦隨愈。銘略曰。稽首三界尊。
-        <lb ed="X" n="0422b15"/>閑師不止此。憫世狹劣故。聊示小者爾。知言哉。</p>
+        <lb ed="X" n="0422b15"/><persName key="A014491">閑</persName>師不止此。憫世狹劣故。聊示小者爾。知言哉。</p>
 </div>

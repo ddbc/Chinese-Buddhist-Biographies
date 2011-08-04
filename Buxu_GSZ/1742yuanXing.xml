@@ -1,47 +1,45 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0453a11yuanXing">
-    <head><lb ed="X" n="0453a11"/>　　　　圓性傳</head>
-    <p><anchor n="X.77.1524.0453a12"/><lb ed="X" n="0453a12"/>圓性。順州懷柔侯氏子。自王父以上。皆隱晦無悶。父
-        <lb ed="X" n="0453a13"/>琦。母杜氏。夢異僧授以神珠而娠。迄誕室有光。童時
-        <lb ed="X" n="0453a14"/>斷葷血。舉止端肅。九歲請于父母。願為僧。許之。依都
-        <lb ed="X" n="0453a15"/>城奉福寺振公為師。十五受滿分戒。習唯識起信論。
+    <head><lb ed="X" n="0453a11"/>　　　　<persName key="A014773">圓性</persName>傳</head>
+    <p><anchor n="X.77.1524.0453a12"/><lb ed="X" n="0453a12"/><persName key="A014773">圓性</persName>。順州<placeName key="CN0110113Z13AA">懷柔</placeName>侯氏子。自王父以上。皆隱晦無悶。父
+        <lb ed="X" n="0453a13"/><persName key="unknown">琦</persName>。母<persName key="unknown">杜氏</persName>。夢異僧授以神珠而娠。迄誕室有光。童時
+        <lb ed="X" n="0453a14"/>斷葷血。舉止端肅。<date key="j21272092127574" when-iso="1112">九歲</date>請于父母。願為僧。許之。依都
+        <lb ed="X" n="0453a15"/>城<placeName key="unknown">奉福寺</placeName><persName key="unknown">振公</persName>為師。<date key="j21294012129765" when-iso="1118">十五</date>受滿分戒。習唯識起信論。
         <lb ed="X" n="0453a16"/>有叩之者。答之如響。義精旨妙。皆出入意表。久之嘆
-        <lb ed="X" n="0453a17"/>曰。是法。非思量分別之所能。解果在言乎。天德初。佛
-        <lb ed="X" n="0453a18"/>日禪師入汴。師袖香謁之。佛日嘿識其器。而施錐劄。
-        <lb ed="X" n="0453a19"/>師益自剋鍊。不四旬恍然有入。佛日肯之。及佛日赴
-        <lb ed="X" n="0453a20"/>遼陽之請。師侍行。抵惠安。舉為立僧。指示切要。一眾
-        <lb ed="X" n="0453a21"/>欽服。後以皇后教旨。住韓州功德院。未幾捨去。渡大
-        <lb ed="X" n="0453a22"/>河。歷齊魯。時昭禪師居越峯。將造訪之。是夕。昭坐室
-        <lb ed="X" n="0453a23"/>中。見一大神偉服立於前。白曰。廣慧大士來也。當除
-        <lb ed="X" n="0453a24"/>舘以待。詰旦。昭整眾延佇食。時師至矣。眾大駭。昭虗
-        <lb ed="X" n="0453b01"/>心盡敬。以所見告焉。師笑而已。浮汴而洛。抵關右。所
-        <lb ed="X" n="0453b02"/>至老師宿學。皆為師下。天德初。被旨主竹林。明年徙
-        <lb ed="X" n="0453b03"/>惠安。明肅皇后。遣中使奉以磨衲衣。并金帛諸物。佐
-        <lb ed="X" n="0453b04"/>開堂之費。久之。竹林舊眾。念法乳不已。僉曰。吾師也。
-        <lb ed="X" n="0453b05"/>惠安安得擁留。權巧以歸之。時海陵領留鑰。嚮師道
-        <lb ed="X" n="0453b06"/>風。賜廣慧通理之號。洎紫方袍。栴檀寶塔。大士像。竟
-        <lb ed="X" n="0453b07"/>符越峯神告之語。大定間。遷潭柘。將大有營建。或以
+        <lb ed="X" n="0453a17"/>曰。是法。非思量分別之所能。解果在言乎。<date from-iso="1150-01-18" to-iso="1150-11-12" key="j21411062141404">天德初</date>。<persName key="A000475">佛<lb ed="X" n="0453a18"/>日</persName>禪師入<placeName key="CN0410204Z10AA">汴</placeName>。師袖香謁之。<persName key="A000475">佛日</persName>嘿識其器。而施錐劄。
+        <lb ed="X" n="0453a19"/>師益自剋鍊。不四旬恍然有入。<persName key="A000475">佛日</persName>肯之。及<persName key="A000475">佛日</persName>赴
+        <lb ed="X" n="0453a20"/><placeName key="CN0211002Z07AA">遼陽</placeName>之請。師侍行。抵<placeName key="unknown">惠安</placeName>。舉為立僧。指示切要。一眾
+        <lb ed="X" n="0453a21"/>欽服。後以皇后教旨。住韓州<placeName key="unknown">功德院</placeName>。未幾捨去。渡大
+        <lb ed="X" n="0453a22"/>河。歷<placeName key="CN0370000A01AA">齊魯</placeName>。時<persName key="unknown">昭</persName>禪師居<placeName key="unknown">越峯</placeName>。將造訪之。是夕。<persName key="unknown">昭</persName>坐室
+        <lb ed="X" n="0453a23"/>中。見一大神偉服立於前。白曰。<persName key="A014773">廣慧大士</persName>來也。當除
+        <lb ed="X" n="0453a24"/>舘以待。詰旦。<persName key="unknown">昭</persName>整眾延佇食。時師至矣。眾大駭。<persName key="unknown">昭</persName>虗
+        <lb ed="X" n="0453b01"/>心盡敬。以所見告焉。師笑而已。浮汴而<placeName key="CN0410304Z03AA">洛</placeName>。抵<placeName key="CN0610000E01AA">關右</placeName>。所
+        <lb ed="X" n="0453b02"/>至老師宿學。皆為師下。<date from-iso="1150-01-18" to-iso="1150-11-12" key="j21411062141404">天德初</date>。被旨主<placeName key="unknown">竹林</placeName>。明年徙
+        <lb ed="X" n="0453b03"/><placeName key="unknown">惠安</placeName>。<persName key="unknown">明肅皇后</persName>。遣中使奉以磨衲衣。并金帛諸物。佐
+        <lb ed="X" n="0453b04"/>開堂之費。久之。<placeName key="unknown">竹林</placeName>舊眾。念法乳不已。僉曰。吾師也。
+        <lb ed="X" n="0453b05"/><placeName key="unknown">惠安</placeName>安得擁留。權巧以歸之。時<persName key="A006631">海陵</persName>領留鑰。嚮師道
+        <lb ed="X" n="0453b06"/>風。賜<persName key="A014773">廣慧通理</persName>之號。洎紫方袍。栴檀寶塔。大士像。竟
+        <lb ed="X" n="0453b07"/>符<placeName key="unknown">越峯</placeName>神告之語。<date from-iso="1161-11-03" to-iso="1189-01-26" key="j21454132155359">大定間</date>。遷<placeName key="CN0110109T02AA">潭柘</placeName>。將大有營建。或以
         <lb ed="X" n="0453b08"/>寺久廢。規模宏大。懼難克集。請少損之。師曰。吾心計
-        <lb ed="X" n="0453b09"/>已定。第恐不誠爾。不十年而潭柘落成。視舊有加焉。
+        <lb ed="X" n="0453b09"/>已定。第恐不誠爾。不十年而<placeName key="CN0110109T02AA">潭柘</placeName>落成。視舊有加焉。
         <lb ed="X" n="0453b10"/>其始工也。鑿山之際。有巨石崩墜。轟聲如雷。眾駭避。
         <lb ed="X" n="0453b11"/>師恬弗為顧。石至師而止。不遠尋尺。若有神禦之者。
-        <lb ed="X" n="0453b12"/>其在竹林時。竹林實遼長主。賜第制侔宮闕。雖為梵
+        <lb ed="X" n="0453b12"/>其在<placeName key="unknown">竹林</placeName>時。<placeName key="unknown">竹林</placeName>實遼長主。賜第制侔宮闕。雖為梵
         <lb ed="X" n="0453b13"/>剎。而臺門尚存。師謂非僧居所。宜亟命撤去。得故甎
         <lb ed="X" n="0453b14"/>百萬。為方丈基甃。仍以其餘。即故基為俗室。而鼎新
         <lb ed="X" n="0453b15"/>其門。凡所成務傳永久。盡竭衣盂所不惜。律身持物。
         <lb ed="X" n="0453b16"/>凡可以久行益後者。皆著之令典。使傳將來。用志之
-        <lb ed="X" n="0453b17"/>精專如此。以大定十五年六月。化于潭柘。世壽七十
+        <lb ed="X" n="0453b17"/>精專如此。以<date from-iso="1175-06-27" to-iso="1175-07-26" key="j21503972150426">大定十五年六月</date>。化于<placeName key="CN0110109T02AA">潭柘</placeName>。世壽七十
         <lb ed="X" n="0453b18"/>二。僧臘五十七。</p><p>
-        <lb ed="X" n="0453b19"/>　明河曰。此傳取諸塔石。石文乃金永定節使楊[邱-丘+(看-目)]
-        <lb ed="X" n="0453b20"/>　基譔。謂。佛果自西蜀來汴。以心印傳佛日。佛日傳
-        <lb ed="X" n="0453b21"/>　廣慧。為南岳下十七世。則佛日為妙喜。無疑矣。及
-        <lb ed="X" n="0453b22"/>　後云。師侍佛日赴遼陽。又云。數從佛日入禁中說
-        <lb ed="X" n="0453b23"/>　法。考時校處。又似非妙喜。茫然不知佛日為何人。
-        <lb ed="X" n="0453b24"/>　若果妙喜。何年譜。傳燈不載此事。年譜但云女直
+            <lb ed="X" n="0453b19"/>　<persName key="A000658">明河</persName>曰。此傳取諸塔石。石文乃金永定節使<persName key="unknown">楊[邱-丘+(看-目)]<lb ed="X" n="0453b20"/>　基</persName>譔。謂。<persName key="A001411">佛果</persName>自西<placeName key="CN0510000E01AA">蜀</placeName>來<placeName key="CN0410204Z10AA">汴</placeName>。以心印傳<persName key="A000475">佛日</persName>。<persName key="A000475">佛日</persName>傳
+            <lb ed="X" n="0453b21"/>　<persName key="A014773">廣慧</persName>。為南岳下十七世。則<persName key="A000475">佛日</persName>為<persName key="A000475">妙喜</persName>。無疑矣。及
+            <lb ed="X" n="0453b22"/>　後云。師侍<persName key="A000475">佛日</persName>赴遼陽。又云。數從<persName key="A000475">佛日</persName>入禁中說
+            <lb ed="X" n="0453b23"/>　法。考時校處。又似非<persName key="A000475">妙喜</persName>。茫然不知<persName key="A000475">佛日</persName>為何人。
+            <lb ed="X" n="0453b24"/>　若果<persName key="A000475">妙喜</persName>。何年譜。傳燈不載此事。年譜但云女直
         <lb ed="X" n="0453c01"/>　之肆驕。取禪師十數。師為首選。虜酋壯。傳不少屈。
         <lb ed="X" n="0453c02"/>　由是一眾獲免。其行得無師實行如楊所云。而後
-        <lb ed="X" n="0453c03"/>　返作譜者為之諱也耶。抑佛日非妙喜。佛果下。別
-        <lb ed="X" n="0453c04"/>　有一佛日耶。楊文定有所據。必有一人當之。大都
-        <lb ed="X" n="0453c05"/>　妙喜始終。如青天白日。不容隱諱。筆此以俟高明
+            <lb ed="X" n="0453c03"/>　返作譜者為之諱也耶。抑<persName key="A000475">佛日</persName>非<persName key="A000475">妙喜</persName>。<persName key="A001411">佛果</persName>下。別
+            <lb ed="X" n="0453c04"/>　有一<persName key="A000475">佛日</persName>耶。楊文有所據。必有一人當之。大都
+            <lb ed="X" n="0453c05"/>　<persName key="A000475">妙喜</persName>始終。如青天白日。不容隱諱。筆此以俟高明
         <lb ed="X" n="0453c06"/>　考訂。</p>
 </div>

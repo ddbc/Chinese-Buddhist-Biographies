@@ -1,20 +1,19 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0537b23mingLong">
-    <head><lb ed="X" n="0537b23"/>　　　　明龍傳</head>
-    <p><anchor n="X.77.1524.0537b24"/><lb ed="X" n="0537b24"/>明龍。淮南宿遷姚氏子。俗名東陽。甞為其縣諸生。居
+    <head><lb ed="X" n="0537b23"/>　　　　<persName key="A008312">明龍</persName>傳</head>
+    <p><anchor n="X.77.1524.0537b24"/><lb ed="X" n="0537b24"/><persName key="A008312">明龍</persName>。淮南<placeName key="CN0321302Z02AA">宿遷</placeName>姚氏子。俗名<persName key="A008312">東陽</persName>。甞為其縣諸生。居
         <lb ed="X" n="0537c01"/>甞好修。歷二十年所。不問家人生業。雅從善知識游。
-        <lb ed="X" n="0537c02"/>隆慶改元。落髮居羊山秀峰菴。名德日起。即　諸陵
+        <lb ed="X" n="0537c02"/><date from-iso="1567-02-19" to-iso="1572-07-15" key="j22934442295417">隆慶</date>改元。落髮居羊山<placeName key="unknown">秀峰菴</placeName>。名德日起。即　諸陵
         <lb ed="X" n="0537c03"/>中貴人多檀施。師藍縷自如。一衲不啻懸鶉。不裓不
-        <lb ed="X" n="0537c04"/>襦不履。顧就羊山。安七十二眾。為千日期場。師日為
-        <lb ed="X" n="0537c05"/>大眾說經。大眾亦樂為之聽眾也。時　神宗皇帝初
-        <lb ed="X" n="0537c06"/>即位。行邊使道昆汪公。道出　諸陵。詣師問道。意獨
-        <lb ed="X" n="0537c07"/>多之。因問曰。千日期畢。羊山能作甞住乎。師曰。無甞
-        <lb ed="X" n="0537c08"/>無住。後旬有五日。太史當謁。立冬其日羊山放光。又
-        <lb ed="X" n="0537c09"/>越七日。歲將除。師集大眾語曰。元年元日吾當行。公
+        <lb ed="X" n="0537c04"/>襦不履。顧就<placeName key="unknown">羊山</placeName>。安七十二眾。為千日期場。師日為
+        <lb ed="X" n="0537c05"/>大眾說經。大眾亦樂為之聽眾也。時　<date from-iso="1572-07-16" to-iso="1573-02-11" key="j22954182295628"><persName key="A003693">神宗皇帝</persName>初<lb ed="X" n="0537c06"/>即位</date>。行邊使<persName key="A007641">道昆汪公</persName>。道出　諸陵。詣師問道。意獨
+        <lb ed="X" n="0537c07"/>多之。因問曰。千日期畢。<placeName key="unknown">羊山</placeName>能作甞住乎。師曰。無甞
+        <lb ed="X" n="0537c08"/>無住。後旬有五日。太史當謁。立冬其日<placeName key="unknown">羊山</placeName>放光。又
+        <lb ed="X" n="0537c09"/>越七日。歲將除。師集大眾語曰。<date when-iso="1573-02-12" key="j22956292295629">元年元日</date>吾當行。公
         <lb ed="X" n="0537c10"/>等居此。識字者。用心念佛。不識字者。用心念佛。務智
         <lb ed="X" n="0537c11"/>慧務普心。即此是佛。公等勉之。歲除夜既半。命弟子
-        <lb ed="X" n="0537c12"/>視中星曰。夜午乎。曰。午矣。師曰。未也。日午乃行。元日
-        <lb ed="X" n="0537c13"/>日幾中。羊山放光如嚮者。頃之坐化。葢日中云。越七
+        <lb ed="X" n="0537c12"/>視中星曰。夜午乎。曰。午矣。師曰。未也。日午乃行。<date when-iso="1573-02-12" key="j22956292295629">元日</date>
+        <lb ed="X" n="0537c13"/>日幾中。<placeName key="unknown">羊山</placeName>放光如嚮者。頃之坐化。葢日中云。越七
         <lb ed="X" n="0537c14"/>日舉焚。日中復放光如嚮者。　諸陵中貴人咸在。率
         <lb ed="X" n="0537c15"/>大眾羅拜。治浮屠。藏舍利。</p>
 </div>

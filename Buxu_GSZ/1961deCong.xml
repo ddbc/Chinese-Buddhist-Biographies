@@ -1,17 +1,16 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0531b05deCong">
-    <head><lb ed="X" n="0531b05"/>　　　　德琮傳</head>
-    <p><anchor n="X.77.1524.0531b06"/><lb ed="X" n="0531b06"/>德琮。姓杜氏。唐拾遺子美之後也。出家崇山。自食其
+    <head><lb ed="X" n="0531b05"/>　　　　<persName key="A021630">德琮</persName>傳</head>
+    <p><anchor n="X.77.1524.0531b06"/><lb ed="X" n="0531b06"/><persName key="A021630">德琮</persName>。姓杜氏。唐<persName key="A005221">拾遺子美</persName>之後也。出家<placeName key="CN0410185M02AA">崇山</placeName>。自食其
         <lb ed="X" n="0531b07"/>力。水耕火種。兩股皆有日炙痕。博通內外典。素不出
-        <lb ed="X" n="0531b08"/>山教化。人罕知之。　成祖使中官至汴。廉得其名。還
+        <lb ed="X" n="0531b08"/>山教化。人罕知之。　<persName key="A000149">成祖</persName>使中官至<placeName key="CN0410204Z06AA">汴</placeName>。廉得其名。還
         <lb ed="X" n="0531b09"/>奏於朝。適西番進一僧至。言三教九流。無不通徹。堪
-        <lb ed="X" n="0531b10"/>為中國王者師。　上不悅曰。堂堂天朝。豈無一人可
-        <lb ed="X" n="0531b11"/>當之。詔徵德琮至。賜金襴袈裟銀鉢盂。明旦普召眾
+        <lb ed="X" n="0531b10"/>為中國王者師。　<ref type="person" target="#A000149">上</ref>不悅曰。堂堂天朝。豈無一人可
+        <lb ed="X" n="0531b11"/>當之。詔徵<persName key="A021630">德琮</persName>至。賜金襴袈裟銀鉢盂。明旦普召眾
         <lb ed="X" n="0531b12"/>僧。各坐高几。辯對其僧。談吐出入九經。滔滔如注水。
-        <lb ed="X" n="0531b13"/>琮訥於應對。眾初疑之。有頃。忽問西僧。諦字何義。西
-        <lb ed="X" n="0531b14"/>信應稍遲。琮乃大聲訓解。鳩大藏。探儒書。歷示以字
+        <lb ed="X" n="0531b13"/><persName key="A021630">琮</persName>訥於應對。眾初疑之。有頃。忽問西僧。諦字何義。西
+        <lb ed="X" n="0531b14"/>信應稍遲。<persName key="A021630">琮</persName>乃大聲訓解。鳩大藏。探儒書。歷示以字
         <lb ed="X" n="0531b15"/>學之義曰。此而不知。焉用稱學。西僧羞恚。頂禮歎服
-        <lb ed="X" n="0531b16"/>辭去。　上喜。召入賜坐。即日授左善世。為作室雞鳴
-        <lb ed="X" n="0531b17"/>山。以為修藏之所。年五十七。說偈示寂。　詔起塔於
+        <lb ed="X" n="0531b16"/>辭去。　<ref type="person" target="#A000149">上</ref>喜。召入賜坐。即日授左善世。為作室<placeName key="CN0320101M06AA">雞鳴<lb ed="X" n="0531b17"/>山</placeName>。以為修藏之所。年五十七。說偈示寂。　詔起塔於
         <lb ed="X" n="0531b18"/>山之陰。賜御祭者三。</p>
 </div>

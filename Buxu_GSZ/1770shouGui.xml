@@ -1,25 +1,19 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0464c12shouGui">
-    <head><lb ed="X" n="0464c12"/>　　　　無用貴師傳</head>
-    <p><anchor n="X.77.1524.0464c13"/><lb ed="X" n="0464c13"/>守貴。字無用。別號水庵。婺之甄氏子。其家業於耕樵。
+    <head><lb ed="X" n="0464c12"/>　　　　<persName key="A015548">無用貴</persName>師傳</head>
+    <p><anchor n="X.77.1524.0464c13"/><lb ed="X" n="0464c13"/><persName key="A015548">守貴</persName>。字<persName key="A015548">無用</persName>。別號<persName key="A015548">水庵</persName>。<placeName key="CN0330702Z06AA">婺</placeName>之甄氏子。其家業於耕樵。
         <lb ed="X" n="0464c14"/>每使之行饁田間。師志弗樂。乃同鄉童子。從師學詩
-        <lb ed="X" n="0464c15"/>書。年十八。入里之康侯山。為僧所事叢脞。師又弗樂。
-        <lb ed="X" n="0464c16"/>棄之往浙水西。日以問道為事。適千巖長公。縛禪于
-        <lb ed="X" n="0464c17"/>龍華。往拜之。授以向上一機。冥參默究。恍若有所契。
-        <lb ed="X" n="0464c18"/>龍華與天龍院鄰。天龍沙門平大道。務起廢。之挽千
-        <lb ed="X" n="0464c19"/>巖主之。及千巖走烏傷。復與之俱。山有廢剎。曰聖壽。
-        <lb ed="X" n="0464c20"/>千巖新之。命師領其徒。至正丙戌。還天龍。復往參中
-        <lb ed="X" n="0464c21"/>峰本公。斷崖義公。梁山寬公。其反覆叩答。不異見千
-        <lb ed="X" n="0464c22"/>巖時。既而退居嘉興。建庵為逸老計。忽一夜。夢大道
-        <lb ed="X" n="0464c23"/>來別曰。吾已棄人間世矣。師大驚。急拏舟往視之。大
-        <lb ed="X" n="0464c24"/>道果告寂。因名所居庵。為應夢。師自是復主天龍。天
-        <lb ed="X" n="0465a01"/>龍素無恒產。募齋民二千家。每臨食時。輙取一小甌。
-        <lb ed="X" n="0465a02"/>聚之養四眾。凡大道未竟之業。師殫志畢慮。為造僧
-        <lb ed="X" n="0465a03"/>室與演法堂。堂上為閣。以安吳越錢氏所造大悲尊
+        <lb ed="X" n="0464c15"/>書。<date key="j21984322198796" when-iso="1307">年十八</date>。入里之<placeName key="unknown">康侯山</placeName>。為僧所事叢脞。師又弗樂。
+        <lb ed="X" n="0464c16"/>棄之往浙水西。日以問道為事。適<persName key="A004551">千巖長</persName>公。縛禪于
+        <lb ed="X" n="0464c17"/><placeName key="CN0330103T22AA">龍華</placeName>。往拜之。授以向上一機。冥參默究。恍若有所契。
+        <lb ed="X" n="0464c18"/><placeName key="CN0330103T22AA">龍華</placeName>與<placeName key="CN0330102T05AA">天龍院</placeName>鄰。<placeName key="CN0330102T05AA">天龍</placeName>沙門<persName key="unknown">平大道</persName>。務起廢。之挽<persName key="A004551">千<lb ed="X" n="0464c19"/>巖</persName>主之。及<persName key="A004551">千巖</persName>走<placeName key="CN0330782Z05AA">烏傷</placeName>。復與之俱。山有廢剎。曰<placeName key="CN0330782T01AA">聖壽</placeName>。
+        <lb ed="X" n="0464c20"/><persName key="A004551">千巖</persName>新之。命師領其徒。<date from-iso="1346-01-31" to-iso="1347-02-18" key="j22127072213090">至正丙戌</date>。還<placeName key="CN0330102T05AA">天龍</placeName>。復往參<persName key="A000655">中<lb ed="X" n="0464c21"/>峰本</persName>公。<persName key="A009087">斷崖義</persName>公。<persName key="unknown">梁山寬</persName>公。其反覆叩答。不異見<persName key="A004551">千<lb ed="X" n="0464c22"/>巖</persName>時。既而退居<placeName key="CN0330402Z07AA">嘉興</placeName>。建庵為逸老計。忽一夜。夢<persName key="unknown">大道</persName>
+        <lb ed="X" n="0464c23"/>來別曰。吾已棄人間世矣。師大驚。急拏舟往視之。<persName key="unknown">大<lb ed="X" n="0464c24"/>道</persName>果告寂。因名所居庵。為<placeName key="unknown">應夢</placeName>。師自是復主<placeName key="CN0330102T05AA">天龍</placeName>。<placeName key="CN0330102T05AA">天<lb ed="X" n="0465a01"/>龍</placeName>素無恒產。募齋民二千家。每臨食時。輙取一小甌。
+        <lb ed="X" n="0465a02"/>聚之養四眾。凡<persName key="unknown">大道</persName>未竟之業。師殫志畢慮。為造<placeName key="unknown">僧<lb ed="X" n="0465a03"/>室</placeName>與<placeName key="unknown">演法堂</placeName>。堂上為閣。以安<placeName key="CN0300000E03AA">吳越</placeName>錢氏所造大悲尊
         <lb ed="X" n="0465a04"/>像。又買並寺之地。以為蔬畦。而寺制所有者。小大咸
-        <lb ed="X" n="0465a05"/>飾。隱然如大伽藍矣。辛丑八月。作偈一首。副以高麗
-        <lb ed="X" n="0465a06"/>淨瓶。寄別行省丞相達識公。明日沐浴。索筆書頌曰。
-        <lb ed="X" n="0465a07"/>一蝸臭殻。內外穢惡。撒手便行。虗空振鐸。天龍一指
+        <lb ed="X" n="0465a05"/>飾。隱然如大伽藍矣。<date from-iso="1361-09-08" to-iso="1361-10-07" key="j22184062218435">辛丑八月</date>。作偈一首。副以高麗
+        <lb ed="X" n="0465a06"/>淨瓶。寄別行省丞相<persName key="A008221">達識</persName>公。明日沐浴。索筆書頌曰。
+        <lb ed="X" n="0465a07"/>一蝸臭殻。內外穢惡。撒手便行。虗空振鐸。<placeName key="CN0330102T05AA">天龍</placeName>一指
         <lb ed="X" n="0465a08"/>今猶昨。擲筆而化。世壽七十有二。丞相加歎。遣官為
         <lb ed="X" n="0465a09"/>具後事。奉全身塔於西岡。師平生不畜長物。寒暑唯
         <lb ed="X" n="0465a10"/>一布衣。戒行甚峻。常落一齒。左右櫝藏之。中生舍利。

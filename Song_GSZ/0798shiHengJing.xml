@@ -1,17 +1,17 @@
 <?xml version='1.0' encoding='utf-8'?>
-<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0732b16shiHengJing">
-    <anchor n="T.50.2061.0732b16"/><head><date from-iso="0618-06-21" key="j19469512052491" to-iso="0907-06-06">唐</date>荊州玉泉寺<persName key="A008970">恒景</persName>傳</head><p>
-<lb ed="T" n="0732b16"/><persName key="A008970">釋恒景</persName>，姓文氏，<placeName key="CN0420582Z14AA">當陽</placeName>人也。<date from-iso="0648-05-01" key="j19578581957887" to-iso="0648-05-30">貞觀二十二年</date>勅
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0732b15shiHengJing">
+    <lb n="0732b15" ed="T"/><anchor n="T.50.2061.0732b15"/><head><date from-iso="0618-06-21" key="j19469512052491" to-iso="0907-06-06">唐</date><placeName key="CN0420582T03AA">荊州玉泉寺</placeName><persName key="A008970">恒景</persName>傳</head><p>
+        <lb ed="T" n="0732b16"/><persName key="A008970">釋恒景</persName>，姓文氏，<placeName key="CN0420582Z14AA">當陽</placeName>人也。<date from-iso="0648-02-02" key="j19577691958152" to-iso="0649-02-19">貞觀二十二年</date>勅
 <lb ed="T" n="0732b17"/>度，聽習三藏，一聞能誦，如說而行。初就<persName key="A002468">文綱
-<lb ed="T" n="0732b18"/>律師</persName>隷業毘尼，後入覆<placeName key="CN0420582T03AA">舟山玉泉寺</placeName>，追<persName key="A001301">智
-<lb ed="T" n="0732b19"/>者禪師</persName>習《止觀門》。於<placeName key="CN0420582T03AA">寺</placeName>之南十里別立精
+    <lb ed="T" n="0732b18"/>律師</persName><ptr target="#n680"/>隷業「毘尼」，後入<placeName key="CN0420582T03AA">覆舟山玉泉寺</placeName>，追<persName key="A001301">智
+        <lb ed="T" n="0732b19"/>者禪師</persName><ptr target="#n681"/>習《止觀門》。於<ref type="place" target="#CN0420582T03AA">寺</ref>之南十里別立精
 <lb ed="T" n="0732b20"/>舍，號<placeName key="CN0421024T07AA">龍興</placeName>是也。自<date from-iso="0684" key="j19709111980570" to-iso="0710">天后、中宗朝</date>，三被詔入
 <lb ed="T" n="0732b21"/>內供養為受戒師。以<date from-iso="0709-02-19" key="j19800661980419" to-iso="0710-02-07">景龍三年</date>奏乞歸山，
-        <lb ed="T" n="0732b22"/>勅允其請。詔中書、門下及學士於<placeName key="CN0610430A01AA">林光宮
+        <lb ed="T" n="0732b22"/>勅允其請。詔中書、門下及學士於<placeName key="CN0610104A03AF">林光宮
 <lb ed="T" n="0732b23"/>觀內道場</placeName>設齋。先時追召天下高僧兼義
 <lb ed="T" n="0732b24"/>行者二十餘人，常於內殿修福，至是散齋，
-<lb ed="T" n="0732b25"/>仍送<persName key="A008970">景</persName>并<persName key="A009309">道俊</persName>、<persName key="A009306">玄奘</persName>各還故鄉。<persName key="A002100">帝</persName>親賦詩，
-<lb ed="T" n="0732b26"/>學士應和，即中書令<persName key="A002109">李嶠</persName>、中書舍人<persName key="A002474">李又</persName>等
+        <lb ed="T" n="0732b25"/>仍送<persName key="A008970">景</persName>并<persName key="A009309">道俊</persName>、<persName key="A009306">玄奘</persName>各還故鄉。<ref type="person" target="#A002100">帝</ref>親賦詩，
+        <lb ed="T" n="0732b26"/>學士應和，即中書令<persName key="A002109">李嶠</persName>、中書舍人<persName key="A002474">李<anchor xml:id="beg0732sgsz4"/><choice resp="sgsz"><sic>又</sic><corr>乂</corr></choice><anchor xml:id="end0732sgsz4"/></persName>等
 <lb ed="T" n="0732b27"/>數人。時<persName key="A008970">景</persName>等捧詩振錫而行，天下榮之。<persName key="A008970">景</persName>
 <lb ed="T" n="0732b28"/>撰《順了義論》二卷、《攝正法論》七卷、《佛性論》二
 <lb ed="T" n="0732b29"/>卷。學其宗者，如渴之受漿。至<date key="j19814181981418" when-iso="0712-11-02">先天元年<pb ed="T" n="0732c" xml:id="T50.2061.0732c"/>
@@ -19,7 +19,7 @@
 <lb ed="T" n="0732c02"/>弟子奉葬于寺之西原也。</p>
         <p><lb ed="T" n="0732c03"/>系曰：<persName key="A009306">江陵玄奘</persName>與<persName key="A000294">三藏法師</persName>形影相接，相去
 <lb ed="T" n="0732c04"/>幾何。然其名同實異，亦猶<persName key="A009225">藺相如</persName>得強秦之
-<lb ed="T" n="0732c05"/>所畏，<persName key="A006416">馬相如</persName>令<persName key="A002161">楊雄</persName>之追慕。然則各有所
+            <lb ed="T" n="0732c05"/>所畏，<persName key="A006416"><choice resp="sgsz"><sic>馬相如</sic><corr>司馬相如</corr></choice></persName>令<persName key="A002161">楊雄</persName>之追慕。然則各有所
 <lb ed="T" n="0732c06"/>長短，亦可見也。</p>
     <linkGrp>
         <link targets="#0732b16 #0732b16"/>
@@ -29,17 +29,11 @@
     <linkGrp>
         <link targets="#0732b16 #0732b17"/>
         <ptr target="#A008970" type="person"/>
-        <ptr target="#j19578581957887" type="time"/>
-    </linkGrp>
-    <linkGrp>
-        <link targets="#0732b17 #0732b18"/>
-        <ptr target="#A008970" type="person"/>
-        <ptr target="#A002468" type="person"/>
+        <ptr target="#j19577691958152" type="time"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0732b18 #0732b19"/>
         <ptr target="#A008970" type="person"/>
-        <ptr target="#A001301" type="person"/>
         <ptr target="#CN0420582T03AA" type="place"/>
     </linkGrp>
     <linkGrp>
@@ -51,22 +45,18 @@
         <link targets="#0732b20 #0732b21"/>
         <ptr target="#A008970" type="person"/>
         <ptr target="#j19709111980570" type="time"/>
+        <ptr target="#CN0610102Z07AA" type="place"/>
     </linkGrp>
     <linkGrp>
-        <link targets="#0732b21 #0732b23"/>
-        <ptr target="#A008970" type="person"/>
-        <ptr target="#A002100" type="person"/>
-        <ptr target="#CN0610430A01AA" type="place"/>
-        <ptr target="#j19800661980419" type="time"/>
-    </linkGrp>
-    <linkGrp>
-        <link targets="#0732b25 #0732b25"/>
+        <link targets="#0732b21 #0732b27"/>
         <ptr target="#A008970" type="person"/>
         <ptr target="#A002100" type="person"/>
         <ptr target="#A009309" type="person"/>
         <ptr target="#A009306" type="person"/>
         <ptr target="#A002109" type="person"/>
         <ptr target="#A002474" type="person"/>
+        <ptr target="#CN0610104A03AF" type="place"/>
+        <ptr target="#j19800661980419" type="time"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0732b29 #0732c01"/>
