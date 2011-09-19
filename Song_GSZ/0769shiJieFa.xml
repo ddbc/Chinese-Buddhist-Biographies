@@ -1,28 +1,28 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0721a29shiJieFa">
-    <lb ed="T" n="0721a29"/><anchor n="T.50.2061.0721a29"/><head><date from-iso="0618-06-21" key="j19469512052491" to-iso="0907-06-06">唐</date><placeName key="CN0652327T01AA">北庭龍興寺</placeName><persName key="A000089">戒法</persName>傳</head><p>
-<lb ed="T" n="0721b01"/><persName key="A000089">釋尸羅達摩</persName>，華言<persName key="A000089">戒法</persName>也，本<placeName key="CN0653221Z04AA">于闐</placeName>人。學業
-        <lb ed="T" n="0721b02"/>該通，善知華梵，居于<ref target="#CN0653221Z04AA" type="place">是國</ref>，為大法師。唐<date from-iso="0785" key="j20078242015327" to-iso="0805">貞
-<lb ed="T" n="0721b03"/>元</date>中，<persName key="A009152">悟空</persName>迴至<placeName key="CN0652327Z18AA">北庭</placeName>，其本道節度使<persName key="A009153">楊襲古</persName>
-        <lb ed="T" n="0721b04"/>與<placeName key="CN0652327T01AA">龍興寺</placeName>僧請<persName key="A000089">法</persName>為譯主，翻《十地經》<ptr target="#n387"/>。<persName key="A000089">法</persName>躬
+    <lb ed="T" n="0721a29"/><anchor n="T.50.2061.0721a29"/><head><date from-iso="0618-06-21" key="j19469512052491" to-iso="0907-06-06">唐</date><placeName key="PL000000047610">北庭龍興寺</placeName><persName key="A000089">戒法</persName>傳</head><p>
+<lb ed="T" n="0721b01"/><persName key="A000089">釋尸羅達摩</persName>，華言<persName key="A000089">戒法</persName>也，本<placeName key="PL000000047984">于闐</placeName>人。學業
+        <lb ed="T" n="0721b02"/>該通，善知華梵，居于<ref target="#PL000000047984" type="place">是國</ref>，為大法師。唐<date from-iso="0785" key="j20078242015327" to-iso="0805">貞
+<lb ed="T" n="0721b03"/>元</date>中，<persName key="A009152">悟空</persName>迴至<placeName key="PL000000047628">北庭</placeName>，其本道節度使<persName key="A009153">楊襲古</persName>
+        <lb ed="T" n="0721b04"/>與<placeName key="PL000000047610">龍興寺</placeName>僧請<persName key="A000089">法</persName>為譯主，翻《十地經》<ptr target="#n387"/>。<persName key="A000089">法</persName>躬
         <lb ed="T" n="0721b05"/>讀梵文并譯語，沙門<persName key="A009154">大震</persName>筆受<ptr target="#n53"/>，<persName key="A009155">法超</persName>潤文<ptr target="#n70"/>，
         <lb ed="T" n="0721b06"/><persName key="A009156">善信</persName>證義<ptr target="#n54"/>，<persName key="A009152">悟空</persName>證梵文<ptr target="#n52"/>。又譯《迴向輪經》，翻
 <lb ed="T" n="0721b07"/>傳纔畢，繕寫欲終，遇北庭宣慰中使<persName key="A009157">段明秀</persName>
-<lb ed="T" n="0721b08"/>事訖迴，與北庭奏事官<persName key="A009158">牛昕</persName>、<placeName key="CN0652923Z19AA">安西</placeName>奏事官<persName key="A009159">程
-    <lb ed="T" n="0721b09"/>鍔</persName>等相隨入朝，為沙河不通，取<placeName key="MN041RA00Z01AA">迴鶻</placeName>路，其
-        <lb ed="T" n="0721b10"/>梵夾留<placeName key="CN0652327T01AA">北庭龍興寺</placeName>藏。齎所譯唐本至<ref target="#CN0610102Z07AA" type="place">京</ref>，
-        <lb ed="T" n="0721b11"/>即<date from-iso="0789-02-04" key="j20092712009624" to-iso="0790-01-23">貞元五載</date>也<ptr target="#n388"/>。<persName key="A000089">法</persName>譯事方終，却迴<placeName key="CN0653221Z04AA">豁丹</placeName>，<placeName key="CN0653221Z04AA">豁丹</placeName>
-        <lb ed="T" n="0721b12"/>一云<placeName key="CN0653221Z04AA">于遁</placeName>，此皆<ref target="#WW142PM00M01AA" type="place">嶺</ref>北人之呼召耳，若<placeName key="IN0000000E01AA">五印度</placeName>
-<lb ed="T" n="0721b13"/>語云<placeName key="CN0653221Z04AA">瞿薩怛那</placeName>，華言<placeName key="CN0653221Z04AA">乳國</placeName>，亦云<placeName key="CN0653221Z04AA">地乳</placeName>也。</p>
+<lb ed="T" n="0721b08"/>事訖迴，與北庭奏事官<persName key="A009158">牛昕</persName>、<placeName key="PL000000047826">安西</placeName>奏事官<persName key="A009159">程
+    <lb ed="T" n="0721b09"/>鍔</persName>等相隨入朝，為沙河不通，取<placeName key="PL000000048875">迴鶻</placeName>路，其
+        <lb ed="T" n="0721b10"/>梵夾留<placeName key="PL000000047610">北庭龍興寺</placeName>藏。齎所譯唐本至<ref target="#PL000000042189" type="place">京</ref>，
+        <lb ed="T" n="0721b11"/>即<date from-iso="0789-02-04" key="j20092712009624" to-iso="0790-01-23">貞元五載</date>也<ptr target="#n388"/>。<persName key="A000089">法</persName>譯事方終，却迴<placeName key="PL000000047984">豁丹</placeName>，<placeName key="PL000000047984">豁丹</placeName>
+        <lb ed="T" n="0721b12"/>一云<placeName key="PL000000047984">于遁</placeName>，此皆<ref target="#PL000000055433" type="place">嶺</ref>北人之呼召耳，若<placeName key="PL000000048207">五印度</placeName>
+<lb ed="T" n="0721b13"/>語云<placeName key="PL000000047984">瞿薩怛那</placeName>，華言<placeName key="PL000000047984">乳國</placeName>，亦云<placeName key="PL000000047984">地乳</placeName>也。</p>
     <linkGrp>
         <link targets="#0721b01 #0721b02"/>
         <ptr target="#A000089" type="person"/>
-        <ptr target="#CN0653221Z04AA" type="place"/>
+        <ptr target="#PL000000047984" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0721b02 #0721b03"/>
         <ptr target="#A009152" type="person"/>
-        <ptr target="#CN0652327Z18AA" type="place"/>
+        <ptr target="#PL000000047628" type="place"/>
         <ptr target="#j20078242015327" type="time"/>
     </linkGrp>
     <linkGrp>
@@ -33,7 +33,7 @@
         <ptr target="#A009154" type="person"/>
         <ptr target="#A009155" type="person"/>
         <ptr target="#A009156" type="person"/>
-        <ptr target="#CN0652327T01AA" type="place"/>
+        <ptr target="#PL000000047610" type="place"/>
         <ptr target="#j20078242015327" type="time"/>
     </linkGrp>
     <linkGrp>
@@ -42,12 +42,12 @@
         <ptr target="#A009157" type="person"/>
         <ptr target="#A009158" type="person"/>
         <ptr target="#A009159" type="person"/>
-        <ptr target="#CN0610102Z07AA" type="place"/>
+        <ptr target="#PL000000042189" type="place"/>
         <ptr target="#j20096552009684" type="time"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0721b11 #0721b11"/>
         <ptr target="#A000089" type="person"/>
-        <ptr target="#CN0653221Z04AA" type="place"/>
+        <ptr target="#PL000000047984" type="place"/>
     </linkGrp>
 </div>

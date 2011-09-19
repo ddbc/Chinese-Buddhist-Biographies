@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0658a25shiFaXing">
-    <p><anchor n="T.50.2060.0658a25"/><lb ed="T" n="0658a25"/><persName key="A006927">釋法行</persName>者。不知何人。即<persName key="A005402">論法師</persName>之神足也。<lb ed="T" n="0658a26"/><persName key="A005402">論</persName>本住<placeName key="CN0420582T03AA">玉泉</placeName>。<persName key="A004413">煬帝</persName>隆重見於別傳。<persName key="A006927">行</persName>性素<lb ed="T" n="0658a27"/>不倫言多卓異。或居山谷。時入市廛。每往<lb ed="T" n="0658a28"/><placeName key="CN0420506T02AA">清溪</placeName>。路由覆船頂。見泉流茂木乃顧曰。十<lb ed="T" n="0658a29"/>年之後。當有大福慧人營搆伽藍。及智者<lb ed="T" n="0658b01"/>來儀。果成<ptr target="fn01"/>先告。又嘗往<placeName key="CN0420582Z15AA">當陽城</placeName>。執竹弓<lb ed="T" n="0658b02"/>射之。後有山賊圍城。如所前相。然每出異<lb ed="T" n="0658b03"/>言。云梁休咎。<persName key="A005909">宣帝</persName>惡之。令追將戮。隨使至<lb ed="T" n="0658b04"/>焉。抗不前曰。<persName key="A006927">吾</persName>償命於此地。尋有使至。隨<lb ed="T" n="0658b05"/>致命。盡遂斬<persName key="A006927">之</persName>。而無有血。臨終說眾要偈。<lb ed="T" n="0658b06"/>辭理切附不可具載。皆述業報不可逃避。<lb ed="T" n="0658b07"/>及戮訖。逡巡間屍靈遂失。僕射<persName key="A002385">蕭瑀</persName>。行至<lb ed="T" n="0658b08"/><placeName key="CN0420624M02AA">四望山</placeName>。因禪師所為<persName key="A005909">宣帝</persName>懺曰。先人殺聖<lb ed="T" n="0658b09"/>人罪者。禮悔之餘。願為及也。傳曰。以為。<lb ed="T" n="0658b10"/>後梁纘曆。勢不超挺。孤守一城。傍被禦衛。<lb ed="T" n="0658b11"/>有何榮荷。隨妄造愆。故斬聖人。望延厚祚。<lb ed="T" n="0658b12"/>所謂前望失於後途。不久追入流離<placeName key="CN0610000E01AA">關壤</placeName>。<lb ed="T" n="0658b13"/>無辜之責誠不可欺。</p>
+    <p><anchor n="T.50.2060.0658a25"/><lb ed="T" n="0658a25"/><persName key="A006927">釋法行</persName>者。不知何人。即<persName key="A005402">論法師</persName>之神足也。<lb ed="T" n="0658a26"/><persName key="A005402">論</persName>本住<placeName key="PL000000027023">玉泉</placeName>。<persName key="A004413">煬帝</persName>隆重見於別傳。<persName key="A006927">行</persName>性素<lb ed="T" n="0658a27"/>不倫言多卓異。或居山谷。時入市廛。每往<lb ed="T" n="0658a28"/><placeName key="PL000000026853">清溪</placeName>。路由覆船頂。見泉流茂木乃顧曰。十<lb ed="T" n="0658a29"/>年之後。當有大福慧人營搆伽藍。及智者<lb ed="T" n="0658b01"/>來儀。果成<ptr target="fn01"/>先告。又嘗往<placeName key="PL000000027042">當陽城</placeName>。執竹弓<lb ed="T" n="0658b02"/>射之。後有山賊圍城。如所前相。然每出異<lb ed="T" n="0658b03"/>言。云梁休咎。<persName key="A005909">宣帝</persName>惡之。令追將戮。隨使至<lb ed="T" n="0658b04"/>焉。抗不前曰。<persName key="A006927">吾</persName>償命於此地。尋有使至。隨<lb ed="T" n="0658b05"/>致命。盡遂斬<persName key="A006927">之</persName>。而無有血。臨終說眾要偈。<lb ed="T" n="0658b06"/>辭理切附不可具載。皆述業報不可逃避。<lb ed="T" n="0658b07"/>及戮訖。逡巡間屍靈遂失。僕射<persName key="A002385">蕭瑀</persName>。行至<lb ed="T" n="0658b08"/><placeName key="PL000000027217">四望山</placeName>。因禪師所為<persName key="A005909">宣帝</persName>懺曰。先人殺聖<lb ed="T" n="0658b09"/>人罪者。禮悔之餘。願為及也。傳曰。以為。<lb ed="T" n="0658b10"/>後梁纘曆。勢不超挺。孤守一城。傍被禦衛。<lb ed="T" n="0658b11"/>有何榮荷。隨妄造愆。故斬聖人。望延厚祚。<lb ed="T" n="0658b12"/>所謂前望失於後途。不久追入流離<placeName key="PL000000042002">關壤</placeName>。<lb ed="T" n="0658b13"/>無辜之責誠不可欺。</p>
     <linkGrp>
         <link targets="#0658a25 #0658a25"/>
         <ptr target="#A005402" type="person"/>
@@ -9,7 +9,7 @@
     <linkGrp>
         <link targets="#0658a26 #0658a26"/>
         <ptr target="#A005402" type="person"/>
-        <ptr target="#CN0420582T03AA" type="place"/>
+        <ptr target="#PL000000027023" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0658a26 #0658a26"/>
@@ -19,12 +19,12 @@
     <linkGrp>
         <link targets="#00658a27 #0658b01"/>
         <ptr target="#A006927" type="person"/>
-        <ptr target="#CN0420506T02AA" type="place"/>
+        <ptr target="#PL000000026853" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0658b01 #0658b02"/>
         <ptr target="#A006927" type="person"/>
-        <ptr target="#CN0420582Z15AA" type="place"/>
+        <ptr target="#PL000000027042" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0658b03 #0658b07"/>
@@ -34,6 +34,6 @@
     <linkGrp>
         <link targets="#0658b07 #0658b09"/>
         <ptr target="#A002385" type="person"/>
-        <ptr target="#CN0420624M02AA" type="place"/>
+        <ptr target="#PL000000027217" type="place"/>
     </linkGrp>
 </div>

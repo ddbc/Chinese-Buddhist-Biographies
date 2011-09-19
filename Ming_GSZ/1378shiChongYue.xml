@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0932b03shiChongYue">
-  <p><anchor n="T.50.2062.0932b03"/><lb ed="T" n="0932b03"/><persName key="A001037">釋崇岳</persName>字<persName key="A001037">松源</persName>。處州<placeName key="CN0331181Z05AA">龍泉</placeName>吳氏子也。<date from-iso="1163" key="j21458792146617" to-iso="1165">隆興二<lb ed="T" n="0932b04"/>年</date>得度於杭之西湖<placeName key="CN0330106T29AA">白蓮精舍</placeName>。參方最久。後<lb ed="T" n="0932b05"/>謁<persName key="A004691">密庵傑和尚</persName>。聞室中問僧不是心不是佛<lb ed="T" n="0932b06"/>不是物話。忽大悟遂得心印。因<persName key="A004691">密菴</persName>還<placeName key="CN0330106T01AA">靈<lb ed="T" n="0932b07"/>隱</placeName>命居第一座。久之出世首住平江<placeName key="CN0320503T30AA">澄照</placeName>。<lb ed="T" n="0932b08"/>次居江陰<placeName key="CN0320281T03AA">光孝</placeName>饒之<placeName key="CN0361128T02AA">薦福</placeName>明之<placeName key="CN0330211T01AA">香山</placeName>。寧宗<date from-iso="1197-01-27" key="j21582822158665" to-iso="1198-02-14">慶<lb ed="T" n="0932b09"/>元三年</date>詔住<placeName key="CN0330106T01AA">靈隱</placeName>三易寒暑。乞老退居<placeName key="CN0330106T01AA">寺</placeName><lb ed="T" n="0932b10"/>之東庵。<date key="j21603222160322" when-iso="1202-08-29">嘉泰二年八月四日</date>手書別公卿。垂<lb ed="T" n="0932b11"/>語示學者曰。有大力量人。因甚擡脚不<lb ed="T" n="0932b12"/>起。又曰。開口不在舌頭上。貽囑弟子以<lb ed="T" n="0932b13"/>闡法是務。乃書偈曰。來無所來。去無所去。<lb ed="T" n="0932b14"/>瞥轉玄關。佛祖罔措。加趺而逝。壽七十一。<lb ed="T" n="0932b15"/>臘四十。塔全身于北高峯之原<!--找不到此地-->。得法者<placeName key="CN0330211T01AA">香山</placeName><lb ed="T" n="0932b16"/><persName key="A000322">光睦</persName>雲居<!--找不到此地--><persName key="A001343">善開</persName>。</p>
+  <p><anchor n="T.50.2062.0932b03"/><lb ed="T" n="0932b03"/><persName key="A001037">釋崇岳</persName>字<persName key="A001037">松源</persName>。處州<placeName key="PL000000015027">龍泉</placeName>吳氏子也。<date from-iso="1163" key="j21458792146617" to-iso="1165">隆興二<lb ed="T" n="0932b04"/>年</date>得度於杭之西湖<placeName key="PL000000011657">白蓮精舍</placeName>。參方最久。後<lb ed="T" n="0932b05"/>謁<persName key="A004691">密庵傑和尚</persName>。聞室中問僧不是心不是佛<lb ed="T" n="0932b06"/>不是物話。忽大悟遂得心印。因<persName key="A004691">密菴</persName>還<placeName key="PL000000011596">靈<lb ed="T" n="0932b07"/>隱</placeName>命居第一座。久之出世首住平江<placeName key="PL000000009912">澄照</placeName>。<lb ed="T" n="0932b08"/>次居江陰<placeName key="PL000000009402">光孝</placeName>饒之<placeName key="PL000000020130">薦福</placeName>明之<placeName key="PL000000012255">香山</placeName>。寧宗<date from-iso="1197-01-27" key="j21582822158665" to-iso="1198-02-14">慶<lb ed="T" n="0932b09"/>元三年</date>詔住<placeName key="PL000000011596">靈隱</placeName>三易寒暑。乞老退居<placeName key="PL000000011596">寺</placeName><lb ed="T" n="0932b10"/>之東庵。<date key="j21603222160322" when-iso="1202-08-29">嘉泰二年八月四日</date>手書別公卿。垂<lb ed="T" n="0932b11"/>語示學者曰。有大力量人。因甚擡脚不<lb ed="T" n="0932b12"/>起。又曰。開口不在舌頭上。貽囑弟子以<lb ed="T" n="0932b13"/>闡法是務。乃書偈曰。來無所來。去無所去。<lb ed="T" n="0932b14"/>瞥轉玄關。佛祖罔措。加趺而逝。壽七十一。<lb ed="T" n="0932b15"/>臘四十。塔全身于北高峯之原<!--找不到此地-->。得法者<placeName key="PL000000012255">香山</placeName><lb ed="T" n="0932b16"/><persName key="A000322">光睦</persName>雲居<!--找不到此地--><persName key="A001343">善開</persName>。</p>
   
   <linkGrp>
     <link targets="#0932b04 #0932b05"/>
@@ -15,44 +15,44 @@
   <linkGrp>
     <link targets="#0932b03 #0932b04"/>
     <ptr target="#A001037" type="person"/>
-    <ptr target="#CN0330106T29AA" type="place"/>
+    <ptr target="#PL000000011657" type="place"/>
     <ptr target="#j21458792146617" type="time"/>
   </linkGrp>
   <linkGrp>
     <link targets="#0932b06 #0932b07"/>
     <ptr target="#A004691" type="person"/>
-    <ptr target="#CN0330106T01AA" type="place"/>
+    <ptr target="#PL000000011596" type="place"/>
   </linkGrp>
   <linkGrp>
     <link targets="#0932b07 #0932b07"/>
     <ptr target="#A001037" type="person"/>
-    <ptr target="#CN0320503T30AA" type="place"/>
+    <ptr target="#PL000000009912" type="place"/>
   </linkGrp>
   <linkGrp>
     <link targets="#0932b08 #0932b08"/>
     <ptr target="#A001037" type="person"/>
-    <ptr target="#CN0320281T03AA" type="place"/>
+    <ptr target="#PL000000009402" type="place"/>
   </linkGrp>
   <linkGrp>
     <link targets="#0932b08 #0932b08"/>
     <ptr target="#A001037" type="person"/>
-    <ptr target="#CN0361128T02AA" type="place"/>
+    <ptr target="#PL000000020130" type="place"/>
   </linkGrp>
   <linkGrp>
     <link targets="#0932b08 #0932b08"/>
     <ptr target="#A001037" type="person"/>
-    <ptr target="#CN0330211T01AA" type="place"/>
+    <ptr target="#PL000000012255" type="place"/>
   </linkGrp>
   <linkGrp>
     <link targets="#0932b08 #0932b09"/>
     <ptr target="#A001037" type="person"/>
-    <ptr target="#CN0330106T01AA" type="place"/>
+    <ptr target="#PL000000011596" type="place"/>
     <ptr target="#j21582822158665" type="time"/>
   </linkGrp>
   <linkGrp>
     <link targets="#0932b08 #0932b10"/>
     <ptr target="#A000322" type="person"/>
-    <ptr target="#CN0330211T01AA" type="place"/>
+    <ptr target="#PL000000012255" type="place"/>
     <ptr target="#j21582822158665" type="time"/>
   </linkGrp>
 </div>

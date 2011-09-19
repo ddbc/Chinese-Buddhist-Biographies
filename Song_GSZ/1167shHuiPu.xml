@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0869a03shiFaZhao">
     <anchor n="T.50.2061.0869a03"/><head><date from-iso="0618-06-21" key="j19469512052491" to-iso="0907-06-06">唐</date>蘄州廣濟縣清著禪院<persName key="A013597">慧普</persName>傳</head><p>
-<lb ed="T" n="0869a04"/><persName key="A013597">釋慧普</persName>，姓宋，本郡<placeName key="CN0421125Z06AA">蘄水</placeName>人也。性地疎朗，敏利
+<lb ed="T" n="0869a04"/><persName key="A013597">釋慧普</persName>，姓宋，本郡<placeName key="PL000000028041">蘄水</placeName>人也。性地疎朗，敏利
 <lb ed="T" n="0869a05"/>桀然，既奉尸羅，氷雪任操。<date key="j20194882019871" notAfter-iso="0818-02-12" notBefore-iso="0817-01-25">元和十二年</date>，樂
-<lb ed="T" n="0869a06"/><placeName key="CN0421182Z04AA">廣濟</placeName>山秀地靈，願棲于此。始謀誦大涅槃
+<lb ed="T" n="0869a06"/><placeName key="PL000000028191">廣濟</placeName>山秀地靈，願棲于此。始謀誦大涅槃
 <lb ed="T" n="0869a07"/>經，歷稔彌年，卒通四十二卷。聞者憮然曰：
 <lb ed="T" n="0869a08"/>「四帙大經，若為溫習，非揣量而可庶幾乎！」
 <lb ed="T" n="0869a09"/>或疑其妄言徹部，有亂次舉品題以試驗
@@ -17,7 +17,7 @@
     <linkGrp>
         <link targets="#0869a05 #0869a07"/>
         <ptr target="#A013597" type="person"/>
-        <ptr target="#CN0421182Z04AA" type="place"/>
+        <ptr target="#PL000000028191" type="place"/>
         <ptr target="#j20194882019871" type="time"/>
     </linkGrp>
 </div>

@@ -1,29 +1,29 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0784a21shiWeiJing">
     <anchor n="T.50.2061.0784a21"/><head><date from-iso="0618-06-21" key="j19469512052491" to-iso="0907-06-06">唐</date>明州伏龍山<persName key="A010648">惟靖</persName>傳</head><p>
-<lb ed="T" n="0784a22"/><persName key="A010648">釋惟靖</persName>，<placeName key="CN0320503Z16AA">吳門</placeName>人也。年三十許，形奇貌古，且類
-<lb ed="T" n="0784a23"/>憨癡，入<placeName key="CN0330203T01AA">國寧寺</placeName>，巡僧房唱曰：「要人出家
+<lb ed="T" n="0784a22"/><persName key="A010648">釋惟靖</persName>，<placeName key="PL000000009928">吳門</placeName>人也。年三十許，形奇貌古，且類
+<lb ed="T" n="0784a23"/>憨癡，入<placeName key="PL000000012166">國寧寺</placeName>，巡僧房唱曰：「要人出家
 <lb ed="T" n="0784a24"/>請留下。」至經藏院<!--找不到此地-->，見二眾闍黎大德<persName key="A010650">慧政</persName>，
 <lb ed="T" n="0784a25"/>便跪拜伸誠，願容執侍。<persName key="A010650">政公</persName>允納，與翦飾。
-<lb ed="T" n="0784a26"/>於<placeName key="CN0331023M01AA">天台</placeName>受具，暫歸謝<persName key="A010650">政</persName>，便尋訪名山。有知
+<lb ed="T" n="0784a26"/>於<placeName key="PL000000014411">天台</placeName>受具，暫歸謝<persName key="A010650">政</persName>，便尋訪名山。有知
 <lb ed="T" n="0784a27"/>識處，必經寒燠。自爾勤於禪法，未嘗發
-<lb ed="T" n="0784a28"/>言，即居<persName key="A004834">定光禪師</persName>廢<placeName key="CN0331023T21AA">金地道場</placeName>。侵星赴<placeName key="CN0331023T06AA">禪
+<lb ed="T" n="0784a28"/>言，即居<persName key="A004834">定光禪師</persName>廢<placeName key="PL000000014708">金地道場</placeName>。侵星赴<placeName key="PL000000014691">禪
 <lb ed="T" n="0784a29"/>林寺</placeName>晨粥，而多虎豹，隨到寺門，虎踞地若<pb ed="T" n="0784b" xml:id="T50.2061.0784b"/>
-<lb ed="T" n="0784b01"/>伺候。<persName key="A010648">靖</persName>出，復隨至<placeName key="CN0331023T21AA">金地</placeName>。遲明，巨迹極多。<persName key="A010648">靖</persName>恐
+<lb ed="T" n="0784b01"/>伺候。<persName key="A010648">靖</persName>出，復隨至<placeName key="PL000000014708">金地</placeName>。遲明，巨迹極多。<persName key="A010648">靖</persName>恐
 <lb ed="T" n="0784b02"/>人知，以鋤滅虎跡。俄患背疽，困睡，有鴆鳥
 <lb ed="T" n="0784b03"/>糞于瘡所，非久全愈。又虞氷雪，備粳粒半
 <lb ed="T" n="0784b04"/>斗，每日以銚合菜煮食，寘粳於地窖中。過
 <lb ed="T" n="0784b05"/>期，用米常滿不耗。<persName key="A010648">靖</persName>乃築之而云：「<persName key="A010648">吾</persName>被此
-<lb ed="T" n="0784b06"/>物知，非理也。」尋居<placeName key="CN0330283M04AA">伏龍山</placeName>，山可瞰海，峯勢
+<lb ed="T" n="0784b06"/>物知，非理也。」尋居<placeName key="PL000000012461">伏龍山</placeName>，山可瞰海，峯勢
 <lb ed="T" n="0784b07"/>岧嶢，昔僧<persName key="A010653">鑒諸</persName>曾隱于是。<persName key="A010653">諸</persName>即唐王相國之
 <lb ed="T" n="0784b08"/>母弟也，能文習道，刺史多往謁之。<persName key="A010648">靖</persName>續遁
-<lb ed="T" n="0784b09"/>此<placeName key="CN0330283M04AA">山</placeName>，刺史<persName key="A007285">黃晟</persName>常請出州，供施繁委。末於
-<lb ed="T" n="0784b10"/><placeName key="CN0330283Z12AA">奉川</placeName>北山置院示疾坐終，享齡七十餘。窆
+<lb ed="T" n="0784b09"/>此<placeName key="PL000000012461">山</placeName>，刺史<persName key="A007285">黃晟</persName>常請出州，供施繁委。末於
+<lb ed="T" n="0784b10"/><placeName key="PL000000012481">奉川</placeName>北山置院示疾坐終，享齡七十餘。窆
 <lb ed="T" n="0784b11"/>于山下，塋塔存焉。</p>
     <linkGrp>
         <link targets="#0784a23 #0784a24"/>
         <ptr target="#A010648" type="person"/>
-        <ptr target="#CN0330203T01AA" type="place"/>
+        <ptr target="#PL000000012166" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0784a24 #0784a25"/>
@@ -33,17 +33,17 @@
     <linkGrp>
         <link targets="#0784a26 #0784a28"/>
         <ptr target="#A010648" type="person"/>
-        <ptr target="#CN0331023T21AA" type="place"/>
+        <ptr target="#PL000000014708" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0784a26 #0784a29"/>
         <ptr target="#A010648" type="person"/>
-        <ptr target="#CN0331023T06AA" type="place"/>
+        <ptr target="#PL000000014691" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0784b06 #0784b07"/>
         <ptr target="#A010648" type="person"/>
-        <ptr target="#CN0330283M04AA" type="place"/>
+        <ptr target="#PL000000012461" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0784b08 #0784b09"/>

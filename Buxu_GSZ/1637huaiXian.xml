@@ -1,31 +1,112 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0414b05huaiXian">
     <head><lb ed="X" n="0414b05"/>　　　　<persName key="A014477">懷賢</persName>禪師傳</head>
-    <p><anchor n="X.77.1524.0414b06"/><lb ed="X" n="0414b06"/>金山<placeName key="CN0321111T03AA">龍游寺</placeName>。<persName key="A014477">圓通</persName>禪師。諱<persName key="A014477">懷賢</persName>。字<persName key="A014477">潛道</persName>。溫州<placeName key="CN0330302Z09AA">永嘉</placeName>何
-        <lb ed="X" n="0414b07"/>氏子。在襁褓中。能合掌僧坐。四歲從嗣<persName key="unknown">仁社主</persName>。出家
+    <p><anchor n="X.77.1524.0414b06"/><lb ed="X" n="0414b06"/>金山<placeName key="PL000000011011">龍游寺</placeName>。<persName key="A014477">圓通</persName>禪師。諱<persName key="A014477">懷賢</persName>。字<persName key="A014477">潛道</persName>。溫州<placeName key="PL000000012518">永嘉</placeName>何
+        <lb ed="X" n="0414b07"/>氏子。在襁褓中。能合掌僧坐。<date key="j20932422093606" when-iso="1019">四歲</date>從<persName key="A021897">嗣仁社主</persName>。出家
         <lb ed="X" n="0414b08"/>受戒。有講席輒往聽。盡得其學。及長歎曰。說食能飽
-        <lb ed="X" n="0414b09"/>人乎。別社主。去遍參。最後見<persName key="A014384">達觀頴</persName>于潤之<placeName key="unknown">因聖</placeName>。初
-        <lb ed="X" n="0414b10"/>師從<persName key="unknown">瑞新</persName>禪師遊頗久。具知宗門承襲賓主之說。自
+        <lb ed="X" n="0414b09"/>人乎。別<persName key="A021897">社主</persName>。去遍參。最後見<persName key="A014384">達觀頴</persName>于潤之<placeName key="PL000000010974">因聖</placeName>。初
+        <lb ed="X" n="0414b10"/>師從<persName key="A021029">瑞新</persName>禪師遊頗久。具知宗門承襲賓主之說。自
         <lb ed="X" n="0414b11"/>謂無以復加。比至<persName key="A014384">達觀</persName>會中。聞所開示類。皆世緣俗
         <lb ed="X" n="0414b12"/>諦。非談諧嵬[瑙-囟+貝]。則罵詈不已。心竊陋之。乃潛詣丈室。
         <lb ed="X" n="0414b13"/>請白曰。為人天師。當只說法。奈何預以世間事。且僧
         <lb ed="X" n="0414b14"/>有過斥去則已。何足追罵至累日乎。<persName key="A014384">觀</persName>頷而不答。師
-        <lb ed="X" n="0414b15"/>因此省悟。初開法于太平<placeName key="CN0340222T02AA">隱靜</placeName>。嗣主<placeName key="CN0321102M03AA">金山</placeName>。<placeName key="CN0321102M03AA">金山</placeName>當孔
-        <lb ed="X" n="0414b16"/>道。客至無虗日。師頗厭之。<date from-iso="1068-02-12" to-iso="1069-01-31" key="j21111812111535">熙寧元年</date>。遂謝事。隱于<placeName key="CN0321181M01AA">金<lb ed="X" n="0414b17"/>牛山</placeName>。山去丹陽數十里。人跡罕。至庭養猨[鴳-女+隹]孔[少/隹]鸚
+        <lb ed="X" n="0414b15"/>因此省悟。初開法于太平<placeName key="PL000000015146">隱靜</placeName>。嗣主<placeName key="PL000000010966">金山</placeName>。<placeName key="PL000000010966">金山</placeName>當孔
+        <lb ed="X" n="0414b16"/>道。客至無虗日。師頗厭之。<date from-iso="1068-02-12" to-iso="1069-01-31" key="j21111812111535">熙寧元年</date>。遂謝事。隱于<placeName key="PL000000011033">金<lb ed="X" n="0414b17"/>牛山</placeName>。山去丹陽數十里。人跡罕。至庭養猨[鴳-女+隹]孔[少/隹]鸚
         <lb ed="X" n="0414b18"/>鵡白鷴。皆就掌取食。號五客。各為一詩。贈之士大夫。
-        <lb ed="X" n="0414b19"/>欲相見者。就山中訪焉。廬山之<placeName key="CN0360421T01AA">圓通</placeName>。明州之<placeName key="CN0330283T01AA">雪竇</placeName>。相
-        <lb ed="X" n="0414b20"/>次堅懇。各住一年。<placeName key="CN0330283T01AA">雪竇</placeName>至。前後二十年間。三請乃赴。
-        <lb ed="X" n="0414b21"/>其行由海道。遇大風。漂至<placeName key="CN0330205Z04AA">慈溪</placeName>東岸。舟破。從者多人
+        <lb ed="X" n="0414b19"/>欲相見者。就山中訪焉。廬山之<placeName key="PL000000018855">圓通</placeName>。明州之<placeName key="PL000000012462">雪竇</placeName>。相
+        <lb ed="X" n="0414b20"/>次堅懇。各住一年。<placeName key="PL000000012462">雪竇</placeName>至。前後二十年間。三請乃赴。
+        <lb ed="X" n="0414b21"/>其行由海道。遇大風。漂至<placeName key="PL000000012222">慈溪</placeName>東岸。舟破。從者多人
         <lb ed="X" n="0414b22"/>皆散走。師獨安坐水中不動。以<date when-iso="1082-10-16" key="j21165412116541">元豐五年九月甲午</date>。
-        <lb ed="X" n="0414b23"/>示滅于<placeName key="CN0321181M01AA">金牛</placeName>。壽六十七。臘六十三。弟子<persName key="unknown">覺澄</persName>等。塔全
-        <lb ed="X" n="0414b24"/>身于西隴<placeName key="unknown">淮海</placeName>。<persName key="A003973">秦少游</persName>觀為師狀曰。師操行卓越。而
+        <lb ed="X" n="0414b23"/>示滅于<placeName key="PL000000011033">金牛</placeName>。壽六十七。臘六十三。弟子<persName key="A021899">覺澄</persName>等。塔全
+        <lb ed="X" n="0414b24"/>身于西隴<placeName key="PL000000000092">淮海</placeName>。<persName key="A003973">秦少游</persName>觀為師狀曰。師操行卓越。而
         <lb ed="X" n="0414c01"/>遇人有恩意。雖對賓客。未甞與眾異饌。夜輒從眾僧
         <lb ed="X" n="0414c02"/>寢于堂中。不入丈室。雅性樂施。所得金錢繒帛。率緣
         <lb ed="X" n="0414c03"/>手盡。又多才藝。工於詩字畫有法。閒居絕口。不掛事
         <lb ed="X" n="0414c04"/>事。雖交至錯出。處之晏然。無不集者當時賢士大夫
-        <lb ed="X" n="0414c05"/>聞其風。皆傾意願與之游。始用參知政事<persName key="unknown">高公若訥</persName>
+        <lb ed="X" n="0414c05"/>聞其風。皆傾意願與之游。始用參知政事<persName key="A021900">高公若訥</persName>
         <lb ed="X" n="0414c06"/>奏。賜紫方袍。又用節度使<persName key="A017461">李公端愿</persName>。奏賜號<persName key="A014477">圓通大<lb ed="X" n="0414c07"/>師</persName>。凡十被請從之者四。皆天下名山巨剎。道化方行。
         <lb ed="X" n="0414c08"/>輒託事隱去。州郡雖欲挽而留之。不可得也。弟子五
         <lb ed="X" n="0414c09"/>十有五人。所著詩頌文集。凡五卷。又撰次其自少至
         <lb ed="X" n="0414c10"/>老出處之跡一篇。號穉耄典記。以自見云。</p>
+    
+    <linkGrp>
+        <link targets="#0414b06 #0414b06"/>
+        <ptr target="#A014477" type="person"/>
+        <ptr target="#PL000000011011" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0414b06 #0414b07"/>
+        <ptr target="#A014477" type="person"/>
+        <ptr target="#PL000000012518" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0414b07 #0414b08"/>
+        <ptr target="#A014477" type="person"/>
+        <ptr target="#A021897" type="person"/>
+        <ptr target="#j20932422093606" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0414b08 #0414b15"/>
+        <ptr target="#A014477" type="person"/>
+        <ptr target="#A014384" type="person"/>
+        <ptr target="#PL000000010974" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0414b09 #0414b10"/>
+        <ptr target="#A014477" type="person"/>
+        <ptr target="#A021029" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0414b15 #0414b15"/>
+        <ptr target="#A014477" type="person"/>
+        <ptr target="#PL000000015146" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0414b15 #0414b16"/>
+        <ptr target="#A014477" type="person"/>
+        <ptr target="#PL000000010966" type="place"/>
+        <ptr target="#j21111812111535" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0414b16 #0414b19"/>
+        <ptr target="#A014477" type="person"/>
+        <ptr target="#PL000000011033" type="place"/>
+        <ptr target="#j21111812111535" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0414b19 #0414b20"/>
+        <ptr target="#A014477" type="person"/>
+        <ptr target="#PL000000018855" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0414b19 #0414b20"/>
+        <ptr target="#A014477" type="person"/>
+        <ptr target="#PL000000012462" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0414b20 #0414b22"/>
+        <ptr target="#A014477" type="person"/>
+        <ptr target="#PL000000012222" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0414b22 #0414b23"/>
+        <ptr target="#A014477" type="person"/>
+        <ptr target="#PL000000011033" type="place"/>
+        <ptr target="#j21165412116541" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0414b23 #0414b24"/>
+        <ptr target="#A021899" type="person"/>
+        <ptr target="#PL000000000092" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0414c05 #0414c06"/>
+        <ptr target="#A014477" type="person"/>
+        <ptr target="#A021900" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0414c06 #0414c07"/>
+        <ptr target="#A014477" type="person"/>
+        <ptr target="#A017461" type="person"/>
+    </linkGrp>
 </div>

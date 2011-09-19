@@ -1,15 +1,15 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0664c26shiSengMing">
-    <p><anchor n="T.50.2060.0664c26"/><lb ed="T" n="0664c26"/><persName key="A007008">釋僧明</persName>者。不知何人。在<placeName key="CN0140922T07AA">五臺娑婆古寺</placeName>。所<lb ed="T" n="0664c27"/>營屋宇二十餘間。守一切經。禪誦為業。自<lb ed="T" n="0664c28"/>云。<date key="j19318061932170" from-iso="0577-01-01" to-iso="0577-12-31">年十七</date>時從師上<placeName key="CN0140900M01AA">五臺</placeName>。東禮<placeName key="CN0140921M01AA">花林山</placeName>訪<lb ed="T" n="0664c29"/><persName key="A002144">文殊師利</persName>。至一石谷。漸深見有石臼木杵。<lb ed="T" n="0665a01"/>又見兩人形大無影眉長披髮眼瞼上掩。<lb ed="T" n="0665a02"/><persName key="A007008">師</persName>便頂禮請救。其人曰汝穀臭小遠從何<lb ed="T" n="0665a03"/>來。答<placeName key="CN0140922T04AA">昭果寺</placeName>僧。習禪樂道。隱在<placeName key="CN0140922T07AA">娑婆</placeName>已數<lb ed="T" n="0665a04"/>十年。然食五穀願真人救苦報。曰待共眾<lb ed="T" n="0665a05"/>議。須臾更一人來。長大著樹皮衣。云<persName key="A007008">汝</persName>來<lb ed="T" n="0665a06"/>已久。可遂我至寺。行大石側。忽見山谷異<lb ed="T" n="0665a07"/>常廊院周遶狀若天宮。有十四五人同坐<lb ed="T" n="0665a08"/>談笑。問所來方。言議久之。送出後重尋失<lb ed="T" n="0665a09"/>路。還舊業定。以<date key="j19555841955938" from-iso="0642-02-08" to-iso="0643-01-28">貞觀十六年</date>卒。八十一矣。<lb ed="T" n="0665a10"/>今<placeName key="CN0140922T07AA">娑婆寺</placeName>二甎塔存。</p>
+    <p><anchor n="T.50.2060.0664c26"/><lb ed="T" n="0664c26"/><persName key="A007008">釋僧明</persName>者。不知何人。在<placeName key="PL000000005366">五臺娑婆古寺</placeName>。所<lb ed="T" n="0664c27"/>營屋宇二十餘間。守一切經。禪誦為業。自<lb ed="T" n="0664c28"/>云。<date key="j19318061932170" from-iso="0577-01-01" to-iso="0577-12-31">年十七</date>時從師上<placeName key="PL000000005250">五臺</placeName>。東禮<placeName key="PL000000005293">花林山</placeName>訪<lb ed="T" n="0664c29"/><persName key="A002144">文殊師利</persName>。至一石谷。漸深見有石臼木杵。<lb ed="T" n="0665a01"/>又見兩人形大無影眉長披髮眼瞼上掩。<lb ed="T" n="0665a02"/><persName key="A007008">師</persName>便頂禮請救。其人曰汝穀臭小遠從何<lb ed="T" n="0665a03"/>來。答<placeName key="PL000000005360">昭果寺</placeName>僧。習禪樂道。隱在<placeName key="PL000000005366">娑婆</placeName>已數<lb ed="T" n="0665a04"/>十年。然食五穀願真人救苦報。曰待共眾<lb ed="T" n="0665a05"/>議。須臾更一人來。長大著樹皮衣。云<persName key="A007008">汝</persName>來<lb ed="T" n="0665a06"/>已久。可遂我至寺。行大石側。忽見山谷異<lb ed="T" n="0665a07"/>常廊院周遶狀若天宮。有十四五人同坐<lb ed="T" n="0665a08"/>談笑。問所來方。言議久之。送出後重尋失<lb ed="T" n="0665a09"/>路。還舊業定。以<date key="j19555841955938" from-iso="0642-02-08" to-iso="0643-01-28">貞觀十六年</date>卒。八十一矣。<lb ed="T" n="0665a10"/>今<placeName key="PL000000005366">娑婆寺</placeName>二甎塔存。</p>
     <linkGrp>
         <link targets="#0664c26 #0664c27"/>
         <ptr target="#A007008" type="person"/>
-        <ptr target="#CN0140922T07AA" type="place"/>
+        <ptr target="#PL000000005366" type="place"/>
         </linkGrp>
     <linkGrp>
         <link targets="#0664c28 #0664c29"/>
         <ptr target="#A007008" type="person"/>
-        <ptr target="#CN0140921M01AA" type="place"/>
+        <ptr target="#PL000000005293" type="place"/>
         <ptr target="#j19318061932170" type="time"/>
     </linkGrp>
     <linkGrp>

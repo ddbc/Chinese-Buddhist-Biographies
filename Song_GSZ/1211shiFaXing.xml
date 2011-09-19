@@ -1,21 +1,21 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0882c21shiFaXing">
     <anchor n="T.50.2061.0882c21"/><head><date from-iso="0618-06-21" key="j19469512052491" to-iso="0907-06-06">唐</date>五臺山佛光寺<persName key="A013770">法興</persName>傳</head><p>
-<lb ed="T" n="0882c22"/><persName key="A013770">釋法興</persName>，<placeName key="CN0410302Z03AA">洛京</placeName>人也。七歲出家，不參流俗。執
+<lb ed="T" n="0882c22"/><persName key="A013770">釋法興</persName>，<placeName key="PL000000023581">洛京</placeName>人也。七歲出家，不參流俗。執
 <lb ed="T" n="0882c23"/>巾提盥，罔憚勤苦。諷念法華，年周部帙。
 <lb ed="T" n="0882c24"/>又誦淨名經，匪逾九旬。戒律軌儀，有持無
-<lb ed="T" n="0882c25"/>犯。來尋聖跡，樂止林泉，隷名<placeName key="CN0140922T12AA">佛光寺</placeName>。節操
+<lb ed="T" n="0882c25"/>犯。來尋聖跡，樂止林泉，隷名<placeName key="PL000000005371">佛光寺</placeName>。節操
 <lb ed="T" n="0882c26"/>孤頴，所霑利物，身不<anchor xml:id="beg0882005"/>主<anchor xml:id="end0882005"/>持，付屬門人。即修
 <lb ed="T" n="0882c27"/>功德，建三層七間彌勒大閣，高九十五尺。尊
-<lb ed="T" n="0882c28"/>像七十二位。聖賢、<persName key="G000035">八大龍王</persName>，罄從嚴飾。<placeName key="CN0140900M01AA">臺山</placeName>
+<lb ed="T" n="0882c28"/>像七十二位。聖賢、<persName key="G000035">八大龍王</persName>，罄從嚴飾。<placeName key="PL000000005250">臺山</placeName>
 <lb ed="T" n="0882c29"/>海眾異舌同辭，請充山門都焉。蓋從其統<pb ed="T" n="0883a" xml:id="T50.2061.0883a"/>
 <lb ed="T" n="0883a01"/>攝，規範準繩，和暢無爭故也。<date key="j20235052023888" notAfter-iso="0829-02-11" notBefore-iso="0828-01-25">大和二年春正
-<lb ed="T" n="0883a02"/>月</date>，聞空有聲云：「入滅時至，<placeName key="XZ0000002A01AA">兜率天</placeName>眾今來迎
-<lb ed="T" n="0883a03"/>導。」於是洗浴<anchor xml:id="beg0883001"/>梵<anchor xml:id="end0883001"/>香，端坐入滅。建塔于<placeName key="CN0140922T12AA">寺</placeName>西
+<lb ed="T" n="0883a02"/>月</date>，聞空有聲云：「入滅時至，<placeName key="PL000000055446">兜率天</placeName>眾今來迎
+<lb ed="T" n="0883a03"/>導。」於是洗浴<anchor xml:id="beg0883001"/>梵<anchor xml:id="end0883001"/>香，端坐入滅。建塔于<placeName key="PL000000005371">寺</placeName>西
 <lb ed="T" n="0883a04"/>北一里所。</p>
     <linkGrp>
         <link targets="#0882c04 #0882c28"/>
         <ptr target="#A013770" type="person"/>
-        <ptr target="#CN0140922T12AA" type="place"/>
+        <ptr target="#PL000000005371" type="place"/>
     </linkGrp>
 </div>

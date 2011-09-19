@@ -1,15 +1,15 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0396c03shiXianHu">
-    <p><anchor n="T.50.2059.0396c03"/><ptr target="fn22"/><lb ed="T" n="0396c03"/><persName key="A002300">釋賢護</persName>，姓孫，<placeName key="CN0620602Z10AA">涼州</placeName>人。來止<placeName key="CN0510681T01AA">廣漢閻興寺</placeName>，常<lb ed="T" n="0396c05"/>習禪定為業，又善於律行，纖毫無犯。以<lb ed="T" n="0396c06"/><date key="j18675531867936" from-iso="0401-01-31" to-iso="0402-02-18">晉隆安五年</date>卒，臨亡口出五色光明，照滿<lb ed="T" n="0396c07"/><placeName key="CN0510681T01AA">寺</placeName>內。遺言使燒身，弟子行之，既而<ptr target="fn23"/>支節都<lb ed="T" n="0396c08"/>盡，<ptr target="fn24"/>唯一指不然，<ptr target="fn25"/>因埋之塔下。</p>
+    <p><anchor n="T.50.2059.0396c03"/><ptr target="fn22"/><lb ed="T" n="0396c03"/><persName key="A002300">釋賢護</persName>，姓孫，<placeName key="PL000000045052">涼州</placeName>人。來止<placeName key="PL000000035339">廣漢閻興寺</placeName>，常<lb ed="T" n="0396c05"/>習禪定為業，又善於律行，纖毫無犯。以<lb ed="T" n="0396c06"/><date key="j18675531867936" from-iso="0401-01-31" to-iso="0402-02-18">晉隆安五年</date>卒，臨亡口出五色光明，照滿<lb ed="T" n="0396c07"/><placeName key="PL000000035339">寺</placeName>內。遺言使燒身，弟子行之，既而<ptr target="fn23"/>支節都<lb ed="T" n="0396c08"/>盡，<ptr target="fn24"/>唯一指不然，<ptr target="fn25"/>因埋之塔下。</p>
     <linkGrp>
         <link targets="#0396c03 #0396c05"/>
         <ptr target="#A002300" type="person"/>
-        <ptr target="#CN0510681T01AA" type="place"/>
+        <ptr target="#PL000000035339" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0396c06 #0396c08"/>
         <ptr target="#A002300" type="person"/>
-        <ptr target="#CN0510681T01AA" type="place"/>
+        <ptr target="#PL000000035339" type="place"/>
         <ptr target="#j18675531867936" type="time"/>
     </linkGrp>
 </div>

@@ -1,17 +1,17 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="bqnz0938a07daoQiongNi">
-    <head><placeName key="CN0320106T35AA">建福寺</placeName><persName key="A015026">道<ptr target="fn2"/>瓊</persName>尼<ptr target="fn3"/>傳四</head><p><anchor n="T.50.2063.0938a08"/><lb ed="T" n="0938a08"/><persName key="A015026">道<ptr target="fn＊"/>瓊</persName>，本姓江，<placeName key="CN0320105Z02AA">丹陽</placeName>人也。年十餘，博涉經史。<lb ed="T" n="0938a09"/>成戒已後，明達三藏，精勤苦行。晉<date from-iso="0376-02-10" key="j18584311866007" to-iso="0396-11-07">太元</date>中，皇<lb ed="T" n="0938a10"/>后美其高行，凡<ptr target="fn4"/>有所修福，多憑<ref target="#CN0320106T35AA" type="place">斯寺</ref>。富貴婦<lb ed="T" n="0938a11"/>女，爭與<ref target="#A015026" type="person">之</ref>遊。以<date from-iso="0431-01-30" key="j18785091878892" to-iso="0432-02-17">元嘉八年</date>大造形像，處處安<lb ed="T" n="0938a12"/>置。<placeName key="CN0320103T06AA">彭城寺</placeName>金像二軀，帳座<ptr target="fn5"/>完具；<placeName key="CN0320104T02AA">瓦官寺</placeName>彌<lb ed="T" n="0938a13"/>勒行像一軀，寶蓋瓔珞；南建興寺金像二軀，<lb ed="T" n="0938a14"/>雜事幡蓋。於<placeName key="CN0320106T35AA">建福寺</placeName>造臥像并堂，又<ptr target="fn6"/>製<persName key="A003079">普賢</persName><lb ed="T" n="0938a15"/>行像，供養之具，靡不精麗。又以<date from-iso="0438-02-11" key="j18810781881432" to-iso="0439-01-31">元嘉十五年</date><lb ed="T" n="0938a16"/>造金無量壽像，以<date key="j18811761881176" when-iso="0438-05-20">其年四月<ptr target="fn7"/>十日</date>，像放眉間<lb ed="T" n="0938a17"/>相光，明照<ref target="#CN0320106T35AA" type="place">寺</ref>內，皆如金色。道俗相傳，咸來修<lb ed="T" n="0938a18"/>敬，瞻覩神輝，莫不<ptr target="fn8"/>歡悅。復以<persName key="A015127">元皇后</persName>遺物，<lb ed="T" n="0938a19"/>開拓<ref target="#CN0320106T35AA" type="place">寺</ref>南，更造禪房<ptr target="fn9"/>云。</p>
+    <head><placeName key="PL000000008960">建福寺</placeName><persName key="A015026">道<ptr target="fn2"/>瓊</persName>尼<ptr target="fn3"/>傳四</head><p><anchor n="T.50.2063.0938a08"/><lb ed="T" n="0938a08"/><persName key="A015026">道<ptr target="fn＊"/>瓊</persName>，本姓江，<placeName key="PL000000008883">丹陽</placeName>人也。年十餘，博涉經史。<lb ed="T" n="0938a09"/>成戒已後，明達三藏，精勤苦行。晉<date from-iso="0376-02-10" key="j18584311866007" to-iso="0396-11-07">太元</date>中，皇<lb ed="T" n="0938a10"/>后美其高行，凡<ptr target="fn4"/>有所修福，多憑<ref target="#PL000000008960" type="place">斯寺</ref>。富貴婦<lb ed="T" n="0938a11"/>女，爭與<ref target="#A015026" type="person">之</ref>遊。以<date from-iso="0431-01-30" key="j18785091878892" to-iso="0432-02-17">元嘉八年</date>大造形像，處處安<lb ed="T" n="0938a12"/>置。<placeName key="PL000000008803">彭城寺</placeName>金像二軀，帳座<ptr target="fn5"/>完具；<placeName key="PL000000008823">瓦官寺</placeName>彌<lb ed="T" n="0938a13"/>勒行像一軀，寶蓋瓔珞；南建興寺金像二軀，<lb ed="T" n="0938a14"/>雜事幡蓋。於<placeName key="PL000000008960">建福寺</placeName>造臥像并堂，又<ptr target="fn6"/>製<persName key="A003079">普賢</persName><lb ed="T" n="0938a15"/>行像，供養之具，靡不精麗。又以<date from-iso="0438-02-11" key="j18810781881432" to-iso="0439-01-31">元嘉十五年</date><lb ed="T" n="0938a16"/>造金無量壽像，以<date key="j18811761881176" when-iso="0438-05-20">其年四月<ptr target="fn7"/>十日</date>，像放眉間<lb ed="T" n="0938a17"/>相光，明照<ref target="#PL000000008960" type="place">寺</ref>內，皆如金色。道俗相傳，咸來修<lb ed="T" n="0938a18"/>敬，瞻覩神輝，莫不<ptr target="fn8"/>歡悅。復以<persName key="A015127">元皇后</persName>遺物，<lb ed="T" n="0938a19"/>開拓<ref target="#PL000000008960" type="place">寺</ref>南，更造禪房<ptr target="fn9"/>云。</p>
     
     <linkGrp>
         <link targets="#0938a11 #0938a12"/>
         <ptr target="#A015026" type="person"/>
-        <ptr target="#CN0320103T06AA" type="place"/>
+        <ptr target="#PL000000008803" type="place"/>
         <ptr target="#j18785091878892" type="time"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0938a11 #0938a13"/>
         <ptr target="#A015026" type="person"/>
-        <ptr target="#CN0320104T02AA" type="place"/>
+        <ptr target="#PL000000008823" type="place"/>
         <ptr target="#j18785091878892" type="time"/>
     </linkGrp>
     <linkGrp>
@@ -27,7 +27,7 @@
     <linkGrp>
         <link targets="#0938a09 #0938a11"/>
         <ptr target="#A015026" type="person"/>
-        <ptr target="#CN0320106T35AA" type="place"/>
+        <ptr target="#PL000000008960" type="place"/>
         <ptr target="#j18584311866007" type="time"/>
     </linkGrp>
 </div>

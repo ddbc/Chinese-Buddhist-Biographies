@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0814a14shiShenWu">
     <anchor n="T.50.2061.0814a14"/><head><date from-iso="0618-06-21" key="j19469512052491" to-iso="0907-06-06">唐</date>潤州石圯山<persName key="A011756">神悟</persName>傳</head><p>
-<lb ed="T" n="0814a15"/><persName key="A011756">釋神悟</persName>，字<persName key="A011756">通性</persName>，<placeName key="CN0620524Z02AA">隴西</placeName>李氏之子。其先屬西晉
-        <lb ed="T" n="0814a16"/>版蕩，遷家于<placeName key="CN0320503A05AA">吳之長水</placeName>也。世襲儒素，幼為
+<lb ed="T" n="0814a15"/><persName key="A011756">釋神悟</persName>，字<persName key="A011756">通性</persName>，<placeName key="PL000000044997">隴西</placeName>李氏之子。其先屬西晉
+        <lb ed="T" n="0814a16"/>版蕩，遷家于<placeName key="PL000000009867">吳之長水</placeName>也。世襲儒素，幼為
 <lb ed="T" n="0814a17"/>諸生。及<date key="j19796511980016" from-iso="0708-01-01" to-iso="0708-12-31">冠</date>，忽嬰惡疾，有不可救之狀。咎
 <lb ed="T" n="0814a18"/>心補行，力將何施？<date from-iso="0713" key="j19818371992113" to-iso="0742">開元</date>中詣<persName key="A011757">溪光律師</persName>，請
 <lb ed="T" n="0814a19"/>耆域之方，執門人之禮。師示以遣業之教，
@@ -15,7 +15,7 @@
 <lb ed="T" n="0814a26"/>每置法華道場九旬，入長行禮念觀佛三昧，
 <lb ed="T" n="0814a27"/>於斯現前因。語門人曰：「夫陰薄日以何傷，
 <lb ed="T" n="0814a28"/>風運空而不動，苟達於妄，誰非性也。」方結
-<lb ed="T" n="0814a29"/>宇於勞勞山東。中據<placeName key="CN0321102M04AA">石<app type="cb-app" xml:id="begd1e28793"/>圯<anchor xml:id="endd1e28793"/></placeName>，達分仙徑，諸猛<pb ed="T" n="0814b" xml:id="T50.2061.0814b"/>
+<lb ed="T" n="0814a29"/>宇於勞勞山東。中據<placeName key="PL000000010967">石<app type="cb-app" xml:id="begd1e28793"/>圯<anchor xml:id="endd1e28793"/></placeName>，達分仙徑，諸猛<pb ed="T" n="0814b" xml:id="T50.2061.0814b"/>
 <lb ed="T" n="0814b01"/>獸馴於禪榻，祥雲低於法堂。中夜有山神
 <lb ed="T" n="0814b02"/>現形，謂<persName key="A011756">悟</persName>曰：「弟子即隋故新成侯<persName key="A011762">曹世安</persName>，生
 <lb ed="T" n="0814b03"/>為列侯，死典南嶺。今<persName key="A011756">師</persName>至止，願以此地永
@@ -41,20 +41,20 @@
     <linkGrp>
         <link targets="#0814a29 #0814b04"/>
         <ptr target="#A011756" type="person"/>
-        <ptr target="#CN0321102M04AA" type="place"/>
+        <ptr target="#PL000000010967" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0814b04 #0814b09"/>
         <ptr target="#A011756" type="person"/>
         <ptr target="#A011763" type="person"/>
         <ptr target="#A000519" type="person"/>
-        <ptr target="#CN0321102M04AA" type="place"/>
+        <ptr target="#PL000000010967" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0814b16 #0814b16"/>
         <ptr target="#A011756" type="person"/>
         <ptr target="#A011768" type="person"/>
         <ptr target="#A011767" type="person"/>
-        <ptr target="#CN0321102M04AA" type="place"/>
+        <ptr target="#PL000000010967" type="place"/>
     </linkGrp>
 </div>

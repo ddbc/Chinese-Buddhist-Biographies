@@ -1,13 +1,13 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0370a19shiHuiAn">
-	<p><anchor n="T.50.2059.0370a19"/><lb ed="T" n="0370a19"/><persName key="A002233">釋<ptr target="fn＊"/>慧安</persName>，未詳<ptr target="fn09"/>是何人。蔬食精苦，學通經<lb ed="T" n="0370a20"/>義，兼能善說，又以專戒見稱。誦經<ptr target="fn10"/>四十<lb ed="T" n="0370a21"/>餘萬言。止<placeName key="CN0360402M01AA">廬山</placeName><ptr target="fn11"/><placeName key="CN0360402T01AA">陵雲寺</placeName>，學徒雲聚，千里從<lb ed="T" n="0370a22"/>風。常捉一杖，云是西域僧所施。杖光色<lb ed="T" n="0370a23"/><ptr target="fn12"/>灼徹，亦頗有香氣。上有<ptr target="fn13"/>梵書，人莫能識。<lb ed="T" n="0370a24"/>後入<placeName key="CN0610000E01AA">關</placeName>詣<persName key="A001583">羅什</persName>，捉杖自隨。<persName key="A001583">什</persName>見<ptr target="fn14"/>杖驚曰：「此<lb ed="T" n="0370a25"/>杖迺在此間耶！」因譯其字云：「本生<placeName key="IN0000000E01AA">天竺</placeName><lb ed="T" n="0370a26"/><ptr target="fn15"/><placeName key="INUPKU000T01AA">娑羅林</placeName>，南方喪亂草付興，後得<persName key="A001583">羅什</persName>道教<lb ed="T" n="0370a27"/>隆。」<persName key="A002233">安</persName>後以杖嚫外國僧<persName key="A002934">波沙那</persName>，<persName key="A002934">那</persName>齎還<placeName key="CN0650000E01AA">西<lb ed="T" n="0370a28"/>域</placeName>。<persName key="A002233">安</persName>以<date from-iso="0424" key="j18761761886925" to-iso="0454">宋元嘉中</date>卒於<placeName key="CN0360402T01AA">山寺</placeName>。</p>
+	<p><anchor n="T.50.2059.0370a19"/><lb ed="T" n="0370a19"/><persName key="A002233">釋<ptr target="fn＊"/>慧安</persName>，未詳<ptr target="fn09"/>是何人。蔬食精苦，學通經<lb ed="T" n="0370a20"/>義，兼能善說，又以專戒見稱。誦經<ptr target="fn10"/>四十<lb ed="T" n="0370a21"/>餘萬言。止<placeName key="PL000000018775">廬山</placeName><ptr target="fn11"/><placeName key="PL000000018789">陵雲寺</placeName>，學徒雲聚，千里從<lb ed="T" n="0370a22"/>風。常捉一杖，云是西域僧所施。杖光色<lb ed="T" n="0370a23"/><ptr target="fn12"/>灼徹，亦頗有香氣。上有<ptr target="fn13"/>梵書，人莫能識。<lb ed="T" n="0370a24"/>後入<placeName key="PL000000042002">關</placeName>詣<persName key="A001583">羅什</persName>，捉杖自隨。<persName key="A001583">什</persName>見<ptr target="fn14"/>杖驚曰：「此<lb ed="T" n="0370a25"/>杖迺在此間耶！」因譯其字云：「本生<placeName key="PL000000048207">天竺</placeName><lb ed="T" n="0370a26"/><ptr target="fn15"/><placeName key="PL000000048391">娑羅林</placeName>，南方喪亂草付興，後得<persName key="A001583">羅什</persName>道教<lb ed="T" n="0370a27"/>隆。」<persName key="A002233">安</persName>後以杖嚫外國僧<persName key="A002934">波沙那</persName>，<persName key="A002934">那</persName>齎還<placeName key="PL000000047439">西<lb ed="T" n="0370a28"/>域</placeName>。<persName key="A002233">安</persName>以<date from-iso="0424" key="j18761761886925" to-iso="0454">宋元嘉中</date>卒於<placeName key="PL000000018789">山寺</placeName>。</p>
 	
 	
 	<linkGrp>
 		<link targets="#0370a24 #0370a26"/>
 		<ptr target="#A002233" type="person"/>
 		<ptr target="#A001583" type="person"/>
-		<ptr target="#CN0610000E01AA" type="place"/>
+		<ptr target="#PL000000042002" type="place"/>
 	</linkGrp>
 	<linkGrp>
 		<link targets="#0370a27 #0370a27"/>
@@ -17,17 +17,17 @@
 	<linkGrp>
 		<link targets="#0370a27 #0370a28"/>
 		<ptr target="#A002934" type="person"/>
-		<ptr target="#CN0610000E01AA" type="place"/>
+		<ptr target="#PL000000042002" type="place"/>
 	</linkGrp>
 	<linkGrp>
 		<link targets="#0370a28 #0370a28"/>
 		<ptr target="#A002233" type="person"/>
-		<ptr target="#CN0360402T01AA" type="place"/>
+		<ptr target="#PL000000018789" type="place"/>
 		<ptr target="#j18761761886925" type="time"/>
 	</linkGrp>
 	<linkGrp>
 		<link targets="#0370a21 #0370a23"/>
 		<ptr target="#A002233" type="person"/>
-		<ptr target="#CN0360402T01AA" type="place"/>
+		<ptr target="#PL000000018789" type="place"/>
 	</linkGrp>
 </div>

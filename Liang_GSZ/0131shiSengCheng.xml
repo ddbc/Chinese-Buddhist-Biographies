@@ -1,27 +1,27 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0381a19shiSengCheng">
-	<p><anchor n="T.50.2059.0381a19"/><lb ed="T" n="0381a19"/><persName key="A002272">釋僧盛</persName>，本姓何，<placeName key="CN0320106Z05AA">建鄴</placeName>人。少而神<ptr target="fn07"/>情聰敏，加<lb ed="T" n="0381a20"/>又志學翹勤，遂大明數論，兼善眾經，講說<lb ed="T" n="0381a21"/>為當時元匠。又特精外典，為群儒所憚。故<lb ed="T" n="0381a22"/>學館諸生，常以<persName key="A002272">盛公</persName>相脇。<date key="j19045261911021" notAfter-iso="0520" notBefore-iso="0502">天鑒中</date>，卒于<placeName key="CN0320102T25AA">靈曜<lb ed="T" n="0381a23"/>寺</placeName>，春秋五十餘。</p><p>時有<placeName key="CN0320102T19AA">宋熙寺</placeName><persName key="A003138">法欣</persName>、<placeName key="CN0320102T18AA">延賢寺</placeName><persName key="A003139">智<lb ed="T" n="0381a24"/>敞</persName>、<persName key="A003140">法冏</persName>、<placeName key="CN0320101T41AA">建元寺</placeName><persName key="A003141">僧護</persName>、<persName key="A003142">僧韶</persName>，皆比德同譽。<persName key="A003138">欣</persName>、<lb ed="T" n="0381a25"/><persName key="A003139">敞</persName>並善經論，法冏兼精律部，<persName key="A003142">韶</persName>、<persName key="A003141">護</persName>以《毘曇》<lb ed="T" n="0381a26"/>著名。</p>
+	<p><anchor n="T.50.2059.0381a19"/><lb ed="T" n="0381a19"/><persName key="A002272">釋僧盛</persName>，本姓何，<placeName key="PL000000008975">建鄴</placeName>人。少而神<ptr target="fn07"/>情聰敏，加<lb ed="T" n="0381a20"/>又志學翹勤，遂大明數論，兼善眾經，講說<lb ed="T" n="0381a21"/>為當時元匠。又特精外典，為群儒所憚。故<lb ed="T" n="0381a22"/>學館諸生，常以<persName key="A002272">盛公</persName>相脇。<date key="j19045261911021" notAfter-iso="0520" notBefore-iso="0502">天鑒中</date>，卒于<placeName key="PL000000008764">靈曜<lb ed="T" n="0381a23"/>寺</placeName>，春秋五十餘。</p><p>時有<placeName key="PL000000008758">宋熙寺</placeName><persName key="A003138">法欣</persName>、<placeName key="PL000000008757">延賢寺</placeName><persName key="A003139">智<lb ed="T" n="0381a24"/>敞</persName>、<persName key="A003140">法冏</persName>、<placeName key="PL000000008683">建元寺</placeName><persName key="A003141">僧護</persName>、<persName key="A003142">僧韶</persName>，皆比德同譽。<persName key="A003138">欣</persName>、<lb ed="T" n="0381a25"/><persName key="A003139">敞</persName>並善經論，法冏兼精律部，<persName key="A003142">韶</persName>、<persName key="A003141">護</persName>以《毘曇》<lb ed="T" n="0381a26"/>著名。</p>
 	<linkGrp>
 		<link targets="#0381a23 #0381a23"/>
 		<ptr target="#A003138" type="person"/>
-		<ptr target="#CN0320102T19AA" type="place"/>
+		<ptr target="#PL000000008758" type="place"/>
 	</linkGrp>
 	<linkGrp>
 		<link targets="#0381a23 #0381a24"/>
 		<ptr target="#A003139" type="person"/>
 		<ptr target="#A003140" type="person"/>
-		<ptr target="#CN0320102T18AA" type="place"/>
+		<ptr target="#PL000000008757" type="place"/>
 	</linkGrp>
 	<linkGrp>
 		<link targets="#0381a24 #0381a24"/>
 		<ptr target="#A003141" type="person"/>
 		<ptr target="#A003142" type="person"/>
-		<ptr target="#CN0320101T41AA" type="place"/>
+		<ptr target="#PL000000008683" type="place"/>
 	</linkGrp>
 	<linkGrp>
 		<link targets="#0381a22 #0381a23"/>
 		<ptr target="#A002272" type="person"/>
-		<ptr target="#CN0320102T25AA" type="place"/>
+		<ptr target="#PL000000008764" type="place"/>
 		<ptr target="#j19045261911021" type="time"/>
 	</linkGrp>
 </div>

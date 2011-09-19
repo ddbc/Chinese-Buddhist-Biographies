@@ -1,13 +1,13 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0871a08shiRuoXu">
     <anchor n="T.50.2061.0871a08"/><head><date from-iso="0947-03-15" key="j20670182068464" to-iso="0951-02-28">漢</date>江州廬山<persName key="A013621">若虛</persName>傳（<persName key="A013622">亡名僧</persName>）</head><p>
-<lb ed="T" n="0871a09"/><persName key="A013621">釋若虛</persName>，隱于<placeName key="CN0360402M01AA">廬山</placeName>，數年持經，不出石室。江
+<lb ed="T" n="0871a09"/><persName key="A013621">釋若虛</persName>，隱于<placeName key="PL000000018775">廬山</placeName>，數年持經，不出石室。江
         <lb ed="T" n="0871a10"/>南國主<ref type="person" target="#A006600 #A006601">李氏</ref>欽尚其道，累徵，終不降就。唯言
 <lb ed="T" n="0871a11"/>「<persName key="A013621">老僧</persName>無能，寧銷王者歸心？若更相呼，竄入深
 <lb ed="T" n="0871a12"/>山矣。」或衣物則避讓，香則受之。以<date key="j20673842068464" notAfter-iso="0951" notBefore-iso="0948">乾祐</date>中
-<lb ed="T" n="0871a13"/>盛夏坐終，身不沮壞，今<placeName key="CN0360403Z10AA">湓城</placeName>人供養影相
-<lb ed="T" n="0871a14"/>焉。又<placeName key="CN0430105Z24AA">潭州</placeName><persName key="A013622">釋亡名</persName>，恒誦法華經，口無他語。
-<lb ed="T" n="0871a15"/><placeName key="CN0430105Z22AA">長沙</placeName><persName key="A013623">文昭王馬氏</persName>特加禮重，召入天策府湘
+<lb ed="T" n="0871a13"/>盛夏坐終，身不沮壞，今<placeName key="PL000000018842">湓城</placeName>人供養影相
+<lb ed="T" n="0871a14"/>焉。又<placeName key="PL000000028665">潭州</placeName><persName key="A013622">釋亡名</persName>，恒誦法華經，口無他語。
+<lb ed="T" n="0871a15"/><placeName key="PL000000028663">長沙</placeName><persName key="A013623">文昭王馬氏</persName>特加禮重，召入天策府湘
 <lb ed="T" n="0871a16"/>西院<!--找不到此地-->供養。然其語事，詭異堪驚。一旦召知
 <lb ed="T" n="0871a17"/>佛殿僧，令急襞掠佛像，各就兩廂。僧皆謂
 <lb ed="T" n="0871a18"/>為狂發，相目而笑。舉止極甚<anchor xml:id="beg0871002"/>忽<anchor xml:id="end0871002"/>切。須臾，自
@@ -16,7 +16,7 @@
     <linkGrp>
         <link targets="#0871a09 #0871a09"/>
         <ptr target="#A013621" type="person"/>
-        <ptr target="#CN0360402M01AA" type="place"/>
+        <ptr target="#PL000000018775" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0871a10 #0871a12"/>
@@ -28,6 +28,6 @@
         <link targets="#0871a14 #0871a14"/>
         <ptr target="#A013622" type="person"/>
         <ptr target="#A013623" type="person"/>
-        <ptr target="#CN0430105Z24AA" type="place"/>
+        <ptr target="#PL000000028665" type="place"/>
     </linkGrp>
 </div>

@@ -1,26 +1,26 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0416c17shiHuiZhong">
-    <p><anchor n="T.50.2059.0416c17"/><lb ed="T" n="0416c17"/><persName key="A003532">釋慧重</persName>，姓閔，<placeName key="CN0370881Z21AA">魯國</placeName>人。僑居<placeName key="CN0320106Z05AA">金陵</placeName>。早懷信悟，<lb ed="T" n="0416c18"/>有志從道，願言未遂，<ptr target="fn26"/>已長齋菜食。每率眾<lb ed="T" n="0416c19"/>齋會，常自為唱導。如此累時，乃上聞於<persName key="A002105">宋<lb ed="T" n="0416c20"/>孝武</persName>。<date key="j18898491890202" from-iso="0462-02-16" to-iso="0463-02-04">大明六年</date>，勅為<placeName key="CN0320101T59AA">新安寺</placeName>出家，於是專<lb ed="T" n="0416c21"/>當唱說。稟性清敏，識悟深沈。言不經<ptr target="fn27"/>營，應<lb ed="T" n="0416c22"/>時若瀉。凡預聞者，皆<ptr target="fn28"/>留連信宿，增其懇詣。<lb ed="T" n="0416c23"/>後移止<placeName key="CN0320104T02AA">瓦官禪房</placeName>。<date key="j18989741899327" from-iso="0487-02-10" to-iso="0488-01-29">永明五年</date>卒，年七十三。</p><p>時<lb ed="T" n="0416c24"/><placeName key="CN0320104T02AA">瓦官</placeName>復有<persName key="A003533">釋法覺</persName>，又敦<persName key="A003532">慧重</persName>之業，亦擅名<lb ed="T" n="0416c25"/><date key="j18961391904532" notAfter-iso="0502" notBefore-iso="0479">齊代</date>。</p>
+    <p><anchor n="T.50.2059.0416c17"/><lb ed="T" n="0416c17"/><persName key="A003532">釋慧重</persName>，姓閔，<placeName key="PL000000021516">魯國</placeName>人。僑居<placeName key="PL000000008975">金陵</placeName>。早懷信悟，<lb ed="T" n="0416c18"/>有志從道，願言未遂，<ptr target="fn26"/>已長齋菜食。每率眾<lb ed="T" n="0416c19"/>齋會，常自為唱導。如此累時，乃上聞於<persName key="A002105">宋<lb ed="T" n="0416c20"/>孝武</persName>。<date key="j18898491890202" from-iso="0462-02-16" to-iso="0463-02-04">大明六年</date>，勅為<placeName key="PL000000008701">新安寺</placeName>出家，於是專<lb ed="T" n="0416c21"/>當唱說。稟性清敏，識悟深沈。言不經<ptr target="fn27"/>營，應<lb ed="T" n="0416c22"/>時若瀉。凡預聞者，皆<ptr target="fn28"/>留連信宿，增其懇詣。<lb ed="T" n="0416c23"/>後移止<placeName key="PL000000008823">瓦官禪房</placeName>。<date key="j18989741899327" from-iso="0487-02-10" to-iso="0488-01-29">永明五年</date>卒，年七十三。</p><p>時<lb ed="T" n="0416c24"/><placeName key="PL000000008823">瓦官</placeName>復有<persName key="A003533">釋法覺</persName>，又敦<persName key="A003532">慧重</persName>之業，亦擅名<lb ed="T" n="0416c25"/><date key="j18961391904532" notAfter-iso="0502" notBefore-iso="0479">齊代</date>。</p>
     <linkGrp>
         <link targets="#0416c17 #0416c17"/>
         <ptr target="#A003532" type="person"/>
-        <ptr target="#CN0320106Z05AA" type="place"/>
+        <ptr target="#PL000000008975" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0416c24 #0416c25"/>
         <ptr target="#A003533" type="person"/>
-        <ptr target="#CN0320104T02AA" type="place"/>
+        <ptr target="#PL000000008823" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0416c20 #0416c20"/>
         <ptr target="#A003532" type="person"/>
-        <ptr target="#CN0320101T59AA" type="place"/>
+        <ptr target="#PL000000008701" type="place"/>
         <ptr target="#j18898491890202" type="time"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0416c23 #0416c23"/>
         <ptr target="#A003532" type="person"/>
-        <ptr target="#CN0320104T02AA" type="place"/>
+        <ptr target="#PL000000008823" type="place"/>
         <ptr target="#j18989741899327" type="time"/>
     </linkGrp>
 </div>

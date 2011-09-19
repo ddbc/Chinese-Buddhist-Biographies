@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0382c11ruZhan">
     <head><lb ed="X" n="0382c11"/>　　　　<persName key="A011493">如湛</persName>傳</head>
-    <p><anchor n="X.77.1524.0382c12"/><lb ed="X" n="0382c12"/><persName key="A011493">如湛</persName>。生<placeName key="CN0330302Z07AA">永嘉</placeName>焦氏。幼年試經得度。力研教乘。往依<persName key="A011104">車<lb ed="X" n="0382c13"/>溪卿公</persName>。時眾已多無所容。惟小室如斗。安之不以為
+    <p><anchor n="X.77.1524.0382c12"/><lb ed="X" n="0382c12"/><persName key="A011493">如湛</persName>。生<placeName key="PL000000012516">永嘉</placeName>焦氏。幼年試經得度。力研教乘。往依<persName key="A011104">車<lb ed="X" n="0382c13"/>溪卿公</persName>。時眾已多無所容。惟小室如斗。安之不以為
         <lb ed="X" n="0382c14"/>隘。劇暑埋大甕。實以寒泉。與四友背甕環坐。以挹其
         <lb ed="X" n="0382c15"/>爽。如此數載。眾戲目小室。為五瘟堂。後叅<persName key="A011364">慧覺</persName>。晝夜
-        <lb ed="X" n="0382c16"/>潛心。盡得教觀之妙。初主<placeName key="CN0330402A06AA">車溪</placeName><placeName key="CN0330402T03AA">壽聖</placeName>。講餘課法華一
+        <lb ed="X" n="0382c16"/>潛心。盡得教觀之妙。初主<placeName key="PL000000012688">車溪</placeName><placeName key="PL000000012695">壽聖</placeName>。講餘課法華一
         <lb ed="X" n="0382c17"/>部。佛號二萬聲。有求為知事者。以非器不見。用憾之。
         <lb ed="X" n="0382c18"/>夜懷刃入室。則見官客滿座。次夜復入。則昏黑失路。
         <lb ed="X" n="0382c19"/>又往才入室。見十數人。皆同師形。其人媿恐而遁。平
@@ -17,7 +17,7 @@
     <linkGrp>
         <link targets="#0382c12 #0382c12"/>
         <ptr target="#A011493" type="person"/>
-        <ptr target="#CN0330302Z07AA" type="place"/>
+        <ptr target="#PL000000012516" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0382c12 #0382c15"/>
@@ -32,7 +32,7 @@
     <linkGrp>
         <link targets="#0382c16 #0382c19"/>
         <ptr target="#A011493" type="person"/>
-        <ptr target="#CN0330402T03AA" type="place"/>
+        <ptr target="#PL000000012695" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0382c23 #0382c24"/>

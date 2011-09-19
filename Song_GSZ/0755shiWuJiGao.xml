@@ -1,29 +1,29 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0718b17shiWuJiGao">
-    <lb ed="T" n="0718b17"/><anchor n="T.50.2061.0718b17"/><head><date from-iso="0618-06-21" key="j19469512052491" to-iso="0907-06-06">唐</date><placeName key="CN0610102T23AA">西京慧日寺</placeName><persName key="A000780">無極高</persName>傳（<persName key="A000783">阿難律木叉師</persName> <persName key="A008938">迦葉師</persName>）</head><p>
-        <lb ed="T" n="0718b18"/><persName key="A000780">釋無極高</persName>，<placeName key="IN0000000E02AA">中印度</placeName>人，梵云<persName key="A000780">阿地瞿多</persName>，華云
+    <lb ed="T" n="0718b17"/><anchor n="T.50.2061.0718b17"/><head><date from-iso="0618-06-21" key="j19469512052491" to-iso="0907-06-06">唐</date><placeName key="PL000000042131">西京慧日寺</placeName><persName key="A000780">無極高</persName>傳（<persName key="A000783">阿難律木叉師</persName> <persName key="A008938">迦葉師</persName>）</head><p>
+        <lb ed="T" n="0718b18"/><persName key="A000780">釋無極高</persName>，<placeName key="PL000000048208">中印度</placeName>人，梵云<persName key="A000780">阿地瞿多</persName>，華云
 <lb ed="T" n="0718b19"/><persName key="A000780">無極高</persName>也。出家氏族未憑書之。<persName key="A000780">高</persName>學窮滿
         <lb ed="T" n="0718b20"/>字，行潔圓珠，精練五明<ptr target="#n88"/>，妙通三藏。<date from-iso="0652-02-18" key="j19592461959274" to-iso="0652-03-17">永徽三
-<lb ed="T" n="0718b21"/>年壬子歲正月</date>，自<placeName key="WW034XI00E01AA">西印度</placeName>齎梵夾來屆<placeName key="CN0610102Z07AA">長
-    <lb ed="T" n="0718b22"/>安</placeName>，勅令<placeName key="CN0610104T04AA">慈門寺</placeName><ptr target="#n329"/>安置。沙門<persName key="A000827">大乘琮</persName>等十六人、
+<lb ed="T" n="0718b21"/>年壬子歲正月</date>，自<placeName key="PL000000055425">西印度</placeName>齎梵夾來屆<placeName key="PL000000042189">長
+    <lb ed="T" n="0718b22"/>安</placeName>，勅令<placeName key="PL000000042293">慈門寺</placeName><ptr target="#n329"/>安置。沙門<persName key="A000827">大乘琮</persName>等十六人、
         <lb ed="T" n="0718b23"/><persName key="A005857">英公李世勣</persName>、<persName key="A008937">鄂公尉遲<choice resp="sgsz"><sic>德</sic><corr>敬德</corr></choice></persName><ptr target="#n479"/>等十二人，同請<persName key="A000780">高</persName>
-        <lb ed="T" n="0718b24"/>於<placeName key="CN0610102T23AB">慧日寺浮圖院</placeName>建陀羅尼普集會壇，<choice resp="sgsz"><sic>所須</sic><corr>緣壇所須，並皆</corr></choice>
-        <lb ed="T" n="0718b25"/>供辦<ptr target="#n330"/>。法成之日，屢現靈異，<ref target="#CN0610102Z07AA" type="place">京</ref>中道俗咸歎希
+        <lb ed="T" n="0718b24"/>於<placeName key="PL000000042132">慧日寺浮圖院</placeName>建陀羅尼普集會壇，<choice resp="sgsz"><sic>所須</sic><corr>緣壇所須，並皆</corr></choice>
+        <lb ed="T" n="0718b25"/>供辦<ptr target="#n330"/>。法成之日，屢現靈異，<ref target="#PL000000042189" type="place">京</ref>中道俗咸歎希
 <lb ed="T" n="0718b26"/>逢。沙門<persName key="A008889">玄楷</persName>等固請翻其法本。以<date from-iso="0653-02-06" key="j19596001960338" to-iso="0655-02-14">四年癸
-<lb ed="T" n="0718b27"/>丑至于五年</date>，於<placeName key="CN0610102T23AA">慧日寺</placeName>從《金剛大道場經》
+<lb ed="T" n="0718b27"/>丑至于五年</date>，於<placeName key="PL000000042131">慧日寺</placeName>從《金剛大道場經》
 <lb ed="T" n="0718b28"/>中撮要而譯。集成一部，名《陀羅尼集經》一
-        <lb ed="T" n="0718b29"/>十二卷，<persName key="A008889">玄楷</persName>筆受<ptr target="#n53"/>。于時有<placeName key="INBRGA000T01AA">中印度大菩提寺</placeName><pb ed="T" n="0718c" xml:id="T50.2061.0718c"/>
-<lb ed="T" n="0718c01"/><persName key="A000783">阿難律木叉師</persName>、<persName key="A008938">迦葉師</persName>等，於<placeName key="CN0610104T22AA">經行寺</placeName>譯《功德
+        <lb ed="T" n="0718b29"/>十二卷，<persName key="A008889">玄楷</persName>筆受<ptr target="#n53"/>。于時有<placeName key="PL000000048247">中印度大菩提寺</placeName><pb ed="T" n="0718c" xml:id="T50.2061.0718c"/>
+<lb ed="T" n="0718c01"/><persName key="A000783">阿難律木叉師</persName>、<persName key="A008938">迦葉師</persName>等，於<placeName key="PL000000042312">經行寺</placeName>譯《功德
 <lb ed="T" n="0718c02"/>天法》，編在《集經》第十卷內，故不別出焉。</p>
     <linkGrp>
         <link targets="#0718b18 #0718b18"/>
         <ptr target="#A000780" type="person"/>
-        <ptr target="#IN0000000E02AA" type="place"/>
+        <ptr target="#PL000000048208" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0718b20 #0718b22"/>
         <ptr target="#A000780" type="person"/>
-        <ptr target="#CN0610104T04AA" type="place"/>
+        <ptr target="#PL000000042293" type="place"/>
         <ptr target="#j19592461959274" type="time"/>
     </linkGrp>
     <linkGrp>
@@ -32,26 +32,26 @@
         <ptr target="#A005857" type="person"/>
         <ptr target="#A008937" type="person"/>
         <ptr target="#A000827" type="person"/>
-        <ptr target="#CN0610102T23AB" type="place"/>
+        <ptr target="#PL000000042132" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0718b26 #0718b29"/>
         <ptr target="#A000780" type="person"/>
         <ptr target="#A008889" type="person"/>
-        <ptr target="#CN0610102T23AA" type="place"/>
+        <ptr target="#PL000000042131" type="place"/>
         <ptr target="#j19596001960338" type="time"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0718b26 #0718c02"/>
         <ptr target="#A000783" type="person"/>
         <ptr target="#A008938" type="person"/>
-        <ptr target="#INBRGA000T01AA" type="place"/>
+        <ptr target="#PL000000048247" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0718b26 #0718c02"/>
         <ptr target="#A000783" type="person"/>
         <ptr target="#A008938" type="person"/>
-        <ptr target="#CN0610104T22AA" type="place"/>
+        <ptr target="#PL000000042312" type="place"/>
         <ptr target="#j19596001960338" type="time"/>
     </linkGrp>
 </div>

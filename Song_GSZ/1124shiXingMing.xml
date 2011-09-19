@@ -1,13 +1,13 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0857b19shiXingMing">
     <anchor n="T.50.2061.0857b19"/><head><date from-iso="0618-06-21" key="j19469512052491" to-iso="0907-06-06">唐</date>南嶽蘭若<persName key="A009501">行明</persName>傳</head><p>
-        <lb ed="T" n="0857b20"/><persName key="A009501">釋行明</persName>，俗姓魯，<placeName key="CN0320503Z15AA">吳郡長洲</placeName>人也。幼從師于本
+        <lb ed="T" n="0857b20"/><persName key="A009501">釋行明</persName>，俗姓魯，<placeName key="PL000000009927">吳郡長洲</placeName>人也。幼從師于本
 <lb ed="T" n="0857b21"/>部，後遊方問道，然其耿介軒昂，嘯傲自放。
-<lb ed="T" n="0857b22"/>初歷<placeName key="CN0140900M01AA">五臺</placeName>、<placeName key="CN0511181M01AA">峨嵋</placeName>，禮金色銀二世界菩薩，皆
-<lb ed="T" n="0857b23"/>隨心應現。由此登<placeName key="CN0331023M01AA">天台</placeName>，陟<placeName key="CN0441322M01AA">羅浮</placeName>，入<placeName key="CN0430412M01AA">衡嶽</placeName>，
-<lb ed="T" n="0857b24"/>遊<placeName key="CN0510725Z08AA">梓潼</placeName>。屬唐季<placeName key="CN0430103A01AA">湘</placeName>之左右割裂爭尋，常
-<lb ed="T" n="0857b25"/>而未息，靡有寧歲。於是棲<placeName key="CN0430412M01AB">祝融峯</placeName>下，有
-<lb ed="T" n="0857b26"/>終焉之志。止<placeName key="CN0430412T14AA">七寶臺</placeName>，與<persName key="A010511">玄泰布納</persName>為交契。
+<lb ed="T" n="0857b22"/>初歷<placeName key="PL000000005250">五臺</placeName>、<placeName key="PL000000036087">峨嵋</placeName>，禮金色銀二世界菩薩，皆
+<lb ed="T" n="0857b23"/>隨心應現。由此登<placeName key="PL000000014411">天台</placeName>，陟<placeName key="PL000000031276">羅浮</placeName>，入<placeName key="PL000000028928">衡嶽</placeName>，
+<lb ed="T" n="0857b24"/>遊<placeName key="PL000000035550">梓潼</placeName>。屬唐季<placeName key="PL000000028622">湘</placeName>之左右割裂爭尋，常
+<lb ed="T" n="0857b25"/>而未息，靡有寧歲。於是棲<placeName key="PL000000028929">祝融峯</placeName>下，有
+<lb ed="T" n="0857b26"/>終焉之志。止<placeName key="PL000000028945">七寶臺</placeName>，與<persName key="A010511">玄泰布納</persName>為交契。
 <lb ed="T" n="0857b27"/>其性之好惡，<persName key="A010511">泰</persName>亦罔抗其輕重焉。甞謂道
 <lb ed="T" n="0857b28"/>友曰：「<persName key="A010511">吾</persName>不願隨<persName key="A005296">僧崖</persName>焚之於木樓，不欲作
 <lb ed="T" n="0857b29"/><persName key="A006021">屈原</persName>葬之於魚腹。終誓投軀，學<persName key="A005335">薩埵太子</persName><pb ed="T" n="0857c" xml:id="T50.2061.0857c"/>
@@ -25,42 +25,42 @@
     <linkGrp>
         <link targets="#0857b22 #0857b23"/>
         <ptr target="#A009501" type="person"/>
-        <ptr target="#CN0140900M01AA" type="place"/>
+        <ptr target="#PL000000005250" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0857b22 #0857b23"/>
         <ptr target="#A009501" type="person"/>
-        <ptr target="#CN0511181M01AA" type="place"/>
+        <ptr target="#PL000000036087" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0857b22 #0857b24"/>
         <ptr target="#A009501" type="person"/>
-        <ptr target="#CN0331023M01AA" type="place"/>
+        <ptr target="#PL000000014411" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0857b22 #0857b24"/>
         <ptr target="#A009501" type="person"/>
-        <ptr target="#CN0441322M01AA" type="place"/>
+        <ptr target="#PL000000031276" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0857b22 #0857b24"/>
         <ptr target="#A009501" type="person"/>
-        <ptr target="#CN0430412M01AA" type="place"/>
+        <ptr target="#PL000000028928" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0857b22 #0857b24"/>
         <ptr target="#A009501" type="person"/>
-        <ptr target="#CN0510725Z08AA" type="place"/>
+        <ptr target="#PL000000035550" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0857b25 #0857b26"/>
         <ptr target="#A009501" type="person"/>
-        <ptr target="#CN0430412M01AB" type="place"/>
+        <ptr target="#PL000000028929" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0857b25 #0857b26"/>
         <ptr target="#A009501" type="person"/>
         <ptr target="#A010511" type="person"/>
-        <ptr target="#CN0430412T14AA" type="place"/>
+        <ptr target="#PL000000028945" type="place"/>
     </linkGrp>
 </div>

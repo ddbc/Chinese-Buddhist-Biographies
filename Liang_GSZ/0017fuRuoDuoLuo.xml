@@ -1,24 +1,24 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0333a14fuRuoDuoLuo">
-    <p><anchor n="T.50.2059.0333a14"/><lb ed="T" n="0333a14"/><persName key="A000247">弗若多羅</persName>，此云<persName key="A000247">功德華</persName>，<placeName key="PKNWPS000E01AA">罽賓</placeName>人也。少出家，<lb ed="T" n="0333a15"/>以戒節見稱，備通三藏，而專精《十誦律》部，<lb ed="T" n="0333a16"/>為外國師宗，時人咸謂己階聖果。以偽<date from-iso="0399" key="j18670811873075" to-iso="0416">秦<lb ed="T" n="0333a17"/>弘始中</date>，振錫入<placeName key="CN0610000E01AA">關</placeName>。秦<ptr target="fn07"/>上<persName key="A002097">姚興</persName>待以上賓之<lb ed="T" n="0333a18"/>禮。<persName key="A001583">羅什</persName>亦<ptr target="fn08"/>挹其戒範，厚相<ptr target="fn09"/>宗敬。先是，經<lb ed="T" n="0333a19"/>法雖傳，律藏未闡，聞<persName key="A000247">多羅</persName>既善斯部，咸共<lb ed="T" n="0333a20"/>思慕。以偽<date key="j18689571868957" when-iso="0404-12-05">秦弘始六年十月十七日</date>集義學<lb ed="T" n="0333a21"/>僧數百餘人，於<placeName key="CN0610101T15AA">長安中寺</placeName>，<ptr target="fn10"/>延請<persName key="A000247">多羅</persName>誦出<lb ed="T" n="0333a22"/>《十誦》<ptr target="fn＊"/>梵本，<persName key="A001583">羅什</persName>譯為晉文。三分獲二，<persName key="A000247">多羅</persName><lb ed="T" n="0333a23"/><ptr target="fn11"/>搆疾，菴然棄世。眾以大業未<ptr target="fn12"/>就，而匠人<lb ed="T" n="0333a24"/><ptr target="fn13"/>殂往，悲恨之深，有踰常痛。</p>
+    <p><anchor n="T.50.2059.0333a14"/><lb ed="T" n="0333a14"/><persName key="A000247">弗若多羅</persName>，此云<persName key="A000247">功德華</persName>，<placeName key="PL000000049232">罽賓</placeName>人也。少出家，<lb ed="T" n="0333a15"/>以戒節見稱，備通三藏，而專精《十誦律》部，<lb ed="T" n="0333a16"/>為外國師宗，時人咸謂己階聖果。以偽<date from-iso="0399" key="j18670811873075" to-iso="0416">秦<lb ed="T" n="0333a17"/>弘始中</date>，振錫入<placeName key="PL000000042002">關</placeName>。秦<ptr target="fn07"/>上<persName key="A002097">姚興</persName>待以上賓之<lb ed="T" n="0333a18"/>禮。<persName key="A001583">羅什</persName>亦<ptr target="fn08"/>挹其戒範，厚相<ptr target="fn09"/>宗敬。先是，經<lb ed="T" n="0333a19"/>法雖傳，律藏未闡，聞<persName key="A000247">多羅</persName>既善斯部，咸共<lb ed="T" n="0333a20"/>思慕。以偽<date key="j18689571868957" when-iso="0404-12-05">秦弘始六年十月十七日</date>集義學<lb ed="T" n="0333a21"/>僧數百餘人，於<placeName key="PL000000042069">長安中寺</placeName>，<ptr target="fn10"/>延請<persName key="A000247">多羅</persName>誦出<lb ed="T" n="0333a22"/>《十誦》<ptr target="fn＊"/>梵本，<persName key="A001583">羅什</persName>譯為晉文。三分獲二，<persName key="A000247">多羅</persName><lb ed="T" n="0333a23"/><ptr target="fn11"/>搆疾，菴然棄世。眾以大業未<ptr target="fn12"/>就，而匠人<lb ed="T" n="0333a24"/><ptr target="fn13"/>殂往，悲恨之深，有踰常痛。</p>
     <linkGrp>
         <link targets="#0333a14 #0333a14"/>
         <ptr target="#A000247" type="person"/>
-        <ptr target="#PKNWPS000E01AA" type="place"/>
+        <ptr target="#PL000000049232" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0333a16 #0333a18"/>
         <ptr target="#A000247" type="person"/>
         <ptr target="#A002097" type="person"/>
         <ptr target="#A001583" type="person"/>
-        <ptr target="#CN0610000E01AA" type="place"/>
+        <ptr target="#PL000000042002" type="place"/>
         <ptr target="#j18670811873075" type="time"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0333a20 #0333a22"/>
         <ptr target="#A000247" type="person"/>
         <ptr target="#A001583" type="person"/>
-        <ptr target="#CN0610101T15AA" type="place"/>
+        <ptr target="#PL000000042069" type="place"/>
         <ptr target="#j18689571868957" type="time"/>
     </linkGrp>
 </div>

@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0870b15shiHongJu">
     <anchor n="T.50.2061.0870b15"/><head><date from-iso="0923-05-18" key="j20583162063308" to-iso="0937-01-16">後唐</date>溫州小松山<persName key="A013612">鴻莒</persName>傳</head><p>
-        <lb ed="T" n="0870b16"/><persName key="A013612">釋鴻莒</persName>，姓唐氏，<placeName key="CN0330302Z12AA">永嘉</placeName>人也。早出家于<placeName key="CN0330683T05AA">越州龍
+        <lb ed="T" n="0870b16"/><persName key="A013612">釋鴻莒</persName>，姓唐氏，<placeName key="PL000000012521">永嘉</placeName>人也。早出家于<placeName key="PL000000013453">越州龍
 <lb ed="T" n="0870b17"/>宮寺</placeName>。始則誦法華經全部。得度，裹足往趨
-<lb ed="T" n="0870b18"/><placeName key="CN0610102Z07AA">長安</placeName>學律，因讀<placeName key="CN0610104T07AA">化度寺</placeName>碑。時有舉人旁聽，
+<lb ed="T" n="0870b18"/><placeName key="PL000000042189">長安</placeName>學律，因讀<placeName key="PL000000042296">化度寺</placeName>碑。時有舉人旁聽，
 <lb ed="T" n="0870b19"/>見<persName key="A013612">莒</persName>目<anchor xml:id="beg0870002"/>瞻<anchor xml:id="end0870002"/>多行，異之，知能背碑，請<persName key="A013612">莒</persName>誦
 <lb ed="T" n="0870b20"/>之。儒生覆其文，了無一誤。又相將去崇聖
 <lb ed="T" n="0870b21"/>寺<!--找不到此地-->，亦然，而多強記，輩流所推。言歸故鄉，請
@@ -26,17 +26,17 @@
     <linkGrp>
         <link targets="#0870b16 #0870b17"/>
         <ptr target="#A013612" type="person"/>
-        <ptr target="#CN0330683T05AA" type="place"/>
+        <ptr target="#PL000000013453" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0870b17 #0870b18"/>
         <ptr target="#A013612" type="person"/>
-        <ptr target="#CN0610102Z07AA" type="place"/>
+        <ptr target="#PL000000042189" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0870b17 #0870b18"/>
         <ptr target="#A013612" type="person"/>
-        <ptr target="#CN0610104T07AA" type="place"/>
+        <ptr target="#PL000000042296" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0870c08 #0870c08"/>

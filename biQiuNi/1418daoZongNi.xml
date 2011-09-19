@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="bqnz0940c10daoZongNi">
-    <head>江陵<placeName key="CN0422421T01AA">三層寺</placeName><persName key="A015414">道綜</persName>尼<ptr target="fn56"/>傳十九</head><p><anchor n="T.50.2063.0940c11"/><lb ed="T" n="0940c11"/><persName key="A015414">道綜</persName>，未詳何許人<ptr target="fn57"/>也，住江陵<placeName key="CN0422421T01AA">三層寺</placeName>。少不<lb ed="T" n="0940c12"/>以出眾居心，長不以同物為<ptr target="fn58"/>污。賢愚之際，從<lb ed="T" n="0940c13"/><ptr target="fn59"/>通而已，跡雖混成，所度潛廣。以宋<date key="j18902761890276" when-iso="0463-04-19">大明七年<lb ed="T" n="0940c14"/>三日十五日</date>夜，自練油火，關顙既然，耳目就<lb ed="T" n="0940c15"/>毀，誦詠不輟。道俗咨嗟，魔正同駭，率土聞風，<lb ed="T" n="0940c16"/>皆發菩提心。</p><p>宋徵士<persName key="A002973">劉虬</persName>，雅相<ptr target="fn60"/>宗敬，為製偈<lb ed="T" n="0940c17"/><ptr target="fn61"/>贊云。</p>
+    <head>江陵<placeName key="PL000000028396">三層寺</placeName><persName key="A015414">道綜</persName>尼<ptr target="fn56"/>傳十九</head><p><anchor n="T.50.2063.0940c11"/><lb ed="T" n="0940c11"/><persName key="A015414">道綜</persName>，未詳何許人<ptr target="fn57"/>也，住江陵<placeName key="PL000000028396">三層寺</placeName>。少不<lb ed="T" n="0940c12"/>以出眾居心，長不以同物為<ptr target="fn58"/>污。賢愚之際，從<lb ed="T" n="0940c13"/><ptr target="fn59"/>通而已，跡雖混成，所度潛廣。以宋<date key="j18902761890276" when-iso="0463-04-19">大明七年<lb ed="T" n="0940c14"/>三日十五日</date>夜，自練油火，關顙既然，耳目就<lb ed="T" n="0940c15"/>毀，誦詠不輟。道俗咨嗟，魔正同駭，率土聞風，<lb ed="T" n="0940c16"/>皆發菩提心。</p><p>宋徵士<persName key="A002973">劉虬</persName>，雅相<ptr target="fn60"/>宗敬，為製偈<lb ed="T" n="0940c17"/><ptr target="fn61"/>贊云。</p>
     <linkGrp>
         <link targets="#0940c11 #0940c11"/>
         <ptr target="#A015414" type="person"/>
-        <ptr target="#CN0422421T01AA" type="place"/>
+        <ptr target="#PL000000028396" type="place"/>
         </linkGrp>
     <linkGrp>
         <link targets="#0940c16 #0940c17"/>

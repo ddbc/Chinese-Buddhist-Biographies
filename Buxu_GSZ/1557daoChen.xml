@@ -1,25 +1,25 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0382a24daoChen">
     <head><lb ed="X" n="0382a24"/>　　　　<persName key="A012559">道琛</persName>傳</head>
-    <p><anchor n="X.77.1524.0382b01"/><lb ed="X" n="0382b01"/><persName key="A012559">道琛</persName>。溫之<placeName key="CN0330382Z09AA">樂清</placeName>彭氏子。<date key="j21180792118443" when-iso="1087">母夢紫氣縈身而生</date>。<date key="j21242872124652" when-iso="1104">年十八</date>
+    <p><anchor n="X.77.1524.0382b01"/><lb ed="X" n="0382b01"/><persName key="A012559">道琛</persName>。溫之<placeName key="PL000000012638">樂清</placeName>彭氏子。<date key="j21180792118443" when-iso="1087">母夢紫氣縈身而生</date>。<date key="j21242872124652" when-iso="1104">年十八</date>
         <lb ed="X" n="0382b02"/>具戒。學教於<persName key="A020253">息庵</persName>。微言妙旨。一聞便領。歸鄉弘法。適
-        <lb ed="X" n="0382b03"/><persName key="A002088">高宗</persName>幸<placeName key="CN0330302Z07AA">永嘉</placeName>。有旨。以<persName key="A019802">林靈素</persName>故居。為<placeName key="CN0330302T10AA">資福院</placeName>。丞相<persName key="A019804">呂<lb ed="X" n="0382b04"/>頥浩</persName>。以師應詔。凡前後三坐道場。化緣不衰。於禪定
+        <lb ed="X" n="0382b03"/><persName key="A002088">高宗</persName>幸<placeName key="PL000000012516">永嘉</placeName>。有旨。以<persName key="A019802">林靈素</persName>故居。為<placeName key="PL000000012506">資福院</placeName>。丞相<persName key="A019804">呂<lb ed="X" n="0382b04"/>頥浩</persName>。以師應詔。凡前後三坐道場。化緣不衰。於禪定
         <lb ed="X" n="0382b05"/>中。見<persName key="A000756">四明</persName>垂示。行法華懺。感普賢放光。自是慧辯益
         <lb ed="X" n="0382b06"/>進。一日講至六羅漢義。學者請說。斥之曰。小乘法相。
-        <lb ed="X" n="0382b07"/>說之何益。當為說經王義。聯翩三日。一語無重。以<date from-iso="1153-02-03" to-iso="1154-02-20" key="j21422182142600">紹<lb ed="X" n="0382b08"/>興二十三年</date>示寂。說偈曰。唯心<placeName key="XZ0000033A01AA">淨土</placeName>。本無迷悟。一念
+        <lb ed="X" n="0382b07"/>說之何益。當為說經王義。聯翩三日。一語無重。以<date from-iso="1153-02-03" to-iso="1154-02-20" key="j21422182142600">紹<lb ed="X" n="0382b08"/>興二十三年</date>示寂。說偈曰。唯心<placeName key="PL000000055477">淨土</placeName>。本無迷悟。一念
         <lb ed="X" n="0382b09"/>不生。即入初住。諡曰<persName key="A012559">圓辯</persName>。師高德碩行。與<persName key="A020455">雪竇大圓</persName>。
         <lb ed="X" n="0382b10"/><persName key="A000113">育王諶</persName>二禪師。為道交。二老深敬之。實有以動之。不
         <lb ed="X" n="0382b11"/>徒辯說而已。師居山匱糧。甞以僧伽棃。質米於市。夜
         <lb ed="X" n="0382b12"/>見流先煜煜。送還光乃已。苦無水。指工鑿之。泉隨鑿
-        <lb ed="X" n="0382b13"/>涌。<placeName key="CN0330382Z09AA">樂清</placeName>江岸。每以頹倒為患。咸謂鬼物所釁。師為神
-        <lb ed="X" n="0382b14"/>授戒。後遂凝然無恙。其將主<placeName key="CN0330205T02AA">南湖</placeName>也。門人<persName key="A018004">清順</persName>。夢<placeName key="CN0330205T02AA">延<lb ed="X" n="0382b15"/>慶</placeName>諸祖來謁。侍者持位圖於傍。而缺第八。順指問之。
-        <lb ed="X" n="0382b16"/>對曰。汝師將補其處。及後居<placeName key="CN0330205T02AA">南湖</placeName>。果第八世。噫。豈偶
+        <lb ed="X" n="0382b13"/>涌。<placeName key="PL000000012638">樂清</placeName>江岸。每以頹倒為患。咸謂鬼物所釁。師為神
+        <lb ed="X" n="0382b14"/>授戒。後遂凝然無恙。其將主<placeName key="PL000000012209">南湖</placeName>也。門人<persName key="A018004">清順</persName>。夢<placeName key="PL000000012209">延<lb ed="X" n="0382b15"/>慶</placeName>諸祖來謁。侍者持位圖於傍。而缺第八。順指問之。
+        <lb ed="X" n="0382b16"/>對曰。汝師將補其處。及後居<placeName key="PL000000012209">南湖</placeName>。果第八世。噫。豈偶
         <lb ed="X" n="0382b17"/>然哉。</p>
     
     <linkGrp>
         <link targets="#0382b01 #0382b01"/>
         <ptr target="#A012559" type="person"/>
-        <ptr target="#CN0330382Z09AA" type="place"/>
+        <ptr target="#PL000000012638" type="place"/>
         <ptr target="#j21180792118443" type="time"/>
     </linkGrp>
     <linkGrp>
@@ -32,12 +32,12 @@
         <link targets="#0382b02 #0382b04"/>
         <ptr target="#A012559" type="person"/>
         <ptr target="#A002088" type="person"/>
-        <ptr target="#CN0330302T10AA" type="place"/>
+        <ptr target="#PL000000012506" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0382b03 #0382b03"/>
         <ptr target="#A019802" type="person"/>
-        <ptr target="#CN0330302T10AA" type="place"/>
+        <ptr target="#PL000000012506" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0382b02 #0382b04"/>
@@ -59,7 +59,7 @@
     <linkGrp>
         <link targets="#0382b13 #0382b14"/>
         <ptr target="#A012559" type="person"/>
-        <ptr target="#CN0330382Z09AA" type="place"/>
+        <ptr target="#PL000000012638" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0382b14 #0382b16"/>
@@ -69,6 +69,6 @@
     <linkGrp>
         <link targets="#0382b14 #0382b16"/>
         <ptr target="#A012559" type="person"/>
-        <ptr target="#CN0330205T02AA" type="place"/>
+        <ptr target="#PL000000012209" type="place"/>
     </linkGrp>
 </div>

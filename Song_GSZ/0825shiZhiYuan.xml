@@ -1,7 +1,12 @@
 <?xml version='1.0' encoding='utf-8'?>
-<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0745b07shiZhiYuan">
-    <anchor n="T.50.2061.0745b07"/><head><date from-iso="0618-06-21" key="j19469512052491" to-iso="0907-06-06">唐</date><placeName key="CN0140922T06AA">五臺山華嚴寺</placeName><persName key="A009832">志遠</persName>傳（<persName key="A000762">元堪</persName>）</head><p>
-<lb ed="T" n="0745b08"/><persName key="A009832">釋志遠</persName>，俗姓宋氏，家于<placeName key="CN0411727Z06AA">汝南</placeName>。其父早喪，孤
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0745b02shiZhiYuan">
+    <lb n="0745b02" ed="T"/><anchor n="T.50.2061.0745b02"/><head><anchor xml:id="beg0745sgsz1"/>宋<anchor xml:id="end0745sgsz1"/>高僧傳卷第七</head>
+    <lb n="0745b03" ed="T"/>
+    <lb n="0745b04" ed="T"/><byline n="Author"><anchor xml:id="beg0745b01"/>宋左街天壽寺通慧大師
+        <lb n="0745b05" ed="T"/>賜紫沙門贊寧等奉　勅撰<anchor xml:id="end0745b01"/></byline>
+    <lb n="0745b06" ed="T"/><head>義解篇第二之四（正傳二十<anchor xml:id="beg0745002"/>三<anchor xml:id="end0745002"/>人附見四人）</head>
+    <lb n="0745b07" ed="T"/><head><date from-iso="0618-06-21" key="j19469512052491" to-iso="0907-06-06">唐</date><placeName key="PL000000005362">五臺山華嚴寺</placeName><persName key="A009832">志遠</persName>傳（<persName key="A000762">元堪</persName>）</head><p>
+<lb ed="T" n="0745b08"/><persName key="A009832">釋志遠</persName>，俗姓宋氏，家于<placeName key="PL000000026322">汝南</placeName>。其父早喪，孤
 <lb ed="T" n="0745b09"/>侍孀親，承顏之禮，匪遑晨夕。母常念《法華
 <lb ed="T" n="0745b10"/>經》，精通五卷。<persName key="A009832">遠</persName>識度明敏，孤標卓然。<date key="j20114282011792" from-iso="0795-01-01" to-iso="0795-12-31">年二十
     <lb ed="T" n="0745b11"/>八</date>，辭親從師，歸依荷澤宗風，晤解幽旨，經
@@ -9,7 +14,7 @@
         <lb ed="T" n="0745b13"/>辭師尋禮，復經<ref type="date" target="#j20136202016541">八年</ref>，雖博贍兩宗，情猶繫
 <lb ed="T" n="0745b14"/>滯。聞天台一枝，該通妙理，定慧雙融，解進
 <lb ed="T" n="0745b15"/>於行。十乘境觀，起自一家。修性三德，清涼盛
-<lb ed="T" n="0745b16"/>演。因命同輩追遊<placeName key="CN0140900M01AA">五峯</placeName>，棲遁林泉，履歷前
+<lb ed="T" n="0745b16"/>演。因命同輩追遊<placeName key="PL000000005250">五峯</placeName>，棲遁林泉，履歷前
 <lb ed="T" n="0745b17"/>躅，曉六凡四聖之理，了開示悟入之門，百
 <lb ed="T" n="0745b18"/>界千如，<anchor xml:id="beg0745003"/>包<anchor xml:id="end0745003"/>羅性相。即遮即照，破立同時。依
 <lb ed="T" n="0745b19"/>正圓融，凡聖平等，豁開心目，物我雙亡。僅四
@@ -34,7 +39,7 @@
 <lb ed="T" n="0745c09"/>櫛比座隅，咸讚希奇，同稱佛號。慈誨之際，
 <lb ed="T" n="0745c10"/>奄至遷靈，風慘雲愁，山昏水咽，林巒色變，徒
 <lb ed="T" n="0745c11"/>屬悽傷。闍維日，諸子奔馳，罔知所詣。雖學
-        <lb ed="T" n="0745c12"/>者如林，達其法者唯<persName key="A000762">元堪</persName>，即<placeName key="CN0610322Z18AA">扶風</placeName><ref type="person" target="#A000784">馬氏</ref>之裔
+        <lb ed="T" n="0745c12"/>者如林，達其法者唯<persName key="A000762">元堪</persName>，即<placeName key="PL000000042850">扶風</placeName><ref type="person" target="#A000784">馬氏</ref>之裔
 <lb ed="T" n="0745c13"/>也。氣度沖邃，道風素高，蓋<persName key="A009832">遠</persName>傾其解脫之瓶，
 <lb ed="T" n="0745c14"/>注以醍醐之器，可謂一燈之後復<anchor xml:id="beg0745004"/>然<anchor xml:id="end0745004"/>一燈。
         <lb ed="T" n="0745c15"/>及<persName key="A006570">武宗</persName><ref type="date" target="#j20299132030170">澄汰之際</ref>，稟師先旨，哀慟累夕，以
@@ -45,7 +50,7 @@
     <linkGrp>
         <link targets="#0745b08 #0745b08"/>
         <ptr target="#A009832" type="person"/>
-        <ptr target="#CN0411727Z06AA" type="place"/>
+        <ptr target="#PL000000026322" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0745b10 #0745b11"/>
@@ -65,7 +70,7 @@
     <linkGrp>
         <link targets="#0745b14 #0745b16"/>
         <ptr target="#A009832" type="person"/>
-        <ptr target="#CN0140900M01AA" type="place"/>
+        <ptr target="#PL000000005250" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0745b28 #0745c08"/>

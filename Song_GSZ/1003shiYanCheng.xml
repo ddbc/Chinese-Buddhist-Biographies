@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0809b11shiYanCheng">
     <anchor n="T.50.2061.0809b11"/><head><date from-iso="0907-06-10" key="j20524952058534" to-iso="0923-12-22">梁</date>蘇州破山興福寺<persName key="A011646">彥偁</persName>傳（<persName key="A011648">壽闍黎</persName>）</head><p>
-        <lb ed="T" n="0809b12"/><persName key="A011646">釋彥偁</persName>，姓龔氏，<placeName key="CN0320581Z18AA">吳郡常熟</placeName>人也。揭厲戒津，
+        <lb ed="T" n="0809b12"/><persName key="A011646">釋彥偁</persName>，姓龔氏，<placeName key="PL000000010157">吳郡常熟</placeName>人也。揭厲戒津，
 <lb ed="T" n="0809b13"/>錙銖塵務，勤求師範，唯善是從。末扣擊繼
 <lb ed="T" n="0809b14"/>宗記主，得其戶牗，乃於本生地講導，同好
-        <lb ed="T" n="0809b15"/>鳩聚，律風孔扇，號為毘尼窟宅焉。先是<placeName key="CN0320581M01AA">海
+        <lb ed="T" n="0809b15"/>鳩聚，律風孔扇，號為毘尼窟宅焉。先是<placeName key="PL000000010125">海
 <lb ed="T" n="0809b16"/>隅</placeName>，巫咸氏之遺壤，招真治之舊墟，古寺周圍
 <lb ed="T" n="0809b17"/>不全，垝垣而已。甞一夜有虎中獵人箭，伏
 <lb ed="T" n="0809b18"/>於寺閣，哮吼不止。<persName key="A011646">偁</persName>憫之，忙係鞵，秉炬下
@@ -16,16 +16,16 @@
 <lb ed="T" n="0809b24"/>時覆肩衣自肱而墮，還自塔上，或見鬼物隨
 <lb ed="T" n="0809b25"/>侍焉。所謂道德盛則鬼神助也。以<date from-iso="0920-06-24" key="j20572582057316" to-iso="0920-08-21">貞明六年
 <lb ed="T" n="0809b26"/>六月</date>，終于山房，年九十九歲云。次<persName key="A011648">壽闍黎</persName>者，
-<lb ed="T" n="0809b27"/><placeName key="CN0320826Z18AA">淮浦</placeName>左右，貞諒不群，防護正念，時少雙偶。
+<lb ed="T" n="0809b27"/><placeName key="PL000000010590">淮浦</placeName>左右，貞諒不群，防護正念，時少雙偶。
         <lb ed="T" n="0809b28"/>傳《南山律鈔》極成，不看他面。唐季<persName key="A007250">楊氏</persName>奄
-<lb ed="T" n="0809b29"/>有<placeName key="CN0321002Z02AA">廣陵</placeName>，頻召供施。四遠崇重，食唯正命。不<pb ed="T" n="0809c" xml:id="T50.2061.0809c"/>
+<lb ed="T" n="0809b29"/>有<placeName key="PL000000010783">廣陵</placeName>，頻召供施。四遠崇重，食唯正命。不<pb ed="T" n="0809c" xml:id="T50.2061.0809c"/>
 <lb ed="T" n="0809c01"/>畜盈長，戶不施關。及臨壇度弟子，正秉
 <lb ed="T" n="0809c02"/>羯磨，未周三法，忽爾坐亡于覆釜之畔，聞
 <lb ed="T" n="0809c03"/>見驚歎歟！</p>
     <linkGrp>
         <link targets="#0809b12 #0809b12"/>
         <ptr target="#A011646" type="person"/>
-        <ptr target="#CN0320581Z18AA" type="place"/>
+        <ptr target="#PL000000010157" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0809b21 #0809b22"/>

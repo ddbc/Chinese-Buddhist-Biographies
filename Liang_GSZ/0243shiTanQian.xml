@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0414a18shiTanQian">
-    <p><anchor n="T.50.2059.0414a18"/><lb ed="T" n="0414a18"/><persName key="A003476">釋曇遷</persName>，姓支，本<placeName key="WW142YZ00E01AA">月支</placeName>人。寓居<placeName key="CN0320106Z06AA">建康</placeName>。篤好玄<lb ed="T" n="0414a19"/>儒，遊心佛義，善<ptr target="fn10"/>談莊老，并注《十地》。又<ptr target="fn11"/>工<lb ed="T" n="0414a20"/>正書，常布施題經。巧於轉讀，有無窮聲韻，<lb ed="T" n="0414a21"/>梵製新奇，特拔終古。<placeName key="CN0320303Z24AA">彭城</placeName><persName key="A002633">王義康</persName>、<persName key="A002904">范<ptr target="fn12"/>曄</persName>、<persName key="A003477">王曇<lb ed="T" n="0414a22"/>首</persName>，並皆遊狎。<persName key="A003476">遷</persName>初止<placeName key="CN0320116T04AA">祇洹寺</placeName>，後移<placeName key="CN0320104T11AA">烏<ptr target="fn13"/>依寺</placeName>。<lb ed="T" n="0414a23"/>及<persName key="A002904">范曄</persName>被誅，門有十二喪，無敢近者。<persName key="A003476">遷</persName>抽<lb ed="T" n="0414a24"/>貨衣物，悉營葬送。<persName key="A002105">孝武</persName>聞而歎賞，謂<persName key="A003478">徐爰</persName><lb ed="T" n="0414a25"/>曰：「<persName key="A003478">卿</persName>著《宋書》，勿遺<persName key="A003476">此士</persName>。」<persName key="A003118">王僧虔</persName>為<placeName key="CN0430105Z01AA">湘州</placeName>及<lb ed="T" n="0414a26"/>三吳，並携共同遊。<date key="j18971431897496" from-iso="0482-02-05" to-iso="0483-01-24">齊建元四年</date>卒，年九十九。</p><p><lb ed="T" n="0414a27"/>時有<placeName key="CN0321002T10AA">道場寺</placeName><persName key="A003479">釋法暢</persName>、<placeName key="CN0320104T02AA">瓦官寺</placeName><persName key="A003480">釋道琰</persName>，並富聲<lb ed="T" n="0414a28"/>哀婉。雖不競<persName key="A003476">遷</persName>等，抑亦次之。</p>
+    <p><anchor n="T.50.2059.0414a18"/><lb ed="T" n="0414a18"/><persName key="A003476">釋曇遷</persName>，姓支，本<placeName key="PL000000055438">月支</placeName>人。寓居<placeName key="PL000000008976">建康</placeName>。篤好玄<lb ed="T" n="0414a19"/>儒，遊心佛義，善<ptr target="fn10"/>談莊老，并注《十地》。又<ptr target="fn11"/>工<lb ed="T" n="0414a20"/>正書，常布施題經。巧於轉讀，有無窮聲韻，<lb ed="T" n="0414a21"/>梵製新奇，特拔終古。<placeName key="PL000000009534">彭城</placeName><persName key="A002633">王義康</persName>、<persName key="A002904">范<ptr target="fn12"/>曄</persName>、<persName key="A003477">王曇<lb ed="T" n="0414a22"/>首</persName>，並皆遊狎。<persName key="A003476">遷</persName>初止<placeName key="PL000000009267">祇洹寺</placeName>，後移<placeName key="PL000000008835">烏<ptr target="fn13"/>依寺</placeName>。<lb ed="T" n="0414a23"/>及<persName key="A002904">范曄</persName>被誅，門有十二喪，無敢近者。<persName key="A003476">遷</persName>抽<lb ed="T" n="0414a24"/>貨衣物，悉營葬送。<persName key="A002105">孝武</persName>聞而歎賞，謂<persName key="A003478">徐爰</persName><lb ed="T" n="0414a25"/>曰：「<persName key="A003478">卿</persName>著《宋書》，勿遺<persName key="A003476">此士</persName>。」<persName key="A003118">王僧虔</persName>為<placeName key="PL000000028642">湘州</placeName>及<lb ed="T" n="0414a26"/>三吳，並携共同遊。<date key="j18971431897496" from-iso="0482-02-05" to-iso="0483-01-24">齊建元四年</date>卒，年九十九。</p><p><lb ed="T" n="0414a27"/>時有<placeName key="PL000000010767">道場寺</placeName><persName key="A003479">釋法暢</persName>、<placeName key="PL000000008823">瓦官寺</placeName><persName key="A003480">釋道琰</persName>，並富聲<lb ed="T" n="0414a28"/>哀婉。雖不競<persName key="A003476">遷</persName>等，抑亦次之。</p>
     <linkGrp>
         <link targets="#0414a18 #0414a18"/>
         <ptr target="#A003476" type="person"/>
-        <ptr target="#CN0320106Z06AA" type="place"/>
+        <ptr target="#PL000000008976" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0414a21 #0414a22"/>
@@ -24,12 +24,12 @@
     <linkGrp>
         <link targets="#0414a22 #0414a22"/>
         <ptr target="#A003476" type="person"/>
-        <ptr target="#CN0320116T04AA" type="place"/>
+        <ptr target="#PL000000009267" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0414a22 #0414a23"/>
         <ptr target="#A003476" type="person"/>
-        <ptr target="#CN0320104T11AA" type="place"/>
+        <ptr target="#PL000000008835" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0414a24 #0414a25"/>
@@ -44,12 +44,12 @@
     <linkGrp>
         <link targets="#0414a27 #0414a28"/>
         <ptr target="#A003479" type="person"/>
-        <ptr target="#CN0321002T10AA" type="place"/>
+        <ptr target="#PL000000010767" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0414a27 #0414a28"/>
         <ptr target="#A003480" type="person"/>
-        <ptr target="#CN0320104T02AA" type="place"/>
+        <ptr target="#PL000000008823" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0414a26 #0414a26"/>

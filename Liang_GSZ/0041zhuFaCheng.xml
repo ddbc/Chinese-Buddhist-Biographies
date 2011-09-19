@@ -1,18 +1,18 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0347b25zhuFaCheng">
-    <p><anchor n="T.50.2059.0347b25"/><lb ed="T" n="0347b25"/><persName key="A002203">竺法乘</persName>，未詳<ptr target="fn23"/>何人。幼而神悟超絕，懸鑒過<lb ed="T" n="0347b26"/>人，依<persName key="A000749">竺法護</persName>為沙彌，清真有志氣，<persName key="A000749">護</persName>甚嘉<lb ed="T" n="0347b27"/>焉。<persName key="A000749">護</persName>既道被<placeName key="CN0610000E01AA">關中</placeName>，且資財殷富，時<placeName key="CN0610112Z01AA">長安</placeName>有<lb ed="T" n="0347b28"/>甲族，欲奉大法，試<persName key="A000749">護</persName>道德，偽往告急，求錢<lb ed="T" n="0347b29"/>二十萬。<persName key="A000749">護</persName><ptr target="fn24"/>未答，<persName key="A002203">乘</persName>年十三，侍在師側，即<lb ed="T" n="0347c01"/><ptr target="fn25"/>語曰：「和上意已相許矣。」客退後，乘曰：「觀此<lb ed="T" n="0347c02"/>人神色，非實求錢，將以觀和<ptr target="fn＊"/>上道德何如<lb ed="T" n="0347c03"/>耳。」<persName key="A000749">護</persName>曰：「吾亦以為然。」明日此客率其一宗百<lb ed="T" n="0347c04"/>餘口，詣<persName key="A000749">護</persName>請受戒具，謝求錢之意，於是<lb ed="T" n="0347c05"/>師資名布遐邇。</p>
-    <p>乘後西到<placeName key="CN0620982Z54AA">燉煌</placeName>，立寺延學，<lb ed="T" n="0347c06"/>忘身為道，誨而不<ptr target="fn26"/>勌。使夫豺狼革心，戎狄<lb ed="T" n="0347c07"/>知禮，大化西行，乘之力也。後終於所住。<persName key="A002181">孫<lb ed="T" n="0347c08"/>綽</persName>〈道賢論〉以乘比<persName key="A002670">王濬沖</persName>，論云：「<persName key="A002203">法乘</persName>、<persName key="A002670">安豐</persName>少<lb ed="T" n="0347c09"/>有機悟之鑒，雖道俗殊操，阡陌可以相准。」<lb ed="T" n="0347c10"/>高士<persName key="A002671">季顒</persName>為之贊傳。</p>
+    <p><anchor n="T.50.2059.0347b25"/><lb ed="T" n="0347b25"/><persName key="A002203">竺法乘</persName>，未詳<ptr target="fn23"/>何人。幼而神悟超絕，懸鑒過<lb ed="T" n="0347b26"/>人，依<persName key="A000749">竺法護</persName>為沙彌，清真有志氣，<persName key="A000749">護</persName>甚嘉<lb ed="T" n="0347b27"/>焉。<persName key="A000749">護</persName>既道被<placeName key="PL000000042002">關中</placeName>，且資財殷富，時<placeName key="PL000000042387">長安</placeName>有<lb ed="T" n="0347b28"/>甲族，欲奉大法，試<persName key="A000749">護</persName>道德，偽往告急，求錢<lb ed="T" n="0347b29"/>二十萬。<persName key="A000749">護</persName><ptr target="fn24"/>未答，<persName key="A002203">乘</persName>年十三，侍在師側，即<lb ed="T" n="0347c01"/><ptr target="fn25"/>語曰：「和上意已相許矣。」客退後，乘曰：「觀此<lb ed="T" n="0347c02"/>人神色，非實求錢，將以觀和<ptr target="fn＊"/>上道德何如<lb ed="T" n="0347c03"/>耳。」<persName key="A000749">護</persName>曰：「吾亦以為然。」明日此客率其一宗百<lb ed="T" n="0347c04"/>餘口，詣<persName key="A000749">護</persName>請受戒具，謝求錢之意，於是<lb ed="T" n="0347c05"/>師資名布遐邇。</p>
+    <p>乘後西到<placeName key="PL000000045820">燉煌</placeName>，立寺延學，<lb ed="T" n="0347c06"/>忘身為道，誨而不<ptr target="fn26"/>勌。使夫豺狼革心，戎狄<lb ed="T" n="0347c07"/>知禮，大化西行，乘之力也。後終於所住。<persName key="A002181">孫<lb ed="T" n="0347c08"/>綽</persName>〈道賢論〉以乘比<persName key="A002670">王濬沖</persName>，論云：「<persName key="A002203">法乘</persName>、<persName key="A002670">安豐</persName>少<lb ed="T" n="0347c09"/>有機悟之鑒，雖道俗殊操，阡陌可以相准。」<lb ed="T" n="0347c10"/>高士<persName key="A002671">季顒</persName>為之贊傳。</p>
     <p>乘同學<persName key="A002672">竺法行</persName>、<persName key="A002673">竺法存</persName>，<lb ed="T" n="0347c11"/>並山棲履操，知名當世矣。</p>
     <linkGrp>
         <link targets="#0347b26 #0347b27"/>
         <ptr target="#A002203" type="person"/>
         <ptr target="#A000749" type="person"/>
-        <ptr target="#CN0610000E01AA" type="place"/>
+        <ptr target="#PL000000042002" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0347c05 #0347c05"/>
         <ptr target="#A002203" type="person"/>
-        <ptr target="#CN0620982Z54AA" type="place"/>
+        <ptr target="#PL000000045820" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0347c10 #0347c11"/>

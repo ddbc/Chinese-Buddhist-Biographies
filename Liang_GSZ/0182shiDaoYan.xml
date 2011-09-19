@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0401b11shiDaoYan">
-    <p><anchor n="T.50.2059.0401b12"/><lb ed="T" n="0401b12"/><persName key="A002320">釋道儼</persName>，<placeName key="CN0410224Z40AA">雍丘小黃</placeName>人。少有戒行。善於毘尼，<lb ed="T" n="0401b13"/>精研四部，融會眾家。又以律部東傳，<ptr target="fn16"/>梵漢<lb ed="T" n="0401b14"/>異音，文頗左右，恐後人諮訪無所，乃會其<lb ed="T" n="0401b15"/>旨歸，名曰《決正四部毘尼論》。後遊於<placeName key="CN0320303Z24AA">彭城</placeName>，<lb ed="T" n="0401b16"/>弘通律藏，遂卒於<placeName key="CN0320303Z24AA">彼</placeName>，春秋七十有五。</p><p>時<placeName key="CN0320301T02AA">栖<lb ed="T" n="0401b17"/>玄寺</placeName>又有<persName key="A003359">釋慧曜</persName>者。亦善《十誦》。</p>
+    <p><anchor n="T.50.2059.0401b12"/><lb ed="T" n="0401b12"/><persName key="A002320">釋道儼</persName>，<placeName key="PL000000023466">雍丘小黃</placeName>人。少有戒行。善於毘尼，<lb ed="T" n="0401b13"/>精研四部，融會眾家。又以律部東傳，<ptr target="fn16"/>梵漢<lb ed="T" n="0401b14"/>異音，文頗左右，恐後人諮訪無所，乃會其<lb ed="T" n="0401b15"/>旨歸，名曰《決正四部毘尼論》。後遊於<placeName key="PL000000009534">彭城</placeName>，<lb ed="T" n="0401b16"/>弘通律藏，遂卒於<placeName key="PL000000009534">彼</placeName>，春秋七十有五。</p><p>時<placeName key="PL000000009498">栖<lb ed="T" n="0401b17"/>玄寺</placeName>又有<persName key="A003359">釋慧曜</persName>者。亦善《十誦》。</p>
     <linkGrp>
         <link targets="#0401b16 #0401b17"/>
         <ptr target="#A003359" type="person"/>
-        <ptr target="#CN0320301T02AA" type="place"/>
+        <ptr target="#PL000000009498" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0401b15 #0401b16"/>
         <ptr target="#A002320" type="person"/>
-        <ptr target="#CN0320303Z24AA" type="place"/>
+        <ptr target="#PL000000009534" type="place"/>
         </linkGrp>
 </div>

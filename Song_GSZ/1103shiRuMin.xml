@@ -1,9 +1,14 @@
 <?xml version='1.0' encoding='utf-8'?>
-<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0849c12shiRuMin">
-    <anchor n="T.50.2061.0849c12"/><head><date from-iso="0923-05-18" key="j20583162063308" to-iso="0937-01-16">後唐</date>韶州靈樹院<persName key="A012883">如敏</persName>傳</head><p>
-<lb ed="T" n="0849c13"/><persName key="A012883">釋如敏</persName>，<placeName key="CN0350104Z19AA">閩</placeName>人也。始見<persName key="A003636">安禪師</persName>，遂盛化嶺外，
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0849c07shiRuMin">
+    <lb n="0849c07" ed="T"/><anchor n="T.50.2061.0849c07"/><head><anchor xml:id="beg0849c02"/>宋<anchor xml:id="end0849c02"/>高僧傳卷第二十二</head>
+    <lb n="0849c08" ed="T"/>
+    <lb n="0849c09" ed="T"/><byline n="Author"><anchor xml:id="beg0849c03"/>宋左街天壽寺通慧大師
+        <lb n="0849c10" ed="T"/>賜紫沙門贊寧奉　勅撰<anchor xml:id="end0849c03"/></byline>
+    <lb n="0849c11" ed="T"/><head>感通篇第六之五（正傳十三人附見五人）</head>
+    <lb n="0849c12" ed="T"/><head><date from-iso="0923-05-18" key="j20583162063308" to-iso="0937-01-16">後唐</date>韶州靈樹院<persName key="A012883">如敏</persName>傳</head><p>
+<lb ed="T" n="0849c13"/><persName key="A012883">釋如敏</persName>，<placeName key="PL000000017166">閩</placeName>人也。始見<persName key="A003636">安禪師</persName>，遂盛化嶺外，
 <lb ed="T" n="0849c14"/>誠多異迹。其為人也，寬綽純篤，無故寡言，
-        <lb ed="T" n="0849c15"/>深憫迷愚，率行激勸。<ref type="person" target="#A006590">劉氏</ref>偏覇<placeName key="CN0440105Z01AA">番禺</placeName>，每迎
+        <lb ed="T" n="0849c15"/>深憫迷愚，率行激勸。<ref type="person" target="#A006590">劉氏</ref>偏覇<placeName key="PL000000030482">番禺</placeName>，每迎
 <lb ed="T" n="0849c16"/>召<persName key="A012883">敏</persName>入請問，多逆知其來，驗同合契。廣主
 <lb ed="T" n="0849c17"/>奕世奉以周旋，時時禮見，有疑不決，直往詢
 <lb ed="T" n="0849c18"/>訪。<persName key="A012883">敏</persName>亦無嫌忌，啟發口占，然皆准的，時謂之
@@ -14,7 +19,7 @@
 <lb ed="T" n="0849c23"/>往迎之，問曰：「<persName key="A012883">師</persName>焉往乎？」曰：「<persName key="A012883">吾</persName>與山王有舊，
 <lb ed="T" n="0849c24"/>邀命言話來」如是時或亡者，乃穴地而出，嚴
         <lb ed="T" n="0849c25"/>誡之曰：「<persName key="A019460">所由</persName>無宜外說，洩吾閑務。」後終于
-<lb ed="T" n="0849c26"/><placeName key="CN0440203T01AA">住院</placeName>，全身不散。喪塔官供，今號靈樹禪師
+<lb ed="T" n="0849c26"/><placeName key="PL000000030549">住院</placeName>，全身不散。喪塔官供，今號靈樹禪師
 <lb ed="T" n="0849c27"/>真身塔<!--找不到此地-->，是歟！</p>
     <p xml:id="pT50p0849c2801"><lb ed="T" n="0849c28"/>系曰：<persName key="A012883">靈樹</persName>如遇<persName key="A003636">大安</persName>，必壽臘綿長，出人常
 <lb ed="T" n="0849c29"/>限。疑此亦所聞異辭矣。</p>
@@ -22,13 +27,13 @@
         <link targets="#0849c13 #0849c13"/>
         <ptr target="#A012883" type="person"/>
         <ptr target="#A003636" type="person"/>
-        <ptr target="#CN0350104Z19AA" type="place"/>
+        <ptr target="#PL000000017166" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0849c15 #0849c16"/>
         <ptr target="#A012883" type="person"/>
         <ptr target="#A006590" type="person"/>
-        <ptr target="#CN0440105Z01AA" type="place"/>
+        <ptr target="#PL000000030482" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0849c19 #0849c25"/>
@@ -38,6 +43,6 @@
     <linkGrp>
         <link targets="#0849c25 #0849c26"/>
         <ptr target="#A012883" type="person"/>
-        <ptr target="#CN0440203T01AA" type="place"/>
+        <ptr target="#PL000000030549" type="place"/>
     </linkGrp>
 </div>

@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0362b28shiFaAn">
         <p><anchor n="T.50.2059.0362b28"/><lb ed="T" n="0362b28"/><persName key="A002220">釋法安</persName>，一名<persName key="A002220">慈欽</persName>，未詳何許人，<persName key="A001204">遠公</persName>之弟<lb ed="T" n="0362b29"/>子也。善<ptr target="fn22"/>戒行，講說眾經，兼習禪業，善能開<lb ed="T" n="0362c01"/>化愚<ptr target="fn23"/>曚，拔邪歸正。</p>
-        <p><date from-iso="0405" key="j18690301874138" to-iso="0419">晉義熙中</date>，<placeName key="CN0620503Z08AA">新陽縣</placeName>虎災。<lb ed="T" n="0362c02"/>縣有大社樹，下築神廟。左右居民以百數，<lb ed="T" n="0362c03"/>遭虎死者夕有一兩。<persName key="A002220">安</persName>嘗遊<placeName key="CN0620503Z08AA">其縣</placeName>，暮逗此<lb ed="T" n="0362c04"/>村。民以畏虎，早<ptr target="fn24"/>閉閭。<persName key="A002220">安</persName>徑之樹下，通夜<lb ed="T" n="0362c05"/>坐禪。向曉，聞虎負人而至，投之樹北。見<persName key="A002220">安</persName>，<lb ed="T" n="0362c06"/>如喜如驚，跳伏<persName key="A002220">安</persName>前。<persName key="A002220">安</persName>為說法授戒，虎踞<lb ed="T" n="0362c07"/>地不動，有頃而去。旦，村人追虎至樹下，見<lb ed="T" n="0362c08"/><persName key="A002220">安</persName>大驚，謂是神人。遂傳之一縣，士庶宗奉。虎<lb ed="T" n="0362c09"/>災由此而息，因改神廟，留<persName key="A002220">安</persName>立寺，左右田<lb ed="T" n="0362c10"/>園皆捨為眾業。</p>
-        <p>後欲作畫像，須銅青，困不<lb ed="T" n="0362c11"/>能得。夜夢見一人，<ptr target="fn25"/>迂其床前云：「此下有<lb ed="T" n="0362c12"/>銅鐘。」覺即掘之，果得二口，因以青成像。後<lb ed="T" n="0362c13"/>以<ptr target="fn26"/>銅助遠公鑄佛，餘一，<placeName key="CN0420704Z17AA">武昌</placeName>太守<ptr target="fn27"/><persName key="A002844">熊無<lb ed="T" n="0362c14"/>患</persName>借視，遂留<persName key="A002220">之</persName>。<persName key="A002220">安</persName>後不知所終。</p>
+        <p><date from-iso="0405" key="j18690301874138" to-iso="0419">晉義熙中</date>，<placeName key="PL000000044895">新陽縣</placeName>虎災。<lb ed="T" n="0362c02"/>縣有大社樹，下築神廟。左右居民以百數，<lb ed="T" n="0362c03"/>遭虎死者夕有一兩。<persName key="A002220">安</persName>嘗遊<placeName key="PL000000044895">其縣</placeName>，暮逗此<lb ed="T" n="0362c04"/>村。民以畏虎，早<ptr target="fn24"/>閉閭。<persName key="A002220">安</persName>徑之樹下，通夜<lb ed="T" n="0362c05"/>坐禪。向曉，聞虎負人而至，投之樹北。見<persName key="A002220">安</persName>，<lb ed="T" n="0362c06"/>如喜如驚，跳伏<persName key="A002220">安</persName>前。<persName key="A002220">安</persName>為說法授戒，虎踞<lb ed="T" n="0362c07"/>地不動，有頃而去。旦，村人追虎至樹下，見<lb ed="T" n="0362c08"/><persName key="A002220">安</persName>大驚，謂是神人。遂傳之一縣，士庶宗奉。虎<lb ed="T" n="0362c09"/>災由此而息，因改神廟，留<persName key="A002220">安</persName>立寺，左右田<lb ed="T" n="0362c10"/>園皆捨為眾業。</p>
+        <p>後欲作畫像，須銅青，困不<lb ed="T" n="0362c11"/>能得。夜夢見一人，<ptr target="fn25"/>迂其床前云：「此下有<lb ed="T" n="0362c12"/>銅鐘。」覺即掘之，果得二口，因以青成像。後<lb ed="T" n="0362c13"/>以<ptr target="fn26"/>銅助遠公鑄佛，餘一，<placeName key="PL000000027417">武昌</placeName>太守<ptr target="fn27"/><persName key="A002844">熊無<lb ed="T" n="0362c14"/>患</persName>借視，遂留<persName key="A002220">之</persName>。<persName key="A002220">安</persName>後不知所終。</p>
         <linkGrp>
                 <link targets="#0362c01 #0362c09"/>
                 <ptr target="#A002220" type="person"/>
-                <ptr target="#CN0620503Z08AA" type="place"/>
+                <ptr target="#PL000000044895" type="place"/>
                 <ptr target="#j18690301874138" type="time"/>
         </linkGrp>
         <linkGrp>
@@ -17,6 +17,6 @@
         <linkGrp>
                 <link targets="#0362c13 #0362c14"/>
                 <ptr target="#A002844" type="person"/>
-                <ptr target="#CN0420704Z17AA" type="place"/>
+                <ptr target="#PL000000027417" type="place"/>
         </linkGrp>
 </div>

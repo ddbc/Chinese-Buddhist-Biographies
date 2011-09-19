@@ -1,15 +1,15 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0404a02shiSengQun">
-    <p><anchor n="T.50.2059.0404a02"/><lb ed="T" n="0404a02"/><persName key="A002328">釋僧群</persName>，未詳何<ptr target="fn02"/>許人。清貧守節，蔬食誦<lb ed="T" n="0404a03"/>經。後遷居<placeName key="CN0350181A11AA">羅江縣之霍山</placeName>，構立茅室。山孤<lb ed="T" n="0404a04"/>在海中，上有石盂，逕數丈許，水深六七尺，<lb ed="T" n="0404a05"/>常有清流。古老相傳云，是群仙所宅。<persName key="A002328">群</persName>僊飲<lb ed="T" n="0404a06"/>水不飢，因絕粒。後<placeName key="CN0350104Z25AA">晉守</placeName>太守<persName key="A003387">陶夔</persName>，聞而索<lb ed="T" n="0404a07"/>之。<persName key="A002328">群</persName>以水遺<persName key="A003387">夔</persName>，出山輒臭，如此三四。<persName key="A003387">夔</persName><lb ed="T" n="0404a08"/>躬目越海，天甚<ptr target="fn03"/>晴霽，及至山，風雨晦暝，停<lb ed="T" n="0404a09"/>數日，竟不得至，迺歎曰：「俗內凡夫，遂為賢<lb ed="T" n="0404a10"/>聖所隔。」慨恨而<ptr target="fn04"/>返。</p><p>群庵舍與盂隔一小<lb ed="T" n="0404a11"/>澗，常以一木為梁，由之汲水。後時忽有<lb ed="T" n="0404a12"/>一折翅鴨，舒翼當梁，頭就唼<persName key="A002328">群</persName>。<persName key="A002328">群</persName>欲舉錫<lb ed="T" n="0404a13"/><ptr target="fn05"/>杖撥之，恐畏傷損，因此迴還，絕水不飲，<lb ed="T" n="0404a14"/>數日而終，春秋一百四十矣。臨終向人說，<lb ed="T" n="0404a15"/>年少時，經折一鴨翅，驗此以為現報。</p>
+    <p><anchor n="T.50.2059.0404a02"/><lb ed="T" n="0404a02"/><persName key="A002328">釋僧群</persName>，未詳何<ptr target="fn02"/>許人。清貧守節，蔬食誦<lb ed="T" n="0404a03"/>經。後遷居<placeName key="PL000000017269">羅江縣之霍山</placeName>，構立茅室。山孤<lb ed="T" n="0404a04"/>在海中，上有石盂，逕數丈許，水深六七尺，<lb ed="T" n="0404a05"/>常有清流。古老相傳云，是群仙所宅。<persName key="A002328">群</persName>僊飲<lb ed="T" n="0404a06"/>水不飢，因絕粒。後<placeName key="PL000000017172">晉守</placeName>太守<persName key="A003387">陶夔</persName>，聞而索<lb ed="T" n="0404a07"/>之。<persName key="A002328">群</persName>以水遺<persName key="A003387">夔</persName>，出山輒臭，如此三四。<persName key="A003387">夔</persName><lb ed="T" n="0404a08"/>躬目越海，天甚<ptr target="fn03"/>晴霽，及至山，風雨晦暝，停<lb ed="T" n="0404a09"/>數日，竟不得至，迺歎曰：「俗內凡夫，遂為賢<lb ed="T" n="0404a10"/>聖所隔。」慨恨而<ptr target="fn04"/>返。</p><p>群庵舍與盂隔一小<lb ed="T" n="0404a11"/>澗，常以一木為梁，由之汲水。後時忽有<lb ed="T" n="0404a12"/>一折翅鴨，舒翼當梁，頭就唼<persName key="A002328">群</persName>。<persName key="A002328">群</persName>欲舉錫<lb ed="T" n="0404a13"/><ptr target="fn05"/>杖撥之，恐畏傷損，因此迴還，絕水不飲，<lb ed="T" n="0404a14"/>數日而終，春秋一百四十矣。臨終向人說，<lb ed="T" n="0404a15"/>年少時，經折一鴨翅，驗此以為現報。</p>
     <linkGrp>
         <link targets="#0404a03 #0404a04"/>
         <ptr target="#A002328" type="person"/>
-        <ptr target="#CN0350181A11AA" type="place"/>
+        <ptr target="#PL000000017269" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0404a06 #0404a10"/>
         <ptr target="#A002328" type="person"/>
         <ptr target="#A003387" type="person"/>
-        <ptr target="#CN0350181A11AA" type="place"/>
+        <ptr target="#PL000000017269" type="place"/>
         </linkGrp>
 </div>

@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0889a04shiHuiNing">
     <anchor n="T.50.2061.0889a04"/><head><date from-iso="0386-02-21" key="j18620951916335" to-iso="0534-08-24">元魏</date>洛陽<persName key="A013820">慧凝</persName>傳</head><p>
-<lb ed="T" n="0889a05"/><persName key="A013820">釋慧凝</persName>，未知何許人也，棲止<placeName key="CN0410302Z03AA">洛邑</placeName>而無異
+<lb ed="T" n="0889a05"/><persName key="A013820">釋慧凝</persName>，未知何許人也，棲止<placeName key="PL000000023581">洛邑</placeName>而無異
 <lb ed="T" n="0889a06"/>藝，正修練心戒耳。甞得疾暴終，七日而蘇，起
 <lb ed="T" n="0889a07"/>說冥間報應及見區分，更無毫髮之差。所
 <lb ed="T" n="0889a08"/>覩者五沙門，一是寶明寺<!--找不到此地--><persName key="A013826">智聖</persName>，以坐禪苦
@@ -18,7 +18,7 @@
 <lb ed="T" n="0889a19"/>務喧繁。雖造經像，止欲得他財物。既得
 <lb ed="T" n="0889a20"/>財物，貪心即起。既長貪行，三毒熾然，具足
 <lb ed="T" n="0889a21"/>煩惱。」與<persName key="A004788">最</persName>同入黑門。第五是靈覺寺<!--找不到此地--><persName key="A013830">寶明</persName>，
-<lb ed="T" n="0889a22"/>自稱未出家時，甞作<placeName key="CN0621122Z30AA">隴西</placeName>太守，造靈覺寺<!--找不到此地-->。
+<lb ed="T" n="0889a22"/>自稱未出家時，甞作<placeName key="PL000000046136">隴西</placeName>太守，造靈覺寺<!--找不到此地-->。
 <lb ed="T" n="0889a23"/>即棄官入道，雖不禪誦，禮拜不闕。<persName key="A005076">王</persName>曰：
 <lb ed="T" n="0889a24"/>「<persName key="A013830">卿</persName>作刺史之日，曲理枉法，劫奪民財，假作
 <lb ed="T" n="0889a25"/>此寺<!--找不到此地-->。非<persName key="A013830">卿</persName>之力，何勞說此？」亦付青衣送
@@ -40,7 +40,7 @@
     <linkGrp>
         <link targets="#0889a05 #0889a06"/>
         <ptr target="#A013820" type="person"/>
-        <ptr target="#CN0410302Z03AA" type="place"/>
+        <ptr target="#PL000000023581" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0889a27 #0889b02"/>

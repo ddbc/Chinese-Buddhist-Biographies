@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0892b29shiHuaiKong">
     <anchor n="T.50.2061.0892b29"/><head><date from-iso="0618-06-21" key="j19469512052491" to-iso="0907-06-06">唐</date>安陸定安山<persName key="A008832">懷空</persName>傳</head><p>
-<lb ed="T" n="0892c01"/><persName key="A008832">釋懷空</persName>，俗姓商氏，<placeName key="CN0410883Z08AA">河陽</placeName>人也。膏粱之子，幼且
-<lb ed="T" n="0892c02"/>矜莊。乃辭所親，就本州大都山<placeName key="CN0410883T05AA">廣福院</placeName>出
+<lb ed="T" n="0892c01"/><persName key="A008832">釋懷空</persName>，俗姓商氏，<placeName key="PL000000024703">河陽</placeName>人也。膏粱之子，幼且
+<lb ed="T" n="0892c02"/>矜莊。乃辭所親，就本州大都山<placeName key="PL000000024695">廣福院</placeName>出
 <lb ed="T" n="0892c03"/>家。<persName key="A010199">大明禪師</persName>默識<persName key="A008832">空</persName>之器局不常，教誦群
-<lb ed="T" n="0892c04"/>經。納法之後，觀方<placeName key="CN0610102Z07AA">京都</placeName>。屬<persName key="A009582">北秀禪師</persName>闡化，
-        <lb ed="T" n="0892c05"/>造而決疑。後往<placeName key="CN0420982M02AA">安陸定安山</placeName>，倏遇一叟，勸
+<lb ed="T" n="0892c04"/>經。納法之後，觀方<placeName key="PL000000042189">京都</placeName>。屬<persName key="A009582">北秀禪師</persName>闡化，
+        <lb ed="T" n="0892c05"/>造而決疑。後往<placeName key="PL000000027656">安陸定安山</placeName>，倏遇一叟，勸
 <lb ed="T" n="0892c06"/><persName key="A008832">空</persName>鎮壓此川，我霑大利。乃結茅而止，前叟
 <lb ed="T" n="0892c07"/>即土地神耳。尋因村民逐虎入山，見<persName key="A008832">空</persName>歡
 <lb ed="T" n="0892c08"/>喜而白之曰：「此中多虎暴，村落不安，願<persName key="A008832">和
@@ -29,18 +29,18 @@
         <link targets="#0892c02 #0892c04"/>
         <ptr target="#A008832" type="person"/>
         <ptr target="#A010199" type="person"/>
-        <ptr target="#CN0410883T05AA" type="place"/>
+        <ptr target="#PL000000024695" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0892c04 #0892c05"/>
         <ptr target="#A008832" type="person"/>
         <ptr target="#A009582" type="person"/>
-        <ptr target="#CN0610102Z07AA" type="place"/>
+        <ptr target="#PL000000042189" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0892c05 #0892c20"/>
         <ptr target="#A008832" type="person"/>
-        <ptr target="#CN0420982M02AA" type="place"/>
+        <ptr target="#PL000000027656" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0892c20 #0892c21"/>

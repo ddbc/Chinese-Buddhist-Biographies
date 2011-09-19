@@ -1,29 +1,29 @@
-<?xml version="1.0" encoding="UTF-8"?><div xml:id="mscc0358b13sengBiao" xmlns="http://www.tei-c.org/ns/1.0"><head>晉吳<placeName key="CN0320503T01AA">通玄寺</placeName><persName key="A002607">釋僧表</persName></head><p><anchor n="X.77.1523.0358b13"/><lb ed="X" n="0358b13"/>僧表本姓高。<placeName key="CN0620602Z11AA">涼洲</placeName>人也。志力勇猛。聞<placeName key="PKNWPS000A02AA">弗樓沙國</placeName>有佛<lb ed="X" n="0358b14"/>鉢。鉢今在罽賓<placeName key="PKNW00000T01AA">臺寺</placeName>。恒有五百羅漢供養鉢。鉢經騰<lb ed="X" n="0358b15"/>空至<placeName key="CN0620602Z11AA">涼洲</placeName>。有十二羅漢。隨鉢停。六年後還<placeName key="PKNWPS000E01AA">罽賓</placeName>。<persName key="A002607">僧表</persName><lb ed="X" n="0358b16"/>恨不及見。乃至西踰<placeName key="TJGB00000Z05AA">蔥嶺</placeName>。欲致誠禮。并至于<ptr target="fn6"/><placeName key="WW034KASME02AA">賓國</placeName>。值<lb ed="X" n="0358b17"/><placeName key="PKNWPS000E01AA">罽賓</placeName>路梗。于賓。王寄表有張志模寫佛鉢與之。又問<lb ed="X" n="0358b18"/>寧復有所願不。對曰。讚摩伽羅有<persName key="A015187">寶勝</persName>像。外國相傳<lb ed="X" n="0358b19"/>云。最似真相。願得供養。王即命工巧。營造金薄像。金<lb ed="X" n="0358b20"/>光陜高一丈。以真舍利置于頂上。<persName key="A002607">僧表</persName>接還<placeName key="CN0620602Z11AA">涼洲</placeName>。知<lb ed="X" n="0358b21"/>涼土將亡。欲反<placeName key="CN0000000E10AA">淮海</placeName>。經蜀<placeName key="CN0510108A07AA">欣平縣</placeName>。沙門<persName key="A002238">道汪</persName>。求停鉢<lb ed="X" n="0358b22"/>像供養。今在彼<placeName key="CN0510101T11AA">龍華寺</placeName>。<persName key="A002607">僧表</persName>入矣。禮敬石像。住二載。<lb ed="X" n="0358b23"/>卒于寺(云云)。</p>
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="mscc0358b13sengBiao"><head>晉吳<placeName key="PL000000009882">通玄寺</placeName><persName key="A002607">釋僧表</persName></head><p><anchor n="X.77.1523.0358b13"/><lb ed="X" n="0358b13"/>僧表本姓高。<placeName key="PL000000045053">涼洲</placeName>人也。志力勇猛。聞<placeName key="PL000000049231">弗樓沙國</placeName>有佛<lb ed="X" n="0358b14"/>鉢。鉢今在罽賓<placeName key="PL000000049220">臺寺</placeName>。恒有五百羅漢供養鉢。鉢經騰<lb ed="X" n="0358b15"/>空至<placeName key="PL000000045053">涼洲</placeName>。有十二羅漢。隨鉢停。六年後還<placeName key="PL000000049232">罽賓</placeName>。<persName key="A002607">僧表</persName><lb ed="X" n="0358b16"/>恨不及見。乃至西踰<placeName key="PL000000049638">蔥嶺</placeName>。欲致誠禮。并至于<ptr target="fn6"/><placeName key="PL000000055418">賓國</placeName>。值<lb ed="X" n="0358b17"/><placeName key="PL000000049232">罽賓</placeName>路梗。于賓。王寄表有張志模寫佛鉢與之。又問<lb ed="X" n="0358b18"/>寧復有所願不。對曰。讚摩伽羅有<persName key="A015187">寶勝</persName>像。外國相傳<lb ed="X" n="0358b19"/>云。最似真相。願得供養。王即命工巧。營造金薄像。金<lb ed="X" n="0358b20"/>光陜高一丈。以真舍利置于頂上。<persName key="A002607">僧表</persName>接還<placeName key="PL000000045053">涼洲</placeName>。知<lb ed="X" n="0358b21"/>涼土將亡。欲反<placeName key="PL000000000092">淮海</placeName>。經蜀<placeName key="PL000000034726">欣平縣</placeName>。沙門<persName key="A002238">道汪</persName>。求停鉢<lb ed="X" n="0358b22"/>像供養。今在彼<placeName key="PL000000034699">龍華寺</placeName>。<persName key="A002607">僧表</persName>入矣。禮敬石像。住二載。<lb ed="X" n="0358b23"/>卒于寺(云云)。</p>
     <linkGrp>
         <link targets="#0358b13 #0358b13"/>
         <ptr type="person" target="#A002607"/>
-        <ptr type="place" target="#CN0320503T01AA"/>
+        <ptr type="place" target="#PL000000009882"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0358b13 #0358b13"/>
         <ptr type="person" target="#A002607"/>
-        <ptr type="place" target="#CN0620602Z11AA"/>
+        <ptr type="place" target="#PL000000045053"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0358b16 #0358b20"/>
         <ptr type="person" target="#A002607"/>
-        <ptr type="place" target="#PKNWPS000E01AA"/>
+        <ptr type="place" target="#PL000000049232"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0358b20 #0358b23"/>
         <ptr type="person" target="#A002607"/>
         <ptr type="person" target="#A002238"/>
-        <ptr type="place" target="#CN0510108A07AA"/>
+        <ptr type="place" target="#PL000000034726"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0358b20 #0358b23"/>
         <ptr type="person" target="#A002607"/>
-        <ptr type="place" target="#CN0510101T11AA"/>
+        <ptr type="place" target="#PL000000034699"/>
     </linkGrp>
 </div>
-

@@ -1,19 +1,51 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0421b24shunGong">
     <head><lb ed="X" n="0421b24"/>　　　　<persName key="A014457">景福順</persName>禪師傳</head>
-    <p><anchor n="X.77.1524.0421c01"/><lb ed="X" n="0421c01"/><persName key="A014457">順公</persName>。<placeName key="unknown">西蜀</placeName>人。有遠識。為人勤劬。叢林後進。皆母德之。
-        <lb ed="X" n="0421c02"/>得法於<persName key="A003921">老黃龍</persName>。初出<placeName key="CN0510000E01AA">蜀</placeName>。與<persName key="A008347">圓通訥</persName>偕行。已又與<persName key="A007530">大覺<lb ed="X" n="0421c03"/>璉</persName>游甚久。有讚其像者曰。與<persName key="A008347">訥</persName>偕行。與<persName key="A007530">璉</persName>偕處。得法
+    <p><anchor n="X.77.1524.0421c01"/><lb ed="X" n="0421c01"/><persName key="A014457">順公</persName>。<placeName key="PL000000000100">西蜀</placeName>人。有遠識。為人勤劬。叢林後進。皆母德之。
+        <lb ed="X" n="0421c02"/>得法於<persName key="A003921">老黃龍</persName>。初出<placeName key="PL000000034649">蜀</placeName>。與<persName key="A008347">圓通訥</persName>偕行。已又與<persName key="A007530">大覺<lb ed="X" n="0421c03"/>璉</persName>游甚久。有讚其像者曰。與<persName key="A008347">訥</persName>偕行。與<persName key="A007530">璉</persName>偕處。得法
         <lb ed="X" n="0421c04"/>于<persName key="A003921">南</persName>。為<persName key="A003921">南</persName>長子。然緣薄。所居皆遠方小剎。學者過其
         <lb ed="X" n="0421c05"/>門莫能識。師亦超然自樂。視世境如飛埃過目。壽八
-        <lb ed="X" n="0421c06"/>十餘。坐脫於<placeName key="unknown">香城山</placeName>。顏貌如生。平生與<persName key="A017781">潘延之</persName>善。將
+        <lb ed="X" n="0421c06"/>十餘。坐脫於<placeName key="PL000000019363">香城山</placeName>。顏貌如生。平生與<persName key="A017781">潘延之</persName>善。將
         <lb ed="X" n="0421c07"/>終。使人要之敘別。<persName key="A017781">延之</persName>至。師已去矣。其示眾多為偈。
         <lb ed="X" n="0421c08"/>皆德言也。有偈曰。夏日人人把扇搖。冬來以炭滿爐
         <lb ed="X" n="0421c09"/>燒。若能於此全知曉。塵劫無明當下消。又作<persName key="A004475">趙州</persName>勘
         <lb ed="X" n="0421c10"/>婆偈曰。<persName key="A004475">趙州</persName>問路。婆子答云直與去麼。皆言勘破老
-        <lb ed="X" n="0421c11"/>婆。婆子無你雪處。又作<persName key="A003921">黃龍</persName>三關頌曰。<placeName key="CN0000000R01AA">長江</placeName>雲散水
+        <lb ed="X" n="0421c11"/>婆。婆子無你雪處。又作<persName key="A003921">黃龍</persName>三關頌曰。<placeName key="PL000000000150">長江</placeName>雲散水
         <lb ed="X" n="0421c12"/>滔滔。忽爾狂風浪便高。不識漁家玄妙意。偏於浪裏
         <lb ed="X" n="0421c13"/>颭風濤。又曰。南海波斯入大唐。有人別寶便商量。或
         <lb ed="X" n="0421c14"/>時遇賤或時貴。日到西峰影漸長。又曰。<persName key="A003921">黃龍老和尚</persName>。
         <lb ed="X" n="0421c15"/>有箇生緣語。山僧承嗣伊。今日為君舉。為君舉猫兒。
         <lb ed="X" n="0421c16"/>偏解捉老鼠。</p>
+    
+    <linkGrp>
+        <link targets="#0421c01 #0421c01"/> 
+        <ptr target="#A014457" type="person"/>
+        <ptr target="#PL000000000100" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0421c01 #0421c04"/> 
+        <ptr target="#A014457" type="person"/>
+        <ptr target="#A003921" type="person"/>
+        <ptr target="#A007530" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0421c02 #0421c02"/> 
+        <ptr target="#A014457" type="person"/>
+        <ptr target="#A008347" type="person"/>
+    </linkGrp> 
+    <linkGrp>
+        <link targets="#0421c05 #0421c06"/> 
+        <ptr target="#A014457" type="person"/>
+        <ptr target="#PL000000019363" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0421c06 #0421c07"/> 
+        <ptr target="#A014457" type="person"/>
+        <ptr target="#A017781" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0421c06 #0421c07"/> 
+        <ptr target="#A017781" type="person"/>
+        <ptr target="#PL000000019363" type="place"/>
+    </linkGrp>
 </div>

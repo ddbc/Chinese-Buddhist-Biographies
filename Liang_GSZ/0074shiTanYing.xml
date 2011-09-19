@@ -1,19 +1,19 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0364a01shiTanYing">
         <p><anchor n="T.50.2059.0364a01"/><lb ed="T" n="0364a01"/><persName key="A002223">釋曇影</persName>，或云北人，不知何許郡縣。性虛<ptr target="fn01"/>靖，<lb ed="T" n="0364a02"/>不甚交遊，而安貧志學，舉止詳審，過<ptr target="fn02"/>似淹<lb ed="T" n="0364a03"/>遲，而神氣駿捷，志與形反。能講《正法華經》<lb ed="T" n="0364a04"/>及《光讚<ptr target="fn03"/>波若》，每法輪一轉，輒道俗千數。</p>
-        <p>後<lb ed="T" n="0364a05"/>入<placeName key="CN0610000E01AA">關中</placeName>，<persName key="A002097">姚興</persName>大加禮接。及<persName key="A001583">什</persName>至<placeName key="CN0610112Z07AA">長安</placeName>，影往<lb ed="T" n="0364a06"/>從<persName key="A001583">之</persName>。<persName key="A001583">什</persName>謂<persName key="A002097">興</persName>曰：「昨見<persName key="A002223">影公</persName>，亦是此國風流<lb ed="T" n="0364a07"/>標望之僧也。」<persName key="A002097">興</persName>勅住<placeName key="CN0610125T14AA">逍遙園</placeName>，助<persName key="A001583">什</persName>譯經。初<lb ed="T" n="0364a08"/>出《成實論》，凡諍論問答，皆次第往反。<persName key="A002223">影</persName>恨其<lb ed="T" n="0364a09"/>支離，乃結為五番，竟以呈<persName key="A001583">什</persName>。<persName key="A001583">什</persName>曰：「大善，深<lb ed="T" n="0364a10"/>得吾意。」<persName key="A001583">什</persName>後出《妙法華經》，<persName key="A002223">影</persName>既舊所命宗，<lb ed="T" n="0364a11"/>特加深思，乃著《法華義疏》四卷，并注《中論》。<lb ed="T" n="0364a12"/>後山棲隱處，守節塵外，修功立善，愈老愈<lb ed="T" n="0364a13"/>篤。以<date key="j18690301874138" notAfter-iso="0419-02-11" notBefore-iso="0405-02-16">晉義熙中</date>卒，春秋七十矣。</p>
+        <p>後<lb ed="T" n="0364a05"/>入<placeName key="PL000000042002">關中</placeName>，<persName key="A002097">姚興</persName>大加禮接。及<persName key="A001583">什</persName>至<placeName key="PL000000042393">長安</placeName>，影往<lb ed="T" n="0364a06"/>從<persName key="A001583">之</persName>。<persName key="A001583">什</persName>謂<persName key="A002097">興</persName>曰：「昨見<persName key="A002223">影公</persName>，亦是此國風流<lb ed="T" n="0364a07"/>標望之僧也。」<persName key="A002097">興</persName>勅住<placeName key="PL000000042657">逍遙園</placeName>，助<persName key="A001583">什</persName>譯經。初<lb ed="T" n="0364a08"/>出《成實論》，凡諍論問答，皆次第往反。<persName key="A002223">影</persName>恨其<lb ed="T" n="0364a09"/>支離，乃結為五番，竟以呈<persName key="A001583">什</persName>。<persName key="A001583">什</persName>曰：「大善，深<lb ed="T" n="0364a10"/>得吾意。」<persName key="A001583">什</persName>後出《妙法華經》，<persName key="A002223">影</persName>既舊所命宗，<lb ed="T" n="0364a11"/>特加深思，乃著《法華義疏》四卷，并注《中論》。<lb ed="T" n="0364a12"/>後山棲隱處，守節塵外，修功立善，愈老愈<lb ed="T" n="0364a13"/>篤。以<date key="j18690301874138" notAfter-iso="0419-02-11" notBefore-iso="0405-02-16">晉義熙中</date>卒，春秋七十矣。</p>
         <linkGrp>
                 <link targets="#0364a05 #0364a07"/>
                 <ptr target="#A002223" type="person"/>
                 <ptr target="#A002097" type="person"/>
                 <ptr target="#A001583" type="person"/>
-                <ptr target="#CN0610000E01AA" type="place"/>
+                <ptr target="#PL000000042002" type="place"/>
         </linkGrp>
         <linkGrp>
                 <link targets="#0364a07 #0364a11"/>
                 <ptr target="#A001583" type="person"/>
                 <ptr target="#A002223" type="person"/>
-                <ptr target="#CN0610125T14AA" type="place"/>
+                <ptr target="#PL000000042657" type="place"/>
         </linkGrp>
         <linkGrp>
                 <link targets="#0364a12 #0364a13"/>

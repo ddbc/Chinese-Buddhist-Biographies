@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0893b15shiChengXin">
     <anchor n="T.50.2061.0893b15"/><head><date from-iso="0618-06-21" key="j19469512052491" to-iso="0907-06-06">唐</date>南嶽<persName key="A008828">澄心</persName>傳</head><p>
-<lb ed="T" n="0893b16"/><persName key="A008828">釋澄心</persName>，姓朱氏，<placeName key="CN0320705Z07AA">東海</placeName>人也。厥父任<placeName key="CN0410881Z25AA">濟源</placeName>令。
+<lb ed="T" n="0893b16"/><persName key="A008828">釋澄心</persName>，姓朱氏，<placeName key="PL000000010400">東海</placeName>人也。厥父任<placeName key="PL000000024630">濟源</placeName>令。
 <lb ed="T" n="0893b17"/><date key="j19921141997410" notAfter-iso="0756" notBefore-iso="0742">天寶</date>中，安、史之亂遇害。<persName key="A008828">心</persName>穉齒隨母氏至
-<lb ed="T" n="0893b18"/><placeName key="CN0410882Z18AA">河內</placeName>，貧極，母即從人。<persName key="A008828">心</persName>不樂隨嫁。<persName key="A008828">心</persName>之志
+<lb ed="T" n="0893b18"/><placeName key="PL000000024671">河內</placeName>，貧極，母即從人。<persName key="A008828">心</persName>不樂隨嫁。<persName key="A008828">心</persName>之志
 <lb ed="T" n="0893b19"/>氣不群，乃投應福寺<!--找不到此地--><persName key="A013912">智明法師</persName>求教勗，披
         <lb ed="T" n="0893b20"/>削登戒。後雲遊鳥宿，務急參玄於<persName key="A009582">秀師</persName><ref type="person" target="#A009319">高
-            <lb ed="T" n="0893b21"/>足</ref>門下<note resp="sgsz">參 (cf. 景德傳燈錄<ref>CBETA, T51, no. 2076, p. 224, c05</ref>)</note>，了其法要。乃觀諸方名跡，遂止<placeName key="CN0430412M01AA">衡
+            <lb ed="T" n="0893b21"/>足</ref>門下<note resp="sgsz">參 (cf. 景德傳燈錄<ref>CBETA, T51, no. 2076, p. 224, c05</ref>)</note>，了其法要。乃觀諸方名跡，遂止<placeName key="PL000000028928">衡
 <lb ed="T" n="0893b22"/>嶽</placeName>。請益之僧，摩肩駢足。時太守<persName key="A013913">吳憲忠</persName>請
 <lb ed="T" n="0893b23"/><persName key="A008828">心</persName>入州治，謝而不行。再命棲于龍興寺<!--找不到此地-->，來
 <lb ed="T" n="0893b24"/>問道者，丈室恒滿。<date key="j20143212014350" notAfter-iso="0803-01-01" notBefore-iso="0802-12-03">貞元十八年壬午十一月</date>
@@ -15,7 +15,7 @@
     <linkGrp>
         <link targets="#0893b17 #0893b18"/>
         <ptr target="#A008828" type="person"/>
-        <ptr target="#CN0410882Z18AA" type="place"/>
+        <ptr target="#PL000000024671" type="place"/>
         <ptr target="#j19921141997410" type="time"/>
     </linkGrp>
     <linkGrp>
@@ -37,6 +37,6 @@
         <link targets="#0893b21 #0893b23"/>
         <ptr target="#A008828" type="person"/>
         <ptr target="#A013913" type="person"/>
-        <ptr target="#CN0430412M01AA" type="place"/>
+        <ptr target="#PL000000028928" type="place"/>
     </linkGrp>
 </div>

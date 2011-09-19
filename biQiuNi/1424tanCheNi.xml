@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="bqnz0942a13tanCheNi">
-    <head><placeName key="CN0321011T06AA">南永安寺</placeName><persName key="A015493">曇徹</persName>尼<ptr target="fn12"/>傳二</head><p><anchor n="T.50.2063.0942a14"/><lb ed="T" n="0942a14"/><persName key="A015493">曇徹</persName>尼，未詳何許人也。少為<persName key="A015294">普要</persName>尼弟子，隨<lb ed="T" n="0942a15"/><persName key="A015294">要</persName>住<placeName key="CN0321011T06AA">南永安寺</placeName>。<persName key="A015294">要</persName>道潔學優，有聞當世。<persName key="A015493">徹</persName>秉<lb ed="T" n="0942a16"/>操無矯，習業不休，佛法奧義，必欲總採。未及<lb ed="T" n="0942a17"/>成戒，<ptr target="fn13"/>已究經論；具足已後，遍習毘尼。才堪機<lb ed="T" n="0942a18"/>務，尤能講說，剖毫析滯，探賾幽隱，諸尼大小<lb ed="T" n="0942a19"/>皆請北面，隨方應會，負帙成群。五侯七貴婦<lb ed="T" n="0942a20"/>女<ptr target="fn＊"/>以下，莫不修敬。年六十三，<date from-iso="0484-02-13" key="j18978811898235" to-iso="0485-02-01">齊永明二年</date>卒<lb ed="T" n="0942a21"/><ptr target="fn14"/>矣。</p>
+    <head><placeName key="PL000000010831">南永安寺</placeName><persName key="A015493">曇徹</persName>尼<ptr target="fn12"/>傳二</head><p><anchor n="T.50.2063.0942a14"/><lb ed="T" n="0942a14"/><persName key="A015493">曇徹</persName>尼，未詳何許人也。少為<persName key="A015294">普要</persName>尼弟子，隨<lb ed="T" n="0942a15"/><persName key="A015294">要</persName>住<placeName key="PL000000010831">南永安寺</placeName>。<persName key="A015294">要</persName>道潔學優，有聞當世。<persName key="A015493">徹</persName>秉<lb ed="T" n="0942a16"/>操無矯，習業不休，佛法奧義，必欲總採。未及<lb ed="T" n="0942a17"/>成戒，<ptr target="fn13"/>已究經論；具足已後，遍習毘尼。才堪機<lb ed="T" n="0942a18"/>務，尤能講說，剖毫析滯，探賾幽隱，諸尼大小<lb ed="T" n="0942a19"/>皆請北面，隨方應會，負帙成群。五侯七貴婦<lb ed="T" n="0942a20"/>女<ptr target="fn＊"/>以下，莫不修敬。年六十三，<date from-iso="0484-02-13" key="j18978811898235" to-iso="0485-02-01">齊永明二年</date>卒<lb ed="T" n="0942a21"/><ptr target="fn14"/>矣。</p>
     <linkGrp>
         <link targets="#0942a14 #0942a16"/>
         <ptr target="#A015493" type="person"/>
         <ptr target="#A015294" type="person"/>
-        <ptr target="#CN0321011T06AA" type="place"/>
+        <ptr target="#PL000000010831" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0942a20 #0942a21"/>

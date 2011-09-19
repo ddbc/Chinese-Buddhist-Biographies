@@ -1,23 +1,41 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0416c02weiShan">
     <head><lb ed="X" n="0416c02"/>　　　　<persName key="A008335">福昌善</persName>禪師傳</head>
-    <p><anchor n="X.77.1524.0416c03"/><lb ed="X" n="0416c03"/><persName key="A008335">惟善</persName>。不知何許人。住荊南<persName key="unknown">福昌寺</persName>。嗣<persName key="unknown">明教寬</persName>禪師。為
+    <p><anchor n="X.77.1524.0416c03"/><lb ed="X" n="0416c03"/><persName key="A008335">惟善</persName>。不知何許人。住荊南<placeName key="PL000000027852">福昌寺</placeName>。嗣<persName key="A020922">明教寬</persName>禪師。為
         <lb ed="X" n="0416c04"/>人敬嚴。祕重法道。初住持時。屋廬十餘間。殘僧數輩。
         <lb ed="X" n="0416c05"/>師晨香夕燈。陞座說法。如臨千眾。禪林受用。所宜有
         <lb ed="X" n="0416c06"/>者。咸修備之。客至肅然加敬。十餘年而衲子方集。至
-        <lb ed="X" n="0416c07"/>百許人。師見來者。必勘驗之。有僧自號<persName key="unknown">映達摩</persName>。纔入
+        <lb ed="X" n="0416c07"/>百許人。師見來者。必勘驗之。有僧自號<persName key="A021939">映達摩</persName>。纔入
         <lb ed="X" n="0416c08"/>方丈。提起坐具曰。展即徧周法界。不展即賓主不分。
-        <lb ed="X" n="0416c09"/>展即是。不展即是。師曰。汝平地喫交了也。映曰。明眼
-        <lb ed="X" n="0416c10"/>尊宿。果然有在。師便打。映曰。奪柱杖打倒和尚莫言
-        <lb ed="X" n="0416c11"/>不道。師曰。棺木裏瞠眼漢。且坐喫茶。茶罷。映前白曰。
+        <lb ed="X" n="0416c09"/>展即是。不展即是。師曰。汝平地喫交了也。<persName key="A021939">映</persName>曰。明眼
+        <lb ed="X" n="0416c10"/>尊宿。果然有在。師便打。<persName key="A021939">映</persName>曰。奪柱杖打倒和尚莫言
+        <lb ed="X" n="0416c11"/>不道。師曰。棺木裏瞠眼漢。且坐喫茶。茶罷。<persName key="A021939">映</persName>前白曰。
         <lb ed="X" n="0416c12"/>適來容易觸忤和尚。師曰。兩重公案喝出。又問僧近
         <lb ed="X" n="0416c13"/>離何處。曰承天。曰不涉途程道將一句來。僧喝之。師
         <lb ed="X" n="0416c14"/>便打。僧以坐具作摵勢。師笑曰。喪車後掉藥囊。又問。
         <lb ed="X" n="0416c15"/>俗士年多少。曰四十四。師曰。添一減一是多少。其人
-        <lb ed="X" n="0416c16"/>無對。師自代云。適來猶記得。又問。僧何處來。曰<placeName key="CN0430703M01AA">德山</placeName>。
-        <lb ed="X" n="0416c17"/>曰<persName key="unknown">武陵溪</persName>畔。道將一句來。僧無語。乃自代曰。水到渠
+        <lb ed="X" n="0416c16"/>無對。師自代云。適來猶記得。又問。僧何處來。曰<placeName key="PL000000029432">德山</placeName>。
+        <lb ed="X" n="0416c17"/>曰<placeName key="PL000000029395">武陵溪</placeName>畔。道將一句來。僧無語。乃自代曰。水到渠
         <lb ed="X" n="0416c18"/>成。師機鋒峻不可嬰。諸方畏服。法席追還<persName key="A003703">雲門</persName>之風
-        <lb ed="X" n="0416c19"/>。<persName key="A003921">南禪師</persName>甞曰。我與<persName key="unknown">翠岩悅</persName>。在福昌時。適病寒。服藥出
+        <lb ed="X" n="0416c19"/>。<persName key="A003921">南禪師</persName>甞曰。我與<persName key="A008388">翠岩悅</persName>。在<placeName key="PL000000027852">福昌</placeName>時。適病寒。服藥出
         <lb ed="X" n="0416c20"/>汗。悅從禪侶徧借被。咸無焉。有紙衾者。皆以衰老亦
-        <lb ed="X" n="0416c21"/>可數。悅太息曰。<persName key="A008335">善</persName>公本色作家也。unknown</p>
+        <lb ed="X" n="0416c21"/>可數。<persName key="A008388">悅</persName>太息曰。<persName key="A008335">善</persName>公本色作家也。</p>
+    
+    <linkGrp>
+        <link targets="#0416c03 #0416c18"/>
+        <ptr target="#A008335" type="person"/>
+        <ptr target="#A021939" type="person"/>
+        <ptr target="#PL000000027852" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0416c03 #0416c03"/>
+        <ptr target="#A008335" type="person"/>  
+        <ptr target="#A020922" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0416c19 #0416c21"/>
+        <ptr target="#A008335" type="person"/>
+        <ptr target="#A008388" type="person"/>
+        <ptr target="#PL000000027852" type="place"/>
+    </linkGrp>
 </div>

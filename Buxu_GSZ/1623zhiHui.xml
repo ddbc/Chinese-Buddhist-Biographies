@@ -1,22 +1,75 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0407c13zhiHui">
     <head><lb ed="X" n="0407c13"/>　　　　梁　<persName key="A013776">重雲暉</persName>禪師傳</head>
-    <p><anchor n="X.77.1524.0407c14"/><lb ed="X" n="0407c14"/>重雲禪師<persName key="A013776">智暉</persName>。生<placeName key="CN0610404Z14AA">咸秦</placeName>高氏。總角時。即好游佛寺。喜
+    <p><anchor n="X.77.1524.0407c14"/><lb ed="X" n="0407c14"/>重雲禪師<persName key="A013776">智暉</persName>。生<placeName key="PL000000043060">咸秦</placeName>高氏。總角時。即好游佛寺。喜
         <lb ed="X" n="0407c15"/>動顏色。自誓出家。<date key="j20468572047222" when-iso="0892">年二十</date>受滿足戒。印心于<persName key="A009487">白水仁</persName>
-        <lb ed="X" n="0407c16"/>禪師。因愛中灘山水。剏屋居之。號溫室院。日以施水
+        <lb ed="X" n="0407c16"/>禪師。因愛中灘山水。剏屋居之。號<placeName key="PL000000023616">溫室院</placeName>。日以施水
         <lb ed="X" n="0407c17"/>給藥為事。有比丘患白癩。眾惡之。師引歸。日夕與摩
         <lb ed="X" n="0407c18"/>洗。久之。忽神光異香煥發。失僧所在。視瘡痂皆異香
-        <lb ed="X" n="0407c19"/>也。<date from-iso="0907-06-10" to-iso="0911-06-04" key="j20524952053950">梁開平中</date>。思故山。乃還終南<placeName key="CN0610125M10AA">圭峰</placeName>。于是翛然深往。
+        <lb ed="X" n="0407c19"/>也。<date from-iso="0907-06-10" to-iso="0911-06-04" key="j20524952053950">梁開平中</date>。思故山。乃還終南<placeName key="PL000000042639">圭峰</placeName>。于是翛然深往。
         <lb ed="X" n="0407c20"/>獨步岩石。徘徊顧望。忽見磨納數珠銅瓶椶笠。在石
         <lb ed="X" n="0407c21"/>壁間。觸之即壞。宛如常寢處。遂恍然曰。此吾前身道
         <lb ed="X" n="0407c22"/>具也。因就其處建寺。以酧昔因。方薙草有祥雲。出眾
-        <lb ed="X" n="0407c23"/>峰間。遂名重雲。虎豹引去。有龍湫險惡不可犯。師夷
-        <lb ed="X" n="0407c24"/>之為路。龍亦去之。<persName key="A006576">後唐明宗</persName>。聞而嘉歎。賜額曰長興。
-        <lb ed="X" n="0408a01"/>住持四十餘年。接引後學。老而無倦。節度使王彥超。
+        <lb ed="X" n="0407c23"/>峰間。遂名<placeName key="PL000000042662">重雲</placeName>。虎豹引去。有龍湫險惡不可犯。師夷
+        <lb ed="X" n="0407c24"/>之為路。龍亦去之。<persName key="A006576">後唐明宗</persName>。聞而嘉歎。賜額曰<placeName key="PL000000042662">長興</placeName>。
+        <lb ed="X" n="0408a01"/>住持四十餘年。接引後學。老而無倦。節度使<persName key="A021771">王彥超</persName>。
         <lb ed="X" n="0408a02"/>微時甞從<persName key="A013776">暉</persName>游。願為沙門。<persName key="A013776">暉</persName>曰。汝世緣深。當為吾家
-        <lb ed="X" n="0408a03"/>垣墻。彥超後果鎮<placeName key="CN0610102Z25AA">永興</placeName>。于是益敬師。<date from-iso="0956-05-18" to-iso="0956-08-13" key="j20703702070457">周顯德三年夏</date>。
-        <lb ed="X" n="0408a04"/>詣別彥超。囑以山門事。<date from-iso="0956-08-14" to-iso="0956-09-11" key="j20704582070486">初秋</date>體尚無恙。忽說偈曰。我
+        <lb ed="X" n="0408a03"/>垣墻。<persName key="A021771">彥超</persName>後果鎮<placeName key="PL000000042207">永興</placeName>。于是益敬師。<date from-iso="0956-05-18" to-iso="0956-08-13" key="j20703702070457">周顯德三年夏</date>。
+        <lb ed="X" n="0408a04"/>詣別<persName key="A021771">彥超</persName>。囑以山門事。<date from-iso="0956-08-14" to-iso="0956-09-11" key="j20704582070486">初秋</date>體尚無恙。忽說偈曰。我
         <lb ed="X" n="0408a05"/>有一間舍。父母為修蓋。住來八十年。近來覺損壞。早
         <lb ed="X" n="0408a06"/>擬移他處。事涉有憎愛。待他摧毀時。彼此無相礙。乃
         <lb ed="X" n="0408a07"/>加趺而化。閱世八十有四。臘六十四。塔於本山。</p>
+    
+    <linkGrp>
+        <link targets="#0407c14 #0407c14"/>
+        <ptr target="#A013776" type="person"/>
+        <ptr target="#PL000000043060" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0407c14 #0407c15"/>
+        <ptr target="#A013776" type="person"/>
+        <ptr target="#j20468572047222" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0407c15 #0407c16"/>
+        <ptr target="#A013776" type="person"/>
+        <ptr target="#A009487" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0407c16 #0407c18"/>
+        <ptr target="#A013776" type="person"/>
+        <ptr target="#PL000000023616" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0407c19 #0407c21"/>
+        <ptr target="#A013776" type="person"/>
+        <ptr target="#PL000000042639" type="place"/>
+        <ptr target="#j20524952053950" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0407c24 #0407c24"/>
+        <ptr target="#A013776" type="person"/>
+        <ptr target="#A006576" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0407c19 #0408a01"/>
+        <ptr target="#A013776" type="person"/>
+        <ptr target="#PL000000042662" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0408a03 #0408a03"/>
+        <ptr target="#A021771" type="person"/>
+        <ptr target="#PL000000042207" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0408a01 #0408a03"/>
+        <ptr target="#A013776" type="person"/>
+        <ptr target="#A021771" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0408a03 #0408a07"/>
+        <ptr target="#A013776" type="person"/>
+        <ptr target="#A021771" type="person"/>
+        <ptr target="#j20703702070457" type="time"/>
+    </linkGrp>
 </div>

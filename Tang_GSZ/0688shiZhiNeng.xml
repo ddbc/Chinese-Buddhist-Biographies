@@ -1,26 +1,26 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0676a14shiZhiNeng">
-    <p><anchor n="T.50.2060.0676a14"/><lb ed="T" n="0676a14"/><persName key="A007309">釋智能</persName><ptr target="fn02"/>李氏。懷州<placeName key="CN0410882Z18AA">河內</placeName>人。<ptr target="fn03"/>布意遠塵束<lb ed="T" n="0676a15"/>懷律教。收聽令譽風被<placeName key="CN0600000D03AA">河右</placeName>。<date key="j19333311935151" notAfter-iso="0586" notBefore-iso="0581">開皇之始</date>。觀<lb ed="T" n="0676a16"/>道<placeName key="CN0610502Z04AA">渭陰</placeName>隨奉資行。住<placeName key="CN0610102T49AA">轉輪寺</placeName>。<date key="j19406121942058" notAfter-iso="0605" notBefore-iso="0601">仁壽</date>置塔。奉<lb ed="T" n="0676a17"/>勅召送於青州<placeName key="CN0370781T05AA">勝福寺</placeName>中。處約懸峯山參<lb ed="T" n="0676a18"/>天際。風樹交結<ptr target="fn04"/>逈<ptr target="fn05"/>瞰千里。古名巖勢之道<lb ed="T" n="0676a19"/>場也。<date key="j19027751916335" notAfter-iso="0534" notBefore-iso="0497">元魏末時</date>創開此額。初置基日。疏山<lb ed="T" n="0676a20"/>鑿地。入土三尺獲古石函。長可八尺深六<lb ed="T" n="0676a21"/>尺許。表<ptr target="fn06"/>裹平滑殆非人運。所謂至感冥通<lb ed="T" n="0676a22"/>有祈斯應矣。及下舍利大放光明挺溢山<lb ed="T" n="0676a23"/>宇。道俗俱見。乃至出沒流轉。變狀<ptr target="fn07"/>匹論。<persName key="A007309">能</persName><lb ed="T" n="0676a24"/>晚還<placeName key="CN0610102T49AA">寺</placeName>更崇定業。林泉栖託不預僧倫。逃<lb ed="T" n="0676a25"/>名永逝莫測<ptr target="fn08"/>其終。</p>
+    <p><anchor n="T.50.2060.0676a14"/><lb ed="T" n="0676a14"/><persName key="A007309">釋智能</persName><ptr target="fn02"/>李氏。懷州<placeName key="PL000000024671">河內</placeName>人。<ptr target="fn03"/>布意遠塵束<lb ed="T" n="0676a15"/>懷律教。收聽令譽風被<placeName key="PL000000041987">河右</placeName>。<date key="j19333311935151" notAfter-iso="0586" notBefore-iso="0581">開皇之始</date>。觀<lb ed="T" n="0676a16"/>道<placeName key="PL000000043281">渭陰</placeName>隨奉資行。住<placeName key="PL000000042160">轉輪寺</placeName>。<date key="j19406121942058" notAfter-iso="0605" notBefore-iso="0601">仁壽</date>置塔。奉<lb ed="T" n="0676a17"/>勅召送於青州<placeName key="PL000000021094">勝福寺</placeName>中。處約懸峯山參<lb ed="T" n="0676a18"/>天際。風樹交結<ptr target="fn04"/>逈<ptr target="fn05"/>瞰千里。古名巖勢之道<lb ed="T" n="0676a19"/>場也。<date key="j19027751916335" notAfter-iso="0534" notBefore-iso="0497">元魏末時</date>創開此額。初置基日。疏山<lb ed="T" n="0676a20"/>鑿地。入土三尺獲古石函。長可八尺深六<lb ed="T" n="0676a21"/>尺許。表<ptr target="fn06"/>裹平滑殆非人運。所謂至感冥通<lb ed="T" n="0676a22"/>有祈斯應矣。及下舍利大放光明挺溢山<lb ed="T" n="0676a23"/>宇。道俗俱見。乃至出沒流轉。變狀<ptr target="fn07"/>匹論。<persName key="A007309">能</persName><lb ed="T" n="0676a24"/>晚還<placeName key="PL000000042160">寺</placeName>更崇定業。林泉栖託不預僧倫。逃<lb ed="T" n="0676a25"/>名永逝莫測<ptr target="fn08"/>其終。</p>
     <linkGrp>
         <link targets="#0676a14 #0676a14"/>
         <ptr target="#A007309" type="person"/>
-        <ptr target="#CN0410882Z18AA" type="place"/>
+        <ptr target="#PL000000024671" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0676a15 #0676a16"/>
         <ptr target="#A007309" type="person"/>
-        <ptr target="#CN0610102T49AA" type="place"/>
+        <ptr target="#PL000000042160" type="place"/>
         <ptr target="#j19333311935151" type="time"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0676a16 #0676a23"/>
         <ptr target="#A007309" type="person"/>
-        <ptr target="#CN0370781T05AA" type="place"/>
+        <ptr target="#PL000000021094" type="place"/>
         <ptr target="#j19406121942058" type="time"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0676a23 #0676a25"/>
         <ptr target="#A007309" type="person"/>
-        <ptr target="#CN0610102T49AA" type="place"/>
+        <ptr target="#PL000000042160" type="place"/>
         </linkGrp>
 </div>

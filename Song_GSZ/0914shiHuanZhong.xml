@@ -1,49 +1,54 @@
 <?xml version='1.0' encoding='utf-8'?>
-<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0778a07shiHuanZhong">
-    <anchor n="T.50.2061.0778a07"/><head><date from-iso="0618-06-21" key="j19469512052491" to-iso="0907-06-06">唐</date>杭州大慈山<persName key="A010538">寰中</persName>傳</head><p>
-        <lb ed="T" n="0778a08"/><persName key="A010538">釋寰中</persName>，姓盧氏，<placeName key="CN0140881Z15AA">河東蒲坂</placeName>人也。稟靈<anchor xml:id="beg0778001"/>特<anchor xml:id="end0778001"/>異，
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0778a02shiHuanZhong">
+    <lb n="0778a02" ed="T"/><anchor n="T.50.2061.0778a02"/><head><anchor xml:id="beg0778a01"/>宋<anchor xml:id="end0778a01"/>高僧傳卷第十二</head>
+    <lb n="0778a03" ed="T"/>
+    <lb n="0778a04" ed="T"/><byline n="Author"><anchor xml:id="beg0778a02"/>宋左街天壽寺通慧大師
+        <lb n="0778a05" ed="T"/>賜紫沙門贊寧等奉　勅撰<anchor xml:id="end0778a02"/></byline>
+    <lb n="0778a06" ed="T"/><head>習禪篇第三之五（正傳二十人附見四人）</head>
+        <lb n="0778a07" ed="T"/><head><date from-iso="0618-06-21" key="j19469512052491" to-iso="0907-06-06">唐</date>杭州大慈山<persName key="A010538">寰中</persName>傳</head><p>
+        <lb ed="T" n="0778a08"/><persName key="A010538">釋寰中</persName>，姓盧氏，<placeName key="PL000000005199">河東蒲坂</placeName>人也。稟靈<anchor xml:id="beg0778001"/>特<anchor xml:id="end0778001"/>異，
 <lb ed="T" n="0778a09"/>挺質殊倫，身支𦟛亭，頂骨圓峻，其聲若鐘響，
 <lb ed="T" n="0778a10"/>其色猶脂凝。學通終古，辭實豐贍。<date key="j20147152015080" from-iso="0804-01-01" to-iso="0804-12-31">年二十
     <lb ed="T" n="0778a11"/>五</date>，隨計中甲科，然未塞其懷，復思再捷。無
 <lb ed="T" n="0778a12"/>何，遭母之憂，遂廬于墓所。及服闋，徑往北
-<lb ed="T" n="0778a13"/>京<placeName key="CN0140110T09AA">童子寺</placeName>出家。二稔未周，諸經皆覽。<date key="j20150812015445" from-iso="0805-01-01" to-iso="0805-12-31">明年</date>，往
-<lb ed="T" n="0778a14"/><placeName key="CN0410185M02AA">嵩嶽</placeName>登戒，<anchor xml:id="beg0778002"/>肄<anchor xml:id="end0778002"/>習律部。於茲博通，忽慕上乘，
-<lb ed="T" n="0778a15"/>決往<placeName key="CN0360921M01AA">百丈山</placeName>，深得玄旨。後隱南嶽<placeName key="CN0430412T13AA">常樂寺</placeName>，
+<lb ed="T" n="0778a13"/>京<placeName key="PL000000003780">童子寺</placeName>出家。二稔未周，諸經皆覽。<date key="j20150812015445" from-iso="0805-01-01" to-iso="0805-12-31">明年</date>，往
+<lb ed="T" n="0778a14"/><placeName key="PL000000023253">嵩嶽</placeName>登戒，<anchor xml:id="beg0778002"/>肄<anchor xml:id="end0778002"/>習律部。於茲博通，忽慕上乘，
+<lb ed="T" n="0778a15"/>決往<placeName key="PL000000019628">百丈山</placeName>，深得玄旨。後隱南嶽<placeName key="PL000000028944">常樂寺</placeName>，
 <lb ed="T" n="0778a16"/>結茅于山椒。諫議大夫<persName key="A010539">崖公</persName>深重其操，因別
 <lb ed="T" n="0778a17"/>立方丈。虞淵景晞，一飯永日。然其乏水，羸
 <lb ed="T" n="0778a18"/>瓶遠求。俄爾深宵，有虎嘷嘯廬側，詰旦視
-<lb ed="T" n="0778a19"/>之，果濫泉坼地而湧，足其汲用。後之<placeName key="CN0330103Z19AA">杭</placeName>，<placeName key="CN0300000R01AA">浙
-<lb ed="T" n="0778a20"/>江</placeName>之北有山號<placeName key="CN0330102M04AA">大慈</placeName>。居未久，檀信爰臻。旋
+<lb ed="T" n="0778a19"/>之，果濫泉坼地而湧，足其汲用。後之<placeName key="PL000000011519">杭</placeName>，<placeName key="PL000000008367">浙
+<lb ed="T" n="0778a20"/>江</placeName>之北有山號<placeName key="PL000000011429">大慈</placeName>。居未久，檀信爰臻。旋
 <lb ed="T" n="0778a21"/>成巨院，四方僧侶參禮如雲。<date from-iso="0840" key="j20279082030170" to-iso="0846">屬</date><persName key="A006570">武宗</persName>廢教，
 <lb ed="T" n="0778a22"/><persName key="A010538">中</persName>衣短褐，或請居戴氏別墅焉。<date from-iso="0852-01-29" key="j20322752032658" to-iso="0853-02-15">大中壬申
 <lb ed="T" n="0778a23"/>歲</date>，太守<persName key="A010499">劉公</persName>首命剃染，重盛禪林。<date key="j20359812035981" when-iso="0862-03-23">壬午歲二
 <lb ed="T" n="0778a24"/>月十五日</date>囑累，聲畢而終。時漸溽暑，驗其身
 <lb ed="T" n="0778a25"/>一無變異，而頂門燠潤。冬窆于塔所，享年
-<lb ed="T" n="0778a26"/>八十三，法臘五十四。有說<placeName key="CN0430412T13AA">常樂寺</placeName>山<placeName key="CN0430412A05AA">虎跑泉</placeName>，
+<lb ed="T" n="0778a26"/>八十三，法臘五十四。有說<placeName key="PL000000028944">常樂寺</placeName>山<placeName key="PL000000028925">虎跑泉</placeName>，
         <lb ed="T" n="0778a27"/>當<persName key="A010538">中公</persName>滅日，忽焉乾涸。異哉！止資<persName key="A010538">中</persName>之受
 <lb ed="T" n="0778a28"/>用耳。至<date from-iso="0877-01-22" key="j20414002041783" to-iso="0878-02-09">乾符丁酉歲</date>，勅<app type="cb-app" xml:id="begd1e18895"/>諡<anchor xml:id="endd1e18895"/>大師，號<persName key="A010538">性空</persName>，塔
-<lb ed="T" n="0778a29"/>名定慧也。<placeName key="CN0430412T13AA">縉雲</placeName>太守<persName key="A000850">段成式</persName>為真讚焉。</p>
+<lb ed="T" n="0778a29"/>名定慧也。<placeName key="PL000000028944">縉雲</placeName>太守<persName key="A000850">段成式</persName>為真讚焉。</p>
     <linkGrp>
         <link targets="#0778a10 #0778a12"/>
         <ptr target="#A010538" type="person"/>
-        <ptr target="#CN0140110T09AA" type="place"/>
+        <ptr target="#PL000000003780" type="place"/>
         <ptr target="#j20147152015080" type="time"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0778a13 #0778a14"/>
         <ptr target="#A010538" type="person"/>
-        <ptr target="#CN0410185M02AA" type="place"/>
+        <ptr target="#PL000000023253" type="place"/>
         <ptr target="#j20150812015445" type="time"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0778a15 #0778a15"/>
         <ptr target="#A010538" type="person"/>
-        <ptr target="#CN0360921M01AA" type="place"/>
+        <ptr target="#PL000000019628" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0778a15 #0778a16"/>
         <ptr target="#A010538" type="person"/>
-        <ptr target="#CN0430412T13AA" type="place"/>
+        <ptr target="#PL000000028944" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0778a16 #0778a17"/>
@@ -53,12 +58,12 @@
     <linkGrp>
         <link targets="#0778a19 #0778a19"/>
         <ptr target="#A010538" type="person"/>
-        <ptr target="#CN0330103Z19AA" type="place"/>
+        <ptr target="#PL000000011519" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0778a19 #0778a21"/>
         <ptr target="#A010538" type="person"/>
-        <ptr target="#CN0330102M04AA" type="place"/>
+        <ptr target="#PL000000011429" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0778a23 #0778a23"/>

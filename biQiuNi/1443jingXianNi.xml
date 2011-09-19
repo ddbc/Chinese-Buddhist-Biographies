@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="bqnz0946c13jingXianNi">
-    <head><placeName key="CN0000000T10AA">東青園寺</placeName><persName key="A016134">淨賢</persName>尼<ptr target="fn39"/>傳六</head><p><anchor n="T.50.2063.0946c14"/><lb ed="T" n="0946c14"/><persName key="A016134">淨賢</persName>，本姓弘，<placeName key="CN0320481Z13AA">永世</placeName>人<ptr target="fn＊"/>也。住<placeName key="CN0000000T10AA">青園東寺</placeName>，有幹<lb ed="T" n="0946c15"/>局才能，而好修禪定。博窮經律，言必典正，雖<lb ed="T" n="0946c16"/>不講說，精究旨要。<persName key="A002604">宋文皇帝</persName>善之，<persName key="A002652">湘東王</persName>或<lb ed="T" n="0946c17"/>齠齓之年眠好驚魘，勅從<persName key="A016134">淨賢</persName>尼受三自歸，<lb ed="T" n="0946c18"/>悸寐即愈。<ref target="#A002604" type="person">帝</ref>益相善，厚崇供施，內外親<ptr target="fn40"/>賞。<lb ed="T" n="0946c19"/>及<persName key="A002652">明帝</persName>即位，禮待益隆，資給彌重，建齋設講，<lb ed="T" n="0946c20"/>相繼不絕。當時名士，莫不宗敬。後總寺任十<lb ed="T" n="0946c21"/>有餘載，年七十五，梁<date from-iso="0505-01-23" key="j19055301905913" to-iso="0506-02-10">天監四年</date><ptr target="fn41"/>而卒。</p><p>復有<lb ed="T" n="0946c22"/><persName key="A003345">惠<ptr target="fn42"/>高</persName>、<persName key="A016139">寶顒</persName>，皆知名。<ptr target="fn＊"/><persName key="A003345">慧<ptr target="fn43"/>高</persName>坐禪誦經，勤營眾<lb ed="T" n="0946c23"/>務；<persName key="A016139">寶顒</persName><ptr target="fn44"/>講法華經，明於觀行。</p>
+    <head><placeName key="PL000000000173">東青園寺</placeName><persName key="A016134">淨賢</persName>尼<ptr target="fn39"/>傳六</head><p><anchor n="T.50.2063.0946c14"/><lb ed="T" n="0946c14"/><persName key="A016134">淨賢</persName>，本姓弘，<placeName key="PL000000009795">永世</placeName>人<ptr target="fn＊"/>也。住<placeName key="PL000000000173">青園東寺</placeName>，有幹<lb ed="T" n="0946c15"/>局才能，而好修禪定。博窮經律，言必典正，雖<lb ed="T" n="0946c16"/>不講說，精究旨要。<persName key="A002604">宋文皇帝</persName>善之，<persName key="A002652">湘東王</persName>或<lb ed="T" n="0946c17"/>齠齓之年眠好驚魘，勅從<persName key="A016134">淨賢</persName>尼受三自歸，<lb ed="T" n="0946c18"/>悸寐即愈。<ref target="#A002604" type="person">帝</ref>益相善，厚崇供施，內外親<ptr target="fn40"/>賞。<lb ed="T" n="0946c19"/>及<persName key="A002652">明帝</persName>即位，禮待益隆，資給彌重，建齋設講，<lb ed="T" n="0946c20"/>相繼不絕。當時名士，莫不宗敬。後總寺任十<lb ed="T" n="0946c21"/>有餘載，年七十五，梁<date from-iso="0505-01-23" key="j19055301905913" to-iso="0506-02-10">天監四年</date><ptr target="fn41"/>而卒。</p><p>復有<lb ed="T" n="0946c22"/><persName key="A003345">惠<ptr target="fn42"/>高</persName>、<persName key="A016139">寶顒</persName>，皆知名。<ptr target="fn＊"/><persName key="A003345">慧<ptr target="fn43"/>高</persName>坐禪誦經，勤營眾<lb ed="T" n="0946c23"/>務；<persName key="A016139">寶顒</persName><ptr target="fn44"/>講法華經，明於觀行。</p>
     <linkGrp>
         <link targets="#0946c21 #0946c21"/>
         <ptr target="#A016134" type="person"/>
@@ -9,7 +9,7 @@
     <linkGrp>
         <link targets="#0946c14 #0946c14"/>
         <ptr target="#A016134" type="person"/>
-        <ptr target="#CN0000000T10AA" type="place"/>
+        <ptr target="#PL000000000173" type="place"/>
         </linkGrp>
     <linkGrp>
         <link targets="#0946c16 #0946c18"/>

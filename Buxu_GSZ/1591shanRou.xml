@@ -1,13 +1,12 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0392c06shanRou">
     <head><lb ed="X" n="0392c06"/>　　　　<persName key="A015336">善柔</persName>傳</head>
-    <p><anchor n="X.77.1524.0392c07"/><lb ed="X" n="0392c07"/><persName key="A015336">善柔</persName>。董氏。德興之<placeName key="CN0130731Z04AA">永興</placeName>人。<date key="j21608122161177" when-iso="1204">七歲</date>事永安廣行大師。默
-        <lb ed="X" n="0392c08"/>誦金剛楞嚴諸經。<date key="j21655612165925" when-iso="1217">二十</date>入華嚴圓頓法門。領廣嚴傳
-        <lb ed="X" n="0392c09"/>戒大師戒法。去滋味絕華好。日課金光明經一部。禮
+    <p><anchor n="X.77.1524.0392c07"/><lb ed="X" n="0392c07"/><persName key="A015336">善柔</persName>。董氏。德興之<placeName key="PL000000002783">永興</placeName>人。<date key="j21608122161177" when-iso="1204">七歲</date>事<persName key="A020254">永安廣行</persName>大師。默
+        <lb ed="X" n="0392c08"/>誦金剛楞嚴諸經。<date key="j21655612165925" when-iso="1217">二十</date>入華嚴圓頓法門。領<persName key="A020255">廣嚴傳<lb ed="X" n="0392c09"/>戒</persName>大師戒法。去滋味絕華好。日課金光明經一部。禮
         <lb ed="X" n="0392c10"/>佛百拜。深惟靜念。孤征獨詣。人莫能津測淺深。<persName key="A006669">憲宗</persName>
-        <lb ed="X" n="0392c11"/>聞其名。賜號<persName key="A015336">弘教通理大師</persName>。命主清涼大會於<placeName key="CN0140900M01AA">臺山</placeName>。
-        <lb ed="X" n="0392c12"/>釋教都總統寶集壇主秀公。慕其德聘。攝華嚴講席
-        <lb ed="X" n="0392c13"/>于<placeName key="CN0110102Z01AA">京師</placeName>。又傳菩薩戒。于佛子山。及蔚羅黃樓諸剎。自
+        <lb ed="X" n="0392c11"/>聞其名。賜號<persName key="A015336">弘教通理大師</persName>。命主清涼大會於<placeName key="PL000000005250">臺山</placeName>。
+        <lb ed="X" n="0392c12"/>釋教都總統<placeName key="PL000000000287">寶集</placeName>壇主<persName key="A000408">秀公</persName>。慕其德聘。攝華嚴講席
+        <lb ed="X" n="0392c13"/>于<placeName key="PL000000000317">京師</placeName>。又傳菩薩戒。于<placeName key="PL000000004429">佛子山</placeName>。及蔚羅黃樓諸剎。自
         <lb ed="X" n="0392c14"/>是門人加進。法道半天下矣。師解悟深遠。勇於為善。
         <lb ed="X" n="0392c15"/>遑遑如不及。經之闕者。勒而補之。寺之廢者。撤而新
         <lb ed="X" n="0392c16"/>之。甃圮橋完壞路。為之不一而足。其于身也。蔬食飲
@@ -15,6 +14,56 @@
         <lb ed="X" n="0392c18"/>條靜深。無所願乎。其外至於誘引慈濟。則孳孳搰搰。
         <lb ed="X" n="0392c19"/>如抱漏甕沃焦釜。得其法者。莫不飽滿慰喜。若涉萬
         <lb ed="X" n="0392c20"/>里而還其家。師之道。其可得而思耶。晚年住持奉聖
-        <lb ed="X" n="0392c21"/>州<placeName key="CN0130731T01AA">法雲蘭若</placeName>。遂終焉。壽七十有二。僧臘三十有八。塔
+        <lb ed="X" n="0392c21"/>州<placeName key="PL000000002779">法雲蘭若</placeName>。遂終焉。<date from-iso="1269-02-10" to-iso="1270-01-29" key="j21845942184947">壽七十有二</date><!-- 元 世祖 至元六年，（疑年錄：292） -->。僧臘三十有八。塔
         <lb ed="X" n="0392c22"/>于寺之旁。</p>
+    
+    <linkGrp>
+        <link targets="#0392c07 #0392c07"/>
+        <ptr target="#A015336" type="person"/>
+        <ptr target="#PL000000002783" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0392c07 #0392c08"/>
+        <ptr target="#A015336" type="person"/>
+        <ptr target="#A020254" type="person"/>
+        <ptr target="#j21608122161177" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0392c08 #0392c09"/>
+        <ptr target="#A015336" type="person"/>
+        <ptr target="#A020255" type="person"/>
+        <ptr target="#j21655612165925" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0392c10 #0392c11"/>
+        <ptr target="#A015336" type="person"/>
+        <ptr target="#A006669" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0392c10 #0392c11"/>
+        <ptr target="#A015336" type="person"/>
+        <ptr target="#PL000000005250" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0392c12 #0392c12"/>
+        <ptr target="#A000408" type="person"/>
+        <ptr target="#PL000000000317" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0392c12 #0392c13"/>
+        <ptr target="#A015336" type="person"/>
+        <ptr target="#A000408" type="person"/>
+        <ptr target="#PL000000000287" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0392c13 #0392c13"/>
+        <ptr target="#A015336" type="person"/>
+        <ptr target="#PL000000004429" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0392c20 #0392c22"/>
+        <ptr target="#A015336" type="person"/>
+        <ptr target="#PL000000002779" type="place"/>
+        <ptr target="#j21845942184947" type="time"/>
+    </linkGrp>
 </div>

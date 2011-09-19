@@ -1,16 +1,16 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0410a08shiHuiYuan">
-    <p><anchor n="T.50.2059.0410a08"/><lb ed="T" n="0410a08"/><persName key="A002360">釋慧元</persName>，<placeName key="CN0140830Z22AA">河北</placeName>人，為人性善，喜慍無色。常習<lb ed="T" n="0410a09"/>禪誦經，勸化福事，以為恒業。<date from-iso="0376" key="j18584291866105" to-iso="0397">晉太元</date>初，於<lb ed="T" n="0410a10"/><placeName key="CN0430700M01AA">武陵平山</placeName>立寺，有二十餘僧，飧蔬幽遁，永<lb ed="T" n="0410a11"/><ptr target="fn05"/>絕人途。以<date key="j18631831863536" from-iso="0389-02-13" to-iso="0390-02-01">太元十四年</date>卒。卒後有人入<lb ed="T" n="0410a12"/><placeName key="CN0420381M01AA">武當山</placeName>下見<persName key="A002360">之</persName>，神色甚暢，寄語寺僧，勿使<lb ed="T" n="0410a13"/>寺業有廢。自是寺內常聞空中應時有磬<lb ed="T" n="0410a14"/>聲，依而集眾，未嘗差失。沙門<persName key="A003433">竺慧直</persName>居之。<lb ed="T" n="0410a15"/><persName key="A003433">直</persName>精苦有戒節，後絕粒唯餌松柏，因登山<lb ed="T" n="0410a16"/>蟬蛻焉。</p>
+    <p><anchor n="T.50.2059.0410a08"/><lb ed="T" n="0410a08"/><persName key="A002360">釋慧元</persName>，<placeName key="PL000000005162">河北</placeName>人，為人性善，喜慍無色。常習<lb ed="T" n="0410a09"/>禪誦經，勸化福事，以為恒業。<date from-iso="0376" key="j18584291866105" to-iso="0397">晉太元</date>初，於<lb ed="T" n="0410a10"/><placeName key="PL000000029392">武陵平山</placeName>立寺，有二十餘僧，飧蔬幽遁，永<lb ed="T" n="0410a11"/><ptr target="fn05"/>絕人途。以<date key="j18631831863536" from-iso="0389-02-13" to-iso="0390-02-01">太元十四年</date>卒。卒後有人入<lb ed="T" n="0410a12"/><placeName key="PL000000026781">武當山</placeName>下見<persName key="A002360">之</persName>，神色甚暢，寄語寺僧，勿使<lb ed="T" n="0410a13"/>寺業有廢。自是寺內常聞空中應時有磬<lb ed="T" n="0410a14"/>聲，依而集眾，未嘗差失。沙門<persName key="A003433">竺慧直</persName>居之。<lb ed="T" n="0410a15"/><persName key="A003433">直</persName>精苦有戒節，後絕粒唯餌松柏，因登山<lb ed="T" n="0410a16"/>蟬蛻焉。</p>
     <linkGrp>
         <link targets="#0410a09 #0410a11"/>
         <ptr target="#A002360" type="person"/>
-        <ptr target="#CN0430700M01AA" type="place"/>
+        <ptr target="#PL000000029392" type="place"/>
         <ptr target="#j18584291866105" type="time"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0410a11 #0410a11"/>
         <ptr target="#A002360" type="person"/>
-        <ptr target="#CN0430700M01AA" type="place"/>
+        <ptr target="#PL000000029392" type="place"/>
         <ptr target="#j18631831863536" type="time"/>
     </linkGrp>
 </div>

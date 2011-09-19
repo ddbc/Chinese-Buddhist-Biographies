@@ -1,19 +1,19 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0886a11shiYanJun">
     <anchor n="T.50.2061.0886a11"/><head><date from-iso="0960-02-09" key="j20717322132856" to-iso="1127-06-18">宋</date>東京觀音禪院<persName key="A013791">巖俊</persName>傳</head><p>
-<lb ed="T" n="0886a12"/><persName key="A013791">釋巖俊</persName>，姓廉氏，<placeName key="CN0130502Z10AA">邢臺</placeName>人也。誕育之來，蔚繁神
+<lb ed="T" n="0886a12"/><persName key="A013791">釋巖俊</persName>，姓廉氏，<placeName key="PL000000001806">邢臺</placeName>人也。誕育之來，蔚繁神
 <lb ed="T" n="0886a13"/>異，挺身去縛，誓入空門。從捧戒珠，終身圓
-<lb ed="T" n="0886a14"/>瑩。乃持杯錫，言遍參尋，陟彼衡廬，登乎<placeName key="CN0510184Z14AA">岷
+<lb ed="T" n="0886a14"/>瑩。乃持杯錫，言遍參尋，陟彼衡廬，登乎<placeName key="PL000000035105">岷
 <lb ed="T" n="0886a15"/>蜀</placeName>。嘗至鳳林<!--找不到此地-->，欻逢深谷，見一區之晃耀，原
 <lb ed="T" n="0886a16"/>七寶之縱橫。時同侶相顧曰：「奇哉！可俯拾乎？」
 <lb ed="T" n="0886a17"/><persName key="A013791">俊</persName>曰：「古人鋤園觸黃金，若瓦礫耳。苟欲懷
 <lb ed="T" n="0886a18"/>之，自速禍也。徯吾野菅覆頂，須此供四方
-<lb ed="T" n="0886a19"/>僧。」言訖捨去，造謁舒州<placeName key="CN0340881M02AA">投子山</placeName>主，問之曰：
+<lb ed="T" n="0886a19"/>僧。」言訖捨去，造謁舒州<placeName key="PL000000015565">投子山</placeName>主，問之曰：
 <lb ed="T" n="0886a20"/>「<persName key="A013791">客</persName>來昨宿何處？」<persName key="A013791">俊</persName>曰：「在不動道場<!--找不到此地-->。」曰：「既言
 <lb ed="T" n="0886a21"/>不動，曷由至此？」對曰：「至此豈是動<anchor xml:id="beg0886002"/>耶<anchor xml:id="end0886002"/>？」曰：「元
 <lb ed="T" n="0886a22"/>來宿不著處。」然山主默認許之。迨思還趙，
-<lb ed="T" n="0886a23"/>路出<placeName key="CN0410224Z26AA">陳留</placeName>，抵今<placeName key="CN0410224Z42AA">東京</placeName>。屬乎梁少保隴西公
-<lb ed="T" n="0886a24"/><persName key="A013799">資</persName>，即<placeName key="CN0410883Z17AA">河陽節度使</placeName>贈中書令<persName key="A013800">芝</persName>之昆也，雖居
+<lb ed="T" n="0886a23"/>路出<placeName key="PL000000023452">陳留</placeName>，抵今<placeName key="PL000000023468">東京</placeName>。屬乎梁少保隴西公
+<lb ed="T" n="0886a24"/><persName key="A013799">資</persName>，即<placeName key="PL000000024712">河陽節度使</placeName>贈中書令<persName key="A013800">芝</persName>之昆也，雖居
 <lb ed="T" n="0886a25"/>貴仕，酷信空門，接<persName key="A013791">俊</persName>談玄，若<persName key="A002809">劉遺民</persName>之奉
 <lb ed="T" n="0886a26"/><persName key="A001204">賈遠</persName>也。相與議捨第宅俾建仁祠。<persName key="A013791">俊</persName>弗讓
 <lb ed="T" n="0886a27"/>違，以安形性。既考禪室而行祖風，慕道窮
@@ -37,17 +37,17 @@
     <linkGrp>
         <link targets="#0886a14 #0886a15"/>
         <ptr target="#A013791" type="person"/>
-        <ptr target="#CN0510184Z14AA" type="place"/>
+        <ptr target="#PL000000035105" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0886a19 #0886a22"/>
         <ptr target="#A013791" type="person"/>
-        <ptr target="#CN0340881M02AA" type="place"/>
+        <ptr target="#PL000000015565" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0886a23 #0886a23"/>
         <ptr target="#A013791" type="person"/>
-        <ptr target="#CN0610103T27AA" type="place"/>
+        <ptr target="#PL000000042247" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0886a23 #0886a24"/>
@@ -58,7 +58,7 @@
         <link targets="#0886a23 #0886a26"/>
         <ptr target="#A013791" type="person"/>
         <ptr target="#A013799" type="person"/>
-        <ptr target="#CN0410224Z42AA" type="place"/>
+        <ptr target="#PL000000023468" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0886a25 #0886a26"/>

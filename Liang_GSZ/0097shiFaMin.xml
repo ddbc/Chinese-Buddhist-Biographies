@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0372a14shiFaMin">
-	<p><anchor n="T.50.2059.0372a14"/><lb ed="T" n="0372a24"/><persName key="A002240">釋法愍</persName>，北人，弱年慕道，篤志經籍，十八出<lb ed="T" n="0372a25"/>家，便遊踐州國，觀風味道。《波若》、數論，及諸<lb ed="T" n="0372a26"/>經律，皆所遊刃。後憩<placeName key="CN0422226T01AA">江夏郡五層寺</placeName>。時沙<lb ed="T" n="0372a27"/>門<persName key="A002964">僧昌</persName>，於<placeName key="CN0421003Z05AA">江陵城</placeName>內立塔。刺史<persName key="A002965">謝晦</persName>欲壞<lb ed="T" n="0372a28"/>之，<persName key="A002240">愍</persName>聞故往諫<persName key="A002965">晦</persName>。<persName key="A002965">晦</persName>意不止，<persName key="A002240">愍</persName>於是隱迹<lb ed="T" n="0372a29"/>於<placeName key="CN0430181M01AA">長沙麓山</placeName>，終身不出。<persName key="A002965">晦</persName><ptr target="fn＊"/>迺率儀至寺，厚<lb ed="T" n="0372b01"/>賜酒肉，嚴鼓振威，斬斫形像。俄而雲霧暗<lb ed="T" n="0372b02"/>天，風塵四起，<persName key="A002965">晦</persName>驚懼而走，後以叛逆誅滅。<lb ed="T" n="0372b03"/>隊人<persName key="A002966">丁法成</persName>、<persName key="A002967">史僧雙</persName>見身癩病，餘多犯法而<lb ed="T" n="0372b04"/>死。<persName key="A002240">愍</persName>迺著〈顯驗論〉，以明因果，并注《大道<lb ed="T" n="0372b05"/>地經》。後卒於山中，春秋八十有三，弟子<persName key="A002968">僧道</persName><lb ed="T" n="0372b06"/>立碑頌德。</p><p>時<placeName key="CN0440201T01AA">始興郡靈化寺</placeName>有比丘<persName key="A002969">僧宗</persName>，<lb ed="T" n="0372b07"/>亦博涉經論，著〈法性〉、〈覺性〉二論云。</p>
+	<p><anchor n="T.50.2059.0372a14"/><lb ed="T" n="0372a24"/><persName key="A002240">釋法愍</persName>，北人，弱年慕道，篤志經籍，十八出<lb ed="T" n="0372a25"/>家，便遊踐州國，觀風味道。《波若》、數論，及諸<lb ed="T" n="0372a26"/>經律，皆所遊刃。後憩<placeName key="PL000000028395">江夏郡五層寺</placeName>。時沙<lb ed="T" n="0372a27"/>門<persName key="A002964">僧昌</persName>，於<placeName key="PL000000027768">江陵城</placeName>內立塔。刺史<persName key="A002965">謝晦</persName>欲壞<lb ed="T" n="0372a28"/>之，<persName key="A002240">愍</persName>聞故往諫<persName key="A002965">晦</persName>。<persName key="A002965">晦</persName>意不止，<persName key="A002240">愍</persName>於是隱迹<lb ed="T" n="0372a29"/>於<placeName key="PL000000028721">長沙麓山</placeName>，終身不出。<persName key="A002965">晦</persName><ptr target="fn＊"/>迺率儀至寺，厚<lb ed="T" n="0372b01"/>賜酒肉，嚴鼓振威，斬斫形像。俄而雲霧暗<lb ed="T" n="0372b02"/>天，風塵四起，<persName key="A002965">晦</persName>驚懼而走，後以叛逆誅滅。<lb ed="T" n="0372b03"/>隊人<persName key="A002966">丁法成</persName>、<persName key="A002967">史僧雙</persName>見身癩病，餘多犯法而<lb ed="T" n="0372b04"/>死。<persName key="A002240">愍</persName>迺著〈顯驗論〉，以明因果，并注《大道<lb ed="T" n="0372b05"/>地經》。後卒於山中，春秋八十有三，弟子<persName key="A002968">僧道</persName><lb ed="T" n="0372b06"/>立碑頌德。</p><p>時<placeName key="PL000000030548">始興郡靈化寺</placeName>有比丘<persName key="A002969">僧宗</persName>，<lb ed="T" n="0372b07"/>亦博涉經論，著〈法性〉、〈覺性〉二論云。</p>
 	<linkGrp>
 		<link targets="#0372a26 #0372a26"/>
 		<ptr target="#A002240" type="person"/>
-		<ptr target="#CN0422226T01AA" type="place"/>
+		<ptr target="#PL000000028395" type="place"/>
 	</linkGrp>
 	<linkGrp>
 		<link targets="#0372a26 #0372a29"/>
@@ -16,7 +16,7 @@
 		<link targets="#0372a28 #0372b02"/>
 		<ptr target="#A002240" type="person"/>
 		<ptr target="#A002965" type="person"/>
-		<ptr target="#CN0430181M01AA" type="place"/>
+		<ptr target="#PL000000028721" type="place"/>
 	</linkGrp>
 	<linkGrp>
 		<link targets="#0372b03 #0372b04"/>
@@ -29,11 +29,11 @@
 		<link targets="#0372a28 #0372a28"/>
 		<ptr target="#A002240" type="person"/>
 		<ptr target="#A002964" type="person"/>
-		<ptr target="#CN0421003Z05AA" type="place"/>
+		<ptr target="#PL000000027768" type="place"/>
 		</linkGrp>
 	<linkGrp>
 		<link targets="#0372b06 #0372b07"/>
 		<ptr target="#A002969" type="person"/>
-		<ptr target="#CN0440201T01AA" type="place"/>
+		<ptr target="#PL000000030548" type="place"/>
 		</linkGrp>
 </div>

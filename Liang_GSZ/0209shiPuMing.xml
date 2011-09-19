@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0407b10shiPuMing">
-    <p><anchor n="T.50.2059.0407b10"/><lb ed="T" n="0407b10"/><persName key="A002346">釋普明</persName>，姓張，<placeName key="CN0370305Z03AA">臨<ptr target="fn12"/>淄</placeName>人。少出家，稟性清純，蔬<lb ed="T" n="0407b11"/>食布衣，以懺誦為業。誦《法華》、《維摩》二經。<lb ed="T" n="0407b12"/><ptr target="fn13"/>及誦之時，有別衣別座，未嘗穢雜。每<ptr target="fn14"/>誦<lb ed="T" n="0407b13"/>至〈勸發品〉，輒見<persName key="A003079">普賢</persName><ptr target="fn15"/>乘象，立在其前。誦<lb ed="T" n="0407b14"/>《維摩經》，亦聞空中<ptr target="fn16"/>唱樂。又善神呪，所救皆<lb ed="T" n="0407b15"/>愈。有鄉人<persName key="A003409">王道真</persName>妻病，請<persName key="A002346">明</persName>來呪。<persName key="A002346">明</persName>入門，<lb ed="T" n="0407b16"/>婦便悶絕。俄見一物如狸，長數尺許，從狗<lb ed="T" n="0407b17"/>竇出，因此而愈。<persName key="A002346">明</persName>嘗行水傍祠，巫覡自云：「<lb ed="T" n="0407b18"/>神見之，皆奔走。」以<date key="j18869261888017" notAfter-iso="0457" notBefore-iso="0454">宋孝<ptr target="fn17"/>建中</date>卒，春秋八十<lb ed="T" n="0407b19"/>有五。</p>
+    <p><anchor n="T.50.2059.0407b10"/><lb ed="T" n="0407b10"/><persName key="A002346">釋普明</persName>，姓張，<placeName key="PL000000020614">臨<ptr target="fn12"/>淄</placeName>人。少出家，稟性清純，蔬<lb ed="T" n="0407b11"/>食布衣，以懺誦為業。誦《法華》、《維摩》二經。<lb ed="T" n="0407b12"/><ptr target="fn13"/>及誦之時，有別衣別座，未嘗穢雜。每<ptr target="fn14"/>誦<lb ed="T" n="0407b13"/>至〈勸發品〉，輒見<persName key="A003079">普賢</persName><ptr target="fn15"/>乘象，立在其前。誦<lb ed="T" n="0407b14"/>《維摩經》，亦聞空中<ptr target="fn16"/>唱樂。又善神呪，所救皆<lb ed="T" n="0407b15"/>愈。有鄉人<persName key="A003409">王道真</persName>妻病，請<persName key="A002346">明</persName>來呪。<persName key="A002346">明</persName>入門，<lb ed="T" n="0407b16"/>婦便悶絕。俄見一物如狸，長數尺許，從狗<lb ed="T" n="0407b17"/>竇出，因此而愈。<persName key="A002346">明</persName>嘗行水傍祠，巫覡自云：「<lb ed="T" n="0407b18"/>神見之，皆奔走。」以<date key="j18869261888017" notAfter-iso="0457" notBefore-iso="0454">宋孝<ptr target="fn17"/>建中</date>卒，春秋八十<lb ed="T" n="0407b19"/>有五。</p>
     <linkGrp>
         <link targets="#0407b10 #0407b17"/>
         <ptr target="#A002346" type="person"/>
         <ptr target="#A003409" type="person"/>
-        <ptr target="#CN0370305Z03AA" type="place"/>
+        <ptr target="#PL000000020614" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0407b18 #0407b19"/>

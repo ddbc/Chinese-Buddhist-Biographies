@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0390b20baoYan">
-    <head><lb ed="X" n="0390b20"/>　　　　晉安寺<persName key="A008139">幼堂</persName>法主傳(附弟金)</head>
-    <p><anchor n="X.77.1524.0390b21"/><lb ed="X" n="0390b21"/><persName key="A008139">寶嚴</persName>。字<persName key="A008139">士威</persName>。<persName key="A008139">幼堂</persName>其號也。<placeName key="CN0620502Z06AA">成紀</placeName>康氏子。少以邁往之
-        <lb ed="X" n="0390b22"/>氣不樂俗。與其弟金。薙染從師。求出世之道。每逢名
+    <head><lb ed="X" n="0390b20"/>　　　　<placeName key="PL000000005252">晉安寺</placeName><persName key="A008139">幼堂</persName>法主傳(附弟<persName key="A020262">金</persName>)</head>
+    <p><anchor n="X.77.1524.0390b21"/><lb ed="X" n="0390b21"/><persName key="A008139">寶嚴</persName>。字<persName key="A008139">士威</persName>。<persName key="A008139">幼堂</persName>其號也。<placeName key="PL000000044852">成紀</placeName>康氏子。少以邁往之
+        <lb ed="X" n="0390b22"/>氣不樂俗。與其弟<persName key="A020262">金</persName>。薙染從師。求出世之道。每逢名
         <lb ed="X" n="0390b23"/>德啟講。必往叅聽。甞謂。學而不思。思而不學。君子所
         <lb ed="X" n="0390b24"/>憂。雖通其說。而不通其宗。是學而不思也。豈稱達者
         <lb ed="X" n="0390c01"/>哉。況文字之學。守株象迹。惑於多岐。焉能涉同歸之
@@ -11,8 +11,54 @@
         <lb ed="X" n="0390c04"/>以造詣。葢得之繫表。故其講說。深有宗通理味。後嗣
         <lb ed="X" n="0390c05"/><persName key="A000166">真覺國師</persName>。傳賢首宗教。以師承既高。見解益明。其方
         <lb ed="X" n="0390c06"/>寸之地。湛如止水。瑩如明鏡。雖以天資之高。而聽器
-        <lb ed="X" n="0390c07"/>之美。抑亦師友玉琢蘭薰。而致及<persName key="A000166">真覺</persName>。以詔居<placeName key="CN0410311T14AA">大白<lb ed="X" n="0390c08"/>馬</placeName>。師與金從焉。又從至<placeName key="CN0140900M01AA">臺山</placeName>。<persName key="A000166">真覺</persName>歿。詔以師繼其位。
-        <lb ed="X" n="0390c09"/>後以太后詔。居大普安寺。以至治二年七月圓寂。年
-        <lb ed="X" n="0390c10"/>五十有一。葬東封谷。金亦有高行。前居<placeName key="CN0140922T21AA">佑國</placeName>。後遷普
-        <lb ed="X" n="0390c11"/>安。皆補師處也。事師猶父。始終無間然。難矣。</p>
+        <lb ed="X" n="0390c07"/>之美。抑亦師友玉琢蘭薰。而致及<persName key="A000166">真覺</persName>。以詔居<placeName key="PL000000023663">大白<lb ed="X" n="0390c08"/>馬</placeName>。師與<persName key="A020262">金</persName>從焉。又從至<placeName key="PL000000005250">臺山</placeName>。<persName key="A000166">真覺</persName>歿。詔以師繼其位。
+        <lb ed="X" n="0390c09"/>後以太后詔。居<placeName key="PL000000005252">大普安寺</placeName>。以<date from-iso="1322-08-21" to-iso="1322-09-19" key="j22041432204172">至治二年七月</date>圓寂。年
+        <lb ed="X" n="0390c10"/>五十有一。葬東封谷。<persName key="A020262">金</persName>亦有高行。前居<placeName key="PL000000005380">佑國</placeName>。後遷<placeName key="PL000000005252">普<lb ed="X" n="0390c11"/>安</placeName>。皆補師處也。事師猶父。始終無間然。難矣。</p>
+    
+    <linkGrp>
+        <link targets="#0390b21 #0390b23"/>
+        <ptr target="#A008139" type="person"/>
+        <ptr target="#A020262" type="person"/>
+        <ptr target="#PL000000044852" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0390c04 #0390c07"/>
+        <ptr target="#A008139" type="person"/>
+        <ptr target="#A000166" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0390c07 #0390c08"/>
+        <ptr target="#A008139" type="person"/>
+        <ptr target="#A000166" type="person"/>
+        <ptr target="#A020262" type="person"/>
+        <ptr target="#PL000000023663" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0390c08 #0390c08"/>
+        <ptr target="#A008139" type="person"/>
+        <ptr target="#A000166" type="person"/>
+        <ptr target="#A020262" type="person"/>
+        <ptr target="#PL000000005250" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0390c09 #0390c10"/>
+        <ptr target="#A008139" type="person"/>
+        <ptr target="#PL000000005252" type="place"/>
+        <ptr target="#j22041432204172" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0390c10 #0390c11"/>
+        <ptr target="#A008139" type="person"/>
+        <ptr target="#PL000000005380" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0390c10 #0390c11"/>
+        <ptr target="#A020262" type="person"/>
+        <ptr target="#PL000000005380" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0390c10 #0390c11"/>
+        <ptr target="#A020262" type="person"/>
+        <ptr target="#PL000000005252" type="place"/>
+    </linkGrp>
 </div>

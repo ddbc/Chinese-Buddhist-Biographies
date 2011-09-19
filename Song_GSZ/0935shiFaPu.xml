@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0785a03shiFaPu">
     <anchor n="T.50.2061.0785a03"/><head><date from-iso="0618-06-21" key="j19469512052491" to-iso="0907-06-06">唐</date>蘄州黃崗山<persName key="A010662">法普</persName>傳（<persName key="A010664">休靜</persName>）</head><p>
-<lb ed="T" n="0785a04"/><persName key="A010662">釋法普</persName>，姓潘氏，<placeName key="CN0341421Z12AA">廬江</placeName>人也。貌古情寬，擁敗
-<lb ed="T" n="0785a05"/>納觀方。<date from-iso="0806" key="j20154742020606" to-iso="0820">元和</date>中，因見<placeName key="CN0421126M04AA">黃崗山</placeName>色奇秀，其峯
+<lb ed="T" n="0785a04"/><persName key="A010662">釋法普</persName>，姓潘氏，<placeName key="PL000000016143">廬江</placeName>人也。貌古情寬，擁敗
+<lb ed="T" n="0785a05"/>納觀方。<date from-iso="0806" key="j20154742020606" to-iso="0820">元和</date>中，因見<placeName key="PL000000028066">黃崗山</placeName>色奇秀，其峯
 <lb ed="T" n="0785a06"/>巉崪，其林欝密，中有石壇，平坦而高峙。乃放
 <lb ed="T" n="0785a07"/>囊挂錫，于中班荊。久之，尋附樹架蓬茨，僅
 <lb ed="T" n="0785a08"/>容身而已。未幾，有人自小徑而至，見<persName key="A010662">普</persName>驚
@@ -15,9 +15,9 @@
 <lb ed="T" n="0785a15"/>如，傳其法者無算。一日，集眾辭云：「<persName key="A010662">吾</persName>其終
 <lb ed="T" n="0785a16"/>矣。汝曹善住珍惜！」加趺坐胡床而卒。其身
 <lb ed="T" n="0785a17"/>不壞散，後以香泥塗<anchor xml:id="beg0785001"/>繢<anchor xml:id="end0785001"/>之。至<date from-iso="0874" key="j20406372042521" to-iso="0880">乾符</date>中，重
-<lb ed="T" n="0785a18"/>立碑頌云。次洛京<placeName key="CN0410304T02AA">華嚴寺</placeName><persName key="A010664">釋休靜</persName>，不知何
+<lb ed="T" n="0785a18"/>立碑頌云。次洛京<placeName key="PL000000023593">華嚴寺</placeName><persName key="A010664">釋休靜</persName>，不知何
         <lb ed="T" n="0785a19"/>許人也。屬<persName key="A009489">洞山</persName>禪道風行，<persName key="A010664">靜</persName>往造<ref type="person" target="#A009489">之</ref>，抉擿
-<lb ed="T" n="0785a20"/>所疑，若雷復于本位焉。北返於<placeName key="CN0410302Z03AA">洛邑</placeName>，開演。
+<lb ed="T" n="0785a20"/>所疑，若雷復于本位焉。北返於<placeName key="PL000000023581">洛邑</placeName>，開演。
 <lb ed="T" n="0785a21"/>因赴內齋，諸名公皆執經諷讀，唯<persName key="A010664">靜</persName>并其徒
         <lb ed="T" n="0785a22"/>俱默坐。<ref type="person" target="#A006575">帝</ref>宣問：「胡不轉經？」詶答響應，仍皆
 <lb ed="T" n="0785a23"/>屬對，悅可帝情。尋迴平陽<!--找不到此地-->示滅。收舍利，四
@@ -25,7 +25,7 @@
     <linkGrp>
         <link targets="#0785a05 #0785a08"/>
         <ptr target="#A010662" type="person"/>
-        <ptr target="#CN0421126M04AA" type="place"/>
+        <ptr target="#PL000000028066" type="place"/>
         <ptr target="#j20154742020606" type="time"/>
     </linkGrp>
     <linkGrp>
@@ -36,7 +36,7 @@
     <linkGrp>
         <link targets="#0785a18 #0785a18"/>
         <ptr target="#A010664" type="person"/>
-        <ptr target="#CN0410304T02AA" type="place"/>
+        <ptr target="#PL000000023593" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0785a19 #0785a19"/>

@@ -1,17 +1,17 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0885c11shiGuangYu">
     <anchor n="T.50.2061.0885c11"/><head><date from-iso="0951-02-18" key="j20684542071729" to-iso="0960-02-06">周</date>五臺山真容院<persName key="A010384">光嶼</persName>傳</head><p>
-        <lb ed="T" n="0885c12"/><persName key="A010384">釋光嶼</persName>，俗姓韓氏，<placeName key="CN0140622Z07AA">應州金城邑</placeName>人也。幼讀儒
+        <lb ed="T" n="0885c12"/><persName key="A010384">釋光嶼</persName>，俗姓韓氏，<placeName key="PL000000004580">應州金城邑</placeName>人也。幼讀儒
 <lb ed="T" n="0885c13"/>書，有佐國牧民之志。頻有神人夢中警策
-<lb ed="T" n="0885c14"/>曰：「<persName key="A010384">汝</persName>於佛法有大因緣。」遂投<placeName key="CN0140922T28AA">真容院</placeName>附法
+<lb ed="T" n="0885c14"/>曰：「<persName key="A010384">汝</persName>於佛法有大因緣。」遂投<placeName key="PL000000005387">真容院</placeName>附法
 <lb ed="T" n="0885c15"/>威，侍其缾錫，謹弟子之職。受具後，誦淨名
-<lb ed="T" n="0885c16"/>經，徹簡，每至依於義不依語。告喻本師而
-<lb ed="T" n="0885c17"/>求聽習，威尋許諾，遂詣太原<placeName key="CN0140110T11AA">三學院</placeName>，涉乎
+        <lb ed="T" n="0885c16"/>經，徹簡，每至依於義不依語。告喻本師<ptr target="#n190"/>而
+<lb ed="T" n="0885c17"/>求聽習，威尋許諾，遂詣太原<placeName key="PL000000003784">三學院</placeName>，涉乎
 <lb ed="T" n="0885c18"/>寒燠，研覈孜孜，屢改槐檀。乃講維摩、上生
 <lb ed="T" n="0885c19"/>二座，忽謂同志曰：「<persName key="A010384">余</persName>憶昔年每念依於義。
-<lb ed="T" n="0885c20"/>邇棲<placeName key="CN0140110T11AA">學院</placeName>，今講二經，窮理見性，知果驗因，
+<lb ed="T" n="0885c20"/>邇棲<placeName key="PL000000003784">學院</placeName>，今講二經，窮理見性，知果驗因，
 <lb ed="T" n="0885c21"/>得不依教起行，免背四依之行乎？」俄辭晉
-<lb ed="T" n="0885c22"/>水，却返<placeName key="CN0140900M01AA">故山</placeName>，戴華嚴經，遶菩薩殿，六時右
+<lb ed="T" n="0885c22"/>水，却返<placeName key="PL000000005250">故山</placeName>，戴華嚴經，遶菩薩殿，六時右
 <lb ed="T" n="0885c23"/>旋禮佛。時<persName key="A006579">晉高祖</persName>握圖之三載也。名聞丹
         <lb ed="T" n="0885c24"/>禁，遂賜紫衣。明年，授號<persName key="A010384">通悟</persName>焉。山門僧官
 <lb ed="T" n="0885c25"/>與大眾堅命臨壇，告辭不允。僧官謂曰：「<persName key="A010384">師</persName>
@@ -32,16 +32,16 @@
     <linkGrp>
         <link targets="#0885c14 #0885c16"/>
         <ptr target="#A010384" type="person"/>
-        <ptr target="#CN0140922T28AA" type="place"/>
+        <ptr target="#PL000000005387" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0885c17 #0885c20"/>
         <ptr target="#A010384" type="person"/>
-        <ptr target="#CN0140110T11AA" type="place"/>
+        <ptr target="#PL000000003784" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0885c21 #0885c23"/>
         <ptr target="#A010384" type="person"/>
-        <ptr target="#CN0140900M01AA" type="place"/>
+        <ptr target="#PL000000005250" type="place"/>
     </linkGrp>
 </div>

@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0380a17chengJue">
     <head><lb ed="X" n="0380a17"/>　　　　<persName key="A010742">成覺</persName>．<persName key="A010739">慧悟</persName>傳</head>
-    <p><anchor n="X.77.1524.0380a18"/><lb ed="X" n="0380a18"/><persName key="A010742">成覺</persName>。<placeName key="CN0140923Z17AA">代州</placeName>張氏子。方學語。能誦金剛般若。父母異之。
-        <lb ed="X" n="0380a19"/>[打-丁+嶲]送<placeName key="CN0140922T06AA">善住院</placeName>。<persName key="A010741">希公</persName>為童子。<persName key="A010741">希公</persName>道望赫然。賜號<persName key="A010741">慈懿<lb ed="X" n="0380a20"/>大師</persName>。移住<placeName key="CN0140922T14AA">清涼寺</placeName>。<persName key="A010741">慈懿</persName>以師親侍。日久心知為法器。
+    <p><anchor n="X.77.1524.0380a18"/><lb ed="X" n="0380a18"/><persName key="A010742">成覺</persName>。<placeName key="PL000000005467">代州</placeName>張氏子。方學語。能誦金剛般若。父母異之。
+        <lb ed="X" n="0380a19"/>[打-丁+嶲]送<placeName key="PL000000005362">善住院</placeName>。<persName key="A010741">希公</persName>為童子。<persName key="A010741">希公</persName>道望赫然。賜號<persName key="A010741">慈懿<lb ed="X" n="0380a20"/>大師</persName>。移住<placeName key="PL000000005373">清涼寺</placeName>。<persName key="A010741">慈懿</persName>以師親侍。日久心知為法器。
         <lb ed="X" n="0380a21"/>一日謂之曰。古人謂出家為大丈夫。所以為大丈夫
         <lb ed="X" n="0380a22"/>有四事。近知識。問正法。思義理。如說修行。是也。後生
         <lb ed="X" n="0380a23"/>可畏。無以吾老滯守一隅。爾其行乎。由是徧訪師匠。
@@ -13,30 +13,30 @@
         <lb ed="X" n="0380b04"/>究一事。不為名相所引。遠。則以證為期。死而後已。具
         <lb ed="X" n="0380b05"/>此之心。必能至道。務實去華。其言大率如此。年八十
         <lb ed="X" n="0380b06"/>而終。</p><p>
-            <lb ed="X" n="0380b07"/><persName key="A010739">慧悟</persName>者。生<placeName key="CN0130125Z14AA">行唐</placeName>李氏。其伯每日誦妙蓮華偈。洎終火
+            <lb ed="X" n="0380b07"/><persName key="A010739">慧悟</persName>者。生<placeName key="PL000000000896">行唐</placeName>李氏。其伯每日誦妙蓮華偈。洎終火
         <lb ed="X" n="0380b08"/>化。舌根不壞。悟母。甞夢其伯母執蓮華一莖授之。遂
-            <lb ed="X" n="0380b09"/>有娠。師生。容面端整。舌長覆鼻。音聲宏朗。為五臺<placeName key="CN0140922T28AA">真<lb ed="X" n="0380b10"/>容院</placeName>僧。戒慧精明。時無有兩。<date from-iso="1086-01-24" to-iso="1088-02-18" key="j21177372118492">元祐初</date>。詔入內庭。宣闡
+            <lb ed="X" n="0380b09"/>有娠。師生。容面端整。舌長覆鼻。音聲宏朗。為五臺<placeName key="PL000000005387">真<lb ed="X" n="0380b10"/>容院</placeName>僧。戒慧精明。時無有兩。<date from-iso="1086-01-24" to-iso="1088-02-18" key="j21177372118492">元祐初</date>。詔入內庭。宣闡
             <lb ed="X" n="0380b11"/>稱旨。賜紫衣僧正之職。師力辭獲免。<date from-iso="1102-01-28" to-iso="1103-02-15" key="j21235842123967">崇寧改元</date>。復被
-            <lb ed="X" n="0380b12"/>詔赴<ref type="place" target="#CN0410224Z41AA">京</ref>。固以老病辭。至使者往返。乃行。次<placeName key="CN1100000A02AA">佛道店</placeName>。謂
+            <lb ed="X" n="0380b12"/>詔赴<ref type="place" target="#PL000000023467">京</ref>。固以老病辭。至使者往返。乃行。次<placeName key="PL000000048186">佛道店</placeName>。謂
             <lb ed="X" n="0380b13"/>使者曰。既逢佛道。吾將歸矣。為吾謝<ref type="person" target="#A003935">天子</ref>。言訖仡然
         <lb ed="X" n="0380b14"/>而化。</p>
     
     <linkGrp>
         <link targets="#0380a18 #0380a18"/>
         <ptr target="#A010742" type="person"/>
-        <ptr target="#CN0140923Z17AA" type="place"/>
+        <ptr target="#PL000000005467" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0380a18 #0380a19"/>
         <ptr target="#A010741" type="person"/>
         <ptr target="#A010742" type="person"/>
-        <ptr target="#CN0140922T06AA" type="place"/>
+        <ptr target="#PL000000005362" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0380a20 #0380a23"/>
         <ptr target="#A010741" type="person"/>
         <ptr target="#A010742" type="person"/>
-        <ptr target="#CN0140922T14AA" type="place"/>
+        <ptr target="#PL000000005373" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0380a23 #0380b01"/>
@@ -46,24 +46,24 @@
     <linkGrp>
         <link targets="#0380b07 #0380b09"/>
         <ptr target="#A010739" type="person"/>
-        <ptr target="#CN0130125Z14AA" type="place"/>
+        <ptr target="#PL000000000896" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0380b09 #0380b10"/>
         <ptr target="#A010739" type="person"/>
-        <ptr target="#CN0140922T28AA" type="place"/>
+        <ptr target="#PL000000005387" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0380b10 #0380b11"/>
         <ptr target="#A003934" type="person"/>
         <ptr target="#A010739" type="person"/>
-        <ptr target="#CN0410224Z41AA" type="place"/>
+        <ptr target="#PL000000023467" type="place"/>
         <ptr target="#j21177372118492" type="time"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0380b11 #0380b14"/>
         <ptr target="#A010739" type="person"/>
-        <ptr target="#CN1100000A02AA" type="place"/>
+        <ptr target="#PL000000048186" type="place"/>
         <ptr target="#j21235842123967" type="time"/>
     </linkGrp>
     <linkGrp>

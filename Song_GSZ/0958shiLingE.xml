@@ -2,18 +2,18 @@
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0794c28shiLingE">
     <anchor n="T.50.2061.0794c28"/><head><date from-iso="0618-06-21" key="j19469512052491" to-iso="0907-06-06">唐</date>京師崇聖寺<persName key="A010823">靈㟧</persName>傳</head><p>
 <lb ed="T" n="0794c29"/><persName key="A010823">釋靈㟧</persName>者，不知何許人也。勤乎切問，靡憚<pb ed="T" n="0795a" xml:id="T50.2061.0795a"/>
-<lb ed="T" n="0795a01"/>尋師。<date from-iso="0666" key="j19643591965156" to-iso="0668">乾封</date>中，於<placeName key="CN0610103T02AA">西明寺</placeName>躬預<persName key="A001519">南山宣師</persName>法
+<lb ed="T" n="0795a01"/>尋師。<date from-iso="0666" key="j19643591965156" to-iso="0668">乾封</date>中，於<placeName key="PL000000042216">西明寺</placeName>躬預<persName key="A001519">南山宣師</persName>法
 <lb ed="T" n="0795a02"/>席。然其不拘常所，或近<persName key="A002468">文綱</persName>，或親<persName key="A010769">大慈</persName>，皆
         <lb ed="T" n="0795a03"/>求益也。末塗懼失<persName key="A001519">宣</persName>意，隨講收<app type="cb-app" xml:id="begd1e23600"/>采<anchor xml:id="endd1e23600"/>所聞，號
 <lb ed="T" n="0795a04"/>之曰記，以解刪補鈔也。若然者推究造義
-<lb ed="T" n="0795a05"/>章之始，唯<persName key="A010769">慈</persName>與<persName key="A010823">㟧</persName>也。又別撰《輕重訣》，故<placeName key="CN0410184Z21AA">苑
+<lb ed="T" n="0795a05"/>章之始，唯<persName key="A010769">慈</persName>與<persName key="A010823">㟧</persName>也。又別撰《輕重訣》，故<placeName key="PL000000023249">苑
 <lb ed="T" n="0795a06"/>陵</placeName><persName key="A010824">玄胄</persName>親覩其文，故援引之以解量處輕
 <lb ed="T" n="0795a07"/>重儀焉。金革之故，其訣湮滅，無復可尋矣。</p>
     <linkGrp>
         <link targets="#0795a01 #0795a02"/>
         <ptr target="#A010823" type="person"/>
         <ptr target="#A001519" type="person"/>
-        <ptr target="#CN0610103T02AA" type="place"/>
+        <ptr target="#PL000000042216" type="place"/>
         <ptr target="#j19643591965156" type="time"/>
     </linkGrp>
     <linkGrp>
@@ -29,6 +29,6 @@
     <linkGrp>
         <link targets="#0795a05 #0795a07"/>
         <ptr target="#A010824" type="person"/>
-        <ptr target="#CN0410184Z21AA" type="place"/>
+        <ptr target="#PL000000023249" type="place"/>
     </linkGrp>
 </div>

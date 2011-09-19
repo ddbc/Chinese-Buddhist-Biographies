@@ -1,48 +1,48 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0775c06shiCongShen">
-    <anchor n="T.50.2061.0775c06"/><head><date from-iso="0618-06-21" key="j19469512052491" to-iso="0907-06-06">唐</date><placeName key="CN0130133T03AA">趙州東院</placeName><persName key="A004475">從諗</persName>傳</head><p>
-        <lb ed="T" n="0775c07"/><persName key="A004475">釋從諗</persName>，<placeName key="CN0370305Z31AA">青州臨淄</placeName>人也。童稚之歲，孤介弗群，
-<lb ed="T" n="0775c08"/>越二親之覊絆，超然離俗。乃投本州<placeName key="CN0370781T03AA">龍興
-    <lb ed="T" n="0775c09"/>伽藍</placeName>，從師剪落。尋往<placeName key="CN0410185T12AA">嵩山琉璃壇</placeName>納戒，<ref type="person" target="#A004475">師</ref>
-<lb ed="T" n="0775c10"/>勉之聽習，於經律但染指而已。聞<placeName key="CN0341702Z12AA">池陽</placeName><persName key="A003889">願
+    <anchor n="T.50.2061.0775c06"/><head><date from-iso="0618-06-21" key="j19469512052491" to-iso="0907-06-06">唐</date><placeName key="PL000000001032">趙州東院</placeName><persName key="A004475">從諗</persName>傳</head><p>
+        <lb ed="T" n="0775c07"/><persName key="A004475">釋從諗</persName>，<placeName key="PL000000020642">青州臨淄</placeName>人也。童稚之歲，孤介弗群，
+<lb ed="T" n="0775c08"/>越二親之覊絆，超然離俗。乃投本州<placeName key="PL000000021092">龍興
+    <lb ed="T" n="0775c09"/>伽藍</placeName>，從師剪落。尋往<placeName key="PL000000023266">嵩山琉璃壇</placeName>納戒，<ref type="person" target="#A004475">師</ref>
+<lb ed="T" n="0775c10"/>勉之聽習，於經律但染指而已。聞<placeName key="PL000000016632">池陽</placeName><persName key="A003889">願
 <lb ed="T" n="0775c11"/>禪師</persName>道化翕如，<persName key="A004475">諗</persName>執心定志，鑽仰忘疲。<persName key="A003889">南
-    <lb ed="T" n="0775c12"/>泉</persName>密付授<ref type="person" target="#A004475">之</ref>，滅跡匿端，坦然安樂。後於<placeName key="CN0130133Z25AA">趙
-    <lb ed="T" n="0775c13"/>郡</placeName>開物化迷，大行禪道。以<placeName key="CN0130123Z21AA">真定</placeName>帥<persName key="A010731">王氏</persName>阻
+    <lb ed="T" n="0775c12"/>泉</persName>密付授<ref type="person" target="#A004475">之</ref>，滅跡匿端，坦然安樂。後於<placeName key="PL000000001058">趙
+    <lb ed="T" n="0775c13"/>郡</placeName>開物化迷，大行禪道。以<placeName key="PL000000000871">真定</placeName>帥<persName key="A010731">王氏</persName>阻
         <lb ed="T" n="0775c14"/>兵，封疆多梗，朝廷患之。<persName key="A010731">王氏</persName>抗拒過制，而
         <lb ed="T" n="0775c15"/>偏歸心於<persName key="A004475">諗</persName>。<persName key="A004475">諗</persName>嘗寄塵拂上<persName key="A010731">王氏</persName>曰：「<persName key="A010731">王</persName>若
         <lb ed="T" n="0775c16"/>問何處得此拂子？答道<ref type="person" target="#A004475">老僧</ref>平生用不盡者
-<lb ed="T" n="0775c17"/>物。」凡所舉揚，天下傳之，號<placeName key="CN0130133Z25AA">趙州</placeName>去道。《語錄》
+<lb ed="T" n="0775c17"/>物。」凡所舉揚，天下傳之，號<placeName key="PL000000001058">趙州</placeName>去道。《語錄》
 <lb ed="T" n="0775c18"/>大行，為世所貴也。</p>
     <linkGrp>
         <link targets="#0775c07 #0775c07"/>
         <ptr target="#A004475" type="person"/>
-        <ptr target="#CN0370305Z31AA" type="place"/>
+        <ptr target="#PL000000020642" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0775c08 #0775c09"/>
         <ptr target="#A004475" type="person"/>
-        <ptr target="#CN0370781T03AA" type="place"/>
+        <ptr target="#PL000000021092" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0775c09 #0775c10"/>
         <ptr target="#A004475" type="person"/>
-        <ptr target="#CN0410185T12AA" type="place"/>
+        <ptr target="#PL000000023266" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0775c10 #0775c12"/>
         <ptr target="#A004475" type="person"/>
         <ptr target="#A003889" type="person"/>
-        <ptr target="#CN0341702Z12AA" type="place"/>
+        <ptr target="#PL000000016632" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0775c12 #0775c13"/>
         <ptr target="#A004475" type="person"/>
-        <ptr target="#CN0130133Z25AA" type="place"/>
+        <ptr target="#PL000000001058" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0775c14 #0775c17"/>
         <ptr target="#A004475" type="person"/>
         <ptr target="#A010731" type="person"/>
-        <ptr target="#CN0130123Z21AA" type="place"/>
+        <ptr target="#PL000000000871" type="place"/>
     </linkGrp>
 </div>

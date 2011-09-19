@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0401a24shiSengQu">
-    <p><anchor n="T.50.2059.0401a25"/><lb ed="T" n="0401a25"/><persName key="A001600">釋僧璩</persName>，姓<ptr target="fn09"/>來，<placeName key="CN0320503Z22AA">吳國</placeName>人。出家為<persName key="A002318">僧業</persName>弟子。總<lb ed="T" n="0401a26"/>銳眾經，尤明《十誦》，兼善史籍，頗製文藻。始<lb ed="T" n="0401a27"/>住<placeName key="CN0320505M01AA">吳虎丘山</placeName>，<persName key="A002105">宋孝武</persName>欽其風聞，勅出<placeName key="CN0320106Z06AA">京師</placeName><lb ed="T" n="0401a28"/>為僧正、悅眾，止于<placeName key="CN0320105T02AA">中興寺</placeName>。時有沙門<persName key="A003355">僧定</persName>，<lb ed="T" n="0401a29"/>自稱得不還果。<persName key="A001600">璩</persName>集僧詳斷，令現神足。<persName key="A003355">定</persName><lb ed="T" n="0401b01"/>云：「恐犯戒，故不<ptr target="fn10"/>現。」<persName key="A001600">璩</persName>案律文，有四因緣，<lb ed="T" n="0401b02"/>得現神足：一斷疑網，二破邪見，三除憍<lb ed="T" n="0401b03"/>慢，四成功德。定既虛誑事暴，即日明擯。<persName key="A001600">璩</persName>仍<lb ed="T" n="0401b04"/>著〈誡眾論〉，以示來<ptr target="fn11"/>業。<persName key="A001600">璩</persName>既學兼內外，又律<lb ed="T" n="0401b05"/>行無疵，道俗歸依，車軌相接。<persName key="A003356">少帝</persName>准從受<lb ed="T" n="0401b06"/>五戒，<persName key="A003050">豫章王子尚</persName>崇為法友，<persName key="A002985">袁粲</persName>、<persName key="A002914">張敷</persName>並一<lb ed="T" n="0401b07"/>遇傾蓋。</p><p>後移止<placeName key="CN0320101T60AA">莊嚴</placeName>，卒於所住，春秋五十<lb ed="T" n="0401b08"/>有八。述《勝鬘文旨》，并撰《僧尼要事》兩卷，今<lb ed="T" n="0401b09"/>行於世。</p><p>時又有<persName key="A003357">道<ptr target="fn12"/>表律師</persName>，率<ptr target="fn13"/>真有高行。<lb ed="T" n="0401b10"/><persName key="A002652">宋明帝</persName>勅<persName key="A003358">晉熙王<ptr target="fn14"/>爽</persName>從請戒焉。</p>
+    <p><anchor n="T.50.2059.0401a25"/><lb ed="T" n="0401a25"/><persName key="A001600">釋僧璩</persName>，姓<ptr target="fn09"/>來，<placeName key="PL000000009934">吳國</placeName>人。出家為<persName key="A002318">僧業</persName>弟子。總<lb ed="T" n="0401a26"/>銳眾經，尤明《十誦》，兼善史籍，頗製文藻。始<lb ed="T" n="0401a27"/>住<placeName key="PL000000010007">吳虎丘山</placeName>，<persName key="A002105">宋孝武</persName>欽其風聞，勅出<placeName key="PL000000008976">京師</placeName><lb ed="T" n="0401a28"/>為僧正、悅眾，止于<placeName key="PL000000008874">中興寺</placeName>。時有沙門<persName key="A003355">僧定</persName>，<lb ed="T" n="0401a29"/>自稱得不還果。<persName key="A001600">璩</persName>集僧詳斷，令現神足。<persName key="A003355">定</persName><lb ed="T" n="0401b01"/>云：「恐犯戒，故不<ptr target="fn10"/>現。」<persName key="A001600">璩</persName>案律文，有四因緣，<lb ed="T" n="0401b02"/>得現神足：一斷疑網，二破邪見，三除憍<lb ed="T" n="0401b03"/>慢，四成功德。定既虛誑事暴，即日明擯。<persName key="A001600">璩</persName>仍<lb ed="T" n="0401b04"/>著〈誡眾論〉，以示來<ptr target="fn11"/>業。<persName key="A001600">璩</persName>既學兼內外，又律<lb ed="T" n="0401b05"/>行無疵，道俗歸依，車軌相接。<persName key="A003356">少帝</persName>准從受<lb ed="T" n="0401b06"/>五戒，<persName key="A003050">豫章王子尚</persName>崇為法友，<persName key="A002985">袁粲</persName>、<persName key="A002914">張敷</persName>並一<lb ed="T" n="0401b07"/>遇傾蓋。</p><p>後移止<placeName key="PL000000008702">莊嚴</placeName>，卒於所住，春秋五十<lb ed="T" n="0401b08"/>有八。述《勝鬘文旨》，并撰《僧尼要事》兩卷，今<lb ed="T" n="0401b09"/>行於世。</p><p>時又有<persName key="A003357">道<ptr target="fn12"/>表律師</persName>，率<ptr target="fn13"/>真有高行。<lb ed="T" n="0401b10"/><persName key="A002652">宋明帝</persName>勅<persName key="A003358">晉熙王<ptr target="fn14"/>爽</persName>從請戒焉。</p>
     <linkGrp>
         <link targets="#0401a25 #0401a27"/>
         <ptr target="#A001600" type="person"/>
-        <ptr target="#CN0320505M01AA" type="place"/>
+        <ptr target="#PL000000010007" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0401b10 #0401b10"/>
@@ -21,7 +21,7 @@
         <link targets="#0401a27 #0401a28"/>
         <ptr target="#A001600" type="person"/>
         <ptr target="#A002105" type="person"/>
-        <ptr target="#CN0320105T02AA" type="place"/>
+        <ptr target="#PL000000008874" type="place"/>
         <ptr target="#j18726621891266" type="time"/>
     </linkGrp>
     <linkGrp>
@@ -31,13 +31,13 @@
         <ptr target="#A003050" type="person"/>
         <ptr target="#A002985" type="person"/>
         <ptr target="#A002914" type="person"/>
-        <ptr target="#CN0320105T02AA" type="place"/>
+        <ptr target="#PL000000008874" type="place"/>
         <ptr target="#j18726621891266" type="time"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0401b07 #0401b08"/>
         <ptr target="#A001600" type="person"/>
-        <ptr target="#CN0320101T60AA" type="place"/>
+        <ptr target="#PL000000008702" type="place"/>
         <ptr target="#j18726621891266" type="time"/>
     </linkGrp>
 </div>

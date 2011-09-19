@@ -1,22 +1,22 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0380b01shiSengYin">
-	<p><anchor n="T.50.2059.0380b01"/><lb ed="T" n="0380b01"/><persName key="A002268">釋僧印</persName>，姓朱，<placeName key="CN0341521Z56AA">壽春</placeName>人。少而神思沈審，安苦<lb ed="T" n="0380b02"/>務學。初遊<placeName key="CN0320303Z23AA">彭城</placeName>，從<persName key="A002254">曇度</persName>受三《論》。<persName key="A002254">度</persName>既擅<lb ed="T" n="0380b03"/>步一時，四遠依集，<persName key="A002268">印</persName>稟味鑽研，窮其幽奧。</p><p>後<lb ed="T" n="0380b04"/>進往<placeName key="CN0360402M01AA">廬山</placeName>，從<persName key="A003125">慧龍</persName>諮受《法華》。<persName key="A003125">龍</persName>亦當世著<lb ed="T" n="0380b05"/>名，播於《法華》宗旨。<persName key="A002268">印</persName>偏功構徹，獨表新異。<lb ed="T" n="0380b06"/>於是東適<placeName key="CN0320106Z05AA">京師</placeName>，止<placeName key="CN0320105T02AA">中興寺</placeName>，復陶思《涅槃》及<lb ed="T" n="0380b07"/><ptr target="fn07"/>餘經典。<date key="j18880181890941" notAfter-iso="0465" notBefore-iso="0457">宋大明中</date>，徵<ptr target="fn08"/>君<persName key="A003066">何<ptr target="fn＊"/>點</persName>招僧大集，<lb ed="T" n="0380b08"/>請印為法匠，聽者七百餘人。<persName key="A002655">司徒文宣王</persName>、<placeName key="CN0320381Z12AA">東<lb ed="T" n="0380b09"/>海</placeName><persName key="A003126">徐孝嗣</persName>，並挹敬風猷，屢請講說。</p><p>印戒行清<lb ed="T" n="0380b10"/>嚴，稟性和穆，含恕安忍，憙慍不彰。時<ptr target="fn09"/>仗氣<lb ed="T" n="0380b11"/>之徒，問論中間，或厝以嘲謔。<persName key="A002268">印</persName>神<ptr target="fn10"/>彩夷然，<lb ed="T" n="0380b12"/>曾無<ptr target="fn11"/>外意。雖學涉眾典，而偏以《法華》著<lb ed="T" n="0380b13"/>名，講《法華》凡二百五十二遍。以<date key="j19033451903727" from-iso="0499-01-29" to-iso="0500-02-15">齊永元元<lb ed="T" n="0380b14"/>年</date>卒，春秋六十有五矣。</p>
+	<p><anchor n="T.50.2059.0380b01"/><lb ed="T" n="0380b01"/><persName key="A002268">釋僧印</persName>，姓朱，<placeName key="PL000000016391">壽春</placeName>人。少而神思沈審，安苦<lb ed="T" n="0380b02"/>務學。初遊<placeName key="PL000000009533">彭城</placeName>，從<persName key="A002254">曇度</persName>受三《論》。<persName key="A002254">度</persName>既擅<lb ed="T" n="0380b03"/>步一時，四遠依集，<persName key="A002268">印</persName>稟味鑽研，窮其幽奧。</p><p>後<lb ed="T" n="0380b04"/>進往<placeName key="PL000000018775">廬山</placeName>，從<persName key="A003125">慧龍</persName>諮受《法華》。<persName key="A003125">龍</persName>亦當世著<lb ed="T" n="0380b05"/>名，播於《法華》宗旨。<persName key="A002268">印</persName>偏功構徹，獨表新異。<lb ed="T" n="0380b06"/>於是東適<placeName key="PL000000008975">京師</placeName>，止<placeName key="PL000000008874">中興寺</placeName>，復陶思《涅槃》及<lb ed="T" n="0380b07"/><ptr target="fn07"/>餘經典。<date key="j18880181890941" notAfter-iso="0465" notBefore-iso="0457">宋大明中</date>，徵<ptr target="fn08"/>君<persName key="A003066">何<ptr target="fn＊"/>點</persName>招僧大集，<lb ed="T" n="0380b08"/>請印為法匠，聽者七百餘人。<persName key="A002655">司徒文宣王</persName>、<placeName key="PL000000009672">東<lb ed="T" n="0380b09"/>海</placeName><persName key="A003126">徐孝嗣</persName>，並挹敬風猷，屢請講說。</p><p>印戒行清<lb ed="T" n="0380b10"/>嚴，稟性和穆，含恕安忍，憙慍不彰。時<ptr target="fn09"/>仗氣<lb ed="T" n="0380b11"/>之徒，問論中間，或厝以嘲謔。<persName key="A002268">印</persName>神<ptr target="fn10"/>彩夷然，<lb ed="T" n="0380b12"/>曾無<ptr target="fn11"/>外意。雖學涉眾典，而偏以《法華》著<lb ed="T" n="0380b13"/>名，講《法華》凡二百五十二遍。以<date key="j19033451903727" from-iso="0499-01-29" to-iso="0500-02-15">齊永元元<lb ed="T" n="0380b14"/>年</date>卒，春秋六十有五矣。</p>
 	<linkGrp>
 		<link targets="#0380b02 #0380b03"/>
 		<ptr target="#A002268" type="person"/>
 		<ptr target="#A002254" type="person"/>
-		<ptr target="#CN0320303Z23AA" type="place"/>
+		<ptr target="#PL000000009533" type="place"/>
 	</linkGrp>
 	<linkGrp>
 		<link targets="#0380b03 #0380b05"/>
 		<ptr target="#A002268" type="person"/>
 		<ptr target="#A003125" type="person"/>
-		<ptr target="#CN0360402M01AA" type="place"/>
+		<ptr target="#PL000000018775" type="place"/>
 	</linkGrp>
 	<linkGrp>
 		<link targets="#0380b06 #0380b06"/>
 		<ptr target="#A002268" type="person"/>
-		<ptr target="#CN0320105T02AA" type="place"/>
+		<ptr target="#PL000000008874" type="place"/>
 	</linkGrp>
 	<linkGrp>
 		<link targets="#0380b08 #0380b09"/>
@@ -32,7 +32,7 @@
 		<link targets="#0380b07 #0380b08"/>
 		<ptr target="#A002268" type="person"/>
 		<ptr target="#A003066" type="person"/>
-		<ptr target="#CN0320106Z05AA" type="place"/>
+		<ptr target="#PL000000008975" type="place"/>
 		<ptr target="#j18880181890941" type="time"/>
 	</linkGrp>
 	<linkGrp>

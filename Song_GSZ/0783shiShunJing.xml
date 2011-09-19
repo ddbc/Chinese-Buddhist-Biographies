@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0728a04shiShunJing">
-    <lb ed="T" n="0728a04"/><anchor n="T.50.2061.0728a04"/><head><date from-iso="0618-06-21" key="j19469512052491" to-iso="0907-06-06">唐</date><placeName key="KR0000000E03AA">新羅國</placeName><persName key="A009210">順璟</persName>傳</head><p>
-        <lb ed="T" n="0728a05"/><persName key="A009210">釋順璟</persName>者，<placeName key="KPPYOHJ00Z01AA"><choice resp="sgsz"><sic>浪</sic><corr>樂浪</corr></choice>郡</placeName>人也，本土之氏族，東夷之家
+    <lb ed="T" n="0728a04"/><anchor n="T.50.2061.0728a04"/><head><date from-iso="0618-06-21" key="j19469512052491" to-iso="0907-06-06">唐</date><placeName key="PL000000048606">新羅國</placeName><persName key="A009210">順璟</persName>傳</head><p>
+        <lb ed="T" n="0728a05"/><persName key="A009210">釋順璟</persName>者，<placeName key="PL000000048587"><choice resp="sgsz"><sic>浪</sic><corr>樂浪</corr></choice>郡</placeName>人也，本土之氏族，東夷之家
         <lb ed="T" n="0728a06"/>系，故難詳練<ptr target="#n558"/>。其重譯學聲教<ptr target="#n559"/>，蓋出天然。況
         <lb ed="T" n="0728a07"/>乎「因明」之學，<persName key="A000294">奘師</persName>精研，付<anchor xml:id="beg0728001"/><choice resp="sgsz"><sic>受</sic><corr>授</corr></choice><anchor xml:id="end0728001"/>華僧，尚未多
         <lb ed="T" n="0728a08"/>達。<persName key="A009210">璟</persName>之克<ptr target="#n560"/>通，非其宿殖<ptr target="#n90"/>之力，自何而至<anchor xml:id="beg0728002"/>於<anchor xml:id="end0728002"/>
@@ -13,14 +13,14 @@
         <lb ed="T" n="0728a14"/><persName key="A009210">璟</persName>為「宗<ptr target="#n564"/>」云：「不離於眼識，自許初三攝，眼所
             <lb ed="T" n="0728a15"/>不攝故，猶如眼識也<ptr target="#n565"/>。」如此善<ptr target="#n569"/>成他義。時<persName key="A001019">大
 <lb ed="T" n="0728a16"/>乘基</persName>覽此作，便見<persName key="A009210">璟</persName>所不知。雖然，終仰邊
-<lb ed="T" n="0728a17"/>僧識見如此，故歎之曰：「<placeName key="KR0000000E03AA">新羅</placeName><persName key="A009210">順璟法師</persName>者，
+<lb ed="T" n="0728a17"/>僧識見如此，故歎之曰：「<placeName key="PL000000048606">新羅</placeName><persName key="A009210">順璟法師</persName>者，
         <lb ed="T" n="0728a18"/>聲振唐蕃，學包大小。業崇<persName key="A002188">迦葉</persName>，唯執行於
         <lb ed="T" n="0728a19"/>杜多<ptr target="#n566"/>；心務<persName key="A013473">薄拘</persName>，恒馳聲於少欲。既而蘊藝
-<lb ed="T" n="0728a20"/><placeName key="AFBALBA00Z01AA">西夏</placeName>，傳照<placeName key="KR0000000E03AA">東夷</placeName>，名道日新，緇素欽揖。雖彼
+<lb ed="T" n="0728a20"/><placeName key="PL000000000008">西夏</placeName>，傳照<placeName key="PL000000048606">東夷</placeName>，名道日新，緇素欽揖。雖彼
         <lb ed="T" n="0728a21"/>龍象不少，海外時稱獨步，於<anchor xml:id="beg0728003"/>此<anchor xml:id="end0728003"/>量<ptr target="#n567"/>作『決
         <lb ed="T" n="0728a22"/>定相違<ptr target="#n562"/>』。」<persName key="A001019">基師</persName>念遠國之人有茲利慧，搪突<ptr target="#n568"/>
         <lb ed="T" n="0728a23"/><persName key="A000294">奘師</persName>，暗中機發，善<ptr target="#n569"/>成三藏之義，惜哉！<persName key="A009210">璟</persName>在
-            <lb ed="T" n="0728a24"/><ref type="place" target="#KR0000000E03AA">本國</ref>稍多著述，亦有傳來<placeName key="CN0000012D01AA">中原</placeName>者，其所宗，
+            <lb ed="T" n="0728a24"/><ref type="place" target="#PL000000048606">本國</ref>稍多著述，亦有傳來<placeName key="PL000000000214">中原</placeName>者，其所宗，
             <lb ed="T" n="0728a25"/>「法相大乘了義教<ptr target="#n570"/>」也。見《華嚴經》<ptr target="#n571"/>中始從發心
 <lb ed="T" n="0728a26"/>便成佛已，乃生謗毀不信。或云：「當啟手
             <lb ed="T" n="0728a27"/>足<ptr target="#n572"/>，命弟子輩扶掖下地，地則徐裂，<persName key="A009210">璟</persName>身俄
@@ -39,7 +39,7 @@
     <linkGrp>
         <link targets="#0728a05 #0728a05"/>
         <ptr target="#A009210" type="person"/>
-        <ptr target="#KPPYOHJ00Z01AA" type="place"/>
+        <ptr target="#PL000000048587" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0728a07 #0728a11"/>

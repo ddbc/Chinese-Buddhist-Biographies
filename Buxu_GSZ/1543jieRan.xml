@@ -1,17 +1,17 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0378a02jieRan">
     <head><lb ed="X" n="0378a02"/>　　　　<persName key="A019740">介然</persName>．能師二公傳</head>
-    <p><anchor n="X.77.1524.0378a03"/><lb ed="X" n="0378a03"/><persName key="A019740">介然</persName>。四明<placeName key="CN0330203Z10AA">鄞</placeName>人也。受業於<placeName key="CN0330212A02AA">福泉山</placeName>之<placeName key="CN0330212T13AA">延壽</placeName>。<persName key="A010636">明智</persName>居<placeName key="CN0330205T02AA">南<lb ed="X" n="0378a04"/>湖</placeName>。從其學悟教觀之旨。<date from-iso="1078-01-23" to-iso="1079-11-11" key="j21148142115471">元豐初</date>。專志淨業。謂同行曰。
-        <lb ed="X" n="0378a05"/>念佛三昧。往生要法也。乃然三指。建<placeName key="CN0330203T12AA">十六觀堂</placeName>。中設
+    <p><anchor n="X.77.1524.0378a03"/><lb ed="X" n="0378a03"/><persName key="A019740">介然</persName>。四明<placeName key="PL000000012200">鄞</placeName>人也。受業於<placeName key="PL000000012273">福泉山</placeName>之<placeName key="PL000000012332">延壽</placeName>。<persName key="A010636">明智</persName>居<placeName key="PL000000012209">南<lb ed="X" n="0378a04"/>湖</placeName>。從其學悟教觀之旨。<date from-iso="1078-01-23" to-iso="1079-11-11" key="j21148142115471">元豐初</date>。專志淨業。謂同行曰。
+        <lb ed="X" n="0378a05"/>念佛三昧。往生要法也。乃然三指。建<placeName key="PL000000012177">十六觀堂</placeName>。中設
         <lb ed="X" n="0378a06"/><persName key="G000014">西方三聖</persName>。環以池蓮。功成。復然三指。於是修觀之士。
-        <lb ed="X" n="0378a07"/>有所依賴焉。<date from-iso="1130-02-17" to-iso="1131-02-06" key="j21338312134185">建炎四年</date>。金虜犯<placeName key="CN0330203Z08AA">明州</placeName>。寺眾奔散。師獨
+        <lb ed="X" n="0378a07"/>有所依賴焉。<date from-iso="1130-02-17" to-iso="1131-02-06" key="j21338312134185">建炎四年</date>。金虜犯<placeName key="PL000000012198">明州</placeName>。寺眾奔散。師獨
         <lb ed="X" n="0378a08"/>不去。虜奄至訶之曰。不畏死邪。師曰。貧道一生願力。
         <lb ed="X" n="0378a09"/>建此觀堂。今老矣。不忍捨去以求生也。虜酋義之。謂
         <lb ed="X" n="0378a10"/>曰。為我歸北地作觀堂。似此規制。遂逼師以行。後人
         <lb ed="X" n="0378a11"/>悲思。乃以去日為之忌。遙尊之曰。<persName key="A019740">定慧尊者</persName>。未詳所
         <lb ed="X" n="0378a12"/>終。</p><p>
-            <lb ed="X" n="0378a13"/><persName key="A019741">能師</persName>。<placeName key="CN0330402Z13AA">嘉禾</placeName>人。少學<persName key="A019742">能仁</persName>。入懺室四十載。六時行道。雖
-            <lb ed="X" n="0378a14"/>病不廢。唯不食數日。其病自愈。<persName key="A019741">行人</persName>之名。遂聞<placeName key="CN0300000G01AA">江浙</placeName>。
+            <lb ed="X" n="0378a13"/><persName key="A019741">能師</persName>。<placeName key="PL000000012747">嘉禾</placeName>人。少學<persName key="A019742">能仁</persName>。入懺室四十載。六時行道。雖
+            <lb ed="X" n="0378a14"/>病不廢。唯不食數日。其病自愈。<persName key="A019741">行人</persName>之名。遂聞<placeName key="PLG00000000018">江浙</placeName>。
             <lb ed="X" n="0378a15"/>年既老。讀文如初學。<persName key="A012638">草庵</persName>戲之曰。未忘筌耶。師曰。筌
             <lb ed="X" n="0378a16"/>何所忘。<persName key="A012638">庵</persName>大慚。甞暑曬衣歎曰。慷慨丈夫。反同臧獲。
         <lb ed="X" n="0378a17"/>於是散去餘長。惟留一弊絮袍。夏則束梁梠間。袒膊
@@ -24,35 +24,35 @@
     <linkGrp>
         <link targets="#0378a03 #0378a03"/>
         <ptr target="#A019740" type="person"/>
-        <ptr target="#CN0330203Z10AA" type="place"/>
+        <ptr target="#PL000000012200" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0378a03 #0378a03"/>
         <ptr target="#A019740" type="person"/>
-        <ptr target="#CN0330212T13AA" type="place"/>
+        <ptr target="#PL000000012332" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0378a03 #0378a04"/>
         <ptr target="#A010636" type="person"/>
         <ptr target="#A019740" type="person"/>
-        <ptr target="#CN0330205T02AA" type="place"/>
+        <ptr target="#PL000000012209" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0378a04 #0378a07"/>
         <ptr target="#A019740" type="person"/>
-        <ptr target="#CN0330203T12AA" type="place"/>
+        <ptr target="#PL000000012177" type="place"/>
         <ptr target="#j21148142115471" type="time"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0378a07 #0378a12"/>
         <ptr target="#A019740" type="person"/>
-        <ptr target="#CN0330203T12AA" type="place"/>
+        <ptr target="#PL000000012177" type="place"/>
         <ptr target="#j21338312134185" type="time"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0378a13 #0378a13"/>
         <ptr target="#A019741" type="person"/>
-        <ptr target="#CN0330402Z13AA" type="place"/>
+        <ptr target="#PL000000012747" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0378a13 #0378a14"/>

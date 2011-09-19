@@ -1,27 +1,27 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0657b20shiSengDuo">
-    <p><anchor n="T.50.2060.0657b20"/><lb ed="T" n="0657b20"/><persName key="A006916">釋僧度</persName>。不知何人。去來邑野略無定所。言<lb ed="T" n="0657b21"/>語出沒時有預知。號為狂人。<persName key="A006442">周趙王</persName>在<placeName key="CN0510108Z32AA">益<lb ed="T" n="0657b22"/>州</placeName>。有<placeName key="CN0510124Z14AA">郫</placeName>人與<persName key="A019345">王厚</persName>。便欲反。時有告者。<persName key="A006442">王</persName>未<lb ed="T" n="0657b23"/>信之。至旦<placeName key="CN0510124Z14AA">郫</placeName>兵果至。<persName key="A019345">王厚</persName>者為主。在城西<lb ed="T" n="0657b24"/>大街。方床大坐。時<persName key="A006916">僧度</persName>乃戴皮靴一隻。從<lb ed="T" n="0657b25"/>城西遺糞而走。至<placeName key="CN0510100A02AA">盤陀</placeName>塔。棄靴而迴。眾怪<lb ed="T" n="0657b26"/>之而莫測也。又復將反者。將紙筆請<persName key="A006916">度</persName>定<lb ed="T" n="0657b27"/>吉凶。便操筆作州度兩字。反者喜曰。州度<lb ed="T" n="0657b28"/>與我。斯為吉也。擇<ptr target="fn04"/>曰往亡。我往彼亡。重<lb ed="T" n="0657b29"/>必剋之。時<persName key="A006442">趙王</persName>據<placeName key="CN0510108Z32AB">西門樓</placeName>。令精兵三千騎<lb ed="T" n="0657c01"/>往。始交即退。隨後殺之。至<placeName key="CN0510100A02AA">盤陀</placeName>斬郫兵千<lb ed="T" n="0657c02"/>餘。為京觀。今塔東特高者是。於後方驗<persName key="A006916">度</persName><lb ed="T" n="0657c03"/>戴皮相。皮郫聲同。遺糞而走。散於塔地。所<lb ed="T" n="0657c04"/>言州度(徒各<ptr target="fn05"/>切)反即斫頭。目前取驗。定後。人<lb ed="T" n="0657c05"/>聞於<persName key="A006442">王</persName>。遣人四追。遂失所在。</p>
+    <p><anchor n="T.50.2060.0657b20"/><lb ed="T" n="0657b20"/><persName key="A006916">釋僧度</persName>。不知何人。去來邑野略無定所。言<lb ed="T" n="0657b21"/>語出沒時有預知。號為狂人。<persName key="A006442">周趙王</persName>在<placeName key="PL000000034806">益<lb ed="T" n="0657b22"/>州</placeName>。有<placeName key="PL000000034934">郫</placeName>人與<persName key="A019345">王厚</persName>。便欲反。時有告者。<persName key="A006442">王</persName>未<lb ed="T" n="0657b23"/>信之。至旦<placeName key="PL000000034934">郫</placeName>兵果至。<persName key="A019345">王厚</persName>者為主。在城西<lb ed="T" n="0657b24"/>大街。方床大坐。時<persName key="A006916">僧度</persName>乃戴皮靴一隻。從<lb ed="T" n="0657b25"/>城西遺糞而走。至<placeName key="PL000000034679">盤陀</placeName>塔。棄靴而迴。眾怪<lb ed="T" n="0657b26"/>之而莫測也。又復將反者。將紙筆請<persName key="A006916">度</persName>定<lb ed="T" n="0657b27"/>吉凶。便操筆作州度兩字。反者喜曰。州度<lb ed="T" n="0657b28"/>與我。斯為吉也。擇<ptr target="fn04"/>曰往亡。我往彼亡。重<lb ed="T" n="0657b29"/>必剋之。時<persName key="A006442">趙王</persName>據<placeName key="PL000000034807">西門樓</placeName>。令精兵三千騎<lb ed="T" n="0657c01"/>往。始交即退。隨後殺之。至<placeName key="PL000000034679">盤陀</placeName>斬郫兵千<lb ed="T" n="0657c02"/>餘。為京觀。今塔東特高者是。於後方驗<persName key="A006916">度</persName><lb ed="T" n="0657c03"/>戴皮相。皮郫聲同。遺糞而走。散於塔地。所<lb ed="T" n="0657c04"/>言州度(徒各<ptr target="fn05"/>切)反即斫頭。目前取驗。定後。人<lb ed="T" n="0657c05"/>聞於<persName key="A006442">王</persName>。遣人四追。遂失所在。</p>
     <linkGrp>
         <link targets="#0657b25 #0657b25"/>
         <ptr target="#A006916" type="person"/>
-        <ptr target="#CN0510100A02AA" type="place"/>
+        <ptr target="#PL000000034679" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0657b23 #0657b27"/>
         <ptr target="#A006916" type="person"/>
         <ptr target="#A019345" type="person"/>
-        <ptr target="#CN0510108Z32AA" type="place"/>
+        <ptr target="#PL000000034806" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0657b23 #0657c04"/>
         <ptr target="#A006442" type="person"/>
         <ptr target="#A019345" type="person"/>
-        <ptr target="#CN0510108Z32AA" type="place"/>
+        <ptr target="#PL000000034806" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0657b21 #0657c05"/>
         <ptr target="#A006916" type="person"/>
         <ptr target="#A006442" type="person"/>
-        <ptr target="#CN0510108Z32AA" type="place"/>
+        <ptr target="#PL000000034806" type="place"/>
         </linkGrp>
 </div>

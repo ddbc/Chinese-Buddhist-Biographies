@@ -1,21 +1,103 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0427a10daoQuan">
     <head><lb ed="X" n="0427a10"/>　　　　宋　<persName key="A014515">黃檗全</persName>禪師傳</head>
-    <p><anchor n="X.77.1524.0427a11"/><lb ed="X" n="0427a11"/><persName key="A014515">道全</persName>。<placeName key="CN0410304Z03AA">洛陽</placeName>王氏子也。生不食葷血。父母使事其舅<persName key="unknown">廣
-        <lb ed="X" n="0427a12"/>愛演</persName>公得度。<date key="j21063912106755" when-iso="1055">二十</date>具戒。游<placeName key="CN0320303Z12AA">彭城</placeName>。歷<placeName key="CN0341521Z09AA">壽春</placeName>。受華嚴清涼
-        <lb ed="X" n="0427a13"/>說於<persName key="A004264">誠法師</persName>。朝授師說。夕能為其徒講。<placeName key="CN0320303Z12AA">彭城</placeName>有隱士
+    <p><anchor n="X.77.1524.0427a11"/><lb ed="X" n="0427a11"/><persName key="A014515">道全</persName>。<placeName key="PL000000023602">洛陽</placeName>王氏子也。生不食葷血。父母使事其舅<persName key="A022010">廣
+        <lb ed="X" n="0427a12"/>愛演</persName>公得度。<date key="j21063912106755" when-iso="1055">二十</date>具戒。游<placeName key="PL000000009522">彭城</placeName>。歷<placeName key="PL000000016344">壽春</placeName>。受華嚴清涼
+        <lb ed="X" n="0427a13"/>說於<persName key="A004264">誠法師</persName>。朝授師說。夕能為其徒講。<placeName key="PL000000009522">彭城</placeName>有隱士
         <lb ed="X" n="0427a14"/><persName key="unknown">董君</persName>。識師非凡人也。勸游南方。問無上道。師乃棄所
-        <lb ed="X" n="0427a15"/>學。渡江。首從<persName key="unknown">甘露</persName>禪師。茫無所見。復從<persName key="unknown">棲賢秀</persName>禪師。
-        <lb ed="X" n="0427a16"/>秀勇於誨人。示以道機。迷悶不能入。深自悔恨。至啗
-        <lb ed="X" n="0427a17"/>惡食飲惡水以自礪。凡七年。秀游<placeName key="CN0360983Z09AA">高安</placeName>。事<persName key="A007526">真淨文</persName>禪
+        <lb ed="X" n="0427a15"/>學。渡江。首從<persName key="A022011">甘露</persName>禪師。茫無所見。復從<persName key="A008393"><placeName key="PL000000018961">棲賢</placeName>秀</persName>禪師。
+        <lb ed="X" n="0427a16"/><persName key="A008393">秀</persName>勇於誨人。示以道機。迷悶不能入。深自悔恨。至啗
+        <lb ed="X" n="0427a17"/>惡食飲惡水以自礪。凡七年。<persName key="A008393">秀</persName>游<placeName key="PL000000019788">高安</placeName>。事<persName key="A007526">真淨文</persName>禪
         <lb ed="X" n="0427a18"/>師。五年而悟。告<persName key="A007526">文</persName>曰。吾一槌打透無底藏。一切珍寶
-        <lb ed="X" n="0427a19"/>皆吾有。<persName key="A007526">文</persName>可之。自是言語偈頌。發如湧泉。<placeName key="CN0360983Z09AA">高安</placeName>太守。
-        <lb ed="X" n="0427a20"/>請住石臺<placeName key="CN0360924T05AA">清涼</placeName>。已徙<placeName key="CN0360924T03AA">黃檗</placeName>。師為人。直而淳信。不飾外
-        <lb ed="X" n="0427a21"/>事。<date from-iso="1083-01-27" to-iso="1084-02-14" key="j21166442117027">元豐六年</date>。師得疾甚苦。從醫於市。時<placeName key="CN0511402Z05AA">眉山</placeName><persName key="A007595">蘇轍</persName>。謫
-        <lb ed="X" n="0427a22"/><placeName key="CN0360983Z09AA">高安</placeName>。師謂之曰。君靜而惠。可以學道。且云。吾病夙業
+        <lb ed="X" n="0427a19"/>皆吾有。<persName key="A007526">文</persName>可之。自是言語偈頌。發如湧泉。<placeName key="PL000000019788">高安</placeName>太守。
+        <lb ed="X" n="0427a20"/>請住石臺<placeName key="PL000000019691">清涼</placeName>。已徙<placeName key="PL000000019688">黃檗</placeName>。師為人。直而淳信。不飾外
+        <lb ed="X" n="0427a21"/>事。<date from-iso="1083-01-27" to-iso="1084-02-14" key="j21166442117027">元豐六年</date>。師得疾甚苦。從醫於市。時<placeName key="PL000000036571">眉山</placeName><persName key="A007595">蘇轍</persName>。謫
+        <lb ed="X" n="0427a22"/><placeName key="PL000000019788">高安</placeName>。師謂之曰。君靜而惠。可以學道。且云。吾病夙業
         <lb ed="X" n="0427a23"/>也。殆不復起矣。君念道異時相見。毋相忘也。病小愈。
-        <lb ed="X" n="0427a24"/>遠居山中。<date from-iso="1084-11-07" to-iso="1085-02-03" key="j21172942117382">次年冬</date>。<persName key="A007595">轍</persName>移<placeName key="CN0341824Z08AA">績溪</placeName>將行。意師必來別。師竟
+        <lb ed="X" n="0427a24"/>遠居山中。<date from-iso="1084-11-07" to-iso="1085-02-03" key="j21172942117382">次年冬</date>。<persName key="A007595">轍</persName>移<placeName key="PL000000017065">績溪</placeName>將行。意師必來別。師竟
         <lb ed="X" n="0427b01"/>以病不出。<date from-iso="1085-01-05" to-iso="1085-02-03" key="j21173532117382">十二月</date>乙丑。與眾訣。趺坐而化。體香軟。停
         <lb ed="X" n="0427b02"/>十五日茶毗。得舍利光潔無數。年四十九。臘三十。葬
-        <lb ed="X" n="0427b03"/><placeName key="CN0360924T01AA">斷際塔</placeName>之右。<persName key="A007595">轍</persName>為銘焉。</p>
+        <lb ed="X" n="0427b03"/><placeName key="PL000000019686">斷際塔</placeName>之右。<persName key="A007595">轍</persName>為銘焉。</p>
+    
+    <linkGrp>
+        <link targets="#0427a11 #0427a11"/>
+        <ptr target="#A014515" type="person"/>
+        <ptr target="#PL000000023602" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0427a11 #0427a12"/>
+        <ptr target="#A014515" type="person"/>
+        <ptr target="#A022010" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0427a12 #0427a12"/>
+        <ptr target="#A014515" type="person"/>
+        <ptr target="#j21063912106755" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0427a12 #0427a14"/>
+        <ptr target="#A014515" type="person"/>
+        <ptr target="#PL000000009522" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0427a12 #0427a13"/>
+        <ptr target="#A014515" type="person"/>
+        <ptr target="#A004264" type="person"/>
+        <ptr target="#PL000000016344" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0427a15 #0427a15"/>
+        <ptr target="#A014515" type="person"/>
+        <ptr target="#A022011" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0427a15 #0427a17"/>
+        <ptr target="#A014515" type="person"/>
+        <ptr target="#A008393" type="person"/>
+        <ptr target="#PL000000018961" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0427a17 #0427a17"/>
+        <ptr target="#A008393" type="person"/>
+        <ptr target="#PL000000019788" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0427a15 #0427a19"/>
+        <ptr target="#A014515" type="person"/>
+        <ptr target="#A007526" type="person"/>
+        <ptr target="#PL000000019788" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0427a19 #0427a20"/>
+        <ptr target="#A014515" type="person"/>
+        <ptr target="#PL000000019691" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0427a20 #0427a20"/>
+        <ptr target="#A014515" type="person"/>
+        <ptr target="#PL000000019688" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0427a21 #0427a21"/>
+        <ptr target="#A007595" type="person"/>
+        <ptr target="#PL000000036571" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0427a21 #0427a23"/>
+        <ptr target="#A014515" type="person"/>
+        <ptr target="#A007595" type="person"/>
+        <ptr target="#PL000000019788" type="place"/>
+        <ptr target="#j21166442117027" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0427a24 #0427b01"/>
+        <ptr target="#A007595" type="person"/>
+        <ptr target="#PL000000019788" type="place"/>
+        <ptr target="#j21172942117382" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0427b01 #0427b02"/>
+        <ptr target="#A014515" type="person"/>
+        <ptr target="#j21172942117382" type="time"/>
+    </linkGrp>
 </div>

@@ -2,7 +2,7 @@
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0820b29shiDaoPi">
     <anchor n="T.50.2061.0820b29"/><head><date from-iso="0386-02-21" key="j18620951916335" to-iso="0534-08-24">後魏</date>晉陽<persName key="A012065">河禿師</persName>傳</head><p>
 <lb ed="T" n="0820c01"/><persName key="A012065">釋河禿師</persName>者，不詳何許人也。<date from-iso="0525" key="j19130101913952" to-iso="0528">魏孝昌</date>中，於
-<lb ed="T" n="0820c02"/><placeName key="CN0140110Z02AA">晉陽市</placeName>肆間行往，乍愚乍智，作沙門形。時
+<lb ed="T" n="0820c02"/><placeName key="PL000000003792">晉陽市</placeName>肆間行往，乍愚乍智，作沙門形。時
 <lb ed="T" n="0820c03"/>人不測，止呼為<persName key="A012065">河禿師</persName>。及<persName key="A005264">齊神武</persName>誕第二
 <lb ed="T" n="0820c04"/>子<persName key="A004698">洋</persName>，<persName key="A004698">文宣帝</persName>也，<persName key="A012067">武明太后</persName>見家貧甚，與親
 <lb ed="T" n="0820c05"/>戚言及家計，正憂飢凍死耳。<persName key="A004698">洋</persName>方生數月，
@@ -16,7 +16,7 @@
     <linkGrp>
         <link targets="#0820c01 #0820c03"/>
         <ptr target="#A012065" type="person"/>
-        <ptr target="#CN0140110Z02AA" type="place"/>
+        <ptr target="#PL000000003792" type="place"/>
         <ptr target="#j19130101913952" type="time"/>
     </linkGrp>
     <linkGrp>

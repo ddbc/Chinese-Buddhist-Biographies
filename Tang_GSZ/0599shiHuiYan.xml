@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0651c16shiHuiYan">
-    <p><anchor n="T.50.2060.0651c16"/><lb ed="T" n="0651c16"/><persName key="A006850">釋慧巖</persName>。住蘇州<placeName key="CN0320505T03AA">重玄寺</placeName>。相狀如狂不修戒<lb ed="T" n="0651c17"/>檢。時人不齒。多坐房中不同物議。忽獨歡<lb ed="T" n="0651c18"/>笑戲於寺中。以物指撝曰。此處為殿。此處<lb ed="T" n="0651c19"/>為堂。乃至廊廡厨庫。無不畢備。經可月<lb ed="T" n="0651c20"/>餘因告僧曰。欲知<persName key="A006850">巖</persName>者。浮圖鈴落。則亡沒<lb ed="T" n="0651c21"/>矣。至期果然。乃返鎖其房。搥戶開之端坐<lb ed="T" n="0651c22"/>已卒。遠近聞之<ptr target="fn35"/>屯赴闐[門@壹]。各捨金帛遂成<lb ed="T" n="0651c23"/>大聚。依言締構欝成名寺。<ptr target="fn36"/>事皆符焉。自終<lb ed="T" n="0651c24"/>至今四十餘載猶如存在。見處佛堂。用通<lb ed="T" n="0651c25"/>禮謁云。</p>
+    <p><anchor n="T.50.2060.0651c16"/><lb ed="T" n="0651c16"/><persName key="A006850">釋慧巖</persName>。住蘇州<placeName key="PL000000009911">重玄寺</placeName>。相狀如狂不修戒<lb ed="T" n="0651c17"/>檢。時人不齒。多坐房中不同物議。忽獨歡<lb ed="T" n="0651c18"/>笑戲於寺中。以物指撝曰。此處為殿。此處<lb ed="T" n="0651c19"/>為堂。乃至廊廡厨庫。無不畢備。經可月<lb ed="T" n="0651c20"/>餘因告僧曰。欲知<persName key="A006850">巖</persName>者。浮圖鈴落。則亡沒<lb ed="T" n="0651c21"/>矣。至期果然。乃返鎖其房。搥戶開之端坐<lb ed="T" n="0651c22"/>已卒。遠近聞之<ptr target="fn35"/>屯赴闐[門@壹]。各捨金帛遂成<lb ed="T" n="0651c23"/>大聚。依言締構欝成名寺。<ptr target="fn36"/>事皆符焉。自終<lb ed="T" n="0651c24"/>至今四十餘載猶如存在。見處佛堂。用通<lb ed="T" n="0651c25"/>禮謁云。</p>
     <linkGrp>
         <link targets="#0651c16 #0651c16"/>
         <ptr target="#A006850" type="person"/>
-        <ptr target="#CN0320505T03AA" type="place"/>
+        <ptr target="#PL000000009911" type="place"/>
         </linkGrp>
 </div>

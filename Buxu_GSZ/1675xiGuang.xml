@@ -1,20 +1,20 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0429a06xiGuang">
     <head><lb ed="X" n="0429a06"/>　　　　<persName key="A020678">廣道者</persName>傳</head>
-    <p><anchor n="X.77.1524.0429a07"/><lb ed="X" n="0429a07"/><persName key="A020678">希廣</persName>。天資純至。脫略世故。游方日。謁<persName key="unknown">雲葢智</persName>和尚。問
-        <lb ed="X" n="0429a08"/>興化打克賓意旨如何。智下禪床。展兩手吐舌示之。
-        <lb ed="X" n="0429a09"/>師打一坐具。智曰。此是風力所轉。又問<persName key="A020574">石霜琳</persName>。<persName key="A020574">琳</persName>曰。
+    <p><anchor n="X.77.1524.0429a07"/><lb ed="X" n="0429a07"/><persName key="A020678">希廣</persName>。天資純至。脫略世故。游方日。謁<persName key="A014488">雲葢智</persName>和尚。問
+        <lb ed="X" n="0429a08"/>興化打克賓意旨如何。<persName key="A014488">智</persName>下禪床。展兩手吐舌示之。
+        <lb ed="X" n="0429a09"/>師打一坐具。<persName key="A014488">智</persName>曰。此是風力所轉。又問<persName key="A020574">石霜琳</persName>。<persName key="A020574">琳</persName>曰。
         <lb ed="X" n="0429a10"/>汝意如何。師亦打一坐具。<persName key="A020574">琳</persName>曰。好一坐具。祗是不知
         <lb ed="X" n="0429a11"/>落處。又問<persName key="A007526">真淨</persName>。亦如前。<persName key="A007526">淨</persName>曰。他打你也打。師於言下
-        <lb ed="X" n="0429a12"/>大悟。開法瑞州<placeName key="unknown">九峯</placeName>。衲子宗仰。有<persName key="unknown">戒上座</persName>者。善醫術。
-        <lb ed="X" n="0429a13"/>分衛而歸。請師說法。戒出致問曰。如何是九峯境。答
+        <lb ed="X" n="0429a12"/>大悟。開法瑞州<placeName key="PL000000019662">九峯</placeName>。衲子宗仰。有<persName key="A022020">戒上座</persName>者。善醫術。
+        <lb ed="X" n="0429a13"/>分衛而歸。請師說法。<persName key="A022020">戒</persName>出致問曰。如何是九峯境。答
         <lb ed="X" n="0429a14"/>曰。滔滔雙[澗-日+月]水。落落九重山。進曰。如何是境中人。答
         <lb ed="X" n="0429a15"/>曰。長者自長。短者自短。進曰。人境已蒙師指示。向上
-        <lb ed="X" n="0429a16"/>宗乘事如何。答曰。喫得棒也未。戒作禮而退。師顧問
-        <lb ed="X" n="0429a17"/>侍者曰。適來陞座。為何事。對曰。<persName key="unknown">戒藥王</persName>啟請。師曰。金
+        <lb ed="X" n="0429a16"/>宗乘事如何。答曰。喫得棒也未。<persName key="A022020">戒</persName>作禮而退。師顧問
+        <lb ed="X" n="0429a17"/>侍者曰。適來陞座。為何事。對曰。<persName key="A022020">戒藥王</persName>啟請。師曰。金
         <lb ed="X" n="0429a18"/>毛獅子子。出窟便咆哮。且道。金毛師子子。是阿誰。良
-        <lb ed="X" n="0429a19"/>久云。即是今晨<persName key="unknown">戒藥王</persName>。即下座。晚依同門友<persName key="unknown">深公</persName>于
-        <lb ed="X" n="0429a20"/><placeName key="CN0360925T01AA">寶峯</placeName>。雪夜深與師擁爐談久。潛使人撤其臥具。及就
+        <lb ed="X" n="0429a19"/>久云。即是今晨<persName key="A022020">戒藥王</persName>。即下座。晚依同門友<persName key="A022021">深公</persName>于
+        <lb ed="X" n="0429a20"/><placeName key="PL000000019708">寶峯</placeName>。雪夜<persName key="A022021">深</persName>與師擁爐談久。潛使人撤其臥具。及就
         <lb ed="X" n="0429a21"/>寢置而不問。須臾熟睡。鼻息如雷。其忘物忘我如此。
         <lb ed="X" n="0429a22"/>逸人<persName key="A011461">李商老</persName>。寄以詩曰。已透雲菴向上關。熏爐茗椀
         <lb ed="X" n="0429a23"/>且開顏。頭顱無意掃殘雪。毳衲從來著壞山。瘦節直
@@ -22,4 +22,42 @@
         <lb ed="X" n="0429b01"/>孤峯烟靄間。師高風逸韻。可想而見矣。<persName key="A000475">妙喜</persName>亦甞與
         <lb ed="X" n="0429b02"/>游。從言其大槩。是智叢林。以道者目之。真名稱厥實
         <lb ed="X" n="0429b03"/>也。</p>
+    
+    <linkGrp>
+        <link targets="#0429a07 #0429a09"/>
+        <ptr target="#A020678" type="person"/>
+        <ptr target="#A014488" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0429a09 #0429a11"/>
+        <ptr target="#A020678" type="person"/>
+        <ptr target="#A020574" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0429a11 #0429a12"/>
+        <ptr target="#A020678" type="person"/>
+        <ptr target="#A007526" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0429a12 #0429a19"/>
+        <ptr target="#A020678" type="person"/>
+        <ptr target="#A022020" type="person"/>
+        <ptr target="#PL000000019662" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0429a19 #0429a21"/>
+        <ptr target="#A020678" type="person"/>
+        <ptr target="#A022021" type="person"/>
+        <ptr target="#PL000000019708" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0429a22 #0429b01"/>
+        <ptr target="#A020678" type="person"/>
+        <ptr target="#A011461" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0429b01 #0429b02"/>
+        <ptr target="#A020678" type="person"/>
+        <ptr target="#A000475" type="person"/>
+    </linkGrp>
 </div>

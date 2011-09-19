@@ -1,21 +1,22 @@
-<?xml version="1.0" encoding="UTF-8"?><div xml:id="mscc0358b24zhiYan" xmlns="http://www.tei-c.org/ns/1.0"><head>宋<placeName key="CN0320101T66AA">枳園寺</placeName><persName key="A001999">釋智嚴</persName></head><p><anchor n="X.77.1523.0358b24"/><lb ed="X" n="0358b24"/>智嚴西<placeName key="CN0620602Z11AA">凉洲</placeName>人也。才幹清秀。業行精懇。菜蔬布衣。愽<lb ed="X" n="0358c01"/>施慈愛。<gap extent="1" unit="chars" reason="lost"/><gap extent="1" unit="chars" reason="lost"/>又疑兒童時曾受五戒。有所犯。後受具<lb ed="X" n="0358c02"/>足。恐不得戒。積年禪觀。不能自決。大為憂苦。遂更與<lb ed="X" n="0358c03"/>弟子<persName key="A002069">智羽</persName><persName key="A002070">智達</persName>。汎海重至<placeName key="IN0000000E01AA">天竺</placeName>。以事問羅漢。羅漢復<lb ed="X" n="0358c04"/>不能決。乃為入定。往<placeName key="XZ0000002A01AA">兜率</placeName>問<persName key="A001428">彌勒</persName>。彌勒答云得戒。<persName key="A001999">嚴</persName><lb ed="X" n="0358c05"/>大歡喜。於是步還至<placeName key="PKNWPS000E01AA">罽賓</placeName>。無疾而卒。時年七十八。弟<lb ed="X" n="0358c06"/>子<persName key="A002069">智羽</persName><persName key="A002070">智達</persName>。還傳此語(云云)。</p>
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="mscc0358b24zhiYan"><head>宋<placeName key="PL000000008708">枳園寺</placeName><persName key="A001999">釋智嚴</persName></head><p><anchor n="X.77.1523.0358b24"/><lb ed="X" n="0358b24"/>智嚴西<placeName key="PL000000045053">凉洲</placeName>人也。才幹清秀。業行精懇。菜蔬布衣。愽<lb ed="X" n="0358c01"/>施慈愛。<gap extent="1" unit="chars" reason="lost"/><gap extent="1" unit="chars" reason="lost"/>又疑兒童時曾受五戒。有所犯。後受具<lb ed="X" n="0358c02"/>足。恐不得戒。積年禪觀。不能自決。大為憂苦。遂更與<lb ed="X" n="0358c03"/>弟子<persName key="A002069">智羽</persName><persName key="A002070">智達</persName>。汎海重至<placeName key="PL000000048207">天竺</placeName>。以事問羅漢。羅漢復<lb ed="X" n="0358c04"/>不能決。乃為入定。往<placeName key="PL000000055446">兜率</placeName>問<persName key="A001428">彌勒</persName>。彌勒答云得戒。<persName key="A001999">嚴</persName><lb ed="X" n="0358c05"/>大歡喜。於是步還至<placeName key="PL000000049232">罽賓</placeName>。無疾而卒。時年七十八。弟<lb ed="X" n="0358c06"/>子<persName key="A002069">智羽</persName><persName key="A002070">智達</persName>。還傳此語(云云)。</p>
     <linkGrp>
         <link targets="#0358b24 #0358b24"/>
         <ptr type="person" target="#A001999"/>
-        <ptr type="place" target="#CN0620602Z11AA"/>
+        <ptr type="place" target="#PL000000045053"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0358c02 #0358c05"/>
         <ptr type="person" target="#A001999"/>
         <ptr type="person" target="#A002069"/>
         <ptr type="person" target="#A002070"/>
-        <ptr type="place" target="#IN0000000E01AA"/>
+        <ptr type="place" target="#PL000000048207"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0358c05 #0358c06"/>
         <ptr type="person" target="#A001999"/>
         <ptr type="person" target="#A002069"/>
         <ptr type="person" target="#A002070"/>
-        <ptr type="place" target="#PKNWPS000E01AA"/>
+        <ptr type="place" target="#PL000000049232"/>
     </linkGrp>
 </div>

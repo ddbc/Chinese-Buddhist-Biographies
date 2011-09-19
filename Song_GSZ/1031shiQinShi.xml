@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0821c06shiFaXi">
     <anchor n="T.50.2061.0821c06"/><head><date from-iso="0581-03-06" key="j19333311946884" to-iso="0618-04-15">隋</date>洺州<persName key="A012081">欽師</persName>傳</head><p>
-        <lb ed="T" n="0821c07"/><persName key="A012081">釋欽師</persName>者，不知何許人也。<date from-iso="0605-01-28" key="j19420591946768" to-iso="0617-12-20">大業</date>中，至<placeName key="CN0130432Z04AA">廣平</placeName>，
+        <lb ed="T" n="0821c07"/><persName key="A012081">釋欽師</persName>者，不知何許人也。<date from-iso="0605-01-28" key="j19420591946768" to-iso="0617-12-20">大業</date>中，至<placeName key="PL000000001705">廣平</placeName>，
 <lb ed="T" n="0821c08"/>形神乖謬，造次難知，發語不常，既往爰中。
-<lb ed="T" n="0821c09"/>見<placeName key="CN0130429T01AA">靈通寺</placeName>樹甎浮圖五級，欲務高敞，工作
+<lb ed="T" n="0821c09"/>見<placeName key="PL000000001637">靈通寺</placeName>樹甎浮圖五級，欲務高敞，工作
 <lb ed="T" n="0821c10"/>殽雜。<persName key="A012081">欽</persName>望而笑，謂寺眾曰：「造此奚為？」眾曰：
 <lb ed="T" n="0821c11"/>「功德佛事，須用壯觀，法師何斯怪問耶？」笑
 <lb ed="T" n="0821c12"/>曰：「造烽火樓也。」當時緇伍互相非之曰：「風
@@ -28,13 +28,13 @@
     <linkGrp>
         <link targets="#0821c07 #0821c07"/>
         <ptr target="#A012081" type="person"/>
-        <ptr target="#CN0130432Z04AA" type="place"/>
+        <ptr target="#PL000000001705" type="place"/>
         <ptr target="#j19420591946768" type="time"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0821c09 #0821c13"/>
         <ptr target="#A012081" type="person"/>
-        <ptr target="#CN0130429T01AA" type="place"/>
+        <ptr target="#PL000000001637" type="place"/>
         <ptr target="#j19420591946768" type="time"/>
     </linkGrp>
     <linkGrp>

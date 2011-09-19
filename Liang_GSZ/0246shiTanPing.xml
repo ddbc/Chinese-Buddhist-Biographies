@@ -1,19 +1,19 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0414b25shiTanPing">
-    <p><anchor n="T.50.2059.0414b25"/><lb ed="T" n="0414b25"/><persName key="A003493">釋曇憑</persName>，姓楊，<placeName key="CN0510823Z22AA">揵為南安</placeName>人。少遊<placeName key="CN0320106Z06AA">京師</placeName>，學轉<lb ed="T" n="0414b26"/>讀，止<placeName key="CN0320101T49AA">白馬寺</placeName>。音調甚工，而過旦自任，時人<lb ed="T" n="0414b27"/>未之推也。於是專精規矩，更加研習，晚遂<lb ed="T" n="0414b28"/>出群，翕然改觀。誦三《本起經》，尤善其聲。後<lb ed="T" n="0414b29"/>還蜀，止<placeName key="CN0510101T05AA">龍淵寺</placeName>。<placeName key="CN0510108Z05AA">巴漢</placeName><ptr target="fn22"/>懷音者，皆崇其聲範。<lb ed="T" n="0414c01"/>每梵音一吐，輒<ptr target="fn23"/>鳥馬悲鳴，行途住足。因製<lb ed="T" n="0414c02"/>造銅鍾，願於未來<ptr target="fn24"/>常有八音四辯。<placeName key="CN0510108Z05AA">庸蜀</placeName>有<lb ed="T" n="0414c03"/>銅鍾，始於此也。後終於所住。時蜀中有僧<lb ed="T" n="0414c04"/><ptr target="fn25"/>令<persName key="A003494">道光</persName>，亦微善轉讀。</p>
+    <p><anchor n="T.50.2059.0414b25"/><lb ed="T" n="0414b25"/><persName key="A003493">釋曇憑</persName>，姓楊，<placeName key="PL000000035762">揵為南安</placeName>人。少遊<placeName key="PL000000008976">京師</placeName>，學轉<lb ed="T" n="0414b26"/>讀，止<placeName key="PL000000008691">白馬寺</placeName>。音調甚工，而過旦自任，時人<lb ed="T" n="0414b27"/>未之推也。於是專精規矩，更加研習，晚遂<lb ed="T" n="0414b28"/>出群，翕然改觀。誦三《本起經》，尤善其聲。後<lb ed="T" n="0414b29"/>還蜀，止<placeName key="PL000000034692">龍淵寺</placeName>。<placeName key="PL000000034779">巴漢</placeName><ptr target="fn22"/>懷音者，皆崇其聲範。<lb ed="T" n="0414c01"/>每梵音一吐，輒<ptr target="fn23"/>鳥馬悲鳴，行途住足。因製<lb ed="T" n="0414c02"/>造銅鍾，願於未來<ptr target="fn24"/>常有八音四辯。<placeName key="PL000000034779">庸蜀</placeName>有<lb ed="T" n="0414c03"/>銅鍾，始於此也。後終於所住。時蜀中有僧<lb ed="T" n="0414c04"/><ptr target="fn25"/>令<persName key="A003494">道光</persName>，亦微善轉讀。</p>
     <linkGrp>
         <link targets="#0414c02 #0414c04"/>
         <ptr target="#A003494" type="person"/>
-        <ptr target="#CN0510108Z05AA" type="place"/>
+        <ptr target="#PL000000034779" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0414b25 #0414b26"/>
         <ptr target="#A003493" type="person"/>
-        <ptr target="#CN0320101T49AA" type="place"/>
+        <ptr target="#PL000000008691" type="place"/>
         </linkGrp>
     <linkGrp>
         <link targets="#0414b29 #0414c02"/>
         <ptr target="#A003493" type="person"/>
-        <ptr target="#CN0510101T05AA" type="place"/>
+        <ptr target="#PL000000034692" type="place"/>
         </linkGrp>
 </div>

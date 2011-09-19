@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0410b26shiSengHui">
-    <p><anchor n="T.50.2059.0410b26"/><lb ed="T" n="0410b26"/><persName key="A002362">釋僧慧</persName>，未知<ptr target="fn＊"/>何<ptr target="fn26"/>人。少來好修福業。<date from-iso="0405" key="j18690301874138" to-iso="0419">晉義<lb ed="T" n="0410b27"/>熙中</date>，共<placeName key="CN0610112Z07AA">長安</placeName>人<persName key="A003442">行長生</persName>，立寺於<placeName key="CN0320101A22AA">京師破塢村</placeName><lb ed="T" n="0410b28"/>中。始<ptr target="fn27"/>迂域其處，起草屋數間，便集僧設<lb ed="T" n="0410b29"/>齋。至中夜，堂內兩燈忽自然行，進前數十<lb ed="T" n="0410c01"/>步，油<ptr target="fn28"/>纂如故，無所傾覆。大眾驚嗟，訪諸耆<lb ed="T" n="0410c02"/>老，咸言燈所移處，是昔時外國道人起塔之<lb ed="T" n="0410c03"/>基。於是就共修立。以燈移表瑞，因號<placeName key="CN0320101T70AA">崇明<lb ed="T" n="0410c04"/>寺</placeName>焉。</p>
+    <p><anchor n="T.50.2059.0410b26"/><lb ed="T" n="0410b26"/><persName key="A002362">釋僧慧</persName>，未知<ptr target="fn＊"/>何<ptr target="fn26"/>人。少來好修福業。<date from-iso="0405" key="j18690301874138" to-iso="0419">晉義<lb ed="T" n="0410b27"/>熙中</date>，共<placeName key="PL000000042393">長安</placeName>人<persName key="A003442">行長生</persName>，立寺於<placeName key="PL000000008613">京師破塢村</placeName><lb ed="T" n="0410b28"/>中。始<ptr target="fn27"/>迂域其處，起草屋數間，便集僧設<lb ed="T" n="0410b29"/>齋。至中夜，堂內兩燈忽自然行，進前數十<lb ed="T" n="0410c01"/>步，油<ptr target="fn28"/>纂如故，無所傾覆。大眾驚嗟，訪諸耆<lb ed="T" n="0410c02"/>老，咸言燈所移處，是昔時外國道人起塔之<lb ed="T" n="0410c03"/>基。於是就共修立。以燈移表瑞，因號<placeName key="PL000000008712">崇明<lb ed="T" n="0410c04"/>寺</placeName>焉。</p>
     <linkGrp>
         <link targets="#0410b26 #0410b27"/>
         <ptr target="#A002362" type="person"/>
         <ptr target="#A003442" type="person"/>
-        <ptr target="#CN0320101T70AA" type="place"/>
+        <ptr target="#PL000000008712" type="place"/>
         <ptr target="#j18690301874138" type="time"/>
     </linkGrp>
 </div>

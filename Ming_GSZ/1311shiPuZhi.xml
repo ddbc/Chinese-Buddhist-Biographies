@@ -1,16 +1,16 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0910c12shiPuZhi">
-  <p><anchor n="T.50.2062.0910c12"/><lb ed="T" n="0910c12"/><persName key="A008229">釋普智</persName>字<persName key="A008229">無儗</persName>別號<persName key="A008229">一枝叟</persName>。浙江<placeName key="CN0330110Z04AA">臨平</placeName>禇氏<lb ed="T" n="0910c13"/>子。出家於<placeName key="CN0330106T07AA">錢塘龍井寺</placeName>。依<persName key="A008216">東溟日法師</persName>授<lb ed="T" n="0910c14"/>天台性具之學。優於講說。歷四大道場門<lb ed="T" n="0910c15"/>風大振。晚年開演於松江<placeName key="CN0310117T09AA">延慶寺</placeName>。遂為終<lb ed="T" n="0910c16"/>老專修淨業寒暑不輟。<date key="j22353582235358" when-iso="1408-02-07">永樂戊子正月二<lb ed="T" n="0910c17"/>日</date>微疾。會眾端坐面西念佛而逝。甞集註<lb ed="T" n="0910c18"/>阿彌陀經一卷。</p>
+  <p><anchor n="T.50.2062.0910c12"/><lb ed="T" n="0910c12"/><persName key="A008229">釋普智</persName>字<persName key="A008229">無儗</persName>別號<persName key="A008229">一枝叟</persName>。浙江<placeName key="PL000000011870">臨平</placeName>禇氏<lb ed="T" n="0910c13"/>子。出家於<placeName key="PL000000011624">錢塘龍井寺</placeName>。依<persName key="A008216">東溟日法師</persName>授<lb ed="T" n="0910c14"/>天台性具之學。優於講說。歷四大道場門<lb ed="T" n="0910c15"/>風大振。晚年開演於松江<placeName key="PL000000008471">延慶寺</placeName>。遂為終<lb ed="T" n="0910c16"/>老專修淨業寒暑不輟。<date key="j22353582235358" when-iso="1408-02-07">永樂戊子正月二<lb ed="T" n="0910c17"/>日</date>微疾。會眾端坐面西念佛而逝。甞集註<lb ed="T" n="0910c18"/>阿彌陀經一卷。</p>
   <linkGrp>
     <link targets="#0910c13 #0910c15"/>
     <ptr target="#A008229" type="person"/>
     <ptr target="#A008216" type="person"/>
-    <ptr target="#CN0330106T07AA" type="place"/>
+    <ptr target="#PL000000011624" type="place"/>
   </linkGrp>
   <linkGrp>
     <link targets="#0910c15 #0910c16"/>
     <ptr target="#A008229" type="person"/>
-    <ptr target="#CN0310117T09AA" type="place"/>
+    <ptr target="#PL000000008471" type="place"/>
   </linkGrp>
   <linkGrp>
     <link targets="#0910c16 #0910c17"/>

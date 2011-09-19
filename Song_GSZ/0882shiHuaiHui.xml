@@ -1,32 +1,32 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0767c25shiHuaiHui">
-    <anchor n="T.50.2061.0767c25"/><head><date from-iso="0618-06-21" key="j19469512052491" to-iso="0907-06-06">唐</date><placeName key="CN0610102T68AA">雍京章敬寺</placeName><persName key="A010238">懷暉</persName>傳</head><p>
-<lb ed="T" n="0767c26"/><persName key="A010238">釋懷暉</persName>，姓謝氏，<placeName key="CN0350503Z12AA">泉州</placeName>人也。宿<anchor xml:id="beg0767005"/>植<anchor xml:id="end0767005"/>根深，出塵
-<lb ed="T" n="0767c27"/>志遠，迨乎進具，乃尚雲遊。<date from-iso="0785" key="j20078242009652" to-iso="0790">貞元初</date>，禮<placeName key="CN0360103Z26AA">洪州</placeName>
-<lb ed="T" n="0767c28"/><persName key="A003623">大寂禪師</persName>，頓明心要。時<placeName key="CN0320303Z13AA">彭城</placeName><persName key="A010396">劉濟</persName>頗德<persName key="A010238">暉</persName>，互
-        <lb ed="T" n="0767c29"/>相推證。後潛<placeName key="CN0370911M01AA">岨崍山</placeName>，次寓<placeName key="CN0370113T03AA">齊州靈巖寺</placeName>。又<pb ed="T" n="0768a" xml:id="T50.2061.0768a"/>
+    <anchor n="T.50.2061.0767c25"/><head><date from-iso="0618-06-21" key="j19469512052491" to-iso="0907-06-06">唐</date><placeName key="PL000000042180">雍京章敬寺</placeName><persName key="A010238">懷暉</persName>傳</head><p>
+<lb ed="T" n="0767c26"/><persName key="A010238">釋懷暉</persName>，姓謝氏，<placeName key="PL000000017906">泉州</placeName>人也。宿<anchor xml:id="beg0767005"/>植<anchor xml:id="end0767005"/>根深，出塵
+<lb ed="T" n="0767c27"/>志遠，迨乎進具，乃尚雲遊。<date from-iso="0785" key="j20078242009652" to-iso="0790">貞元初</date>，禮<placeName key="PL000000018628">洪州</placeName>
+<lb ed="T" n="0767c28"/><persName key="A003623">大寂禪師</persName>，頓明心要。時<placeName key="PL000000009523">彭城</placeName><persName key="A010396">劉濟</persName>頗德<persName key="A010238">暉</persName>，互
+        <lb ed="T" n="0767c29"/>相推證。後潛<placeName key="PL000000021603">岨崍山</placeName>，次寓<placeName key="PL000000020295">齊州靈巖寺</placeName>。又<pb ed="T" n="0768a" xml:id="T50.2061.0768a"/>
 <lb ed="T" n="0768a01"/>移卜百家巖，泉石幽奇。苦於禪子請問繁
-<lb ed="T" n="0768a02"/>雜，上<placeName key="CN0140881M03AA">中條山</placeName>行禪法，為法者躡跡而往，<placeName key="CN0140881A02AA">蒲
-    <lb ed="T" n="0768a03"/>津</placeName>人皆化之。<date from-iso="0808-02-04" key="j20162102016564" to-iso="0809-01-23">元和三年</date>，<persName key="A002120">憲宗</persName>詔入於<placeName key="CN0610102T68AB">章敬寺
+<lb ed="T" n="0768a02"/>雜，上<placeName key="PL000000005168">中條山</placeName>行禪法，為法者躡跡而往，<placeName key="PL000000005165">蒲
+    <lb ed="T" n="0768a03"/>津</placeName>人皆化之。<date from-iso="0808-02-04" key="j20162102016564" to-iso="0809-01-23">元和三年</date>，<persName key="A002120">憲宗</persName>詔入於<placeName key="PL000000042181">章敬寺
 <lb ed="T" n="0768a04"/>毘盧遮那院</placeName>安置，則<date from-iso="0766" key="j20011912005747" to-iso="0779">大曆中</date>勅應天下名僧
 <lb ed="T" n="0768a05"/>大德三學通贍者並叢萃其中，屬誕辰，多
 <lb ed="T" n="0768a06"/>於此修齋度僧焉。<persName key="A010238">暉</persName>既居上院，為人說禪
-<lb ed="T" n="0768a07"/>要，朝寮名士日來參問。復詔入<placeName key="CN0610112A02AF">麟德殿</placeName>賜
+<lb ed="T" n="0768a07"/>要，朝寮名士日來參問。復詔入<placeName key="PL000000042361">麟德殿</placeName>賜
         <lb ed="T" n="0768a08"/>齋，推居上座。<date from-iso="0815-11-09" key="j20190452019115" to-iso="0816-01-18">元和十年乙未冬</date>示疾，<date key="j20191152019115" when-iso="0816-01-18">十二
             <lb ed="T" n="0768a09"/>月十一日</date>滅度，春秋六十二。<date from-iso="0816-03-07" key="j20191642019193" to-iso="0816-04-05">越明年二月</date>，門
-<lb ed="T" n="0768a10"/>人<persName key="A010405">智朗</persName>、<persName key="A010406">志操</persName>等奉全身葬于<placeName key="CN0610111A03AA">灞橋</placeName>北原。勅
-        <lb ed="T" n="0768a11"/><app type="cb-app" xml:id="begd1e16042"/>諡<anchor xml:id="endd1e16042"/><persName key="A010238">大宣教禪師</persName>，立碑于<ref type="place" target="#CN0610102T68AA">寺</ref>門，<placeName key="CN0141025Z06AA">嶽陽</placeName>司倉<persName key="A005203">賈島</persName>
+<lb ed="T" n="0768a10"/>人<persName key="A010405">智朗</persName>、<persName key="A010406">志操</persName>等奉全身葬于<placeName key="PL000000042342">灞橋</placeName>北原。勅
+        <lb ed="T" n="0768a11"/><app type="cb-app" xml:id="begd1e16042"/>諡<anchor xml:id="endd1e16042"/><persName key="A010238">大宣教禪師</persName>，立碑于<ref type="place" target="#PL000000042180">寺</ref>門，<placeName key="PL000000005811">嶽陽</placeName>司倉<persName key="A005203">賈島</persName>
 <lb ed="T" n="0768a12"/>為文述德焉。</p>
     <linkGrp>
         <link targets="#0767c26 #0767c26"/>
         <ptr target="#A010238" type="person"/>
-        <ptr target="#CN0350503Z12AA" type="place"/>
+        <ptr target="#PL000000017906" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0767c27 #0767c28"/>
         <ptr target="#A010238" type="person"/>
         <ptr target="#A003623" type="person"/>
-        <ptr target="#CN0360103Z26AA" type="place"/>
+        <ptr target="#PL000000018628" type="place"/>
         <ptr target="#j20078242009652" type="time"/>
     </linkGrp>
     <linkGrp>
@@ -37,17 +37,17 @@
     <linkGrp>
         <link targets="#0767c29 #0767c29"/>
         <ptr target="#A010238" type="person"/>
-        <ptr target="#CN0370911M01AA" type="place"/>
+        <ptr target="#PL000000021603" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0767c29 #0767c29"/>
         <ptr target="#A010238" type="person"/>
-        <ptr target="#CN0370113T03AA" type="place"/>
+        <ptr target="#PL000000020295" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0768a02 #0768a02"/>
         <ptr target="#A010238" type="person"/>
-        <ptr target="#CN0140881M03AA" type="place"/>
+        <ptr target="#PL000000005168" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0768a03 #0768a04"/>
@@ -58,19 +58,19 @@
     <linkGrp>
         <link targets="#0768a03 #0768a04"/>
         <ptr target="#A010238" type="person"/>
-        <ptr target="#CN0610102T68AB" type="place"/>
+        <ptr target="#PL000000042181" type="place"/>
         <ptr target="#j20162102016564" type="time"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0768a4 #0768a07"/>
         <ptr target="#A010238" type="person"/>
-        <ptr target="#CN0610102T68AB" type="place"/>
+        <ptr target="#PL000000042181" type="place"/>
         <ptr target="#j20011912005747" type="time"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0768a07 #0768a08"/>
         <ptr target="#A010238" type="person"/>
-        <ptr target="#CN0610112A02AF" type="place"/>
+        <ptr target="#PL000000042361" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0768a08 #0768a08"/>

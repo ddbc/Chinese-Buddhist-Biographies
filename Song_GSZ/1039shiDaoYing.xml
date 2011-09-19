@@ -2,7 +2,7 @@
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0827a18shiDaoYing">
     <anchor n="T.50.2061.0827a18"/><head><date from-iso="0618-06-21" key="j19469512052491" to-iso="0907-06-06">唐</date>京兆法海寺<persName key="A012271">道英</persName>傳</head><p>
 <lb ed="T" n="0827a19"/><persName key="A012271">釋道英</persName>，不知何許人也。戒德克全，名振天
-<lb ed="T" n="0827a20"/>邑，<placeName key="CN0610104T09AA">住寺</placeName>在布政坊。<date from-iso="0670" key="j19658611967498" to-iso="0674">咸亨</date>中見鬼物，寺主<persName key="A012272">慧
+<lb ed="T" n="0827a20"/>邑，<placeName key="PL000000042298">住寺</placeName>在布政坊。<date from-iso="0670" key="j19658611967498" to-iso="0674">咸亨</date>中見鬼物，寺主<persName key="A012272">慧
 <lb ed="T" n="0827a21"/>簡</persName>甞曰：「曉見二人行不踐地，入<persName key="A012271">英</persName>院焉。」
 <lb ed="T" n="0827a22"/><persName key="A012272">簡</persName>怪而問之，<persName key="A012271">英</persName>曰：「向者<persName key="A012274">秦莊襄王</persName>使使傳語『
 <lb ed="T" n="0827a23"/>飢虛甚久，以師大慈，欲望排食并從者三
@@ -31,6 +31,6 @@
         <link targets="#0827a20 #0827a22"/>
         <ptr target="#A012271" type="person"/>
         <ptr target="#A012272" type="person"/>
-        <ptr target="#CN0610104T09AA" type="place"/>
+        <ptr target="#PL000000042298" type="place"/>
     </linkGrp>
 </div>

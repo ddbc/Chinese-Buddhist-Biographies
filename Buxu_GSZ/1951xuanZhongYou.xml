@@ -1,20 +1,20 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0527b22xuanZhongYou">
-    <head><lb ed="X" n="0527b22"/>　　　　明　玄中猷法師傳</head>
-    <p><anchor n="X.77.1524.0527b23"/><lb ed="X" n="0527b23"/>玄中猷法師。別號復闇。杭<placeName key="unknown">海昌</placeName>某氏子。依<persName key="unknown">愚翁</persName>長老
+    <head><lb ed="X" n="0527b22"/>　　　　明　<persName key="A021667">玄中猷</persName>法師傳</head>
+    <p><anchor n="X.77.1524.0527b23"/><lb ed="X" n="0527b23"/><persName key="A021667">玄中猷</persName>法師。別號<persName key="A021667">復闇</persName>。杭<placeName key="PL000000012825">海昌</placeName>某氏子。依<persName key="A021812">愚翁</persName>長老
         <lb ed="X" n="0527b24"/>祝髮。研精教義。更知有宗門向上事。其為文。如春花
         <lb ed="X" n="0527c01"/>秋月。艶無待飾。清不加寒。筆花之妙。照映今古。假斯
         <lb ed="X" n="0527c02"/>文以闡吾道。或以是譽。師如受唾。　<date from-iso="1368-01-31" to-iso="1399-02-13" key="j22207422232078">洪武中</date>。主席於
-        <lb ed="X" n="0527c03"/>錢唐吳山<placeName key="unknown">大乘寺</placeName>。道風大振。<date from-iso="1420-01-24" to-iso="1421-02-10" key="j22397272240110">永樂庚子</date>。繼主嘉禾<placeName key="CN0330402T03AA">東<lb ed="X" n="0527c04"/>塔寺</placeName>。寺為漢<persName key="unknown">朱買臣</persName>之故宅。<persName key="A000480">宋孝宗</persName>。甞龍游於此。屢
-        <lb ed="X" n="0527c05"/>經兵燹。殿宇傾廢。若前住山。滄海深。<persName key="unknown">雲谷祥</persName>諸公。皆
+        <lb ed="X" n="0527c03"/>錢唐吳山<placeName key="PL000000011414">大乘寺</placeName>。道風大振。<date from-iso="1420-01-24" to-iso="1421-02-10" key="j22397272240110">永樂庚子</date>。繼主嘉禾<placeName key="PL000000012695">東<lb ed="X" n="0527c04"/>塔寺</placeName>。寺為漢<persName key="A021813">朱買臣</persName>之故宅。<persName key="A000480">宋孝宗</persName>。甞龍游於此。屢
+        <lb ed="X" n="0527c05"/>經兵燹。殿宇傾廢。若前住山。<persName key="A021814">滄海深</persName>。<persName key="A021815">雲谷祥</persName>諸公。皆
         <lb ed="X" n="0527c06"/>志於興復不果。師至。憮然有感。遂罄衣囊鉢底。及鳴
         <lb ed="X" n="0527c07"/>合施者。簡材鳩工。薙荊榛。畚瓦礫。始是年。訖於<date from-iso="1428-11-16" to-iso="1429-02-12" key="j22429462243034">宣德<lb ed="X" n="0527c08"/>戊申冬</date>。殫精十禩。而百仆俱起。四方緇素。皆視師為
         <lb ed="X" n="0527c09"/>景星慶雲。望而歸之者。不可勝計。師煩之力辭。退居
-        <lb ed="X" n="0527c10"/>別室。至<date from-iso="1438-02-04" to-iso="1439-01-23" key="j22463132246666">正統戊午</date>。杭之<placeName key="CN0330106T05AA">南山慧因講寺</placeName>。久虗其席。諸
-        <lb ed="X" n="0527c11"/>山僉謂。<placeName key="CN0330106T05AA">慧因</placeName>冠華嚴之首剎。非碩德不足以當之。唯
-        <lb ed="X" n="0527c12"/>師其人。辭再四不克。時<placeName key="CN0330106T05AA">慧因</placeName>亦圮。師至。興廢起弊之
-        <lb ed="X" n="0527c13"/>功。不減在<placeName key="CN0330402T03AA">東塔</placeName>時。況二山俱華嚴講寺。夫華嚴一宗。
-        <lb ed="X" n="0527c14"/>始於<persName key="A002450">賢首</persName>。成於<persName key="A001755">清涼</persName>。定於<persName key="A000587">圭峰</persName>。皆盛弘於北。傳至<persName key="A001113">晉<lb ed="X" n="0527c15"/>水</persName>。則入<placeName key="CN0330110Z14AA">杭</placeName>矣。<placeName key="CN0330110Z14AA">杭</placeName>而宗華嚴。大難為力。師兩興巨剎。一
+        <lb ed="X" n="0527c10"/>別室。至<date from-iso="1438-02-04" to-iso="1439-01-23" key="j22463132246666">正統戊午</date>。杭之<placeName key="PL000000011601">南山慧因講寺</placeName>。久虗其席。諸
+        <lb ed="X" n="0527c11"/>山僉謂。<placeName key="PL000000011601">慧因</placeName>冠華嚴之首剎。非碩德不足以當之。唯
+        <lb ed="X" n="0527c12"/>師其人。辭再四不克。時<placeName key="PL000000011601">慧因</placeName>亦圮。師至。興廢起弊之
+        <lb ed="X" n="0527c13"/>功。不減在<placeName key="PL000000012695">東塔</placeName>時。況二山俱華嚴講寺。夫華嚴一宗。
+        <lb ed="X" n="0527c14"/>始於<persName key="A002450">賢首</persName>。成於<persName key="A001755">清涼</persName>。定於<persName key="A000587">圭峰</persName>。皆盛弘於北。傳至<persName key="A001113">晉<lb ed="X" n="0527c15"/>水</persName>。則入<placeName key="PL000000011880">杭</placeName>矣。<placeName key="PL000000011880">杭</placeName>而宗華嚴。大難為力。師兩興巨剎。一
         <lb ed="X" n="0527c16"/>振頹宗。<persName key="A001113">晉水</persName>而後。槩不多見。孤力獨運。良可嘉偉。筆
         <lb ed="X" n="0527c17"/>其略為傳。以示來者。</p>
 </div>

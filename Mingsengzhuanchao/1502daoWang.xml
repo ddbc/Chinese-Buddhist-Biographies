@@ -1,44 +1,45 @@
-<?xml version="1.0" encoding="UTF-8"?><div xml:id="mscc0356c08daoWang" xmlns="http://www.tei-c.org/ns/1.0"><head>宋欣平<placeName key="CN0510101T11AA">龍華寺</placeName><persName key="A002238">釋道汪</persName></head><p><anchor n="X.77.1523.0356c08"/><lb ed="X" n="0356c08"/>道汪本姓潘。<placeName key="CN0410522Z06AA">長樂</placeName>人也。世規家訓。以廉約為風。姿禪<lb ed="X" n="0356c09"/>高秀。長七尺七寸。幼有不恒之識。宗族固已異之。少<lb ed="X" n="0356c10"/>孤隨叔在<ref type="place" target="#CN0320106Z05AA">京師</ref>。年十三。投<placeName key="CN0360402M01AA">廬山</placeName><persName key="A001204">遠公</persName>出家。研味禪律。<lb ed="X" n="0356c11"/>停山十餘載。新出諸經。靡不精綜。大涅槃經。後傳<placeName key="CN0000007D01AA">江<lb ed="X" n="0356c12"/>左</placeName>。復還<ref type="place" target="#CN0320106Z05AA">京師</ref>。<ptr target="fn12"/>計論大義。<gap extent="1" unit="chars" reason="lost"/><gap extent="1" unit="chars" reason="lost"/>費游文子雅相知愛。命<lb ed="X" n="0356c13"/>子姪咸師之。茹蔬飡素五十餘年。愽綜經律。窮覽數<lb ed="X" n="0356c14"/>論。兼涉外典。識瞻開誘。才強計辨。自<placeName key="CN0510101T11AA">龍花</placeName><!--應為龍華寺--><placeName key="CN0510101T06AA">祇洹</placeName><placeName key="CN0000000T23AA">天竺</placeName><lb ed="X" n="0356c15"/><placeName key="CN0510101T07AA">武擔</placeName><placeName key="CN0500102T01AA">相思</placeName><placeName key="CN0000000T24AA">長磧</placeName>諸寺。繕基啟剎。莫不仰止高軌。修禪<lb ed="X" n="0356c16"/>習誦。日夜無綴。<placeName key="CN0510108Z03AA">[崏-氏+民]蜀</placeName>佛法由茲大盛。 <ref type="place" target="#CN0510108Z32AA">益土</ref>有流寓之<lb ed="X" n="0356c17"/>民。數千餘家。淫祀倒見。不識正道。自<persName key="A002238">汪</persName>至後。敬挹清<lb ed="X" n="0356c18"/>塵。宗崇釋氏者。殆將本半寧。<placeName key="CN0510108Z03AA">蜀郡</placeName><persName key="A018940">常元祖</persName>。少事父母<lb ed="X" n="0356c19"/>以孝。<ptr target="fn13"/>門。深信大法。<date from-iso="0447-02-02" to-iso="0448-01-22" key="j18843561884710">元嘉二十四年</date>卒。與其友人夢云。<lb ed="X" n="0356c20"/>我從<ptr target="fn14"/>任法師。受菩薩戒。今得生<placeName key="XZ0000002A01AA">兜率天</placeName>。為善利天子。<lb ed="X" n="0356c21"/>因卿語兒輩。勿復祭奠。刺史<placeName key="CN0320503Z01AA">吳郡</placeName><persName key="A018941">陸簡子</persName>。<ptr target="fn15"/>天相禮遇<lb ed="X" n="0356c22"/>(云云)。</p>
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="mscc0356c08daoWang"><head>宋欣平<placeName key="PL000000034699">龍華寺</placeName><persName key="A002238">釋道汪</persName></head><p><anchor n="X.77.1523.0356c08"/><lb ed="X" n="0356c08"/>道汪本姓潘。<placeName key="PL000000024104">長樂</placeName>人也。世規家訓。以廉約為風。姿禪<lb ed="X" n="0356c09"/>高秀。長七尺七寸。幼有不恒之識。宗族固已異之。少<lb ed="X" n="0356c10"/>孤隨叔在<ref type="place" target="#PL000000008975">京師</ref>。年十三。投<placeName key="PL000000018775">廬山</placeName><persName key="A001204">遠公</persName>出家。研味禪律。<lb ed="X" n="0356c11"/>停山十餘載。新出諸經。靡不精綜。大涅槃經。後傳<placeName key="PL000000000197">江<lb ed="X" n="0356c12"/>左</placeName>。復還<ref type="place" target="#PL000000008975">京師</ref>。<ptr target="fn12"/>計論大義。<gap extent="1" unit="chars" reason="lost"/><gap extent="1" unit="chars" reason="lost"/>費游文子雅相知愛。命<lb ed="X" n="0356c13"/>子姪咸師之。茹蔬飡素五十餘年。愽綜經律。窮覽數<lb ed="X" n="0356c14"/>論。兼涉外典。識瞻開誘。才強計辨。自<placeName key="PL000000034699">龍花</placeName><!--應為龍華寺--><placeName key="PL000000034694">祇洹</placeName><placeName key="PL000000000186">天竺</placeName><lb ed="X" n="0356c15"/><placeName key="PL000000034695">武擔</placeName><placeName key="PL000000034046">相思</placeName><placeName key="PL000000000187">長磧</placeName>諸寺。繕基啟剎。莫不仰止高軌。修禪<lb ed="X" n="0356c16"/>習誦。日夜無綴。<placeName key="PL000000034777">[崏-氏+民]蜀</placeName>佛法由茲大盛。 <ref type="place" target="#PL000000034806">益土</ref>有流寓之<lb ed="X" n="0356c17"/>民。數千餘家。淫祀倒見。不識正道。自<persName key="A002238">汪</persName>至後。敬挹清<lb ed="X" n="0356c18"/>塵。宗崇釋氏者。殆將本半寧。<placeName key="PL000000034777">蜀郡</placeName><persName key="A018940">常元祖</persName>。少事父母<lb ed="X" n="0356c19"/>以孝。<ptr target="fn13"/>門。深信大法。<date from-iso="0447-02-02" to-iso="0448-01-22" key="j18843561884710">元嘉二十四年</date>卒。與其友人夢云。<lb ed="X" n="0356c20"/>我從<ptr target="fn14"/>任法師。受菩薩戒。今得生<placeName key="PL000000055446">兜率天</placeName>。為善利天子。<lb ed="X" n="0356c21"/>因卿語兒輩。勿復祭奠。刺史<placeName key="PL000000009913">吳郡</placeName><persName key="A018941">陸簡子</persName>。<ptr target="fn15"/>天相禮遇<lb ed="X" n="0356c22"/>(云云)。</p>
     <linkGrp>
         <link targets="#0356c08 #0356c08"/>
         <ptr type="person" target="#A002238"/>
-        <ptr type="place" target="#CN0410522Z06AA"/>
+        <ptr type="place" target="#PL000000024104"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0356c09 #0356c10"/>
         <ptr type="person" target="#A002238"/>
-        <ptr type="place" target="#CN0320106Z05AA"/>
+        <ptr type="place" target="#PL000000008975"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0356c10 #0356c11"/>
         <ptr type="person" target="#A002238"/>
         <ptr type="person" target="#A001204"/>
-        <ptr type="place" target="#CN0360402M01AA"/>
+        <ptr type="place" target="#PL000000018775"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0356c14 #0356c16"/>
         <ptr type="person" target="#A002238"/>
-        <ptr type="place" target="#CN0510101T11AA"/>
+        <ptr type="place" target="#PL000000034699"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0356c14 #0356c16"/>
         <ptr type="person" target="#A002238"/>
-        <ptr type="place" target="#CN0510101T06AA"/>
+        <ptr type="place" target="#PL000000034694"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0356c14 #0356c16"/>
         <ptr type="person" target="#A002238"/>
-        <ptr type="place" target="#CN0000000T23AA"/>
+        <ptr type="place" target="#PL000000000186"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0356c14 #0356c16"/>
         <ptr type="person" target="#A002238"/>
-        <ptr type="place" target="#CN0510101T07AA"/>
+        <ptr type="place" target="#PL000000034695"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0356c14 #0356c16"/>
         <ptr type="person" target="#A002238"/>
-        <ptr type="place" target="#CN0000000T24AA"/>
+        <ptr type="place" target="#PL000000000187"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0356c18 #0356c21"/>
@@ -56,4 +57,3 @@
         <ptr type="person" target="#A018941"/>
     </linkGrp>
 </div>
-

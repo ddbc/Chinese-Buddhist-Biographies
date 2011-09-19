@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="cszjj0099a18sengQieBaCheng">
     <head><lb ed="T" n="0099a18"/><persName key="A001593">僧伽跋澄</persName>傳第十</head>
-    <p><anchor n="T.55.2145.0099a19"/><lb ed="T" n="0099a19"/><persName key="A001593">僧伽跋澄</persName>，<placeName key="WW034KASME02AA">罽賓</placeName>人也。毅然有淵懿之量。歷尋
+    <p><anchor n="T.55.2145.0099a19"/><lb ed="T" n="0099a19"/><persName key="A001593">僧伽跋澄</persName>，<placeName key="PL000000055418">罽賓</placeName>人也。毅然有淵懿之量。歷尋
         <lb ed="T" n="0099a20"/>名師，修習精詣，博覽眾典，特善數經。闇誦《阿
         <lb ed="T" n="0099a21"/>毘曇毘婆沙》，貫其妙旨。常浪志遊方，觀風弘
-        <lb ed="T" n="0099a22"/>化。<date from-iso="0378" to-iso="0385" key="j18593851861968"><persName key="A002515">符堅</persName>之末</date>，來入<placeName key="CN0610000E01AA">關中</placeName>。先是大乘之典未廣，
-        <lb ed="T" n="0099a23"/>禪數之學甚盛。既至<placeName key="CN0610112Z07AA">長安</placeName>，咸稱法匠焉。<persName key="A002515">堅</persName>祕
+        <lb ed="T" n="0099a22"/>化。<date from-iso="0378" to-iso="0385" key="j18593851861968"><persName key="A002515">符堅</persName>之末</date>，來入<placeName key="PL000000042002">關中</placeName>。先是大乘之典未廣，
+        <lb ed="T" n="0099a23"/>禪數之學甚盛。既至<placeName key="PL000000042393">長安</placeName>，咸稱法匠焉。<persName key="A002515">堅</persName>祕
         <lb ed="T" n="0099a24"/>書郎<persName key="A002042">趙政</persName>字<persName key="A002042">文業</persName>，博學有才章，即<persName key="A002515">堅</persName>之<persName key="A019562">琳</persName>、<persName key="A019563"><ptr target="fn11"/>瑀</persName>
         <lb ed="T" n="0099a25"/>也。崇仰大法，<ptr target="fn＊"/>常聞外國宗習《阿毘曇毘婆
         <lb ed="T" n="0099a26"/>沙》，而<persName key="A001593">跋澄</persName>諷誦，乃四事禮供，請譯梵文。遂共
@@ -16,15 +16,15 @@
             <lb ed="T" n="0099b03"/>乃與<persName key="A001798">曇摩難提</persName>及<persName key="A001589">僧伽提婆</persName>三人共執<ptr target="fn＊"/>胡本，
             <lb ed="T" n="0099b04"/>秦沙門<persName key="A000435"><ptr target="fn15"/>佛念</persName>宣譯，<persName key="A002112">慧嵩</persName>筆受，<persName key="A001503">安公</persName>、<persName key="A002191">法和</persName>對共
             <lb ed="T" n="0099b05"/>挍定。故二經流布，傳學迄今。<persName key="A001593">跋澄</persName>戒德整峻，
-            <lb ed="T" n="0099b06"/>虛靜離俗，<placeName key="CN0610000E01AA">關中</placeName>僧眾，則而象之。後不知所終。</p><p>
+            <lb ed="T" n="0099b06"/>虛靜離俗，<placeName key="PL000000042002">關中</placeName>僧眾，則而象之。後不知所終。</p><p>
                 <lb ed="T" n="0099b07"/><persName key="A002516">佛圖羅剎</persName>者，不知何國人。德業純白，該覽經
-                <lb ed="T" n="0099b08"/>典，久遊<placeName key="CN0000000E01AA">中土</placeName>，善閑漢言。其宣譯梵文，見重符
+                <lb ed="T" n="0099b08"/>典，久遊<placeName key="PL000000000083">中土</placeName>，善閑漢言。其宣譯梵文，見重符
                 <lb ed="T" n="0099b09"/>世焉。</p>
    
     <linkGrp>
         <link targets="#0099a19 #0099a19"/>
         <ptr target="#A001593" type="person"/>
-        <ptr target="#WW034KASME02AA" type="place"/>
+        <ptr target="#PL000000055418" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0099a22 #0099a22"/>
@@ -44,7 +44,7 @@
         <ptr target="#A001798" type="person"/>
         <ptr target="#A002516" type="person"/>
         <ptr target="#A002517" type="person"/>
-        <ptr target="#CN0610112Z07AA" type="place"/>
+        <ptr target="#PL000000042393" type="place"/>
         <ptr target="#j18609981861351" type="time"/>
     </linkGrp>
     <linkGrp>

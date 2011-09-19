@@ -1,44 +1,44 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0671b26shiZhiGuang">
-    <p><anchor n="T.50.2060.0671b26"/><lb ed="T" n="0671b26"/><persName key="A007208">釋智光</persName>。<placeName key="CN0360403Z14AA">江州</placeName>人。<ptr target="fn19"/><persName key="A004416">尼論師</persName>之學士也。少聽攝<lb ed="T" n="0671b27"/>論大成其器。言論清華聲勢明穆。志度輕健<lb ed="T" n="0671b28"/>鮮忤言諍。謙牧推下為時所重。<date key="j19365961936950" from-iso="0590-02-12" to-iso="0591-02-01">開皇十年</date>。<lb ed="T" n="0671b29"/>勅召<ptr target="fn20"/><persName key="A004416">尼公</persName>。相從入<placeName key="CN0610102Z14AA">京</placeName>住<placeName key="CN0610103T03AA">大興善寺</placeName>。<date key="j19406121942058" notAfter-iso="0605" notBefore-iso="0601">仁壽</date>創<lb ed="T" n="0671c01"/>塔。召送<placeName key="CN0441303Z05AA">循州</placeName>。途經<placeName key="CN0411002Z07AA">許部</placeName>。行出城南。人眾同<lb ed="T" n="0671c02"/>送舍利於輿忽放光明。高出丈餘。傾眾榮<lb ed="T" n="0671c03"/>慶<ptr target="fn21"/>北至<placeName key="CN0440104Z25AA">番州</placeName>寄停寺內。其夜銅<ptr target="fn＊"/>鍾<ptr target="fn22"/>洪洪<lb ed="T" n="0671c04"/>自鳴。連<ptr target="fn23"/>霄至旦。驚駭人畜。及至食時其<lb ed="T" n="0671c05"/>聲乃止。既達<placeName key="CN0441303Z05AA">循州</placeName><placeName key="CN0441303T01AA">道場塔寺</placeName>。當下舍利天<lb ed="T" n="0671c06"/>降甘露塔邊樹上。色類凝<ptr target="fn24"/>蘇。光白曜日。<lb ed="T" n="0671c07"/><persName key="A007208">光</persName>還<placeName key="CN0610102Z14AA">京室</placeName>以法自娛。頻開攝論有名<placeName key="CN0610000E01AA">秦<lb ed="T" n="0671c08"/>壤</placeName>。晚厭談說歸靜林泉。尋還<placeName key="CN0360402M01AA">廬阜</placeName>屏絕人<lb ed="T" n="0671c09"/>事。安禪自節卒于山舍。</p>
+    <p><anchor n="T.50.2060.0671b26"/><lb ed="T" n="0671b26"/><persName key="A007208">釋智光</persName>。<placeName key="PL000000018846">江州</placeName>人。<ptr target="fn19"/><persName key="A004416">尼論師</persName>之學士也。少聽攝<lb ed="T" n="0671b27"/>論大成其器。言論清華聲勢明穆。志度輕健<lb ed="T" n="0671b28"/>鮮忤言諍。謙牧推下為時所重。<date key="j19365961936950" from-iso="0590-02-12" to-iso="0591-02-01">開皇十年</date>。<lb ed="T" n="0671b29"/>勅召<ptr target="fn20"/><persName key="A004416">尼公</persName>。相從入<placeName key="PL000000042196">京</placeName>住<placeName key="PL000000042218">大興善寺</placeName>。<date key="j19406121942058" notAfter-iso="0605" notBefore-iso="0601">仁壽</date>創<lb ed="T" n="0671c01"/>塔。召送<placeName key="PL000000031270">循州</placeName>。途經<placeName key="PL000000024832">許部</placeName>。行出城南。人眾同<lb ed="T" n="0671c02"/>送舍利於輿忽放光明。高出丈餘。傾眾榮<lb ed="T" n="0671c03"/>慶<ptr target="fn21"/>北至<placeName key="PL000000030467">番州</placeName>寄停寺內。其夜銅<ptr target="fn＊"/>鍾<ptr target="fn22"/>洪洪<lb ed="T" n="0671c04"/>自鳴。連<ptr target="fn23"/>霄至旦。驚駭人畜。及至食時其<lb ed="T" n="0671c05"/>聲乃止。既達<placeName key="PL000000031270">循州</placeName><placeName key="PL000000031264">道場塔寺</placeName>。當下舍利天<lb ed="T" n="0671c06"/>降甘露塔邊樹上。色類凝<ptr target="fn24"/>蘇。光白曜日。<lb ed="T" n="0671c07"/><persName key="A007208">光</persName>還<placeName key="PL000000042196">京室</placeName>以法自娛。頻開攝論有名<placeName key="PL000000042002">秦<lb ed="T" n="0671c08"/>壤</placeName>。晚厭談說歸靜林泉。尋還<placeName key="PL000000018775">廬阜</placeName>屏絕人<lb ed="T" n="0671c09"/>事。安禪自節卒于山舍。</p>
     <linkGrp>
         <link targets="#0671b26 #0671b26"/>
         <ptr target="#A007208" type="person"/>
-        <ptr target="#CN0360403Z14AA" type="place"/>
+        <ptr target="#PL000000018846" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0671b28 #0671b29"/>
         <ptr target="#A007208" type="person"/>
         <ptr target="#A004416" type="person"/>
-        <ptr target="#CN0610103T03AA" type="place"/>
+        <ptr target="#PL000000042218" type="place"/>
         <ptr target="#j19365961936950" type="time"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0671b29 #0671c02"/>
         <ptr target="#A007208" type="person"/>
-        <ptr target="#CN0411002Z07AA" type="place"/>
+        <ptr target="#PL000000024832" type="place"/>
         <ptr target="#j19406121942058" type="time"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0671b29 #0671c03"/>
         <ptr target="#A007208" type="person"/>
-        <ptr target="#CN0440104Z25AA" type="place"/>
+        <ptr target="#PL000000030467" type="place"/>
         <ptr target="#j19406121942058" type="time"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0671c05 #0671c06"/>
         <ptr target="#A007208" type="person"/>
-        <ptr target="#CN0441303T01AA" type="place"/>
+        <ptr target="#PL000000031264" type="place"/>
         <ptr target="#j19406121942058" type="time"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0671c06 #0671c08"/>
         <ptr target="#A007208" type="person"/>
-        <ptr target="#CN0610102Z14AA" type="place"/>
+        <ptr target="#PL000000042196" type="place"/>
         </linkGrp>
     <linkGrp>
         <link targets="#0671c08 #0671c09"/>
         <ptr target="#A007208" type="person"/>
-        <ptr target="#CN0360402M01AA" type="place"/>
+        <ptr target="#PL000000018775" type="place"/>
         </linkGrp>
 </div>

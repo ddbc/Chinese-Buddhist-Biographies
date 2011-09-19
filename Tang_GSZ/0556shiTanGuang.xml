@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0624a24shiTanGuang">
-    <p><anchor n="T.50.2060.0624a24"/><lb ed="T" n="0624a24"/><persName key="A006507">釋曇光</persName>。姓張氏。<placeName key="CN0410204Z13AA">汴州</placeName>人。自幼及長潔志清<lb ed="T" n="0624a25"/>範。諸有勝徒莫不登踐。於<persName key="A000747">礪</persName><persName key="A006411">爍</persName>兩師聽受<lb ed="T" n="0624a26"/>成教。逮至立年盛明律藏。命宗章義是所<lb ed="T" n="0624a27"/>推崇。<persName key="A000747">礪</persName>歎曰。使吾道流河右。誠此<persName key="A006507">人</persName>乎。又<lb ed="T" n="0624a28"/>往<persName key="A006509">玉法師</persName>所聽法華地論。高達勝乘玄理<lb ed="T" n="0624a29"/>權實坦然。又往<placeName key="CN0410185M02AA">嵩岳</placeName><persName key="A006510">相禪師</persName>學修止觀。因<lb ed="T" n="0624b01"/>屏絕塵惱不羈名利。會<placeName key="CN0410302Z03AA">東都</placeName>盛德須有住<lb ed="T" n="0624b02"/>持。以<persName key="A006507">光</persName>有素德景行難擁。遂勅召住<placeName key="CN0410302T01AA">天宮<lb ed="T" n="0624b03"/>寺</placeName>。又以教受新成眾徒胥集綱管之任非<lb ed="T" n="0624b04"/>人不傳。因又召為<placeName key="CN0410302T01AA">寺</placeName>之上座。綏撫清眾不<lb ed="T" n="0624b05"/>肅而成。然而汎愛之誠終古罕類。四方律<lb ed="T" n="0624b06"/>學莫不諮詢。故其房宇門人肩聯踵接。成<lb ed="T" n="0624b07"/>就所舉遠近遵承。<placeName key="CN0610103T02AA">西明寺</placeName>律師<persName key="A006513">君度</persName>。奕奕<lb ed="T" n="0624b08"/>標舉一時俊烈。亦<persName key="A006507">光</persName>之所進也。今<date key="j19639711964354" from-iso="0665-01-25" to-iso="0666-02-12">麟德二<lb ed="T" n="0624b09"/>年</date>。<placeName key="CN0410302Z03AA">東都</placeName>講說師資導達。彌所欽羨焉。</p>
+    <p><anchor n="T.50.2060.0624a24"/><lb ed="T" n="0624a24"/><persName key="A006507">釋曇光</persName>。姓張氏。<placeName key="PL000000023329">汴州</placeName>人。自幼及長潔志清<lb ed="T" n="0624a25"/>範。諸有勝徒莫不登踐。於<persName key="A000747">礪</persName><persName key="A006411">爍</persName>兩師聽受<lb ed="T" n="0624a26"/>成教。逮至立年盛明律藏。命宗章義是所<lb ed="T" n="0624a27"/>推崇。<persName key="A000747">礪</persName>歎曰。使吾道流河右。誠此<persName key="A006507">人</persName>乎。又<lb ed="T" n="0624a28"/>往<persName key="A006509">玉法師</persName>所聽法華地論。高達勝乘玄理<lb ed="T" n="0624a29"/>權實坦然。又往<placeName key="PL000000023253">嵩岳</placeName><persName key="A006510">相禪師</persName>學修止觀。因<lb ed="T" n="0624b01"/>屏絕塵惱不羈名利。會<placeName key="PL000000023581">東都</placeName>盛德須有住<lb ed="T" n="0624b02"/>持。以<persName key="A006507">光</persName>有素德景行難擁。遂勅召住<placeName key="PL000000023564">天宮<lb ed="T" n="0624b03"/>寺</placeName>。又以教受新成眾徒胥集綱管之任非<lb ed="T" n="0624b04"/>人不傳。因又召為<placeName key="PL000000023564">寺</placeName>之上座。綏撫清眾不<lb ed="T" n="0624b05"/>肅而成。然而汎愛之誠終古罕類。四方律<lb ed="T" n="0624b06"/>學莫不諮詢。故其房宇門人肩聯踵接。成<lb ed="T" n="0624b07"/>就所舉遠近遵承。<placeName key="PL000000042216">西明寺</placeName>律師<persName key="A006513">君度</persName>。奕奕<lb ed="T" n="0624b08"/>標舉一時俊烈。亦<persName key="A006507">光</persName>之所進也。今<date key="j19639711964354" from-iso="0665-01-25" to-iso="0666-02-12">麟德二<lb ed="T" n="0624b09"/>年</date>。<placeName key="PL000000023581">東都</placeName>講說師資導達。彌所欽羨焉。</p>
     <linkGrp>
         <link targets="#0624a24 #0624a24"/>
         <ptr target="#A006507" type="person"/>
-        <ptr target="#CN0410204Z13AA" type="place"/>
+        <ptr target="#PL000000023329" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0624a24 #0624a26"/>
@@ -25,17 +25,17 @@
         <link targets="#0624a29 #0624a29"/>
         <ptr target="#A006507" type="person"/>
         <ptr target="#A006510" type="person"/>
-        <ptr target="#CN0410185M02AA" type="place"/>
+        <ptr target="#PL000000023253" type="place"/>
         </linkGrp>
     <linkGrp>
         <link targets="#0624b01 #0624b06"/>
         <ptr target="#A006507" type="person"/>
-        <ptr target="#CN0410302T01AA" type="place"/>
+        <ptr target="#PL000000023564" type="place"/>
         </linkGrp>
     <linkGrp>
         <link targets="#0624b07 #0624b08"/>
         <ptr target="#A006513" type="person"/>
-        <ptr target="#CN0610103T02AA" type="place"/>
+        <ptr target="#PL000000042216" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0624b07 #0624b08"/>
@@ -45,7 +45,7 @@
     <linkGrp>
         <link targets="#0624b08 #0624b09"/>
         <ptr target="#A006507" type="person"/>
-        <ptr target="#CN0410302Z03AA" type="place"/>
+        <ptr target="#PL000000023581" type="place"/>
         <ptr target="#j19639711964354" type="time"/>
     </linkGrp>
 </div>

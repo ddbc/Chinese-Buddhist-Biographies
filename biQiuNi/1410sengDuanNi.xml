@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="bqnz0939a17sengDuanNi">
-    <head><placeName key="CN0320106T36AA">永安寺</placeName><persName key="A011716">僧端</persName>尼<ptr target="fn13"/>傳十一</head><p><anchor n="T.50.2063.0939a18"/><lb ed="T" n="0939a18"/><persName key="A011716">僧端</persName>，<placeName key="CN0321081Z27AA">廣陵</placeName>人也。門世奉佛，姊妹篤信，誓願出<lb ed="T" n="0939a19"/>家，不當婢<ptr target="fn14"/>採。而姿色之美，有聞鄉邑，富室湊<lb ed="T" n="0939a20"/>之，母兄已許。臨迎之三日，宵遁佛寺。寺主置<lb ed="T" n="0939a21"/>於別室，給其所須，并請觀世音經，二日能誦，<lb ed="T" n="0939a22"/>雨淚稽顙，晝夜不休。過三日後，於禮拜中見<lb ed="T" n="0939a23"/>佛像語云：「<ref target="#A011716" type="person">汝</ref>婿命盡，<ref target="#A011716" type="person">汝</ref>但精勤，勿懷憂念。」明<lb ed="T" n="0939a24"/>日，其婿為牛所觸亡也。因得出家，堅持禁戒，<lb ed="T" n="0939a25"/>攝<ptr target="fn15"/>心空閑，似不能言，及辯<ptr target="fn16"/>折名實，其辭亹<lb ed="T" n="0939a26"/>亹。誦大涅槃經，五日一遍。<date from-iso="0433-02-07" key="j18792481879601" to-iso="0434-01-26">元嘉十年</date>，南遊上<lb ed="T" n="0939a27"/>國，住<placeName key="CN0320106T36AA">永安寺</placeName>。綱紀眾務，均愛等接，大小悅服，<lb ed="T" n="0939a28"/>久而彌敬。年七十餘，<date from-iso="0448-01-23" key="j18847111885094" to-iso="0449-02-09">元嘉二十五年</date><ptr target="fn17"/>而卒。</p><p><lb ed="T" n="0939a29"/>弟子<persName key="A015298">普敬</persName>、<persName key="A015294">普要</persName>，皆以苦行顯名，並誦法華經。</p>
+    <head><placeName key="PL000000008961">永安寺</placeName><persName key="A011716">僧端</persName>尼<ptr target="fn13"/>傳十一</head><p><anchor n="T.50.2063.0939a18"/><lb ed="T" n="0939a18"/><persName key="A011716">僧端</persName>，<placeName key="PL000000010897">廣陵</placeName>人也。門世奉佛，姊妹篤信，誓願出<lb ed="T" n="0939a19"/>家，不當婢<ptr target="fn14"/>採。而姿色之美，有聞鄉邑，富室湊<lb ed="T" n="0939a20"/>之，母兄已許。臨迎之三日，宵遁佛寺。寺主置<lb ed="T" n="0939a21"/>於別室，給其所須，并請觀世音經，二日能誦，<lb ed="T" n="0939a22"/>雨淚稽顙，晝夜不休。過三日後，於禮拜中見<lb ed="T" n="0939a23"/>佛像語云：「<ref target="#A011716" type="person">汝</ref>婿命盡，<ref target="#A011716" type="person">汝</ref>但精勤，勿懷憂念。」明<lb ed="T" n="0939a24"/>日，其婿為牛所觸亡也。因得出家，堅持禁戒，<lb ed="T" n="0939a25"/>攝<ptr target="fn15"/>心空閑，似不能言，及辯<ptr target="fn16"/>折名實，其辭亹<lb ed="T" n="0939a26"/>亹。誦大涅槃經，五日一遍。<date from-iso="0433-02-07" key="j18792481879601" to-iso="0434-01-26">元嘉十年</date>，南遊上<lb ed="T" n="0939a27"/>國，住<placeName key="PL000000008961">永安寺</placeName>。綱紀眾務，均愛等接，大小悅服，<lb ed="T" n="0939a28"/>久而彌敬。年七十餘，<date from-iso="0448-01-23" key="j18847111885094" to-iso="0449-02-09">元嘉二十五年</date><ptr target="fn17"/>而卒。</p><p><lb ed="T" n="0939a29"/>弟子<persName key="A015298">普敬</persName>、<persName key="A015294">普要</persName>，皆以苦行顯名，並誦法華經。</p>
     <linkGrp>
         <link targets="#0939a26 #0939a28"/>
         <ptr target="#A011716" type="person"/>
-        <ptr target="#CN0320106T36AA" type="place"/>
+        <ptr target="#PL000000008961" type="place"/>
         <ptr target="#j18792481879601" type="time"/>
     </linkGrp>
     <linkGrp>
@@ -16,7 +16,7 @@
     <linkGrp>
         <link targets="#0939a28 #0939a28"/>
         <ptr target="#A011716" type="person"/>
-        <ptr target="#CN0320106T36AA" type="place"/>
+        <ptr target="#PL000000008961" type="place"/>
         <ptr target="#j18847111885094" type="time"/>
     </linkGrp>
 </div>

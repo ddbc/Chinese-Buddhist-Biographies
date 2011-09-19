@@ -1,32 +1,32 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0676b12shiDaoSong">
-    <p><anchor n="T.50.2060.0676b12"/><lb ed="T" n="0676b12"/><persName key="A007328">釋道嵩</persName>。姓劉。瀛州<placeName key="CN0130984Z18AA">河間</placeName>人。十三出家。遊聽<lb ed="T" n="0676b13"/><placeName key="CN0410305Z16AA">洛下</placeName>訪訊明哲。終日<ptr target="fn15"/>拪遑。衣服麁單全不<lb ed="T" n="0676b14"/>涉意。值<persName key="A002000">慧遠法師</persName>講諸經論。陶染積時遂<lb ed="T" n="0676b15"/>寢幽極。隨入<placeName key="CN0610102Z14AA">京<ptr target="fn16"/>室</placeName>。為慕義學士同侶推<lb ed="T" n="0676b16"/>崇道心人也。<date key="j19406121942058" notAfter-iso="0605" notBefore-iso="0601">仁壽</date>置塔。勅召送於<placeName key="CN0320503Z16AA">蘇州</placeName>。舍<lb ed="T" n="0676b17"/>利將至。井吼出聲。二日乃止。造基掘地得<lb ed="T" n="0676b18"/>古甎函。內有銀合。獲舍利一粒。置水<ptr target="fn17"/>瓶<lb ed="T" n="0676b19"/>內。旋遶呈祥。同藏大塔。<persName key="A007328">嵩</persName>還<placeName key="CN0610102Z14AA">京室</placeName>住<placeName key="CN0610102T50AA">總化<lb ed="T" n="0676b20"/>寺</placeName>。餐味涅槃依行懺悔。身戒心慧悉戴奉<lb ed="T" n="0676b21"/>之。一鉢三衣盈長不畜。遵經聖行息世譏<lb ed="T" n="0676b22"/>嫌。遂卒於世。</p>
+    <p><anchor n="T.50.2060.0676b12"/><lb ed="T" n="0676b12"/><persName key="A007328">釋道嵩</persName>。姓劉。瀛州<placeName key="PL000000003309">河間</placeName>人。十三出家。遊聽<lb ed="T" n="0676b13"/><placeName key="PL000000023632">洛下</placeName>訪訊明哲。終日<ptr target="fn15"/>拪遑。衣服麁單全不<lb ed="T" n="0676b14"/>涉意。值<persName key="A002000">慧遠法師</persName>講諸經論。陶染積時遂<lb ed="T" n="0676b15"/>寢幽極。隨入<placeName key="PL000000042196">京<ptr target="fn16"/>室</placeName>。為慕義學士同侶推<lb ed="T" n="0676b16"/>崇道心人也。<date key="j19406121942058" notAfter-iso="0605" notBefore-iso="0601">仁壽</date>置塔。勅召送於<placeName key="PL000000009928">蘇州</placeName>。舍<lb ed="T" n="0676b17"/>利將至。井吼出聲。二日乃止。造基掘地得<lb ed="T" n="0676b18"/>古甎函。內有銀合。獲舍利一粒。置水<ptr target="fn17"/>瓶<lb ed="T" n="0676b19"/>內。旋遶呈祥。同藏大塔。<persName key="A007328">嵩</persName>還<placeName key="PL000000042196">京室</placeName>住<placeName key="PL000000042161">總化<lb ed="T" n="0676b20"/>寺</placeName>。餐味涅槃依行懺悔。身戒心慧悉戴奉<lb ed="T" n="0676b21"/>之。一鉢三衣盈長不畜。遵經聖行息世譏<lb ed="T" n="0676b22"/>嫌。遂卒於世。</p>
     <linkGrp>
         <link targets="#0676b12 #0676b12"/>
         <ptr target="#A007328" type="person"/>
-        <ptr target="#CN0130984Z18AA" type="place"/>
+        <ptr target="#PL000000003309" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0676b12 #0676b15"/>
         <ptr target="#A002000" type="person"/>
         <ptr target="#A007328" type="person"/>
-        <ptr target="#CN0410305Z16AA" type="place"/>
+        <ptr target="#PL000000023632" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0676b14 #0676b16"/>
         <ptr target="#A007328" type="person"/>
         <ptr target="#A002000" type="person"/>
-        <ptr target="#CN0610102Z14AA" type="place"/>
+        <ptr target="#PL000000042196" type="place"/>
         </linkGrp>
     <linkGrp>
         <link targets="#0676b16 #0676b19"/>
         <ptr target="#A007328" type="person"/>
-        <ptr target="#CN0320503Z16AA" type="place"/>
+        <ptr target="#PL000000009928" type="place"/>
         <ptr target="#j19406121942058" type="time"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0676b19 #0676b22"/>
         <ptr target="#A007328" type="person"/>
-        <ptr target="#CN0610102T50AA" type="place"/>
+        <ptr target="#PL000000042161" type="place"/>
         </linkGrp>
 </div>

@@ -2,7 +2,7 @@
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0891b20shiDaoWu">
     <anchor n="T.50.2061.0891b20"/><head><date from-iso="0618-06-21" key="j19469512052491" to-iso="0907-06-06">唐</date>溫州陶山<persName key="A013869">道晤</persName>傳</head><p>
 <lb ed="T" n="0891b21"/><persName key="A013869">釋道晤</persName>者，不知何許人也。高趣放蕩，識量
-        <lb ed="T" n="0891b22"/>難貲。末住<placeName key="CN0330381M02AA">永嘉陶山</placeName>側精舍，則<persName key="A004531">隱居</persName>修真
+        <lb ed="T" n="0891b22"/>難貲。末住<placeName key="PL000000012592">永嘉陶山</placeName>側精舍，則<persName key="A004531">隱居</persName>修真
 <lb ed="T" n="0891b23"/>誥之所也。<date key="j20011912005747" notAfter-iso="0779" notBefore-iso="0766">大曆</date>中，<persName key="A004379">代宗</persName>為<persName key="A004531">陶真君</persName>樹此精
 <lb ed="T" n="0891b24"/>舍，<persName key="A013869">晤</persName>於此進修靡怠，人亦傾仰。一夕<anchor xml:id="beg0891002"/>跏<anchor xml:id="end0891002"/>趺
 <lb ed="T" n="0891b25"/>而卒，身肉無沮，如入三昧，議不焚葬。後五
@@ -17,6 +17,6 @@
     <linkGrp>
         <link targets="#0891b22 #0891b22"/>
         <ptr target="#A013869" type="person"/>
-        <ptr target="#CN0330381M02AA" type="place"/>
+        <ptr target="#PL000000012592" type="place"/>
     </linkGrp>
 </div>

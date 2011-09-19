@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0842a11shiShenJian">
     <anchor n="T.50.2061.0842a11"/><head><date from-iso="0618-06-21" key="j19469512052491" to-iso="0907-06-06">唐</date>唐州雲秀山<persName key="A012760">神鑒</persName>傳</head><p>
-<lb ed="T" n="0842a12"/><persName key="A012760">釋神鑒</persName>，姓韓氏，<placeName key="CN0360403Z15AA">潯陽</placeName>人也。穉歲淳靜，而不
-        <lb ed="T" n="0842a13"/>雜群童。父為<placeName key="CN0440785Z09AA">齊安</placeName>掾，且歸心釋氏，甞於廨
+<lb ed="T" n="0842a12"/><persName key="A012760">釋神鑒</persName>，姓韓氏，<placeName key="PL000000018847">潯陽</placeName>人也。穉歲淳靜，而不
+        <lb ed="T" n="0842a13"/>雜群童。父為<placeName key="PL000000030896">齊安</placeName>掾，且歸心釋氏，甞於廨
 <lb ed="T" n="0842a14"/>署陳像設，命僧徒讚唄揚音，法樂俱作。<persName key="A012760">鑒</persName>
 <lb ed="T" n="0842a15"/>則喜色盈顏，隨僧不捨，求願出家。父母無
-<lb ed="T" n="0842a16"/>計阻之，潛投<placeName key="CN0360402T13AA">東林寺</placeName><persName key="A012763">貞素律師</persName>下修學。後
-<lb ed="T" n="0842a17"/>講通大涅槃經義，乃南格<placeName key="CN0360103Z01AA">豫章</placeName>，參<persName key="A003623">大寂禪
+<lb ed="T" n="0842a16"/>計阻之，潛投<placeName key="PL000000018801">東林寺</placeName><persName key="A012763">貞素律師</persName>下修學。後
+<lb ed="T" n="0842a17"/>講通大涅槃經義，乃南格<placeName key="PL000000018603">豫章</placeName>，參<persName key="A003623">大寂禪
 <lb ed="T" n="0842a18"/>師</persName>。續於懷安<!--找不到此地-->西北山居焉。是山先是猛獸旁
 <lb ed="T" n="0842a19"/>午，率多作害。從<persName key="A012760">鑒</persName>居之，虎災弭息，遠近稱
         <lb ed="T" n="0842a20"/>之。忽有戴平[巾*貴]男子，望法座致禮勤重，
@@ -20,12 +20,12 @@
         <link targets="#0842a15 #0842a16"/>
         <ptr target="#A012760" type="person"/>
         <ptr target="#A012763" type="person"/>
-        <ptr target="#CN0360402T13AA" type="place"/>
+        <ptr target="#PL000000018801" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0842a17 #0842a18"/>
         <ptr target="#A012760" type="person"/>
         <ptr target="#A003623" type="person"/>
-        <ptr target="#CN0360103Z01AA" type="place"/>
+        <ptr target="#PL000000018603" type="place"/>
     </linkGrp>
 </div>

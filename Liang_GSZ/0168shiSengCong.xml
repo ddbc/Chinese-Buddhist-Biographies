@@ -1,15 +1,15 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0398c24shiSengCong">
-    <p><anchor n="T.50.2059.0398c25"/><lb ed="T" n="0398c25"/><persName key="A002307">釋僧從</persName>，未詳<ptr target="fn＊"/>何人。稟性虛靜，隱居<placeName key="CN0331023M12AA">始豐瀑<lb ed="T" n="0398c26"/>布山</placeName>。學兼內外，精修五門，不服五穀，唯<lb ed="T" n="0398c27"/>餌棗栗。年垂百歲，而氣力休強，禮誦無輟。<lb ed="T" n="0398c28"/>與隱士<ptr target="fn22"/><persName key="A003331">褚伯玉</persName>為林下之交。每論道說<lb ed="T" n="0398c29"/>義，輒留連信宿。後終於山中。</p>
+    <p><anchor n="T.50.2059.0398c25"/><lb ed="T" n="0398c25"/><persName key="A002307">釋僧從</persName>，未詳<ptr target="fn＊"/>何人。稟性虛靜，隱居<placeName key="PL000000014540">始豐瀑<lb ed="T" n="0398c26"/>布山</placeName>。學兼內外，精修五門，不服五穀，唯<lb ed="T" n="0398c27"/>餌棗栗。年垂百歲，而氣力休強，禮誦無輟。<lb ed="T" n="0398c28"/>與隱士<ptr target="fn22"/><persName key="A003331">褚伯玉</persName>為林下之交。每論道說<lb ed="T" n="0398c29"/>義，輒留連信宿。後終於山中。</p>
     <linkGrp>
         <link targets="#0398c28 #0398c29"/>
         <ptr target="#A002307" type="person"/>
-        <ptr target="#CN0331023M12AA" type="place"/>
+        <ptr target="#PL000000014540" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0398c28 #0398c29"/>
         <ptr target="#A002307" type="person"/>
         <ptr target="#A003331" type="person"/>
-        <ptr target="#CN0331023M12AA" type="place"/>
+        <ptr target="#PL000000014540" type="place"/>
         </linkGrp>
 </div>

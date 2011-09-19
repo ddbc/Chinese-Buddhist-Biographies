@@ -1,21 +1,21 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0661a12tongShiLi">
-    <p><anchor n="T.50.2060.0661a12"/><lb ed="T" n="0661a12"/><placeName key="CN0321102Z12AA">丹<ptr target="fn05"/>陽</placeName><persName key="A006959">通闍梨</persName>者。住<placeName key="CN0320114T08AA">天保寺</placeName>。<date key="j19562451958507" notAfter-iso="0650" notBefore-iso="0643">唐貞觀末</date>。年<lb ed="T" n="0661a13"/>已八十。氣力休健。儀容率素。常服納衣。衣<lb ed="T" n="0661a14"/>厚一寸。線如指大。以用紩納。極清潔誦法<lb ed="T" n="0661a15"/>華經。市中乞食所得不異流俗。得錢財修<lb ed="T" n="0661a16"/>補<placeName key="CN0320114T08AA">寺</placeName>舍。其<placeName key="CN0320114T08AA">寺</placeName>大堂梁時所立。朱砂污灑塗<lb ed="T" n="0661a17"/>之極厚。<date key="j19469511949949" notAfter-iso="0626" notBefore-iso="0618">唐初</date><persName key="A006964">善禪師</persName>。鍍大銅像須水銀。就<lb ed="T" n="0661a18"/>梁刮取所用充足餘趾猶赤。是知昔人為<lb ed="T" n="0661a19"/>福竭於所貴。不以為辭。如不用者。昔物何<lb ed="T" n="0661a20"/>在。其<placeName key="CN0320114T08AA">寺</placeName>基郭。補修所須。云有古鎮國金可<lb ed="T" n="0661a21"/>取治護。乃於<placeName key="CN0320114T08AA">寺</placeName>北四十步。依言掘得十斤。<lb ed="T" n="0661a22"/>用盡得三十斤。便曰。地下大有。更取殺人。<lb ed="T" n="0661a23"/>於是便止。後輒自營土窟於<placeName key="CN0320114T08AA">寺</placeName>北擬終事。<lb ed="T" n="0661a24"/>時未之驗也。不久告僧云。尋常命終須有<lb ed="T" n="0661a25"/>付囑。引諸財物指訂囑授。極有分明。經三<lb ed="T" n="0661a26"/>日而神氣爽健。而云將去。忽不知所在便<lb ed="T" n="0661a27"/>就窟視之。門已塞開一小孔。在土撮臥。氣<lb ed="T" n="0661a28"/>已終矣。年九十餘。</p>
+    <p><anchor n="T.50.2060.0661a12"/><lb ed="T" n="0661a12"/><placeName key="PL000000010986">丹<ptr target="fn05"/>陽</placeName><persName key="A006959">通闍梨</persName>者。住<placeName key="PL000000009069">天保寺</placeName>。<date key="j19562451958507" notAfter-iso="0650" notBefore-iso="0643">唐貞觀末</date>。年<lb ed="T" n="0661a13"/>已八十。氣力休健。儀容率素。常服納衣。衣<lb ed="T" n="0661a14"/>厚一寸。線如指大。以用紩納。極清潔誦法<lb ed="T" n="0661a15"/>華經。市中乞食所得不異流俗。得錢財修<lb ed="T" n="0661a16"/>補<placeName key="PL000000009069">寺</placeName>舍。其<placeName key="PL000000009069">寺</placeName>大堂梁時所立。朱砂污灑塗<lb ed="T" n="0661a17"/>之極厚。<date key="j19469511949949" notAfter-iso="0626" notBefore-iso="0618">唐初</date><persName key="A006964">善禪師</persName>。鍍大銅像須水銀。就<lb ed="T" n="0661a18"/>梁刮取所用充足餘趾猶赤。是知昔人為<lb ed="T" n="0661a19"/>福竭於所貴。不以為辭。如不用者。昔物何<lb ed="T" n="0661a20"/>在。其<placeName key="PL000000009069">寺</placeName>基郭。補修所須。云有古鎮國金可<lb ed="T" n="0661a21"/>取治護。乃於<placeName key="PL000000009069">寺</placeName>北四十步。依言掘得十斤。<lb ed="T" n="0661a22"/>用盡得三十斤。便曰。地下大有。更取殺人。<lb ed="T" n="0661a23"/>於是便止。後輒自營土窟於<placeName key="PL000000009069">寺</placeName>北擬終事。<lb ed="T" n="0661a24"/>時未之驗也。不久告僧云。尋常命終須有<lb ed="T" n="0661a25"/>付囑。引諸財物指訂囑授。極有分明。經三<lb ed="T" n="0661a26"/>日而神氣爽健。而云將去。忽不知所在便<lb ed="T" n="0661a27"/>就窟視之。門已塞開一小孔。在土撮臥。氣<lb ed="T" n="0661a28"/>已終矣。年九十餘。</p>
     <linkGrp>
         <link targets="#0661a12 #0661a13"/>
         <ptr target="#A006959" type="person"/>
-        <ptr target="#CN0320114T08AA" type="place"/>
+        <ptr target="#PL000000009069" type="place"/>
         <ptr target="#j19562451958507" type="time"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0661a17 #0661a18"/>
         <ptr target="#A006964" type="person"/>
-        <ptr target="#CN0320114T08AA" type="place"/>
+        <ptr target="#PL000000009069" type="place"/>
         <ptr target="#j19469511949949" type="time"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0661a23 #0661a28"/>
         <ptr target="#A006959" type="person"/>
-        <ptr target="#CN0320114T08AA" type="place"/>
+        <ptr target="#PL000000009069" type="place"/>
     </linkGrp>
 </div>

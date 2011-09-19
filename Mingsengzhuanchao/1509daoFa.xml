@@ -1,8 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><div xml:id="mscc0358a02daoFa" xmlns="http://www.tei-c.org/ns/1.0"><head>宋城都<placeName key="CN0510101T13AA">香積寺</placeName><persName key="A002311">釋道法</persName></head><p><anchor n="X.77.1523.0358a02"/><lb ed="X" n="0358a02"/>道法本姓遭氏。<placeName key="CN0620982Z56AA">燉煌</placeName>人。禪思出於人表。苦行照見三<lb ed="X" n="0358a03"/>塗。聞[庸-用+巾]蜀粗懷信向。胃岺而遊焉<persName key="A003338">王休真</persName><persName key="A003339">費鏗</persName>之請<lb ed="X" n="0358a04"/>為<placeName key="CN0510101T12AA">興樂</placeName><placeName key="CN0510101T13AA">香積</placeName>二寺主。乞食供齋。常減其分。以施虫鳥。<lb ed="X" n="0358a05"/>坐禪習誦。晝夜無癈。每至夕。輙脫衣。於彌勤像前。養<lb ed="X" n="0358a06"/>飴蚊虻。如是多年。後見<persName key="A001428">彌勒</persName>。放種種光。齊中白光。直<lb ed="X" n="0358a07"/>入地獄。見諸先緣及一切眾生受苦<ptr target="fn1"/>之。又善神呪。<date from-iso="0474-02-04" to-iso="0475-01-23" key="j18942201894573">元<lb ed="X" n="0358a08"/>徽二年</date>因於禪思。卒於繩床(云云)。</p>
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="mscc0358a02daoFa"><head>宋城都<placeName key="PL000000034701">香積寺</placeName><persName key="A002311">釋道法</persName></head><p><anchor n="X.77.1523.0358a02"/><lb ed="X" n="0358a02"/>道法本姓遭氏。<placeName key="PL000000045822">燉煌</placeName>人。禪思出於人表。苦行照見三<lb ed="X" n="0358a03"/>塗。聞[庸-用+巾]蜀粗懷信向。胃岺而遊焉<persName key="A003338">王休真</persName><persName key="A003339">費鏗</persName>之請<lb ed="X" n="0358a04"/>為<placeName key="PL000000034700">興樂</placeName><placeName key="PL000000034701">香積</placeName>二寺主。乞食供齋。常減其分。以施虫鳥。<lb ed="X" n="0358a05"/>坐禪習誦。晝夜無癈。每至夕。輙脫衣。於彌勤像前。養<lb ed="X" n="0358a06"/>飴蚊虻。如是多年。後見<persName key="A001428">彌勒</persName>。放種種光。齊中白光。直<lb ed="X" n="0358a07"/>入地獄。見諸先緣及一切眾生受苦<ptr target="fn1"/>之。又善神呪。<date from-iso="0474-02-04" to-iso="0475-01-23" key="j18942201894573">元<lb ed="X" n="0358a08"/>徽二年</date>因於禪思。卒於繩床(云云)。</p>
     <linkGrp>
         <link targets="#0358a02 #0358a02"/>
         <ptr type="person" target="#A002311"/>
-        <ptr type="place" target="#CN0620982Z56AA"/>
+        <ptr type="place" target="#PL000000045822"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0358a03 #0358a06"/>
@@ -13,12 +14,12 @@
     <linkGrp>
         <link targets="#0358a03 #0358a06"/>
         <ptr type="person" target="#A002311"/>
-        <ptr type="place" target="#CN0510101T12AA"/>
+        <ptr type="place" target="#PL000000034700"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0358a03 #0358a06"/>
         <ptr type="person" target="#A002311"/>
-        <ptr type="place" target="#CN0510101T13AA"/>
+        <ptr type="place" target="#PL000000034701"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0358a07 #0358a08"/>

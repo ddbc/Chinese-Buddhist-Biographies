@@ -1,32 +1,32 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0402a18shiFaLin">
-    <p><anchor n="T.50.2059.0402a19"/><lb ed="T" n="0402a19"/><persName key="A002326">釋法琳</persName>，姓樂，<placeName key="CN0510184Z23AA">晉原臨卭</placeName>人。少出家，止<placeName key="CN0510101T03AA">蜀郡<lb ed="T" n="0402a20"/>裴寺</placeName>。專好戒品，研心《十誦》，常恨蜀中無好<lb ed="T" n="0402a21"/>師宗。俄而<persName key="A002321">隱公</persName>至<placeName key="CN0510108Z03AA">蜀</placeName>，<persName key="A002326">琳</persName>乃剋己握錐，以日<lb ed="T" n="0402a22"/>兼夜。及<persName key="A002321">隱</persName>還<placeName key="CN0610000E01AA">陝西</placeName>，復隨從數載。諸部毘尼，<lb ed="T" n="0402a23"/>洞盡心曲。後還蜀，止<placeName key="CN0510101T04AA">靈建寺</placeName>。<placeName key="CN0510108Z32AA">益部</placeName>僧尼，無<lb ed="T" n="0402a24"/>不宗奉。</p><p>常祈心安養。每誦《無量壽》及<ptr target="fn05"/>《觀經》，<lb ed="T" n="0402a25"/>輒見一沙門形甚姝大，常在<persName key="A002326">琳</persName>前。至<date key="j19018981902251" from-iso="0495-02-12" to-iso="0496-01-31">齊建<lb ed="T" n="0402a26"/>武二年</date>，寢疾不愈，注念西方，禮懺不息，<lb ed="T" n="0402a27"/>見諸賢聖皆集目前。乃向弟子述其所見，<lb ed="T" n="0402a28"/>令死後焚身。言訖合掌而卒。即於<placeName key="CN0510101A01AA">新繁路<lb ed="T" n="0402a29"/>口</placeName>積木燔屍，烟焰衝天，三日乃盡。收<ptr target="fn06"/>斂<lb ed="T" n="0402b01"/>遺骨，即於其處而起塔焉。</p>
+    <p><anchor n="T.50.2059.0402a19"/><lb ed="T" n="0402a19"/><persName key="A002326">釋法琳</persName>，姓樂，<placeName key="PL000000035114">晉原臨卭</placeName>人。少出家，止<placeName key="PL000000034690">蜀郡<lb ed="T" n="0402a20"/>裴寺</placeName>。專好戒品，研心《十誦》，常恨蜀中無好<lb ed="T" n="0402a21"/>師宗。俄而<persName key="A002321">隱公</persName>至<placeName key="PL000000034777">蜀</placeName>，<persName key="A002326">琳</persName>乃剋己握錐，以日<lb ed="T" n="0402a22"/>兼夜。及<persName key="A002321">隱</persName>還<placeName key="PL000000042002">陝西</placeName>，復隨從數載。諸部毘尼，<lb ed="T" n="0402a23"/>洞盡心曲。後還蜀，止<placeName key="PL000000034691">靈建寺</placeName>。<placeName key="PL000000034806">益部</placeName>僧尼，無<lb ed="T" n="0402a24"/>不宗奉。</p><p>常祈心安養。每誦《無量壽》及<ptr target="fn05"/>《觀經》，<lb ed="T" n="0402a25"/>輒見一沙門形甚姝大，常在<persName key="A002326">琳</persName>前。至<date key="j19018981902251" from-iso="0495-02-12" to-iso="0496-01-31">齊建<lb ed="T" n="0402a26"/>武二年</date>，寢疾不愈，注念西方，禮懺不息，<lb ed="T" n="0402a27"/>見諸賢聖皆集目前。乃向弟子述其所見，<lb ed="T" n="0402a28"/>令死後焚身。言訖合掌而卒。即於<placeName key="PL000000034688">新繁路<lb ed="T" n="0402a29"/>口</placeName>積木燔屍，烟焰衝天，三日乃盡。收<ptr target="fn06"/>斂<lb ed="T" n="0402b01"/>遺骨，即於其處而起塔焉。</p>
     <linkGrp>
         <link targets="#0402a21 #0402a22"/>
         <ptr target="#A002326" type="person"/>
         <ptr target="#A002321" type="person"/>
-        <ptr target="#CN0510108Z03AA" type="place"/>
+        <ptr target="#PL000000034777" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0402a22 #0402a23"/>
         <ptr target="#A002326" type="person"/>
         <ptr target="#A002321" type="person"/>
-        <ptr target="#CN0610000E01AA" type="place"/>
+        <ptr target="#PL000000042002" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0402a19 #0402a20"/>
         <ptr target="#A002326" type="person"/>
-        <ptr target="#CN0510101T03AA" type="place"/>
+        <ptr target="#PL000000034690" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0402a23 #0402a24"/>
         <ptr target="#A002326" type="person"/>
-        <ptr target="#CN0510101T04AA" type="place"/>
+        <ptr target="#PL000000034691" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0402a25 #0402b01"/>
         <ptr target="#A002326" type="person"/>
-        <ptr target="#CN0510101A01AA" type="place"/>
+        <ptr target="#PL000000034688" type="place"/>
         <ptr target="#j19018981902251" type="time"/>
     </linkGrp>
 </div>

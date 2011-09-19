@@ -1,49 +1,49 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0852b11shiZongHe">
     <anchor n="T.50.2061.0852b11"/><head><date from-iso="0960-02-09" key="j20717322132856" to-iso="1127-06-18">宋</date>潭州延壽院<persName key="A012976">宗合</persName>傳（<persName key="A013003">道因</persName>）</head><p>
-<lb ed="T" n="0852b12"/><persName key="A012976">釋宗合</persName>，<placeName key="CN0350000E02AA">閩越</placeName>人也，遊嶽泛湘，以求知識焉。
+<lb ed="T" n="0852b12"/><persName key="A012976">釋宗合</persName>，<placeName key="PL000000017104">閩越</placeName>人也，遊嶽泛湘，以求知識焉。
 <lb ed="T" n="0852b13"/>其為僧也，介立而寡慾，群居終日，唯笑而已。
-<lb ed="T" n="0852b14"/><placeName key="CN0000000E44AA">南楚</placeName>之人且多信重。後居<placeName key="CN0430105T08AA">延壽院</placeName>，故諫議大
+<lb ed="T" n="0852b14"/><placeName key="PL000000000126">南楚</placeName>之人且多信重。後居<placeName key="PL000000028639">延壽院</placeName>，故諫議大
 <lb ed="T" n="0852b15"/>夫<persName key="A012979">賈公玼</persName>判軍府聞之，往謁見，言話不接。
 <lb ed="T" n="0852b16"/>輿人議曰「得道之人，豈入恒量度中耶？」<persName key="A012979">賈</persName>乃
 <lb ed="T" n="0852b17"/>堅請往文殊院<!--找不到此地-->住持。爾日登座，聊舉禪要
 <lb ed="T" n="0852b18"/>而散。明日，告眾曰：「有故暫出，諸賢不宜留
-<lb ed="T" n="0852b19"/>難。」其裝束若行脚狀，渡彭䗍，至<placeName key="CN0421102Z11AA">黃州</placeName>驛前，
+<lb ed="T" n="0852b19"/>難。」其裝束若行脚狀，渡彭䗍，至<placeName key="PL000000027963">黃州</placeName>驛前，
 <lb ed="T" n="0852b20"/>屹然立終。遐邇奔競觀禮。時馬鋪使臣為營
 <lb ed="T" n="0852b21"/>喪務，造塔於立終處，則<date from-iso="0969-01-26" key="j20750062075389" to-iso="0970-02-13">開寶二年</date>也，今號真
-<lb ed="T" n="0852b22"/>身院<!--找不到此地-->是歟。又澠池<placeName key="CN0411221T02AA">大安寺</placeName><persName key="A013003">釋道因</persName>，不知何
-<lb ed="T" n="0852b23"/>許人也。遊處<placeName key="CN0411221Z07AA">澠池</placeName>、<placeName key="CN0410301R01AA">瀍、㵎</placeName>之間，自言：「出家人
+<lb ed="T" n="0852b22"/>身院<!--找不到此地-->是歟。又澠池<placeName key="PL000000025048">大安寺</placeName><persName key="A013003">釋道因</persName>，不知何
+<lb ed="T" n="0852b23"/>許人也。遊處<placeName key="PL000000025055">澠池</placeName>、<placeName key="PL000000023537">瀍、㵎</placeName>之間，自言：「出家人
 <lb ed="T" n="0852b24"/>守儉，則少于人。與畜類為同行，則無是
 <lb ed="T" n="0852b25"/>非盈耳。」甞養一烏犬，出入起臥，不相忘捨。
 <lb ed="T" n="0852b26"/>每食以鐵鉢就火而炊，<anchor xml:id="beg0852003"/>麋<anchor xml:id="end0852003"/>熟，與犬同食。
 <lb ed="T" n="0852b27"/>或前或後，行止奇異，人莫能測。一旦僧亡，犬
-<lb ed="T" n="0852b28"/>亦坐斃。今<placeName key="CN0411221T02AA">大安寺</placeName>塑其像，而肉身兩存，<date key="j20746522077920" notAfter-iso="0977" notBefore-iso="0968">開寶</date>
-<lb ed="T" n="0852b29"/>中也。<placeName key="CN0410304Z03AA">洛下</placeName>崇信，香華滿龕焉。</p>
+<lb ed="T" n="0852b28"/>亦坐斃。今<placeName key="PL000000025048">大安寺</placeName>塑其像，而肉身兩存，<date key="j20746522077920" notAfter-iso="0977" notBefore-iso="0968">開寶</date>
+<lb ed="T" n="0852b29"/>中也。<placeName key="PL000000023602">洛下</placeName>崇信，香華滿龕焉。</p>
     <linkGrp>
         <link targets="#0852b14 #0852b17"/>
         <ptr target="#A012976" type="person"/>
         <ptr target="#A012979" type="person"/>
-        <ptr target="#CN0430105T08AA" type="place"/>
+        <ptr target="#PL000000028639" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0852b19 #0852b21"/>
         <ptr target="#A012976" type="person"/>
-        <ptr target="#CN0421102Z11AA" type="place"/>
+        <ptr target="#PL000000027963" type="place"/>
         <ptr target="#j20750062075389" type="time"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0852b22 #0852b24"/>
         <ptr target="#A013003" type="person"/>
-        <ptr target="#CN0411221T02AA" type="place"/>
+        <ptr target="#PL000000025048" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0852b22 #0852b24"/>
         <ptr target="#A013003" type="person"/>
-        <ptr target="#CN0411221Z07AA" type="place"/>
+        <ptr target="#PL000000025055" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0852b22 #0852b24"/>
         <ptr target="#A013003" type="person"/>
-        <ptr target="#CN0410301R01AA" type="place"/>
+        <ptr target="#PL000000023537" type="place"/>
     </linkGrp>
 </div>

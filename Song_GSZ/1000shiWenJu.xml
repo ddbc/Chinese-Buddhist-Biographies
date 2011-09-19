@@ -1,15 +1,15 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0808b09shiWenJu">
     <anchor n="T.50.2061.0808b09"/><head><date from-iso="0618-06-21" key="j19469512052491" to-iso="0907-06-06">唐</date>天台山國清寺<persName key="A011607">文舉</persName>傳</head><p>
-        <lb ed="T" n="0808b10"/><persName key="A011607">釋文舉</persName>，姓張氏，<placeName key="CN0330783Z08AA">婺州東陽</placeName>人也。年甫<anchor xml:id="beg0808001"/>至<anchor xml:id="end0808001"/>學，
+        <lb ed="T" n="0808b10"/><persName key="A011607">釋文舉</persName>，姓張氏，<placeName key="PL000000013615">婺州東陽</placeName>人也。年甫<anchor xml:id="beg0808001"/>至<anchor xml:id="end0808001"/>學，
 <lb ed="T" n="0808b11"/>遂投師請法。<date key="j20088712009236" from-iso="0788-01-01" to-iso="0788-12-31">十九</date>落䰂，始墮息慈。<date from-iso="0787-01-28" key="j20085332008916" to-iso="0788-02-15">貞元三
 <lb ed="T" n="0808b12"/>年</date>，勅度得戒。後十五年間，以《四分律》為學，
 <lb ed="T" n="0808b13"/>時術之，晝夜翹勤，遂登講訓。次通《法華經疏
         <lb ed="T" n="0808b14"/>義》，得<persName key="A001301">智者</persName>之膏腴焉。<persName key="A011607">舉</persName>身量六尺餘，其形
 <lb ed="T" n="0808b15"/>如山，其貌如玉，靜若止水，動如浮雲。目不
-<lb ed="T" n="0808b16"/>迴視，口無戲言，四威儀中，無非律範。<placeName key="CN0331023A04AA">丹丘</placeName>
+<lb ed="T" n="0808b16"/>迴視，口無戲言，四威儀中，無非律範。<placeName key="PL000000014380">丹丘</placeName>
 <lb ed="T" n="0808b17"/>二眾，仰為繩準。其奔走他方聽受者，與<persName key="A010413">佛窟
-<lb ed="T" n="0808b18"/>則公</persName>禪道並驅而相高也。尋勅為<placeName key="CN0331023T01AA">國清寺</placeName>大
+<lb ed="T" n="0808b18"/>則公</persName>禪道並驅而相高也。尋勅為<placeName key="PL000000014664">國清寺</placeName>大
 <lb ed="T" n="0808b19"/>德。先是<persName key="A001301">智者大師</persName>答<persName key="A004413">隋煬帝</persName>問，立七日金
 <lb ed="T" n="0808b20"/>光明道場<!--找不到此地-->，每年九月，遐邇征鎮侯伯差人送
 <lb ed="T" n="0808b21"/>供，事既無礙，黑白二眾無遠不屆，人纔填
@@ -21,7 +21,7 @@
     <linkGrp>
         <link targets="#0808b18 #0808b19"/>
         <ptr target="#A011607" type="person"/>
-        <ptr target="#CN0331023T01AA" type="place"/>
+        <ptr target="#PL000000014664" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0808b19 #0808b22"/>

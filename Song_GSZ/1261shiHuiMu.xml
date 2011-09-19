@@ -1,16 +1,16 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0895c25shiHuiMu">
     <anchor n="T.50.2061.0895c25"/><head><date from-iso="0618-06-21" key="j19469512052491" to-iso="0907-06-06">唐</date>越州明心院<persName key="A008816">慧沐</persName>傳</head><p>
-<lb ed="T" n="0895c26"/><persName key="A008816">釋慧沐</persName>，俗姓祝氏，即世<placeName key="CN0330681Z11AA">暨陽</placeName>人也，代為著
+<lb ed="T" n="0895c26"/><persName key="A008816">釋慧沐</persName>，俗姓祝氏，即世<placeName key="PL000000013376">暨陽</placeName>人也，代為著
 <lb ed="T" n="0895c27"/>姓。<persName key="A008816">沐</persName>幼沖之歲，家法嚴明，訓授儒經，欝成
 <lb ed="T" n="0895c28"/>造秀。將隨計吏，謁覺智寺<!--找不到此地--><persName key="A010478">契真禪師</persName>，即<app type="cb-app" xml:id="begd1e51521"/>諡<anchor xml:id="endd1e51521"/>
 <lb ed="T" n="0895c29"/><persName key="A008816">大觀</persName>者是也，因以微諷。<persName key="A008816">沐</persName>由茲開悟。明年<pb ed="T" n="0896a" xml:id="T50.2061.0896a"/>
-<lb ed="T" n="0896a01"/>剃度，乃詣<placeName key="CN0360103Z26AA">洪井</placeName>，禮<persName key="A013939">觀音禪師</persName>，頓了心契。<date key="j20373852037768" notAfter-iso="0867-02-12" notBefore-iso="0866-01-25">咸
-<lb ed="T" n="0896a02"/>通七載</date>，還歸<placeName key="CN0330681Z11AA">故鄉</placeName>，邑宰<persName key="A013940">韋公</persName>迺率信心者，
+<lb ed="T" n="0896a01"/>剃度，乃詣<placeName key="PL000000018628">洪井</placeName>，禮<persName key="A013939">觀音禪師</persName>，頓了心契。<date key="j20373852037768" notAfter-iso="0867-02-12" notBefore-iso="0866-01-25">咸
+<lb ed="T" n="0896a02"/>通七載</date>，還歸<placeName key="PL000000013376">故鄉</placeName>，邑宰<persName key="A013940">韋公</persName>迺率信心者，
 <lb ed="T" n="0896a03"/>造棲真院<!--找不到此地-->，四方禪客無遠不屆。廉使<persName key="A013941">裴延
 <lb ed="T" n="0896a04"/>魯</persName>召<persName key="A008816">沐</persName>，因營鑑水坊精舍<!--找不到此地-->成，還以坊為題
-<lb ed="T" n="0896a05"/>牓，既而居之，安而能遷。允<placeName key="CN0330283Z01AA">明州</placeName>掾<persName key="A013942">齊肇</persName>請，
-<lb ed="T" n="0896a06"/>住<placeName key="CN0331023M36AB">玉笥峯</placeName>，未久而卒。壽八十八，臘四十五，
+<lb ed="T" n="0896a05"/>牓，既而居之，安而能遷。允<placeName key="PL000000012470">明州</placeName>掾<persName key="A013942">齊肇</persName>請，
+<lb ed="T" n="0896a06"/>住<placeName key="PL000000014583">玉笥峯</placeName>，未久而卒。壽八十八，臘四十五，
 <lb ed="T" n="0896a07"/>則。<date key="j20492582049258" when-iso="0898-07-29">乾寧五年七月三日</date>也。</p>
     <linkGrp>
         <link targets="#0895c28 #0895c29"/>
@@ -21,13 +21,13 @@
         <link targets="#0895c29 #0896a01"/>
         <ptr target="#A008816" type="person"/>
         <ptr target="#A013939" type="person"/>
-        <ptr target="#CN0360103Z26AA" type="place"/>
+        <ptr target="#PL000000018628" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0896a01 #0896a03"/>
         <ptr target="#A008816" type="person"/>
         <ptr target="#A013940" type="person"/>
-        <ptr target="#CN0330681Z11AA" type="place"/>
+        <ptr target="#PL000000013376" type="place"/>
         <ptr target="#j20373852037768" type="time"/>
     </linkGrp>
     <linkGrp>
@@ -39,6 +39,6 @@
         <link targets="#0896a05 #0896a06"/>
         <ptr target="#A008816" type="person"/>
         <ptr target="#A013942" type="person"/>
-        <ptr target="#CN0331023M36AB" type="place"/>
+        <ptr target="#PL000000014583" type="place"/>
     </linkGrp>
 </div>

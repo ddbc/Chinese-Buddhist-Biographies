@@ -1,19 +1,19 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0392c23huiJin">
     <head><lb ed="X" n="0392c23"/>　　　　明　<persName key="A015654">慧進</persName>傳</head>
-    <p><anchor n="X.77.1524.0392c24"/><lb ed="X" n="0392c24"/><persName key="A015654">慧進</persName>。字<persName key="A015654">棲巖</persName>。號<persName key="A015654">止翁</persName>。山西霍州<placeName key="CN0140729Z10AA">靈石</placeName>人。姓宋氏。生于
+    <p><anchor n="X.77.1524.0392c24"/><lb ed="X" n="0392c24"/><persName key="A015654">慧進</persName>。字<persName key="A015654">棲巖</persName>。號<persName key="A015654">止翁</persName>。山西霍州<placeName key="PL000000004837">靈石</placeName>人。姓宋氏。生于
         <lb ed="X" n="0393a01"/><date from-iso="1355-01-22" to-iso="1356-02-09" key="j22159852216368">元至正乙未年</date>。幼稚諳習佛語。甫<date from-iso="1363-01-24" to-iso="1364-02-11" key="j22189092219292">九歲</date>。遭兵失恃怙。
         <lb ed="X" n="0393a02"/>編荊孝養祖父母。祖父母復沒於草莽。志慕出家。禮
-        <lb ed="X" n="0393a03"/>邑元大雲寺漸公。落髮執經。繇　<persName key="A003672">洪武</persName>新恩得度。入
-        <lb ed="X" n="0393a04"/><placeName key="CN0410204E02AA">汴</placeName>依古峯。究通華嚴宗旨。傍達唯識百法諸論。意解
+        <lb ed="X" n="0393a03"/>邑元<placeName key="PL000000004224">大雲寺</placeName><persName key="A020237">漸公</persName>。落髮執經。繇　<date from-iso="1368-01-31" to-iso="1375-09-08" key="j22207422223519"><persName key="A003672">洪武</persName>新恩得度</date>。入
+        <lb ed="X" n="0393a04"/><placeName key="PL000000023305">汴</placeName>依<persName key="A020252">古峯</persName>。究通華嚴宗旨。傍達唯識百法諸論。意解
         <lb ed="X" n="0393a05"/>心融。眾所欽服。遂得法主之稱。　<persName key="A000149">太宗</persName>皇帝知之。遣
-        <lb ed="X" n="0393a06"/>中官馳驛。召至<placeName key="CN0320105Z10AA">南京</placeName>。備問楞嚴大義。應對稱　旨。賜
-        <lb ed="X" n="0393a07"/>紫衣。命住<placeName key="CN0320114T01AA">天界寺</placeName>。選俊秀僧徒從學。更　命于<placeName key="CN0320102T02AA">靈谷</placeName>
-        <lb ed="X" n="0393a08"/>率高僧。篹修三藏法數。及隨　駕之<placeName key="CN0110102Z07AA">北京</placeName>。居<placeName key="CN0110100T01AA">海印寺</placeName>。
-        <lb ed="X" n="0393a09"/>被　詔。領袖天下僧眾。於<placeName key="CN0110101A06AA">大明門</placeName>外。修普度大齋。越
+        <lb ed="X" n="0393a06"/>中官馳驛。召至<placeName key="PL000000008891">南京</placeName>。備問楞嚴大義。應對稱　旨。賜
+        <lb ed="X" n="0393a07"/>紫衣。命住<placeName key="PL000000009061">天界寺</placeName>。選俊秀僧徒從學。更　命于<placeName key="PL000000008741">靈谷</placeName>
+        <lb ed="X" n="0393a08"/>率高僧。篹修三藏法數。及隨　駕之<placeName key="PL000000000323">北京</placeName>。居<placeName key="PL000000000243">海印寺</placeName>。
+        <lb ed="X" n="0393a09"/>被　詔。領袖天下僧眾。於<placeName key="PL000000000251">大明門</placeName>外。修普度大齋。越
         <lb ed="X" n="0393a10"/>月。演說三聚淨戒。利益幽顯。其斛頂旛竿。竝放異光。
         <lb ed="X" n="0393a11"/>　賜璽書金襴衣。陞左覺義。總督海內文學儒士高
-        <lb ed="X" n="0393a12"/>僧。於<placeName key="CN0110100T01AA">海印</placeName>經館。較大藏經。因奏。刊行藏教。以輔治化。
+        <lb ed="X" n="0393a12"/>僧。於<placeName key="PL000000000243">海印</placeName>經館。較大藏經。因奏。刊行藏教。以輔治化。
         <lb ed="X" n="0393a13"/>當述諸序。昭示遐遠。　上從之。親製經序十三篇。佛
         <lb ed="X" n="0393a14"/>菩薩贊[跳-兆+(乏-之+友)]十二篇。　召至香殿賜坐。賜梵相釋迦。刻
         <lb ed="X" n="0393a15"/>絲觀音。水晶數珠。七佛之偈。　諭曰。依是修行。陞左
@@ -25,14 +25,159 @@
         <lb ed="X" n="0393a21"/>精進。振乃宗風。以稱朕命。欽哉。　<date from-iso="1426-02-17" to-iso="1435-02-09" key="j22419432245222">宣德</date>紀元　<persName key="A006682">宣宗</persName>
         <lb ed="X" n="0393a22"/>皇帝。待以國老。　賜毗盧冠織金磨衲。　詔於內翰。
         <lb ed="X" n="0393a23"/>因多官并僧眾。對寫金字華嚴般若寶積涅槃四大
-        <lb ed="X" n="0393a24"/>部經。尚饍供饌飲竣。事灌頂淨覺大國師。奏請<placeName key="CN0110102T07AA">隆善</placeName>
+        <lb ed="X" n="0393a24"/>部經。尚饍供饌飲竣。事灌頂淨覺大國師。奏請<placeName key="PL000000000289">隆善</placeName>
         <lb ed="X" n="0393b01"/>開。講楞嚴會解。聽受緇素萬餘指。年彌高德彌邵。耳。
-        <lb ed="X" n="0393b02"/>目清明。顏貌奇古。性直而儉。道舊榮國恭靖姚公國
-        <lb ed="X" n="0393b03"/>師。譯主光公。講經隱峯琮公。<persName key="A000857">獨芳蓮</persName>公。月庭朗公。手
-        <lb ed="X" n="0393b04"/>度高弟。左闡教兼大興隆住山廣通。萬佛住山廣辯。
-        <lb ed="X" n="0393b05"/>雞鳴住山廣載。戒壇宗師廣嚴。學徒。左善世廣議。右
-        <lb ed="X" n="0393b06"/>覺義廣銘。承　旨講經道深。餘不盡舉。而其世壽八
+        <lb ed="X" n="0393b02"/>目清明。顏貌奇古。性直而儉。道舊<persName key="A001522">榮國恭靖姚公</persName>國
+        <lb ed="X" n="0393b03"/>師。譯主<persName key="A021679">光公</persName>。講經<persName key="A020251">隱峯琮</persName>公。<persName key="A000857">獨芳蓮</persName>公。<persName key="A020250">月庭朗</persName>公。手
+        <lb ed="X" n="0393b04"/>度高弟。左闡教兼<placeName key="PL000000000243">大興隆</placeName>住山<persName key="A020249">廣通</persName>。<placeName key="PL000000000431">萬佛</placeName>住山<persName key="A020241">廣辯</persName>。
+        <lb ed="X" n="0393b05"/><placeName key="PL000000002584">雞鳴</placeName>住山<persName key="A020248">廣載</persName>。<placeName key="PL000000000433">戒壇</placeName>宗師<persName key="A020247">廣嚴</persName>。學徒。左善世<persName key="A020245">廣議</persName>。右
+        <lb ed="X" n="0393b06"/>覺義<persName key="A020242">廣銘</persName>。承　旨講經道深。餘不盡舉。而其世壽八
         <lb ed="X" n="0393b07"/>十有二。僧臘七十有三。於<date from-iso="1436-07-23" to-iso="1436-08-20" key="j22457522245780">正統元年閏六月</date>。示寂于
-        <lb ed="X" n="0393b08"/><placeName key="CN0110100T01AA">慶壽</placeName>丈室。訃聞。上遣禮部諭祭。茶毗于<placeName key="CN0131128Z07AA">阜城</placeName>。舍利靈
-        <lb ed="X" n="0393b09"/>骨。立塔於<placeName key="CN1200000R02AA">渾河</placeName>之西。　勑賜<placeName key="CN0110109M02AA">萬佛山</placeName>之原。以褒異焉。</p>
+        <lb ed="X" n="0393b08"/><placeName key="PL000000000243">慶壽</placeName>丈室。訃聞。上遣禮部諭祭。茶毗于<placeName key="PL000000003617">阜城</placeName>。舍利靈
+        <lb ed="X" n="0393b09"/>骨。立塔於<placeName key="PL000000048190">渾河</placeName>之西。　勑賜<placeName key="PL000000000431">萬佛山</placeName>之原。以褒異焉。</p>
+    
+    <linkGrp>
+        <link targets="#0392c24 #0393a01"/>
+        <ptr target="#A015654" type="person"/>
+        <ptr target="#PL000000004837" type="place"/>
+        <ptr target="#j22159852216368" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0393a01 #0393a02"/>
+        <ptr target="#A015654" type="person"/>
+        <ptr target="#j22189092219292" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0393a02 #0393a03"/>
+        <ptr target="#A015654" type="person"/>
+        <ptr target="#A020237" type="person"/>
+        <ptr target="#PL000000004224" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0393a03 #0393a04"/>
+        <ptr target="#A015654" type="person"/>
+        <ptr target="#A020252" type="person"/>
+        <ptr target="#PL000000023305" type="place"/>
+        <ptr target="#j22207422223519" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0393a05 #0393a07"/>
+        <ptr target="#A015654" type="person"/>
+        <ptr target="#PL000000009061" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0393a05 #0393a08"/>
+        <ptr target="#A015654" type="person"/>
+        <ptr target="#PL000000008741" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0393a04 #0393a08"/>
+        <ptr target="#A015654" type="person"/>
+        <ptr target="#A000149" type="person"/>
+        <ptr target="#PL000000008891" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0393a08 #0393a17"/>
+        <ptr target="#A015654" type="person"/>
+        <ptr target="#A000149" type="person"/>
+        <ptr target="#PL000000000323" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0393a08 #0393a08"/>
+        <ptr target="#A015654" type="person"/>
+        <ptr target="#PL000000000243" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0393a09 #0393a10"/>
+        <ptr target="#A015654" type="person"/>
+        <ptr target="#PL000000000251" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0393a11 #0393a14"/>
+        <ptr target="#A015654" type="person"/>
+        <ptr target="#PL000000000243" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0393a16 #0393a21"/>
+        <ptr target="#A015654" type="person"/>
+        <ptr target="#A006678" type="person"/>
+        <ptr target="#j22415592241688" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0393a21 #0393a24"/>
+        <ptr target="#A015654" type="person"/>
+        <ptr target="#A006682" type="person"/>
+        <ptr target="#PL000000000323" type="place"/>
+        <ptr target="#j22419432245222" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0393a24 #0393b02"/>
+        <ptr target="#A015654" type="person"/>
+        <ptr target="#PL000000000289" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0393b02 #0393b03"/>
+        <ptr target="#A015654" type="person"/>
+        <ptr target="#A001522" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0393b02 #0393b03"/>
+        <ptr target="#A015654" type="person"/>
+        <ptr target="#A021679" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0393b02 #0393b03"/>
+        <ptr target="#A015654" type="person"/>
+        <ptr target="#A020251" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0393b02 #0393b03"/>
+        <ptr target="#A015654" type="person"/>
+        <ptr target="#A000857" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0393b02 #0393b03"/>
+        <ptr target="#A015654" type="person"/>
+        <ptr target="#A020250" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0393b04 #0393b04"/>
+        <ptr target="#A020249" type="person"/>
+        <ptr target="#PL000000000243" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0393b04 #0393b04"/>
+        <ptr target="#A020241" type="person"/>
+        <ptr target="#PL000000000431" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0393b05 #0393b05"/>
+        <ptr target="#A020248" type="person"/>
+        <ptr target="#PL000000002584" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0393b05 #0393b05"/>
+        <ptr target="#A020247" type="person"/>
+        <ptr target="#PL000000000433" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0393b03 #0393b05"/>
+        <ptr target="#A015654" type="person"/>
+        <ptr target="#A020249" type="person"/>
+        <ptr target="#A020241" type="person"/>
+        <ptr target="#A020248" type="person"/>
+        <ptr target="#A020247" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0393b05 #0393b06"/>
+        <ptr target="#A015654" type="person"/>
+        <ptr target="#A020245" type="person"/>
+        <ptr target="#A020242" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0393b06 #0393b08"/>
+        <ptr target="#A015654" type="person"/>
+        <ptr target="#PL000000000243" type="place"/>
+        <ptr target="#j22457522245780" type="time"/>
+    </linkGrp>
 </div>

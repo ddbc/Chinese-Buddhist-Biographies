@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0402b04guiYang">
     <head><lb ed="X" n="0402b04"/>　　　　唐　<persName key="A020283">龜洋</persName>．<persName key="A010743">佛手岩</persName>二師傳</head>
-    <p><anchor n="X.77.1524.0402b05"/><lb ed="X" n="0402b05"/><persName key="A020283">龜洋禪師慧忠</persName>。泉之<placeName key="CN0350322Z05AA">仙遊</placeName>陳氏子也。九歲出家。具戒
-        <lb ed="X" n="0402b06"/>後。杖錫觀方。謁草菴。問。何方來。師曰。六眸峰。菴曰。還
-        <lb ed="X" n="0402b07"/>見六眸否。師曰。患非重瞳。菴然之。留草菴十年。旋回
+    <p><anchor n="X.77.1524.0402b05"/><lb ed="X" n="0402b05"/><persName key="A020283">龜洋禪師慧忠</persName>。泉之<placeName key="PL000000017628">仙遊</placeName>陳氏子也。九歲出家。具戒
+        <lb ed="X" n="0402b06"/>後。杖錫觀方。謁<persName key="A020793">草菴</persName>。問。何方來。師曰。<placeName key="PL000000017568">六眸峰</placeName>。<persName key="A020793">菴</persName>曰。還
+        <lb ed="X" n="0402b07"/>見<placeName key="PL000000017568">六眸</placeName>否。師曰。患非重瞳。菴然之。留草菴十年。旋回
         <lb ed="X" n="0402b08"/>故山。屬<date from-iso="0840-02-14" to-iso="0846-04-25" key="j20279082030170"><persName key="A006570">唐武宗</persName>廢教</date>。及<date from-iso="0846-04-26" to-iso="0847-02-09" key="j20301712030460"><persName key="A003667">宣宗</persName>詔興</date>之。師曰。仙去者。未
         <lb ed="X" n="0402b09"/>必受籙。佛去者。未必須僧。遂過中不食。不宇而禪。迹
         <lb ed="X" n="0402b10"/>不出山者。三十餘年。述三偈以自見曰。雪後始知松
@@ -16,18 +16,64 @@
         <lb ed="X" n="0402b17"/>揣懷袖中無難。未知者。怖駭棄去。但諦見自心。情見
         <lb ed="X" n="0402b18"/>便破。今千疑萬慮不得用。是未見自心也。一日。忽索
         <lb ed="X" n="0402b19"/>香焚罷。安坐而化。全身葬於<persName key="A014171">無了</persName>禪師塔之東隅二
-        <lb ed="X" n="0402b20"/>百步。目為東塔。後數年。塔忽坼裂。主塔者。將發視之。
+        <lb ed="X" n="0402b20"/>百步。目為<placeName key="PL000000017575">東塔</placeName>。後數年。塔忽坼裂。主塔者。將發視之。
         <lb ed="X" n="0402b21"/>夜寂中見<persName key="A014171">無了</persName>。曰。不必更發也。今為沈陳二真身。沈
         <lb ed="X" n="0402b22"/><persName key="A014171">無了</persName>姓。見<persName key="A003623">馬祖</persName>。</p><p>
-            <lb ed="X" n="0402b23"/><persName key="A010743">佛手岩行因</persName>者。<placeName key="CN0140923Z21AA">鴈門</placeName>人。未詳姓氏。少習儒。捨俗出家。
-            <lb ed="X" n="0402b24"/>遂雲遊。首謁鹿門真公。言下有省。尋抵<placeName key="CN0340001D01AA">江淮</placeName>。登<placeName key="CN0360402M01AA">廬山</placeName>。
+            <lb ed="X" n="0402b23"/><persName key="A010743">佛手岩行因</persName>者。<placeName key="PL000000005471">鴈門</placeName>人。未詳姓氏。少習儒。捨俗出家。
+            <lb ed="X" n="0402b24"/>遂雲遊。首謁<persName key="A020795">鹿門真</persName>公。言下有省。尋抵<placeName key="PL000000015039">江淮</placeName>。登<placeName key="PL000000018775">廬山</placeName>。
         <lb ed="X" n="0402c01"/>山北有岩如五指。下石窟可三丈餘。師宴處其中。因
             <lb ed="X" n="0402c02"/>號<persName key="A010743">佛手岩</persName>和尚。不度弟子。有鄰菴僧。為供侍。常有異
-            <lb ed="X" n="0402c03"/>鹿錦囊烏馴遶其側。<persName key="A006601">江南李主</persName>。三詔不起。堅請就<placeName key="CN0360427T03AA">棲<lb ed="X" n="0402c04"/>賢</placeName>開法。不逾月。仍潛歸岩室。<persName key="A001673">寂音</persName>為之贊曰。淮山深
+            <lb ed="X" n="0402c03"/>鹿錦囊烏馴遶其側。<persName key="A006601">江南李主</persName>。三詔不起。堅請就<placeName key="PL000000018961">棲<lb ed="X" n="0402c04"/>賢</placeName>開法。不逾月。仍潛歸岩室。<persName key="A001673">寂音</persName>為之贊曰。淮山深
         <lb ed="X" n="0402c05"/>處。容我卓錫。樹下經行。岩間宴寂。六十餘年。脇不至
         <lb ed="X" n="0402c06"/>席。天子三詔。掉頭不應。知不可致。南向加敬。山搖海
         <lb ed="X" n="0402c07"/>驚。天空地逈。後代兒孫。則反於是。如乳中蟲。貪著世
         <lb ed="X" n="0402c08"/>味。我尋其跡。為隕涕淚。師後下禪床行數步。屹立而
         <lb ed="X" n="0402c09"/>化。岩頂有松一株。同日枯瘁。壽七十餘。岩之陰。骨塔
             <lb ed="X" n="0402c10"/>存焉(二師皆<persName key="A009449">曹山</persName>嫡孫)。</p>
+    
+    <linkGrp>
+        <link targets="#0402b05 #0402b05"/>
+        <ptr target="#A020283" type="person"/>
+        <ptr target="#PL000000017628" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0402b05 #0402b06"/>
+        <ptr target="#A020283" type="person"/>
+        <ptr target="#PL000000017568" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0402b05 #0402b08"/>
+        <ptr target="#A020283" type="person"/>
+        <ptr target="#A020793" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0402b07 #0402b10"/>
+        <ptr target="#A020283" type="person"/>
+        <ptr target="#j20279082030170" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0402b23 #0402b23"/>
+        <ptr target="#A010743" type="person"/>
+        <ptr target="#PL000000005471" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0402b23 #0402b24"/>
+        <ptr target="#A010743" type="person"/>
+        <ptr target="#A020795" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0402b24 #0402c04"/>
+        <ptr target="#A010743" type="person"/>
+        <ptr target="#PL000000018775" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0402c03 #0402c04"/>
+        <ptr target="#A010743" type="person"/>
+        <ptr target="#A006601" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0402c03 #0402c04"/>
+        <ptr target="#A010743" type="person"/>
+        <ptr target="#PL000000018961" type="place"/>
+    </linkGrp>
 </div>

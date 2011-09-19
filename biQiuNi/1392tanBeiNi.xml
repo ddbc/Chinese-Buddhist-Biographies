@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="bqnz0935c21kangMingGanNi">
-    <head>北<placeName key="CN0320106T36AA">永安寺</placeName><persName key="A014781">曇備</persName>尼傳六</head>
-    <p><anchor n="T.50.2063.0935c22"/><lb ed="T" n="0935c22"/><persName key="A014781">曇備</persName>，本姓陶，丹陽<placeName key="CN0320106Z06AA">建康</placeName>人也。少有清信，願修<lb ed="T" n="0935c23"/>正法。而無有昆<ptr target="fn32"/>弟，獨與母居，事母恭孝，宗<lb ed="T" n="0935c24"/>黨稱之。年及笄嫁，<ptr target="fn33"/>徵<ptr target="fn34"/>幣弗許。母不能違，聽<lb ed="T" n="0935c25"/>其離俗。精懃戒行，日夜無怠。<persName key="A002723">晉穆皇帝</persName>禮接<lb ed="T" n="0935c26"/>敬厚，<ptr target="fn35"/>常稱曰：「久看更佳。」謂<persName key="A014794">章皇后何氏</persName>曰：「<lb ed="T" n="0935c27"/><placeName key="CN0320106Z06AA">京邑</placeName>比丘尼，尠有<persName key="A014781">曇備</persName><ptr target="fn36"/>之儔也。」到<date key="j18503961850750" notAfter-iso="0355-01-30" notBefore-iso="0354-02-10">永和十年</date>，<lb ed="T" n="0935c28"/><persName key="A014794">后</persName><ptr target="fn37"/>為<ptr target="fn38"/>立寺于<placeName key="CN0320106A08AA">定陰里</placeName>，<ptr target="fn39"/>名<placeName key="CN0320106T36AA">永安</placeName>(今<ptr target="fn40"/>之<placeName key="CN0320106T36AA">何后寺</placeName><ptr target="fn41"/>是)。謙<lb ed="T" n="0935c29"/>虛導物，未嘗有矜慢之容。名譽日廣，遠<ptr target="fn42"/>近<lb ed="T" n="0936a01"/>投集，眾三百人。年七十<ptr target="fn1"/>三，<date key="j18657231866007" notAfter-iso="0396-11-07" notBefore-iso="0396-01-28">泰元二十一年</date><lb ed="T" n="0936a02"/>卒。</p>
+    <head>北<placeName key="PL000000008961">永安寺</placeName><persName key="A014781">曇備</persName>尼傳六</head>
+    <p><anchor n="T.50.2063.0935c22"/><lb ed="T" n="0935c22"/><persName key="A014781">曇備</persName>，本姓陶，丹陽<placeName key="PL000000008976">建康</placeName>人也。少有清信，願修<lb ed="T" n="0935c23"/>正法。而無有昆<ptr target="fn32"/>弟，獨與母居，事母恭孝，宗<lb ed="T" n="0935c24"/>黨稱之。年及笄嫁，<ptr target="fn33"/>徵<ptr target="fn34"/>幣弗許。母不能違，聽<lb ed="T" n="0935c25"/>其離俗。精懃戒行，日夜無怠。<persName key="A002723">晉穆皇帝</persName>禮接<lb ed="T" n="0935c26"/>敬厚，<ptr target="fn35"/>常稱曰：「久看更佳。」謂<persName key="A014794">章皇后何氏</persName>曰：「<lb ed="T" n="0935c27"/><placeName key="PL000000008976">京邑</placeName>比丘尼，尠有<persName key="A014781">曇備</persName><ptr target="fn36"/>之儔也。」到<date key="j18503961850750" notAfter-iso="0355-01-30" notBefore-iso="0354-02-10">永和十年</date>，<lb ed="T" n="0935c28"/><persName key="A014794">后</persName><ptr target="fn37"/>為<ptr target="fn38"/>立寺于<placeName key="PL000000008914">定陰里</placeName>，<ptr target="fn39"/>名<placeName key="PL000000008961">永安</placeName>(今<ptr target="fn40"/>之<placeName key="PL000000008961">何后寺</placeName><ptr target="fn41"/>是)。謙<lb ed="T" n="0935c29"/>虛導物，未嘗有矜慢之容。名譽日廣，遠<ptr target="fn42"/>近<lb ed="T" n="0936a01"/>投集，眾三百人。年七十<ptr target="fn1"/>三，<date key="j18657231866007" notAfter-iso="0396-11-07" notBefore-iso="0396-01-28">泰元二十一年</date><lb ed="T" n="0936a02"/>卒。</p>
     <p>弟子<persName key="A014801">曇羅</persName>，博覽經<ptr target="fn2"/>律，機才贍密，勅續師<lb ed="T" n="0936a03"/>任。更立四層塔，講堂房宇，又造臥像及七佛<lb ed="T" n="0936a04"/>龕堂<ptr target="fn＊"/>云。</p>
     
     <linkGrp>
@@ -19,13 +19,13 @@
         <ptr target="#A014781" type="person"/>
         <ptr target="#A002723" type="person"/>
         <ptr target="#A014794" type="person"/>
-        <ptr target="#CN0320106Z06AA" type="place"/>
+        <ptr target="#PL000000008976" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0935c27 #0935c28"/>
         <ptr target="#A014781" type="person"/>
         <ptr target="#A014794" type="person"/>
-        <ptr target="#CN0320106T36AA" type="place"/>
+        <ptr target="#PL000000008961" type="place"/>
         <ptr target="#j18503961850750" type="time"/>
     </linkGrp>
 </div>

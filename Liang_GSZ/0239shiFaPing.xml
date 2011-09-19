@@ -1,19 +1,19 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0413c14shiFaPing">
-    <p><anchor n="T.50.2059.0413c14"/><lb ed="T" n="0413c14"/><persName key="A003465">釋法平</persName>，姓康，<placeName key="UZTO00000E01AA">康居</placeName>人。寓居<placeName key="CN0320106Z06AA">建業</placeName>。與弟<persName key="A003466">法等</persName><lb ed="T" n="0413c15"/>俱出家，止<placeName key="CN0320101T49AA">白馬寺</placeName>。為<persName key="A002373">曇籥</persName>弟子，共傳<persName key="A002373">師</persName>業。<lb ed="T" n="0413c16"/>響韻清雅，運轉無方。後兄弟同移<placeName key="CN0320116T04AA">祇洹</placeName>，<persName key="A003466">弟</persName>貌<lb ed="T" n="0413c17"/>小醜，而聲踰於<persName key="A003465">兄</persName>。宋大將軍<!--疑為"王義康"-->於東府<ptr target="fn34"/>設齋，<lb ed="T" n="0413c18"/>一往以貌輕之。及聞披卷三契，便扼腕神<lb ed="T" n="0413c19"/>服，乃歎曰：「以貌取人，失之<persName key="A003467">子羽</persName>，信矣。」後<placeName key="CN0320115T63AA">東<lb ed="T" n="0413c20"/>安</placeName><persName key="A001741">嚴公</persName>發講，等作三契經竟，<persName key="A001741">嚴</persName>徐動麈尾<lb ed="T" n="0413c21"/>曰：「如此讀經，亦不減發講。」遂散席。明更開<lb ed="T" n="0413c22"/>題，議者以為相成之道也。<persName key="A003465">兄</persName><persName key="A003466">弟</persName>並以<date key="j18761761886925" notAfter-iso="0454" notBefore-iso="0424">元嘉</date>末<lb ed="T" n="0413c23"/>卒。</p>
+    <p><anchor n="T.50.2059.0413c14"/><lb ed="T" n="0413c14"/><persName key="A003465">釋法平</persName>，姓康，<placeName key="PL000000055089">康居</placeName>人。寓居<placeName key="PL000000008976">建業</placeName>。與弟<persName key="A003466">法等</persName><lb ed="T" n="0413c15"/>俱出家，止<placeName key="PL000000008691">白馬寺</placeName>。為<persName key="A002373">曇籥</persName>弟子，共傳<persName key="A002373">師</persName>業。<lb ed="T" n="0413c16"/>響韻清雅，運轉無方。後兄弟同移<placeName key="PL000000009267">祇洹</placeName>，<persName key="A003466">弟</persName>貌<lb ed="T" n="0413c17"/>小醜，而聲踰於<persName key="A003465">兄</persName>。宋大將軍<!--疑為"王義康"-->於東府<ptr target="fn34"/>設齋，<lb ed="T" n="0413c18"/>一往以貌輕之。及聞披卷三契，便扼腕神<lb ed="T" n="0413c19"/>服，乃歎曰：「以貌取人，失之<persName key="A003467">子羽</persName>，信矣。」後<placeName key="PL000000009195">東<lb ed="T" n="0413c20"/>安</placeName><persName key="A001741">嚴公</persName>發講，等作三契經竟，<persName key="A001741">嚴</persName>徐動麈尾<lb ed="T" n="0413c21"/>曰：「如此讀經，亦不減發講。」遂散席。明更開<lb ed="T" n="0413c22"/>題，議者以為相成之道也。<persName key="A003465">兄</persName><persName key="A003466">弟</persName>並以<date key="j18761761886925" notAfter-iso="0454" notBefore-iso="0424">元嘉</date>末<lb ed="T" n="0413c23"/>卒。</p>
     
     <linkGrp>
         <link targets="#0413c14 #0413c15"/>
         <ptr target="#A003465" type="person"/>
         <ptr target="#A003466" type="person"/>
         <ptr target="#A002373" type="person"/>
-        <ptr target="#CN0320101T49AA" type="place"/>
+        <ptr target="#PL000000008691" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0413c16 #0413c16"/>
         <ptr target="#A003465" type="person"/>
         <ptr target="#A003466" type="person"/>
-        <ptr target="#CN0320116T04AA" type="place"/>
+        <ptr target="#PL000000009267" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0413c22 #0413c23"/>

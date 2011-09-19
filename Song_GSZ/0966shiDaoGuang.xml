@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0797a08shiDaoGuang">
     <anchor n="T.50.2061.0797a08"/><head><date from-iso="0618-06-21" key="j19469512052491" to-iso="0907-06-06">唐</date>杭州華嚴寺<persName key="A010882">道光</persName>傳</head><p>
-<lb ed="T" n="0797a09"/><persName key="A010882">釋道光</persName>，姓禇氏，喻齓出家。方冠受具，詣<placeName key="CN0411526Z16AA">光
+<lb ed="T" n="0797a09"/><persName key="A010882">釋道光</persName>，姓禇氏，喻齓出家。方冠受具，詣<placeName key="PL000000025908">光
     <lb ed="T" n="0797a10"/>州</placeName><ref type="person" target="#A008876">和尚</ref>學通毘尼。<app type="multiplier" xml:id="begd1e24198"/>於<anchor xml:id="endd1e24198"/>時夏淺德崇，壇場屬
 <lb ed="T" n="0797a11"/>望，蓋天賚真士，為東南義虎，雲雨慈昧，笙
 <lb ed="T" n="0797a12"/>鏞道聲。<persName key="A010882">光</persName>持《法華經》，創塔廟，洎沒身不怠
@@ -20,7 +20,7 @@
         <link targets="#0797a09 #0797a10"/>
         <ptr target="#A010882" type="person"/>
         <ptr target="#A008876" type="person"/>
-        <ptr target="#CN0411526Z16AA" type="place"/>
+        <ptr target="#PL000000025908" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0797a22 #0797a22"/>

@@ -1,28 +1,28 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0910c03shiJuJing">
-  <p><anchor n="T.50.2062.0910c03"/><lb ed="T" n="0910c03"/><persName key="A008281">釋居敬</persName>字<persName key="A008281">心淵</persName>別號<persName key="A008281">蘭雪</persName>。學通內外善屬文<lb ed="T" n="0910c04"/>精嚴律部。禮金陵<placeName key="CN0320104T01AA">大報恩寺</placeName><persName key="A008282">一雨和尚</persName>職<lb ed="T" n="0910c05"/>知客。後參杭州<placeName key="CN0330106T16AA">集慶寺</placeName><persName key="A008283">東源法師</persName>。於懺摩<lb ed="T" n="0910c06"/>堂居第一座。從而講周易<!--經名ID -->。<date from-iso="1403" key="j22335262235534" to-iso="1408">永樂初</date>奉。<lb ed="T" n="0910c07"/>詔校大藏經<!--經名ID -->預修會典。已而住持上海<placeName key="CN0310101T02AA">廣<lb ed="T" n="0910c08"/>福講寺</placeName>。遷松江<placeName key="CN0310117T01AA">普照</placeName>大開法席一十三載。<lb ed="T" n="0910c09"/>建大雄殿<!--找不到此地-->海月堂<!--找不到此地-->三解脫門。廊廡重軒精舍<lb ed="T" n="0910c10"/>香積煥然新之。七眾瞻仰道風大扇。</p>
+  <p><anchor n="T.50.2062.0910c03"/><lb ed="T" n="0910c03"/><persName key="A008281">釋居敬</persName>字<persName key="A008281">心淵</persName>別號<persName key="A008281">蘭雪</persName>。學通內外善屬文<lb ed="T" n="0910c04"/>精嚴律部。禮金陵<placeName key="PL000000008822">大報恩寺</placeName><persName key="A008282">一雨和尚</persName>職<lb ed="T" n="0910c05"/>知客。後參杭州<placeName key="PL000000011638">集慶寺</placeName><persName key="A008283">東源法師</persName>。於懺摩<lb ed="T" n="0910c06"/>堂居第一座。從而講周易<!--經名ID -->。<date from-iso="1403" key="j22335262235534" to-iso="1408">永樂初</date>奉。<lb ed="T" n="0910c07"/>詔校大藏經<!--經名ID -->預修會典。已而住持上海<placeName key="PL000000008381">廣<lb ed="T" n="0910c08"/>福講寺</placeName>。遷松江<placeName key="PL000000008462">普照</placeName>大開法席一十三載。<lb ed="T" n="0910c09"/>建大雄殿<!--找不到此地-->海月堂<!--找不到此地-->三解脫門。廊廡重軒精舍<lb ed="T" n="0910c10"/>香積煥然新之。七眾瞻仰道風大扇。</p>
   <linkGrp>
     <link targets="#0910c04 #0910c05"/>
     <ptr target="#A008281" type="person"/>
     <ptr target="#A008282" type="person"/>
-    <ptr target="#CN0320104T01AA" type="place"/>
+    <ptr target="#PL000000008822" type="place"/>
   </linkGrp>
   <linkGrp>
     <link targets="#0910c05 #0910c06"/>
     <ptr target="#A008281" type="person"/>
     <ptr target="#A008283" type="person"/>
-    <ptr target="#CN0330106T16AA" type="place"/>
+    <ptr target="#PL000000011638" type="place"/>
   </linkGrp>
   <linkGrp>
     <link targets="#0910c06 #0910c08"/>
     <ptr target="#A008281" type="person"/>
-    <ptr target="#CN0310101T02AA" type="place"/>
+    <ptr target="#PL000000008381" type="place"/>
     <ptr target="#j22335262235534" type="time"/>
   </linkGrp>
   <linkGrp>
     <link targets="#0910c08 #0910c08"/>
     <ptr target="#A008281" type="person"/>
-    <ptr target="#CN0310117T01AA" type="place"/>
+    <ptr target="#PL000000008462" type="place"/>
     <ptr target="#j22335262235534" type="time"/>
   </linkGrp>
 </div>

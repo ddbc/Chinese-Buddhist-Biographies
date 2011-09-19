@@ -1,20 +1,20 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0465b23shiFaLing">
-    <head><placeName key="CN0320102T15AA">梁鍾山上定林寺</placeName>沙門<persName key="A003069">釋法令</persName>傳十一</head><p><anchor n="T.50.2060.0465b23"/><lb ed="T" n="0465b23"/><persName key="A003069">釋法令</persName>。姓董氏。未詳何人。家遭世禍因寓<lb ed="T" n="0465b24"/><placeName key="CN0320106Z05AA">建康</placeName>。少出家住<placeName key="CN0320102T15AA">定林上寺</placeName>。立操貞堅廉和寡<lb ed="T" n="0465b25"/>欲。博覽經論多所通達。善涅槃大小品。尤<lb ed="T" n="0465b26"/>精法華阿毘曇心。登師子座發無畏辯。先<lb ed="T" n="0465b27"/>標綱要却泒條流。言約旨遠馳名<placeName key="CN0320106Z05AA">京</placeName>學。兼<lb ed="T" n="0465b28"/>好禪寂以息攀緣。但多<ptr target="fn12"/>疹瘵亟為廢替。自<lb ed="T" n="0465b29"/>責先身執相分別起諸違害今受殃咎。因<lb ed="T" n="0465c01"/>誦大品一部用<ptr target="fn13"/>祛封滯。清淨調和隨從梵<lb ed="T" n="0465c02"/>行。足不下山三十三<ptr target="fn14"/>載。葷辛不食弊衣畢<lb ed="T" n="0465c03"/>世。以<date key="j19059141906267" from-iso="0506-02-11" to-iso="0507-01-30">天監五年</date>卒。春秋六十有九。時<placeName key="CN0320102T15AA">寺</placeName>復<lb ed="T" n="0465c04"/>有<persName key="A003070">慧泰</persName><persName key="A005046">慧纂</persName>。並以學聞。<persName key="A003070">泰</persName><ptr target="fn15"/>剋己修身篤<lb ed="T" n="0465c05"/>勤禪智偏能談授。<persName key="A005046">纂</persName>心性清率不<ptr target="fn16"/>務形<lb ed="T" n="0465c06"/>骸。貞實抱素雅有國士之器。</p>
+    <head><placeName key="PL000000008754">梁鍾山上定林寺</placeName>沙門<persName key="A003069">釋法令</persName>傳十一</head><p><anchor n="T.50.2060.0465b23"/><lb ed="T" n="0465b23"/><persName key="A003069">釋法令</persName>。姓董氏。未詳何人。家遭世禍因寓<lb ed="T" n="0465b24"/><placeName key="PL000000008975">建康</placeName>。少出家住<placeName key="PL000000008754">定林上寺</placeName>。立操貞堅廉和寡<lb ed="T" n="0465b25"/>欲。博覽經論多所通達。善涅槃大小品。尤<lb ed="T" n="0465b26"/>精法華阿毘曇心。登師子座發無畏辯。先<lb ed="T" n="0465b27"/>標綱要却泒條流。言約旨遠馳名<placeName key="PL000000008975">京</placeName>學。兼<lb ed="T" n="0465b28"/>好禪寂以息攀緣。但多<ptr target="fn12"/>疹瘵亟為廢替。自<lb ed="T" n="0465b29"/>責先身執相分別起諸違害今受殃咎。因<lb ed="T" n="0465c01"/>誦大品一部用<ptr target="fn13"/>祛封滯。清淨調和隨從梵<lb ed="T" n="0465c02"/>行。足不下山三十三<ptr target="fn14"/>載。葷辛不食弊衣畢<lb ed="T" n="0465c03"/>世。以<date key="j19059141906267" from-iso="0506-02-11" to-iso="0507-01-30">天監五年</date>卒。春秋六十有九。時<placeName key="PL000000008754">寺</placeName>復<lb ed="T" n="0465c04"/>有<persName key="A003070">慧泰</persName><persName key="A005046">慧纂</persName>。並以學聞。<persName key="A003070">泰</persName><ptr target="fn15"/>剋己修身篤<lb ed="T" n="0465c05"/>勤禪智偏能談授。<persName key="A005046">纂</persName>心性清率不<ptr target="fn16"/>務形<lb ed="T" n="0465c06"/>骸。貞實抱素雅有國士之器。</p>
     <linkGrp>
         <link targets="#0465b23 #0465b24"/>
         <ptr target="#A003069" type="person"/>
-        <ptr target="#CN0320106Z05AA" type="place"/>
+        <ptr target="#PL000000008975" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0465b24 #0465c02"/>
         <ptr target="#A003069" type="person"/>
-        <ptr target="#CN0320102T15AA" type="place"/>
+        <ptr target="#PL000000008754" type="place"/>
         </linkGrp>
     <linkGrp>
         <link targets="#0465c03 #0465c03"/>
         <ptr target="#A003069" type="person"/>
-        <ptr target="#CN0320102T15AA" type="place"/>
+        <ptr target="#PL000000008754" type="place"/>
         <ptr target="#j19059141906267" type="time"/>
     </linkGrp>
     <linkGrp>
@@ -22,6 +22,6 @@
         <ptr target="#A003069" type="person"/>
         <ptr target="#A003070" type="person"/>
         <ptr target="#A005046" type="person"/>
-        <ptr target="#CN0320102T15AA" type="place"/>
+        <ptr target="#PL000000008754" type="place"/>
         </linkGrp>
 </div>

@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0420b21daoYuan">
-    <head><lb ed="X" n="0420b21"/>　　　　南安<placeName key="unknown">雲封寺</placeName><persName key="A020708">圓禪師</persName>傳</head>
-    <p><anchor n="X.77.1524.0420b22"/><lb ed="X" n="0420b22"/><persName key="A020708">道圓</persName>。<placeName key="CN0440282Z16AA">南雄</placeName>人也。性純至。少游方。雖飽參未大通透。聞
-        <lb ed="X" n="0420b23"/><persName key="A003921">南禪師</persName>居黃檗<placeName key="unknown">積翠菴</placeName>。往依之。一日燕坐下板。聞兩
+    <head><lb ed="X" n="0420b21"/>　　　　<placeName key="PL000000019183">南安</placeName><placeName key="PL000000030695">雲封寺</placeName><persName key="A020708">圓禪師</persName>傳</head>
+    <p><anchor n="X.77.1524.0420b22"/><lb ed="X" n="0420b22"/><persName key="A020708">道圓</persName>。<placeName key="PL000000030711">南雄</placeName>人也。性純至。少游方。雖飽參未大通透。聞
+        <lb ed="X" n="0420b23"/><persName key="A003921">南禪師</persName>居黃檗<placeName key="PL000000019689">積翠菴</placeName>。往依之。一日燕坐下板。聞兩
         <lb ed="X" n="0420b24"/>僧舉百丈野狐因緣。一僧曰。只如不昧因果也。未脫
         <lb ed="X" n="0420c01"/>得野狐身。一僧應聲曰。便是不落因果。亦何曾墮野
         <lb ed="X" n="0420c02"/>狐身耶。<persName key="A020708">圓</persName>悚然。異其語。不覺身起上菴頭。過[澗-日+月]忽大
@@ -12,5 +12,22 @@
         <lb ed="X" n="0420c06"/>毛隊。<persName key="A003921">南</persName>公大笑。久之。又作風幡偈曰。不是風兮不是
         <lb ed="X" n="0420c07"/>幡。白雲依舊覆青山。年來老大渾無力。偷得忙中些
         <lb ed="X" n="0420c08"/>子閒。<persName key="A007526">雲菴</persName>老人。常手疏此二偈。大稱賞之。謂其機鋒
-        <lb ed="X" n="0420c09"/>不減<persName key="A014442">英邵武</persName>。後出世住大庾<placeName key="unknown">雲封寺</placeName>。莫知所終。</p>
+        <lb ed="X" n="0420c09"/>不減<persName key="A014442">英邵武</persName>。後出世住<placeName key="PL000000030691">大庾</placeName><placeName key="PL000000030695">雲封寺</placeName>。莫知所終。</p>
+    
+    <linkGrp>
+        <link targets="#0420b22 #0420b22"/> 
+        <ptr target="#A020708" type="person"/> 
+        <ptr target="#PL000000030711" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0420b22 #0420c07"/> 
+        <ptr target="#A020708" type="person"/> 
+        <ptr target="#A003921" type="person"/> 
+        <ptr target="#PL000000019689" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0420c09 #0420c09"/> 
+        <ptr target="#A020708" type="person"/> 
+        <ptr target="#PL000000030695" type="place"/>
+    </linkGrp>
 </div>

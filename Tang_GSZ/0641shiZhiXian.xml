@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0664b20shiZhiXian">
-    <p><anchor n="T.50.2060.0664b20"/><lb ed="T" n="0664b20"/><persName key="A007007">釋智顯</persName>。住遼州<placeName key="CN0140722T01AA">護明寺</placeName>。少出家。戒操貞峻<lb ed="T" n="0664b21"/>立操耿介。勇銳居懷。聞川聞見莫不高賞。<lb ed="T" n="0664b22"/>專務坐禪。人不知其所詣。<date key="j19434961946884" notAfter-iso="0618" notBefore-iso="0609">隋末</date>賊起。川原<lb ed="T" n="0664b23"/>交陣相推不已。動經旬朔。<persName key="A007007">顯</persName>於兩陣以道<lb ed="T" n="0664b24"/>和通。往返彌時。俱隨和散。合郡同嘉。敬而<lb ed="T" n="0664b25"/>重<persName key="A007007">之</persName>。後與道俗十餘行值<placeName key="MN073HO00E01AA">突厥</placeName>。并被驅掠。<lb ed="T" n="0664b26"/><persName key="A007007">顯</persName>遂隱身不見。後訪得問。云我念<persName key="A002803">觀音</persName>不<lb ed="T" n="0664b27"/>值賊。有同學在<placeName key="CN0140722M01AA">箕山</placeName>守靜。獵者奪糧頓盡。<lb ed="T" n="0664b28"/><persName key="A007007">顯</persName>遠知之使人送米。其通幽解網非可究<lb ed="T" n="0664b29"/>也。而任吹虛舟無所拘礙。每有苦處輒往<lb ed="T" n="0664c01"/>救拔。是知大悲攝濟隨方利生。雖行位<ptr target="fn02"/>殊<lb ed="T" n="0664c02"/>倫。而心焉靡異。不測其終。</p>
+    <p><anchor n="T.50.2060.0664b20"/><lb ed="T" n="0664b20"/><persName key="A007007">釋智顯</persName>。住遼州<placeName key="PL000000004683">護明寺</placeName>。少出家。戒操貞峻<lb ed="T" n="0664b21"/>立操耿介。勇銳居懷。聞川聞見莫不高賞。<lb ed="T" n="0664b22"/>專務坐禪。人不知其所詣。<date key="j19434961946884" notAfter-iso="0618" notBefore-iso="0609">隋末</date>賊起。川原<lb ed="T" n="0664b23"/>交陣相推不已。動經旬朔。<persName key="A007007">顯</persName>於兩陣以道<lb ed="T" n="0664b24"/>和通。往返彌時。俱隨和散。合郡同嘉。敬而<lb ed="T" n="0664b25"/>重<persName key="A007007">之</persName>。後與道俗十餘行值<placeName key="PL000000049166">突厥</placeName>。并被驅掠。<lb ed="T" n="0664b26"/><persName key="A007007">顯</persName>遂隱身不見。後訪得問。云我念<persName key="A002803">觀音</persName>不<lb ed="T" n="0664b27"/>值賊。有同學在<placeName key="PL000000004682">箕山</placeName>守靜。獵者奪糧頓盡。<lb ed="T" n="0664b28"/><persName key="A007007">顯</persName>遠知之使人送米。其通幽解網非可究<lb ed="T" n="0664b29"/>也。而任吹虛舟無所拘礙。每有苦處輒往<lb ed="T" n="0664c01"/>救拔。是知大悲攝濟隨方利生。雖行位<ptr target="fn02"/>殊<lb ed="T" n="0664c02"/>倫。而心焉靡異。不測其終。</p>
     <linkGrp>
         <link targets="#0664b20 #0664b20"/>
         <ptr target="#A007007" type="person"/>
-        <ptr target="#CN0140722T01AA" type="place"/>
+        <ptr target="#PL000000004683" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0664b22 #0664b24"/>

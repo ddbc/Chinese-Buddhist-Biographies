@@ -1,31 +1,31 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0631b04shiDaoZhen">
-    <p><anchor n="T.50.2060.0631b04"/><lb ed="T" n="0631b04"/><ptr target="fn16"/><persName key="A006619">釋道臻</persName>。姓牛氏。<placeName key="CN0610112Z06AA">長安城南</placeName>人。出家清貞不<lb ed="T" n="0631b05"/>郡非類。謙虛寡交。顧唯讀經博聞為業。諸<lb ed="T" n="0631b06"/>法師於經義有所迷忘者。皆往問<persName key="A006619">之</persName>。<persName key="A002048">西魏<lb ed="T" n="0631b07"/>文帝</persName>聞而敬重尊為師傅。遂於<placeName key="CN0610112Z06AA">京師</placeName>立<placeName key="CN0610112T07AA">大<lb ed="T" n="0631b08"/>中興寺</placeName>。尊為魏國大統。于時東西初亂。<persName key="A002055">宇<lb ed="T" n="0631b09"/>文太祖</persName>始纂帝圖。挾魏西奔萬途草創。僧<lb ed="T" n="0631b10"/>徒相聚綴旒而已。既位僧統大立科條。佛<lb ed="T" n="0631b11"/>法載興誠其人矣。爾後<placeName key="CN0610125T16AA">大乘</placeName><placeName key="CN0610103T03AA">陟岵</placeName>相次而<lb ed="T" n="0631b12"/>立。並由淘漸德化所流。又於<placeName key="CN0610101R01AA">昆池</placeName>之南置<lb ed="T" n="0631b13"/><placeName key="CN0610101R01AB">中興寺</placeName>。莊池之內外稻田百頃。並以給<persName key="A006619">之</persName>。<lb ed="T" n="0631b14"/>梨棗雜果望若雲合。及卒<persName key="A002055">帝</persName>哀之廢朝。喪<lb ed="T" n="0631b15"/>事所資並歸天府。送於園南為立高墳。塋<lb ed="T" n="0631b16"/>封之地一頃。今所謂統師墓是也。近<date key="j19500921958507" notAfter-iso="0650" notBefore-iso="0627">貞觀<lb ed="T" n="0631b17"/>中</date>猶存古樹。</p>
+    <p><anchor n="T.50.2060.0631b04"/><lb ed="T" n="0631b04"/><ptr target="fn16"/><persName key="A006619">釋道臻</persName>。姓牛氏。<placeName key="PL000000042392">長安城南</placeName>人。出家清貞不<lb ed="T" n="0631b05"/>郡非類。謙虛寡交。顧唯讀經博聞為業。諸<lb ed="T" n="0631b06"/>法師於經義有所迷忘者。皆往問<persName key="A006619">之</persName>。<persName key="A002048">西魏<lb ed="T" n="0631b07"/>文帝</persName>聞而敬重尊為師傅。遂於<placeName key="PL000000042392">京師</placeName>立<placeName key="PL000000042381">大<lb ed="T" n="0631b08"/>中興寺</placeName>。尊為魏國大統。于時東西初亂。<persName key="A002055">宇<lb ed="T" n="0631b09"/>文太祖</persName>始纂帝圖。挾魏西奔萬途草創。僧<lb ed="T" n="0631b10"/>徒相聚綴旒而已。既位僧統大立科條。佛<lb ed="T" n="0631b11"/>法載興誠其人矣。爾後<placeName key="PL000000042659">大乘</placeName><placeName key="PL000000042218">陟岵</placeName>相次而<lb ed="T" n="0631b12"/>立。並由淘漸德化所流。又於<placeName key="PL000000042055">昆池</placeName>之南置<lb ed="T" n="0631b13"/><placeName key="PL000000042056">中興寺</placeName>。莊池之內外稻田百頃。並以給<persName key="A006619">之</persName>。<lb ed="T" n="0631b14"/>梨棗雜果望若雲合。及卒<persName key="A002055">帝</persName>哀之廢朝。喪<lb ed="T" n="0631b15"/>事所資並歸天府。送於園南為立高墳。塋<lb ed="T" n="0631b16"/>封之地一頃。今所謂統師墓是也。近<date key="j19500921958507" notAfter-iso="0650" notBefore-iso="0627">貞觀<lb ed="T" n="0631b17"/>中</date>猶存古樹。</p>
     <linkGrp>
         <link targets="#0631b04 #0631b04"/>
         <ptr target="#A006619" type="person"/>
-        <ptr target="#CN0610112Z06AA" type="place"/>
+        <ptr target="#PL000000042392" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0631b07 #0631b08"/>
         <ptr target="#A006619" type="person"/>
         <ptr target="#A002048" type="person"/>
-        <ptr target="#CN0610112T07AA" type="place"/>
+        <ptr target="#PL000000042381" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0631b10 #0631b12"/>
         <ptr target="#A006619" type="person"/>
-        <ptr target="#CN0610125T16AA" type="place"/>
+        <ptr target="#PL000000042659" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0631b10 #0631b12"/>
         <ptr target="#A006619" type="person"/>
-        <ptr target="#CN0610103T03AA" type="place"/>
+        <ptr target="#PL000000042218" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0631b08 #0631b14"/>
         <ptr target="#A006619" type="person"/>
         <ptr target="#A002055" type="person"/>
-        <ptr target="#CN0610101R01AB" type="place"/>
+        <ptr target="#PL000000042056" type="place"/>
         </linkGrp>
 </div>

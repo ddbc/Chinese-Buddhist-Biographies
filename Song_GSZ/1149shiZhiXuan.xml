@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0864a20shiZhiXuan">
     <anchor n="T.50.2061.0864a20"/><head><date from-iso="0618-06-21" key="j19469512052491" to-iso="0907-06-06">唐</date>沙門<persName key="A013549">志玄</persName>傳</head><p>
-<lb ed="T" n="0864a21"/><persName key="A013549">釋志玄</persName>者，<placeName key="CN0000000E02AA">河朔</placeName>人也。攻五天禁呪，身衣枲
+<lb ed="T" n="0864a21"/><persName key="A013549">釋志玄</persName>者，<placeName key="PL000000000084">河朔</placeName>人也。攻五天禁呪，身衣枲
 <lb ed="T" n="0864a22"/>麻布耳。行歷州邑，不居城市寺宇，唯宿郊
-<lb ed="T" n="0864a23"/>野林薄。<persName key="A013549">玄</persName>有意尋訪名迹，至<placeName key="CN0140825Z16AA">絳州</placeName>，夜泊墓
+<lb ed="T" n="0864a23"/>野林薄。<persName key="A013549">玄</persName>有意尋訪名迹，至<placeName key="PL000000005037">絳州</placeName>，夜泊墓
 <lb ed="T" n="0864a24"/>林中。其夜月色如晝，見一狐從林下將髑
 <lb ed="T" n="0864a25"/>髏置之於首，搖之落者不顧，不落者戴
 <lb ed="T" n="0864a26"/>之。更取艿草<anchor xml:id="beg0864001"/>隨<anchor xml:id="end0864001"/>葉，遮蔽其身，逡巡成一
@@ -28,6 +28,6 @@
     <linkGrp>
         <link targets="#0864a23 #0864b14"/>
         <ptr target="#A013549" type="person"/>
-        <ptr target="#CN0140825Z16AA" type="place"/>
+        <ptr target="#PL000000005037" type="place"/>
     </linkGrp>
 </div>

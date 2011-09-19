@@ -1,36 +1,36 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0556b01shiFaChang">
-    <p><anchor n="T.50.2060.0556b01"/><lb ed="T" n="0556b01"/><persName key="A005902">釋法常</persName>。<date from-iso="0551" key="j19223331931870" to-iso="0577">高齊</date>時人。領徒講<ptr target="fn05"/>律有聲<placeName key="CN0130423Z23AA">漳鄴</placeName>。<lb ed="T" n="0556b02"/>後講涅<ptr target="fn06"/>盤并授禪數。<persName key="A004698">齊<ptr target="fn07"/>主</persName>崇為國師。以<lb ed="T" n="0556b03"/>處眾囂雜枯折由生無俱利功。捐而至<placeName key="CN0400000E01AA">楚</placeName>。<lb ed="T" n="0556b04"/>後聞追<persName key="A005902">之</persName>。變形革服一舉千里。又達<placeName key="CN0430412M01AA">衡岳</placeName>。<lb ed="T" n="0556b05"/>多處林野布衣乞食。又之<placeName key="CN0421003Z08AA">荊<ptr target="fn08"/>硤</placeName>。有僧<persName key="A005904">法隱</persName><lb ed="T" n="0556b06"/>者。久住<placeName key="CN0420582M02AA">覆船山</placeName>東嶺。誦法花維摩思益以<lb ed="T" n="0556b07"/>為常業。而未閑心觀。後至<placeName key="CN0421087Z07AA">松滋</placeName>見<persName key="A005902">常</persName>異<lb ed="T" n="0556b08"/>橾。乃歸而問津。遂默而不對。乃經一夏。涕<lb ed="T" n="0556b09"/>泗滂沱方示心要。如說行者方知其趣。隱駐<lb ed="T" n="0556b10"/>心自久繫念日新。深悟寂定不思議也。與<lb ed="T" n="0556b11"/>故人胡君義別不值。題壁<ptr target="fn09"/>剋月日當遠<lb ed="T" n="0556b12"/>行。至期果卒。後當將終語諸僧曰。<persName key="A005902">吾</persName>今日<lb ed="T" n="0556b13"/>作一覺長眠。便入室右脇而臥。明日怪眠<lb ed="T" n="0556b14"/>不覺。看之<ptr target="fn10"/>久終。方悟長眠語矣。</p>
+    <p><anchor n="T.50.2060.0556b01"/><lb ed="T" n="0556b01"/><persName key="A005902">釋法常</persName>。<date from-iso="0551" key="j19223331931870" to-iso="0577">高齊</date>時人。領徒講<ptr target="fn05"/>律有聲<placeName key="PL000000001482">漳鄴</placeName>。<lb ed="T" n="0556b02"/>後講涅<ptr target="fn06"/>盤并授禪數。<persName key="A004698">齊<ptr target="fn07"/>主</persName>崇為國師。以<lb ed="T" n="0556b03"/>處眾囂雜枯折由生無俱利功。捐而至<placeName key="PL000000023021">楚</placeName>。<lb ed="T" n="0556b04"/>後聞追<persName key="A005902">之</persName>。變形革服一舉千里。又達<placeName key="PL000000028928">衡岳</placeName>。<lb ed="T" n="0556b05"/>多處林野布衣乞食。又之<placeName key="PL000000027771">荊<ptr target="fn08"/>硤</placeName>。有僧<persName key="A005904">法隱</persName><lb ed="T" n="0556b06"/>者。久住<placeName key="PL000000027019">覆船山</placeName>東嶺。誦法花維摩思益以<lb ed="T" n="0556b07"/>為常業。而未閑心觀。後至<placeName key="PL000000027931">松滋</placeName>見<persName key="A005902">常</persName>異<lb ed="T" n="0556b08"/>橾。乃歸而問津。遂默而不對。乃經一夏。涕<lb ed="T" n="0556b09"/>泗滂沱方示心要。如說行者方知其趣。隱駐<lb ed="T" n="0556b10"/>心自久繫念日新。深悟寂定不思議也。與<lb ed="T" n="0556b11"/>故人胡君義別不值。題壁<ptr target="fn09"/>剋月日當遠<lb ed="T" n="0556b12"/>行。至期果卒。後當將終語諸僧曰。<persName key="A005902">吾</persName>今日<lb ed="T" n="0556b13"/>作一覺長眠。便入室右脇而臥。明日怪眠<lb ed="T" n="0556b14"/>不覺。看之<ptr target="fn10"/>久終。方悟長眠語矣。</p>
     <linkGrp>
         <link targets="#0556b01 #0556b03"/>
         <ptr target="#A005902" type="person"/>
         <ptr target="#A004698" type="person"/>
-        <ptr target="#CN0130423Z23AA" type="place"/>
+        <ptr target="#PL000000001482" type="place"/>
         <ptr target="#j19223331931870" type="time"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0556b03 #0556b04"/>
         <ptr target="#A005902" type="person"/>
-        <ptr target="#CN0400000E01AA" type="place"/>
+        <ptr target="#PL000000023021" type="place"/>
         <ptr target="#j19223331931870" type="time"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0556b04 #0556b05"/>
         <ptr target="#A005902" type="person"/>
-        <ptr target="#CN0430412M01AA" type="place"/>
+        <ptr target="#PL000000028928" type="place"/>
         <ptr target="#j19223331931870" type="time"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0556b05 #0556b05"/>
         <ptr target="#A005902" type="person"/>
-        <ptr target="#CN0421003Z08AA" type="place"/>
+        <ptr target="#PL000000027771" type="place"/>
         <ptr target="#j19223331931870" type="time"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0556b07 #0556b11"/>
         <ptr target="#A005902" type="person"/>
         <ptr target="#A005904" type="person"/>
-        <ptr target="#CN0421087Z07AA" type="place"/>
+        <ptr target="#PL000000027931" type="place"/>
         <ptr target="#j19223331931870" type="time"/>
     </linkGrp>
 </div>

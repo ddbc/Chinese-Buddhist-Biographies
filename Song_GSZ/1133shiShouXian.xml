@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0860a01shiShouXian">
     <anchor n="T.50.2061.0860a01"/><head><date from-iso="0960-02-09" key="j20717322132856" to-iso="1127-06-18">宋</date>衡陽大聖寺<persName key="A013523">守賢</persName>傳</head><p>
-        <lb ed="T" n="0860a02"/><persName key="A013523">釋守賢</persName>，姓丘氏，<placeName key="CN0350525Z07AA">泉州永春</placeName>人也。少而聰達，淵
+        <lb ed="T" n="0860a02"/><persName key="A013523">釋守賢</persName>，姓丘氏，<placeName key="PL000000017947">泉州永春</placeName>人也。少而聰達，淵
 <lb ed="T" n="0860a03"/>懿沈厚，誓投吉祥院<!--找不到此地-->從師披剪焉。後遊學
-<lb ed="T" n="0860a04"/>栖<persName key="A003703">雲門禪師</persName>道場，明了心決，趨彼<placeName key="CN0430407Z11AA">衡陽</placeName>，眾
+<lb ed="T" n="0860a04"/>栖<persName key="A003703">雲門禪師</persName>道場，明了心決，趨彼<placeName key="PL000000028910">衡陽</placeName>，眾
 <lb ed="T" n="0860a05"/>推說法，納衣練若之人，若百州之會于朝夕
         <lb ed="T" n="0860a06"/>池矣。<persName key="A013523">賢</persName>不衣繒纊，布衣皮袴而已。度伏臘
 <lb ed="T" n="0860a07"/>必無更易，脇不著席，唯坐藤床，瞑目通宵。
@@ -20,6 +20,6 @@
     <linkGrp>
         <link targets="#0860a04 #0860a06"/>
         <ptr target="#A013523" type="person"/>
-        <ptr target="#CN0430407Z11AA" type="place"/>
+        <ptr target="#PL000000028910" type="place"/>
     </linkGrp>
 </div>

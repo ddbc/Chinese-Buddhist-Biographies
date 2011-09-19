@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="bqnz0940c18huiJunNi">
-    <head><placeName key="CN0320102T14AA">竹園寺</placeName><persName key="A002603">慧濬</persName>尼<ptr target="fn62"/>傳二十</head><p><anchor n="T.50.2063.0940c19"/><lb ed="T" n="0940c19"/><persName key="A002603">慧濬</persName>，本姓陳，<placeName key="CN0330602Z05AA">山陰</placeName>人也。幼而<ptr target="fn63"/>頴悟，精進邁<lb ed="T" n="0940c20"/>群。旦輒燒香運想，禮敬移時；中則菜蔬一飯，<lb ed="T" n="0940c21"/>鮮肥不食。雖在居家，有如出俗。父母不能割<lb ed="T" n="0940c22"/>其志，及<date key="j18704451870809" from-iso="0409-01-01" to-iso="0409-12-31">年十八</date>，許之從道。內外墳典，經眼必<lb ed="T" n="0941a01"/>誦；深禪祕觀，無不必入。靜而無競，和而有節，<lb ed="T" n="0941a02"/>朋遊舊狎，未嘗戲言。宋<ptr target="fn1"/>宰江夏王<persName key="A003042">義恭</persName>，雅相<lb ed="T" n="0941a03"/>推敬，常給衣藥，四時無爽。不蓄私財，悉營寺<lb ed="T" n="0941a04"/>舍，<placeName key="CN0320102T14AA">竹園</placeName>成立，<persName key="A002603">濬</persName>之功也。禪味之樂，老而不衰。<lb ed="T" n="0941a05"/>年七十三，宋<date from-iso="0464-01-26" key="j18905581890726" to-iso="0464-07-12">大明八年</date><ptr target="fn2"/>而卒，葬于<placeName key="CN0000000M01AA">傅山</placeName>。</p><p>同<lb ed="T" n="0941a06"/><ref target="#CN0320102T14AA" type="place">寺</ref><ptr target="fn3"/>有化尼，聰頴卓秀，多誦經律，蔬食苦節，<lb ed="T" n="0941a07"/>與<persName key="A002603">濬</persName>齊名。</p>
+    <head><placeName key="PL000000008753">竹園寺</placeName><persName key="A002603">慧濬</persName>尼<ptr target="fn62"/>傳二十</head><p><anchor n="T.50.2063.0940c19"/><lb ed="T" n="0940c19"/><persName key="A002603">慧濬</persName>，本姓陳，<placeName key="PL000000013243">山陰</placeName>人也。幼而<ptr target="fn63"/>頴悟，精進邁<lb ed="T" n="0940c20"/>群。旦輒燒香運想，禮敬移時；中則菜蔬一飯，<lb ed="T" n="0940c21"/>鮮肥不食。雖在居家，有如出俗。父母不能割<lb ed="T" n="0940c22"/>其志，及<date key="j18704451870809" from-iso="0409-01-01" to-iso="0409-12-31">年十八</date>，許之從道。內外墳典，經眼必<lb ed="T" n="0941a01"/>誦；深禪祕觀，無不必入。靜而無競，和而有節，<lb ed="T" n="0941a02"/>朋遊舊狎，未嘗戲言。宋<ptr target="fn1"/>宰江夏王<persName key="A003042">義恭</persName>，雅相<lb ed="T" n="0941a03"/>推敬，常給衣藥，四時無爽。不蓄私財，悉營寺<lb ed="T" n="0941a04"/>舍，<placeName key="PL000000008753">竹園</placeName>成立，<persName key="A002603">濬</persName>之功也。禪味之樂，老而不衰。<lb ed="T" n="0941a05"/>年七十三，宋<date from-iso="0464-01-26" key="j18905581890726" to-iso="0464-07-12">大明八年</date><ptr target="fn2"/>而卒，葬于<placeName key="PL000000000146">傅山</placeName>。</p><p>同<lb ed="T" n="0941a06"/><ref target="#PL000000008753" type="place">寺</ref><ptr target="fn3"/>有化尼，聰頴卓秀，多誦經律，蔬食苦節，<lb ed="T" n="0941a07"/>與<persName key="A002603">濬</persName>齊名。</p>
     <linkGrp>
         <link targets="#0941a02 #0941a03"/>
         <ptr target="#A002603" type="person"/>
@@ -9,7 +9,7 @@
     <linkGrp>
         <link targets="#0941a04 #0941a04"/>
         <ptr target="#A002603" type="person"/>
-        <ptr target="#CN0320102T14AA" type="place"/>
+        <ptr target="#PL000000008753" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0940c21 #0940c22"/>

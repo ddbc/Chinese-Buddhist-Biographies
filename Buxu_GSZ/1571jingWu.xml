@@ -1,21 +1,58 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0386c13jingWu">
     <head><lb ed="X" n="0386c13"/>　　　　<persName key="A015303">淨悟</persName>．<persName key="A007872">了宣</persName>二師傳</head>
-    <p><anchor n="X.77.1524.0386c14"/><lb ed="X" n="0386c14"/><persName key="A015303">淨悟</persName>。字<persName key="A015303">機先</persName>。生<placeName key="CN0330382Z08AA">樂清</placeName>李氏。<date key="j21472982147662" when-iso="1167">十九</date>具戒。教庠禪窟。無不
+    <p><anchor n="X.77.1524.0386c14"/><lb ed="X" n="0386c14"/><persName key="A015303">淨悟</persName>。字<persName key="A015303">機先</persName>。生<placeName key="PL000000012637">樂清</placeName>李氏。<date key="j21472982147662" when-iso="1167">十九</date>具戒。教庠禪窟。無不
         <lb ed="X" n="0386c15"/>縱觀。志氣高卓。少有許與。每自誨曰。折鐺煑飯。偃息
         <lb ed="X" n="0386c16"/>中林。借虗空口。對萬象說。余亦何愧。至若所學不充。
         <lb ed="X" n="0386c17"/>因人成事。執散行帋上語。聚百十雛道人。大廈廣居。
-        <lb ed="X" n="0386c18"/>貪前方丈。吾弗為也。師。始於<placeName key="CN0330382T04AA">飛泉</placeName>興棟宇。中親講誨。
+        <lb ed="X" n="0386c18"/>貪前方丈。吾弗為也。師。始於<placeName key="PL000000012628">飛泉</placeName>興棟宇。中親講誨。
         <lb ed="X" n="0386c19"/>晚年一專淨業。及屬疾。大書示眾曰。求醫問藥。撓吾
         <lb ed="X" n="0386c20"/>化也。吾將默觀其變。明旦危坐而蛻。時<date from-iso="1207-10-01" to-iso="1207-10-29" key="j21621812162209">開禧丁卯九<lb ed="X" n="0386c21"/>月</date>也。闍維。耳與齒儼然無壞。墖於寺西麓。<persName key="A000617">北[澗-日+月]簡公</persName>
         <lb ed="X" n="0386c22"/>為之銘曰。是為豁菴。聰說總持。兩種不壞之藏。道德
-        <lb ed="X" n="0386c23"/>所重。雖隱而彰。吾知夫異代而同心者。墮泪於<placeName key="CN0330382M01AA">鴈山</placeName>
+        <lb ed="X" n="0386c23"/>所重。雖隱而彰。吾知夫異代而同心者。墮泪於<placeName key="PL000000012620">鴈山</placeName>
         <lb ed="X" n="0386c24"/>之陽。</p><p>
-            <lb ed="X" n="0387a01"/><persName key="A007872">了宣</persName>。<placeName key="CN0330203Z08AA">四明</placeName>人。修法華三昧。前後二十七期。過午不食。
+            <lb ed="X" n="0387a01"/><persName key="A007872">了宣</persName>。<placeName key="PL000000012198">四明</placeName>人。修法華三昧。前後二十七期。過午不食。
             <lb ed="X" n="0387a02"/>未甞違日晷。與同修<persName key="A019839">善榮</persName>。為心友。每閱經有疑。必造
             <lb ed="X" n="0387a03"/><persName key="A019839">榮</persName>室決之。一日默坐甚久。<persName key="A019839">榮</persName>曰。今日何為。師曰。歸期
-            <lb ed="X" n="0387a04"/>已近。道義難忘。不覺如此。請君專心進道。當於<placeName key="XZ0000033A01AA">淨土</placeName>
+            <lb ed="X" n="0387a04"/>已近。道義難忘。不覺如此。請君專心進道。當於<placeName key="PL000000055477">淨土</placeName>
             <lb ed="X" n="0387a05"/>重會。<persName key="A019839">榮</persName>笑曰。正欲見君作略。師自此示疾。將終請眾。
         <lb ed="X" n="0387a06"/>諷彌陀經。稱佛號。遽起端坐。書偈云。性相情忘。一三
             <lb ed="X" n="0387a07"/>無寄。息風不行。摩訶悉利。即合掌瞑目而去。<date from-iso="1201-02-12" to-iso="1202-02-01" key="j21597592160113">嘉泰元<lb ed="X" n="0387a08"/>年</date>也。<date from-iso="1204-02-10" to-iso="1205-01-28" key="j21608522161205">後三年</date>。<persName key="A019839">榮</persName>亦趺坐脫去。人謂赴師之約云。</p>
+    
+    <linkGrp>
+        <link targets="#0386c14 #0386c14"/>
+        <ptr target="#A015303" type="person"/>
+        <ptr target="#PL000000012637" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0386c14 #0386c15"/>
+        <ptr target="#A015303" type="person"/>
+        <ptr target="#j21472982147662" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0386c19 #0386c24"/>
+        <ptr target="#A015303" type="person"/>
+        <ptr target="#PL000000012620" type="place"/>
+        <ptr target="#j21621812162209" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0387a01 #0387a01"/>
+        <ptr target="#A007872" type="person"/>
+        <ptr target="#PL000000012198" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0387a02 #0387a05"/>
+        <ptr target="#A007872" type="person"/>
+        <ptr target="#A019839" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0387a05 #0387a08"/>
+        <ptr target="#A007872" type="person"/>
+        <ptr target="#j21597592160113" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0387a08 #0387a08"/>
+        <ptr target="#A019839" type="person"/>
+        <ptr target="#j21608522161205" type="time"/>
+    </linkGrp>
 </div>

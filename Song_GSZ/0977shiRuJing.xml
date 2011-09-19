@@ -3,12 +3,12 @@
     <anchor n="T.50.2061.0801a16"/><head><date from-iso="0618-06-21" key="j19469512052491" to-iso="0907-06-06">唐</date>京師安國寺<persName key="A010792">如淨</persName>傳</head><p>
 <lb ed="T" n="0801a17"/><persName key="A010792">釋如淨</persName>，不詳何許人也。甫參法位，當納
 <lb ed="T" n="0801a18"/>戒津，明練毘尼，砥礪名節。時恒講勗，徒侶
-<lb ed="T" n="0801a19"/>雲屯。辭筆偕長，博達儒典。先是<placeName key="CN0610000E01AA">關中</placeName>行<persName key="A001269">智
-<lb ed="T" n="0801a20"/>首律師</persName>《四分律疏》，<placeName key="CN0410502Z11AA">魏郡</placeName><persName key="A000747">法礪律師</persName>著《疏》別行。
-<lb ed="T" n="0801a21"/>爾時<placeName key="CN0610000E01AA">關輔</placeName><placeName key="CN0130425Z11AA">河北</placeName>，各競宗派，微似參辰。<date from-iso="0609" key="j19435421973336" to-iso="0690">隋末唐
+<lb ed="T" n="0801a19"/>雲屯。辭筆偕長，博達儒典。先是<placeName key="PL000000042002">關中</placeName>行<persName key="A001269">智
+<lb ed="T" n="0801a20"/>首律師</persName>《四分律疏》，<placeName key="PL000000024082">魏郡</placeName><persName key="A000747">法礪律師</persName>著《疏》別行。
+<lb ed="T" n="0801a21"/>爾時<placeName key="PL000000042002">關輔</placeName><placeName key="PL000000001520">河北</placeName>，各競宗派，微似參辰。<date from-iso="0609" key="j19435421973336" to-iso="0690">隋末唐
 <lb ed="T" n="0801a22"/>初</date>，<persName key="A001519">道宣律師</persName>以首《大疏》為本，造《刪補律鈔》
-<lb ed="T" n="0801a23"/>三卷，稍為會要，行事逗機。<date from-iso="0627" key="j19500921958296" to-iso="0649">貞觀</date>已來，<placeName key="CN0610000E01AA">三輔</placeName>、<placeName key="CN0340001D01AA">江、
-<lb ed="T" n="0801a24"/>淮</placeName>、<placeName key="CN0510184Z16AA">岷蜀</placeName>多傳唱之。次<persName key="A000294"><anchor xml:id="beg0801003"/>裝<anchor xml:id="end0801003"/></persName>三藏弟子<persName key="A001899">懷素</persName>者，
+<lb ed="T" n="0801a23"/>三卷，稍為會要，行事逗機。<date from-iso="0627" key="j19500921958296" to-iso="0649">貞觀</date>已來，<placeName key="PL000000042002">三輔</placeName>、<placeName key="PL000000015039">江、
+<lb ed="T" n="0801a24"/>淮</placeName>、<placeName key="PL000000035107">岷蜀</placeName>多傳唱之。次<persName key="A000294"><anchor xml:id="beg0801003"/>裝<anchor xml:id="end0801003"/></persName>三藏弟子<persName key="A001899">懷素</persName>者，
 <lb ed="T" n="0801a25"/>先習《鈔宗》，後委棄<persName key="A001519">宣</persName>、<persName key="A000747">礪</persName>之學，於<date from-iso="0670" key="j19658611967498" to-iso="0674">咸亨年</date>中
 <lb ed="T" n="0801a26"/>別述《開四分律記》，後號新章歟。至<date from-iso="0766" key="j20011912005747" to-iso="0779">代宗大
 <lb ed="T" n="0801a27"/>曆</date>中，新章舊疏，互相長短。<date from-iso="0778-02-06" key="j20052552005608" to-iso="0779-01-25">十三年</date>，勅集三宗
@@ -24,7 +24,7 @@
     <linkGrp>
         <link targets="#0801a16 #0801a16"/>
         <ptr target="#A010792" type="person"/>
-        <ptr target="#CN0610000E01AA" type="place"/>
+        <ptr target="#PL000000042002" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0801b01 #0801b02"/>

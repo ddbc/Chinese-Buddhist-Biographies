@@ -1,18 +1,18 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0379b06congYi">
     <head><lb ed="X" n="0379b06"/>　　　　<persName key="A001057">從義</persName>傳(<persName key="A019765">了睿</persName>附)</head>
-    <p><anchor n="X.77.1524.0379b07"/><lb ed="X" n="0379b07"/><persName key="A001057">從義</persName>。溫之<placeName key="CN0330326Z05AA">平陽</placeName>人。姓葉氏。<date key="j21074872107851" when-iso="1058">十七</date>通經。得度學<persName key="A001931">扶宗</persName>。深
-        <lb ed="X" n="0379b08"/>得教旨。出世屢遷鉅剎。晚主秀之<placeName key="CN0330402T12AA">壽聖</placeName>。大闡宗風。師
+    <p><anchor n="X.77.1524.0379b07"/><lb ed="X" n="0379b07"/><persName key="A001057">從義</persName>。溫之<placeName key="PL000000012553">平陽</placeName>人。姓葉氏。<date key="j21074872107851" when-iso="1058">十七</date>通經。得度學<persName key="A001931">扶宗</persName>。深
+        <lb ed="X" n="0379b08"/>得教旨。出世屢遷鉅剎。晚主秀之<placeName key="PL000000012704">壽聖</placeName>。大闡宗風。師
         <lb ed="X" n="0379b09"/>雖以圓頓為門。而于戒科。猶事謹篤。六時三業之間
         <lb ed="X" n="0379b10"/>必使纖悉如法。憲使<persName key="A015227">劉燾</persName>。記師行業云。端戒清白。不
         <lb ed="X" n="0379b11"/>妄遊從。寤寐三觀。躭味著述。過午不食。非法不言。非
         <lb ed="X" n="0379b12"/>右脇不臥。非濾水不飲。行步有甞。坐立如植。未甞求
-        <lb ed="X" n="0379b13"/>公卿之知。可謂賢也已矣。<placeName key="CN0330402Z12AA">秀</placeName>有士族。請師禱疾。師命
+        <lb ed="X" n="0379b13"/>公卿之知。可謂賢也已矣。<placeName key="PL000000012746">秀</placeName>有士族。請師禱疾。師命
         <lb ed="X" n="0379b14"/>其徒<persName key="A019765">了睿</persName>侍往。及歸。師正色責之曰。汝為純厚。吾故
         <lb ed="X" n="0379b15"/>[打-丁+嶲]汝往。何為俗舍左顧右盻。<persName key="A019765">睿</persName>謝過而已。其處身律
-        <lb ed="X" n="0379b16"/>物。嚴慎如此。<date from-iso="1091-01-29" to-iso="1091-04-27" key="j21195682119656">元祐六年春</date>。示寂。瘞舍利于錢唐<placeName key="CN0330185T15AA">寶藏</placeName>。
+        <lb ed="X" n="0379b16"/>物。嚴慎如此。<date from-iso="1091-01-29" to-iso="1091-04-27" key="j21195682119656">元祐六年春</date>。示寂。瘞舍利于錢唐<placeName key="PL000000012105">寶藏</placeName>。
         <lb ed="X" n="0379b17"/>諡曰<persName key="A001057">神智</persName>。師著作十餘種數萬言。皆詮釋教義耳。</p><p>
-            <lb ed="X" n="0379b18"/><persName key="A019765">了睿</persName>。<placeName key="CN0330402Z12AA">秀</placeName>人。亦有道士<placeName key="CN0330502A12AA">思溪</placeName><persName key="A019767">王氏</persName>。屈<persName key="A019765">睿</persName>為亡女呪食。適
+            <lb ed="X" n="0379b18"/><persName key="A019765">了睿</persName>。<placeName key="PL000000012746">秀</placeName>人。亦有道士<placeName key="PL000000012961">思溪</placeName><persName key="A019767">王氏</persName>。屈<persName key="A019765">睿</persName>為亡女呪食。適
         <lb ed="X" n="0379b19"/>河冰船不可渡。乃遣人報。令設座於斛前。即船上遙
         <lb ed="X" n="0379b20"/>為呪願。事已。忽一女至船。禮足為謝云。已得超往。因
             <lb ed="X" n="0379b21"/>留物為記。忽不見。次日<persName key="A019767">王君</persName>至船。見物驚曰。此亡女
@@ -21,7 +21,7 @@
     <linkGrp>
         <link targets="#0379b07 #0379b07"/>
         <ptr target="#A001057" type="person"/>
-        <ptr target="#CN0330326Z05AA" type="place"/>
+        <ptr target="#PL000000012553" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0379b07 #0379b07"/>
@@ -36,13 +36,13 @@
     <linkGrp>
         <link targets="#0379b08 #0379b08"/>
         <ptr target="#A001057" type="person"/>
-        <ptr target="#CN0330402T12AA" type="place"/>
+        <ptr target="#PL000000012704" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0379b13 #0379b15"/>
         <ptr target="#A001057" type="person"/>
         <ptr target="#A019765" type="person"/>
-        <ptr target="#CN0330402Z12AA" type="place"/>
+        <ptr target="#PL000000012746" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0379b16 #0379b17"/>
@@ -52,12 +52,12 @@
     <linkGrp>
         <link targets="#0379b18 #0379b18"/>
         <ptr target="#A019765" type="person"/>
-        <ptr target="#CN0330402Z12AA" type="place"/>
+        <ptr target="#PL000000012746" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0379b18 #0379b18"/>
         <ptr target="#A019767" type="person"/>
-        <ptr target="#CN0330502A12AA" type="place"/>
+        <ptr target="#PL000000012961" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0379b18 #0379b22"/>

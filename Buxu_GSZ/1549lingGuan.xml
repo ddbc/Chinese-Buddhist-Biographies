@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0379c20lingGuan">
     <head><lb ed="X" n="0379c20"/>　　　　<persName key="A014421">令觀</persName></head>
-    <p><anchor n="X.77.1524.0379c21"/><lb ed="X" n="0379c21"/><persName key="A014421">令觀</persName>。<placeName key="CN0350304Z10AA">莆田</placeName>黃氏子。<date key="j20899552090319" when-iso="1010">十三</date>出家<placeName key="CN0350302T01AA">廣化寺</placeName>。<date key="j20917812092145" when-iso="1015">十八</date>受具。通易
+    <p><anchor n="X.77.1524.0379c21"/><lb ed="X" n="0379c21"/><persName key="A014421">令觀</persName>。<placeName key="PL000000017599">莆田</placeName>黃氏子。<date key="j20899552090319" when-iso="1010">十三</date>出家<placeName key="PL000000017570">廣化寺</placeName>。<date key="j20917812092145" when-iso="1015">十八</date>受具。通易
         <lb ed="X" n="0379c22"/>孟子莊老諸書。已而撥去。聽講大乘經論。他日讀楞
         <lb ed="X" n="0379c23"/>嚴經。駭然大悟曰。世徒傳當年圓覺之<persName key="A000587">圭峰</persName>。何知不
-        <lb ed="X" n="0379c24"/>有今日楞嚴之我耶。未幾。得寺之<placeName key="CN0350302T01AB">安養院</placeName>。折筇坏戶
+        <lb ed="X" n="0379c24"/>有今日楞嚴之我耶。未幾。得寺之<placeName key="PL000000017571">安養院</placeName>。折筇坏戶
         <lb ed="X" n="0380a01"/>而居之。標尚質素。語終日不妄出身。非有迫致。或竟
         <lb ed="X" n="0380a02"/>歲未甞倚閭。閱大藏經。更數返。雖老益力。又天性慈
         <lb ed="X" n="0380a03"/>甚。哀病者而急阨窮。呪食放生。無不為者。貲不逮必
@@ -25,12 +25,12 @@
     <linkGrp>
         <link targets="#0379c21 #0379c21"/>
         <ptr target="#A014421" type="person"/>
-        <ptr target="#CN0350304Z10AA" type="place"/>
+        <ptr target="#PL000000017599" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0379c21 #0379c21"/>
         <ptr target="#A014421" type="person"/>
-        <ptr target="#CN0350302T01AA" type="place"/>
+        <ptr target="#PL000000017570" type="place"/>
         <ptr target="#j20899552090319" type="time"/>
     </linkGrp>
     <linkGrp>
@@ -41,7 +41,7 @@
     <linkGrp>
         <link targets="#0379c22 #0380a01"/>
         <ptr target="#A014421" type="person"/>
-        <ptr target="#CN0350302T01AB" type="place"/>
+        <ptr target="#PL000000017571" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0380a07 #0380a11"/>

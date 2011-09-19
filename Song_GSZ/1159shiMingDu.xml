@@ -1,6 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
-<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0866c28shiMingDu">
-    <anchor n="T.50.2061.0866c28"/><head><date from-iso="0618-06-21" key="j19469512052491" to-iso="0907-06-06">唐</date>并州石壁寺<persName key="A013574">明度</persName>傳</head><p>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0866c23shiMingDu">
+    <lb n="0866c23" ed="T"/><anchor n="T.50.2061.0866c23"/><head><anchor xml:id="beg0866c02"/>宋<anchor xml:id="end0866c02"/>高僧傳卷第<anchor xml:id="beg0866sgsz1"/>二<anchor xml:id="end0866sgsz1"/>十五</head>
+    <lb n="0866c24" ed="T"/>
+    <lb n="0866c25" ed="T"/><byline n="Author"><anchor xml:id="beg0866c03"/>宋左街天壽寺通慧大師
+        <lb n="0866c26" ed="T"/>賜紫沙門贊寧等奉　勅撰<anchor xml:id="end0866c03"/></byline>
+    <lb n="0866c27" ed="T"/><head>讀誦篇第八之<anchor xml:id="beg0866sgsz2"/>二<anchor xml:id="end0866sgsz2"/>（正傳二十一人附見五人）</head>
+        <lb n="0866c28" ed="T"/><head><date from-iso="0618-06-21" key="j19469512052491" to-iso="0907-06-06">唐</date>并州石壁寺<persName key="A013574">明度</persName>傳</head><p>
 <lb ed="T" n="0866c29"/><persName key="A013574">釋明度</persName>，未知何許人也。經論步學，三業恪<pb ed="T" n="0867a" xml:id="T50.2061.0867a"/>
 <lb ed="T" n="0867a01"/>勤。誦金剛般若資為淨分，慈濟為心。迨<date key="j19562451958296" notAfter-iso="0649" notBefore-iso="0643">貞
 <lb ed="T" n="0867a02"/>觀</date>末，有鴿巢于屋楹，乳養二雛。<persName key="A013574">度</persName>每以餘
@@ -15,6 +20,6 @@
     <linkGrp>
         <link targets="#0866c29 #0866c29"/>
         <ptr target="#A013574" type="person"/>
-        <ptr target="#CN0141122T03AA" type="place"/>
+        <ptr target="#PL000000006053" type="place"/>
     </linkGrp>
 </div>

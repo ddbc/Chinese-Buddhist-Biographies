@@ -2,13 +2,13 @@
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0818a04shiXuanTai">
     <anchor n="T.50.2061.0818a04"/><head><date from-iso="0618-06-21" key="j19469512052491" to-iso="0907-06-06">唐</date>南嶽七寶臺寺<persName key="A010511">玄泰</persName>傳</head><p>
 <lb ed="T" n="0818a05"/><persName key="A010511">釋玄泰</persName>者，不知何許人也。性摻方正，言不
-<lb ed="T" n="0818a06"/>浪施，心靜之情，義而後動。所居蘭若，在<placeName key="CN0430412M01AA">衡山</placeName>
-<lb ed="T" n="0818a07"/>之東，號<placeName key="CN0430412T14AA">七寶臺</placeName>。不衣蠶縷，時謂<persName key="A010511">泰布納</persName>
+<lb ed="T" n="0818a06"/>浪施，心靜之情，義而後動。所居蘭若，在<placeName key="PL000000028928">衡山</placeName>
+<lb ed="T" n="0818a07"/>之東，號<placeName key="PL000000028945">七寶臺</placeName>。不衣蠶縷，時謂<persName key="A010511">泰布納</persName>
 <lb ed="T" n="0818a08"/>歟。從見<persName key="A003868">德山禪師</persName>，豁如自適，誓不立門徒，
 <lb ed="T" n="0818a09"/>逍遙求志，而於詞筆，筆若有神。四方後進
-<lb ed="T" n="0818a10"/>巡禮相見，皆用平懷之禮。甞以<placeName key="CN0430412M01AA">衡山</placeName>之陽多
+<lb ed="T" n="0818a10"/>巡禮相見，皆用平懷之禮。甞以<placeName key="PL000000028928">衡山</placeName>之陽多
 <lb ed="T" n="0818a11"/>被山民莫傜輩斬木燒山，損害滋甚。<persName key="A010511">泰</persName>作
-<lb ed="T" n="0818a12"/>《畬山謠》，遠邇傳播，達于九重，勅責<placeName key="CN0430407Z13AA">衡州</placeName>太
+<lb ed="T" n="0818a12"/>《畬山謠》，遠邇傳播，達于九重，勅責<placeName key="PL000000028912">衡州</placeName>太
 <lb ed="T" n="0818a13"/>守禁止。岳中蘭若由是得存，不為延燎，<persName key="A010511">泰</persName>
 <lb ed="T" n="0818a14"/>之力也。終年六十五。臨逝說偈曰：「不用剃
 <lb ed="T" n="0818a15"/>頭，不須澡浴。一堆猛炎，千足萬足。」偈終，垂
@@ -18,7 +18,7 @@
     <linkGrp>
         <link targets="#0818a06 #0818a07"/>
         <ptr target="#A010511" type="person"/>
-        <ptr target="#CN0430412T14AA" type="place"/>
+        <ptr target="#PL000000028945" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0818a08 #0818a09"/>

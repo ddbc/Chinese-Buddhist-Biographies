@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0791b27shiDaoCheng">
     <anchor n="T.50.2061.0791b27"/><head><date from-iso="0618-06-21" key="j19469512052491" to-iso="0907-06-06">唐</date>京兆恒濟寺<persName key="A008984">道成</persName>傳</head><p>
-        <lb ed="T" n="0791b28"/><persName key="A008984">釋道成</persName>者，不知何許人也。居<app type="multiplier" xml:id="begd1e22676"/>於<anchor xml:id="endd1e22676"/><placeName key="CN0610102Z07AA">天邑</placeName>，演
+        <lb ed="T" n="0791b28"/><persName key="A008984">釋道成</persName>者，不知何許人也。居<app type="multiplier" xml:id="begd1e22676"/>於<anchor xml:id="endd1e22676"/><placeName key="PL000000042189">天邑</placeName>，演
 <lb ed="T" n="0791b29"/>彼律乘。戒月揚光，圓而不缺；德瓶告實，滿<pb ed="T" n="0791c" xml:id="T50.2061.0791c"/>
 <lb ed="T" n="0791c01"/>而不傾。當<date from-iso="0656" key="j19606991962581" to-iso="0661">顯慶</date>中，敷《四分》一宗，有同霧
 <lb ed="T" n="0791c02"/>市。時<persName key="A002468">文綱律匠</persName>雖先依<persName key="A001519">澄照大師</persName>，後習律
@@ -39,7 +39,7 @@
         <ptr target="#A002099" type="person"/>
         <ptr target="#A000661" type="person"/>
         <ptr target="#A008981" type="person"/>
-        <ptr target="#CN0610102Z07AA" type="place"/>
+        <ptr target="#PL000000042189" type="place"/>
         <ptr target="#j19712941972741" type="time"/>
     </linkGrp>
 </div>

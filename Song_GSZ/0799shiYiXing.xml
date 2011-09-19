@@ -1,114 +1,119 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0732c07shiYiXing">
-    <anchor n="T.50.2061.0732c07"/><head><date from-iso="0618-06-21" key="j19469512052491" to-iso="0907-06-06">唐</date>中嶽嵩陽寺<persName key="A000008">一行</persName>傳</head><p>
-<lb ed="T" n="0732c08"/><persName key="A000008">釋一行</persName>，俗姓張，<placeName key="CN0130529Z10AA">鉅鹿</placeName>人也，本名<persName key="A000008">遂</persName>，則<date from-iso="0618" key="j19469511973336" to-iso="0690">唐初</date>佐
-        <lb ed="T" n="0732c09"/>命<persName key="A009313"><anchor xml:id="beg0732002"/><choice resp="sgsz"><sic>剡</sic><corr>郯</corr></choice><anchor xml:id="end0732002"/>國公公謹</persName>之支孫也。丱歲不群，聰黠明
-<lb ed="T" n="0732c10"/>利，有老成之風。讀書不再覽，已暗誦矣。因
+    <lb ed="T" n="0732c07"/><anchor n="T.50.2061.0732c07"/><head><date from-iso="0618-06-21" key="j19469512052491" to-iso="0907-06-06">唐</date><placeName key="PL000000023260">中嶽嵩陽寺</placeName><persName key="A000008">一行</persName>傳</head><p>
+<lb ed="T" n="0732c08"/><persName key="A000008">釋一行</persName>，俗姓張，<placeName key="PL000000001981">鉅鹿</placeName>人也，本名<persName key="A000008">遂</persName>，則<date from-iso="0618" key="j19469511973336" to-iso="0690">唐初</date>佐
+        <lb ed="T" n="0732c09"/>命<ptr target="#n682"/><persName key="A009313"><anchor xml:id="beg0732002"/><choice resp="sgsz"><sic>剡</sic><corr>郯</corr></choice><anchor xml:id="end0732002"/>國公公謹</persName>之支孫也。丱歲<ptr target="#n635"/>不群，聰黠明
+        <lb ed="T" n="0732c10"/>利，有老成<ptr target="#n672"/>之風。讀書不再覽，已暗誦矣。因
 <lb ed="T" n="0732c11"/>遇<persName key="A009319">普寂禪師</persName>大行禪要，歸心者眾，乃悟世
 <lb ed="T" n="0732c12"/>幻，禮<persName key="A009319">寂</persName>為師，出家剃染。所誦經法，無不精
 <lb ed="T" n="0732c13"/>諷。<persName key="A009319">寂師</persName>甞設大會，遠近沙門如期必至，計
-<lb ed="T" n="0732c14"/>逾千眾。時有徵士<persName key="A009320">盧鴻</persName>，隱居於別峯，道高
-<lb ed="T" n="0732c15"/>學富，朝廷累降蒲輪，終辭不起。大會主事
-<lb ed="T" n="0732c16"/>先請<persName key="A009320">鴻</persName>為導文，序讚邑社。是日<persName key="A009320">鴻</persName>自袖出
-<lb ed="T" n="0732c17"/>其文，置之机案。鐘梵既作。<persName key="A009320">鴻</persName>謂<persName key="A009319">寂公</persName>曰：「某
+        <lb ed="T" n="0732c14"/>逾千眾。時有徵士<ptr target="#n683"/><persName key="A009320">盧鴻</persName>，隱居於別峯，道高
+        <lb ed="T" n="0732c15"/>學富，朝廷累降蒲輪<ptr target="#n684"/>，終辭不起。大會主事
+        <lb ed="T" n="0732c16"/>先請<persName key="A009320">鴻</persName>為導文，序讚邑社<ptr target="#n685"/>。是日<persName key="A009320">鴻</persName>自袖出
+        <lb ed="T" n="0732c17"/>其文，置之机案。鐘梵既作，<persName key="A009320">鴻</persName>謂<persName key="A009319">寂公</persName>曰：「<ref type="person" target="#A009320">某</ref>
         <lb ed="T" n="0732c18"/>為數千百言，況其字僻文古，請求朗俊者
 <lb ed="T" n="0732c19"/>宣之，當須面指擿而授之。」<persName key="A009319">寂公</persName>呼<persName key="A000008">行</persName>，伸紙
 <lb ed="T" n="0732c20"/>覽而微笑，復置机案。<persName key="A009320">鴻</persName>怪其輕脫。及僧聚
-<lb ed="T" n="0732c21"/>於堂中，<persName key="A000008">行</persName>乃攘袂而進，抗音典裁，一無遺誤。
+        <lb ed="T" n="0732c21"/>於堂中，<persName key="A000008">行</persName>乃攘袂而進，抗音典裁<ptr target="#n686"/>，一無遺誤。
 <lb ed="T" n="0732c22"/><persName key="A009320">鴻</persName>愕視久之，降歎不能已，復謂<persName key="A009319">寂公</persName>曰：「
-<lb ed="T" n="0732c23"/>非君所能教導也，當縱其遊學。」自是三學
-<lb ed="T" n="0732c24"/>名師，罕不諮度。因往<placeName key="CN0420582Z14AA">當陽</placeName>，值<persName key="A009328">僧真</persName>，纂成《律
-<lb ed="T" n="0732c25"/>藏序》，深達毘尼。然有陰陽讖緯之書，一皆
+        <lb ed="T" n="0732c23"/>非<ref type="person" target="#A009319">君</ref>所能教導也，當縱<ref type="person" target="#A000008">其</ref>遊學。」自是三學<ptr target="#n182"/>
+<lb ed="T" n="0732c24"/>名師，罕不諮度。因往<placeName key="PL000000027041">當陽</placeName>，值<persName key="A014098">僧真</persName>纂成《律
+        <lb ed="T" n="0732c25"/>藏序》，深達「毘尼」。然有陰陽<ptr target="#n231"/>讖緯<ptr target="#n368"/>之書，一皆
 <lb ed="T" n="0732c26"/>詳究，尋訪算術，不下數千里，知名者往詢
-<lb ed="T" n="0732c27"/>焉。末至天台山<placeName key="CN0331023T01AA">國清寺</placeName>見一院，古松數十
+        <lb ed="T" n="0732c27"/>焉。末至<placeName key="PL000000014664">天台山國清寺</placeName>見一院，古松數十
 <lb ed="T" n="0732c28"/>步，門枕流溪，淡然岑寂。<persName key="A000008">行</persName>立于門屏，聞院
-        <lb ed="T" n="0732c29"/>中布算，其聲䔩䔩然。僧謂侍者曰：「今日當<pb ed="T" n="0733a" xml:id="T50.2061.0733a"/>
+        <lb ed="T" n="0732c29"/>中布算，其聲䔩䔩然<ptr target="#n704"/>。僧謂侍者曰：「今日當<pb ed="T" n="0733a" xml:id="T50.2061.0733a"/>
 <lb ed="T" n="0733a01"/>有弟子自遠求吾算法，計合到門，必無人
 <lb ed="T" n="0733a02"/>導達耶？」即除一算子。又謂侍者曰：「門前水
 <lb ed="T" n="0733a03"/>合却西流，弟子當至。」<persName key="A000008">行</persName>承其言而入，稽首
-        <lb ed="T" n="0733a04"/>請法，盡授其決<anchor xml:id="beg0733sgsz1"/>焉<anchor xml:id="end0733sgsz1"/>，門前水復東流矣。自此
-<lb ed="T" n="0733a05"/>聲振遐邇，公卿籍甚。<persName key="A000291">玄宗</persName>聞之詔入。謂<persName key="A000008">行</persName>
-<lb ed="T" n="0733a06"/>曰：「<persName key="A000008">師</persName>有何能？」對曰：「略能記覽，他無所長。」<persName key="A000291">帝</persName>
+        <lb ed="T" n="0733a04"/>請法，盡授其決<ptr target="#n721"/><anchor xml:id="beg0733sgsz1"/>焉<anchor xml:id="end0733sgsz1"/>，門前水復東流矣。自此
+<lb ed="T" n="0733a05"/>聲振遐邇，公卿籍甚<ptr target="#n691"/>。<persName key="A000291">玄宗</persName>聞之，詔入，謂<persName key="A000008">行</persName>
+        <lb ed="T" n="0733a06"/>曰：「<ref target="#A000008" type="person">師</ref>有何能？」對曰：「略能記覽，他無所長。」<ref target="#A000291" type="person">帝</ref>
 <lb ed="T" n="0733a07"/>遂命中官取宮籍以示之，<persName key="A000008">行</persName>周覽方畢，覆
-<lb ed="T" n="0733a08"/>其本，記念精熟，如素所習。唱數幅後，<persName key="A000291">帝</persName>不
-<lb ed="T" n="0733a09"/>覺降榻稽首曰：「<persName key="A000008">師</persName>實聖人也。」嗟歎良久。尋
-<lb ed="T" n="0733a10"/>乃詔對無恒，占其災福，若指于掌，言多補
-        <lb ed="T" n="0733a11"/>益。時<persName key="A009329">邢和璞</persName>者，道術人，莫窺其際，甞謂<persName key="A015027">尹
-            <lb ed="T" n="0733a12"/>愔</persName>曰：「<persName key="A000008">一行和尚</persName>真聖人也。漢<persName key="A009331"><anchor xml:id="beg0733001"/>洛<anchor xml:id="end0733001"/>下閎</persName>造曆
+        <lb ed="T" n="0733a08"/>其本，記念精熟，如素所習。唱數幅<ptr target="#n722"/>後，<ref target="#A000291" type="person">帝</ref>不
+        <lb ed="T" n="0733a09"/>覺降榻稽首曰：「<ref target="#A000008" type="person">師</ref>實聖人也。」嗟歎良久。尋
+        <lb ed="T" n="0733a10"/>乃詔對無恒<ptr target="#n687"/>，占其災福，若指于掌，言多補
+        <lb ed="T" n="0733a11"/>益。時<persName key="A009329">邢和璞</persName>者，道術人，莫窺<ref target="#A000008" type="person">其</ref>際，甞謂<persName key="A015027">尹
+            <lb ed="T" n="0733a12"/>愔</persName>曰：「<persName key="A000008">一行和尚</persName>真聖人也。<date from-iso="-0201-02-24" key="j16477011723283" to-iso="0006-02-01">漢</date><persName key="A009331"><anchor xml:id="beg0733001"/>洛<anchor xml:id="end0733001"/>下閎</persName>造曆
         <lb ed="T" n="0733a13"/>云：『八百歲當差一日，則有聖人定之。』今
         <lb ed="T" n="0733a14"/>年期畢矣。屬《大衍曆》出，正其差謬，則<persName key="A009331"><anchor xml:id="begd1e6613"/>洛<anchor xml:id="endd1e6613"/>下
 <lb ed="T" n="0733a15"/>閎</persName>之言可信。非聖人孰能預於斯矣！」又
-<lb ed="T" n="0733a16"/>於<persName key="A000774">金剛三藏</persName>學《陀羅尼祕印》，登前佛壇，受
-<lb ed="T" n="0733a17"/>法王寶，復同<persName key="A001342">無畏三藏</persName>譯《毘盧遮那佛經》，
-<lb ed="T" n="0733a18"/>開後佛國，其傳《密藏》，必抵淵府也。<persName key="A002461">睿宗</persName>、<persName key="A000291">玄
-    <lb ed="T" n="0733a19"/>宗</persName>並請入內<placeName key="CN0610112A02AE">集賢院</placeName>，尋詔住<placeName key="CN0610102T43AA">興唐寺</placeName>。所翻
-<lb ed="T" n="0733a20"/>之經，遂著《疏》七卷，又《攝調伏藏》六十卷、《釋氏
-<lb ed="T" n="0733a21"/>系錄》一卷、《開元大衍曆》五十二卷。其曆編入
-        <lb ed="T" n="0733a22"/>《唐書．曆律志》，以為不刊之典。又造游儀，黃
-        <lb ed="T" n="0733a23"/>赤二道以鐵成規，於<ref target="#CN0610112A02AE" type="place">院</ref>製作。次有<persName key="A009336">王媼</persName>者，
+        <lb ed="T" n="0733a16"/>於<persName key="A000774">金剛三藏</persName>學「陀羅尼祕印」，登前佛壇，受
+        <lb ed="T" n="0733a17"/><persName key="A002799">法王</persName>寶；復同<persName key="A001342">無畏三藏</persName>譯《毘盧遮那佛經》，
+        <lb ed="T" n="0733a18"/>開後佛國，其傳《密藏》，必抵淵府<ptr target="#n688"/>也。<persName key="A002461">睿宗</persName>、<persName key="A000291">玄
+    <lb ed="T" n="0733a19"/>宗</persName>並請入內<placeName key="PL000000042360">集賢院</placeName>，尋詔住<placeName key="PL000000042154">興唐寺</placeName>。所翻
+<lb ed="T" n="0733a20"/>之經，遂著疏七卷，又《攝調伏藏》六十卷、《釋氏
+        <lb ed="T" n="0733a21"/>系錄》一卷、《開元大衍曆》五十二卷<ptr target="#n689"/>。其曆編入
+        <lb ed="T" n="0733a22"/>《唐書．曆律志》，以為不刊之典<ptr target="#n690"/>。又造游儀，黃、
+        <lb ed="T" n="0733a23"/>赤二道以鐵成規，於<ref target="#PL000000042360" type="place">院</ref>製作<ptr target="#n692"/>。次有<persName key="A009336">王</persName>媼者，
 <lb ed="T" n="0733a24"/><persName key="A000008">行</persName>隣里之老嫗，昔多贍<persName key="A000008">行</persName>之貧，及<persName key="A000008">行</persName>顯遇，
 <lb ed="T" n="0733a25"/>常思報之。一日拜謁云：「兒子殺人，即就誅
-<lb ed="T" n="0733a26"/>矣。況師帝王雅重，乞奏減死，以供母之殘
+        <lb ed="T" n="0733a26"/>矣。況<ref type="person" target="#A000008">師</ref>帝王雅重，乞奏減死，以供<ref type="person" target="#A009336">母</ref>之殘
 <lb ed="T" n="0733a27"/>齡！」如是泣涕者數四，<persName key="A000008">行</persName>曰：「國家刑憲，豈
 <lb ed="T" n="0733a28"/>有論請而得免耶？」命侍僧給與若干錢物，
-<lb ed="T" n="0733a29"/>任去別圖。<persName key="A009336">媼</persName>戟手曼罵曰：「<persName key="A009336">我</persName>居隣周給迭<pb ed="T" n="0733b" xml:id="T50.2061.0733b"/>
-        <lb ed="T" n="0733b01"/>互，繃褓間抱乳汝。長成，何忘此惠耶！」<persName key="A000008">行</persName>心
-<lb ed="T" n="0733b02"/>慈愛，終夕不樂。於是運算畢，召淨人戒之
+        <lb ed="T" n="0733a29"/>任去別圖。<persName key="A009336">媼</persName>戟手<ptr target="#n693"/>曼罵曰：「<persName key="A009336">我</persName>居隣周給迭<pb ed="T" n="0733b" xml:id="T50.2061.0733b"/>
+        <lb ed="T" n="0733b01"/>互，繃褓間抱乳<ref type="person" target="#A000008">汝</ref>。長成，何忘此惠耶！」<persName key="A000008">行</persName>心
+        <lb ed="T" n="0733b02"/>慈愛，終夕不樂。於是運算畢，召淨人<ptr target="#n695"/>戒之
 <lb ed="T" n="0733b03"/>曰：「汝曹挈布囊於某坊閑靜地，午時坐伺，
-        <lb ed="T" n="0733b04"/>得生類投囊，速歸。」明日，果有<anchor xml:id="beg0733sgsz2"/><choice resp="sgsz"><sic><g ref="#CB05825">[狂-王+段]</g></sic><corr>猳</corr></choice><anchor xml:id="end0733sgsz2"/>彘引㹠七
-        <lb ed="T" n="0733b05"/>箇，淨人分頭驅逐，<anchor xml:id="beg0733sgsz3"/><choice resp="sgsz"><sic><g ref="#CB05825">[狂-王+段]</g></sic><corr>猳</corr></choice><anchor xml:id="end0733sgsz3"/>母走矣，得㹠而歸。<persName key="A000008">行</persName>已
-<lb ed="T" n="0733b06"/>備巨瓮，逐一入之，閉蓋，以六乙泥封口，
-<lb ed="T" n="0733b07"/>誦胡語數契而止。投明，中官下詔入問云：「
-<lb ed="T" n="0733b08"/>司天監奏。昨夜北斗七座星全不見，何耶？」對
-<lb ed="T" n="0733b09"/>曰：「昔後魏曾失熒惑星，至今帝車不見。此
-<lb ed="T" n="0733b10"/>則天將大儆於<persName key="A000291">陛下</persName>也。夫匹夫匹婦不得其
-<lb ed="T" n="0733b11"/>所，猶隕霜天旱，盛德所感，乃能退之。感之
+        <lb ed="T" n="0733b04"/>得生類投囊，速歸。」明日，果有<anchor xml:id="beg0733sgsz2"/><choice resp="sgsz"><sic>[狂-王+段]</sic><corr>猳</corr></choice><anchor xml:id="end0733sgsz2"/>彘引㹠七
+        <lb ed="T" n="0733b05"/>箇，淨人分頭驅逐，<anchor xml:id="beg0733sgsz3"/><choice resp="sgsz"><sic>[狂-王+段]</sic><corr>猳</corr></choice><anchor xml:id="end0733sgsz3"/>母走矣，得㹠而歸。<persName key="A000008">行</persName>已
+        <lb ed="T" n="0733b06"/>備巨瓮，逐一入之，閉蓋，以六乙泥<ptr target="#n696"/>封口，
+        <lb ed="T" n="0733b07"/>誦胡語數契而止。投明<ptr target="#n697"/>，中官下詔入問，云：「
+<lb ed="T" n="0733b08"/>司天監奏：『昨夜北斗七座星全不見』，何耶？」對
+        <lb ed="T" n="0733b09"/>曰：「昔<date from-iso="0386-02-21" key="j18620951916335" to-iso="0534-08-24">後魏</date>曾失熒惑星<ptr target="#n698"/>，至今帝車<ptr target="#n699"/>不見。此
+        <lb ed="T" n="0733b10"/>則天將大儆於<ref type="person" target="#A000291">陛下</ref>也。夫匹夫匹婦不得其
+        <lb ed="T" n="0733b11"/>所，猶隕霜<ptr target="#n700"/>天旱，盛德所感，乃能退之。感之
 <lb ed="T" n="0733b12"/>切者其在葬枯骨乎！釋門以慈心降一切
-<lb ed="T" n="0733b13"/>魔，微僧曲見，莫若大赦天下。」<persName key="A000291">玄宗</persName>依之。其
+        <lb ed="T" n="0733b13"/>魔，<ref type="person" target="#A000008">微僧</ref>曲見，莫若大赦天下。」<persName key="A000291">玄宗</persName>依之。其
 <lb ed="T" n="0733b14"/>夜占奏北斗一星見，七夜復初，其術不可
-<lb ed="T" n="0733b15"/>測也。又<date from-iso="0713" key="j19818371992113" to-iso="0742">開元中</date>甞旱甚，<persName key="A000291">帝</persName>令祈雨，曰：「當得
+<lb ed="T" n="0733b15"/>測也。又<date from-iso="0713" key="j19818371992113" to-iso="0742">開元中</date>甞旱甚，<ref target="#A000291" type="person">帝</ref>令祈雨，曰：「當得
 <lb ed="T" n="0733b16"/>一器上有龍狀者，方可致雨。」勅令中官同
 <lb ed="T" n="0733b17"/>於內庫中遍視之，皆言弗類。數日後指一
-<lb ed="T" n="0733b18"/>古鑑，鼻盤龍，喜曰：「此真龍也。」乃將入壇場，
+        <lb ed="T" n="0733b18"/>古鑑，鼻<ptr target="#n701"/>盤龍，喜曰：「此真龍也。」乃將入壇場，
 <lb ed="T" n="0733b19"/>一日而雨。其異術通感為若此也。<persName key="A000291">玄宗</persName>在
-<lb ed="T" n="0733b20"/><placeName key="CN0610112A02AA">大明宮</placeName>，從容密問社稷吉凶并祚運終畢事，
-<lb ed="T" n="0733b21"/><persName key="A000008">行</persName>對以他語。<persName key="A000291">帝</persName>詢之不已，遂曰：「<persName key="A000291">陛</persName>下當有
-<lb ed="T" n="0733b22"/>『萬里』之行。」又曰：「社稷畢得終吉。」<persName key="A000291">帝</persName>大悅。復
-<lb ed="T" n="0733b23"/>遺<persName key="A000291">帝</persName>一金合子，形若彈丸，內貯物，撼必有
-<lb ed="T" n="0733b24"/>聲，發之不得，云：「有急則開。」<persName key="A000291">帝</persName>幸<placeName key="CN0510184Z16AA">蜀</placeName>，倉黃都
-<lb ed="T" n="0733b25"/>忘斯事，及到<placeName key="CN0510108Z11AA">成都</placeName>，忽憶啟之，則藥分中當
-<lb ed="T" n="0733b26"/>歸也。<persName key="A000291">帝</persName>曰：「伊藥產於此，<persName key="A000008">師</persName>知<persName key="A000291">朕</persName>違難至<placeName key="CN0510184Z16AA">蜀</placeName>
-        <lb ed="T" n="0733b27"/>當歸也。」復見<placeName key="CN0510108A06AA">萬里橋</placeName>，曰：「<persName key="A000008">一行</persName>之言，信其神
-<lb ed="T" n="0733b28"/>矣。」命中官焚香祝之，乃告謝也。及<persName key="A003875">昭宗</persName>初
-<lb ed="T" n="0733b29"/>封吉王，至太子德王，唐為梁滅，終<persName key="A000008">行</persName>之言「<pb ed="T" n="0733c" xml:id="T50.2061.0733c"/>
-<lb ed="T" n="0733c01"/>社稷畢得終吉」也。<date from-iso="0727-09-24" key="j19868571986885" to-iso="0727-10-22">開元十五年九月</date>於<placeName key="CN0610116T16AA">華嚴
-<lb ed="T" n="0733c02"/>寺</placeName>疾篤，將輿病入辭，小間而止。<persName key="A000291">玄宗</persName>此夜
+<lb ed="T" n="0733b20"/><placeName key="PL000000042356">大明宮</placeName>，從容密問社稷吉凶，并祚運終畢事，
+        <lb ed="T" n="0733b21"/><persName key="A000008">行</persName>對以他語。<ref target="#A000291" type="person">帝</ref>詢之不已，遂曰：「<ref target="#A000291" type="person">陛下</ref>當有
+<lb ed="T" n="0733b22"/>『萬里』之行。」又曰：「社稷畢得終吉。」<ref target="#A000291" type="person">帝</ref>大悅。復
+<lb ed="T" n="0733b23"/>遺<ref target="#A000291" type="person">帝</ref>一金合子，形若彈丸，內貯物，撼必有
+        <lb ed="T" n="0733b24"/>聲，發之不得，云：「有急則開。」<ref target="#A000291" type="person">帝</ref>幸<placeName key="PL000000035107">蜀</placeName><ptr target="#n382"/>，倉黃<ptr target="#n702"/>都
+        <lb ed="T" n="0733b25"/>忘斯事，及到<placeName key="PL000000034785">成都</placeName>，忽憶啟之，則藥分中「當
+        <lb ed="T" n="0733b26"/>歸<ptr target="#n705"/>」也。<ref target="#A000291" type="person">帝</ref>曰：「伊藥產於此，<persName key="A000008">師</persName>知<persName key="A000291">朕</persName>違難至<placeName key="PL000000035107">蜀</placeName>
+        <lb ed="T" n="0733b27"/>當歸也。」復見<placeName key="PL000000034725">萬里橋</placeName>，曰：「<persName key="A000008">一行</persName>之言，信其神
+<lb ed="T" n="0733b28"/>矣。」命中官焚香祝之，乃告謝也。及<persName key="A003875">昭宗</persName>初，
+        <lb ed="T" n="0733b29"/>封<persName key="A021670">吉王</persName>，至<persName key="A021669">太子德王</persName>，唐為梁滅，終<persName key="A000008">行</persName>之言「<pb ed="T" n="0733c" xml:id="T50.2061.0733c"/>
+<lb ed="T" n="0733c01"/>社稷畢得終『吉』」也。<date from-iso="0727-09-24" key="j19868571986885" to-iso="0727-10-22">開元十五年九月</date>於<placeName key="PL000000042515">華嚴
+    <lb ed="T" n="0733c02"/>寺</placeName>疾篤，將輿病<ptr target="#n706"/>入辭，小間<ptr target="#n707"/>而止。<persName key="A000291">玄宗</persName>此夜
 <lb ed="T" n="0733c03"/>夢瞰禪居，見繩床紙隔開扇，曉而驗問，<persName key="A000008">一</persName>
-<lb ed="T" n="0733c04"/>如所覩。乃詔<placeName key="CN0610102Z07AA">京城</placeName>名德致大道場，為<persName key="A000008">行</persName>祈
-<lb ed="T" n="0733c05"/>福，危疾微愈。其寵愛如是。<date key="j19847091984709" when-iso="0721-11-06">十月八日</date>隨<persName key="A000291">駕</persName>
-<lb ed="T" n="0733c06"/>幸<placeName key="CN0610115Z28AA">新豐</placeName>，身無諸患，口無一言，忽然浴香水
-<lb ed="T" n="0733c07"/>換衣，趺坐正念，怡然示滅。一云：辭告<persName key="A000291">玄宗</persName>
-        <lb ed="T" n="0733c08"/>後，自駕前東來<placeName key="CN0410185M02AA">嵩山</placeName>謁<anchor xml:id="beg0733sgsz4"/>禮<anchor xml:id="end0733sgsz4"/><persName key="A009319">本師</persName>，即<persName key="A009319">寂</persName>也。時
-<lb ed="T" n="0733c09"/><placeName key="CN0410302Z01AA">河南</placeName>尹<persName key="A009351">裴寬</persName>正謁<persName key="A009319">寂</persName>，<persName key="A009319">寂</persName>云：「有少事，未暇與
-<lb ed="T" n="0733c10"/>大尹欵話。且請踟蹰休息也。」寬乃屏從人，
-<lb ed="T" n="0733c11"/>止於旁室，伺<persName key="A009319">寂</persName>何為。見潔淨正堂，焚香默
+        <lb ed="T" n="0733c04"/>如所覩。乃詔<ref type="place" target="#PL000000042189">京城</ref>名德致大道場，為<persName key="A000008">行</persName>祈
+        <lb ed="T" n="0733c05"/>福，危疾微愈。其寵愛如是。<date key="j19847091984709" when-iso="0721-11-06">十月八日</date>隨<ref target="#A000291" type="person">駕</ref>
+<lb ed="T" n="0733c06"/>幸<placeName key="PL000000042473">新豐</placeName>，身無諸患，口無一言，忽然浴香水
+<lb ed="T" n="0733c07"/>換衣，趺坐正念，怡然示滅。一云，辭告<persName key="A000291">玄宗</persName>
+        <lb ed="T" n="0733c08"/>後，自<ref type="person" target="#A000291">駕</ref>前東來<placeName key="PL000000023253">嵩山</placeName>謁<anchor xml:id="beg0733sgsz4"/>禮<anchor xml:id="end0733sgsz4"/><ref type="person" target="#A009319">本師</ref><ptr target="#n190"/>，即<persName key="A009319">寂</persName>也。時
+<lb ed="T" n="0733c09"/><placeName key="PL000000023580">河南</placeName>尹<persName key="A009351">裴寬</persName>正謁<persName key="A009319">寂</persName>，<persName key="A009319">寂</persName>云：「有少事，未暇與
+        <lb ed="T" n="0733c10"/><ref type="person" target="#A009351">大尹</ref>欵話。且請踟蹰休息也。」<persName key="A009351">寬</persName>乃屏從人，
+        <lb ed="T" n="0733c11"/>止於旁室，伺<persName key="A009319">寂</persName>何為。見潔淨正堂<ptr target="#n708"/>，焚香默
 <lb ed="T" n="0733c12"/>坐，如有所待。斯須，叩門連聲云：「<persName key="A000008">天師一行
-<lb ed="T" n="0733c13"/>和尚</persName>至（<persName key="A000008">僧</persName>號<persName key="A000008">天師</persName>，始見於此，言天子師也。）。」<persName key="A000008">行</persName>入，頗怱切之狀，
+    <lb ed="T" n="0733c13"/>和尚</persName>至（<ref type="person" target="#A000008">僧</ref>號<persName key="A000008">天師</persName>，始見於此，言天子師也。）。」<persName key="A000008">行</persName>入，頗怱切之狀，
 <lb ed="T" n="0733c14"/>禮<persName key="A009319">寂</persName>之足，附耳密語，其貌愈恭。<persName key="A009319">寂</persName>但頷譍
         <lb ed="T" n="0733c15"/>曰：「無不可者。」語訖又<anchor xml:id="beg0733sgsz5"/>禮<anchor xml:id="end0733sgsz5"/>，<anchor xml:id="beg0733sgsz6"/>禮<anchor xml:id="end0733sgsz6"/>語者三，<persName key="A009319">寂</persName>唯言
 <lb ed="T" n="0733c16"/>「是是，無不可者。」<persName key="A000008">行</persName>語訖，降階入南室，自閉
 <lb ed="T" n="0733c17"/>其戶。<persName key="A009319">寂</persName>乃徐召侍者曰：「速聲鐘，<persName key="A000008">一行</persName>已滅
 <lb ed="T" n="0733c18"/>度。」左右疾走視之，瞑目而坐，手掩伺息，已
         <lb ed="T" n="0733c19"/>絕。四眾<ptr target="#n98"/>弟子悲號沸渭，撼動山谷，乃停神於
-<lb ed="T" n="0733c20"/><placeName key="CN0610102T43AA">罔極寺</placeName>。自終及葬，凡經<anchor xml:id="beg0733002"/>二<anchor xml:id="end0733002"/>七日，爪甲不變，
-<lb ed="T" n="0733c21"/>髭髮更長，形色怡悅，時眾驚異。<persName key="A000291">帝</persName>覽奏悲愴
-<lb ed="T" n="0733c22"/>曰：「<persName key="A000008">禪師</persName>捨朕，深用哀慕！」喪事官供，詔葬于
-<lb ed="T" n="0733c23"/><placeName key="CN0610102A11AA">銅人原</placeName>，<app type="cb-app" xml:id="begd1e6809"/>諡<anchor xml:id="endd1e6809"/>曰<persName key="A000008">大慧禪師</persName>。御撰《塔銘》，天下釋
+<lb ed="T" n="0733c20"/><placeName key="PL000000042154">罔極寺</placeName>。自終及葬，凡經<anchor xml:id="beg0733002"/>二<anchor xml:id="end0733002"/>七日，爪甲不變，
+<lb ed="T" n="0733c21"/>髭髮更長，形色怡悅，時眾驚異。<ref type="person" target="#A000291">帝</ref>覽奏悲愴
+        <lb ed="T" n="0733c22"/>曰：「<ref type="person" target="#A000008">禪師</ref>捨<ref type="person" target="#A000291">朕</ref>，深用哀慕！」喪事官供，詔葬于
+<lb ed="T" n="0733c23"/><placeName key="PL000000042091">銅人原</placeName>，<app type="cb-app" xml:id="begd1e6809"/>諡<anchor xml:id="endd1e6809"/>曰「<persName key="A000008">大慧禪師</persName>」。御撰塔銘，天下釋
 <lb ed="T" n="0733c24"/>子榮之。</p>
     <linkGrp>
         <link targets="#0732c08 #0732c08"/>
         <ptr target="#A000008" type="person"/>
-        <ptr target="#CN0130529Z10AA" type="place"/>
+        <ptr target="#PL000000001981" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0732c08 #0732c09"/>
+        <ptr target="#A009313" type="person"/>
+        <ptr target="#j19469511973336" type="time"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0732c10 #0732c12"/>
@@ -124,19 +129,19 @@
     <linkGrp>
         <link targets="#0732c24 #0732c25"/>
         <ptr target="#A000008" type="person"/>
-        <ptr target="#A009328" type="person"/>
-        <ptr target="#CN0420582Z14AA" type="place"/>
+        <ptr target="#A014098" type="person"/>
+        <ptr target="#PL000000027041" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0732c27 #0733a05"/>
         <ptr target="#A000008" type="person"/>
-        <ptr target="#CN0331023T01AA" type="place"/>
+        <ptr target="#PL000000014664" type="place"/>
     </linkGrp>
     <linkGrp>
-        <link targets="#0733a05 #0733a09"/>
+        <link targets="#0733a05 #0733a11"/>
         <ptr target="#A000008" type="person"/>
         <ptr target="#A000291" type="person"/>
-        <ptr target="#CN0331023T01AA" type="place"/>
+        <ptr target="#PL000000042189" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0733a11 #0733a15"/>
@@ -157,81 +162,81 @@
         <link targets="#0733a18 #0733a19"/>
         <ptr target="#A000008" type="person"/>
         <ptr target="#A002461" type="person"/>
-        <ptr target="#CN0610112A02AE" type="place"/>
+        <ptr target="#PL000000042360" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0733a18 #0733a19"/>
         <ptr target="#A000008" type="person"/>
         <ptr target="#A000291" type="person"/>
-        <ptr target="#CN0610112A02AE" type="place"/>
+        <ptr target="#PL000000042360" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0733a19 #0733a19"/>
         <ptr target="#A000008" type="person"/>
-        <ptr target="#CN0610102T43AA" type="place"/>
+        <ptr target="#PL000000042154" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0733a22 #0733a23"/>
         <ptr target="#A000008" type="person"/>
-        <ptr target="#CN0610112A02AE" type="place"/>
+        <ptr target="#PL000000042360" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0733a23 #0733b01"/>
         <ptr target="#A000008" type="person"/>
         <ptr target="#A009336" type="person"/>
-        <ptr target="#CN0610102Z07AA" type="place"/>
+        <ptr target="#PL000000042189" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0733b07 #0733b15"/>
         <ptr target="#A000008" type="person"/>
         <ptr target="#A000291" type="person"/>
-        <ptr target="#CN0610102Z07AA" type="place"/>
+        <ptr target="#PL000000042189" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0733b15 #0733b19"/>
         <ptr target="#A000008" type="person"/>
         <ptr target="#A000291" type="person"/>
-        <ptr target="#CN0610102Z07AA" type="place"/>
+        <ptr target="#PL000000042189" type="place"/>
         <ptr target="#j19818371992113" type="time"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0733b19 #0733b24"/>
         <ptr target="#A000008" type="person"/>
         <ptr target="#A000291" type="person"/>
-        <ptr target="#CN0610112A02AA" type="place"/>
+        <ptr target="#PL000000042356" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0733b24 #0733b27"/>
         <ptr target="#A000291" type="person"/>
-        <ptr target="#CN0510184Z16AA" type="place"/>
+        <ptr target="#PL000000035107" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0733b25 #0733b27"/>
         <ptr target="#A000291" type="person"/>
-        <ptr target="#CN0510108Z11AA" type="place"/>
+        <ptr target="#PL000000034785" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0733b27 #0733b28"/>
         <ptr target="#A000291" type="person"/>
-        <ptr target="#CN0510108A06AA" type="place"/>
+        <ptr target="#PL000000034725" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0733c01 #0733c02"/>
         <ptr target="#A000008" type="person"/>
-        <ptr target="#CN0610116T16AA" type="place"/>
+        <ptr target="#PL000000042515" type="place"/>
         <ptr target="#j19868571986885" type="time"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0733c02 #0733c05"/>
         <ptr target="#A000291" type="person"/>
-        <ptr target="#CN0610102Z07AA" type="place"/>
+        <ptr target="#PL000000042189" type="place"/>
         <ptr target="#j19868571986885" type="time"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0733c05 #0733c07"/>
         <ptr target="#A000291" type="person"/>
         <ptr target="#A000008" type="person"/>
-        <ptr target="#CN0610115Z28AA" type="place"/>
+        <ptr target="#PL000000042473" type="place"/>
         <ptr target="#j19847091984709" type="time"/>
     </linkGrp>
     <linkGrp>
@@ -239,6 +244,6 @@
         <ptr target="#A000008" type="person"/>
         <ptr target="#A009319" type="person"/>
         <ptr target="#A009351" type="person"/>
-        <ptr target="#CN0410185M02AA" type="place"/>
+        <ptr target="#PL000000023253" type="place"/>
     </linkGrp>
 </div>

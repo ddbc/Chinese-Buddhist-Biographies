@@ -1,18 +1,18 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0887a10shiShuiAn">
     <anchor n="T.50.2061.0887a10"/><head><date from-iso="0960-02-09" key="j20717322132856" to-iso="1127-06-18">宋</date>杭州報恩寺<persName key="A013518">永安</persName>傳</head><p>
-        <lb ed="T" n="0887a11"/><persName key="A013518">釋<anchor xml:id="beg0887002"/>水<anchor xml:id="end0887002"/>安</persName>，姓翁氏，<placeName key="CN0330302Z09AA">溫州永嘉</placeName>人也。少歲淳厚，
+        <lb ed="T" n="0887a11"/><persName key="A013518">釋<anchor xml:id="beg0887002"/>水<anchor xml:id="end0887002"/>安</persName>，姓翁氏，<placeName key="PL000000012518">溫州永嘉</placeName>人也。少歲淳厚，
 <lb ed="T" n="0887a12"/>黃中通理。遇同郡<persName key="A010699">彙征大師</persName>鳳鳴越嶠<!--找不到此地-->，玉
 <lb ed="T" n="0887a13"/>瑩藍田，穫落文心，沈潛學奧，以其出樂安
 <lb ed="T" n="0887a14"/><persName key="A013760">孫郃</persName>拾遺之門也，而有慕上之心，往拜而
         <lb ed="T" n="0887a15"/>乞度。然<persName key="A010699">征</persName>性高岸而寡合，而<persName key="A013518">安</persName>事之也曲
 <lb ed="T" n="0887a16"/>從若環，蓋哀其幼知擇師耳。<date key="j20594412060821" notAfter-iso="0930" notBefore-iso="0926">天成</date>中，隨侍
-<lb ed="T" n="0887a17"/>出<placeName key="CN0330103Z18AA">杭</placeName>，俄有從十二頭陀之意，潛逃欲登<placeName key="CN0350000E02AA">閩</placeName>
-<lb ed="T" n="0887a18"/>嶺，參問禪宗。屬封<anchor xml:id="beg0887003"/>彊<anchor xml:id="end0887003"/>艱棘，却迴結庵于<placeName key="CN0331023M01AA">天
+<lb ed="T" n="0887a17"/>出<placeName key="PL000000011518">杭</placeName>，俄有從十二頭陀之意，潛逃欲登<placeName key="PL000000017104">閩</placeName>
+<lb ed="T" n="0887a18"/>嶺，參問禪宗。屬封<anchor xml:id="beg0887003"/>彊<anchor xml:id="end0887003"/>艱棘，却迴結庵于<placeName key="PL000000014411">天
     <lb ed="T" n="0887a19"/>台</placeName>。後遇<persName key="A008355">韶禪師</persName>法集，頓遣群疑，重來禮<persName key="A010699">征</persName>。
 <lb ed="T" n="0887a20"/>咄之曰：「棄背孝養，爾自速辜，遺行于斯，還
 <lb ed="T" n="0887a21"/>有裨補前咎計否？」<persName key="A013518">安</persName>跪對曰：「從來無事，請
-        <lb ed="T" n="0887a22"/>用塞責。」<persName key="A010699">征</persName>肯頷之。<ref type="person" target="#A006774">漢南國王錢氏</ref>召居<placeName key="CN0330102T02AA">報
+        <lb ed="T" n="0887a22"/>用塞責。」<persName key="A010699">征</persName>肯頷之。<ref type="person" target="#A006774">漢南國王錢氏</ref>召居<placeName key="PL000000011432">報
 <lb ed="T" n="0887a23"/>恩寺</placeName>，署號禪師焉。乃以華嚴李論為會要，
 <lb ed="T" n="0887a24"/>因將合經，<app type="multiplier" xml:id="begd1e49115"/>募<anchor xml:id="endd1e49115"/>人雕板，印而施行。每有檀
 <lb ed="T" n="0887a25"/>施，罕聞儲畜，迴捨二田矣。以<date key="j20768372077220" notAfter-iso="0975-02-18" notBefore-iso="0974-01-31">開寶甲戌
@@ -23,20 +23,20 @@
         <link targets="#0887a11 #0887a13"/>
         <ptr target="#A013518" type="person"/>
         <ptr target="#A010699" type="person"/>
-        <ptr target="#CN0330302Z09AA" type="place"/>
+        <ptr target="#PL000000012518" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0887a16 #0887a17"/>
         <ptr target="#A013518" type="person"/>
         <ptr target="#A010699" type="person"/>
-        <ptr target="#CN0330103Z18AA" type="place"/>
+        <ptr target="#PL000000011518" type="place"/>
         <ptr target="#j20594412060821" type="time"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0887a18 #0887a19"/>
         <ptr target="#A013518" type="person"/>
         <ptr target="#A008355" type="person"/>
-        <ptr target="#CN0331023M01AA" type="place"/>
+        <ptr target="#PL000000014411" type="place"/>
         <ptr target="#j20594412060821" type="time"/>
     </linkGrp>
     <linkGrp>
@@ -47,7 +47,7 @@
     <linkGrp>
         <link targets="#0887a22 #0887a24"/>
         <ptr target="#A013518" type="person"/>
-        <ptr target="#CN0330102T02AA" type="place"/>
+        <ptr target="#PL000000011432" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0887a22 #0887a24"/>

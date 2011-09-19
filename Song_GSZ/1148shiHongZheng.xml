@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0864a01shiXuanZang">
     <anchor n="T.50.2061.0864a01"/><head><date from-iso="0618-06-21" key="j19469512052491" to-iso="0907-06-06">唐</date>成都府靈池縣蘭若<persName key="A013546">洪正</persName>傳（<persName key="A013547">守賢</persName>）</head><p>
-<lb ed="T" n="0864a02"/><persName key="A013546">釋洪正</persName>，俗姓常氏，未詳何許人也。居于<placeName key="CN0510184Z16AA">岷
+<lb ed="T" n="0864a02"/><persName key="A013546">釋洪正</persName>，俗姓常氏，未詳何許人也。居于<placeName key="PL000000035107">岷
 <lb ed="T" n="0864a03"/>蜀</placeName>間蘭若，往因有疾，所苦沈綿，從復平寧。
 <lb ed="T" n="0864a04"/>發誓恒誦金剛般若經，日以二十過為准。
 <lb ed="T" n="0864a05"/>精持靡曠，時隣僧<persName key="A013547">守賢</persName>夜坐，見二鬼使手
@@ -23,6 +23,6 @@
         <link targets="#0864a02 #0864a11"/>
         <ptr target="#A013546" type="person"/>
         <ptr target="#A013547" type="person"/>
-        <ptr target="#CN0510184Z16AA" type="place"/>
+        <ptr target="#PL000000035107" type="place"/>
     </linkGrp>
 </div>

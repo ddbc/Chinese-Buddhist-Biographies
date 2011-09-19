@@ -1,36 +1,36 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0556b15shiFaJing">
-    <p><anchor n="T.50.2060.0556b15"/><lb ed="T" n="0556b15"/><persName key="A005897">釋法京</persName>。姓孫。<placeName key="CN0140110Z27AA">太原</placeName>人。寓居<placeName key="CN0421003Z03AA">江陵</placeName>。母將懷孕。<lb ed="T" n="0556b16"/>夢入蓮池捧一童子。端正可喜。因而有娠。<lb ed="T" n="0556b17"/>將誕又夢。乘白師子遊戲虛空。<persName key="A005897">京</persName><date key="j19015141910667" notAfter-iso="0519" notBefore-iso="0494">七歲</date>出<lb ed="T" n="0556b18"/>家。<date key="j19037281912852" notAfter-iso="0525" notBefore-iso="0500">十三</date>與同學<persName key="A005908">智淵</persName>。咸昇高座說法無滯。<lb ed="T" n="0556b19"/><placeName key="CN0421003T06AA">寺</placeName>內長少俱夢。聖僧告云。<persName key="A005897">京</persName>是<placeName key="CN0421003T06AA">寺</placeName><ptr target="fn11"/>元檀越。<lb ed="T" n="0556b20"/>願力生此。方為棟梁。所以凡所投造風從<lb ed="T" n="0556b21"/>水漸。財利山積福門大弘。殿宇小大千五百<lb ed="T" n="0556b22"/>間。並<persName key="A005897">京</persName>修造。僧眾湊集千有餘人。<placeName key="CN0421003T06AA">長沙大寺</placeName><lb ed="T" n="0556b23"/>聖像所居。天下稱最。東華第一。由是道力<lb ed="T" n="0556b24"/>所致幽明被之。<persName key="A005909"><persName key="A005141">後梁二主</persName></persName>聞便敬重。奉為<lb ed="T" n="0556b25"/>僧正綱紀遺法。晚抱危疾。<ptr target="fn12"/>諸僧像前七日<lb ed="T" n="0556b26"/>行道。沙門<persName key="A005910">法泰</persName>夢。像至於<persName key="A005897">京</persName>房。淨人<persName key="A005911">遠志</persName>。<lb ed="T" n="0556b27"/>親覩像從<persName key="A005897">京</persName>房返於大殿。爾日即愈。是知<lb ed="T" n="0556b28"/><persName key="A002034">育王</persName>瑞像感降在人。專注祈求無往不應。<lb ed="T" n="0556b29"/>不久卒<ptr target="fn13"/>於<placeName key="CN0421003T06AA">寺</placeName>。春秋七十六矣。</p>
+    <p><anchor n="T.50.2060.0556b15"/><lb ed="T" n="0556b15"/><persName key="A005897">釋法京</persName>。姓孫。<placeName key="PL000000003817">太原</placeName>人。寓居<placeName key="PL000000027766">江陵</placeName>。母將懷孕。<lb ed="T" n="0556b16"/>夢入蓮池捧一童子。端正可喜。因而有娠。<lb ed="T" n="0556b17"/>將誕又夢。乘白師子遊戲虛空。<persName key="A005897">京</persName><date key="j19015141910667" notAfter-iso="0519" notBefore-iso="0494">七歲</date>出<lb ed="T" n="0556b18"/>家。<date key="j19037281912852" notAfter-iso="0525" notBefore-iso="0500">十三</date>與同學<persName key="A005908">智淵</persName>。咸昇高座說法無滯。<lb ed="T" n="0556b19"/><placeName key="PL000000027743">寺</placeName>內長少俱夢。聖僧告云。<persName key="A005897">京</persName>是<placeName key="PL000000027743">寺</placeName><ptr target="fn11"/>元檀越。<lb ed="T" n="0556b20"/>願力生此。方為棟梁。所以凡所投造風從<lb ed="T" n="0556b21"/>水漸。財利山積福門大弘。殿宇小大千五百<lb ed="T" n="0556b22"/>間。並<persName key="A005897">京</persName>修造。僧眾湊集千有餘人。<placeName key="PL000000027743">長沙大寺</placeName><lb ed="T" n="0556b23"/>聖像所居。天下稱最。東華第一。由是道力<lb ed="T" n="0556b24"/>所致幽明被之。<persName key="A005909"><persName key="A005141">後梁二主</persName></persName>聞便敬重。奉為<lb ed="T" n="0556b25"/>僧正綱紀遺法。晚抱危疾。<ptr target="fn12"/>諸僧像前七日<lb ed="T" n="0556b26"/>行道。沙門<persName key="A005910">法泰</persName>夢。像至於<persName key="A005897">京</persName>房。淨人<persName key="A005911">遠志</persName>。<lb ed="T" n="0556b27"/>親覩像從<persName key="A005897">京</persName>房返於大殿。爾日即愈。是知<lb ed="T" n="0556b28"/><persName key="A002034">育王</persName>瑞像感降在人。專注祈求無往不應。<lb ed="T" n="0556b29"/>不久卒<ptr target="fn13"/>於<placeName key="PL000000027743">寺</placeName>。春秋七十六矣。</p>
     <linkGrp>
         <link targets="#0556b17 #0556b18"/>
         <ptr target="#A005897" type="person"/>
-        <ptr target="#CN0421003T06AA" type="place"/>
+        <ptr target="#PL000000027743" type="place"/>
         <ptr target="#j19015141910667" type="time"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0556b18 #0556b18"/>
         <ptr target="#A005897" type="person"/>
         <ptr target="#A005908" type="person"/>
-        <ptr target="#CN0421003T06AA" type="place"/>
+        <ptr target="#PL000000027743" type="place"/>
         <ptr target="#j19037281912852" type="time"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0556b24 #0556b25"/>
         <ptr target="#A005897" type="person"/>
         <ptr target="#A005909" type="person"/>
-        <ptr target="#CN0421003T06AA" type="place"/>
+        <ptr target="#PL000000027743" type="place"/>
         </linkGrp>
     <linkGrp>
         <link targets="#0556b24 #0556b25"/>
         <ptr target="#A005897" type="person"/>
         <ptr target="#A005141" type="person"/>
-        <ptr target="#CN0421003T06AA" type="place"/>
+        <ptr target="#PL000000027743" type="place"/>
         </linkGrp>
     <linkGrp>
         <link targets="#0556b26 #0556b29"/>
         <ptr target="#A005897" type="person"/>
         <ptr target="#A005910" type="person"/>
         <ptr target="#A005911" type="person"/>
-        <ptr target="#CN0421003T06AA" type="place"/>
+        <ptr target="#PL000000027743" type="place"/>
         </linkGrp>
 </div>

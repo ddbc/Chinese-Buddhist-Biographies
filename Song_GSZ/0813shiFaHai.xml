@@ -1,24 +1,24 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0738c25shiFaHai">
-    <anchor n="T.50.2061.0738c25"/><head><date from-iso="0618-06-21" key="j19469512052491" to-iso="0907-06-06">唐</date><placeName key="CN0330502Z19AA">吳興</placeName><persName key="A009589">法海</persName>傳</head><p>
-<lb ed="T" n="0738c26"/><persName key="A009589">釋法海</persName>，字<persName key="A009589">文允</persName>，姓張氏，<placeName key="CN0321102Z12AA">丹陽</placeName>人。少出家于<placeName key="CN0321111T01AA">鶴
+    <anchor n="T.50.2061.0738c25"/><head><date from-iso="0618-06-21" key="j19469512052491" to-iso="0907-06-06">唐</date><placeName key="PL000000013012">吳興</placeName><persName key="A009589">法海</persName>傳</head><p>
+<lb ed="T" n="0738c26"/><persName key="A009589">釋法海</persName>，字<persName key="A009589">文允</persName>，姓張氏，<placeName key="PL000000010986">丹陽</placeName>人。少出家于<placeName key="PL000000011009">鶴
 <lb ed="T" n="0738c27"/>林寺</placeName>。白駒匪食其場苗，金翅俄翔其海面，
 <lb ed="T" n="0738c28"/>曲從師教，周覽群經，大壑納川，鄧林聚羽。
 <lb ed="T" n="0738c29"/>是以圓入一性，學階空王，擅當代獨悟之<pb ed="T" n="0739a" xml:id="T50.2061.0739a"/>
 <lb ed="T" n="0739a01"/>名，剖先賢不決之義，一時外學《六籍》該通。甞
 <lb ed="T" n="0739a02"/>謂人曰：「佛法一門，極唯心地，餘皆椎輪也。」<date from-iso="0742" key="j19921141997410" to-iso="0756">天
-<lb ed="T" n="0739a03"/>寶</date>中，預<placeName key="CN0321002Z02AA">揚州</placeName><persName key="A009590">法慎律師</persName>講肆，同<persName key="A004177">曇一</persName>、<persName key="A009591">靈一</persName>等
+<lb ed="T" n="0739a03"/>寶</date>中，預<placeName key="PL000000010783">揚州</placeName><persName key="A009590">法慎律師</persName>講肆，同<persName key="A004177">曇一</persName>、<persName key="A009591">靈一</persName>等
 <lb ed="T" n="0739a04"/>推為<persName key="A002780">顏</persName>、<persName key="A009593">冉</persName>焉。復與杼山<persName key="A008833">晝公</persName>為忘形之交，
 <lb ed="T" n="0739a05"/>林下之遊。黑白二徒，多從求益焉。</p>
     <linkGrp>
         <link targets="#0738c26 #0738c26"/>
         <ptr target="#A009589" type="person"/>
-        <ptr target="#CN0321102Z12AA" type="place"/>
+        <ptr target="#PL000000010986" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0738c26 #0738c27"/>
         <ptr target="#A009589" type="person"/>
-        <ptr target="#CN0321111T01AA" type="place"/>
+        <ptr target="#PL000000011009" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0739a02 #0739a04"/>
@@ -26,7 +26,7 @@
         <ptr target="#A009590" type="person"/>
         <ptr target="#A004177" type="person"/>
         <ptr target="#A009591" type="person"/>
-        <ptr target="#CN0321002Z02AA" type="place"/>
+        <ptr target="#PL000000010783" type="place"/>
         <ptr target="#j19921141997410" type="time"/>
     </linkGrp>
 </div>

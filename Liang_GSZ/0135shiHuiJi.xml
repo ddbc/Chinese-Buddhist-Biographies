@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0382b23shiHuiJi">
-	<p><anchor n="T.50.2059.0382b23"/><lb ed="T" n="0382b23"/><persName key="A002275">釋慧集</persName>，本姓錢，<placeName key="CN0330185Z19AA">吳興於潛</placeName>人。<date key="j18938221894186" from-iso="0473-01-02" to-iso="0474-01-01">年十八</date>於<placeName key="CN0330602M05AA">會稽<lb ed="T" n="0382b24"/>樂林山</placeName>出家，仍隨<persName key="A002263">慧基法師</persName>受業。為性愨<lb ed="T" n="0382b25"/>實，言無華綺，而學勤昏曉，未嘗懈息。後出<lb ed="T" n="0382b26"/><placeName key="CN0320106Z05AA">京</placeName>，止<placeName key="CN0320106T09AA">招提寺</placeName>。復遍歷眾師，融冶異說，三藏、<lb ed="T" n="0382b27"/>方等並皆綜達。廣訪《大毘婆沙》及《雜心》、<ptr target="fn22"/>揵度<lb ed="T" n="0382b28"/>等，以相<ptr target="fn23"/>辯校，故於《毘曇》一部，擅步當時。凡<lb ed="T" n="0382b29"/>碩難堅，疑並為披釋，海內學賓無不必至。每<lb ed="T" n="0382c01"/>一開講，負帙千人。沙門<persName key="A001595">僧旻</persName>、<persName key="A000729">法雲</persName>並名高一<lb ed="T" n="0382c02"/>代，亦執卷請益。<persName key="A002098">今上</persName>深相賞<ptr target="fn24"/>接，以<date key="j19091921909574" from-iso="0515-02-02" to-iso="0516-02-19">天監十<lb ed="T" n="0382c03"/>四年</date>還至<placeName key="CN0330502Z22AA">烏程</placeName>，遘疾而卒，春秋六十。著《毘<lb ed="T" n="0382c04"/>曇大義疏》十餘萬言，盛行於世。</p>
+	<p><anchor n="T.50.2059.0382b23"/><lb ed="T" n="0382b23"/><persName key="A002275">釋慧集</persName>，本姓錢，<placeName key="PL000000012128">吳興於潛</placeName>人。<date key="j18938221894186" from-iso="0473-01-02" to-iso="0474-01-01">年十八</date>於<placeName key="PL000000013195">會稽<lb ed="T" n="0382b24"/>樂林山</placeName>出家，仍隨<persName key="A002263">慧基法師</persName>受業。為性愨<lb ed="T" n="0382b25"/>實，言無華綺，而學勤昏曉，未嘗懈息。後出<lb ed="T" n="0382b26"/><placeName key="PL000000008975">京</placeName>，止<placeName key="PL000000008934">招提寺</placeName>。復遍歷眾師，融冶異說，三藏、<lb ed="T" n="0382b27"/>方等並皆綜達。廣訪《大毘婆沙》及《雜心》、<ptr target="fn22"/>揵度<lb ed="T" n="0382b28"/>等，以相<ptr target="fn23"/>辯校，故於《毘曇》一部，擅步當時。凡<lb ed="T" n="0382b29"/>碩難堅，疑並為披釋，海內學賓無不必至。每<lb ed="T" n="0382c01"/>一開講，負帙千人。沙門<persName key="A001595">僧旻</persName>、<persName key="A000729">法雲</persName>並名高一<lb ed="T" n="0382c02"/>代，亦執卷請益。<persName key="A002098">今上</persName>深相賞<ptr target="fn24"/>接，以<date key="j19091921909574" from-iso="0515-02-02" to-iso="0516-02-19">天監十<lb ed="T" n="0382c03"/>四年</date>還至<placeName key="PL000000013015">烏程</placeName>，遘疾而卒，春秋六十。著《毘<lb ed="T" n="0382c04"/>曇大義疏》十餘萬言，盛行於世。</p>
 	<linkGrp>
 		<link targets="#0382b25 #0382c01"/>
 		<ptr target="#A002275" type="person"/>
-		<ptr target="#CN0320106T09AA" type="place"/>
+		<ptr target="#PL000000008934" type="place"/>
 	</linkGrp>
 	<linkGrp>
 		<link targets="#0382c01 #0382c02"/>
@@ -25,13 +25,13 @@
 		<link targets="#0382b23 #0382b25"/>
 		<ptr target="#A002275" type="person"/>
 		<ptr target="#A002263" type="person"/>
-		<ptr target="#CN0330602M05AA" type="place"/>
+		<ptr target="#PL000000013195" type="place"/>
 		<ptr target="#j18938221894186" type="time"/>
 	</linkGrp>
 	<linkGrp>
 		<link targets="#0382c02 #0382c03"/>
 		<ptr target="#A002275" type="person"/>
-		<ptr target="#CN0330502Z22AA" type="place"/>
+		<ptr target="#PL000000013015" type="place"/>
 		<ptr target="#j19091921909574" type="time"/>
 	</linkGrp>
 </div>

@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="bqnz0935b14miaoXiangNi">
-    <head>弘農<placeName key="CN0100000M01AA">北<ptr target="fn17"/>岳</placeName><persName key="A014711">妙相</persName>尼傳四</head><p><anchor n="T.50.2063.0935b15"/><lb ed="T" n="0935b15"/><persName key="A014711">妙相</persName>，本姓張，名<persName key="A014711">珮華</persName>，<placeName key="CN0411282Z14AA">弘農</placeName>人也。父<persName key="A014713">茂</persName>，家素富<lb ed="T" n="0935b16"/>盛。<persName key="A014711">相</persName>早習經訓，十五適太子舍人<placeName key="CN0610204Z11AA">北地</placeName><persName key="A014714">皇甫<lb ed="T" n="0935b17"/><ptr target="fn18"/>達</persName>，<persName key="A014714">達</persName>居喪失禮，<persName key="A014711">相</persName>惡之，告求離絕，因請出家，<lb ed="T" n="0935b18"/><persName key="A014713">父</persName>並從之。精勤蔬食，遊心慧藏，明達法相。住<lb ed="T" n="0935b19"/>弘農<placeName key="CN0100000M01AA">北岳</placeName>，蔭林<ptr target="fn19"/>面野，<ptr target="fn20"/>徒屬甚多。悅志閑曠，<lb ed="T" n="0935b20"/>遁<ptr target="fn21"/>影其中二十餘載，<ptr target="fn22"/>勵精苦行，久而彌篤。<lb ed="T" n="0935b21"/>每說法度人，常懼聽者不能專志，或涕泣以<lb ed="T" n="0935b22"/>示之，是故其所啟訓皆能弘益，晉<date key="j18471211851488" notAfter-iso="0357-02-06" notBefore-iso="0345-02-22">永和</date>中，<placeName key="CN0411282Z14AA">弘<lb ed="T" n="0935b23"/>農</placeName>太守請七日齋，座上白衣諮請佛法，言挾<lb ed="T" n="0935b24"/>不遜。<persName key="A014711">相</persName>正色曰：「君非直見慢，亦大輕邦宰。何<lb ed="T" n="0935b25"/>用無禮，苟出人間耶！」於是稱疾而退，當時道<lb ed="T" n="0935b26"/>俗<ptr target="fn23"/>咸歎服焉。後枕疾累日，臨終<ptr target="fn24"/>怡悅，顧語<lb ed="T" n="0935b27"/>弟子曰：「不問窮達，生必有死，今日別矣。」言絕<lb ed="T" n="0935b28"/>而終。</p>
+    <head>弘農<placeName key="PL000000000223">北<ptr target="fn17"/>岳</placeName><persName key="A014711">妙相</persName>尼傳四</head><p><anchor n="T.50.2063.0935b15"/><lb ed="T" n="0935b15"/><persName key="A014711">妙相</persName>，本姓張，名<persName key="A014711">珮華</persName>，<placeName key="PL000000025129">弘農</placeName>人也。父<persName key="A014713">茂</persName>，家素富<lb ed="T" n="0935b16"/>盛。<persName key="A014711">相</persName>早習經訓，十五適太子舍人<placeName key="PL000000042736">北地</placeName><persName key="A014714">皇甫<lb ed="T" n="0935b17"/><ptr target="fn18"/>達</persName>，<persName key="A014714">達</persName>居喪失禮，<persName key="A014711">相</persName>惡之，告求離絕，因請出家，<lb ed="T" n="0935b18"/><persName key="A014713">父</persName>並從之。精勤蔬食，遊心慧藏，明達法相。住<lb ed="T" n="0935b19"/>弘農<placeName key="PL000000000223">北岳</placeName>，蔭林<ptr target="fn19"/>面野，<ptr target="fn20"/>徒屬甚多。悅志閑曠，<lb ed="T" n="0935b20"/>遁<ptr target="fn21"/>影其中二十餘載，<ptr target="fn22"/>勵精苦行，久而彌篤。<lb ed="T" n="0935b21"/>每說法度人，常懼聽者不能專志，或涕泣以<lb ed="T" n="0935b22"/>示之，是故其所啟訓皆能弘益，晉<date key="j18471211851488" notAfter-iso="0357-02-06" notBefore-iso="0345-02-22">永和</date>中，<placeName key="PL000000025129">弘<lb ed="T" n="0935b23"/>農</placeName>太守請七日齋，座上白衣諮請佛法，言挾<lb ed="T" n="0935b24"/>不遜。<persName key="A014711">相</persName>正色曰：「君非直見慢，亦大輕邦宰。何<lb ed="T" n="0935b25"/>用無禮，苟出人間耶！」於是稱疾而退，當時道<lb ed="T" n="0935b26"/>俗<ptr target="fn23"/>咸歎服焉。後枕疾累日，臨終<ptr target="fn24"/>怡悅，顧語<lb ed="T" n="0935b27"/>弟子曰：「不問窮達，生必有死，今日別矣。」言絕<lb ed="T" n="0935b28"/>而終。</p>
     
     <linkGrp>
         <link targets="#0935b15 #0935b16"/>
@@ -10,12 +10,12 @@
     <linkGrp>
         <link targets="#0935b17 #0935b20"/>
         <ptr target="#A014711" type="person"/>
-        <ptr target="#CN0100000M01AA" type="place"/>
+        <ptr target="#PL000000000223" type="place"/>
         </linkGrp>
     <linkGrp>
         <link targets="#0935b22 #0935b26"/>
         <ptr target="#A014711" type="person"/>
-        <ptr target="#CN0411282Z14AA" type="place"/>
+        <ptr target="#PL000000025129" type="place"/>
         <ptr target="#j18471211851488" type="time"/>
     </linkGrp>
 </div>

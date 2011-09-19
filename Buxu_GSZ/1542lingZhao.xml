@@ -1,50 +1,50 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0377c12lingZhao">
     <head><lb ed="X" n="0377c12"/>　　　　<persName key="A011661">靈炤</persName>傳</head>
-    <p><anchor n="X.77.1524.0377c13"/><lb ed="X" n="0377c13"/><persName key="A011661">靈炤</persName>。生<placeName key="CN0330781Z07AA">蘭溪</placeName>盧氏。幼失恃怙。向兄求出家。兄難之曰。
+    <p><anchor n="X.77.1524.0377c13"/><lb ed="X" n="0377c13"/><persName key="A011661">靈炤</persName>。生<placeName key="PL000000013579">蘭溪</placeName>盧氏。幼失恃怙。向兄求出家。兄難之曰。
         <lb ed="X" n="0377c14"/>使藤繫汝俱碎。可從汝意。師忻然入林。取藤成束。置
         <lb ed="X" n="0377c15"/>兄前。曰果容入道。用此繫我。俱碎無恨。兄不能奪。遂
-        <lb ed="X" n="0377c16"/>入<placeName key="CN0330000T21AA">寶慧寺</placeName>。誓去枕席。香燈禮誦。未期月。誦通法華光
-        <lb ed="X" n="0377c17"/>明。具戒後。往依<persName key="A000106">淨覺</persName>於<placeName key="CN0330502A01AA">吳興</placeName>。一家戶牖。無不通達。初
-        <lb ed="X" n="0377c18"/>主<placeName key="CN0330100M11AA">吳山</placeName>解空。繼遷<placeName key="CN0330106T01AA">景德</placeName>。<date from-iso="1068-02-12" to-iso="1078-01-22" key="j21111812114813">熙寧中</date>。徙雲間<placeName key="CN0310117T03AA">超果</placeName>。自<date from-iso="1078-01-23" to-iso="1086-01-23" key="j21148142117736">元豐</date>
+        <lb ed="X" n="0377c16"/>入<placeName key="PL000000011338">寶慧寺</placeName>。誓去枕席。香燈禮誦。未期月。誦通法華光
+        <lb ed="X" n="0377c17"/>明。具戒後。往依<persName key="A000106">淨覺</persName>於<placeName key="PL000000012949">吳興</placeName>。一家戶牖。無不通達。初
+        <lb ed="X" n="0377c18"/>主<placeName key="PL000000011367">吳山</placeName>解空。繼遷<placeName key="PL000000011596">景德</placeName>。<date from-iso="1068-02-12" to-iso="1078-01-22" key="j21111812114813">熙寧中</date>。徙雲間<placeName key="PL000000008465">超果</placeName>。自<date from-iso="1078-01-23" to-iso="1086-01-23" key="j21148142117736">元豐</date>
         <lb ed="X" n="0377c19"/>以來。於每歲春首。結淨業社七日期。預者二萬人。念
         <lb ed="X" n="0377c20"/>佛獲驗。不可紀錄。甞夢三聖儀相。前跪作禮曰。<persName key="A011661">靈炤</persName>
-        <lb ed="X" n="0377c21"/>一生。誦大乘經。期生<placeName key="XZ0000033A01AA">安養</placeName>。為果願否。<persName key="A002803">觀音</persName>指曰。淨土
+        <lb ed="X" n="0377c21"/>一生。誦大乘經。期生<placeName key="PL000000055477">安養</placeName>。為果願否。<persName key="A002803">觀音</persName>指曰。淨土
         <lb ed="X" n="0377c22"/>不遠。有願即生。又誦經。深夜忽夢<persName key="A003079">普賢</persName>示身。遂造其
         <lb ed="X" n="0377c23"/>像。誦經萬部。以嚴淨報。<date from-iso="1082-10-30" to-iso="1083-01-26" key="j21165552116643">元豐五年冬</date>。臥疾。謂侍者曰。
-        <lb ed="X" n="0377c24"/>吾<placeName key="XZ0000033A01AA">安養</placeName>之期已至。遂面西累足而化。闍維異香襲人。
+        <lb ed="X" n="0377c24"/>吾<placeName key="PL000000055477">安養</placeName>之期已至。遂面西累足而化。闍維異香襲人。
         <lb ed="X" n="0378a01"/>舍利流迸。結塔院東南隅。</p>
     
     <linkGrp>
         <link targets="#0377c13 #0377c15"/>
         <ptr target="#A011661" type="person"/>
-        <ptr target="#CN0330781Z07AA" type="place"/>
+        <ptr target="#PL000000013579" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0377c13 #0377c17"/>
         <ptr target="#A011661" type="person"/>
-        <ptr target="#CN0330000T21AA" type="place"/>
+        <ptr target="#PL000000011338" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0377c17 #0377c17"/>
         <ptr target="#A000106" type="person"/>
         <ptr target="#A011661" type="person"/>
-        <ptr target="#CN0330502A01AA" type="place"/>
+        <ptr target="#PL000000012949" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0377c17 #0377c18"/>
         <ptr target="#A011661" type="person"/>
-        <ptr target="#CN0330100M11AA" type="place"/>
+        <ptr target="#PL000000011367" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0377c18 #0377c18"/>
         <ptr target="#A011661" type="person"/>
-        <ptr target="#CN0330106T01AA" type="place"/>
+        <ptr target="#PL000000011596" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0377c18 #0377c18"/>
         <ptr target="#A011661" type="person"/>
-        <ptr target="#CN0310117T03AA" type="place"/>
+        <ptr target="#PL000000008465" type="place"/>
         <ptr target="#j21111812114813" type="time"/>
     </linkGrp>
     <linkGrp>

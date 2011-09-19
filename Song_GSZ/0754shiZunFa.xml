@@ -1,29 +1,29 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0718b08shiZunFa">
     <lb ed="T" n="0718b08"/><anchor n="T.50.2061.0718b08"/><head><date from-iso="0618-06-21" key="j19469512052491" to-iso="0907-06-06">唐</date><persName key="A000449">尊法</persName>傳</head><p>
-        <lb ed="T" n="0718b09"/><persName key="A000449">釋尊法</persName>，<placeName key="WW034XI00E01AA">西印度</placeName>人也，梵云<persName key="A000449">伽梵達磨</persName>，華云
-<lb ed="T" n="0718b10"/><persName key="A000449">尊法</persName>。遠踰沙磧，來抵<placeName key="CN0000000E01AA">中華</placeName>，有傳譯之心，堅
+        <lb ed="T" n="0718b09"/><persName key="A000449">釋尊法</persName>，<placeName key="PL000000055425">西印度</placeName>人也，梵云<persName key="A000449">伽梵達磨</persName>，華云
+<lb ed="T" n="0718b10"/><persName key="A000449">尊法</persName>。遠踰沙磧，來抵<placeName key="PL000000000083">中華</placeName>，有傳譯之心，堅
         <lb ed="T" n="0718b11"/>化導之願。<persName key="A002146">天皇</persName><date from-iso="0650" key="j19585081960692" to-iso="0656">永徽之歲</date>，翻出《千手千眼觀
 <lb ed="T" n="0718b12"/>世音菩薩廣大圓滿無礙大悲心陀羅尼經》一
-<lb ed="T" n="0718b13"/>卷。經題但云<placeName key="WW034XI00E01AA">西天竺</placeName><persName key="A000449">伽梵達磨</persName>譯，不標年
+<lb ed="T" n="0718b13"/>卷。經題但云<placeName key="PL000000055425">西天竺</placeName><persName key="A000449">伽梵達磨</persName>譯，不標年
 <lb ed="T" n="0718b14"/>代。推其本末，疑是<date from-iso="0650" key="j19585081960692" to-iso="0656">永徽</date>、<date from-iso="0656" key="j19606931962582" to-iso="0661">顯慶</date>中也。又準《千
         <lb ed="T" n="0718b15"/>臂經序》云：「<persName key="A001275">智通</persName>同<ref type="person" target="#A000449"><anchor xml:id="beg0718002"/>此<anchor xml:id="end0718002"/>三藏</ref>譯也。」<ptr target="#n328"/><persName key="A000449">法</persName>後不
 <lb ed="T" n="0718b16"/>知其終。</p>
     <linkGrp>
         <link targets="#0718b09 #0718b09"/>
         <ptr target="#A000449" type="person"/>
-        <ptr target="#WW034XI00E01AA" type="place"/>
+        <ptr target="#PL000000055425" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0718b10 #0718b10"/>
         <ptr target="#A000449" type="person"/>
-        <ptr target="#CN0000000E01AA" type="place"/>
+        <ptr target="#PL000000000083" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0718b15 #0718b15"/>
         <ptr target="#A000449" type="person"/>
         <ptr target="#A001275" type="person"/>
-        <ptr target="#CN0610102Z07AA" type="place"/>
+        <ptr target="#PL000000042189" type="place"/>
         <ptr target="#j19585081960692" type="time"/>
     </linkGrp>
 </div>

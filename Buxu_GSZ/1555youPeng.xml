@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0381c17youPeng">
     <head><lb ed="X" n="0381c17"/>　　　　<persName key="A003637">有朋</persName>傳</head>
-    <p><anchor n="X.77.1524.0381c18"/><lb ed="X" n="0381c18"/><persName key="A003637">有朋</persName>。泉州<placeName key="CN0350583Z13AA">南安</placeName>蔣氏子。丱歲試經中選。落髮。歷講肆。
+    <p><anchor n="X.77.1524.0381c18"/><lb ed="X" n="0381c18"/><persName key="A003637">有朋</persName>。泉州<placeName key="PL000000018005">南安</placeName>蔣氏子。丱歲試經中選。落髮。歷講肆。
         <lb ed="X" n="0381c19"/>為寶林宗巳門學士有聲。每疑禪宗直指之說。故多
         <lb ed="X" n="0381c20"/>與禪衲遊。一日謁<persName key="A020236">開元琦</persName>禪師。足未及閫。心忽領悟。
         <lb ed="X" n="0381c21"/><persName key="A020236">琦</persName>出逆問曰。座主來此何為。答曰。不敢貴耳賤目。<persName key="A020236">琦</persName>
@@ -17,13 +17,13 @@
         <lb ed="X" n="0382a07"/>吾家宗派。見其渺漫矣。或又勸進云。豈謂自高未諧
         <lb ed="X" n="0382a08"/>前請。雖獨善之風可尚。而接物之理未聞。<persName key="A003637">朋</persName>不從。以
         <lb ed="X" n="0382a09"/><date from-iso="1124-01-26" to-iso="1125-02-11" key="j21316172131999">宣和六年</date>。跏趺而逝。</p><p>
-            <lb ed="X" n="0382a10"/>　下<persName key="A014718">有朋</persName><placeName key="CN0330702Z07AA">金華</placeName>人。此<placeName key="CN0350503Z09AA">泉州</placeName>人。化時亦不同。下<date from-iso="1165-02-20" to-iso="1174-02-10" key="j21466182149895">乾道年</date>。
+            <lb ed="X" n="0382a10"/>　下<persName key="A014718">有朋</persName><placeName key="PL000000013512">金華</placeName>人。此<placeName key="PL000000017903">泉州</placeName>人。化時亦不同。下<date from-iso="1165-02-20" to-iso="1174-02-10" key="j21466182149895">乾道年</date>。
             <lb ed="X" n="0382a11"/>　此<date from-iso="1119-03-23" to-iso="1126-01-24" key="j21298472132346">宣和年</date>。傳燈稱講師。恐相混預筆於此。</p>
     
     <linkGrp>
         <link targets="#0381c18 #0381c18"/>
         <ptr target="#A003637" type="person"/>
-        <ptr target="#CN0350583Z13AA" type="place"/>
+        <ptr target="#PL000000018005" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0381c20 #0382a04"/>
@@ -43,7 +43,7 @@
     <linkGrp>
         <link targets="#0382a10 #0382a10"/>
         <ptr target="#A014718" type="person"/>
-        <ptr target="#CN0330702Z07AA" type="place"/>
+        <ptr target="#PL000000013512" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0382a10 #0382a10"/>

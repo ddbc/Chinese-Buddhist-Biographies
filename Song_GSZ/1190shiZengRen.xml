@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0877a24shiZengRen">
     <anchor n="T.50.2061.0877a24"/><head><date from-iso="0618-06-21" key="j19469512052491" to-iso="0907-06-06">唐</date>朔方靈武龍興寺<persName key="A011109">增忍</persName>傳</head><p>
-        <lb ed="T" n="0877a25"/><persName key="A011109">釋增忍</persName>，俗姓史氏，<placeName key="CN0410224Z20AA">沛國陳留</placeName>人也。典謁之年，
+        <lb ed="T" n="0877a25"/><persName key="A011109">釋增忍</persName>，俗姓史氏，<placeName key="PL000000023446">沛國陳留</placeName>人也。典謁之年，
 <lb ed="T" n="0877a26"/>登其鄉校。百氏簡策，寓目入神。藝文且工，
 <lb ed="T" n="0877a27"/>乃隨計吏，數舉不捷。<date from-iso="0841" key="j20282682028743" to-iso="0842">會昌初</date>，薄遊塞垣，訪
-<lb ed="T" n="0877a28"/>古<placeName key="CN0640000M01AA">賀蘭山</placeName>中，得淨地者<placeName key="CN0640000A01AA">白草谷</placeName>內，發菩提
+<lb ed="T" n="0877a28"/>古<placeName key="PL000000047079">賀蘭山</placeName>中，得淨地者<placeName key="PL000000047078">白草谷</placeName>內，發菩提
 <lb ed="T" n="0877a29"/>心，頓挂儒冠，直歸釋氏。乃薙草結<anchor xml:id="beg0877003"/>茅<anchor xml:id="end0877003"/>為<pb ed="T" n="0877b" xml:id="T50.2061.0877b"/>
-<lb ed="T" n="0877b01"/>舍，倍切精進。<placeName key="CN0150626Z24AA">羌胡</placeName>之族，競臻供獻酥酪。至
-<lb ed="T" n="0877b02"/>五載，節使<persName key="A013703">李彥佐</persName>嘉其名節，於<placeName key="CN0640121T01AA">龍興寺</placeName>建
-<lb ed="T" n="0877b03"/>別院，號<placeName key="CN0640121T01AB">白草</placeName>焉，蓋取其始修道之本地也。
+<lb ed="T" n="0877b01"/>舍，倍切精進。<placeName key="PL000000006699">羌胡</placeName>之族，競臻供獻酥酪。至
+<lb ed="T" n="0877b02"/>五載，節使<persName key="A013703">李彥佐</persName>嘉其名節，於<placeName key="PL000000047106">龍興寺</placeName>建
+<lb ed="T" n="0877b03"/>別院，號<placeName key="PL000000047107">白草</placeName>焉，蓋取其始修道之本地也。
 <lb ed="T" n="0877b04"/><persName key="A011109">忍</persName>刺血寫諸經。<date from-iso="0853-02-16" key="j20326592033012" to-iso="0854-02-04">大中七年</date>，<persName key="A013703">李公</persName>慮其枯悴，
 <lb ed="T" n="0877b05"/>躬往敦<anchor xml:id="beg0877004"/>論<anchor xml:id="end0877004"/>曰：「<persName key="A011109">師</persName>何獨善一身，行小乘行？胡
 <lb ed="T" n="0877b06"/>不延惜生性，任持教法，所利博哉！」<persName key="A011109">忍</persName>執情
@@ -19,7 +19,7 @@
 <lb ed="T" n="0877b11"/>臂焉。或有譏謗者，<persName key="A011109">忍</persName>再精慤虔告，畫工濯
 <lb ed="T" n="0877b12"/>筆銅椀中，忽感寶性華一朵，枝趺𩬞葉，一皆
 <lb ed="T" n="0877b13"/>鮮明，覩者驚歎。至<date key="j20394012039401" when-iso="0871-08-03">咸通十二年七月十日</date>
-<lb ed="T" n="0877b14"/>示滅于<placeName key="CN0640121T01AB">白草院</placeName>，春秋五十九。以<date key="j20395262039526" when-iso="0871-12-06">十月十七
+<lb ed="T" n="0877b14"/>示滅于<placeName key="PL000000047107">白草院</placeName>，春秋五十九。以<date key="j20395262039526" when-iso="0871-12-06">十月十七
 <lb ed="T" n="0877b15"/>日</date>藏神于水館<!--找不到此地-->之南，建塔焉。初<persName key="A011109">忍</persName>刺血寫
 <lb ed="T" n="0877b16"/>經，總二百八十三卷。畫盧舍那閣三十五
 <lb ed="T" n="0877b17"/>尺，門一丈六尺。起樣畫大悲功德三軸，自
@@ -34,27 +34,27 @@
     <linkGrp>
         <link targets="#0877a27 #0877b01"/>
         <ptr target="#A011109" type="person"/>
-        <ptr target="#CN0640000A01AA" type="place"/>
+        <ptr target="#PL000000047078" type="place"/>
         <ptr target="#j20282682028743" type="time"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0877b02 #0877b03"/>
         <ptr target="#A011109" type="person"/>
         <ptr target="#A013703" type="person"/>
-        <ptr target="#CN0640121T01AB" type="place"/>
+        <ptr target="#PL000000047107" type="place"/>
         <ptr target="#j20282682028743" type="time"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0877b04 #0877b05"/>
         <ptr target="#A011109" type="person"/>
         <ptr target="#A013703" type="person"/>
-        <ptr target="#CN0640121T01AB" type="place"/>
+        <ptr target="#PL000000047107" type="place"/>
         <ptr target="#j20326592033012" type="time"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0877b13 #0877b13"/>
         <ptr target="#A011109" type="person"/>
-        <ptr target="#CN0640121T01AB" type="place"/>
+        <ptr target="#PL000000047107" type="place"/>
         <ptr target="#j20394012039401" type="time"/>
     </linkGrp>
     <linkGrp>

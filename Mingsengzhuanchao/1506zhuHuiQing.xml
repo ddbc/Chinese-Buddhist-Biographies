@@ -1,19 +1,20 @@
-<?xml version="1.0" encoding="UTF-8"?><div xml:id="mscc0357b14zhuHuiQing" xmlns="http://www.tei-c.org/ns/1.0"><head>宋尋陽<placeName key="CN0360402M01AA">廬山</placeName><persName key="A011250">竺慧慶</persName></head><p><anchor n="X.77.1523.0357b14"/><lb ed="X" n="0357b14"/><ptr target="fn5"/>竺惠慶<placeName key="CN0321081Z27AA">廣陵</placeName>人也。清心高邈。識慮虗遠。不修世儀。專<lb ed="X" n="0357b15"/>篤戒行。溫仁貞素。雅有風德。<ptr target="fn6"/>柔蔬時食。少長一槩。涉<lb ed="X" n="0357b16"/>學經律。汎研禪誦。誦法華十地維摩思益。雖不南面<lb ed="X" n="0357b17"/>稱法師。而理懷簡表。<date from-iso="0405-03-03" to-iso="0419-01-28" key="j18690451874124">晉義熈</date>中。遊步<placeName key="CN0610112Z07AA">長安</placeName>。備浪道藝。<lb ed="X" n="0357b18"/><date from-iso="0424-09-18" to-iso="0453-03-17" key="j18761841886591">宋元喜</date>時。復入<placeName key="CN0360402M01AA">廬山</placeName>。求諸德勝。時<placeName key="CN0410423Z11AA">荊</placeName><placeName key="CN0321011Z01AA">楊</placeName>大水。襄淩浩<lb ed="X" n="0357b19"/>汗。<persName key="A011250">慶</persName>始達。小雷景風總至。同侶強力先皆入浦。慶船<lb ed="X" n="0357b20"/>遲重。後來未及。<ptr target="fn7"/>楊侯皷怒。聳浪浮天。慶生平計盡。願<lb ed="X" n="0357b21"/>望唯佛。於是誦念觀世音。心無異向。岸上之人望見<lb ed="X" n="0357b22"/>其船。迊風截浪。狀若人牽。俄頃之間。安全到岸。於是<lb ed="X" n="0357b23"/>散落嚻磨。澄心淨域。遊處之地。莫不弘道。三歸五戒<lb ed="X" n="0357b24"/>弟子。貴賤數萬人。舉言發響。如風靡草。盛造經書。頻<lb ed="X" n="0357c01"/>營法集。春秋六十有二。<date from-iso="0452-02-07" to-iso="0453-01-26" key="j18861871886541">元喜二十九年</date>卒<!--應為元嘉-->(云云)。</p>
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="mscc0357b14zhuHuiQing"><head>宋尋陽<placeName key="PL000000018775">廬山</placeName><persName key="A011250">竺慧慶</persName></head><p><anchor n="X.77.1523.0357b14"/><lb ed="X" n="0357b14"/><ptr target="fn5"/>竺惠慶<placeName key="PL000000010897">廣陵</placeName>人也。清心高邈。識慮虗遠。不修世儀。專<lb ed="X" n="0357b15"/>篤戒行。溫仁貞素。雅有風德。<ptr target="fn6"/>柔蔬時食。少長一槩。涉<lb ed="X" n="0357b16"/>學經律。汎研禪誦。誦法華十地維摩思益。雖不南面<lb ed="X" n="0357b17"/>稱法師。而理懷簡表。<date from-iso="0405-03-03" to-iso="0419-01-28" key="j18690451874124">晉義熈</date>中。遊步<placeName key="PL000000042393">長安</placeName>。備浪道藝。<lb ed="X" n="0357b18"/><date from-iso="0424-09-18" to-iso="0453-03-17" key="j18761841886591">宋元喜</date>時。復入<placeName key="PL000000018775">廬山</placeName>。求諸德勝。時<placeName key="PL000000023977">荊</placeName><placeName key="PL000000010833">楊</placeName>大水。襄淩浩<lb ed="X" n="0357b19"/>汗。<persName key="A011250">慶</persName>始達。小雷景風總至。同侶強力先皆入浦。慶船<lb ed="X" n="0357b20"/>遲重。後來未及。<ptr target="fn7"/>楊侯皷怒。聳浪浮天。慶生平計盡。願<lb ed="X" n="0357b21"/>望唯佛。於是誦念觀世音。心無異向。岸上之人望見<lb ed="X" n="0357b22"/>其船。迊風截浪。狀若人牽。俄頃之間。安全到岸。於是<lb ed="X" n="0357b23"/>散落嚻磨。澄心淨域。遊處之地。莫不弘道。三歸五戒<lb ed="X" n="0357b24"/>弟子。貴賤數萬人。舉言發響。如風靡草。盛造經書。頻<lb ed="X" n="0357c01"/>營法集。春秋六十有二。<date from-iso="0452-02-07" to-iso="0453-01-26" key="j18861871886541">元喜二十九年</date>卒<!--應為元嘉-->(云云)。</p>
     <linkGrp>
         <link targets="#0357b14 #0357b14"/>
         <ptr type="person" target="#A011250"/>
-        <ptr type="place" target="#CN0321081Z27AA"/>
+        <ptr type="place" target="#PL000000010897"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0357b17 #0357b17"/>
         <ptr type="person" target="#A011250"/>
-        <ptr type="place" target="#CN0610112Z07AA"/>
+        <ptr type="place" target="#PL000000042393"/>
         <ptr type="time" target="#d18690451874124"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0357b18 #0357c01"/>
         <ptr type="person" target="#A011250"/>
-        <ptr type="place" target="#CN0360402M01AA"/>
+        <ptr type="place" target="#PL000000018775"/>
         <ptr type="time" target="#d18761841886591"/>
     </linkGrp>
     <linkGrp>
@@ -22,4 +23,3 @@
         <ptr type="time" target="#d18861871886541"/>
     </linkGrp>
 </div>
-

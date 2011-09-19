@@ -1,15 +1,15 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0884c21shiZhiLang">
     <anchor n="T.50.2061.0884c21"/><head><date from-iso="0936-12-05" key="j20632662067017" to-iso="0947-03-14">晉</date>曹州扈通院<persName key="A010405">智朗</persName>傳</head><p>
-        <lb ed="T" n="0884c22"/><persName key="A010405">釋智朗</persName>，姓黃氏，<placeName key="CN0371723Z15AA">單州城武</placeName>人也。母<persName key="A019508">劉氏</persName>夢數
+        <lb ed="T" n="0884c22"/><persName key="A010405">釋智朗</persName>，姓黃氏，<placeName key="PL000000022867">單州城武</placeName>人也。母<persName key="A019508">劉氏</persName>夢數
         <lb ed="T" n="0884c23"/>桑門圓坐為<persName key="A019508">劉</persName>說法，歷然在耳，遂妊<persName key="A010405">朗</persName>焉。
 <lb ed="T" n="0884c24"/>及生暨長，婉有僧之習氣，淳靖簡潔。苦辭
-        <lb ed="T" n="0884c25"/>親出家，往<placeName key="CN0371727T02AA">曹州扈通院</placeName>，事<persName key="A009651">行滿</persName>師，供給惟
+        <lb ed="T" n="0884c25"/>親出家，往<placeName key="PL000000022981">曹州扈通院</placeName>，事<persName key="A009651">行滿</persName>師，供給惟
 <lb ed="T" n="0884c26"/>謹。洎乎<anchor xml:id="beg0884005"/>剃<anchor xml:id="end0884005"/>染成大比丘，學四分律、淨名經，
 <lb ed="T" n="0884c27"/>俱登閫閾。且曰「出俗之者何滯方守株，不
 <lb ed="T" n="0884c28"/>能脫羈解絆乎？於廣博知見無所堪能。」
-<lb ed="T" n="0884c29"/>乃携缾鉢，南極<placeName key="CN0430407Z14AA">衡陽</placeName>，登嶽棲<placeName key="CN0430412T03AA">般若寺</placeName>，行胎<pb ed="T" n="0885a" xml:id="T50.2061.0885a"/>
-<lb ed="T" n="0885a01"/>息術，而覽藏經事訖，入<placeName key="CN0350000E02AA">閩</placeName>嶺，曾無伴侶，形
+<lb ed="T" n="0884c29"/>乃携缾鉢，南極<placeName key="PL000000028913">衡陽</placeName>，登嶽棲<placeName key="PL000000028934">般若寺</placeName>，行胎<pb ed="T" n="0885a" xml:id="T50.2061.0885a"/>
+<lb ed="T" n="0885a01"/>息術，而覽藏經事訖，入<placeName key="PL000000017104">閩</placeName>嶺，曾無伴侶，形
 <lb ed="T" n="0885a02"/>影相弔。逢猛獸者數四，皆欲呀口垂噬，又
 <lb ed="T" n="0885a03"/>躡步徐去矣。見<persName key="A009489">洞山</persName>、<persName key="A003677">雪峯</persName>二祖師決了禪
 <lb ed="T" n="0885a04"/>訓。有請問者，隨答如飛，蓋了達無絓矣。後
@@ -21,7 +21,7 @@
 <lb ed="T" n="0885a10"/>收舍利，起塔于院。<persName key="A010405">朗</persName>為釋子，衣物誓不經
 <lb ed="T" n="0885a11"/>女人之手浣濯，不役徒弟。檀施之物像寶未
 <lb ed="T" n="0885a12"/>省互用，蓋以初律後禪，陶冶神用之故也。
-<lb ed="T" n="0885a13"/><placeName key="CN0130425Z27AA">大名府</placeName>少尹<persName key="A013788">李鉉</persName>為碑焉。</p>
+<lb ed="T" n="0885a13"/><placeName key="PL000000001536">大名府</placeName>少尹<persName key="A013788">李鉉</persName>為碑焉。</p>
     <linkGrp>
         <link targets="#0884c22 #0884c23"/>
         <ptr target="#A010405" type="person"/>
@@ -31,22 +31,22 @@
         <link targets="#0884c25 #0884c26"/>
         <ptr target="#A010405" type="person"/>
         <ptr target="#A009651" type="person"/>
-        <ptr target="#CN0371727T02AA" type="place"/>
+        <ptr target="#PL000000022981" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0884c29 #0884c29"/>
         <ptr target="#A010405" type="person"/>
-        <ptr target="#CN0430407Z14AA" type="place"/>
+        <ptr target="#PL000000028913" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0884c29 #0884c29"/>
         <ptr target="#A010405" type="person"/>
-        <ptr target="#CN0430412T03AA" type="place"/>
+        <ptr target="#PL000000028934" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0885a01 #0885a01"/>
         <ptr target="#A010405" type="person"/>
-        <ptr target="#CN0350000E02AA" type="place"/>
+        <ptr target="#PL000000017104" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0885a03 #0885a03"/>

@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0663b27shiHuiYin">
-    <p><anchor n="T.50.2060.0663b27"/><lb ed="T" n="0663b27"/><persName key="A006991">釋慧因</persName>。姓張。<placeName key="CN0131126Z13AA">清河武城</placeName>人。昔依<persName key="A006992">賢法師</persName>。後<lb ed="T" n="0663b28"/>以雅志卓然眾所推伏。欲屈知寺任。遂巡<lb ed="T" n="0663b29"/>於<placeName key="CN0510108Z02AA">蜀川</placeName>詢求禪律。訪無夷險必往參請。<date key="j19469511949949" notAfter-iso="0626" notBefore-iso="0618">唐<lb ed="T" n="0663c01"/>運大通</date>。自<placeName key="CN0510108Z02AA">蜀</placeName>而返。于時州別一寺。但三十<lb ed="T" n="0663c02"/>僧。<persName key="A006991">因</persName>即其一。持<ptr target="fn05"/>維志節終始無忘。後為<lb ed="T" n="0663c03"/><placeName key="CN0420624T01AA">開聖本寺</placeName>。去<placeName key="CN0421003Z07AA">荊</placeName>五十餘里。山藪曠逈阻絕<lb ed="T" n="0663c04"/>風烟。乃獨止此山草菴蘭若。二十餘載。四<lb ed="T" n="0663c05"/>遠咸依。昔智者遺言。今宛符會。<date key="j19566771957030" from-iso="0645-02-05" to-iso="0646-01-24">貞觀十九<lb ed="T" n="0663c06"/>年</date>大旱。而<placeName key="CN0420624T01AA">寺</placeName>石泉獨無有竭。乃自負水外<lb ed="T" n="0663c07"/>給。飛走由斯獲濟。<placeName key="CN0421003Z01AA">江陵</placeName>令<persName key="A006994">盧行餘</persName>。承聞往<lb ed="T" n="0663c08"/>之。索水飲馬。因負而給之。<persName key="A006994">行餘</persName>謂少。頗出<lb ed="T" n="0663c09"/>恚言。便遣馬就寺。俄值群猪來。路人無敢<lb ed="T" n="0663c10"/>犯。後有二人。寺北竊食辛肉。虎來擁遶哮<lb ed="T" n="0663c11"/>吼。將噉其人。得<ptr target="fn06"/>急逃竄無方。<persName key="A006991">因</persName>聞往救。<lb ed="T" n="0663c12"/>虎乃潛退。斯戒德慈明為若此也。法華一<lb ed="T" n="0663c13"/>部。毘尼戒本。行往常誦。未<ptr target="fn07"/>忘心口。年七<lb ed="T" n="0663c14"/>十五。卒於<placeName key="CN0420624T01AA">本寺</placeName>。</p>
+    <p><anchor n="T.50.2060.0663b27"/><lb ed="T" n="0663b27"/><persName key="A006991">釋慧因</persName>。姓張。<placeName key="PL000000003565">清河武城</placeName>人。昔依<persName key="A006992">賢法師</persName>。後<lb ed="T" n="0663b28"/>以雅志卓然眾所推伏。欲屈知寺任。遂巡<lb ed="T" n="0663b29"/>於<placeName key="PL000000034776">蜀川</placeName>詢求禪律。訪無夷險必往參請。<date key="j19469511949949" notAfter-iso="0626" notBefore-iso="0618">唐<lb ed="T" n="0663c01"/>運大通</date>。自<placeName key="PL000000034776">蜀</placeName>而返。于時州別一寺。但三十<lb ed="T" n="0663c02"/>僧。<persName key="A006991">因</persName>即其一。持<ptr target="fn05"/>維志節終始無忘。後為<lb ed="T" n="0663c03"/><placeName key="PL000000027218">開聖本寺</placeName>。去<placeName key="PL000000027770">荊</placeName>五十餘里。山藪曠逈阻絕<lb ed="T" n="0663c04"/>風烟。乃獨止此山草菴蘭若。二十餘載。四<lb ed="T" n="0663c05"/>遠咸依。昔智者遺言。今宛符會。<date key="j19566771957030" from-iso="0645-02-05" to-iso="0646-01-24">貞觀十九<lb ed="T" n="0663c06"/>年</date>大旱。而<placeName key="PL000000027218">寺</placeName>石泉獨無有竭。乃自負水外<lb ed="T" n="0663c07"/>給。飛走由斯獲濟。<placeName key="PL000000027764">江陵</placeName>令<persName key="A006994">盧行餘</persName>。承聞往<lb ed="T" n="0663c08"/>之。索水飲馬。因負而給之。<persName key="A006994">行餘</persName>謂少。頗出<lb ed="T" n="0663c09"/>恚言。便遣馬就寺。俄值群猪來。路人無敢<lb ed="T" n="0663c10"/>犯。後有二人。寺北竊食辛肉。虎來擁遶哮<lb ed="T" n="0663c11"/>吼。將噉其人。得<ptr target="fn06"/>急逃竄無方。<persName key="A006991">因</persName>聞往救。<lb ed="T" n="0663c12"/>虎乃潛退。斯戒德慈明為若此也。法華一<lb ed="T" n="0663c13"/>部。毘尼戒本。行往常誦。未<ptr target="fn07"/>忘心口。年七<lb ed="T" n="0663c14"/>十五。卒於<placeName key="PL000000027218">本寺</placeName>。</p>
     <linkGrp>
         <link targets="#0663b27 #0663b27"/>
         <ptr target="#A006991" type="person"/>
-        <ptr target="#CN0131126Z13AA" type="place"/>
+        <ptr target="#PL000000003565" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0663b27 #0663b28"/>
@@ -14,35 +14,35 @@
     <linkGrp>
         <link targets="#0663b28 #0663b29"/>
         <ptr target="#A006991" type="person"/>
-        <ptr target="#CN0510108Z02AA" type="place"/>
+        <ptr target="#PL000000034776" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0663b29 #0663c01"/>
         <ptr target="#A006991" type="person"/>
-        <ptr target="#CN0510108Z02AA" type="place"/>
+        <ptr target="#PL000000034776" type="place"/>
         <ptr target="#j19469511949949" type="time"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0663c02 #0663c04"/>
         <ptr target="#A006991" type="person"/>
-        <ptr target="#CN0420624T01AA" type="place"/>
+        <ptr target="#PL000000027218" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0663c07 #0663c07"/>
         <ptr target="#A006994" type="person"/>
-        <ptr target="#CN0421003Z01AA" type="place"/>
+        <ptr target="#PL000000027764" type="place"/>
         <ptr target="#j19566771957030" type="time"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0663c05 #0663c10"/>
         <ptr target="#A006991" type="person"/>
         <ptr target="#A006994" type="person"/>
-        <ptr target="#CN0420624T01AA" type="place"/>
+        <ptr target="#PL000000027218" type="place"/>
         <ptr target="#j19566771957030" type="time"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0663c13 #0663c14"/>
         <ptr target="#A006991" type="person"/>
-        <ptr target="#CN0420624T01AA" type="place"/>
+        <ptr target="#PL000000027218" type="place"/>
     </linkGrp>
 </div>

@@ -1,13 +1,13 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0882c03shiHaiYun">
     <anchor n="T.50.2061.0882c03"/><head><date from-iso="0618-06-21" key="j19469512052491" to-iso="0907-06-06">唐</date>五臺山<persName key="A009260">海雲</persName>傳（<persName key="A013768">守節</persName>）</head><p>
-<lb ed="T" n="0882c04"/><persName key="A009260">釋海雲</persName>，未詳氏族鄉里。來遊聖跡，始於<placeName key="CN0140922M03AA">南
+<lb ed="T" n="0882c04"/><persName key="A009260">釋海雲</persName>，未詳氏族鄉里。來遊聖跡，始於<placeName key="PL000000005319">南
 <lb ed="T" n="0882c05"/>臺</placeName>側，選峭絕峯巒幽僻林谷而特居之。其
 <lb ed="T" n="0882c06"/>刻苦翫道，儉而難遵。從其遊者，寡而無眾。
 <lb ed="T" n="0882c07"/>迨其入滅，門人<persName key="A013768">守節</persName>，淘灑舍利起塔焉。昔
 <lb ed="T" n="0882c08"/>傳<persName key="A009260">雲</persName>是<persName key="A003079">普賢菩薩</persName>應身也。門人<persName key="A013768">守節</persName>即<persName key="A008712">高力
 <lb ed="T" n="0882c09"/>士之</persName>子也，從<persName key="A009260">師</persName>墨儉，有進無退。<persName key="A009260">雲</persName>示之曰：
-<lb ed="T" n="0882c10"/>「<placeName key="CN0610102Z07AA">上都</placeName>有<persName key="A006268">臥倫禪師</persName>者，雖云隱晦，而實闡揚
+<lb ed="T" n="0882c10"/>「<placeName key="PL000000042189">上都</placeName>有<persName key="A006268">臥倫禪師</persName>者，雖云隱晦，而實闡揚
         <lb ed="T" n="0882c11"/><persName key="A001719">六祖</persName>印持<note resp="sgsz">丁福保《佛學大辭典．印持》：「（術語）自信認受持也。」</note>，一時難測。化導之方，若尸鳩之七
         <lb ed="T" n="0882c12"/>子均養也。<persName key="A013768">汝</persName>急去從<ref type="person" target="#A006268">之</ref>。」及見<persName key="A006268">倫</persName>，扣擊未幾，
 <lb ed="T" n="0882c13"/>告云：「汝師<persName key="A009260">海雲</persName>入滅已。」<persName key="A013768">節</persName>稟聽斯言，荼蓼
@@ -22,7 +22,7 @@
         <link targets="#0882c04 #0882c07"/>
         <ptr target="#A009260" type="person"/>
         <ptr target="#A013768" type="person"/>
-        <ptr target="#CN0140922M03AA" type="place"/>
+        <ptr target="#PL000000005319" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0882c08 #0882c09"/>
@@ -38,6 +38,6 @@
         <link targets="#0882c12 #0882c13"/>
         <ptr target="#A013768" type="person"/>
         <ptr target="#A006268" type="person"/>
-        <ptr target="#CN0610102Z07AA" type="place"/>
+        <ptr target="#PL000000042189" type="place"/>
     </linkGrp>
 </div>

@@ -1,25 +1,25 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0895c15shiQuanCi">
     <anchor n="T.50.2061.0895c15"/><head><date from-iso="0618-06-21" key="j19469512052491" to-iso="0907-06-06">唐</date>南嶽山<persName key="A008817">全玼</persName>傳</head><p>
-<lb ed="T" n="0895c16"/><persName key="A008817">釋全玼</persName>，本<placeName key="CN0330110Z27AA">餘杭</placeName>人也，入<placeName key="CN0330185T17AA">徑山</placeName>禮<persName key="A010583">法濟大師</persName>
+<lb ed="T" n="0895c16"/><persName key="A008817">釋全玼</persName>，本<placeName key="PL000000011893">餘杭</placeName>人也，入<placeName key="PL000000011848">徑山</placeName>禮<persName key="A010583">法濟大師</persName>
 <lb ed="T" n="0895c17"/>求剃染。稟質強渥，且耐飢寒。諸所參尋，略
-<lb ed="T" n="0895c18"/>得周遍，乃隱<placeName key="CN0430412M01AA">衡嶽</placeName>中立草庵。木食㵎飲，結
+<lb ed="T" n="0895c18"/>得周遍，乃隱<placeName key="PL000000028928">衡嶽</placeName>中立草庵。木食㵎飲，結
 <lb ed="T" n="0895c19"/>軟草為衣，伏臘不易。有贈<persName key="A008817">玼</persName>詩云：「窠居
-<lb ed="T" n="0895c20"/>過後更何人？傳得如來法印真。昨日<placeName key="CN0430412M01AB">祝融峯</placeName>
+<lb ed="T" n="0895c20"/>過後更何人？傳得如來法印真。昨日<placeName key="PL000000028929">祝融峯</placeName>
 <lb ed="T" n="0895c21"/>下見，草衣便是雪山身。」此太常<persName key="A009925">孫渥</persName>舊相南
-<lb ed="T" n="0895c22"/>遷有作，事詳<placeName key="CN0430412M01AA">南嶽</placeName>高僧傳云。</p>
-    <p xml:id="pT50p0895c2301"><lb ed="T" n="0895c23"/>系曰：草衣在<placeName key="CN0430412M01AA">南嶽</placeName>炎方，壯年即可，未知衰
+<lb ed="T" n="0895c22"/>遷有作，事詳<placeName key="PL000000028928">南嶽</placeName>高僧傳云。</p>
+    <p xml:id="pT50p0895c2301"><lb ed="T" n="0895c23"/>系曰：草衣在<placeName key="PL000000028928">南嶽</placeName>炎方，壯年即可，未知衰
 <lb ed="T" n="0895c24"/>老徙居幽朔耐否？如能，則上上根勝士也。</p>
     <linkGrp>
         <link targets="#0895c16 #0895c17"/>
         <ptr target="#A008817" type="person"/>
         <ptr target="#A010583" type="person"/>
-        <ptr target="#CN0330185T17AA" type="place"/>
+        <ptr target="#PL000000011848" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0895c18 #0895c19"/>
         <ptr target="#A008817" type="person"/>
-        <ptr target="#CN0430412M01AA" type="place"/>
+        <ptr target="#PL000000028928" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0895c19 #0895c22"/>

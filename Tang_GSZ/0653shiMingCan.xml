@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0669a01shiMingCan">
-    <p><anchor n="T.50.2060.0669a01"/><lb ed="T" n="0669a01"/><persName key="A007073">釋明璨</persName>。姓韋。莒州<placeName key="CN0371323Z17AA">沂水</placeName>人。十歲出家。二十受<lb ed="T" n="0669a02"/>具。中途尋閱備通經史。稟性調柔初不陳<lb ed="T" n="0669a03"/><ptr target="fn01"/>怒。未及三夏頻揚成論及涅槃經。<date key="j19307491932344" notAfter-iso="0578" notBefore-iso="0574">值廢<lb ed="T" n="0669a04"/>教</date>隱<ptr target="fn02"/>倫避世林澤。還資故業重研幽極。<date key="j19323451932627" from-iso="0578-06-24" to-iso="0579-04-02"><persName key="A004452">周<lb ed="T" n="0669a05"/>宣</persName></date>創開<placeName key="CN0410185T01AA">陟岵</placeName>。<persName key="A002000">慧遠</persName>率侶登<placeName key="CN0410185T01AA">之</placeName>。<persName key="A007073">璨</persName>時投足歸<lb ed="T" n="0669a06"/>師諸部未久深悟。遂演於世。講徒百數心<lb ed="T" n="0669a07"/>計明白。開隱析疑善通問難。精慮勃興未<lb ed="T" n="0669a08"/>曾沈息。加又福德所被聞見欣然。勅召入京<lb ed="T" n="0669a09"/>住<placeName key="CN0610103T03AA">大興善</placeName>。<date key="j19406121940966" notAfter-iso="0602" notBefore-iso="0601">仁壽初歲</date>。召送舍利于蔣州之<placeName key="CN0320113T01AA">栖<lb ed="T" n="0669a10"/>霞寺</placeName>。今之<placeName key="CN0320113T01AA">攝山寺</placeName>也。本基靈異前傳具詳。而<lb ed="T" n="0669a11"/><persName key="A007073">璨</persName>情存傳法。所在追訪。乃於<placeName key="CN0000007D01AA">江表</placeName>獲經一<lb ed="T" n="0669a12"/>百餘卷。並是前錄所遺。及諸<ptr target="fn03"/>闕本。隨得<lb ed="T" n="0669a13"/><ptr target="fn04"/>福利處處傳寫。<ptr target="fn05"/>末住<placeName key="CN0610113T16AA">大禪定寺</placeName>。弘法為務。<lb ed="T" n="0669a14"/>春秋良序頻往<placeName key="CN0610122Z09AA">藍田</placeName>。登山臨水。欣其得性<lb ed="T" n="0669a15"/><date key="j19469511949949" notAfter-iso="0626" notBefore-iso="0618">唐初</date><ptr target="fn06"/>卒。</p>
+    <p><anchor n="T.50.2060.0669a01"/><lb ed="T" n="0669a01"/><persName key="A007073">釋明璨</persName>。姓韋。莒州<placeName key="PL000000021981">沂水</placeName>人。十歲出家。二十受<lb ed="T" n="0669a02"/>具。中途尋閱備通經史。稟性調柔初不陳<lb ed="T" n="0669a03"/><ptr target="fn01"/>怒。未及三夏頻揚成論及涅槃經。<date key="j19307491932344" notAfter-iso="0578" notBefore-iso="0574">值廢<lb ed="T" n="0669a04"/>教</date>隱<ptr target="fn02"/>倫避世林澤。還資故業重研幽極。<date key="j19323451932627" from-iso="0578-06-24" to-iso="0579-04-02"><persName key="A004452">周<lb ed="T" n="0669a05"/>宣</persName></date>創開<placeName key="PL000000023255">陟岵</placeName>。<persName key="A002000">慧遠</persName>率侶登<placeName key="PL000000023255">之</placeName>。<persName key="A007073">璨</persName>時投足歸<lb ed="T" n="0669a06"/>師諸部未久深悟。遂演於世。講徒百數心<lb ed="T" n="0669a07"/>計明白。開隱析疑善通問難。精慮勃興未<lb ed="T" n="0669a08"/>曾沈息。加又福德所被聞見欣然。勅召入京<lb ed="T" n="0669a09"/>住<placeName key="PL000000042218">大興善</placeName>。<date key="j19406121940966" notAfter-iso="0602" notBefore-iso="0601">仁壽初歲</date>。召送舍利于蔣州之<placeName key="PL000000009026">栖<lb ed="T" n="0669a10"/>霞寺</placeName>。今之<placeName key="PL000000009026">攝山寺</placeName>也。本基靈異前傳具詳。而<lb ed="T" n="0669a11"/><persName key="A007073">璨</persName>情存傳法。所在追訪。乃於<placeName key="PL000000000197">江表</placeName>獲經一<lb ed="T" n="0669a12"/>百餘卷。並是前錄所遺。及諸<ptr target="fn03"/>闕本。隨得<lb ed="T" n="0669a13"/><ptr target="fn04"/>福利處處傳寫。<ptr target="fn05"/>末住<placeName key="PL000000042422">大禪定寺</placeName>。弘法為務。<lb ed="T" n="0669a14"/>春秋良序頻往<placeName key="PL000000042576">藍田</placeName>。登山臨水。欣其得性<lb ed="T" n="0669a15"/><date key="j19469511949949" notAfter-iso="0626" notBefore-iso="0618">唐初</date><ptr target="fn06"/>卒。</p>
     <linkGrp>
         <link targets="#0669a01 #0669a01"/>
         <ptr target="#A007073" type="person"/>
-        <ptr target="#CN0371323Z17AA" type="place"/>
+        <ptr target="#PL000000021981" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0669a03 #0669a04"/>
@@ -15,33 +15,33 @@
         <link targets="#0669a04 #0669a06"/>
         <ptr target="#A002000" type="person"/>
         <ptr target="#A007073" type="person"/>
-        <ptr target="#CN0410185T01AA" type="place"/>
+        <ptr target="#PL000000023255" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0669a08 #0669a09"/>
         <ptr target="#A007073" type="person"/>
-        <ptr target="#CN0610103T03AA" type="place"/>
+        <ptr target="#PL000000042218" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0669a09 #0669a10"/>
         <ptr target="#A007073" type="person"/>
-        <ptr target="#CN0320113T01AA" type="place"/>
+        <ptr target="#PL000000009026" type="place"/>
         <ptr target="#j19406121940966" type="time"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0669a11 #0669a12"/>
         <ptr target="#A007073" type="person"/>
-        <ptr target="#CN0000007D01AA" type="place"/>
+        <ptr target="#PL000000000197" type="place"/>
         </linkGrp>
     <linkGrp>
         <link targets="#0669a13 #0669a13"/>
         <ptr target="#A007073" type="person"/>
-        <ptr target="#CN0610113T16AA" type="place"/>
+        <ptr target="#PL000000042422" type="place"/>
         </linkGrp>
     <linkGrp>
         <link targets="#0669a14 #0669a15"/>
         <ptr target="#A007073" type="person"/>
-        <ptr target="#CN0610122Z09AA" type="place"/>
+        <ptr target="#PL000000042576" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0669a15 #0669a15"/>

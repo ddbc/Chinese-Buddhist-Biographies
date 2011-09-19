@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0416c07shiDaoRu">
-    <p><anchor n="T.50.2059.0416c07"/><lb ed="T" n="0416c07"/><persName key="A003526">釋道儒</persName>，姓石，<placeName key="CN0130927Z04AA">渤海</placeName>人。寓居<placeName key="CN0321011Z03AA">廣陵</placeName>。少懷清信，<lb ed="T" n="0416c08"/>慕樂出家。遇<persName key="A002151">宋臨川王義慶</persName>鎮<placeName key="CN0321011Z01AA">南兗</placeName>，<persName key="A003526">儒</persName>以<lb ed="T" n="0416c09"/>事聞之。<persName key="A002151">王</persName><ptr target="fn19"/>贊成厥志，為啟度出家。出家<lb ed="T" n="0416c10"/>之後，蔬食讀誦，凡所之造，皆勸人改惡修<lb ed="T" n="0416c11"/>善，遠近宗奉，遂成導師。言無預撰，發<ptr target="fn20"/>嚮<lb ed="T" n="0416c12"/>成製。<date key="j18854211886925" notAfter-iso="0454-02-14" notBefore-iso="0450">元嘉末</date>出<placeName key="CN0320106Z06AA">都</placeName>，止<placeName key="CN0320104T04AA">建初寺</placeName>。<persName key="A003527">長沙王</persName>請為<lb ed="T" n="0416c13"/>戒師，<persName key="A003528">廬<ptr target="fn21"/>承相</persName>、<persName key="A003529">伯仲孫</persName>等共買<persName key="A003530">張敬兒</persName>故<ptr target="fn22"/>廟，<lb ed="T" n="0416c14"/>為<persName key="A003526">儒</persName>立寺，今<placeName key="CN0320101T07AA">齊福寺</placeName>是也。<persName key="A003526">儒</persName>以<date key="j19000671900420" from-iso="0490-02-07" to-iso="0491-01-26">齊永明八<lb ed="T" n="0416c15"/>年</date>卒，年八十一。</p><p><ptr target="fn23"/>時<placeName key="CN0320101T68AA">閑心寺</placeName>有<persName key="A003531">釋僧喜</persName>，亦<lb ed="T" n="0416c16"/><ptr target="fn24"/>善唱說，振譽於宋<ptr target="fn25"/>末齊初。</p>
+    <p><anchor n="T.50.2059.0416c07"/><lb ed="T" n="0416c07"/><persName key="A003526">釋道儒</persName>，姓石，<placeName key="PL000000003155">渤海</placeName>人。寓居<placeName key="PL000000010835">廣陵</placeName>。少懷清信，<lb ed="T" n="0416c08"/>慕樂出家。遇<persName key="A002151">宋臨川王義慶</persName>鎮<placeName key="PL000000010833">南兗</placeName>，<persName key="A003526">儒</persName>以<lb ed="T" n="0416c09"/>事聞之。<persName key="A002151">王</persName><ptr target="fn19"/>贊成厥志，為啟度出家。出家<lb ed="T" n="0416c10"/>之後，蔬食讀誦，凡所之造，皆勸人改惡修<lb ed="T" n="0416c11"/>善，遠近宗奉，遂成導師。言無預撰，發<ptr target="fn20"/>嚮<lb ed="T" n="0416c12"/>成製。<date key="j18854211886925" notAfter-iso="0454-02-14" notBefore-iso="0450">元嘉末</date>出<placeName key="PL000000008976">都</placeName>，止<placeName key="PL000000008825">建初寺</placeName>。<persName key="A003527">長沙王</persName>請為<lb ed="T" n="0416c13"/>戒師，<persName key="A003528">廬<ptr target="fn21"/>承相</persName>、<persName key="A003529">伯仲孫</persName>等共買<persName key="A003530">張敬兒</persName>故<ptr target="fn22"/>廟，<lb ed="T" n="0416c14"/>為<persName key="A003526">儒</persName>立寺，今<placeName key="PL000000008650">齊福寺</placeName>是也。<persName key="A003526">儒</persName>以<date key="j19000671900420" from-iso="0490-02-07" to-iso="0491-01-26">齊永明八<lb ed="T" n="0416c15"/>年</date>卒，年八十一。</p><p><ptr target="fn23"/>時<placeName key="PL000000008710">閑心寺</placeName>有<persName key="A003531">釋僧喜</persName>，亦<lb ed="T" n="0416c16"/><ptr target="fn24"/>善唱說，振譽於宋<ptr target="fn25"/>末齊初。</p>
     <linkGrp>
         <link targets="#0416c07 #0416c08"/>
         <ptr target="#A003526" type="person"/>
-        <ptr target="#CN0321011Z03AA" type="place"/>
+        <ptr target="#PL000000010835" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0416c08 #0416c09"/>
@@ -19,13 +19,13 @@
     <linkGrp>
         <link targets="#0416c15 #0416c16"/>
         <ptr target="#A003531" type="person"/>
-        <ptr target="#CN0320101T68AA" type="place"/>
+        <ptr target="#PL000000008710" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0416c12 #0416c12"/>
         <ptr target="#A003526" type="person"/>
         <ptr target="#A003527" type="person"/>
-        <ptr target="#CN0320104T04AA" type="place"/>
+        <ptr target="#PL000000008825" type="place"/>
         <ptr target="#j18854211886925" type="time"/>
     </linkGrp>
     <linkGrp>
@@ -33,6 +33,6 @@
         <ptr target="#A003526" type="person"/>
         <ptr target="#A003528" type="person"/>
         <ptr target="#A003529" type="person"/>
-        <ptr target="#CN0320101T07AA" type="place"/>
+        <ptr target="#PL000000008650" type="place"/>
     </linkGrp>
 </div>

@@ -1,18 +1,80 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0411b10yunCong">
     <head><lb ed="X" n="0411b10"/>　　　　<persName key="A003907">谷隱聰</persName>．<persName key="A014349">廣慧璉</persName>二師傳</head>
-    <p><anchor n="X.77.1524.0411b11"/><lb ed="X" n="0411b11"/>禪師。諱<persName key="A003907">蘊聰</persName>。<placeName key="CN0440104Z19AA">廣州</placeName>張氏子。初參<persName key="unknown">百丈恒</persName>。不契。乃見<persName key="A004983">首<lb ed="X" n="0411b12"/>山</persName>。問勞人親到寶山空手回時如何。<persName key="A004983">山</persName>曰。家家門前
+    <p><anchor n="X.77.1524.0411b11"/><lb ed="X" n="0411b11"/>禪師。諱<persName key="A003907">蘊聰</persName>。<placeName key="PL000000030461">廣州</placeName>張氏子。初參<persName key="A014282">百丈恒</persName>。不契。乃見<persName key="A004983">首<lb ed="X" n="0411b12"/>山</persName>。問勞人親到寶山空手回時如何。<persName key="A004983">山</persName>曰。家家門前
         <lb ed="X" n="0411b13"/>火把子。言下大悟。呈偈曰。我今二十七。訪道曾尋覓。
-        <lb ed="X" n="0411b14"/>今朝喜得逢。要且不相識。後住襄州<placeName key="unknown">谷隱山</placeName>。諸方稱
+        <lb ed="X" n="0411b14"/>今朝喜得逢。要且不相識。後住襄州<placeName key="PL000000027129">谷隱山</placeName>。諸方稱
         <lb ed="X" n="0411b15"/><persName key="A003907">谷隱聰</persName>云。<persName key="A014384">達觀頴</persName>者。其克家子也。別具傳。</p><p>
-            <lb ed="X" n="0411b16"/><persName key="A014349">元璉</persName>禪師。<placeName key="CN0350503Z09AA">泉州</placeName>陳氏子。褊顱廣顙。瞻視凝遠。望見令
+            <lb ed="X" n="0411b16"/><persName key="A014349">元璉</persName>禪師。<placeName key="PL000000017903">泉州</placeName>陳氏子。褊顱廣顙。瞻視凝遠。望見令
             <lb ed="X" n="0411b17"/>人意消。參<persName key="A004983">首山</persName>。<persName key="A004983">山</persName>問近離何處。<persName key="A014349">璉</persName>曰。漢上。<persName key="A004983">山</persName>豎起拳
             <lb ed="X" n="0411b18"/>曰。漢上還有這個麼。曰這是甚麼盌鳴聲。<persName key="A004983">山</persName>曰。瞎。<persName key="A014349">璉</persName>
         <lb ed="X" n="0411b19"/>曰。恰是拍一拍便出。他日又見。於火把子話下大悟
-            <lb ed="X" n="0411b20"/>云。某甲。不疑天下老和尚舌頭也。後出世汝州<placeName key="unknown">廣慧
+            <lb ed="X" n="0411b20"/>云。某甲。不疑天下老和尚舌頭也。後出世汝州<placeName key="PL000000024019">廣慧
                 <lb ed="X" n="0411b21"/>院</placeName>。<persName key="A020457">華嚴隆</persName>為嗣法上首。<persName key="A001446">楊龜山大年</persName>。亦出師位下。有
             <lb ed="X" n="0411b22"/>寄<persName key="A014931">內翰李公</persName><!-- X79n1559_p0426b17 -->書。敘師承本末云。</p><p>
                 <lb ed="X" n="0411b23"/>系曰。<persName key="A004983">首山</persName>一把火。前燒<persName key="A003907">谷隱</persName>。後燒<persName key="A014349">廣慧</persName>。二老故得出
-                <lb ed="X" n="0411b24"/>頭光燄。又有<ref type="person" target="#A014537 #A020456">二智嵩</ref>。一住<placeName key="CN0140107Z12AA">三交</placeName>。一住<placeName key="unknown">銕佛</placeName>。亦<persName key="A004983">首山</persName>門
+                <lb ed="X" n="0411b24"/>頭光燄。又有<ref type="person" target="#A014537 #A020456">二智嵩</ref>。一住<placeName key="PL000000003751">三交</placeName>。一住<placeName key="PL000000005590">銕佛</placeName>。亦<persName key="A004983">首山</persName>門
                 <lb ed="X" n="0411c01"/>下。皎皎者也。不及傳。</p>
+    
+    <linkGrp>
+        <link targets="#0411b11 #0411b11"/>
+        <ptr target="#A003907" type="person"/>
+        <ptr target="#PL000000030461" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0411b11 #0411b11"/>
+        <ptr target="#A003907" type="person"/>
+        <ptr target="#A014282" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0411b11 #0411b14"/>
+        <ptr target="#A003907" type="person"/>
+        <ptr target="#A004983" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0411b14 #0411b15"/>
+        <ptr target="#A003907" type="person"/>
+        <ptr target="#A014384" type="person"/>
+        <ptr target="#PL000000027129" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0411b16 #0411b16"/>
+        <ptr target="#A014349" type="person"/>
+        <ptr target="#PL000000017903" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0411b16 #0411b20"/>
+        <ptr target="#A014349" type="person"/>
+        <ptr target="#A004983" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0411b20 #0411b21"/>
+        <ptr target="#A014349" type="person"/>
+        <ptr target="#A020457" type="person"/>
+        <ptr target="#A001446" type="person"/>
+        <ptr target="#PL000000024019" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0411b21 #0411b22"/>
+        <ptr target="#A014349" type="person"/>
+        <ptr target="#A014931" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0411b23 #0411c01"/>
+        <ptr target="#A004983" type="person"/>
+        <ptr target="#A003907" type="person"/>
+        <ptr target="#A014349" type="person"/>
+        <ptr target="#A014537" type="person"/>
+        <ptr target="#A020456" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0411b24 #0411b24"/>
+        <ptr target="#A014537" type="person"/>
+        <ptr target="#PL000000003751" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0411b24 #0411b24"/>
+        <ptr target="#A020456" type="person"/>
+        <ptr target="#PL000000005590" type="place"/>
+    </linkGrp>
 </div>

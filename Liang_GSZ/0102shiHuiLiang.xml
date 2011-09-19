@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0373b09shiHuiLiang">
-	<p><anchor n="T.50.2059.0373b09"/><lb ed="T" n="0373b09"/><persName key="A002245">釋慧亮</persName>，姓<ptr target="fn08"/>姜，先名<persName key="A002245">顯亮</persName>，為<placeName key="CN0371521Z08AA">東阿</placeName><persName key="A002229">靖公</persName>弟子。<lb ed="T" n="0373b10"/>少有清譽，時人呼<persName key="A002229">靖</persName>為<persName key="A002229">大師</persName>，<persName key="A002245">亮</persName>為<persName key="A002245">小師</persName>。雖<lb ed="T" n="0373b11"/>年望未逮，而風軌繼之。後立寺於<placeName key="CN0370305Z16AA">臨淄</placeName>，講<lb ed="T" n="0373b12"/>《法華》、大小《品》、《十地》等。學徒雲聚、千里命駕。後<lb ed="T" n="0373b13"/>過江止<placeName key="CN0320101T61AA">何園寺</placeName>、<persName key="A002645">顏<ptr target="fn09"/>延</persName>、<persName key="A002990">張緒</persName>眷德留連，每歎<lb ed="T" n="0373b14"/>曰：「<persName key="A001503">安</persName>、<persName key="A002193">汰</persName>吐珠玉於前，<persName key="A002244">斌</persName>、<persName key="A002245">亮</persName>振金聲於後，清<lb ed="T" n="0373b15"/>言妙緒，將絕復興。」<date key="j18912671893480" notAfter-iso="0472" notBefore-iso="0466">太始</date>之初，<placeName key="CN0320101T60AA">莊嚴<ptr target="fn10"/>寺</placeName>大集，<lb ed="T" n="0373b16"/>簡閱義士上首千人，勅<persName key="A002245">亮</persName>與<persName key="A002244">斌</persName>遞為法主，<lb ed="T" n="0373b17"/>當時宗匠無與競焉。</p><p><date key="j18938651895488" notAfter-iso="0477" notBefore-iso="0473">宋元徽中</date>卒，春秋六十<lb ed="T" n="0373b18"/>三矣。著〈玄通論〉，今行於世。</p>
+	<p><anchor n="T.50.2059.0373b09"/><lb ed="T" n="0373b09"/><persName key="A002245">釋慧亮</persName>，姓<ptr target="fn08"/>姜，先名<persName key="A002245">顯亮</persName>，為<placeName key="PL000000022347">東阿</placeName><persName key="A002229">靖公</persName>弟子。<lb ed="T" n="0373b10"/>少有清譽，時人呼<persName key="A002229">靖</persName>為<persName key="A002229">大師</persName>，<persName key="A002245">亮</persName>為<persName key="A002245">小師</persName>。雖<lb ed="T" n="0373b11"/>年望未逮，而風軌繼之。後立寺於<placeName key="PL000000020627">臨淄</placeName>，講<lb ed="T" n="0373b12"/>《法華》、大小《品》、《十地》等。學徒雲聚、千里命駕。後<lb ed="T" n="0373b13"/>過江止<placeName key="PL000000008703">何園寺</placeName>、<persName key="A002645">顏<ptr target="fn09"/>延</persName>、<persName key="A002990">張緒</persName>眷德留連，每歎<lb ed="T" n="0373b14"/>曰：「<persName key="A001503">安</persName>、<persName key="A002193">汰</persName>吐珠玉於前，<persName key="A002244">斌</persName>、<persName key="A002245">亮</persName>振金聲於後，清<lb ed="T" n="0373b15"/>言妙緒，將絕復興。」<date key="j18912671893480" notAfter-iso="0472" notBefore-iso="0466">太始</date>之初，<placeName key="PL000000008702">莊嚴<ptr target="fn10"/>寺</placeName>大集，<lb ed="T" n="0373b16"/>簡閱義士上首千人，勅<persName key="A002245">亮</persName>與<persName key="A002244">斌</persName>遞為法主，<lb ed="T" n="0373b17"/>當時宗匠無與競焉。</p><p><date key="j18938651895488" notAfter-iso="0477" notBefore-iso="0473">宋元徽中</date>卒，春秋六十<lb ed="T" n="0373b18"/>三矣。著〈玄通論〉，今行於世。</p>
 	<linkGrp>
 		<link targets="#0373b09 #0373b09"/>
 		<ptr target="#A002245" type="person"/>
@@ -9,20 +9,20 @@
 	<linkGrp>
 		<link targets="#0373b11 #0373b12"/>
 		<ptr target="#A002245" type="person"/>
-		<ptr target="#CN0370305Z16AA" type="place"/>
+		<ptr target="#PL000000020627" type="place"/>
 	</linkGrp>
 	<linkGrp>
 		<link targets="#0373b12 #0373b15"/>
 		<ptr target="#A002245" type="person"/>
 		<ptr target="#A002645" type="person"/>
 		<ptr target="#A002990" type="person"/>
-		<ptr target="#CN0320101T61AA" type="place"/>
+		<ptr target="#PL000000008703" type="place"/>
 	</linkGrp>
             <linkGrp>
             	<link targets="#0373b15 #0373b17"/>
             	<ptr target="#A002245" type="person"/>
             	<ptr target="#A002244" type="person"/>
-            	<ptr target="#CN0320101T60AA" type="place"/>
+            	<ptr target="#PL000000008702" type="place"/>
             	<ptr target="#j18912671893480" type="time"/>
             </linkGrp>
             <linkGrp>

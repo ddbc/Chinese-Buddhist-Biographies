@@ -1,38 +1,38 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0606b29shiHuiMing">
-    <p><anchor n="T.50.2060.0606b29"/><lb ed="T" n="0606b29"/><persName key="A006348">釋惠明</persName>。姓王。<placeName key="CN0330103Z19AA">杭州</placeName>人。少出家。遊道無定<lb ed="T" n="0606c01"/>所。時<placeName key="CN0330602Z01AA">越州</placeName><persName key="A005825">敏法師</persName>。聚徒揚化遠近奔隨。<persName key="A006348">明</persName><lb ed="T" n="0606c02"/>於法席二十五年。眾侶千僧解玄第一。持<lb ed="T" n="0606c03"/>衣大布二十餘載。時共目之青布<persName key="A006348">明</persName>也。翹<lb ed="T" n="0606c04"/>勇果敢策勤無偶。後至<placeName key="CN0320103Z01AA">蔣州</placeName><persName key="A006349">巖禪師</persName>所。一<lb ed="T" n="0606c05"/>經十年諮請禪法在山禪念。經雪路塞七<lb ed="T" n="0606c06"/>日不食。念言。我聞不食七日便死。今<persName key="A006348">明</persName>知<lb ed="T" n="0606c07"/>業也。若業自在可試知之。以繩自懸於高<lb ed="T" n="0606c08"/>崖。怳怳如人割斷。因落崖底。如人擎置一<lb ed="T" n="0606c09"/>無所損。復至荊州<placeName key="CN0411502M01AA">四望山</placeName>頭陀。二虎交鬪<lb ed="T" n="0606c10"/>自往分解。冬夏一服行止形俱。所去無戀。<lb ed="T" n="0606c11"/>即經所謂如鳥凌空。喻斯人矣。誦思益經<lb ed="T" n="0606c12"/>依經作業。近<date key="j19625821963615" notAfter-iso="0664" notBefore-iso="0661">龍朔年</date>。從<placeName key="CN0610125M01AA">南山</placeName>出至<placeName key="CN0610102Z01AA">京</placeName>遊觀。<lb ed="T" n="0606c13"/>與其言論無得為先。不久旋返云往江曲。<lb ed="T" n="0606c14"/>依閑修道莫知定所。</p>
+    <p><anchor n="T.50.2060.0606b29"/><lb ed="T" n="0606b29"/><persName key="A006348">釋惠明</persName>。姓王。<placeName key="PL000000011519">杭州</placeName>人。少出家。遊道無定<lb ed="T" n="0606c01"/>所。時<placeName key="PL000000013239">越州</placeName><persName key="A005825">敏法師</persName>。聚徒揚化遠近奔隨。<persName key="A006348">明</persName><lb ed="T" n="0606c02"/>於法席二十五年。眾侶千僧解玄第一。持<lb ed="T" n="0606c03"/>衣大布二十餘載。時共目之青布<persName key="A006348">明</persName>也。翹<lb ed="T" n="0606c04"/>勇果敢策勤無偶。後至<placeName key="PL000000008820">蔣州</placeName><persName key="A006349">巖禪師</persName>所。一<lb ed="T" n="0606c05"/>經十年諮請禪法在山禪念。經雪路塞七<lb ed="T" n="0606c06"/>日不食。念言。我聞不食七日便死。今<persName key="A006348">明</persName>知<lb ed="T" n="0606c07"/>業也。若業自在可試知之。以繩自懸於高<lb ed="T" n="0606c08"/>崖。怳怳如人割斷。因落崖底。如人擎置一<lb ed="T" n="0606c09"/>無所損。復至荊州<placeName key="PL000000025738">四望山</placeName>頭陀。二虎交鬪<lb ed="T" n="0606c10"/>自往分解。冬夏一服行止形俱。所去無戀。<lb ed="T" n="0606c11"/>即經所謂如鳥凌空。喻斯人矣。誦思益經<lb ed="T" n="0606c12"/>依經作業。近<date key="j19625821963615" notAfter-iso="0664" notBefore-iso="0661">龍朔年</date>。從<placeName key="PL000000042627">南山</placeName>出至<placeName key="PL000000042182">京</placeName>遊觀。<lb ed="T" n="0606c13"/>與其言論無得為先。不久旋返云往江曲。<lb ed="T" n="0606c14"/>依閑修道莫知定所。</p>
     <linkGrp>  
         <link targets="#0606b29 #0606b29"/>
         <ptr target="#A006348" type="person"/>
-        <ptr target="#CN0330103Z19AA" type="place"/>
+        <ptr target="#PL000000011519" type="place"/>
     </linkGrp>
     <linkGrp>  
         <link targets="#0606c01 #0606c04"/>
         <ptr target="#A006348" type="person"/>
         <ptr target="#A005825" type="person"/>
-        <ptr target="#CN0330602Z01AA" type="place"/>
+        <ptr target="#PL000000013239" type="place"/>
         </linkGrp>
     <linkGrp>  
         <link targets="#0606c04 #0606c09"/>
         <ptr target="#A006348" type="person"/>
         <ptr target="#A006349" type="person"/>
-        <ptr target="#CN0320103Z01AA" type="place"/>
+        <ptr target="#PL000000008820" type="place"/>
         </linkGrp>
     <linkGrp>  
         <link targets="#0606c09 #0606c11"/>
         <ptr target="#A006348" type="person"/>
-        <ptr target="#CN0411502M01AA" type="place"/>
+        <ptr target="#PL000000025738" type="place"/>
     </linkGrp>
     <linkGrp>  
         <link targets="#0606c12 #0606c12"/>
         <ptr target="#A006348" type="person"/>
-        <ptr target="#CN0610125M01AA" type="place"/>
+        <ptr target="#PL000000042627" type="place"/>
         <ptr target="#j19625821963615" type="time"/>
     </linkGrp>
     <linkGrp>  
         <link targets="#0606c12 #0606c14"/>
         <ptr target="#A006348" type="person"/>
-        <ptr target="#CN0610102Z01AA" type="place"/>
+        <ptr target="#PL000000042182" type="place"/>
         <ptr target="#j19625821963615" type="time"/>
     </linkGrp>
 </div>

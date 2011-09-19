@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="bqnz0938a20daoShouNi">
-    <head>江陵<placeName key="CN0421003T24AA">祇洹寺</placeName><persName key="A015163">道壽</persName>尼<ptr target="fn10"/>傳五</head><p><anchor n="T.50.2063.0938a21"/><lb ed="T" n="0938a21"/><persName key="A015163">道壽</persName>，未詳何許人也。清和恬寂，以恭孝<ptr target="fn11"/>見稱。<lb ed="T" n="0938a22"/>幼受五戒，未嘗起犯。<date from-iso="0424-09-18" key="j18761841886591" to-iso="0453-03-17">元嘉</date>中遭父憂，因毀遘<lb ed="T" n="0938a23"/>疾，自無痛癢，唯黃瘠骨立，經歷年歲，諸治不<lb ed="T" n="0938a24"/>瘳。因爾發願，願<ptr target="fn12"/>疾愈，得出家。立誓之後，漸<lb ed="T" n="0938a25"/>得平復，如願出俗，住<placeName key="CN0421003T24AA">祇洹寺</placeName>。勤苦超絕，誦法<lb ed="T" n="0938a26"/>華經三千遍，常見光瑞。<date key="j18816751881675" when-iso="0439-10-01">元嘉十六年九月七<lb ed="T" n="0938a27"/>日</date>。<ptr target="fn13"/>夜中，寶蓋垂覆其上。<ptr target="fn＊"/>云。</p>
+    <head>江陵<placeName key="PL000000027762">祇洹寺</placeName><persName key="A015163">道壽</persName>尼<ptr target="fn10"/>傳五</head><p><anchor n="T.50.2063.0938a21"/><lb ed="T" n="0938a21"/><persName key="A015163">道壽</persName>，未詳何許人也。清和恬寂，以恭孝<ptr target="fn11"/>見稱。<lb ed="T" n="0938a22"/>幼受五戒，未嘗起犯。<date from-iso="0424-09-18" key="j18761841886591" to-iso="0453-03-17">元嘉</date>中遭父憂，因毀遘<lb ed="T" n="0938a23"/>疾，自無痛癢，唯黃瘠骨立，經歷年歲，諸治不<lb ed="T" n="0938a24"/>瘳。因爾發願，願<ptr target="fn12"/>疾愈，得出家。立誓之後，漸<lb ed="T" n="0938a25"/>得平復，如願出俗，住<placeName key="PL000000027762">祇洹寺</placeName>。勤苦超絕，誦法<lb ed="T" n="0938a26"/>華經三千遍，常見光瑞。<date key="j18816751881675" when-iso="0439-10-01">元嘉十六年九月七<lb ed="T" n="0938a27"/>日</date>。<ptr target="fn13"/>夜中，寶蓋垂覆其上。<ptr target="fn＊"/>云。</p>
         <linkGrp>
             <link targets="#0938a22 #0938a26"/>
             <ptr target="#A015163" type="person"/>
-            <ptr target="#CN0421003T24AA" type="place"/>
+            <ptr target="#PL000000027762" type="place"/>
             <ptr target="#j18761841886591" type="time"/>
         </linkGrp>
     <linkGrp>

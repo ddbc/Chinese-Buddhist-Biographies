@@ -1,19 +1,89 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0409a01daoQuan">
     <head><lb ed="X" n="0409a01"/>　　　　<persName key="A014314">歸宗詮</persName>師傳</head>
-    <p><anchor n="X.77.1524.0409a02"/><lb ed="X" n="0409a02"/>禪師。名<persName key="A014314">道詮</persName>。生劉氏。吉州<placeName key="CN0360829Z11AA">安福</placeName>人也。童子棄家。事思
-        <lb ed="X" n="0409a03"/>禪師。思為剃落。受具足戒。後聞<placeName key="CN0430105Z19AA">長沙</placeName><persName key="A020350">慧輪</persName>禪師。思一
-        <lb ed="X" n="0409a04"/>見之。時馬氏竊據<placeName key="CN0400000E02AA">荊楚</placeName>。與<placeName key="CN0320106Z07AA">建康</placeName>接壤。詮年二十餘。結
-        <lb ed="X" n="0409a05"/>友冒險造焉。會馬氏滅。<persName key="unknown">劉言</persName>有其地。以王逵代劉言。
-        <lb ed="X" n="0409a06"/>領其事。逵見詮輩。疑為諜者。捕縛欲投江中。詮怡然
-        <lb ed="X" n="0409a07"/>無怖。逵異之。以問<persName key="A020350">輪</persName>曰。此道人。視死如見鼻端。何種
+    <p><anchor n="X.77.1524.0409a02"/><lb ed="X" n="0409a02"/>禪師。名<persName key="A014314">道詮</persName>。生劉氏。吉州<placeName key="PL000000019549">安福</placeName>人也。童子棄家。事<persName key="A021798">思</persName>
+        <lb ed="X" n="0409a03"/>禪師。<persName key="A021798">思</persName>為剃落。受具足戒。後聞<placeName key="PL000000028660">長沙</placeName><persName key="A020350">慧輪</persName>禪師。思一
+        <lb ed="X" n="0409a04"/>見之。時馬氏竊據<placeName key="PL000000023022">荊楚</placeName>。與<placeName key="PL000000008977">建康</placeName>接壤。<persName key="A014314">詮</persName>年二十餘。結
+        <lb ed="X" n="0409a05"/>友冒險造焉。會馬氏滅。<persName key="A021794">劉言</persName>有其地。以<persName key="A021795">王逵</persName>代<persName key="A021794">劉言</persName>。
+        <lb ed="X" n="0409a06"/>領其事。<persName key="A021795">逵</persName>見<persName key="A014314">詮</persName>輩。疑為諜者。捕縛欲投江中。<persName key="A014314">詮</persName>怡然
+        <lb ed="X" n="0409a07"/>無怖。<persName key="A021795">逵</persName>異之。以問<persName key="A020350">輪</persName>曰。此道人。視死如見鼻端。何種
         <lb ed="X" n="0409a08"/>人乃能爾。<persName key="A020350">輪</persName>曰。彼蓋為法忘軀之人。聞老僧虗名。故
-        <lb ed="X" n="0409a09"/>來決擇耳。逵釋之加敬。<persName key="A014314">詮</persName>傲然而去。依<placeName key="CN0430105T08AA">延壽</placeName>十年<persName key="A020350">輪</persName>
-        <lb ed="X" n="0409a10"/>歿。<persName key="A014314">詮</persName>還<placeName key="CN0360402M01AA">廬山</placeName>。<date from-iso="0963-12-09" to-iso="0965-03-12" key="j20731312073590">乾德初</date>。庵于東南牛首峰下。<date from-iso="0972-01-24" to-iso="0973-02-10" key="j20760992076482">開寶五年</date>。
-        <lb ed="X" n="0409a11"/>洪帥林仁肇。請住<placeName key="unknown">九峰</placeName>。賜大沙門。尋屬江南國絕。僧
+        <lb ed="X" n="0409a09"/>來決擇耳。<persName key="A021795">逵</persName>釋之加敬。<persName key="A014314">詮</persName>傲然而去。依<placeName key="PL000000028639">延壽</placeName>十年<persName key="A020350">輪</persName>
+        <lb ed="X" n="0409a10"/>歿。<persName key="A014314">詮</persName>還<placeName key="PL000000018775">廬山</placeName>。<date from-iso="0963-12-09" to-iso="0965-03-12" key="j20731312073590">乾德初</date>。庵于東南<placeName key="PL000000018783">牛首峰</placeName>下。<date from-iso="0972-01-24" to-iso="0973-02-10" key="j20760992076482">開寶五年</date>。
+        <lb ed="X" n="0409a11"/><placeName key="PL000000018674">洪</placeName>帥<persName key="A021796">林仁肇</persName>。請住<placeName key="PL000000019662">九峰</placeName>。賜大沙門。尋屬江南國絕。僧
         <lb ed="X" n="0409a12"/>徒例試經業。師之眾並習禪觀。乃述一偈。聞于州牧
         <lb ed="X" n="0409a13"/>曰。比擬忘言合太虗。免教和氣有親疎。誰知道德全
         <lb ed="X" n="0409a14"/>無用。今日為僧貴識書。州牧閱之。與僚佐議曰。旃檀
-        <lb ed="X" n="0409a15"/>林中。必無雜樹。惟師一院特免試。<date from-iso="0984-02-10" to-iso="0984-12-10" key="j20804992080803">太平興國九年</date>。<placeName key="CN0360427Z10AA">南<lb ed="X" n="0409a16"/>康</placeName>牧張南金。請居歸宗。<date when-iso="0986-01-16" key="j20812052081205">雍熙二年十一月二十八日</date>
+        <lb ed="X" n="0409a15"/>林中。必無雜樹。惟師一院特免試。<date from-iso="0984-02-10" to-iso="0984-12-10" key="j20804992080803">太平興國九年</date>。<placeName key="PL000000018976">南<lb ed="X" n="0409a16"/>康</placeName>牧<persName key="A021799">張南金</persName>。請居<placeName key="PL000000018960">歸宗</placeName>。<date when-iso="0986-01-16" key="j20812052081205">雍熙二年十一月二十八日</date>
         <lb ed="X" n="0409a17"/>中夜。辭眾而化。</p>
+    
+    <linkGrp>
+        <link targets="#0409a02 #0409a02"/>
+        <ptr target="#A014314" type="person"/>
+        <ptr target="#PL000000019549" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0409a02 #0409a03"/>
+        <ptr target="#A014314" type="person"/>
+        <ptr target="#A021798" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0409a04 #0409a05"/>
+        <ptr target="#A021794" type="person"/>
+        <ptr target="#PL000000023022" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0409a03 #0409a09"/>
+        <ptr target="#A014314" type="person"/>
+        <ptr target="#A021795" type="person"/>
+        <ptr target="#PL000000023022" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0409a09 #0409a10"/>
+        <ptr target="#A014314" type="person"/>
+        <ptr target="#A020350" type="person"/>
+        <ptr target="#PL000000028639" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0409a09 #0409a10"/>
+        <ptr target="#A014314" type="person"/>
+        <ptr target="#PL000000018775" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0409a10 #0409a10"/>
+        <ptr target="#A014314" type="person"/>
+        <ptr target="#PL000000018783" type="place"/>
+        <ptr target="#j20731312073590" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0409a10 #0409a11"/>
+        <ptr target="#A014314" type="person"/>
+        <ptr target="#A021796" type="person"/>
+        <ptr target="#PL000000018674" type="place"/>
+        <ptr target="#j20760992076482" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0409a10 #0409a11"/>
+        <ptr target="#A014314" type="person"/>
+        <ptr target="#PL000000019662" type="place"/>
+        <ptr target="#j20760992076482" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0409a15 #0409a16"/>
+        <ptr target="#A014314" type="person"/>
+        <ptr target="#A021799" type="person"/>
+        <ptr target="#PL000000018976" type="place"/>
+        <ptr target="#j20804992080803" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0409a15 #0409a16"/>
+        <ptr target="#A014314" type="person"/>
+        <ptr target="#PL000000018960" type="place"/>
+        <ptr target="#j20804992080803" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0409a16 #0409a17"/>
+        <ptr target="#A014314" type="person"/>
+        <ptr target="#j20812052081205" type="time"/>
+    </linkGrp>
 </div>

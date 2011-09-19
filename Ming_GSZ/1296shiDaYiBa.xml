@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0906c26shiDaYiBa">
-  <p><anchor n="T.50.2062.0906c26"/><lb ed="T" n="0906c26"/><persName key="A008175">釋達益巴</persName>未知何國人。少為苾芻事帝師。<lb ed="T" n="0906c27"/>十有三年侍聽言論。陶熏滋久欝成美器。凡<lb ed="T" n="0906c28"/>大小乘律論及祕密部皆得乎理之所歸。帝<lb ed="T" n="0906c29"/>師西還。送至<placeName key="CN0621124Z19AA">臨洮</placeName>命依<persName key="A008176">綽思吉大士</persName>。十有<lb ed="T" n="0907a01"/>九年聞所未聞。道益精萃。秦人請居古佛<lb ed="T" n="0907a02"/>寺<!--找不到此地-->。其六波羅蜜靡所不修。兼通賢首之教。<lb ed="T" n="0907a03"/>於是名譽四表道重三朝。<persName key="A004320">元武宗</persName>踐祚召<lb ed="T" n="0907a04"/>問法要稱旨所賜雖厚辭不受。未久乞歸<lb ed="T" n="0907a05"/>許之。將謀以終自許。俄而復召還<placeName key="CN0110102Z01AA">京</placeName>。大宣<lb ed="T" n="0907a06"/>法化。<persName key="A004320">帝</persName>親臨聽特賜<persName key="A008175">弘法普濟三藏</persName>之號。命<lb ed="T" n="0907a07"/>鑄金印及紫方袍以旌異之。勅王公大臣<lb ed="T" n="0907a08"/>皆咨決心要。<date key="j22027112202711" when-iso="1318-09-19">延祐五年八月十有六日</date>無疾<lb ed="T" n="0907a09"/>端坐而化。壽七十有三。<persName key="A004320">帝</persName>命兩宮賜幣助<lb ed="T" n="0907a10"/>葬。皇太子宰輔致奠勅有司衛送全身建<lb ed="T" n="0907a11"/>塔。諡曰<persName key="A008175">祐聖國師</persName>。</p>
+  <p><anchor n="T.50.2062.0906c26"/><lb ed="T" n="0906c26"/><persName key="A008175">釋達益巴</persName>未知何國人。少為苾芻事帝師。<lb ed="T" n="0906c27"/>十有三年侍聽言論。陶熏滋久欝成美器。凡<lb ed="T" n="0906c28"/>大小乘律論及祕密部皆得乎理之所歸。帝<lb ed="T" n="0906c29"/>師西還。送至<placeName key="PL000000046193">臨洮</placeName>命依<persName key="A008176">綽思吉大士</persName>。十有<lb ed="T" n="0907a01"/>九年聞所未聞。道益精萃。秦人請居古佛<lb ed="T" n="0907a02"/>寺<!--找不到此地-->。其六波羅蜜靡所不修。兼通賢首之教。<lb ed="T" n="0907a03"/>於是名譽四表道重三朝。<persName key="A004320">元武宗</persName>踐祚召<lb ed="T" n="0907a04"/>問法要稱旨所賜雖厚辭不受。未久乞歸<lb ed="T" n="0907a05"/>許之。將謀以終自許。俄而復召還<placeName key="PL000000000317">京</placeName>。大宣<lb ed="T" n="0907a06"/>法化。<persName key="A004320">帝</persName>親臨聽特賜<persName key="A008175">弘法普濟三藏</persName>之號。命<lb ed="T" n="0907a07"/>鑄金印及紫方袍以旌異之。勅王公大臣<lb ed="T" n="0907a08"/>皆咨決心要。<date key="j22027112202711" when-iso="1318-09-19">延祐五年八月十有六日</date>無疾<lb ed="T" n="0907a09"/>端坐而化。壽七十有三。<persName key="A004320">帝</persName>命兩宮賜幣助<lb ed="T" n="0907a10"/>葬。皇太子宰輔致奠勅有司衛送全身建<lb ed="T" n="0907a11"/>塔。諡曰<persName key="A008175">祐聖國師</persName>。</p>
   <linkGrp>
     <link targets="#0906c28 #0906c29"/>
     <ptr target="#A008175" type="person"/>
-    <ptr target="#CN0621124Z19AA" type="place"/>
+    <ptr target="#PL000000046193" type="place"/>
   </linkGrp>
   <linkGrp>
     <link targets="#0907a08 #0907a11"/>
@@ -15,6 +15,6 @@
     <link targets="#0907a05 #0907a08"/>
     <ptr target="#A008175" type="person"/>
     <ptr target="#A004320" type="person"/>
-    <ptr target="#CN0110102Z01AA" type="place"/>
+    <ptr target="#PL000000000317" type="place"/>
   </linkGrp>
 </div>

@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0847b15shiWangMng">
     <anchor n="T.50.2061.0847b15"/><head><date from-iso="0618-06-21" key="j19469512052491" to-iso="0907-06-06">唐</date>興元府梁山寺上座<persName key="A012838">亡名</persName>傳</head><p>
-<lb ed="T" n="0847b16"/><persName key="A012838">釋亡名</persName>者，不知何許人也，居<placeName key="CN0610702Z37AA">褒城</placeName>西數十
-<lb ed="T" n="0847b17"/>里，號<placeName key="CN0610702M01AA">中梁山</placeName>，數峯迴負，翠碧凝空，處于厥
+<lb ed="T" n="0847b16"/><persName key="A012838">釋亡名</persName>者，不知何許人也，居<placeName key="PL000000043878">褒城</placeName>西數十
+<lb ed="T" n="0847b17"/>里，號<placeName key="PL000000043837">中梁山</placeName>，數峯迴負，翠碧凝空，處于厥
 <lb ed="T" n="0847b18"/>中。行終詭異，言語不常，恒見者弗驚，乍親
 <lb ed="T" n="0847b19"/>者可怪。平常酷嗜酒而食肉，麁重公行，又
 <lb ed="T" n="0847b20"/>綱任眾事，且多折中，僧亦畏焉，號為<persName key="A012838">上座</persName>。
@@ -16,8 +16,8 @@
 <lb ed="T" n="0847b28"/>皆掩鼻唾地而走。<persName key="A012838">上座</persName>大叫曰：「汝等能餧
 <lb ed="T" n="0847b29"/>此肉，方可餧他肉也已。」自此緇徒警悟，化<pb ed="T" n="0847c" xml:id="T50.2061.0847c"/>
 <lb ed="T" n="0847c01"/>成精苦焉。遠近歸信。時右僕射<persName key="A009810">柳仲郢</persName>任
-<lb ed="T" n="0847c02"/><placeName key="CN0610702Z16AA">梁府</placeName>，親往禮重。終時云年可八九十。真影存
-<lb ed="T" n="0847c03"/>于山寺。至今<placeName key="CN0610702Z16AA">梁</placeName>、<placeName key="CN0510108Z31AA">益</placeName>、<placeName key="CN0610000E01AA">三輔</placeName>間止呼為<persName key="A012838">興元上座</persName>
+<lb ed="T" n="0847c02"/><placeName key="PL000000043857">梁府</placeName>，親往禮重。終時云年可八九十。真影存
+<lb ed="T" n="0847c03"/>于山寺。至今<placeName key="PL000000043857">梁</placeName>、<placeName key="PL000000034805">益</placeName>、<placeName key="PL000000042002">三輔</placeName>間止呼為<persName key="A012838">興元上座</persName>
 <lb ed="T" n="0847c04"/>云。奇蹤異迹不少，未極詳焉。</p>
     <p xml:id="pT50p0847c0501"><lb ed="T" n="0847c05"/>系曰：<persName key="A012838">上座</persName>始則爾之教矣，後則民胥効矣。曾
 <lb ed="T" n="0847c06"/>不知果證之人，逆化於物，終作佛事，用警
@@ -27,12 +27,12 @@
     <linkGrp>
         <link targets="#0847b16 #0847b24"/>
         <ptr target="#A012838" type="person"/>
-        <ptr target="#CN0610702M01AA" type="place"/>
+        <ptr target="#PL000000043837" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0847c01 #0847c02"/>
         <ptr target="#A012838" type="person"/>
         <ptr target="#A009810" type="person"/>
-        <ptr target="#CN0610702M01AA" type="place"/>
+        <ptr target="#PL000000043837" type="place"/>
     </linkGrp>
 </div>

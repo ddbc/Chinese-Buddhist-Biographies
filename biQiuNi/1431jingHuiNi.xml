@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="bqnz0943b20jingHuiNi">
-    <head><placeName key="CN0320106T39AA">普賢寺</placeName><persName key="A015884">淨<ptr target="fn32"/>暉</persName>尼<ptr target="fn33"/>傳九</head><p><anchor n="T.50.2063.0943b21"/><lb ed="T" n="0943b21"/><persName key="A015884">淨<ptr target="fn＊"/>暉</persName>，本姓楊，<placeName key="CN0320106Z05AA">建康</placeName>人也。志道專誠，樂法翹<lb ed="T" n="0943b22"/>懇。具戒之初，從<persName key="A002988">濟</persName>、<persName key="A002259">瑗</persName>稟學，精思研求，究大乘<lb ed="T" n="0943b23"/>之奧。十臘之後，便為宗匠。<persName key="A002654">齊文惠帝</persName>、<persName key="A002655">竟陵文<lb ed="T" n="0943b24"/>宣王</persName>，莫不服膺。<date from-iso="0490-02-07" key="j19000671900420" to-iso="0491-01-26">永明八年</date>，<persName key="A002655">竟陵王</persName>請於第講<lb ed="T" n="0943b25"/>維摩經。後為寺主二十餘年，長幼崇<ptr target="fn34"/>奉，如<lb ed="T" n="0943b26"/>事父母，從為弟子者四百餘人。年七十二，<date from-iso="0492-02-15" key="j19008051901158" to-iso="0493-02-02">永<lb ed="T" n="0943b27"/>明十年</date>卒<ptr target="fn＊"/>也。</p><p>時寺<ptr target="fn35"/>又有<persName key="A019407">僧要</persName>、<persName key="A015896">光淨</persName>，並學行<lb ed="T" n="0943b28"/>有聞也。</p>
+    <head><placeName key="PL000000008964">普賢寺</placeName><persName key="A015884">淨<ptr target="fn32"/>暉</persName>尼<ptr target="fn33"/>傳九</head><p><anchor n="T.50.2063.0943b21"/><lb ed="T" n="0943b21"/><persName key="A015884">淨<ptr target="fn＊"/>暉</persName>，本姓楊，<placeName key="PL000000008975">建康</placeName>人也。志道專誠，樂法翹<lb ed="T" n="0943b22"/>懇。具戒之初，從<persName key="A002988">濟</persName>、<persName key="A002259">瑗</persName>稟學，精思研求，究大乘<lb ed="T" n="0943b23"/>之奧。十臘之後，便為宗匠。<persName key="A002654">齊文惠帝</persName>、<persName key="A002655">竟陵文<lb ed="T" n="0943b24"/>宣王</persName>，莫不服膺。<date from-iso="0490-02-07" key="j19000671900420" to-iso="0491-01-26">永明八年</date>，<persName key="A002655">竟陵王</persName>請於第講<lb ed="T" n="0943b25"/>維摩經。後為寺主二十餘年，長幼崇<ptr target="fn34"/>奉，如<lb ed="T" n="0943b26"/>事父母，從為弟子者四百餘人。年七十二，<date from-iso="0492-02-15" key="j19008051901158" to-iso="0493-02-02">永<lb ed="T" n="0943b27"/>明十年</date>卒<ptr target="fn＊"/>也。</p><p>時寺<ptr target="fn35"/>又有<persName key="A019407">僧要</persName>、<persName key="A015896">光淨</persName>，並學行<lb ed="T" n="0943b28"/>有聞也。</p>
     
     
     <linkGrp>
@@ -34,6 +34,6 @@
         <ptr target="#A015896" type="person"/>
         <ptr target="#A015884" type="person"/>
         <ptr target="#A019407" type="person"/>
-        <ptr target="#CN0320106T39AA" type="place"/>
+        <ptr target="#PL000000008964" type="place"/>
         </linkGrp>
 </div>

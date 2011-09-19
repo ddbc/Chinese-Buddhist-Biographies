@@ -1,8 +1,13 @@
 <?xml version='1.0' encoding='utf-8'?>
-<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0883c16shiZhiHui">
-    <anchor n="T.50.2061.0883c16"/><head><date from-iso="0923-05-18" key="j20583162063308" to-iso="0937-01-16">後唐</date>洛陽中灘浴院<persName key="A013776">智暉</persName>傳</head><p>
-<lb ed="T" n="0883c17"/><persName key="A013776">釋智暉</persName>，姓高氏，<placeName key="CN0610404Z14AA">咸秦</placeName>人也。權輿總角，萌離俗
-<lb ed="T" n="0883c18"/>之心，不狎童遊，動循天分。欻遇<placeName key="CN0610125M10AA">圭峯</placeName><persName key="A013777">溫禪
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0883c11shiZhiHui">
+    <lb n="0883c11" ed="T"/><anchor n="T.50.2061.0883c11"/><head><anchor xml:id="beg0883c02"/>宋<anchor xml:id="end0883c02"/>高僧傳卷第二十八</head>
+    <lb n="0883c12" ed="T"/>
+    <lb n="0883c13" ed="T"/><byline n="Author"><anchor xml:id="beg0883c03"/>宋左街天壽寺通慧大師
+        <lb n="0883c14" ed="T"/>賜紫沙門贊寧等奉　勅撰<anchor xml:id="end0883c03"/></byline>
+    <lb n="0883c15" ed="T"/><head>興福篇第九之三（正傳十五人附見一人）</head>
+        <lb n="0883c16" ed="T"/><head><date from-iso="0923-05-18" key="j20583162063308" to-iso="0937-01-16">後唐</date>洛陽中灘浴院<persName key="A013776">智暉</persName>傳</head><p>
+<lb ed="T" n="0883c17"/><persName key="A013776">釋智暉</persName>，姓高氏，<placeName key="PL000000043060">咸秦</placeName>人也。權輿總角，萌離俗
+<lb ed="T" n="0883c18"/>之心，不狎童遊，動循天分。欻遇<placeName key="PL000000042639">圭峯</placeName><persName key="A013777">溫禪
 <lb ed="T" n="0883c19"/>師</persName>，氣貌瑰偉，虛心體道，趨其門者，淑慝旌
 <lb ed="T" n="0883c20"/>別矣。謂<persName key="A013776">暉</persName>曰：「<persName key="A013776">子</persName>實材器多能之士也。」請祈
 <lb ed="T" n="0883c21"/>攝受，二十登戒。風骨聳拔，好尚且奇。山中闃
@@ -13,15 +18,15 @@
 <lb ed="T" n="0883c26"/>法，恨不與同時。對壁連圖，各成物象之生
 <lb ed="T" n="0883c27"/>動也。」然真放達之士哉。或振錫而遊，縱觀
 <lb ed="T" n="0883c28"/>山水；或躡屩而至，歷覽市朝。意住則留，興盡
-<lb ed="T" n="0883c29"/>而去。或東林入社，或<placeName key="CN0430412M01AA">南嶽</placeName>經行，悟宗旨於<pb ed="T" n="0884a" xml:id="T50.2061.0884a"/>
-<lb ed="T" n="0884a01"/><persName key="A001719">曹谿</persName>，寧勞一宿；訪神仙於<placeName key="CN0331023A05AA">阮洞</placeName>，擬到三清。
+<lb ed="T" n="0883c29"/>而去。或東林入社，或<placeName key="PL000000028928">南嶽</placeName>經行，悟宗旨於<pb ed="T" n="0884a" xml:id="T50.2061.0884a"/>
+<lb ed="T" n="0884a01"/><persName key="A001719">曹谿</persName>，寧勞一宿；訪神仙於<placeName key="PL000000014381">阮洞</placeName>，擬到三清。
 <lb ed="T" n="0884a02"/>事以志求，時無虛度。此外<app type="cb-app" xml:id="begd1e48217"/>采<anchor xml:id="endd1e48217"/>藥於山谷，救
 <lb ed="T" n="0884a03"/>病於旅僧，惟切利他，心無別務。洎梁<date key="j20549252055278" notAfter-iso="0915-01-22" notBefore-iso="0914-02-03">乾化
-<lb ed="T" n="0884a04"/>四年</date>，自<placeName key="CN0000007D01AA">江表</placeName>來于<placeName key="CN0410305Z22AA">帝京</placeName>，顧諸梵宮，無所
-<lb ed="T" n="0884a05"/>不備，唯溫室洗雪塵垢事有闕焉。居于<placeName key="CN0410302Z02AA">洛
+<lb ed="T" n="0884a04"/>四年</date>，自<placeName key="PL000000000197">江表</placeName>來于<placeName key="PL000000023638">帝京</placeName>，顧諸梵宮，無所
+<lb ed="T" n="0884a05"/>不備，唯溫室洗雪塵垢事有闕焉。居于<placeName key="PL000000023580">洛
 <lb ed="T" n="0884a06"/>洲</placeName>，鑿戶為室，界南北岸，葺數畆之宮，示
 <lb ed="T" n="0884a07"/>以標牓，召其樂福業者占之。未朞漸構，
-<lb ed="T" n="0884a08"/>欲閏皆周，浴具僧坊，奐焉有序。由是<placeName key="CN0410302Z02AA">洛城</placeName>緇
+<lb ed="T" n="0884a08"/>欲閏皆周，浴具僧坊，奐焉有序。由是<placeName key="PL000000023580">洛城</placeName>緇
 <lb ed="T" n="0884a09"/>伍，道觀上流，至者如歸，來者無阻。每以合
 <lb ed="T" n="0884a10"/>朔後五日，一開洗滌，曾無間然。一歲則七
 <lb ed="T" n="0884a11"/>十有餘會矣。一浴則遠近都集三二千僧矣。
@@ -42,23 +47,23 @@
     <linkGrp>
         <link targets="#0883c29 #0883c29"/>
         <ptr target="#A013776" type="person"/>
-        <ptr target="#CN0430412M01AA" type="place"/>
+        <ptr target="#PL000000028928" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0884a01 #0884a01"/>
         <ptr target="#A013776" type="person"/>
-        <ptr target="#CN0331023A05AA" type="place"/>
+        <ptr target="#PL000000014381" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0884a03 #0884a04"/>
         <ptr target="#A013776" type="person"/>
-        <ptr target="#CN0000007D01AA" type="place"/>
+        <ptr target="#PL000000000197" type="place"/>
         <ptr target="#j20549252055278" type="time"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0884a03 #0884a05"/>
         <ptr target="#A013776" type="person"/>
-        <ptr target="#CN0410305Z22AA" type="place"/>
+        <ptr target="#PL000000023638" type="place"/>
         <ptr target="#j20549252055278" type="time"/>
     </linkGrp>
     <linkGrp>

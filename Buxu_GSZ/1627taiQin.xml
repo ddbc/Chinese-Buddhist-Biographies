@@ -2,20 +2,57 @@
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0409a18taiQin">
     <head><lb ed="X" n="0409a18"/>　　　　<persName key="A003941">法燈欽</persName>公傳</head>
     <p><anchor n="X.77.1524.0409a19"/><lb ed="X" n="0409a19"/><persName key="A003941">泰欽</persName>。字<persName key="A003941">法燈</persName>。魏府人也。辯才無礙。入<persName key="A000174">法眼</persName>之室。雖解
-        <lb ed="X" n="0409a20"/>悟逸格。未為人知。性忽略不事事。甞自<placeName key="CN0320106T25AA">清涼</placeName>。遣化<placeName key="CN0321002Z02AA">維<lb ed="X" n="0409a21"/>揚</placeName>。不奉戒律。過時未歸。一眾傳以為笑。<persName key="A000174">法眼</persName>遣偈往
+        <lb ed="X" n="0409a20"/>悟逸格。未為人知。性忽略不事事。甞自<placeName key="PL000000008950">清涼</placeName>。遣化<placeName key="PL000000010783">維<lb ed="X" n="0409a21"/>揚</placeName>。不奉戒律。過時未歸。一眾傳以為笑。<persName key="A000174">法眼</persName>遣偈往
         <lb ed="X" n="0409a22"/>呼之。既歸。使為眾燒浴。一日<persName key="A000174">法眼</persName>問大眾曰。虎項下
         <lb ed="X" n="0409a23"/>金鈴。何人解得。對者皆不契。<persName key="A003941">欽</persName>適自外至。<persName key="A000174">法眼</persName>理前
         <lb ed="X" n="0409a24"/>語問之。<persName key="A003941">欽</persName>謂大眾何不道繫者解得。於是人人改觀。
-        <lb ed="X" n="0409b01"/><persName key="A000174">法眼</persName>曰。汝輩這回笑渠不得也。出世。初住洪州<placeName key="unknown">雙林</placeName>。
-        <lb ed="X" n="0409b02"/>次遷上藍<placeName key="unknown">護國院</placeName>。未幾。<persName key="unknown">李國主</persName>。請住<placeName key="CN0320106T25AA">清凉道場</placeName>。乃曰。
+        <lb ed="X" n="0409b01"/><persName key="A000174">法眼</persName>曰。汝輩這回笑渠不得也。出世。初住洪州<placeName key="PL000000019709">雙林</placeName>。
+        <lb ed="X" n="0409b02"/>次遷<placeName key="PL000000019774">上藍</placeName><placeName key="PL000000019779">護國院</placeName>。未幾。<persName key="A021837">李國主</persName>。請住<placeName key="PL000000008950">清凉道場</placeName>。乃曰。
         <lb ed="X" n="0409b03"/>山僧。本擬深藏山谷。遣日過生。緣<persName key="A000174">清凉老人</persName>有不了
         <lb ed="X" n="0409b04"/>底公案。所以出來。為他了却。若有人問。便說似伊。時
         <lb ed="X" n="0409b05"/>一僧出問。<persName key="A003941">欽</persName>曳杖擊之。僧曰。我有何過。<persName key="A003941">欽</persName>曰。祖禰不
-        <lb ed="X" n="0409b06"/>了。殃及兒孫。國主從容問曰。先師有何不了公案。<persName key="A003941">欽</persName>
-        <lb ed="X" n="0409b07"/>曰。現分析者。國主駭之。 <date from-iso="0974-06-28" to-iso="0974-07-26" key="j20769852077013">開寶七年六月</date>示疾。告眾曰。
+        <lb ed="X" n="0409b06"/>了。殃及兒孫。<persName key="A021837">國主</persName>從容問曰。先師有何不了公案。<persName key="A003941">欽</persName>
+        <lb ed="X" n="0409b07"/>曰。現分析者。<persName key="A021837">國主</persName>駭之。 <date from-iso="0974-06-28" to-iso="0974-07-26" key="j20769852077013">開寶七年六月</date>示疾。告眾曰。
         <lb ed="X" n="0409b08"/>老僧住持。將逾一紀。每承國王助發。至於檀越道侶
         <lb ed="X" n="0409b09"/>主事小僧。皆赤心為我。默而難言。或披麻帶布。甚違
-        <lb ed="X" n="0409b10"/>吾道。我之遺骸。但于南山<persName key="A000174">大智藏</persName>和尚左右。乞一墳
+        <lb ed="X" n="0409b10"/>吾道。我之遺骸。但于<persName key="A000174">南山大智藏</persName>和尚左右。乞一墳
         <lb ed="X" n="0409b11"/>塚。升沈皎然不淪化也。又示眾曰。但識口必無咎。縱
-        <lb ed="X" n="0409b12"/>有咎因汝有。珍重。二十四日。安坐而逝。</p>
+        <lb ed="X" n="0409b12"/>有咎因汝有。珍重。<date when-iso="0974-07-21" key="j20770082077008">二十四日</date>。安坐而逝。</p>
+    
+    <linkGrp>
+        <link targets="#0409a20 #0409a21"/>
+        <ptr target="#A003941" type="person"/>
+        <ptr target="#PL000000010783" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0409a19 #0409b01"/>
+        <ptr target="#A003941" type="person"/>
+        <ptr target="#A000174" type="person"/>
+        <ptr target="#PL000000008950" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0409b01 #0409b01"/>
+        <ptr target="#A003941" type="person"/>
+        <ptr target="#PL000000019709" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0409b02 #0409b02"/>
+        <ptr target="#A003941" type="person"/>
+        <ptr target="#PL000000019779" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0409b02 #0409b07"/>
+        <ptr target="#A003941" type="person"/>
+        <ptr target="#A021837" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0409b02 #0409b07"/>
+        <ptr target="#A003941" type="person"/>
+        <ptr target="#PL000000008950" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0409b07 #0409b12"/>
+        <ptr target="#A003941" type="person"/>
+        <ptr target="#j20769852077013" type="time"/>
+    </linkGrp>
 </div>

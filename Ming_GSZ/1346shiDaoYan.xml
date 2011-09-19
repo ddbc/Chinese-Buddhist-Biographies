@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0923c07shiDaoYan">
-  <p><anchor n="T.50.2062.0923c07"/><lb ed="T" n="0923c07"/><persName key="A008262">釋道顏</persName>號<persName key="A008262">卍庵</persName>。<placeName key="CN0510722Z21AA">潼川</placeName>鮮于氏<ptr target="fn01"/>了也。初參<persName key="A001411">圓<lb ed="T" n="0923c08"/>悟</persName>。但登堂未能造其玄奧。<persName key="A001411">圓悟</persName>將還<placeName key="CN0510108Z18AA">蜀</placeName>。<lb ed="T" n="0923c09"/>以書遺<persName key="A000475">大慧</persName>曰。<persName key="A008262">顏</persName>彩繪已。特未點眼耳。他<lb ed="T" n="0923c10"/>日嗣後未可量也。於是朝夕質疑於<persName key="A000475">慧</persName>。方<lb ed="T" n="0923c11"/>大悟徹。於是聲光遐溢黑白咸被其化。僧<lb ed="T" n="0923c12"/>問。如何是佛顏。曰<persName key="A002296">誌公和尚</persName>。曰學人問佛何<lb ed="T" n="0923c13"/>答<persName key="A002296">誌公</persName>。<persName key="A008262">顏</persName>曰。<persName key="A002296">誌公</persName>不是閒和尚。曰如何是<lb ed="T" n="0923c14"/>法顏。曰黃絹幼婦外孫韲臼。曰是甚章句。<persName key="A008262">顏</persName><lb ed="T" n="0923c15"/>曰。絕妙好辭。曰如何是僧。<persName key="A008262">顏</persName>曰。釣魚船上謝<lb ed="T" n="0923c16"/>三郎。曰何不直說。<persName key="A008262">顏</persName>曰。<persName key="A008370">玄沙和尚</persName>。<persName key="A008262">顏</persName>凡所<lb ed="T" n="0923c17"/>說法大概簡易如此。</p>
+  <p><anchor n="T.50.2062.0923c07"/><lb ed="T" n="0923c07"/><persName key="A008262">釋道顏</persName>號<persName key="A008262">卍庵</persName>。<placeName key="PL000000035486">潼川</placeName>鮮于氏<ptr target="fn01"/>了也。初參<persName key="A001411">圓<lb ed="T" n="0923c08"/>悟</persName>。但登堂未能造其玄奧。<persName key="A001411">圓悟</persName>將還<placeName key="PL000000034792">蜀</placeName>。<lb ed="T" n="0923c09"/>以書遺<persName key="A000475">大慧</persName>曰。<persName key="A008262">顏</persName>彩繪已。特未點眼耳。他<lb ed="T" n="0923c10"/>日嗣後未可量也。於是朝夕質疑於<persName key="A000475">慧</persName>。方<lb ed="T" n="0923c11"/>大悟徹。於是聲光遐溢黑白咸被其化。僧<lb ed="T" n="0923c12"/>問。如何是佛顏。曰<persName key="A002296">誌公和尚</persName>。曰學人問佛何<lb ed="T" n="0923c13"/>答<persName key="A002296">誌公</persName>。<persName key="A008262">顏</persName>曰。<persName key="A002296">誌公</persName>不是閒和尚。曰如何是<lb ed="T" n="0923c14"/>法顏。曰黃絹幼婦外孫韲臼。曰是甚章句。<persName key="A008262">顏</persName><lb ed="T" n="0923c15"/>曰。絕妙好辭。曰如何是僧。<persName key="A008262">顏</persName>曰。釣魚船上謝<lb ed="T" n="0923c16"/>三郎。曰何不直說。<persName key="A008262">顏</persName>曰。<persName key="A008370">玄沙和尚</persName>。<persName key="A008262">顏</persName>凡所<lb ed="T" n="0923c17"/>說法大概簡易如此。</p>
   <linkGrp>
     <link targets="#0923c07 #0923c08"/>
     <ptr target="#A008262" type="person"/>
@@ -19,11 +19,11 @@
   <linkGrp>
     <link targets="#0923c07 #0923c07"/>
     <ptr target="#A008262" type="person"/>
-    <ptr target="#CN0510722Z21AA" type="place"/>
+    <ptr target="#PL000000035486" type="place"/>
   </linkGrp>
   <linkGrp>
     <link targets="#0923c07 #0923c09"/>
     <ptr target="#A001411" type="person"/>
-    <ptr target="#CN0510108Z18AA" type="place"/>
+    <ptr target="#PL000000034792" type="place"/>
   </linkGrp>
 </div>

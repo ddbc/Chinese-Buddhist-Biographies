@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0376a17weiSi">
     <head><lb ed="X" n="0376a17"/>　　　　<persName key="A014369">惟巳</persName>傳</head>
-    <p><anchor n="X.77.1524.0376a18"/><lb ed="X" n="0376a18"/><persName key="A014369">惟巳</persName>。字<persName key="A014369">亞休</persName>。邛州<placeName key="CN0510183A01AA">蒲頓</placeName>人。姓仇氏。自童時。趨尚高遠。
+    <p><anchor n="X.77.1524.0376a18"/><lb ed="X" n="0376a18"/><persName key="A014369">惟巳</persName>。字<persName key="A014369">亞休</persName>。邛州<placeName key="PL000000035046">蒲頓</placeName>人。姓仇氏。自童時。趨尚高遠。
         <lb ed="X" n="0376a19"/>無所嗜好。惟喜佛事。不敕之而自率。父母知其異根
-        <lb ed="X" n="0376a20"/>也。俾[隸-木+匕]大邑<placeName key="CN0510129T02AA">靜林</placeName>僧籍。事<persName key="A019710">仁普</persName>為師。落髮受具。入<placeName key="CN0510108Z19AA">成<lb ed="X" n="0376a21"/>都</placeName>講。庠習經論。通曉奧義。七年而還舊居。其所止悉
+        <lb ed="X" n="0376a20"/>也。俾[隸-木+匕]大邑<placeName key="PL000000034949">靜林</placeName>僧籍。事<persName key="A019710">仁普</persName>為師。落髮受具。入<placeName key="PL000000034793">成<lb ed="X" n="0376a21"/>都</placeName>講。庠習經論。通曉奧義。七年而還舊居。其所止悉
         <lb ed="X" n="0376a22"/>荒落不治。陳屋數間。腐椽破壁。欹斜罅漏。<persName key="A014369">巳</persName>恬然處
         <lb ed="X" n="0376a23"/>其中。無厭色。鄉人<persName key="A019711">胡惟岳</persName>者。高世之士。與<persName key="A014369">巳</persName>遊處甚
         <lb ed="X" n="0376a24"/>厚。以詩相往來。<persName key="A014369">巳</persName>甞以詩見邑宰祕書丞<persName key="A019712">勝喬</persName>。<persName key="A019712">喬</persName>來
@@ -23,24 +23,24 @@
     <linkGrp>
         <link targets="#0376a18 #0376a20"/>
         <ptr target="#A014369" type="person"/>
-        <ptr target="#CN0510183A01AA" type="place"/>  
+        <ptr target="#PL000000035046" type="place"/>  
     </linkGrp>
     <linkGrp>
         <link targets="#0376a20 #0376a20"/>
         <ptr target="#A014369" type="person"/>
         <ptr target="#A019710" type="person"/>
-        <ptr target="#CN0510129T02AA" type="place"/>  
+        <ptr target="#PL000000034949" type="place"/>  
     </linkGrp>
     <linkGrp>
         <link targets="#0376a20 #0376a21"/>
         <ptr target="#A014369" type="person"/>
-        <ptr target="#CN0510108Z19AA" type="place"/>  
+        <ptr target="#PL000000034793" type="place"/>  
     </linkGrp>
     <linkGrp>
         <link targets="#0376a23 #0376a24"/>
         <ptr target="#A014369" type="person"/>
         <ptr target="#A019711" type="person"/>
-        <ptr target="#CN0510183A01AA" type="place"/>  
+        <ptr target="#PL000000035046" type="place"/>  
     </linkGrp>
     <linkGrp>
         <link targets="#0376a24 #0376b01"/>

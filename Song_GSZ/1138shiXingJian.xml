@@ -1,8 +1,13 @@
 <?xml version='1.0' encoding='utf-8'?>
-<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0862a21shiXingJian">
-    <anchor n="T.50.2061.0862a21"/><head><date from-iso="0581-03-06" key="j19333311946884" to-iso="0618-04-15">隋</date><persName key="A013532">行堅</persName>傳</head><p>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0862a16shiXingJian">
+    <lb n="0862a16" ed="T"/><anchor n="T.50.2061.0862a16"/><head><anchor xml:id="beg0862a03"/>宋<anchor xml:id="end0862a03"/>高僧傳卷第二十四</head>
+    <lb n="0862a17" ed="T"/>
+    <lb n="0862a18" ed="T"/><byline n="Author"><anchor xml:id="beg0862a04"/>宋左街天壽寺通慧大師
+        <lb n="0862a19" ed="T"/>賜紫沙門贊寧等奉　勅撰<anchor xml:id="end0862a04"/></byline>
+    <lb n="0862a20" ed="T"/><head>讀誦篇第八之一（正傳二十一人附見三人）</head>
+        <lb n="0862a21" ed="T"/><head><date from-iso="0581-03-06" key="j19333311946884" to-iso="0618-04-15">隋</date><persName key="A013532">行堅</persName>傳</head><p>
 <lb ed="T" n="0862a22"/><persName key="A013532">釋行堅</persName>者，未知何許人也，常修禪觀，節操
-<lb ed="T" n="0862a23"/>惟嚴，偶事東遊，路出<placeName key="CN0370902M01AA">泰山</placeName>，日之夕矣，入嶽
+<lb ed="T" n="0862a23"/>惟嚴，偶事東遊，路出<placeName key="PL000000021580">泰山</placeName>，日之夕矣，入嶽
         <lb ed="T" n="0862a24"/>廟，謀之度宵。令<note resp="sgsz">即後文之廟令。</note>曰：「此無別舍，唯神廊廡下
 <lb ed="T" n="0862a25"/>可以。然而來寄宿者，必罹暴死之殃。吾師
 <lb ed="T" n="0862a26"/>籌之。」<persName key="A013532">堅</persName>曰：「無苦。」不得已從之，為藉藁於
@@ -11,7 +16,7 @@
 <lb ed="T" n="0862a29"/>掌，<persName key="A013532">堅</persName>曰：「聞宿此者多死，豈檀越害之耶？」神<pb ed="T" n="0862b" xml:id="T50.2061.0862b"/>
 <lb ed="T" n="0862b01"/>曰：「遇死者特至，聞弟子聲而自死焉，非殺
 <lb ed="T" n="0862b02"/>之也。願<persName key="A013532">師</persName>無慮。」<persName key="A013532">堅</persName>固延坐談說，如食頃間，
-<lb ed="T" n="0862b03"/>因問之曰：「世傳<placeName key="CN0370902M01AA">泰山</placeName>治鬼，寧有之邪？」神曰：
+<lb ed="T" n="0862b03"/>因問之曰：「世傳<placeName key="PL000000021580">泰山</placeName>治鬼，寧有之邪？」神曰：
 <lb ed="T" n="0862b04"/>「弟子薄福有之，豈欲見先亡乎？」<persName key="A013532">堅</persName>曰：「有兩
 <lb ed="T" n="0862b05"/>同學僧已死，願得見之。」神問其名，曰：「一人
 <lb ed="T" n="0862b06"/>已生人間，一人在獄受對，不可喚來，<persName key="A013532">師</persName>就，
@@ -32,7 +37,7 @@
     <linkGrp>
         <link targets="#0862a23 #0862b19"/>
         <ptr target="#A013532" type="person"/>
-        <ptr target="#CN0370902M01AA" type="place"/>
+        <ptr target="#PL000000021580" type="place"/>
         <ptr target="#j19420591946768" type="time"/>
     </linkGrp>
 </div>

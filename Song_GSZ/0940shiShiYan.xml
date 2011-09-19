@@ -1,15 +1,15 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0786a22shiShiYan">
     <anchor n="T.50.2061.0786a22"/><head><date from-iso="0907-06-10" key="j20524952058534" to-iso="0923-12-22">梁</date>台州瑞巖院<persName key="A010689">師彥</persName>傳</head><p>
-<lb ed="T" n="0786a23"/><persName key="A010689">釋師彥</persName>，姓許氏，<placeName key="CN0350000E02AA">閩越</placeName>人也。早悟羈縻，忽求
+<lb ed="T" n="0786a23"/><persName key="A010689">釋師彥</persName>，姓許氏，<placeName key="PL000000017104">閩越</placeName>人也。早悟羈縻，忽求
 <lb ed="T" n="0786a24"/>拔俗，循乎戒檢，俄欲觀方。見<persName key="A008167">巖頭禪師</persName>，領
 <lb ed="T" n="0786a25"/>會無疑。初樂杜默，似不能言者。後為所
-<lb ed="T" n="0786a26"/>知敦喻，允請住<placeName key="CN0331082T16AA">台州瑞巖山院</placeName>。時<persName key="A010691">道怤</persName>往參
+<lb ed="T" n="0786a26"/>知敦喻，允請住<placeName key="PL000000014883">台州瑞巖山院</placeName>。時<persName key="A010691">道怤</persName>往參
 <lb ed="T" n="0786a27"/>問，答對響捷，<persName key="A010691">怤公</persName>神伏。後二眾同居，<persName key="A010689">彥</persName>之威
-<lb ed="T" n="0786a28"/>德，凜若嚴霜。紏正僧尼，無容舛悟，故<placeName key="CN0000007D01AA">江表</placeName>
-<lb ed="T" n="0786a29"/>言御眾翦齊者，<placeName key="CN0331082T16AA">瑞巖</placeName>為最。嘗有三僧，胡形<pb ed="T" n="0786b" xml:id="T50.2061.0786b"/>
+<lb ed="T" n="0786a28"/>德，凜若嚴霜。紏正僧尼，無容舛悟，故<placeName key="PL000000000197">江表</placeName>
+<lb ed="T" n="0786a29"/>言御眾翦齊者，<placeName key="PL000000014883">瑞巖</placeName>為最。嘗有三僧，胡形<pb ed="T" n="0786b" xml:id="T50.2061.0786b"/>
 <lb ed="T" n="0786b01"/>清峭，目睛轉若流電焉，差肩並足致<anchor xml:id="beg0786003"/>體<anchor xml:id="end0786003"/>。
-<lb ed="T" n="0786b02"/><persName key="A010689">彥</persName>問曰：「子從何來？」曰：「<placeName key="IN0000000E01AA">天竺</placeName>來。」「何時發？」曰：「朝行
+<lb ed="T" n="0786b02"/><persName key="A010689">彥</persName>問曰：「子從何來？」曰：「<placeName key="PL000000048207">天竺</placeName>來。」「何時發？」曰：「朝行
 <lb ed="T" n="0786b03"/>適至。」<persName key="A010689">彥</persName>曰：「得無勞乎？」曰：「為法忘勞。」乃諦視
 <lb ed="T" n="0786b04"/>之，足皆不蹈地。<persName key="A010689">彥</persName>令入堂，上位安置，明旦
 <lb ed="T" n="0786b05"/>忽焉不見，云是辟支迦果<!--找不到此地-->人，然莫知階級。
@@ -32,7 +32,7 @@
         <link targets="#0786a26 #0786a27"/>
         <ptr target="#A010689" type="person"/>
         <ptr target="#A010691" type="person"/>
-        <ptr target="#CN0331082T16AA" type="place"/>
+        <ptr target="#PL000000014883" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0786b07 #0786b08"/>

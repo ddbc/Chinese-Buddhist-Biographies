@@ -23,12 +23,12 @@
 <lb ed="T" n="0801b23"/>側。<persName key="A004370">韋南康臯</persName>每三月就寺設三百菩薩大
 <lb ed="T" n="0801b24"/>齋，菩薩現形捧燈，僧持香燈引挹之，鑪在
         <lb ed="T" n="0801b25"/>寺門矣。<persName key="A010596">白中令敏中</persName>覩瑞，興立此寺。<date from-iso="0854-02-05" key="j20330132033367" to-iso="0855-01-25">大中
-<lb ed="T" n="0801b26"/>八年</date>，改額曰<placeName key="CN0510121T01AA">開照</placeName>。<persName key="A011013">源律師</persName>道化，與地俱靈
-<lb ed="T" n="0801b27"/>哉！弟子傳講，<placeName key="CN0510722Z38AA">東川</placeName>所宗也。</p>
+<lb ed="T" n="0801b26"/>八年</date>，改額曰<placeName key="PL000000034870">開照</placeName>。<persName key="A011013">源律師</persName>道化，與地俱靈
+<lb ed="T" n="0801b27"/>哉！弟子傳講，<placeName key="PL000000035503">東川</placeName>所宗也。</p>
     <linkGrp>
         <link targets="#0801b25 #0801b26"/>
         <ptr target="#A011013" type="person"/>
-        <ptr target="#CN0510121T01AA" type="place"/>
+        <ptr target="#PL000000034870" type="place"/>
         <ptr target="#j20330132033367" type="time"/>
     </linkGrp>
 </div>

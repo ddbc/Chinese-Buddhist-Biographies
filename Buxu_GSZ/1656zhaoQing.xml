@@ -1,26 +1,88 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0421c17zhaoQing">
     <head><lb ed="X" n="0421c17"/>　　　　<persName key="A014489">昭慶</persName>禪師傳</head>
-    <p><anchor n="X.77.1524.0421c18"/><lb ed="X" n="0421c18"/>烏江<placeName key="unknown">惠濟院</placeName>禪師。名<persName key="A014489">昭慶</persName>。字<persName key="A014489">顯之</persName>。<placeName key="CN0350503Z09AA">泉州</placeName>林氏子。少[跳-兆+斤]
+    <p><anchor n="X.77.1524.0421c18"/><lb ed="X" n="0421c18"/>烏江<placeName key="PL000000016238">惠濟院</placeName>禪師。名<persName key="A014489">昭慶</persName>。字<persName key="A014489">顯之</persName>。<placeName key="PL000000017903">泉州</placeName>林氏子。少[跳-兆+斤]
         <lb ed="X" n="0421c19"/>弛任氣。為巨賈。往來海中十數年。資用甚饒。一日盡
-        <lb ed="X" n="0421c20"/>所有財物屬同產。使養其親。徒手入漳州<placeName key="CN0350622T01AA">開元寺</placeName>。出
+        <lb ed="X" n="0421c20"/>所有財物屬同產。使養其親。徒手入漳州<placeName key="PL000000018025">開元寺</placeName>。出
         <lb ed="X" n="0421c21"/>家受具戒。鄉人異之。居無何。謂其曹曰。出家兒。當尋
         <lb ed="X" n="0421c22"/>師訪道。求脫生死。若匏繫一方。土偶人耳。遂過嶺。遍
         <lb ed="X" n="0421c23"/>參知識。後見<persName key="A003921">黃龍南</persName>公。示以三關語。漫不省。因服役
         <lb ed="X" n="0421c24"/>左右久之。盡得其道。因嗣焉。出世凡三坐道場。高郵
-        <lb ed="X" n="0422a01"/>之<placeName key="unknown">乾明</placeName>。烏江之<placeName key="unknown">惠濟</placeName>。廣陵之<placeName key="CN0321011T03AA">建隆</placeName>。惟<placeName key="unknown">惠濟</placeName>僻在深山
-        <lb ed="X" n="0422a02"/>中。地有湯泉。人跡罕至。心樂居之。<placeName key="unknown">乾明</placeName><date from-iso="0960-02-09" to-iso="0963-12-08" key="j20717322073130">建隆</date>。[此/白]為檀
+        <lb ed="X" n="0422a01"/>之<placeName key="PL000000010903">乾明</placeName>。烏江之<placeName key="PL000000016238">惠濟</placeName>。廣陵之<placeName key="PL000000010828">建隆</placeName>。惟<placeName key="PL000000016238">惠濟</placeName>僻在深山
+        <lb ed="X" n="0422a02"/>中。地有湯泉。人跡罕至。心樂居之<placeName key="PL000000010903">乾明</placeName>。<placeName key="PL000000010828">建隆</placeName>。[此/白]為檀
         <lb ed="X" n="0422a03"/>越士大夫所強。遯去不獲。非其好也。師所得法。廣大
         <lb ed="X" n="0422a04"/>微妙。又學術無不通達。其為人說法。或以經論。或以
         <lb ed="X" n="0422a05"/>老莊。或卜筮。或方藥。乃至一切種種俗諦事。隨其根
-        <lb ed="X" n="0422a06"/>器。示大方便。不獨守古人言句。自<placeName key="unknown">乾明</placeName><date from-iso="0618-06-21" to-iso="0907-06-06" key="j19469512052491">唐</date>以來。禪家盛行
+        <lb ed="X" n="0422a06"/>器。示大方便。不獨守古人言句。自<placeName key="PL000000010903">乾明</placeName><date from-iso="0618-06-21" to-iso="0907-06-06" key="j19469512052491">唐</date>以來。禪家盛行
         <lb ed="X" n="0422a07"/>于世。惟雲門臨濟兩宗。是時<persName key="A003703">雲門</persName>苗裔。分據大剎。相
         <lb ed="X" n="0422a08"/>望淮浙上。<persName key="A003627">臨濟</persName>之後。自江以北。惟一師人。故<persName key="A003703">雲門</persName>之
         <lb ed="X" n="0422a09"/>徒。或不以師為然。師聞而笑曰。此吾所以為<persName key="A003627">臨濟</persName>兒
-        <lb ed="X" n="0422a10"/>孫也。師晚歲多病。謝住持事。寓止高郵<placeName key="unknown">醴泉</placeName>。法嗣處
-        <lb ed="X" n="0422a11"/>安會中。以<date when-iso="1089-09-28" key="j21190802119080">元祐四年八月十六日</date>。說偈遷化。<placeName key="CN0321000A01AA">廣陵</placeName>檀
-        <lb ed="X" n="0422a12"/>越。奉靈骨歸<placeName key="CN0321011T03AA">建隆</placeName>起塔。士大夫中。執弟子禮者。如龍
-        <lb ed="X" n="0422a13"/>圖閣直學士<persName key="A018376">孫覺莘</persName>老。<persName key="unknown">烏江會</persName>承議郎<persName key="unknown">閻木求</persName>仁等。
-        <lb ed="X" n="0422a14"/>然為役之久。緣契最深者。無如<persName key="A003973">秦少游觀</persName>。時在<placeName key="CN0410224Z41AA">京</placeName>。遙
+        <lb ed="X" n="0422a10"/>孫也。師晚歲多病。謝住持事。寓止高郵<placeName key="PL000000010904">醴泉</placeName>。法嗣處
+        <lb ed="X" n="0422a11"/>安會中。以<date when-iso="1089-09-28" key="j21190802119080">元祐四年八月十六日</date>。說偈遷化。<placeName key="PL000000010745">廣陵</placeName>檀
+        <lb ed="X" n="0422a12"/>越。奉靈骨歸<placeName key="PL000000010828">建隆</placeName>起塔。士大夫中。執弟子禮者。如龍
+        <lb ed="X" n="0422a13"/>圖閣直學士<persName key="A018376">孫覺莘</persName>老。<placeName key="PL000000016244">烏江</placeName>會承議郎<persName key="A021958">閻木</persName>求仁等。
+        <lb ed="X" n="0422a14"/>然為役之久。緣契最深者。無如<persName key="A003973">秦少游觀</persName>。時在<placeName key="PL000000023467">京</placeName>。遙
         <lb ed="X" n="0422a15"/>為銘其塔。</p>
+    
+    <linkGrp>
+        <link targets="#0421c18 #0421c18"/> 
+        <ptr target="#A014489" type="person"/>
+        <ptr target="#PL000000017903" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0421c19 #0421c22"/> 
+        <ptr target="#A014489" type="person"/>
+        <ptr target="#PL000000018025" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0421c23 #0421c24"/> 
+        <ptr target="#A014489" type="person"/>
+        <ptr target="#A003921" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0421c24 #0422a03"/> 
+        <ptr target="#A014489" type="person"/>
+        <ptr target="#PL000000010903" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0421c24 #0422a02"/> 
+        <ptr target="#A014489" type="person"/>
+        <ptr target="#PL000000016238" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0421c24 #0422a03"/> 
+        <ptr target="#A014489" type="person"/>
+        <ptr target="#PL000000010828" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0422a10 #0422a11"/> 
+        <ptr target="#A014489" type="person"/>
+        <ptr target="#PL000000010904" type="place"/>
+        <ptr target="#j21190802119080" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0422a12 #0422a13"/> 
+        <ptr target="#A014489" type="person"/>
+        <ptr target="#A018376" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0422a12 #0422a13"/> 
+        <ptr target="#A014489" type="person"/>
+        <ptr target="#A021958" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0422a13 #0422a13"/> 
+        <ptr target="#A021958" type="person"/>
+        <ptr target="#PL000000016244" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0422a14 #0422a14"/> 
+        <ptr target="#A003973" type="person"/>
+        <ptr target="#PL000000023467" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0422a12 #0422a15"/> 
+        <ptr target="#A014489" type="person"/>
+        <ptr target="#A003973" type="person"/>
+    </linkGrp>
 </div>

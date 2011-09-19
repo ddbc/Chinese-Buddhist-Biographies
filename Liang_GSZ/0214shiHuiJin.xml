@@ -1,15 +1,15 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0407c22shiHuiJin">
-    <p><anchor n="T.50.2059.0407c22"/><lb ed="T" n="0407c22"/><persName key="A002351">釋慧進</persName>，姓姚，<placeName key="CN0330502Z21AA">吳興</placeName>人。少而雄勇任，性遊俠。<lb ed="T" n="0407c23"/><date key="j18817681882133" from-iso="0440-01-02" to-iso="0441-01-01">年四十</date>忽悟心自啟，遂爾離俗，止<placeName key="CN0320114T02AA">京師高座<lb ed="T" n="0407c24"/>寺</placeName>，蔬食素衣，誓誦《法華》。用心勞苦，執卷輒<lb ed="T" n="0407c25"/>病。迺發願，願造《法華》百部，以悔<ptr target="fn25"/>先障。始<lb ed="T" n="0407c26"/>聚得錢一千六百，時有劫來，問<persName key="A002351">進</persName>有物不，<lb ed="T" n="0407c27"/>答云：「唯有造經錢在佛處。」群劫聞之，赧然<lb ed="T" n="0407c28"/>而去。於是聚集信施，得以成經，滿足百<lb ed="T" n="0407c29"/>部。經成之後，病亦小差。誦《法華》一部得過，<lb ed="T" n="0408a01"/>情願既滿，厲操愈堅。常迴諸福業，願生安<lb ed="T" n="0408a02"/>養。未亡少時，忽聞空中聲曰：「<persName key="A002351">汝</persName>所願已足，<lb ed="T" n="0408a03"/>必得生西方也。」至<date key="j18982361898589" from-iso="0485-02-02" to-iso="0486-01-21">齊永明三年</date>，無病而卒，<lb ed="T" n="0408a04"/>春秋八十有五。</p><p>時<placeName key="CN0321183T02AA">京師龍華寺</placeName>復有<persName key="A003413">釋僧念</persName>，<lb ed="T" n="0408a05"/>誦《法華》、《金光明》蔬食避世。</p>
+    <p><anchor n="T.50.2059.0407c22"/><lb ed="T" n="0407c22"/><persName key="A002351">釋慧進</persName>，姓姚，<placeName key="PL000000013014">吳興</placeName>人。少而雄勇任，性遊俠。<lb ed="T" n="0407c23"/><date key="j18817681882133" from-iso="0440-01-02" to-iso="0441-01-01">年四十</date>忽悟心自啟，遂爾離俗，止<placeName key="PL000000009063">京師高座<lb ed="T" n="0407c24"/>寺</placeName>，蔬食素衣，誓誦《法華》。用心勞苦，執卷輒<lb ed="T" n="0407c25"/>病。迺發願，願造《法華》百部，以悔<ptr target="fn25"/>先障。始<lb ed="T" n="0407c26"/>聚得錢一千六百，時有劫來，問<persName key="A002351">進</persName>有物不，<lb ed="T" n="0407c27"/>答云：「唯有造經錢在佛處。」群劫聞之，赧然<lb ed="T" n="0407c28"/>而去。於是聚集信施，得以成經，滿足百<lb ed="T" n="0407c29"/>部。經成之後，病亦小差。誦《法華》一部得過，<lb ed="T" n="0408a01"/>情願既滿，厲操愈堅。常迴諸福業，願生安<lb ed="T" n="0408a02"/>養。未亡少時，忽聞空中聲曰：「<persName key="A002351">汝</persName>所願已足，<lb ed="T" n="0408a03"/>必得生西方也。」至<date key="j18982361898589" from-iso="0485-02-02" to-iso="0486-01-21">齊永明三年</date>，無病而卒，<lb ed="T" n="0408a04"/>春秋八十有五。</p><p>時<placeName key="PL000000011077">京師龍華寺</placeName>復有<persName key="A003413">釋僧念</persName>，<lb ed="T" n="0408a05"/>誦《法華》、《金光明》蔬食避世。</p>
     <linkGrp>
         <link targets="#0408a04 #0408a05"/>
         <ptr target="#A003413" type="person"/>
-        <ptr target="#CN0321183T02AA" type="place"/>
+        <ptr target="#PL000000011077" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0407c23 #0407c24"/>
         <ptr target="#A002351" type="person"/>
-        <ptr target="#CN0320114T02AA" type="place"/>
+        <ptr target="#PL000000009063" type="place"/>
         <ptr target="#j18817681882133" type="time"/>
     </linkGrp>
     <linkGrp>

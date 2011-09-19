@@ -1,18 +1,19 @@
-<?xml version="1.0" encoding="UTF-8"?><div xml:id="mscc0358c15faCheng" xmlns="http://www.tei-c.org/ns/1.0"><head>宋<placeName key="CN0330521T07AA">齊昌寺</placeName><persName key="A000719">釋法盛</persName></head><p><anchor n="X.77.1523.0358c15"/><lb ed="X" n="0358c15"/>法盛本姓李。<placeName key="CN0621122Z30AA">壟西</placeName>人。寓于<placeName key="CN0360826Z01AA">高昌</placeName>。九歲出家。勤精讀誦。<lb ed="X" n="0358c16"/>每曰。吾三堅未樹。五眾生滅。合會有離。皆由癡愛。若<lb ed="X" n="0358c17"/>不斷三毒。何求勉脫。年造十九。遇沙門<persName key="A002190">智猛</persName>。從外國<lb ed="X" n="0358c18"/>還。述諸神迹。因有志焉。辭二親。率師友。與二十九人。<lb ed="X" n="0358c19"/>遠詣<placeName key="IN0000000E01AA">天竺</placeName>。經歷諸國。尋覓遺靈。及諸應瑞。禮拜供養。<lb ed="X" n="0358c20"/>以申三業。<gap extent="1" unit="chars" reason="lost"/>憂長國東北。見牛頭栴檀彌勒像。身高<lb ed="X" n="0358c21"/>八尋。一尋是此國一丈也。佛滅度後四百八十年中。<lb ed="X" n="0358c22"/>有羅漢名<persName key="A018958">可利難陀</persName>。為濟人故。舛<placeName key="XZ0000002A01AA">兜率天</placeName>。寫佛真形。<lb ed="X" n="0358c23"/><ptr target="fn10"/>印此像也。常放光明。四眾伎樂四時咲樂。遠人皆卒<lb ed="X" n="0358c24"/>從像悔過。願無不剋。得初道果。歲有十數。盛與諸方<lb ed="X" n="0359a01"/>道俗五百人。願求捨身。必見<persName key="A001428">彌勒</persName>。此願可諧。香烟右<lb ed="X" n="0359a02"/>旋。須臾眾烟合成一盖。右轉三迊。漸漸消盡(云云)。</p>
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="mscc0358c15faCheng"><head>宋<placeName key="PL000000013058">齊昌寺</placeName><persName key="A000719">釋法盛</persName></head><p><anchor n="X.77.1523.0358c15"/><lb ed="X" n="0358c15"/>法盛本姓李。<placeName key="PL000000046136">壟西</placeName>人。寓于<placeName key="PL000000019481">高昌</placeName>。九歲出家。勤精讀誦。<lb ed="X" n="0358c16"/>每曰。吾三堅未樹。五眾生滅。合會有離。皆由癡愛。若<lb ed="X" n="0358c17"/>不斷三毒。何求勉脫。年造十九。遇沙門<persName key="A002190">智猛</persName>。從外國<lb ed="X" n="0358c18"/>還。述諸神迹。因有志焉。辭二親。率師友。與二十九人。<lb ed="X" n="0358c19"/>遠詣<placeName key="PL000000048207">天竺</placeName>。經歷諸國。尋覓遺靈。及諸應瑞。禮拜供養。<lb ed="X" n="0358c20"/>以申三業。<gap extent="1" unit="chars" reason="lost"/>憂長國東北。見牛頭栴檀彌勒像。身高<lb ed="X" n="0358c21"/>八尋。一尋是此國一丈也。佛滅度後四百八十年中。<lb ed="X" n="0358c22"/>有羅漢名<persName key="A018958">可利難陀</persName>。為濟人故。舛<placeName key="PL000000055446">兜率天</placeName>。寫佛真形。<lb ed="X" n="0358c23"/><ptr target="fn10"/>印此像也。常放光明。四眾伎樂四時咲樂。遠人皆卒<lb ed="X" n="0358c24"/>從像悔過。願無不剋。得初道果。歲有十數。盛與諸方<lb ed="X" n="0359a01"/>道俗五百人。願求捨身。必見<persName key="A001428">彌勒</persName>。此願可諧。香烟右<lb ed="X" n="0359a02"/>旋。須臾眾烟合成一盖。右轉三迊。漸漸消盡(云云)。</p>
     <linkGrp>
         <link targets="#0358c15 #0358c15"/>
         <ptr type="person" target="#A000719"/>
-        <ptr type="place" target="#CN0330521T07AA"/>
+        <ptr type="place" target="#PL000000013058"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0358c15 #0358c15"/>
         <ptr type="person" target="#A000719"/>
-        <ptr type="place" target="#CN0621122Z30AA"/>
+        <ptr type="place" target="#PL000000046136"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0358c15 #0358c15"/>
         <ptr type="person" target="#A000719"/>
-        <ptr type="place" target="#CN0360826Z01AA"/>
+        <ptr type="place" target="#PL000000019481"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0358c17 #0358c18"/>
@@ -22,7 +23,6 @@
     <linkGrp>
         <link targets="#0358c18 #0358c20"/>
         <ptr type="person" target="#A000719"/>
-        <ptr type="place" target="#IN0000000E01AA"/>
+        <ptr type="place" target="#PL000000048207"/>
     </linkGrp>
 </div>
-

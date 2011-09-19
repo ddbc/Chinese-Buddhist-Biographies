@@ -1,8 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><div xml:id="mscc0359b09tanFu" xmlns="http://www.tei-c.org/ns/1.0"><head><persName key="A018963">釋法祥</persName></head><p><anchor n="X.77.1523.0359b09"/><lb ed="X" n="0359b09"/>釋法祥精進有志節。以<date from-iso="0432-02-18" to-iso="0433-02-06" key="j18788931879247">元嘉九年</date>。立<placeName key="CN0000000T26AA">彌勒精舍</placeName>(云云)。</p>
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="mscc0359b09tanFu"><head><persName key="A018963">釋法祥</persName></head><p><anchor n="X.77.1523.0359b09"/><lb ed="X" n="0359b09"/>釋法祥精進有志節。以<date from-iso="0432-02-18" to-iso="0433-02-06" key="j18788931879247">元嘉九年</date>。立<placeName key="PL000000000189">彌勒精舍</placeName>(云云)。</p>
     <linkGrp>
         <link targets="#0359b09 #0359b09"/>
         <ptr type="person" target="#A018963"/>
-        <ptr type="place" target="#CN0000000T26AA"/>
+        <ptr type="place" target="#PL000000000189"/>
         <ptr type="time" target="#d18788931879247"/>
     </linkGrp>
 </div>

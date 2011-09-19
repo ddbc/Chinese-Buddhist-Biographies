@@ -1,8 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><div xml:id="mscc0357b06zhuFaChun" xmlns="http://www.tei-c.org/ns/1.0"><head>晉山陰<placeName key="CN0330601T12AA">顯義寺</placeName><persName key="A002341">竺法純</persName></head><p><anchor n="X.77.1523.0357b06"/><lb ed="X" n="0357b06"/>竺法純者未詳何處人也。住會稽山陰<placeName key="CN0330601T12AA">顯義寺</placeName>。精進<lb ed="X" n="0357b07"/>苦行。遊心虗寂。眾甚敬焉。請為寺主。晉<date from-iso="0402-02-19" to-iso="0405-03-02" key="j18679371869044">元興</date>中。為寺<lb ed="X" n="0357b08"/>治墻。至蘭上買故屋材。向暮與榜船人并屋主嫗人<lb ed="X" n="0357b09"/>入湖。須臾風起。雲氣四塞。自念與女子同殞。實寄恥<lb ed="X" n="0357b10"/>辱。飄霰驟疾。驚浪飛奔。船小水入。歸告<persName key="A002803">觀世音</persName>。并經<lb ed="X" n="0357b11"/>誦。俄而湖中有空船。橫來迅疾如飛。直至船側。誦念<lb ed="X" n="0357b12"/>彌篤。有頃至純<ptr target="fn4"/>別加尋訪。船遂主無。其舟誠所感如<lb ed="X" n="0357b13"/>此(云云)。</p>
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="mscc0357b06zhuFaChun"><head>晉山陰<placeName key="PL000000013179">顯義寺</placeName><persName key="A002341">竺法純</persName></head><p><anchor n="X.77.1523.0357b06"/><lb ed="X" n="0357b06"/>竺法純者未詳何處人也。住會稽山陰<placeName key="PL000000013179">顯義寺</placeName>。精進<lb ed="X" n="0357b07"/>苦行。遊心虗寂。眾甚敬焉。請為寺主。晉<date from-iso="0402-02-19" to-iso="0405-03-02" key="j18679371869044">元興</date>中。為寺<lb ed="X" n="0357b08"/>治墻。至蘭上買故屋材。向暮與榜船人并屋主嫗人<lb ed="X" n="0357b09"/>入湖。須臾風起。雲氣四塞。自念與女子同殞。實寄恥<lb ed="X" n="0357b10"/>辱。飄霰驟疾。驚浪飛奔。船小水入。歸告<persName key="A002803">觀世音</persName>。并經<lb ed="X" n="0357b11"/>誦。俄而湖中有空船。橫來迅疾如飛。直至船側。誦念<lb ed="X" n="0357b12"/>彌篤。有頃至純<ptr target="fn4"/>別加尋訪。船遂主無。其舟誠所感如<lb ed="X" n="0357b13"/>此(云云)。</p>
     <linkGrp>
         <link targets="#0357b06 #0357b06"/>
         <ptr type="person" target="#A002341"/>
-        <ptr type="place" target="#CN0330601T12AA"/>
+        <ptr type="place" target="#PL000000013179"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0357b07 #0357b13"/>

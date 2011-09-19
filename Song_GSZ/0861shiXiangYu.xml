@@ -1,15 +1,15 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0759c18shiXiangYu">
-    <anchor n="T.50.2061.0759c18"/><head><date from-iso="0618-06-21" key="j19469512052491" to-iso="0907-06-06">唐</date><placeName key="CN0420821M02AA">郢州大佛山</placeName><persName key="A010192">香育</persName>傳</head><p>
-<lb ed="T" n="0759c19"/><persName key="A010192">釋香育</persName>，姓李氏，<placeName key="CN0371727Z20AA">濟陰</placeName>人也。父為<placeName key="CN0370882Z18AA">兗<anchor xml:id="beg0759007"/>州<anchor xml:id="end0759007"/></placeName>掾。<persName key="A010192">育</persName>
+    <anchor n="T.50.2061.0759c18"/><head><date from-iso="0618-06-21" key="j19469512052491" to-iso="0907-06-06">唐</date><placeName key="PL000000027459">郢州大佛山</placeName><persName key="A010192">香育</persName>傳</head><p>
+<lb ed="T" n="0759c19"/><persName key="A010192">釋香育</persName>，姓李氏，<placeName key="PL000000023001">濟陰</placeName>人也。父為<placeName key="PL000000021539">兗<anchor xml:id="beg0759007"/>州<anchor xml:id="end0759007"/></placeName>掾。<persName key="A010192">育</persName>
 <lb ed="T" n="0759c20"/>有道性，常研習《莊》《老》，根器奮發。俄於釋典
-        <lb ed="T" n="0759c21"/>留神，決捐俗態。趨<placeName key="CN0130921T01AA">滄州安定寺</placeName><persName key="A010194">智元律師</persName>
+        <lb ed="T" n="0759c21"/>留神，決捐俗態。趨<placeName key="PL000000003030">滄州安定寺</placeName><persName key="A010194">智元律師</persName>
 <lb ed="T" n="0759c22"/>所，乞求削染。滿足戒後，精力律學，垂欲卒
-        <lb ed="T" n="0759c23"/>業。一旦辭<ref type="person" target="#A010194">師</ref>觀遊聖跡，陟<placeName key="CN0331023M01AA">天台</placeName>，登<placeName key="CN0430412M01AA">南嶽</placeName>，或
-<lb ed="T" n="0759c24"/>入巖阿，或棲樹下，末至<placeName key="CN0140900M01AA">五臺</placeName>。後參預<persName key="A009582">秀師</persName>
+        <lb ed="T" n="0759c23"/>業。一旦辭<ref type="person" target="#A010194">師</ref>觀遊聖跡，陟<placeName key="PL000000014411">天台</placeName>，登<placeName key="PL000000028928">南嶽</placeName>，或
+<lb ed="T" n="0759c24"/>入巖阿，或棲樹下，末至<placeName key="PL000000005250">五臺</placeName>。後參預<persName key="A009582">秀師</persName>
         <lb ed="T" n="0759c25"/>盛化，夙心相契，擊節希聲。<persName key="A009582">秀</persName>問<ref type="person" target="#A010192">之</ref>，<persName key="A010192">育</persName>答密
         <lb ed="T" n="0759c26"/>若隱書，一皆開釋。<persName key="A009582">秀</persName>默異<ref type="person" target="#A010192">之</ref>。在叢眾間，多
-        <lb ed="T" n="0759c27"/>歷年所，洞徹心源，則辭<persName key="A009582">秀</persName>去。入<placeName key="CN0420821M02AA">富水大佛
+        <lb ed="T" n="0759c27"/>歷年所，洞徹心源，則辭<persName key="A009582">秀</persName>去。入<placeName key="PL000000027459">富水大佛
 <lb ed="T" n="0759c28"/>山</placeName>，勁節安禪，卯前一食。州將<persName key="A010196">韓閏</persName>篤欽其道，
 <lb ed="T" n="0759c29"/>堅召出山。<persName key="A010192">育</persName>稱疾而已。因是黑白之眾渴<pb ed="T" n="0760a" xml:id="T50.2061.0760a"/>
         <lb ed="T" n="0760a01"/>仰歸依，<ref type="person" target="#A010196">韓使君</ref>輜車繼運，供施交駢，樹造法
@@ -23,28 +23,28 @@
     <linkGrp>
         <link targets="#0759c19 #0759c19"/>
         <ptr target="#A010192" type="person"/>
-        <ptr target="#CN0371727Z20AA" type="place"/>
+        <ptr target="#PL000000023001" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0759c21 #0759c22"/>
         <ptr target="#A010192" type="person"/>
         <ptr target="#A010194" type="person"/>
-        <ptr target="#CN0130921T01AA" type="place"/>
+        <ptr target="#PL000000003030" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0759c23 #0759c23"/>
         <ptr target="#A010192" type="person"/>
-        <ptr target="#CN0331023M01AA" type="place"/>
+        <ptr target="#PL000000014411" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0759c23 #0759c23"/>
         <ptr target="#A010192" type="person"/>
-        <ptr target="#CN0430412M01AA" type="place"/>
+        <ptr target="#PL000000028928" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0759c24 #0759c24"/>
         <ptr target="#A010192" type="person"/>
-        <ptr target="#CN0140900M01AA" type="place"/>
+        <ptr target="#PL000000005250" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0759c24 #0759c26"/>
@@ -54,12 +54,12 @@
     <linkGrp>
         <link targets="#0759c27 #0759c28"/>
         <ptr target="#A010192" type="person"/>
-        <ptr target="#CN0420821M02AA" type="place"/>
+        <ptr target="#PL000000027459" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0759c28 #0760a04"/>
         <ptr target="#A010192" type="person"/>
         <ptr target="#A009582" type="person"/>
-        <ptr target="#CN0420821M02AA" type="place"/>
+        <ptr target="#PL000000027459" type="place"/>
     </linkGrp>
 </div>

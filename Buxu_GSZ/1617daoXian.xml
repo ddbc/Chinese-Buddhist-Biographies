@@ -1,13 +1,13 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0404c17daoXian">
     <head><lb ed="X" n="0404c17"/>　　　　<persName key="A009588">羅山閑</persName>傳</head>
-    <p><anchor n="X.77.1524.0404c18"/><lb ed="X" n="0404c18"/><persName key="A009588">羅山道閑</persName>禪師。<placeName key="CN0350921Z12AA">長溪</placeName>陳氏子。出家<placeName key="CN0350981T01AA">龜山</placeName>。年滿受具。徧
+    <p><anchor n="X.77.1524.0404c18"/><lb ed="X" n="0404c18"/><persName key="A009588">羅山道閑</persName>禪師。<placeName key="PL000000018494">長溪</placeName>陳氏子。出家<placeName key="PL000000018546">龜山</placeName>。年滿受具。徧
         <lb ed="X" n="0404c19"/>歷諸方。甞謁<persName key="A010581">石霜</persName>。問。去住不寧時如何。<persName key="A010581">霜</persName>曰。直須盡
         <lb ed="X" n="0404c20"/>却。師不契。乃參<persName key="A008167">巖頭</persName>。亦如前問。<persName key="A008167">頭</persName>曰。從他去住。管他
-        <lb ed="X" n="0404c21"/>作麼。師于是服膺。閩帥飲其法味。請居<placeName key="CN0350102T03AA">羅山</placeName>。號<persName key="A009588">法寶<lb ed="X" n="0404c22"/>禪師</persName>。僧辭<persName key="A003878">保福</persName>。<persName key="A003878">福</persName>問。甚處去。曰。禮拜<placeName key="CN0350102M02AA">羅山</placeName>。<persName key="A003878">福</persName>曰。汝向
-        <lb ed="X" n="0404c23"/><placeName key="CN0350102M02AA">羅山</placeName>道。<persName key="A003878">保福</persName>秋間上府朝覲大王。置四十箇問。頭問。
+        <lb ed="X" n="0404c21"/>作麼。師于是服膺。<persName key="A003732">閩帥</persName>飲其法味。請居<placeName key="PL000000017122">羅山</placeName>。號<persName key="A009588">法寶<lb ed="X" n="0404c22"/>禪師</persName>。僧辭<persName key="A003878"><placeName key="PL000000018013">保福</placeName></persName>。<persName key="A003878">福</persName>問。甚處去。曰。禮拜<placeName key="PL000000017119">羅山</placeName>。<persName key="A003878">福</persName>曰。汝向
+        <lb ed="X" n="0404c23"/><placeName key="PL000000017119">羅山</placeName>道。<persName key="A003878">保福</persName>秋間上府朝覲大王。置四十箇問。頭問。
         <lb ed="X" n="0404c24"/>和尚忽若一句不相當。莫言不道。僧舉似師。<ref type="person" target="#A009588">師</ref>呵呵
-        <lb ed="X" n="0405a01"/>大笑曰。<persName key="A009588">陳老師</persName>自入福建道洪塘橋下一寨。未曾見
+        <lb ed="X" n="0405a01"/>大笑曰。<persName key="A009588">陳老師</persName>自入福建道<placeName key="PL000000017200">洪塘橋</placeName>下一寨。未曾見
         <lb ed="X" n="0405a02"/>有箇毛頭星現。汝與我向<persName key="A003878">從展</persName>道。<persName key="A009588">陳老師</persName>無許多問
         <lb ed="X" n="0405a03"/>頭。祗有一口劒。一劒下有分身意。有出身路。不明便
         <lb ed="X" n="0405a04"/>須成末。僧迴舉似<persName key="A003878">福</persName>。<persName key="A003878">福</persName>曰。我當時也祗是謔伊。至秋
@@ -20,4 +20,50 @@
             <lb ed="X" n="0405a11"/>系曰。<persName key="A008167">巖頭</persName>門下得法者。傳燈現錄六人。而二彥一閑
             <lb ed="X" n="0405a12"/>最著。僧統僅傳<persName key="A010689">瑞岩彥</persName>。而<persName key="A020172">玄泉彥</persName>與<persName key="A009588">閑師</persName>不載。<ref type="person" target="#A000658">予</ref>故
             <lb ed="X" n="0405a13"/>表之。使知<persName key="A009468">黃龍</persName><persName key="A020196">明招</persName>二公所自出也。</p>
+    
+    <linkGrp>
+        <link targets="#0404c18 #0404c18"/>
+        <ptr target="#A009588" type="person"/>
+        <ptr target="#PL000000018494" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0404c18 #0404c18"/>
+        <ptr target="#A009588" type="person"/>
+        <ptr target="#PL000000018546" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0404c19 #0404c20"/>
+        <ptr target="#A009588" type="person"/>
+        <ptr target="#A010581" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0404c19 #0404c21"/>
+        <ptr target="#A009588" type="person"/>
+        <ptr target="#A008167" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0404c21 #0404c22"/>
+        <ptr target="#A009588" type="person"/>
+        <ptr target="#A003732" type="person"/>
+        <ptr target="#PL000000017122" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0404c22 #0404c23"/>
+        <ptr target="#A009588" type="person"/>
+        <ptr target="#A003878" type="person"/>
+        <ptr target="#PL000000018013" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0404c23 #0405a05"/>
+        <ptr target="#A009588" type="person"/>
+        <ptr target="#A003878" type="person"/>
+        <ptr target="#A003732" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0405a11 #0405a12"/>
+        <ptr target="#A008167" type="person"/>
+        <ptr target="#A010689" type="person"/>
+        <ptr target="#A020172" type="person"/>
+        <ptr target="#A009588" type="person"/>
+    </linkGrp>
 </div>

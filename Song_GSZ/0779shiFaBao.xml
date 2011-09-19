@@ -1,31 +1,31 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0727a19shiFaBao">
-    <lb ed="T" n="0727a19"/><anchor n="T.50.2061.0727a19"/><head><date from-iso="0618-06-21" key="j19469512052491" to-iso="0907-06-06">唐</date><placeName key="CN0610113T05AA">京兆大慈恩寺</placeName><persName key="A000746">法寶</persName>傳（<persName key="A001179">勝莊</persName>）</head><p>
+    <lb ed="T" n="0727a19"/><anchor n="T.50.2061.0727a19"/><head><date from-iso="0618-06-21" key="j19469512052491" to-iso="0907-06-06">唐</date><placeName key="PL000000042410">京兆大慈恩寺</placeName><persName key="A000746">法寶</persName>傳（<persName key="A001179">勝莊</persName>）</head><p>
 <lb ed="T" n="0727a20"/><persName key="A000746">釋法寶</persName>，亦<persName key="A000294">三藏奘師</persName>學法之神足也。性靈敏
 <lb ed="T" n="0727a21"/>利，最所先焉。<persName key="A000294">奘</persName>初譯《婆沙論》畢，<persName key="A000746">寶</persName>有疑情，
-        <lb ed="T" n="0727a22"/>以「非想<ptr target="#n538"/>」見惑，請益<ref type="person" target="#A000294">之</ref>。<persName key="A000294">奘</persName>別以十六字入乎
-<lb ed="T" n="0727a23"/>論中，以遮難辭。<persName key="A000746">寶</persName>白<persName key="A000294">奘</persName>曰：「此二句四句為
+        <lb ed="T" n="0727a22"/>以「非想見惑<ptr target="#n538"/>」，請益<ref type="person" target="#A000294">之</ref>。<persName key="A000294">奘</persName>別以十六字入乎
+        <lb ed="T" n="0727a23"/>論中，以遮難辭。<persName key="A000746">寶</persName>白<persName key="A000294">奘</persName>曰：「此二句四句為
         <lb ed="T" n="0727a24"/>梵本有無？」<persName key="A000294">奘</persName>曰：「<ref type="person" target="#A000294">吾</ref>以義意酌情作耳。」<persName key="A000746">寶</persName>曰：「
         <lb ed="T" n="0727a25"/><ref type="person" target="#A000294">師</ref>豈宜以凡語增加聖言量乎？」<persName key="A000294">奘</persName>曰：「斯言
         <lb ed="T" n="0727a26"/>不行，<ref type="person" target="#A000294">我</ref>知之矣。」自此炰烋<ptr target="#n539"/>頡頏<ptr target="#n540"/>于<persName key="A000294">奘</persName>之門，
         <lb ed="T" n="0727a27"/>至乎「六離合釋<ptr target="#n541"/>」義，「俱舍宗」以<persName key="A000746">寶</persName>為定量<ptr target="#n258"/>矣。
-        <lb ed="T" n="0727a28"/><persName key="A000060">光師</persName>往往同<placeName key="WW034KASME01AA">迦濕彌羅</placeName>餘師禮記<ptr target="#n547"/>衍字也。時
+        <lb ed="T" n="0727a28"/><persName key="A000060">光師</persName>往往同<placeName key="PL000000055417">迦濕彌羅</placeName>餘師禮記<ptr target="#n547"/>衍字也。時
         <lb ed="T" n="0727a29"/><persName key="A000060">光</persName>、<persName key="A000746">寶</persName>二法師若<persName key="A001583">什</persName>門之<persName key="A002842">融</persName>、<persName key="A001599">叡</persName>焉。後越精「義<pb ed="T" n="0727b" xml:id="T50.2061.0727b"/>
-        <lb ed="T" n="0727b01"/>學<ptr target="#n395"/>」，令問孔膠<ptr target="#n546"/>。<date from-iso="0703-01-26" key="j19778501978233" to-iso="0704-02-13">長安三年</date>，於<placeName key="CN0410311T16AA">福先寺</placeName>、<placeName key="CN0610103T02AA">京西明寺</placeName>
+        <lb ed="T" n="0727b01"/>學<ptr target="#n395"/>」，令問孔膠<ptr target="#n546"/>。<date from-iso="0703-01-26" key="j19778501978233" to-iso="0704-02-13">長安三年</date>，於<placeName key="PL000000023665">福先寺</placeName>、<placeName key="PL000000042216">京西明寺</placeName>
         <lb ed="T" n="0727b02"/>預<persName key="A001470">義淨</persName>譯場，<persName key="A000746">寶</persName>與<persName key="A002450">法藏</persName>、<persName key="A001179">勝莊</persName>等證義<ptr target="#n54"/>，于時
         <lb ed="T" n="0727b03"/>頗露頭角<ptr target="#n532"/>，莫之與京歟！</p>
     <linkGrp>
         <link targets="#0727a20 #0727a26"/>
         <ptr target="#A000746" type="person"/>
         <ptr target="#A000294" type="person"/>
-        <ptr target="#CN0610102Z07AA" type="place"/>
+        <ptr target="#PL000000042189" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0727a29 #0727a29"/>
         <ptr target="#A000746" type="person"/>
         <ptr target="#A000060" type="person"/>
         <ptr target="#A000294" type="person"/>
-        <ptr target="#CN0610102Z07AA" type="place"/>
+        <ptr target="#PL000000042189" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0727b01 #0727b02"/>
@@ -33,7 +33,7 @@
         <ptr target="#A002450" type="person"/>
         <ptr target="#A001179" type="person"/>
         <ptr target="#A001470" type="person"/>
-        <ptr target="#CN0410311T16AA" type="place"/>
+        <ptr target="#PL000000023665" type="place"/>
         <ptr target="#j19778501978233" type="time"/>
     </linkGrp>
     <linkGrp>
@@ -42,7 +42,7 @@
         <ptr target="#A002450" type="person"/>
         <ptr target="#A001179" type="person"/>
         <ptr target="#A001470" type="person"/>
-        <ptr target="#CN0610103T02AA" type="place"/>
+        <ptr target="#PL000000042216" type="place"/>
         <ptr target="#j19778501978233" type="time"/>
     </linkGrp>
 </div>

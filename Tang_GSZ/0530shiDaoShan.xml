@@ -1,32 +1,32 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0607b01shiDaoShan">
-    <p><anchor n="T.50.2060.0607b01"/><lb ed="T" n="0607b01"/><persName key="A006357">釋道禪</persName>。<placeName key="VN0000000E01AA">交<ptr target="fn13"/>阯</placeName>人。早出世網。立性方嚴。修身<lb ed="T" n="0607b02"/>守戒。氷霜例德。鄉族道俗咸貴其<ptr target="fn14"/>剋己。而<lb ed="T" n="0607b03"/>重其篤行。<placeName key="VN0000000T02AA">仙洲山寺</placeName>舊多虎害。<persName key="A006357">禪</persName>往居之<lb ed="T" n="0607b04"/>此災遂遠。聞<persName key="A002655">齊竟陵王</persName>大開禪律盛張講<lb ed="T" n="0607b05"/>肆。千里引駕同造<placeName key="CN0320106Z05AA">金陵</placeName>。皆是四海標領。人<lb ed="T" n="0607b06"/>雄道傑。<persName key="A006357">禪</persName>傳芳藉甚通夜不寐。思參勝集<lb ed="T" n="0607b07"/>簉奉真<ptr target="fn15"/>詮。乃以<date key="j18974981898464" notAfter-iso="0485" notBefore-iso="0483">永明之初</date>。遊歷<placeName key="CN0320106Z05AA">京室</placeName>。住鍾<lb ed="T" n="0607b08"/>山<placeName key="CN0320102T07AA">雲居下寺</placeName>。聽掇眾部。偏以十誦知名。經<lb ed="T" n="0607b09"/>略道化僧尼信奉。故有稜威振發以見聲<lb ed="T" n="0607b10"/>名恬<ptr target="fn16"/>愉誘悟議于風<ptr target="fn17"/>采。都邑受其戒範<lb ed="T" n="0607b11"/>者數越千人。常聽之徒眾不盈百。兼樂滅<lb ed="T" n="0607b12"/>覺觀。亟留幽谷。動踰宵景方尋顧步。加復<lb ed="T" n="0607b13"/>蔬食弊衣華無布口。有濟芳美者。便隨給<lb ed="T" n="0607b14"/>貧病。知足之富豈得過焉。末居于寺舍。屏<lb ed="T" n="0607b15"/>迹山林。不交榮世。安苦立行。人以為憂。<lb ed="T" n="0607b16"/>而<persName key="A006357">禪</persName>不改其樂也。以<date key="j19136611913945" from-iso="0527-04-29" to-iso="0528-02-07">大通元年</date>卒于山寺。<lb ed="T" n="0607b17"/>春秋七十矣。</p>
+    <p><anchor n="T.50.2060.0607b01"/><lb ed="T" n="0607b01"/><persName key="A006357">釋道禪</persName>。<placeName key="PL000000055093">交<ptr target="fn13"/>阯</placeName>人。早出世網。立性方嚴。修身<lb ed="T" n="0607b02"/>守戒。氷霜例德。鄉族道俗咸貴其<ptr target="fn14"/>剋己。而<lb ed="T" n="0607b03"/>重其篤行。<placeName key="PL000000055096">仙洲山寺</placeName>舊多虎害。<persName key="A006357">禪</persName>往居之<lb ed="T" n="0607b04"/>此災遂遠。聞<persName key="A002655">齊竟陵王</persName>大開禪律盛張講<lb ed="T" n="0607b05"/>肆。千里引駕同造<placeName key="PL000000008975">金陵</placeName>。皆是四海標領。人<lb ed="T" n="0607b06"/>雄道傑。<persName key="A006357">禪</persName>傳芳藉甚通夜不寐。思參勝集<lb ed="T" n="0607b07"/>簉奉真<ptr target="fn15"/>詮。乃以<date key="j18974981898464" notAfter-iso="0485" notBefore-iso="0483">永明之初</date>。遊歷<placeName key="PL000000008975">京室</placeName>。住鍾<lb ed="T" n="0607b08"/>山<placeName key="PL000000008746">雲居下寺</placeName>。聽掇眾部。偏以十誦知名。經<lb ed="T" n="0607b09"/>略道化僧尼信奉。故有稜威振發以見聲<lb ed="T" n="0607b10"/>名恬<ptr target="fn16"/>愉誘悟議于風<ptr target="fn17"/>采。都邑受其戒範<lb ed="T" n="0607b11"/>者數越千人。常聽之徒眾不盈百。兼樂滅<lb ed="T" n="0607b12"/>覺觀。亟留幽谷。動踰宵景方尋顧步。加復<lb ed="T" n="0607b13"/>蔬食弊衣華無布口。有濟芳美者。便隨給<lb ed="T" n="0607b14"/>貧病。知足之富豈得過焉。末居于寺舍。屏<lb ed="T" n="0607b15"/>迹山林。不交榮世。安苦立行。人以為憂。<lb ed="T" n="0607b16"/>而<persName key="A006357">禪</persName>不改其樂也。以<date key="j19136611913945" from-iso="0527-04-29" to-iso="0528-02-07">大通元年</date>卒于山寺。<lb ed="T" n="0607b17"/>春秋七十矣。</p>
     <linkGrp>
         <link targets="#0607b01 #0607b03"/>
         <ptr target="#A006357" type="person"/>
-        <ptr target="#VN0000000E01AA" type="place"/>
+        <ptr target="#PL000000055093" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0607b03 #0607b04"/>
         <ptr target="#A006357" type="person"/>
-        <ptr target="#VN0000000T02AA" type="place"/>
+        <ptr target="#PL000000055096" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0607b04 #0607b07"/>
         <ptr target="#A006357" type="person"/>
         <ptr target="#A002655" type="person"/>
-        <ptr target="#CN0320106Z05AA" type="place"/>
+        <ptr target="#PL000000008975" type="place"/>
         </linkGrp>
     <linkGrp>
         <link targets="#0607b07 #0607b08"/>
         <ptr target="#A006357" type="person"/>
-        <ptr target="#CN0320102T07AA" type="place"/>
+        <ptr target="#PL000000008746" type="place"/>
         <ptr target="#j18974981898464" type="time"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0607b16 #0607b17"/>
         <ptr target="#A006357" type="person"/>
-        <ptr target="#CN0320102T07AA" type="place"/>
+        <ptr target="#PL000000008746" type="place"/>
         <ptr target="#j19136611913945" type="time"/>
     </linkGrp>
 </div>

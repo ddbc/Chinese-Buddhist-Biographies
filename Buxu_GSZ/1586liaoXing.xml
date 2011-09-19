@@ -1,15 +1,15 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0390c12liaoXing">
-    <head><lb ed="X" n="0390c12"/>　　　　五臺<placeName key="CN0140922T20AA">普寧</placeName><persName key="A008138">弘教大師</persName>傳</head>
+    <head><lb ed="X" n="0390c12"/>　　　　五臺<placeName key="PL000000005379">普寧</placeName><persName key="A008138">弘教大師</persName>傳</head>
     <p><anchor n="X.77.1524.0390c13"/><lb ed="X" n="0390c13"/><persName key="A008138">了性</persName>。號<persName key="A008138">大林</persName>。姓武氏。少好學聰睿之性。殆天授之禮
         <lb ed="X" n="0390c14"/>耆德<persName key="A008184">安</persName>公。為師而落髮焉。既登具。歷諸講庠。探頥經
         <lb ed="X" n="0390c15"/>論。遇<persName key="A000166">真覺圓師</persName>。啟悟初心。而周游南北幾萬里。窮覽
         <lb ed="X" n="0390c16"/>幽勝。所至必諮訪其人。詢至道之要。其所師而學者。
         <lb ed="X" n="0390c17"/>如<persName key="A008154">柏林潭</persName>公。<persName key="A010799">關輔懷</persName>公。<persName key="A010800">南陽茲</persName>公。皆以義學著稱。及
-        <lb ed="X" n="0390c18"/>歸復見<persName key="A000166">真覺</persName>於<placeName key="CN0610327Z12AA">壠坻</placeName>。愈見墻仞之高。堂室之奧。乃曰。
-        <lb ed="X" n="0390c19"/>佛法司南。其在茲乎。<persName key="A000166">真覺</persName>歿。北游<placeName key="CN0110102Z01AA">燕薊</placeName>。晦迹魏闕之
+        <lb ed="X" n="0390c18"/>歸復見<persName key="A000166">真覺</persName>於<placeName key="PL000000042944">壠坻</placeName>。愈見墻仞之高。堂室之奧。乃曰。
+        <lb ed="X" n="0390c19"/>佛法司南。其在茲乎。<persName key="A000166">真覺</persName>歿。北游<placeName key="PL000000000317">燕薊</placeName>。晦迹魏闕之
         <lb ed="X" n="0390c20"/>下。悠然如處江海之上。與世若相忘焉。然以懷璧之
-        <lb ed="X" n="0390c21"/>美。被褐而莫掩。名既喧於眾口。聲遂聞于九重。會<placeName key="CN0110101T01AA">萬<lb ed="X" n="0390c22"/>寧</placeName>初落。詔師居之。<date from-iso="1308-02-01" to-iso="1312-02-15" key="j21988282200303">至大中</date>。大后剏寺<placeName key="CN0140900M01AA">臺山</placeName>。曰<placeName key="CN0140922T20AA">普寧</placeName>。以
+        <lb ed="X" n="0390c21"/>美。被褐而莫掩。名既喧於眾口。聲遂聞于九重。會<placeName key="PL000000000253">萬<lb ed="X" n="0390c22"/>寧</placeName>初落。詔師居之。<date from-iso="1308-02-01" to-iso="1312-02-15" key="j21988282200303">至大中</date>。大后剏寺<placeName key="PL000000005250">臺山</placeName>。曰<placeName key="PL000000005379">普寧</placeName>。以
         <lb ed="X" n="0390c23"/>茲擅天下之勝。住持之寄。非海內碩望。莫能勝之。故
         <lb ed="X" n="0390c24"/>以命師。師居十有餘年而歿。師為人剛毅。頗負氣節。
         <lb ed="X" n="0391a01"/>不能俯仰隨世。雖居官寺。未甞一至城府。造權貴之
@@ -25,5 +25,58 @@
         <lb ed="X" n="0391a11"/>乎。且吾於道。何求于彼。彼以其勢自大而倨。吾苟為
         <lb ed="X" n="0391a12"/>之屈。非諂則[佞-二+〦]也焉。有君子而為[佞-二+〦]諂之行哉。識者
         <lb ed="X" n="0391a13"/>壯師之氣。以謂如<persName key="A009839">佛印元</persName>公之遇<persName key="A001462">高麗王子</persName>。可謂識
-        <lb ed="X" n="0391a14"/>大體而得乎禮矣。歿時<date from-iso="1321-09-30" to-iso="1321-10-29" key="j22038182203847">至治元年九月</date>。塔舍利于<placeName key="CN0140922T16AA">竹<lb ed="X" n="0391a15"/>林</placeName>之墟。</p>
+        <lb ed="X" n="0391a14"/>大體而得乎禮矣。歿時<date from-iso="1321-09-30" to-iso="1321-10-29" key="j22038182203847">至治元年九月</date>。塔舍利于<placeName key="PL000000005375">竹<lb ed="X" n="0391a15"/>林</placeName>之墟。</p>
+    
+    <linkGrp>
+        <link targets="#0390c13 #0390c14"/>
+        <ptr target="#A008138" type="person"/>
+        <ptr target="#A008184" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0390c15 #0390c17"/>
+        <ptr target="#A008138" type="person"/>
+        <ptr target="#A008154" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0390c15 #0390c17"/>
+        <ptr target="#A008138" type="person"/>
+        <ptr target="#A010799" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0390c15 #0390c17"/>
+        <ptr target="#A008138" type="person"/>
+        <ptr target="#A010800" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0390c14 #0390c19"/>
+        <ptr target="#A008138" type="person"/>
+        <ptr target="#A000166" type="person"/>
+        <ptr target="#PL000000042944" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0390c19 #0390c20"/>
+        <ptr target="#A008138" type="person"/>
+        <ptr target="#PL000000000317" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0390c21 #0390c22"/>
+        <ptr target="#A008138" type="person"/>
+        <ptr target="#PL000000000253" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0390c22 #0390c24"/>
+        <ptr target="#A008138" type="person"/>
+        <ptr target="#PL000000005379" type="place"/>
+        <ptr target="#j21988282200303" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0391a13 #0391a13"/>
+        <ptr target="#A009839" type="person"/>
+        <ptr target="#A001462" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0391a14 #0391a15"/>
+        <ptr target="#A008138" type="person"/>
+        <ptr target="#j22038182203847" type="time"/>
+    </linkGrp>
 </div>

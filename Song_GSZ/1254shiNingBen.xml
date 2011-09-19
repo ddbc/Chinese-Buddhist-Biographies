@@ -1,15 +1,15 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0894b07shiNingBen">
     <anchor n="T.50.2061.0894b07"/><head><date from-iso="0618-06-21" key="j19469512052491" to-iso="0907-06-06">唐</date>呂后山道場<persName key="A008823">寧賁</persName>傳</head><p>
-<lb ed="T" n="0894b08"/><persName key="A008823">釋寧賁</persName>，姓李氏，<placeName key="CN0620524Z02AA">隴西</placeName>人也。家于毫州<placeName key="CN0341622Z12AA">蒙城</placeName>，
+<lb ed="T" n="0894b08"/><persName key="A008823">釋寧賁</persName>，姓李氏，<placeName key="PL000000044997">隴西</placeName>人也。家于毫州<placeName key="PL000000016557">蒙城</placeName>，
 <lb ed="T" n="0894b09"/>幼奉<persName key="A002799">釋尊</persName>，而不言乎簪組之緒，無得稱其
 <lb ed="T" n="0894b10"/>代諱焉。<persName key="A008823">賁</persName>所吐論，皆以覺了，不取諸相。心
 <lb ed="T" n="0894b11"/>通定慧，而盡虛空，無以邊中可測，無以
-<lb ed="T" n="0894b12"/>文字求我。因往<placeName key="CN0360103Z26AA">洪州</placeName>，尋<persName key="A003623">道一祖帥</persName>，見而奇
+<lb ed="T" n="0894b12"/>文字求我。因往<placeName key="PL000000018628">洪州</placeName>，尋<persName key="A003623">道一祖帥</persName>，見而奇
 <lb ed="T" n="0894b13"/>之，語而異之，大乘法器得其人矣。遂乃具
 <lb ed="T" n="0894b14"/>戒，作入室弟子。師資數歲，道議殊倫。欲往
-        <lb ed="T" n="0894b15"/><placeName key="CN0331023M01AA">天台</placeName>，至越<placeName key="CN0330602T27AA">呂后山</placeName>岑<anchor xml:id="beg0894002"/>廖<anchor xml:id="end0894002"/><note resp="sgsz">《廣韻》：「岑，山小而髙。𡽦，崖虛。」</note>曰：「即是諸佛住處，何
-<lb ed="T" n="0894b16"/>必<placeName key="CN0331023M01AA">天台</placeName>也？」<persName key="A008823">賁</persName>菩提直幹，挺秀七尺。村豪里宿
+        <lb ed="T" n="0894b15"/><placeName key="PL000000014411">天台</placeName>，至越<placeName key="PL000000013235">呂后山</placeName>岑<anchor xml:id="beg0894002"/>廖<anchor xml:id="end0894002"/><note resp="sgsz">《廣韻》：「岑，山小而髙。𡽦，崖虛。」</note>曰：「即是諸佛住處，何
+<lb ed="T" n="0894b16"/>必<placeName key="PL000000014411">天台</placeName>也？」<persName key="A008823">賁</persName>菩提直幹，挺秀七尺。村豪里宿
 <lb ed="T" n="0894b17"/>覩其異狀，歸依瞻仰，老幼爭先。同味醍醐，
 <lb ed="T" n="0894b18"/>疾病皆愈。是時多有行路𦃓戾，欲暴僧徒，
 <lb ed="T" n="0894b19"/><persName key="A008823">賁</persName>乃引之而前，威之而退，驚駭儀貌，禮足
@@ -29,17 +29,17 @@
     <linkGrp>
         <link targets="#0894b08 #0894b10"/>
         <ptr target="#A008823" type="person"/>
-        <ptr target="#CN0341622Z12AA" type="place"/>
+        <ptr target="#PL000000016557" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0894b12 #0894b13"/>
         <ptr target="#A008823" type="person"/>
         <ptr target="#A003623" type="person"/>
-        <ptr target="#CN0360103Z26AA" type="place"/>
+        <ptr target="#PL000000018628" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0894b15 #0894b16"/>
         <ptr target="#A008823" type="person"/>
-        <ptr target="#CN0330602T27AA" type="place"/>
+        <ptr target="#PL000000013235" type="place"/>
     </linkGrp>
 </div>

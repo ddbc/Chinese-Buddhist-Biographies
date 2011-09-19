@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0407b27shiHuiGuo">
-	<p><anchor n="T.50.2059.0407b27"/><lb ed="T" n="0407b27"/><persName key="A002348">釋慧果</persName>，<placeName key="CN0410322Z28AA">豫州</placeName>人。少以蔬<ptr target="fn19"/>苦自業。<date key="j18746411892772" notAfter-iso="0470" notBefore-iso="0420">宋初</date>遊<placeName key="CN0320106Z06AA">京<lb ed="T" n="0407b28"/>師</placeName>，止<placeName key="CN0320104T02AA">瓦官寺</placeName>。誦《法華》、《十地》。嘗於圊廁見一<lb ed="T" n="0407b29"/>鬼致敬於<persName key="A002348">果</persName>云：「昔為眾僧作維那，小不<lb ed="T" n="0407c01"/>如法，墮在噉糞鬼中。<persName key="A002348">法師</persName>德素高明，又慈<lb ed="T" n="0407c02"/>悲為意，願助以拔濟之方也。」又云昔有錢<lb ed="T" n="0407c03"/>三千埋在柿樹根下，願取以為福。<persName key="A002348">果</persName>即告<lb ed="T" n="0407c04"/>眾掘取，果得三千，為造《法華》一部，并設會。<lb ed="T" n="0407c05"/>後夢見此鬼云：「已得改生，大勝昔日。」<persName key="A002348">果</persName>以<lb ed="T" n="0407c06"/><date key="j18927731893126" from-iso="0470-02-18" to-iso="0471-02-06">宋太始六年</date>卒，春秋七十有六。</p>
+	<p><anchor n="T.50.2059.0407b27"/><lb ed="T" n="0407b27"/><persName key="A002348">釋慧果</persName>，<placeName key="PL000000023714">豫州</placeName>人。少以蔬<ptr target="fn19"/>苦自業。<date key="j18746411892772" notAfter-iso="0470" notBefore-iso="0420">宋初</date>遊<placeName key="PL000000008976">京<lb ed="T" n="0407b28"/>師</placeName>，止<placeName key="PL000000008823">瓦官寺</placeName>。誦《法華》、《十地》。嘗於圊廁見一<lb ed="T" n="0407b29"/>鬼致敬於<persName key="A002348">果</persName>云：「昔為眾僧作維那，小不<lb ed="T" n="0407c01"/>如法，墮在噉糞鬼中。<persName key="A002348">法師</persName>德素高明，又慈<lb ed="T" n="0407c02"/>悲為意，願助以拔濟之方也。」又云昔有錢<lb ed="T" n="0407c03"/>三千埋在柿樹根下，願取以為福。<persName key="A002348">果</persName>即告<lb ed="T" n="0407c04"/>眾掘取，果得三千，為造《法華》一部，并設會。<lb ed="T" n="0407c05"/>後夢見此鬼云：「已得改生，大勝昔日。」<persName key="A002348">果</persName>以<lb ed="T" n="0407c06"/><date key="j18927731893126" from-iso="0470-02-18" to-iso="0471-02-06">宋太始六年</date>卒，春秋七十有六。</p>
 	<linkGrp>
 		<link targets="#0407b27 #0407b28"/>
 		<ptr target="#A002348" type="person"/>
-		<ptr target="#CN0320104T02AA" type="place"/>
+		<ptr target="#PL000000008823" type="place"/>
 		<ptr target="#j18746411892772" type="time"/>
 	</linkGrp>
 	<linkGrp>

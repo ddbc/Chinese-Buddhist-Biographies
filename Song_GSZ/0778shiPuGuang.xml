@@ -1,17 +1,17 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0727a04shiPuGuang">
-    <lb ed="T" n="0727a04"/><anchor n="T.50.2061.0727a04"/><head><date from-iso="0618-06-21" key="j19469512052491" to-iso="0907-06-06">唐</date><placeName key="CN0610113T05AA">京兆大慈恩寺</placeName><persName key="A000060">普光</persName>傳</head><p>
+    <lb ed="T" n="0727a04"/><anchor n="T.50.2061.0727a04"/><head><date from-iso="0618-06-21" key="j19469512052491" to-iso="0907-06-06">唐</date><placeName key="PL000000042410">京兆大慈恩寺</placeName><persName key="A000060">普光</persName>傳</head><p>
 <lb ed="T" n="0727a05"/><persName key="A000060">釋普光</persName>，未知何許人也。明敏為性，爰擇其
         <lb ed="T" n="0727a06"/>木<ptr target="#n528"/>，請事<persName key="A000294">三藏奘師</persName>。勤恪之心，同列靡及。至
         <lb ed="T" n="0727a07"/>於智解<ptr target="#n529"/>，可譬循環<ptr target="#n530"/>，聞少證多<ptr target="#n531"/>，<persName key="A000294">奘師</persName>默許。末
         <lb ed="T" n="0727a08"/>參傳譯，頭角<ptr target="#n532"/>特高，左右三藏之美，<persName key="A000060">光</persName>有功
         <lb ed="T" n="0727a09"/>焉。初，<persName key="A000294">奘</persName>嫌古翻《俱舍》<ptr target="#n533"/>，義多缺然，躬得梵本
-        <lb ed="T" n="0727a10"/>再譯真文，乃密授<persName key="A000060">光</persName>，多是記憶<placeName key="WW034XI00E01AA">西印</placeName>薩婆多<ptr target="#n244"/>
+        <lb ed="T" n="0727a10"/>再譯真文，乃密授<persName key="A000060">光</persName>，多是記憶<placeName key="PL000000055425">西印</placeName>薩婆多<ptr target="#n244"/>
     <lb ed="T" n="0727a11"/>師口義。<persName key="A000060">光</persName>因著「疏」<ptr target="#n534"/>解判。一云其「疏」至<persName key="A001416">圓暉</persName>
         <lb ed="T" n="0727a12"/>略之為十卷，如漢之有沲<ptr target="#n535"/>歟？又甞隨<persName key="A000294">奘</persName>往
-        <lb ed="T" n="0727a13"/><placeName key="CN0610222A01AA">玉華宮</placeName>譯《大般若經》，厥功出乎<anchor xml:id="beg0727sgsz1"/>禆<anchor xml:id="end0727sgsz1"/>贊<ptr target="#n536"/>也，時
+        <lb ed="T" n="0727a13"/><placeName key="PL000000042745">玉華宮</placeName>譯《大般若經》，厥功出乎<anchor xml:id="beg0727sgsz1"/>禆<anchor xml:id="end0727sgsz1"/>贊<ptr target="#n536"/>也，時
         <lb ed="T" n="0727a14"/>號<persName key="A000060">大乘光</persName>。觀夫<persName key="A000294">奘</persName>自<date from-iso="0645-02-05" key="j19566771957030" to-iso="0646-01-24">貞觀十九年</date>創譯，<anchor xml:id="beg0727001"/><choice resp="sgsz"><sic>記</sic><corr>訖</corr></choice><anchor xml:id="end0727001"/>
-<lb ed="T" n="0727a15"/><date from-iso="0664-02-05" key="j19636161963970" to-iso="0665-01-24">麟德元年</date>，終于<placeName key="CN0610222A01AA">玉華宮</placeName>，凡二十載，總出大小
+<lb ed="T" n="0727a15"/><date from-iso="0664-02-05" key="j19636161963970" to-iso="0665-01-24">麟德元年</date>，終于<placeName key="PL000000042745">玉華宮</placeName>，凡二十載，總出大小
 <lb ed="T" n="0727a16"/>乘經律論七十五部一千三百三十五卷，十
         <lb ed="T" n="0727a17"/>分七八是<persName key="A000060">光</persName>筆受<ptr target="#n53"/><ptr target="#n537"/>，或謂<persName key="A000060">嘉光</persName>、<persName key="A000060">普光</persName>也。若驗從
 <lb ed="T" n="0727a18"/><persName key="A001966">辯機</persName>同參譯務，即<persName key="A000060">普光</persName>是也。</p>
@@ -24,13 +24,13 @@
         <link targets="#0727a12 #0727a13"/>
         <ptr target="#A000060" type="person"/>
         <ptr target="#A000294" type="person"/>
-        <ptr target="#CN0610222A01AA" type="place"/>
+        <ptr target="#PL000000042745" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0727a14 #0727a15"/>
         <ptr target="#A000294" type="person"/>
         <ptr target="#A000060" type="person"/>
-        <ptr target="#CN0610222A01AA" type="place"/>
+        <ptr target="#PL000000042745" type="place"/>
         <ptr target="#j19636161963970" type="time"/>
     </linkGrp>
     <linkGrp>

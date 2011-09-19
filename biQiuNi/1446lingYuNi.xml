@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="bqnz0947a21lingYuNi">
-    <head><placeName key="CN0000000T15AA">南晉陵寺</placeName><persName key="A016158">釋令玉</persName>尼<ptr target="fn10"/>傳九</head><p><anchor n="T.50.2063.0947a22"/><lb ed="T" n="0947a22"/><persName key="A016158">令玉</persName>，本姓蔡，<placeName key="CN0320106Z05AA">建康</placeName>人<ptr target="fn11"/>也。少出家，住<placeName key="CN0320106T36AA">何后寺</placeName><lb ed="T" n="0947a23"/>禪房，為<persName key="A016159">淨<ptr target="fn12"/>曜</persName>尼弟子。<persName key="A016159">淨<ptr target="fn＊"/>曜</persName>律行純白，思業<lb ed="T" n="0947a24"/>過人。<persName key="A016158">玉</persName>少事師長，恭勤匪懈。始受十戒，威儀<lb ed="T" n="0947a25"/>可觀。及受具<ptr target="fn13"/>足，禁行清白，有若氷<ptr target="fn14"/>霜。博尋<lb ed="T" n="0947a26"/>五部，妙究幽宗，雅能傳述。<ptr target="fn15"/>宋<persName key="A016177">邵陵<ptr target="fn16"/>王</persName>大相<lb ed="T" n="0947a27"/>欽敬，請為<placeName key="CN0000000T15AA">南晉陵寺</placeName>主，固讓不當。<ref target="#A016177" type="person">王</ref>不能屈，<lb ed="T" n="0947a28"/>以<ptr target="fn17"/>啟<date from-iso="0473-02-14" key="j18938651895495" to-iso="0477-08-02">元徽</date>。<date from-iso="0473-02-14" key="j18938651895495" to-iso="0477-08-02">元徽</date>再勅，事不獲免。在任積年，<lb ed="T" n="0947a29"/>不矜而莊，不厲而威。年七十六，梁<date from-iso="0509-02-07" key="j19070061907360" to-iso="0510-01-27">天監八年</date><lb ed="T" n="0947b01"/>卒。</p><p>寺復有<persName key="A016165">令惠</persName>、<persName key="A016171">戒忍</persName>、<ptr target="fn＊"/><persName key="A016180">慧力</persName>，並顯名。<persName key="A016165">令惠</persName><ptr target="fn18"/>誦<lb ed="T" n="0947b02"/>妙法蓮華、維摩、勝鬘等經，勤身蔬飯，卓然眾<lb ed="T" n="0947b03"/>表。<persName key="A016171">戒忍</persName>聰朗好學，經目不忘。<persName key="A016180">惠力</persName>雅識<ptr target="fn19"/>虛通，<lb ed="T" n="0947b04"/>無所矯競。</p>
+    <head><placeName key="PL000000000178">南晉陵寺</placeName><persName key="A016158">釋令玉</persName>尼<ptr target="fn10"/>傳九</head><p><anchor n="T.50.2063.0947a22"/><lb ed="T" n="0947a22"/><persName key="A016158">令玉</persName>，本姓蔡，<placeName key="PL000000008975">建康</placeName>人<ptr target="fn11"/>也。少出家，住<placeName key="PL000000008961">何后寺</placeName><lb ed="T" n="0947a23"/>禪房，為<persName key="A016159">淨<ptr target="fn12"/>曜</persName>尼弟子。<persName key="A016159">淨<ptr target="fn＊"/>曜</persName>律行純白，思業<lb ed="T" n="0947a24"/>過人。<persName key="A016158">玉</persName>少事師長，恭勤匪懈。始受十戒，威儀<lb ed="T" n="0947a25"/>可觀。及受具<ptr target="fn13"/>足，禁行清白，有若氷<ptr target="fn14"/>霜。博尋<lb ed="T" n="0947a26"/>五部，妙究幽宗，雅能傳述。<ptr target="fn15"/>宋<persName key="A016177">邵陵<ptr target="fn16"/>王</persName>大相<lb ed="T" n="0947a27"/>欽敬，請為<placeName key="PL000000000178">南晉陵寺</placeName>主，固讓不當。<ref target="#A016177" type="person">王</ref>不能屈，<lb ed="T" n="0947a28"/>以<ptr target="fn17"/>啟<date from-iso="0473-02-14" key="j18938651895495" to-iso="0477-08-02">元徽</date>。<date from-iso="0473-02-14" key="j18938651895495" to-iso="0477-08-02">元徽</date>再勅，事不獲免。在任積年，<lb ed="T" n="0947a29"/>不矜而莊，不厲而威。年七十六，梁<date from-iso="0509-02-07" key="j19070061907360" to-iso="0510-01-27">天監八年</date><lb ed="T" n="0947b01"/>卒。</p><p>寺復有<persName key="A016165">令惠</persName>、<persName key="A016171">戒忍</persName>、<ptr target="fn＊"/><persName key="A016180">慧力</persName>，並顯名。<persName key="A016165">令惠</persName><ptr target="fn18"/>誦<lb ed="T" n="0947b02"/>妙法蓮華、維摩、勝鬘等經，勤身蔬飯，卓然眾<lb ed="T" n="0947b03"/>表。<persName key="A016171">戒忍</persName>聰朗好學，經目不忘。<persName key="A016180">惠力</persName>雅識<ptr target="fn19"/>虛通，<lb ed="T" n="0947b04"/>無所矯競。</p>
     <linkGrp>
         <link targets="#0947a29 #0947b01"/>
         <ptr target="#A016158" type="person"/>
@@ -12,19 +12,19 @@
         <ptr target="#A016165" type="person"/>
         <ptr target="#A016171" type="person"/>
         <ptr target="#A016180" type="person"/>
-        <ptr target="#CN0000000T15AA" type="place"/>
+        <ptr target="#PL000000000178" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0947a22 #0947a23"/>
         <ptr target="#A016158" type="person"/>
         <ptr target="#A016159" type="person"/>
-        <ptr target="#CN0320106T36AA" type="place"/>
+        <ptr target="#PL000000008961" type="place"/>
         </linkGrp>
     <linkGrp>
         <link targets="#0947a26 #0947a29"/>
         <ptr target="#A016158" type="person"/>
         <ptr target="#A016177" type="person"/>
-        <ptr target="#CN0000000T15AA" type="place"/>
+        <ptr target="#PL000000000178" type="place"/>
         <ptr target="#j18938651895495" type="time"/>
     </linkGrp>
 </div>

@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0776a13shiFaChang">
-    <anchor n="T.50.2061.0776a13"/><head><date from-iso="0618-06-21" key="j19469512052491" to-iso="0907-06-06">唐</date><placeName key="CN0330281M03AA">明州大梅山</placeName><persName key="A010512">法常</persName>傳</head><p>
-        <lb ed="T" n="0776a14"/><persName key="A010512">釋法常</persName>，俗姓鄭，<placeName key="CN0420602Z06AA">襄陽</placeName>人也。稚歲從師於<placeName key="CN0420582T03AA">荊之
+    <anchor n="T.50.2061.0776a13"/><head><date from-iso="0618-06-21" key="j19469512052491" to-iso="0907-06-06">唐</date><placeName key="PL000000012402">明州大梅山</placeName><persName key="A010512">法常</persName>傳</head><p>
+        <lb ed="T" n="0776a14"/><persName key="A010512">釋法常</persName>，俗姓鄭，<placeName key="PL000000027119">襄陽</placeName>人也。稚歲從師於<placeName key="PL000000027023">荊之
 <lb ed="T" n="0776a15"/>玉泉寺</placeName>。凡百經書，一覽必暗誦，更無遺忘。<date key="j20026622003026" from-iso="0771-01-01" to-iso="0771-12-31">冠
-    <lb ed="T" n="0776a16"/>年</date>，受具足品於<placeName key="CN0421024T07AA">龍興寺</placeName>。容貌清峻，性度剛敏，
-<lb ed="T" n="0776a17"/>納衣囊鉢，畢志卯齋。<date from-iso="0796-02-18" key="j20118412012194" to-iso="0797-02-05">貞元十二年</date>，自<placeName key="CN0331023M01AA">天台</placeName>
-<lb ed="T" n="0776a18"/>之于<placeName key="CN0330212M01AA">四明</placeName><placeName key="CN0330283Z01AA">餘姚</placeName>之南七十里，寓<persName key="A006905">仙尉梅子真</persName>
+    <lb ed="T" n="0776a16"/>年</date>，受具足品於<placeName key="PL000000027846">龍興寺</placeName>。容貌清峻，性度剛敏，
+<lb ed="T" n="0776a17"/>納衣囊鉢，畢志卯齋。<date from-iso="0796-02-18" key="j20118412012194" to-iso="0797-02-05">貞元十二年</date>，自<placeName key="PL000000014411">天台</placeName>
+<lb ed="T" n="0776a18"/>之于<placeName key="PL000000012277">四明</placeName><placeName key="PL000000012470">餘姚</placeName>之南七十里，寓<persName key="A006905">仙尉梅子真</persName>
 <lb ed="T" n="0776a19"/>之舊隱焉。昔<persName key="A006905">梅福</persName>初入山也，見多龍穴，神
 <lb ed="T" n="0776a20"/>蛇每吐氣成樓閣，雲雨晦冥。邊有石庫，內
 <lb ed="T" n="0776a21"/>貯仙藥神仙經籍。<persName key="A010512">常</persName>寄宿于房，乃夢神人語
@@ -15,71 +15,71 @@
         <lb ed="T" n="0776a25"/>所好。昔<persName key="A004688">僧稠</persName>不顧仙經，其卷自亡。<ref type="person" target="#A010512">吾</ref>以涅
 <lb ed="T" n="0776a26"/>槃為樂，厥壽何止與天偕老<anchor xml:id="beg0776001"/>耶<anchor xml:id="end0776001"/>？」神曰：「此地
 <lb ed="T" n="0776a27"/>靈府，俗氣之人輒難居此，立致變怪。」<persName key="A010512">常</persName>曰：
-        <lb ed="T" n="0776a28"/>「<ref type="person" target="#A010512">吾</ref>寓跡於<ref type="person" target="#CN0330281M03AA">梅尉之鄉</ref>，非久據焉。」因號<placeName key="CN0330281M03AA">梅山</placeName>
+        <lb ed="T" n="0776a28"/>「<ref type="person" target="#A010512">吾</ref>寓跡於<ref type="person" target="#CN0330281M03AA">梅尉之鄉</ref>，非久據焉。」因號<placeName key="PL000000012402">梅山</placeName>
 <lb ed="T" n="0776a29"/>也。由是編苫伐木，作覆形之調，居僅四十<pb ed="T" n="0776b" xml:id="T50.2061.0776b"/>
 <lb ed="T" n="0776b01"/>年，驗實非常之人也。<date from-iso="0836" key="j20264282026797" to-iso="0837">開成年初</date>院成，徒侶
 <lb ed="T" n="0776b02"/>輻湊，請問決疑，可六七百納徒矣。<date from-iso="0839-01-23" key="j20275212027904" to-iso="0840-02-10">四年</date>，<persName key="A010512">常</persName>忽
 <lb ed="T" n="0776b03"/>示疾。<date key="j20278042027804" when-iso="0839-11-02">九月十九日</date>，山林搖盪，鳥獸悲鳴，辭眾
 <lb ed="T" n="0776b04"/>而逝，報齡八十八，戒臘六十九。<date key="j20278342027834" when-iso="0839-12-02">十月十九日</date>
 <lb ed="T" n="0776b05"/>焚于南㵎，收舍利，五色璨然圓轉焉。<persName key="A010512">常</persName>先
-        <lb ed="T" n="0776b06"/>隱<placeName key="CN0330281M03AA">梅嶺</placeName>，有僧求拄杖見之，白<placeName key="CN0330481Z12AA">鹽官</placeName><persName key="A003862">安禪師</persName>
+        <lb ed="T" n="0776b06"/>隱<placeName key="PL000000012402">梅嶺</placeName>，有僧求拄杖見之，白<placeName key="PL000000012856">鹽官</placeName><persName key="A003862">安禪師</persName>
         <lb ed="T" n="0776b07"/>曰：「梅子熟矣，<ref type="person" target="#A003862">汝曹</ref>往尋，幸能療渴也。」進士
 <lb ed="T" n="0776b08"/><persName key="A010514">江積</persName>為碑云爾。</p>
     <linkGrp>
         <link targets="#0776a14 #0776a14"/>
         <ptr target="#A010512" type="person"/>
-        <ptr target="#CN0420602Z06AA" type="place"/>
+        <ptr target="#PL000000027119" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0776a14 #0776a15"/>
         <ptr target="#A010512" type="person"/>
-        <ptr target="#CN0420582T03AA" type="place"/>
+        <ptr target="#PL000000027023" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0776a15 #0776a16"/>
         <ptr target="#A010512" type="person"/>
-        <ptr target="#CN0421024T07AA" type="place"/>
+        <ptr target="#PL000000027846" type="place"/>
         <ptr target="#j20026622003026" type="time"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0776a17 #0776a18"/>
         <ptr target="#A010512" type="person"/>
-        <ptr target="#CN0331023M01AA" type="place"/>
+        <ptr target="#PL000000014411" type="place"/>
         <ptr target="#j20118412012194" type="time"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0776a17 #0776a19"/>
         <ptr target="#A010512" type="person"/>
-        <ptr target="#CN0330281M03AA" type="place"/>
+        <ptr target="#PL000000012402" type="place"/>
         <ptr target="#j20118412012194" type="time"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0776a21 #0776a29"/>
         <ptr target="#A010512" type="person"/>
-        <ptr target="#CN0330281M03AA" type="place"/>
+        <ptr target="#PL000000012402" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0776b01 #0776b02"/>
         <ptr target="#A010512" type="person"/>
-        <ptr target="#CN0330281M03AA" type="place"/>
+        <ptr target="#PL000000012402" type="place"/>
         <ptr target="#j20264282026797" type="time"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0776b02 #0776b03"/>
         <ptr target="#A010512" type="person"/>
-        <ptr target="#CN0330281M03AA" type="place"/>
+        <ptr target="#PL000000012402" type="place"/>
         <ptr target="#j20275212027804" type="time"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0776b03 #0776b04"/>
         <ptr target="#A010512" type="person"/>
-        <ptr target="#CN0330281M03AA" type="place"/>
+        <ptr target="#PL000000012402" type="place"/>
         <ptr target="#j20278042027804" type="time"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0776b05 #0776b07"/>
         <ptr target="#A010512" type="person"/>
         <ptr target="#A003862" type="person"/>
-        <ptr target="#CN0330281M03AA" type="place"/>
+        <ptr target="#PL000000012402" type="place"/>
     </linkGrp>
 </div>

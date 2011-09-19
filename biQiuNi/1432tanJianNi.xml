@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="bqnz0943b29tanJianNi">
-    <head><placeName key="CN0320101T04AA">法音寺</placeName><persName key="A015902">曇簡</persName>尼<ptr target="fn36"/>傳十</head><p><anchor n="T.50.2063.0943c01"/><lb ed="T" n="0943c01"/><persName key="A015902">曇<ptr target="fn37"/>簡</persName>，本姓張，<placeName key="CN0371581Z02AA">清河</placeName>人也。為<persName key="A015444">法淨</persName>尼弟子，<ptr target="fn38"/>住<lb ed="T" n="0943c02"/>寺，遊學<placeName key="CN0000000E10AA">淮海</placeName>，弘宣正法，先人後己，志在<ptr target="fn39"/>廣<lb ed="T" n="0943c03"/>濟。以<date from-iso="0482-02-05" key="j18971431897496" to-iso="0483-01-24">齊建元四年</date>，立<placeName key="CN0320101T04AA">法音精舍</placeName>，禪思靜默，通<lb ed="T" n="0943c04"/>達三昧，德聲遐布，功化<ptr target="fn40"/>自遠。道俗敬仰，盛修<lb ed="T" n="0943c05"/>供施。</p><p>時有<persName key="A002316">慧明法師</persName>，深愛寂靜，本住<placeName key="CN0320102T05AA">道林寺</placeName>，<lb ed="T" n="0943c06"/><date from-iso="0483-01-26" key="j18974981901365" to-iso="0493-08-28">永明</date><ptr target="fn41"/>時，為<persName key="A002654">文惠帝</persName>、<persName key="A002655">竟陵文宣王</persName>之所修飾。僧<lb ed="T" n="0943c07"/>多義學，累講經論，去來諠動，<persName key="A002316">明</persName>欲去之。<persName key="A015902">簡</persName>以<lb ed="T" n="0943c08"/><ref target="#CN0320101T04AA" type="place">寺</ref>為施，因移<placeName key="CN0000000M02AA">白山</placeName>，更立草菴，以蔽風雨，應時<lb ed="T" n="0943c09"/>行乞，取給所資，常聚樵木，<ptr target="fn42"/>云營功德。以<date key="j19015601901560" when-iso="0494-03-11">建<lb ed="T" n="0943c10"/>武元年二月十八日</date><!--應為隆昌元年二月十八 日-->夜，登此<ptr target="fn43"/>積薪，引火自焚，<lb ed="T" n="0943c11"/>捨生死身，供養三寶。近村見火，競來赴救。及<lb ed="T" n="0943c12"/>至，<persName key="A015902">簡</persName>已遷滅。道俗哀慟，聲<ptr target="fn44"/>振山谷，即聚所餘，<lb ed="T" n="0943c13"/>為立墳剎<ptr target="fn＊"/>也。</p>
+    <head><placeName key="PL000000008647">法音寺</placeName><persName key="A015902">曇簡</persName>尼<ptr target="fn36"/>傳十</head><p><anchor n="T.50.2063.0943c01"/><lb ed="T" n="0943c01"/><persName key="A015902">曇<ptr target="fn37"/>簡</persName>，本姓張，<placeName key="PL000000022529">清河</placeName>人也。為<persName key="A015444">法淨</persName>尼弟子，<ptr target="fn38"/>住<lb ed="T" n="0943c02"/>寺，遊學<placeName key="PL000000000092">淮海</placeName>，弘宣正法，先人後己，志在<ptr target="fn39"/>廣<lb ed="T" n="0943c03"/>濟。以<date from-iso="0482-02-05" key="j18971431897496" to-iso="0483-01-24">齊建元四年</date>，立<placeName key="PL000000008647">法音精舍</placeName>，禪思靜默，通<lb ed="T" n="0943c04"/>達三昧，德聲遐布，功化<ptr target="fn40"/>自遠。道俗敬仰，盛修<lb ed="T" n="0943c05"/>供施。</p><p>時有<persName key="A002316">慧明法師</persName>，深愛寂靜，本住<placeName key="PL000000008744">道林寺</placeName>，<lb ed="T" n="0943c06"/><date from-iso="0483-01-26" key="j18974981901365" to-iso="0493-08-28">永明</date><ptr target="fn41"/>時，為<persName key="A002654">文惠帝</persName>、<persName key="A002655">竟陵文宣王</persName>之所修飾。僧<lb ed="T" n="0943c07"/>多義學，累講經論，去來諠動，<persName key="A002316">明</persName>欲去之。<persName key="A015902">簡</persName>以<lb ed="T" n="0943c08"/><ref target="#PL000000008647" type="place">寺</ref>為施，因移<placeName key="PL000000000147">白山</placeName>，更立草菴，以蔽風雨，應時<lb ed="T" n="0943c09"/>行乞，取給所資，常聚樵木，<ptr target="fn42"/>云營功德。以<date key="j19015601901560" when-iso="0494-03-11">建<lb ed="T" n="0943c10"/>武元年二月十八日</date><!--應為隆昌元年二月十八 日-->夜，登此<ptr target="fn43"/>積薪，引火自焚，<lb ed="T" n="0943c11"/>捨生死身，供養三寶。近村見火，競來赴救。及<lb ed="T" n="0943c12"/>至，<persName key="A015902">簡</persName>已遷滅。道俗哀慟，聲<ptr target="fn44"/>振山谷，即聚所餘，<lb ed="T" n="0943c13"/>為立墳剎<ptr target="fn＊"/>也。</p>
     <linkGrp>
         <link targets="#0943c09 #0943c13"/>
         <ptr target="#A015902" type="person"/>
@@ -14,12 +14,12 @@
     <linkGrp>
         <link targets="#0943c02 #0943c02"/>
         <ptr target="#A015902" type="person"/>
-        <ptr target="#CN0000000E10AA" type="place"/>
+        <ptr target="#PL000000000092" type="place"/>
         </linkGrp>
     <linkGrp>
         <link targets="#0943c03 #0943c03"/>
         <ptr target="#A015902" type="person"/>
-        <ptr target="#CN0320101T04AA" type="place"/>
+        <ptr target="#PL000000008647" type="place"/>
         <ptr target="#j18971431897496" type="time"/>
     </linkGrp>
     <linkGrp>
@@ -27,20 +27,20 @@
         <ptr target="#A002316" type="person"/>
         <ptr target="#A002654" type="person"/>
         <ptr target="#A002655" type="person"/>
-        <ptr target="#CN0320102T05AA" type="place"/>
+        <ptr target="#PL000000008744" type="place"/>
         <ptr target="#j18974981901365" type="time"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0943c07 #0943c08"/>
         <ptr target="#A015902" type="person"/>
         <ptr target="#A002316" type="person"/>
-        <ptr target="#CN0320101T04AA" type="place"/>
+        <ptr target="#PL000000008647" type="place"/>
         <ptr target="#j18974981901365" type="time"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0943c08 #0943c08"/>
         <ptr target="#A015902" type="person"/>
-        <ptr target="#CN0000000M02AA" type="place"/>
+        <ptr target="#PL000000000147" type="place"/>
         <ptr target="#j18974981901365" type="time"/>
     </linkGrp>
 </div>

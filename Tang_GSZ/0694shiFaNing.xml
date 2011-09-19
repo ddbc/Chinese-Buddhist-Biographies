@@ -1,19 +1,19 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0678a27shiFaLin">
-    <p><anchor n="T.50.2060.0678a27"/><lb ed="T" n="0678a27"/><persName key="A004976">釋法凝</persName>。<placeName key="CN0620421Z11AA">會州</placeName>人也。俗姓龐氏。初<persName key="A003032">齊武帝</persName>夢遊<lb ed="T" n="0678a28"/><placeName key="CN0620400M01AA">齊山</placeName>。不知在何州縣。散頒天下覓之。時<lb ed="T" n="0678a29"/><placeName key="CN0620421Z11AA">會<ptr target="fn21"/>州</placeName>父老奏稱。去<placeName key="CN0620421Z11AA">州城</placeName>北七里。<placeName key="CN0620400M01AA">臣人山</placeName>是<lb ed="T" n="0678b01"/>舊號<placeName key="CN0620400M01AA">齊山</placeName>。<persName key="A003032">武帝</persName>遣於上立精舍。度僧給田<lb ed="T" n="0678b02"/>業。<persName key="A004976">凝</persName>以童子在先得度。專心持戒道德日<lb ed="T" n="0678b03"/>新。月六年<ptr target="fn22"/>三齋供不斷。但以坐禪為念。出<lb ed="T" n="0678b04"/>禪則誦經。恒常入禪。百姓爭往看。而不敢<lb ed="T" n="0678b05"/>入。唯於窓中遙見。動經一月。出猶不食。大<lb ed="T" n="0678b06"/>德名僧多往勸<persName key="A004976">之</persName>。雖復進食漸漸微少。後<lb ed="T" n="0678b07"/>年至七十。於佛像前置座而坐。初燒一指<lb ed="T" n="0678b08"/>晝夜不動。火然及臂。諸人與弟子欲往撲<lb ed="T" n="0678b09"/>滅。及有叫喚者。復有禁止不聽者。臂然火<lb ed="T" n="0678b10"/>焰彌熾。遂及身。七日七夜。時俗男女有號<lb ed="T" n="0678b11"/>哭自搥者。又有頂禮讚歎者。至身盡唯<ptr target="fn23"/>一<lb ed="T" n="0678b12"/>聚灰。眾共理之。於上起塔。今唯有一精舍<lb ed="T" n="0678b13"/>在。餘皆摧滅。</p>
+    <p><anchor n="T.50.2060.0678a27"/><lb ed="T" n="0678a27"/><persName key="A004976">釋法凝</persName>。<placeName key="PL000000044792">會州</placeName>人也。俗姓龐氏。初<persName key="A003032">齊武帝</persName>夢遊<lb ed="T" n="0678a28"/><placeName key="PL000000044777">齊山</placeName>。不知在何州縣。散頒天下覓之。時<lb ed="T" n="0678a29"/><placeName key="PL000000044792">會<ptr target="fn21"/>州</placeName>父老奏稱。去<placeName key="PL000000044792">州城</placeName>北七里。<placeName key="PL000000044777">臣人山</placeName>是<lb ed="T" n="0678b01"/>舊號<placeName key="PL000000044777">齊山</placeName>。<persName key="A003032">武帝</persName>遣於上立精舍。度僧給田<lb ed="T" n="0678b02"/>業。<persName key="A004976">凝</persName>以童子在先得度。專心持戒道德日<lb ed="T" n="0678b03"/>新。月六年<ptr target="fn22"/>三齋供不斷。但以坐禪為念。出<lb ed="T" n="0678b04"/>禪則誦經。恒常入禪。百姓爭往看。而不敢<lb ed="T" n="0678b05"/>入。唯於窓中遙見。動經一月。出猶不食。大<lb ed="T" n="0678b06"/>德名僧多往勸<persName key="A004976">之</persName>。雖復進食漸漸微少。後<lb ed="T" n="0678b07"/>年至七十。於佛像前置座而坐。初燒一指<lb ed="T" n="0678b08"/>晝夜不動。火然及臂。諸人與弟子欲往撲<lb ed="T" n="0678b09"/>滅。及有叫喚者。復有禁止不聽者。臂然火<lb ed="T" n="0678b10"/>焰彌熾。遂及身。七日七夜。時俗男女有號<lb ed="T" n="0678b11"/>哭自搥者。又有頂禮讚歎者。至身盡唯<ptr target="fn23"/>一<lb ed="T" n="0678b12"/>聚灰。眾共理之。於上起塔。今唯有一精舍<lb ed="T" n="0678b13"/>在。餘皆摧滅。</p>
     <linkGrp>
         <link targets="#0678a27 #0678a27"/>
         <ptr target="#A004976" type="person"/>
-        <ptr target="#CN0620421Z11AA" type="place"/>
+        <ptr target="#PL000000044792" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0678a27 #0678b05"/>
         <ptr target="#A004976" type="person"/>
-        <ptr target="#CN0620400M01AA" type="place"/>
+        <ptr target="#PL000000044777" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0678b07 #0678b12"/>
         <ptr target="#A004976" type="person"/>
-        <ptr target="#CN0620400M01AA" type="place"/>
+        <ptr target="#PL000000044777" type="place"/>
     </linkGrp>
 </div>

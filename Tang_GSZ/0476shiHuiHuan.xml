@@ -1,28 +1,28 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0577a26shiHuiHuan">
-    <p><anchor n="T.50.2060.0577a26"/><lb ed="T" n="0577a26"/><persName key="A006101">釋慧歡</persName>。俗姓管氏。<placeName key="CN0610423Z08AA">京兆雲陽</placeName>人也。弱齡厭俗<lb ed="T" n="0577a27"/>深慕出家。迫以恒<ptr target="fn13"/>日取拔無路。歷任僚<lb ed="T" n="0577a28"/>署頻經涼暑。年逾壯齒方蒙本遂。<date key="j19321731932537" from-iso="0578-01-03" to-iso="0579-01-02">三十有<lb ed="T" n="0577a29"/>七</date><ptr target="fn14"/>被緇在道。依<placeName key="CN0610102T25AA">清禪寺</placeName><persName key="A005988">崇公</persName>諮受定法<lb ed="T" n="0577b01"/>攝心儀體存息短長。觀覺安立冷然祛寫。<lb ed="T" n="0577b02"/>兼以志得林泉銷形人世。<ptr target="fn15"/>損略塵欲。山學<lb ed="T" n="0577b03"/>推先。嘗經行山頂誤墮高巖。<ptr target="fn16"/>乃石上端居<lb ed="T" n="0577b04"/>不忘禪念。其感靈如此。<date key="j19416661942031" from-iso="0604-01-01" to-iso="0604-12-31">逮<persName key="A004324">隋文</persName>晏駕</date>。<date key="j19427971943151" from-iso="0607-02-05" to-iso="0608-01-25">建<placeName key="CN0610113T16AA">大<lb ed="T" n="0577b05"/>伽藍</placeName></date>。以<persName key="A006101">歡</persName>志德潛被。召而供養。<date key="j19439201943948" from-iso="0610-03-04" to-iso="0610-04-01">大業六年二<lb ed="T" n="0577b06"/>月</date>卒<placeName key="CN0610113T16AA">大禪定道場</placeName>。春秋六十有九。遺令施形<lb ed="T" n="0577b07"/>寒林之下。弟子等敢從德義。送於終南<ptr target="fn17"/><placeName key="CN0610116M01AA">梗<lb ed="T" n="0577b08"/>梓谷</placeName>中。率諸道俗立銘樹塔矣。</p>
+    <p><anchor n="T.50.2060.0577a26"/><lb ed="T" n="0577a26"/><persName key="A006101">釋慧歡</persName>。俗姓管氏。<placeName key="PL000000043083">京兆雲陽</placeName>人也。弱齡厭俗<lb ed="T" n="0577a27"/>深慕出家。迫以恒<ptr target="fn13"/>日取拔無路。歷任僚<lb ed="T" n="0577a28"/>署頻經涼暑。年逾壯齒方蒙本遂。<date key="j19321731932537" from-iso="0578-01-03" to-iso="0579-01-02">三十有<lb ed="T" n="0577a29"/>七</date><ptr target="fn14"/>被緇在道。依<placeName key="PL000000042134">清禪寺</placeName><persName key="A005988">崇公</persName>諮受定法<lb ed="T" n="0577b01"/>攝心儀體存息短長。觀覺安立冷然祛寫。<lb ed="T" n="0577b02"/>兼以志得林泉銷形人世。<ptr target="fn15"/>損略塵欲。山學<lb ed="T" n="0577b03"/>推先。嘗經行山頂誤墮高巖。<ptr target="fn16"/>乃石上端居<lb ed="T" n="0577b04"/>不忘禪念。其感靈如此。<date key="j19416661942031" from-iso="0604-01-01" to-iso="0604-12-31">逮<persName key="A004324">隋文</persName>晏駕</date>。<date key="j19427971943151" from-iso="0607-02-05" to-iso="0608-01-25">建<placeName key="PL000000042422">大<lb ed="T" n="0577b05"/>伽藍</placeName></date>。以<persName key="A006101">歡</persName>志德潛被。召而供養。<date key="j19439201943948" from-iso="0610-03-04" to-iso="0610-04-01">大業六年二<lb ed="T" n="0577b06"/>月</date>卒<placeName key="PL000000042422">大禪定道場</placeName>。春秋六十有九。遺令施形<lb ed="T" n="0577b07"/>寒林之下。弟子等敢從德義。送於終南<ptr target="fn17"/><placeName key="PL000000042497">梗<lb ed="T" n="0577b08"/>梓谷</placeName>中。率諸道俗立銘樹塔矣。</p>
     <linkGrp>
         <link targets="#0577a26 #0577a26"/>
         <ptr target="#A006101" type="person"/>
-        <ptr target="#CN0610423Z08AA" type="place"/>
+        <ptr target="#PL000000043083" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0577a28 #0577b01"/>
         <ptr target="#A006101" type="person"/>
         <ptr target="#A005988" type="person"/>
-        <ptr target="#CN0610102T25AA" type="place"/>
+        <ptr target="#PL000000042134" type="place"/>
         <ptr target="#j19321731932537" type="time"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0577b04 #0577b05"/>
         <ptr target="#A006101" type="person"/>
-        <ptr target="#CN0610113T16AA" type="place"/>
+        <ptr target="#PL000000042422" type="place"/>
         <ptr target="#j19427971943151" type="time"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0577b05 #0577b06"/>
         <ptr target="#A006101" type="person"/>
-        <ptr target="#CN0610113T16AA" type="place"/>
+        <ptr target="#PL000000042422" type="place"/>
         <ptr target="#j19439201943948" type="time"/>
     </linkGrp>
 </div>

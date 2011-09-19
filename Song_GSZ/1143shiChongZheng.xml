@@ -7,8 +7,8 @@
         <lb ed="T" n="0863a15"/>奇。雖通群籍，所精者俱舍論，相國<persName key="A008502">王公縉</persName>
 <lb ed="T" n="0863a16"/>躬請<persName key="A013536">政</persName>宣講。于時談叢發秀，美曲流音，屬
 <lb ed="T" n="0863a17"/>聽無厭，雖移辰歷晷，謂如食頃焉。其剖判
-        <lb ed="T" n="0863a18"/>尤長，無得形似矣。<persName key="A004379">代宗皇帝</persName>下詔徵為<placeName key="CN0610102T61AA">章
-<lb ed="T" n="0863a19"/>信寺</placeName>大德，稱疾不赴。終于<placeName key="CN0140110T10AA">本院</placeName>，春秋五十
+        <lb ed="T" n="0863a18"/>尤長，無得形似矣。<persName key="A004379">代宗皇帝</persName>下詔徵為<placeName key="PL000000042180">章
+<lb ed="T" n="0863a19"/>信寺</placeName>大德，稱疾不赴。終于<placeName key="PL000000003781">本院</placeName>，春秋五十
 <lb ed="T" n="0863a20"/>八云。</p>
     <linkGrp>
         <link targets="#0863a12 #0863a16"/>
@@ -23,6 +23,6 @@
     <linkGrp>
         <link targets="#0863a19 #0863a20"/>
         <ptr target="#A013536" type="person"/>
-        <ptr target="#CN0140110T10AA" type="place"/>
+        <ptr target="#PL000000003781" type="place"/>
     </linkGrp>
 </div>

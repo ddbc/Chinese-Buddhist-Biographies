@@ -9,7 +9,7 @@
 <lb ed="T" n="0848c15"/>至衡嶽寺<!--找不到此地-->，憩息月餘。甞於寺<!--找不到此地-->閑齋，獨自尋
 <lb ed="T" n="0848c16"/>繹疏義，復自咎責曰：「所解義理，莫違聖意
 <lb ed="T" n="0848c17"/>乎？」<anchor xml:id="beg0848003"/>況<anchor xml:id="end0848003"/>思兀然，偶舉首見老僧振錫而入，
-        <lb ed="T" n="0848c18"/>曰：「<persName key="A012859">師</persName>讀何經論？窮何義理？」<persName key="A012859">𧦪</persName>疑其<placeName key="CN0430412M01AA">名嶽</placeName>之
+        <lb ed="T" n="0848c18"/>曰：「<persName key="A012859">師</persName>讀何經論？窮何義理？」<persName key="A012859">𧦪</persName>疑其<placeName key="PL000000028928">名嶽</placeName>之
 <lb ed="T" n="0848c19"/>內，車轍原中，羅漢混凡，曾何可測？乃自述本
 <lb ed="T" n="0848c20"/>緣，因加悔責。又曰：「儻蒙賢達指南，請受甘
 <lb ed="T" n="0848c21"/>心，鈐口結舌，不復開演矣。」老僧笑曰：「<persName key="A012859">師</persName>識
@@ -27,7 +27,7 @@
 <lb ed="T" n="0849a04"/>徵其數。老僧曰：「爾後二十年，方可歸開法
 <lb ed="T" n="0849a05"/>席。今且周遊，未宜講說也。」言訖而去。<persName key="A012859">𧦪</persName>由
 <lb ed="T" n="0849a06"/>是精進道力，不倦研摩，義味滋多，志在傳
-<lb ed="T" n="0849a07"/>授。至二十年，却歸河<anchor xml:id="beg0849001"/>比<anchor xml:id="end0849001"/>，盛化<placeName key="CN0130423Z22AA">鄴</placeName>中，聽眾
+<lb ed="T" n="0849a07"/>授。至二十年，却歸河<anchor xml:id="beg0849001"/>比<anchor xml:id="end0849001"/>，盛化<placeName key="PL000000001481">鄴</placeName>中，聽眾
 <lb ed="T" n="0849a08"/>盈千數人，皆年二十已來，其老者無二三
 <lb ed="T" n="0849a09"/>人焉。</p>
     <p xml:id="pT50p0849a1001"><lb ed="T" n="0849a10"/>系曰：中有末位，變定難移。今世所修，必招
@@ -38,11 +38,11 @@
     <linkGrp>
         <link targets="#0848c15 #0849a07"/>
         <ptr target="#A012859" type="person"/>
-        <ptr target="#CN0430412M01AA" type="place"/>
+        <ptr target="#PL000000028928" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0849a06 #0849a09"/>
         <ptr target="#A012859" type="person"/>
-        <ptr target="#CN0130423Z22AA" type="place"/>
+        <ptr target="#PL000000001481" type="place"/>
     </linkGrp>
 </div>

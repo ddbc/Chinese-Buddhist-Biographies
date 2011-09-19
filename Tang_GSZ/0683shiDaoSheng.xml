@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0674c23shiDaoSheng">
-    <p><anchor n="T.50.2060.0674c23"/><lb ed="T" n="0674c23"/><persName key="A007238">釋道生</persName>。<placeName key="CN0140881Z15AA">蒲州</placeName>人。<persName key="A001779">延統</persName>是<persName key="A007238">其</persName>師也。名父之子係<lb ed="T" n="0674c24"/>迹厥師。雖雅尚未齊。而思力方遠。仁正致<lb ed="T" n="0674c25"/>懷聲色無染。受持戒護耽詠文言。四分一<lb ed="T" n="0674c26"/>律薄霑聲教。講誨時揚器法難擬。住<placeName key="CN0610103T03AA">興善<lb ed="T" n="0674c27"/>寺</placeName>。卓卓標異。目不斜眄。威儀安<ptr target="fn18"/>帖。眾敬憚<lb ed="T" n="0674c28"/>之。<date key="j19409671941349" from-iso="0602-02-01" to-iso="0603-02-18">仁壽二年</date>。勅召送舍利于<placeName key="CN0320803Z25AA">楚州</placeName>。初停公<lb ed="T" n="0674c29"/>館。感一野鹿直入城門。防人牽來詣舍利<lb ed="T" n="0675a01"/>所。自然屈拜馴善安隱。<persName key="A007238">生</persName>曰。爾為舍利可<lb ed="T" n="0675a02"/>上升階。必若他緣隨意而去。鹿聞此語遂<lb ed="T" n="0675a03"/>即升階。出入帳前往還無難。乃為說歸戒。<lb ed="T" n="0675a04"/>鹿乃頓頭香案。如有聽受。因以繒帛繫<lb ed="T" n="0675a05"/>之。即舐人手。夜臥輿邊。或往<persName key="A007238">生</persName>房經停兩<lb ed="T" n="0675a06"/>宿。自然退出還歸荒野。及當下日。白鶴兩<lb ed="T" n="0675a07"/>雙飛旋塔上。覆訖方逝。<persName key="A007238">生</persName>覩斯瑞。與諸僚<lb ed="T" n="0675a08"/>屬具表以聞。并銘斯事在于塔所。既還<placeName key="CN0610102Z14AA">京<lb ed="T" n="0675a09"/>室</placeName>。不測所終。</p>
+    <p><anchor n="T.50.2060.0674c23"/><lb ed="T" n="0674c23"/><persName key="A007238">釋道生</persName>。<placeName key="PL000000005199">蒲州</placeName>人。<persName key="A001779">延統</persName>是<persName key="A007238">其</persName>師也。名父之子係<lb ed="T" n="0674c24"/>迹厥師。雖雅尚未齊。而思力方遠。仁正致<lb ed="T" n="0674c25"/>懷聲色無染。受持戒護耽詠文言。四分一<lb ed="T" n="0674c26"/>律薄霑聲教。講誨時揚器法難擬。住<placeName key="PL000000042218">興善<lb ed="T" n="0674c27"/>寺</placeName>。卓卓標異。目不斜眄。威儀安<ptr target="fn18"/>帖。眾敬憚<lb ed="T" n="0674c28"/>之。<date key="j19409671941349" from-iso="0602-02-01" to-iso="0603-02-18">仁壽二年</date>。勅召送舍利于<placeName key="PL000000010514">楚州</placeName>。初停公<lb ed="T" n="0674c29"/>館。感一野鹿直入城門。防人牽來詣舍利<lb ed="T" n="0675a01"/>所。自然屈拜馴善安隱。<persName key="A007238">生</persName>曰。爾為舍利可<lb ed="T" n="0675a02"/>上升階。必若他緣隨意而去。鹿聞此語遂<lb ed="T" n="0675a03"/>即升階。出入帳前往還無難。乃為說歸戒。<lb ed="T" n="0675a04"/>鹿乃頓頭香案。如有聽受。因以繒帛繫<lb ed="T" n="0675a05"/>之。即舐人手。夜臥輿邊。或往<persName key="A007238">生</persName>房經停兩<lb ed="T" n="0675a06"/>宿。自然退出還歸荒野。及當下日。白鶴兩<lb ed="T" n="0675a07"/>雙飛旋塔上。覆訖方逝。<persName key="A007238">生</persName>覩斯瑞。與諸僚<lb ed="T" n="0675a08"/>屬具表以聞。并銘斯事在于塔所。既還<placeName key="PL000000042196">京<lb ed="T" n="0675a09"/>室</placeName>。不測所終。</p>
     <linkGrp>
         <link targets="#0674c23 #0674c23"/>
         <ptr target="#A007238" type="person"/>
-        <ptr target="#CN0140881Z15AA" type="place"/>
+        <ptr target="#PL000000005199" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0674c23 #0674c24"/>
@@ -14,7 +14,7 @@
     <linkGrp>
         <link targets="#0674c26 #0674c27"/>
         <ptr target="#A007238" type="person"/>
-        <ptr target="#CN0610103T03AA" type="place"/>
+        <ptr target="#PL000000042218" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0674c28 #0675a08"/>
@@ -25,12 +25,12 @@
     <linkGrp>
         <link targets="#0674c28 #0675a08"/>
         <ptr target="#A007238" type="person"/>
-        <ptr target="#CN0320803Z25AA" type="place"/>
+        <ptr target="#PL000000010514" type="place"/>
         <ptr target="#j19409671941349" type="time"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0675a08 #0675a09"/>
         <ptr target="#A007238" type="person"/>
-        <ptr target="#CN0610102Z14AA" type="place"/>
+        <ptr target="#PL000000042196" type="place"/>
         </linkGrp>
 </div>

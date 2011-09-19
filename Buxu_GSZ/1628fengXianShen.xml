@@ -5,7 +5,7 @@
         <lb ed="X" n="0409b15"/>方。時聞僧問<persName key="A000174">法眼</persName>。如何是色。<persName key="A000174">眼</persName>豎起拂子。或曰。雞冠
         <lb ed="X" n="0409b16"/>花。或曰貼肉汗衫。二人特往請益。問曰。承聞和尚有
         <lb ed="X" n="0409b17"/>三種色語。是否。<persName key="A000174">眼</persName>曰。是。<persName key="A020463">深</persName>曰。[(采-木+(工/山))*鳥]子過新羅。便歸眾。時
-        <lb ed="X" n="0409b18"/><persName key="unknown">李主</persName>在座下不肯。乃白<persName key="A000174">法眼</persName>曰。寡人。來日致茶筵。請
+        <lb ed="X" n="0409b18"/><persName key="A021837">李主</persName>在座下不肯。乃白<persName key="A000174">法眼</persName>曰。寡人。來日致茶筵。請
         <lb ed="X" n="0409b19"/>二人重新問話。明日茶罷。備綵一箱劒一口。謂二<persName key="A020463">深</persName>
         <lb ed="X" n="0409b20"/>曰。上座若問話得是。奉賞雜綵一箱。若問不是。祇賜
         <lb ed="X" n="0409b21"/>一劒。<persName key="A000174">法眼</persName>陞座。<persName key="A020463">深</persName>復出問。今日奉敕問話。師還許也
@@ -14,9 +14,50 @@
         <lb ed="X" n="0409b24"/>承聞二上座。久在<persName key="A003703">雲門</persName>。有甚奇特因緣。舉一兩則來
         <lb ed="X" n="0409c01"/>商量看。<persName key="A020463">深</persName>曰。古人道。白鷺下田千點雪。黃鶯上樹一
         <lb ed="X" n="0409c02"/>枝花。維那作麼生商量。<persName key="A003941">燈</persName>擬議。<persName key="A020463">深</persName>打一座具。便歸眾。
-        <lb ed="X" n="0409c03"/><persName key="A020463">深</persName>同<persName key="A020466">明</persName>和尚。到淮河。見人牽網。有魚從網透出。<persName key="A020463">深</persName>曰。
+        <lb ed="X" n="0409c03"/><persName key="A020463">深</persName>同<persName key="A020466">明</persName>和尚。到<placeName key="PL000000000195">淮河</placeName>。見人牽網。有魚從網透出。<persName key="A020463">深</persName>曰。
         <lb ed="X" n="0409c04"/><persName key="A020466">明</persName>兄俊哉。一似箇衲僧相似。<persName key="A020466">明</persName>曰。雖然如此。爭如當
         <lb ed="X" n="0409c05"/>初不撞入網羅好。<persName key="A020463">深</persName>曰。<persName key="A020466">明</persName>兄你欠悟在。明至中夜方
-        <lb ed="X" n="0409c06"/>省。二師並出世<placeName key="CN0320115Z25AA">金陵</placeName>。<persName key="A020463">深</persName>于<placeName key="CN0320114T23AA">奉先</placeName>。<persName key="A020466">明</persName>于<placeName key="CN0320106T25AA">清凉</placeName>。皆江南主
-        <lb ed="X" n="0409c07"/>[虔-文+ㄆ]請也。蓮華<persName key="A017895">祥庵主</persName>。<persName key="A020463">深</persName>之嗣。<persName key="A014322">西峰豁</persName>公。<persName key="A020466">明</persName>之嗣。別具。</p>
+        <lb ed="X" n="0409c06"/>省。二師並出世<placeName key="PL000000009248">金陵</placeName>。<persName key="A020463">深</persName>于<placeName key="PL000000009084">奉先</placeName>。<persName key="A020466">明</persName>于<placeName key="PL000000008950">清凉</placeName>。皆<placeName key="PL000000000197">江南</placeName>主
+        <lb ed="X" n="0409c07"/>[虔-文+ㄆ]請也。<persName key="A017895">蓮華祥庵主</persName>。<persName key="A020463">深</persName>之嗣。<persName key="A014322">西峰豁</persName>公。<persName key="A020466">明</persName>之嗣。別具。</p>
+    
+    <linkGrp>
+        <link targets="#0409b14 #0409b14"/>
+        <ptr target="#A020463" type="person"/>
+        <ptr target="#A020466" type="person"/>
+        <ptr target="#A003703" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0409b14 #0409c02"/>
+        <ptr target="#A020463" type="person"/>
+        <ptr target="#A020466" type="person"/>
+        <ptr target="#A000174" type="person"/>
+        <ptr target="#A021837" type="person"/>
+        <ptr target="#A003941" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0409c03 #0409c05"/>
+        <ptr target="#A020463" type="person"/>
+        <ptr target="#A020466" type="person"/>
+        <ptr target="#PL000000000195" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0409c06 #0409c07"/>
+        <ptr target="#A020463" type="person"/>
+        <ptr target="#PL000000009084" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0409c07 #0409c07"/>
+        <ptr target="#A020463" type="person"/>
+        <ptr target="#A017895" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0409c06 #0409c07"/>
+        <ptr target="#A020466" type="person"/>
+        <ptr target="#PL000000008950" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0409c07 #0409c07"/>
+        <ptr target="#A020466" type="person"/>
+        <ptr target="#A014322" type="person"/>
+    </linkGrp>
 </div>

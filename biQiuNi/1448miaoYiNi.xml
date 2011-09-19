@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="bqnz0947b25miaoYiNi">
-    <head><placeName key="CN0000000T17AA">西青園寺</placeName><persName key="A016216">妙禕</persName>尼<ptr target="fn30"/>傳十一</head><p><anchor n="T.50.2063.0947b26"/><lb ed="T" n="0947b26"/><persName key="A016216">妙禕</persName>，本姓劉，<placeName key="CN0320106Z05AA">建康</placeName>人也。齠<ptr target="fn31"/>綺之年，而神機<lb ed="T" n="0947b27"/>秀<ptr target="fn32"/>發。幼出家，住<placeName key="CN0000000T17AA">西青園寺</placeName>。戒行無點，神情超<lb ed="T" n="0947b28"/>悟，<ptr target="fn33"/>敦信布惠，莫不懷之。雅好談說，尤善<ptr target="fn34"/>言<lb ed="T" n="0947b29"/>笑。講大涅槃<ptr target="fn35"/>經、法華、十地，並三十餘遍。十<lb ed="T" n="0947c01"/>誦、毘尼<ptr target="fn36"/>每經敷說，隨方導物，利益弘多。年七<lb ed="T" n="0947c02"/>十，<ptr target="fn＊"/><date from-iso="0513-01-24" key="j19084531908836" to-iso="0514-02-11">天監十二年</date>卒也。</p>
+    <head><placeName key="PL000000000180">西青園寺</placeName><persName key="A016216">妙禕</persName>尼<ptr target="fn30"/>傳十一</head><p><anchor n="T.50.2063.0947b26"/><lb ed="T" n="0947b26"/><persName key="A016216">妙禕</persName>，本姓劉，<placeName key="PL000000008975">建康</placeName>人也。齠<ptr target="fn31"/>綺之年，而神機<lb ed="T" n="0947b27"/>秀<ptr target="fn32"/>發。幼出家，住<placeName key="PL000000000180">西青園寺</placeName>。戒行無點，神情超<lb ed="T" n="0947b28"/>悟，<ptr target="fn33"/>敦信布惠，莫不懷之。雅好談說，尤善<ptr target="fn34"/>言<lb ed="T" n="0947b29"/>笑。講大涅槃<ptr target="fn35"/>經、法華、十地，並三十餘遍。十<lb ed="T" n="0947c01"/>誦、毘尼<ptr target="fn36"/>每經敷說，隨方導物，利益弘多。年七<lb ed="T" n="0947c02"/>十，<ptr target="fn＊"/><date from-iso="0513-01-24" key="j19084531908836" to-iso="0514-02-11">天監十二年</date>卒也。</p>
     <linkGrp>
         <link targets="#0947b27 #0947b28"/>
         <ptr target="#A016216" type="person"/>
-        <ptr target="#CN0000000T17AA" type="place"/>
+        <ptr target="#PL000000000180" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0947c01 #0947c02"/>

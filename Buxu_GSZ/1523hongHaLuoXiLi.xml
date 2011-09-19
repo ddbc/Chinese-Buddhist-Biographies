@@ -1,48 +1,48 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0370a21hongHaLuoXiLi">
     <head><lb ed="X" n="0370a21"/>　　　　<persName key="A019653">吽哈囉悉利</persName>傳</head>
-    <p><anchor n="X.77.1524.0370a22"/><lb ed="X" n="0370a22"/><persName key="A019653">吽哈囉悉利</persName>。本北印度<placeName key="IN0000000E08AA">末光闥國</placeName>人。住<placeName key="INBRGA000M02AA">鷄足山</placeName>。誦諸
+    <p><anchor n="X.77.1524.0370a22"/><lb ed="X" n="0370a22"/><persName key="A019653">吽哈囉悉利</persName>。本北印度<placeName key="PL000000048214">末光闥國</placeName>人。住<placeName key="PL000000048244">鷄足山</placeName>。誦諸
         <lb ed="X" n="0370a23"/>佛密語。有大神力。能袪疾病。伏猛虎。呼召風雨輙應。
         <lb ed="X" n="0370a24"/><date from-iso="1141-02-16" to-iso="1150-01-16" key="j21378482141104">皇統</date>。與其從父弟<persName key="A019654">三磨耶悉利</persName>等七人。來至境上。請
-        <lb ed="X" n="0370b01"/>游<placeName key="CN0140900M01AA">清凉山</placeName>禮<persName key="A002144">文殊</persName>。朝命納之。既游<placeName key="CN0140900M01AA">清凉</placeName>。又游<placeName key="CN1100000T02AA">靈巖</placeName>。禮
+        <lb ed="X" n="0370b01"/>游<placeName key="PL000000005250">清凉山</placeName>禮<persName key="A002144">文殊</persName>。朝命納之。既游<placeName key="PL000000005250">清凉</placeName>。又游<placeName key="PL000000048188">靈巖</placeName>。禮
         <lb ed="X" n="0370b02"/><persName key="A002803">觀音</persName>像。旋繞必千匝而後已。匝必作禮。禮必盡敬無
         <lb ed="X" n="0370b03"/>間。日日受稻飯一杯。座有賓客。分與必徧。自食其餘。
-        <lb ed="X" n="0370b04"/>數粒必結齋。始至<placeName key="CN0370112Z03AA">濟南</placeName>。建<placeName key="CN0370100T01AA">文殊真容寺</placeName>。留<persName key="A019654">三磨耶</persName>主
-        <lb ed="X" n="0370b05"/>之。至棣又建<placeName key="CN0371621T02AA">三學寺</placeName>。<date from-iso="1165-05-19" to-iso="1165-06-17" key="j21467062146735">大定五年四月</date>。示寂於<placeName key="CN0371621T02AA">三學</placeName>。年
+        <lb ed="X" n="0370b04"/>數粒必結齋。始至<placeName key="PL000000020278">濟南</placeName>。建<placeName key="PL000000020240">文殊真容寺</placeName>。留<persName key="A019654">三磨耶</persName>主
+        <lb ed="X" n="0370b05"/>之。至棣又建<placeName key="PL000000022579">三學寺</placeName>。<date from-iso="1165-05-19" to-iso="1165-06-17" key="j21467062146735">大定五年四月</date>。示寂於<placeName key="PL000000022579">三學</placeName>。年
         <lb ed="X" n="0370b06"/>六十三。</p>
     
     <linkGrp>
         <link targets="#0370a22 #0370a22"/>
         <ptr target="#A019653" type="person"/>
-        <ptr target="#IN0000000E08AA" type="place"/>
+        <ptr target="#PL000000048214" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0370a22 #0370a23"/>
         <ptr target="#A019653" type="person"/>
-        <ptr target="#INBRGA000M02AA" type="place"/>
+        <ptr target="#PL000000048244" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0370a24 #0370b01"/>
         <ptr target="#A019653" type="person"/>
         <ptr target="#A019654" type="person"/>
-        <ptr target="#CN0140900M01AA" type="place"/>
+        <ptr target="#PL000000005250" type="place"/>
         <ptr target="#j21378482141104" type="time"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0370b01 #0370b02"/>
         <ptr target="#A019653" type="person"/>
-        <ptr target="#CN1100000T02AA" type="place"/>
+        <ptr target="#PL000000048188" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0370b04 #0370b05"/>
         <ptr target="#A019653" type="person"/>
         <ptr target="#A019654" type="person"/>
-        <ptr target="#CN0370100T01AA" type="place"/>
+        <ptr target="#PL000000020240" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0370b05 #0370b06"/>
         <ptr target="#A019653" type="person"/>
-        <ptr target="#CN0371621T02AA" type="place"/>
+        <ptr target="#PL000000022579" type="place"/>
         <ptr target="#j21467062146735" type="time"/>
     </linkGrp>
 </div>

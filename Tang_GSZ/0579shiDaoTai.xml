@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0645b01shiDaoTai">
-    <p><anchor n="T.50.2060.0645b01"/><lb ed="T" n="0645b01"/><persName key="A006803">釋道泰</persName>。<date key="j19027751916335" notAfter-iso="0534" notBefore-iso="0497">元魏末</date>人。住常山<placeName key="CN0130123T01AA">衡唐精舍</placeName>。夢人謂<lb ed="T" n="0645b02"/>曰。若至某年。當終於四十二矣。<persName key="A006803">泰</persName><ptr target="fn14"/>彌惡<lb ed="T" n="0645b03"/>之。及至期年遇重病。甚憂悉以身資為<lb ed="T" n="0645b04"/>福。友人曰。余聞供養六十二億菩薩。與一<lb ed="T" n="0645b05"/>稱<persName key="A002803">觀世音</persName>同。君何不至心歸依。可必增壽。<lb ed="T" n="0645b06"/><persName key="A006803">泰</persName>乃感悟。遂於四日四夜專精不絕。所坐<lb ed="T" n="0645b07"/>帷下忽見光明從戶外而入。見<persName key="A002803">觀音</persName>足趺<lb ed="T" n="0645b08"/>踝間金色朗照。語<persName key="A006803">泰</persName><ptr target="fn15"/>曰。念<persName key="A002803">觀世音</persName>耶。比<lb ed="T" n="0645b09"/><persName key="A006803">泰</persName>褰帷<ptr target="fn16"/>頃。便不復見。悲喜流汗便<ptr target="fn17"/>覺輕。<lb ed="T" n="0645b10"/>所患遂愈。年四十四。方為同意說之。<persName key="A006803">泰</persName>後<lb ed="T" n="0645b11"/>終於天命。更有一僧。其緣同<persName key="A006803">泰</persName>。故不疏<lb ed="T" n="0645b12"/>耳。</p>
+    <p><anchor n="T.50.2060.0645b01"/><lb ed="T" n="0645b01"/><persName key="A006803">釋道泰</persName>。<date key="j19027751916335" notAfter-iso="0534" notBefore-iso="0497">元魏末</date>人。住常山<placeName key="PL000000000843">衡唐精舍</placeName>。夢人謂<lb ed="T" n="0645b02"/>曰。若至某年。當終於四十二矣。<persName key="A006803">泰</persName><ptr target="fn14"/>彌惡<lb ed="T" n="0645b03"/>之。及至期年遇重病。甚憂悉以身資為<lb ed="T" n="0645b04"/>福。友人曰。余聞供養六十二億菩薩。與一<lb ed="T" n="0645b05"/>稱<persName key="A002803">觀世音</persName>同。君何不至心歸依。可必增壽。<lb ed="T" n="0645b06"/><persName key="A006803">泰</persName>乃感悟。遂於四日四夜專精不絕。所坐<lb ed="T" n="0645b07"/>帷下忽見光明從戶外而入。見<persName key="A002803">觀音</persName>足趺<lb ed="T" n="0645b08"/>踝間金色朗照。語<persName key="A006803">泰</persName><ptr target="fn15"/>曰。念<persName key="A002803">觀世音</persName>耶。比<lb ed="T" n="0645b09"/><persName key="A006803">泰</persName>褰帷<ptr target="fn16"/>頃。便不復見。悲喜流汗便<ptr target="fn17"/>覺輕。<lb ed="T" n="0645b10"/>所患遂愈。年四十四。方為同意說之。<persName key="A006803">泰</persName>後<lb ed="T" n="0645b11"/>終於天命。更有一僧。其緣同<persName key="A006803">泰</persName>。故不疏<lb ed="T" n="0645b12"/>耳。</p>
     <linkGrp>
         <link targets="#0645b01 #0645b01"/>
         <ptr target="#A006803" type="person"/>
-        <ptr target="#CN0130123T01AA" type="place"/>
+        <ptr target="#PL000000000843" type="place"/>
         <ptr target="#j19027751916335" type="time"/>
         </linkGrp>
 </div>

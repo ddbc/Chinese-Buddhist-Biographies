@@ -1,15 +1,15 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0339a03foTuoShi">
-	<p><anchor n="T.50.2059.0339a03"/><lb ed="T" n="0339a03"/><persName key="A000436">佛馱什</persName>，此云<persName key="A000436">覺壽</persName>，<placeName key="PKNWPS000E01AA">罽賓</placeName>人。少受業於彌沙<lb ed="T" n="0339a04"/>塞部僧，專精律品，兼達禪要，以宋<date key="j18757931875821" from-iso="0423-08-24" to-iso="0423-09-21">景平元<lb ed="T" n="0339a05"/>年七月</date>屆于<placeName key="CN0320106Z01AA">揚州</placeName>。先沙門<persName key="A000750">法顯</persName>，於<placeName key="LK0000000E01AA">師子國</placeName><lb ed="T" n="0339a06"/>得《彌沙塞律》梵本，未<ptr target="fn01"/>被翻譯，而<persName key="A000750">法顯</persName>遷化，<lb ed="T" n="0339a07"/><placeName key="CN0320106Z05AA">京邑</placeName>諸僧聞<persName key="A000436">什</persName>既善此學，於是請令出焉。<lb ed="T" n="0339a08"/>以其<date key="j18759111875939" from-iso="0423-12-20" to-iso="0424-01-17">年冬十一月</date>集于<placeName key="CN0320101T15AA">龍光寺</placeName>，譯為三十<lb ed="T" n="0339a09"/>四卷，稱為《五分律》。<persName key="A000436">什</persName>執梵文，<placeName key="CN0653221Z09AA">于<ptr target="fn02"/>闐</placeName>沙門<persName key="A002612">智<lb ed="T" n="0339a10"/>勝</persName>為譯，<placeName key="CN0320101T15AA">龍光</placeName><persName key="A001502">道生</persName>、<placeName key="CN0320115T63AA">東安</placeName><persName key="A001741">慧嚴</persName>共執筆參正，宋<lb ed="T" n="0339a11"/>侍中<placeName key="CN0371302Z24AA">瑯瑘</placeName><persName key="A002614">王練</persName>為檀越，至<date key="j18759111876087" notAfter-iso="0424-06" notBefore-iso="0423-12">明年四月</date>方竟。<lb ed="T" n="0339a12"/>仍於大部抄出戒心及羯磨文等，並行於世。<persName key="A000436">什</persName>後不知所終。</p>
+	<p><anchor n="T.50.2059.0339a03"/><lb ed="T" n="0339a03"/><persName key="A000436">佛馱什</persName>，此云<persName key="A000436">覺壽</persName>，<placeName key="PL000000049232">罽賓</placeName>人。少受業於彌沙<lb ed="T" n="0339a04"/>塞部僧，專精律品，兼達禪要，以宋<date key="j18757931875821" from-iso="0423-08-24" to-iso="0423-09-21">景平元<lb ed="T" n="0339a05"/>年七月</date>屆于<placeName key="PL000000008971">揚州</placeName>。先沙門<persName key="A000750">法顯</persName>，於<placeName key="PL000000048734">師子國</placeName><lb ed="T" n="0339a06"/>得《彌沙塞律》梵本，未<ptr target="fn01"/>被翻譯，而<persName key="A000750">法顯</persName>遷化，<lb ed="T" n="0339a07"/><placeName key="PL000000008975">京邑</placeName>諸僧聞<persName key="A000436">什</persName>既善此學，於是請令出焉。<lb ed="T" n="0339a08"/>以其<date key="j18759111875939" from-iso="0423-12-20" to-iso="0424-01-17">年冬十一月</date>集于<placeName key="PL000000008658">龍光寺</placeName>，譯為三十<lb ed="T" n="0339a09"/>四卷，稱為《五分律》。<persName key="A000436">什</persName>執梵文，<placeName key="PL000000047989">于<ptr target="fn02"/>闐</placeName>沙門<persName key="A002612">智<lb ed="T" n="0339a10"/>勝</persName>為譯，<placeName key="PL000000008658">龍光</placeName><persName key="A001502">道生</persName>、<placeName key="PL000000009195">東安</placeName><persName key="A001741">慧嚴</persName>共執筆參正，宋<lb ed="T" n="0339a11"/>侍中<placeName key="PL000000021920">瑯瑘</placeName><persName key="A002614">王練</persName>為檀越，至<date key="j18759111876087" notAfter-iso="0424-06" notBefore-iso="0423-12">明年四月</date>方竟。<lb ed="T" n="0339a12"/>仍於大部抄出戒心及羯磨文等，並行於世。<persName key="A000436">什</persName>後不知所終。</p>
 	<linkGrp>
 		<link targets="#0339a03 #0339a03"/>
 		<ptr target="#A000436" type="person"/>
-		<ptr target="#PKNWPS000E01AA" type="place"/>
+		<ptr target="#PL000000049232" type="place"/>
 	</linkGrp>
 	<linkGrp>
 		<link targets="#0339a05 #0339a06"/>
 		<ptr target="#A000750" type="person"/>
-		<ptr target="#LK0000000E01AA" type="place"/>
+		<ptr target="#PL000000048734" type="place"/>
 	</linkGrp>
 
 
@@ -17,7 +17,7 @@
 	<linkGrp>
 		<link targets="#0339a04 #0339a05"/>
 		<ptr target="#A000436" type="person"/>
-		<ptr target="#CN0320106Z01AA" type="place"/>
+		<ptr target="#PL000000008971" type="place"/>
 		<ptr target="#j18757931875821" type="time"/>
 	</linkGrp>
 	<linkGrp>
@@ -27,7 +27,7 @@
 		<ptr target="#A001502" type="person"/>
 		<ptr target="#A001741" type="person"/>
 		<ptr target="#A002614" type="person"/>
-		<ptr target="#CN0320101T15AA" type="place"/>
+		<ptr target="#PL000000008658" type="place"/>
 		<ptr target="#j18759111876087" type="time"/>
 	</linkGrp>
 </div>

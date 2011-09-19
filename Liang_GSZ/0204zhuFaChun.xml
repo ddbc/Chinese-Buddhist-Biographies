@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0406c21zhuFaChun">
-    <p><anchor n="T.50.2059.0406c21"/><lb ed="T" n="0406c21"/><persName key="A002341">竺法純</persName>，未詳何<ptr target="fn27"/>許人。少出家，止<placeName key="CN0330682T03AA">山陰顯義<lb ed="T" n="0406c22"/>寺</placeName>。苦行有德，善誦《古維摩經》。<date key="j18679371869029" notAfter-iso="0405" notBefore-iso="0402">晉元興中</date>，為<lb ed="T" n="0406c23"/><placeName key="CN0330682T03AA">寺</placeName>上蘭渚買故屋。暮還，於湖中遇風而船<lb ed="T" n="0406c24"/>小。<persName key="A002341">純</persName>唯一心憑觀世音，口誦不輟，俄見一<lb ed="T" n="0406c25"/>大流船，乘之獲免。至岸，訪船無主，須臾不<lb ed="T" n="0406c26"/>見，道俗咸歎神感。後不知所終。</p>
+    <p><anchor n="T.50.2059.0406c21"/><lb ed="T" n="0406c21"/><persName key="A002341">竺法純</persName>，未詳何<ptr target="fn27"/>許人。少出家，止<placeName key="PL000000013395">山陰顯義<lb ed="T" n="0406c22"/>寺</placeName>。苦行有德，善誦《古維摩經》。<date key="j18679371869029" notAfter-iso="0405" notBefore-iso="0402">晉元興中</date>，為<lb ed="T" n="0406c23"/><placeName key="PL000000013395">寺</placeName>上蘭渚買故屋。暮還，於湖中遇風而船<lb ed="T" n="0406c24"/>小。<persName key="A002341">純</persName>唯一心憑觀世音，口誦不輟，俄見一<lb ed="T" n="0406c25"/>大流船，乘之獲免。至岸，訪船無主，須臾不<lb ed="T" n="0406c26"/>見，道俗咸歎神感。後不知所終。</p>
     <linkGrp>
         <link targets="#0406c21 #0406c21"/>
         <ptr target="#A002341" type="person"/>
-        <ptr target="#CN0330682T03AA" type="place"/>
+        <ptr target="#PL000000013395" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0406c22 #0406c26"/>

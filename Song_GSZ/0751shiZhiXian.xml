@@ -1,55 +1,55 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0717b23shiZhiXian">
-    <lb ed="T" n="0717b23"/><anchor n="T.50.2061.0717b23"/><head><date from-iso="0618-06-21" key="j19469512052491" to-iso="0907-06-06">唐</date><placeName key="IDJW00000E01AA">波凌國</placeName><persName key="A000871">智賢</persName>傳（<persName key="A001438">會寧</persName>）</head><p>
-<lb ed="T" n="0717b24"/><persName key="A000871">釋若那跋陀羅</persName>，華言<persName key="A000871">智賢</persName>，<placeName key="IDJW00000E01AA">南海波凌</placeName>（亦曰<placeName key="IDJW00000E01AA">訶凌</placeName>）國
-<lb ed="T" n="0717b25"/>人也，善三藏學。<date from-iso="0664" key="j19636161964354" to-iso="0666">麟德年中</date>，有<placeName key="CN0510108Z11AA">成都</placeName>沙門<persName key="A001438">會
-    <lb ed="T" n="0717b26"/>寧</persName>欲往<placeName key="IN0000000E01AA">天竺</placeName>，觀<anchor xml:id="beg0717sgsz5"/>禮<anchor xml:id="end0717sgsz5"/>聖跡，泛舶西遊，路經
-        <lb ed="T" n="0717b27"/><placeName key="IDJW00000E01AA">波凌</placeName>，遂與<persName key="A000871">智賢</persName>同譯《涅槃》後分二卷。此於
+    <lb ed="T" n="0717b23"/><anchor n="T.50.2061.0717b23"/><head><date from-iso="0618-06-21" key="j19469512052491" to-iso="0907-06-06">唐</date><placeName key="PL000000048202">波凌國</placeName><persName key="A000871">智賢</persName>傳（<persName key="A001438">會寧</persName>）</head><p>
+<lb ed="T" n="0717b24"/><persName key="A000871">釋若那跋陀羅</persName>，華言<persName key="A000871">智賢</persName>，<placeName key="PL000000048202">南海波凌</placeName>（亦曰<placeName key="PL000000048202">訶凌</placeName>）國
+<lb ed="T" n="0717b25"/>人也，善三藏學。<date from-iso="0664" key="j19636161964354" to-iso="0666">麟德年中</date>，有<placeName key="PL000000034785">成都</placeName>沙門<persName key="A001438">會
+    <lb ed="T" n="0717b26"/>寧</persName>欲往<placeName key="PL000000048207">天竺</placeName>，觀<anchor xml:id="beg0717sgsz5"/>禮<anchor xml:id="end0717sgsz5"/>聖跡，泛舶西遊，路經
+        <lb ed="T" n="0717b27"/><placeName key="PL000000048202">波凌</placeName>，遂與<persName key="A000871">智賢</persName>同譯《涅槃》後分二卷。此於
         <lb ed="T" n="0717b28"/>《阿笈摩經》<ptr target="#n310"/>內譯出，說<persName key="A002799">世尊</persName>焚棺、收設利羅<ptr target="#n311"/>
-<lb ed="T" n="0717b29"/>等事，與《大涅槃》頗不相涉。譯畢寄經達<placeName key="VNB64DD00Z02AA">交<pb ed="T" n="0717c" xml:id="T50.2061.0717c"/>
-    <lb ed="T" n="0717c01"/>州</placeName>，<persName key="A001438">寧</persName>方之<placeName key="WW142XIYUE01AA">西域</placeName>。至<date from-iso="0676" key="j19683121968547" to-iso="0677">儀鳳年初</date>，<placeName key="VNB64DD00Z02AA">交州</placeName>都督<persName key="A018714">梁
+<lb ed="T" n="0717b29"/>等事，與《大涅槃》頗不相涉。譯畢寄經達<placeName key="PL000000055211">交<pb ed="T" n="0717c" xml:id="T50.2061.0717c"/>
+    <lb ed="T" n="0717c01"/>州</placeName>，<persName key="A001438">寧</persName>方之<placeName key="PL000000055436">西域</placeName>。至<date from-iso="0676" key="j19683121968547" to-iso="0677">儀鳳年初</date>，<placeName key="PL000000055211">交州</placeName>都督<persName key="A018714">梁
         <lb ed="T" n="0717c02"/>難敵</persName>遣使同<persName key="A001438">會寧</persName>弟子<persName key="A018715">運期</persName>奉表進經，入
-        <lb ed="T" n="0717c03"/><placeName key="CN0610102Z07AA">京</placeName>。<date from-iso="0678-01-31" key="j19687251969108" to-iso="0679-02-18">三年戊寅</date>，<placeName key="CN0610113T05AA">大慈恩寺</placeName>沙門<persName key="A008895">靈會</persName>於<placeName key="CN0610104A03AC">東宮</placeName>
+        <lb ed="T" n="0717c03"/><placeName key="PL000000042189">京</placeName>。<date from-iso="0678-01-31" key="j19687251969108" to-iso="0679-02-18">三年戊寅</date>，<placeName key="PL000000042410">大慈恩寺</placeName>沙門<persName key="A008895">靈會</persName>於<placeName key="PL000000042278">東宮</placeName>
         <lb ed="T" n="0717c04"/>啟請施行。<persName key="A018715">運期</persName>奉侍<ref target="#A001438" type="person">其師</ref>，因心莫比，<ref target="#A001438" type="person">師</ref>令
-<lb ed="T" n="0717c05"/>齎經行化，故無暇影隨往<placeName key="WW142XIYUE01AA">西域</placeName>也。</p> 
+<lb ed="T" n="0717c05"/>齎經行化，故無暇影隨往<placeName key="PL000000055436">西域</placeName>也。</p> 
     <linkGrp>
         <link targets="#0717b24 #00717b25"/>
         <ptr target="#A000871" type="person"/>
-        <ptr target="#IDJW00000E01AA" type="place"/>
+        <ptr target="#PL000000048202" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0717b25 #0717b28"/>
         <ptr target="#A001438" type="person"/>
         <ptr target="#A000871" type="person"/>
-        <ptr target="#IDJW00000E01AA" type="place"/>
+        <ptr target="#PL000000048202" type="place"/>
         <ptr target="#j19636161964354" type="time"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0717c01 #0717c01"/>
         <ptr target="#A001438" type="person"/>
-        <ptr target="#WW142XIYUE01AA" type="place"/>
+        <ptr target="#PL000000055436" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0717c01 #0717c03"/>
         <ptr target="#A018714" type="person"/>
         <ptr target="#A018715" type="person"/>
-        <ptr target="#VNB64DD00Z02AA" type="place"/>
+        <ptr target="#PL000000055211" type="place"/>
         <ptr target="#j19683121968547" type="time"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0717c03 #0717c03"/>
         <ptr target="#A018715" type="person"/>
-        <ptr target="#CN0610102Z07AA" type="place"/>
+        <ptr target="#PL000000042189" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0717c03 #0717c03"/>
         <ptr target="#A008895" type="person"/>
-        <ptr target="#CN0610113T05AA" type="place"/>
+        <ptr target="#PL000000042410" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0717c03 #0717c04"/>
         <ptr target="#A008895" type="person"/>
-        <ptr target="#CN0610104A03AC" type="place"/>
+        <ptr target="#PL000000042278" type="place"/>
         <ptr target="#j19687251969108" type="time"/>
     </linkGrp>
     <linkGrp>

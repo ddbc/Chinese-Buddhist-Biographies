@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0860c29shiHuaiDe">
     <anchor n="T.50.2061.0860c29"/><head><date from-iso="0960-02-09" key="j20717322132856" to-iso="1127-06-18">宋</date>臨淮普照王寺<persName key="A013530">懷德</persName>傳</head><p>
-<lb ed="T" n="0861a01"/><persName key="A013530">釋懷德</persName>，本<placeName key="CN0000007D01AA">江南</placeName>人也。髫年離俗，謹愿飾身，
+<lb ed="T" n="0861a01"/><persName key="A013530">釋懷德</persName>，本<placeName key="PL000000000197">江南</placeName>人也。髫年離俗，謹愿飾身，
 <lb ed="T" n="0861a02"/>誦通法華經，得度。自爾雖登講肆，終以誦
         <lb ed="T" n="0861a03"/>持為專務。晚遊泗上<!--找不到此地-->，禮僧伽塔像。屬<ref type="person" target="#A001640">今上
         </ref><lb ed="T" n="0861a04"/>遣高品<persName key="A019466">李神福</persName>齎<anchor xml:id="fxT50p0861a01"/>旛華上供，并感應舍利
@@ -106,7 +106,7 @@
     <linkGrp>
         <link targets="#0861a01 #0861a01"/>
         <ptr target="#A013530" type="person"/>
-        <ptr target="#CN0000007D01AA" type="place"/>
+        <ptr target="#PL000000000197" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0861a03 #0861a04"/>

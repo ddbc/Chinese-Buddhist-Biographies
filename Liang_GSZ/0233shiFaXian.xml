@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0411b16shiFaXian">
-    <p><anchor n="T.50.2059.0411b16"/><lb ed="T" n="0411b16"/><persName key="A002368">釋法獻</persName>，<placeName key="CN0440104Z36AA">廣州</placeName>人。始居<placeName key="CN0440101T04AA">北寺</placeName>，<placeName key="CN0440101T04AA">寺</placeName>歲久<ptr target="fn11"/>凋衰，<persName key="A002368">獻</persName><lb ed="T" n="0411b17"/>率化有緣，更加治葺，改曰「<placeName key="CN0440101T04AA">延祥</placeName>」。後入藏<lb ed="T" n="0411b18"/><ptr target="fn12"/>薇山創寺，寺成後，有兩童子携手來歌<lb ed="T" n="0411b19"/>云：「藏<ptr target="fn13"/>薇有道德，歡<ptr target="fn14"/>樂方未央。」言終，忽然<lb ed="T" n="0411b20"/>不見。舉寺驚嗟，咸歎神異。<persName key="A002368">獻</persName>後入禪，忽見<lb ed="T" n="0411b21"/>一人來云：「磬繩欲斷，何不治？」<persName key="A002368">獻</persName>驚起往視，<lb ed="T" n="0411b22"/>垂將委地，由<ptr target="fn15"/>其手接，得無折損。<persName key="A002368">獻</persName>出家以<lb ed="T" n="0411b23"/>來，常勸化福事，而棲心禪戒，未嘗虧節。後<lb ed="T" n="0411b24"/>不知所終。</p>
+    <p><anchor n="T.50.2059.0411b16"/><lb ed="T" n="0411b16"/><persName key="A002368">釋法獻</persName>，<placeName key="PL000000030478">廣州</placeName>人。始居<placeName key="PL000000030425">北寺</placeName>，<placeName key="PL000000030425">寺</placeName>歲久<ptr target="fn11"/>凋衰，<persName key="A002368">獻</persName><lb ed="T" n="0411b17"/>率化有緣，更加治葺，改曰「<placeName key="PL000000030425">延祥</placeName>」。後入藏<lb ed="T" n="0411b18"/><ptr target="fn12"/>薇山創寺，寺成後，有兩童子携手來歌<lb ed="T" n="0411b19"/>云：「藏<ptr target="fn13"/>薇有道德，歡<ptr target="fn14"/>樂方未央。」言終，忽然<lb ed="T" n="0411b20"/>不見。舉寺驚嗟，咸歎神異。<persName key="A002368">獻</persName>後入禪，忽見<lb ed="T" n="0411b21"/>一人來云：「磬繩欲斷，何不治？」<persName key="A002368">獻</persName>驚起往視，<lb ed="T" n="0411b22"/>垂將委地，由<ptr target="fn15"/>其手接，得無折損。<persName key="A002368">獻</persName>出家以<lb ed="T" n="0411b23"/>來，常勸化福事，而棲心禪戒，未嘗虧節。後<lb ed="T" n="0411b24"/>不知所終。</p>
     <linkGrp>
         <link targets="#0411b16 #0411b16"/>
         <ptr target="#A002368" type="person"/>
-        <ptr target="#CN0440101T04AA" type="place"/>
+        <ptr target="#PL000000030425" type="place"/>
         </linkGrp>
 </div>

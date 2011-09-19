@@ -1,8 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><div xml:id="mscc0355b12tanMoMiDuo" xmlns="http://www.tei-c.org/ns/1.0"><head>宋<placeName key="CN0320102T19AA">宗照寺</placeName><persName key="A002643">僧伽羅多哆</persName></head><p><anchor n="X.77.1523.0355b01"/><lb ed="X" n="0355b12"/>僧伽羅多哆(梁言<persName key="A002643">僧濟</persName>)。<placeName key="CN0650000E01AA">西域</placeName>人也。少失二親。又無兄弟。師<lb ed="X" n="0355b13"/>心伉節。捨俗襲道。夷放小欲。虗心慕遠。不尚榮華。唯<lb ed="X" n="0355b14"/>以得意為貴。<persName key="A002580">僧伽達多</persName>。見而奇之。語經律。通禪教。人<lb ed="X" n="0355b15"/>息不息。篤學無倦。安思三空。寂觀五淨。延促由心。遊<lb ed="X" n="0355b16"/>戲適我。<date from-iso="0424-08-06" to-iso="0424-09-17" key="j18761411876183">宋永平二年</date><!--劉宋無永平二年，應為景平二年（T50n2059_p0344a01） -->。自外國達于 <ref type="place" target="#CN0320106Z05AA">帝京</ref>。棲宅丘林。養<lb ed="X" n="0355b17"/>索川岳。以<date from-iso="0433-02-07" to-iso="0434-01-26" key="j18792481879601">元嘉十年</date>。卜居<placeName key="CN0320102M02AA">鍾山</placeName>之陽。剪開榛蕪。造立<lb ed="X" n="0355b18"/>精舍。聳剎陵雲。高堂架日。鑿澗延流。傍巖列樹。當時<lb ed="X" n="0355b19"/>之威德。故號曰<placeName key="CN0320102T19AA">宋熈</placeName>。禪學之眾。三十餘人。四輩供施。<lb ed="X" n="0355b20"/>相繼不絕。濟不畜私財。有必入眾。禪席常溫。法言不<lb ed="X" n="0355b21"/>輟。春秋五十有九。<date from-iso="0450-01-30" to-iso="0451-02-17" key="j18854491885832">元嘉二十七年</date>卒(云云)。</p>
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="mscc0355b12tanMoMiDuo"><head>宋<placeName key="PL000000008758">宗照寺</placeName><persName key="A002643">僧伽羅多哆</persName></head><p><anchor n="X.77.1523.0355b01"/><lb ed="X" n="0355b12"/>僧伽羅多哆(梁言<persName key="A002643">僧濟</persName>)。<placeName key="PL000000047439">西域</placeName>人也。少失二親。又無兄弟。師<lb ed="X" n="0355b13"/>心伉節。捨俗襲道。夷放小欲。虗心慕遠。不尚榮華。唯<lb ed="X" n="0355b14"/>以得意為貴。<persName key="A002580">僧伽達多</persName>。見而奇之。語經律。通禪教。人<lb ed="X" n="0355b15"/>息不息。篤學無倦。安思三空。寂觀五淨。延促由心。遊<lb ed="X" n="0355b16"/>戲適我。<date from-iso="0424-08-06" to-iso="0424-09-17" key="j18761411876183">宋永平二年</date><!--劉宋無永平二年，應為景平二年（T50n2059_p0344a01） -->。自外國達于 <ref type="place" target="#PL000000008975">帝京</ref>。棲宅丘林。養<lb ed="X" n="0355b17"/>索川岳。以<date from-iso="0433-02-07" to-iso="0434-01-26" key="j18792481879601">元嘉十年</date>。卜居<placeName key="PL000000008734">鍾山</placeName>之陽。剪開榛蕪。造立<lb ed="X" n="0355b18"/>精舍。聳剎陵雲。高堂架日。鑿澗延流。傍巖列樹。當時<lb ed="X" n="0355b19"/>之威德。故號曰<placeName key="PL000000008758">宋熈</placeName>。禪學之眾。三十餘人。四輩供施。<lb ed="X" n="0355b20"/>相繼不絕。濟不畜私財。有必入眾。禪席常溫。法言不<lb ed="X" n="0355b21"/>輟。春秋五十有九。<date from-iso="0450-01-30" to-iso="0451-02-17" key="j18854491885832">元嘉二十七年</date>卒(云云)。</p>
     <linkGrp>
         <link targets="#0355b12 #0355b12"/>
         <ptr type="person" target="#A002643"/>
-        <ptr type="place" target="#CN0650000E01AA"/>
+        <ptr type="place" target="#PL000000047439"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0355b14 #0355b15"/>
@@ -12,13 +13,13 @@
     <linkGrp>
         <link targets="#0355b16 #0355b17"/>
         <ptr type="person" target="#A002643"/>
-        <ptr type="place" target="#CN0320106Z05AA"/>
+        <ptr type="place" target="#PL000000008975"/>
         <ptr type="time" target="#j18761411876183"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0355b17 #0355b21"/>
         <ptr type="person" target="#A002643"/>
-        <ptr type="place" target="#CN0320102T19AA"/>
+        <ptr type="place" target="#PL000000008758"/>
         <ptr type="time" target="#j18792481879601"/>
     </linkGrp>
     <linkGrp>
@@ -27,4 +28,3 @@
         <ptr type="time" target="#j18854491885832"/>
     </linkGrp>
 </div>
-

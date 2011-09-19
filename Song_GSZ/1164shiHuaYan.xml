@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0868b13shiHuaYan">
     <anchor n="T.50.2061.0868b13"/><head><date from-iso="0618-06-21" key="j19469512052491" to-iso="0907-06-06">唐</date>幽州<persName key="A013591">華嚴和尚</persName>傳</head><p>
-<lb ed="T" n="0868b14"/><persName key="A013591">釋華嚴和尚</persName>，不知名氏。居在<placeName key="CN0110104Z08AA">幽州</placeName>城北，恒
+<lb ed="T" n="0868b14"/><persName key="A013591">釋華嚴和尚</persName>，不知名氏。居在<placeName key="PL000000000368">幽州</placeName>城北，恒
 <lb ed="T" n="0868b15"/>持華嚴經以為淨業，時號之，全取經題呼
 <lb ed="T" n="0868b16"/>召耳。其所誦時，一城皆聞之，如在庭廡之
-<lb ed="T" n="0868b17"/>下。<date key="j19753841975908" notAfter-iso="0697" notBefore-iso="0696">萬歲通天</date>年中，韓國公<persName key="A013593">張仁愿</persName>之為<placeName key="CN0110104Z08AA">幽州</placeName>
+<lb ed="T" n="0868b17"/>下。<date key="j19753841975908" notAfter-iso="0697" notBefore-iso="0696">萬歲通天</date>年中，韓國公<persName key="A013593">張仁愿</persName>之為<placeName key="PL000000000368">幽州</placeName>
 <lb ed="T" n="0868b18"/>都督也，夜聞經聲，品次歷歷然。及爾晨興，
 <lb ed="T" n="0868b19"/>謂夫人曰：「昨宵城北道人諷誦，若在衙署
 <lb ed="T" n="0868b20"/>前也，還聞已否？」夫人曰：「是何地遠可得聞
@@ -20,7 +20,7 @@
 <lb ed="T" n="0868c01"/>還二分，一與<persName key="A013593">張仁愿</persName>，一與<persName key="A013591">華嚴和尚</persName>。」自此
 <lb ed="T" n="0868c02"/>方知<persName key="A013591">華嚴和尚</persName>是竹林聖寺<!--找不到此地-->中來，使留一宿，
 <lb ed="T" n="0868c03"/>出已經年。行化既久，及終坐亡，肉身不萎
-<lb ed="T" n="0868c04"/>敗。<placeName key="CN0130681Z24AA">范陽</placeName>之人多往乞願。時有徵應，塔近因
+<lb ed="T" n="0868c04"/>敗。<placeName key="PL000000002485">范陽</placeName>之人多往乞願。時有徵應，塔近因
 <lb ed="T" n="0868c05"/>兵革而廢矣。</p>
     <p xml:id="pT50p0868c0601"><lb ed="T" n="0868c06"/>系曰：一口宣誦，何能入遠近人人耳耶？通
 <lb ed="T" n="0868c07"/>曰：「近則若願持經，善法力故。遠則一音演
@@ -28,13 +28,13 @@
     <linkGrp>
         <link targets="#0868b14 #0868b17"/>
         <ptr target="#A013591" type="person"/>
-        <ptr target="#CN0110104Z08AA" type="place"/>
+        <ptr target="#PL000000000368" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0868b17 #0868b25"/>
         <ptr target="#A013591" type="person"/>
         <ptr target="#A013593" type="person"/>
-        <ptr target="#CN0110104Z08AA" type="place"/>
+        <ptr target="#PL000000000368" type="place"/>
         <ptr target="#j19753841975908" type="time"/>
     </linkGrp>
 </div>

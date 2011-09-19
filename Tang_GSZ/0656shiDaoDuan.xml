@@ -1,25 +1,25 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0669b23shiDaoDuan">
-    <p><anchor n="T.50.2060.0669b23"/><lb ed="T" n="0669b23"/><persName key="A007104">釋道端</persName>。<placeName key="CN0140402Z11AA">潞州</placeName>人。出家受具。聽覽律藏。至於<lb ed="T" n="0669b24"/>重輕開制銓定綱猷。雅為宗匠。晚入<placeName key="CN0610102Z14AA">京都</placeName><lb ed="T" n="0669b25"/>住<placeName key="CN0610102T45AA">仁法寺</placeName>。講散毘尼神用無歇。時程俊舉<lb ed="T" n="0669b26"/>後學欽之。加復體尚方言梵文書語。<ptr target="fn13"/>披葉<lb ed="T" n="0669b27"/>洞識了其深趣。勤心護法匡攝有功。<date key="j19406121942058" notAfter-iso="0605" notBefore-iso="0601">仁壽<lb ed="T" n="0669b28"/>中年</date>。勅送舍利于本州<placeName key="CN0140402T02AA">梵境寺</placeName>。初入州界。山<lb ed="T" n="0669b29"/>多無水。忽有神泉涌頂。流者非一。舊痾夙<lb ed="T" n="0669c01"/>痼飲無不愈。別有一泉病飲尋差。若咽酒<lb ed="T" n="0669c02"/>肉必重發動。審量持戒永除休健。<persName key="A007104">端</persName>以事<lb ed="T" n="0669c03"/>聞後還京寺。常樂弘演。終于<placeName key="CN0610102T45AA">本寺</placeName>。</p>
+    <p><anchor n="T.50.2060.0669b23"/><lb ed="T" n="0669b23"/><persName key="A007104">釋道端</persName>。<placeName key="PL000000004130">潞州</placeName>人。出家受具。聽覽律藏。至於<lb ed="T" n="0669b24"/>重輕開制銓定綱猷。雅為宗匠。晚入<placeName key="PL000000042196">京都</placeName><lb ed="T" n="0669b25"/>住<placeName key="PL000000042156">仁法寺</placeName>。講散毘尼神用無歇。時程俊舉<lb ed="T" n="0669b26"/>後學欽之。加復體尚方言梵文書語。<ptr target="fn13"/>披葉<lb ed="T" n="0669b27"/>洞識了其深趣。勤心護法匡攝有功。<date key="j19406121942058" notAfter-iso="0605" notBefore-iso="0601">仁壽<lb ed="T" n="0669b28"/>中年</date>。勅送舍利于本州<placeName key="PL000000004115">梵境寺</placeName>。初入州界。山<lb ed="T" n="0669b29"/>多無水。忽有神泉涌頂。流者非一。舊痾夙<lb ed="T" n="0669c01"/>痼飲無不愈。別有一泉病飲尋差。若咽酒<lb ed="T" n="0669c02"/>肉必重發動。審量持戒永除休健。<persName key="A007104">端</persName>以事<lb ed="T" n="0669c03"/>聞後還京寺。常樂弘演。終于<placeName key="PL000000042156">本寺</placeName>。</p>
     <linkGrp>
         <link targets="#0669b23 #0669b23"/>
         <ptr target="#A007104" type="person"/>
-        <ptr target="#CN0140402Z11AA" type="place"/>
+        <ptr target="#PL000000004130" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0669b24 #0669b26"/>
         <ptr target="#A007104" type="person"/>
-        <ptr target="#CN0610102T45AA" type="place"/>
+        <ptr target="#PL000000042156" type="place"/>
         </linkGrp>
     <linkGrp>
         <link targets="#0669b27 #0669c02"/>
         <ptr target="#A007104" type="person"/>
-        <ptr target="#CN0140402T02AA" type="place"/>
+        <ptr target="#PL000000004115" type="place"/>
         <ptr target="#j19406121942058" type="time"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0669c02 #0669c03"/>
         <ptr target="#A007104" type="person"/>
-        <ptr target="#CN0610102T45AA" type="place"/>
+        <ptr target="#PL000000042156" type="place"/>
         </linkGrp>
 </div>

@@ -1,15 +1,15 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0680b23shiPuYuan">
-    <p><anchor n="T.50.2060.0680b23"/><lb ed="T" n="0680b23"/><persName key="A005534">釋普圓</persName>。不知何許人。聲議所述似居河海。<lb ed="T" n="0680b24"/><date key="j19257491927397" notAfter-iso="0564" notBefore-iso="0560">周武之初</date>來遊<placeName key="CN0610000E01AA">三輔</placeName>。容貌姿美其相偉大。言<lb ed="T" n="0680b25"/>顧弘緩。有丈夫之神<ptr target="fn15"/>采焉。多歷名山大川。<lb ed="T" n="0680b26"/>常以頭陀為志。樂行慈救利益為先。人<lb ed="T" n="0680b27"/>有投者輒便引度。示語行要令遵苦節。<lb ed="T" n="0680b28"/>誦華嚴一部。潛其聲相<ptr target="fn16"/>人無知者。弟子侍<lb ed="T" n="0680b29"/>讀。後因知之。然而常坐繩床。斂容在定。用<lb ed="T" n="0680c01"/>心彌到不覺經過晨夕。有時乞食暫往村<lb ed="T" n="0680c02"/>聚。多依林墓取靜思惟。夜有強鬼形極可<lb ed="T" n="0680c03"/>畏。四眼六牙。手持曲棒。身毛垂下。徑至其<lb ed="T" n="0680c04"/>前。<persName key="A005534">圓</persName><ptr target="fn17"/>怒目觀之。都無怖懾。不久便退。其<lb ed="T" n="0680c05"/>例非一。又有惡人從<persName key="A005534">圓</persName>乞頭。將斬與之。<lb ed="T" n="0680c06"/>又不肯取。又復乞眼。即欲剜施。便從索手<lb ed="T" n="0680c07"/>遂以繩繫腕著樹。齊肘斬而與之。心悶委<lb ed="T" n="0680c08"/>地。<ptr target="fn18"/>村人明乃聞知。因斯卒于郊南<placeName key="CN0610116A01AA">樊川</placeName><lb ed="T" n="0680c09"/>也。諸村哀<persName key="A005534">其</persName>苦行。爭欲收葬。眾議不決。乃<lb ed="T" n="0680c10"/>分其屍為數段。各修塔焉。</p>
+    <p><anchor n="T.50.2060.0680b23"/><lb ed="T" n="0680b23"/><persName key="A005534">釋普圓</persName>。不知何許人。聲議所述似居河海。<lb ed="T" n="0680b24"/><date key="j19257491927397" notAfter-iso="0564" notBefore-iso="0560">周武之初</date>來遊<placeName key="PL000000042002">三輔</placeName>。容貌姿美其相偉大。言<lb ed="T" n="0680b25"/>顧弘緩。有丈夫之神<ptr target="fn15"/>采焉。多歷名山大川。<lb ed="T" n="0680b26"/>常以頭陀為志。樂行慈救利益為先。人<lb ed="T" n="0680b27"/>有投者輒便引度。示語行要令遵苦節。<lb ed="T" n="0680b28"/>誦華嚴一部。潛其聲相<ptr target="fn16"/>人無知者。弟子侍<lb ed="T" n="0680b29"/>讀。後因知之。然而常坐繩床。斂容在定。用<lb ed="T" n="0680c01"/>心彌到不覺經過晨夕。有時乞食暫往村<lb ed="T" n="0680c02"/>聚。多依林墓取靜思惟。夜有強鬼形極可<lb ed="T" n="0680c03"/>畏。四眼六牙。手持曲棒。身毛垂下。徑至其<lb ed="T" n="0680c04"/>前。<persName key="A005534">圓</persName><ptr target="fn17"/>怒目觀之。都無怖懾。不久便退。其<lb ed="T" n="0680c05"/>例非一。又有惡人從<persName key="A005534">圓</persName>乞頭。將斬與之。<lb ed="T" n="0680c06"/>又不肯取。又復乞眼。即欲剜施。便從索手<lb ed="T" n="0680c07"/>遂以繩繫腕著樹。齊肘斬而與之。心悶委<lb ed="T" n="0680c08"/>地。<ptr target="fn18"/>村人明乃聞知。因斯卒于郊南<placeName key="PL000000042490">樊川</placeName><lb ed="T" n="0680c09"/>也。諸村哀<persName key="A005534">其</persName>苦行。爭欲收葬。眾議不決。乃<lb ed="T" n="0680c10"/>分其屍為數段。各修塔焉。</p>
     <linkGrp>
         <link targets="#0680b24 #0680b25"/>
         <ptr target="#A005534" type="person"/>
-        <ptr target="#CN0610000E01AA" type="place"/>
+        <ptr target="#PL000000042002" type="place"/>
         <ptr target="#j19257491927397" type="time"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0680c05 #0680c09"/>
         <ptr target="#A005534" type="person"/>
-        <ptr target="#CN0610116A01AA" type="place"/>
+        <ptr target="#PL000000042490" type="place"/>
     </linkGrp>
 </div>

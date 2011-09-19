@@ -1,18 +1,18 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0867a11shiQingXu">
     <anchor n="T.50.2061.0867a11"/><head><date from-iso="0618-06-21" key="j19469512052491" to-iso="0907-06-06">唐</date>梓州慧義寺<persName key="A013576">清虛</persName>傳</head><p>
-<lb ed="T" n="0867a12"/><persName key="A013576">釋清虛</persName>，姓唐氏，<placeName key="CN0510722Z25AA">梓州</placeName>人也。立性剛決，桀黠難
+<lb ed="T" n="0867a12"/><persName key="A013576">釋清虛</persName>，姓唐氏，<placeName key="PL000000035490">梓州</placeName>人也。立性剛決，桀黠難
 <lb ed="T" n="0867a13"/>防，忽迴心長誦金剛般若。三業偕齊，無有
 <lb ed="T" n="0867a14"/>懈怠。甞於山林持諷，有七鹿馴擾，若傾聽
 <lb ed="T" n="0867a15"/>焉，聲息而去。又隣居失火，連甍灰燼，唯<persName key="A013576">虛</persName>之
 <lb ed="T" n="0867a16"/>屋，飈焰飛過，略無焦灼。<date from-iso="0702-02-06" key="j19774961977849" to-iso="0703-01-25">長安二年</date>，獨遊藍田
-<lb ed="T" n="0867a17"/><placeName key="CN0610122T01AA">悟真寺</placeName>上方北院，舊無井泉，人力不及，遠
+<lb ed="T" n="0867a17"/><placeName key="PL000000042558">悟真寺</placeName>上方北院，舊無井泉，人力不及，遠
         <lb ed="T" n="0867a18"/>取於㵎，挈缾荷甕，運致極勞。時<persName key="A002450">華嚴大師
 <lb ed="T" n="0867a19"/>法藏</persName>聞<persName key="A013576">虛</persName>持經靈驗，乃請祈泉。即入彌勒
 <lb ed="T" n="0867a20"/>閣內焚香，經聲達旦者三，忽心中似見三
 <lb ed="T" n="0867a21"/>玉女在閣西北山腹，以刀子剜地，隨便有
 <lb ed="T" n="0867a22"/>水。<persName key="A013576">虛</persName>熟記其處，遂趨起掘之，果獲甘泉，用
-        <lb ed="T" n="0867a23"/>之不竭。<date key="j19782341978588" notAfter-iso="0705-02-02" notBefore-iso="0704-02-14">四年</date>，從<placeName key="CN0410185T01AA">少林寺</placeName>坐夏<ptr target="#n61"/>。山頂有一
+        <lb ed="T" n="0867a23"/>之不竭。<date key="j19782341978588" notAfter-iso="0705-02-02" notBefore-iso="0704-02-14">四年</date>，從<placeName key="PL000000023255">少林寺</placeName>坐夏<ptr target="#n61"/>。山頂有一
 <lb ed="T" n="0867a24"/>佛室，甚寬敞，人無敢到者，云鬼神居宅焉。
 <lb ed="T" n="0867a25"/>甞有律師恃其戒行，夜往念律，見一巨人
 <lb ed="T" n="0867a26"/>以矛<anchor xml:id="beg0867001"/>刺<anchor xml:id="end0867001"/>之，狼狽下山，逡巡氣絕。又持火頭
@@ -32,7 +32,7 @@
     <linkGrp>
         <link targets="#0867a16 #0867a18"/>
         <ptr target="#A013576" type="person"/>
-        <ptr target="#CN0610122T01AA" type="place"/>
+        <ptr target="#PL000000042558" type="place"/>
         <ptr target="#j19774961977849" type="time"/>
     </linkGrp>
     <linkGrp>
@@ -43,7 +43,7 @@
     <linkGrp>
         <link targets="#0867a23 #0867b06"/>
         <ptr target="#A013576" type="person"/>
-        <ptr target="#CN0410185T01AA" type="place"/>
+        <ptr target="#PL000000023255" type="place"/>
         <ptr target="#j19782341978588" type="time"/>
     </linkGrp>
     <linkGrp>

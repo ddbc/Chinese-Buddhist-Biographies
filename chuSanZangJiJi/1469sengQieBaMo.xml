@@ -1,76 +1,76 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="cszjj0104c05sengQieBaMo">
     <head><lb ed="T" n="0104c05"/><persName key="A001592">僧伽跋摩</persName>傳第六</head>
-    <p><anchor n="T.55.2145.0104c06"/><lb ed="T" n="0104c06"/><persName key="A001592">僧伽跋摩</persName>，齊言<persName key="A001592">僧鎧</persName>，<placeName key="IN0000000E01AA">天竺</placeName>人也。少而棄俗，清
-        <lb ed="T" n="0104c07"/>峻有戒德，明解律藏，尤精《雜心》。以<date from-iso="0433-02-07" to-iso="0434-01-26" key="j18792481879601">宋元嘉十<lb ed="T" n="0104c08"/>年</date>，<ptr target="fn19"/>步自流沙，至于<ref type="place" target="#CN0320106Z05AA">京都</ref>。風宇宏肅，道俗敬
+    <p><anchor n="T.55.2145.0104c06"/><lb ed="T" n="0104c06"/><persName key="A001592">僧伽跋摩</persName>，齊言<persName key="A001592">僧鎧</persName>，<placeName key="PL000000048207">天竺</placeName>人也。少而棄俗，清
+        <lb ed="T" n="0104c07"/>峻有戒德，明解律藏，尤精《雜心》。以<date from-iso="0433-02-07" to-iso="0434-01-26" key="j18792481879601">宋元嘉十<lb ed="T" n="0104c08"/>年</date>，<ptr target="fn19"/>步自流沙，至于<ref type="place" target="#PL000000008975">京都</ref>。風宇宏肅，道俗敬
         <lb ed="T" n="0104c09"/>異，咸宗而事之，號曰<persName key="A001592">三藏法師</persName>。初，<date from-iso="0423-01-29" to-iso="0424-02-16" key="j18755861875969">景平元年</date>，
-        <lb ed="T" n="0104c10"/><placeName key="CN0370830Z18AA">平陸</placeName>令<persName key="A002631">許桑</persName>捨宅建剎，因名<placeName key="CN0320101T20AA">平陸寺</placeName>。後道場
+        <lb ed="T" n="0104c10"/><placeName key="PL000000021451">平陸</placeName>令<persName key="A002631">許桑</persName>捨宅建剎，因名<placeName key="PL000000008663">平陸寺</placeName>。後道場
         <lb ed="T" n="0104c11"/><persName key="A001746">慧觀</persName>以<persName key="A001592">跋摩</persName>道行純備，請住此寺，崇其供養
         <lb ed="T" n="0104c12"/>以表厥德。<persName key="A001592">跋摩</persName>共<persName key="A001746">觀</persName>加塔三層，行道諷誦，日
         <lb ed="T" n="0104c13"/>夜不輟。僧眾歸集，道化流布。</p><p>初，<persName key="A001592">三藏法師</persName>深
-            <lb ed="T" n="0104c14"/>明戒品，將為<placeName key="CN0320114T07AA">影福寺</placeName>尼<persName key="A002628">慧果</persName>等重受具戒。是
-            <lb ed="T" n="0104c15"/>時二眾未備，而三藏遷化。俄而<placeName key="LK0000000E01AA">師子國</placeName>比丘
-            <lb ed="T" n="0104c16"/>尼<persName key="A002632">鐵薩羅</persName>等至<ref type="place" target="#CN0320106Z05AA">都</ref>，眾乃共請<persName key="A001592">跋摩</persName>為師，繼軌
-            <lb ed="T" n="0104c17"/>三藏。<placeName key="CN0320116T04AA">祇洹</placeName><persName key="A002226">慧義</persName>執意不同，諍論翻覆。<persName key="A001592">跋摩</persName>標
+            <lb ed="T" n="0104c14"/>明戒品，將為<placeName key="PL000000009068">影福寺</placeName>尼<persName key="A002628">慧果</persName>等重受具戒。是
+            <lb ed="T" n="0104c15"/>時二眾未備，而三藏遷化。俄而<placeName key="PL000000048734">師子國</placeName>比丘
+            <lb ed="T" n="0104c16"/>尼<persName key="A002632">鐵薩羅</persName>等至<ref type="place" target="#PL000000008975">都</ref>，眾乃共請<persName key="A001592">跋摩</persName>為師，繼軌
+            <lb ed="T" n="0104c17"/>三藏。<placeName key="PL000000009267">祇洹</placeName><persName key="A002226">慧義</persName>執意不同，諍論翻覆。<persName key="A001592">跋摩</persName>標
             <lb ed="T" n="0104c18"/>宗顯法，理證明允。<persName key="A002226">慧義</persName>遂迴其剛褊，靡然推
             <lb ed="T" n="0104c19"/>服，乃率其弟子服膺稟戒，僧尼受者數百許
-            <lb ed="T" n="0104c20"/>人。<persName key="A002633">宋<placeName key="CN0320303Z23AA">彭城</placeName>王義康</persName>崇其戒範，廣設齋供，四眾
-            <lb ed="T" n="0104c21"/>殷盛傾于<ref type="place" target="#CN0320106Z05AA">京邑</ref>。</p><p>頃之，名德大僧<persName key="A001746">慧觀</persName>等，以<persName key="A001592">跋<lb ed="T" n="0104c22"/>摩</persName>妙解《雜心》，諷誦通達，即以<date key="j18794841879512" from-iso="0433-10-01" to-iso="0433-10-29">其年九月</date>，乃於
-                <lb ed="T" n="0104c23"/><placeName key="CN0320104T04AA">長干寺</placeName>招集學<ptr target="fn20"/>士，<persName key="A001928">寶雲</persName>譯語，<persName key="A001746">觀公</persName>筆受，研挍
+            <lb ed="T" n="0104c20"/>人。<persName key="A002633">宋<placeName key="PL000000009533">彭城</placeName>王義康</persName>崇其戒範，廣設齋供，四眾
+            <lb ed="T" n="0104c21"/>殷盛傾于<ref type="place" target="#PL000000008975">京邑</ref>。</p><p>頃之，名德大僧<persName key="A001746">慧觀</persName>等，以<persName key="A001592">跋<lb ed="T" n="0104c22"/>摩</persName>妙解《雜心》，諷誦通達，即以<date key="j18794841879512" from-iso="0433-10-01" to-iso="0433-10-29">其年九月</date>，乃於
+                <lb ed="T" n="0104c23"/><placeName key="PL000000008825">長干寺</placeName>招集學<ptr target="fn20"/>士，<persName key="A001928">寶雲</persName>譯語，<persName key="A001746">觀公</persName>筆受，研挍
                 <lb ed="T" n="0104c24"/>精悉，周年方訖。續出《摩得勒伽》、《分別業報略》、
                 <lb ed="T" n="0104c25"/>《勸發諸王要偈》及《請聖僧浴文》，凡四部。<persName key="A001592">跋摩</persName>
                 <lb ed="T" n="0104c26"/>遊化為志，不滯一方，既傳經事畢，將還本國，
-                <lb ed="T" n="0104c27"/>眾咸祈<ptr target="fn21"/>止，莫之能留。以<date from-iso="0424" to-iso="0454" key="j18761841886925">元嘉中</date>，隨<placeName key="WW142XIYUE01AA">西域</placeName>賈
+                <lb ed="T" n="0104c27"/>眾咸祈<ptr target="fn21"/>止，莫之能留。以<date from-iso="0424" to-iso="0454" key="j18761841886925">元嘉中</date>，隨<placeName key="PL000000055436">西域</placeName>賈
                 <lb ed="T" n="0104c28"/>人舶還外國，莫詳其終。</p>
    
     <linkGrp>
         <link targets="#0104c06 #0104c06"/>
         <ptr target="#A001592" type="person"/>
-        <ptr target="#IN0000000E01AA" type="place"/>
+        <ptr target="#PL000000048207" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0104c07 #0104c09"/>
         <ptr target="#A001592" type="person"/>
-        <ptr target="#CN0320106Z05AA" type="place"/>
+        <ptr target="#PL000000008975" type="place"/>
         <ptr target="#j18792481879601" type="time"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0104c10 #0104c10"/>
         <ptr target="#A002631" type="person"/>
-        <ptr target="#CN0370830Z18AA" type="place"/>
+        <ptr target="#PL000000021451" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0104c09 #0104c10"/>
         <ptr target="#A002631" type="person"/>
-        <ptr target="#CN0320101T20AA" type="place"/>
+        <ptr target="#PL000000008663" type="place"/>
         <ptr target="#j18755861875969" type="time"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0104c09 #0104c13"/>
         <ptr target="#A001592" type="person"/>
         <ptr target="#A001746" type="person"/>
-        <ptr target="#CN0320101T20AA" type="place"/>
+        <ptr target="#PL000000008663" type="place"/>
         <ptr target="#j18792481879601" type="time"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0104c14 #0104c14"/>
         <ptr target="#A002628" type="person"/>
-        <ptr target="#CN0320114T07AA" type="place"/>
+        <ptr target="#PL000000009068" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0104c15 #0104c16"/>
         <ptr target="#A002632" type="person"/>
-        <ptr target="#LK0000000E01AA" type="place"/>
+        <ptr target="#PL000000048734" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0104c17 #0104c17"/>
         <ptr target="#A002226" type="person"/>
-        <ptr target="#CN0320116T04AA" type="place"/>
+        <ptr target="#PL000000009267" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0104c20 #0104c20"/>
         <ptr target="#A002633" type="person"/>
-        <ptr target="#CN0320303Z23AA" type="place"/>
+        <ptr target="#PL000000009533" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0104c13 #0104c21"/>
@@ -79,14 +79,14 @@
         <ptr target="#A002632" type="person"/>
         <ptr target="#A002226" type="person"/>
         <ptr target="#A002633" type="person"/>
-        <ptr target="#CN0320106Z05AA" type="place"/>
+        <ptr target="#PL000000008975" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0104c21 #0104c24"/>
         <ptr target="#A001592" type="person"/>
         <ptr target="#A001746" type="person"/>
         <ptr target="#A001928" type="person"/>
-        <ptr target="#CN0320104T04AA" type="place"/>
+        <ptr target="#PL000000008825" type="place"/>
         <ptr target="#j18794841879512" type="time"/>
     </linkGrp>
     <linkGrp>

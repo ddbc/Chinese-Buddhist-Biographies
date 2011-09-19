@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0860a13shiShiYun">
     <anchor n="T.50.2061.0860a13"/><head><date from-iso="0960-02-09" key="j20717322132856" to-iso="1127-06-18">宋</date>天台山般若寺<persName key="A013524">師蘊</persName>傳</head><p>
-<lb ed="T" n="0860a14"/><persName key="A013524">釋師蘊</persName>，<placeName key="CN0330702Z09AA">金華</placeName>人也。厥性真率，不好封植，遇
+<lb ed="T" n="0860a14"/><persName key="A013524">釋師蘊</persName>，<placeName key="PL000000013514">金華</placeName>人也。厥性真率，不好封植，遇
 <lb ed="T" n="0860a15"/>事屬情，有多訐直。<date key="j20576132058534" notAfter-iso="0923" notBefore-iso="0921">梁龍德</date>中，與<persName key="A008355">德韶禪師</persName>
 <lb ed="T" n="0860a16"/>結侶遐征，遊訪名師勝境，至於北代清涼
-<lb ed="T" n="0860a17"/>山<!--找不到此地-->，冥心巡禮。後登蒼梧野，陟<placeName key="CN0430412M01AB">祝融峯</placeName>。然<persName key="A008355">韶
-<lb ed="T" n="0860a18"/>師</persName>或隨或否。迴于<placeName key="CN0330103E03AA">浙</placeName>，來還棲息<persName key="A008355">韶師</persName>法會。
+<lb ed="T" n="0860a17"/>山<!--找不到此地-->，冥心巡禮。後登蒼梧野，陟<placeName key="PL000000028929">祝融峯</placeName>。然<persName key="A008355">韶
+<lb ed="T" n="0860a18"/>師</persName>或隨或否。迴于<placeName key="PL000000011455">浙</placeName>，來還棲息<persName key="A008355">韶師</persName>法會。
 <lb ed="T" n="0860a19"/>其為人也，稠人廣眾，往往滑稽，有好戲噱
 <lb ed="T" n="0860a20"/>者則狎之，膠漆如也。故高達之者，置之於度
 <lb ed="T" n="0860a21"/>外矣。唯<persName key="A008355">韶師</persName>默而識之，謂人曰：「<persName key="A013524">蘊公</persName>癡狂，
@@ -27,13 +27,13 @@
         <link targets="#0860a15 #0860a18"/>
         <ptr target="#A013524" type="person"/>
         <ptr target="#A008355" type="person"/>
-        <ptr target="#CN0430412M01AB" type="place"/>
+        <ptr target="#PL000000028929" type="place"/>
         <ptr target="#j20576132058534" type="time"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0860a18 #0860a18"/>
         <ptr target="#A013524" type="person"/>
         <ptr target="#A008355" type="person"/>
-        <ptr target="#CN0330103E03AA" type="place"/>
+        <ptr target="#PL000000011455" type="place"/>
     </linkGrp>
 </div>

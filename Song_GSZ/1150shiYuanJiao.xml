@@ -1,18 +1,18 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0864b16shiYuanJiao">
     <anchor n="T.50.2061.0864b16"/><head><date from-iso="0618-06-21" key="j19469512052491" to-iso="0907-06-06">唐</date>鳳翔府開元寺<persName key="A013551">元皎</persName>傳</head><p>
-<lb ed="T" n="0864b17"/><persName key="A013551">釋元皎</persName>，<placeName key="CN0640121Z13AA">靈武</placeName>人也。有志操，與眾不群，以
-<lb ed="T" n="0864b18"/>持明為己務。<date key="j19960861997410" notAfter-iso="0756" notBefore-iso="0752">天寶末</date>，<persName key="A000291">玄宗</persName>幸<placeName key="CN0510184Z16AA">蜀</placeName>，<persName key="A004378">肅皇</persName>於<placeName key="CN0640121Z13AA">靈
-<lb ed="T" n="0864b19"/>武</placeName>訓兵，計剋復<placeName key="CN0610102Z07AA">京師</placeName>，為物議攸同，請<persName key="A004378">帝</persName>
-<lb ed="T" n="0864b20"/>即位，改元<date key="j19974111997993" notAfter-iso="0758" notBefore-iso="0756">至德</date>。及<date key="j19975771997960" notAfter-iso="0758-02-16" notBefore-iso="0757-01-29">二年</date>，返轅指<placeName key="CN0610322Z16AA">扶風</placeName>，<persName key="A004378">帝</persName>素
+<lb ed="T" n="0864b17"/><persName key="A013551">釋元皎</persName>，<placeName key="PL000000047120">靈武</placeName>人也。有志操，與眾不群，以
+<lb ed="T" n="0864b18"/>持明為己務。<date key="j19960861997410" notAfter-iso="0756" notBefore-iso="0752">天寶末</date>，<persName key="A000291">玄宗</persName>幸<placeName key="PL000000035107">蜀</placeName>，<persName key="A004378">肅皇</persName>於<placeName key="PL000000047120">靈
+<lb ed="T" n="0864b19"/>武</placeName>訓兵，計剋復<placeName key="PL000000042189">京師</placeName>，為物議攸同，請<persName key="A004378">帝</persName>
+<lb ed="T" n="0864b20"/>即位，改元<date key="j19974111997993" notAfter-iso="0758" notBefore-iso="0756">至德</date>。及<date key="j19975771997960" notAfter-iso="0758-02-16" notBefore-iso="0757-01-29">二年</date>，返轅指<placeName key="PL000000042848">扶風</placeName>，<persName key="A004378">帝</persName>素
 <lb ed="T" n="0864b21"/>憑釋氏，擇清尚僧首途，若祓除然。北土西
         <lb ed="T" n="0864b22"/>河所推，<persName key="A013551">皎</persName>應其選，召入受勅旨，隨<ref type="person" target="#A004378">駕</ref>仗內
-<lb ed="T" n="0864b23"/>赴<placeName key="CN0610102Z07AA">京</placeName>。尋勅令<persName key="A013551">皎</persName>向前發，至于<placeName key="CN0610322Z16AA">鳳翔</placeName>，於<placeName key="CN0610304T01AA">開元
-<lb ed="T" n="0864b24"/>寺</placeName>置御<placeName key="CN0610304T01AB">藥師道場</placeName>。更擇三七僧，六時行道，
+<lb ed="T" n="0864b23"/>赴<placeName key="PL000000042189">京</placeName>。尋勅令<persName key="A013551">皎</persName>向前發，至于<placeName key="PL000000042848">鳳翔</placeName>，於<placeName key="PL000000042790">開元
+<lb ed="T" n="0864b24"/>寺</placeName>置御<placeName key="PL000000042791">藥師道場</placeName>。更擇三七僧，六時行道，
 <lb ed="T" n="0864b25"/>然燈歌唄，讚念持經，無敢言疲，精潔可量
 <lb ed="T" n="0864b26"/>也。忽於法會內生一叢李樹，有四十九莖，
 <lb ed="T" n="0864b27"/>具事奏聞，宣內使驗實。<persName key="A004378">帝</persName>大驚喜曰：「此大
-<lb ed="T" n="0864b28"/>瑞應。」<date key="j19976821997682" when-iso="0757-05-14">四月十八日</date>，檢校御<placeName key="CN0610304T01AB">藥師道場</placeName>念誦僧
+<lb ed="T" n="0864b28"/>瑞應。」<date key="j19976821997682" when-iso="0757-05-14">四月十八日</date>，檢校御<placeName key="PL000000042791">藥師道場</placeName>念誦僧
 <lb ed="T" n="0864b29"/><persName key="A013551">元皎</persName>等表賀，答勅曰：「瑞李繁滋，國之興兆。生<pb ed="T" n="0864c" xml:id="T50.2061.0864c"/>
 <lb ed="T" n="0864c01"/>在伽藍之內，足知覺樹之榮。感此殊祥，與
 <lb ed="T" n="0864c02"/>師同慶。」<persName key="A013551">皎</persName>之持誦，功能通感，率多此類。加
@@ -20,19 +20,19 @@
     <linkGrp>
         <link targets="#0864b18 #0864b18"/>
         <ptr target="#A000291" type="person"/>
-        <ptr target="#CN0510184Z16AA" type="place"/>
+        <ptr target="#PL000000035107" type="place"/>
         <ptr target="#j19960861997410" type="time"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0864b18 #0864b20"/>
         <ptr target="#A004378" type="person"/>
-        <ptr target="#CN0640121Z13AA" type="place"/>
+        <ptr target="#PL000000047120" type="place"/>
         <ptr target="#j19960861997410" type="time"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0864b20 #0864b20"/>
         <ptr target="#A004378" type="person"/>
-        <ptr target="#CN0610322Z16AA" type="place"/>
+        <ptr target="#PL000000042848" type="place"/>
         <ptr target="#j19975771997960" type="time"/>
     </linkGrp>
     <linkGrp>
@@ -43,7 +43,7 @@
     <linkGrp>
         <link targets="#0864b23 #0864b25"/>
         <ptr target="#A013551" type="person"/>
-        <ptr target="#CN0610304T01AB" type="place"/>
+        <ptr target="#PL000000042791" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0864b28 #0864c02"/>

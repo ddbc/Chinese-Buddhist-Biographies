@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0793c28shiZhenBiao">
     <anchor n="T.50.2061.0793c28"/><head><date from-iso="0618-06-21" key="j19469512052491" to-iso="0907-06-06">唐</date>百濟國金山寺<persName key="A010819">真表</persName>傳</head><p>
-<lb ed="T" n="0793c29"/><persName key="A010819">釋真表</persName>者，<placeName key="KR3441230E01AA">百濟</placeName>人也。家在金山，世為弋獵。<pb ed="T" n="0794a" xml:id="T50.2061.0794a"/>
+<lb ed="T" n="0793c29"/><persName key="A010819">釋真表</persName>者，<placeName key="PL000000048616">百濟</placeName>人也。家在金山，世為弋獵。<pb ed="T" n="0794a" xml:id="T50.2061.0794a"/>
 <lb ed="T" n="0794a01"/><persName key="A010819">表</persName>多蹻捷，弓矢最便。當<date from-iso="0713" key="j19818371992113" to-iso="0742">開元</date>中，逐獸之餘，
 <lb ed="T" n="0794a02"/>憩<app type="multiplier" xml:id="begd1e23272"/>於<anchor xml:id="endd1e23272"/>田畎間，折柳條貫蝦蟇成串，置
 <lb ed="T" n="0794a03"/><app type="multiplier" xml:id="begd1e23282"/>於<anchor xml:id="endd1e23282"/>水中，擬為食調。遂入山網捕。因逐鹿，
@@ -45,7 +45,7 @@
 <lb ed="T" n="0794b12"/>滅，不得戒也。設加懺悔過九十日，得下
 <lb ed="T" n="0794b13"/>品戒焉。」慈氏重告誨云：「八者新熏也，九者
 <lb ed="T" n="0794b14"/>本有焉。」囑累已，天仗既迴，山川雲霽。於是持
-        <lb ed="T" n="0794b15"/>天衣，執天鉢，猶如<placeName key="IN0000000E01AA">五夏</placeName>比丘，徇道下山，草
+        <lb ed="T" n="0794b15"/>天衣，執天鉢，猶如<placeName key="PL000000048207">五夏</placeName>比丘，徇道下山，草
 <lb ed="T" n="0794b16"/>木為其低垂覆路，殊無溪谷高下之別。飛
 <lb ed="T" n="0794b17"/>禽鷙獸，馴伏步前。又聞空中唱告村落聚
 <lb ed="T" n="0794b18"/>邑，言菩薩出山來，何不迎接？時則人民男女
@@ -59,7 +59,7 @@
 <lb ed="T" n="0794b26"/>隨行，<persName key="A010819">表</persName>語之曰：「<persName key="A010819">吾</persName>不入郛郭，汝可導引
 <lb ed="T" n="0794b27"/>至可修行處。」則乃緩步而行三十來里，就
 <lb ed="T" n="0794b28"/>一山坡，蹲跽<app type="multiplier" xml:id="begd1e23481"/>於<anchor xml:id="endd1e23481"/>前。時則挂錫樹枝，敷草端
-<lb ed="T" n="0794b29"/>坐。四望信士，不勸自來，同造伽藍，號<placeName key="KR5451760T01AA">金山<pb ed="T" n="0794c" xml:id="T50.2061.0794c"/>
+<lb ed="T" n="0794b29"/>坐。四望信士，不勸自來，同造伽藍，號<placeName key="PL000000048620">金山<pb ed="T" n="0794c" xml:id="T50.2061.0794c"/>
 <lb ed="T" n="0794c01"/>寺</placeName>焉。後人求戒，年年懺罪者絕多，今影堂
 <lb ed="T" n="0794c02"/>中道具存焉。</p>
     <p xml:id="pT50p0794c0301"><lb ed="T" n="0794c03"/>系曰：<persName key="A010819">表公</persName>革心變行，一日千里，果得慈氏
@@ -77,11 +77,11 @@
     <linkGrp>
         <link targets="#0793c29 #0793c29"/>
         <ptr target="#A010819" type="person"/>
-        <ptr target="#CN0211224Z14AA" type="place"/>
+        <ptr target="#PL000000007732" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0794b29 #0794c01"/>
         <ptr target="#A010819" type="person"/>
-        <ptr target="#KR5451760T01AA" type="place"/>
+        <ptr target="#PL000000048620" type="place"/>
     </linkGrp>
 </div>

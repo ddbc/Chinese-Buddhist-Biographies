@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0472a04shiSengMi">
-    <head><placeName key="CN0320101T60AA">梁楊都莊嚴寺</placeName><persName key="A005085">釋僧密</persName>傳<ptr target="fn31"/>八</head><p><anchor n="T.50.2060.0472a04"/><lb ed="T" n="0472a04"/><ptr target="fn02"/><persName key="A005085">釋僧密</persName>。未詳氏族。<placeName key="CN0411522Z04AA">樂安</placeName>人。曾未勝衣便<lb ed="T" n="0472a05"/>從翦落。幼而易悟情解過人。<date key="j18846891885054" from-iso="0448-01-01" to-iso="0448-12-31">年至十六</date>學<lb ed="T" n="0472a06"/>友如林。更相開導有聞鄉黨。將欲廣<ptr target="fn03"/>開<lb ed="T" n="0472a07"/>視聽。師弗之許也。因爾潛遁。出寺從<persName key="A003149">道明</persName><lb ed="T" n="0472a08"/>沙門受業。一二年中聲華負海。<ptr target="fn04"/><date key="j18912731891824" notAfter-iso="0467" notBefore-iso="0466">秦始之<lb ed="T" n="0472a09"/>初</date>。濟江住<placeName key="CN0320101T60AA">莊嚴寺</placeName>。器望凝練風儀峻雅。五<lb ed="T" n="0472a10"/>眾宗推七貴敬異。深沈詳正。不以利害嬰<lb ed="T" n="0472a11"/>心。雖復同居眾內。未有測其量者。時人<lb ed="T" n="0472a12"/>以方法<ptr target="fn05"/>汰。頗謂確言。累居南面。徒眾甚<lb ed="T" n="0472a13"/>盛。無經不講。專以成實繕奇負氣。高論<lb ed="T" n="0472a14"/>少所推下。下才在事未能賞重。潛相讒構<lb ed="T" n="0472a15"/>於<persName key="A002655">竟陵王</persName>。<persName key="A005085">密</persName>不敘濁清。任其<ptr target="fn06"/>書罪。乃啟<lb ed="T" n="0472a16"/>擯<ptr target="fn07"/><placeName key="CN0340001D01AA">准南</placeName>。學士隨者三十餘人。相仍講化。<date key="j19055301905913" from-iso="0505-01-23" to-iso="0506-02-10">天<lb ed="T" n="0472a17"/>監四年</date>卒于<placeName key="CN0000000E11AA">江北</placeName>。春秋七十三矣。</p>
+    <head><placeName key="PL000000008702">梁楊都莊嚴寺</placeName><persName key="A005085">釋僧密</persName>傳<ptr target="fn31"/>八</head><p><anchor n="T.50.2060.0472a04"/><lb ed="T" n="0472a04"/><ptr target="fn02"/><persName key="A005085">釋僧密</persName>。未詳氏族。<placeName key="PL000000025815">樂安</placeName>人。曾未勝衣便<lb ed="T" n="0472a05"/>從翦落。幼而易悟情解過人。<date key="j18846891885054" from-iso="0448-01-01" to-iso="0448-12-31">年至十六</date>學<lb ed="T" n="0472a06"/>友如林。更相開導有聞鄉黨。將欲廣<ptr target="fn03"/>開<lb ed="T" n="0472a07"/>視聽。師弗之許也。因爾潛遁。出寺從<persName key="A003149">道明</persName><lb ed="T" n="0472a08"/>沙門受業。一二年中聲華負海。<ptr target="fn04"/><date key="j18912731891824" notAfter-iso="0467" notBefore-iso="0466">秦始之<lb ed="T" n="0472a09"/>初</date>。濟江住<placeName key="PL000000008702">莊嚴寺</placeName>。器望凝練風儀峻雅。五<lb ed="T" n="0472a10"/>眾宗推七貴敬異。深沈詳正。不以利害嬰<lb ed="T" n="0472a11"/>心。雖復同居眾內。未有測其量者。時人<lb ed="T" n="0472a12"/>以方法<ptr target="fn05"/>汰。頗謂確言。累居南面。徒眾甚<lb ed="T" n="0472a13"/>盛。無經不講。專以成實繕奇負氣。高論<lb ed="T" n="0472a14"/>少所推下。下才在事未能賞重。潛相讒構<lb ed="T" n="0472a15"/>於<persName key="A002655">竟陵王</persName>。<persName key="A005085">密</persName>不敘濁清。任其<ptr target="fn06"/>書罪。乃啟<lb ed="T" n="0472a16"/>擯<ptr target="fn07"/><placeName key="PL000000015039">准南</placeName>。學士隨者三十餘人。相仍講化。<date key="j19055301905913" from-iso="0505-01-23" to-iso="0506-02-10">天<lb ed="T" n="0472a17"/>監四年</date>卒于<placeName key="PL000000000093">江北</placeName>。春秋七十三矣。</p>
     <linkGrp>
         <link targets="#0472a04 #0472a04"/>
         <ptr target="#A005085" type="person"/>
-        <ptr target="#CN0411522Z04AA" type="place"/>
+        <ptr target="#PL000000025815" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0472a05 #0472a07"/>
@@ -19,7 +19,7 @@
     <linkGrp>
         <link targets="#0472a08 #0472a11"/>
         <ptr target="#A005085" type="person"/>
-        <ptr target="#CN0320101T60AA" type="place"/>
+        <ptr target="#PL000000008702" type="place"/>
         <ptr target="#j18912731891824" type="time"/>
     </linkGrp>
     <linkGrp>
@@ -30,12 +30,12 @@
     <linkGrp>
         <link targets="#0472a14 #0472a16"/>
         <ptr target="#A005085" type="person"/>
-        <ptr target="#CN0340001D01AA" type="place"/>
+        <ptr target="#PL000000015039" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0472a16 #0472a17"/>
         <ptr target="#A005085" type="person"/>
-        <ptr target="#CN0000000E11AA" type="place"/>
+        <ptr target="#PL000000000093" type="place"/>
         <ptr target="#j19055301905913" type="time"/>
     </linkGrp>
 </div>

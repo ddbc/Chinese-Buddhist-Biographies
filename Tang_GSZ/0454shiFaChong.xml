@@ -1,20 +1,20 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0559c03shiFaChong">
-    <p><anchor n="T.50.2060.0559c03"/><lb ed="T" n="0559c03"/><persName key="A005937">釋法充</persName>。姓畢氏。<placeName key="CN0360403Z16AA">九江</placeName>人。常誦法華並讀大<lb ed="T" n="0559c04"/>品。其遍難紀。兼繕造寺宇。情在住持。末住<lb ed="T" n="0559c05"/><placeName key="CN0360402M01AA">廬山</placeName>半頂<placeName key="CN0360402T07AA">化城寺</placeName>修定。自非僧事未嘗妄<lb ed="T" n="0559c06"/>履。每勸僧眾無以女人入寺。上損佛化<lb ed="T" n="0559c07"/>下墜俗謠。然世以基業事重。有不從者。<persName key="A005937">充</persName><lb ed="T" n="0559c08"/>歎曰。生不值佛已是罪緣。正教不行義須<lb ed="T" n="0559c09"/>早死何慮方土不奉戒乎。遂於此山<placeName key="CN0360402M02AA">香爐<lb ed="T" n="0559c10"/>峯</placeName><ptr target="fn16"/>上自投而下。誓粉身骨用生淨土。便<lb ed="T" n="0559c11"/>於中虛頭忽倒上。冉冉而下處于深谷。不<lb ed="T" n="0559c12"/>損一毛。寺眾初不知也。後有人上<placeName key="CN0360402M02AA">峯</placeName>頂路<lb ed="T" n="0559c13"/>望下。千有餘仞聞人語聲。就而尋之乃是<lb ed="T" n="0559c14"/><persName key="A005937">充</persName>也。身命猶存口誦如故。迎還至<placeName key="CN0360402T07AA">寺</placeName>。僧感<lb ed="T" n="0559c15"/>其死諫為斷女人。經于六年方乃卒世。時<lb ed="T" n="0559c16"/>屬隆暑而屍不臭爛。香如爛瓜。即<date key="j19387911940611" notAfter-iso="0601" notBefore-iso="0596">隋開皇<lb ed="T" n="0559c17"/>之末年</date>矣。</p>
+    <p><anchor n="T.50.2060.0559c03"/><lb ed="T" n="0559c03"/><persName key="A005937">釋法充</persName>。姓畢氏。<placeName key="PL000000018848">九江</placeName>人。常誦法華並讀大<lb ed="T" n="0559c04"/>品。其遍難紀。兼繕造寺宇。情在住持。末住<lb ed="T" n="0559c05"/><placeName key="PL000000018775">廬山</placeName>半頂<placeName key="PL000000018795">化城寺</placeName>修定。自非僧事未嘗妄<lb ed="T" n="0559c06"/>履。每勸僧眾無以女人入寺。上損佛化<lb ed="T" n="0559c07"/>下墜俗謠。然世以基業事重。有不從者。<persName key="A005937">充</persName><lb ed="T" n="0559c08"/>歎曰。生不值佛已是罪緣。正教不行義須<lb ed="T" n="0559c09"/>早死何慮方土不奉戒乎。遂於此山<placeName key="PL000000018778">香爐<lb ed="T" n="0559c10"/>峯</placeName><ptr target="fn16"/>上自投而下。誓粉身骨用生淨土。便<lb ed="T" n="0559c11"/>於中虛頭忽倒上。冉冉而下處于深谷。不<lb ed="T" n="0559c12"/>損一毛。寺眾初不知也。後有人上<placeName key="PL000000018778">峯</placeName>頂路<lb ed="T" n="0559c13"/>望下。千有餘仞聞人語聲。就而尋之乃是<lb ed="T" n="0559c14"/><persName key="A005937">充</persName>也。身命猶存口誦如故。迎還至<placeName key="PL000000018795">寺</placeName>。僧感<lb ed="T" n="0559c15"/>其死諫為斷女人。經于六年方乃卒世。時<lb ed="T" n="0559c16"/>屬隆暑而屍不臭爛。香如爛瓜。即<date key="j19387911940611" notAfter-iso="0601" notBefore-iso="0596">隋開皇<lb ed="T" n="0559c17"/>之末年</date>矣。</p>
     <linkGrp>
         <link targets="#0559c03 #0559c03"/>
         <ptr target="#A005937" type="person"/>
-        <ptr target="#CN0360403Z16AA" type="place"/>
+        <ptr target="#PL000000018848" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0559c04 #0559c05"/>
         <ptr target="#A005937" type="person"/>
-        <ptr target="#CN0360402T07AA" type="place"/>
+        <ptr target="#PL000000018795" type="place"/>
         </linkGrp>
     <linkGrp>
         <link targets="#0559c09 #0559c12"/>
         <ptr target="#A005937" type="person"/>
-        <ptr target="#CN0360402M02AA" type="place"/>
+        <ptr target="#PL000000018778" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0559c15 #0559c17"/>

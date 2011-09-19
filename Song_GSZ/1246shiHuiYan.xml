@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0892c25shiHuiYan">
     <anchor n="T.50.2061.0892c25"/><head><date from-iso="0618-06-21" key="j19469512052491" to-iso="0907-06-06">唐</date>澧州<persName key="A008831">慧演</persName>傳</head><p>
-<lb ed="T" n="0892c26"/><persName key="A008831">釋慧演</persName>，姓苗氏，<placeName key="CN0420602Z06AA">襄陽</placeName>人也。父為東平紏曹。
+<lb ed="T" n="0892c26"/><persName key="A008831">釋慧演</persName>，姓苗氏，<placeName key="PL000000027119">襄陽</placeName>人也。父為東平紏曹。
 <lb ed="T" n="0892c27"/><persName key="A008831">演</persName>幼入開元寺<!--找不到此地-->，聞經歡喜，求於<persName key="A013896">辯章法師</persName>
 <lb ed="T" n="0892c28"/>所度脫。<persName key="A013896">章</persName>日講涅槃經，<persName key="A008831">演</persName>常隨聽入神。既
-<lb ed="T" n="0892c29"/>通深義，復能講談。一日結侶同遊<placeName key="CN0610521Z12AA">華下</placeName>，思<pb ed="T" n="0893a" xml:id="T50.2061.0893a"/>
-<lb ed="T" n="0893a01"/>登毛女峯<!--找不到此地-->，觀仙掌，路出<placeName key="CN0410302Z03AA">洛中</placeName>，乃參<persName key="A005612">荷澤祖
-<lb ed="T" n="0893a02"/>師</persName>，通達大觀。因入<placeName key="CN0430412M01AA">南嶽</placeName>，遂住<placeName key="CN0430781Z04AA">澧陽</placeName>，<placeName key="CN0000007D01AA">江南</placeName>得
+<lb ed="T" n="0892c29"/>通深義，復能講談。一日結侶同遊<placeName key="PL000000043316">華下</placeName>，思<pb ed="T" n="0893a" xml:id="T50.2061.0893a"/>
+<lb ed="T" n="0893a01"/>登毛女峯<!--找不到此地-->，觀仙掌，路出<placeName key="PL000000023581">洛中</placeName>，乃參<persName key="A005612">荷澤祖
+<lb ed="T" n="0893a02"/>師</persName>，通達大觀。因入<placeName key="PL000000028928">南嶽</placeName>，遂住<placeName key="PL000000029560">澧陽</placeName>，<placeName key="PL000000000197">江南</placeName>得
 <lb ed="T" n="0893a03"/>道者多矣。<date key="j19617861961814" notAfter-iso="0659-03-01" notBefore-iso="0659-02-01">貞元十二年</date>終，享齡七十九云。</p>
     <linkGrp>
         <link targets="#0892c27 #0892c28"/>
@@ -17,21 +17,21 @@
         <link targets="#0893a01 #0893a02"/>
         <ptr target="#A008831" type="person"/>
         <ptr target="#A005612" type="person"/>
-        <ptr target="#CN0410302Z03AA" type="place"/>
+        <ptr target="#PL000000023581" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0893a02 #0893a02"/>
         <ptr target="#A008831" type="person"/>
-        <ptr target="#CN0430412M01AA" type="place"/>
+        <ptr target="#PL000000028928" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0893a02 #0893a03"/>
         <ptr target="#A008831" type="person"/>
-        <ptr target="#CN0430781Z04AA" type="place"/>
+        <ptr target="#PL000000029560" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0893a02 #0893a03"/>
         <ptr target="#A008831" type="person"/>
-        <ptr target="#CN0000007D01AA" type="place"/>
+        <ptr target="#PL000000000197" type="place"/>
     </linkGrp>
 </div>

@@ -1,30 +1,31 @@
-<?xml version="1.0" encoding="UTF-8"?><div xml:id="mscc0356b15huito-isong" xmlns="http://www.tei-c.org/ns/1.0"><head>宋<placeName key="CN0360421Z06AA">尋陽</placeName><persName key="A002295">釋慧通</persName></head><p><anchor n="X.77.1523.0356b15"/><lb ed="X" n="0356b15"/><persName key="A002295">惠通</persName>不知所從來。多見在<placeName key="CN0360421Z06AA">尋陽</placeName>。常自稱<persName key="A002295">鄭散騎</persName>。<placeName key="CN0421003Z03AA">江陵</placeName><lb ed="X" n="0356b16"/>人邊<persName key="A003289">僧歸</persName>。商行至<placeName key="CN0140725Z13AA">壽陽</placeName>。將還<placeName key="CN0421003Z03AA">江陵</placeName>。<persName key="A002295">通</persName>欲寄物於其<lb ed="X" n="0356b17"/>上。<persName key="A003289">僧歸</persName>不肯受。<persName key="A002295">通</persName>強之。<persName key="A003289">僧歸</persName>為受。亦不覺重。行數里<lb ed="X" n="0356b18"/>別去。謂<persName key="A003289">僧歸</persName>曰。我有婦。在荊州<placeName key="CN0421003Z03AA">三層寺</placeName>作尼。名<persName key="A003290">惠緒</persName>。<lb ed="X" n="0356b19"/>汝至彼可為相聞道我尋往也。言畢忽然不見。<persName key="A003289">僧歸</persName><lb ed="X" n="0356b20"/>至<placeName key="CN0421003Z08AA">荊州</placeName>。具為<persName key="A003290">惠緒</persName>言之。<ptr target="fn9"/>結尼禪行道德人也。既無此<lb ed="X" n="0356b21"/>兄。不解所以。後至<placeName key="CN0140725Z13AA">壽陽</placeName>。尋之不知處。<persName key="A002295">通</persName>後來<placeName key="CN0421003Z08AA">荊州</placeName>。到<lb ed="X" n="0356b22"/><persName key="A003290">惠緒</persName>房。緒已死矣。訊問委悉。寺中知必<persName key="A002295">通</persName>也。由留<placeName key="CN0421003Z08AA">荊<lb ed="X" n="0356b23"/>洲</placeName>。與人行見丘墓。皆識名字氏族。四月八日。於上明<lb ed="X" n="0356b24"/><placeName key="CN0421087T01AA">東寺</placeName>齊。隨眾僧行道。於眾指示人云。某人經作刧。如<lb ed="X" n="0356c01"/>是者數人。群盜一時走去。於<placeName key="CN0421002Z10AA">江津</placeName>路值一人。以馬杖<lb ed="X" n="0356c02"/>鞭通。<persName key="A002295">通</persName>曰。汝<ptr target="fn10"/>忿歸看汝家何如。此人至家。火已燒其<lb ed="X" n="0356c03"/>宅矣。<date from-iso="0499-01-29" to-iso="0499-10-23" key="j19033451903612">齊永元初</date>。就任漾求酒曰。宜應遠行。永不復相<lb ed="X" n="0356c04"/>見。為謝諸知識。並宜精進。慎<ptr target="fn11"/>幼退轉。飲酒畢。至市東<lb ed="X" n="0356c05"/>墻臥地。既視死矣。數十日忽復於市見之。市人遂視。<lb ed="X" n="0356c06"/>久久乃沒也(云云)。</p>
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="mscc0356b15huito-isong"><head>宋<placeName key="PL000000018861">尋陽</placeName><persName key="A002295">釋慧通</persName></head><p><anchor n="X.77.1523.0356b15"/><lb ed="X" n="0356b15"/><persName key="A002295">惠通</persName>不知所從來。多見在<placeName key="PL000000018861">尋陽</placeName>。常自稱<persName key="A002295">鄭散騎</persName>。<placeName key="PL000000027766">江陵</placeName><lb ed="X" n="0356b16"/>人邊<persName key="A003289">僧歸</persName>。商行至<placeName key="PL000000004755">壽陽</placeName>。將還<placeName key="PL000000027766">江陵</placeName>。<persName key="A002295">通</persName>欲寄物於其<lb ed="X" n="0356b17"/>上。<persName key="A003289">僧歸</persName>不肯受。<persName key="A002295">通</persName>強之。<persName key="A003289">僧歸</persName>為受。亦不覺重。行數里<lb ed="X" n="0356b18"/>別去。謂<persName key="A003289">僧歸</persName>曰。我有婦。在荊州<placeName key="PL000000027766">三層寺</placeName>作尼。名<persName key="A003290">惠緒</persName>。<lb ed="X" n="0356b19"/>汝至彼可為相聞道我尋往也。言畢忽然不見。<persName key="A003289">僧歸</persName><lb ed="X" n="0356b20"/>至<placeName key="PL000000027771">荊州</placeName>。具為<persName key="A003290">惠緒</persName>言之。<ptr target="fn9"/>結尼禪行道德人也。既無此<lb ed="X" n="0356b21"/>兄。不解所以。後至<placeName key="PL000000004755">壽陽</placeName>。尋之不知處。<persName key="A002295">通</persName>後來<placeName key="PL000000027771">荊州</placeName>。到<lb ed="X" n="0356b22"/><persName key="A003290">惠緒</persName>房。緒已死矣。訊問委悉。寺中知必<persName key="A002295">通</persName>也。由留<placeName key="PL000000027771">荊<lb ed="X" n="0356b23"/>洲</placeName>。與人行見丘墓。皆識名字氏族。四月八日。於上明<lb ed="X" n="0356b24"/><placeName key="PL000000027918">東寺</placeName>齊。隨眾僧行道。於眾指示人云。某人經作刧。如<lb ed="X" n="0356c01"/>是者數人。群盜一時走去。於<placeName key="PL000000027728">江津</placeName>路值一人。以馬杖<lb ed="X" n="0356c02"/>鞭通。<persName key="A002295">通</persName>曰。汝<ptr target="fn10"/>忿歸看汝家何如。此人至家。火已燒其<lb ed="X" n="0356c03"/>宅矣。<date from-iso="0499-01-29" to-iso="0499-10-23" key="j19033451903612">齊永元初</date>。就任漾求酒曰。宜應遠行。永不復相<lb ed="X" n="0356c04"/>見。為謝諸知識。並宜精進。慎<ptr target="fn11"/>幼退轉。飲酒畢。至市東<lb ed="X" n="0356c05"/>墻臥地。既視死矣。數十日忽復於市見之。市人遂視。<lb ed="X" n="0356c06"/>久久乃沒也(云云)。</p>
     <linkGrp>
         <link targets="#0356b15 #0356b15"/>
         <ptr type="person" target="#A002295"/>
-        <ptr type="place" target="#CN0360421Z06AA"/>
+        <ptr type="place" target="#PL000000018861"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0356b15 #0356b19"/>
         <ptr type="person" target="#A002295"/>
         <ptr type="person" target="#A003289"/>
-        <ptr type="place" target="#CN0140725Z13AA"/>
+        <ptr type="place" target="#PL000000004755"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0356b19 #0356b21"/>
         <ptr type="person" target="#A003290"/>
         <ptr type="person" target="#A003289"/>
-        <ptr type="place" target="#CN0421003Z08AA"/>
+        <ptr type="place" target="#PL000000027771"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0356b23 #0356c01"/>
         <ptr type="person" target="#A002295"/>
-        <ptr type="place" target="#CN0421087T01AA"/>
+        <ptr type="place" target="#PL000000027918"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0356c01 #0356c03"/>
         <ptr type="person" target="#A002295"/>
-        <ptr type="place" target="#CN0421002Z10AA"/>
+        <ptr type="place" target="#PL000000027728"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0356c03 #0356c06"/>

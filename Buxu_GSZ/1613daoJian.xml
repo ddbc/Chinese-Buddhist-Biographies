@@ -1,19 +1,19 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0403b09daoJian">
     <head><lb ed="X" n="0403b09"/>　　　　<persName key="A020300">雲居簡</persName>傳</head>
-    <p><anchor n="X.77.1524.0403b10"/><lb ed="X" n="0403b10"/>禪師<persName key="A020300">道簡</persName>。其先范陽人。史失其氏。天姿粹美。閑靜寡
-        <lb ed="X" n="0403b11"/>言。童子剃髮。受滿分戒。徧遊叢席。造<placeName key="CN0360425M02AA">雲居</placeName>謁<persName key="A010588">膺</persName>禪師。
+    <p><anchor n="X.77.1524.0403b10"/><lb ed="X" n="0403b10"/>禪師<persName key="A020300">道簡</persName>。其先<placeName key="PL000000000370">范陽</placeName>人。史失其氏。天姿粹美。閑靜寡
+        <lb ed="X" n="0403b11"/>言。童子剃髮。受滿分戒。徧遊叢席。造<placeName key="PL000000018911">雲居</placeName>謁<persName key="A010588">膺</persName>禪師。
         <lb ed="X" n="0403b12"/><persName key="A010588">膺</persName>與語連三日。大奇之。戒令刻苦事眾。遂躬操井臼。
         <lb ed="X" n="0403b13"/>司樵爨。徧掌寺務。不妨商略古今。眾莫有知者。以臘
-        <lb ed="X" n="0403b14"/>高為堂中第一座。先是高安<placeName key="CN0360924T02AA">洞山</placeName>。有神靈甚。<persName key="A010588">膺</persName>公往
-        <lb ed="X" n="0403b15"/><placeName key="CN0360924M03AA">三峰</placeName>。時受服役。既來<placeName key="CN0360425M02AA">雲居</placeName>。神亦從至。舍于枯樹下。樹
+        <lb ed="X" n="0403b14"/>高為堂中第一座。先是高安<placeName key="PL000000019687">洞山</placeName>。有神靈甚。<persName key="A010588">膺</persName>公往
+        <lb ed="X" n="0403b15"/><placeName key="PL000000019684">三峰</placeName>。時受服役。既來<placeName key="PL000000018911">雲居</placeName>。神亦從至。舍于枯樹下。樹
         <lb ed="X" n="0403b16"/>茂。號<persName key="A020301">安樂樹神</persName>。屬<persName key="A010588">膺</persName>將順寂。主事僧白曰。和尚即不
         <lb ed="X" n="0403b17"/>諱。誰可繼者。曰。堂中<persName key="A020300">簡</persName>。主事僧。意不在<persName key="A020300">簡</persName>。謂令揀選
         <lb ed="X" n="0403b18"/>可當說法者。僉曰。第二座可然。且攝禮先請<persName key="A020300">簡</persName>。<persName key="A020300">簡</persName>豈
         <lb ed="X" n="0403b19"/>敢當也。既申請。<persName key="A020300">簡</persName>無所辭讓。即自持道具入方丈。攝
         <lb ed="X" n="0403b20"/>眾演法自如。主事僧大沮。師知之。一夕遁去。<persName key="A020301">安樂樹<lb ed="X" n="0403b21"/>神</persName>號泣。詰旦眾追至麥莊。悔過迎歸。聞空中連呼。曰
         <lb ed="X" n="0403b22"/>和尚來也。僧問。如何是和尚家風。曰。隨處得自在。問
-        <lb ed="X" n="0403b23"/><persName key="A002867">維摩</persName>豈不是金粟如來。曰是。曰。為甚麼却在<persName key="A002799">釋迦</persName>會
+        <lb ed="X" n="0403b23"/><persName key="A002867">維摩</persName>豈不是<persName key="A002867">金粟如來</persName>。曰是。曰。為甚麼却在<persName key="A002799">釋迦</persName>會
         <lb ed="X" n="0403b24"/>下聽法。曰。他不爭人我。問如何是朱頂王菩薩。曰。問
         <lb ed="X" n="0403c01"/>這赤頭漢作麼。問橫身蓋覆時如何。曰。還蓋得麼。問
         <lb ed="X" n="0403c02"/>蛇子什麼吞却蛇師。曰。在理何傷。問。諸佛道不得處。
@@ -24,10 +24,57 @@
         <lb ed="X" n="0403c07"/>如何。曰。高峰深海。迴絕孤危。似汝閨閣中軟暖麼。又
         <lb ed="X" n="0403c08"/>問。叢林多好論尊貴邊事如何。曰。要汝知大唐天子。
         <lb ed="X" n="0403c09"/>不會書斷會麼。<persName key="A020300">簡</persName>契悟精深。履踐明驗。而對機應物。
-        <lb ed="X" n="0403c10"/>度越凡量。天下宗之。壽八十餘。無疾而化。<placeName key="CN0340103Z14AA">廬州</placeName>帥張
-        <lb ed="X" n="0403c11"/>崇。為建塔本山。</p><p>
-            <lb ed="X" n="0403c12"/>系曰。有同安丕禪師者。與師同為<persName key="A010588">膺</persName>公嫡嗣。難兄弟
-            <lb ed="X" n="0403c13"/>也。丕之嗣曰同安志。志之嗣曰<persName key="A003665">梁山緣觀</persName>。自丕。自<persName key="A003665">觀</persName>。
+        <lb ed="X" n="0403c10"/>度越凡量。天下宗之。壽八十餘。無疾而化。<placeName key="PL000000015064">廬州</placeName>帥<persName key="A021741">張<lb ed="X" n="0403c11"/>崇</persName>。為建塔本山。</p><p>
+            <lb ed="X" n="0403c12"/>系曰。有<persName key="A020826">同安丕</persName>禪師者。與師同為<persName key="A010588">膺</persName>公嫡嗣。難兄弟
+            <lb ed="X" n="0403c13"/>也。<persName key="A020826">丕</persName>之嗣曰<persName key="A020827">同安志</persName>。<persName key="A020827">志</persName>之嗣曰<persName key="A003665">梁山緣觀</persName>。自丕。自<persName key="A003665">觀</persName>。
             <lb ed="X" n="0403c14"/>皆失考生。緣不及傳。<persName key="A003665">觀</persName>之子。則為<persName key="A004661">大陽玄</persName>矣。別具<persName key="A010588">膺</persName>
         <lb ed="X" n="0403c15"/>公。見宋傳。</p>
+    
+    <linkGrp>
+        <link targets="#0403b10 #0403b10"/>
+        <ptr target="#A020300" type="person"/>
+        <ptr target="#PL000000000370" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0403b10 #0403b18"/>
+        <ptr target="#A020300" type="person"/>
+        <ptr target="#A010588" type="person"/>
+        <ptr target="#PL000000018911" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0403b14 #0403b15"/>
+        <ptr target="#A010588" type="person"/>
+        <ptr target="#PL000000019684" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0403b18 #0403c10"/>
+        <ptr target="#A020300" type="person"/>
+        <ptr target="#PL000000018911" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0403b10 #0403c11"/>
+        <ptr target="#A021741" type="person"/>
+        <ptr target="#PL000000015064" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0403c12 #0403c13"/>
+        <ptr target="#A020300" type="person"/>
+        <ptr target="#A020826" type="person"/>
+        <ptr target="#A010588" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0403c13 #0403c14"/>
+        <ptr target="#A020826" type="person"/>
+        <ptr target="#A020827" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0403c13 #0403c14"/>
+        <ptr target="#A003665" type="person"/>
+        <ptr target="#A020827" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0403c14 #0403c14"/>
+        <ptr target="#A003665" type="person"/>
+        <ptr target="#A004661" type="person"/>
+    </linkGrp>
 </div>

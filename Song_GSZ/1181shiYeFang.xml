@@ -4,19 +4,19 @@
 <lb ed="T" n="0873a07"/><persName key="A010397">釋業方</persName>者，即<persName key="A006332">解脫禪師</persName>之法孫也。身長七尺
 <lb ed="T" n="0873a08"/>五寸，古貌軒昂，垂手過膝，眉長數寸，目有
 <lb ed="T" n="0873a09"/>重瞳。人望凜然，禮誦無倦，紹脫高躅，動合
-<lb ed="T" n="0873a10"/>無形，不捨利物，而再修梵宮。時<placeName key="CN0140110Z04AA">太原府</placeName>有
-<lb ed="T" n="0873a11"/>士女造立<persName key="A002144">文殊</persName>像一軀，將送入<placeName key="CN0140900M01AA">山</placeName>，到<placeName key="CN0140922R04AA">淲池
+<lb ed="T" n="0873a10"/>無形，不捨利物，而再修梵宮。時<placeName key="PL000000003794">太原府</placeName>有
+<lb ed="T" n="0873a11"/>士女造立<persName key="A002144">文殊</persName>像一軀，將送入<placeName key="PL000000005250">山</placeName>，到<placeName key="PL000000005356">淲池
 <lb ed="T" n="0873a12"/>河</placeName>側，洪波汎漲。<persName key="A010397">方</persName>乃隔岸焚香啟告，河為流
-<lb ed="T" n="0873a13"/>減，過<persName key="A002144">文殊</persName>畢，水還瀰溢。後終，建塔在<placeName key="CN0140922T04AA">寺</placeName>西
+<lb ed="T" n="0873a13"/>減，過<persName key="A002144">文殊</persName>畢，水還瀰溢。後終，建塔在<placeName key="PL000000005360">寺</placeName>西
 <lb ed="T" n="0873a14"/>北一里，肉身見存，而多神異焉。</p>
     <linkGrp>
         <link targets="#0873a10 #0873a13"/>
         <ptr target="#A010397" type="person"/>
-        <ptr target="#CN0140922R04AA" type="place"/>
+        <ptr target="#PL000000005356" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0873a13 #0873a14"/>
         <ptr target="#A010397" type="person"/>
-        <ptr target="#CN0140922T04AA" type="place"/>
+        <ptr target="#PL000000005360" type="place"/>
     </linkGrp>
 </div>

@@ -1,29 +1,29 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0401a16shiHuiXun">
-    <p><anchor n="T.50.2059.0401a17"/><lb ed="T" n="0401a17"/><persName key="A002319">釋慧詢</persName>，姓趙，<placeName key="CN0130133Z18AA">趙郡</placeName>人。少而蔬食苦行。經遊<lb ed="T" n="0401a18"/><placeName key="CN0610112Z07AA">長安</placeName>，受學<persName key="A001583">什公</persName>。研精經論，尤善《十誦》、《僧祇》。<lb ed="T" n="0401a19"/>乃更製條章，義貫終古。<date key="j18746411875585" notAfter-iso="0423" notBefore-iso="0420">宋永初中</date>，還止<placeName key="CN0321081Z27AA">廣<lb ed="T" n="0401a20"/>陵</placeName>，大開律席。<date from-iso="0424" key="j18761761886925" to-iso="0454">元嘉中</date>，至<ptr target="fn07"/><placeName key="CN0320106Z06AA">京</placeName>止<placeName key="CN0321002T10AA">道場寺</placeName>。寺僧<lb ed="T" n="0401a21"/><persName key="A001746">慧觀</persName>亦精於《十誦》，以<persName key="A002319">詢</persName>德為物範，乃令更<lb ed="T" n="0401a22"/>振他寺。於是移止<placeName key="CN0320101T67AA">長樂寺</placeName>。<date key="j18883731888755" from-iso="0458-02-01" to-iso="0459-02-18">大明二年</date>卒於<lb ed="T" n="0401a23"/>所住，春秋八十有四矣。</p>
+    <p><anchor n="T.50.2059.0401a17"/><lb ed="T" n="0401a17"/><persName key="A002319">釋慧詢</persName>，姓趙，<placeName key="PL000000001051">趙郡</placeName>人。少而蔬食苦行。經遊<lb ed="T" n="0401a18"/><placeName key="PL000000042393">長安</placeName>，受學<persName key="A001583">什公</persName>。研精經論，尤善《十誦》、《僧祇》。<lb ed="T" n="0401a19"/>乃更製條章，義貫終古。<date key="j18746411875585" notAfter-iso="0423" notBefore-iso="0420">宋永初中</date>，還止<placeName key="PL000000010897">廣<lb ed="T" n="0401a20"/>陵</placeName>，大開律席。<date from-iso="0424" key="j18761761886925" to-iso="0454">元嘉中</date>，至<ptr target="fn07"/><placeName key="PL000000008976">京</placeName>止<placeName key="PL000000010767">道場寺</placeName>。寺僧<lb ed="T" n="0401a21"/><persName key="A001746">慧觀</persName>亦精於《十誦》，以<persName key="A002319">詢</persName>德為物範，乃令更<lb ed="T" n="0401a22"/>振他寺。於是移止<placeName key="PL000000008709">長樂寺</placeName>。<date key="j18883731888755" from-iso="0458-02-01" to-iso="0459-02-18">大明二年</date>卒於<lb ed="T" n="0401a23"/>所住，春秋八十有四矣。</p>
     <linkGrp>
         <link targets="#0401a17 #0401a18"/>
         <ptr target="#A002319" type="person"/>
         <ptr target="#A001583" type="person"/>
-        <ptr target="#CN0610112Z07AA" type="place"/>
+        <ptr target="#PL000000042393" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0401a19 #0401a20"/>
         <ptr target="#A002319" type="person"/>
-        <ptr target="#CN0321081Z27AA" type="place"/>
+        <ptr target="#PL000000010897" type="place"/>
         <ptr target="#j18746411875585" type="time"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0401a20 #0401a21"/>
         <ptr target="#A002319" type="person"/>
         <ptr target="#A001746" type="person"/>
-        <ptr target="#CN0321002T10AA" type="place"/>
+        <ptr target="#PL000000010767" type="place"/>
         <ptr target="#j18761761886925" type="time"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0401a22 #0401a23"/>
         <ptr target="#A002319" type="person"/>
-        <ptr target="#CN0320101T67AA" type="place"/>
+        <ptr target="#PL000000008709" type="place"/>
         <ptr target="#j18883731888755" type="time"/>
     </linkGrp>
 </div>

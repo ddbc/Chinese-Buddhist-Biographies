@@ -1,15 +1,15 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0676a26shiTanLiang">
-    <p><anchor n="T.50.2060.0676a26"/><lb ed="T" n="0676a26"/><persName key="A007314">釋曇良</persName>。姓<ptr target="fn09"/>栗。<placeName key="CN0140402Z11AA">潞州</placeName>人。十六出家。專尋經典。<lb ed="T" n="0676a27"/>及長成德。以大論傳名。兼講小經。接敘<lb ed="T" n="0676a28"/>時俗亟發歸信。為眾賢之賞。入<placeName key="CN0610102Z14AA">京</placeName>遊聽住<lb ed="T" n="0676a29"/><placeName key="CN0610104T07AA">真寂寺</placeName>。<persName key="A004324">文帝</persName>下勅召送舍利于亳州<placeName key="CN0341602T02AA">開寂<lb ed="T" n="0676b01"/>寺</placeName>。將欲起塔先造石函。地非山鄉周訪難<lb ed="T" n="0676b02"/>得。<persName key="A007314">良</persName>曰。待覓得石期至<ptr target="fn＊"/>匹成但發勝心<lb ed="T" n="0676b03"/>何緣不濟。乃要心祈請願賜哀給。忽於州<lb ed="T" n="0676b04"/>境獲石三<ptr target="fn10"/>枚。底廂及蓋各是異縣。運來合<lb ed="T" n="0676b05"/>之<ptr target="fn11"/>宛是一物。眾嘉異之。具聞臺省。<persName key="A007314">良</persName>性<lb ed="T" n="0676b06"/>樂異迹周覽觀之。<placeName key="CN0341602Z07AA">亳州</placeName>西部<placeName key="CN0411628Z13AA">穀陽城</placeName>中有<lb ed="T" n="0676b07"/><persName key="A002104">老君</persName>宅。今為祠廟。庭前有<ptr target="fn12"/>栢三十餘株碑<lb ed="T" n="0676b08"/>文<persName key="A004458">薜道衡</persName>製。廟東百餘步<persName key="A002104">老君</persName>母宅。亦有廟<lb ed="T" n="0676b09"/>舍。次西十里有<placeName key="CN0411628Z19AA">苦城</placeName>。即傳所云<persName key="A002104">李<ptr target="fn13"/>聘</persName><placeName key="CN0411628Z19AA">苦縣</placeName><lb ed="T" n="0676b10"/>人。斯處是也。還歸本<placeName key="CN0610104T07AA">寺</placeName>專誠懺禮。食息已<lb ed="T" n="0676b11"/>外常在佛前。<date key="j19469511949949" notAfter-iso="0626" notBefore-iso="0618">唐初</date>卒<ptr target="fn14"/>也。八十餘矣。</p>
+    <p><anchor n="T.50.2060.0676a26"/><lb ed="T" n="0676a26"/><persName key="A007314">釋曇良</persName>。姓<ptr target="fn09"/>栗。<placeName key="PL000000004130">潞州</placeName>人。十六出家。專尋經典。<lb ed="T" n="0676a27"/>及長成德。以大論傳名。兼講小經。接敘<lb ed="T" n="0676a28"/>時俗亟發歸信。為眾賢之賞。入<placeName key="PL000000042196">京</placeName>遊聽住<lb ed="T" n="0676a29"/><placeName key="PL000000042296">真寂寺</placeName>。<persName key="A004324">文帝</persName>下勅召送舍利于亳州<placeName key="PL000000016483">開寂<lb ed="T" n="0676b01"/>寺</placeName>。將欲起塔先造石函。地非山鄉周訪難<lb ed="T" n="0676b02"/>得。<persName key="A007314">良</persName>曰。待覓得石期至<ptr target="fn＊"/>匹成但發勝心<lb ed="T" n="0676b03"/>何緣不濟。乃要心祈請願賜哀給。忽於州<lb ed="T" n="0676b04"/>境獲石三<ptr target="fn10"/>枚。底廂及蓋各是異縣。運來合<lb ed="T" n="0676b05"/>之<ptr target="fn11"/>宛是一物。眾嘉異之。具聞臺省。<persName key="A007314">良</persName>性<lb ed="T" n="0676b06"/>樂異迹周覽觀之。<placeName key="PL000000016494">亳州</placeName>西部<placeName key="PL000000026132">穀陽城</placeName>中有<lb ed="T" n="0676b07"/><persName key="A002104">老君</persName>宅。今為祠廟。庭前有<ptr target="fn12"/>栢三十餘株碑<lb ed="T" n="0676b08"/>文<persName key="A004458">薜道衡</persName>製。廟東百餘步<persName key="A002104">老君</persName>母宅。亦有廟<lb ed="T" n="0676b09"/>舍。次西十里有<placeName key="PL000000026138">苦城</placeName>。即傳所云<persName key="A002104">李<ptr target="fn13"/>聘</persName><placeName key="PL000000026138">苦縣</placeName><lb ed="T" n="0676b10"/>人。斯處是也。還歸本<placeName key="PL000000042296">寺</placeName>專誠懺禮。食息已<lb ed="T" n="0676b11"/>外常在佛前。<date key="j19469511949949" notAfter-iso="0626" notBefore-iso="0618">唐初</date>卒<ptr target="fn14"/>也。八十餘矣。</p>
     <linkGrp>
         <link targets="#0676a26 #0676a26"/>
         <ptr target="#A007314" type="person"/>
-        <ptr target="#CN0140402Z11AA" type="place"/>
+        <ptr target="#PL000000004130" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0676a28 #0676a29"/>
         <ptr target="#A007314" type="person"/>
-        <ptr target="#CN0610104T07AA" type="place"/>
+        <ptr target="#PL000000042296" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0676a29 #0676b01"/>
@@ -19,27 +19,27 @@
     <linkGrp>
         <link targets="#0676a29 #0676b05"/>
         <ptr target="#A007314" type="person"/>
-        <ptr target="#CN0341602T02AA" type="place"/>
+        <ptr target="#PL000000016483" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0676b06 #0676b07"/>
         <ptr target="#A002104" type="person"/>
-        <ptr target="#CN0411628Z13AA" type="place"/>
+        <ptr target="#PL000000026132" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0676b05 #0676b08"/>
         <ptr target="#A007314" type="person"/>
-        <ptr target="#CN0411628Z13AA" type="place"/>
+        <ptr target="#PL000000026132" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0676b08 #0676b10"/>
         <ptr target="#A002104" type="person"/>
-        <ptr target="#CN0411628Z19AA" type="place"/>
+        <ptr target="#PL000000026138" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0676b10 #0676b10"/>
         <ptr target="#A007314" type="person"/>
-        <ptr target="#CN0610104T07AA" type="place"/>
+        <ptr target="#PL000000042296" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0676b11 #0676b11"/>

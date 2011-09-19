@@ -2,9 +2,9 @@
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0804a27shiTanQing">
     <anchor n="T.50.2061.0804a27"/><head><date from-iso="0618-06-21" key="j19469512052491" to-iso="0907-06-06">唐</date>衡嶽寺<persName key="A011164">曇清</persName>傳</head><p>
 <lb ed="T" n="0804a28"/><persName key="A011164">釋曇清</persName>，未詳何許人也。幼持邊幅，罔或
-<lb ed="T" n="0804a29"/>迷方，以謹昏呶，究窮佛旨。乃負笈來<placeName key="CN0320503Z16AA">吳</placeName>北<pb ed="T" n="0804b" xml:id="T50.2061.0804b"/>
+<lb ed="T" n="0804a29"/>迷方，以謹昏呶，究窮佛旨。乃負笈來<placeName key="PL000000009928">吳</placeName>北<pb ed="T" n="0804b" xml:id="T50.2061.0804b"/>
         <lb ed="T" n="0804b01"/>院<persName key="A011021">道恒宗師</persName>法會，與<persName key="A011073">省躬</persName>猶滕、薛之前後也<note resp="sgsz">「滕薛爭長」，春秋時，滕侯與薛侯互爭席次的故事。見《左傳˙隱公十一年》：「十一年春，滕侯、薛侯來朝，爭長。」</note>。
-<lb ed="T" n="0804b02"/>旋留<placeName key="CN0430412M01AA">南嶽</placeName>化徒，適會<date from-iso="0806" key="j20154742020606" to-iso="0820">元和</date>中閬州<placeName key="CN0511381T03AA">龍與寺</placeName>
+<lb ed="T" n="0804b02"/>旋留<placeName key="PL000000028928">南嶽</placeName>化徒，適會<date from-iso="0806" key="j20154742020606" to-iso="0820">元和</date>中閬州<placeName key="PL000000036515">龍與寺</placeName>
 <lb ed="T" n="0804b03"/>結界，時<persName key="A011176">義嵩</persName>講<persName key="A001899">素</persName>新《疏》，傑出輩流，因云：「《僧
 <lb ed="T" n="0804b04"/>祇律》云：齊七樹相去，爾所作羯磨者，名善
 <lb ed="T" n="0804b05"/>作羯磨。準此四面，皆取六十三步等，如是
@@ -24,7 +24,7 @@
         <ptr target="#A011164" type="person"/>
         <ptr target="#A011021" type="person"/>
         <ptr target="#A011073" type="person"/>
-        <ptr target="#CN0320503Z16AA" type="place"/>
+        <ptr target="#PL000000009928" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0804b03 #0804b10"/>

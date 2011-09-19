@@ -1,17 +1,17 @@
 <div xmlns="http://www.tei-c.org/ns/1.0">
 	<p>
 		<app from="beg0709001" ana="3b">
-			<lem wit="【大】"><date from-iso="0988-11-17" key="j20822412082270" to-iso="0988-12-16">端拱元年十月</date>日<placeName key="CN0410204T06AA">左街天壽寺</placeName><persName key="A001910">通慧大師賜紫臣僧贊寧</persName>上表</lem>
+			<lem wit="【大】"><date from-iso="0988-11-17" key="j20822412082270" to-iso="0988-12-16">端拱元年十月</date>日<placeName key="PL000000023316">左街天壽寺</placeName><persName key="A001910">通慧大師賜紫臣僧贊寧</persName>上表</lem>
 			<rdg resp="Taisho" wit="【宋】【元】">（端拱…表）二十四字∞（臣僧…言）五百六字</rdg>
 			<rdg resp="sgsz" wit="【磧】"></rdg>
 		</app>
 		<app from="beg0709002" ana="3b">
 			<lem wit="【大】">（臣僧…言）五百六字</lem>
-			<rdg resp="Taisho" wit="【宋】【元】"><date from-iso="0988-11-17" key="j20822412082270" to-iso="0988-12-16">端拱元年十月</date>日<placeName key="CN0410204T06AA">左街天壽寺</placeName><persName key="A001910">通慧大師賜紫臣僧贊寧</persName>上表</rdg>
+			<rdg resp="Taisho" wit="【宋】【元】"><date from-iso="0988-11-17" key="j20822412082270" to-iso="0988-12-16">端拱元年十月</date>日<placeName key="PL000000023316">左街天壽寺</placeName><persName key="A001910">通慧大師賜紫臣僧贊寧</persName>上表</rdg>
 		</app>
 		<app from="beg0709sgsz1" ana="3b">
 			<lem wit="【大】"></lem>
-			<rdg resp="sgsz" wit="【磧】"><date from-iso="0988-11-17" key="j20822412082270" to-iso="0988-12-16">端拱元年十月</date>日<placeName key="CN0410204T06AA">左街天壽寺</placeName><persName key="A001910">通慧大師賜紫臣僧贊寧</persName>上表</rdg>
+			<rdg resp="sgsz" wit="【磧】"><date from-iso="0988-11-17" key="j20822412082270" to-iso="0988-12-16">端拱元年十月</date>日<placeName key="PL000000023316">左街天壽寺</placeName><persName key="A001910">通慧大師賜紫臣僧贊寧</persName>上表</rdg>
 		</app>
 		<app from="beg0709003" ana="1a">
 			<lem wit="【大】">有</lem>
@@ -70,9 +70,9 @@
 			<rdg resp="sgsz" wit="【磧】">有宋</rdg>
 		</app>
 		<app from="beg0710002" ana="3b">
-			<lem wit="【大】"><placeName key="CN0410204T06AA">宋左街天壽寺</placeName><persName key="A001910">通慧大師賜紫沙門贊寧</persName>等奉　勅撰</lem>
-			<rdg resp="Taisho" wit="【宋】【元】"><placeName key="CN0410204T06AA">左街天壽寺</placeName><persName key="A001910">通慧大師賜紫贊寧</persName><placeName key="CN0410204T02AA">左街相國寺</placeName><persName key="A001297">講經論大德賜紫智輪</persName>同奉勅撰</rdg>
-			<rdg resp="sgsz" wit="【磧】"><placeName key="CN0410204T06AA">左街大壽寺</placeName><persName key="A001910">通慧大師賜紫　贊寧</persName>　<placeName key="CN0410204T02AA">左街相國寺</placeName><persName key="A001297">講經論德賜紫　智輪</persName>同奉　勑撰</rdg>
+			<lem wit="【大】"><placeName key="PL000000023316">宋左街天壽寺</placeName><persName key="A001910">通慧大師賜紫沙門贊寧</persName>等奉　勅撰</lem>
+			<rdg resp="Taisho" wit="【宋】【元】"><placeName key="PL000000023316">左街天壽寺</placeName><persName key="A001910">通慧大師賜紫贊寧</persName><placeName key="PL000000023307">左街相國寺</placeName><persName key="A001297">講經論大德賜紫智輪</persName>同奉勅撰</rdg>
+			<rdg resp="sgsz" wit="【磧】"><placeName key="PL000000023316">左街大壽寺</placeName><persName key="A001910">通慧大師賜紫　贊寧</persName>　<placeName key="PL000000023307">左街相國寺</placeName><persName key="A001297">講經論德賜紫　智輪</persName>同奉　勑撰</rdg>
 		</app>
 		<app from="beg0710sgsz1" ana="2a">
 			<lem wit="【大】">險</lem>
@@ -239,10 +239,10 @@
 			<rdg resp="Taisho" wit="【宋】">大宋</rdg>
 			<rdg resp="sgsz" wit="【范】【磧】">大宋</rdg>
 		</app>
-		<app from="beg0710002" ana="3b">
-			<lem wit="【大】"><placeName key="CN0410204T06AA">宋左街天壽寺</placeName><persName key="A001910">通慧大師賜紫沙門贊寧</persName>等奉　勅撰</lem>
-			<rdg resp="Taisho" wit="【宋】"><placeName key="CN0410204T06AA">左街天壽寺</placeName><persName key="A001910">通慧大師賜紫贊寧</persName><placeName key="CN0410204T02AA">左街相國寺</placeName><persName key="A001297">講經論大德賜紫智輪</persName>同奉勅撰</rdg>
-			<rdg resp="sgsz" wit="【磧】"><placeName key="CN0410204T06AA">左街天壽寺</placeName><persName key="A001910">通慧大師賜紫　贊寧</persName>　<placeName key="CN0410204T02AA">左街相國寺</placeName><persName key="A001297">講經論大德賜紫　智輪</persName>同奉　勑撰</rdg>
+		<app from="beg0714003" ana="3b">
+			<lem wit="【大】"><placeName key="PL000000023316">宋左街天壽寺</placeName><persName key="A001910">通慧大師賜紫沙門贊寧</persName>等奉　勅撰</lem>
+			<rdg resp="Taisho" wit="【宋】"><placeName key="PL000000023316">左街天壽寺</placeName><persName key="A001910">通慧大師賜紫贊寧</persName><placeName key="PL000000023307">左街相國寺</placeName><persName key="A001297">講經論大德賜紫智輪</persName>同奉勅撰</rdg>
+			<rdg resp="sgsz" wit="【磧】"><placeName key="PL000000023316">左街天壽寺</placeName><persName key="A001910">通慧大師賜紫　贊寧</persName>　<placeName key="PL000000023307">左街相國寺</placeName><persName key="A001297">講經論大德賜紫　智輪</persName>同奉　勑撰</rdg>
 		</app>
 		<app from="beg0714004" ana="2a">
 			<lem wit="【大】">現</lem>
@@ -462,10 +462,10 @@
 			<rdg resp="Taisho" wit="【宋】">大宋</rdg>
 			<rdg resp="sgsz" wit="【范】【磧】">大宋</rdg>
 		</app>
-		<app from="beg0710005" ana="3b">
-			<lem wit="【大】"><placeName key="CN0410204T06AA">宋左街天壽寺</placeName><persName key="A001910">通慧大師賜紫沙門贊寧</persName>等奉　勅撰</lem>
-			<rdg resp="Taisho" wit="【宋】【元】"><placeName key="CN0410204T06AA">左街天壽寺</placeName><persName key="A001910">通慧大師賜紫贊寧</persName><placeName key="CN0410204T02AA">左街相國寺</placeName><persName key="A001297">講經論大德賜紫智輪</persName>同奉勅撰</rdg>
-			<rdg resp="sgsz" wit="【磧】"><placeName key="CN0410204T06AA">左街天壽寺</placeName><persName key="A001910">通慧大師賜紫　贊寧</persName>　<placeName key="CN0410204T02AA">左街相國寺</placeName><persName key="A001297">講經論大德賜紫　智輪</persName>同奉　勑撰</rdg>
+		<app from="beg0719005" ana="3b">
+			<lem wit="【大】"><placeName key="PL000000023316">宋左街天壽寺</placeName><persName key="A001910">通慧大師賜紫沙門贊寧</persName>等奉　勅撰</lem>
+			<rdg resp="Taisho" wit="【宋】【元】"><placeName key="PL000000023316">左街天壽寺</placeName><persName key="A001910">通慧大師賜紫贊寧</persName><placeName key="PL000000023307">左街相國寺</placeName><persName key="A001297">講經論大德賜紫智輪</persName>同奉勅撰</rdg>
+			<rdg resp="sgsz" wit="【磧】"><placeName key="PL000000023316">左街天壽寺</placeName><persName key="A001910">通慧大師賜紫　贊寧</persName>　<placeName key="PL000000023307">左街相國寺</placeName><persName key="A001297">講經論大德賜紫　智輪</persName>同奉　勑撰</rdg>
 		</app>
 		<app from="beg0720001" ana="4">
 			<lem wit="【大】">密</lem>
@@ -687,9 +687,13 @@
 			<rdg resp="sgsz" wit="【范】【磧】">大宋</rdg>
 		</app>
 		<app from="beg0725b01" ana="3b">
-			<lem wit="【大】"><placeName key="CN0410204T06AA">宋左街天壽寺</placeName><persName key="A001910">通慧大師賜紫沙門贊寧</persName>等奉　勅撰</lem>
-			<rdg resp="Taisho" wit="【宋】【元】"><placeName key="CN0410204T06AA">左街天壽寺</placeName><persName key="A001910">通慧大師賜紫贊寧</persName><placeName key="CN0410204T02AA">左街相國寺</placeName><persName key="A001297">講經論大德賜紫智輪</persName>同奉勅撰</rdg>
-			<rdg resp="sgsz" wit="【磧】"><placeName key="CN0410204T06AA">左街天壽寺</placeName><persName key="A001910">通慧大師賜紫　贊寧</persName>　<placeName key="CN0410204T02AA">左街相國寺</placeName><persName key="A001297">講經論大德賜紫　智輪</persName>同奉　勑撰</rdg>
+			<lem wit="【大】"><placeName key="PL000000023316">宋左街天壽寺</placeName><persName key="A001910">通慧大師賜紫沙門贊寧</persName>等奉　勅撰</lem>
+			<rdg resp="Taisho" wit="【宋】【元】"><placeName key="PL000000023316">左街天壽寺</placeName><persName key="A001910">通慧大師賜紫贊寧</persName><placeName key="PL000000023307">左街相國寺</placeName><persName key="A001297">講經論大德賜紫智輪</persName>同奉勅撰</rdg>
+			<rdg resp="sgsz" wit="【磧】"><placeName key="PL000000023316">左街天壽寺</placeName><persName key="A001910">通慧大師賜紫　贊寧</persName>　<placeName key="PL000000023307">左街相國寺</placeName><persName key="A001297">講經論大德賜紫　智輪</persName>同奉　勑撰</rdg>
+		</app>
+		<app from="beg0725b02" ana="2b">
+			<lem wit="【大】">二十一</lem>
+			<rdg resp="sgsz" wit="【范】【磧】">二十</rdg>
 		</app>
 		<app from="beg0725004" ana="1a">
 			<lem wit="【大】">此</lem>
@@ -902,15 +906,15 @@
 			<lem wit="【大】">請</lem>
 			<rdg resp="sgsz" wit="【范】【磧】">諸</rdg>
 		</app>
-		<app from="beg0732sgsz2" ana="3b">
+		<app from="beg0732a01" ana="3b">
 			<lem wit="【大】">宋</lem>
 			<rdg resp="Taisho" wit="【宋】【元】">大宋</rdg>
 			<rdg resp="sgsz" wit="【范】【磧】">大宋</rdg>
 		</app>
-		<app from="beg0732a10" ana="3b">
-			<lem wit="【大】"><placeName key="CN0410204T06AA">宋左街天壽寺</placeName><persName key="A001910">通慧大師賜紫沙門贊寧</persName>等奉　勅撰</lem>
-			<rdg resp="Taisho" wit="【宋】【元】"><placeName key="CN0410204T06AA">左街天壽寺</placeName><persName key="A001910">通慧大師賜紫贊寧</persName><placeName key="CN0410204T02AA">左街相國寺</placeName><persName key="A001297">講經論大德賜紫智輪</persName>同奉勅撰</rdg>
-			<rdg resp="sgsz" wit="【磧】"><placeName key="CN0410204T06AA">左街天壽寺</placeName><persName key="A001910">通慧大師賜紫　贊寧</persName>　<placeName key="CN0410204T02AA">左街相國寺</placeName><persName key="A001297">講經論大德賜紫　智輪</persName>同奉　勑撰</rdg>
+		<app from="beg0732a02" ana="3b">
+			<lem wit="【大】"><placeName key="PL000000023316">宋左街天壽寺</placeName><persName key="A001910">通慧大師賜紫沙門贊寧</persName>等奉　勅撰</lem>
+			<rdg resp="Taisho" wit="【宋】【元】"><placeName key="PL000000023316">左街天壽寺</placeName><persName key="A001910">通慧大師賜紫贊寧</persName><placeName key="PL000000023307">左街相國寺</placeName><persName key="A001297">講經論大德賜紫智輪</persName>同奉勅撰</rdg>
+			<rdg resp="sgsz" wit="【磧】"><placeName key="PL000000023316">左街天壽寺</placeName><persName key="A001910">通慧大師賜紫　贊寧</persName>　<placeName key="PL000000023307">左街相國寺</placeName><persName key="A001297">講經論大德賜紫　智輪</persName>同奉　勑撰</rdg>
 		</app>
 		<app from="beg0732sgsz3" ana="4">
 			<lem wit="【大】">獅</lem>
@@ -1041,6 +1045,425 @@
 		<app from="beg0736sgsz1" ana="3b">
 			<lem wit="【大】">工</lem>
 			<rdg resp="sgsz" wit="【范】【磧】">功</rdg>
+		</app>
+		<app from="beg0736002" ana="3b">
+			<lem wit="【大】">高</lem>
+			<rdg resp="Taisho" wit="【宋】【元】">焉</rdg>
+			<rdg resp="sgsz" wit="【范】【磧】">焉</rdg>
+		</app>
+		<app from="beg0736sgsz2" ana="3b">
+			<lem wit="【大】">華</lem>
+			<rdg resp="sgsz" wit="【范】【磧】">花</rdg>
+		</app>
+		<app from="beg0736003" ana="1a">
+			<lem wit="【大】">儀</lem>
+			<rdg resp="Taisho" wit="【宋】">義</rdg>
+			<rdg resp="sgsz" wit="【范】【磧】">義</rdg>
+		</app>
+		<app from="beg0736sgsz3" ana="3b">
+			<lem wit="【大】">罏</lem>
+			<rdg resp="sgsz" wit="【范】【磧】">鑪</rdg>
+		</app>
+		<app from="beg0736sgsz4" ana="4">
+			<lem wit="【大】">潯</lem>
+			<rdg resp="sgsz" wit="【范】【磧】">尋</rdg>
+		</app>
+		<app from="beg0736sgsz5" ana="3b">
+			<lem wit="【大】">惟</lem>
+			<rdg resp="sgsz" wit="【范】【磧】">唯</rdg>
+		</app>
+		<app from="beg0736004" ana="1a">
+			<lem wit="【大】">乾</lem>
+			<rdg resp="Taisho" wit="【宋】">元</rdg>
+			<rdg resp="sgsz" wit="【范】">元</rdg>
+			<rdg resp="sgsz" wit="【磧】">乾</rdg>
+		</app>
+		<app from="beg0737sgsz1" ana="1b">
+			<lem wit="【大】">壺</lem>
+			<rdg resp="sgsz" wit="【范】【磧】">壼</rdg>
+		</app>
+		<app from="beg0737sgsz2" ana="3a">
+			<lem wit="【大】">禮</lem>
+			<rdg resp="sgsz" wit="【范】【磧】">礼</rdg>
+		</app>
+		<app from="beg0737001" ana="3b">
+			<lem wit="【大】">是</lem>
+			<rdg resp="Taisho" wit="【宋】【元】">大</rdg>
+			<rdg resp="sgsz" wit="【范】【磧】">大</rdg>
+		</app>
+		<app from="beg0737sgsz3" ana="2b">
+			<lem wit="【大】">耀</lem>
+			<rdg resp="sgsz" wit="【范】【磧】">躍</rdg>
+		</app>
+		<app from="beg0737sgsz4" ana="4">
+			<lem wit="【大】">杭</lem>
+			<rdg resp="sgsz" wit="【范】【磧】">抗</rdg>
+		</app>
+		<app from="beg0737sgsz5" ana="2a">
+			<lem wit="【大】">寺</lem>
+			<rdg resp="sgsz" wit="【范】">寺</rdg>
+			<rdg resp="sgsz" wit="【磧】">持</rdg>
+		</app>
+		<app from="beg0738sgsz1" ana="2b">
+			<lem wit="【大】">揚</lem>
+			<rdg resp="sgsz" wit="【范】">揚</rdg>
+			<rdg resp="sgsz" wit="【磧】">楊</rdg>
+		</app>
+		<app from="beg0738sgsz2" ana="3b">
+			<lem wit="【大】">宋</lem>
+			<rdg resp="Taisho" wit="【宋】【元】">大宋</rdg>
+			<rdg resp="sgsz" wit="【范】【磧】">大宋</rdg>
+		</app>
+		<app from="beg0738sgsz3" ana="3b">
+			<lem wit="【大】">卷第</lem>
+			<rdg resp="sgsz" wit="【范】">卷第</rdg>
+			<rdg resp="sgsz" wit="【磧】">第</rdg>
+		</app>
+		<app from="beg0738b01" ana="3b">
+			<lem wit="【大】"><placeName key="PL000000023316">宋左街天壽寺</placeName><persName key="A001910">通慧大師賜紫沙門贊寧</persName>等奉　勅撰</lem>
+			<rdg resp="Taisho" wit="【宋】【元】"><placeName key="PL000000023316">左街天壽寺</placeName><persName key="A001910">通慧大師賜紫贊寧</persName><placeName key="PL000000023307">左街相國寺</placeName><persName key="A001297">講經論大德賜紫智輪</persName>同奉勅撰</rdg>
+			<rdg resp="sgsz" wit="【磧】"><placeName key="PL000000023316">左街天壽寺</placeName><persName key="A001910">通慧大師賜紫　贊寧</persName>　<placeName key="PL000000023307">左街相國寺</placeName><persName key="A001297">講經論大德賜紫　智輪</persName>同奉　勑撰</rdg>
+		</app>
+		<app from="beg0738002" ana="1a">
+			<lem wit="【大】">傳一</lem>
+			<rdg resp="Taisho" wit="【宋】【元】">傳</rdg>
+			<rdg resp="sgsz" wit="【范】【磧】">傳</rdg>
+		</app>
+		<app from="beg0738sgsz4" ana="4">
+			<lem wit="【大】">憑翊</lem>
+			<rdg resp="sgsz" wit="【范】【磧】">馮翊</rdg>
+		</app>
+		<app from="beg0738sgsz4" ana="4">
+			<lem wit="【大】">憑翊</lem>
+			<rdg resp="sgsz" wit="【范】【磧】">馮翊</rdg>
+		</app>
+		<app from="beg0738003" ana="4">
+			<lem wit="【大】">弘</lem>
+			<rdg resp="Taisho" wit="【宋】【元】">恒</rdg>
+			<rdg resp="sgsz" wit="【范】">弘</rdg>
+			<rdg resp="sgsz" wit="【磧】">恒</rdg>
+		</app>
+		<app from="beg0738004" ana="3b">
+			<lem wit="【大】">佛</lem>
+			<rdg resp="Taisho" wit="【宋】【元】">旃</rdg>
+			<rdg resp="sgsz" wit="【范】【磧】">旃</rdg>
+		</app>
+		<app from="beg0739sgsz1" ana="3a">
+			<lem wit="【大】">禮</lem>
+			<rdg resp="sgsz" wit="【范】【磧】">礼</rdg>
+		</app>
+		<app from="beg0739001" ana="2a">
+			<lem wit="【大】">表</lem>
+			<rdg resp="Taisho" wit="【宋】【元】">耒</rdg>
+			<rdg resp="sgsz" wit="【范】">表</rdg>
+			<rdg resp="sgsz" wit="【磧】">耒</rdg>
+		</app>
+		<app from="beg0739002" ana="3b">
+			<lem wit="【大】">總</lem>
+			<rdg resp="Taisho" wit="【宋】【元】">𩮀</rdg>
+			<rdg resp="sgsz" wit="【范】【磧】">𩮀</rdg>
+		</app>
+		<app from="beg0739sgsz2" ana="3a">
+			<lem wit="【大】">默</lem>
+			<rdg resp="sgsz" wit="【范】【磧】">嘿</rdg>
+		</app>
+		<app from="beg0739003" ana="2a">
+			<lem wit="【大】">饑</lem>
+			<rdg resp="Taisho" wit="【宋】【元】">餓</rdg>
+			<rdg resp="sgsz" wit="【范】">饑</rdg>
+			<rdg resp="sgsz" wit="【磧】">餓</rdg>
+		</app>
+		<app from="beg0739004" ana="2a">
+			<lem wit="【大】">自</lem>
+			<rdg resp="Taisho" wit="【宋】【元】">善</rdg>
+			<rdg resp="sgsz" wit="【范】">自</rdg>
+			<rdg resp="sgsz" wit="【磧】">善</rdg>
+		</app>
+		<app from="beg0739005" ana="3b">
+			<lem wit="【大】">然</lem>
+			<rdg resp="Taisho" wit="【宋】【元】">如</rdg>
+			<rdg resp="sgsz" wit="【范】">然</rdg>
+			<rdg resp="sgsz" wit="【磧】">如</rdg>
+		</app>
+		<app from="beg0740sgsz1" ana="2a">
+			<lem wit="【大】">宗</lem>
+			<rdg resp="sgsz" wit="【范】">宗</rdg>
+			<rdg resp="sgsz" wit="【磧】">三</rdg>
+		</app>
+		<app from="beg0740sgsz2" ana="1b">
+			<lem wit="【大】">炮</lem>
+			<rdg resp="sgsz" wit="【范】【磧】">炰</rdg>
+		</app>
+		<app from="beg0740001" ana="1a">
+			<lem wit="【大】">辯</lem>
+			<rdg resp="Taisho" wit="【宋】【元】">辨</rdg>
+			<rdg resp="sgsz" wit="【范】【磧】">辨</rdg>
+		</app>
+		<app from="beg0740002" ana="3b">
+			<lem wit="【大】">亹亹</lem>
+			<rdg resp="Taisho" wit="【宋】">斖斖</rdg>
+			<rdg resp="sgsz" wit="【范】【磧】">亹亹</rdg>
+		</app>
+		<app from="beg0745b01" ana="3b">
+			<lem wit="【大】"><placeName key="PL000000023316">宋左街天壽寺</placeName><persName key="A001910">通慧大師賜紫沙門贊寧</persName>等奉　勅撰</lem>
+			<rdg resp="Taisho" wit="【宋】【元】"><placeName key="PL000000023316">左街天壽寺</placeName><persName key="A001910">通慧大師賜紫贊寧</persName><placeName key="PL000000023307">左街相國寺</placeName><persName key="A001297">講經論大德賜紫智輪</persName>同奉勅撰</rdg>
+			<rdg resp="sgsz" wit="【磧】"><placeName key="PL000000023316">左街天壽寺</placeName><persName key="A001910">通慧大師賜紫　贊寧</persName>　<placeName key="PL000000023307">左街相國寺</placeName><persName key="A001297">講經論大德賜紫　智輪</persName>同奉　勑撰</rdg>
+		</app>
+		<app from="beg0754sgsz1" ana="3b">
+			<lem wit="【大】">宋</lem>
+			<rdg resp="Taisho" wit="【宋】【元】">大宋</rdg>
+			<rdg resp="sgsz" wit="【范】【磧】">大宋</rdg>
+		</app>
+		<app from="beg0754a01" ana="3b">
+			<lem wit="【大】"><placeName key="PL000000023316">宋左街天壽寺</placeName><persName key="A001910">通慧大師賜紫沙門贊寧</persName>等奉　勅撰</lem>
+			<rdg resp="Taisho" wit="【宋】【元】"><placeName key="PL000000023316">左街天壽寺</placeName><persName key="A001910">通慧大師賜紫贊寧</persName><placeName key="PL000000023307">左街相國寺</placeName><persName key="A001297">講經論大德賜紫智輪</persName>同奉勅撰</rdg>
+			<rdg resp="sgsz" wit="【磧】"><placeName key="PL000000023316">左街天壽寺</placeName><persName key="A001910">通慧大師賜紫　贊寧</persName>　<placeName key="PL000000023307">左街相國寺</placeName><persName key="A001297">講經論大德賜紫　智輪</persName>同奉　勑撰</rdg>
+		</app>
+		<app from="beg0760sgsz1" ana="3b">
+			<lem wit="【大】">宋</lem>
+			<rdg resp="Taisho" wit="【宋】【元】">大宋</rdg>
+			<rdg resp="sgsz" wit="【范】【磧】">大宋</rdg>
+		</app>
+		<app from="beg0760b01" ana="3b">
+			<lem wit="【大】"><placeName key="PL000000023316">宋左街天壽寺</placeName><persName key="A001910">通慧大師賜紫沙門贊寧</persName>等奉　勅撰</lem>
+			<rdg resp="Taisho" wit="【宋】【元】"><placeName key="PL000000023316">左街天壽寺</placeName><persName key="A001910">通慧大師賜紫贊寧</persName><placeName key="PL000000023307">左街相國寺</placeName><persName key="A001297">講經論大德賜紫智輪</persName>同奉勅撰</rdg>
+			<rdg resp="sgsz" wit="【磧】"><placeName key="PL000000023316">左街天壽寺</placeName><persName key="A001910">通慧大師賜紫　贊寧</persName>　<placeName key="PL000000023307">左街相國寺</placeName><persName key="A001297">講經論大德賜紫　智輪</persName>同奉　勑撰</rdg>
+		</app>
+		<app from="beg0766sgsz1" ana="3b">
+			<lem wit="【大】">宋</lem>
+			<rdg resp="Taisho" wit="【宋】【元】">大宋</rdg>
+			<rdg resp="sgsz" wit="【范】【磧】">大宋</rdg>
+		</app>
+		<app from="beg0766a01" ana="3b">
+			<lem wit="【大】"><placeName key="PL000000023316">宋左街天壽寺</placeName><persName key="A001910">通慧大師賜紫沙門贊寧</persName>等奉　勅撰</lem>
+			<rdg resp="Taisho" wit="【宋】【元】"><placeName key="PL000000023316">左街天壽寺</placeName><persName key="A001910">通慧大師賜紫贊寧</persName><placeName key="PL000000023307">左街相國寺</placeName><persName key="A001297">講經論大德賜紫智輪</persName>同奉勅撰</rdg>
+			<rdg resp="sgsz" wit="【磧】"><placeName key="PL000000023316">左街天壽寺</placeName><persName key="A001910">通慧大師賜紫　贊寧</persName>　<placeName key="PL000000023307">左街相國寺</placeName><persName key="A001297">講經論大德賜紫　智輪</persName>同奉　勑撰</rdg>
+		</app>
+		<app from="beg0771004" ana="3b">
+			<lem wit="【大】">宋高僧傳</lem>
+			<rdg resp="Taisho" wit="【宋】【元】">大宋高僧傳</rdg>
+			<rdg resp="sgsz" wit="【范】【磧】">大宋高僧傳</rdg>
+		</app>
+		<app from="beg0771c01" ana="3b">
+			<lem wit="【大】"><placeName key="PL000000023316">宋左街天壽寺</placeName><persName key="A001910">通慧大師賜紫沙門贊寧</persName>等奉　勅撰</lem>
+			<rdg resp="Taisho" wit="【宋】【元】"><placeName key="PL000000023316">左街天壽寺</placeName><persName key="A001910">通慧大師賜紫贊寧</persName><placeName key="PL000000023307">左街相國寺</placeName><persName key="A001297">講經論大德賜紫智輪</persName>同奉勅撰</rdg>
+			<rdg resp="sgsz" wit="【磧】"><placeName key="PL000000023316">左街天壽寺</placeName><persName key="A001910">通慧大師賜紫　贊寧</persName>　<placeName key="PL000000023307">左街相國寺</placeName><persName key="A001297">講經論大德賜紫　智輪</persName>同奉　勑撰</rdg>
+		</app>
+		<app from="beg0778a01" ana="3b">
+			<lem wit="【大】">宋</lem>
+			<rdg resp="Taisho" wit="【宋】【元】">大宋</rdg>
+			<rdg resp="sgsz" wit="【范】【磧】">大宋</rdg>
+		</app>
+		<app from="beg0778a02" ana="3b">
+			<lem wit="【大】"><placeName key="PL000000023316">宋左街天壽寺</placeName><persName key="A001910">通慧大師賜紫沙門贊寧</persName>等奉　勅撰</lem>
+			<rdg resp="Taisho" wit="【宋】【元】"><placeName key="PL000000023316">左街天壽寺</placeName><persName key="A001910">通慧大師賜紫贊寧</persName><placeName key="PL000000023307">左街相國寺</placeName><persName key="A001297">講經論大德賜紫智輪</persName>同奉勅撰</rdg>
+			<rdg resp="sgsz" wit="【磧】"><placeName key="PL000000023316">左街天壽寺</placeName><persName key="A001910">通慧大師賜紫　贊寧</persName>　<placeName key="PL000000023307">左街相國寺</placeName><persName key="A001297">講經論大德賜紫　智輪</persName>同奉　勑撰</rdg>
+		</app>
+		<app from="beg0784sgsz1" ana="3b">
+			<lem wit="【大】">宋</lem>
+			<rdg resp="Taisho" wit="【宋】【元】">大宋</rdg>
+			<rdg resp="sgsz" wit="【范】【磧】">大宋</rdg>
+		</app>
+		<app from="beg0784b02" ana="3b">
+			<lem wit="【大】"><placeName key="PL000000023316">宋左街天壽寺</placeName><persName key="A001910">通慧大師賜紫沙門贊寧</persName>等奉　勅撰</lem>
+			<rdg resp="Taisho" wit="【宋】【元】"><placeName key="PL000000023316">左街天壽寺</placeName><persName key="A001910">通慧大師賜紫贊寧</persName><placeName key="PL000000023307">左街相國寺</placeName><persName key="A001297">講經論大德賜紫智輪</persName>同奉勅撰</rdg>
+			<rdg resp="sgsz" wit="【磧】"><placeName key="PL000000023316">左街天壽寺</placeName><persName key="A001910">通慧大師賜紫　贊寧</persName>　<placeName key="PL000000023307">左街相國寺</placeName><persName key="A001297">講經論大德賜紫　智輪</persName>同奉　勑撰</rdg>
+		</app>
+		<app from="beg0790b01" ana="3b">
+			<lem wit="【大】">宋</lem>
+			<rdg resp="Taisho" wit="【宋】【元】">大宋</rdg>
+			<rdg resp="sgsz" wit="【范】【磧】">大宋</rdg>
+		</app>
+		<app from="beg0790b02" ana="3b">
+			<lem wit="【大】"><placeName key="PL000000023316">宋左街天壽寺</placeName><persName key="A001910">通慧大師賜紫沙門贊寧</persName>等奉　勅撰</lem>
+			<rdg resp="Taisho" wit="【宋】【元】"><placeName key="PL000000023316">左街天壽寺</placeName><persName key="A001910">通慧大師賜紫贊寧</persName><placeName key="PL000000023307">左街相國寺</placeName><persName key="A001297">講經論大德賜紫智輪</persName>同奉勅撰</rdg>
+			<rdg resp="sgsz" wit="【磧】"><placeName key="PL000000023316">左街天壽寺</placeName><persName key="A001910">通慧大師賜紫　贊寧</persName>　<placeName key="PL000000023307">左街相國寺</placeName><persName key="A001297">講經論大德賜紫　智輪</persName>同奉　勑撰</rdg>
+		</app>
+		<app from="beg0799a02" ana="3b">
+			<lem wit="【大】">宋</lem>
+			<rdg resp="Taisho" wit="【宋】【元】">大宋</rdg>
+			<rdg resp="sgsz" wit="【范】【磧】">大宋</rdg>
+		</app>
+		<app from="beg0799a03" ana="3b">
+			<lem wit="【大】"><placeName key="PL000000023316">宋左街天壽寺</placeName><persName key="A001910">通慧大師賜紫沙門贊寧</persName>等奉　勅撰</lem>
+			<rdg resp="Taisho" wit="【宋】【元】"><placeName key="PL000000023316">左街天壽寺</placeName><persName key="A001910">通慧大師賜紫贊寧</persName><placeName key="PL000000023307">左街相國寺</placeName><persName key="A001297">講經論大德賜紫智輪</persName>同奉勅撰</rdg>
+			<rdg resp="sgsz" wit="【磧】"><placeName key="PL000000023316">左街天壽寺</placeName><persName key="A001910">通慧大師賜紫　贊寧</persName>　<placeName key="PL000000023307">左街相國寺</placeName><persName key="A001297">講經論大德賜紫　智輪</persName>同奉　勑撰</rdg>
+		</app>
+		<app from="beg0806a01" ana="3b">
+			<lem wit="【大】">宋</lem>
+			<rdg resp="Taisho" wit="【宋】【元】">大宋</rdg>
+			<rdg resp="sgsz" wit="【范】【磧】">大宋</rdg>
+		</app>
+		<app from="beg0806a02" ana="3b">
+			<lem wit="【大】"><placeName key="PL000000023316">宋左街天壽寺</placeName><persName key="A001910">通慧大師賜紫沙門贊寧</persName>等奉　勅撰</lem>
+			<rdg resp="Taisho" wit="【宋】【元】"><placeName key="PL000000023316">左街天壽寺</placeName><persName key="A001910">通慧大師賜紫贊寧</persName><placeName key="PL000000023307">左街相國寺</placeName><persName key="A001297">講經論大德賜紫智輪</persName>同奉勅撰</rdg>
+			<rdg resp="sgsz" wit="【磧】"><placeName key="PL000000023316">左街天壽寺</placeName><persName key="A001910">通慧大師賜紫　贊寧</persName>　<placeName key="PL000000023307">左街相國寺</placeName><persName key="A001297">講經論大德賜紫　智輪</persName>同奉　勑撰</rdg>
+		</app>
+		<app from="beg0812b02" ana="3b">
+			<lem wit="【大】">宋</lem>
+			<rdg resp="Taisho" wit="【宋】【元】">大宋</rdg>
+			<rdg resp="sgsz" wit="【范】【磧】">大宋</rdg>
+		</app>
+		<app from="beg0812b03" ana="3b">
+			<lem wit="【大】"><placeName key="PL000000023316">宋左街天壽寺</placeName><persName key="A001910">通慧大師賜紫沙門贊寧</persName>等奉　勅撰</lem>
+			<rdg resp="Taisho" wit="【宋】【元】"><placeName key="PL000000023316">左街天壽寺</placeName><persName key="A001910">通慧大師賜紫贊寧</persName><placeName key="PL000000023307">左街相國寺</placeName><persName key="A001297">講經論大德賜紫智輪</persName>同奉勅撰</rdg>
+			<rdg resp="sgsz" wit="【磧】"><placeName key="PL000000023316">左街天壽寺</placeName><persName key="A001910">通慧大師賜紫　贊寧</persName>　<placeName key="PL000000023307">左街相國寺</placeName><persName key="A001297">講經論大德賜紫　智輪</persName>同奉　勑撰</rdg>
+		</app>
+		<app from="beg0820b02" ana="3b">
+			<lem wit="【大】">宋</lem>
+			<rdg resp="Taisho" wit="【宋】【元】">大宋</rdg>
+			<rdg resp="sgsz" wit="【范】【磧】">大宋</rdg>
+		</app>
+		<app from="beg0820b03" ana="3b">
+			<lem wit="【大】"><placeName key="PL000000023316">宋左街天壽寺</placeName><persName key="A001910">通慧大師賜紫沙門贊寧</persName>等奉　勅撰</lem>
+			<rdg resp="Taisho" wit="【宋】【元】"><placeName key="PL000000023316">左街天壽寺</placeName><persName key="A001910">通慧大師賜紫贊寧</persName><placeName key="PL000000023307">左街相國寺</placeName><persName key="A001297">講經論大德賜紫智輪</persName>同奉勅撰</rdg>
+			<rdg resp="sgsz" wit="【磧】"><placeName key="PL000000023316">左街天壽寺</placeName><persName key="A001910">通慧大師賜紫　贊寧</persName>　<placeName key="PL000000023307">左街相國寺</placeName><persName key="A001297">講經論大德賜紫　智輪</persName>同奉　勑撰</rdg>
+		</app>
+		<app from="beg0828b01" ana="3b">
+			<lem wit="【大】">宋</lem>
+			<rdg resp="Taisho" wit="【宋】【元】">大宋</rdg>
+			<rdg resp="sgsz" wit="【范】【磧】">大宋</rdg>
+		</app>
+		<app from="beg0828002" ana="3b">
+			<lem wit="【大】">卷第</lem>
+			<rdg resp="Taisho" wit="【宋】【元】">第</rdg>
+			<rdg resp="sgsz" wit="【范】【磧】">第</rdg>
+		</app>
+		<app from="beg0828b02" ana="3b">
+			<lem wit="【大】"><placeName key="PL000000023316">宋左街天壽寺</placeName><persName key="A001910">通慧大師賜紫沙門贊寧</persName>等奉　勅撰</lem>
+			<rdg resp="Taisho" wit="【宋】【元】"><placeName key="PL000000023316">左街天壽寺</placeName><persName key="A001910">通慧大師賜紫贊寧</persName><placeName key="PL000000023307">左街相國寺</placeName><persName key="A001297">講經論大德賜紫智輪</persName>同奉勅撰</rdg>
+			<rdg resp="sgsz" wit="【磧】"><placeName key="PL000000023316">左街天壽寺</placeName><persName key="A001910">通慧大師賜紫　贊寧</persName>　<placeName key="PL000000023307">左街相國寺</placeName><persName key="A001297">講經論大德賜紫　智輪</persName>同奉　勑撰</rdg>
+		</app>
+		<app from="beg0836b01" ana="3b">
+			<lem wit="【大】">宋</lem>
+			<rdg resp="Taisho" wit="【宋】【元】">大宋</rdg>
+			<rdg resp="sgsz" wit="【范】【磧】">大宋</rdg>
+		</app>
+		<app from="beg0836002" ana="3b">
+			<lem wit="【大】">卷第</lem>
+			<rdg resp="Taisho" wit="【宋】【元】">第</rdg>
+			<rdg resp="sgsz" wit="【范】">卷第</rdg>
+			<rdg resp="sgsz" wit="【磧】">第</rdg>
+		</app>
+		<app from="beg0836b02" ana="3b">
+			<lem wit="【大】"><placeName key="PL000000023316">宋左街天壽寺</placeName><persName key="A001910">通慧大師賜紫沙門贊寧</persName>等奉　勅撰</lem>
+			<rdg resp="Taisho" wit="【宋】【元】"><placeName key="PL000000023316">左街天壽寺</placeName><persName key="A001910">通慧大師賜紫贊寧</persName><placeName key="PL000000023307">左街相國寺</placeName><persName key="A001297">講經論大德賜紫智輪</persName>同奉勅撰</rdg>
+			<rdg resp="sgsz" wit="【磧】"><placeName key="PL000000023316">左街天壽寺</placeName><persName key="A001910">通慧大師賜紫　贊寧</persName>　<placeName key="PL000000023307">左街相國寺</placeName><persName key="A001297">講經論大德賜紫　智輪</persName>同奉　勑撰</rdg>
+		</app>
+		<app from="beg0843a01" ana="3b">
+			<lem wit="【大】">宋</lem>
+			<rdg resp="Taisho" wit="【宋】【元】">大宋</rdg>
+			<rdg resp="sgsz" wit="【范】【磧】">大宋</rdg>
+		</app>
+		<app from="beg0843a02" ana="3b">
+			<lem wit="【大】"><placeName key="PL000000023316">宋左街天壽寺</placeName><persName key="A001910">通慧大師賜紫沙門贊寧</persName>等奉　勅撰</lem>
+			<rdg resp="Taisho" wit="【宋】【元】"><placeName key="PL000000023316">左街天壽寺</placeName><persName key="A001910">通慧大師賜紫贊寧</persName><placeName key="PL000000023307">左街相國寺</placeName><persName key="A001297">講經論大德賜紫智輪</persName>同奉勅撰</rdg>
+			<rdg resp="sgsz" wit="【磧】"><placeName key="PL000000023316">左街天壽寺</placeName><persName key="A001910">通慧大師賜紫　贊寧</persName>　<placeName key="PL000000023307">左街相國寺</placeName><persName key="A001297">講經論大德賜紫　智輪</persName>同奉　勑撰</rdg>
+		</app>
+		<app from="beg0849c02" ana="3b">
+			<lem wit="【大】">宋</lem>
+			<rdg resp="Taisho" wit="【宋】【元】">大宋</rdg>
+			<rdg resp="sgsz" wit="【范】【磧】">大宋</rdg>
+		</app>
+		<app from="beg0849c03" ana="3b">
+			<lem wit="【大】"><placeName key="PL000000023316">宋左街天壽寺</placeName><persName key="A001910">通慧大師賜紫沙門贊寧</persName>等奉　勅撰</lem>
+			<rdg resp="Taisho" wit="【宋】【元】"><placeName key="PL000000023316">左街天壽寺</placeName><persName key="A001910">通慧大師賜紫贊寧</persName><placeName key="PL000000023307">左街相國寺</placeName><persName key="A001297">講經論大德賜紫智輪</persName>同奉勅撰</rdg>
+			<rdg resp="sgsz" wit="【磧】"><placeName key="PL000000023316">左街天壽寺</placeName><persName key="A001910">通慧大師賜紫　贊寧</persName>　<placeName key="PL000000023307">左街相國寺</placeName><persName key="A001297">講經論大德賜紫　智輪</persName>同奉　勑撰</rdg>
+		</app>
+		<app from="beg0855a02" ana="3b">
+			<lem wit="【大】">宋</lem>
+			<rdg resp="Taisho" wit="【宋】【元】">大宋</rdg>
+			<rdg resp="sgsz" wit="【范】【磧】">大宋</rdg>
+		</app>
+		<app from="beg0855a03" ana="3b">
+			<lem wit="【大】"><placeName key="PL000000023316">宋左街天壽寺</placeName><persName key="A001910">通慧大師賜紫沙門贊寧</persName>等奉　勅撰</lem>
+			<rdg resp="Taisho" wit="【宋】【元】"><placeName key="PL000000023316">左街天壽寺</placeName><persName key="A001910">通慧大師賜紫贊寧</persName><placeName key="PL000000023307">左街相國寺</placeName><persName key="A001297">講經論大德賜紫智輪</persName>同奉勅撰</rdg>
+			<rdg resp="sgsz" wit="【磧】"><placeName key="PL000000023316">左街天壽寺</placeName><persName key="A001910">通慧大師賜紫　贊寧</persName>　<placeName key="PL000000023307">左街相國寺</placeName><persName key="A001297">講經論大德賜紫　智輪</persName>同奉　勑撰</rdg>
+		</app>
+		<app from="beg0862a03" ana="3b">
+			<lem wit="【大】">宋</lem>
+			<rdg resp="Taisho" wit="【宋】【元】">大宋</rdg>
+			<rdg resp="sgsz" wit="【范】【磧】">大宋</rdg>
+		</app>
+		<app from="beg0862a04" ana="3b">
+			<lem wit="【大】"><placeName key="PL000000023316">宋左街天壽寺</placeName><persName key="A001910">通慧大師賜紫沙門贊寧</persName>等奉　勅撰</lem>
+			<rdg resp="Taisho" wit="【宋】【元】"><placeName key="PL000000023316">左街天壽寺</placeName><persName key="A001910">通慧大師賜紫贊寧</persName><placeName key="PL000000023307">左街相國寺</placeName><persName key="A001297">講經論大德賜紫智輪</persName>同奉勅撰</rdg>
+			<rdg resp="sgsz" wit="【磧】"><placeName key="PL000000023316">左街天壽寺</placeName><persName key="A001910">通慧大師賜紫　贊寧</persName>　<placeName key="PL000000023307">左街相國寺</placeName><persName key="A001297">講經論大德賜紫　智輪</persName>同奉　勑撰</rdg>
+		</app>
+		<app from="beg0866c02" ana="3b">
+			<lem wit="【大】">宋</lem>
+			<rdg resp="Taisho" wit="【宋】【元】">大宋</rdg>
+			<rdg resp="sgsz" wit="【范】【磧】">大宋</rdg>
+		</app>
+		<app from="beg0866sgsz1" ana="2b">
+			<lem wit="【大】">二</lem>
+			<rdg resp="sgsz" wit="【范】">二</rdg>
+			<rdg resp="sgsz" wit="【磧】">一</rdg>
+		</app>
+		<app from="beg0866c03" ana="3b">
+			<lem wit="【大】"><placeName key="PL000000023316">宋左街天壽寺</placeName><persName key="A001910">通慧大師賜紫沙門贊寧</persName>等奉　勅撰</lem>
+			<rdg resp="Taisho" wit="【宋】【元】"><placeName key="PL000000023316">左街天壽寺</placeName><persName key="A001910">通慧大師賜紫贊寧</persName><placeName key="PL000000023307">左街相國寺</placeName><persName key="A001297">講經論大德賜紫智輪</persName>同奉勅撰</rdg>
+			<rdg resp="sgsz" wit="【磧】"><placeName key="PL000000023316">左街天壽寺</placeName><persName key="A001910">通慧大師賜紫　贊寧</persName>　<placeName key="PL000000023307">左街相國寺</placeName><persName key="A001297">講經論大德賜紫　智輪</persName>同奉　勑撰</rdg>
+		</app>
+		<app from="beg0866sgsz2" ana="2b">
+			<lem wit="【大】">二</lem>
+			<rdg resp="sgsz" wit="【范】">二</rdg>
+			<rdg resp="sgsz" wit="【磧】">一</rdg>
+		</app>
+		<app from="beg0872c02" ana="3b">
+			<lem wit="【大】">宋</lem>
+			<rdg resp="Taisho" wit="【宋】【元】">大宋</rdg>
+			<rdg resp="sgsz" wit="【范】【磧】">大宋</rdg>
+		</app>
+		<app from="beg0872c03" ana="3b">
+			<lem wit="【大】"><placeName key="PL000000023316">宋左街天壽寺</placeName><persName key="A001910">通慧大師賜紫沙門贊寧</persName>等奉　勅撰</lem>
+			<rdg resp="Taisho" wit="【宋】【元】"><placeName key="PL000000023316">左街天壽寺</placeName><persName key="A001910">通慧大師賜紫贊寧</persName><placeName key="PL000000023307">左街相國寺</placeName><persName key="A001297">講經論大德賜紫智輪</persName>同奉勅撰</rdg>
+			<rdg resp="sgsz" wit="【磧】"><placeName key="PL000000023316">左街天壽寺</placeName><persName key="A001910">通慧大師賜紫　贊寧</persName>　<placeName key="PL000000023307">左街相國寺</placeName><persName key="A001297">講經論大德賜紫　智輪</persName>同奉　勑撰</rdg>
+		</app>
+		<app from="beg0878b02" ana="3b">
+			<lem wit="【大】">宋</lem>
+			<rdg resp="Taisho" wit="【宋】【元】">大宋</rdg>
+			<rdg resp="sgsz" wit="【范】【磧】">大宋</rdg>
+		</app>
+		<app from="beg0878b03" ana="3b">
+			<lem wit="【大】"><placeName key="PL000000023316">宋左街天壽寺</placeName><persName key="A001910">通慧大師賜紫沙門贊寧</persName>等奉　勅</lem>
+			<rdg resp="Taisho" wit="【宋】【元】"><placeName key="PL000000023316">左街天壽寺</placeName><persName key="A001910">通慧大師賜紫贊寧</persName><placeName key="PL000000023307">左街相國寺</placeName><persName key="A001297">講經論大德賜紫智輪</persName>同奉勅</rdg>
+			<rdg resp="sgsz" wit="【磧】"><placeName key="PL000000023316">左街天壽寺</placeName><persName key="A001910">通慧大師賜紫　贊寧</persName>　<placeName key="PL000000023307">左街相國寺</placeName><persName key="A001297">講經論大德賜紫　智輪</persName>同奉　勑</rdg>
+		</app>
+		<app from="beg0878008" ana="3b">
+			<lem wit="【大】">譯</lem>
+			<rdg resp="Taisho" wit="【宋】【元】">撰</rdg>
+			<rdg resp="sgsz" wit="【磧】">撰</rdg>
+		</app>
+		<app from="beg0883c02" ana="3b">
+			<lem wit="【大】">宋</lem>
+			<rdg resp="Taisho" wit="【宋】【元】">大宋</rdg>
+			<rdg resp="sgsz" wit="【范】【磧】">大宋</rdg>
+		</app>
+		<app from="beg0883c03" ana="3b">
+			<lem wit="【大】"><placeName key="PL000000023316">宋左街天壽寺</placeName><persName key="A001910">通慧大師賜紫沙門贊寧</persName>等奉　勅撰</lem>
+			<rdg resp="Taisho" wit="【宋】【元】"><placeName key="PL000000023316">左街天壽寺</placeName><persName key="A001910">通慧大師賜紫贊寧</persName><placeName key="PL000000023307">左街相國寺</placeName><persName key="A001297">講經論大德賜紫智輪</persName>同奉勅撰</rdg>
+			<rdg resp="sgsz" wit="【磧】"><placeName key="PL000000023316">左街天壽寺</placeName><persName key="A001910">通慧大師賜紫　贊寧</persName>　<placeName key="PL000000023307">左街相國寺</placeName><persName key="A001297">講經論大德賜紫　智輪</persName>同奉　勑撰</rdg>
+		</app>
+		<app from="beg0888c02" ana="3b">
+			<lem wit="【大】">宋</lem>
+			<rdg resp="Taisho" wit="【宋】【元】">大宋</rdg>
+			<rdg resp="sgsz" wit="【范】【磧】">大宋</rdg>
+		</app>
+		<app from="beg0888c03" ana="3b">
+			<lem wit="【大】"><placeName key="PL000000023316">宋左街天壽寺</placeName><persName key="A001910">通慧大師賜紫沙門贊寧</persName>等奉　勅撰</lem>
+			<rdg resp="Taisho" wit="【宋】【元】"><placeName key="PL000000023316">左街天壽寺</placeName><persName key="A001910">通慧大師賜紫贊寧</persName><placeName key="PL000000023307">左街相國寺</placeName><persName key="A001297">講經論大德賜紫智輪</persName>同奉勅撰</rdg>
+			<rdg resp="sgsz" wit="【磧】"><placeName key="PL000000023316">左街天壽寺</placeName><persName key="A001910">通慧大師賜紫　贊寧</persName>　<placeName key="PL000000023307">左街相國寺</placeName><persName key="A001297">講經論大德賜紫　智輪</persName>同奉　勑撰</rdg>
+		</app>
+		<app from="beg0894c02" ana="3b">
+			<lem wit="【大】">宋</lem>
+			<rdg resp="Taisho" wit="【宋】【元】">大宋</rdg>
+			<rdg resp="sgsz" wit="【范】【磧】">大宋</rdg>
+		</app>
+		<app from="beg0894c03" ana="3b">
+			<lem wit="【大】"><placeName key="PL000000023316">宋左街天壽寺</placeName><persName key="A001910">通慧大師賜紫沙門贊寧</persName>等奉　勅撰</lem>
+			<rdg resp="Taisho" wit="【宋】【元】"><placeName key="PL000000023316">左街天壽寺</placeName><persName key="A001910">通慧大師賜紫贊寧</persName><placeName key="PL000000023307">左街相國寺</placeName><persName key="A001297">講經論大德賜紫智輪</persName>同奉勅撰</rdg>
+			<rdg resp="sgsz" wit="【磧】"><placeName key="PL000000023316">左街天壽寺</placeName><persName key="A001910">通慧大師賜紫　贊寧</persName>　<placeName key="PL000000023307">左街相國寺</placeName><persName key="A001297">講經論大德賜紫　智輪</persName>同奉　勑撰</rdg>
 		</app>
 	</p>
 </div>

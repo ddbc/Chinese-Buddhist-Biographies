@@ -5,22 +5,22 @@
 <lb ed="T" n="0785b19"/>則氣槩凌物，精爽殆與常不同。早參<persName key="A009489">洞山</persName>，
 <lb ed="T" n="0785b20"/>深入玄奧，其辯給又多於人也。嘗問<persName key="A005255">香嚴
 <lb ed="T" n="0785b21"/>禪師</persName>，答微有偏負。曰：「某累繭重胝而至，得
-<lb ed="T" n="0785b22"/>無勞乎？」唾地而去。後居臨川<placeName key="CN0361027T03AA">疎山</placeName>，毳客趨
+<lb ed="T" n="0785b22"/>無勞乎？」唾地而去。後居臨川<placeName key="PL000000019973">疎山</placeName>，毳客趨
 <lb ed="T" n="0785b23"/>請，頗有言辭，著《四大等頌略》、《華嚴長者論》，
 <lb ed="T" n="0785b24"/>行于世。終入龕中，已有白鹿至靈前屈
-<lb ed="T" n="0785b25"/>膝而起，時眾謂為作弔焉。次筠州<placeName key="CN0360983T03AA">白水院</placeName>
+<lb ed="T" n="0785b25"/>膝而起，時眾謂為作弔焉。次筠州<placeName key="PL000000019777">白水院</placeName>
 <lb ed="T" n="0785b26"/><persName key="A009487">釋本仁</persName>，不知何許人也。得心於<persName key="A009489">洞山</persName>法席。
 <lb ed="T" n="0785b27"/>仁罕談道，而四方之人若影之附形，却之
-<lb ed="T" n="0785b28"/>還至。乃徇<placeName key="CN0321102Z12AA">丹陽</placeName>人請，住無幾時。<date from-iso="0901" key="j20502812051391" to-iso="0904">天復</date>中，至
-<lb ed="T" n="0785b29"/>洪井高安<placeName key="CN0360983T03AA">白水院</placeName>聚徒。垂欲入滅，先觸處<pb ed="T" n="0785c" xml:id="T50.2061.0785c"/>
+<lb ed="T" n="0785b28"/>還至。乃徇<placeName key="PL000000010986">丹陽</placeName>人請，住無幾時。<date from-iso="0901" key="j20502812051391" to-iso="0904">天復</date>中，至
+<lb ed="T" n="0785b29"/>洪井高安<placeName key="PL000000019777">白水院</placeName>聚徒。垂欲入滅，先觸處<pb ed="T" n="0785c" xml:id="T50.2061.0785c"/>
 <lb ed="T" n="0785c01"/>告違，乃集眾焚香曰：「至香煙盡處，是某涅
 <lb ed="T" n="0785c02"/>槃時。」如其言，端坐而化。次龍牙山<persName key="A010681">釋居遁</persName>，
-<lb ed="T" n="0785c03"/>姓郭氏，臨川<placeName key="CN0361021Z23AA">南城</placeName>人也。年殆十四，警世無常
-<lb ed="T" n="0785c04"/>而守恬淡。白親往求出家于廬陵<placeName key="CN0360802T06AA">滿田寺</placeName>。於
-<lb ed="T" n="0785c05"/><placeName key="CN0410185M02AA">嵩山</placeName>受具戒，已思其擇木，乃參翠微<!--找不到此地-->禪會，
+<lb ed="T" n="0785c03"/>姓郭氏，臨川<placeName key="PL000000019880">南城</placeName>人也。年殆十四，警世無常
+<lb ed="T" n="0785c04"/>而守恬淡。白親往求出家于廬陵<placeName key="PL000000019370">滿田寺</placeName>。於
+<lb ed="T" n="0785c05"/><placeName key="PL000000023253">嵩山</placeName>受具戒，已思其擇木，乃參翠微<!--找不到此地-->禪會，
 <lb ed="T" n="0785c06"/>迷復未歸，莫知投詣。聞<persName key="A009489">洞上</persName>言玄格峻，而
 <lb ed="T" n="0785c07"/>躬造之。<persName key="A010681">遁</persName>少進問曰：「何謂祖意？」答曰：「若洞
-<lb ed="T" n="0785c08"/>水逆流，即當為說。」而於言下體解玄微。隱
+        <lb ed="T" n="0785c08"/>水逆流，即當為說。」而於言下體解玄微<ptr target="#n773"/>。隱
 <lb ed="T" n="0785c09"/>眾栖息，七八年間孜孜戢曜，時不我知，久
         <lb ed="T" n="0785c10"/>則通矣。<persName key="A011960">天策府楚王馬氏</persName>素藉芳音，奉之
 <lb ed="T" n="0785c11"/>若孝悌之門稟毘長矣。乃請居龍牙山<!--找不到此地-->妙
@@ -43,7 +43,7 @@
     <linkGrp>
         <link targets="#0785b22 #0785b23"/>
         <ptr target="#A010678" type="person"/>
-        <ptr target="#CN0361027T03AA" type="place"/>
+        <ptr target="#PL000000019973" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0785b26 #0785b27"/>
@@ -53,23 +53,23 @@
     <linkGrp>
         <link targets="#0785b28 #0785b28"/>
         <ptr target="#A009487" type="person"/>
-        <ptr target="#CN0321102Z12AA" type="place"/>
+        <ptr target="#PL000000010986" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0785b28 #0785b29"/>
         <ptr target="#A009487" type="person"/>
-        <ptr target="#CN0360983T03AA" type="place"/>
+        <ptr target="#PL000000019777" type="place"/>
         <ptr target="#j20502812051391" type="time"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0785c04 #0785c04"/>
         <ptr target="#A010681" type="person"/>
-        <ptr target="#CN0360802T06AA" type="place"/>
+        <ptr target="#PL000000019370" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0785c04 #0785c05"/>
         <ptr target="#A010681" type="person"/>
-        <ptr target="#CN0410185M02AA" type="place"/>
+        <ptr target="#PL000000023253" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0785c06 #0785c08"/>

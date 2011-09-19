@@ -1,21 +1,84 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0425a17linGong">
-    <head><lb ed="X" n="0425a17"/>　　　　<placeName key="unknown">月華山</placeName><persName key="A020798">琳公</persName>傳(<persName key="unknown">雲達</persName>附)</head>
-    <p><anchor n="X.77.1524.0425a18"/><lb ed="X" n="0425a18"/><persName key="A020798">琳公</persName>。曲江<placeName key="unknown">都渚</placeName>人。姓鄧氏。少學儒。能談王伯大略。已
-        <lb ed="X" n="0425a19"/>而學佛。誦經得度。以詩自雄。往來<placeName key="CN0340001D01AA">江淮</placeName>間。博覽廣記。
-        <lb ed="X" n="0425a20"/>推為文章僧。徐而知非。一掃前習。參<persName key="A014368">寶師</persName>於<placeName key="CN0360924T02AA">洞山</placeName>。一
+    <head><lb ed="X" n="0425a17"/>　　　　<placeName key="PL000000030545">月華山</placeName><persName key="A020798">琳公</persName>傳(<persName key="A021978">雲達</persName>附)</head>
+    <p><anchor n="X.77.1524.0425a18"/><lb ed="X" n="0425a18"/><persName key="A020798">琳公</persName>。<placeName key="PL000000030568">曲江</placeName>都渚人。姓鄧氏。少學儒。能談王伯大略。已
+        <lb ed="X" n="0425a19"/>而學佛。誦經得度。以詩自雄。往來<placeName key="PL000000015039">江淮</placeName>間。博覽廣記。
+        <lb ed="X" n="0425a20"/>推為文章僧。徐而知非。一掃前習。參<persName key="A014368">寶師</persName>於<placeName key="PL000000019687">洞山</placeName>。一
         <lb ed="X" n="0425a21"/>見已心大器之。久之。遂付心印。因南還。結菴於舊山
-        <lb ed="X" n="0425a22"/>之<placeName key="unknown">白蓮</placeName>。學者聞其名。自遠至者無算。州以眾狀請出
+        <lb ed="X" n="0425a22"/>之<placeName key="PL000000030546">白蓮</placeName>。學者聞其名。自遠至者無算。州以眾狀請出
         <lb ed="X" n="0425a23"/>世。師遁大洞中累月。眾求不已。得之黽勉從赴。自是
         <lb ed="X" n="0425a24"/>縉紳緇素。途經江滸。無不艤舟造室。師高論自嘉。致
         <lb ed="X" n="0425b01"/>人人有得而返。四方衲子。奔走於路。一言之下達心
-        <lb ed="X" n="0425b02"/>要。為人師者數十人。晚年避喧退居<placeName key="unknown">西堂</placeName>。諸方因稱
-        <lb ed="X" n="0425b03"/><persName key="A020798">西堂琳公</persName>。<placeName key="unknown">寶林山</placeName>為六祖道場。詔擇名德。錫殊名命
+        <lb ed="X" n="0425b02"/>要。為人師者數十人。晚年避喧退居<placeName key="PL000000030547">西堂</placeName>。諸方因稱
+        <lb ed="X" n="0425b03"/><persName key="A020798">西堂琳公</persName>。<placeName key="PL000000030578">寶林山</placeName>為<persName key="A001719">六祖</persName>道場。詔擇名德。錫殊名命
         <lb ed="X" n="0425b04"/>服以居之。漕臺以為舉。固辭不行。乃即菴自甓壽藏
-        <lb ed="X" n="0425b05"/>曰。吾歸骨於此矣。地舊為<placeName key="unknown">月華山</placeName><persName key="A010296">招提朗</persName>弘法處也。
-        <lb ed="X" n="0425b06"/><persName key="A010296">朗</persName>歿眾散。寺亦隨廢。至師復大興。僉謂後身。<persName key="unknown">余襄公<lb ed="X" n="0425b07"/>靖</persName>銘其藏曰。湛然性相本無為。涉于形器有持隳。他
-        <lb ed="X" n="0425b08"/>年幻質此於歸。甞言無佛良遣有知。<persName key="unknown">雲達</persName>。桂州<placeName key="CN0450321Z14AA">陽朔</placeName>
+        <lb ed="X" n="0425b05"/>曰。吾歸骨於此矣。地舊為<placeName key="PL000000030545">月華山</placeName><persName key="A010296">招提朗</persName>弘法處也。
+        <lb ed="X" n="0425b06"/><persName key="A010296">朗</persName>歿眾散。寺亦隨廢。至師復大興。僉謂後身。<persName key="A021946">余襄公<lb ed="X" n="0425b07"/>靖</persName>銘其藏曰。湛然性相本無為。涉于形器有持隳。他
+        <lb ed="X" n="0425b08"/>年幻質此於歸。甞言無佛良遣有知。<persName key="A021978">雲達</persName>。桂州<placeName key="PL000000032275">陽朔</placeName>
         <lb ed="X" n="0425b09"/>人。甞曰。生本無物。何有本鄉。悟在于心。豈須戲論。南
-        <lb ed="X" n="0425b10"/>游<placeName key="CN0360924T02AA">洞山</placeName>。<persName key="A014368">寶禪師</persName>授以大乘之要。竟不出世。隱於羅浮
-        <lb ed="X" n="0425b11"/>山之<placeName key="unknown">黃龍洞</placeName>。自得而已。</p>
+        <lb ed="X" n="0425b10"/>游<placeName key="PL000000019687">洞山</placeName>。<persName key="A014368">寶禪師</persName>授以大乘之要。竟不出世。隱於羅浮
+        <lb ed="X" n="0425b11"/>山之<placeName key="PL000000031277">黃龍洞</placeName>。自得而已。</p>
+    
+    <linkGrp>
+        <link targets="#0425a18 #0425a18"/> 
+        <ptr target="#A020798" type="person"/>
+        <ptr target="#PL000000030568" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0425a18 #0425a20"/> 
+        <ptr target="#A020798" type="person"/>
+        <ptr target="#PL000000015039" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0425a20 #0425a21"/> 
+        <ptr target="#A020798" type="person"/>
+        <ptr target="#A014368" type="person"/>
+        <ptr target="#PL000000019687" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0425a21 #0425a22"/> 
+        <ptr target="#A020798" type="person"/>
+        <ptr target="#PL000000030546" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0425b02 #0425b03"/> 
+        <ptr target="#A020798" type="person"/>
+        <ptr target="#PL000000030547" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0425b03 #0425b03"/> 
+        <ptr target="#A001719" type="person"/>
+        <ptr target="#PL000000030578" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0425b04 #0425b05"/> 
+        <ptr target="#A020798" type="person"/>
+        <ptr target="#PL000000030545" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0425b05 #0425b05"/> 
+        <ptr target="#A010296" type="person"/>
+        <ptr target="#PL000000030545" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0425b03 #0425b06"/> 
+        <ptr target="#A020798" type="person"/>
+        <ptr target="#PL000000030578" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0425b08 #0425b09"/> 
+        <ptr target="#A021978" type="person"/>
+        <ptr target="#PL000000032275" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0425b09 #0425b10"/> 
+        <ptr target="#A021978" type="person"/>
+        <ptr target="#A014368" type="person"/>
+        <ptr target="#PL000000019687" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0425b10 #0425b11"/> 
+        <ptr target="#A021978" type="person"/>
+        <ptr target="#PL000000031277" type="place"/>
+    </linkGrp>
 </div>

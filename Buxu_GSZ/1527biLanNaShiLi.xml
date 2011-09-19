@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0371c12biLanNaShiLi">
     <head><lb ed="X" n="0371c12"/>　　　　<persName key="A019673">必蘭納識理</persName>傳</head>
-    <p><anchor n="X.77.1524.0371c13"/><lb ed="X" n="0371c13"/><persName key="A019673">必蘭納識理</persName>者。初名<persName key="A019673">只剌瓦彌的理</persName>。北庭<placeName key="CN0652327E01AA">感本魯國</placeName>
+    <p><anchor n="X.77.1524.0371c13"/><lb ed="X" n="0371c13"/><persName key="A019673">必蘭納識理</persName>者。初名<persName key="A019673">只剌瓦彌的理</persName>。北庭<placeName key="PL000000047609">感本魯國</placeName>
         <lb ed="X" n="0371c14"/>人。幼熟畏兀兒。及西天書。長能貫通三藏。及諸國語。
-        <lb ed="X" n="0371c15"/><date from-iso="1302-02-07" to-iso="1303-01-26" key="j21966432196996">大德六年</date>。奉旨從帝師。受戒於<placeName key="CN0110102A05AA">廣寒殿</placeName>。代<ref type="person" target="#A004321">帝</ref>出家。更
+        <lb ed="X" n="0371c15"/><date from-iso="1302-02-07" to-iso="1303-01-26" key="j21966432196996">大德六年</date>。奉旨從帝師。受戒於<placeName key="PL000000000269">廣寒殿</placeName>。代<ref type="person" target="#A004321">帝</ref>出家。更
         <lb ed="X" n="0371c16"/>賜今名。<date from-iso="1312-02-16" to-iso="1314-01-24" key="j22003042201012">皇慶中</date>。命翻譯諸梵經典。<date from-iso="1314-01-25" to-iso="1321-02-05" key="j22010132203581">延祐間</date>。賜銀印。授
         <lb ed="X" n="0371c17"/>光祿大夫。是時。諸番朝貢。表牋文字。無能識者。皆令
         <lb ed="X" n="0371c18"/><persName key="A019673">必蘭納識理</persName>譯進。甞有以金刻字為表進者。<ref type="person" target="#A002087">帝</ref>遣視
@@ -16,7 +16,7 @@
     <linkGrp>
         <link targets="#0371c13 #0371c14"/>
         <ptr target="#A019673" type="person"/>
-        <ptr target="#CN0652327E01AA" type="place"/>
+        <ptr target="#PL000000047609" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0371c15 #0371c16"/>
@@ -27,7 +27,7 @@
     <linkGrp>
         <link targets="#0371c15 #0371c16"/>
         <ptr target="#A019673" type="person"/>
-        <ptr target="#CN0110102A05AA" type="place"/>
+        <ptr target="#PL000000000269" type="place"/>
         <ptr target="#j21966432196996" type="time"/>
     </linkGrp>
     <linkGrp>
@@ -39,7 +39,7 @@
         <link targets="#0371c16 #0371c22"/>
         <ptr target="#A002087" type="person"/>
         <ptr target="#A019673" type="person"/>
-        <ptr target="#CN0110102Z01AA" type="place"/>
+        <ptr target="#PL000000000317" type="place"/>
         <ptr target="#j22010132203581" type="time"/>
     </linkGrp>
 </div>

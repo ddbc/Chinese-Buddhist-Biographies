@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0928a12shiFaYin">
-  <p><anchor n="T.50.2062.0928a12"/><lb ed="T" n="0928a12"/><persName key="A008678">釋法因</persName>姑蘇<placeName key="CN0320503A02AA">嵎山</placeName>朱氏子也。少汩塵俗無意<lb ed="T" n="0928a13"/>出纏。年二十四始披緇服。不終五夏遽爾<lb ed="T" n="0928a14"/>遊方。謁<persName key="A008679">慧日雅禪師</persName>於東林<!--找不到此地-->。慧日舉<persName key="A005134">靈雲</persName>見<lb ed="T" n="0928a15"/>桃花悟道因緣問<persName key="A008678">之</persName>。擬對。<persName key="A008679">日</persName>曰。不是不是。<lb ed="T" n="0928a16"/>忽有所契。呈偈曰。巖上桃花開。花從何處<lb ed="T" n="0928a17"/>來。<persName key="A005134">靈雲</persName>纔一見。回首舞三臺。<persName key="A008679">慧日</persName>戒曰。<persName key="A008678">子</persName><lb ed="T" n="0928a18"/>雖見已入微。更假著鞭當明大法。於是<lb ed="T" n="0928a19"/>居<placeName key="CN0360402M01AA">廬阜</placeName>三十年。不與世接。四方仰之學者<lb ed="T" n="0928a20"/>川騖蟻屯就其罏鞴。<persName key="A008678">因</persName>亦不辭煅煉隨機<lb ed="T" n="0928a21"/>說法。<date from-iso="1130" key="j21338532134185" to-iso="1131">宋建炎末</date>盜起<placeName key="CN0000007D01AA">江左</placeName>。乃順流東歸。<placeName key="CN0320503T11AA">覺<lb ed="T" n="0928a22"/>海</placeName>緇白踵門問道。甞謂眾曰。汝等當飽持<lb ed="T" n="0928a23"/>定力。弗憂晨炊干求外務也。晚年放浪自<lb ed="T" n="0928a24"/>若。稱曰<persName key="A008678">五松散人</persName>。</p>
+  <p><anchor n="T.50.2062.0928a12"/><lb ed="T" n="0928a12"/><persName key="A008678">釋法因</persName>姑蘇<placeName key="PL000000009864">嵎山</placeName>朱氏子也。少汩塵俗無意<lb ed="T" n="0928a13"/>出纏。年二十四始披緇服。不終五夏遽爾<lb ed="T" n="0928a14"/>遊方。謁<persName key="A008679">慧日雅禪師</persName>於東林<!--找不到此地-->。慧日舉<persName key="A005134">靈雲</persName>見<lb ed="T" n="0928a15"/>桃花悟道因緣問<persName key="A008678">之</persName>。擬對。<persName key="A008679">日</persName>曰。不是不是。<lb ed="T" n="0928a16"/>忽有所契。呈偈曰。巖上桃花開。花從何處<lb ed="T" n="0928a17"/>來。<persName key="A005134">靈雲</persName>纔一見。回首舞三臺。<persName key="A008679">慧日</persName>戒曰。<persName key="A008678">子</persName><lb ed="T" n="0928a18"/>雖見已入微。更假著鞭當明大法。於是<lb ed="T" n="0928a19"/>居<placeName key="PL000000018775">廬阜</placeName>三十年。不與世接。四方仰之學者<lb ed="T" n="0928a20"/>川騖蟻屯就其罏鞴。<persName key="A008678">因</persName>亦不辭煅煉隨機<lb ed="T" n="0928a21"/>說法。<date from-iso="1130" key="j21338532134185" to-iso="1131">宋建炎末</date>盜起<placeName key="PL000000000197">江左</placeName>。乃順流東歸。<placeName key="PL000000009892">覺<lb ed="T" n="0928a22"/>海</placeName>緇白踵門問道。甞謂眾曰。汝等當飽持<lb ed="T" n="0928a23"/>定力。弗憂晨炊干求外務也。晚年放浪自<lb ed="T" n="0928a24"/>若。稱曰<persName key="A008678">五松散人</persName>。</p>
   <linkGrp>
     <link targets="#0928a14 #0928a14"/>
     <ptr target="#A008678" type="person"/>
@@ -14,11 +14,11 @@
   <linkGrp>
     <link targets="#0928a18 #0928a21"/>
     <ptr target="#A008678" type="person"/>
-    <ptr target="#CN0360402M01AA" type="place"/>
+    <ptr target="#PL000000018775" type="place"/>
   </linkGrp>
   <linkGrp>
     <link targets="#0928a21 #0928a23"/>
     <ptr target="#A008678" type="person"/>
-    <ptr target="#CN0320503T11AA" type="place"/>
+    <ptr target="#PL000000009892" type="place"/>
   </linkGrp>
 </div>

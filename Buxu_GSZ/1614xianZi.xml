@@ -2,12 +2,41 @@
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0403c16xianZi">
     <head><lb ed="X" n="0403c16"/>　　　　<persName key="A020305">蜆子</persName>和尚傳</head>
     <p><anchor n="X.77.1524.0403c17"/><lb ed="X" n="0403c17"/><persName key="A020305">蜆子</persName>和尚。不知何許人也。事跡頗異。居無定所。自印
-        <lb ed="X" n="0403c18"/>心於<persName key="A009489">洞山</persName>。混俗<placeName key="CN0350000E02AA">閩</placeName>川。不畜道具。不循律儀。冬夏唯披
+        <lb ed="X" n="0403c18"/>心於<persName key="A009489">洞山</persName>。混俗<placeName key="PL000000017104">閩川</placeName>。不畜道具。不循律儀。冬夏唯披
         <lb ed="X" n="0403c19"/>一衲。逐日沿江岸。採掇鰕蜆。以充其腹。暮即宿東山
-        <lb ed="X" n="0403c20"/><placeName key="CN0350181T15AA">白馬廟</placeName>紙錢中。居民目為<persName key="A020305">蜆子</persName>和尚。<persName key="A010664">華嚴靜</persName>禪師聞
+        <lb ed="X" n="0403c20"/><placeName key="PL000000017420">白馬廟</placeName>紙錢中。居民目為<persName key="A020305">蜆子</persName>和尚。<persName key="A010664">華嚴靜</persName>禪師聞
         <lb ed="X" n="0403c21"/>之。欲決真假。先潛入紙錢中。深夜師歸。<persName key="A010664">嚴</persName>把住曰。如
         <lb ed="X" n="0403c22"/>何是祖師西來意。師遽答曰。神前酒臺盤。<persName key="A010664">嚴</persName>放手曰。
-        <lb ed="X" n="0403c23"/>不虗。與我同根生。<persName key="A010664">嚴</persName>後赴<persName key="A006575">莊宗</persName>詔。入<placeName key="CN0610102Z07AA">長安</placeName>。師亦先至。
+        <lb ed="X" n="0403c23"/>不虗。與我同根生。<persName key="A010664">嚴</persName>後赴<persName key="A006575">莊宗</persName>詔。入<placeName key="PL000000042189">長安</placeName>。師亦先至。
         <lb ed="X" n="0403c24"/>每日歌唱自拍。或乃佯狂。泥雪去來。俱無踪跡。後不
         <lb ed="X" n="0404a01"/>知所終。<persName key="A010664">靜</persName>。出<persName key="A009489">洞山</persName>。故曰同根生耳。</p>
+    
+    <linkGrp>
+        <link targets="#0403c17 #0403c18"/>
+        <ptr target="#A020305" type="person"/>
+        <ptr target="#A009489" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0403c17 #0403c23"/>
+        <ptr target="#A020305" type="person"/>
+        <ptr target="#A010664" type="person"/>
+        <ptr target="#PL000000017420" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0403c23 #0403c23"/>
+        <ptr target="#A006575" type="person"/>
+        <ptr target="#A010664" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0403c23 #0403c24"/>
+        <ptr target="#A020305" type="person"/>
+        <ptr target="#A010664" type="person"/>
+        <ptr target="#PL000000042189" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0404a01 #0404a01"/>
+        <ptr target="#A020305" type="person"/>
+        <ptr target="#A010664" type="person"/>
+        <ptr target="#A009489" type="person"/>
+    </linkGrp>
 </div>

@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0775b07shiTanSheng">
-    <anchor n="T.50.2061.0775b07"/><head><date from-iso="0618-06-21" key="j19469512052491" to-iso="0907-06-06">唐</date><placeName key="CN0430781T01AA">澧陽雲巖寺</placeName><persName key="A010501">曇晟</persName>傳</head><p>
-        <lb ed="T" n="0775b08"/><persName key="A010501">釋曇晟</persName>，俗姓王氏，<placeName key="CN0360425Z09AA">鍾陵建昌</placeName>人也。始生有自
-        <lb ed="T" n="0775b09"/>然胎衣右袒，猶緇服焉。遂請出家於<placeName key="CN0430726Z13AA">石門</placeName>，
-        <lb ed="T" n="0775b10"/>年滿具法，參見<placeName key="CN0360921M01AA">百丈山</placeName><persName key="A001897">海禪師</persName>。二十年為
+    <anchor n="T.50.2061.0775b07"/><head><date from-iso="0618-06-21" key="j19469512052491" to-iso="0907-06-06">唐</date><placeName key="PL000000029556">澧陽雲巖寺</placeName><persName key="A010501">曇晟</persName>傳</head><p>
+        <lb ed="T" n="0775b08"/><persName key="A010501">釋曇晟</persName>，俗姓王氏，<placeName key="PL000000018931">鍾陵建昌</placeName>人也。始生有自
+        <lb ed="T" n="0775b09"/>然胎衣右袒，猶緇服焉。遂請出家於<placeName key="PL000000029545">石門</placeName>，
+        <lb ed="T" n="0775b10"/>年滿具法，參見<placeName key="PL000000019628">百丈山</placeName><persName key="A001897">海禪師</persName>。二十年為
 <lb ed="T" n="0775b11"/>侍者，職同慶喜，法必我聞，身若中涓，心居
 <lb ed="T" n="0775b12"/>散位。續受藥山舉發，全了無疑，化徒孔勤，
         <lb ed="T" n="0775b13"/>受益者眾。以<date key="j20241812024181" when-iso="0829-12-01">太和三年己酉十月二十七日</date>
@@ -19,18 +19,18 @@
     <linkGrp>
         <link targets="#0775b08 #0775b08"/>
         <ptr target="#A010501" type="person"/>
-        <ptr target="#CN0360425Z09AA" type="place"/>
+        <ptr target="#PL000000018931" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0775b09 #0775b09"/>
         <ptr target="#A010501" type="person"/>
-        <ptr target="#CN0430726Z13AA" type="place"/>
+        <ptr target="#PL000000029545" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0775b10 #0775b11"/>
         <ptr target="#A010501" type="person"/>
         <ptr target="#A001897" type="person"/>
-        <ptr target="#CN0360921M01AA" type="place"/>
+        <ptr target="#PL000000019628" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0775b13 #0775b14"/>

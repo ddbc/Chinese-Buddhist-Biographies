@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0471c01shiDaoBian">
-    <head><placeName key="CN0410311A02AA">魏洛陽</placeName><persName key="A005080">釋道辯</persName>傳六</head><p><anchor n="T.50.2060.0471c01"/><lb ed="T" n="0471c01"/><persName key="A005080">釋道辯</persName>。<!-- 假設北魏孝文帝召見時為四十歲-->姓田氏。<placeName key="CN0130681Z09AA">范陽</placeName>人。有別記云。著納擎<lb ed="T" n="0471c02"/>錫入於母胎。因而生焉。天性踈朗才術高<lb ed="T" n="0471c03"/>世。雖曰耳聾。及對<persName key="A002158">孝文</persName>不爽帝旨。由是<lb ed="T" n="0471c04"/>榮觀顯美遠近欽茲。<ptr target="fn15"/>剖定邪正開釋封滯。<lb ed="T" n="0471c05"/>是所長也。初住<placeName key="CN0140922M04AA">北臺</placeName>後隨南遷道光<placeName key="CN0000012D01AA">河洛</placeName>。<lb ed="T" n="0471c06"/><placeName key="CN0000000E48AA">魏國</placeName>有經。號大法尊王。八十餘卷。盛行於<lb ed="T" n="0471c07"/>世<persName key="A005080">辯</persName>執讀知偽。集而焚之。將欲廣注眾經<lb ed="T" n="0471c08"/>用通釋典。筆置聽架鳥遂銜飛。見此異徵<lb ed="T" n="0471c09"/>便寢斯作。但注維摩勝鬘金剛般若。小乘義<lb ed="T" n="0471c10"/>章六卷大乘義五十章及申玄照等行世。有<lb ed="T" n="0471c11"/>弟子<persName key="A005081">曇永</persName><persName key="A005082">亡名</persName>二人。<persName key="A005081">永</persName>潛遁自守隱<placeName key="CN0360424M01AA">黃龍山</placeName>。<lb ed="T" n="0471c12"/>撰搜神論。隱士儀式。<persName key="A005082">名</persName>文筆雄健負才傲<lb ed="T" n="0471c13"/>俗。<persName key="A005080">辯</persName>杖之而徙於<placeName key="CN0360424M01AA">黃龍</placeName>。初無恨想而晨夕<lb ed="T" n="0471c14"/>遙禮云。</p>
+    <head><placeName key="PL000000023642">魏洛陽</placeName><persName key="A005080">釋道辯</persName>傳六</head><p><anchor n="T.50.2060.0471c01"/><lb ed="T" n="0471c01"/><persName key="A005080">釋道辯</persName>。<!-- 假設北魏孝文帝召見時為四十歲-->姓田氏。<placeName key="PL000000002470">范陽</placeName>人。有別記云。著納擎<lb ed="T" n="0471c02"/>錫入於母胎。因而生焉。天性踈朗才術高<lb ed="T" n="0471c03"/>世。雖曰耳聾。及對<persName key="A002158">孝文</persName>不爽帝旨。由是<lb ed="T" n="0471c04"/>榮觀顯美遠近欽茲。<ptr target="fn15"/>剖定邪正開釋封滯。<lb ed="T" n="0471c05"/>是所長也。初住<placeName key="PL000000005324">北臺</placeName>後隨南遷道光<placeName key="PL000000000214">河洛</placeName>。<lb ed="T" n="0471c06"/><placeName key="PL000000000130">魏國</placeName>有經。號大法尊王。八十餘卷。盛行於<lb ed="T" n="0471c07"/>世<persName key="A005080">辯</persName>執讀知偽。集而焚之。將欲廣注眾經<lb ed="T" n="0471c08"/>用通釋典。筆置聽架鳥遂銜飛。見此異徵<lb ed="T" n="0471c09"/>便寢斯作。但注維摩勝鬘金剛般若。小乘義<lb ed="T" n="0471c10"/>章六卷大乘義五十章及申玄照等行世。有<lb ed="T" n="0471c11"/>弟子<persName key="A005081">曇永</persName><persName key="A005082">亡名</persName>二人。<persName key="A005081">永</persName>潛遁自守隱<placeName key="PL000000018888">黃龍山</placeName>。<lb ed="T" n="0471c12"/>撰搜神論。隱士儀式。<persName key="A005082">名</persName>文筆雄健負才傲<lb ed="T" n="0471c13"/>俗。<persName key="A005080">辯</persName>杖之而徙於<placeName key="PL000000018888">黃龍</placeName>。初無恨想而晨夕<lb ed="T" n="0471c14"/>遙禮云。</p>
     <linkGrp>
         <link targets="#0471c01 #0471c01"/>
         <ptr target="#A005080" type="person"/>
-        <ptr target="#CN0130681Z09AA" type="place"/>
+        <ptr target="#PL000000002470" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0471c03 #0471c04"/>
@@ -14,12 +14,12 @@
     <linkGrp>
         <link targets="#0471c05 #0471c05"/>
         <ptr target="#A005080" type="person"/>
-        <ptr target="#CN0140922M04AA" type="place"/>
+        <ptr target="#PL000000005324" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0471c05 #0471c05"/>
         <ptr target="#A005080" type="person"/>
-        <ptr target="#CN0000012D01AA" type="place"/>
+        <ptr target="#PL000000000214" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0471c10 #0471c11"/>
@@ -31,6 +31,6 @@
         <link targets="#0471c11 #0471c14"/>
         <ptr target="#A005081" type="person"/>
         <ptr target="#A005082" type="person"/>
-        <ptr target="#CN0360424M01AA" type="place"/>
+        <ptr target="#PL000000018888" type="place"/>
     </linkGrp>
 </div>

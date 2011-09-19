@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0407b20shiFaZhuang">
-    <p><anchor n="T.50.2059.0407b20"/><lb ed="T" n="0407b20"/><persName key="A002347">釋法莊</persName>，姓申，<placeName key="CN0341521Z55AA">淮南</placeName>人。十歲出家，為<placeName key="CN0360402M01AA">廬山</placeName><persName key="A001204">慧<lb ed="T" n="0407b21"/>遠</persName>弟子。少以苦節標名。晚遊<placeName key="CN0610000E01AA">關中</placeName>，從<persName key="A002225">叡<lb ed="T" n="0407b22"/>公</persName>稟學。<date key="j18816401883959" notAfter-iso="0446" notBefore-iso="0439-08">元嘉初</date>出<placeName key="CN0320106Z06AA">都</placeName>，止<placeName key="CN0321002T10AA">道場寺</placeName>。性率素止<lb ed="T" n="0407b23"/>一中而已。誦《大涅槃》、《法華》、《淨名》。每後夜諷<lb ed="T" n="0407b24"/>誦，比房常聞<persName key="A002347">莊</persName><ptr target="fn18"/>戶前有如兵仗羽衛之響，<lb ed="T" n="0407b25"/>實天神來聽也。<date key="j18880181890941" notAfter-iso="0465" notBefore-iso="0457">宋大明</date>初卒於<placeName key="CN0321002T10AA">寺</placeName>，春秋七十<lb ed="T" n="0407b26"/>有六。</p>
+    <p><anchor n="T.50.2059.0407b20"/><lb ed="T" n="0407b20"/><persName key="A002347">釋法莊</persName>，姓申，<placeName key="PL000000016390">淮南</placeName>人。十歲出家，為<placeName key="PL000000018775">廬山</placeName><persName key="A001204">慧<lb ed="T" n="0407b21"/>遠</persName>弟子。少以苦節標名。晚遊<placeName key="PL000000042002">關中</placeName>，從<persName key="A002225">叡<lb ed="T" n="0407b22"/>公</persName>稟學。<date key="j18816401883959" notAfter-iso="0446" notBefore-iso="0439-08">元嘉初</date>出<placeName key="PL000000008976">都</placeName>，止<placeName key="PL000000010767">道場寺</placeName>。性率素止<lb ed="T" n="0407b23"/>一中而已。誦《大涅槃》、《法華》、《淨名》。每後夜諷<lb ed="T" n="0407b24"/>誦，比房常聞<persName key="A002347">莊</persName><ptr target="fn18"/>戶前有如兵仗羽衛之響，<lb ed="T" n="0407b25"/>實天神來聽也。<date key="j18880181890941" notAfter-iso="0465" notBefore-iso="0457">宋大明</date>初卒於<placeName key="PL000000010767">寺</placeName>，春秋七十<lb ed="T" n="0407b26"/>有六。</p>
     <linkGrp>
         <link targets="#0407b20 #0407b21"/>
         <ptr target="#A002347" type="person"/>
@@ -10,18 +10,18 @@
         <link targets="#0407b21 #0407b22"/>
         <ptr target="#A002347" type="person"/>
         <ptr target="#A002225" type="person"/>
-        <ptr target="#CN0610000E01AA" type="place"/>
+        <ptr target="#PL000000042002" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0407b22 #0407b23"/>
         <ptr target="#A002347" type="person"/>
-        <ptr target="#CN0321002T10AA" type="place"/>
+        <ptr target="#PL000000010767" type="place"/>
         <ptr target="#j18816401883959" type="time"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0407b25 #0407b26"/>
         <ptr target="#A002347" type="person"/>
-        <ptr target="#CN0321002T10AA" type="place"/>
+        <ptr target="#PL000000010767" type="place"/>
         <ptr target="#j18880181890941" type="time"/>
     </linkGrp>
 </div>

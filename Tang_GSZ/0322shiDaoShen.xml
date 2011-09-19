@@ -1,16 +1,16 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0486a07shiDaoShen">
-    <p><anchor n="T.50.2060.0486a07"/><lb ed="T" n="0486a07"/><persName key="A005288">釋道慎</persName>。姓史。<placeName key="CN0130628Z02AA">高陽</placeName>人。十四出家。誦聽依業。<lb ed="T" n="0486a08"/>受具已後入<placeName key="CN0410322Z24AA">洛</placeName>從<persName key="A006354">光師</persName>學於地論。後稟<persName key="A000689">上<lb ed="T" n="0486a09"/>統</persName>而志涅槃。性度<ptr target="fn03"/>夷簡風量陶然。綱網門<lb ed="T" n="0486a10"/>徒維攝大法而為己任。每參說戒跪聽<lb ed="T" n="0486a11"/><ptr target="fn04"/>至訖。講悟昏情詞無繁長。智者恐其言<lb ed="T" n="0486a12"/>少。愚者慮其不多。五眾愛重。故<persName key="A004698">宣帝</persName>請為<lb ed="T" n="0486a13"/>國都。綏撫遺法得無虧緒。禪匠<persName key="A005284">僧達</persName>論士<lb ed="T" n="0486a14"/><persName key="A005289">法靈</persName>。皆伏<persName key="A005288">其</persName>辯對。至於滔滔風流大觀時<lb ed="T" n="0486a15"/>俗。則<persName key="A005288">慎</persName>過之遠矣。<ptr target="fn05"/>未乘車送帝。迴返本<lb ed="T" n="0486a16"/>寺兩轅併折。不日而終於<placeName key="CN0410522T01AA">鄴城定國寺</placeName>。春<lb ed="T" n="0486a17"/>秋六十有五。</p>
+    <p><anchor n="T.50.2060.0486a07"/><lb ed="T" n="0486a07"/><persName key="A005288">釋道慎</persName>。姓史。<placeName key="PL000000002247">高陽</placeName>人。十四出家。誦聽依業。<lb ed="T" n="0486a08"/>受具已後入<placeName key="PL000000023710">洛</placeName>從<persName key="A006354">光師</persName>學於地論。後稟<persName key="A000689">上<lb ed="T" n="0486a09"/>統</persName>而志涅槃。性度<ptr target="fn03"/>夷簡風量陶然。綱網門<lb ed="T" n="0486a10"/>徒維攝大法而為己任。每參說戒跪聽<lb ed="T" n="0486a11"/><ptr target="fn04"/>至訖。講悟昏情詞無繁長。智者恐其言<lb ed="T" n="0486a12"/>少。愚者慮其不多。五眾愛重。故<persName key="A004698">宣帝</persName>請為<lb ed="T" n="0486a13"/>國都。綏撫遺法得無虧緒。禪匠<persName key="A005284">僧達</persName>論士<lb ed="T" n="0486a14"/><persName key="A005289">法靈</persName>。皆伏<persName key="A005288">其</persName>辯對。至於滔滔風流大觀時<lb ed="T" n="0486a15"/>俗。則<persName key="A005288">慎</persName>過之遠矣。<ptr target="fn05"/>未乘車送帝。迴返本<lb ed="T" n="0486a16"/>寺兩轅併折。不日而終於<placeName key="PL000000024095">鄴城定國寺</placeName>。春<lb ed="T" n="0486a17"/>秋六十有五。</p>
     <linkGrp>
         <link targets="#0486a07 #0486a07"/>
         <ptr target="#A005288" type="person"/>
-        <ptr target="#CN0130628Z02AA" type="place"/>
+        <ptr target="#PL000000002247" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0486a08 #0486a09"/>
         <ptr target="#A005288" type="person"/>
         <ptr target="#A006354" type="person"/>
-        <ptr target="#CN0410322Z24AA" type="place"/>
+        <ptr target="#PL000000023710" type="place"/>
     </linkGrp> 
     <linkGrp>
         <link targets="#0486a08 #0486a09"/>
@@ -35,6 +35,6 @@
     <linkGrp>
         <link targets="#0486a16 #0486a17"/>
         <ptr target="#A005288" type="person"/>
-        <ptr target="#CN0410522T01AA" type="place"/>
+        <ptr target="#PL000000024095" type="place"/>
         </linkGrp>  
 </div>

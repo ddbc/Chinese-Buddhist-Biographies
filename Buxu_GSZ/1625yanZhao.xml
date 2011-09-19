@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0408b19yanZhao">
     <head><lb ed="X" n="0408b19"/>　　　　宋　<persName key="A004982">風穴沼</persName>禪師傳</head>
-    <p><anchor n="X.77.1524.0408b20"/><lb ed="X" n="0408b20"/><persName key="A004982">風穴延沼</persName>禪師。<placeName key="CN0330110Z27AA">餘杭</placeName>劉氏子。少魁礨有英氣。于書無
+    <p><anchor n="X.77.1524.0408b20"/><lb ed="X" n="0408b20"/><persName key="A004982">風穴延沼</persName>禪師。<placeName key="PL000000011893">餘杭</placeName>劉氏子。少魁礨有英氣。于書無
         <lb ed="X" n="0408b21"/>所不窺。然無經世意。初祝髮業教義。久乃歸禪。發跡
-        <lb ed="X" n="0408b22"/>于<persName key="A010691">鏡清怤</persName>公。鍼芥不投。乃北游<placeName key="CN0420602Z05AA">湘沔</placeName>。遇守廓上座。<placeName key="CN0410482T01AB">南
-            <lb ed="X" n="0408b23"/>院</placeName>侍者也。乃密探<persName key="A004981">南院</persName>宗旨。忻然赴之。初見不禮拜。
+        <lb ed="X" n="0408b22"/>于<persName key="A010691">鏡清怤</persName>公。鍼芥不投。乃北游<placeName key="PL000000027118">湘沔</placeName>。遇<persName key="A020434">守廓</persName>上座。<persName key="A004981"><placeName key="PL000000024015">南
+            <lb ed="X" n="0408b23"/>院</placeName></persName>侍者也。乃密探<persName key="A004981">南院</persName>宗旨。忻然赴之。初見不禮拜。
         <lb ed="X" n="0408b24"/>便問曰。入門須辯主。端的請師分。<persName key="A004981">院</persName>以左手拊膝。師
         <lb ed="X" n="0408c01"/>便喝。院右手拊膝。師亦喝。<persName key="A004981">院</persName>曰。左邊一拍且止。右邊
         <lb ed="X" n="0408c02"/>一拍作麼生。師曰。瞎。院擬拈拄杖。師曰。作甚麼。奪拄
@@ -12,21 +12,75 @@
         <lb ed="X" n="0408c04"/>今日被黃面浙子上門羅織。師曰。和尚大似持鉢不
         <lb ed="X" n="0408c05"/>得。詐言不飢。<persName key="A004981">院</persName>曰。子到此間乎。師曰。是何言與。<persName key="A004981">院</persName>曰
         <lb ed="X" n="0408c06"/>好問汝。師曰。也不得放過。便禮拜。<persName key="A004981">南院</persName>喜賜坐命茶。
-        <lb ed="X" n="0408c07"/>因問所與游者何人。對曰。<placeName key="CN0420602Z05AA">襄州</placeName>與廓侍者同夏。<persName key="A004981">院</persName>曰。
-        <lb ed="X" n="0408c08"/>親見作家來。始敘師資禮。依止六年。辭去至<placeName key="CN0410000R02AA">汝水</placeName>。住
-        <lb ed="X" n="0408c09"/><placeName key="CN0410482T02AA">風穴廢寺</placeName>。日乞村落。夜燃松脂。單丁者七年。而後學
+        <lb ed="X" n="0408c07"/>因問所與游者何人。對曰。<placeName key="PL000000027118">襄州</placeName>與<persName key="A020434">廓</persName>侍者同夏。<persName key="A004981">院</persName>曰。
+        <lb ed="X" n="0408c08"/>親見作家來。始敘師資禮。依止六年。辭去至<placeName key="PL000000023039">汝水</placeName>。住
+        <lb ed="X" n="0408c09"/><placeName key="PL000000024016">風穴廢寺</placeName>。日乞村落。夜燃松脂。單丁者七年。而後學
         <lb ed="X" n="0408c10"/>徒麏至。開法嗣<persName key="A004981">南院</persName>法席冠天下。傳法者<persName key="A004983">首山念</persName>公。
-        <lb ed="X" n="0408c11"/>與廣慧真也。一日上堂曰。若立一塵。家國興盛。野老
+        <lb ed="X" n="0408c11"/>與<persName key="A020441">廣慧真</persName>也。一日上堂曰。若立一塵。家國興盛。野老
         <lb ed="X" n="0408c12"/>顰顣。不立一塵。家國喪亡。野老安帖。于此明得。闍黎
         <lb ed="X" n="0408c13"/>無分。全是老僧。于此不明。老僧即是闍黎。闍黎與老
         <lb ed="X" n="0408c14"/>僧。能悟天下人。能瞎天下人。欲識闍黎麼。拊左膝曰。
         <lb ed="X" n="0408c15"/>這裏是。欲識老僧麼。拊右膝曰。這裏是。其辯才無礙
         <lb ed="X" n="0408c16"/>如此。以<date when-iso="0973-09-05" key="j20766892076689">宋開寶六年癸酉八月旦日</date>。登座說偈。至<date when-iso="0973-09-19" key="j20767032076703">十<lb ed="X" n="0408c17"/>五日</date>。加趺而化。閱世七十有八。坐五十九夏。</p><p>
-        <lb ed="X" n="0408c18"/>系曰。廓侍者以三喝。觕忤老華嚴時。師為維那。上方
-        <lb ed="X" n="0408c19"/>丈問訊。嚴曰。汝來適守廓不應當眾扭揑。老僧須痛
+            <lb ed="X" n="0408c18"/>系曰。<persName key="A020434">廓</persName>侍者以三喝。觕忤<persName key="A021797">老華嚴</persName>時。師為維那。上方
+            <lb ed="X" n="0408c19"/>丈問訊。嚴曰。汝來適<persName key="A020434">守廓</persName>不應當眾扭揑。老僧須痛
         <lb ed="X" n="0408c20"/>與一頓趂出。師曰。趂他遲了也。他是臨濟下兒孫。本
-        <lb ed="X" n="0408c21"/>分如此。師舉似廓。廓曰。汝何必勸止。我未問前早要
+            <lb ed="X" n="0408c21"/>分如此。師舉似<persName key="A020434">廓</persName>。<persName key="A020434">廓</persName>曰。汝何必勸止。我未問前早要
         <lb ed="X" n="0408c22"/>棒喫得我話行。如今搭却我話也。穴曰。雖然已聞天
-        <lb ed="X" n="0408c23"/>下矣。廓公四楞塌地。師壁立萬仞。老華嚴一矮人看
+            <lb ed="X" n="0408c23"/>下矣。<persName key="A020434">廓</persName>公四楞塌地。師壁立萬仞。<persName key="A021797">老華嚴</persName>一矮人看
         <lb ed="X" n="0408c24"/>場耳。臨濟宗所以不可攀仰湊泊也。</p>
+    
+    <linkGrp>
+        <link targets="#0408b20 #0408b20"/>
+        <ptr target="#A004982" type="person"/>
+        <ptr target="#PL000000011893" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0408b20 #0408b22"/>
+        <ptr target="#A004982" type="person"/>
+        <ptr target="#A010691" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0408b22 #0408b23"/>
+        <ptr target="#A004981" type="person"/>
+        <ptr target="#A020434" type="person"/>
+        <ptr target="#PL000000024015" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0408b22 #0408b23"/>
+        <ptr target="#A004982" type="person"/>
+        <ptr target="#A020434" type="person"/>
+        <ptr target="#PL000000027118" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0408b23 #0408c08"/>
+        <ptr target="#A004982" type="person"/>
+        <ptr target="#A020434" type="person"/>
+        <ptr target="#PL000000024015" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0408c08 #0408c16"/>
+        <ptr target="#A004982" type="person"/>
+        <ptr target="#A004983" type="person"/>
+        <ptr target="#A020441" type="person"/>
+        <ptr target="#PL000000024016" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0408c16 #0408c16"/>
+        <ptr target="#A004982" type="person"/>
+        <ptr target="#PL000000024016" type="place"/>
+        <ptr target="#j20766892076689" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0408c16 #0408c17"/>
+        <ptr target="#A004982" type="person"/>
+        <ptr target="#PL000000024016" type="place"/>
+        <ptr target="#j20767032076703" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0408c18 #0408c24"/>
+        <ptr target="#A004982" type="person"/>
+        <ptr target="#A020434" type="person"/>
+        <ptr target="#A021797" type="person"/>
+    </linkGrp>
 </div>

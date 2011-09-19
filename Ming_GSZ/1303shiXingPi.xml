@@ -1,21 +1,21 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0908b07shiXingPi">
-  <p><anchor n="T.50.2062.0908b07"/><lb ed="T" n="0908b07"/><persName key="A007272">釋行丕</persName>字<persName key="A007272">大基</persName>。寧波<placeName key="CN0330203Z05AA">鄞縣</placeName>人也。宗說兼通行<lb ed="T" n="0908b08"/>解相應。蔚為時之名僧。初由天台<placeName key="CN0331023T01AA">佛隴</placeName>。昇<lb ed="T" n="0908b09"/>主<placeName key="CN0330211T02AA">寶陀</placeName>。匡眾說法恢復產業而振興叢席。<lb ed="T" n="0908b10"/><date from-iso="1370-02-05" key="j22214782221831" to-iso="1371-01-24">洪武庚戌</date>春正明部使者[章*(干/貝)]州<!--找不到此地-->劉君<persName key="A007273">承直</persName>與<lb ed="T" n="0908b11"/><persName key="A007272">師</persName>抱杖西東遊。<persName key="A007273">使者</persName>曰。此清淨境也。蓋為<lb ed="T" n="0908b12"/>亭。<persName key="A007272">師</persName>乃建<placeName key="CN0330903U09AA">清淨境亭</placeName>于<placeName key="CN0330211T02AA">寺</placeName>之南嶺上。從三十<lb ed="T" n="0908b13"/>尺衡如之。左倚山右入潮。音洞學士<persName key="A007271">宋景<lb ed="T" n="0908b14"/>濂</persName>為記。</p>
+  <p><anchor n="T.50.2062.0908b07"/><lb ed="T" n="0908b07"/><persName key="A007272">釋行丕</persName>字<persName key="A007272">大基</persName>。寧波<placeName key="PL000000012195">鄞縣</placeName>人也。宗說兼通行<lb ed="T" n="0908b08"/>解相應。蔚為時之名僧。初由天台<placeName key="PL000000014664">佛隴</placeName>。昇<lb ed="T" n="0908b09"/>主<placeName key="PL000000012256">寶陀</placeName>。匡眾說法恢復產業而振興叢席。<lb ed="T" n="0908b10"/><date from-iso="1370-02-05" key="j22214782221831" to-iso="1371-01-24">洪武庚戌</date>春正明部使者[章*(干/貝)]州<!--找不到此地-->劉君<persName key="A007273">承直</persName>與<lb ed="T" n="0908b11"/><persName key="A007272">師</persName>抱杖西東遊。<persName key="A007273">使者</persName>曰。此清淨境也。蓋為<lb ed="T" n="0908b12"/>亭。<persName key="A007272">師</persName>乃建<placeName key="PL000000014198">清淨境亭</placeName>于<placeName key="PL000000012256">寺</placeName>之南嶺上。從三十<lb ed="T" n="0908b13"/>尺衡如之。左倚山右入潮。音洞學士<persName key="A007271">宋景<lb ed="T" n="0908b14"/>濂</persName>為記。</p>
   <linkGrp>
     <link targets="#0908b08 #0908b09"/>
     <ptr target="#A007272" type="person"/>
-    <ptr target="#CN0331023T01AA" type="place"/>
+    <ptr target="#PL000000014664" type="place"/>
   </linkGrp>
   <linkGrp>
     <link targets="#0908b08 #0908b09"/>
     <ptr target="#A007272" type="person"/>
-    <ptr target="#CN0330211T02AA" type="place"/>
+    <ptr target="#PL000000012256" type="place"/>
   </linkGrp>
   <linkGrp>
     <link targets="#0908b10 #0908b12"/>
     <ptr target="#A007272" type="person"/>
     <ptr target="#A007273" type="person"/>
-    <ptr target="#CN0330903U09AA" type="place"/>
+    <ptr target="#PL000000014198" type="place"/>
     <ptr target="#j22214782221831" type="time"/>
   </linkGrp>
 </div>

@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0860c01shiWenNian">
     <anchor n="T.50.2061.0860c01"/><head><date from-iso="0960-02-09" key="j20717322132856" to-iso="1127-06-18">宋</date>天台山<persName key="A013529">文輦</persName>傳</head><p>
-<lb ed="T" n="0860c02"/><persName key="A013529">釋文輦</persName>，永嘉郡<placeName key="CN0330326Z05AA">平陽</placeName>人也。邂逅求師，受業于
-<lb ed="T" n="0860c03"/><placeName key="CN0330702Z09AA">金華</placeName>，納具足律儀畢，翹勤篤勵，三乘之學，一
+<lb ed="T" n="0860c02"/><persName key="A013529">釋文輦</persName>，永嘉郡<placeName key="PL000000012553">平陽</placeName>人也。邂逅求師，受業于
+<lb ed="T" n="0860c03"/><placeName key="PL000000013514">金華</placeName>，納具足律儀畢，翹勤篤勵，三乘之學，一
 <lb ed="T" n="0860c04"/>皆染漸。因往縉雲明昭禪師法會，不事繁
 <lb ed="T" n="0860c05"/>云，揚眴之間，決了無滯。末遇天台山<persName key="A008355">德韶禪
 <lb ed="T" n="0860c06"/>翁</persName>，唱<persName key="A008370">宗一大師</persName>之道。<persName key="A013529">輦</persName>復諦受無疑，不為
@@ -31,7 +31,7 @@
     <linkGrp>
         <link targets="#0860c02 #0860c04"/>
         <ptr target="#A013529" type="person"/>
-        <ptr target="#CN0330702Z09AA" type="place"/>
+        <ptr target="#PL000000013514" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0860c05 #0860c07"/>

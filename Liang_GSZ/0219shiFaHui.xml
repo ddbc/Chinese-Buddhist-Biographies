@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0408b25shiFaHui">
-    <p><anchor n="T.50.2059.0408b25"/><lb ed="T" n="0408b25"/><persName key="A002356">釋法慧</persName>，本姓夏侯氏。少而秉志精苦，律行氷<lb ed="T" n="0408b26"/>嚴。以<date key="j18880181890941" notAfter-iso="0465" notBefore-iso="0457">宋大明</date>之末，東遊<placeName key="CN0330602A01AA">禹穴</placeName>，隱于<ptr target="fn12"/><placeName key="CN0330601T11AA">天柱山<lb ed="T" n="0408b27"/>寺</placeName>。誦《法華》一部。蔬食布衣，志耽人外，居閣<lb ed="T" n="0408b28"/>不下三十餘年。王侯稅駕，止拜房而反。唯<lb ed="T" n="0408b29"/><placeName key="CN0420115Z01AA">汝南</placeName><persName key="A002425">周顒</persName>，以信解兼深，特與相接。時有慕<lb ed="T" n="0408c01"/>德希禮，或因<persName key="A002425">顒</persName><ptr target="fn＊"/>介意。時一見者。以<date key="j19018981902251" from-iso="0495-02-12" to-iso="0496-01-31">齊建<lb ed="T" n="0408c02"/>武二年</date>卒于山<placeName key="CN0330601T11AA">寺</placeName>，春秋八十有五。時<placeName key="CN0330602M02AA">若耶懸<lb ed="T" n="0408c03"/>溜山</placeName>有姓<persName key="A003420">曇遊</persName>者，亦蔬食誦經，苦節為業。</p>
+    <p><anchor n="T.50.2059.0408b25"/><lb ed="T" n="0408b25"/><persName key="A002356">釋法慧</persName>，本姓夏侯氏。少而秉志精苦，律行氷<lb ed="T" n="0408b26"/>嚴。以<date key="j18880181890941" notAfter-iso="0465" notBefore-iso="0457">宋大明</date>之末，東遊<placeName key="PL000000013182">禹穴</placeName>，隱于<ptr target="fn12"/><placeName key="PL000000013178">天柱山<lb ed="T" n="0408b27"/>寺</placeName>。誦《法華》一部。蔬食布衣，志耽人外，居閣<lb ed="T" n="0408b28"/>不下三十餘年。王侯稅駕，止拜房而反。唯<lb ed="T" n="0408b29"/><placeName key="PL000000026506">汝南</placeName><persName key="A002425">周顒</persName>，以信解兼深，特與相接。時有慕<lb ed="T" n="0408c01"/>德希禮，或因<persName key="A002425">顒</persName><ptr target="fn＊"/>介意。時一見者。以<date key="j19018981902251" from-iso="0495-02-12" to-iso="0496-01-31">齊建<lb ed="T" n="0408c02"/>武二年</date>卒于山<placeName key="PL000000013178">寺</placeName>，春秋八十有五。時<placeName key="PL000000013192">若耶懸<lb ed="T" n="0408c03"/>溜山</placeName>有姓<persName key="A003420">曇遊</persName>者，亦蔬食誦經，苦節為業。</p>
     
     <linkGrp>
         <link targets="#0408b29 #0408b29"/>
@@ -10,18 +10,18 @@
     <linkGrp>
         <link targets="#0408c02 #0408c03"/>
         <ptr target="#A003420" type="person"/>
-        <ptr target="#CN0330602M02AA" type="place"/>
+        <ptr target="#PL000000013192" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0408b26 #0408b27"/>
         <ptr target="#A002356" type="person"/>
-        <ptr target="#CN0330601T11AA" type="place"/>
+        <ptr target="#PL000000013178" type="place"/>
         <ptr target="#j18880181890941" type="time"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0408c01 #0408c02"/>
         <ptr target="#A002356" type="person"/>
-        <ptr target="#CN0330601T11AA" type="place"/>
+        <ptr target="#PL000000013178" type="place"/>
         <ptr target="#j19018981902251" type="time"/>
     </linkGrp>
 </div>

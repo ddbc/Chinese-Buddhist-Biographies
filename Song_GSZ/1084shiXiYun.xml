@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0842b26shiXiYun">
     <anchor n="T.50.2061.0842b26"/><head><date from-iso="0618-06-21" key="j19469512052491" to-iso="0907-06-06">唐</date>洪州黃蘗山<persName key="A000490">希運</persName>傳</head><p>
-<lb ed="T" n="0842b27"/><persName key="A000490">釋希運</persName>，<placeName key="CN0350104Z19AA">閩</placeName>人也。年及就<anchor xml:id="beg0842003"/>傅<anchor xml:id="end0842003"/>，鄉校推其慧利。
-<lb ed="T" n="0842b28"/>乃割愛投高安<placeName key="CN0360983T04AA">黃蘗山寺</placeName>出家。迨成長也，
+<lb ed="T" n="0842b27"/><persName key="A000490">釋希運</persName>，<placeName key="PL000000017166">閩</placeName>人也。年及就<anchor xml:id="beg0842003"/>傅<anchor xml:id="end0842003"/>，鄉校推其慧利。
+<lb ed="T" n="0842b28"/>乃割愛投高安<placeName key="PL000000019778">黃蘗山寺</placeName>出家。迨成長也，
         <lb ed="T" n="0842b29"/>身量減<persName key="A019454">王商</persName>裁一尺所，額間隆起，號為<persName key="A000490">肉<pb ed="T" n="0842c" xml:id="T50.2061.0842c"/>
-<lb ed="T" n="0842c01"/>珠</persName>。然倜儻不羈，人莫輕測。而乃觀方入<placeName key="CN0331023M01AA">天
+<lb ed="T" n="0842c01"/>珠</persName>。然倜儻不羈，人莫輕測。而乃觀方入<placeName key="PL000000014411">天
 <lb ed="T" n="0842c02"/>台</placeName>，偶逢一僧偕行，言笑自若。<persName key="A000490">運</persName>偷窺之，其
 <lb ed="T" n="0842c03"/>目時閃爍，爛然射人。相比而行，截路巨磎，
 <lb ed="T" n="0842c04"/>泛泛湧溢，如是捐笠倚杖而止。其僧督<persName key="A000490">運</persName>
@@ -13,13 +13,13 @@
 <lb ed="T" n="0842c07"/>岸矣。迴顧招手曰：「渡來。」<persName key="A000490">運</persName>戟手呵曰：「咄，自了
 <lb ed="T" n="0842c08"/>漢，早知必斯汝脛。」其僧歎曰：「真大乘法器，我
 <lb ed="T" n="0842c09"/>所不及。縱能傷我，只取辱焉。」少頃不見。<persName key="A000490">運</persName>
-<lb ed="T" n="0842c10"/>𢠵怳自失。及薄遊<placeName key="CN0610102Z07AA">京闕</placeName>，分衛及一家門，屏
+<lb ed="T" n="0842c10"/>𢠵怳自失。及薄遊<placeName key="PL000000042189">京闕</placeName>，分衛及一家門，屏
 <lb ed="T" n="0842c11"/>樹之後聞一姥曰：「太無厭乎？」<persName key="A000490">運</persName>曰：「主不慁
         <lb ed="T" n="0842c12"/>賓<note resp="sgsz">語出《左傳．昭公六年》：「舍不為暴，主不慁賓。」</note>，何無厭之有？」姥召入，施食訖。姥曰：「五障
 <lb ed="T" n="0842c13"/>之身忝甞禮<persName key="A001707">惠忠國師</persName>來。勸<persName key="A000490">師</persName>可往尋<persName key="A001897">百
 <lb ed="T" n="0842c14"/>丈山禪師</persName>，所惜巍巍乎堂堂乎真大乘器也。」
-<lb ed="T" n="0842c15"/><persName key="A000490">運</persName>念受二過，記莂攸同，乃還<placeName key="CN0360103Z26AA">洪井</placeName>見<persName key="A001897">海禪
-<lb ed="T" n="0842c16"/>師</persName>，開了心趣，聲價彌高。徇命居<placeName key="CN0360924M01AA">黃蘗</placeName>精舍，
+<lb ed="T" n="0842c15"/><persName key="A000490">運</persName>念受二過，記莂攸同，乃還<placeName key="PL000000018628">洪井</placeName>見<persName key="A001897">海禪
+<lb ed="T" n="0842c16"/>師</persName>，開了心趣，聲價彌高。徇命居<placeName key="PL000000019682">黃蘗</placeName>精舍，
 <lb ed="T" n="0842c17"/>昇平相<persName key="A003624">裴公休</persName>欽重躬謁，有詩贈焉。「曾傳達
 <lb ed="T" n="0842c18"/>士心中印額有圓珠七尺身。挂錫十年棲
 <lb ed="T" n="0842c19"/>蜀水，浮盃今日渡漳濱。一千龍象隨高步，萬
@@ -30,29 +30,29 @@
     <linkGrp>
         <link targets="#0842b28 #0842b28"/>
         <ptr target="#A000490" type="person"/>
-        <ptr target="#CN0360983T04AA" type="place"/>
+        <ptr target="#PL000000019778" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0842c01 #0842c09"/>
         <ptr target="#A000490" type="person"/>
-        <ptr target="#CN0331023M01AA" type="place"/>
+        <ptr target="#PL000000014411" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0842c10 #0842c15"/>
         <ptr target="#A000490" type="person"/>
         <ptr target="#A001707" type="person"/>
-        <ptr target="#CN0360103Z26AA" type="place"/>
+        <ptr target="#PL000000018628" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0842c15 #0842c16"/>
         <ptr target="#A000490" type="person"/>
         <ptr target="#A001897" type="person"/>
-        <ptr target="#CN0610102Z07AA" type="place"/>
+        <ptr target="#PL000000042189" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0842c16 #0842c21"/>
         <ptr target="#A000490" type="person"/>
         <ptr target="#A003624" type="person"/>
-        <ptr target="#CN0360924M01AA" type="place"/>
+        <ptr target="#PL000000019682" type="place"/>
     </linkGrp>
 </div>

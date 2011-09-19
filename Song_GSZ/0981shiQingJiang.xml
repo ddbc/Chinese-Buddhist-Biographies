@@ -1,26 +1,26 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0801c29shiQingJiang">
     <anchor n="T.50.2061.0801c29"/><head><date from-iso="0618-06-21" key="j19469512052491" to-iso="0907-06-06">唐</date>襄州辯覺寺<persName key="A010902">清江</persName>傳</head><p>
-<lb ed="T" n="0802a01"/><persName key="A010902">釋清江</persName>，<placeName key="CN0330602Z02AA">會稽</placeName>人也，不詳氏族。幼悟幻泡，身
+<lb ed="T" n="0802a01"/><persName key="A010902">釋清江</persName>，<placeName key="PL000000013240">會稽</placeName>人也，不詳氏族。幼悟幻泡，身
 <lb ed="T" n="0802a02"/>拘<anchor xml:id="beg0802001"/>羈<anchor xml:id="end0802001"/>鞅，因入精舍，便戀空門，父母沮勸，建
 <lb ed="T" n="0802a03"/>乎難拔。禮<persName key="A004177">曇一律主</persName>為親教師，諷誦經法，
 <lb ed="T" n="0802a04"/>寓目俱通。長者品量之曰：「釋門千里駒也。」
-<lb ed="T" n="0802a05"/>於浙陽<placeName key="CN0330106M13AA">天竺</placeName>戒壇求法，與同學<persName key="A010904">清源</persName>從<persName key="A010894">守
+<lb ed="T" n="0802a05"/>於浙陽<placeName key="PL000000011578">天竺</placeName>戒壇求法，與同學<persName key="A010904">清源</persName>從<persName key="A010894">守
 <lb ed="T" n="0802a06"/>直和尚</persName>下為弟子。還聽習<persName key="A004177">一公</persName>《相疏》并<persName key="A001519">南山</persName>
 <lb ed="T" n="0802a07"/>《律鈔》。間歲精義入神，舉皆通暢。而善篇章，
 <lb ed="T" n="0802a08"/>儒家筆語，體高辭典，又擅一隅之美，時少倫
 <lb ed="T" n="0802a09"/>儗。其褊懆之性，不與人類。嘗於<persName key="A004177">一公</persName>少因
 <lb ed="T" n="0802a10"/>不足，亦有捨和尚之譏。由是遊方服勤，凡
 <lb ed="T" n="0802a11"/>云律筵，無不預者。自責己曰：「天下行半，少
-        <lb ed="T" n="0802a12"/>有如<ref type="person" target="#A004177">我本師</ref>者。」還<placeName key="CN0330602Z02AA">會稽</placeName>，<persName key="A004177">一公</persName>猶老，當其
+        <lb ed="T" n="0802a12"/>有如<ref type="person" target="#A004177">我本師</ref><ptr target="#n190"/>者。」還<placeName key="PL000000013240">會稽</placeName>，<persName key="A004177">一公</persName>猶老，當其
         <lb ed="T" n="0802a13"/>僧大集時，擊木唱：「<ref type="person" target="#A010902">某</ref>再投<ref type="person" target="#A004177">和尚</ref>攝受。」時<persName key="A004177">一
 <lb ed="T" n="0802a14"/>公</persName>詬罵，<persName key="A010902">江</persName>雨淚而懺悔曰：「前念無知，後心有
-<lb ed="T" n="0802a15"/>悟，望和尚大慈，施與歡喜。苟不許收，則<placeName key="CN0330000E02AA">越</placeName>
+<lb ed="T" n="0802a15"/>悟，望和尚大慈，施與歡喜。苟不許收，則<placeName key="PL000000011304">越</placeName>
 <lb ed="T" n="0802a16"/>人不可以強售章甫也。」<persName key="A004177">一公</persName>憫其數四求
         <lb ed="T" n="0802a17"/>哀，乃曰：「為汝含垢。」遂為師資如初。<persName key="A010902">江</persName>有
 <lb ed="T" n="0802a18"/>禪觀之學。<date from-iso="0773-02-01" key="j20034242003806" to-iso="0774-02-18">大曆八年</date>於汝濆<!--找不到此地-->遇<persName key="A001707">忠國師</persName>，因
         <lb ed="T" n="0802a19"/>弟子說自<persName key="A001707">忠</persName>曰：「此律師是和尚鄉人。」乃
-<lb ed="T" n="0802a20"/>欣然相會，尋往<placeName key="CN0411302Z14AA">南陽</placeName>，再謁<persName key="A001707">國師</persName>，密傳心要
+<lb ed="T" n="0802a20"/>欣然相會，尋往<placeName key="PL000000025214">南陽</placeName>，再謁<persName key="A001707">國師</persName>，密傳心要
         <lb ed="T" n="0802a21"/>焉。</p>
         <p xml:id="pT50p0802a2201"><lb ed="T" n="0802a22"/>系曰：<persName key="A010902">江</persName>甞為《七夕詩》，或謂之四背中一背
 <lb ed="T" n="0802a23"/>也。通曰：「詩人興詠，用意不倫。<persName key="A011067">慧休</persName>《怨別》，<persName key="A006134">陸
@@ -34,20 +34,20 @@
         <link targets="#0802a01 #0802a04"/>
         <ptr target="#A010902" type="person"/>
         <ptr target="#A004177" type="person"/>
-        <ptr target="#CN0330602Z02AA" type="place"/>
+        <ptr target="#PL000000013240" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0802a05 #0802a06"/>
         <ptr target="#A010902" type="person"/>
         <ptr target="#A010904" type="person"/>
         <ptr target="#A010894" type="person"/>
-        <ptr target="#CN0330106M13AA" type="place"/>
+        <ptr target="#PL000000011578" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0802a12 #0802a17"/>
         <ptr target="#A010902" type="person"/>
         <ptr target="#A004177" type="person"/>
-        <ptr target="#CN0330602Z02AA" type="place"/>
+        <ptr target="#PL000000013240" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0802a18 #0802a19"/>
@@ -58,6 +58,6 @@
         <link targets="#0802a20 #0802a21"/>
         <ptr target="#A010902" type="person"/>
         <ptr target="#A001707" type="person"/>
-        <ptr target="#CN0411302Z14AA" type="place"/>
+        <ptr target="#PL000000025214" type="place"/>
     </linkGrp>
 </div>

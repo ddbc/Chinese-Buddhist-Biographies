@@ -1,16 +1,16 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0531a28shiHuiBi">
-    <p><anchor n="T.50.2060.0531a28"/><lb ed="T" n="0531a28"/><persName key="A005702">釋慧<ptr target="fn＊"/>壁</persName>。姓弘<placeName key="CN0330402Z17AA">蘇州嘉興</placeName>人。爰初胎孕。母絕<lb ed="T" n="0531a29"/>辛鯹。及誕育後生嫌臭味。故始自孩嬰至<lb ed="T" n="0531b01"/>于七歲。菜蔬飽腹諸絕希求。出家依<placeName key="CN0320503T04AA">法流<lb ed="T" n="0531b02"/>水寺</placeName><ptr target="fn05"/><persName key="A005703">巖師</persName>明教。隨順修奉。冠肇已後。周遊<lb ed="T" n="0531b03"/>訪道無擇夷險。四論三經諮詢賞要。學既<lb ed="T" n="0531b04"/>明達還<ptr target="fn06"/>延<placeName key="CN0330402Z17AA">舊居</placeName>。四遠承風咸來請謁。門人<lb ed="T" n="0531b05"/>來去常數百人。曉夕誨誘樂說無倦。背不著<lb ed="T" n="0531b06"/>席四十餘年。老無久力時撫彎几。<date key="j19562451958507" notAfter-iso="0650" notBefore-iso="0643">貞觀之<lb ed="T" n="0531b07"/>末年</date>。七十餘。伊人不遠<ptr target="fn07"/>詞狀罕傳。四遠稱<lb ed="T" n="0531b08"/>揚但云不可思議大德也。至於登機對晤述<lb ed="T" n="0531b09"/>作憲章。高軌莫聞。恐埋諸古。惜哉。</p>
+    <p><anchor n="T.50.2060.0531a28"/><lb ed="T" n="0531a28"/><persName key="A005702">釋慧<ptr target="fn＊"/>壁</persName>。姓弘<placeName key="PL000000012751">蘇州嘉興</placeName>人。爰初胎孕。母絕<lb ed="T" n="0531a29"/>辛鯹。及誕育後生嫌臭味。故始自孩嬰至<lb ed="T" n="0531b01"/>于七歲。菜蔬飽腹諸絕希求。出家依<placeName key="PL000000009885">法流<lb ed="T" n="0531b02"/>水寺</placeName><ptr target="fn05"/><persName key="A005703">巖師</persName>明教。隨順修奉。冠肇已後。周遊<lb ed="T" n="0531b03"/>訪道無擇夷險。四論三經諮詢賞要。學既<lb ed="T" n="0531b04"/>明達還<ptr target="fn06"/>延<placeName key="PL000000012751">舊居</placeName>。四遠承風咸來請謁。門人<lb ed="T" n="0531b05"/>來去常數百人。曉夕誨誘樂說無倦。背不著<lb ed="T" n="0531b06"/>席四十餘年。老無久力時撫彎几。<date key="j19562451958507" notAfter-iso="0650" notBefore-iso="0643">貞觀之<lb ed="T" n="0531b07"/>末年</date>。七十餘。伊人不遠<ptr target="fn07"/>詞狀罕傳。四遠稱<lb ed="T" n="0531b08"/>揚但云不可思議大德也。至於登機對晤述<lb ed="T" n="0531b09"/>作憲章。高軌莫聞。恐埋諸古。惜哉。</p>
     <linkGrp>
         <link targets="#0531a28 #0531b01"/>
         <ptr target="#A005702" type="person"/>
-        <ptr target="#CN0330402Z17AA" type="place"/>
+        <ptr target="#PL000000012751" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0531b01 #0531b02"/>
         <ptr target="#A005702" type="person"/>
         <ptr target="#A005703" type="person"/>
-        <ptr target="#CN0320503T04AA" type="place"/>
+        <ptr target="#PL000000009885" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0531b06 #0531b07"/>

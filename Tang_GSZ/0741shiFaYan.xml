@@ -1,40 +1,40 @@
 <?xml version='1.0' encoding='utf-8'?>
-<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0704c06shiFaYan"><head>唐京師<placeName key="CN0610103T35AA">玄法寺</placeName><persName key="A007522">釋法琰</persName>傳十</head><p><anchor n="T.50.2060.0704c06"/><lb ed="T" n="0704c06"/><persName key="A007522">釋法琰</persName>。俗姓嚴。江表<placeName key="CN0320106Z05AA">金陵</placeName>人。本名<persName key="A007522">法藏</persName>。住<placeName key="CN0320106T10AA">願<lb ed="T" n="0704c07"/>力寺</placeName>。聽<placeName key="CN0320101T60AA">莊嚴寺</placeName><ptr target="fn24"/><persName key="A005710">皭公</persName>成實。入義知歸。時共<lb ed="T" n="0704c08"/>讚賞。每聞經聲唄讚。如舊所經充滿胸臆。<lb ed="T" n="0704c09"/>試密尋擬。意言通詣。即以所解用諮先達<lb ed="T" n="0704c10"/>咸曰。卿曾<ptr target="fn25"/>昔習。故有今緣。不可怪也。遂<lb ed="T" n="0704c11"/>取瑞應依聲盡卷。舉擲<ptr target="fn26"/>旁<ptr target="fn27"/>迸囀態驚馳。<lb ed="T" n="0704c12"/>無不<ptr target="fn28"/>訝之。皆來返啟。乃於講隙一時為<lb ed="T" n="0704c13"/>敘。陳國齋會有執卷者。若不陳聲齋福不<lb ed="T" n="0704c14"/>濟。故使人各所懷相從畢聽。清音盈耳頌<lb ed="T" n="0704c15"/>聲洋溢。廣流世路。晚被晉府召入<placeName key="CN0610113T02AA">日嚴</placeName>。終<lb ed="T" n="0704c16"/>于<placeName key="CN0140110T04AA">武德</placeName>。復居<placeName key="CN0610103T35AA">玄<ptr target="fn29"/>法</placeName>。雖年迫期頤。而聲喉不<lb ed="T" n="0704c17"/>敗。<placeName key="CN0610102Z01AA">京室</placeName>雖富聲業甚貧。諸有尋味莫有<lb ed="T" n="0704c18"/>高於<persName key="A007522">琰</persName>者。然而性在知足。不畜貲財。福利<lb ed="T" n="0704c19"/>所歸隨皆散盡。以<date key="j19533991953753" from-iso="0636-02-15" to-iso="0637-02-03">貞觀十年</date>卒于此<placeName key="CN0610103T35AA">寺</placeName>。九<lb ed="T" n="0704c20"/>十餘矣。</p>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0704c06shiFaYan"><head>唐京師<placeName key="PL000000042255">玄法寺</placeName><persName key="A007522">釋法琰</persName>傳十</head><p><anchor n="T.50.2060.0704c06"/><lb ed="T" n="0704c06"/><persName key="A007522">釋法琰</persName>。俗姓嚴。江表<placeName key="PL000000008975">金陵</placeName>人。本名<persName key="A007522">法藏</persName>。住<placeName key="PL000000008935">願<lb ed="T" n="0704c07"/>力寺</placeName>。聽<placeName key="PL000000008702">莊嚴寺</placeName><ptr target="fn24"/><persName key="A005710">皭公</persName>成實。入義知歸。時共<lb ed="T" n="0704c08"/>讚賞。每聞經聲唄讚。如舊所經充滿胸臆。<lb ed="T" n="0704c09"/>試密尋擬。意言通詣。即以所解用諮先達<lb ed="T" n="0704c10"/>咸曰。卿曾<ptr target="fn25"/>昔習。故有今緣。不可怪也。遂<lb ed="T" n="0704c11"/>取瑞應依聲盡卷。舉擲<ptr target="fn26"/>旁<ptr target="fn27"/>迸囀態驚馳。<lb ed="T" n="0704c12"/>無不<ptr target="fn28"/>訝之。皆來返啟。乃於講隙一時為<lb ed="T" n="0704c13"/>敘。陳國齋會有執卷者。若不陳聲齋福不<lb ed="T" n="0704c14"/>濟。故使人各所懷相從畢聽。清音盈耳頌<lb ed="T" n="0704c15"/>聲洋溢。廣流世路。晚被晉府召入<placeName key="PL000000042407">日嚴</placeName>。終<lb ed="T" n="0704c16"/>于<placeName key="PL000000003775">武德</placeName>。復居<placeName key="PL000000042255">玄<ptr target="fn29"/>法</placeName>。雖年迫期頤。而聲喉不<lb ed="T" n="0704c17"/>敗。<placeName key="PL000000042182">京室</placeName>雖富聲業甚貧。諸有尋味莫有<lb ed="T" n="0704c18"/>高於<persName key="A007522">琰</persName>者。然而性在知足。不畜貲財。福利<lb ed="T" n="0704c19"/>所歸隨皆散盡。以<date key="j19533991953753" from-iso="0636-02-15" to-iso="0637-02-03">貞觀十年</date>卒于此<placeName key="PL000000042255">寺</placeName>。九<lb ed="T" n="0704c20"/>十餘矣。</p>
     <linkGrp>
         <link targets="#0704c06 #0704c06"/>
         <ptr target="#A007522" type="person"/>
-        <ptr target="#CN0320106Z05AA" type="place"/>
+        <ptr target="#PL000000008975" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0704c06 #0704c07"/>
         <ptr target="#A007522" type="person"/>
-        <ptr target="#CN0320106T10AA" type="place"/>
+        <ptr target="#PL000000008935" type="place"/>
         </linkGrp>
     <linkGrp>
         <link targets="#0704c07 #0704c08"/>
         <ptr target="#A007522" type="person"/>
         <ptr target="#A005710" type="person"/>
-        <ptr target="#CN0320101T60AA" type="place"/>
+        <ptr target="#PL000000008702" type="place"/>
         </linkGrp>
     <linkGrp>
         <link targets="#0704c15 #0704c16"/>
         <ptr target="#A007522" type="person"/>
-        <ptr target="#CN0610113T02AA" type="place"/>
+        <ptr target="#PL000000042407" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0704c15 #0704c16"/>
         <ptr target="#A007522" type="person"/>
-        <ptr target="#CN0140110T04AA" type="place"/>
+        <ptr target="#PL000000003775" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0704c16 #0704c17"/>
         <ptr target="#A007522" type="person"/>
-        <ptr target="#CN0610103T35AA" type="place"/>
+        <ptr target="#PL000000042255" type="place"/>
         </linkGrp>
     <linkGrp>
         <link targets="#0704c19 #0704c20"/>
         <ptr target="#A007522" type="person"/>
-        <ptr target="#CN0610103T35AA" type="place"/>
+        <ptr target="#PL000000042255" type="place"/>
         <ptr target="#j19533991953753" type="time"/>
     </linkGrp>
 </div>

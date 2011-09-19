@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0902b04shiLiaoRan">
-  <p><anchor n="T.50.2062.0902b04"/><lb ed="T" n="0902b04"/><persName key="A000035">釋了然</persName>號<persName key="A000035">志涌</persName>。出家郡之<placeName key="CN0331082T07AA">白蓮寺</placeName>。講演天<lb ed="T" n="0902b05"/>台教觀二十餘年。精勵後學白業潛修。日<lb ed="T" n="0902b06"/>惟一餐常坐達旦。一夕夢。二龍雲中交戲空<lb ed="T" n="0902b07"/>際忽然化為神人。從空而降謁<persName key="A000035">師</persName>。且於衣<lb ed="T" n="0902b08"/>袖出一書示曰。<persName key="A000035">師</persName>七日後當行西歸。<persName key="A000035">了然</persName><lb ed="T" n="0902b09"/>既寤知是往生之應。乃撾鼓集眾。登座說<lb ed="T" n="0902b10"/>法遺囑後事。已而書偈曰。因念佛力得生<lb ed="T" n="0902b11"/>樂國。凡汝諸人可不自逸。即索浴更衣。命<lb ed="T" n="0902b12"/>眾同聲誦彌陀經。至西方世界倏然而化。<lb ed="T" n="0902b13"/>一眾皆聞天樂之音盈空。祥光燭於天表。</p>
+  <p><anchor n="T.50.2062.0902b04"/><lb ed="T" n="0902b04"/><persName key="A000035">釋了然</persName>號<persName key="A000035">志涌</persName>。出家郡之<placeName key="PL000000014874">白蓮寺</placeName>。講演天<lb ed="T" n="0902b05"/>台教觀二十餘年。精勵後學白業潛修。日<lb ed="T" n="0902b06"/>惟一餐常坐達旦。一夕夢。二龍雲中交戲空<lb ed="T" n="0902b07"/>際忽然化為神人。從空而降謁<persName key="A000035">師</persName>。且於衣<lb ed="T" n="0902b08"/>袖出一書示曰。<persName key="A000035">師</persName>七日後當行西歸。<persName key="A000035">了然</persName><lb ed="T" n="0902b09"/>既寤知是往生之應。乃撾鼓集眾。登座說<lb ed="T" n="0902b10"/>法遺囑後事。已而書偈曰。因念佛力得生<lb ed="T" n="0902b11"/>樂國。凡汝諸人可不自逸。即索浴更衣。命<lb ed="T" n="0902b12"/>眾同聲誦彌陀經。至西方世界倏然而化。<lb ed="T" n="0902b13"/>一眾皆聞天樂之音盈空。祥光燭於天表。</p>
   <linkGrp>
     <link targets="#0902b04 #0902b05"/>
     <ptr target="#A000035" type="person"/>
-    <ptr target="#CN0331082T07AA" type="place"/>
+    <ptr target="#PL000000014874" type="place"/>
   </linkGrp>
 </div>

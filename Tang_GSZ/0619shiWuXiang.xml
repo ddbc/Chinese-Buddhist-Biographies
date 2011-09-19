@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0659a22shiWuXiang">
-    <p><anchor n="T.50.2060.0659a22"/><lb ed="T" n="0659a22"/>涪州<placeName key="CN0500102T01AA">相思寺</placeName><persName key="A006942">無相禪師者</persName>。非<placeName key="CN0510000E01AA">巴蜀</placeName>人。不知<lb ed="T" n="0659a23"/>何來。忽至山寺隨眾而已。不異恒人。其<placeName key="CN0500102T01AA">寺</placeName><lb ed="T" n="0659a24"/>在<placeName key="CN0500102Z14AA">涪州</placeName>上流大江水北。崖側有銘方五尺<lb ed="T" n="0659a25"/>許。字如掌大。都不可識。下有佛迹。相去九<lb ed="T" n="0659a26"/>尺。長三尺許。蹈石如泥。道俗敬重。<persName key="A006942">相</persName>以一<lb ed="T" n="0659a27"/>時渡水齊返還無船。乃鉢安水中曰。何為<lb ed="T" n="0659a28"/>常擎汝。汝可自渡水。便取<ptr target="fn05"/>芭蕉葉<ptr target="fn06"/>搭水<lb ed="T" n="0659a29"/>立上而渡。鉢隨後來。須臾達岸。時採樵者<lb ed="T" n="0659b01"/>見之相語。覺知已便辭去。徒眾苦留不住。<lb ed="T" n="0659b02"/>至水入船。諸人禮請。不與篙檝。乃捉船舷。<lb ed="T" n="0659b03"/>直爾渡水。不顧而去。即令尋逐。莫測所<lb ed="T" n="0659b04"/>往。</p>
+    <p><anchor n="T.50.2060.0659a22"/><lb ed="T" n="0659a22"/>涪州<placeName key="PL000000034046">相思寺</placeName><persName key="A006942">無相禪師者</persName>。非<placeName key="PL000000034649">巴蜀</placeName>人。不知<lb ed="T" n="0659a23"/>何來。忽至山寺隨眾而已。不異恒人。其<placeName key="PL000000034046">寺</placeName><lb ed="T" n="0659a24"/>在<placeName key="PL000000034060">涪州</placeName>上流大江水北。崖側有銘方五尺<lb ed="T" n="0659a25"/>許。字如掌大。都不可識。下有佛迹。相去九<lb ed="T" n="0659a26"/>尺。長三尺許。蹈石如泥。道俗敬重。<persName key="A006942">相</persName>以一<lb ed="T" n="0659a27"/>時渡水齊返還無船。乃鉢安水中曰。何為<lb ed="T" n="0659a28"/>常擎汝。汝可自渡水。便取<ptr target="fn05"/>芭蕉葉<ptr target="fn06"/>搭水<lb ed="T" n="0659a29"/>立上而渡。鉢隨後來。須臾達岸。時採樵者<lb ed="T" n="0659b01"/>見之相語。覺知已便辭去。徒眾苦留不住。<lb ed="T" n="0659b02"/>至水入船。諸人禮請。不與篙檝。乃捉船舷。<lb ed="T" n="0659b03"/>直爾渡水。不顧而去。即令尋逐。莫測所<lb ed="T" n="0659b04"/>往。</p>
     <linkGrp>
         <link targets="#0659a22 #0659a22"/>
         <ptr target="#A006942" type="person"/>
-        <ptr target="#CN0500102T01AA" type="place"/>
+        <ptr target="#PL000000034046" type="place"/>
         </linkGrp>
 </div>

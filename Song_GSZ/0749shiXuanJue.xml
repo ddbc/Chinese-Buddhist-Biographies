@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0716c17shiXuanJue">
-    <lb ed="T" n="0716c17"/><anchor n="T.50.2061.0716c17"/><head><date from-iso="0618-06-21" key="j19469512052491" to-iso="0907-06-06">唐</date><placeName key="CN0610222A01AA">玉華寺</placeName><persName key="A008881">玄覺</persName>傳</head><p>
-        <lb ed="T" n="0716c18"/><persName key="A008881">釋玄覺</persName>，<placeName key="CN0652101Z22AA">高昌國</placeName>人也，西土種姓<ptr target="#n271"/>未得聞焉。
-<lb ed="T" n="0716c19"/>學慕大乘，從<persName key="A000294">玄奘三藏</persName>研覈經論，亦於<placeName key="CN0610222A01AA">玉
+    <lb ed="T" n="0716c17"/><anchor n="T.50.2061.0716c17"/><head><date from-iso="0618-06-21" key="j19469512052491" to-iso="0907-06-06">唐</date><placeName key="PL000000042745">玉華寺</placeName><persName key="A008881">玄覺</persName>傳</head><p>
+        <lb ed="T" n="0716c18"/><persName key="A008881">釋玄覺</persName>，<placeName key="PL000000047480">高昌國</placeName>人也，西土種姓<ptr target="#n271"/>未得聞焉。
+<lb ed="T" n="0716c19"/>學慕大乘，從<persName key="A000294">玄奘三藏</persName>研覈經論，亦於<placeName key="PL000000042745">玉
     <lb ed="T" n="0716c20"/>華宮</placeName>參預翻譯。及《大般若經》<ptr target="#n272"/>向就<ptr target="#n273"/>，同請翻
         <lb ed="T" n="0716c21"/>《寶積經》，<persName key="A000294">奘</persName>辭惙然<ptr target="#n274"/>。<persName key="A008881">覺</persName>因夢一浮圖莊嚴高大，
 <lb ed="T" n="0716c22"/>忽然摧倒，遂驚起告<persName key="A000294">奘</persName>。<persName key="A000294">奘</persName>曰：「非<ref target="#A008881" type="person">汝</ref>身事。此
@@ -11,13 +11,13 @@
     <linkGrp>
         <link targets="#0716c18 #0716c18"/>
         <ptr target="#A008881" type="person"/>
-        <ptr target="#CN0652101Z22AA" type="place"/>
+        <ptr target="#PL000000047480" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0716c19 #0716c21"/>
         <ptr target="#A008881" type="person"/>
         <ptr target="#A000294" type="person"/>
-        <ptr target="#CN0610222A01AA" type="place"/>
+        <ptr target="#PL000000042745" type="place"/>
         <ptr target="#j19621691963550" type="time"/>
     </linkGrp>
     <linkGrp>

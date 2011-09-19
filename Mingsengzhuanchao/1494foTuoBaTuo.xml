@@ -1,8 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><div xml:id="mscc0355a17foTuoBaTuo" xmlns="http://www.tei-c.org/ns/1.0"><head>宋<placeName key="CN0321002T10AA">道場寺</placeName><persName key="A000441">佛駄跋陀</persName></head><p><anchor n="X.77.1523.0355a17"/><lb ed="X" n="0355a17"/><persName key="A000441">佛駄跋陀</persName>(或云<persName key="A000441">浮頭婆駄</persName>。梁言<persName key="A000441">覺賢</persName>)。<placeName key="WW034NI00E01AA">北天竺</placeName>人也。<date when-iso="0367" key ="j18551041855468">九歲</date>失父母。為<lb ed="X" n="0355a18"/>外家所養。<date when-iso="0375" key ="j18580261858390">年十七</date>出家。師令誦經。五人同業。四人一<lb ed="X" n="0355a19"/>月。敵其一日。愽覧經律。精力過人。篤好禪思。遇境斯<lb ed="X" n="0355a20"/>得。雅遊九次。妙入八解。同學<persName key="A002580">僧伽達多</persName>。心相賞遇。同<lb ed="X" n="0355a21"/>遊<placeName key="WW034KASME02AA">罽賓</placeName>。達多閇室安禪。先自念言曰。無得覺我者也。<lb ed="X" n="0355a22"/>有頃忽見<persName key="A000441">覺賢</persName>對倚彈指。<persName key="A002580">達多</persName>問曰。何從得入。答曰。<lb ed="X" n="0355a23"/>向往<placeName key="XZ0000002A01AA">兜率</placeName>。見子意云無得覺我。故相觀耳。達多方悟。<lb ed="X" n="0355a24"/>非凡夫人焉。苦從<ptr target="fn3"/>謂問。乃云得阿那含也。</p>
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="mscc0355a17foTuoBaTuo"><head>宋<placeName key="PL000000010767">道場寺</placeName><persName key="A000441">佛駄跋陀</persName></head><p><anchor n="X.77.1523.0355a17"/><lb ed="X" n="0355a17"/><persName key="A000441">佛駄跋陀</persName>(或云<persName key="A000441">浮頭婆駄</persName>。梁言<persName key="A000441">覺賢</persName>)。<placeName key="PL000000055420">北天竺</placeName>人也。<date when-iso="0367" key="j18551041855468">九歲</date>失父母。為<lb ed="X" n="0355a18"/>外家所養。<date when-iso="0375" key="j18580261858390">年十七</date>出家。師令誦經。五人同業。四人一<lb ed="X" n="0355a19"/>月。敵其一日。愽覧經律。精力過人。篤好禪思。遇境斯<lb ed="X" n="0355a20"/>得。雅遊九次。妙入八解。同學<persName key="A002580">僧伽達多</persName>。心相賞遇。同<lb ed="X" n="0355a21"/>遊<placeName key="PL000000055418">罽賓</placeName>。達多閇室安禪。先自念言曰。無得覺我者也。<lb ed="X" n="0355a22"/>有頃忽見<persName key="A000441">覺賢</persName>對倚彈指。<persName key="A002580">達多</persName>問曰。何從得入。答曰。<lb ed="X" n="0355a23"/>向往<placeName key="PL000000055446">兜率</placeName>。見子意云無得覺我。故相觀耳。達多方悟。<lb ed="X" n="0355a24"/>非凡夫人焉。苦從<ptr target="fn3"/>謂問。乃云得阿那含也。</p>
     <linkGrp>
         <link targets="#0355a17 #0355a17"/>
         <ptr type="person" target="#A000441"/>
-        <ptr type="place" target="#WW034NI00E01AA"/>
+        <ptr type="place" target="#PL000000055420"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0355a17 #0355a18"/>
@@ -18,6 +19,6 @@
         <link targets="#0355a20 #0355a24"/>
         <ptr type="person" target="#A000441"/>
         <ptr type="person" target="#A002580"/>
-        <ptr type="place" target="#WW034KASME02AA"/>
+        <ptr type="place" target="#PL000000055418"/>
     </linkGrp>
 </div>

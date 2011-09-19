@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="bqnz0943b08faQuanNi">
-    <head><ptr target="fn26"/><placeName key="CN0000000T10AA">青園東寺</placeName><persName key="A015860">法全</persName>尼<ptr target="fn27"/>傳八</head><p><anchor n="T.50.2063.0943b09"/><lb ed="T" n="0943b09"/><persName key="A015860">法全</persName>，本姓戴，<placeName key="CN0320105Z01AA">丹陽</placeName>人也。端莊好靜，雅勤定<ptr target="fn28"/>慧。<lb ed="T" n="0943b10"/>初隨<persName key="A002266">宗</persName>、<persName key="A002259">瑗</persName>，博綜眾經；後師<persName key="A002314">審</persName>、<persName key="A002321">隱</persName>，遍遊禪觀。晝<lb ed="T" n="0943b11"/>則披文遠思，夕則歷觀妙境。大乘奧典，皆能<lb ed="T" n="0943b12"/>宣<ptr target="fn29"/>講；三昧祕門，並為師匠。食但蔬菜，衣止蔽<lb ed="T" n="0943b13"/>形。訓誘未聞，獎成後學。聽者修行，功益甚眾。<lb ed="T" n="0943b14"/>寺既廣大，閱理為難，<date from-iso="0467-01-22" key="j18916501892033" to-iso="0468-02-09">泰始三年</date>，眾議欲分為<lb ed="T" n="0943b15"/>二寺。時<persName key="A015875">寶嬰</persName>尼求於東面起立禪房，更搆靈<lb ed="T" n="0943b16"/>塔，於是始分為<placeName key="CN0000000T10AA">青園東寺</placeName>。<date from-iso="0478-02-19" key="j18956961896049" to-iso="0479-02-07">昇明二年</date><persName key="A015875">嬰</persName>卒，眾<lb ed="T" n="0943b17"/>既新分，人望未緝，乃以<persName key="A015860">全</persName>為寺主。於是大小<lb ed="T" n="0943b18"/>愛悅，情無纖<ptr target="fn30"/>介。年八十三，<date from-iso="0494-01-24" key="j19015141901739" to-iso="0494-09-06">隆昌元年</date>卒。</p><p>時<lb ed="T" n="0943b19"/> <ref type="place" target="#CN0000000T10AA">寺</ref>復有<persName key="A015871">淨練</persName>、<persName key="A015878">僧律</persName>、<ptr target="fn31"/><persName key="A015868">慧形</persName>，並以學顯名也。</p>
+    <head><ptr target="fn26"/><placeName key="PL000000000173">青園東寺</placeName><persName key="A015860">法全</persName>尼<ptr target="fn27"/>傳八</head><p><anchor n="T.50.2063.0943b09"/><lb ed="T" n="0943b09"/><persName key="A015860">法全</persName>，本姓戴，<placeName key="PL000000008882">丹陽</placeName>人也。端莊好靜，雅勤定<ptr target="fn28"/>慧。<lb ed="T" n="0943b10"/>初隨<persName key="A002266">宗</persName>、<persName key="A002259">瑗</persName>，博綜眾經；後師<persName key="A002314">審</persName>、<persName key="A002321">隱</persName>，遍遊禪觀。晝<lb ed="T" n="0943b11"/>則披文遠思，夕則歷觀妙境。大乘奧典，皆能<lb ed="T" n="0943b12"/>宣<ptr target="fn29"/>講；三昧祕門，並為師匠。食但蔬菜，衣止蔽<lb ed="T" n="0943b13"/>形。訓誘未聞，獎成後學。聽者修行，功益甚眾。<lb ed="T" n="0943b14"/>寺既廣大，閱理為難，<date from-iso="0467-01-22" key="j18916501892033" to-iso="0468-02-09">泰始三年</date>，眾議欲分為<lb ed="T" n="0943b15"/>二寺。時<persName key="A015875">寶嬰</persName>尼求於東面起立禪房，更搆靈<lb ed="T" n="0943b16"/>塔，於是始分為<placeName key="PL000000000173">青園東寺</placeName>。<date from-iso="0478-02-19" key="j18956961896049" to-iso="0479-02-07">昇明二年</date><persName key="A015875">嬰</persName>卒，眾<lb ed="T" n="0943b17"/>既新分，人望未緝，乃以<persName key="A015860">全</persName>為寺主。於是大小<lb ed="T" n="0943b18"/>愛悅，情無纖<ptr target="fn30"/>介。年八十三，<date from-iso="0494-01-24" key="j19015141901739" to-iso="0494-09-06">隆昌元年</date>卒。</p><p>時<lb ed="T" n="0943b19"/> <ref type="place" target="#PL000000000173">寺</ref>復有<persName key="A015871">淨練</persName>、<persName key="A015878">僧律</persName>、<ptr target="fn31"/><persName key="A015868">慧形</persName>，並以學顯名也。</p>
   
     <linkGrp>
         <link targets="#0943b18 #0943b18"/>
@@ -33,14 +33,14 @@
         <link targets="#0943b14 #0943b16"/>
         <ptr target="#A015860" type="person"/>
         <ptr target="#A015875" type="person"/>
-        <ptr target="#CN0000000T10AA" type="place"/>
+        <ptr target="#PL000000000173" type="place"/>
         <ptr target="#j18916501892033" type="time"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0943b14 #0943b17"/>
         <ptr target="#A015860" type="person"/>
         <ptr target="#A015875" type="person"/>
-        <ptr target="#CN0000000T10AA" type="place"/>
+        <ptr target="#PL000000000173" type="place"/>
         <ptr target="#j18956961896049" type="time"/>
     </linkGrp>
     <linkGrp>
@@ -49,6 +49,6 @@
         <ptr target="#A015871" type="person"/>
         <ptr target="#A015878" type="person"/>
         <ptr target="#A015868" type="person"/>
-        <ptr target="#CN0000000T10AA" type="place"/>
+        <ptr target="#PL000000000173" type="place"/>
         </linkGrp>
 </div>

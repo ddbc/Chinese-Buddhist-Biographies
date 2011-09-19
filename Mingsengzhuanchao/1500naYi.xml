@@ -1,20 +1,21 @@
-<?xml version="1.0" encoding="UTF-8"?><div xml:id="mscc0356a17naYi" xmlns="http://www.tei-c.org/ns/1.0"><head>晉永興<placeName key="CN0330682T01AA">龍山大寺</placeName><persName key="A002287">納衣</persName></head><p><anchor n="X.77.1523.0356a17"/><lb ed="X" n="0356a17"/>納衣本姓史。名<ptr target="fn3"/>宋。不如何許人也。多服納衣。或時麻<lb ed="X" n="0356a18"/>衣。而寒暑不易。故世以服為之號。故曰<persName key="A002287">納衣</persName>。或曰<persName key="A002287">麻<lb ed="X" n="0356a19"/>衣</persName>。身首瘡痒。不甚洗浴。晉<date from-iso="0405-03-03" to-iso="0419-01-28" key="j18690451874124">義凞</date>中。常在廣陵<placeName key="CN0321081A11AA">白土<ptr target="fn4"/>[仁-二+彔]</placeName>。<lb ed="X" n="0356a20"/>謳唱引葃。以自欣暢。得直隨以布施。晝遊夜伏。莫知<lb ed="X" n="0356a21"/>其棲息之處。運力終日。食不加口。靡有知其之所將<lb ed="X" n="0356a22"/>餌。八方殊聲。莫不必能。時<persName key="A003240">高檀祗</persName>為<placeName key="CN0321081Z20AA">江都</placeName>令。聞而恠<lb ed="X" n="0356a23"/>之。使<persName key="A002287">史</persName>攝來應對。機[槤-車+康]稽古。博達辨說。玄儒賦詩一<lb ed="X" n="0356a24"/>首。曰。有欲苦不足。無欲亦無憂。未若清虗童。帶索披<lb ed="X" n="0356b01"/>玄喪。浮遊一世間。汎<ptr target="fn5"/>苦不繫舟。<persName key="A003240">檀</persName>遺布二十。返而遣<lb ed="X" n="0356b02"/>之。出城便以乞路人。<ptr target="fn6"/>海行里外蕭然都盡。不以姓名<lb ed="X" n="0356b03"/>鄉居語人。時世莫有知者。後<ptr target="fn7"/>人海行。於孤洲上。遇一<lb ed="X" n="0356b04"/>沙門。求寄書與<persName key="A002287">史宗</persName>。云其在白椂。披著<persName key="A002287">納衣道人</persName>是<lb ed="X" n="0356b05"/>也。仍<ptr target="fn8"/>量書船中。同侶欲取看之。而書著船不肯脫。及<lb ed="X" n="0356b06"/>至<placeName key="CN0321081A11AA">白土</placeName>。歘然風起。飛書就宗。宗接而將去。人益異之。<lb ed="X" n="0356b07"/>競來敬事。拂衣南遊。憩于永興縣<placeName key="CN0330682T01AA">龍山大寺</placeName>。常過魚<lb ed="X" n="0356b08"/>梁。魚人將獲。行有屠膾。<persName key="A002287">納衣</persName>意甚憫然。乃入上流浴<lb ed="X" n="0356b09"/>群魚散走。其潛樣物類皆如此。為人清達。不悅榮華。<lb ed="X" n="0356b10"/>性用深點。雅懷利益。善談玄儒。洞真實相。<placeName key="CN0330602Z06AA">會稽</placeName><persName key="A003242">謝劭</persName><lb ed="X" n="0356b11"/><persName key="A003243">魏邁之</persName>等。皆篤論淵博。並從其師受。後同止沙門。夜<lb ed="X" n="0356b12"/>聞有與宗共語者。頗說<placeName key="XZ0000013A01AA">蓬來山</placeName>事。曉便不見。莫知所<lb ed="X" n="0356b13"/>適。<placeName key="CN0360421Z08AA">尋陽</placeName>陶淵明記。<placeName key="CN0321081A11AA">白土[土*彔]</placeName>遇三異。法師此其一也(云<lb ed="X" n="0356b14"/>云)。</p>
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="mscc0356a17naYi"><head>晉永興<placeName key="PL000000013393">龍山大寺</placeName><persName key="A002287">納衣</persName></head><p><anchor n="X.77.1523.0356a17"/><lb ed="X" n="0356a17"/>納衣本姓史。名<ptr target="fn3"/>宋。不如何許人也。多服納衣。或時麻<lb ed="X" n="0356a18"/>衣。而寒暑不易。故世以服為之號。故曰<persName key="A002287">納衣</persName>。或曰<persName key="A002287">麻<lb ed="X" n="0356a19"/>衣</persName>。身首瘡痒。不甚洗浴。晉<date from-iso="0405-03-03" to-iso="0419-01-28" key="j18690451874124">義凞</date>中。常在廣陵<placeName key="PL000000010862">白土<ptr target="fn4"/>[仁-二+彔]</placeName>。<lb ed="X" n="0356a20"/>謳唱引葃。以自欣暢。得直隨以布施。晝遊夜伏。莫知<lb ed="X" n="0356a21"/>其棲息之處。運力終日。食不加口。靡有知其之所將<lb ed="X" n="0356a22"/>餌。八方殊聲。莫不必能。時<persName key="A003240">高檀祗</persName>為<placeName key="PL000000010890">江都</placeName>令。聞而恠<lb ed="X" n="0356a23"/>之。使<persName key="A002287">史</persName>攝來應對。機[槤-車+康]稽古。博達辨說。玄儒賦詩一<lb ed="X" n="0356a24"/>首。曰。有欲苦不足。無欲亦無憂。未若清虗童。帶索披<lb ed="X" n="0356b01"/>玄喪。浮遊一世間。汎<ptr target="fn5"/>苦不繫舟。<persName key="A003240">檀</persName>遺布二十。返而遣<lb ed="X" n="0356b02"/>之。出城便以乞路人。<ptr target="fn6"/>海行里外蕭然都盡。不以姓名<lb ed="X" n="0356b03"/>鄉居語人。時世莫有知者。後<ptr target="fn7"/>人海行。於孤洲上。遇一<lb ed="X" n="0356b04"/>沙門。求寄書與<persName key="A002287">史宗</persName>。云其在白椂。披著<persName key="A002287">納衣道人</persName>是<lb ed="X" n="0356b05"/>也。仍<ptr target="fn8"/>量書船中。同侶欲取看之。而書著船不肯脫。及<lb ed="X" n="0356b06"/>至<placeName key="PL000000010862">白土</placeName>。歘然風起。飛書就宗。宗接而將去。人益異之。<lb ed="X" n="0356b07"/>競來敬事。拂衣南遊。憩于永興縣<placeName key="PL000000013393">龍山大寺</placeName>。常過魚<lb ed="X" n="0356b08"/>梁。魚人將獲。行有屠膾。<persName key="A002287">納衣</persName>意甚憫然。乃入上流浴<lb ed="X" n="0356b09"/>群魚散走。其潛樣物類皆如此。為人清達。不悅榮華。<lb ed="X" n="0356b10"/>性用深點。雅懷利益。善談玄儒。洞真實相。<placeName key="PL000000013244">會稽</placeName><persName key="A003242">謝劭</persName><lb ed="X" n="0356b11"/><persName key="A003243">魏邁之</persName>等。皆篤論淵博。並從其師受。後同止沙門。夜<lb ed="X" n="0356b12"/>聞有與宗共語者。頗說<placeName key="PL000000055457">蓬來山</placeName>事。曉便不見。莫知所<lb ed="X" n="0356b13"/>適。<placeName key="PL000000018863">尋陽</placeName>陶淵明記。<placeName key="PL000000010862">白土[土*彔]</placeName>遇三異。法師此其一也(云<lb ed="X" n="0356b14"/>云)。</p>
     <linkGrp>
         <link targets="#0356a19 #0356a22"/>
         <ptr type="person" target="#A002287"/>
-        <ptr type="place" target="#CN0321081A11AA"/>
+        <ptr type="place" target="#PL000000010862"/>
         <ptr type="time" target="#d18690451874124"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0356a22 #0356b02"/>
         <ptr type="person" target="#A002287"/>
         <ptr type="person" target="#A003240"/>
-        <ptr type="place" target="#CN0321081Z20AA"/>
+        <ptr type="place" target="#PL000000010890"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0356b07 #0356b07"/>
         <ptr type="person" target="#A002287"/>
-        <ptr type="place" target="#CN0330682T01AA"/>
+        <ptr type="place" target="#PL000000013393"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0356b10 #0356b11"/>
@@ -26,7 +27,6 @@
         <link targets="#0356b13 #0356b13"/>
         <ptr type="person" target="#A002287"/>
         <ptr type="person" target="#A003245"/>
-        <ptr type="place" target="#CN0321081A11AA"/>
+        <ptr type="place" target="#PL000000010862"/>
     </linkGrp>
 </div>
-

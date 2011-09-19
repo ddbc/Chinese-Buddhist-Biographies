@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0401c05shiDaoFang">
-    <p><anchor n="T.50.2059.0401c06"/><lb ed="T" n="0401c06"/><persName key="A002322">釋道房</persName>，姓張，<placeName key="CN0510623Z14AA">廣漢五城</placeName>人。道行清<ptr target="fn21"/>貞。少善<lb ed="T" n="0401c07"/>律學，止<placeName key="CN0510623T01AA">廣漢長樂寺</placeName>。每禮佛燒香，香煙直<lb ed="T" n="0401c08"/>入佛頂。又勤誨門人，改惡行善，其不改者，<lb ed="T" n="0401c09"/>乃為之流泣。後卒<ptr target="fn22"/>于所住，春秋一百二十<lb ed="T" n="0401c10"/>歲矣。</p>
+    <p><anchor n="T.50.2059.0401c06"/><lb ed="T" n="0401c06"/><persName key="A002322">釋道房</persName>，姓張，<placeName key="PL000000035289">廣漢五城</placeName>人。道行清<ptr target="fn21"/>貞。少善<lb ed="T" n="0401c07"/>律學，止<placeName key="PL000000035273">廣漢長樂寺</placeName>。每禮佛燒香，香煙直<lb ed="T" n="0401c08"/>入佛頂。又勤誨門人，改惡行善，其不改者，<lb ed="T" n="0401c09"/>乃為之流泣。後卒<ptr target="fn22"/>于所住，春秋一百二十<lb ed="T" n="0401c10"/>歲矣。</p>
     <linkGrp>
         <link targets="#0401c07 #0401c10"/>
         <ptr target="#A002322" type="person"/>
-        <ptr target="#CN0510623T01AA" type="place"/>
+        <ptr target="#PL000000035273" type="place"/>
         </linkGrp>
 </div>

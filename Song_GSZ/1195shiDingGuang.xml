@@ -2,7 +2,7 @@
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0878c03shiDingGuang">
     <anchor n="T.50.2061.0878c03"/><head><date from-iso="0618-06-21" key="j19469512052491" to-iso="0907-06-06">唐</date>成都福感寺<persName key="A013711">定光</persName>傳</head><p>
 <lb ed="T" n="0878c04"/><persName key="A013711">釋定光</persName>者，不知何許人也。爰從入法，厥性
-<lb ed="T" n="0878c05"/>弗拘，糲食斷中，麁襦卒歲。方於庸<placeName key="CN0510184Z16AA">蜀</placeName>化導
+<lb ed="T" n="0878c05"/>弗拘，糲食斷中，麁襦卒歲。方於庸<placeName key="PL000000035107">蜀</placeName>化導
 <lb ed="T" n="0878c06"/>有緣，事或多魔，教<anchor xml:id="beg0878009"/>鍾<anchor xml:id="end0878009"/>中𠘶。俄遭<date from-iso="0840" key="j20279082030170" to-iso="0846">武宗</date>毀廢，
 <lb ed="T" n="0878c07"/>例反儒宗。及乎佛日重暉，僧倫咸序，<persName key="A013711">光</persName>同
 <lb ed="T" n="0878c08"/>締構寺宇，因鑄大鐘，計赤金萬餘斤。爾日鼓
@@ -14,7 +14,7 @@
 <lb ed="T" n="0878c14"/>皆奔迸。時塔頂出四道濃煙，分穗直上空
 <lb ed="T" n="0878c15"/>虛，至夜。蠻蜑覩此奇異，乃禁止污穢。此塔
 <lb ed="T" n="0878c16"/>先在西北四十餘步，<date from-iso="0908" key="j20527402054570" to-iso="0913">天寶末</date>長史<persName key="A012387">章仇兼瓊</persName>
-<lb ed="T" n="0878c17"/>赴<anchor xml:id="beg0878010"/>在<anchor xml:id="end0878010"/>，至<placeName key="CN0510823Z03AA">劍門</placeName>，見一人長一丈餘，持戟當
+<lb ed="T" n="0878c17"/>赴<anchor xml:id="beg0878010"/>在<anchor xml:id="end0878010"/>，至<placeName key="PL000000035743">劍門</placeName>，見一人長一丈餘，持戟當
 <lb ed="T" n="0878c18"/>路。<persName key="A012387">兼瓊</persName>驚問，對曰：「某是大石寺<!--找不到此地-->護塔神，故
 <lb ed="T" n="0878c19"/>來奉迎，且有少事咨祈大夫也。緣大石寺
 <lb ed="T" n="0878c20"/>塔<!--找不到此地-->在西南，未為極善，今請移東北四十二
@@ -29,12 +29,12 @@
     <linkGrp>
         <link targets="#0878c05 #0878c06"/>
         <ptr target="#A013711" type="person"/>
-        <ptr target="#CN0510184Z16AA" type="place"/>
+        <ptr target="#PL000000035107" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0878c16 #0878c27"/>
         <ptr target="#A012387" type="person"/>
-        <ptr target="#CN0510823Z03AA" type="place"/>
+        <ptr target="#PL000000035743" type="place"/>
         <ptr target="#j20527402054570" type="time"/>
     </linkGrp>
 </div>

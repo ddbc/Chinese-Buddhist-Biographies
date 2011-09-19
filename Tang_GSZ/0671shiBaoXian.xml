@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0672a15shiBaoXian">
-    <p><anchor n="T.50.2060.0672a15"/><lb ed="T" n="0672a15"/><persName key="A007213">釋寶憲</persName>。<placeName key="CN0410103Z09AA">鄭州</placeName>人。<persName key="A006061">寶鎮律師</persName>之學士也。童稚依<lb ed="T" n="0672a16"/>止即奉科條。審量觀能具承大法。受具之<lb ed="T" n="0672a17"/>日但奉文言。至於行模並先具委。有師資<lb ed="T" n="0672a18"/>焉有弘業焉。<date key="j19333311935151" notAfter-iso="0586" notBefore-iso="0581">開皇之始</date>。與<persName key="A006061">鎮</persName>同來住<placeName key="CN0610103T03AA">大興<lb ed="T" n="0672a19"/>善</placeName>。威儀調順言無涉俗。<date key="j19406121942058" notAfter-iso="0605" notBefore-iso="0601">仁壽</date>奉勅。置塔<placeName key="CN0360103Z26AA">洪<lb ed="T" n="0672a20"/>州</placeName>。即<placeName key="CN0360103Z01AA">豫章</placeName>之故地。初向彼<placeName key="CN0360103Z26AA">州</placeName>。路由江阻。既<lb ed="T" n="0672a21"/>失正溜泥濘不通。人力殆盡無前進理。程<lb ed="T" n="0672a22"/>期又逼道俗<ptr target="fn04"/>遑懼。<persName key="A007213">憲</persName>乃憑心舍利請垂通<lb ed="T" n="0672a23"/>涉。忽降白鳥船前緩飛。乍來乍去如有引<lb ed="T" n="0672a24"/>導。即遣隨逐遂逢水脈。通夕汎舟安達無<lb ed="T" n="0672a25"/>障。<persName key="A007213">憲</persName>還<placeName key="CN0610102Z14AA">京室</placeName>。尋事卒<ptr target="fn05"/>也。</p>
+    <p><anchor n="T.50.2060.0672a15"/><lb ed="T" n="0672a15"/><persName key="A007213">釋寶憲</persName>。<placeName key="PL000000023069">鄭州</placeName>人。<persName key="A006061">寶鎮律師</persName>之學士也。童稚依<lb ed="T" n="0672a16"/>止即奉科條。審量觀能具承大法。受具之<lb ed="T" n="0672a17"/>日但奉文言。至於行模並先具委。有師資<lb ed="T" n="0672a18"/>焉有弘業焉。<date key="j19333311935151" notAfter-iso="0586" notBefore-iso="0581">開皇之始</date>。與<persName key="A006061">鎮</persName>同來住<placeName key="PL000000042218">大興<lb ed="T" n="0672a19"/>善</placeName>。威儀調順言無涉俗。<date key="j19406121942058" notAfter-iso="0605" notBefore-iso="0601">仁壽</date>奉勅。置塔<placeName key="PL000000018628">洪<lb ed="T" n="0672a20"/>州</placeName>。即<placeName key="PL000000018603">豫章</placeName>之故地。初向彼<placeName key="PL000000018628">州</placeName>。路由江阻。既<lb ed="T" n="0672a21"/>失正溜泥濘不通。人力殆盡無前進理。程<lb ed="T" n="0672a22"/>期又逼道俗<ptr target="fn04"/>遑懼。<persName key="A007213">憲</persName>乃憑心舍利請垂通<lb ed="T" n="0672a23"/>涉。忽降白鳥船前緩飛。乍來乍去如有引<lb ed="T" n="0672a24"/>導。即遣隨逐遂逢水脈。通夕汎舟安達無<lb ed="T" n="0672a25"/>障。<persName key="A007213">憲</persName>還<placeName key="PL000000042196">京室</placeName>。尋事卒<ptr target="fn05"/>也。</p>
     <linkGrp>
         <link targets="#0672a15 #0672a15"/>
         <ptr target="#A007213" type="person"/>
-        <ptr target="#CN0410103Z09AA" type="place"/>
+        <ptr target="#PL000000023069" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0672a15 #0672a18"/>
@@ -15,18 +15,18 @@
         <link targets="#0672a18 #0672a19"/>
         <ptr target="#A007213" type="person"/>
         <ptr target="#A006061" type="person"/>
-        <ptr target="#CN0610103T03AA" type="place"/>
+        <ptr target="#PL000000042218" type="place"/>
         <ptr target="#j19333311935151" type="time"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0672a19 #0672a25"/>
         <ptr target="#A007213" type="person"/>
-        <ptr target="#CN0360103Z26AA" type="place"/>
+        <ptr target="#PL000000018628" type="place"/>
         <ptr target="#j19406121942058" type="time"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0672a25 #0672a25"/>
         <ptr target="#A007213" type="person"/>
-        <ptr target="#CN0610102Z14AA" type="place"/>
+        <ptr target="#PL000000042196" type="place"/>
         </linkGrp>
 </div>

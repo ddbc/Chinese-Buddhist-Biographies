@@ -1,33 +1,33 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0674a09shiSengFan">
-    <p><anchor n="T.50.2060.0674a09"/><lb ed="T" n="0674a09"/><persName key="A007229">釋僧範</persName>。<placeName key="CN0131181Z20AA">冀州</placeName>人。學大小乘靜務心業。追師<lb ed="T" n="0674a10"/>禪念傾屈盡禮。所獲定要倍於同侶。住<placeName key="CN0610103T12AA">勝<lb ed="T" n="0674a11"/>光寺</placeName>。以慧解見推。<date key="j19406121942058" notAfter-iso="0605" notBefore-iso="0601">及<persName key="A004324">帝</persName>建塔</date>。下勅徵召。<lb ed="T" n="0674a12"/>送舍利於本州<placeName key="CN0131181T01AA">覺觀寺</placeName>。每至日沒常放光<lb ed="T" n="0674a13"/>明。黃赤交焰變化非一。沙門<persName key="A007232">僧辯</persName>。患耳四<lb ed="T" n="0674a14"/>年。聞聲如壁。一覩舍利兩耳洞開。有逾<lb ed="T" n="0674a15"/>恒日。州民<persName key="A007233">蘇法會</persName>。左足攣跛十有餘年。委<lb ed="T" n="0674a16"/>杖自扶來禮乞願。尋得除<ptr target="fn04"/>差放杖而歸。<persName key="A007229">範</persName><lb ed="T" n="0674a17"/>目覩靈驗神道若斯。信知經教非徒虛誕。<lb ed="T" n="0674a18"/>但由誠節未著。故致有差。後歸<placeName key="CN0610103T12AA">本寺</placeName>。還<lb ed="T" n="0674a19"/>遵前轍。未詳其卒。</p>
+    <p><anchor n="T.50.2060.0674a09"/><lb ed="T" n="0674a09"/><persName key="A007229">釋僧範</persName>。<placeName key="PL000000003648">冀州</placeName>人。學大小乘靜務心業。追師<lb ed="T" n="0674a10"/>禪念傾屈盡禮。所獲定要倍於同侶。住<placeName key="PL000000042232">勝<lb ed="T" n="0674a11"/>光寺</placeName>。以慧解見推。<date key="j19406121942058" notAfter-iso="0605" notBefore-iso="0601">及<persName key="A004324">帝</persName>建塔</date>。下勅徵召。<lb ed="T" n="0674a12"/>送舍利於本州<placeName key="PL000000003628">覺觀寺</placeName>。每至日沒常放光<lb ed="T" n="0674a13"/>明。黃赤交焰變化非一。沙門<persName key="A007232">僧辯</persName>。患耳四<lb ed="T" n="0674a14"/>年。聞聲如壁。一覩舍利兩耳洞開。有逾<lb ed="T" n="0674a15"/>恒日。州民<persName key="A007233">蘇法會</persName>。左足攣跛十有餘年。委<lb ed="T" n="0674a16"/>杖自扶來禮乞願。尋得除<ptr target="fn04"/>差放杖而歸。<persName key="A007229">範</persName><lb ed="T" n="0674a17"/>目覩靈驗神道若斯。信知經教非徒虛誕。<lb ed="T" n="0674a18"/>但由誠節未著。故致有差。後歸<placeName key="PL000000042232">本寺</placeName>。還<lb ed="T" n="0674a19"/>遵前轍。未詳其卒。</p>
     <linkGrp>
         <link targets="#0674a09 #0674a09"/>
         <ptr target="#A007229" type="person"/>
-        <ptr target="#CN0131181Z20AA" type="place"/>
+        <ptr target="#PL000000003648" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0674a10 #0674a10"/>
         <ptr target="#A007229" type="person"/>
-        <ptr target="#CN0610103T12AA" type="place"/>
+        <ptr target="#PL000000042232" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0674a11 #0674a15"/>
         <ptr target="#A007229" type="person"/>
         <ptr target="#A007232" type="person"/>
-        <ptr target="#CN0131181T01AA" type="place"/>
+        <ptr target="#PL000000003628" type="place"/>
         <ptr target="#j19406121942058" type="time"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0674a11 #0674a18"/>
         <ptr target="#A007229" type="person"/>
         <ptr target="#A007233" type="person"/>
-        <ptr target="#CN0131181T01AA" type="place"/>
+        <ptr target="#PL000000003628" type="place"/>
         <ptr target="#j19406121942058" type="time"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0674a18 #0674a19"/>
         <ptr target="#A007229" type="person"/>
-        <ptr target="#CN0610103T12AA" type="place"/>
+        <ptr target="#PL000000042232" type="place"/>
         </linkGrp>
 </div>

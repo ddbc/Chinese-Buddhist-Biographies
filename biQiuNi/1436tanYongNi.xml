@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="bqnz0944b17tanYongNi">
-    <head><placeName key="CN0320101T04AA">法音<ptr target="fn26"/>寺</placeName><persName key="A016016">曇勇</persName>尼<ptr target="fn27"/>傳第十四</head><p><anchor n="T.50.2063.0944b18"/><lb ed="T" n="0944b18"/><persName key="A016016">曇<ptr target="fn28"/>勇</persName>者，<persName key="A015902">曇簡</persName>尼之姊也。為性剛直，不隨物以<lb ed="T" n="0944b19"/>傾動，常以禪律為務，不以衣食經懷。憩<placeName key="CN0320101T04AA">法音<lb ed="T" n="0944b20"/>精舍</placeName>，深悟無常，高崇我樂。以<date from-iso="0494-12-06" key="j19018301901897" to-iso="0495-02-11">建武元年</date>，隨<persName key="A015902">簡</persName><lb ed="T" n="0944b21"/><ptr target="fn29"/>同移<placeName key="CN0000000M02AA">白山</placeName>。<date key="j19041261904126" when-iso="0501-03-21">永元三年二月十五日</date>夜，積薪自<lb ed="T" n="0944b22"/>燒，以身供養。當時聞見，咸發道心，共聚遺燼，<lb ed="T" n="0944b23"/>以立墳剎云。</p>
+    <head><placeName key="PL000000008647">法音<ptr target="fn26"/>寺</placeName><persName key="A016016">曇勇</persName>尼<ptr target="fn27"/>傳第十四</head><p><anchor n="T.50.2063.0944b18"/><lb ed="T" n="0944b18"/><persName key="A016016">曇<ptr target="fn28"/>勇</persName>者，<persName key="A015902">曇簡</persName>尼之姊也。為性剛直，不隨物以<lb ed="T" n="0944b19"/>傾動，常以禪律為務，不以衣食經懷。憩<placeName key="PL000000008647">法音<lb ed="T" n="0944b20"/>精舍</placeName>，深悟無常，高崇我樂。以<date from-iso="0494-12-06" key="j19018301901897" to-iso="0495-02-11">建武元年</date>，隨<persName key="A015902">簡</persName><lb ed="T" n="0944b21"/><ptr target="fn29"/>同移<placeName key="PL000000000147">白山</placeName>。<date key="j19041261904126" when-iso="0501-03-21">永元三年二月十五日</date>夜，積薪自<lb ed="T" n="0944b22"/>燒，以身供養。當時聞見，咸發道心，共聚遺燼，<lb ed="T" n="0944b23"/>以立墳剎云。</p>
     
     <linkGrp>
         <link targets="#0944b18 #0944b18"/>
@@ -15,13 +15,13 @@
     <linkGrp>
         <link targets="#0944b19 #0944b20"/>
         <ptr target="#A016016" type="person"/>
-        <ptr target="#CN0320101T04AA" type="place"/>
+        <ptr target="#PL000000008647" type="place"/>
         </linkGrp>
     <linkGrp>
         <link targets="#0944b20 #0944b21"/>
         <ptr target="#A016016" type="person"/>
         <ptr target="#A015902" type="person"/>
-        <ptr target="#CN0000000M02AA" type="place"/>
+        <ptr target="#PL000000000147" type="place"/>
         <ptr target="#j19018301901897" type="time"/>
     </linkGrp>
 </div>

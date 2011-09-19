@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0413c24shiSengRao">
-    <p><anchor n="T.50.2059.0413c24"/><lb ed="T" n="0413c24"/><persName key="A003468">釋僧饒</persName>，<placeName key="CN0320106Z06AA">建康</placeName>人。出家，止<placeName key="CN0320101T49AA">白馬寺</placeName>。善尺牘及<lb ed="T" n="0413c25"/>雜技，<ptr target="fn35"/>而偏以音聲著稱，擅名於<date key="j18746411886925" notAfter-iso="0454" notBefore-iso="0420">宋武<ptr target="fn36"/>文<lb ed="T" n="0413c26"/>之世</date>。響調優游，和雅哀亮，與<persName key="A003469">道綜</persName>齊肩。<persName key="A003469">綜</persName><lb ed="T" n="0413c27"/>善三《本起》<ptr target="fn37"/>及《大挐》。每清梵一舉，輒道俗傾<lb ed="T" n="0413c28"/>心。<placeName key="CN0320101T49AA">寺</placeName>有般若臺，<persName key="A003468">饒</persName>常<ptr target="fn38"/>遶臺梵轉，以擬供<lb ed="T" n="0413c29"/>養。行路聞者，莫不息駕踟蹰，彈指稱佛。宋<lb ed="T" n="0414a01"/><date key="j18883731888755" from-iso="0458-02-01" to-iso="0459-02-18">大明二年</date>卒，<ptr target="fn01"/>年八十六。</p><p>時同<placeName key="CN0320101T49AA">寺</placeName>復有<persName key="A003470">超明</persName>、<lb ed="T" n="0414a02"/><persName key="A003471">明慧</persName>，少俱為梵唄，長齋時轉讀，亦有名當<lb ed="T" n="0414a03"/>世。</p>
+    <p><anchor n="T.50.2059.0413c24"/><lb ed="T" n="0413c24"/><persName key="A003468">釋僧饒</persName>，<placeName key="PL000000008976">建康</placeName>人。出家，止<placeName key="PL000000008691">白馬寺</placeName>。善尺牘及<lb ed="T" n="0413c25"/>雜技，<ptr target="fn35"/>而偏以音聲著稱，擅名於<date key="j18746411886925" notAfter-iso="0454" notBefore-iso="0420">宋武<ptr target="fn36"/>文<lb ed="T" n="0413c26"/>之世</date>。響調優游，和雅哀亮，與<persName key="A003469">道綜</persName>齊肩。<persName key="A003469">綜</persName><lb ed="T" n="0413c27"/>善三《本起》<ptr target="fn37"/>及《大挐》。每清梵一舉，輒道俗傾<lb ed="T" n="0413c28"/>心。<placeName key="PL000000008691">寺</placeName>有般若臺，<persName key="A003468">饒</persName>常<ptr target="fn38"/>遶臺梵轉，以擬供<lb ed="T" n="0413c29"/>養。行路聞者，莫不息駕踟蹰，彈指稱佛。宋<lb ed="T" n="0414a01"/><date key="j18883731888755" from-iso="0458-02-01" to-iso="0459-02-18">大明二年</date>卒，<ptr target="fn01"/>年八十六。</p><p>時同<placeName key="PL000000008691">寺</placeName>復有<persName key="A003470">超明</persName>、<lb ed="T" n="0414a02"/><persName key="A003471">明慧</persName>，少俱為梵唄，長齋時轉讀，亦有名當<lb ed="T" n="0414a03"/>世。</p>
     <linkGrp>
         <link targets="#0413c24 #0413c26"/>
         <ptr target="#A003468" type="person"/>
-        <ptr target="#CN0320101T49AA" type="place"/>
+        <ptr target="#PL000000008691" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0413c29 #0414a01"/>
@@ -16,6 +16,6 @@
         <ptr target="#A003468" type="person"/>
         <ptr target="#A003470" type="person"/>
         <ptr target="#A003471" type="person"/>
-        <ptr target="#CN0320101T49AA" type="place"/>
+        <ptr target="#PL000000008691" type="place"/>
     </linkGrp>
 </div>

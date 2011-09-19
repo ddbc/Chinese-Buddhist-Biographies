@@ -2,7 +2,7 @@
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0807c12shiChangDa">
     <anchor n="T.50.2061.0807c12"/><head><date from-iso="0618-06-21" key="j19469512052491" to-iso="0907-06-06">唐</date>吳郡破山寺<persName key="A011543">常達</persName>傳</head><p>
 <lb ed="T" n="0807c13"/><persName key="A011543">釋常達</persName>，字<persName key="A011543">文舉</persName>，俗姓顧，海隅<!--找不到此地-->人也。發跡何
-<lb ed="T" n="0807c14"/>陽大福山<!--找不到此地-->，遊學<placeName key="CN0340001D01AA">江淮</placeName>諸勝寺。<persName key="A011543">達</persName>允迪中和，
+<lb ed="T" n="0807c14"/>陽大福山<!--找不到此地-->，遊學<placeName key="PL000000015039">江淮</placeName>諸勝寺。<persName key="A011543">達</persName>允迪中和，
 <lb ed="T" n="0807c15"/>克完戒法，專講《南山律鈔》。後求《涅槃》圓音，
 <lb ed="T" n="0807c16"/>《法華》止觀，復通《陰符》、《老》、《莊》百家之書，其餘分
 <lb ed="T" n="0807c17"/>時之學，盡二王之筆迹。後隨方參禪，詣于
@@ -20,12 +20,12 @@
 <lb ed="T" n="0807c29"/>七日而逝，實<date key="j20405882040588" when-iso="0874-11-02">咸通十五年九月十六日</date>也，春<pb ed="T" n="0808a" xml:id="T50.2061.0808a"/>
         <lb ed="T" n="0808a01"/>秋七十四，僧臘五十一。門人<persName key="A011552">會清</persName>、<persName key="A019410">傳郎</persName>奉靈
 <lb ed="T" n="0808a02"/>柩殯于寺之東南三百步。<date from-iso="0875-02-14" key="j20406922041045" to-iso="0876-02-02">後年</date>即墳起塔，
-<lb ed="T" n="0808a03"/><placeName key="CN0411002Z07AA">頴川</placeName><persName key="A011555">陳言</persName>撰塔銘，邑大夫<placeName key="CN0411727Z06AA">汝南</placeName><persName key="A011558">周思輯</persName>為檀
+<lb ed="T" n="0808a03"/><placeName key="PL000000024832">頴川</placeName><persName key="A011555">陳言</persName>撰塔銘，邑大夫<placeName key="PL000000026322">汝南</placeName><persName key="A011558">周思輯</persName>為檀
 <lb ed="T" n="0808a04"/>信，<date from-iso="0877-01-22" key="j20414002041783" to-iso="0878-02-09">乾符四年</date>立碑焉。</p>
     <linkGrp>
         <link targets="#0807c14 #0807c14"/>
         <ptr target="#A011543" type="person"/>
-        <ptr target="#CN0340001D01AA" type="place"/>
+        <ptr target="#PL000000015039" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0807c20 #0807c21"/>

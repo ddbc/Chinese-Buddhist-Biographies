@@ -1,48 +1,48 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0720c13shiHuaiDi">
-    <lb ed="T" n="0720c13"/><anchor n="T.50.2061.0720c13"/><head><date from-iso="0618-06-21" key="j19469512052491" to-iso="0907-06-06">唐</date><placeName key="CN0441322T03AA">羅浮山石樓寺</placeName><persName key="A001896">懷迪</persName>傳（<persName key="A000994">般若力</persName> <persName key="A009133">善部末摩</persName>）</head><p>
-        <lb ed="T" n="0720c14"/><persName key="A001896">釋懷迪</persName>，<placeName key="CN0441303Z05AA">循州</placeName>人也。先入法于<placeName key="CN0441322T03AA">南樓寺</placeName>，其山半
+    <lb ed="T" n="0720c13"/><anchor n="T.50.2061.0720c13"/><head><date from-iso="0618-06-21" key="j19469512052491" to-iso="0907-06-06">唐</date><placeName key="PL000000031280">羅浮山石樓寺</placeName><persName key="A001896">懷迪</persName>傳（<persName key="A000994">般若力</persName> <persName key="A009133">善部末摩</persName>）</head><p>
+        <lb ed="T" n="0720c14"/><persName key="A001896">釋懷迪</persName>，<placeName key="PL000000031270">循州</placeName>人也。先入法于<placeName key="PL000000031280">南樓寺</placeName>，其山半
 <lb ed="T" n="0720c15"/>在海涯，半連陸岸，乃仙聖遊居之靈府也。
         <lb ed="T" n="0720c16"/><persName key="A001896">迪</persName>久探經論，多所該通，《七略》<ptr target="#n377"/>九流<ptr target="#n378"/>，粗加尋
     <lb ed="T" n="0720c17"/>究。以海隅之地，津濟之前，數有梵僧寓止
 <lb ed="T" n="0720c18"/>于此，<persName key="A001896">迪</persName>學其書語，自茲通利。<persName key="A001358">菩提流志</persName>初
-        <lb ed="T" n="0720c19"/>譯《寶積》，召<persName key="A001896">迪</persName>至<placeName key="CN0610102Z07AA">京</placeName>證義<ptr target="#n54"/>，事畢南歸。後於<placeName key="CN0440104Z22AA">廣
+        <lb ed="T" n="0720c19"/>譯《寶積》，召<persName key="A001896">迪</persName>至<placeName key="PL000000042189">京</placeName>證義<ptr target="#n54"/>，事畢南歸。後於<placeName key="PL000000030464">廣
     <lb ed="T" n="0720c20"/>府</placeName>遇一<ref type="person" target="#A000992">梵僧</ref>，齎多羅葉經一夾，請共飜傳，
         <lb ed="T" n="0720c21"/>勒成十卷，名《大佛頂萬行首楞嚴經》<ptr target="#n379"/>是也。
         <lb ed="T" n="0720c22"/><persName key="A001896">迪</persName>筆受<ptr target="#n53"/>經旨，緝綴文理，後因<ptr target="#n380"/>南使附經入
-<lb ed="T" n="0720c23"/><placeName key="CN0610102Z07AA">京</placeName>，即<date from-iso="0713" key="j19818371992113" to-iso="0742">開元中</date>也。又<date from-iso="0758-03-22" key="j19979941998315" to-iso="0759-02-06">乾元元年</date>有<placeName key="WW034KASME02AA">罽賓</placeName>三藏<persName key="A000994">般
-    <lb ed="T" n="0720c24"/>若力</persName>、<placeName key="IN0000000E02AA">中天竺</placeName>婆羅門<ptr target="#n117"/>三藏<persName key="A009133">善部末摩</persName>、<placeName key="WW034KASME01AA">箇失密</placeName>
+<lb ed="T" n="0720c23"/><placeName key="PL000000042189">京</placeName>，即<date from-iso="0713" key="j19818371992113" to-iso="0742">開元中</date>也。又<date from-iso="0758-03-22" key="j19979941998315" to-iso="0759-02-06">乾元元年</date>有<placeName key="PL000000055418">罽賓</placeName>三藏<persName key="A000994">般
+    <lb ed="T" n="0720c24"/>若力</persName>、<placeName key="PL000000048208">中天竺</placeName>婆羅門<ptr target="#n117"/>三藏<persName key="A009133">善部末摩</persName>、<placeName key="PL000000055417">箇失密</placeName>
 <lb ed="T" n="0720c25"/>三藏<persName key="A009135">舍那</persName>並慕化入朝，詔以<persName key="A000994">力</persName>為太常少
         <lb ed="T" n="0720c26"/>卿，<persName key="A009133">末摩</persName>為鴻臚少卿，並員外<ptr target="#n381"/>置，放還本土。
-        <lb ed="T" n="0720c27"/>或云：「各齎經至，屬<placeName key="CN0110113Z18AA">燕</placeName>、<placeName key="CN0130133Z25AA">趙</placeName>阻兵<ptr target="#n382"/>，不遑宣譯，故
+        <lb ed="T" n="0720c27"/>或云：「各齎經至，屬<placeName key="PL000000000514">燕</placeName>、<placeName key="PL000000001058">趙</placeName>阻兵<ptr target="#n382"/>，不遑宣譯，故
 <lb ed="T" n="0720c28"/>以官品榮之。」</p>
     <linkGrp>
         <link targets="#0720c14 #0720c14"/>
         <ptr target="#A001896" type="person"/>
-        <ptr target="#CN0441303Z05AA" type="place"/>
+        <ptr target="#PL000000031270" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0720c14 #0720c14"/>
         <ptr target="#A001896" type="person"/>
-        <ptr target="#CN0441322T03AA" type="place"/>
+        <ptr target="#PL000000031280" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0720c18 #0720c19"/>
         <ptr target="#A001896" type="person"/>
         <ptr target="#A001358" type="person"/>
-        <ptr target="#CN0610102Z07AA" type="place"/>
+        <ptr target="#PL000000042189" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0720c19 #0720c22"/>
         <ptr target="#A001896" type="person"/>
-        <ptr target="#CN0440104Z22AA" type="place"/>
+        <ptr target="#PL000000030464" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0720c23 #0720c25"/>
         <ptr target="#A000994" type="person"/>
         <ptr target="#A009133" type="person"/>
         <ptr target="#A009135" type="person"/>
-        <ptr target="#CN0610102Z07AA" type="place"/>
+        <ptr target="#PL000000042189" type="place"/>
         <ptr target="#j19979941998315" type="time"/>
     </linkGrp>
 </div>

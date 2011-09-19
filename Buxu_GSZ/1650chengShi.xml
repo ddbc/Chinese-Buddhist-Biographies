@@ -1,16 +1,54 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0420a04chengShi">
     <head><lb ed="X" n="0420a04"/>　　　　宋　<persName key="A020702">棲賢湜</persName>禪師傳</head>
-    <p><anchor n="X.77.1524.0420a05"/><lb ed="X" n="0420a05"/><persName key="A020702">澄湜</persName>禪師。<placeName key="CN0350430Z05AA">建寧</placeName>人。嗣<persName key="unknown">百丈恒</persName>和尚。恒嗣<persName key="A000174">法眼</persName>。師為<persName key="A000174">眼</persName>
+    <p><anchor n="X.77.1524.0420a05"/><lb ed="X" n="0420a05"/><persName key="A020702">澄湜</persName>禪師。<placeName key="PL000000017759">建寧</placeName>人。嗣<persName key="A014282">百丈恒</persName>和尚。<persName key="A014282">恒</persName>嗣<persName key="A000174">法眼</persName>。師為<persName key="A000174">眼</persName>
         <lb ed="X" n="0420a06"/>嫡孫。性高簡。律身精嚴。動不違法度。暮年三終藏經。
         <lb ed="X" n="0420a07"/>以坐閱為未敬。則立誦行披之。<persName key="A003921">黃龍南</persName>禪師。初游方。
-        <lb ed="X" n="0420a08"/>年方少從之屢年。故其平生所為。多取法焉。甞曰。<persName key="A020702">棲<lb ed="X" n="0420a09"/>賢和尚</persName>。定從天人中來。叢林標表也。<persName key="A000885">雪竇顯</persName>。甞自<placeName key="unknown">淮<lb ed="X" n="0420a10"/>山</placeName>來依之。見師少接納。遂[若/(若*若)]苴不合。乃作<placeName key="unknown">獅子峰</placeName>詩
+        <lb ed="X" n="0420a08"/>年方少從之屢年。故其平生所為。多取法焉。甞曰。<persName key="A020702"><placeName key="PL000000018961">棲<lb ed="X" n="0420a09"/>賢</placeName>和尚</persName>。定從天人中來。叢林標表也。<persName key="A000885">雪竇顯</persName>。甞自<placeName key="PL000000010611">淮<lb ed="X" n="0420a10"/>山</placeName>來依之。見師少接納。遂[若/(若*若)]苴不合。乃作<placeName key="PL000000018787">獅子峰</placeName>詩
         <lb ed="X" n="0420a11"/>而去。曰。踞地盤空勢未休。爪牙安肯混常流。天教生
-        <lb ed="X" n="0420a12"/>在千峰上。不得雲擎也出頭。師住<placeName key="CN0360427T03AA">棲賢</placeName>。以門庭峻嚴
+        <lb ed="X" n="0420a12"/>在千峰上。不得雲擎也出頭。師住<placeName key="PL000000018961">棲賢</placeName>。以門庭峻嚴
         <lb ed="X" n="0420a13"/>故。參徒不盛。一日晚參眾集。師曰。早晨不與諸人相
         <lb ed="X" n="0420a14"/>見。今晚不可無言。便下座。其斬截如此。</p><p>
-            <lb ed="X" n="0420a15"/>系曰。<persName key="unknown">百丈恒</persName>和尚。五字三上堂。曰喫茶。曰珍重。曰歇。
-            <lb ed="X" n="0420a16"/>所謂<persName key="unknown">百丈</persName>有三訣。喫茶珍重歇也。<persName key="A020702">湜</persName>師作略如此。真
+            <lb ed="X" n="0420a15"/>系曰。<persName key="A014282">百丈恒</persName>和尚。五字三上堂。曰喫茶。曰珍重。曰歇。
+            <lb ed="X" n="0420a16"/>所謂<persName key="A014282">百丈</persName>有三訣。喫茶珍重歇也。<persName key="A020702">湜</persName>師作略如此。真
         <lb ed="X" n="0420a17"/>有乃父風。就中些子一滴不遺。由此可觀師弟子傳
         <lb ed="X" n="0420a18"/>受源脉也。</p>
+    
+    <linkGrp>
+        <link targets="#0420a05 #0420a05"/>
+        <ptr target="#A020702" type="person"/> 
+        <ptr target="#PL000000017759" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0420a05 #0420a05"/>
+        <ptr target="#A020702" type="person"/> 
+        <ptr target="#A014282" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0420a05 #0420a05"/>
+        <ptr target="#A000174" type="person"/> 
+        <ptr target="#A014282" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0420a07 #0420a09"/>
+        <ptr target="#A020702" type="person"/> 
+        <ptr target="#A003921" type="person"/>
+        <ptr target="#PL000000018961" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0420a09 #0420a10"/>
+        <ptr target="#A000885" type="person"/>
+        <ptr target="#PL000000010611" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0420a09 #0420a12"/>
+        <ptr target="#A020702" type="person"/> 
+        <ptr target="#A000885" type="person"/>
+        <ptr target="#PL000000018787" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0420a12 #0420a14"/>
+        <ptr target="#A020702" type="person"/> 
+        <ptr target="#PL000000018961" type="place"/>
+    </linkGrp>
 </div>

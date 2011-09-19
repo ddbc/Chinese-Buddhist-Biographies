@@ -1,16 +1,16 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0660c03shiDaoYou">
-    <p><anchor n="T.50.2060.0660c03"/><lb ed="T" n="0660c03"/><persName key="A006958">釋道幽</persName>。代州<placeName key="CN0140923T01AA">耆闍寺</placeName>僧。善解經論。<date key="j19406121942058" notAfter-iso="0605" notBefore-iso="0601">仁壽中</date><lb ed="T" n="0660c04"/>於<placeName key="CN0140923T01AA">寺</placeName>講婆伽<ptr target="fn07"/>般若并論。聽眾百餘人。日午<lb ed="T" n="0660c05"/>坐繩床。如睡見一天人。殊為偉異。自云。我<lb ed="T" n="0660c06"/>是<persName key="A002869">釋提桓因</persName>。故來奉請。在天講經。初聞<lb ed="T" n="0660c07"/><ptr target="fn08"/>介介情不許之。以畏死。答云。為造佛堂<lb ed="T" n="0660c08"/>未成。事有不可。眠覺向侍者<persName key="A019380">如法師</persName>述之。<lb ed="T" n="0660c09"/><persName key="A019380">如</persName>曰。此事罕逢。人生終死。死時不知何道。<lb ed="T" n="0660c10"/>今得生天。則勝人也。開通法利天解勝人。<lb ed="T" n="0660c11"/>何得不往。佛堂事中功德不足及言。<persName key="A006958">幽</persName>從<lb ed="T" n="0660c12"/>之。不久又如前夢。依如天請。<persName key="A002869">天帝</persName>乃以少<lb ed="T" n="0660c13"/>香注<persName key="A006958">幽</persName>手中。剋時來迎。及覺見掌中有香<lb ed="T" n="0660c14"/>氣熏一<placeName key="CN0140923T01AA">寺</placeName>。自後如前說法。下講至廊下。床<lb ed="T" n="0660c15"/>上諸僧。遙見香煙充滿床側。驚怪來看。<persName key="A006958">幽</persName><lb ed="T" n="0660c16"/>執香爐正念蟬蛻而去。于時<placeName key="CN0140923T01AA">寺</placeName>外道俗。望<lb ed="T" n="0660c17"/>見雲氣從<placeName key="CN0140923T01AA">寺</placeName>而出如一段雲。騰空直上。飄<lb ed="T" n="0660c18"/>飄而<ptr target="fn09"/>沒。</p>
+    <p><anchor n="T.50.2060.0660c03"/><lb ed="T" n="0660c03"/><persName key="A006958">釋道幽</persName>。代州<placeName key="PL000000005446">耆闍寺</placeName>僧。善解經論。<date key="j19406121942058" notAfter-iso="0605" notBefore-iso="0601">仁壽中</date><lb ed="T" n="0660c04"/>於<placeName key="PL000000005446">寺</placeName>講婆伽<ptr target="fn07"/>般若并論。聽眾百餘人。日午<lb ed="T" n="0660c05"/>坐繩床。如睡見一天人。殊為偉異。自云。我<lb ed="T" n="0660c06"/>是<persName key="A002869">釋提桓因</persName>。故來奉請。在天講經。初聞<lb ed="T" n="0660c07"/><ptr target="fn08"/>介介情不許之。以畏死。答云。為造佛堂<lb ed="T" n="0660c08"/>未成。事有不可。眠覺向侍者<persName key="A019380">如法師</persName>述之。<lb ed="T" n="0660c09"/><persName key="A019380">如</persName>曰。此事罕逢。人生終死。死時不知何道。<lb ed="T" n="0660c10"/>今得生天。則勝人也。開通法利天解勝人。<lb ed="T" n="0660c11"/>何得不往。佛堂事中功德不足及言。<persName key="A006958">幽</persName>從<lb ed="T" n="0660c12"/>之。不久又如前夢。依如天請。<persName key="A002869">天帝</persName>乃以少<lb ed="T" n="0660c13"/>香注<persName key="A006958">幽</persName>手中。剋時來迎。及覺見掌中有香<lb ed="T" n="0660c14"/>氣熏一<placeName key="PL000000005446">寺</placeName>。自後如前說法。下講至廊下。床<lb ed="T" n="0660c15"/>上諸僧。遙見香煙充滿床側。驚怪來看。<persName key="A006958">幽</persName><lb ed="T" n="0660c16"/>執香爐正念蟬蛻而去。于時<placeName key="PL000000005446">寺</placeName>外道俗。望<lb ed="T" n="0660c17"/>見雲氣從<placeName key="PL000000005446">寺</placeName>而出如一段雲。騰空直上。飄<lb ed="T" n="0660c18"/>飄而<ptr target="fn09"/>沒。</p>
     <linkGrp>
         <link targets="#0660c03 #0660c03"/>
         <ptr target="#A006958" type="person"/>
-        <ptr target="#CN0140923T01AA" type="place"/>
+        <ptr target="#PL000000005446" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0660c03 #0660c18"/>
         <ptr target="#A006958" type="person"/>
         <ptr target="#A019380" type="person"/>
-        <ptr target="#CN0140923T01AA" type="place"/>
+        <ptr target="#PL000000005446" type="place"/>
         <ptr target="#j19406121942058" type="time"/>
     </linkGrp>
 </div>

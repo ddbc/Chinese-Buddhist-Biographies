@@ -1,37 +1,37 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0768a13shiWeiKuan">
-    <anchor n="T.50.2061.0768a13"/><head><date from-iso="0618-06-21" key="j19469512052491" to-iso="0907-06-06">唐</date><placeName key="CN0610103T03AA">京兆興善寺</placeName><persName key="A010237">惟寬</persName>傳（<persName key="A010412">寶修</persName>）</head><p>
-        <lb ed="T" n="0768a14"/><persName key="A010237">釋惟寬</persName>，姓祝氏，<placeName key="CN0330802Z11AA">衢州信安</placeName>人也。祖曰<persName key="A010407">安</persName>，考
+    <anchor n="T.50.2061.0768a13"/><head><date from-iso="0618-06-21" key="j19469512052491" to-iso="0907-06-06">唐</date><placeName key="PL000000042218">京兆興善寺</placeName><persName key="A010237">惟寬</persName>傳（<persName key="A010412">寶修</persName>）</head><p>
+        <lb ed="T" n="0768a14"/><persName key="A010237">釋惟寬</persName>，姓祝氏，<placeName key="PL000000013660">衢州信安</placeName>人也。祖曰<persName key="A010407">安</persName>，考
 <lb ed="T" n="0768a15"/>曰<persName key="A010408">皎</persName>。生<date key="j20012012001565" from-iso="0767-01-01" to-iso="0767-12-31">十三歲</date>，見殺生者，盡然不忍食。退
         <lb ed="T" n="0768a16"/>而出家，求翦髮於<persName key="A019195">僧曇</persName>，受尸羅於<persName key="A010409">僧崇</persName>，學
         <lb ed="T" n="0768a17"/>毘尼於<persName key="A010410">僧如</persName>，證大乘法於止觀<note resp="sgsz">據前後文「止觀」似應釋為人名。而案《景德傳燈錄．卷七》：「初習毘尼修止觀」則明釋為修行法。 (cf. 景德傳燈錄<ref>CBETA, T51, no. 2076, p. 255, a14</ref>)</note>，成最上乘於
-        <lb ed="T" n="0768a18"/><persName key="A003623">大寂道一</persName>。<date from-iso="0790-01-24" key="j20096252010008" to-iso="0791-02-11">貞元六年</date>，始行化於<placeName key="CN0350104Z18AA">閩</placeName>、<placeName key="CN0330602Z01AA">越</placeName>間，歲餘
-<lb ed="T" n="0768a19"/>而迴心改服者百數。<date from-iso="0791-02-12" key="j20100092010362" to-iso="0792-01-31">七年</date>，伏猛虎於<placeName key="CN0330602Z02AA">會稽</placeName>，
-        <lb ed="T" n="0768a20"/>作<placeName key="CN0330602T30AA">滕家道場</placeName>。<date from-iso="0792-02-01" key="j20103632010746" to-iso="0793-02-18">八年</date>，與山神受歸戒於<placeName key="CN0361128Z39AA">鄱陽</placeName>，
-        <lb ed="T" n="0768a21"/>作<placeName key="CN0361128T05AA">迴向道場</placeName>。<date from-iso="0797-02-06" key="j20121952012548" to-iso="0798-01-25">十三年</date>，感非人於<placeName key="CN0410185T01AA">少林寺</placeName>。<date from-iso="0805-02-07" key="j20151182015139" to-iso="0805-02-28">二十
-            <lb ed="T" n="0768a22"/>一年</date>，作有為功德於<placeName key="CN0410304T03AA">衛國寺</placeName>。<ref type="date" target="#j20151402015327">明年</ref>，施無為功
-<lb ed="T" n="0768a23"/>德於<placeName key="CN0410302T01AA">天宮寺</placeName>。<date from-iso="0809-01-24" key="j20165652016948" to-iso="0810-02-11">元和四年</date>，<persName key="A002120">憲宗章武皇帝</persName>詔於
-        <lb ed="T" n="0768a24"/><placeName key="CN0410311T03AA">安國寺</placeName>。<date from-iso="0810-02-12" key="j20169492017302" to-iso="0811-01-31">五年</date>，問道於<placeName key="CN0610112A02AF">麟德殿</placeName>。<ref type="date" target="#j20169492017302">其年</ref>，復靈泉於
-        <lb ed="T" n="0768a25"/><placeName key="CN0610103T03AC">不空三藏池</placeName><note resp="sgsz">案《大唐故大德贈司空大辨正廣智不空三藏行狀》：「<placeName key="CN0610103T03AA">大興善寺</placeName>後，池水盡枯涸。」 (cf. 大唐故大德贈司空大辨正廣智不空三藏行狀<ref>CBETA, T50, no. 2056, p. 294, a22</ref>)</note>。<date when-iso="0817-03-25" key="j20195472019547">十二年二月晦</date>，大說於<placeName key="CN0610103T03AD">傳法堂</placeName><note resp="sgsz">案傳題與前文「<placeName key="CN0610103T03AC">不空三藏池</placeName>」， <placeName key="CN0610103T03AD">傳法堂</placeName>應在<placeName key="CN0610103T03AA">大興善寺</placeName>內。</note>
+        <lb ed="T" n="0768a18"/><persName key="A003623">大寂道一</persName>。<date from-iso="0790-01-24" key="j20096252010008" to-iso="0791-02-11">貞元六年</date>，始行化於<placeName key="PL000000017165">閩</placeName>、<placeName key="PL000000013239">越</placeName>間，歲餘
+<lb ed="T" n="0768a19"/>而迴心改服者百數。<date from-iso="0791-02-12" key="j20100092010362" to-iso="0792-01-31">七年</date>，伏猛虎於<placeName key="PL000000013240">會稽</placeName>，
+        <lb ed="T" n="0768a20"/>作<placeName key="PL000000013238">滕家道場</placeName>。<date from-iso="0792-02-01" key="j20103632010746" to-iso="0793-02-18">八年</date>，與山神受歸戒於<placeName key="PL000000020174">鄱陽</placeName>，
+        <lb ed="T" n="0768a21"/>作<placeName key="PL000000020133">迴向道場</placeName>。<date from-iso="0797-02-06" key="j20121952012548" to-iso="0798-01-25">十三年</date>，感非人於<placeName key="PL000000023255">少林寺</placeName>。<date from-iso="0805-02-07" key="j20151182015139" to-iso="0805-02-28">二十
+            <lb ed="T" n="0768a22"/>一年</date>，作有為功德於<placeName key="PL000000023594">衛國寺</placeName>。<ref type="date" target="#j20151402015327">明年</ref>，施無為功
+<lb ed="T" n="0768a23"/>德於<placeName key="PL000000023564">天宮寺</placeName>。<date from-iso="0809-01-24" key="j20165652016948" to-iso="0810-02-11">元和四年</date>，<persName key="A002120">憲宗章武皇帝</persName>詔於
+        <lb ed="T" n="0768a24"/><placeName key="PL000000023651">安國寺</placeName>。<date from-iso="0810-02-12" key="j20169492017302" to-iso="0811-01-31">五年</date>，問道於<placeName key="PL000000042361">麟德殿</placeName>。<ref type="date" target="#j20169492017302">其年</ref>，復靈泉於
+        <lb ed="T" n="0768a25"/><placeName key="PL000000042220">不空三藏池</placeName><note resp="sgsz">案《大唐故大德贈司空大辨正廣智不空三藏行狀》：「<placeName key="PL000000042218">大興善寺</placeName>後，池水盡枯涸。」 (cf. 大唐故大德贈司空大辨正廣智不空三藏行狀<ref>CBETA, T50, no. 2056, p. 294, a22</ref>)</note>。<date when-iso="0817-03-25" key="j20195472019547">十二年二月晦</date>，大說於<placeName key="PL000000042221">傳法堂</placeName><note resp="sgsz">案傳題與前文「<placeName key="PL000000042220">不空三藏池</placeName>」， <placeName key="PL000000042221">傳法堂</placeName>應在<placeName key="PL000000042218">大興善寺</placeName>內。</note>
 <lb ed="T" n="0768a26"/>訖，奄然而化。報齡六十三，僧夏三十九。歸葬
-        <lb ed="T" n="0768a27"/>于<placeName key="CN0610111A02AA"><g ref="#CB05867">[灞-雨+襾]</g>陵</placeName>西原，詔<app type="cb-app" xml:id="begd1e16092"/>諡<anchor xml:id="endd1e16092"/>曰<persName key="A010237">大徹禪師</persName>，塔號元和正
+        <lb ed="T" n="0768a27"/>于<placeName key="PL000000042341"><g ref="#CB05867">[灞-雨+襾]</g>陵</placeName>西原，詔<app type="cb-app" xml:id="begd1e16092"/>諡<anchor xml:id="endd1e16092"/>曰<persName key="A010237">大徹禪師</persName>，塔號元和正
 <lb ed="T" n="0768a28"/>真。初，<persName key="A010237">寬</persName>說心要法三十年，度黑白眾殆及
 <lb ed="T" n="0768a29"/>百千萬，應病授藥，安可既乎？<persName key="A004029">白樂天</persName>為宮<pb ed="T" n="0768b" xml:id="T50.2061.0768b"/>
 <lb ed="T" n="0768b01"/>贊時遇<persName key="A010237">寬</persName>，四詣法堂，每來垂一問，<persName key="A010237">寬</persName>答如
         <lb ed="T" n="0768b02"/>流，<ref type="person" target="#A004029">白君</ref>以師事<ref type="person" target="#A010237">之</ref>。門弟子殆千餘，得法者
-<lb ed="T" n="0768b03"/>三十九，入室受遺寄者曰<persName key="A010411">義崇</persName>、<persName key="A001417">圓照</persName>焉。唐<placeName key="CN0441322M01AA">羅
-    <lb ed="T" n="0768b04"/>浮山</placeName><persName key="A010412">釋寶修</persName>，俗姓周，<placeName key="CN0511025Z15AA">資州</placeName>人也。從師於<placeName key="CN0511025T01AA">純德
-<lb ed="T" n="0768b05"/>寺</placeName>，志求玄理，於<placeName key="CN0421126Z07AA">蘄州</placeName><persName key="A000237">忍大師</persName>法裔決了重
-<lb ed="T" n="0768b06"/>疑。後愛<placeName key="CN0441322M01AA">羅浮山</placeName>石室安止，檀越為造梵宇，
+<lb ed="T" n="0768b03"/>三十九，入室受遺寄者曰<persName key="A010411">義崇</persName>、<persName key="A001417">圓照</persName>焉。唐<placeName key="PL000000031276">羅
+    <lb ed="T" n="0768b04"/>浮山</placeName><persName key="A010412">釋寶修</persName>，俗姓周，<placeName key="PL000000035943">資州</placeName>人也。從師於<placeName key="PL000000035928">純德
+<lb ed="T" n="0768b05"/>寺</placeName>，志求玄理，於<placeName key="PL000000028082">蘄州</placeName><persName key="A000237">忍大師</persName>法裔決了重
+<lb ed="T" n="0768b06"/>疑。後愛<placeName key="PL000000031276">羅浮山</placeName>石室安止，檀越為造梵宇，
 <lb ed="T" n="0768b07"/>蔚成大寺。一日，告門人曰：「因緣相偪。」愀然
 <lb ed="T" n="0768b08"/>不樂，眾咸莫測。<persName key="A004380">順宗皇帝</persName>深重佛宗，知
-        <lb ed="T" n="0768b09"/><persName key="A010412">修</persName>之名，詔入<placeName key="CN0610102Z07AA">京</placeName>與<persName key="A009214">三藏</persName>擊問，并答翻譯之
-        <lb ed="T" n="0768b10"/>意，朗暢如流<note resp="sgsz">案《舊唐書．卷十四》<persName key="A004380">順宗</persName>即位於「<date when-iso="0805-03-04" key="j20151432015143">貞元二十一年正月丙申</date>」，讓位於同年「<date when-iso="0805-09-05" key="j20153282015328">八月辛丑</date>」。時<persName key="A009214">三藏般若</persName>方譯訖《華嚴》四十卷。此「三藏」或指<persName key="A009214">般若</persName>而言。(cf. 宋高僧傳<ref>CBETA, T50, no. 2061, p. 737, b15</ref>)</note>。乃留居<ref type="place" target="#CN0610102Z07AA">輦下</ref>。<ref type="date" target="#j20158562016209">三年</ref>，終于京寺
+        <lb ed="T" n="0768b09"/><persName key="A010412">修</persName>之名，詔入<placeName key="PL000000042189">京</placeName>與<persName key="A009214">三藏</persName>擊問，并答翻譯之
+        <lb ed="T" n="0768b10"/>意，朗暢如流<note resp="sgsz">案《舊唐書．卷十四》<persName key="A004380">順宗</persName>即位於「<date when-iso="0805-03-04" key="j20151432015143">貞元二十一年正月丙申</date>」，讓位於同年「<date when-iso="0805-09-05" key="j20153282015328">八月辛丑</date>」。時<persName key="A009214">三藏般若</persName>方譯訖《華嚴》四十卷。此「三藏」或指<persName key="A009214">般若</persName>而言。(cf. 宋高僧傳<ref>CBETA, T50, no. 2061, p. 737, b15</ref>)</note>。乃留居<ref type="place" target="#PL000000042189">輦下</ref>。<ref type="date" target="#j20158562016209">三年</ref>，終于京寺
 <lb ed="T" n="0768b11"/>云。</p>
     <linkGrp>
         <link targets="#0768a14 #0768a14"/>
         <ptr target="#A010237" type="person"/>
-        <ptr target="#CN0330802Z11AA" type="place"/>
+        <ptr target="#PL000000013660" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0768a15 #0768a15"/>
@@ -61,43 +61,43 @@
     <linkGrp>
         <link targets="#0768a18 #0768a19"/>
         <ptr target="#A010237" type="person"/>
-        <ptr target="#CN0350104Z18AA" type="place"/>
+        <ptr target="#PL000000017165" type="place"/>
         <ptr target="#j20096252010008" type="time"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0768a18 #0768a19"/>
         <ptr target="#A010237" type="person"/>
-        <ptr target="#CN0330602Z01AA" type="place"/>
+        <ptr target="#PL000000013239" type="place"/>
         <ptr target="#j20096252010008" type="time"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0768a19 #0768a20"/>
         <ptr target="#A010237" type="person"/>
-        <ptr target="#CN0330602T30AA" type="place"/>
+        <ptr target="#PL000000013238" type="place"/>
         <ptr target="#j20100092010362" type="time"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0768a20 #0768a21"/>
         <ptr target="#A010237" type="person"/>
-        <ptr target="#CN0361128T05AA" type="place"/>
+        <ptr target="#PL000000020133" type="place"/>
         <ptr target="#j20103632010746" type="time"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0768a21 #0768a21"/>
         <ptr target="#A010237" type="person"/>
-        <ptr target="#CN0410185T01AA" type="place"/>
+        <ptr target="#PL000000023255" type="place"/>
         <ptr target="#j20121952012548" type="time"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0768a21 #0768a22"/>
         <ptr target="#A010237" type="person"/>
-        <ptr target="#CN0410304T03AA" type="place"/>
+        <ptr target="#PL000000023594" type="place"/>
         <ptr target="#j20151182015139" type="time"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0768a22 #0768a23"/>
         <ptr target="#A010237" type="person"/>
-        <ptr target="#CN0410302T01AA" type="place"/>
+        <ptr target="#PL000000023564" type="place"/>
         <ptr target="#j20151402015327" type="time"/>
     </linkGrp>
     <linkGrp>
@@ -109,26 +109,26 @@
     <linkGrp>
         <link targets="#0768a23 #0768a24"/>
         <ptr target="#A010237" type="person"/>
-        <ptr target="#CN0410311T03AA" type="place"/>
+        <ptr target="#PL000000023651" type="place"/>
         <ptr target="#j20169492017302" type="time"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0768a24 #0768a24"/>
         <ptr target="#A010237" type="person"/>
         <ptr target="#A002120" type="person"/>
-        <ptr target="#CN0610112A02AF" type="place"/>
+        <ptr target="#PL000000042361" type="place"/>
         <ptr target="#j20169492017302" type="time"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0768a24 #0768a25"/>
         <ptr target="#A010237" type="person"/>
-        <ptr target="#CN0610103T03AC" type="place"/>
+        <ptr target="#PL000000042220" type="place"/>
         <ptr target="#j20169492017302" type="time"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0768a25 #0768a26"/>
         <ptr target="#A010237" type="person"/>
-        <ptr target="#CN0610112A02AF" type="place"/>
+        <ptr target="#PL000000042361" type="place"/>
         <ptr target="#j20195472019547" type="time"/>
     </linkGrp>
     <linkGrp>
@@ -145,29 +145,29 @@
     <linkGrp>
         <link targets="#0768b03 #0768b04"/>
         <ptr target="#A010412" type="person"/>
-        <ptr target="#CN0511025Z15AA" type="place"/>
+        <ptr target="#PL000000035943" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0768b04 #0768b05"/>
         <ptr target="#A010412" type="person"/>
-        <ptr target="#CN0511025T01AA" type="place"/>
+        <ptr target="#PL000000035928" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0768b06 #0768b06"/>
         <ptr target="#A010412" type="person"/>
-        <ptr target="#CN0441322M01AA" type="place"/>
+        <ptr target="#PL000000031276" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0768b09 #0768b09"/>
         <ptr target="#A010412" type="person"/>
         <ptr target="#A004380" type="person"/>
         <ptr target="#A009214" type="person"/>
-        <ptr target="#CN0610102Z07AA" type="place"/>
+        <ptr target="#PL000000042189" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0768b10 #0768b10"/>
         <ptr target="#A010412" type="person"/>
-        <ptr target="#CN0610102Z07AA" type="place"/>
+        <ptr target="#PL000000042189" type="place"/>
         <ptr target="#j20158562016209" type="time"/>
     </linkGrp>
 </div>

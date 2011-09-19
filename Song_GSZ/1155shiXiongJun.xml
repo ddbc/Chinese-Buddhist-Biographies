@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0865c02shiXiongJun">
     <anchor n="T.50.2061.0865c02"/><head><date from-iso="0618-06-21" key="j19469512052491" to-iso="0907-06-06">唐</date>成都府<persName key="A011802">雄俊</persName>傳</head><p>
-<lb ed="T" n="0865c03"/><persName key="A011802">釋雄俊</persName>，俗姓周，<placeName key="CN0510108Z11AA">成都</placeName>人也。善講說，無戒行，
+<lb ed="T" n="0865c03"/><persName key="A011802">釋雄俊</persName>，俗姓周，<placeName key="PL000000034785">成都</placeName>人也。善講說，無戒行，
 <lb ed="T" n="0865c04"/>所受檀信，非法而用，且多狡詐，唯事疎狂。又
 <lb ed="T" n="0865c05"/>經反初服，入軍壘，而因逃難，還入緇行。
 <lb ed="T" n="0865c06"/><date key="j20011912005747" notAfter-iso="0779" notBefore-iso="0766">大曆</date>中，暴亡入冥。見王者訶責畢，引入獄
@@ -20,6 +20,6 @@
     <linkGrp>
         <link targets="#0865c03 #0865c03"/>
         <ptr target="#A011802" type="person"/>
-        <ptr target="#CN0510108Z11AA" type="place"/>
+        <ptr target="#PL000000034785" type="place"/>
     </linkGrp>
 </div>

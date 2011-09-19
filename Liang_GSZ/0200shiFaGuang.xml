@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0405c11shiFaGuang">
-    <p><anchor n="T.50.2059.0405c11"/><lb ed="T" n="0405c11"/><persName key="A002337">釋法光</persName>，<placeName key="CN0621122Z30AA">秦州隴西</placeName>人，少而有信。至<date key="j18945521894916" from-iso="0475-01-02" to-iso="0476-01-01">二十九</date><lb ed="T" n="0405c12"/>方出家，苦行頭陀。不服綿纊，絕五穀，唯餌<lb ed="T" n="0405c13"/>松葉。後誓志燒身，<ptr target="fn＊"/>乃服松膏及飲油，經<lb ed="T" n="0405c14"/>于半年，至<date key="j18992591899259" when-iso="0487-11-22">齊永明五年十月二十日</date>，於<placeName key="CN0621122T01AA">隴西<lb ed="T" n="0405c15"/>記城寺</placeName>內，集薪焚身，以滿先志。火來至目，<lb ed="T" n="0405c16"/>誦聲猶<ptr target="fn29"/>記。至鼻<ptr target="fn＊"/>乃昧，奄然而絕。春秋四十<lb ed="T" n="0405c17"/>有一。時<date key="j18974971901513" notAfter-iso="0494" notBefore-iso="0483">永明</date>末，<placeName key="CN0331023Z08AA">始豐縣</placeName>有比丘<persName key="A003399">法存</persName>，亦燒身<lb ed="T" n="0405c18"/>供養。郡守<persName key="A003400">蕭緬</persName>，遣沙門<persName key="A003401">慧深</persName>，為起灰塔。</p>
+    <p><anchor n="T.50.2059.0405c11"/><lb ed="T" n="0405c11"/><persName key="A002337">釋法光</persName>，<placeName key="PL000000046136">秦州隴西</placeName>人，少而有信。至<date key="j18945521894916" from-iso="0475-01-02" to-iso="0476-01-01">二十九</date><lb ed="T" n="0405c12"/>方出家，苦行頭陀。不服綿纊，絕五穀，唯餌<lb ed="T" n="0405c13"/>松葉。後誓志燒身，<ptr target="fn＊"/>乃服松膏及飲油，經<lb ed="T" n="0405c14"/>于半年，至<date key="j18992591899259" when-iso="0487-11-22">齊永明五年十月二十日</date>，於<placeName key="PL000000046106">隴西<lb ed="T" n="0405c15"/>記城寺</placeName>內，集薪焚身，以滿先志。火來至目，<lb ed="T" n="0405c16"/>誦聲猶<ptr target="fn29"/>記。至鼻<ptr target="fn＊"/>乃昧，奄然而絕。春秋四十<lb ed="T" n="0405c17"/>有一。時<date key="j18974971901513" notAfter-iso="0494" notBefore-iso="0483">永明</date>末，<placeName key="PL000000014809">始豐縣</placeName>有比丘<persName key="A003399">法存</persName>，亦燒身<lb ed="T" n="0405c18"/>供養。郡守<persName key="A003400">蕭緬</persName>，遣沙門<persName key="A003401">慧深</persName>，為起灰塔。</p>
     <linkGrp>
         <link targets="#0405c18 #0405c18"/>
         <ptr target="#A003401" type="person"/>
@@ -14,7 +14,7 @@
     <linkGrp>
         <link targets="#0405c14 #0405c17"/>
         <ptr target="#A002337" type="person"/>
-        <ptr target="#CN0621122T01AA" type="place"/>
+        <ptr target="#PL000000046106" type="place"/>
         <ptr target="#j18992591899259" type="time"/>
     </linkGrp>
     <linkGrp>
@@ -22,7 +22,7 @@
         <ptr target="#A003399" type="person"/>
         <ptr target="#A003400" type="person"/>
         <ptr target="#A003401" type="person"/>
-        <ptr target="#CN0331023Z08AA" type="place"/>
+        <ptr target="#PL000000014809" type="place"/>
         <ptr target="#j18974971901513" type="time"/>
     </linkGrp>
 </div>

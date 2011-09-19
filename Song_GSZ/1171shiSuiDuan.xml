@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0869b28shiSuiDuan">
     <anchor n="T.50.2061.0869b28"/><head><date from-iso="0618-06-21" key="j19469512052491" to-iso="0907-06-06">唐</date>明州德潤寺<persName key="A013601">遂端</persName>傳</head><p>
-<lb ed="T" n="0869b29"/><persName key="A013601">釋遂端</persName>，姓張，不知何從而來<placeName key="CN0330283T03AA">德潤寺</placeName>求師。<pb ed="T" n="0869c" xml:id="T50.2061.0869c"/>
+<lb ed="T" n="0869b29"/><persName key="A013601">釋遂端</persName>，姓張，不知何從而來<placeName key="PL000000012465">德潤寺</placeName>求師。<pb ed="T" n="0869c" xml:id="T50.2061.0869c"/>
 <lb ed="T" n="0869c01"/>其為人也，質直清粹，不妄交遊。師授法華
 <lb ed="T" n="0869c02"/>經，誦猶宿構，人皆駭歎。至乎老齒，勤而無
 <lb ed="T" n="0869c03"/>懈。十二時間恒諷不輟。<date key="j20355832035936" notAfter-iso="0862-02-06" notBefore-iso="0861-02-18">咸通二年</date>，忽結<app type="multiplier" xml:id="begd1e44071"/>跏<anchor xml:id="endd1e44071"/>
 <lb ed="T" n="0869c04"/>趺坐而化，須臾口中出青色蓮華七莖。遠近
 <lb ed="T" n="0869c05"/>奔走，皆至觀禮。邑人同心造龕，窆於東山<!--找不到此地-->之
 <lb ed="T" n="0869c06"/>下。二十餘年，墳塋屢屢光發，後開視之，形質
-<lb ed="T" n="0869c07"/>如生。眾迎還<placeName key="CN0330283T03AA">寺</placeName>，漆紵飾之。今號真身院存
+<lb ed="T" n="0869c07"/>如生。眾迎還<placeName key="PL000000012465">寺</placeName>，漆紵飾之。今號真身院存
 <lb ed="T" n="0869c08"/>焉。伊寺者，吳太子太傅都鄉侯<persName key="A011180">闞澤</persName>書堂，後
         <lb ed="T" n="0869c09"/>捨為伽藍，其題額取<persName key="A011180">澤</persName>字也<note place="inline"><anchor xml:id="beg0869005"/>今普濟寺<!--找不到此地-->是也<anchor xml:id="end0869005"/></note>。</p>
         <p>終口出優曇鉢華，是乎？聞諸輪王
@@ -18,6 +18,6 @@
     <linkGrp>
         <link targets="#0869b29 #0869b29"/>
         <ptr target="#A013601" type="person"/>
-        <ptr target="#CN0330283T03AA" type="place"/>
+        <ptr target="#PL000000012465" type="place"/>
     </linkGrp>
 </div>

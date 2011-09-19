@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0828a05shiPuMing">
     <anchor n="T.50.2061.0828a05"/><head><date from-iso="0618-06-21" key="j19469512052491" to-iso="0907-06-06">唐</date>滑州龍興寺<persName key="A012283">普明</persName>傳</head><p>
-<lb ed="T" n="0828a06"/><persName key="A012283">釋普明</persName>，不知何許人也，或云<placeName key="WW142XIYUE01AA">西域</placeName>之僧。每
-<lb ed="T" n="0828a07"/>談禪法，舉攉玄微，莫可測其沈寥之高遠
-<lb ed="T" n="0828a08"/>歟！<date from-iso="0766" key="j20011912002330" to-iso="0770">大曆初年</date>，受<placeName key="CN0410726Z12AA">胙縣</placeName>人請居<anchor xml:id="beg0828001"/>阿<anchor xml:id="end0828001"/>蘭若，學者
+<lb ed="T" n="0828a06"/><persName key="A012283">釋普明</persName>，不知何許人也，或云<placeName key="PL000000055436">西域</placeName>之僧。每
+        <lb ed="T" n="0828a07"/>談禪法，舉攉玄微<ptr target="#n773"/>，莫可測其沈寥之高遠
+<lb ed="T" n="0828a08"/>歟！<date from-iso="0766" key="j20011912002330" to-iso="0770">大曆初年</date>，受<placeName key="PL000000024377">胙縣</placeName>人請居<anchor xml:id="beg0828001"/>阿<anchor xml:id="end0828001"/>蘭若，學者
 <lb ed="T" n="0828a09"/>螘聚。塵中往來，白衣禮而施之，日以千計。
 <lb ed="T" n="0828a10"/>或一覩相，自然懲忿窒慾，食葚懷音，沿善
 <lb ed="T" n="0828a11"/>革惡，以歲計無央數也。右僕射義成軍節
@@ -13,23 +13,23 @@
 <lb ed="T" n="0828a15"/>居人。由是為人說法，雖老不疲。行疾如
 <lb ed="T" n="0828a16"/>風，質貌輕壯。以<date key="j20106982010698" when-iso="0793-01-01">貞元八年壬申閏十二月十
 <lb ed="T" n="0828a17"/>日</date>，囑付門徒，奄然坐滅。生年或云三百歲，
-<lb ed="T" n="0828a18"/>以其年百歲者見之，顏容不易之故。依<placeName key="IN0000000E01AA">天
+<lb ed="T" n="0828a18"/>以其年百歲者見之，顏容不易之故。依<placeName key="PL000000048207">天
 <lb ed="T" n="0828a19"/>竺</placeName>法火化，收舍利二七粒。<app type="cb-app" xml:id="begd1e32375"/>堅<anchor xml:id="endd1e32375"/>固圓明。群信
 <lb ed="T" n="0828a20"/>於<persName key="A012283">明</persName>所居禪庭。立塔一所，後遷座於塔下
-<lb ed="T" n="0828a21"/>焉。<persName key="A012283">明</persName>亡之後<date key="j20143502014714" from-iso="0803-01-01" to-iso="0803-12-31">十年</date>，王師西征，安靜邊塞，<placeName key="CN0410526Z22AA">滑</placeName>人
+<lb ed="T" n="0828a21"/>焉。<persName key="A012283">明</persName>亡之後<date key="j20143502014714" from-iso="0803-01-01" to-iso="0803-12-31">十年</date>，王師西征，安靜邊塞，<placeName key="PL000000024155">滑</placeName>人
 <lb ed="T" n="0828a22"/>有材勇者<persName key="A012290">柴清</persName>，因覘獫狁，深入虜庭。巡邏
         <lb ed="T" n="0828a23"/>者多，乃晝伏夜動，迷方失路，迂直不分。<persName key="A012290">清</persName>
 <lb ed="T" n="0828a24"/>見<persName key="A012283">明</persName>在前導，若老馬之先驅焉。及抵漢
-<lb ed="T" n="0828a25"/>城，忽然不見。歸<placeName key="CN0410526Z22AA">州</placeName>就塔作禮，遐邇傳之。</p>
+<lb ed="T" n="0828a25"/>城，忽然不見。歸<placeName key="PL000000024155">州</placeName>就塔作禮，遐邇傳之。</p>
     <linkGrp>
         <link targets="#0828a06 #0828a07"/>
         <ptr target="#A012283" type="person"/>
-        <ptr target="#WW142XIYUE01AA" type="place"/>
+        <ptr target="#PL000000055436" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0828a08 #0828a11"/>
         <ptr target="#A012283" type="person"/>
-        <ptr target="#CN0410726Z12AA" type="place"/>
+        <ptr target="#PL000000024377" type="place"/>
         <ptr target="#j20011912002330" type="time"/>
     </linkGrp>
     <linkGrp>
@@ -41,7 +41,7 @@
         <link targets="#0828a21 #0828a25"/>
         <ptr target="#A012290" type="person"/>
         <ptr target="#A012283" type="person"/>
-        <ptr target="#CN0410526Z22AA" type="place"/>
+        <ptr target="#PL000000024155" type="place"/>
         <ptr target="#j20143502014714" type="time"/>
     </linkGrp>
 </div>

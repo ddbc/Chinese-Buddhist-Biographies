@@ -1,24 +1,111 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0409c08qingBin">
     <head><lb ed="X" n="0409c08"/>　　　　<persName key="A020478">洞山稟</persName>．<persName key="A014363">薦福古</persName>傳</head>
-    <p><anchor n="X.77.1524.0409c09"/><lb ed="X" n="0409c09"/><persName key="A020478">洞山清稟</persName>。泉州<placeName key="CN0350322Z05AA">仙游</placeName>人。生李氏。幼禮<placeName key="unknown">中峰院</placeName><persName key="unknown">鴻謐</persName>為
-        <lb ed="X" n="0409c10"/>師。年十六。福州<placeName key="unknown">太平寺</placeName>受戒。初詣<placeName key="CN0430412M01AA">南岳</placeName>。參<persName key="A001066">惟勁</persName>頭陀。
-        <lb ed="X" n="0409c11"/>未染指。及抵<placeName key="CN0440222Z14AA">韶陽</placeName>禮祖塔。回造<persName key="A003703">雲門</persName>。<persName key="A003703">門</persName>問曰。今日離
-        <lb ed="X" n="0409c12"/>什麼處。曰。<persName key="unknown">慧林</persName>。<persName key="A003703">門</persName>舉拄杖曰。<persName key="unknown">慧林大師</persName>恁麼去。汝見
+    <p><anchor n="X.77.1524.0409c09"/><lb ed="X" n="0409c09"/><persName key="A020478">洞山清稟</persName>。泉州<placeName key="PL000000017628">仙游</placeName>人。生李氏。幼禮<placeName key="PL000000017109">中峰院</placeName><persName key="A021851">鴻謐</persName>為
+        <lb ed="X" n="0409c10"/>師。年十六。福州<placeName key="PL000000017147">太平寺</placeName>受戒。初詣<placeName key="PL000000028928">南岳</placeName>。參<persName key="A001066">惟勁</persName>頭陀。
+        <lb ed="X" n="0409c11"/>未染指。及抵<placeName key="PL000000030617">韶陽</placeName>禮祖塔。回造<persName key="A003703">雲門</persName>。<persName key="A003703">門</persName>問曰。今日離
+        <lb ed="X" n="0409c12"/>什麼處。曰。慧林。<persName key="A003703">門</persName>舉拄杖曰。慧林大師恁麼去。汝見
         <lb ed="X" n="0409c13"/>麼。曰。深領此問。<persName key="A003703">門</persName>顧左右。微笑而已。師自此入室印
-        <lb ed="X" n="0409c14"/>悟。乃之<placeName key="CN0320115Z25AA">金陵</placeName>。國主李氏。請居<placeName key="unknown">光睦</placeName>。未幾。復命入<placeName key="unknown">澄心<lb ed="X" n="0409c15"/>堂</placeName>。集諸方要語。經十稔。迎住<placeName key="unknown">洞山</placeName>。</p><p>
-            <lb ed="X" n="0409c16"/><persName key="A014363">薦福承古</persName>。<placeName key="CN0652101Z24AA">西州</placeName>人。不知誰氏子。少為書生。博學有聲。
+        <lb ed="X" n="0409c14"/>悟。乃之<placeName key="PL000000009248">金陵</placeName>。國主李氏。請居<placeName key="PL000000008591">光睦</placeName>。未幾。復命入<placeName key="PL000000008871">澄心<lb ed="X" n="0409c15"/>堂</placeName>。集諸方要語。經十稔。迎住<placeName key="PL000000019687">洞山</placeName>。</p><p>
+            <lb ed="X" n="0409c16"/><persName key="A014363">薦福承古</persName>。<placeName key="PL000000047482">西州</placeName>人。不知誰氏子。少為書生。博學有聲。
         <lb ed="X" n="0409c17"/>及壯。以鄉選至禮部。議論不合。有司怒裂其冠。從山
-            <lb ed="X" n="0409c18"/>水中來。客<placeName key="CN0430105Z24AA">潭州</placeName><placeName key="unknown">了山</placeName>。見<persName key="unknown">敬玄</persName>禪師斷髮。從之游。已謁
-            <lb ed="X" n="0409c19"/><persName key="unknown">南岳雅</persName>公。雅<persName key="unknown">洞山</persName>子。知見甚高。容以入室。後游<placeName key="CN0360402M01AA">廬山</placeName>。
-            <lb ed="X" n="0409c20"/>經<placeName key="unknown">歐峰</placeName>。愛<placeName key="unknown">宏覺塔院</placeName>閑寂。求居之。清規凜然。過者肅
-            <lb ed="X" n="0409c21"/>恭。時叢林號<persName key="A014363">古塔主</persName>。初說法于<placeName key="unknown">芝山</placeName>。嗣<persName key="A003703">雲門</persName>。<date from-iso="1034-01-29" to-iso="1035-04-20" key="j20987492099195">景祐初</date>。
-            <lb ed="X" n="0409c22"/><persName key="A004867">范文正公仲淹</persName>守<placeName key="CN0361128Z38AA">饒</placeName>。迎住<placeName key="CN0361128T02AA">薦福</placeName>。示眾曰。夫出家者。為
+            <lb ed="X" n="0409c18"/>水中來。客<placeName key="PL000000028665">潭州</placeName><placeName key="PL000000028615">了山</placeName>。見<persName key="A021852">敬玄</persName>禪師斷髮。從之游。已謁
+            <lb ed="X" n="0409c19"/><persName key="A020995">南岳雅</persName>公。<persName key="A020995">雅</persName><persName key="A010448">洞山</persName>子。知見甚高。容以入室。後游<placeName key="PL000000018775">廬山</placeName>。
+            <lb ed="X" n="0409c20"/>經<placeName key="PL000000018785">歐峰</placeName>。愛<placeName key="PL000000018813">宏覺塔院</placeName>閑寂。求居之。清規凜然。過者肅
+            <lb ed="X" n="0409c21"/>恭。時叢林號<persName key="A014363">古塔主</persName>。初說法于<placeName key="PL000000020135">芝山</placeName>。嗣<persName key="A003703">雲門</persName>。<date from-iso="1034-01-29" to-iso="1035-04-20" key="j20987492099195">景祐初</date>。
+            <lb ed="X" n="0409c22"/><persName key="A004867">范文正公仲淹</persName>守<placeName key="PL000000020173">饒</placeName>。迎住<placeName key="PL000000020130">薦福</placeName>。示眾曰。夫出家者。為
         <lb ed="X" n="0409c23"/>無為法。無為法中。無利益無功德。近來出家人。貪著
         <lb ed="X" n="0409c24"/>福慧。與道全乖。若為福慧。須至明心。若要達道。無汝
         <lb ed="X" n="0410a01"/>用心處。所以常勸諸人。莫學佛法。但自休心。利根者。
         <lb ed="X" n="0410a02"/>畫時解脫。鈍根者。或三五年。遠不過十年。若不悟去。
-            <lb ed="X" n="0410a03"/>老僧與汝。墮<placeName key="unknown">拔舌地獄</placeName>。</p><p>
+            <lb ed="X" n="0410a03"/>老僧與汝。墮<placeName key="PL000000055514">拔舌地獄</placeName>。</p><p>
                 <lb ed="X" n="0410a04"/>系曰。師去<persName key="A003703">雲門</persName>近百年。覽語而悟。遂嗣之不疑。時<persName key="A003703">雲<lb ed="X" n="0410a05"/>門</persName>子孫方盛。無敢異詞者。蓋所得真耳。不知傳燈何
         <lb ed="X" n="0410a06"/>以不錄師耶。</p>
+    
+    <linkGrp>
+        <link targets="#0409c09 #0409c09"/>
+        <ptr target="#A020478" type="person"/>
+        <ptr target="#PL000000017628" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0409c09 #0409c10"/>
+        <ptr target="#A020478" type="person"/>
+        <ptr target="#A021851" type="person"/>
+        <ptr target="#PL000000017109" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0409c10 #0409c10"/>
+        <ptr target="#A020478" type="person"/>
+        <ptr target="#PL000000017147" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0409c10 #0409c10"/>
+        <ptr target="#A020478" type="person"/>
+        <ptr target="#A001066" type="person"/>
+        <ptr target="#PL000000028928" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0409c11 #0409c11"/>
+        <ptr target="#A020478" type="person"/>
+        <ptr target="#PL000000030617" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0409c11 #0409c14"/>
+        <ptr target="#A020478" type="person"/>
+        <ptr target="#A003703" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0409c14 #0409c14"/>
+        <ptr target="#A020478" type="person"/>
+        <ptr target="#PL000000008591" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0409c14 #0409c15"/>
+        <ptr target="#A020478" type="person"/>
+        <ptr target="#PL000000008871" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0409c15 #0409c15"/>
+        <ptr target="#A020478" type="person"/>
+        <ptr target="#PL000000019687" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0409c16 #0409c16"/>
+        <ptr target="#A014363" type="person"/>
+        <ptr target="#PL000000047482" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0409c16 #0409c18"/>
+        <ptr target="#A014363" type="person"/>
+        <ptr target="#A021852" type="person"/>
+        <ptr target="#PL000000028615" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0409c18 #0409c19"/>
+        <ptr target="#A014363" type="person"/>
+        <ptr target="#A021852" type="person"/>
+        <ptr target="#A020995" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0409c19 #0409c20"/>
+        <ptr target="#A014363" type="person"/>
+        <ptr target="#PL000000018785" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0409c19 #0409c21"/>
+        <ptr target="#A014363" type="person"/>
+        <ptr target="#PL000000018813" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0409c21 #0409c21"/>
+        <ptr target="#A014363" type="person"/>
+        <ptr target="#PL000000020135" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0409c21 #0410a03"/>
+        <ptr target="#A014363" type="person"/>
+        <ptr target="#A004867" type="person"/>
+        <ptr target="#PL000000020130" type="place"/>
+        <ptr target="#j20987492099195" type="time"/>
+    </linkGrp>
 </div>

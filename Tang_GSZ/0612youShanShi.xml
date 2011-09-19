@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0657b11youShanShi">
-    <p><anchor n="T.50.2060.0657b11"/><lb ed="T" n="0657b11"/>益州<placeName key="CN0510108T21AA">多寶寺</placeName><persName key="A006911">猷禪師者</persName>。[林/必]道人。姓楊氏。勤<lb ed="T" n="0657b12"/>讀誦四十餘年。日夕不捨。房後院壁圖九<lb ed="T" n="0657b13"/>想變。露置繩床。椶被覆上。晝依僧例。夜則<lb ed="T" n="0657b14"/>寢中。亘一日方出一食。如是漸增七日方<lb ed="T" n="0657b15"/>食。僧以為常。弗之怪也。如此又經二十餘<lb ed="T" n="0657b16"/>年。忽經一月而不出者不畜侍人。僉議不<lb ed="T" n="0657b17"/>出秖是入定。不勞看之。忽一夜風雨盛。畫<lb ed="T" n="0657b18"/>壁廊倒。旦共往視。試撥椶被。一無所見。唯<lb ed="T" n="0657b19"/>繩床坐褥存焉。</p>
+    <p><anchor n="T.50.2060.0657b11"/><lb ed="T" n="0657b11"/>益州<placeName key="PL000000034754">多寶寺</placeName><persName key="A006911">猷禪師者</persName>。[林/必]道人。姓楊氏。勤<lb ed="T" n="0657b12"/>讀誦四十餘年。日夕不捨。房後院壁圖九<lb ed="T" n="0657b13"/>想變。露置繩床。椶被覆上。晝依僧例。夜則<lb ed="T" n="0657b14"/>寢中。亘一日方出一食。如是漸增七日方<lb ed="T" n="0657b15"/>食。僧以為常。弗之怪也。如此又經二十餘<lb ed="T" n="0657b16"/>年。忽經一月而不出者不畜侍人。僉議不<lb ed="T" n="0657b17"/>出秖是入定。不勞看之。忽一夜風雨盛。畫<lb ed="T" n="0657b18"/>壁廊倒。旦共往視。試撥椶被。一無所見。唯<lb ed="T" n="0657b19"/>繩床坐褥存焉。</p>
     <linkGrp>
         <link targets="#0657b11 #0657b19"/>
         <ptr target="#A006911" type="person"/>
-        <ptr target="#CN0510108T21AA" type="place"/>
+        <ptr target="#PL000000034754" type="place"/>
         </linkGrp>
 </div>

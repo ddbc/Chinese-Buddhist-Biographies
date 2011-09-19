@@ -1,21 +1,21 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0665b26shiMingJun">
-    <p><anchor n="T.50.2060.0665b26"/><lb ed="T" n="0665b26"/><persName key="A007013">釋明濬</persName>。姓孫。<placeName key="CN0370103Z06AA">齊</placeName>人。善章草。常以金剛般若<lb ed="T" n="0665b27"/>為業。<date key="j19585481958548" when-iso="0650-03-22">永徽元年二月十二日</date>夜暴死。心上<lb ed="T" n="0665b28"/>暖。周時方蘇。說云。初有二青衣童子。將至<lb ed="T" n="0665b29"/>王所。問一生作何業。<persName key="A007013">濬</persName>答。但誦金剛般若<lb ed="T" n="0665c01"/>經。王曰不可言。<persName key="A007013">師</persName>可更誦滿十萬遍。<date key="j19588621959245" from-iso="0651-01-30" to-iso="0652-02-17">明年</date><lb ed="T" n="0665c02"/>必生<placeName key="XZ0000033A01AA">淨土</placeName>。弟子不見<persName key="A007013">師</persName>也。還令二青衣送<lb ed="T" n="0665c03"/>至<placeName key="CN0610101T22AA">寺</placeName>。<persName key="A007013">濬</persName>自爾精苦倍百逾厲。至<date key="j19589211958950" from-iso="0651-03-30" to-iso="0651-04-28">二年三月</date><lb ed="T" n="0665c04"/>卒。寺眾咸聞異香云。</p>
+    <p><anchor n="T.50.2060.0665b26"/><lb ed="T" n="0665b26"/><persName key="A007013">釋明濬</persName>。姓孫。<placeName key="PL000000020249">齊</placeName>人。善章草。常以金剛般若<lb ed="T" n="0665b27"/>為業。<date key="j19585481958548" when-iso="0650-03-22">永徽元年二月十二日</date>夜暴死。心上<lb ed="T" n="0665b28"/>暖。周時方蘇。說云。初有二青衣童子。將至<lb ed="T" n="0665b29"/>王所。問一生作何業。<persName key="A007013">濬</persName>答。但誦金剛般若<lb ed="T" n="0665c01"/>經。王曰不可言。<persName key="A007013">師</persName>可更誦滿十萬遍。<date key="j19588621959245" from-iso="0651-01-30" to-iso="0652-02-17">明年</date><lb ed="T" n="0665c02"/>必生<placeName key="PL000000055477">淨土</placeName>。弟子不見<persName key="A007013">師</persName>也。還令二青衣送<lb ed="T" n="0665c03"/>至<placeName key="PL000000042076">寺</placeName>。<persName key="A007013">濬</persName>自爾精苦倍百逾厲。至<date key="j19589211958950" from-iso="0651-03-30" to-iso="0651-04-28">二年三月</date><lb ed="T" n="0665c04"/>卒。寺眾咸聞異香云。</p>
     <linkGrp>
         <link targets="#0665b26 #0665b26"/>
         <ptr target="#A007013" type="person"/>
-        <ptr target="#CN0370103Z06AA" type="place"/>
+        <ptr target="#PL000000020249" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0665b27 #0665b28"/>
         <ptr target="#A007013" type="person"/>
-        <ptr target="#CN0610101T22AA" type="place"/>
+        <ptr target="#PL000000042076" type="place"/>
         <ptr target="#j19585481958548" type="time"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0665c03 #0665c04"/>
         <ptr target="#A007013" type="person"/>
-        <ptr target="#CN0610101T22AA" type="place"/>
+        <ptr target="#PL000000042076" type="place"/>
         <ptr target="#j19589211958950" type="time"/>
     </linkGrp>
 </div>

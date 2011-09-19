@@ -1,7 +1,12 @@
 <?xml version='1.0' encoding='utf-8'?>
-<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0855a26shiSengCang">
-    <anchor n="T.50.2061.0855a26"/><head><date from-iso="0618-06-21" key="j19469512052491" to-iso="0907-06-06">唐</date>汾州<persName key="A013165">僧藏</persName>傳</head><p>
-<lb ed="T" n="0855a27"/><persName key="A013165">釋僧藏</persName>者，<placeName key="CN0141182Z13AA">西河</placeName>人也。弱齡拔俗，氣茂神清，允
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0855a21shiSengCang">
+    <lb n="0855a21" ed="T"/><anchor n="T.50.2061.0855a21"/><head><anchor xml:id="beg0855a02"/>宋<anchor xml:id="end0855a02"/>高僧傳卷第二十三</head>
+    <lb n="0855a22" ed="T"/>
+    <lb n="0855a23" ed="T"/><byline n="Author"><anchor xml:id="beg0855a03"/>宋左街天壽寺通慧大師
+        <lb n="0855a24" ed="T"/>賜紫沙門贊寧等奉　勅撰<anchor xml:id="end0855a03"/></byline>
+    <lb n="0855a25" ed="T"/><head>遺身篇第七（正傳二十二人附見二人）</head>
+    <lb n="0855a26" ed="T"/><head><date from-iso="0618-06-21" key="j19469512052491" to-iso="0907-06-06">唐</date>汾州<persName key="A013165">僧藏</persName>傳</head><p>
+<lb ed="T" n="0855a27"/><persName key="A013165">釋僧藏</persName>者，<placeName key="PL000000006221">西河</placeName>人也。弱齡拔俗，氣茂神清，允
 <lb ed="T" n="0855a28"/>迪循良，恪居下位。迨霑戒善，密護根塵。見
 <lb ed="T" n="0855a29"/>仁祠必禮之，逢碩德則盡禮。苟遇僧俗<pb ed="T" n="0855b" xml:id="T50.2061.0855b"/>
 <lb ed="T" n="0855b01"/>施拜，乃俯僂而走，如迴避令長焉。若當眾
@@ -17,6 +22,6 @@
     <linkGrp>
         <link targets="#0855a27 #0855a28"/>
         <ptr target="#A013165" type="person"/>
-        <ptr target="#CN0141182Z13AA" type="place"/>
+        <ptr target="#PL000000006221" type="place"/>
     </linkGrp>
 </div>

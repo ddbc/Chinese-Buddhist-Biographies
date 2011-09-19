@@ -1,66 +1,66 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0803a14shiCangYong">
     <anchor n="T.50.2061.0803a14"/><head><date from-iso="0618-06-21" key="j19469512052491" to-iso="0907-06-06">唐</date>京師安國寺<persName key="A011099">藏用</persName>傳</head><p>
-        <lb ed="T" n="0803a15"/><persName key="A011099">釋藏用</persName>，不詳何許人也。從其拔俗，依棲<placeName key="CN0410185M02AA">嵩
-        <lb ed="T" n="0803a16"/>山</placeName><persName key="A019379">空公</persName>為師。及乎年當應法，即於<placeName key="CN0610630Z05AA">汾川</placeName><persName key="A011100">炬
-<lb ed="T" n="0803a17"/>律師</persName>所受上品形俱法。登詣<placeName key="CN0410302Z03AA">洛中</placeName><persName key="A011101">業公</persName>講
+        <lb ed="T" n="0803a15"/><persName key="A011099">釋藏用</persName>，不詳何許人也。從其拔俗，依棲<placeName key="PL000000023253">嵩
+        <lb ed="T" n="0803a16"/>山</placeName><persName key="A019379">空公</persName>為師。及乎年當應法，即於<placeName key="PL000000043791">汾川</placeName><persName key="A011100">炬
+<lb ed="T" n="0803a17"/>律師</persName>所受上品形俱法。登詣<placeName key="PL000000023581">洛中</placeName><persName key="A011101">業公</persName>講
 <lb ed="T" n="0803a18"/><anchor xml:id="beg0803001"/>肄<anchor xml:id="end0803001"/>，研覈律文，循其奧妙，無所不臻。洎聞
-<lb ed="T" n="0803a19"/>有禪觀之學，遂登<placeName key="CN0360402M01AA">廬</placeName>陟<placeName key="CN0430412M01AA">霍</placeName>，涉<placeName key="CN0420000R01AA">漢</placeName>泛<placeName key="CN0430000R01AA">湘</placeName>，望
-<lb ed="T" n="0803a20"/>雙峯之叢林。又歸，開法<placeName key="CN0610102Z07AA">京輦</placeName>，道既精粹，訓且
+<lb ed="T" n="0803a19"/>有禪觀之學，遂登<placeName key="PL000000018775">廬</placeName>陟<placeName key="PL000000028928">霍</placeName>，涉<placeName key="PL000000026396">漢</placeName>泛<placeName key="PL000000028611">湘</placeName>，望
+<lb ed="T" n="0803a20"/>雙峯之叢林。又歸，開法<placeName key="PL000000042189">京輦</placeName>，道既精粹，訓且
 <lb ed="T" n="0803a21"/>均敷，藹然為物楷模，嚮風宗重。當<date from-iso="0780" key="j20059942007439" to-iso="0784">建中</date>中，
 <lb ed="T" n="0803a22"/>已全三十許臘。尋應詔充臨壇首席，相繼
 <lb ed="T" n="0803a23"/>度弟子越多。及居東城化塔，乃<persName key="A004379">代宗</persName>之邸
 <lb ed="T" n="0803a24"/>第也，推<persName key="A011099">用</persName>主其綱任。苾芻至息慈，皆遵畏
-<lb ed="T" n="0803a25"/>愛焉。席熊延客，揮麈開談，指<placeName key="CN0430412M01AA">衡山</placeName>石也，
+<lb ed="T" n="0803a25"/>愛焉。席熊延客，揮麈開談，指<placeName key="PL000000028928">衡山</placeName>石也，
 <lb ed="T" n="0803a26"/>有以識前身；傳<persName key="A001719">曹谿</persName>鉢也，有以知後際。是
 <lb ed="T" n="0803a27"/>以門多長者之轍，室滿度人之籌，益物良
-<lb ed="T" n="0803a28"/>深，坐鎮雅俗。<date from-iso="0785" key="j20078242015139" to-iso="0805">貞元</date>中，左司正郎<persName key="A011103">王鋗</persName>、<placeName key="CN0140922M03AA">南臺</placeName><persName key="A011105">崔
+<lb ed="T" n="0803a28"/>深，坐鎮雅俗。<date from-iso="0785" key="j20078242015139" to-iso="0805">貞元</date>中，左司正郎<persName key="A011103">王鋗</persName>、<placeName key="PL000000005319">南臺</placeName><persName key="A011105">崔
 <lb ed="T" n="0803a29"/>公繼</persName>和之。如是數公將議標題，兵部正郎<persName key="A011106">程<pb ed="T" n="0803b" xml:id="T50.2061.0803b"/>
 <lb ed="T" n="0803b01"/>浩</persName>作都序，職方正郎知制誥<persName key="A011107">吳通微</persName>書之。<date from-iso="0788-02-16" key="j20089172009270" to-iso="0789-02-03">四
 <lb ed="T" n="0803b02"/>年戊辰歲</date>也。<persName key="A011099">用</persName>公長於律學，急護任持。為
-<lb ed="T" n="0803b03"/><placeName key="CN0610102Z07AA">上都</placeName>之表則也。</p>
+<lb ed="T" n="0803b03"/><placeName key="PL000000042189">上都</placeName>之表則也。</p>
     <linkGrp>
         <link targets="#0803a15 #0803a16"/>
         <ptr target="#A011099" type="person"/>
         <ptr target="#A019379" type="person"/>
-        <ptr target="#CN0410185M02AA" type="place"/>
+        <ptr target="#PL000000023253" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0803a16 #0803a17"/>
         <ptr target="#A011099" type="person"/>
         <ptr target="#A011100" type="person"/>
-        <ptr target="#CN0610630Z05AA" type="place"/>
+        <ptr target="#PL000000043791" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0803a17 #0803a18"/>
         <ptr target="#A011099" type="person"/>
         <ptr target="#A011101" type="person"/>
-        <ptr target="#CN0410302Z03AA" type="place"/>
+        <ptr target="#PL000000023581" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0803a19 #0803a20"/>
         <ptr target="#A011099" type="person"/>
-        <ptr target="#CN0360402M01AA" type="place"/>
+        <ptr target="#PL000000018775" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0803a19 #0803a20"/>
         <ptr target="#A011099" type="person"/>
-        <ptr target="#CN0430412M01AA" type="place"/>
+        <ptr target="#PL000000028928" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0803a19 #0803a20"/>
         <ptr target="#A011099" type="person"/>
-        <ptr target="#CN0420000R01AA" type="place"/>
+        <ptr target="#PL000000026396" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0803a19 #0803a20"/>
         <ptr target="#A011099" type="person"/>
-        <ptr target="#CN0430000R01AA" type="place"/>
+        <ptr target="#PL000000028611" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0803a20 #0803a25"/>
         <ptr target="#A011099" type="person"/>
-        <ptr target="#CN0610102Z07AA" type="place"/>
+        <ptr target="#PL000000042189" type="place"/>
         <ptr target="#j20059942007439" type="time"/>
     </linkGrp>
     <linkGrp>

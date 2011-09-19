@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="bqnz0936a05huiZhanNi">
-    <head><placeName key="CN0320106T35AA">建福寺</placeName><ptr target="fn＊"/><persName key="A014768">慧湛</persName>尼傳七</head><p><anchor n="T.50.2063.0936a06"/><lb ed="T" n="0936a06"/><ptr target="fn＊"/><persName key="A014768">慧湛</persName>，本姓<ptr target="fn3"/>彭，<placeName key="CN0370826Z47AA">任城</placeName>人也。神貌超遠，精操殊<lb ed="T" n="0936a07"/>特，淵情曠<ptr target="fn4"/>達，濟物為務，惡衣蔬食，樂在其<lb ed="T" n="0936a08"/>中。嘗荷衣山行，逢群劫，欲舉刃向<persName key="A014768">湛</persName>，手不能<lb ed="T" n="0936a09"/>勝，因求<persName key="A014768">湛</persName>所負衣。<persName key="A014768">湛</persName>歡笑而與曰：「君意望甚<lb ed="T" n="0936a10"/>重，所獲殊輕。」復解其衣<ptr target="fn5"/>內新裙與之。劫即辭<lb ed="T" n="0936a11"/>謝，併以還<persName key="A014768">湛</persName>，<persName key="A014768">湛</persName>捨之而去。<date key="j18467341847025" notAfter-iso="0344-11-18" notBefore-iso="0344-02-01">建元二年</date>渡江，司<lb ed="T" n="0936a12"/>空<persName key="A002179">何充</persName>大加崇敬，請居<placeName key="CN0320106T35AA">建福寺</placeName>住<ptr target="fn＊"/>云。</p>
+    <head><placeName key="PL000000008960">建福寺</placeName><ptr target="fn＊"/><persName key="A014768">慧湛</persName>尼傳七</head><p><anchor n="T.50.2063.0936a06"/><lb ed="T" n="0936a06"/><ptr target="fn＊"/><persName key="A014768">慧湛</persName>，本姓<ptr target="fn3"/>彭，<placeName key="PL000000021382">任城</placeName>人也。神貌超遠，精操殊<lb ed="T" n="0936a07"/>特，淵情曠<ptr target="fn4"/>達，濟物為務，惡衣蔬食，樂在其<lb ed="T" n="0936a08"/>中。嘗荷衣山行，逢群劫，欲舉刃向<persName key="A014768">湛</persName>，手不能<lb ed="T" n="0936a09"/>勝，因求<persName key="A014768">湛</persName>所負衣。<persName key="A014768">湛</persName>歡笑而與曰：「君意望甚<lb ed="T" n="0936a10"/>重，所獲殊輕。」復解其衣<ptr target="fn5"/>內新裙與之。劫即辭<lb ed="T" n="0936a11"/>謝，併以還<persName key="A014768">湛</persName>，<persName key="A014768">湛</persName>捨之而去。<date key="j18467341847025" notAfter-iso="0344-11-18" notBefore-iso="0344-02-01">建元二年</date>渡江，司<lb ed="T" n="0936a12"/>空<persName key="A002179">何充</persName>大加崇敬，請居<placeName key="PL000000008960">建福寺</placeName>住<ptr target="fn＊"/>云。</p>
     <linkGrp>
         <link targets="#0936a11 #0936a12"/>
         <ptr target="#A014768" type="person"/>
         <ptr target="#A002179" type="person"/>
-        <ptr target="#CN0320106T35AA" type="place"/>
+        <ptr target="#PL000000008960" type="place"/>
         <ptr target="#j18467341847025" type="time"/>
     </linkGrp>
 </div>

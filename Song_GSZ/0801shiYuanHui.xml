@@ -1,31 +1,30 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0734a11shiZhiSheng">
-    <anchor n="T.50.2061.0734a11"/><head><date from-iso="0618-06-21" key="j19469512052491" to-iso="0907-06-06">唐</date>中大雲寺<persName key="A001416">圓暉</persName>傳（<persName key="A001902">懷遠</persName> <persName key="A009380">崇廙</persName>）</head><p>
-        <lb ed="T" n="0734a12"/><persName key="A001416">釋圓暉</persName>，未詳何許人也。<placeName key="CN0610000E01AA">關輔</placeName>之間，聲名籍
-<lb ed="T" n="0734a13"/>甚，精研性相，善達諸宗。幼於《俱舍》一門，最
-<lb ed="T" n="0734a14"/>為銳意。時禮部侍郎<persName key="A009364">賈曾</persName>歸心釋氏，好樂
-<lb ed="T" n="0734a15"/>斯文，多命<persName key="A001416">暉</persName>談此宗相，然其難者則非想
-<lb ed="T" n="0734a16"/>見惑，繁者則得非得章。爰請<persName key="A001416">暉師</persName>略伸梗
-<lb ed="T" n="0734a17"/>概，究其<persName key="A000060">光師</persName>《疏義》繁極難尋。又<placeName key="CN0410311T12AA">聖善寺</placeName><persName key="A001902">懷遠
-<lb ed="T" n="0734a18"/>律師</persName>。願心相合，因節略古《疏》，頌則再牒，而《釋
-<lb ed="T" n="0734a19"/>論》乃有引而具注，甚為徑捷，學者易知。後
-<lb ed="T" n="0734a20"/>有<persName key="A009380">崇廙</persName>著《金華鈔》十卷以解焉。<persName key="A000060">光</persName>、<persName key="A000746">寶</persName>二師
-        <lb ed="T" n="0734a21"/>之後，<persName key="A001416">暉公</persName>間出，兩河間、二京道、<placeName key="CN0000007D01AA">江表</placeName>、<placeName key="CN0110113Z18AA">燕</placeName>、<placeName key="CN0370103Z06AA">齊</placeName>、<placeName key="CN0320803Z25AA">楚</placeName>、
-<lb ed="T" n="0734a22"/><placeName key="CN0510184Z16AA">蜀</placeName>盛行<persName key="A001416">暉</persName>《疏》焉。</p>
+    <lb ed="T" n="0734a11"/><anchor n="T.50.2061.0734a11"/><head><date from-iso="0618-06-21" key="j19469512052491" to-iso="0907-06-06">唐</date><placeName key="PL000000023578">中大雲寺</placeName><persName key="A001416">圓暉</persName>傳（<persName key="A021682">懷遠</persName> <persName key="A009380">崇廙</persName>）</head><p>
+        <lb ed="T" n="0734a12"/><persName key="A001416">釋圓暉</persName>，未詳何許人也。<placeName key="PL000000042002">關輔</placeName>之間，聲名籍
+        <lb ed="T" n="0734a13"/>甚<ptr target="#n691"/>，精研「性相」，善達諸宗。幼於《俱舍》一門，最
+        <lb ed="T" n="0734a14"/>為銳意。時禮部侍郎<persName key="A009364">賈曾</persName>歸心釋氏<ptr target="#n712"/>，好樂
+        <lb ed="T" n="0734a15"/>斯文，多命<persName key="A001416">暉</persName>談此宗相。然其難者則「非想
+        <lb ed="T" n="0734a16"/>見惑<ptr target="#n538"/>」，繁者則〈得非得章<ptr target="#n714"/>〉。爰請<persName key="A001416">暉師</persName>略伸梗
+        <lb ed="T" n="0734a17"/>概<ptr target="#n715"/>，究其<persName key="A000060">光師</persName>疏義<ptr target="#n716"/>繁極難尋。又<placeName key="PL000000023661">聖善寺</placeName><persName key="A021682">懷遠
+<lb ed="T" n="0734a18"/>律師</persName>，願心相合，因節略古疏，頌則再牒而釋，
+        <lb ed="T" n="0734a19"/>論乃有引而具注<ptr target="#n717"/>，甚為徑捷，學者易知。後
+        <lb ed="T" n="0734a20"/>有<persName key="A009380">崇廙</persName>著《金華鈔》十卷以解焉。<persName key="A000060">光</persName>、<persName key="A000746">寶</persName><ptr target="#n718"/>二師
+        <lb ed="T" n="0734a21"/>之後，<persName key="A001416">暉公</persName>間出，<ref type="place" target="#PL000000001520 #PL000000005198">兩河</ref>間、<ref type="place" target="#PL000000042190 #PL000000023583">二京道</ref>、<placeName key="PL000000000197">江表</placeName>、<placeName key="PL000000000514">燕</placeName>、<placeName key="PL000000020249">齊</placeName>、<placeName key="PL000000010514">楚</placeName>、
+<lb ed="T" n="0734a22"/><placeName key="PL000000035107">蜀</placeName>盛行<persName key="A001416">暉</persName>疏焉。</p>
     <linkGrp>
         <link targets="#0734a12 #0734a13"/>
         <ptr target="#A001416" type="person"/>
-        <ptr target="#CN0610000E01AA" type="place"/>
+        <ptr target="#PL000000042002" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0734a14 #0734a16"/>
         <ptr target="#A001416" type="person"/>
         <ptr target="#A009364" type="person"/>
-        <ptr target="#CN0610102Z07AA" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0734a17 #0734a18"/>
-        <ptr target="#A001902" type="person"/>
-        <ptr target="#CN0410311T12AA" type="place"/>
+        <ptr target="#A021682" type="person"/>
+        <ptr target="#PL000000023661" type="place"/>
     </linkGrp>
 </div>

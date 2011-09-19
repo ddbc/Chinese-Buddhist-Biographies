@@ -1,15 +1,20 @@
 <?xml version='1.0' encoding='utf-8'?>
-<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0738b14shiWeiQue">
-    <anchor n="T.50.2061.0738b14"/><head><date from-iso="0618-06-21" key="j19469512052491" to-iso="0907-06-06">唐</date><placeName key="CN0610104T33AA">京師崇福寺</placeName><persName key="A008962">惟慤</persName>傳<app n="0738002"><lem wit="【大】">一</lem><rdg resp="Taisho" wit="【宋】【元】"/></app>（<persName key="A009585">慧震</persName> <persName key="A008963">弘沇</persName>）</head><p>
-        <lb ed="T" n="0738b15"/><persName key="A008962">釋惟慤</persName>，俗姓連氏，齊大夫<persName key="A001384">稱</persName>之後，本<placeName key="CN0610523Z13AA">憑翊</placeName>人，
-<lb ed="T" n="0738b16"/>官居<placeName key="CN0140402Z10AA">上黨</placeName>，為<placeName key="CN0140402Z11AA">潞</placeName>人也。九歲割愛，冠年納戒。
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0738b09shiWeiQue">
+    <lb n="0738b09" ed="T"/><anchor n="T.50.2061.0738b09"/><head><anchor xml:id="beg0738sgsz2"/>宋<anchor xml:id="end0738sgsz2"/>高僧傳<anchor xml:id="beg0738sgsz3"/>卷第<anchor xml:id="end0738sgsz3"/>六</head>
+    <lb n="0738b10" ed="T"/>
+    <lb n="0738b11" ed="T"/><byline n="Author"><anchor xml:id="beg0738b01"/>宋左街天壽寺通慧大師
+        <lb n="0738b12" ed="T"/>賜紫沙門贊寧等奉　勅撰<anchor xml:id="end0738b01"/></byline>
+    <lb n="0738b13" ed="T"/><head>義解篇第二之三（正傳十四人附見六人）</head>
+    <lb n="0738b14" ed="T"/><head><date from-iso="0618-06-21" key="j19469512052491" to-iso="0907-06-06">唐</date><placeName key="PL000000042324">京師崇福寺</placeName><persName key="A008962">惟慤</persName><anchor xml:id="beg0738002"/><choice resp="sgsz"><sic>傳一</sic><corr>傳</corr></choice><anchor xml:id="end0738002"/>（<persName key="A009585">慧震</persName> <persName key="A008963">弘沇</persName>）</head><p>
+        <lb ed="T" n="0738b15"/><persName key="A008962">釋惟慤</persName>，俗姓連氏，齊大夫<persName key="A001384">稱</persName>之後，本<placeName key="PL000000043356"><anchor xml:id="beg0738sgsz4"/>憑翊<anchor xml:id="end0738sgsz4"/></placeName>人，
+<lb ed="T" n="0738b16"/>官居<placeName key="PL000000004129">上黨</placeName>，為<placeName key="PL000000004130">潞</placeName>人也。九歲割愛，冠年納戒。
 <lb ed="T" n="0738b17"/>母氏昆弟歸于法門，故<persName key="A008962">慤</persName>從其受教，瀾漪
-<lb ed="T" n="0738b18"/>內湛，葳[(麩-夫+玉)-來+(卄/(素-糸))]外發。嗜學服勤，必無倦色。乃辭
+<lb ed="T" n="0738b18"/>內湛，葳𦼆外發。嗜學服勤，必無倦色。乃辭
 <lb ed="T" n="0738b19"/>渭陽，尋師隷業，或經筵首席，或論集前驅，
 <lb ed="T" n="0738b20"/>或參問禪宗，或附麗律匠。其志淵曠，欲皆
-        <lb ed="T" n="0738b21"/>吞納之。年臨不惑，尚住<placeName key="CN0410302Z03AA">神都</placeName>，因受舊相<persName key="A000646">房
+        <lb ed="T" n="0738b21"/>吞納之。年臨不惑，尚住<placeName key="PL000000023581">神都</placeName>，因受舊相<persName key="A000646">房
 <lb ed="T" n="0738b22"/>公融</persName>宅請。未飯之前，宅中出經函云：「相公
-        <lb ed="T" n="0738b23"/>在<placeName key="CN0440104Z21AA">南海</placeName>知南銓，預其翻經，躬親筆受<ptr target="#n53"/>《首楞
+        <lb ed="T" n="0738b23"/>在<placeName key="PL000000030463">南海</placeName>知南銓，預其翻經，躬親筆受<ptr target="#n53"/>《首楞
 <lb ed="T" n="0738b24"/>嚴經》一部，留家供養。今筵中正有十僧，每
         <lb ed="T" n="0738b25"/>人可開題一卷。」<persName key="A008962">慤</persName>坐居第四，舒經見<persName key="A002822">富樓
 <lb ed="T" n="0738b26"/>那</persName>問生起義，覺其文婉，其理玄，發願撰《疏》，
@@ -20,27 +25,27 @@
 <lb ed="T" n="0738c02"/>丙午</date>也。及將徹簡，於臥寐中見由口而
 <lb ed="T" n="0738c03"/>出，在乎華嚴宗中<persName key="A002144">文殊</persName>智也。勒成三卷，自
 <lb ed="T" n="0738c04"/>謂從淺智中衍出矣。于今盛行。一說《楞嚴
-        <lb ed="T" n="0738c05"/>經》初是<placeName key="CN0420582T05AA">荊州度門寺</placeName><persName key="A009582">神秀禪師</persName>在內時得本，
-<lb ed="T" n="0738c06"/>後因<placeName key="CN0130433Z13AA">館陶</placeName>沙門<persName key="A009585">慧震</persName>於<placeName key="CN0420582T05AA">度門寺</placeName>傳出，<persName key="A008962">慤</persName>遇之
-<lb ed="T" n="0738c07"/>著《疏》解之。後有<persName key="A008963"><anchor xml:id="beg0738003"/>弘<anchor xml:id="end0738003"/>沇法師</persName>者，<placeName key="CN0510184Z16AA">蜀</placeName>人也，作
+        <lb ed="T" n="0738c05"/>經》初是<placeName key="PL000000027025">荊州度門寺</placeName><persName key="A009582">神秀禪師</persName>在內時得本，
+<lb ed="T" n="0738c06"/>後因<placeName key="PL000000001725">館陶</placeName>沙門<persName key="A009585">慧震</persName>於<placeName key="PL000000027025">度門寺</placeName>傳出，<persName key="A008962">慤</persName>遇之
+<lb ed="T" n="0738c07"/>著《疏》解之。後有<persName key="A008963"><anchor xml:id="beg0738003"/>弘<anchor xml:id="end0738003"/>沇法師</persName>者，<placeName key="PL000000035107">蜀</placeName>人也，作
 <lb ed="T" n="0738c08"/>《義章》，開釋此經，號《資中疏》。其中亦引<persName key="A009585">震法
-<lb ed="T" n="0738c09"/>師</persName>義例，似有今古之說，此<placeName key="CN0510184Z16AA">岷蜀</placeName>行之，近亦
-<lb ed="T" n="0738c10"/>流<placeName key="CN0000007D01AA">江表</placeName>焉。</p>
+<lb ed="T" n="0738c09"/>師</persName>義例，似有今古之說，此<placeName key="PL000000035107">岷蜀</placeName>行之，近亦
+<lb ed="T" n="0738c10"/>流<placeName key="PL000000000197">江表</placeName>焉。</p>
     <linkGrp>
         <link targets="#0738b15 #0738b15"/>
         <ptr target="#A008962" type="person"/>
-        <ptr target="#CN0610523Z13AA" type="place"/>
+        <ptr target="#PL000000043356" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0738b16 #0738b16"/>
         <ptr target="#A008962" type="person"/>
-        <ptr target="#CN0140402Z10AA" type="place"/>
+        <ptr target="#PL000000004129" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0738b21 #0738b22"/>
         <ptr target="#A008962" type="person"/>
         <ptr target="#A000646" type="person"/>
-        <ptr target="#CN0410302Z03AA" type="place"/>
+        <ptr target="#PL000000023581" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0738b29 #0738c01"/>
@@ -50,16 +55,16 @@
     <linkGrp>
         <link targets="#0738c05 #0738c05"/>
         <ptr target="#A009582" type="person"/>
-        <ptr target="#CN0420582T05AA" type="place"/>
+        <ptr target="#PL000000027025" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0738c06 #0738c06"/>
         <ptr target="#A009585" type="person"/>
-        <ptr target="#CN0420582T05AA" type="place"/>
+        <ptr target="#PL000000027025" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0738c07 #0738c07"/>
         <ptr target="#A008963" type="person"/>
-        <ptr target="#CN0510184Z16AA" type="place"/>
+        <ptr target="#PL000000035107" type="place"/>
     </linkGrp>
 </div>

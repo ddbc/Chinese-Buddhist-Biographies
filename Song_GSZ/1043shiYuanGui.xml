@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0828b22shiYuanGui">
     <anchor n="T.50.2061.0828b22"/><head><date from-iso="0618-06-21" key="j19469512052491" to-iso="0907-06-06">唐</date>嵩嶽閑居寺<persName key="A012296">元珪</persName>傳</head><p>
-<lb ed="T" n="0828b23"/><persName key="A012296">釋元珪</persName>，姓李氏，<placeName key="CN0410329Z15AA">伊闕</placeName>人也。稟氣英奇，寬裕閑
+<lb ed="T" n="0828b23"/><persName key="A012296">釋元珪</persName>，姓李氏，<placeName key="PL000000023845">伊闕</placeName>人也。稟氣英奇，寬裕閑
 <lb ed="T" n="0828b24"/>雅。既緣宿習，乃誓出家，於<date from-iso="0683-02-05" key="j19705561970883" to-iso="0683-12-29">永淳二年</date>遂登
-<lb ed="T" n="0828b25"/>滿足，乃隷名<placeName key="CN0410185T02AA">閑居寺</placeName>。以習毘尼，雖勤無懈，
-<lb ed="T" n="0828b26"/>執律唯堅。後悟<placeName key="CN0410185T01AA">少林寺</placeName>禪宗，大通心要，深
-<lb ed="T" n="0828b27"/>入玄微，遂卜廬于嶽中龐塢。謂其徒<persName key="A012299">仁素</persName>
+<lb ed="T" n="0828b25"/>滿足，乃隷名<placeName key="PL000000023256">閑居寺</placeName>。以習毘尼，雖勤無懈，
+<lb ed="T" n="0828b26"/>執律唯堅。後悟<placeName key="PL000000023255">少林寺</placeName>禪宗，大通心要，深
+        <lb ed="T" n="0828b27"/>入玄微<ptr target="#n773"/>，遂卜廬于嶽中龐塢。謂其徒<persName key="A012299">仁素</persName>
 <lb ed="T" n="0828b28"/>曰：「<persName key="A012296">吾</persName>始居寺東嶺。<persName key="A012296">吾</persName>滅，<persName key="A012299">汝</persName>必塔<persName key="A012296">吾</persName>骸于此。」
 <lb ed="T" n="0828b29"/><persName key="A012296">珪</persName>安于巖阿。時有峨冠袴褶，部曲繁多，輕步<pb ed="T" n="0828c" xml:id="T50.2061.0828c"/>
 <lb ed="T" n="0828c01"/>舒徐，稱謁大師。<persName key="A012296">珪</persName>覩其貌偉，精爽不倫，謂
@@ -66,7 +66,7 @@
 <lb ed="T" n="0829a27"/>目我神蹤，知有佛有神，有能有不能，有
 <lb ed="T" n="0829a28"/>自然有非自然者。」<persName key="A012296">珪</persName>曰：「無為是，無為是。」
 <lb ed="T" n="0829a29"/>神曰：「佛亦使神護法，<persName key="A012296">師</persName>寧隳叛佛邪？隨意<pb ed="T" n="0829b" xml:id="T50.2061.0829b"/>
-<lb ed="T" n="0829b01"/>垂誨。」<persName key="A012296">珪</persName>不得已而言曰：「東巖，<placeName key="CN0410185T02AA">寺</placeName>之障也，莾
+<lb ed="T" n="0829b01"/>垂誨。」<persName key="A012296">珪</persName>不得已而言曰：「東巖，<placeName key="PL000000023256">寺</placeName>之障也，莾
 <lb ed="T" n="0829b02"/>然無樹。北岫有之，而背非屏擁。汝能移北
 <lb ed="T" n="0829b03"/>樹於東嶺乎？」神曰：「已聞命矣。」又陳曰：「我必
 <lb ed="T" n="0829b04"/>昏夜風雷擺搖震運，願<persName key="A012296">師</persName>無駭。」即鄭重作禮
@@ -80,13 +80,13 @@
 <lb ed="T" n="0829b12"/>植焉。而<persName key="A012296">珪</persName>謂其徒曰：「<persName key="A012296">吾</persName>歿後無令外知，若
 <lb ed="T" n="0829b13"/>為口實，人將妖<persName key="A012296">我</persName>也。」以<date from-iso="0716-02-02" key="j19826051982988" to-iso="0717-02-19">開元四年丙辰歲</date>，
 <lb ed="T" n="0829b14"/>囑累門人，若委蛻焉。春秋七十三。遂營塔
-<lb ed="T" n="0829b15"/>于<placeName key="CN0410185M02AA">嶽</placeName>之東嶺，影堂存于本院後。<date from-iso="0724-02-04" key="j19855291985912" to-iso="0725-02-21">十二年</date>告成，
+<lb ed="T" n="0829b15"/>于<placeName key="PL000000023253">嶽</placeName>之東嶺，影堂存于本院後。<date from-iso="0724-02-04" key="j19855291985912" to-iso="0725-02-21">十二年</date>告成，
 <lb ed="T" n="0829b16"/>縣尉<persName key="A012304">許籌</persName>追<persName key="A012296">珪</persName>之德為記焉。</p>
     <linkGrp>
         <link targets="#0828b24 #0828b28"/>
         <ptr target="#A012296" type="person"/>
         <ptr target="#A012299" type="person"/>
-        <ptr target="#CN0410185T02AA" type="place"/>
+        <ptr target="#PL000000023256" type="place"/>
         <ptr target="#j19705561970883" type="time"/>
     </linkGrp>
 </div>

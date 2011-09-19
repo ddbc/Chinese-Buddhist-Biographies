@@ -1,12 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?><div xml:id="mscc0357c18daoHai" xmlns="http://www.tei-c.org/ns/1.0"><head>宋<placeName key="CN0421003Z03AA">江陵</placeName><persName key="A002928">釋慧海</persName><!--應為釋道海--></head><p><anchor n="X.77.1523.0357c18"/><lb ed="X" n="0357c18"/><persName key="A002928">道海</persName><placeName key="CN0421003Z03AA">江陵</placeName>人也。厲行懃修。少長一節。安貧守約。不改<lb ed="X" n="0357c19"/>其操。甞於<placeName key="CN0421003T06AA">長沙寺</placeName>。冬齊將訖。時諸僧共作無量壽齊。<lb ed="X" n="0357c20"/>海素空磬。無以從眾。乃發憤增厲。然二指以供養。因<lb ed="X" n="0357c21"/>遂頓<ptr target="fn9"/>問。殆將仆絕。時諸師僧云。但歸命<persName key="A002803">觀世音菩薩</persName>。<lb ed="X" n="0357c22"/>可得痛愈。於是鍛心正念。俄爾便愈。後日暮出塔下<lb ed="X" n="0357c23"/>經行。因便危篤。至明日將夕曰。今有勝人在空中。遙<lb ed="X" n="0357c24"/>來迎之。從公室宅。猶尚卑陋。將是福業未積。因明稱<lb ed="X" n="0358a01"/>報應。誨誘其功。言訖安臥。[怡-台+雇]然而盡(云云)。</p>
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="mscc0357c18daoHai"><head>宋<placeName key="PL000000027766">江陵</placeName><persName key="A002928">釋慧海</persName><!--應為釋道海--></head><p><anchor n="X.77.1523.0357c18"/><lb ed="X" n="0357c18"/><persName key="A002928">道海</persName><placeName key="PL000000027766">江陵</placeName>人也。厲行懃修。少長一節。安貧守約。不改<lb ed="X" n="0357c19"/>其操。甞於<placeName key="PL000000027743">長沙寺</placeName>。冬齊將訖。時諸僧共作無量壽齊。<lb ed="X" n="0357c20"/>海素空磬。無以從眾。乃發憤增厲。然二指以供養。因<lb ed="X" n="0357c21"/>遂頓<ptr target="fn9"/>問。殆將仆絕。時諸師僧云。但歸命<persName key="A002803">觀世音菩薩</persName>。<lb ed="X" n="0357c22"/>可得痛愈。於是鍛心正念。俄爾便愈。後日暮出塔下<lb ed="X" n="0357c23"/>經行。因便危篤。至明日將夕曰。今有勝人在空中。遙<lb ed="X" n="0357c24"/>來迎之。從公室宅。猶尚卑陋。將是福業未積。因明稱<lb ed="X" n="0358a01"/>報應。誨誘其功。言訖安臥。[怡-台+雇]然而盡(云云)。</p>
     <linkGrp>
         <link targets="#0357c18 #0357c18"/>
         <ptr type="person" target="#A002928"/>
-        <ptr type="place" target="#CN0421003Z03AA"/>
+        <ptr type="place" target="#PL000000027766"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0357c19 #0357c19"/>
         <ptr type="person" target="#A002928"/>
-        <ptr type="place" target="#CN0421003T06AA"/>
+        <ptr type="place" target="#PL000000027743"/>
     </linkGrp>
 </div>

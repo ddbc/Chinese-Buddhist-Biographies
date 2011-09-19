@@ -13,7 +13,7 @@
 <lb ed="T" n="0868a08"/>廢誦持。」隨吏行數里，至一巨坑，俾<persName key="A013585">正</persName>俯
 <lb ed="T" n="0868a09"/>窺，為吏推墮，若隕空焉，颯然蘇起。初<persName key="A013585">正</persName>死
 <lb ed="T" n="0868a10"/>唯面不寒，起述其事，變心遷善者不一。<persName key="A013585">正</persName>
-<lb ed="T" n="0868a11"/>後年暨八十餘，卒于<placeName key="CN0360427T01AA">住寺</placeName>。次荊州<placeName key="CN0421022Z08AA">功安縣</placeName><persName key="A013586">釋
+<lb ed="T" n="0868a11"/>後年暨八十餘，卒于<placeName key="PL000000018959">住寺</placeName>。次荊州<placeName key="PL000000027790">功安縣</placeName><persName key="A013586">釋
 <lb ed="T" n="0868a12"/>會宗</persName>，俗姓蔡。初泛爾為僧，別無他<anchor xml:id="beg0868003"/>技<anchor xml:id="end0868003"/>。忽經
 <lb ed="T" n="0868a13"/>中蠱病，乃骨立，因苦發心，志誦金剛般若
 <lb ed="T" n="0868a14"/>經以待盡。爾至五十過，夢有人令開口，喉
@@ -23,12 +23,12 @@
     <linkGrp>
         <link targets="#0868a10 #0868a11"/>
         <ptr target="#A013585" type="person"/>
-        <ptr target="#CN0360427T01AA" type="place"/>
+        <ptr target="#PL000000018959" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0868a11 #0868a17"/>
         <ptr target="#A013586" type="person"/>
-        <ptr target="#CN0421022Z08AA" type="place"/>
+        <ptr target="#PL000000027790" type="place"/>
         <ptr target="#j20220792022163" type="time"/>
     </linkGrp>
 </div>

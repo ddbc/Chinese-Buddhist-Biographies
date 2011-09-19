@@ -1,15 +1,15 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0418b04shanXian">
     <head><lb ed="X" n="0418b04"/>　　　　<persName key="A020662">開先暹</persName>禪師傳</head>
-    <p><anchor n="X.77.1524.0418b05"/><lb ed="X" n="0418b05"/><persName key="A020662">開先善暹</persName>禪師。<placeName key="CN0360982Z19AA">臨江軍</placeName>人。操行清苦。智識明達。<persName key="A015613">遠禪<lb ed="X" n="0418b06"/>師</persName>在<placeName key="CN0430703T01AA">德山</placeName>。師往依之。一日<persName key="A015613">遠</persName>升堂。顧視大眾云。獅子
+    <p><anchor n="X.77.1524.0418b05"/><lb ed="X" n="0418b05"/><persName key="A020662">開先善暹</persName>禪師。<placeName key="PL000000019762">臨江軍</placeName>人。操行清苦。智識明達。<persName key="A015613">遠禪<lb ed="X" n="0418b06"/>師</persName>在<placeName key="PL000000029435">德山</placeName>。師往依之。一日<persName key="A015613">遠</persName>升堂。顧視大眾云。獅子
         <lb ed="X" n="0418b07"/>頻呻。象王回顧。師忽有省。入室陳解。<persName key="A015613">遠</persName>云。子作麼生
         <lb ed="X" n="0418b08"/>會。師回顧曰。後園驢喫草。<persName key="A015613">遠</persName>然之。自此機辯迅捷。禪
         <lb ed="X" n="0418b09"/>林目曰海上橫行暹道者。又參<persName key="A000885">雪竇顯</persName>。<persName key="A000885">顯</persName>愛其俊逸。
-        <lb ed="X" n="0418b10"/>留座下數年。欲舉住明州<placeName key="unknown">金鵝</placeName>。師聞之。書二偈於壁
+        <lb ed="X" n="0418b10"/>留座下數年。欲舉住明州<placeName key="PL000000012328">金鵝</placeName>。師聞之。書二偈於壁
         <lb ed="X" n="0418b11"/>而去。曰。不是無心繼祖燈。道慚未廁嶺南能。三更月
         <lb ed="X" n="0418b12"/>下離巖竇。眷眷無言戀碧層。三十餘年四海間。尋師
         <lb ed="X" n="0418b13"/>擇友未甞閒。今朝得到無心地。却被無心趂出山。後
-        <lb ed="X" n="0418b14"/>住<placeName key="CN0360427T01AA">開先</placeName>。嗣<persName key="A015613">德山遠</persName>禪師。却通<persName key="A000885">雪竇</persName>書。山前婆子。見專
+        <lb ed="X" n="0418b14"/>住<placeName key="PL000000018959">開先</placeName>。嗣<persName key="A015613">德山遠</persName>禪師。却通<persName key="A000885">雪竇</persName>書。山前婆子。見專
         <lb ed="X" n="0418b15"/>使來問。云<persName key="A020662">暹首座</persName>出世。為誰燒香。專使。云<persName key="A015613">德山遠</persName>和
         <lb ed="X" n="0418b16"/>尚。婆子遂罵云。<persName key="A000885">雪竇</persName>抖擻。尿腸說禪。為汝得恁麼。辜
         <lb ed="X" n="0418b17"/>負恩德。開堂日上首白槌罷。師曰。千聖出來也。祇是
@@ -19,8 +19,35 @@
         <lb ed="X" n="0418b21"/>我與大地有情。同時成道。如是則彼既丈夫。我亦爾。
         <lb ed="X" n="0418b22"/>孰為不可良由諸人。不肯承。當自生退屈。所以便推
         <lb ed="X" n="0418b23"/>排一箇半箇。先達出來。[逅-口+巾]相開發。祗是與諸人作證
-        <lb ed="X" n="0418b24"/>明。今日人天會上。莫有久游<placeName key="unknown">赤水</placeName>。夙在<placeName key="unknown">荊山</placeName>。懷袖有
+        <lb ed="X" n="0418b24"/>明。今日人天會上。莫有久游赤水。夙在荊山。懷袖有
         <lb ed="X" n="0418c01"/>珍。頂門有眼。到處踐踏覺塲底衲僧麼。却請為新出
-        <lb ed="X" n="0418c02"/>世。長老作箇證明。還有麼。師住<placeName key="CN0360427T01AA">開先</placeName>。凡十八年。而化
+        <lb ed="X" n="0418c02"/>世。長老作箇證明。還有麼。師住<placeName key="PL000000018959">開先</placeName>。凡十八年。而化
         <lb ed="X" n="0418c03"/>於本山。嫡嗣<persName key="A009839">雲居元</persName>也。別具。</p>
+    
+    <linkGrp>
+        <link targets="#0418b05 #0418b05"/>
+        <ptr target="#A020662" type="person"/>  
+        <ptr target="#PL000000019762" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0418b05 #0418b08"/>
+        <ptr target="#A020662" type="person"/> 
+        <ptr target="#A015613" type="person"/> 
+        <ptr target="#PL000000029435" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0418b09 #0418b14"/>
+        <ptr target="#A020662" type="person"/> 
+        <ptr target="#A000885" type="person"/> 
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0418b14 #0418c03"/>
+        <ptr target="#A020662" type="person"/>  
+        <ptr target="#PL000000018959" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0418c03 #0418c03"/>
+        <ptr target="#A020662" type="person"/>  
+        <ptr target="#A009839" type="person"/>
+    </linkGrp>
 </div>

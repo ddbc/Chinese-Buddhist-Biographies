@@ -1,26 +1,31 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0734a23shiXuanYi">
-    <anchor n="T.50.2061.0734a23"/><head><date from-iso="0618-06-21" key="j19469512052491" to-iso="0907-06-06">唐</date>京兆華嚴寺<persName key="A000295">玄逸</persName>傳</head><p>
+    <lb ed="T" n="0734a23"/><anchor n="T.50.2061.0734a23"/><head><date from-iso="0618-06-21" key="j19469512052491" to-iso="0907-06-06">唐</date><placeName key="PL000000042515">京兆華嚴寺</placeName><persName key="A000295">玄逸</persName>傳</head><p>
 <lb ed="T" n="0734a24"/><persName key="A000295">釋玄逸</persName>，姓竇氏，即<persName key="A000291">玄宗神武皇帝</persName>從外父也。
-<lb ed="T" n="0734a25"/>繁柯懿葉，莫我與京，昆友姪弟，多升朝列，或
-<lb ed="T" n="0734a26"/>以靡麗自持，或以官榮相抗。<persName key="A000295">逸</persName>乃風神秀
-<lb ed="T" n="0734a27"/>朗，蕭灑拔俗，悟色空之迹，到真寂之場，糠
-            <lb ed="T" n="0734a28"/>粃膏粱，么麼軒冕。既而形廁緇伍，學追上
+        <lb ed="T" n="0734a25"/>繁柯懿葉<ptr target="#n719"/>，莫我與京，昆友姪弟，多升朝列，或
+        <lb ed="T" n="0734a26"/>以靡麗<ptr target="#n720"/>自持，或以官榮相抗。<persName key="A000295">逸</persName>乃風神<ptr target="#n713"/>秀
+        <lb ed="T" n="0734a27"/>朗，蕭灑<ptr target="#n723"/>拔俗，悟色空之迹，到真寂<ptr target="#n724"/>之場，糠
+        <lb ed="T" n="0734a28"/>粃膏粱<ptr target="#n725"/>，幺麼軒冕<ptr target="#n726"/>。既而形廁緇伍，學追上
 <lb ed="T" n="0734a29"/>流，祕藏香龕，披閱通理。一日，喟然興歎曰：「<pb ed="T" n="0734b" xml:id="T50.2061.0734b"/>
-<lb ed="T" n="0734b01"/>去聖日遠，編簡倒錯，或止存夏五，或濫在
-            <lb ed="T" n="0734b02"/>魯魚，加以筆<anchor xml:id="beg0734sgsz1"/>札<anchor xml:id="end0734sgsz1"/>偷行，校讎喪句。若<anchor xml:id="beg0734sgsz2"/>犍<anchor xml:id="end0734sgsz2"/>度
+        <lb ed="T" n="0734b01"/>去聖日遠，編簡倒錯，或止存夏五<ptr target="#n727"/>，或濫在
+        <lb ed="T" n="0734b02"/>魯魚<ptr target="#n728"/>，加以筆<anchor xml:id="beg0734sgsz1"/>札<anchor xml:id="end0734sgsz1"/>偷行，校讎喪句。若<anchor xml:id="beg0734sgsz2"/>犍<anchor xml:id="end0734sgsz2"/>度<ptr target="#n78"/>
 <lb ed="T" n="0734b03"/>失其夾葉，猶《禮記》脫錯後先，日見乖訛，迷
-        <lb ed="T" n="0734b04"/>而不復，有一于此，彝倫攸斁！」遂據古今
+        <lb ed="T" n="0734b04"/>而不復，有一于此，彝倫攸斁<ptr target="#n729"/>！」遂據古今
 <lb ed="T" n="0734b05"/>所撰目錄，及勘諸經，披文已浩於几案，積
-<lb ed="T" n="0734b06"/>卷仍溢於堂宇。字舛者詳義而綸之，品差
-<lb ed="T" n="0734b07"/>者賾理而綱之。星霜累遷，功業克著。非夫
-        <lb ed="T" n="0734b08"/>心斷金石、志堅氷蘖者，曷登此哉！既綜結
+        <lb ed="T" n="0734b06"/>卷仍溢於堂宇。字舛者詳義而綸之，品<ptr target="#n79"/>差
+            <lb ed="T" n="0734b07"/>者賾<ptr target="#n331"/>理而綱之。星霜累遷，功業克<ptr target="#n560"/>著。非夫
+        <lb ed="T" n="0734b08"/>心斷金石、志堅氷蘖者，曷登此哉？既綜結
 <lb ed="T" n="0734b09"/>其科目，諒條而不紊也，都為三十卷，號《釋
-<lb ed="T" n="0734b10"/>教廣品曆章》焉。考其大小乘經律論，并東西
-<lb ed="T" n="0734b11"/>土賢聖集，共一千八十部，以<placeName key="CN0140881Z15AA">蒲州</placeName>、<placeName key="CN0410782Z09AA">共城</placeName>二邑
+        <lb ed="T" n="0734b10"/>教廣品曆章》<ptr target="#n730"/>焉。考其大小乘經律論，并東西
+<lb ed="T" n="0734b11"/>土賢聖集，共一千八十部，以<placeName key="PL000000005199">蒲州</placeName>、<placeName key="PL000000024500">共城</placeName>二邑
 <lb ed="T" n="0734b12"/>紙書，校知多少，縛定品次，俾後世無悶焉。
-<lb ed="T" n="0734b13"/>其章頗成倫要，備預不虞，古之善制。有<placeName key="CN0371481Z03AA">樂
+<lb ed="T" n="0734b13"/>其章頗成倫要，備預不虞，古之善制。有<placeName key="PL000000022257">樂
 <lb ed="T" n="0734b14"/>陵</placeName><persName key="A009382">尹靈琛</persName>為序。<persName key="A000295">逸</persName>後不知所終。</p>
+    <linkGrp>
+        <link targets="#0734a23 #0734a23"/>
+        <ptr target="#A000295" type="person"/>
+        <ptr target="#PL000000042515" type="place"/>
+    </linkGrp>
     <linkGrp>
         <link targets="#0734b13 #0734b14"/>
         <ptr target="#A009382" type="person"/>

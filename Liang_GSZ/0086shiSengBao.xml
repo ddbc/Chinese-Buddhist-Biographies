@@ -1,31 +1,31 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0369b14shiSengBao">
-	<p><anchor n="T.50.2059.0369b14"/><lb ed="T" n="0369b14"/><persName key="A002230">釋僧苞</persName>，<placeName key="CN0610112Z07AA">京兆</placeName>人，少在<placeName key="CN0610000E01AA">關</placeName>受學<persName key="A001583">什公</persName>。<date key="j18746411875585" notAfter-iso="0423" notBefore-iso="0420">宋永初<lb ed="T" n="0369b15"/>中</date>遊<placeName key="CN0341126Z16AA">北徐</placeName>，入<placeName key="CN0341003T01AA">黃山精舍</placeName>。復造<persName key="A002229">靜</persName>、<persName key="A002911">定</persName><!--??不確定是否為慧定法師-->二師進<lb ed="T" n="0369b16"/>業。仍於彼建三七普賢齋懺。至<ptr target="fn16"/>第七日，<lb ed="T" n="0369b17"/>有白鵠飛來，集普賢座前，至中行香畢乃<lb ed="T" n="0369b18"/>去。至二十一日將暮，又有黃衣四人，繞塔<lb ed="T" n="0369b19"/>數匝，忽然不見。<persName key="A002230">苞</persName>少有志節，加復祥感，故<lb ed="T" n="0369b20"/>匪懈之情，因之彌厲。日誦萬餘言經，常禮<lb ed="T" n="0369b21"/>數百拜佛。</p>
-	<p>後東下<placeName key="CN0320106Z06AA">京師</placeName>，正值<placeName key="CN0320116T04AA">祇洹寺</placeName>發講，<lb ed="T" n="0369b22"/>法徒雲聚，士庶駢席。<persName key="A002230">苞</persName>既初至，人未有識<lb ed="T" n="0369b23"/>者，迺乘驢往看。衣服垢弊，貌有風塵，堂內<lb ed="T" n="0369b24"/>既迮，坐驢<ptr target="fn17"/>韀於戶外。高座<ptr target="fn18"/>出題適竟，<persName key="A002230">苞</persName>始<lb ed="T" n="0369b25"/>欲厝言，法師便問：「客僧何名？」答云：「名<persName key="A002230">苞</persName>。」又<lb ed="T" n="0369b26"/>問：「盡何所？」<persName key="A002230">苞</persName>答<ptr target="fn19"/>曰：「高座之人，亦可<persName key="A002230">苞</persName>耳。」迺<lb ed="T" n="0369b27"/>致問數番，皆是先達思力所不逮，高座無<lb ed="T" n="0369b28"/>以抗其辭，遂遜退而止。時<persName key="A002872">王弘</persName>、<persName key="A002873">范泰</persName>聞<persName key="A002230">苞</persName>論<lb ed="T" n="0369b29"/>議，歎其才思，請與交言。仍屈住<placeName key="CN0320116T04AA">祇洹寺</placeName>，<lb ed="T" n="0369c01"/>開講眾經，法化相續。<ptr target="fn20"/><placeName key="CN0411626Z27AA">陳郡</placeName><persName key="A001869">謝靈運</persName>聞風而<lb ed="T" n="0369c02"/>造焉，及見<persName key="A002230">苞</persName>神氣，彌深歎伏。或問曰：「<persName key="A001869">謝公</persName><lb ed="T" n="0369c03"/>何如？」<persName key="A002230">苞</persName>曰：「<persName key="A001869">靈運</persName>才有餘，<ptr target="fn21"/>而識不足，抑不免<lb ed="T" n="0369c04"/>其身矣。」</p>
+	<p><anchor n="T.50.2059.0369b14"/><lb ed="T" n="0369b14"/><persName key="A002230">釋僧苞</persName>，<placeName key="PL000000042393">京兆</placeName>人，少在<placeName key="PL000000042002">關</placeName>受學<persName key="A001583">什公</persName>。<date key="j18746411875585" notAfter-iso="0423" notBefore-iso="0420">宋永初<lb ed="T" n="0369b15"/>中</date>遊<placeName key="PL000000015820">北徐</placeName>，入<placeName key="PL000000015603">黃山精舍</placeName>。復造<persName key="A002229">靜</persName>、<persName key="A002911">定</persName><!--??不確定是否為慧定法師-->二師進<lb ed="T" n="0369b16"/>業。仍於彼建三七普賢齋懺。至<ptr target="fn16"/>第七日，<lb ed="T" n="0369b17"/>有白鵠飛來，集普賢座前，至中行香畢乃<lb ed="T" n="0369b18"/>去。至二十一日將暮，又有黃衣四人，繞塔<lb ed="T" n="0369b19"/>數匝，忽然不見。<persName key="A002230">苞</persName>少有志節，加復祥感，故<lb ed="T" n="0369b20"/>匪懈之情，因之彌厲。日誦萬餘言經，常禮<lb ed="T" n="0369b21"/>數百拜佛。</p>
+	<p>後東下<placeName key="PL000000008976">京師</placeName>，正值<placeName key="PL000000009267">祇洹寺</placeName>發講，<lb ed="T" n="0369b22"/>法徒雲聚，士庶駢席。<persName key="A002230">苞</persName>既初至，人未有識<lb ed="T" n="0369b23"/>者，迺乘驢往看。衣服垢弊，貌有風塵，堂內<lb ed="T" n="0369b24"/>既迮，坐驢<ptr target="fn17"/>韀於戶外。高座<ptr target="fn18"/>出題適竟，<persName key="A002230">苞</persName>始<lb ed="T" n="0369b25"/>欲厝言，法師便問：「客僧何名？」答云：「名<persName key="A002230">苞</persName>。」又<lb ed="T" n="0369b26"/>問：「盡何所？」<persName key="A002230">苞</persName>答<ptr target="fn19"/>曰：「高座之人，亦可<persName key="A002230">苞</persName>耳。」迺<lb ed="T" n="0369b27"/>致問數番，皆是先達思力所不逮，高座無<lb ed="T" n="0369b28"/>以抗其辭，遂遜退而止。時<persName key="A002872">王弘</persName>、<persName key="A002873">范泰</persName>聞<persName key="A002230">苞</persName>論<lb ed="T" n="0369b29"/>議，歎其才思，請與交言。仍屈住<placeName key="PL000000009267">祇洹寺</placeName>，<lb ed="T" n="0369c01"/>開講眾經，法化相續。<ptr target="fn20"/><placeName key="PL000000026089">陳郡</placeName><persName key="A001869">謝靈運</persName>聞風而<lb ed="T" n="0369c02"/>造焉，及見<persName key="A002230">苞</persName>神氣，彌深歎伏。或問曰：「<persName key="A001869">謝公</persName><lb ed="T" n="0369c03"/>何如？」<persName key="A002230">苞</persName>曰：「<persName key="A001869">靈運</persName>才有餘，<ptr target="fn21"/>而識不足，抑不免<lb ed="T" n="0369c04"/>其身矣。」</p>
 	<p><persName key="A002230">苞</persName>嘗於路行見六劫被錄，<persName key="A002230">苞</persName>為說<lb ed="T" n="0369c05"/>法，勸念觀世音。群劫以臨危之際，念念懇<lb ed="T" n="0369c06"/>切。俄而送吏飲酒洪醉，劫解枷得免焉。<date from-iso="0424" key="j18761761886925" to-iso="0454">宋<lb ed="T" n="0369c07"/>元嘉中</date>卒。</p>
-	<p>時<ptr target="fn22"/><placeName key="CN0320104T02AA">瓦官</placeName>又有<persName key="A002912">釋法和</persName>者，亦精通<lb ed="T" n="0369c08"/>數論，致譽當時，為<persName key="A002043">宋高祖</persName>所重，勅為僧主<lb ed="T" n="0369c09"/>焉。</p>
+	<p>時<ptr target="fn22"/><placeName key="PL000000008823">瓦官</placeName>又有<persName key="A002912">釋法和</persName>者，亦精通<lb ed="T" n="0369c08"/>數論，致譽當時，為<persName key="A002043">宋高祖</persName>所重，勅為僧主<lb ed="T" n="0369c09"/>焉。</p>
 	<linkGrp>
 		<link targets="#0369b14 #0369b15"/>
 		<ptr target="#A002230" type="person"/>
-		<ptr target="#CN0341003T01AA" type="place"/>
+		<ptr target="#PL000000015603" type="place"/>
 		<ptr target="#j18746411875585" type="time"/>
 	</linkGrp>
 	<linkGrp>
 		<link targets="#0369c07 #0369c07"/>
 		<ptr target="#A002230" type="person"/>
-		<ptr target="#CN0320116T04AA" type="place"/>
+		<ptr target="#PL000000009267" type="place"/>
 		<ptr target="#j18761761886925" type="time"/>
 	</linkGrp>
 	<linkGrp>
 		<link targets="#0369b14 #0369b14"/>
 		<ptr target="#A002230" type="person"/>
-		<ptr target="#CN0610112Z07AA" type="place"/>
+		<ptr target="#PL000000042393" type="place"/>
 	</linkGrp>
 	<linkGrp>
 		<link targets="#0369b14 #0369b14"/>
 		<ptr target="#A002230" type="person"/>
 		<ptr target="#A001583" type="person"/>
-		<ptr target="#CN0610000E01AA" type="place"/>
+		<ptr target="#PL000000042002" type="place"/>
 	</linkGrp>
 	<linkGrp>
 		<link targets="#0369b14 #0369b16"/>
@@ -44,19 +44,19 @@
 		<ptr target="#A002230" type="person"/>
 		<ptr target="#A002872" type="person"/>
 		<ptr target="#A002873" type="person"/>
-		<ptr target="#CN0320116T04AA" type="place"/>
+		<ptr target="#PL000000009267" type="place"/>
 	</linkGrp>
 	<linkGrp>
 		<link targets="#0369c01 #0369c03"/>
 		<ptr target="#A002230" type="person"/>
 		<ptr target="#A001869" type="person"/>
-		<ptr target="#CN0320116T04AA" type="place"/>
+		<ptr target="#PL000000009267" type="place"/>
 	</linkGrp>
 	<linkGrp>
 		<link targets="#0369c07 #0369c09"/>
 		<ptr target="#A002230" type="person"/>
 		<ptr target="#A002912" type="person"/>
-		<ptr target="#CN0320116T04AA" type="place"/>
+		<ptr target="#PL000000009267" type="place"/>
 	</linkGrp>
 	<linkGrp>
 		<link targets="#0369c07 #0369c09"/>

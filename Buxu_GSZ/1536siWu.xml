@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0375b20siWu">
     <head><lb ed="X" n="0375b20"/>　　　　<persName key="A014401">思悟</persName>．<persName key="A019705">慧舟</persName>傳</head>
-    <p><anchor n="X.77.1524.0375b21"/><lb ed="X" n="0375b21"/><persName key="A014401">思悟</persName>。<placeName key="CN0330103Z16AA">錢塘</placeName>人。侍<persName key="A001832">慈雲</persName>最久。深達觀道。甞以呪水愈人
+    <p><anchor n="X.77.1524.0375b21"/><lb ed="X" n="0375b21"/><persName key="A014401">思悟</persName>。<placeName key="PL000000011516">錢塘</placeName>人。侍<persName key="A001832">慈雲</persName>最久。深達觀道。甞以呪水愈人
         <lb ed="X" n="0375b22"/>疾。求者如市。當課誦時。身及奉像。俱出舍利。<date from-iso="1025-02-07" to-iso="1026-01-27" key="j20954712095825">天聖三<lb ed="X" n="0375b23"/>年</date>。<persName key="A001832">慈雲</persName>欲以<persName key="A001301">智者</persName>教卷求入藏。<persName key="A016950">文穆王公</persName>。將聞之朝。
         <lb ed="X" n="0375b24"/><persName key="A014401">悟</persName>曰。此非甞事也。小子將助之。乃繪千手大悲像。課
         <lb ed="X" n="0375c01"/>呪以誓曰。事果遂當焚軀為報。會<ref type="person" target="#A016950">公</ref>薨。<persName key="A014401">悟</persName>呪益精。<date from-iso="1026-01-28" to-iso="1027-02-14" key="j20958262096208">明<lb ed="X" n="0375c02"/>年</date>得旨。師喜甚。積薪為樓。白<persName key="A001832">慈雲</persName>求火種。<persName key="A001832">雲</persName>于鑪中
@@ -11,10 +11,10 @@
         <lb ed="X" n="0375c06"/>徒。荷法捐軀。其[舀*炎]赫赫。其樂愉愉。逮火將滅。儼如加
         <lb ed="X" n="0375c07"/>趺。逮骨後碎。粲如圓珠。信古應有。今也則無。芳年三
         <lb ed="X" n="0375c08"/>十真哉丈夫。</p><p>
-            <lb ed="X" n="0375c09"/><persName key="A019705">慧舟</persName>。<placeName key="CN0330226Z08AA">丹丘</placeName>人。棄家入道。勤行四三昧。<date from-iso="1023-01-31" to-iso="1025-07-20" key="j20947332095634">天聖初</date>。結同學
+            <lb ed="X" n="0375c09"/><persName key="A019705">慧舟</persName>。<placeName key="PL000000012387">丹丘</placeName>人。棄家入道。勤行四三昧。<date from-iso="1023-01-31" to-iso="1025-07-20" key="j20947332095634">天聖初</date>。結同學
         <lb ed="X" n="0375c10"/>十人。行大悲行法者三年。結十四人。行普賢行法者
         <lb ed="X" n="0375c11"/>又三年。初入期。誓於像前曰。倘此三昧有成。當焚軀
-            <lb ed="X" n="0375c12"/>以效供養。行法既周。回<ref type="place" target="#CN0330226Z08AA">故里</ref>。求證于<persName key="A000252">神炤</persName>。<persName key="A000252">炤</persName>欲全其
+            <lb ed="X" n="0375c12"/>以效供養。行法既周。回<ref type="place" target="#PL000000012387">故里</ref>。求證于<persName key="A000252">神炤</persName>。<persName key="A000252">炤</persName>欲全其
             <lb ed="X" n="0375c13"/>重願。諭道俗。輸香木成大[卄/積]。仲夏晦日。<persName key="A000252">炤</persName>囑之曰。法
         <lb ed="X" n="0375c14"/>華尊施。爾克修之。梵網明晦。爾克遵之。惟繫心法界。
         <lb ed="X" n="0375c15"/>身如火如。則一聚之燼。乃三昧之蘊。喜見精進。以奉
@@ -25,7 +25,7 @@
     <linkGrp>
         <link targets="#0375b21 #0375b21"/>
         <ptr target="#A014401" type="person"/>
-        <ptr target="#CN0330103Z16AA" type="place"/>        
+        <ptr target="#PL000000011516" type="place"/>        
     </linkGrp>
     <linkGrp>
         <link targets="#0375b22 #0375c01"/>
@@ -43,7 +43,7 @@
     <linkGrp>
         <link targets="#0375c09 #0375c09"/>
         <ptr target="#A019705" type="person"/>
-        <ptr target="#CN0330226Z08AA" type="place"/>  
+        <ptr target="#PL000000012387" type="place"/>  
     </linkGrp>
     <linkGrp>
         <link targets="#0375c09 #0375c11"/>
@@ -54,6 +54,6 @@
         <link targets="#0375c12 #0375c18"/>
         <ptr target="#A000252" type="person"/>
         <ptr target="#A019705" type="person"/>
-        <ptr target="#CN0330226Z08AA" type="place"/>  
+        <ptr target="#PL000000012387" type="place"/>  
     </linkGrp>
 </div>

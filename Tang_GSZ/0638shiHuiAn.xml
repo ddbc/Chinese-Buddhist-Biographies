@@ -1,15 +1,15 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0664a08shiHuiAn">
-    <p><anchor n="T.50.2060.0664a08"/><lb ed="T" n="0664a08"/><persName key="A007002">釋慧岸</persName>者。未詳何人。面鼻似胡。言同蜀漢。<lb ed="T" n="0664a09"/>往來市里默言無准。人不之異。<date key="j19475521947905" from-iso="0620-02-12" to-iso="0621-01-30">武德三年</date>。<lb ed="T" n="0664a10"/>科租至<placeName key="CN0621126Z15AA">岷州</placeName>。程期甚促。蜀人初不聞。謂在<lb ed="T" n="0664a11"/>天外。人有僦購科索萬錢。轉更驚急。謂往<lb ed="T" n="0664a12"/>鬼國被去者。皆為死計。散費資糧。為不行<lb ed="T" n="0664a13"/>之計。<persName key="A007002">岸</persName>於<placeName key="CN0510114Z06AA">新繁市</placeName>大笑曰。但去必見歡喜。<lb ed="T" n="0664a14"/>捉負租拗折數枚。眾人去至鹿頭道逢勅<lb ed="T" n="0664a15"/>停。此前言之驗也。<date key="j19486441948998" from-iso="0623-02-08" to-iso="0624-01-28">武德六年</date>。輒復悲泣不<lb ed="T" n="0664a16"/>能自禁。曰誰能見煩惱因。沒水求死。眾人<lb ed="T" n="0664a17"/>爭入水接<persName key="A007002">之</persName>。乃端坐水底已卒。卒後其年<lb ed="T" n="0664a18"/>亢旱不收。疫死眾矣。</p>
+    <p><anchor n="T.50.2060.0664a08"/><lb ed="T" n="0664a08"/><persName key="A007002">釋慧岸</persName>者。未詳何人。面鼻似胡。言同蜀漢。<lb ed="T" n="0664a09"/>往來市里默言無准。人不之異。<date key="j19475521947905" from-iso="0620-02-12" to-iso="0621-01-30">武德三年</date>。<lb ed="T" n="0664a10"/>科租至<placeName key="PL000000046252">岷州</placeName>。程期甚促。蜀人初不聞。謂在<lb ed="T" n="0664a11"/>天外。人有僦購科索萬錢。轉更驚急。謂往<lb ed="T" n="0664a12"/>鬼國被去者。皆為死計。散費資糧。為不行<lb ed="T" n="0664a13"/>之計。<persName key="A007002">岸</persName>於<placeName key="PL000000034844">新繁市</placeName>大笑曰。但去必見歡喜。<lb ed="T" n="0664a14"/>捉負租拗折數枚。眾人去至鹿頭道逢勅<lb ed="T" n="0664a15"/>停。此前言之驗也。<date key="j19486441948998" from-iso="0623-02-08" to-iso="0624-01-28">武德六年</date>。輒復悲泣不<lb ed="T" n="0664a16"/>能自禁。曰誰能見煩惱因。沒水求死。眾人<lb ed="T" n="0664a17"/>爭入水接<persName key="A007002">之</persName>。乃端坐水底已卒。卒後其年<lb ed="T" n="0664a18"/>亢旱不收。疫死眾矣。</p>
     <linkGrp>
         <link targets="#0664a09 #0664a10"/>
         <ptr target="#A007002" type="person"/>
-        <ptr target="#CN0621126Z15AA" type="place"/>
+        <ptr target="#PL000000046252" type="place"/>
         </linkGrp>
     <linkGrp>
         <link targets="#0664a13 #0664a14"/>
         <ptr target="#A007002" type="person"/>
-        <ptr target="#CN0510114Z06AA" type="place"/>
+        <ptr target="#PL000000034844" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0664a15 #0664a18"/>

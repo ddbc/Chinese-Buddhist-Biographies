@@ -3,17 +3,17 @@
     <anchor n="T.50.2061.0891c05"/><head><date from-iso="0618-06-21" key="j19469512052491" to-iso="0907-06-06">唐</date>京兆<persName key="A008834">歡喜</persName>傳（<persName key="A013873">無側</persName>）</head><p>
 <lb ed="T" n="0891c06"/><persName key="A008834">釋歡喜</persName>，不知何許人也。性無羈束，慈忍寬
 <lb ed="T" n="0891c07"/>和，人未甞見其慍色，故號之焉。觀國之光，
-<lb ed="T" n="0891c08"/>至于<placeName key="CN0610102Z07AA">京輦</placeName>，貴達下民延之，少見違拒。言語
+<lb ed="T" n="0891c08"/>至于<placeName key="PL000000042189">京輦</placeName>，貴達下民延之，少見違拒。言語
 <lb ed="T" n="0891c09"/>不常，事迹難測。<persName key="A001671">德宗皇帝</persName>聞而重之。<date key="j20074402007823" notAfter-iso="0785-02-17" notBefore-iso="0784-01-31">興元
-<lb ed="T" n="0891c10"/>十二年</date><!--興元無十二年,應為興元一年-->勅<placeName key="CN0610104T36AA">永泰寺</placeName>置戒壇度僧，時<persName key="A008834">喜</persName>與保
+<lb ed="T" n="0891c10"/>十二年</date><!--興元無十二年,應為興元一年-->勅<placeName key="PL000000042327">永泰寺</placeName>置戒壇度僧，時<persName key="A008834">喜</persName>與保
 <lb ed="T" n="0891c11"/>唐禪宗，別勅令受戒，緇伍榮之。至<date key="j20076052007605" when-iso="0784-07-14">其年六
-<lb ed="T" n="0891c12"/>月十九日</date>，卒于<placeName key="CN0610104T36AA">本寺</placeName>焉。有會稽<placeName key="CN0330621T05AA">雲門寺</placeName><persName key="A013873">釋
-<lb ed="T" n="0891c13"/>無側</persName>者，外國人，未知<placeName key="TJGB00000Z08AA">葱嶺</placeName>南北生也。若胡
+<lb ed="T" n="0891c12"/>月十九日</date>，卒于<placeName key="PL000000042327">本寺</placeName>焉。有會稽<placeName key="PL000000013295">雲門寺</placeName><persName key="A013873">釋
+<lb ed="T" n="0891c13"/>無側</persName>者，外國人，未知<placeName key="PL000000049641">葱嶺</placeName>南北生也。若胡
 <lb ed="T" n="0891c14"/>若梵，烏可分諸？<date key="j20059942007439" notAfter-iso="0784" notBefore-iso="0780">建中</date>中越磧東遊，得意則
-<lb ed="T" n="0891c15"/>止，度其冬夏。後棲越溪<placeName key="CN0330621T05AA">雲門寺</placeName>修道。然善
+<lb ed="T" n="0891c15"/>止，度其冬夏。後棲越溪<placeName key="PL000000013295">雲門寺</placeName>修道。然善
 <lb ed="T" n="0891c16"/>體人意，號<persName key="A013873">利智梵僧</persName>焉。相傳則是<persName key="A013874">康寶月道
 <lb ed="T" n="0891c17"/>人</persName>後身也，必甞以事徵驗而知。與名德相
-<lb ed="T" n="0891c18"/>遇，談話終夕。<placeName key="CN0330502Z19AA">吳興</placeName><persName key="A008833">皎然</persName>題<persName key="A013873">側</persName>房壁云：「越山千
+<lb ed="T" n="0891c18"/>遇，談話終夕。<placeName key="PL000000013012">吳興</placeName><persName key="A008833">皎然</persName>題<persName key="A013873">側</persName>房壁云：「越山千
 <lb ed="T" n="0891c19"/>萬雲門絕，西僧貌古還名月。清朝掃石行道
 <lb ed="T" n="0891c20"/>歸，林下眠禪看松雪。」其高邈之狀在晝辭
 <lb ed="T" n="0891c21"/>焉。</p>
@@ -21,24 +21,24 @@
         <link targets="#0891c08 #0891c09"/>
         <ptr target="#A008834" type="person"/>
         <ptr target="#A001671" type="person"/>
-        <ptr target="#CN0610102Z07AA" type="place"/>
+        <ptr target="#PL000000042189" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0891c09 #0891c11"/>
         <ptr target="#A008834" type="person"/>
-        <ptr target="#CN0610104T36AA" type="place"/>
+        <ptr target="#PL000000042327" type="place"/>
         <ptr target="#j20074402007823" type="time"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0891c11 #0891c12"/>
         <ptr target="#A008834" type="person"/>
-        <ptr target="#CN0610104T36AA" type="place"/>
+        <ptr target="#PL000000042327" type="place"/>
         <ptr target="#j20076052007605" type="time"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0891c14 #0891c15"/>
         <ptr target="#A013873" type="person"/>
-        <ptr target="#CN0330621T05AA" type="place"/>
+        <ptr target="#PL000000013295" type="place"/>
         <ptr target="#j20059942007439" type="time"/>
     </linkGrp>
     <linkGrp>

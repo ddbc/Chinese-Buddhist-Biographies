@@ -1,19 +1,24 @@
 <?xml version='1.0' encoding='utf-8'?>
-<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0760b07shiYiFu">
-    <anchor n="T.50.2061.0760b07"/><head><date from-iso="0618-06-21" key="j19469512052491" to-iso="0907-06-06">唐</date><placeName key="CN0610113T05AA">京兆慈恩寺</placeName><persName key="A008784">義福</persName>傳（<persName key="A003666">行思</persName>）</head><p>
-        <lb ed="T" n="0760b08"/><persName key="A008784">釋義福</persName>，姓姜氏，<placeName key="CN0140430Z22AA">潞州銅鞮</placeName>人也。幼慕空門，
-<lb ed="T" n="0760b09"/>黍累世務，初止<placeName key="CN0610122T03AA">藍田化感寺</placeName>，處方丈之室
-        <lb ed="T" n="0760b10"/>凡二十餘年，未甞出房宇之外。後隷<placeName key="CN0610113T05AA">京師慈
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0760b02shiYiFu">
+    <lb n="0760b02" ed="T"/><anchor n="T.50.2061.0760b02"/><head><anchor xml:id="beg0760sgsz1"/>宋<anchor xml:id="end0760sgsz1"/>高僧傳卷第九</head>
+    <lb n="0760b03" ed="T"/>
+    <lb n="0760b04" ed="T"/><byline n="Author"><anchor xml:id="beg0760b01"/>宋左街天壽寺通慧大師
+        <lb n="0760b05" ed="T"/>賜紫沙門贊寧等奉　勅撰<anchor xml:id="end0760b01"/></byline>
+    <lb n="0760b06" ed="T"/><head>習禪篇第三之二（正傳十四人附見四人）</head>
+    <lb n="0760b07" ed="T"/><head><date from-iso="0618-06-21" key="j19469512052491" to-iso="0907-06-06">唐</date><placeName key="PL000000042410">京兆慈恩寺</placeName><persName key="A008784">義福</persName>傳（<persName key="A003666">行思</persName>）</head><p>
+        <lb ed="T" n="0760b08"/><persName key="A008784">釋義福</persName>，姓姜氏，<placeName key="PL000000004308">潞州銅鞮</placeName>人也。幼慕空門，
+<lb ed="T" n="0760b09"/>黍累世務，初止<placeName key="PL000000042560">藍田化感寺</placeName>，處方丈之室
+        <lb ed="T" n="0760b10"/>凡二十餘年，未甞出房宇之外。後隷<placeName key="PL000000042410">京師慈
             <lb ed="T" n="0760b11"/>恩寺</placeName>，道望高峙，傾動物心。<date from-iso="0723-02-14" key="j19851741985528" to-iso="0724-02-03">開元十一年</date>，從<ref type="person" target="#A000291">駕</ref>
-<lb ed="T" n="0760b12"/>往<placeName key="CN0410302Z03AA">東都</placeName>，經<placeName key="CN0140881Z15AA">蒲</placeName>、<placeName key="CN0411282Z54AA">虢</placeName>二州，刺史及官吏士女皆
+<lb ed="T" n="0760b12"/>往<placeName key="PL000000023581">東都</placeName>，經<placeName key="PL000000005199">蒲</placeName>、<placeName key="PL000000025169">虢</placeName>二州，刺史及官吏士女皆
         <lb ed="T" n="0760b13"/>齎旛花迎<ref type="person" target="#A008784">之</ref>，所在途路充塞，拜禮紛紛，瞻
 <lb ed="T" n="0760b14"/>望無厭。以<date from-iso="0732-02-05" key="j19884521988806" to-iso="0733-01-24">二十年</date>卒，有制<app type="cb-app" xml:id="begd1e13918"/>諡<anchor xml:id="endd1e13918"/>號曰<persName key="A008784">大智禪
-<lb ed="T" n="0760b15"/>師</persName>，葬<anchor xml:id="beg0760002"/>于<anchor xml:id="end0760002"/><placeName key="CN0410329Z15AA">伊闕</placeName>之北。送葬者數萬人。中書侍
+<lb ed="T" n="0760b15"/>師</persName>，葬<anchor xml:id="beg0760002"/>于<anchor xml:id="end0760002"/><placeName key="PL000000023845">伊闕</placeName>之北。送葬者數萬人。中書侍
 <lb ed="T" n="0760b16"/>郎<persName key="A010205">嚴挺之</persName>躬行喪服，若弟子焉，又撰《碑》文。
 <lb ed="T" n="0760b17"/><persName key="A009582">神秀</persName>禪門之傑，雖有禪行，得帝王重之無
         <lb ed="T" n="0760b18"/>以加者，而未甞聚徒開法也。洎乎<persName key="A009319">普寂</persName>始
-        <lb ed="T" n="0760b19"/>於<ref type="place" target="#CN0610102Z07AA #CN0410302Z03AA">都城</ref>傳教二十餘載，人皆仰<ref type="person" target="#A008784">之</ref>。初<persName key="A008784">福</persName>往
-<lb ed="T" n="0760b20"/><placeName key="CN0410302Z03AA">東洛</placeName>，召其徒戒其終期，兵部侍郎<persName key="A010207">張均</persName>、太
+        <lb ed="T" n="0760b19"/>於<ref type="place" target="#PL000000042189 #PL000000023581">都城</ref>傳教二十餘載，人皆仰<ref type="person" target="#A008784">之</ref>。初<persName key="A008784">福</persName>往
+<lb ed="T" n="0760b20"/><placeName key="PL000000023581">東洛</placeName>，召其徒戒其終期，兵部侍郎<persName key="A010207">張均</persName>、太
 <lb ed="T" n="0760b21"/>尉<persName key="A010069">房琯</persName>、禮部侍郎<persName key="A010209">韋陟</persName>常所信重，是日皆預
         <lb ed="T" n="0760b22"/>造焉。<persName key="A008784">福</persName>乃升堂，為門人演說，且曰：「<ref type="person" target="#A008784">吾</ref>沒日
         <lb ed="T" n="0760b23"/>昃，當為此決別耳。」久之，<persName key="A010207">張</persName>謂<persName key="A010069">房</persName>曰：「<ref type="person" target="#A010207">某</ref>夙歲
@@ -23,41 +28,41 @@
 <lb ed="T" n="0760b27"/>惜哉！」乃提<persName key="A010069">房</persName>手曰：「必為中興名臣，其勉之！」
         <lb ed="T" n="0760b28"/>言訖而終。後<persName key="A010207">張均</persName>陷<ref type="person" target="#A008454">賊</ref>庭也，受其偽官，而
         <lb ed="T" n="0760b29"/><persName key="A010069">房</persName>翼戴<ref type="person" target="#A000291 #A004378">兩朝</ref>，畢立大節，皆終<persName key="A008784">福</persName>之言矣。又<pb ed="T" n="0760c" xml:id="T50.2061.0760c"/>
-<lb ed="T" n="0760c01"/><persName key="A003666">釋行思</persName>，姓劉氏，<placeName key="CN0360802Z12AA">廬陵</placeName>人也。濡潤厥躬，貞諒
+<lb ed="T" n="0760c01"/><persName key="A003666">釋行思</persName>，姓劉氏，<placeName key="PL000000019384">廬陵</placeName>人也。濡潤厥躬，貞諒
 <lb ed="T" n="0760c02"/>其性。出塵之後，納戒已還，破觚求圓，斵雕
-        <lb ed="T" n="0760c03"/>為朴，厥志天然也。往<placeName key="CN0440222Z14AA">韶陽</placeName>見<persName key="A001719">大鑒禪師</persName>，一
+        <lb ed="T" n="0760c03"/>為朴，厥志天然也。往<placeName key="PL000000030617">韶陽</placeName>見<persName key="A001719">大鑒禪師</persName>，一
 <lb ed="T" n="0760c04"/>言蔽斷，猶擊蒙焉。既了本心，地祇迭告還，
-<lb ed="T" n="0760c05"/>復<placeName key="CN0360802Z11AA">吉州</placeName>闡化，四方禪客繁擁其堂。<date key="j19917121991712" when-iso="0741-01-08">開元二
-    <lb ed="T" n="0760c06"/>十八年十二月十三日</date>入滅于<ref type="place" target="#CN0360802Z12AA">本生地</ref>，勅<app type="cb-app" xml:id="begd1e13989"/>諡<anchor xml:id="endd1e13989"/>
+<lb ed="T" n="0760c05"/>復<placeName key="PL000000019383">吉州</placeName>闡化，四方禪客繁擁其堂。<date key="j19917121991712" when-iso="0741-01-08">開元二
+    <lb ed="T" n="0760c06"/>十八年十二月十三日</date>入滅于<ref type="place" target="#PL000000019384">本生地</ref>，勅<app type="cb-app" xml:id="begd1e13989"/>諡<anchor xml:id="endd1e13989"/>
 <lb ed="T" n="0760c07"/>大師，號曰<persName key="A003666">洪濟</persName>，塔曰歸真。其塔<date from-iso="0841" key="j20282682030170" to-iso="0846">會昌中</date>例
 <lb ed="T" n="0760c08"/>從堙毀，後法嗣者重崇樹之。</p>
     <linkGrp>
         <link targets="#0760b08 #0760b08"/>
         <ptr target="#A008784" type="person"/>
-        <ptr target="#CN0140430Z22AA" type="place"/>
+        <ptr target="#PL000000004308" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0760b09 #0760b10"/>
         <ptr target="#A008784" type="person"/>
-        <ptr target="#CN0610122T03AA" type="place"/>
+        <ptr target="#PL000000042560" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0760b10 #0760b11"/>
         <ptr target="#A008784" type="person"/>
-        <ptr target="#CN0610113T05AA" type="place"/>
+        <ptr target="#PL000000042410" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0760b11 #0760b14"/>
         <ptr target="#A008784" type="person"/>
         <ptr target="#A000291" type="person"/>
-        <ptr target="#CN0140881Z15AA" type="place"/>
+        <ptr target="#PL000000005199" type="place"/>
         <ptr target="#j19851741985528" type="time"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0760b11 #0760b14"/>
         <ptr target="#A008784" type="person"/>
         <ptr target="#A000291" type="person"/>
-        <ptr target="#CN0411282Z54AA" type="place"/>
+        <ptr target="#PL000000025169" type="place"/>
         <ptr target="#j19851741985528" type="time"/>
     </linkGrp>
     <linkGrp>
@@ -71,7 +76,7 @@
         <ptr target="#A010207" type="person"/>
         <ptr target="#A010069" type="person"/>
         <ptr target="#A010209" type="person"/>
-        <ptr target="#CN0410302Z03AA" type="place"/>
+        <ptr target="#PL000000023581" type="place"/>
         <ptr target="#j19851741985528" type="time"/>
     </linkGrp>
     <linkGrp>
@@ -92,23 +97,23 @@
     <linkGrp>
         <link targets="#0760c01 #0760c01"/>
         <ptr target="#A003666" type="person"/>
-        <ptr target="#CN0360802Z12AA" type="place"/>
+        <ptr target="#PL000000019384" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0760c03 #0760c04"/>
         <ptr target="#A003666" type="person"/>
         <ptr target="#A001719" type="person"/>
-        <ptr target="#CN0440222Z14AA" type="place"/>
+        <ptr target="#PL000000030617" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0760c04 #0760c05"/>
         <ptr target="#A003666" type="person"/>
-        <ptr target="#CN0360802Z11AA" type="place"/>
+        <ptr target="#PL000000019383" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0760c05 #0760c06"/>
         <ptr target="#A003666" type="person"/>
-        <ptr target="#CN0360802Z12AA" type="place"/>
+        <ptr target="#PL000000019384" type="place"/>
         <ptr target="#j19917121991712" type="time"/>
     </linkGrp>
 </div>

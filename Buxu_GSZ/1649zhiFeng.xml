@@ -1,19 +1,66 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0419c10zhiFeng">
     <head><lb ed="X" n="0419c10"/>　　　　宋　<persName key="A010920">志逢</persName>禪師傳</head>
-    <p><anchor n="X.77.1524.0419c11"/><lb ed="X" n="0419c11"/><persName key="A010920">志逢</persName>。<placeName key="CN0330110Z19AA">餘杭</placeName>人也。生而惡葷。膚體香潔。出家于臨安之
-        <lb ed="X" n="0419c12"/>東山<placeName key="unknown">朗瞻院</placeName>。通貫三學。甞夢升<placeName key="XZ0000010A01AA">須彌山</placeName>。覩三佛列坐。
+    <p><anchor n="X.77.1524.0419c11"/><lb ed="X" n="0419c11"/><persName key="A010920">志逢</persName>。<placeName key="PL000000011885">餘杭</placeName>人也。生而惡葷。膚體香潔。出家于臨安之
+        <lb ed="X" n="0419c12"/>東山<placeName key="PL000000012109">朗瞻院</placeName>。通貫三學。甞夢升<placeName key="PL000000055454">須彌山</placeName>。覩三佛列坐。
         <lb ed="X" n="0419c13"/>初<persName key="A002799">釋迦</persName>次<persName key="A001428">彌勒</persName>。皆禮其足。惟不識第三佛。但仰視而
-        <lb ed="X" n="0419c14"/>已。時<persName key="A002799">釋迦</persName>示之曰。此是補處<persName key="A001428">彌勒師</persName><persName key="unknown">子月佛</persName>。師方作
-        <lb ed="X" n="0419c15"/>禮。覺後因閱大藏經。乃符所夢。遊方見<persName key="A008355">韶國師</persName>于<placeName key="CN0331023M01AA">天<lb ed="X" n="0419c16"/>台</placeName>。契悟。一日入<placeName key="unknown">普賢殿</placeName>中宴坐。倏有一神人。跪膝于
+        <lb ed="X" n="0419c14"/>已。時<persName key="A002799">釋迦</persName>示之曰。此是補處<persName key="A001428">彌勒</persName><persName key="A021948">師子月佛</persName>。師方作
+        <lb ed="X" n="0419c15"/>禮。覺後因閱大藏經。乃符所夢。遊方見<persName key="A008355">韶國師</persName>于<placeName key="PL000000014411">天<lb ed="X" n="0419c16"/>台</placeName>。契悟。一日入<placeName key="PL000000014698">普賢殿</placeName>中宴坐。倏有一神人。跪膝于
         <lb ed="X" n="0419c17"/>前。師問。汝其誰乎。曰。護戒神也。師曰。吾患有夙愆未
         <lb ed="X" n="0419c18"/>珍。汝知之乎。曰。師有何愆。唯一小過耳。凡折鉢水亦
         <lb ed="X" n="0419c19"/>施主物。師甞傾棄之。非所宜也。言訖而隱。師自此洗
         <lb ed="X" n="0419c20"/>鉢水盡飲之。積久因致脾疾。十年始愈。<persName key="A006774">吳越國王</persName>。嚮
-        <lb ed="X" n="0419c21"/>師道風。召賜紫衣師號。命住<placeName key="unknown">功臣院</placeName>。<date from-iso="0968-12-21" to-iso="0970-12-28" key="j20749702075707">開寶初</date>。<persName key="A006774">忠懿王</persName>
-        <lb ed="X" n="0419c22"/>建<placeName key="unknown">普門精舍</placeName>。請師為開山。舉揚宗要。<date from-iso="0971-02-04" to-iso="0972-01-23" key="j20757452076098">開寶四年</date>。師固
-        <lb ed="X" n="0419c23"/>辭解院。願棲老林泉。時大將<persName key="unknown">凌超</persName>。於<placeName key="CN0330106M20AA">五雲山</placeName>創院。奉
-        <lb ed="X" n="0419c24"/>師為終老之所。<placeName key="CN0330106M20AA">五雲</placeName>多虎。師每[打-丁+嶲]大扇乞錢。買肉飼
+        <lb ed="X" n="0419c21"/>師道風。召賜紫衣師號。命住<placeName key="PL000000011452">功臣院</placeName>。<date from-iso="0968-12-21" to-iso="0970-12-28" key="j20749702075707">開寶初</date>。<persName key="A006774">忠懿王</persName>
+        <lb ed="X" n="0419c22"/>建<placeName key="PL000000011416">普門精舍</placeName>。請師為開山。舉揚宗要。<date from-iso="0971-02-04" to-iso="0972-01-23" key="j20757452076098">開寶四年</date>。師固
+        <lb ed="X" n="0419c23"/>辭解院。願棲老林泉。時大將<persName key="A021949">凌超</persName>。於<placeName key="PL000000011585">五雲山</placeName>創院。奉
+        <lb ed="X" n="0419c24"/>師為終老之所。<placeName key="PL000000011585">五雲</placeName>多虎。師每[打-丁+嶲]大扇乞錢。買肉飼
         <lb ed="X" n="0420a01"/>虎。虎輒馴伏。日暮還山。虎迎之。騎以歸。故世稱<persName key="A010920">伏虎<lb ed="X" n="0420a02"/>禪師</persName>。一號<persName key="A010920">大扇和尚</persName>。<date from-iso="0985-01-29" to-iso="0986-02-16" key="j20808532081236">雍熙二年</date>示寂。壽七十七。塔曰
-        <lb ed="X" n="0420a03"/><placeName key="unknown">寶峰常照</placeName>。</p>
+        <lb ed="X" n="0420a03"/><placeName key="PL000000011686">寶峰常照</placeName>。</p>
+    
+    <linkGrp>
+        <link targets="#0419c11 #0419c11"/>
+        <ptr target="#A010920" type="person"/>
+        <ptr target="#PL000000011885" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0419c11 #0419c15"/>
+        <ptr target="#A010920" type="person"/>
+        <ptr target="#PL000000012109" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0419c15 #0419c16"/>
+        <ptr target="#A010920" type="person"/>
+        <ptr target="#A008355" type="person"/>
+        <ptr target="#PL000000014411" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0419c16 #0419c20"/>
+        <ptr target="#A010920" type="person"/>
+        <ptr target="#PL000000014698" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0419c20 #0419c21"/>
+        <ptr target="#A010920" type="person"/>
+        <ptr target="#PL000000011452" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0419c21 #0419c22"/>
+        <ptr target="#A010920" type="person"/>
+        <ptr target="#A006774" type="person"/>  
+        <ptr target="#PL000000011416" type="place"/>
+        <ptr target="#j20749702075707" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0419c22 #0419c24"/>
+        <ptr target="#A010920" type="person"/>
+        <ptr target="#A021949" type="person"/>  
+        <ptr target="#PL000000011585" type="place"/>
+        <ptr target="#j20757452076098" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0420a02 #0420a03"/>
+        <ptr target="#A010920" type="person"/> 
+        <ptr target="#PL000000011585" type="place"/>
+        <ptr target="#j20808532081236" type="time"/>
+    </linkGrp>
 </div>

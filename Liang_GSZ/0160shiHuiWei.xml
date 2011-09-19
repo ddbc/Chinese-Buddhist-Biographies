@@ -1,16 +1,16 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0396b17shiHuiWei">
-    <p><anchor n="T.50.2059.0396b18"/><lb ed="T" n="0396b18"/><persName key="A002185">釋慧嵬</persName>，不知何<ptr target="fn17"/>許人。止<placeName key="CN0610125T14AA">長安大寺</placeName>。戒行澄<lb ed="T" n="0396b19"/>潔，多栖處山谷，修禪定之業。有一無頭鬼<lb ed="T" n="0396b20"/>來，<persName key="A002185">嵬</persName>神色無變，乃謂鬼曰：「汝既無頭，便無<lb ed="T" n="0396b21"/>頭痛之患，一何快哉。」鬼便隱形，復作無腹<lb ed="T" n="0396b22"/>鬼來，但有手足。<persName key="A002185">嵬</persName>又曰：「汝既無腹，便無五<lb ed="T" n="0396b23"/>藏之憂，一何樂哉！」須臾復作異形，<persName key="A002185">嵬</persName>皆隨<lb ed="T" n="0396b24"/>言遣之。</p><p>後<ptr target="fn18"/>又時天甚寒雪，有一女子來<lb ed="T" n="0396b25"/>求寄宿。形貌端正，衣服鮮明，姿媚柔雅，自<lb ed="T" n="0396b26"/>稱天女：「以<persName key="A002185">上人</persName>有德，天遣我來，以相慰喻。」<lb ed="T" n="0396b27"/>談說欲言，勸動其意。<persName key="A002185">嵬</persName><ptr target="fn19"/>執志貞確，一心無<lb ed="T" n="0396b28"/>擾，乃謂女曰：「<persName key="A002185">吾</persName>心若死灰，無以革囊見<lb ed="T" n="0396b29"/>試。」女遂<ptr target="fn20"/>陵雲而逝，顧<ptr target="fn21"/>而歎曰：「海水可竭，<lb ed="T" n="0396c01"/>須彌可傾，彼上人者，秉志堅貞。」後以<date key="j18668451867198" from-iso="0399-02-23" to-iso="0400-02-11">晉隆<lb ed="T" n="0396c02"/>安三年</date>，與<persName key="A000750">法顯</persName>俱遊<placeName key="CN0650000E01AA">西域</placeName>，不知所終。</p>
+    <p><anchor n="T.50.2059.0396b18"/><lb ed="T" n="0396b18"/><persName key="A002185">釋慧嵬</persName>，不知何<ptr target="fn17"/>許人。止<placeName key="PL000000042657">長安大寺</placeName>。戒行澄<lb ed="T" n="0396b19"/>潔，多栖處山谷，修禪定之業。有一無頭鬼<lb ed="T" n="0396b20"/>來，<persName key="A002185">嵬</persName>神色無變，乃謂鬼曰：「汝既無頭，便無<lb ed="T" n="0396b21"/>頭痛之患，一何快哉。」鬼便隱形，復作無腹<lb ed="T" n="0396b22"/>鬼來，但有手足。<persName key="A002185">嵬</persName>又曰：「汝既無腹，便無五<lb ed="T" n="0396b23"/>藏之憂，一何樂哉！」須臾復作異形，<persName key="A002185">嵬</persName>皆隨<lb ed="T" n="0396b24"/>言遣之。</p><p>後<ptr target="fn18"/>又時天甚寒雪，有一女子來<lb ed="T" n="0396b25"/>求寄宿。形貌端正，衣服鮮明，姿媚柔雅，自<lb ed="T" n="0396b26"/>稱天女：「以<persName key="A002185">上人</persName>有德，天遣我來，以相慰喻。」<lb ed="T" n="0396b27"/>談說欲言，勸動其意。<persName key="A002185">嵬</persName><ptr target="fn19"/>執志貞確，一心無<lb ed="T" n="0396b28"/>擾，乃謂女曰：「<persName key="A002185">吾</persName>心若死灰，無以革囊見<lb ed="T" n="0396b29"/>試。」女遂<ptr target="fn20"/>陵雲而逝，顧<ptr target="fn21"/>而歎曰：「海水可竭，<lb ed="T" n="0396c01"/>須彌可傾，彼上人者，秉志堅貞。」後以<date key="j18668451867198" from-iso="0399-02-23" to-iso="0400-02-11">晉隆<lb ed="T" n="0396c02"/>安三年</date>，與<persName key="A000750">法顯</persName>俱遊<placeName key="PL000000047439">西域</placeName>，不知所終。</p>
     <linkGrp>
         <link targets="#0396b18 #0396b18"/>
         <ptr target="#A002185" type="person"/>
-        <ptr target="#CN0610125T14AA" type="place"/>
+        <ptr target="#PL000000042657" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0396c01 #0396c02"/>
         <ptr target="#A002185" type="person"/>
         <ptr target="#A000750" type="person"/>
-        <ptr target="#CN0650000E01AA" type="place"/>
+        <ptr target="#PL000000047439" type="place"/>
         <ptr target="#j18668451867198" type="time"/>
     </linkGrp>
 </div>

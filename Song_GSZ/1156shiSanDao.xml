@@ -1,15 +1,15 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0865c19shiSanDao">
     <anchor n="T.50.2061.0865c19"/><head><date from-iso="0618-06-21" key="j19469512052491" to-iso="0907-06-06">唐</date>吉州龍興寺<persName key="A013559">三刀法師</persName>傳</head><p>
-<lb ed="T" n="0865c20"/><persName key="A013559">釋三刀法師</persName>者，本姓曹，<placeName key="CN0360802Z12AA">廬陵</placeName>人也。天然之性，
+<lb ed="T" n="0865c20"/><persName key="A013559">釋三刀法師</persName>者，本姓曹，<placeName key="PL000000019384">廬陵</placeName>人也。天然之性，
 <lb ed="T" n="0865c21"/>嗜於蔬食。羈貫成童，志願出家。于時自江
 <lb ed="T" n="0865c22"/>以西，從<date key="j19968182000104" notAfter-iso="0763" notBefore-iso="0755">安史之亂</date>。南方不寧，多事土扶，故強
-<lb ed="T" n="0865c23"/>兼弱，兵革未休。<date key="j20033642003393" notAfter-iso="0773-01-01" notBefore-iso="0772-12-03">大曆七年十一月</date>，<placeName key="CN0440104Z22AA">廣州</placeName><persName key="A013560">呂大
-<lb ed="T" n="0865c24"/>夫</persName>被翻城，奉<placeName key="CN0360103Z26AA">洪州</placeName><persName key="A013561">路嗣恭</persName>。牒<placeName key="CN0360802Z11AA">吉州</placeName><app type="multiplier" xml:id="begd1e42975"/>刺<anchor xml:id="endd1e42975"/>史<persName key="A013562">劉
-<lb ed="T" n="0865c25"/>寧</persName>徵兵三千人，同收<placeName key="CN0440105Z01AA">番禺</placeName>。法師舊名<persName key="A013559">伯連</persName>，
+<lb ed="T" n="0865c23"/>兼弱，兵革未休。<date key="j20033642003393" notAfter-iso="0773-01-01" notBefore-iso="0772-12-03">大曆七年十一月</date>，<placeName key="PL000000030464">廣州</placeName><persName key="A013560">呂大
+<lb ed="T" n="0865c24"/>夫</persName>被翻城，奉<placeName key="PL000000018628">洪州</placeName><persName key="A013561">路嗣恭</persName>。牒<placeName key="PL000000019383">吉州</placeName><app type="multiplier" xml:id="begd1e42975"/>刺<anchor xml:id="endd1e42975"/>史<persName key="A013562">劉
+<lb ed="T" n="0865c25"/>寧</persName>徵兵三千人，同收<placeName key="PL000000030482">番禺</placeName>。法師舊名<persName key="A013559">伯連</persName>，
 <lb ed="T" n="0865c26"/>其為人也強渥而貌惡，且心循良，恒持誦金
 <lb ed="T" n="0865c27"/>剛經，以筒盛經，佩之于身，誓不婚娶。然不
-<lb ed="T" n="0865c28"/>揚此善于他，惟密行愈至。無何，被括為軍。
+        <lb ed="T" n="0865c28"/>揚此善于他，惟密行愈至。無何<ptr target="#n493"/>，被括為軍。
 <lb ed="T" n="0865c29"/>呈閱之時，又選充行營小將，非其所好，遂<pb ed="T" n="0866a" xml:id="T50.2061.0866a"/>
 <lb ed="T" n="0866a01"/>亡命焉。時徵兵頗急，牒諸處要害捕逐，於
 <lb ed="T" n="0866a02"/>本州洋口擒送。<persName key="A013562">劉寧</persName>令於朱木橋<!--找不到此地-->處死，三
@@ -18,7 +18,7 @@
 <lb ed="T" n="0866a05"/>何在？」曰：「被獲時遺墜。」遂令搜取，果數百步
 <lb ed="T" n="0866a06"/>外得之，竹筒有刃痕而幾絕。<persName key="A013562">劉</persName>拱手稱歎
 <lb ed="T" n="0866a07"/>久之，乃縱其為僧。奏聞，勅下本道號<persName key="A013559">三刀
-<lb ed="T" n="0866a08"/>法師</persName>，配本郡<placeName key="CN0360102T01AA">龍興寺</placeName>。後加精進，卒于住
+<lb ed="T" n="0866a08"/>法師</persName>，配本郡<placeName key="PL000000018582">龍興寺</placeName>。後加精進，卒于住
 <lb ed="T" n="0866a09"/>所。</p>
     <linkGrp>
         <link targets="#0865c24 #0865c25"/>
@@ -29,7 +29,7 @@
         <link targets="#0865c25 #0866a07"/>
         <ptr target="#A013559" type="person"/>
         <ptr target="#A013562" type="person"/>
-        <ptr target="#CN0360802Z11AA" type="place"/>
+        <ptr target="#PL000000019383" type="place"/>
         <ptr target="#j20033642003393" type="time"/>
     </linkGrp>
     <linkGrp>
@@ -40,6 +40,6 @@
     <linkGrp>
         <link targets="#0866a08 #0866a08"/>
         <ptr target="#A013559" type="person"/>
-        <ptr target="#CN0360102T01AA" type="place"/>
+        <ptr target="#PL000000018582" type="place"/>
     </linkGrp>
 </div>

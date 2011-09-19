@@ -1,32 +1,32 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0675a10shiFaXing">
-    <p><anchor n="T.50.2060.0675a10"/><lb ed="T" n="0675a10"/><persName key="A007239">釋法性</persName>。<placeName key="CN0370882Z18AA">兗州</placeName>人。少習禪學。精厲行道。少欲<lb ed="T" n="0675a11"/>頭陀孤遊海曲。時復入俗形骸所資。終潛<lb ed="T" n="0675a12"/>林阜沈隱為任。<date key="j19380431938426" from-iso="0594-01-29" to-iso="0595-02-16">開皇十四年</date>。<persName key="A004324">文帝</persName>東巡搜<lb ed="T" n="0675a13"/>訪巖穴。因召入<placeName key="CN0610102Z14AA">京</placeName>住<placeName key="CN0610103T12AA">勝光寺</placeName>。<date key="j19406121942058" notAfter-iso="0605" notBefore-iso="0601">仁壽之年</date>。勅<lb ed="T" n="0675a14"/>召送舍利於本州<placeName key="CN0370882T02AA">普樂寺</placeName>。初營外函得一<lb ed="T" n="0675a15"/>青石。<ptr target="fn01"/>錯磨始了將欲鎣飾。變成馬瑙。五色<lb ed="T" n="0675a16"/>相雜文彩分明。函內<ptr target="fn02"/>斑<ptr target="fn03"/>剝雜生白玉。凝潤<lb ed="T" n="0675a17"/>光淨函之內外。光如水鏡洞照無障。當入<lb ed="T" n="0675a18"/>函時。正當基上白鳥一雙翱翔緩飛。遶塔<lb ed="T" n="0675a19"/>而轉。塔西奈樹枝葉。並變為真金色。<date key="j19417051942058" from-iso="0604-02-09" to-iso="0605-01-27">及<persName key="A004324">文<lb ed="T" n="0675a20"/>帝</persName>既崩</date>。置<placeName key="CN0610113T16AA">大禪定</placeName>延住供養。遂卒于<placeName key="CN0610113T16AA">寺</placeName>。八<lb ed="T" n="0675a21"/>十餘矣。</p>
+    <p><anchor n="T.50.2060.0675a10"/><lb ed="T" n="0675a10"/><persName key="A007239">釋法性</persName>。<placeName key="PL000000021539">兗州</placeName>人。少習禪學。精厲行道。少欲<lb ed="T" n="0675a11"/>頭陀孤遊海曲。時復入俗形骸所資。終潛<lb ed="T" n="0675a12"/>林阜沈隱為任。<date key="j19380431938426" from-iso="0594-01-29" to-iso="0595-02-16">開皇十四年</date>。<persName key="A004324">文帝</persName>東巡搜<lb ed="T" n="0675a13"/>訪巖穴。因召入<placeName key="PL000000042196">京</placeName>住<placeName key="PL000000042232">勝光寺</placeName>。<date key="j19406121942058" notAfter-iso="0605" notBefore-iso="0601">仁壽之年</date>。勅<lb ed="T" n="0675a14"/>召送舍利於本州<placeName key="PL000000021520">普樂寺</placeName>。初營外函得一<lb ed="T" n="0675a15"/>青石。<ptr target="fn01"/>錯磨始了將欲鎣飾。變成馬瑙。五色<lb ed="T" n="0675a16"/>相雜文彩分明。函內<ptr target="fn02"/>斑<ptr target="fn03"/>剝雜生白玉。凝潤<lb ed="T" n="0675a17"/>光淨函之內外。光如水鏡洞照無障。當入<lb ed="T" n="0675a18"/>函時。正當基上白鳥一雙翱翔緩飛。遶塔<lb ed="T" n="0675a19"/>而轉。塔西奈樹枝葉。並變為真金色。<date key="j19417051942058" from-iso="0604-02-09" to-iso="0605-01-27">及<persName key="A004324">文<lb ed="T" n="0675a20"/>帝</persName>既崩</date>。置<placeName key="PL000000042422">大禪定</placeName>延住供養。遂卒于<placeName key="PL000000042422">寺</placeName>。八<lb ed="T" n="0675a21"/>十餘矣。</p>
     <linkGrp>
         <link targets="#0675a10 #0675a10"/>
         <ptr target="#A007239" type="person"/>
-        <ptr target="#CN0370882Z18AA" type="place"/>
+        <ptr target="#PL000000021539" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0675a12 #0675a13"/>
         <ptr target="#A007239" type="person"/>
-        <ptr target="#CN0610103T12AA" type="place"/>
+        <ptr target="#PL000000042232" type="place"/>
         <ptr target="#j19380431938426" type="time"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0675a13 #0675a19"/>
         <ptr target="#A007239" type="person"/>
-        <ptr target="#CN0370882T02AA" type="place"/>
+        <ptr target="#PL000000021520" type="place"/>
         <ptr target="#j19406121942058" type="time"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0675a19 #0675a20"/>
         <ptr target="#A007239" type="person"/>
-        <ptr target="#CN0610113T16AA" type="place"/>
+        <ptr target="#PL000000042422" type="place"/>
         <ptr target="#j19417051942058" type="time"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0675a20 #0675a21"/>
         <ptr target="#A007239" type="person"/>
-        <ptr target="#CN0610113T16AA" type="place"/>
+        <ptr target="#PL000000042422" type="place"/>
         </linkGrp>
 </div>

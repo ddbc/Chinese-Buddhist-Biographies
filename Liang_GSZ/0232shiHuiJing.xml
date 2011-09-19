@@ -1,19 +1,19 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0411b06shiHuiJing">
-    <p><anchor n="T.50.2059.0411b06"/><lb ed="T" n="0411b06"/><persName key="A002367">釋慧敬</persName>，<placeName key="CN0440104Z37AA">南海</placeName>人。少遊學<placeName key="CN0421003Z09AA">荊楚</placeName>，亦博通經論，<lb ed="T" n="0411b07"/>而常以福業為務，故義學不得全功。凡<lb ed="T" n="0411b08"/>所之造，皆興立塔像，助成眾業。後還鄉，復<lb ed="T" n="0411b09"/>修理<placeName key="CN0440101T02AA">雲<ptr target="fn08"/>峯</placeName>、<placeName key="CN0440101T03AA">永安</placeName>諸寺。<persName key="A002367">敬</persName>既精於戒節，而志<lb ed="T" n="0411b10"/>操嚴明，故嶺外僧尼，咸附諮稟。後被勅為僧<lb ed="T" n="0411b11"/>主，訓領有功。<persName key="A002367">敬</persName>有一奴子及沙彌，忽為鬼<lb ed="T" n="0411b12"/>所打，後山精見形詣<persName key="A002367">敬</persName>，具謝愆失，云：「部<lb ed="T" n="0411b13"/>屬不解，橫撓<persName key="A002367">法師</persName><ptr target="fn09"/>眷屬。」有頃悉皆平復。凡<lb ed="T" n="0411b14"/>興<ptr target="fn10"/>造福業，皆迴向西方。臨終之日，室有奇<lb ed="T" n="0411b15"/>香，經久乃歇。</p>
+    <p><anchor n="T.50.2059.0411b06"/><lb ed="T" n="0411b06"/><persName key="A002367">釋慧敬</persName>，<placeName key="PL000000030479">南海</placeName>人。少遊學<placeName key="PL000000027772">荊楚</placeName>，亦博通經論，<lb ed="T" n="0411b07"/>而常以福業為務，故義學不得全功。凡<lb ed="T" n="0411b08"/>所之造，皆興立塔像，助成眾業。後還鄉，復<lb ed="T" n="0411b09"/>修理<placeName key="PL000000030423">雲<ptr target="fn08"/>峯</placeName>、<placeName key="PL000000030424">永安</placeName>諸寺。<persName key="A002367">敬</persName>既精於戒節，而志<lb ed="T" n="0411b10"/>操嚴明，故嶺外僧尼，咸附諮稟。後被勅為僧<lb ed="T" n="0411b11"/>主，訓領有功。<persName key="A002367">敬</persName>有一奴子及沙彌，忽為鬼<lb ed="T" n="0411b12"/>所打，後山精見形詣<persName key="A002367">敬</persName>，具謝愆失，云：「部<lb ed="T" n="0411b13"/>屬不解，橫撓<persName key="A002367">法師</persName><ptr target="fn09"/>眷屬。」有頃悉皆平復。凡<lb ed="T" n="0411b14"/>興<ptr target="fn10"/>造福業，皆迴向西方。臨終之日，室有奇<lb ed="T" n="0411b15"/>香，經久乃歇。</p>
     <linkGrp>
         <link targets="#0411b06 #0411b07"/>
         <ptr target="#A002367" type="person"/>
-        <ptr target="#CN0421003Z09AA" type="place"/>
+        <ptr target="#PL000000027772" type="place"/>
         </linkGrp>
     <linkGrp>
         <link targets="#0411b08 #0411b09"/>
         <ptr target="#A002367" type="person"/>
-        <ptr target="#CN0440101T02AA" type="place"/>
+        <ptr target="#PL000000030423" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0411b08 #0411b09"/>
         <ptr target="#A002367" type="person"/>
-        <ptr target="#CN0440101T03AA" type="place"/>
+        <ptr target="#PL000000030424" type="place"/>
     </linkGrp>
 </div>

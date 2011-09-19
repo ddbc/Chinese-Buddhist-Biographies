@@ -9,15 +9,15 @@
 <lb ed="T" n="0880c12"/>此是為先容歟？」由是若雕若塑，形像森然。
         <lb ed="T" n="0880c13"/>恒事進修，天邑之間，偏加激勵。屬<persName key="A019498">憲宗太
             <lb ed="T" n="0880c14"/>皇太后郭氏</persName><date key="j20154742020606" notAfter-iso="0820-02-17" notBefore-iso="0806-01-29">元和中</date>為母<persName key="A019499">齊國大長公主</persName>追
-        <lb ed="T" n="0880c15"/>福，造<placeName key="CN0610103T15AA">奉慈精舍</placeName>，搜擇名德，<persName key="A013736">則</persName>乃預選入居。
-        <lb ed="T" n="0880c16"/>未久之間，聞<placeName key="CN0330212M03AA">四明鄮山</placeName>有<placeName key="CN0330212T01AA">阿育王塔</placeName>，東晉<persName key="A001203">劉
+        <lb ed="T" n="0880c15"/>福，造<placeName key="PL000000042235">奉慈精舍</placeName>，搜擇名德，<persName key="A013736">則</persName>乃預選入居。
+        <lb ed="T" n="0880c16"/>未久之間，聞<placeName key="PL000000012279">四明鄮山</placeName>有<placeName key="PL000000012309">阿育王塔</placeName>，東晉<persName key="A001203">劉
 <lb ed="T" n="0880c17"/>薩訶</persName>求現，往專禮焉。乃匠意將七寶為末，
 <lb ed="T" n="0880c18"/>用膠範成摹寫脫，酷似。自甬東躬自負歸
-<lb ed="T" n="0880c19"/><placeName key="CN0610103T15AA">奉慈寺</placeName>供養，<placeName key="CN0610102Z07AA">京邑</placeName>人皆傾瞻歸信焉。</p>
+<lb ed="T" n="0880c19"/><placeName key="PL000000042235">奉慈寺</placeName>供養，<placeName key="PL000000042189">京邑</placeName>人皆傾瞻歸信焉。</p>
     <linkGrp>
         <link targets="#0880c13 #0880c15"/>
         <ptr target="#A013736" type="person"/>
-        <ptr target="#CN0610103T15AA" type="place"/>
+        <ptr target="#PL000000042235" type="place"/>
         <ptr target="#j20154742020606" type="time"/>
     </linkGrp>
     <linkGrp>
@@ -38,6 +38,6 @@
     <linkGrp>
         <link targets="#0880c16 #0880c17"/>
         <ptr target="#A013736" type="person"/>
-        <ptr target="#CN0330212T01AA" type="place"/>
+        <ptr target="#PL000000012309" type="place"/>
     </linkGrp>
 </div>

@@ -1,46 +1,46 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0761c16shiXuanSu">
-    <anchor n="T.50.2061.0761c16"/><head><date from-iso="0618-06-21" key="j19469512052491" to-iso="0907-06-06">唐</date><placeName key="CN0320115T02AA">潤州幽棲寺</placeName><persName key="A010251">玄素</persName>傳</head><p>
-        <lb ed="T" n="0761c17"/><persName key="A010251">釋玄素</persName>，字<persName key="A010251">道清</persName>，俗緣馬氏，<placeName key="CN0321181Z26AA">潤州延陵</placeName>人也。生
+    <anchor n="T.50.2061.0761c16"/><head><date from-iso="0618-06-21" key="j19469512052491" to-iso="0907-06-06">唐</date><placeName key="PL000000009134">潤州幽棲寺</placeName><persName key="A010251">玄素</persName>傳</head><p>
+        <lb ed="T" n="0761c17"/><persName key="A010251">釋玄素</persName>，字<persName key="A010251">道清</persName>，俗緣馬氏，<placeName key="PL000000011063">潤州延陵</placeName>人也。生
 <lb ed="T" n="0761c18"/>有異度，幼而深仁，乳育安靜。髫齓希尚，求
 <lb ed="T" n="0761c19"/>歸釋門，父母從之，出依淨域。以<date from-iso="0692" key="j19739231974106" to-iso="0692">如意年中</date>，
-        <lb ed="T" n="0761c20"/>始奉制度，隷名于<placeName key="CN0320103T04AA">江寧長壽寺</placeName>。進具已後，戒
-<lb ed="T" n="0761c21"/>光騰燭，定水澄漣，思入玄微，行逾人表。既
-        <lb ed="T" n="0761c22"/>解色空，常慕宗匠。晚年乃南入<placeName key="CN0320115T02AA">青山幽棲
+        <lb ed="T" n="0761c20"/>始奉制度，隷名于<placeName key="PL000000008801">江寧長壽寺</placeName>。進具已後，戒
+        <lb ed="T" n="0761c21"/>光騰燭，定水澄漣，思入玄微<ptr target="#n773"/>，行逾人表。既
+        <lb ed="T" n="0761c22"/>解色空，常慕宗匠。晚年乃南入<placeName key="PL000000009134">青山幽棲
 <lb ed="T" n="0761c23"/>寺</placeName>，因事<persName key="A010051">威禪師</persName>，躬歷彌載，撞鐘大鳴。<persName key="A010051">威</persName>誨
 <lb ed="T" n="0761c24"/>以勝法，得其不刊之旨。從是伏形苦節，交
 <lb ed="T" n="0761c25"/>養恬和，敗納<anchor xml:id="beg0761005"/>襯<anchor xml:id="end0761005"/>身，寒暑不易，貴賤怨親，曾
 <lb ed="T" n="0761c26"/>無喜慍，時目之為嬰兒行菩薩。道業既高，
-<lb ed="T" n="0761c27"/><anchor xml:id="beg0761006"/>人<anchor xml:id="end0761006"/>希瞻禮。<date from-iso="0713" key="j19818371992113" to-iso="0742">開元年</date>中，僧<persName key="A010252">汪密</persName>請至<placeName key="CN0321102Z11AA">京口</placeName>，郡
-<lb ed="T" n="0761c28"/>牧<persName key="A010253">韋銑</persName>屈居<placeName key="CN0321111T01AA">鶴林</placeName>，四部歸誠，充塞寺宇。<persName key="A010251">素</persName>納
+<lb ed="T" n="0761c27"/><anchor xml:id="beg0761006"/>人<anchor xml:id="end0761006"/>希瞻禮。<date from-iso="0713" key="j19818371992113" to-iso="0742">開元年</date>中，僧<persName key="A010252">汪密</persName>請至<placeName key="PL000000010985">京口</placeName>，郡
+<lb ed="T" n="0761c28"/>牧<persName key="A010253">韋銑</persName>屈居<placeName key="PL000000011009">鶴林</placeName>，四部歸誠，充塞寺宇。<persName key="A010251">素</persName>納
 <lb ed="T" n="0761c29"/>衣空床，未甞出戶，王侯稽首，不為動搖。顧世<pb ed="T" n="0762a" xml:id="T50.2061.0762a"/>
 <lb ed="T" n="0762a01"/>名利，猶如幻焉。忽於一日，有屠者來禮謁，
 <lb ed="T" n="0762a02"/>自生感悟，懺悔先罪，求請<persName key="A010251">素</persName>明中應供，乃
 <lb ed="T" n="0762a03"/>欣然受之，降詣其舍。士庶驚駭，咸稱「異哉」。
         <lb ed="T" n="0762a04"/><persName key="A010251">素</persName>曰：「佛性是同，無生豈別？但可度者，<ref type="person" target="#A010251">吾</ref>其度
-        <lb ed="T" n="0762a05"/>之，何異之有？」<date from-iso="0742" key="j19921141993438" to-iso="0745">天寶之初</date>，<placeName key="CN0320503Z16AA">吳</placeName>、<placeName key="CN0330602Z01AA">越</placeName>瞻仰如想下
-<lb ed="T" n="0762a06"/>生。<placeName key="CN0321002Z02AA">楊州</placeName>僧<persName key="A006297">希玄</persName>請至<placeName key="CN0000000E11AA">江北</placeName>，竊而宵遁。黑月難
+        <lb ed="T" n="0762a05"/>之，何異之有？」<date from-iso="0742" key="j19921141993438" to-iso="0745">天寶之初</date>，<placeName key="PL000000009928">吳</placeName>、<placeName key="PL000000013239">越</placeName>瞻仰如想下
+<lb ed="T" n="0762a06"/>生。<placeName key="PL000000010783">楊州</placeName>僧<persName key="A006297">希玄</persName>請至<placeName key="PL000000000093">江北</placeName>，竊而宵遁。黑月難
 <lb ed="T" n="0762a07"/>濟，江波淼然，持舟擬風。俄頃有白光一道，
-        <lb ed="T" n="0762a08"/>引棹直渡，通波獲全。<placeName key="CN0320803Z25AA">楚</placeName>人相慶佛日再耀。
+        <lb ed="T" n="0762a08"/>引棹直渡，通波獲全。<placeName key="PL000000010514">楚</placeName>人相慶佛日再耀。
 <lb ed="T" n="0762a09"/>傾州奔赴，會於津所。人物拒道，間無立位，
 <lb ed="T" n="0762a10"/>解衣投施，積若山丘。略不干其懷抱，令悉
-<lb ed="T" n="0762a11"/>充悲田之費。禮部尚書<persName key="A010255">李憕</persName>為<placeName key="CN0321002Z02AA">楊州</placeName>牧，齋心
-<lb ed="T" n="0762a12"/>虔虔，二時瞻近。未幾而<placeName key="CN0321102Z11AA">京口</placeName>道俗思渴法音，
-        <lb ed="T" n="0762a13"/>仍移牒渡<placeName key="CN0000000R01AA">江</placeName>，再請還<ref type="place" target="#CN0321002Z02AA">郡</ref>。二處紛諍，莫決所
+<lb ed="T" n="0762a11"/>充悲田之費。禮部尚書<persName key="A010255">李憕</persName>為<placeName key="PL000000010783">楊州</placeName>牧，齋心
+<lb ed="T" n="0762a12"/>虔虔，二時瞻近。未幾而<placeName key="PL000000010985">京口</placeName>道俗思渴法音，
+        <lb ed="T" n="0762a13"/>仍移牒渡<placeName key="PL000000000150">江</placeName>，再請還<ref type="place" target="#PL000000010783">郡</ref>。二處紛諍，莫決所
 <lb ed="T" n="0762a14"/>從。<persName key="A010255">李</persName>時謂人曰：「本期奉道，反成愛憎。」因任
-        <lb ed="T" n="0762a15"/>從所請，却歸<ref type="place" target="#CN0321002Z02AA">南郡</ref>，其感物慕德，罕有與倫。
+        <lb ed="T" n="0762a15"/>從所請，却歸<ref type="place" target="#PL000000010783">南郡</ref>，其感物慕德，罕有與倫。
 <lb ed="T" n="0762a16"/>以<date key="j19960811996081" when-iso="0752-12-25">天寶十一載十一月十一日</date>中夜，無疾而
 <lb ed="T" n="0762a17"/>化，春秋八十有五。哀感人倫，慟徹城市。以
-<lb ed="T" n="0762a18"/><date key="j19960911996091" when-iso="0753-01-04">其月二十一日</date>奉全身建塔于<placeName key="CN0321111M04AA">黃鶴山</placeName>西所住
+<lb ed="T" n="0762a18"/><date key="j19960911996091" when-iso="0753-01-04">其月二十一日</date>奉全身建塔于<placeName key="PL000000011008">黃鶴山</placeName>西所住
 <lb ed="T" n="0762a19"/>之地。方伯邑宰盡執喪師之禮，率眾申哀，
 <lb ed="T" n="0762a20"/>江湖震響。<persName key="A010251">素</persName>往於寺內坐禪之所，高松偃覆
 <lb ed="T" n="0762a21"/>如蓋，及移他樹，還互如前。又當捨壽之
-        <lb ed="T" n="0762a22"/>夕，房前雙桐無故自枯。識者以為<placeName key="INUPKU000T01AA">雙林</placeName>之變。
+        <lb ed="T" n="0762a22"/>夕，房前雙桐無故自枯。識者以為<placeName key="PL000000048391">雙林</placeName>之變。
 <lb ed="T" n="0762a23"/>但真乘妙理，絕相難思。嘉瑞靈祥，應感必有。
 <lb ed="T" n="0762a24"/>《經》云「隨緣赴感」，即其事也。有門弟子<persName key="A010257">法鑑</persName>
-<lb ed="T" n="0762a25"/>及<placeName key="CN0320503Z16AA">吳中</placeName><persName key="A004218">法欽</persName>，此二大士重光道原，僉具別
-<lb ed="T" n="0762a26"/>傳。受菩薩戒弟子吏部侍郎<persName key="A010258">齊澣</persName>、<placeName key="CN0440104Z22AA">廣州</placeName>都督
-        <lb ed="T" n="0762a27"/><persName key="A019134">粱卿</persName>、<placeName key="CN0321102Z12AA">潤州</placeName>刺史<persName key="A010260">徐嶠</persName>、<placeName key="CN0610102Z10AA">京兆</placeName><persName key="A010261">韋昭理</persName>、給事中<persName key="A010262">韓賞</persName>、
+<lb ed="T" n="0762a25"/>及<placeName key="PL000000009928">吳中</placeName><persName key="A004218">法欽</persName>，此二大士重光道原，僉具別
+<lb ed="T" n="0762a26"/>傳。受菩薩戒弟子吏部侍郎<persName key="A010258">齊澣</persName>、<placeName key="PL000000030464">廣州</placeName>都督
+        <lb ed="T" n="0762a27"/><persName key="A019134">粱卿</persName>、<placeName key="PL000000010986">潤州</placeName>刺史<persName key="A010260">徐嶠</persName>、<placeName key="PL000000042192">京兆</placeName><persName key="A010261">韋昭理</persName>、給事中<persName key="A010262">韓賞</persName>、
 <lb ed="T" n="0762a28"/>御史中丞<persName key="A010263">李丹</persName>、禮部<persName key="A010264">崔令欽</persName>，並道流人望，咸
         <lb ed="T" n="0762a29"/>欵師資，亦甞問道於<persName key="A004218">徑山</persName>，猶<persName key="A019135">樂正子春</persName>於<pb ed="T" n="0762b" xml:id="T50.2061.0762b"/>
         <lb ed="T" n="0762b01"/><ref type="person" target="#A002174">夫子</ref>，洗心瞻仰，天漢彌高。水鑑明心，悟深者
@@ -56,51 +56,51 @@
     <linkGrp>
         <link targets="#0761c17 #0761c17"/>
         <ptr target="#A010251" type="person"/>
-        <ptr target="#CN0321181Z26AA" type="place"/>
+        <ptr target="#PL000000011063" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0761c19 #0761c21"/>
         <ptr target="#A010251" type="person"/>
-        <ptr target="#CN0320103T04AA" type="place"/>
+        <ptr target="#PL000000008801" type="place"/>
         <ptr target="#j19739231974106" type="time"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0761c22 #0761c24"/>
         <ptr target="#A010251" type="person"/>
         <ptr target="#A010051" type="person"/>
-        <ptr target="#CN0320115T02AA" type="place"/>
+        <ptr target="#PL000000009134" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0761c27 #0761c27"/>
         <ptr target="#A010251" type="person"/>
         <ptr target="#A010252" type="person"/>
-        <ptr target="#CN0321102Z11AA" type="place"/>
+        <ptr target="#PL000000010985" type="place"/>
         <ptr target="#j19818371992113" type="time"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0761c28 #0761c28"/>
         <ptr target="#A010251" type="person"/>
         <ptr target="#A010253" type="person"/>
-        <ptr target="#CN0321111T01AA" type="place"/>
+        <ptr target="#PL000000011009" type="place"/>
         <ptr target="#j19818371992113" type="time"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0762a05 #0762a07"/>
         <ptr target="#A010251" type="person"/>
         <ptr target="#A006297" type="person"/>
-        <ptr target="#CN0000000E11AA" type="place"/>
+        <ptr target="#PL000000000093" type="place"/>
         <ptr target="#j19921141993438" type="time"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0762a08 #0762a11"/>
         <ptr target="#A010251" type="person"/>
-        <ptr target="#CN0320803Z25AA" type="place"/>
+        <ptr target="#PL000000010514" type="place"/>
         <ptr target="#j19921141993438" type="time"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0762a11 #0762a12"/>
         <ptr target="#A010255" type="person"/>
-        <ptr target="#CN0321002Z02AA" type="place"/>
+        <ptr target="#PL000000010783" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0762a12 #0762a15"/>

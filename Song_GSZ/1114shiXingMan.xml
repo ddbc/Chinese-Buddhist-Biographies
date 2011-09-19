@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0852c26shiXingMan">
     <anchor n="T.50.2061.0852c26"/><head><date from-iso="0960-02-09" key="j20717322132856" to-iso="1127-06-18">宋</date>天台山智者禪院<persName key="A009651">行滿</persName>傳</head><p>
-        <lb ed="T" n="0852c27"/><persName key="A009651">釋行滿</persName>者，<placeName key="CN0500101Z09AA">萬州南浦</placeName>人也。羇貫成童，厥性明
+        <lb ed="T" n="0852c27"/><persName key="A009651">釋行滿</persName>者，<placeName key="PL000000034017">萬州南浦</placeName>人也。羇貫成童，厥性明
 <lb ed="T" n="0852c28"/>點，篤辭所親，求為佛子。受戒方畢，聞重湖
 <lb ed="T" n="0852c29"/>間。禪道隆盛，<persName key="A010581">石霜</persName>之門，濟濟多士，遂往求解。<pb ed="T" n="0853a" xml:id="T50.2061.0853a"/>
-<lb ed="T" n="0853a01"/>屬諸禪師棄代，<persName key="A009651">滿</persName>往<placeName key="CN0360103Z01AA">豫章</placeName>，觀諸法席，既得
-<lb ed="T" n="0853a02"/>安然。次聞<placeName key="CN0331023M01AA">天台</placeName>靈聖之跡，由是結束遊之，
-<lb ed="T" n="0853a03"/>棲華頂峯下<placeName key="CN0331023T14AA">智者院</placeName>，知眾僧茶竈。見人怡
+<lb ed="T" n="0853a01"/>屬諸禪師棄代，<persName key="A009651">滿</persName>往<placeName key="PL000000018603">豫章</placeName>，觀諸法席，既得
+<lb ed="T" n="0853a02"/>安然。次聞<placeName key="PL000000014411">天台</placeName>靈聖之跡，由是結束遊之，
+<lb ed="T" n="0853a03"/>棲華頂峯下<placeName key="PL000000014700">智者院</placeName>，知眾僧茶竈。見人怡
 <lb ed="T" n="0853a04"/>懌，居幾十載，未覩其慍色。臥一土床，空其
         <lb ed="T" n="0853a05"/>下，燒糞掃而煖之。每日脫衣就床，則蚤[虱-(乏-之+虫)+蟲]
 <lb ed="T" n="0853a06"/>蟄<anchor xml:id="beg0853001"/>蜇<anchor xml:id="end0853001"/>焉唼之，及餧飼得所，還著衣如故。
@@ -22,11 +22,11 @@
    <linkGrp>
         <link targets="#0853a01 #0853a02"/>
         <ptr target="#A009651" type="person"/>
-        <ptr target="#CN0360103Z01AA" type="place"/>
+        <ptr target="#PL000000018603" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0853a03 #0853a04"/>
         <ptr target="#A009651" type="person"/>
-        <ptr target="#CN0331023T14AA" type="place"/>
+        <ptr target="#PL000000014700" type="place"/>
     </linkGrp>
 </div>

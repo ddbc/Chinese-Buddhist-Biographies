@@ -1,16 +1,48 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0421b10huiYuan">
     <head><lb ed="X" n="0421b10"/>　　　　<persName key="A014516">報本元</persName>禪師傳</head>
-    <p><anchor n="X.77.1524.0421b11"/><lb ed="X" n="0421b11"/><persName key="A014516">慧元</persName>。<placeName key="CN0445102Z10AA">潮州</placeName>倪氏子。<date key="j21067562107121" when-iso="1056">十九</date>為大僧。遍歷叢席。於<persName key="A003921">黃龍</persName>三
-        <lb ed="X" n="0421b12"/>關語下悟入。住安吉<placeName key="CN0330523T07AA">報本院</placeName>。為人孤硬。有風度。威儀
+    <p><anchor n="X.77.1524.0421b11"/><lb ed="X" n="0421b11"/><persName key="A014516">慧元</persName>。<placeName key="PL000000031785">潮州</placeName>倪氏子。<date key="j21067562107121" when-iso="1056">十九</date>為大僧。遍歷叢席。於<persName key="A003921">黃龍</persName>三
+        <lb ed="X" n="0421b12"/>關語下悟入。住安吉<placeName key="PL000000013126">報本院</placeName>。為人孤硬。有風度。威儀
         <lb ed="X" n="0421b13"/>端重。危坐終日。<persName key="A003921">南禪師</persName>門弟子。能縱跡其行藏者。惟
         <lb ed="X" n="0421b14"/><persName key="A014516">元</persName>而已。<persName key="A014516">元</persName>。初開法。法嗣書至。<persName key="A003921">南</persName>公視其名曰。吾偶忘
         <lb ed="X" n="0421b15"/>此僧。謂專使曰。書未欲開。可令親來見。專使反命。<persName key="A014516">元</persName>
-        <lb ed="X" n="0421b16"/>即腰包而來。至<placeName key="CN0360122Z22AA">豫章</placeName>。聞<persName key="A003921">南</persName>公化去。因留歎息。適<persName key="A008470">晦堂<lb ed="X" n="0421b17"/>老人</persName>。出城相會。與語奇之曰。恨老師不及見耳。<persName key="A014516">元</persName>道
-        <lb ed="X" n="0421b18"/>化<placeName key="CN0320500A02AA">東吳</placeName>。歸之者如雲。甞自乞食。舟還遇盜。舟人絕呌。
+        <lb ed="X" n="0421b16"/>即腰包而來。至<placeName key="PL000000018674">豫章</placeName>。聞<persName key="A003921">南</persName>公化去。因留歎息。適<persName key="A008470">晦堂<lb ed="X" n="0421b17"/>老人</persName>。出城相會。與語奇之曰。恨老師不及見耳。<persName key="A014516">元</persName>道
+        <lb ed="X" n="0421b18"/>化<placeName key="PL000000009816">東吳</placeName>。歸之者如雲。甞自乞食。舟還遇盜。舟人絕呌。
         <lb ed="X" n="0421b19"/>白刃交錯於前。<persName key="A014516">元</persName>安坐自若。徐曰。所有盡以奉施。人
         <lb ed="X" n="0421b20"/>命不可害也。盜既去。達旦人來。意師死矣。而顏色不
         <lb ed="X" n="0421b21"/>亂。神氣如常。其臨死生禍福。能脫然無累如此。自說
         <lb ed="X" n="0421b22"/>法來。一榻蕭然。長坐不臥。三十餘年如一日。化後塔
-        <lb ed="X" n="0421b23"/>全身于<placeName key="unknown">峴山</placeName>。</p>
+        <lb ed="X" n="0421b23"/>全身于<placeName key="PL000000012945">峴山</placeName>。</p>
+    
+    <linkGrp>
+        <link targets="#0421b11 #0421b11"/> 
+        <ptr target="#A014516" type="person"/>
+        <ptr target="#PL000000031785" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0421b11 #0421b11"/> 
+        <ptr target="#A014516" type="person"/>
+        <ptr target="#j21067562107121" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0421b11 #0421b16"/> 
+        <ptr target="#A014516" type="person"/>
+        <ptr target="#A003921" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0421b12 #0421b13"/> 
+        <ptr target="#A014516" type="person"/>
+        <ptr target="#PL000000013126" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0421b16 #0421b17"/> 
+        <ptr target="#A014516" type="person"/>
+        <ptr target="#A008470" type="person"/>
+        <ptr target="#PL000000018674" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0421b17 #0421b21"/> 
+        <ptr target="#A014516" type="person"/>
+        <ptr target="#PL000000009816" type="place"/>
+    </linkGrp>
 </div>

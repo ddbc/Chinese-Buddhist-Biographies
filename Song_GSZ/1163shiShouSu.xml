@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0868a18shiShouSu">
     <anchor n="T.50.2061.0868a18"/><head><date from-iso="0618-06-21" key="j19469512052491" to-iso="0907-06-06">唐</date>京兆大興善寺<persName key="A013589">守素</persName>傳</head><p>
-<lb ed="T" n="0868a19"/><persName key="A013589">釋守素</persName>者，立性高邁，與群不同。居<placeName key="CN0610103T03AA">京興善
+<lb ed="T" n="0868a19"/><persName key="A013589">釋守素</persName>者，立性高邁，與群不同。居<placeName key="PL000000042218">京興善
 <lb ed="T" n="0868a20"/>寺</placeName>恒以誦持為急務。其院幽僻，庭有青桐
 <lb ed="T" n="0868a21"/>四株，皆<persName key="A013589">素</persName>之手植。<date key="j20154742020606" notAfter-iso="0820" notBefore-iso="0806">元和</date>中，卿相多遊此院。青
 <lb ed="T" n="0868a22"/>桐至夏中無何發汗，頗污人衣，如輠脂
@@ -27,13 +27,13 @@
     <linkGrp>
         <link targets="#0868a19 #0868a21"/>
         <ptr target="#A013589" type="person"/>
-        <ptr target="#CN0610103T03AA" type="place"/>
+        <ptr target="#PL000000042218" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0868a21 #0868a28"/>
         <ptr target="#A013589" type="person"/>
         <ptr target="#A009535" type="person"/>
-        <ptr target="#CN0610103T03AA" type="place"/>
+        <ptr target="#PL000000042218" type="place"/>
         <ptr target="#j20154742020606" type="time"/>
     </linkGrp>
 </div>

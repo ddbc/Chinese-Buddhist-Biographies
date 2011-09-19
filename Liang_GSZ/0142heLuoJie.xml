@@ -1,33 +1,33 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0389a03heLuoJie">
-	<p><anchor n="T.50.2059.0389a03"/><lb ed="T" n="0389a03"/><persName key="A002282">訶羅竭</persName>者，本<ptr target="fn01"/><placeName key="CN0130626Z12AA">樊陽</placeName><!-- 疑為"范陽" -->人。少出家，誦經二百萬<lb ed="T" n="0389a04"/>言。性虛玄，守戒節，善舉<ptr target="fn02"/>厝，美容色。多行<lb ed="T" n="0389a05"/>頭陀，獨宿山野。<persName key="A003224">晉武帝</persName><date key="j18262991826653" from-iso="0288-02-19" to-iso="0289-02-07">太康九年</date>暫至<placeName key="CN0410322Z24AA">洛<lb ed="T" n="0389a06"/>陽</placeName>，時疫疾甚流，死者相繼。<persName key="A002282">竭</persName>為呪治，十差<lb ed="T" n="0389a07"/>八九。至<persName key="A003225">晉惠帝</persName><date key="j18274511827745" from-iso="0291-04-16" to-iso="0292-02-04">元康元年</date>，乃西入，止<placeName key="CN0410301M02AA">婁至山</placeName><lb ed="T" n="0389a08"/>石室中坐禪。此室去水既遠，時人欲為開<lb ed="T" n="0389a09"/>澗。<persName key="A002282">竭</persName>曰：「不假相勞。」乃自起以左脚蹍室西<lb ed="T" n="0389a10"/>石壁，壁陷沒指。既拔足，水從中出，清香<ptr target="fn03"/>軟<lb ed="T" n="0389a11"/>美，四時不絕。來飲者皆止飢渴，除疾病。</p><p>至<lb ed="T" n="0389a12"/><date key="j18299311830314" from-iso="0298-01-29" to-iso="0299-02-16">元康八年</date>端坐從化，弟子依<ptr target="fn04"/>西國法闍維<lb ed="T" n="0389a13"/>之。焚燎累日，而屍猶坐火中，<ptr target="fn05"/>水不灰燼，乃<lb ed="T" n="0389a14"/>移還石室內。後<placeName key="CN0650000E01AA">西域</placeName>人<persName key="A003226">竺定</persName>字安世，晉<date key="j18402081843456" notAfter-iso="0335" notBefore-iso="0326">咸和<lb ed="T" n="0389a15"/>中</date>往其國，親自觀<ptr target="fn06"/>視，屍儼然平坐，已三十<lb ed="T" n="0389a16"/>餘年。<persName key="A003226">定</persName>後至<placeName key="CN0410322Z24AA">京</placeName>，傳之道俗。</p>
+	<p><anchor n="T.50.2059.0389a03"/><lb ed="T" n="0389a03"/><persName key="A002282">訶羅竭</persName>者，本<ptr target="fn01"/><placeName key="PL000000002208">樊陽</placeName><!-- 疑為"范陽" -->人。少出家，誦經二百萬<lb ed="T" n="0389a04"/>言。性虛玄，守戒節，善舉<ptr target="fn02"/>厝，美容色。多行<lb ed="T" n="0389a05"/>頭陀，獨宿山野。<persName key="A003224">晉武帝</persName><date key="j18262991826653" from-iso="0288-02-19" to-iso="0289-02-07">太康九年</date>暫至<placeName key="PL000000023710">洛<lb ed="T" n="0389a06"/>陽</placeName>，時疫疾甚流，死者相繼。<persName key="A002282">竭</persName>為呪治，十差<lb ed="T" n="0389a07"/>八九。至<persName key="A003225">晉惠帝</persName><date key="j18274511827745" from-iso="0291-04-16" to-iso="0292-02-04">元康元年</date>，乃西入，止<placeName key="PL000000023536">婁至山</placeName><lb ed="T" n="0389a08"/>石室中坐禪。此室去水既遠，時人欲為開<lb ed="T" n="0389a09"/>澗。<persName key="A002282">竭</persName>曰：「不假相勞。」乃自起以左脚蹍室西<lb ed="T" n="0389a10"/>石壁，壁陷沒指。既拔足，水從中出，清香<ptr target="fn03"/>軟<lb ed="T" n="0389a11"/>美，四時不絕。來飲者皆止飢渴，除疾病。</p><p>至<lb ed="T" n="0389a12"/><date key="j18299311830314" from-iso="0298-01-29" to-iso="0299-02-16">元康八年</date>端坐從化，弟子依<ptr target="fn04"/>西國法闍維<lb ed="T" n="0389a13"/>之。焚燎累日，而屍猶坐火中，<ptr target="fn05"/>水不灰燼，乃<lb ed="T" n="0389a14"/>移還石室內。後<placeName key="PL000000047439">西域</placeName>人<persName key="A003226">竺定</persName>字安世，晉<date key="j18402081843456" notAfter-iso="0335" notBefore-iso="0326">咸和<lb ed="T" n="0389a15"/>中</date>往其國，親自觀<ptr target="fn06"/>視，屍儼然平坐，已三十<lb ed="T" n="0389a16"/>餘年。<persName key="A003226">定</persName>後至<placeName key="PL000000023710">京</placeName>，傳之道俗。</p>
 	<linkGrp>
 		<link targets="#0389a05 #0389a07"/>
 		<ptr target="#A002282" type="person"/>
-		<ptr target="#CN0410322Z24AA" type="place"/>
+		<ptr target="#PL000000023710" type="place"/>
 		<ptr target="#j18262991826653" type="time"/>
 	</linkGrp>
 	<linkGrp>
 		<link targets="#0389a07 #0389a11"/>
 		<ptr target="#A002282" type="person"/>
-		<ptr target="#CN0410301M02AA" type="place"/>
+		<ptr target="#PL000000023536" type="place"/>
 		<ptr target="#j18274511827745" type="time"/>
 	</linkGrp>
 	<linkGrp>
 		<link targets="#0389a12 #0389a14"/>
 		<ptr target="#A002282" type="person"/>
-		<ptr target="#CN0410301M02AA" type="place"/>
+		<ptr target="#PL000000023536" type="place"/>
 		<ptr target="#j18299311830314" type="time"/>
 	</linkGrp>
 	<linkGrp>
 		<link targets="#0389a14 #0389a16"/>
 		<ptr target="#A003226" type="person"/>
-		<ptr target="#CN0410322Z24AA" type="place"/>
+		<ptr target="#PL000000023710" type="place"/>
 		<ptr target="#j18402081843456" type="time"/>
 	</linkGrp>
 	<linkGrp>
 		<link targets="#0389a16 #0389a16"/>
 		<ptr target="#A003226" type="person"/>
-		<ptr target="#CN0410322Z24AA" type="place"/>
+		<ptr target="#PL000000023710" type="place"/>
 	</linkGrp>
 </div>

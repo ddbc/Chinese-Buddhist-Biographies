@@ -1,13 +1,13 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="cszjj0096a29kangSengHui">
     <head><lb ed="T" n="0096a29"/><persName key="A001046">康僧會</persName>傳第四</head>
-    <p><anchor n="T.55.2145.0096b01"/><lb ed="T" n="0096b01"/><persName key="A001046">康僧會</persName>，其先<placeName key="UZTO00000E01AA">康居</placeName>人，世居<placeName key="IN0000000E01AA">天竺</placeName>。其父因商賈，
-        <lb ed="T" n="0096b02"/>移于<placeName key="VN0000000E01AA">交阯</placeName>。<persName key="A001046">會</persName>年十餘歲，二親並亡，以至性
+    <p><anchor n="T.55.2145.0096b01"/><lb ed="T" n="0096b01"/><persName key="A001046">康僧會</persName>，其先<placeName key="PL000000055089">康居</placeName>人，世居<placeName key="PL000000048207">天竺</placeName>。其父因商賈，
+        <lb ed="T" n="0096b02"/>移于<placeName key="PL000000055093">交阯</placeName>。<persName key="A001046">會</persName>年十餘歲，二親並亡，以至性
         <lb ed="T" n="0096b03"/><ptr target="fn7"/>聞。既而出家，礪行甚峻。為人弘雅有識量，
         <lb ed="T" n="0096b04"/>篤志好學，明練三藏，博覽六典，天文圖緯，多
         <lb ed="T" n="0096b05"/>所貫涉，辯於樞機，頗屬文翰。時<persName key="A002169">孫權</persName><ptr target="fn8"/>稱制
-        <lb ed="T" n="0096b06"/><placeName key="CN0000007D01AA">江左</placeName>，而未有佛教。<persName key="A001046">會</persName>欲運流大法，乃振錫東
-        <lb ed="T" n="0096b07"/>遊。以<date from-iso="0247-02-22" to-iso="0248-02-11" key="j18113271811681">赤烏十年</date>至<placeName key="CN0320106Z08AA">建業</placeName>，營立茅茨，設像行道。
+        <lb ed="T" n="0096b06"/><placeName key="PL000000000197">江左</placeName>，而未有佛教。<persName key="A001046">會</persName>欲運流大法，乃振錫東
+        <lb ed="T" n="0096b07"/>遊。以<date from-iso="0247-02-22" to-iso="0248-02-11" key="j18113271811681">赤烏十年</date>至<placeName key="PL000000008978">建業</placeName>，營立茅茨，設像行道。
         <lb ed="T" n="0096b08"/>有司奏曰：「有<ptr target="fn＊"/>胡人入境，自稱沙門，容服非
         <lb ed="T" n="0096b09"/>恒，事應驗察。」<persName key="A002169">權</persName>曰：「吾聞<persName key="A002001">漢明</persName>夢神，號稱為
         <lb ed="T" n="0096b10"/>佛，彼之所事，豈其遺風耶？」即召<persName key="A001046">會</persName>詰問，有何
@@ -29,10 +29,10 @@
         <lb ed="T" n="0096b26"/>而已，乃劫燒之火不能燔，金剛之杵不能壞
         <lb ed="T" n="0096b27"/>矣。」<persName key="A002169">權</persName>命取鐵槌砧，使力士擊之。砧<ptr target="fn13"/>搥並陷，而
         <lb ed="T" n="0096b28"/>舍利無<ptr target="fn14"/>異。<persName key="A002169">權</persName>大嗟服，即為建塔。以始有佛寺，
-        <lb ed="T" n="0096b29"/>故曰<placeName key="CN0320104T04AA">建初寺</placeName>，因名其地為佛陀里。由是<placeName key="CN0000007D01AA">江左</placeName>
+        <lb ed="T" n="0096b29"/>故曰<placeName key="PL000000008825">建初寺</placeName>，因名其地為佛陀里。由是<placeName key="PL000000000197">江左</placeName>
         <lb ed="T" n="0096c01"/>大法遂興。</p><p>至<persName key="A002175">孫晧</persName>昏虐，欲燔塔廟。群臣僉諫，
             <lb ed="T" n="0096c02"/>以為佛之威力不同餘神。<persName key="A001046">康會</persName>感瑞，<persName key="A002169">大皇</persName>創
-            <lb ed="T" n="0096c03"/>寺，今若輕毀，恐貽後悔。<persName key="A002175">晧</persName><ptr target="fn15"/>悟，遣<persName key="A002176">張昱</persName>詣<ref type="place" target="#CN0320104T04AA">寺</ref>詰
+            <lb ed="T" n="0096c03"/>寺，今若輕毀，恐貽後悔。<persName key="A002175">晧</persName><ptr target="fn15"/>悟，遣<persName key="A002176">張昱</persName>詣<ref type="place" target="#PL000000008825">寺</ref>詰
             <lb ed="T" n="0096c04"/><persName key="A001046">會</persName>。<persName key="A002176">昱</persName>雅有才辯，難問縱橫，<persName key="A001046">會</persName>應機騁辭，文理
             <lb ed="T" n="0096c05"/><ptr target="fn16"/>交出。自旦至夕，<persName key="A002176">昱</persName>不能屈。既退，<persName key="A001046">會</persName>送于門，
             <lb ed="T" n="0096c06"/>時寺側有婬祀者。<persName key="A002176">昱</persName>曰：「玄化既孚，此輩何故
@@ -67,9 +67,9 @@
                 <lb ed="T" n="0097a07"/>三十五願，分作二百五十事，行<ptr target="fn3"/>步坐起，皆願
                 <lb ed="T" n="0097a08"/>眾生。<persName key="A002175">晧</persName>見慈願，致深世書所不及，益增善意，
                 <lb ed="T" n="0097a09"/>即就<persName key="A001046">會</persName>受五戒。旬日疾瘳，乃修治<persName key="A001046">會</persName>所住寺，
-                <lb ed="T" n="0097a10"/>號為<placeName key="CN0320104T04AA">天子寺</placeName>。宣勅宮內，宗室群臣，莫不必奉。
+                <lb ed="T" n="0097a10"/>號為<placeName key="PL000000008825">天子寺</placeName>。宣勅宮內，宗室群臣，莫不必奉。
                 <lb ed="T" n="0097a11"/><persName key="A001046">會</persName>在吳朝，亟說正法，以<persName key="A002175">晧</persName>性凶麁，不及妙義，
-                <lb ed="T" n="0097a12"/>唯敘報應近驗，以開諷其心焉。</p><p><persName key="A001046">會</persName>於<placeName key="CN0320104T04AA">建初寺</placeName>
+                <lb ed="T" n="0097a12"/>唯敘報應近驗，以開諷其心焉。</p><p><persName key="A001046">會</persName>於<placeName key="PL000000008825">建初寺</placeName>
                     <lb ed="T" n="0097a13"/>譯出經法，《阿難念彌經》、《鏡面王》、《察微王》、《梵皇
                     <lb ed="T" n="0097a14"/>王經》、《道品》及《六度集》，並妙得經體，文義允正。
                     <lb ed="T" n="0097a15"/>又注《安般守意》、《法鏡》、《道樹》三經，并製經序，辭
@@ -79,49 +79,49 @@
     <linkGrp>
         <link targets="#0096b01 #0096b03"/>
         <ptr target="#A001046" type="person"/>
-        <ptr target="#VN0000000E01AA" type="place"/>
+        <ptr target="#PL000000055093" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0096b05 #0096b07"/>
         <ptr target="#A001046" type="person"/>
-        <ptr target="#CN0320106Z08AA" type="place"/>
+        <ptr target="#PL000000008978" type="place"/>
         <ptr target="#j18113271811681" type="time"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0096b08 #0096b28"/>
         <ptr target="#A001046" type="person"/>
         <ptr target="#A002169" type="person"/>
-        <ptr target="#CN0320106Z08AA" type="place"/>
+        <ptr target="#PL000000008978" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0096b28 #0096b29"/>
         <ptr target="#A001046" type="person"/>
         <ptr target="#A002169" type="person"/>
-        <ptr target="#CN0320104T04AA" type="place"/>
+        <ptr target="#PL000000008825" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0096c03 #0096c09"/>
         <ptr target="#A001046" type="person"/>
         <ptr target="#A002176" type="person"/>
-        <ptr target="#CN0320104T04AA" type="place"/>
+        <ptr target="#PL000000008825" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0096c01 #0096c20"/>
         <ptr target="#A001046" type="person"/>
         <ptr target="#A002175" type="person"/>
         <ptr target="#A002176" type="person"/>
-        <ptr target="#CN0320106Z08AA" type="place"/>
+        <ptr target="#PL000000008978" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0096c21 #0097a10"/>
         <ptr target="#A001046" type="person"/>
         <ptr target="#A002175" type="person"/>
-        <ptr target="#CN0320106Z08AA" type="place"/>
+        <ptr target="#PL000000008978" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0097a12 #0097a15"/>
         <ptr target="#A001046" type="person"/>
-        <ptr target="#CN0320104T04AA" type="place"/>
+        <ptr target="#PL000000008825" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0097a16 #0097a17"/>

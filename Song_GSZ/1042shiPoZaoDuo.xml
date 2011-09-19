@@ -1,8 +1,13 @@
 <?xml version='1.0' encoding='utf-8'?>
-<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0828b07shiPoZaoDuo">
-    <anchor n="T.50.2061.0828b07"/><head><date from-iso="0618-06-21" key="j19469512052491" to-iso="0907-06-06">唐</date>嵩嶽<persName key="A012291">破竈墮</persName>傳</head><p>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0828b02shiPoZaoDuo">
+    <lb n="0828b02" ed="T"/><anchor n="T.50.2061.0828b02"/><head><anchor xml:id="beg0828b01"/>宋<anchor xml:id="end0828b01"/>高僧傳<anchor xml:id="beg0828002"/>卷第<anchor xml:id="end0828002"/>十九</head>
+    <lb n="0828b03" ed="T"/>
+    <lb n="0828b04" ed="T"/><byline n="Author"><anchor xml:id="beg0828b02"/>宋左街天壽寺通慧大師
+        <lb n="0828b05" ed="T"/>賜紫沙門贊寧等奉　勅撰<anchor xml:id="end0828b02"/></byline>
+    <lb n="0828b06" ed="T"/><head>感通篇第六之二（正傳二十一人附見八人）</head>
+    <lb n="0828b07" ed="T"/><head><date from-iso="0618-06-21" key="j19469512052491" to-iso="0907-06-06">唐</date>嵩嶽<persName key="A012291">破竈墮</persName>傳</head><p>
 <lb ed="T" n="0828b08"/><persName key="A012291">釋破竈墮</persName>者，不知何許人也。<date from-iso="0684" key="j19711811978588" to-iso="0705">天后</date>之世，參
-<lb ed="T" n="0828b09"/>事<placeName key="CN0410185M02AA">嵩嶽</placeName><persName key="A010232">安禪師</persName>，號<persName key="A010232">老安</persName>是歟？通徹禪法，逍
+<lb ed="T" n="0828b09"/>事<placeName key="PL000000023253">嵩嶽</placeName><persName key="A010232">安禪師</persName>，號<persName key="A010232">老安</persName>是歟？通徹禪法，逍
 <lb ed="T" n="0828b10"/>遙弗羈，恒理求而不見其前，別塗取而莫
         <lb ed="T" n="0828b11"/>趨其後。甞遇巫氏能與人醮竈祓禳，若<date from-iso="-0140-11-01" key="j16702311689734" to-iso="-0086-03-27">漢
 <lb ed="T" n="0828b12"/>武</date>之世<persName key="A012293">李少君</persName>，以祠竈可以致物同也。凡
@@ -19,7 +24,7 @@
         <link targets="#0828b08 #0828b09"/>
         <ptr target="#A012291" type="person"/>
         <ptr target="#A010232" type="person"/>
-        <ptr target="#CN0410185M02AA" type="place"/>
+        <ptr target="#PL000000023253" type="place"/>
         <ptr target="#j19711811978588" type="time"/>
     </linkGrp>
 </div>

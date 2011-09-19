@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0911b25shiYuanJing">
-  <p><anchor n="T.50.2062.0911b25"/><lb ed="T" n="0911b25"/><persName key="A008298">釋圓鏡</persName>汾州<placeName key="CN0141124Z07AA">臨縣</placeName>人。早歲出家游心賢首講<lb ed="T" n="0911b26"/>肆。得悟諸經密旨。常遊平陽府隰州妙樓<lb ed="T" n="0911b27"/>山<placeName key="CN0141031T05AA">石室寺</placeName>。隨緣為眾說法。一日至北門瓦<lb ed="T" n="0911b28"/>窑坡<!--找不到此地-->。土鑿搆一菴。如龕燕默其中。忽囑其<lb ed="T" n="0911b29"/>徒曰<persName key="A008298">吾</persName>將歸矣。眾請其期。曰來日耳。晨興<lb ed="T" n="0911c01"/>沐浴更三衣。焚香趺坐說偈而逝。</p>
+  <p><anchor n="T.50.2062.0911b25"/><lb ed="T" n="0911b25"/><persName key="A008298">釋圓鏡</persName>汾州<placeName key="PL000000006081">臨縣</placeName>人。早歲出家游心賢首講<lb ed="T" n="0911b26"/>肆。得悟諸經密旨。常遊平陽府隰州妙樓<lb ed="T" n="0911b27"/>山<placeName key="PL000000005909">石室寺</placeName>。隨緣為眾說法。一日至北門瓦<lb ed="T" n="0911b28"/>窑坡<!--找不到此地-->。土鑿搆一菴。如龕燕默其中。忽囑其<lb ed="T" n="0911b29"/>徒曰<persName key="A008298">吾</persName>將歸矣。眾請其期。曰來日耳。晨興<lb ed="T" n="0911c01"/>沐浴更三衣。焚香趺坐說偈而逝。</p>
   <linkGrp>
     <link targets="#0911b26 #0911b27"/>
     <ptr target="#A008298" type="person"/>
-    <ptr target="#CN0141031T05AA" type="place"/>
+    <ptr target="#PL000000005909" type="place"/>
   </linkGrp>
 </div>

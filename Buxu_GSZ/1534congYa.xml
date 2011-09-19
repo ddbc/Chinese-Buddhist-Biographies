@@ -1,26 +1,26 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0375a02congYa">
     <head><lb ed="X" n="0375a02"/>　　　　<persName key="A011776">從雅</persName><persName key="A013578">少康</persName>傳</head>
-    <p><anchor n="X.77.1524.0375a03"/><lb ed="X" n="0375a03"/><persName key="A011776">從雅</persName>。<placeName key="CN0330103Z16AA">錢塘</placeName>人。賜號<persName key="A011776">法寶</persName>。始從<persName key="A007895">海月</persName>。學通止觀。乃自謂
-        <lb ed="X" n="0375a04"/>曰。言青行濁。賢聖所訶。遂入<placeName key="CN0330100T16AA">南山天王院</placeName>。誦法華經。
+    <p><anchor n="X.77.1524.0375a03"/><lb ed="X" n="0375a03"/><persName key="A011776">從雅</persName>。<placeName key="PL000000011516">錢塘</placeName>人。賜號<persName key="A011776">法寶</persName>。始從<persName key="A007895">海月</persName>。學通止觀。乃自謂
+        <lb ed="X" n="0375a04"/>曰。言青行濁。賢聖所訶。遂入<placeName key="PL000000011410">南山天王院</placeName>。誦法華經。
         <lb ed="X" n="0375a05"/>至五藏。金剛般若四藏。彌陀經十藏(合五千四十八數。為一藏)。禮
         <lb ed="X" n="0375a06"/>舍利塔十遍(合八萬四千拜。為一遍)。禮釋迦三十萬。拜。彌陀百
         <lb ed="X" n="0375a07"/>萬拜。佛號五千萬聲。禮法華。一字三拜者三過。心期
-        <lb ed="X" n="0375a08"/>淨土一生。坐不背西。憲使<placeName key="CN0341422Z12AA">無為</placeName><persName key="A003554">楊傑</persName>。為製安樂國讚
+        <lb ed="X" n="0375a08"/>淨土一生。坐不背西。憲使<placeName key="PL000000016175">無為</placeName><persName key="A003554">楊傑</persName>。為製安樂國讚
         <lb ed="X" n="0375a09"/>三十章。以美之。其一云。淨土周沙界。何勞獨指西。但
-        <lb ed="X" n="0375a10"/>能從一入。處處是菩提。師欲廣化世俗。遂於受業<placeName key="CN0330103T30AA">淨<lb ed="X" n="0375a11"/>住寺</placeName>。圖九品三輩。刻其讚于石。觀者皆知感化。一日
+        <lb ed="X" n="0375a10"/>能從一入。處處是菩提。師欲廣化世俗。遂於受業<placeName key="PL000000011492">淨<lb ed="X" n="0375a11"/>住寺</placeName>。圖九品三輩。刻其讚于石。觀者皆知感化。一日
         <lb ed="X" n="0375a12"/>無病。趺坐而逝。有天樂鳴空。異香入室之瑞。</p><p>
-            <lb ed="X" n="0375a13"/><persName key="A013578">少康</persName>。不知何許人。姓周。賜號<persName key="A013578">廣道禪師</persName>。行化至<placeName key="CN0421003Z01AA">江陵</placeName>。
-            <lb ed="X" n="0375a14"/>遇一僧曰。汝緣在<placeName key="CN0330182Z08AA">睦州</placeName>。言訖不見。遂至<placeName key="CN0330182Z08AA">睦州</placeName>。日乞食
+            <lb ed="X" n="0375a13"/><persName key="A013578">少康</persName>。不知何許人。姓周。賜號<persName key="A013578">廣道禪師</persName>。行化至<placeName key="PL000000027764">江陵</placeName>。
+            <lb ed="X" n="0375a14"/>遇一僧曰。汝緣在<placeName key="PL000000012005">睦州</placeName>。言訖不見。遂至<placeName key="PL000000012005">睦州</placeName>。日乞食
             <lb ed="X" n="0375a15"/>城中。得錢誘小兒。誦<persName key="A002843">阿彌陀佛</persName>。一聲與一錢。多念多
         <lb ed="X" n="0375a16"/>與。未見乏少。後于山顛建道場。念響佛聲聞數里。每
-            <lb ed="X" n="0375a17"/>念佛一聲。眾見佛從口出。坐逝之夕。有光燭<placeName key="CN0330182M01AA">烏龍山</placeName>。
+            <lb ed="X" n="0375a17"/>念佛一聲。眾見佛從口出。坐逝之夕。有光燭<placeName key="PL000000011985">烏龍山</placeName>。
         <lb ed="X" n="0375a18"/>山色為變白。</p>
     
     <linkGrp>
         <link targets="#0375a03 #0375a03"/>
         <ptr target="#A011776" type="person"/>
-        <ptr target="#CN0330103Z16AA" type="place"/>
+        <ptr target="#PL000000011516" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0375a03 #0375a03"/>
@@ -30,12 +30,12 @@
     <linkGrp>
         <link targets="#0375a03 #0375a08"/>
         <ptr target="#A011776" type="person"/>
-        <ptr target="#CN0330100T16AA" type="place"/>
+        <ptr target="#PL000000011410" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0375a08 #0375a08"/>
         <ptr target="#A003554" type="person"/>
-        <ptr target="#CN0341422Z12AA" type="place"/>
+        <ptr target="#PL000000016175" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0375a08 #0375a10"/>
@@ -45,21 +45,21 @@
     <linkGrp>
         <link targets="#0375a08 #0375a11"/>
         <ptr target="#A011776" type="person"/>
-        <ptr target="#CN0330103T30AA" type="place"/>
+        <ptr target="#PL000000011492" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0375a13 #0375a14"/>
         <ptr target="#A013578" type="person"/>
-        <ptr target="#CN0421003Z01AA" type="place"/>
+        <ptr target="#PL000000027764" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0375a13 #0375a16"/>
         <ptr target="#A013578" type="person"/>
-        <ptr target="#CN0330182Z08AA" type="place"/>
+        <ptr target="#PL000000012005" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0375a16 #0375a18"/>
         <ptr target="#A013578" type="person"/>
-        <ptr target="#CN0330182M01AA" type="place"/>
+        <ptr target="#PL000000011985" type="place"/>
     </linkGrp>
 </div>

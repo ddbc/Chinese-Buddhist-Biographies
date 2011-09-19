@@ -2,7 +2,7 @@
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0889c01shiShenDing">
     <anchor n="T.50.2061.0889c01"/><head><date from-iso="0618-06-21" key="j19469512052491" to-iso="0907-06-06">唐</date>京兆<persName key="A013841">神鼎</persName>傳</head><p>
 <lb ed="T" n="0889c02"/><persName key="A013841">釋神鼎</persName>者，不詳何許人也。狂狷而純直，髮
-<lb ed="T" n="0889c03"/>垂眉際。每持一斗巡<placeName key="CN0610102Z07AA">長安</placeName>市中乞丐。得食，
+<lb ed="T" n="0889c03"/>垂眉際。每持一斗巡<placeName key="PL000000042189">長安</placeName>市中乞丐。得食，
 <lb ed="T" n="0889c04"/>就而食之。人或施麁帛幣布，錦綺羅縠，並
 <lb ed="T" n="0889c05"/>綴聯衣上而著，且無選擇。甞入寺中，見<persName key="A013842">利
 <lb ed="T" n="0889c06"/>貞法師</persName>講於座前，傾聽少時，而問<persName key="A013842">貞</persName>曰：「萬
@@ -33,6 +33,6 @@
         <ptr target="#A013841" type="person"/>
         <ptr target="#A013842" type="person"/>
         <ptr target="#A013843" type="person"/>
-        <ptr target="#CN0610102Z07AA" type="place"/>
+        <ptr target="#PL000000042189" type="place"/>
     </linkGrp>
 </div>

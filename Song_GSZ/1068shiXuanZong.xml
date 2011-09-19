@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0838b01shiXuanZong">
     <anchor n="T.50.2061.0838b01"/><head><date from-iso="0618-06-21" key="j19469512052491" to-iso="0907-06-06">唐</date>壽州紫金山<persName key="A012506">玄宗</persName>傳</head><p>
-<lb ed="T" n="0838b02"/><persName key="A012506">釋玄宗</persName>。姓吳氏。<placeName key="CN0330302Z12AA">永嘉</placeName>人也。少時出塵氣度寬
-<lb ed="T" n="0838b03"/>裕於本部永定山<placeName key="CN0330302T06AA">寶壽院</placeName>。依<persName key="A012508">常靜</persName>為師照。
-<lb ed="T" n="0838b04"/>得戒已還諸方遊學。抵<placeName key="CN0421003Z01AA">江陵</placeName><persName key="A012507">詞朗禪師</persName>門。若
+<lb ed="T" n="0838b02"/><persName key="A012506">釋玄宗</persName>。姓吳氏。<placeName key="PL000000012521">永嘉</placeName>人也。少時出塵氣度寬
+<lb ed="T" n="0838b03"/>裕於本部永定山<placeName key="PL000000012502">寶壽院</placeName>。依<persName key="A012508">常靜</persName>為師照。
+<lb ed="T" n="0838b04"/>得戒已還諸方遊學。抵<placeName key="PL000000027764">江陵</placeName><persName key="A012507">詞朗禪師</persName>門。若
 <lb ed="T" n="0838b05"/>真金之就冶焉。決了疑貳。復振錫他行見
-<lb ed="T" n="0838b06"/><placeName key="CN0341521T04AA">紫金山</placeName>悅可自心。留行禪觀。此山先多虎
+<lb ed="T" n="0838b06"/><placeName key="PL000000016334">紫金山</placeName>悅可自心。留行禪觀。此山先多虎
 <lb ed="T" n="0838b07"/>暴。或噬行商。或傷樵子。避<anchor xml:id="beg0838003"/>苛<anchor xml:id="end0838003"/>政者哭婦
 <lb ed="T" n="0838b08"/>堪哀。從<persName key="A012506">宗</persName>卜居哮㘚絕迹。自邇入山者
 <lb ed="T" n="0838b09"/>無憚矣。一日禪徒擁集。見一老父趨及座
@@ -18,17 +18,17 @@
         <link targets="#0838b03 #0838b04"/>
         <ptr target="#A012506" type="person"/>
         <ptr target="#A012508" type="person"/>
-        <ptr target="#CN0330302T06AA" type="place"/>
+        <ptr target="#PL000000012502" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0838b04 #0838b05"/>
         <ptr target="#A012506" type="person"/>
         <ptr target="#A012507" type="person"/>
-        <ptr target="#CN0421003Z01AA" type="place"/>
+        <ptr target="#PL000000027764" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0838b05 #0838b13"/>
         <ptr target="#A012506" type="person"/>
-        <ptr target="#CN0341521T04AA" type="place"/>
+        <ptr target="#PL000000016334" type="place"/>
     </linkGrp>
 </div>

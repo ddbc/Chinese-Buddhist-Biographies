@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0859c12shiPuJing">
     <anchor n="T.50.2061.0859c12"/><head><date from-iso="0951-02-18" key="j20684542071729" to-iso="0960-02-06">周</date>晉州慈雲寺<persName key="A013519">普靜</persName>傳</head><p>
-<lb ed="T" n="0859c13"/><persName key="A013519">釋普靜</persName>，姓茹氏，<placeName key="CN0411403Z20AA">晉州</placeName><placeName key="CN0141024Z19AA">洪洞</placeName>人也。少出家于本
+<lb ed="T" n="0859c13"/><persName key="A013519">釋普靜</persName>，姓茹氏，<placeName key="PL000000025556">晉州</placeName><placeName key="PL000000005796">洪洞</placeName>人也。少出家于本
 <lb ed="T" n="0859c14"/>郡<persName key="A013520">惠澄法師</persName>，暗誦諸經，明持祕呪，思升白
 <lb ed="T" n="0859c15"/>品，願剪青螺。既下方壇，而循律檢，往禮
-<lb ed="T" n="0859c16"/>鳳翔<placeName key="CN0610324T01AA">法門寺</placeName>真身。乃於<placeName key="CN0411403Z20AA">睢陽</placeName>聽涉赴龍興
+<lb ed="T" n="0859c16"/>鳳翔<placeName key="PL000000042886">法門寺</placeName>真身。乃於<placeName key="PL000000025556">睢陽</placeName>聽涉赴龍興
 <lb ed="T" n="0859c17"/>寺<!--找不到此地-->講訓，徒侶若鱣鮪之宗蛟龍焉。又允琴
-<lb ed="T" n="0859c18"/>臺請轉梵輪，安而能遷。復於<placeName key="CN0411626Z10AA">陳</placeName>、<placeName key="CN0411727Z16AA">蔡</placeName>、<placeName key="CN0371721Z05AA">曹</placeName>、<placeName key="CN0341602Z06AA">亳</placeName>、<placeName key="CN0341302Z05AA">宿</placeName>、
-<lb ed="T" n="0859c19"/><placeName key="CN0320830Z19AA">泗</placeName>，各隨緣獎導。迴於今<placeName key="CN0410224Z42AA">東京</placeName>揚化，善者從
-<lb ed="T" n="0859c20"/>之。<date key="j20655272065880" notAfter-iso="0944-02-01" notBefore-iso="0943-02-13">晉天福癸卯歲</date>，心之懷土，還復<placeName key="CN0411403Z20AA">故鄉</placeName>。遂
+<lb ed="T" n="0859c18"/>臺請轉梵輪，安而能遷。復於<placeName key="PL000000026072">陳</placeName>、<placeName key="PL000000026332">蔡</placeName>、<placeName key="PL000000022793">曹</placeName>、<placeName key="PL000000016493">亳</placeName>、<placeName key="PL000000015988">宿</placeName>、
+<lb ed="T" n="0859c19"/><placeName key="PL000000010633">泗</placeName>，各隨緣獎導。迴於今<placeName key="PL000000023468">東京</placeName>揚化，善者從
+<lb ed="T" n="0859c20"/>之。<date key="j20655272065880" notAfter-iso="0944-02-01" notBefore-iso="0943-02-13">晉天福癸卯歲</date>，心之懷土，還復<placeName key="PL000000025556">故鄉</placeName>。遂
 <lb ed="T" n="0859c21"/>斷食發願，願捨千身，速登正覺。至<date key="j20698982070281" notAfter-iso="0956-02-19" notBefore-iso="0955-02-01">周顯
 <lb ed="T" n="0859c22"/>德二年</date>，遇請真身入寺，遂陳狀於州牧<persName key="A013522">楊
 <lb ed="T" n="0859c23"/>君</persName>，願焚軀供養。<persName key="A013522">楊君</persName>允其意，乃往廣勝寺<!--找不到此地-->，
@@ -22,57 +22,57 @@
         <link targets="#0859c13 #0859c15"/>
         <ptr target="#A013519" type="person"/>
         <ptr target="#A013520" type="person"/>
-        <ptr target="#CN0411403Z20AA" type="place"/>
+        <ptr target="#PL000000025556" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0859c15 #0859c16"/>
         <ptr target="#A013519" type="person"/>
-        <ptr target="#CN0610324T01AA" type="place"/>
+        <ptr target="#PL000000042886" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0859c15 #0859c17"/>
         <ptr target="#A013519" type="person"/>
-        <ptr target="#CN0411403Z20AA" type="place"/>
+        <ptr target="#PL000000025556" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0859c18 #0859c19"/>
         <ptr target="#A013519" type="person"/>
-        <ptr target="#CN0411626Z10AA" type="place"/>
+        <ptr target="#PL000000026072" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0859c18 #0859c19"/>
         <ptr target="#A013519" type="person"/>
-        <ptr target="#CN0411727Z16AA" type="place"/>
+        <ptr target="#PL000000026332" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0859c18 #0859c19"/>
         <ptr target="#A013519" type="person"/>
-        <ptr target="#CN0371721Z05AA" type="place"/>
+        <ptr target="#PL000000022793" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0859c18 #0859c19"/>
         <ptr target="#A013519" type="person"/>
-        <ptr target="#CN0341602Z06AA" type="place"/>
+        <ptr target="#PL000000016493" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0859c18 #0859c19"/>
         <ptr target="#A013519" type="person"/>
-        <ptr target="#CN0341302Z05AA" type="place"/>
+        <ptr target="#PL000000015988" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0859c18 #0859c19"/>
         <ptr target="#A013519" type="person"/>
-        <ptr target="#CN0320830Z19AA" type="place"/>
+        <ptr target="#PL000000010633" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0859c18 #0859c19"/>
         <ptr target="#A013519" type="person"/>
-        <ptr target="#CN0410224Z42AA" type="place"/>
+        <ptr target="#PL000000023468" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0859c20 #0859c21"/>
         <ptr target="#A013519" type="person"/>
-        <ptr target="#CN0411403Z20AA" type="place"/>
+        <ptr target="#PL000000025556" type="place"/>
         <ptr target="#j20655272065880" type="time"/>
     </linkGrp>
     <linkGrp>

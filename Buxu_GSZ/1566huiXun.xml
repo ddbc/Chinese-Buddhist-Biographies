@@ -1,17 +1,17 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0384c04huiXun">
     <head><lb ed="X" n="0384c04"/>　　　　<persName key="A012632">慧詢</persName>傳</head>
-    <p><anchor n="X.77.1524.0384c05"/><lb ed="X" n="0384c05"/><persName key="A012632">慧詢</persName>。字<persName key="A012632">謀道</persName>。號<persName key="A012632">月堂</persName>。其先<placeName key="CN0330302Z09AA">永嘉</placeName>陳氏。寓居四明<placeName key="CN0330902Z04AA">昌國</placeName>
-        <lb ed="X" n="0384c06"/>之<placeName key="CN0330902M08AA">胊山</placeName>。母夢異僧而娠。八歲出家<placeName key="CN0330902T04AA">祖印院</placeName>。初授法華。
+    <p><anchor n="X.77.1524.0384c05"/><lb ed="X" n="0384c05"/><persName key="A012632">慧詢</persName>。字<persName key="A012632">謀道</persName>。號<persName key="A012632">月堂</persName>。其先<placeName key="PL000000012518">永嘉</placeName>陳氏。寓居四明<placeName key="PL000000013793">昌國</placeName>
+        <lb ed="X" n="0384c06"/>之<placeName key="PL000000013780">胊山</placeName>。母夢異僧而娠。<date key="j21323232132687" when-iso="1126">八歲</date>出家<placeName key="PL000000013784">祖印院</placeName>。初授法華。
         <lb ed="X" n="0384c07"/>數遍即能成誦。甞歸省。祖母諭之曰。汝已去家。當學
-        <lb ed="X" n="0384c08"/>吾州<persName key="A008460">忠佛子</persName>。初謁<placeName key="CN0330205T02AA">南湖</placeName><persName key="A014636">澄炤</persName>。以卓立稱至<placeName key="CN0331082M01AA">東掖</placeName>。有忌
+        <lb ed="X" n="0384c08"/><placeName key="PL000000012198">吾州</placeName><persName key="A008460">忠佛子</persName>。初謁<placeName key="PL000000012209">南湖</placeName><persName key="A014636">澄炤</persName>。以卓立稱至<placeName key="PL000000014864">東掖</placeName>。有忌
         <lb ed="X" n="0384c09"/>之者群譟之。師曰。佛法大義。有疑即問。何必見嫉。即
         <lb ed="X" n="0384c10"/>往依<persName key="A012559">圓辯</persName>。聞性惡即具之旨。名體不轉之妙。一家圓
-        <lb ed="X" n="0384c11"/>頓。深有悟入。<date from-iso="1154-09-16" to-iso="1163-02-11" key="j21428082145878">紹興末</date>。出主法昌。遷<placeName key="CN0331023T07AA">淨名</placeName>普和。甞持鉢
+        <lb ed="X" n="0384c11"/>頓。深有悟入。<date from-iso="1154-09-16" to-iso="1163-02-11" key="j21428082145878">紹興末</date>。出主<placeName key="PL000000014924">法昌</placeName>。遷<placeName key="PL000000012629">淨名</placeName><placeName key="PL000000012190">普和</placeName>。甞持鉢
         <lb ed="X" n="0384c12"/>海岸遇盜。師正色曰。汝輩。所欲者財耳。盡與之。因諭
-        <lb ed="X" n="0384c13"/>以善惡業報。盜為感動。歸物悔過而去。<placeName key="CN0331023T07AA">淨名</placeName>無徒。每
+        <lb ed="X" n="0384c13"/>以善惡業報。盜為感動。歸物悔過而去。<placeName key="PL000000012629">淨名</placeName>無徒。每
         <lb ed="X" n="0384c14"/>對海山。為鬼神講維摩經。屢感神應。<date from-iso="1169-02-06" to-iso="1170-01-25" key="j21480652148418">乾道五年</date>。遷主
-        <lb ed="X" n="0384c15"/><placeName key="CN0330205T02AA">南湖</placeName>。負笈之士。自遠而至。幾莫能容。丞相<persName key="A017005">魏[木*巳]</persName>。與師
+        <lb ed="X" n="0384c15"/><placeName key="PL000000012209">南湖</placeName>。負笈之士。自遠而至。幾莫能容。丞相<persName key="A017005">魏[木*巳]</persName>。與師
         <lb ed="X" n="0384c16"/>為道契。甞問世間相常住之旨。師曰。得非以四時代
         <lb ed="X" n="0384c17"/>謝為疑乎。曰然。師曰。窮過去。極未來。雖有代謝。而此
         <lb ed="X" n="0384c18"/>理常住。<date from-iso="1179-11-08" to-iso="1180-02-04" key="j21519922152080">淳熈六年冬</date>。忽告眾示疾。慰問者群至。見門
@@ -26,4 +26,74 @@
         <lb ed="X" n="0385a03"/>說法也。惟自悟心宗。而宣演之。庶得祖師之傳。吾求
             <lb ed="X" n="0385a04"/>悟門切。勿自畫。習台人大病處。數語道盡。<persName key="A012632">月堂</persName>知本
         <lb ed="X" n="0385a05"/>矣。</p>
+    
+    <linkGrp>
+        <link targets="#0384c05 #0384c06"/>
+        <ptr target="#A012632" type="person"/>
+        <ptr target="#PL000000013780" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0384c06 #0384c07"/>
+        <ptr target="#A012632" type="person"/>
+        <ptr target="#PL000000013784" type="place"/>
+        <ptr target="#j21323232132687" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0384c07 #0384c08"/>
+        <ptr target="#A012632" type="person"/>
+        <ptr target="#PL000000012198" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0384c08 #0384c08"/>
+        <ptr target="#A008460" type="person"/>
+        <ptr target="#PL000000012198" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0384c08 #0384c08"/>
+        <ptr target="#A012632" type="person"/>
+        <ptr target="#A014636" type="person"/>
+        <ptr target="#PL000000012209" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0384c08 #0384c09"/>
+        <ptr target="#A012632" type="person"/>
+        <ptr target="#PL000000014864" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0384c09 #0384c11"/>
+        <ptr target="#A012632" type="person"/>
+        <ptr target="#A012559" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0384c11 #0384c11"/>
+        <ptr target="#A012632" type="person"/>
+        <ptr target="#PL000000014924" type="place"/>
+        <ptr target="#j21428082145878" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0384c11 #0384c14"/>
+        <ptr target="#A012632" type="person"/>
+        <ptr target="#PL000000012629" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0384c11 #0384c11"/>
+        <ptr target="#A012632" type="person"/>
+        <ptr target="#PL000000012190" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0384c14 #0384c15"/>
+        <ptr target="#A012632" type="person"/>
+        <ptr target="#PL000000012209" type="place"/>
+        <ptr target="#j21480652148418" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0384c15 #0384c18"/>
+        <ptr target="#A012632" type="person"/>
+        <ptr target="#A017005" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0384c18 #0384c21"/>
+        <ptr target="#A012632" type="person"/>
+        <ptr target="#j21519922152080" type="time"/>
+    </linkGrp>
 </div>

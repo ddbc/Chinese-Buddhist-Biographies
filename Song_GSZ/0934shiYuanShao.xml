@@ -1,18 +1,23 @@
 <?xml version='1.0' encoding='utf-8'?>
-<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0784b20shiYuanShao">
-    <anchor n="T.50.2061.0784b20"/><head><date from-iso="0618-06-21" key="j19469512052491" to-iso="0907-06-06">唐</date>東京封禪寺<persName key="A010654">圓紹</persName>傳</head><p>
-<lb ed="T" n="0784b21"/><persName key="A010654">釋圓紹</persName>，姓孫氏，其先<placeName key="CN0330183Z09AA">富陽</placeName>人也，祖官于<placeName key="CN0410726Z12AA">南
-    <lb ed="T" n="0784b22"/>燕</placeName>，因為<placeName key="CN0410526Z20AA">滑臺白馬</placeName>人焉。年及識環，天然俊
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0784b15shiYuanShao">
+    <lb n="0784b15" ed="T"/><anchor n="T.50.2061.0784b15"/><head><anchor xml:id="beg0784sgsz1"/>宋<anchor xml:id="end0784sgsz1"/>高僧傳卷第十三</head>
+    <lb n="0784b16" ed="T"/>
+    <lb n="0784b17" ed="T"/><byline n="Author"><anchor xml:id="beg0784b02"/>宋左街天壽寺通慧大師
+        <lb n="0784b18" ed="T"/>賜紫沙門贊寧等奉　勅撰<anchor xml:id="end0784b02"/></byline>
+    <lb n="0784b19" ed="T"/><head>習禪篇第三之六（正傳十七人附見六人）</head>
+        <lb n="0784b20" ed="T"/><head><date from-iso="0618-06-21" key="j19469512052491" to-iso="0907-06-06">唐</date>東京封禪寺<persName key="A010654">圓紹</persName>傳</head><p>
+<lb ed="T" n="0784b21"/><persName key="A010654">釋圓紹</persName>，姓孫氏，其先<placeName key="PL000000012060">富陽</placeName>人也，祖官于<placeName key="PL000000024377">南
+    <lb ed="T" n="0784b22"/>燕</placeName>，因為<placeName key="PL000000024153">滑臺白馬</placeName>人焉。年及識環，天然俊
 <lb ed="T" n="0784b23"/>邁。隣兒戲玩，我且恬然；群從追隨，我惟閑靜。
-<lb ed="T" n="0784b24"/>年當<date key="j20234812023846" from-iso="0828-01-01" to-iso="0828-12-31">十八</date>，方遂志出家，師事<placeName key="CN0410526T02AA">明福寺</placeName><persName key="A009465">正覺
+<lb ed="T" n="0784b24"/>年當<date key="j20234812023846" from-iso="0828-01-01" to-iso="0828-12-31">十八</date>，方遂志出家，師事<placeName key="PL000000024131">明福寺</placeName><persName key="A009465">正覺
 <lb ed="T" n="0784b25"/>禪師</persName>。<persName key="A009465">覺</persName>見而異之，訓諸徒弟，獨許<persName key="A010654">紹</persName>耳，曰：
-<lb ed="T" n="0784b26"/>「真空門之偉器也。」至<date key="j20249422025307" from-iso="0832-01-01" to-iso="0832-12-31">年二十二</date>，於<placeName key="CN0410502Z11AA">相州</placeName>義檀
+<lb ed="T" n="0784b26"/>「真空門之偉器也。」至<date key="j20249422025307" from-iso="0832-01-01" to-iso="0832-12-31">年二十二</date>，於<placeName key="PL000000024082">相州</placeName>義檀
 <lb ed="T" n="0784b27"/><persName key="A010656">香燈律師</persName>邊受具。登即尋師訪道，效祖參
 <lb ed="T" n="0784b28"/>玄，二翼之餘，一盂之外，必無他物。唯誓禪
-<lb ed="T" n="0784b29"/>宗立雪傳衣，是其素望也。至于<placeName key="CN0430103A01AA">三湘</placeName>、<placeName key="CN0000001M01AA">五嶺</placeName>、<pb ed="T" n="0784c" xml:id="T50.2061.0784c"/>
-<lb ed="T" n="0784c01"/><placeName key="CN0510184Z16AA">二蜀</placeName>、<placeName key="CN0610102Z07AA">兩</placeName><placeName key="CN0410302Z03AA">京</placeName>，凡曰叢林，一皆參禮。既探至賾，
-        <lb ed="T" n="0784c02"/>頓了心機，乃挂錫於<placeName key="CN0410224T01AA">夷門</placeName>，即<placeName key="CN0410224T01AA">倉垣水南寺</placeName>、
-<lb ed="T" n="0784c03"/>今為<placeName key="CN0410224T01AA">開寶</placeName>也。<date from-iso="0856-02-14" key="j20337522034106" to-iso="0857-02-02">大中十年</date>，適遇唐相國<persName key="A003624">裴公休</persName>
+<lb ed="T" n="0784b29"/>宗立雪傳衣，是其素望也。至于<placeName key="PL000000028622">三湘</placeName>、<placeName key="PL000000000191">五嶺</placeName>、<pb ed="T" n="0784c" xml:id="T50.2061.0784c"/>
+        <lb ed="T" n="0784c01"/><placeName key="PL000000035107">二蜀</placeName>、<placeName key="PL000000042189">兩</placeName><placeName key="PL000000023581">京</placeName>，凡曰叢林，一皆參禮。既探至賾<ptr target="#n331"/>，
+        <lb ed="T" n="0784c02"/>頓了心機，乃挂錫於<placeName key="PL000000023413">夷門</placeName>，即<placeName key="PL000000023413">倉垣水南寺</placeName>、
+<lb ed="T" n="0784c03"/>今為<placeName key="PL000000023413">開寶</placeName>也。<date from-iso="0856-02-14" key="j20337522034106" to-iso="0857-02-02">大中十年</date>，適遇唐相國<persName key="A003624">裴公休</persName>
 <lb ed="T" n="0784c04"/>罷調商鼎，來鎮魏郊。同氣相求，一言道合，
 <lb ed="T" n="0784c05"/>即命居今東上方院<!--找不到此地-->也。<persName key="A010654">紹</persName>將聚禪徒，患其
 <lb ed="T" n="0784c06"/>迫窄，遂開上院<!--找不到此地-->之西，損上益下。時檀施臻
@@ -35,55 +40,55 @@
 <lb ed="T" n="0784c23"/>中逈出五色神光，收舍利百餘粒，四散隨
 <lb ed="T" n="0784c24"/>心淘選，近一千粒，溫潤玉潔，璨爛珠圓，驗
         <lb ed="T" n="0784c25"/>五分之熏成，匪一生之構集。四眾<ptr target="#n98"/>虔仰，復迎
-<lb ed="T" n="0784c26"/>入塔，即<date from-iso="0898-01-30" key="j20490782049461" to-iso="0899-02-17">昭宗皇帝戊午歲</date>也。<placeName key="CN0411403Z20AA">睢陽</placeName>相國<persName key="A010659">袁象
+<lb ed="T" n="0784c26"/>入塔，即<date from-iso="0898-01-30" key="j20490782049461" to-iso="0899-02-17">昭宗皇帝戊午歲</date>也。<placeName key="PL000000025556">睢陽</placeName>相國<persName key="A010659">袁象
 <lb ed="T" n="0784c27"/>先</persName>理于浚郊。弟子<persName key="A010658">惠靄</persName>等兾終法乳，列狀
 <lb ed="T" n="0784c28"/>乞舉行諡禮，<date from-iso="0913-02-14" key="j20545712054590" to-iso="0913-03-05">梁乾化三年癸酉</date>，<persName key="A003877">太祖</persName>勅易名
 <lb ed="T" n="0784c29"/>曰<persName key="A010654">定覺</persName>，塔曰靈化。至<date from-iso="0918-10-13" key="j20566382056667" to-iso="0918-11-11">貞明四年九月</date>，<persName key="A010658">惠靄</persName><pb ed="T" n="0785a" xml:id="T50.2061.0785a"/>
-<lb ed="T" n="0785a01"/>等欲旌表師德立碑，勅允，<placeName key="CN0410204Z15AA">開封</placeName>尹<persName key="A010657">王公瓚</persName>
+<lb ed="T" n="0785a01"/>等欲旌表師德立碑，勅允，<placeName key="PL000000023331">開封</placeName>尹<persName key="A010657">王公瓚</persName>
 <lb ed="T" n="0785a02"/>之文也。</p>
     <linkGrp>
         <link targets="#0784b24 #0784b26"/>
         <ptr target="#A010654" type="person"/>
         <ptr target="#A009465" type="person"/>
-        <ptr target="#CN0410526T02AA" type="place"/>
+        <ptr target="#PL000000024131" type="place"/>
         <ptr target="#j20234812023846" type="time"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0784b26 #0784b29"/>
         <ptr target="#A010654" type="person"/>
         <ptr target="#A010656" type="person"/>
-        <ptr target="#CN0410502Z11AA" type="place"/>
+        <ptr target="#PL000000024082" type="place"/>
         <ptr target="#j20249422025307" type="time"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0784b29 #0784b29"/>
         <ptr target="#A010654" type="person"/>
-        <ptr target="#CN0430103A01AA" type="place"/>
+        <ptr target="#PL000000028622" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0784b29 #0784b29"/>
         <ptr target="#A010654" type="person"/>
-        <ptr target="#CN0000001M01AA" type="place"/>
+        <ptr target="#PL000000000191" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0784b29 #0784c01"/>
         <ptr target="#A010654" type="person"/>
-        <ptr target="#CN0510184Z16AA" type="place"/>
+        <ptr target="#PL000000035107" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0784b29 #0784c02"/>
         <ptr target="#A010654" type="person"/>
-        <ptr target="#CN0610102Z07AA" type="place"/>
+        <ptr target="#PL000000042189" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0784b29 #0784c02"/>
         <ptr target="#A010654" type="person"/>
-        <ptr target="#CN0410302Z03AA" type="place"/>
+        <ptr target="#PL000000023581" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0784c02 #0784c03"/>
         <ptr target="#A010654" type="person"/>
-        <ptr target="#CN0410224T01AA" type="place"/>
+        <ptr target="#PL000000023413" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0784c03 #0784c04"/>
@@ -98,7 +103,7 @@
     <linkGrp>
         <link targets="#0784c26 #0784c27"/>
         <ptr target="#A010659" type="person"/>
-        <ptr target="#CN0411403Z20AA" type="place"/>
+        <ptr target="#PL000000025556" type="place"/>
         <ptr target="#j20490782049461" type="time"/>
     </linkGrp>
     <linkGrp>

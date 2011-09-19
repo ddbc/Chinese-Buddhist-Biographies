@@ -1,20 +1,20 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0354a18shiFaHe">
-        <p><anchor n="T.50.2059.0354a18"/><lb ed="T" n="0354a18"/><ptr target="fn04"/><persName key="A002191">釋法和</persName>，<placeName key="CN0410182Z49AA">榮陽</placeName>人也。少與<persName key="A001503">安公</persName>同學，以恭 <lb ed="T" n="0354a19"/>讓知名。善能標明論<ptr target="fn05"/>綱，解悟疑滯。因石氏<lb ed="T" n="0354a20"/>之亂，率徒入<placeName key="CN0510108Z05AA">蜀</placeName>，<placeName key="CN0510108Z05AA">巴漢</placeName>之士，慕德成群。聞<placeName key="CN0420606Z01AA">襄 <lb ed="T" n="0354a21"/>陽</placeName>陷沒，自<placeName key="CN0510108Z05AA">蜀</placeName>入<placeName key="CN0610000E01AA">關</placeName>，<ptr target="fn06"/>住<placeName key="CN0610101T18AA">陽平寺</placeName>。後於金輿谷<lb ed="T" n="0354a22"/>設會，與<persName key="A001503">安公</persName>共登山嶺，極目周睇，既而悲<lb ed="T" n="0354a23"/>曰：「此山高聳，遊望者多。一從此化，竟測何 <lb ed="T" n="0354a24"/>之。」<persName key="A001503">安</persName>曰：「<persName key="A002191">法師</persName>持心有在，何懼後生！若慧心<lb ed="T" n="0354a25"/>不萌，斯可悲矣。」後與<persName key="A001503">安公</persName>詳定新經，參正 <lb ed="T" n="0354a26"/>文義。頃之，偽晉王<persName key="A002768">姚緒</persName>請住<placeName key="CN0140881Z34AA">蒲坂</placeName>講說。其後 <lb ed="T" n="0354a27"/>少時，勅語弟子：「俗<ptr target="fn07"/>內煩惱，苦累非一。」乃正 <lb ed="T" n="0354a28"/>衣服，繞佛禮拜，還坐本處，以衣蒙頭，奄然 <lb ed="T" n="0354a29"/>而卒，時年八十<ptr target="fn08"/>矣。</p>
+        <p><anchor n="T.50.2059.0354a18"/><lb ed="T" n="0354a18"/><ptr target="fn04"/><persName key="A002191">釋法和</persName>，<placeName key="PL000000023207">榮陽</placeName>人也。少與<persName key="A001503">安公</persName>同學，以恭 <lb ed="T" n="0354a19"/>讓知名。善能標明論<ptr target="fn05"/>綱，解悟疑滯。因石氏<lb ed="T" n="0354a20"/>之亂，率徒入<placeName key="PL000000034779">蜀</placeName>，<placeName key="PL000000034779">巴漢</placeName>之士，慕德成群。聞<placeName key="PL000000027132">襄 <lb ed="T" n="0354a21"/>陽</placeName>陷沒，自<placeName key="PL000000034779">蜀</placeName>入<placeName key="PL000000042002">關</placeName>，<ptr target="fn06"/>住<placeName key="PL000000042072">陽平寺</placeName>。後於金輿谷<lb ed="T" n="0354a22"/>設會，與<persName key="A001503">安公</persName>共登山嶺，極目周睇，既而悲<lb ed="T" n="0354a23"/>曰：「此山高聳，遊望者多。一從此化，竟測何 <lb ed="T" n="0354a24"/>之。」<persName key="A001503">安</persName>曰：「<persName key="A002191">法師</persName>持心有在，何懼後生！若慧心<lb ed="T" n="0354a25"/>不萌，斯可悲矣。」後與<persName key="A001503">安公</persName>詳定新經，參正 <lb ed="T" n="0354a26"/>文義。頃之，偽晉王<persName key="A002768">姚緒</persName>請住<placeName key="PL000000005218">蒲坂</placeName>講說。其後 <lb ed="T" n="0354a27"/>少時，勅語弟子：「俗<ptr target="fn07"/>內煩惱，苦累非一。」乃正 <lb ed="T" n="0354a28"/>衣服，繞佛禮拜，還坐本處，以衣蒙頭，奄然 <lb ed="T" n="0354a29"/>而卒，時年八十<ptr target="fn08"/>矣。</p>
         <linkGrp>
                 <link targets="#0354a21 #0354a21"/>
                 <ptr target="#A002191" type="person"/>
-                <ptr target="#CN0610101T18AA" type="place"/>
+                <ptr target="#PL000000042072" type="place"/>
         </linkGrp>
         <linkGrp>
                 <link targets="#0354a18 #0354a18"/>
                 <ptr target="#A002191" type="person"/>
-                <ptr target="#CN0410182Z49AA" type="place"/>
+                <ptr target="#PL000000023207" type="place"/>
         </linkGrp>
         <linkGrp>
                 <link targets="#0354a19 #0354a20"/>
                 <ptr target="#A002191" type="person"/>
-                <ptr target="#CN0510108Z05AA" type="place"/>
+                <ptr target="#PL000000034779" type="place"/>
         </linkGrp>
         <linkGrp>
                 <link targets="#0354a21 #0354a26"/>
@@ -25,6 +25,6 @@
                 <link targets="#0354a26 #0354a27"/>
                 <ptr target="#A002191" type="person"/>
                 <ptr target="#A002768" type="person"/>
-                <ptr target="#CN0140881Z34AA" type="place"/>
+                <ptr target="#PL000000005218" type="place"/>
         </linkGrp>
 </div>

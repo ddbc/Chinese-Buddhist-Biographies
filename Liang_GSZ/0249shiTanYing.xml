@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0415c24shiTanYing">
-    <p><anchor n="T.50.2059.0415c24"/><lb ed="T" n="0415c24"/><persName key="A003518">釋曇頴</persName>，<placeName key="CN0330602Z06AA">會稽</placeName>人。少出家，謹於戒行，誦經十<lb ed="T" n="0415c25"/>餘萬言，止<placeName key="CN0320104T01AA">長干寺</placeName>。性恭儉，唯以善誘為先。<lb ed="T" n="0415c26"/>故屬意宣唱，天然獨絕。凡要請者，皆貴賤均<lb ed="T" n="0415c27"/>赴，貧富一揆。<persName key="A002649">張暢</persName>聞而歎曰：「辭吐流便，足騰<lb ed="T" n="0415c28"/>遠理。」<persName key="A003518">頴</persName>嘗患<ptr target="fn36"/>癬瘡，積治不除，房內恒供<lb ed="T" n="0415c29"/>養一觀世音像，晨夕禮拜，求差此疾。異時忽<lb ed="T" n="0416a01"/>見一蛇從像後緣壁上屋，須臾有一鼠子<lb ed="T" n="0416a02"/>從屋脫地，涎涶沐身，狀如已死。<persName key="A003518">頴</persName>候之，猶<lb ed="T" n="0416a03"/>似可活，即取竹刮除涎涶。<ptr target="fn01"/>又聞蛇所吞<lb ed="T" n="0416a04"/>鼠，能療瘡疾，即刮取涎涶，以傅癬上。所傅<lb ed="T" n="0416a05"/>既遍，鼠亦還活。信宿之間，瘡痍頓盡。方悟蛇<lb ed="T" n="0416a06"/>之與鼠皆是祈請所致。於是精勤化導，勵節<lb ed="T" n="0416a07"/>彌堅。<persName key="A003042">宋太宰江夏王義恭</persName>最所知重。後卒於<lb ed="T" n="0416a08"/>所住，年八十一。</p>
+    <p><anchor n="T.50.2059.0415c24"/><lb ed="T" n="0415c24"/><persName key="A003518">釋曇頴</persName>，<placeName key="PL000000013244">會稽</placeName>人。少出家，謹於戒行，誦經十<lb ed="T" n="0415c25"/>餘萬言，止<placeName key="PL000000008822">長干寺</placeName>。性恭儉，唯以善誘為先。<lb ed="T" n="0415c26"/>故屬意宣唱，天然獨絕。凡要請者，皆貴賤均<lb ed="T" n="0415c27"/>赴，貧富一揆。<persName key="A002649">張暢</persName>聞而歎曰：「辭吐流便，足騰<lb ed="T" n="0415c28"/>遠理。」<persName key="A003518">頴</persName>嘗患<ptr target="fn36"/>癬瘡，積治不除，房內恒供<lb ed="T" n="0415c29"/>養一觀世音像，晨夕禮拜，求差此疾。異時忽<lb ed="T" n="0416a01"/>見一蛇從像後緣壁上屋，須臾有一鼠子<lb ed="T" n="0416a02"/>從屋脫地，涎涶沐身，狀如已死。<persName key="A003518">頴</persName>候之，猶<lb ed="T" n="0416a03"/>似可活，即取竹刮除涎涶。<ptr target="fn01"/>又聞蛇所吞<lb ed="T" n="0416a04"/>鼠，能療瘡疾，即刮取涎涶，以傅癬上。所傅<lb ed="T" n="0416a05"/>既遍，鼠亦還活。信宿之間，瘡痍頓盡。方悟蛇<lb ed="T" n="0416a06"/>之與鼠皆是祈請所致。於是精勤化導，勵節<lb ed="T" n="0416a07"/>彌堅。<persName key="A003042">宋太宰江夏王義恭</persName>最所知重。後卒於<lb ed="T" n="0416a08"/>所住，年八十一。</p>
     <linkGrp>
         <link targets="#0416a07 #0416a07"/>
         <ptr target="#A003518" type="person"/>
@@ -9,6 +9,6 @@
     <linkGrp>
         <link targets="#0415c24 #0415c25"/>
         <ptr target="#A003518" type="person"/>
-        <ptr target="#CN0320104T01AA" type="place"/>
+        <ptr target="#PL000000008822" type="place"/>
         </linkGrp>
 </div>

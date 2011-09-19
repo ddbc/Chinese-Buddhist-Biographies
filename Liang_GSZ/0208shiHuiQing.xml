@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0407b04shiHuiQing">
-    <p><anchor n="T.50.2059.0407b04"/><lb ed="T" n="0407b04"/><persName key="A002345">釋慧慶</persName>，<placeName key="CN0321081Z27AA">廣陵</placeName>人。出家止<placeName key="CN0360402T04AA">廬山寺</placeName>。學<ptr target="fn11"/>通經律，<lb ed="T" n="0407b05"/>清潔有戒行。誦《法華》、《十地》、《思益》、《維摩》，每夜吟<lb ed="T" n="0407b06"/>諷，常聞闇中有彈指讚歎之聲。嘗於小雷<lb ed="T" n="0407b07"/>遇風波，船將覆沒，<persName key="A002345">慶</persName>唯誦經不輟，覺船<lb ed="T" n="0407b08"/>在浪中，如有人牽之，倏忽至岸。於是篤<lb ed="T" n="0407b09"/>厲彌勤。宋<date key="j18854211886925" notAfter-iso="0454-02-14" notBefore-iso="0450">元嘉末</date>卒，春秋六十有二。</p>
+    <p><anchor n="T.50.2059.0407b04"/><lb ed="T" n="0407b04"/><persName key="A002345">釋慧慶</persName>，<placeName key="PL000000010897">廣陵</placeName>人。出家止<placeName key="PL000000018792">廬山寺</placeName>。學<ptr target="fn11"/>通經律，<lb ed="T" n="0407b05"/>清潔有戒行。誦《法華》、《十地》、《思益》、《維摩》，每夜吟<lb ed="T" n="0407b06"/>諷，常聞闇中有彈指讚歎之聲。嘗於小雷<lb ed="T" n="0407b07"/>遇風波，船將覆沒，<persName key="A002345">慶</persName>唯誦經不輟，覺船<lb ed="T" n="0407b08"/>在浪中，如有人牽之，倏忽至岸。於是篤<lb ed="T" n="0407b09"/>厲彌勤。宋<date key="j18854211886925" notAfter-iso="0454-02-14" notBefore-iso="0450">元嘉末</date>卒，春秋六十有二。</p>
     <linkGrp>
         <link targets="#0407b04 #0407b04"/>
         <ptr target="#A002345" type="person"/>
-        <ptr target="#CN0360402T04AA" type="place"/>
+        <ptr target="#PL000000018792" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0407b09 #0407b09"/>

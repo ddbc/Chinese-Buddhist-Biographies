@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0406c27shiSengSheng">
-    <p><anchor n="T.50.2059.0406c27"/><lb ed="T" n="0406c27"/><persName key="A002342">釋僧生</persName>，姓袁，<placeName key="CN0510124Z14AA">蜀郡郫</placeName>人。少出家，以苦行致<lb ed="T" n="0406c28"/>稱。<placeName key="CN0510108Z13AA">成都</placeName><persName key="A003407">宋豐</persName>等，請為<ptr target="fn28"/><placeName key="CN0510101T15AA">三賢寺</placeName>主。誦《法華》，<lb ed="T" n="0406c29"/>習禪定。<ptr target="fn29"/>常於山中誦經，有虎來蹲其前，<lb ed="T" n="0407a01"/>誦竟<ptr target="fn＊"/>乃去。後每至諷詠，輒見左右四人<lb ed="T" n="0407a02"/>為侍衛。年雖衰老，而翹勤彌厲。後微疾，便<lb ed="T" n="0407a03"/>語侍者云：「<persName key="A002342">吾</persName>將去矣，<ptr target="fn01"/>死後可為燒身。」弟<lb ed="T" n="0407a04"/><ptr target="fn02"/>子依遺命。</p>
+    <p><anchor n="T.50.2059.0406c27"/><lb ed="T" n="0406c27"/><persName key="A002342">釋僧生</persName>，姓袁，<placeName key="PL000000034934">蜀郡郫</placeName>人。少出家，以苦行致<lb ed="T" n="0406c28"/>稱。<placeName key="PL000000034787">成都</placeName><persName key="A003407">宋豐</persName>等，請為<ptr target="fn28"/><placeName key="PL000000034703">三賢寺</placeName>主。誦《法華》，<lb ed="T" n="0406c29"/>習禪定。<ptr target="fn29"/>常於山中誦經，有虎來蹲其前，<lb ed="T" n="0407a01"/>誦竟<ptr target="fn＊"/>乃去。後每至諷詠，輒見左右四人<lb ed="T" n="0407a02"/>為侍衛。年雖衰老，而翹勤彌厲。後微疾，便<lb ed="T" n="0407a03"/>語侍者云：「<persName key="A002342">吾</persName>將去矣，<ptr target="fn01"/>死後可為燒身。」弟<lb ed="T" n="0407a04"/><ptr target="fn02"/>子依遺命。</p>
     <linkGrp>
         <link targets="#0406c28 #0406c28"/>
         <ptr target="#A002342" type="person"/>
         <ptr target="#A003407" type="person"/>
-        <ptr target="#CN0510101T15AA" type="place"/>
+        <ptr target="#PL000000034703" type="place"/>
         </linkGrp>
 </div>

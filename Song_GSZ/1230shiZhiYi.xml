@@ -1,7 +1,12 @@
 <?xml version='1.0' encoding='utf-8'?>
-<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0888c19shiZhiYi">
-    <anchor n="T.50.2061.0888c19"/><head><date from-iso="0420-07-11" key="j18746541896160" to-iso="0479-05-29">南宋</date>錢塘靈隱寺<persName key="A013816">智一</persName>傳</head><p>
-<lb ed="T" n="0888c20"/><persName key="A013816">釋智一</persName>者，不詳何許人也。居<placeName key="CN0330106T01AA">靈隱寺</placeName>之半
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0888c14shiZhiYi">
+    <lb n="0888c14" ed="T"/><anchor n="T.50.2061.0888c14"/><head><anchor xml:id="beg0888c02"/>宋<anchor xml:id="end0888c02"/>高僧傳卷第二十九</head>
+    <lb n="0888c15" ed="T"/>
+    <lb n="0888c16" ed="T"/><byline n="Author"><anchor xml:id="beg0888c03"/>宋左街天壽寺通慧大師
+        <lb n="0888c17" ed="T"/>賜紫沙門贊寧等奉　勅撰<anchor xml:id="end0888c03"/></byline>
+    <lb n="0888c18" ed="T"/><head>雜科聲德篇第十之一（正傳二十六人附見六人）</head>
+                <lb n="0888c19" ed="T"/><head><date from-iso="0420-07-11" key="j18746541896160" to-iso="0479-05-29">南宋</date>錢塘靈隱寺<persName key="A013816">智一</persName>傳</head><p>
+<lb ed="T" n="0888c20"/><persName key="A013816">釋智一</persName>者，不詳何許人也。居<placeName key="PL000000011596">靈隱寺</placeName>之半
 <lb ed="T" n="0888c21"/>峯，精守戒範，而善長嘯。嘯終，乃牽曳其聲，
 <lb ed="T" n="0888c22"/>杳入雲際，如吹笳葉，若揭遊絲，徐舉徐揚，
 <lb ed="T" n="0888c23"/>載哀載咽，颼飀淒切，聽者悲涼，謂之哀松之
@@ -17,6 +22,6 @@
     <linkGrp>
         <link targets="#0888c20 #0888c21"/>
         <ptr target="#A013816" type="person"/>
-        <ptr target="#CN0330106T01AA" type="place"/>
+        <ptr target="#PL000000011596" type="place"/>
     </linkGrp>
 </div>

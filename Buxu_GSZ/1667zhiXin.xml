@@ -1,16 +1,16 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0425b12zhiXin">
     <head><lb ed="X" n="0425b12"/>　　　　<persName key="A014492">福昌信</persName>公傳</head>
-    <p><anchor n="X.77.1524.0425b13"/><lb ed="X" n="0425b13"/><persName key="A014492">知信</persName>。生福州<placeName key="CN0350104Z16AA">閩縣</placeName>蕭氏。蕭氏以捕魚為業。兒時隨父
+    <p><anchor n="X.77.1524.0425b13"/><lb ed="X" n="0425b13"/><persName key="A014492">知信</persName>。生福州<placeName key="PL000000017163">閩縣</placeName>蕭氏。蕭氏以捕魚為業。兒時隨父
         <lb ed="X" n="0425b14"/>漁於江。所得輒棄之。且觸事疎通無憂恚。疑懼撫會
         <lb ed="X" n="0425b15"/>而言。或非人意所及。<date key="j21012782101642" when-iso="1041">年十二</date>去家。持頭陀行甚苦。山
         <lb ed="X" n="0425b16"/>行遇虎。祝之曰。使我得披如來衣。作世間眼者。當不
         <lb ed="X" n="0425b17"/>害我。虎妥尾而去。<date key="j21063912106755" when-iso="1055">年二十有六</date>。以誦經應格。得僧服。
         <lb ed="X" n="0425b18"/>平居與眾勞侶。共一手作。所游非一師。所行非一行。
-        <lb ed="X" n="0425b19"/>最後入<persName key="unknown">夾山遵</persName>之室。師資相合。如石投水。莫之逆也。
+        <lb ed="X" n="0425b19"/>最後入<persName key="A021993">夾山遵</persName>之室。師資相合。如石投水。莫之逆也。
         <lb ed="X" n="0425b20"/>師之接人。不為驚濤險崖關鎻閉距。然非相應者。終
-        <lb ed="X" n="0425b21"/>不得其門而入。在<placeName key="unknown">夾山</placeName>。任直歲典座餘十年。蓻杉松
-        <lb ed="X" n="0425b22"/>滿山。水陸不耕者皆為田。住<placeName key="unknown">禪昌寺</placeName>二十一年。其初
+        <lb ed="X" n="0425b21"/>不得其門而入。在<placeName key="PL000000029532">夾山</placeName>。任直歲典座餘十年。蓻杉松
+        <lb ed="X" n="0425b22"/>滿山。水陸不耕者皆為田。住<placeName key="PL000000027852">禪昌寺</placeName>二十一年。其初
         <lb ed="X" n="0425b23"/>草衣木食。寢食破屋數間。未幾。廣廈不知寒暑。齋供
         <lb ed="X" n="0425b24"/>數百人。師隨事莊嚴。不懈如一日。或勸師。安用苦色
         <lb ed="X" n="0425c01"/>身。以狥事緣。宴居養道可矣。師曰。一切賢聖。出生入
@@ -18,4 +18,32 @@
         <lb ed="X" n="0425c03"/>也。為之益力。<date from-iso="1089-01-21" to-iso="1089-02-18" key="j21188302118858">元祐三年閏十二月</date>示疾。問日早晚。曰。
         <lb ed="X" n="0425c04"/>午矣。起坐而逝。五十九歲也。葬於<persName key="A008335">福昌善</persName>禪師之左。
         <lb ed="X" n="0425c05"/>有語錄。<persName key="A008471">黃山谷</persName>。書其後行之。</p>
+    
+    <linkGrp>
+        <link targets="#0425b13 #0425b13"/> 
+        <ptr target="#A014492" type="person"/>
+        <ptr target="#PL000000017163" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0425b15 #0425b17"/> 
+        <ptr target="#A014492" type="person"/>
+        <ptr target="#j21012782101642" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0425b17 #0425b17"/> 
+        <ptr target="#A014492" type="person"/>
+        <ptr target="#j21063912106755" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0425b19 #0425b22"/> 
+        <ptr target="#A014492" type="person"/>
+        <ptr target="#A021993" type="person"/>
+        <ptr target="#PL000000029532" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0425b22 #0425c04"/> 
+        <ptr target="#A014492" type="person"/>
+        <ptr target="#PL000000027852" type="place"/>
+        <ptr target="#j21188302118858" type="time"/>
+    </linkGrp>
 </div>

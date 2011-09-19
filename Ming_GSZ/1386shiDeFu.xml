@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0934a08shiDeFu">
-  <p><anchor n="T.50.2062.0934a08"/><lb ed="T" n="0934a08"/><persName key="A008758">釋德富</persName>保定<placeName key="CN0130633Z12AA">易縣</placeName>謝氏子也。年七歲力求出<lb ed="T" n="0934a09"/>家。父母感異夢遂捨入<placeName key="CN0130633T03AA">興聖寺</placeName>。依<persName key="A008762">真空和<lb ed="T" n="0934a10"/>尚</persName>薙髮受具戒。力究大法。一日經行次忽<lb ed="T" n="0934a11"/>大悟。自是名播叢林。宋<date from-iso="1312" key="j22003042201012" to-iso="1314">皇慶</date>初<persName key="A008765">萬山壽和<lb ed="T" n="0934a12"/>尚</persName>奉旨大興水陸齋會請<persName key="A008758">師</persName>開堂說法。七<lb ed="T" n="0934a13"/>眾咸集。<persName key="A008758">師</persName>方升座說偈。忽於座上放大光<lb ed="T" n="0934a14"/>明。遍照空際現諸瑞相。良久方隱聞于朝<lb ed="T" n="0934a15"/>廷賜<persName key="A008758">通辯大師</persName>之號併金僧伽黎衣。及後示<lb ed="T" n="0934a16"/>滅有白光頂出照耀四達。荼毘得舍利數<lb ed="T" n="0934a17"/>十顆。建塔。</p>
+  <p><anchor n="T.50.2062.0934a08"/><lb ed="T" n="0934a08"/><persName key="A008758">釋德富</persName>保定<placeName key="PL000000002344">易縣</placeName>謝氏子也。年七歲力求出<lb ed="T" n="0934a09"/>家。父母感異夢遂捨入<placeName key="PL000000002330">興聖寺</placeName>。依<persName key="A008762">真空和<lb ed="T" n="0934a10"/>尚</persName>薙髮受具戒。力究大法。一日經行次忽<lb ed="T" n="0934a11"/>大悟。自是名播叢林。宋<date from-iso="1312" key="j22003042201012" to-iso="1314">皇慶</date>初<persName key="A008765">萬山壽和<lb ed="T" n="0934a12"/>尚</persName>奉旨大興水陸齋會請<persName key="A008758">師</persName>開堂說法。七<lb ed="T" n="0934a13"/>眾咸集。<persName key="A008758">師</persName>方升座說偈。忽於座上放大光<lb ed="T" n="0934a14"/>明。遍照空際現諸瑞相。良久方隱聞于朝<lb ed="T" n="0934a15"/>廷賜<persName key="A008758">通辯大師</persName>之號併金僧伽黎衣。及後示<lb ed="T" n="0934a16"/>滅有白光頂出照耀四達。荼毘得舍利數<lb ed="T" n="0934a17"/>十顆。建塔。</p>
   <linkGrp>
     <link targets="#0934a08 #0934a10"/>
     <ptr target="#A008758" type="person"/>
     <ptr target="#A008762" type="person"/>
-    <ptr target="#CN0130633T03AA" type="place"/>
+    <ptr target="#PL000000002330" type="place"/>
   </linkGrp>
   <linkGrp>
     <link targets="#0934a11 #0934a14"/>

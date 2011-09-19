@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0770b21shiZhenShu">
-    <anchor n="T.50.2061.0770b21"/><head><date from-iso="0618-06-21" key="j19469512052491" to-iso="0907-06-06">唐</date><placeName key="CN0360902M02AA">袁州陽岐山</placeName><persName key="A010429">甄叔</persName>傳</head><p>
+    <anchor n="T.50.2061.0770b21"/><head><date from-iso="0618-06-21" key="j19469512052491" to-iso="0907-06-06">唐</date><placeName key="PL000000019592">袁州陽岐山</placeName><persName key="A010429">甄叔</persName>傳</head><p>
 <lb ed="T" n="0770b22"/><persName key="A010429">釋甄叔</persName>，不知何許人也。幼而聰敏，倜儻不
 <lb ed="T" n="0770b23"/>羈。心目融明，具大人相。觀生死輪上，見九
 <lb ed="T" n="0770b24"/>地群迷，猶如蟭螟處在蚊睫。受勝妙欲，似
@@ -11,7 +11,7 @@
 <lb ed="T" n="0770b29"/>心虛絕兆，萬象齊照。體斯理者，不言而遍<pb ed="T" n="0770c" xml:id="T50.2061.0770c"/>
 <lb ed="T" n="0770c01"/>歷沙界，不用而功益玄化。如何背覺，反合
 <lb ed="T" n="0770c02"/>塵勞，於陰界中，妄自囚繫。」於是形同水月
-        <lb ed="T" n="0770c03"/>流浪人天哉。<persName key="A010429">叔</persName>見<placeName key="CN0360902M02AA">宜春陽岐山</placeName>群峯四合，
+        <lb ed="T" n="0770c03"/>流浪人天哉。<persName key="A010429">叔</persName>見<placeName key="PL000000019592">宜春陽岐山</placeName>群峯四合，
 <lb ed="T" n="0770c04"/>歎曰：「坤元作鎮，造我法城。」纔發一言，千巖
 <lb ed="T" n="0770c05"/>響答，松開月殿，星布雲廊，青嵐域中化出
 <lb ed="T" n="0770c06"/>金界。始從宴坐，四十餘年，滿室金光，晝夜常
@@ -29,12 +29,12 @@
     <linkGrp>
         <link targets="#0770c03 #0770c05"/>
         <ptr target="#A009179" type="person"/>
-        <ptr target="#CN0360902M02AA" type="place"/>
+        <ptr target="#PL000000019592" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0770c07 #0770c08"/>
         <ptr target="#A009179" type="person"/>
-        <ptr target="#CN0360902M02AA" type="place"/>
+        <ptr target="#PL000000019592" type="place"/>
         <ptr target="#j20205932020593" type="time"/>
     </linkGrp>
     <linkGrp>

@@ -1,30 +1,30 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0646b09shiSengLin">
-    <p><anchor n="T.50.2060.0646b09"/><lb ed="T" n="0646b09"/><persName key="A006818">釋僧林</persName>。<placeName key="CN0320503Z01AA">吳</placeName>人。深有德素。行能動物。<date key="j19165151920632" notAfter-iso="0546" notBefore-iso="0535">梁大同</date><lb ed="T" n="0646b10"/>中。上蜀至<placeName key="CN0510704Z02AA">潼州</placeName>。城西北百四十里有<placeName key="CN0510781M02AA">豆圌<lb ed="T" n="0646b11"/>山</placeName>上有神祠。土民敬之。每往祭謁。<persName key="A006818">林</persName>往居<lb ed="T" n="0646b12"/>之禪默累日。忽有大蟒縈繩床前。舉頭<lb ed="T" n="0646b13"/>如揖讓者。<persName key="A006818">林</persName>為授三歸。受已便去。<ptr target="fn19"/>因爾安<lb ed="T" n="0646b14"/>怗卒無災異。其山北<placeName key="CN0510000R02AA">涪水</placeName>之陽。素來無猿。<lb ed="T" n="0646b15"/>自<persName key="A006818">林</persName>栖託已來。便有兩頭依<persName key="A006818">林</persName>而住。有初<lb ed="T" n="0646b16"/>見者云度水來。及後<persName key="A006818">林</persName>出山門。猿還<ptr target="fn20"/>洄<lb ed="T" n="0646b17"/>度。如此非一。年月淹久孚乳產<ptr target="fn21"/>生。乃有數<lb ed="T" n="0646b18"/>十。有時送<persName key="A006818">林</persName>至<placeName key="CN0510800M01AA">龍門</placeName>口。竚望而返。後往<placeName key="CN0500224Z03AA">赤<lb ed="T" n="0646b19"/>水</placeName>巖故寺中。屋宇並摧止有叢林。便即露坐。<lb ed="T" n="0646b20"/>有虎蹲於<persName key="A006818">林</persName>前。低目視<persName key="A006818">林</persName>。乃為說法。良久<lb ed="T" n="0646b21"/>便去。爾後孤遊雄悍不避惡<ptr target="fn22"/>狩。常行仁濟。<lb ed="T" n="0646b22"/>感化極多。末卒于<placeName key="CN0510704Z02AA">潼<ptr target="fn23"/>部</placeName>。</p>
+    <p><anchor n="T.50.2060.0646b09"/><lb ed="T" n="0646b09"/><persName key="A006818">釋僧林</persName>。<placeName key="PL000000009913">吳</placeName>人。深有德素。行能動物。<date key="j19165151920632" notAfter-iso="0546" notBefore-iso="0535">梁大同</date><lb ed="T" n="0646b10"/>中。上蜀至<placeName key="PL000000035430">潼州</placeName>。城西北百四十里有<placeName key="PL000000035611">豆圌<lb ed="T" n="0646b11"/>山</placeName>上有神祠。土民敬之。每往祭謁。<persName key="A006818">林</persName>往居<lb ed="T" n="0646b12"/>之禪默累日。忽有大蟒縈繩床前。舉頭<lb ed="T" n="0646b13"/>如揖讓者。<persName key="A006818">林</persName>為授三歸。受已便去。<ptr target="fn19"/>因爾安<lb ed="T" n="0646b14"/>怗卒無災異。其山北<placeName key="PL000000034664">涪水</placeName>之陽。素來無猿。<lb ed="T" n="0646b15"/>自<persName key="A006818">林</persName>栖託已來。便有兩頭依<persName key="A006818">林</persName>而住。有初<lb ed="T" n="0646b16"/>見者云度水來。及後<persName key="A006818">林</persName>出山門。猿還<ptr target="fn20"/>洄<lb ed="T" n="0646b17"/>度。如此非一。年月淹久孚乳產<ptr target="fn21"/>生。乃有數<lb ed="T" n="0646b18"/>十。有時送<persName key="A006818">林</persName>至<placeName key="PL000000035640">龍門</placeName>口。竚望而返。後往<placeName key="PL000000034260">赤<lb ed="T" n="0646b19"/>水</placeName>巖故寺中。屋宇並摧止有叢林。便即露坐。<lb ed="T" n="0646b20"/>有虎蹲於<persName key="A006818">林</persName>前。低目視<persName key="A006818">林</persName>。乃為說法。良久<lb ed="T" n="0646b21"/>便去。爾後孤遊雄悍不避惡<ptr target="fn22"/>狩。常行仁濟。<lb ed="T" n="0646b22"/>感化極多。末卒于<placeName key="PL000000035430">潼<ptr target="fn23"/>部</placeName>。</p>
     <linkGrp>
         <link targets="#0646b09 #0646b09"/>
         <ptr target="#A006818" type="person"/>
-        <ptr target="#CN0320503Z01AA" type="place"/>
+        <ptr target="#PL000000009913" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0646b10 #0646b18"/>
         <ptr target="#A006818" type="person"/>
-        <ptr target="#CN0510781M02AA" type="place"/>
+        <ptr target="#PL000000035611" type="place"/>
         <ptr target="#j19165151920632" type="time"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0646b15 #0646b18"/>
         <ptr target="#A006818" type="person"/>
-        <ptr target="#CN0510800M01AA" type="place"/>
+        <ptr target="#PL000000035640" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0646b18 #0646b22"/>
         <ptr target="#A006818" type="person"/>
-        <ptr target="#CN0500224Z03AA" type="place"/>
+        <ptr target="#PL000000034260" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0646b22 #0646b22"/>
         <ptr target="#A006818" type="person"/>
-        <ptr target="#CN0510704Z02AA" type="place"/>
+        <ptr target="#PL000000035430" type="place"/>
     </linkGrp>
 </div>

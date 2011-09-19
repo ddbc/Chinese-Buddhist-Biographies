@@ -1,9 +1,14 @@
 <?xml version='1.0' encoding='utf-8'?>
-<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0812b10shiWeiXiu">
-    <anchor n="T.50.2061.0812b10"/><head><date from-iso="0618-06-21" key="j19469512052491" to-iso="0907-06-06">唐</date>京師大莊嚴寺<persName key="A011681">威秀</persName>傳</head><p>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0812b05shiWeiXiu">
+    <lb n="0812b05" ed="T"/><anchor n="T.50.2061.0812b05"/><head><anchor xml:id="beg0812b02"/>宋<anchor xml:id="end0812b02"/>高僧傳卷第十七</head>
+    <lb n="0812b06" ed="T"/>
+    <lb n="0812b07" ed="T"/><byline n="Author"><anchor xml:id="beg0812b03"/>宋左街天壽寺通慧大師
+        <lb n="0812b08" ed="T"/>賜紫沙門贊寧等奉　勅撰<anchor xml:id="end0812b03"/></byline>
+    <lb n="0812b09" ed="T"/><head>護法篇第五（正傳十八人附見一人）</head>
+    <lb n="0812b10" ed="T"/><head><date from-iso="0618-06-21" key="j19469512052491" to-iso="0907-06-06">唐</date>京師大莊嚴寺<persName key="A011681">威秀</persName>傳</head><p>
 <lb ed="T" n="0812b11"/><persName key="A011681">釋威秀</persName>，不知何許人也。博達多能，講宣是
 <lb ed="T" n="0812b12"/>務，志存負荷，勇而有儀。其於筆語掞張，特
-<lb ed="T" n="0812b13"/>推明敏。無何，<persName key="A002146">天皇</persName>即位，<date key="j19629811962981" when-iso="0662-05-11">龍朔二年四月十
+        <lb ed="T" n="0812b13"/>推明敏。無何<ptr target="#n493"/>，<persName key="A002146">天皇</persName>即位，<date key="j19629811962981" when-iso="0662-05-11">龍朔二年四月十
 <lb ed="T" n="0812b14"/>五日</date>勅勒僧道咸施俗拜。時則僧徒惶惑，
 <lb ed="T" n="0812b15"/>罔知所裁。<persName key="A011681">秀</persName>嗟教道之中微，歎君<anchor xml:id="beg0812001"/>玉<anchor xml:id="end0812001"/>之
 <lb ed="T" n="0812b16"/>慢法，乃上表稱沙門不合拜。徵引諸史，爰
@@ -15,11 +20,11 @@
 <lb ed="T" n="0812b22"/>五百三十九人請不拜，三百五十四人請拜。
 <lb ed="T" n="0812b23"/>時<persName key="A002146">大帝</persName>至六月勅不拜君而拜父母，尋亦
 <lb ed="T" n="0812b24"/>廢止。<persName key="A011681">秀</persName>之為法，實謂忘身乎！抗表之際，當
-<lb ed="T" n="0812b25"/>年四月二十一日也。時<placeName key="CN0610102Z07AA">京邑</placeName>僧等二百餘人
-<lb ed="T" n="0812b26"/>往<placeName key="CN0610112A02AA">蓬萊宮</placeName>，申表上請。時相謂<persName key="A011681">秀</persName>等曰：「勅令
+<lb ed="T" n="0812b25"/>年四月二十一日也。時<placeName key="PL000000042189">京邑</placeName>僧等二百餘人
+<lb ed="T" n="0812b26"/>往<placeName key="PL000000042356">蓬萊宮</placeName>，申表上請。時相謂<persName key="A011681">秀</persName>等曰：「勅令
 <lb ed="T" n="0812b27"/>詳議，拜否未定，可待後集。」<persName key="A011681">秀</persName>等乃退。於是
-<lb ed="T" n="0812b28"/>大集<placeName key="CN0610103T02AA">西明寺</placeName>，相與謀議，共投啟狀，聞諸達
-<lb ed="T" n="0812b29"/>官貴戚，若救頭然。時<persName key="A001519">宣律師</persName>上<placeName key="CN0610102Z09AA">雍州</placeName>牧<persName key="A011682">沛<pb ed="T" n="0812c" xml:id="T50.2061.0812c"/>
+<lb ed="T" n="0812b28"/>大集<placeName key="PL000000042216">西明寺</placeName>，相與謀議，共投啟狀，聞諸達
+<lb ed="T" n="0812b29"/>官貴戚，若救頭然。時<persName key="A001519">宣律師</persName>上<placeName key="PL000000042191">雍州</placeName>牧<persName key="A011682">沛<pb ed="T" n="0812c" xml:id="T50.2061.0812c"/>
     <lb ed="T" n="0812c01"/>王</persName>啟，別上<persName key="A019413">榮國太夫人</persName>啟等。<persName key="A011681">秀</persName>之批鱗，所謂
 <lb ed="T" n="0812c02"/>以身許法也。</p>
     <linkGrp>
@@ -30,17 +35,17 @@
     <linkGrp>
         <link targets="#0812b24 #0812b27"/>
         <ptr target="#A011681" type="person"/>
-        <ptr target="#CN0610112A02AA" type="place"/>
+        <ptr target="#PL000000042356" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0812b27 #0812b29"/>
         <ptr target="#A011681" type="person"/>
-        <ptr target="#CN0610103T02AA" type="place"/>
+        <ptr target="#PL000000042216" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0812b29 #0812c01"/>
         <ptr target="#A011682" type="person"/>
-        <ptr target="#CN0610102Z09AA" type="place"/>
+        <ptr target="#PL000000042191" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0812b29 #0812c01"/>

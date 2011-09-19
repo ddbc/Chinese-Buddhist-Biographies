@@ -12,17 +12,17 @@
 <lb ed="T" n="0801c23"/>其輕重。<date key="j20015602001560" when-iso="0767-12-26">大曆二年十一月二十七日</date>勅下，今
 <lb ed="T" n="0801c24"/>後僧亡，物隨入僧，仍<anchor xml:id="beg0801005"/>班<anchor xml:id="end0801005"/>告中書門牒，天下
         <lb ed="T" n="0801c25"/>宜依。<persName key="A011023">如</persName>之律匠，非上訓二眾而已，抑亦奮
-        <lb ed="T" n="0801c26"/>內眾之遺事。立功不朽，<persName key="A011023">如公</persName>是乎！終<placeName key="CN0610103T02AA">西明</placeName>、
-        <lb ed="T" n="0801c27"/><placeName key="CN0610102T25AA">安國</placeName>二寺上座。有《文集》三卷，<persName key="A001417">圓照</persName>鳩聚流布
+        <lb ed="T" n="0801c26"/>內眾之遺事。立功不朽，<persName key="A011023">如公</persName>是乎！終<placeName key="PL000000042216">西明</placeName>、
+        <lb ed="T" n="0801c27"/><placeName key="PL000000042134">安國</placeName>二寺上座。有《文集》三卷，<persName key="A001417">圓照</persName>鳩聚流布
 <lb ed="T" n="0801c28"/>焉。</p>
     <linkGrp>
         <link targets="#0801c26 #0801c27"/>
         <ptr target="#A011023" type="person"/>
-        <ptr target="#CN0610103T02AA" type="place"/>
+        <ptr target="#PL000000042216" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0801c26 #0801c27"/>
         <ptr target="#A011023" type="person"/>
-        <ptr target="#CN0610102T25AA" type="place"/>
+        <ptr target="#PL000000042134" type="place"/>
     </linkGrp>
 </div>

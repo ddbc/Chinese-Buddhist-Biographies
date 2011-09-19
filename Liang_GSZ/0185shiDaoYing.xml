@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0401c11shiDaoYing">
-    <p><anchor n="T.50.2059.0401c12"/><lb ed="T" n="0401c12"/><persName key="A002323">釋道營</persName>，未詳<ptr target="fn24"/>何人。始住<placeName key="CN0320102T25AA">靈曜寺</placeName>習禪，晚<lb ed="T" n="0401c13"/>依<persName key="A001746">觀</persName>、<persName key="A002319">詢</persName>二律師諮受毘尼。偏善《僧祇》一部，<lb ed="T" n="0401c14"/>誦《法華》、《金光明》，蔬素守節。<placeName key="CN0320101T60AA">莊嚴</placeName><persName key="A002255">道慧</persName>、<ptr target="fn25"/><placeName key="CN0320103T07AA">治城</placeName><lb ed="T" n="0401c15"/><persName key="A002270">智秀</persName>，皆師其戒範。<persName key="A002972">張永</persName>請還<placeName key="CN0320503Z22AA">吳郡</placeName>，<persName key="A003365">蔡興宗</persName>復<lb ed="T" n="0401c16"/>要住<placeName key="CN0330682Z14AA">上虞</placeName>。<persName key="A002972">永</persName>後於<placeName key="CN0320101A17AA">京師婁<ptr target="fn26"/>胡苑</placeName>立<placeName key="CN0320101T68AA">閑心寺</placeName>，<lb ed="T" n="0401c17"/>復請還居。講席頻仍，學徒甚盛。<date key="j18956961896049" from-iso="0478-02-19" to-iso="0479-02-07">昇明二年</date>卒，<lb ed="T" n="0401c18"/>春秋八十有三矣。</p><p>時有<persName key="A003366">釋慧祐</persName>者，本<placeName key="CN0321102Z19AA">丹徒</placeName>人，<lb ed="T" n="0401c19"/>年三十出家。厲身苦節，精尋律教。<date key="j18961391904532" notAfter-iso="0502" notBefore-iso="0479">齊</date>初入<lb ed="T" n="0401c20"/>東<ptr target="fn27"/>山講《摩訶僧祇部》。<persName key="A002655">齊竟陵王子良</persName>遣迎<lb ed="T" n="0401c21"/>出<placeName key="CN0320106Z05AA">都</placeName>，仍止<placeName key="CN0320101T68AA">閑心寺</placeName>焉。</p>
+    <p><anchor n="T.50.2059.0401c12"/><lb ed="T" n="0401c12"/><persName key="A002323">釋道營</persName>，未詳<ptr target="fn24"/>何人。始住<placeName key="PL000000008764">靈曜寺</placeName>習禪，晚<lb ed="T" n="0401c13"/>依<persName key="A001746">觀</persName>、<persName key="A002319">詢</persName>二律師諮受毘尼。偏善《僧祇》一部，<lb ed="T" n="0401c14"/>誦《法華》、《金光明》，蔬素守節。<placeName key="PL000000008702">莊嚴</placeName><persName key="A002255">道慧</persName>、<ptr target="fn25"/><placeName key="PL000000008804">治城</placeName><lb ed="T" n="0401c15"/><persName key="A002270">智秀</persName>，皆師其戒範。<persName key="A002972">張永</persName>請還<placeName key="PL000000009934">吳郡</placeName>，<persName key="A003365">蔡興宗</persName>復<lb ed="T" n="0401c16"/>要住<placeName key="PL000000013417">上虞</placeName>。<persName key="A002972">永</persName>後於<placeName key="PL000000008608">京師婁<ptr target="fn26"/>胡苑</placeName>立<placeName key="PL000000008710">閑心寺</placeName>，<lb ed="T" n="0401c17"/>復請還居。講席頻仍，學徒甚盛。<date key="j18956961896049" from-iso="0478-02-19" to-iso="0479-02-07">昇明二年</date>卒，<lb ed="T" n="0401c18"/>春秋八十有三矣。</p><p>時有<persName key="A003366">釋慧祐</persName>者，本<placeName key="PL000000010993">丹徒</placeName>人，<lb ed="T" n="0401c19"/>年三十出家。厲身苦節，精尋律教。<date key="j18961391904532" notAfter-iso="0502" notBefore-iso="0479">齊</date>初入<lb ed="T" n="0401c20"/>東<ptr target="fn27"/>山講《摩訶僧祇部》。<persName key="A002655">齊竟陵王子良</persName>遣迎<lb ed="T" n="0401c21"/>出<placeName key="PL000000008975">都</placeName>，仍止<placeName key="PL000000008710">閑心寺</placeName>焉。</p>
     <linkGrp>
         <link targets="#0401c12 #0401c12"/>
         <ptr target="#A002323" type="person"/>
-        <ptr target="#CN0320102T25AA" type="place"/>
+        <ptr target="#PL000000008764" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0401c12 #0401c13"/>
@@ -30,24 +30,24 @@
         <link targets="#0401c15 #0401c15"/>
         <ptr target="#A002323" type="person"/>
         <ptr target="#A002972" type="person"/>
-        <ptr target="#CN0320503Z22AA" type="place"/>
+        <ptr target="#PL000000009934" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0401c15 #0401c16"/>
         <ptr target="#A002323" type="person"/>
         <ptr target="#A003365" type="person"/>
-        <ptr target="#CN0330682Z14AA" type="place"/>
+        <ptr target="#PL000000013417" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0401c16 #0401c17"/>
         <ptr target="#A002323" type="person"/>
-        <ptr target="#CN0320101T68AA" type="place"/>
+        <ptr target="#PL000000008710" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0401c18 #0401c21"/>
         <ptr target="#A003366" type="person"/>
         <ptr target="#A002655" type="person"/>
-        <ptr target="#CN0320101T68AA" type="place"/>
+        <ptr target="#PL000000008710" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0401c17 #0401c18"/>
@@ -58,7 +58,7 @@
         <link targets="#0401c18 #0401c21"/>
         <ptr target="#A003366" type="person"/>
         <ptr target="#A002655" type="person"/>
-        <ptr target="#CN0320101T68AA" type="place"/>
+        <ptr target="#PL000000008710" type="place"/>
         <ptr target="#j18961391904532" type="time"/>
     </linkGrp>
 </div>

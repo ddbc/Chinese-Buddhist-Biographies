@@ -1,43 +1,43 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0749c20shiSengZhao">
-    <anchor n="T.50.2061.0749c20"/><head><date from-iso="0947-03-15" key="j20670182068464" to-iso="0951-02-28">漢</date><placeName key="CN0410302T06AA">洛京法林院</placeName><persName key="A009946">僧照</persName>傳</head><p>
-        <lb ed="T" n="0749c21"/><persName key="A009946">釋僧照</persName>，姓張氏，<placeName key="CN0130681Z24AA">范陽</placeName>人也。<date key="j20468572047222" from-iso="0892-01-01" to-iso="0892-12-31">年十四</date>出家，投<placeName key="CN0110104T02AA">憫
+    <anchor n="T.50.2061.0749c20"/><head><date from-iso="0947-03-15" key="j20670182068464" to-iso="0951-02-28">漢</date><placeName key="PL000000023569">洛京法林院</placeName><persName key="A009946">僧照</persName>傳</head><p>
+        <lb ed="T" n="0749c21"/><persName key="A009946">釋僧照</persName>，姓張氏，<placeName key="PL000000002485">范陽</placeName>人也。<date key="j20468572047222" from-iso="0892-01-01" to-iso="0892-12-31">年十四</date>出家，投<placeName key="PL000000000351">憫
 <lb ed="T" n="0749c22"/>忠寺</placeName>，聰晤絕儔，神儀偉秀。初受經偈，日誦
 <lb ed="T" n="0749c23"/>數千百言，目所覽者過於宿習。吐論知見，
 <lb ed="T" n="0749c24"/>有老成之風。遂度為沙彌。受具已來，歷于
 <lb ed="T" n="0749c25"/>再閏，暗誦經典，已踰六大部矣，即《最勝王》、
 <lb ed="T" n="0749c26"/>《大悲》、《維摩》、《法華》等經。傍加聽尋經論，十數年
 <lb ed="T" n="0749c27"/>間，深文伏義，藍出青矣。<date from-iso="0904" key="j20515102052494" to-iso="0907">天祐中</date>，遊方南下，爰
-        <lb ed="T" n="0749c28"/>屆<placeName key="CN0130682Z15AA">中山</placeName>，元戎<persName key="A009920">王處直</persName>請住<placeName key="CN0130682T03AA">法華寺</placeName>。相次<ref type="person" target="#A000793">易帥</ref><note resp="sgsz">案《舊五代史．卷八十九》：「<persName key="A009920">王處直</persName>以其子<persName key="A000793">都</persName>為易州刺史。」故推測易帥為<persName key="A000793">王都</persName>。</note>
+        <lb ed="T" n="0749c28"/>屆<placeName key="PL000000002513">中山</placeName>，元戎<persName key="A009920">王處直</persName>請住<placeName key="PL000000002495">法華寺</placeName>。相次<ref type="person" target="#A000793">易帥</ref><note resp="sgsz">案《舊五代史．卷八十九》：「<persName key="A009920">王處直</persName>以其子<persName key="A000793">都</persName>為易州刺史。」故推測易帥為<persName key="A000793">王都</persName>。</note>
         <lb ed="T" n="0749c29"/>請<ref type="person" target="#A009946">之</ref>，太傅隴西公連表薦賜紫方袍，加<persName key="A009946">至<pb ed="T" n="0750a" xml:id="T50.2061.0750a"/>
-<lb ed="T" n="0750a01"/>真大師</persName>。次則<placeName key="CN0610322Z16AA">扶風</placeName><persName key="A009948">馬公</persName>請為僧正，非所好
-<lb ed="T" n="0750a02"/>也。及抵<placeName key="CN0410302Z03AA">洛陽</placeName>，有命開《法華經》講，止<placeName key="CN0410302T06AA">法林
+<lb ed="T" n="0750a01"/>真大師</persName>。次則<placeName key="PL000000042848">扶風</placeName><persName key="A009948">馬公</persName>請為僧正，非所好
+<lb ed="T" n="0750a02"/>也。及抵<placeName key="PL000000023581">洛陽</placeName>，有命開《法華經》講，止<placeName key="PL000000023569">法林
 <lb ed="T" n="0750a03"/>院</placeName>。況乎都闕浩穰，象龍輻湊，及<persName key="A009946">照</persName>之唱導，翕
 <lb ed="T" n="0750a04"/>如於下風伏膺矣。以<date key="j20674422067442" when-iso="0948-05-12">乾祐元年三月二十六
-    <lb ed="T" n="0750a05"/>日</date>，示滅于<ref type="place" target="#CN0410302T06AA">講院</ref>，春秋七十，僧臘五十。四眾<ptr target="#n98"/>
-        <lb ed="T" n="0750a06"/>號慕，侍中<persName key="A009955">李公</persName><note resp="sgsz">案《舊五代史．卷一百》：「（<date when-iso="0947-07-31" key="j20671562067156">天福十二年秋七月己丑</date>）以<placeName key="CN0370923Z06AA">鄆州</placeName>節度使、檢校太師、兼侍中<persName key="A009955">李守貞</persName>為<placeName key="CN0140881Z09AA">河中</placeName>節度使，加兼中書令。」故推測侍中李公為<persName key="A009955">李守貞</persName>。</note>傾<placeName key="CN0130633Z15AA">易</placeName><placeName key="CN0130682Z13AA">定</placeName>，曾為外護，復守<placeName key="CN0410302Z03AA">洛</placeName>
+    <lb ed="T" n="0750a05"/>日</date>，示滅于<ref type="place" target="#PL000000023569">講院</ref>，春秋七十，僧臘五十。四眾<ptr target="#n98"/>
+        <lb ed="T" n="0750a06"/>號慕，侍中<persName key="A009955">李公</persName><note resp="sgsz">案《舊五代史．卷一百》：「（<date when-iso="0947-07-31" key="j20671562067156">天福十二年秋七月己丑</date>）以<placeName key="PL000000021661">鄆州</placeName>節度使、檢校太師、兼侍中<persName key="A009955">李守貞</persName>為<placeName key="PL000000005193">河中</placeName>節度使，加兼中書令。」故推測侍中李公為<persName key="A009955">李守貞</persName>。</note>傾<placeName key="PL000000002347">易</placeName><placeName key="PL000000002511">定</placeName>，曾為外護，復守<placeName key="PL000000023581">洛</placeName>
 <lb ed="T" n="0750a07"/>宅，飾終喪禮，悉以資奉。粵<date key="j20674492067449" when-iso="0948-05-19">四月三日</date>遷神于
 <lb ed="T" n="0750a08"/>城南，行<anchor xml:id="beg0750001"/>茶<anchor xml:id="end0750001"/>毘法，收舍利，紅潤可數百粒。
-        <lb ed="T" n="0750a09"/><placeName key="CN0410225Z04AA">濟陽</placeName><note resp="sgsz"><placeName key="CN0410225Z04AA">濟陽</placeName>為丁氏郡望。</note><persName key="A009953">丁公</persName>為保釐之簉職，為樹塔于<placeName key="CN0410311T17AA">廣化</placeName>之
+        <lb ed="T" n="0750a09"/><placeName key="PL000000023476">濟陽</placeName><note resp="sgsz"><placeName key="PL000000023476">濟陽</placeName>為丁氏郡望。</note><persName key="A009953">丁公</persName>為保釐之簉職，為樹塔于<placeName key="PL000000023667">廣化</placeName>之
 <lb ed="T" n="0750a10"/>寺南岡。<persName key="A009946">照</persName>平昔講凡七十餘座，勤勤為法。門
 <lb ed="T" n="0750a11"/>生頗多。宰臣<persName key="A009951">馬公孫</persName>最所欽重，前後贈詩僅
-<lb ed="T" n="0750a12"/>數十首，<placeName key="CN0410302Z03AA">洛</placeName>中為美談矣。</p>
+<lb ed="T" n="0750a12"/>數十首，<placeName key="PL000000023581">洛</placeName>中為美談矣。</p>
     <linkGrp>
         <link targets="#0749c21 #0749c21"/>
         <ptr target="#A009946" type="person"/>
-        <ptr target="#CN0130681Z24AA" type="place"/>
+        <ptr target="#PL000000002485" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0749c21 #0749c22"/>
         <ptr target="#A009946" type="person"/>
-        <ptr target="#CN0110104T02AA" type="place"/>
+        <ptr target="#PL000000000351" type="place"/>
         <ptr target="#j20468572047222" type="time"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0749c27 #0749c28"/>
         <ptr target="#A009946" type="person"/>
         <ptr target="#A009920" type="person"/>
-        <ptr target="#CN0130682T03AA" type="place"/>
+        <ptr target="#PL000000002495" type="place"/>
         <ptr target="#j20515102052494" type="time"/>
     </linkGrp>
     <linkGrp>
@@ -54,12 +54,12 @@
     <linkGrp>
         <link targets="#0750a02 #0750a03"/>
         <ptr target="#A009946" type="person"/>
-        <ptr target="#CN0410302T06AA" type="place"/>
+        <ptr target="#PL000000023569" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0750a04 #0750a05"/>
         <ptr target="#A009946" type="person"/>
-        <ptr target="#CN0410302T06AA" type="place"/>
+        <ptr target="#PL000000023569" type="place"/>
         <ptr target="#j20674422067442" type="time"/>
     </linkGrp>
 </div>

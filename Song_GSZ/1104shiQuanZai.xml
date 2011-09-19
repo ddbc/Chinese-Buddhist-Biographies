@@ -1,23 +1,23 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0850a01shiQuanZai">
     <anchor n="T.50.2061.0850a01"/><head><date from-iso="0923-05-18" key="j20583162063308" to-iso="0937-01-16">後唐</date>天台山<persName key="A012842">全宰</persName>傳</head><p>
-<lb ed="T" n="0850a02"/><persName key="A012842">釋全宰</persName>，姓沈氏，<placeName key="CN0330103Z20AA">錢塘</placeName>人也。孩抱之間，不喜
-<lb ed="T" n="0850a03"/>葷血，其母累覩善徵，勸投<placeName key="CN0330110T11AA">徑山</placeName><persName key="A010583">法濟大師</persName>
+<lb ed="T" n="0850a02"/><persName key="A012842">釋全宰</persName>，姓沈氏，<placeName key="PL000000011520">錢塘</placeName>人也。孩抱之間，不喜
+<lb ed="T" n="0850a03"/>葷血，其母累覩善徵，勸投<placeName key="PL000000011848">徑山</placeName><persName key="A010583">法濟大師</persName>
 <lb ed="T" n="0850a04"/>削染。及修禪觀，亭亭高竦，不雜風塵，慕十
 <lb ed="T" n="0850a05"/>二頭陀以飾其行，諺曰<persName key="A012842">宰道者</persName>焉。迨乎諸
 <lb ed="T" n="0850a06"/>方參請，得<persName key="A010581">石霜禪師</persName>印證，密加保任，入天
-<lb ed="T" n="0850a07"/>台山<placeName key="CN0331023M16AA">闇巖</placeName>以永其志也。伊<placeName key="CN0331023M16AA">巖</placeName>與<persName key="A004127">寒山子</persName>所
+<lb ed="T" n="0850a07"/>台山<placeName key="PL000000014558">闇巖</placeName>以永其志也。伊<placeName key="PL000000014558">巖</placeName>與<persName key="A004127">寒山子</persName>所
 <lb ed="T" n="0850a08"/>隱對峙，皆魑魅木怪所叢萃其間。<persName key="A012842">宰</persName>之居
 <lb ed="T" n="0850a09"/>也二十餘年，惡鳥革音，山精讓窟。其出入經
 <lb ed="T" n="0850a10"/>行，鬼神執役，或掃其路，或侍其旁，或代汲
 <lb ed="T" n="0850a11"/>泉，或供<anchor xml:id="beg0850001"/>採菓<anchor xml:id="end0850001"/>，時時人見，<persName key="A012842">宰</persName>未甞言。後<date from-iso="0930-02-07" key="j20607732060821" to-iso="0930-03-27">天成
-<lb ed="T" n="0850a12"/>五年</date>，<placeName key="CN0330110T11AA">徑山</placeName>禪侶往迎歸<placeName key="CN0320506T06AA">鎮國院</placeName>居，終于出家
+<lb ed="T" n="0850a12"/>五年</date>，<placeName key="PL000000011848">徑山</placeName>禪侶往迎歸<placeName key="PL000000010074">鎮國院</placeName>居，終于出家
 <lb ed="T" n="0850a13"/>本院焉。</p>
     <linkGrp>
         <link targets="#0850a03 #0850a04"/>
         <ptr target="#A012842" type="person"/>
         <ptr target="#A010583" type="person"/>
-        <ptr target="#CN0330110T11AA" type="place"/>
+        <ptr target="#PL000000011848" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0850a05 #0850a06"/>
@@ -27,12 +27,12 @@
     <linkGrp>
         <link targets="#0850a06 #0850a11"/>
         <ptr target="#A012842" type="person"/>
-        <ptr target="#CN0331023M16AA" type="place"/>
+        <ptr target="#PL000000014558" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0850a11 #0850a13"/>
         <ptr target="#A012842" type="person"/>
-        <ptr target="#CN0320506T06AA" type="place"/>
+        <ptr target="#PL000000010074" type="place"/>
         <ptr target="#j20607732060821" type="time"/>
     </linkGrp>
 </div>
