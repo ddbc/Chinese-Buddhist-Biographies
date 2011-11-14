@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0477c08daoYong">
     <head><lb ed="X" n="0477c08"/>　　　　<persName key="A015648">非幻</persName>禪師傳</head>
-    <p><anchor n="X.77.1524.0477c09"/><lb ed="X" n="0477c09"/><persName key="A015648">道永</persName>。字<persName key="A015648">無涯</persName>。<persName key="A015648">非幻</persName>其號。<placeName key="PL000000013652">信安</placeName><placeName key="unknown">浮石鄉</placeName>吳氏子。初娠。父
+    <p><anchor n="X.77.1524.0477c09"/><lb ed="X" n="0477c09"/><persName key="A015648">道永</persName>。字<persName key="A015648">無涯</persName>。<persName key="A015648">非幻</persName>其號。<placeName key="PL000000013652">信安</placeName><placeName key="PL000000055895">浮石鄉</placeName>吳氏子。初娠。父
         <lb ed="X" n="0477c10"/>夢<persName key="unknown">明果</persName>長老肩輿至門。誕之夕復然。因名之曰<persName key="A015648">原僧</persName>。
         <lb ed="X" n="0477c11"/>信嚮堅定。初識字。日課金剛經一卷。父以宿因。俾入
         <lb ed="X" n="0477c12"/><placeName key="PL000000011985">烏石山</placeName>。從<persName key="A015562">傑峰愚</persName>公為僧。初入門。<persName key="A015562">峰</persName>問。何處來。師答
@@ -10,7 +10,7 @@
         <lb ed="X" n="0477c15"/>撞著洪音遍九垓。時年十二。<persName key="A015562">峰</persName>大器之。即令祝髮居
         <lb ed="X" n="0477c16"/>座下。躬服勞勩弗懈。積久凝滯澌盡。游刃肯綮。所向
         <lb ed="X" n="0477c17"/>無礙。遂受印可。<date from-iso="1407-02-17" to-iso="1408-02-05" key="j22350032235356">永樂丁亥</date>初。　<persName key="A000149">太宗文皇帝</persName>。有事於
-        <lb ed="X" n="0477c18"/><placeName key="unknown">長陵</placeName>。廷臣有言。師精於地理學者。徵至。入對稱　旨
+        <lb ed="X" n="0477c18"/><placeName key="PL000000055894">長陵</placeName>。廷臣有言。師精於地理學者。徵至。入對稱　旨
         <lb ed="X" n="0477c19"/>意大加宴賚。即授欽天監五官靈臺郎。賜七品服。俾
         <lb ed="X" n="0477c20"/>蒞其事。事畢。將大用之。師懇求願復為僧。遂擢僧錄
         <lb ed="X" n="0477c21"/>司右闡教。住南京<placeName key="PL000000009064">碧峰寺</placeName>。未幾。俾住持<placeName key="PL000000008741">靈谷寺</placeName>。　恩
@@ -18,10 +18,40 @@
         <lb ed="X" n="0477c23"/><placeName key="PL000000008741">靈谷</placeName>建大齋。禮官董其事甚嚴。師獨若不經意。其徒
         <lb ed="X" n="0477c24"/>怪問之。師笑曰。自家有一大事。甚緊無暇他及。至是
         <lb ed="X" n="0478a01"/>沐浴更衣。敷坐榻上。二僧捧紙至前。把筆大書偈云。
-        <lb ed="X" n="0478a02"/>生死悠悠絕世緣。蒙　恩永樂太平年。這回撒手歸
+        <lb ed="X" n="0478a02"/>生死悠悠絕世緣。蒙　恩<date from-iso="1403-02-01" to-iso="1424-08-21" key="j22335262241398">永樂</date>太平年。這回撒手歸
         <lb ed="X" n="0478a03"/>空去。雪霽雲消月正圓。投筆而逝。同官啟聞。有命停
         <lb ed="X" n="0478a04"/>龕方丈。十又三日。再遣官致祭。顏面如生。茶毗之夕。
         <lb ed="X" n="0478a05"/>祥烟彌布。舍利充滿。師說法。簡易剴切。從而歸之者。
         <lb ed="X" n="0478a06"/>如水就下。至不可遏。連主大剎。率能興墜起廢。至機
         <lb ed="X" n="0478a07"/>鋒觸發。往往屈其行輩。聲聞遠邇。亦宗門之巨擘云。</p>
+    
+    <linkGrp>
+        <link targets="#0477c09 #0477c10"/>
+        <ptr target="#A015648" type="person"/>
+        <ptr target="#PL000000055895" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0477c11 #0477c17"/>
+        <ptr target="#A015648" type="person"/>
+        <ptr target="#A015562" type="person"/>
+        <ptr target="#PL000000011985" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0477c17 #0477c20"/>
+        <ptr target="#A015648" type="person"/>
+        <ptr target="#A000149" type="person"/>
+        <ptr target="#PL000000055894" type="place"/>
+        <ptr target="#j22350032235356" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0477c20 #0477c21"/>
+        <ptr target="#A015648" type="person"/>
+        <ptr target="#PL000000009064" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0477c21 #0478a03"/>
+        <ptr target="#A015648" type="person"/>
+        <ptr target="#PL000000008741" type="place"/>
+        <ptr target="#j22397842239784" type="time"/>
+    </linkGrp>
 </div>

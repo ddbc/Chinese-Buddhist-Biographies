@@ -4,11 +4,11 @@
     <p><anchor n="X.77.1524.0473a02"/><lb ed="X" n="0473a02"/><persName key="A009746">力金</persName>。字<persName key="A009746">西白</persName>。<placeName key="PL000000009918">吳郡</placeName>姚氏子。<date key="j22079292208293" when-iso="1333">七歲</date>頴悟異常。一日請於
         <lb ed="X" n="0473a03"/>母曰。兒患世相起滅不常。將求出世間法。可乎。母曰。
         <lb ed="X" n="0473a04"/>出家甚苦。爾年幼。豈能堪之。曰。兒心樂之。自無苦也。
-        <lb ed="X" n="0473a05"/>請之不已。母知其志不可奪。俾依吳縣<placeName key="unknown">寶積院</placeName><persName key="unknown">道原<lb ed="X" n="0473a06"/>衍</persName>法師。後見<persName key="A000981">古鼎銘</persName>公于<placeName key="PL000000011848">徑山</placeName>。悟人甚深。聲光燁燁。
+        <lb ed="X" n="0473a05"/>請之不已。母知其志不可奪。俾依吳縣<placeName key="PL000000055873">寶積院</placeName><persName key="A022293">道原<lb ed="X" n="0473a06"/>衍</persName>法師。後見<persName key="A000981">古鼎銘</persName>公于<placeName key="PL000000011848">徑山</placeName>。悟人甚深。聲光燁燁。
         <lb ed="X" n="0473a07"/>起叢林間。<date from-iso="1357-01-29" to-iso="1358-02-16" key="j22167232217106">至正丁酉</date>。出世住蘇之<placeName key="PL000000009855">瑞光</placeName>。會嘉興<placeName key="PL000000012695">天寧<lb ed="X" n="0473a08"/>寺</placeName>災。郡守貳咸以非師不足起其廢。具幣遣使。力迎
         <lb ed="X" n="0473a09"/>致之。師至。未久。儼如<placeName key="PL000000055446">兜率天宮</placeName>下現人世。經過者。無
-        <lb ed="X" n="0473a10"/>不瞻禮贊歎。帝師<persName key="unknown">大寶法王</persName>。賢師之行。授師以徽號。
-        <lb ed="X" n="0473a11"/>師自幼喪父。唯有母存。乃去城一舍。築<placeName key="unknown">孤雲菴</placeName>。以奉
+        <lb ed="X" n="0473a10"/>不瞻禮贊歎。帝師<persName key="A021683">大寶法王</persName>。賢師之行。授師以徽號。
+        <lb ed="X" n="0473a11"/>師自幼喪父。唯有母存。乃去城一舍。築<placeName key="PL000000055874">孤雲菴</placeName>。以奉
         <lb ed="X" n="0473a12"/>養焉。或議之。師喻之曰。爾不見編蒲陳尊宿乎。何言
         <lb ed="X" n="0473a13"/>之易易也。<date from-iso="1368-01-31" to-iso="1369-02-14" key="j22207422221122">洪武改元</date>。有　旨。起師住持<placeName key="PL000000009061">大天界寺</placeName>。萬
         <lb ed="X" n="0473a14"/>機之暇。時召入內庭。奏對多稱　旨。葢師精通<placeName key="PL000000048207">西竺</placeName>
@@ -22,4 +22,75 @@
         <lb ed="X" n="0473a22"/>毗。舍利無算。觀者競取之而去。師神觀秀偉。智辯縱
         <lb ed="X" n="0473a23"/>橫。以宗教為己任。不畜私財。得財施輒舉以給貧者。
         <lb ed="X" n="0473a24"/>誠法門之偉人也。</p>
+    
+    <linkGrp>
+        <link targets="#0473a02 #0473a02"/>
+        <ptr target="#A009746" type="person"/>
+        <ptr target="#PL000000009918" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0473a02 #0473a06"/>
+        <ptr target="#A009746" type="person"/>
+        <ptr target="#A022293" type="person"/>
+        <ptr target="#PL000000055873" type="place"/>
+        <ptr target="#j22079292208293" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0473a06 #0473a07"/>
+        <ptr target="#A009746" type="person"/>
+        <ptr target="#A000981" type="person"/>
+        <ptr target="#PL000000011848" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0473a07 #0473a07"/>
+        <ptr target="#A009746" type="person"/>
+        <ptr target="#PL000000009855" type="place"/>
+        <ptr target="#j22167232217106" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0473a10 #0473a10"/>
+        <ptr target="#A009746" type="person"/>
+        <ptr target="#A021683" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0473a07 #0473a10"/>
+        <ptr target="#A009746" type="person"/>
+        <ptr target="#PL000000012695" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0473a11 #0473a13"/>
+        <ptr target="#A009746" type="person"/>
+        <ptr target="#PL000000055874" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0473a13 #0473a14"/>
+        <ptr target="#A009746" type="person"/>
+        <ptr target="#PL000000009061" type="place"/>
+        <ptr target="#j22207422221122" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0473a13 #0473a16"/>
+        <ptr target="#A009746" type="person"/>
+        <ptr target="#A003672" type="person"/>
+        <ptr target="#PL000000008891" type="place"/>
+        <ptr target="#j22207422221122" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0473a17 #0473a17"/>
+        <ptr target="#A000581" type="person"/>
+        <ptr target="#PL000000008734" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0473a16 #0473a17"/>
+        <ptr target="#A009746" type="person"/>
+        <ptr target="#PL000000008734" type="place"/>
+        <ptr target="#j22218322222215" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0473a18 #0473a19"/>
+        <ptr target="#A009746" type="person"/>
+        <ptr target="#A003672" type="person"/>
+        <ptr target="#PL000000008734" type="place"/>
+        <ptr target="#j22224812222569" type="time"/>
+    </linkGrp>
 </div>

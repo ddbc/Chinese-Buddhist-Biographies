@@ -21,4 +21,61 @@
             <lb ed="X" n="0431a04"/><placeName key="PL000000025261">丹霞</placeName>有箇公案。從來推倒扶起。今朝普示諸人。且道
         <lb ed="X" n="0431a05"/>是箇甚底。顧視左右曰。會麼。對曰不會。師曰。偉哉大
         <lb ed="X" n="0431a06"/>丈夫。不會末後句。遂就寢。右脇而化。</p>
+    
+    <linkGrp>
+        <link targets="#0430c09 #0430c09"/>
+        <ptr target="#A014564" type="person"/>
+        <ptr target="#PL000000021108" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0430c09 #0430c09"/>
+        <ptr target="#A014564" type="person"/>
+        <ptr target="#A011348" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0430c09 #0430c11"/>
+        <ptr target="#A014564" type="person"/>
+        <ptr target="#A001539" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0430c11 #0430c12"/>
+        <ptr target="#A014564" type="person"/>
+        <ptr target="#PL000000025280" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0430c11 #0430c15"/>
+        <ptr target="#A014564" type="person"/>
+        <ptr target="#PL000000025279" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0430c15 #0430c16"/>
+        <ptr target="#A014564" type="person"/>
+        <ptr target="#PL000000042188" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0430c17 #0430c18"/>
+        <ptr target="#A014564" type="person"/>
+        <ptr target="#PL000000023416" type="place"/>
+        <ptr target="#j21235842125414" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0431a02 #0431a02"/>
+        <ptr target="#A014591" type="person"/>
+        <ptr target="#A001539" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0431a02 #0431a02"/>
+        <ptr target="#A014591" type="person"/>
+        <ptr target="#PL000000025046" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0431a02 #0431a02"/>
+        <ptr target="#A014591" type="person"/>
+        <ptr target="#PL000000023315" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0431a02 #0431a02"/>
+        <ptr target="#A014591" type="person"/>
+        <ptr target="#PL000000025261" type="place"/>
+    </linkGrp>
 </div>

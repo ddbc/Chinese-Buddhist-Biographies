@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0443b20zuYuan">
     <head><lb ed="X" n="0443b20"/>　　　　<persName key="A018398">元枯木</persName>傳</head>
-    <p><anchor n="X.77.1524.0443b21"/><lb ed="X" n="0443b21"/><persName key="A018398">祖元</persName>。<placeName key="PL000000017104">七閩</placeName>林氏子。初謁<persName key="unknown">雪峯頂</persName><persName key="A008605">佛心才</persName>。皆已契機。後
+    <p><anchor n="X.77.1524.0443b21"/><lb ed="X" n="0443b21"/><persName key="A018398">祖元</persName>。<placeName key="PL000000017104">七閩</placeName>林氏子。初謁<persName key="A022094">雪峯頂</persName><persName key="A008605">佛心才</persName>。皆已契機。後
         <lb ed="X" n="0443b22"/>參<persName key="A000475">妙喜</persName>於海上<placeName key="PL000000017518">洋嶼菴</placeName>。風骨清癯。危坐終日。<persName key="A000475">妙喜</persName>目
         <lb ed="X" n="0443b23"/>為<persName key="A018398">元枯木</persName>。以剔燈有悟。<persName key="A000475">妙喜</persName>贈之以偈。<placeName key="PL000000017518">洋嶼</placeName>發明大
-        <lb ed="X" n="0443b24"/>事者十三人。師其一也。居連江<placeName key="unknown">福嚴菴</placeName>。食指猥眾。日
+        <lb ed="X" n="0443b24"/>事者十三人。師其一也。居連江<placeName key="PL000000055587">福嚴菴</placeName>。食指猥眾。日
         <lb ed="X" n="0443c01"/>不暇給。菴有伽藍。土偶甚夥。師揭偈於祠。曉之曰。小
         <lb ed="X" n="0443c02"/>菴小舍小叢林。土地何須八九人。若解輪番來打供。
         <lb ed="X" n="0443c03"/>免後碎作一堆塵。是夕。神致夢於山前檀越。願如所
@@ -13,4 +13,36 @@
         <lb ed="X" n="0443c06"/>瑩仲溫曰。師在當時朋伍中。最號癡鈍。及其遯跡。神
         <lb ed="X" n="0443c07"/>亦遵從。以至應緣徒尤趨慕。葢自般若殊勝中來。豈
         <lb ed="X" n="0443c08"/>有他哉。</p>
+    
+    <linkGrp>
+        <link targets="#0443b21 #0443b21"/>
+        <ptr target="#A018398" type="person"/>
+        <ptr target="#PL000000017104" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0443b21 #0443b21"/>
+        <ptr target="#A018398" type="person"/>
+        <ptr target="#A022094" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0443b21 #0443b21"/>
+        <ptr target="#A018398" type="person"/>
+        <ptr target="#A008605" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0443b21 #0443b24"/>
+        <ptr target="#A018398" type="person"/>
+        <ptr target="#A000475" type="person"/>
+        <ptr target="#PL000000017518" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0443b24 #0443c04"/>
+        <ptr target="#A018398" type="person"/>
+        <ptr target="#PL000000055587" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0443c04 #0443c05"/>
+        <ptr target="#A018398" type="person"/>
+        <ptr target="#PL000000012622" type="place"/>
+    </linkGrp>
 </div>

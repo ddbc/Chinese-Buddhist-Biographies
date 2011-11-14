@@ -10,7 +10,7 @@
         <lb ed="X" n="0438c20"/>如孤[鴳-女+隹]。寶公骨冷嗔不聞。却有老泉來喚人。電眸虎
         <lb ed="X" n="0438c21"/>齒霹靂舌。為予吹散千峯雲。南來萬里亦何事。一酌
         <lb ed="X" n="0438c22"/>曹溪知水味。他年若畵蔣山圖。仍作泉公喚居士。師
-        <lb ed="X" n="0438c23"/>住衢之<placeName key="PL000000013645">南禪</placeName>。<persName key="A005166">趙清獻公抃</persName>。日親之。師未甞容措一詞。
+        <lb ed="X" n="0438c23"/>住衢之<placeName key="PL000000013645">南禪</placeName>。<persName key="A005166">趙<roleName>清獻公</roleName>抃</persName>。日親之。師未甞容措一詞。
         <lb ed="X" n="0438c24"/>後典<placeName key="PL000000021108">青州</placeName>。宴坐聞雷而悟。臨薨遺師書曰。非師平日
         <lb ed="X" n="0439a01"/>警誨。至此必不得力矣。師悼以偈曰。仕也[邱-丘+(看-目)]為瑞。歸
         <lb ed="X" n="0439a02"/>歟世作程。人間金粟去。天上玉樓成。慧劍無纖缺。水
@@ -19,4 +19,37 @@
         <lb ed="X" n="0439a05"/>是。眾皆無對。師索筆書偈云。心是心非徒儗議。得皮
         <lb ed="X" n="0439a06"/>得髓謾商量。臨行珍重諸禪侶。門外千山正夕陽。書
         <lb ed="X" n="0439a07"/>畢而逝。</p>
+    
+    <linkGrp>
+        <link targets="#0438c14 #0438c14"/>
+        <ptr target="#A000704" type="person"/>
+        <ptr target="#PL000000028306" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0438c15 #0438c15"/>
+        <ptr target="#A003555" type="person"/>
+        <ptr target="#PL000000009248" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0438c14 #0438c22"/>
+        <ptr target="#A000704" type="person"/>
+        <ptr target="#A003555" type="person"/>
+        <ptr target="#PL000000008744" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0438c22 #0438c23"/>
+        <ptr target="#A000704" type="person"/>
+        <ptr target="#A005166" type="person"/>
+        <ptr target="#PL000000013645" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0438c23 #0439a01"/>
+        <ptr target="#A005166" type="person"/>
+        <ptr target="#PL000000021108" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0439a03 #0439a07"/>
+        <ptr target="#A000704" type="person"/>
+        <ptr target="#PL000000023311" type="place"/>
+    </linkGrp>
 </div>

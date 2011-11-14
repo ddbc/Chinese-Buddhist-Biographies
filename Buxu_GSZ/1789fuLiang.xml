@@ -2,7 +2,7 @@
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0472b05fuLiang">
     <head><lb ed="X" n="0472b05"/>　　　　<persName key="A015590">介菴良</persName>大師傳</head>
     <p><anchor n="X.77.1524.0472b06"/><lb ed="X" n="0472b06"/><persName key="A015590">輔良</persName>。字<persName key="A015590">用貞</persName>。<persName key="A015590">介菴</persName>其號。蘇州<placeName key="PL000000009993">吳縣</placeName>范氏子。<persName key="A004867">文正公</persName>之
-        <lb ed="X" n="0472b07"/>十葉孫也。<date key="j22071982207562" when-iso="1331">年十五</date>。依<placeName key="unknown">迎福院</placeName>薙染圓具。時<persName key="A000062">笑隱</persName>。住集
+        <lb ed="X" n="0472b07"/>十葉孫也。<date key="j22071982207562" when-iso="1331">年十五</date>。依<placeName key="PL000000055871">迎福院</placeName>薙染圓具。時<persName key="A000062">笑隱</persName>。住集
         <lb ed="X" n="0472b08"/>慶之<placeName key="PL000000009061">龍翔</placeName>。法道宣振。師往見之。問答之際。棒喝兼施。
         <lb ed="X" n="0472b09"/>凡情頓喪。他日<persName key="A000062">笑隱</persName>拈語詰之。師發言愈厲。<persName key="A000062">笑隱</persName>哂
         <lb ed="X" n="0472b10"/>曰。得則得矣。奈第二義何。師弗懈益[虔-文+ㄆ]。久之。乃契入。
@@ -23,4 +23,48 @@
         <lb ed="X" n="0472c01"/>相遇。所造偈詞。初不經意。而語出渾成。有若宿搆。舉
         <lb ed="X" n="0472c02"/>揚大法。不務緣飾。而西來之旨自明。復以淨土觀門。
         <lb ed="X" n="0472c03"/>若海舟航時。兼修之未甞少怠。其所見。蓋卓然云。</p>
+    
+    <linkGrp>
+        <link targets="#0472b06 #0472b07"/>
+        <ptr target="#A015590" type="person"/>
+        <ptr target="#PL000000009993" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0472b07 #0472b07"/>
+        <ptr target="#A015590" type="person"/>
+        <ptr target="#PL000000055871" type="place"/>
+        <ptr target="#j22071982207562" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0472b07 #0472b11"/>
+        <ptr target="#A015590" type="person"/>
+        <ptr target="#A000062" type="person"/>
+        <ptr target="#PL000000009061" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0472b11 #0472b12"/>
+        <ptr target="#A015590" type="person"/>
+        <ptr target="#PL000000012793" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0472b11 #0472b12"/>
+        <ptr target="#A015590" type="person"/>
+        <ptr target="#PL000000013304" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0472b11 #0472b12"/>
+        <ptr target="#A015590" type="person"/>
+        <ptr target="#PL000000011627" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0472b12 #0472b16"/>
+        <ptr target="#A015590" type="person"/>
+        <ptr target="#A008134" type="person"/>
+        <ptr target="#PL000000011454" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0472b12 #0472b23"/>
+        <ptr target="#A015590" type="person"/>
+        <ptr target="#PL000000011596" type="place"/>
+    </linkGrp>
 </div>

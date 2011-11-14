@@ -2,13 +2,44 @@
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0463c03zhengYuan">
     <head><lb ed="X" n="0463c03"/>　　　　<persName key="A015547">竺遠源</persName>公傳</head>
     <p><anchor n="X.77.1524.0463c04"/><lb ed="X" n="0463c04"/><persName key="A015547">正源</persName>。字<persName key="A015547">竺遠</persName>。姓歐陽。<placeName key="PL000000019346">南康</placeName>人也。生之夕。梵僧見夢於
-        <lb ed="X" n="0463c05"/>其母。具戒後。參<persName key="A000489">虗谷陵</persName>公。公以<persName key="unknown">龍潭</persName>滅紙炬語問之。
+        <lb ed="X" n="0463c05"/>其母。具戒後。參<persName key="A000489">虗谷陵</persName>公。公以<persName key="A010427">龍潭</persName>滅紙炬語問之。
         <lb ed="X" n="0463c06"/>師對以焦石可破層冰。公曰。破後奚為。應之曰。探索
         <lb ed="X" n="0463c07"/>乃知。公詰曰。所知者何事。方思對其語。公遽舉杖擊
         <lb ed="X" n="0463c08"/>之。師悚然默喻。由是智開識融。外內無礙。而人歸之
         <lb ed="X" n="0463c09"/>矣。出世。凡五主巨剎。皆方鎮大臣。遣使者所邀致。位
-        <lb ed="X" n="0463c10"/>尊而不以為榮。德盛而守之以謙。居道場。增室廬之
+        <lb ed="X" n="0463c10"/>尊而不以為榮。德盛而守之以謙。居<placeName key="PL000000012973">道場</placeName>。增室廬之
         <lb ed="X" n="0463c11"/>未備。主<placeName key="PL000000011848">徑山</placeName>。掩亂兵之遺骼。在<placeName key="PL000000011596">靈隱</placeName>。樓閣皆為煨燼。
         <lb ed="X" n="0463c12"/>惟師所居獨存。類有神以相之者。以<date from-iso="1361-07-11" to-iso="1361-08-08" key="j22183472218375">元至正二十一<lb ed="X" n="0463c13"/>年六月</date>。示寂。壽七十又三。塔全身于<placeName key="PL000000011848">徑山</placeName>。弟子分瘞
-        <lb ed="X" n="0463c14"/>爪髮于道場。舍利叢然乎其間。</p>
+        <lb ed="X" n="0463c14"/>爪髮于<placeName key="PL000000012973">道場</placeName>。舍利叢然乎其間。</p>
+    
+    <linkGrp>
+        <link targets="#0463c04 #0463c05"/>
+        <ptr target="#A015547" type="person"/>
+        <ptr target="#PL000000019346" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0463c05 #0463c08"/>
+        <ptr target="#A015547" type="person"/>
+        <ptr target="#A000489" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0463c10 #0463c11"/>
+        <ptr target="#A015547" type="person"/>
+        <ptr target="#PL000000012973" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0463c11 #0463c11"/>
+        <ptr target="#A015547" type="person"/>
+        <ptr target="#PL000000011848" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0463c11 #0463c12"/>
+        <ptr target="#A015547" type="person"/>
+        <ptr target="#PL000000011596" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0463c12 #0463c13"/>
+        <ptr target="#A015547" type="person"/>
+        <ptr target="#j22183472218375" type="time"/>
+    </linkGrp>
 </div>

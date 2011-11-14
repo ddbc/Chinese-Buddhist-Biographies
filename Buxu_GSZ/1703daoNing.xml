@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0439b04daoNing">
     <head><lb ed="X" n="0439b04"/>　　　　<persName key="A010679">道寧</persName>傳</head>
-    <p><anchor n="X.77.1524.0439b05"/><lb ed="X" n="0439b05"/><persName key="A010679">道寧</persName>。<placeName key="unknown">歙溪</placeName>汪氏子。壯為道者。於<placeName key="PL000000016934">崇果寺</placeName>執浴。一日將
+    <p><anchor n="X.77.1524.0439b05"/><lb ed="X" n="0439b05"/><persName key="A010679">道寧</persName>。<placeName key="PL000000055556">歙溪</placeName>汪氏子。壯為道者。於<placeName key="PL000000016934">崇果寺</placeName>執浴。一日將
         <lb ed="X" n="0439b06"/>濯足。偶誦金剛經。至於此章句。能生信心。以此為實。
         <lb ed="X" n="0439b07"/>遂忘所知。忽垂足沸湯中。發明己見。後祝髮<placeName key="PL000000008734">蔣山</placeName>。徧
-        <lb ed="X" n="0439b08"/>歷叢林。參諸名宿。晚至<placeName key="unknown">白蓮</placeName>。聞<persName key="A000733">五祖演</persName>禪師。小參舉
-        <lb ed="X" n="0439b09"/><persName key="A001707">忠國師</persName>古佛淨瓶。<persName key="A004475">趙州</persName>狗子無佛性話。頓徹法源。<date from-iso="1107-02-02" to-iso="1111-02-16" key="j21254152126890">大<lb ed="X" n="0439b10"/>觀中</date>。<placeName key="PL000000028662">潭帥</placeName><persName key="unknown">席公震</persName>。請主<placeName key="PL000000028638">開福</placeName>。衲子景從。師行門卓立。
+        <lb ed="X" n="0439b08"/>歷叢林。參諸名宿。晚至<placeName key="PL000000055557">白蓮</placeName>。聞<persName key="A000733">五祖演</persName>禪師。小參舉
+        <lb ed="X" n="0439b09"/><persName key="A001707">忠國師</persName>古佛淨瓶。<persName key="A004475">趙州</persName>狗子無佛性話。頓徹法源。<date from-iso="1107-02-02" to-iso="1111-02-16" key="j21254152126890">大<lb ed="X" n="0439b10"/>觀中</date>。<placeName key="PL000000028662">潭帥</placeName><persName key="A022072">席公震</persName>。請主<placeName key="PL000000028638">開福</placeName>。衲子景從。師行門卓立。
         <lb ed="X" n="0439b11"/>名實相副。說法無蹊徑。簡要直捷。使聞者。人人自得。
         <lb ed="X" n="0439b12"/>有古尊宿之風。<date from-iso="1113-01-27" to-iso="1114-02-14" key="j21276012127984">政和三年</date>。將化。示眾曰。吾紫磨之身。
         <lb ed="X" n="0439b13"/>今日即有。明日即無。若道吾入涅槃。非吾弟子。道吾
@@ -13,4 +13,39 @@
         <lb ed="X" n="0439b15"/>處。其或未然。<placeName key="PL000000028638">開福</placeName>與麼來。滿世無相識。水月與空華。
         <lb ed="X" n="0439b16"/>誰堅復誰實。住院經五年。都盧如頃刻。瑞雲散盡春
         <lb ed="X" n="0439b17"/>風生。失却<persName key="A002144">文殊</persName>遇<persName key="A001428">彌勒</persName>。言畢而逝。</p>
+    
+    <linkGrp>
+        <link targets="#0439b05 #0439b05"/>
+        <ptr target="#A010679" type="person"/>
+        <ptr target="#PL000000055556" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0439b05 #0439b07"/>
+        <ptr target="#A010679" type="person"/>
+        <ptr target="#PL000000016934" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0439b07 #0439b07"/>
+        <ptr target="#A010679" type="person"/>
+        <ptr target="#PL000000008734" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0439b08 #0439b09"/>
+        <ptr target="#A010679" type="person"/>
+        <ptr target="#A000733" type="person"/>
+        <ptr target="#PL000000055557" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0439b09 #0439b10"/>
+        <ptr target="#A010679" type="person"/>
+        <ptr target="#A022072" type="person"/>
+        <ptr target="#PL000000028638" type="place"/>
+        <ptr target="#j21254152126890" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0439b12 #0439b17"/>
+        <ptr target="#A010679" type="person"/>
+        <ptr target="#PL000000028638" type="place"/>
+        <ptr target="#j21276012127984" type="time"/>
+    </linkGrp>
 </div>

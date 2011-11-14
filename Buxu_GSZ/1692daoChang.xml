@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0435a12daoChang">
     <head><lb ed="X" n="0435a12"/>　　　　<persName key="A009482">月堂昌</persName>禪傳</head>
-    <p><anchor n="X.77.1524.0435a13"/><lb ed="X" n="0435a13"/><persName key="A009482">道昌</persName>。號<persName key="A009482">月堂</persName>。湖州<placeName key="unknown">寶溪</placeName>吳氏子。得法于<persName key="A004628">雪峰慧</persName>和尚。
+    <p><anchor n="X.77.1524.0435a13"/><lb ed="X" n="0435a13"/><persName key="A009482">道昌</persName>。號<persName key="A009482">月堂</persName>。湖州<placeName key="PL000000012970">寶溪</placeName>吳氏子。得法于<persName key="A004628">雪峰慧</persName>和尚。
         <lb ed="X" n="0435a14"/>所至以行道為己任。不發化主。不事登謁。每歲食指
         <lb ed="X" n="0435a15"/>隨常住所得用之。衲子有志。充化導者多却之。有以
         <lb ed="X" n="0435a16"/>佛令比丘持鉢資養為言者。師曰。我佛在日猶可恐。
@@ -14,10 +14,47 @@
         <lb ed="X" n="0435a23"/>不觀其道業內充。才器宏遠。止欲速其為人逮。審其
         <lb ed="X" n="0435a24"/>道德則淫汙。察其言行則乖戾。謂其公正則邪[佞-二+〦]。得
         <lb ed="X" n="0435b01"/>非愛之過其分乎。是正猶日中之灌瓜。予深恐識者
-        <lb ed="X" n="0435b02"/>笑。故不為也。後有同鄉僧名<persName key="unknown">悟者</persName>。稱得師道。住杭之
+        <lb ed="X" n="0435b02"/>笑。故不為也。後有同鄉僧名<persName key="A014763">悟者</persName>。稱得師道。住杭之
         <lb ed="X" n="0435b03"/><placeName key="PL000000011585">五雲山</placeName>。略展規模。然亦終不振。師每念叢林下衰。綱
         <lb ed="X" n="0435b04"/>紀大壞。皆繇為師者不統之以道。故使在下者。得以
         <lb ed="X" n="0435b05"/>非義乘之玩習。既久。遂謂當然不知其悖。故師行事
         <lb ed="X" n="0435b06"/>發言。終其身不妄。蓋於時事。深感于中。為後學法有
         <lb ed="X" n="0435b07"/>不得不然者耳。名聞于朝。賜號曰<persName key="A009482">佛行</persName>。後無疾而化。</p>
+    
+    <linkGrp>
+        <link targets="#0435a13 #0435a13"/>
+        <ptr target="#A009482" type="person"/>
+        <ptr target="#PL000000012970" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0435a13 #0435a16"/>
+        <ptr target="#A009482" type="person"/>
+        <ptr target="#A004628" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0435a17 #0435a18"/>
+        <ptr target="#A009482" type="person"/>
+        <ptr target="#PL000000011848" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0435a17 #0435a18"/>
+        <ptr target="#A009482" type="person"/>
+        <ptr target="#PL000000011683" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0435a17 #0435a18"/>
+        <ptr target="#A009482" type="person"/>
+        <ptr target="#PL000000012309" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0435b02 #0435b02"/>
+        <ptr target="#A009482" type="person"/>
+        <ptr target="#A014763" type="person"/>
+        <ptr target="#PL000000012970" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0435b02 #0435b03"/>
+        <ptr target="#A014763" type="person"/>
+        <ptr target="#PL000000011585" type="place"/>
+    </linkGrp>
 </div>

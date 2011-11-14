@@ -16,4 +16,47 @@
         <lb ed="X" n="0431a20"/>游方。夢者撫背囑之曰。二子善自愛。他日法門龍象
         <lb ed="X" n="0431a21"/>也。<persName key="A020643">評</persName>嗣<persName key="A008485">廣鑑瑛</persName>。住<placeName key="PL000000018959">開先</placeName>。與師相隣。俱得名叢林間。號
         <lb ed="X" n="0431a22"/><persName key="G000081"><placeName key="PL000000018775">廬山</placeName>二龍</persName>云。</p>
+    
+    <linkGrp>
+        <link targets="#0431a08 #0431a08"/>
+        <ptr target="#A010660" type="person"/>
+        <ptr target="#PL000000018404" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0431a08 #0431a08"/>
+        <ptr target="#A010660" type="person"/>
+        <ptr target="#A014493" type="person"/>
+        <ptr target="#PL000000028624" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0431a09 #0431a09"/>
+        <ptr target="#A014493" type="person"/>
+        <ptr target="#PL000000018911" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0431a08 #0431a09"/>
+        <ptr target="#A010660" type="person"/>
+        <ptr target="#A014493" type="person"/>
+        <ptr target="#PL000000018814" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0431a12 #0431a14"/>
+        <ptr target="#A010660" type="person"/>
+        <ptr target="#A003923" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0431a17 #0431a20"/>
+        <ptr target="#A010660" type="person"/>
+        <ptr target="#A020643" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0431a21 #0431a21"/>
+        <ptr target="#A008485" type="person"/>
+        <ptr target="#A020643" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0431a21 #0431a21"/>
+        <ptr target="#A020643" type="person"/>
+        <ptr target="#PL000000018959" type="place"/>
+    </linkGrp>
 </div>

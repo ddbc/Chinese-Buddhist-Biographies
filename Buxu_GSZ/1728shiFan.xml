@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0448b12shiFan">
     <head><lb ed="X" n="0448b12"/>　　　　<persName key="A004697">無準範</persName>禪師傳</head>
-    <p><anchor n="X.77.1524.0448b13"/><lb ed="X" n="0448b13"/><persName key="A004697">師範</persName>。<placeName key="PL000000035548">梓潼</placeName>雍氏子。<date key="j21542382154602" when-iso="1186">九歲</date>依<placeName key="unknown">陰平山</placeName><persName key="A008742">道欽</persName>出家。經書過
+    <p><anchor n="X.77.1524.0448b13"/><lb ed="X" n="0448b13"/><persName key="A004697">師範</persName>。<placeName key="PL000000035548">梓潼</placeName>雍氏子。<date key="j21542382154602" when-iso="1186">九歲</date>依<placeName key="PL000000055624">陰平山</placeName><persName key="A008742">道欽</persName>出家。經書過
         <lb ed="X" n="0448b14"/>目成誦。<date from-iso="1194-10-23" to-iso="1195-02-18" key="j21574552157573">紹熈五年冬</date>。登具戒。<date from-iso="1195-02-19" to-iso="1196-02-07" key="j21575742157927">明年</date>。<placeName key="PL000000034800">成都</placeName>坐夏。遇老宿
         <lb ed="X" n="0448b15"/>名<persName key="A008744">堯</persName>者。<persName key="A004697">範</persName>請益坐禪之法。<persName key="A008744">堯</persName>曰。禪是何物。坐是何人。
         <lb ed="X" n="0448b16"/><persName key="A004697">範</persName>受其語。晝夜體究。一日如廁提前話。有省。遂出<placeName key="PL000000034649">蜀</placeName>。
@@ -13,11 +13,98 @@
         <lb ed="X" n="0448b22"/>師受請入院。見所設伽藍神。茅其姓衣冠。與所夢無
         <lb ed="X" n="0448b23"/>異云。上堂。遂為<persName key="A004696">破菴</persName>拈香。以示法切得旨深也。嗣遷
         <lb ed="X" n="0448b24"/><placeName key="PL000000010964">焦山</placeName><placeName key="PL000000012462">雪竇</placeName>。被旨移<placeName key="PL000000012309">育王</placeName>。住<placeName key="PL000000011848">徑山</placeName>。最久。雖兩丁火厄。而
-        <lb ed="X" n="0448c01"/>旋復舊觀。號法席全盛。<persName key="A003564">理宗</persName>甞召師。入<placeName key="unknown">慈明殿</placeName>。陞座
+        <lb ed="X" n="0448c01"/>旋復舊觀。號法席全盛。<persName key="A003564">理宗</persName>甞召師。入<placeName key="PL000000011449">慈明殿</placeName>。陞座
         <lb ed="X" n="0448c02"/>說法。上親御垂聽大悅。賜<persName key="A004697">佛鑑禪師</persName>號。併金襴僧伽
-        <lb ed="X" n="0448c03"/>黎。<date from-iso="1248-07-29" to-iso="1248-10-24" key="j21770932177180">淳祐戊申秋</date>。築室明月池上。榜曰退耕。乞老於朝。
+        <lb ed="X" n="0448c03"/>黎。<date from-iso="1248-07-29" to-iso="1248-10-24" key="j21770932177180">淳祐戊申秋</date>。築室<placeName key="PL000000055627">明月池</placeName>上。榜曰<placeName key="PL000000055628">退耕</placeName>。乞老於朝。
         <lb ed="X" n="0448c04"/>而舊疾適作。<date when-iso="1249-04-22" key="j21773602177360">三月旦</date>升堂別眾。至<date when-iso="1249-05-06" key="j21773742177374">十五日</date>。區畫後事。
         <lb ed="X" n="0448c05"/>親遺表。及遺書十數封。言笑如平時。其徒以遺偈為
         <lb ed="X" n="0448c06"/>請。乃執筆疾書云。來時空索索。去亦赤條條。更要問
         <lb ed="X" n="0448c07"/>端的。<placeName key="PL000000014411">天台</placeName>有<placeName key="PL000000014426">石橋</placeName>。移項而逝。</p>
+    
+    <linkGrp>
+        <link targets="#0448b13 #0448b13"/>
+        <ptr target="#A004697" type="person"/>
+        <ptr target="#PL000000035548" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0448b13 #0448b14"/>
+        <ptr target="#A004697" type="person"/>
+        <ptr target="#A008742" type="person"/>
+        <ptr target="#PL000000055624" type="place"/>
+        <ptr target="#j21542382154602" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0448b14 #0448b14"/>
+        <ptr target="#A004697" type="person"/>
+        <ptr target="#j21574552157573" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0448b14 #0448b16"/>
+        <ptr target="#A004697" type="person"/>
+        <ptr target="#A008744" type="person"/>
+        <ptr target="#PL000000034800" type="place"/>
+        <ptr target="#j21575742157927" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0448b17 #0448b19"/>
+        <ptr target="#A004697" type="person"/>
+        <ptr target="#A007385" type="person"/>
+        <ptr target="#PL000000012309" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0448b19 #0448b21"/>
+        <ptr target="#A004697" type="person"/>
+        <ptr target="#A013818" type="person"/>
+        <ptr target="#A008747" type="person"/>
+        <ptr target="#PL000000014883" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0448b21 #0448b23"/>
+        <ptr target="#A004697" type="person"/>
+        <ptr target="#PL000000012170" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0448b23 #0448b24"/>
+        <ptr target="#A004697" type="person"/>
+        <ptr target="#PL000000010964" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0448b23 #0448b24"/>
+        <ptr target="#A004697" type="person"/>
+        <ptr target="#PL000000012462" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0448b24 #0448b24"/>
+        <ptr target="#A004697" type="person"/>
+        <ptr target="#PL000000012309" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0448b24 #0448c01"/>
+        <ptr target="#A004697" type="person"/>
+        <ptr target="#PL000000011848" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0448c01 #0448c03"/>
+        <ptr target="#A004697" type="person"/>
+        <ptr target="#A003564" type="person"/>
+        <ptr target="#PL000000011449" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0448c03 #0448c03"/>
+        <ptr target="#A004697" type="person"/>
+        <ptr target="#PL000000055628" type="place"/>
+        <ptr target="#j21770932177180" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0448c04 #0448c04"/>
+        <ptr target="#A004697" type="person"/>
+        <ptr target="#PL000000011848" type="place"/>
+        <ptr target="#j21773602177360" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0448c04 #0448c07"/>
+        <ptr target="#A004697" type="person"/>
+        <ptr target="#PL000000011848" type="place"/>
+        <ptr target="#j21773742177374" type="time"/>
+    </linkGrp>
 </div>

@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0493b09yongDao">
     <head><lb ed="X" n="0493b09"/>　　　　<persName key="A014708">寶覺道</persName>法師傳</head>
-    <p><anchor n="X.77.1524.0493b10"/><lb ed="X" n="0493b10"/><persName key="A014708">永道</persName>。<placeName key="unknown">順昌</placeName>毛氏子也。出家。宗唯識百法二論。又受<placeName key="PL000000055436">西<lb ed="X" n="0493b11"/>天</placeName>總持三藏密法。及傳圓頓戒法於<persName key="A000129">元照</persName>師。咸得其
-        <lb ed="X" n="0493b12"/>要。<date from-iso="1111-02-17" to-iso="1118-12-21" key="j21268912129755">政和中</date>。賜椹衣。主左街<placeName key="unknown">香積院</placeName>。賜號<persName key="A014708">寶覺大師</persName>。<persName key="A019802">林<lb ed="X" n="0493b13"/>靈素</persName>以左道罔上。<date from-iso="1119-03-23" to-iso="1120-12-06" key="j21298472130471">宣和初</date>。詔改僧為德士服冠巾。天
+    <p><anchor n="X.77.1524.0493b10"/><lb ed="X" n="0493b10"/><persName key="A014708">永道</persName>。<placeName key="PL000000015888">順昌</placeName>毛氏子也。出家。宗唯識百法二論。又受<placeName key="PL000000055436">西<lb ed="X" n="0493b11"/>天</placeName>總持三藏密法。及傳圓頓戒法於<persName key="A000129">元照</persName>師。咸得其
+        <lb ed="X" n="0493b12"/>要。<date from-iso="1111-02-17" to-iso="1118-12-21" key="j21268912129755">政和中</date>。賜椹衣。主左街<placeName key="PL000000056036">香積院</placeName>。賜號<persName key="A014708">寶覺大師</persName>。<persName key="A019802">林<lb ed="X" n="0493b13"/>靈素</persName>以左道罔上。<date from-iso="1119-03-23" to-iso="1120-12-06" key="j21298472130471">宣和初</date>。詔改僧為德士服冠巾。天
         <lb ed="X" n="0493b14"/>下從之無敢後。師獨毅然抗詔。上書曰。自古佛法。未
         <lb ed="X" n="0493b15"/>甞不與國運同為盛衰。<persName key="A002596">魏太武</persName><persName key="A003269">崔浩</persName>。滅佛法。未三四
         <lb ed="X" n="0493b16"/>年。<persName key="A003269">浩</persName>竟赤族。<persName key="A004250">文成</persName>大興之。<persName key="A004350">周武</persName><persName key="A006551">衛元嵩</persName>。滅佛法。不五
@@ -12,26 +12,112 @@
         <lb ed="X" n="0493b21"/>驚世之舉。<ref type="person" target="#A003935">陛下</ref>。不思<persName key="A002596">太武</persName>見弑於閹人之手乎。<persName key="A004350">周武</persName>
         <lb ed="X" n="0493b22"/>為鐵獄之囚乎。<persName key="A006570">唐武</persName>受奪壽去位之報乎。此皆前監
         <lb ed="X" n="0493b23"/>可觀者。陛下何為蹈惡君之禍。而違祖宗之法乎。書
-        <lb ed="X" n="0493b24"/>奏。上大怒。命下黥流<placeName key="PL000000029912">道州</placeName>。<persName key="A009525">蔡京</persName>。從容為上言曰。天下
+        <lb ed="X" n="0493b24"/>奏。<ref type="person" target="#A003935">上</ref>大怒。命下黥流<placeName key="PL000000029912">道州</placeName>。<persName key="A009525">蔡京</persName>。從容為上言曰。天下
         <lb ed="X" n="0493c01"/>佛像。非諸僧自為之。皆子為其父。臣為其君。以祈福
         <lb ed="X" n="0493c02"/>報恩耳。今大毀之。適足以動人心。恐非社稷之利也。
         <lb ed="X" n="0493c03"/>上意。為之少回。未幾。<persName key="A019802">靈素</persName>事敗。放歸賜死於道。復教。
-        <lb ed="X" n="0493c04"/>師量移近郡。尋得旨放回。敕住<placeName key="unknown">昭先禪院</placeName>。賜名<persName key="A014708">法道</persName>。
+        <lb ed="X" n="0493c04"/>師量移近郡。尋得旨放回。敕住<placeName key="PL000000056038">昭先禪院</placeName>。賜名<persName key="A014708">法道</persName>。
         <lb ed="X" n="0493c05"/>以旌護法。師之謫<placeName key="PL000000029912">道州</placeName>也。郡守僚屬。皆先夢佛像荷
         <lb ed="X" n="0493c06"/>枷入城。既而師至。皆善待之。時軍民多病。師呪水飲
         <lb ed="X" n="0493c07"/>之。無不愈者。求者益多。乃為沼於營中以呪之。師既
-        <lb ed="X" n="0493c08"/>還。道人如失恃怙。及<ref type="person" target="#A003935 #A006607">二帝</ref>北狩。<persName key="A002088">康王</persName>即位。<placeName key="PL000000023467">東京</placeName>留守
+        <lb ed="X" n="0493c08"/>還。道人如失恃怙。及<ref type="person" target="#A003935 #A006607">二帝</ref>北狩。<date from-iso="1127-06-19" to-iso="1128-05-16" key="j21328572133189"><persName key="A002088">康王</persName>即位</date>。<placeName key="PL000000023467">東京</placeName>留守
         <lb ed="X" n="0493c09"/><persName key="A017912">宗澤</persName>承制。命師住左街<placeName key="PL000000023341">天清寺</placeName>。補宣教郎總管司。參
         <lb ed="X" n="0493c10"/>謀軍事。為國行法。護佑軍旅。師往<placeName key="PL000000009623">淮</placeName><placeName key="PL000000024831">頴</placeName>。勸化豪右。出
         <lb ed="X" n="0493c11"/>糧助國。軍賴以濟。後奉詔隨駕。陪議軍國事。上欲加
         <lb ed="X" n="0493c12"/>以冠冕。師力辭。詔加<persName key="A014708">圓通法濟大師</persName>。一日<ref type="person" target="#A002088">上</ref>從容謂
         <lb ed="X" n="0493c13"/>師曰。上皇為妖人所惑。毀師形服。朕為師去此黥涅。
         <lb ed="X" n="0493c14"/>師對曰。上皇御墨不忍毀除。<ref type="person" target="#A002088">上</ref>笑曰。此僧到老倔強。
-        <lb ed="X" n="0493c15"/>乃敕住廬山<placeName key="unknown">太平禪寺</placeName>。故事道場僧左道右。崇觀以
+        <lb ed="X" n="0493c15"/>乃敕住廬山<placeName key="PL000000056039">太平禪寺</placeName>。故事道場僧左道右。崇觀以
         <lb ed="X" n="0493c16"/>來。遂易舊制。師不能平。詣朝廷論辯。卒獲改正。<date from-iso="1135-01-23" to-iso="1136-02-10" key="j21356322136015">紹興<lb ed="X" n="0493c17"/>五年</date>。大旱。詔師入內祈雨。結壇作法。以四金瓶。各盛
         <lb ed="X" n="0493c18"/>鮮鯽。噀水默祝。遣四急足投諸江。使未回而雨已洽。
         <lb ed="X" n="0493c19"/><ref type="person" target="#A002088">上</ref>大悅。賜金鉢。上以國用不足。敕天下僧道。納清閒
         <lb ed="X" n="0493c20"/>錢。師致書於省部。極論其非。傷大體而阻善化。言雖
         <lb ed="X" n="0493c21"/>不行。勢亦少戢。<date from-iso="1147-08-05" to-iso="1147-11-01" key="j21402092140297">紹興十七年秋</date>。說偈。端坐而化。闍維。
-        <lb ed="X" n="0493c22"/>舍利無數。塔於九山<placeName key="unknown">九里松</placeName>。</p>
+        <lb ed="X" n="0493c22"/>舍利無數。塔於九山<placeName key="PL000000056040">九里松</placeName>。</p>
+    
+    <linkGrp>
+        <link targets="#0493b10 #0493b10"/>
+        <ptr target="#A014708" type="person"/>
+        <ptr target="#PL000000015888" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0493b10 #0493b12"/>
+        <ptr target="#A014708" type="person"/>
+        <ptr target="#A000129" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0493b12 #0493b12"/>
+        <ptr target="#A014708" type="person"/>
+        <ptr target="#PL000000056036" type="place"/>
+        <ptr target="#j21268912129755" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0493b15 #0493b16"/>
+        <ptr target="#A002596" type="person"/>
+        <ptr target="#A003269" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0493b16 #0493b17"/>
+        <ptr target="#A004350" type="person"/>
+        <ptr target="#A006551" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0493b17 #0493b18"/>
+        <ptr target="#A006570" type="person"/>
+        <ptr target="#A012399" type="person"/>
+        <ptr target="#A009040" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0493b13 #0493c07"/>
+        <ptr target="#A014708" type="person"/>
+        <ptr target="#PL000000029912" type="place"/>
+        <ptr target="#j21298472130471" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0493b13 #0493c03"/>
+        <ptr target="#A014708" type="person"/>
+        <ptr target="#A019802" type="person"/>
+        <ptr target="#A003935" type="person"/>
+        <ptr target="#A009525" type="person"/>
+        <ptr target="#j21298472130471" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0493c03 #0493c05"/>
+        <ptr target="#A014708" type="person"/>
+        <ptr target="#PL000000056038" type="place"/>
+    </linkGrp>   
+    <linkGrp>
+        <link targets="#0493c08 #0493c10"/>
+        <ptr target="#A014708" type="person"/>
+        <ptr target="#A017912" type="person"/>
+        <ptr target="#PL000000023341" type="place"/>
+        <ptr target="#j21328572133189" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0493c10 #0493c11"/>
+        <ptr target="#A014708" type="person"/>
+        <ptr target="#PL000000009623" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0493c10 #0493c11"/>
+        <ptr target="#A014708" type="person"/>
+        <ptr target="#PL000000024831" type="place"/>
+    </linkGrp>  
+    <linkGrp>
+        <link targets="#0493c12 #0493c15"/>
+        <ptr target="#A014708" type="person"/>
+        <ptr target="#PL000000056039" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0493c16 #0493c19"/>
+        <ptr target="#A014708" type="person"/>
+        <ptr target="#A002088" type="person"/>
+        <ptr target="#PL000000011513" type="place"/>
+        <ptr target="#j21356322136015" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0493c21 #0493c21"/>
+        <ptr target="#A014708" type="person"/>
+        <ptr target="#j21402092140297" type="time"/>
+    </linkGrp>
 </div>

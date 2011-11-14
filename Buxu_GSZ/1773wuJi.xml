@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0466a06wuJi">
     <head><lb ed="X" n="0466a06"/>　　　　<persName key="A015487">無極導</persName>師傳</head>
-    <p><anchor n="X.77.1524.0466a07"/><lb ed="X" n="0466a07"/><persName key="A015487">無極導</persName>禪師者。<placeName key="PL000000013003">吳興</placeName>趙氏子。宋宗室也。母<persName key="unknown">計氏</persName>。素慕
+    <p><anchor n="X.77.1524.0466a07"/><lb ed="X" n="0466a07"/><persName key="A015487">無極導</persName>禪師者。<placeName key="PL000000013003">吳興</placeName>趙氏子。宋宗室也。母<persName key="A022255">計氏</persName>。素慕
         <lb ed="X" n="0466a08"/>佛乘。<date from-iso="1268-11-13" to-iso="1268-12-12" key="j21845052184534">咸淳四年十月</date>。將誕。夢白光盈室者三夕。師之
         <lb ed="X" n="0466a09"/>生。未甞啼哭。元兵下<placeName key="PL000000000197">江南</placeName>。居民逃散。母[打-丁+嶲]之匿苫中。
         <lb ed="X" n="0466a10"/>游兵俘母去。父求之遇害。某氏憐其孤兒育於家。稍
@@ -18,20 +18,79 @@
         <lb ed="X" n="0466a21"/>行。十步則輟而拜。至<placeName key="PL000000013847">普陀洛伽山</placeName>而返。猶以未足以
         <lb ed="X" n="0466a22"/>報親。報親莫如入道。遂從<persName key="A021356">銕山瓊</persName>禪師落髮。咨叩玄
         <lb ed="X" n="0466a23"/>要。深坐崖庵。晝則以菅。夜則霜露凝寒。豺虎交前弗
-        <lb ed="X" n="0466a24"/>顧也。及<persName key="unknown">庵信</persName>公。說法<placeName key="PL000000012973">道場山</placeName>。侍母進謁。益奪烈堅忍
-        <lb ed="X" n="0466b01"/>脇不傅席。過杭之<placeName key="PL000000011683">淨慈</placeName>。值<persName key="unknown">無有元</persName>公。與語器之。偶泛
-        <lb ed="X" n="0466b02"/>湖聞漁歌。脫然有省。走證元公。公隔窗語師曰。此間
-        <lb ed="X" n="0466b03"/>無爾棲迹處。師拂衣去。尋築<placeName key="unknown">慈照庵</placeName>於<placeName key="PL000000012944">弁山</placeName>之陽。母
+        <lb ed="X" n="0466a24"/>顧也。<persName key="A021593">及庵信</persName>公。說法<placeName key="PL000000012973">道場山</placeName>。侍母進謁。益奪烈堅忍
+        <lb ed="X" n="0466b01"/>脇不傅席。過杭之<placeName key="PL000000011683">淨慈</placeName>。值<persName key="A022256">無有元</persName>公。與語器之。偶泛
+        <lb ed="X" n="0466b02"/>湖聞漁歌。脫然有省。走證<persName key="A022256">元公</persName>。<persName key="A022256">公</persName>隔窗語師曰。此間
+        <lb ed="X" n="0466b03"/>無爾棲迹處。師拂衣去。尋築<placeName key="PL000000055823">慈照庵</placeName>於<placeName key="PL000000012944">弁山</placeName>之陽。母
         <lb ed="X" n="0466b04"/>以念佛三昧終於庵。既葬。一夕空中有白衣人語曰。
-        <lb ed="X" n="0466b05"/>緣在<placeName key="PL000000009467">宜興</placeName>。乃得<placeName key="unknown">玉峰</placeName>於萬山之中建<placeName key="unknown">寂炤禪院</placeName>。又於
-        <lb ed="X" n="0466b06"/>邑東北。作<placeName key="unknown">中隱院</placeName>。接雲水往來者。<placeName key="PL000000009467">宜興</placeName>之人。翕然宗
+        <lb ed="X" n="0466b05"/>緣在<placeName key="PL000000009467">宜興</placeName>。乃得<placeName key="PL000000055824">玉峰</placeName>於萬山之中建<placeName key="PL000000055825">寂炤禪院</placeName>。又於
+        <lb ed="X" n="0466b06"/>邑東北。作<placeName key="PL000000055826">中隱院</placeName>。接雲水往來者。<placeName key="PL000000009467">宜興</placeName>之人。翕然宗
         <lb ed="X" n="0466b07"/>之。以<date when-iso="1332-02-10" key="j22076032207603">至順三年正月六日</date>。無疾趺坐而化。世壽六十
-        <lb ed="X" n="0466b08"/>五。僧臘三十。闍維。舍利無算。分塔于<placeName key="unknown">寂炤</placeName><placeName key="unknown">中隱</placeName>二處。
+        <lb ed="X" n="0466b08"/>五。僧臘三十。闍維。舍利無算。分塔于<placeName key="PL000000055825">寂炤</placeName><placeName key="PL000000055826">中隱</placeName>二處。
         <lb ed="X" n="0466b09"/>左丞<persName key="A007454">危素</persName>。為之銘曰。建炎渡江乘六龍。維城布護多
-        <lb ed="X" n="0466b10"/>其宗。<placeName key="PL000000013003">吳興</placeName>近輔友<persName key="unknown">徐隆</persName>。熊羆奄至迅如風。孤兒父母
+        <lb ed="X" n="0466b10"/>其宗。<placeName key="PL000000013003">吳興</placeName>近輔友徐隆。熊羆奄至迅如風。孤兒父母
         <lb ed="X" n="0466b11"/>迍苫中。父死母俘兒莫從。天地遠。河山重。呱呱夜哭
         <lb ed="X" n="0466b12"/>天[蒙-卄+((並-(前-刖))-一)]蒙。歸依<persName key="A002803">大士</persName>極嚴恭。隱身刀鑷冀母逢。十年<placeName key="PL000000003305">瀛<lb ed="X" n="0466b13"/>州</placeName>覩音容。迎歸苕霅歡聲同。一朝剪髮辭樊籠。禪林
         <lb ed="X" n="0466b14"/>叩擊師<persName key="A021356">瓊</persName>公。歘聆漁歌萬念空。前後際斷無初終。西
-        <lb ed="X" n="0466b15"/>游<placeName key="PL000000009435">荊溪</placeName>隱<placeName key="unknown">玉峰</placeName>。寂而能炤真圓通。巖巖兩塔樹柏松。
+        <lb ed="X" n="0466b15"/>游<placeName key="PL000000009435">荊溪</placeName>隱<placeName key="PL000000055824">玉峰</placeName>。寂而能炤真圓通。巖巖兩塔樹柏松。
         <lb ed="X" n="0466b16"/>史氏著銘示無窮。</p>
+    
+    <linkGrp>
+        <link targets="#0466a07 #0466a09"/>
+        <ptr target="#A015487" type="person"/>
+        <ptr target="#A022255" type="person"/>
+        <ptr target="#PL000000013003" type="place"/>
+        <ptr target="#j21845052184534" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0466a09 #0466a19"/>
+        <ptr target="#A015487" type="person"/>
+        <ptr target="#A022255" type="person"/>
+        <ptr target="#PL000000003197" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0466a19 #0466a21"/>
+        <ptr target="#A015487" type="person"/>
+        <ptr target="#A022255" type="person"/>
+        <ptr target="#PL000000013847" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0466a21 #0466a24"/>
+        <ptr target="#A015487" type="person"/>
+        <ptr target="#A021356" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0466a24 #0466a24"/>
+        <ptr target="#A015487" type="person"/>
+        <ptr target="#A022255" type="person"/>
+        <ptr target="#A021593" type="person"/>
+        <ptr target="#PL000000012973" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0466b01 #0466b03"/>
+        <ptr target="#A015487" type="person"/>
+        <ptr target="#A022256" type="person"/>
+        <ptr target="#PL000000011683" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0466b03 #0466b04"/>
+        <ptr target="#A015487" type="person"/>
+        <ptr target="#A022255" type="person"/>
+        <ptr target="#PL000000055823" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0466b03 #0466b05"/>
+        <ptr target="#A015487" type="person"/>
+        <ptr target="#PL000000055825" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0466b05 #0466b06"/>
+        <ptr target="#A015487" type="person"/>
+        <ptr target="#PL000000055826" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0466b07 #0466b08"/>
+        <ptr target="#A015487" type="person"/>
+        <ptr target="#j22076032207603" type="time"/>
+    </linkGrp>
 </div>

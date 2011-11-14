@@ -1,19 +1,51 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0489c21faBen">
     <head><lb ed="X" n="0489c21"/>　　　　宋　<persName key="A021509">柳律師</persName>．<persName key="A017733">圓覺律師</persName>傳</head>
-    <p><anchor n="X.77.1524.0489c22"/><lb ed="X" n="0489c22"/><persName key="A021509">柳律師</persName>者。是蓋持律而苦行者也。蜀開縣<placeName key="unknown">大覺寺</placeName>。有
+    <p><anchor n="X.77.1524.0489c22"/><lb ed="X" n="0489c22"/><persName key="A021509">柳律師</persName>者。是蓋持律而苦行者也。蜀開縣<placeName key="PL000000056004">大覺寺</placeName>。有
         <lb ed="X" n="0489c23"/><persName key="A021509">柳律師</persName>行碑剝落。其剝落未盡者。猶可摹而為言。師
-        <lb ed="X" n="0489c24"/>名<persName key="A021509">法本</persName>。<placeName key="unknown">臨江鄉</placeName>人。自幼神秀頴異。父母惟師一子。尤
+        <lb ed="X" n="0489c24"/>名<persName key="A021509">法本</persName>。<placeName key="PL000000034409">臨江</placeName>鄉人。自幼神秀頴異。父母惟師一子。尤
         <lb ed="X" n="0490a01"/>愛重之。甫七歲。舉動如成人。一日忽告父母曰。兒久
         <lb ed="X" n="0490a02"/>處塵寰。俗緣未釋。今欲棄僧為僧。願二親莫以兒為
         <lb ed="X" n="0490a03"/>念。父母苦止之。繼之以泣。師乃絕粒不食。父母懼。姑
         <lb ed="X" n="0490a04"/>從之。遂削髮。入山絕跡。不踵家門。勤修苦行。日夕不
-        <lb ed="X" n="0490a05"/>輟。年及十五。經律論藏。無不該覽。遠近咸瞻禮之。<persName key="unknown">常<lb ed="X" n="0490a06"/>處厚</persName>。與師為方外交。時就請教。年九十九。一日告眾
+        <lb ed="X" n="0490a05"/>輟。年及十五。經律論藏。無不該覽。遠近咸瞻禮之。<persName key="A022412">常<lb ed="X" n="0490a06"/>處厚</persName>。與師為方外交。時就請教。年九十九。一日告眾
         <lb ed="X" n="0490a07"/>曰。緣業殆盡。吾將西歸。汝輩宜自勉。端坐而化。</p><p>
             <lb ed="X" n="0490a08"/><persName key="A017733">圓覺律師</persName>。<persName key="A017733">德明</persName>者。住金陵<placeName key="PL000000009084">能仁寺</placeName>。際遇<persName key="A001640">太宗</persName>召見。賜
             <lb ed="X" n="0490a09"/>紫衣并御容。及羅漢像以歸。律聲振<placeName key="PL000000000150">江</placeName>以南。求法人
-            <lb ed="X" n="0490a10"/>望之而歸。<persName key="A000946">真宗</persName>嗣位。復贈以詩章。有精勤演律達真
+            <lb ed="X" n="0490a10"/>望之而歸。<date from-iso="0997-05-13" to-iso="1003-08-02" key="j20853402087611"><persName key="A000946">真宗</persName>嗣位</date>。復贈以詩章。有精勤演律達真
         <lb ed="X" n="0490a11"/>風。釋子南禪道少同之句。二師道行。在當時必表表
         <lb ed="X" n="0490a12"/>一方。竟爾失傳。僅於斷鐫殘刻間得其名。不得言其
         <lb ed="X" n="0490a13"/>詳也。惜哉。</p>
+    
+    <linkGrp>
+        <link targets="#0489c22 #0489c23"/>
+        <ptr target="#A021509" type="person"/>
+        <ptr target="#PL000000056004" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0489c23 #0490a04"/>
+        <ptr target="#A021509" type="person"/>
+        <ptr target="#PL000000034409" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0490a05 #0490a06"/>
+        <ptr target="#A021509" type="person"/>
+        <ptr target="#A022412" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0490a08 #0490a08"/>
+        <ptr target="#A017733" type="person"/>
+        <ptr target="#PL000000009084" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0490a08 #0490a10"/>
+        <ptr target="#A017733" type="person"/>
+        <ptr target="#A001640" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0490a10 #0490a11"/>
+        <ptr target="#A017733" type="person"/>
+        <ptr target="#A000946" type="person"/>
+        <ptr target="#j20853402087611" type="time"/>
+    </linkGrp>
 </div>

@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0432b11yuanLi">
-    <head><lb ed="X" n="0432b11"/>　　　　<persName key="A020905">元禮首座</persName><persName key="unknown">普融知藏</persName>傳</head>
-    <p><anchor n="X.77.1524.0432b12"/><lb ed="X" n="0432b12"/><persName key="A020905">元禮首座</persName>。<placeName key="PL000000017104">閩</placeName>人也。受業於<placeName key="unknown">焦山</placeName>。初參<persName key="A000733">演和尚</persName>於舒之
+    <head><lb ed="X" n="0432b11"/>　　　　<persName key="A020905">元禮首座</persName><persName key="A022046">普融知藏</persName>傳</head>
+    <p><anchor n="X.77.1524.0432b12"/><lb ed="X" n="0432b12"/><persName key="A020905">元禮首座</persName>。<placeName key="PL000000017104">閩</placeName>人也。受業於<placeName key="PL000000010964">焦山</placeName>。初參<persName key="A000733">演和尚</persName>於舒之
         <lb ed="X" n="0432b13"/><placeName key="PL000000015465">太平</placeName>。凡入室。必謂曰。衲僧家明取緇素好。經二年始
         <lb ed="X" n="0432b14"/>發明。已見。詣方丈。<persName key="A000733">演</persName>頷之。<persName key="A000733">演</persName>遷<placeName key="PL000000028109">五祖</placeName>。以<persName key="A020905">禮</persName>俱往。命分
         <lb ed="X" n="0432b15"/>座不就。時<persName key="A008397">佛眼</persName>。<date key="j21166182116982" when-iso="1083">年方十七</date>。有疑不能決。<persName key="A000733">演</persName>曰。<persName key="A020905">禮</persName>却會
@@ -11,10 +11,56 @@
         <lb ed="X" n="0432b19"/>旨如何。<persName key="A020905">禮</persName>云。家貧猶自可。路貧愁殺人。復有問。金剛
         <lb ed="X" n="0432b20"/>經云一切善法。如何是善法。<persName key="A020905">禮</persName>起行曰。上是天。下是
         <lb ed="X" n="0432b21"/>地。中間坐的坐。立的立。喚甚麼作善法。其機敏如此。
-        <lb ed="X" n="0432b22"/>終老于四明之<placeName key="unknown">瑞嚴</placeName>。　<persName key="A020905">禮</persName>同鄉<persName key="unknown">普融</persName>者。至五祖。祖舉倩
+        <lb ed="X" n="0432b22"/>終老于四明之<placeName key="PL000000055522">瑞嚴</placeName>。　<persName key="A020905">禮</persName>同鄉<persName key="A022046">普融</persName>者。至<placeName key="PL000000028109">五祖</placeName>。<persName key="A000733">祖</persName>舉倩
         <lb ed="X" n="0432b23"/>女離魂話問之。有契。呈偈云。二女合為一媳婦。機輪
         <lb ed="X" n="0432b24"/>截斷難回互。從來往返絕踪由。行人莫問來時路。後
         <lb ed="X" n="0432c01"/>凡遇僧來謁。則操閩音誦俚語曰。書頭教娘勤作息。
         <lb ed="X" n="0432c02"/>書尾教娘莫瞌睡。且道中間說甚。僧擬議。即推出。甞
-        <lb ed="X" n="0432c03"/>掌藏鑰。諸方稱<persName key="unknown">融智藏</persName>云。</p>
+        <lb ed="X" n="0432c03"/>掌藏鑰。諸方稱<persName key="A022046">融智藏</persName>云。</p>
+    
+    <linkGrp>
+        <link targets="#0432b12 #0432b12"/>
+        <ptr target="#A020905" type="person"/>
+        <ptr target="#PL000000017104" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0432b12 #0432b12"/>
+        <ptr target="#A020905" type="person"/>
+        <ptr target="#PL000000010964" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0432b12 #0432b14"/>
+        <ptr target="#A020905" type="person"/>
+        <ptr target="#A000733" type="person"/>
+        <ptr target="#PL000000015465" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0432b14 #0432b16"/>
+        <ptr target="#A020905" type="person"/>
+        <ptr target="#A000733" type="person"/>
+        <ptr target="#A008397" type="person"/>
+        <ptr target="#PL000000028109" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0432b17 #0432b18"/>
+        <ptr target="#A020905" type="person"/>
+        <ptr target="#PL000000028109" type="place"/>
+        <ptr target="#j21235842125414" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0432b22 #0432b22"/>
+        <ptr target="#A020905" type="person"/>
+        <ptr target="#PL000000055522" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0432b22 #0432b22"/>
+        <ptr target="#A022046" type="person"/>
+        <ptr target="#PL000000017104" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0432b22 #0432b22"/>
+        <ptr target="#A022046" type="person"/>
+        <ptr target="#A000733" type="person"/>
+        <ptr target="#PL000000028109" type="place"/>
+    </linkGrp>
 </div>

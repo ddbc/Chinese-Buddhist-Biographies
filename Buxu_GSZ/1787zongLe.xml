@@ -19,10 +19,99 @@
         <lb ed="X" n="0471c22"/>朝紳。夙受記於<placeName key="PL000000048268">靈山</placeName>之會。今簡知於　萬乘之尊。雲
         <lb ed="X" n="0471c23"/>漢昭回。　天章錫和於全帙。寵恩優渥。　玉音召對
         <lb ed="X" n="0471c24"/>於紫宸。屹中流之砥柱。轉大地之法輪。信為十方禪
-        <lb ed="X" n="0472a01"/>林之領袖。而與古德。同道同倫者耶。後追治<persName key="unknown">胡惟庸</persName>
+        <lb ed="X" n="0472a01"/>林之領袖。而與古德。同道同倫者耶。後追治<persName key="A022292">胡惟庸</persName>
         <lb ed="X" n="0472a02"/>黨及師。著做散僧。執役建寺。徐察其非辜取還。復領
-        <lb ed="X" n="0472a03"/>右善世。居無何。以老賜歸<placeName key="unknown">槎峰</placeName>。渡江示寂于江浦之
-        <lb ed="X" n="0472a04"/><placeName key="unknown">石佛寺</placeName>。師博通古今。凡經書過目輒成誦。善為詞章。
-        <lb ed="X" n="0472a05"/>有全室集。行於世。國初高僧師。與<persName key="A010853">復見心</persName>齊名。<persName key="A010853">見心</persName>
+        <lb ed="X" n="0472a03"/>右善世。居無何。以老賜歸<placeName key="PL000000055867">槎峰</placeName>。渡江示寂于江浦之
+        <lb ed="X" n="0472a04"/><placeName key="PL000000008999">石佛寺</placeName>。師博通古今。凡經書過目輒成誦。善為詞章。
+        <lb ed="X" n="0472a05"/>有全室集。行於世。<date from-iso="1368-01-31" to-iso="1375-09-08" key="j22207422223519">國初</date>高僧師。與<persName key="A010853">復見心</persName>齊名。<persName key="A010853">見心</persName>
         <lb ed="X" n="0472a06"/>疎放。師謹密。故其得禍為尤輕。噫。亦幸耳。</p>
+    
+    <linkGrp>
+        <link targets="#0471c05 #0471c05"/>
+        <ptr target="#A000581" type="person"/>
+        <ptr target="#PL000000014896" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0471c05 #0471c06"/>
+        <ptr target="#A000581" type="person"/>
+        <ptr target="#A000062" type="person"/>
+        <ptr target="#j22050072205371" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0471c06 #0471c06"/>
+        <ptr target="#A000581" type="person"/>
+        <ptr target="#j22071982207562" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0471c06 #0471c06"/>
+        <ptr target="#A000581" type="person"/>
+        <ptr target="#j22093902209754" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0471c06 #0471c06"/>
+        <ptr target="#A000581" type="person"/>
+        <ptr target="#PL000000011848" type="place"/>
+        <ptr target="#j22218322222215" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0471c06 #0471c07"/>
+        <ptr target="#A000581" type="person"/>
+        <ptr target="#PL000000009061" type="place"/>
+        <ptr target="#j22218322222215" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0471c06 #0471c12"/>
+        <ptr target="#A000581" type="person"/>
+        <ptr target="#A003672" type="person"/>
+        <ptr target="#PL000000008744" type="place"/>
+        <ptr target="#j22218322222215" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0471c12 #0471c13"/>
+        <ptr target="#A000581" type="person"/>
+        <ptr target="#A003672" type="person"/>
+        <ptr target="#j22243132224400" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0471c13 #0471c13"/>
+        <ptr target="#A000581" type="person"/>
+        <ptr target="#PL000000047439" type="place"/>
+        <ptr target="#j22240472224400" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0471c13 #0471c16"/>
+        <ptr target="#A000581" type="person"/>
+        <ptr target="#A003672" type="person"/>
+        <ptr target="#j22240472224400" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0471c16 #0471c17"/>
+        <ptr target="#A000581" type="person"/>
+        <ptr target="#A001522" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0471c17 #0471c18"/>
+        <ptr target="#A000062" type="person"/>
+        <ptr target="#A008284" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0472a01 #0472a02"/>
+        <ptr target="#A000581" type="person"/>
+        <ptr target="#A022292" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0472a01 #0472a03"/>
+        <ptr target="#A000581" type="person"/>
+        <ptr target="#PL000000055867" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0472a03 #0472a04"/>
+        <ptr target="#A000581" type="person"/>
+        <ptr target="#PL000000008999" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0472a05 #0472a05"/>
+        <ptr target="#A010853" type="person"/>
+        <ptr target="#j22207422223519" type="time"/>
+    </linkGrp>
 </div>

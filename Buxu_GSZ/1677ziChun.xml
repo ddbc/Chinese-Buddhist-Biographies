@@ -14,4 +14,52 @@
         <lb ed="X" n="0430b05"/>言厲。自髫齔立志。至老不渝。以忘機為化本。以離識
         <lb ed="X" n="0430b06"/>為宗通。故能妙唱五位。橫壓諸方。可謂丈夫矣。塔在
         <lb ed="X" n="0430b07"/><placeName key="PL000000028289">洪山</placeName>南。</p>
+    
+    <linkGrp>
+        <link targets="#0430a16 #0430a16"/>
+        <ptr target="#A000084" type="person"/>
+        <ptr target="#PL000000035549" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0430a16 #0430a16"/>
+        <ptr target="#A000084" type="person"/>
+        <ptr target="#PL000000035542" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0430a16 #0430a17"/>
+        <ptr target="#A000084" type="person"/>
+        <ptr target="#A022031" type="person"/>
+        <ptr target="#j21199052120270" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0430a17 #0430a22"/>
+        <ptr target="#A000084" type="person"/>
+        <ptr target="#A001539" type="person"/>
+        <ptr target="#PL000000027462" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0430a22 #0430a24"/>
+        <ptr target="#A000084" type="person"/>
+        <ptr target="#A022033" type="person"/>
+        <ptr target="#PL000000025260" type="place"/>
+        <ptr target="#j21235842125414" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0430a22 #0430b02"/>
+        <ptr target="#A000084" type="person"/>
+        <ptr target="#A022034" type="person"/>
+        <ptr target="#A022035" type="person"/>
+        <ptr target="#A022036" type="person"/>
+        <ptr target="#PL000000025260" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0430b02 #0430b03"/>
+        <ptr target="#A000084" type="person"/>
+        <ptr target="#PL000000025392" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0430b03 #0430b04"/>
+        <ptr target="#A000084" type="person"/>
+        <ptr target="#PL000000028298" type="place"/>
+    </linkGrp>
 </div>

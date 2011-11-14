@@ -20,7 +20,7 @@
         <lb ed="X" n="0429b23"/>老曰。我侍者參得禪也。甞伐一巨木。<persName key="A000733">祖</persName>固止之。不聽。
         <lb ed="X" n="0429b24"/>祖怒奮挺而起。師立不動。<persName key="A000733">祖</persName>投所持挺。笑而去。自是
         <lb ed="X" n="0429c01"/>遇物無疑。<date from-iso="1102-01-28" to-iso="1107-02-01" key="j21235842125414">崇寧中</date>。省親還<placeName key="PL000000035105">蜀</placeName>。諸老相謂曰。道西行矣。
-        <lb ed="X" n="0429c02"/>時同門<persName key="A014620">佛鑒慧勤</persName>。亦知名眾。遂目師為<placeName key="PL000000034649">川</placeName><persName key="A014620">勤</persName>別之。<placeName key="PL000000034793">成<lb ed="X" n="0429c03"/>都</placeName>師<persName key="A022025">郭知章</persName>。請開法六祖。更<placeName key="PL000000034763">昭覺</placeName>凡八年。復出<placeName key="PL000000000078">峽</placeName>南
+        <lb ed="X" n="0429c02"/>時同門<persName key="A014620">佛鑒慧勤</persName>。亦知名眾。遂目師為<placeName key="PL000000034649">川</placeName>。<persName key="A014620">勤</persName>別之。<placeName key="PL000000034793">成<lb ed="X" n="0429c03"/>都</placeName>師<persName key="A022025">郭知章</persName>。請開法<placeName key="PL000000034763">六祖</placeName>。更<placeName key="PL000000034763">昭覺</placeName>凡八年。復出<placeName key="PL000000000078">峽</placeName>南
         <lb ed="X" n="0429c04"/>游。時<persName key="A001050">張無盡</persName>。寓<placeName key="PL000000027880">荊南</placeName>。自以手提古佛。席卷諸方。見師
         <lb ed="X" n="0429c05"/>恍然自失。留居<placeName key="PL000000029532">碧岩院</placeName>。傾心事之(傳燈錄云。<persName key="A001050">張</persName>寓<placeName key="PL000000027880">荊南</placeName>。以道學自居。少
         <lb ed="X" n="0429c06"/>見推許。師艤舟謁之。劇談華嚴旨。要曰。華嚴現量境界。理事全真。初無假法。所以即一而萬。了萬為一。一復一。
@@ -45,11 +45,203 @@
         <lb ed="X" n="0430a03"/>過<placeName key="PL000000010966">金山</placeName>時。賊<persName key="A022027">趙萬</persName>。據<placeName key="PL000000010982">鎮江</placeName>擁兵數百。操戰艦。乘風欲
         <lb ed="X" n="0430a04"/>度。忽反風。雲霧晦冥連晝夜。不得度。乃止。比赴<placeName key="PL000000018914">雲居</placeName>。
         <lb ed="X" n="0430a05"/>道<placeName key="PL000000009264">長廬</placeName>。賊<persName key="A022028">張遇</persName>奄至。盡劫所有。師衣鉢獨存。又甞斂
-        <lb ed="X" n="0430a06"/>上方賜物。置一篋中。寓<placeName key="PL000000010884">儀真</placeName>。師飭其徒往省。答曰。<placeName key="PL000000010884">儀<lb ed="X" n="0430a07"/>真</placeName>連夕大火。尚何求。師笑曰。汝第往。既至。官寺民櫩。
+        <lb ed="X" n="0430a06"/><placeName key="PL000000010764">上方</placeName>賜物。置一篋中。寓<placeName key="PL000000010884">儀真</placeName>。師飭其徒往省。答曰。<placeName key="PL000000010884">儀<lb ed="X" n="0430a07"/>真</placeName>連夕大火。尚何求。師笑曰。汝第往。既至。官寺民櫩。
         <lb ed="X" n="0430a08"/>鞠為瓦礫。而師篋封識如新。甞寓<placeName key="PL000000027789">公安</placeName><placeName key="PL000000023315">天寧</placeName>。天堂長<lb ed="X" n="0430a09"/>老<persName key="A022029">覺公</persName>。夢一女子。再拜而進曰。乞我東堂。為人天說
         <lb ed="X" n="0430a10"/>法。信宿而<placeName key="PL000000029532">碧巖</placeName>疏至。女子。即<placeName key="PL000000029532">碧岩</placeName>護法神也。安樂山
         <lb ed="X" n="0430a11"/>神。據<placeName key="PL000000018914">雲居</placeName>方丈。諸耆宿。皆徙避別室。師寘一榻。臥起
         <lb ed="X" n="0430a12"/>如平時。師福慧兩足。行解通脫。斷取世界。如掌中菴
         <lb ed="X" n="0430a13"/>摩勒果。是區區者何足言。然為世人傳聞讚歎。故不
         <lb ed="X" n="0430a14"/>得略也。</p>
+    
+    <linkGrp>
+        <link targets="#0429b05 #0429b05"/>
+        <ptr target="#A001411" type="person"/>
+        <ptr target="#PL000000034921" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0429b05 #0429b08"/>
+        <ptr target="#A001411" type="person"/>
+        <ptr target="#PL000000035023" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0429b06 #0429b08"/>
+        <ptr target="#A001411" type="person"/>
+        <ptr target="#A022022" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0429b08 #0429b10"/>
+        <ptr target="#A001411" type="person"/>
+        <ptr target="#A022023" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0429b08 #0429b12"/>
+        <ptr target="#A001411" type="person"/>
+        <ptr target="#A009520" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0429b12 #0429b14"/>
+        <ptr target="#A001411" type="person"/>
+        <ptr target="#A009515" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0429b12 #0429b14"/>
+        <ptr target="#A001411" type="person"/>
+        <ptr target="#A022024" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0429b12 #0429b14"/>
+        <ptr target="#A001411" type="person"/>
+        <ptr target="#A008633" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0429b12 #0429b14"/>
+        <ptr target="#A001411" type="person"/>
+        <ptr target="#A008470" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0429b12 #0429b14"/>
+        <ptr target="#A001411" type="person"/>
+        <ptr target="#A003923" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0429b17 #0429b18"/>
+        <ptr target="#A001411" type="person"/>
+        <ptr target="#PL000000011011" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0429b15 #0429b24"/>
+        <ptr target="#A001411" type="person"/>
+        <ptr target="#A000733" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0429c01 #0429c02"/>
+        <ptr target="#A001411" type="person"/>
+        <ptr target="#A014620" type="person"/>
+        <ptr target="#j21235842125414" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0429c01 #0429c02"/>
+        <ptr target="#A001411" type="person"/>
+        <ptr target="#PL000000035105" type="place"/>
+        <ptr target="#j21235842125414" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0429c02 #0429c03"/>
+        <ptr target="#A001411" type="person"/>
+        <ptr target="#A022025" type="person"/>
+        <ptr target="#PL000000034763" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0429c04 #0429c04"/>
+        <ptr target="#A001050" type="person"/>
+        <ptr target="#PL000000027880" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0429c03 #0429c13"/>
+        <ptr target="#A001411" type="person"/>
+        <ptr target="#A001050" type="person"/>
+        <ptr target="#PL000000029532" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0429c13 #0429c13"/>
+        <ptr target="#A001411" type="person"/>
+        <ptr target="#PL000000028624" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0429c13 #0429c14"/>
+        <ptr target="#A001411" type="person"/>
+        <ptr target="#A022026" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0429c14 #0429c15"/>
+        <ptr target="#A001411" type="person"/>
+        <ptr target="#PL000000008734" type="place"/>
+        <ptr target="#j21268912129755" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0429c15 #0429c16"/>
+        <ptr target="#A001411" type="person"/>
+        <ptr target="#PL000000023315" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0429c16 #0429c16"/>
+        <ptr target="#A001411" type="person"/>
+        <ptr target="#A009594" type="person"/>
+        <ptr target="#j21328572133189" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0429c16 #0429c16"/>
+        <ptr target="#A001411" type="person"/>
+        <ptr target="#PL000000011011" type="place"/>
+        <ptr target="#j21328572133189" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0429c16 #0429c17"/>
+        <ptr target="#A001411" type="person"/>
+        <ptr target="#A002088" type="person"/>
+        <ptr target="#PL000000010784" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0429c16 #0429c17"/>
+        <ptr target="#A001411" type="person"/>
+        <ptr target="#PL000000018914" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0429c17 #0429c19"/>
+        <ptr target="#A001411" type="person"/>
+        <ptr target="#PL000000034763" type="place"/>
+        <ptr target="#j21358762135876" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0429c22 #0429c24"/>
+        <ptr target="#A001411" type="person"/>
+        <ptr target="#PL000000023315" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0430a02 #0430a02"/>
+        <ptr target="#A001411" type="person"/>
+        <ptr target="#PL000000028625" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0430a03 #0430a03"/>
+        <ptr target="#A022027" type="person"/>
+        <ptr target="#PL000000010982" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0430a02 #0430a04"/>
+        <ptr target="#A001411" type="person"/>
+        <ptr target="#PL000000010966" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0430a04 #0430a05"/>
+        <ptr target="#A001411" type="person"/>
+        <ptr target="#A022028" type="person"/>
+        <ptr target="#PL000000009264" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0430a05 #0430a08"/>
+        <ptr target="#A001411" type="person"/>
+        <ptr target="#PL000000010884" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0430a05 #0430a08"/>
+        <ptr target="#A001411" type="person"/>
+        <ptr target="#PL000000010764" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0430a05 #0430a08"/>
+        <ptr target="#A001411" type="person"/>
+        <ptr target="#PL000000010884" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0430a08 #0430a10"/>
+        <ptr target="#A001411" type="person"/>
+        <ptr target="#A022029" type="person"/>
+        <ptr target="#PL000000023315" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0430a10 #0430a12"/>
+        <ptr target="#A001411" type="person"/>
+        <ptr target="#PL000000018914" type="place"/>
+    </linkGrp>
 </div>

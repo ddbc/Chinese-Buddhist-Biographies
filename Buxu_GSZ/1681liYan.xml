@@ -7,4 +7,45 @@
         <lb ed="X" n="0431b04"/>其視以我。葢密契如此。師倡道。自<date from-iso="1075-01-26" to-iso="1076-02-13" key="j21137212114104">熈寧乙卯</date>。至<date from-iso="1091-01-29" to-iso="1092-02-15" key="j21195682119950">元祐<lb ed="X" n="0431b05"/>辛未</date>。十有七年。其法語之傳者絕少。皆自痛剪苛掃。
         <lb ed="X" n="0431b06"/>不啻卷雲收潦焉。故其法化之廣。不得與諸山齒。致
         <lb ed="X" n="0431b07"/>後世幾不知有師名也。惜哉。</p>
+    
+    <linkGrp>
+        <link targets="#0431a24 #0431b04"/>
+        <ptr target="#A020897" type="person"/>
+        <ptr target="#A003921" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0431a24 #0431b01"/>
+        <ptr target="#A020897" type="person"/>
+        <ptr target="#PL000000019367" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0431b02 #0431b03"/>
+        <ptr target="#A003921" type="person"/>
+        <ptr target="#A003923" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0431b02 #0431b03"/>
+        <ptr target="#A003921" type="person"/>
+        <ptr target="#A008470" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0431b02 #0431b03"/>
+        <ptr target="#A003921" type="person"/>
+        <ptr target="#A014493" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0431b02 #0431b03"/>
+        <ptr target="#A003921" type="person"/>
+        <ptr target="#A007526" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0431b04 #0431b07"/>
+        <ptr target="#A020897" type="person"/>
+        <ptr target="#j21137212114104" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0431b04 #0431b07"/>
+        <ptr target="#A020897" type="person"/>
+        <ptr target="#j21195682119950" type="time"/>
+    </linkGrp>
 </div>

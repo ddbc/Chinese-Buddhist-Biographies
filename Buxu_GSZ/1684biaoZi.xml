@@ -11,14 +11,57 @@
         <lb ed="X" n="0432a22"/>曰。渠只得一橛。大法未明在。須臾鍛鍊。必為法器。居
         <lb ed="X" n="0432a23"/>無何。<persName key="A000733">五祖</persName>宣言。請自立僧。實欲激其遠到。師聞之。深
         <lb ed="X" n="0432a24"/>有所待。一日上堂。以目顧師曰。莫妄想。便下座。師氣
-        <lb ed="X" n="0432b01"/>不平。趨<persName key="unknown">瑯琊啟</persName>公法社。久之。<persName key="A001411">圓悟</persName>往撫存。遂于言下
-        <lb ed="X" n="0432b02"/>大徹。乃同歸。<persName key="A000733">五祖</persName>方命立僧。<persName key="A001411">圓悟</persName>即還<placeName key="PL000000035105">蜀</placeName>演既委順。
-        <lb ed="X" n="0432b03"/>郡守以師繼席焉。拈香云。若為今<placeName key="PL000000034793">成都</placeName><persName key="A001411">昭覺勤</persName>禪師
+        <lb ed="X" n="0432b01"/>不平。趨<persName key="A022045">瑯琊啟</persName>公法社。久之。<persName key="A001411">圓悟</persName>往撫存。遂于言下
+        <lb ed="X" n="0432b02"/>大徹。乃同歸。<persName key="A000733">五祖</persName>方命立僧。<persName key="A001411">圓悟</persName>即還<placeName key="PL000000035105">蜀</placeName>。<persName key="A000733">演</persName>既委順。
+        <lb ed="X" n="0432b03"/>郡守以師繼席焉。拈香云。若為今<placeName key="PL000000034793">成都</placeName><persName key="A001411"><placeName key="PL000000034763">昭覺</placeName>勤</persName>禪師
         <lb ed="X" n="0432b04"/>去。我於此時。如得其髓。為何不為他。不見道。魚因水
         <lb ed="X" n="0432b05"/>有。子由母親。自是。衲子四至不可遏。師牓侍者門曰。
         <lb ed="X" n="0432b06"/>東山有三句。道得即挂搭。衲子皆披靡。有一僧。擕坐
         <lb ed="X" n="0432b07"/>具徑造丈室曰。某甲道不得。祇要挂搭。師大喜。呼維
         <lb ed="X" n="0432b08"/>那於明牕下安排。師奇言妙旨。傳播諸方。諸方尊之
-        <lb ed="X" n="0432b09"/>曰。<persName key="A008601">自老</persName>惜法嗣不昌。僅一<persName key="unknown">龍華高</persName>。而道聲亦不振。或
+        <lb ed="X" n="0432b09"/>曰。<persName key="A008601">自老</persName>惜法嗣不昌。僅一<persName key="A021274">龍華高</persName>。而道聲亦不振。或
         <lb ed="X" n="0432b10"/>以<persName key="A001411">圓悟</persName>於師有卵翼功。而師掩之所致云。</p>
+    
+    <linkGrp>
+        <link targets="#0432a15 #0432a15"/>
+        <ptr target="#A008601" type="person"/>
+        <ptr target="#PL000000034879" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0432a15 #0432a15"/>
+        <ptr target="#A008601" type="person"/>
+        <ptr target="#A000733" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0432a15 #0432a21"/>
+        <ptr target="#A008601" type="person"/>
+        <ptr target="#A001411" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0432a15 #0432a21"/>
+        <ptr target="#A000733" type="person"/>
+        <ptr target="#A001411" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0432a24 #0432b01"/>
+        <ptr target="#A008601" type="person"/>
+        <ptr target="#A022045" type="person"/>
+        <ptr target="#A001411" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0432a23 #0432b02"/>
+        <ptr target="#A008601" type="person"/>
+        <ptr target="#A000733" type="person"/>
+        <ptr target="#A001411" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0432b02 #0432b04"/>
+        <ptr target="#A001411" type="person"/>
+        <ptr target="#PL000000034763" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0432b09 #0432b09"/>
+        <ptr target="#A008601" type="person"/>
+        <ptr target="#A021274" type="person"/>
+    </linkGrp>
 </div>

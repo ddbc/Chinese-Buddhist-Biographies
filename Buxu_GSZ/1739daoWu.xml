@@ -3,7 +3,7 @@
     <head><lb ed="X" n="0452a10"/>　　　　金　<persName key="A008748">佛光道悟</persName>禪師傳</head>
     <p><anchor n="X.77.1524.0452a11"/><lb ed="X" n="0452a11"/><persName key="A008748">道悟</persName>。俗[寇-(敲-高)+ㄆ]氏。陝右<placeName key="PL000000044593">蘭州</placeName>人。生而有齒。<date key="j21469332147297" when-iso="1166">年十六</date>求出家。
         <lb ed="X" n="0452a12"/>父母不聽。乃不食數日。許之祝髮。<date key="j21476632148028" when-iso="1168">後二年</date>。自<placeName key="PL000000046212">臨洮</placeName>歸
-        <lb ed="X" n="0452a13"/><placeName key="unknown">彎子店</placeName>宿。夜夢梵僧喚覺。適聞馬嘶。豁然大悟。歸家
+        <lb ed="X" n="0452a13"/><placeName key="PL000000055650">彎子店</placeName>宿。夜夢梵僧喚覺。適聞馬嘶。豁然大悟。歸家
         <lb ed="X" n="0452a14"/>喜不自勝。吟唱云。見也羅。見也羅。徧虗空。只一箇。告
         <lb ed="X" n="0452a15"/>其母曰。我拾得一物。其母於囊槖中。尋索不見。問是
         <lb ed="X" n="0452a16"/>何物。師曰。我自無始以來。不見了底物。其母不省。他
@@ -23,4 +23,78 @@
         <lb ed="X" n="0452b08"/>呼侍者曰。我病也尋藥去。侍者足未及門。師已臥逝。
         <lb ed="X" n="0452b09"/>方丈上有五色雲。如寶葢。中有紅光如日者三。春秋
         <lb ed="X" n="0452b10"/>五十有五。僧臘三十有九。</p>
+    
+    <linkGrp>
+        <link targets="#0452a11 #0452a12"/>
+        <ptr target="#A008748" type="person"/>
+        <ptr target="#PL000000044593" type="place"/>
+        <ptr target="#j21469332147297" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0452a12 #0452a13"/>
+        <ptr target="#A008748" type="person"/>
+        <ptr target="#PL000000046212" type="place"/>
+        <ptr target="#j21476632148028" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0452a12 #0452a13"/>
+        <ptr target="#A008748" type="person"/>
+        <ptr target="#PL000000055650" type="place"/>
+        <ptr target="#j21476632148028" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0452a12 #0452a16"/>
+        <ptr target="#A008748" type="person"/>
+        <ptr target="#PL000000044593" type="place"/>
+        <ptr target="#j21476632148028" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0452a21 #0452a21"/>
+        <ptr target="#A008714" type="person"/>
+        <ptr target="#PL000000025018" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0452a17 #0452a22"/>
+        <ptr target="#A008748" type="person"/>
+        <ptr target="#A008750" type="person"/>
+        <ptr target="#PL000000025018" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0452a22 #0452b01"/>
+        <ptr target="#A008748" type="person"/>
+        <ptr target="#PL000000025018" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0452b01 #0452b01"/>
+        <ptr target="#A008748" type="person"/>
+        <ptr target="#A008750" type="person"/>
+        <ptr target="#j21476632148028" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0452b01 #0452b02"/>
+        <ptr target="#A008748" type="person"/>
+        <ptr target="#PL000000023060" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0452b01 #0452b02"/>
+        <ptr target="#A008748" type="person"/>
+        <ptr target="#PL000000023767" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0452b03 #0452b03"/>
+        <ptr target="#A008748" type="person"/>
+        <ptr target="#PL000000042016" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0452b05 #0452b07"/>
+        <ptr target="#A008748" type="person"/>
+        <ptr target="#PL000000046173" type="place"/>
+        <ptr target="#j21612062161589" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0452b07 #0452b10"/>
+        <ptr target="#A008748" type="person"/>
+        <ptr target="#PL000000046173" type="place"/>
+        <ptr target="#j21613352161335" type="time"/>
+    </linkGrp>
 </div>

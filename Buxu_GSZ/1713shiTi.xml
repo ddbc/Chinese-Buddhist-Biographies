@@ -3,11 +3,11 @@
     <head><lb ed="X" n="0443a20"/>　　　　<persName key="A014796">或菴體</persName>傳</head>
     <p><anchor n="X.77.1524.0443a21"/><lb ed="X" n="0443a21"/><persName key="A014796">師體</persName>。號<persName key="A014796">或菴</persName>。<placeName key="PL000000014897">台州</placeName>羅氏子。初參<persName key="A008404">此菴元布衲</persName>。於天台
         <lb ed="X" n="0443a22"/><placeName key="PL000000014699">護國</placeName>。因舉龐馬選佛頌。至第三句。<persName key="A008404">此菴</persName>喝之。師大悟。
-        <lb ed="X" n="0443a23"/>遂匿跡深山中。丞相<persName key="unknown">錢象先</persName>。慕其為人。致以<placeName key="unknown">天封</placeName>。勉
+        <lb ed="X" n="0443a23"/>遂匿跡深山中。丞相<persName key="A022093">錢象先</persName>。慕其為人。致以<placeName key="PL000000014700">天封</placeName>。勉
         <lb ed="X" n="0443a24"/>令出世。師搖手曰。我不解懸羊頭賣狗肉也。即宵遁
         <lb ed="X" n="0443b01"/>去。<date from-iso="1165-02-20" to-iso="1167-05-20" key="j21466182147437">乾道初</date>。<persName key="A008408">瞎堂</persName>住<placeName key="PL000000014664">國清</placeName>。因見師圓通像贊。驚喜曰。不
-        <lb ed="X" n="0443b02"/>謂<persName key="A008404">此菴</persName>有此兒。遍索之。得之<placeName key="PL000000012497">江心</placeName>於稠人中。請為第
-        <lb ed="X" n="0443b03"/>一座。及<persName key="A008408">瞎堂</persName>遷<placeName key="PL000000009973">虎丘</placeName>。師訪焉。<placeName key="PL000000009921">平江</placeName>道俗。請住<placeName key="unknown">覺報</placeName>。<placeName key="unknown">覺<lb ed="X" n="0443b04"/>報</placeName>舊名<placeName key="unknown">老壽菴</placeName>。師曰。先師囑我。他日逢<placeName key="unknown">老壽</placeName>止。今若
+        <lb ed="X" n="0443b02"/>謂<persName key="A008404">此菴</persName>有此兒。遍索之得之<placeName key="PL000000012497">江心</placeName>。於稠人中請為第
+        <lb ed="X" n="0443b03"/>一座。及<persName key="A008408">瞎堂</persName>遷<placeName key="PL000000009973">虎丘</placeName>。師訪焉。<placeName key="PL000000009921">平江</placeName>道俗。請住<placeName key="PL000000055586">覺報</placeName>。<placeName key="PL000000055586">覺<lb ed="X" n="0443b04"/>報</placeName>舊名<placeName key="PL000000055586">老壽菴</placeName>。師曰。先師囑我。他日逢老壽止。今若
         <lb ed="X" n="0443b05"/>合符契。遂欣然應命入院。小參曰。道常然而不渝。事
         <lb ed="X" n="0443b06"/>有弊而必變。昔<placeName key="PL000000018571">江西</placeName>南嶽諸祖。各稽古為訓。考其當
         <lb ed="X" n="0443b07"/>否。持以中道。務合人心。以悟為則。所以素風泠然。逮
@@ -23,4 +23,51 @@
         <lb ed="X" n="0443b17"/>子。使後學有師。叢林有主。嗚呼。天下之至私者。無如
         <lb ed="X" n="0443b18"/>此身。遠得一步身。近得一步道。故師二保三得之說。
         <lb ed="X" n="0443b19"/>誠絕世名言。願終身誦之。不敢忘也。</p>
+    
+    <linkGrp>
+        <link targets="#0443a21 #0443a21"/>
+        <ptr target="#A014796" type="person"/>
+        <ptr target="#PL000000014897" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0443a21 #0443a23"/>
+        <ptr target="#A014796" type="person"/>
+        <ptr target="#A008404" type="person"/>
+        <ptr target="#PL000000014699" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0443a23 #0443b01"/>
+        <ptr target="#A014796" type="person"/>
+        <ptr target="#A022093" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0443b02 #0443b02"/>
+        <ptr target="#A014796" type="person"/>
+        <ptr target="#PL000000012497" type="place"/>
+        <ptr target="#j21466182147437" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0443b01 #0443b03"/>
+        <ptr target="#A014796" type="person"/>
+        <ptr target="#A008408" type="person"/>
+        <ptr target="#PL000000014664" type="place"/>
+        <ptr target="#j21466182147437" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0443b03 #0443b03"/>
+        <ptr target="#A014796" type="person"/>
+        <ptr target="#A008408" type="person"/>
+        <ptr target="#PL000000009973" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0443b03 #0443b05"/>
+        <ptr target="#A014796" type="person"/>
+        <ptr target="#PL000000055586" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0443b10 #0443b12"/>
+        <ptr target="#A014796" type="person"/>
+        <ptr target="#PL000000010973" type="place"/>
+        <ptr target="#j21517272152080" type="time"/>
+    </linkGrp>
 </div>

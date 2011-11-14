@@ -2,14 +2,14 @@
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0478a08keShou">
     <head><lb ed="X" n="0478a08"/>　　　　<persName key="A015572">無旨授</persName>公傳</head>
     <p><anchor n="X.77.1524.0478a09"/><lb ed="X" n="0478a09"/><persName key="A015572">可授</persName>。字<persName key="A015572">無旨</persName>。一號<persName key="A015572">休菴</persName>。台<placeName key="PL000000014896">臨海</placeName>李氏子。初教而後禪。
-        <lb ed="X" n="0478a10"/>親見<persName key="unknown">獨孤明</persName>公。為<persName key="A001099">虎巖伏</persName>老嫡孫。出世。凡四坐道場。
+        <lb ed="X" n="0478a10"/>親見<persName key="A015462">獨孤明</persName>公。為<persName key="A001099">虎巖伏</persName>老嫡孫。出世。凡四坐道場。
         <lb ed="X" n="0478a11"/>皆不出乎<placeName key="PL000000014895">台</placeName>境。諸方將倚之以為重。競來敷致。師漠
-        <lb ed="X" n="0478a12"/>然若不聞。作<placeName key="unknown">休菴</placeName>于西塢。日修<placeName key="PL000000055477">淨土</placeName>法門念佛三昧。
+        <lb ed="X" n="0478a12"/>然若不聞。作<placeName key="PL000000055898">休菴</placeName>于西塢。日修<placeName key="PL000000055477">淨土</placeName>法門念佛三昧。
         <lb ed="X" n="0478a13"/>且曰。此即禪定之功也。惡可強分同異哉。　國朝<date from-iso="1373-02-01" to-iso="1374-02-19" key="j22225702222953">洪<lb ed="X" n="0478a14"/>武六年</date>。杭<placeName key="PL000000011627">中天竺</placeName>。以府侯之命起師。師勉應之。行至
         <lb ed="X" n="0478a15"/><placeName key="PL000000008367">錢塘江</placeName>濵。<placeName key="PL000000011683">淨慈</placeName>諸勤舊。相與謀曰。此大善知識。胡可
         <lb ed="X" n="0478a16"/>失也。帥眾邀于道。擁居其位。師屢却之不聽。色頹然
         <lb ed="X" n="0478a17"/>不怡。時當歲儉。問道者如雲。糗糧方患不繼。而施者
-        <lb ed="X" n="0478a18"/>踵至。居二載。而退歸<placeName key="unknown">臥竹院</placeName>。忽示微疾。端坐西向。召
+        <lb ed="X" n="0478a18"/>踵至。居二載。而退歸<placeName key="PL000000055899">臥竹院</placeName>。<date from-iso="1375-02-09" to-iso="1376-01-29" key="j22233082223662">忽示微疾</date>。端坐西向。召
         <lb ed="X" n="0478a19"/>左右謂曰。吾將逝矣。或請偈。曰。吾宗本無言說。乃合
         <lb ed="X" n="0478a20"/>爪連稱佛號。至聲漸微而寂。閱世六十九。僧臘五十。
         <lb ed="X" n="0478a21"/>龕留七日。顏貌不變。闍維。齒牙貫珠不壞。舍利光色
@@ -21,4 +21,37 @@
         <lb ed="X" n="0478b03"/>可貽于悠久。五會語。多肆口而說。曾不經思。平居遇
         <lb ed="X" n="0478b04"/>物成味。率出人意表。戒其徒勿以示人。至於尊賢尚
         <lb ed="X" n="0478b05"/>德。推己及物。有非人之所及。誠末世大法幢也。</p>
+    
+    <linkGrp>
+        <link targets="#0478a09 #0478a09"/>
+        <ptr target="#A015572" type="person"/>
+        <ptr target="#PL000000014896" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0478a09 #0478a10"/>
+        <ptr target="#A015572" type="person"/>
+        <ptr target="#A015462" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0478a10 #0478a10"/>
+        <ptr target="#A001099" type="person"/>
+        <ptr target="#A015462" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0478a10 #0478a12"/>
+        <ptr target="#A015572" type="person"/>
+        <ptr target="#PL000000055898" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0478a13 #0478a18"/>
+        <ptr target="#A015572" type="person"/>
+        <ptr target="#PL000000011683" type="place"/>
+        <ptr target="#j22225702222953" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0478a18 #0478a20"/>
+        <ptr target="#A015572" type="person"/>
+        <ptr target="#PL000000055899" type="place"/>
+        <ptr target="#j22233082223662" type="time"/>
+    </linkGrp>
 </div>

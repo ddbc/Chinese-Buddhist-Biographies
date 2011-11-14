@@ -8,17 +8,65 @@
         <lb ed="X" n="0458b20"/>獄辱之。師奉之惟謹。有疑而問。隨問而解。久之廓然。
         <lb ed="X" n="0458b21"/><persName key="A009654">虗堂</persName>彈指曰。<persName key="A015350">源</persName>乎。汝今太平矣。<persName key="A009654">虗堂</persName>住<placeName key="PL000000011848">徑山</placeName>。春秋已
         <lb ed="X" n="0458b22"/>老。俾師首眾。學子林立寮下。與之析微闡妙。甚得<persName key="A009654">虗<lb ed="X" n="0458b23"/>堂</persName>心。<persName key="A009654">虗堂</persName>曰。是可不一出為人乎。力贊主平江<placeName key="PL000000010186">薦嚴</placeName>。
-        <lb ed="X" n="0458b24"/>內外事不一廢。舉鼓山<placeName key="unknown">國清</placeName>。辭不就。就泉州<placeName key="unknown">水陸院</placeName>。
+        <lb ed="X" n="0458b24"/>內外事不一廢。舉鼓山<placeName key="PL000000055725">國清</placeName>。辭不就。就泉州<placeName key="PL000000017801">水陸院</placeName>。
         <lb ed="X" n="0458c01"/>治若<placeName key="PL000000010186">薦嚴</placeName>。而人益信慕之。愀然曰。吾寧久于是。携錫
-        <lb ed="X" n="0458c02"/>以歸。知者。又議<placeName key="unknown">定水</placeName>。曰。<persName key="A015350">源</persName>公行堅望高。使力請必不
+        <lb ed="X" n="0458c02"/>以歸。知者。又議<placeName key="PL000000055726">定水</placeName>。曰。<persName key="A015350">源</persName>公行堅望高。使力請必不
         <lb ed="X" n="0458c03"/>讓。以素所往來者通意。乃欣然而來。道聲益宏。或以
         <lb ed="X" n="0458c04"/>儒釋異同為問。師曰。同感物而動。漢儒失之。繇是有
         <lb ed="X" n="0458c05"/>不同焉。儒以治人為學。佛以治心為學。治人治心。其
         <lb ed="X" n="0458c06"/>跡有異。而其道未始不同。人或過于侈。師誡之曰。祿
         <lb ed="X" n="0458c07"/>損則福益。盍慎諸而已。布衣鐵服。終日尸坐。語徹機
         <lb ed="X" n="0458c08"/>迅。奔電絕壑。不可遏制。稍斂戢則瞬息在几席間。禪
-        <lb ed="X" n="0458c09"/>人仰之。士人宗之。精於詩。然不肯表襮。舊築在越之
-        <lb ed="X" n="0458c10"/><placeName key="unknown">雲頂</placeName>。將終。願解<placeName key="unknown">定水</placeName>以歸。且命毋建塔。毋火化。以任
+        <lb ed="X" n="0458c09"/>人仰之。士人宗之。精於詩。然不肯表襮。舊築在<placeName key="PL000000013255">越</placeName>之
+        <lb ed="X" n="0458c10"/><placeName key="PL000000055727">雲頂</placeName>。將終。願解<placeName key="PL000000055726">定水</placeName>以歸。且命毋建塔。毋火化。以任
         <lb ed="X" n="0458c11"/>其壞。其徒弗忍。卒瘞之。<date from-iso="1281-01-29" to-iso="1282-02-16" key="j21889652189348">至元十八年</date>也。世壽七十有
         <lb ed="X" n="0458c12"/>五。</p>
+    
+    <linkGrp>
+        <link targets="#0458b16 #0458b16"/>
+        <ptr target="#A015350" type="person"/>
+        <ptr target="#PL000000012362" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0458b16 #0458b19"/>
+        <ptr target="#A015350" type="person"/>
+        <ptr target="#PL000000012166" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0458b19 #0458b20"/>
+        <ptr target="#A009654" type="person"/>
+        <ptr target="#A008709" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0458b19 #0458b23"/>
+        <ptr target="#A015350" type="person"/>
+        <ptr target="#A009654" type="person"/>
+        <ptr target="#PL000000011848" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0458b23 #0458b23"/>
+        <ptr target="#A015350" type="person"/>
+        <ptr target="#PL000000010186" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0458b23 #0458c02"/>
+        <ptr target="#A015350" type="person"/>
+        <ptr target="#PL000000017801" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0458c02 #0458c03"/>
+        <ptr target="#A015350" type="person"/>
+        <ptr target="#PL000000055726" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0458c07 #0458c10"/>
+        <ptr target="#A015350" type="person"/>
+        <ptr target="#PL000000055727" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0458c10 #0458c12"/>
+        <ptr target="#A015350" type="person"/>
+        <ptr target="#PL000000055726" type="place"/>
+        <ptr target="#j21889652189348" type="time"/>
+    </linkGrp>
 </div>

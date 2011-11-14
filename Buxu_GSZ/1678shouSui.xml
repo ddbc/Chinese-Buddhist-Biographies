@@ -19,4 +19,103 @@
             <lb ed="X" n="0430c05"/>帥漕。列道行于朝。當道下省帖起。住<placeName key="PL000000028289">大洪</placeName>。賜號覺照
             <lb ed="X" n="0430c06"/>慧空佛智明悟大師。<placeName key="PL000000028299">大洪</placeName>一席。<persName key="A011155">恩</persName><persName key="A000362">遂</persName><persName key="A014754">顯</persName>三世的承。道
         <lb ed="X" n="0430c07"/>望不少衰。可以觀其家風矣。</p>
+    
+    <linkGrp>
+        <link targets="#0430b09 #0430b09"/>
+        <ptr target="#A000362" type="person"/>
+        <ptr target="#PL000000035851" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0430b09 #0430b10"/>
+        <ptr target="#A000362" type="person"/>
+        <ptr target="#A022037" type="person"/>
+        <ptr target="#PL000000035813" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0430b10 #0430b10"/>
+        <ptr target="#A000362" type="person"/>
+        <ptr target="#j21220972122461" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0430b10 #0430b11"/>
+        <ptr target="#A000362" type="person"/>
+        <ptr target="#A022040" type="person"/>
+        <ptr target="#PL000000027018" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0430b11 #0430b13"/>
+        <ptr target="#A000362" type="person"/>
+        <ptr target="#A011155" type="person"/>
+        <ptr target="#PL000000028289" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0430b14 #0430b14"/>
+        <ptr target="#A022038" type="person"/>
+        <ptr target="#PL000000028306" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0430b13 #0430b14"/>
+        <ptr target="#A000362" type="person"/>
+        <ptr target="#A022038" type="person"/>
+        <ptr target="#j21294312129755" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0430b15 #0430b15"/>
+        <ptr target="#A000362" type="person"/>
+        <ptr target="#PL000000028284" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0430b15 #0430b15"/>
+        <ptr target="#A000362" type="person"/>
+        <ptr target="#PL000000027665" type="place"/>
+        <ptr target="#j21327382132856" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0430b15 #0430b17"/>
+        <ptr target="#A000362" type="person"/>
+        <ptr target="#A022039" type="person"/>
+        <ptr target="#PL000000027666" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0430b17 #0430b19"/>
+        <ptr target="#A000362" type="person"/>
+        <ptr target="#A022041" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0430b19 #0430b20"/>
+        <ptr target="#A000362" type="person"/>
+        <ptr target="#PL000000028299" type="place"/>
+        <ptr target="#j21356322136015" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0430b19 #0430b21"/>
+        <ptr target="#A000362" type="person"/>
+        <ptr target="#PL000000028299" type="place"/>
+        <ptr target="#j21400912140120" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0430b24 #0430b24"/>
+        <ptr target="#A014754" type="person"/>
+        <ptr target="#PL000000036865" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0430b24 #0430c01"/>
+        <ptr target="#A014754" type="person"/>
+        <ptr target="#A008403" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0430b24 #0430c01"/>
+        <ptr target="#A014754" type="person"/>
+        <ptr target="#A000278" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0430c01 #0430c02"/>
+        <ptr target="#A014754" type="person"/>
+        <ptr target="#A000362" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0430c05 #0430c06"/>
+        <ptr target="#A014754" type="person"/>
+        <ptr target="#PL000000028289" type="place"/>
+    </linkGrp>
 </div>

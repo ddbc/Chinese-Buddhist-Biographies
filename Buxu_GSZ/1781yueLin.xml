@@ -5,7 +5,7 @@
         <lb ed="X" n="0468c08"/>間叩名碩。俾參本來人。久之有省。偈曰。本來人。本來
         <lb ed="X" n="0468c09"/>人。無胸無頭作麼尋。驀然揪着箇鼻孔。試勘元來是
         <lb ed="X" n="0468c10"/>白丁。碩見睨視曰。可是。師與一摑。繇是名振一時。出
-        <lb ed="X" n="0468c11"/>世住<placeName key="PL000000011848">徑山</placeName>。當第八十代也。進士<persName key="unknown">張公寧</persName>。疏詞曰。宓以
+        <lb ed="X" n="0468c11"/>世住<placeName key="PL000000011848">徑山</placeName>。當第八十代也。進士<persName key="A022273">張<roleName>公</roleName>寧</persName>。疏詞曰。宓以
         <lb ed="X" n="0468c12"/>舞鳳飛龍。五結青蓮于天目。靈雞馴兔。一鑑光徹于
         <lb ed="X" n="0468c13"/>祖師地。既白靈天其有待。恭惟。新命<placeName key="PL000000011848">徑山</placeName>堂上大和
         <lb ed="X" n="0468c14"/>尚<persName key="A015451">鏡公月林</persName>禪師。瑞芝三秀。古柏十圍。得正度於無
@@ -15,5 +15,31 @@
         <lb ed="X" n="0468c18"/>行。遇徑而止。命當年國一。亦起於崑山。容首度坡仙。
         <lb ed="X" n="0468c19"/>重游於方丈。凡吾方外之友。盡讚僧中此郎。師住<placeName key="PL000000011848">徑<lb ed="X" n="0468c20"/>塢</placeName>。行止雖失傳。然想見其人。致時賢詠歎如此。是必
         <lb ed="X" n="0468c21"/>有大過人者。不然堂堂海內名山。天龍瞻仰之位。豈
-        <lb ed="X" n="0468c22"/>空乏者。所能承當耶。<date from-iso="1506-02-03" to-iso="1522-02-06" key="j22711482276995">正德</date>乙卯歸寂。年八十六。塔<placeName key="unknown">凌<lb ed="X" n="0468c23"/>霄峰</placeName>之東崖。</p>
+        <lb ed="X" n="0468c22"/>空乏者。所能承當耶。<date from-iso="1506-02-03" to-iso="1522-02-06" key="j22711482276995">正德</date>乙卯歸寂。年八十六。塔<placeName key="PL000000011788">凌<lb ed="X" n="0468c23"/>霄峰</placeName>之東崖。</p>
+    
+    <linkGrp>
+        <link targets="#0468c07 #0468c07"/>
+        <ptr target="#A015451" type="person"/>
+        <ptr target="#PL000000011501" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0468c10 #0468c14"/>
+        <ptr target="#A015451" type="person"/>
+        <ptr target="#A022273" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0468c10 #0468c14"/>
+        <ptr target="#A015451" type="person"/>
+        <ptr target="#PL000000011848" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0468c15 #0468c15"/>
+        <ptr target="#A015451" type="person"/>
+        <ptr target="#A007563" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0468c22 #0468c23"/>
+        <ptr target="#A015451" type="person"/>
+        <ptr target="#j22711482276995" type="time"/>
+    </linkGrp>
 </div>

@@ -23,4 +23,16 @@
         <lb ed="X" n="0464a11"/>維那發遺篋。欲行唱衣故事。唯紙衾一具而已。大笑
         <lb ed="X" n="0464a12"/>而去。其刻苦。蓋人之所不能堪。非見解正力量弘。豈
         <lb ed="X" n="0464a13"/>易致是哉。</p>
+    
+    <linkGrp>
+        <link targets="#0463c16 #0463c16"/>
+        <ptr target="#A015543" type="person"/>
+        <ptr target="#PL000000011899" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0463c17 #0463c23"/>
+        <ptr target="#A015543" type="person"/>
+        <ptr target="#A000489" type="person"/>
+        <ptr target="#PL000000011848" type="place"/>
+    </linkGrp>
 </div>

@@ -2,9 +2,9 @@
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0476c08huiZhao">
     <head><lb ed="X" n="0476c08"/>　　　　<persName key="A008277">大千照</persName>公傳</head>
     <p><anchor n="X.77.1524.0476c09"/><lb ed="X" n="0476c09"/><persName key="A008277">慧照</persName>。字<persName key="A008277">大千</persName>。<placeName key="PL000000012514">永嘉</placeName>麻氏子。童年駿利異。甞聞人誦習
-        <lb ed="X" n="0476c10"/>契經。合爪諦聽。長老<persName key="unknown">良公</persName>。度為弟子。稟持犯於處之
+        <lb ed="X" n="0476c10"/>契經。合爪諦聽。長老<persName key="A015121">良公</persName>。度為弟子。稟持犯於處之
         <lb ed="X" n="0476c11"/><placeName key="PL000000014922">天寧</placeName>。蟬脫萬緣。力究大事。首謁<persName key="A008284">晦機熙</persName>公於<placeName key="PL000000011683">淨慈</placeName>。一
-        <lb ed="X" n="0476c12"/>日閱員淨語。至<placeName key="unknown">頭陀石擲筆峰</placeName>處。默識懸解。流汗浹
+        <lb ed="X" n="0476c12"/>日閱員淨語。至頭陀石<placeName key="PL000000055890">擲筆峰</placeName>處。默識懸解。流汗浹
         <lb ed="X" n="0476c13"/>背。即腰包。走謁<persName key="A007563">東嶼海</persName>公于蘇之<placeName key="PL000000010186">薦嚴</placeName>。反覆辨勘之。
         <lb ed="X" n="0476c14"/>師如宜僚擲丸。飛舞空中。<persName key="A007563">東嶼</persName>甚嘉之。遂留執侍左
         <lb ed="X" n="0476c15"/>右。師以為心法既通。不閱修多羅藏。無以闡揚正教。
@@ -18,8 +18,7 @@
         <lb ed="X" n="0476c23"/>猛虎以肉為命。何故不食其子。其二曰。虗空無向背。
         <lb ed="X" n="0476c24"/>何緣有南北東西。其三曰。飲乳等四大海水。積骨如
         <lb ed="X" n="0477a01"/>毗富羅山。何者是汝最初父母。此第三關。最為峻切。
-        <lb ed="X" n="0477a02"/>惜未有契其機者。居九年。退于<placeName key="PL000000012312">妙喜泉</placeName>上築室。曰夢
-        <lb ed="X" n="0477a03"/>菴。因自號<persName key="A008277">夢世叟</persName>。掩關獨處。凝塵滿席弗顧也。一日
+        <lb ed="X" n="0477a02"/>惜未有契其機者。居九年。退于<placeName key="PL000000012312">妙喜泉</placeName>上築室。曰<placeName key="PL000000055921">夢<lb ed="X" n="0477a03"/>菴</placeName>。因自號<persName key="A008277">夢世叟</persName>。掩關獨處。凝塵滿席弗顧也。一日
         <lb ed="X" n="0477a04"/>召門弟子曰。吾將西歸矣。屬後事於住持。<persName key="A001039">約之裕</persName>公。
         <lb ed="X" n="0477a05"/>沐浴更衣書偈。怡然而逝。時<date from-iso="1373-10-25" to-iso="1373-11-22" key="j22228362222864">洪武癸丑十月</date>也。壽八
         <lb ed="X" n="0477a06"/>十五。臘七十。茶毗。齒睛數珠不壞。舍利五色。爛然者
@@ -35,4 +34,66 @@
         <lb ed="X" n="0477a16"/>為中興。<persName key="A007633">橫川</persName>之同門。有<persName key="A008205">石林</persName>者。奮興實角立東西。共
         <lb ed="X" n="0477a17"/>斡化機。西來之道。於斯為盛。師葢<persName key="A008205">石林</persName>之諸孫也。故
         <lb ed="X" n="0477a18"/>其死生之際。光明盛大。有如此者。豈無自而然哉。</p>
+    
+    <linkGrp>
+        <link targets="#0476c09 #0476c09"/>
+        <ptr target="#A008277" type="person"/>
+        <ptr target="#PL000000012514" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0476c09 #0476c10"/>
+        <ptr target="#A008277" type="person"/>
+        <ptr target="#A015121" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0476c10 #0476c11"/>
+        <ptr target="#A008277" type="person"/>
+        <ptr target="#PL000000014922" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0476c11 #0476c11"/>
+        <ptr target="#A008277" type="person"/>
+        <ptr target="#A008284" type="person"/>
+        <ptr target="#PL000000011683" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0476c11 #0476c16"/>
+        <ptr target="#A008277" type="person"/>
+        <ptr target="#A007563" type="person"/>
+        <ptr target="#PL000000010186" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0476c16 #0476c17"/>
+        <ptr target="#A008277" type="person"/>
+        <ptr target="#A007563" type="person"/>
+        <ptr target="#PL000000011683" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0476c17 #0476c20"/>
+        <ptr target="#A008277" type="person"/>
+        <ptr target="#PL000000012627" type="place"/>
+        <ptr target="#j22063992206505" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0476c20 #0476c21"/>
+        <ptr target="#A008277" type="person"/>
+        <ptr target="#PL000000012256" type="place"/>
+        <ptr target="#j22159852216368" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0476c21 #0477a02"/>
+        <ptr target="#A008277" type="person"/>
+        <ptr target="#PL000000012309" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0477a02 #0477a06"/>
+        <ptr target="#A008277" type="person"/>
+        <ptr target="#PL000000055921" type="place"/>
+        <ptr target="#j22228362222864" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0477a14 #0477a17"/>
+        <ptr target="#A007633" type="person"/>
+        <ptr target="#A008205" type="person"/>
+    </linkGrp>
 </div>

@@ -23,4 +23,67 @@
         <lb ed="X" n="0478c03"/>紳服其偉度。樂與過從。善談論。終日不倦。玉貫珠聯。
         <lb ed="X" n="0478c04"/>纚纚絕可聽。尤能汲引後進。隨資誘掖。克底于成。有
         <lb ed="X" n="0478c05"/>三會語錄。山居詩一百首。傳世。</p>
+    
+    <linkGrp>
+        <link targets="#0478b07 #0478b07"/>
+        <ptr target="#A015579" type="person"/>
+        <ptr target="#PL000000013577" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0478b07 #0478b09"/>
+        <ptr target="#A015579" type="person"/>
+        <ptr target="#A020041" type="person"/>
+        <ptr target="#PL000000013502" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0478b09 #0478b09"/>
+        <ptr target="#A015579" type="person"/>
+        <ptr target="#A001688" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0478b09 #0478b10"/>
+        <ptr target="#A015579" type="person"/>
+        <ptr target="#A021440" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0478b10 #0478b12"/>
+        <ptr target="#A015579" type="person"/>
+        <ptr target="#A000981" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0478b10 #0478b12"/>
+        <ptr target="#A015579" type="person"/>
+        <ptr target="#A009687" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0478b12 #0478b13"/>
+        <ptr target="#A015579" type="person"/>
+        <ptr target="#A021418" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0478b12 #0478b13"/>
+        <ptr target="#A015579" type="person"/>
+        <ptr target="#A000062" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0478b13 #0478b14"/>
+        <ptr target="#A015579" type="person"/>
+        <ptr target="#j22159852216368" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0478b14 #0478b16"/>
+        <ptr target="#A003672" type="person"/>
+        <ptr target="#PL000000013502" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0478b20 #0478b21"/>
+        <ptr target="#A015579" type="person"/>
+        <ptr target="#PL000000011683" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0478b21 #0478c01"/>
+        <ptr target="#A015579" type="person"/>
+        <ptr target="#PL000000008891" type="place"/>
+        <ptr target="#j22235222223522" type="time"/>
+    </linkGrp>
 </div>

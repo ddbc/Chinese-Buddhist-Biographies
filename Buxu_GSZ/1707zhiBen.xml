@@ -1,25 +1,114 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0440c12zhiBen">
     <head><lb ed="X" n="0440c12"/>　　　　<persName key="A001253">夾山本</persName>禪師傳</head>
-    <p><anchor n="X.77.1524.0440c13"/><lb ed="X" n="0440c13"/><persName key="A001253">智本</persName>。筠<placeName key="PL000000019786">高安</placeName>郭氏子。生五歲大饑。有貴客過門。見其
-        <lb ed="X" n="0440c14"/>氣骨。留萬錢與其父母。欲携去。祖母劉。適從旁舍歸。
+    <p><anchor n="X.77.1524.0440c13"/><lb ed="X" n="0440c13"/><persName key="A001253">智本</persName>。筠<placeName key="PL000000019786">高安</placeName>郭氏子。<date key="j21005472100911" when-iso="1039">生五歲</date>大饑。有貴客過門。見其
+        <lb ed="X" n="0440c14"/>氣骨。留萬錢與其父母。欲携去。祖母<persName key="A022080">劉</persName>。適從旁舍歸。
         <lb ed="X" n="0440c15"/>顧見怒曰。兒生之夕。吾夢天雨華。吾家吉兆也。寧饑
         <lb ed="X" n="0440c16"/>死不以與人。推錢還之。既長大。遊<placeName key="PL000000019594">報恩寺</placeName>。聞僧說出
-        <lb ed="X" n="0440c17"/>家因緣。願為門弟子。<persName key="unknown">劉氏</persName>喜曰。此吾志也。<date key="j21056612106025" when-iso="1053">年十九</date>試
-        <lb ed="X" n="0440c18"/>經為僧。明年受具足戒。即往游方。時<placeName key="PL000000018914">雲居</placeName><persName key="A004035">舜老夫</persName>。<placeName key="PL000000018959">開<lb ed="X" n="0440c19"/>先</placeName><persName key="unknown">暹道</persName>者。法席冠於<placeName key="PL000000018775">廬山</placeName>。師往來二老之間。久之。聞
+        <lb ed="X" n="0440c17"/>家因緣。願為門弟子。<persName key="A022080">劉氏</persName>喜曰。此吾志也。<date key="j21056612106025" when-iso="1053">年十九</date>試
+        <lb ed="X" n="0440c18"/>經為僧。<date key="j21060262106390" when-iso="1054">明年</date>受具足戒。即往游方。時<placeName key="PL000000018914">雲居</placeName><persName key="A004035">舜老夫</persName>。<persName key="A020662"><placeName key="PL000000018959">開<lb ed="X" n="0440c19"/>先</placeName>暹</persName>道者。法席冠於<placeName key="PL000000018775">廬山</placeName>。師往來二老之間。久之。聞
         <lb ed="X" n="0440c20"/><persName key="A003723">法華端</persName>禪師者。深為法窟。氣壓叢林。師往謁之。遂留
-        <lb ed="X" n="0440c21"/>十年。名聲遠聞。<placeName key="PL000000015476">舒州</placeName>太守<persName key="unknown">李公端臣</persName>。請說法於<placeName key="PL000000015502">龍門</placeName>。
+        <lb ed="X" n="0440c21"/>十年。名聲遠聞。<placeName key="PL000000015476">舒州</placeName>太守<persName key="A022081">李公端臣</persName>。請說法於<placeName key="PL000000015502">龍門</placeName>。
         <lb ed="X" n="0440c22"/>辭去之日。<persName key="A003723">端</persName>領眾送之。師馬逸而先。顧端曰。當仁不
         <lb ed="X" n="0440c23"/>讓。<persName key="A003723">端</persName>笑謂大眾曰。國清才子貴。家富小兒驕。其父子
-        <lb ed="X" n="0440c24"/>法喜遊戲。多類此。未幾。解院還<placeName key="PL000000018775">廬山</placeName>。時<persName key="unknown">曾丞相</persName>。由翰
+        <lb ed="X" n="0440c24"/>法喜遊戲。多類此。未幾。解院還<placeName key="PL000000018775">廬山</placeName>。時<persName key="A017847">曾丞相</persName>。由翰
         <lb ed="X" n="0441a01"/>林學士。出領<placeName key="PL000000028660">長沙</placeName>。以禮延居南岳之<placeName key="PL000000028960">法輪</placeName>。學者爭宗
         <lb ed="X" n="0441a02"/>向之。遷居<placeName key="PL000000028939">南臺</placeName>。又遷<placeName key="PL000000028624">道林</placeName>。遷<placeName key="PL000000028626">雲益</placeName>。遷<placeName key="PL000000028725">石霜</placeName>。凡十三年。
         <lb ed="X" n="0441a03"/>道大顯著。勸請皆一時名公卿。師既老矣。而<placeName key="PL000000026395">湖北</placeName>運
-        <lb ed="X" n="0441a04"/>使<persName key="unknown">陳公舉</persName>。必欲以<placeName key="unknown">夾山</placeName>致師。師亦不辭。忻然曳杖而
+        <lb ed="X" n="0441a04"/>使<persName key="A022082">陳公舉</persName>。必欲以<placeName key="PL000000029532">夾山</placeName>致師。師亦不辭。忻然曳杖而
         <lb ed="X" n="0441a05"/>去。人登問之。師曰。係情去留。豈道人事。<placeName key="PL000000028622">湖南</placeName><placeName key="PL000000026395">湖北</placeName>。真
         <lb ed="X" n="0441a06"/>一夢境耳。何優劣避就之耶。以<date when-iso="1107-02-16" key="j21254292125429">大觀元年上元夕</date>。沐
-        <lb ed="X" n="0441a07"/>浴更衣端坐。終于<placeName key="unknown">夾山</placeName>。閱世七十有三。僧臘五十有
-        <lb ed="X" n="0441a08"/>二。闍維。齒骨數珠不壞。葬於<placeName key="unknown">樂普庵</placeName>之西。師性真率。
+        <lb ed="X" n="0441a07"/>浴更衣端坐。終于<placeName key="PL000000029532">夾山</placeName>。閱世七十有三。僧臘五十有
+        <lb ed="X" n="0441a08"/>二。闍維。齒骨數珠不壞。葬於<placeName key="PL000000055570">樂普庵</placeName>之西。師性真率。
         <lb ed="X" n="0441a09"/>不事事。膽氣葢於流輩。作為偈語。肆筆而成。亦一時
         <lb ed="X" n="0441a10"/>禪林之秀者。</p>
+    
+    <linkGrp>
+        <link targets="#0440c13 #0440c16"/>
+        <ptr target="#A001253" type="person"/>
+        <ptr target="#A022080" type="person"/>
+        <ptr target="#PL000000019786" type="place"/>
+        <ptr target="#j21005472100911" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0440c16 #0440c17"/>
+        <ptr target="#A001253" type="person"/>
+        <ptr target="#PL000000019594" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0440c17 #0440c18"/>
+        <ptr target="#A001253" type="person"/>
+        <ptr target="#j21056612106025" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0440c18 #0440c18"/>
+        <ptr target="#A001253" type="person"/>
+        <ptr target="#j21060262106390" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0440c18 #0440c19"/>
+        <ptr target="#A001253" type="person"/>
+        <ptr target="#A004035" type="person"/>
+        <ptr target="#PL000000018914" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0440c18 #0440c19"/>
+        <ptr target="#A001253" type="person"/>
+        <ptr target="#A020662" type="person"/>
+        <ptr target="#PL000000018959" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0440c21 #0440c21"/>
+        <ptr target="#A001253" type="person"/>
+        <ptr target="#A022081" type="person"/>
+        <ptr target="#PL000000015502" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0440c19 #0440c24"/>
+        <ptr target="#A001253" type="person"/>
+        <ptr target="#A003723" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0440c24 #0440c24"/>
+        <ptr target="#A001253" type="person"/>
+        <ptr target="#PL000000018775" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0440c24 #0441a01"/>
+        <ptr target="#A001253" type="person"/>
+        <ptr target="#A017847" type="person"/>
+        <ptr target="#PL000000028960" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0441a02 #0441a02"/>
+        <ptr target="#A001253" type="person"/>
+        <ptr target="#PL000000028939" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0441a02 #0441a02"/>
+        <ptr target="#A001253" type="person"/>
+        <ptr target="#PL000000028624" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0441a02 #0441a02"/>
+        <ptr target="#A001253" type="person"/>
+        <ptr target="#PL000000028626" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0441a02 #0441a02"/>
+        <ptr target="#A001253" type="person"/>
+        <ptr target="#PL000000028725" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0441a03 #0441a05"/>
+        <ptr target="#A001253" type="person"/>
+        <ptr target="#A022082" type="person"/>
+        <ptr target="#PL000000029532" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0441a06 #0441a08"/>
+        <ptr target="#A001253" type="person"/>
+        <ptr target="#PL000000029532" type="place"/>
+        <ptr target="#j21254292125429" type="time"/>
+    </linkGrp>
 </div>

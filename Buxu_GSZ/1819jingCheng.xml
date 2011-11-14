@@ -3,15 +3,15 @@
     <head><lb ed="X" n="0485b05"/>　　　　<persName key="A009354">孤月禪師</persName>傳</head>
     <p><anchor n="X.77.1524.0485b06"/><lb ed="X" n="0485b06"/><persName key="A009354">淨澄</persName>。燕京<placeName key="PL000000000265">西河</placeName>張氏子。生時。偶二僧至門。厥父喜。即
         <lb ed="X" n="0485b07"/>請安名。僧曰。此兒非常。應名<persName key="A009354">清正</persName>。未幾。父母相繼亡。
-        <lb ed="X" n="0485b08"/>師決志出家。行至<placeName key="unknown">雙城子</placeName>。路逢僧求落髮。詢其來緣。
+        <lb ed="X" n="0485b08"/>師決志出家。行至雙城子。路逢僧求落髮。詢其來緣。
         <lb ed="X" n="0485b09"/>乃初立名僧也。遂就<placeName key="PL000000002632">金河寺</placeName>剃落。其師令習經業。師
-        <lb ed="X" n="0485b10"/>不悅。示以念佛法門。未周歲其師死。偶遇<persName key="unknown">五臺善</persName>公。
-        <lb ed="X" n="0485b11"/>易名曰<persName key="A009354">淨澄</persName>。即走古華嚴鍊磨。日夜逼拶。忽疑滯頓
-        <lb ed="X" n="0485b12"/>開。如釋重負。求證於<placeName key="unknown">廣恩</placeName><persName key="A010860">月溪</persName>老人。<persName key="A010860">溪</persName>轉數語。師汗
+        <lb ed="X" n="0485b10"/>不悅。示以念佛法門。未周歲其師死。偶遇<persName key="A010859">五臺善</persName>公。
+        <lb ed="X" n="0485b11"/>易名曰<persName key="A009354">淨澄</persName>。即走<placeName key="PL000000056012">古華嚴</placeName>鍊磨。日夜逼拶。忽疑滯頓
+        <lb ed="X" n="0485b12"/>開。如釋重負。求證於<placeName key="PL000000055982">廣恩</placeName><persName key="A010860">月溪</persName>老人。<persName key="A010860">溪</persName>轉數語。師汗
         <lb ed="X" n="0485b13"/>下不能對。因俾參無字。久之。獲印可。付以拂子手卷。
-        <lb ed="X" n="0485b14"/>南游<placeName key="unknown">濟河</placeName>。舟沒所有俱失。身附浮木獲免。自思所得
+        <lb ed="X" n="0485b14"/>南游<placeName key="PL000000020236">濟河</placeName>。舟沒所有俱失。身附浮木獲免。自思所得
         <lb ed="X" n="0485b15"/>未愜。即誓曰。此行。若不大悟而還者。有如河。自此提
-        <lb ed="X" n="0485b16"/>參益切。入蜀<placeName key="unknown">飛雪山</placeName>獨居。弔影三年。一日造飯。遂定
+        <lb ed="X" n="0485b16"/>參益切。入蜀飛<placeName key="PL000000034946">雪山</placeName>獨居。弔影三年。一日造飯。遂定
         <lb ed="X" n="0485b17"/>去。覺時飯生白醭。靜中甞聞百里外人聲。久着地打
         <lb ed="X" n="0485b18"/>坐。足為冷濕所乘。忽不能起。幸得人荷至後山。調息
         <lb ed="X" n="0485b19"/>始愈。一日坐木上。正爾湛寂。忽聞[焊-干+恭]竹聲。豁然心空。
@@ -21,11 +21,70 @@
         <lb ed="X" n="0485b23"/>師曰。眉毛眼上橫。鼻孔大頭垂。又問如何是無字意。
         <lb ed="X" n="0485b24"/>師曰。風行草偃。水到渠成。又問。大地平沉。虗空粉碎。
         <lb ed="X" n="0485c01"/>汝向甚麼處。安身立命。師曰。雲消山嶽露。日出海天
-        <lb ed="X" n="0485c02"/>青。<persName key="A010869">谷</persName>肯之。<date from-iso="1457-02-24" to-iso="1464-03-03" key="j22532732255837">天順</date>改元。還<placeName key="PL000000005250">清涼</placeName>。道聲遠播。代藩請詣內
+        <lb ed="X" n="0485c02"/>青。<persName key="A010869">谷</persName>肯之。<date from-iso="1457-02-24" to-iso="1464-03-03" key="j22532732255837">天順</date>改元。還<placeName key="PL000000005250">清涼</placeName>。道聲遠播。<persName key="A022424">代藩</persName>請詣內
         <lb ed="X" n="0485c03"/>掖問道。感光明炤徹內外。王大悅。因就<placeName key="PL000000005347">華嚴谷</placeName>建寺。
         <lb ed="X" n="0485c04"/>請額曰<placeName key="PL000000005382">普濟</placeName>。奉師開法其中。有清涼語錄。行世。甞作
         <lb ed="X" n="0485c05"/>山居詩云。甘貧林下思悠悠。竹榻橫眠枕石頭。格外
         <lb ed="X" n="0485c06"/>生涯隨分足。都緣胸次一無求。又云。自住丹崖綠水
         <lb ed="X" n="0485c07"/>傍。了無榮辱與閒忙。老僧不會還源旨。一住山青葉
         <lb ed="X" n="0485c08"/>又黃。復坐脫於本寺。</p>
+    
+    <linkGrp>
+        <link targets="#0485b06 #0485b07"/>
+        <ptr target="#A009354" type="person"/>
+        <ptr target="#PL000000000265" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0485b07 #0485b10"/>
+        <ptr target="#A009354" type="person"/>
+        <ptr target="#PL000000002632" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0485b10 #0485b11"/>
+        <ptr target="#A009354" type="person"/>
+        <ptr target="#A010859" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0485b11 #0485b12"/>
+        <ptr target="#A009354" type="person"/>
+        <ptr target="#PL000000056012" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0485b11 #0485b13"/>
+        <ptr target="#A009354" type="person"/>
+        <ptr target="#A010860" type="person"/>
+        <ptr target="#PL000000055982" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0485b14 #0485b16"/>
+        <ptr target="#A009354" type="person"/>
+        <ptr target="#PL000000020236" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0485b16 #0485b20"/>
+        <ptr target="#A009354" type="person"/>
+        <ptr target="#PL000000034946" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0485b19 #0485b21"/>
+        <ptr target="#A009354" type="person"/>
+        <ptr target="#A010868" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0485b21 #0485c02"/>
+        <ptr target="#A009354" type="person"/>
+        <ptr target="#A010869" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0485c02 #0485c02"/>
+        <ptr target="#A009354" type="person"/>
+        <ptr target="#PL000000005250" type="place"/>
+        <ptr target="#j22532732255837" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0485c02 #0485c04"/>
+        <ptr target="#A009354" type="person"/>
+        <ptr target="#A022424" type="person"/>
+        <ptr target="#PL000000005382" type="place"/>
+    </linkGrp>
 </div>

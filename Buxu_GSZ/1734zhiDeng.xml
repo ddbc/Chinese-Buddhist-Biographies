@@ -1,17 +1,50 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0450c12zhiDeng">
     <head><lb ed="X" n="0450c12"/>　　　　<persName key="A014503">智燈</persName>傳</head>
-    <p><anchor n="X.77.1524.0450c13"/><lb ed="X" n="0450c13"/><persName key="A014503">智燈</persName>。婺州<placeName key="PL000000013514">金華</placeName>人。號<persName key="A014503">祖印</persName>。得法于<persName key="unknown">道吾法真</persName>。為人精
+    <p><anchor n="X.77.1524.0450c13"/><lb ed="X" n="0450c13"/><persName key="A014503">智燈</persName>。婺州<placeName key="PL000000013514">金華</placeName>人。號<persName key="A014503">祖印</persName>。得法于<persName key="A020534">道吾法真</persName>。為人精
         <lb ed="X" n="0450c14"/>敏有德量。道俗擁之。出世年始立也。而匡宗植道之
-        <lb ed="X" n="0450c15"/>志。隱然尊宿自居。說法三十年。從者如雲。退老<placeName key="unknown">等覺<lb ed="X" n="0450c16"/>寺</placeName>坐逝。有語錄一卷。<persName key="unknown">鄒正</persName>言浩。序之曰。余項在<placeName key="unknown">中陶</placeName>。
-        <lb ed="X" n="0450c17"/>甞與<persName key="unknown">李濤</persName>師<persName key="unknown">淵</persName>。論天下之名僧。師<persName key="unknown">淵</persName>語余曰。吾所見
+        <lb ed="X" n="0450c15"/>志。隱然尊宿自居。說法三十年。從者如雲。退老<placeName key="PL000000055644">等覺<lb ed="X" n="0450c16"/>寺</placeName>坐逝。有語錄一卷。<persName key="A011238">鄒正言浩</persName>。序之曰。余項在<placeName key="PL000000046126">中陶</placeName>。
+        <lb ed="X" n="0450c17"/>甞與<persName key="A022138">李濤師淵</persName>。論天下之名僧。<persName key="A022138">師淵</persName>語余曰。吾所見
         <lb ed="X" n="0450c18"/>祖師者。有道者也。蚤以機緣。為世導師。晚乃退居都
-        <lb ed="X" n="0450c19"/>城之<placeName key="unknown">等覺</placeName>。望其容貌。如秋際木。聽其解說。如夜半潮。
+        <lb ed="X" n="0450c19"/>城之<placeName key="PL000000055644">等覺</placeName>。望其容貌。如秋際木。聽其解說。如夜半潮。
         <lb ed="X" n="0450c20"/>始竊以為未始出吾宗。而終也如一葦大海。惕惕環
-        <lb ed="X" n="0450c21"/>視。莫見畔岸。後數年。復見師<persName key="unknown">淵</persName>于都城。問其所謂祖
-        <lb ed="X" n="0450c22"/>印者而將訪焉。則曰寂滅久矣。出其所集語錄二卷。
-        <lb ed="X" n="0450c23"/>示余。余然後知師<persName key="unknown">淵</persName>異時之言。尚其可以言者。<persName key="A014503">祖印</persName>
+        <lb ed="X" n="0450c21"/>視。莫見畔岸。後數年。復見<persName key="A022138">師淵</persName>于<placeName key="PL000000023467">都城</placeName>。問其所謂<persName key="A014503">祖<lb ed="X" n="0450c22"/>印</persName>者而將訪焉。則曰寂滅久矣。出其所集語錄二卷。
+        <lb ed="X" n="0450c23"/>示余。余然後知<persName key="A022138">師淵</persName>異時之言。尚其可以言者。<persName key="A014503">祖印</persName>
         <lb ed="X" n="0450c24"/>名字。不列傳燈。始末不載傳記。幸有正言數行在耳。
-        <lb ed="X" n="0451a01"/>然則正言知言。葢繇師<persName key="unknown">淵</persName>知己。與<persName key="A014503">祖印</persName>生氣千古。噫。
+        <lb ed="X" n="0451a01"/>然則正言知言。葢繇<persName key="A022138">師淵</persName>知己。與<persName key="A014503">祖印</persName>生氣千古。噫。
         <lb ed="X" n="0451a02"/>古德埋沒者。多矣。</p>
+    
+    <linkGrp>
+        <link targets="#0450c13 #0450c13"/>
+        <ptr target="#A014503" type="person"/>
+        <ptr target="#PL000000013514" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0450c13 #0450c13"/>
+        <ptr target="#A014503" type="person"/>
+        <ptr target="#A020534" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0450c13 #0450c16"/>
+        <ptr target="#A014503" type="person"/>
+        <ptr target="#PL000000055644" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0450c16 #0450c21"/>
+        <ptr target="#A011238" type="person"/>
+        <ptr target="#A022138" type="person"/>
+        <ptr target="#PL000000046126" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0450c16 #0450c21"/>
+        <ptr target="#A014503" type="person"/>
+        <ptr target="#A022138" type="person"/>
+        <ptr target="#PL000000046126" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0450c21 #0450c22"/>
+        <ptr target="#A011238" type="person"/>
+        <ptr target="#A022138" type="person"/>
+        <ptr target="#PL000000023467" type="place"/>
+    </linkGrp>
 </div>

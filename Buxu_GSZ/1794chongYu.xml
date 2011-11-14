@@ -11,16 +11,16 @@
         <lb ed="X" n="0474b18"/>場僧伽。如此之多。其有弗悖般若者乎。<persName key="A000062">廣智</persName>云。戒律
         <lb ed="X" n="0474b19"/>精嚴。言行不相背馳。唯<persName key="A001039">崇裕</persName>一人。自受度以來。脅不
         <lb ed="X" n="0474b20"/>沾席三十年矣。<persName key="A009091">張公</persName>深加獎歎。師之聲光。自是日起
-        <lb ed="X" n="0474b21"/>叢林中。始出世太平<placeName key="unknown">南禪</placeName>。黑白翕然宗之。一日令圬
+        <lb ed="X" n="0474b21"/>叢林中。始出世太平<placeName key="PL000000015307">南禪</placeName>。黑白翕然宗之。一日令圬
         <lb ed="X" n="0474b22"/>人塓壁。壁中隆然如有物。抉之獲<persName key="A002799">悉達太子</persName>像。乃佛
         <lb ed="X" n="0474b23"/>牙所刻成。師召工傅以黃金。金迸裂。舍利從中涌出。
         <lb ed="X" n="0474b24"/>雕小香殿奉之。亦師道法精誠。所感而致也。尋遷九
-        <lb ed="X" n="0474c01"/>江<placeName key="PL000000018812">圓通</placeName>。<date from-iso="0960-02-09" to-iso="1001-11-21" key="j20717322086992">宋之初</date>。有神僧<persName key="unknown">道濟德</persName>公。將示寂。累青石為
+        <lb ed="X" n="0474c01"/>江<placeName key="PL000000018812">圓通</placeName>。<date from-iso="0960-02-09" to-iso="1001-11-21" key="j20717322086992">宋之初</date>。有神僧<persName key="A010755">道濟德</persName>公。將示寂。累青石為
         <lb ed="X" n="0474c02"/>塔。語其徒曰。此塔若紅。即吾再來。暨<persName key="A008630">圓機旻</persName>公來鎮
         <lb ed="X" n="0474c03"/>法席。塔果紅色。人異之。公人號為古佛。其臨終復爾。
         <lb ed="X" n="0474c04"/>懸記。有三百年之後大興佛事之讖。師入院之夕。眾
         <lb ed="X" n="0474c05"/>僧夢公至。而其塔燁然有光者彌月。人尤異之。謂自
-        <lb ed="X" n="0474c06"/>旻公至師。正踰三百之數。其能動物。葢不徒然也。寺
+        <lb ed="X" n="0474c06"/><persName key="A008630">旻公</persName>至師。正踰三百之數。其能動物。葢不徒然也。寺
         <lb ed="X" n="0474c07"/>當菑毀之後。師大興土木。幻出天宮。<persName key="A009115">榮國公火你赤</persName>。
         <lb ed="X" n="0474c08"/>以朝之重臣。總戎<placeName key="PL000000018587">江西</placeName>。申弟子之禮。暨我　<persName key="A003672">太祖</persName>興
         <lb ed="X" n="0474c09"/>隆釋教。開善世院。命大浮屠統之。諸方以師名上聞。
@@ -31,4 +31,76 @@
         <lb ed="X" n="0474c14"/>心。誠善知識也。師容貌魁梧。日用之間。服粗食糲。一
         <lb ed="X" n="0474c15"/>出於天性。無所勉強。每欲撾鼓而退。為眾所擁留而
         <lb ed="X" n="0474c16"/>止。生於<date from-iso="1304-02-14" to-iso="1305-02-02" key="j21973802197734">大德甲辰</date>。未詳所終。三會語。各有錄。行世。</p>
+    
+    <linkGrp>
+        <link targets="#0474b11 #0474b13"/>
+        <ptr target="#A001039" type="person"/>
+        <ptr target="#PL000000009731" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0474b13 #0474b16"/>
+        <ptr target="#A001039" type="person"/>
+        <ptr target="#A001032" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0474b13 #0474b16"/>
+        <ptr target="#A001039" type="person"/>
+        <ptr target="#A009087" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0474b16 #0474b17"/>
+        <ptr target="#A001039" type="person"/>
+        <ptr target="#A000062" type="person"/>
+        <ptr target="#PL000000011627" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0474b17 #0474b21"/>
+        <ptr target="#A001039" type="person"/>
+        <ptr target="#A000062" type="person"/>
+        <ptr target="#A009091" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0474b21 #0474b24"/>
+        <ptr target="#A001039" type="person"/>
+        <ptr target="#PL000000015307" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0474b24 #0474c06"/>
+        <ptr target="#A001039" type="person"/>
+        <ptr target="#PL000000018812" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0474c01 #0474c02"/>
+        <ptr target="#A010755" type="person"/>
+        <ptr target="#PL000000018812" type="place"/>
+        <ptr target="#j20717322086992" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0474c07 #0474c08"/>
+        <ptr target="#A001039" type="person"/>
+        <ptr target="#A009115" type="person"/>
+        <ptr target="#PL000000018812" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0474c08 #0474c10"/>
+        <ptr target="#A001039" type="person"/>
+        <ptr target="#PL000000012309" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0474c10 #0474c11"/>
+        <ptr target="#A001039" type="person"/>
+        <ptr target="#PL000000008734" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0474c10 #0474c14"/>
+        <ptr target="#A001039" type="person"/>
+        <ptr target="#A003672" type="person"/>
+        <ptr target="#PL000000008891" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0474c16 #0474c16"/>
+        <ptr target="#A001039" type="person"/>
+        <ptr target="#PL000000009731" type="place"/>
+        <ptr target="#j21973802197734" type="time"/>
+    </linkGrp>
 </div>

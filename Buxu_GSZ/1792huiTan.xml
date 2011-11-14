@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0473b01huiTan">
     <head><lb ed="X" n="0473b01"/>　　　　<persName key="A001737">覺原曇</persName>禪師傳</head>
-    <p><anchor n="X.77.1524.0473b02"/><lb ed="X" n="0473b02"/><persName key="A001737">慧曇</persName>。字<persName key="A001737">覺原</persName>。<placeName key="PL000000014804">天台</placeName>人。依越之<placeName key="unknown">法果寺</placeName>。時<persName key="A000062">廣智笑隱訢</persName>
+    <p><anchor n="X.77.1524.0473b02"/><lb ed="X" n="0473b02"/><persName key="A001737">慧曇</persName>。字<persName key="A001737">覺原</persName>。<placeName key="PL000000014804">天台</placeName>人。依越之<placeName key="PL000000055875">法果寺</placeName>。時<persName key="A000062">廣智笑隱訢</persName>
         <lb ed="X" n="0473b03"/>公。說法<placeName key="PL000000011627">中天竺</placeName>。師造焉。備陳求道之切。<persName key="A000062">廣智</persName>斥曰。從
         <lb ed="X" n="0473b04"/>外入者。決非家珍。道在自己。豈向人求耶。師退。凝然
         <lb ed="X" n="0473b05"/>獨坐一室。久之無所入。<persName key="A000062">廣智</persName>一日舉<persName key="A001897">百丈</persName>野狐話。師
@@ -21,8 +21,8 @@
         <lb ed="X" n="0473b19"/>釋教事。降　誥命。俾服紫方袍。章逢之士。以釋氏為
         <lb ed="X" n="0473b20"/>世蠹請滅除之。　<ref type="person" target="#A003672">上</ref>以其章示師。師曰。<persName key="A002174">孔子</persName>以佛為
         <lb ed="X" n="0473b21"/>西方聖人。以此知真儒不必非釋。非釋必非真儒也。
-        <lb ed="X" n="0473b22"/>　上亦以佛陰翊王度。却不聽。<date from-iso="1370-05-04" to-iso="1370-07-30" key="j22215662221653">庚戌夏</date>。奉使<placeName key="PL000000047439">西域</placeName>。<date from-iso="1371-08-19" to-iso="1371-11-15" key="j22220382222126">辛<lb ed="X" n="0473b23"/>亥秋</date>。至<placeName key="unknown">省合剌國</placeName>。布宣　天子威德。其國王喜甚。館
-        <lb ed="X" n="0473b24"/>于<placeName key="unknown">佛山寺</placeName>。待以師禮。一日呼左右謂曰。予不能復命
+        <lb ed="X" n="0473b22"/>　上亦以佛陰翊王度。却不聽。<date from-iso="1370-05-04" to-iso="1370-07-30" key="j22215662221653">庚戌夏</date>。奉使<placeName key="PL000000047439">西域</placeName>。<date from-iso="1371-08-19" to-iso="1371-11-15" key="j22220382222126">辛<lb ed="X" n="0473b23"/>亥秋</date>。至<placeName key="PL000000048734">省合剌國</placeName>。布宣　天子威德。其國王喜甚。館
+        <lb ed="X" n="0473b24"/>于<placeName key="PL000000055877">佛山寺</placeName>。待以師禮。一日呼左右謂曰。予不能復命
         <lb ed="X" n="0473c01"/>矣。跏趺端坐。夜參半問云。日將出否。曰未也。已而復
         <lb ed="X" n="0473c02"/>問。至於四三。曰日出矣。恬然而逝。其日葢丙子云。踰
         <lb ed="X" n="0473c03"/>五日顏貌如生。王大敬歎。斵香為棺。聚香代薪。築壇
@@ -32,6 +32,67 @@
         <lb ed="X" n="0473c07"/>聞者自然有所悟入。雖位隆望重。恒處之若寒素。無
         <lb ed="X" n="0473c08"/>毫髮自矜意。為人寡言笑。喜怒任真。不能以貴賤異
         <lb ed="X" n="0473c09"/>其顏色。然毗翊宗教。無一息敢忘。廣廈細旃之間。從
-        <lb ed="X" n="0473c10"/>容　召對。據經持論。每罄竭蘊蓄。<placeName key="unknown">松園</placeName>之復釋道私
+        <lb ed="X" n="0473c10"/>容　召對。據經持論。每罄竭蘊蓄松園。之復釋道私
         <lb ed="X" n="0473c11"/>租之免。皆師之所請也。</p>
+    
+    <linkGrp>
+        <link targets="#0473b02 #0473b02"/>
+        <ptr target="#A001737" type="person"/>
+        <ptr target="#PL000000014804" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0473b02 #0473b02"/>
+        <ptr target="#A001737" type="person"/>
+        <ptr target="#PL000000055875" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0473b02 #0473b07"/>
+        <ptr target="#A001737" type="person"/>
+        <ptr target="#A000062" type="person"/>
+        <ptr target="#PL000000011627" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0473b07 #0473b10"/>
+        <ptr target="#A001737" type="person"/>
+        <ptr target="#PL000000008744" type="place"/>
+        <ptr target="#j22163692216722" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0473b07 #0473b13"/>
+        <ptr target="#A001737" type="person"/>
+        <ptr target="#A003672" type="person"/>
+        <ptr target="#PL000000008895" type="place"/>
+        <ptr target="#j22163692216722" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0473b13 #0473b15"/>
+        <ptr target="#A001737" type="person"/>
+        <ptr target="#A003672" type="person"/>
+        <ptr target="#PL000000009061" type="place"/>
+        <ptr target="#j22167232217106" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0473b17 #0473b22"/>
+        <ptr target="#A001737" type="person"/>
+        <ptr target="#A003672" type="person"/>
+        <ptr target="#j22207422221122" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0473b17 #0473b18"/>
+        <ptr target="#A001737" type="person"/>
+        <ptr target="#PL000000009061" type="place"/>
+        <ptr target="#j22207422221122" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0473b22 #0473b22"/>
+        <ptr target="#A001737" type="person"/>
+        <ptr target="#A003672" type="person"/>
+        <ptr target="#j22215662221653" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0473b22 #0473c02"/>
+        <ptr target="#A001737" type="person"/>
+        <ptr target="#PL000000048734" type="place"/>
+        <ptr target="#j22220382222126" type="time"/>
+    </linkGrp>
 </div>

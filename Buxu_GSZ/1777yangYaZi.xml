@@ -4,7 +4,7 @@
     <p><anchor n="X.77.1524.0467c05"/><lb ed="X" n="0467c05"/><persName key="A021445">坱圠子</persName>。姓蔣。號<persName key="A021445">清谷</persName>。不知何許人。年二十五。涉獵經
         <lb ed="X" n="0467c06"/>史。言辭簡邃。髼首垢面。動靜不羈。<date from-iso="1341-01-26" to-iso="1348-05-28" key="j22108762213555">至正初</date>。抵<placeName key="PL000000008488">松江</placeName>。坐
         <lb ed="X" n="0467c07"/>大古圜室。已則歷市廛[狂-王+羊]狂。人呼為風子。一夕。叩府
-        <lb ed="X" n="0467c08"/>人<persName key="unknown">沈蒲團</persName>門。家人拒之。不肯去。且告之曰。將<persName key="unknown">蒲團</persName>來
+        <lb ed="X" n="0467c08"/>人<persName key="A022270">沈蒲團</persName>門。家人拒之。不肯去。且告之曰。將<persName key="unknown">蒲團</persName>來
         <lb ed="X" n="0467c09"/>坐我。沈異之。撱一蒲團導。詣蔬圃草蓬中宴坐。沈徐
         <lb ed="X" n="0467c10"/>[目*匿]啟之。有所省發。輒委俗傾身。服役為弟子。繇是。人
         <lb ed="X" n="0467c11"/>多崇尚。爭施與。因以其地為庵。即所號為扁。乃融然
@@ -14,4 +14,12 @@
         <lb ed="X" n="0467c15"/>夢向誰說。豎起空拳指白雲。又云。不偏不倚立于中。
         <lb ed="X" n="0467c16"/>不著西邊不著東。超出東西南北外。一毫頭上釣蒼
         <lb ed="X" n="0467c17"/>龍。一日進沈曰。吾乘化盡矣。若等勉之。言絕而蛻。</p>
+    
+    <linkGrp>
+        <link targets="#0467c05 #0467c10"/>
+        <ptr target="#A021445" type="person"/>
+        <ptr target="#A022270" type="person"/>
+        <ptr target="#PL000000008488" type="place"/>
+        <ptr target="#j22108762213555" type="time"/>
+    </linkGrp>
 </div>

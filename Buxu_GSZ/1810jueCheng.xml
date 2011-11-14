@@ -1,17 +1,97 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0481b15jueCheng">
     <head><lb ed="X" n="0481b15"/>　　　　<persName key="A015700">香嚴澄</persName>禪師傳</head>
-    <p><anchor n="X.77.1524.0481b16"/><lb ed="X" n="0481b16"/><persName key="A015700">覺澄</persName>。山後<placeName key="PL000000002660">蔚州</placeName>人。十歲不茹葷。從<placeName key="unknown">雲中</placeName><persName key="unknown">天暉[日/〦/水]</persName>公落
+    <p><anchor n="X.77.1524.0481b16"/><lb ed="X" n="0481b16"/><persName key="A015700">覺澄</persName>。山後<placeName key="PL000000002660">蔚州</placeName>人。十歲不茹葷。從<placeName key="PL000000055932">雲中</placeName><persName key="A022351">天暉[日/〦/水]</persName>公落
         <lb ed="X" n="0481b17"/>髮。痛絕人事。閱大藏。越五寒暑乃周。後因提無字話
         <lb ed="X" n="0481b18"/>有省。道譽隆起。鉅卿名公。交薦之住南陽<placeName key="PL000000025341">香嚴寺</placeName>。大
         <lb ed="X" n="0481b19"/>為人所歸。逾年棄去。上<placeName key="PL000000000100">西蜀</placeName>。游<placeName key="PL000000000197">江南</placeName>。受大戒於杭之
-        <lb ed="X" n="0481b20"/><placeName key="PL000000011473">戒壇</placeName>。還登<placeName key="unknown">太岡山</placeName>。訪<persName key="unknown">月溪</persName>和尚。又入<placeName key="PL000000015565">投子</placeName>。禮<persName key="A009064">楚山琦</persName>
-        <lb ed="X" n="0481b21"/>禪師。遂獲印記。俄而別去。養靜固始之<placeName key="unknown">南山</placeName>。星霜頻
+        <lb ed="X" n="0481b20"/><placeName key="PL000000011473">戒壇</placeName>。還登<placeName key="PL000000055933">太岡山</placeName>。訪<persName key="A010860">月溪</persName>和尚。又入<placeName key="PL000000015565">投子</placeName>。禮<persName key="A009064">楚山琦</persName>
+        <lb ed="X" n="0481b21"/>禪師。遂獲印記。俄而別去。養靜固始之<placeName key="PL000000055934">南山</placeName>。星霜頻
         <lb ed="X" n="0481b22"/>易。又往<placeName key="PL000000005250">五臺</placeName>。禮<persName key="A002144">文殊</persName>請光瑞。得如所祈。密有感悟。還
-        <lb ed="X" n="0481b23"/><placeName key="unknown">鄘城</placeName>。逢<placeName key="PL000000009061">天界</placeName>首座<persName key="unknown">清寧</persName>。請居<placeName key="PL000000009063">高座寺</placeName>。寺後即<placeName key="PL000000009060">雨花臺</placeName>。
+        <lb ed="X" n="0481b23"/><placeName key="PL000000055935">鄘城</placeName>。逢<placeName key="PL000000009061">天界</placeName>首座<persName key="A022352">清寧</persName>。請居<placeName key="PL000000009063">高座寺</placeName>。寺後即<placeName key="PL000000009060">雨花臺</placeName>。
         <lb ed="X" n="0481b24"/><date from-iso="0502-05-02" to-iso="0557-11-14" key="j19045331924818">梁</date><persName key="A007809">雲光</persName>法師講法華。天雨花處。師遐繼芳躅。善於開
         <lb ed="X" n="0481c01"/>導。鍵閉山居十餘載。足不躡城市。而聞風者從化。有
         <lb ed="X" n="0481c02"/>藥師科儀雨花集。行世。<date when-iso="1473-09-10" key="j22593152259315">成化癸巳八月九日</date>。端坐夷
         <lb ed="X" n="0481c03"/>然而化。少息。眾皆凄泣。又徐開目曰。不須如是。復瞑
         <lb ed="X" n="0481c04"/>目長往。</p>
+    
+    <linkGrp>
+        <link targets="#0481b16 #0481b16"/>
+        <ptr target="#A015700" type="person"/>
+        <ptr target="#PL000000002660" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0481b16 #0481b17"/>
+        <ptr target="#A015700" type="person"/>
+        <ptr target="#A022351" type="person"/>
+        <ptr target="#PL000000055932" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0481b17 #0481b19"/>
+        <ptr target="#A015700" type="person"/>
+        <ptr target="#PL000000025341" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0481b19 #0481b19"/>
+        <ptr target="#A015700" type="person"/>
+        <ptr target="#PL000000000100" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0481b19 #0481b19"/>
+        <ptr target="#A015700" type="person"/>
+        <ptr target="#PL000000000197" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0481b19 #0481b20"/>
+        <ptr target="#A015700" type="person"/>
+        <ptr target="#PL000000011473" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0481b20 #0481b20"/>
+        <ptr target="#A015700" type="person"/>
+        <ptr target="#A010860" type="person"/>
+        <ptr target="#PL000000055933" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0481b20 #0481b21"/>
+        <ptr target="#A015700" type="person"/>
+        <ptr target="#A009064" type="person"/>
+        <ptr target="#PL000000015565" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0481b21 #0481b22"/>
+        <ptr target="#A015700" type="person"/>
+        <ptr target="#PL000000055934" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0481b22 #0481b22"/>
+        <ptr target="#A015700" type="person"/>
+        <ptr target="#PL000000005250" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0481b22 #0481b23"/>
+        <ptr target="#A015700" type="person"/>
+        <ptr target="#PL000000055935" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0481b23 #0481b23"/>
+        <ptr target="#A022352" type="person"/>
+        <ptr target="#PL000000009061" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0481b23 #0481b24"/>
+        <ptr target="#A007809" type="person"/>
+        <ptr target="#PL000000009060" type="place"/>
+        <ptr target="#j19045331924818" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0481b23 #0481c02"/>
+        <ptr target="#A015700" type="person"/>
+        <ptr target="#PL000000009063" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0481c02 #0481c04"/>
+        <ptr target="#A015700" type="person"/>
+        <ptr target="#j22593152259315" type="time"/>
+    </linkGrp>
 </div>

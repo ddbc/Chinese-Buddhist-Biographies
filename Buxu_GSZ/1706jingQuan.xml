@@ -12,10 +12,10 @@
         <lb ed="X" n="0440b21"/>戀舊枝頭。眾大驚。自是刮目。有檀越以一度僧牒施
         <lb ed="X" n="0440b22"/><persName key="A000475">妙喜</persName>。命給度一人。<persName key="A000475">喜</persName>令侍者十輩。各探籌卜其分。緣
         <lb ed="X" n="0440b23"/>師得之。九人者不平。更相誶語。果命復探之。師再獲。
-        <lb ed="X" n="0440b24"/>若是三探三得之。遂祝髮受戒。拙庵光居<placeName key="PL000000011567">靈隱</placeName>。俾典
+        <lb ed="X" n="0440b24"/>若是三探三得之。遂祝髮受戒。<persName key="A007385">拙庵光</persName>居<placeName key="PL000000011567">靈隱</placeName>。俾典
         <lb ed="X" n="0440c01"/>賓。<persName key="A008740">混源密</persName>。主<placeName key="PL000000011683">淨慈</placeName>。命分半座。師志在晦藏。無應世念。
         <lb ed="X" n="0440c02"/>然天資夙成。不假師授。雖不識一丁。而吐辭發語。形
-        <lb ed="X" n="0440c03"/>為偈頌。老師宿學。所不能及。尚書<persName key="unknown">尤公袤</persName>。<persName key="unknown">寶文王</persName>公
+        <lb ed="X" n="0440c03"/>為偈頌。老師宿學。所不能及。尚書<persName key="A021877">尤公袤</persName>。寶文<persName key="unknown">王</persName>公
         <lb ed="X" n="0440c04"/>厚之。丞相<persName key="A015229">錢公象祖</persName>。皆與師為方外交。甞自贊曰。匙
         <lb ed="X" n="0440c05"/>挑不上箇村夫。文墨胸中一點無。曾把虗空揣出骨。
         <lb ed="X" n="0440c06"/>惡聲嬴得蒲江湖。因自號<persName key="A008961">無用</persName>。累典大剎。最後住四
@@ -24,4 +24,49 @@
             <lb ed="X" n="0440c09"/>　<persName key="A008740">混源密</persName>。嗣<persName key="A008520">晦庵光</persName>。<persName key="A008520">光</persName>嗣<persName key="A000475">妙喜</persName>。則<persName key="A008740">密</persName>乃師之姪行。而
         <lb ed="X" n="0440c10"/>　不以分座。為嫌要之古人闡化揚道。肝腸是務。不
         <lb ed="X" n="0440c11"/>　拘拘于形迹間。故可貴也。</p>
+    
+    <linkGrp>
+        <link targets="#0440b13 #0440b13"/>
+        <ptr target="#A008961" type="person"/>
+        <ptr target="#PL000000013374" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0440b13 #0440b24"/>
+        <ptr target="#A008961" type="person"/>
+        <ptr target="#A000475" type="person"/>
+        <ptr target="#PL000000011848" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0440b24 #0440c01"/>
+        <ptr target="#A008961" type="person"/>
+        <ptr target="#A007385" type="person"/>
+        <ptr target="#PL000000011567" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0440c01 #0440c01"/>
+        <ptr target="#A008961" type="person"/>
+        <ptr target="#A008740" type="person"/>
+        <ptr target="#PL000000011683" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0440c03 #0440c04"/>
+        <ptr target="#A008961" type="person"/>
+        <ptr target="#A021877" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0440c03 #0440c04"/>
+        <ptr target="#A008961" type="person"/>
+        <ptr target="#A015229" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0440c06 #0440c08"/>
+        <ptr target="#A008961" type="person"/>
+        <ptr target="#PL000000012319" type="place"/>
+        <ptr target="#j21619442162297" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0440c09 #0440c09"/>
+        <ptr target="#A008740" type="person"/>
+        <ptr target="#A008520" type="person"/>
+    </linkGrp>
 </div>

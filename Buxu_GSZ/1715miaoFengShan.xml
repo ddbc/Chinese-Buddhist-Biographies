@@ -6,14 +6,82 @@
         <lb ed="X" n="0443c12"/>唱道<placeName key="PL000000012279">鄮山</placeName>。師往參焉。于風幡話下悟旨。<persName key="A007385">佛炤</persName>可以偈
         <lb ed="X" n="0443c13"/>曰。今日與君通一線。斬釘截鐵起吾宗。自是辯慧泉
         <lb ed="X" n="0443c14"/>湧。然不以是自足。入武康廬<placeName key="PL000000018777">妙高峯</placeName>。壁坐十年。身隱
-        <lb ed="X" n="0443c15"/>而名彰。學者尊之。曰<persName key="A007798">妙峯禪師</persName>。出世於台之<placeName key="unknown">慧因</placeName><placeName key="PL000000014339">鴻<lb ed="X" n="0443c16"/>福</placeName><placeName key="PL000000014782">萬年</placeName>諸剎。退居皐亭<placeName key="unknown">劉寺</placeName>者。又十餘年。其徒推迫
-        <lb ed="X" n="0443c17"/>不已。復領明之<placeName key="unknown">瑞巖</placeName>。蘇之<placeName key="PL000000010227">萬壽</placeName>。常之<placeName key="PL000000009710">華藏</placeName>。次至<placeName key="PL000000011596">靈隱</placeName>。
+        <lb ed="X" n="0443c15"/>而名彰。學者尊之。曰<persName key="A007798">妙峯禪師</persName>。出世於台之<placeName key="PL000000055588">慧因</placeName><placeName key="PL000000014339">鴻<lb ed="X" n="0443c16"/>福</placeName><placeName key="PL000000014782">萬年</placeName>諸剎。退居皐亭<placeName key="PL000000055589">劉寺</placeName>者。又十餘年。其徒推迫
+        <lb ed="X" n="0443c17"/>不已。復領明之<placeName key="PL000000012188">瑞巖</placeName>。蘇之<placeName key="PL000000010227">萬壽</placeName>。常之<placeName key="PL000000009710">華藏</placeName>。次至<placeName key="PL000000011596">靈隱</placeName>。
         <lb ed="X" n="0443c18"/><placeName key="PL000000011596">靈隱</placeName>。密邇于闕。輪蹄湊集。師掩戶若不聞。一無所將
         <lb ed="X" n="0443c19"/>迎。公卿貴人。或見之。寒溫而已。會<placeName key="PL000000012319">天童</placeName>虗席。時<persName key="A008467">鄭清<lb ed="X" n="0443c20"/>之</persName>秉鈞軸。謂非師莫宜居。因勉師行。師答曰。老僧年
         <lb ed="X" n="0443c21"/>耄矣。尚夜行不休乎。<persName key="A008467">鄭</persName>公高之。師善於誘掖後進。未
         <lb ed="X" n="0443c22"/>甞厲聲色。然一經指授。無不心融神化。充然有得。相
         <lb ed="X" n="0443c23"/>傳。師住<placeName key="PL000000011596">靈隱</placeName>時。夜坐方丈。為四鬼舁出入。此與<persName key="A014368">洞山<lb ed="X" n="0443c24"/>寶</persName>事相類。得道人。時或有是。不欲章異以惑<ptr target="fn1"/>修。故諱
-        <lb ed="X" n="0444a01"/>而不言。<persName key="unknown">中峯</persName>所謂當時賴遇<persName key="A007798">妙峯</persName>。若王老師。又作修
+        <lb ed="X" n="0444a01"/>而不言。<persName key="A000655">中峯</persName>所謂當時賴遇<persName key="A007798">妙峯</persName>。若<persName key="A003889">王老師</persName><!-- 公案參見(X77n1522_p0126a16) -->。又作修
         <lb ed="X" n="0444a02"/>行無力會也。將示寂。澡身趺坐。書偈云。來也如是。去
         <lb ed="X" n="0444a03"/>也如是。來去一如。清風萬里。遂逝。</p>
+    
+    <linkGrp>
+        <link targets="#0443c10 #0443c10"/>
+        <ptr target="#A007798" type="person"/>
+        <ptr target="#PL000000012949" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0443c10 #0443c11"/>
+        <ptr target="#A007798" type="person"/>
+        <ptr target="#j21462022146567" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0443c11 #0443c13"/>
+        <ptr target="#A007798" type="person"/>
+        <ptr target="#A007385" type="person"/>
+        <ptr target="#PL000000012279" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0443c14 #0443c15"/>
+        <ptr target="#A007798" type="person"/>
+        <ptr target="#PL000000018777" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0443c15 #0443c16"/>
+        <ptr target="#A007798" type="person"/>
+        <ptr target="#PL000000055588" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0443c15 #0443c16"/>
+        <ptr target="#A007798" type="person"/>
+        <ptr target="#PL000000014339" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0443c15 #0443c16"/>
+        <ptr target="#A007798" type="person"/>
+        <ptr target="#PL000000014782" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0443c16 #0443c16"/>
+        <ptr target="#A007798" type="person"/>
+        <ptr target="#PL000000055589" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0443c16 #0443c17"/>
+        <ptr target="#A007798" type="person"/>
+        <ptr target="#PL000000012188" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0443c16 #0443c17"/>
+        <ptr target="#A007798" type="person"/>
+        <ptr target="#PL000000010227" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0443c16 #0443c17"/>
+        <ptr target="#A007798" type="person"/>
+        <ptr target="#PL000000009710" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0443c17 #0443c19"/>
+        <ptr target="#A007798" type="person"/>
+        <ptr target="#PL000000011596" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0443c19 #0443c21"/>
+        <ptr target="#A007798" type="person"/>
+        <ptr target="#A008467" type="person"/>
+        <ptr target="#PL000000012319" type="place"/>
+    </linkGrp>
 </div>

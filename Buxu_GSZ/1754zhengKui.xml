@@ -13,4 +13,31 @@
             <lb ed="X" n="0458b12"/>　師贈號。同<persName key="A001082">琦楚石</persName>。<persName key="A001082">楚石</persName>亦<persName key="A001032">元叟</persName>之嗣。大都<persName key="A001032">元叟</persName>法
         <lb ed="X" n="0458b13"/>　嗣滿天下。必有逵無疑。但不知新志據何書也。姑
         <lb ed="X" n="0458b14"/>　錄之。以備考。</p>
+    
+    <linkGrp>
+        <link targets="#0458b03 #0458b03"/>
+        <ptr target="#A021348" type="person"/>
+        <ptr target="#PL000000020168" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0458b03 #0458b05"/>
+        <ptr target="#A021348" type="person"/>
+        <ptr target="#A008284" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0458b03 #0458b05"/>
+        <ptr target="#A021348" type="person"/>
+        <ptr target="#A001032" type="person"/>
+        <ptr target="#PL000000011848" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0458b09 #0458b10"/>
+        <ptr target="#A021348" type="person"/>
+        <ptr target="#PL000000009072" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0458b12 #0458b12"/>
+        <ptr target="#A001082" type="person"/>
+        <ptr target="#A001032" type="person"/>
+    </linkGrp>
 </div>

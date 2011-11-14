@@ -5,7 +5,7 @@
         <lb ed="X" n="0438b01"/>紙為經。跏趺端坐誦之。聲琅琅動人。母甞與洗手瘍。
         <lb ed="X" n="0438b02"/>戲問。是甚麼手。對曰。佛手。視母大笑。俄二親俱喪。依
         <lb ed="X" n="0438b03"/><placeName key="PL000000009264">長蘆</placeName><persName key="A006941">真歇了</persName>。出家厲精。脇不至席者數年。時<persName key="A014330">大休珏</persName>
-        <lb ed="X" n="0438b04"/>公。為首座。指為法器。從道法師領戒。入<placeName key="PL000000012362">象山</placeName>之<placeName key="unknown">鄭行<lb ed="X" n="0438b05"/>山</placeName>。縛茆而居。山當海岸孤絕處多妖怪。師吊影其間
+        <lb ed="X" n="0438b04"/>公。為首座。指為法器。從道法師領戒。入<placeName key="PL000000012362">象山</placeName>之<placeName key="PL000000055552">鄭行<lb ed="X" n="0438b05"/>山</placeName>。縛茆而居。山當海岸孤絕處多妖怪。師吊影其間
         <lb ed="X" n="0438b06"/>百怪不能惑。地高無水。禱曰。吾辦道來此。神其惠我
         <lb ed="X" n="0438b07"/>泉。因鋤小坎。移時而水溢。食不繼啖。松栢以療飢。甞
         <lb ed="X" n="0438b08"/>深夜打坐。聞庵後巗石震響。如鬪擊。旦起視之。有巨
@@ -13,12 +13,12 @@
         <lb ed="X" n="0438b10"/>無恙。一日有巨蟒入庵。矯首怒視。越數日。復旋繞於
         <lb ed="X" n="0438b11"/>牀。師不顧而去。變怪百出。師舉不為動徐亦帖然。一
         <lb ed="X" n="0438b12"/>夕深定中。豁然開悟。身心世界。洞如琉璃。自念云。<persName key="A004106">威<lb ed="X" n="0438b13"/>音王</persName>已前。無師自證。<persName key="A004106">威音王</persName>已後。無師自證者。皆天
-        <lb ed="X" n="0438b14"/>魔外道。遂下山。見<persName key="unknown">延壽然</persName>曰。日來肚大無物可餐。庵
+        <lb ed="X" n="0438b14"/>魔外道。遂下山。見<persName key="A022070">延壽然</persName>曰。日來肚大無物可餐。庵
         <lb ed="X" n="0438b15"/>小無床可臥。若能與食展庵則住。不然則去。然與師
         <lb ed="X" n="0438b16"/>反覆問答。不能屈。因叩其所得。呈一頌。然喜曰。<persName key="A014688">鑒</persName>公
         <lb ed="X" n="0438b17"/>徹也。復航海。見<persName key="A014330">大休</persName>於<placeName key="PL000000012464">岳林</placeName>。試其機辯無碍。歎曰。佛
         <lb ed="X" n="0438b18"/>祖不奈爾何。因為行乞。擔二布囊。隨得即受。備歷艱
-        <lb ed="X" n="0438b19"/>勤。人所不堪。<persName key="unknown">翠山宗白頭</persName>。謂師曰。為眾竭力。不無其
+        <lb ed="X" n="0438b19"/>勤。人所不堪。<placeName key="PL000000012298">翠山</placeName><persName key="A014657">宗白頭</persName>。謂師曰。為眾竭力。不無其
         <lb ed="X" n="0438b20"/>勞。師云。須知有不勞者。宗曰。尊貴位中收不得時如
         <lb ed="X" n="0438b21"/>何。師云。觸處相逢不相識。宗曰。猶是途中賓主。如何
         <lb ed="X" n="0438b22"/>是主中主。師云。丙丁吹滅火。宗以手掩師口。師拂其
@@ -36,4 +36,56 @@
         <lb ed="X" n="0438c10"/>者。此皆世俗所創見。師不欲人言之。以為非此道之
         <lb ed="X" n="0438c11"/>極致。使其有之。皆亦師之餘也。師道聲震海內。而跡
         <lb ed="X" n="0438c12"/>曾不越<placeName key="PL000000012198">四明</placeName>之境。故自號<persName key="A014688">足庵</persName>云。</p>
+    
+    <linkGrp>
+        <link targets="#0438a24 #0438b02"/>
+        <ptr target="#A014688" type="person"/>
+        <ptr target="#PL000000015752" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0438b02 #0438b04"/>
+        <ptr target="#A014688" type="person"/>
+        <ptr target="#A006941" type="person"/>
+        <ptr target="#A014330" type="person"/>
+        <ptr target="#PL000000009264" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0438b04 #0438b14"/>
+        <ptr target="#A014688" type="person"/>
+        <ptr target="#PL000000055552" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0438b14 #0438b17"/>
+        <ptr target="#A014688" type="person"/>
+        <ptr target="#A022070" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0438b17 #0438b18"/>
+        <ptr target="#A014688" type="person"/>
+        <ptr target="#A014330" type="person"/>
+        <ptr target="#PL000000012464" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0438b19 #0438b19"/>
+        <ptr target="#A014657" type="person"/>
+        <ptr target="#PL000000012298" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0438b19 #0438b24"/>
+        <ptr target="#A014688" type="person"/>
+        <ptr target="#A014657" type="person"/>
+        <ptr target="#PL000000012462" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0438c01 #0438c02"/>
+        <ptr target="#A014688" type="person"/>
+        <ptr target="#PL000000012463" type="place"/>
+        <ptr target="#j21560972156451" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0438c02 #0438c04"/>
+        <ptr target="#A014688" type="person"/>
+        <ptr target="#PL000000012463" type="place"/>
+        <ptr target="#j21566582156687" type="time"/>
+    </linkGrp>
 </div>

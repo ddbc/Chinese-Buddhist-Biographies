@@ -1,23 +1,80 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0454a11faYun">
     <head><lb ed="X" n="0454a11"/>　　　　<persName key="A015314">法贇</persName>傳</head>
-    <p><anchor n="X.77.1524.0454a12"/><lb ed="X" n="0454a12"/><persName key="A015314">法贇</persName>。<placeName key="PL000000021536">兗州</placeName>侯氏子。幼事<persName key="unknown">嵫陽明首座</persName>為師。<date from-iso="1161-11-03" to-iso="1189-01-26" key="j21454132155359">大定間</date>。以
+    <p><anchor n="X.77.1524.0454a12"/><lb ed="X" n="0454a12"/><persName key="A015314">法贇</persName>。<placeName key="PL000000021536">兗州</placeName>侯氏子。幼事<persName key="A022173">嵫陽明首座</persName>為師。<date from-iso="1161-11-03" to-iso="1189-01-26" key="j21454132155359">大定間</date>。以
         <lb ed="X" n="0454a13"/>誦經通得僧服。從事義理之學。根性頴利。同學者少
-        <lb ed="X" n="0454a14"/>所及。游參叩詰。洞見深秘。<persName key="unknown">告山明</persName>和尚。<persName key="unknown">靈岩才</persName>師。皆
-        <lb ed="X" n="0454a15"/>授以印記。尋領眾。主<placeName key="unknown">告山</placeName>。闡抉幽微。方世路清夷。禪
+        <lb ed="X" n="0454a14"/>所及。游參叩詰。洞見深秘。<persName key="A022174">告山明</persName>和尚。<persName key="A022175">靈岩才</persName>師。皆
+        <lb ed="X" n="0454a15"/>授以印記。尋領眾。主<placeName key="PL000000055682">告山</placeName>。闡抉幽微。方世路清夷。禪
         <lb ed="X" n="0454a16"/>林軌則未改。師道風藹然。為諸方所重。移兗州<placeName key="PL000000021322">普照</placeName>。
-        <lb ed="X" n="0454a17"/><persName key="unknown">倅路公宣叔</persName>。潛心內乘。與師為法喜淘汰之游。師登
-        <lb ed="X" n="0454a18"/>座。<persName key="unknown">宣叔</persName>。朝服頂禮。法重身尊。哲勝傾下。然師沉嘿自
+        <lb ed="X" n="0454a17"/>倅<persName key="A022176">路<roleName>公</roleName>宣叔</persName>。潛心內乘。與師為法喜淘汰之游。師登
+        <lb ed="X" n="0454a18"/>座。<persName key="A022176">宣叔</persName>。朝服頂禮。法重身尊。哲勝傾下。然師沉嘿自
         <lb ed="X" n="0454a19"/>守。不以文字言語。驚流俗為門戶計。住持不務修營。
         <lb ed="X" n="0454a20"/>學者繁盛。動則蜂擁。迄無顯受灌頂者。其不輕許與
-        <lb ed="X" n="0454a21"/>如此。師有弟子曰<persName key="unknown">汴公</persName>者。嗣法于<persName key="unknown">亨虗明亭</persName>。亭直上
+        <lb ed="X" n="0454a21"/>如此。師有弟子曰<persName key="A022177">汴公</persName>者。嗣法于<persName key="A022178">亨虗明亭</persName>。<persName key="A022178">亭</persName>直上
         <lb ed="X" n="0454a22"/>不為震雲凌雨之所摧偃。當龍興禁蕩之餘。破屋數
         <lb ed="X" n="0454a23"/>椽。殘僧三四輩。灌園自給。不肯輕旁時貴之門。或贈
         <lb ed="X" n="0454a24"/>之詩云。道大宜高謇。禪枯耐寂寥。葢頭茅一把。繞腹
         <lb ed="X" n="0454b01"/>篾三條。風味可想而見。其孤峻自[托-七+友]。必有所從來其
-        <lb ed="X" n="0454b02"/>自師乎。後<persName key="unknown">汴</persName>歸<placeName key="unknown">自南</placeName>。哀敘曰。<persName key="unknown">汴</persName>落髮事師五六年。始
+        <lb ed="X" n="0454b02"/>自師乎。後<persName key="A022177">汴</persName>歸自南。哀敘曰。<persName key="A022177">汴</persName>落髮事師五六年。始
         <lb ed="X" n="0454b03"/>避兵而南。比歸師去世已久。師生于<date from-iso="1156-03-01" to-iso="1157-08-13" key="j21433402143870">正隆初</date>。而歿于
         <lb ed="X" n="0454b04"/><date from-iso="1221-06-22" to-iso="1222-09-13" key="j21671942167642">興定之末年</date>。過六十。但以喪亂之後。時事凋殘。師之
-        <lb ed="X" n="0454b05"/>行事無從考。按至於卒葬時日。亦不能知者。特<persName key="unknown">汴</persName>未
+        <lb ed="X" n="0454b05"/>行事無從考。按至於卒葬時日。亦不能知者。特<persName key="A022177">汴</persName>未
         <lb ed="X" n="0454b06"/>南渡時事耳。<persName key="A019871">元好問</persName>。據此以銘師塔。</p>
+    
+    <linkGrp>
+        <link targets="#0454a12 #0454a12"/>
+        <ptr target="#A015314" type="person"/>
+        <ptr target="#PL000000021536" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0454a12 #0454a12"/>
+        <ptr target="#A015314" type="person"/>
+        <ptr target="#A022173" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0454a12 #0454a14"/>
+        <ptr target="#A015314" type="person"/>
+        <ptr target="#j21454132155359" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0454a14 #0454a15"/>
+        <ptr target="#A015314" type="person"/>
+        <ptr target="#A022174" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0454a14 #0454a15"/>
+        <ptr target="#A015314" type="person"/>
+        <ptr target="#A022175" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0454a15 #0454a16"/>
+        <ptr target="#A015314" type="person"/>
+        <ptr target="#PL000000055682" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0454a16 #0454a20"/>
+        <ptr target="#A015314" type="person"/>
+        <ptr target="#A022176" type="person"/>
+        <ptr target="#PL000000021322" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0454a21 #0454a21"/>
+        <ptr target="#A015314" type="person"/>
+        <ptr target="#A022177" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0454a21 #0454b03"/>
+        <ptr target="#A022178" type="person"/>
+        <ptr target="#A022177" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0454b03 #0454b03"/>
+        <ptr target="#A022178" type="person"/>
+        <ptr target="#j21433402143870" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0454b03 #0454b04"/>
+        <ptr target="#A022178" type="person"/>
+        <ptr target="#j21433402143870" type="time"/>
+    </linkGrp>
 </div>

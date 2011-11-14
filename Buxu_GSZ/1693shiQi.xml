@@ -14,4 +14,16 @@
         <lb ed="X" n="0435b19"/>偈曰。諸法空故我心空。我心空故諸法同。諸法我心
         <lb ed="X" n="0435b20"/>無別體。祗在而今一念中。且道是[邱-丘+冉]一念。眾罔措。喝
         <lb ed="X" n="0435b21"/>一喝而終。</p>
+    
+    <linkGrp>
+        <link targets="#0435b09 #0435b09"/>
+        <ptr target="#A020946" type="person"/>
+        <ptr target="#PL000000034801" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0435b09 #0435b18"/>
+        <ptr target="#A020946" type="person"/>
+        <ptr target="#A008397" type="person"/>
+        <ptr target="#PL000000015502" type="place"/>
+    </linkGrp>
 </div>

@@ -13,8 +13,8 @@
         <lb ed="X" n="0476b15"/>師道德形諸篇翰。不知己者。初以文字相歆慕。師笑
         <lb ed="X" n="0476b16"/>曰。佛法與世法。不相違背。故以餘力及之。將光潤其
         <lb ed="X" n="0476b17"/>宗教爾。苟用此相夸。豈知我哉。師出世。四坐道場。為
-        <lb ed="X" n="0476b18"/>法求人。無少退轉。住<placeName key="PL000000011683">淨慈</placeName>則入　聖朝矣。<placeName key="PL000000008734">鍾山</placeName>之會。
-        <lb ed="X" n="0476b19"/>名德咸集。師一至<placeName key="PL000000008891">京師</placeName>。遂退居錢塘之<placeName key="unknown">良渚</placeName>。問道者
+        <lb ed="X" n="0476b18"/>法求人。無少退轉。住<placeName key="PL000000011683">淨慈</placeName>則<date from-iso="1368-01-31" to-iso="1375-09-08" key="j22207422223519">入　聖朝</date>矣。<placeName key="PL000000008734">鍾山</placeName>之會。
+        <lb ed="X" n="0476b19"/>名德咸集。師一至<placeName key="PL000000008891">京師</placeName>。遂退居錢塘之<placeName key="PL000000011755">良渚</placeName>。問道者
         <lb ed="X" n="0476b20"/>接踵而至。不翅住山時。<date when-iso="1376-01-03" key="j22236362223636">洪武八年十二月四</date>。大若有
         <lb ed="X" n="0476b21"/>所惱。召弟子屬以後事。怡然而逝。壽五十九。火化不
         <lb ed="X" n="0476b22"/>壞者三。師法語。有四會錄。詩文有集。善草隷書。又善
@@ -23,8 +23,62 @@
         <lb ed="X" n="0476c01"/>經。未甞虗日。生平守道弗變。<date from-iso="1363-01-29" to-iso="1370-05-31" key="j22189142221593">元至正末</date>。避地<placeName key="PL000000018775">匡廬</placeName>。悍
         <lb ed="X" n="0476c02"/>兵來索金帛。師瞋目訶之曰。浮屠烏有是物邪。兵怒
         <lb ed="X" n="0476c03"/>拔劒欲殺之。師引頸就劒。兵歎息而去。師偉行甚眾。
-        <lb ed="X" n="0476c04"/>舉此可例推也。師住<placeName key="PL000000011683">淨慈</placeName>行化。有<persName key="unknown">陳媼</persName>者。預夢神僧
+        <lb ed="X" n="0476c04"/>舉此可例推也。師住<placeName key="PL000000011683">淨慈</placeName>行化。有<persName key="A022301">陳媼</persName>者。預夢神僧
         <lb ed="X" n="0476c05"/>臨其門。及師至。稽首作禮願為尼。師舉大法。以開導
         <lb ed="X" n="0476c06"/>之。恍然有所悟入。師行未百步。而婦竟與家人別。坐
         <lb ed="X" n="0476c07"/>脫而去。非師化道入人之深。何能及此。噫。亦異事也。</p>
+    
+    <linkGrp>
+        <link targets="#0476b05 #0476b05"/>
+        <ptr target="#A015593" type="person"/>
+        <ptr target="#PL000000018620" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0476b05 #0476b13"/>
+        <ptr target="#A015593" type="person"/>
+        <ptr target="#A000062" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0476b13 #0476b14"/>
+        <ptr target="#A015593" type="person"/>
+        <ptr target="#A008211" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0476b13 #0476b14"/>
+        <ptr target="#A015593" type="person"/>
+        <ptr target="#A014409" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0476b18 #0476b18"/>
+        <ptr target="#A015593" type="person"/>
+        <ptr target="#PL000000011683" type="place"/>
+        <ptr target="#j22207422223519" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0476b18 #0476b19"/>
+        <ptr target="#A015593" type="person"/>
+        <ptr target="#PL000000008734" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0476b19 #0476b20"/>
+        <ptr target="#A015593" type="person"/>
+        <ptr target="#PL000000011755" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0476b20 #0476b21"/>
+        <ptr target="#A015593" type="person"/>
+        <ptr target="#j22236362223636" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0476c01 #0476c03"/>
+        <ptr target="#A015593" type="person"/>
+        <ptr target="#PL000000018775" type="place"/>
+        <ptr target="#j22189142221593" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0476c04 #0476c07"/>
+        <ptr target="#A015593" type="person"/>
+        <ptr target="#A022301" type="person"/>
+        <ptr target="#PL000000011683" type="place"/>
+    </linkGrp>
 </div>

@@ -15,8 +15,34 @@
         <lb ed="X" n="0451c19"/>堂因甚八十住山。師。即舉<persName key="A004475">趙州</persName>行脚到臨濟話。頌曰。
         <lb ed="X" n="0451c20"/><persName key="A004475">趙州</persName>八十方行脚。<persName key="A009654">虗堂</persName>八十再住山。別有一機[懨-猒+火]佛
         <lb ed="X" n="0451c21"/>祖。九重城裏動龍顏。使以頌回奏。上大悅。特賜米五
-        <lb ed="X" n="0451c22"/>百石。絹一百縑。開堂安眾。後示寂。塔于<placeName key="unknown">直嶺</placeName>下曰天
-        <lb ed="X" n="0451c23"/>然。先是。<placeName key="PL000000048554">高麗</placeName>國王。請師於彼國說法。八載還山。問法
+        <lb ed="X" n="0451c22"/>百石。絹一百縑。開堂安眾。後示寂。塔于<placeName key="PL000000055647">直嶺</placeName>下曰<placeName key="PL000000055648">天<lb ed="X" n="0451c23"/>然</placeName>。先是。<placeName key="PL000000048554">高麗</placeName>國王。請師於彼國說法。八載還山。問法
         <lb ed="X" n="0451c24"/>弟子。隨侍千指。至我　<date from-iso="1522-02-07" to-iso="1567-02-02" key="j22769962293427">明嘉靖間</date>。<placeName key="PL000000048554">高麗</placeName>尚遣法嗣來
         <lb ed="X" n="0452a01"/>此掃塔云。彼國法道。甚盛焉。</p>
+    
+    <linkGrp>
+        <link targets="#0451c07 #0451c07"/>
+        <ptr target="#A009654" type="person"/>
+        <ptr target="#PL000000012198" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0451c07 #0451c08"/>
+        <ptr target="#A009654" type="person"/>
+        <ptr target="#A009658" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0451c08 #0451c09"/>
+        <ptr target="#A009654" type="person"/>
+        <ptr target="#PL000000011848" type="place"/>
+        <ptr target="#j21857372186779" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0451c17 #0451c22"/>
+        <ptr target="#A009654" type="person"/>
+        <ptr target="#PL000000011683" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0451c23 #0451c24"/>
+        <ptr target="#A009654" type="person"/>
+        <ptr target="#PL000000048554" type="place"/>
+    </linkGrp>
 </div>

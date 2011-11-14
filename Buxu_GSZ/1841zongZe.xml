@@ -26,4 +26,27 @@
         <lb ed="X" n="0493a12"/>如琉璃含寶月之光。可謂蓬生蔴中。不扶自直。眾流
         <lb ed="X" n="0493a13"/>入海。總號天池。其言意至。味一臠可以知全鼎矣。未
         <lb ed="X" n="0493a14"/>詳所終。</p>
+    
+    <linkGrp>
+        <link targets="#0492c14 #0492c15"/>
+        <ptr target="#A000606" type="person"/>
+        <ptr target="#PL000000027136" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0492c15 #0492c16"/>
+        <ptr target="#A000606" type="person"/>
+        <ptr target="#A008393" type="person"/>
+        <ptr target="#PL000000009264" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0492c17 #0492c18"/>
+        <ptr target="#A000606" type="person"/>
+        <ptr target="#A021069" type="person"/>
+        <ptr target="#PL000000009264" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0492c17 #0493a07"/>
+        <ptr target="#A000606" type="person"/>
+        <ptr target="#PL000000009264" type="place"/>
+    </linkGrp>
 </div>

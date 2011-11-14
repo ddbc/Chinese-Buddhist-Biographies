@@ -11,11 +11,27 @@
         <lb ed="X" n="0487c20"/>一念不生。三世際斷。經三日。夜見大千世界。光若琉
         <lb ed="X" n="0487c21"/>璃。聞遠雞唱乃起。說偈曰。喔喔金雞報曉時。不因他
         <lb ed="X" n="0487c22"/>響詎能知。三千世界渾如雪。井底泥蛇舞柘枝。他日
-        <lb ed="X" n="0487c23"/>以偈呈<persName key="unknown">善世古林香</persName>公。公喝曰。多嘴漢。明日特為師
+        <lb ed="X" n="0487c23"/>以偈呈善世<persName key="A022400">古林香</persName>公。公喝曰。多嘴漢。明日特為師
         <lb ed="X" n="0487c24"/>上堂。纔竪起拂子。師隨奪之。自是得無碍機。人不敢
         <lb ed="X" n="0488a01"/>嬰其鋒。且言。人吉凶無不懸應。自奉極淡薄。每有金
         <lb ed="X" n="0488a02"/>帛之供。視之漠然。悉付甞住為公。眾須一心懇懇。為
         <lb ed="X" n="0488a03"/>人惟恐不及。凡於法門無益之事。毫髮不經念慮。所
         <lb ed="X" n="0488a04"/>以興<placeName key="PL000000009063">永寧</placeName>。莫大之功。舉之如掇。實。自道行中來。非緣
         <lb ed="X" n="0488a05"/>報偶然也。</p>
+    
+    <linkGrp>
+        <link targets="#0487c13 #0487c18"/>
+        <ptr target="#A021502" type="person"/>
+        <ptr target="#PL000000009063" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0487c18 #0487c22"/>
+        <ptr target="#A021502" type="person"/>
+        <ptr target="#PL000000009032" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0487c22 #0487c24"/>
+        <ptr target="#A021502" type="person"/>
+        <ptr target="#A022400" type="person"/>
+    </linkGrp>
 </div>

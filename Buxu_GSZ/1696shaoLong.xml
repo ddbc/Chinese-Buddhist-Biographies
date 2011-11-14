@@ -1,13 +1,13 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0436b17shaoLong">
     <head><lb ed="X" n="0436b17"/>　　　　<persName key="A001128">虎丘隆</persName>禪師傳</head>
-    <p><anchor n="X.77.1524.0436b18"/><lb ed="X" n="0436b18"/><persName key="A001128">紹隆</persName>。和州<placeName key="PL000000016211">含山</placeName>人。<date key="j21173492117713" when-iso="1085">九歲</date>謝父母去家。依縣之<placeName key="unknown">佛慧院</placeName>。
+    <p><anchor n="X.77.1524.0436b18"/><lb ed="X" n="0436b18"/><persName key="A001128">紹隆</persName>。和州<placeName key="PL000000016211">含山</placeName>人。<date key="j21173492117713" when-iso="1085">九歲</date>謝父母去家。依縣之<placeName key="PL000000055536">佛慧院</placeName>。
         <lb ed="X" n="0436b19"/><date key="j21195402119904" when-iso="1091">又六歲</date>削髮受具。<date key="j21213662121731" when-iso="1096">又五歲</date>而束包曳杖。飄然有四方
-        <lb ed="X" n="0436b20"/>之志。首謁<persName key="unknown">長蘆淨炤</persName>禪師。參叩之間。景響有得。因閱
+        <lb ed="X" n="0436b20"/>之志。首謁<persName key="A021139"><placeName key="PL000000009264">長蘆</placeName>淨炤</persName>禪師。參叩之間。景響有得。因閱
         <lb ed="X" n="0436b21"/><persName key="A001411">圓悟</persName>語錄。撫卷歎曰。想酢生液。雖未能澆腹沃胃。要
         <lb ed="X" n="0436b22"/>且使人慶快。第恨未親聆謦欬耳。至<placeName key="PL000000019708">寶峯</placeName>謁<persName key="A008378">湛堂</persName>。叩
         <lb ed="X" n="0436b23"/><persName key="A008395">死心</persName>於<placeName key="PL000000018888">黃龍</placeName>。<persName key="A008395">死心</persName>機鋒橫出。諸方吞[舀*炎]。非上上根。莫
-        <lb ed="X" n="0436b24"/>能當。而於師獨器重稱賞。眾皆側目。將趨<placeName key="unknown">夾山</placeName>見<persName key="A001411">圓<lb ed="X" n="0436c01"/>悟</persName>。道<placeName key="unknown">龍牙</placeName>。遇<persName key="A008635">泐潭乾</persName>公之法子<persName key="A020647">密公</persName>。相與甚厚。每研
+        <lb ed="X" n="0436b24"/>能當。而於師獨器重稱賞。眾皆側目。將趨<placeName key="PL000000029532">夾山</placeName>見<persName key="A001411">圓<lb ed="X" n="0436c01"/>悟</persName>。道<placeName key="PL000000029644">龍牙</placeName>。遇<persName key="A008635">泐潭乾</persName>公之法子<persName key="A020647">密公</persName>。相與甚厚。每研
         <lb ed="X" n="0436c02"/>推古今。至投合處。抵掌軒渠。或若佯狂。議者。謂今之
         <lb ed="X" n="0436c03"/>溈仰<persName key="G000053">寒拾</persName>也。及見<persName key="A001411">圓悟</persName>。<persName key="A001411">圓悟</persName>移<placeName key="PL000000028624">道林</placeName>。師從焉。一日入
         <lb ed="X" n="0436c04"/>室。<persName key="A001411">圓悟</persName>引教云。見見之時。見非是見。見猶離見。見不
@@ -15,31 +15,132 @@
         <lb ed="X" n="0436c06"/>有省。<persName key="A001411">圓悟</persName>叱曰。見個甚麼。曰。竹密不妨流水過。<persName key="A001411">圓悟</persName>
         <lb ed="X" n="0436c07"/>肯之。自是與<persName key="A001411">圓悟</persName>。形影上下。又二十年。斧搜鑿索。盡
         <lb ed="X" n="0436c08"/>得其秘。或。疑師道貌甚愞。問<persName key="A001411">圓悟</persName>曰。<persName key="A001128">隆</persName>藏主。柔易若
-        <lb ed="X" n="0436c09"/>此。何能為哉。<persName key="A001411">圓悟</persName>曰。瞌睡虎耳。後歸邑住城西<placeName key="unknown">開聖</placeName>。
-        <lb ed="X" n="0436c10"/><date from-iso="1127-06-19" to-iso="1131-02-06" key="j21328572134185">建炎</date>之擾盜。起<placeName key="PL000000010524">淮上</placeName>。乃南渡結廬<placeName key="unknown">銅峰</placeName>之下。適<placeName key="unknown">彰教</placeName>
+        <lb ed="X" n="0436c09"/>此。何能為哉。<persName key="A001411">圓悟</persName>曰。瞌睡虎耳。後歸邑住城西<placeName key="PL000000055537">開聖</placeName>。
+        <lb ed="X" n="0436c10"/><date from-iso="1127-06-19" to-iso="1131-02-06" key="j21328572134185">建炎</date>之擾盜。起<placeName key="PL000000010524">淮上</placeName>。乃南渡結廬<placeName key="PL000000055538">銅峰</placeName>之下。適<placeName key="PL000000055539">彰教</placeName>
         <lb ed="X" n="0436c11"/>虗席。郡守<persName key="A008392">李尚書光</persName>。延師居之。四年而遷<placeName key="PL000000010003">虎丘</placeName>。時<persName key="A001411">圓<lb ed="X" n="0436c12"/>悟</persName>以亂離歸<placeName key="PL000000035103">蜀</placeName>。曩之輻湊川奔。一時後進。望山而趨。
         <lb ed="X" n="0436c13"/>師每登座。從實吐露。一味平等。隨根所應。皆愜其欲。
         <lb ed="X" n="0436c14"/>故<persName key="A001411">圓悟</persName>之道。復大振於東南。居三年感微疾。白眾曰
         <lb ed="X" n="0436c15"/>當以第一座宗達承院事。大書伽陀曰。無法可說。是
         <lb ed="X" n="0436c16"/>名說法。所以佛法無有剩語。珍重。擲筆坐逝。<date from-iso="1136-06-09" to-iso="1136-07-07" key="j21361352136163">紹興六<lb ed="X" n="0436c17"/>年丙辰五月</date>也。住世六十。坐四十五夏。塔全身于山
         <lb ed="X" n="0436c18"/>之陽。</p><p>
-            <lb ed="X" n="0436c19"/>　曹洞氏之老<persName key="unknown">秀公</persName>鎮<placeName key="PL000000010003">虎丘</placeName>。明年始以官命。并西庵
+            <lb ed="X" n="0436c19"/>　曹洞氏之<persName key="A020882">老秀</persName>公鎮<placeName key="PL000000010003">虎丘</placeName>。明年始以官命。并西庵
             <lb ed="X" n="0436c20"/>　墟之徙其棟瓦椽梠。完寺壞屋。於是<persName key="A001128">虎丘隆</persName>禪師
         <lb ed="X" n="0436c21"/>　之塔。破而復新。藩級崇宏。奧閾冥深。戶容庭貌。煒
-            <lb ed="X" n="0436c22"/>　煥赫奕。觀瞻聳悅。如教復振。論者多<persName key="unknown">秀公</persName>之義。頌
+            <lb ed="X" n="0436c22"/>　煥赫奕。觀瞻聳悅。如教復振。論者多<persName key="A020882">秀公</persName>之義。頌
         <lb ed="X" n="0436c23"/>　聲不期而作焉。惟禪師之道。於臨濟氏。為正胤的
         <lb ed="X" n="0436c24"/>　受。當教統之季。群宗遺支。微絕不嗣。獨禪師眾胄。
         <lb ed="X" n="0437a01"/>　曼衍天下。百年之間。以道德表茲山居。禪師之居
         <lb ed="X" n="0437a02"/>　者。父子弟昆。後先之踵相接也。然皆熟視其祖。凜
         <lb ed="X" n="0437a03"/>　然欲壓。于頹簷仆壁之下。莫肯引手持一瓦一木。
-            <lb ed="X" n="0437a04"/>　捄其風雨寒暑。而<persName key="unknown">秀公</persName>異氏也。獨知尊教基。飭祠
+            <lb ed="X" n="0437a04"/>　捄其風雨寒暑。而<persName key="A020882">秀公</persName>異氏也。獨知尊教基。飭祠
         <lb ed="X" n="0437a05"/>　宇。致孝乎非己之祖。豈惟善善之公。足以滅黨私。
         <lb ed="X" n="0437a06"/>　而矯薄俗。彼為人後。而遺其先者。視公之為宜何
-            <lb ed="X" n="0437a07"/>　如也。<persName key="A000658">明河</persName>曰。師見<persName key="A001411">圓悟</persName>。後以二親垂白。居<placeName key="unknown">褒禪山</placeName>。
+            <lb ed="X" n="0437a07"/>　如也。<persName key="A000658">明河</persName>曰。師見<persName key="A001411">圓悟</persName>。後以二親垂白。居<placeName key="PL000000055542">褒禪山</placeName>。
             <lb ed="X" n="0437a08"/>　侍養者數年。住<placeName key="PL000000010003">虎丘</placeName>。追憶<persName key="A003723">白雲端</persName>立祖堂故事。乃
         <lb ed="X" n="0437a09"/>　曰。為人之後。不能躬行遺訓。於義安乎。遂圖像奉
         <lb ed="X" n="0437a10"/>　安之。此二事。一載山誌。一出傳燈。見師隆本之厚。
-            <lb ed="X" n="0437a11"/>　因讀<persName key="unknown">天隱</persName>修塔文。深感於中。何後嗣之不然也。故
-            <lb ed="X" n="0437a12"/>　附其文於傳末。示戒將來。且知<persName key="unknown">秀公</persName>有作用人。恨
+            <lb ed="X" n="0437a11"/>　因讀<persName key="A001410">天隱修</persName>塔文。深感於中。何後嗣之不然也。故
+            <lb ed="X" n="0437a12"/>　附其文於傳末。示戒將來。且知<persName key="A020882">秀公</persName>有作用人。恨
         <lb ed="X" n="0437a13"/>　無從考始末。可惜。</p>
+    
+    <linkGrp>
+        <link targets="#0436b18 #0436b18"/>
+        <ptr target="#A001128" type="person"/>
+        <ptr target="#PL000000016211" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0436b18 #0436b18"/>
+        <ptr target="#A001128" type="person"/>
+        <ptr target="#PL000000055536" type="place"/>
+        <ptr target="#j21173492117713" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0436b19 #0436b19"/>
+        <ptr target="#A001128" type="person"/>
+        <ptr target="#j21195402119904" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0436b19 #0436b20"/>
+        <ptr target="#A001128" type="person"/>
+        <ptr target="#j21213662121731" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0436b19 #0436b20"/>
+        <ptr target="#A001128" type="person"/>
+        <ptr target="#A021139" type="person"/>
+        <ptr target="#PL000000009264" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0436b20 #0436b22"/>
+        <ptr target="#A001128" type="person"/>
+        <ptr target="#A008378" type="person"/>
+        <ptr target="#PL000000019708" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0436b22 #0436b24"/>
+        <ptr target="#A001128" type="person"/>
+        <ptr target="#A008395" type="person"/>
+        <ptr target="#PL000000018888" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0436c01 #0436c01"/>
+        <ptr target="#A008635" type="person"/>
+        <ptr target="#A020647" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0436c01 #0436c02"/>
+        <ptr target="#A001128" type="person"/>
+        <ptr target="#A020647" type="person"/>
+        <ptr target="#PL000000029644" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0436b24 #0436c03"/>
+        <ptr target="#A001128" type="person"/>
+        <ptr target="#A001411" type="person"/>
+        <ptr target="#PL000000029532" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0436c03 #0436c07"/>
+        <ptr target="#A001128" type="person"/>
+        <ptr target="#A001411" type="person"/>
+        <ptr target="#PL000000028624" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0436c09 #0436c09"/>
+        <ptr target="#A001128" type="person"/>
+        <ptr target="#PL000000055537" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0436c10 #0436c10"/>
+        <ptr target="#A001128" type="person"/>
+        <ptr target="#PL000000055538" type="place"/>
+        <ptr target="#j21328572134185" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0436c10 #0436c11"/>
+        <ptr target="#A001128" type="person"/>
+        <ptr target="#A008392" type="person"/>
+        <ptr target="#PL000000055539" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0436c11 #0436c18"/>
+        <ptr target="#A001128" type="person"/>
+        <ptr target="#PL000000010003" type="place"/>
+        <ptr target="#j21361352136163" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0436c19 #0436c22"/>
+        <ptr target="#A020882" type="person"/>
+        <ptr target="#PL000000010003" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0437a07 #0437a08"/>
+        <ptr target="#A001128" type="person"/>
+        <ptr target="#PL000000055542" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0437a08 #0437a10"/>
+        <ptr target="#A001128" type="person"/>
+        <ptr target="#PL000000010003" type="place"/>
+    </linkGrp>
 </div>

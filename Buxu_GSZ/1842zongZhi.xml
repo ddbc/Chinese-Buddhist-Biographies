@@ -1,20 +1,53 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0493a15zongZhi">
-    <head><lb ed="X" n="0493a15"/>　　　　<persName key="A021514">宗致</persName>傳(附<placeName key="unknown">居竭</placeName>．<placeName key="unknown">子照</placeName>)</head>
+    <head><lb ed="X" n="0493a15"/>　　　　<persName key="A021514">宗致</persName>傳(附<persName key="A022435">居竭</persName>．<persName key="A022434">子照</persName>)</head>
     <p><anchor n="X.77.1524.0493a16"/><lb ed="X" n="0493a16"/><persName key="A021514">宗致</persName>者。臨濟十一世之玄孫。而<persName key="A008378">泐潭準</persName>禪師之嫡嗣
-        <lb ed="X" n="0493a17"/>也。住持<placeName key="unknown">東山</placeName>。立身行道。大為時所宗仰。以智慧無礙
-        <lb ed="X" n="0493a18"/>之心。為功德莊嚴之事。<persName key="A001673">洪覺範</persName>。慈觀閣記云。師骨面
+        <lb ed="X" n="0493a17"/>也。住持<placeName key="PL000000056027">東山</placeName>。立身行道。大為時所宗仰。以智慧無礙
+        <lb ed="X" n="0493a18"/>之心。為功德莊嚴之事。<persName key="A001673">洪覺範</persName>。<placeName key="PL000000056029">慈觀閣</placeName>記云。師骨面
         <lb ed="X" n="0493a19"/>嚴冷。英氣逸羣。以荷擔<persName key="A007526">雲菴</persName>法道為己任。說法有辯
         <lb ed="X" n="0493a20"/>慧。護教有便行。卑叢林。以宗旨爭溝封。以語言爭是
         <lb ed="X" n="0493a21"/>非。紛然諸方方熾未艾。名為走道。其實走名射利。裨
         <lb ed="X" n="0493a22"/>販無所不至。而正宗微矣。欲棄之而弗忍。欲導之而
-        <lb ed="X" n="0493a23"/>弗從。於是。為室于方丈之東。名曰<placeName key="unknown">慈航</placeName>。又自名其號
-        <lb ed="X" n="0493a24"/>曰<persName key="A021514">慈覺</persName>。猶以為未也。建閣於大門。名曰<placeName key="unknown">慈觀</placeName>。　<placeName key="PL000000034649">蜀</placeName>僧<placeName key="unknown">居<lb ed="X" n="0493b01"/>竭</placeName>者。傾長財一百五十萬。以助成之。竭。平生自奉甚
+        <lb ed="X" n="0493a23"/>弗從。於是。為室于方丈之東。名曰<placeName key="PL000000056028">慈航</placeName>。又自名其號
+        <lb ed="X" n="0493a24"/>曰<persName key="A021514">慈覺</persName>。猶以為未也。建閣於大門。名曰<placeName key="PL000000056029">慈觀</placeName>。　<placeName key="PL000000034649">蜀</placeName>僧<persName key="A022435">居<lb ed="X" n="0493b01"/>竭</persName>者。傾長財一百五十萬。以助成之。<persName key="A022435">竭</persName>。平生自奉甚
         <lb ed="X" n="0493b02"/>約。所得檀信之施。毛累寸積。四十年之藏。一旦舉以
-        <lb ed="X" n="0493b03"/>施之。人以為難。　<placeName key="unknown">南晉</placeName>僧<placeName key="unknown">子照</placeName>者。有實行自然之智。如
+        <lb ed="X" n="0493b03"/>施之。人以為難。　<placeName key="PL000000028122">南晉</placeName>僧<persName key="A022434">子照</persName>者。有實行自然之智。如
         <lb ed="X" n="0493b04"/>人信手斫方圓。皆中繩墨。<persName key="A021514">慈覺</persName>使總院事。事無巨細。
         <lb ed="X" n="0493b05"/>談笑而辦。閣經營。照實董其事。垢面龜手。不憚霜雪。
         <lb ed="X" n="0493b06"/>伐山相材。運土拾礫。與蒼頭短髮進退。凡半年而落
         <lb ed="X" n="0493b07"/>成。竭以財施。而<persName key="A021514">慈覺</persName>之志乃克成。師弟子之於宗。皆
         <lb ed="X" n="0493b08"/>無所媿。賢矣哉。</p>
+    
+    <linkGrp>
+        <link targets="#0493a16 #0493a16"/>
+        <ptr target="#A021514" type="person"/>
+        <ptr target="#A008378" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0493a16 #0493a18"/>
+        <ptr target="#A021514" type="person"/>
+        <ptr target="#PL000000056027" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0493a18 #0493a23"/>
+        <ptr target="#A021514" type="person"/>
+        <ptr target="#PL000000056028" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0493a24 #0493b01"/>
+        <ptr target="#A022435" type="person"/>
+        <ptr target="#PL000000034649" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0493a24 #0493b07"/>
+        <ptr target="#A021514" type="person"/>
+        <ptr target="#A022435" type="person"/>
+        <ptr target="#A022434" type="person"/>
+        <ptr target="#PL000000056029" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0493b03 #0493b03"/>
+        <ptr target="#A022434" type="person"/>
+        <ptr target="#PL000000028122" type="place"/>
+    </linkGrp>
 </div>

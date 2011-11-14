@@ -1,36 +1,114 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0461c20qingGong">
     <head><lb ed="X" n="0461c20"/>　　　　<persName key="A007799">石屋珙</persName>禪師傳</head>
-    <p><anchor n="X.77.1524.0461c21"/><lb ed="X" n="0461c21"/><persName key="A007799">清珙</persName>。字<persName key="A007799">石屋</persName>。蘇州<placeName key="PL000000010154">常熟</placeName>人。俗姓溫。母劉氏。生之夕有
-        <lb ed="X" n="0461c22"/>異光。及長依<placeName key="PL000000010225">崇福</placeName><persName key="unknown">永惟</persName>出家。<date key="j21925892192953" when-iso="1291">二十</date>祝髮。越三年受具。
+    <p><anchor n="X.77.1524.0461c21"/><lb ed="X" n="0461c21"/><persName key="A007799">清珙</persName>。字<persName key="A007799">石屋</persName>。蘇州<placeName key="PL000000010154">常熟</placeName>人。俗姓溫。母<persName key="A022266">劉氏</persName>。生之夕有
+        <lb ed="X" n="0461c22"/>異光。及長依<placeName key="PL000000010225">崇福</placeName><persName key="A022221">永惟</persName>出家。<date key="j21925892192953" when-iso="1291">二十</date>祝髮。<date key="j21936852194049" when-iso="1294">越三年</date>受具。
         <lb ed="X" n="0461c23"/>走<placeName key="PL000000012081">天目</placeName>見<persName key="A004700">高峰</persName>和尚。<persName key="A004700">峰</persName>問。汝為何來師曰。欲求大法。
         <lb ed="X" n="0461c24"/><persName key="A004700">峯</persName>曰。大法豈易求邪。須然指香可也。師曰。某今日親
         <lb ed="X" n="0462a01"/>見和尚。<persName key="A004700">峰</persName>嘿器之。授以萬法歸一之語。三年罔所得。
-        <lb ed="X" n="0462a02"/>辭他行。<persName key="A004700">峰</persName>曰。<placeName key="PL000000012515">溫</placeName>有<persName key="unknown">瞎驢</persName>。<placeName key="PL000000010507">淮</placeName>有<persName key="unknown">及庵</persName>。宜往見之。乃見<persName key="unknown">及<lb ed="X" n="0462a03"/>庵</persName>。庵問何來。曰。天目。曰。有何指示。師曰。萬法歸一。庵
-        <lb ed="X" n="0462a04"/>曰。汝作麼生會。師無語。庵曰。此是死句。什麼害熱病
-        <lb ed="X" n="0462a05"/>底教。汝與麼。師拜求指示。庵曰。有佛處不得住。無佛
-        <lb ed="X" n="0462a06"/>處急走過。意旨如何。師答不契。庵曰。這箇亦是死句。
-        <lb ed="X" n="0462a07"/>師不覺汗下。後入室。庵。再理前語詰之。師答。上馬見
-        <lb ed="X" n="0462a08"/>路。庵呵曰。在此六年。猶作這箇見解。師發憤去。途中
-        <lb ed="X" n="0462a09"/>忽舉首見風亭。豁然有省。回語庵曰。有佛處不得住
+        <lb ed="X" n="0462a02"/>辭他行。<persName key="A004700">峰</persName>曰。<placeName key="PL000000012515">溫</placeName>有<persName key="A022222">瞎驢</persName>。<placeName key="PL000000010507">淮</placeName>有<persName key="A021593">及庵</persName>。宜往見之。乃見<persName key="A021593">及<lb ed="X" n="0462a03"/>庵</persName>。<persName key="A021593">庵</persName>問何來。曰。<placeName key="PL000000012081">天目</placeName>。曰。有何指示。師曰。萬法歸一。<persName key="A021593">庵</persName>
+        <lb ed="X" n="0462a04"/>曰。汝作麼生會。師無語。<persName key="A021593">庵</persName>曰。此是死句。什麼害熱病
+        <lb ed="X" n="0462a05"/>底教。汝與麼。師拜求指示。<persName key="A021593">庵</persName>曰。有佛處不得住。無佛
+        <lb ed="X" n="0462a06"/>處急走過。意旨如何。師答不契。<persName key="A021593">庵</persName>曰。這箇亦是死句。
+        <lb ed="X" n="0462a07"/>師不覺汗下。後入室。<persName key="A021593">庵</persName>。再理前語詰之。師答。上馬見
+        <lb ed="X" n="0462a08"/>路。<persName key="A021593">庵</persName>呵曰。在此六年。猶作這箇見解。師發憤去。途中
+        <lb ed="X" n="0462a09"/>忽舉首見風亭。豁然有省。回語<persName key="A021593">庵</persName>曰。有佛處不得住
         <lb ed="X" n="0462a10"/>也。是死句。無佛處急走過也。是死句。某今日會得活
-        <lb ed="X" n="0462a11"/>句了也。庵曰。汝作麼生會。師曰。清明時節雨初晴。黃
-        <lb ed="X" n="0462a12"/>鶯枝上分明語。庵頷之。久乃辭去。庵送之門。囑曰。已
-        <lb ed="X" n="0462a13"/>後與汝同龕。俄而庵遷<placeName key="unknown">湖</placeName>之道場。師再參。命典藏鑰。
-        <lb ed="X" n="0462a14"/>庵常與眾言曰。此子。乃法海中透網金鱗也。一眾刮
-        <lb ed="X" n="0462a15"/>目。後入<placeName key="unknown">霞霧山</placeName>卓庵。名曰<placeName key="unknown">天湖</placeName>。躬自薪蔬。吟咏自得。
-        <lb ed="X" n="0462a16"/>有終焉之志。既而當湖<placeName key="unknown">福源</placeName>虗席致懇。師堅臥不起。
+        <lb ed="X" n="0462a11"/>句了也。<persName key="A021593">庵</persName>曰。汝作麼生會。師曰。清明時節雨初晴。黃
+        <lb ed="X" n="0462a12"/>鶯枝上分明語。<persName key="A021593">庵</persName>頷之。久乃辭去。<persName key="A021593">庵</persName>送之門。囑曰。已
+        <lb ed="X" n="0462a13"/>後與汝同龕。俄而<persName key="A021593">庵</persName>遷湖之<placeName key="PL000000012973">道場</placeName>。師再參。命典藏鑰。
+        <lb ed="X" n="0462a14"/><persName key="A021593">庵</persName>常與眾言曰。此子。乃法海中透網金鱗也。一眾刮
+        <lb ed="X" n="0462a15"/>目。後入<placeName key="PL000000055749">霞霧山</placeName>卓庵。名曰<placeName key="PL000000055750">天湖</placeName>。躬自薪蔬。吟咏自得。
+        <lb ed="X" n="0462a16"/>有終焉之志。既而當湖<placeName key="PL000000055751">福源</placeName>虗席致懇。師堅臥不起。
         <lb ed="X" n="0462a17"/>或讓之曰。夫沙門者。當以弘法為重任。閒居獨善。何
         <lb ed="X" n="0462a18"/>足言哉。遂幡然而行。龍象歸之。雲湧濤奔。唯恐或後。
-        <lb ed="X" n="0462a19"/>未幾。復還<placeName key="unknown">天湖</placeName>。<date from-iso="1341-01-26" to-iso="1370-05-31" key="j22108762221593">至正間</date>。朝廷聞師名。降香幣以旌。<persName key="unknown">耆<lb ed="X" n="0462a20"/>德皇后</persName>。錫金磨衲衣。人以為榮。師澹如也。<date when-iso="1352-09-07" key="j22151182215118">至正壬辰<lb ed="X" n="0462a21"/>秋七月二十有一日</date>。示微疾。中夜與眾訣。其徒請問
+        <lb ed="X" n="0462a19"/>未幾。復還<placeName key="PL000000055750">天湖</placeName>。<date from-iso="1341-01-26" to-iso="1370-05-31" key="j22108762221593">至正間</date>。朝廷聞師名。降香幣以旌。<persName key="A022223">耆<lb ed="X" n="0462a20"/>德皇后</persName>。錫金磨衲衣。人以為榮。師澹如也。<date when-iso="1352-09-07" key="j22151182215118">至正壬辰<lb ed="X" n="0462a21"/>秋七月二十有一日</date>。示微疾。中夜與眾訣。其徒請問
         <lb ed="X" n="0462a22"/>後事。索筆書曰。青山不着臭尸骸。死了何須掘土埋。
         <lb ed="X" n="0462a23"/>顧我也無三昧火。光前絕後一堆柴。擲筆而逝。闍維
         <lb ed="X" n="0462a24"/>舍利五色。璨然無數。其徒收靈骨。合及庵舍利。塔于
-        <lb ed="X" n="0462b01"/><placeName key="unknown">天湖</placeName>之原。示不忘同龕之語。世壽八十有一。僧臘五
-        <lb ed="X" n="0462b02"/>十有四。弟子<persName key="unknown">愚太古</persName>者。<placeName key="PL000000048554">高麗國</placeName>人。師說偈印可。有金
+        <lb ed="X" n="0462b01"/><placeName key="PL000000055750">天湖</placeName>之原。示不忘同龕之語。世壽八十有一。僧臘五
+        <lb ed="X" n="0462b02"/>十有四。弟子<persName key="A022224">愚太古</persName>者。<placeName key="PL000000048554">高麗國</placeName>人。師說偈印可。有金
         <lb ed="X" n="0462b03"/>鱗上直鈎之句。後歸。王尊之。以為國師。數道師德。王
         <lb ed="X" n="0462b04"/>甚渴仰。及師化。表達朝廷。詔諡<persName key="A007799">佛慈慧照禪師</persName>。移文
-        <lb ed="X" n="0462b05"/><placeName key="PL000000011454">江浙</placeName>。請<placeName key="PL000000011683">淨慈</placeName><persName key="unknown">平山林</persName>公。入<placeName key="unknown">天湖</placeName>。取師舍利之半。館伴
+        <lb ed="X" n="0462b05"/><placeName key="PL000000011454">江浙</placeName>。請<placeName key="PL000000011683">淨慈</placeName><persName key="A016698">平山林</persName>公。入<placeName key="PL000000055750">天湖</placeName>。取師舍利之半。館伴
         <lb ed="X" n="0462b06"/>歸國。建塔供養。師有上堂法語。山居偈頌。緝本盛行
         <lb ed="X" n="0462b07"/>于世。</p>
+    
+    <linkGrp>
+        <link targets="#0461c21 #0461c22"/>
+        <ptr target="#A007799" type="person"/>
+        <ptr target="#A022266" type="person"/>
+        <ptr target="#PL000000010154" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0461c22 #0461c22"/>
+        <ptr target="#A007799" type="person"/>
+        <ptr target="#A022221" type="person"/>
+        <ptr target="#PL000000010225" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0461c22 #0461c22"/>
+        <ptr target="#A007799" type="person"/>
+        <ptr target="#j21925892192953" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0461c22 #0461c22"/>
+        <ptr target="#A007799" type="person"/>
+        <ptr target="#j21936852194049" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0461c23 #0462a02"/>
+        <ptr target="#A007799" type="person"/>
+        <ptr target="#A004700" type="person"/>
+        <ptr target="#PL000000012081" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0462a02 #0462a13"/>
+        <ptr target="#A007799" type="person"/>
+        <ptr target="#A021593" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0462a13 #0462a15"/>
+        <ptr target="#A007799" type="person"/>
+        <ptr target="#A021593" type="person"/>
+        <ptr target="#PL000000012973" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0462a15 #0462a19"/>
+        <ptr target="#A007799" type="person"/>
+        <ptr target="#PL000000055750" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0462a19 #0462a20"/>
+        <ptr target="#A007799" type="person"/>
+        <ptr target="#A006676" type="person"/>
+        <ptr target="#A022223" type="person"/>
+        <ptr target="#j22108762221593" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0462a20 #0462a23"/>
+        <ptr target="#A007799" type="person"/>
+        <ptr target="#j22151182215118" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0462b02 #0462b02"/>
+        <ptr target="#A007799" type="person"/>
+        <ptr target="#A022224" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0462b05 #0462b05"/>
+        <ptr target="#A016698" type="person"/>
+        <ptr target="#PL000000011683" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0462b05 #0462b05"/>
+        <ptr target="#A016698" type="person"/>
+        <ptr target="#PL000000055750" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0462b02 #0462b06"/>
+        <ptr target="#A016698" type="person"/>
+        <ptr target="#A022224" type="person"/>
+        <ptr target="#PL000000048554" type="place"/>
+    </linkGrp>
 </div>

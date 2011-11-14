@@ -3,7 +3,7 @@
     <head><lb ed="X" n="0435b22"/>　　　　<persName key="A001504">雪堂行</persName>傳</head>
     <p><anchor n="X.77.1524.0435b23"/><lb ed="X" n="0435b23"/><persName key="A001504">道行</persName>。號<persName key="A001504">雪堂</persName>。<placeName key="PL000000014933">處州</placeName>葉氏子。依<placeName key="PL000000010633">泗州</placeName><persName key="A008477">普炤英</persName>公得度。既
         <lb ed="X" n="0435b24"/>參<persName key="A008397">佛眼</persName>。一日聞舉<persName key="A008370">玄沙</persName>築着脚指話。遂大悟。出世住
-        <lb ed="X" n="0435c01"/><placeName key="PL000000014920">南明</placeName><placeName key="unknown">薦福</placeName><placeName key="PL000000013638">烏巨</placeName>。所至道聲弘宣。龍象景附。極一時法
+        <lb ed="X" n="0435c01"/><placeName key="PL000000014920">南明</placeName><placeName key="PL000000020130">薦福</placeName><placeName key="PL000000013638">烏巨</placeName>。所至道聲弘宣。龍象景附。極一時法
         <lb ed="X" n="0435c02"/>道之尊。時稱<persName key="A008397">龍門</persName>法幢高庵<persName key="A001504">雪堂</persName>禪。不至二老之門
         <lb ed="X" n="0435c03"/>則非禪也。師慈仁忠恕。尊賢敬能。戲笑俚言。罕出于
         <lb ed="X" n="0435c04"/>口。無峻阻不暴怒。至於去就之際。極為介潔。住<placeName key="PL000000013638">烏巨</placeName>
@@ -11,13 +11,62 @@
         <lb ed="X" n="0435c06"/>何為。謝却之。<persName key="A004687">應庵</persName>住<placeName key="PL000000013669">明果</placeName>。師。未甞一日不過。從間有
         <lb ed="X" n="0435c07"/>竊議者。師曰。<persName key="A004687">華</persName>姪為人難得。予因重之。數往何傷。師
         <lb ed="X" n="0435c08"/>雖見道<persName key="A008397">龍門</persName>。而持身行事之間。實得之家教。甞謂弟
-        <lb ed="X" n="0435c09"/>子云。<date key="j21257482126113" when-iso="1108">予弱冠之年</date>。見<persName key="unknown">獨居士</persName>言。中無主不立。外不正
+        <lb ed="X" n="0435c09"/>子云。<date key="j21257482126113" when-iso="1108">予弱冠之年</date>。<persName key="A022056">見獨居士</persName>言。中無主不立。外不正
         <lb ed="X" n="0435c10"/>不行。此語宜終身踐之。聖賢事業備矣。予佩其語。在
         <lb ed="X" n="0435c11"/>家修行。出家學道。以至率身臨眾。如衡石之定重輕。
         <lb ed="X" n="0435c12"/>規矩之成方圓。捨此則事事失準矣。一日示疾。門弟
-        <lb ed="X" n="0435c13"/>子教授<persName key="unknown">汪喬年</persName>至省候。以後事委之。示以偈曰。識則
+        <lb ed="X" n="0435c13"/>子教授<persName key="A022057">汪喬年</persName>至省候。以後事委之。示以偈曰。識則
         <lb ed="X" n="0435c14"/>識自本心。見則見自本性。識得本心本性。正是宗門
         <lb ed="X" n="0435c15"/>大病。注曰。爛泥中有刺。莫道不疑好。黎明沐浴更服。
         <lb ed="X" n="0435c16"/>跏趺而逝。闍維。五色舍利。煙所至處纍然。齒舌不壞。
         <lb ed="X" n="0435c17"/>瘞而奉之。</p>
+    
+    <linkGrp>
+        <link targets="#0435b23 #0435b23"/>
+        <ptr target="#A001504" type="person"/>
+        <ptr target="#PL000000014933" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0435b23 #0435b23"/>
+        <ptr target="#A001504" type="person"/>
+        <ptr target="#A008477" type="person"/>
+        <ptr target="#PL000000010633" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0435b23 #0435b24"/>
+        <ptr target="#A001504" type="person"/>
+        <ptr target="#A008397" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0435b24 #0435c02"/>
+        <ptr target="#A001504" type="person"/>
+        <ptr target="#PL000000014920" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0435b24 #0435c02"/>
+        <ptr target="#A001504" type="person"/>
+        <ptr target="#PL000000020130" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0435b24 #0435c06"/>
+        <ptr target="#A001504" type="person"/>
+        <ptr target="#PL000000013638" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0435c06 #0435c07"/>
+        <ptr target="#A001504" type="person"/>
+        <ptr target="#A004687" type="person"/>
+        <ptr target="#PL000000013669" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0435c08 #0435c10"/>
+        <ptr target="#A001504" type="person"/>
+        <ptr target="#A022056" type="person"/>
+        <ptr target="#j21257482126113" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0435c12 #0435c15"/>
+        <ptr target="#A001504" type="person"/>
+        <ptr target="#A022057" type="person"/>
+    </linkGrp>
 </div>

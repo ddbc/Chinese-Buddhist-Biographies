@@ -5,16 +5,16 @@
         <lb ed="X" n="0488c03"/>無所好。<date key="j22893772289742" when-iso="1556">九歲</date>入鄉校。忽然若無意於人間世者。<date key="j22922992292664" when-iso="1564">十七</date>
         <lb ed="X" n="0488c04"/>遂棄筆硯。慨然有求道志。偶入居士舍。見案頭金剛
         <lb ed="X" n="0488c05"/>經。閱之輒終卷。忻然若獲故物。繇是斷葷酒。決定出
-        <lb ed="X" n="0488c06"/>家。依<persName key="A004681">廩山忠</persName>禪師。執侍三年。凡聞所教。不違<persName key="unknown">如愚</persName>。因
-        <lb ed="X" n="0488c07"/>閱傳燈。見僧問興善如何是道善曰大好山。師罔措。
+        <lb ed="X" n="0488c06"/>家。依<persName key="A004681">廩山忠</persName>禪師。執侍三年。凡聞所教。不違<persName key="A000349">如愚</persName>。因
+        <lb ed="X" n="0488c07"/>閱傳燈。見僧問<persName key="A010237">興善</persName>如何是道<persName key="A010237">善</persName>曰大好山。師罔措。
         <lb ed="X" n="0488c08"/>疑情頓發。後於<placeName key="PL000000036087">峨眉</placeName>住靜。因推石而悟。始落髮受具。
-        <lb ed="X" n="0488c09"/>住山二十四年。時邑之<placeName key="unknown">寶方</placeName>。宋<persName key="unknown">寶禪師</persName>故剎也。師居
+        <lb ed="X" n="0488c09"/>住山二十四年。時邑之<placeName key="PL000000056002">寶方</placeName>。宋<persName key="A022406">寶禪師</persName>故剎也。師居
         <lb ed="X" n="0488c10"/>之。實<date from-iso="1594-02-20" to-iso="1595-02-08" key="j23033072303660">萬曆甲午歲</date>。師年四十有七矣。有僧問師曰。長
         <lb ed="X" n="0488c11"/>老住此。曾見何人。師曰。從未行脚。僧師。豈以一隅而
         <lb ed="X" n="0488c12"/>小天下乎。師善其言。遂棄寺而參方。足跡遍南北。<persName key="A000944">紫<lb ed="X" n="0488c13"/>柏尊者</persName>。深器重之。一時法門大老。相與酧酢。無不推
-        <lb ed="X" n="0488c14"/>譽。最後見<persName key="A004676">五臺瑞峰</persName>和尚。契證底蘊。開法於<placeName key="unknown">壽昌</placeName>。衲
-        <lb ed="X" n="0488c15"/>子麏至。<placeName key="unknown">壽昌</placeName>。實<persName key="A009712">西竺來</persName>公所創。師與<persName key="A009712">來</persName>。同鄉同姓。人
-        <lb ed="X" n="0488c16"/>以師為來後身云。師之住<placeName key="unknown">壽昌</placeName>也。不扳外援。不發化
+        <lb ed="X" n="0488c14"/>譽。最後見<persName key="A004676"><placeName key="PL000000005250">五臺</placeName>瑞峰</persName>和尚。契證底蘊。開法於<placeName key="PL000000019979">壽昌</placeName>。衲
+        <lb ed="X" n="0488c15"/>子麏至。<placeName key="PL000000019979">壽昌</placeName>。實<persName key="A009712">西竺來</persName>公所創。師與<persName key="A009712">來</persName>。同鄉同姓。人
+        <lb ed="X" n="0488c16"/>以師為來後身云。師之住<placeName key="PL000000019979">壽昌</placeName>也。不扳外援。不發化
         <lb ed="X" n="0488c17"/>主。安道信緣。年迨七十。尚混勞侶。率眾開田。必先出
         <lb ed="X" n="0488c18"/>後歸。四十年如一日。歲入可供三百眾。故生平。佛法
         <lb ed="X" n="0488c19"/>未離钁頭邊也。雖邊幅不修。而形儀端肅。嚴霜煦日。
@@ -27,4 +27,62 @@
         <lb ed="X" n="0489a02"/>師峻節孤風。誠足以起末俗。至其精進忍力。當求之
         <lb ed="X" n="0489a03"/>於古人。雖影不出山。而聲光遠及。豈非尸居而龍現。
         <lb ed="X" n="0489a04"/>淵嘿而雷聲者耶。</p>
+    
+    <linkGrp>
+        <link targets="#0488c02 #0488c03"/>
+        <ptr target="#A003828" type="person"/>
+        <ptr target="#PL000000019933" type="place"/>
+        <ptr target="#j22893772289742" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0488c03 #0488c06"/>
+        <ptr target="#A003828" type="person"/>
+        <ptr target="#A004681" type="person"/>
+        <ptr target="#j22922992292664" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0488c08 #0488c09"/>
+        <ptr target="#A003828" type="person"/>
+        <ptr target="#PL000000036087" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0488c09 #0488c09"/>
+        <ptr target="#A022406" type="person"/>
+        <ptr target="#PL000000056002" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0488c09 #0488c12"/>
+        <ptr target="#A003828" type="person"/>
+        <ptr target="#PL000000056002" type="place"/>
+        <ptr target="#j23033072303660" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0488c12 #0488c13"/>
+        <ptr target="#A003828" type="person"/>
+        <ptr target="#A000944" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0488c14 #0488c14"/>
+        <ptr target="#A003828" type="person"/>
+        <ptr target="#A004676" type="person"/>
+        <ptr target="#PL000000005250" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0488c14 #0488c23"/>
+        <ptr target="#A003828" type="person"/>
+        <ptr target="#PL000000019979" type="place"/>
+        <ptr target="#j23120192312047" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0488c23 #0488c24"/>
+        <ptr target="#A003828" type="person"/>
+        <ptr target="#PL000000019979" type="place"/>
+        <ptr target="#j23120642312064" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0488c24 #0489a01"/>
+        <ptr target="#A003828" type="person"/>
+        <ptr target="#PL000000019933" type="place"/>
+        <ptr target="#j22865052286858" type="time"/>
+    </linkGrp>
 </div>

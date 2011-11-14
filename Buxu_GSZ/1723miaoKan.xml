@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0446c16miaoKan">
     <head><lb ed="X" n="0446c16"/>　　　　<persName key="A004432">笑翁堪</persName>公傳</head>
-    <p><anchor n="X.77.1524.0446c17"/><lb ed="X" n="0446c17"/><persName key="A004432">妙堪</persName>。號<persName key="A004432">笑翁</persName>。<placeName key="PL000000012221">慈溪</placeName>毛氏子。廣顙平頂。骨氣清豪。從<persName key="unknown">野<lb ed="X" n="0446c18"/>菴道欽</persName>受學。以廣記多聞稱。後一力參究。依<persName key="A008964">息菴觀</persName>
+    <p><anchor n="X.77.1524.0446c17"/><lb ed="X" n="0446c17"/><persName key="A004432">妙堪</persName>。號<persName key="A004432">笑翁</persName>。<placeName key="PL000000012221">慈溪</placeName>毛氏子。廣顙平頂。骨氣清豪。從<persName key="A022110">野<lb ed="X" n="0446c18"/>菴道欽</persName>受學。以廣記多聞稱。後一力參究。依<persName key="A008964">息菴觀</persName>
         <lb ed="X" n="0446c19"/>於<placeName key="PL000000010966">金山</placeName>。又走<placeName key="PL000000011596">靈隱</placeName>。見<persName key="A001037">松源</persName>。皆不契。時<persName key="A008961">無用</persName>居<placeName key="PL000000012319">天童</placeName>。徑
         <lb ed="X" n="0446c20"/>造其室。用問曰。行脚僧游山僧。曰。行脚僧。<persName key="A008961">用</persName>曰。如何
         <lb ed="X" n="0446c21"/>是行脚事。提坐具便摵。<persName key="A008961">用</persName>曰。此僧敢來這裏持虎鬚。
@@ -12,9 +12,9 @@
         <lb ed="X" n="0447a02"/>已而後就也。雖荷禪宗重寄。而不以其道自封。其於
         <lb ed="X" n="0447a03"/>佛淺深之說。無不融了。世出世法。無不兼弘。常曰。於
         <lb ed="X" n="0447a04"/>心有取舍。識情未盡見。法有彼此。智眼未明。<placeName key="PL000000014411">天台</placeName>舊
-        <lb ed="X" n="0447a05"/>無律宗。居<placeName key="PL000000014782">報恩</placeName>也。與大卿齊公議。合十寺為大剎。築
+        <lb ed="X" n="0447a05"/>無律宗。居<placeName key="PL000000014782">報恩</placeName>也。與大卿<persName key="unknown">齊公</persName>議。合十寺為大剎。築
         <lb ed="X" n="0447a06"/>戒壇。命負毗尼學者。倡開遮持犯之法。風勵新學。<placeName key="PL000000014411">台</placeName>
-        <lb ed="X" n="0447a07"/>始行南山宗也。居<placeName key="PL000000011596">靈隱</placeName>。<placeName key="unknown">山門</placeName>逼近屠沽。<persName key="A004432">堪</persName>撒其廬。揭
+        <lb ed="X" n="0447a07"/>始行南山宗也。居<placeName key="PL000000011596">靈隱</placeName>。<placeName key="PL000000055621">山門</placeName>逼近屠沽。<persName key="A004432">堪</persName>撒其廬。揭
         <lb ed="X" n="0447a08"/>關<placeName key="PL000000011587">飛來峯</placeName>外。以限喧寂。曰。不可使旃陀羅氣薰穢三
         <lb ed="X" n="0447a09"/>寶也。<persName key="unknown">荊湖總臣</persName>。以國乏用。奏僧道得以出貲。買紫衣
         <lb ed="X" n="0447a10"/>師號。俾領住持。聞之歎曰。苟如是。則千金之子。皆可
@@ -24,4 +24,53 @@
         <lb ed="X" n="0447a14"/>秩然有序。未幾。復下<placeName key="PL000000012319">天童</placeName>之命。大參<persName key="unknown">趙公</persName>。請主<placeName key="PL000000011683">淨慈</placeName>。
         <lb ed="X" n="0447a15"/>皆固辭謝之。俄示疾。書遺表。作寺丞<persName key="unknown">張公</persName>書。通守<placeName key="PL000000012516">永<lb ed="X" n="0447a16"/>嘉</placeName><persName key="unknown">曹公</persName>來問疾。從容敘世契移頃。書偈曰。業鏡高懸。
         <lb ed="X" n="0447a17"/>七十二年。一搥擊碎。大道坦然。置筆泊然而逝。</p>
+    
+    <linkGrp>
+        <link targets="#0446c17 #0446c17"/>
+        <ptr target="#A004432" type="person"/>
+        <ptr target="#PL000000012221" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0446c17 #0446c18"/>
+        <ptr target="#A004432" type="person"/>
+        <ptr target="#A022110" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0446c18 #0446c19"/>
+        <ptr target="#A004432" type="person"/>
+        <ptr target="#A008964" type="person"/>
+        <ptr target="#PL000000010966" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0446c19 #0446c19"/>
+        <ptr target="#A004432" type="person"/>
+        <ptr target="#A001037" type="person"/>
+        <ptr target="#PL000000011596" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0446c19 #0446c24"/>
+        <ptr target="#A004432" type="person"/>
+        <ptr target="#A008961" type="person"/>
+        <ptr target="#PL000000012319" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0447a04 #0447a07"/>
+        <ptr target="#A004432" type="person"/>
+        <ptr target="#PL000000014782" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0447a07 #0447a11"/>
+        <ptr target="#A004432" type="person"/>
+        <ptr target="#PL000000011587" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0447a12 #0447a12"/>
+        <ptr target="#A004432" type="person"/>
+        <ptr target="#PL000000012298" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0447a12 #0447a17"/>
+        <ptr target="#A004432" type="person"/>
+        <ptr target="#PL000000012309" type="place"/>
+    </linkGrp>
 </div>
