@@ -1,17 +1,17 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0775b23shiZhenGong">
-    <anchor n="T.50.2061.0775b23"/><head><date from-iso="0618-06-21" key="j19469512052491" to-iso="0907-06-06">唐</date><placeName key="PL000000027757">荊州福壽寺</placeName><persName key="A010502">甄公</persName>傳</head><p>
-<lb ed="T" n="0775b24"/><persName key="A010502">釋甄公</persName>，姓魯氏，<placeName key="PL000000027764">江陵</placeName>人也。少而警慧，<date key="j19935311993895" from-iso="0746-01-01" to-iso="0746-12-31">七歲</date>
-<lb ed="T" n="0775b25"/>誦通《詩》《雅》，遂應州舉，三上中第，未釋褐。
-<lb ed="T" n="0775b26"/>與沙門議論玄理，乃願披緇，投<placeName key="PL000000027757">福壽寺</placeName><persName key="A010503">辯
-    <lb ed="T" n="0775b27"/>初法師</persName>，以為模範。後於<placeName key="PL000000023574">洛京昭成寺</placeName>講法
-        <lb ed="T" n="0775b28"/>數座，因禮<placeName key="PL000000023253">嵩山</placeName>禪師，通暢心決。方至<placeName key="PL000000011072">丹陽
-            <lb ed="T" n="0775b29"/>茅山</placeName>，尋挂錫於<placeName key="PL000000009879">蘇州楞伽山</placeName>，四遠參玄者<pb ed="T" n="0775c" xml:id="T50.2061.0775c"/>
-        <lb ed="T" n="0775c01"/>胼肩疊足矣。時<persName key="A004029">白樂天</persName>牧<ref type="place" target="#PL000000009928">是郡</ref>，接其談道，
-<lb ed="T" n="0775c02"/>不覺披襟解帶，心遊無物之場，得甄之閫
-<lb ed="T" n="0775c03"/>閾矣。遂堅請出<placeName key="PL000000009885"><anchor xml:id="beg0775007"/>水流<anchor xml:id="end0775007"/>寺</placeName>，不樂安止，以山
-        <lb ed="T" n="0775c04"/>水為娛情之趣耳。<date from-iso="0829-02-12" key="j20238892023993" to-iso="0829-05-27">太和三年</date>，示疾云終，九
-<lb ed="T" n="0775c05"/>十歲。以<date key="j20239932023993" when-iso="0829-05-27">其年四月十七日</date>入塔焉。</p>
+    <anchor n="T.50.2061.0775b23"/><head><date from-iso="0618-06-21" key="j19469512052491" to-iso="0907-06-06">唐</date><placeName key="PL000000027757">荊州福壽寺</placeName><persName key="A010502">甄公</persName>傳</head><p><lb
+ed="T" n="0775b24"/><persName key="A010502">釋甄公</persName>，姓魯氏，<placeName key="PL000000027764">江陵</placeName>人也。少而警慧，<date key="j19935311993895" from-iso="0746-01-01" to-iso="0746-12-31">七歲</date><lb
+ed="T" n="0775b25"/>誦通《詩》《雅》，遂應州舉，三上中第，未釋褐。<lb
+ed="T" n="0775b26"/>與沙門議論玄理，乃願披緇，投<placeName key="PL000000027757">福壽寺</placeName><persName key="A010503">辯<lb
+ed="T" n="0775b27"/>初法師</persName>，以為模範。後於<placeName key="PL000000023574">洛京昭成寺</placeName>講法<lb
+ed="T" n="0775b28"/>數座，因禮<placeName key="PL000000023253">嵩山</placeName>禪師，通暢心決。方至<placeName key="PL000000011072">丹陽<lb
+ed="T" n="0775b29"/>茅山</placeName>，尋挂錫於<placeName key="PL000000009879">蘇州楞伽山</placeName>，四遠參玄者<pb ed="T" n="0775c" xml:id="T50.2061.0775c"/><lb
+ed="T" n="0775c01"/>胼肩疊足矣。時<persName key="A004029">白樂天</persName>牧<ref type="place" target="#PL000000009928">是郡</ref>，接其談道，<lb
+ed="T" n="0775c02"/>不覺披襟解帶，心遊無物之場，得甄之閫<lb
+ed="T" n="0775c03"/>閾矣。遂堅請出<placeName key="PL000000009885"><anchor xml:id="beg0775007"/>水流<anchor xml:id="end0775007"/>寺</placeName>，不樂安止，以山<lb
+ed="T" n="0775c04"/>水為娛情之趣耳。<date from-iso="0829-02-12" key="j20238892023993" to-iso="0829-05-27">太和三年</date>，示疾云終，九<lb
+ed="T" n="0775c05"/>十歲。以<date key="j20239932023993" when-iso="0829-05-27">其年四月十七日</date>入塔焉。</p>
     <linkGrp>
         <link targets="#0775b24 #0775b24"/>
         <ptr target="#A010502" type="person"/>

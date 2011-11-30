@@ -1,20 +1,20 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0801c14shiChengRu">
-    <anchor n="T.50.2061.0801c14"/><head><date from-iso="0618-06-21" key="j19469512052491" to-iso="0907-06-06">唐</date>京兆安國寺<persName key="A011023">乘如</persName>傳</head><p>
-<lb ed="T" n="0801c15"/><persName key="A011023">釋乘如</persName>，未詳氏族。精研律部，頗善講宣，繩
-        <lb ed="T" n="0801c16"/>準緇徒，罔不循則。<date from-iso="0762" key="j19995112005747" to-iso="0779">代宗</date>朝翻經，<persName key="A011023">如</persName>預其任。
-<lb ed="T" n="0801c17"/>應左右街臨壇度人，弟子千數。先是五眾
-<lb ed="T" n="0801c18"/>身亡，衣資什具悉入官庫，然歷累朝，曷由釐
-        <lb ed="T" n="0801c19"/>革。<persName key="A011023">如</persName>乃援引諸律，出家比丘生隨得利，死利
-<lb ed="T" n="0801c20"/>歸僧，言其來往來無物也。比丘貪畜，自茲
-<lb ed="T" n="0801c21"/>而𡞞者，職由於此。今若歸官，例同籍沒。前
-<lb ed="T" n="0801c22"/>世遺事，闕人舉揚。今屬文明，乞循律法，斷
-<lb ed="T" n="0801c23"/>其輕重。<date key="j20015602001560" when-iso="0767-12-26">大曆二年十一月二十七日</date>勅下，今
-<lb ed="T" n="0801c24"/>後僧亡，物隨入僧，仍<anchor xml:id="beg0801005"/>班<anchor xml:id="end0801005"/>告中書門牒，天下
-        <lb ed="T" n="0801c25"/>宜依。<persName key="A011023">如</persName>之律匠，非上訓二眾而已，抑亦奮
-        <lb ed="T" n="0801c26"/>內眾之遺事。立功不朽，<persName key="A011023">如公</persName>是乎！終<placeName key="PL000000042216">西明</placeName>、
-        <lb ed="T" n="0801c27"/><placeName key="PL000000042134">安國</placeName>二寺上座。有《文集》三卷，<persName key="A001417">圓照</persName>鳩聚流布
-<lb ed="T" n="0801c28"/>焉。</p>
+    <anchor n="T.50.2061.0801c14"/><head><date from-iso="0618-06-21" key="j19469512052491" to-iso="0907-06-06">唐</date>京兆安國寺<persName key="A011023">乘如</persName>傳</head><p><lb
+ed="T" n="0801c15"/><persName key="A011023">釋乘如</persName>，未詳氏族。精研律部，頗善講宣，繩<lb
+ed="T" n="0801c16"/>準緇徒，罔不循則。<date from-iso="0762" key="j19995112005747" to-iso="0779">代宗</date>朝翻經，<persName key="A011023">如</persName>預其任。<lb
+ed="T" n="0801c17"/>應左右街臨壇度人，弟子千數。先是五眾<lb
+ed="T" n="0801c18"/>身亡，衣資什具悉入官庫，然歷累朝，曷由釐<lb
+ed="T" n="0801c19"/>革。<persName key="A011023">如</persName>乃援引諸律，出家比丘生隨得利，死利<lb
+ed="T" n="0801c20"/>歸僧，言其來往來無物也。比丘貪畜，自茲<lb
+ed="T" n="0801c21"/>而𡞞者，職由於此。今若歸官，例同籍沒。前<lb
+ed="T" n="0801c22"/>世遺事，闕人舉揚。今屬文明，乞循律法，斷<lb
+ed="T" n="0801c23"/>其輕重。<date key="j20015602001560" when-iso="0767-12-26">大曆二年十一月二十七日</date>勅下，今<lb
+ed="T" n="0801c24"/>後僧亡，物隨入僧，仍<anchor xml:id="beg0801005"/>班<anchor xml:id="end0801005"/>告中書門牒，天下<lb
+ed="T" n="0801c25"/>宜依。<persName key="A011023">如</persName>之律匠，非上訓二眾而已，抑亦奮<lb
+ed="T" n="0801c26"/>內眾之遺事。立功不朽，<persName key="A011023">如公</persName>是乎！終<placeName key="PL000000042216">西明</placeName>、<lb
+ed="T" n="0801c27"/><placeName key="PL000000042134">安國</placeName>二寺上座。有《文集》三卷，<persName key="A001417">圓照</persName>鳩聚流布<lb
+ed="T" n="0801c28"/>焉。</p>
     <linkGrp>
         <link targets="#0801c26 #0801c27"/>
         <ptr target="#A011023" type="person"/>

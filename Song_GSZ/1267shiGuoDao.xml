@@ -1,16 +1,16 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0897b19shiGuoDao">
-    <anchor n="T.50.2061.0897b19"/><head><date from-iso="0907-06-10" key="j20524952058534" to-iso="0923-12-22">梁</date>廬山雙溪院<persName key="A008811">國道者</persName>傳</head><p>
-        <lb ed="T" n="0897b20"/><persName key="A008811">釋國道者</persName>，未知何許人也。器凝淳粹，行敦
-<lb ed="T" n="0897b21"/>高邁，塊然獨處，翩翩在形器之上矣。參學
-<lb ed="T" n="0897b22"/>收廣，欲歇孤征，愛<placeName key="PL000000018775">廬山</placeName>秀異，誓隱淪以求
-<lb ed="T" n="0897b23"/>其志。考築草舍，<anchor xml:id="beg0897002"/>灌<anchor xml:id="end0897002"/>園<anchor xml:id="beg0897003"/>植<anchor xml:id="end0897003"/>蔬，任山中居人
-<lb ed="T" n="0897b24"/>揃取。或問其故，答曰：「<persName key="A008811">貧道</persName>無心而種，無心而
-<lb ed="T" n="0897b25"/>捨也。」驗此見知，實達道之上流矣。<persName key="A013947">修睦</persName>僧正
-<lb ed="T" n="0897b26"/>恒傾意奉重，詩贈<persName key="A008811">國公</persName>云：「入門空寂寂，真
-<lb ed="T" n="0897b27"/>箇出家兒。有行鬼不見，無心人謂癡。」後終
-<lb ed="T" n="0897b28"/>于<placeName key="PL000000018808">院</placeName>，葬于雙溪山<!--找不到此地-->原，有小浮圖焉。今以「國」
-<lb ed="T" n="0897b29"/>字呼之，為名邪？姓邪？未得詳焉。</p>
+    <anchor n="T.50.2061.0897b19"/><head><date from-iso="0907-06-10" key="j20524952058534" to-iso="0923-12-22">梁</date>廬山雙溪院<persName key="A008811">國道者</persName>傳</head><p><lb
+ed="T" n="0897b20"/><persName key="A008811">釋國道者</persName>，未知何許人也。器凝淳粹，行敦<lb
+ed="T" n="0897b21"/>高邁，塊然獨處，翩翩在形器之上矣。參學<lb
+ed="T" n="0897b22"/>收廣，欲歇孤征，愛<placeName key="PL000000018775">廬山</placeName>秀異，誓隱淪以求<lb
+ed="T" n="0897b23"/>其志。考築草舍，<anchor xml:id="beg0897002"/>灌<anchor xml:id="end0897002"/>園<anchor xml:id="beg0897003"/>植<anchor xml:id="end0897003"/>蔬，任山中居人<lb
+ed="T" n="0897b24"/>揃取。或問其故，答曰：「<persName key="A008811">貧道</persName>無心而種，無心而<lb
+ed="T" n="0897b25"/>捨也。」驗此見知，實達道之上流矣。<persName key="A013947">修睦</persName>僧正<lb
+ed="T" n="0897b26"/>恒傾意奉重，詩贈<persName key="A008811">國公</persName>云：「入門空寂寂，真<lb
+ed="T" n="0897b27"/>箇出家兒。有行鬼不見，無心人謂癡。」後終<lb
+ed="T" n="0897b28"/>于<placeName key="PL000000018808">院</placeName>，葬于雙溪山<!--找不到此地-->原，有小浮圖焉。今以「國」<lb
+ed="T" n="0897b29"/>字呼之，為名邪？姓邪？未得詳焉。</p>
     <linkGrp>
         <link targets="#0897b22 #0897b28"/>
         <ptr target="#A008811" type="person"/>

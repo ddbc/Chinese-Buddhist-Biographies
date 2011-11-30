@@ -1,22 +1,22 @@
 <?xml version='1.0' encoding='utf-8'?>
-<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0728c15shiYanCong">
-    <lb ed="T" n="0728c15"/><anchor n="T.50.2061.0728c15"/><head><date from-iso="0618-06-21" key="j19469512052491" to-iso="0907-06-06">唐</date><placeName key="PL000000042410">京兆大慈恩寺</placeName><persName key="A000827">彥悰</persName>傳</head><p>
-        <lb ed="T" n="0728c16"/><persName key="A000827">釋彥悰</persName>，未知何許人也。<date from-iso="0644" key="j19564041958507" to-iso="0650">貞觀之末</date>，觀光<placeName key="PL000000042189">上
-            <lb ed="T" n="0728c17"/>京</placeName>，求法于<ref type="person" target="#A000294">三藏法師</ref>之門。然其才不迨<persName key="A000060">光</persName>、
-        <lb ed="T" n="0728c18"/><persName key="A000746">寶</persName>，<anchor xml:id="beg0728sgsz6"/>遍<anchor xml:id="end0728sgsz6"/>長綴習學耳。於玄儒之業，頗見精
-<lb ed="T" n="0728c19"/>微。辭筆之能，殊超流輩。有<placeName key="PL000000042324">魏國西寺</placeName>沙門<persName key="A001194">慧
-    <lb ed="T" n="0728c20"/>立</persName>性氣炰烋<ptr target="#n539"/>，以護法為己任，著傳五卷，專
-        <lb ed="T" n="0728c21"/>記<ref type="person" target="#A000294">三藏</ref>自<date from-iso="0627" key="j19500921958507" to-iso="0650">貞觀中</date>一行<ptr target="#n595"/>盛化及<placeName key="PL000000055436">西域</placeName>所歷
-<lb ed="T" n="0728c22"/>夷險等，號《慈恩傳》，蓋取<placeName key="PL000000042410">寺</placeName>題也。及削<g ref="#CB06224">稿</g>云
-<lb ed="T" n="0728c23"/>畢，慮遺諸美，遂藏于地穴。至疾亟，命門 
-<lb ed="T" n="0728c24"/>徒掘土出之而卒。其本數年流散他所，搜
-<lb ed="T" n="0728c25"/>購乃獲。弟子等命<persName key="A000827">悰</persName>排次之，序引之，或文
-<lb ed="T" n="0728c26"/>未允，或事稍虧，重更伸明，曰「箋述」是也，乃
-<lb ed="T" n="0728c27"/>象<persName key="A009224">鄭司農</persName>箋「毛」之詁訓也。或有調之曰：「子
-        <lb ed="T" n="0728c28"/>與隋<persName key="A000829">彥<anchor xml:id="beg0728005"/><choice resp="sgsz"><sic>悰</sic><corr>琮</corr></choice><anchor xml:id="end0728005"/></persName>相去幾何？」對曰：「<persName key="A017911">賜</persName>也。何敢望<persName key="A002780">回</persName><ptr target="#n596"/>，
-        <lb ed="T" n="0728c29"/>雖<persName key="A006416">長卿</persName>慕<persName key="A009225">藺</persName><ptr target="#n597"/>，「<persName key="A000827">心宗</persName>」慕於「<persName key="A000829">玉宗</persName>」，故有以也。《詩》<pb ed="T" n="0729a" xml:id="T50.2061.0729a"/>
-        <lb ed="T" n="0729a01"/>曰：『言念君子，溫其如玉』<ptr target="#n598"/>，自許亦<persName key="A002780">顏</persName>之士也。」
-<lb ed="T" n="0729a02"/>或人許焉。<persName key="A000827">悰</persName>不知終所。</p>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0728c15shiYanCong"><lb
+ed="T" n="0728c15"/><anchor n="T.50.2061.0728c15"/><head><date from-iso="0618-06-21" key="j19469512052491" to-iso="0907-06-06">唐</date><placeName key="PL000000042410">京兆大慈恩寺</placeName><persName key="A000827">彥悰</persName>傳</head><p><lb
+ed="T" n="0728c16"/><persName key="A000827">釋彥悰</persName>，未知何許人也。<date from-iso="0644" key="j19564041958507" to-iso="0650">貞觀之末</date>，觀光<placeName key="PL000000042189">上<lb
+ed="T" n="0728c17"/>京</placeName>，求法于<ref type="person" target="#A000294">三藏法師</ref>之門。然其才不迨<persName key="A000060">光</persName>、<lb
+ed="T" n="0728c18"/><persName key="A000746">寶</persName>，<anchor xml:id="beg0728sgsz6"/>遍<anchor xml:id="end0728sgsz6"/>長綴習學耳。於玄儒之業，頗見精<lb
+ed="T" n="0728c19"/>微。辭筆之能，殊超流輩。有<placeName key="PL000000042324">魏國西寺</placeName>沙門<persName key="A001194">慧<lb
+ed="T" n="0728c20"/>立</persName>性氣炰烋<ptr target="#n539"/>，以護法為己任，著傳五卷，專<lb
+ed="T" n="0728c21"/>記<ref type="person" target="#A000294">三藏</ref>自<date from-iso="0627" key="j19500921958507" to-iso="0650">貞觀中</date>一行<ptr target="#n595"/>盛化及<placeName key="PL000000055436">西域</placeName>所歷<lb
+ed="T" n="0728c22"/>夷險等，號《慈恩傳》，蓋取<placeName key="PL000000042410">寺</placeName>題也。及削<g ref="#CB06224">稿</g>云<lb
+ed="T" n="0728c23"/>畢，慮遺諸美，遂藏于地穴。至疾亟，命門<lb
+ed="T" n="0728c24"/>徒掘土出之而卒。其本數年流散他所，搜<lb
+ed="T" n="0728c25"/>購乃獲。弟子等命<persName key="A000827">悰</persName>排次之，序引之，或文<lb
+ed="T" n="0728c26"/>未允，或事稍虧，重更伸明，曰「箋述」是也，乃<lb
+ed="T" n="0728c27"/>象<persName key="A009224">鄭司農</persName>箋「毛」之詁訓也。或有調之曰：「子<lb
+ed="T" n="0728c28"/>與隋<persName key="A000829">彥<anchor xml:id="beg0728005"/><choice resp="sgsz"><sic>悰</sic><corr>琮</corr></choice><anchor xml:id="end0728005"/></persName>相去幾何？」對曰：「<persName key="A017911">賜</persName>也。何敢望<persName key="A002780">回</persName><ptr target="#n596"/>，<lb
+ed="T" n="0728c29"/>雖<persName key="A006416">長卿</persName>慕<persName key="A009225">藺</persName><ptr target="#n597"/>，「<persName key="A000827">心宗</persName>」慕於「<persName key="A000829">玉宗</persName>」，故有以也。《詩》<pb ed="T" n="0729a" xml:id="T50.2061.0729a"/><lb
+ed="T" n="0729a01"/>曰：『言念君子，溫其如玉』<ptr target="#n598"/>，自許亦<persName key="A002780">顏</persName>之士也。」<lb
+ed="T" n="0729a02"/>或人許焉。<persName key="A000827">悰</persName>不知終所。</p>
     <linkGrp>
         <link targets="#0728c16 #0728c17"/>
         <ptr target="#A000827" type="person"/>

@@ -1,23 +1,18 @@
 <?xml version='1.0' encoding='utf-8'?>
-<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0719c13shiZhiTong">
-    <lb n="0719c13" ed="T"/><anchor n="T.50.2061.0719c13"/><head><anchor xml:id="beg0719004"/>宋<anchor xml:id="end0719004"/>高僧傳卷第三</head>
-    <lb n="0719c14" ed="T"/>
-    <lb n="0719c15" ed="T"/><byline n="Author"><anchor xml:id="beg0719005"/>宋左街天壽寺通慧大師
-        <lb n="0719c16" ed="T"/>賜紫沙門贊寧等奉　勅撰<anchor xml:id="end0719005"/></byline>
-    <lb n="0719c17" ed="T"/><head>譯經篇第一之三（正傳十四人附見三人）</head>
-    <lb ed="T" n="0719c18"/><head><date from-iso="0618-06-21" key="j19469512052491" to-iso="0907-06-06">唐</date><placeName key="PL000000042422">京師總持寺</placeName><persName key="A001275">智通</persName>傳</head><p>
-        <lb ed="T" n="0719c19"/><persName key="A001275">釋智通</persName>，姓趙氏，本<placeName key="PL000000004907">陝州安邑</placeName>人也。<date from-iso="0605" key="j19420591946754" to-iso="0617">隋大業</date>中
-        <lb ed="T" n="0719c20"/>出家受具，後隸名<placeName key="PL000000042422">總持寺</placeName>。律行精明，經論該
-        <lb ed="T" n="0719c21"/>博<ptr target="#n350"/>。自幼挺秀，即有遊方之志，因往<placeName key="PL000000023589">洛京翻
-            <lb ed="T" n="0719c22"/>經館</placeName>學梵書并語，曉然明解。屬<date from-iso="0627" key="j19500921958507" to-iso="0650">貞觀中</date>，有
-<lb ed="T" n="0719c23"/><placeName key="PL000000055420">北天竺</placeName>僧齎到《千臂千眼經》梵本，<persName key="A002414">太宗</persName>勅搜
-        <lb ed="T" n="0719c24"/>天下僧中學解者充<placeName key="PL000000023589">翻經館</placeName>綴文、筆受<ptr target="#n53"/>、證義<ptr target="#n54"/>
-        <lb ed="T" n="0719c25"/>等。<persName key="A001275">通</persName>應其選，與梵僧對譯，成二卷<ptr target="#n351"/>。<persName key="A002146">天皇</persName><date from-iso="0653-02-06" key="j19596001959954" to-iso="0654-01-26">永
-            <lb ed="T" n="0719c26"/>徽四年</date>，復於<ref target="#PL000000042422" type="place">本寺</ref>出《千囀陀羅尼觀世音菩
-<lb ed="T" n="0719c27"/>薩呪》一卷、《觀自在菩薩隨心呪》一卷、《清淨觀世
-        <lb ed="T" n="0719c28"/>音菩薩陀羅尼》一卷，共四部五卷。<persName key="A001275">通</persName>善其梵
-<lb ed="T" n="0719c29"/>字，復究華言，敵對相翻，時皆推伏。又云：「行<pb ed="T" n="0720a" xml:id="T50.2061.0720a"/>
-        <lb ed="T" n="0720a01"/>瑜伽祕密<ptr target="#n352"/>教，大有感通。」後不知所終。</p>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0719c18shiZhiTong"><lb
+ed="T" n="0719c18"/><anchor n="T.50.2061.0719c18"/><head><date from-iso="0618-06-21" key="j19469512052491" to-iso="0907-06-06">唐</date><placeName key="PL000000042422">京師總持寺</placeName><persName key="A001275">智通</persName>傳</head><p><lb
+ed="T" n="0719c19"/><persName key="A001275">釋智通</persName>，姓趙氏，本<placeName key="PL000000004907">陝州安邑</placeName>人也。<date from-iso="0605" key="j19420591946754" to-iso="0617">隋大業</date>中<lb
+ed="T" n="0719c20"/>出家受具，後隸名<placeName key="PL000000042422">總持寺</placeName>。律行精明，經論該<lb
+ed="T" n="0719c21"/>博<ptr target="#n350"/>。自幼挺秀，即有遊方之志，因往<placeName key="PL000000023589">洛京翻<lb
+ed="T" n="0719c22"/>經館</placeName>學梵書并語，曉然明解。屬<date from-iso="0627" key="j19500921958507" to-iso="0650">貞觀中</date>，有<lb
+ed="T" n="0719c23"/><placeName key="PL000000055420">北天竺</placeName>僧齎到《千臂千眼經》梵本，<persName key="A002414">太宗</persName>勅搜<lb
+ed="T" n="0719c24"/>天下僧中學解者充<placeName key="PL000000023589">翻經館</placeName>綴文、筆受<ptr target="#n53"/>、證義<ptr target="#n54"/><lb
+ed="T" n="0719c25"/>等。<persName key="A001275">通</persName>應其選，與梵僧對譯，成二卷<ptr target="#n351"/>。<persName key="A002146">天皇</persName><date from-iso="0653-02-06" key="j19596001959954" to-iso="0654-01-26">永<lb
+ed="T" n="0719c26"/>徽四年</date>，復於<ref target="#PL000000042422" type="place">本寺</ref>出《千囀陀羅尼觀世音菩<lb
+ed="T" n="0719c27"/>薩呪》一卷、《觀自在菩薩隨心呪》一卷、《清淨觀世<lb
+ed="T" n="0719c28"/>音菩薩陀羅尼》一卷，共四部五卷。<persName key="A001275">通</persName>善其梵<lb
+ed="T" n="0719c29"/>字，復究華言，敵對相翻，時皆推伏。又云：「行<pb ed="T" n="0720a" xml:id="T50.2061.0720a"/><lb
+ed="T" n="0720a01"/>瑜伽祕密<ptr target="#n352"/>教，大有感通。」後不知所終。</p>
     <linkGrp>
         <link targets="#0719c19 #0719c19"/>
         <ptr target="#A001275" type="person"/>

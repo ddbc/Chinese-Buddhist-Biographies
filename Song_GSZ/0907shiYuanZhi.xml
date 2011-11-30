@@ -1,18 +1,18 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0775c29shiYuanZhi">
-    <anchor n="T.50.2061.0775c29"/><head><date from-iso="0618-06-21" key="j19469512052491" to-iso="0907-06-06">唐</date><placeName key="PL000000028631">潭州道吾山</placeName><persName key="A004596">圓智</persName>傳</head><p>
-        <lb ed="T" n="0776a01"/><persName key="A004596">釋圓智</persName>，俗姓張，<placeName key="PL000000018931">豫章海昏</placeName>人也。總丱之年，頓
-        <lb ed="T" n="0776a02"/>求出離，禮<persName key="A003974">涅槃和尚</persName>，躬執鉼屨。爰登戒地，
-        <lb ed="T" n="0776a03"/>誓叩禪門，見乎<persName key="A010510">藥山</persName>，示其心決。後居<placeName key="PL000000028631">長沙
-<lb ed="T" n="0776a04"/>道吾山</placeName>，海眾相從，猶蜂蟻之附王焉。以<date key="j20263202026320" when-iso="0835-10-10">太
-<lb ed="T" n="0776a05"/>和九年乙卯九月十一日</date>長逝，享年六十七。
-<lb ed="T" n="0776a06"/>闍維，得不灰之骨數片，腦蓋一節，特異而清
-<lb ed="T" n="0776a07"/>瑩，其色如金，其響如銅。乃建塔于<placeName key="PL000000028722">石霜山</placeName>，
-<lb ed="T" n="0776a08"/>勅<app type="cb-app" xml:id="begd1e18250"/>諡<anchor xml:id="endd1e18250"/><persName key="A004596">脩一大師</persName>。寶相之塔。得其道者則<persName key="A010509">普會</persName>
-        <lb ed="T" n="0776a09"/>焉。<persName key="A004596">智公</persName>初領悟<persName key="A010510">藥山</persName>宗旨，<persName key="A010510">儼師</persName>誨之曰：「<ref type="person" target="#A010510">吾</ref>
-        <lb ed="T" n="0776a10"/>無寶玉大弓以為分器，今賞<ref type="person" target="#A004596">汝</ref>犢鼻一腰，
-<lb ed="T" n="0776a11"/>雖云微末，而表親褻歟？」<placeName key="PL000000028928">南嶽</placeName>僧<persName key="A010511">玄泰</persName>著
-<lb ed="T" n="0776a12"/>碑頌。</p>
+    <anchor n="T.50.2061.0775c29"/><head><date from-iso="0618-06-21" key="j19469512052491" to-iso="0907-06-06">唐</date><placeName key="PL000000028631">潭州道吾山</placeName><persName key="A004596">圓智</persName>傳</head><p><lb
+ed="T" n="0776a01"/><persName key="A004596">釋圓智</persName>，俗姓張，<placeName key="PL000000018931">豫章海昏</placeName>人也。總丱之年，頓<lb
+ed="T" n="0776a02"/>求出離，禮<persName key="A003974">涅槃和尚</persName>，躬執鉼屨。爰登戒地，<lb
+ed="T" n="0776a03"/>誓叩禪門，見乎<persName key="A010510">藥山</persName>，示其心決。後居<placeName key="PL000000028631">長沙<lb
+ed="T" n="0776a04"/>道吾山</placeName>，海眾相從，猶蜂蟻之附王焉。以<date key="j20263202026320" when-iso="0835-10-10">太<lb
+ed="T" n="0776a05"/>和九年乙卯九月十一日</date>長逝，享年六十七。<lb
+ed="T" n="0776a06"/>闍維，得不灰之骨數片，腦蓋一節，特異而清<lb
+ed="T" n="0776a07"/>瑩，其色如金，其響如銅。乃建塔于<placeName key="PL000000028722">石霜山</placeName>，<lb
+ed="T" n="0776a08"/>勅<app type="cb-app" xml:id="begd1e18250"/>諡<anchor xml:id="endd1e18250"/><persName key="A004596">脩一大師</persName>。寶相之塔。得其道者則<persName key="A010509">普會</persName><lb
+ed="T" n="0776a09"/>焉。<persName key="A004596">智公</persName>初領悟<persName key="A010510">藥山</persName>宗旨，<persName key="A010510">儼師</persName>誨之曰：「<ref type="person" target="#A010510">吾</ref><lb
+ed="T" n="0776a10"/>無寶玉大弓以為分器，今賞<ref type="person" target="#A004596">汝</ref>犢鼻一腰，<lb
+ed="T" n="0776a11"/>雖云微末，而表親褻歟？」<placeName key="PL000000028928">南嶽</placeName>僧<persName key="A010511">玄泰</persName>著<lb
+ed="T" n="0776a12"/>碑頌。</p>
     <linkGrp>
         <link targets="#0776a01 #0776a01"/>
         <ptr target="#A004596" type="person"/>

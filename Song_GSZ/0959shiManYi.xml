@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0795a08shiManYi">
-    <anchor n="T.50.2061.0795a08"/><head><date from-iso="0618-06-21" key="j19469512052491" to-iso="0907-06-06">唐</date>京兆崇福寺<persName key="A010776">滿意</persName>傳</head><p>
-<lb ed="T" n="0795a09"/><persName key="A010776">釋滿意</persName>，不知何許人也。風神峭拔，識量寬
-<lb ed="T" n="0795a10"/>和，經論旁通，專於律學。<date from-iso="0624" key="j19492001949949" to-iso="0626">武德末</date>，所遇<placeName key="PL000000001481">鄴都</placeName>
-<lb ed="T" n="0795a11"/><persName key="A000747">法礪律師</persName>，作疏解曇無德律，遂往摳衣，明
-<lb ed="T" n="0795a12"/>其授受。如是講導三十許年。乃傳付<placeName key="PL000000042420">觀音寺</placeName>
-<lb ed="T" n="0795a13"/><persName key="A010825">大亮律師</persName>。<persName key="A010825">亮</persName>方授<placeName key="PL000000013239">越州</placeName><persName key="A004177">曇一</persName>。盛化之間，出龍
-<lb ed="T" n="0795a14"/>象之資，無過<persName key="A010776">意</persName>之門也矣。</p>
+    <anchor n="T.50.2061.0795a08"/><head><date from-iso="0618-06-21" key="j19469512052491" to-iso="0907-06-06">唐</date>京兆崇福寺<persName key="A010776">滿意</persName>傳</head><p><lb
+ed="T" n="0795a09"/><persName key="A010776">釋滿意</persName>，不知何許人也。風神峭拔，識量寬<lb
+ed="T" n="0795a10"/>和，經論旁通，專於律學。<date from-iso="0624" key="j19492001949949" to-iso="0626">武德末</date>，所遇<placeName key="PL000000001481">鄴都</placeName><lb
+ed="T" n="0795a11"/><persName key="A000747">法礪律師</persName>，作疏解曇無德律，遂往摳衣，明<lb
+ed="T" n="0795a12"/>其授受。如是講導三十許年。乃傳付<placeName key="PL000000042420">觀音寺</placeName><lb
+ed="T" n="0795a13"/><persName key="A010825">大亮律師</persName>。<persName key="A010825">亮</persName>方授<placeName key="PL000000013239">越州</placeName><persName key="A004177">曇一</persName>。盛化之間，出龍<lb
+ed="T" n="0795a14"/>象之資，無過<persName key="A010776">意</persName>之門也矣。</p>
     <linkGrp>
         <link targets="#0795a10 #0795a11"/>
         <ptr target="#A010776" type="person"/>

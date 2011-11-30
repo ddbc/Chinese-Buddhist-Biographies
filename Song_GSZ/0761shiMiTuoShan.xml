@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='utf-8'?>
-<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0719c01shiMiTuoShan">
-    <lb ed="T" n="0719c01"/><anchor n="T.50.2061.0719c01"/><head><date from-iso="0689-12-21" key="j19730671978610" to-iso="0705-02-24">周</date><placeName key="PL000000023581">洛京</placeName><persName key="A001026">寂友</persName>傳</head><p>
-        <lb ed="T" n="0719c02"/><persName key="A001026">釋彌陀山</persName>，華言<persName key="A001026">寂友</persName>，<placeName key="PL000000055430">覩貨邏國</placeName>人也。自幼
-<lb ed="T" n="0719c03"/>出家，遊諸<placeName key="PL000000048207">印度</placeName>，遍學經論，《楞伽》、《俱舍》，最為
-<lb ed="T" n="0719c04"/>窮覈。志傳像法，不悋鄉邦，杖錫孤征，來
-        <lb ed="T" n="0719c05"/>臻<ref type="place" target="#PL000000000106">諸夏</ref>，因與<persName key="A001606">實叉難陀</persName>共譯《大乘入楞伽
-        <lb ed="T" n="0719c06"/>經》。又<date from-iso="0690-10-19" key="j19733691973922" to-iso="0692-04-24">天授</date>中，與沙門<persName key="A002450">法藏</persName>等譯《無垢淨光陀
-        <lb ed="T" n="0719c07"/>羅尼經》一卷。其經，佛為<placeName key="PL000000049201">劫比羅</placeName><persName key="A019895">戰荼</persName>婆羅門<ptr target="#n117"/>
-        <lb ed="T" n="0719c08"/>說，延其壽命<ptr target="#n349"/>。譯畢進內，尋辭<ref target="#A002099" type="person">帝</ref>歸鄉，<persName key="A002099">天后</persName>
-<lb ed="T" n="0719c09"/>以厚禮餞之。</p>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0719c01shiMiTuoShan"><lb
+ed="T" n="0719c01"/><anchor n="T.50.2061.0719c01"/><head><date from-iso="0689-12-21" key="j19730671978610" to-iso="0705-02-24">周</date><placeName key="PL000000023581">洛京</placeName><persName key="A001026">寂友</persName>傳</head><p><lb
+ed="T" n="0719c02"/><persName key="A001026">釋彌陀山</persName>，華言<persName key="A001026">寂友</persName>，<placeName key="PL000000055430">覩貨邏國</placeName>人也。自幼<lb
+ed="T" n="0719c03"/>出家，遊諸<placeName key="PL000000048207">印度</placeName>，遍學經論，《楞伽》、《俱舍》，最為<lb
+ed="T" n="0719c04"/>窮覈。志傳像法，不悋鄉邦，杖錫孤征，來<lb
+ed="T" n="0719c05"/>臻<ref type="place" target="#PL000000000106">諸夏</ref>，因與<persName key="A001606">實叉難陀</persName>共譯《大乘入楞伽<lb
+ed="T" n="0719c06"/>經》。又<date from-iso="0690-10-19" key="j19733691973922" to-iso="0692-04-24">天授</date>中，與沙門<persName key="A002450">法藏</persName>等譯《無垢淨光陀<lb
+ed="T" n="0719c07"/>羅尼經》一卷。其經，佛為<placeName key="PL000000049201">劫比羅</placeName><persName key="A019895">戰荼</persName>婆羅門<ptr target="#n117"/><lb
+ed="T" n="0719c08"/>說，延其壽命<ptr target="#n349"/>。譯畢進內，尋辭<ref target="#A002099" type="person">帝</ref>歸鄉，<persName key="A002099">天后</persName><lb
+ed="T" n="0719c09"/>以厚禮餞之。</p>
     <linkGrp>
         <link targets="#0719c02 #0719c02"/>
         <ptr target="#A001026" type="person"/>

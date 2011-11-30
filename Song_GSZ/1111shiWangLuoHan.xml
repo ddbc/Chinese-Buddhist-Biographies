@@ -1,16 +1,16 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0852a29shiWangLuoHan">
-    <anchor n="T.50.2061.0852a29"/><head><date from-iso="0960-02-09" key="j20717322132856" to-iso="1127-06-18">宋</date>明州乾符寺王<persName key="A012958">羅漢</persName>傳</head><p>
-<lb ed="T" n="0852b01"/><persName key="A012958">釋王羅漢</persName>者，不測之僧也。酷嗜彘肉，出言
-<lb ed="T" n="0852b02"/>若風狂，後亦多驗云。甞嚗衣，有盜者將欲
-<lb ed="T" n="0852b03"/>搴之，低頭佯睡。有物人就之乞，終無吝
-<lb ed="T" n="0852b04"/>色。及<date key="j20749702075005" notAfter-iso="0969-01-25" notBefore-iso="0968-12-21">開寶初年</date>六月內忽坐終，三日後漆
-<lb ed="T" n="0852b05"/>布之，忽聞兩頰間鳴咤聲，皆云潰爛。夜寄
-<lb ed="T" n="0852b06"/>夢與數人曰：「布漆<persName key="A012958">我</persName>昏悶，如何開焉？」明日，
-<lb ed="T" n="0852b07"/>召漆工剝起，肉色紅白，有圓粒舍利墮落，
-<lb ed="T" n="0852b08"/>收而供養。至今肉身存于<placeName key="PL000000012171">本寺</placeName>。時僧正<persName key="A001910">贊寧</persName>
-<lb ed="T" n="0852b09"/>作碑紀異。漢南國王錢氏私易名為<persName key="A012958">密修
-<lb ed="T" n="0852b10"/>神化尊者</persName>。</p>
+    <anchor n="T.50.2061.0852a29"/><head><date from-iso="0960-02-09" key="j20717322132856" to-iso="1127-06-18">宋</date>明州乾符寺王<persName key="A012958">羅漢</persName>傳</head><p><lb
+ed="T" n="0852b01"/><persName key="A012958">釋王羅漢</persName>者，不測之僧也。酷嗜彘肉，出言<lb
+ed="T" n="0852b02"/>若風狂，後亦多驗云。甞嚗衣，有盜者將欲<lb
+ed="T" n="0852b03"/>搴之，低頭佯睡。有物人就之乞，終無吝<lb
+ed="T" n="0852b04"/>色。及<date key="j20749702075005" notAfter-iso="0969-01-25" notBefore-iso="0968-12-21">開寶初年</date>六月內忽坐終，三日後漆<lb
+ed="T" n="0852b05"/>布之，忽聞兩頰間鳴咤聲，皆云潰爛。夜寄<lb
+ed="T" n="0852b06"/>夢與數人曰：「布漆<persName key="A012958">我</persName>昏悶，如何開焉？」明日，<lb
+ed="T" n="0852b07"/>召漆工剝起，肉色紅白，有圓粒舍利墮落，<lb
+ed="T" n="0852b08"/>收而供養。至今肉身存于<placeName key="PL000000012171">本寺</placeName>。時僧正<persName key="A001910">贊寧</persName><lb
+ed="T" n="0852b09"/>作碑紀異。漢南國王錢氏私易名為<persName key="A012958">密修<lb
+ed="T" n="0852b10"/>神化尊者</persName>。</p>
     <linkGrp>
         <link targets="#0852b01 #0852b08"/>
         <ptr target="#A012958" type="person"/>

@@ -1,19 +1,19 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0751b08shiJiLun">
-    <anchor n="T.50.2061.0751b08"/><head><date from-iso="0960-02-09" key="j20717322132856" to-iso="1127-06-18">宋</date><placeName key="PL000000003783">并州崇福寺佛山院</placeName><persName key="A010029">繼倫</persName>傳</head><p>
-<lb ed="T" n="0751b09"/><persName key="A010029">釋繼倫</persName>，姓曹氏，<placeName key="PL000000003796">晉陽</placeName>人也。弱齒而壯，其志
-        <lb ed="T" n="0751b10"/>勇，其心決，求出家。本師<ptr target="#n190"/>授《法華經》，日念三
-<lb ed="T" n="0751b11"/>紙，時驚宿習。慧察過人，登戒之後，至<date key="j20643882064753" from-iso="0940-01-01" to-iso="0940-12-31">年二十
-    <lb ed="T" n="0751b12"/>一</date>，學通《法華經》，義理幽賾<ptr target="#n331"/>，《唯識》、《因明》二論，一
-        <lb ed="T" n="0751b13"/>覽能講。由是著述，其鈔至今<placeName key="PL000000003738">河東</placeName>盛行。三
-<lb ed="T" n="0751b14"/>講恒一百五十餘徒，從其道訓。又撰《法華鈔》
-<lb ed="T" n="0751b15"/>三卷。其為人也，慈忍成性，戒範堅強，人望
-        <lb ed="T" n="0751b16"/>之而心服。以<ref type="person" target="#A006604">劉氏</ref>據有<placeName key="PL000000003731">并</placeName><placeName key="PL000000006220">汾</placeName>，酷重其道，署
-        <lb ed="T" n="0751b17"/>號<persName key="A010029">法寶</persName>，錄右街僧事，寬猛相參，無敢違拒。
-        <lb ed="T" n="0751b18"/>以<date from-iso="0969-11-18" key="j20753022075330" to-iso="0969-12-16">偽漢己已歲冬十月</date>示疾，心祈口述願
-        <lb ed="T" n="0751b19"/>生<placeName key="PL000000055446">知足天</placeName>。終後頂熱半日方冷，則<date key="j20750062075389" from-iso="0969-01-26" to-iso="0970-02-13">開寶二年</date>
-<lb ed="T" n="0751b20"/>也。享年五十<anchor xml:id="beg0751003"/>一<anchor xml:id="end0751003"/>。闍維畢，淘獲舍利，遠<anchor xml:id="beg0751004"/>近<anchor xml:id="end0751004"/>
-<lb ed="T" n="0751b21"/>取供養焉。</p>
+    <anchor n="T.50.2061.0751b08"/><head><date from-iso="0960-02-09" key="j20717322132856" to-iso="1127-06-18"><anchor xml:id="beg0751sgsz4"/>宋<anchor xml:id="end0751sgsz4"/></date><placeName key="PL000000003783">并州崇福寺佛山院</placeName><persName key="A010029">繼倫</persName>傳</head><p><lb
+ed="T" n="0751b09"/><persName key="A010029">釋繼倫</persName>，姓曹氏，<placeName key="PL000000003796">晉陽</placeName>人也。弱齒而壯，其志<lb
+ed="T" n="0751b10"/>勇，其心決，求出家。本師<ptr target="#n190"/>授《法華經》，日念三<lb
+ed="T" n="0751b11"/>紙，時驚宿習。慧察過人，登戒之後，至<date key="j20643882064753" from-iso="0940-01-01" to-iso="0940-12-31">年二十<lb
+ed="T" n="0751b12"/>一</date>，學通《法華經》，義理幽賾<ptr target="#n331"/>，《唯識》、《因明》二論，一<lb
+ed="T" n="0751b13"/>覽能講。由是著述，其鈔至今<placeName key="PL000000003738">河東</placeName>盛行。三<lb
+ed="T" n="0751b14"/>講恒一百五十餘徒，從其道訓。又撰《法華鈔》<lb
+ed="T" n="0751b15"/>三卷。其為人也，慈忍成性，戒範堅強，人望<lb
+ed="T" n="0751b16"/>之而心服。以<ref type="person" target="#A006604">劉氏</ref>據有<placeName key="PL000000003731">并</placeName><placeName key="PL000000006220">汾</placeName>，酷重其道，署<lb
+ed="T" n="0751b17"/>號<persName key="A010029">法寶</persName>，錄右街僧事，寬猛相參，無敢違拒。<lb
+ed="T" n="0751b18"/>以<date from-iso="0969-11-18" key="j20753022075330" to-iso="0969-12-16">偽漢己已歲冬十月</date>示疾，心祈口述願<lb
+ed="T" n="0751b19"/>生<placeName key="PL000000055446">知足天</placeName>。終後頂熱半日方冷，則<date key="j20750062075389" from-iso="0969-01-26" to-iso="0970-02-13">開寶二年</date><lb
+ed="T" n="0751b20"/>也。享年五十<anchor xml:id="beg0751003"/>一<anchor xml:id="end0751003"/>。闍維畢，淘獲舍利，遠<anchor xml:id="beg0751004"/>近<anchor xml:id="end0751004"/><lb
+ed="T" n="0751b21"/>取供養焉。</p>
     <linkGrp>
         <link targets="#0751b09 #0751b09"/>
         <ptr target="#A010029" type="person"/>

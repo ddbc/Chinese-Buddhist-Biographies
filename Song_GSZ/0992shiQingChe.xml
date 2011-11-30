@@ -1,19 +1,20 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0806b26shiQingChe">
-    <anchor n="T.50.2061.0806b26"/><head><date from-iso="0618-06-21" key="j19469512052491" to-iso="0907-06-06">唐</date>鐘陵龍興寺<persName key="A011306">清徹</persName>傳</head><p>
-<lb ed="T" n="0806b27"/><persName key="A011306">釋清徹</persName>，未知何許人也。周遊律肆，密護根
-        <lb ed="T" n="0806b28"/>門，即無常師，唯善是與。初於<placeName key="PL000000009882">吳苑開元寺</placeName>
-        <lb ed="T" n="0806b29"/>北院<persName key="A011021">道恒律師</persName>，親乎閫奧，深該理致，而<placeName key="PL000000018628">鐘</placeName><pb ed="T" n="0806c" xml:id="T50.2061.0806c"/>
-<lb ed="T" n="0806c01"/>華望無不推稱。憲宗<date from-iso="0813-02-09" key="j20180422018395" to-iso="0814-01-28">元和八年癸巳</date>中，約
-<lb ed="T" n="0806c02"/>志著記二十卷，亦鳩聚諸家要當之說，解
-<lb ed="T" n="0806c03"/>《南山鈔》，號《集義》焉。或云後堂至<date from-iso="0815-02-17" key="j20187802019133" to-iso="0816-02-05">十年</date>畢
-<lb ed="T" n="0806c04"/>簡。今<placeName key="PL000000018603">豫章</placeName>、<placeName key="PL000000027409">武昌</placeName>、<placeName key="PL000000009723">晉陵</placeName>講士多行此義。甞覽
-<lb ed="T" n="0806c05"/>此記，繁廣是宗。<persName key="A011306">徹</persName>未知其終。</p>
-    <p xml:id="pT50p0806c0601"><lb ed="T" n="0806c06"/>系曰：<persName key="A011306">徹公</persName>言行，無乃太簡乎？通曰：「繁略有據，
-<lb ed="T" n="0806c07"/>名實錄也。昔<persName key="A004022">太史公</persName>可弗欲廣三五之世
-<lb ed="T" n="0806c08"/>事耶？蓋唐虞之前，史氏淳略，後世何述焉？今
-<lb ed="T" n="0806c09"/>不遂富贍，職由此也。又與弗來赴告不書
-<lb ed="T" n="0806c10"/>同也。諸有繁略不均，必<app type="cb-app" xml:id="begd1e26810"/>祛<anchor xml:id="endd1e26810"/>誚讓焉。」</p>
+    <anchor n="T.50.2061.0806b26"/><head><date from-iso="0618-06-21" key="j19469512052491" to-iso="0907-06-06">唐</date>鐘陵龍興寺<persName key="A011306">清徹</persName>傳</head><p><lb
+ed="T" n="0806b27"/><persName key="A011306">釋清徹</persName>，未知何許人也。周遊律肆，密護根<lb
+ed="T" n="0806b28"/>門，即無常師，唯善是與。初於<placeName key="PL000000009882">吳苑開元寺</placeName><lb
+ed="T" n="0806b29"/>北院<persName key="A011021">道恒律師</persName>，親乎閫奧，深該理致，而<placeName key="PL000000018628">鐘</placeName><pb ed="T" n="0806c" xml:id="T50.2061.0806c"/><lb
+ed="T" n="0806c01"/>華望無不推稱。憲宗<date from-iso="0813-02-09" key="j20180422018395" to-iso="0814-01-28">元和八年癸巳</date>中，約<lb
+ed="T" n="0806c02"/>志著記二十卷，亦鳩聚諸家要當之說，解<lb
+ed="T" n="0806c03"/>《南山鈔》，號《集義》焉。或云後堂至<date from-iso="0815-02-17" key="j20187802019133" to-iso="0816-02-05">十年</date>畢<lb
+ed="T" n="0806c04"/>簡。今<placeName key="PL000000018603">豫章</placeName>、<placeName key="PL000000027409">武昌</placeName>、<placeName key="PL000000009723">晉陵</placeName>講士多行此義。甞覽<lb
+ed="T" n="0806c05"/>此記，繁廣是宗。<persName key="A011306">徹</persName>未知其終。</p>
+    <p xml:id="pT50p0806c0601"><lb
+ed="T" n="0806c06"/>系曰：<persName key="A011306">徹公</persName>言行，無乃太簡乎？通曰：「繁略有據，<lb
+ed="T" n="0806c07"/>名實錄也。昔<persName key="A004022">太史公</persName>可弗欲廣三五之世<lb
+ed="T" n="0806c08"/>事耶？蓋唐虞之前，史氏淳略，後世何述焉？今<lb
+ed="T" n="0806c09"/>不遂富贍，職由此也。又與弗來赴告不書<lb
+ed="T" n="0806c10"/>同也。諸有繁略不均，必<app type="cb-app" xml:id="begd1e26810"/>祛<anchor xml:id="endd1e26810"/>誚讓焉。」</p>
     <linkGrp>
         <link targets="#0806b28 #0806b29"/>
         <ptr target="#A011306" type="person"/>

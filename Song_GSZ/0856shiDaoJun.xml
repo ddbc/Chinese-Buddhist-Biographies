@@ -1,13 +1,13 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0758a01shiDaoJun">
-    <anchor n="T.50.2061.0758a01"/><head><date from-iso="0618-06-21" key="j19469512052491" to-iso="0907-06-06">唐</date><placeName key="PL000000027054">荊州碧㵎寺</placeName><persName key="A009309">道俊</persName>傳</head><p>
-        <lb ed="T" n="0758a02"/><persName key="A009309">釋道俊</persName>，<placeName key="PL000000027764">江陵</placeName>人也。住<placeName key="PL000000027054">枝江碧㵎精舍</placeName>，修東
-<lb ed="T" n="0758a03"/>山無生法門，即<persName key="A003654">信</persName>、<persName key="A000237">忍</persName>二祖號其所化之法也。
-        <lb ed="T" n="0758a04"/>勤潔苦行，跡不出<ref type="place" target="#PL000000027054">寺</ref>，經四十餘載。室邇人遠，
-<lb ed="T" n="0758a05"/>莫敢請謁者，唯事杜默。如是聲聞于天，<persName key="A002099">天
-<lb ed="T" n="0758a06"/>后</persName>、<persName key="A002100">中宗</persName>二朝崇重高行之僧，<persName key="A009309">俊</persName>同<persName key="A008970">恒景</persName>，應
-        <lb ed="T" n="0758a07"/>詔入內供養。至<date from-iso="0707" key="j19795671980570" to-iso="0710">景龍中</date>求還故鄉，<ref type="person" target="#A002100">帝</ref>賜
-        <lb ed="T" n="0758a08"/>御製詩，并<persName key="A009306">奘</persName>、<persName key="A008970">景</persName>同歸<placeName key="PL000000027065">枝江</placeName>，卒于<ref type="place" target="#PL000000027054">本寺</ref>焉。</p>
+    <anchor n="T.50.2061.0758a01"/><head><date from-iso="0618-06-21" key="j19469512052491" to-iso="0907-06-06">唐</date><placeName key="PL000000027054">荊州碧㵎寺</placeName><persName key="A009309">道俊</persName>傳</head><p><lb
+ed="T" n="0758a02"/><persName key="A009309">釋道俊</persName>，<placeName key="PL000000027764">江陵</placeName>人也。住<placeName key="PL000000027054">枝江碧㵎精舍</placeName>，修東<lb
+ed="T" n="0758a03"/>山無生法門，即<persName key="A003654">信</persName>、<persName key="A000237">忍</persName>二祖號其所化之法也。<lb
+ed="T" n="0758a04"/>勤潔苦行，跡不出<ref type="place" target="#PL000000027054">寺</ref>，經四十餘載。室邇人遠，<lb
+ed="T" n="0758a05"/>莫敢請謁者，唯事杜默。如是聲聞于天，<persName key="A002099">天<lb
+ed="T" n="0758a06"/>后</persName>、<persName key="A002100">中宗</persName>二朝崇重高行之僧，<persName key="A009309">俊</persName>同<persName key="A008970">恒景</persName>，應<lb
+ed="T" n="0758a07"/>詔入內供養。至<date from-iso="0707" key="j19795671980570" to-iso="0710">景龍中</date>求還故鄉，<ref type="person" target="#A002100">帝</ref>賜<lb
+ed="T" n="0758a08"/>御製詩，并<persName key="A009306">奘</persName>、<persName key="A008970">景</persName>同歸<placeName key="PL000000027065">枝江</placeName>，卒于<ref type="place" target="#PL000000027054">本寺</ref>焉。</p>
     <linkGrp>
         <link targets="#0758a02 #0758a02"/>
         <ptr target="#A009309" type="person"/>

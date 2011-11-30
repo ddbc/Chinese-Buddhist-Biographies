@@ -1,37 +1,32 @@
 <?xml version='1.0' encoding='utf-8'?>
-<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0843a02shiShenYing">
-    <lb n="0843a02" ed="T"/><anchor n="T.50.2061.0843a02"/><head><anchor xml:id="beg0843a01"/>宋<anchor xml:id="end0843a01"/>高僧傳卷第二十一</head>
-    <lb n="0843a03" ed="T"/>
-    <lb n="0843a04" ed="T"/><byline n="Author"><anchor xml:id="beg0843a02"/>宋左街天壽寺通慧大師
-        <lb n="0843a05" ed="T"/>賜紫沙門贊寧等奉　勅撰<anchor xml:id="end0843a02"/></byline>
-    <lb n="0843a06" ed="T"/><head>感通篇第六之四（正傳十八人附見三人）</head>
-    <lb n="0843a07" ed="T"/><head><date from-iso="0618-06-21" key="j19469512052491" to-iso="0907-06-06">唐</date>五臺山法華院<persName key="A002452">神英</persName>傳</head><p>
-<lb ed="T" n="0843a08"/><persName key="A002452">釋神英</persName>，罔知姓氏，<placeName key="PL000000003047">滄州</placeName>人也。宿緣悟道，丱
-<lb ed="T" n="0843a09"/>歲從師，諷誦精勤，日夜匪懈。年當應法受
-<lb ed="T" n="0843a10"/>具，後乃枝錫萍遊，尋訪知識。早通玄話，兼
-<lb ed="T" n="0843a11"/>擅論經，相次參<persName key="A005612">神會禪師</persName>，謂<persName key="A002452">英</persName>曰：「<persName key="A002452">汝</persName>於<placeName key="PL000000005408">五
-<lb ed="T" n="0843a12"/>臺山</placeName>有緣，速宜往彼瞻禮<persName key="A002144">文殊</persName>，兼訪遺
-<lb ed="T" n="0843a13"/>跡。」既承指授，以<date from-iso="0716-06-28" key="j19827521982781" to-iso="0716-07-27">開元四年六月</date>中旬到<placeName key="PL000000005250">山</placeName>
-<lb ed="T" n="0843a14"/>瞻禮，於僧厨止泊。一日，食畢遊於西林，忽
-<lb ed="T" n="0843a15"/>見一院題曰法華。<persName key="A002452">英</persName>遂入中，見多寶塔一
-<lb ed="T" n="0843a16"/>座，瑋曄繁華，如《法華經》說同也。其四門玉石
-<lb ed="T" n="0843a17"/>功德，細妙光彩，神工罕測。後面有護國仁王
-<lb ed="T" n="0843a18"/>樓，上有玉石<persName key="A002144">文殊</persName>、<persName key="A003079">普賢</persName>之像。前有三門一十
-<lb ed="T" n="0843a19"/>三間，內門兩畔，有行宮道場，是<persName key="A002144">文殊</persName><persName key="A003079">普賢</persName>儀
-<lb ed="T" n="0843a20"/>仗。三門外狀<placeName key="PL000000005250">臺山</placeName>十寺，杳然物外，觀瞻浩蕩，
-<lb ed="T" n="0843a21"/>神情恍𢠵。<persName key="A002452">英</persName>試出院，又見眾僧且非恒所
-<lb ed="T" n="0843a22"/>見者，而多詭異。疑豫未決，遂出門東行，可
-<lb ed="T" n="0843a23"/>三十步，忽聞閉戶鏗然，迴目視之，了無一
-<lb ed="T" n="0843a24"/>物。<persName key="A002452">英</persName>乃悲泣曰：「此大聖警悟<persName key="A002452">我</persName>邪！於此地
-<lb ed="T" n="0843a25"/>必有緣矣。」遂於髣髴多寶塔處結庵而止。
-<lb ed="T" n="0843a26"/>乃發願曰：「<persName key="A002452">我</persName>依化院建置一所住持。」日居
-<lb ed="T" n="0843a27"/>月諸，信施如林，歸依者眾。遂召工匠，有高價
-<lb ed="T" n="0843a28"/>者，誓不酬之。乃於<placeName key="PL000000002348">易州</placeName>千里取乎玉石，用
-<lb ed="T" n="0843a29"/>造功德，細妙光瑩，功侔所見。其壁乃王府<pb ed="T" n="0843b" xml:id="T50.2061.0843b"/>
-<lb ed="T" n="0843b01"/>友<persName key="A009049">吳道子</persName>之跡，六法絕妙，為世所尚。此院前
-<lb ed="T" n="0843b02"/>後工畢，因號<placeName key="PL000000005408">法華</placeName>耳。<persName key="A002452">英</persName>說法住持，其齊整
-<lb ed="T" n="0843b03"/>若剪裁焉。後無疾，召門人囑付而終，春秋
-<lb ed="T" n="0843b04"/>七十五。今墳塔存矣。</p>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0843a07shiShenYing"><lb
+n="0843a07" ed="T"/><anchor n="T.50.2061.0843a07"/><head><date from-iso="0618-06-21" key="j19469512052491" to-iso="0907-06-06">唐</date>五臺山法華院<persName key="A002452">神英</persName>傳</head><p><lb
+ed="T" n="0843a08"/><persName key="A002452">釋神英</persName>，罔知姓氏，<placeName key="PL000000003047">滄州</placeName>人也。宿緣悟道，丱<lb
+ed="T" n="0843a09"/>歲從師，諷誦精勤，日夜匪懈。年當應法受<lb
+ed="T" n="0843a10"/>具，後乃枝錫萍遊，尋訪知識。早通玄話，兼<lb
+ed="T" n="0843a11"/>擅論經，相次參<persName key="A005612">神會禪師</persName>，謂<persName key="A002452">英</persName>曰：「<persName key="A002452">汝</persName>於<placeName key="PL000000005408">五<lb
+ed="T" n="0843a12"/>臺山</placeName>有緣，速宜往彼瞻禮<persName key="A002144">文殊</persName>，兼訪遺<lb
+ed="T" n="0843a13"/>跡。」既承指授，以<date from-iso="0716-06-28" key="j19827521982781" to-iso="0716-07-27">開元四年六月</date>中旬到<placeName key="PL000000005250">山</placeName><lb
+ed="T" n="0843a14"/>瞻禮，於僧厨止泊。一日，食畢遊於西林，忽<lb
+ed="T" n="0843a15"/>見一院題曰法華。<persName key="A002452">英</persName>遂入中，見多寶塔一<lb
+ed="T" n="0843a16"/>座，瑋曄繁華，如《法華經》說同也。其四門玉石<lb
+ed="T" n="0843a17"/>功德，細妙光彩，神工罕測。後面有護國仁王<lb
+ed="T" n="0843a18"/>樓，上有玉石<persName key="A002144">文殊</persName>、<persName key="A003079">普賢</persName>之像。前有三門一十<lb
+ed="T" n="0843a19"/>三間，內門兩畔，有行宮道場，是<persName key="A002144">文殊</persName><persName key="A003079">普賢</persName>儀<lb
+ed="T" n="0843a20"/>仗。三門外狀<placeName key="PL000000005250">臺山</placeName>十寺，杳然物外，觀瞻浩蕩，<lb
+ed="T" n="0843a21"/>神情恍𢠵。<persName key="A002452">英</persName>試出院，又見眾僧且非恒所<lb
+ed="T" n="0843a22"/>見者，而多詭異。疑豫未決，遂出門東行，可<lb
+ed="T" n="0843a23"/>三十步，忽聞閉戶鏗然，迴目視之，了無一<lb
+ed="T" n="0843a24"/>物。<persName key="A002452">英</persName>乃悲泣曰：「此大聖警悟<persName key="A002452">我</persName>邪！於此地<lb
+ed="T" n="0843a25"/>必有緣矣。」遂於髣髴多寶塔處結庵而止。<lb
+ed="T" n="0843a26"/>乃發願曰：「<persName key="A002452">我</persName>依化院建置一所住持。」日居<lb
+ed="T" n="0843a27"/>月諸，信施如林，歸依者眾。遂召工匠，有高價<lb
+ed="T" n="0843a28"/>者，誓不酬之。乃於<placeName key="PL000000002348">易州</placeName>千里取乎玉石，用<lb
+ed="T" n="0843a29"/>造功德，細妙光瑩，功侔所見。其壁乃王府<pb ed="T" n="0843b" xml:id="T50.2061.0843b"/><lb
+ed="T" n="0843b01"/>友<persName key="A009049">吳道子</persName>之跡，六法絕妙，為世所尚。此院前<lb
+ed="T" n="0843b02"/>後工畢，因號<placeName key="PL000000005408">法華</placeName>耳。<persName key="A002452">英</persName>說法住持，其齊整<lb
+ed="T" n="0843b03"/>若剪裁焉。後無疾，召門人囑付而終，春秋<lb
+ed="T" n="0843b04"/>七十五。今墳塔存矣。</p>
     <linkGrp>
         <link targets="#0843a11 #0843a13"/>
         <ptr target="#A002452" type="person"/>

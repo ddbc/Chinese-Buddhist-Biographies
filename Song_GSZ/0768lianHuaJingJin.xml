@@ -1,19 +1,19 @@
 <?xml version='1.0' encoding='utf-8'?>
-<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0721a15lianHuaJingJin">
-    <lb ed="T" n="0721a15"/><anchor n="T.50.2061.0721a15"/><head><date from-iso="0618-06-21" key="j19469512052491" to-iso="0907-06-06">唐</date><placeName key="PL000000047806">丘慈國蓮華寺</placeName><persName key="A000140">蓮華精進</persName>傳</head><p>
-<lb ed="T" n="0721a16"/><persName key="A000140">釋勿提提羼魚</persName>，華言<persName key="A000140">蓮華精進</persName>，本<placeName key="PL000000047816">屈支城</placeName>人
-        <lb ed="T" n="0721a17"/>也，即<placeName key="PL000000047816">龜茲國</placeName>，亦云<placeName key="PL000000047816">丘慈</placeName>，正曰<placeName key="PL000000047816">屈支</placeName>。時唐使<persName key="A009152">車
-            <lb ed="T" n="0721a18"/>奉朝</persName><ptr target="#n385"/>到<ref target="#PL000000047816" type="place">彼土</ref>，城西門外有<placeName key="PL000000047806">蓮華寺</placeName>，<persName key="A000140">進</persName>居此
-        <lb ed="T" n="0721a19"/>中，號<persName key="A000140">三藏苾<anchor xml:id="beg0721sgsz3"/>芻<anchor xml:id="end0721sgsz3"/></persName>。<persName key="A009152">奉朝</persName>至誠祈請，開譯梵夾，
-<lb ed="T" n="0721a20"/>傳歸<placeName key="PL000000000083">東夏</placeName>。<persName key="A000140">進</persName>允之，遂譯出《十力經》，可用東
-        <lb ed="T" n="0721a21"/>紙三幅<ptr target="#n722"/>成一卷，是佛在<placeName key="PL000000048396">舍衛國</placeName>說。<placeName key="PL000000047826">安西</placeName>境
-<lb ed="T" n="0721a22"/>內有<placeName key="PL000000047803">前踐山</placeName>，山下有伽藍，其水滴溜，成音
-<lb ed="T" n="0721a23"/>可愛。彼人每歲一時，<app type="cb-app" xml:id="begd1e3451"/>采<anchor xml:id="endd1e3451"/>綴其聲，以成曲調。
-        <lb ed="T" n="0721a24"/>故《耶婆瑟雞》<date from-iso="0713" key="j19818371992113" to-iso="0742">開元中</date>用為羯鼓曲名<ptr target="#n386"/>，樂工最
-        <lb ed="T" n="0721a25"/>難其杖撩之術。<ref target="#PL000000047806" type="place">進寺</ref>近其滴水也。其經
-<lb ed="T" n="0721a26"/>是沙門<persName key="A009152">悟空</persName>同《十地迴向輪經》共十一卷，齎
-<lb ed="T" n="0721a27"/>進。<date from-iso="0785" key="j20078242015327" to-iso="0805">貞元</date>中請編入藏，值<persName key="A001417">圓照</persName>續錄，故述其
-<lb ed="T" n="0721a28"/>由。</p>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0721a15lianHuaJingJin"><lb
+ed="T" n="0721a15"/><anchor n="T.50.2061.0721a15"/><head><date from-iso="0618-06-21" key="j19469512052491" to-iso="0907-06-06">唐</date><placeName key="PL000000047806">丘慈國蓮華寺</placeName><persName key="A000140">蓮華精進</persName>傳</head><p><lb
+ed="T" n="0721a16"/><persName key="A000140">釋勿提提羼魚</persName>，華言<persName key="A000140">蓮華精進</persName>，本<placeName key="PL000000047816">屈支城</placeName>人<lb
+ed="T" n="0721a17"/>也，即<placeName key="PL000000047816">龜茲國</placeName>，亦云<placeName key="PL000000047816">丘慈</placeName>，正曰<placeName key="PL000000047816">屈支</placeName>。時唐使<persName key="A009152">車<lb
+ed="T" n="0721a18"/>奉朝</persName><ptr target="#n385"/>到<ref target="#PL000000047816" type="place">彼土</ref>，城西門外有<placeName key="PL000000047806">蓮華寺</placeName>，<persName key="A000140">進</persName>居此<lb
+ed="T" n="0721a19"/>中，號<persName key="A000140">三藏苾<anchor xml:id="beg0721sgsz3"/>芻<anchor xml:id="end0721sgsz3"/></persName>。<persName key="A009152">奉朝</persName>至誠祈請，開譯梵夾，<lb
+ed="T" n="0721a20"/>傳歸<placeName key="PL000000000083">東夏</placeName>。<persName key="A000140">進</persName>允之，遂譯出《十力經》，可用東<lb
+ed="T" n="0721a21"/>紙三幅<ptr target="#n722"/>成一卷，是佛在<placeName key="PL000000048396">舍衛國</placeName>說。<placeName key="PL000000047826">安西</placeName>境<lb
+ed="T" n="0721a22"/>內有<placeName key="PL000000047803">前踐山</placeName>，山下有伽藍，其水滴溜，成音<lb
+ed="T" n="0721a23"/>可愛。彼人每歲一時，采綴其聲，以成曲調。<lb
+ed="T" n="0721a24"/>故《耶婆瑟雞》<date from-iso="0713" key="j19818371992113" to-iso="0742">開元中</date>用為羯鼓曲名<ptr target="#n386"/>，樂工最<lb
+ed="T" n="0721a25"/>難其杖撩之術。<ref target="#PL000000047806" type="place">進寺</ref>近其滴水也。其經<lb
+ed="T" n="0721a26"/>是沙門<persName key="A009152">悟空</persName>同《十地迴向輪經》共十一卷，齎<lb
+ed="T" n="0721a27"/>進。<date from-iso="0785" key="j20078242015327" to-iso="0805">貞元</date>中請編入藏，值<persName key="A001417">圓照</persName>續錄，故述其<lb
+ed="T" n="0721a28"/>由。</p>
     <linkGrp>
         <link targets="#0721a16 #0721a17"/>
         <ptr target="#A000140" type="person"/>

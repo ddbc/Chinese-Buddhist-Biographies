@@ -1,115 +1,111 @@
 <?xml version='1.0' encoding='utf-8'?>
-<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0725b12shiKuiJi">
-    <lb n="0725b12" ed="T"/><anchor n="T.50.2061.0725b12"/><head><anchor xml:id="beg0725003"/>宋<anchor xml:id="end0725003"/>高僧傳卷第四</head>
-    <lb n="0725b13" ed="T"/>
-    <lb n="0725b14" ed="T"/><byline n="Author"><anchor xml:id="beg0725b01"/>宋左街天壽寺通慧大師
-        <lb n="0725b15" ed="T"/>賜紫沙門贊寧等奉　勅撰<anchor xml:id="endT50p0725b01"/></byline>
-    <lb n="0725b16" ed="T"/><head>義解篇第二之一（正傳<anchor xml:id="beg0725b02"/>二十一<anchor xml:id="end0725b02"/>人附見七人）</head>
-    <lb n="0725b17" ed="T"/><head><date from-iso="0618-06-21" key="j19469512052491" to-iso="0907-06-06">唐</date><placeName key="PL000000042410">京兆大慈恩寺</placeName><persName key="A001019">窺基</persName>傳</head><p>
-        <lb ed="T" n="0725b18"/><persName key="A001019">釋窺基</persName>，字<persName key="A001019">洪道</persName>，姓尉遲氏，<placeName key="PL000000042182">京兆長安</placeName>人也。「尉
-        <lb ed="T" n="0725b19"/>遲」之先與「後魏」同起，號「尉遲部」，如<placeName key="PL000000000083">中華</placeName>之
-        <lb ed="T" n="0725b20"/>諸侯國，入<placeName key="PL000000000083">華</placeName>則以部為姓也。<placeName key="PL000000000130">魏</placeName>平東將軍<persName key="A009201">說</persName>
-        <lb ed="T" n="0725b21"/>六代孫<persName key="A009202">孟都</persName>生<persName key="A009203">羅迦</persName>，為<placeName key="PL000000005473">隋代州</placeName>西鎮將，乃<persName key="A001019">基</persName>
-        <lb ed="T" n="0725b22"/>祖焉。考諱<persName key="A009200">宗</persName><ptr target="#n479"/>，<date from-iso="0618-06-21" key="j19469512052491" to-iso="0907-06-06">唐</date>左金吾將軍、<placeName key="PL000000037487">松州</placeName>都督、<placeName key="PL000000035601">江由
-            <lb ed="T" n="0725b23"/>縣</placeName>開國公。其鄂國公<persName key="A008937"><choice resp="sgsz"><sic>德</sic><corr>敬德</corr></choice></persName><ptr target="#n479"/>則諸父也，《唐書》有傳<ptr target="#n480"/>。
-        <lb ed="T" n="0725b24"/><persName key="A001019">基</persName>母<persName key="A021336">裴氏</persName>夢掌月輪吞之，寤而有孕。及乎
-        <lb ed="T" n="0725b25"/>盈月誕彌<ptr target="#n481"/>，與群兒弗類，數方<ptr target="#n482"/>誦習，神晤精
-        <lb ed="T" n="0725b26"/>爽。<persName key="A000294">奘師</persName>始因陌上見其眉秀目朗，舉措疎略<ptr target="#n483"/>，
-        <lb ed="T" n="0725b27"/>曰：「將家之種，不謬也哉。脫或<ptr target="#n484"/>因緣相扣，度為
-        <lb ed="T" n="0725b28"/>弟子，則<ref type="person" target="#A000294">吾</ref>法有寄矣。」復念在<placeName key="PL000000048207">印度</placeName>時計迴
-        <lb ed="T" n="0725b29"/>程次，就尼犍子<ptr target="#n485"/>邊占，得卦甚吉：「<ref type="person" target="#A000294">師</ref>但東歸，<pb ed="T" n="0725c" xml:id="T50.2061.0725c"/>
-        <lb ed="T" n="0725c01"/>哲資生矣。」遂造<ref type="person" target="#A009200">北門將軍</ref><ptr target="#n486"/>，微諷<ptr target="#n487"/><ref type="person" target="#A001019">之</ref>出家。<ref type="person" target="#A009200">父</ref>
-<lb ed="T" n="0725c02"/>曰：「伊類麁悍，那勝教詔？」<persName key="A000294">奘</persName>曰：「<anchor xml:id="beg0725004"/>此<anchor xml:id="end0725004"/>之器度，非
-        <lb ed="T" n="0725c03"/><ref type="person" target="#A009200">將軍</ref>不生，非<ref type="person" target="#A000294">某</ref>不識。」<ref type="person" target="#A009200">父</ref>雖然諾，<persName key="A001019">基</persName>亦強
-        <lb ed="T" n="0725c04"/>拒。激勉再三，拜以從命，奮然抗聲曰：「聽<ref type="person" target="#A001019">我</ref>
-<lb ed="T" n="0725c05"/>三事，方誓出家。不斷情<anchor xml:id="beg0725005"/>欲<anchor xml:id="end0725005"/>、葷血、過中食
-        <lb ed="T" n="0725c06"/>也。」<persName key="A000294">奘</persName>先以欲勾牽，後<anchor xml:id="beg0725sgsz5"/><choice resp="sgsz"><sic>今</sic><corr>令</corr></choice><anchor xml:id="end0725sgsz5"/>入佛智，佯而肯焉。
-<lb ed="T" n="0725c07"/>行駕累載前之所欲，故<placeName key="PL000000042002">關輔</placeName>語曰「<persName key="A001019">三車和尚</persName>」。
-<lb ed="T" n="0725c08"/>即<date from-iso="0648-02-02" key="j19577691958152" to-iso="0649-02-19">貞觀二十二年</date>也。一<persName key="A001019">基</persName>自序云：「<date key="j19548151955180" from-iso="0640-01-01" to-iso="0640-12-31">九歲</date>丁艱，
-        <lb ed="T" n="0725c09"/>漸疎浮俗。」<ptr target="#n488"/>若然者，三車之說，乃厚誣也。至
-<lb ed="T" n="0725c10"/><date key="j19577371958102" from-iso="0648-01-01" to-iso="0648-12-31">年十七</date>，遂預緇林。及乎入法，奉勅為<persName key="A000294">奘師</persName>
-<lb ed="T" n="0725c11"/>弟子，始住<placeName key="PL000000042305">廣福寺</placeName>。尋奉別勅，選聰慧頴脫
-<lb ed="T" n="0725c12"/>者入<placeName key="PL000000042410">大慈恩寺</placeName>。躬事<persName key="A000294">奘師</persName>，學五竺語，解紛
-        <lb ed="T" n="0725c13"/>開結，統綜條然。聞見者無不歎伏。凡百犍度<ptr target="#n78"/>、
-        <lb ed="T" n="0725c14"/>跋渠<ptr target="#n79"/>，一覽無差，寧勞再憶<ptr target="#n489"/>？<date key="j19606591961024" from-iso="0656-01-01" to-iso="0656-12-31">年二十五</date>，應詔
-<lb ed="T" n="0725c15"/>譯經，講通大小乘教三十餘本。創意留心，
-        <lb ed="T" n="0725c16"/>勤勤著述，蓋切問而近思<ptr target="#n490"/>，其則不遠矣。造「疏」
-<lb ed="T" n="0725c17"/>計可百本。<persName key="A000294">奘</persName>所譯《唯識論》，初與<persName key="A009198">昉</persName>、<persName key="A008981">尚</persName>、<persName key="A000060">光</persName>四
-        <lb ed="T" n="0725c18"/>人同受，潤色<ptr target="#n70"/>、執筆<ptr target="#n53"/>、<anchor xml:id="beg0725sgsz6"/><choice resp="sgsz"><sic>撿</sic><corr>檢</corr></choice><anchor xml:id="end0725sgsz6"/>文<ptr target="#n491"/>、纂義<ptr target="#n492"/>，數朝之後，<persName key="A001019">基</persName>
-<lb ed="T" n="0725c19"/>求退焉。<persName key="A000294">奘</persName>問之，對曰：「夕夢金容，晨趨白
-        <lb ed="T" n="0725c20"/>馬，雖得法門之糟粕，然失玄源之醇粹，<ref type="person" target="#A001019">某</ref>
-        <lb ed="T" n="0725c21"/>不願立功於參<anchor xml:id="beg0725sgsz7"/>糅<anchor xml:id="end0725sgsz7"/>。若意成一本，受責則
-        <lb ed="T" n="0725c22"/>有所歸。」<persName key="A000294">奘</persName>遂許之。以理遣<ref type="person" target="#A009198 #A008981 #A000060">三賢</ref>，獨委於
-<lb ed="T" n="0725c23"/><persName key="A001019">基</persName>，此乃量材授任也。時隨受撰錄所聞，講
-        <lb ed="T" n="0725c24"/>周疏畢。無何<ptr target="#n493"/>，<placeName key="PL000000042216">西明寺</placeName><persName key="A001414">測法師</persName>亦俊朗之器，於
-        <lb ed="T" n="0725c25"/>《唯識論》講場，得計於閽者<ptr target="#n494"/>，賂之以金，潛隱
-<lb ed="T" n="0725c26"/>厥形，聽尋聯綴，亦疏通論旨。猶數座方畢，<persName key="A001414">測</persName>
-        <lb ed="T" n="0725c27"/>於<placeName key="PL000000042216">西明寺</placeName>鳴<anchor xml:id="beg0725006"/>椎<anchor xml:id="end0725006"/><ptr target="#n495"/>集僧，稱講此論。<persName key="A001019">基</persName>聞之，
-<lb ed="T" n="0725c28"/>慚居其後，不勝悵怏。<persName key="A000294">奘</persName>勉之曰：「<persName key="A001414">測公</persName>雖
-        <lb ed="T" n="0725c29"/>造疏，未達『因明<ptr target="#n246"/>』。」遂為講<persName key="A001162">陳那</persName>之論，<persName key="A001019">基</persName>大善<pb ed="T" n="0726a" xml:id="T50.2061.0726a"/>
-        <lb ed="T" n="0726a01"/>「三支<ptr target="#n496"/>」，縱橫立破<ptr target="#n738"/>，述義命章<ptr target="#n13"/>，前無與比。又云，
-        <lb ed="T" n="0726a02"/>請<persName key="A000294">奘師</persName>唯為<ref type="person" target="#A001019">己</ref>講《瑜伽論》，還被<persName key="A001414">測公</persName>同前
-        <lb ed="T" n="0726a03"/>盜聽，先講。<persName key="A000294">奘</persName>曰：「五性<ptr target="#n497"/>宗法，唯<ref type="person" target="#A001019">汝</ref>流通，他人則
-<lb ed="T" n="0726a04"/>否。」後躬遊<placeName key="PL000000005250">五臺山</placeName>，登<placeName key="PL000000000194">太行</placeName>，至<placeName key="PL000000006221">西河</placeName>古佛宇
-<lb ed="T" n="0726a05"/>中宿，夢身在半山，巖下有無量人唱苦聲，
-        <lb ed="T" n="0726a06"/>冥昧之間，初不忍聞。徙步陟彼層峯，皆瑠
-<lb ed="T" n="0726a07"/>璃色，盡見諸國土。仰望一城，城中有聲曰：「
-<lb ed="T" n="0726a08"/>住住，咄，<persName key="A001019">基公</persName>未合到此。」斯須，二天童自城
-<lb ed="T" n="0726a09"/>出，問曰：「<persName key="A001019">汝</persName>見山下罪苦眾生否？」答曰：「<persName key="A001019">我</persName>聞
-        <lb ed="T" n="0726a10"/>聲而不見形。」童子遂投與劍一鐔<ptr target="#n498"/>曰：「剖腹
-<lb ed="T" n="0726a11"/>當見矣。」<persName key="A001019">基</persName>自剖之，腹開，有光兩道暉映山
-<lb ed="T" n="0726a12"/>下，見無數人受其極苦。時童子入城，持紙
-<lb ed="T" n="0726a13"/>二軸及筆投之，捧得而去。及旦，驚異未已。
-<lb ed="T" n="0726a14"/>過信夜<ptr target="#n499"/>，寺中有光，久而不滅。尋視之，數軸
-<lb ed="T" n="0726a15"/>發光者，探之，得《彌勒上生經》。乃憶前夢，必
-        <lb ed="T" n="0726a16"/><persName key="A001428">慈氏</persName>令<ref type="person" target="#A001019">我</ref>造疏，通暢厥理耳。遂援毫次，筆
-        <lb ed="T" n="0726a17"/>鋒有舍利二七粒而隕，如<placeName key="PL000000009928">吳</placeName>含桃<ptr target="#n500"/>許大，紅
-<lb ed="T" n="0726a18"/>色可愛。次零然而下者，狀如黃梁粟粒。一
-<lb ed="T" n="0726a19"/>云，行至<placeName key="PL000000003794">太原</placeName>傳法，三車自隨，前乘經論箱
-<lb ed="T" n="0726a20"/>帙，中乘自御，後乘家妓女僕食饌。於路間
-<lb ed="T" n="0726a21"/>遇一老父，問乘何人。對曰：「家屬。」父曰：「知法
-<lb ed="T" n="0726a22"/>甚精，携家屬偕，恐不稱教。」<persName key="A001019">基</persName>聞之，頓悔前
-        <lb ed="T" n="0726a23"/>非，翛然<ptr target="#n501"/>獨往。老父則<persName key="A002144">文殊菩薩</persName>也。此亦巵語<ptr target="#n502"/>
-<lb ed="T" n="0726a24"/>矣。隨<persName key="A000294">奘</persName>在<placeName key="PL000000042745">玉華宮</placeName>參譯之際，三車何處安置
-<lb ed="T" n="0726a25"/>乎？<persName key="A001019">基</persName>隨處化徒，獲益者眾。東行<placeName key="PL000000002513">博陵</placeName>，有
-        <lb ed="T" n="0726a26"/>請講《法華經》，遂造《大疏》焉。及歸<ref target="#PL000000042410" type="place">本寺</ref>，恒
-<lb ed="T" n="0726a27"/>與翻譯舊人往還。屢謁<persName key="A001519">宣律師</persName>。<persName key="A001519">宣</persName>每有諸
-<lb ed="T" n="0726a28"/>天王使者執事，或冥告雜務。爾日<persName key="A001019">基</persName>去方
-<lb ed="T" n="0726a29"/>來，<persName key="A001519">宣</persName>怪其遲暮，對曰：「適者大乘菩薩在此，<pb ed="T" n="0726b" xml:id="T50.2061.0726b"/>
-<lb ed="T" n="0726b01"/>善神翼從者多，我曹神通為他所制故爾。」
-<lb ed="T" n="0726b02"/>以<date from-iso="0682-04-05" key="j19702501970555" to-iso="0683-02-04">永淳元年壬午</date>示疾，至<date key="j19705091970509" when-iso="0682-12-20">十一月十三日</date>
-        <lb ed="T" n="0726b03"/>長往于<placeName key="PL000000042411">慈恩寺翻經院</placeName>，春秋五十一，法臘無
-        <lb ed="T" n="0726b04"/>聞。葬于<placeName key="PL000000042490">樊村北渠</placeName><ptr target="#n503"/>，祔<persName key="A000294">三藏奘師</persName>塋隴焉。弟
-        <lb ed="T" n="0726b05"/>子哀慟，餘外執紼<ptr target="#n504"/>會葬，黑白之眾盈于山
-<lb ed="T" n="0726b06"/>谷。<persName key="A001019">基</persName>生常勇進，造彌勒像，對其像日誦《菩
-        <lb ed="T" n="0726b07"/>薩戒》一遍，願生<placeName key="PL000000055446">兜率</placeName>，求其志也。乃發通身
-<lb ed="T" n="0726b08"/>光瑞，爛然可觀。復於<placeName key="PL000000005250">五臺</placeName>造玉石<persName key="A002144">文殊菩
-<lb ed="T" n="0726b09"/>薩</persName>像，寫金字《般若經》畢，亦發神光焉。弟子
-        <lb ed="T" n="0726b10"/>相繼取<persName key="A001019">基</persName>為折中<ptr target="#n505"/>，視之如<persName key="A000294">奘</persName>在焉。<date when-iso="0830-07-28" key="j20244202024420"><anchor xml:id="beg0726001"/>太<anchor xml:id="end0726001"/>和四
-            <lb ed="T" n="0726b11"/>年庚戌七月癸酉</date>，遷塔<anchor xml:id="beg0726002"/>于<anchor xml:id="end0726002"/><placeName key="PL000000042494">平原</placeName><ptr target="#n506"/>，<placeName key="PL000000042134">大安國寺</placeName>
-        <lb ed="T" n="0726b12"/>沙門<persName key="A018815">令儉</persName>檢校塔亭，徙棺，見<persName key="A001019">基</persName>齒有四十
-        <lb ed="T" n="0726b13"/>根不斷<anchor xml:id="beg0726003"/>玉如<anchor xml:id="end0726003"/>。眾彈指<ptr target="#n507"/>言是佛之一相焉。凡
-<lb ed="T" n="0726b14"/>今天下佛寺圖形，號曰「<persName key="A001019">百本疏主</persName>真」，<persName key="A002146">高宗大
-    <lb ed="T" n="0726b15"/>帝</persName>製讚<ptr target="#n508"/>。一云<persName key="A000291">玄宗</persName>。然<persName key="A001019">基</persName>魁梧堂堂，有桓赳<ptr target="#n509"/>
-<lb ed="T" n="0726b16"/>之氣，而慈濟之心，誨人不倦，自天然也。其
-<lb ed="T" n="0726b17"/>符彩則項負玉枕，面部宏偉，交手十指若
-        <lb ed="T" n="0726b18"/>印契<ptr target="#n141"/>焉。名諱上字多出沒不同者，為以《慈恩
-<lb ed="T" n="0726b19"/>傳》中云，「<persName key="A000294">奘師</persName><date from-iso="0663-02-16" key="j19632621963615" to-iso="0664-02-04">龍朔三年</date>於<placeName key="PL000000042745">玉華宮</placeName>譯《大般若
-<lb ed="T" n="0726b20"/>經》終筆，<date key="j19635781963578" when-iso="0663-12-29">其年十一月二十二日</date>令<persName key="A001019">大乘基</persName>
-<lb ed="T" n="0726b21"/>奉表奏聞，請御製序。至<date key="j19635931963593" when-iso="0664-01-13">十二月七日</date>通事
-        <lb ed="T" n="0726b22"/>舍人<persName key="A002446">馮義</persName>宣由。」，此云「<persName key="A001019">靈基</persName>」，《開元錄》為「<persName key="A001019">窺基</persName>」，
-<lb ed="T" n="0726b23"/>或言「乘基」非也。彼曰<persName key="A001019">大乘基</persName>，蓋<persName key="A001194">慧立</persName>、<persName key="A000827">彥悰</persName>
-        <lb ed="T" n="0726b24"/>不全斥，故云<persName key="A001019">大乘基</persName>，如言<persName key="A021463">不聽泰</persName>耳，猶
-<lb ed="T" n="0726b25"/>謹遣<persName key="A000060">大乘光</persName>奉表同也。今海內呼<persName key="A001019">慈恩法
-<lb ed="T" n="0726b26"/>師</persName>焉。</p>
-    <p><lb ed="T" n="0726b27"/>系曰：「性相<ptr target="#n510"/>」義門，至<date from-iso="0618-06-21" key="j19469512052491" to-iso="0907-06-06">唐</date>方見大備也。<persName key="A000294">奘師</persName>為
-        <lb ed="T" n="0726b28"/>《瑜伽》、《唯識》開創之祖，<persName key="A001019">基</persName>乃守文述作<ptr target="#n511"/>之宗。唯
-        <lb ed="T" n="0726b29"/>「祖」與「宗」，百世不除之祀也<ptr target="#n512"/>。蓋功德被物，廣
-<lb ed="T" n="0726c01"/>矣大矣。<persName key="A000294">奘</persName>苟無<persName key="A001019">基</persName>，則何祖張其學乎？開天
-        <lb ed="T" n="0726c02"/>下人眼目乎？<ref type="person" target="#A000294 #A001019">二師</ref>立功與言，俱不朽也。然
-        <lb ed="T" n="0726c03"/>則<persName key="A001019">基</persName>也，<persName key="A008937">鄂公</persName>猶子<ptr target="#n513"/>，<persName key="A000294">奘師</persName>門生，所謂將家來為
-<lb ed="T" n="0726c04"/>法將，千載一人而已。故《書》有之，「厥父菑，厥子
-        <lb ed="T" n="0726c05"/>乃肯播，矧能肯穫？」<ptr target="#n514"/>，其<persName key="A001019">百本疏主</persName>之謂歟！</p>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0725b17shiKuiJi"><lb
+n="0725b17" ed="T"/><anchor n="T.50.2061.0725b17"/><head><date from-iso="0618-06-21" key="j19469512052491" to-iso="0907-06-06">唐</date><placeName key="PL000000042410">京兆大慈恩寺</placeName><persName key="A001019">窺基</persName>傳</head><p><lb
+ed="T" n="0725b18"/><persName key="A001019">釋窺基</persName>，字<persName key="A001019">洪道</persName>，姓尉遲氏，<placeName key="PL000000042182">京兆長安</placeName>人也。「尉<lb
+ed="T" n="0725b19"/>遲」之先與「後魏」同起，號「尉遲部」，如<placeName key="PL000000000083">中華</placeName>之<lb
+ed="T" n="0725b20"/>諸侯國，入<placeName key="PL000000000083">華</placeName>則以部為姓也。<placeName key="PL000000000130">魏</placeName>平東將軍<persName key="A009201">說</persName><lb
+ed="T" n="0725b21"/>六代孫<persName key="A009202">孟都</persName>生<persName key="A009203">羅迦</persName>，為<placeName key="PL000000005473">隋代州</placeName>西鎮將，乃<persName key="A001019">基</persName><lb
+ed="T" n="0725b22"/>祖焉。考諱<persName key="A009200">宗</persName><ptr target="#n479"/>，<date from-iso="0618-06-21" key="j19469512052491" to-iso="0907-06-06">唐</date>左金吾將軍、<placeName key="PL000000037487">松州</placeName>都督、<placeName key="PL000000035601">江由<lb
+ed="T" n="0725b23"/>縣</placeName>開國公。其鄂國公<persName key="A008937">德</persName><ptr target="#n479"/>則諸父也，《唐書》有傳<ptr target="#n480"/>。<lb
+ed="T" n="0725b24"/><persName key="A001019">基</persName>母<persName key="A021336">裴<roleName>氏</roleName></persName>夢掌月輪吞之，寤而有孕。及乎<lb
+ed="T" n="0725b25"/>盈月誕彌<ptr target="#n481"/>，與群兒弗類，數方<ptr target="#n482"/>誦習，神晤精<lb
+ed="T" n="0725b26"/>爽。<persName key="A000294">奘師</persName>始因陌上見其眉秀目朗，舉措疎略<ptr target="#n483"/>，<lb
+ed="T" n="0725b27"/>曰：「將家之種，不謬也哉。脫或<ptr target="#n484"/>因緣相扣，度為<lb
+ed="T" n="0725b28"/>弟子，則<ref type="person" target="#A000294">吾</ref>法有寄矣。」復念在<placeName key="PL000000048207">印度</placeName>時計迴<lb
+ed="T" n="0725b29"/>程次，就尼犍子<ptr target="#n485"/>邊占，得卦甚吉：「<ref type="person" target="#A000294">師</ref>但東歸，<pb ed="T" n="0725c" xml:id="T50.2061.0725c"/><lb
+ed="T" n="0725c01"/>哲資生矣。」遂造<ref type="person" target="#A009200">北門將軍</ref><ptr target="#n486"/>，微諷<ptr target="#n487"/><ref type="person" target="#A001019">之</ref>出家。<ref type="person" target="#A009200">父</ref><lb
+ed="T" n="0725c02"/>曰：「伊類麁悍，那勝教詔？」<persName key="A000294">奘</persName>曰：「<anchor xml:id="beg0725004"/>此<anchor xml:id="end0725004"/>之器度，非<lb
+ed="T" n="0725c03"/><ref type="person" target="#A009200">將軍</ref>不生，非<ref type="person" target="#A000294">某</ref>不識。」<ref type="person" target="#A009200">父</ref>雖然諾，<persName key="A001019">基</persName>亦強<lb
+ed="T" n="0725c04"/>拒。激勉再三，拜以從命，奮然抗聲曰：「聽<ref type="person" target="#A001019">我</ref><lb
+ed="T" n="0725c05"/>三事，方誓出家。不斷情<anchor xml:id="beg0725005"/>欲<anchor xml:id="end0725005"/>、葷血、過中食<lb
+ed="T" n="0725c06"/>也。」<persName key="A000294">奘</persName>先以欲勾牽，後<anchor xml:id="beg0725sgsz5"/><choice resp="sgsz"><sic>今</sic><corr>令</corr></choice><anchor xml:id="end0725sgsz5"/>入佛智，佯而肯焉。<lb
+ed="T" n="0725c07"/>行駕累載前之所欲，故<placeName key="PL000000042002">關輔</placeName>語曰「<persName key="A001019">三車和尚</persName>」。<lb
+ed="T" n="0725c08"/>即<date from-iso="0648-02-02" key="j19577691958152" to-iso="0649-02-19">貞觀二十二年</date>也。一<persName key="A001019">基</persName>自序云：「<date key="j19548151955180" from-iso="0640-01-01" to-iso="0640-12-31">九歲</date>丁艱，<lb
+ed="T" n="0725c09"/>漸疎浮俗。」<ptr target="#n488"/>若然者，三車之說，乃厚誣也。至<lb
+ed="T" n="0725c10"/><date key="j19577371958102" from-iso="0648-01-01" to-iso="0648-12-31">年十七</date>，遂預緇林。及乎入法，奉勅為<persName key="A000294">奘師</persName><lb
+ed="T" n="0725c11"/>弟子，始住<placeName key="PL000000042305">廣福寺</placeName>。尋奉別勅，選聰慧頴脫<lb
+ed="T" n="0725c12"/>者入<placeName key="PL000000042410">大慈恩寺</placeName>。躬事<persName key="A000294">奘師</persName>，學五竺語，解紛<lb
+ed="T" n="0725c13"/>開結，統綜條然。聞見者無不歎伏。凡百犍度<ptr target="#n78"/>、<lb
+ed="T" n="0725c14"/>跋渠<ptr target="#n79"/>，一覽無差，寧勞再憶<ptr target="#n489"/>？<date key="j19606591961024" from-iso="0656-01-01" to-iso="0656-12-31">年二十五</date>，應詔<lb
+ed="T" n="0725c15"/>譯經，講通大小乘教三十餘本。創意留心，<lb
+ed="T" n="0725c16"/>勤勤著述，蓋切問而近思<ptr target="#n490"/>，其則不遠矣。造「疏」<lb
+ed="T" n="0725c17"/>計可百本。<persName key="A000294">奘</persName>所譯《唯識論》，初與<persName key="A009198">昉</persName>、<persName key="A008981">尚</persName>、<persName key="A000060">光</persName>四<lb
+ed="T" n="0725c18"/>人同受，潤色<ptr target="#n70"/>、執筆<ptr target="#n53"/>、<anchor xml:id="beg0725sgsz6"/><choice resp="sgsz"><sic>撿</sic><corr>檢</corr></choice><anchor xml:id="end0725sgsz6"/>文<ptr target="#n491"/>、纂義<ptr target="#n492"/>，數朝之後，<persName key="A001019">基</persName><lb
+ed="T" n="0725c19"/>求退焉。<persName key="A000294">奘</persName>問之，對曰：「夕夢金容，晨趨白<lb
+ed="T" n="0725c20"/>馬，雖得法門之糟粕，然失玄源之醇粹，<ref type="person" target="#A001019">某</ref><lb
+ed="T" n="0725c21"/>不願立功於參<anchor xml:id="beg0725sgsz7"/>糅<anchor xml:id="end0725sgsz7"/>。若意成一本，受責則<lb
+ed="T" n="0725c22"/>有所歸。」<persName key="A000294">奘</persName>遂許之。以理遣<ref type="person" target="#A009198 #A008981 #A000060">三賢</ref>，獨委於<lb
+ed="T" n="0725c23"/><persName key="A001019">基</persName>，此乃量材授任也。時隨受撰錄所聞，講<lb
+ed="T" n="0725c24"/>周疏畢。無何<ptr target="#n493"/>，<placeName key="PL000000042216">西明寺</placeName><persName key="A001414">測法師</persName>亦俊朗之器，於<lb
+ed="T" n="0725c25"/>《唯識論》講場，得計於閽者<ptr target="#n494"/>，賂之以金，潛隱<lb
+ed="T" n="0725c26"/>厥形，聽尋聯綴，亦疏通論旨。猶數座方畢，<persName key="A001414">測</persName><lb
+ed="T" n="0725c27"/>於<placeName key="PL000000042216">西明寺</placeName>鳴<anchor xml:id="beg0725006"/>椎<anchor xml:id="end0725006"/><ptr target="#n495"/>集僧，稱講此論。<persName key="A001019">基</persName>聞之，<lb
+ed="T" n="0725c28"/>慚居其後，不勝悵怏。<persName key="A000294">奘</persName>勉之曰：「<persName key="A001414">測公</persName>雖<lb
+ed="T" n="0725c29"/>造疏，未達『因明<ptr target="#n246"/>』。」遂為講<persName key="A001162">陳那</persName>之論，<persName key="A001019">基</persName>大善<pb ed="T" n="0726a" xml:id="T50.2061.0726a"/><lb
+ed="T" n="0726a01"/>「三支<ptr target="#n496"/>」，縱橫立破<ptr target="#n738"/>，述義命章<ptr target="#n13"/>，前無與比。又云，<lb
+ed="T" n="0726a02"/>請<persName key="A000294">奘師</persName>唯為<ref type="person" target="#A001019">己</ref>講《瑜伽論》，還被<persName key="A001414">測公</persName>同前<lb
+ed="T" n="0726a03"/>盜聽，先講。<persName key="A000294">奘</persName>曰：「五性<ptr target="#n497"/>宗法，唯<ref type="person" target="#A001019">汝</ref>流通，他人則<lb
+ed="T" n="0726a04"/>否。」後躬遊<placeName key="PL000000005250">五臺山</placeName>，登<placeName key="PL000000000194">太行</placeName>，至<placeName key="PL000000006221">西河</placeName>古佛宇<lb
+ed="T" n="0726a05"/>中宿，夢身在半山，巖下有無量人唱苦聲，<lb
+ed="T" n="0726a06"/>冥昧之間，初不忍聞。徙步陟彼層峯，皆瑠<lb
+ed="T" n="0726a07"/>璃色，盡見諸國土。仰望一城，城中有聲曰：「<lb
+ed="T" n="0726a08"/>住住，咄，<persName key="A001019">基公</persName>未合到此。」斯須，二天童自城<lb
+ed="T" n="0726a09"/>出，問曰：「<persName key="A001019">汝</persName>見山下罪苦眾生否？」答曰：「<persName key="A001019">我</persName>聞<lb
+ed="T" n="0726a10"/>聲而不見形。」童子遂投與劍一鐔<ptr target="#n498"/>曰：「剖腹<lb
+ed="T" n="0726a11"/>當見矣。」<persName key="A001019">基</persName>自剖之，腹開，有光兩道暉映山<lb
+ed="T" n="0726a12"/>下，見無數人受其極苦。時童子入城，持紙<lb
+ed="T" n="0726a13"/>二軸及筆投之，捧得而去。及旦，驚異未已。<lb
+ed="T" n="0726a14"/>過信夜<ptr target="#n499"/>，寺中有光，久而不滅。尋視之，數軸<lb
+ed="T" n="0726a15"/>發光者，探之，得《彌勒上生經》。乃憶前夢，必<lb
+ed="T" n="0726a16"/><persName key="A001428">慈<roleName>氏</roleName></persName>令<ref type="person" target="#A001019">我</ref>造疏，通暢厥理耳。遂援毫次，筆<lb
+ed="T" n="0726a17"/>鋒有舍利二七粒而隕，如<placeName key="PL000000009928">吳</placeName>含桃<ptr target="#n500"/>許大，紅<lb
+ed="T" n="0726a18"/>色可愛。次零然而下者，狀如黃梁粟粒。一<lb
+ed="T" n="0726a19"/>云，行至<placeName key="PL000000003794">太原</placeName>傳法，三車自隨，前乘經論箱<lb
+ed="T" n="0726a20"/>帙，中乘自御，後乘家妓女僕食饌。於路間<lb
+ed="T" n="0726a21"/>遇一老父，問乘何人。對曰：「家屬。」父曰：「知法<lb
+ed="T" n="0726a22"/>甚精，携家屬偕，恐不稱教。」<persName key="A001019">基</persName>聞之，頓悔前<lb
+ed="T" n="0726a23"/>非，翛然<ptr target="#n501"/>獨往。老父則<persName key="A002144">文殊菩薩</persName>也。此亦巵語<ptr target="#n502"/><lb
+ed="T" n="0726a24"/>矣。隨<persName key="A000294">奘</persName>在<placeName key="PL000000042745">玉華宮</placeName>參譯之際，三車何處安置<lb
+ed="T" n="0726a25"/>乎？<persName key="A001019">基</persName>隨處化徒，獲益者眾。東行<placeName key="PL000000002513">博陵</placeName>，有<lb
+ed="T" n="0726a26"/>請講《法華經》，遂造《大疏》焉。及歸<ref target="#PL000000042410" type="place">本寺</ref>，恒<lb
+ed="T" n="0726a27"/>與翻譯舊人往還。屢謁<persName key="A001519">宣律師</persName>。<persName key="A001519">宣</persName>每有諸<lb
+ed="T" n="0726a28"/>天王使者執事，或冥告雜務。爾日<persName key="A001019">基</persName>去方<lb
+ed="T" n="0726a29"/>來，<persName key="A001519">宣</persName>怪其遲暮，對曰：「適者大乘菩薩在此，<pb ed="T" n="0726b" xml:id="T50.2061.0726b"/><lb
+ed="T" n="0726b01"/>善神翼從者多，我曹神通為他所制故爾。」<lb
+ed="T" n="0726b02"/>以<date from-iso="0682-04-05" key="j19702501970555" to-iso="0683-02-04">永淳元年壬午</date>示疾，至<date key="j19705091970509" when-iso="0682-12-20">十一月十三日</date><lb
+ed="T" n="0726b03"/>長往于<placeName key="PL000000042411">慈恩寺翻經院</placeName>，春秋五十一，法臘無<lb
+ed="T" n="0726b04"/>聞。葬于<placeName key="PL000000042490">樊村北渠</placeName><ptr target="#n503"/>，祔<persName key="A000294">三藏奘師</persName>塋隴焉。弟<lb
+ed="T" n="0726b05"/>子哀慟，餘外執紼<ptr target="#n504"/>會葬，黑白之眾盈于山<lb
+ed="T" n="0726b06"/>谷。<persName key="A001019">基</persName>生常勇進，造彌勒像，對其像日誦《菩<lb
+ed="T" n="0726b07"/>薩戒》一遍，願生<placeName key="PL000000055446">兜率</placeName>，求其志也。乃發通身<lb
+ed="T" n="0726b08"/>光瑞，爛然可觀。復於<placeName key="PL000000005250">五臺</placeName>造玉石<persName key="A002144">文殊菩<lb
+ed="T" n="0726b09"/>薩</persName>像，寫金字《般若經》畢，亦發神光焉。弟子<lb
+ed="T" n="0726b10"/>相繼取<persName key="A001019">基</persName>為折中<ptr target="#n505"/>，視之如<persName key="A000294">奘</persName>在焉。<date when-iso="0830-07-28" key="j20244202024420"><anchor xml:id="beg0726001"/>太<anchor xml:id="end0726001"/>和四<lb
+ed="T" n="0726b11"/>年庚戌七月癸酉</date>，遷塔<anchor xml:id="beg0726002"/>于<anchor xml:id="end0726002"/><placeName key="PL000000042494">平原</placeName><ptr target="#n506"/>，<placeName key="PL000000042134">大安國寺</placeName><lb
+ed="T" n="0726b12"/>沙門<persName key="A018815">令儉</persName>檢校塔亭，徙棺，見<persName key="A001019">基</persName>齒有四十<lb
+ed="T" n="0726b13"/>根不斷<anchor xml:id="beg0726003"/>玉如<anchor xml:id="end0726003"/>。眾彈指<ptr target="#n507"/>言是佛之一相焉。凡<lb
+ed="T" n="0726b14"/>今天下佛寺圖形，號曰「<persName key="A001019">百本疏主</persName>真」，<persName key="A002146">高宗大<lb
+ed="T" n="0726b15"/>帝</persName>製讚<ptr target="#n508"/>。一云<persName key="A000291">玄宗</persName>。然<persName key="A001019">基</persName>魁梧堂堂，有桓赳<ptr target="#n509"/><lb
+ed="T" n="0726b16"/>之氣，而慈濟之心，誨人不倦，自天然也。其<lb
+ed="T" n="0726b17"/>符彩則項負玉枕，面部宏偉，交手十指若<lb
+ed="T" n="0726b18"/>印契<ptr target="#n141"/>焉。名諱上字多出沒不同者，為以《慈恩<lb
+ed="T" n="0726b19"/>傳》中云，「<persName key="A000294">奘師</persName><date from-iso="0663-02-16" key="j19632621963615" to-iso="0664-02-04">龍朔三年</date>於<placeName key="PL000000042745">玉華宮</placeName>譯《大般若<lb
+ed="T" n="0726b20"/>經》終筆，<date key="j19635781963578" when-iso="0663-12-29">其年十一月二十二日</date>令<persName key="A001019">大乘基</persName><lb
+ed="T" n="0726b21"/>奉表奏聞，請御製序。至<date key="j19635931963593" when-iso="0664-01-13">十二月七日</date>通事<lb
+ed="T" n="0726b22"/>舍人<persName key="A002446">馮義</persName>宣由。」，此云「<persName key="A001019">靈基</persName>」，《開元錄》為「<persName key="A001019">窺基</persName>」，<lb
+ed="T" n="0726b23"/>或言「乘基」非也。彼曰<persName key="A001019">大乘基</persName>，蓋<persName key="A001194">慧立</persName>、<persName key="A000827">彥悰</persName><lb
+ed="T" n="0726b24"/>不全斥，故云<persName key="A001019">大乘基</persName>，如言<persName key="A021463">不聽泰</persName>耳，猶<lb
+ed="T" n="0726b25"/>謹遣<persName key="A000060">大乘光</persName>奉表同也。今海內呼<persName key="A001019">慈恩法<lb
+ed="T" n="0726b26"/>師</persName>焉。</p>
+    <p><lb
+ed="T" n="0726b27"/>系曰：「性相<ptr target="#n510"/>」義門，至<date from-iso="0618-06-21" key="j19469512052491" to-iso="0907-06-06">唐</date>方見大備也。<persName key="A000294">奘師</persName>為<lb
+ed="T" n="0726b28"/>《瑜伽》、《唯識》開創之祖，<persName key="A001019">基</persName>乃守文述作<ptr target="#n511"/>之宗。唯<lb
+ed="T" n="0726b29"/>「祖」與「宗」，百世不除之祀也<ptr target="#n512"/>。蓋功德被物，廣<lb
+ed="T" n="0726c01"/>矣大矣。<persName key="A000294">奘</persName>苟無<persName key="A001019">基</persName>，則何祖張其學乎？開天<lb
+ed="T" n="0726c02"/>下人眼目乎？<ref type="person" target="#A000294 #A001019">二師</ref>立功與言，俱不朽也。然<lb
+ed="T" n="0726c03"/>則<persName key="A001019">基</persName>也，<persName key="A008937">鄂公</persName>猶子<ptr target="#n513"/>，<persName key="A000294">奘師</persName>門生，所謂將家來為<lb
+ed="T" n="0726c04"/>法將，千載一人而已。故《書》有之，「厥父菑，厥子<lb
+ed="T" n="0726c05"/>乃肯播，矧能肯穫？」<ptr target="#n514"/>，其<persName key="A001019">百本疏主</persName>之謂歟！</p>
     <linkGrp>
         <link targets="#0725b18 #0725b18"/>
         <ptr target="#A001019" type="person"/>

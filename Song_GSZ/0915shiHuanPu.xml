@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0778b01shiHuanPu">
-    <anchor n="T.50.2061.0778b01"/><head><date from-iso="0618-06-21" key="j19469512052491" to-iso="0907-06-06">唐</date>洛陽韶山<persName key="A010542">寰普</persName>傳</head><p>
-<lb ed="T" n="0778b02"/><persName key="A010542">釋寰普</persName>者，不知何許人也。稟形淳粹，克性
-<lb ed="T" n="0778b03"/>謙冲。居于醜夷，下風請業汪汪然，其識度
-<lb ed="T" n="0778b04"/>輒難擬議。具戒之後，經論溫尋。然後杖錫南
-<lb ed="T" n="0778b05"/>遊<placeName key="PL000000029560">澧陽</placeName>，遇<persName key="A010467">夾山</persName>而得心契，有參學舉問，垂
-<lb ed="T" n="0778b06"/>手携歸，不使一機失其開誘。其所不薦，勸
-<lb ed="T" n="0778b07"/>令披覽經法，亦近<persName key="A009582">秀</persName><persName key="A003623">寂</persName>之遺風耳。</p>
+    <anchor n="T.50.2061.0778b01"/><head><date from-iso="0618-06-21" key="j19469512052491" to-iso="0907-06-06">唐</date>洛陽韶山<persName key="A010542">寰普</persName>傳</head><p><lb
+ed="T" n="0778b02"/><persName key="A010542">釋寰普</persName>者，不知何許人也。稟形淳粹，克性<lb
+ed="T" n="0778b03"/>謙冲。居于醜夷，下風請業汪汪然，其識度<lb
+ed="T" n="0778b04"/>輒難擬議。具戒之後，經論溫尋。然後杖錫南<lb
+ed="T" n="0778b05"/>遊<placeName key="PL000000029560">澧陽</placeName>，遇<persName key="A010467">夾山</persName>而得心契，有參學舉問，垂<lb
+ed="T" n="0778b06"/>手携歸，不使一機失其開誘。其所不薦，勸<lb
+ed="T" n="0778b07"/>令披覽經法，亦近<persName key="A009582">秀</persName><persName key="A003623">寂</persName>之遺風耳。</p>
     <linkGrp>
         <link targets="#0778b04 #0778b06"/>
         <ptr target="#A010542" type="person"/>

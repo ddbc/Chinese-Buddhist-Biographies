@@ -1,16 +1,16 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0870a04shiCongShen">
-    <anchor n="T.50.2061.0870a04"/><head><date from-iso="0907-06-10" key="j20524952058534" to-iso="0923-12-22">梁</date>揚州禪智寺<persName key="A013605">從審</persName>傳</head><p>
-<lb ed="T" n="0870a05"/><persName key="A013605">釋從審</persName>，不詳氏族，幼入<placeName key="PL000000010764">江都禪智寺</placeName>，捨家
-<lb ed="T" n="0870a06"/>誦經數萬餘言。其<placeName key="PL000000010764">寺</placeName>即<persName key="A004413">隋煬帝</persName>之故宮也。<date key="j20366752037029" notAfter-iso="0865-02-03" notBefore-iso="0864-02-15">咸
-<lb ed="T" n="0870a07"/>通五年</date>，受具戒於燕臺奉福寺<!--找不到此地-->律席經筵，遍
-<lb ed="T" n="0870a08"/>知甞染，後併三衣成五納。諸名山勝概，無
-<lb ed="T" n="0870a09"/>不遊覽。末歸淮甸，推為僧首。五六年間，一
-<lb ed="T" n="0870a10"/>皆嚴肅。然恒誦淨名經，未愆日計。以<date key="j20557392055739" when-iso="0916-04-27">貞明
-<lb ed="T" n="0870a11"/>二年三月十八</date>日構疾，迨<date key="j20557402055740" when-iso="0916-04-28">十九日</date>禺中微
-<lb ed="T" n="0870a12"/>息而終，顏貌如常。茶毘，獲舍利三十粒，堅
-<lb ed="T" n="0870a13"/>明通鍛無耗。疊石為墳，筠源<!--找不到此地-->沙門<persName key="A013607">靈護</persName>述
-<lb ed="T" n="0870a14"/>墳銘云。</p>
+    <anchor n="T.50.2061.0870a04"/><head><date from-iso="0907-06-10" key="j20524952058534" to-iso="0923-12-22">梁</date>揚州禪智寺<persName key="A013605">從審</persName>傳</head><p><lb
+ed="T" n="0870a05"/><persName key="A013605">釋從審</persName>，不詳氏族，幼入<placeName key="PL000000010764">江都禪智寺</placeName>，捨家<lb
+ed="T" n="0870a06"/>誦經數萬餘言。其<placeName key="PL000000010764">寺</placeName>即<persName key="A004413">隋煬帝</persName>之故宮也。<date key="j20366752037029" notAfter-iso="0865-02-03" notBefore-iso="0864-02-15">咸<lb
+ed="T" n="0870a07"/>通五年</date>，受具戒於燕臺奉福寺<!--找不到此地-->律席經筵，遍<lb
+ed="T" n="0870a08"/>知甞染，後併三衣成五納。諸名山勝概，無<lb
+ed="T" n="0870a09"/>不遊覽。末歸淮甸，推為僧首。五六年間，一<lb
+ed="T" n="0870a10"/>皆嚴肅。然恒誦淨名經，未愆日計。以<date key="j20557392055739" when-iso="0916-04-27">貞明<lb
+ed="T" n="0870a11"/>二年三月十八</date>日構疾，迨<date key="j20557402055740" when-iso="0916-04-28">十九日</date>禺中微<lb
+ed="T" n="0870a12"/>息而終，顏貌如常。茶毘，獲舍利三十粒，堅<lb
+ed="T" n="0870a13"/>明通鍛無耗。疊石為墳，筠源<!--找不到此地-->沙門<persName key="A013607">靈護</persName>述<lb
+ed="T" n="0870a14"/>墳銘云。</p>
     <linkGrp>
         <link targets="#0870a05 #0870a06"/>
         <ptr target="#A013605" type="person"/>

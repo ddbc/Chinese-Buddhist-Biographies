@@ -1,16 +1,16 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0894c04shiFaRong">
-    <anchor n="T.50.2061.0894c04"/><head><date from-iso="0618-06-21" key="j19469512052491" to-iso="0907-06-06">唐</date>閬州長樂寺<persName key="A008822">法融</persName>傳</head><p>
-<lb ed="T" n="0894c05"/><persName key="A008822">釋法融</persName>，姓嚴氏，<placeName key="PL000000036534">閬中</placeName>人也。<anchor xml:id="beg0894003"/>穉<anchor xml:id="end0894003"/>齒好朴素，惡
-<lb ed="T" n="0894c06"/>華楚之服。父訓令秉筆，便畫佛形像。至于
-<lb ed="T" n="0894c07"/>聚戲，<anchor xml:id="beg0894004"/>搏<anchor xml:id="end0894004"/>沙為塔，所作無非佛事。年甫<date key="j19982791998643" from-iso="0759-01-01" to-iso="0759-12-31">十
-<lb ed="T" n="0894c08"/>三</date>，見釋子，摳其衣坐執經卷，苦求出家。
-<lb ed="T" n="0894c09"/>依<placeName key="PL000000036518">長樂寺</placeName><persName key="A013922">慧休法師</persName>為弟子，經誦偕通，乃
-<lb ed="T" n="0894c10"/>霑戒善。遂講南山律鈔。後遊雲水，見<placeName key="PL000000023253">嵩嶽</placeName>
-<lb ed="T" n="0894c11"/><persName key="A009319">普寂</persName>禪道風行，密付心印。往弋陽<placeName key="PL000000020082">福寧寺</placeName>，
-<lb ed="T" n="0894c12"/>放蕩閑居，學道者麏至。以<date key="j20260742026427" notAfter-iso="0836-01-25" notBefore-iso="0835-02-06">大和九年</date>示疾
-<lb ed="T" n="0894c13"/>而終，春秋八十九。<date key="j20260832026083" when-iso="0835-02-15">其年正月十日</date>，門人奉神
-<lb ed="T" n="0894c14"/>座入塔焉。</p>
+    <anchor n="T.50.2061.0894c04"/><head><date from-iso="0618-06-21" key="j19469512052491" to-iso="0907-06-06">唐</date>閬州長樂寺<persName key="A008822">法融</persName>傳</head><p><lb
+ed="T" n="0894c05"/><persName key="A008822">釋法融</persName>，姓嚴氏，<placeName key="PL000000036534">閬中</placeName>人也。<anchor xml:id="beg0894003"/>穉<anchor xml:id="end0894003"/>齒好朴素，惡<lb
+ed="T" n="0894c06"/>華楚之服。父訓令秉筆，便畫佛形像。至于<lb
+ed="T" n="0894c07"/>聚戲，<anchor xml:id="beg0894004"/>搏<anchor xml:id="end0894004"/>沙為塔，所作無非佛事。年甫<date key="j19982791998643" from-iso="0759-01-01" to-iso="0759-12-31">十<lb
+ed="T" n="0894c08"/>三</date>，見釋子，摳其衣坐執經卷，苦求出家。<lb
+ed="T" n="0894c09"/>依<placeName key="PL000000036518">長樂寺</placeName><persName key="A013922">慧休法師</persName>為弟子，經誦偕通，乃<lb
+ed="T" n="0894c10"/>霑戒善。遂講南山律鈔。後遊雲水，見<placeName key="PL000000023253">嵩嶽</placeName><lb
+ed="T" n="0894c11"/><persName key="A009319">普寂</persName>禪道風行，密付心印。往弋陽<placeName key="PL000000020082">福寧寺</placeName>，<lb
+ed="T" n="0894c12"/>放蕩閑居，學道者麏至。以<date key="j20260742026427" notAfter-iso="0836-01-25" notBefore-iso="0835-02-06">大和九年</date>示疾<lb
+ed="T" n="0894c13"/>而終，春秋八十九。<date key="j20260832026083" when-iso="0835-02-15">其年正月十日</date>，門人奉神<lb
+ed="T" n="0894c14"/>座入塔焉。</p>
     <linkGrp>
         <link targets="#0894c07 #0894c10"/>
         <ptr target="#A008822" type="person"/>

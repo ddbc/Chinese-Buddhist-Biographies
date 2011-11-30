@@ -1,20 +1,25 @@
 <?xml version='1.0' encoding='utf-8'?>
-<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0746a20shiXuanYue">
-    <anchor n="T.50.2061.0746a20"/><head><date from-iso="0618-06-21" key="j19469512052491" to-iso="0907-06-06">唐</date><placeName key="PL000000005021">絳州龍興寺木塔院</placeName><persName key="A009860">玄約</persName>傳</head><p>
-<lb ed="T" n="0746a21"/><persName key="A009860">釋玄約</persName>，姓張氏，<placeName key="PL000000005036">正平</placeName>人也。志韻剛潔，幼萌出
-<lb ed="T" n="0746a22"/>塵之心，既諧夙志，入州<placeName key="PL000000005020">龍興伽藍</placeName>，日誦千
-<lb ed="T" n="0746a23"/>言，更無再受。落髮之後，滿足律儀，檢察己
-<lb ed="T" n="0746a24"/>心，循其戒範，精持止作，未甞穿穴。自茲名
-<lb ed="T" n="0746a25"/>節頓高，流輩窺仰。數稔之間，律論俱贍，遍求
-        <lb ed="T" n="0746a26"/>知識，探賾<ptr target="#n331"/>玄文。戾止<placeName key="PL000000042229">長安崇聖寺</placeName>，以戒德
-<lb ed="T" n="0746a27"/>之選而預臨壇，講《律》并《俱舍》共四十餘遍，
-<lb ed="T" n="0746a28"/>淵靜其性，研覈靡虧。著《俱舍論金華鈔》二
-<lb ed="T" n="0746a29"/>十卷，為時所貴。而二講登席，可三百餘人，<pb ed="T" n="0746b" xml:id="T50.2061.0746b"/>
-        <lb ed="T" n="0746b01"/>皆北面受業焉。傳稟門生一百許輩，<placeName key="PL000000006221">汾</placeName><placeName key="PL000000004394">沁</placeName>之
-        <lb ed="T" n="0746b02"/>間奔走學者，迨乎老矣。終<ref type="place" target="#PL000000005021">本院</ref>小房，俗壽
-<lb ed="T" n="0746b03"/>七十六，法臘五十六。學法弟子道俗收焚
-<lb ed="T" n="0746b04"/>坑舍利數百粒，構甎浮圖于郡城之西焉。</p>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0746a20shiXuanYue"><lb
+n="0746a20" ed="T"/><anchor n="T.50.2061.0746a20"/><head><date from-iso="0618-06-21" key="j19469512052491" to-iso="0907-06-06">唐</date><placeName key="PL000000005021">絳州龍興寺木塔院</placeName><persName key="A009860">玄約</persName>傳</head><p><lb
+ed="T" n="0746a21"/><persName key="A009860">釋玄約</persName>，姓張氏，<placeName key="PL000000005036">正平</placeName>人也。志韻剛潔，幼萌出<lb
+ed="T" n="0746a22"/>塵之心，既諧夙志，入州<placeName key="PL000000005020">龍興伽藍</placeName>，日誦千<lb
+    ed="T" n="0746a23"/>言，更無再受。落髮之後，滿足律儀，檢察<anchor xml:id="beg0746sgsz3"/>己<anchor xml:id="end0746sgsz3"/><lb
+ed="T" n="0746a24"/>心，循其戒範，精持止、作<ptr target="#n1055"/>，未甞穿穴<ptr target="#n1056"/>。自茲名<lb
+ed="T" n="0746a25"/>節頓高，流輩窺仰。數稔之間，律、論俱贍，遍求<lb
+ed="T" n="0746a26"/>知識，探賾<ptr target="#n331"/>玄文。戾止<ptr target="#n1057"/><placeName key="PL000000042269">長安崇聖寺</placeName>，以戒德<lb
+ed="T" n="0746a27"/>之選而預臨壇，講律并《俱舍》共四十餘遍，<lb
+ed="T" n="0746a28"/>淵靜其性，研覈靡虧。著《俱舍論金華鈔》二<lb
+ed="T" n="0746a29"/>十卷，為時所貴。而二講登席，可三百餘人，<pb ed="T" n="0746b" xml:id="T50.2061.0746b"/><lb
+    ed="T" n="0746b01"/>皆<anchor xml:id="beg0746sgsz4"/>北<anchor xml:id="end0746sgsz4"/>面受業焉。傳稟門生一百許輩，<placeName key="PL000000005527">汾</placeName>、<placeName key="PL000000056003">沁</placeName>之<lb
+ed="T" n="0746b02"/>間奔走學者，迨乎老矣。終<ref type="place" target="#PL000000005021">本院</ref>小房，俗壽<lb
+ed="T" n="0746b03"/>七十六，法臘五十六。學法弟子道俗收焚<lb
+ed="T" n="0746b04"/>坑舍利數百粒，構甎浮圖于<ref type="place" target="#PL000000005037">郡城</ref>之西焉。</p>
     <linkGrp>
+        <link targets="#0746a20 #0746a20"/>
+        <ptr target="#A009860" type="person"/>
+        <ptr target="#PL000000005021" type="place"/>
+    </linkGrp>
+     <linkGrp>
         <link targets="#0746a21 #0746a21"/>
         <ptr target="#A009860" type="person"/>
         <ptr target="#PL000000005036" type="place"/>
@@ -27,11 +32,11 @@
     <linkGrp>
         <link targets="#0746a26 #0746a26"/>
         <ptr target="#A009860" type="person"/>
-        <ptr target="#PL000000042229" type="place"/>
+        <ptr target="#PL000000042269" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0746b02 #0746b03"/>
         <ptr target="#A009860" type="person"/>
-        <ptr target="#PL000000005020" type="place"/>
+        <ptr target="#PL000000005021" type="place"/>
     </linkGrp>
 </div>

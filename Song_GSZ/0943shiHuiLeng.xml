@@ -1,19 +1,19 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0787a04shiHuiLeng">
-    <anchor n="T.50.2061.0787a04"/><head><date from-iso="0923-05-18" key="j20583162063308" to-iso="0937-01-16">後唐</date>福州長慶院<persName key="A003890">慧稜</persName>傳</head><p>
-        <lb ed="T" n="0787a05"/><persName key="A003890">釋慧稜</persName>，<placeName key="PL000000012815">杭州海鹽</placeName>人也，俗姓孫氏。初誕纏紫
-<lb ed="T" n="0787a06"/>色胎衣。為童齓日，俊朗抗節，於吳苑<placeName key="PL000000009882">通玄
-<lb ed="T" n="0787a07"/>寺</placeName>登戒。已聞南方有禪學，遂遊<placeName key="PL000000017104">閩</placeName>嶺，謁<persName key="A003677">雪
-<lb ed="T" n="0787a08"/>峯</persName>，提耳指訂，頓明本性。乃述偈云：「昔時謾
-<lb ed="T" n="0787a09"/>向途中學，今日看來火裏氷。」如是親依，不
-<lb ed="T" n="0787a10"/>下峯頂，計三十許載。冥循定業，謹攝矜莊。
-<lb ed="T" n="0787a11"/><placeName key="PL000000017906">泉州</placeName>刺史<persName key="A003761">王延彬</persName>召<persName key="A003890">稜</persName>住昭慶院<!--找不到此地-->，禪子委輸，
-<lb ed="T" n="0787a12"/>唯虞後至。及於<placeName key="PL000000017164">長樂府</placeName>，居<placeName key="PL000000017203">長慶院</placeName>，二十餘
-<lb ed="T" n="0787a13"/>年，出世不減一千五百眾。<persName key="A003890">稜</persName>性地慈忍，不妄
-<lb ed="T" n="0787a14"/>許人。能反三隅，方加印可。以<date key="j20616452061645" when-iso="0932-06-28">長興三年壬
-<lb ed="T" n="0787a15"/>辰五月十七日</date>長往，春秋七十九，僧臘六十。
-<lb ed="T" n="0787a16"/>閩國王氏私誄之大師，號<persName key="A003890">超覺</persName>。塔葬皆出
-<lb ed="T" n="0787a17"/>官供。判官<persName key="A010697">林文盛</persName>為碑紀德云。</p>
+    <anchor n="T.50.2061.0787a04"/><head><date from-iso="0923-05-18" key="j20583162063308" to-iso="0937-01-16">後唐</date>福州長慶院<persName key="A003890">慧稜</persName>傳</head><p><lb
+ed="T" n="0787a05"/><persName key="A003890">釋慧稜</persName>，<placeName key="PL000000012815">杭州海鹽</placeName>人也，俗姓孫氏。初誕纏紫<lb
+ed="T" n="0787a06"/>色胎衣。為童齓日，俊朗抗節，於吳苑<placeName key="PL000000009882">通玄<lb
+ed="T" n="0787a07"/>寺</placeName>登戒。已聞南方有禪學，遂遊<placeName key="PL000000017104">閩</placeName>嶺，謁<persName key="A003677">雪<lb
+ed="T" n="0787a08"/>峯</persName>，提耳指訂，頓明本性。乃述偈云：「昔時謾<lb
+ed="T" n="0787a09"/>向途中學，今日看來火裏氷。」如是親依，不<lb
+ed="T" n="0787a10"/>下峯頂，計三十許載。冥循定業，謹攝矜莊。<lb
+ed="T" n="0787a11"/><placeName key="PL000000017906">泉州</placeName>刺史<persName key="A003761">王延彬</persName>召<persName key="A003890">稜</persName>住昭慶院<!--找不到此地-->，禪子委輸，<lb
+ed="T" n="0787a12"/>唯虞後至。及於<placeName key="PL000000017164">長樂府</placeName>，居<placeName key="PL000000017203">長慶院</placeName>，二十餘<lb
+ed="T" n="0787a13"/>年，出世不減一千五百眾。<persName key="A003890">稜</persName>性地慈忍，不妄<lb
+ed="T" n="0787a14"/>許人。能反三隅，方加印可。以<date key="j20616452061645" when-iso="0932-06-28">長興三年壬<lb
+ed="T" n="0787a15"/>辰五月十七日</date>長往，春秋七十九，僧臘六十。<lb
+ed="T" n="0787a16"/>閩國王氏私誄之大師，號<persName key="A003890">超覺</persName>。塔葬皆出<lb
+ed="T" n="0787a17"/>官供。判官<persName key="A010697">林文盛</persName>為碑紀德云。</p>
     <linkGrp>
         <link targets="#0787a06 #0787a07"/>
         <ptr target="#A003890" type="person"/>

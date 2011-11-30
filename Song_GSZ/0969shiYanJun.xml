@@ -1,19 +1,19 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0798a07shiYanJun">
-    <anchor n="T.50.2061.0798a07"/><head><date from-iso="0618-06-21" key="j19469512052491" to-iso="0907-06-06">唐</date>洪州大明寺<persName key="A010909">嚴峻</persName>傳</head><p>
-<lb ed="T" n="0798a08"/><persName key="A010909">釋嚴峻</persName>，姓樊氏，<placeName key="PL000000021026">濰州</placeName>人也。父任<placeName key="PL000000026833">硤州</placeName>長史、昭
-<lb ed="T" n="0798a09"/>王府司馬。<persName key="A010909">峻</persName>性地夷然，學習明利。<date key="j19873221987686" from-iso="0729-01-01" to-iso="0729-12-31">年及十九</date>，
-<lb ed="T" n="0798a10"/>應進士舉。倏罹荼蓼，思報劬勞，投<placeName key="PL000000025214">南陽</placeName>佛
-<lb ed="T" n="0798a11"/>寺。後抵荊州<placeName key="PL000000027018">玉泉山</placeName>蘭若，遇<persName key="A010910">真禪師</persName>，示其
-<lb ed="T" n="0798a12"/>禪觀，入城泊大雲寺<!--找不到此地-->。<persName key="A010909">峻</persName>秉持戒印，用之不
-<lb ed="T" n="0798a13"/>祁，憑附浮囊，渡之攸往。眾請臨壇，復舉
-<lb ed="T" n="0798a14"/>律之宗主，僶俛承命。忽逢<persName key="A010911">觀淨禪師</persName>，頓明
-        <lb ed="T" n="0798a15"/>心法。<date from-iso="0766-12-22" key="j20011912001238" to-iso="0767-02-07">大曆元年</date>，思往<placeName key="PL000000019385"><choice resp="sgsz"><sic>清涼</sic><corr>青原</corr></choice>山</placeName><note resp="sgsz"><placeName key="PL000000019384">廬陵</placeName>附近查無清涼山，疑為<placeName key="PL000000019385">青原山</placeName>之誤。 (cf. 新脩科分六學僧傳<ref>CBETA, X77, no. 1522, p. 114, a09</ref>)</note>，未達<placeName key="PL000000019384">廬陵</placeName>，見
-<lb ed="T" n="0798a16"/><persName key="A004865">顏魯公</persName>，一言相契，膠漆如也。<date from-iso="0767-02-08" key="j20012392001592" to-iso="0768-01-27">二年</date>春，<placeName key="PL000000019609">宜春</placeName>太
-<lb ed="T" n="0798a17"/>守俾僧正馳疏請召。<date from-iso="0769-02-15" key="j20019772002331" to-iso="0770-02-04">四年</date>春，<placeName key="PL000000018628">洪州</placeName>刺史<persName key="A000519">李華</persName>
-<lb ed="T" n="0798a18"/>員外延入<placeName key="PL000000018600">大明寺</placeName>住止。<date from-iso="0769-04-15" key="j20020362002065" to-iso="0769-05-14">三月</date>中，俄命沐浴
-<lb ed="T" n="0798a19"/>換衣，舉望空虛，合掌而逝，春秋五十九。遷
-<lb ed="T" n="0798a20"/>塔，弟子<persName key="A010921">圓約</persName>等於<placeName key="PL000000018600">寺</placeName>前大泉池立碑存焉。</p>
+    <anchor n="T.50.2061.0798a07"/><head><date from-iso="0618-06-21" key="j19469512052491" to-iso="0907-06-06">唐</date>洪州大明寺<persName key="A010909">嚴峻</persName>傳</head><p><lb
+ed="T" n="0798a08"/><persName key="A010909">釋嚴峻</persName>，姓樊氏，<placeName key="PL000000021026">濰州</placeName>人也。父任<placeName key="PL000000026833">硤州</placeName>長史、昭<lb
+ed="T" n="0798a09"/>王府司馬。<persName key="A010909">峻</persName>性地夷然，學習明利。<date key="j19873221987686" from-iso="0729-01-01" to-iso="0729-12-31">年及十九</date>，<lb
+ed="T" n="0798a10"/>應進士舉。倏罹荼蓼，思報劬勞，投<placeName key="PL000000025214">南陽</placeName>佛<lb
+ed="T" n="0798a11"/>寺。後抵荊州<placeName key="PL000000027018">玉泉山</placeName>蘭若，遇<persName key="A010910">真禪師</persName>，示其<lb
+ed="T" n="0798a12"/>禪觀，入城泊大雲寺<!--找不到此地-->。<persName key="A010909">峻</persName>秉持戒印，用之不<lb
+ed="T" n="0798a13"/>祁，憑附浮囊，渡之攸往。眾請臨壇，復舉<lb
+ed="T" n="0798a14"/>律之宗主，僶俛承命。忽逢<persName key="A010911">觀淨禪師</persName>，頓明<lb
+ed="T" n="0798a15"/>心法。<date from-iso="0766-12-22" key="j20011912001238" to-iso="0767-02-07">大曆元年</date>，思往<placeName key="PL000000019385">清涼山</placeName><ptr target="#n1155"/>，未達<placeName key="PL000000019384">廬陵</placeName>，見<lb
+ed="T" n="0798a16"/><persName key="A004865">顏魯公</persName>，一言相契，膠漆如也。<date from-iso="0767-02-08" key="j20012392001592" to-iso="0768-01-27">二年</date>春，<placeName key="PL000000019609">宜春</placeName>太<lb
+ed="T" n="0798a17"/>守俾僧正馳疏請召。<date from-iso="0769-02-15" key="j20019772002331" to-iso="0770-02-04">四年</date>春，<placeName key="PL000000018628">洪州</placeName>刺史<persName key="A000519">李華</persName><lb
+ed="T" n="0798a18"/>員外延入<placeName key="PL000000018600">大明寺</placeName>住止。<date from-iso="0769-04-15" key="j20020362002065" to-iso="0769-05-14">三月</date>中，俄命沐浴<lb
+ed="T" n="0798a19"/>換衣，舉望空虛，合掌而逝，春秋五十九。遷<lb
+ed="T" n="0798a20"/>塔，弟子<persName key="A010921">圓約</persName>等於<placeName key="PL000000018600">寺</placeName>前大泉池立碑存焉。</p>
     <linkGrp>
         <link targets="#0798a09 #0798a11"/>
         <ptr target="#A010909" type="person"/>

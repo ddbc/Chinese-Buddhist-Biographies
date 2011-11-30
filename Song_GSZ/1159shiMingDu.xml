@@ -1,22 +1,17 @@
 <?xml version='1.0' encoding='utf-8'?>
-<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0866c23shiMingDu">
-    <lb n="0866c23" ed="T"/><anchor n="T.50.2061.0866c23"/><head><anchor xml:id="beg0866c02"/>宋<anchor xml:id="end0866c02"/>高僧傳卷第<anchor xml:id="beg0866sgsz1"/>二<anchor xml:id="end0866sgsz1"/>十五</head>
-    <lb n="0866c24" ed="T"/>
-    <lb n="0866c25" ed="T"/><byline n="Author"><anchor xml:id="beg0866c03"/>宋左街天壽寺通慧大師
-        <lb n="0866c26" ed="T"/>賜紫沙門贊寧等奉　勅撰<anchor xml:id="end0866c03"/></byline>
-    <lb n="0866c27" ed="T"/><head>讀誦篇第八之<anchor xml:id="beg0866sgsz2"/>二<anchor xml:id="end0866sgsz2"/>（正傳二十一人附見五人）</head>
-        <lb n="0866c28" ed="T"/><head><date from-iso="0618-06-21" key="j19469512052491" to-iso="0907-06-06">唐</date>并州石壁寺<persName key="A013574">明度</persName>傳</head><p>
-<lb ed="T" n="0866c29"/><persName key="A013574">釋明度</persName>，未知何許人也。經論步學，三業恪<pb ed="T" n="0867a" xml:id="T50.2061.0867a"/>
-<lb ed="T" n="0867a01"/>勤。誦金剛般若資為淨分，慈濟為心。迨<date key="j19562451958296" notAfter-iso="0649" notBefore-iso="0643">貞
-<lb ed="T" n="0867a02"/>觀</date>末，有鴿巢于屋楹，乳養二雛。<persName key="A013574">度</persName>每以餘
-<lb ed="T" n="0867a03"/>粥就窠哺之，復呪之曰：「乘<persName key="A013574">我</persName>經力，羽翼速
-<lb ed="T" n="0867a04"/>成。」忽早學飛，墮地偕殞，<persName key="A013574">度</persName>乃瘞之。旬餘，夢
-        <lb ed="T" n="0867a05"/>二小兒曰：「兒等本受卵生小類，蒙<ref type="person" target="#A013574">上人</ref>為
-<lb ed="T" n="0867a06"/>養育，誦持迴向，今轉生人道，距此寺東十
-<lb ed="T" n="0867a07"/>里間某家是也。」<persName key="A013574">度</persName>默誌之，至十月滿，往訪
-<lb ed="T" n="0867a08"/>此家，男婦果㝈生二子。入視之，數日遂呼
-<lb ed="T" n="0867a09"/>曰：「鴿兒」，一時迴頭應諾。歲餘能言，皆得成
-<lb ed="T" n="0867a10"/>長。<persName key="A013574">度</persName>未知終所。</p>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0866c28shiMingDu"><lb
+n="0866c28" ed="T"/><anchor n="T.50.2061.0866c28"/><head><date from-iso="0618-06-21" key="j19469512052491" to-iso="0907-06-06">唐</date>并州石壁寺<persName key="A013574">明度</persName>傳</head><p><lb
+ed="T" n="0866c29"/><persName key="A013574">釋明度</persName>，未知何許人也。經論步學，三業恪<pb ed="T" n="0867a" xml:id="T50.2061.0867a"/><lb
+ed="T" n="0867a01"/>勤。誦金剛般若資為淨分，慈濟為心。迨<date key="j19562451958296" notAfter-iso="0649" notBefore-iso="0643">貞<lb
+ed="T" n="0867a02"/>觀</date>末，有鴿巢于屋楹，乳養二雛。<persName key="A013574">度</persName>每以餘<lb
+ed="T" n="0867a03"/>粥就窠哺之，復呪之曰：「乘<persName key="A013574">我</persName>經力，羽翼速<lb
+ed="T" n="0867a04"/>成。」忽早學飛，墮地偕殞，<persName key="A013574">度</persName>乃瘞之。旬餘，夢<lb
+ed="T" n="0867a05"/>二小兒曰：「兒等本受卵生小類，蒙<ref type="person" target="#A013574">上人</ref>為<lb
+ed="T" n="0867a06"/>養育，誦持迴向，今轉生人道，距此寺東十<lb
+ed="T" n="0867a07"/>里間某家是也。」<persName key="A013574">度</persName>默誌之，至十月滿，往訪<lb
+ed="T" n="0867a08"/>此家，男婦果㝈生二子。入視之，數日遂呼<lb
+ed="T" n="0867a09"/>曰：「鴿兒」，一時迴頭應諾。歲餘能言，皆得成<lb
+ed="T" n="0867a10"/>長。<persName key="A013574">度</persName>未知終所。</p>
     <linkGrp>
         <link targets="#0866c29 #0866c29"/>
         <ptr target="#A013574" type="person"/>

@@ -1,20 +1,21 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0858b26shiJingChao">
-    <anchor n="T.50.2061.0858b26"/><head><date from-iso="0936-12-05" key="j20632662067017" to-iso="0947-03-14">晉</date>江州廬山香積庵<persName key="A013471">景超</persName>傳</head><p>
-<lb ed="T" n="0858b27"/><persName key="A013471">釋景超</persName>，不知何許人也。素持戒範，若護
-<lb ed="T" n="0858b28"/>浮囊。性惟矢直，言不面從。及乎遊方役足，
-<lb ed="T" n="0858b29"/>選勝棲身，至于<placeName key="PL000000018775">廬峯</placeName>，便有息行之意。惟誦<pb ed="T" n="0858c" xml:id="T50.2061.0858c"/>
-<lb ed="T" n="0858c01"/>法華，鞠為恒務。<placeName key="PL000000018846">九江</placeName>之人且多景仰。甞禮
-<lb ed="T" n="0858c02"/>華嚴經一字拜之，計已二遍，乃燒一指，為
-<lb ed="T" n="0858c03"/>燈供養，慶禮經周矣。次禮法華經，同前。
-<lb ed="T" n="0858c04"/>身膚內隱隱出舍利，磊落圓瑩。或有求者，坐
-<lb ed="T" n="0858c05"/>席行地，拾之無算。<date key="j20653322066057" notAfter-iso="0944" notBefore-iso="0942">天福</date>中卒于庵中。今墳
-<lb ed="T" n="0858c06"/>塔在乎<placeName key="PL000000018775">廬阜</placeName>，遊者致禮，嗟歎而已。</p>
-    <p xml:id="pT50p0858c0701"><lb ed="T" n="0858c07"/>系曰：言遺身者必委棄全軀，如<persName key="A005335">薩埵王子</persName>
-<lb ed="T" n="0858c08"/>是歟。今以指為燈，以肱擎炷，何預斯例，
-<lb ed="T" n="0858c09"/>莫過幸否？通曰：「煉指斷肱，是遺身之加行
-<lb ed="T" n="0858c10"/>也。況復像末，尤成難事。其猶守少分之廉
-<lb ed="T" n="0858c11"/>隅入循吏傳同也。」</p>
+    <anchor n="T.50.2061.0858b26"/><head><date from-iso="0936-12-05" key="j20632662067017" to-iso="0947-03-14">晉</date>江州廬山香積庵<persName key="A013471">景超</persName>傳</head><p><lb
+ed="T" n="0858b27"/><persName key="A013471">釋景超</persName>，不知何許人也。素持戒範，若護<lb
+ed="T" n="0858b28"/>浮囊。性惟矢直，言不面從。及乎遊方役足，<lb
+ed="T" n="0858b29"/>選勝棲身，至于<placeName key="PL000000018775">廬峯</placeName>，便有息行之意。惟誦<pb ed="T" n="0858c" xml:id="T50.2061.0858c"/><lb
+ed="T" n="0858c01"/>法華，鞠為恒務。<placeName key="PL000000018846">九江</placeName>之人且多景仰。甞禮<lb
+ed="T" n="0858c02"/>華嚴經一字拜之，計已二遍，乃燒一指，為<lb
+ed="T" n="0858c03"/>燈供養，慶禮經周矣。次禮法華經，同前。<lb
+ed="T" n="0858c04"/>身膚內隱隱出舍利，磊落圓瑩。或有求者，坐<lb
+ed="T" n="0858c05"/>席行地，拾之無算。<date key="j20653322066057" notAfter-iso="0944" notBefore-iso="0942">天福</date>中卒于庵中。今墳<lb
+ed="T" n="0858c06"/>塔在乎<placeName key="PL000000018775">廬阜</placeName>，遊者致禮，嗟歎而已。</p>
+    <p xml:id="pT50p0858c0701"><lb
+ed="T" n="0858c07"/>系曰：言遺身者必委棄全軀，如<persName key="A005335">薩埵王子</persName><lb
+ed="T" n="0858c08"/>是歟。今以指為燈，以肱擎炷，何預斯例，<lb
+ed="T" n="0858c09"/>莫過幸否？通曰：「煉指斷肱，是遺身之加行<lb
+ed="T" n="0858c10"/>也。況復像末，尤成難事。其猶守少分之廉<lb
+ed="T" n="0858c11"/>隅入循吏傳同也。」</p>
     <linkGrp>
         <link targets="#0858b29 #0858c01"/>
         <ptr target="#A013471" type="person"/>

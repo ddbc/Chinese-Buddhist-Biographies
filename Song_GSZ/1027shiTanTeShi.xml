@@ -1,30 +1,25 @@
 <?xml version='1.0' encoding='utf-8'?>
-<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0820b04shiTanTeShi">
-    <lb n="0820b04" ed="T"/><anchor n="T.50.2061.0820b04"/><head><anchor xml:id="beg0820b02"/>宋<anchor xml:id="end0820b02"/>高僧傳卷第十八</head>
-    <lb n="0820b05" ed="T"/>
-    <lb n="0820b06" ed="T"/><byline n="Author"><anchor xml:id="beg0820b03"/>宋左街天壽寺通慧大師
-        <lb n="0820b07" ed="T"/>賜紫沙門贊寧等奉　勅撰<anchor xml:id="end0820b03"/></byline>
-    <lb n="0820b08" ed="T"/><head>感通篇第六之一（正傳十五人附見三人）</head>
-    <lb n="0820b09" ed="T"/><head><date from-iso="0386-02-21" key="j18620951916335" to-iso="0534-08-24">後魏</date>西涼府<persName key="A012060">檀特師</persName>傳</head><p>
-<lb ed="T" n="0820b10"/><persName key="A012060">釋檀特師</persName>者，一名<persName key="A012060">慧豐</persName>，不知何許人也。身
-<lb ed="T" n="0820b11"/>雖剃染，率略無檢制，飲酒啖肉，語默無常。
-<lb ed="T" n="0820b12"/>逆論來事，後必如言。居于<placeName key="PL000000045061">武威</placeName>，肆意狂逸。
-<lb ed="T" n="0820b13"/>時<persName key="A012061">宇文仲和</persName>為<anchor xml:id="beg0820002"/>刺<anchor xml:id="end0820002"/>史，請<persName key="A012060">之</persName>入<placeName key="PL000000045052">州</placeName>，歷觀厩
-<lb ed="T" n="0820b14"/>庫：乃云：「何意畜他官物邪？」<persName key="A012061">仲和</persName>不諭其旨，
-<lb ed="T" n="0820b15"/>怒之，不令在城。未幾，<persName key="A012061">仲和</persName>拒不受代，朝
-<lb ed="T" n="0820b16"/>延令<persName key="A012062">獨孤信</persName>擒之。<persName key="A012061">仲和</persName>身死，資財沒官。<persName key="A002055">周
-<lb ed="T" n="0820b17"/>文</persName>聞之，降書召之。<persName key="A012060">檀特</persName>至<placeName key="PL000000042853">岐州</placeName>，會<persName key="A005264">齊神武</persName>
-<lb ed="T" n="0820b18"/>來寇玉壁，<persName key="A012060">檀特</persName>曰：「狗豈能到龍門<!--找不到此地-->邪？」<persName key="A005264">神武</persName>
-<lb ed="T" n="0820b19"/>果不至龍門<!--找不到此地-->而還。<persName key="A004282">侯景</persName>未叛東魏之前，忽
-<lb ed="T" n="0820b20"/>捉一杖，杖頭刻為獼猴形，令其面常向西，
-<lb ed="T" n="0820b21"/>日夜弄旃。又索一角弓牽挽之。俄而<persName key="A004282">侯景</persName>
-<lb ed="T" n="0820b22"/>啟降，尋復背叛歸梁，皆可徵驗。至<date from-iso="0551-01-25" key="j19223331922716" to-iso="0552-02-12">大統十
-<lb ed="T" n="0820b23"/>七年</date>春初，忽著一布帽。<persName key="A002055">周文</persName>左右驚問之。
-        <lb ed="T" n="0820b24"/><persName key="A012060">檀特</persName>曰：「汝亦著，王亦著也。」至<date from-iso="0551-03-25" key="j19223921922420" to-iso="0551-04-22">三月</date>而<persName key="A002048">魏文帝</persName>
-<lb ed="T" n="0820b25"/>崩。復取一白絹帽戴之，左右復問之。<persName key="A012060">檀特</persName>
-        <lb ed="T" n="0820b26"/>曰：「汝亦著，王亦著也。」未畿<ref type="person" target="#A019426">丞相夫人</ref>薨。後復
-        <lb ed="T" n="0820b27"/>戴，問對同前，尋<ref type="person" target="#A002055">丞相</ref>第二子<ref type="person" target="#A019427">武邑公</ref>薨。其事
-<lb ed="T" n="0820b28"/>驗多如此也。俄而病卒，<persName key="A002055">周文</persName>命葬之。</p>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0820b09shiTanTeShi"><lb
+n="0820b09" ed="T"/><anchor n="T.50.2061.0820b09"/><head><date from-iso="0386-02-21" key="j18620951916335" to-iso="0534-08-24">後魏</date>西涼府<persName key="A012060">檀特師</persName>傳</head><p><lb
+ed="T" n="0820b10"/><persName key="A012060">釋檀特師</persName>者，一名<persName key="A012060">慧豐</persName>，不知何許人也。身<lb
+ed="T" n="0820b11"/>雖剃染，率略無檢制，飲酒啖肉，語默無常。<lb
+ed="T" n="0820b12"/>逆論來事，後必如言。居于<placeName key="PL000000045061">武威</placeName>，肆意狂逸。<lb
+ed="T" n="0820b13"/>時<persName key="A012061">宇文仲和</persName>為<anchor xml:id="beg0820002"/>刺<anchor xml:id="end0820002"/>史，請<persName key="A012060">之</persName>入<placeName key="PL000000045052">州</placeName>，歷觀厩<lb
+ed="T" n="0820b14"/>庫：乃云：「何意畜他官物邪？」<persName key="A012061">仲和</persName>不諭其旨，<lb
+ed="T" n="0820b15"/>怒之，不令在城。未幾，<persName key="A012061">仲和</persName>拒不受代，朝<lb
+ed="T" n="0820b16"/>延令<persName key="A012062">獨孤信</persName>擒之。<persName key="A012061">仲和</persName>身死，資財沒官。<persName key="A002055">周<lb
+ed="T" n="0820b17"/>文</persName>聞之，降書召之。<persName key="A012060">檀特</persName>至<placeName key="PL000000042853">岐州</placeName>，會<persName key="A005264">齊神武</persName><lb
+ed="T" n="0820b18"/>來寇玉壁，<persName key="A012060">檀特</persName>曰：「狗豈能到龍門<!--找不到此地-->邪？」<persName key="A005264">神武</persName><lb
+ed="T" n="0820b19"/>果不至龍門<!--找不到此地-->而還。<persName key="A004282">侯景</persName>未叛東魏之前，忽<lb
+ed="T" n="0820b20"/>捉一杖，杖頭刻為獼猴形，令其面常向西，<lb
+ed="T" n="0820b21"/>日夜弄旃。又索一角弓牽挽之。俄而<persName key="A004282">侯景</persName><lb
+ed="T" n="0820b22"/>啟降，尋復背叛歸梁，皆可徵驗。至<date from-iso="0551-01-25" key="j19223331922716" to-iso="0552-02-12">大統十<lb
+ed="T" n="0820b23"/>七年</date>春初，忽著一布帽。<persName key="A002055">周文</persName>左右驚問之。<lb
+ed="T" n="0820b24"/><persName key="A012060">檀特</persName>曰：「汝亦著，王亦著也。」至<date from-iso="0551-03-25" key="j19223921922420" to-iso="0551-04-22">三月</date>而<persName key="A002048">魏文帝</persName><lb
+ed="T" n="0820b25"/>崩。復取一白絹帽戴之，左右復問之。<persName key="A012060">檀特</persName><lb
+ed="T" n="0820b26"/>曰：「汝亦著，王亦著也。」未畿<ref type="person" target="#A019426">丞相夫人</ref>薨。後復<lb
+ed="T" n="0820b27"/>戴，問對同前，尋<ref type="person" target="#A002055">丞相</ref>第二子<ref type="person" target="#A019427">武邑公</ref>薨。其事<lb
+ed="T" n="0820b28"/>驗多如此也。俄而病卒，<persName key="A002055">周文</persName>命葬之。</p>
     <linkGrp>
         <link targets="#0820b12 #0820b12"/>
         <ptr target="#A012060" type="person"/>

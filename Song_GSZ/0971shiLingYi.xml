@@ -1,46 +1,41 @@
 <?xml version='1.0' encoding='utf-8'?>
-<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0799a18shiLingYi">
-    <lb n="0799a18" ed="T"/><anchor n="T.50.2061.0799a18"/><head><anchor xml:id="beg0799a02"/>宋<anchor xml:id="end0799a02"/>高僧傳卷第十五</head>
-    <lb n="0799a19" ed="T"/>
-    <lb n="0799a20" ed="T"/><byline n="Author"><anchor xml:id="beg0799a03"/>宋左街天壽寺通慧大師
-        <lb n="0799a21" ed="T"/>賜紫沙門贊寧等奉　勅撰<anchor xml:id="end0799a03"/></byline>
-    <lb n="0799a22" ed="T"/><head>明律篇第四之二（正傳十九人附見三人）</head>
-    <lb n="0799a23" ed="T"/><head><date from-iso="0618-06-21" key="j19469512052491" to-iso="0907-06-06">唐</date>餘杭宜豐寺<persName key="A009591">靈一</persName>傳</head><p>
-<lb ed="T" n="0799a24"/><persName key="A009591">釋靈一</persName>，姓吳氏，<placeName key="PL000000010783">廣陵</placeName>人也。神清氣和，方寸地
-<lb ed="T" n="0799a25"/>虛，與大和元精合其純粹。<date key="j19898781990243" from-iso="0736-01-01" to-iso="0736-12-31">年肇九歲</date>，僻嫌
-<lb ed="T" n="0799a26"/>朽宅，決入梵園，墮息慈之倫，稟出家之制。
-<lb ed="T" n="0799a27"/>暨乎始冠，受其具足，學習無倦，律儀是修。
-<lb ed="T" n="0799a28"/>示見談笑，欲明解脫。示人文藝，以誘世智。
-<lb ed="T" n="0799a29"/>初不計身中有我，我中有身。德全道成，緣斷<pb ed="T" n="0799b" xml:id="T50.2061.0799b"/>
-<lb ed="T" n="0799b01"/>形謝，以<date key="j19996881999688" when-iso="0762-11-10">寶應元年冬十月十六日</date>，寂滅<anchor xml:id="beg0799002"/>於<anchor xml:id="end0799002"/>
-<lb ed="T" n="0799b02"/><placeName key="PL000000011473">杭州龍興寺</placeName>，春秋三十五，凡滿十五安居。臨
-<lb ed="T" n="0799b03"/>終，顧謂弟子行茶毘法，樹小浮圖焉。時左
-<lb ed="T" n="0799b04"/>衛兵參軍<persName key="A010957">李紓</persName>、<placeName key="PL000000012751">嘉興</placeName>縣令<persName key="A010959">李湯</persName>、左金吾衛兵曹
-<lb ed="T" n="0799b05"/>參軍<persName key="A010960">獨孤及</persName>相與悼梁木之既壞，慮陵谷之
-<lb ed="T" n="0799b06"/>當遷，後之人禮應真之塔婆，昧應真之德
-        <lb ed="T" n="0799b07"/>行，故刻石<app type="multiplier" xml:id="begd1e24788"/>於<anchor xml:id="endd1e24788"/><placeName key="PL000000011567">武林山</placeName>東峯之陽也。<persName key="A009591">一</persName>家富
-<lb ed="T" n="0799b08"/>貨殖，既而削髮，推千金之產，悉讓諸孤昆
-<lb ed="T" n="0799b09"/>弟，所取者惟納衣錫杖。自爾叩<placeName key="PL000000010783">維揚</placeName><persName key="A009590">法慎
-<lb ed="T" n="0799b10"/>師</persName>，學相部律，造乎微而臻乎極。友善者<persName key="A013822">慧
-<lb ed="T" n="0799b11"/>凝</persName>、<persName key="A010879">明幽</persName>、<persName key="A001984">靈祐</persName>、<placeName key="PL000000013240">會稽</placeName><persName key="A004177">曇一</persName>、<placeName key="PL000000009723">晉陵</placeName><persName key="A010863">義宣</persName>、同門三益，作
-<lb ed="T" n="0799b12"/>者七人也。一咳唾塵境，繼日經行，宴坐必
-<lb ed="T" n="0799b13"/>擇山椒樹下。初舍于會稽山南<placeName key="PL000000013209">懸溜寺</placeName>，接
-<lb ed="T" n="0799b14"/>禪者<persName key="A010961">隱空</persName>、<persName key="A010963">乾靖</persName>，討論第一義諦。或遊<placeName key="PL000000011901">慶雲
-<lb ed="T" n="0799b15"/>寺</placeName>，復居餘抗<placeName key="PL000000011829">宜豐寺</placeName>。寺隣生丹山，門對佳
-<lb ed="T" n="0799b16"/>境，冏然獨往。暴風偃山，正智不動，巨浪沃
-<lb ed="T" n="0799b17"/>日，浮囊不飄。於是著《法性論》，以究真諦，此
-        <lb ed="T" n="0799b18"/><persName key="A009591">一</persName>之了語也。每禪誦之隙，輒賦詩歌事，思
-<lb ed="T" n="0799b19"/>入無間，興含飛動。<persName key="A010968">潘</persName><persName key="A002719">阮</persName>之遺韻，<persName key="A004634">江</persName><persName key="A001869">謝</persName>之闕
-<lb ed="T" n="0799b20"/>文，必能綴之，無愧古人。循循善誘，門弟子
-<lb ed="T" n="0799b21"/>受教，若良田之納膏雨焉。一跡不入族姓
-<lb ed="T" n="0799b22"/>之門，與<placeName key="PL000000014411">天台</placeName>道士<persName key="A010965">潘志清</persName>、<placeName key="PL000000027119">襄陽</placeName><persName key="A010966">朱放</persName>、<placeName key="PL000000025214">南陽</placeName><persName key="A010970">張
-<lb ed="T" n="0799b23"/>繼</persName>、<placeName key="PL000000045416">安定</placeName><persName key="A010971">皇甫曾</persName>、<placeName key="PL000000002485">范陽</placeName><persName key="A010972">張南史</persName>、<placeName key="PL000000009928">吳郡</placeName><persName key="A010973">陸迅</persName>、<placeName key="PL000000010400">東海</placeName><persName key="A010974">徐
-<lb ed="T" n="0799b24"/>嶷</persName>、<placeName key="PL000000028592">景陵</placeName><persName key="A010975">陸鴻漸</persName>為塵外之友，講德味道，朗詠
-<lb ed="T" n="0799b25"/>終日。其終篇必博之以文，約之以修，量其
-        <lb ed="T" n="0799b26"/>根之上下而授之藥焉。<persName key="A009591">一</persName>居寺高隅，初無
-<lb ed="T" n="0799b27"/>井泉，一旦呀然而涌，噴金砂之溜<app type="multiplier" xml:id="begd1e24842"/>於<anchor xml:id="endd1e24842"/>庭之左
-<lb ed="T" n="0799b28"/>右，挹之彌清，𣂏之無竭，蓋精至之感矣。詩
-<lb ed="T" n="0799b29"/>行<app type="multiplier" xml:id="begd1e24855"/>於<anchor xml:id="endd1e24855"/>世，有選其尤者入《間氣集》焉。</p>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0799a23shiLingYi"><lb
+n="0799a23" ed="T"/><anchor n="T.50.2061.0799a23"/><head><date from-iso="0618-06-21" key="j19469512052491" to-iso="0907-06-06">唐</date>餘杭宜豐寺<persName key="A009591">靈一</persName>傳</head><p><lb
+ed="T" n="0799a24"/><persName key="A009591">釋靈一</persName>，姓吳氏，<placeName key="PL000000010783">廣陵</placeName>人也。神清氣和，方寸地<lb
+ed="T" n="0799a25"/>虛，與大和元精合其純粹。<date key="j19898781990243" from-iso="0736-01-01" to-iso="0736-12-31">年肇九歲</date>，僻嫌<lb
+ed="T" n="0799a26"/>朽宅，決入梵園，墮息慈之倫，稟出家之制。<lb
+ed="T" n="0799a27"/>暨乎始冠，受其具足，學習無倦，律儀是修。<lb
+ed="T" n="0799a28"/>示見談笑，欲明解脫。示人文藝，以誘世智。<lb
+ed="T" n="0799a29"/>初不計身中有我，我中有身。德全道成，緣斷<pb ed="T" n="0799b" xml:id="T50.2061.0799b"/><lb
+ed="T" n="0799b01"/>形謝，以<date key="j19996881999688" when-iso="0762-11-10">寶應元年冬十月十六日</date>，寂滅<anchor xml:id="beg0799002"/>於<anchor xml:id="end0799002"/><lb
+ed="T" n="0799b02"/><placeName key="PL000000011473">杭州龍興寺</placeName>，春秋三十五，凡滿十五安居。臨<lb
+ed="T" n="0799b03"/>終，顧謂弟子行茶毘法，樹小浮圖焉。時左<lb
+ed="T" n="0799b04"/>衛兵參軍<persName key="A010957">李紓</persName>、<placeName key="PL000000012751">嘉興</placeName>縣令<persName key="A010959">李湯</persName>、左金吾衛兵曹<lb
+ed="T" n="0799b05"/>參軍<persName key="A010960">獨孤及</persName>相與悼梁木之既壞，慮陵谷之<lb
+ed="T" n="0799b06"/>當遷，後之人禮應真之塔婆，昧應真之德<lb
+ed="T" n="0799b07"/>行，故刻石<app type="multiplier" xml:id="begd1e24788"/>於<anchor xml:id="endd1e24788"/><placeName key="PL000000011567">武林山</placeName>東峯之陽也。<persName key="A009591">一</persName>家富<lb
+ed="T" n="0799b08"/>貨殖，既而削髮，推千金之產，悉讓諸孤昆<lb
+ed="T" n="0799b09"/>弟，所取者惟納衣錫杖。自爾叩<placeName key="PL000000010783">維揚</placeName><persName key="A009590">法慎<lb
+ed="T" n="0799b10"/>師</persName>，學相部律，造乎微而臻乎極。友善者<persName key="A013822">慧<lb
+ed="T" n="0799b11"/>凝</persName>、<persName key="A010879">明幽</persName>、<persName key="A001984">靈祐</persName>、<placeName key="PL000000013240">會稽</placeName><persName key="A004177">曇一</persName>、<placeName key="PL000000009723">晉陵</placeName><persName key="A010863">義宣</persName>、同門三益，作<lb
+ed="T" n="0799b12"/>者七人也。一咳唾塵境，繼日經行，宴坐必<lb
+ed="T" n="0799b13"/>擇山椒樹下。初舍于會稽山南<placeName key="PL000000013209">懸溜寺</placeName>，接<lb
+ed="T" n="0799b14"/>禪者<persName key="A010961">隱空</persName>、<persName key="A010963">乾靖</persName>，討論第一義諦。或遊<placeName key="PL000000011901">慶雲<lb
+ed="T" n="0799b15"/>寺</placeName>，復居餘抗<placeName key="PL000000011829">宜豐寺</placeName>。寺隣生丹山，門對佳<lb
+ed="T" n="0799b16"/>境，冏然獨往。暴風偃山，正智不動，巨浪沃<lb
+ed="T" n="0799b17"/>日，浮囊不飄。於是著《法性論》，以究真諦，此<lb
+ed="T" n="0799b18"/><persName key="A009591">一</persName>之了語也。每禪誦之隙，輒賦詩歌事，思<lb
+ed="T" n="0799b19"/>入無間，興含飛動。<persName key="A010968">潘</persName><persName key="A002719">阮</persName>之遺韻，<persName key="A004634">江</persName><persName key="A001869">謝</persName>之闕<lb
+ed="T" n="0799b20"/>文，必能綴之，無愧古人。循循善誘，門弟子<lb
+ed="T" n="0799b21"/>受教，若良田之納膏雨焉。一跡不入族姓<lb
+ed="T" n="0799b22"/>之門，與<placeName key="PL000000014411">天台</placeName>道士<persName key="A010965">潘志清</persName>、<placeName key="PL000000027119">襄陽</placeName><persName key="A010966">朱放</persName>、<placeName key="PL000000025214">南陽</placeName><persName key="A010970">張<lb
+ed="T" n="0799b23"/>繼</persName>、<placeName key="PL000000045416">安定</placeName><persName key="A010971">皇甫曾</persName>、<placeName key="PL000000002485">范陽</placeName><persName key="A010972">張南史</persName>、<placeName key="PL000000009928">吳郡</placeName><persName key="A010973">陸迅</persName>、<placeName key="PL000000010400">東海</placeName><persName key="A010974">徐<lb
+ed="T" n="0799b24"/>嶷</persName>、<placeName key="PL000000028592">景陵</placeName><persName key="A010975">陸鴻漸</persName>為塵外之友，講德味道，朗詠<lb
+ed="T" n="0799b25"/>終日。其終篇必博之以文，約之以修，量其<lb
+ed="T" n="0799b26"/>根之上下而授之藥焉。<persName key="A009591">一</persName>居寺高隅，初無<lb
+ed="T" n="0799b27"/>井泉，一旦呀然而涌，噴金砂之溜<app type="multiplier" xml:id="begd1e24842"/>於<anchor xml:id="endd1e24842"/>庭之左<lb
+ed="T" n="0799b28"/>右，挹之彌清，𣂏之無竭，蓋精至之感矣。詩<lb
+ed="T" n="0799b29"/>行<app type="multiplier" xml:id="begd1e24855"/>於<anchor xml:id="endd1e24855"/>世，有選其尤者入《間氣集》焉。</p>
     <linkGrp>
         <link targets="#0799b04 #0799b05"/>
         <ptr target="#A010957" type="person"/>

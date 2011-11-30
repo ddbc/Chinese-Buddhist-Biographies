@@ -1,16 +1,16 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0865a25shiChuJin">
-    <anchor n="T.50.2061.0865a25"/><head><date from-iso="0618-06-21" key="j19469512052491" to-iso="0907-06-06">唐</date>兗州泰嶽<persName key="A011837">大行</persName>傳</head><p>
-<lb ed="T" n="0865a26"/><persName key="A011837">釋大行</persName>，<placeName key="PL000000020249">齊州</placeName>人也。後入<placeName key="PL000000021580">泰山</placeName>，結草為衣，<anchor xml:id="beg0865004"/>採<anchor xml:id="end0865004"/>
-<lb ed="T" n="0865a27"/>木而食。行法華三昧，感<persName key="A003079">普賢</persName>現身。行自歎
-<lb ed="T" n="0865a28"/>曰：「命且無常，必歸磨滅，未知來世何處受
-<lb ed="T" n="0865a29"/>生！」遂入藏內信手探經，乃獲西方聖教，<pb ed="T" n="0865b" xml:id="T50.2061.0865b"/>
-<lb ed="T" n="0865b01"/>遂專心思念阿彌陀佛。三七日間，於半夜
-<lb ed="T" n="0865b02"/>時，忽覩瑠璃地，心眼洞明，見十方佛猶如
-<lb ed="T" n="0865b03"/>明鑑中像。後時詔行入內宮，寢於御殿，勅
-<lb ed="T" n="0865b04"/>賜號<persName key="A011837">常精進菩薩</persName>，受<persName key="A011837">開國公</persName>。乃示微疾，右
-<lb ed="T" n="0865b05"/>脇而終。葬後開棺，見儀貌如生，異香芬郁
-<lb ed="T" n="0865b06"/>焉。</p>
+    <anchor n="T.50.2061.0865a25"/><head><date from-iso="0618-06-21" key="j19469512052491" to-iso="0907-06-06">唐</date>兗州泰嶽<persName key="A011837">大行</persName>傳</head><p><lb
+ed="T" n="0865a26"/><persName key="A011837">釋大行</persName>，<placeName key="PL000000020249">齊州</placeName>人也。後入<placeName key="PL000000021580">泰山</placeName>，結草為衣，<anchor xml:id="beg0865004"/>採<anchor xml:id="end0865004"/><lb
+ed="T" n="0865a27"/>木而食。行法華三昧，感<persName key="A003079">普賢</persName>現身。行自歎<lb
+ed="T" n="0865a28"/>曰：「命且無常，必歸磨滅，未知來世何處受<lb
+ed="T" n="0865a29"/>生！」遂入藏內信手探經，乃獲西方聖教，<pb ed="T" n="0865b" xml:id="T50.2061.0865b"/><lb
+ed="T" n="0865b01"/>遂專心思念阿彌陀佛。三七日間，於半夜<lb
+ed="T" n="0865b02"/>時，忽覩瑠璃地，心眼洞明，見十方佛猶如<lb
+ed="T" n="0865b03"/>明鑑中像。後時詔行入內宮，寢於御殿，勅<lb
+ed="T" n="0865b04"/>賜號<persName key="A011837">常精進菩薩</persName>，受<persName key="A011837">開國公</persName>。乃示微疾，右<lb
+ed="T" n="0865b05"/>脇而終。葬後開棺，見儀貌如生，異香芬郁<lb
+ed="T" n="0865b06"/>焉。</p>
     <linkGrp>
         <link targets="#0865a26 #0865a29"/>
         <ptr target="#A011837" type="person"/>

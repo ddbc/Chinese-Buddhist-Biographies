@@ -1,18 +1,18 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0778b08shiRiZhao">
-    <anchor n="T.50.2061.0778b08"/><head><date from-iso="0618-06-21" key="j19469512052491" to-iso="0907-06-06">唐</date>衡山昂頭峯<persName key="A010544">日照</persName>傳</head><p>
-<lb ed="T" n="0778b09"/><persName key="A010544">釋日照</persName>，姓劉氏，<placeName key="PL000000042879">岐下</placeName>人也。家世豪盛，幼承
-<lb ed="T" n="0778b10"/>庭訓，博覽經籍，復於<persName key="A002718">莊</persName><persName key="A002104">老</persName>，而宿慧發揮，思
-<lb ed="T" n="0778b11"/>從釋子。即往<placeName key="PL000000042218">長安大興善寺</placeName><persName key="A010545">曇光法師</persName>下，稟
-<lb ed="T" n="0778b12"/>學納戒，傳受經法，靡所不精。因遊<placeName key="PL000000023253">嵩嶽</placeName>，
-<lb ed="T" n="0778b13"/>問圓通之訣，欣然趨入。後遊<placeName key="PL000000028928">南嶽</placeName>，登<placeName key="PL000000028930">昂頭
-<lb ed="T" n="0778b14"/>峯</placeName>，直拔蒼翠，便有終焉之志。庵居二十載，
-<lb ed="T" n="0778b15"/>屬<date from-iso="0841" key="j20282682030170" to-iso="0846">會昌</date><persName key="A006570">武宗</persName>毀教，<persName key="A010544">照</persName>深入巖窟，飯栗飲流
-<lb ed="T" n="0778b16"/>而延喘息。<date from-iso="0847" key="j20304612035056" to-iso="0859">大中</date><persName key="A003667">宣宗</persName>重興佛法，率徒六十
-<lb ed="T" n="0778b17"/>許人還就<placeName key="PL000000028930">昂頭山</placeName>舊基，結苫蓋，構舍宇。復
-<lb ed="T" n="0778b18"/>居一十五年，學人波委。<date from-iso="0860" key="j20355242040147" to-iso="0873">咸通中</date>示滅，春秋一
-<lb ed="T" n="0778b19"/>百八歲。至<date key="j20359692035969" when-iso="0862-03-11">三年二月三日</date>入塔，立碑存焉。
-<lb ed="T" n="0778b20"/>天下謂其禪學為昂頭照是歟。</p>
+    <anchor n="T.50.2061.0778b08"/><head><date from-iso="0618-06-21" key="j19469512052491" to-iso="0907-06-06">唐</date>衡山昂頭峯<persName key="A010544">日照</persName>傳</head><p><lb
+ed="T" n="0778b09"/><persName key="A010544">釋日照</persName>，姓劉氏，<placeName key="PL000000042879">岐下</placeName>人也。家世豪盛，幼承<lb
+ed="T" n="0778b10"/>庭訓，博覽經籍，復於<persName key="A002718">莊</persName><persName key="A002104">老</persName>，而宿慧發揮，思<lb
+ed="T" n="0778b11"/>從釋子。即往<placeName key="PL000000042218">長安大興善寺</placeName><persName key="A010545">曇光法師</persName>下，稟<lb
+ed="T" n="0778b12"/>學納戒，傳受經法，靡所不精。因遊<placeName key="PL000000023253">嵩嶽</placeName>，<lb
+ed="T" n="0778b13"/>問圓通之訣，欣然趨入。後遊<placeName key="PL000000028928">南嶽</placeName>，登<placeName key="PL000000028930">昂頭<lb
+ed="T" n="0778b14"/>峯</placeName>，直拔蒼翠，便有終焉之志。庵居二十載，<lb
+ed="T" n="0778b15"/>屬<date from-iso="0841" key="j20282682030170" to-iso="0846">會昌</date><persName key="A006570">武宗</persName>毀教，<persName key="A010544">照</persName>深入巖窟，飯栗飲流<lb
+ed="T" n="0778b16"/>而延喘息。<date from-iso="0847" key="j20304612035056" to-iso="0859">大中</date><persName key="A003667">宣宗</persName>重興佛法，率徒六十<lb
+ed="T" n="0778b17"/>許人還就<placeName key="PL000000028930">昂頭山</placeName>舊基，結苫蓋，構舍宇。復<lb
+ed="T" n="0778b18"/>居一十五年，學人波委。<date from-iso="0860" key="j20355242040147" to-iso="0873">咸通中</date>示滅，春秋一<lb
+ed="T" n="0778b19"/>百八歲。至<date key="j20359692035969" when-iso="0862-03-11">三年二月三日</date>入塔，立碑存焉。<lb
+ed="T" n="0778b20"/>天下謂其禪學為昂頭照是歟。</p>
         <linkGrp>
             <link targets="#0778b11 #0778b12"/>
             <ptr target="#A010544" type="person"/>

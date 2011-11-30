@@ -1,23 +1,23 @@
 <?xml version='1.0' encoding='utf-8'?>
-<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0721b14shiLianHua">
-    <lb ed="T" n="0721b14"/><anchor n="T.50.2061.0721b14"/><head><date from-iso="0618-06-21" key="j19469512052491" to-iso="0907-06-06">唐</date><persName key="A009161">蓮華</persName>傳</head><p>
-<lb ed="T" n="0721b15"/><persName key="A009161">釋蓮華</persName>，本<placeName key="PL000000048208">中印度</placeName>人也。以<date from-iso="0784-01-31" key="j20074402007823" to-iso="0785-02-17">興元元年</date>杖錫
-<lb ed="T" n="0721b16"/>謁<persName key="A004215">德宗</persName>，乞鐘一口歸<placeName key="PL000000048207">天竺</placeName>聲擊。勅<placeName key="PL000000030464">廣州</placeName>
-        <lb ed="T" n="0721b17"/>節度使<persName key="A009171">李復</persName>修鼓鑄畢，令送於<placeName key="PL000000048218">南天竺金<anchor xml:id="beg0721sgsz4"/>堆<anchor xml:id="end0721sgsz4"/>
-            <lb ed="T" n="0721b18"/>寺</placeName>。<persName key="A009161">華</persName>乃將此鐘於<placeName key="PL000000048220">寶軍國毘盧遮那塔所</placeName>
-<lb ed="T" n="0721b19"/>安置。後以《華嚴》後分梵夾附舶來，為信者
-        <lb ed="T" n="0721b20"/><persName key="A000993">般若三藏</persName>於<placeName key="PL000000042324">崇福寺</placeName>翻成四十卷焉。一云，
-        <lb ed="T" n="0721b21"/>梵夾本是<placeName key="PL000000048336">南天竺烏荼國</placeName>王<ptr target="#n389"/>書獻<placeName key="PL000000000106"><anchor xml:id="beg0721sgsz5"/>支<anchor xml:id="end0721sgsz5"/>那</placeName>天子，
-        <lb ed="T" n="0721b22"/>書云<ptr target="#n390"/>：「手自書寫《華嚴經》百千偈中所說<persName key="A007249">善財
-            <lb ed="T" n="0721b23"/>童子</persName>、五十五聖者善知識<ptr target="#n391"/>〈入不思議解脫境
-        <lb ed="T" n="0721b24"/>界普賢行願品〉，謹奉進上，願於龍華會<ptr target="#n392"/>中
-<lb ed="T" n="0721b25"/>奉覲云」，即<date from-iso="0795-01-30" key="j20114572011840" to-iso="0796-02-17">貞元十一年</date>也。至<date from-iso="0796-07-13" key="j20119872012016" to-iso="0796-08-11">十二年六月</date>，詔
-        <lb ed="T" n="0721b26"/>於<placeName key="PL000000042324">崇福寺</placeName>翻譯，<placeName key="PL000000055418">罽賓</placeName>沙門<persName key="A000993">般若</persName>宣梵文，<placeName key="PL000000023564">洛
-            <lb ed="T" n="0721b27"/>京天宮寺</placeName><persName key="A009165">廣濟</persName>譯語，<placeName key="PL000000042216">西明寺</placeName><persName key="A001417">圓照</persName>筆受<ptr target="#n53"/>，<persName key="A009170">智柔</persName>、
-        <lb ed="T" n="0721b28"/><persName key="A010445">智通</persName>綴文，<placeName key="PL000000034766">成都府正覺寺</placeName><persName key="A009167">道恒</persName>、<persName key="A009169">鑒虛</persName>潤文<ptr target="#n70"/>，<placeName key="PL000000042321">千
-            <lb ed="T" n="0721b29"/>福寺</placeName><persName key="A002108">大通</persName>證義<ptr target="#n54"/>，<persName key="A001755">澄觀</persName>、<persName key="A004375">靈邃</persName>詳定，神策軍護軍<pb ed="T" n="0721c" xml:id="T50.2061.0721c"/>
-<lb ed="T" n="0721c01"/>中尉<persName key="A009163">霍仙鳴</persName>、左街功德使<persName key="A009162">竇文場</persName>寫進，<date from-iso="0798-02-25" key="j20125792012607" to-iso="0798-03-25">十四
-<lb ed="T" n="0721c02"/>年二月</date>解座。</p>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0721b14shiLianHua"><lb
+ed="T" n="0721b14"/><anchor n="T.50.2061.0721b14"/><head><date from-iso="0618-06-21" key="j19469512052491" to-iso="0907-06-06">唐</date><persName key="A009161">蓮華</persName>傳</head><p><lb
+ed="T" n="0721b15"/><persName key="A009161">釋蓮華</persName>，本<placeName key="PL000000048208">中印度</placeName>人也。以<date from-iso="0784-01-31" key="j20074402007823" to-iso="0785-02-17">興元元年</date>杖錫<lb
+ed="T" n="0721b16"/>謁<persName key="A004215">德宗</persName>，乞鐘一口歸<placeName key="PL000000048207">天竺</placeName>聲擊。勅<placeName key="PL000000030464">廣州</placeName><lb
+ed="T" n="0721b17"/>節度使<persName key="A009171">李復</persName>修鼓鑄畢，令送於<placeName key="PL000000048218">南天竺金<anchor xml:id="beg0721sgsz4"/>堆<anchor xml:id="end0721sgsz4"/><lb
+ed="T" n="0721b18"/>寺</placeName>。<persName key="A009161">華</persName>乃將此鐘於<placeName key="PL000000048220">寶軍國毘盧遮那塔所</placeName><lb
+ed="T" n="0721b19"/>安置。後以《華嚴》後分梵夾附舶來，為信者<lb
+ed="T" n="0721b20"/><persName key="A000993">般若三藏</persName>於<placeName key="PL000000042324">崇福寺</placeName>翻成四十卷焉。一云，<lb
+ed="T" n="0721b21"/>梵夾本是<placeName key="PL000000048336">南天竺烏荼國</placeName>王<ptr target="#n389"/>書獻<placeName key="PL000000000106"><anchor xml:id="beg0721sgsz5"/>支<anchor xml:id="end0721sgsz5"/>那</placeName>天子，<lb
+ed="T" n="0721b22"/>書云<ptr target="#n390"/>：「手自書寫《華嚴經》百千偈中所說<persName key="A007249">善財<lb
+ed="T" n="0721b23"/>童子</persName>、五十五聖者善知識<ptr target="#n391"/>〈入不思議解脫境<lb
+ed="T" n="0721b24"/>界普賢行願品〉，謹奉進上，願於龍華會<ptr target="#n392"/>中<lb
+ed="T" n="0721b25"/>奉覲云」，即<date from-iso="0795-01-30" key="j20114572011840" to-iso="0796-02-17">貞元十一年</date>也。至<date from-iso="0796-07-13" key="j20119872012016" to-iso="0796-08-11">十二年六月</date>，詔<lb
+ed="T" n="0721b26"/>於<placeName key="PL000000042324">崇福寺</placeName>翻譯，<placeName key="PL000000055418">罽賓</placeName>沙門<persName key="A000993">般若</persName>宣梵文，<placeName key="PL000000023564">洛<lb
+ed="T" n="0721b27"/>京天宮寺</placeName><persName key="A009165">廣濟</persName>譯語，<placeName key="PL000000042216">西明寺</placeName><persName key="A001417">圓照</persName>筆受<ptr target="#n53"/>，<persName key="A009170">智柔</persName>、<lb
+ed="T" n="0721b28"/><persName key="A010445">智通</persName>綴文，<placeName key="PL000000034766">成都府正覺寺</placeName><persName key="A009167">道恒</persName>、<persName key="A009169">鑒虛</persName>潤文<ptr target="#n70"/>，<placeName key="PL000000042321">千<lb
+ed="T" n="0721b29"/>福寺</placeName><persName key="A002108">大通</persName>證義<ptr target="#n54"/>，<persName key="A001755">澄觀</persName>、<persName key="A004375">靈邃</persName>詳定，神策軍護軍<pb ed="T" n="0721c" xml:id="T50.2061.0721c"/><lb
+ed="T" n="0721c01"/>中尉<persName key="A009163">霍仙鳴</persName>、左街功德使<persName key="A009162">竇文場</persName>寫進，<date from-iso="0798-02-25" key="j20125792012607" to-iso="0798-03-25">十四<lb
+ed="T" n="0721c02"/>年二月</date>解座。</p>
     <linkGrp>
         <link targets="#0721b15 #0721b15"/>
         <ptr target="#A009161" type="person"/>

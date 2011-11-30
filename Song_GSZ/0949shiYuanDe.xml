@@ -1,20 +1,20 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0789a05shiYuanDe">
-    <anchor n="T.50.2061.0789a05"/><head><date from-iso="0960-02-09" key="j20717322132856" to-iso="1127-06-18">宋</date>廬山圓通院<persName key="A010755">緣德</persName>傳</head><p>
-<lb ed="T" n="0789a06"/><persName key="A010755">釋緣德</persName>，俗姓黃，<placeName key="PL000000011520">錢塘</placeName>人也。父<persName key="A010756">超</persName>修學儒術，而
-<lb ed="T" n="0789a07"/>長於繢畫，傳<persName key="A010757">周昉</persName>佛粉本，受筆法於<placeName key="PL000000013012">吳興</placeName>
-<lb ed="T" n="0789a08"/><persName key="A010759">李沼</persName>長史。<persName key="A010755">德</persName>幼有出家之志，心性孤僻而寡
-<lb ed="T" n="0789a09"/>合，遂往<placeName key="PL000000014411">天台</placeName>受具，習禪法於<placeName key="PL000000011435">天龍寺</placeName><persName key="A010691">道怤
-<lb ed="T" n="0789a10"/>禪師</persName>。尋往<placeName key="PL000000018571">江西</placeName>問道，自雲居往<placeName key="PL000000018775">廬阜</placeName>，孤
-<lb ed="T" n="0789a11"/>節高岸，實不見有所欲。江南國主<persName key="A006600">李氏</persName>召
-<lb ed="T" n="0789a12"/>入內道場<!--找不到此地-->安置，慮其不群，別構羅漢院<!--找不到此地-->處
-<lb ed="T" n="0789a13"/>之。苦求入山，請住<placeName key="PL000000018775">廬山</placeName>新院，乃列威儀導
-<lb ed="T" n="0789a14"/>引焉。<persName key="A010755">德</persName>且裝衣荷擔而入，然後升座，對答參
-<lb ed="T" n="0789a15"/>問焉。其國主賜賚，未嘗以表牋報謝。有國
-<lb ed="T" n="0789a16"/>老<persName key="A004061">宋齊丘</persName>者，禮以師道。以<date from-iso="0968" key="j20749702077860" to-iso="0976">開寶</date>中卒于山
-<lb ed="T" n="0789a17"/>院。<persName key="A010755">德</persName>一生服用，熟韋袴襪而已。行杜多法，
-<lb ed="T" n="0789a18"/>供億諸禪侶，厨無匱乏。或謂<persName key="A010755">德</persName>有黃白術
-<lb ed="T" n="0789a19"/>焉。</p>
+    <anchor n="T.50.2061.0789a05"/><head><date from-iso="0960-02-09" key="j20717322132856" to-iso="1127-06-18">宋</date>廬山圓通院<persName key="A010755">緣德</persName>傳</head><p><lb
+ed="T" n="0789a06"/><persName key="A010755">釋緣德</persName>，俗姓黃，<placeName key="PL000000011520">錢塘</placeName>人也。父<persName key="A010756">超</persName>修學儒術，而<lb
+ed="T" n="0789a07"/>長於繢畫，傳<persName key="A010757">周昉</persName>佛粉本，受筆法於<placeName key="PL000000013012">吳興</placeName><lb
+ed="T" n="0789a08"/><persName key="A010759">李沼</persName>長史。<persName key="A010755">德</persName>幼有出家之志，心性孤僻而寡<lb
+ed="T" n="0789a09"/>合，遂往<placeName key="PL000000014411">天台</placeName>受具，習禪法於<placeName key="PL000000011435">天龍寺</placeName><persName key="A010691">道怤<lb
+ed="T" n="0789a10"/>禪師</persName>。尋往<placeName key="PL000000018571">江西</placeName>問道，自雲居往<placeName key="PL000000018775">廬阜</placeName>，孤<lb
+ed="T" n="0789a11"/>節高岸，實不見有所欲。江南國主<persName key="A006600">李<roleName>氏</roleName></persName>召<lb
+ed="T" n="0789a12"/>入內道場<!--找不到此地-->安置，慮其不群，別構羅漢院<!--找不到此地-->處<lb
+ed="T" n="0789a13"/>之。苦求入山，請住<placeName key="PL000000018775">廬山</placeName>新院，乃列威儀導<lb
+ed="T" n="0789a14"/>引焉。<persName key="A010755">德</persName>且裝衣荷擔而入，然後升座，對答參<lb
+ed="T" n="0789a15"/>問焉。其國主賜賚，未嘗以表牋報謝。有國<lb
+ed="T" n="0789a16"/>老<persName key="A004061">宋齊丘</persName>者，禮以師道。以<date from-iso="0968" key="j20749702077860" to-iso="0976">開寶</date>中卒于山<lb
+ed="T" n="0789a17"/>院。<persName key="A010755">德</persName>一生服用，熟韋袴襪而已。行杜多法，<lb
+ed="T" n="0789a18"/>供億諸禪侶，厨無匱乏。或謂<persName key="A010755">德</persName>有黃白術<lb
+ed="T" n="0789a19"/>焉。</p>
     <linkGrp>
         <link targets="#0789a06 #0789a06"/>
         <ptr target="#A010755" type="person"/>

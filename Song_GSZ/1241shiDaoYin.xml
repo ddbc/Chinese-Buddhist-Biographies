@@ -1,19 +1,19 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0891b06shiDaoYin">
-    <anchor n="T.50.2061.0891b06"/><head><date from-iso="0618-06-21" key="j19469512052491" to-iso="0907-06-06">唐</date>寧州南山二聖院<persName key="A013867">道隱</persName>傳</head><p>
-<lb ed="T" n="0891b07"/><persName key="A013867">釋道隱</persName>，姓王氏，<placeName key="PL000000045839">彭原</placeName>人也。風宇高峙，情性宏
-<lb ed="T" n="0891b08"/>淡。少脫塵勞，誓從沖漠。既循師範，因願遊
-<lb ed="T" n="0891b09"/>方，得<persName key="A005612">荷澤師</persName>頓明心要。迨旋鄉土，道聲洋
-<lb ed="T" n="0891b10"/>洋，慕其法者，若登<placeName key="PL000000043552">華陰</placeName>之市也。匪召員
-<lb ed="T" n="0891b11"/>臻，檀施豐洽，欝成精舍焉。以<date key="j20053142005343" notAfter-iso="0778-05-05" notBefore-iso="0778-04-06">大曆十三年
-<lb ed="T" n="0891b12"/>三月</date>晦囑累四部，從於中夜趺坐而終，春
-<lb ed="T" n="0891b13"/>秋七十二，法臘三十五。弟子<persName key="A013868">辯真</persName>建塔緘藏
-<lb ed="T" n="0891b14"/>焉。今師資二座全身不朽矣。議者以為得道
-<lb ed="T" n="0891b15"/>真正，其器亦然，譬猶鍊丹之鼎，藥成鼎亦化
-<lb ed="T" n="0891b16"/>金矣。在華嚴有諸菩薩成就如虛空忍，
-<lb ed="T" n="0891b17"/>得無來身，以無去故。得不生身，以不滅
-<lb ed="T" n="0891b18"/>故。得不聚身，以無散壞故。其<persName key="A013867">隱師</persName>之謂
-<lb ed="T" n="0891b19"/>歟！</p>
+    <anchor n="T.50.2061.0891b06"/><head><date from-iso="0618-06-21" key="j19469512052491" to-iso="0907-06-06">唐</date>寧州南山二聖院<persName key="A013867">道隱</persName>傳</head><p><lb
+ed="T" n="0891b07"/><persName key="A013867">釋道隱</persName>，姓王氏，<placeName key="PL000000045839">彭原</placeName>人也。風宇高峙，情性宏<lb
+ed="T" n="0891b08"/>淡。少脫塵勞，誓從沖漠。既循師範，因願遊<lb
+ed="T" n="0891b09"/>方，得<persName key="A005612">荷澤師</persName>頓明心要。迨旋鄉土，道聲洋<lb
+ed="T" n="0891b10"/>洋，慕其法者，若登<placeName key="PL000000043552">華陰</placeName>之市也。匪召員<lb
+ed="T" n="0891b11"/>臻，檀施豐洽，欝成精舍焉。以<date key="j20053142005343" notAfter-iso="0778-05-05" notBefore-iso="0778-04-06">大曆十三年<lb
+ed="T" n="0891b12"/>三月</date>晦囑累四部，從於中夜趺坐而終，春<lb
+ed="T" n="0891b13"/>秋七十二，法臘三十五。弟子<persName key="A013868">辯真</persName>建塔緘藏<lb
+ed="T" n="0891b14"/>焉。今師資二座全身不朽矣。議者以為得道<lb
+ed="T" n="0891b15"/>真正，其器亦然，譬猶鍊丹之鼎，藥成鼎亦化<lb
+ed="T" n="0891b16"/>金矣。在華嚴有諸菩薩成就如虛空忍，<lb
+ed="T" n="0891b17"/>得無來身，以無去故。得不生身，以不滅<lb
+ed="T" n="0891b18"/>故。得不聚身，以無散壞故。其<persName key="A013867">隱師</persName>之謂<lb
+ed="T" n="0891b19"/>歟！</p>
     <linkGrp>
         <link targets="#0891b07 #0891b08"/>
         <ptr target="#A013867" type="person"/>

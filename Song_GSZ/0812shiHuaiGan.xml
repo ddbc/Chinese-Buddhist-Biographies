@@ -1,22 +1,27 @@
 <?xml version='1.0' encoding='utf-8'?>
-<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0738c11shiHuaiGan">
-    <anchor n="T.50.2061.0738c11"/><head><date from-iso="0618-06-21" key="j19469512052491" to-iso="0907-06-06">唐</date><placeName key="PL000000042321">京師千福寺</placeName><persName key="A001901">懷感</persName>傳</head><p>
-<lb ed="T" n="0738c12"/><persName key="A001901">釋懷感</persName>，不知何許人也。秉持強悍，精苦從
-<lb ed="T" n="0738c13"/>師，義不入神，未以為得。四方同好就霧市
-<lb ed="T" n="0738c14"/>焉，唯不信念佛。少時逕生安養，疑氷未冸，
-<lb ed="T" n="0738c15"/>遂謁<persName key="A001349">善導</persName>，用決猶豫。<persName key="A001349">導</persName>曰：「<persName key="A001901">子</persName>傳教度人，為
-<lb ed="T" n="0738c16"/>信後講，為渺茫無詣？」<persName key="A001901">感</persName>曰：「諸佛誠言，不信
-<lb ed="T" n="0738c17"/>不講。」<persName key="A001349">導</persName>曰：「若如所見，令念佛往生。豈是魔
-<lb ed="T" n="0738c18"/>說耶？<persName key="A001901">子</persName>若信之，至心念<anchor xml:id="beg0738004"/>佛<anchor xml:id="end0738004"/>，當有證驗。」乃入
-        <lb ed="T" n="0738c19"/>道場三七日，不覩靈瑞。<persName key="A001901">感</persName>自恨罪障深，欲
-<lb ed="T" n="0738c20"/>絕食畢命。<persName key="A001349">導</persName>不許，遂令精虔，三年念佛。後
-<lb ed="T" n="0738c21"/>忽感靈瑞，見金色玉毫，便證念佛三昧。悲
-<lb ed="T" n="0738c22"/>恨宿垢業重，妄搆眾愆，懺悔發露，乃述《決疑
-<lb ed="T" n="0738c23"/>論》七卷（即《群疑論》是也）。臨終，果有化佛來迎，合掌面
-<lb ed="T" n="0738c24"/>西而往矣。</p>
-    <linkGrp>
-        <link targets="#0738c15 #0738c20"/>
-        <ptr target="#A001901" type="person"/>
-        <ptr target="#A001349" type="person"/>
-    </linkGrp>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0738c11shiHuaiGan"><lb
+ed="T" n="0738c11"/><anchor n="T.50.2061.0738c11"/><head><date from-iso="0618-06-21" key="j19469512052491" to-iso="0907-06-06">唐</date><placeName key="PL000000042321">京師千福寺</placeName><persName key="A001901">懷感</persName>傳</head><p><lb
+ed="T" n="0738c12"/><persName key="A001901">釋懷感</persName>，不知何許人也。秉持強悍，精苦從<lb
+ed="T" n="0738c13"/>師，義不入神，未以為得。四方同好就霧市<ptr target="#n842"/><lb
+ed="T" n="0738c14"/>焉，唯不信念佛。少時逕生安養<ptr target="#n843"/>，疑氷未冸，<lb
+ed="T" n="0738c15"/>遂謁<persName key="A001349">善導</persName>，用決猶豫。<persName key="A001349">導</persName>曰：「<ref type="person" target="#A001901">子</ref>傳教度人，為<lb
+ed="T" n="0738c16"/>信後講，為渺茫無詣？」<persName key="A001901">感</persName>曰：「諸佛誠言，不信<lb
+ed="T" n="0738c17"/>不講。」<persName key="A001349">導</persName>曰：「若如所見，令念佛往生。豈是魔<lb
+ed="T" n="0738c18"/>說耶？<ref type="person" target="#A001901">子</ref>若信之，至心念<anchor xml:id="beg0738004"/>佛<anchor xml:id="end0738004"/>，當有證驗。」乃入<lb
+ed="T" n="0738c19"/>道場三七日，不覩靈瑞。<persName key="A001901">感</persName>自恨罪障深，欲<lb
+ed="T" n="0738c20"/>絕食畢命。<persName key="A001349">導</persName>不許，遂令精虔，三年念佛。後<lb
+ed="T" n="0738c21"/>忽感靈瑞，見金色玉毫，便證念佛三昧<ptr target="#n845"/>。悲<lb
+ed="T" n="0738c22"/>恨宿垢業重，妄搆眾愆，懺悔發露，乃述《決疑<lb
+ed="T" n="0738c23"/>論》七卷（即《群疑論》是也）。臨終，果有化佛<ptr target="#n846"/>來迎，合掌面<lb
+ed="T" n="0738c24"/>西而往矣。</p>
+        <linkGrp>
+                <link targets="#0738c11 #0738c11"/>
+                <ptr target="#A001901" type="person"/>
+                <ptr target="#PL000000042321" type="place"/>
+        </linkGrp>
+        <linkGrp>
+                <link targets="#0738c15 #0738c20"/>
+                <ptr target="#A001901" type="person"/>
+                <ptr target="#A001349" type="person"/>
+        </linkGrp>
 </div>

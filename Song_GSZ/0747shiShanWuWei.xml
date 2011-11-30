@@ -1,166 +1,161 @@
 <?xml version='1.0' encoding='utf-8'?>
-<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0714b02shiShanWuWei">
-    <lb n="0714b02" ed="T"/><anchor n="T.50.2061.0714b02"/><head><anchor xml:id="beg0714002"/>宋<anchor xml:id="end0714002"/>高僧傳卷第二</head>
-    <lb n="0714b03" ed="T"/>
-    <lb n="0714b04" ed="T"/><byline n="Author"><anchor xml:id="beg0714003"/>宋左街天壽寺通慧大師
-        <lb n="0714b05" ed="T"/>賜紫沙門贊寧等奉　勅撰<anchor xml:id="end0714003"/></byline>
-    <lb n="0714b06" ed="T"/><head>譯經篇第一之二（正傳十五人附見八人）</head>
-    <lb ed="T" n="0714b07"/><head><date from-iso="0618-06-21" key="j19469512052491" to-iso="0907-06-06">唐</date><placeName key="PL000000023661">洛京聖善寺</placeName><persName key="A001342">善無畏</persName>傳（<persName key="A008849">達摩掬多</persName>）</head><p>
-<lb ed="T" n="0714b08"/><persName key="A001342">釋善無畏</persName>，本<placeName key="PL000000048208">中印度</placeName>人也，<persName key="A002799">釋迦如來</persName>季父<persName key="A002576">甘露
-<lb ed="T" n="0714b09"/>飯王</persName>之後，梵名<persName key="A001342">戍婆揭羅僧訶</persName>，華言<persName key="A001342">淨師子</persName>，
-<lb ed="T" n="0714b10"/>義翻為<persName key="A001342">善無畏</persName>；一云<persName key="A001342">輸波迦羅</persName>，此名<persName key="A001342">無畏</persName>，
-<lb ed="T" n="0714b11"/>亦義翻也。其先自<placeName key="PL000000048208">中天竺</placeName>，因國難分王<placeName key="PL000000048336">烏
-<lb ed="T" n="0714b12"/>荼</placeName>。父曰<persName key="A017869">佛手王</persName>，以<persName key="A001342">畏</persName>生有神姿，宿齎德藝，
-<lb ed="T" n="0714b13"/>故歷試焉。<date key="j19570101957374" from-iso="0646-01-04" to-iso="0647-01-03">十歲</date>統戎，<date key="j19581061958470" from-iso="0649-01-04" to-iso="0650-01-03">十三</date>嗣位，得軍民之
-        <lb ed="T" n="0714b14"/>情。昆弟嫉能，稱兵<ptr target="#n172"/>構亂，鬩牆斯甚。薄伐臨
-        <lb ed="T" n="0714b15"/>戎，流矢及身，掉輪<ptr target="#n173"/>傷頂。天倫<ptr target="#n174"/>既敗，軍法宜
-<lb ed="T" n="0714b16"/>誅，大義滅親，忍而曲赦。乃抆淚白母，及告
-<lb ed="T" n="0714b17"/>群臣曰：「向者親征，恩已斷矣。今欲讓國，全
-        <lb ed="T" n="0714b18"/>其義焉。」因致位於兄，固求入道。母哀許之<ptr target="#n175"/>，
-        <lb ed="T" n="0714b19"/>密與傳國寶珠，猶諸侯之分器<ptr target="#n176"/>也。南至海
-        <lb ed="T" n="0714b20"/>濱，遇殊勝招提<ptr target="#n177"/>，得法華三昧<ptr target="#n178"/>。聚沙為塔，僅
-<lb ed="T" n="0714b21"/>一萬所。黑蛇傷指而無退息。復寄身商船，
-<lb ed="T" n="0714b22"/>往遊諸國，密修禪誦，口放白光。無風三日，
-        <lb ed="T" n="0714b23"/>舟行萬里。屬商人遇盜，危於併命<ptr target="#n179"/>。<persName key="A001342">畏</persName>恤其
-<lb ed="T" n="0714b24"/>徒侶，默諷真言。<persName key="A004093">七俱胝尊</persName>全現身相，群盜
-        <lb ed="T" n="0714b25"/>果為他寇所殲。寇乃露罪歸依，指蹤<ptr target="#n180"/>夷險。
-<lb ed="T" n="0714b26"/>尋越窮荒，又逾毒水，纔至<placeName key="PL000000048208">中天竺</placeName>境，即遇
-<lb ed="T" n="0714b27"/>其王。王之夫人，乃<persName key="A001342">畏</persName>之女兄也，因問捨位之
-<lb ed="T" n="0714b28"/>由，稱歎不足。是日携手同歸，慈雲布陰，一
-        <lb ed="T" n="0714b29"/>境丕變。<persName key="A001342">畏</persName>風儀爽俊，聰叡超群，解究五乘<ptr target="#n181"/>，<pb ed="T" n="0714c" xml:id="T50.2061.0714c"/>
-        <lb ed="T" n="0714c01"/>道該三學<ptr target="#n182"/>，總持、禪觀<ptr target="#n183"/>，妙達其源。藝術伎能，悉
-<lb ed="T" n="0714c02"/>聞精練。初詣<placeName key="PL000000048272">那爛陀寺</placeName>，此云<placeName key="PL000000048272">施無厭</placeName>也，像
-        <lb ed="T" n="0714c03"/>法<ptr target="#n184"/>之泉源，眾聖之會府。<persName key="A001342">畏</persName>乃捨傳國寶珠瑩
-        <lb ed="T" n="0714c04"/>于大像之額，晝如月魄<ptr target="#n185"/>，夜若曦輪<ptr target="#n186"/>焉。<ref target="#PL000000048272" type="place">寺</ref>有
-        <lb ed="T" n="0714c05"/><persName key="A008849">達摩掬多</persName>者，掌定門<ptr target="#n187"/>之祕鑰，<app type="cb-app" xml:id="begd1e1657"/>佩<anchor xml:id="endd1e1657"/>如來之密
-        <lb ed="T" n="0714c06"/>印<ptr target="#n188"/>，顏如四十許，其實八百歲也，<persName key="A000294">玄奘三藏</persName>昔
-        <lb ed="T" n="0714c07"/>曾見之。<persName key="A001342">畏</persName>投身接足<ptr target="#n189"/>，奉為本師<ptr target="#n190"/>。一日侍食<ptr target="#n191"/>
-        <lb ed="T" n="0714c08"/>之次，旁有一僧，<placeName key="PL000000000083">震旦</placeName>人也，<persName key="A001342">畏</persName><anchor xml:id="beg0714004"/><choice resp="sgsz"><sic>現</sic><corr>視</corr></choice><anchor xml:id="end0714004"/>其鉢中
-<lb ed="T" n="0714c09"/>見油餌尚溫，粟飯猶暖。愕而歎曰：「<placeName key="PL000000000083">東國</placeName>去此
-<lb ed="T" n="0714c10"/>十萬餘里，是彼朝熟而返也？」<persName key="A008849">掬多</persName>曰：「<ref target="#A001342" type="person">汝</ref>能不
-        <lb ed="T" n="0714c11"/>言，真可學焉<ptr target="#n192"/>。」後乃授<persName key="A001342">畏</persName>總持、瑜伽、三密教
-<lb ed="T" n="0714c12"/>也，龍神圍遶，森在目前，其諸印契，一時頓受。
-        <lb ed="T" n="0714c13"/>即日灌頂<ptr target="#n97"/>，為人天<ptr target="#n193"/>師，稱曰「三藏」<ptr target="#n194"/>。夫「三藏」之義
-<lb ed="T" n="0714c14"/>者，則內為戒、定、慧，外為經、律、論，以陀羅尼
-        <lb ed="T" n="0714c15"/>總攝之也。陀羅尼者，是菩提<ptr target="#n195"/>速疾之輪，解
-        <lb ed="T" n="0714c16"/>脫吉祥之海<ptr target="#n196"/>，三世諸佛<ptr target="#n197"/>生於此門，慧照所傳，
-        <lb ed="T" n="0714c17"/>一燈<ptr target="#n198"/>而已。根殊性異，燈亦無邊。由是有百億
-        <lb ed="T" n="0714c18"/>釋迦微塵三昧<ptr target="#n199"/>，菩薩以綱<ptr target="#n200"/>總攝於諸定，頓
-<lb ed="T" n="0714c19"/>升階位，隣於大覺，此其旨也。于時<persName key="A001342">畏</persName>周行
-        <lb ed="T" n="0714c20"/>大荒<ptr target="#n201"/>，遍<anchor xml:id="beg0714sgsz2"/>禮<anchor xml:id="end0714sgsz2"/>聖迹，不憚艱險。凡所履處，皆三
-        <lb ed="T" n="0714c21"/>返<ptr target="#n202"/>焉。又入<placeName key="PL000000048244">雞足山</placeName>，為<persName key="A002188">迦葉</persName>剃頭<ptr target="#n203"/>，受<persName key="A002803">觀音</persName>摩
-        <lb ed="T" n="0714c22"/>頂。甞結夏<ptr target="#n61"/>於<placeName key="PL000000048268">靈鷲</placeName>，有猛獸前導，深入山穴。
-<lb ed="T" n="0714c23"/>穴明如晝，見<ref target="#A002799" type="person">牟尼</ref>像，<ref target="#A002144 #A003079" type="person">左右侍者</ref>如生焉。時
-<lb ed="T" n="0714c24"/><placeName key="PL000000048208">中印度</placeName>大旱，請<persName key="A001342">畏</persName>求雨。俄見<persName key="A002803">觀音</persName>在日輪
-        <lb ed="T" n="0714c25"/>中，手執軍持<ptr target="#n205"/>注水於地。時眾欣感，得未曾
-        <lb ed="T" n="0714c26"/>有。復鍛金如貝葉<ptr target="#n206"/>，寫《大般若經》。鎔中金
-        <lb ed="T" n="0714c27"/>為窣覩波<ptr target="#n207"/>，等佛身量焉。母以<persName key="A001342">畏</persName>遊方日久，
-<lb ed="T" n="0714c28"/>謂為已歿，旦夕泣淚而喪其明，洎附信問
-<lb ed="T" n="0714c29"/>安，朗然如故。<placeName key="PL000000048207">五天</placeName>之境，自<persName key="A002799">佛</persName>滅後，外道崢<pb ed="T" n="0715a" xml:id="T50.2061.0715a"/>
-        <lb ed="T" n="0715a01"/>嶸九十六宗<ptr target="#n208"/>，各專其見。<persName key="A001342">畏</persName>皆隨所執破滯
-        <lb ed="T" n="0715a02"/>析疑，解邪縛於心門，捨迷津於覺路。法雲<ptr target="#n209"/>
-        <lb ed="T" n="0715a03"/>大小而均澤，定水<ptr target="#n210"/>方圓而任器，仆異學之
-        <lb ed="T" n="0715a04"/>旗鼓，建心王<ptr target="#n211"/>之勝幢，使彼以念制狂，即身
-<lb ed="T" n="0715a05"/>觀佛。<persName key="A008849">掬多</persName>曰：「善男子，<ref target="#A001342" type="person">汝</ref>與<placeName key="PL000000000083">震旦</placeName>有緣，今可
-<lb ed="T" n="0715a06"/>行矣。」<persName key="A001342">畏</persName>乃頂辭而去。至<placeName key="PL000000055417">迦濕彌羅國</placeName>。薄暮
-<lb ed="T" n="0715a07"/>次河，而無橋梁，<persName key="A001342">畏</persName>浮空以濟。一日，受請於
-        <lb ed="T" n="0715a08"/>長者<ptr target="#n212"/>家，俄有羅漢<ptr target="#n213"/>降曰：「我小乘<ptr target="#n214"/>之人，<ref target="#A001342" type="person">大德</ref><ptr target="#n215"/>
-        <lb ed="T" n="0715a09"/>是登地菩薩<ptr target="#n216"/>。」乃讓席推尊，<persName key="A001342">畏</persName>施之以名衣，
-<lb ed="T" n="0715a10"/>升空而去。<persName key="A001342">畏</persName>復至<placeName key="PL000000049240">烏萇國</placeName>，有白鼠馴遶，日
-        <lb ed="T" n="0715a11"/>獻金錢。講毘盧於<placeName key="PL000000049168">突厥之庭</placeName>，安禪定<ptr target="#n217"/>於可
-        <lb ed="T" n="0715a12"/>敦<ptr target="#n218"/>之樹，法為金字，列在空中。時突厥宮人
-<lb ed="T" n="0715a13"/>以手按乳，乳為三道飛注<persName key="A001342">畏</persName>口。<persName key="A001342">畏</persName>乃合掌
-<lb ed="T" n="0715a14"/>端容曰：「<ref target="#A001342" type="person">我</ref>前生之母也。」又途中遭寇，舉刃三
-<lb ed="T" n="0715a15"/>斫而肢體無傷，揮劍者唯聞銅聲而已。前
-        <lb ed="T" n="0715a16"/>登<placeName key="PL000000000002">雪山</placeName>大池<ptr target="#n219"/>，<persName key="A001342">畏</persName>不悆<ptr target="#n220"/><persName key="A008849">掬多</persName>自空而至曰：「菩
-<lb ed="T" n="0715a17"/>薩身同世間，不捨生死。<ref target="#A001342" type="person">汝</ref>久離相，寧有病
-        <lb ed="T" n="0715a18"/>耶？」言訖沖天，<persName key="A001342"><anchor xml:id="beg0715sgsz1"/>畏<anchor xml:id="end0715sgsz1"/></persName>洗然而愈。路出<placeName key="PL000000041553">吐蕃</placeName>，與商
-<lb ed="T" n="0715a19"/>旅同次，胡人貪貨，率眾合圍，<persName key="A001342">畏</persName>密運心印，
-<lb ed="T" n="0715a20"/>而蕃豪請罪。至<placeName key="PL000000000106">大唐</placeName>西境，夜有神人曰：「此
-        <lb ed="T" n="0715a21"/>東非弟子界也，<persName key="A002144">文殊師利</persName>實護<placeName key="PL000000000083">神州</placeName>。」<anchor xml:id="beg0715sgsz2"/>禮<anchor xml:id="end0715sgsz2"/>足
-<lb ed="T" n="0715a22"/>而滅，此亦猶<persName key="A002638">迦毘羅神</persName>送<persName key="A001786">連眉</persName>也。<persName key="A001342">畏</persName>以駝
-<lb ed="T" n="0715a23"/>負經，至<placeName key="PL000000047482">西州</placeName>，涉于河。龍陷駝足，沒于泉
-<lb ed="T" n="0715a24"/>下，<persName key="A001342">畏</persName>亦入泉。三日止住<placeName key="PL000000055445">龍宮</placeName>，宣揚法化，開
-<lb ed="T" n="0715a25"/>悟甚眾。及牽駝出岸，經無沾濕焉。初<persName key="A001342">畏</persName>途
-        <lb ed="T" n="0715a26"/>過<placeName key="PL000000055420">北印度</placeName>境，而聲譽已達<placeName key="PL000000000083">中國</placeName>，<persName key="A002461">睿宗</persName><ref target="#j19805911981370" type="date"/>乃詔
-<lb ed="T" n="0715a27"/><persName key="A008997">若那</persName>及將軍<persName key="A008850">史獻</persName>出<placeName key="PL000000045642">玉門塞</placeName>表以候來儀。
-<lb ed="T" n="0715a28"/><date from-iso="0713" key="j19818371984406" to-iso="0721">開元初</date>，<persName key="A000291">玄宗</persName>夢與真僧相見，姿狀非常，躬
-<lb ed="T" n="0715a29"/>御丹青，寫之殿壁。及<persName key="A001342">畏</persName>至此，與夢合符，<ref target="#A000291" type="person">帝</ref><pb ed="T" n="0715b" xml:id="T50.2061.0715b"/>
-<lb ed="T" n="0715b01"/>悅有緣，飾<placeName key="PL000000042358">內道場</placeName>，尊為教主，自<persName key="A008848">寧</persName>、<persName key="A008851">薛王</persName>
-<lb ed="T" n="0715b02"/>已降皆跪席捧器焉。賓<ref target="#A001342" type="person">大士</ref>於<ref target="#PL000000042358" type="place">天宮</ref>，接梵
-        <lb ed="T" n="0715b03"/>筵於帝座，禮國師以<persName key="A008896">廣成</persName>之道，致<ref target="#A000291" type="person">人主</ref><ptr target="#n221"/>於
-<lb ed="T" n="0715b04"/><persName key="A002799">如來</persName>之乘，巍巍法門，於斯為盛。時有術士
-<lb ed="T" n="0715b05"/>握鬼神之契，參變化之功，承詔御前，角其
-<lb ed="T" n="0715b06"/>神異。<persName key="A001342">畏</persName>恬然不動，而術者手足無所施矣。
-        <lb ed="T" n="0715b07"/><date key="j19826051982988" from-iso="0716-02-02" to-iso="0717-02-19">開元四年丙辰</date><ptr target="#n222"/>，齎梵夾始屆<placeName key="PL000000042189">長安</placeName>，勅於<placeName key="PL000000042305">興
-<lb ed="T" n="0715b08"/>福寺</placeName>南院安置。續宣住<placeName key="PL000000042216">西明寺</placeName>，問勞重疊，錫
-<lb ed="T" n="0715b09"/>貺異常。至<date key="j19829891983342" from-iso="0717-02-20" to-iso="0718-02-08">五年丁巳</date>，奉詔於<placeName key="PL000000042217">菩提院</placeName>翻譯。
-        <lb ed="T" n="0715b10"/><persName key="A001342">畏</persName>奏請名僧同參華梵，開題<ptr target="#n223"/>，先譯《虛空藏
-        <lb ed="T" n="0715b11"/>求聞持法》一卷，沙門<persName key="A008852">悉達</persName>譯語，<persName key="A008854">無著</persName>筆受<ptr target="#n53"/>、綴
-        <lb ed="T" n="0715b12"/>文<ptr target="#n224"/>，繕寫進內。<ref target="#A000291" type="person">帝</ref>深加賞歎，有勅<persName key="A001342">畏</persName>所將到
-<lb ed="T" n="0715b13"/>梵本並令進上。昔有沙門<persName key="A008853">無行</persName>西遊<placeName key="PL000000048207">天竺</placeName>，
-<lb ed="T" n="0715b14"/>學畢言歸，方及<placeName key="PL000000055420">北印</placeName>，不幸而卒。其所獲夾
-<lb ed="T" n="0715b15"/>葉悉在<placeName key="PL000000042515">京都華嚴寺</placeName>中，<persName key="A001342">畏</persName>與<persName key="A000008">一行禪師</persName>。於
-<lb ed="T" n="0715b16"/>彼選得數本，並《總持妙門》，先所未譯。<date key="j19855291985912" from-iso="0724-02-04" to-iso="0725-02-21">十二
-    <lb ed="T" n="0715b17"/>年</date>，隨<ref target="#A000291" type="person">駕</ref>入<placeName key="PL000000023581">洛</placeName><ptr target="#n225"/>，復奉詔於<placeName key="PL000000023665">福先寺</placeName>譯《大毘盧
-<lb ed="T" n="0715b18"/>遮那經》。其經具足梵文有十萬頌；<persName key="A001342">畏</persName>所出者，
-<lb ed="T" n="0715b19"/>撮其要耳，曰《大毘盧遮那成佛神變加持
-        <lb ed="T" n="0715b20"/>經》七卷，沙門<persName key="A008855">寶月</persName>譯語，<persName key="A000008">一行</persName>筆受<ptr target="#n53"/>，刪綴辭
-<lb ed="T" n="0715b21"/>理，文質相半，妙諧深趣，上符佛意，下契根
-        <lb ed="T" n="0715b22"/>緣<ptr target="#n226"/>，利益要門，斯文為最。又出《蘇婆呼童子經》
-<lb ed="T" n="0715b23"/>三卷、《蘇悉地揭羅經》三卷，二經具足呪毘柰
-<lb ed="T" n="0715b24"/>耶也，即祕密禁戒焉。若未曾入曼荼羅者，
-<lb ed="T" n="0715b25"/>不合輒讀誦，猶未受具人盜聽戒律也。
-<lb ed="T" n="0715b26"/>所出《虛空藏菩薩能滿諸願最勝心陀羅尼
-<lb ed="T" n="0715b27"/>求聞持法》一卷，即《金剛頂梵本經成就一切
-        <lb ed="T" n="0715b28"/>義圖略》譯少分耳。<persName key="A001342">畏</persName>性愛恬簡，靜慮<ptr target="#n227"/>怡神，
-        <lb ed="T" n="0715b29"/>時開禪觀，獎勸初學。奉儀形<ptr target="#n228"/>者蓮華敷於<pb ed="T" n="0715c" xml:id="T50.2061.0715c"/>
-        <lb ed="T" n="0715c01"/>眼界，稟言說<ptr target="#n229"/>者甘露潤於心田，超然覺明，
-        <lb ed="T" n="0715c02"/>日有人矣。法侶請謁，唯尊奉長老<ptr target="#n230"/><persName key="A001922">寶思惟三
-<lb ed="T" n="0715c03"/>藏</persName>而已，此外皆行門人之禮焉。<persName key="A000008">一行禪師</persName>
-        <lb ed="T" n="0715c04"/>者，帝王宗重，時賢所歸，定慧之餘，陰陽<ptr target="#n231"/>之妙，
-<lb ed="T" n="0715c05"/>有所未決，亦咨稟而後行。<persName key="A001342">畏</persName>甞於本院鑄
-        <lb ed="T" n="0715c06"/>銅為塔，手成模範，妙出人天。寺眾以銷<anchor xml:id="beg0715sgsz3"/><choice resp="sgsz"><sic>治</sic><corr>冶</corr></choice><anchor xml:id="end0715sgsz3"/>
-<lb ed="T" n="0715c07"/>至廣，庭除深隘，慮風至火盛，災延寶坊。<persName key="A001342">畏</persName>笑
-<lb ed="T" n="0715c08"/>曰：「無苦，自當知也。」鼓鑄之日，果大雪蔽空，
-        <lb ed="T" n="0715c09"/><anchor xml:id="beg0715sgsz4"/><choice resp="sgsz"><sic>霧塔出罏</sic><corr>靈塔出鑪</corr></choice><anchor xml:id="end0715sgsz4"/>，瑞花飄席，眾皆稱歎焉。又屬暑
-<lb ed="T" n="0715c10"/>天亢旱，<ref target="#A000291" type="person">帝</ref>遣中官<persName key="A008712">高力士</persName>疾召<persName key="A001342">畏</persName>祈雨。<persName key="A001342">畏</persName>
-<lb ed="T" n="0715c11"/>曰：「今旱，數當然也，若苦召龍致雨，必暴，適
-<lb ed="T" n="0715c12"/>足所損，不可為也。」<ref target="#A000291" type="person">帝</ref>強之曰：「人苦暑病
-<lb ed="T" n="0715c13"/>矣，雖風雷亦足快意。」辭不獲已，有司為
-<lb ed="T" n="0715c14"/>陳請雨具，幡幢螺鈸備焉，<persName key="A001342">畏</persName>笑曰：「斯不足
-<lb ed="T" n="0715c15"/>以致雨。」急撤之。乃盛一鉢水，以小刀攪
-<lb ed="T" n="0715c16"/>之，梵言數百呪之。須臾有物如龍，其大如
-<lb ed="T" n="0715c17"/>指，赤色矯首，瞰水面，復潛于鉢底。<persName key="A001342">畏</persName>且攪
-<lb ed="T" n="0715c18"/>且呪，頃之，有白氣自鉢而興，逕上數尺，稍
-<lb ed="T" n="0715c19"/>稍引去。<persName key="A001342">畏</persName>謂<persName key="A008712">力士</persName>曰：「亟去，雨至矣。」<persName key="A008712">力士</persName>馳
-<lb ed="T" n="0715c20"/>去，迴顧見白氣疾旋，自講堂而西，若一匹
-<lb ed="T" n="0715c21"/>素翻空而上。既而昏霾，大風震電，<persName key="A008712">力士</persName>纔及
-<lb ed="T" n="0715c22"/><placeName key="PL000000023502">天津橋</placeName>，風雨隨馬而驟，街中大樹多拔焉。<persName key="A008712">力
-<lb ed="T" n="0715c23"/>士</persName>入奏。而衣盡霑濕矣。<ref target="#A000291" type="person">帝</ref>稽首迎<persName key="A001342">畏</persName>，再三致
-        <lb ed="T" n="0715c24"/>謝。又<placeName key="PL000000023510">邙山</placeName>有巨蛇，<persName key="A001342">畏</persName>見之，歎曰：「欲決瀦<ptr target="#n232"/><placeName key="PL000000023581">洛
-<lb ed="T" n="0715c25"/>陽城</placeName>耶？」以<placeName key="PL000000048207">天竺</placeName>語呪數百聲，不日蛇死。乃
-<lb ed="T" n="0715c26"/><persName key="A008454">安祿山</persName>陷<placeName key="PL000000023581">洛陽</placeName>之兆也。一說<persName key="A001342">畏</persName>曾寓<placeName key="PL000000042216">西明</placeName><persName key="A001519">道
-<lb ed="T" n="0715c27"/>宣律師</persName>房，示為麁相，<persName key="A001519">宣</persName>頗嫌鄙之。至中夜，
-<lb ed="T" n="0715c28"/><persName key="A001519">宣</persName>捫蝨投于地，<persName key="A001342">畏</persName>連呼「<persName key="A001519">律師</persName>撲死佛子」。<persName key="A001519">宣</persName>
-<lb ed="T" n="0715c29"/>方知是大菩薩，詰旦攝衣作禮焉。若觀此<pb ed="T" n="0716a" xml:id="T50.2061.0716a"/>
-<lb ed="T" n="0716a01"/>說，<persName key="A001519">宣</persName>滅至<date from-iso="0713" key="j19818371992113" to-iso="0742">開元中</date>僅五十載矣，如<persName key="A001342">畏</persName>出沒
-        <lb ed="T" n="0716a02"/>無常，非人之所測也<ptr target="#n233"/>。<date key="j19884521988806" from-iso="0732-02-05" to-iso="0733-01-24">二十年</date>，求還<placeName key="PL000000055436">西域</placeName>，優
-<lb ed="T" n="0716a03"/>詔不許。<date key="j19898161989816" when-iso="0735-10-31">二十三年乙亥十月七日</date>，右脅累足，
-<lb ed="T" n="0716a04"/>奄然而化，享齡九十九，僧臘八十。法侶淒涼，
-        <lb ed="T" n="0716a05"/>皇心震悼，贈「鴻臚卿」。遣鴻臚丞<persName key="A016811">李<choice resp="sgsz"><sic>現</sic><corr>峴</corr></choice></persName>具威
-        <lb ed="T" n="0716a06"/>儀、<persName key="A000614">賓律師</persName>護喪事<ptr target="#n234"/>。<date key="j19916431991643" when-iso="0740-10-31">二十八年十月三日</date>，葬
-<lb ed="T" n="0716a07"/>於<placeName key="PL000000023667">龍門西山廣化寺</placeName>之庭焉。定慧所熏，全身
-        <lb ed="T" n="0716a08"/>不壞。<ref target="#j19916431991643" type="date">會葬之日</ref>，涕泗傾都，山川變色，僧俗
-        <lb ed="T" n="0716a09"/>弟子<persName key="A008857">寶畏禪師</persName>、<persName key="A008858">明畏禪師</persName>、<placeName key="PL000000023194">滎陽</placeName><ref target="#A008857" type="person">鄭氏</ref>、<placeName key="PL000000021904">琅邪</placeName><ref target="#A008858" type="person">王氏</ref><ptr target="#n235"/>
-        <lb ed="T" n="0716a10"/>痛其安仰<ptr target="#n236"/>，如喪考妣焉。<date from-iso="0758" key="j19979901998189" to-iso="0758"><anchor xml:id="beg0716sgsz2"/>乾<anchor xml:id="end0716sgsz2"/>元之初</date>，唐風再
-<lb ed="T" n="0716a11"/>振，<ref target="#A008857 #A008858" type="person">二禪師</ref>刻偈，諸信士營龕，弟子舍于旁，
-<lb ed="T" n="0716a12"/>有同<ref target="#A002174" type="person">孔</ref>墓之戀。今觀<persName key="A001342">畏</persName>之遺形，漸加縮小，
-<lb ed="T" n="0716a13"/>黑皮隱隱，骨其露焉。累朝旱澇，皆就祈請。徵
-        <lb ed="T" n="0716a14"/>驗隨生，且多檀施<ptr target="#n237"/>。錦繡巾帊<ptr target="#n238"/>，覆之如偃息
-<lb ed="T" n="0716a15"/>耳。每一出龕，置于低榻，香汁浴之。<placeName key="PL000000023581">洛中</placeName>豪
-        <lb ed="T" n="0716a16"/>右爭施<anchor xml:id="beg0716sgsz3"/><choice resp="sgsz"><sic>彈</sic><corr>禪</corr></choice><anchor xml:id="end0716sgsz3"/>帊、淨巾、澡豆<ptr target="#n239"/>，以資浴事。<ref target="#A001640" type="person"><anchor xml:id="beg0716001"/>上<anchor xml:id="end0716001"/></ref>禳禱，
-<lb ed="T" n="0716a17"/>多遣使臣往加供施，必稱心願焉。</p>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0714b07shiShanWuWei"><lb
+ed="T" n="0714b07"/><anchor n="T.50.2061.0714b07"/><head><date from-iso="0618-06-21" key="j19469512052491" to-iso="0907-06-06">唐</date><placeName key="PL000000023661">洛京聖善寺</placeName><persName key="A001342">善無畏</persName>傳（<persName key="A008849">達摩掬多</persName>）</head><p><lb
+ed="T" n="0714b08"/><persName key="A001342">釋善無畏</persName>，本<placeName key="PL000000048208">中印度</placeName>人也，<persName key="A002799">釋迦如來</persName>季父<persName key="A002576">甘露<lb
+ed="T" n="0714b09"/>飯王</persName>之後，梵名<persName key="A001342">戍婆揭羅僧訶</persName>，華言<persName key="A001342">淨師子</persName>，<lb
+ed="T" n="0714b10"/>義翻為<persName key="A001342">善無畏</persName>；一云<persName key="A001342">輸波迦羅</persName>，此名<persName key="A001342">無畏</persName>，<lb
+ed="T" n="0714b11"/>亦義翻也。其先自<placeName key="PL000000048208">中天竺</placeName>，因國難分王<placeName key="PL000000048336">烏<lb
+ed="T" n="0714b12"/>荼</placeName>。父曰<persName key="A017869">佛手王</persName>，以<persName key="A001342">畏</persName>生有神姿，宿齎德藝，<lb
+ed="T" n="0714b13"/>故歷試焉。<date key="j19570101957374" from-iso="0646-01-04" to-iso="0647-01-03">十歲</date>統戎，<date key="j19581061958470" from-iso="0649-01-04" to-iso="0650-01-03">十三</date>嗣位，得軍民之<lb
+ed="T" n="0714b14"/>情。昆弟嫉能，稱兵<ptr target="#n172"/>構亂，鬩牆斯甚。薄伐臨<lb
+ed="T" n="0714b15"/>戎，流矢及身，掉輪<ptr target="#n173"/>傷頂。天倫<ptr target="#n174"/>既敗，軍法宜<lb
+ed="T" n="0714b16"/>誅，大義滅親，忍而曲赦。乃抆淚白母，及告<lb
+ed="T" n="0714b17"/>群臣曰：「向者親征，恩已斷矣。今欲讓國，全<lb
+ed="T" n="0714b18"/>其義焉。」因致位於兄，固求入道。母哀許之<ptr target="#n175"/>，<lb
+ed="T" n="0714b19"/>密與傳國寶珠，猶諸侯之分器<ptr target="#n176"/>也。南至海<lb
+ed="T" n="0714b20"/>濱，遇殊勝招提<ptr target="#n177"/>，得法華三昧<ptr target="#n178"/>。聚沙為塔，僅<lb
+ed="T" n="0714b21"/>一萬所。黑蛇傷指而無退息。復寄身商船，<lb
+ed="T" n="0714b22"/>往遊諸國，密修禪誦，口放白光。無風三日，<lb
+ed="T" n="0714b23"/>舟行萬里。屬商人遇盜，危於併命<ptr target="#n179"/>。<persName key="A001342">畏</persName>恤其<lb
+ed="T" n="0714b24"/>徒侶，默諷真言。<persName key="A004093">七俱胝尊</persName>全現身相，群盜<lb
+ed="T" n="0714b25"/>果為他寇所殲。寇乃露罪歸依，指蹤<ptr target="#n180"/>夷險。<lb
+ed="T" n="0714b26"/>尋越窮荒，又逾毒水，纔至<placeName key="PL000000048208">中天竺</placeName>境，即遇<lb
+ed="T" n="0714b27"/>其王。王之夫人，乃<persName key="A001342">畏</persName>之女兄也，因問捨位之<lb
+ed="T" n="0714b28"/>由，稱歎不足。是日携手同歸，慈雲布陰，一<lb
+ed="T" n="0714b29"/>境丕變。<persName key="A001342">畏</persName>風儀爽俊，聰叡超群，解究五乘<ptr target="#n181"/>，<pb ed="T" n="0714c" xml:id="T50.2061.0714c"/><lb
+ed="T" n="0714c01"/>道該三學<ptr target="#n182"/>，總持、禪觀<ptr target="#n183"/>，妙達其源。藝術伎能，悉<lb
+ed="T" n="0714c02"/>聞精練。初詣<placeName key="PL000000048272">那爛陀寺</placeName>，此云<placeName key="PL000000048272">施無厭</placeName>也，像<lb
+ed="T" n="0714c03"/>法<ptr target="#n184"/>之泉源，眾聖之會府。<persName key="A001342">畏</persName>乃捨傳國寶珠瑩<lb
+ed="T" n="0714c04"/>于大像之額，晝如月魄<ptr target="#n185"/>，夜若曦輪<ptr target="#n186"/>焉。<ref target="#PL000000048272" type="place">寺</ref>有<lb
+ed="T" n="0714c05"/><persName key="A008849">達摩掬多</persName>者，掌定門<ptr target="#n187"/>之祕鑰，佩如來之密<lb
+ed="T" n="0714c06"/>印<ptr target="#n188"/>，顏如四十許，其實八百歲也，<persName key="A000294">玄奘三藏</persName>昔<lb
+ed="T" n="0714c07"/>曾見之。<persName key="A001342">畏</persName>投身接足<ptr target="#n189"/>，奉為本師<ptr target="#n190"/>。一日侍食<ptr target="#n191"/><lb
+ed="T" n="0714c08"/>之次，旁有一僧，<placeName key="PL000000000083">震旦</placeName>人也，<persName key="A001342">畏</persName><anchor xml:id="beg0714004"/><choice resp="sgsz"><sic>現</sic><corr>視</corr></choice><anchor xml:id="end0714004"/>其鉢中<lb
+ed="T" n="0714c09"/>見油餌尚溫，粟飯猶暖。愕而歎曰：「<placeName key="PL000000000083">東國</placeName>去此<lb
+ed="T" n="0714c10"/>十萬餘里，是彼朝熟而返也？」<persName key="A008849">掬多</persName>曰：「<ref target="#A001342" type="person">汝</ref>能不<lb
+ed="T" n="0714c11"/>言，真可學焉<ptr target="#n192"/>。」後乃授<persName key="A001342">畏</persName>總持、瑜伽、三密教<lb
+ed="T" n="0714c12"/>也，龍神圍遶，森在目前，其諸印契，一時頓受。<lb
+ed="T" n="0714c13"/>即日灌頂<ptr target="#n97"/>，為人天<ptr target="#n193"/>師，稱曰「三藏」<ptr target="#n194"/>。夫「三藏」之義<lb
+ed="T" n="0714c14"/>者，則內為戒、定、慧，外為經、律、論，以陀羅尼<lb
+ed="T" n="0714c15"/>總攝之也。陀羅尼者，是菩提<ptr target="#n195"/>速疾之輪，解<lb
+ed="T" n="0714c16"/>脫吉祥之海<ptr target="#n196"/>，三世諸佛<ptr target="#n197"/>生於此門，慧照所傳，<lb
+ed="T" n="0714c17"/>一燈<ptr target="#n198"/>而已。根殊性異，燈亦無邊。由是有百億<lb
+ed="T" n="0714c18"/>釋迦微塵三昧<ptr target="#n199"/>，菩薩以綱<ptr target="#n200"/>總攝於諸定，頓<lb
+ed="T" n="0714c19"/>升階位，隣於大覺，此其旨也。于時<persName key="A001342">畏</persName>周行<lb
+ed="T" n="0714c20"/>大荒<ptr target="#n201"/>，遍<anchor xml:id="beg0714sgsz2"/>禮<anchor xml:id="end0714sgsz2"/>聖迹，不憚艱險。凡所履處，皆三<lb
+ed="T" n="0714c21"/>返<ptr target="#n202"/>焉。又入<placeName key="PL000000048244">雞足山</placeName>，為<persName key="A002188">迦葉</persName>剃頭<ptr target="#n203"/>，受<persName key="A002803">觀音</persName>摩<lb
+ed="T" n="0714c22"/>頂。甞結夏<ptr target="#n61"/>於<placeName key="PL000000048268">靈鷲</placeName>，有猛獸前導，深入山穴。<lb
+ed="T" n="0714c23"/>穴明如晝，見<ref target="#A002799" type="person">牟尼</ref>像，<ref target="#A002144 #A003079" type="person">左右侍者</ref>如生焉。時<lb
+ed="T" n="0714c24"/><placeName key="PL000000048208">中印度</placeName>大旱，請<persName key="A001342">畏</persName>求雨。俄見<persName key="A002803">觀音</persName>在日輪<lb
+ed="T" n="0714c25"/>中，手執軍持<ptr target="#n205"/>注水於地。時眾欣感，得未曾<lb
+ed="T" n="0714c26"/>有。復鍛金如貝葉<ptr target="#n206"/>，寫《大般若經》。鎔中金<lb
+ed="T" n="0714c27"/>為窣覩波<ptr target="#n207"/>，等佛身量焉。母以<persName key="A001342">畏</persName>遊方日久，<lb
+ed="T" n="0714c28"/>謂為已歿，旦夕泣淚而喪其明，洎附信問<lb
+ed="T" n="0714c29"/>安，朗然如故。<placeName key="PL000000048207">五天</placeName>之境，自<persName key="A002799">佛</persName>滅後，外道崢<pb ed="T" n="0715a" xml:id="T50.2061.0715a"/><lb
+ed="T" n="0715a01"/>嶸九十六宗<ptr target="#n208"/>，各專其見。<persName key="A001342">畏</persName>皆隨所執破滯<lb
+ed="T" n="0715a02"/>析疑，解邪縛於心門，捨迷津於覺路。法雲<ptr target="#n209"/><lb
+ed="T" n="0715a03"/>大小而均澤，定水<ptr target="#n210"/>方圓而任器，仆異學之<lb
+ed="T" n="0715a04"/>旗鼓，建心王<ptr target="#n211"/>之勝幢，使彼以念制狂，即身<lb
+ed="T" n="0715a05"/>觀佛。<persName key="A008849">掬多</persName>曰：「善男子，<ref target="#A001342" type="person">汝</ref>與<placeName key="PL000000000083">震旦</placeName>有緣，今可<lb
+ed="T" n="0715a06"/>行矣。」<persName key="A001342">畏</persName>乃頂辭而去。至<placeName key="PL000000055417">迦濕彌羅國</placeName>。薄暮<lb
+ed="T" n="0715a07"/>次河，而無橋梁，<persName key="A001342">畏</persName>浮空以濟。一日，受請於<lb
+ed="T" n="0715a08"/>長者<ptr target="#n212"/>家，俄有羅漢<ptr target="#n213"/>降曰：「我小乘<ptr target="#n214"/>之人，<ref target="#A001342" type="person">大德</ref><ptr target="#n215"/><lb
+ed="T" n="0715a09"/>是登地菩薩<ptr target="#n216"/>。」乃讓席推尊，<persName key="A001342">畏</persName>施之以名衣，<lb
+ed="T" n="0715a10"/>升空而去。<persName key="A001342">畏</persName>復至<placeName key="PL000000049240">烏萇國</placeName>，有白鼠馴遶，日<lb
+ed="T" n="0715a11"/>獻金錢。講毘盧於<placeName key="PL000000049168">突厥之庭</placeName>，安禪定<ptr target="#n217"/>於可<lb
+ed="T" n="0715a12"/>敦<ptr target="#n218"/>之樹，法為金字，列在空中。時突厥宮人<lb
+ed="T" n="0715a13"/>以手按乳，乳為三道飛注<persName key="A001342">畏</persName>口。<persName key="A001342">畏</persName>乃合掌<lb
+ed="T" n="0715a14"/>端容曰：「<ref target="#A001342" type="person">我</ref>前生之母也。」又途中遭寇，舉刃三<lb
+ed="T" n="0715a15"/>斫而肢體無傷，揮劍者唯聞銅聲而已。前<lb
+ed="T" n="0715a16"/>登<placeName key="PL000000000002">雪山</placeName>大池<ptr target="#n219"/>，<persName key="A001342">畏</persName>不悆<ptr target="#n220"/><persName key="A008849">掬多</persName>自空而至曰：「菩<lb
+ed="T" n="0715a17"/>薩身同世間，不捨生死。<ref target="#A001342" type="person">汝</ref>久離相，寧有病<lb
+ed="T" n="0715a18"/>耶？」言訖沖天，<persName key="A001342"><anchor xml:id="beg0715sgsz1"/>畏<anchor xml:id="end0715sgsz1"/></persName>洗然而愈。路出<placeName key="PL000000041553">吐蕃</placeName>，與商<lb
+ed="T" n="0715a19"/>旅同次，胡人貪貨，率眾合圍，<persName key="A001342">畏</persName>密運心印，<lb
+ed="T" n="0715a20"/>而蕃豪請罪。至<placeName key="PL000000000106">大唐</placeName>西境，夜有神人曰：「此<lb
+ed="T" n="0715a21"/>東非弟子界也，<persName key="A002144">文殊師利</persName>實護<placeName key="PL000000000083">神州</placeName>。」<anchor xml:id="beg0715sgsz2"/>禮<anchor xml:id="end0715sgsz2"/>足<lb
+ed="T" n="0715a22"/>而滅，此亦猶<persName key="A002638">迦毘羅神</persName>送<persName key="A001786">連眉</persName>也。<persName key="A001342">畏</persName>以駝<lb
+ed="T" n="0715a23"/>負經，至<placeName key="PL000000047482">西州</placeName>，涉于河。龍陷駝足，沒于泉<lb
+ed="T" n="0715a24"/>下，<persName key="A001342">畏</persName>亦入泉。三日止住<placeName key="PL000000055445">龍宮</placeName>，宣揚法化，開<lb
+ed="T" n="0715a25"/>悟甚眾。及牽駝出岸，經無沾濕焉。初<persName key="A001342">畏</persName>途<lb
+ed="T" n="0715a26"/>過<placeName key="PL000000055420">北印度</placeName>境，而聲譽已達<placeName key="PL000000000083">中國</placeName>，<persName key="A002461">睿宗</persName><ref target="#j19805911981370" type="date"/>乃詔<lb
+ed="T" n="0715a27"/><persName key="A008997">若那</persName>及將軍<persName key="A008850">史獻</persName>出<placeName key="PL000000045642">玉門塞</placeName>表以候來儀。<lb
+ed="T" n="0715a28"/><date from-iso="0713" key="j19818371984406" to-iso="0721">開元初</date>，<persName key="A000291">玄宗</persName>夢與真僧相見，姿狀非常，躬<lb
+ed="T" n="0715a29"/>御丹青，寫之殿壁。及<persName key="A001342">畏</persName>至此，與夢合符，<ref target="#A000291" type="person">帝</ref><pb ed="T" n="0715b" xml:id="T50.2061.0715b"/><lb
+ed="T" n="0715b01"/>悅有緣，飾<placeName key="PL000000042358">內道場</placeName>，尊為教主，自<persName key="A008848">寧</persName>、<persName key="A008851">薛王</persName><lb
+ed="T" n="0715b02"/>已降皆跪席捧器焉。賓<ref target="#A001342" type="person">大士</ref>於<ref target="#PL000000042358" type="place">天宮</ref>，接梵<lb
+ed="T" n="0715b03"/>筵於帝座，禮國師以<persName key="A008896">廣成</persName>之道，致<ref target="#A000291" type="person">人主</ref><ptr target="#n221"/>於<lb
+ed="T" n="0715b04"/><persName key="A002799">如來</persName>之乘，巍巍法門，於斯為盛。時有術士<lb
+ed="T" n="0715b05"/>握鬼神之契，參變化之功，承詔御前，角其<lb
+ed="T" n="0715b06"/>神異。<persName key="A001342">畏</persName>恬然不動，而術者手足無所施矣。<lb
+ed="T" n="0715b07"/><date key="j19826051982988" from-iso="0716-02-02" to-iso="0717-02-19">開元四年丙辰</date><ptr target="#n222"/>，齎梵夾始屆<placeName key="PL000000042189">長安</placeName>，勅於<placeName key="PL000000042305">興<lb
+ed="T" n="0715b08"/>福寺</placeName>南院安置。續宣住<placeName key="PL000000042216">西明寺</placeName>，問勞重疊，錫<lb
+ed="T" n="0715b09"/>貺異常。至<date key="j19829891983342" from-iso="0717-02-20" to-iso="0718-02-08">五年丁巳</date>，奉詔於<placeName key="PL000000042217">菩提院</placeName>翻譯。<lb
+ed="T" n="0715b10"/><persName key="A001342">畏</persName>奏請名僧同參華梵，開題<ptr target="#n223"/>，先譯《虛空藏<lb
+ed="T" n="0715b11"/>求聞持法》一卷，沙門<persName key="A008852">悉達</persName>譯語，<persName key="A008854">無著</persName>筆受<ptr target="#n53"/>、綴<lb
+ed="T" n="0715b12"/>文<ptr target="#n224"/>，繕寫進內。<ref target="#A000291" type="person">帝</ref>深加賞歎，有勅<persName key="A001342">畏</persName>所將到<lb
+ed="T" n="0715b13"/>梵本並令進上。昔有沙門<persName key="A008853">無行</persName>西遊<placeName key="PL000000048207">天竺</placeName>，<lb
+ed="T" n="0715b14"/>學畢言歸，方及<placeName key="PL000000055420">北印</placeName>，不幸而卒。其所獲夾<lb
+ed="T" n="0715b15"/>葉悉在<placeName key="PL000000042515">京都華嚴寺</placeName>中，<persName key="A001342">畏</persName>與<persName key="A000008">一行禪師</persName>。於<lb
+ed="T" n="0715b16"/>彼選得數本，並《總持妙門》，先所未譯。<date key="j19855291985912" from-iso="0724-02-04" to-iso="0725-02-21">十二<lb
+ed="T" n="0715b17"/>年</date>，隨<ref target="#A000291" type="person">駕</ref>入<placeName key="PL000000023581">洛</placeName><ptr target="#n225"/>，復奉詔於<placeName key="PL000000023665">福先寺</placeName>譯《大毘盧<lb
+ed="T" n="0715b18"/>遮那經》。其經具足梵文有十萬頌；<persName key="A001342">畏</persName>所出者，<lb
+ed="T" n="0715b19"/>撮其要耳，曰《大毘盧遮那成佛神變加持<lb
+ed="T" n="0715b20"/>經》七卷，沙門<persName key="A008855">寶月</persName>譯語，<persName key="A000008">一行</persName>筆受<ptr target="#n53"/>，刪綴辭<lb
+ed="T" n="0715b21"/>理，文質相半，妙諧深趣，上符佛意，下契根<lb
+ed="T" n="0715b22"/>緣<ptr target="#n226"/>，利益要門，斯文為最。又出《蘇婆呼童子經》<lb
+ed="T" n="0715b23"/>三卷、《蘇悉地揭羅經》三卷，二經具足呪毘柰<lb
+ed="T" n="0715b24"/>耶也，即祕密禁戒焉。若未曾入曼荼羅者，<lb
+ed="T" n="0715b25"/>不合輒讀誦，猶未受具人盜聽戒律也。<lb
+ed="T" n="0715b26"/>所出《虛空藏菩薩能滿諸願最勝心陀羅尼<lb
+ed="T" n="0715b27"/>求聞持法》一卷，即《金剛頂梵本經成就一切<lb
+ed="T" n="0715b28"/>義圖略》譯少分耳。<persName key="A001342">畏</persName>性愛恬簡，靜慮<ptr target="#n227"/>怡神，<lb
+ed="T" n="0715b29"/>時開禪觀，獎勸初學。奉儀形<ptr target="#n228"/>者蓮華敷於<pb ed="T" n="0715c" xml:id="T50.2061.0715c"/><lb
+ed="T" n="0715c01"/>眼界，稟言說<ptr target="#n229"/>者甘露潤於心田，超然覺明，<lb
+ed="T" n="0715c02"/>日有人矣。法侶請謁，唯尊奉長老<ptr target="#n230"/><persName key="A001922">寶思惟三<lb
+ed="T" n="0715c03"/>藏</persName>而已，此外皆行門人之禮焉。<persName key="A000008">一行禪師</persName><lb
+ed="T" n="0715c04"/>者，帝王宗重，時賢所歸，定慧之餘，陰陽<ptr target="#n231"/>之妙，<lb
+ed="T" n="0715c05"/>有所未決，亦咨稟而後行。<persName key="A001342">畏</persName>甞於本院鑄<lb
+ed="T" n="0715c06"/>銅為塔，手成模範，妙出人天。寺眾以銷<anchor xml:id="beg0715sgsz3"/><choice resp="sgsz"><sic>治</sic><corr>冶</corr></choice><anchor xml:id="end0715sgsz3"/><lb
+ed="T" n="0715c07"/>至廣，庭除深隘，慮風至火盛，災延寶坊。<persName key="A001342">畏</persName>笑<lb
+ed="T" n="0715c08"/>曰：「無苦，自當知也。」鼓鑄之日，果大雪蔽空，<lb
+ed="T" n="0715c09"/><anchor xml:id="beg0715sgsz4"/><choice resp="sgsz"><sic>霧塔出罏</sic><corr>靈塔出鑪</corr></choice><anchor xml:id="end0715sgsz4"/>，瑞花飄席，眾皆稱歎焉。又屬暑<lb
+ed="T" n="0715c10"/>天亢旱，<ref target="#A000291" type="person">帝</ref>遣中官<ptr target="#n932"/><persName key="A008712">高力士</persName>疾召<persName key="A001342">畏</persName>祈雨。<persName key="A001342">畏</persName><lb
+ed="T" n="0715c11"/>曰：「今旱，數當然也，若苦召龍致雨，必暴，適<lb
+ed="T" n="0715c12"/>足所損，不可為也。」<ref target="#A000291" type="person">帝</ref>強之曰：「人苦暑病<lb
+ed="T" n="0715c13"/>矣，雖風雷亦足快意。」辭不獲已，有司為<lb
+ed="T" n="0715c14"/>陳請雨具，幡幢螺鈸備焉，<persName key="A001342">畏</persName>笑曰：「斯不足<lb
+ed="T" n="0715c15"/>以致雨。」急撤之。乃盛一鉢水，以小刀攪<lb
+ed="T" n="0715c16"/>之，梵言數百呪之。須臾有物如龍，其大如<lb
+ed="T" n="0715c17"/>指，赤色矯首，瞰水面，復潛于鉢底。<persName key="A001342">畏</persName>且攪<lb
+ed="T" n="0715c18"/>且呪，頃之，有白氣自鉢而興，逕上數尺，稍<lb
+ed="T" n="0715c19"/>稍引去。<persName key="A001342">畏</persName>謂<persName key="A008712">力士</persName>曰：「亟去，雨至矣。」<persName key="A008712">力士</persName>馳<lb
+ed="T" n="0715c20"/>去，迴顧見白氣疾旋，自講堂而西，若一匹<lb
+ed="T" n="0715c21"/>素翻空而上。既而昏霾，大風震電，<persName key="A008712">力士</persName>纔及<lb
+ed="T" n="0715c22"/><placeName key="PL000000023502">天津橋</placeName>，風雨隨馬而驟，街中大樹多拔焉。<persName key="A008712">力<lb
+ed="T" n="0715c23"/>士</persName>入奏。而衣盡霑濕矣。<ref target="#A000291" type="person">帝</ref>稽首迎<persName key="A001342">畏</persName>，再三致<lb
+ed="T" n="0715c24"/>謝。又<placeName key="PL000000023510">邙山</placeName>有巨蛇，<persName key="A001342">畏</persName>見之，歎曰：「欲決瀦<ptr target="#n232"/><placeName key="PL000000023581">洛<lb
+ed="T" n="0715c25"/>陽城</placeName>耶？」以<placeName key="PL000000048207">天竺</placeName>語呪數百聲，不日蛇死。乃<lb
+ed="T" n="0715c26"/><persName key="A008454">安祿山</persName>陷<placeName key="PL000000023581">洛陽</placeName>之兆也。一說<persName key="A001342">畏</persName>曾寓<placeName key="PL000000042216">西明</placeName><persName key="A001519">道<lb
+ed="T" n="0715c27"/>宣律師</persName>房，示為麁相，<persName key="A001519">宣</persName>頗嫌鄙之。至中夜，<lb
+ed="T" n="0715c28"/><persName key="A001519">宣</persName>捫蝨投于地，<persName key="A001342">畏</persName>連呼「<persName key="A001519">律師</persName>撲死佛子」。<persName key="A001519">宣</persName><lb
+ed="T" n="0715c29"/>方知是大菩薩，詰旦攝衣作禮焉。若觀此<pb ed="T" n="0716a" xml:id="T50.2061.0716a"/><lb
+ed="T" n="0716a01"/>說，<persName key="A001519">宣</persName>滅至<date from-iso="0713" key="j19818371992113" to-iso="0742">開元中</date>僅五十載矣，如<persName key="A001342">畏</persName>出沒<lb
+ed="T" n="0716a02"/>無常，非人之所測也<ptr target="#n233"/>。<date key="j19884521988806" from-iso="0732-02-05" to-iso="0733-01-24">二十年</date>，求還<placeName key="PL000000055436">西域</placeName>，優<lb
+ed="T" n="0716a03"/>詔不許。<date key="j19898161989816" when-iso="0735-10-31">二十三年乙亥十月七日</date>，右脅累足，<lb
+ed="T" n="0716a04"/>奄然而化，享齡九十九，僧臘八十。法侶淒涼，<lb
+ed="T" n="0716a05"/>皇心震悼，贈「鴻臚卿」。遣鴻臚丞<persName key="A016811">李現</persName><ptr target="#n1156"/>具威<lb
+ed="T" n="0716a06"/>儀、<persName key="A000614">賓律師</persName>護喪事<ptr target="#n234"/>。<date key="j19916431991643" when-iso="0740-10-31">二十八年十月三日</date>，葬<lb
+ed="T" n="0716a07"/>於<placeName key="PL000000023667">龍門西山廣化寺</placeName>之庭焉。定慧所熏，全身<lb
+ed="T" n="0716a08"/>不壞。<ref target="#j19916431991643" type="date">會葬之日</ref>，涕泗傾都，山川變色，僧俗<lb
+ed="T" n="0716a09"/>弟子<persName key="A008857">寶畏禪師</persName>、<persName key="A008858">明畏禪師</persName>、<placeName key="PL000000023194">滎陽</placeName><ref target="#A008857" type="person">鄭氏</ref>、<placeName key="PL000000021904">琅邪</placeName><ref target="#A008858" type="person">王氏</ref><ptr target="#n235"/><lb
+ed="T" n="0716a10"/>痛其安仰<ptr target="#n236"/>，如喪考妣焉。<date from-iso="0758" key="j19979901998189" to-iso="0758"><anchor xml:id="beg0716sgsz2"/>乾<anchor xml:id="end0716sgsz2"/>元之初</date>，唐風再<lb
+ed="T" n="0716a11"/>振，<ref target="#A008857 #A008858" type="person">二禪師</ref>刻偈，諸信士營龕，弟子舍于旁，<lb
+ed="T" n="0716a12"/>有同<ref target="#A002174" type="person">孔</ref>墓之戀。今觀<persName key="A001342">畏</persName>之遺形，漸加縮小，<lb
+ed="T" n="0716a13"/>黑皮隱隱，骨其露焉。累朝旱澇，皆就祈請。徵<lb
+ed="T" n="0716a14"/>驗隨生，且多檀施<ptr target="#n237"/>。錦繡巾帊<ptr target="#n238"/>，覆之如偃息<lb
+ed="T" n="0716a15"/>耳。每一出龕，置于低榻，香汁浴之。<placeName key="PL000000023581">洛中</placeName>豪<lb
+ed="T" n="0716a16"/>右爭施<anchor xml:id="beg0716sgsz3"/><choice resp="sgsz"><sic>彈</sic><corr>禪</corr></choice><anchor xml:id="end0716sgsz3"/>帊、淨巾、澡豆<ptr target="#n239"/>，以資浴事。<ref target="#A001640" type="person"><anchor xml:id="beg0716001"/>上<anchor xml:id="end0716001"/></ref>禳禱，<lb
+ed="T" n="0716a17"/>多遣使臣往加供施，必稱心願焉。</p>
     <linkGrp>
         <link targets="#0714b11 #0714b13"/>
         <ptr target="#A001342" type="person"/>

@@ -1,15 +1,15 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0877c08shiHuaiYu">
-    <anchor n="T.50.2061.0877c08"/><head><date from-iso="0618-06-21" key="j19469512052491" to-iso="0907-06-06">唐</date>太原府崇福寺<persName key="A013709">懷玉</persName>傳</head><p>
-<lb ed="T" n="0877c09"/><persName key="A013709">釋懷玉</persName>，姓許，<placeName key="PL000000003793">并州</placeName>人也。少而警利，日覽千
-<lb ed="T" n="0877c10"/>言。早露鋒芒，逈拔儕類。及其長也，戒節踰
-<lb ed="T" n="0877c11"/>峻。梵場龜鑑，志在修葺，無間彼此，夏墟寺
-<lb ed="T" n="0877c12"/>宇，經有闕而必補，像有凋而遍修，三任紀
-<lb ed="T" n="0877c13"/>綱，特有崇建。仍校讎大藏經二十餘本，祁
-<lb ed="T" n="0877c14"/>寒盛暑，不廢晨暮。增飾淨土院，興事任力，
-        <lb ed="T" n="0877c15"/>轉加殊麗。<persName key="A004379">代宗</persName>嘉<ref type="person" target="#A013709">之</ref>，委為灌頂<ptr target="#n97"/>道場主，真
-<lb ed="T" n="0877c16"/>言祕訣有所在矣。春秋六十三，卒於<placeName key="PL000000003781">本院</placeName>
-<lb ed="T" n="0877c17"/>云。</p>
+    <anchor n="T.50.2061.0877c08"/><head><date from-iso="0618-06-21" key="j19469512052491" to-iso="0907-06-06">唐</date>太原府崇福寺<persName key="A013709">懷玉</persName>傳</head><p><lb
+ed="T" n="0877c09"/><persName key="A013709">釋懷玉</persName>，姓許，<placeName key="PL000000003793">并州</placeName>人也。少而警利，日覽千<lb
+ed="T" n="0877c10"/>言。早露鋒芒，逈拔儕類。及其長也，戒節踰<lb
+ed="T" n="0877c11"/>峻。梵場龜鑑，志在修葺，無間彼此，夏墟寺<lb
+ed="T" n="0877c12"/>宇，經有闕而必補，像有凋而遍修，三任紀<lb
+ed="T" n="0877c13"/>綱，特有崇建。仍校讎大藏經二十餘本，祁<lb
+ed="T" n="0877c14"/>寒盛暑，不廢晨暮。增飾淨土院，興事任力，<lb
+ed="T" n="0877c15"/>轉加殊麗。<persName key="A004379">代宗</persName>嘉<ref type="person" target="#A013709">之</ref>，委為灌頂<ptr target="#n97"/>道場主，真<lb
+ed="T" n="0877c16"/>言祕訣有所在矣。春秋六十三，卒於<placeName key="PL000000003781">本院</placeName><lb
+ed="T" n="0877c17"/>云。</p>
     <linkGrp>
         <link targets="#0877c15 #0877c15"/>
         <ptr target="#A013709" type="person"/>

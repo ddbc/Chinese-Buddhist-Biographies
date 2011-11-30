@@ -1,21 +1,21 @@
 <?xml version='1.0' encoding='utf-8'?>
-<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0719a18shiDiPoHeLuo">
-    <lb ed="T" n="0719a18"/><anchor n="T.50.2061.0719a18"/><head><date from-iso="0689-12-21" key="j19730671978610" to-iso="0705-02-24">周</date><placeName key="PL000000042305">西京廣福寺</placeName><persName key="A000332">日照</persName>傳</head><p>
-        <lb ed="T" n="0719a19"/><persName key="A000332">釋地婆訶羅</persName>，華言<persName key="A000332">日照</persName>，<placeName key="PL000000048208">中印度</placeName>人也。洞明
-        <lb ed="T" n="0719a20"/>八藏<ptr target="#n335"/>，博曉五明<ptr target="#n88"/>，戒行高<anchor xml:id="beg0719sgsz1"/>奇<anchor xml:id="end0719sgsz1"/>學業勤悴<ptr target="#n336"/>，而呪術<ptr target="#n337"/>
-        <lb ed="T" n="0719a21"/>尤工。以<persName key="A002146">天皇</persName><date from-iso="0650" key="j19585081970910" to-iso="0684">時</date>來遊此<ref target="#PL000000000106" type="place">國</ref>，<date from-iso="0679-06-17" key="j19692271969255" to-iso="0679-07-15">儀鳳四年五月</date>，
-<lb ed="T" n="0719a22"/>表請翻度所齎經夾，仍準<persName key="A000294">玄奘</persName>例，於一大
-        <lb ed="T" n="0719a23"/>寺別院安置，并大德三五人同譯。至<persName key="A002099">天后</persName><date key="j19723801972741" from-iso="0688-02-03" to-iso="0689-01-29">垂
-            <lb ed="T" n="0719a24"/>拱末</date><ptr target="#n338"/>，於<ref target="#PL000000042324 #PL000000023665" type="place">兩京東西太原寺</ref>（<placeName key="PL000000042324">西太原寺</placeName>後改<placeName key="PL000000042324">西崇福寺</placeName>，<placeName key="PL000000023665">東太原寺</placeName>後改
-        <lb ed="T" n="0719a25"/><placeName key="PL000000023665">大福先寺</placeName>），及<placeName key="PL000000042305">西京廣福寺</placeName><ptr target="#n339"/>，譯《大乘顯識經》、《大乘五
-        <lb ed="T" n="0719a26"/>蘊論》等凡一十八部，沙門<persName key="A002106">戰陀</persName><ptr target="#n340"/>、<persName key="A008982">般若提婆</persName>譯
-        <lb ed="T" n="0719a27"/>語，沙門<persName key="A001727">慧智</persName>證梵語<ptr target="#n52"/>。勅諸名德助其法化<ptr target="#n341"/>，
-<lb ed="T" n="0719a28"/>沙門<persName key="A008984">道成</persName>、<persName key="A008985">薄塵</persName>、<persName key="A008981">嘉尚</persName>、<persName key="A001414">圓測</persName>、<persName key="A008979">靈辯</persName>、<persName key="A000661">明恂</persName>、<persName key="A008977">懷度</persName>證
-        <lb ed="T" n="0719a29"/>義，沙門<persName key="A008976">思玄</persName>、<persName key="A001192">復禮</persName>綴文筆受<ptr target="#n53"/>，<persName key="A002099">天后</persName>親敷叡藻，<pb ed="T" n="0719b" xml:id="T50.2061.0719b"/>
-        <lb ed="T" n="0719b01"/>製序冠首焉。<persName key="A000332">照</persName>甞與<persName key="A000438">覺護</persName>同翻《佛頂》<ptr target="#n342"/>，深體
-<lb ed="T" n="0719b02"/>唐言，善傳佛意。每進新經，錫賚豐厚。後終
-        <lb ed="T" n="0719b03"/>于翻經小房，享年七十五<ptr target="#n343"/>。<persName key="A002099">天后</persName>勅葬于<placeName key="PL000000023650">洛陽
-<lb ed="T" n="0719b04"/>龍門香山</placeName>，塔見存焉。</p>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0719a18shiDiPoHeLuo"><lb
+ed="T" n="0719a18"/><anchor n="T.50.2061.0719a18"/><head><date from-iso="0689-12-21" key="j19730671978610" to-iso="0705-02-24">周</date><placeName key="PL000000042305">西京廣福寺</placeName><persName key="A000332">日照</persName>傳</head><p><lb
+ed="T" n="0719a19"/><persName key="A000332">釋地婆訶羅</persName>，華言<persName key="A000332">日照</persName>，<placeName key="PL000000048208">中印度</placeName>人也。洞明<lb
+ed="T" n="0719a20"/>八藏<ptr target="#n335"/>，博曉五明<ptr target="#n88"/>，戒行高<anchor xml:id="beg0719sgsz1"/>奇<anchor xml:id="end0719sgsz1"/>學業勤悴<ptr target="#n336"/>，而呪術<ptr target="#n337"/><lb
+ed="T" n="0719a21"/>尤工。以<persName key="A002146">天皇</persName><date from-iso="0650" key="j19585081970910" to-iso="0684">時</date>來遊此<ref target="#PL000000000106" type="place">國</ref>，<date from-iso="0679-06-17" key="j19692271969255" to-iso="0679-07-15">儀鳳四年五月</date>，<lb
+ed="T" n="0719a22"/>表請翻度所齎經夾，仍準<persName key="A000294">玄奘</persName>例，於一大<lb
+ed="T" n="0719a23"/>寺別院安置，并大德三五人同譯。至<persName key="A002099">天后</persName><date key="j19723801972741" from-iso="0688-02-03" to-iso="0689-01-29">垂<lb
+ed="T" n="0719a24"/>拱末</date><ptr target="#n338"/>，於<ref target="#PL000000042324 #PL000000023665" type="place">兩京東西太原寺</ref>（<placeName key="PL000000042324">西太原寺</placeName>後改<placeName key="PL000000042324">西崇福寺</placeName>，<placeName key="PL000000023665">東太原寺</placeName>後改<lb
+ed="T" n="0719a25"/><placeName key="PL000000023665">大福先寺</placeName>），及<placeName key="PL000000042305">西京廣福寺</placeName><ptr target="#n339"/>，譯《大乘顯識經》、《大乘五<lb
+ed="T" n="0719a26"/>蘊論》等凡一十八部，沙門<persName key="A002106">戰陀</persName><ptr target="#n340"/>、<persName key="A008982">般若提婆</persName>譯<lb
+ed="T" n="0719a27"/>語，沙門<persName key="A001727">慧智</persName>證梵語<ptr target="#n52"/>。勅諸名德助其法化<ptr target="#n341"/>，<lb
+ed="T" n="0719a28"/>沙門<persName key="A008984">道成</persName>、<persName key="A008985">薄塵</persName>、<persName key="A008981">嘉尚</persName>、<persName key="A001414">圓測</persName>、<persName key="A008979">靈辯</persName>、<persName key="A000661">明恂</persName>、<persName key="A008977">懷度</persName>證<lb
+ed="T" n="0719a29"/>義，沙門<persName key="A008976">思玄</persName>、<persName key="A001192">復禮</persName>綴文筆受<ptr target="#n53"/>，<persName key="A002099">天后</persName>親敷叡藻，<pb ed="T" n="0719b" xml:id="T50.2061.0719b"/><lb
+ed="T" n="0719b01"/>製序冠首焉。<persName key="A000332">照</persName>甞與<persName key="A000438">覺護</persName>同翻《佛頂》<ptr target="#n342"/>，深體<lb
+ed="T" n="0719b02"/>唐言，善傳佛意。每進新經，錫賚豐厚。後終<lb
+ed="T" n="0719b03"/>于翻經小房，享年七十五<ptr target="#n343"/>。<persName key="A002099">天后</persName>勅葬于<placeName key="PL000000023650">洛陽<lb
+ed="T" n="0719b04"/>龍門香山</placeName>，塔見存焉。</p>
     <linkGrp>
         <link targets="#0719a19 #0719a19"/>
         <ptr target="#A000332" type="person"/>

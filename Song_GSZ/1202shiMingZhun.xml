@@ -1,19 +1,19 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0880c20shiMingZhun">
-    <anchor n="T.50.2061.0880c20"/><head><date from-iso="0618-06-21" key="j19469512052491" to-iso="0907-06-06">唐</date>長安禪定寺<persName key="A013737">明準</persName>傳</head><p>
-<lb ed="T" n="0880c21"/><persName key="A013737">釋明準</persName>者，不詳氏族，生緣本天台<placeName key="PL000000014700">靈墟道場</placeName>，
-<lb ed="T" n="0880c22"/>出俗遊方。至<placeName key="PL000000042189">京邑</placeName>，觀古之神僧<persName key="A013739">智苑</persName>於苑
-<lb ed="T" n="0880c23"/>陽北山<!--找不到此地-->刊石寫經灌鐵，以俟慈氏下生，免
-<lb ed="T" n="0880c24"/>水火之虞。又東洛<placeName key="PL000000023652">長壽寺</placeName>寫華嚴，<placeName key="PL000000023661">聖善寺</placeName>寫
-<lb ed="T" n="0880c25"/>法華，嵩山<placeName key="PL000000023265">嶽寺</placeName>寫楞伽，悉刊貞珉，皆圖不
-<lb ed="T" n="0880c26"/>朽。<persName key="A013737">準</persName>遂於<date key="j20125492012578" notAfter-iso="0798-02-24" notBefore-iso="0798-01-26">貞元戊寅歲春正月</date>，見寺僧鏨
-<lb ed="T" n="0880c27"/>山攻石，石悉頑惡，知匠氏不虔，山靈祕吝。
-<lb ed="T" n="0880c28"/>時<persName key="A013737">準</persName>疏告陰靈，請禆善務。俄於定中見若
-<lb ed="T" n="0880c29"/>干幅貯無量石，冥冥之間，如有宰割，皆中<pb ed="T" n="0881a" xml:id="T50.2061.0881a"/>
-<lb ed="T" n="0881a01"/>刻字。時連率<placeName key="PL000000002513">博陵</placeName><persName key="A013738">崔公</persName>激勸幕府參佐各
-<lb ed="T" n="0881a02"/>書一品，從序至勸發，凡二十八。圜廊挺立，
-<lb ed="T" n="0881a03"/>不朞畢工。<persName key="A013737">準</persName>之化人，皆此類也。<date key="j20157082015737" notAfter-iso="0806-10-19" notBefore-iso="0806-09-20">元和元年
-<lb ed="T" n="0881a04"/>八月</date>中也。後不詳終所。</p>
+    <anchor n="T.50.2061.0880c20"/><head><date from-iso="0618-06-21" key="j19469512052491" to-iso="0907-06-06">唐</date>長安禪定寺<persName key="A013737">明準</persName>傳</head><p><lb
+ed="T" n="0880c21"/><persName key="A013737">釋明準</persName>者，不詳氏族，生緣本天台<placeName key="PL000000014700">靈墟道場</placeName>，<lb
+ed="T" n="0880c22"/>出俗遊方。至<placeName key="PL000000042189">京邑</placeName>，觀古之神僧<persName key="A013739">智苑</persName>於苑<lb
+ed="T" n="0880c23"/>陽北山<!--找不到此地-->刊石寫經灌鐵，以俟慈氏下生，免<lb
+ed="T" n="0880c24"/>水火之虞。又東洛<placeName key="PL000000023652">長壽寺</placeName>寫華嚴，<placeName key="PL000000023661">聖善寺</placeName>寫<lb
+ed="T" n="0880c25"/>法華，嵩山<placeName key="PL000000023265">嶽寺</placeName>寫楞伽，悉刊貞珉，皆圖不<lb
+ed="T" n="0880c26"/>朽。<persName key="A013737">準</persName>遂於<date key="j20125492012578" notAfter-iso="0798-02-24" notBefore-iso="0798-01-26">貞元戊寅歲春正月</date>，見寺僧鏨<lb
+ed="T" n="0880c27"/>山攻石，石悉頑惡，知匠氏不虔，山靈祕吝。<lb
+ed="T" n="0880c28"/>時<persName key="A013737">準</persName>疏告陰靈，請禆善務。俄於定中見若<lb
+ed="T" n="0880c29"/>干幅貯無量石，冥冥之間，如有宰割，皆中<pb ed="T" n="0881a" xml:id="T50.2061.0881a"/><lb
+ed="T" n="0881a01"/>刻字。時連率<placeName key="PL000000002513">博陵</placeName><persName key="A013738">崔公</persName>激勸幕府參佐各<lb
+ed="T" n="0881a02"/>書一品，從序至勸發，凡二十八。圜廊挺立，<lb
+ed="T" n="0881a03"/>不朞畢工。<persName key="A013737">準</persName>之化人，皆此類也。<date key="j20157082015737" notAfter-iso="0806-10-19" notBefore-iso="0806-09-20">元和元年<lb
+ed="T" n="0881a04"/>八月</date>中也。後不詳終所。</p>
     <linkGrp>
         <link targets="#0880c21 #0880c21"/>
         <ptr target="#A013737" type="person"/>

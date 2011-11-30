@@ -1,24 +1,19 @@
 <?xml version='1.0' encoding='utf-8'?>
-<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0888c14shiZhiYi">
-    <lb n="0888c14" ed="T"/><anchor n="T.50.2061.0888c14"/><head><anchor xml:id="beg0888c02"/>宋<anchor xml:id="end0888c02"/>高僧傳卷第二十九</head>
-    <lb n="0888c15" ed="T"/>
-    <lb n="0888c16" ed="T"/><byline n="Author"><anchor xml:id="beg0888c03"/>宋左街天壽寺通慧大師
-        <lb n="0888c17" ed="T"/>賜紫沙門贊寧等奉　勅撰<anchor xml:id="end0888c03"/></byline>
-    <lb n="0888c18" ed="T"/><head>雜科聲德篇第十之一（正傳二十六人附見六人）</head>
-                <lb n="0888c19" ed="T"/><head><date from-iso="0420-07-11" key="j18746541896160" to-iso="0479-05-29">南宋</date>錢塘靈隱寺<persName key="A013816">智一</persName>傳</head><p>
-<lb ed="T" n="0888c20"/><persName key="A013816">釋智一</persName>者，不詳何許人也。居<placeName key="PL000000011596">靈隱寺</placeName>之半
-<lb ed="T" n="0888c21"/>峯，精守戒範，而善長嘯。嘯終，乃牽曳其聲，
-<lb ed="T" n="0888c22"/>杳入雲際，如吹笳葉，若揭遊絲，徐舉徐揚，
-<lb ed="T" n="0888c23"/>載哀載咽，颼飀淒切，聽者悲涼，謂之哀松之
-<lb ed="T" n="0888c24"/>梵。頗生物善，或在像前讚詠流靡。於靈山<!--找不到此地-->
-<lb ed="T" n="0888c25"/>㵎邊，養一白猿，有時驀山踰㵎，久而不還。
-<lb ed="T" n="0888c26"/><persName key="A013816">一</persName>乃吮吻張喉作梵呼之，則猿至矣。時人
-<lb ed="T" n="0888c27"/>謂之白猿梵召。<persName key="A013816">一公</persName>為猿父，猶狙公也。
-<lb ed="T" n="0888c28"/>其後㵎邊群狙聚焉。每至眾僧齋訖，<anchor xml:id="beg0888002"/>歛<anchor xml:id="end0888002"/>生
-<lb ed="T" n="0888c29"/>飯送猿臺所，後令山童呼三二聲，則群猿<pb ed="T" n="0889a" xml:id="T50.2061.0889a"/>
-<lb ed="T" n="0889a01"/>競至。洎乎<date key="j20279082030170" notAfter-iso="0846" notBefore-iso="0840">唐武宗</date>廢教，伊寺毀除焉，鞠為
-<lb ed="T" n="0889a02"/>茂草之墟，飯猿于臺事皆堙滅。<persName key="A013816">一師</persName>不詳
-<lb ed="T" n="0889a03"/>所終。</p>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0888c19shiZhiYi"><lb
+n="0888c19" ed="T"/><anchor n="T.50.2061.0888c19"/><head><date from-iso="0420-07-11" key="j18746541896160" to-iso="0479-05-29">南宋</date>錢塘靈隱寺<persName key="A013816">智一</persName>傳</head><p><lb
+ed="T" n="0888c20"/><persName key="A013816">釋智一</persName>者，不詳何許人也。居<placeName key="PL000000011596">靈隱寺</placeName>之半<lb
+ed="T" n="0888c21"/>峯，精守戒範，而善長嘯。嘯終，乃牽曳其聲，<lb
+ed="T" n="0888c22"/>杳入雲際，如吹笳葉，若揭遊絲，徐舉徐揚，<lb
+ed="T" n="0888c23"/>載哀載咽，颼飀淒切，聽者悲涼，謂之哀松之<lb
+ed="T" n="0888c24"/>梵。頗生物善，或在像前讚詠流靡。於靈山<!--找不到此地--><lb
+ed="T" n="0888c25"/>㵎邊，養一白猿，有時驀山踰㵎，久而不還。<lb
+ed="T" n="0888c26"/><persName key="A013816">一</persName>乃吮吻張喉作梵呼之，則猿至矣。時人<lb
+ed="T" n="0888c27"/>謂之白猿梵召。<persName key="A013816">一公</persName>為猿父，猶狙公也。<lb
+ed="T" n="0888c28"/>其後㵎邊群狙聚焉。每至眾僧齋訖，<anchor xml:id="beg0888002"/>歛<anchor xml:id="end0888002"/>生<lb
+ed="T" n="0888c29"/>飯送猿臺所，後令山童呼三二聲，則群猿<pb ed="T" n="0889a" xml:id="T50.2061.0889a"/><lb
+ed="T" n="0889a01"/>競至。洎乎<date key="j20279082030170" notAfter-iso="0846" notBefore-iso="0840">唐武宗</date>廢教，伊寺毀除焉，鞠為<lb
+ed="T" n="0889a02"/>茂草之墟，飯猿于臺事皆堙滅。<persName key="A013816">一師</persName>不詳<lb
+ed="T" n="0889a03"/>所終。</p>
     <linkGrp>
         <link targets="#0888c20 #0888c21"/>
         <ptr target="#A013816" type="person"/>

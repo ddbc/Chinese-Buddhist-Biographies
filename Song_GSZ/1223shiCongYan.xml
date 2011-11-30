@@ -1,19 +1,19 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0886b16shiCongYan">
-    <anchor n="T.50.2061.0886b16"/><head><date from-iso="0960-02-09" key="j20717322132856" to-iso="1127-06-18">宋</date>西京寶壇院<persName key="A013803">從彥</persName>傳</head><p>
-<lb ed="T" n="0886b17"/><persName key="A013803">釋從彥</persName>，姓米氏，<placeName key="PL000000000514">燕</placeName>人也。始自識環，尋知跪
-<lb ed="T" n="0886b18"/>橘，顒昂挺質，豁達為<anchor xml:id="beg0886003"/>襟<anchor xml:id="end0886003"/>。年<anchor xml:id="beg0886004"/>距<anchor xml:id="end0886004"/>十五，父母
-<lb ed="T" n="0886b19"/>聽許出家於并部<placeName key="PL000000003787">慧覺禪院</placeName>也。受戒後，經江
-<lb ed="T" n="0886b20"/>鼓枻，論海化鯤，流輩畏之，咸知宗奉。乃懷
-<lb ed="T" n="0886b21"/>心於祖教，望攻玉於他山。由是北別氷天，
-        <lb ed="T" n="0886b22"/>南觀桂海，不虞惡瘴，唯慕叢林，欣遇<ref type="person" target="#A010681">龍牙
-<lb ed="T" n="0886b23"/>山<!--找不到此地-->禪師</ref>為決所疑，蔚成達者。後唐<date key="j20629582063308" notAfter-iso="0937-01-16" notBefore-iso="0936-02-01">清泰丙
-<lb ed="T" n="0886b24"/>申歲</date>還遊<placeName key="PL000000023255">嵩少</placeName>。<placeName key="PL000000023638">洛中</placeName>始安，人情輯睦，<persName key="A013803">彥</persName>營
-<lb ed="T" n="0886b25"/>構禪坊，延聚緇侶而供養之。歷晉、漢、周三
-<lb ed="T" n="0886b26"/>朝，皆加恩命，乃曰：「寵辱若驚，<persName key="A013803">吾</persName>無驚久矣。
-<lb ed="T" n="0886b27"/>然俗諦門中，感世主以綈繡緣飾朽木者
-<lb ed="T" n="0886b28"/>哉。」以<date key="j20752452075245" when-iso="0969-09-22">開寶二年八月三日</date>示疾而終。<date key="j20757452076098" notAfter-iso="0972-01-23" notBefore-iso="0971-02-04">四年
-<lb ed="T" n="0886b29"/>辛未</date>，改權從久，瘞于層塔焉。</p>
+    <anchor n="T.50.2061.0886b16"/><head><date from-iso="0960-02-09" key="j20717322132856" to-iso="1127-06-18">宋</date>西京寶壇院<persName key="A013803">從彥</persName>傳</head><p><lb
+ed="T" n="0886b17"/><persName key="A013803">釋從彥</persName>，姓米氏，<placeName key="PL000000000514">燕</placeName>人也。始自識環，尋知跪<lb
+ed="T" n="0886b18"/>橘，顒昂挺質，豁達為<anchor xml:id="beg0886003"/>襟<anchor xml:id="end0886003"/>。年<anchor xml:id="beg0886004"/>距<anchor xml:id="end0886004"/>十五，父母<lb
+ed="T" n="0886b19"/>聽許出家於并部<placeName key="PL000000003787">慧覺禪院</placeName>也。受戒後，經江<lb
+ed="T" n="0886b20"/>鼓枻，論海化鯤，流輩畏之，咸知宗奉。乃懷<lb
+ed="T" n="0886b21"/>心於祖教，望攻玉於他山。由是北別氷天，<lb
+ed="T" n="0886b22"/>南觀桂海，不虞惡瘴，唯慕叢林，欣遇<ref type="person" target="#A010681">龍牙<lb
+ed="T" n="0886b23"/>山<!--找不到此地-->禪師</ref>為決所疑，蔚成達者。後唐<date key="j20629582063308" notAfter-iso="0937-01-16" notBefore-iso="0936-02-01">清泰丙<lb
+ed="T" n="0886b24"/>申歲</date>還遊<placeName key="PL000000023255">嵩少</placeName>。<placeName key="PL000000023638">洛中</placeName>始安，人情輯睦，<persName key="A013803">彥</persName>營<lb
+ed="T" n="0886b25"/>構禪坊，延聚緇侶而供養之。歷晉、漢、周三<lb
+ed="T" n="0886b26"/>朝，皆加恩命，乃曰：「寵辱若驚，<persName key="A013803">吾</persName>無驚久矣。<lb
+ed="T" n="0886b27"/>然俗諦門中，感世主以綈繡緣飾朽木者<lb
+ed="T" n="0886b28"/>哉。」以<date key="j20752452075245" when-iso="0969-09-22">開寶二年八月三日</date>示疾而終。<date key="j20757452076098" notAfter-iso="0972-01-23" notBefore-iso="0971-02-04">四年<lb
+ed="T" n="0886b29"/>辛未</date>，改權從久，瘞于層塔焉。</p>
     <linkGrp>
         <link targets="#0886b18 #0886b20"/>
         <ptr target="#A013803" type="person"/>

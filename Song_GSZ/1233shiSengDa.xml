@@ -1,13 +1,13 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0889b22shiSengDa">
-    <anchor n="T.50.2061.0889b22"/><head><date from-iso="0618-06-21" key="j19469512052491" to-iso="0907-06-06">唐</date>越州妙喜寺<persName key="A013839">僧達</persName>傳</head><p>
-<lb ed="T" n="0889b23"/><persName key="A013839">釋僧達</persName>，姓王氏，<placeName key="PL000000013240">會稽</placeName>人也。稚齒英奇，不參
-<lb ed="T" n="0889b24"/>戲弄，於龜山<placeName key="PL000000013294">妙喜道場</placeName>出俗。<placeName key="PL000000013294">其寺</placeName><date key="j19045331909604" notAfter-iso="0516" notBefore-iso="0502">南梁</date>初
-<lb ed="T" n="0889b25"/>建。後樂遊方，見<persName key="A000237">黃梅忍禪師</persName>，若枯苗得雨，
-<lb ed="T" n="0889b26"/>隨順修禪，罔有休懈。遇<persName key="A009251">印宗禪師</persName>，重磨心
-        <lb ed="T" n="0889b27"/>鑑。<placeName key="PL000000025908">光州</placeName>見<persName key="A008876">道岸律師</persName>，更勵律儀。四眾<ptr target="#n98"/>依歸，
-<lb ed="T" n="0889b28"/>如水宗海。<date key="j19617861961814" notAfter-iso="0659-03-01" notBefore-iso="0659-02-01">開元七年</date>示疾而終，春秋八十
-<lb ed="T" n="0889b29"/>二云。</p>
+    <anchor n="T.50.2061.0889b22"/><head><date from-iso="0618-06-21" key="j19469512052491" to-iso="0907-06-06">唐</date>越州妙喜寺<persName key="A013839">僧達</persName>傳</head><p><lb
+ed="T" n="0889b23"/><persName key="A013839">釋僧達</persName>，姓王氏，<placeName key="PL000000013240">會稽</placeName>人也。稚齒英奇，不參<lb
+ed="T" n="0889b24"/>戲弄，於龜山<placeName key="PL000000013294">妙喜道場</placeName>出俗。<placeName key="PL000000013294">其寺</placeName><date key="j19045331909604" notAfter-iso="0516" notBefore-iso="0502">南梁</date>初<lb
+ed="T" n="0889b25"/>建。後樂遊方，見<persName key="A000237">黃梅忍禪師</persName>，若枯苗得雨，<lb
+ed="T" n="0889b26"/>隨順修禪，罔有休懈。遇<persName key="A009251">印宗禪師</persName>，重磨心<lb
+ed="T" n="0889b27"/>鑑。<placeName key="PL000000025908">光州</placeName>見<persName key="A008876">道岸律師</persName>，更勵律儀。四眾<ptr target="#n98"/>依歸，<lb
+ed="T" n="0889b28"/>如水宗海。<date key="j19617861961814" notAfter-iso="0659-03-01" notBefore-iso="0659-02-01">開元七年</date>示疾而終，春秋八十<lb
+ed="T" n="0889b29"/>二云。</p>
     <linkGrp>
         <link targets="#0889b24 #0889b24"/>
         <ptr target="#A013839" type="person"/>

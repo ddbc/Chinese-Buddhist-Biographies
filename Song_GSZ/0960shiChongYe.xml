@@ -1,16 +1,16 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0795a15shiChongYe">
-    <anchor n="T.50.2061.0795a15"/><head><date from-iso="0618-06-21" key="j19469512052491" to-iso="0907-06-06">唐</date>京兆西明寺<persName key="A010785">崇業</persName>傳</head><p>
-<lb ed="T" n="0795a16"/><persName key="A010785">釋崇業</persName>，不知何許人也。初同<placeName key="PL000000020095">弋陽</placeName><persName key="A008876">道岸</persName>
-<lb ed="T" n="0795a17"/>學毘尼<app type="multiplier" xml:id="begd1e23651"/>於<anchor xml:id="endd1e23651"/><persName key="A002468">文綱</persName>之法集。<persName key="A010785">業</persName>之服勤，淬礪罔
-<lb ed="T" n="0795a18"/>怠，黌肆之間推居元長。與<placeName key="PL000000020588">淄州</placeName><persName key="A010786">名恪</persName>齊名，
-<lb ed="T" n="0795a19"/>挺拔剛毅過之，美聲洋洋達<app type="multiplier" xml:id="begd1e23661"/>於<anchor xml:id="endd1e23661"/>禁闥。<persName key="A002461">睿宗
-<lb ed="T" n="0795a20"/>聖真皇帝</persName>操心履道，勅以舊邸造<placeName key="PL000000042180">安國寺</placeName>，有
-<lb ed="T" n="0795a21"/>詔<persName key="A010785">業</persName>入承明熏修別殿，為<persName key="A002461">帝</persName><anchor xml:id="beg0795001"/>授<anchor xml:id="end0795001"/>菩薩戒，施
-<lb ed="T" n="0795a22"/>物優渥，僉迴捨修菩提寺<!--找不到此地-->殿宇，抑由先不
-<lb ed="T" n="0795a23"/>畜盈長之故也。<date from-iso="0713" key="j19818371992113" to-iso="0742">開元</date>中微疾，囑弟子曰：
-<lb ed="T" n="0795a24"/>「<persName key="A010785">吾</persName>化窮數盡，汝曹堅以防川，無令放逸！」語訖，
-<lb ed="T" n="0795a25"/>終<app type="multiplier" xml:id="begd1e23691"/>於<anchor xml:id="endd1e23691"/>所居寺之別院。<persName key="A010785">業</persName>即<persName key="A001519">南山</persName>之嗣孫矣。</p>
+    <anchor n="T.50.2061.0795a15"/><head><date from-iso="0618-06-21" key="j19469512052491" to-iso="0907-06-06">唐</date>京兆西明寺<persName key="A010785">崇業</persName>傳</head><p><lb
+ed="T" n="0795a16"/><persName key="A010785">釋崇業</persName>，不知何許人也。初同<placeName key="PL000000020095">弋陽</placeName><persName key="A008876">道岸</persName><lb
+ed="T" n="0795a17"/>學毘尼<app type="multiplier" xml:id="begd1e23651"/>於<anchor xml:id="endd1e23651"/><persName key="A002468">文綱</persName>之法集。<persName key="A010785">業</persName>之服勤，淬礪罔<lb
+ed="T" n="0795a18"/>怠，黌肆之間推居元長。與<placeName key="PL000000020588">淄州</placeName><persName key="A010786">名恪</persName>齊名，<lb
+ed="T" n="0795a19"/>挺拔剛毅過之，美聲洋洋達<app type="multiplier" xml:id="begd1e23661"/>於<anchor xml:id="endd1e23661"/>禁闥。<persName key="A002461">睿宗<lb
+ed="T" n="0795a20"/>聖真皇帝</persName>操心履道，勅以舊邸造<placeName key="PL000000042180">安國寺</placeName>，有<lb
+ed="T" n="0795a21"/>詔<persName key="A010785">業</persName>入承明熏修別殿，為<persName key="A002461">帝</persName><anchor xml:id="beg0795001"/>授<anchor xml:id="end0795001"/>菩薩戒，施<lb
+ed="T" n="0795a22"/>物優渥，僉迴捨修菩提寺<!--找不到此地-->殿宇，抑由先不<lb
+ed="T" n="0795a23"/>畜盈長之故也。<date from-iso="0713" key="j19818371992113" to-iso="0742">開元</date>中微疾，囑弟子曰：<lb
+ed="T" n="0795a24"/>「<persName key="A010785">吾</persName>化窮數盡，汝曹堅以防川，無令放逸！」語訖，<lb
+ed="T" n="0795a25"/>終<app type="multiplier" xml:id="begd1e23691"/>於<anchor xml:id="endd1e23691"/>所居寺之別院。<persName key="A010785">業</persName>即<persName key="A001519">南山</persName>之嗣孫矣。</p>
     <linkGrp>
         <link targets="#0795a16 #0795a17"/>
         <ptr target="#A010785" type="person"/>

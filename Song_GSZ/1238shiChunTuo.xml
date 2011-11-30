@@ -1,18 +1,18 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0890c23shiChunTuo">
-    <anchor n="T.50.2061.0890c23"/><head><date from-iso="0618-06-21" key="j19469512052491" to-iso="0907-06-06">唐</date>京兆鎮國寺<persName key="A012790">純陀</persName>傳</head><p>
-<lb ed="T" n="0890c24"/><persName key="A012790">釋純陀</persName>者，本<placeName key="PL000000055436">西域</placeName>人也，梵名無由翻就華
-<lb ed="T" n="0890c25"/>言也。從遊<placeName key="PL000000042189">京邑</placeName>，人所欽重。<date key="j19674991968318" notAfter-iso="0676" notBefore-iso="0674">上元</date>中便云東
-<lb ed="T" n="0890c26"/>渡，人見之，顏容若童穉之色，言已年六百歲
-<lb ed="T" n="0890c27"/>矣。或謂為八十歲人也。言談氣壯，舉動不
-<lb ed="T" n="0890c28"/>衰。<persName key="A004379">代宗皇帝</persName>聞之，詔入，禮遇極<app type="cb-app" xml:id="begd1e50105"/>豐<anchor xml:id="endd1e50105"/>，俾求留
-<lb ed="T" n="0890c29"/>年之道。<persName key="A012790">陀</persName>曰：「心神好靜，今為塵境<app type="cb-app" xml:id="begd1e50113"/>汩<anchor xml:id="endd1e50113"/>之，何<pb ed="T" n="0891a" xml:id="T50.2061.0891a"/>
-<lb ed="T" n="0891a01"/>從冥寂乎？若離簡靜外，欲望留年，如登木
-<lb ed="T" n="0891a02"/><app type="cb-app" xml:id="begd1e50125"/>采<anchor xml:id="endd1e50125"/>芙蕖，其可得乎？<persName key="A004379">陛下</persName>欲長年，由簡潔
-<lb ed="T" n="0891a03"/>安神。神安則壽永，寡慾則身安。術斯已往，
-<lb ed="T" n="0891a04"/><persName key="A012790">貧道</persName>所不知也。」<persName key="A004379">帝</persName>由是篤重之。以<date key="j20011912001238" notAfter-iso="0767-02-07" notBefore-iso="0766-12-22">永泰三
-<lb ed="T" n="0891a05"/>年</date><!--資料庫無永泰三年,應為大曆元年-->預知必逝，遣弟子齎衣鉢進上，<persName key="A004379">帝</persName>賜弟
-<lb ed="T" n="0891a06"/>子紫衣。<persName key="A012790">陀</persName>終于<placeName key="PL000000042262">鎮國寺</placeName>焉。</p>
+    <anchor n="T.50.2061.0890c23"/><head><date from-iso="0618-06-21" key="j19469512052491" to-iso="0907-06-06">唐</date>京兆鎮國寺<persName key="A012790">純陀</persName>傳</head><p><lb
+ed="T" n="0890c24"/><persName key="A012790">釋純陀</persName>者，本<placeName key="PL000000055436">西域</placeName>人也，梵名無由翻就華<lb
+ed="T" n="0890c25"/>言也。從遊<placeName key="PL000000042189">京邑</placeName>，人所欽重。<date key="j19674991968318" notAfter-iso="0676" notBefore-iso="0674">上元</date>中便云東<lb
+ed="T" n="0890c26"/>渡，人見之，顏容若童穉之色，言已年六百歲<lb
+ed="T" n="0890c27"/>矣。或謂為八十歲人也。言談氣壯，舉動不<lb
+ed="T" n="0890c28"/>衰。<persName key="A004379">代宗皇帝</persName>聞之，詔入，禮遇極<app type="cb-app" xml:id="begd1e50105"/>豐<anchor xml:id="endd1e50105"/>，俾求留<lb
+ed="T" n="0890c29"/>年之道。<persName key="A012790">陀</persName>曰：「心神好靜，今為塵境<app type="cb-app" xml:id="begd1e50113"/>汩<anchor xml:id="endd1e50113"/>之，何<pb ed="T" n="0891a" xml:id="T50.2061.0891a"/><lb
+ed="T" n="0891a01"/>從冥寂乎？若離簡靜外，欲望留年，如登木<lb
+ed="T" n="0891a02"/><app type="cb-app" xml:id="begd1e50125"/>采<anchor xml:id="endd1e50125"/>芙蕖，其可得乎？<persName key="A004379">陛下</persName>欲長年，由簡潔<lb
+ed="T" n="0891a03"/>安神。神安則壽永，寡慾則身安。術斯已往，<lb
+ed="T" n="0891a04"/><persName key="A012790">貧道</persName>所不知也。」<persName key="A004379">帝</persName>由是篤重之。以<date key="j20011912001238" notAfter-iso="0767-02-07" notBefore-iso="0766-12-22">永泰三<lb
+ed="T" n="0891a05"/>年</date><!--資料庫無永泰三年,應為大曆元年-->預知必逝，遣弟子齎衣鉢進上，<persName key="A004379">帝</persName>賜弟<lb
+ed="T" n="0891a06"/>子紫衣。<persName key="A012790">陀</persName>終于<placeName key="PL000000042262">鎮國寺</placeName>焉。</p>
     <linkGrp>
         <link targets="#0890c25 #0890c25"/>
         <ptr target="#A012790" type="person"/>
