@@ -7,7 +7,7 @@ DDBC Chinese Buddhist Biographies
 
 :Contact: da@ddbc.edu.tw
 :Web site: http://buddhistinformatics.ddbc.edu.tw/biographies/gis/
-:Date: 2011-05-16
+:Date: 2011-11-30
 :Author: Ray CHOU, DDBC
 
 
@@ -49,14 +49,17 @@ This repository contains the following files:
 * `Liang_GSZ/`
    Liang Gaoseng Zhuan / 梁高僧傳
 
-* `Ming_GSZ/`
-   Ming Gaoseng Zhuan / 明高僧傳
+* `Tang_GSZ/`
+   Tang Gaoseng Zhuan / 唐高僧傳
+
+* `Song_GSZ/`
+   Song Gaoseng Zhuan / 宋高僧傳
 
 * `mingSengChuanChao/`
    Mingseng zhuan chao / 名僧傳抄
 
-* `Tang_GSZ/`
-   Tang Gaoseng Zhuan / 唐高僧傳
+* `Ming_GSZ/`
+   Ming Gaoseng Zhuan / 明高僧傳
 
 * `Buxu_GSZ/`
    Buxu Gaoseng Zhuan / 補續高僧傳
