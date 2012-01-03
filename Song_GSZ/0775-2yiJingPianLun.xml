@@ -1,53 +1,32 @@
-<?xml version='1.0' encoding='utf-8'?>
-<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0722c21shiManYue"><lb
-ed="T" n="0722c21"/><anchor n="T.50.2061.0722c21"/><head><date from-iso="0618-06-21" key="j19469512052491" to-iso="0907-06-06">唐</date><placeName key="PL000000042189">京師</placeName><persName key="A002089">滿月</persName>傳（<persName key="A001294">智慧輪</persName>）</head><p><lb
-ed="T" n="0722c22"/><persName key="A002089">釋滿月</persName>者，<placeName key="PL000000055436">西域</placeName>人也。爰來<placeName key="PL000000042189">震旦</placeName>，務在翻傳。<lb
-ed="T" n="0722c23"/>瑜伽法門，一皆貫練，既多神効，眾所推欽。<lb
-ed="T" n="0722c24"/><date from-iso="0836" key="j20264282027904" to-iso="0840">開成</date>中，進梵夾，遇偽甘露事<ptr target="#n425"/>去未旋踵，朝<lb
-ed="T" n="0722c25"/>廷無復<anchor xml:id="beg0722sgsz9"/><choice resp="sgsz"><sic>記</sic><corr>紀</corr></choice><anchor xml:id="end0722sgsz9"/>綱，不暇翻譯。時<persName key="A000753">悟達國師知玄</persName><lb
-ed="T" n="0722c26"/>好學「聲明」，<anchor xml:id="beg0722sgsz10"/>禮<anchor xml:id="end0722sgsz10"/><persName key="A002089">月</persName>為師，情相欵密<ptr target="#n426"/>，指教梵字<lb
-ed="T" n="0722c27"/>并音字之緣界，「悉曇」八轉<ptr target="#n427"/>，深得幽趣<ptr target="#n428"/>。<persName key="A000753">玄</persName>曰：「异<lb
-ed="T" n="0722c28"/>哉，<ref type="person" target="#A000753">吾</ref>體兩方之言，願參象胥<ptr target="#n86"/>之<anchor xml:id="beg0722sgsz11"/>末<anchor xml:id="end0722sgsz11"/>，可乎？」因<lb
-ed="T" n="0722c29"/>請翻諸禁呪，乃與<persName key="A002101">菩<anchor xml:id="beg0722sgsz12"/>薩<anchor xml:id="end0722sgsz12"/>嚩日羅</persName>、<persName key="A002102">金剛悉地</persName><pb ed="T" n="0723a" xml:id="T50.2061.0723a"/><lb
-ed="T" n="0723a01"/>等重譯出《陀羅尼集》四卷，又《佛為毘戌陀天<lb
-ed="T" n="0723a02"/>子說尊勝經》一卷，詳覈三復，曲盡佛意。此土<lb
-ed="T" n="0723a03"/>先已有《陀羅尼集》十二卷，新翻四卷，未聞入<lb
-ed="T" n="0723a04"/>《藏》。<persName key="A002089">月</persName>等俱不測其終。次有<persName key="A001294">般若斫迦三藏</persName><lb
-ed="T" n="0723a05"/>者，華言<persName key="A001294">智慧輪</persName>，亦<placeName key="PL000000055436">西域</placeName>人。<date from-iso="0847" key="j20304612035523" to-iso="0860">大中</date>中，行大曼<lb
-ed="T" n="0723a06"/>拏羅法，已受灌頂<ptr target="#n97"/>為阿闍梨，善達方言，深<lb
-ed="T" n="0723a07"/>通密語<ptr target="#n429"/>，著《佛法根本》<ptr target="#n430"/>。宗乎<persName key="A004206">大毘盧遮那</persName>，為<lb
-ed="T" n="0723a08"/>諸佛所依。法之根本者，「陀羅尼」是也。至於出<lb
-ed="T" n="0723a09"/>生無邊法門，學者修戒、定、慧以總<anchor xml:id="beg0723001"/><choice resp="sgsz"><sic>侍</sic><corr>持</corr></choice><anchor xml:id="end0723001"/>助成，<lb
-ed="T" n="0723a10"/>速疾之要，無以超越。又述《示教指歸》共一<lb
-ed="T" n="0723a11"/><anchor xml:id="beg0723002"/><choice resp="sgsz"><sic>十</sic><corr>千</corr></choice><anchor xml:id="end0723002"/>餘言，皆大教之鈐鍵<ptr target="#n431"/>也，出弟子<persName key="A002091">紹明</persName>，<date from-iso="0860" key="j20355242040636" to-iso="0874">咸<lb
-ed="T" n="0723a12"/>通</date>年中刻石記傳焉。</p>
-    <p xml:id="pT50p0723a1301"><lb
-n="0723a13" ed="T"/>論曰：無漏<ptr target="#n432"/>海中，震潮音而可怪；總持言下，<lb
-n="0723a14" ed="T"/>書梵字而不常。未聞者聞，聞光音天<ptr target="#n433"/>之餘<lb
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0723a13yiJingPianLun">
+<anchor n="T.50.2061.0723a13"/><head>譯經篇論</head><p xml:id="pT50p0723a1301"><lb
+n="0723a13" ed="T"/>論曰：無漏<ptr type="glossary" target="#g432"/>海中，震潮音<ptr type="glossary" target="#g434"/>而可怪；總持<ptr type="glossary" target="#g95"/>言下，<lb
+n="0723a14" ed="T"/>書梵字而不常。未聞者聞，聞光音天<ptr type="glossary" target="#g433"/>之餘<lb
 n="0723a15" ed="T"/>響；未解者解，解最上法之所詮。聖賢飲之<lb
-n="0723a16" ed="T"/>為醇醪<ptr target="#n434"/>，凡劣啜之成糟粕。若夫有緣則遇，<lb
-n="0723a17" ed="T"/>無道則違。<date from-iso="-0220-11-14" key="j16410251646133" to-iso="-0206-11-09">秦</date>獄既械其<persName key="A020669">利防</persName>，此無緣也。<date from-iso="-0205-03-08" key="j16462521801742" to-iso="0220-11-25">漢</date><lb
-n="0723a18" ed="T"/>庭肇迎其<ref type="person" target="#A000883">白馬</ref>，斯有感焉。聽彼異呼，覽其<lb
+n="0723a16" ed="T"/>為醇醪，凡劣啜之成糟粕。若夫有緣則遇，<lb
+n="0723a17" ed="T"/>無道則違。<date from-iso="-0220-11-14" key="j16410251646133" to-iso="-0206-11-09">秦</date>獄既械其<persName key="A020669">利防</persName>，此無緣也。<date from-iso="-0205-03-08" key="j17304061801742" to-iso="0220-11-25">漢</date><lb
+n="0723a18" ed="T"/>庭肇迎其<ref type="person" target="#A000883">白馬</ref>，斯有感焉<ptr target="#n1"/>。聽彼異呼，覽其<lb
 n="0723a19" ed="T"/>橫字，情可求而呼相亂，字雖殊而意且同。是<lb
-n="0723a20" ed="T"/>故《周禮》有象胥氏<ptr target="#n86"/>通六蠻語，狄鞮主七戎，<lb
-n="0723a21" ed="T"/>寄司九夷，譯知八狄。今四方之官，唯譯官<lb
+n="0723a20" ed="T"/>故《周禮》有象胥氏通六蠻語，狄鞮主七戎，<lb
+n="0723a21" ed="T"/>寄司九夷，譯知八狄。今四方之官<ptr type="glossary" target="#g86"/>，唯譯官<lb
 n="0723a22" ed="T"/>顯著者何也？疑<date from-iso="-0205-03-08" key="j16462521801742" to-iso="0220-11-25">漢</date>已來多事北方，故譯名爛<lb
 n="0723a23" ed="T"/>熟矣。又如周、秦輶軒使者，奏籍通別國方<lb
-n="0723a24" ed="T"/>言<ptr target="#n435"/>，令君王不出戶庭，坐知絕遐異俗之語<lb
-n="0723a25" ed="T"/>也。若然者，象胥<ptr target="#n86"/>知其遠也，方言知其近也。<lb
+n="0723a24" ed="T"/>言<ptr type="glossary" target="#g435"/>，令君王不出戶庭，坐知絕遐異俗之語<lb
+n="0723a25" ed="T"/>也。若然者，象胥知其遠也，方言知其近也<ptr target="#n2"/>。<lb
 n="0723a26" ed="T"/>大約不過察異俗、達遠情者矣。懿乎<date from-iso="0025-08-03" key="j17304061801742" to-iso="0220-11-25">東漢</date>，<lb
-n="0723a27" ed="T"/>始譯《四十二章經》，復加之為「翻」也。翻也者，<lb
+n="0723a27" ed="T"/>始譯《四十二章經》，復加之為「翻」也<ptr target="#n6"/>。翻也者，<lb
 n="0723a28" ed="T"/>如翻錦綺，背、面俱花，但其花有左、右不同<lb
 n="0723a29" ed="T"/>耳。由是「翻」「譯」二名行焉。初則，梵客華僧，聽
         <pb n="0723b" xml:id="T50.2061.0723b" ed="T"/><lb
-n="0723b01" ed="T"/>言揣意；方圓共鑿，金石難和；椀配「世間」<ptr target="#n436"/>，擺<lb
+n="0723b01" ed="T"/>言揣意；方圓共鑿，金石難和；椀配「世間」，擺<lb
 n="0723b02" ed="T"/>名「三昧」；咫尺千里，覿面難通。次則，彼曉漢<lb
-n="0723b03" ed="T"/>談，我知梵說，十得八九，時有差違，至若<persName key="A002525">怒<lb
-n="0723b04" ed="T"/>目</persName>看<persName key="A002799">世尊</persName>，彼岸<ptr target="#n955"/>度無極<ptr target="#n926"/>矣<ptr target="#n1021"/>。後則<persName key="A002190">猛</persName>、<persName key="A000750">顯</persName>親往，<lb
+n="0723b03" ed="T"/>談，我知梵說，十得八九，時有差違，至若怒<lb
+n="0723b04" ed="T"/>目看<persName key="A002799">世尊</persName>彼岸度無極<ptr target="#n926"/>矣。後則<persName key="A002190">猛</persName>、<persName key="A000750">顯</persName>親往，<lb
 n="0723b05" ed="T"/><persName key="A000294">奘</persName>、<persName key="A000095">空</persName>兩通，器請師子之膏<ptr target="#n438"/>，鵝得水中之乳<ptr target="#n439"/>，<lb
 n="0723b06" ed="T"/>內竪對<persName key="A002160">文王</persName>之問<ptr target="#n440"/>，<persName key="A002161"><anchor xml:id="beg0723sgsz1"/>揚<anchor xml:id="end0723sgsz1"/>雄</persName>得絕代之文<ptr target="#n441"/>，印印皆<lb
-n="0723b07" ed="T"/>同，聲聲不別，斯謂之大備矣。逖<ptr target="#n442"/>觀：<persName key="A001503">道安</persName>也，<lb
-n="0723b08" ed="T"/>論五失三不易<ptr target="#n443"/>；<persName key="A000829">彥琮</persName>也，籍<ptr target="#n735"/>其八備<ptr target="#n444"/>；<persName key="A002092">明則</persName>也，<lb
+n="0723b07" ed="T"/>同，聲聲不別，斯謂之大備矣。逖觀：<persName key="A001503">道安</persName>也，<lb
+n="0723b08" ed="T"/>論五失三不易<ptr target="#n443"/>；<persName key="A000829">彥琮</persName>也，籍其八備<ptr target="#n444"/>；<persName key="A002092">明則</persName>也，<lb
 n="0723b09" ed="T"/>撰《翻經儀式》<ptr target="#n445"/>；<persName key="A000294">玄奘</persName>也，立五種不翻<ptr target="#n446"/>。此皆類<lb
 n="0723b10" ed="T"/><persName key="A009816">左<roleName>氏</roleName></persName>之諸凡，同史家之變例<ptr target="#n447"/>。今立新意，成<lb
 n="0723b11" ed="T"/>六例焉。謂「譯字譯音」為一例，「胡語梵言」為<lb
@@ -56,7 +35,7 @@ n="0723b13" ed="T"/>「華言雅俗」為一例，「直語密語」為一例也
 n="0723b14" ed="T"/>則四句：一譯字不譯音，即「陀羅尼」是；二譯<lb
 n="0723b15" ed="T"/>音不譯字，如佛胸前「卍」字是；三音字俱譯，<lb
 n="0723b16" ed="T"/>即諸經律中純華言是；四音字俱不譯，如<lb
-n="0723b17" ed="T"/>經題上「<g ref="#F6FAA6"/>」「<g ref="#F6FAA7"/><ptr target="#n928"/>」二字是。</p><p>第二、胡語梵言者。一、<lb
+n="0723b17" ed="T"/>經題上「<g ref="#F6FAA6"/>」「<g ref="#F6FAA7"/>」<ptr target="#n928"/>二字是。</p><p>第二、胡語梵言者。一、<lb
 n="0723b18" ed="T"/>在<placeName key="PL000000048207">五天竺</placeName>，純梵語。</p><p>二、<placeName key="PL000000000002">雪山</placeName>之北是胡，山之南<lb
 n="0723b19" ed="T"/>名<placeName key="PL000000048207">婆羅門國</placeName>，與胡絕，書語不同。從<placeName key="PL000000055069">羯霜那<lb
 n="0723b20" ed="T"/>國</placeName>字源本二十餘言，轉而相生，其流漫廣，其<lb
@@ -64,16 +43,16 @@ n="0723b21" ed="T"/>書竪讀同<placeName key="PL000000000083">震旦</placeNam
 n="0723b22" ed="T"/>本二十五言，其書橫讀。度<placeName key="PL000000049641">葱嶺</placeName>南，<placeName key="PL000000000056">迦畢試國</placeName><lb
 n="0723b23" ed="T"/>言、字同<placeName key="PL000000055430">吐貨羅</placeName>，已上雜類為胡也。若<placeName key="PL000000048207">印度</placeName><lb
 n="0723b24" ed="T"/>言、字，<persName key="A019423">梵天</persName>所製，本四十七言，演而遂廣，號<lb
-n="0723b25" ed="T"/>《青藏》<ptr target="#n448"/>焉。有十二章<ptr target="#n449"/>，教授童蒙，大成「五明論<ptr target="#n88"/>」，<lb
+n="0723b25" ed="T"/>《青藏》<ptr type="glossary" target="#g448"/>焉。有十二章<ptr type="glossary" target="#g449"/>，教授童蒙，大成「五明論<ptr type="glossary" target="#g88"/>」，<lb
 n="0723b26" ed="T"/>大抵與胡不同。<placeName key="PL000000048207">五印度</placeName>境彌亘既遙，安無<lb
 n="0723b27" ed="T"/>少異乎？又以<ref type="place" target="#PL000000000083">此方</ref>始從<date from-iso="0025-08-03" key="j17304061801742" to-iso="0220-11-25">東漢</date>傳譯，至于<date from-iso="0581-03-06" key="j19333311946884" to-iso="0618-04-15">隋<lb
 n="0723b28" ed="T"/>朝</date>，皆指西天，以為胡國，且失<persName key="A019423">梵天</persName>之苗裔，<lb
 n="0723b29" ed="T"/>遂言胡地之經書。<persName key="A000829">彥琮法師</persName>獨明斯致，唯徵
         <pb n="0723c" xml:id="T50.2061.0723c" ed="T"/><lb
-n="0723c01" ed="T"/>造錄，痛責<persName key="A001503">彌天</persName><ptr target="#n450"/>。符《佛地<ptr target="#n927"/>》而合《阿含》，得之在<lb
+n="0723c01" ed="T"/>造錄，痛責<persName key="A001503">彌天</persName><ptr target="#n450"/>。符《佛地》<ptr target="#n927"/>而合《阿含》，得之在<lb
 n="0723c02" ed="T"/>我，用胡名而迷梵種，失則誅誰？<date from-iso="0618-06-21" key="j19469512052491" to-iso="0907-06-06">唐</date>有<persName key="A001519">宣<lb
 n="0723c03" ed="T"/>公</persName>，亦同鼓唱<ptr target="#n451"/>。自此若聞彈舌<ptr target="#n452"/>，或覩黑容，印<lb
-n="0723c04" ed="T"/>定<ptr target="#n453"/>呼為梵僧，雷同<ptr target="#n454"/>認為梵語。<persName key="A000829">琮師</persName>可謂忙<lb
+n="0723c04" ed="T"/>定呼為梵僧，雷同認為梵語。<persName key="A000829">琮師</persName>可謂忙<lb
 n="0723c05" ed="T"/>於執斧捕前白露之蟬，瞢在迴光照後<ptr target="#n455"/>黃<lb
 n="0723c06" ed="T"/>衣之雀<ptr target="#n456"/>。既云西土有梵、有胡，何不南、北區<lb
 n="0723c07" ed="T"/>分？是非料簡<ptr target="#n457"/>，致有三失：一改胡為梵，不析<lb
@@ -83,48 +62,48 @@ n="0723c10" ed="T"/>當初盡呼為胡，亦猶<date from-iso="0581-03-06" key="
 n="0723c11" ed="T"/>謂過猶不及也。如據宗本而談，以梵為<lb
 n="0723c12" ed="T"/>主；若從枝末而說，稱胡可存。何耶？自<placeName key="PL000000048207">五<lb
 n="0723c13" ed="T"/>天</placeName>至<ref type="place" target="#PL000000049641">嶺</ref><anchor xml:id="beg0723sgsz2"/>北<anchor xml:id="end0723sgsz2"/>，累累而譯也，乃疑<persName key="A000829">琮公</persName>留此以<lb
-n="0723c14" ed="T"/>待今日，亦不敢讓<ptr target="#n458"/>焉。</p><p>三、亦胡亦梵。如<placeName key="PL000000048207">天竺</placeName><lb
-n="0723c15" ed="T"/>經律傳到<placeName key="PL000000047825">龜茲</placeName>，龜茲不解天竺語，呼<placeName key="PL000000048207">天竺</placeName><lb
-n="0723c16" ed="T"/>為<placeName key="PL000000048207">印特伽國</placeName>者，因而譯之。若易解者，猶存<lb
-n="0723c17" ed="T"/>梵語<ptr target="#n459"/>，如此胡、梵俱有者是。</p><p>四、二非<ptr target="#n460"/>句。純華<lb
+n="0723c14" ed="T"/>待今日，亦不敢讓<ptr type="glossary" target="#g458"/>焉。</p><p>三、亦胡亦梵。如<placeName key="PL000000048207">天竺</placeName><lb
+n="0723c15" ed="T"/>經律傳到<placeName key="PL000000047825">龜茲</placeName>，龜茲不解<placeName key="PL000000048207">天竺</placeName>語，呼<placeName key="PL000000048207">天竺</placeName><lb
+n="0723c16" ed="T"/>為<placeName key="PL000000048207">印特伽國</placeName><ptr target="#n7"/>者，因而譯之。若易解者，猶存<lb
+n="0723c17" ed="T"/>梵語，如此胡、梵俱有者是。</p><p>四、二非<ptr target="#n460"/>句。純華<lb
 n="0723c18" ed="T"/>言是也。</p><p>第三、重譯直譯者。一、直譯。如<placeName key="PL000000048207">五印</placeName><lb
 n="0723c19" ed="T"/><anchor xml:id="beg0723003" n="0723003"/>夾<anchor xml:id="end0723003"/>牒直來<placeName key="PL000000000083">東夏</placeName>譯者是。</p><p>二、重譯。如經傳<lb
-n="0723c20" ed="T"/><ref type="place" target="#PL000000049641">嶺</ref>北<placeName key="PL000000047687">樓蘭</placeName>、<placeName key="PL000000047759">焉耆</placeName>，不解天竺言，且譯為胡語，<lb
-n="0723c21" ed="T"/>如梵云「鄔波陀耶<ptr target="#n461"/>」，<placeName key="PL000000047898">疎勒</placeName>云「鶻社」，<placeName key="PL000000047983">于闐</placeName>云「和<lb
-n="0723c22" ed="T"/>尚」。又「天王」，梵云「拘均羅<ptr target="#n462"/>」，胡云「毘沙門」是。</p><p>三、<lb
+n="0723c20" ed="T"/><ref type="place" target="#PL000000049641">嶺</ref>北<placeName key="PL000000047687">樓蘭</placeName>、<placeName key="PL000000047759">焉耆</placeName>，不解<placeName key="PL000000048207">天竺</placeName>言，且譯為胡語，<lb
+n="0723c21" ed="T"/>如梵云「鄔波陀耶<ptr type="glossary" target="#g461"/>」，<placeName key="PL000000047898">疎勒</placeName>云「鶻社」，<placeName key="PL000000047983">于闐</placeName>云「和<lb
+n="0723c22" ed="T"/>尚」。又「天王」，梵云「拘均羅<ptr type="glossary" target="#g462"/>」，胡云「毘沙門」是。</p><p>三、<lb
 n="0723c23" ed="T"/>亦直亦重。如三藏直齎夾牒而來，路由<lb
-n="0723c24" ed="T"/>胡國，或帶胡言。如<persName key="A000439">覺明</persName>口誦《曇無德律<ptr target="#n929"/>》中<lb
+n="0723c24" ed="T"/>胡國，或帶胡言。如<persName key="A000439">覺明</persName>口誦《曇無德律》<ptr target="#n929"/>中<lb
 n="0723c25" ed="T"/>有「和尚」等字者是。</p><p>四、二非句。即齎經三藏<lb
 n="0723c26" ed="T"/>雖兼胡語，到此不翻譯者是。</p><p>第四、麁言細<lb
-n="0723c27" ed="T"/>語者。「聲明」中，一「蘇漫多<ptr target="#n463"/>」，謂汎爾平語言辭也。<lb
-n="0723c28" ed="T"/>二「彥底多<ptr target="#n464"/>」，謂典正言辭也。<persName key="A002799">佛</persName>說法多依「蘇漫<lb
-n="0723c29" ed="T"/>多」，意<anchor xml:id="beg0723004" n="0723004"/>住<anchor xml:id="end0723004"/>於義，不依於文，又被<ptr target="#n465"/>一切故，若
+n="0723c27" ed="T"/>語者。「聲明」中，一「蘇漫多<ptr type="glossary" target="#g463"/>」，謂汎爾平語言辭也。<lb
+n="0723c28" ed="T"/>二「彥底多<ptr type="glossary" target="#g464"/>」，謂典正言辭也。<persName key="A002799">佛</persName>說法多依「蘇漫<lb
+n="0723c29" ed="T"/>多」，意<anchor xml:id="beg0723004" n="0723004"/>住<anchor xml:id="end0723004"/>於義，不依於文，又被一切故，若
         <pb n="0724a" xml:id="T50.2061.0724a" ed="T"/><lb
-n="0724a01" ed="T"/>「彥底多」，非諸類<ptr target="#n466"/>所能解。故亦名「全聲」者，則<lb
+n="0724a01" ed="T"/>「彥底多」，非諸類<ptr type="glossary" target="#g466"/>所能解。故亦名「全聲」者，則<lb
 n="0724a02" ed="T"/>言音分明典正，此細語也。「半聲」者，則言音不<lb
 n="0724a03" ed="T"/>分明而訛僻，此麁語也。</p><p>一、是麁非細。如<placeName key="PL000000048207">五<lb
 n="0724a04" ed="T"/>印度</placeName>時俗之言是。</p><p>二、唯細非麁。如<persName key="A000749">法護</persName>、<persName key="A001928">寶<lb
 n="0724a05" ed="T"/>雲</persName>、<persName key="A000294">奘師</persName>、<persName key="A001470">義淨</persName>，洞解聲明、音律，用<placeName key="PL000000048208">中天</placeName>細語典<lb
 n="0724a06" ed="T"/>言而譯者是。</p><p>三、亦麁亦細。如梵本中語涉<lb
-n="0724a07" ed="T"/>麁、細者是。或注云：「此音訛僻」，即麁言也。</p><p>四、二<lb
+n="0724a07" ed="T"/>麁、細者是。或注云：「此音訛僻」<ptr target="#n8"/>，即麁言也。</p><p>四、二<lb
 n="0724a08" ed="T"/>非句，闕。</p><p>第五華言雅俗者。亦云音有楚、夏<lb
-n="0724a09" ed="T"/>同也。且<ref type="place" target="#PL000000000083">此方</ref>言語，「雅」即經籍之文，「俗」乃<anchor xml:id="beg0724sgsz1"/><choice resp="sgsz"><sic>術</sic><corr>街</corr></choice><anchor xml:id="end0724sgsz1"/>巷<lb
+n="0724a09" ed="T"/>同也<ptr target="#n9"/>。且<ref type="place" target="#PL000000000083">此方</ref>言語，「雅」即經籍之文，「俗」乃<anchor xml:id="beg0724sgsz1"/><choice resp="sgsz"><sic>術</sic><corr>街</corr></choice><anchor xml:id="end0724sgsz1"/>巷<lb
 n="0724a10" ed="T"/>之說。略同<placeName key="PL000000055436">西域</placeName>，「細」即典正，「麁」即訛僻也。一、是<lb
 n="0724a11" ed="T"/>雅非俗，如經中用書籍言是。二、是俗非雅，<lb
-n="0724a12" ed="T"/>如經中「乞頭」、「博頰<ptr target="#n467"/>」等語是。<anchor xml:id="beg0724sgsz2"/>三<anchor xml:id="end0724sgsz2"/>、亦雅亦俗，非<lb
-n="0724a13" ed="T"/>學士潤文<ptr target="#n70"/>，信僧執筆，其間渾金璞玉，交雜相<lb
+n="0724a12" ed="T"/>如經中「乞頭」、「博頰<ptr type="glossary" target="#g467"/>」等語是。<anchor xml:id="beg0724sgsz2"/>三<anchor xml:id="end0724sgsz2"/>、亦雅亦俗，非<lb
+n="0724a13" ed="T"/>學士潤文<ptr type="glossary" target="#g70"/>，信僧執筆，其間渾金璞玉，交雜相<lb
 n="0724a14" ed="T"/>投者是。四、二非句，闕。</p><p>第六直語密語者。二<lb
-n="0724a15" ed="T"/>種作句，涉俗為直，涉真為密，如「婆留師<ptr target="#n954"/>」<lb
+n="0724a15" ed="T"/>種作句，涉俗為直，涉真為密，如「婆留師<ptr type="glossary" target="#g954"/>」<lb
 n="0724a16" ed="T"/>是。一、是直非密，謂「婆留師」翻為「惡口住」，以<lb
 n="0724a17" ed="T"/>惡口，人人不親近故<ptr target="#n955"/>。二、是密非直，「婆留師」<lb
-n="0724a18" ed="T"/>翻為「菩薩所知彼岸」也，既通達三無性<ptr target="#n468"/>理，<lb
+n="0724a18" ed="T"/>翻為「菩薩所知彼岸」也，既通達三無性<ptr type="glossary" target="#g468"/>理，<lb
 n="0724a19" ed="T"/>亦不為眾生所親近故<ptr target="#n956"/>。三、兩亦句，即同善<lb
 n="0724a20" ed="T"/>惡真俗，皆不可親近故。四、二非句，謂除前<lb
 n="0724a21" ed="T"/>相故。又「阿毘持呵婁（目『數數<ptr target="#n957"/>得定』）<ptr target="#n469"/>」，「欝婆提<ptr target="#n958"/>（目『生起拔根弃背』）<ptr target="#n959"/>」、<lb
 n="0724a22" ed="T"/>「婆羅<ptr target="#n960"/>（目『<anchor xml:id="beg0724001" n="0724001"/>真<anchor xml:id="end0724001"/>實離散亂』）<ptr target="#n961"/>」。此諸名在經論中，例顯直、密語<lb
 n="0724a23" ed="T"/>義也。更有胡、梵文字，四句易解。凡諸類例<lb
 n="0724a24" ed="T"/>括彼經詮，解者不見其全牛<ptr target="#n948"/>，行人但隨其<lb
-n="0724a25" ed="T"/>老馬<ptr target="#n949"/>矣。</p><p>或曰：「翻梵夾須用<ref type="place" target="#PL000000000083">此方</ref>文籍者，<lb
+n="0724a25" ed="T"/>老馬<ptr type="glossary" target="#g949"/>矣。</p><p>或曰：「翻梵夾須用<ref type="place" target="#PL000000000083">此方</ref>文籍者，<lb
 n="0724a26" ed="T"/>莫招濫涉儒雅之過乎？」通曰：「言不關典，<lb
 n="0724a27" ed="T"/>非子、史之言，用其翻對，豈可以委巷之談<lb
 n="0724a28" ed="T"/>而糅于中耶？故<persName key="A001503">道安</persName>云：『乃欲以千載上之<lb
@@ -138,9 +117,9 @@ n="0724b05" ed="T"/>便認云與《老子經》互相出入也。設有華人<lb
 n="0724b06" ed="T"/>能梵語，與西僧言說，兩相允會，可便謂此<lb
 n="0724b07" ed="T"/>人為天竺人耶？盍窮其始末乎？是知若用<lb
 n="0724b08" ed="T"/>外書，須招此謗。如<persName key="A001583">童壽</persName>譯《法華》，可謂折中，<lb
-n="0724b09" ed="T"/>有天然<placeName key="PL000000055436">西域</placeName>之語趣矣。今觀<persName key="A000646">房融</persName>潤文<ptr target="#n70"/>於《楞<lb
+n="0724b09" ed="T"/>有天然<placeName key="PL000000055436">西域</placeName>之語趣矣。今觀<persName key="A000646">房融</persName>潤文<ptr type="glossary" target="#g70"/>於《楞<lb
 n="0724b10" ed="T"/>嚴》，<persName key="A001598">僧肇</persName>徵引而造『論』，宜當此誚焉。苟參鄙<lb
-n="0724b11" ed="T"/>俚之辭，曷異屠沽<ptr target="#n472"/>之譜？然則糅書勿如無<lb
+n="0724b11" ed="T"/>俚之辭，曷異屠沽<ptr type="glossary" target="#g472"/>之譜？然則糅書勿如無<lb
 n="0724b12" ed="T"/>書，與其典也，寧俗。儻深溺俗，厥過不輕；折<lb
 n="0724b13" ed="T"/>中適時，自存法語，斯謂得譯經之旨矣。故<lb
 n="0724b14" ed="T"/>佛說法多依蘇漫多也。</p><p>又傳譯之興，奉行之<lb
@@ -156,8 +135,8 @@ n="0724b23" ed="T"/>達磨</persName>為始祖焉。是故傳法輪者以法音<
 n="0724b24" ed="T"/>傳法音；傳教令輪者，以祕密傳祕密；傳<lb
 n="0724b25" ed="T"/>心輪者，以心傳心，此之三教、三輪、三祖，自<lb
 n="0724b26" ed="T"/>西而東，化凡而聖，流十五代（<date from-iso="0025-08-0" key="j17304061801742" to-iso="0220-11-25">漢</date>、<date from-iso="0220-12-11" key="j18017581818249" to-iso="0266-02-04">魏</date>、<date from-iso="0266-02-08" key="j18182531874651" to-iso="0420-07-08">晉</date>、<date from-iso="0420-07-11" key="j18746541896160" to-iso="0479-05-29">宋</date>、<date from-iso="0479-05-30" key="j18961611904523" to-iso="0502-04-22">齊</date>、<date from-iso="0502-05-02" key="j19045331924818" to-iso="0557-11-14">梁</date>、<date from-iso="0557-11-18" key="j19248221936231" to-iso="0589-02-12">陳</date>、<date from-iso="0581-03-06" key="j19333311946884" to-iso="0618-04-15">隋</date>、<date from-iso="0618-06-21" key="j19469512052491" to-iso="0907-06-06">唐</date>、<date from-iso="0907-06-10" key="j20524952058505" to-iso="0923-11-23">朱梁</date>、<date from-iso="0923-05-18" key="j20583162063308" to-iso="0937-01-16">後<lb
-n="0724b27" ed="T"/>唐</date>、<date from-iso="0936-12-03" key="j20632642066960" to-iso="0947-01-16">石晉</date>、<date from-iso="0947-03-15" key="j20670182068412" to-iso="0951-01-07">劉漢</date>、<date from-iso="0951-02-18" key="j20684542071731" to-iso="0960-02-08">郭周</date>、今<date from-iso="0960-02-09" key="j20717322132773" to-iso="1127-03-27">大宋</date>。），法門之貽厥孫謀<ptr target="#n473"/>，萬二千年<ptr target="#n241"/>，真教<lb
-n="0724b28" ed="T"/>之克昌厥後<ptr target="#n242"/>。」</p><p>或曰：「譯場、<placeName key="PL000000023589">經館</placeName>，設官分職，<anchor xml:id="beg0724002" n="0724002"/>不<anchor xml:id="end0724002"/><lb
+n="0724b27" ed="T"/>唐</date>、<date from-iso="0936-12-03" key="j20632642066960" to-iso="0947-01-16">石晉</date>、<date from-iso="0947-03-15" key="j20670182068412" to-iso="0951-01-07">劉漢</date>、<date from-iso="0951-02-18" key="j20684542071731" to-iso="0960-02-08">郭周</date>、今<date from-iso="0960-02-09" key="j20717322132773" to-iso="1127-03-27">大宋</date>。），法門之貽厥孫謀<ptr type="glossary" target="#g473"/>，萬二千年<ptr type="glossary" target="#g241"/>，真教<lb
+n="0724b28" ed="T"/>之克昌厥後<ptr type="glossary" target="#g242"/>。」</p><p>或曰：「譯場、經館，設官分職，<anchor xml:id="beg0724002" n="0724002"/>不<anchor xml:id="end0724002"/><lb
 n="0724b29" ed="T"/>得聞乎？」曰：「此務所司，先宗『譯主』，即齎葉書
         <pb n="0724c" xml:id="T50.2061.0724c" ed="T"/><lb
 n="0724c01" ed="T"/>之三藏，明練顯、密二教者充之。次則『筆受』<lb
@@ -167,13 +146,13 @@ n="0724c04" ed="T"/>含</persName>、<persName key="A002095">玄賾</persName>�
 n="0724c05" ed="T"/><persName key="A002098">梁武</persName>、<persName key="A002099">天后</persName>、<persName key="A002100">中宗</persName>，或躬執<anchor xml:id="beg0724sgsz3"/><choice resp="sgsz"><sic>幹</sic><corr>翰</corr></choice><anchor xml:id="end0724sgsz3"/>，又謂為『綴文』也。<lb
 n="0724c06" ed="T"/>次則『度語』者，正云『譯語』也。傳度轉令生解，<lb
 n="0724c07" ed="T"/>亦名『傳語』，如翻《顯識論》，沙門<persName key="A002106">戰陀</persName>譯語是也。<lb
-n="0724c08" ed="T"/>次則『證梵本』者，求其量果<ptr target="#n258"/>，密能證知，能詮<lb
+n="0724c08" ed="T"/>次則『證梵本』者，求其量果<ptr type="glossary" target="#g258"/>，密能證知，能詮<lb
 n="0724c09" ed="T"/>不差，所顯無謬矣。如居士<persName key="A002107">伊舍羅</persName>證譯《毘<lb
 n="0724c10" ed="T"/>柰耶》梵本是也。至有立『證梵義』一員，乃明<lb
 n="0724c11" ed="T"/>西義得失，貴令華語下不失梵義也。復立<lb
 n="0724c12" ed="T"/>『證禪義』一員，沙門<persName key="A002108">大通</persName>充之。次則『潤文』一位，<lb
-n="0724c13" ed="T"/>員數不恒，令通內、外學者充之。良以筆受<ptr target="#n53"/><lb
-n="0724c14" ed="T"/>在其油素<ptr target="#n309"/>，文言豈無俚俗，儻不失於佛意，<lb
+n="0724c13" ed="T"/>員數不恒，令通內、外學者充之。良以筆受<ptr type="glossary" target="#g53"/><lb
+n="0724c14" ed="T"/>在其油素<ptr type="glossary" target="#g309"/>，文言豈無俚俗，儻不失於佛意，<lb
 n="0724c15" ed="T"/>何妨刊而正之。故<persName key="A001470">義淨</persName>譯場，則<persName key="A002109">李嶠</persName>、<persName key="A002110">韋嗣立</persName>、<lb
 n="0724c16" ed="T"/><persName key="A002111">盧藏用</persName>等二十餘人次文潤色也。次則『證義』，<lb
 n="0724c17" ed="T"/>蓋證已譯之文所詮之義也。如譯《婆沙論》，<lb
@@ -186,9 +165,9 @@ n="0724c23" ed="T"/>公侯壽</persName><ptr target="#n474"/>為總監檢校，<
 n="0724c24" ed="T"/>護，相次<persName key="A002116">許觀</persName>、<persName key="A002117">楊慎交</persName>、<persName key="A000523">杜行顗</persName>等充之。或用僧<lb
 n="0724c25" ed="T"/>員，則<date from-iso="0581-03-06" key="j19333311946884" to-iso="0618-04-15">隋</date>以<persName key="A002118">明穆</persName>、<persName key="A002119">曇遷</persName>等十人監掌翻譯事，<lb
 n="0724c26" ed="T"/>詮定宗旨。其處則<placeName key="PL000000042657">秦逍遙園</placeName>、<placeName key="PL000000008594">梁壽光殿</placeName>、<placeName key="PL000000008595">瞻雲<lb
-n="0724c27" ed="T"/>館</placeName>、<placeName key="PL000000008629">魏汝南王宅</placeName>。又<persName key="A002116">隋煬帝</persName>置<placeName key="PL000000023589">翻經館</placeName>，其中僧<lb
+n="0724c27" ed="T"/>館</placeName>、<placeName key="PL000000008629">魏汝南王宅</placeName>。又<persName key="A004413">隋煬帝</persName>置<placeName key="PL000000023589">翻經館</placeName>，其中僧<lb
 n="0724c28" ed="T"/>有學士之名。<date from-iso="0618-06-21" key="j19469512052491" to-iso="0907-06-06">唐</date>於<placeName key="PL000000042305">廣福</placeName>等寺，或宮園不定。<lb
-n="0724c29" ed="T"/>又置『正字<ptr target="#n972"/>』、『字學』，<persName key="A000300">玄應</persName>曾當是職<ptr target="#n973"/>，後或置或<pb n="0725a" xml:id="T50.2061.0725a" ed="T"/><lb
+n="0724c29" ed="T"/>又置『正字<ptr type="glossary" target="#g972"/>』、『字學』，<persName key="A000300">玄應</persName>曾當是職<ptr target="#n973"/>，後或置或<pb n="0725a" xml:id="T50.2061.0725a" ed="T"/><lb
 n="0725a01" ed="T"/>否。朝延罷譯事，自<persName key="A002120">唐憲宗</persName><date key="j20169492017302" from-iso="0810-02-12" to-iso="0811-01-31">元和五年</date>至于<lb
 n="0725a02" ed="T"/><date from-iso="0951" to-iso="0960" key="j20684542071729">周朝</date>，相望可一百五十許歲，此道寂然<ptr target="#n475"/>。</p><p>迨<lb
 n="0725a03" ed="T"/><date key="j20790232079406" from-iso="0980-01-26" to-iso="0981-02-12">我皇帝臨大寶之五載</date>，有<placeName key="PL000000005213">河中府</placeName>傳顯密<lb
@@ -196,30 +175,30 @@ n="0725a04" ed="T"/>教沙門<persName key="A002121">法進</persName>請<placeN
 n="0725a05" ed="T"/>津</placeName>，州府官表進，上覽大悅，各賜紫衣，因勅<lb
 n="0725a06" ed="T"/>造<placeName key="PL000000023301">譯經院</placeName>於<placeName key="PL000000023300">太平興國寺</placeName>之西偏。續勅搜購<lb
 n="0725a07" ed="T"/>天下梵夾，有梵僧<persName key="A001998">法護</persName>、<persName key="A000844">施護</persName>同參其務，左<lb
-n="0725a08" ed="T"/>街僧錄<persName key="A002122">智照大師慧溫</persName>證義<ptr target="#n54"/>。又詔<placeName key="PL000000003068">滄州</placeName>三藏<lb
-n="0725a09" ed="T"/><persName key="A002123">道圓</persName>證梵字<ptr target="#n52"/>，慎選兩街義解<ptr target="#n544"/>沙門<persName key="A002124">志顯</persName>綴<lb
-n="0725a10" ed="T"/>文，<persName key="A002125">令遵</persName>、<persName key="A002126">法定</persName>、<persName key="A002127">清沼</persName>筆受<ptr target="#n53"/>，<persName key="A002128">守巒</persName>、<persName key="A021013">道真</persName>、<persName key="A002129">知遜</persName>、<persName key="A021014">法雲</persName>、<lb
-n="0725a11" ed="T"/><persName key="A021015">慧超</persName>、<persName key="A002131">慧達</persName>、<persName key="A002132">可瓌</persName>、<persName key="A002133">善祐</persName>、<persName key="A002134">可支</persName>證義<ptr target="#n54"/>，倫次綴文，使<lb
-n="0725a12" ed="T"/>臣<persName key="A002135">劉素</persName>、高品<persName key="A002136">王文壽</persName>監護<ptr target="#n55"/>，禮部郎中<persName key="A002137">張洎</persName>、光<lb
+n="0725a08" ed="T"/>街僧錄<persName key="A002122">智照大師慧溫</persName>證義<ptr type="glossary" target="#g54"/>。又詔<placeName key="PL000000003068">滄州</placeName>三藏<lb
+n="0725a09" ed="T"/><persName key="A002123">道圓</persName>證梵字<ptr type="glossary" target="#g52"/>，慎選兩街義解<ptr type="glossary" target="#g544"/>沙門<persName key="A002124">志顯</persName>綴<lb
+n="0725a10" ed="T"/>文，<persName key="A002125">令遵</persName>、<persName key="A002126">法定</persName>、<persName key="A002127">清沼</persName>筆受<ptr type="glossary" target="#g53"/>，<persName key="A002128">守巒</persName>、<persName key="A021013">道真</persName>、<persName key="A002129">知遜</persName>、<persName key="A021014">法雲</persName>、<lb
+n="0725a11" ed="T"/><persName key="A021015">慧超</persName>、<persName key="A002131">慧達</persName>、<persName key="A002132">可瓌</persName>、<persName key="A002133">善祐</persName>、<persName key="A002134">可支</persName>證義<ptr type="glossary" target="#g54"/>，倫次綴文，使<lb
+n="0725a12" ed="T"/>臣<persName key="A002135">劉素</persName>、高品<persName key="A002136">王文壽</persName>監護<ptr type="glossary" target="#g55"/>，禮部郎中<persName key="A002137">張洎</persName>、光<lb
 n="0725a13" ed="T"/><anchor xml:id="beg0725sgsz1"/>祿<anchor xml:id="end0725sgsz1"/>卿<persName key="A002138">湯悅</persName>次文潤色，進《校量壽命經》、《善惡報<lb
 n="0725a14" ed="T"/>應經》、《善見變化》、《金曜童子》、《甘露鼓》等經，有命<lb
 n="0725a15" ed="T"/>授三藏<persName key="A000146">天息災</persName>、<persName key="A000690">法天</persName>、<persName key="A000844">施護</persName>師號，外試鴻臚少<lb
-n="0725a16" ed="T"/>卿、賜厩馬等。筆受<ptr target="#n53"/>、證義<ptr target="#n54"/>諸沙門各賜紫衣并<lb
+n="0725a16" ed="T"/>卿、賜厩馬等。筆受<ptr type="glossary" target="#g53"/>、證義<ptr type="glossary" target="#g54"/>諸沙門各賜紫衣并<lb
 n="0725a17" ed="T"/>帛有差。御製新譯經序<ptr target="#n476"/>，冠于經首。觀其佛<lb
 n="0725a18" ed="T"/>日重光，法輪發軔，赤玉箱而啟祕，青蓮朵<lb
 n="0725a19" ed="T"/>以開芳，聖感如然，前代<anchor xml:id="beg0725sgsz2"/><choice resp="sgsz"><sic>就</sic><corr>孰</corr></choice><anchor xml:id="end0725sgsz2"/>堪比也。</p><p>又以宣<lb
-n="0725a20" ed="T"/>譯之者樂略樂繁，<date from-iso="0581-03-06" key="j19333311946884" to-iso="0618-04-15">隋</date>之已前，經題簡少；<persName key="A001470">義淨</persName><lb
+n="0725a20" ed="T"/>譯之者樂略、樂繁。<date from-iso="0581-03-06" key="j19333311946884" to-iso="0618-04-15">隋</date>之已前，經題簡少；<persName key="A001470">義淨</persName><lb
 n="0725a21" ed="T"/>已降，經目偏長。古則隨取強名，後則繁盡我<lb
-n="0725a22" ed="T"/>意。又舊翻祕呪，少注合呼<ptr target="#n974"/>。<date from-iso="0618-06-21" key="j19469512052491" to-iso="0907-06-06">唐</date>譯明言<ptr target="#n975"/>，多<anchor xml:id="beg0725sgsz3"/><choice resp="sgsz"><sic>祥</sic><corr>詳</corr></choice><anchor xml:id="end0725sgsz3"/><lb
+n="0725a22" ed="T"/>意。又舊翻祕呪，少注合呼<ptr type="glossary" target="#g974"/>。<date from-iso="0618-06-21" key="j19469512052491" to-iso="0907-06-06">唐</date>譯明言<ptr type="glossary" target="#g975"/>，多<anchor xml:id="beg0725sgsz3"/><choice resp="sgsz"><sic>祥</sic><corr>詳</corr></choice><anchor xml:id="end0725sgsz3"/><lb
 n="0725a23" ed="T"/>音反，受持有驗，斯勝古蹤。<persName key="A001470">淨師</persName><anchor xml:id="beg0725001" n="0725001"/><choice resp="sgsz"><sic>犬</sic><corr>大</corr></choice><anchor xml:id="end0725001"/>譯諸<lb
 n="0725a24" ed="T"/>經，偏精「律部」，自高文彩，最有可觀。<persName key="A000774">金剛智</persName><lb
 n="0725a25" ed="T"/>也祕藏祖師，<persName key="A000095">阿目佉</persName>也多經譯匠，師資相接，<lb
 n="0725a26" ed="T"/>感應互彰。<persName key="A001342">無畏</persName>言辭且多朴實。<persName key="A000438">覺救</persName><ptr target="#n1153"/>加《佛頂》<ptr target="#n983"/><lb
 n="0725a27" ed="T"/>之句<ptr target="#n984"/>，人無間然。<persName key="A000332">日照</persName>出《顯識》之文，刃有餘<lb
 n="0725a28" ed="T"/>地。<persName key="A001922">思惟</persName>《罥索》，<persName key="A001606">學喜</persName>《華嚴》，密語斷章，大人境界。<lb
-n="0725a29" ed="T"/><persName key="A001358">流志</persName>《寶積》，<persName key="A000774">菩提</persName><ptr target="#n1004"/>《曼<anchor xml:id="beg0724sgsz5"/><choice resp="sgsz"><sic>茶</sic><corr>荼</corr></choice><anchor xml:id="end0724sgsz5"/>》；『<placeName key="PL000000048207">華胥</placeName><ptr target="#n477"/>』之理致融明，『灌頂<ptr target="#n97"/>』
+n="0725a29" ed="T"/><persName key="A001358">流志</persName>《寶積》，<persName key="A000774">菩提</persName><ptr target="#n1004"/>《曼<anchor xml:id="beg0724sgsz5"/><choice resp="sgsz"><sic>茶</sic><corr>荼</corr></choice><anchor xml:id="end0724sgsz5"/>》；『<placeName key="PL000000048207">華胥</placeName>』<ptr type="glossary" target="#g477"/>之理致融明，『灌頂』<ptr type="glossary" target="#g97"/>
         <pb n="0725b" xml:id="T50.2061.0725b" ed="T"/><lb
-n="0725b01" ed="T"/>之風標祕邃；<persName key="A001896">迪公</persName>勤其筆受<ptr target="#n53"/>，<persName key="A001294">般若</persName><ptr target="#n1019"/>終乎譯<lb
+n="0725b01" ed="T"/>之風標祕邃；<persName key="A001896">迪公</persName>勤其筆受<ptr type="glossary" target="#g53"/>，<persName key="A001294">般若</persName><ptr target="#n1019"/>終乎譯<lb
 n="0725b02" ed="T"/>場。其餘諸公，皆翻夾牒，欲知狀貌，聊舉喻<lb
 n="0725b03" ed="T"/>言。其猶人也，人皆人也，奈何姿制形儀，各<lb
 n="0725b04" ed="T"/>從所肖，肖其父焉。若如此，大則同而小有<lb
@@ -228,48 +207,6 @@ n="0725b06" ed="T"/>其道所生，唯生釋子，是以此篇冠首。故曰<lb
 n="0725b07" ed="T"/>先王將禜海，必先有事于河者<ptr target="#n478"/>，示不忘<lb
 n="0725b08" ed="T"/>本也。」</p>
     <linkGrp>
-        <link targets="#0722c22 #0722c22"/>
-        <ptr target="#A002089" type="person"/>
-        <ptr target="#PL000000055436" type="place"/>
-    </linkGrp>
-    <linkGrp>
-        <link targets="#0722c24 #0722c25"/>
-        <ptr target="#A002089" type="person"/>
-        <ptr target="#j20264282027904" type="time"/>
-    </linkGrp>
-    <linkGrp>
-        <link targets="#0722c25 #0722c29"/>
-        <ptr target="#A002089" type="person"/>
-        <ptr target="#A000753" type="person"/>
-        <ptr target="#j20264282027904" type="time"/>
-    </linkGrp>
-    <linkGrp>
-        <link targets="#0722c29 #0723a02"/>
-        <ptr target="#A002089" type="person"/>
-        <ptr target="#A002101" type="person"/>
-        <ptr target="#A002102" type="person"/>
-    </linkGrp>
-    <linkGrp>
-        <link targets="#0723a04 #0723a05"/>
-        <ptr target="#A001294" type="person"/>
-        <ptr target="#PL000000055436" type="place"/>
-    </linkGrp>
-    <linkGrp>
-        <link targets="#0723a05 #0723a07"/>
-        <ptr target="#A001294" type="person"/>
-        <ptr target="#j20304612035523" type="time"/>
-    </linkGrp>
-    <linkGrp>
-        <link targets="#0723a11 #0723a11"/>
-        <ptr target="#A001294" type="person"/>
-        <ptr target="#A002091" type="person"/>
-    </linkGrp>
-    <linkGrp>
-        <link targets="#0723a11 #0723a12"/>
-        <ptr target="#A002091" type="person"/>
-        <ptr target="#j20355242040636" type="time"/>
-    </linkGrp>
-    <linkGrp>
         <link targets="#0723a17 #0723a17"/>
         <ptr target="#A020669" type="person"/>
         <ptr target="#j16410251646133" type="time"/>
@@ -277,7 +214,7 @@ n="0725b08" ed="T"/>本也。」</p>
     <linkGrp>
         <link targets="#0723a17 #0723a18"/>
         <ptr target="#A000883" type="person"/>
-        <ptr target="#j16462521801742" type="time"/>
+        <ptr target="#j17304061801742" type="time"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0724c22 #0724c23"/>
@@ -335,3 +272,4 @@ n="0725b08" ed="T"/>本也。」</p>
         <ptr target="#A000844" type="person"/>
     </linkGrp>
 </div>
+

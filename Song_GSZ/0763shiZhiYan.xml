@@ -1,17 +1,17 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0720a02shiZhiTong"><lb
 ed="T" n="0720a02"/><anchor n="T.50.2061.0720a02"/><head><date from-iso="0618-06-21" key="j19469512052491" to-iso="0907-06-06">唐</date><placeName key="PL000000042297">京師奉恩寺</placeName><persName key="A001302">智嚴</persName>傳</head><p><lb
-ed="T" n="0720a03"/><persName key="A001302">釋智嚴</persName>，姓尉遲氏，本<placeName key="PL000000047987">于闐國</placeName>質子<ptr target="#n353"/>也，名樂。受<lb
-ed="T" n="0720a04"/>性<ptr target="#n354"/>聰利，隸<placeName key="PL000000042288">鴻臚寺</placeName>，授「左領軍衛大將軍上柱<lb
-ed="T" n="0720a05"/>國」，封「金滿郡公」。而深患塵勞<ptr target="#n355"/>，唯思脫屣<ptr target="#n356"/>。<date from-iso="0706-06-19" key="j19790901979119" to-iso="0706-07-18">神<lb
+ed="T" n="0720a03"/><persName key="A001302">釋智嚴</persName>，姓尉遲氏，本<placeName key="PL000000047987">于闐國</placeName>質子<ptr type="glossary" target="#g353"/>也，名樂。受<lb
+ed="T" n="0720a04"/>性<ptr type="glossary" target="#g354"/>聰利，隸<placeName key="PL000000042288">鴻臚寺</placeName>，授「左領軍衛大將軍上柱<lb
+ed="T" n="0720a05"/>國」，封「金滿郡公」。而深患塵勞<ptr type="glossary" target="#g355"/>，唯思脫屣<ptr type="glossary" target="#g356"/>。<date from-iso="0706-06-19" key="j19790901979119" to-iso="0706-07-18">神<lb
 ed="T" n="0720a06"/>龍二年五月</date>，奏乞以所居宅為寺，勅允，題<lb
 ed="T" n="0720a07"/>牓曰「<placeName key="PL000000042297">奉恩</placeName>」是也。相次乞捨官入道，<date key="j19792911979291" when-iso="0707-01-06">十一月<lb
 ed="T" n="0720a08"/>二十四日</date>墨制聽許。<date key="j19796261979626" when-iso="0707-12-07">景龍元年十一月五日</date>，<lb
 ed="T" n="0720a09"/><persName key="A002100">孝和帝</persName>誕節剃染。尋奉勅於<ref target="#PL000000042297" type="place">此寺</ref>翻經，多<lb
-ed="T" n="0720a10"/>證梵文<ptr target="#n52"/>，諸經成部，<persName key="A001302">嚴</persName>有力焉。<persName key="A001302">嚴</persName>重譯出《生<lb
-ed="T" n="0720a11"/>無邊法門陀羅尼經》。後於<placeName key="PL000000042496">石鼈谷</placeName>行頭陀<ptr target="#n357"/><lb
-ed="T" n="0720a12"/>法，又充<placeName key="PL000000042500">終南山至相寺</placeName>上座，體道<ptr target="#n358"/>用和<ptr target="#n359"/>，率從<lb
-ed="T" n="0720a13"/>清謹<ptr target="#n360"/>。不知其終。</p>
+ed="T" n="0720a10"/>證梵文<ptr type="glossary" target="#g52"/>，諸經成部，<persName key="A001302">嚴</persName>有力焉。<persName key="A001302">嚴</persName>重譯出《生<lb
+ed="T" n="0720a11"/>無邊法門陀羅尼經》。後於<placeName key="PL000000042496">石鼈谷</placeName>行頭陀<ptr type="glossary" target="#g357"/><lb
+ed="T" n="0720a12"/>法，又充<placeName key="PL000000042500">終南山至相寺</placeName>上座，體道<ptr type="glossary" target="#g358"/>用和<ptr type="glossary" target="#g359"/>，率從<lb
+ed="T" n="0720a13"/>清謹<ptr type="glossary" target="#g360"/>。不知其終。</p>
     <linkGrp>
         <link targets="#0720a03 #0720a03"/>
         <ptr target="#A001302" type="person"/>

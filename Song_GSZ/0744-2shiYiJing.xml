@@ -2,10 +2,10 @@
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0710b07shiYiJing"><lb
 n="0710b07" ed="T"/><anchor n="T.50.2061.0710b07"/><head><date from-iso="0618-06-21" key="j19469512052491" to-iso="0907-06-06">唐</date><placeName key="PL000000042270">京兆大薦福寺</placeName><persName key="A001470">義淨</persName>傳</head><p><lb
 ed="T" n="0710b08"/><persName key="A001470">釋義淨</persName>字<persName key="A001470">文明</persName>，姓張氏，<placeName key="PL000000002485">范陽</placeName>人也<ptr target="#n31"/>。髫齓之時，<lb
-ed="T" n="0710b09"/>辭親落髮，遍詢名匠，廣探群籍，內外<ptr target="#n32"/>閑習，<lb
+ed="T" n="0710b09"/>辭親落髮，遍詢名匠，廣探群籍，內外<ptr type="glossary" target="#g32"/>閑習，<lb
 ed="T" n="0710b10"/>今古博通。<date key="j19581531958296" from-iso="0649-02-20" to-iso="0649-07-13">年十有五</date>，便萌其志，欲遊<placeName key="PL000000055436">西域</placeName>，<lb
 ed="T" n="0710b11"/>仰<persName key="A000750">法顯</persName>之雅操，慕<persName key="A000294">玄奘</persName>之高風。加以勤無<lb
-ed="T" n="0710b12"/>棄時，手不釋卷，<date key="j19599551960338" from-iso="0654-01-27" to-iso="0655-02-14">弱冠</date>登具<ptr target="#n33"/>，愈堅貞志。<date key="j19661861966540" from-iso="0671-02-18" to-iso="0672-02-07">咸亨<lb
+ed="T" n="0710b12"/>棄時，手不釋卷，<date key="j19599551960338" from-iso="0654-01-27" to-iso="0655-02-14">弱冠</date>登具<ptr type="glossary" target="#g33"/>，愈堅貞志。<date key="j19661861966540" from-iso="0671-02-18" to-iso="0672-02-07">咸亨<lb
 ed="T" n="0710b13"/>二年</date>，年三十有七，方遂發足。初至<placeName key="PL000000030482">番禺</placeName>得<lb
 ed="T" n="0710b14"/>同志數十人<ptr target="#n34"/>，及將登舶，餘皆退罷。<persName key="A001470">淨</persName>奮勵<lb
 ed="T" n="0710b15"/>孤行，備歷艱<anchor xml:id="beg0710sgsz1" n="0710sgsz1"/>險<anchor xml:id="end0710sgsz1"/>。所至之境，皆洞言音。凡遇<lb
@@ -13,8 +13,8 @@ ed="T" n="0710b16"/>酋長，俱加禮重<ptr target="#n35"/>。<placeName key="
 ed="T" n="0710b17"/><placeName key="PL000000048398">祇林</placeName>，並<anchor xml:id="beg0710sgsz2" n="0710sgsz2"/>皆<anchor xml:id="end0710sgsz2"/>瞻矚。諸有聖迹，畢得追尋。經二十<lb
 ed="T" n="0710b18"/>五年，歷三十餘國，以<date key="j19750741975103" from-iso="0695-06-20" to-iso="0695-07-19">天后證聖元年乙未仲<lb
 ed="T" n="0710b19"/>夏</date>，還至<placeName key="PL000000023581">河洛</placeName>。得梵本經律論近四百部，合<lb
-ed="T" n="0710b20"/>五十萬頌，金剛座<ptr target="#n36"/>真容一鋪、舍利三百粒。<persName key="A002099">天<lb
-ed="T" n="0710b21"/>后</persName>親迎于<placeName key="PL000000023526">上東門</placeName>外，諸寺緇伍<ptr target="#n37"/>具幡蓋歌樂<lb
+ed="T" n="0710b20"/>五十萬頌，金剛座<ptr type="glossary" target="#g36"/>真容一鋪、舍利三百粒。<persName key="A002099">天<lb
+ed="T" n="0710b21"/>后</persName>親迎于<placeName key="PL000000023526">上東門</placeName>外，諸寺緇伍<ptr type="glossary" target="#g37"/>具幡蓋歌樂<lb
 ed="T" n="0710b22"/>前導，勅於<placeName key="PL000000023657">佛授記寺</placeName>安置焉。初與<placeName key="PL000000047983">于闐</placeName>三<lb
 ed="T" n="0710b23"/>藏<persName key="A001606">實叉難陀</persName>飜《華嚴經》<ptr target="#n38"/>。<date key="j19768801977143" from-iso="0700-05-31" to-iso="0701-02-18">久視</date>之後乃<ref type="person" target="#A001470">自</ref>專譯。<lb
 ed="T" n="0710b24"/>起<date from-iso="0699" key="j19766981978233" to-iso="0704">庚子歲至長安癸卯</date>，於<placeName key="PL000000023665">福先寺</placeName>及<placeName key="PL000000042216">雍京西<lb
@@ -23,58 +23,58 @@ ed="T" n="0710b26"/>成佛》<ptr target="#n41"/>、《一字呪王》<ptr targe
 ed="T" n="0710b27"/>經，《根本一切有部毘柰耶》<ptr target="#n45"/>、《尼陀那目得迦》<ptr target="#n46"/>、《百<lb
 ed="T" n="0710b28"/>一羯磨攝》<ptr target="#n47"/>等，《掌中》<ptr target="#n48"/>、《取因假設》<ptr target="#n49"/>、《六門教授》<ptr target="#n50"/>等論、<lb
 ed="T" n="0710b29"/>及《龍樹勸誡頌》<ptr target="#n51"/>，凡二十部。<placeName key="PL000000055420">北印度</placeName>沙門<persName key="A001922">阿儞<pb ed="T" n="0710c" xml:id="T50.2061.0710c"/><lb
-ed="T" n="0710c01"/>真那</persName>證梵文、義<ptr target="#n52"/>，沙門<persName key="A002448">波崙</persName>、<persName key="A001192"><anchor xml:id="beg0710003"/>復<anchor xml:id="end0710003"/>禮</persName>、<persName key="A002449">慧表</persName>、<persName key="A002480">智積</persName>等<lb
-ed="T" n="0710c02"/>筆受<ptr target="#n53"/>、證文<ptr target="#n52"/>，沙門<persName key="A000746">法寶</persName>、<persName key="A002450">法藏</persName>、<persName key="A002451">德感</persName>、<persName key="A001179">勝莊</persName>、<persName key="A002452">神英</persName>、<persName key="A002453">仁<lb
-ed="T" n="0710c03"/>亮</persName>、<persName key="A002454">大儀</persName>、<persName key="A002455">慈訓</persName>等證義<ptr target="#n54"/>，成均太學助教<persName key="A002116">許觀</persName>監<lb
-ed="T" n="0710c04"/>護<ptr target="#n55"/>，繕寫進呈。<persName key="A002099">天后</persName>製《聖教序》<ptr target="#n56"/>，令標經首。<lb
+ed="T" n="0710c01"/>真那</persName>證梵文、義<ptr type="glossary" target="#g52"/>，沙門<persName key="A002448">波崙</persName>、<persName key="A001192"><anchor xml:id="beg0710003"/>復<anchor xml:id="end0710003"/>禮</persName>、<persName key="A002449">慧表</persName>、<persName key="A002480">智積</persName>等<lb
+ed="T" n="0710c02"/>筆受<ptr type="glossary" target="#g53"/>、證文<ptr type="glossary" target="#g52"/>，沙門<persName key="A000746">法寶</persName>、<persName key="A002450">法藏</persName>、<persName key="A002451">德感</persName>、<persName key="A001179">勝莊</persName>、<persName key="A002452">神英</persName>、<persName key="A002453">仁<lb
+ed="T" n="0710c03"/>亮</persName>、<persName key="A002454">大儀</persName>、<persName key="A002455">慈訓</persName>等證義<ptr type="glossary" target="#g54"/>，成均太學助教<persName key="A002116">許觀</persName>監<lb
+ed="T" n="0710c04"/>護<ptr type="glossary" target="#g55"/>，繕寫進呈。<persName key="A002099">天后</persName>製《聖教序》<ptr target="#n56"/>，令標經首。<lb
 ed="T" n="0710c05"/>暨<persName key="A002100">和帝</persName><date key="j19786111978942" from-iso="0705-02-25" to-iso="0706-01-22">神龍元年乙巳</date>，於<placeName key="PL000000023610">東洛內道場</placeName>譯<lb
 ed="T" n="0710c06"/>《孔雀王經》<ptr target="#n57"/>，又於<placeName key="PL000000023665">大福先寺</placeName>出《勝光天子》<ptr target="#n58"/>、《香王<lb
 ed="T" n="0710c07"/>菩薩呪》<ptr target="#n59"/>、《一切莊嚴王經》<ptr target="#n60"/>四部，沙門<persName key="A002456">盤度</persName>讀梵<lb
-ed="T" n="0710c08"/>文，沙門<persName key="A002457">玄傘</persName>筆受<ptr target="#n53"/>，沙門<persName key="A002454">大儀</persName>證文，沙門<persName key="A001179">勝莊</persName>、<lb
-ed="T" n="0710c09"/><persName key="A002458">利貞</persName>證義<ptr target="#n54"/>，兵部侍郎<persName key="A002459">崔湜</persName>、給事中<persName key="A002460"><anchor xml:id="beg0710sgsz3" n="0710sgsz3"/><choice resp="sgsz"><sic>廬</sic><corr>盧</corr></choice><anchor xml:id="end0710sgsz3"/>粲</persName>潤文<lb
-ed="T" n="0710c10"/>正字<ptr target="#n70"/>，祕書監駙馬都尉<persName key="A002117">楊慎交</persName>監護<ptr target="#n55"/>。<ref target="#A002100" type="person">帝</ref>深崇<lb
+ed="T" n="0710c08"/>文，沙門<persName key="A002457">玄傘</persName>筆受<ptr type="glossary" target="#g53"/>，沙門<persName key="A002454">大儀</persName>證文，沙門<persName key="A001179">勝莊</persName>、<lb
+ed="T" n="0710c09"/><persName key="A002458">利貞</persName>證義<ptr type="glossary" target="#g54"/>，兵部侍郎<persName key="A002459">崔湜</persName>、給事中<persName key="A002460"><anchor xml:id="beg0710sgsz3" n="0710sgsz3"/><choice resp="sgsz"><sic>廬</sic><corr>盧</corr></choice><anchor xml:id="end0710sgsz3"/>粲</persName>潤文<lb
+ed="T" n="0710c10"/>正字<ptr type="glossary" target="#g70"/>，祕書監駙馬都尉<persName key="A002117">楊慎交</persName>監護<ptr type="glossary" target="#g55"/>。<ref target="#A002100" type="person">帝</ref>深崇<lb
 ed="T" n="0710c11"/>釋典，特抽叡思，製《大唐龍興三藏聖教序》。<lb
 ed="T" n="0710c12"/>又御<placeName key="PL000000023562">洛陽西門</placeName>，宣示群官新飜之經。<date from-iso="0706-01-23" key="j19789431979326" to-iso="0707-02-10">二年</date>，<persName key="A001470">淨</persName><lb
 ed="T" n="0710c13"/>隨<ref target="#A002100" type="person">駕</ref>歸<placeName key="PL000000042189">雍京</placeName>，置經院於<placeName key="PL000000042271">飜經院</placeName>於<placeName key="PL000000042270">大薦福寺</placeName>，居之。<lb
-ed="T" n="0710c14"/><date key="j19793271979566" from-iso="0707-02-11" to-iso="0707-10-08">三年</date>，詔入內與同飜經沙門九旬坐夏<ptr target="#n61"/>。<ref target="#A002100" type="person">帝</ref><lb
+ed="T" n="0710c14"/><date key="j19793271979566" from-iso="0707-02-11" to-iso="0707-10-08">三年</date>，詔入內與同飜經沙門九旬坐夏<ptr type="glossary" target="#g61"/>。<ref target="#A002100" type="person">帝</ref><lb
 ed="T" n="0710c15"/>以昔居<placeName key="PL000000026748">房部</placeName>，幽厄無歸<ptr target="#n62"/>，祈念<persName key="A015237">藥師</persName>，遂蒙降<lb
 ed="T" n="0710c16"/>祉，荷茲往澤<ptr target="#n64"/>，重闡鴻猷。因命法徒更重傳<lb
 ed="T" n="0710c17"/>譯於<placeName key="PL000000042277">大佛光殿</placeName>，二卷成文，曰《藥師瑠璃光佛<lb
-ed="T" n="0710c18"/>本願功德經》<ptr target="#n65"/>。<ref target="#A002100" type="person">帝</ref>御法筵，手自筆受<ptr target="#n53"/>。<persName key="A002461">睿宗</persName><date key="j19804201980773" from-iso="0710-02-08" to-iso="0711-01-27"><anchor xml:id="beg0710004" n="beg0710004"/><choice resp="sgsz"><sic>永</sic><corr>唐</corr></choice><anchor xml:id="end0710004"/><lb
+ed="T" n="0710c18"/>本願功德經》<ptr target="#n65"/>。<ref target="#A002100" type="person">帝</ref>御法筵，手自筆受<ptr type="glossary" target="#g53"/>。<persName key="A002461">睿宗</persName><date key="j19804201980773" from-iso="0710-02-08" to-iso="0711-01-27"><anchor xml:id="beg0710004" n="beg0710004"/><choice resp="sgsz"><sic>永</sic><corr>唐</corr></choice><anchor xml:id="end0710004"/><lb
 ed="T" n="0710c19"/>隆元年庚<anchor xml:id="beg0710sgsz4" n="beg0710sgsz4"/>戌<anchor xml:id="end0710sgsz4"/></date>，於<placeName key="PL000000042270">大薦福寺</placeName>出《浴像功德經》<ptr target="#n66"/>、<lb
 ed="T" n="0710c20"/>《毘柰耶雜事二眾戒經》<ptr target="#n67"/>、《唯識寶生》<ptr target="#n68"/>、《所緣釋》<ptr target="#n69"/>等二<lb
 ed="T" n="0710c21"/>十部。<placeName key="PL000000000014">吐火羅</placeName>沙門<persName key="A002462">達磨末磨</persName>、<placeName key="PL000000048208">中印度</placeName>沙門<persName key="A002463">拔<lb
-ed="T" n="0710c22"/>弩</persName>證梵義<ptr target="#n52"/>，<placeName key="PL000000055418">罽賓</placeName>沙門<persName key="A002464">達磨難陀</persName>證梵文<ptr target="#n52"/>，居士<lb
-ed="T" n="0710c23"/><placeName key="PL000000048210">東印度</placeName>首領<persName key="A002107">伊舍羅</persName>證梵本<ptr target="#n52"/>，沙門<persName key="A002465">慧積</persName>、居士<lb
+ed="T" n="0710c22"/>弩</persName>證梵義<ptr type="glossary" target="#g52"/>，<placeName key="PL000000055418">罽賓</placeName>沙門<persName key="A002464">達磨難陀</persName>證梵文<ptr type="glossary" target="#g52"/>，居士<lb
+ed="T" n="0710c23"/><placeName key="PL000000048210">東印度</placeName>首領<persName key="A002107">伊舍羅</persName>證梵本<ptr type="glossary" target="#g52"/>，沙門<persName key="A002465">慧積</persName>、居士<lb
 ed="T" n="0710c24"/><placeName key="PL000000048208">中印度</placeName><persName key="A002466">李釋迦</persName><persName key="A002467">度頗多</persName><anchor xml:id="beg0710005" n="beg0710005"/><choice resp="sgsz"><sic>語</sic><corr>讀</corr></choice><anchor xml:id="end0710005"/>梵本，沙門<persName key="A002468">文綱</persName>、<persName key="A001708">慧<lb
-ed="T" n="0710c25"/>沼</persName>、<persName key="A002458">利貞</persName>、<persName key="A001179">勝莊</persName>、<persName key="A001434">愛同</persName>、<persName key="A002469">思恒</persName>證義<ptr target="#n54"/>，<persName key="A002457">玄傘</persName>、<persName key="A002480">智積</persName>筆受<ptr target="#n53"/>，<lb
+ed="T" n="0710c25"/>沼</persName>、<persName key="A002458">利貞</persName>、<persName key="A001179">勝莊</persName>、<persName key="A001434">愛同</persName>、<persName key="A002469">思恒</persName>證義<ptr type="glossary" target="#g54"/>，<persName key="A002457">玄傘</persName>、<persName key="A002480">智積</persName>筆受<ptr type="glossary" target="#g53"/>，<lb
 ed="T" n="0710c26"/>居士<placeName key="PL000000048210">東印度</placeName><persName key="A002470">瞿曇金剛</persName>、<placeName key="PL000000055417">迦濕彌羅國</placeName>王子<persName key="A002471">阿順</persName><lb
 ed="T" n="0710c27"/>證譯，修文館大學士<persName key="A002109">李嶠</persName>、兵部尚書<persName key="A002110">韋嗣立</persName>、<lb
 ed="T" n="0710c28"/>中書侍郎<persName key="A002472">趙彥昭</persName>、吏部侍郎<persName key="A002111">盧藏用</persName>、兵部侍<lb
-ed="T" n="0710c29"/>郎<persName key="A002473">張說</persName>、中書舍人<persName key="A002474">李<anchor xml:id="beg0710sgsz5" n="beg0710sgsz5"/><choice resp="sgsz"><sic>又</sic><corr>乂</corr></choice><anchor xml:id="end0710sgsz5"/></persName>二十餘人次文潤色<ptr target="#n70"/>，<pb ed="T" n="0711a" xml:id="T50.2061.0711a"/><lb
-ed="T" n="0711a01"/>左僕射<persName key="A002475">韋巨源</persName>、右僕射<persName key="A002476">蘇瓌</persName>監護<ptr target="#n55"/>，祕書大監<persName key="A002477">嗣<lb
-ed="T" n="0711a02"/>虢王邕</persName>同監護<ptr target="#n55"/>。<date key="j19807741981157" from-iso="0711-01-28" to-iso="0712-02-15">景雲二年辛亥</date>，復於<placeName key="PL000000042270">大薦福<lb
+ed="T" n="0710c29"/>郎<persName key="A002473">張說</persName>、中書舍人<persName key="A002474">李<anchor xml:id="beg0710sgsz5" n="beg0710sgsz5"/><choice resp="sgsz"><sic>又</sic><corr>乂</corr></choice><anchor xml:id="end0710sgsz5"/></persName>二十餘人次文潤色<ptr type="glossary" target="#g70"/>，<pb ed="T" n="0711a" xml:id="T50.2061.0711a"/><lb
+ed="T" n="0711a01"/>左僕射<persName key="A002475">韋巨源</persName>、右僕射<persName key="A002476">蘇瓌</persName>監護<ptr type="glossary" target="#g55"/>，祕書大監<persName key="A002477">嗣<lb
+ed="T" n="0711a02"/>虢王邕</persName>同監護<ptr type="glossary" target="#g55"/>。<date key="j19807741981157" from-iso="0711-01-28" to-iso="0712-02-15">景雲二年辛亥</date>，復於<placeName key="PL000000042270">大薦福<lb
 ed="T" n="0711a03"/>寺</placeName>譯《稱讚如來功德神呪》<ptr target="#n71"/>等經，太常卿<persName key="A002478">薛崇<lb
-ed="T" n="0711a04"/>嗣</persName>監護<ptr target="#n55"/>。自<date from-iso="0700" key="j19768801981175" to-iso="0712">天后久視迄睿宗景雲</date>，都飜<lb
+ed="T" n="0711a04"/>嗣</persName>監護<ptr type="glossary" target="#g55"/>。自<date from-iso="0700" key="j19768801981175" to-iso="0712">天后久視迄睿宗景雲</date>，都飜<lb
 ed="T" n="0711a05"/>出五十六部，二百三十卷。又別撰《大唐西域<lb
 ed="T" n="0711a06"/>求法高僧傳》<ptr target="#n72"/>、《南海寄歸<anchor xml:id="beg0711sgsz1" n="beg0711sgsz1"/>內<anchor xml:id="end0711sgsz1"/>法傳》<ptr target="#n73"/>。別說《罪要行法》<ptr target="#n74"/>、<lb
 ed="T" n="0711a07"/>《受用三法水要法》<ptr target="#n75"/>、《護命放生軌儀》<ptr target="#n76"/>，凡五部，九<lb
-ed="T" n="0711a08"/>卷。又出《說一切有部跋窣堵》<ptr target="#n77"/>，即諸律中<anchor xml:id="beg0711sgsz2" n="beg0711sgsz2"/>犍<anchor xml:id="end0711sgsz2"/>度<ptr target="#n78"/>、<lb
-ed="T" n="0711a09"/>跋渠<ptr target="#n79"/>之類，蓋梵音有楚、夏<ptr target="#n80"/>耳，約七十八卷。<lb
+ed="T" n="0711a08"/>卷。又出《說一切有部跋窣堵》<ptr target="#n77"/>，即諸律中<anchor xml:id="beg0711sgsz2" n="beg0711sgsz2"/>犍<anchor xml:id="end0711sgsz2"/>度<ptr type="glossary" target="#g78"/>、<lb
+ed="T" n="0711a09"/>跋渠<ptr type="glossary" target="#g79"/>之類，蓋梵音有楚、夏<ptr type="glossary" target="#g80"/>耳，約七十八卷。<lb
 ed="T" n="0711a10"/><persName key="A001470">淨</persName>雖遍飜三藏，而偏攻律部，譯綴之暇，曲<lb
-ed="T" n="0711a11"/>授學徒。凡所行事皆尚急護<ptr target="#n81"/>。漉囊滌穢<ptr target="#n82"/>，特<lb
+ed="T" n="0711a11"/>授學徒。凡所行事皆尚急護<ptr type="glossary" target="#g81"/>。漉囊滌穢<ptr type="glossary" target="#g82"/>，特<lb
 ed="T" n="0711a12"/>異常倫。學侶傳行，遍于<placeName key="PL000000042189">京</placeName><placeName key="PL000000023581">洛</placeName>，美哉，亦遺法<lb
 ed="T" n="0711a13"/>之盛事也。<date key="j19815121981836" from-iso="0713-02-04" to-iso="0713-12-25">先天二年</date>卒，春秋七十九，法臘五<lb
 ed="T" n="0711a14"/>十九，葬事官供所出。《跋窣堵》唯存真本，未<lb
-ed="T" n="0711a15"/>暇覆疏，而逼泥曰<ptr target="#n83"/>，然其傳度經律，與<persName key="A000294">奘<lb
+ed="T" n="0711a15"/>暇覆疏，而逼泥曰<ptr type="glossary" target="#g83"/>，然其傳度經律，與<persName key="A000294">奘<lb
 ed="T" n="0711a16"/>師</persName>抗衡。比其著述，<persName key="A001470">淨</persName>多文。性傳密呪，最<lb
-ed="T" n="0711a17"/>盡其妙，二三合聲<ptr target="#n84"/>，爾時方曉矣。今塔在<placeName key="PL000000023647">洛京<lb
+ed="T" n="0711a17"/>盡其妙，二三合聲<ptr type="glossary" target="#g84"/>，爾時方曉矣。今塔在<placeName key="PL000000023647">洛京<lb
 ed="T" n="0711a18"/>龍門</placeName>北之高岡焉。</p>
         <p><lb
 ed="T" n="0711a19"/>系曰：「譯」之言「易」也，謂以所有易所無也。譬<lb
 ed="T" n="0711a20"/>諸枳橘焉，由易土而殖，橘化為枳。枳橘之<lb
 ed="T" n="0711a21"/>呼雖殊，而辛芳榦葉無異<ptr target="#n85"/>。又如<placeName key="PL000000055436">西域</placeName>尼拘<lb
-ed="T" n="0711a22"/>律陀樹<ptr target="#n1164"/>，即<placeName key="PL000000000083">東夏</placeName>之楊柳，名雖不同，樹體是<lb
+ed="T" n="0711a22"/>律陀樹<ptr type="glossary" target="#g1164"/>，即<placeName key="PL000000000083">東夏</placeName>之楊柳，名雖不同，樹體是<lb
 ed="T" n="0711a23"/>一。自<date from-iso="0025" key="j17302372082329" to-iso="0989">漢至今皇宋</date>，飜譯之人多矣。<date from-iso="0266" key="j18182531916500" to-iso="0535">晉魏之<lb
 ed="T" n="0711a24"/>際</date>，唯<placeName key="PL000000055425">西竺</placeName>人來，止稱尼拘耳。<ref type="place" target="#PL000000000083">此方</ref>參譯之<lb
 ed="T" n="0711a25"/>士，因西僧指楊柳，始體言意。其後東僧往<lb
@@ -84,8 +84,8 @@ ed="T" n="0711a28"/>西，學盡梵書，解盡佛意，始可稱善。傳譯<lb
 ed="T" n="0711a29"/>者，<date from-iso="0420" key="j18746541936233" to-iso="0589">宋齊</date>已還，不無去<ref type="place" target="#PL000000055425">彼</ref>迴者，若入境觀風<pb ed="T" n="0711b" xml:id="T50.2061.0711b"/><lb
 ed="T" n="0711b01"/>必聞其政者，<persName key="A000294">奘師</persName>、<ref target="#A001470" type="person"><anchor xml:id="beg0711sgsz3" n="beg0711sgsz3"/><choice resp="sgsz"><sic>法</sic><corr>淨</corr></choice><anchor xml:id="end0711sgsz3"/>師</ref>為得其實。<ref type="person" target="#A000294 #A001470">此二師</ref><lb
 ed="T" n="0711b02"/>者兩全通達，其猶見璽文知是天子之書，<lb
-ed="T" n="0711b03"/>可信也。《周禮》象胥氏通夷狄之言<ptr target="#n86"/>，<persName key="A001470">淨</persName>之才<lb
-ed="T" n="0711b04"/>智，可謂釋門之象胥<ptr target="#n86"/>也歟！ </p>
+ed="T" n="0711b03"/>可信也。《周禮》象胥氏通夷狄之言<ptr type="glossary" target="#g86"/>，<persName key="A001470">淨</persName>之才<lb
+ed="T" n="0711b04"/>智，可謂釋門之象胥<ptr type="glossary" target="#g86"/>也歟！ </p>
         <linkGrp>
             <link targets="#0709b02 #0709b09"/>
             <ptr target="#A001910" type="person"/>

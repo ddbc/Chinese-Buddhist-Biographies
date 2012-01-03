@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0899a07shiZongYuan"><lb
+ed="T" n="0899a07"/><anchor n="T.50.2061.0899a07"/><head><date from-iso="0960-02-09" key="j20717322132856" to-iso="1127-06-18">宋</date>宜陽柏閣小<persName key="A008804">宗淵</persName>傳</head><p><lb
+ed="T" n="0899a08"/><persName key="A008804">釋宗淵</persName>，姓宮氏，<placeName key="PL000000021268">高密</placeName>人也。幼通經籍，察<anchor xml:id="beg0899003"/>慧<anchor xml:id="end0899003"/><lb
+ed="T" n="0899a09"/>若神，忽願出家于東萊<placeName key="PL000000020906">北禪院</placeName>。後參學<placeName key="PL000000000197">江<lb
+ed="T" n="0899a10"/>表</placeName>岳中祖師<persName key="A019518">勝友</persName>，資神潤己，往造實歸。僻<lb
+ed="T" n="0899a11"/>好吟詩，於<placeName key="PL000000023022">荊楚</placeName>間甞師學于<persName key="A007105">齊己</persName>之體，自<lb
+ed="T" n="0899a12"/>言緣情在品物流形之外。覽天下山川，且<lb
+ed="T" n="0899a13"/>曰「步仞之丘，<anchor xml:id="beg0899004"/>巨<anchor xml:id="end0899004"/>獸無以隱其軀」。愛宜陽<lb
+ed="T" n="0899a14"/><placeName key="PL000000023768">柏閣山</placeName>居之，以求其志。其孤潔耿介，凡俗<lb
+ed="T" n="0899a15"/>不可造次而見。日別持觀音支品，蓋曾有<lb
+ed="T" n="0899a16"/>善相人言<persName key="A008804">淵</persName>促齡，勉令受持普門品也。<lb
+ed="T" n="0899a17"/>至<date key="j20793182079346" notAfter-iso="0980-12-14" notBefore-iso="0980-11-16">太平興國五年十月</date>，預言終期，令<anchor xml:id="beg0899005"/>水土<anchor xml:id="end0899005"/><lb
+ed="T" n="0899a18"/>作坐，如鹿頂形。連促木工，明日齋時要用，<lb
+ed="T" n="0899a19"/>至是果坐終焉。鄉人無遠近皆來焚香<lb
+ed="T" n="0899a20"/>設拜，當年遷小塔于寶雲寺<!--找不到此地-->之山原，年八十<lb
+ed="T" n="0899a21"/>三。有洛西集。著挽辭五十首，一云：「舉世<lb
+ed="T" n="0899a22"/>應無百歲人，百年終作塚中塵。余今八十<lb
+ed="T" n="0899a23"/>有三也，自作哀歌送此身。」紙衣一襲葬焉。<lb
+ed="T" n="0899a24"/>後開發，神色宛然，弟子<persName key="A013979">淡然</persName>、<persName key="A013981">奉明</persName>葬之于巖<lb
+ed="T" n="0899a25"/>穴之中矣。</p>
+    <linkGrp>
+        <link targets="#0899a09 #0899a09"/>
+        <ptr target="#A008804" type="person"/>
+        <ptr target="#PL000000020906" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0899a09 #0899a10"/>
+        <ptr target="#A008804" type="person"/>
+        <ptr target="#A019518" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0899a11 #0899a12"/>
+        <ptr target="#A008804" type="person"/>
+        <ptr target="#PL000000023022" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0899a13 #0899a14"/>
+        <ptr target="#A008804" type="person"/>
+        <ptr target="#PL000000023768" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0899a24 #0899a25"/>
+        <ptr target="#A008804" type="person"/>
+        <ptr target="#A013979" type="person"/>
+        <ptr target="#A013981" type="person"/>
+    </linkGrp>
+</div>

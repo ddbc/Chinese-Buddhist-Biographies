@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0789a20shiDeShao">
+<anchor n="T.50.2061.0789a20"/><head><date from-iso="0960-02-09" key="j20717322132856" to-iso="1127-06-18">宋</date>天台山<persName key="A008355">德韶</persName>傳</head><p><lb
+ed="T" n="0789a21"/><persName key="A008355">釋德韶</persName>者，姓陳氏，<placeName key="PL000000014972">縉雲</placeName>人也。幼出家于本<lb
+ed="T" n="0789a22"/>郡，登戒後，<date from-iso="0923" key="j20583162059413" to-iso="0926">同光</date>中尋訪名山，參見知識，屈<lb
+ed="T" n="0789a23"/>指不勝其數。初發心於<placeName key="PL000000015565">投子山</placeName>和尚，後見<lb
+ed="T" n="0789a24"/><placeName key="PL000000019849">臨川</placeName><persName key="A000174">法眼禪師</persName>，重了心要，遂承嗣焉。始入<lb
+ed="T" n="0789a25"/><placeName key="PL000000014411">天台山</placeName>，建寺院道場。無幾，<persName key="A008355">韶</persName>大興<persName key="A008370">玄沙</persName>法<lb
+ed="T" n="0789a26"/>道，歸依者眾。漢南國王<persName key="A006774">錢<roleName>氏</roleName></persName>嘗理<placeName key="PL000000014380">丹丘</placeName>，<persName key="A008355">韶</persName><lb
+ed="T" n="0789a27"/>有先見之明，謂曰：「他日為國王，當興佛法。」<lb
+ed="T" n="0789a28"/>其言信矣，遣使入山旁午，後署大禪師號，<lb
+ed="T" n="0789a29"/>每有言時，無不符合。<placeName key="PL000000009928">蘇州</placeName>節使<persName key="A010766">錢仁奉</persName>有<pb ed="T" n="0789b" xml:id="T50.2061.0789b"/><lb
+ed="T" n="0789b01"/>疾，遣人齎香往乞願焉。乃題疏云：「<persName key="A010766">令公</persName>八<lb
+ed="T" n="0789b02"/>十一。」<persName key="A010766">仁奉</persName>得之甚喜曰：「<persName key="A010766">我</persName>壽八十一也。」其<lb
+ed="T" n="0789b03"/>年八月十一日卒焉。凡多此類。<persName key="A008355">韶</persName>未終之前<lb
+ed="T" n="0789b04"/>也，<placeName key="PL000000014412">華頂</placeName>石崩，振驚百里，山如野燒蔓筵，果<lb
+ed="T" n="0789b05"/>應<persName key="A008355">韶</persName>終。焚舍利繁多，營塔，命都僧正<persName key="A001910">贊寧</persName><lb
+ed="T" n="0789b06"/>為塔碑焉。享年八十二，法臘六十四即<date key="j20763022076302" when-iso="0972-08-14">開<lb
+ed="T" n="0789b07"/>寶五年壬申歲六月二十八日</date>也。《語錄》大行。<lb
+ed="T" n="0789b08"/>出弟子傳法百許人，其又興智者道場數十<lb
+ed="T" n="0789b09"/>所，功成不宰，心地坦夷。術數尤精，利人為<lb
+ed="T" n="0789b10"/>上。至今<placeName key="PL000000000150">江</placeName><placeName key="PL000000008367">浙</placeName>間謂為「<persName key="A008355">大和尚</persName>」焉。</p>
+    <linkGrp>
+        <link targets="#0789a22 #0789a23"/>
+        <ptr target="#A008355" type="person"/>
+        <ptr target="#PL000000015565" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0789a23 #0789a24"/>
+        <ptr target="#A008355" type="person"/>
+        <ptr target="#A000174" type="person"/>
+        <ptr target="#PL000000019849" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0789a24 #0789a26"/>
+        <ptr target="#A008355" type="person"/>
+        <ptr target="#PL000000014411" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0789a26 #0789a27"/>
+        <ptr target="#A008355" type="person"/>
+        <ptr target="#A006774" type="person"/>
+        <ptr target="#PL000000014380" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0789a29 #0789b01"/>
+        <ptr target="#A010766" type="person"/>
+        <ptr target="#PL000000009928" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0789a29 #0789b03"/>
+        <ptr target="#A008355" type="person"/>
+        <ptr target="#A010766" type="person"/>
+    </linkGrp>
+</div>

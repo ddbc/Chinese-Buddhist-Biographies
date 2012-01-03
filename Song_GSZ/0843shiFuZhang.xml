@@ -1,19 +1,19 @@
 <?xml version='1.0' encoding='utf-8'?>
-<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0751a12shiFuZhang">
-    <anchor n="T.50.2061.0751a12"/><head><date from-iso="0960-02-09" key="j20717322132856" to-iso="1127-06-18"><anchor xml:id="beg0751sgsz1"/>宋<anchor xml:id="end0751sgsz1"/></date><placeName key="PL000000023341">東京天清寺</placeName><persName key="A010011">傅章</persName>傳</head><p><lb
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0751a12shiFuZhang"><lb
+ed="T" n="0751a12"/><anchor n="T.50.2061.0751a12"/><head><date from-iso="0960-02-09" key="j20717322132856" to-iso="1127-06-18"><anchor xml:id="beg0751sgsz1"/>宋<anchor xml:id="end0751sgsz1"/></date><placeName key="PL000000023341">東京天清寺</placeName><persName key="A010011">傅章</persName>傳</head><p><lb
 ed="T" n="0751a13"/><persName key="A010011">釋傅章</persName>，俗姓彭氏，<placeName key="PL000000023486">開封東明</placeName>人也。厥父<persName key="A018968">諲</persName>，即<lb
 ed="T" n="0751a14"/>邑甸之上農也，塵務之外，正見不回，恒讀佛<lb
 ed="T" n="0751a15"/>經，懸解詮旨。母<persName key="A018969"><anchor xml:id="beg0751001"/>邢<anchor xml:id="end0751001"/><roleName>氏</roleName></persName>甞夢入法宇，手探道<lb
 ed="T" n="0751a16"/>器，因而娠焉。與<ref type="person" target="#A018968">父</ref>知懷非常之子，指腹誓<lb
-ed="T" n="0751a17"/>令出俗。<date key="j20570832057448" from-iso="0920-01-01" to-iso="0920-12-31">年甫十一</date>，乃禮<ref type="place" target="#PL000000023486">本邑</ref>《唯識》師<persName key="A010012">祕公</persName><lb
+ed="T" n="0751a17"/>令出俗。<date key="j20570832057448" from-iso="0920-01-01" to-iso="0920-12-31">年甫十一</date>，乃禮<ref type="place" target="#PL000000023486">本邑</ref>唯識師<persName key="A010012">祕<roleName>公</roleName></persName><lb
 ed="T" n="0751a18"/>為師，一見異之。初授《淨名》、《仁王》、《法華》三經，<lb
-ed="T" n="0751a19"/>及削髮去周羅，隨<persName key="A010012">祕公</persName>遊<placeName key="PL000000005439">五臺</placeName>，<anchor xml:id="beg0751sgsz2"/>禮<anchor xml:id="end0751sgsz2"/><persName key="A002144">文殊</persName><lb
-ed="T" n="0751a20"/>應跡之地。其年受具。為息慈日，便於<placeName key="PL000000023302">浚郊</placeName><lb
-ed="T" n="0751a21"/><persName key="A010014">清朗法師</persName>座下聽習《法華經》。後於<placeName key="PL000000025555">睢陽</placeName><persName key="A010016">道雅<lb
-ed="T" n="0751a22"/>法師</persName>重溫前業，尋學《唯識》於<ref type="person" target="#A010012">本師</ref><ptr target="#n190"/>，頗揭厲<lb
-ed="T" n="0751a23"/>于義津法水。又親附副僧錄<persName key="A018972">通慧</persName>《因明》，且臻<lb
-ed="T" n="0751a24"/>其極章。日誦三經兼二戒本，講貫訓徒，向二<lb
-ed="T" n="0751a25"/>十載，未甞少輟。<date from-iso="0951" key="j20684542069542" to-iso="0954">廣順</date>中，左街僧錄<persName key="A010018">廣智大師</persName><lb
+ed="T" n="0751a19"/>及削髮去周羅<ptr type="glossary" target="#g1280"/>，隨<persName key="A010012">祕<roleName>公</roleName></persName>遊<placeName key="PL000000005439">五臺</placeName>，<anchor xml:id="beg0751sgsz2"/>禮<anchor xml:id="end0751sgsz2"/><persName key="A002144">文殊</persName><lb
+ed="T" n="0751a20"/>應跡之地。其年受具。為息慈<ptr type="glossary" target="#g964"/>日，便於<placeName key="PL000000023302">浚郊</placeName><lb
+ed="T" n="0751a21"/><persName key="A010014">清朗<roleName>法師</roleName></persName>座下聽習《法華經》。後於<placeName key="PL000000025555">睢陽</placeName><persName key="A010016">道雅<lb
+ed="T" n="0751a22"/><roleName>法師</roleName></persName>重溫前業，尋學《唯識》於<ref type="person" target="#A010012">本師</ref><ptr type="glossary" target="#g190"/>，頗揭厲<ptr type="glossary" target="#g1031"/><lb
+ed="T" n="0751a23"/>于義津法水。又親附副僧錄<persName key="A018972">通慧</persName>「因明」，且臻<lb
+ed="T" n="0751a24"/>其極章。日誦三經兼二戒本，講貫<ptr type="glossary" target="#g1247"/>訓徒，向二<lb
+ed="T" n="0751a25"/>十載，未甞少輟。<date from-iso="0951" key="j20684542069542" to-iso="0954">廣順</date>中，左街僧錄<persName key="A010018">廣智<roleName>大師</roleName></persName><lb
 ed="T" n="0751a26"/>薦聞于<persName key="A006584">周高祖</persName>，賜紫方袍。<date from-iso="0964-02-21" key="j20732052073559" to-iso="0965-02-09">大宋乾德二年</date>，左<lb
 ed="T" n="0751a27"/>街僧錄<persName key="A010019">道深</persName>薦于<persName key="A003883">太祖神德皇帝</persName>，賜師號<lb
 ed="T" n="0751a28"/>曰<persName key="A010011">義明</persName>。俄示疾而終于<ref type="place" target="#PL000000023341">本院</ref>，春秋五十五，<lb
@@ -23,9 +23,14 @@ ed="T" n="0751b02"/>十一月十六日</date><anchor xml:id="beg0751sgsz3"/>卜<
 ed="T" n="0751b03"/>薪盡火滅，得舌且不灰，眾歎戒德。門人檀<lb
 ed="T" n="0751b04"/>信共立塔焉，則<date from-iso="0972-01-24" key="j20760992076482" to-iso="0973-02-10">開寶五年</date>也。先是<ref type="person" target="#A018968">厥父</ref>恒<lb
 ed="T" n="0751b05"/>務《法華經》，終後焚之，亦舌不壞。子父同驗，<lb
-ed="T" n="0751b06"/>實為罕有。<placeName key="PL000000023307">相國寺</placeName><persName key="A010028">清慧大師彝炳</persName>為《塔銘》<lb
+ed="T" n="0751b06"/>實為罕有。<placeName key="PL000000023307">相國寺</placeName><persName key="A010028">清慧<roleName>大師</roleName>彝炳</persName>為《塔銘》<lb
 ed="T" n="0751b07"/>焉。</p>
     <linkGrp>
+        <link targets="#0751a12 #0751a12"/>
+        <ptr target="#A010011" type="person"/>
+        <ptr target="#PL000000023341" type="place"/>
+    </linkGrp>
+ <linkGrp>
         <link targets="#0751a13 #0751a13"/>
         <ptr target="#A010011" type="person"/>
         <ptr target="#A018968" type="person"/>
@@ -91,6 +96,6 @@ ed="T" n="0751b07"/>焉。</p>
         <link targets="#0751a28 #0751a29"/>
         <ptr target="#A010011" type="person"/>
         <ptr target="#PL000000023341" type="place"/>
-        <ptr target="#j20732052073559" type="time"/>
+        <ptr target="#j20760992076482" type="time"/>
     </linkGrp>
 </div>

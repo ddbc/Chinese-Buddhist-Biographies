@@ -1,23 +1,6 @@
-<?xml version='1.0' encoding='utf-8'?>
-<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0887c19shiShiLu">
-    <anchor n="T.50.2061.0887c19"/><head><date from-iso="0960-02-09" key="j20717322132856" to-iso="1127-06-18">宋</date>東京開寶寺<persName key="A013811">師律</persName>傳</head><p><lb
-ed="T" n="0887c20"/><persName key="A013811">釋師律</persName>，<placeName key="PL000000002485">茫陽</placeName>人也，姓賈氏，大丞相魏國公<persName key="A012285">耽</persName><lb
-ed="T" n="0887c21"/>之後，唐書有傳。<persName key="A013811">律</persName>弱齓端謹，不與群童鬪<lb
-ed="T" n="0887c22"/>伎。裁<date key="j20490492049413" notAfter-iso="0898-12-31" notBefore-iso="0898-01-01">十五歲</date>，於<placeName key="PL000000000351">憫中寺</placeName>落髮，禮<persName key="A013812">貞涉</persName>為師。<lb
-ed="T" n="0887c23"/>嚴肅垂勗，所履不出邊幅之外。涉默異之<lb
-ed="T" n="0887c24"/>曰：「不可屈身下位而抑其名節乎？成比<lb
-ed="T" n="0887c25"/>丘已，可去遊方。」<persName key="A013811">律</persName>奉訓南逝，得其禪要。迴<lb
-ed="T" n="0887c26"/>錫<placeName key="PL000000002485">故鄉</placeName>。時梁世迨大周朝，其間帝王重臣，率<lb
-ed="T" n="0887c27"/>皆宗仰。居于<placeName key="PL000000023412">夷門山</placeName>，舊封禪也，營構乎殿<lb
-ed="T" n="0887c28"/>宇聖儀，豐厨祕藏，供僧饒<app type="cb-app" xml:id="begd1e49314"/>羨<anchor xml:id="endd1e49314"/>。約勒後生，別院<lb
-ed="T" n="0887c29"/>翕如，罔違彞憲。朝廷以紫衣徽號，用旌厥<pb ed="T" n="0888a" xml:id="T50.2061.0888a"/><lb
-ed="T" n="0888a01"/>德，<persName key="A013811">律</persName>視之蔑如也。一日謂弟子<persName key="A013814">庶幾</persName>曰：「<persName key="A013811">吾</persName><lb
-ed="T" n="0888a02"/>無願不報，厥齡欲頹，<persName key="A013814">汝</persName>宜知之。勿俗情而<lb
-ed="T" n="0888a03"/>悲悼也。」<date key="j20732272073227" when-iso="0964-03-14">乾德二祀正月二十三日</date>而終，春秋<lb
-ed="T" n="0888a04"/>八十一，法臘六十二。<date key="j20790812079110" notAfter-iso="0980-04-22" notBefore-iso="0980-03-24">太平興國五年三月</date>，改<lb
-ed="T" n="0888a05"/>葬于北部<placeName key="PL000000023348">浚儀</placeName>之原，進士<persName key="A013815">賈守廉</persName>為塔銘<lb
-ed="T" n="0888a06"/>焉。</p>
-<p xml:id="pT50p0888a0701"><lb
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0888a07xingFuPianLun">
+<anchor n="T.50.2061.0888a07"/><head>興福篇論</head><p xml:id="pT50p0888a0701"><lb
 n="0888a07" ed="T"/>論曰。佛出于世經譯于時。大要在乎果因。<lb
 n="0888a08" ed="T"/>所推歸乎罪福。罪也者下三塗之階陛也。<lb
 n="0888a09" ed="T"/>福也者上諸聖之階陛也。階陛是同上下<lb
@@ -39,7 +22,7 @@ n="0888a24" ed="T"/>易薰染之故也。是以佛亦為穿針之福。知<lb
 n="0888a25" ed="T"/>福不宜厭焉。目連然燎迦葉蹋泥。無盡意<lb
 n="0888a26" ed="T"/>貢瓔珞寶珠。沓婆羅分僧臥具。伊皆大人有<lb
 n="0888a27" ed="T"/>作聖者權方。欲其因罪不厭除福不厭取。<lb
-n="0888a28" ed="T"/>矧以教傳嶺外法布中原年所彌深行持<lb
+n="0888a28" ed="T"/>矧<ptr type="glossary" target="#g325"/>以教傳嶺外法布中原年所彌深行持<lb
 n="0888a29" ed="T"/>漸薄。內眾修福就彼持門。先哲息愆行其
 <pb n="0888b" xml:id="T50.2061.0888b" ed="T"/><lb
 n="0888b01" ed="T"/>懺法矣。夫修理懺也淡慮觀心。心無所<lb
@@ -56,7 +39,7 @@ n="0888b11" ed="T"/>武懺以為佛事。或數僧唄𠽋歌讚相高。謂<lb
 n="0888b12" ed="T"/>之禳懺法也。其有江表行水懺法者。悔其<lb
 n="0888b13" ed="T"/>濫費過度之愆。此人偽造非真法也。又有<lb
     n="0888b14" ed="T"/>斆古人逐字<anchor xml:id="beg0888sgsz5"/>禮<anchor xml:id="end0888sgsz5"/>華嚴法華經。以為<anchor xml:id="beg0888sgsz6"/>禮<anchor xml:id="end0888sgsz6"/>無漏<lb
-n="0888b15" ed="T"/>法藏也。由此有四眾<ptr target="#n98"/>之徒於字上安南無<lb
+n="0888b15" ed="T"/>法藏也。由此有四眾<ptr type="glossary" target="#g98"/>之徒於字上安南無<lb
 n="0888b16" ed="T"/>字下安佛。誠叨濫也。有倡言曰。但務生善<lb
 n="0888b17" ed="T"/>唯期滅罪。何判為非邪。通曰。翻譯之後傳<lb
     n="0888b18" ed="T"/>行<anchor xml:id="beg0888sgsz7"/>已<anchor xml:id="end0888sgsz7"/>來。若天上之恒星。如人形之定相。或<lb
@@ -82,21 +65,4 @@ n="0888c07" ed="T"/>之竅端。所行博哉。續運長矣。公羊子有之<lb
 n="0888c08" ed="T"/>曰。是上之行乎下也。詩云。爾之教矣。民<lb
 n="0888c09" ed="T"/>胥效矣。願吾徒望上而學之。令仁祠聖像<lb
 n="0888c10" ed="T"/>無墜于地者也。</p>
-    <linkGrp>
-        <link targets="#0887c22 #0887c22"/>
-        <ptr target="#A013811" type="person"/>
-        <ptr target="#A013812" type="person"/>
-        <ptr target="#PL000000000351" type="place"/>
-        <ptr target="#j20490492049413" type="time"/>
-    </linkGrp>
-    <linkGrp>
-        <link targets="#0887c25 #0887c28"/>
-        <ptr target="#A013811" type="person"/>
-        <ptr target="#PL000000023412" type="place"/>
-    </linkGrp>
-    <linkGrp>
-        <link targets="#0888a01 #0888a03"/>
-        <ptr target="#A013811" type="person"/>
-        <ptr target="#A013814" type="person"/>
-    </linkGrp>
 </div>

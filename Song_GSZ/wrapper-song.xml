@@ -1,4 +1,5 @@
 <?xml version="1.0" ?>
+<?xml-model href="gisSchema.rnc" type="application/relax-ng-compact-syntax"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
   <teiHeader>
     <fileDesc>
@@ -43,28 +44,26 @@
   <text>
     <body>
       <!-- Numbering in filenames continues from Tang Gaoseng zhuan -->
-      <xi:include href="0744AsongGaoSengChuanXu.xml"/>
+      <xi:include href="0744-1songGaoSengChuanXu.xml"/>
       <div type="juan" n="1">
         <lb n="0710b02" ed="T"/><anchor n="T.50.2061.0714b02"/>
         <head><anchor xml:id="beg0710001"/>宋<anchor xml:id="end0710001"/>高僧傳卷第一</head>
         <lb n="0710b03" ed="T"/>
-        <lb n="0710b04" ed="T"/><byline n="Author"><anchor xml:id="beg0710002"/><date from-iso="0960-02-09" key="j20717322132856" to-iso="1127-06-18">宋</date><placeName key="PL000000023316">左街天壽寺</placeName><persName key="A001910">通慧大師<lb 
-n="0710b05" ed="T"/>賜紫沙門贊寧</persName>等奉　勅撰<anchor xml:id="end0710002"/></byline></div>
-        <div type="content" xml:id="div1-1">
-          <lb n="0710b06" ed="T"/><head>譯經篇第一之一（正傳三人附見一人）</head></div>
+        <lb n="0710b04" ed="T"/><byline n="Author"><anchor xml:id="beg0710002"/><date from-iso="0960-02-09" key="j20717322132856" to-iso="1127-06-18">宋</date><placeName key="PL000000023316">左街天壽寺</placeName><persName key="A001910"><roleName>通慧大師<lb 
+n="0710b05" ed="T"/>賜紫沙門</roleName>贊寧</persName>等奉　勅撰<anchor xml:id="end0710002"/></byline>
+          <lb n="0710b06" ed="T"/><p>譯經篇第一之一（正傳三人附見一人）</p>
       
-      <xi:include href="0744BshiYiJing.xml"/>
+      <xi:include href="0744-2shiYiJing.xml"/>
       <xi:include href="0745jinGangZhi.xml"/>
       <xi:include href="0746shiBuKong.xml"/>
-      
+      </div>      
       <div type="juan" n="2">
         <lb n="0714b02" ed="T"/><anchor n="T.50.2061.0714b02"/>
         <head><anchor xml:id="beg0714002"/>宋<anchor xml:id="end0714002"/>高僧傳卷第二</head>
         <lb n="0714b03" ed="T"/>
-        <lb n="0714b04" ed="T"/><byline n="Author"><anchor xml:id="beg0714003"/>宋左街天壽寺通慧大師<lb
- n="0714b05" ed="T"/>賜紫沙門贊寧等奉　勅撰<anchor xml:id="end0714003"/></byline></div>
-      <div type="content" xml:id="div1-2">
-        <lb n="0714b06" ed="T"/><head>譯經篇第一之二（正傳十五人附見八人）</head></div>
+        <lb n="0714b04" ed="T"/><byline n="Author"><anchor xml:id="beg0714003"/><date from-iso="0960-02-09" key="j20717322132856" to-iso="1127-06-18">宋</date><placeName key="PL000000023316">左街天壽寺</placeName><persName key="A001910"><roleName>通慧大師<lb
+ n="0714b05" ed="T"/>賜紫沙門</roleName>贊寧</persName>等奉　勅撰<anchor xml:id="end0714003"/></byline>
+        <lb n="0714b06" ed="T"/><p>譯經篇第一之二（正傳十五人附見八人）</p>
       
       <xi:include href="0747shiShanWuWei.xml"/>
       <xi:include href="0748shiZhiHui.xml"/>
@@ -81,14 +80,13 @@ n="0710b05" ed="T"/>賜紫沙門贊寧</persName>等奉　勅撰<anchor xml:id="
       <xi:include href="0759shiTiYunBanRuo.xml"/>
       <xi:include href="0760shiHuiZhi.xml"/>
       <xi:include href="0761shiMiTuoShan.xml"/>
-      
+      </div>
       <div type="juan" n="3">
       <lb n="0719c13" ed="T"/><anchor n="T.50.2061.0719c13"/><head><anchor xml:id="beg0719004"/>宋<anchor xml:id="end0719004"/>高僧傳卷第三</head>
       <lb n="0719c14" ed="T"/>
-      <lb n="0719c15" ed="T"/><byline n="Author"><anchor xml:id="beg0719005"/>宋左街天壽寺通慧大師<lb
- n="0719c16" ed="T"/>賜紫沙門贊寧等奉　勅撰<anchor xml:id="end0719005"/></byline></div>
-      <div type="content" xml:id="div1-3">
-      <lb n="0719c17" ed="T"/><head>譯經篇第一之三（正傳十四人附見三人）</head></div>
+      <lb n="0719c15" ed="T"/><byline n="Author"><anchor xml:id="beg0719005"/><date from-iso="0960-02-09" key="j20717322132856" to-iso="1127-06-18">宋</date><placeName key="PL000000023316">左街天壽寺</placeName><persName key="A001910"><roleName>通慧大師<lb
+ n="0719c16" ed="T"/>賜紫沙門</roleName>贊寧</persName>等奉　勅撰<anchor xml:id="end0719005"/></byline>
+      <lb n="0719c17" ed="T"/><p>譯經篇第一之三（正傳十四人附見三人）</p>
       
       <xi:include href="0762shiZhiTong.xml"/>
       <xi:include href="0763shiZhiYan.xml"/>
@@ -103,15 +101,15 @@ n="0710b05" ed="T"/>賜紫沙門贊寧</persName>等奉　勅撰<anchor xml:id="
       <xi:include href="0772shiZiLin.xml"/>
       <xi:include href="0773shiBanRuo.xml"/>
       <xi:include href="0774shiWuKong.xml"/>
-      <xi:include href="0775shiManYue.xml"/>
-      
+      <xi:include href="0775-1shiManYue.xml"/>
+      <xi:include href="0775-2yiJingPianLun.xml"/>
+      </div>
       <div type="juan" n="4">
       <lb n="0725b12" ed="T"/><anchor n="T.50.2061.0725b12"/><head><anchor xml:id="beg0725003"/>宋<anchor xml:id="end0725003"/>高僧傳卷第四</head>
       <lb n="0725b13" ed="T"/>
-      <lb n="0725b14" ed="T"/><byline n="Author"><anchor xml:id="beg0725b01"/>宋左街天壽寺通慧大師<lb
- n="0725b15" ed="T"/>賜紫沙門贊寧等奉　勅撰<anchor xml:id="end0725b01"/></byline></div>
-      <div type="content" xml:id="div2-1">
-      <lb n="0725b16" ed="T"/><head>義解篇第二之一（正傳<anchor xml:id="beg0725b02"/>二十一<anchor xml:id="end0725b02"/>人附見七人）</head></div>
+      <lb n="0725b14" ed="T"/><byline n="Author"><anchor xml:id="beg0725b01"/><date from-iso="0960-02-09" key="j20717322132856" to-iso="1127-06-18">宋</date><placeName key="PL000000023316">左街天壽寺</placeName><persName key="A001910"><roleName>通慧大師<lb
+ n="0725b15" ed="T"/>賜紫沙門</roleName>贊寧</persName>等奉　勅撰<anchor xml:id="end0725b01"/></byline>
+      <lb n="0725b16" ed="T"/><p>義解篇第二之一（正傳<anchor xml:id="beg0725b02"/>二十一<anchor xml:id="end0725b02"/>人附見七人）</p>
       
       <xi:include href="0776shiKuiJi.xml"/>
       <xi:include href="0777shiDaoShi.xml"/>
@@ -134,14 +132,13 @@ n="0710b05" ed="T"/>賜紫沙門贊寧</persName>等奉　勅撰<anchor xml:id="
       <xi:include href="0794shiZongZhe.xml"/>
       <xi:include href="0795shiDeGan.xml"/>
       <xi:include href="0796shiFuQiu.xml"/>
-      
+      </div>      
       <div type="juan" n="5">
       <lb n="0732a08" ed="T"/><anchor n="T.50.2061.0732a08"/><head><anchor xml:id="beg0732a01"/>宋<anchor xml:id="end0732a01"/>高僧傳卷第五</head>
       <lb n="0732a09" ed="T"/>
-      <lb n="0732a10" ed="T"/><byline n="Author"><anchor xml:id="beg0732a02"/>宋左街天壽寺通慧大師<lb
- n="0732a11" ed="T"/>賜紫沙門贊寧等奉　勅撰<anchor xml:id="end0732a02"/></byline></div>
-      <div type="content" xml:id="div2-2">
-      <lb n="0732a12" ed="T"/><head>義解篇第二之二（正傳十四人 附見五人）</head></div>
+      <lb n="0732a10" ed="T"/><byline n="Author"><anchor xml:id="beg0732a02"/><date from-iso="0960-02-09" key="j20717322132856" to-iso="1127-06-18">宋</date><placeName key="PL000000023316">左街天壽寺</placeName><persName key="A001910"><roleName>通慧大師<lb
+ n="0732a11" ed="T"/>賜紫沙門</roleName>贊寧</persName>等奉　勅撰<anchor xml:id="end0732a02"/></byline>
+      <lb n="0732a12" ed="T"/><p>義解篇第二之二（正傳十四人 附見五人）</p>
       
       <xi:include href="0797shiFaCang.xml"/>
       <xi:include href="0798shiHengJing.xml"/>
@@ -157,15 +154,13 @@ n="0710b05" ed="T"/>賜紫沙門贊寧</persName>等奉　勅撰<anchor xml:id="
       <xi:include href="0808shiChengGuan.xml"/>
       <xi:include href="0809shiLiangXiu.xml"/>
       <xi:include href="0810shiHuiLin.xml"/>
-      
+      </div>
       <div type="juan" n="6">
         <lb n="0738b09" ed="T"/><anchor n="T.50.2061.0738b09"/><head><anchor xml:id="beg0738sgsz2"/>宋<anchor xml:id="end0738sgsz2"/>高僧傳<anchor xml:id="beg0738sgsz3"/>卷第<anchor xml:id="end0738sgsz3"/>六</head>
         <lb n="0738b10" ed="T"/>
-        <lb n="0738b11" ed="T"/><byline n="Author"><anchor xml:id="beg0738b01"/>宋左街天壽寺通慧大師<lb
- n="0738b12" ed="T"/>賜紫沙門贊寧等奉　勅撰<anchor xml:id="end0738b01"/></byline></div>
-      <div type="content" xml:id="div2-3">
-        <lb n="0738b13" ed="T"/><head>義解篇第二之三（正傳十四人附見六人）</head></div>
-        
+        <lb n="0738b11" ed="T"/><byline n="Author"><anchor xml:id="beg0738b01"/><date from-iso="0960-02-09" key="j20717322132856" to-iso="1127-06-18">宋</date><placeName key="PL000000023316">左街天壽寺</placeName><persName key="A001910"><roleName>通慧大師<lb
+ n="0738b12" ed="T"/>賜紫沙門</roleName>贊寧</persName>等奉　勅撰<anchor xml:id="end0738b01"/></byline>
+        <lb n="0738b13" ed="T"/><p>義解篇第二之三（正傳十四人附見六人）</p>
       <xi:include href="0811shiWeiQue.xml"/>
       <xi:include href="0812shiHuaiGan.xml"/>
       <xi:include href="0813shiFaHai.xml"/>
@@ -180,14 +175,13 @@ n="0710b05" ed="T"/>賜紫沙門贊寧</persName>等奉　勅撰<anchor xml:id="
       <xi:include href="0822shiChengEn.xml"/>
       <xi:include href="0823shiZhiXuan.xml"/>
       <xi:include href="0824shiSengChe.xml"/>
-      
+      </div>      
       <div type="juan" n="7">
         <lb n="0745b02" ed="T"/><anchor n="T.50.2061.0745b02"/><head><anchor xml:id="beg0745sgsz2"/>宋<anchor xml:id="end0745sgsz2"/>高僧傳卷第七</head>
         <lb n="0745b03" ed="T"/>
-        <lb n="0745b04" ed="T"/><byline n="Author"><anchor xml:id="beg0745b01"/>宋左街天壽寺通慧大師<lb
- n="0745b05" ed="T"/>賜紫沙門贊寧等奉　勅撰<anchor xml:id="end0745b01"/></byline></div>
-      <div type="content" xml:id="div2-4">
-        <lb n="0745b06" ed="T"/><head>義解篇第二之四（正傳二十<anchor xml:id="beg0745002"/>三<anchor xml:id="end0745002"/>人附見四人）</head></div>
+        <lb n="0745b04" ed="T"/><byline n="Author"><anchor xml:id="beg0745b01"/><date from-iso="0960-02-09" key="j20717322132856" to-iso="1127-06-18">宋</date><placeName key="PL000000023316">左街天壽寺</placeName><persName key="A001910"><roleName>通慧大師<lb
+ n="0745b05" ed="T"/>賜紫沙門</roleName>贊寧</persName>等奉　勅撰<anchor xml:id="end0745b01"/></byline>
+        <lb n="0745b06" ed="T"/><p>義解篇第二之四（正傳二十<anchor xml:id="beg0745002"/>三<anchor xml:id="end0745002"/>人附見四人）</p>
       
       <xi:include href="0825shiZhiYuan.xml"/>
       <xi:include href="0826shiXiYuan.xml"/>
@@ -211,16 +205,15 @@ n="0710b05" ed="T"/>賜紫沙門贊寧</persName>等奉　勅撰<anchor xml:id="
       <xi:include href="0844shiJiLun.xml"/>
       <xi:include href="0845shiYiChu.xml"/>
       <xi:include href="0846shiWuEn.xml"/>
-      <xi:include href="0847shiYiJi.xml"/>
-      
+      <xi:include href="0847-1shiYiJi.xml"/>
+      <xi:include href="0847-2yiJiePianLun.xml"/>
+      </div>      
       <div type="juan" n="8">
         <lb n="0754a08" ed="T"/><anchor n="T.50.2061.0754a08"/><head><anchor xml:id="beg0754sgsz1"/>宋<anchor xml:id="end0754sgsz1"/>高僧傳卷第八</head>
         <lb n="0754a09" ed="T"/>
-        <lb n="0754a10" ed="T"/><byline n="Author"><anchor xml:id="beg0754a01"/>宋左街天壽寺通慧大師<lb
- n="0754a11" ed="T"/>賜紫沙門贊寧等奉　勅撰<anchor xml:id="end0754a01"/></byline></div>
-      <div type="content" xml:id="div3-1">
-        <lb n="0754a12" ed="T"/><head>習禪篇第三之一（正傳十五人附見三人）</head></div>
-        
+        <lb n="0754a10" ed="T"/><byline n="Author"><anchor xml:id="beg0754a01"/><date from-iso="0960-02-09" key="j20717322132856" to-iso="1127-06-18">宋</date><placeName key="PL000000023316">左街天壽寺</placeName><persName key="A001910"><roleName>通慧大師<lb
+ n="0754a11" ed="T"/>賜紫沙門</roleName>贊寧</persName>等奉　勅撰<anchor xml:id="end0754a01"/></byline>
+        <lb n="0754a12" ed="T"/><p>習禪篇第三之一（正傳十五人附見三人）</p>
       <xi:include href="0848shiHongRen.xml"/>
       <xi:include href="0849shiHuiNeng.xml"/>
       <xi:include href="0850shiShenXiu.xml"/>
@@ -236,15 +229,13 @@ n="0710b05" ed="T"/>賜紫沙門贊寧</persName>等奉　勅撰<anchor xml:id="
       <xi:include href="0860shiJuFang.xml"/>
       <xi:include href="0861shiXiangYu.xml"/>
       <xi:include href="0862shiCangShi.xml"/>
-      
+      </div>      
       <div type="juan" n="9">
         <lb n="0760b02" ed="T"/><anchor n="T.50.2061.0760b02"/><head><anchor xml:id="beg0760sgsz3"/>宋<anchor xml:id="end0760sgsz3"/>高僧傳卷第九</head>
         <lb n="0760b03" ed="T"/>
-        <lb n="0760b04" ed="T"/><byline n="Author"><anchor xml:id="beg0760b01"/>宋左街天壽寺通慧大師<lb
- n="0760b05" ed="T"/>賜紫沙門贊寧等奉　勅撰<anchor xml:id="end0760b01"/></byline></div>
-      <div type="content" xml:id="div3-2">
-        <lb n="0760b06" ed="T"/><head>習禪篇第三之二（正傳十四人附見四人）</head></div>
-      
+        <lb n="0760b04" ed="T"/><byline n="Author"><anchor xml:id="beg0760b01"/><date from-iso="0960-02-09" key="j20717322132856" to-iso="1127-06-18">宋</date><placeName key="PL000000023316">左街天壽寺</placeName><persName key="A001910"><roleName>通慧大師<lb
+ n="0760b05" ed="T"/>賜紫沙門</roleName>贊寧</persName>等奉　勅撰<anchor xml:id="end0760b01"/></byline>
+        <lb n="0760b06" ed="T"/><p>習禪篇第三之二（正傳十四人附見四人）</p>
       <xi:include href="0863shiYiFu.xml"/>
       <xi:include href="0864shiPuJi.xml"/>
       <xi:include href="0865shiHuaiRang.xml"/>
@@ -259,15 +250,13 @@ n="0710b05" ed="T"/>賜紫沙門贊寧</persName>等奉　勅撰<anchor xml:id="
       <xi:include href="0874shiDaoShu.xml"/>
       <xi:include href="0875shiHuiKong.xml"/>
       <xi:include href="0876shiChongGui.xml"/>
-      
+      </div>      
       <div type="juan" n="10">
         <lb n="0766a08" ed="T"/><anchor n="T.50.2061.0766a08"/><head><anchor xml:id="beg0766sgsz1"/>宋<anchor xml:id="end0766sgsz1"/>高僧傳卷第十</head>
         <lb n="0766a09" ed="T"/>
-        <lb n="0766a10" ed="T"/><byline n="Author"><anchor xml:id="beg0766a01"/>宋左街天壽寺通慧大師<lb
- n="0766a11" ed="T"/>賜紫沙門贊寧等奉　勅撰<anchor xml:id="end0766a01"/></byline></div>
-      <div type="content" xml:id="div3-3">
-        <lb n="0766a12" ed="T"/><head>習禪篇第三之三（正傳十六人附見八人）</head></div>
-      
+        <lb n="0766a10" ed="T"/><byline n="Author"><anchor xml:id="beg0766a01"/><date from-iso="0960-02-09" key="j20717322132856" to-iso="1127-06-18">宋</date><placeName key="PL000000023316">左街天壽寺</placeName><persName key="A001910"><roleName>通慧大師<lb
+ n="0766a11" ed="T"/>賜紫沙門</roleName>贊寧</persName>等奉　勅撰<anchor xml:id="end0766a01"/></byline>
+        <lb n="0766a12" ed="T"/><p>習禪篇第三之三（正傳十六人附見八人）</p>
       <xi:include href="0877shiDaoYi.xml"/>
       <xi:include href="0878shiZhiMan.xml"/>
       <xi:include href="0879shiGuangYao.xml"/>
@@ -284,15 +273,13 @@ n="0710b05" ed="T"/>賜紫沙門贊寧</persName>等奉　勅撰<anchor xml:id="
       <xi:include href="0890shiHengYue.xml"/>
       <xi:include href="0891shiSiGong.xml"/>
       <xi:include href="0892shiShiCang.xml"/>
-      
+      </div>      
       <div type="juan" n="11">
         <lb n="0771c12" ed="T"/><anchor n="T.50.2061.0771c12"/><head><anchor xml:id="beg0771004"/>宋高僧傳<anchor xml:id="end0771004"/>卷第十一</head>
         <lb n="0771c13" ed="T"/>
-        <lb n="0771c14" ed="T"/><byline n="Author"><anchor xml:id="beg0771c01"/>宋左街天壽寺通慧大師<lb
- n="0771c15" ed="T"/>賜紫沙門贊寧等　勅撰<anchor xml:id="end0771c01"/></byline></div>
-      <div type="content" xml:id="div3-4">
-        <lb n="0771c16" ed="T"/><head>習禪篇第三之四（正傳二十一人附見四人）</head></div>
-        
+        <lb n="0771c14" ed="T"/><byline n="Author"><anchor xml:id="beg0771c01"/><date from-iso="0960-02-09" key="j20717322132856" to-iso="1127-06-18">宋</date><placeName key="PL000000023316">左街天壽寺</placeName><persName key="A001910"><roleName>通慧大師<lb
+ n="0771c15" ed="T"/>賜紫沙門</roleName>贊寧</persName>等　勅撰<anchor xml:id="end0771c01"/></byline>
+        <lb n="0771c16" ed="T"/><p>習禪篇第三之四（正傳二十一人附見四人）</p>
       <xi:include href="0893shiZiZai.xml"/>
       <xi:include href="0894shiWuYe.xml"/>
       <xi:include href="0895shiRuHui.xml"/>
@@ -314,15 +301,13 @@ n="0710b05" ed="T"/>賜紫沙門贊寧</persName>等奉　勅撰<anchor xml:id="
       <xi:include href="0911shiHengZheng.xml"/>
       <xi:include href="0912shiLingYou.xml"/>
       <xi:include href="0913shiXuanCe.xml"/>
-      
+      </div>      
       <div type="juan" n="12">
       <lb n="0778a02" ed="T"/><anchor n="T.50.2061.0778a02"/><head><anchor xml:id="beg0778a01"/>宋<anchor xml:id="end0778a01"/>高僧傳卷第十二</head>
       <lb n="0778a03" ed="T"/>
-      <lb n="0778a04" ed="T"/><byline n="Author"><anchor xml:id="beg0778a02"/>宋左街天壽寺通慧大師<lb
- n="0778a05" ed="T"/>賜紫沙門贊寧等奉　勅撰<anchor xml:id="end0778a02"/></byline></div>
-      <div type="content" xml:id="div3-5">
-      <lb n="0778a06" ed="T"/><head>習禪篇第三之五（正傳二十人附見四人）</head></div>
-      
+      <lb n="0778a04" ed="T"/><byline n="Author"><anchor xml:id="beg0778a02"/><date from-iso="0960-02-09" key="j20717322132856" to-iso="1127-06-18">宋</date><placeName key="PL000000023316">左街天壽寺</placeName><persName key="A001910"><roleName>通慧大師<lb
+ n="0778a05" ed="T"/>賜紫沙門</roleName>贊寧</persName>等奉　勅撰<anchor xml:id="end0778a02"/></byline>
+      <lb n="0778a06" ed="T"/><p>習禪篇第三之五（正傳二十人附見四人）</p>
       <xi:include href="0914shiHuanZhong.xml"/>
       <xi:include href="0915shiHuanPu.xml"/>
       <xi:include href="0916shiRiZhao.xml"/>
@@ -343,15 +328,13 @@ n="0710b05" ed="T"/>賜紫沙門贊寧</persName>等奉　勅撰<anchor xml:id="
       <xi:include href="0931shiHuiGong.xml"/>
       <xi:include href="0932shiWenXi.xml"/>
       <xi:include href="0933shiWeiJing.xml"/>
-      
+      </div>      
       <div type="juan" n="13">
       <lb n="0784b15" ed="T"/><anchor n="T.50.2061.0784b15"/><head><anchor xml:id="beg0784sgsz1"/>宋<anchor xml:id="end0784sgsz1"/>高僧傳卷第十三</head>
       <lb n="0784b16" ed="T"/>
-      <lb n="0784b17" ed="T"/><byline n="Author"><anchor xml:id="beg0784b02"/>宋左街天壽寺通慧大師<lb
- n="0784b18" ed="T"/>賜紫沙門贊寧等奉　勅撰<anchor xml:id="end0784b02"/></byline></div>
-      <div type="content" xml:id="div3-6">
-      <lb n="0784b19" ed="T"/><head>習禪篇第三之六（正傳十七人附見六人）</head></div>
-      
+      <lb n="0784b17" ed="T"/><byline n="Author"><anchor xml:id="beg0784b02"/><date from-iso="0960-02-09" key="j20717322132856" to-iso="1127-06-18">宋</date><placeName key="PL000000023316">左街天壽寺</placeName><persName key="A001910"><roleName>通慧大師<lb
+ n="0784b18" ed="T"/>賜紫沙門</roleName>贊寧</persName>等奉　勅撰<anchor xml:id="end0784b02"/></byline>
+      <lb n="0784b19" ed="T"/><p>習禪篇第三之六（正傳十七人附見六人）</p>
       <xi:include href="0934shiYuanShao.xml"/>
       <xi:include href="0935shiFaPu.xml"/>
       <xi:include href="0936shiZhiXian.xml"/>
@@ -368,16 +351,15 @@ n="0710b05" ed="T"/>賜紫沙門贊寧</persName>等奉　勅撰<anchor xml:id="
       <xi:include href="0947shiWenYi.xml"/>
       <xi:include href="0948shiXingYin.xml"/>
       <xi:include href="0949shiYuanDe.xml"/>
-      <xi:include href="0950shiDeShao.xml"/>
-      
+      <xi:include href="0950-1shiDeShao.xml"/>
+      <xi:include href="0950-2xiChanPianLun.xml"/>
+      </div>      
       <div type="juan" n="14">
       <lb n="0790b02" ed="T"/><anchor n="T.50.2061.0790b02"/><head><anchor xml:id="beg0790b01"/>宋<anchor xml:id="end0790b01"/>高僧傳卷第十四</head>
       <lb n="0790b03" ed="T"/>
-      <lb n="0790b04" ed="T"/><byline n="Author"><anchor xml:id="beg0790b02"/>宋左街天壽寺通慧大師<lb
- n="0790b05" ed="T"/>賜紫沙門贊寧等奉　勅撰<anchor xml:id="end0790b02"/></byline></div>
-      <div type="content" xml:id="div4-1">
-      <lb n="0790b06" ed="T"/><head>明律篇第四之一（正傳二十人附見五人）</head></div>
-      
+      <lb n="0790b04" ed="T"/><byline n="Author"><anchor xml:id="beg0790b02"/><date from-iso="0960-02-09" key="j20717322132856" to-iso="1127-06-18">宋</date><placeName key="PL000000023316">左街天壽寺</placeName><persName key="A001910"><roleName>通慧大師<lb
+ n="0790b05" ed="T"/>賜紫沙門</roleName>贊寧</persName>等奉　勅撰<anchor xml:id="end0790b02"/></byline>
+      <lb n="0790b06" ed="T"/><p>明律篇第四之一（正傳二十人附見五人）</p>
       <xi:include href="0951shiDaoXuan.xml"/>
       <xi:include href="0952shiDaoCheng.xml"/>
       <xi:include href="0953shiWenGang.xml"/>
@@ -398,16 +380,14 @@ n="0710b05" ed="T"/>賜紫沙門贊寧</persName>等奉　勅撰<anchor xml:id="
       <xi:include href="0968shiShouZhi.xml"/>
       <xi:include href="0969shiYanJun.xml"/>
       <xi:include href="0970shiTanYi.xml"/>
-      
+      </div>      
       <div type="juan" n="15">
         <lb n="0799a18" ed="T"/><anchor n="T.50.2061.0799a18"/><head><anchor xml:id="beg0799a02"/>宋<anchor xml:id="end0799a02"/>高僧傳卷第十五</head>
         <lb n="0799a19" ed="T"/>
       <lb n="0799a19" ed="T"/>
-      <lb n="0799a20" ed="T"/><byline n="Author"><anchor xml:id="beg0799a03"/>宋左街天壽寺通慧大師<lb
- n="0799a21" ed="T"/>賜紫沙門贊寧等奉　勅撰<anchor xml:id="end0799a03"/></byline></div>
-      <div type="content" xml:id="div4-2">
-      <lb n="0799a22" ed="T"/><head>明律篇第四之二（正傳十九人附見三人）</head></div>
-      
+      <lb n="0799a20" ed="T"/><byline n="Author"><anchor xml:id="beg0799a03"/><date from-iso="0960-02-09" key="j20717322132856" to-iso="1127-06-18">宋</date><placeName key="PL000000023316">左街天壽寺</placeName><persName key="A001910"><roleName>通慧大師<lb
+ n="0799a21" ed="T"/>賜紫沙門</roleName>贊寧</persName>等奉　勅撰<anchor xml:id="end0799a03"/></byline>
+      <lb n="0799a22" ed="T"/><p>明律篇第四之二（正傳十九人附見三人）</p>
       <xi:include href="0971shiLingYi.xml"/>
       <xi:include href="0972shiQiHan.xml"/>
       <xi:include href="0973shiLangRan.xml"/>
@@ -427,15 +407,13 @@ n="0710b05" ed="T"/>賜紫沙門贊寧</persName>等奉　勅撰<anchor xml:id="
       <xi:include href="0987shiDaoBiao.xml"/>
       <xi:include href="0988shiTanQing.xml"/>
       <xi:include href="0989shiYuanZhao.xml"/>
-      
+      </div>      
       <div type="juan" n="16">
       <lb n="0806a02" ed="T"/><anchor n="T.50.2061.0806a02"/><head><anchor xml:id="beg0806a01"/>宋<anchor xml:id="end0806a01"/>高僧傳卷第十六</head>
       <lb n="0806a03" ed="T"/>
-      <lb n="0806a04" ed="T"/><byline n="Author"><anchor xml:id="beg0806a02"/>宋左街天壽寺通慧大師<lb
- n="0806a05" ed="T"/>賜紫沙門贊寧等奉　勅撰<anchor xml:id="end0806a02"/></byline></div>
-      <div type="content" xml:id="div4-3">
-      <lb n="0806a06" ed="T"/><head>明律篇第四之三（正傳十九人附見二人）</head></div>
-      
+      <lb n="0806a04" ed="T"/><byline n="Author"><anchor xml:id="beg0806a02"/><date from-iso="0960-02-09" key="j20717322132856" to-iso="1127-06-18">宋</date><placeName key="PL000000023316">左街天壽寺</placeName><persName key="A001910"><roleName>通慧大師<lb
+ n="0806a05" ed="T"/>賜紫沙門</roleName>贊寧</persName>等奉　勅撰<anchor xml:id="end0806a02"/></byline>
+      <lb n="0806a06" ed="T"/><p>明律篇第四之三（正傳十九人附見二人）</p>
       <xi:include href="0990shiBianCai.xml"/>
       <xi:include href="0991shiDaoCheng.xml"/>
       <xi:include href="0992shiQingChe.xml"/>
@@ -454,16 +432,15 @@ n="0710b05" ed="T"/>賜紫沙門贊寧</persName>等奉　勅撰<anchor xml:id="
       <xi:include href="1005shiJingXiao.xml"/>
       <xi:include href="1006shiZhenJun.xml"/>
       <xi:include href="1007shiXiJue.xml"/>
-      <xi:include href="1008shiChengChu.xml"/>
-      
+      <xi:include href="1008-1shiChengChu.xml"/>
+      <xi:include href="1008-2mingLuPianLun.xml"/>
+      </div>      
       <div type="juan" n="17">
       <lb n="0812b05" ed="T"/><anchor n="T.50.2061.0812b05"/><head><anchor xml:id="beg0812b02"/>宋<anchor xml:id="end0812b02"/>高僧傳卷第十七</head>
       <lb n="0812b06" ed="T"/>
-      <lb n="0812b07" ed="T"/><byline n="Author"><anchor xml:id="beg0812b03"/>宋左街天壽寺通慧大師<lb
- n="0812b08" ed="T"/>賜紫沙門贊寧等奉　勅撰<anchor xml:id="end0812b03"/></byline></div>
-      <div type="content" xml:id="div5">
-      <lb n="0812b09" ed="T"/><head>護法篇第五（正傳十八人附見一人）</head></div>
-      
+      <lb n="0812b07" ed="T"/><byline n="Author"><anchor xml:id="beg0812b03"/><date from-iso="0960-02-09" key="j20717322132856" to-iso="1127-06-18">宋</date><placeName key="PL000000023316">左街天壽寺</placeName><persName key="A001910"><roleName>通慧大師<lb
+ n="0812b08" ed="T"/>賜紫沙門</roleName>贊寧</persName>等奉　勅撰<anchor xml:id="end0812b03"/></byline>
+      <lb n="0812b09" ed="T"/><p>護法篇第五（正傳十八人附見一人）</p>
       <xi:include href="1009shiWeiXiu.xml"/>
       <xi:include href="1010shiFuLi.xml"/>
       <xi:include href="1011shiHuiLi.xml"/>
@@ -481,16 +458,15 @@ n="0710b05" ed="T"/>賜紫沙門贊寧</persName>等奉　勅撰<anchor xml:id="
       <xi:include href="1023shiXuanTai.xml"/>
       <xi:include href="1024shiXuanChang.xml"/>
       <xi:include href="1025shiWeiJin.xml"/>
-      <xi:include href="1026shiDaoPi.xml"/>
-      
+      <xi:include href="1026-1shiDaoPi.xml"/>
+      <xi:include href="1026-2huFaPianLun.xml"/>
+      </div>      
       <div type="juan" n="18">
       <lb n="0820b04" ed="T"/><anchor n="T.50.2061.0820b04"/><head><anchor xml:id="beg0820b02"/>宋<anchor xml:id="end0820b02"/>高僧傳卷第十八</head>
       <lb n="0820b05" ed="T"/>
-      <lb n="0820b06" ed="T"/><byline n="Author"><anchor xml:id="beg0820b03"/>宋左街天壽寺通慧大師<lb
- n="0820b07" ed="T"/>賜紫沙門贊寧等奉　勅撰<anchor xml:id="end0820b03"/></byline></div>
-      <div type="content" xml:id="div6-1">
-      <lb n="0820b08" ed="T"/><head>感通篇第六之一（正傳十五人附見三人）</head></div>
-      
+      <lb n="0820b06" ed="T"/><byline n="Author"><anchor xml:id="beg0820b03"/><date from-iso="0960-02-09" key="j20717322132856" to-iso="1127-06-18">宋</date><placeName key="PL000000023316">左街天壽寺</placeName><persName key="A001910"><roleName>通慧大師<lb
+ n="0820b07" ed="T"/>賜紫沙門</roleName>贊寧</persName>等奉　勅撰<anchor xml:id="end0820b03"/></byline>
+      <lb n="0820b08" ed="T"/><p>感通篇第六之一（正傳十五人附見三人）</p>
       <xi:include href="1027shiTanTeShi.xml"/>
       <xi:include href="1028shiHeTuShi.xml"/>
       <xi:include href="1029shiXuanGuang.xml"/>
@@ -506,15 +482,13 @@ n="0710b05" ed="T"/>賜紫沙門贊寧</persName>等奉　勅撰<anchor xml:id="
       <xi:include href="1039shiDaoYing.xml"/>
       <xi:include href="1040shiFaXiu.xml"/>
       <xi:include href="1041shiPuMing.xml"/>
-      
+      </div>      
       <div type="juan" n="19">
       <lb n="0828b02" ed="T"/><anchor n="T.50.2061.0828b02"/><head><anchor xml:id="beg0828b01"/>宋<anchor xml:id="end0828b01"/>高僧傳<anchor xml:id="beg0828002"/>卷第<anchor xml:id="end0828002"/>十九</head>
       <lb n="0828b03" ed="T"/>
-      <lb n="0828b04" ed="T"/><byline n="Author"><anchor xml:id="beg0828b02"/>宋左街天壽寺通慧大師<lb
- n="0828b05" ed="T"/>賜紫沙門贊寧等奉　勅撰<anchor xml:id="end0828b02"/></byline></div>
-      <div type="content" xml:id="div6-2">
-      <lb n="0828b06" ed="T"/><head>感通篇第六之二（正傳二十一人附見八人）</head></div>
-      
+      <lb n="0828b04" ed="T"/><byline n="Author"><anchor xml:id="beg0828b02"/><date from-iso="0960-02-09" key="j20717322132856" to-iso="1127-06-18">宋</date><placeName key="PL000000023316">左街天壽寺</placeName><persName key="A001910"><roleName>通慧大師<lb
+ n="0828b05" ed="T"/>賜紫沙門</roleName>贊寧</persName>等奉　勅撰<anchor xml:id="end0828b02"/></byline>
+      <lb n="0828b06" ed="T"/><p>感通篇第六之二（正傳二十一人附見八人）</p>
       <xi:include href="1042shiPoZaoDuo.xml"/>
       <xi:include href="1043shiYuanGui.xml"/>
       <xi:include href="1044shiHuiFu.xml"/>
@@ -536,15 +510,13 @@ n="0710b05" ed="T"/>賜紫沙門贊寧</persName>等奉　勅撰<anchor xml:id="
       <xi:include href="1060shiHuiZhong.xml"/>
       <xi:include href="1061shiHuiXiu.xml"/>
       <xi:include href="1062shiWeiZhong.xml"/>
-      
+      </div>      
       <div type="juan" n="20">
       <lb n="0836b02" ed="T"/><anchor n="T.50.2061.0836b02"/><head><anchor xml:id="beg0836b01"/>宋<anchor xml:id="end0836b01"/>高僧傳<anchor xml:id="beg0836002"/>卷第<anchor xml:id="end0836002"/>二十</head>
       <lb n="0836b03" ed="T"/>
-      <lb n="0836b04" ed="T"/><byline n="Author"><anchor xml:id="beg0836b02"/>宋左街天壽寺通慧大師<lb
- n="0836b05" ed="T"/>賜紫沙門贊寧等奉　勅撰<anchor xml:id="end0836b02"/></byline></div>
-      <div type="content" xml:id="div6-3">
-      <lb n="0836b06" ed="T"/><head>感通篇第六之三（正傳二十二人附見四人）</head></div>
-      
+      <lb n="0836b04" ed="T"/><byline n="Author"><anchor xml:id="beg0836b02"/><date from-iso="0960-02-09" key="j20717322132856" to-iso="1127-06-18">宋</date><placeName key="PL000000023316">左街天壽寺</placeName><persName key="A001910"><roleName>通慧大師<lb
+ n="0836b05" ed="T"/>賜紫沙門</roleName>贊寧</persName>等奉　勅撰<anchor xml:id="end0836b02"/></byline>
+      <lb n="0836b06" ed="T"/><p>感通篇第六之三（正傳二十二人附見四人）</p>
       <xi:include href="1063shiChuJi.xml"/>
       <xi:include href="1064shiWuZhe.xml"/>
       <xi:include href="1065shiPuHua.xml"/>
@@ -567,15 +539,13 @@ n="0710b05" ed="T"/>賜紫沙門贊寧</persName>等奉　勅撰<anchor xml:id="
       <xi:include href="1082shiShenJian.xml"/>
       <xi:include href="1083shiQingGuan.xml"/>
       <xi:include href="1084shiXiYun.xml"/>
-      
+      </div>
       <div type="juan" n="21">
       <lb n="0843a02" ed="T"/><anchor n="T.50.2061.0843a02"/><head><anchor xml:id="beg0843a01"/>宋<anchor xml:id="end0843a01"/>高僧傳卷第二十一</head>
       <lb n="0843a03" ed="T"/>
-      <lb n="0843a04" ed="T"/><byline n="Author"><anchor xml:id="beg0843a02"/>宋左街天壽寺通慧大師<lb
- n="0843a05" ed="T"/>賜紫沙門贊寧等奉　勅撰<anchor xml:id="end0843a02"/></byline></div>
-      <div type="content" xml:id="div6-4">
-      <lb n="0843a06" ed="T"/><head>感通篇第六之四（正傳十八人附見三人）</head></div>
-      
+      <lb n="0843a04" ed="T"/><byline n="Author"><anchor xml:id="beg0843a02"/><date from-iso="0960-02-09" key="j20717322132856" to-iso="1127-06-18">宋</date><placeName key="PL000000023316">左街天壽寺</placeName><persName key="A001910"><roleName>通慧大師<lb
+ n="0843a05" ed="T"/>賜紫沙門</roleName>贊寧</persName>等奉　勅撰<anchor xml:id="end0843a02"/></byline>
+      <lb n="0843a06" ed="T"/><p>感通篇第六之四（正傳十八人附見三人）</p>
       <xi:include href="1085shiShenYing.xml"/>
       <xi:include href="1086shiNiuYun.xml"/>
       <xi:include href="1087shiDaoYi.xml"/>
@@ -594,15 +564,13 @@ n="0710b05" ed="T"/>賜紫沙門贊寧</persName>等奉　勅撰<anchor xml:id="
       <xi:include href="1100shiQiCi.xml"/>
       <xi:include href="1101shiZhiBian.xml"/>
       <xi:include href="1102shiNingShi.xml"/>
-      
+      </div>
       <div type="juan" n="22">
       <lb n="0849c07" ed="T"/><anchor n="T.50.2061.0849c07"/><head><anchor xml:id="beg0849c02"/>宋<anchor xml:id="end0849c02"/>高僧傳卷第二十二</head>
       <lb n="0849c08" ed="T"/>
-      <lb n="0849c09" ed="T"/><byline n="Author"><anchor xml:id="beg0849c03"/>宋左街天壽寺通慧大師<lb
- n="0849c10" ed="T"/>賜紫沙門贊寧奉　勅撰<anchor xml:id="end0849c03"/></byline></div>
-      <div type="content" xml:id="div6-5">
-      <lb n="0849c11" ed="T"/><head>感通篇第六之五（正傳十三人附見五人）</head></div>
-      
+      <lb n="0849c09" ed="T"/><byline n="Author"><anchor xml:id="beg0849c03"/><date from-iso="0960-02-09" key="j20717322132856" to-iso="1127-06-18">宋</date><placeName key="PL000000023316">左街天壽寺</placeName><persName key="A001910"><roleName>通慧大師<lb
+ n="0849c10" ed="T"/>賜紫沙門</roleName>贊寧</persName>奉　勅撰<anchor xml:id="end0849c03"/></byline>
+      <lb n="0849c11" ed="T"/><p>感通篇第六之五（正傳十三人附見五人）</p>
       <xi:include href="1103shiRuMin.xml"/>
       <xi:include href="1104shiQuanZai.xml"/>
       <xi:include href="1105shiHuaiJun.xml"/>
@@ -615,16 +583,15 @@ n="0710b05" ed="T"/>賜紫沙門贊寧</persName>等奉　勅撰<anchor xml:id="
       <xi:include href="1112shiZongHe.xml"/>
       <xi:include href="1113shiDianDian.xml"/>
       <xi:include href="1114shiXingMan.xml"/>
-      <xi:include href="1115shiFaYuan.xml"/>
-      
+      <xi:include href="1115-1shiFaYuan.xml"/>
+      <xi:include href="1115-2ganTongPianLun.xml"/>
+      </div>      
       <div type="juan" n="23">
       <lb n="0855a21" ed="T"/><anchor n="T.50.2061.0855a21"/><head><anchor xml:id="beg0855a02"/>宋<anchor xml:id="end0855a02"/>高僧傳卷第二十三</head>
       <lb n="0855a22" ed="T"/>
-      <lb n="0855a23" ed="T"/><byline n="Author"><anchor xml:id="beg0855a03"/>宋左街天壽寺通慧大師<lb
- n="0855a24" ed="T"/>賜紫沙門贊寧等奉　勅撰<anchor xml:id="end0855a03"/></byline></div>
-      <div type="content" xml:id="div7">
-      <lb n="0855a25" ed="T"/><head>遺身篇第七（正傳二十二人附見二人）</head></div>
-      
+      <lb n="0855a23" ed="T"/><byline n="Author"><anchor xml:id="beg0855a03"/><date from-iso="0960-02-09" key="j20717322132856" to-iso="1127-06-18">宋</date><placeName key="PL000000023316">左街天壽寺</placeName><persName key="A001910"><roleName>通慧大師<lb
+ n="0855a24" ed="T"/>賜紫沙門</roleName>贊寧</persName>等奉　勅撰<anchor xml:id="end0855a03"/></byline>
+      <lb n="0855a25" ed="T"/><p>遺身篇第七（正傳二十二人附見二人）</p>
       <xi:include href="1116shiSengCang.xml"/>
       <xi:include href="1117shiZhengShou.xml"/>
       <xi:include href="1118shiWuRan.xml"/>
@@ -646,16 +613,15 @@ n="0710b05" ed="T"/>賜紫沙門贊寧</persName>等奉　勅撰<anchor xml:id="
       <xi:include href="1134shiShiYun.xml"/>
       <xi:include href="1135shiShaoYan.xml"/>
       <xi:include href="1136shiWenNian.xml"/>
-      <xi:include href="1137shiHuaiDe.xml"/>
-      
+      <xi:include href="1137-1shiHuaiDe.xml"/>
+      <xi:include href="1137-2yiShenPianLun.xml"/>
+      </div>      
       <div type="juan" n="24">
       <lb n="0862a16" ed="T"/><anchor n="T.50.2061.0862a16"/><head><anchor xml:id="beg0862a03"/>宋<anchor xml:id="end0862a03"/>高僧傳卷第二十四</head>
       <lb n="0862a17" ed="T"/>
-      <lb n="0862a18" ed="T"/><byline n="Author"><anchor xml:id="beg0862a04"/>宋左街天壽寺通慧大師<lb
- n="0862a19" ed="T"/>賜紫沙門贊寧等奉　勅撰<anchor xml:id="end0862a04"/></byline></div>
-      <div type="content" xml:id="div8-1">
-      <lb n="0862a20" ed="T"/><head>讀誦篇第八之一（正傳二十一人附見三人）</head></div>
-      
+      <lb n="0862a18" ed="T"/><byline n="Author"><anchor xml:id="beg0862a04"/><date from-iso="0960-02-09" key="j20717322132856" to-iso="1127-06-18">宋</date><placeName key="PL000000023316">左街天壽寺</placeName><persName key="A001910"><roleName>通慧大師<lb
+ n="0862a19" ed="T"/>賜紫沙門</roleName>贊寧</persName>等奉　勅撰<anchor xml:id="end0862a04"/></byline>
+      <lb n="0862a20" ed="T"/><p>讀誦篇第八之一（正傳二十一人附見三人）</p>
       <xi:include href="1138shiXingJian.xml"/>
       <xi:include href="1139shiFaZhi.xml"/>
       <xi:include href="1140shiHuiWu.xml"/>
@@ -677,15 +643,13 @@ n="0710b05" ed="T"/>賜紫沙門贊寧</persName>等奉　勅撰<anchor xml:id="
       <xi:include href="1156shiSanDao.xml"/>
       <xi:include href="1157shiDaGuang.xml"/>
       <xi:include href="1158shiZhiDeng.xml"/>
-      
+      </div>
       <div type="juan" n="25">
       <lb n="0866c23" ed="T"/><anchor n="T.50.2061.0866c23"/><head><anchor xml:id="beg0866c02"/>宋<anchor xml:id="end0866c02"/>高僧傳卷第<anchor xml:id="beg0866sgsz1"/>二<anchor xml:id="end0866sgsz1"/>十五</head>
       <lb n="0866c24" ed="T"/>
-      <lb n="0866c25" ed="T"/><byline n="Author"><anchor xml:id="beg0866c03"/>宋左街天壽寺通慧大師<lb
- n="0866c26" ed="T"/>賜紫沙門贊寧等奉　勅撰<anchor xml:id="end0866c03"/></byline></div>
-      <div type="content" xml:id="div8-2">
-      <lb n="0866c27" ed="T"/><head>讀誦篇第八之<anchor xml:id="beg0866sgsz2"/>二<anchor xml:id="end0866sgsz2"/>（正傳二十一人附見五人）</head></div>
-      
+      <lb n="0866c25" ed="T"/><byline n="Author"><anchor xml:id="beg0866c03"/><date from-iso="0960-02-09" key="j20717322132856" to-iso="1127-06-18">宋</date><placeName key="PL000000023316">左街天壽寺</placeName><persName key="A001910"><roleName>通慧大師<lb
+ n="0866c26" ed="T"/>賜紫沙門</roleName>贊寧</persName>等奉　勅撰<anchor xml:id="end0866c03"/></byline>
+      <lb n="0866c27" ed="T"/><p>讀誦篇第八之<anchor xml:id="beg0866sgsz2"/>二<anchor xml:id="end0866sgsz2"/>（正傳二十一人附見五人）</p>
       <xi:include href="1159shiMingDu.xml"/>
       <xi:include href="1160shiQingXu.xml"/>
       <xi:include href="1161shiShaoKang.xml"/>
@@ -706,16 +670,15 @@ n="0710b05" ed="T"/>賜紫沙門贊寧</persName>等奉　勅撰<anchor xml:id="
       <xi:include href="1176shiDaoXian.xml"/>
       <xi:include href="1177shiRuoXu.xml"/>
       <xi:include href="1178shiXingTao.xml"/>
-      <xi:include href="1179shiShouZhen.xml"/>
-      
+      <xi:include href="1179-1shiShouZhen.xml"/>
+      <xi:include href="1179-2duSongPianLun.xml"/>
+      </div>      
       <div type="juan" n="26">
       <lb n="0872c15" ed="T"/><anchor n="T.50.2061.0872c15"/><head><anchor xml:id="beg0872c02"/>宋<anchor xml:id="end0872c02"/>高僧傳卷第二十六</head>
       <lb n="0872c16" ed="T"/>
-      <lb n="0872c17" ed="T"/><byline n="Author"><anchor xml:id="beg0872c03"/>宋左街天壽寺通慧大師<lb
- n="0872c18" ed="T"/>賜紫沙門贊寧等奉　勅撰<anchor xml:id="end0872c03"/></byline></div>
-      <div type="content" xml:id="div9-1">
-      <lb n="0872c19" ed="T"/><head>興福篇第九之一（正傳十四人附見二人）</head></div>
-      
+      <lb n="0872c17" ed="T"/><byline n="Author"><anchor xml:id="beg0872c03"/><date from-iso="0960-02-09" key="j20717322132856" to-iso="1127-06-18">宋</date><placeName key="PL000000023316">左街天壽寺</placeName><persName key="A001910"><roleName>通慧大師<lb
+ n="0872c18" ed="T"/>賜紫沙門</roleName>贊寧</persName>等奉　勅撰<anchor xml:id="end0872c03"/></byline>
+      <lb n="0872c19" ed="T"/><p>興福篇第九之一（正傳十四人附見二人）</p>
       <xi:include href="1180shiFaCheng.xml"/>
       <xi:include href="1181shiYeFang.xml"/>
       <xi:include href="1182shiGuangYi.xml"/>
@@ -730,15 +693,13 @@ n="0710b05" ed="T"/>賜紫沙門贊寧</persName>等奉　勅撰<anchor xml:id="
       <xi:include href="1191shiWenZan.xml"/>
       <xi:include href="1192shiHuaiYu.xml"/>
       <xi:include href="1193shiDaiBing.xml"/>
-      
+      </div>      
       <div type="juan" n="27">
       <lb n="0878b13" ed="T"/><anchor n="T.50.2061.0878b13"/><head><anchor xml:id="beg0878b02"/>宋<anchor xml:id="end0878b02"/>高僧傳卷第二十七</head>
       <lb n="0878b14" ed="T"/>
-      <lb n="0878b15" ed="T"/><byline n="Author"><anchor xml:id="beg0878b03"/>宋左街天壽寺通慧大師<lb
- n="0878b16" ed="T"/>賜紫沙門贊寧等奉　勅<anchor xml:id="end0878b03"/><anchor xml:id="beg0878008"/><choice resp="sgsz"><sic>譯</sic><corr>撰</corr></choice><anchor xml:id="end0878008"/></byline></div>
-      <div type="content" xml:id="div9-2">
-      <lb n="0878b17" ed="T"/><head>興福篇第九之二（正傳二十一人附見三人）</head></div>
-      
+      <lb n="0878b15" ed="T"/><byline n="Author"><anchor xml:id="beg0878b03"/><date from-iso="0960-02-09" key="j20717322132856" to-iso="1127-06-18">宋</date><placeName key="PL000000023316">左街天壽寺</placeName><persName key="A001910"><roleName>通慧大師<lb
+ n="0878b16" ed="T"/>賜紫沙門</roleName>贊寧</persName>等奉　勅<anchor xml:id="end0878b03"/><anchor xml:id="beg0878008"/><choice resp="sgsz"><sic>譯</sic><corr>撰</corr></choice><anchor xml:id="end0878008"/></byline>
+      <lb n="0878b17" ed="T"/><p>興福篇第九之二（正傳二十一人附見三人）</p>
       <xi:include href="1194shiSengJie.xml"/>
       <xi:include href="1195shiDingGuang.xml"/>
       <xi:include href="1196shiZhenGan.xml"/>
@@ -760,15 +721,13 @@ n="0710b05" ed="T"/>賜紫沙門贊寧</persName>等奉　勅撰<anchor xml:id="
       <xi:include href="1212shiXingYan.xml"/>
       <xi:include href="1213shiYuanCheng.xml"/>
       <xi:include href="1214shiChengHui.xml"/>
-      
+      </div>      
       <div type="juan" n="28">
       <lb n="0883c11" ed="T"/><anchor n="T.50.2061.0883c11"/><head><anchor xml:id="beg0883c02"/>宋<anchor xml:id="end0883c02"/>高僧傳卷第二十八</head>
       <lb n="0883c12" ed="T"/>
-      <lb n="0883c13" ed="T"/><byline n="Author"><anchor xml:id="beg0883c03"/>宋左街天壽寺通慧大師<lb
- n="0883c14" ed="T"/>賜紫沙門贊寧等奉　勅撰<anchor xml:id="end0883c03"/></byline></div>
-      <div type="content" xml:id="div9-3">
-      <lb n="0883c15" ed="T"/><head>興福篇第九之三（正傳十五人附見一人）</head></div>
-      
+      <lb n="0883c13" ed="T"/><byline n="Author"><anchor xml:id="beg0883c03"/><date from-iso="0960-02-09" key="j20717322132856" to-iso="1127-06-18">宋</date><placeName key="PL000000023316">左街天壽寺</placeName><persName key="A001910"><roleName>通慧大師<lb
+ n="0883c14" ed="T"/>賜紫沙門</roleName>贊寧</persName>等奉　勅撰<anchor xml:id="end0883c03"/></byline>
+      <lb n="0883c15" ed="T"/><p>興福篇第九之三（正傳十五人附見一人）</p>
       <xi:include href="1215shiZhiHui.xml"/>
       <xi:include href="1216shiGuangSi.xml"/>
       <xi:include href="1217shiZunHui.xml"/>
@@ -783,16 +742,15 @@ n="0710b05" ed="T"/>賜紫沙門贊寧</persName>等奉　勅撰<anchor xml:id="
       <xi:include href="1226shiYanShou.xml"/>
       <xi:include href="1227shiYiZhuang.xml"/>
       <xi:include href="1228shiPuSheng.xml"/>
-      <xi:include href="1229shiShiLu.xml"/>
-      
+      <xi:include href="1229-1shiShiLu.xml"/>
+      <xi:include href="1229-2xingFuPianLun.xml"/>
+      </div>      
       <div type="juan" n="29">
       <lb n="0888c14" ed="T"/><anchor n="T.50.2061.0888c14"/><head><anchor xml:id="beg0888c02"/>宋<anchor xml:id="end0888c02"/>高僧傳卷第二十九</head>
       <lb n="0888c15" ed="T"/>
-      <lb n="0888c16" ed="T"/><byline n="Author"><anchor xml:id="beg0888c03"/>宋左街天壽寺通慧大師<lb
- n="0888c17" ed="T"/>賜紫沙門贊寧等奉　勅撰<anchor xml:id="end0888c03"/></byline></div>
-      <div type="content" xml:id="div10-1">
-      <lb n="0888c18" ed="T"/><head>雜科聲德篇第十之一（正傳二十六人附見六人）</head></div>
-      
+      <lb n="0888c16" ed="T"/><byline n="Author"><anchor xml:id="beg0888c03"/><date from-iso="0960-02-09" key="j20717322132856" to-iso="1127-06-18">宋</date><placeName key="PL000000023316">左街天壽寺</placeName><persName key="A001910"><roleName>通慧大師<lb
+ n="0888c17" ed="T"/>賜紫沙門</roleName>贊寧</persName>等奉　勅撰<anchor xml:id="end0888c03"/></byline>
+      <lb n="0888c18" ed="T"/><p>雜科聲德篇第十之一（正傳二十六人附見六人）</p>
       <xi:include href="1230shiZhiYi.xml"/>
       <xi:include href="1231shiHuiNing.xml"/>
       <xi:include href="1232shiYuanXiang.xml"/>
@@ -819,15 +777,13 @@ n="0710b05" ed="T"/>賜紫沙門贊寧</persName>等奉　勅撰<anchor xml:id="
       <xi:include href="1253shiFaZhen.xml"/>
       <xi:include href="1254shiNingBen.xml"/>
       <xi:include href="1255shiFaRong.xml"/>
-      
+      </div>      
       <div type="juan" n="30">
       <lb n="0894c18" ed="T"/><anchor n="T.50.2061.0894c18"/><head><anchor xml:id="beg0894c02"/>宋<anchor xml:id="end0894c02"/>高僧傳卷第三十</head>
       <lb n="0894c19" ed="T"/>
-      <lb n="0894c20" ed="T"/><byline n="Author"><anchor xml:id="beg0894c03"/>宋左街天壽寺通慧大師<lb
- n="0894c21" ed="T"/>賜紫沙門贊寧等奉　勅撰<anchor xml:id="end0894c03"/></byline></div>
-      <div type="content" xml:id="div10-2">
-      <lb n="0894c22" ed="T"/><head>雜科聲德篇第十之二（正傳十九人附見六人）</head></div>
-      
+      <lb n="0894c20" ed="T"/><byline n="Author"><anchor xml:id="beg0894c03"/><date from-iso="0960-02-09" key="j20717322132856" to-iso="1127-06-18">宋</date><placeName key="PL000000023316">左街天壽寺</placeName><persName key="A001910"><roleName>通慧大師<lb
+ n="0894c21" ed="T"/>賜紫沙門</roleName>贊寧</persName>等奉　勅撰<anchor xml:id="end0894c03"/></byline>
+      <lb n="0894c22" ed="T"/><p>雜科聲德篇第十之二（正傳十九人附見六人）</p>
       <xi:include href="1256shiHaoZhi.xml"/>
       <xi:include href="1257shiGuangXiu.xml"/>
       <xi:include href="1258shiYuanBiao.xml"/>
@@ -846,11 +802,15 @@ n="0710b05" ed="T"/>賜紫沙門贊寧</persName>等奉　勅撰<anchor xml:id="
       <xi:include href="1271shiBianGuang.xml"/>
       <xi:include href="1272shiZiXin.xml"/>
       <xi:include href="1273shiXingXiu.xml"/>
-      <xi:include href="1274AshiZongYuan.xml"/>
-      <xi:include href="1274BhouXu.xml"/>
+      <xi:include href="1274-1shiZongYuan.xml"/>
+      <xi:include href="1274-2zaKeShengDePianLun.xml"/>
+      <xi:include href="1274-3houXu.xml"/>
+      </div>
     </body>
     <back>
       <xi:include href="sgszApparatus.xml"/>
+      <xi:include href="sgszNotes.xml"/>
+      <xi:include href="sgszGlossary.xml"/>
     </back>
   </text>	<!-- Collation principles:
 		
