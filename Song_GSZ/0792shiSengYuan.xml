@@ -1,15 +1,15 @@
 <?xml version='1.0' encoding='utf-8'?>
-<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0731a05shiSengYuan"><lb
-ed="T" n="0731a05"/><anchor n="T.50.2061.0731a05"/><head><date from-iso="0689-12-21" key="j19730671978610" to-iso="0705-02-24">周</date><placeName key="PL000000009973">虎丘山寺</placeName><persName key="A009245">僧瑗</persName>傳</head><p><lb
+<div xmlns="http://www.tei-c.org/ns/1.0" type="義解" xml:id="gsz0731a05shiSengYuan"><lb
+ed="T" n="0731a05"/><anchor n="T.50.2061.0731a05"/><head><date from-iso="+0689-12-21" key="j19730671978610" to-iso="+0705-02-24">周</date><placeName key="PL000000009973">虎丘山寺</placeName><persName key="A009245">僧瑗</persName>傳</head><p><lb
 ed="T" n="0731a06"/><persName key="A009245">釋僧瑗</persName>，字<persName key="A009245">辯空</persName>，姓郁氏，<placeName key="PL000000022911">高平昌邑</placeName>人也。<placeName>姬水</placeName><lb
 ed="T" n="0731a07"/>疏源，<placeName>狼亭</placeName>襲慶，<ref type="person" target="#A021624">魯相</ref>繼<ref type="person" target="#A002160">昌侯</ref>之業，歷載彌<lb
 ed="T" n="0731a08"/>光<ptr target="#n648"/>；少<anchor xml:id="beg0731sgsz1"/>傅<anchor xml:id="end0731sgsz1"/>纂尚書之風，清塵不昧。<persName key="A009245">瑗</persName>夙殖<ptr type="glossary" target="#g90"/>奇<lb
 ed="T" n="0731a09"/>頴，早擅嘉祥<ptr type="glossary" target="#g649"/>。母<persName key="A021628">趙<roleName>氏</roleName></persName>娠孕之日，側侍聖賢<lb
-ed="T" n="0731a10"/>浮空遊樂。及<date key="j19562761956641" from-iso="0644-01-01" to-iso="0644-12-31">年六歲</date>，隨<ref type="person" target="#A021628">母</ref>入舍利塔，見聖<lb
+ed="T" n="0731a10"/>浮空遊樂。及<date key="j19562761956641" from-iso="+0644-01-01" to-iso="+0644-12-31">年六歲</date>，隨<ref type="person" target="#A021628">母</ref>入舍利塔，見聖<lb
 ed="T" n="0731a11"/>僧像<ptr target="#n650"/>，欣然跳躍，狀若舊交，因啟<ref type="person" target="#A021628">母</ref>出家。<ref type="person" target="#A021628">母</ref><lb
-ed="T" n="0731a12"/>以<persName key="A009245">其</persName>尚幼，抑而未許。至<date key="j19588331959197" from-iso="0651-01-01" to-iso="0651-12-31">年十三</date>，方遂<ref type="person" target="#A009245">其</ref>志，<lb
+ed="T" n="0731a12"/>以<persName key="A009245">其</persName>尚幼，抑而未許。至<date key="j19588331959197" from-iso="+0651-01-01" to-iso="+0651-12-31">年十三</date>，方遂<ref type="person" target="#A009245">其</ref>志，<lb
 ed="T" n="0731a13"/>依<placeName key="PL000000009973">虎丘寺</placeName><persName key="A009246">慧嚴法師</persName>為弟子。謙揖之操，出<lb
-ed="T" n="0731a14"/>自生知；辯慧之能，業稱上首。以<date from-iso="0662-01-28" key="j19628781963261" to-iso="0663-02-15">龍朔二年</date><lb
+ed="T" n="0731a14"/>自生知；辯慧之能，業稱上首。以<date from-iso="+0662-01-28" key="j19628781963261" to-iso="+0663-02-15">龍朔二年</date><lb
 ed="T" n="0731a15"/>奉勅剃翦，冥符所應，還隷<ref type="place" target="#PL000000010007">此山</ref>。暨<persName key="A009246">嚴公</persName>長<lb
 ed="T" n="0731a16"/>往，乃依<persName key="A009247">慧詡禪師</persName>受具足戒，聽<placeName key="PL000000009888">常樂寺</placeName><persName key="A007009">聰<lb
 ed="T" n="0731a17"/>法師</persName>三《論》，甚深無相，疑滯豁除，方便解脫，怡<lb
@@ -23,7 +23,7 @@ ed="T" n="0731a24"/>少選<ptr type="glossary" target="#g654"/>。稱揚歎羨�
 ed="T" n="0731a25"/>受。每蔭以長松，屬思鴻遠。清泉獨坐，映定<lb
 ed="T" n="0731a26"/>水以彫文；虛室高栖，藹禪枝而蕩慮。撰《武<lb
 ed="T" n="0731a27"/>丘名僧苑》一卷、注《郁子》兩卷、《文集》三卷，蓋道<lb
-ed="T" n="0731a28"/>俗之儀表，人物之師範焉。<date key="j19731151973115" when-iso="0690-02-07">永昌元年十二月<lb
+ed="T" n="0731a28"/>俗之儀表，人物之師範焉。<date key="j19731151973115" when-iso="+0690-02-07">永昌元年十二月<lb
 ed="T" n="0731a29"/>二十日</date>見身有疾，謂弟子曰：「<ref type="person" target="#A009245">吾</ref>聞屍所到<pb ed="T" n="0731b" xml:id="T50.2061.0731b"/><lb
 ed="T" n="0731b01"/>處，便為穢惡，出就別方，乃稱離罪爾。」門弟<lb
 ed="T" n="0731b02"/>子等迎止於<placeName key="PL000000009849">通波亭北靜志莊</placeName>，忽聞異香從<lb

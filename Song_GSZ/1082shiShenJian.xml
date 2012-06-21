@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
-<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0842a11shiShenJian">
-    <anchor n="T.50.2061.0842a11"/><head><date from-iso="0618-06-21" key="j19469512052491" to-iso="0907-06-06">唐</date>唐州雲秀山<persName key="A012760">神鑒</persName>傳</head><p><lb
+<div xmlns="http://www.tei-c.org/ns/1.0" type="感通" xml:id="gsz0842a11shiShenJian"><lb
+ed="T" n="0842a11"/><anchor n="T.50.2061.0842a11"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date>唐州雲秀山<persName key="A012760">神鑒</persName>傳</head><p><lb
 ed="T" n="0842a12"/><persName key="A012760">釋神鑒</persName>，姓韓氏，<placeName key="PL000000018847">潯陽</placeName>人也。穉歲淳靜，而不<lb
 ed="T" n="0842a13"/>雜群童。父為<placeName key="PL000000030896">齊安</placeName>掾，且歸心釋氏，甞於廨<lb
 ed="T" n="0842a14"/>署陳像設，命僧徒讚唄揚音，法樂俱作。<persName key="A012760">鑒</persName><lb
@@ -9,11 +9,11 @@ ed="T" n="0842a16"/>計阻之，潛投<placeName key="PL000000018801">東林寺<
 ed="T" n="0842a17"/>講通大涅槃經義，乃南格<placeName key="PL000000018603">豫章</placeName>，參<persName key="A003623">大寂禪<lb
 ed="T" n="0842a18"/>師</persName>。續於懷安<!--找不到此地-->西北山居焉。是山先是猛獸旁<lb
 ed="T" n="0842a19"/>午，率多作害。從<persName key="A012760">鑒</persName>居之，虎災弭息，遠近稱<lb
-ed="T" n="0842a20"/>之。忽有戴平[巾*貴]男子，望法座致禮勤重，<lb
+ed="T" n="0842a20"/>之。忽有戴平<anchor xml:id="beg0842sgsz3"/><choice resp="sgsz"><sic>[巾*貴]</sic><corr>幘</corr></choice><anchor xml:id="end0842sgsz3"/>男子，望法座致<anchor xml:id="beg0842sgsz5"/>禮<anchor xml:id="end0842sgsz5"/>勤重，<lb
 ed="T" n="0842a21"/>倏爾無蹤。七日後有冠裳宛異者，於方丈<lb
 ed="T" n="0842a22"/>前升空宣言曰：「此<persName key="A012760">大師</persName>者，真法寶也。開人<lb
-ed="T" n="0842a23"/>天眼目，故來報之。」其徒聞見，知<persName key="A012760">鑒</persName>道高。<date from-iso="0581-02-22" key="j19333191936714" to-iso="0590-06-10">會<lb
-ed="T" n="0842a24"/>昌四年</date>入滅，<date key="j20296022029602" when-iso="0844-10-04">八月十五日</date>藏之于塔。凡得道<lb
+ed="T" n="0842a23"/>天眼目，故來報之。」其徒聞見，知<persName key="A012760">鑒</persName>道高。<date from-iso="+0581-02-22" key="j19333191936714" to-iso="+0590-06-10">會<lb
+ed="T" n="0842a24"/>昌四年</date>入滅，<date key="j20296022029602" when-iso="+0844-10-04">八月十五日</date>藏之于塔。凡得道<lb
 ed="T" n="0842a25"/>之人，地神報空神，展轉至于有頂，於斯見<lb
 ed="T" n="0842a26"/>矣。</p>
     <linkGrp>

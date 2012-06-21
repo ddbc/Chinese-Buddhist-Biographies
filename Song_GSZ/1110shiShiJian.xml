@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='utf-8'?>
-<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0852a13shiShiJian">
-    <anchor n="T.50.2061.0852a13"/><head><date from-iso="0951-02-18" key="j20684542071729" to-iso="0960-02-06">周</date>杭州湖光院<persName key="A012953">師簡</persName>傳</head><p><lb
+<div xmlns="http://www.tei-c.org/ns/1.0" type="感通" xml:id="gsz0852a13shiShiJian"><lb
+ed="T" n="0852a13"/><anchor n="T.50.2061.0852a13"/><head><date from-iso="+0951-02-18" key="j20684542071729" to-iso="+0960-02-06">周</date>杭州湖光院<persName key="A012953">師簡</persName>傳</head><p><lb
 ed="T" n="0852a14"/><persName key="A012953">釋師簡</persName>，姓趙氏，<placeName key="PL000000012388">丹丘</placeName>人也。弗循戒範，放肆<lb
-ed="T" n="0852a15"/>恬然，擁破納衣，多誦詞偈。好懸記<placeName key="PL000000011519">杭</placeName><placeName key="PL000000013239">越</placeName>間<lb
+ed="T" n="0852a15"/>恬然，擁破納衣，多誦詞偈。好懸記<placeName key="PL000000011519">杭</placeName>、<placeName key="PL000000013239">越</placeName>間<lb
 ed="T" n="0852a16"/>災福，初無信者，驗猶合符。於<persName key="A000008">一行</persName>、<persName key="A013851">景淳</persName>，山<lb
 ed="T" n="0852a17"/>經地理，別得徑門，常言昔泰山<persName key="A006977">道辯</persName>相塜得<lb
 ed="T" n="0852a18"/>術，餘無取焉。喜為人遷山相塚，吉凶如<lb
@@ -10,12 +10,12 @@ ed="T" n="0852a19"/>其言。居無定所，多遊族姓家，言腹飢，便求
 ed="T" n="0852a20"/>雞肉餐。此外得美酒，啜數杯而去，初無言<lb
 ed="T" n="0852a21"/>謝。然長於勒書，大字題牌，寺觀門額，書成<lb
 ed="T" n="0852a22"/>相之，吉凶隨言，久近驗之。始居杭西湖<placeName key="PL000000011671">旁<lb
-ed="T" n="0852a23"/>院</placeName>，無疾而終。後有行客自<placeName key="PL000000028663">長沙市</placeName>中見，携<lb
+ed="T" n="0852a23"/>院</placeName>，無疾而終。後有行客自<placeName key="PL000000028663">長沙</placeName>市中見，携<lb
 ed="T" n="0852a24"/>手話舊，寄言與<placeName key="PL000000011627">崇壽院</placeName>主，「汝先負錢若干，<lb
-ed="T" n="0852a25"/>今放汝我眠床芻薦下層，有紙裹肉脯屑，<lb
+ed="T" n="0852a25"/>今放<ptr type="glossary" target="#g1406"/>汝。我眠床芻薦下層，有紙裹肉脯屑，<lb
 ed="T" n="0852a26"/>必應腐敗，為棄之。」院僧依言，果然見之，因<lb
 ed="T" n="0852a27"/>寫貌供養。<persName key="A012953">簡</persName>曾言「尖頭屋已後火化去。」及<lb
-ed="T" n="0852a28"/>州南塔<date key="j20709902071373" notAfter-iso="0959-02-15" notBefore-iso="0958-01-28">戊午歲</date>被天火爇之，應言無爽矣。</p>
+ed="T" n="0852a28"/>州南塔<date key="j20709902071373" notAfter-iso="+0959-02-15" notBefore-iso="+0958-01-28">戊午歲</date>被天火爇之，應言無爽矣。</p>
     <linkGrp>
         <link targets="#0852a15 #0852a16"/>
         <ptr target="#A012953" type="person"/>

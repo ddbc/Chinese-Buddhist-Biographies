@@ -1,15 +1,15 @@
 <?xml version='1.0' encoding='utf-8'?>
-<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0838b15shiGuangFu">
-    <anchor n="T.50.2061.0838b15"/><head><date from-iso="0618-06-21" key="j19469512052491" to-iso="0907-06-06">唐</date>袁州陽岐山<persName key="A010318">廣敷</persName>傳</head><p><lb
+<div xmlns="http://www.tei-c.org/ns/1.0" type="感通" xml:id="gsz0838b15shiGuangFu"><lb
+ed="T" n="0838b15"/><anchor n="T.50.2061.0838b15"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date>袁州陽<anchor xml:id="beg0838sgsz13"/>岐<anchor xml:id="end0838sgsz13"/>山<persName key="A010318">廣敷</persName>傳</head><p><lb
 ed="T" n="0838b16"/><persName key="A010318">釋廣敷</persName>，俗姓鄭，<placeName key="PL000000024377">南燕</placeName>人也。少依京望大德<persName key="A012510">思<lb
 ed="T" n="0838b17"/>浩</persName>下，承乎法訓。登戒畢，遊<placeName key="PL000000023253">嵩、少</placeName>、<placeName key="PLG00000000013">兩京</placeName>。遇<persName key="A005612">神<lb
-ed="T" n="0838b18"/>會禪師</persName>，大明玄旨。至宜春<placeName key="PL000000019592">陽岐山</placeName>挂錫，是<lb
+ed="T" n="0838b18"/>會禪師</persName>，大明玄旨。至宜春<placeName key="PL000000019592">陽<anchor xml:id="beg0838sgsz15"/>岐<anchor xml:id="end0838sgsz15"/>山</placeName>挂錫，是<lb
 ed="T" n="0838b19"/>中峯巒積翠，洞穴涉幽，芝<anchor xml:id="beg0838005"/>菌<anchor xml:id="end0838005"/>之苗，參于草<lb
-ed="T" n="0838b20"/>奔。<persName key="A010318">敷</persName>終日瞑目，木食度辰。時有峨冠羽帔，<lb
-ed="T" n="0838b21"/>馭鶴驂鸞者，始則乍往倏來，後則登庵造<lb
+ed="T" n="0838b20"/><anchor xml:id="beg0838sgsz17"/><choice resp="sgsz"><sic>奔</sic><corr>卉</corr></choice><anchor xml:id="end0838sgsz17"/>。<persName key="A010318">敷</persName>終日瞑目，木食<ptr type="glossary" target="#g1479"/>度辰。時有峨冠羽帔，<lb
+ed="T" n="0838b21"/>馭鶴驂鸞者，始則<anchor xml:id="beg0838sgsz19"/>乍<anchor xml:id="end0838sgsz19"/>往倏來，後則登庵造<lb
 ed="T" n="0838b22"/>膝。其仙客所到，必輕雲薄霧，隨步而至。擁<lb
 ed="T" n="0838b23"/>從者天丁力士令遠去，對晤談論移晷。其後<lb
-ed="T" n="0838b24"/>道化既成，於<date key="j20078862007886" when-iso="0785-04-21">貞元元年三月四日</date>入滅，春秋<lb
+ed="T" n="0838b24"/>道化既成，於<date key="j20078862007886" when-iso="+0785-04-21"><name>貞元</name>元年三月四日</date>入滅，春秋<lb
 ed="T" n="0838b25"/>九十一云。</p>
     <p xml:id="pT50p0838b2601"><lb
 ed="T" n="0838b26"/>系曰：神仙道異，談論豈同乎？通曰：「昔小有真<lb

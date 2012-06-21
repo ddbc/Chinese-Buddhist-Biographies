@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='utf-8'?>
-<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0732b15shiHengJing"><lb
-n="0732b15" ed="T"/><anchor n="T.50.2061.0732b15"/><head><date from-iso="0618-06-21" key="j19469512052491" to-iso="0907-06-06">唐</date><placeName key="PL000000027023">荊州玉泉寺</placeName><persName key="A008970">恒景</persName>傳</head><p><lb
-ed="T" n="0732b16"/><persName key="A008970">釋恒景</persName>，姓文氏，<placeName key="PL000000027041">當陽</placeName>人也。<date from-iso="0648-02-02" key="j19577691958152" to-iso="0649-02-19">貞觀二十二年</date>勅<lb
+<div xmlns="http://www.tei-c.org/ns/1.0" type="義解" xml:id="gsz0732b15shiHengJing"><lb
+n="0732b15" ed="T"/><anchor n="T.50.2061.0732b15"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date><placeName key="PL000000027023">荊州玉泉寺</placeName><persName key="A008970">恒景</persName>傳</head><p><lb
+ed="T" n="0732b16"/><persName key="A008970">釋恒景</persName>，姓文氏，<placeName key="PL000000027041">當陽</placeName>人也。<date from-iso="+0648-02-02" key="j19577691958152" to-iso="+0649-02-19">貞觀二十二年</date>勅<lb
 ed="T" n="0732b17"/>度<ptr target="#n703"/>，聽習三藏，一聞能誦，如說而行。初就<persName key="A002468">文綱<lb
 ed="T" n="0732b18"/>律師</persName><ptr target="#n680"/>隷業「毘尼」，後入<placeName key="PL000000027023">覆舟山玉泉寺</placeName>，追<persName key="A001301">智<lb
 ed="T" n="0732b19"/>者禪師</persName><ptr target="#n681"/>習《止觀門》。於<ref type="place" target="#PL000000027023">寺</ref>之南十里別立精<lb
-ed="T" n="0732b20"/>舍，號<placeName key="PL000000027846">龍興</placeName>是也。自<date from-iso="0684" key="j19709111980570" to-iso="0710">天后、中宗朝</date>，三被詔入<lb
-ed="T" n="0732b21"/>內供養為受戒師。以<date from-iso="0709-02-19" key="j19800661980419" to-iso="0710-02-07">景龍三年</date>奏乞歸山，<lb
+ed="T" n="0732b20"/>舍，號<placeName key="PL000000027846">龍興</placeName>是也。自<date from-iso="+0684-01-26" key="j19709111980570" to-iso="+0710-07-08">天后、中宗朝</date>，三被詔入<lb
+ed="T" n="0732b21"/>內供養為受戒師。以<date from-iso="+0709-02-19" key="j19800661980419" to-iso="+0710-02-07">景龍三年</date>奏乞歸山，<lb
 ed="T" n="0732b22"/>勅允其請。詔中書、門下及學士於<placeName key="PL000000042281">林光宮<lb
 ed="T" n="0732b23"/>觀內道場</placeName>設齋。先時追召天下高僧兼義<lb
 ed="T" n="0732b24"/>行者二十餘人，常於內殿修福，至是散齋，<lb
@@ -14,7 +14,7 @@ ed="T" n="0732b25"/>仍送<persName key="A008970">景</persName>并<persName key
 ed="T" n="0732b26"/>學士應和，即中書令<persName key="A002109">李嶠</persName>、中書舍人<persName key="A002474">李<anchor xml:id="beg0732sgsz3"/><choice resp="sgsz"><sic>又</sic><corr>乂</corr></choice><anchor xml:id="end0732sgsz3"/></persName>等<lb
 ed="T" n="0732b27"/>數人。時<persName key="A008970">景</persName>等捧詩振錫而行，天下榮之。<persName key="A008970">景</persName><lb
 ed="T" n="0732b28"/>撰《順了義論》二卷、《攝正法論》七卷、《佛性論》二<lb
-ed="T" n="0732b29"/>卷。學其宗者，如渴之受漿。至<date key="j19814181981418" when-iso="0712-11-02">先天元年<pb ed="T" n="0732c" xml:id="T50.2061.0732c"/><lb
+ed="T" n="0732b29"/>卷。學其宗者，如渴之受漿。至<date key="j19814181981418" when-iso="+0712-11-02"><name>先天</name>元年<pb ed="T" n="0732c" xml:id="T50.2061.0732c"/><lb
 ed="T" n="0732c01"/>九月二十五日</date>卒于所住寺，春秋七十九。<lb
 ed="T" n="0732c02"/>弟子奉葬于寺之西原也。</p>
         <p><lb

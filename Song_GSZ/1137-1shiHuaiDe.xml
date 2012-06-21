@@ -1,19 +1,18 @@
 <?xml version='1.0' encoding='utf-8'?>
-<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0860c29shiHuaiDe">
-    <anchor n="T.50.2061.0860c29"/><head><date from-iso="0960-02-09" key="j20717322132856" to-iso="1127-06-18">宋</date>臨淮普照王寺<persName key="A013530">懷德</persName>傳</head><p><lb
+<div xmlns="http://www.tei-c.org/ns/1.0" type="遺身" xml:id="gsz0860c29shiHuaiDe"><lb
+ed="T" n="0860c29"/><anchor n="T.50.2061.0860c29"/><head><date from-iso="+0960-02-09" key="j20717322132856" to-iso="+1127-06-18"><anchor xml:id="beg0860sgsz11"/>宋<anchor xml:id="end0860sgsz11"/></date>臨淮普照王寺<persName key="A013530">懷德</persName>傳</head><pb n="0861a" xml:id="T50.2061.0861a" ed="T"/><p><lb
 ed="T" n="0861a01"/><persName key="A013530">釋懷德</persName>，本<placeName key="PL000000000197">江南</placeName>人也。髫年離俗，謹愿飾身，<lb
 ed="T" n="0861a02"/>誦通法華經，得度。自爾雖登講肆，終以誦<lb
-ed="T" n="0861a03"/>持為專務。晚遊泗上<!--找不到此地-->，禮僧伽塔像。屬<ref type="person" target="#A001640">今上
-        </ref><lb
-ed="T" n="0861a04"/>遣高品<persName key="A019466">李神福</persName>齎<anchor xml:id="fxT50p0861a01"/>旛華上供，并感應舍利<lb
+ed="T" n="0861a03"/>持為專務。晚遊泗上<!--找不到此地-->，<anchor xml:id="beg0861sgsz1"/>禮<anchor xml:id="end0861sgsz1"/>僧伽塔像。屬<ref type="person" target="#A001640">今上</ref><lb
+ed="T" n="0861a04"/>遣高品<persName key="A019466">李神福</persName>齎<anchor xml:id="beg0861sgsz3"/>旛華<anchor xml:id="end0861sgsz3"/>上供，并感應舍利<lb
 ed="T" n="0861a05"/>至，葬于新塔下基深窟中。<persName key="A013530">德</persName>遂誓焚軀供<lb
 ed="T" n="0861a06"/>養。先罄捨衣囊，供身之物齋僧一中。然後<lb
-ed="T" n="0861a07"/>自衣紙服，身纏油蠟，禮辭僧眾，手持雙燭，<lb
+ed="T" n="0861a07"/>自衣紙服，身纏油蠟，<anchor xml:id="beg0861sgsz5"/>禮<anchor xml:id="end0861sgsz5"/>辭僧眾，手持雙燭，<lb
 ed="T" n="0861a08"/>登柴𧂐中，發火誦經。觀者莫不揮涕。德<lb
 ed="T" n="0861a09"/>至火熾熛高，其身聊側，猶微聞誦經之聲。<lb
 ed="T" n="0861a10"/>一城之人無不悲悼者。淘汰舍利甚多，乃<lb
-ed="T" n="0861a11"/><date key="j20802402080240" when-iso="0983-05-27">太平興國八年四月八日</date>也。使臣回奏，<ref type="person" target="#A001640">上</ref>為<lb
-ed="T" n="0861a12"/>之動容焉。</p>
+ed="T" n="0861a11"/><date key="j20802402080240" when-iso="+0983-05-27">太平興國八年四月八日</date>也。使臣回奏，<ref type="person" target="#A001640">上</ref>為<lb
+ed="T" n="0861a12"/>之動容焉。</p><milestone unit="page" rend="pagebreak"/>
     <linkGrp>
         <link targets="#0861a01 #0861a01"/>
         <ptr target="#A013530" type="person"/>

@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='utf-8'?>
-<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0850c04shiWangMing">
-    <anchor n="T.50.2061.0850c04"/><head><date from-iso="0936-12-05" key="j20632662067017" to-iso="0947-03-14">晉</date>襄州<persName key="A012911">亡名</persName>傳</head><p><lb
+<div xmlns="http://www.tei-c.org/ns/1.0" type="感通" xml:id="gsz0850c04shiWangMing"><lb
+ed="T" n="0850c04"/><anchor n="T.50.2061.0850c04"/><head><date from-iso="+0936-12-05" key="j20632662067017" to-iso="+0947-03-14">晉</date>襄州<persName key="A012911">亡名</persName>傳</head><p><lb
 ed="T" n="0850c05"/><persName key="A012911">釋亡名</persName>，不知何許人也。觀方問道，不憚<lb
-ed="T" n="0850c06"/>艱辛。勝境名山，必約巡訪矣。<date key="j20632532065331" notAfter-iso="0942" notBefore-iso="0936">天福</date>中，至<placeName key="PL000000027118">襄<lb
+ed="T" n="0850c06"/>艱辛。勝境名山，必約巡訪矣。<date key="j20632532065331" notAfter-iso="+0942-08-01" notBefore-iso="+0936-11-22">天福中</date>，至<placeName key="PL000000027118">襄<lb
 ed="T" n="0850c07"/>州</placeName>禪院挂錫，與一僧循良守法，同九旬禁<lb
 ed="T" n="0850c08"/>足。其人庠序言多詭激，稱名曰<persName key="A012914">法本</persName>，朝昏<lb
 ed="T" n="0850c09"/>共處，心雅相於，若久要之法屬焉。<persName key="A012914">法本</persName>云：<lb
@@ -12,7 +12,7 @@ ed="T" n="0850c12"/>往尋問。洎至山下村中，投一蘭若止宿，問<lb
 ed="T" n="0850c13"/>彼僧曰：「此去<placeName key="PL000000001456">竹林寺</placeName>近遠？」僧乃遙指孤峯之<lb
 ed="T" n="0850c14"/>側曰：「彼處是也。古老相傳，昔聖賢所居之<lb
 ed="T" n="0850c15"/>地，今但有名存耳，故無精廬淨舍立佛安<lb
-ed="T" n="0850c16"/>僧之所也。」<persName key="A012911">僧</persName>疑之，詰旦而往，既覩竹叢，叢<lb
+ed="T" n="0850c16"/>僧之所也。」<persName key="A012911">僧</persName>疑之，詰<anchor xml:id="beg0850sgsz9"/>旦<anchor xml:id="end0850sgsz9"/>而往，既覩竹叢，叢<lb
 ed="T" n="0850c17"/>中果有石柱，茫然不知其涯涘。<persName key="A012911">僧</persName>憶<persName key="A012914">法本</persName><lb
 ed="T" n="0850c18"/>臨別之言，但扣其柱，即見其人。遂以小杖<lb
 ed="T" n="0850c19"/>擊柱數聲，乃覺風雲四起，咫尺莫窺，俄爾豁<lb
@@ -30,7 +30,7 @@ ed="T" n="0850c29"/>系曰：入<placeName key="PL000000001456">竹林</placeNam
 ed="T" n="0851a01"/>仙之士，聖寺之遊，豈容凡穢？一則顯聖寺之<lb
 ed="T" n="0851a02"/>在人間，一則知聖僧之參緇伍。無輕僧寶，<lb
 ed="T" n="0851a03"/>凡聖混然。此傳新述於數人，振古已聞於<lb
-ed="T" n="0851a04"/>幾處。且如此<date key="j19292721931823" notAfter-iso="0577" notBefore-iso="0570">齊武平</date>中，<persName key="A006826">釋圓通</persName>曾瞻講下<lb
+ed="T" n="0851a04"/>幾處。且如<anchor xml:id="beg0851001"/><choice resp="sgsz"><sic>此</sic><corr>北</corr></choice><anchor xml:id="end0851001"/><date key="j19292721931823" notAfter-iso="+0577-01-18" notBefore-iso="+0570-01-24">齊武平中</date>，<persName key="A006826">釋圓通</persName>曾瞻講下<lb
 ed="T" n="0851a05"/>僧病，其僧夏滿病差，約來鄴中鼓山<placeName key="PL000000001410">竹林寺</placeName>，<lb
 ed="T" n="0851a06"/>事跡略同。此蓋前後到聖寺也。</p>
     <linkGrp>

@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
-<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0727b15shiYuanKang"><lb
-ed="T" n="0727b15"/><anchor n="T.50.2061.0727b15"/><head><date from-iso="0618-06-21" key="j19469512052491" to-iso="0907-06-06">唐</date><placeName key="PL000000042647">京師安國寺</placeName><persName key="A000122">元康</persName>傳</head><p><lb
-ed="T" n="0727b16"/><persName key="A000122">釋元康</persName>，不詳姓氏。<date from-iso="0627" key="j19500921958507" to-iso="0650">貞觀中</date>遊學<placeName key="PL000000042189">京邑</placeName>，有彭<lb
+<div xmlns="http://www.tei-c.org/ns/1.0" type="義解" xml:id="gsz0727b15shiYuanKang"><lb
+ed="T" n="0727b15"/><anchor n="T.50.2061.0727b15"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date><placeName key="PL000000042647">京師安國寺</placeName><persName key="A000122">元康</persName>傳</head><p><lb
+ed="T" n="0727b16"/><persName key="A000122">釋元康</persName>，不詳姓氏。<date notBefore-iso="+0627-01-26" key="j19500921958507" notAfter-iso="+0650-02-09">貞觀中</date>遊學<placeName key="PL000000042189">京邑</placeName>，有彭<lb
 ed="T" n="0727b17"/>亨<ptr type="glossary" target="#g539"/>之譽。形擁腫而短，然其性情酋勇，聞少解<lb
 ed="T" n="0727b18"/>多，群輩推許。先居山野，恒務持誦《觀音》，求<lb
 ed="T" n="0727b19"/>加慧解，遂感鹿一首，角分八岐，厥形絕異。<lb
@@ -22,8 +22,8 @@ ed="T" n="0727c04"/>也？」<ref type="person" target="#A002414">帝</ref>聞�
 ed="T" n="0727c05"/>講此《三論》。遂造疏，解中觀之理。別撰《玄樞》<lb
 ed="T" n="0727c06"/>兩卷，總明《中》、《百門》之宗旨焉。後不測其終。</p>
         <p><lb
-ed="T" n="0727c07"/>系曰：<persName key="A000122">康師</persName>曳納播者何？通曰：「梵言立播，華<lb
-ed="T" n="0727c08"/>言裹腹衣，亦云抱腹，形制如偏袒，一幅<ptr type="glossary" target="#g722"/>纔<lb
+ed="T" n="0727c07"/>系曰：<persName key="A000122">康師</persName>曳納播者何？通曰：「<name>梵</name>言立播，華<lb
+ed="T" n="0727c08"/>言裹腹衣，亦云抱腹，形制如偏袒，一幅<ptr rend="display:none;" type="glossary" target="#g722"/>纔<lb
 ed="T" n="0727c09"/>穿得手，肩袖不寬。著在左邊，右邊施帶，多<lb
 ed="T" n="0727c10"/>貯綿絮。然是禦寒之服，熱國則否，用此亦聖<lb
 ed="T" n="0727c11"/>開。流于<placeName key="PL000000000083">東土</placeName>，則變成色帛，而削幅綴于左<lb

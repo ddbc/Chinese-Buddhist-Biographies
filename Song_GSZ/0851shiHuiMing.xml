@@ -1,23 +1,28 @@
 <?xml version='1.0' encoding='utf-8'?>
-<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0756b18shiHuiMing">
-    <anchor n="T.50.2061.0756b18"/><head><date from-iso="0618-06-21" key="j19469512052491" to-iso="0907-06-06">唐</date><placeName key="PL000000019663">袁州蒙山</placeName><persName key="A010081">慧明</persName>傳</head><p><lb
+<div xmlns="http://www.tei-c.org/ns/1.0" type="習禪" xml:id="gsz0756b18shiHuiMing"><lb
+ed="T" n="0756b18"/><anchor n="T.50.2061.0756b18"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date><placeName key="PL000000019663">袁州蒙山</placeName><persName key="A010081">慧明</persName>傳</head><p><lb
 ed="T" n="0756b19"/><persName key="A010081">釋慧明</persName>，姓陳氏，<placeName key="PL000000020174">鄱陽</placeName>人也，本<persName key="A004306">陳宣帝</persName>之孫，國<lb
-ed="T" n="0756b20"/>亡散為編甿矣。<persName key="A010081">明</persName>少出家于<placeName key="PL000000018576">永昌寺</placeName>，懷道<lb
-ed="T" n="0756b21"/>頗切，扣<placeName key="PL000000028114">雙峯</placeName>之法。<persName key="A002146">高宗</persName><ref type="date" target="#j19582971970884">之世</ref>，依<persName key="A000237">忍禪師</persName>法席，<lb
-ed="T" n="0756b22"/>極意研尋，初無證悟，若喪家之犬焉。忽聞<lb
-ed="T" n="0756b23"/><ref type="person" target="#A000237">五祖</ref>密付衣鉢與<persName key="A001719">盧居士</persName>，率同意數十許<lb
+ed="T" n="0756b20"/>亡散為編甿<ptr type="glossary" target="#g1348"/>矣。<persName key="A010081">明</persName>少出家于<placeName key="PL000000018576">永昌寺</placeName>，懷道<lb
+ed="T" n="0756b21"/>頗切，扣<placeName key="PL000000028114">雙峯</placeName>之法。<persName key="A002146">高宗</persName><ref type="date" target="#j19582971970884">之世</ref>，依<persName key="A000237">忍<roleName>禪師</roleName></persName>法席，<lb
+ed="T" n="0756b22"/>極意研尋，初無證悟，若喪家之犬<ptr type="glossary" target="#g1349"/>焉。忽聞<lb
+ed="T" n="0756b23"/><ref type="person" target="#A000237">五祖</ref>密付衣鉢與<persName key="A001719">盧<roleName>居士</roleName></persName>，率同意數十許<lb
 ed="T" n="0756b24"/>人躡迹急追，至<placeName key="PL000000030691">大庾嶺</placeName>，<persName key="A010081">明</persName>最先見，餘輩未<lb
-ed="T" n="0756b25"/>及。<persName key="A001719">能祖</persName>見已，便擲袈裟，<persName key="A010081">明</persName>曰：「<ref type="person" target="#A010081">我</ref>來為法，非<lb
-ed="T" n="0756b26"/>望衣鉢也。」時<persName key="A001719">能祖</persName>便於嶺首一向指訂，<persName key="A010081">明</persName><lb
-ed="T" n="0756b27"/>皆洞達，悲喜交至，問<persName key="A001719">能</persName>曰：「<ref type="person" target="#A010081">某</ref>宜何往？」<persName key="A001719">能</persName>記<lb
+ed="T" n="0756b25"/>及。<persName key="A001719">能<roleName>祖</roleName></persName>見已，便擲袈裟，<persName key="A010081">明</persName>曰：「<ref type="person" target="#A010081">我</ref>來為法，非<lb
+ed="T" n="0756b26"/>望衣鉢也。」時<persName key="A001719">能<roleName>祖</roleName></persName>便於嶺首一向指訂，<persName key="A010081">明</persName><lb
+ed="T" n="0756b27"/>皆洞達，悲喜交至，問<persName key="A001719">能</persName>曰：「<ref type="person" target="#A010081">某</ref>宜何往？」<persName key="A001719">能</persName>記<ptr type="glossary" target="#g1351"/><lb
 ed="T" n="0756b28"/>之曰：「遇<placeName key="PL000000019663">蒙</placeName>當居，逢<placeName key="PL000000019610">袁</placeName>可止。」<persName key="A010081">明</persName>再拜而去，<lb
-ed="T" n="0756b29"/>便更其名，以舊云<persName key="A010081">道明</persName>也。下<placeName key="PL000000030691">嶺</placeName>，紿諸僧<pb ed="T" n="0756c" xml:id="T50.2061.0756c"/><lb
-ed="T" n="0756c01"/>曰：「向陟崔嵬，遠望杳無蹤跡。」僧即退轉。一<lb
+ed="T" n="0756b29"/>便更其名，以舊云<persName key="A010081">道明</persName>也。下<ref type="place" target="#PL000000030691">嶺</ref>，紿<ptr type="glossary" target="#g1350"/>諸僧<pb ed="T" n="0756c" xml:id="T50.2061.0756c"/><lb
+ed="T" n="0756c01"/>曰：「向陟崔嵬<ptr type="glossary" target="#g1352"/>，遠望杳無蹤跡。」僧即退轉。一<lb
 ed="T" n="0756c02"/>說，<ref type="person" target="#A001719">居士</ref>擲衣鉢於磐石曰：「此衣為信，豈可<lb
 ed="T" n="0756c03"/>力爭<anchor xml:id="beg0756002"/>耶<anchor xml:id="end0756002"/>？任君拈去。」<persName key="A010081">明</persName>遂手掀，如負鈞石，<lb
-    ed="T" n="0756c04"/>而無舉分，拱立捨旃，則<date from-iso="0673-01-27" key="j19668951967278" to-iso="0674-02-14">咸<anchor xml:id="beg0756003"/><choice resp="sgsz"><sic>享</sic><corr>亨</corr></choice><anchor xml:id="end0756003"/>四年</date>也。以<lb
+ed="T" n="0756c04"/>而無舉分，拱立捨旃<ptr type="glossary" target="#g1050"/>，則<date from-iso="+0673-01-27" key="j19668951967278" to-iso="+0674-02-14">咸<anchor xml:id="beg0756003"/><choice resp="sgsz"><sic>享</sic><corr>亨</corr></choice><anchor xml:id="end0756003"/>四年</date>也。以<lb
 ed="T" n="0756c05"/><persName key="A010081">明</persName>未捨家曾署諸衛，故有「<persName key="A010081">將軍</persName>」之號矣。<placeName key="PL000000019609">宜<lb
 ed="T" n="0756c06"/>春</placeName>太守<persName key="A010082">秦琢</persName>奏諡號焉。</p>
+    <linkGrp>
+        <link targets="#0756b18 #0756b18"/>
+        <ptr target="#A010081" type="person"/>
+        <ptr target="#PL000000019663" type="place"/>
+    </linkGrp>
     <linkGrp>
         <link targets="#0756b19 #0756b19"/>
         <ptr target="#A010081" type="person"/>
@@ -32,7 +37,6 @@ ed="T" n="0756c06"/>春</placeName>太守<persName key="A010082">秦琢</persNam
         <link targets="#0756b21 #0756b21"/>
         <ptr target="#A010081" type="person"/>
         <ptr target="#A000237" type="person"/>
-        <ptr target="#PL000000028114" type="place"/>
         <ptr target="#j19582971970884" type="time"/>
     </linkGrp>
     <linkGrp>

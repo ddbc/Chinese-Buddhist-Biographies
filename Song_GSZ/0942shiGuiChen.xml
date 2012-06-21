@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='utf-8'?>
-<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0786c04shiGuiChen">
-    <anchor n="T.50.2061.0786c04"/><head><date from-iso="0923-05-18" key="j20583162063308" to-iso="0937-01-16">後唐</date>漳州羅漢院<persName key="A010683">桂琛</persName>傳</head><p><lb
+<div xmlns="http://www.tei-c.org/ns/1.0" type="習禪" xml:id="gsz0786c04shiGuiChen">
+    <anchor n="T.50.2061.0786c04"/><head><date from-iso="+0923-05-18" key="j20583162063308" to-iso="+0937-01-16">後唐</date>漳州羅漢院<persName key="A010683">桂琛</persName>傳</head><p><lb
 ed="T" n="0786c05"/><persName key="A010683">釋桂琛</persName>，俗姓李氏，<placeName key="PL000000013684">常山</placeName>人也。甫作童兒，篤<lb
-ed="T" n="0786c06"/>求遠俗，齋茹一餐，調息終日。秉心<anchor xml:id="beg0786006"/>唯<anchor xml:id="end0786006"/>確，鄉<lb
+ed="T" n="0786c06"/>求遠俗，齋茹一餐，調息終日。秉心<anchor xml:id="beg0786006"/>唯確<anchor xml:id="end0786006"/>，鄉<lb
 ed="T" n="0786c07"/>黨所欽。二親愛縛而莫辭，群從情纏而難<lb
 ed="T" n="0786c08"/>脫。既冠繼踰城之武，求師得解虎之儔，乃<lb
 ed="T" n="0786c09"/>事本府<placeName key="PL000000017527">萬歲寺</placeName><persName key="A010694">無相大師</persName>矣。初登戒地，例<lb
@@ -21,11 +21,11 @@ ed="T" n="0786c21"/><placeName key="PL000000018037">羅漢院</placeName>為眾�
 ed="T" n="0786c22"/>不數載，南北參徒喪疑而往者，不可殫數。<lb
 ed="T" n="0786c23"/>有角立者，撫州<placeName key="PL000000019959">曹山</placeName><persName key="A000174">文益</persName>、江州<placeName key="PL000000018830">東禪</placeName><persName key="A010696">休復</persName>，咸<lb
 ed="T" n="0786c24"/>傳<persName key="A010683">琛</persName>旨，各為一方法眼，視其子則知其父<lb
-ed="T" n="0786c25"/>矣。以<date from-iso="0928-01-31" key="j20600352060418" to-iso="0929-02-17">天成三年</date>戊子秋，復屆<placeName key="PL000000017166">閩城</placeName>舊止，遍<lb
-ed="T" n="0786c26"/>翫近城梵字。已俄示疾，數日安坐告終，春<lb
+ed="T" n="0786c25"/>矣。以<date from-iso="+0928-01-31" key="j20600352060418" to-iso="+0929-02-17">天成三年</date>戊子秋，復<anchor xml:id="beg0786sgsz8"/><choice resp="sgsz"><sic>戒</sic><corr>屆</corr></choice><anchor xml:id="end0786sgsz8"/><placeName key="PL000000017166">閩城</placeName>舊止，遍<lb
+ed="T" n="0786c26"/>翫近城<name>梵</name><anchor xml:id="beg0786sgsz9"/><choice resp="sgsz"><sic>字</sic><corr>宇</corr></choice><anchor xml:id="end0786sgsz9"/>。已俄示疾，數日安坐告終，春<lb
 ed="T" n="0786c27"/>秋六十有二，僧臘四十。遺戒勿遵俗禮而<lb
-ed="T" n="0786c28"/>棺而墓。於是茶毘於城西院之東崗，收其<lb
-ed="T" n="0786c29"/>舍利，建塔于院之西，稟遺教也。則<date from-iso="0936-01-17" key="j20629432062944" to-iso="0936-01-18">清泰二<pb ed="T" n="0787a" xml:id="T50.2061.0787a"/><lb
+ed="T" n="0786c28"/>棺而墓。於是<anchor xml:id="beg0786sgsz10"/><choice resp="sgsz"><sic>茶</sic><corr>荼</corr></choice><anchor xml:id="end0786sgsz10"/>毘於城西院之東崗，收其<lb
+ed="T" n="0786c29"/>舍利，建塔于院之西，稟遺教也。則<date from-iso="+0936-01-17" key="j20629432062944" to-iso="+0936-01-18">清泰二<pb ed="T" n="0787a" xml:id="T50.2061.0787a"/><lb
 ed="T" n="0787a01"/>年十二月望日</date>也。<persName key="A010683">琛</persName>得法密付授耳。時<persName key="A003900">神晏<lb
 ed="T" n="0787a02"/>大師</persName>，<persName key="A003732">王<roleName>氏</roleName></persName>所重，以言事脅令捨<persName key="A008370">玄沙</persName>嗣<persName key="A003677">雪<lb
 ed="T" n="0787a03"/>峯</persName>，確乎不拔，終為<persName key="A003900">晏</persName>讒而凌轥，惜哉！</p>

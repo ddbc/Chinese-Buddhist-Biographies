@@ -1,22 +1,22 @@
 <?xml version='1.0' encoding='utf-8'?>
-<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0877a06shiWeiShi">
-    <anchor n="T.50.2061.0877a06"/><head><date from-iso="0618-06-21" key="j19469512052491" to-iso="0907-06-06">唐</date>明州慈溪香山寺<persName key="A013699">惟實</persName>傳</head><p><lb
+<div xmlns="http://www.tei-c.org/ns/1.0" type="興福" xml:id="gsz0877a06shiWeiShi"><lb
+ed="T" n="0877a06"/><anchor n="T.50.2061.0877a06"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date>明州慈溪香山寺<persName key="A013699">惟實</persName>傳</head><p><lb
 ed="T" n="0877a07"/><persName key="A013699">釋惟實</persName>，姓湯氏，<placeName key="PL000000012060">富陽</placeName>人。其為人也，杜多其<lb
 ed="T" n="0877a08"/>行，禪觀其心，淡然靜居，長坐不寐。初母氏<lb
 ed="T" n="0877a09"/>抑其願心，不容披削。既而籠開鳥逝，岸穴<lb
-ed="T" n="0877a10"/>泉飛，學善財之遍參，同迦葉之練行。<date from-iso="0742" key="j19921141997410" to-iso="0756">天寶<lb
+ed="T" n="0877a10"/>泉飛，學善財之遍參，同迦葉之練行。<date notBefore-iso="+0742-02-14" key="j19921141997410" notAfter-iso="+0756-08-15"><name>天寶</name><lb
 ed="T" n="0877a11"/>中</date>往<placeName key="PL000000012470">明州</placeName>若[山*(奧-釆+米)]山，夜聞冥告曰：「達蓬聖跡<lb
 ed="T" n="0877a12"/>名山，宜矣。」翌日且登其山，巖洞窈窕，石壁削<lb
 ed="T" n="0877a13"/>成，秀異之多，實維靈境。有大佛足跡，詢其山<lb
-ed="T" n="0877a14"/>叟，則曰「彼<date from-iso="0713" key="j19818371992113" to-iso="0742">開元年</date>中始現斯瑞」。遂願捿此，<lb
+ed="T" n="0877a14"/>叟，則曰「彼<date notBefore-iso="+0713-12-26" key="j19818371992113" notAfter-iso="+0742-02-13">開元年中</date>始現斯瑞」。遂願捿此，<lb
 ed="T" n="0877a15"/>有終焉之志。時屬海寇<persName key="A010998">袁晁</persName>蜂螘屯聚，分<lb
 ed="T" n="0877a16"/>以剽劫，殺戮無辜。至于香山，眾皆奔竄。<persName key="A013699">實</persName><lb
 ed="T" n="0877a17"/>據榻瞑目，先以大石掩洞門。賊可三二百<lb
-ed="T" n="0877a18"/>數，復舁巨石闊二丈餘，鎮其穴口。<persName key="A013699">實</persName>起喑<lb
+ed="T" n="0877a18"/>數，復<anchor xml:id="beg0877sgsz3"/>舁<anchor xml:id="end0877sgsz3"/>巨石闊二丈餘，鎮其穴口。<persName key="A013699">實</persName>起喑<lb
 ed="T" n="0877a19"/>嗚，以掌舉之，群盜羅拜以謝之而去。邑民<lb
-ed="T" n="0877a20"/>重之，遂立精舍，弗再歲而成。<date from-iso="0773-02-01" key="j20034242003806" to-iso="0774-02-18">大曆八年</date>也。<lb
+ed="T" n="0877a20"/>重之，遂立精舍，弗再歲而成。<date from-iso="+0773-02-01" key="j20034242003806" to-iso="+0774-02-18"><name>大曆</name>八年</date>也。<lb
 ed="T" n="0877a21"/>太守<persName key="A013700">裴儆</persName>奏請署<placeName key="PL000000012408">香山</placeName>題額焉，詔度僧七<lb
-ed="T" n="0877a22"/>人隷名矣。以<date from-iso="0786-02-08" key="j20081792008532" to-iso="0787-01-27">貞元二年</date>冬示疾，終于<placeName key="PL000000012408">寺</placeName>，則<lb
+ed="T" n="0877a22"/>人隷名矣。以<date from-iso="+0786-02-08" key="j20081792008532" to-iso="+0787-01-27"><name>貞元</name>二年</date>冬示疾，終于<placeName key="PL000000012408">寺</placeName>，則<lb
 ed="T" n="0877a23"/><anchor xml:id="beg0877001"/>跏<anchor xml:id="end0877001"/>趺而化也。春秋六十二，法臘三十一矣。</p>
     <linkGrp>
         <link targets="#0877a10 #0877a14"/>

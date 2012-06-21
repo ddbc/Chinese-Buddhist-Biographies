@@ -1,22 +1,22 @@
 <?xml version='1.0' encoding='utf-8'?>
-<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0808a16shiFaXiang">
-    <anchor n="T.50.2061.0808a16"/><head><date from-iso="0618-06-21" key="j19469512052491" to-iso="0907-06-06">唐</date>吳郡嘉禾靈光寺<persName key="A011570">法相</persName>傳</head><p><lb
-ed="T" n="0808a17"/><persName key="A011570">釋法相</persName>，姓俞氏，<placeName key="PL000000009867">吳長水</placeName>人也。<date from-iso="0742" key="j19921141997410" to-iso="0756">天寶</date>中誕育，為<lb
-ed="T" n="0808a18"/>孾兒卓異。<date key="j19982791998643" from-iso="0759-01-01" to-iso="0759-12-31">七歲</date>投師，受經法三浹旬，誦通<lb
-ed="T" n="0808a19"/>《法華》全部。<date key="j20030272003392" from-iso="0772-01-01" to-iso="0772-12-31">弱冠</date>往長安<placeName key="PL000000042180">安國寺</placeName>，得滿足戒，<lb
-ed="T" n="0808a20"/>即<date from-iso="0766" key="j20011912005747" to-iso="0779">人曆</date>中也。便於<placeName key="PL000000042189">上京</placeName>習毘尼道，諸部同<lb
+<div xmlns="http://www.tei-c.org/ns/1.0" type="明律" xml:id="gsz0808a16shiFaXiang"><lb
+ed="T" n="0808a16"/><anchor n="T.50.2061.0808a16"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date>吳郡嘉禾靈光寺<persName key="A011570">法相</persName>傳</head><p><lb
+ed="T" n="0808a17"/><persName key="A011570">釋法相</persName>，姓俞氏，<placeName key="PL000000009867">吳長水</placeName>人也。<date notBefore-iso="+0742-02-14" key="j19921141997410" notAfter-iso="+0756-08-15"><name>天寶</name>中</date>誕育，為<lb
+ed="T" n="0808a18"/>孾兒卓異。<date key="j19982791998643" from-iso="+0759-01-01" to-iso="+0759-12-31">七歲</date>投師，受經法三浹旬，誦通<lb
+ed="T" n="0808a19"/>《法華》全部。<date key="j20030272003392" from-iso="+0772-01-01" to-iso="+0772-12-31">弱冠</date>往長安<placeName key="PL000000042180">安國寺</placeName>，得滿足戒，<lb
+ed="T" n="0808a20"/>即<date notBefore-iso="+0766-12-22" key="j20011912005747" notAfter-iso="+0779-06-13"><anchor xml:id="beg0808sgsz3"/><choice resp="sgsz"><sic>人</sic><corr>大</corr></choice><anchor xml:id="end0808sgsz3"/>曆中</date>也。便於<placeName key="PL000000042189">上京</placeName>習毘尼道，諸部同<lb
 ed="T" n="0808a21"/>異，無不該綜，涉十一載，蔚成其業。傳法東<lb
 ed="T" n="0808a22"/>歸，請學者如林。<placeName key="PL000000009928">吳郡</placeName>太守奏於<placeName key="PL000000009882">開元寺</placeName>置<lb
 ed="T" n="0808a23"/>戒壇，<persName key="A011570">相</persName>預臨壇之選。尋充依止，兼眾推為<lb
 ed="T" n="0808a24"/>寺綱管，恒施二眾歸戒。行佩漉囊，器不畜<lb
-ed="T" n="0808a25"/>長。每有鳥棲于座側，馳斥不去。<date key="j20282982028298" when-iso="0841-03-10">會昌元年<lb
+ed="T" n="0808a25"/>長。每有鳥棲于座側，馳斥不去。<date key="j20282982028298" when-iso="+0841-03-10">會昌元年<lb
 ed="T" n="0808a26"/>二月十日</date>午時三刻，告弟子<persName key="A011575">清濬</persName>、<persName key="A011577">清高</persName>：「<persName key="A011570">吾</persName>當<lb
 ed="T" n="0808a27"/>滅矣。」儼然累足右脇而逝。時眾晝聞管絃<lb
 ed="T" n="0808a28"/>清亮，乃天樂也；夕覩異光。春秋八十九，僧臘<lb
-ed="T" n="0808a29"/>六十九。<date from-iso="0841-04-29" key="j20283482028377" to-iso="0841-05-28">四月</date>遷塔于來蘇鄉<!--找不到此地-->之原，白塔是也。<pb ed="T" n="0808b" xml:id="T50.2061.0808b"/><lb
+ed="T" n="0808a29"/>六十九。<date from-iso="+0841-04-29" key="j20283482028377" to-iso="+0841-05-28">四月</date>遷塔于來蘇鄉<!--找不到此地-->之原，白塔是也。<pb ed="T" n="0808b" xml:id="T50.2061.0808b"/><lb
 ed="T" n="0808b01"/>後弟子率義州<!--找不到此地-->刺史<persName key="A011585">曹信</persName>、大理司直<persName key="A011587">吳方重</persName><lb
 ed="T" n="0808b02"/>修塔，發之，見<persName key="A011570">相</persName>遺骨若銅色，舌相不壞，若<lb
-ed="T" n="0808b03"/>芙蓉焉。齒全四十二。香湯沐之，重葬，蓋<date key="j20473872047387" when-iso="0893-06-14">景<lb
+ed="T" n="0808b03"/>芙蓉焉。齒全四十二。香湯沐之，重葬，蓋<date key="j20473872047387" when-iso="+0893-06-14">景<lb
 ed="T" n="0808b04"/>福二年癸丑歲五月二十二日</date>也。<persName key="A011577">高</persName>弟子<persName key="A011591">公<lb
 ed="T" n="0808b05"/>靜</persName>，<persName key="A011591">靜</persName>弟子<persName key="A011593">行蘊</persName>，<persName key="A011593">蘊</persName>弟子<persName key="A011595">仁表</persName>，<persName key="A011595">表</persName>弟子<persName key="A011596">玄杲</persName>，<persName key="A011596">杲</persName><lb
 ed="T" n="0808b06"/>本清白之僧也，同<persName key="A011604">鴻啟</persName>重修<placeName key="PL000000012759">靈光</placeName>一寺，為<lb

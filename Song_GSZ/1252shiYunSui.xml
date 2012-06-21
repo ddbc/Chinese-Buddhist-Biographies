@@ -1,16 +1,16 @@
 <?xml version='1.0' encoding='utf-8'?>
-<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0894a07shiYunSui">
-    <anchor n="T.50.2061.0894a07"/><head><date from-iso="0618-06-21" key="j19469512052491" to-iso="0907-06-06">唐</date>京兆千福寺<persName key="A008825">雲邃</persName>傳（<persName key="A010904">清源</persName>）</head><p><lb
+<div xmlns="http://www.tei-c.org/ns/1.0" type="雜科聲德" xml:id="gsz0894a07shiYunSui"><lb
+ed="T" n="0894a07"/><anchor n="T.50.2061.0894a07"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date>京兆千福寺<persName key="A008825">雲邃</persName>傳（<persName key="A010904">清源</persName>）</head><p><lb
 ed="T" n="0894a08"/><persName key="A008825">釋雲邃</persName>，不知何許人也。通綜經論，解將行<lb
-ed="T" n="0894a09"/>兼。仍貫群書，號為該博。好遠汎愛，人無間<lb
-ed="T" n="0894a10"/>然。累朝詔入內道場，<date key="j20151402015327" notAfter-iso="0805" notBefore-iso="0805">順宗</date>已來，掌領譯務。<lb
-ed="T" n="0894a11"/><date key="j20153282016647" notAfter-iso="0809" notBefore-iso="0805">憲宗初</date>，句當右街諸寺觀釋道二教事，別勅<lb
+ed="T" n="0894a09"/>兼。仍貫群書，號為該博。好遠汎愛，人無<anchor xml:id="beg0894sgsz1"/>間<anchor xml:id="end0894sgsz1"/><lb
+ed="T" n="0894a10"/>然。累朝詔入內道場，<date key="j20151402015327" notAfter-iso="+0805-09-04" notBefore-iso="+0805-03-01">順宗</date>已來，掌領譯務。<lb
+ed="T" n="0894a11"/><date key="j20153282016647" notAfter-iso="+0809-04-16" notBefore-iso="+0805-09-05">憲宗初</date>，句當右街諸寺觀釋道二教事，別勅<lb
 ed="T" n="0894a12"/>充<placeName key="PL000000042216">西明</placeName>、<placeName key="PL000000042321">千福</placeName>兩寺上座。風猷淹雅，綱任肅然。<lb
-ed="T" n="0894a13"/>昔賢以<persName key="A001502">道生</persName>比<persName key="A002875">郭林宗</persName>，<persName key="A008825"><anchor xml:id="beg0894001"/>遂<anchor xml:id="end0894001"/>公</persName>有焉。次潤州<lb
-ed="T" n="0894a14"/><placeName key="PL000000009026">棲霞寺</placeName><persName key="A010904">釋清源</persName>，姓憑，南徐<placeName key="PL000000011063">延陵</placeName>人也。穉年貞<lb
+ed="T" n="0894a13"/>昔賢以<persName key="A001502">道生</persName>比<persName key="A002875">郭林宗</persName>，<persName key="A008825"><anchor xml:id="beg0894001"/><choice resp="sgsz"><sic>遂</sic><corr>邃</corr></choice><anchor xml:id="end0894001"/>公</persName>有焉。次潤州<lb
+ed="T" n="0894a14"/><placeName key="PL000000009026">棲霞寺</placeName><persName key="A010904">釋清源</persName>，姓<anchor xml:id="beg0894sgsz3"/>憑<anchor xml:id="end0894sgsz3"/>，南徐<placeName key="PL000000011063">延陵</placeName>人也。穉年貞<lb
 ed="T" n="0894a15"/>素，長亦弗群，俗態不拘，法流爰入。造<persName key="A008826">涉公</persName><lb
 ed="T" n="0894a16"/>為弟子焉。學贍經律，人罕疇匹。棲于<placeName key="PL000000009023">攝<lb
-ed="T" n="0894a17"/>山</placeName>，積其齡稔。<date key="j20209682021245" notAfter-iso="0821" notBefore-iso="0821">長慶初</date>，工部尚書<persName key="A009040">李相國德裕</persName><lb
+ed="T" n="0894a17"/>山</placeName>，積其齡稔。<date key="j20209682021245" notAfter-iso="+0821-11-17" notBefore-iso="+0821-02-13">長慶初</date>，工部尚書<persName key="A009040">李相國德裕</persName><lb
 ed="T" n="0894a18"/>鎮于浙西，洗心道域，延居<placeName key="PL000000010985">京口</placeName>，諮稟禪要，<lb
 ed="T" n="0894a19"/>雅契夙心。及<persName key="A009040">贊皇</persName>去郡，返錫<placeName key="PL000000009026">棲霞</placeName>，終于<lb
 ed="T" n="0894a20"/><placeName key="PL000000009026">住寺</placeName>。</p>

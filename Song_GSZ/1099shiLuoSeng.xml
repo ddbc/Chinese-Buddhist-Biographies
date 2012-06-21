@@ -1,13 +1,13 @@
 <?xml version='1.0' encoding='utf-8'?>
-<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0848b03shiLuoSeng">
-    <anchor n="T.50.2061.0848b03"/><head><date from-iso="0618-06-21" key="j19469512052491" to-iso="0907-06-06">唐</date>彭州九隴茶籠山<persName key="A012856">羅僧</persName>傳</head><p><lb
+<div xmlns="http://www.tei-c.org/ns/1.0" type="感通" xml:id="gsz0848b03shiLuoSeng"><lb
+ed="T" n="0848b03"/><anchor n="T.50.2061.0848b03"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date>彭州九隴茶籠山<persName key="A012856">羅僧</persName>傳</head><p><lb
 ed="T" n="0848b04"/><persName key="A012856">釋羅僧</persName>者，<placeName key="PL000000035107">蜀</placeName>聖寺中得果位人也。甞寢疾<lb
 ed="T" n="0848b05"/>於<placeName key="PL000000005250">五臺山</placeName>，同會僧人俱不<anchor xml:id="beg0848001"/>測<anchor xml:id="end0848001"/>也，而瞻視之，<lb
 ed="T" n="0848b06"/>曾無怠慢。將及九旬而病愈，臨訣之際曰：<lb
 ed="T" n="0848b07"/>「深感所苦，而煩看視，今遂平復，由師之力。<lb
 ed="T" n="0848b08"/>我住在<placeName key="PL000000035013">劍外九隴郡之茶籠山</placeName>爾。異日遊<lb
 ed="T" n="0848b09"/>方，無忘相訪也。」暮歲而至<placeName key="PL000000035107">蜀</placeName>，歷訪群峯，<lb
-ed="T" n="0848b10"/>遍訊老樵輩，且曰未甞聞茲山名。乃歎曰：<lb
+ed="T" n="0848b10"/>遍訊老樵輩，且曰未甞聞茲山名。乃<anchor xml:id="beg0848sgsz1"/>歎<anchor xml:id="end0848sgsz1"/>曰：<lb
 ed="T" n="0848b11"/>「噫，病禪之妄也？」將迴，遇山童曰：「某是彼巖<lb
 ed="T" n="0848b12"/>之聚沙者。」即前導而去，俄覩殿塔儼空，房<lb
 ed="T" n="0848b13"/>廊環肅，果值昔之臥病者，迎門敘故。日將<lb
@@ -15,7 +15,7 @@ ed="T" n="0848b14"/>暮矣，而謂之曰：「茲寺非得漏盡通不能<lb
 ed="T" n="0848b15"/>至此。爾以我宿緣一諧遘止。言寄宵乎，斯<lb
 ed="T" n="0848b16"/>為未可。爾其克勤修證，至此胡難？」乃命舊<lb
 ed="T" n="0848b17"/>童送師歸去。其僧迴望，但見巖壁峭峻，杉檜<lb
-ed="T" n="0848b18"/>莽蒼而已。則<date from-iso="0836" key="j20264282027904" to-iso="0840">開成</date>中也。時<persName key="A000753">悟達國師知玄</persName>著<lb
+ed="T" n="0848b18"/>莽蒼而已。則<date notBefore-iso="+0836-01-26" key="j20264282027904" notAfter-iso="+0840-02-10"><name>開成</name>中</date>也。時<persName key="A000753">悟達國師知玄</persName>著<lb
 ed="T" n="0848b19"/>傳之。次得僧<persName key="A012857">可思</persName>，尤閑地理，命為<persName key="A000753">玄</persName>作他<lb
 ed="T" n="0848b20"/>日安塋兆之地，得景丹前峯，其山若雉堞<lb
 ed="T" n="0848b21"/>狀，雖高低起伏，而中砥平。俄有里人耆老<lb

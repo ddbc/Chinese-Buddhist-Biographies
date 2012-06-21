@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='utf-8'?>
-<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0848a09shiFaJiang">
-    <anchor n="T.50.2061.0848a09"/><head><date from-iso="0618-06-21" key="j19469512052491" to-iso="0907-06-06">唐</date>成都府法聚寺<persName key="A012854">法江</persName>傳（<persName key="A019457">興善寺異僧</persName>）</head><p><lb
+<div xmlns="http://www.tei-c.org/ns/1.0" type="感通" xml:id="gsz0848a09shiFaJiang"><lb
+ed="T" n="0848a09"/><anchor n="T.50.2061.0848a09"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date>成都府法聚寺<persName key="A012854">法江</persName>傳（<persName key="A019457">興善寺異僧</persName>）</head><p><lb
 ed="T" n="0848a10"/><persName key="A012854">釋法江</persName>者，<placeName key="PL000000009926">江東</placeName>人也，來遊<placeName key="PL000000035107">岷蜀</placeName>，居于<placeName key="PL000000034739">法聚<lb
-ed="T" n="0848a11"/>寺</placeName>。<placeName key="PL000000034739">寺</placeName>即<persName key="A005582">隋蜀王秀</persName>之造也。<placeName key="PL000000034739">寺</placeName>內有<date key="j19406121942058" notAfter-iso="0605" notBefore-iso="0601">仁壽</date>中<persName key="A004324">文<lb
+ed="T" n="0848a11"/>寺</placeName>。<placeName key="PL000000034739">寺</placeName>即<persName key="A005582">隋蜀王秀</persName>之造也。<placeName key="PL000000034739">寺</placeName>內有<date key="j19406121942058" notAfter-iso="+0605-01-27" notBefore-iso="+0601-02-11">仁壽中</date><persName key="A004324">文<lb
 ed="T" n="0848a12"/>帝</persName>樹舍利塔。<persName key="A012854">江</persName>以慈憫為懷，多逆知其來，<lb
 ed="T" n="0848a13"/>言無少誤。甞在房中謂門人曰：「外有萬餘<lb
 ed="T" n="0848a14"/>人，盡戴帽形且攣䠰，從<persName key="A012854">吾</persName>乞救。汝速出<placeName key="PL000000034739">寺</placeName><lb
@@ -11,8 +11,8 @@ ed="T" n="0848a16"/>亂。徙倚之間，有數十人荷檐竹器中螺子<lb
 ed="T" n="0848a17"/>至，<persName key="A012854">江</persName>曰：「此之是歟？」命取錢贖之，投于水中<lb
 ed="T" n="0848a18"/>矣。</p>
     <p xml:id="pT50p0848a1901"><lb
-ed="T" n="0848a19"/>又<placeName key="PL000000042218">長安大興善寺</placeName>，本隋<placeName key="PL000000042308">舍衛寺</placeName>也，至唐<date from-iso="0712" key="j19813711981836" to-iso="0713">先天<lb
-ed="T" n="0848a20"/>中</date>火災，殿宇蕩然，唯遺基耳。<date from-iso="0656" key="j19606991962581" to-iso="0661">明慶</date>中東明觀<lb
+ed="T" n="0848a19"/>又<placeName key="PL000000042218">長安大興善寺</placeName>，本隋<placeName key="PL000000042308">舍衛寺</placeName>也，至唐<date notBefore-iso="+0712-09-16" key="j19813711981836" notAfter-iso="+0713-12-25"><name>先天</name><lb
+ed="T" n="0848a20"/>中</date>火災，殿宇蕩然，唯遺基耳。<date notBefore-iso="+0656-02-10" key="j19606991962581" notAfter-iso="+0661-04-06">明慶中</date>東明觀<lb
 ed="T" n="0848a21"/>道士<persName key="A005866">李榮</persName>者，本<placeName key="PL000000035431">巴西</placeName>人也，好事薄徒，多與<lb
 ed="T" n="0848a22"/>釋子爭競優劣。<persName key="A005866">榮</persName>來玄都觀，因率黃冠指<lb
 ed="T" n="0848a23"/>其灰燼而嘲之曰：「道善何曾善？言興且不<lb
@@ -22,7 +22,7 @@ ed="T" n="0848a26"/>二畝之地，化緣雖日盈千萬，計未能成。僧<lb
 ed="T" n="0848a27"/>眾搔首躇蹰，未知何理克成。忽有一<ref type="person" target="#A019457">僧</ref>，衣<lb
 ed="T" n="0848a28"/>服麁弊，形容憔悴，負一破囊入緣，言：「速了<lb
 ed="T" n="0848a29"/>佛殿。」步驟而去。啟視之，則黃金也，校耒之<pb ed="T" n="0848b" xml:id="T50.2061.0848b"/><lb
-ed="T" n="0848b01"/>一千兩矣。時人奇之，由此檀施日繁，殿速<lb
+ed="T" n="0848b01"/>一千兩矣。時人奇之，由此檀施<ptr type="glossary" target="#g237"/>日繁，殿速<lb
 ed="T" n="0848b02"/>成矣。</p>
     <linkGrp>
         <link targets="#0848a10 #0848a18"/>

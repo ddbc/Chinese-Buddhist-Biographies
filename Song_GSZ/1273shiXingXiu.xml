@@ -1,20 +1,20 @@
 <?xml version='1.0' encoding='utf-8'?>
-<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0898c19shiXingXiu">
-    <anchor n="T.50.2061.0898c19"/><head><date from-iso="0947-03-15" key="j20670182068464" to-iso="0951-02-28">漢</date>杭州耳相院<persName key="A008805">行脩</persName>傳</head><p><lb
+<div xmlns="http://www.tei-c.org/ns/1.0" type="雜科聲德" xml:id="gsz0898c19shiXingXiu"><lb
+ed="T" n="0898c19"/><anchor n="T.50.2061.0898c19"/><head><date from-iso="+0947-03-15" key="j20670182068464" to-iso="+0951-02-28">漢</date>杭州耳相院<persName key="A008805">行脩</persName>傳</head><p><lb
 ed="T" n="0898c20"/><persName key="A008805">釋行脩</persName>，俗姓陳，<placeName key="PL000000017906">泉州</placeName>人也。少投北巖院<!--找不到此地-->出<lb
 ed="T" n="0898c21"/>家，小心受課，誦念克勤。十三削髮，往<placeName key="PL000000017164">長<lb
 ed="T" n="0898c22"/>樂府</placeName>戒壇受上品律儀。年始十八，參雪峯山<lb
 ed="T" n="0898c23"/><persName key="A003677">存禪師</persName>，隨眾請問，未知詮旨。辭<persName key="A003677">存師</persName>，言<lb
-ed="T" n="0898c24"/>入<placeName key="PL000000008355">浙</placeName>去。<persName key="A003677">存</persName>曰：「與<persName key="A008805">汝</persName>理定容儀，令彼<anchor xml:id="beg0898006"/>二<anchor xml:id="end0898006"/>人<lb
+ed="T" n="0898c24"/>入<placeName key="PL000000008355">浙</placeName>去。<persName key="A003677">存</persName>曰：「與<persName key="A008805">汝</persName>理定容儀，令彼<anchor xml:id="beg0898006"/><choice resp="sgsz"><sic>二</sic><corr>土</corr></choice><anchor xml:id="end0898006"/>人<lb
 ed="T" n="0898c25"/>睹相發心。」遂指其耳曰：「輪郭幸長，垂璫猶<lb
 ed="T" n="0898c26"/>短，<persName key="A003677">吾</persName>為<persName key="A008805">汝</persName>伸之。」雙手平曳，登即及肩，如是<lb
-ed="T" n="0898c27"/>者三，自此長垂，見者舉目。<date key="j20596802060034" notAfter-iso="0928-01-30" notBefore-iso="0927-02-10">後唐天成二年丁<lb
-ed="T" n="0898c28"/>亥</date>歲入<placeName key="PL000000008355">浙</placeName>中，傾城瞻望，檀施紛紛。遂構室<lb
+ed="T" n="0898c27"/>者三，自此長垂，見者舉目。<date key="j20596802060034" notAfter-iso="+0928-01-30" notBefore-iso="+0927-02-10">後唐天成二年丁<lb
+ed="T" n="0898c28"/>亥</date>歲入<placeName key="PL000000008355">浙</placeName>中，傾城瞻望，檀施<ptr type="glossary" target="#g237"/>紛紛。遂構室<lb
 ed="T" n="0898c29"/>于西關高峯<!--找不到此地-->，為其宴息，後欝成大院。<persName key="A008805">脩</persName>別<pb ed="T" n="0899a" xml:id="T50.2061.0899a"/><lb
 ed="T" n="0899a01"/>無舉唱，默默而坐。人問，唯笑而止。士女牽<lb
-ed="T" n="0899a02"/>其耳交結於頤下，<placeName key="PL000000011518">杭</placeName>人號<persName key="A008805">長耳和尚</persName>。以<date key="j20683912068420" notAfter-iso="0951-01-15" notBefore-iso="0950-12-17">乾<lb
-ed="T" n="0899a03"/>祐三年庚戌歲十一月</date>示疾，動用如平時，<lb
-ed="T" n="0899a04"/>以<date key="j19617861961814" notAfter-iso="0659-03-01" notBefore-iso="0659-02-01">三月</date><!--無乾祐四年三月, 應為後周太祖廣順元年三月-->中夜坐終。檀越弟子以漆布，今亦存<lb
+ed="T" n="0899a02"/>其耳交結於頤下，<placeName key="PL000000011518">杭</placeName>人號<persName key="A008805">長耳和尚</persName>。以<date key="j20683912068420" notAfter-iso="+0951-01-15" notBefore-iso="+0950-12-17">乾<lb
+ed="T" n="0899a03"/>祐三年庚<anchor xml:id="beg0899sgsz1"/>戌<anchor xml:id="end0899sgsz1"/>歲十一月</date>示疾，動用如平時，<lb
+ed="T" n="0899a04"/>以<date key="j19617861961814" notAfter-iso="+0659-03-01" notBefore-iso="+0659-02-01">三月</date><!--無乾祐四年三月, 應為後周太祖廣順元年三月-->中夜坐終。檀越弟子以漆布，今亦存<lb
 ed="T" n="0899a05"/>焉。後寄夢<placeName key="PL000000012016">睦州</placeName>刺史<persName key="A013978">陳榮</persName>曰：「<persName key="A008805">吾</persName>坐下未完。」<lb
 ed="T" n="0899a06"/>檢之，元不漆布，重加工焉。</p>
     <linkGrp>

@@ -1,17 +1,17 @@
 <?xml version='1.0' encoding='utf-8'?>
-<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0777a07shiHengZheng">
-    <anchor n="T.50.2061.0777a07"/><head><date from-iso="0618-06-21" key="j19469512052491" to-iso="0907-06-06">唐</date>京師聖壽寺<persName key="A010524">恒政</persName>傳</head><p><lb
+<div xmlns="http://www.tei-c.org/ns/1.0" type="習禪" xml:id="gsz0777a07shiHengZheng">
+    <anchor n="T.50.2061.0777a07"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date>京師聖壽寺<persName key="A010524">恒政</persName>傳</head><p><lb
 ed="T" n="0777a08"/><persName key="A010524">釋恒政</persName>，姓周氏，<placeName key="PL000000022207">平原</placeName>人也。未入法前，隨入<lb
 ed="T" n="0777a09"/>鄉校，殊不嗜書籍。或見佛經，耽味不捨。後<lb
 ed="T" n="0777a10"/>棄俗從師，就本州<placeName key="PL000000022187">延和寺</placeName><persName key="A010525">詮澄法師</persName>下受<lb
 ed="T" n="0777a11"/>誦經法。既登戒已，問道於<placeName key="PL000000023255">嵩少</placeName>，決了無壅，<lb
 ed="T" n="0777a12"/>遁跡三峯<!--找不到此地-->，放蕩自<anchor xml:id="beg0777001"/>在<anchor xml:id="end0777001"/>。無幾，入<placeName key="PL000000042627">太一山</placeName>中，甫<lb
-ed="T" n="0777a13"/>行風教，學人螘慕。<date from-iso="0827" key="j20231922026427" to-iso="0836">太和中</date>，<persName key="A004169">文宗皇帝</persName>酷嗜蜃<lb
+ed="T" n="0777a13"/>行風教，學人螘慕。<date notBefore-iso="+0827-03-18" key="j20231922026427" notAfter-iso="+0836-01-25"><anchor xml:id="beg0777sgsz1"/>太<anchor xml:id="end0777sgsz1"/>和中</date>，<persName key="A004169">文宗皇帝</persName>酷嗜蜃<lb
 ed="T" n="0777a14"/>蛤，㳂海官吏先時遞進，人亦勞止。一日，御<lb
 ed="T" n="0777a15"/>饌中盈柈而進，有擘不張呀者，<persName key="A004169">帝</persName>觀其異，<lb
-ed="T" n="0777a16"/>即焚香祝之。俄為菩薩形，梵相克全，儀容<lb
+ed="T" n="0777a16"/>即焚香祝之。俄為菩薩形，<name>梵</name>相克全，儀容<lb
 ed="T" n="0777a17"/>可愛，遂致於金粟檀香合，以玉綿錦覆之，<lb
-ed="T" n="0777a18"/>賜<placeName key="PL000000042218">興善寺</placeName>，令致禮之。始宣問群臣：「斯何瑞<lb
+ed="T" n="0777a18"/>賜<placeName key="PL000000042218">興善寺</placeName>，令致<anchor xml:id="beg0777sgsz2"/>禮<anchor xml:id="end0777sgsz2"/>之。始宣問群臣：「斯何瑞<lb
 ed="T" n="0777a19"/>也？」相國李公<persName key="A009040">德裕</persName>奏曰：「<persName key="A009040">臣</persName>不足知，唯知聖<lb
 ed="T" n="0777a20"/>德昭應。其諸佛理，聞<placeName key="PL000000042627">終南山</placeName>有<persName key="A010524">恒政禪師</persName>，大<lb
 ed="T" n="0777a21"/>明佛法，博聞強識。」詔入宣問，<persName key="A010524">政</persName>曰：「<persName key="A010524">貧道</persName>聞物<lb
@@ -21,24 +21,24 @@ ed="T" n="0777a24"/>也。」<persName key="A004169">帝</persName>曰：「菩�
 ed="T" n="0777a25"/>覩此為常非常耶？信非信耶？」<persName key="A004169">帝</persName>曰：「希奇事<lb
 ed="T" n="0777a26"/><persName key="A004169">朕</persName>深信焉。」<persName key="A010524">政</persName>曰：「<persName key="A004169">陛下</persName>已聞說法了。」<persName key="A004169">皇</persName>情悅<lb
 ed="T" n="0777a27"/>豫，得未曾有，勅天下寺院各立觀音像，以<lb
-ed="T" n="0777a28"/>答殊休。其菩薩，至<date from-iso="0841" key="j20282682030170" to-iso="0846">會昌</date>毀佛舍，乃亡所在。<lb
+ed="T" n="0777a28"/>答殊休。其菩薩，至<date from-iso="+0841-02-08" key="j20282682030170" to-iso="+0846-04-25">會昌</date>毀佛舍，乃亡所在。<lb
 ed="T" n="0777a29"/>因留<persName key="A010524">政</persName>內道場中，累辭入山，宣住<placeName key="PL000000042412">聖壽寺</placeName>，<pb ed="T" n="0777b" xml:id="T50.2061.0777b"/><lb
-ed="T" n="0777b01"/>至<persName key="A006570">武宗</persName><date key="j20278642028229" from-iso="0840-01-01" to-iso="0840-12-31">即位</date>，忽入<placeName key="PL000000042627">終南</placeName>。或問其故，曰：「<persName key="A010524">吾</persName>避<lb
+ed="T" n="0777b01"/>至<persName key="A006570">武宗</persName><date key="j20278642028229" from-iso="+0840-01-01" to-iso="+0840-12-31">即位</date>，忽入<placeName key="PL000000042627">終南</placeName>。或問其故，曰：「<persName key="A010524">吾</persName>避<lb
 ed="T" n="0777b02"/>仇，烏可已乎哉？」後終山舍，年八十七。闍維，<lb
-ed="T" n="0777b03"/>收舍利四十九粒，以<date key="j20292372029237" when-iso="0843-10-05">會昌三年九月四日</date>入<lb
+ed="T" n="0777b03"/>收舍利四十九粒，以<date key="j20292372029237" when-iso="+0843-10-05">會昌三年九月四日</date>入<lb
 ed="T" n="0777b04"/>塔。後有廢教之勅，<persName key="A010524">政</persName>之先見，若<anchor xml:id="beg0777002"/>合<anchor xml:id="end0777002"/>符節<lb
 ed="T" n="0777b05"/>焉。</p>
     <p><lb
 ed="T" n="0777b06"/>系曰：蜃蛤中胡得菩薩像乎？通曰：「有所警<lb
 ed="T" n="0777b07"/>發，時一現耳。近聞偽唐李氏國境荐饑，陂湖<lb
 ed="T" n="0777b08"/>間多生蠯蚌，百姓競取而食。其年免殍仆<lb
-ed="T" n="0777b09"/>者十有七八。明年豐，民猶<app type="cb-app" xml:id="begd1e18618"/>采<anchor xml:id="endd1e18618"/>之。無何<ptr type="glossary" target="#g493"/>，有獲<lb
+ed="T" n="0777b09"/>者十有七八。明年豐，民猶采之。無何<ptr type="glossary" target="#g493"/>，有獲<lb
 ed="T" n="0777b10"/>巨蚌可二尺餘，提歸擘磔，擊𤅢曾無少損。<lb
 ed="T" n="0777b11"/>其人呪垂放之，俄自開張，吐出佛像，長僅<lb
 ed="T" n="0777b12"/>尺許，相好具全，若真珠色，號曰：『珠佛』焉。獻<lb
-ed="T" n="0777b13"/>李氏，後遺與梵僧焉。此意所不及處現形<lb
+ed="T" n="0777b13"/>李氏，後遺與<name>梵</name>僧焉。此意所不及處現形<lb
 ed="T" n="0777b14"/>者，蓋經中化肉山魚米以資饑饉。歲既豐<lb
-ed="T" n="0777b15"/>登，胡不屬厭，故現相止足之<anchor xml:id="beg0777003"/>地<anchor xml:id="end0777003"/>。」</p>
+ed="T" n="0777b15"/>登，胡不屬厭，故現相止足之<anchor xml:id="beg0777003"/><choice resp="sgsz"><sic>地</sic><corr>也</corr></choice><anchor xml:id="end0777003"/>。」</p>
     <linkGrp>
         <link targets="#0777a10 #0777a11"/>
         <ptr target="#A010524" type="person"/>

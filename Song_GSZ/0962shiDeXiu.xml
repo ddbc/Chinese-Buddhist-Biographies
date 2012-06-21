@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='utf-8'?>
-<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0796a12shiDeXiu">
-    <anchor n="T.50.2061.0796a12"/><head><date from-iso="0618-06-21" key="j19469512052491" to-iso="0907-06-06">唐</date>杭州靈智寺<persName key="A010849">德秀</persName>傳</head><p><lb
+<div xmlns="http://www.tei-c.org/ns/1.0" type="明律" xml:id="gsz0796a12shiDeXiu"><lb
+ed="T" n="0796a12"/><anchor n="T.50.2061.0796a12"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date>杭州靈智寺<persName key="A010849">德秀</persName>傳</head><p><lb
 ed="T" n="0796a13"/><persName key="A010849">釋德秀</persName>，俗姓孫氏，<placeName key="PL000000012060">富陽</placeName>人也。少出塵區，早<lb
-ed="T" n="0796a14"/>棲梵宇。當圓戒檢正護浮囊，匪定常師，<lb
+ed="T" n="0796a14"/>棲<name>梵</name>宇。當圓戒檢正護浮囊，匪定常師，<lb
 ed="T" n="0796a15"/>留神律府。講談之外，嘗哀鬼神乏食，恒以<lb
-ed="T" n="0796a16"/>深更施其飲食。<placeName key="PL000000008367">浙</placeName>汭<note resp="sgsz">汭，音「鋭」，河水彎曲的地方，或兩條河會合之處，或河岸。《說文解字．卷十一上》：「汭，水相入也。」又《左傳．閔公二年》：「虢公敗犬戎于渭汭。」<persName key="A007298">杜預</persName>注：「水之隈曲曰『汭』。」再《尚書．卷五》：「弱水旣西，涇屬渭汭。」<persName key="A019599">孔安國</persName>傳：「水北曰『汭』。」</note>之民，傾誠畏服。及終<lb
-ed="T" n="0796a17"/><app type="multiplier" xml:id="begd1e23954"/>於<anchor xml:id="endd1e23954"/><placeName key="PL000000009399">定山</placeName>，頗多靈異，則<date from-iso="0742" key="j19921141993438" to-iso="0745">天寶初載</date>也。遷神座<lb
-ed="T" n="0796a18"/>入塔時，天降舍利七顆，門人以瓶盛之，緘<lb
+ed="T" n="0796a16"/>深更施其飲食。<placeName key="PL000000008367">浙</placeName>汭<ptr target="#n1485"/>之民，傾誠畏服。及終<lb
+ed="T" n="0796a17"/><anchor xml:id="begd1e23954"/>於<anchor xml:id="endd1e23954"/><placeName key="PL000000009399">定山</placeName>，頗多靈異，則<date from-iso="+0742-02-14" key="j19921141993438" to-iso="+0745-09-30"><name>天寶</name>初載</date>也。遷神座<lb
+ed="T" n="0796a18"/>入塔時，天降舍利七顆，門人以<anchor xml:id="beg0796sgsz2"/>瓶<anchor xml:id="end0796sgsz2"/>盛之，緘<lb
 ed="T" n="0796a19"/>于其塔。或發之，見<persName key="A010849">秀</persName>齒上生舍利，紛紛而<lb
 ed="T" n="0796a20"/>墜。後人還累甓成浮圖。鄉人云：「恒有白蛇<lb
 ed="T" n="0796a21"/>蟠屈守塔，樵牧之童無敢近者。」</p>

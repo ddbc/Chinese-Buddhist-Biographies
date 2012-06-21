@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='utf-8'?>
-<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0751b22shiYiChu"><lb
-ed="T" n="0751b22"/><anchor n="T.50.2061.0751b22"/><head><date from-iso="0960-02-09" key="j20717322132856" to-iso="1127-06-18"><anchor xml:id="beg0751sgsz5"/>宋<anchor xml:id="end0751sgsz5"/></date><placeName key="PL000000020243">齊州開元寺</placeName><persName key="A001474">義楚</persName>傳（<persName key="A010033">修進</persName> <persName key="A010034">省倫</persName>）</head><p><lb
+<div xmlns="http://www.tei-c.org/ns/1.0" type="義解" xml:id="gsz0751b22shiYiChu"><lb
+ed="T" n="0751b22"/><anchor n="T.50.2061.0751b22"/><head><date from-iso="+0960-02-09" key="j20717322132856" to-iso="+1127-06-18"><anchor xml:id="beg0751sgsz6"/>宋<anchor xml:id="end0751sgsz6"/></date><placeName key="PL000000020243">齊州開元寺</placeName><persName key="A001474">義楚</persName>傳（<persName key="A010033">修進</persName> <persName key="A010034">省倫</persName>）</head><p><lb
 ed="T" n="0751b23"/><persName key="A001474">釋義楚</persName>，俗姓裴氏，祖<placeName key="PL000000024078">相州安陽</placeName>人也。<persName key="A001474">楚</persName>七歲<lb
 ed="T" n="0751b24"/>來省<placeName key="PL000000020264">歷下</placeName>，臨壇大德<persName key="A010033">修進</persName>因為出家師也。<lb
 ed="T" n="0751b25"/><persName key="A010033">進</persName>乃<persName key="A001474">楚</persName>之諸父也。季父<ptr type="glossary" target="#g1281"/><persName key="A010034">省倫</persName>居<placeName key="PL000000020814">香嚴院</placeName>。<persName key="A010033">進</persName>也<lb
-ed="T" n="0751b26"/>誦《觀音普門支經》向十萬遍，立<anchor xml:id="beg0751sgsz6"/>禮<anchor xml:id="end0751sgsz6"/>《法華經》，<lb
+ed="T" n="0751b26"/>誦《觀音普門支經》向十萬遍，立<anchor xml:id="beg0751sgsz8"/>禮<anchor xml:id="end0751sgsz8"/>《法華經》，<lb
 ed="T" n="0751b27"/>字字各拜，拜且徹部焉。<persName key="A010034">倫</persName>則<placeName key="PL000000020812">青丘</placeName>主宰，禪居<lb
 ed="T" n="0751b28"/>誦《大悲》、《佛頂》俱一億遍。<persName key="A001474">楚</persName>執柯<anchor xml:id="beg0751005"/>伐<anchor xml:id="end0751005"/>木<ptr type="glossary" target="#g1282"/>，熏習<ptr type="glossary" target="#g1090"/><lb
 ed="T" n="0751b29"/>相資，登此近圓<ptr type="glossary" target="#g1188"/>，勤學不懈，敏慧夙成，「俱舍」<pb ed="T" n="0751c" xml:id="T50.2061.0751c"/><lb
@@ -15,9 +15,9 @@ ed="T" n="0751c04"/>帖》，纂釋氏義理、文章、庶事、群品，以類
 ed="T" n="0751c05"/>建其門目，總括大綱，計五十部。隨事別列<lb
 ed="T" n="0751c06"/>四百四十門，始從〈法王利見部〉，終〈師子獸類<lb
 ed="T" n="0751c07"/>部〉，其間物類，檢括周旋，令供筆之時必無<lb
-ed="T" n="0751c08"/>告乏矣。一十年中，孜孜罔倦。起<date from-iso="0945-02-20" key="j20662652069897" to-iso="0955-01-31">晉開運二<lb
+ed="T" n="0751c08"/>告乏矣。一十年中，孜孜罔倦。起<date from-iso="+0945-02-20" key="j20662652069897" to-iso="+0955-01-31">晉開運二<lb
 ed="T" n="0751c09"/>年至顯德元年</date>畢，進呈<ptr target="#n1279"/>，<persName key="A006586">世宗</persName>勅付史館，賜<lb
-ed="T" n="0751c10"/>紫衣，仍加號<persName key="A001474">明教大師</persName>。以<date from-iso="0968" key="j20749702077860" to-iso="0976">開寶</date>中終于<placeName key="PL000000021092">龍<lb
+ed="T" n="0751c10"/>紫衣，仍加號<persName key="A001474">明教大師</persName>。以<date notBefore-iso="+0968-12-21" key="j20749702077860" notAfter-iso="+0976-11-19">開寶中</date>終于<placeName key="PL000000021092">龍<lb
 ed="T" n="0751c11"/>興伽藍</placeName>。俗壽七十四，法臘五十四。<persName key="A001474">楚</persName>始謀此<lb
 ed="T" n="0751c12"/>作，隨得便書，裒多益寡<ptr type="glossary" target="#g1283"/>，日居月諸<ptr type="glossary" target="#g1284"/>，欝成編<lb
 ed="T" n="0751c13"/>錄。忽因<ref type="place" target="#PL000000020243">本院</ref>門古石上有六帖二字，天然<lb

@@ -1,17 +1,17 @@
 <?xml version='1.0' encoding='utf-8'?>
-<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0817b12shiZhiChang">
-    <anchor n="T.50.2061.0817b12"/><head><date from-iso="0618-06-21" key="j19469512052491" to-iso="0907-06-06">唐</date>廬山歸宗寺<persName key="A003865">智常</persName>傳</head><p><lb
+<div xmlns="http://www.tei-c.org/ns/1.0" type="護法" xml:id="gsz0817b10shiZhiChang"><lb
+ed="T" n="0817b10"/><anchor n="T.50.2061.0817b10"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date>廬山歸宗寺<persName key="A003865">智常</persName>傳</head><p><lb
 ed="T" n="0817b11"/><persName key="A003865">釋智常</persName>者，挺拔出倫，操履清約，遍參知識，<lb
 ed="T" n="0817b12"/>影附南泉<!--找不到此地-->，同遊<persName key="A003623">大寂</persName>之門，乃見<persName key="A003623">江西</persName>之道。<lb
-ed="T" n="0817b13"/><date from-iso="0806" key="j20154742020606" to-iso="0820">元和</date>中，駐錫廬山<placeName key="PL000000018960">歸宗淨院</placeName>。其徒響應，其法<lb
+ed="T" n="0817b13"/><date notBefore-iso="+0806-01-29" key="j20154742020606" notAfter-iso="+0820-02-17"><name>元和</name>中</date>，駐錫廬山<placeName key="PL000000018960">歸宗淨院</placeName>。其徒響應，其法<lb
 ed="T" n="0817b14"/>風行。無何<ptr type="glossary" target="#g493"/>，<persName key="A004029">白樂天</persName>貶<placeName key="PL000000018846">江州</placeName>司馬，最加欽重。<lb
-ed="T" n="0817b15"/>續以<persName key="A009365">李渤</persName>員外，<date from-iso="0811-02-01" key="j20173032017687" to-iso="0812-02-20">元和六年</date>隱<placeName key="PL000000023255">嵩少</placeName>，以著作<lb
-ed="T" n="0817b16"/>徵起，<persName key="A009701">杜元頴</persName>排之，出為<placeName key="PL000000019114">虔州</placeName><app type="multiplier" xml:id="begd1e29663"/>刺<anchor xml:id="endd1e29663"/>史<placeName key="PL000000019349">南康</placeName>，<lb
+ed="T" n="0817b15"/>續以<persName key="A009365">李渤</persName>員外，<date from-iso="+0811-02-01" key="j20173032017687" to-iso="+0812-02-20"><name>元和</name>六年</date>隱<placeName key="PL000000023255">嵩少</placeName>，以著作<lb
+ed="T" n="0817b16"/>徵起，<persName key="A009701">杜元頴</persName>排之，出為<placeName key="PL000000019114">虔州</placeName><anchor xml:id="begd1e29663"/>刺<anchor xml:id="endd1e29663"/>史<placeName key="PL000000019349">南康</placeName>，<lb
 ed="T" n="0817b17"/>曾未卒歲，遷<placeName key="PL000000018846">江州</placeName>刺史。<persName key="A009365">渤</persName>洽聞多識，百家<lb
 ed="T" n="0817b18"/>之書，無不該綜，號<persName key="A009365">李萬卷</persName>矣。到郡，喜與<persName key="A004029">白<lb
 ed="T" n="0817b19"/>樂天</persName>相遇，因言<placeName key="PL000000018847">潯陽</placeName><placeName key="PL000000018775">廬阜</placeName>山水之最，人物賢<lb
 ed="T" n="0817b20"/>哲隱淪。論<persName key="A001204">惠遠</persName>遺迹，遂述歸宗禪師善談<lb
-ed="T" n="0817b21"/>禪要，<persName key="A009365">李</persName>曰：「朝廷金牓早晚有嗜菜阿師名<lb
+ed="T" n="0817b21"/>禪要，<persName key="A009365">李</persName>曰：「朝<anchor xml:id="beg0817sgsz5"/>廷<anchor xml:id="end0817sgsz5"/>金牓早晚有嗜菜阿師名<lb
 ed="T" n="0817b22"/>目。」<persName key="A004029">白</persName>曰：「若然，則未識食菜阿師歟？」<persName key="A004029">白</persName>彊勸<lb
 ed="T" n="0817b23"/>遊二林，意同見<persName key="A003865">常</persName>耳。及到歸宗，<persName key="A009365">李</persName>問曰：「教<lb
 ed="T" n="0817b24"/>中有言，須彌納芥子，芥子納須彌。如何芥<lb
@@ -22,7 +22,7 @@ ed="T" n="0817b28"/>言，再思稱歎。續有<placeName key="PL000000018801">�
 ed="T" n="0817b29"/>論，問「觸目菩提」，<persName key="A003865">常</persName>略提舉。<persName key="A011939">神建</persName>不體，乃發<pb ed="T" n="0817c" xml:id="T50.2061.0817c"/><lb
 ed="T" n="0817c01"/>狀訟<persName key="A003865">常</persName>示惡境界。時<persName key="A009365">李</persName>判區分甚聞詣<lb
 ed="T" n="0817c02"/>理。<persName key="A003865">常</persName>有異相，目耀重瞳，遂將藥<anchor xml:id="beg0817003"/>燻<anchor xml:id="end0817003"/>手，恒<lb
-ed="T" n="0817c03"/>磨錯，不覺目眦紅，號赤眼歸宗矣。</p>
+ed="T" n="0817c03"/>磨錯，不覺目眦<anchor xml:id="beg0817sgsz7"/>紅<anchor xml:id="end0817sgsz7"/>，號赤眼歸宗矣。</p>
     <p xml:id="pT50p0817c0401"><lb
 ed="T" n="0817c04"/>系曰：佛理幽邃，一言蔽之者，玄解之言。逗<lb
 ed="T" n="0817c05"/>猛利者，藥妙疾輕之驗也。</p>

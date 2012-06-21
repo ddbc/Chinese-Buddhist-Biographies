@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='utf-8'?>
-<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0824c17shiDaoJian">
-    <anchor n="T.50.2061.0824c17"/><head><date from-iso="0618-06-21" key="j19469512052491" to-iso="0907-06-06">唐</date>齊州靈巖寺<persName key="A012146">道鑒</persName>傳</head><p><lb
-        ed="T" n="0824c18"/><persName key="A012146">釋道鑒</persName>，姓馮氏，<placeName key="PL000000009928">吳郡</placeName><anchor xml:id="beg0824sgsz14"/>人<anchor xml:id="end0824sgsz14"/>。未知從來，而居歷<lb
-ed="T" n="0824c19"/>下<placeName key="PL000000020295">靈巖山寺</placeName>，蹤迹神異，不測僧也。<date from-iso="0806" key="j20154742020606" to-iso="0820">元和</date>中，有<lb
+<div xmlns="http://www.tei-c.org/ns/1.0" type="感通" xml:id="gsz0824c17shiDaoJian">
+    <anchor n="T.50.2061.0824c17"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date>齊州靈巖寺<persName key="A012146">道鑒</persName>傳</head><p><lb
+ed="T" n="0824c18"/><persName key="A012146">釋道鑒</persName>，姓馮氏，<placeName key="PL000000009928">吳郡</placeName><anchor xml:id="beg0824sgsz14"/>人<anchor xml:id="end0824sgsz14"/>。未知從來，而居歷<lb
+ed="T" n="0824c19"/>下<placeName key="PL000000020295">靈巖山寺</placeName>，蹤迹神異，不測僧也。<date notBefore-iso="+0806-01-29" key="j20154742020606" notAfter-iso="+0820-02-17"><name>元和</name>中</date>，有<lb
 ed="T" n="0824c20"/><persName key="A012147">馮生</persName>者，亦<placeName key="PL000000009928">吳郡</placeName>人也，以明經調選未捷，因<lb
-ed="T" n="0824c21"/>僑寄<placeName key="PL000000042189">長安</placeName>。一日見老僧來，詣<persName key="A012147">馮</persName>居，謂之曰：<lb
-ed="T" n="0824c22"/>「<persName key="A012147">汝</persName><persName key="A012146">吾</persName>姓也。」因相與往還，僅于歲餘遂注擬<lb
+ed="T" n="0824c21"/>僑寄<placeName key="PL000000042189">長安</placeName>。一日見老僧來詣<persName key="A012147">馮</persName>居，謂之曰：<lb
+ed="T" n="0824c22"/>「<persName key="A012147">汝</persName><persName key="A012146">吾</persName>姓也。」因相與往還，僅于歲餘，遂注擬<lb
 ed="T" n="0824c23"/>作尉于<placeName key="PL000000008353">東越</placeName>。方務治裝，<persName key="A012146">鑒</persName>負錫來告去。<lb
 ed="T" n="0824c24"/><persName key="A012147">馮</persName>問：「<persName key="A012146">師</persName>去，安所詣乎？」<persName key="A012146">鑒</persName>曰：「<persName key="A012146">吾</persName>廬在齊州<placeName key="PL000000020295">靈巖<lb
-    ed="T" n="0824c25"/></placeName>之西廡下，薄遊<ptr type="glossary" target="#g674"/><placeName key="PL000000042189">神京</placeName>，至今正十年矣。幸得<lb
+ed="T" n="0824c25"/></placeName>之西廡下，薄遊<ptr type="glossary" target="#g674"/><placeName key="PL000000042189">神京</placeName>，至今正十年矣。幸得<lb
 ed="T" n="0824c26"/>與<persName key="A012147">子</persName>遊，今歸舊所，故來相別。然吾子尉于<lb
 ed="T" n="0824c27"/><placeName key="PL000000008353">越鄉</placeName>，道出<placeName key="PL000000020295">靈巖寺</placeName>下，當宜一訪<persName key="A012146">我</persName>也。」<persName key="A012147">馮</persName>諾<lb
 ed="T" n="0824c28"/>之曰：「謹受教矣。」數日，<persName key="A012147">馮</persName>出關東之赴任，<lb
@@ -22,26 +22,26 @@ ed="T" n="0825a06"/>之，視其真相旁題云　：「馮氏子，<placeName k
 ed="T" n="0825a07"/>十歲學浮圖法，以道行有聞，卒年七十八。」<lb
 ed="T" n="0825a08"/><persName key="A012147">馮</persName>閱其題，方悟云「<persName key="A012147">汝</persName><persName key="A012146">吾</persName>姓也」，言非謬矣。一<lb
 ed="T" n="0825a09"/>說<placeName key="PL000000009928">蘇州</placeName>西去城二十許里，有<placeName key="PL000000010068">靈巖山寺</placeName>，西北<lb
-ed="T" n="0825a10"/>廡下畫沙門形，云是<date from-iso="0516-02-20" key="j19095751909929" to-iso="0517-02-08">梁天監十五年</date>作遊方<lb
+ed="T" n="0825a10"/>廡下畫沙門形，云是<date from-iso="+0516-02-20" key="j19095751909929" to-iso="+0517-02-08">梁天監十五年</date>作遊方<lb
 ed="T" n="0825a11"/>居士狀，經過<placeName key="PL000000010068">山寺</placeName>，寓過宵宿，而於僧厨借<lb
 ed="T" n="0825a12"/>筆硯，僧眾皆不留意。詰旦，僧遍搜索而亡<lb
-ed="T" n="0825a13"/>有客，見殿隅畫一梵僧，面骨權奇，膚色皴<lb
+ed="T" n="0825a13"/>有客，見殿隅畫一<name>梵</name>僧，面骨權奇，膚色皴<lb
 ed="T" n="0825a14"/>黑，眉長<anchor xml:id="beg0825002"/>且<anchor xml:id="end0825002"/>垂，眸子電轉，眥間青白，昂鼻方<lb
 ed="T" n="0825a15"/>口，張脣露齒，擎拳倚右肩之上，身屈可長一<lb
-    ed="T" n="0825a16"/>丈五寸，衣麁<anchor xml:id="beg0825sgsz1"/>衲<anchor xml:id="end0825sgsz1"/>袈裟，臂擐大珠，徒跣。眾見<lb
-        ed="T" n="0825a17"/>驚懾，莫測其來。遠近咸格，有焚香<anchor xml:id="beg0825sgsz2"/>禮<anchor xml:id="end0825sgsz2"/><anchor xml:id="beg0825sgsz3"/>歎<anchor xml:id="end0825sgsz3"/>者，<lb
-            ed="T" n="0825a18"/>有請福<anchor xml:id="beg0825sgsz4"/>禳<anchor xml:id="end0825sgsz4"/>災者。或於晴夜，殿中析窣，聞有<lb
+ed="T" n="0825a16"/>丈五寸，衣麁<anchor xml:id="beg0825sgsz1"/>衲<anchor xml:id="end0825sgsz1"/>袈裟，臂擐大珠，徒跣。眾見<lb
+ed="T" n="0825a17"/>驚懾，莫測其來。遠近咸格，有焚香<anchor xml:id="beg0825sgsz2"/>禮<anchor xml:id="end0825sgsz2"/><anchor xml:id="beg0825sgsz3"/>歎<anchor xml:id="end0825sgsz3"/>者，<lb
+    ed="T" n="0825a18"/>有請福<anchor xml:id="beg0825sgsz4"/>禳<anchor xml:id="end0825sgsz4"/>災者。或於晴夜，殿中析窣，聞有<lb
 ed="T" n="0825a19"/>行道之聲。由是鳥雀不敢污踐簷楹之間<lb
 ed="T" n="0825a20"/>矣。然則鄉人謂之<persName key="A012146">靈巖和尚</persName>，或云<persName key="A012146">靈巖聖僧</persName>。<lb
 ed="T" n="0825a21"/>甞見形謂一老姥曰：「<persName key="A012146">貧道</persName>好食茭粽。」疑是<lb
-    ed="T" n="0825a22"/>聖者，翌日持<anchor xml:id="beg0825sgsz5"/>簟<anchor xml:id="end0825sgsz5"/>入殿供養，<anchor xml:id="beg0825003"/>乞<anchor xml:id="end0825003"/>今年別三月<lb
-        ed="T" n="0825a23"/>三日民競送之，以<anchor xml:id="beg0825sgsz6"/>菰<anchor xml:id="end0825sgsz6"/>蔣葉角黍米𤅢之，<placeName key="PL000000009928">吳</placeName><lb
-ed="T" n="0825a24"/>人謂之茭粽也。唐<date from-iso="0713-02-04" key="j19815121981836" to-iso="0713-12-25">先天二年</date>，<persName key="A012149">陸魯公</persName>子疾，醫<lb
+ed="T" n="0825a22"/>聖者，翌日持<anchor xml:id="beg0825sgsz5"/>簟<anchor xml:id="end0825sgsz5"/>入殿供養，<anchor xml:id="beg0825003"/>乞<anchor xml:id="end0825003"/>今年別三月<lb
+ed="T" n="0825a23"/>三日民競送之，以<anchor xml:id="beg0825sgsz6"/>菰<anchor xml:id="end0825sgsz6"/>蔣葉角黍米𤅢之，<placeName key="PL000000009928">吳</placeName><lb
+ed="T" n="0825a24"/>人謂之茭粽也。唐<date from-iso="+0713-02-04" key="j19815121981836" to-iso="+0713-12-25"><name>先天</name>二年</date>，<persName key="A012149">陸魯公</persName>子疾，醫<lb
 ed="T" n="0825a25"/>工未驗，<persName key="A012149">公</persName>憂慮增劇。門遇一僧分衛，屈入，<lb
 ed="T" n="0825a26"/>遂索水器含噀之，即時病間。<persName key="A012149">魯公</persName>喜，贈物頗<lb
 ed="T" n="0825a27"/>豐，了不迴視。遂問：「<persName key="A012146">和尚</persName>居處何寺？」答曰：「<persName key="A012146">貧<lb
 ed="T" n="0825a28"/>道</persName>住蘇州吳縣西<placeName key="PL000000010068">靈巖寺</placeName>。郎君為官<placeName key="PL000000000197">江表</placeName>，望<lb
-    ed="T" n="0825a29"/>入<placeName key="PL000000010068">寺</placeName>相尋。」斯須<anchor xml:id="beg0825sgsz7"/>已<anchor xml:id="end0825sgsz7"/>去。未久，調補尚書<anchor xml:id="beg0825004"/>刑<anchor xml:id="end0825004"/>部<pb ed="T" n="0825b" xml:id="T50.2061.0825b"/><lb
+ed="T" n="0825a29"/>入<placeName key="PL000000010068">寺</placeName>相尋。」斯須已去。未久，調補尚書<anchor xml:id="beg0825004"/>刑<anchor xml:id="end0825004"/>部<pb ed="T" n="0825b" xml:id="T50.2061.0825b"/><lb
 ed="T" n="0825b01"/>郎，續遷<placeName key="PL000000032245">桂州</placeName>廉使。常念當年救病之<persName key="A012146">僧</persName>，迂<lb
 ed="T" n="0825b02"/>路<placeName key="PL000000009928">姑蘇</placeName>，入<placeName key="PL000000010068">靈巖寺</placeName>覓焉。乃說其形貌，合寺<lb
 ed="T" n="0825b03"/>僧云：「非此所有。」<persName key="A012152">陸</persName>盡日徘徊不忍去，忽於<lb
@@ -49,27 +49,27 @@ ed="T" n="0825b04"/>殿中見聖者形，曰：「往年療某者，此<persName
 ed="T" n="0825b05"/>僧說其由致，通感難知。<persName key="A012152">陸</persName>捨錢數萬，備香<lb
 ed="T" n="0825b06"/>火之資，却留旬日，供養方去。又<placeName key="PL000000010068">寺</placeName>中淨人每<lb
 ed="T" n="0825b07"/>於像前占燭燈，添油助燼，意盜油塗髮<lb
-    ed="T" n="0825b08"/>耳。居無何<ptr type="glossary" target="#g493"/>，其髮焦卷而墮，傍人勸令<anchor xml:id="beg0825sgsz8"/>禮<anchor xml:id="end0825sgsz8"/>懺，<lb
-ed="T" n="0825b09"/>別買麻膏增炷，平復如初。又<date key="j20279082030170" notAfter-iso="0846" notBefore-iso="0840">武宗</date>將廢佛<lb
+ed="T" n="0825b08"/>耳。居無何<ptr type="glossary" target="#g493"/>，其髮焦卷而墮，傍人勸令<anchor xml:id="beg0825sgsz8"/>禮<anchor xml:id="end0825sgsz8"/>懺，<lb
+ed="T" n="0825b09"/>別買麻膏增炷，平復如初。又<date key="j20279082030170" notAfter-iso="+0846-04-25" notBefore-iso="+0840-02-14">武宗</date>將廢佛<lb
 ed="T" n="0825b10"/>教也，近<placeName key="PL000000010068">寺</placeName>有<persName key="A012153">陸宣</persName>者，夢聖者云：「受<persName key="A012153">弟子</persName><lb
 ed="T" n="0825b11"/>供施年深，今來相別，且歸西天去也。」<persName key="A012153">宣</persName>急<lb
-ed="T" n="0825b12"/>命畫工圖寫真貌。至<date from-iso="0845-02-15" key="j20297362030089" to-iso="0846-02-03">會昌五年</date>，毀拆<placeName key="PL000000010068">寺宇</placeName>，<lb
-ed="T" n="0825b13"/>方知告別之意焉。距<date from-iso="0866-01-25" key="j20373852037768" to-iso="0867-02-12">咸通七年</date>蝗災，爾時<lb
+ed="T" n="0825b12"/>命畫工圖寫真貌。至<date from-iso="+0845-02-15" key="j20297362030089" to-iso="+0846-02-03">會昌五年</date>，毀拆<placeName key="PL000000010068">寺宇</placeName>，<lb
+ed="T" n="0825b13"/>方知告別之意焉。距<date from-iso="+0866-01-25" key="j20373852037768" to-iso="+0867-02-12">咸通七年</date>蝗災，爾時<lb
 ed="T" n="0825b14"/>彌空亘野，食人苗稼，至于入人家食繒帛<lb
 ed="T" n="0825b15"/>之物。百姓徬徨，莫能為計。時民人<persName key="A012154">吳延讓</persName><lb
 ed="T" n="0825b16"/>等率耆艾數十百人詣像前焚香泣告，即<lb
-ed="T" n="0825b17"/>日蟲飛越境焉。<date from-iso="0878-02-10" key="j20417842042137" to-iso="0879-01-29">乾符五年</date>，寺眾當詣闕乞<lb
-    ed="T" n="0825b18"/>鐘歸寺，差僧<anchor xml:id="beg0825sgsz9"/>選<anchor xml:id="end0825sgsz9"/>日登途。聖者先入右神策<lb
+ed="T" n="0825b17"/>日蟲飛越境焉。<date from-iso="+0878-02-10" key="j20417842042137" to-iso="+0879-01-29">乾符五年</date>，寺眾當詣闕乞<lb
+ed="T" n="0825b18"/>鐘歸寺，差僧<anchor xml:id="beg0825sgsz9"/>選<anchor xml:id="end0825sgsz9"/>日登途。聖者先入右神策<lb
 ed="T" n="0825b19"/>軍本局，預陳囑託。及正請鐘僧到，見司吏，<lb
 ed="T" n="0825b20"/>怪問：「數日前有僧來，云隷<placeName key="PL000000010068">蘇州靈巖山寺</placeName>。」<lb
 ed="T" n="0825b21"/>其僧曰：「某行無伴侶。」後右軍胥因事遊<placeName key="PL000000009928">吳</placeName>，<lb
 ed="T" n="0825b22"/>見壁畫云：「此是七月中曾來司內計會鐘<lb
 ed="T" n="0825b23"/>僧也。」然<placeName key="PL000000009928">吳</placeName>中極彰靈異，且不測厥由。曾有<lb
-    ed="T" n="0825b24"/>梵僧來，<anchor xml:id="beg0825sgsz10"/>禮<anchor xml:id="end0825sgsz10"/>畫像云：「<persName key="A012156">智積菩薩</persName>何緣在此？」<anchor xml:id="beg0825sgsz11"/>歎<anchor xml:id="end0825sgsz11"/><lb
+ed="T" n="0825b24"/><name>梵</name>僧來，<anchor xml:id="beg0825sgsz10"/>禮<anchor xml:id="end0825sgsz10"/>畫像云：「<persName key="A012156">智積菩薩</persName>何緣在此？」<anchor xml:id="beg0825sgsz11"/>歎<anchor xml:id="end0825sgsz11"/><lb
 ed="T" n="0825b25"/>嗟彌久，而自此號「<persName key="A012146">智積應身</persName>」也。</p>
     <p xml:id="pT50p0825b2601"><lb
 ed="T" n="0825b26"/>系曰：同異之說，史氏多之，今詳寺曰靈巖，僧<lb
-    ed="T" n="0825b27"/>畫像，此為同也。州曰<placeName key="PL000000020259">歷下</placeName>、<placeName key="PL000000009928"><anchor xml:id="beg0825sgsz12"/>始<anchor xml:id="end0825sgsz12"/>蘇</placeName>，遇者曰陸與<lb
+ed="T" n="0825b27"/>畫像，此為同也。州曰<placeName key="PL000000020259">歷下</placeName>、<placeName key="PL000000009928"><anchor xml:id="beg0825sgsz12"/>始<anchor xml:id="end0825sgsz12"/>蘇</placeName>，遇者曰陸與<lb
 ed="T" n="0825b28"/><persName key="A012147">馮</persName>，此為異焉。斯蓋見聞不齊，記錄因別也。<lb
 ed="T" n="0825b29"/>原夫聖人之應身也，或南或北，或漢或胡，或<pb ed="T" n="0825c" xml:id="T50.2061.0825c"/><lb
 ed="T" n="0825c01"/>平常之形，或怪差之質，故令聞見必也有<lb

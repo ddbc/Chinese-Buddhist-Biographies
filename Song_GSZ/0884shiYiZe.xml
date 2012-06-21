@@ -1,40 +1,40 @@
 <?xml version='1.0' encoding='utf-8'?>
-<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0768b12shiYiZe">
-    <anchor n="T.50.2061.0768b12"/><head><date from-iso="0618-06-21" key="j19469512052491" to-iso="0907-06-06">唐</date><placeName key="PL000000014704">天台山佛窟巖</placeName><persName key="A010413">遺則</persName>傳</head><p><lb
-ed="T" n="0768b13"/><persName key="A010413">釋遺則</persName>，俗氏長孫，<placeName key="PL000000042182">京兆長安</placeName>人也。祖<persName key="A010416">冽</persName>，<placeName key="PL000000026483">鄂州</placeName><lb
+<div xmlns="http://www.tei-c.org/ns/1.0" type="習禪" xml:id="gsz0768b12shiYiZe"><lb
+ed="T" n="0768b12"/><anchor n="T.50.2061.0768b12"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date><placeName key="PL000000014704">天台山佛窟巖</placeName><persName key="A010413">遺則</persName>傳</head><p><lb
+ed="T" n="0768b13"/><persName key="A010413">釋遺則</persName>，俗氏<name>長孫</name>，<placeName key="PL000000042182">京兆長安</placeName>人也。祖<persName key="A010416">冽</persName>，<placeName key="PL000000026483">鄂州</placeName><lb
 ed="T" n="0768b14"/>司馬；考<persName key="A010417">利涉</persName>，隱居<placeName key="PL000000008820">金陵</placeName>。<persName key="A010413">則</persName>弱不雜俗，恬恬<lb
 ed="T" n="0768b15"/>終日而無所營。始從<persName key="A010419">張懷瓘</persName>學草書，獨<lb
 ed="T" n="0768b16"/>盡筆妙。雅耽經史，尤樂佛書，以為得吾<lb
 ed="T" n="0768b17"/>心。一朝捐家業，從<placeName key="PL000000008579">牛頭山</placeName><persName key="A010048">慧忠</persName>，<persName key="A010048">忠</persName>所謂<persName key="G000021">牛<lb
-ed="T" n="0768b18"/>頭六祖</persName>也。始<persName key="A001361">天竺達磨</persName>以釋氏心要至，傳<lb
+ed="T" n="0768b18"/>頭六祖</persName>也。始<placeName key="PL000000048207">天竺</placeName><persName key="A001361">達磨</persName>以<name>釋</name>氏心要至，傳<lb
 ed="T" n="0768b19"/>其道者有<placeName key="PL000000030577">曹溪</placeName><persName key="A001719">能</persName>、<placeName key="PL000000023253">嵩山</placeName><persName key="A009582">秀</persName>。學<persName key="A001719">能</persName>者謂之南<lb
-ed="T" n="0768b20"/>宗學，學<persName key="A009582">秀</persName>者謂之北宗學。而<persName key="A003654">信祖</persName>又以其<lb
+ed="T" n="0768b20"/>宗學，學<persName key="A009582">秀</persName>者謂之北宗學。而<persName key="A003654">信<roleName>祖</roleName></persName>又以其<lb
 ed="T" n="0768b21"/>道傳<persName key="A003867">慧融</persName>，<persName key="A003867">融</persName>得之居<placeName key="PL000000008579">牛頭山</placeName>，弟子以傳授。<lb
 ed="T" n="0768b22"/>由是<persName key="A001361">達磨</persName>心法有牛頭學。<persName key="A010413">則</persName>既傳<persName key="A010048">忠</persName>之道，<lb
 ed="T" n="0768b23"/>精觀久之，以為天地無物也，我無物也，雖<lb
 ed="T" n="0768b24"/>無物未嘗無物也。此則聖人如影，百姓如<lb
-ed="T" n="0768b25"/>夢，孰為死生哉？至人以是能獨照，能為<lb
-ed="T" n="0768b26"/>萬物主，吾知之矣。遂南遊<placeName key="PL000000014411">天台</placeName>，至<placeName key="PL000000014704">佛窟巖</placeName>，<lb
-ed="T" n="0768b27"/>蓋薜荔，薦落葉而尸居，飲山流、飯木實<lb
+ed="T" n="0768b25"/>夢<ptr target="#n1465"/>，孰為死生哉？至人以是能獨照，能為<lb
+ed="T" n="0768b26"/>萬物主，吾知之矣<ptr target="#n1466"/>。遂南遊<placeName key="PL000000014411">天台</placeName>，至<placeName key="PL000000014704">佛窟巖</placeName>，<lb
+ed="T" n="0768b27"/>蓋薜荔<ptr type="glossary" target="#g1535"/>，薦落葉而尸居<ptr type="glossary" target="#g1536"/>，飲山流、飯木實<lb
 ed="T" n="0768b28"/>而充虛，虎豹以為賓，麋鹿以為徒，兀然如<lb
 ed="T" n="0768b29"/>枯。其後剫木者見之轉相告，有慕其道<pb ed="T" n="0768c" xml:id="T50.2061.0768c"/><lb
 ed="T" n="0768c01"/>者曰：「<ref type="person" target="#A010413">道者</ref>未有弟子。」相率為築室，圖佛安<lb
-ed="T" n="0768c02"/>僧，蔚為精舍焉。故<date from-iso="0806" key="j20154742020606" to-iso="0820">元和</date>已來傳<persName key="A010413">則</persName>道者，又<lb
+ed="T" n="0768c02"/>僧，蔚為精舍焉。故<date from-iso="+0806-01-29" key="j20154742020606" to-iso="+0820-02-17"><name>元和</name></date>已來傳<persName key="A010413">則</persName>道者，又<lb
 ed="T" n="0768c03"/>自以為「佛窟學」，「佛窟」之號自<persName key="A010413">則</persName>始也。一坐<lb
 ed="T" n="0768c04"/>四十年，大官名侯齎書問訊檀捨，<persName key="A010413">則</persName>未嘗<lb
-        ed="T" n="0768c05"/>有報謝，禮拜者未嘗而作起。時歲在<date key="j20244022024402" when-iso="0830-07-10">庚<anchor xml:id="beg0768sgsz3"/>戌<anchor xml:id="end0768sgsz3"/><lb
-                ed="T" n="0768c06"/>季夏十有<anchor xml:id="beg0768sgsz4"/>三<anchor xml:id="end0768sgsz4"/>日</date>，召弟子曰：「汝其勉之！」至<date key="j20244042024404" when-iso="0830-07-12">十<lb
+ed="T" n="0768c05"/>有報謝，禮拜者未嘗而作起。時歲在<date key="j20244022024402" when-iso="+0830-07-10">庚<anchor xml:id="beg0768sgsz3"/>戌<anchor xml:id="end0768sgsz3"/><lb
+ed="T" n="0768c06"/>季夏十有<anchor xml:id="beg0768sgsz4"/>三<anchor xml:id="end0768sgsz4"/>日</date>，召弟子曰：「汝其勉之！」至<date key="j20244042024404" when-iso="+0830-07-12">十<lb
 ed="T" n="0768c07"/>五日</date>夜遂坐歿。是夜山下人聞若山崩，旦<lb
 ed="T" n="0768c08"/>望之，<persName key="A010413">則</persName>綵雲翔泊於巖上。父老皆泣曰：「<ref type="person" target="#A010413">師</ref>死<lb
 ed="T" n="0768c09"/>矣！」已而視之，果然。凡<persName key="A010413">則</persName>二十歲為僧臘，五<lb
-        ed="T" n="0768c10"/>十有八而終<note resp="sgsz">案《景德傳燈錄．卷四》：「壽八十，臘五十有八。」前曰：「一坐四十年」則應以《景德傳燈錄》為是。 (cf. 景德傳燈錄<ref>CBETA, T51, no. 2076, p. 231, a09</ref>)</note>。善屬文，始授道於<placeName key="PL000000008734"><anchor xml:id="beg0768sgsz5"/>鍾<anchor xml:id="end0768sgsz5"/>山</placeName>，序集<lb
-ed="T" n="0768c11"/><persName key="A003867">融祖師</persName>文三卷，為<persName key="A002296">寶誌</persName>《釋題》二十四章，《南遊<lb
-ed="T" n="0768c12"/>傅大士遺風序》又《無生等義》。凡所著述，辭理<lb
+ed="T" n="0768c10"/>十有八而終<ptr target="#n1467"/>。善屬文，始授道於<placeName key="PL000000008734"><anchor xml:id="beg0768sgsz5"/>鍾<anchor xml:id="end0768sgsz5"/>山</placeName>，序集<lb
+ed="T" n="0768c11"/><persName key="A003867">融<roleName>祖師</roleName></persName>文三卷，為<persName key="A002296">寶誌</persName>《釋題》二十四章，《南遊<lb
+ed="T" n="0768c12"/>傅大士遺風序》又《無生等義》<ptr target="#n1468"/>。凡所著述，辭理<lb
 ed="T" n="0768c13"/>粲然。其他歌詩數十篇，皆行於世。<persName key="A010413">則</persName>元居<placeName key="PL000000014705">瀑<lb
-ed="T" n="0768c14"/>布泉西佛窟本院</placeName>，建龕塔。<date from-iso="0841" key="j20282682030170" to-iso="0846">會昌</date>中例毀之，<lb
+ed="T" n="0768c14"/>布泉西佛窟本院</placeName>，建龕塔。<date notBefore-iso="+0841-02-08" key="j20282682030170" notAfter-iso="+0846-04-25">會昌中</date>例毀之，<lb
 ed="T" n="0768c15"/>其院為道門所有。後<placeName key="PL000000014870">開元寺</placeName>僧正<persName key="A010415">法光</persName>於<lb
-        ed="T" n="0768c16"/><date from-iso="0865-02-04" key="j20370302037384" to-iso="0866-01-24">咸通乙酉歲</date>遂徙碑于今所，<placeName key="PL000000023580">河南</placeName>尹<persName key="A010414">韓<anchor xml:id="beg0768sgsz6"/>又<anchor xml:id="end0768sgsz6"/></persName><lb
-                ed="T" n="0768c17"/><anchor xml:id="beg0768sgsz7"/><choice resp="sgsz"><sic>偽</sic><corr>為</corr></choice><anchor xml:id="end0768sgsz7"/>碑文。</p>
+ed="T" n="0768c16"/><date from-iso="+0865-02-04" key="j20370302037384" to-iso="+0866-01-24">咸通乙酉歲</date>遂徙碑于今所，<placeName key="PL000000023580">河南</placeName>尹<persName key="A010414">韓<anchor xml:id="beg0768sgsz6"/><choice resp="sgsz"><sic>又</sic><corr>乂</corr></choice><anchor xml:id="end0768sgsz6"/></persName><lb
+ed="T" n="0768c17"/><anchor xml:id="beg0768sgsz7"/><choice resp="sgsz"><sic>偽</sic><corr>為</corr></choice><anchor xml:id="end0768sgsz7"/>碑文<ptr target="#n1469"/>。</p>
         <linkGrp>
                 <link targets="#0768b13 #0768b13"/>
                 <ptr target="#A010413" type="person"/>
@@ -46,8 +46,14 @@ ed="T" n="0768c15"/>其院為道門所有。後<placeName key="PL000000014870">�
                 <ptr target="#PL000000026483" type="place"/>
         </linkGrp>
         <linkGrp>
+                <link targets="#0768b13 #0768b14"/>
+                <ptr target="#A010416" type="person"/>
+                <ptr target="#A010417" type="person"/>
+        </linkGrp>
+        <linkGrp>
                 <link targets="#0768b14 #0768b14"/>
                 <ptr target="#A010417" type="person"/>
+                <ptr target="#A010413" type="person"/>
                 <ptr target="#PL000000008820" type="place"/>
         </linkGrp>
         <linkGrp>
@@ -79,11 +85,13 @@ ed="T" n="0768c15"/>其院為道門所有。後<placeName key="PL000000014870">�
         <linkGrp>
                 <link targets="#0768c05 #0768c06"/>
                 <ptr target="#A010413" type="person"/>
+                <ptr target="#PL000000014704" type="place"/>
                 <ptr target="#j20244022024402" type="time"/>
         </linkGrp>
         <linkGrp>
                 <link targets="#0768c06 #0768c07"/>
                 <ptr target="#A010413" type="person"/>
+                <ptr target="#PL000000014704" type="place"/>
                 <ptr target="#j20244042024404" type="time"/>
         </linkGrp>
         <linkGrp>

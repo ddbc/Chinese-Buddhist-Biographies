@@ -1,24 +1,24 @@
 <?xml version='1.0' encoding='utf-8'?>
-<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0722b10shiWuKong"><lb
-ed="T" n="0722b10"/><anchor n="T.50.2061.0722b10"/><head><date from-iso="0618-06-21" key="j19469512052491" to-iso="0907-06-06">唐</date><placeName key="PL000000042180">上都章敬寺</placeName><persName key="A009152">悟空</persName>傳</head><p><lb
-ed="T" n="0722b11"/><persName key="A009152">釋悟空</persName>，<placeName key="PL000000043083">京兆雲陽</placeName>人，姓車氏，<placeName key="PL000000000130">後魏</placeName>拓跋之遠<lb
+<div xmlns="http://www.tei-c.org/ns/1.0" type="譯經" xml:id="gsz0722b10shiWuKong"><lb
+ed="T" n="0722b10"/><anchor n="T.50.2061.0722b10"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date><placeName key="PL000000042180">上都章敬寺</placeName><persName key="A009152">悟空</persName>傳<ptr target="#n224"/></head><p><lb
+ed="T" n="0722b11"/><persName key="A009152">釋悟空</persName>，<placeName key="PL000000043083">京兆雲陽</placeName>人，姓<name>車</name>氏，<placeName key="PL000000000130">後魏</placeName><name>拓跋</name>之遠<lb
 ed="T" n="0722b12"/>裔也。天假聰敏，志尚典墳<ptr type="glossary" target="#g418"/>，孝悌之聲，藹于<lb
-ed="T" n="0722b13"/>鄉里。屬<persName key="A000291">玄宗</persName>德被遐方，<placeName key="PL000000055418">罽賓國</placeName>願附大唐，<lb
+ed="T" n="0722b13"/>鄉里。屬<persName key="A000291">玄宗</persName>德被遐方，<placeName key="PL000000055418">罽賓國</placeName>願附<placeName key="PL000000000106">大唐</placeName>，<lb
 ed="T" n="0722b14"/>遣大首領<persName key="A009187">薩婆<anchor xml:id="beg0722002"/><choice resp="sgsz"><sic>遠</sic><corr>達</corr></choice><anchor xml:id="end0722002"/>幹</persName>與三藏<persName key="A009188">舍利越摩</persName>於<lb
-ed="T" n="0722b15"/><date from-iso="0750-02-15" key="j19950371995391" to-iso="0751-02-04">天寶九載</date>來朝闕庭，請使巡按<ptr type="glossary" target="#g419"/>。<date from-iso="0751-02-05" key="j19953921995745" to-iso="0752-01-24">明年</date>，勅中<lb
+ed="T" n="0722b15"/><date from-iso="+0750-02-15" key="j19950371995391" to-iso="+0751-02-04"><name>天寶</name>九載</date>來朝闕庭，請使巡按<ptr type="glossary" target="#g419"/>。<date from-iso="+0751-02-05" key="j19953921995745" to-iso="+0752-01-24">明年</date>，勅中<lb
 ed="T" n="0722b16"/>使<persName key="A009189">張韜光</persName>，將國信、行官<ptr type="glossary" target="#g420"/>、<anchor xml:id="beg0722003"/><choice resp="sgsz"><sic>兼</sic><corr>傔</corr></choice><anchor xml:id="end0722003"/>吏<ptr type="glossary" target="#g421"/>四十餘人西<lb
 ed="T" n="0722b17"/>邁。時<persName key="A009152">空</persName>未出，俗名<persName key="A009152">奉朝</persName>，授左衛<placeName key="PL000000045417">涇州</placeName>四門<lb
-ed="T" n="0722b18"/>府別將，令隨使臣自<placeName key="PL000000047826">安西</placeName>路去。至<date from-iso="0753-02-12" key="j19961301996483" to-iso="0754-01-31">十二<lb
+ed="T" n="0722b18"/>府別將，令隨使臣自<placeName key="PL000000047826">安西</placeName>路去。至<date from-iso="+0753-02-12" key="j19961301996483" to-iso="+0754-01-31">十二<lb
 ed="T" n="0722b19"/>載</date>至<placeName key="PL000000049232">健陀羅國</placeName>，<placeName key="PL000000055418">罽賓</placeName>東都城也，其王禮接<lb
-ed="T" n="0722b20"/>唐使。<ref type="person" target="#A009189">使</ref>迴，<persName key="A009152">空</persName>篤疾，留<placeName key="PL000000049232">健陀羅</placeName>。病中發願，痊<lb
+ed="T" n="0722b20"/><placeName key="PL000000000106">唐</placeName>使。<ref type="person" target="#A009189">使</ref>迴，<persName key="A009152">空</persName>篤疾，留<placeName key="PL000000049232">健陀羅</placeName>。病中發願，痊<lb
 ed="T" n="0722b21"/>當出家。遂投<persName key="A009188">舍利越摩</persName>落髮，號<persName key="A009152">達摩<anchor xml:id="beg0722sgsz7"/>馱<anchor xml:id="end0722sgsz7"/>都</persName>，<lb
-ed="T" n="0722b22"/>華言<persName key="A009152">法界</persName>，當<persName key="A004378">肅宗</persName><date from-iso="0757-01-29" key="j19975771997960" to-iso="0758-02-16">至德二年</date>也。洎<date when-iso="0759" key="j19982791998643">年二十<lb
+ed="T" n="0722b22"/><name>華</name>言<persName key="A009152">法界</persName>，當<persName key="A004378">肅宗</persName><date from-iso="+0757-01-29" key="j19975771997960" to-iso="+0758-02-16"><name>至德</name>二年</date>也。洎<date when-iso="0759" key="j19982791998643">年二十<lb
 ed="T" n="0722b23"/>九</date>，於<placeName key="PL000000055417">迦濕彌羅國</placeName>受具足戒，<persName key="A009190">文殊矢涅地</persName><lb
-ed="T" n="0722b24"/>為親教師，<persName key="A009191">鄔不羼提</persName>為羯磨阿遮利耶<ptr type="glossary" target="#g422"/>，<persName key="A009192">馱里<lb
+ed="T" n="0722b24"/>為親教師，<persName key="A009191">鄔不羼提</persName>為羯磨阿遮利耶<ptr rend="display:none;" type="glossary" target="#g422"/>，<persName key="A009192">馱里<lb
 ed="T" n="0722b25"/>巍地</persName>為教授<ptr target="#n423"/>，於<placeName key="PL000000049235">蒙鞮寺</placeName>諷聲聞戒<ptr type="glossary" target="#g424"/>，習根本<lb
-ed="T" n="0722b26"/>律儀。然<placeName key="PL000000055420">北天竺</placeName>國皆薩婆多學也。後巡歷數<lb
-ed="T" n="0722b27"/>年，遍瞻<placeName key="PLG00000000054">八塔</placeName>，為憶君親，因咨本師<ptr type="glossary" target="#g190"/><persName key="A009188">舍利越<lb
-ed="T" n="0722b28"/>摩</persName>，再三方允。<persName key="A009188">摩</persName>手授梵本《十地》、《迴向輪》、《十力》<lb
+ed="T" n="0722b26"/>律儀<ptr target="#n226"/>。然<placeName key="PL000000055420">北天竺</placeName>國皆薩婆多<ptr type="glossary" target="#g244"/>學也。後巡歷數<lb
+ed="T" n="0722b27"/>年，遍瞻<ref type="place" target="#PLG00000000054">八塔</ref><ptr target="#n227"/>，為憶君親，因咨本師<ptr rend="display:none;" type="glossary" target="#g190"/><persName key="A009188">舍利越<lb
+ed="T" n="0722b28"/>摩</persName>，再三方允。<persName key="A009188">摩</persName>手授<name>梵</name>本《十地》<ptr target="#n191"/>、《迴向輪》<ptr target="#n193"/>、《十力》<ptr target="#n190"/><lb
 ed="T" n="0722b29"/>三經，共一夾，并佛牙舍利以贈別。<persName key="A009152">空</persName>行從<pb ed="T" n="0722c" xml:id="T50.2061.0722c"/><lb
 ed="T" n="0722c01"/>北路，至<placeName key="PL000000055430">覩貨羅國</placeName>，五十七蕃中有一城，號<lb
 ed="T" n="0722c02"/><placeName key="PL000000049665">骨咄國</placeName>，城<anchor xml:id="beg0722sgsz8"/><choice resp="sgsz"><sic>果</sic><corr>東</corr></choice><anchor xml:id="end0722sgsz8"/>有小海。<persName key="A009152">空</persName>行次南岸，地輒搖<lb
@@ -30,15 +30,15 @@ ed="T" n="0722c07"/>貽伊咎。」<persName key="A009152">空</persName>為利<
 ed="T" n="0722c08"/>自卯達申，雨雹方霽。迴及<placeName key="PL000000047825">龜茲</placeName>，居<placeName key="PL000000047806">蓮華寺</placeName>，<lb
 ed="T" n="0722c09"/>遇三藏法師<persName key="A000140">勿提提羼魚</persName>，善於傳譯。<persName key="A009152">空</persName>因<lb
 ed="T" n="0722c10"/>將《十力經》夾請翻之。尋抵<placeName key="PL000000047628">北庭</placeName>，<ref type="person" target="#A009153">大使</ref>復命<lb
-ed="T" n="0722c11"/><persName key="A009152">空</persName>出梵夾，<placeName key="PL000000047987">于闐</placeName>三藏<persName key="A000089">戒法</persName>為譯主，<persName key="A009152">空</persName>證梵<lb
-ed="T" n="0722c12"/>文<ptr type="glossary" target="#g52"/>并度語<ptr type="glossary" target="#g109"/>，翻成《十地迴向輪經》。事訖，隨中<lb
-ed="T" n="0722c13"/>使<persName key="A009157">段明秀</persName>以<date from-iso="0789-02-04" key="j20092712009624" to-iso="0790-01-23">貞元五年己巳</date>達<placeName key="PL000000042189">京師</placeName>，勅於<lb
+ed="T" n="0722c11"/><persName key="A009152">空</persName>出<name>梵</name>夾，<placeName key="PL000000047987">于闐</placeName>三藏<persName key="A000089">戒法</persName>為譯主，<persName key="A009152">空</persName>證<name>梵</name><lb
+ed="T" n="0722c12"/>文<ptr rend="display:none;" type="glossary" target="#g52"/>并度語<ptr rend="display:none;" type="glossary" target="#g109"/>，翻成《十地》、《迴向輪經》。事訖，隨中<lb
+ed="T" n="0722c13"/>使<persName key="A009157">段明秀</persName>以<date from-iso="+0789-02-04" key="j20092712009624" to-iso="+0790-01-23"><name>貞元</name>五年己巳</date>達<ref type="place" target="#PL000000042189">京師</ref>，勅於<lb
 ed="T" n="0722c14"/><placeName key="PL000000042212">躍龍門</placeName>使院安置。進上佛牙、舍利、經本，宣<lb
 ed="T" n="0722c15"/>付左神策軍繕寫，功德使<persName key="A009162">竇文場</persName>寫畢進呈，<lb
 ed="T" n="0722c16"/>勅署<persName key="A009152">空</persName>「壯武將軍」、「試太常卿」。乃歸<placeName key="PL000000042180">章敬寺</placeName>。次<lb
-ed="T" n="0722c17"/>返<placeName key="PL000000043083">雲陽</placeName>問二親，墳樹已<anchor xml:id="beg0722004"/>拱<anchor xml:id="end0722004"/>矣。凡所往來，<lb
+ed="T" n="0722c17"/>返<placeName key="PL000000043083">雲陽</placeName>問二親，墳樹已<anchor xml:id="beg0722004"/>拱<anchor xml:id="end0722004"/>矣<ptr type="glossary" target="#g36"/>。凡所往來，<lb
 ed="T" n="0722c18"/>經四十年，于時已六十餘。所翻經三本，共十<lb
-ed="T" n="0722c19"/>一卷。翻經大德<persName key="A001417">圓照</persName>《續開元錄》皆編入《藏》，<lb
+ed="T" n="0722c19"/>一卷。翻經大德<persName key="A001417">圓照</persName>《續開元錄》<ptr target="#n228"/>皆編入藏，<lb
 ed="T" n="0722c20"/>復記<persName key="A009152">空</persName>之行狀焉。</p>
     <linkGrp>
         <link targets="#0722b11 #0722b11"/>

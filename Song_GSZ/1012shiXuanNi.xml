@@ -1,16 +1,16 @@
 <?xml version='1.0' encoding='utf-8'?>
-<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0813b01shiXuanNi">
-    <anchor n="T.50.2061.0813b01"/><head><date from-iso="0618-06-21" key="j19469512052491" to-iso="0907-06-06">唐</date>洛京佛授記寺<persName key="A000301">玄嶷</persName>傳</head><p><lb
+<div xmlns="http://www.tei-c.org/ns/1.0" type="護法" xml:id="gsz0813b01shiXuanNi"><pb n="0813b" xml:id="T50.2061.0813b" ed="T"/><lb
+ed="T" n="0813b01"/><anchor n="T.50.2061.0813b01"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date>洛京佛授記寺<persName key="A000301">玄嶷</persName>傳</head><p><lb
 ed="T" n="0813b02"/><persName key="A000301">釋玄嶷</persName>，俗姓杜氏。幼入玄門，纔通經法。黃<lb
-ed="T" n="0813b03"/>冠之侶推其明哲，出類逸群，號<persName key="A000301">杜又鍊師</persName>。<lb
+ed="T" n="0813b03"/>冠之侶推其明哲，出類逸群，號<persName key="A000301">杜<anchor xml:id="beg0813sgsz5"/>又<anchor xml:id="end0813sgsz5"/>鍊師</persName>。<lb
 ed="T" n="0813b04"/>方登極籙，為<placeName key="PL000000023576">洛都大恒觀</placeName>主。遊心《七略》，得<lb
-ed="T" n="0813b05"/>理《三玄》，道術之流，推為綱領。<date from-iso="0684" key="j19711811978588" to-iso="0705">天后</date>心崇大<lb
-ed="T" n="0813b06"/>法，揚闡釋宗，又悟其食蓼非甘，却行遠舍，<lb
-ed="T" n="0813b07"/>願反初服，嚮佛而歸。遂懇求剃落，詔許度<lb
+ed="T" n="0813b05"/>理《三玄》，道術之流，推為綱領。<date from-iso="+0684-10-22" key="j19711811978588" to-iso="+0705-02-02">天后</date>心崇大<lb
+ed="T" n="0813b06"/>法，<anchor xml:id="beg0813sgsz7"/>揚<anchor xml:id="end0813sgsz7"/>闡釋宗，<anchor xml:id="beg0813sgsz9"/>又<anchor xml:id="end0813sgsz9"/>悟其食蓼非甘，却行遠舍，<lb
+ed="T" n="0813b07"/>願<anchor xml:id="beg0813sgsz11"/>反<anchor xml:id="end0813sgsz11"/>初服，嚮佛而歸。遂懇求剃落，詔許度<lb
 ed="T" n="0813b08"/>之，住<placeName key="PL000000023657">佛授記寺</placeName>，尋為寺都焉。則知在草<lb
 ed="T" n="0813b09"/>為英，在禽為雄，信有之矣。續參翻譯，悉<lb
 ed="T" n="0813b10"/>彼宗之乖謬，知正教之可憑。或問之曰：「<persName key="A000301">子</persName><lb
-ed="T" n="0813b11"/>何信佛邪？」<persName key="A000301">嶷</persName>曰：「生死飈疾，宜早圖之，無令<lb
+ed="T" n="0813b11"/>何信佛邪？」<persName key="A000301">嶷</persName>曰：「生死<anchor xml:id="beg0813sgsz13"/>飈<anchor xml:id="end0813sgsz13"/>疾，宜早圖之，無令<lb
 ed="T" n="0813b12"/>臨衢整轡，中流竚枻乎？有若環車望斗，<lb
 ed="T" n="0813b13"/>劾鬼求仙，以此用心，非究盡也。」乃造《甄<lb
 ed="T" n="0813b14"/>正論》一部，指斥其失，令歸正真，施設主客<lb

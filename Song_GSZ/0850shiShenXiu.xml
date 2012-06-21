@@ -1,39 +1,39 @@
 <?xml version='1.0' encoding='utf-8'?>
-<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0755c26shiShenXiu">
-    <anchor n="T.50.2061.0755c26"/><head><date from-iso="0618-06-21" key="j19469512052491" to-iso="0907-06-06">唐</date><placeName key="PL000000027025">荊州當陽山度門寺</placeName><persName key="A009582">神秀</persName>傳</head><p><lb
+<div xmlns="http://www.tei-c.org/ns/1.0" type="習禪" xml:id="gsz0755c26shiShenXiu"><lb
+ed="T" n="0755c26"/><anchor n="T.50.2061.0755c26"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date><placeName key="PL000000027025">荊州當陽山度門寺</placeName><persName key="A009582">神秀</persName>傳</head><p><lb
 ed="T" n="0755c27"/><persName key="A009582">釋神秀</persName>，俗姓李氏，今<placeName key="PL000000023389">東京尉氏</placeName>人也。少覽<lb
 ed="T" n="0755c28"/>經史，博綜多聞。既而奮志出塵，剃染受法。<lb
-ed="T" n="0755c29"/>後遇<placeName key="PL000000028112">蘄州雙峯東山寺</placeName><persName key="A000237">五祖忍師</persName>，以坐禪為<pb ed="T" n="0756a" xml:id="T50.2061.0756a"/><lb
+ed="T" n="0755c29"/>後遇<placeName key="PL000000028112">蘄州雙峯東山寺</placeName><persName key="A000237"><roleName>五祖</roleName>忍<roleName>師</roleName></persName>，以坐禪為<pb ed="T" n="0756a" xml:id="T50.2061.0756a"/><lb
 ed="T" n="0756a01"/>務，乃歎伏曰：「此真<ref type="person" target="#A009582">吾</ref>師也。」決心苦節，以樵<lb
-ed="T" n="0756a02"/>汲自役而求其道。昔<date from-iso="0497" key="j19027751916335" to-iso="0534">魏末</date>有<placeName key="PL000000048207">天竺</placeName>沙門<persName key="A001361">達磨<lb
+ed="T" n="0756a02"/>汲自役而求其道。昔<date notBefore-iso="+0497-07-08" key="j19027751916335" notAfter-iso="+0534-08-24">魏末</date>有<placeName key="PL000000048207">天竺</placeName>沙門<persName key="A001361">達磨<lb
 ed="T" n="0756a03"/></persName>者，得禪宗妙法，自<persName key="A002799">釋迦佛</persName>相傳授，以衣鉢<lb
-ed="T" n="0756a04"/>為記，世相傳付，航海而來。<persName key="A002098">梁武帝</persName>問以有<lb
-ed="T" n="0756a05"/>為之事，<persName key="A001361">達磨</persName>貴傳逕門心要，機教相乖，若<lb
-ed="T" n="0756a06"/>水投石。乃之<placeName key="PL000000000130">魏</placeName>，隱於<placeName key="PL000000023255">嵩丘少林寺</placeName>，尋卒。<lb
-ed="T" n="0756a07"/>其年<persName key="A018999">魏使宋雲</persName>於<placeName key="PL000000049641">葱嶺</placeName>見<ref type="person" target="#A001361">之</ref>。門徒發其塚，<lb
+ed="T" n="0756a04"/>為記，世相傳付，航海而來<ptr target="#n1320"/>。<persName key="A002098">梁武帝</persName>問以有<lb
+ed="T" n="0756a05"/>為之事，<persName key="A001361">達磨</persName>貴傳逕門<ptr type="glossary" target="#g1341"/>心要，機教相乖，若<lb
+ed="T" n="0756a06"/>水投石。乃之<placeName key="PL000000000130">魏</placeName>，隱於<placeName key="PL000000023255">嵩丘少林寺</placeName>，尋卒<ptr target="#n1321"/>。<lb
+ed="T" n="0756a07"/><ref target="#j19139461914299" type="date">其年</ref><placeName key="PL000000000130">魏</placeName>使<persName key="A018999">宋雲</persName>於<placeName key="PL000000049641">葱嶺</placeName>見<ref type="person" target="#A001361">之</ref><ptr target="#n1322"/>。門徒發其塚，<lb
 ed="T" n="0756a08"/>但有衣履而已。以法付<persName key="A003881">慧可</persName>，<persName key="A003881">可</persName>付<persName key="A001601">粲</persName>，<persName key="A001601">粲</persName><lb
 ed="T" n="0756a09"/>付<persName key="A003654">道信</persName>，<persName key="A003654">信</persName>付<persName key="A000237">忍</persName>。<persName key="A000237">忍</persName>與<persName key="A003654">信</persName>俱住<placeName key="PL000000028109">東山</placeName>，故謂其<lb
-ed="T" n="0756a10"/>法為東山法門。<persName key="A009582">秀</persName>既事<persName key="A000237">忍</persName>，<persName key="A000237">忍</persName>默識之，深加<lb
-ed="T" n="0756a11"/>器重，謂人曰：「<ref type="person" target="#A000237">吾</ref>度人多矣，至於懸解圓照，<lb
-ed="T" n="0756a12"/>無先<ref type="person" target="#A009582">汝</ref>者。」<persName key="A000237">忍</persName>於<date from-iso="0674" key="j19674991968318" to-iso="0676">上元中</date>卒，<persName key="A009582">秀</persName>乃往<placeName key="PL000000027735">江陵當<lb
+ed="T" n="0756a10"/>法為<placeName key="PL000000028109">東山</placeName>法門。<persName key="A009582">秀</persName>既事<persName key="A000237">忍</persName>，<persName key="A000237">忍</persName>默識<ptr type="glossary" target="#g1342"/><ref type="person" target="#A009582">之</ref>，深加<lb
+ed="T" n="0756a11"/>器重，謂人曰：「<ref type="person" target="#A000237">吾</ref>度人多矣，至於懸解<ptr type="glossary" target="#g1343"/>圓照，<lb
+ed="T" n="0756a12"/>無先<ref type="person" target="#A009582">汝</ref>者。」<persName key="A000237">忍</persName>於<date notBefore-iso="+0674-09-23" key="j19674991968318" notAfter-iso="+0676-12-20">上元中</date>卒，<persName key="A009582">秀</persName>乃往<placeName key="PL000000027735">江陵當<lb
 ed="T" n="0756a13"/>陽山</placeName>居焉。四海緇徒，嚮風而靡，道譽馨香，普<lb
-ed="T" n="0756a14"/>蒙熏灼。<persName key="A002099">則天太后</persName>聞之，召赴<placeName key="PL000000023581">都</placeName><note resp="sgsz">《楞伽師資記》：「<date key="j19771441977427" from-iso="0701-02-19" to-iso="0701-11-29">大足元年</date>。召入<placeName key="PL000000023581">東都</placeName>。隨<ref type="person" target="#A002099">駕</ref>往來<ref type="place" target="#PL000000023581 #PL000000042189">二京</ref>教授。」T.2837</note>，肩輿上殿，<lb
-    ed="T" n="0756a15"/>親加跪<anchor xml:id="beg0756sgsz1"/>禮<anchor xml:id="end0756sgsz1"/>。<placeName key="PL000000023610">內道場</placeName>豐其供施，時時問道。勅<lb
+ed="T" n="0756a14"/>蒙熏灼。<persName key="A002099">則天太后</persName>聞之，召赴<placeName key="PL000000023581">都</placeName>，肩輿上殿，<lb
+ed="T" n="0756a15"/>親加跪<anchor xml:id="beg0756sgsz1"/>禮<anchor xml:id="end0756sgsz1"/><ptr target="#n1323"/>。<placeName key="PL000000023610">內道場</placeName>豐其供施，時時問道。勅<lb
 ed="T" n="0756a16"/>於昔住山置<placeName key="PL000000027025">度門寺</placeName>，以旌其德。時王公已<lb
-    ed="T" n="0756a17"/>下，京邑士庶兢至<anchor xml:id="beg0756sgsz2"/>禮<anchor xml:id="end0756sgsz2"/>謁，望塵拜伏，日有萬計。<lb
+ed="T" n="0756a17"/>下，京邑士庶<ptr target="#n1436"/>兢至<anchor xml:id="beg0756sgsz2"/>禮<anchor xml:id="end0756sgsz2"/>謁，望塵拜伏<ptr type="glossary" target="#g1345"/>，日有萬計。<lb
 ed="T" n="0756a18"/>洎<persName key="A002100">中宗孝和帝</persName><ref type="date" target="#j19709111980570">即位</ref>，尤加寵重。中書令<persName key="A002473">張<lb
 ed="T" n="0756a19"/>說</persName>甞問法，執弟子禮，退謂人曰：「<ref type="person" target="#A009582">禪師</ref>身長<lb
-ed="T" n="0756a20"/>八尺，<anchor xml:id="beg0756001"/>厖<anchor xml:id="end0756001"/>眉秀目，威德巍巍，王霸之器也。」初，<lb
-ed="T" n="0756a21"/><persName key="A009582">秀</persName>同學<persName key="A001719">能禪師</persName>與之德行相埒，互得發揚無<lb
+ed="T" n="0756a20"/>八尺，<anchor xml:id="beg0756001"/>厖<anchor xml:id="end0756001"/><ptr type="glossary" target="#g1344"/>眉秀目，威德巍巍，王霸之器也。」初，<lb
+ed="T" n="0756a21"/><persName key="A009582">秀</persName>同學<persName key="A001719">能<roleName>禪師</roleName></persName>與之德行相埒<ptr type="glossary" target="#g1344"/>，互得發揚無<lb
 ed="T" n="0756a22"/>私於道也。甞奏<persName key="A002099">天后</persName>請追<persName key="A001719">能</persName>赴<placeName key="PL000000023581">都</placeName>，<persName key="A001719">能</persName>懇<lb
 ed="T" n="0756a23"/>而固辭。<persName key="A009582">秀</persName>又自作尺牘，序帝意徵<ref type="person" target="#A001719">之</ref>，終不<lb
 ed="T" n="0756a24"/>能起，謂使者曰：「<ref type="person" target="#A001719">吾</ref>形不揚，北土之人見<lb
 ed="T" n="0756a25"/>斯短陋，或不重法。又<ref type="person" target="#A000237">先師</ref>記<ref type="person" target="#A001719">吾</ref>以<placeName key="PL000000030465">嶺南</placeName>有<lb
 ed="T" n="0756a26"/>緣，且不可違也。」了不度<placeName key="PL000000030691">大庾嶺</placeName>而終。天<lb
 ed="T" n="0756a27"/>下散傳其道，謂<persName key="A009582">秀</persName>宗為北，<persName key="A001719">能</persName>宗為南。南北<lb
-ed="T" n="0756a28"/>二宗，名從此起。<persName key="A009582">秀</persName>以<date from-iso="0706-03-23" key="j19790021979030" to-iso="0706-04-20">神龍二年</date>卒，士庶皆<lb
-    ed="T" n="0756a29"/>來送葬，詔賜諡曰<persName key="A009582">大通禪師</persName>。又於<ref type="person" target="#A002461">相<anchor xml:id="beg0756sgsz3"/>王<anchor xml:id="end0756sgsz3"/></ref>舊<pb ed="T" n="0756b" xml:id="T50.2061.0756b"/><lb
-ed="T" n="0756b01"/>邸造<placeName key="PL000000023382">報恩寺</placeName>，<persName key="A019003">岐王範</persName>、燕國公<persName key="A002473">張說</persName>、徵士<persName key="A009320">盧鴻</persName><lb
+ed="T" n="0756a28"/>二宗，名從此起。<persName key="A009582">秀</persName>以<date key="j19790291979029" when-iso="+0706-04-19"><name>神龍</name>二年</date>卒<ptr target="#n1324"/>，士庶皆<lb
+ed="T" n="0756a29"/>來送葬，詔賜諡曰<persName key="A009582">大通禪師</persName>。又於<ref type="person" target="#A002461">相<anchor xml:id="beg0756sgsz3"/>王<anchor xml:id="end0756sgsz3"/></ref>舊<pb ed="T" n="0756b" xml:id="T50.2061.0756b"/><lb
+ed="T" n="0756b01"/>邸造<placeName key="PL000000023382">報恩寺</placeName>，<persName key="A019003"><roleName>岐王</roleName>範</persName>、燕國公<persName key="A002473">張說</persName>、徵士<ptr type="glossary" target="#g683"/><persName key="A009320">盧鴻</persName><lb
 ed="T" n="0756b02"/>各為碑誄。服<ref type="person" target="#A009582">師</ref>喪者，名士達官不可勝紀。<lb
 ed="T" n="0756b03"/>門人<persName key="A009319">普寂</persName>、<persName key="A008784">義福</persName>並為朝野所重，蓋宗<ref type="person" target="#A009582">先師</ref><lb
 ed="T" n="0756b04"/>之道也。</p>
@@ -41,16 +41,21 @@ ed="T" n="0756b04"/>之道也。</p>
 ed="T" n="0756b05"/>系曰：夫甘苦相傾，氣味殊致。甘不勝苦則純<lb
 ed="T" n="0756b06"/>苦乘時，苦不勝甘則純甘用事，如是則為<lb
 ed="T" n="0756b07"/>藥治病，偏重必離也。昔者<persName key="A001361">達磨</persName>沒而微言<lb
-ed="T" n="0756b08"/>絕，<persName key="A000237">五祖</persName>喪而大義乖，<persName key="A009582">秀</persName>也拂拭以明心，<persName key="A001719">能</persName>也<lb
-ed="T" n="0756b09"/>俱非而唱道。及乎流化北方，尚修練之勤；<lb
-ed="T" n="0756b10"/>從是分岐南服，興頓門之說。由茲<placeName key="PL000000023656">荷澤</placeName>行<lb
+ed="T" n="0756b08"/>絕，<ref type="person" target="#A000237">五祖</ref>喪而大義乖，<persName key="A009582">秀</persName>也拂拭以明心，<persName key="A001719">能</persName>也<lb
+ed="T" n="0756b09"/>俱非而唱道<ptr target="#n1312"/>。及乎流化北方，尚修練之勤<ptr target="#n1325"/>；<lb
+ed="T" n="0756b10"/>從是分<anchor xml:id="beg0756sgsz4"/>岐<anchor xml:id="end0756sgsz4"/>南服，興頓門之說。由茲<placeName key="PL000000023656">荷澤</placeName>行<lb
 ed="T" n="0756b11"/>于<placeName key="PL000000000083">中土</placeName>。以頓門隔修練之煩，未移磐石；<lb
-ed="T" n="0756b12"/>將絃促象韋之者，空費躁心。致令各親其<lb
-ed="T" n="0756b13"/>親，同黨其黨，故有<persName key="A010080">盧奕</persName>之彈奏，<persName key="A005612">神會</persName>之徙<lb
-ed="T" n="0756b14"/>遷，伊蓋施療專其一味之咎也。遂見甘苦<lb
-ed="T" n="0756b15"/>相傾之驗矣。理病未効，乖競先成。秖宜為<lb
+ed="T" n="0756b12"/>將絃促象韋之者<ptr target="#n1326"/>，空費躁心。致令各親其<lb
+ed="T" n="0756b13"/>親，同黨其黨，故有<persName key="A010080">盧奕</persName>之彈奏<ptr type="glossary" target="#g1347"/>，<persName key="A005612">神會</persName>之徙<lb
+ed="T" n="0756b14"/>遷<ptr target="#n1319"/>，伊蓋施療專其一味之咎也。遂見甘苦<lb
+ed="T" n="0756b15"/>相傾之驗矣。理病未効，乖競先成。秖<ptr type="glossary" target="#g1091"/>宜為<lb
 ed="T" n="0756b16"/>法重人，何至因人損法。二弟子濯擊<ref type="person" target="#A009582">師</ref>足，<lb
 ed="T" n="0756b17"/>洗垢未遑，折脛斯見，其是之喻歟。</p>
+    <linkGrp>
+        <link targets="#0755c26 #0755c26"/>
+        <ptr target="#A009582" type="person"/>
+        <ptr target="#PL000000027025" type="place"/>
+    </linkGrp>
     <linkGrp>
         <link targets="#0755c27 #0755c27"/>
         <ptr target="#A009582" type="person"/>
@@ -63,8 +68,9 @@ ed="T" n="0756b17"/>洗垢未遑，折脛斯見，其是之喻歟。</p>
         <ptr target="#PL000000028112" type="place"/>
     </linkGrp>
     <linkGrp>
-        <link targets="#0756a01 #0756a03"/>
+        <link targets="#0756a02 #0756a03"/>
         <ptr target="#A001361" type="person"/>
+        <ptr target="#PL000000048207" type="place"/>
         <ptr target="#j19027751916335" type="time"/>
     </linkGrp>
     <linkGrp>
@@ -79,8 +85,10 @@ ed="T" n="0756b17"/>洗垢未遑，折脛斯見，其是之喻歟。</p>
     </linkGrp>
     <linkGrp>
         <link targets="#0756a07 #0756a07"/>
+        <ptr target="#A001361" type="person"/>
         <ptr target="#A018999" type="person"/>
         <ptr target="#PL000000049641" type="place"/>
+        <ptr target="#j19139461914299" type="time"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0756a08 #0756a08"/>
@@ -139,10 +147,21 @@ ed="T" n="0756b17"/>洗垢未遑，折脛斯見，其是之喻歟。</p>
         <ptr target="#PL000000027025" type="place"/>
     </linkGrp>
     <linkGrp>
+        <link targets="#0756a18 #0756a18"/>
+        <ptr target="#A009582" type="person"/>
+        <ptr target="#A002100" type="person"/>
+        <ptr target="#j19709111980570" type="time"/>
+    </linkGrp>
+    <linkGrp>
         <link targets="#0756a18 #0756a20"/>
         <ptr target="#A009582" type="person"/>
         <ptr target="#A002473" type="person"/>
         <ptr target="#j19709111980570" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0756a21 #0756a21"/>
+        <ptr target="#A009582" type="person"/>
+        <ptr target="#A001719" type="person"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0756a22 #0756a26"/>
@@ -153,7 +172,7 @@ ed="T" n="0756b17"/>洗垢未遑，折脛斯見，其是之喻歟。</p>
     <linkGrp>
         <link targets="#0756a28 #0756a29"/>
         <ptr target="#A009582" type="person"/>
-        <ptr target="#j19790021979030" type="time"/>
+        <ptr target="#j19790291979029" type="time"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0756b03 #0756b03"/>

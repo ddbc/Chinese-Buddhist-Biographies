@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
-<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0809b11shiYanCheng">
-    <anchor n="T.50.2061.0809b11"/><head><date from-iso="0907-06-10" key="j20524952058534" to-iso="0923-12-22">梁</date>蘇州破山興福寺<persName key="A011646">彥偁</persName>傳（<persName key="A011648">壽闍黎</persName>）</head><p><lb
-ed="T" n="0809b12"/><persName key="A011646">釋彥偁</persName>，姓龔氏，<placeName key="PL000000010157">吳郡常熟</placeName>人也。揭厲戒津，<lb
+<div xmlns="http://www.tei-c.org/ns/1.0" type="明律" xml:id="gsz0809b11shiYanCheng"><lb
+ed="T" n="0809b11"/><anchor n="T.50.2061.0809b11"/><head><date from-iso="+0907-06-10" key="j20524952058534" to-iso="+0923-12-22">梁</date>蘇州破山興福寺<persName key="A011646">彥偁</persName>傳（<persName key="A011648">壽闍<anchor xml:id="beg0809sgsz5"/>黎<anchor xml:id="end0809sgsz5"/></persName>）</head><p><lb
+ed="T" n="0809b12"/><persName key="A011646">釋彥偁</persName>，姓龔氏，<placeName key="PL000000010157">吳郡常熟</placeName>人也。揭厲戒<anchor xml:id="beg0809sgsz7"/><choice resp="sgsz"><sic>津</sic><corr>律</corr></choice><anchor xml:id="end0809sgsz7"/>，<lb
 ed="T" n="0809b13"/>錙銖塵務，勤求師範，唯善是從。末扣擊繼<lb
 ed="T" n="0809b14"/>宗記主，得其戶牗，乃於本生地講導，同好<lb
 ed="T" n="0809b15"/>鳩聚，律風孔扇，號為毘尼窟宅焉。先是<placeName key="PL000000010125">海<lb
@@ -13,12 +13,12 @@ ed="T" n="0809b20"/>其更闌各睡，乃自持炬就拔其箭。虎耽耳<lb
 ed="T" n="0809b21"/>舐矢鏃血，顧<persName key="A011646">偁</persName>而瞑目焉。質明，獵師<persName key="A011647">朱德</persName>就<lb
 ed="T" n="0809b22"/>寺尋虎，<persName key="A011646">偁</persName>告示其箭，<persName key="A011647">朱德</persName>悛心罷獵焉。<lb
 ed="T" n="0809b23"/><persName key="A003552">武肅王錢<roleName>氏</roleName></persName>知重，每設冥齋，召行持明法。<lb
-ed="T" n="0809b24"/>時覆肩衣自肱而墮，還自塔上，或見鬼物隨<lb
-ed="T" n="0809b25"/>侍焉。所謂道德盛則鬼神助也。以<date from-iso="0920-06-24" key="j20572582057316" to-iso="0920-08-21">貞明六年<lb
-ed="T" n="0809b26"/>六月</date>，終于山房，年九十九歲云。次<persName key="A011648">壽闍黎</persName>者，<lb
+ed="T" n="0809b24"/>時覆肩衣自肱而墮，還自<anchor xml:id="beg0809sgsz9"/><choice resp="sgsz"><sic>塔</sic><corr>搭</corr></choice><anchor xml:id="end0809sgsz9"/>上，或見鬼物隨<lb
+ed="T" n="0809b25"/>侍焉。所謂道德盛則鬼神助也。以<date from-iso="+0920-06-24" key="j20572582057316" to-iso="+0920-08-21">貞明六年<lb
+ed="T" n="0809b26"/>六月</date>，終于山房，年九十九歲云。次<persName key="A011648">壽闍<anchor xml:id="beg0809sgsz11"/>黎<anchor xml:id="end0809sgsz11"/></persName>者，<lb
 ed="T" n="0809b27"/><placeName key="PL000000010590">淮浦</placeName>左右，貞諒不群，防護正念，時少雙偶。<lb
 ed="T" n="0809b28"/>傳<persName key="A001519">南山</persName>律鈔<ptr target="#n1290"/>極成，不看他面。唐季<persName key="A007250">楊<roleName>氏</roleName></persName>奄<lb
-ed="T" n="0809b29"/>有<placeName key="PL000000010783">廣陵</placeName>，頻召供施。四遠崇重，食唯正命。不<pb ed="T" n="0809c" xml:id="T50.2061.0809c"/><lb
+ed="T" n="0809b29"/>有<placeName key="PL000000010783">廣陵</placeName>，頻召供施。四遠崇重，食<anchor xml:id="beg0809sgsz13"/>唯<anchor xml:id="end0809sgsz13"/>正命。不<pb ed="T" n="0809c" xml:id="T50.2061.0809c"/><lb
 ed="T" n="0809c01"/>畜盈長，戶不施關。及臨壇度弟子，正秉<lb
 ed="T" n="0809c02"/>羯磨，未周三法，忽爾坐亡于覆釜之畔，聞<lb
 ed="T" n="0809c03"/>見驚歎歟！</p>

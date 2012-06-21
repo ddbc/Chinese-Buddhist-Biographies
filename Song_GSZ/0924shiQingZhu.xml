@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
-<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0780c14shiQingZhu">
-    <anchor n="T.50.2061.0780c14"/><head><date from-iso="0618-06-21" key="j19469512052491" to-iso="0907-06-06">唐</date>長沙石霜山<persName key="A010581">慶諸</persName>傳（<persName key="A010583">洪諲</persName> <persName key="A010584">令達</persName>）</head><p><lb
+<div xmlns="http://www.tei-c.org/ns/1.0" type="習禪" xml:id="gsz0780c14shiQingZhu">
+    <anchor n="T.50.2061.0780c14"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date>長沙石霜山<persName key="A010581">慶諸</persName>傳（<persName key="A010583">洪諲</persName> <persName key="A010584">令達</persName>）</head><p><lb
 ed="T" n="0780c15"/><persName key="A010581">釋慶諸</persName>，俗姓陳，<placeName key="PL000000019450">廬陵新淦</placeName>、<placeName key="PL000000019443">玉笥鄉</placeName>人也。乃祖<lb
-ed="T" n="0780c16"/>厥考，咸不為吏，清言放蕩焉。<persName key="A010581">諸</persName><date key="j20201942020558" from-iso="0819-01-01" to-iso="0819-12-31">始十三</date>，禮<lb
-ed="T" n="0780c17"/><persName key="A010582">紹鑾禪翁</persName>為師，於洪井<placeName key="PL000000018633">西山</placeName>剃䰂。<date key="j20238472024211" from-iso="0829-01-01" to-iso="0829-12-31">二十三</date>，<lb
+ed="T" n="0780c16"/>厥考，咸不為吏，清言放蕩焉。<persName key="A010581">諸</persName><date key="j20201942020558" from-iso="+0819-01-01" to-iso="+0819-12-31">始十三</date>，<anchor xml:id="beg0780sgsz7"/>禮<anchor xml:id="end0780sgsz7"/><lb
+ed="T" n="0780c17"/><persName key="A010582">紹鑾禪翁</persName>為師，於洪井<placeName key="PL000000018633">西山</placeName>剃䰂。<date key="j20238472024211" from-iso="+0829-01-01" to-iso="+0829-12-31">二十三</date>，<lb
 ed="T" n="0780c18"/>往<placeName key="PL000000023253">嵩山</placeName>受具戒，便就<placeName key="PL000000023581">東洛</placeName>學毘柰耶。既<lb
 ed="T" n="0780c19"/>知聽制，終謂漸宗，迴抵<placeName key="PL000000028928">南嶽</placeName>，入<placeName key="PL000000028694">大溈山</placeName>。次<lb
 ed="T" n="0780c20"/>屆<placeName key="PL000000029111">雲巖</placeName>，遇<persName key="A004596">道吾</persName>，垂問知意，方為二夏之僧。<lb
@@ -16,41 +16,41 @@ ed="T" n="0780c26"/>將安往？」由是晨夕被遊學者扣擊，可無希<lb
 ed="T" n="0780c27"/>聲以應之乎？如是二十年間，堂中老宿，長坐<lb
 ed="T" n="0780c28"/>不臥，屹若椔杌，天下謂之<placeName key="PL000000028722">石霜</placeName>枯木眾是<lb
 ed="T" n="0780c29"/>也。南方謂之叢林者，翻禪那為功德叢林<pb ed="T" n="0781a" xml:id="T50.2061.0781a"/><lb
-ed="T" n="0781a01"/>也，為四方清則者無出其右。以<date from-iso="0888-03-21" key="j20454762045496" to-iso="0888-04-10">光啟四年<lb
-ed="T" n="0781a02"/>戊申歲二月己亥</date>示疾，終于山院，享齡八十<lb
-ed="T" n="0781a03"/>二，僧臘五十九。<date key="j20455192045519" when-iso="0888-05-03">越三月十五日</date>葬于寺西北<lb
+ed="T" n="0781a01"/>也，為四方清則者無出其右。以<date from-iso="+0888-03-21" key="j20454762045496" to-iso="+0888-04-10">光啟四年<lb
+ed="T" n="0781a02"/>戊申歲二月<anchor xml:id="beg0781sgsz1"/>己<anchor xml:id="end0781sgsz1"/>亥</date>示疾，終于山院，享齡八十<lb
+ed="T" n="0781a03"/>二，僧臘五十九。<date key="j20455192045519" when-iso="+0888-05-03">越三月十五日</date>葬于寺西北<lb
 ed="T" n="0781a04"/>隅二百許步，門弟子等結墳塔作螺髻形。<lb
-ed="T" n="0781a05"/>夏<date key="j20455352045535" when-iso="0888-05-19">四月一日</date>廣化寺<!--找不到此地-->釋子<persName key="A019289">處訥</persName>追慕往德，恐<lb
+ed="T" n="0781a05"/>夏<date key="j20455352045535" when-iso="+0888-05-19">四月一日</date>廣化寺<!--找不到此地-->釋子<persName key="A019289">處訥</persName>追慕往德，恐<lb
 ed="T" n="0781a06"/>遺美聲，命<placeName key="PL000000028928">南嶽</placeName><persName key="A010511">玄泰</persName>纂錄言行。<persName key="A010581">諸</persName>方弟子<lb
-ed="T" n="0781a07"/>分行其道焉。勅<app type="cb-app" xml:id="begd1e19701"/>諡<anchor xml:id="endd1e19701"/><persName key="A010581">普會大師</persName>，塔曰法相。次<lb
+ed="T" n="0781a07"/>分行其道焉。勅諡<persName key="A010581">普會大師</persName>，塔曰法相。次<lb
 ed="T" n="0781a08"/>餘杭<placeName key="PL000000011848">徑山院</placeName><persName key="A010583">釋洪諲</persName>，俗姓吳，<placeName key="PL000000013012">吳興</placeName>人也。年纔<lb
-ed="T" n="0781a09"/>十九，於開元寺禮<persName key="A010559">無上大師</persName>出家落飾，精<lb
-ed="T" n="0781a10"/>加佛事，罔怠巾缾。二十二，遣往<placeName key="PL000000023253">嵩嶽</placeName><placeName key="PL000000023256">會善<lb
+ed="T" n="0781a09"/>十九，於開元寺<anchor xml:id="beg0781sgsz2"/>禮<anchor xml:id="end0781sgsz2"/><persName key="A010559">無上大師</persName>出家落飾，精<lb
+ed="T" n="0781a10"/>加佛事，罔怠巾<anchor xml:id="beg0781sgsz3"/>缾<anchor xml:id="end0781sgsz3"/>。二十二，遣往<placeName key="PL000000023253">嵩嶽</placeName><placeName key="PL000000023256">會善<lb
 ed="T" n="0781a11"/>寺</placeName>受滿足律儀，俾誦《大比丘戒》，匝七日念<lb
 ed="T" n="0781a12"/>終，遂習毘尼。尋傳經講，自謂為僧有逸群<lb
-ed="T" n="0781a13"/>事業，而歸禮<ref type="person" target="#A010559">本師</ref><ptr type="glossary" target="#g190"/>，曰：「汝於十二時中，將何<lb
+ed="T" n="0781a13"/>事業，而歸<anchor xml:id="beg0781sgsz4"/>禮<anchor xml:id="end0781sgsz4"/><ref type="person" target="#A010559">本師</ref><ptr rend="display:none;" type="glossary" target="#g190"/>，曰：「汝於十二時中，將何<lb
 ed="T" n="0781a14"/>報答四恩三有？」<persName key="A010583">諲</persName>聞斯詰，憮然失措。三日<lb
-ed="T" n="0781a15"/>忘食，本師<ptr type="glossary" target="#g190"/>却招誘提耳，方明本事<ptr type="glossary" target="#g809"/>。如是往<lb
+ed="T" n="0781a15"/>忘食，本師<ptr rend="display:none;" type="glossary" target="#g190"/>却招誘提耳，方明本事<ptr type="glossary" target="#g809"/>。如是往<lb
 ed="T" n="0781a16"/>還雲嶽，次<placeName key="PL000000028694">溈山</placeName>，各為切磋，蔚成匠手。俄而<lb
-ed="T" n="0781a17"/><date from-iso="0841" key="j20282682030170" to-iso="0846">會昌</date>中例遭黜退，眾人悲泣者，惋歎者，<persName key="A010583">諲</persName>晏<lb
+ed="T" n="0781a17"/><date notBefore-iso="+0841-02-08" key="j20282682030170" notAfter-iso="+0846-04-25">會昌中</date>例遭黜退，眾人悲泣者，惋歎者，<persName key="A010583">諲</persName>晏<lb
 ed="T" n="0781a18"/>如也。曰：「大丈夫鍾此厄會，豈非命也？夫何<lb
 ed="T" n="0781a19"/>作兒女之情乎？」時於<placeName key="PL000000028664">長沙</placeName>遇信士<persName key="A010585">羅晏</persName>，召<lb
 ed="T" n="0781a20"/>居家供施。蓋<persName key="A010583">諲</persName>執白衣比丘法，初無差失，<lb
-ed="T" n="0781a21"/>涉于二載，若門賓焉。<date from-iso="0847" key="j20304612031609" to-iso="0850">大中初</date>，除滅法之律，<lb
-ed="T" n="0781a22"/>乃復厥<anchor xml:id="beg0781001"/>議<anchor xml:id="end0781001"/>，還故鄉<placeName key="PL000000012983">西峯院</placeName>。至<date from-iso="0865-02-04" key="j20370302037384" to-iso="0866-01-24">咸通六年</date>，<lb
-ed="T" n="0781a23"/>上<placeName key="PL000000011848">徑山</placeName>覲<ref type="person" target="#A010559">本師</ref><ptr type="glossary" target="#g190"/>。<date from-iso="0866-01-25" key="j20373852037768" to-iso="0867-02-12">明年</date>，<persName key="A010559">無上大師</persName>遷神，眾請<lb
+ed="T" n="0781a21"/>涉于二載，若門賓焉。<date notBefore-iso="+0847-02-10" key="j20304612031609" notAfter-iso="+0850-04-03"><name>大中</name>初</date>，除滅法之律，<lb
+ed="T" n="0781a22"/>乃復厥<anchor xml:id="beg0781001"/><choice resp="sgsz"><sic>議</sic><corr>儀</corr></choice><anchor xml:id="end0781001"/>，還故鄉<placeName key="PL000000012983">西峯院</placeName>。至<date from-iso="+0865-02-04" key="j20370302037384" to-iso="+0866-01-24">咸通六年</date>，<lb
+ed="T" n="0781a23"/>上<placeName key="PL000000011848">徑山</placeName>覲<ref type="person" target="#A010559">本師</ref><ptr rend="display:none;" type="glossary" target="#g190"/>。<date from-iso="+0866-01-25" key="j20373852037768" to-iso="+0867-02-12">明年</date>，<persName key="A010559">無上大師</persName>遷神，眾請<lb
 ed="T" n="0781a24"/><persName key="A010583">諲</persName>嗣其法位。始唯百許僧，後盈千數。于時<lb
 ed="T" n="0781a25"/>四眾<ptr type="glossary" target="#g98"/>共居，肅然無過。<persName key="A005228">僖宗皇帝</persName>賜院額曰<lb
-ed="T" n="0781a26"/>「乾符鎮國」。<date from-iso="0883-02-15" key="j20436152043969" to-iso="0884-02-04">中和<anchor xml:id="beg0781002"/>三<anchor xml:id="end0781002"/>年</date>，仍賜紫袈裟。<date from-iso="0893-01-26" key="j20472482047631" to-iso="0894-02-13">景福二<lb
+ed="T" n="0781a26"/>「乾符鎮國」。<date from-iso="+0883-02-15" key="j20436152043969" to-iso="+0884-02-04">中和<anchor xml:id="beg0781002"/>三<anchor xml:id="end0781002"/>年</date>，仍賜紫袈裟。<date from-iso="+0893-01-26" key="j20472482047631" to-iso="+0894-02-13">景福二<lb
 ed="T" n="0781a27"/>年</date>，<placeName key="PL000000008355">吳越國</placeName>王<persName key="A003552">尚父錢<roleName>氏</roleName></persName>奏舉登賜<persName key="A010583">法濟大師</persName>。<lb
-ed="T" n="0781a28"/><date key="j20504632050463" when-iso="0901-11-16">光化四年九月二十八日</date>，辭眾而卒。霅溪戚<lb
+ed="T" n="0781a28"/><date key="j20504632050463" when-iso="+0901-11-16">光化四年九月二十八日</date>，辭眾而卒。霅溪戚<lb
 ed="T" n="0781a29"/>長史寫貌，<persName key="A003552">武肅王</persName>為真讚，傳法弟子廬山<placeName key="PL000000018961">栖<pb ed="T" n="0781b" xml:id="T50.2061.0781b"/><lb
 ed="T" n="0781b01"/>賢寺</placeName><persName key="A010586">寂公</persName>、<placeName key="PL000000008355">臨川</placeName><persName key="A010587">義直</persName>、功<anchor xml:id="beg0781003"/>臣<anchor xml:id="end0781003"/>院<!--找不到此地--><persName key="A010584">令達</persName>。<persName key="A010584">達</persName>於<ref type="place" target="#PL000000008363 #PL000000011308">兩<lb
-ed="T" n="0781b02"/>浙</ref>大行道化，卒<app type="cb-app" xml:id="begd1e19790"/>諡<anchor xml:id="endd1e19790"/><persName key="A010584">歸寂大師</persName>焉。初，<persName key="A010583">諲</persName>有先<lb
+ed="T" n="0781b02"/>浙</ref>大行道化，卒諡<persName key="A010584">歸寂大師</persName>焉。初，<persName key="A010583">諲</persName>有先<lb
 ed="T" n="0781b03"/>見之明。<persName key="A003552">武肅王</persName>家居<placeName key="PL000000012088">石鑑山</placeName>，及就戍應募<lb
 ed="T" n="0781b04"/>為軍，<persName key="A010583">諲</persName>一見握手，屏左右而謂之曰：「好<lb
 ed="T" n="0781b05"/>自愛。他日貴極，當與佛法為主。」後累立戰<lb
-ed="T" n="0781b06"/>功，為杭牧，故奏署<persName key="A010583">諲</persName>師號，見必拜跪，檀施<lb
+ed="T" n="0781b06"/>功，為杭牧，故奏署<persName key="A010583">諲</persName>師號，見必拜跪，檀施<ptr type="glossary" target="#g237"/><lb
 ed="T" n="0781b07"/>豐厚，異於常數。終時執喪禮，念微時之言<lb
 ed="T" n="0781b08"/>矣。</p>
     <linkGrp>

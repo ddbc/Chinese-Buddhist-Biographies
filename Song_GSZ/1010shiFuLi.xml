@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='utf-8'?>
-<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0812c03shiFuLi">
-    <anchor n="T.50.2061.0812c03"/><head><date from-iso="0618-06-21" key="j19469512052491" to-iso="0907-06-06">唐</date>京兆大興善寺<persName key="A001192">復禮</persName>傳</head><p><lb
+<div xmlns="http://www.tei-c.org/ns/1.0" type="護法" xml:id="gsz0812c03shiFuLi"><lb
+ed="T" n="0812c03"/><anchor n="T.50.2061.0812c03"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date>京兆大興善寺<persName key="A001192">復禮</persName>傳</head><p><lb
 ed="T" n="0812c04"/><persName key="A001192">釋復禮</persName>，<placeName key="PL000000042192">京兆</placeName>人也，俗姓皇甫氏。少出家，住<placeName key="PL000000042218">興<lb
 ed="T" n="0812c05"/>善寺</placeName>。性虛靜，寡嗜欲。遊心內典，兼博玄儒，<lb
 ed="T" n="0812c06"/><anchor xml:id="beg0812003"/>尤<anchor xml:id="end0812003"/>工賦詠，善於著述，俗流名士皆<anchor xml:id="beg0812004"/>仰慕<anchor xml:id="end0812004"/><lb
 ed="T" n="0812c07"/><persName key="A001192">之</persName>。三藏<persName key="A000332">地婆訶羅</persName>、<persName key="A001606">實叉難陀</persName>等譯《大莊嚴》、《華<lb
 ed="T" n="0812c08"/>嚴》等經，皆勅召<persName key="A001192">禮</persName>令同翻譯，綴文裁義，實<lb
-ed="T" n="0812c09"/>屬<persName key="A001192">斯人</persName>。天皇<date from-iso="0681-01-28" key="j19698181970111" to-iso="0681-11-17">永隆二年辛已</date>，因太子文學<persName key="A011728">權<lb
+ed="T" n="0812c09"/>屬<persName key="A001192">斯人</persName>。天皇<date from-iso="+0681-01-28" key="j19698181970111" to-iso="+0681-11-17">永隆二年辛<anchor xml:id="beg0812sgsz1"/><choice resp="sgsz"><sic>已</sic><corr>巳</corr></choice><anchor xml:id="end0812sgsz1"/></date>，因太子文學<persName key="A011728">權<lb
 ed="T" n="0812c10"/>無二</persName>述《釋典稽疑》十條，用以問<persName key="A001192">禮</persName>，請令釋<lb
 ed="T" n="0812c11"/>滯，遂為答之，撰成三卷，名曰《十門辯惑論》。<lb
 ed="T" n="0812c12"/>賓主酬答，剖析稽疑，文出於智府，義在於<lb
@@ -19,7 +19,7 @@ ed="T" n="0812c18"/>論，全釋舊疑，乃復書云：「續晨鳧之足，鑿
 ed="T" n="0812c19"/>沌之竅，百年之疑，一朝頓盡。永遵覺路，長<lb
 ed="T" n="0812c20"/>悟迷源，爇煩惱之薪，餐涅槃之飯，請事斯<lb
 ed="T" n="0812c21"/>語，以卒餘年云。」此雖一時之解紛，實為萬<lb
-ed="T" n="0812c22"/>代之龜鑑也。<persName key="A001192">禮</persName>之義學<ptr type="glossary" target="#g395"/>，時少比儔，兼有文<lb
+ed="T" n="0812c22"/>代之龜鑑也。<persName key="A001192">禮</persName>之義學<ptr rend="display:none;" type="glossary" target="#g395"/>，時少比儔，兼有文<lb
 ed="T" n="0812c23"/>集行於代。加復深綜玄機，特明心契，作《真<lb
 ed="T" n="0812c24"/>妄頌》問天下學士，擊和者數人。當草堂<persName key="A000587">宗<lb
 ed="T" n="0812c25"/>密師</persName>銓擇臻極，唯<persName key="A001755">清涼澄觀</persName>得其旨趣，若<lb

@@ -1,38 +1,38 @@
 <?xml version='1.0' encoding='utf-8'?>
-<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0803c07shiDaoBiao">
-    <anchor n="T.50.2061.0803c07"/><head><date from-iso="0618-06-21" key="j19469512052491" to-iso="0907-06-06">唐</date>杭州靈隱山<persName key="A011071">道標</persName>傳</head><p><lb
+<div xmlns="http://www.tei-c.org/ns/1.0" type="明律" xml:id="gsz0803c07shiDaoBiao"><lb
+ed="T" n="0803c07"/><anchor n="T.50.2061.0803c07"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date>杭州靈隱山<persName key="A011071">道標</persName>傳</head><p><lb
 ed="T" n="0803c08"/><persName key="A011071">釋道標</persName>，<placeName key="PL000000012060">富陽</placeName>人也。俗姓秦氏，其遠祖與<persName key="A002762">羸</persName>同<lb
 ed="T" n="0803c09"/>姓，世為汧隴大族。及晉東渡衣冠隨之，後<lb
 ed="T" n="0803c10"/>為<placeName key="PL000000011519">杭</placeName>人也。其高曾至王父，皆沿以儒素，不<lb
 ed="T" n="0803c11"/>甘為吏，故州里尊奉之。<persName key="A011071">標</persName>生則孤明，長而<lb
-ed="T" n="0803c12"/>深趣，老而堅固，蓋良善之因有自來矣。<date key="j19935311993895" from-iso="0746-01-01" to-iso="0746-12-31">年<lb
+ed="T" n="0803c12"/>深趣，老而堅固，蓋良善之因有自來矣。<date key="j19935311993895" from-iso="+0746-01-01" to-iso="+0746-12-31">年<lb
 ed="T" n="0803c13"/>七歲</date>時，神清氣茂，不雜凡童。倏有大沙門<lb
 ed="T" n="0803c14"/>手摩其頂曰：「此<persName key="A011071">孺子</persName>目秀如青蓮，得非我<lb
 ed="T" n="0803c15"/>釋氏之威鳳乎？苟能捨家，必有善稱。不然<lb
 ed="T" n="0803c16"/>乘雲霓，薄天漢，吾不可得而知也。」父允<lb
 ed="T" n="0803c17"/>其請，遂為靈隱山<placeName key="PL000000011579">白雲峯</placeName><persName key="A011131">海和尚</persName>弟子。妙<lb
 ed="T" n="0803c18"/>高之上，唯日月是麗；娑竭之宮，固雲雷斯蓄。<lb
-ed="T" n="0803c19"/><date from-iso="0757-01-29" key="j19975771997960" to-iso="0758-02-16">至德二年</date>，詔白衣通佛經七百紙者，命為<lb
+ed="T" n="0803c19"/><date from-iso="+0757-01-29" key="j19975771997960" to-iso="+0758-02-16"><name>至德</name>二年</date>，詔白衣通佛經七百紙者，命為<lb
 ed="T" n="0803c20"/>比丘。<persName key="A011071">標</persName>首中其選，即日得度，蒙配<placeName key="PLG00000000023">天竺寺</placeName><lb
-ed="T" n="0803c21"/>焉。<date from-iso="0765" key="j20005002000672" to-iso="0765">永泰初</date>受具品於靈光寺<!--找不到此地--><persName key="A011134">顗律師</persName>。登以護<lb
+ed="T" n="0803c21"/>焉。<date notBefore-iso="+0765-01-30" key="j20005002000672" notAfter-iso="+0765-07-21">永泰初</date>受具品於靈光寺<!--找不到此地--><persName key="A011134">顗律師</persName>。登以護<lb
 ed="T" n="0803c22"/>戒嚴謹，為時所推。毘奈多羅之言，罔不該<lb
 ed="T" n="0803c23"/>貫。凡度人戒計六壇，為眾紏繩經一十二<lb
 ed="T" n="0803c24"/>載。置田畝歲收萬斛，置無盡財，與眾共<lb
-ed="T" n="0803c25"/>之。<date from-iso="0785" key="j20078242015139" to-iso="0805">貞元</date>中以寺務克豐，我宜宴息，乃擇高<lb
-ed="T" n="0803c26"/>爽，得西嶺<!--找不到此地-->之下，葺茅為堂，不干人事，用<lb
+ed="T" n="0803c25"/>之。<date notBefore-iso="+0785-02-18" key="j20078242015139" notAfter-iso="+0805-02-28"><name>貞元</name>中</date>以寺務克豐，我宜宴息，乃擇高<lb
+ed="T" n="0803c26"/>爽，得西嶺<!--找不到此地-->之下，葺茅為堂，不<anchor xml:id="beg0803sgsz15"/>干<anchor xml:id="end0803sgsz15"/>人事，用<lb
 ed="T" n="0803c27"/>養浩氣焉。<persName key="A011071">標</persName>經行之外，尤練詩章，辭體古<lb
 ed="T" n="0803c28"/>健，比之<persName key="A010968">潘</persName>、<persName key="A019384">劉</persName>。當時<placeName key="PL000000013012">吳興</placeName>有<persName key="A008833">晝</persName>，<placeName key="PL000000013240">會稽</placeName>有<persName key="A011069">靈澈</persName>，<lb
 ed="T" n="0803c29"/>相與詶唱，遞作笙簧。故人諺云：「<placeName key="PL000000013012">霅</placeName>之<persName key="A008833">晝</persName>，能清<pb ed="T" n="0804a" xml:id="T50.2061.0804a"/><lb
 ed="T" n="0804a01"/>秀；<placeName key="PL000000011304">越</placeName>之澈，洞氷雪；<placeName key="PL000000011519">杭</placeName>之<persName key="A011071">標</persName>，摩雲霄。」每飛章<lb
-ed="T" n="0804a02"/>寓韻，竹夕華時，彼三上人當四面之敵。所<lb
+ed="T" n="0804a02"/>寓韻，竹夕<anchor xml:id="beg0804sgsz1"/>華<anchor xml:id="end0804sgsz1"/>時，彼三上人當四面之敵。所<lb
 ed="T" n="0804a03"/>以辭林樂府常<app type="cb-app" xml:id="begd1e26079"/>采<anchor xml:id="endd1e26079"/>其聲詩。由是右庶子<placeName key="PL000000045043">姑臧</placeName><lb
 ed="T" n="0804a04"/><persName key="A011136">李公益</persName>書云：「重名之下果有斯文。西還京<lb
 ed="T" n="0804a05"/>師，有以誇耀。」又<placeName key="PL000000028592">景陵</placeName>子<persName key="A011137">陸羽</persName>云：「夫日月雲<lb
 ed="T" n="0804a06"/>霞為天標，山川草木為地標，推能歸美為<lb
 ed="T" n="0804a07"/>德標，居閑趣寂為<persName key="A011071">道標</persName>。」名實兩全，品藻斯<lb
 ed="T" n="0804a08"/>當。爾後聲價軼於公卿間，故與之深者有<lb
-ed="T" n="0804a09"/>相國<persName key="A004369">李公吉甫</persName>、大司空<persName key="A004372">嚴公綬</persName>、右僕射<persName key="A011138">韓公<lb
-ed="T" n="0804a10"/>臯</persName>、禮部侍郎<persName key="A011140">呂公渭</persName>、滑毫節制<persName key="A011141">盧公群</persName>、<placeName key="PL000000027119">襄陽</placeName><lb
+ed="T" n="0804a09"/>相國<persName key="A004369">李公吉甫</persName>、大司空<persName key="A004372">嚴公綬</persName>、右僕射<persName key="A011138"><anchor xml:id="beg0804sgsz3"/>韓<anchor xml:id="end0804sgsz3"/>公<lb
+ed="T" n="0804a10"/>臯</persName>、禮部侍郎<persName key="A011140">呂公渭</persName>、滑<anchor xml:id="beg0804sgsz7"/>毫<anchor xml:id="end0804sgsz7"/>節制<persName key="A011141">盧公群</persName>、<placeName key="PL000000027119">襄陽</placeName><lb
 ed="T" n="0804a11"/>節制<persName key="A009184">孟公簡</persName>、<placeName key="PL000000043355">同州</placeName>刺史<persName key="A011142">李公敷</persName>、<placeName key="PL000000042848">鳳翔</placeName>尹<persName key="A011144">孫公<lb
 ed="T" n="0804a12"/>璹</persName>、浙東廉使<persName key="A011145">賈公全</persName>、中書舍人<persName key="A004029">白公居易</persName>、<placeName key="PL000000028309">隋<lb
 ed="T" n="0804a13"/>州</placeName>刺史<persName key="A010166">劉公長卿</persName>、戶部侍朗<persName key="A010326">丘公丹</persName>、外郎<persName key="A011146">裴<lb
@@ -41,13 +41,13 @@ ed="T" n="0804a15"/>元輔</persName>、<placeName key="PL000000009739">常州</
 ed="T" n="0804a16"/><placeName key="PL000000009928">吳門</placeName><persName key="A011150">釋光嚴</persName>、<placeName key="PL000000042189">上都</placeName><persName key="A011151">釋智崇</persName>等，並心交塵外，<lb
 ed="T" n="0804a17"/>分契林中。萬境在空，驅之為射御；<placeName key="PL000000005250">五峯</placeName>滿<lb
 ed="T" n="0804a18"/>眼，立之為疆<anchor xml:id="beg0804001"/>場<anchor xml:id="end0804001"/>。文雄而再鼓不衰，神王<lb
-ed="T" n="0804a19"/>而一戰自勝者也。以<date from-iso="0823-02-19" key="j20217042022057" to-iso="0824-02-07">長慶三年</date>示有微疾，<lb
-ed="T" n="0804a20"/><date key="j20218572021857" when-iso="0823-07-22">六月七日</date>歸滅于所居蘭若。至冬<date key="j20219712021971" when-iso="0823-11-13">十月<anchor xml:id="beg0804002"/>三<anchor xml:id="end0804002"/><lb
+ed="T" n="0804a19"/>而一戰自勝者也。以<date from-iso="+0823-02-19" key="j20217042022057" to-iso="+0824-02-07">長慶三年</date>示有微疾，<lb
+ed="T" n="0804a20"/><date key="j20218572021857" when-iso="+0823-07-22">六月七日</date>歸滅于所居蘭若。至冬<date key="j20219712021971" when-iso="+0823-11-13">十月<anchor xml:id="beg0804002"/>三<anchor xml:id="end0804002"/><lb
 ed="T" n="0804a21"/>日</date>，葬于舊山，春秋八十有四，法臘五十八。<lb
 ed="T" n="0804a22"/>弟子<persName key="A011154">如玢</persName>、<persName key="A011156">如𧦬</persName>、<persName key="A011157">行儉</persName>、<persName key="A011158">省言</persName>、<persName key="A011159">常儉</persName>、<persName key="A011160">智猷</persName>、<persName key="A011161">日超</persName>等，<lb
 ed="T" n="0804a23"/>皆得師之法，倣仰不遑。空圍遶於栴檀，恨<lb
 ed="T" n="0804a24"/>滿盈於石室，至今<placeName key="PL000000011519">杭</placeName>民謂之<persName key="A011071">西嶺和尚</persName>矣。<lb
-ed="T" n="0804a25"/><date from-iso="0840-02-14" key="j20279082028259" to-iso="0841-01-30">開成五年</date>中<persName key="A011153">鄭素卿</persName>錄德行刊碑頌，立于<lb
+ed="T" n="0804a25"/><date from-iso="+0840-02-14" key="j20279082028259" to-iso="+0841-01-30"><name>開成</name>五年</date>中<persName key="A011153">鄭素卿</persName>錄德行刊碑頌，立于<lb
 ed="T" n="0804a26"/><placeName key="PL000000011578">天竺山</placeName>之東墟存焉。</p>
     <linkGrp>
         <link targets="#0803c16 #0803c17"/>

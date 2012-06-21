@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
-<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0729a03shiYiXiang"><lb
-ed="T" n="0729a03"/><anchor n="T.50.2061.0729a03"/><head><date from-iso="0618-06-21" key="j19469512052491" to-iso="0907-06-06">唐</date><placeName key="PL000000048606">新羅國</placeName><persName key="A001471">義湘</persName>傳</head><p><lb
+<div xmlns="http://www.tei-c.org/ns/1.0" type="義解" xml:id="gsz0729a03shiYiXiang"><lb
+ed="T" n="0729a03"/><anchor n="T.50.2061.0729a03"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date><placeName key="PL000000048606">新羅國</placeName><persName key="A001471">義湘</persName>傳</head><p><lb
 ed="T" n="0729a04"/><persName key="A001471">釋義湘</persName>，俗姓朴，<placeName key="PL000000048625">雞林府</placeName>人也<ptr target="#n599"/>。生且英奇，長而<lb
 ed="T" n="0729a05"/>出離，逍遙入道，性分天然。年臨弱冠，聞<placeName key="PL000000000106">唐<lb
 ed="T" n="0729a06"/>土</placeName>教宗鼎盛，與<persName key="A000136">元曉法師</persName>同志西遊，行至<lb
@@ -13,7 +13,7 @@ ed="T" n="0729a12"/>為怪。<persName key="A000136">曉公</persName>歎曰：�
 ed="T" n="0729a13"/>此夜留宵，託鬼鄉而多<anchor xml:id="beg0729001"/><choice resp="sgsz"><sic>崇</sic><corr>祟</corr></choice><anchor xml:id="end0729001"/>。則知心生故種<lb
 ed="T" n="0729a14"/>種法生，心滅故龕墳不二。又三界唯心，萬法<lb
 ed="T" n="0729a15"/>唯識。心外無法，胡用別求？<ref type="person" target="#A000136">我</ref>不入<placeName key="PL000000000106">唐</placeName>。」却携<lb
-ed="T" n="0729a16"/>囊返國，<persName key="A001471">湘</persName>乃隻影孤征，誓死無退。以<date from-iso="0669-02-09" key="j19654471965801" to-iso="0670-01-29">總章<lb
+ed="T" n="0729a16"/>囊返國，<persName key="A001471">湘</persName>乃隻影孤征，誓死無退。以<date from-iso="+0669-02-09" key="j19654471965801" to-iso="+0670-01-29">總章<lb
 ed="T" n="0729a17"/>二年</date>附商船達<placeName key="PL000000020971">登州</placeName>岸，分衛<ptr type="glossary" target="#g602"/>到一信士家，<lb
 ed="T" n="0729a18"/>見<persName key="A001471">湘</persName>容色挺拔，留連<ptr type="glossary" target="#g603"/>門下既久，有少女麗<lb
 ed="T" n="0729a19"/>服靚粧<ptr type="glossary" target="#g604"/>，名曰<persName key="A009227">善妙</persName>，巧媚誨之，<persName key="A001471">湘</persName>之心石不<lb
@@ -46,7 +46,7 @@ ed="T" n="0729b16"/>於<ref type="person" target="#A021552">王</ref>曰：「�
 ed="T" n="0729b17"/>經》八不淨財，何莊田之有？何奴僕之為？<ref type="person" target="#A001471">貧道</ref><lb
 ed="T" n="0729b18"/>以法界為家，以盂耕待稔<ptr type="glossary" target="#g615"/>，法身慧命<anchor xml:id="beg0729sgsz2"/>藉<anchor xml:id="end0729sgsz2"/><lb
 ed="T" n="0729b19"/>此而生矣。」<persName key="A001471">湘</persName>講樹開花，談叢結果，登堂覩<lb
-ed="T" n="0729b20"/>奧者則<persName key="A021555">智通</persName>、<persName key="A009229">表訓</persName>、<persName key="A009230">梵體</persName>、<persName key="A009231">道身</persName>等數人，皆啄巨<lb
+ed="T" n="0729b20"/>奧者則<persName key="A021555">智通</persName>、<persName key="A009229">表訓</persName>、<persName key="A009230"><name>梵</name>體</persName>、<persName key="A009231">道身</persName>等數人，皆啄巨<lb
 ed="T" n="0729b21"/>㲉<ptr type="glossary" target="#g616"/>飛出迦留羅鳥<ptr type="glossary" target="#g617"/>焉。<persName key="A001471">湘</persName>貴「如說行」，講宣之<lb
 ed="T" n="0729b22"/>外，精勤修練，莊嚴<anchor xml:id="beg0729003"/>剎<anchor xml:id="end0729003"/>海<ptr type="glossary" target="#g618"/>，靡憚暄涼。又常<lb
 ed="T" n="0729b23"/>行「<persName key="A001470">義淨</persName>洗穢法」，不用巾帨，立期乾燥而止。<lb

@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0709a03songGaoSengChuanXu">
-    <div><lb
+<div xmlns="http://www.tei-c.org/ns/1.0" type="卷首" xml:id="gsz0709a03songGaoSengZhuanXu">
+<div><pb n="0709a" xml:id="T50.2061.0709a" ed="T"/><lb
 n="0709a03" ed="T"/><anchor n="T.50.2061.0709a03"/><head>進《高僧傳》表</head><lb
 n="0709a04" ed="T"/><lb
-n="0709a05" ed="T"/><byline n="Author"><anchor xml:id="beg0709001"/><date when-iso="0988-11-23" key="j20822472082247">端拱元年十月日</date><placeName key="PL000000023316">左街天壽寺</placeName><lb
-n="0709a06" ed="T"/><persName key="A001910">通慧大師<roleName>賜紫臣僧</roleName>贊寧</persName>上表<anchor xml:id="end0709001"/></byline>
-        <p xml:id="pT50p0709a0701"><lb
-n="0709a07" ed="T"/><anchor xml:id="beg0709002"/>臣僧<persName key="A001910">贊寧</persName>等言，自<date from-iso="0982-02-02" key="j20797612080144" to-iso="0983-02-20">太平興國七年</date>伏奉勅<lb
+n="0709a05" ed="T"/><byline n="Author"><anchor xml:id="beg0709001"/><date when-iso="+0988-11-23" key="j20822472082247">端拱元年十月日</date>左街<placeName key="PL000000023316">天壽寺</placeName><lb
+n="0709a06" ed="T"/><persName key="A001910">通慧大師<roleName>賜紫臣僧</roleName>贊寧</persName>上表<anchor xml:id="end0709001"/><ptr target="#n11"/></byline><p xml:id="pT50p0709a0701"><lb
+n="0709a07" ed="T"/>臣僧<persName key="A001910">贊寧</persName>等言，自<date from-iso="+0982-02-02" key="j20797612080144" to-iso="+0983-02-20">太平興國七年</date>伏奉勅<lb
 n="0709a08" ed="T"/>旨，俾修《高僧傳》與新譯經同入藏者。<ref type="person" target="A001910">臣</ref>等<lb
 n="0709a09" ed="T"/>遐求事跡，博採碑文，今已撰集成三十卷，<lb
 n="0709a10" ed="T"/>謹詣闕庭進上。益琅函而更廣，延玉曆以<lb
@@ -25,20 +24,19 @@ n="0709a22" ed="T"/>之畜。近以從<placeName key="PL000000024722">澶</place
 n="0709a23" ed="T"/>古及今，青史載千年之應。斯蓋<ref type="person" target="#A001640">陛下</ref>來從<lb
 n="0709a24" ed="T"/>不動之地，示為長壽之王。飜譯成經，製甚<lb
 n="0709a25" ed="T"/>深之御序；迴文作頌<ptr target="#n3"/>，演無盡之法音。仍降<lb
-n="0709a26" ed="T"/>鳳書，令編僧史。屬此<date from-iso="0984-12-11" key="j20808042081961" to-iso="0988-02-11">雍熙</date>之運，伸其<date from-iso="0627-01-26" key="j19500921958296" to-iso="0649-07-13">貞觀</date><lb
+n="0709a26" ed="T"/>鳳書，令編僧史。屬此<date from-iso="+0984-12-11" key="j20808042081961" to-iso="+0988-02-11">雍熙</date>之運，伸其<date from-iso="+0627-01-26" key="j19500921958296" to-iso="+0649-07-13">貞觀</date><lb
 n="0709a27" ed="T"/>之風，合選兼才，豈當末學？得不擒犀截<lb
 n="0709a28" ed="T"/>角，搴翠刪毛，精求出類之人，取法表年<lb
-n="0709a29" ed="T"/>之史。所恨空門寡學，釋胄何知！或有可觀，
-            <pb n="0709b" xml:id="T50.2061.0709b" ed="T"/><lb
+n="0709a29" ed="T"/>之史。所恨空門寡學，釋胄何知！或有可觀，<pb n="0709b" xml:id="T50.2061.0709b" ed="T"/><lb
 n="0709b01" ed="T"/>實錄聊摹於<persName key="A002103">陳壽</persName>；如苞深失，戾經宜罪<lb
 n="0709b02" ed="T"/>於<persName key="A004022">馬遷</persName>。副<ref type="person" target="#A001640">陛下</ref>遺賢必取之心，助<ref type="person" target="#A001640">陛下</ref>墜典<lb
-n="0709b03" ed="T"/>咸修之美。今遇<date when-iso="0988-11-23" key="j20822472082247">乾明聖節</date><ptr target="#n4"/>，謹令弟子賜紫<persName key="A019530">顯<lb
+n="0709b03" ed="T"/>咸修之美。今遇<date when-iso="+0988-11-23" key="j20822472082247">乾明聖節</date><ptr target="#n4"/>，謹令弟子賜紫<persName key="A019530">顯<lb
 n="0709b04" ed="T"/>忠</persName>、同元受勅<placeName key="PL000000023307">相國寺</placeName>賜紫<persName key="A001297">智輪</persName>進納，伏乞叡<lb
 n="0709b05" ed="T"/>慈，略賜御覽。恭惟<ref type="person" target="#A001640">聖主</ref>是文章之主，<ref type="person" target="#A001910">微臣</ref>非<lb
 n="0709b06" ed="T"/>惇史之臣。儻示天機，令知凡例。如得操<lb
 n="0709b07" ed="T"/>北斗而斟酌，或示刀圭；執南箕而簸揚，方<lb
 n="0709b08" ed="T"/>除糠糩<ptr target="#n5"/>。<ref type="person" target="A001910">臣</ref>等冒黷天顏，無任<ptr type="glossary" target="#g767"/>惶懼激切屏<lb
-n="0709b09" ed="T"/>營之至<ptr type="glossary" target="#g6"/>，謹言。<anchor xml:id="end0709002"/></p></div><div><lb
+n="0709b09" ed="T"/>營之至<ptr type="glossary" target="#g6"/>，謹言。</p><div><lb
 n="0709b10" ed="T"/><head>批答</head>
         <p xml:id="pT50p0709b1101"><lb
 n="0709b11" ed="T"/>勅<persName key="A001910">通慧大師贊寧</persName>，省所令<placeName key="PL000000023316">左街天壽寺</placeName>賜紫<lb
@@ -49,12 +47,11 @@ n="0709b15" ed="T"/>苑，成茲編集，頗効辛勤。備觀該總之能，深
 n="0709b16" ed="T"/>切歎嘉之意。其所進《高僧傳》，已令僧錄司<lb
 n="0709b17" ed="T"/>編入《大藏》。今賜絹三<anchor xml:id="beg0709004"/><choice resp="sgsz"><sic>千匹</sic><corr>十匹</corr></choice><anchor xml:id="end0709004"/>，至可領也。故茲<lb
 n="0709b18" ed="T"/>獎諭，想宜知悉。冬寒，想比清休否？遣書指不<lb
-n="0709b19" ed="T"/>多及<ptr type="glossary" target="#g7"/>。<date when-iso="0988-12-04" key="j20822582082258">十八日</date>勅。</p></div><div><lb
+n="0709b19" ed="T"/>多及<ptr type="glossary" target="#g7"/>。<date when-iso="+0988-12-04" key="j20822582082258">十八日</date>勅。</p></div></div><div><lb
 n="0709b20" ed="T"/><lb
 n="0709b21" ed="T"/><head><lb
 n="0709b22" ed="T"/><anchor xml:id="beg0709005" n="0709005"/>宋<anchor xml:id="end0709005"/>高僧傳序</head><lb
-n="0709b23" ed="T"/>
-        <p xml:id="pT50p0709b2401"><lb
+n="0709b23" ed="T"/><p xml:id="pT50p0709b2401"><lb
 n="0709b24" ed="T"/><ref type="person" target="A001910">臣</ref>聞賢劫綿長，世間宏廓，天與時而不盡，<lb
 n="0709b25" ed="T"/>地受富以無疆，最靈之氣牣<anchor xml:id="beg0709006" n="0709006"/>于<anchor xml:id="end0709006"/>中，大聖之<lb
 n="0709b26" ed="T"/>師居于上。偉哉！<persName key="A002799">釋迦</persName>方隱，<persName key="A001428">彌勒</persName>未來，其間<lb
@@ -69,7 +66,7 @@ n="0709c04" ed="T"/>述《沙門傳》，<persName key="A001926">釋寶唱</pers
 n="0709c05" ed="T"/>《洪範》之椎輪，土鼓為《咸池》之坏器。焉知來者，<lb
 n="0709c06" ed="T"/>靡曠其人。<persName key="A001724">慧皎</persName><anchor xml:id="beg0709007" n="0709007"/>刊<anchor xml:id="end0709007"/>修，用實行潛光之目；<persName key="A001519">道<lb
 n="0709c07" ed="T"/>宣</persName>緝綴，續高而不名之風，令六百載行道之<lb
-n="0709c08" ed="T"/>人弗墜于地者矣。爰自<date from-iso="0627-01-26" to-iso="0649-07-13" key="j19500921958296">貞觀</date>命章<ptr type="glossary" target="#g13"/>之後，<placeName key="PL000000042216">西<lb
+n="0709c08" ed="T"/>人弗墜于地者矣。爰自<date from-iso="+0627-01-26" to-iso="+0649-07-13" key="j19500921958296">貞觀</date>命章<ptr type="glossary" target="#g13"/>之後，<placeName key="PL000000042216">西<lb
 n="0709c09" ed="T"/>明</placeName>絕筆<ptr type="glossary" target="#g14"/>已還<ptr target="#n15"/>，此作蔑聞，斯文將缺。時有再<lb
 n="0709c10" ed="T"/>至，肅殺過而繁華來；世無久虛，地天<anchor xml:id="beg0709008" n="0709008"/><choice resp="sgsz"><sic>奏</sic><corr>泰</corr></choice><anchor xml:id="end0709008"/><ptr target="#n16"/>而<lb
 n="0709c11" ed="T"/>聖明出。我<persName key="A001640">應運統天叡文英武大聖至明廣<lb
@@ -79,7 +76,7 @@ n="0709c14" ed="T"/>子之職。講信修睦，崇德報功，一<anchor xml:id=
 n="0709c15" ed="T"/>王有愧，四海若窺於掌內，萬機皆發於宸<lb
 n="0709c16" ed="T"/>衷。然而玄牝<ptr type="glossary" target="#g17"/>留神，釋天淡慮。長生授術，時<lb
 n="0709c17" ed="T"/>開太一之壇；續法延期，僧度倍千之戒。浮<lb
-n="0709c18" ed="T"/>圖揭漢，梵夾飜華，將佛國之同風，與玉京<lb
+n="0709c18" ed="T"/>圖揭漢，<name>梵</name>夾飜華，將佛國之同風，與玉京<lb
 n="0709c19" ed="T"/>而合制。慨茲釋侶，代有其人，思景行<ptr type="glossary" target="#g18"/>之莫<lb
 n="0709c20" ed="T"/>聞，實紀錄之彌曠。<ref type="person" target="A001910">臣</ref>等謬膺良選，俱乏史<lb
 n="0709c21" ed="T"/>才，空門不出於<persName key="A013817">董狐</persName>，弱手難探於<placeName key="PL000000013182">禹穴</placeName><ptr target="#n19"/>。而<lb
@@ -94,33 +91,33 @@ n="0709c29" ed="T"/>無物不至；四夷弭伏，求之則何事不供。<ref t
             <pb n="0710a" xml:id="T50.2061.0710a" ed="T"/><lb
 n="0710a01" ed="T"/>等分面徵搜，各塗搆集，如見一家之好，且<lb
 n="0710a02" ed="T"/>無諸國之殊，所以成十科者，易同拾取。其<lb
-n="0710a03" ed="T"/>正傳五百三十三人，附見一百三十人。矧<ptr type="glossary" target="#g325"/>復<lb
+n="0710a03" ed="T"/>正傳五百三十三人，附見一百三十人。矧<ptr rend="display:none;" type="glossary" target="#g325"/>復<lb
 n="0710a04" ed="T"/>逐科盡處，象史「論」以攄辭；因事言時，為<lb
 n="0710a05" ed="T"/>傳家之系斷。厥號《<anchor xml:id="beg0709sgsz5" n="0709sgsz5"/><corr>大</corr><anchor xml:id="end0709sgsz5"/>宋高僧傳》焉。庶幾乎<lb
 n="0710a06" ed="T"/>銅馬為式，選千里之駿駒<ptr type="glossary" target="#g24"/>；竹編見書，實六和<lb
 n="0710a07" ed="T"/>之年表<ptr type="glossary" target="#g25"/>。觀之者務進，悟之者思齊，皆登三<lb
 n="0710a08" ed="T"/>藐之山，悉入薩云之海<ptr type="glossary" target="#g26"/>，永資聖曆，俱助皇<lb
-n="0710a09" ed="T"/>明，齊愛日之炳光，應<placeName key="PL000000023253">嵩山</placeName>之呼壽<ptr type="glossary" target="#g27"/>云爾。時<lb
-n="0710a10" ed="T"/><date when-iso="0988-11-23" key="j20822472082247">端拱元年乾明節</date>臣僧<persName key="A001910">贊寧</persName>等謹上。</p><lb
+n="0710a09" ed="T"/>明<ptr type="glossary" target="#g1374"/>，齊愛日之炳光，應<placeName key="PL000000023253">嵩山</placeName>之呼壽<ptr type="glossary" target="#g27"/>云爾。時<lb
+n="0710a10" ed="T"/><date when-iso="+0988-11-23" key="j20822472082247">端拱元年乾明節</date>臣僧<persName key="A001910">贊寧</persName>等謹上。</p></div><div><lb
 n="0710a11" ed="T"/><lb
 n="0710a12" ed="T"/>
         <p xml:id="pT50p0710a1301"><lb
-n="0710a13" ed="T"/>譯經篇第一</p><lg><l>變梵成華。通凡入聖。</l><l>法輪斯轉。諸佛所師</l></lg>
+n="0710a13" ed="T"/>譯經篇第一</p><lg><l>變<name>梵</name>成華。通凡入聖。</l><l>法輪斯轉。諸佛所師。</l></lg>
         <p xml:id="pT50p0710a1401"><lb
-n="0710a14" ed="T"/>義解篇第二</p><lg><l>尋文見義。得意忘言。</l><l>三慧<ptr type="glossary" target="#g28"/>克全。二依當轉</l></lg>
+n="0710a14" ed="T"/>義解篇第二</p><lg><l>尋文見義。得意忘言。</l><l>三慧<ptr type="glossary" target="#g28"/>克全。二依當轉。</l></lg>
         <p xml:id="pT50p0710a1501"><lb
-n="0710a15" ed="T"/>習禪篇第三</p><lg><l>修至無念。善惡都亡。</l><l>亡其所亡。常住安樂</l></lg>
+n="0710a15" ed="T"/>習禪篇第三</p><lg><l>修至無念。善惡都亡。</l><l>亡其所亡。常住安樂。</l></lg>
         <p xml:id="pT50p0710a1601"><lb
-n="0710a16" ed="T"/>明律篇第四</p><lg><l>嚴而少恩。正而急護。</l><l>嬰守三業<ptr type="glossary" target="#g29"/>。同彼金湯</l></lg>
+n="0710a16" ed="T"/>明律篇第四</p><lg><l>嚴而少恩。正而急護。</l><l>嬰守三業<ptr type="glossary" target="#g29"/>。同彼金湯。</l></lg>
         <p xml:id="pT50p0710a1701"><lb
-n="0710a17" ed="T"/>護法篇第五</p><lg><l>家有良吏。守藏何虞。</l><l>法有名師。外禦其侮</l></lg>
+n="0710a17" ed="T"/>護法篇第五</p><lg><l>家有良吏。守藏何虞。</l><l>法有名師。外禦其侮。</l></lg>
         <p xml:id="pT50p0710a1801"><lb
-n="0710a18" ed="T"/>感通篇第六</p><lg><l>逆於常理。感而遂通。</l><l>化于世間。觀之難測</l></lg>
+n="0710a18" ed="T"/>感通篇第六</p><lg><l>逆於常理。感而遂通。</l><l>化于世間。觀之難測。</l></lg>
         <p xml:id="pT50p0710a1901"><lb
-n="0710a19" ed="T"/>遺身篇第七</p><lg><l>難捨易捐。施中第一。</l><l>以穢漏體。迴金剛身</l></lg>
+n="0710a19" ed="T"/>遺身篇第七</p><lg><l>難捨易捐。施中第一。</l><l>以穢漏體。迴金剛身。</l></lg>
         <p xml:id="pT50p0710a2001"><lb
-n="0710a20" ed="T"/>讀誦篇第八</p><lg><l>十種法師。此為高大。</l><l>染枸櫞花。果時瓤赤</l></lg>
+n="0710a20" ed="T"/>讀誦篇第八</p><lg><l>十種法師。此為高大。</l><l>染枸櫞花。果時瓤赤。</l></lg>
         <p xml:id="pT50p0710a2101"><lb
-n="0710a21" ed="T"/>興福篇第九</p><lg><l>為己為他。福生罪滅。</l><l>有為之善。其利博哉</l></lg>
+n="0710a21" ed="T"/>興福篇第九</p><lg><l>為己為他。福生罪滅。</l><l>有為之善。其利博哉。</l></lg>
                 <p xml:id="pT50p0710a2201"><lb
-n="0710a22" ed="T"/>雜科聲德十</p><lg><l>統攝諸科。同歸高尚。</l><l>唱導之匠。光顯佛乘</l></lg></div></div>
+n="0710a22" ed="T"/>雜科聲德十</p><lg><l>統攝諸科。同歸高尚。</l><l>唱導之匠。光顯佛乘。</l></lg></div></div>

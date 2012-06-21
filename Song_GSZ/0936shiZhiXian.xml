@@ -1,25 +1,25 @@
 <?xml version='1.0' encoding='utf-8'?>
-<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0785a25shiZhiXian">
-    <anchor n="T.50.2061.0785a25"/><head><date from-iso="0907-06-10" key="j20524952058534" to-iso="0923-12-22">梁</date>鄧州香嚴山<persName key="A005255">智閑</persName>傳（<persName key="A009447">大同</persName>）</head><p><lb
+<div xmlns="http://www.tei-c.org/ns/1.0" type="習禪" xml:id="gsz0785a25shiZhiXian">
+    <anchor n="T.50.2061.0785a25"/><head><date from-iso="+0907-06-10" key="j20524952058534" to-iso="+0923-12-22">梁</date>鄧州香嚴山<persName key="A005255">智閑</persName>傳（<persName key="A009447">大同</persName>）</head><p><lb
 ed="T" n="0785a26"/><persName key="A005255">釋智閑</persName>，<placeName key="PL000000021111">青州</placeName>人也。身裁七尺，博聞強記，有幹<lb
 ed="T" n="0785a27"/>略。親黨觀其所以，謂<persName key="A005255">之</persName>曰：「<persName key="A005255">汝</persName>加力學，則他<lb
 ed="T" n="0785a28"/>後成佐時之良器也。」俄爾，辭親出俗。既而<lb
-ed="T" n="0785a29"/>慕法心堅，至南方禮<placeName key="PL000000028694">溈山</placeName><persName key="A001984">大圓禪師</persName>盛會，<pb ed="T" n="0785b" xml:id="T50.2061.0785b"/><lb
+ed="T" n="0785a29"/>慕法心堅，至南方<anchor xml:id="beg0785sgsz2"/>禮<anchor xml:id="end0785sgsz2"/><placeName key="PL000000028694">溈山</placeName><persName key="A001984">大圓禪師</persName>盛會，<pb ed="T" n="0785b" xml:id="T50.2061.0785b"/><lb
 ed="T" n="0785b01"/>咸推<persName key="A005255">閑</persName>為俊敏。<persName key="A001984">溈山</persName>一日召對茫然，將諸<lb
 ed="T" n="0785b02"/>方《語要》一時煨燼，曰：「畫餅弗可充飢也。」便<lb
 ed="T" n="0785b03"/>望<persName key="A001707">南陽忠國師</persName>遺跡而居。偶芟除草木，擊<lb
 ed="T" n="0785b04"/>瓦礫，失笑，冥有所證，抒頌唱之，由茲盛<lb
-ed="T" n="0785b05"/>化。終後，勅<app type="cb-app" xml:id="begd1e20922"/>諡<anchor xml:id="endd1e20922"/><persName key="A005255">襲燈大師</persName>，塔號廷福焉。次舒<lb
+ed="T" n="0785b05"/>化。終後，勅諡<persName key="A005255">襲燈大師</persName>，塔號<anchor xml:id="beg0785sgsz3"/>廷<anchor xml:id="end0785sgsz3"/>福焉。次舒<lb
 ed="T" n="0785b06"/>州桐城<placeName key="PL000000015565">投子山</placeName><persName key="A009447">釋大同</persName>，姓劉氏，舒州<placeName key="PL000000015479">懷寧</placeName>人<lb
 ed="T" n="0785b07"/>也。幼性剛正，有老成氣度。因投洛下<placeName key="PL000000023575">保唐</placeName><persName key="A010671">滿<lb
 ed="T" n="0785b08"/>禪師</persName>出俗，初習安般觀，業垂成，遂求華嚴<lb
 ed="T" n="0785b09"/>性海。復負錫謁翠微山<!--找不到此地-->法會，同伏牛<!--找不到此地--><persName key="A010676">元通</persName><lb
 ed="T" n="0785b10"/>激發請益，大明祖意。由是放蕩周遊，還歸故<lb
-ed="T" n="0785b11"/>土，隱<placeName key="PL000000015565">投子山</placeName>，結茅茨，棲泊以求其志。<date from-iso="0881" key="j20430642044395" to-iso="0885">中和</date><lb
-ed="T" n="0785b12"/>中，巢寇蕩<anchor xml:id="beg0785002"/>履<anchor xml:id="end0785002"/><placeName key="PL000000042189">京畿</placeName>，天下悖亂。有賊徒持刃<lb
-ed="T" n="0785b13"/>問同曰：「住此何為？」對以佛法。魁渠聞面膜<lb
-ed="T" n="0785b14"/>拜。脫身服裝而施之下山。以<date key="j20550192055019" when-iso="0914-05-08">梁乾化四年<lb
-ed="T" n="0785b15"/>甲戌四月六日</date>，加趺坐亡，春秋九十六，法臘<lb
+ed="T" n="0785b11"/>土，隱<placeName key="PL000000015565">投子山</placeName>，結茅茨，棲泊以求其志。<date from-iso="+0881-08-13" key="j20430642044395" to-iso="+0885-04-05">中和</date><lb
+ed="T" n="0785b12"/>中，巢寇蕩<anchor xml:id="beg0785002"/><choice resp="sgsz"><sic>履</sic><corr>覆</corr></choice><anchor xml:id="end0785002"/><placeName key="PL000000042189">京畿</placeName>，天下悖亂。有賊徒持刃<lb
+ed="T" n="0785b13"/>問同曰：「住此何為？」對以佛法。魁渠聞<anchor xml:id="beg0785sgsz4"/><choice resp="sgsz"><sic>面</sic><corr>而</corr></choice><anchor xml:id="end0785sgsz4"/>膜<lb
+ed="T" n="0785b14"/>拜。脫身服裝而施之下山。以<date key="j20550192055019" when-iso="+0914-05-08">梁乾化四年<lb
+ed="T" n="0785b15"/>甲<anchor xml:id="beg0785sgsz5"/>戌<anchor xml:id="end0785sgsz5"/>四月六日</date>，加趺坐亡，春秋九十六，法臘<lb
 ed="T" n="0785b16"/>四十六。凡居化此山三十餘載云。</p>
     <linkGrp>
         <link targets="#0785a29 #0785b02"/>

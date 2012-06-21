@@ -1,22 +1,32 @@
 <?xml version='1.0' encoding='utf-8'?>
-<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0757c17shiDaoLiang">
-    <anchor n="T.50.2061.0757c17"/><head><date from-iso="0618-06-21" key="j19469512052491" to-iso="0907-06-06">唐</date><placeName key="PL000000013295">越州雲門寺</placeName><persName key="A010106">道亮</persName>傳</head><p><lb
+<div xmlns="http://www.tei-c.org/ns/1.0" type="習禪" xml:id="gsz0757c17shiDaoLiang"><lb
+ed="T" n="0757c17"/><anchor n="T.50.2061.0757c17"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date><placeName key="PL000000013295">越州雲門寺</placeName><persName key="A010106">道亮</persName>傳</head><p><lb
 ed="T" n="0757c18"/><persName key="A010106">釋道亮</persName>，姓朱氏，<placeName key="PL000000013239">越州</placeName>人也。厥考前刺<placeName key="PL000000013240">會稽<lb
-ed="T" n="0757c19"/>郡</placeName><note resp="sgsz">案《浙江通志》，隋、唐八位浙江朱姓刺史、太守中，皆非越州刺史或會稽太守。</note>。<persName key="A010106">亮</persName>年八歲出家，極通經業。受具後學河<lb
-ed="T" n="0757c20"/>中《三論》，復講《涅槃經》。尋入深谷，破衣覆形，<lb
-ed="T" n="0757c21"/>蔬食資命，不交俗務，直守童真。<date from-iso="0705-02-25" key="j19786111978942" to-iso="0706-01-22">神龍元年</date>，<lb
+ed="T" n="0757c19"/>郡</placeName><ptr target="#n1344"/>。<persName key="A010106">亮</persName>年<ref target="#j19518931952258" type="date">八歲</ref>出家，極通經業。受具後學「河<lb
+ed="T" n="0757c20"/>中三論」<ptr type="glossary" target="#g813"/>，復講《涅槃經》。尋入深谷，破衣覆形，<lb
+ed="T" n="0757c21"/>蔬食資命，不交俗務，直守童真<ptr type="glossary" target="#g1382"/>。<date from-iso="+0705-02-25" key="j19786111978942" to-iso="+0706-01-22"><name>神龍</name>元年</date>，<lb
 ed="T" n="0757c22"/><persName key="A002100">孝和皇帝</persName>詔<persName key="A010106">亮</persName>與法席宗師十人，入<placeName key="PL000000042362">長樂大<lb
 ed="T" n="0757c23"/>內</placeName>坐夏<ptr type="glossary" target="#g61"/>安居。時<ref type="person" target="#A002100">帝</ref>命受菩薩戒。<persName key="A002461">睿宗</persName>及妃后<lb
-ed="T" n="0757c24"/>送異錦衾氈席。<date from-iso="0706-01-23" key="j19789431979326" to-iso="0707-02-10">二年</date>，詔於<ref type="place" target="#PL000000023605">西園</ref><ptr target="#n1161"/>問道，朝廷<lb
+ed="T" n="0757c24"/>送異錦衾氈席。<date from-iso="+0706-01-23" key="j19789431979326" to-iso="+0707-02-10">二年</date>，詔於<ref type="place" target="#PL000000042284">西園</ref>問道，朝廷<lb
 ed="T" n="0757c25"/>欽貴。大都督<persName key="A010118">李孝逸</persName>、工部尚書<persName key="A010116">張錫</persName>、國子監<lb
-ed="T" n="0757c26"/>周業<persName key="A010112">崔融</persName><ptr target="#n1160"/>、祕書監<persName key="A008710">賀知章</persName>、<placeName key="PL000000012005">睦州</placeName>刺史<persName key="A010832">康<add resp="sgsz">希</add>詵</persName>，同<lb
-ed="T" n="0757c27"/>心慕仰，請問禪心，多結師資，或傳香火。卒<lb
-ed="T" n="0757c28"/>年八十二，門人<persName key="A010110">慧遠</persName>等建塔，<persName key="A007959">萬齊融</persName>為《銘》紀<lb
+ed="T" n="0757c26"/><choice resp="sgsz"><sic>周</sic><corr>司</corr></choice>業<persName key="A010112">崔融</persName><ptr target="#n1160"/>、祕書監<persName key="A008710">賀知章</persName>、<placeName key="PL000000012005">睦州</placeName>刺史<persName key="A010832">康<add resp="sgsz">希</add>詵</persName><ptr target="#n1345"/>，同<lb
+ed="T" n="0757c27"/>心慕仰，請問禪心，多結師資，或傳香火<ptr target="#n1346"/>。卒<lb
+ed="T" n="0757c28"/>年八十二，門人<persName key="A010110">慧遠</persName>等建塔，<persName key="A007959">萬齊融</persName>為銘紀<lb
 ed="T" n="0757c29"/>述。</p>
+    <linkGrp>
+        <link targets="#0757c17 #0757c17"/>
+        <ptr target="#A010106" type="person"/>
+        <ptr target="#PL000000013295" type="place"/>
+    </linkGrp>
     <linkGrp>
         <link targets="#0757c18 #0757c18"/>
         <ptr target="#A010106" type="person"/>
         <ptr target="#PL000000013239" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0757c19 #0757c19"/>
+        <ptr target="#A010106" type="person"/>
+        <ptr target="#j19518931952258" type="time"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0757c21 #0757c23"/>
@@ -34,8 +44,8 @@ ed="T" n="0757c29"/>述。</p>
     <linkGrp>
         <link targets="#0757c24 #0757c24"/>
         <ptr target="#A010106" type="person"/>
-        <ptr target="#A002461" type="person"/>
-        <ptr target="#PL000000023605" type="place"/>
+        <ptr target="#A002100" type="person"/>
+        <ptr target="#PL000000042284" type="place"/>
         <ptr target="#j19789431979326" type="time"/>
     </linkGrp>
     <linkGrp>

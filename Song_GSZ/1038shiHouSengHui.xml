@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='utf-8'?>
-<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0826c10shiHouSengHui">
-    <anchor n="T.50.2061.0826c10"/><head><date from-iso="0618-06-21" key="j19469512052491" to-iso="0907-06-06">唐</date>會稽永欣寺<persName key="A012186">後僧會</persName>傳</head><p><lb
-ed="T" n="0826c11"/><persName key="A012186">釋後僧會</persName>者，本<placeName key="PL000000055079">康居國</placeName>人也，以吳<date from-iso="0238" key="j18082271812891" to-iso="0251">赤烏年</date>中<lb
+<div xmlns="http://www.tei-c.org/ns/1.0" type="感通" xml:id="gsz0826c10shiHouSengHui">
+    <anchor n="T.50.2061.0826c10"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date>會稽永欣寺<persName key="A012186">後僧會</persName>傳</head><p><lb
+ed="T" n="0826c11"/><persName key="A012186">釋後僧會</persName>者，本<placeName key="PL000000055079">康居國</placeName>人也，以吳<date notBefore-iso="+0238-08-28" key="j18082271812891" notAfter-iso="+0251-06-05">赤烏年中</date><lb
 ed="T" n="0826c12"/>謁<persName key="A002169">大帝</persName>。初吳人未識僧形，止曰胡人入<lb
-    ed="T" n="0826c13"/>境。乃祈舍利<anchor xml:id="beg0826sgsz9"/>已<anchor xml:id="end0826sgsz9"/>，令帝開悟。末主<date from-iso="0280-02-18" key="j18233761823479" to-iso="0280-05-31">天紀四年</date>，<lb
-ed="T" n="0826c14"/><persName key="A012186">會</persName>尸解，真身隱焉。至唐高宗<date from-iso="0650" key="j19585081960698" to-iso="0656">永徽</date>中見形于<lb
+ed="T" n="0826c13"/>境。乃祈舍利已，令帝開悟。末主<date from-iso="+0280-02-18" key="j18233761823479" to-iso="+0280-05-31">天紀四年</date>，<lb
+ed="T" n="0826c14"/><persName key="A012186">會</persName>尸解，真身隱焉。至唐高宗<date notBefore-iso="+0650-02-10" key="j19585081960698" notAfter-iso="+0656-02-09">永徽中</date>見形于<lb
 ed="T" n="0826c15"/><placeName key="PL000000011304">越</placeName>，稱是遊方僧，而神氣瓌異，眉高隆準，頤峭<lb
-ed="T" n="0826c16"/>眸碧，而瘦露奇骨，真梵容也。見者悚然，罔知<lb
+ed="T" n="0826c16"/>眸碧，而瘦露奇骨，真<name>梵</name>容也。見者悚然，罔知<lb
 ed="T" n="0826c17"/>階位。時寺綱紏詰其厥由，罵而驅逐。<persName key="A012186">會</persName>行及<lb
 ed="T" n="0826c18"/>門，乃語之曰：「吾<persName key="A012186">康僧會</persName>也，苟能留<persName key="A012186">吾</persName>真體，<lb
 ed="T" n="0826c19"/>福爾伽藍。」躧步之間，立而息絕。既而青目<lb
@@ -24,13 +24,13 @@ ed="T" n="0827a01"/>事訖，便謁靈跡，認于時言者，則斯僧也。命
 ed="T" n="0827a02"/>撤軍家，勒就營幕。又疋婦夜臨蓐席，且無<lb
 ed="T" n="0827a03"/>脂爥，隣無隙光。俄有一僧秉爥自牖而入。<lb
 ed="T" n="0827a04"/>其夫旦入<placeName key="PL000000013233">永欣</placeName>，認<persName key="A012186">會</persName>貌，即是授火救產厄<lb
-ed="T" n="0827a05"/>之僧。自爾民間多就求男女焉。屬<date from-iso="0841" key="j20282682030170" to-iso="0846">會昌</date>毀<lb
+ed="T" n="0827a05"/>之僧。自爾民間多就求男女焉。屬<date from-iso="+0841-02-08" key="j20282682030170" to-iso="+0846-04-25">會昌</date>毀<lb
 ed="T" n="0827a06"/><placeName key="PL000000013233">永欣</placeName>也，唯今<placeName key="PL000000013226">大善</placeName>獨留，號<placeName key="PL000000013226">開元</placeName>矣，遂移<persName key="A012186">會</persName><lb
-ed="T" n="0827a07"/>身入是<placeName key="PL000000013226">寺</placeName>中。<date from-iso="0847" key="j20304612035056" to-iso="0859">大中</date>之後，有<persName key="A012266">曇休律師</persName>為<persName key="A012186">會</persName><lb
+ed="T" n="0827a07"/>身入是<placeName key="PL000000013226">寺</placeName>中。<date from-iso="+0847-02-10" key="j20304612035056" to-iso="+0859-09-10"><name>大中</name></date>之後，有<persName key="A012266">曇休律師</persName>為<persName key="A012186">會</persName><lb
 ed="T" n="0827a08"/>別創堂宇，廣其供具。又甞就閭閻家<!--找不到此地-->求草<lb
-    ed="T" n="0827a09"/>屨，至今<placeName key="PL000000011304">越</placeName>人多以芒鞵油旛上獻，感應<anchor xml:id="beg0827sgsz1"/>肹<anchor xml:id="end0827sgsz1"/><lb
+ed="T" n="0827a09"/>屨，至今<placeName key="PL000000011304">越</placeName>人多以芒鞵油旛上獻，感應<anchor xml:id="beg0827sgsz1"/>肹<anchor xml:id="end0827sgsz1"/><lb
 ed="T" n="0827a10"/>蠁，各赴人家，不可周述。今號<persName key="A012186">超化大師</persName>。<lb
-ed="T" n="0827a11"/>從<date from-iso="0650" key="j19585081960698" to-iso="0656">永徽</date>至今，未甞闕其供施焉。沙門<persName key="A009895">虛受</persName><lb
+ed="T" n="0827a11"/>從<date from-iso="+0650-02-10" key="j19585081960698" to-iso="+0656-02-09">永徽</date>至今，未甞闕其供施焉。沙門<persName key="A009895">虛受</persName><lb
 ed="T" n="0827a12"/>為碑紀述焉。</p>
     <p xml:id="pT50p0827a1301"><lb
 ed="T" n="0827a13"/>系曰：<persName key="A009507">蔡邕</persName>是<persName key="A002494">張衡</persName>後身，<persName key="A010051">智威</persName>本<persName key="A004803">徐陵</persName>前事，驗<lb

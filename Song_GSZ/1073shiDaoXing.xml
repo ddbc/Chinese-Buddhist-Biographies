@@ -1,15 +1,15 @@
 <?xml version='1.0' encoding='utf-8'?>
-<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0839b16shiDaoXing">
-    <anchor n="T.50.2061.0839b16"/><head><date from-iso="0618-06-21" key="j19469512052491" to-iso="0907-06-06">唐</date>澧州開元寺<persName key="A012616">道行</persName>傳</head><p><lb
+<div xmlns="http://www.tei-c.org/ns/1.0" type="感通" xml:id="gsz0839b16shiDaoXing"><lb
+ed="T" n="0839b16"/><anchor n="T.50.2061.0839b16"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date>澧州開元寺<persName key="A012616">道行</persName>傳</head><p><lb
 ed="T" n="0839b17"/><persName key="A012616">釋道行</persName>，姓楊，<placeName key="PL000000031725">桂陽</placeName>人也。自生已來，神府聰利，<lb
-ed="T" n="0839b18"/>肌體氷雪如也。<date key="j19997402000104" from-iso="0763-01-01" to-iso="0763-12-31">年甫十二</date>，心誓慕道，於南岳<lb
+ed="T" n="0839b18"/>肌體氷雪如也。<date key="j19997402000104" from-iso="+0763-01-01" to-iso="+0763-12-31">年甫十二</date>，心誓慕道，於南岳<lb
 ed="T" n="0839b19"/><placeName key="PL000000028934">般若道場</placeName>受學，於<placeName key="PL000000018628"><anchor xml:id="beg0839002"/>鐘<anchor xml:id="end0839002"/>陵</placeName>求訣，自默證法，<lb
-ed="T" n="0839b20"/>號自在三昧。由此布納蒲鞵，用資殘息而<lb
+ed="T" n="0839b20"/>號自在三昧。由此布納<anchor xml:id="beg0839sgsz3"/>蒲<anchor xml:id="end0839sgsz3"/>鞵，用資殘息而<lb
 ed="T" n="0839b21"/>已。就<placeName key="PL000000029560">澧陽</placeName>西南，伐木為室，方丈而居，虎豹<lb
-ed="T" n="0839b22"/>多伏於床榻之間。後有齎材<anchor xml:id="beg0839003"/>殖<anchor xml:id="end0839003"/>，為營堂<lb
+ed="T" n="0839b22"/>多伏於床<anchor xml:id="beg0839sgsz5"/>榻<anchor xml:id="end0839sgsz5"/>之間。後有齎材<anchor xml:id="beg0839003"/>殖<anchor xml:id="end0839003"/>，為營堂<lb
 ed="T" n="0839b23"/>宇，曾未浹旬，一皆周具。視之，寂無人焉，始<lb
 ed="T" n="0839b24"/>知鬼神捨材輸力也。太守苦召居州治<placeName key="PL000000029396">開<lb
-ed="T" n="0839b25"/>元寺</placeName>，未久。<date from-iso="0820-01-23" key="j20205812020606" to-iso="0820-02-17">元和十五年</date>終，年六十九，焚舍<lb
+ed="T" n="0839b25"/>元寺</placeName>，未久。<date from-iso="+0820-01-23" key="j20205812020606" to-iso="+0820-02-17"><name>元和</name>十五年</date>，終年六十九，焚舍<lb
 ed="T" n="0839b26"/>利建塔焉。</p>
     <linkGrp>
         <link targets="#0839b18 #0839b19"/>

@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
-<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0892b29shiHuaiKong">
-    <anchor n="T.50.2061.0892b29"/><head><date from-iso="0618-06-21" key="j19469512052491" to-iso="0907-06-06">唐</date>安陸定安山<persName key="A008832">懷空</persName>傳</head><p><lb
+<div xmlns="http://www.tei-c.org/ns/1.0" type="雜科聲德" xml:id="gsz0892b29shiHuaiKong"><lb
+ed="T" n="0892b29"/><anchor n="T.50.2061.0892b29"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date>安陸定安山<persName key="A008832">懷空</persName>傳</head><pb n="0892c" xml:id="T50.2061.0892c" ed="T"/><p><lb
 ed="T" n="0892c01"/><persName key="A008832">釋懷空</persName>，俗姓商氏，<placeName key="PL000000024703">河陽</placeName>人也。膏粱之子，幼且<lb
 ed="T" n="0892c02"/>矜莊。乃辭所親，就本州大都山<placeName key="PL000000024695">廣福院</placeName>出<lb
-ed="T" n="0892c03"/>家。<persName key="A010199">大明禪師</persName>默識<persName key="A008832">空</persName>之器局不常，教誦群<lb
+ed="T" n="0892c03"/>家。<persName key="A010199">大明禪師</persName>默識<persName key="A008832">空</persName>之器<anchor xml:id="beg0892sgsz3"/>局<anchor xml:id="end0892sgsz3"/>不常，教誦群<lb
 ed="T" n="0892c04"/>經。納法之後，觀方<placeName key="PL000000042189">京都</placeName>。屬<persName key="A009582">北秀禪師</persName>闡化，<lb
 ed="T" n="0892c05"/>造而決疑。後往<placeName key="PL000000027656">安陸定安山</placeName>，倏遇一叟，勸<lb
 ed="T" n="0892c06"/><persName key="A008832">空</persName>鎮壓此川，我霑大利。乃結茅而止，前叟<lb
@@ -23,7 +23,7 @@ ed="T" n="0892c19"/>亡。百姓胥悅，且曰：「從<persName key="A008832">
 ed="T" n="0892c20"/>年穀熟。」致拜而退。時<persName key="A013890">張遼大夫</persName>為州牧，遣<lb
 ed="T" n="0892c21"/>府吏<persName key="A013892">慕容興</persName>往請入州，<persName key="A008832">空</persName>謝病不起。部領<lb
 ed="T" n="0892c22"/>工匠，為建禪宮。畢，示疾而終，享年八十<lb
-ed="T" n="0892c23"/>三。<date key="j20086072008607" when-iso="0787-04-12">貞元三年三月十六日</date>火葬，收舍利入塔<lb
+ed="T" n="0892c23"/>三。<date key="j20086072008607" when-iso="+0787-04-12"><name>貞元</name>三年三月十六日</date>火葬，收舍利入塔<lb
 ed="T" n="0892c24"/>焉。</p>
     <linkGrp>
         <link targets="#0892c02 #0892c04"/>

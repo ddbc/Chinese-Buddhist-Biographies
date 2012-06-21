@@ -1,27 +1,27 @@
 <?xml version='1.0' encoding='utf-8'?>
-<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0736b14shiQianZhen"><lb
-ed="T" n="0736b14"/><anchor n="T.50.2061.0736b14"/><head><date from-iso="0618-06-21" key="j19469512052491" to-iso="0907-06-06">唐</date><placeName key="PL000000042218">京師興善寺</placeName><persName key="A001756">潛真</persName>傳（<persName key="A009481">道超</persName>）</head><p><lb
+<div xmlns="http://www.tei-c.org/ns/1.0" type="義解" xml:id="gsz0736b14shiQianZhen"><lb
+ed="T" n="0736b14"/><anchor n="T.50.2061.0736b14"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date><placeName key="PL000000042218">京師興善寺</placeName><persName key="A001756">潛真</persName>傳（<persName key="A009481">道超</persName>）</head><p><lb
 ed="T" n="0736b15"/><persName key="A001756">釋潛真</persName>，字<persName key="A001756">義璋</persName>，姓王氏，<placeName key="PL000000003793">太原</placeName>華族，後徙為<lb
 ed="T" n="0736b16"/><placeName key="PL000000006672">夏州朔方崇道鄉</placeName>人也。考<persName key="A009427">珍</persName>，<persName key="A001756">真</persName>即仲子也。<ref type="date" target="#j19851741985528">年<lb
 ed="T" n="0736b17"/>在學數</ref><ptr type="glossary" target="#g798"/>，業尚典墳<ptr type="glossary" target="#g418"/>。幼好佛書，抑從天性，甫<lb
-ed="T" n="0736b18"/>及<ref type="date" target="#j19902821990636">弱冠</ref>，投跡空門。<date from-iso="0738-01-29" key="j19906371991020" to-iso="0739-02-16">開元二十六年</date>隷名于<lb
-ed="T" n="0736b19"/><placeName key="PL000000006675">本城靈覺寺</placeName>，<date from-iso="0739-02-17" key="j19910211991374" to-iso="0740-02-05">明年</date>納具戒。自此聽習律乘，<lb
-ed="T" n="0736b20"/>涉遊論海，凡曰講筵，無不探賾<ptr type="glossary" target="#g331"/>。屬<date from-iso="0762" key="j19995112005747" to-iso="0779">代宗<lb
+ed="T" n="0736b18"/>及<ref type="date" target="#j19902821990636">弱冠</ref>，投跡空門。<date from-iso="+0738-01-29" key="j19906371991020" to-iso="+0739-02-16">開元二十六年</date>隷名于<lb
+ed="T" n="0736b19"/><placeName key="PL000000006675">本城靈覺寺</placeName>，<date from-iso="+0739-02-17" key="j19910211991374" to-iso="+0740-02-05">明年</date>納具戒。自此聽習律乘，<lb
+ed="T" n="0736b20"/>涉遊論海，凡曰講筵，無不探賾<ptr type="glossary" target="#g331"/>。屬<date from-iso="+0762-05-17" key="j19995112005747" to-iso="+0779-06-13">代宗<lb
 ed="T" n="0736b21"/>朝</date>新譯《文殊師利菩薩佛剎莊嚴經》，勅<persName key="A001756">真</persName>造<lb
-ed="T" n="0736b22"/>疏，奏云：「此經凡有三譯。一<date when-iso="0290" key="j18270081827115">西晉太熙中</date><persName key="A000749">法<lb
+ed="T" n="0736b22"/>疏，奏云：「此經凡有三譯。一<date notBefore-iso="+0290-01-28" key="j18270081827115" notAfter-iso="+0290-05-15">西晉太熙中</date><persName key="A000749">法<lb
 ed="T" n="0736b23"/>護</persName>翻，名《佛土嚴淨經》，文勢多古，語簡理幽。二<lb
-ed="T" n="0736b24"/><date key="j19768801977143" from-iso="0700-05-31" to-iso="0701-02-18">天后久視中</date><persName key="A001606">實叉難陀</persName>於<placeName key="PL000000042134">清禪寺</placeName>翻，名《文殊<lb
-ed="T" n="0736b25"/>受記經》。三即今<date from-iso="0771-01-25" key="j20026862003069" to-iso="0772-02-12">大曆六年</date>所譯也。伏<anchor xml:id="beg0736sgsz5"/>惟<anchor xml:id="end0736sgsz5"/><persName key="A004379">寶應<lb
+ed="T" n="0736b24"/><date key="j19768801977143" notBefore-iso="+0700-05-31" notAfter-iso="+0701-02-18">天后久視中</date><persName key="A001606">實叉難陀</persName>於<placeName key="PL000000042134">清禪寺</placeName>翻，名《文殊<lb
+ed="T" n="0736b25"/>受記經》。三即今<date from-iso="+0771-01-25" key="j20026862003069" to-iso="+0772-02-12"><name>大曆</name>六年</date>所譯也。伏<anchor xml:id="beg0736sgsz5"/>惟<anchor xml:id="end0736sgsz5"/><persName key="A004379">寶應<lb
 ed="T" n="0736b26"/>元聖文武皇帝陛下</persName>，天垂帝籙，人歸寶圖<ptr type="glossary" target="#g799"/>，<lb
 ed="T" n="0736b27"/>德厚乾坤<ptr type="glossary" target="#g800"/>，明侔<ptr type="glossary" target="#g801"/>日月，仁恕滋物，夷狄仰德，<lb
 ed="T" n="0736b28"/>而輸誠慈惠，利生正教，承風而演化。頃者<lb
 ed="T" n="0736b29"/><placeName key="PL000000043739">鄜</placeName><placeName key="PL000000043825">坊</placeName>節度使兼御史中丞<persName key="A009479">杜冕</persName>奏為國請諸<pb ed="T" n="0736c" xml:id="T50.2061.0736c"/><lb
-ed="T" n="0736c01"/>大乘經<ptr target="#n806"/>，明詔下於祇園，梵旨開於貝葉，因<lb
+ed="T" n="0736c01"/>大乘經<ptr target="#n806"/>，明詔下於祇園，<name>梵</name>旨開於貝葉，因<lb
 ed="T" n="0736c02"/>請<persName key="A000095">三藏不空</persName>譯此經等數十部。續有勅下，<lb
-ed="T" n="0736c03"/>天下梵宇各置<persName key="A002144">文殊菩薩</persName>像<ptr target="#n807"/>，以旌聖功也。<lb
+ed="T" n="0736c03"/>天下<name>梵</name>宇各置<persName key="A002144">文殊菩薩</persName>像<ptr target="#n807"/>，以旌聖功也。<lb
 ed="T" n="0736c04"/>又詔以<persName key="A002144">文殊菩薩</persName>為上座，皆<persName key="A000095">三藏</persName>所請。<persName key="A000095">三<lb
 ed="T" n="0736c05"/>藏</persName>學究瑜伽<ptr type="glossary" target="#g93"/>，解窮法印<ptr type="glossary" target="#g802"/>，身、口、意業，祕密修<lb
-ed="T" n="0736c06"/>持，戒、定、慧學，顯通宣暢，唐、梵文字，聲、韻具知。<lb
+ed="T" n="0736c06"/>持，戒、定、慧學，顯通宣暢，唐、<name>梵</name>文字，聲、韻具知。<lb
 ed="T" n="0736c07"/>傳譯此經，善符聖旨，文質相兼，璨然可觀。<lb
 ed="T" n="0736c08"/><persName key="A001756">潛真</persName>識智愚昧，學藝庸淺，幸陪清眾<ptr type="glossary" target="#g803"/>，謬在翻<lb
 ed="T" n="0736c09"/>傳，虛空藏經，課<ptr type="glossary" target="#g804"/>虛潤色，猥蒙<ptr type="glossary" target="#g805"/>驅策，述疏讚<lb
@@ -30,10 +30,10 @@ ed="T" n="0736c11"/>由焉。有<placeName key="PL000000005372">金閣寺</place
 ed="T" n="0736c12"/>行契心本，親覩靈境，密承聖慈，故久在<placeName key="PL000000005250">清<lb
 ed="T" n="0736c13"/>涼</placeName>，屬興淨業<ptr target="#n808"/>，仍於現處建窣堵波。尋覲法<lb
 ed="T" n="0736c14"/>緣，來詣<ref type="place" target="#PL000000042189">京國</ref>，以此經為大事<ptr type="glossary" target="#g809"/>，以<ref target="#A002144" type="person">大聖</ref>為<lb
-ed="T" n="0736c15"/>本師<ptr type="glossary" target="#g190"/>，顯揚聖德，無過此者。乃稽首<ref target="#A000095" type="person">三藏</ref>，誓<lb
+ed="T" n="0736c15"/>本師<ptr rend="display:none;" type="glossary" target="#g190"/>，顯揚聖德，無過此者。乃稽首<ref target="#A000095" type="person">三藏</ref>，誓<lb
 ed="T" n="0736c16"/>傳<ref target="#A002144" type="person">大聖</ref>法門，不以<persName key="A001756">潛真</persName>庸虛，轉祈<ref target="#A000095" type="person">和尚</ref>，邀<lb
 ed="T" n="0736c17"/>令述作。<ref target="#A000095" type="person">和尚</ref>不念前之鄙陋，又令讚釋此<lb
-ed="T" n="0736c18"/>經。竊恐難契真詮，敢不盡其愚訥！」即<date from-iso="0773-11-23" key="j20037192003748" to-iso="0773-12-22">大曆<lb
+ed="T" n="0736c18"/>經。竊恐難契真詮，敢不盡其愚訥！」即<date from-iso="+0773-11-23" key="j20037192003748" to-iso="+0773-12-22"><name>大曆</name><lb
 ed="T" n="0736c19"/>八年十一月</date>，疏成奏過。<persName key="A001756">真</persName>學通內外<ptr type="glossary" target="#g32"/>，性相融<lb
 ed="T" n="0736c20"/>明，考覆幽玄，研精教理，探賾<ptr type="glossary" target="#g331"/>今古，比校親<lb
 ed="T" n="0736c21"/>疎，分別異同，歸於一義，辯猶泉涌，思入虛<lb
@@ -44,8 +44,8 @@ ed="T" n="0736c25"/>一卷。兼稟承<persName key="A000095">不空</persName>�
 ed="T" n="0736c26"/>壇，受成佛印。顯、密二教，皆聞博贍。<placeName key="PL000000042191">關內</placeName>、<placeName key="PL000000005198">河東</placeName>，<lb
 ed="T" n="0736c27"/>代歷<ref type="person" target="#A000291 #A004378 #A004379 #A004215">四朝</ref>，闡揚妙旨，弟子繁多。加復綱紀<lb
 ed="T" n="0736c28"/><placeName key="PL000000042218">興善</placeName>、<placeName key="PL000000042165">保壽</placeName>二處伽藍<ptr target="#n810"/>，懲勸僧尼，<persName key="A001756">真</persName>有力也。<lb
-ed="T" n="0736c29"/>以<date key="j20090482009048" when-iso="0788-06-26">貞<anchor xml:id="beg0736004"/><choice resp="sgsz"><sic>乾</sic><corr>元</corr></choice><anchor xml:id="end0736004"/>四年戊辰五月十四日</date>遺誡門人，<pb ed="T" n="0737a" xml:id="T50.2061.0737a"/><lb
-ed="T" n="0737a01"/>以疾而臥。<date key="j20090552009055" when-iso="0788-07-03">二十一日</date>，右脅累足，口誦彌陀佛<lb
+ed="T" n="0736c29"/>以<date key="j20090482009048" when-iso="+0788-06-26">貞<anchor xml:id="beg0736004"/><choice resp="sgsz"><sic>乾</sic><corr>元</corr></choice><anchor xml:id="end0736004"/>四年戊辰五月十四日</date>遺誡門人，<pb ed="T" n="0737a" xml:id="T50.2061.0737a"/><lb
+ed="T" n="0737a01"/>以疾而臥。<date key="j20090552009055" when-iso="+0788-07-03">二十一日</date>，右脅累足，口誦彌陀佛<lb
 ed="T" n="0737a02"/>號，終于<placeName key="PL000000042218">興善寺</placeName>本院。春秋七十一，僧夏四十<lb
 ed="T" n="0737a03"/>九云。</p>    
     <linkGrp>

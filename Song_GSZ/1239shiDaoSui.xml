@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='utf-8'?>
-<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0891a07shiDaoSui">
-    <anchor n="T.50.2061.0891a07"/><head><date from-iso="0618-06-21" key="j19469512052491" to-iso="0907-06-06">唐</date>天台山國清寺<persName key="A001563">道邃</persName>傳</head><p><lb
+<div xmlns="http://www.tei-c.org/ns/1.0" type="雜科聲德" xml:id="gsz0891a07shiDaoSui"><lb
+ed="T" n="0891a07"/><anchor n="T.50.2061.0891a07"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date>天台山國清寺<persName key="A001563">道邃</persName>傳</head><p><lb
 ed="T" n="0891a08"/><persName key="A001563">釋道邃</persName>，不知何許人也。幽識遠晤，執志有<lb
-ed="T" n="0891a09"/>恒，懸解真宗，不由邪術。末傳隋<persName key="A001301">智者</persName>教<lb
-ed="T" n="0891a10"/>道，素得玄微<ptr type="glossary" target="#g773"/>，<persName key="A001307">荊溪</persName>之門，沓難窺望。<date key="j20011912005747" notAfter-iso="0779" notBefore-iso="0766">大曆</date>中<lb
-ed="T" n="0891a11"/><persName key="A001307">湛然師</persName>委付止觀輔行記，得以敷揚，若神<lb
+ed="T" n="0891a09"/>恒，懸解<ptr type="glossary" target="#g1343"/>真宗，不由邪術。末傳隋<persName key="A001301">智者</persName>教<lb
+ed="T" n="0891a10"/>道，素得玄微<ptr type="glossary" target="#g773"/>，<persName key="A001307">荊溪</persName>之門，<anchor xml:id="beg0891sgsz1"/><choice resp="sgsz"><sic>沓</sic><corr>杳</corr></choice><anchor xml:id="end0891sgsz1"/>難窺望。<date key="j20011912005747" notAfter-iso="+0779-06-13" notBefore-iso="+0766-12-22"><name>大曆</name>中</date><lb
+ed="T" n="0891a11"/><persName key="A001307">湛然師</persName>委付《止觀輔行記》，得以敷揚，若神<lb
 ed="T" n="0891a12"/>驥之可以致遠也。于時同門<persName key="A009613">元浩</persName>逈知畏服，<lb
-ed="T" n="0891a13"/>不能爭長矣。<date key="j20151182015139" notAfter-iso="0805-02-28" notBefore-iso="0805-02-07">貞元二十一年</date>，<placeName key="PL000000048414">日本國</placeName>沙門<lb
+ed="T" n="0891a13"/>不能爭長矣。<date key="j20151182015139" notAfter-iso="+0805-02-28" notBefore-iso="+0805-02-07"><name>貞元</name>二十一年</date>，<placeName key="PL000000048414">日本國</placeName>沙門<lb
 ed="T" n="0891a14"/><persName key="A001177">最澄</persName>者，亦<placeName key="PL000000055413">東夷</placeName>卉服中，剛決明敏僧也。泛溟<lb
 ed="T" n="0891a15"/>涬，達<placeName key="PL000000000197">江東</placeName>，慕<placeName key="PL000000014411">天台</placeName>之法門，求<persName key="A001301">顗師</persName>之禪決。<lb
 ed="T" n="0891a16"/>屬<persName key="A001563">邃</persName>講訓，委曲指教，<persName key="A001177">澄</persName>得旨矣。乃盡繕寫<lb

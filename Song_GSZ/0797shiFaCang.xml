@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='utf-8'?>
-<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0732a13shiFaCang"><lb
-n="0732a13" ed="T"/><anchor n="T.50.2061.0732a13"/><head><date from-iso="0689-12-21" key="j19730671978610" to-iso="0705-02-24">周</date><placeName key="PL000000023657">洛京佛授記寺</placeName><persName key="A002450">法藏</persName>傳（<persName key="A002454">大儀</persName>）</head><p><lb
+<div xmlns="http://www.tei-c.org/ns/1.0" type="義解" xml:id="gsz0732a13shiFaCang"><lb
+n="0732a13" ed="T"/><anchor n="T.50.2061.0732a13"/><head><date from-iso="+0689-12-21" key="j19730671978610" to-iso="+0705-02-24">周</date><placeName key="PL000000023657">洛京佛授記寺</placeName><persName key="A002450">法藏</persName>傳（<persName key="A002454">大儀</persName>）</head><p><lb
 ed="T" n="0732a14"/><persName key="A002450">釋法藏</persName>字<persName key="A002450">賢首</persName>，姓康，<placeName key="PL000000055089">康居</placeName>人也<ptr target="#n673"/>。風度奇正，利<lb
 ed="T" n="0732a15"/>智絕倫，薄遊<ptr type="glossary" target="#g674"/><placeName key="PL000000042189">長安</placeName>，彌露鋒頴，尋應名僧義<lb
-ed="T" n="0732a16"/>學<ptr type="glossary" target="#g395"/>之選。屬<persName key="A000294">奘師</persName>譯經，始預其間，後因筆<lb
-ed="T" n="0732a17"/>受<ptr type="glossary" target="#g53"/>、證義<ptr type="glossary" target="#g54"/>、潤文<ptr type="glossary" target="#g70"/>，見識不同而出譯場。至<date from-iso="0684" key="j19711811978588" to-iso="0705">天后<lb
-ed="T" n="0732a18"/>朝</date>，傳譯首登其數。<persName key="A001606">實叉難陀</persName>齎《華嚴》梵夾<lb
+ed="T" n="0732a16"/>學<ptr rend="display:none;" type="glossary" target="#g395"/>之選。屬<persName key="A000294">奘師</persName>譯經，始預其間，後因筆<lb
+ed="T" n="0732a17"/>受<ptr rend="display:none;" type="glossary" target="#g53"/>、證義<ptr rend="display:none;" type="glossary" target="#g54"/>、潤文<ptr rend="display:none;" type="glossary" target="#g70"/>，見識不同而出譯場。至<date from-iso="+0684-10-22" key="j19711811978588" to-iso="+0705-02-02">天后<lb
+ed="T" n="0732a18"/>朝</date>，傳譯首登其數。<persName key="A001606">實叉難陀</persName>齎《華嚴》<name>梵</name>夾<lb
 ed="T" n="0732a19"/>至，同<persName key="A001470">義淨</persName>、<persName key="A001192">復禮</persName>譯出新經。又於<persName key="A001470">義淨</persName>譯場，<lb
-ed="T" n="0732a20"/>與<persName key="A001179">勝莊</persName>、<persName key="A002454">大儀</persName>證義<ptr type="glossary" target="#g54"/>。昔者<placeName key="PL000000045828">燉煌</placeName><persName key="A000525">杜順</persName>傳《華嚴<lb
-ed="T" n="0732a21"/>法界觀》與弟子<persName key="A001304">智儼</persName>，講授此<date from-iso="0317-04-07" key="j18369381874651" to-iso="0420-07-08">晉</date>譯之本。<persName key="A001304">智<lb
+ed="T" n="0732a20"/>與<persName key="A001179">勝莊</persName>、<persName key="A002454">大儀</persName>證義<ptr rend="display:none;" type="glossary" target="#g54"/>。昔者<placeName key="PL000000045828">燉煌</placeName><persName key="A000525">杜順</persName>傳《華嚴<lb
+ed="T" n="0732a21"/>法界觀》與弟子<persName key="A001304">智儼</persName>，講授此<date from-iso="+0317-04-07" key="j18369381874651" to-iso="+0420-07-08">晉</date>譯之本。<persName key="A001304">智<lb
 ed="T" n="0732a22"/>儼</persName>付<persName key="A002450">藏</persName>，<persName key="A002450">藏</persName>為<persName key="A002099">則天</persName>講新《華嚴經》。至「天帝網」<lb
 ed="T" n="0732a23"/>義、「十重玄門」、「海印三昧門」、「六相和合義門」、「普<lb
 ed="T" n="0732a24"/>眼境界門」，此諸義章皆是《華嚴》總別義網，<ref target="#A002099" type="person">帝</ref><lb
@@ -20,7 +20,7 @@ ed="T" n="0732a29"/>去一丈餘，面面相對，中安一佛像，燃一炬<pb
 ed="T" n="0732b01"/>以照之，互影交光。學者因曉剎海涉入無<lb
 ed="T" n="0732b02"/>盡之義<ptr target="#n676"/>。<persName key="A002450">藏</persName>之善巧化誘，皆此類也。其如宣翻<lb
 ed="T" n="0732b03"/>之寄，亦未能捨，蓋帝王歸信，緇伍所憑之<lb
-ed="T" n="0732b04"/>故。洎諸梵僧罷譯，<ref target="#A002099" type="person">帝</ref>於<date key="j19766761976676" when-iso="0699-11-08">聖曆二年已亥十<lb
+ed="T" n="0732b04"/>故。洎諸<name>梵</name>僧罷譯，<ref target="#A002099" type="person">帝</ref>於<date key="j19766761976676" when-iso="+0699-11-08">聖曆二年已亥十<lb
 ed="T" n="0732b05"/>月八日</date>，詔<persName key="A002450">藏</persName>於<placeName key="PL000000023657">佛授記寺</placeName>講大經，至〈華藏<lb
 ed="T" n="0732b06"/>世界品〉，講堂及<placeName key="PL000000023657">寺</placeName>中地皆震動，都維那僧<persName key="A008970">恒<lb
 ed="T" n="0732b07"/>景</persName>具表聞奏。勅云：「昨請敷演微言，闡揚祕<lb

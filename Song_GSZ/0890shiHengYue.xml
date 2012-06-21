@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='utf-8'?>
-<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0771a17shiHengYue">
-    <anchor n="T.50.2061.0771a17"/><head><date from-iso="0618-06-21" key="j19469512052491" to-iso="0907-06-06">唐</date><placeName key="PL000000028618">潭州翠微院</placeName><persName key="A001897">恒月</persName>傳（<persName key="A010436">真亮</persName>）</head><p><lb
-        ed="T" n="0771a18"/><persName key="A001897">釋恒月</persName>，姓韓氏，<placeName key="PL000000004129">上黨</placeName>人也。厥父為土<anchor xml:id="beg0771001"/><choice resp="sgsz"><sic>監</sic><corr>鹽</corr></choice><anchor xml:id="end0771001"/>商，<lb
-ed="T" n="0771a19"/><placeName key="PL000000000155">西江</placeName>往還，俄遇剽略溺死。<persName key="A001897">月</persName>雖幼弱，念父<lb
+<div xmlns="http://www.tei-c.org/ns/1.0" type="習禪" xml:id="gsz0771a17shiHengYue">
+    <anchor n="T.50.2061.0771a17"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date><placeName key="PL000000028618">潭州翠微院</placeName><persName key="A010434">恒月</persName>傳（<persName key="A010436">真亮</persName>）</head><p><lb
+ed="T" n="0771a18"/><persName key="A010434">釋恒月</persName>，姓韓氏，<placeName key="PL000000004129">上黨</placeName>人也。厥父為土<anchor xml:id="beg0771001"/><choice resp="sgsz"><sic>監</sic><corr>鹽</corr></choice><anchor xml:id="end0771001"/>商，<lb
+ed="T" n="0771a19"/><placeName key="PL000000000155">西江</placeName>往還，俄遇剽略溺死。<persName key="A010434">月</persName>雖幼弱，念父<lb
 ed="T" n="0771a20"/>葬于魚腹，母又再行，乃決志出家，求報恩<lb
 ed="T" n="0771a21"/>育。受教於<placeName key="PL000000023661">聖善寺</placeName><persName key="A010435">慧初</persName>。得度已，造<placeName key="PL000000023253">嵩山</placeName>禪會，<lb
 ed="T" n="0771a22"/>便啟發心要。後訪道尋師，靡憚夷險，抵<placeName key="PL000000028618">望<lb
 ed="T" n="0771a23"/>湖山翠微嚴下古院</placeName>挂錫。四方學者如蜂得<lb
-ed="T" n="0771a24"/>王，翕然盛化。<date key="j20059942006346" from-iso="0780-02-15" to-iso="0781-02-01">建中元年</date>，示疾而終，春秋七<lb
-ed="T" n="0771a25"/>十九。<date key="j20060642006064" when-iso="0780-04-25">其年三月十二日</date>遷塔焉。<placeName key="PL000000023549">洛京廣愛寺</placeName><lb
+ed="T" n="0771a24"/>王，翕然盛化。<date key="j20059942006346" from-iso="+0780-02-15" to-iso="+0781-02-01">建中元年</date>，示疾而終，春秋七<lb
+ed="T" n="0771a25"/>十九。<date key="j20060642006064" when-iso="+0780-04-25">其年三月十二日</date>遷塔焉。<placeName key="PL000000023549">洛京廣愛寺</placeName><lb
 ed="T" n="0771a26"/><persName key="A010436">釋真亮</persName>，姓侯氏，<placeName key="PL000000003038">景城</placeName>人也。家訓儒雅，辭彩粲<lb
 ed="T" n="0771a27"/>然。潔素持操，與群少年有異。忽以樊籠為<lb
 ed="T" n="0771a28"/>厭，且曰：「去情除饉，是所願也。」遂於本州<placeName key="PL000000003233">開<lb
@@ -17,66 +17,66 @@ ed="T" n="0771b01"/>先於人，習行頭陀行。受具已，遊<placeName key=
 ed="T" n="0771b02"/>寂</persName>獎訓，頓開蒙昧。入<placeName key="PL000000023647">龍門山</placeName>，居而禪默，問<lb
 ed="T" n="0771b03"/>津者交集，聲望日隆。屬留守尚書<persName key="A010438">王公鐸</persName>保<lb
 ed="T" n="0771b04"/>釐，聞而欽奉，召入<placeName key="PL000000023549">廣愛寺</placeName>，別住居焉。示人<lb
-ed="T" n="0771b05"/>禪觀，匪倦教詔，得道者亦多矣。以<date key="j20092142009214" when-iso="0788-12-09">貞元四<lb
+ed="T" n="0771b05"/>禪觀，匪倦教詔，得道者亦多矣。以<date key="j20092142009214" when-iso="+0788-12-09"><name>貞元</name>四<lb
 ed="T" n="0771b06"/>年十一月三日</date>，忽告門人以桑榆末照，誠<lb
 ed="T" n="0771b07"/>難久留。囑累而終，年八十八焉。</p>
     <linkGrp>
         <link targets="#0771a18 #0771a18"/>
-        <ptr target="#A001897" type="person"/>
+        <ptr target="#A010434" type="person"/>
         <ptr target="#PL000000004129" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0771a21 #0771a21"/>
-        <ptr target="#A001897" type="person"/>
+        <ptr target="#A010434" type="person"/>
         <ptr target="#A010435" type="person"/>
         <ptr target="#PL000000023661" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0771a21 #0771a22"/>
-        <ptr target="#A001897" type="person"/>
+        <ptr target="#A010434" type="person"/>
         <ptr target="#PL000000023253" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0771a22 #0771a24"/>
-        <ptr target="#A001897" type="person"/>
+        <ptr target="#A010434" type="person"/>
         <ptr target="#PL000000028618" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0771a24 #0771a25"/>
-        <ptr target="#A001897" type="person"/>
+        <ptr target="#A010434" type="person"/>
         <ptr target="#j20059942006346" type="time"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0771a26 #0771a26"/>
-        <ptr target="#A001897" type="person"/>
+        <ptr target="#A010434" type="person"/>
         <ptr target="#PL000000003038" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0771a28 #0771a29"/>
-        <ptr target="#A001897" type="person"/>
+        <ptr target="#A010434" type="person"/>
         <ptr target="#A010437" type="person"/>
         <ptr target="#PL000000003233" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0771b01 #0771b02"/>
-        <ptr target="#A001897" type="person"/>
+        <ptr target="#A010434" type="person"/>
         <ptr target="#A009319" type="person"/>
         <ptr target="#PL000000023255" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0771b02 #0771b02"/>
-        <ptr target="#A001897" type="person"/>
+        <ptr target="#A010434" type="person"/>
         <ptr target="#PL000000023647" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0771b03 #0771b04"/>
-        <ptr target="#A001897" type="person"/>
+        <ptr target="#A010434" type="person"/>
         <ptr target="#A010438" type="person"/>
         <ptr target="#PL000000023549" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0771b05 #0771b06"/>
-        <ptr target="#A001897" type="person"/>
+        <ptr target="#A010434" type="person"/>
         <ptr target="#PL000000023549" type="place"/>
         <ptr target="#j20092142009214" type="time"/>
     </linkGrp>

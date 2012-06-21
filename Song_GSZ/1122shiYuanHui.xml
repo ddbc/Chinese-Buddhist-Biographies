@@ -1,30 +1,30 @@
 <?xml version='1.0' encoding='utf-8'?>
-<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0857a05shiYuanHui">
-    <anchor n="T.50.2061.0857a05"/><head><date from-iso="0618-06-21" key="j19469512052491" to-iso="0907-06-06">唐</date>吳郡嘉興法空王寺<persName key="A013352">元慧</persName>傳</head><p><lb
+<div xmlns="http://www.tei-c.org/ns/1.0" type="遺身" xml:id="gsz0857a05shiYuanHui"><lb
+ed="T" n="0857a05"/><anchor n="T.50.2061.0857a05"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date>吳郡嘉興法空王寺<persName key="A013352">元慧</persName>傳</head><p><lb
 ed="T" n="0857a06"/><persName key="A013352">釋元慧</persName>，俗姓陸氏，晉平原內史<persName key="A006134">機</persName>之裔孫也。<lb
 ed="T" n="0857a07"/>父<persName key="A013353">丹</persName>，文林郎雲騎尉<placeName key="PL000000012522">溫州</placeName>紏曹，<persName key="A013352">慧</persName>即仲子也。<lb
 ed="T" n="0857a08"/>髫齡頴悟，長而溫潤，畏作枯龜，思為瘦雁。<lb
-ed="T" n="0857a09"/>以<date key="j20268122027166" notAfter-iso="0838-02-02" notBefore-iso="0837-02-13">開成二年</date>辭親，於<placeName key="PL000000012700">法空王寺</placeName>依<persName key="A013358">清進</persName><lb
-ed="T" n="0857a10"/>為弟子。<date key="j20282682028642" notAfter-iso="0842-02-17" notBefore-iso="0841-02-08">會昌元年</date>，往<placeName key="PL000000002384">恒陽</placeName>納戒法，方習毘<lb
-ed="T" n="0857a11"/>尼。入禮<placeName key="PL000000005250">五臺</placeName>，仍觀眾瑞。<date key="j20286432028996" notAfter-iso="0843-02-06" notBefore-iso="0842-02-18">二年</date>，歸寧嘉禾居<lb
+ed="T" n="0857a09"/>以<date key="j20268122027166" notAfter-iso="+0838-02-02" notBefore-iso="+0837-02-13"><name>開成</name>二年</date>辭親，於<placeName key="PL000000012700">法空王寺</placeName>依<persName key="A013358">清進</persName><lb
+ed="T" n="0857a10"/>為弟子。<date key="j20282682028642" notAfter-iso="+0842-02-17" notBefore-iso="+0841-02-08">會昌元年</date>，往<placeName key="PL000000002384">恒陽</placeName>納戒法，方習毘<lb
+ed="T" n="0857a11"/>尼。入<anchor xml:id="beg0857sgsz1"/>禮<anchor xml:id="end0857sgsz1"/><placeName key="PL000000005250">五臺</placeName>，仍觀眾瑞。<date key="j20286432028996" notAfter-iso="+0843-02-06" notBefore-iso="+0842-02-18">二年</date>，歸寧嘉禾居<lb
 ed="T" n="0857a12"/><placeName key="PL000000012726">建興寺</placeName>，立志持三白法，諷誦五部曼拏羅，<lb
-ed="T" n="0857a13"/>於臂上爇香炷。<date key="j20297362030089" notAfter-iso="0846-02-03" notBefore-iso="0845-02-15">五年</date>，例遭澄汰，權隱白衣。<lb
-ed="T" n="0857a14"/><date key="j20304612031609" notAfter-iso="0850" notBefore-iso="0847">大中初</date>，還入法門。至<date key="j20326592033012" notAfter-iso="0854-02-04" notBefore-iso="0853-02-16">七年</date>，重建<placeName key="PL000000012700">法空王寺</placeName>。<lb
+ed="T" n="0857a13"/>於臂上爇香炷。<date key="j20297362030089" notAfter-iso="+0846-02-03" notBefore-iso="+0845-02-15">五年</date>，例遭澄汰，權隱白衣。<lb
+ed="T" n="0857a14"/><date key="j20304612031609" notAfter-iso="+0850-04-03" notBefore-iso="+0847-02-10"><anchor xml:id="beg0857sgsz3"/>大<anchor xml:id="end0857sgsz3"/>中初</date>，還入法門。至<date key="j20326592033012" notAfter-iso="+0854-02-04" notBefore-iso="+0853-02-16">七年</date>，重建<placeName key="PL000000012700">法空王寺</placeName>。<lb
 ed="T" n="0857a15"/>又然香於臂，供養<placeName key="PL000000010008">報恩山</placeName>佛牙。次往<placeName key="PL000000014411">天台<lb
-ed="T" n="0857a16"/>山</placeName>，度石橋，利有攸往，略無憂虞焉。<date key="j20355242040147" notAfter-iso="0873" notBefore-iso="0860">咸通<lb
-ed="T" n="0857a17"/></date>中，隨送佛中指骨舍利，往鳳翔<placeName key="PL000000042886">重真寺</placeName>。<app type="multiplier" xml:id="begd1e40555"/>煉<anchor xml:id="endd1e40555"/><lb
+ed="T" n="0857a16"/>山</placeName>，度石橋，利有攸往，略無憂虞焉。<date key="j20355242040147" notAfter-iso="+0873-08-18" notBefore-iso="+0860-12-21">咸通<lb
+ed="T" n="0857a17"/>中</date>，隨送佛中指骨舍利，往鳳翔<placeName key="PL000000042886">重真寺</placeName>。<anchor xml:id="begd1e40555"/>煉<anchor xml:id="endd1e40555"/><lb
 ed="T" n="0857a18"/>左<anchor xml:id="beg0857001"/>拇<anchor xml:id="end0857001"/>指，口誦法華經，其指不踰月復生如<lb
-ed="T" n="0857a19"/>故。<date key="j20483402048723" notAfter-iso="0897-02-09" notBefore-iso="0896-01-23">乾寧三年</date>，偶云乖悆。<date key="j20486332048633" when-iso="0896-11-11">九月二十八日</date>，歸<lb
+ed="T" n="0857a19"/>故。<date key="j20483402048723" notAfter-iso="+0897-02-09" notBefore-iso="+0896-01-23">乾寧三年</date>，偶云乖悆。<date key="j20486332048633" when-iso="+0896-11-11">九月二十八日</date>，歸<lb
 ed="T" n="0857a20"/>寂于尊勝院<!--找不到此地-->，報齡七十八，僧臘五十八。弟子<lb
 ed="T" n="0857a21"/><persName key="A013360">端肅</persName>等奉神座葬之<placeName key="PL000000009863">吳會</placeName>之間，謂為<persName key="A013352">三白<lb
-ed="T" n="0857a22"/>和尚</persName>焉。其禮拜誦持，不勝其計，如別錄<lb
+ed="T" n="0857a22"/>和尚</persName>焉。其<anchor xml:id="beg0857sgsz5"/>禮<anchor xml:id="end0857sgsz5"/>拜誦持，不勝其計，如別錄<lb
 ed="T" n="0857a23"/>也。</p>
     <p xml:id="pT50p0857a2401"><lb
-ed="T" n="0857a24"/>系曰：<app type="multiplier" xml:id="begd1e40586"/>煉<anchor xml:id="endd1e40586"/>大拇指，火盡灰飛，如何於焦炭之<lb
-ed="T" n="0857a25"/>末，骨肉隨生不久如故？此與火中蓮華，同<lb
+ed="T" n="0857a24"/>系曰：<anchor xml:id="begd1e40586"/>煉<anchor xml:id="endd1e40586"/>大拇指，火盡灰飛，如何於焦炭之<lb
+ed="T" n="0857a25"/>末，骨肉隨生不久如故？此與火中蓮<anchor xml:id="beg0857sgsz7"/>華<anchor xml:id="end0857sgsz7"/>，同<lb
 ed="T" n="0857a26"/>種而異態耳。何謂三白？通曰：「事理二種。一<lb
 ed="T" n="0857a27"/>白飯、白水、白鹽，事也。二身不遍觸，口誦真<lb
-ed="T" n="0857a28"/>經，意不妄緣。此三明白，非黑業也。故亨此<lb
+ed="T" n="0857a28"/>經，意不妄緣。此三明白，非黑業也。故<anchor xml:id="beg0857sgsz9"/><choice resp="sgsz"><sic>亨</sic><corr>享</corr></choice><anchor xml:id="end0857sgsz9"/>此<lb
 ed="T" n="0857a29"/>名歟。」</p>
     <linkGrp>
         <link targets="#0857a07 #0857a07"/>

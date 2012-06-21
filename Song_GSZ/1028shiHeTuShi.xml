@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='utf-8'?>
-<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0820b29shiDaoPi">
-    <anchor n="T.50.2061.0820b29"/><head><date from-iso="0386-02-21" key="j18620951916335" to-iso="0534-08-24">後魏</date>晉陽<persName key="A012065">河禿師</persName>傳</head><p><lb
-ed="T" n="0820c01"/><persName key="A012065">釋河禿師</persName>者，不詳何許人也。<date from-iso="0525" key="j19130101913952" to-iso="0528">魏孝昌</date>中，於<lb
+<div xmlns="http://www.tei-c.org/ns/1.0" type="感通" xml:id="gsz0820b29shiDaoPi">
+    <anchor n="T.50.2061.0820b29"/><head><date from-iso="+0386-02-21" key="j18620951916335" to-iso="+0534-08-24">後魏</date>晉陽<persName key="A012065">河禿師</persName>傳</head><pb n="0820c" xml:id="T50.2061.0820c" ed="T"/><p><lb
+ed="T" n="0820c01"/><persName key="A012065">釋河禿師</persName>者，不詳何許人也。<date notBefore-iso="+0525-07-17" key="j19130101913952" notAfter-iso="+0528-02-14">魏孝昌中</date>，於<lb
 ed="T" n="0820c02"/><placeName key="PL000000003792">晉陽市</placeName>肆間行往，乍愚乍智，作沙門形。時<lb
 ed="T" n="0820c03"/>人不測，止呼為<persName key="A012065">河禿師</persName>。及<persName key="A005264">齊神武</persName>誕第二<lb
 ed="T" n="0820c04"/>子<persName key="A004698">洋</persName>，<persName key="A004698">文宣帝</persName>也，<persName key="A012067">武明太后</persName>見家貧甚，與親<lb
 ed="T" n="0820c05"/>戚言及家計，正憂飢凍死耳。<persName key="A004698">洋</persName>方生數月，<lb
-ed="T" n="0820c06"/>尚未能言，欻言曰：「得活」，二字分明。<persName key="A012067">太后</persName>左<lb
+ed="T" n="0820c06"/>尚未能言，欻言曰：「得活！」二字分明。<persName key="A012067">太后</persName>左<lb
 ed="T" n="0820c07"/>右大驚，而不敢言，謂為妖怪。時傳<persName key="A012065">禿師</persName>神異，<lb
 ed="T" n="0820c08"/>射事多中，巧誘而至。<persName key="A012067">太后</persName>意占其兒子早言<lb
 ed="T" n="0820c09"/>為怪，乃遍見諸子，<persName key="A005282">文襄</persName>、<persName key="A012068">魏永熙后</persName>旁以祿<lb

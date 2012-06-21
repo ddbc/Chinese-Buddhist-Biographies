@@ -1,22 +1,22 @@
 <?xml version='1.0' encoding='utf-8'?>
-<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0775b07shiTanSheng">
-    <anchor n="T.50.2061.0775b07"/><head><date from-iso="0618-06-21" key="j19469512052491" to-iso="0907-06-06">唐</date><placeName key="PL000000029556">澧陽雲巖寺</placeName><persName key="A010501">曇晟</persName>傳</head><p><lb
+<div xmlns="http://www.tei-c.org/ns/1.0" type="習禪" xml:id="gsz0775b07shiTanSheng">
+    <anchor n="T.50.2061.0775b07"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date><placeName key="PL000000029556">澧陽雲巖寺</placeName><persName key="A010501">曇晟</persName>傳</head><p><lb
 ed="T" n="0775b08"/><persName key="A010501">釋曇晟</persName>，俗姓王氏，<placeName key="PL000000018931">鍾陵建昌</placeName>人也。始生有自<lb
 ed="T" n="0775b09"/>然胎衣右袒，猶緇服焉。遂請出家於<placeName key="PL000000029545">石門</placeName>，<lb
 ed="T" n="0775b10"/>年滿具法，參見<placeName key="PL000000019628">百丈山</placeName><persName key="A001897">海禪師</persName>。二十年為<lb
 ed="T" n="0775b11"/>侍者，職同慶喜，法必我聞，身若中涓，心居<lb
 ed="T" n="0775b12"/>散位。續受藥山舉發，全了無疑，化徒孔勤，<lb
-ed="T" n="0775b13"/>受益者眾。以<date key="j20241812024181" when-iso="0829-12-01">太和三年己酉十月二十七日</date><lb
-ed="T" n="0775b14"/>示滅。勅<app type="cb-app" xml:id="begd1e18083"/>諡<anchor xml:id="endd1e18083"/><anchor xml:id="beg0775006"/>大<anchor xml:id="end0775006"/>師號<persName key="A010501">無相</persName>，塔名淨勝焉。</p>
+ed="T" n="0775b13"/>受益者眾。以<date key="j20241812024181" when-iso="+0829-12-01"><anchor xml:id="beg0775sgsz6"/>太<anchor xml:id="end0775sgsz6"/>和三年<anchor xml:id="beg0775sgsz7"/>己<anchor xml:id="end0775sgsz7"/>酉十月二十七日</date><lb
+ed="T" n="0775b14"/>示滅。勅諡<anchor xml:id="beg0775006"/>大<anchor xml:id="end0775006"/>師號<persName key="A010501">無相</persName>，塔名淨勝焉。</p>
     <p><lb
-ed="T" n="0775b15"/>系曰：<persName key="A008803">商那和脩</persName>，華言<persName key="A008803">胎衣</persName>也，以其生帶衣<lb
-ed="T" n="0775b16"/>而誕，以繒肉而非，幼為繃褓，長且稱身；出<lb
+ed="T" n="0775b15"/>系曰：<persName key="A008803">商那和脩</persName>，<name>華</name>言<persName key="A008803">胎衣</persName>也，以其生帶衣<lb
+ed="T" n="0775b16"/>而誕，<anchor xml:id="beg0775sgsz8"/><choice resp="sgsz"><sic>以</sic><corr>似</corr></choice><anchor xml:id="end0775sgsz8"/>繒肉而非，幼為繃<anchor xml:id="beg0775sgsz9"/>褓<anchor xml:id="end0775sgsz9"/>，長且稱身；出<lb
 ed="T" n="0775b17"/>家成法服，至入滅闍維，方為煨燼焉。<persName key="A010501">晟師</persName><lb
 ed="T" n="0775b18"/>之有胎衣，止不及為嬰兒已往之服耳，此<lb
 ed="T" n="0775b19"/>近<persName key="A017110">叔離尼</persName>、<persName key="A008803">商那尊者</persName>也，思過半矣。何邪？<persName key="A010501">晟<lb
 ed="T" n="0775b20"/>師</persName>去聖懸遠，和修佛滅百年將胎衣示有<lb
-ed="T" n="0775b21"/>行果之徒也，今<persName key="A010501">晟</persName>以胞袒絡化其教理之<lb
-ed="T" n="0775b22"/>世，不其難乎！故曰思過半矣。</p>
+ed="T" n="0775b21"/>行果之徒也，今<persName key="A010501">晟</persName>以胞<anchor xml:id="beg0775sgsz10"/>袒<anchor xml:id="end0775sgsz10"/>絡化其教理之<lb
+ed="T" n="0775b22"/>世，不其難乎！故曰思<anchor xml:id="beg0775sgsz11"/>過<anchor xml:id="end0775sgsz11"/>半矣。</p>
     <linkGrp>
         <link targets="#0775b08 #0775b08"/>
         <ptr target="#A010501" type="person"/>

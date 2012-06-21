@@ -1,17 +1,17 @@
 <?xml version='1.0' encoding='utf-8'?>
-<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0810a04shiJingXiao">
-    <anchor n="T.50.2061.0810a04"/><head><date from-iso="0923-05-18" key="j20583162063308" to-iso="0937-01-16">後唐</date>杭州真身寶塔寺<persName key="A001248">景霄</persName>傳</head><p><lb
+<div xmlns="http://www.tei-c.org/ns/1.0" type="明律" xml:id="gsz0810a04shiJingXiao"><lb
+ed="T" n="0810a04"/><anchor n="T.50.2061.0810a04"/><head><date from-iso="+0923-05-18" key="j20583162063308" to-iso="+0937-01-16">後唐</date>杭州真身寶塔寺<persName key="A001248">景霄</persName>傳</head><p><lb
 ed="T" n="0810a05"/><persName key="A001248">釋景霄</persName>，俗姓徐氏，<placeName key="PL000000014380">丹丘</placeName>人也。初之聽涉在<persName key="A011640">表<lb
-ed="T" n="0810a06"/>公</persName>門，後慕<persName key="A011655">守言闍黎</persName>義集，敷演于<placeName key="PL000000014380">丹丘</placeName>。執性<lb
+ed="T" n="0810a06"/>公</persName>門，後慕<persName key="A011655">守言闍<anchor xml:id="beg0810sgsz1"/>黎<anchor xml:id="end0810sgsz1"/></persName>義集，敷演于<placeName key="PL000000014380">丹丘</placeName>。執性<lb
 ed="T" n="0810a07"/>嚴毅，寡與人交。狷急自持，多事凌轥，形器<lb
 ed="T" n="0810a08"/>惡弱。後納請往<placeName key="PL000000013605">金華東白山</placeName>，獎訓初學。時<lb
 ed="T" n="0810a09"/>有<placeName key="PL000000018571">江西</placeName><persName key="A011654">徽猷</persName>律匠，出義記曰《龜鑑錄》，多學<lb
-ed="T" n="0810a10"/>彭亨，領徒到<persName key="A001248">霄</persName>寺，正值講次，當《持犯篇》再<lb
+ed="T" n="0810a10"/>彭亨，領徒到<persName key="A001248">霄</persName>寺，正值講次<ptr type="glossary" target="#g1422"/>，當《持犯篇》再<lb
 ed="T" n="0810a11"/>三歎賞。自此聲溢價高。每晨滴茶，一旦化<lb
 ed="T" n="0810a12"/>為乳焉。著記二十卷，號《簡正》，言以思擇<lb
 ed="T" n="0810a13"/>力故，去邪說而簡<ptr type="glossary" target="#g1136"/>取正義也。<persName key="A003552">武肅王錢<roleName>氏</roleName></persName><lb
 ed="T" n="0810a14"/>召於<placeName key="PL000000012110">臨安</placeName>故鄉，宰任<placeName key="PL000000012103">竹林寺</placeName>。未幾，命赴<placeName key="PL000000009882">北<lb
-ed="T" n="0810a15"/>塔寺</placeName>臨壇，<date from-iso="0927-02-10" key="j20596802060034" to-iso="0928-01-30">天成二年</date>也。次命住<placeName key="PL000000011485">南真身寶<lb
+ed="T" n="0810a15"/>塔寺</placeName>臨壇，<date from-iso="+0927-02-10" key="j20596802060034" to-iso="+0928-01-30">天成二年</date>也。次命住<placeName key="PL000000011485">南真身寶<lb
 ed="T" n="0810a16"/>塔寺</placeName>，終焉。遷葬于<placeName key="PL000000011429">大慈山</placeName>塢，以本受師號，<lb
 ed="T" n="0810a17"/>塔曰清涼是歟。</p>
     <linkGrp>

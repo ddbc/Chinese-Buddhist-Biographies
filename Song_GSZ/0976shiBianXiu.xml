@@ -1,25 +1,25 @@
 <?xml version='1.0' encoding='utf-8'?>
-<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0800c22shiBianXiu">
-    <anchor n="T.50.2061.0800c22"/><head><date from-iso="0618-06-21" key="j19469512052491" to-iso="0907-06-06">唐</date>蘇州開元寺<persName key="A010899">辯秀</persName>傳</head><p><lb
+<div xmlns="http://www.tei-c.org/ns/1.0" type="明律" xml:id="gsz0800c22shiBianXiu"><lb
+ed="T" n="0800c22"/><anchor n="T.50.2061.0800c22"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date>蘇州開元寺<persName key="A010899">辯秀</persName>傳</head><p><lb
 ed="T" n="0800c23"/><persName key="A010899">釋辯秀</persName>，俗姓劉氏，漢<persName key="A011006">楚王交</persName>三十一代孫也。<lb
 ed="T" n="0800c24"/><persName key="A010899">秀</persName>幼孤，諸父哀字，禮如教立，孝自天生。而<lb
-ed="T" n="0800c25"/>宿<app type="multiplier" xml:id="begd1e25238"/>植<anchor xml:id="endd1e25238"/>緣深，心田欲稔；因請伯氏，出家長行，<lb
-ed="T" n="0800c26"/>哀而捨旃。事<placeName key="PL000000011596">靈隱</placeName><persName key="A010894">謀禪師</persName>，便能問津，圖入<lb
+ed="T" n="0800c25"/>宿<anchor xml:id="begd1e25238"/>植<anchor xml:id="endd1e25238"/>緣深，心田欲稔；因請伯氏，出家長行，<lb
+ed="T" n="0800c26"/>哀而捨旃<ptr type="glossary" target="#g1050"/>。事<placeName key="PL000000011596">靈隱</placeName><persName key="A010894">謀禪師</persName>，便能問津，圖入<lb
 ed="T" n="0800c27"/>道之意。所聞指訓，如涼風入懷，醒然清悟。<lb
-ed="T" n="0800c28"/><date from-iso="0745-02-10" key="j19932061993559" to-iso="0746-01-29">天寶四年</date>，受戒於<placeName key="PL000000000151">東海</placeName><persName key="A010883">鑒真大師</persName>，傳律於<placeName key="PL000000013240">會<lb
-ed="T" n="0800c29"/>稽</placeName><persName key="A004177">曇一</persName>。<date from-iso="0756" key="j19974111997993" to-iso="0758">至德中</date>舉高行，隷名於吳郡<placeName key="PL000000009882">開元<pb ed="T" n="0801a" xml:id="T50.2061.0801a"/><lb
-ed="T" n="0801a01"/>寺</placeName>。<date from-iso="0758" key="j19979941998806" to-iso="0760">乾元</date>中，下詔天下二十五寺，各定大德<lb
+ed="T" n="0800c28"/><date from-iso="+0745-02-10" key="j19932061993559" to-iso="+0746-01-29"><name>天寶</name>四年</date>，受戒於<placeName key="PL000000000151">東海</placeName><persName key="A010883">鑒真大師</persName>，傳律於<placeName key="PL000000013240">會<lb
+ed="T" n="0800c29"/>稽</placeName><persName key="A004177">曇一</persName>。<date notBefore-iso="+0756-08-16" key="j19974111997993" notAfter-iso="+0758-03-21"><name>至德</name>中</date>舉高行，隷名於吳郡<placeName key="PL000000009882">開元<pb ed="T" n="0801a" xml:id="T50.2061.0801a"/><lb
+ed="T" n="0801a01"/>寺</placeName>。<date notBefore-iso="+0758-03-22" key="j19979941998806" notAfter-iso="+0760-06-11">乾元中</date>，下詔天下二十五寺，各定大德<lb
 ed="T" n="0801a02"/>七人，長講戒律，<persName key="A010899">秀</persName>應其數也。頃年於淨土<lb
 ed="T" n="0801a03"/>一門，不愆于念。嘗謂人曰：「昔聞西方之行<lb
 ed="T" n="0801a04"/>是有相大乘，此乃蓬心不直，非達觀之說。何<lb
 ed="T" n="0801a05"/>邪？夫出言即性，發意皆如，而一色一香，無非<lb
 ed="T" n="0801a06"/>中道，況我正念乎？」<persName key="A010899">秀</persName>壇場一十六番，度人孤<lb
-ed="T" n="0801a07"/>制，律樞正持，僧<anchor xml:id="beg0801001"/>綱<anchor xml:id="end0801001"/>自<anchor xml:id="beg0801002"/>肯<anchor xml:id="end0801002"/>，湖南北皆宗仰焉。<lb
-ed="T" n="0801a08"/>以<date key="j20061552006155" when-iso="0780-07-25">建中元年六月十五日</date>寢疾而終，春秋六<lb
+ed="T" n="0801a07"/>制，律樞正持，僧<anchor xml:id="beg0801001"/>綱<anchor xml:id="end0801001"/>自<anchor xml:id="beg0801002"/><choice resp="sgsz"><sic>肯</sic><corr>緝（咠）</corr></choice><anchor xml:id="end0801002"/>，湖南北皆宗仰焉。<lb
+ed="T" n="0801a08"/>以<date key="j20061552006155" when-iso="+0780-07-25">建中元年六月十五日</date>寢疾而終，春秋六<lb
 ed="T" n="0801a09"/>十七，法臘三十五。當其逝日，有庭樹一本，<lb
-ed="T" n="0801a10"/>枝葉扶疎，朝華正敷而遽萎瘁。<date key="j20061742006174" when-iso="0780-08-13">其年七月五<lb
+ed="T" n="0801a10"/>枝葉扶疎，朝<anchor xml:id="beg0801sgsz1"/>華<anchor xml:id="end0801sgsz1"/>正敷而遽萎瘁。<date key="j20061742006174" when-iso="+0780-08-13">其年七月五<lb
 ed="T" n="0801a11"/>日</date>，遷靈龕於<placeName key="PL000000010019">武丘西寺</placeName>松門之右。門人<persName key="A010106">道亮</persName>、<lb
-ed="T" n="0801a12"/><persName key="A011008">道該</persName>、<persName key="A011009">清會</persName>，偕遶旃檀之香樹也。故觀察使<persName key="A011010">韋<lb
+ed="T" n="0801a12"/><persName key="A011008">道該</persName>、<persName key="A011009">清會</persName>，偕遶<anchor xml:id="beg0801sgsz2"/>旃<anchor xml:id="end0801sgsz2"/>檀之香樹也。故觀察使<persName key="A011010">韋<lb
 ed="T" n="0801a13"/>元甫</persName>、<persName key="A011011">李棲筠</persName>、<placeName key="PL000000025169">虢州</placeName>刺史<persName key="A010957">李紓</persName>、御史中丞<persName key="A011012">李道<lb
 ed="T" n="0801a14"/>昌</persName>盡欽慕往德，亦林下之交。<persName key="A019342">霅晝</persName>為碑頌<lb
 ed="T" n="0801a15"/>焉。</p>

@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='utf-8'?>
-<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0829c04shiHuiAn">
-    <anchor n="T.50.2061.0829c04"/><head><date from-iso="0618-06-21" key="j19469512052491" to-iso="0907-06-06">唐</date>長安西明寺<persName key="A012325">惠安</persName>傳</head><p><lb
-ed="T" n="0829c05"/><persName key="A012325">釋惠安</persName>，未詳何許人也。<date from-iso="0705" key="j19786111979566" to-iso="0707">神龍</date>中遊于<placeName key="PL000000042192">京兆</placeName>，<lb
+<div xmlns="http://www.tei-c.org/ns/1.0" type="感通" xml:id="gsz0829c04shiHuiAn"><lb
+ed="T" n="0829c04"/><anchor n="T.50.2061.0829c04"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date>長安西明寺<persName key="A012325">惠安</persName>傳</head><p><lb
+ed="T" n="0829c05"/><persName key="A012325">釋惠安</persName>，未詳何許人也。<date notBefore-iso="+0705-02-25" key="j19786111979566" notAfter-iso="+0707-10-08"><name>神龍</name>中</date>遊于<placeName key="PL000000042192">京兆</placeName>，<lb
 ed="T" n="0829c06"/>抑多先見。時<persName key="A012326">唐休璟</persName>既立邊功，貴盛無比。<lb
 ed="T" n="0829c07"/><persName key="A012325">安</persName>往造焉，曰：「<persName key="A012326">相公</persName>，甚美必有甚惡。將有大<lb
 ed="T" n="0829c08"/>禍，且不遠數月，然可攘去。」<persName key="A012326">休璟</persName>素知<persName key="A012325">安</persName>能<lb
 ed="T" n="0829c09"/>厭勝，諾而拜之。<persName key="A012325">安</persName>曰：「更無他術，但奉一計<lb
-ed="T" n="0829c10"/>耳。豈非注擬官品，出乎陶<choice resp="sgsz"><sic>治</sic><corr>冶</corr></choice>中？請選一有<lb
+ed="T" n="0829c10"/>耳。豈非注擬官品，出乎陶治中？請選一有<lb
 ed="T" n="0829c11"/>才幹者用為<placeName key="PL000000023000">曹州</placeName>。」因得<persName key="A012327">張君</persName>，本<placeName key="PL000000042189">京</placeName>官，即日<lb
 ed="T" n="0829c12"/>升之宮贊，相次作守<placeName key="PL000000023000">定陶</placeName>，委之求二犬，可<lb
 ed="T" n="0829c13"/>高數尺而神俊者。<persName key="A012327">張君</persName>到任，銳意精求，得<lb
@@ -14,8 +14,8 @@ ed="T" n="0829c14"/>二犬如其所求以獻之。<persName key="A012326">休璟
 ed="T" n="0829c15"/>之，曰：「極善。」後旬餘，<persName key="A012325">安</persName>却來曰：「事在今夕，願<lb
 ed="T" n="0829c16"/><persName key="A012326">相君</persName>嚴為警備。」遂留<persName key="A012325">安</persName>宿。是夜<persName key="A012326">休璟</persName>坐於<lb
 ed="T" n="0829c17"/>堂之前軒，命左右十數輩執弧操矢，立于<lb
-ed="T" n="0829c18"/>榻之隅。<persName key="A012326">休璟</persName>與<persName key="A012325">安</persName>共處一榻，至夜分。<persName key="A012325">安</persName>笑<lb
-ed="T" n="0829c19"/>之曰：「<persName key="A012326">相君</persName>之禍<anchor xml:id="beg"/><choice resp="sgsz"><sic>兔</sic><corr>免</corr></choice><anchor xml:id="end"/>矣。可以就寢。」<persName key="A012326">休璟</persName>喜而<lb
+ed="T" n="0829c18"/>榻之隅。<persName key="A012326">休璟</persName>與<persName key="A012325">安</persName>共處一榻，至夜分，<persName key="A012325">安</persName>笑<lb
+ed="T" n="0829c19"/>之曰：「<persName key="A012326">相君</persName>之禍<anchor xml:id="beg0829sgsz9"/><choice resp="sgsz"><sic>兔</sic><corr>免</corr></choice><anchor xml:id="end0829sgsz9"/>矣。可以就寢。」<persName key="A012326">休璟</persName>喜而<lb
 ed="T" n="0829c20"/>謝之，遂撤左右俱寢。迨曉，<persName key="A012325">安</persName>呼<persName key="A012326">休璟</persName>可<lb
 ed="T" n="0829c21"/>起矣。問<persName key="A012325">安</persName>曰：「二犬何所用乎？」遂尋其跡，<lb
 ed="T" n="0829c22"/>至園中，見一人仆地而卒。視其頸有血<lb
@@ -23,16 +23,16 @@ ed="T" n="0829c23"/>焉，蓋為物所嚙者。又見二犬在大木下，仰<lb
 ed="T" n="0829c24"/>視之，一人袒而匿身。<persName key="A012326">休璟</persName>驚且詰之，其人泣<lb
 ed="T" n="0829c25"/>而指死者曰：「某與彼俱賊也，昨夕偕來，欲<lb
 ed="T" n="0829c26"/>害<persName key="A012326">相國</persName>，蓋遇此二犬環而且吠。彼為所噬，<lb
-ed="T" n="0829c27"/>既殞。某藏匿為地，天網所羅，為犬蹲守，今<lb
+ed="T" n="0829c27"/>既殞。某藏匿<anchor xml:id="beg0829sgsz11"/><choice resp="sgsz"><sic>為</sic><corr>無</corr></choice><anchor xml:id="end0829sgsz11"/>地，天網所羅，為犬蹲守，今<lb
 ed="T" n="0829c28"/>甘萬死。」且命縛之，曰：「此罪固當死，然非某<lb
-ed="T" n="0829c29"/>心也，乃受制於人耳。」乃釋之。，賊拜泣而去。<pb ed="T" n="0830a" xml:id="T50.2061.0830a"/><lb
+ed="T" n="0829c29"/>心也，乃受制於人耳。」乃釋之，賊拜泣而去。<pb ed="T" n="0830a" xml:id="T50.2061.0830a"/><lb
 ed="T" n="0830a01"/><persName key="A012326">休璟</persName>拜謝<persName key="A012325">安</persName>曰：「非<persName key="A012325">吾師</persName>，不然死於二夫之<lb
 ed="T" n="0830a02"/>手矣。」<persName key="A012325">安</persName>曰：「此<persName key="A012326">相國</persName>之福，豈所能為哉？」又<persName key="A012326">休<lb
 ed="T" n="0830a03"/>璟</persName>表弟<persName key="A012328">盧軫</persName>在<placeName key="PL000000027429">荊門</placeName>，有術士告之曰：「<persName key="A012328">君</persName>將<lb
 ed="T" n="0830a04"/>有災，當求善禳厭者，或能免矣。」<persName key="A012328">軫</persName>知<persName key="A012325">安</persName>奇<lb
 ed="T" n="0830a05"/>術清行，為時所重，致書于<persName key="A012326">休璟</persName>。<persName key="A012325">安</persName>即與一<lb
 ed="T" n="0830a06"/>書曰：「事在其中耳。」及書達<placeName key="PL000000027764">江陵</placeName>而<persName key="A012328">軫</persName>已<lb
-ed="T" n="0830a07"/>卒，其家開其書，徒一幅空紙焉，殊無一字<lb
+ed="T" n="0830a07"/>卒。其家開其書，徒一幅空紙焉，殊無一字，<lb
 ed="T" n="0830a08"/><persName key="A012326">休璟</persName>益重之。後數年遁去，罔知所之。</p>
     <linkGrp>
         <link targets="#0829c05 #0829c11"/>

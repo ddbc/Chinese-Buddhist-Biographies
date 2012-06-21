@@ -1,28 +1,28 @@
 <?xml version='1.0' encoding='utf-8'?>
-<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0800a15shiDaYi">
-    <anchor n="T.50.2061.0800a15"/><head><date from-iso="0618-06-21" key="j19469512052491" to-iso="0907-06-06">唐</date>越州稱心寺<persName key="A010991">大義</persName>傳</head><p><lb
+<div xmlns="http://www.tei-c.org/ns/1.0" type="明律" xml:id="gsz0800a15shiDaYi"><lb
+ed="T" n="0800a15"/><anchor n="T.50.2061.0800a15"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date>越州稱心寺<persName key="A010991">大義</persName>傳</head><p><lb
 ed="T" n="0800a16"/><persName key="A010991">釋大義</persName>，字<persName key="A010991">元貞</persName>，俗姓徐氏，會稽<placeName key="PL000000011736">蕭山</placeName>人也。<lb
-ed="T" n="0800a17"/>以<date key="j19736021973602" when-iso="0691-06-09">天授二年五月五日</date>，特稟神異，生而秀<lb
-ed="T" n="0800a18"/>朗。<date key="j19723471972712" from-iso="0688-01-01" to-iso="0688-12-31">七歲</date>，父訓<persName key="A010991">之</persName>以經典，日可誦數千言。<date key="j19741741974538" from-iso="0693-01-01" to-iso="0693-12-31">年<lb
+ed="T" n="0800a17"/>以<date key="j19736021973602" when-iso="+0691-06-09">天授二年五月五日</date>，特稟神異，生而秀<lb
+ed="T" n="0800a18"/>朗。<date key="j19723471972712" from-iso="+0688-01-01" to-iso="+0688-12-31">七歲</date>，父訓<persName key="A010991">之</persName>以經典，日可誦數千言。<date key="j19741741974538" from-iso="+0693-01-01" to-iso="+0693-12-31">年<lb
 ed="T" n="0800a19"/>十二</date>，請詣山陰<placeName key="PL000000011596">靈隱寺</placeName>求師，因習內法，開<lb
-ed="T" n="0800a20"/>卷必通，人咸歎之。屬<date from-iso="0683" key="j19708851980570" to-iso="0710">中宗正位</date>，恩制度人，<lb
+ed="T" n="0800a20"/>卷必通，人咸歎之。屬<date from-iso="+0683-12-31" key="j19708851980570" to-iso="+0710-07-08">中宗正位</date>，恩制度人，<lb
 ed="T" n="0800a21"/>都督<persName key="A010992">胡元禮</persName>考試經義，格中第一。削染，配<placeName key="PL000000001439">昭<lb
-ed="T" n="0800a22"/>玄寺</placeName>。自茲聽習，旁贍玄儒。<date from-iso="0713" key="j19818371984406" to-iso="0721">開元初</date>，從<placeName key="PL000000009928">吳郡</placeName><lb
+ed="T" n="0800a22"/>玄寺</placeName>。自茲聽習，旁贍玄儒。<date notBefore-iso="+0713-12-26" key="j19818371984406" notAfter-iso="+0721-01-07">開元初</date>，從<placeName key="PL000000009928">吳郡</placeName><lb
 ed="T" n="0800a23"/><persName key="A010995">圓律師</persName>受具。復依本州<placeName key="PL000000013226">開元寺</placeName><persName key="A010996">深律師</persName>，學<lb
 ed="T" n="0800a24"/>《四分律指訓》。<persName key="A010991">義</persName>因遊<placeName key="PL000000042189">長安</placeName>，<persName key="A010996">深公</persName>已亡，乃摳<lb
-ed="T" n="0800a25"/>衣<placeName key="PL000000013292">法華寺</placeName><persName key="A010815">玄儼律師</persName>，其俊邁出倫。<persName key="A010815">儼</persName>云：「<app type="multiplier" xml:id="begd1e25026"/>於<anchor xml:id="endd1e25026"/><lb
+ed="T" n="0800a25"/>衣<placeName key="PL000000013292">法華寺</placeName><persName key="A010815">玄儼律師</persName>，其俊邁出倫。<persName key="A010815">儼</persName>云：「<anchor xml:id="begd1e25026"/>於<anchor xml:id="endd1e25026"/><lb
 ed="T" n="0800a26"/>今傳法，非<persName key="A010991">子</persName>而誰？」及<placeName key="PL000000013395">稱心本寺</placeName><persName key="A010997">超律師</persName>請<lb
-ed="T" n="0800a27"/>為<placeName key="PL000000013395">寺</placeName>任。<date from-iso="0713" key="j19818371992113" to-iso="0742">開元</date>中喪親，誓入天台<placeName key="PL000000014664">佛隴</placeName>轉《藏<lb
-ed="T" n="0800a28"/>經》，答劬勞也。<date from-iso="0742" key="j19921141997410" to-iso="0756">天寶</date>中遂築北塢之室<!--找不到此地-->，即<persName key="A002205">支<lb
-ed="T" n="0800a29"/>遁</persName>、<placeName key="PL000000013355">沃<anchor xml:id="beg0800001"/>州<anchor xml:id="end0800001"/></placeName>之地也。初夢二梵僧曰：「<persName key="A010991">汝</persName>居此與<pb ed="T" n="0800b" xml:id="T50.2061.0800b"/><lb
-ed="T" n="0800b01"/>二十日。」至<date from-iso="0762" key="j19995111999627" to-iso="0762">寶應初</date>，復夢曰：「本期二十日，今<lb
+ed="T" n="0800a27"/>為<placeName key="PL000000013395">寺</placeName>任。<date notBefore-iso="+0713-12-26" key="j19818371992113" notAfter-iso="+0742-02-13">開元中</date>喪親，誓入天台<placeName key="PL000000014664">佛隴</placeName>轉《藏<lb
+ed="T" n="0800a28"/>經》，答劬勞也。<date notBefore-iso="+0742-02-14" key="j19921141997410" notAfter-iso="+0756-08-15"><name>天寶</name>中</date>遂築北塢之室<!--找不到此地-->，即<persName key="A002205">支<lb
+ed="T" n="0800a29"/>遁</persName>、<placeName key="PL000000013355">沃<anchor xml:id="beg0800001"/>州<anchor xml:id="end0800001"/></placeName>之地也。初夢二<name>梵</name>僧曰：「<persName key="A010991">汝</persName>居此與<pb ed="T" n="0800b" xml:id="T50.2061.0800b"/><lb
+ed="T" n="0800b01"/>二十日。」至<date notBefore-iso="+0762-05-17" key="j19995111999627" notAfter-iso="+0762-09-10">寶應初</date>，復夢曰：「本期二十日，今<lb
 ed="T" n="0800b02"/>滿矣。魔賊將至，不宜更處。」無何<ptr type="glossary" target="#g493"/>，海賊<persName key="A010998">袁晁</persName><lb
-ed="T" n="0800b03"/>竊據<placeName key="PL000000013475">剡邑</placeName>，至于<placeName key="PL000000014380"><anchor xml:id="beg0800002"/>丹<anchor xml:id="end0800002"/>丘</placeName>。<persName key="A010991">義</persName>因與<placeName key="PL000000013210">大禹寺</placeName><persName key="A010999">逈律<lb
+ed="T" n="0800b03"/>竊據<placeName key="PL000000013475">剡邑</placeName>，至<anchor xml:id="beg0800sgsz1"/>于<anchor xml:id="end0800sgsz1"/><placeName key="PL000000014380"><anchor xml:id="beg0800002"/>丹<anchor xml:id="end0800002"/>丘</placeName>。<persName key="A010991">義</persName>因與<placeName key="PL000000013210">大禹寺</placeName><persName key="A010999">逈律<lb
 ed="T" n="0800b04"/>師</persName>同詣<persName key="A009605">左谿朗禪師</persName>所，學止觀，而多精達。<lb
 ed="T" n="0800b05"/>前後朝貴歸心者，相國<persName key="A008503">杜鴻漸</persName>、尚書<persName key="A011000">薛兼訓</persName>、<lb
 ed="T" n="0800b06"/>中丞<persName key="A011001">獨孤峻</persName>、<placeName key="PL000000001670">洺州</placeName>刺史<persName key="A010260">徐嶠</persName>、次<persName key="A008847">徐浩</persName>，皆宗人<ptr type="glossary" target="#g1250"/><lb
-ed="T" n="0800b07"/>也。以<date from-iso="0770-06-03" key="j20024502002478" to-iso="0770-07-01">大曆已未歲五月</date>終<app type="multiplier" xml:id="begd1e25077"/>於<anchor xml:id="endd1e25077"/>本院，春秋八<lb
-ed="T" n="0800b08"/>十九，僧臘六十<anchor xml:id="beg0800003"/>三<anchor xml:id="end0800003"/>。殯<app type="multiplier" xml:id="begd1e25094"/>於<anchor xml:id="endd1e25094"/>寺之北塢舊居，因<lb
+ed="T" n="0800b07"/>也。以<date from-iso="+0770-06-03" key="j20024502002478" to-iso="+0770-07-01"><name>大曆</name>已未歲五月</date>終<anchor xml:id="begd1e25077"/>於<anchor xml:id="endd1e25077"/>本院，春秋八<lb
+ed="T" n="0800b08"/>十九，僧臘六十<anchor xml:id="beg0800003"/>三<anchor xml:id="end0800003"/>。殯<anchor xml:id="begd1e25094"/>於<anchor xml:id="endd1e25094"/>寺之北塢舊居，因<lb
 ed="T" n="0800b09"/>造塔焉。<persName key="A010991">義</persName>前後戒壇計二十七登，受戒弟子<lb
 ed="T" n="0800b10"/>三萬餘人。終時，室中聞天樂聲，驗乎生誦<lb
 ed="T" n="0800b11"/>《法華經》、《大涅槃經》小大乘戒本，以為口業德<lb

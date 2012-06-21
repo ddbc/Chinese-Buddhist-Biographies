@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0753a03yiJiePianLun">
+<div xmlns="http://www.tei-c.org/ns/1.0" type="義解" xml:id="gsz0753a03yiJiePianLun">
 <anchor n="T.50.2061.0753a03"/><head>義解篇論</head><p><lb
 n="0753a03" ed="T"/>論曰：玄默<ptr type="glossary" target="#g994"/>垂文，聖人俯察。<placeName key="PL000000000193">河</placeName>、<placeName key="PL000000023512">雒</placeName>之流有告，<lb
 n="0753a04" ed="T"/>圖書之法作程<ptr target="#n995"/>，<persName key="A002761">禹</persName>受斯符，乃為經緯，本六<lb
@@ -59,7 +59,7 @@ n="0753b27" ed="T"/>心無心<ptr type="glossary" target="#g1087"/>，和合<ptr
 n="0753b28" ed="T"/>有餘科，並三藏、四含之盤根，大小兩宗之鈐<lb
 n="0753b29" ed="T"/>鍵<ptr type="glossary" target="#g431"/>，先賢之所不決，令<ptr type="glossary" target="#g1017"/>哲之所共疑<ptr target="#n1016"/>，但謂闕
         <pb n="0753c" xml:id="T50.2061.0753c" ed="T"/><lb
-n="0753c01" ed="T"/>如，所知成障。</p><p>及乎<persName key="A000294">奘師</persName>西復，梵本東傳，富<lb
+n="0753c01" ed="T"/>如，所知成障。</p><p>及乎<persName key="A000294">奘師</persName>西復，<name>梵</name>本東傳，富<lb
 n="0753c02" ed="T"/>《瑜伽》之寶林，開《唯識》之淵府<ptr type="glossary" target="#g688"/>，「摩訶衍」<ptr type="glossary" target="#g1018"/>足，「殺三<lb
 n="0753c03" ed="T"/>摩」<ptr target="#n1014"/>明，名數<ptr type="glossary" target="#g1068"/>均著作之家，立破<ptr type="glossary" target="#g738"/>定是非之量<ptr type="glossary" target="#g258"/>。<lb
 n="0753c04" ed="T"/>深山大澤，必生龍蛇<ptr target="#n1110"/>，有<persName key="A001019">大乘基</persName>為<ref target="#A000294" type="person">其</ref>高足，<lb
@@ -77,7 +77,7 @@ n="0753c15" ed="T"/><persName key="A000008">一行</persName>，所作通神，�
 n="0753c16" ed="T"/>薩。<persName key="A001464">忠</persName>、<persName key="A001525">氤</persName>、<persName key="A001729">琳</persName>、<persName key="A009664">甫</persName>、<persName key="A000540">賁</persName>、<persName key="A008873">秀</persName>、<persName key="A004183">詵</persName>、<persName key="A001756">真</persName>，俱參譯判經，盡開<lb
 n="0753c17" ed="T"/>荒闢土。於爍<persName key="A000587">宗密</persName>，美乎<persName key="A001307">湛然</persName>，<persName key="A000753">悟達</persName>全才，<persName key="A009802">徹<roleName>公</roleName></persName><lb
 n="0753c18" ed="T"/>令範，可以副人之求備哉！餘諸上士，擅美<lb
-n="0753c19" ed="T"/>殊方，落落英翹，互有長短。矧<ptr type="glossary" target="#g325"/>以佛之說經，申<lb
+n="0753c19" ed="T"/>殊方，落落英翹，互有長短。矧<ptr rend="display:none;" type="glossary" target="#g325"/>以佛之說經，申<lb
 n="0753c20" ed="T"/>經者論；經由論顯，論待疏通，疏總義章，義<lb
 n="0753c21" ed="T"/>從師述。況以隔羅縠<ptr type="glossary" target="#g1101"/>者見猶<anchor xml:id="beg0753004"/>未<anchor xml:id="end0753004"/>盡，大遍<lb
 n="0753c22" ed="T"/>知者知方得全。射侯<ptr type="glossary" target="#g1102"/>之矢易疎，診脈之求難<lb
@@ -86,7 +86,7 @@ n="0753c24" ed="T"/>馳<ptr type="glossary" target="#g1103"/>，妄他求之晻�
 n="0753c25" ed="T"/>難知。故《智論》中，<ref type="person" target="#A002799">吾</ref>滅度後，所有撰集者皆<lb
 n="0753c26" ed="T"/>為「論」藏攝也，俱作導師，指迷人之歸路；悉<lb
 n="0753c27" ed="T"/>䘖明燭，照暗室之績工。動戒足以行之，<lb
-n="0753c28" ed="T"/>入定門<ptr type="glossary" target="#g187"/>而安矣。蓋纏<ptr target="#n1105"/>克<ptr type="glossary" target="#g560"/>斷，智慧成功，咸從<lb
+n="0753c28" ed="T"/>入定門<ptr rend="display:none;" type="glossary" target="#g187"/>而安矣。蓋纏<ptr target="#n1105"/>克<ptr type="glossary" target="#g560"/>斷，智慧成功，咸從<lb
 n="0753c29" ed="T"/>生死之河，盡度涅槃之岸，此始可與言從
         <pb n="0754a" xml:id="T50.2061.0754a" ed="T"/><lb
 n="0754a01" ed="T"/>聞且思<ptr type="glossary" target="#g490"/>，思至而修證大圓寂者。過此以往<lb

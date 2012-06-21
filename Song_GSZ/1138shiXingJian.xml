@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
-<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0862a21shiXingJian"><lb
-n="0862a21" ed="T"/><anchor n="T.50.2061.0862a21"/><head><date from-iso="0581-03-06" key="j19333311946884" to-iso="0618-04-15">隋</date><persName key="A013532">行堅</persName>傳</head><p><lb
+<div xmlns="http://www.tei-c.org/ns/1.0" type="讀誦" xml:id="gsz0862a21shiXingJian"><lb
+n="0862a21" ed="T"/><anchor n="T.50.2061.0862a21"/><head><date from-iso="+0581-03-06" key="j19333311946884" to-iso="+0618-04-15">隋</date><persName key="A013532">行堅</persName>傳</head><p><lb
 ed="T" n="0862a22"/><persName key="A013532">釋行堅</persName>者，未知何許人也，常修禪觀，節操<lb
 ed="T" n="0862a23"/>惟嚴，偶事東遊，路出<placeName key="PL000000021580">泰山</placeName>，日之夕矣，入嶽<lb
-ed="T" n="0862a24"/>廟，謀之度宵。令<note resp="sgsz">即後文之廟令。</note>曰：「此無別舍，唯神廊廡下<lb
+ed="T" n="0862a24"/>廟，謀之度宵。令<ptr target="#n1997"/>曰：「此無別舍，唯神廊廡下<lb
 ed="T" n="0862a25"/>可以。然而來寄宿者，必罹暴死之殃。吾師<lb
 ed="T" n="0862a26"/>籌之。」<persName key="A013532">堅</persName>曰：「無苦。」不得已從之，為藉藁於<lb
 ed="T" n="0862a27"/>廡下。<persName key="A013532">堅</persName>端坐誦經，可一更，聞屋中環𤧑之<lb
@@ -24,10 +24,10 @@ ed="T" n="0862b12"/>故。問曰：「欲救同學，有得理邪？」神曰：
 ed="T" n="0862b13"/>為寫法華經，必應得免。」既而將曙，神辭僧<lb
 ed="T" n="0862b14"/>入堂。旦而廟令視<persName key="A013532">堅</persName>不死，怪異之。<persName key="A013532">堅</persName>去，急<lb
 ed="T" n="0862b15"/>報前願，經寫裝畢，齎而就廟宿。神出如初，<lb
-ed="T" n="0862b16"/>歡喜禮拜，慰問來意，以事告之。神曰：「弟子<lb
-ed="T" n="0862b17"/>知己。<persName key="A013532">師</persName>為寫經，始書題目，彼已脫免，今生<lb
+ed="T" n="0862b16"/>歡喜<anchor xml:id="beg0862sgsz3"/>禮<anchor xml:id="end0862sgsz3"/>拜，慰問來意，以事告之。神曰：「弟子<lb
+ed="T" n="0862b17"/>知<anchor xml:id="beg0862sgsz5"/><choice resp="sgsz"><sic>己</sic><corr>已</corr></choice><anchor xml:id="end0862sgsz5"/>。<persName key="A013532">師</persName>為寫經，始書題目，彼已脫免，今生<lb
 ed="T" n="0862b18"/>人間也。然此處不潔，不宜安經，願<persName key="A013532">師</persName>還送<lb
-ed="T" n="0862b19"/>入寺中。」言訖，天曉，辭決而去，則<date key="j19420591946768" notAfter-iso="0617" notBefore-iso="0605">大業</date>年中也。<lb
+ed="T" n="0862b19"/>入寺中。」言訖，天曉，辭決而去，則<date key="j19420591946768" notAfter-iso="+0617-12-20" notBefore-iso="+0605-01-28">大業</date>年中也。<lb
 ed="T" n="0862b20"/><persName key="A013532">堅</persName>居處不恒，莫知終畢。</p>
     <linkGrp>
         <link targets="#0862a23 #0862b19"/>

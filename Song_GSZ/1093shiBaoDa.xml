@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
-<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0846c13shiBaoDa">
-    <anchor n="T.50.2061.0846c13"/><head><date from-iso="0618-06-21" key="j19469512052491" to-iso="0907-06-06">唐</date>杭州靈隱寺<persName key="A012832">寶達</persName>傳</head><p><lb
+<div xmlns="http://www.tei-c.org/ns/1.0" type="感通" xml:id="gsz0846c13shiBaoDa"><lb
+ed="T" n="0846c13"/><anchor n="T.50.2061.0846c13"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date>杭州靈隱寺<persName key="A012832">寶達</persName>傳</head><p><lb
 ed="T" n="0846c14"/><persName key="A012832">釋寶達</persName>者，不知何許人也，遁是名山，高乎<lb
 ed="T" n="0846c15"/>道望，號<persName key="A012832">剎利法師</persName>。以持密呪為恒務。其院<lb
 ed="T" n="0846c16"/>中有印沙床、照佛鑑。往者<placeName key="PL000000008367">浙江</placeName>也，驚濤巨浪，<lb
@@ -16,7 +16,7 @@ ed="T" n="0846c25"/>稱，翕然敷化。後罔知所終。</p>
     <p xml:id="pT50p0846c2601"><lb
 ed="T" n="0846c26"/>系曰：印沙床者何？通曰：「有道之士居山，必非<lb
 ed="T" n="0846c27"/>寶器，疑其範築江沙，巧成坐榻歟？」照佛鑑<lb
-ed="T" n="0846c28"/>者何？通曰：「即鑑燈耳。以其<persName key="A010975">陸鴻漸</persName><date from-iso="0785" key="j20078242015139" to-iso="0805">貞元</date>中多<lb
+ed="T" n="0846c28"/>者何？通曰：「即鑑燈耳。以其<persName key="A010975">陸鴻漸</persName><date notBefore-iso="+0785-02-18" key="j20078242015139" notAfter-iso="+0805-02-28"><name>貞元</name>中</date>多<lb
 ed="T" n="0846c29"/>遊是山，述記記<persName key="A012832">達師</persName>節儉而明心之調度<pb ed="T" n="0847a" xml:id="T50.2061.0847a"/><lb
 ed="T" n="0847a01"/>也。」</p>
     <linkGrp>

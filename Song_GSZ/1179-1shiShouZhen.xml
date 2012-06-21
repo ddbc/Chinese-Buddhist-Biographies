@@ -1,15 +1,15 @@
 <?xml version='1.0' encoding='utf-8'?>
-<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0871b17shiShouZhen">
-    <anchor n="T.50.2061.0871b17"/><head><date from-iso="0960-02-09" key="j20717322132856" to-iso="1127-06-18">宋</date>東京開寶寺<persName key="A013628">守真</persName>傳（<persName key="A013633">沙彌彌伽</persName> <persName key="A013634">道蔭</persName>）</head><p><lb
+<div xmlns="http://www.tei-c.org/ns/1.0" type="讀誦" xml:id="gsz0871b17shiShouZhen"><lb
+ed="T" n="0871b17"/><anchor n="T.50.2061.0871b17"/><head><date from-iso="+0960-02-09" key="j20717322132856" to-iso="+1127-06-18"><anchor xml:id="beg0871004"/>宋<anchor xml:id="end0871004"/></date>東京開寶寺<persName key="A013628">守真</persName>傳（<persName key="A013633">沙彌彌伽</persName> <persName key="A013634">道蔭</persName>）</head><p><lb
 ed="T" n="0871b18"/><persName key="A013628">釋守真</persName>，<placeName key="PL000000042193">永興萬年</placeName>人也。俗姓紀，漢詐帝信之<lb
-ed="T" n="0871b19"/>鴻緒。乃祖乃父，素履貞吉，奕葉孝行，充塞閭<lb
+ed="T" n="0871b19"/>鴻緒。乃祖乃父，素履貞吉，<anchor xml:id="beg0871sgsz10"/>奕<anchor xml:id="end0871sgsz10"/>葉孝行，充塞閭<lb
 ed="T" n="0871b20"/>里，故鄉人美其孝焉。遂目之曰紀丁蘭也，<lb
-ed="T" n="0871b21"/><persName key="A013628">真</persName>即其後矣。洎黃寇于紀，<persName key="A005228">僖宗</persName>蒙塵，車駕避<lb
+ed="T" n="0871b21"/><persName key="A013628">真</persName>即其後矣。洎黃寇<anchor xml:id="beg0871sgsz12"/><choice resp="sgsz"><sic>于</sic><corr>干</corr></choice><anchor xml:id="end0871sgsz12"/>紀，<persName key="A005228">僖宗</persName>蒙塵，車駕避<lb
 ed="T" n="0871b22"/>鋒而西幸，<placeName key="PL000000043060">咸</placeName>、<placeName key="PL000000042189">鎬</placeName>失守而沒賊，因而徙家居<lb
-ed="T" n="0871b23"/>于<placeName key="PL000000035107">蜀</placeName>矣。及<date key="j20545272054891" from-iso="0913-01-01" to-iso="0913-12-31">冠</date>也，偶遊<placeName key="PL000000034762">聖壽寺</placeName>見<persName key="A013629">修進律師</persName><lb
+ed="T" n="0871b23"/>于<placeName key="PL000000035107">蜀</placeName>矣。及<date key="j20545272054891" from-iso="+0913-01-01" to-iso="+0913-12-31">冠</date>也，偶遊<placeName key="PL000000034762">聖壽寺</placeName>見<persName key="A013629">修進律師</persName><lb
 ed="T" n="0871b24"/>行出物表，語越常度，乃解帶卸冠，北面而<lb
 ed="T" n="0871b25"/>事之。七支既備，先謁<persName key="A013631">從朗師</persName>，學起信論；次<lb
-ed="T" n="0871b26"/>依<persName key="A013632">性光師</persName>，傳法界觀；後禮演祕闍梨，授瑜<lb
+ed="T" n="0871b26"/>依<persName key="A013632">性光師</persName>，傳法界觀；後<anchor xml:id="beg0871sgsz14"/>禮<anchor xml:id="end0871sgsz14"/>演祕闍梨，授瑜<lb
 ed="T" n="0871b27"/>伽教，竝得心要，咸盡指歸。自明達諸法，<lb
 ed="T" n="0871b28"/>宣暢妙典，四十年間略無怠矣。而賜號曰<lb
 ed="T" n="0871b29"/><persName key="A013628">昭信</persName>焉。講起信及法界觀共七十餘遍，皆<pb ed="T" n="0871c" xml:id="T50.2061.0871c"/><lb
@@ -24,21 +24,21 @@ ed="T" n="0871c08"/>俗從世，預設二塔，其可得乎？」緣遇稽首而
 ed="T" n="0871c09"/>對曰：「廣度長老捨院之右地請建塔者有<lb
 ed="T" n="0871c10"/>年矣，今大師屬其意，長老致其美，因緣冥<lb
 ed="T" n="0871c11"/>契，安可而止。」於是鳩工而營之，自十月琢<lb
-ed="T" n="0871c12"/>磨，至<anchor xml:id="beg0871005"/>來<anchor xml:id="end0871005"/>一月徹繢。以<date key="j20759592075959" when-iso="0971-09-06">開寶四年秋八月九<lb
+ed="T" n="0871c12"/>磨，至<anchor xml:id="beg0871005"/><choice resp="sgsz"><sic>來</sic><corr>十</corr></choice><anchor xml:id="end0871005"/>一月徹繢。以<date key="j20759592075959" when-iso="+0971-09-06">開寶四年秋八月九<lb
 ed="T" n="0871c13"/>日</date>命眾念佛，佛聲既久，令止，奄然而歸寂，<lb
 ed="T" n="0871c14"/>俗壽七十八，僧臘五十三。其月二十一日焚<lb
 ed="T" n="0871c15"/>葬於北永泰門外智度院側。其獲舍利光潤，<lb
 ed="T" n="0871c16"/>各將供養之。次沙彌<persName key="A013633">彌伽</persName>者，<placeName key="PL000000047992">于闐國</placeName>人也，專<lb
-ed="T" n="0871c17"/>誦華嚴經，曾無間息。<date key="j19759911976879" notAfter-iso="0700" notBefore-iso="0697">聖曆年</date>中，<persName key="A002869">天帝釋</persName>請迎<lb
+ed="T" n="0871c17"/>誦華嚴經，曾無間息。<date key="j19759911976879" notAfter-iso="+0700-05-30" notBefore-iso="+0697-12-23">聖曆年中</date>，<persName key="A002869">天帝釋</persName>請迎<lb
 ed="T" n="0871c18"/><persName key="A013633">伽</persName>上天誦持，乃曰：「每被<persName key="A008593">阿脩羅</persName>見擾，故屈<lb
 ed="T" n="0871c19"/>師來，請為誦宣華嚴經，以禳彼敵。」遂陞座，<lb
 ed="T" n="0871c20"/>朗諷是經。時修羅軍眾聞經乃現威神，一<lb
-ed="T" n="0871c21"/>時而化去。又沙彌<persName key="A013634">道蔭</persName>常念金剛經，<date key="j20224182022595" notAfter-iso="0825" notBefore-iso="0825">寶曆初</date>，<lb
+ed="T" n="0871c21"/>時而化去。又沙彌<persName key="A013634">道蔭</persName>常念金剛經，<date key="j20224182022595" notAfter-iso="+0825-07-29" notBefore-iso="+0825-02-02">寶曆初</date>，<lb
 ed="T" n="0871c22"/>因他出夜歸，虎暴中路，忽遇哮吼跳躑于<lb
 ed="T" n="0871c23"/>前。<persName key="A013634">蔭</persName>知不免，乃閉目而坐，唯默念是經，心<lb
 ed="T" n="0871c24"/>期救護，虎遂伏草守之。達曙，村人來往，乃<lb
-ed="T" n="0871c25"/>視虎，其蹲處涎流於地焉。<persName key="A013634">蔭</persName>後持誦益加，<lb
-ed="T" n="0871c26"/>高行矣。</p>
+ed="T" n="0871c25"/>視虎，其蹲處涎流於地焉。<persName key="A013634">蔭</persName>後持誦，益加<lb
+ed="T" n="0871c26"/>高行矣。</p><milestone unit="page" rend="pagebreak"/>
     <linkGrp>
         <link targets="#0871b21 #0871b23"/>
         <ptr target="#A013628" type="person"/>

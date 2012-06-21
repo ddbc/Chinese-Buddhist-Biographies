@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
-<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0878c29shiZhenGan">
-    <anchor n="T.50.2061.0878c29"/><head><date from-iso="0618-06-21" key="j19469512052491" to-iso="0907-06-06">唐</date>吳郡嘉禾<persName key="A013712">貞幹</persName>傳</head><p><lb
+<div xmlns="http://www.tei-c.org/ns/1.0" type="興福" xml:id="gsz0878c29shiZhenGan"><lb
+ed="T" n="0878c29"/><anchor n="T.50.2061.0878c29"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date>吳郡嘉禾<persName key="A013712">貞幹</persName>傳</head><pb n="0879a" xml:id="T50.2061.0879a" ed="T"/><p><lb
 ed="T" n="0879a01"/><persName key="A013712">釋貞幹</persName>，俗姓武氏，<placeName key="PL000000003893">雲中</placeName>人也。神宇高邈，以禪<lb
-ed="T" n="0879a02"/>默為務。曳錫踽步，南訪靈跡，及至故障，<lb
+ed="T" n="0879a02"/>默為務。曳錫踽步，南訪靈跡，及至故<anchor xml:id="beg0879sgsz1"/>障<anchor xml:id="end0879sgsz1"/>，<lb
 ed="T" n="0879a03"/>有崑山寺<!--找不到此地-->者，林泉秀茂，則宋<persName key="A001800">支曇諦</persName>甞考室<lb
-ed="T" n="0879a04"/>于此，味道崇化二十餘載，基蹠存焉。至<date from-iso="0424" key="j18761841886591" to-iso="0453">元<lb
-ed="T" n="0879a05"/>嘉</date>中創成大伽藍。屬<date from-iso="0840" key="j20279082030170" to-iso="0846">武宗</date>廢教，其寺屏除。<lb
+ed="T" n="0879a04"/>于此，味道崇化二十餘載，基蹠存焉。至<date notBefore-iso="+0424-09-18" key="j18761841886591" notAfter-iso="+0453-03-17">元<lb
+ed="T" n="0879a05"/>嘉中</date>創成大伽藍。屬<date from-iso="+0840-02-14" key="j20279082030170" to-iso="+0846-04-25">武宗</date>廢教，其寺屏除。<lb
 ed="T" n="0879a06"/><persName key="A013712">幹</persName>至止於茲，與<placeName key="PL000000002485">范陽</placeName><persName key="A013713">盧君襲</persName>同興<persName key="A013714">弘覺法<lb
 ed="T" n="0879a07"/>師</persName>第二生名跡，寺成，進士<persName key="A013716">姚扶</persName>有詩。<persName key="A013712">幹</persName>後遊<lb
 ed="T" n="0879a08"/>今<placeName key="PL000000012746">秀州</placeName>長水，見<placeName key="PL000000012759">靈光寺</placeName>，邑民欲樹巨殿。時<lb
@@ -13,7 +13,7 @@ ed="T" n="0879a09"/><persName key="A013713">盧</persName>令移邑字民，欣�
 ed="T" n="0879a10"/>「得他心宿命之明焉」。遂請<persName key="A013712">幹</persName>首唱，而惡偃<lb
 ed="T" n="0879a11"/>室之囂，寓殿基後，編苫為淺室而居。四方<lb
 ed="T" n="0879a12"/>檀信，弗召自臻。又與僧令<persName key="A013715">恭君道</persName>等累歲方<lb
-ed="T" n="0879a13"/>成今殿。其最高廣，海內罕比。事畢，[挈-刀+力]弊囊，<lb
+ed="T" n="0879a13"/>成今殿。其最高廣，海內罕比。事畢，挈弊囊，<lb
 ed="T" n="0879a14"/>振舊錫歸北，莫知其終。</p>
     <linkGrp>
         <link targets="#0879a06 #0879a07"/>

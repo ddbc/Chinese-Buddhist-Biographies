@@ -1,27 +1,27 @@
 <?xml version='1.0' encoding='utf-8'?>
-<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0836b07shiChuJi"><lb
-n="0836b07" ed="T"/><anchor n="T.50.2061.0836b07"/><head><date from-iso="0618-06-21" key="j19469512052491" to-iso="0907-06-06">唐</date>資州山北蘭若<persName key="A010342">處寂</persName>傳</head><p><lb
+<div xmlns="http://www.tei-c.org/ns/1.0" type="感通" xml:id="gsz0836b07shiChuJi"><lb
+n="0836b07" ed="T"/><anchor n="T.50.2061.0836b07"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date>資州山北蘭若<persName key="A010342">處寂</persName>傳</head><p><lb
 ed="T" n="0836b08"/><persName key="A010342">釋處寂</persName>，俗姓周氏，<placeName key="PL000000035107">蜀</placeName>人也。師事<persName key="A010412">寶修禪師</persName>，<lb
 ed="T" n="0836b09"/>服勤寡慾，與物無競。雅通玄奧，居山北，行<lb
 ed="T" n="0836b10"/>杜多行。<persName key="A002099">天后</persName>聞焉，詔入內，賜摩納僧伽梨，<lb
 ed="T" n="0836b11"/>辭乞歸山。涉四十年，足不到聚落。坐一胡<lb
 ed="T" n="0836b12"/>床，宴默不寐。常有虎蹲伏座下，如家畜類。<lb
-ed="T" n="0836b13"/>資民所重，學其道者臻萃。由是頗形奇異，<lb
+ed="T" n="0836b13"/>資民所重，學其道者臻萃<ptr type="glossary" target="#g1405"/>。由是頗形奇異，<lb
 ed="T" n="0836b14"/>如<persName key="A010305">無相大師</persName>自<placeName key="PL000000048606">新羅國</placeName>將來謁<persName key="A006390">詵禪師</persName>，<persName key="A010342">寂</persName><lb
 ed="T" n="0836b15"/>預誡眾曰：「外來之賓明日當見矣。宜灑掃<lb
-ed="T" n="0836b16"/>以待之。」明日，果有海東賓至也。<date from-iso="0713" key="j19818371984406" to-iso="0721">開元初</date>，新<lb
-ed="T" n="0836b17"/>除太守<persName key="A012484">王曄</persName>，本黃冠也，<date from-iso="0710" key="j19806161981175" to-iso="0712">景雲</date>中曾立少功，<lb
+ed="T" n="0836b16"/>以待之。」明日，果有海東賓至也。<date notBefore-iso="+0713-12-26" key="j19818371984406" notAfter-iso="+0721-01-07">開元初</date>，新<lb
+ed="T" n="0836b17"/>除太守<persName key="A012484">王曄</persName>，本黃冠也，<date notBefore-iso="+0710-08-23" key="j19806161981175" notAfter-iso="+0712-03-04"><name>景雲</name>中</date>曾立少功，<lb
 ed="T" n="0836b18"/><anchor xml:id="beg0836003"/>刺<anchor xml:id="end0836003"/>于是郡，終於釋子苞藏禍心。上任處<lb
 ed="T" n="0836b19"/>分，令境內應是沙門追集。唯<persName key="A010342">寂</persName>久不下山，<lb
 ed="T" n="0836b20"/>或勸<persName key="A010342">寂</persName>往參，免為厲階。<persName key="A010342">寂</persName>謂弟子曰：「汝雖<lb
 ed="T" n="0836b21"/>出家，猶未識業，<persName key="A010342">吾</persName>之未死，<persName key="A012484">王曄</persName>其如<persName key="A010342">吾</persName>何？」<lb
 ed="T" n="0836b22"/>迨乎<persName key="A012484">王公</persName>上官三日，緇徒畢至。或曰：「唯<persName key="A010342">處寂</persName><lb
 ed="T" n="0836b23"/>蔑視藩侯，弗來致賀。」<persName key="A012484">曄</persName>微怒也，屈諸僧，升<lb
-ed="T" n="0836b24"/>聽坐已，將啟怒端，問<persName key="A010342">寂</persName>違拒之由，慍色悖<lb
+ed="T" n="0836b24"/><anchor xml:id="beg0836sgsz9"/>聽<anchor xml:id="end0836sgsz9"/>坐已，將啟怒端，問<persName key="A010342">寂</persName>違拒之由，慍色悖<lb
 ed="T" n="0836b25"/>興，僧皆股<anchor xml:id="beg0836004"/>慄<anchor xml:id="end0836004"/>。<persName key="A012484">曄</persName>俄然仆地，左右扶掖歸宅，<lb
 ed="T" n="0836b26"/>至廳事後屏樹，如被摑頰之聲，禺中氣絕。<lb
 ed="T" n="0836b27"/>自此人謂為妄欲加諸道人，一至於此。<persName key="A010342">寂</persName><lb
-ed="T" n="0836b28"/>以<date key="j19892191989219" when-iso="0734-03-13">開元二十二年正月</date>示滅，享年八十七。<placeName key="PL000000035943">資<lb
+ed="T" n="0836b28"/>以<date key="j19892191989219" when-iso="+0734-03-13">開元二十二年正月</date>示滅，享年八十七。<placeName key="PL000000035943">資<lb
 ed="T" n="0836b29"/>中</placeName>至今崇仰焉。</p>
     <linkGrp>
         <link targets="#0836b08 #0836b08"/>

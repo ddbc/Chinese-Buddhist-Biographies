@@ -1,13 +1,13 @@
 <?xml version='1.0' encoding='utf-8'?>
-<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0788a18shiWenYi">
-    <anchor n="T.50.2061.0788a18"/><head><date from-iso="0951-02-18" key="j20684542071729" to-iso="0960-02-06">周</date>金陵清涼<persName key="A000174">文益</persName>傳</head><p><lb
-ed="T" n="0788a19"/><persName key="A000174">釋文益</persName>，姓魯氏，<placeName key="PL000000011893">餘杭</placeName>人也。年甫<date key="j20464922046856" from-iso="0891-01-01" to-iso="0891-12-31">七齡</date>，挺然出<lb
-ed="T" n="0788a20"/>俗，削染于新定<placeName key="PL000000011937">智通院</placeName>，依<persName key="A010729">全偉禪伯</persName>。<date key="j20512392051604" from-iso="0904-01-01" to-iso="0904-12-31">弱年</date>，<lb
+<div xmlns="http://www.tei-c.org/ns/1.0" type="習禪" xml:id="gsz0788a18shiWenYi">
+    <anchor n="T.50.2061.0788a18"/><head><date from-iso="+0951-02-18" key="j20684542071729" to-iso="+0960-02-06">周</date>金陵<anchor xml:id="beg0788001"/>清涼<anchor xml:id="end0788001"/><persName key="A000174">文益</persName>傳</head><p><lb
+ed="T" n="0788a19"/><persName key="A000174">釋文益</persName>，姓魯氏，<placeName key="PL000000011893">餘杭</placeName>人也。年甫<date key="j20464922046856" from-iso="+0891-01-01" to-iso="+0891-12-31">七齡</date>，挺然出<lb
+ed="T" n="0788a20"/>俗，削染于新定<placeName key="PL000000011937">智通院</placeName>，依<persName key="A010729">全偉禪伯</persName>。<date key="j20512392051604" from-iso="+0904-01-01" to-iso="+0904-12-31">弱年</date>，<lb
 ed="T" n="0788a21"/>得形俱無作法於越州<placeName key="PL000000013226">開元寺</placeName>。于時謝俗<lb
 ed="T" n="0788a22"/>累以拂衣，出樊籠而矯翼。屬律匠<persName key="A010005">希覺<lb
 ed="T" n="0788a23"/>師</persName>盛化其徒于<placeName key="PL000000012309">鄮山育王寺</placeName>，甚得持犯之<lb
 ed="T" n="0788a24"/>趣。又遊文雅之場，<persName key="A010005">覺師</persName>許命為我門之游夏<lb
-ed="T" n="0788a25"/>也。尋則玄機一發，雜務俱<anchor xml:id="beg0788002"/>損<anchor xml:id="end0788002"/>。振錫南遊，止<lb
+ed="T" n="0788a25"/>也。尋則玄機一發，雜務俱<anchor xml:id="beg0788002"/><choice resp="sgsz"><sic>損</sic><corr>捐</corr></choice><anchor xml:id="end0788002"/>。振錫南遊，止<lb
 ed="T" n="0788a26"/><persName key="A003890">長慶禪師</persName>法會。已決疑滯，更約伴西出<placeName key="PL000000028608">湖<lb
 ed="T" n="0788a27"/>湘</placeName>，爾日暴雨不進，暫望西院寄度信宿，避<lb
 ed="T" n="0788a28"/>溪漲之患耳。遂參<persName key="A010730">宣法大師</persName>曾住漳浦<placeName key="PL000000018037">羅<lb
@@ -18,16 +18,16 @@ ed="T" n="0788b03"/>止，變塗迴軌，確乎不拔。尋遊方却抵<placeNam
 ed="T" n="0788b04"/>邦伯命居<placeName key="PL000000019010">崇壽</placeName>。四遠之僧求<persName key="A000174">益</persName>者，不減千<lb
 ed="T" n="0788b05"/>計。<placeName key="PL000000000122">江南國</placeName>主<persName key="A006600">李氏始祖</persName>知重，迎住報恩禪院<!--找不到此地-->，<lb
 ed="T" n="0788b06"/>署號<persName key="A000174">淨慧</persName>。厥後微言欲絕，大夢誰醒？既傳<lb
-ed="T" n="0788b07"/>法而有歸，亦同凡而示滅，以<date key="j20711832071183" when-iso="0958-08-09">周顯德五年<lb
+ed="T" n="0788b07"/>法而有歸，亦同凡而示滅，以<date key="j20711832071183" when-iso="+0958-08-09">周顯德五年<lb
 ed="T" n="0788b08"/>戊午歲秋七月十七日</date>有恙，<persName key="A006600">國主</persName>紆于方<lb
-ed="T" n="0788b09"/>丈問疾。<date key="j20712012071201" when-iso="0958-08-27">閏月五日</date>，剃髮澡身，與眾言別，加<lb
+ed="T" n="0788b09"/>丈問疾。<date key="j20712012071201" when-iso="+0958-08-27">閏月五日</date>，剃髮澡身，與眾言別，加<lb
 ed="T" n="0788b10"/>趺而盡，顏貌如生，俗年七十四，臘五十五。私<lb
-ed="T" n="0788b11"/><app type="cb-app" xml:id="begd1e21864"/>諡<anchor xml:id="endd1e21864"/>曰<persName key="A000174">大法眼</persName>，塔號無相。俾城下僧寺具威<lb
+ed="T" n="0788b11"/>諡曰<persName key="A000174">大法眼</persName>，塔號無相。俾城下僧寺具威<lb
 ed="T" n="0788b12"/>儀禮迎引，奉全身於江寧縣<placeName key="PL000000011044">丹陽鄉</placeName>，起塔<lb
 ed="T" n="0788b13"/>焉。<persName key="A000174">益</persName>好為文筆，特慕支湯之體，時作偈頌<lb
 ed="T" n="0788b14"/>真讚，別形纂錄。法嗣弟子<placeName key="PL000000014411">天台</placeName><persName key="A008355">德韶</persName>、<persName key="A010735">慧明</persName>、<placeName key="PL000000018048">漳<lb
-ed="T" n="0788b15"/>州</placeName><persName key="A010730">智依</persName>、<placeName key="PL000000008734">鐘山</placeName><persName key="A010736">道欽</persName>、<placeName key="PL000000010986">潤州</placeName><persName key="A010737">光逸</persName>、<placeName key="PL000000019383">吉州</placeName><persName key="A010738">文遂</persName>。<placeName key="PL000000000197">江南</placeName>後<lb
-ed="T" n="0788b16"/>主為《碑》頌德，<persName key="A010740">韓熙載</persName>撰塔銘云。</p>
+ed="T" n="0788b15"/>州</placeName><persName key="A010730">智依</persName>、<placeName key="PL000000008734">鐘山</placeName><persName key="A010736">道<anchor xml:id="beg0788sgsz2"/>欽<anchor xml:id="end0788sgsz2"/></persName>、<placeName key="PL000000010986">潤州</placeName><persName key="A010737">光逸</persName>、<placeName key="PL000000019383">吉州</placeName><persName key="A010738">文遂</persName>。<placeName key="PL000000000197">江南</placeName>後<lb
+ed="T" n="0788b16"/>主為碑頌德，<persName key="A010740">韓熙載</persName>撰塔銘云。</p>
     <linkGrp>
         <link targets="#0788a19 #0788a20"/>
         <ptr target="#A000174" type="person"/>

@@ -1,15 +1,15 @@
 <?xml version='1.0' encoding='utf-8'?>
-<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0766c19shiZhiMan">
-    <anchor n="T.50.2061.0766c19"/><head><date from-iso="0618-06-21" key="j19469512052491" to-iso="0907-06-06">唐</date><placeName key="PL000000015607">宣州靈湯泉蘭若</placeName><persName key="A010353">志滿</persName>傳</head><p><lb
+<div xmlns="http://www.tei-c.org/ns/1.0" type="習禪" xml:id="gsz0766c19shiZhiMan"><lb
+ed="T" n="0766c19"/><anchor n="T.50.2061.0766c19"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date><placeName key="PL000000015607">宣州靈湯泉蘭若</placeName><persName key="A010353">志滿</persName>傳</head><p><lb
 ed="T" n="0766c20"/><persName key="A010353">釋志滿</persName>，姓康氏，<placeName key="PL000000023581">洛陽</placeName>人也。幼少之年，屬其<lb
 ed="T" n="0766c21"/>家命沙門陳佛會，<persName key="A010353">滿</persName>意樂不捨，遂投<placeName key="PL000000024824">頴川<lb
-ed="T" n="0766c22"/>龍興寺</placeName>出家。聞<placeName key="PL000000023581">洛下</placeName><persName key="A005612">神會禪師</persName>法席繁盛，得<lb
+ed="T" n="0766c22"/>龍興寺</placeName>出家。聞<placeName key="PL000000023581">洛下</placeName><persName key="A005612">神會<roleName>禪師</roleName></persName>法席繁盛，得<lb
 ed="T" n="0766c23"/>了心要。南遊到<placeName key="PL000000015607">黃山靈湯泉所</placeName>，結茅茨而<lb
 ed="T" n="0766c24"/>止。後采黃連，鄉人見<persName key="A010353">滿</persName>喜躍，<persName key="A010353">滿</persName>問：「此何處<lb
 ed="T" n="0766c25"/>耶？」鄉人曰：「<placeName key="PL000000015601">黃連山</placeName>，屬<placeName key="PL000000016956">宣城</placeName>也。願<ref type="person" target="#A010353">師</ref>鎮此，柰<lb
 ed="T" n="0766c26"/>何虎豹多害？」<persName key="A010353">滿</persName>曰：「虎亦有佛性。」乃焚香祝<lb
 ed="T" n="0766c27"/>厭之，由茲弭息，遂成大禪院。後示寂，春秋<lb
-ed="T" n="0766c28"/>九十一。<date from-iso="0805-09-05" key="j20153282015472" to-iso="0806-01-27">永貞元年</date>入塔焉。</p>
+ed="T" n="0766c28"/>九十一。<date from-iso="+0805-09-05" key="j20153282015472" to-iso="+0806-01-27"><name>永貞</name>元年</date>入塔焉。</p>
     <linkGrp>
         <link targets="#0766c20 #0766c20"/>
         <ptr target="#A010353" type="person"/>

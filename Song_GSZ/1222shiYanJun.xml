@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
-<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0886a11shiYanJun">
-    <anchor n="T.50.2061.0886a11"/><head><date from-iso="0960-02-09" key="j20717322132856" to-iso="1127-06-18">宋</date>東京觀音禪院<persName key="A013791">巖俊</persName>傳</head><p><lb
+<div xmlns="http://www.tei-c.org/ns/1.0" type="興福" xml:id="gsz0886a11shiYanJun"><lb
+ed="T" n="0886a11"/><anchor n="T.50.2061.0886a11"/><head><date from-iso="+0960-02-09" key="j20717322132856" to-iso="+1127-06-18"><anchor xml:id="beg0886001"/>宋<anchor xml:id="end0886001"/></date>東京觀音禪院<persName key="A013791">巖俊</persName>傳</head><p><lb
 ed="T" n="0886a12"/><persName key="A013791">釋巖俊</persName>，姓廉氏，<placeName key="PL000000001806">邢臺</placeName>人也。誕育之來，蔚繁神<lb
 ed="T" n="0886a13"/>異，挺身去縛，誓入空門。從捧戒珠，終身圓<lb
 ed="T" n="0886a14"/>瑩。乃持杯錫，言遍參尋，陟彼衡廬，登乎<placeName key="PL000000035105">岷<lb
@@ -20,17 +20,17 @@ ed="T" n="0886a27"/>違，以安形性。既考禪室而行祖風，慕道窮<lb
 ed="T" n="0886a28"/>玄，堂宇盈塞。<persName key="A006584">周高祖</persName>、<persName key="A006586">世宗</persName>二帝潛隱地，與<persName key="A013791">俊</persName><lb
 ed="T" n="0886a29"/>布衣之交，每登方丈，必施跪禮。及其即位，<pb ed="T" n="0886b" xml:id="T50.2061.0886b"/><lb
 ed="T" n="0886b01"/>延遲優渥，至乎朝達，見必稽顙，高談虛論，若<lb
-ed="T" n="0886b02"/>至寶山焉。以<date key="j20739732074002" notAfter-iso="0966-04-28" notBefore-iso="0966-03-30">乾德丙寅三月</date>示身有疾，<lb
+ed="T" n="0886b02"/>至寶山焉。以<date key="j20739732074002" notAfter-iso="+0966-04-28" notBefore-iso="+0966-03-30">乾德丙寅三月</date>示身有疾，<lb
 ed="T" n="0886b03"/>彌留，弟子求醫奉藥，瞋目噤脣不食，垂<lb
 ed="T" n="0886b04"/>誡門人後已，當怡顏儼肅，合掌訣眾而滅。享<lb
 ed="T" n="0886b05"/>齡八十五，坐夏<ptr type="glossary" target="#g61"/>六十五。初<persName key="A013791">俊</persName>被朝恩，賜紫<lb
 ed="T" n="0886b06"/>袈裟也，受而不服；錫<persName key="A013791">淨戒師</persName>號也，有而不<lb
 ed="T" n="0886b07"/>稱。屬其策杖清羸，<persName key="A006584">周祖</persName>勅侍者輩勿令大<lb
-ed="T" n="0886b08"/>師一中食，俾其日昃更進佉闍尼<note resp="sgsz">丁福保《佛學大辭典．珂但尼 》：「（飲食）Khādaniya，又作佉陀尼，佉闍尼。譯曰嚼食。」</note>矣。<persName key="A013791">俊</persName>諾<lb
+ed="T" n="0886b08"/>師一中食，俾其日昃更進佉闍尼<ptr target="#n2049"/>矣。<persName key="A013791">俊</persName>諾<lb
 ed="T" n="0886b09"/>而難遵。慈柔被物，暨乎自狹而廣，實三院<lb
-ed="T" n="0886b10"/>一門也。二堂東西，恒不減數百眾。五十年間，<lb
+ed="T" n="0886b10"/>一門也。二堂東西，恒不減數百眾。五十年<anchor xml:id="beg0886sgsz5"/>間<anchor xml:id="end0886sgsz5"/>，<lb
 ed="T" n="0886b11"/>計供僧萬百千數。京城禪林，居其甲矣。以<lb
-ed="T" n="0886b12"/>其年<date key="j20740102074010" when-iso="0966-05-06">四月八日</date>歸葬于東郊豐臺村<!--找不到此地-->，白塔存<lb
+ed="T" n="0886b12"/>其年<date key="j20740102074010" when-iso="+0966-05-06">四月八日</date>歸葬于東郊豐臺村<!--找不到此地-->，白塔存<lb
 ed="T" n="0886b13"/>焉。于日神都寺院各率幡幢，吹貝鳴鐃，相<lb
 ed="T" n="0886b14"/>繼二三里。道俗送殯者萬數。知制誥<persName key="A013802">王著</persName>為<lb
 ed="T" n="0886b15"/>碑昭懋厥德云。</p>

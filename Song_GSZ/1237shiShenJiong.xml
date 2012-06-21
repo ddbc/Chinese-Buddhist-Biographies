@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
-<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0890c16shiShenJiong">
-    <anchor n="T.50.2061.0890c16"/><head><date from-iso="0618-06-21" key="j19469512052491" to-iso="0907-06-06">唐</date>越州大禹寺<persName key="A010999">神逈</persName>傳</head><p><lb
+<div xmlns="http://www.tei-c.org/ns/1.0" type="雜科聲德" xml:id="gsz0890c16shiShenJiong"><lb
+ed="T" n="0890c16"/><anchor n="T.50.2061.0890c16"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date>越州大禹寺<persName key="A010999">神逈</persName>傳</head><p><lb
 ed="T" n="0890c17"/><persName key="A010999">釋神逈</persName>，未詳何許人也。幼入法流，齊莊自<lb
-ed="T" n="0890c18"/>任，節高行峭，不惡而嚴。晚年慕<placeName key="PL000000013395">稱心寺</placeName><persName key="A010991">大義<lb
+ed="T" n="0890c18"/><anchor xml:id="beg0890sgsz3"/>任<anchor xml:id="end0890sgsz3"/>，節高行峭，不惡而嚴。晚年慕<placeName key="PL000000013395">稱心寺</placeName><persName key="A010991">大義<lb
 ed="T" n="0890c19"/>律師</persName>，同習三觀於天台宗，得旨於<persName key="A009605">左溪禪<lb
-ed="T" n="0890c20"/>師</persName>，即<date key="j19995111999978" notAfter-iso="0763" notBefore-iso="0762">寶應年</date>中也。加以辭筆宏贍，華藻紛<lb
-ed="T" n="0890c21"/>紜，為<persName key="A009605">朗師</persName>真影讚、法華經文句序，冠絕于<lb
+ed="T" n="0890c20"/>師</persName>，即<date key="j19995111999978" notAfter-iso="+0763-08-27" notBefore-iso="+0762-05-17">寶應年中</date>也。加以辭筆宏贍，華藻紛<lb
+ed="T" n="0890c21"/>紜，為《<persName key="A009605">朗師</persName>真影讚》、《法華經文句序》，冠絕于<lb
 ed="T" n="0890c22"/>時，為世所貴。不詳厥終焉。</p>
     <linkGrp>
         <link targets="#0890c18 #0890c19"/>

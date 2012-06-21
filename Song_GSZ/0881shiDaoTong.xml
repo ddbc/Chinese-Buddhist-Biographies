@@ -1,30 +1,30 @@
 <?xml version='1.0' encoding='utf-8'?>
-<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0767b29shiDaoTong">
-    <anchor n="T.50.2061.0767b29"/><head><date from-iso="0618-06-21" key="j19469512052491" to-iso="0907-06-06">唐</date><placeName key="PL000000025390">唐州紫玉山</placeName><persName key="A010391">道通</persName>傳</head><p><lb
-ed="T" n="0767c01"/><persName key="A010391">釋道通</persName>，姓何氏，<placeName key="PL000000016143">廬江</placeName>人。其為童也，持重寡<lb
-    ed="T" n="0767c02"/>辭，見佛形像，必對<anchor xml:id="beg0767sgsz9"/>禮<anchor xml:id="end0767sgsz9"/>嘆咏不捨。因父宦于<lb
+<div xmlns="http://www.tei-c.org/ns/1.0" type="習禪" xml:id="gsz0767b29shiDaoTong"><lb
+ed="T" n="0767b29"/><anchor n="T.50.2061.0767b29"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date><placeName key="PL000000025390">唐州紫玉山</placeName><persName key="A010391">道通</persName>傳<ptr target="#n1455"/></head><pb n="0767c" xml:id="T50.2061.0767c" ed="T"/><p><lb
+ed="T" n="0767c01"/><persName key="A010391">釋道通</persName>，姓<name>何</name>氏，<placeName key="PL000000016143">廬江</placeName>人。其為童也，持重寡<lb
+ed="T" n="0767c02"/>辭，見佛形像，必對<anchor xml:id="beg0767sgsz9"/>禮<anchor xml:id="end0767sgsz9"/>嘆咏不捨。因父宦于<lb
 ed="T" n="0767c03"/><placeName key="PL000000017997">泉州南安</placeName>，便求捨丱披緇。誦經合格，勅度<lb
-ed="T" n="0767c04"/><ref type="person" target="#A010391">之</ref>，當<date key="j19921141992467" from-iso="0742-02-14" to-iso="0743-02-02">天寶初載</date>也。時<persName key="A003623">道一禪師</persName>肇化<placeName key="PL000000018339">建陽<lb
-ed="T" n="0767c05"/>佛跡巖</placeName>聚徒，<persName key="A010391">通</persName>往焉。<persName key="A003623">一師</persName>於<placeName key="PL000000019334">臨川南康龔<lb
+ed="T" n="0767c04"/><ref type="person" target="#A010391">之</ref>，當<date key="j19921141992467" from-iso="+0742-02-14" to-iso="+0743-02-02"><name>天寶</name>初載</date>也。時<persName key="A003623">道一<roleName>禪師</roleName></persName>肇化<placeName key="PL000000018363">建陽</placeName>，<lb
+ed="T" n="0767c05"/><placeName key="PL000000018339">佛跡巖</placeName>聚徒，<persName key="A010391">通</persName>往焉。<persName key="A003623">一<roleName>師</roleName></persName>於<placeName key="PL000000019334">臨川南康龔<lb
 ed="T" n="0767c06"/>公山</placeName>，亦影隨而去。然誓遊方<placeName key="PL000000009928">吳</placeName>、<placeName key="PL000000013239">越</placeName>之間，<placeName key="PL000000014411">台</placeName>、<placeName key="PL000000012277">明</placeName><lb
 ed="T" n="0767c07"/>山谷，靡不登陟。迨乎迴錫<placeName key="PL000000019708">江西泐潭</placeName>山門，<lb
-ed="T" n="0767c08"/>勵心僧務，不憚勤苦。<date from-iso="0786-03-09" key="j20082082008236" to-iso="0786-04-06">貞元二年</date>往<placeName key="PL000000028928">南嶽</placeName>，見<lb
-ed="T" n="0767c09"/><persName key="A010291">石頭禪師</persName>，猶采縷加朱藍之色也。<date from-iso="0788-02-16" key="j20089172009270" to-iso="0789-02-03">四年</date>，<persName key="A003623">大寂<lb
-ed="T" n="0767c10"/>禪師</persName>垂欲歸化，昌言曰：「夫玉石潤山秀利，<lb
+ed="T" n="0767c08"/>勵心僧務，不憚勤苦。<date from-iso="+0786-03-09" key="j20082082008236" to-iso="+0786-04-06"><name>貞元</name>二年</date>往<placeName key="PL000000028928">南嶽</placeName>，見<lb
+ed="T" n="0767c09"/><persName key="A010291">石頭<roleName>禪師</roleName></persName>，猶采縷加朱藍之色也<ptr type="glossary" target="#g1530"/>。<date from-iso="+0788-02-16" key="j20089172009270" to-iso="+0789-02-03">四年</date>，<persName key="A003623">大寂<lb
+ed="T" n="0767c10"/><roleName>禪師</roleName></persName>垂欲歸化，昌言曰：「夫玉石潤山<ptr type="glossary" target="#g1531"/>秀利，<lb
 ed="T" n="0767c11"/>益<ref type="person" target="#A010391">汝</ref>道業，遇可居之。」<persName key="A010391">通</persName>聞此言，且同隱讖，<lb
-ed="T" n="0767c12"/>殊不詳練。<ref type="date" target="#j20089172009270">其年</ref>秋與<placeName key="PL000000025190">伏牛山</placeName><persName key="A010392">自在禪師</persName>同<lb
-ed="T" n="0767c13"/>遊<placeName key="PL000000023581">京洛</placeName>，迴至<placeName key="PL000000026303">唐州</placeName>西。有山峯孤林密，四絕<lb
+ed="T" n="0767c12"/>殊不詳練。<ref type="date" target="#j20090932009181">其年秋</ref>與<placeName key="PL000000025190">伏牛山</placeName><persName key="A010392">自在<roleName>禪師</roleName></persName>同<lb
+ed="T" n="0767c13"/>遊<placeName key="PL000000042189">京</placeName>、<placeName key="PL000000023581">洛</placeName>，迴至<placeName key="PL000000026303">唐州</placeName>西。有山峯孤林密，四絕<lb
 ed="T" n="0767c14"/>人煙，實有塵外之趣。乃問鄉人，云此山是<placeName key="PL000000025390">紫<lb
-ed="T" n="0767c15"/>玉山</placeName>。<persName key="A010391">通</persName>方憶<persName key="A003623">大寂</persName>之懸記<ptr type="glossary" target="#g1165"/>，<ref type="person" target="#A010391">我</ref>合居<ref type="place" target="#PL000000025390">是峯</ref>也。<lb
-ed="T" n="0767c16"/>乃陟崔嵬，見山脊有石方正，其色紫<anchor xml:id="beg0767004"/>玉<anchor xml:id="end0767004"/>瑩<lb
-ed="T" n="0767c17"/>然，嘆曰：「號紫玉者，合其稱也。<ref type="person" target="#A003623">先師</ref>之言，非<lb
+ed="T" n="0767c15"/>玉山</placeName>。<persName key="A010391">通</persName>方憶<persName key="A003623">大寂</persName>之懸記<ptr type="glossary" target="#g1165"/>，「<ref type="person" target="#A010391">我</ref>合居<ref type="place" target="#PL000000025390">是峯</ref>也。」<lb
+ed="T" n="0767c16"/>乃陟崔嵬<ptr type="glossary" target="#g1352"/>，見山脊有石方正，其色紫<anchor xml:id="beg0767004"/>玉<anchor xml:id="end0767004"/>瑩<lb
+ed="T" n="0767c17"/>然，嘆曰：「號<persName key="A010391">紫玉</persName>者，合其稱也。<ref type="person" target="#A003623">先師</ref>之言，非<lb
 ed="T" n="0767c18"/>虛記也。」挂錫解囊，參學之徒霧集。始則誅<lb
-ed="T" n="0767c19"/>茅構舍，刺史<persName key="A010393">李道古</persName>作意為建禪宮焉。<date from-iso="0813-02-09" key="j20180422018395" to-iso="0814-01-28">元<lb
-    ed="T" n="0767c20"/>和八年</date>，弟子<persName key="A010394">金藏</persName>出參<anchor xml:id="beg0767sgsz10"/>禮<anchor xml:id="end0767sgsz10"/><placeName key="PL000000019628">百丈山</placeName><persName key="A001897">海禪師</persName>，迴<lb
+ed="T" n="0767c19"/>茅構舍，刺史<persName key="A010393">李道古</persName>作意為建禪宮焉。<date from-iso="+0813-02-09" key="j20180422018395" to-iso="+0814-01-28">元<lb
+ed="T" n="0767c20"/>和八年</date>，弟子<persName key="A010394">金藏</persName>出參<anchor xml:id="beg0767sgsz10"/>禮<anchor xml:id="end0767sgsz10"/><placeName key="PL000000019628">百丈山</placeName><persName key="A001897">海<roleName>禪師</roleName></persName>，迴<lb
 ed="T" n="0767c21"/>見<persName key="A010391">通</persName>。<persName key="A010391">通</persName>愀然作色：「<ref type="person" target="#A010394">汝</ref>其來矣，此山有主也。」<lb
-    ed="T" n="0767c22"/>曳<anchor xml:id="beg0767sgsz11"/>杖<anchor xml:id="end0767sgsz11"/>徑去，<placeName key="PL000000027118">襄州</placeName>道俗皆迎。至<date key="j20182322018232" when-iso="0813-08-18">七月十五日</date>，<lb
+ed="T" n="0767c22"/>曳<anchor xml:id="beg0767sgsz11"/>杖<anchor xml:id="end0767sgsz11"/>徑去，<placeName key="PL000000027118">襄州</placeName>道俗皆迎。至<date key="j20182322018232" when-iso="+0813-08-18">七月十五日</date>，<lb
 ed="T" n="0767c23"/>無疾而終，春秋八十三。一云故相國<persName key="A000047">于頔</persName>最<lb
-    ed="T" n="0767c24"/>所歸心，尚書<persName key="A010395">李翱</persName><anchor xml:id="beg0767sgsz12"/>禮<anchor xml:id="end0767sgsz12"/>重焉。</p>
+ed="T" n="0767c24"/>所歸心，尚書<persName key="A010395">李翱</persName><anchor xml:id="beg0767sgsz12"/>禮<anchor xml:id="end0767sgsz12"/>重焉。</p>
     <linkGrp>
         <link targets="#0767c01 #0767c01"/>
         <ptr target="#A010391" type="person"/>
@@ -91,14 +91,21 @@ ed="T" n="0767c23"/>無疾而終，春秋八十三。一云故相國<persName ke
         <link targets="#0767c12 #0767c13"/>
         <ptr target="#A010391" type="person"/>
         <ptr target="#A010392" type="person"/>
+        <ptr target="#PL000000042189" type="place"/>
+        <ptr target="#j20090932009181" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0767c12 #0767c13"/>
+        <ptr target="#A010391" type="person"/>
+        <ptr target="#A010392" type="person"/>
         <ptr target="#PL000000023581" type="place"/>
-        <ptr target="#j20089172009270" type="time"/>
+        <ptr target="#j20090932009181" type="time"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0767c13 #0767c15"/>
         <ptr target="#A010391" type="person"/>
         <ptr target="#PL000000025390" type="place"/>
-        <ptr target="#j20089172009270" type="time"/>
+        <ptr target="#j20090932009181" type="time"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0767c19 #0767c19"/>
@@ -125,5 +132,15 @@ ed="T" n="0767c23"/>無疾而終，春秋八十三。一云故相國<persName ke
         <ptr target="#A010391" type="person"/>
         <ptr target="#PL000000027118" type="place"/>
         <ptr target="#j20182322018232" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0767c23 #0767c24"/>
+        <ptr target="#A010391" type="person"/>
+        <ptr target="#A000047" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0767c23 #0767c24"/>
+        <ptr target="#A010391" type="person"/>
+        <ptr target="#A010395" type="person"/>
     </linkGrp>
 </div>

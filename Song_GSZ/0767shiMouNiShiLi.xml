@@ -1,20 +1,20 @@
 <?xml version='1.0' encoding='utf-8'?>
-<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0720c29shiMouNiShiLi"><lb
-ed="T" n="0720c29"/><anchor n="T.50.2061.0720c29"/><head><date from-iso="0618-06-21" key="j19469512052491" to-iso="0907-06-06">唐</date><placeName key="PL000000042410">京兆慈恩寺</placeName><persName key="A000391">寂默</persName>傳</head><p><lb
-ed="T" n="0721a01"/><persName key="A000391">釋牟尼室利</persName>，華言<persName key="A000391">寂默</persName>。其為人也，神宇高<lb
-ed="T" n="0721a02"/>爽，量度真率。<date from-iso="0793-02-19" key="j20107472011101" to-iso="0794-02-08">德宗貞元九年</date>，發<placeName key="PL000000048272">那爛陀寺</placeName>，擁<lb
+<div xmlns="http://www.tei-c.org/ns/1.0" type="譯經" xml:id="gsz0720c29shiMouNiShiLi"><lb
+ed="T" n="0720c29"/><anchor n="T.50.2061.0720c29"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date><placeName key="PL000000042410">京兆慈恩寺</placeName><persName key="A000391">寂默</persName>傳</head><pb n="0721a" xml:id="T50.2061.0721a" ed="T"/><p><lb
+ed="T" n="0721a01"/><persName key="A000391">釋牟尼室利</persName>，<name>華</name>言<persName key="A000391">寂默</persName>。其為人也，神宇高<lb
+ed="T" n="0721a02"/>爽，量度真率。<persName key="A004215">德宗</persName><date from-iso="+0793-02-19" key="j20107472011101" to-iso="+0794-02-08"><name>貞元</name>九年</date>，發<placeName key="PL000000048272">那爛陀寺</placeName>，擁<lb
 ed="T" n="0721a03"/>錫東來。自言從<placeName key="PL000000055420">北印度</placeName>往<ref target="#PL000000048272" type="place">此寺</ref>出家，受戒、<lb
-ed="T" n="0721a04"/>學法<anchor xml:id="beg0721sgsz1"/>焉<anchor xml:id="end0721sgsz1"/>。<date from-iso="0800-02-03" key="j20132872013640" to-iso="0801-01-21">十六年</date>，至<placeName key="PL000000042218">長安興善寺</placeName>。<date from-iso="0803-01-31" key="j20143802014763" to-iso="0804-02-18">十九年</date>，<anchor xml:id="beg0721sgsz2"/><choice resp="sgsz"><sic>徒</sic><corr>徙</corr></choice><anchor xml:id="end0721sgsz2"/><lb
+ed="T" n="0721a04"/>學法<anchor xml:id="beg0721sgsz1"/>焉<anchor xml:id="end0721sgsz1"/>。<date from-iso="+0800-02-03" key="j20132872013640" to-iso="+0801-01-21">十六年</date>，至<placeName key="PL000000042218">長安興善寺</placeName>。<date from-iso="+0803-01-31" key="j20143802014763" to-iso="+0804-02-18">十九年</date>，<anchor xml:id="beg0721sgsz2"/><choice resp="sgsz"><sic>徒</sic><corr>徙</corr></choice><anchor xml:id="end0721sgsz2"/><lb
 ed="T" n="0721a05"/><placeName key="PL000000042324">崇福</placeName>、<placeName key="PL000000042317">醴泉寺</placeName>。復於<placeName key="PL000000042410">慈恩寺</placeName>請行翻譯事，乃<lb
-ed="T" n="0721a06"/>將<persName key="A000294">奘師</persName>梵本，出《守護國界主陀羅尼經》十卷<ptr target="#n383"/>，<lb
-ed="T" n="0721a07"/>又進《六塵獸圖》<ptr type="glossary" target="#g384"/>。<persName key="A004215">帝</persName>悅，檀施極多。<date key="j20156382015638" when-iso="0806-07-12">元和元年六<lb
+ed="T" n="0721a06"/>將<persName key="A000294">奘<roleName>師</roleName></persName><name>梵</name>本，出《守護國界主陀羅尼經》十卷<ptr target="#n383"/>，<lb
+ed="T" n="0721a07"/>又進「六塵獸圖」<ptr type="glossary" target="#g384"/>。<persName key="A004215">帝</persName>悅，檀施<ptr type="glossary" target="#g237"/>極多。<date key="j20156382015638" when-iso="+0806-07-12"><name>元和</name>元年六<lb
 ed="T" n="0721a08"/>月十九日</date>，卒于<placeName key="PL000000042410">慈恩寺</placeName>。初<persName key="A000391">默</persName>說<placeName key="PL000000048272">中天竺摩伽<lb
 ed="T" n="0721a09"/>陀國那爛陀寺</placeName>周圍四十八里，九寺一門，是<lb
 ed="T" n="0721a10"/>九天王所造。<persName key="A000391">默</persName>在<ref target="#PL000000048272" type="place">寺</ref>日，住者萬餘，以大法<lb
 ed="T" n="0721a11"/>師處量綱任，<placeName key="PL000000055436">西域</placeName>伽藍無如其高廣矣。案<lb
-ed="T" n="0721a12"/>《守護國界主經》是<persName key="A000993">般若</persName>譯，<persName key="A000391">牟尼</persName>證梵本<ptr type="glossary" target="#g52"/>。翰林<lb
-ed="T" n="0721a13"/>待詔<placeName key="PL000000042151">光宅寺</placeName><persName key="A009144">智真</persName>譯語，<persName key="A001417">圓照</persName>筆受<ptr type="glossary" target="#g53"/>，<persName key="A009169">鑒虛</persName>潤文<ptr type="glossary" target="#g70"/>，<lb
-ed="T" n="0721a14"/><persName key="A001755">澄觀</persName>證義<ptr type="glossary" target="#g54"/>焉。</p>
+ed="T" n="0721a12"/>《守護國界主經》是<persName key="A000993">般若</persName>譯，<persName key="A000391">牟尼</persName>證<name>梵</name>本<ptr rend="display:none;" type="glossary" target="#g52"/>。翰林<lb
+ed="T" n="0721a13"/>待詔<placeName key="PL000000042151">光宅寺</placeName><persName key="A009144">智真</persName>譯語，<persName key="A001417">圓照</persName>筆受<ptr rend="display:none;" type="glossary" target="#g53"/>，<persName key="A009169">鑒虛</persName>潤文<ptr rend="display:none;" type="glossary" target="#g70"/>，<lb
+ed="T" n="0721a14"/><persName key="A001755">澄觀</persName>證義<ptr rend="display:none;" type="glossary" target="#g54"/>焉。</p>
     <linkGrp>
         <link targets="#0721a02 #0721a02"/>
         <ptr target="#A000391" type="person"/>

@@ -1,31 +1,31 @@
 <?xml version='1.0' encoding='utf-8'?>
-<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0780a19shiCangYi">
-    <anchor n="T.50.2061.0780a19"/><head><date from-iso="0618-06-21" key="j19469512052491" to-iso="0907-06-06">唐</date>蘇州<persName key="A010564">藏廙</persName>傳</head><p><lb
+<div xmlns="http://www.tei-c.org/ns/1.0" type="習禪" xml:id="gsz0780a19shiCangYi">
+    <anchor n="T.50.2061.0780a19"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date>蘇州<persName key="A010564">藏廙</persName>傳</head><p><lb
 ed="T" n="0780a20"/><persName key="A010564">釋藏廙</persName>，俗姓程，<placeName key="PL000000013660">衢州信安</placeName>人也。幼歲神氣朗<lb
-ed="T" n="0780a21"/>暢，貌質魁然。<date from-iso="0806" key="j20154742020606" to-iso="0820">元和中</date>告親求出家，志不可<lb
+ed="T" n="0780a21"/>暢，貌質魁然。<date notBefore-iso="+0806-01-29" key="j20154742020606" notAfter-iso="+0820-02-17"><name>元和</name>中</date>告親求出家，志不可<lb
 ed="T" n="0780a22"/>却，直造<placeName key="PL000000028664">長沙</placeName>嶽麓，投<persName key="A010565">靈智律師</persName>請事剃<lb
 ed="T" n="0780a23"/>染。<persName key="A010565">智師</persName>察其強願不群，乃攝度之。既披法<lb
 ed="T" n="0780a24"/>服，尋於武陵<placeName key="PL000000029396">開元寺</placeName><persName key="A010566">智總律師</persName>受具足尸<lb
-ed="T" n="0780a25"/>羅，當<date from-iso="0823-02-19" key="j20217042022057" to-iso="0824-02-07">長慶三年</date>也。因聽律範，旋窮篇聚，<lb
+ed="T" n="0780a25"/>羅，當<date from-iso="+0823-02-19" key="j20217042022057" to-iso="+0824-02-07">長慶三年</date>也。因聽律範，旋窮篇聚，<lb
 ed="T" n="0780a26"/>語同業曰：「教門繁廣，然有總門。總門之急，<lb
 ed="T" n="0780a27"/>勿過捨筏。」遂遍參禪宗，遇<persName key="A010251">馬素</persName>門下高足<lb
 ed="T" n="0780a28"/>住龍牙山<!--找不到此地-->，知<persName key="A010564">廙</persName>法器，異日告之曰：「蘊界不<lb
 ed="T" n="0780a29"/>真，佛生非我。子之正本，當何所名？復從誰<pb ed="T" n="0780b" xml:id="T50.2061.0780b"/><lb
 ed="T" n="0780b01"/>得？」<persName key="A010564">廙</persName>一言領會，千轍同歸。<persName key="A019282">龍牙</persName>曰：「我法眼<lb
 ed="T" n="0780b02"/>不蒙掩矣。」既遂所求，大得安靜，却迴<placeName key="PL000000013285">柯山</placeName>，<lb
-ed="T" n="0780b03"/>蓋避<date from-iso="0841" key="j20282682030170" to-iso="0846">會昌</date>之搜揚也。至<date from-iso="0852-01-29" key="j20322752032658" to-iso="0853-02-15">大中六年</date>，郡收<persName key="A010567">崔<lb
+ed="T" n="0780b03"/>蓋避<date from-iso="+0841-02-08" key="j20282682030170" to-iso="+0846-04-25">會昌</date>之搜<anchor xml:id="beg0780sgsz2"/>揚<anchor xml:id="end0780sgsz2"/>也。至<date from-iso="+0852-01-29" key="j20322752032658" to-iso="+0853-02-15"><name>大中</name>六年</date>，郡<anchor xml:id="beg0780sgsz3"/><choice resp="sgsz"><sic>收</sic><corr>牧</corr></choice><anchor xml:id="end0780sgsz3"/><persName key="A010567">崔<lb
 ed="T" n="0780b04"/>公壽</persName>重之，於州龍興寺<!--找不到此地-->別構禪室，延居之。<lb
 ed="T" n="0780b05"/>數年，北至<placeName key="PL000000012751">嘉禾</placeName>，信士歸依，請留住<placeName key="PL000000012723">至德伽藍</placeName>。<lb
 ed="T" n="0780b06"/>又往<placeName key="PL000000009928">姑蘇</placeName>，時<persName key="A010571">崔公鈞</persName>作守此郡，聞<persName key="A010564">廙</persName>名久，<lb
-ed="T" n="0780b07"/>請居<placeName key="PL000000009899">南禪院</placeName>。<date from-iso="0867-02-13" key="j20377692038122" to-iso="0868-02-01">咸通八年</date>，浙西廉使<persName key="A010572">周公寶</persName>命<lb
-ed="T" n="0780b08"/>住<placeName key="PL000000011010">招隱寺</placeName>。<date from-iso="0867-02-13" key="j20377692038122" to-iso="0868-02-01">其年</date>秋，却返<placeName key="PL000000012751">嘉禾</placeName>，信士<persName key="A010574">呂京</persName>捨<lb
-ed="T" n="0780b09"/>別墅造今<placeName key="PL000000012724">永安院</placeName>。時<date from-iso="0874" key="j20406372042521" to-iso="0880">乾符中</date>，群寇紛紜，禪侶<lb
+ed="T" n="0780b07"/>請居<placeName key="PL000000009899">南禪院</placeName>。<date from-iso="+0867-02-13" key="j20377692038122" to-iso="+0868-02-01">咸通八年</date>，浙西廉使<persName key="A010572">周公寶</persName>命<lb
+ed="T" n="0780b08"/>住<placeName key="PL000000011010">招隱寺</placeName>。<date from-iso="+0867-02-13" key="j20377692038122" to-iso="+0868-02-01">其年</date>秋，却返<placeName key="PL000000012751">嘉禾</placeName>，信士<persName key="A010574">呂京</persName>捨<lb
+ed="T" n="0780b09"/>別墅造今<placeName key="PL000000012724">永安院</placeName>。時<date notBefore-iso="+0874-12-21" key="j20406372042521" notAfter-iso="+0880-02-17">乾符中</date>，群寇紛紜，禪侶<lb
 ed="T" n="0780b10"/>分散。<persName key="A010564">廙</persName>曰：「盜終不至此。」及期，寇從別道<lb
-ed="T" n="0780b11"/>行，果無所損，其先見如此。<date key="j20420612042061" when-iso="0878-11-14">五年十月十二<lb
+ed="T" n="0780b11"/>行，果無所損，其先見如此。<date key="j20420612042061" when-iso="+0878-11-14">五年十月十二<lb
 ed="T" n="0780b12"/>日</date>，滿院陰雲，雉鳴烏噪，安坐而化，弟子號哭，<lb
-ed="T" n="0780b13"/>却穌，至<date from-iso="0879-03-31" key="j20421982042226" to-iso="0879-04-28">六年三月</date>中辰前別眾後終，享年八<lb
+ed="T" n="0780b13"/>却<anchor xml:id="beg0780sgsz4"/>穌<anchor xml:id="end0780sgsz4"/>，至<date from-iso="+0879-03-31" key="j20421982042226" to-iso="+0879-04-28">六年三月</date>中辰前別眾後終，享年八<lb
 ed="T" n="0780b14"/>十二，僧臘五十六。時<persName key="A010573">澹交</persName>為<persName key="A010564">廙</persName>作真讚。至<lb
-ed="T" n="0780b15"/><date from-iso="0894" key="j20476322049310" to-iso="0898">乾寧</date>中，僧<persName key="A010570">神贊</persName>進狀，乞追<app type="cb-app" xml:id="begd1e19524"/>諡<anchor xml:id="endd1e19524"/>號塔名。名士<persName key="A010568">吳<lb
+ed="T" n="0780b15"/><date notBefore-iso="+0894-02-14" key="j20476322049310" notAfter-iso="+0898-09-19">乾寧</date>中，僧<persName key="A010570">神贊</persName>進狀，乞追諡號塔名。名士<persName key="A010568">吳<lb
 ed="T" n="0780b16"/>重裕</persName>書碑。</p>
     <linkGrp>
         <link targets="#0780a21 #0780a24"/>

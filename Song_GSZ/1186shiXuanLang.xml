@@ -1,17 +1,17 @@
 <?xml version='1.0' encoding='utf-8'?>
-<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0875b26shiXuanLang">
-    <anchor n="T.50.2061.0875b26"/><head><date from-iso="0618-06-21" key="j19469512052491" to-iso="0907-06-06">唐</date>東陽清泰寺<persName key="A009605">玄朗</persName>傳</head><p><lb
+<div xmlns="http://www.tei-c.org/ns/1.0" type="興福" xml:id="gsz0875b26shiXuanLang"><lb
+ed="T" n="0875b26"/><anchor n="T.50.2061.0875b26"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date>東陽清泰寺<persName key="A009605">玄朗</persName>傳</head><p><lb
 ed="T" n="0875b27"/><persName key="A009605">釋玄朗</persName>，字<persName key="A009605">慧明</persName>，姓傅氏。其先浦陽郡江夏太<lb
-ed="T" n="0875b28"/>守<persName key="A013673">拯公</persName>之後。<date from-iso="0220" key="j18017571823449" to-iso="0280">曹魏世</date>，避地于<placeName key="PL000000000197">江左</placeName>，則梁大士<lb
+ed="T" n="0875b28"/>守<persName key="A013673">拯公</persName>之後。<date from-iso="+0220-12-10" key="j18017571823449" to-iso="+0280-05-01">曹魏世</date>，避地于<placeName key="PL000000000197">江左</placeName>，則梁大士<lb
 ed="T" n="0875b29"/><persName key="A006833">翕</persName>之六代孫，遂為<placeName key="PL000000013596">烏傷</placeName>人也。母<persName key="A019479">葛<roleName>氏</roleName></persName>初妊，夢<pb ed="T" n="0875c" xml:id="T50.2061.0875c"/><lb
-ed="T" n="0875c01"/>乘羊車飛空躡虛而覺身重。自茲已後，葷<lb
+ed="T" n="0875c01"/><anchor xml:id="beg0875sgsz9"/>乘<anchor xml:id="end0875sgsz9"/>羊車飛空躡虛而覺身重。自茲已後，葷<lb
 ed="T" n="0875c02"/>血惡聞。殆乎產蓐，亦如初寐，覺後心輕體<lb
-ed="T" n="0875c03"/>安。嬰兒不啼，<anchor xml:id="beg0875004"/>唍<anchor xml:id="end0875004"/>爾而笑。<date key="j19697911970155" from-iso="0681-01-01" to-iso="0681-12-31">九歲</date>出家，師授其<lb
-ed="T" n="0875c04"/>經，日過七紙。<date key="j19740001974000" when-iso="0692-07-11">如意元年閏五月十九日</date>，勅度<lb
-ed="T" n="0875c05"/>配<placeName key="PL000000013606">清泰寺</placeName>。<date key="j19738081974173" from-iso="0692-01-01" to-iso="0692-12-31">弱冠</date>，遠尋<placeName key="PL000000025908">光州</placeName><persName key="A008876">岸律師</persName>，受滿足<lb
-ed="T" n="0875c06"/>戒。旋學律範。又博覽經論，搜求異同，尤切<lb
-ed="T" n="0875c07"/>涅<anchor xml:id="beg0875005"/>槃<anchor xml:id="end0875005"/>。常恨古人雖有章疏，判斷未為平<lb
-ed="T" n="0875c08"/>允。往在會稽<placeName key="PL000000013294">妙喜寺</placeName>與<persName key="A009251">印宗禪師</persName>商<anchor xml:id="beg0875006"/>確<anchor xml:id="end0875006"/>祕<lb
+ed="T" n="0875c03"/>安。嬰兒不啼，<anchor xml:id="beg0875004"/>唍<anchor xml:id="end0875004"/>爾而笑。<date key="j19697911970155" from-iso="+0681-01-01" to-iso="+0681-12-31">九歲</date>出家，師授其<lb
+ed="T" n="0875c04"/>經，日過七紙。<date key="j19740001974000" when-iso="+0692-07-11">如意元年閏五月十九日</date>，勅度<lb
+ed="T" n="0875c05"/>配<placeName key="PL000000013606">清泰寺</placeName>。<date key="j19738081974173" from-iso="+0692-01-01" to-iso="+0692-12-31">弱冠</date>，遠尋<placeName key="PL000000025908">光州</placeName><persName key="A008876">岸律師</persName>，受滿足<lb
+ed="T" n="0875c06"/>戒。旋學律範。又博覽經論，搜求異同，<anchor xml:id="beg0875sgsz11"/>尤<anchor xml:id="end0875sgsz11"/>切<lb
+ed="T" n="0875c07"/>涅<anchor xml:id="beg0875005"/>槃<anchor xml:id="end0875005"/>。<anchor xml:id="beg0875sgsz13"/>常<anchor xml:id="end0875sgsz13"/>恨古人雖有章疏，判斷未為平<lb
+ed="T" n="0875c08"/>允。往在會稽<placeName key="PL000000013294">妙喜寺</placeName>與<persName key="A009251">印宗禪師</persName>商<anchor xml:id="beg0875006"/><choice resp="sgsz"><sic>確</sic><corr>搉</corr></choice><anchor xml:id="end0875006"/>祕<lb
 ed="T" n="0875c09"/>要，雖互相述許，大旨未周。聞天台一宗可<lb
 ed="T" n="0875c10"/>以清眾滯，可以趣一理，因詣東陽<placeName key="PL000000014766">天宮寺</placeName><lb
 ed="T" n="0875c11"/><persName key="A009596">慧威法師</persName>。<persName key="A009596">威</persName>稟承<placeName key="PL000000014935">括州</placeName><persName key="A001263">智威</persName>，時傳<persName key="A001263">威</persName>是<persName key="A004803">徐陵</persName><lb
@@ -22,38 +22,38 @@ ed="T" n="0875c15"/>達儒書，兼閑道宗，無不該覽。雖通諸見，<lb
 ed="T" n="0875c16"/>獨以止觀以為入道之程，作安心之域。雖<lb
 ed="T" n="0875c17"/>眾聖繼想，而以觀音悲智為事行良津，遊<lb
 ed="T" n="0875c18"/>心十乘，諦冥三觀，四悉利物，六即體<anchor xml:id="beg0875007"/>徧<anchor xml:id="end0875007"/>。雖<lb
-ed="T" n="0875c19"/>致心物表，身厭人寰，情捐舊廬，志栖林<lb
+ed="T" n="0875c19"/>致心物表，身厭人寰，<anchor xml:id="beg0875sgsz15"/>情<anchor xml:id="end0875sgsz15"/>捐舊廬，志栖林<lb
 ed="T" n="0875c20"/>壑。唯十八種十二頭陀，隱<placeName key="PL000000013555">左溪巖</placeName>，因以為<lb
 ed="T" n="0875c21"/>號。獨坐一室，三十餘秋，麻紵為衣，糲蔬充<lb
 ed="T" n="0875c22"/>食，有願生<placeName key="PL000000055446">兜率宮</placeName>，必資福事。乃構殿壁，<lb
 ed="T" n="0875c23"/>繢觀音、賓頭盧像。乃焚香斂念，便感五色<lb
-ed="T" n="0875c24"/>神光，道俗俱瞻，歎未曾有。此後或猿玃來而<lb
+ed="T" n="0875c24"/>神光，道俗俱瞻，<anchor xml:id="beg0875sgsz17"/>歎<anchor xml:id="end0875sgsz17"/>未曾有。此後或猿玃來而<lb
 ed="T" n="0875c25"/>捧鉢，或飛鳥息以聽經。時有盲狗來至山<lb
 ed="T" n="0875c26"/>門，長嘷宛轉于地，<persName key="A009605">朗</persName>憫之，焚香精誠，為狗<lb
-ed="T" n="0875c27"/>懺悔，不踰旬日，雙目豁明。至<date from-iso="0728-02-19" key="j19870051987358" to-iso="0729-02-06">開元十六年</date>，<lb
+ed="T" n="0875c27"/>懺悔，不踰旬日，雙目豁明。至<date from-iso="+0728-02-19" key="j19870051987358" to-iso="+0729-02-06">開元十六年</date>，<lb
 ed="T" n="0875c28"/>刺史<persName key="A019480">王上客</persName>屈<persName key="A009605">朗</persName>出山，暫居城下。<persName key="A009605">朗</persName>辭疾，<lb
 ed="T" n="0875c29"/>仍歸本居。厥後誨人匪倦，講不待眾。一欝<pb ed="T" n="0876a" xml:id="T50.2061.0876a"/><lb
 ed="T" n="0876a01"/>多羅四十餘年，一尼師壇終身不易。食無<lb
-ed="T" n="0876a02"/>重味，居必偏廈。非因尋經典，不然一燭。<lb
+ed="T" n="0876a02"/>重味，居必偏廈。非因尋經典，不<anchor xml:id="beg0876sgsz1"/>然<anchor xml:id="end0876sgsz1"/>一燭。<lb
 ed="T" n="0876a03"/>非因覲聖容，不行一步。其細行修心，蓋徇<lb
 ed="T" n="0876a04"/>律法之制，遂得遠域沙門、隣境耆耋擁室填<lb
 ed="T" n="0876a05"/>門，若冬陽夏陰，弗召而自至也。其寺宇凋<lb
 ed="T" n="0876a06"/>弊，乃指授僧靈稟建。其殿宇形像，累二甎<lb
 ed="T" n="0876a07"/>塔。繢事不用牛膠，悉調香汁。天台之教鼎<lb
 ed="T" n="0876a08"/>盛，何莫由斯也？一日，顧謂門人曰：「<persName key="A009605">吾</persName>眾事<lb
-ed="T" n="0876a09"/>云畢，年旦暮焉。」以<date key="j19967381996738" when-iso="0754-10-13">天寶十三年九月十九日</date><lb
+ed="T" n="0876a09"/>云畢，年旦暮焉。」以<date key="j19967381996738" when-iso="+0754-10-13"><name>天寶</name>十三年九月十九日</date><lb
 ed="T" n="0876a10"/>薄疾而終，春秋八十有二，僧夏六十一。置塔<lb
 ed="T" n="0876a11"/>於巖所，生常撰法華經科文二卷。付法弟子<lb
 ed="T" n="0876a12"/>衢州<placeName key="PL000000013647">龍丘寺</placeName><persName key="A013675">道賓</persName>、<placeName key="PL000000013648">淨安寺</placeName><persName key="A011054">慧從</persName>、<placeName key="PL000000013292">越州法華寺</placeName><lb
 ed="T" n="0876a13"/><persName key="A013676">法源</persName>、<persName key="A009615">神邕</persName>、常州<placeName key="PL000000009715">福業寺</placeName><persName key="A013677">守真</persName>、蘇州<placeName key="PL000000009882">報恩寺</placeName><persName key="A013678">道<lb
 ed="T" n="0876a14"/>遵</persName>、明州<placeName key="PL000000012466">大寶寺</placeName><persName key="A013679">道原</persName>、婺州<placeName key="PL000000013504">開元寺</placeName><persName key="A013680">清辯</persName>。齠年<lb
-ed="T" n="0876a15"/>慕道，志意求師，不踰三年，思過半矣。行其<lb
+ed="T" n="0876a15"/><anchor xml:id="beg0876sgsz3"/>慕<anchor xml:id="end0876sgsz3"/>道，志意求師，不踰三年，思過半矣。行其<lb
 ed="T" n="0876a16"/>道者，號<persName key="A009605">左溪</persName>焉。第其傳法，號<persName key="A009605">五祖</persName>矣。禹<lb
 ed="T" n="0876a17"/>山沙門<persName key="A010999">神逈</persName>著乎真讚矣。</p>
     <p><lb
 ed="T" n="0876a18"/>系曰：觀其唐世已上，求戒者得自選名德<lb
 ed="T" n="0876a19"/>為師。近代官度，以引次排之，立司存主<lb
-ed="T" n="0876a20"/>之，不由己也。<persName key="A009605">朗</persName>之求戒，不其是乎？如是<lb
+ed="T" n="0876a20"/>之，不由<anchor xml:id="beg0876sgsz5"/>己<anchor xml:id="end0876sgsz5"/>也。<persName key="A009605">朗</persName>之求戒，不其是乎？如是<lb
 ed="T" n="0876a21"/>師資相練，恩義所生。脫臨事請為，則喻同<lb
 ed="T" n="0876a22"/>野馬也。</p>
     <linkGrp>

@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
-<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0775c06shiCongShen">
-    <anchor n="T.50.2061.0775c06"/><head><date from-iso="0618-06-21" key="j19469512052491" to-iso="0907-06-06">唐</date><placeName key="PL000000001032">趙州東院</placeName><persName key="A004475">從諗</persName>傳</head><p><lb
+<div xmlns="http://www.tei-c.org/ns/1.0" type="習禪" xml:id="gsz0775c06shiCongShen">
+    <anchor n="T.50.2061.0775c06"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date><placeName key="PL000000001032">趙州東院</placeName><persName key="A004475">從諗</persName>傳</head><p><lb
 ed="T" n="0775c07"/><persName key="A004475">釋從諗</persName>，<placeName key="PL000000020642">青州臨淄</placeName>人也。童稚之歲，孤介弗群，<lb
 ed="T" n="0775c08"/>越二親之覊絆，超然離俗。乃投本州<placeName key="PL000000021092">龍興<lb
 ed="T" n="0775c09"/>伽藍</placeName>，從師剪落。尋往<placeName key="PL000000023266">嵩山琉璃壇</placeName>納戒，<ref type="person" target="#A004475">師</ref><lb
@@ -11,7 +11,7 @@ ed="T" n="0775c13"/>郡</placeName>開物化迷，大行禪道。以<placeName k
 ed="T" n="0775c14"/>兵，封疆多梗，朝廷患之。<persName key="A010731">王<roleName>氏</roleName></persName>抗拒過制，而<lb
 ed="T" n="0775c15"/>偏歸心於<persName key="A004475">諗</persName>。<persName key="A004475">諗</persName>嘗寄塵拂上<persName key="A010731">王<roleName>氏</roleName></persName>曰：「<persName key="A010731">王</persName>若<lb
 ed="T" n="0775c16"/>問何處得此拂子？答道<ref type="person" target="#A004475">老僧</ref>平生用不盡者<lb
-ed="T" n="0775c17"/>物。」凡所舉揚，天下傳之，號<placeName key="PL000000001058">趙州</placeName>去道。《語錄》<lb
+ed="T" n="0775c17"/>物。」凡所舉揚，天下傳之，號<placeName key="PL000000001058">趙州</placeName><anchor xml:id="beg0775sgsz15"/><choice resp="sgsz"><sic>去</sic><corr>法</corr></choice><anchor xml:id="end0775sgsz15"/>道。語錄<lb
 ed="T" n="0775c18"/>大行，為世所貴也。</p>
     <linkGrp>
         <link targets="#0775c07 #0775c07"/>

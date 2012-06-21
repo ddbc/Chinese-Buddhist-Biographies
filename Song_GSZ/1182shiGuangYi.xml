@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
-<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0873a15shiGuangYi">
-    <anchor n="T.50.2061.0873a15"/><head><date from-iso="0618-06-21" key="j19469512052491" to-iso="0907-06-06">唐</date>上都青龍寺<persName key="A013639">光儀</persName>傳</head><p><lb
+<div xmlns="http://www.tei-c.org/ns/1.0" type="興福" xml:id="gsz0873a15shiGuangYi"><lb
+ed="T" n="0873a15"/><anchor n="T.50.2061.0873a15"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date>上都青龍寺<persName key="A013639">光儀</persName>傳</head><p><lb
 ed="T" n="0873a16"/><persName key="A013639">釋光儀</persName>，姓李氏，本唐宗室也。父<ref type="person" target="#A019475">瑯瑘王</ref>與<ref type="person" target="#A019476">越<lb
 ed="T" n="0873a17"/>王</ref>起兵欲復本朝，中興帝道，不克，<persName key="A002099">天后</persName><lb
 ed="T" n="0873a18"/>族誅之，而無噍類。<persName key="A013639">儀</persName>方在襁褓中，乳母負<lb
@@ -20,7 +20,7 @@ ed="T" n="0873b02"/>錢，乃解衣而內其錢。日暮尋逕而去，擬投<lb
 ed="T" n="0873b03"/>村墅。遇一老僧，呼曰：「<persName key="A013639">爾小子</persName>，<persName key="A013639">汝</persName>今一身，家<lb
 ed="T" n="0873b04"/>已破滅，將奚所適？」<persName key="A013639">儀</persName>驚愕佇立，老僧又曰：<lb
 ed="T" n="0873b05"/>「出家閑曠，且無憂畏，<persName key="A013639">小子</persName>欲之乎？」<persName key="A013639">儀</persName>曰：「素<lb
-ed="T" n="0873b06"/>所願也。」老僧因携<persName key="A013639">其</persName>手至大樹陰，令禮十<lb
+ed="T" n="0873b06"/>所願也。」老僧因携<persName key="A013639">其</persName>手至大樹陰，令<anchor xml:id="beg0873sgsz5"/>禮<anchor xml:id="end0873sgsz5"/>十<lb
 ed="T" n="0873b07"/>方佛，歸依常住佛法僧已，因削其䰂。又出<lb
 ed="T" n="0873b08"/>袈裟以披服之，小大稱其體。其執持收掩，<lb
 ed="T" n="0873b09"/>猶如幾夏比丘。老僧喜曰：「此習性使然，善<lb
@@ -28,7 +28,7 @@ ed="T" n="0873b10"/>持僧行。」遂指東北曰：「去此數里有<placeNam
 ed="T" n="0873b11"/>直詣彼，謁寺主云，我使<persName key="A013639">汝</persName>為其弟子也。」言<lb
 ed="T" n="0873b12"/>畢，老僧欻然亡矣，方知聖僧也。<persName key="A013639">儀</persName>如言<anchor xml:id="beg0873001"/>趨<anchor xml:id="end0873001"/><lb
 ed="T" n="0873b13"/>彼，寺主駭其言，因留之。經十年許，<persName key="A013639">儀</persName>已洞<lb
-ed="T" n="0873b14"/>明經律，善其禪觀。而<date key="j19708851973306" notAfter-iso="0690" notBefore-iso="0683">屬中宗即位</date>，唐室復<lb
+ed="T" n="0873b14"/>明經律，善其禪觀。而<date key="j19708851973306" notAfter-iso="+0690-08-17" notBefore-iso="+0683-12-31">屬中宗即位</date>，唐室復<lb
 ed="T" n="0873b15"/>興，勅求<ref type="person" target="#A019475">瑯瑘王</ref>後，<persName key="A013639">儀</persName>方向寺僧言之。時眾<lb
 ed="T" n="0873b16"/>大駭，因出詣<placeName key="PL000000042848">扶風</placeName><persName key="A013640">李使君</persName>，即<persName key="A013639">儀</persName>之諸父也。見<lb
 ed="T" n="0873b17"/><persName key="A013639">之</persName>悲喜，乃舍之於家，方以狀聞，固請不可。<lb
@@ -39,7 +39,7 @@ ed="T" n="0873b21"/>終不屑就，紿之曰：「身不潔，請沐浴待命。
 ed="T" n="0873b22"/>許諾，方令具湯沐，女出，因閉關。女還排戶，<lb
 ed="T" n="0873b23"/>既不得入，自牖窺之，方持削髮刀，顧而<lb
 ed="T" n="0873b24"/>言曰：「有于此根，故為慾逼，今若除此，何逼<lb
-ed="T" n="0873b25"/>之為？」女懼止之，不可，遂斷其勢<note resp="sgsz">「勢」指雄性生殖器官。《晉書．卷三十》：「盜淫者割其勢。」</note>，投之于<lb
+ed="T" n="0873b25"/>之為？」女懼止之，不可，遂斷其勢<ptr target="#n2040"/>，投之于<lb
 ed="T" n="0873b26"/>地。<persName key="A013639">儀</persName>亦悶絕，戶既不開。俄而<persName key="A013640">使君</persName>、夫人俱<lb
 ed="T" n="0873b27"/>到，女實情具告，遂破戶視之，漸蘇。命醫工<lb
 ed="T" n="0873b28"/>舁歸蠶室，以火燒地，苦酒沃之，坐之于上，<lb
@@ -51,7 +51,7 @@ ed="T" n="0873c04"/><placeName key="PL000000042627">終南山</placeName>，因�
 ed="T" n="0873c05"/>若，凡數十處，率由道聲馳遠，談說動人。或<lb
 ed="T" n="0873c06"/>山行十里間，緇素侍者常數千百人，迎候瞻<lb
 ed="T" n="0873c07"/>待，甚於權要卿相焉。<persName key="A013639">儀</persName>恒居寂定，或言將<lb
-ed="T" n="0873c08"/>來事，以決吉凶，必無差忒，人益歸之。<date key="j19897141989714" when-iso="0735-07-21">開元<lb
+ed="T" n="0873c08"/>來事，以決吉凶，必無差忒，人益歸之。<date key="j19897141989714" when-iso="+0735-07-21">開元<lb
 ed="T" n="0873c09"/>二十三年六月二十三日</date>，先囑累弟子：「當謹<lb
 ed="T" n="0873c10"/>護身口，勿事諠譁。祖師意無別事，靜則真<lb
 ed="T" n="0873c11"/>法現前。此外提唱，皆不獲已。」言極激切。因<lb

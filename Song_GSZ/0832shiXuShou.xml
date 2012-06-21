@@ -1,17 +1,17 @@
 <?xml version='1.0' encoding='utf-8'?>
-<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0747b09shiXuShou"><lb
-ed="T" n="0747b09"/><anchor n="T.50.2061.0747b09"/><head><date from-iso="0923-05-18" key="j20583162063308" to-iso="0937-01-16">後唐</date><placeName key="PL000000013226">會稽郡大善寺</placeName><persName key="A009895">虛受</persName>傳</head><p><lb
+<div xmlns="http://www.tei-c.org/ns/1.0" type="義解" xml:id="gsz0747b09shiXuShou"><lb
+ed="T" n="0747b09"/><anchor n="T.50.2061.0747b09"/><head><date from-iso="+0923-05-18" key="j20583162063308" to-iso="+0937-01-16">後唐</date><placeName key="PL000000013226">會稽郡大善寺</placeName><persName key="A009895">虛受</persName>傳</head><p><lb
 ed="T" n="0747b10"/><persName key="A009895">釋虛受</persName>，<placeName key="PL000000012686">嘉禾禦兒</placeName>人也。納戒後，於<placeName key="PL000000042189">上都</placeName>習<lb
 ed="T" n="0747b11"/>學，內外<ptr type="glossary" target="#g32"/>博通，傳講數本大經論，不憚宣導。<lb
-ed="T" n="0747b12"/><date from-iso="0860" key="j20355242040636" to-iso="0874">咸通</date>中，累應奉聖節<ptr target="#n1028"/>充左街鑑義，輩流孰<lb
-ed="T" n="0747b13"/>不弭伏。及<date from-iso="0880" key="j20425222043063" to-iso="0881">廣明</date>中，<ref type="place" target="#PL000000042189">京闕</ref>盜據<ptr target="#n1070"/>，逃難邐迤。抵<lb
-ed="T" n="0747b14"/><placeName key="PL000000013226">越大善寺</placeName>，同好者命講《涅槃》、《維摩》二經，即<date from-iso="0904" key="j20513922052494" to-iso="0907">天<lb
-ed="T" n="0747b15"/>祐年</date>中也。因憤<persName key="A009896">謙</persName>、<persName key="A000789">雅</persName>等師釋<placeName key="PL000000042324">崇福</placeName>疏，繁略不<lb
+ed="T" n="0747b12"/><date notBefore-iso="+0860-12-21" key="j20355242040636" notAfter-iso="+0874-12-20">咸通中</date>，累應奉聖節<ptr target="#n1028"/>充左街鑑義，輩流孰<lb
+ed="T" n="0747b13"/>不弭伏。及<date notBefore-iso="+0880-02-18" key="j20425222043063" notAfter-iso="+0881-08-12">廣明中</date>，<ref type="place" target="#PL000000042189">京闕</ref>盜據<ptr target="#n1070"/>，逃難邐迤。抵<lb
+ed="T" n="0747b14"/><placeName key="PL000000013226">越大善寺</placeName>，同好者命講《涅槃》、《維摩》二經，即<date notBefore-iso="+0904-06-02" key="j20513922052494" notAfter-iso="+0907-06-09">天<lb
+ed="T" n="0747b15"/>祐年中</date>也。因憤<persName key="A009896">謙</persName>、<persName key="A000789">雅</persName>等師釋<placeName key="PL000000042324">崇福</placeName>疏，繁略不<lb
 ed="T" n="0747b16"/>中，其猶以水濟水，終無必濟焉，遂撰《義評<lb
-ed="T" n="0747b17"/>鈔》十四卷。<date from-iso="0923" key="j20583162059413" to-iso="0926">同光</date>中方畢軸。又因講《俱舍論<lb
+ed="T" n="0747b17"/>鈔》十四卷。<date notBefore-iso="+0923-05-18" key="j20583162059413" notAfter-iso="+0926-05-19">同光中</date>方畢軸。又因講《俱舍論<lb
 ed="T" n="0747b18"/>疏》<ptr target="#n1071"/>，有<persName key="A009364">賈曾<roleName>侍郎</roleName></persName>序，次僧<persName key="A001416">圓暉</persName>序，皆著鈔解<lb
 ed="T" n="0747b19"/>之，其文富贍，昔甞染指知焉<ptr target="#n1073"/>。受於《涅槃》，辯<lb
-    ed="T" n="0747b20"/>而非略，仍多<anchor xml:id="beg0747sgsz2"/>駁<anchor xml:id="end0747sgsz2"/>議<ptr type="glossary" target="#g1072"/><ref type="person" target="#A002000">小遠</ref>之疏<ptr target="#n965"/>，免為青蠅<ptr type="glossary" target="#g1074"/>之<lb
+ed="T" n="0747b20"/>而非略，仍多<anchor xml:id="beg0747sgsz5"/>駁<anchor xml:id="end0747sgsz5"/>議<ptr type="glossary" target="#g1072"/><ref type="person" target="#A002000">小遠</ref>之疏<ptr target="#n965"/>，免為青蠅<ptr type="glossary" target="#g1074"/>之<lb
 ed="T" n="0747b21"/>玷。餘則《法華》、《百法》、《唯識》，各有別行義章。<persName key="A009895">受</persName>性<lb
 ed="T" n="0747b22"/>且狷急，與人不同，畜弟子無一可中，甞自<lb
 ed="T" n="0747b23"/>執爨饌齋食，柴生火滅，復吹又熸，怒發，汲<lb
@@ -19,13 +19,13 @@ ed="T" n="0747b24"/>水沃之，終日不食而講焉。及晚年眼昏甚，<lb
 ed="T" n="0747b25"/>登師子座，戴竹笠而講，貴<anchor xml:id="beg0747002"/>目<anchor xml:id="end0747002"/>不閃爍爾。<lb
 ed="T" n="0747b26"/>或譏其慢眾，<persName key="A009895">受</persName>亦不介意。屬<persName key="A003552"><roleName>武肅王</roleName>錢<roleName>氏</roleName></persName><lb
 ed="T" n="0747b27"/>按部<ptr type="glossary" target="#g1075"/>至<placeName key="PL000000013265">越</placeName>，遂出謁見，<ref type="person" target="#A003552">王</ref>素嚮風，乃加優禮，<lb
-ed="T" n="0747b28"/>言勞再三。暨<date from-iso="0911" key="j20539512054590" to-iso="0913">乾化中</date>，於<placeName key="PL000000013226">會稽開元寺</placeName>度戒，<lb
+ed="T" n="0747b28"/>言勞再三。暨<date notBefore-iso="+0911-06-05" key="j20539512054590" notAfter-iso="+0913-03-05">乾化中</date>，於<placeName key="PL000000013226">會稽開元寺</placeName>度戒，<lb
 ed="T" n="0747b29"/>命之充監壇選練，<placeName key="PL000000009925">吳</placeName>、<placeName key="PL000000013265">會</placeName>間行此職者，自<persName key="A009895">受</persName><pb ed="T" n="0747c" xml:id="T50.2061.0747c"/><lb
 ed="T" n="0747c01"/>始也。<ref type="person" target="#A003552">王</ref>表于朝廷，薦其紫衣。<persName key="A006575">莊宗</persName>制賜，行<lb
 ed="T" n="0747c02"/>人齎至<placeName key="PL000000021080">營丘</placeName>。時<persName key="A009895">受</persName>講當《上生經疏序》，至「若<lb
-    ed="T" n="0747c03"/>洪鐘而虛受」。<persName key="A009895">受</persName>捨<anchor xml:id="beg0747sgsz3"/>麈<anchor xml:id="end0747sgsz3"/>柄言曰：「<ref type="person" target="#A009895">某</ref>得名無典<lb
+ed="T" n="0747c03"/>洪鐘而虛受」。<persName key="A009895">受</persName>捨<anchor xml:id="beg0747sgsz7"/>麈<anchor xml:id="end0747sgsz7"/>柄言曰：「<ref type="person" target="#A009895">某</ref>得名無典<lb
 ed="T" n="0747c04"/>實，今後更為<persName key="A009895">虛受</persName>，小子識之。」及狀聞<ref type="person" target="#A003552">王</ref>，<ref type="person" target="#A003552">王</ref><lb
-ed="T" n="0747c05"/>曰：「<ref type="person" target="#A009895">此僧</ref>必無恩命分，何名<persName key="A009895">虛受</persName>乎？」至<date from-iso="0925-02-01" key="j20589412059324" to-iso="0926-02-19">同光<lb
+ed="T" n="0747c05"/>曰：「<ref type="person" target="#A009895">此僧</ref>必無恩命分，何名<persName key="A009895">虛受</persName>乎？」至<date from-iso="+0925-02-01" key="j20589412059324" to-iso="+0926-02-19">同光<lb
 ed="T" n="0747c06"/>乙酉歲</date>，<persName key="A009895">受</persName>終，迨海艦齎誥牒來，稽其終日，<lb
 ed="T" n="0747c07"/>正到<placeName key="PL000000021110">青社</placeName>，果符<persName key="A003552">武肅</persName>之言。有《文集》數卷、《述<lb
 ed="T" n="0747c08"/>義章》三十餘卷，行之于代。</p>

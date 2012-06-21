@@ -1,17 +1,17 @@
 <?xml version='1.0' encoding='utf-8'?>
-<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0838c03shiYuanZhen">
-    <anchor n="T.50.2061.0838c03"/><head><date from-iso="0618-06-21" key="j19469512052491" to-iso="0907-06-06">唐</date>鄧州烏牙山<persName key="A012516">圓震</persName>傳</head><p><lb
+<div xmlns="http://www.tei-c.org/ns/1.0" type="感通" xml:id="gsz0838c03shiYuanZhen"><lb
+ed="T" n="0838c03"/><anchor n="T.50.2061.0838c03"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date>鄧州烏牙山<persName key="A012516">圓震</persName>傳</head><p><lb
 ed="T" n="0838c04"/><persName key="A012516">釋圓震</persName>姓陳，<placeName key="PL000000002513">中山</placeName>人也。少警<anchor xml:id="beg0838006"/>悟<anchor xml:id="end0838006"/>而尚學，入<lb
 ed="T" n="0838c05"/>庠序，研究五經。倏遇雲遊沙門寓宵，其父<lb
 ed="T" n="0838c06"/>為州衙吏，酷有道心，留是僧供施。<persName key="A012516">震</persName>禮奉<lb
 ed="T" n="0838c07"/>其僧，聽其談道，頗覺入神。捨儒典，披釋<lb
-ed="T" n="0838c08"/>經，頓辭所愛，往白磁山<!--找不到此地-->，禮<persName key="A012517">智幽</persName>為師受<lb
+ed="T" n="0838c08"/>經，頓辭所愛，往白磁山<!--找不到此地-->，<anchor xml:id="beg0838sgsz21"/>禮<anchor xml:id="end0838sgsz21"/><persName key="A012517">智幽</persName>為師受<lb
 ed="T" n="0838c09"/>教。後遇<persName key="A005612">荷澤禪師</persName>得法，隱南陽<placeName key="PL000000025462">烏牙山</placeName>。先<lb
 ed="T" n="0838c10"/>是<placeName key="PL000000025462">山</placeName>中多巨蛇，澤穴有毒龍，鄉人患之。<lb
 ed="T" n="0838c11"/>及<persName key="A012516">震</persName>居此，二物潛蹤。曾有一人形服且異，<lb
 ed="T" n="0838c12"/>致拜乃曰：「我在此已二百歲，今感無心之<lb
 ed="T" n="0838c13"/>化，絕慮之修，吾曹冥感超昇，可非<persName key="A012516">師</persName>之力<lb
-ed="T" n="0838c14"/>歟！」<date from-iso="0790-01-24" key="j20096252010008" to-iso="0791-02-11">貞元六年</date>終，享齡八十六，弟子奉全身<lb
+ed="T" n="0838c14"/>歟！」<date from-iso="+0790-01-24" key="j20096252010008" to-iso="+0791-02-11"><name>貞元</name>六年</date>終，享齡八十六，弟子奉全身<lb
 ed="T" n="0838c15"/>入塔焉。</p>
     <linkGrp>
         <link targets="#0838c08 #0838c09"/>

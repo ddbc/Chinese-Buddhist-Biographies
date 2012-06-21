@@ -1,36 +1,36 @@
 <?xml version='1.0' encoding='utf-8'?>
-<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0721c21shiZiLin"><lb
-ed="T" n="0721c21"/><anchor n="T.50.2061.0721c21"/><head><date from-iso="0618-06-21" key="j19469512052491" to-iso="0907-06-06">唐</date><placeName key="PL000000042180">京師大安國寺</placeName><persName key="A009176">子隣</persName>傳</head><p><lb
-ed="T" n="0721c22"/><persName key="A009176">釋子隣</persName>，姓范氏，<placeName key="PL000000021579">兗州乾封大范村</placeName>人也。父<persName key="A018812">峻<lb
+<div xmlns="http://www.tei-c.org/ns/1.0" type="譯經" xml:id="gsz0721c21shiZiLin"><lb
+ed="T" n="0721c21"/><anchor n="T.50.2061.0721c21"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date><placeName key="PL000000042180">京師大安國寺</placeName><persName key="A009176">子隣</persName>傳</head><p><lb
+ed="T" n="0721c22"/><persName key="A009176">釋子隣</persName>，姓<name>范</name>氏，<placeName key="PL000000021579">兗州乾封大范村</placeName>人也。父<persName key="A018812">峻<lb
 ed="T" n="0721c23"/>朝</persName>，不喜三寶，或見桑門，必加咄唾。有問<lb
 ed="T" n="0721c24"/>其故，即欲<anchor xml:id="beg0721sgsz6"/><choice resp="sgsz"><sic>驅</sic><corr>敺</corr></choice><anchor xml:id="end0721sgsz6"/>焉。<persName key="A009176">隣</persName>生已數歲，小字<persName key="A009176">隣兒</persName>，見<lb
-ed="T" n="0721c25"/>著袈裟者，則生慕羨之意。<date from-iso="0713" key="j19818371984406" to-iso="0721">開元初</date>，<placeName key="PL000000023549">東都廣<lb
-ed="T" n="0721c26"/>愛寺</placeName><persName key="A007911">慶修律師</persName>遊于<placeName key="PL000000021580"><anchor xml:id="beg0721001"/><choice resp="sgsz"><sic>代</sic><corr>岱</corr></choice><anchor xml:id="end0721001"/>宗</placeName>，經范氏之舍。<persName key="A009176">隣</persName><lb
+ed="T" n="0721c25"/>著袈裟者，則生慕羨之意。<date notBefore-iso="+0713-12-26" key="j19818371984406" notAfter-iso="+0721-01-07"><name>開元</name>初</date>，<placeName key="PL000000023549">東都廣<lb
+ed="T" n="0721c26"/>愛寺</placeName><persName key="A007911">慶修<roleName>律師</roleName></persName>遊于<placeName key="PL000000021580"><anchor xml:id="beg0721001"/><choice resp="sgsz"><sic>代</sic><corr>岱</corr></choice><anchor xml:id="end0721001"/>宗</placeName>，經<name>范</name>氏之舍。<persName key="A009176">隣</persName><lb
 ed="T" n="0721c27"/>一見之，喜貫顏色，拜求出家。問曰：「父母云<lb
 ed="T" n="0721c28"/>何？」對曰：「不令<ref target="#A018812 #A020333" type="person">堂親</ref>知，知則遭箠撻矣。<ref target="#A007911" type="person">師</ref>但<lb
 ed="T" n="0721c29"/>先去，<ref target="#A009176" type="person">某</ref>乃影隨。」<ref target="#A007911" type="person">律師</ref>行五里間，<persName key="A009176">隣</persName>已至矣。及<pb ed="T" n="0722a" xml:id="T50.2061.0722a"/><lb
-ed="T" n="0722a01"/>洛寺，受教之易，若甘之受和焉。染削已，或<lb
-ed="T" n="0722a02"/>名<persName key="A009176">志隣</persName>。至<date key="j19851741985528" from-iso="0723-02-14" to-iso="0724-02-03">十一年</date>忽思二親，辭歸寧<ptr type="glossary" target="#g399"/>覲。<ref target="#A018812" type="person">其<lb
+ed="T" n="0722a01"/><placeName key="PL000000023581">洛</placeName>寺，受教之易，若甘之受和焉。染削已，或<lb
+ed="T" n="0722a02"/>名<persName key="A009176">志隣</persName>。至<date key="j19851741985528" from-iso="+0723-02-14" to-iso="+0724-02-03">十一年</date>忽思二親，辭歸寧<ptr type="glossary" target="#g399"/>覲。<ref target="#A018812" type="person">其<lb
 ed="T" n="0722a03"/>父</ref>喪明，<ref target="#A020333" type="person">母</ref>終已三載矣。因詣嶽廟，求知<ref target="#A020333" type="person">母</ref><lb
-ed="T" n="0722a04"/>之幽趣<ptr type="glossary" target="#g400"/>，即敷坐具<ptr type="glossary" target="#g401"/>，誦《法華經》，誓見<persName key="A020332">天齊王</persName><lb
+ed="T" n="0722a04"/>之幽趣<ptr rend="display:none;" type="glossary" target="#g400"/>，即敷坐具<ptr rend="display:none;" type="glossary" target="#g401"/>，誦《法華經》，誓見<persName key="A020332">天齊王</persName><lb
 ed="T" n="0722a05"/>為期。其夜，<ref type="person" target="#A020332">嶽神</ref>果召<persName key="A009176">隣</persName>問：「何故懇苦如是？」<lb
 ed="T" n="0722a06"/><persName key="A009176">隣</persName>曰：「母<persName key="A020333">王<roleName>氏</roleName></persName>亡來已經除服<ptr type="glossary" target="#g402"/>，敢問<ref type="person" target="#A020332">大王</ref>，<ref target="#A020333" type="person">母</ref><lb
 ed="T" n="0722a07"/>今<anchor xml:id="beg0722001"/>何<anchor xml:id="end0722001"/>在？」<ref type="person" target="#A020332">王</ref>顧簿吏，對曰：「<persName key="A020333">王<roleName>氏</roleName></persName>見繫獄受苦。」<lb
 ed="T" n="0722a08"/><persName key="A009176">隣</persName>曰：「<ref type="person" target="#A020333">我母</ref>何罪？」<ref type="person" target="#A020332">王</ref>曰：「生<ref type="person" target="#A009176">和尚</ref>時，食雞卵，又<lb
-ed="T" n="0722a09"/>取白傅頭瘡<ptr type="glossary" target="#g403"/>，坐<ptr type="glossary" target="#g404"/>是之故，職<ptr type="glossary" target="#g405"/><persName key="A009176">汝</persName>之由。」<persName key="A009176">隣</persName>悲號<lb
-ed="T" n="0722a10"/>委頓<ptr type="glossary" target="#g406"/>，求<ref type="person" target="#A020332">王</ref>請免。曰：「縶縻有分<ptr type="glossary" target="#g407"/>，放釋無門。然<lb
+ed="T" n="0722a09"/>取白傅頭瘡<ptr rend="display:none;" type="glossary" target="#g403"/>，坐<ptr type="glossary" target="#g404"/>是之故，職<ptr type="glossary" target="#g405"/><persName key="A009176">汝</persName>之由。」<persName key="A009176">隣</persName>悲號<lb
+ed="T" n="0722a10"/>委頓<ptr rend="display:none;" type="glossary" target="#g406"/>，求<ref type="person" target="#A020332">王</ref>請免。曰：「縶縻有分<ptr type="glossary" target="#g407"/>，放釋無門。然<lb
 ed="T" n="0722a11"/>則為<ref target="#A009176" type="person">法師</ref>計，請往<placeName key="PL000000012279">鄮山</placeName><anchor xml:id="beg0722sgsz1"/>禮<anchor xml:id="end0722sgsz1"/><placeName key="PL000000012310">阿育王塔</placeName>，或可<lb
-ed="T" n="0722a12"/>原也。」<persName key="A009176">隣</persName>詰朝<ptr type="glossary" target="#g408"/>遵途，到<ref type="place" target="#PL000000012309">句章山寺</ref><ptr target="#n409"/>，叩頭哀訴，<lb
-ed="T" n="0722a13"/>五輪<ptr target="#n410"/>著地，<anchor xml:id="beg0722sgsz2"/>禮<anchor xml:id="end0722sgsz2"/>畢，投策<ptr target="#n411"/>至四萬數，俄聞有呼<lb
+ed="T" n="0722a12"/>原也。」<persName key="A009176">隣</persName>詰朝<ptr type="glossary" target="#g408"/>遵途，到<placeName key="PL000000012309">句章山寺</placeName><ptr target="#n409"/>，叩頭哀訴，<lb
+ed="T" n="0722a13"/>五輪<ptr target="#n410"/>著地，<anchor xml:id="beg0722sgsz2"/>禮<anchor xml:id="end0722sgsz2"/>畢投策<ptr target="#n411"/>。至四萬數，俄聞有呼<lb
 ed="T" n="0722a14"/><persName key="A009176">隣</persName>聲，若<persName key="A012287">蔡順</persName>之解<ptr target="#n412"/>，望空見雲氣中<ref target="#A020333" type="person">母</ref>謝曰：「<lb
 ed="T" n="0722a15"/>承<ref type="person" target="#A009176">汝</ref>之力，得生<placeName key="PL000000055447">忉利天</placeName>矣，故來報<ref type="person" target="#A009176">汝</ref>。」倏然<lb
 ed="T" n="0722a16"/>不見。<persName key="A009176">隣</persName>後求解經論，至于<placeName key="PL000000042002">關輔</placeName>間，外學兼<lb
 ed="T" n="0722a17"/>通，美聲籍甚<ptr type="glossary" target="#g691"/>。以名僧之選，恒入<persName key="A004378">肅宗</persName><placeName key="PL000000042356">內殿</placeName><lb
 ed="T" n="0722a18"/>應奉，高其舌端，精於捷對，御前口占<ptr type="glossary" target="#g413"/>，敘述<lb
 ed="T" n="0722a19"/>皇道，時輩靡及。勅賜紫方袍，充供奉僧<ptr type="glossary" target="#g414"/>。<persName key="A004379">代<lb
-ed="T" n="0722a20"/>宗</persName>即位，更崇釋氏。<date from-iso="0765" key="j20005002001190" to-iso="0766">永泰中</date>，<persName key="A000095">不空</persName>重譯《仁王<lb
-ed="T" n="0722a21"/>護國》、《密嚴》等經，<persName key="A009176">隣</persName>與<placeName key="PL000000042321">千福寺</placeName><persName key="A009177">法崇</persName>、<placeName key="PL000000042216">西明寺</placeName><persName key="A009178">慧<lb
-ed="T" n="0722a22"/>靜</persName>、<placeName key="PL000000042165">保壽寺</placeName><persName key="A020397">圓寂</persName>分職證義<ptr type="glossary" target="#g54"/>，並<persName key="A000540">良賁</persName>潤文<ptr type="glossary" target="#g70"/>。<persName key="A009176">隣</persName><lb
+ed="T" n="0722a20"/>宗</persName>即位，更崇<name>釋</name>氏。<date notBefore-iso="+0765-01-30" key="j20005002001190" notAfter-iso="+0766-12-21"><name>永泰</name>中</date>，<persName key="A000095">不空</persName>重譯《仁王<lb
+ed="T" n="0722a21"/>護國》<ptr target="#n150"/>、《密嚴》<ptr target="#n149"/>等經，<persName key="A009176">隣</persName>與<placeName key="PL000000042321">千福寺</placeName><persName key="A009177">法崇</persName>、<placeName key="PL000000042216">西明寺</placeName><persName key="A009178">慧<lb
+ed="T" n="0722a22"/>靜</persName>、<placeName key="PL000000042165">保壽寺</placeName><persName key="A020397">圓寂</persName>分職證義<ptr rend="display:none;" type="glossary" target="#g54"/>，並<persName key="A000540">良賁</persName>潤文<ptr rend="display:none;" type="glossary" target="#g70"/>。<persName key="A009176">隣</persName><lb
 ed="T" n="0722a23"/>莫測其終。先所<anchor xml:id="beg0722sgsz3"/>禮<anchor xml:id="end0722sgsz3"/>塔，今<placeName key="PL000000012309">鄮山育王寺</placeName>後峯之<lb
 ed="T" n="0722a24"/>翠微<ptr type="glossary" target="#g415"/>茅庵基及井存焉。井實方池，其水碧<lb
 ed="T" n="0722a25"/>色，<anchor xml:id="beg0722sgsz4"/><choice resp="sgsz"><sic>緣</sic><corr>緑</corr></choice><anchor xml:id="end0722sgsz4"/>苔泛泛然，辭人遊者，詩詠絕多矣。</p>

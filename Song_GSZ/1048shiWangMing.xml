@@ -1,17 +1,17 @@
 <?xml version='1.0' encoding='utf-8'?>
-<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0830b16shiWangMing">
-    <anchor n="T.50.2061.0830b16"/><head><date from-iso="0618-06-21" key="j19469512052491" to-iso="0907-06-06">唐</date>西域<persName key="A012339">亡名</persName>傳</head><p><lb
+<div xmlns="http://www.tei-c.org/ns/1.0" type="感通" xml:id="gsz0830b16shiWangMing"><lb
+ed="T" n="0830b16"/><anchor n="T.50.2061.0830b16"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date>西域<persName key="A012339">亡名</persName>傳</head><p><lb
 ed="T" n="0830b17"/><persName key="A012339">釋天竺亡名</persName>，未詳何<placeName key="PL000000048207">印度</placeName>人也。其貌惡陋，<lb
 ed="T" n="0830b18"/>纏乾陀色縵條衣，穿革屣，曳鐵錫，化行于<lb
-ed="T" n="0830b19"/><placeName key="PL000000042189">京輦</placeName>。<date key="j19935311993895" from-iso="0746-01-01" to-iso="0746-12-31">當</date><persName key="A004370">韋南康臯</persName>之生也，纔三日，其家召<lb
+ed="T" n="0830b19"/><placeName key="PL000000042189">京輦</placeName>。<date key="j19935311993895" from-iso="+0746-01-01" to-iso="+0746-12-31">當</date><persName key="A004370">韋南康臯</persName>之生也，纔三日，其家召<lb
 ed="T" n="0830b20"/>僧齋，此<persName key="A012339">僧</persName>不速自來。其日僧必歷寺連名<lb
 ed="T" n="0830b21"/>請至，韋氏家僮患其長一人，甚怒之，以弊<lb
 ed="T" n="0830b22"/>席坐于庭中。既而齋畢，韋氏令乳母負嬰<lb
-ed="T" n="0830b23"/>兒出，意請眾僧祝願焉。<persName key="A012339">梵僧</persName>先從座起，攝<lb
+ed="T" n="0830b23"/>兒出，意請眾僧祝願焉。<persName key="A012339"><name>梵</name>僧</persName>先從座起，攝<lb
 ed="T" n="0830b24"/>衣升階，視之曰：「別久無恙乎？」嬰兒若有喜<lb
 ed="T" n="0830b25"/>色相認之意。眾皆異之。韋君曰：「此<persName key="A004370">子</persName>纔生三<lb
-ed="T" n="0830b26"/>日，吾<persName key="A012339">師</persName>何言別久也？」<persName key="A012339">梵僧</persName>曰：「此非檀越所<lb
-ed="T" n="0830b27"/>知也。」韋君固問之，<persName key="A012339">梵僧</persName>曰：「此<persName key="A004370">子</persName>乃<persName key="A006071">諸葛亮</persName><lb
+ed="T" n="0830b26"/>日，吾<persName key="A012339">師</persName>何言別久也？」<persName key="A012339"><name>梵</name>僧</persName>曰：「此非檀越所<lb
+ed="T" n="0830b27"/>知也。」韋君固問之，<persName key="A012339"><name>梵</name>僧</persName>曰：「此<persName key="A004370">子</persName>乃<persName key="A006071">諸葛亮</persName><lb
 ed="T" n="0830b28"/>之後身耳。<persName key="A006071">武候</persName>鼎國時為蜀丞相，君所知<lb
 ed="T" n="0830b29"/>也。緣<placeName key="PL000000035107">蜀</placeName>人受其賜且久，今降生於世，將<pb ed="T" n="0830c" xml:id="T50.2061.0830c"/><lb
 ed="T" n="0830c01"/>為<placeName key="PL000000035107">蜀</placeName>帥，必福坤維之人。<persName key="A012339">吾</persName>往在<placeName key="PL000000035743">劍門</placeName>，與此<lb
@@ -22,14 +22,14 @@ ed="T" n="0830c05"/>字，又單字武也。<persName key="A012340">張鎰</pers
 ed="T" n="0830c06"/>奏<persName key="A004370">臯</persName>權知<placeName key="PL000000042949">隴州</placeName>。及<persName key="A012340">鎰</persName>為<persName key="A012341">李楚琳</persName>所殺，<persName key="A012342">牛雲<lb
 ed="T" n="0830c07"/>光</persName>請<persName key="A004370">臯</persName>為帥。<persName key="A008866">朱泚</persName>不得已用<persName key="A004370">臯</persName>為<placeName key="PL000000042848">鳳翔</placeName><lb
 ed="T" n="0830c08"/><anchor xml:id="beg0830003"/>帥<anchor xml:id="end0830003"/>。<persName key="A004215">德宗</persName>置奉義軍節以旌之，續加禮部尚<lb
-ed="T" n="0830c09"/>書。<date from-iso="0784" key="j20074402007823" to-iso="0785">興元</date>中，駕還<placeName key="PL000000042189">京</placeName>，徵為左金吾衛將軍。<date from-iso="0785-02-18" key="j20078242008178" to-iso="0786-02-07">貞<lb
+ed="T" n="0830c09"/>書。<date notBefore-iso="+0784-01-31" key="j20074402007823" notAfter-iso="+0785-02-17">興元中</date>，駕還<placeName key="PL000000042189">京</placeName>，徵為左金吾衛將軍。<date from-iso="+0785-02-18" key="j20078242008178" to-iso="+0786-02-07">貞<lb
 ed="T" n="0830c10"/>元元年</date>，為<placeName key="PL000000034785">成都</placeName>尹，代<persName key="A012343">張延賞</persName>。到任和南蠻<lb
 ed="T" n="0830c11"/>并戰功，封<placeName key="PL000000019349">南康郡</placeName>王。<persName key="A004380">順宗</persName>即位，進太尉。<persName key="A004370">南<lb
 ed="T" n="0830c12"/>康</persName>在任二十一年，末塗甚崇釋氏。恒持數<lb
 ed="T" n="0830c13"/>珠誦佛名。所養鸚鵡，教令念經。及死，焚<lb
 ed="T" n="0830c14"/>之，有舍利焉。<persName key="A004370">臯</persName>又歸心南宗禪道，學心法<lb
 ed="T" n="0830c15"/>於<placeName key="PL000000034714">淨眾寺</placeName><persName key="A010304">神會禪師</persName>。在<placeName key="PL000000035107">蜀</placeName>，富貴僭差，重賦斂，<lb
-ed="T" n="0830c16"/>時議非之，然合<persName key="A012339">梵僧</persName>懸記<ptr type="glossary" target="#g1165"/>焉。</p>
+ed="T" n="0830c16"/>時議非之，然合<persName key="A012339"><name>梵</name>僧</persName>懸記<ptr type="glossary" target="#g1165"/>焉。</p>
     <linkGrp>
         <link targets="#0830b18 #0830c04"/>
         <ptr target="#A012339" type="person"/>

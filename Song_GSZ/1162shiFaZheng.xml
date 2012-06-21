@@ -1,13 +1,13 @@
 <?xml version='1.0' encoding='utf-8'?>
-<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0867c27shiShaoKang">
-    <anchor n="T.50.2061.0867c27"/><head><date from-iso="0618-06-21" key="j19469512052491" to-iso="0907-06-06">唐</date>江州開元寺<persName key="A013585">法正</persName>傳（<persName key="A013586">會宗</persName>）</head><p><lb
+<div xmlns="http://www.tei-c.org/ns/1.0" type="讀誦" xml:id="gsz0867c27shiFaZheng"><lb
+ed="T" n="0867c27"/><anchor n="T.50.2061.0867c27"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date>江州開元寺<persName key="A013585">法正</persName>傳（<persName key="A013586">會宗</persName>）</head><p><lb
 ed="T" n="0867c28"/><persName key="A013585">釋法正</persName>，不知何許人也。寬曠其懷，慎修厥<lb
 ed="T" n="0867c29"/>行。司辰于三業，御史于六根，以其日諷金<pb ed="T" n="0868a" xml:id="T50.2061.0868a"/><lb
-ed="T" n="0868a01"/>剛般若三七過，執持恭恪，罔或云懈。<date key="j20209682021245" notAfter-iso="0821" notBefore-iso="0821">長慶<lb
+ed="T" n="0868a01"/>剛般若三七過，執持恭恪，罔或云懈。<date key="j20209682021245" notAfter-iso="+0821-11-17" notBefore-iso="+0821-02-13">長慶<lb
 ed="T" n="0868a02"/>初</date>，得疾暴終。云倏至幽冥，引見王者，問曰：<lb
 ed="T" n="0868a03"/>「<persName key="A013585">師</persName>生平藝何福田？<anchor xml:id="beg0868001"/>獲<anchor xml:id="end0868001"/>何善果？」<persName key="A013585">正</persName>以誦經為<lb
 ed="T" n="0868a04"/>對。王乃揖上殿令登繡座，請誦七通。王<lb
-ed="T" n="0868a05"/><anchor xml:id="beg0868002"/>以<anchor xml:id="end0868002"/>下侍衛靡不合掌，階下拷掠搒擊論愬，<lb
+ed="T" n="0868a05"/><anchor xml:id="beg0868002"/>以<anchor xml:id="end0868002"/>下侍衛靡不合掌，階下<anchor xml:id="beg0868sgsz1"/>拷<anchor xml:id="end0868sgsz1"/>掠搒擊論愬，<lb
 ed="T" n="0868a06"/>寂若無聲。念畢後，遣一人引<persName key="A013585">正</persName>令還人<lb
 ed="T" n="0868a07"/>間，王降階揖送云：「上人更得三十年在世，勿<lb
 ed="T" n="0868a08"/>廢誦持。」隨吏行數里，至一巨坑，俾<persName key="A013585">正</persName>俯<lb
@@ -18,7 +18,7 @@ ed="T" n="0868a12"/>會宗</persName>，俗姓蔡。初泛爾為僧，別無他<
 ed="T" n="0868a13"/>中蠱病，乃骨立，因苦發心，志誦金剛般若<lb
 ed="T" n="0868a14"/>經以待盡。爾至五十過，夢有人令開口，喉<lb
 ed="T" n="0868a15"/>中引出髮十餘莖，其夜又有夢吐螾長一<lb
-ed="T" n="0868a16"/>寸。月餘，因此遂愈，當<date key="j20220792022163" notAfter-iso="0824" notBefore-iso="0824">長慶初</date>也。荊山僧行<lb
+ed="T" n="0868a16"/>寸。月餘，因此遂愈，當<date key="j20220792022163" notAfter-iso="+0824-05-23" notBefore-iso="+0824-02-29">長慶初</date>也。荊山僧行<lb
 ed="T" n="0868a17"/>覩見其事。<persName key="A013586">宗</persName>不測終所。</p>
     <linkGrp>
         <link targets="#0868a10 #0868a11"/>

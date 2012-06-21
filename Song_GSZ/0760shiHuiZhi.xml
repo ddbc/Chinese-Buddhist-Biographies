@@ -1,16 +1,16 @@
 <?xml version='1.0' encoding='utf-8'?>
-<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0719b14shiHuiZhi"><lb
-ed="T" n="0719b14"/><anchor n="T.50.2061.0719b14"/><head><date from-iso="0689-12-21" key="j19730671978610" to-iso="0705-02-24">周</date><placeName key="PL000000023657">洛京佛授記寺</placeName><persName key="A001727">慧智</persName>傳（<persName key="A000657">明佺</persName>）</head><p><lb
-ed="T" n="0719b15"/><persName key="A001727">釋慧智</persName>，其父<placeName key="PL000000048207">印度</placeName>人，婆羅門<ptr type="glossary" target="#g117"/>種，因使遊<ref type="place" target="#PL000000000106">此<lb
-ed="T" n="0719b16"/>方</ref>而生於。<persName key="A001727">智</persName>少而精勤，有出俗之志。<date from-iso="0649-07-14" key="j19582971970884" to-iso="0683-12-30">天皇<lb
-ed="T" n="0719b17"/>時</date>從長年婆羅門<ptr type="glossary" target="#g117"/>僧，奉勅度為弟子。本既<lb
-ed="T" n="0719b18"/>梵人，善閑<placeName key="PL000000048207">天竺</placeName>書語；生于唐國，復練此土<lb
+<div xmlns="http://www.tei-c.org/ns/1.0" type="譯經" xml:id="gsz0719b14shiHuiZhi"><lb
+ed="T" n="0719b14"/><anchor n="T.50.2061.0719b14"/><head><date from-iso="+0689-12-21" key="j19730671978610" to-iso="+0705-02-24">周</date><placeName key="PL000000023657">洛京佛授記寺</placeName><persName key="A001727">慧智</persName>傳（<persName key="A000657">明佺</persName>）<ptr target="#n122"/></head><p><lb
+ed="T" n="0719b15"/><persName key="A001727">釋慧智</persName>，其父<placeName key="PL000000048207">印度</placeName>人，婆羅門<ptr rend="display:none;" type="glossary" target="#g117"/>種，因使遊<ref type="place" target="#PL000000000106">此<lb
+ed="T" n="0719b16"/>方</ref>而生於<persName key="A001727">智</persName>。少而精勤，有出俗之志。<date from-iso="+0649-07-14" key="j19582971970884" to-iso="+0683-12-30"><name>天皇</name><lb
+ed="T" n="0719b17"/>時</date>從長年婆羅門<ptr rend="display:none;" type="glossary" target="#g117"/>僧，奉勅度為弟子。本既<lb
+ed="T" n="0719b18"/><name>梵</name>人，善閑<placeName key="PL000000048207">天竺</placeName>書語；生于<placeName key="PL000000000106">唐國</placeName>，復練此土<lb
 ed="T" n="0719b19"/>言音。三藏<persName key="A000332">地婆訶羅</persName>、<persName key="A008997">提雲若那</persName>、<persName key="A001922">寶思惟</persName>等所<lb
-ed="T" n="0719b20"/>有翻譯，皆召<persName key="A001727">智</persName>為證，兼令度語<ptr type="glossary" target="#g109"/>。後至<date from-iso="0692-12-17" key="j19741591974512" to-iso="0693-12-05">長壽<lb
+ed="T" n="0719b20"/>有翻譯，皆召<persName key="A001727">智</persName>為證，兼令度語<ptr rend="display:none;" type="glossary" target="#g109"/>。後至<date from-iso="+0692-12-17" key="j19741591974512" to-iso="+0693-12-05"><name>長壽</name><lb
 ed="T" n="0719b21"/>二年癸巳</date>，<persName key="A001727">智</persName>於<placeName key="PL000000023657">東都佛授記寺</placeName>自譯《觀世音<lb
-ed="T" n="0719b22"/>頌》一卷。不詳所終。有沙門<persName key="A000657">明佺</persName>者，不知<lb
-ed="T" n="0719b23"/>何許人，出家隸業，悉在<placeName key="PL000000023657">佛授記寺</placeName>。尤善毘<lb
-ed="T" n="0719b24"/>尼，兼閑經論。<date from-iso="0695-10-25" key="j19752011975251" to-iso="0695-12-14">天冊萬歲元年</date>，勅令刊定經<lb
+ed="T" n="0719b22"/>頌》<ptr target="#n126"/>一卷。不詳所終。</p><p>有沙門<persName key="A000657">明佺</persName>者，不知<lb
+ed="T" n="0719b23"/>何許人，出家隸業<ptr type="glossary" target="#g21"/>，悉在<placeName key="PL000000023657">佛授記寺</placeName>。尤善毘<lb
+ed="T" n="0719b24"/>尼<ptr type="glossary" target="#g900"/>，兼閑經論。<date from-iso="+0695-10-25" key="j19752011975251" to-iso="+0695-12-14"><name>天冊萬歲</name>元年</date>，勅令刊定經<lb
 ed="T" n="0719b25"/><anchor xml:id="beg0719sgsz2"/>目<anchor xml:id="end0719sgsz2"/>，<persName key="A000657">佺</persName>所專纂錄，編次持疑，更與翻經大德<lb
 ed="T" n="0719b26"/>二十餘人同共參正，號曰《大周經錄》焉<ptr target="#n347"/>。<persName key="A001261">智<lb
 ed="T" n="0719b27"/>昇</persName>云：「雖云刊定，繁穢尤多。徒見流行，寔難<lb

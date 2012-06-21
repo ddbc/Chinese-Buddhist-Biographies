@@ -1,24 +1,24 @@
 <?xml version='1.0' encoding='utf-8'?>
-<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0835b24shiHuiXiu">
-    <anchor n="T.50.2061.0835b24"/><head><date from-iso="0618-06-21" key="j19469512052491" to-iso="0907-06-06">唐</date>洛京天宮寺<persName key="A012469">惠秀</persName>傳</head><p><lb
+<div xmlns="http://www.tei-c.org/ns/1.0" type="感通" xml:id="gsz0835b24shiHuiXiu"><lb
+ed="T" n="0835b24"/><anchor n="T.50.2061.0835b24"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date>洛京天宮寺<persName key="A012469">惠秀</persName>傳</head><p><lb
 ed="T" n="0835b25"/><persName key="A012469">釋惠秀</persName>，俗姓李氏，今<placeName key="PL000000023446">東京陳留</placeName>人也。出離塵<lb
 ed="T" n="0835b26"/>垢，慕尚逍遙。初以戒律飾躬，後以禪定<lb
 ed="T" n="0835b27"/>為務。於<placeName key="PL000000027770">荊</placeName><placeName key="PL000000027486">郢</placeName>之地，參問祖師，既了安然，迴<lb
-ed="T" n="0835b28"/>依洛邑<placeName key="PL000000023564">天宮寺</placeName>也。<date from-iso="0684" key="j19711811978588" to-iso="0705">屬</date><persName key="A002099">則天</persName>頻幸<placeName key="PL000000023581">神都</placeName>，而<persName key="A012469">秀</persName><lb
+ed="T" n="0835b28"/>依洛邑<placeName key="PL000000023564">天宮寺</placeName>也。<date from-iso="+0684-10-22" key="j19711811978588" to-iso="+0705-02-02">屬</date><persName key="A002099">則天</persName>頻幸<placeName key="PL000000023581">神都</placeName>，而<persName key="A012469">秀</persName><lb
 ed="T" n="0835b29"/>道聲聞于<persName key="A002099">后</persName>聽，屢詔入禮重，其於懸記<ptr type="glossary" target="#g1165"/>未然<pb ed="T" n="0835c" xml:id="T50.2061.0835c"/><lb
-ed="T" n="0835c01"/>事，合同符契。<date from-iso="0701" key="j19774281978588" to-iso="0705">長安</date>中往資聖寺<!--找不到此地-->，唱道化人，<lb
+ed="T" n="0835c01"/>事，合同符契。<date notBefore-iso="+0701-11-30" key="j19774281978588" notAfter-iso="+0705-02-02">長安中</date>往資聖寺<!--找不到此地-->，唱道化人，<lb
 ed="T" n="0835c02"/>翕然歸向。忽誡禪院弟子，令滅燈燭。有白<lb
-ed="T" n="0835c03"/><persName key="A012469">秀</persName>曰：「長明燈可留。」亦令滅之。因說火災難<lb
-ed="T" n="0835c04"/>測，不可不備，云：「甞有寺家，不備火燭，佛<lb
-ed="T" n="0835c05"/>殿被焚。又有一寺，鐘樓遭爇。又有一寺，經<lb
-ed="T" n="0835c06"/>藏煨燼，殊可痛惜。」時眾不喻其旨。至夜遺<lb
+ed="T" n="0835c03"/><persName key="A012469">秀</persName>曰：「長明燈可留？」亦令滅之。因說<ptr type="glossary" target="#g442"/>火災難<lb
+ed="T" n="0835c04"/>測，不可不備，云甞有寺家，不備火燭佛<lb
+ed="T" n="0835c05"/>殿被焚，又有一寺鐘樓遭爇，又有一寺經<lb
+ed="T" n="0835c06"/>藏煨燼，殊可痛惜。時眾不喻其旨。至夜遺<lb
 ed="T" n="0835c07"/>火佛殿，鐘樓經藏三所悉成灰炭。方知<persName key="A012469">秀</persName>預<lb
 ed="T" n="0835c08"/>知垂警。又<persName key="A000291">玄宗</persName>在<placeName key="PL000000004130">潞</placeName>邸時，曾與諸王俱詣<lb
-ed="T" n="0835c09"/>問法，從容留施一笛。<persName key="A000291">玄宗</persName>出去，<persName key="A012469">秀</persName>召弟子<lb
+ed="T" n="0835c09"/>問法從容<ptr type="glossary" target="#g1410"/>，留施一笛。<persName key="A000291">玄宗</persName>出去，<persName key="A012469">秀</persName>召弟子<lb
 ed="T" n="0835c10"/>曰：「謹掌此笛，後有要時，當獻上也。」及受<lb
 ed="T" n="0835c11"/><persName key="A002461">睿宗</persName>傳禪，弟子<persName key="A012470">達<anchor xml:id="beg0835004"/>磨<anchor xml:id="end0835004"/></persName>等方悟其言，取笛以<lb
 ed="T" n="0835c12"/>進。<persName key="A000291">帝</persName>悅先知，迴賜豐厚。<persName key="A012469">秀</persName>偶示微疾，告誡<lb
-ed="T" n="0835c13"/>門人。，奄然歸寂。享年一百歲。燕國公<persName key="A002473">張說</persName>素<lb
+ed="T" n="0835c13"/>門人，奄然歸寂。享年一百歲。燕國公<persName key="A002473">張說</persName>素<lb
 ed="T" n="0835c14"/>所歸心，送瘞<placeName key="PL000000023647">龍門山</placeName>。道俗數千人奔會悲悼<lb
 ed="T" n="0835c15"/>焉。</p>
     <linkGrp>

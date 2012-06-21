@@ -1,24 +1,24 @@
 <?xml version='1.0' encoding='utf-8'?>
-<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0781c07shiDaoYing">
-    <anchor n="T.50.2061.0781c07"/><head><date from-iso="0618-06-21" key="j19469512052491" to-iso="0907-06-06">唐</date>縉雲連雲院<persName key="A010592">有緣</persName>傳</head><p><lb
-ed="T" n="0781c08"/><persName key="A010592">釋有緣</persName>，俗姓憑，<placeName key="PL000000035550">東川梓潼</placeName>人也。小學之年往<lb
+<div xmlns="http://www.tei-c.org/ns/1.0" type="習禪" xml:id="gsz0781c07shiDaoYing">
+    <anchor n="T.50.2061.0781c07"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date>縉雲連雲院<persName key="A010592">有緣</persName>傳</head><p><lb
+ed="T" n="0781c08"/><persName key="A010592">釋有緣</persName>，俗姓<anchor xml:id="beg0781sgsz8"/><choice resp="sgsz"><sic>憑</sic><corr>馮</corr></choice><anchor xml:id="end0781sgsz8"/>，<placeName key="PL000000035550">東川梓潼</placeName>人也。小學之年往<lb
 ed="T" n="0781c09"/>成都<placeName key="PL000000034767">福感寺</placeName>，事<persName key="A010594">定蘭</persName>開士，即<persName key="A003667">宣宗</persName>師矣。隨侍<lb
 ed="T" n="0781c10"/>出入，多在內中。一旦宣召，<persName key="A003667">帝</persName>以筆書其衫<lb
-ed="T" n="0781c11"/>背云：「此童子與<persName key="A003667">朕</persName>有緣」，由茲召體矣。<date from-iso="0855-01-26" key="j20333682033751" to-iso="0856-02-13">大中<lb
+ed="T" n="0781c11"/>背云：「此童子與<persName key="A003667">朕</persName>有緣」，由茲召體矣。<date from-iso="+0855-01-26" key="j20333682033751" to-iso="+0856-02-13"><name>大中</name><lb
 ed="T" n="0781c12"/>九年</date>，遇<persName key="A010596">白公敏中</persName>出鎮<placeName key="PL000000034805">益部</placeName>，開戒壇，即於<lb
 ed="T" n="0781c13"/><placeName key="PL000000034714">淨眾寺</placeName>具尸羅也。續於<placeName key="PL000000042189">京輦</placeName>聽習經律五<lb
 ed="T" n="0781c14"/>臘。後身披布褐，手執墨勅，海內遊行。參見<lb
 ed="T" n="0781c15"/><persName key="A010597">小馬神照</persName>，凡同時叢林禪祖無不禮謁者。<lb
-ed="T" n="0781c16"/>乃居<anchor xml:id="beg0781005"/>除<anchor xml:id="end0781005"/>州華山<!--找不到此地-->，及南遊至<placeName key="PL000000018271">武夷山</placeName>，時廉使<lb
-ed="T" n="0781c17"/><persName key="A010598">李誨</persName>為築禪室。<date from-iso="0876-02-03" key="j20410462041399" to-iso="0877-01-21">乾符三年</date>，至縉雲龍泉<placeName key="PL000000015019">大賽<lb
+ed="T" n="0781c16"/>乃居<anchor xml:id="beg0781005"/>除<anchor xml:id="end0781005"/>州<anchor xml:id="beg0781sgsz9"/>華<anchor xml:id="end0781sgsz9"/>山<!--找不到此地-->，及南遊至<placeName key="PL000000018271">武夷山</placeName>，時廉使<lb
+ed="T" n="0781c17"/><persName key="A010598">李誨</persName>為築禪室。<date from-iso="+0876-02-03" key="j20410462041399" to-iso="+0877-01-21">乾符三年</date>，至縉雲龍泉<placeName key="PL000000015019">大賽<lb
 ed="T" n="0781c18"/>山</placeName>，立院。因奏祠部給額，號<placeName key="PL000000015022">龍安</placeName>。勅度七<lb
 ed="T" n="0781c19"/>僧，住十八載。安而能遷，止<placeName key="PL000000014963">連雲院</placeName>焉。太守<lb
-ed="T" n="0781c20"/><persName key="A010599">盧約</persName>者，以諶諒之誠，請入州開元寺<!--找不到此地-->別院，<lb
-ed="T" n="0781c21"/>四事供施焉。<date key="j20524812052481" when-iso="0907-05-27">天祐丁卯歲四月八日</date>，示疾，至<lb
+ed="T" n="0781c20"/><persName key="A010599">盧約</persName>者，以諶諒之誠，請入州開元<anchor xml:id="beg0781sgsz10"/>寺<anchor xml:id="end0781sgsz10"/><!--找不到此地-->別院，<lb
+ed="T" n="0781c21"/>四事供施焉。<date key="j20524812052481" when-iso="+0907-05-27">天祐丁卯歲四月八日</date>，示疾，至<lb
 ed="T" n="0781c22"/>六月朔日終于廨署，報齡七十三，臘五十二。<lb
 ed="T" n="0781c23"/>遺旨囑制置<persName key="A010600">揚習</persName>司空主喪務，於寺南園<lb
-ed="T" n="0781c24"/><anchor xml:id="beg0781006"/>茶<anchor xml:id="end0781006"/>毘。火滅，散分舍利數百粒。後收四十九<lb
-ed="T" n="0781c25"/>粒并遺骨一缾，瘞于石塔。<date from-iso="0946-02-10" key="j20666202066973" to-iso="0947-01-29">晉開運三年</date>乙巳<lb
+ed="T" n="0781c24"/><anchor xml:id="beg0781006"/><choice resp="sgsz"><sic>茶</sic><corr>荼</corr></choice><anchor xml:id="end0781006"/>毘。火滅，散分舍利數百粒。後收四十九<lb
+ed="T" n="0781c25"/>粒并遺骨一缾，瘞于石塔。<date from-iso="+0946-02-10" key="j20666202066973" to-iso="+0947-01-29">晉開運三年</date>乙巳<lb
 ed="T" n="0781c26"/>歲，<persName key="A010595">文泰律師</persName>撰塔碑焉。</p>
     <linkGrp>
         <link targets="#0781c08 #0781c10"/>

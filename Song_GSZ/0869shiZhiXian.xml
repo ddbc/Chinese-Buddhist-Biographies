@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='utf-8'?>
-<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0763b22shiZhiXian">
-    <anchor n="T.50.2061.0763b22"/><head><date from-iso="0618-06-21" key="j19469512052491" to-iso="0907-06-06">唐</date><placeName key="PL000000003727">太原甘泉寺</placeName><persName key="A010282">志賢</persName>傳</head><p><lb
+<div xmlns="http://www.tei-c.org/ns/1.0" type="習禪" xml:id="gsz0763b22shiZhiXian"><lb
+ed="T" n="0763b22"/><anchor n="T.50.2061.0763b22"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date><placeName key="PL000000003727">太原甘泉寺</placeName><persName key="A010282">志賢</persName>傳</head><p><lb
 ed="T" n="0763b23"/><persName key="A010282">釋志賢</persName>，姓江，<placeName key="PL000000018363">建陽</placeName>人也。夙心剛整，幼且成<lb
 ed="T" n="0763b24"/>規，既遂出家，尋加戒品，霑甞漸教，守護<lb
-ed="T" n="0763b25"/>諸根，抗節修心，不違律範。<date key="j19921141992467" from-iso="0742-02-14" to-iso="0743-02-02"><anchor xml:id="beg0763001"/><choice resp="sgsz"><sic>大</sic><corr>天</corr></choice><anchor xml:id="end0763001"/>寶元年</date>，於<lb
-ed="T" n="0763b26"/><placeName key="PL000000018339">本州佛跡巖</placeName>承事<persName key="A003623">道一禪師</persName>，曾無間然，汲<lb
+ed="T" n="0763b25"/>諸根，抗節修心，不違律範。<date key="j19921141992467" from-iso="+0742-02-14" to-iso="+0743-02-02"><anchor xml:id="beg0763001"/><choice resp="sgsz"><sic>大</sic><corr>天</corr></choice><anchor xml:id="end0763001"/>寶元年</date>，於<lb
+ed="T" n="0763b26"/>本州<placeName key="PL000000018339">佛跡巖</placeName>承事<persName key="A003623">道一<roleName>禪師</roleName></persName>，曾無間然，汲<lb
 ed="T" n="0763b27"/>水拾薪，惟務勤苦。遊方見<placeName key="PL000000013493">金華山赤松洞</placeName>，<lb
 ed="T" n="0763b28"/>是<persName key="A019144"><anchor xml:id="beg0763sgsz6"/>黃<anchor xml:id="end0763sgsz6"/>初平</persName><anchor xml:id="beg0763002"/>叱<anchor xml:id="end0763002"/>石羊之地，欝林峻嶺，泉湖百步<lb
 ed="T" n="0763b29"/>許。意樂幽奇，既棲巔頂，野老負香粇蔬<anchor xml:id="beg0763sgsz7"/><choice resp="sgsz"><sic>茄</sic><corr>茹</corr></choice><anchor xml:id="end0763sgsz7"/><pb ed="T" n="0763c" xml:id="T50.2061.0763c"/><lb
@@ -14,7 +14,7 @@ ed="T" n="0763c03"/>佛勅救百姓乎？」敲石纔畢，霈然而作，<place
 ed="T" n="0763c04"/>咸悅。後遊<placeName key="PL000000042189">長安</placeName>，名公碩德列請為大寺功德<lb
 ed="T" n="0763c05"/>之師，<persName key="A010282">賢</persName>悚然不顧。明日遂行，登<placeName key="PL000000005250">五臺</placeName>，尋止<lb
 ed="T" n="0763c06"/><placeName key="PL000000003727">太原甘泉寺</placeName>，道俗請學禪理者繼至。無疾<lb
-ed="T" n="0763c07"/>而終，勅諡<persName key="A010282">大遠禪師</persName>，旌乎厥德矣。</p>
+ed="T" n="0763c07"/>而終，勅諡<persName key="A010282">大遠<roleName>禪師</roleName></persName>，旌乎厥德矣。</p>
     <linkGrp>
         <link targets="#0763b23 #0763b23"/>
         <ptr target="#A010282" type="person"/>

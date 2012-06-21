@@ -1,35 +1,35 @@
 <?xml version='1.0' encoding='utf-8'?>
-<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0773c07shiTaiYu">
-    <anchor n="T.50.2061.0773c07"/><head><date from-iso="0618-06-21" key="j19469512052491" to-iso="0907-06-06">唐</date><placeName key="PL000000009398">常州芙蓉山</placeName><persName key="A010472">太毓</persName>傳</head><p><lb
-ed="T" n="0773c08"/><persName key="A010472">釋太毓</persName>，姓范氏，<placeName key="PL000000008820">金陵</placeName>人也。年纔一紀，志在出<lb
-ed="T" n="0773c09"/>家，乃禮<placeName key="PL000000008579">牛頭山</placeName><persName key="A010048">忠禪師</persName>而師事焉。於是勇<lb
+<div xmlns="http://www.tei-c.org/ns/1.0" type="習禪" xml:id="gsz0773c07shiTaiYu">
+    <anchor n="T.50.2061.0773c07"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date><placeName key="PL000000009398">常州芙蓉山</placeName><persName key="A010472">太毓</persName>傳</head><p><lb
+ed="T" n="0773c08"/><persName key="A010472">釋<anchor xml:id="beg0773sgsz7"/>太<anchor xml:id="end0773sgsz7"/>毓</persName>，姓范氏，<placeName key="PL000000008820">金陵</placeName>人也。年纔一紀，志在出<lb
+ed="T" n="0773c09"/>家，乃<anchor xml:id="beg0773sgsz8"/>禮<anchor xml:id="end0773sgsz8"/><placeName key="PL000000008579">牛頭山</placeName><persName key="A010048">忠禪師</persName>而師事焉。於是勇<lb
 ed="T" n="0773c10"/>猛精進，求其玄旨，法器外朗，神㦗內融。雖<lb
 ed="T" n="0773c11"/>明了一乘，而具足萬行。往<placeName key="PL000000042180">雍京安國寺</placeName>，進<lb
 ed="T" n="0773c12"/>受具戒，褎然出眾。加復威儀整肅，妙相殊特，<lb
 ed="T" n="0773c13"/>如大海之不可測，如虛空之不可量。巡<lb
-ed="T" n="0773c14"/>禮道場，攝心淨域，雖智能通達，不假因師，<lb
+ed="T" n="0773c14"/><anchor xml:id="beg0773sgsz9"/>禮<anchor xml:id="end0773sgsz9"/>道場，攝心淨域，雖智能通達，不假因師，<lb
 ed="T" n="0773c15"/>而印可證明，必從先覺。遂謁<placeName key="PL000000018628">洪井</placeName><persName key="A003623">大寂禪師</persName>，<lb
-ed="T" n="0773c16"/>覩相而了達法身，剎那而頓成大道。于時<lb
+ed="T" n="0773c16"/>覩相而了達法身，<anchor xml:id="beg0773sgsz10"/>剎<anchor xml:id="end0773sgsz10"/>那而頓成大道。于時<lb
 ed="T" n="0773c17"/>天下佛法極盛，無過<ref type="person" target="#A003623">洪府</ref>，座下賢聖比肩，得<lb
-ed="T" n="0773c18"/>道者其數頗眾。<persName key="A010472">毓</persName>與<persName key="A010475">天徹禪師</persName>、<persName key="A010238">大宣教禪師</persName>、<lb
+ed="T" n="0773c18"/>道者其數頗眾。<persName key="A010472">毓</persName>與<persName key="A010475"><anchor xml:id="beg0773sgsz11"/><choice resp="sgsz"><sic>天</sic><corr>大</corr></choice><anchor xml:id="end0773sgsz11"/>徹禪師</persName>、<persName key="A010238">大宣教禪師</persName>、<lb
 ed="T" n="0773c19"/><persName key="A001897">大智禪師</persName>，皆昆仲也，既而南北觀方，曾無告<lb
-ed="T" n="0773c20"/>憚，俾廣聞見，閑養聖胎耳。<date from-iso="0818-02-13" key="j20198722020226" to-iso="0819-02-02">元和十三年</date>，<lb
+ed="T" n="0773c20"/>憚，俾廣聞見，閑養聖胎耳。<date from-iso="+0818-02-13" key="j20198722020226" to-iso="+0819-02-02"><name>元和</name>十三年</date>，<lb
 ed="T" n="0773c21"/>止於<placeName key="PL000000009398">毘陵義興芙蓉山</placeName>，故得名于山焉。<persName key="A010472">毓</persName><lb
 ed="T" n="0773c22"/>為緣作因，有應無著，故所居感化，所至悅<lb
 ed="T" n="0773c23"/>隨，道俗相望，動盈萬數。自此<placeName key="PL000000000197"><anchor xml:id="beg0773006"/>江<anchor xml:id="end0773006"/>南</placeName>之人悟<lb
 ed="T" n="0773c24"/>禪理者多矣。時相國<persName key="A010468">崔公群</persName>坐失守出分<lb
 ed="T" n="0773c25"/>司，後為<placeName key="PL000000043316">華州</placeName>，由<placeName key="PL000000043316">三峯</placeName>出鎮<placeName key="PL000000016955">宣城</placeName>。其地雖邇，<lb
-ed="T" n="0773c26"/>其人則遐。<persName key="A010468">崔公</persName>深樂禮謁，致命誠請，<persName key="A010472">毓</persName>以<lb
+ed="T" n="0773c26"/>其人則遐。<persName key="A010468">崔公</persName>深樂<anchor xml:id="beg0773sgsz12"/>禮<anchor xml:id="end0773sgsz12"/>謁，致命誠請，<persName key="A010472">毓</persName>以<lb
 ed="T" n="0773c27"/>感念而現，大悲為心，莫不果欲隨緣，遊方<lb
-ed="T" n="0773c28"/>順命。<date from-iso="0825-02-02" key="j20224182022795" to-iso="0826-02-14">寶歷元年</date>至于<placeName key="PL000000016941">宛陵禪定寺</placeName>，所以隨順<lb
-ed="T" n="0773c29"/>而揚教也。至<date from-iso="0826-02-15" key="j20227962023032" to-iso="0826-10-09">明年</date>，告歸<placeName key="PL000000015667">齊雲山</placeName>。<date when-iso="0826-10-09" key="j20230322023032">九月合朔</date>，<pb ed="T" n="0774a" xml:id="T50.2061.0774a"/><lb
-ed="T" n="0774a01"/>色相不動而示滅于<ref type="place" target="#PL000000015667">山</ref>之院，享年八十，僧<lb
+ed="T" n="0773c28"/>順命。<date from-iso="+0825-02-02" key="j20224182022795" to-iso="+0826-02-14">寶歷元年</date>至于<placeName key="PL000000016941"><anchor xml:id="beg0773sgsz13"/>宛<anchor xml:id="end0773sgsz13"/>陵禪定寺</placeName>，所以隨順<lb
+ed="T" n="0773c29"/>而揚教也。至<date from-iso="+0826-02-15" key="j20227962023032" to-iso="+0826-10-09">明年</date>，告歸<placeName key="PL000000015667">齊雲山</placeName>。<date when-iso="+0826-10-09" key="j20230322023032">九月合朔</date>，<pb ed="T" n="0774a" xml:id="T50.2061.0774a"/><lb
+ed="T" n="0774a01"/>色相不動而示滅<anchor xml:id="beg0774sgsz1"/>于<anchor xml:id="end0774sgsz1"/><ref type="place" target="#PL000000015667">山</ref>之院，享年八十，僧<lb
 ed="T" n="0774a02"/>臘五十八。是日也，天地如慘，草木如摧，鳥獸<lb
-ed="T" n="0774a03"/>悲啼，雲泉斷咽。緇徒士庶，孺慕充窮。<date from-iso="0826-11-08" key="j20230622023090" to-iso="0826-12-06">十月</date>，棲<lb
-ed="T" n="0774a04"/>神于院之庭，從其宜也。弟子<persName key="A010477">至孚</persName>、<persName key="A010478">契真</persName>、<persName key="A010479">清斡</persName><lb
-ed="T" n="0774a05"/>等慨<ref type="person" target="#A010472">吾師</ref>示滅而後學徒存。<date from-iso="0828-01-25" key="j20235052023888" to-iso="0829-02-11"><anchor xml:id="beg0774001"/>太和<anchor xml:id="end0774001"/>二年</date>，相<lb
+ed="T" n="0774a03"/>悲啼，雲泉斷咽。緇徒士庶，孺慕<ptr type="glossary" target="#g1493"/>充窮。<date from-iso="+0826-11-08" key="j20230622023090" to-iso="+0826-12-06">十月</date>，棲<lb
+ed="T" n="0774a04"/>神于院之庭，從其宜也。弟子<persName key="A010477"><anchor xml:id="beg0774sgsz2"/>至<anchor xml:id="end0774sgsz2"/>孚</persName>、<persName key="A010478">契真</persName>、<persName key="A010479">清斡</persName><lb
+ed="T" n="0774a05"/>等<anchor xml:id="beg0774sgsz3"/>慨<anchor xml:id="end0774sgsz3"/><ref type="person" target="#A010472">吾師</ref>示滅而後學徒存。<date from-iso="+0828-01-25" key="j20235052023888" to-iso="+0829-02-11"><anchor xml:id="beg0774001"/>太<anchor xml:id="end0774001"/>和二年</date>，相<lb
 ed="T" n="0774a06"/>國<persName key="A010476">韋處厚</persName>素尚玄風，道心惇篤，以事奏聞。<lb
-ed="T" n="0774a07"/><ref type="person" target="#A004169">天子</ref>爰降德音，褒以殊禮，追<app type="cb-app" xml:id="begd1e17667"/>諡<anchor xml:id="endd1e17667"/>號塔名。<placeName key="PL000000013239">越<lb
+ed="T" n="0774a07"/><ref type="person" target="#A004169">天子</ref>爰降德音，褒以殊<anchor xml:id="beg0774sgsz4"/>禮<anchor xml:id="end0774sgsz4"/>，追諡號塔名。<placeName key="PL000000013239">越<lb
 ed="T" n="0774a08"/>州</placeName>刺史<persName key="A010473">陸亘</persName>摛翰論譔焉。</p>
     <linkGrp>
         <link targets="#0773c08 #0773c08"/>

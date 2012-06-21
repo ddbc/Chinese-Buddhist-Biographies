@@ -1,19 +1,19 @@
 <?xml version='1.0' encoding='utf-8'?>
-<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0896c06shiWuZuo">
-    <anchor n="T.50.2061.0896c06"/><head><date from-iso="0907-06-10" key="j20524952058534" to-iso="0923-12-22">梁</date>四明山無作傳</head><p><lb
+<div xmlns="http://www.tei-c.org/ns/1.0" type="雜科聲德" xml:id="gsz0896c06shiWuZuo"><lb
+ed="T" n="0896c06"/><anchor n="T.50.2061.0896c06"/><head><date from-iso="+0907-06-10" key="j20524952058534" to-iso="+0923-12-22">梁</date>四明山無作傳</head><p><lb
 ed="T" n="0896c07"/><persName key="A008812">釋無作</persName>，字<persName key="A008812">不用</persName>，姓司馬氏，<placeName key="PL000000009925">姑蘇</placeName>人也。父陳<placeName key="PL000000026073">宛<lb
 ed="T" n="0896c08"/>丘縣</placeName>尉。母<persName key="A019514">戴<roleName>氏</roleName></persName>始妊時，夢異沙門稱姓徐，<lb
 ed="T" n="0896c09"/>住持<placeName key="PL000000009885">流水寺</placeName>，欲寄此安居，言訖<anchor xml:id="beg0896004"/>跏<anchor xml:id="end0896004"/>趺而坐。<lb
 ed="T" n="0896c10"/>其父同夜夢於盤中書一字，甚稱心，自言<lb
-ed="T" n="0896c11"/>可以進上天子。至明，各說所夢，母曰：「意其<lb
+ed="T" n="0896c11"/>可以進上天子。至明，<anchor xml:id="beg0896sgsz19"/>各<anchor xml:id="end0896sgsz19"/>說所夢，母曰：「意其<lb
 ed="T" n="0896c12"/>腹中必沙門也。」矢之曰：「如生兒，放於<placeName key="PL000000009885">流水<lb
-ed="T" n="0896c13"/>寺</placeName>出家。」及生，果岐嶷可愛，且惡葷羶之氣。<lb
+ed="T" n="0896c13"/>寺</placeName>出家。」及生，果<anchor xml:id="beg0896sgsz21"/>岐<anchor xml:id="end0896sgsz21"/>嶷<ptr type="glossary" target="#g1447"/>可愛，且惡葷羶之氣。<lb
 ed="T" n="0896c14"/>年迨四歲，母自教誦習，利金易礪，記憶無<lb
 ed="T" n="0896c15"/>遺。厥父欲其應童子舉業，漸見風範和潤，<lb
 ed="T" n="0896c16"/>且恒有出塵之意。俄爾父偷窺姚氏之女且<lb
 ed="T" n="0896c17"/>美容儀，酷欲取之。母切忌之，因曰：「或捨是<lb
 ed="T" n="0896c18"/>子出家，寬汝所取。」父乃許之，送入<placeName key="PL000000009885">流水寺</placeName><lb
-ed="T" n="0896c19"/>中。纔及月餘，姚民<anchor xml:id="beg0896005"/>仳<anchor xml:id="end0896005"/>離，時謂此女是善知<lb
+ed="T" n="0896c19"/>中。纔及月餘，姚<anchor xml:id="beg0896sgsz23"/><choice resp="sgsz"><sic>民</sic><corr>氏</corr></choice><anchor xml:id="end0896sgsz23"/><anchor xml:id="beg0896005"/>仳<anchor xml:id="end0896005"/>離，時謂此女是善知<lb
 ed="T" n="0896c20"/>識，為<persName key="A008812">作</persName>之出家增上緣矣。年二十，受具足<lb
 ed="T" n="0896c21"/>法。相次講通刪補律鈔、法華、上生等經、百法<lb
 ed="T" n="0896c22"/>論。一性五性宗教，勵精尋究。<persName key="A002174">孔</persName>、<persName key="A002104">老</persName>書篇，無不<lb
@@ -21,16 +21,16 @@ ed="T" n="0896c23"/>獵涉。後參其玄學於<persName key="A003677">雪峯存
 ed="T" n="0896c24"/>奧。至廬陵<placeName key="PL000000019477">三顧山</placeName>，檀越造云亭院<!--找不到此地-->，<placeName key="PL000000018603">豫章</placeName>創<lb
 ed="T" n="0896c25"/><placeName key="PL000000018601">南平院</placeName>，請<persName key="A008812">作</persName>住持，皆拂衣而去。前進士<persName key="A013955">唐<lb
 ed="T" n="0896c26"/>稟</persName>作藏經碑，述<persName key="A008812">作公</persName>避請之由。居<placeName key="PL000000018628">洪井</placeName>十<lb
-ed="T" n="0896c27"/>載，且未識洪<anchor xml:id="beg0896006"/>師<anchor xml:id="end0896006"/>鍾氏之面。乃遊會稽<placeName key="PL000000012470">四明</placeName>，<lb
+ed="T" n="0896c27"/>載，且未識洪<anchor xml:id="beg0896006"/><choice resp="sgsz"><sic>師</sic><corr>帥</corr></choice><anchor xml:id="end0896006"/>鍾氏之面。乃遊會稽<placeName key="PL000000012470">四明</placeName>，<lb
 ed="T" n="0896c28"/>因有終焉之志。吳越<persName key="A003552">武肅王錢<roleName>氏</roleName></persName>仰重，召略<lb
 ed="T" n="0896c29"/>出<placeName key="PL000000012470">四明</placeName>，因便歸山，蓋謝病也。有詩杼意呈<pb ed="T" n="0897a" xml:id="T50.2061.0897a"/><lb
 ed="T" n="0897a01"/>王，王亦不留。詩云：「雲鶴性孤單，爭堪名利<lb
 ed="T" n="0897a02"/>關？銜恩雖入國，辭病却歸山。」時奉化<placeName key="PL000000014829">樂安</placeName><lb
 ed="T" n="0897a03"/><persName key="A013760">孫郃</persName>退居嘯傲，不交緇伍，唯接<persName key="A008812">作</persName>，交談終<lb
-ed="T" n="0897a04"/>日。進士<persName key="A013956">楊弇</persName>亦慕為林下之遊。以梁<date key="j20524952053950" notAfter-iso="0911-06-04" notBefore-iso="0907-06-10">開平<lb
-ed="T" n="0897a05"/></date>中卒于<placeName key="PL000000012470">四明</placeName>，春秋五十六。初<persName key="A008812">作</persName>善草隷，筆<lb
-ed="T" n="0897a06"/>迹酋健，人多摹寫成法。述諸色禮懺文數十<lb
-ed="T" n="0897a07"/>本，注<persName key="A001503">道安</persName>六時禮佛文一卷，并詩歌，並行<lb
+ed="T" n="0897a04"/>日。進士<persName key="A013956">楊弇</persName>亦慕為林下之遊。以梁<date key="j20524952053950" notAfter-iso="+0911-06-04" notBefore-iso="+0907-06-10">開平<lb
+ed="T" n="0897a05"/>中</date>卒于<placeName key="PL000000012470">四明</placeName>，春秋五十六。初<persName key="A008812">作</persName>善草隷，筆<lb
+ed="T" n="0897a06"/>迹酋健，人多摹寫成法。述諸色<anchor xml:id="beg0897sgsz1"/>禮<anchor xml:id="end0897sgsz1"/>懺文數十<lb
+ed="T" n="0897a07"/>本，注<persName key="A001503">道安</persName>六時<anchor xml:id="beg0897sgsz3"/>禮<anchor xml:id="end0897sgsz3"/>佛文一卷，并詩歌，並行<lb
 ed="T" n="0897a08"/>于代。<persName key="A008812">作</persName>不入尼寺，不謁公門，不修名刺，<lb
 ed="T" n="0897a09"/>不趨時利，自號<persName key="A008812">逍遙子</persName>焉。</p>
     <linkGrp>

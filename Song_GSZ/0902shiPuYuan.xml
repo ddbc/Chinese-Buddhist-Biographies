@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='utf-8'?>
-<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0774c28shiPuYuan">
-    <anchor n="T.50.2061.0774c28"/><head><date from-iso="0618-06-21" key="j19469512052491" to-iso="0907-06-06">唐</date><placeName key="PL000000016619">池州南泉院</placeName><persName key="A003889">普願</persName>傳</head><p><lb
+<div xmlns="http://www.tei-c.org/ns/1.0" type="習禪" xml:id="gsz0774c28shiPuYuan">
+    <anchor n="T.50.2061.0774c28"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date><placeName key="PL000000016619">池州南泉院</placeName><persName key="A003889">普願</persName>傳</head><p><lb
 ed="T" n="0774c29"/><persName key="A003889">釋普願</persName>，俗姓王，<placeName key="PL000000023249">鄭州新鄭</placeName>人也。其宗嗣於<placeName key="PL000000018627">江<pb ed="T" n="0775a" xml:id="T50.2061.0775a"/><lb
-ed="T" n="0775a01"/>西</placeName><persName key="A003623">大寂</persName>，<persName key="A003623">大寂</persName>師<placeName key="PL000000028928">南嶽</placeName><persName key="A004015">觀音讓</persName>，<persName key="A004015">讓</persName>則<persName key="A001719">曹溪</persName>之冡<lb
+ed="T" n="0775a01"/>西</placeName><persName key="A003623">大寂</persName>，<persName key="A003623">大寂</persName>師<placeName key="PL000000028928">南嶽</placeName><persName key="A004015">觀音讓</persName>，<persName key="A004015">讓</persName>則<persName key="A001719">曹溪</persName>之<anchor xml:id="beg0775sgsz1"/>冡<anchor xml:id="end0775sgsz1"/><lb
 ed="T" n="0775a02"/>子也，於<persName key="A003889">願</persName>為<anchor xml:id="beg0775001"/>大<anchor xml:id="end0775001"/>父，其高曾可知也，則<placeName key="PL000000016614">南泉</placeName><lb
-ed="T" n="0775a03"/>之禪有自來矣。<persName key="A003889">願</persName>在孕，母不喜葷血。<date from-iso="0757-01-29" key="j19975771997960" to-iso="0758-02-16">至德<lb
+ed="T" n="0775a03"/>之禪有自來矣。<persName key="A003889">願</persName>在孕，母不喜葷血。<date from-iso="+0757-01-29" key="j19975771997960" to-iso="+0758-02-16"><name>至德</name><lb
 ed="T" n="0775a04"/>二年</date>，跪請於父母乞出家，脫然有去覊鞅<lb
-ed="T" n="0775a05"/>之色。乃投<placeName key="PL000000023209">密縣大隈山</placeName><persName key="A018083">大慧禪師</persName><note resp="sgsz">《國譯一切經．宋高僧傳．頁215》云此「<persName key="A018083">大慧禪師</persName>」為「<persName key="A004015">釋懷讓</persName>」。然<persName key="A004015">釋懷讓</persName>已於<date when-iso="0744-09-24" key="j19930671993067">天寶三載八月十日</date>終于<placeName key="PL000000028928">衡嶽</placeName>。則此二位「大慧」應不為一人。</note>受業。苦<lb
+ed="T" n="0775a05"/>之色。乃投<placeName key="PL000000023209">密縣大隈山</placeName><persName key="A018083">大慧禪師</persName><ptr target="#n1481"/>受業。苦<lb
 ed="T" n="0775a06"/>節篤勵，胼胝皸瘃，不敢為身主，其<ref type="person" target="#A018083">師</ref>異<ref type="person" target="#A003889">之</ref>。<lb
-ed="T" n="0775a07"/><date from-iso="0777-02-17" key="j20049012005254" to-iso="0778-02-05">大曆十二年</date>，<persName key="A003889">願</persName>春秋三十矣，詣<placeName key="PL000000023256">嵩山會善寺</placeName><lb
+ed="T" n="0775a07"/><date from-iso="+0777-02-17" key="j20049012005254" to-iso="+0778-02-05"><name>大曆</name>十二年</date>，<persName key="A003889">願</persName>春秋三十矣，詣<placeName key="PL000000023256">嵩山會善寺</placeName><lb
 ed="T" n="0775a08"/><persName key="A010498">暠律師</persName>受具，習<ref type="person" target="#A000747">相部</ref>舊章，究毘尼篇聚之<lb
 ed="T" n="0775a09"/>學。後遊講肆，上《楞伽》頂，入《華嚴》海會，抉《中<lb
 ed="T" n="0775a10"/>百門》觀之關鑰，領玄機於疏論之外。當其<lb
@@ -17,23 +17,23 @@ ed="T" n="0775a12"/>聽之後，尋繹師說，是非紛錯。<persName key="A00
 ed="T" n="0775a13"/>語，群論皆弭曰：「夫人不言乃言爾耳。」自後<lb
 ed="T" n="0775a14"/><anchor xml:id="beg0775002"/>含<anchor xml:id="end0775002"/>景匿耀，似不能言者，人以其無法說，<lb
 ed="T" n="0775a15"/>或扣其關，亦堅拒不洩。時有密賾<ptr type="glossary" target="#g331"/>其機者，<lb
-ed="T" n="0775a16"/>微露頭角，乃知其非無法說，時未至矣。<date from-iso="0795-01-30" key="j20114572011840" to-iso="0796-02-17">貞<lb
-ed="T" n="0775a17"/>元十一年</date>，拄錫<placeName key="PL000000016614">池陽南泉山</placeName>，<anchor xml:id="beg0775003"/>堙<anchor xml:id="end0775003"/>谷刊木，以<lb
+ed="T" n="0775a16"/>微露頭角，乃知其非無法說，時未至矣。<date from-iso="+0795-01-30" key="j20114572011840" to-iso="+0796-02-17">貞<lb
+ed="T" n="0775a17"/>元十一年</date>，<anchor xml:id="beg0775sgsz2"/><choice resp="sgsz"><sic>拄</sic><corr>挂</corr></choice><anchor xml:id="end0775sgsz2"/>錫<placeName key="PL000000016614">池陽南泉山</placeName>，<anchor xml:id="beg0775003"/>堙<anchor xml:id="end0775003"/>谷刊木，以<lb
 ed="T" n="0775a18"/>構禪宇，簑笠飯牛，溷于牧童。斫山畬田，種<lb
 ed="T" n="0775a19"/>食以饒。足不下<placeName key="PL000000016614">南泉</placeName>三十年矣。夫洪鐘不<lb
-ed="T" n="0775a20"/>為<anchor xml:id="beg0775004"/>莛<anchor xml:id="end0775004"/>撞發聲，聲之者，故有待矣。<date from-iso="0827" key="j20231922024000" to-iso="0829">太和年<lb
+ed="T" n="0775a20"/>為<anchor xml:id="beg0775004"/>莛<anchor xml:id="end0775004"/>撞發聲，聲之者，故有待矣。<date notBefore-iso="+0827-03-18" key="j20231922024000" notAfter-iso="+0829-06-03"><anchor xml:id="beg0775sgsz3"/>太<anchor xml:id="end0775sgsz3"/>和年<lb
 ed="T" n="0775a21"/>初</date>，<placeName key="PL000000016955">宣</placeName>使<persName key="A010473">陸公亘</persName>、前<placeName key="PL000000016923">池陽</placeName>太守皆知其抗迹塵<lb
 ed="T" n="0775a22"/>外，為四方法眼，與護軍<placeName key="PL000000009523">彭城</placeName><persName key="A010499">劉公</persName>同迎請<lb
-ed="T" n="0775a23"/>下<ref type="place" target="#PL000000016614">山</ref>，北面申禮。不經再歲，毳衣之子奔走<lb
-ed="T" n="0775a24"/>道途，不下數百人。<date key="j20260052026005" when-iso="0834-11-29">太和甲寅歲十月二十一<lb
-ed="T" n="0775a25"/>日</date>示疾。<date key="j20260662026066" when-iso="0835-01-29">十二月二十三日</date>，有白虹貫於禪<lb
+ed="T" n="0775a23"/>下<ref type="place" target="#PL000000016614">山</ref>，北面申<anchor xml:id="beg0775sgsz4"/>禮<anchor xml:id="end0775sgsz4"/>。不經再歲，毳衣<ptr type="glossary" target="#g1417"/>之子奔走<lb
+ed="T" n="0775a24"/>道途，不下數百人。<date key="j20260052026005" when-iso="+0834-11-29"><anchor xml:id="beg0775sgsz5"/>太<anchor xml:id="end0775sgsz5"/>和甲寅歲十月二十一<lb
+ed="T" n="0775a25"/>日</date>示疾。<date key="j20260662026066" when-iso="+0835-01-29">十二月二十三日</date>，有白虹貫於禪<lb
 ed="T" n="0775a26"/>室後峯，占之者：得非<ref type="person" target="#A003889">南泉</ref>謝世乎？是日西<lb
 ed="T" n="0775a27"/>峯，巨石崩，聲數十里。當晝，有乳虎遶禪林<lb
-ed="T" n="0775a28"/>而號，眾咸異之。<date key="j20260682026068" when-iso="0835-01-31">二十五日</date>東方明，告門人<lb
+ed="T" n="0775a28"/>而號，眾咸異之。<date key="j20260682026068" when-iso="+0835-01-31">二十五日</date>東方明，告門人<lb
 ed="T" n="0775a29"/>曰：「星翳燈幻亦久矣，勿謂<ref type="person" target="#A003889">吾</ref>有去來也。」言<pb ed="T" n="0775b" xml:id="T50.2061.0775b"/><lb
 ed="T" n="0775b01"/>訖而謝，春秋八十七，僧臘五十八。<persName key="A010500">契元</persName>、<persName key="A009804">文暢</persName><lb
 ed="T" n="0775b02"/>等凡九百人，皆布衣墨巾，泣血于山門。赴喪<lb
-ed="T" n="0775b03"/>會葬者相繼<anchor xml:id="beg0775005"/>于<anchor xml:id="end0775005"/>路，哀號之聲震于崖谷。<date from-iso="0835-02-06" key="j20260742026427" to-iso="0836-01-25">乙<lb
+ed="T" n="0775b03"/>會葬者相繼<anchor xml:id="beg0775005"/>于<anchor xml:id="end0775005"/>路，哀號之聲震于崖谷。<date from-iso="+0835-02-06" key="j20260742026427" to-iso="+0836-01-25">乙<lb
 ed="T" n="0775b04"/>卯歲</date>，門人奉全身於靈塔，從其教也。膳部<lb
 ed="T" n="0775b05"/>員外郎史館修撰<persName key="A010303">劉軻</persName>欽若前烈，追德頌美<lb
 ed="T" n="0775b06"/>焉。</p>

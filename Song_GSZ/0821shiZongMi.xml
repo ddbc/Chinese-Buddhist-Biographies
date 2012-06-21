@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
-<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0741c22shiZongMi"><lb
-ed="T" n="0741c22"/><anchor n="T.50.2061.0741c22"/><head><date from-iso="0618-06-21" key="j19469512052491" to-iso="0907-06-06">唐</date><placeName key="PL000000042657">圭峯草堂寺</placeName><persName key="A000587">宗密</persName>傳（<persName key="A004166">圓禪師</persName> <persName key="A004337">照禪師</persName>）</head><p><lb
+<div xmlns="http://www.tei-c.org/ns/1.0" type="義解" xml:id="gsz0741c22shiZongMi"><lb
+ed="T" n="0741c22"/><anchor n="T.50.2061.0741c22"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date><placeName key="PL000000042657">圭峯草堂寺</placeName><persName key="A000587">宗密</persName>傳（<persName key="A004166">圓禪師</persName> <persName key="A004337">照禪師</persName>）</head><p><lb
 ed="T" n="0741c23"/><persName key="A000587">釋宗密</persName>，姓何氏，<placeName key="PL000000036506">果州西充</placeName>人也。家本豪盛，少<lb
 ed="T" n="0741c24"/>通儒書，欲干世以活生靈，負俊才而隨<lb
-ed="T" n="0741c25"/>計吏<ptr type="glossary" target="#g921"/>。<date from-iso="0807-02-15" key="j20158562016209" to-iso="0808-02-03">元和二年</date>，偶謁<placeName key="PL000000035824">遂州</placeName><persName key="A004166">圓禪師</persName>，<persName key="A004166">圓</persName>未與<lb
+ed="T" n="0741c25"/>計吏<ptr type="glossary" target="#g921"/>。<date from-iso="+0807-02-15" key="j20158562016209" to-iso="+0808-02-03"><name>元和</name>二年</date>，偶謁<placeName key="PL000000035824">遂州</placeName><persName key="A004166">圓禪師</persName>，<persName key="A004166">圓</persName>未與<lb
 ed="T" n="0741c26"/>語，<persName key="A000587">密</persName>欣然而慕<ref type="person" target="#A004166">之</ref>，乃從其削染受教。此年<lb
 ed="T" n="0741c27"/>進具于<persName key="A009674">拯律師</persName>。尋謁<persName key="A005287">荊南張</persName>，<persName key="A005287">張</persName>曰：「<ref type="person" target="#A000587">汝</ref>傳教<lb
 ed="T" n="0741c28"/>人也，當宣導於<ref type="place" target="#PL000000042189">帝都</ref>。」復見<placeName key="PL000000023581">洛陽</placeName><persName key="A004337">照禪師</persName>，<persName key="A004337">照</persName><lb
@@ -18,12 +18,12 @@ ed="T" n="0742a07"/>集諸宗禪言，為《禪藏》<ptr target="#n925"/>，總
 ed="T" n="0742a08"/>偈、議論等。又《四分律疏》五卷、《鈔懸談》二卷，凡<lb
 ed="T" n="0742a09"/>二百許卷，圖六面。皆本一心而貫諸法，顯<lb
 ed="T" n="0742a10"/>真體而融事理，超群有於對待<ptr type="glossary" target="#g930"/>，冥物我而<lb
-ed="T" n="0742a11"/>獨運矣。<persName key="A000587">密</persName>累入內殿，問其法要。<date key="j20238092023809" when-iso="0828-11-24">大和二年<lb
-ed="T" n="0742a12"/>慶成節</date>，徵賜紫方袍為大德。尋請歸山。<date when-iso="0841-02-05" key="j20282652028265">會<lb
+ed="T" n="0742a11"/>獨運矣。<persName key="A000587">密</persName>累入內殿，問其法要。<date key="j20238092023809" when-iso="+0828-11-24">大和二年<lb
+ed="T" n="0742a12"/>慶成節</date>，徵賜紫方袍為大德。尋請歸山。<date when-iso="+0841-02-05" key="j20282652028265">會<lb
 ed="T" n="0742a13"/>昌元年正月六日</date>坐滅於<placeName key="PL000000042644">興福塔院</placeName>，儼若平<lb
-ed="T" n="0742a14"/>日，容貌益悅。<date when-iso="0841-02-06" key="j20282662028266">七日</date>，遷于函，其自證之力可<lb
-ed="T" n="0742a15"/>知矣。<date key="j20282812028281" when-iso="0841-02-21">其月二十二日</date>，道俗等奉全身于<placeName key="PL000000042639">圭峯</placeName>，<lb
-ed="T" n="0742a16"/><date key="j20283012028301" when-iso="0841-03-13">二月十三日</date><anchor xml:id="beg0742001"/><choice resp="sgsz"><sic>茶</sic><corr>荼</corr></choice><anchor xml:id="end0742001"/>毘，得舍利數十粒，明白而潤<lb
+ed="T" n="0742a14"/>日，容貌益悅。<date when-iso="+0841-02-06" key="j20282662028266">七日</date>，遷于函，其自證之力可<lb
+ed="T" n="0742a15"/>知矣。<date key="j20282812028281" when-iso="+0841-02-21">其月二十二日</date>，道俗等奉全身于<placeName key="PL000000042639">圭峯</placeName>，<lb
+ed="T" n="0742a16"/><date key="j20283012028301" when-iso="+0841-03-13">二月十三日</date><anchor xml:id="beg0742001"/><choice resp="sgsz"><sic>茶</sic><corr>荼</corr></choice><anchor xml:id="end0742001"/>毘，得舍利數十粒，明白而潤<lb
 ed="T" n="0742a17"/>大。後門人泣而求諸煨中，必得而歸，悉斂<lb
 ed="T" n="0742a18"/>藏于石室，其無緣之慈可知矣。俗齡六十二，<lb
 ed="T" n="0742a19"/>僧臘三十四。遺誡令：「舁屍施鳥獸，焚其骨<lb
@@ -31,15 +31,15 @@ ed="T" n="0742a20"/>而散之，勿塔，勿得悲慕，以亂禪觀。每清明
 ed="T" n="0742a21"/>上山，必講道七日而後去。其餘住持儀則當<lb
 ed="T" n="0742a22"/>合律科，違者非<ref type="person" target="#A000587">吾</ref>弟子。」初，<persName key="A000587">密</persName>道既芬馨，名<lb
 ed="T" n="0742a23"/>惟炟赫，內眾慕羶<ptr type="glossary" target="#g931"/>既如彼，朝貴答響又如<lb
-ed="T" n="0742a24"/>此。當<date from-iso="0806" key="j20154742022417" to-iso="0825">長慶、元和</date>已來，中官<ptr type="glossary" target="#g932"/>立功執政者孔<lb
+ed="T" n="0742a24"/>此。當<date from-iso="+0806-01-29" key="j20154742022417" to-iso="+0825-02-01">長慶、<name>元和</name></date>已來，中官<ptr type="glossary" target="#g932"/>立功執政者孔<lb
 ed="T" n="0742a25"/>熾，內外猜疑，人主危殆。時宰臣<persName key="A004338">李訓</persName>酷重于<lb
-ed="T" n="0742a26"/><persName key="A000587">密</persName>，及<date from-iso="0836" key="j20264282028267" to-iso="0841">開成</date>中偽甘露發<ptr target="#n425"/>，中官率禁兵五百<lb
+ed="T" n="0742a26"/><persName key="A000587">密</persName>，及<date notBefore-iso="+0836-01-26" key="j20264282028267" notAfter-iso="+0841-02-07"><name>開成</name>中</date>偽甘露發<ptr target="#n425"/>，中官率禁兵五百<lb
 ed="T" n="0742a27"/>人出閤，所遇者一皆屠戮。時<persName key="A004341">王涯</persName>、<persName key="A004340">賈餗</persName>、<persName key="A004342">舒<lb
 ed="T" n="0742a28"/>元輿</persName>方在中書會食，聞難作，奔入<placeName key="PL000000042627">終南</placeName>投<lb
 ed="T" n="0742a29"/><persName key="A000587">密</persName>。唯<persName key="A004338">李訓</persName>欲求剪髮，匿之，從者止之，<persName key="A004338">訓</persName>改<pb ed="T" n="0742b" xml:id="T50.2061.0742b"/><lb
 ed="T" n="0742b01"/>圖趨<placeName key="PL000000042848">鳳翔</placeName>。時<persName key="A004339">仇士良</persName>知之，遣人捕<persName key="A000587">密</persName>入左<lb
 ed="T" n="0742b02"/>軍，面數<anchor xml:id="beg0742002"/><choice resp="sgsz"><sic>共</sic><corr>其</corr></choice><anchor xml:id="end0742002"/>不告之罪，將害<ref type="person" target="#A000587">之</ref>。<persName key="A000587">密</persName>怡然曰：<lb
-ed="T" n="0742b03"/>「<ref type="person" target="#A000587">貧道</ref>識<persName key="A004338">訓</persName>年深，亦知其反叛，然<ref type="person" target="#A002799">本師</ref><ptr type="glossary" target="#g190"/>教法，遇<lb
+ed="T" n="0742b03"/>「<ref type="person" target="#A000587">貧道</ref>識<persName key="A004338">訓</persName>年深，亦知其反叛，然<ref type="person" target="#A002799">本師</ref><ptr rend="display:none;" type="glossary" target="#g190"/>教法，遇<lb
 ed="T" n="0742b04"/>苦即救，不愛身命，死固甘心。」中尉<persName key="A004344">魚恒志</persName><lb
 ed="T" n="0742b05"/>嘉之，奏釋其罪。朝士聞之，扼腕出涕焉。或<lb
 ed="T" n="0742b06"/>曰：「<persName key="A000587">密師</persName>為禪耶，律耶，經論耶？」則對曰：「夫<persName key="A000587">密</persName>者<lb

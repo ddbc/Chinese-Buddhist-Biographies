@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='utf-8'?>
-<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0847a02shiYinFeng">
-    <anchor n="T.50.2061.0847a02"/><head><date from-iso="0618-06-21" key="j19469512052491" to-iso="0907-06-06">唐</date>代州北臺山<persName key="A009478">隱峯</persName>傳（<persName key="A012836">亡名</persName> <persName key="A012837">雉鳩和尚</persName>）</head><p><lb
+<div xmlns="http://www.tei-c.org/ns/1.0" type="感通" xml:id="gsz0847a02shiYinFeng"><lb
+ed="T" n="0847a02"/><anchor n="T.50.2061.0847a02"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date>代州北臺山<persName key="A009478">隱峯</persName>傳（<persName key="A012836">亡名</persName> <persName key="A012837">雉鳩和尚</persName>）</head><p><lb
 ed="T" n="0847a03"/><persName key="A009478">釋隱峯</persName>，俗姓鄧氏，<placeName key="PL000000018253">建州邵武</placeName>人也。稚歲憨狂，<lb
 ed="T" n="0847a04"/>不侚父母之命，出家納法。後往觀方，見<placeName key="PL000000016923">池<lb
 ed="T" n="0847a05"/>陽</placeName><persName key="A003889">南泉禪師</persName>，令取澡罐，提舉相應，為願公<lb
-ed="T" n="0847a06"/>所許焉，終認嗣<persName key="A003623">馬禪師</persName>耳。<persName key="A009478">峯</persName><date from-iso="0806" key="j20154742020606" to-iso="0820">元和</date>中言遊<lb
+ed="T" n="0847a06"/>所許焉，終認嗣<persName key="A003623">馬禪師</persName>耳。<persName key="A009478">峯</persName><date notBefore-iso="+0806-01-29" key="j20154742020606" notAfter-iso="+0820-02-17"><name>元和</name>中</date>言遊<lb
 ed="T" n="0847a07"/><placeName key="PL000000005250">五臺山</placeName>，路出<placeName key="PL000000023026">淮西</placeName>，屬<persName key="A010372">吳元濟</persName>阻兵，違拒王<lb
 ed="T" n="0847a08"/>命。官軍與賊遇，交鋒未決勝負。<persName key="A009478">峯</persName>曰：「<persName key="A009478">我</persName>去<lb
 ed="T" n="0847a09"/>解其殺戮。」乃擲錫空中，飛身冉冉隨去，介<lb
@@ -15,7 +15,7 @@ ed="T" n="0847a13"/>舁就爇。屹定如山，併力不動，遠近瞻覩，驚
 ed="T" n="0847a14"/>歎希奇。<persName key="A009478">峯</persName>有妹為尼，入<placeName key="PL000000005250">五臺</placeName>，瞋目咄之<lb
 ed="T" n="0847a15"/>曰：「老兄疇昔為不循法律，死且熒惑於人。」<lb
 ed="T" n="0847a16"/>時眾已知妹雖骨肉，豈敢携貳，請從恒度，<lb
-ed="T" n="0847a17"/>以手輕攘，僨然而仆。遂荼毘之，收舍利入<lb
+ed="T" n="0847a17"/>以手輕攘，僨然而仆。遂<anchor xml:id="beg0847sgsz1"/>荼<anchor xml:id="end0847sgsz1"/>毘之，收舍利入<lb
 ed="T" n="0847a18"/>塔，號<persName key="A009478">鄧隱峯</persName>。遺一頌云：「獨絃琴子為君<lb
 ed="T" n="0847a19"/>彈，松柏長青不怯寒。金鑛相和性自別，任<lb
 ed="T" n="0847a20"/>向君前試取看。」</p>
@@ -31,9 +31,9 @@ ed="T" n="0847a27"/>其實。是故《春秋》一經，五家作傳，可得同
 ed="T" n="0847a28"/>又漢州<placeName key="PL000000035305">開化寺</placeName><persName key="A012836">釋亡名</persName>，先因入寺，見瑞應交<lb
 ed="T" n="0847a29"/>現，遂誓捨身，剋苦為期。忽於殿中焚香<pb ed="T" n="0847b" xml:id="T50.2061.0847b"/><lb
 ed="T" n="0847b01"/>次，俄覩地屋皆為瑠璃色，有菩薩乘五色<lb
-ed="T" n="0847b02"/>雲下庭中曰：「<persName key="A012836">汝</persName>極堅至，必當得道，吾求證<lb
-ed="T" n="0847b03"/><persName key="A012836">汝</persName>。」<persName key="A012836">亡名</persName>叩頭禮拜，斯須不見。寺僧至云「學<lb
-ed="T" n="0847b04"/>院內皆變瑠璃色。」歎嗟不已。其僧復勤節<lb
+ed="T" n="0847b02"/>雲下庭中曰：「<persName key="A012836">汝</persName>極堅至，必當得道，吾<anchor xml:id="beg0847sgsz3"/><choice resp="sgsz"><sic>求</sic><corr>來</corr></choice><anchor xml:id="end0847sgsz3"/>證<lb
+ed="T" n="0847b03"/><persName key="A012836">汝</persName>。」<persName key="A012836">亡名</persName>叩頭<anchor xml:id="beg0847sgsz5"/>禮<anchor xml:id="end0847sgsz5"/>拜，斯須不見。寺僧至云「學<lb
+ed="T" n="0847b04"/>院內皆變瑠璃色。」<anchor xml:id="beg0847sgsz7"/>歎<anchor xml:id="end0847sgsz7"/>嗟不已。其僧復勤節<lb
 ed="T" n="0847b05"/>行焉。</p>
     <p xml:id="pT50p0847b0601"><lb
 ed="T" n="0847b06"/>又<placeName key="PL000000025497">鄧州</placeName>有僧<persName key="A012837">亡名</persName>，年且衰朽，遊行<placeName key="PL000000025498">穰</placeName>、<placeName key="PL000000025497">鄧<anchor xml:id="beg0847002"/>州<anchor xml:id="end0847002"/></placeName><lb
@@ -42,8 +42,8 @@ ed="T" n="0847b08"/>迴。嘗饌羞之次，有貧士求飡，分其二足與<lb
 ed="T" n="0847b09"/>之食。食訖，<persName key="A012837">老僧</persName>盥漱，雙鳩從口而出，一則能<lb
 ed="T" n="0847b10"/>行，一則匍匐在地。貧士驚怪，亦吐其飯，其鳩<lb
 ed="T" n="0847b11"/>二足復全。<persName key="A012837">其僧</persName>實不食此禽。自爾眾人崇<lb
-ed="T" n="0847b12"/>重，號曰<persName key="A012837">南陽鴙鳩和尚</persName>也。有歎之曰：「昔<placeName key="PL000000034982">青<lb
-ed="T" n="0847b13"/>城山</placeName><persName key="A006906">香闍黎</persName>飲酒啖肴，然後吐出，鷄羊肉<lb
+ed="T" n="0847b12"/>重，號曰<persName key="A012837">南陽鴙鳩和尚</persName>也。有<anchor xml:id="beg0847sgsz9"/>歎<anchor xml:id="end0847sgsz9"/>之曰：「昔<placeName key="PL000000034982">青<lb
+ed="T" n="0847b13"/>城山</placeName><persName key="A006906">香闍<anchor xml:id="beg0847sgsz11"/>黎<anchor xml:id="end0847sgsz11"/></persName>飲酒啖肴，然後吐出，鷄羊肉<lb
 ed="T" n="0847b14"/>皆化作本形，飛鳴而入坑穴中，同也。」</p>
     <linkGrp>
         <link targets="#0847a04 #0847a06"/>

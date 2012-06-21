@@ -1,33 +1,33 @@
 <?xml version='1.0' encoding='utf-8'?>
-<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0718c18shiShiChaNanTuo"><lb
-ed="T" n="0718c18"/><anchor n="T.50.2061.0718c18"/><head><date from-iso="0618-06-21" key="j19469512052491" to-iso="0907-06-06">唐</date><placeName key="PL000000023548">洛京大遍空寺</placeName><persName key="A001606">實叉難陀</persName>傳</head><p><lb
-ed="T" n="0718c19"/><persName key="A001606">釋實叉難陀</persName>，一云<persName key="A001606">施乞叉難陀</persName>，華言<persName key="A001606">學喜</persName>，<lb
-ed="T" n="0718c20"/><placeName key="PL000000047983">葱嶺北于<anchor xml:id="beg0718004"/>闐<anchor xml:id="end0718004"/></placeName>人也。智度恢曠，風格不群，善<lb
-ed="T" n="0718c21"/>大、小乘，旁通異學。<persName key="A002099">天后</persName>明揚佛日，崇重大<lb
-ed="T" n="0718c22"/>乘，以《華嚴》舊經，處會<ptr type="glossary" target="#g332"/>未備，遠聞<placeName key="PL000000047983">于闐</placeName>有斯<lb
-ed="T" n="0718c23"/>梵本，發使求訪，并請譯人。<persName key="A001606">叉</persName>與經夾同臻<lb
-ed="T" n="0718c24"/><ref target="#PL000000042189" type="place">帝闕</ref>，以<date from-iso="0694-11-26" key="j19748681975200" to-iso="0695-10-24">證聖元年乙未</date>於<placeName key="PL000000023548">東都大內大遍空<lb
+<div xmlns="http://www.tei-c.org/ns/1.0" type="譯經" xml:id="gsz0718c18shiShiChaNanTuo"><lb
+ed="T" n="0718c18"/><anchor n="T.50.2061.0718c18"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date><placeName key="PL000000023548">洛京大遍空寺</placeName><persName key="A001606">實叉難陀</persName>傳<ptr target="#n93"/></head><p><lb
+ed="T" n="0718c19"/><persName key="A001606">釋實叉難陀</persName>，一云<persName key="A001606">施乞叉難陀</persName>，<name>華</name>言<persName key="A001606">學喜</persName>，<lb
+ed="T" n="0718c20"/><placeName key="PL000000049641">葱嶺</placeName>北<placeName key="PL000000047983">于<anchor xml:id="beg0718004"/>闐<anchor xml:id="end0718004"/></placeName>人也。智度恢曠，風格不群，善<lb
+ed="T" n="0718c21"/>大、小乘，旁通異學。</p><p><persName key="A002099">天后</persName>明揚佛日，崇重大<lb
+ed="T" n="0718c22"/>乘，以《華嚴》舊經<ptr target="#n571"/>，處會<ptr type="glossary" target="#g332"/>未備，遠聞<placeName key="PL000000047983">于闐</placeName>有斯<lb
+ed="T" n="0718c23"/><name>梵</name>本，發使求訪，并請譯人。<persName key="A001606">叉</persName>與經夾同臻<lb
+ed="T" n="0718c24"/><ref target="#PL000000042189" type="place">帝闕</ref>，以<date from-iso="+0694-11-26" key="j19748681975200" to-iso="+0695-10-24"><name>證聖</name>元年乙未</date>於<placeName key="PL000000023548">東都大內大遍空<lb
 ed="T" n="0718c25"/>寺</placeName>翻譯。<persName key="A002099">天后</persName>親臨法座，煥發序文，自運仙<lb
 ed="T" n="0718c26"/>毫，首題名品。<placeName key="PL000000048209">南印度</placeName>沙門<persName key="A001358">菩提流志</persName>、沙門<persName key="A001470">義<lb
-ed="T" n="0718c27"/>淨</persName>同宣梵本，後付沙門<persName key="A001192">復禮</persName>、<persName key="A002450">法藏</persName>等於<placeName key="PL000000023657">佛<lb
-ed="T" n="0718c28"/>授記寺</placeName>譯成八十卷。<date from-iso="0698-12-11" key="j19763441976697" to-iso="0699-11-29">聖曆二年</date>功畢。至<date from-iso="0700-05-31" key="j19768801977141" to-iso="0701-02-16">久<lb
-ed="T" n="0718c29"/>視庚子</date>，<ref target="#A002099" type="person">駕</ref>幸<placeName key="PL000000023827">潁川三陽宮</placeName><ptr target="#n333"/>，詔<persName key="A001606">叉</persName>譯《大乘入<pb ed="T" n="0719a" xml:id="T50.2061.0719a"/><lb
-ed="T" n="0719a01"/>楞伽經》，<persName key="A002099">天后</persName>復製序焉。又於<placeName key="PL000000042134">京師清禪寺</placeName>及<lb
-ed="T" n="0719a02"/><placeName key="PL000000023657">東都佛授記寺</placeName>譯《文殊授記》等經，前後總出<lb
-ed="T" n="0719a03"/>一十九部，沙門<persName key="A002448">波崙</persName>、<persName key="A008975">玄軌</persName>等筆受<ptr type="glossary" target="#g53"/>，沙門<persName key="A001192">復禮</persName><lb
-ed="T" n="0719a04"/>等綴文，沙門<persName key="A000746">法寶</persName>、<persName key="A008970">恒景</persName>等證義<ptr type="glossary" target="#g54"/>，太子中舍<persName key="A008971">賈<lb
-ed="T" n="0719a05"/>膺福</persName>監護<ptr type="glossary" target="#g55"/>。<date from-iso="0704-02-14" key="j19782341978588" to-iso="0705-02-02">長安四年</date>，<persName key="A001606">叉</persName>以母氏衰老，思歸<lb
+ed="T" n="0718c27"/>淨</persName>同宣<name>梵</name>本，後付沙門<persName key="A001192">復禮</persName>、<persName key="A002450">法藏</persName>等於<placeName key="PL000000023657">佛<lb
+ed="T" n="0718c28"/>授記寺</placeName>譯成八十卷<ptr target="#n38"/>。<date from-iso="+0698-12-11" key="j19763441976697" to-iso="+0699-11-29"><name>聖曆</name>二年</date>功畢。至<date from-iso="+0700-05-31" key="j19768801977141" to-iso="+0701-02-16"><name>久<lb
+ed="T" n="0718c29"/>視</name>庚子</date>，<ref target="#A002099" type="person">駕</ref>幸<placeName key="PL000000023827">潁川三陽宮</placeName><ptr target="#n333"/>，詔<persName key="A001606">叉</persName>譯《大乘入<pb ed="T" n="0719a" xml:id="T50.2061.0719a"/><lb
+ed="T" n="0719a01"/>楞伽經》<ptr target="#n94"/>，<persName key="A002099">天后</persName>復製序焉<ptr target="#n95"/>。又於<placeName key="PL000000042134">京師清禪寺</placeName>及<lb
+ed="T" n="0719a02"/><placeName key="PL000000023657">東都佛授記寺</placeName>譯《文殊授記》<ptr target="#n96"/>等經，前後總出<lb
+ed="T" n="0719a03"/>一十九部，沙門<persName key="A002448">波崙</persName>、<persName key="A008975">玄軌</persName>等筆受<ptr rend="display:none;" type="glossary" target="#g53"/>，沙門<persName key="A001192">復禮</persName><lb
+ed="T" n="0719a04"/>等綴文，沙門<persName key="A000746">法寶</persName>、<persName key="A008970">恒景</persName>等證義<ptr rend="display:none;" type="glossary" target="#g54"/>，太子中舍<persName key="A008971">賈<lb
+ed="T" n="0719a05"/>膺福</persName>監護<ptr rend="display:none;" type="glossary" target="#g55"/>。</p><p><date from-iso="+0704-02-14" key="j19782341978588" to-iso="+0705-02-02"><name>長安</name>四年</date>，<persName key="A001606">叉</persName>以母氏衰老，思歸<lb
 ed="T" n="0719a06"/>慰覲，表書再上，方俞，勅御史<persName key="A008972">霍嗣光</persName>送至<placeName key="PL000000047983">于<lb
-ed="T" n="0719a07"/>闐</placeName>。暨<persName key="A002100">和帝</persName>龍興，有勅再徵。<date from-iso="0708-02-01" key="j19796821980065" to-iso="0709-02-18">景龍二年</date>，達于<lb
-ed="T" n="0719a08"/><ref target="#PL000000042189" type="place">京輦</ref>，<persName key="A002100">帝</persName>屈萬乘之尊，親迎於<placeName key="PL000000042090">開遠門</placeName>外。傾<lb
-ed="T" n="0719a09"/>都緇侶，備幡幢導引。仍飾青象<ptr type="glossary" target="#g334"/>令乘之<lb
+ed="T" n="0719a07"/>闐</placeName>。暨<persName key="A002100">和帝</persName>龍興，有勅再徵。<date from-iso="+0708-02-01" key="j19796821980065" to-iso="+0709-02-18"><name>景龍</name>二年</date>，達于<lb
+ed="T" n="0719a08"/><ref target="#PL000000042189" type="place">京輦</ref>。<ref type="person" target="#A002100">帝</ref>屈萬乘之尊，親迎於<placeName key="PL000000042090">開遠門</placeName>外。傾<lb
+ed="T" n="0719a09"/>都緇侶，備幡幢導引。仍飾青象<ptr rend="display:none;" type="glossary" target="#g334"/>令乘之<lb
 ed="T" n="0719a10"/>入城，勅於<placeName key="PL000000042270">大薦福寺</placeName>安置。未遑翻譯，遘<lb
-ed="T" n="0719a11"/>疾彌留，以<date key="j19806961980696" when-iso="0710-11-11">景雲元年十月十二日</date>，右脅累足<lb
+ed="T" n="0719a11"/>疾彌留，以<date key="j19806961980696" when-iso="+0710-11-11"><name>景雲</name>元年十月十二日</date>，右脅累足<lb
 ed="T" n="0719a12"/>而終，春秋五十九歲。有詔聽依外國法葬。<lb
-ed="T" n="0719a13"/><date key="j19807261980726" when-iso="0710-12-11">十一月十二日</date>於<placeName key="PL000000042090">開遠門</placeName>外古然燈臺焚之，<lb
-ed="T" n="0719a14"/>薪盡火滅，其舌猶存。<date key="j19807661980766" when-iso="0711-01-20">十二月二十三日</date>，門人<lb
-ed="T" n="0719a15"/><persName key="A000103">悲智</persName>、勅使<persName key="A008967">哥舒道元</persName>。送其餘骸及斯靈舌還<lb
-ed="T" n="0719a16"/>歸<placeName key="PL000000047983">于闐</placeName>，起塔供養。後人復於<anchor xml:id="beg0719001"/><choice resp="sgsz"><sic>茶</sic><corr>荼</corr></choice><anchor xml:id="end0719001"/>毘之所，起<lb
+ed="T" n="0719a13"/><date key="j19807261980726" when-iso="+0710-12-11">十一月十二日</date>於<placeName key="PL000000042090">開遠門</placeName>外古然燈臺焚之，<lb
+ed="T" n="0719a14"/>薪盡火滅，其舌猶存。<date key="j19807661980766" when-iso="+0711-01-20">十二月二十三日</date>，門人<lb
+ed="T" n="0719a15"/><persName key="A000103">悲智</persName>、勅使<persName key="A008967">哥舒道元</persName>送其餘骸及斯靈舌還<lb
+ed="T" n="0719a16"/>歸<placeName key="PL000000047983">于闐</placeName>，起塔供養。後人復於<anchor xml:id="beg0719001"/><choice resp="sgsz"><sic>茶</sic><corr>荼</corr></choice><anchor xml:id="end0719001"/>毘<ptr type="glossary" target="#g19"/>之所，起<lb
 ed="T" n="0719a17"/>七層塔，土俗號為<placeName key="PL000000042164">華嚴三藏塔</placeName>焉。</p>
     <linkGrp>
         <link targets="#0718c19 #0718c21"/>

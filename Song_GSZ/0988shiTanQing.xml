@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='utf-8'?>
-<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0804a27shiTanQing">
-    <anchor n="T.50.2061.0804a27"/><head><date from-iso="0618-06-21" key="j19469512052491" to-iso="0907-06-06">唐</date>衡嶽寺<persName key="A011164">曇清</persName>傳</head><p><lb
+<div xmlns="http://www.tei-c.org/ns/1.0" type="明律" xml:id="gsz0804a27shiTanQing"><lb
+ed="T" n="0804a27"/><anchor n="T.50.2061.0804a27"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date>衡嶽寺<persName key="A011164">曇清</persName>傳</head><p><lb
 ed="T" n="0804a28"/><persName key="A011164">釋曇清</persName>，未詳何許人也。幼持邊幅，罔或<lb
 ed="T" n="0804a29"/>迷方，以謹昏呶，究窮佛旨。乃負笈來<placeName key="PL000000009928">吳</placeName>北<pb ed="T" n="0804b" xml:id="T50.2061.0804b"/><lb
-ed="T" n="0804b01"/>院<persName key="A011021">道恒宗師</persName>法會，與<persName key="A011073">省躬</persName>猶滕、薛之前後也<note resp="sgsz">「滕薛爭長」，春秋時，滕侯與薛侯互爭席次的故事。見《左傳˙隱公十一年》：「十一年春，滕侯、薛侯來朝，爭長。」</note>。<lb
-ed="T" n="0804b02"/>旋留<placeName key="PL000000028928">南嶽</placeName>化徒，適會<date from-iso="0806" key="j20154742020606" to-iso="0820">元和</date>中閬州<placeName key="PL000000036515">龍與寺</placeName><lb
+ed="T" n="0804b01"/>院<persName key="A011021">道恒宗師</persName>法會，與<persName key="A011073">省躬</persName>猶滕、薛之前後也<ptr target="#n1488"/>。<lb
+ed="T" n="0804b02"/>旋留<placeName key="PL000000028928">南嶽</placeName>化徒，適會<date notBefore-iso="+0806-01-29" key="j20154742020606" notAfter-iso="+0820-02-17"><name>元和</name>中</date>閬州<placeName key="PL000000036515">龍<anchor xml:id="beg0804sgsz9"/><choice resp="sgsz"><sic>與</sic><corr>興</corr></choice><anchor xml:id="end0804sgsz9"/>寺</placeName><lb
 ed="T" n="0804b03"/>結界，時<persName key="A011176">義嵩</persName>講<persName key="A001899">素</persName>新《疏》，傑出輩流，因云：「《僧<lb
 ed="T" n="0804b04"/>祇律》云：齊七樹相去，爾所作羯磨者，名善<lb
 ed="T" n="0804b05"/>作羯磨。準此四面，皆取六十三步等，如是<lb
@@ -16,10 +16,10 @@ ed="T" n="0804b10"/><persName key="A011164">曇清</persName>義為正，天下�
 ed="T" n="0804b11"/>城矣。後著記號《顯宗》焉。</p>
     <p xml:id="pT50p0804b1201"><lb
 ed="T" n="0804b12"/>系曰：<persName key="A011164">清公</persName>南山宗崛起別峰，人咸景仰，與<lb
-ed="T" n="0804b13"/><persName key="A011176">嵩</persName>、<persName key="A011179">悟</persName>二公遇于必爭之地，<persName key="A011164">清</persName>果得俊，矧<ptr type="glossary" target="#g325"/>夫<lb
+ed="T" n="0804b13"/><persName key="A011176">嵩</persName>、<persName key="A011179">悟</persName>二公遇于必爭之地，<persName key="A011164">清</persName>果得<anchor xml:id="beg0804sgsz11"/>俊<anchor xml:id="end0804sgsz11"/>，矧<ptr rend="display:none;" type="glossary" target="#g325"/>夫<lb
 ed="T" n="0804b14"/>閬苑也，僻用律文，三隅不反。既成圖狀，學<lb
-ed="T" n="0804b15"/>者流傳，致其<persName key="A011176">嵩公</persName>如填海底。至<date from-iso="0847" key="j20304612035056" to-iso="0859">大中</date>中<persName key="A009180">玄<lb
-ed="T" n="0804b16"/>暢公</persName>荐加褒貶，貶<persName key="A011176">嵩</persName>之轉沈尾閭中矣。</p>
+ed="T" n="0804b15"/>者流傳，致其<persName key="A011176">嵩公</persName>如填海底。至<date notBefore-iso="+0847-02-10" key="j20304612035056" notAfter-iso="+0859-09-10"><name>大中</name>中</date><persName key="A009180">玄<lb
+ed="T" n="0804b16"/>暢公</persName>荐加褒貶，貶<persName key="A011176">嵩</persName><anchor xml:id="beg0804sgsz13"/><choice resp="sgsz"><sic>之</sic><corr>又</corr></choice><anchor xml:id="end0804sgsz13"/>轉沈尾閭中矣。</p>
     <linkGrp>
         <link targets="#0804a29 #0804b01"/>
         <ptr target="#A011164" type="person"/>

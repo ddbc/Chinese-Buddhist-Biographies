@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
-<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0730c01shiShenKai"><lb
-ed="T" n="0730c01"/><anchor n="T.50.2061.0730c01"/><head><date from-iso="0689-12-21" key="j19730671978610" to-iso="0705-02-24">周</date><placeName key="PL000000042324">京兆崇福寺</placeName><persName key="A009242">神楷</persName>傳（<persName key="A000661">明恂</persName>）</head><p><lb
-ed="T" n="0730c02"/><persName key="A009242">釋神楷</persName>，姓郭氏，<placeName key="PL000000003793">太原</placeName>人也，即<date from-iso="0172-01-27" key="j17839081801742" to-iso="0220-11-25">漢末</date><persName key="A002875">林宗</persName>之後。<lb
+<div xmlns="http://www.tei-c.org/ns/1.0" type="義解" xml:id="gsz0730c01shiShenKai"><pb n="0730c" xml:id="T50.2061.0730c" ed="T"/><lb
+ed="T" n="0730c01"/><anchor n="T.50.2061.0730c01"/><head><date from-iso="+0689-12-21" key="j19730671978610" to-iso="+0705-02-24">周</date><placeName key="PL000000042324">京兆崇福寺</placeName><persName key="A009242">神楷</persName>傳（<persName key="A000661">明恂</persName>）</head><p><lb
+ed="T" n="0730c02"/><persName key="A009242">釋神楷</persName>，姓郭氏，<placeName key="PL000000003793">太原</placeName>人也，即<date notBefore-iso="+0172-01-27" key="j17839081801742" notAfter-iso="+0220-11-25">漢末</date><persName key="A002875">林宗</persName>之後。<lb
 ed="T" n="0730c03"/>世襲冠裳，後隨父宦于<placeName key="PL000000042192">秦</placeName>，為<placeName key="PL000000042192">京兆</placeName>人也。昆<lb
 ed="T" n="0730c04"/>弟六人，<persName key="A009242">楷</persName>居其季。幼而聰敏，立志弗群，不<lb
 ed="T" n="0730c05"/>樂浮榮，誓求翦落，<anchor xml:id="beg0730sgsz3"/>禮<anchor xml:id="end0730sgsz3"/><persName key="A000661">明恂法師</persName>為弟子，<lb
@@ -16,7 +16,7 @@ ed="T" n="0730c13"/>石隙縫間幽暗，然中有木棺者，云是<persName ke
 ed="T" n="0730c14"/>此。遊人下窺，歷歷皆覩。又言<persName key="A009242">楷</persName>因<placeName key="PL000000042410">慈恩</placeName>、<placeName key="PL000000042216">西明</placeName><lb
 ed="T" n="0730c15"/>等寺度公<anchor xml:id="beg0730003"/><choice resp="sgsz"><sic>者</sic><corr>王</corr></choice><anchor xml:id="end0730003"/>出家。及翻經論，勅諸道高行<lb
 ed="T" n="0730c16"/>才學僧並赴<ref type="place" target="#PL000000042189">京師</ref>，遂應詔而入，配居<placeName key="PL000000042324">崇業<lb
-ed="T" n="0730c17"/>寺</placeName><ptr target="#n645"/>。至<date from-iso="0684" key="j19711811978588" to-iso="0705">天后朝</date>，方行其「疏」。後卒於<ref type="place" target="#PL000000042324">此寺</ref>，弟子<lb
+ed="T" n="0730c17"/>寺</placeName><ptr target="#n645"/>。至<date from-iso="+0684-10-22" key="j19711811978588" to-iso="+0705-02-02">天后朝</date>，方行其「疏」。後卒於<ref type="place" target="#PL000000042324">此寺</ref>，弟子<lb
 ed="T" n="0730c18"/>遷塔于南<placeName key="PL000000042657">逍遙園</placeName>焉，實<persName key="A001019">大乘基</persName>之法門猶子<ptr type="glossary" target="#g513"/><lb
 ed="T" n="0730c19"/>也。</p>
     <p><lb

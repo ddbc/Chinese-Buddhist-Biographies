@@ -1,19 +1,19 @@
 <?xml version='1.0' encoding='utf-8'?>
-<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0813a02shiHuiLi">
-    <anchor n="T.50.2061.0813a02"/><head><date from-iso="0618-06-21" key="j19469512052491" to-iso="0907-06-06">唐</date>京兆魏國寺<persName key="A001194">惠立</persName>傳</head><p><lb
+<div xmlns="http://www.tei-c.org/ns/1.0" type="護法" xml:id="gsz0813a02shiHuiLi"><lb
+ed="T" n="0813a02"/><anchor n="T.50.2061.0813a02"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date>京兆魏國寺<persName key="A001194">惠立</persName>傳</head><p><lb
 ed="T" n="0813a03"/><persName key="A001194">釋惠立</persName>，本名<persName key="A001194">子立</persName>，<persName key="A002146">天皇</persName>改為<persName key="A001194">惠立</persName>，俗姓趙<lb
 ed="T" n="0813a04"/>氏，<placeName key="PL000000044976">天水</placeName>人也。遠祖因官<anchor xml:id="beg0813001"/>徙<anchor xml:id="end0813001"/>寓<placeName key="PL000000043171">新平</placeName>，故為<placeName key="PL000000043172">豳</placeName><lb
 ed="T" n="0813a05"/>人焉。爰祖及父，俱馳高譽。<persName key="A001194">立</persName>即隋起居舍人<lb
-ed="T" n="0813a06"/><anchor xml:id="tnote0813002"/>司隷從事<persName key="A011746">毅</persName>之第三子也。生而岐嶷，有棄<lb
-ed="T" n="0813a07"/>俗之志。年十五，<date from-iso="0629-02-02" key="j19508301951213" to-iso="0630-02-20">貞觀三年</date>出家，住豳州<placeName key="PL000000043728">昭仁<lb
+ed="T" n="0813a06"/>司隷從事<persName key="A011746">毅</persName>之第三子也。生而<anchor xml:id="beg0813sgsz1"/>岐<anchor xml:id="end0813sgsz1"/>嶷<ptr type="glossary" target="#g1447"/>，有棄<lb
+ed="T" n="0813a07"/>俗之志。年十五，<date from-iso="+0629-02-02" key="j19508301951213" to-iso="+0630-02-20">貞觀三年</date>出家，住豳州<placeName key="PL000000043728">昭仁<lb
 ed="T" n="0813a08"/>寺</placeName>，此<placeName key="PL000000043728">寺</placeName>即破<persName key="A011742">薛舉</persName>之戰場也。<persName key="A001194">立</persName>識敏才俊，神<lb
 ed="T" n="0813a09"/>清道邁，習<persName key="A002205">林</persName><persName key="A001204">遠</persName>之高風，有<persName key="A001598">肇</persName><persName key="A002842">融</persName>之識量。聲<lb
 ed="T" n="0813a10"/>譽聞徹，勅召充<placeName key="PL000000042410">大慈恩寺</placeName>翻經大德，次補<placeName key="PL000000042216">西<lb
 ed="T" n="0813a11"/>明寺</placeName>都維那，後授<placeName key="PL000000042324">太原寺</placeName>主，皆降綸旨，令<lb
-ed="T" n="0813a12"/>維<placeName key="PL000000042324">寺</placeName>任。<date from-iso="0649" key="j19582971970884" to-iso="0683">天皇之代</date>，以其博考儒釋，雅著篇<lb
+ed="T" n="0813a12"/>維<placeName key="PL000000042324">寺</placeName>任。<date from-iso="+0649-07-14" key="j19582971970884" to-iso="+0683-12-30">天皇之代</date>，以其博考儒釋，雅著篇<lb
 ed="T" n="0813a13"/>章，妙辯雲飛，益思泉湧，加以直詞正色，不<lb
 ed="T" n="0813a14"/>憚威嚴，赴火蹈湯，無所屈撓。頻召入內，<lb
-ed="T" n="0813a15"/>與黃冠對論。皆愜<persName key="A002146">帝</persName>旨，事在別傳。<persName key="A001194">立</persName>以<persName key="A000294">玄<lb
+ed="T" n="0813a15"/>與黃冠對論。皆<anchor xml:id="beg0813sgsz3"/>愜<anchor xml:id="end0813sgsz3"/><persName key="A002146">帝</persName>旨，事在別傳。<persName key="A001194">立</persName>以<persName key="A000294">玄<lb
 ed="T" n="0813a16"/>奘法師</persName>求經<placeName key="PL000000048207">印度</placeName>，若無紀述，季代罕聞，遂<lb
 ed="T" n="0813a17"/>撰《慈恩三藏行傳》，未成而卒。後廣福寺<!--找不到此地-->沙門<lb
 ed="T" n="0813a18"/><persName key="A000827">彥悰</persName>續而成之，總十卷。故初題云<persName key="A001194">沙門惠立</persName><lb

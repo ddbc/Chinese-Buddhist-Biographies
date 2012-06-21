@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='utf-8'?>
-<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0850b13shiXingZun">
-    <anchor n="T.50.2061.0850b13"/><head><date from-iso="0936-12-05" key="j20632662067017" to-iso="0947-03-14">晉</date>閬州光國院<persName key="A012900">行遵</persName>傳</head><p><lb
-ed="T" n="0850b14"/><persName key="A012900">釋行遵</persName>，福州<persName key="A003732">閩王</persName>王氏之仲子。<persName key="A006575">後唐莊宗</persName><date key="j20527592059413" notAfter-iso="0926" notBefore-iso="0908">即<lb
-ed="T" n="0850b15"/>位</date>，入<placeName key="PL000000023581">洛</placeName>進方物，因留京邸。<date key="j20591392059413" notAfter-iso="0926" notBefore-iso="0925">同光末</date>，會<persName key="A006576">明宗</persName><lb
+<div xmlns="http://www.tei-c.org/ns/1.0" type="感通" xml:id="gsz0850b13shiXingZun"><lb
+ed="T" n="0850b13"/><anchor n="T.50.2061.0850b13"/><head><date from-iso="+0936-12-05" key="j20632662067017" to-iso="+0947-03-14">晉</date>閬州光國院<persName key="A012900">行遵</persName>傳</head><p><lb
+ed="T" n="0850b14"/><persName key="A012900">釋行遵</persName>，福州<persName key="A003732">閩王</persName>王氏之仲子。<persName key="A006575">後唐莊宗</persName><date key="j20527592059413" notAfter-iso="+0926-05-19" notBefore-iso="+0908-02-29">即<lb
+ed="T" n="0850b15"/>位</date>，入<placeName key="PL000000023581">洛</placeName>進方物，因留京邸。<date key="j20591392059413" notAfter-iso="+0926-05-19" notBefore-iso="+0925-08-18">同光<anchor xml:id="beg0850sgsz5"/>末<anchor xml:id="end0850sgsz5"/></date>，會<persName key="A006576">明宗</persName><lb
 ed="T" n="0850b16"/>將入，兵亂相仍，乃自剪飾，變服為僧，竄身<lb
-ed="T" n="0850b17"/><placeName key="PL000000034649">巴蜀</placeName>。逮晉<date key="j20658812067017" notAfter-iso="0947" notBefore-iso="0944">開運</date>中狀貌若七十餘，然壯力<lb
+ed="T" n="0850b17"/><placeName key="PL000000034649">巴蜀</placeName>。逮晉<date key="j20658812067017" notAfter-iso="+0947-03-14" notBefore-iso="+0944-02-02">開運中</date>狀貌若七十餘，然壯力<lb
 ed="T" n="0850b18"/>不衰。或詢其年臘，則必杜默。於閬中寓<placeName key="PL000000036517">光<lb
 ed="T" n="0850b19"/>國禪院</placeName>，院徒以律法住持，人不之知<persName key="A012900">遵</persName>之<lb
 ed="T" n="0850b20"/>能否。有<persName key="A012906">李</persName>氏子家命齋，飲噉之次，欻起出<lb
@@ -19,7 +19,7 @@ ed="T" n="0850b28"/>百餘，後圬墁之，<anchor xml:id="beg0850005"/>門<anc
 ed="T" n="0850b29"/>經人塚墓，知其家吉凶。至於風角鳥獸，聞<pb ed="T" n="0850c" xml:id="T50.2061.0850c"/><lb
 ed="T" n="0850c01"/>見之間，預言災福，後必契合，故州閭遠近，咸<lb
 ed="T" n="0850c02"/>以預言用為口實。終于晉安玉山<!--找不到此地-->，緇徒為<lb
-ed="T" n="0850c03"/>其茶毘焉。</p>
+ed="T" n="0850c03"/>其<anchor xml:id="beg0850sgsz7"/><choice resp="sgsz"><sic>茶</sic><corr>荼</corr></choice><anchor xml:id="end0850sgsz7"/>毘焉。</p>
     <linkGrp>
         <link targets="#0850b14 #0850b15"/>
         <ptr target="#A012900" type="person"/>

@@ -1,26 +1,26 @@
 <?xml version='1.0' encoding='utf-8'?>
-<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0722c21shiManYue"><lb
-ed="T" n="0722c21"/><anchor n="T.50.2061.0722c21"/><head><date from-iso="0618-06-21" key="j19469512052491" to-iso="0907-06-06">唐</date><placeName key="PL000000042189">京師</placeName><persName key="A002089">滿月</persName>傳（<persName key="A001294">智慧輪</persName>）</head><p><lb
+<div xmlns="http://www.tei-c.org/ns/1.0" type="譯經" xml:id="gsz0722c21shiManYue"><lb
+ed="T" n="0722c21"/><anchor n="T.50.2061.0722c21"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date><placeName key="PL000000042189">京師</placeName><persName key="A002089">滿月</persName>傳（<persName key="A001294">智慧輪</persName>）</head><p><lb
 ed="T" n="0722c22"/><persName key="A002089">釋滿月</persName>者，<placeName key="PL000000055436">西域</placeName>人也。爰來<placeName key="PL000000042189">震旦</placeName>，務在翻傳。<lb
 ed="T" n="0722c23"/>瑜伽法門，一皆貫練，既多神効，眾所推欽。<lb
-ed="T" n="0722c24"/><date from-iso="0836" key="j20264282027904" to-iso="0840">開成</date>中，進梵夾，遇偽甘露事<ptr target="#n425"/>去未旋踵，朝<lb
-ed="T" n="0722c25"/>廷無復<anchor xml:id="beg0722sgsz9"/><choice resp="sgsz"><sic>記</sic><corr>紀</corr></choice><anchor xml:id="end0722sgsz9"/>綱，不暇翻譯。時<persName key="A000753">悟達國師知玄</persName><lb
-ed="T" n="0722c26"/>好學「聲明」，<anchor xml:id="beg0722sgsz10"/>禮<anchor xml:id="end0722sgsz10"/><persName key="A002089">月</persName>為師，情相欵密<ptr type="glossary" target="#g426"/>，指教梵字<lb
-ed="T" n="0722c27"/>并音字之緣界，「悉曇」八轉<ptr type="glossary" target="#g427"/>，深得幽趣<ptr type="glossary" target="#g428"/>。<persName key="A000753">玄</persName>曰：「异<lb
+ed="T" n="0722c24"/><date notBefore-iso="+0836-01-26" key="j20264282027904" notAfter-iso="+0840-02-10"><name>開成</name>中</date>，進<name>梵</name>夾，遇偽甘露事<ptr target="#n425"/>去未旋踵，朝<lb
+ed="T" n="0722c25"/>廷無復<anchor xml:id="beg0722sgsz9"/><choice resp="sgsz"><sic>記</sic><corr>紀</corr></choice><anchor xml:id="end0722sgsz9"/>綱，不暇翻譯。時<persName key="A000753"><roleName>悟達國師</roleName>知玄</persName><lb
+ed="T" n="0722c26"/>好學聲明，<anchor xml:id="beg0722sgsz10"/>禮<anchor xml:id="end0722sgsz10"/><persName key="A002089">月</persName>為師，情相欵密<ptr type="glossary" target="#g426"/>，指教<name>梵</name>字<lb
+ed="T" n="0722c27"/>并音字之緣界，悉曇、八轉<ptr type="glossary" target="#g427"/>，深得幽趣<ptr rend="display:none;" type="glossary" target="#g428"/>。<persName key="A000753">玄</persName>曰：「异<lb
 ed="T" n="0722c28"/>哉，<ref type="person" target="#A000753">吾</ref>體兩方之言，願參象胥<ptr type="glossary" target="#g86"/>之<anchor xml:id="beg0722sgsz11"/>末<anchor xml:id="end0722sgsz11"/>，可乎？」因<lb
 ed="T" n="0722c29"/>請翻諸禁呪，乃與<persName key="A002101">菩<anchor xml:id="beg0722sgsz12"/>薩<anchor xml:id="end0722sgsz12"/>嚩日羅</persName>、<persName key="A002102">金剛悉地</persName><pb ed="T" n="0723a" xml:id="T50.2061.0723a"/><lb
-ed="T" n="0723a01"/>等重譯出《陀羅尼集》四卷，又《佛為毘戌陀天<lb
+ed="T" n="0723a01"/>等重譯出《陀羅尼集》<ptr target="#n90"/>四卷，又《佛為毘戌陀天<lb
 ed="T" n="0723a02"/>子說尊勝經》一卷，詳覈三復，曲盡佛意。此土<lb
 ed="T" n="0723a03"/>先已有《陀羅尼集》十二卷，新翻四卷，未聞入<lb
-ed="T" n="0723a04"/>《藏》。<persName key="A002089">月</persName>等俱不測其終。次有<persName key="A001294">般若斫迦三藏</persName><lb
-ed="T" n="0723a05"/>者，華言<persName key="A001294">智慧輪</persName>，亦<placeName key="PL000000055436">西域</placeName>人。<date from-iso="0847" key="j20304612035523" to-iso="0860">大中</date>中，行大曼<lb
-ed="T" n="0723a06"/>拏羅法，已受灌頂<ptr type="glossary" target="#g97"/>為阿闍梨，善達方言，深<lb
-ed="T" n="0723a07"/>通密語<ptr type="glossary" target="#g429"/>，著《佛法根本》<ptr target="#n430"/>。宗乎<persName key="A004206">大毘盧遮那</persName>，為<lb
-ed="T" n="0723a08"/>諸佛所依。法之根本者，「陀羅尼」是也。至於出<lb
-ed="T" n="0723a09"/>生無邊法門，學者修戒、定、慧以總<anchor xml:id="beg0723001"/><choice resp="sgsz"><sic>侍</sic><corr>持</corr></choice><anchor xml:id="end0723001"/>助成，<lb
+ed="T" n="0723a04"/>藏。<persName key="A002089">月</persName>等俱不測其終。次有<persName key="A001294">般若斫迦<roleName>三藏</roleName></persName><lb
+ed="T" n="0723a05"/>者，<name>華</name>言<persName key="A001294">智慧輪</persName>，亦<placeName key="PL000000055436">西域</placeName>人。<date notBefore-iso="+0847-02-10" key="j20304612035523" notAfter-iso="+0860-12-20"><name>大中</name>中</date>，行大曼<lb
+ed="T" n="0723a06"/>拏羅法，已受灌頂<ptr rend="display:none;" type="glossary" target="#g97"/>為阿闍梨，善達方言，深<lb
+ed="T" n="0723a07"/>通密語<ptr rend="display:none;" type="glossary" target="#g429"/>，著《佛法根本》<ptr target="#n430"/>。宗乎<persName key="A004206">大毘盧遮那</persName>，為<lb
+ed="T" n="0723a08"/>諸佛所依。法之根本者，陀羅尼是也。至於出<lb
+ed="T" n="0723a09"/>生無邊法門，學者修戒、定、慧以總<anchor xml:id="beg0723001"/><choice resp="sgsz"><sic>侍</sic><corr>持</corr></choice><anchor xml:id="end0723001"/><ptr type="glossary" target="#g95"/>助成，<lb
 ed="T" n="0723a10"/>速疾之要，無以超越。又述《示教指歸》共一<lb
-ed="T" n="0723a11"/><anchor xml:id="beg0723002"/><choice resp="sgsz"><sic>十</sic><corr>千</corr></choice><anchor xml:id="end0723002"/>餘言，皆大教之鈐鍵<ptr type="glossary" target="#g431"/>也，出弟子<persName key="A002091">紹明</persName>，<date from-iso="0860" key="j20355242040636" to-iso="0874">咸<lb
-ed="T" n="0723a12"/>通</date>年中刻石記傳焉。</p>
+ed="T" n="0723a11"/><anchor xml:id="beg0723002"/><choice resp="sgsz"><sic>十</sic><corr>千</corr></choice><anchor xml:id="end0723002"/>餘言，皆大教之鈐鍵<ptr type="glossary" target="#g431"/>也，出弟子<persName key="A002091">紹明</persName>，<date from-iso="+0860-12-21" key="j20355242040636" to-iso="+0874-12-20"><name>咸<lb
+ed="T" n="0723a12"/>通</name></date>年中刻石記傳焉。</p><milestone unit="page" rend="pagebreak"/>
     
     <linkGrp>
         <link targets="#0722c22 #0722c22"/>

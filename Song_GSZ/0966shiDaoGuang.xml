@@ -1,19 +1,19 @@
 <?xml version='1.0' encoding='utf-8'?>
-<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0797a08shiDaoGuang">
-    <anchor n="T.50.2061.0797a08"/><head><date from-iso="0618-06-21" key="j19469512052491" to-iso="0907-06-06">唐</date>杭州華嚴寺<persName key="A010882">道光</persName>傳</head><p><lb
-ed="T" n="0797a09"/><persName key="A010882">釋道光</persName>，姓禇氏，喻齓出家。方冠受具，詣<placeName key="PL000000025908">光<lb
-ed="T" n="0797a10"/>州</placeName><ref type="person" target="#A008876">和尚</ref>學通毘尼。<app type="multiplier" xml:id="begd1e24198"/>於<anchor xml:id="endd1e24198"/>時夏淺德崇，壇場屬<lb
-ed="T" n="0797a11"/>望，蓋天賚真士，為東南義虎，雲雨慈昧，笙<lb
+<div xmlns="http://www.tei-c.org/ns/1.0" type="明律" xml:id="gsz0797a08shiDaoGuang"><lb
+ed="T" n="0797a08"/><anchor n="T.50.2061.0797a08"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date>杭州華嚴寺<persName key="A010882">道光</persName>傳</head><p><lb
+ed="T" n="0797a09"/><persName key="A010882">釋道光</persName>，姓禇氏，<anchor xml:id="beg0797sgsz1"/><choice resp="sgsz"><sic>喻</sic><corr>踰</corr></choice><anchor xml:id="end0797sgsz1"/>齓出家。方冠受具，詣<placeName key="PL000000025908">光<lb
+ed="T" n="0797a10"/>州</placeName><ref type="person" target="#A008876">和尚</ref>學通毘尼。<anchor xml:id="begd1e24198"/>於<anchor xml:id="endd1e24198"/>時夏淺德崇，壇場屬<lb
+ed="T" n="0797a11"/>望，蓋天賚真士，為東南義虎，雲雨慈<anchor xml:id="beg0797sgsz2"/><choice resp="sgsz"><sic>昧</sic><corr>味</corr></choice><anchor xml:id="end0797sgsz2"/>，笙<lb
 ed="T" n="0797a12"/>鏞道聲。<persName key="A010882">光</persName>持《法華經》，創塔廟，洎沒身不怠<lb
-ed="T" n="0797a13"/>也。<date from-iso="0760-06-12" key="j19988071999053" to-iso="0761-02-13">上元元年庚子</date>仲秋示疾，終<app type="multiplier" xml:id="begd1e24211"/>於<anchor xml:id="endd1e24211"/>本寺，春<lb
+ed="T" n="0797a13"/>也。<date from-iso="+0760-06-12" key="j19988071999053" to-iso="+0761-02-13">上元元年庚子</date>仲秋示疾，終<anchor xml:id="begd1e24211"/>於<anchor xml:id="endd1e24211"/>本寺，春<lb
 ed="T" n="0797a14"/>秋七十九，法臘五十八。是日馳陽昧昧，淫雨<lb
 ed="T" n="0797a15"/>㴓㴓，烈風崇朝，嘉木為折，乃東土福盡之徵<lb
 ed="T" n="0797a16"/>也。俄然喜氣五色，亭亭如蓋，移晷不散，偏<lb
-ed="T" n="0797a17"/>映精廬，即西方往生之意也。初<persName key="A010882">光</persName>未歿，其<lb
+ed="T" n="0797a17"/>映精<anchor xml:id="beg0797sgsz3"/>廬<anchor xml:id="end0797sgsz3"/>，即西方往生之意也。初<persName key="A010882">光</persName>未歿，其<lb
 ed="T" n="0797a18"/>月三日質明，支疾凝神，依色身觀，彌陀具<lb
-ed="T" n="0797a19"/>相現在其前。滿庭碧華，昔所未覩者。四日<lb
+ed="T" n="0797a19"/>相現在其前。滿庭碧<anchor xml:id="beg0797sgsz4"/>華<anchor xml:id="end0797sgsz4"/>，昔所未覩者。四日<lb
 ed="T" n="0797a20"/>昧爽，有異人請<persName key="A010882">光</persName>為和尚，遂開目彈指曰：<lb
-ed="T" n="0797a21"/>「但發菩提心。」至五日，曼陀羅華自天而雨。<lb
+ed="T" n="0797a21"/>「但發菩提心。」至五日，曼陀羅<anchor xml:id="beg0797sgsz5"/>華<anchor xml:id="end0797sgsz5"/>自天而雨。<lb
 ed="T" n="0797a22"/>門人<persName key="A019333">神烈</persName><persName key="A019334">義津</persName>追慕弗遑，各分法味，流布<lb
 ed="T" n="0797a23"/>行化，香火無窮云。</p>
     <linkGrp>

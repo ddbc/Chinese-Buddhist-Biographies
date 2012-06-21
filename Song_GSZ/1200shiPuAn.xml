@@ -1,19 +1,19 @@
 <?xml version='1.0' encoding='utf-8'?>
-<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0880a20shiPuAn">
-    <anchor n="T.50.2061.0880a20"/><head><date from-iso="0618-06-21" key="j19469512052491" to-iso="0907-06-06">唐</date>天台山福田寺<persName key="A012847">普岸</persName>傳（<persName key="A013732">全亮</persName> <persName key="A013734">唯約</persName>）</head><p><lb
+<div xmlns="http://www.tei-c.org/ns/1.0" type="興福" xml:id="gsz0880a20shiPuAn"><lb
+ed="T" n="0880a20"/><anchor n="T.50.2061.0880a20"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date>天台山福田寺<persName key="A012847">普岸</persName>傳（<persName key="A013732">全亮</persName> <persName key="A013734">唯約</persName>）</head><p><lb
 ed="T" n="0880a21"/><persName key="A012847">釋普岸</persName>，姓蔡氏，<placeName key="PL000000028309">漢東</placeName>人也。沖弱之齡，逈然聰<lb
 ed="T" n="0880a22"/>敏，骨目奇秀，天生不嗜葷羶，長有出塵之<lb
 ed="T" n="0880a23"/>意。其父嚴毅，訓授經籍，漸通其義，秉翰伸<lb
-ed="T" n="0880a24"/>辭，宛然華藻。因入僧舍，暫執經卷，乃歎曰：<lb
+ed="T" n="0880a24"/>辭，宛然華<anchor xml:id="beg0880sgsz1"/>藻<anchor xml:id="end0880sgsz1"/>。因入僧舍，暫執經卷，乃歎曰：<lb
 ed="T" n="0880a25"/>「佛法玄微<ptr type="glossary" target="#g773"/>，非造次可及！」決志辭親。時<persName key="A001897">懷海<lb
 ed="T" n="0880a26"/>禪師</persName>居<placeName key="PL000000019628">百丈山</placeName>，毳納之人駢肩累足，時號<lb
 ed="T" n="0880a27"/>大<anchor xml:id="beg0880003"/>叢<anchor xml:id="end0880003"/>林焉。<persName key="A012847">岸</persName>叩其關，<persName key="A001897">海</persName>攝受之。日隨普請<lb
 ed="T" n="0880a28"/>施役，夜獨執燭誦經，曾不憚勞，遂諧剃<lb
 ed="T" n="0880a29"/>染。及陞戒品，便習禪那，壁坐忘疲，觀心恒<pb ed="T" n="0880b" xml:id="T50.2061.0880b"/><lb
-ed="T" n="0880b01"/>務。瞻蔔附風而香遠，[虥-儿+巾]貓逢獸而吼高，學<lb
+ed="T" n="0880b01"/>務。<anchor xml:id="beg0880sgsz3"/>瞻<anchor xml:id="end0880sgsz3"/>蔔附風而香遠，[虥-儿+巾]貓逢獸而吼高，學<lb
 ed="T" n="0880b02"/>者成圍，請於安陸<placeName key="PL000000027662">壽山院</placeName>坐道場矣。如是<lb
 ed="T" n="0880b03"/>環拱可四百餘眾，執器聽<persName key="A001878">瞿沙</persName>之說，投籌<lb
-ed="T" n="0880b04"/>待<persName key="A002397">毱多</persName>之度。大利群機，得道者眾。<date from-iso="0827" key="j20231922026427" to-iso="0836">大和年<lb
+ed="T" n="0880b04"/>待<persName key="A002397">毱多</persName>之度。大利群機，得道者眾。<date notBefore-iso="+0827-03-18" key="j20231922026427" notAfter-iso="+0836-01-25">大和年<lb
 ed="T" n="0880b05"/>中</date>，謂眾曰：「<persName key="A012847">吾</persName>山水之遊未厭，諸人勿相留<lb
 ed="T" n="0880b06"/>滯。<placeName key="PL000000014797">天台赤城</placeName>，<persName key="A002299">道猷</persName>曾止息焉。<placeName key="PL000000014412">華頂</placeName>石梁，<persName key="A001301">智者</persName><lb
 ed="T" n="0880b07"/>昔降魔矣。將遊之也。」自<placeName key="PL000000027119">襄陽</placeName>邐迤而來，<lb
@@ -21,26 +21,26 @@ ed="T" n="0880b08"/>從<placeName key="PL000000013444">沃洲</placeName>、<pla
 ed="T" n="0880b09"/>峯名大舍，號平田是也。觀其山四舍欝<lb
 ed="T" n="0880b10"/>翠，東西山石門，而有三井龍潭。東入<placeName key="PL000000014717">石橋<lb
 ed="T" n="0880b11"/>聖寺</placeName>，乃是綠身<persName key="A002299">道猷尊者</persName>結茅居此。未幾，<lb
-ed="T" n="0880b12"/>見虓虎乳子，瞪目而視<persName key="A012847">岸</persName>。<persName key="A012847">岸</persName>以杖按其頭<lb
+ed="T" n="0880b12"/>見虓虎乳子，瞪目而視<persName key="A012847">岸</persName>。<persName key="A012847">岸</persName>以杖<anchor xml:id="beg0880sgsz5"/>按<anchor xml:id="end0880sgsz5"/>其頭<lb
 ed="T" n="0880b13"/>曰：「<persName key="A012847">貧道</persName>聞此山是神仙窟宅，羅漢隱居，今欲<lb
 ed="T" n="0880b14"/>寄此安禪，檀越勿相驚撓。」經宿，領子而去。<lb
-ed="T" n="0880b15"/>以<date key="j20256562025656" when-iso="0833-12-15">大和七年癸丑十月二十七日</date>營構丈室，<lb
-ed="T" n="0880b16"/>携一童，侍給薪水耳。<date from-iso="0833-09-21" key="j20255712025600" to-iso="0833-10-20">八年</date>春，禪侶輻湊，眾<lb
-ed="T" n="0880b17"/>力義成此院，號<placeName key="PL000000014782">平田</placeName>焉。<date from-iso="0836" key="j20264282027904" to-iso="0840">開成</date>中，宛是大道<lb
-ed="T" n="0880b18"/>場。<date from-iso="0843-08-04" key="j20291752029203" to-iso="0843-09-01">會昌三年七月</date>，告眾入滅，春秋七十四<lb
+ed="T" n="0880b15"/>以<date key="j20256562025656" when-iso="+0833-12-15">大和七年癸丑十月二十七日</date>營構丈室，<lb
+ed="T" n="0880b16"/>携一童，侍給薪水耳。<date from-iso="+0833-09-21" key="j20255712025600" to-iso="+0833-10-20">八年</date>春，禪侶輻湊，眾<lb
+ed="T" n="0880b17"/>力義成此院，號<placeName key="PL000000014782">平田</placeName>焉。<date notBefore-iso="+0836-01-26" key="j20264282027904" notAfter-iso="+0840-02-10"><name>開成</name>中</date>，宛是大道<lb
+ed="T" n="0880b18"/>場。<date from-iso="+0843-08-04" key="j20291752029203" to-iso="+0843-09-01">會昌三年七月</date>，告眾入滅，春秋七十四<lb
 ed="T" n="0880b19"/>度。弟子<persName key="A013732">全亮</persName>，俗姓陳氏。悟<persName key="A012847">師</persName>之道，得鳳之<lb
 ed="T" n="0880b20"/>毛，一人<persName key="A013734">唯約</persName>，在上元入滅，肉身不朽。<persName key="A012847">岸</persName>遷<lb
 ed="T" n="0880b21"/>塔于是山前，此寺置五百羅漢殿，<placeName key="PL000000012521">永嘉</placeName><persName key="A013733">全億</persName><lb
-ed="T" n="0880b22"/>長史畫半千形像，每一迎請，必於<placeName key="PL000000014717">石橋</placeName>宿<lb
+ed="T" n="0880b22"/>長史<anchor xml:id="beg0880sgsz7"/>畫<anchor xml:id="end0880sgsz7"/>半千形像，每一迎請，必於<placeName key="PL000000014717">石橋</placeName>宿<lb
 ed="T" n="0880b23"/>夜，焚香具幢蓋，螺鈸引導入于殿，香風送<lb
 ed="T" n="0880b24"/>至。幡幢之勢前靡，而入門即止。其<placeName key="PL000000014717">石梁聖寺</placeName><lb
-ed="T" n="0880b25"/>在<placeName key="PL000000014717">石橋</placeName>之裏，梵唄方作，香靄始飄。先有金色<lb
-ed="T" n="0880b26"/>鳥飛翔，後林樹石畔見梵僧，或行或坐，或<lb
+ed="T" n="0880b25"/>在<placeName key="PL000000014717">石橋</placeName>之裏，<name>梵</name>唄方作，香靄始飄。先有金色<lb
+ed="T" n="0880b26"/>鳥飛翔，後林樹石畔見<name>梵</name>僧，或行或坐，或<lb
 ed="T" n="0880b27"/>招手之狀，或臥空之形，眴息之間，千變萬化。<lb
 ed="T" n="0880b28"/>漢南國王錢氏頻年施供養，祥瑞極繁。<ref type="person" target="#A001640">今上</ref><lb
-ed="T" n="0880b29"/><date from-iso="0978-02-15" key="j20783132078667" to-iso="0979-02-04">太平興國三年</date>，於<placeName key="PL000000023404">滋福殿</placeName>宣問兩浙都僧正<pb ed="T" n="0880c" xml:id="T50.2061.0880c"/><lb
+ed="T" n="0880b29"/><date from-iso="+0978-02-15" key="j20783132078667" to-iso="+0979-02-04">太平興國三年</date>，於<placeName key="PL000000023404">滋福殿</placeName>宣問兩浙都僧正<pb ed="T" n="0880c" xml:id="T50.2061.0880c"/><lb
 ed="T" n="0880c01"/><persName key="A001910">贊寧</persName>石橋長廣量度，一皆實<anchor xml:id="beg0880004"/>奏<anchor xml:id="end0880004"/>，<persName key="A001640">帝</persName>歎嗟久<lb
-ed="T" n="0880c02"/>之。至<date from-iso="0983-02-21" key="j20801452080498" to-iso="0984-02-09">八年</date>因<placeName key="PL000000014782">福田寺</placeName>道者自詢誓斷腕然<lb
+ed="T" n="0880c02"/>之。至<date from-iso="+0983-02-21" key="j20801452080498" to-iso="+0984-02-09">八年</date>因<placeName key="PL000000014782">福田寺</placeName>道者自詢誓斷腕然<lb
 ed="T" n="0880c03"/>鍊，乞重造此寺，乃宣內殿頭高品<persName key="A010043">衛紹欽</persName>、<persName key="A013735">張<lb
 ed="T" n="0880c04"/>承貴</persName>革故規制，若化出天宮焉。今<persName key="A012847">岸師</persName>影<lb
 ed="T" n="0880c05"/>堂在寺之右。</p>

@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='utf-8'?>
-<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0745b07shiZhiYuan"><lb
-n="0745b07" ed="T"/><anchor n="T.50.2061.0745b07"/><head><date from-iso="0618-06-21" key="j19469512052491" to-iso="0907-06-06">唐</date><placeName key="PL000000005362">五臺山華嚴寺</placeName><persName key="A009832">志遠</persName>傳（<persName key="A000762">元堪</persName>）</head><p><lb
+<div xmlns="http://www.tei-c.org/ns/1.0" type="義解" xml:id="gsz0745b07shiZhiYuan"><lb
+n="0745b07" ed="T"/><anchor n="T.50.2061.0745b07"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date><placeName key="PL000000005362">五臺山華嚴寺</placeName><persName key="A009832">志遠</persName>傳（<persName key="A000762">元堪</persName>）</head><p><lb
 ed="T" n="0745b08"/><persName key="A009832">釋志遠</persName>，俗姓宋氏，家于<placeName key="PL000000026322">汝南</placeName>。其父早喪，孤<lb
 ed="T" n="0745b09"/>侍孀親，承顏之禮，匪遑晨夕。母常念《法華<lb
-ed="T" n="0745b10"/>經》，精通五卷。<persName key="A009832">遠</persName>識度明敏，孤標卓然。<date key="j20114282011792" from-iso="0795-01-01" to-iso="0795-12-31">年二十<lb
+ed="T" n="0745b10"/>經》，精通五卷。<persName key="A009832">遠</persName>識度明敏，孤標卓然。<date key="j20114282011792" from-iso="+0795-01-01" to-iso="+0795-12-31">年二十<lb
 ed="T" n="0745b11"/>八</date>，辭親從師，歸依<placeName key="PL000000023656">荷澤</placeName>宗風，晤解幽旨，經<lb
 ed="T" n="0745b12"/>營僧事，聯綿<ref type="date" target="#j20114282013619">六秋</ref>。凡諸取給，未嘗混互。自<ref type="date" target="#j20136202013984">爾</ref><lb
-    ed="T" n="0745b13"/>辭師尋<anchor xml:id="beg0745sgsz3"/>禮<anchor xml:id="end0745sgsz3"/>，復經<ref type="date" target="#j20136202016541">八年</ref>，雖博贍兩宗，情猶繫<lb
+ed="T" n="0745b13"/>辭師尋<anchor xml:id="beg0745sgsz3"/>禮<anchor xml:id="end0745sgsz3"/>，復經<ref type="date" target="#j20136202016541">八年</ref>，雖博贍兩宗，情猶繫<lb
 ed="T" n="0745b14"/>滯。聞天台一枝，該通妙理，定、慧雙融，解進<lb
 ed="T" n="0745b15"/>於行。十乘境觀<ptr type="glossary" target="#g1035"/>，起自一家。修性三德<ptr type="glossary" target="#g876"/>，清涼盛<lb
 ed="T" n="0745b16"/>演。因命同輩追遊<placeName key="PL000000005250">五峯</placeName>，棲遁林泉，履歷前<lb
@@ -21,27 +21,27 @@ ed="T" n="0745b24"/>身心。至於緘札題尺<ptr type="glossary" target="#g10
 ed="T" n="0745b25"/>每有緇素負才學者，異其辯說，或傍搜僻<lb
 ed="T" n="0745b26"/>隱，欲為挫銳，伺之瑕玷，求其勝負。進雖<lb
 ed="T" n="0745b27"/>傲然踞席，退乃踧踖<ptr type="glossary" target="#g1042"/>𧹞容，來高我山，去隨<lb
-ed="T" n="0745b28"/>四悉<ptr type="glossary" target="#g1043"/>。洎<date from-iso="0844-01-28" key="j20293522029735" to-iso="0845-02-14">會昌四年</date>，春秋七十七，僧臘四十<lb
-ed="T" n="0745b29"/>八，忽絕食數朝，而說法罔憚。以<date key="j20293972029397" when-iso="0844-03-13">二月十七<pb ed="T" n="0745c" xml:id="T50.2061.0745c"/><lb
+ed="T" n="0745b28"/>四悉<ptr type="glossary" target="#g1043"/>。洎<date from-iso="+0844-01-28" key="j20293522029735" to-iso="+0845-02-14">會昌四年</date>，春秋七十七，僧臘四十<lb
+ed="T" n="0745b29"/>八，忽絕食數朝，而說法罔憚。以<date key="j20293972029397" when-iso="+0844-03-13">二月十七<pb ed="T" n="0745c" xml:id="T50.2061.0745c"/><lb
 ed="T" n="0745c01"/>日</date>誡門人曰：「<ref type="person" target="#A009832">吾</ref>自生修進，不欺心口，今<lb
 ed="T" n="0745c02"/>獲二種果報<ptr target="#n1044"/>，臥安、覺安而無痛惱。」又曰：「天<lb
 ed="T" n="0745c03"/>台宗疏，務在宣傳，《法華疏》十卷，本迹二門，三<lb
 ed="T" n="0745c04"/>周<ptr type="glossary" target="#g1045"/>記別，開近顯遠。《玄文》十卷，五義判釋。《止觀》<lb
 ed="T" n="0745c05"/>十卷，境、觀雙修，不定頓、漸，八教麁、妙，遮、照平<lb
 ed="T" n="0745c06"/>等，行、解圓明，一多相即一藏文句，瑩玉摐<ptr type="glossary" target="#g1046"/>金，<lb
-    ed="T" n="0745c07"/>將踐聖階，降茲罕及。<anchor xml:id="beg0745sgsz4"/>禮<anchor xml:id="end0745sgsz4"/>懺方等，必假精<lb
+ed="T" n="0745c07"/>將踐聖階，降茲罕及。<anchor xml:id="beg0745sgsz4"/>禮<anchor xml:id="end0745sgsz4"/>懺方等，必假精<lb
 ed="T" n="0745c08"/>誠，志之永懷，副<ref type="person" target="#A009832">吾</ref>之意也。」于時龍象雲萃，<lb
 ed="T" n="0745c09"/>櫛比座隅，咸讚希奇，同稱佛號。慈誨之際，<lb
-    ed="T" n="0745c10"/>奄至遷靈，風慘雲愁，山<anchor xml:id="beg0745sgsz5"/>昏<anchor xml:id="end0745sgsz5"/>水咽，林巒色變，徒<lb
+ed="T" n="0745c10"/>奄至遷靈，風慘雲愁，山<anchor xml:id="beg0745sgsz5"/>昏<anchor xml:id="end0745sgsz5"/>水咽，林巒色變，徒<lb
 ed="T" n="0745c11"/>屬悽傷。闍維日，諸子奔馳，罔知所詣。雖學<lb
 ed="T" n="0745c12"/>者如林，達其法者唯<persName key="A000762">元堪</persName>，即<placeName key="PL000000042850">扶風</placeName><persName key="A000784">馬<roleName>氏</roleName></persName>之裔<lb
 ed="T" n="0745c13"/>也。氣度沖邃，道風素高，蓋<persName key="A009832">遠</persName>傾其解脫之瓶，<lb
 ed="T" n="0745c14"/>注以醍醐<ptr type="glossary" target="#g883"/>之器，可謂一燈之後復<anchor xml:id="beg0745004"/>然<anchor xml:id="end0745004"/>一燈。<lb
 ed="T" n="0745c15"/>及<persName key="A006570">武宗</persName><ref type="date" target="#j20299132030170">澄汰之際</ref>，稟師先旨，哀慟累夕，以<lb
 ed="T" n="0745c16"/>其章疏文句，祕之屋壁。及<persName key="A003667">宣宗</persName>再闡釋門，<lb
-ed="T" n="0745c17"/>重葺舊居，取其教部，置之影堂，六時經行<ptr type="glossary" target="#g1047"/><lb
-ed="T" n="0745c18"/>儼若。前製《法華妙經》積歲傳唱。《摩訶止觀》久<lb
-ed="T" n="0745c19"/>而敷揚。嗣繼之心已極師資之禮也。</p>
+ed="T" n="0745c17"/>重葺舊居，取其教部，置之影堂，六時經行<ptr type="glossary" target="#g1047"/>，<lb
+ed="T" n="0745c18"/>儼若前製<ptr type="glossary" target="#g3"/>。《法華妙經》，積歲傳唱；《摩訶止觀》，久<lb
+ed="T" n="0745c19"/>而敷揚。嗣繼之心已極師、資之禮也。</p>
     <linkGrp>
         <link targets="#0745b08 #0745b08"/>
         <ptr target="#A009832" type="person"/>
