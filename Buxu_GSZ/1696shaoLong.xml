@@ -17,13 +17,13 @@
         <lb ed="X" n="0436c08"/>得其秘。或。疑師道貌甚愞。問<persName key="A001411">圓悟</persName>曰。<persName key="A001128">隆</persName>藏主。柔易若
         <lb ed="X" n="0436c09"/>此。何能為哉。<persName key="A001411">圓悟</persName>曰。瞌睡虎耳。後歸邑住城西<placeName key="PL000000055537">開聖</placeName>。
         <lb ed="X" n="0436c10"/><date from-iso="1127-06-19" to-iso="1131-02-06" key="j21328572134185">建炎</date>之擾盜。起<placeName key="PL000000010524">淮上</placeName>。乃南渡結廬<placeName key="PL000000055538">銅峰</placeName>之下。適<placeName key="PL000000055539">彰教</placeName>
-        <lb ed="X" n="0436c11"/>虗席。郡守<persName key="A008392">李尚書光</persName>。延師居之。四年而遷<placeName key="PL000000010003">虎丘</placeName>。時<persName key="A001411">圓<lb ed="X" n="0436c12"/>悟</persName>以亂離歸<placeName key="PL000000035103">蜀</placeName>。曩之輻湊川奔。一時後進。望山而趨。
+        <lb ed="X" n="0436c11"/>虗席。郡守<persName key="A008392">李<roleName>尚書</roleName>光</persName>。延師居之。四年而遷<placeName key="PL000000010007">虎丘</placeName>。時<persName key="A001411">圓<lb ed="X" n="0436c12"/>悟</persName>以亂離歸<placeName key="PL000000035103">蜀</placeName>。曩之輻湊川奔。一時後進。望山而趨。
         <lb ed="X" n="0436c13"/>師每登座。從實吐露。一味平等。隨根所應。皆愜其欲。
         <lb ed="X" n="0436c14"/>故<persName key="A001411">圓悟</persName>之道。復大振於東南。居三年感微疾。白眾曰
         <lb ed="X" n="0436c15"/>當以第一座宗達承院事。大書伽陀曰。無法可說。是
         <lb ed="X" n="0436c16"/>名說法。所以佛法無有剩語。珍重。擲筆坐逝。<date from-iso="1136-06-09" to-iso="1136-07-07" key="j21361352136163">紹興六<lb ed="X" n="0436c17"/>年丙辰五月</date>也。住世六十。坐四十五夏。塔全身于山
         <lb ed="X" n="0436c18"/>之陽。</p><p>
-            <lb ed="X" n="0436c19"/>　曹洞氏之<persName key="A020882">老秀</persName>公鎮<placeName key="PL000000010003">虎丘</placeName>。明年始以官命。并西庵
+            <lb ed="X" n="0436c19"/>　曹洞氏之<persName key="A020882">老秀</persName>公鎮<placeName key="PL000000010007">虎丘</placeName>。明年始以官命。并西庵
             <lb ed="X" n="0436c20"/>　墟之徙其棟瓦椽梠。完寺壞屋。於是<persName key="A001128">虎丘隆</persName>禪師
         <lb ed="X" n="0436c21"/>　之塔。破而復新。藩級崇宏。奧閾冥深。戶容庭貌。煒
             <lb ed="X" n="0436c22"/>　煥赫奕。觀瞻聳悅。如教復振。論者多<persName key="A020882">秀公</persName>之義。頌
@@ -36,7 +36,7 @@
         <lb ed="X" n="0437a05"/>　宇。致孝乎非己之祖。豈惟善善之公。足以滅黨私。
         <lb ed="X" n="0437a06"/>　而矯薄俗。彼為人後。而遺其先者。視公之為宜何
             <lb ed="X" n="0437a07"/>　如也。<persName key="A000658">明河</persName>曰。師見<persName key="A001411">圓悟</persName>。後以二親垂白。居<placeName key="PL000000055542">褒禪山</placeName>。
-            <lb ed="X" n="0437a08"/>　侍養者數年。住<placeName key="PL000000010003">虎丘</placeName>。追憶<persName key="A003723">白雲端</persName>立祖堂故事。乃
+            <lb ed="X" n="0437a08"/>　侍養者數年。住<placeName key="PL000000010007">虎丘</placeName>。追憶<persName key="A003723">白雲端</persName>立祖堂故事。乃
         <lb ed="X" n="0437a09"/>　曰。為人之後。不能躬行遺訓。於義安乎。遂圖像奉
         <lb ed="X" n="0437a10"/>　安之。此二事。一載山誌。一出傳燈。見師隆本之厚。
             <lb ed="X" n="0437a11"/>　因讀<persName key="A001410">天隱修</persName>塔文。深感於中。何後嗣之不然也。故
@@ -125,13 +125,13 @@
     <linkGrp>
         <link targets="#0436c11 #0436c18"/>
         <ptr target="#A001128" type="person"/>
-        <ptr target="#PL000000010003" type="place"/>
+        <ptr target="#PL000000010007" type="place"/>
         <ptr target="#j21361352136163" type="time"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0436c19 #0436c22"/>
         <ptr target="#A020882" type="person"/>
-        <ptr target="#PL000000010003" type="place"/>
+        <ptr target="#PL000000010007" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0437a07 #0437a08"/>
@@ -141,6 +141,6 @@
     <linkGrp>
         <link targets="#0437a08 #0437a10"/>
         <ptr target="#A001128" type="person"/>
-        <ptr target="#PL000000010003" type="place"/>
+        <ptr target="#PL000000010007" type="place"/>
     </linkGrp>
 </div>

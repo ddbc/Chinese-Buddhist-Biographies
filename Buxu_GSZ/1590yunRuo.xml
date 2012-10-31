@@ -2,11 +2,11 @@
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0392b08yunRuo">
     <head><lb ed="X" n="0392b08"/>　　　　<persName key="A007907">季蘅若</persName>法師傳</head>
     <p><anchor n="X.77.1524.0392b09"/><lb ed="X" n="0392b09"/><persName key="A007907">允若</persName>。字<persName key="A007907">季蘅</persName>。自號<persName key="A007907">浮休</persName>。子族相里氏。<placeName key="PL000000013259">越</placeName>人也。代為簪
-        <lb ed="X" n="0392b10"/>纓。師生有絕塵之趣。初為童子。給侍<placeName key="PL000000013295">雲門</placeName><persName key="A007914">元</persName>上人。<date key="j21936852194049" when-iso="1294">十<lb ed="X" n="0392b11"/>五</date>圓具。為大僧。至<placeName key="PL000000011508">虎林</placeName>。謁<persName key="A007915">[懨-猒+火]大山</persName>于<placeName key="PL000000011470">興福</placeName>。自是習天
-        <lb ed="X" n="0392b12"/>台教。<persName key="A000640">湛堂澄公</persName>。主<placeName key="PL000000011656">南天竺</placeName>。師與焉。聲入心通。知解日
+        <lb ed="X" n="0392b10"/>纓。師生有絕塵之趣。初為童子。給侍<placeName key="PL000000013295">雲門</placeName><persName key="A007914">元</persName>上人。<date key="j21936852194049" when-iso="1294">十<lb ed="X" n="0392b11"/>五</date>圓具。為大僧。至<placeName key="PL000000011508">虎林</placeName>。謁<persName key="A007915">[懨-猒+火]大山</persName>于<placeName key="PL000000011532">興福</placeName>。自是習天
+        <lb ed="X" n="0392b12"/>台教。<persName key="A000640">湛堂澄</persName>公。主<placeName key="PL000000011656">南天竺</placeName>。師與焉。聲入心通。知解日
         <lb ed="X" n="0392b13"/>至。<persName key="A000640">湛堂</persName>甚器之。既出世淨聖矣。<persName key="A000640">湛堂</persName>念之弗置。招之
         <lb ed="X" n="0392b14"/>徠歸。請居第一座。攝眾千餘人。持規峻整。經其指示。
-        <lb ed="X" n="0392b15"/>多所悟入。<date from-iso="1324-02-04" to-iso="1328-02-19" key="j22046752206151">泰定中</date>。行宣政院。請主<placeName key="PL000000011471">興化</placeName>。當是時。倡道
+        <lb ed="X" n="0392b15"/>多所悟入。<date from-iso="1324-02-04" to-iso="1328-02-19" key="j22046752206151">泰定中</date>。行宣政院。請主<placeName key="PL000000011431">興化</placeName>。當是時。倡道
         <lb ed="X" n="0392b16"/><placeName key="PL000000011501">杭</placeName>之南北兩山者。若<persName key="A008000">天岸濟</persName>。<persName key="A007930">我菴無</persName>。<persName key="A007931">玉庭罕</persName>。與師皆
         <lb ed="X" n="0392b17"/>有重望。人稱為佛海會中四天王。居亡何退居<placeName key="PL000000013295">雲門</placeName>。
         <lb ed="X" n="0392b18"/>視榮名利養。恬不屑意。翱翔岩壑間。時同<persName key="A007932">斷江恩</persName>師
@@ -42,7 +42,7 @@
         <link targets="#0392b11 #0392b12"/>
         <ptr target="#A007907" type="person"/>
         <ptr target="#A007915" type="person"/>
-        <ptr target="#PL000000011470" type="place"/>
+        <ptr target="#PL000000011532" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0392b12 #0392b15"/>
@@ -53,7 +53,7 @@
     <linkGrp>
         <link targets="#0392b15 #0392b15"/>
         <ptr target="#A007907" type="person"/>
-        <ptr target="#PL000000011471" type="place"/>
+        <ptr target="#PL000000011431" type="place"/>
         <ptr target="#j22046752206151" type="time"/>
     </linkGrp>
     <linkGrp>

@@ -2,12 +2,12 @@
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0460b01xianDu">
     <head><lb ed="X" n="0460b01"/>　　　　<persName key="A000325">無見覩</persName>傳(<persName key="A022216">光菩薩</persName>附)</head>
     <p><anchor n="X.77.1524.0460b02"/><lb ed="X" n="0460b02"/><persName key="A000325">先覩</persName>。字<persName key="A000325">無見</persName>。姓葉氏。世為天台<placeName key="PL000000014826">仙居</placeName>顯族。生於<date from-iso="1265-01-26" to-iso="1275-02-04" key="j21831182186779">宋咸<lb ed="X" n="0460b03"/>淳間</date>。資性秀頴。幼絕腥醲。嗜讀書。過目成誦。父母素
-        <lb ed="X" n="0460b04"/>期以儒業成家。會沙門<persName key="A019055">東洲善公</persName>者。過而識之。曰。此
+        <lb ed="X" n="0460b04"/>期以儒業成家。會沙門<persName key="A019055">東洲善</persName>公者。過而識之。曰。此
         <lb ed="X" n="0460b05"/>法器。宜無滯鄉里。父母諾之。從<persName key="A015395">古田垕</persName>和尚薙染。即
-        <lb ed="X" n="0460b06"/>事徧參。見<persName key="A019065">藏室珍</persName>公於<placeName key="PL000000014700">天封</placeName>。<persName key="A000187">方山寶</persName>公於<placeName key="PL000000014304">瑞岩西庵</placeName>。
+        <lb ed="X" n="0460b06"/>事徧參。見<persName key="A019065">藏室珍</persName>公於<placeName key="PL000000014700">天封</placeName>。<persName key="A000187">方山寶</persName>公於<placeName key="PL000000014877">瑞岩西庵</placeName>。
         <lb ed="X" n="0460b07"/>而往來二公間。雖有所契。未臻其極。遂築室<placeName key="PL000000014412">華頂峰</placeName>。
         <lb ed="X" n="0460b08"/>精苦自勵。一日作務次。渙然發省。平生凝滯。當下冰
-        <lb ed="X" n="0460b09"/>釋。乃走<placeName key="PL000000014304">西庵</placeName>呈所解。<persName key="A000187">山</persName>以偈印之。辭還<placeName key="PL000000014412">華頂</placeName>。<persName key="A000187">山</persName>不能
+        <lb ed="X" n="0460b09"/>釋。乃走<placeName key="PL000000014877">西庵</placeName>呈所解。<persName key="A000187">山</persName>以偈印之。辭還<placeName key="PL000000014412">華頂</placeName>。<persName key="A000187">山</persName>不能
         <lb ed="X" n="0460b10"/>留也。<placeName key="PL000000014412">華頂</placeName>高寒幽僻。人莫能久處。惟師一坐四十年。
         <lb ed="X" n="0460b11"/>足未甞輒越戶限。于方丈中。搆<placeName key="PL000000014752">娑羅軒</placeName>。開導學者。<persName key="A001799">夢<lb ed="X" n="0460b12"/>堂噩</persName>公序曰。<date from-iso="1271-12-25" to-iso="1308-01-31" key="j21856422198827">至元大德間</date>。<persName key="A000325">無見覩</persName>禪師。以<persName key="A000187">方山寶</persName>公
         <lb ed="X" n="0460b13"/>之道唱<placeName key="PL000000000197">東南</placeName>。於是天下英俊之儔。高潔之侶。雄豪魁
@@ -53,7 +53,7 @@
         <link targets="#0460b05 #0460b17"/>
         <ptr target="#A000325" type="person"/>
         <ptr target="#A000187" type="person"/>
-        <ptr target="#PL000000014304" type="place"/>
+        <ptr target="#PL000000014877" type="place"/>
         <ptr target="#j21856422198827" type="time"/>
     </linkGrp>
     <linkGrp>
@@ -65,7 +65,7 @@
         <link targets="#0460b08 #0460b10"/>
         <ptr target="#A000325" type="person"/>
         <ptr target="#A000187" type="person"/>
-        <ptr target="#PL000000014304" type="place"/>
+        <ptr target="#PL000000014877" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0460b10 #0460b11"/>

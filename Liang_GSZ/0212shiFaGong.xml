@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0407c07shiFaGong">
-    <p><anchor n="T.50.2059.0407c07"/><lb ed="T" n="0407c07"/><persName key="A002349">釋法恭</persName>，姓關，<placeName key="PL000000042394">雍州</placeName>人。初出家，止<placeName key="PL000000027763">江陵安養<lb ed="T" n="0407c08"/>寺</placeName>。後出<placeName key="PL000000008976">京師</placeName>，住<placeName key="PL000000009195">東安寺</placeName>。少而苦行殊倫，服<lb ed="T" n="0407c09"/>布衣，餌<ptr target="fn20"/>菽麥，誦經三十餘萬言。每夜諷詠，<lb ed="T" n="0407c10"/>輒有殊香異氣，入<persName key="A002349">恭</persName>房者咸共聞之。又以<lb ed="T" n="0407c11"/>弊納聚蚤虱，常披以<ptr target="fn21"/>飴之。<persName key="A002043">宋武</persName><persName key="A002604">文</persName><persName key="A002652">明</persName>三帝<lb ed="T" n="0407c12"/>及<persName key="A003410">衡陽文王義<ptr target="fn22"/>秀</persName>等，並崇其德<ptr target="fn23"/>素。所獲信<lb ed="T" n="0407c13"/>施，常分給貧病，未嘗私蓄。<date from-iso="0466" key="j18912671893480" to-iso="0472">宋太始中</date>還<placeName key="PL000000042394">西</placeName>，<lb ed="T" n="0407c14"/>卒於彼，春秋八十。</p><p>時<placeName key="PL000000008835">烏衣</placeName>復有<persName key="A003411">僧恭</persName>者，德<lb ed="T" n="0407c15"/>業高明，綱總寺任。亦不食粳糧，唯餌豆<lb ed="T" n="0407c16"/>麥。</p>
+    <p><anchor n="T.50.2059.0407c07"/><lb ed="T" n="0407c07"/><persName key="A002349">釋法恭</persName>，姓關，<placeName key="PL000000042394">雍州</placeName>人。初出家，止<placeName key="PL000000027763">江陵安養<lb ed="T" n="0407c08"/>寺</placeName>。後出<placeName key="PL000000008976">京師</placeName>，住<placeName key="PL000000009195">東安寺</placeName>。少而苦行殊倫，服<lb ed="T" n="0407c09"/>布衣，餌<ptr target="fn20"/>菽麥，誦經三十餘萬言。每夜諷詠，<lb ed="T" n="0407c10"/>輒有殊香異氣，入<persName key="A002349">恭</persName>房者咸共聞之。又以<lb ed="T" n="0407c11"/>弊納聚蚤虱，常披以<ptr target="fn21"/>飴之。<persName key="A002043">宋武</persName>、<persName key="A002604">文</persName>、<persName key="A002652">明</persName>三帝<lb ed="T" n="0407c12"/>及<persName key="A003410">衡陽文王義<ptr target="fn22"/>秀</persName>等，並崇其德<ptr target="fn23"/>素。所獲信<lb ed="T" n="0407c13"/>施，常分給貧病，未嘗私蓄。<date from-iso="0466" key="j18912671893480" to-iso="0472">宋太始中</date>還<placeName key="PL000000027763">西</placeName>，<lb ed="T" n="0407c14"/>卒於彼，春秋八十。</p><p>時<placeName key="PL000000008835">烏衣</placeName>復有<persName key="A003411">僧恭</persName>者，德<lb ed="T" n="0407c15"/>業高明，綱總寺任。亦不食粳糧，唯餌豆<lb ed="T" n="0407c16"/>麥。</p>
     <linkGrp>
         <link targets="#0407c07 #0407c08"/>
         <ptr target="#A002349" type="person"/>
@@ -27,7 +27,7 @@
     <linkGrp>
         <link targets="#0407c13 #0407c14"/>
         <ptr target="#A002349" type="person"/>
-        <ptr target="#PL000000042394" type="place"/>
+        <ptr target="#PL000000027763" type="place"/>
         <ptr target="#j18912671893480" type="time"/>
     </linkGrp>
 </div>

@@ -17,7 +17,7 @@
             <lb ed="T" n="0106c12"/><persName key="A000751">安陽</persName>通習積久，臨筆無滯，旬有七日，出為五
             <lb ed="T" n="0106c13"/>卷。其年仍於鍾山<placeName key="PL000000008754">定林上寺</placeName>，續出《佛母泥洹
             <lb ed="T" n="0106c14"/>經》一卷。<persName key="A000751">安陽</persName>居絕妻孥。無欲榮利，從容法侶
-            <lb ed="T" n="0106c15"/>宣通經典，是以<ref type="place" target="#PL000000008975">京邑</ref>白黑咸敬而嘉焉。以<date from-iso="0462" to-iso="0465" key="j18900491890941">大<lb ed="T" n="0106c16"/>明之末</date>遘<ptr target="fn19"/>疾卒。</p><p>時有外國沙門<persName key="A019572">功德<ptr target="fn20"/>直</persName>者，
+            <lb ed="T" n="0106c15"/>宣通經典，是以<ref type="place" target="#PL000000008975">京邑</ref>白黑咸敬而嘉焉。以<date from-iso="0462" to-iso="0465" key="j18900491890941">大<lb ed="T" n="0106c16"/>明之末</date>遘<ptr target="fn19"/>疾卒。</p><p>時有外國沙門<persName key="A000217">功德<ptr target="fn20"/>直</persName>者，
                 <lb ed="T" n="0106c17"/>不知何國人。以<date from-iso="0457" to-iso="0465" key="j18880181890941">宋大明中</date>遊方至<placeName key="PL000000027771">荊州</placeName>，寓<placeName key="PL000000027714">禪<lb ed="T" n="0106c18"/>房寺</placeName>。沙門<persName key="A000298">玄暢</persName>請其譯出《念佛三昧經》六卷，
                 <lb ed="T" n="0106c19"/>及《破魔陀羅尼》。停<placeName key="PL000000027771">荊</placeName>歷年，後不知所移。</p>
    
@@ -90,13 +90,13 @@
     </linkGrp>
     <linkGrp>
         <link targets="#0106c16 #0106c18"/>
-        <ptr target="#A019572" type="person"/>
+        <ptr target="#A000217" type="person"/>
         <ptr target="#PL000000027714" type="place"/>
         <ptr target="#j18880181890941" type="time"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0106c18 #0106c19"/>
         <ptr target="#A000298" type="person"/>
-        <ptr target="#A019572" type="person"/>
+        <ptr target="#A000217" type="person"/>
     </linkGrp>
 </div>

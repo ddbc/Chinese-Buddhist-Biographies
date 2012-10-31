@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0450b15daoSheng">
-    <head><lb ed="X" n="0450b15"/>　　　　<persName key="A014748">道升</persName>傳</head>
-    <p><anchor n="X.77.1524.0450b16"/><lb ed="X" n="0450b16"/><persName key="A014748">道升</persName>。<placeName key="PL000000018311">建安</placeName>吳氏子。生有肉如環。在其左乳。及出家。肉
+    <head><lb ed="X" n="0450b15"/>　　　　<persName key="A008431">道升</persName>傳</head>
+    <p><anchor n="X.77.1524.0450b16"/><lb ed="X" n="0450b16"/><persName key="A008431">道升</persName>。<placeName key="PL000000018311">建安</placeName>吳氏子。生有肉如環。在其左乳。及出家。肉
         <lb ed="X" n="0450b17"/>環始隱。天資聰慧。<date key="j21286702129035" when-iso="1116">十九</date>披削。浩然有游參志。父早世。
         <lb ed="X" n="0450b18"/>事母以孝聞。母沒。遂至<placeName key="PL000000017532">長樂</placeName>。見<persName key="A007993">佛智[示*谷]</persName>公。入其室。言
         <lb ed="X" n="0450b19"/>下頓悟。自是機鋒迅發。人不敢嬰。<persName key="A007993">佛智</persName>移<placeName key="PL000000011596">靈隱</placeName>。師為
@@ -22,61 +22,61 @@
     
     <linkGrp>
         <link targets="#0450b16 #0450b16"/>
-        <ptr target="#A014748" type="person"/>
+        <ptr target="#A008431" type="person"/>
         <ptr target="#PL000000018311" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0450b16 #0450b17"/>
-        <ptr target="#A014748" type="person"/>
+        <ptr target="#A008431" type="person"/>
         <ptr target="#j21286702129035" type="time"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0450b17 #0450b19"/>
-        <ptr target="#A014748" type="person"/>
+        <ptr target="#A008431" type="person"/>
         <ptr target="#A007993" type="person"/>
         <ptr target="#PL000000017532" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0450b19 #0450b20"/>
-        <ptr target="#A014748" type="person"/>
+        <ptr target="#A008431" type="person"/>
         <ptr target="#A007993" type="person"/>
         <ptr target="#PL000000011596" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0450b20 #0450b21"/>
-        <ptr target="#A014748" type="person"/>
+        <ptr target="#A008431" type="person"/>
         <ptr target="#PL000000017901" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0450b20 #0450b21"/>
-        <ptr target="#A014748" type="person"/>
+        <ptr target="#A008431" type="person"/>
         <ptr target="#PL000000055642" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0450b22 #0450b23"/>
-        <ptr target="#A014748" type="person"/>
+        <ptr target="#A008431" type="person"/>
         <ptr target="#PL000000055643" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0450b22 #0450b23"/>
-        <ptr target="#A014748" type="person"/>
+        <ptr target="#A008431" type="person"/>
         <ptr target="#A022134" type="person"/>
         <ptr target="#PL000000055643" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0450b23 #0450b24"/>
-        <ptr target="#A014748" type="person"/>
+        <ptr target="#A008431" type="person"/>
         <ptr target="#PL000000017875" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0450b23 #0450b24"/>
-        <ptr target="#A014748" type="person"/>
+        <ptr target="#A008431" type="person"/>
         <ptr target="#A022135" type="person"/>
         <ptr target="#PL000000018596" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0450b24 #0450c01"/>
-        <ptr target="#A014748" type="person"/>
+        <ptr target="#A008431" type="person"/>
         <ptr target="#A008526" type="person"/>
     </linkGrp>
     <linkGrp>
@@ -86,23 +86,23 @@
     </linkGrp>
     <linkGrp>
         <link targets="#0450b24 #0450c02"/>
-        <ptr target="#A014748" type="person"/>
+        <ptr target="#A008431" type="person"/>
         <ptr target="#A022137" type="person"/>
         <ptr target="#PL000000018633" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0450b24 #0450c03"/>
-        <ptr target="#A014748" type="person"/>
+        <ptr target="#A008431" type="person"/>
         <ptr target="#PL000000019708" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0450b24 #0450c03"/>
-        <ptr target="#A014748" type="person"/>
+        <ptr target="#A008431" type="person"/>
         <ptr target="#PL000000018311" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0450c03 #0450c04"/>
-        <ptr target="#A014748" type="person"/>
+        <ptr target="#A008431" type="person"/>
         <ptr target="#A005225" type="person"/>
         <ptr target="#PL000000017195" type="place"/>
     </linkGrp>

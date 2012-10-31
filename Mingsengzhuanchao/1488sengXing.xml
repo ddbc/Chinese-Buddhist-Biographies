@@ -1,13 +1,13 @@
 <?xml version='1.0' encoding='utf-8'?>
-<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="mscc0353a19sengXing"><head>齊上虞<placeName key="PL000000013403">城山寺</placeName><persName key="A016628">釋僧行</persName></head><p><anchor n="X.77.1523.0353a19"/><lb ed="X" n="0353a19"/>和上諱僧行本姓支。會稽<placeName key="PL000000013245">山陰</placeName>人。<date key="j18477991848163" when-iso="0347">年十三</date>出家。為<persName key="A002263">基<lb ed="X" n="0353a20"/>法師</persName>弟子。住<placeName key="PL000000013170">城傍寺</placeName>。每曰。神仙之道終有遷墜。玄儒<lb ed="X" n="0353a21"/>之教不能出俗。陶瑩心神。開發慧悟。莫先乎釋氏。乃<lb ed="X" n="0353a22"/>披經問道。威儀弘備。常惜寸陰。和上同學<persName key="A018819">僧悝</persName>。擅名<lb ed="X" n="0353a23"/><placeName key="PL000000000083">東夏</placeName>。與和上影響<persName key="A002263">惠基</persName>。共弘至教。悝<placeName key="PL000000013245">山陰</placeName>人。體度弘<lb ed="X" n="0353a24"/>泰。風味宕遠。基每曰。能光益風化。唯<persName key="A016628">行</persName><persName key="A018819">悝</persName>而已。<ref target="#A016628" type="person">和上</ref><lb ed="X" n="0353b01"/>以人間諠動。乃移住<placeName key="PL000000012908">法華寺</placeName>。自非法事。足不下山。<date from-iso="0483-01-26" key="j18974981901365" to-iso="0493-08-28">永<lb ed="X" n="0353b02"/>明</date>中。上虞縣<placeName key="PL000000013403">城山寺</placeName>。是<persName key="A003365">蔡興宗</persName>所立。年歲稍久。風範<lb ed="X" n="0353b03"/>彫喪。既闕總領。請和上鎮正。乃拂衣就之。於是闡揚<lb ed="X" n="0353b04"/>法教。開示誘施。齊齊烏眾。等化之常悅。念西方。要期<lb ed="X" n="0353b05"/>安養。春秋五十九。<date from-iso="0493-02-03" key="j19011591901365" to-iso="0493-08-28">永明十一年</date>卒。又有同學<persName key="A018822">惠通</persName>。弟<lb ed="X" n="0353b06"/>子<persName key="A018823">僧誕</persName>(云云)。</p>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="mscc0353a19sengXing"><head>齊上虞<placeName key="PL000000013403">城山寺</placeName><persName key="A003082">釋僧行</persName></head><p><anchor n="X.77.1523.0353a19"/><lb ed="X" n="0353a19"/>和上諱僧行本姓支。會稽<placeName key="PL000000013245">山陰</placeName>人。<date key="j18477991848163" when-iso="0347">年十三</date>出家。為<persName key="A002263">基<lb ed="X" n="0353a20"/>法師</persName>弟子。住<placeName key="PL000000013170">城傍寺</placeName>。每曰。神仙之道終有遷墜。玄儒<lb ed="X" n="0353a21"/>之教不能出俗。陶瑩心神。開發慧悟。莫先乎釋氏。乃<lb ed="X" n="0353a22"/>披經問道。威儀弘備。常惜寸陰。和上同學<persName key="A018819">僧悝</persName>。擅名<lb ed="X" n="0353a23"/><placeName key="PL000000000083">東夏</placeName>。與和上影響<persName key="A002263">惠基</persName>。共弘至教。悝<placeName key="PL000000013245">山陰</placeName>人。體度弘<lb ed="X" n="0353a24"/>泰。風味宕遠。基每曰。能光益風化。唯<persName key="A003082">行</persName><persName key="A018819">悝</persName>而已。<ref target="#A003082" type="person">和上</ref><lb ed="X" n="0353b01"/>以人間諠動。乃移住<placeName key="PL000000012908">法華寺</placeName>。自非法事。足不下山。<date from-iso="0483-01-26" key="j18974981901365" to-iso="0493-08-28">永<lb ed="X" n="0353b02"/>明</date>中。上虞縣<placeName key="PL000000013403">城山寺</placeName>。是<persName key="A003365">蔡興宗</persName>所立。年歲稍久。風範<lb ed="X" n="0353b03"/>彫喪。既闕總領。請和上鎮正。乃拂衣就之。於是闡揚<lb ed="X" n="0353b04"/>法教。開示誘施。齊齊烏眾。等化之常悅。念西方。要期<lb ed="X" n="0353b05"/>安養。春秋五十九。<date from-iso="0493-02-03" key="j19011591901365" to-iso="0493-08-28">永明十一年</date>卒。又有同學<persName key="A018822">惠通</persName>。弟<lb ed="X" n="0353b06"/>子<persName key="A018823">僧誕</persName>(云云)。</p>
     <linkGrp>
         <link targets="#0353a19 #0353a19"/>
-        <ptr target="#A016628" type="person"/>
+        <ptr target="#A003082" type="person"/>
         <ptr target="#PL000000013245" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0353a19 #0353a24"/>
-        <ptr target="#A016628" type="person"/>
+        <ptr target="#A003082" type="person"/>
         <ptr target="#A002263" type="person"/>
         <ptr target="#A018819" type="person"/>
         <ptr target="#PL000000013170" type="place"/>
@@ -15,24 +15,24 @@
     </linkGrp>
     <linkGrp>
         <link targets="#0353a24 #0353b01"/>
-        <ptr target="#A016628" type="person"/>
+        <ptr target="#A003082" type="person"/>
         <ptr target="#PL000000012908" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0353b01 #0353b05"/>
-        <ptr target="#A016628" type="person"/>
+        <ptr target="#A003082" type="person"/>
         <ptr target="#PL000000013403" type="place"/>
         <ptr target="#j18974981901365" type="time"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0353b04 #0353b05"/>
-        <ptr target="#A016628" type="person"/>
+        <ptr target="#A003082" type="person"/>
         <ptr target="#PL000000013403" type="place"/>
         <ptr target="#j19011591901365" type="time"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0353b04 #0353b05"/>
-        <ptr target="#A016628" type="person"/>
+        <ptr target="#A003082" type="person"/>
         <ptr target="#A018822" type="person"/>
         <ptr target="#A018823" type="person"/>
     </linkGrp>

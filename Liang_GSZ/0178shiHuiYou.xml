@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0400b03shiHuiYou">
-    <p><anchor n="T.50.2059.0400c23"/><lb ed="T" n="0400c23"/><persName key="A002317">釋慧猷</persName>，<placeName key="PL000000000197">江</placeName><ptr target="fn30"/>左人。少出家，止<placeName key="PL000000027715">江陵辛寺</placeName>。幼而<lb ed="T" n="0400c24"/>蔬食履操，至性方直。及具戒已後，專精律禁。<lb ed="T" n="0400c25"/>時有<placeName key="PL000000049232">西國</placeName>律師<persName key="A000552">卑摩羅叉</persName>，來適<placeName key="PL000000027766">江陵</placeName>，大弘<lb ed="T" n="0400c26"/>律藏，<persName key="A002317">猷</persName>從之受業。沈思積時，乃大明《十誦》，<lb ed="T" n="0400c27"/>講說相續，陝西律師莫不宗之。後卒於<placeName key="PL000000027766">江<lb ed="T" n="0400c28"/>陵</placeName>。著《十誦義疏》八卷。</p>
+    <p><anchor n="T.50.2059.0400c23"/><lb ed="T" n="0400c23"/><persName key="A002317">釋慧猷</persName>，<placeName key="PL000000000197">江<ptr target="fn30"/>左</placeName>人。少出家，止<placeName key="PL000000027715">江陵辛寺</placeName>。幼而<lb ed="T" n="0400c24"/>蔬食履操，至性方直。及具戒已後，專精律禁。<lb ed="T" n="0400c25"/>時有<placeName key="PL000000049232">西國</placeName>律師<persName key="A000552">卑摩羅叉</persName>，來適<placeName key="PL000000027766">江陵</placeName>，大弘<lb ed="T" n="0400c26"/>律藏，<persName key="A002317">猷</persName>從之受業。沈思積時，乃大明《十誦》，<lb ed="T" n="0400c27"/>講說相續，陝西律師莫不宗之。後卒於<placeName key="PL000000027766">江<lb ed="T" n="0400c28"/>陵</placeName>。著《十誦義疏》八卷。</p>
     <linkGrp>
         <link targets="#0400c23 #0400c27"/>
         <ptr target="#A002317" type="person"/>

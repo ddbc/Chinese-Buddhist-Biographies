@@ -4,14 +4,14 @@
     <p><anchor n="X.77.1524.0391c09"/><lb ed="X" n="0391c09"/><persName key="A007939">必才</persName>。字<persName key="A007939">大用</persName>。台<placeName key="PL000000014896">臨海</placeName>屈氏子。父<persName key="A019995">哲</persName>明大經。為科目之
         <lb ed="X" n="0391c10"/>儒。母<persName key="A019996">趙氏</persName>。嗜善崇佛惟謹。師<date key="j21929542193319" when-iso="1292">生</date>甫能言。輒記孝經一
         <lb ed="X" n="0391c11"/>卷。<date key="j21951462195510" when-iso="1298">七歲</date>善屬句。脫口而就。諧協有思致。祝髮受具戒。
-        <lb ed="X" n="0391c12"/>出游<placeName key="PL000000011508">武林</placeName>。謁<persName key="A000640">湛堂澄公</persName>。公見其顏貌峻拔。出語皆中
+        <lb ed="X" n="0391c12"/>出游<placeName key="PL000000011508">武林</placeName>。謁<persName key="A000640">湛堂澄</persName>公。公見其顏貌峻拔。出語皆中
         <lb ed="X" n="0391c13"/>肯綮。即以法器期之。時<persName key="A001638">潤玉岡</persName>為第一座。師折節事
         <lb ed="X" n="0391c14"/>之。雖流金之暑。折膠之寒。足不踰戶限者十年。凡台
         <lb ed="X" n="0391c15"/>家部味之玄。教觀之要。一經指授。意釋心融。無不臻
         <lb ed="X" n="0391c16"/>其閫奧。<persName key="A001638">玉岡</persName>歎曰。此子。非靈山會上業已習之。烏能
-        <lb ed="X" n="0391c17"/>至此哉。<persName key="A001638">玉岡</persName>出主海鹽<placeName key="PL000000012797">德勝</placeName>。師分座焉。暨<persName key="A001638">玉岡</persName>遷<placeName key="PL000000011632">演<lb ed="X" n="0391c18"/>福</placeName>。宣政院請師。繼其教席。當是時。<persName key="A000640">湛堂</persName>聲稱。喧播中
+        <lb ed="X" n="0391c17"/>至此哉。<persName key="A001638">玉岡</persName>出主海鹽<placeName key="PL000000012797">德勝</placeName>。師分座焉。暨<persName key="A001638">玉岡</persName>遷<placeName key="PL000000011656">演<lb ed="X" n="0391c18"/>福</placeName>。宣政院請師。繼其教席。當是時。<persName key="A000640">湛堂</persName>聲稱。喧播中
         <lb ed="X" n="0391c19"/>外。眾意。師必願與之子。及升座瓣香嗣<persName key="A001638">玉岡</persName>。君子謂
-        <lb ed="X" n="0391c20"/>其知義。<date from-iso="1342-02-14" to-iso="1343-02-03" key="j22112602211614">至正二年</date>。遷杭之<placeName key="PL000000011470">興福</placeName>。未幾。陞主<placeName key="PL000000011632">演福</placeName>。丞相
+        <lb ed="X" n="0391c20"/>其知義。<date from-iso="1342-02-14" to-iso="1343-02-03" key="j22112602211614">至正二年</date>。遷杭之<placeName key="PL000000011532">興福</placeName>。未幾。陞主<placeName key="PL000000011656">演福</placeName>。丞相
         <lb ed="X" n="0391c21"/><persName key="A008134">康里</persName>公。屢至香幣。咨決心要。寺久圮。師為次第新之。
         <lb ed="X" n="0391c22"/>建<placeName key="PL000000011633">萬佛閣</placeName>。其崇以尺許一百三十有奇。師之為人。凝
         <lb ed="X" n="0391c23"/>重簡默。觀行精勵。孜孜修進。無斯須懈怠。每夏終制
@@ -50,7 +50,7 @@
     <linkGrp>
         <link targets="#0391c17 #0391c18"/>
         <ptr target="#A001638" type="person"/>
-        <ptr target="#PL000000011632" type="place"/>
+        <ptr target="#PL000000011656" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0391c17 #0391c20"/>
@@ -61,14 +61,14 @@
     <linkGrp>
         <link targets="#0391c20 #0391c20"/>
         <ptr target="#A007939" type="person"/>
-        <ptr target="#PL000000011470" type="place"/>
+        <ptr target="#PL000000011532" type="place"/>
         <ptr target="#j22112602211614" type="time"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0391c20 #0391c22"/>
         <ptr target="#A007939" type="person"/>
         <ptr target="#A008134" type="person"/>
-        <ptr target="#PL000000011632" type="place"/>
+        <ptr target="#PL000000011656" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0392a01 #0392a07"/>

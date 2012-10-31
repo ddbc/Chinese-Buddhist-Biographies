@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0416a09shiHuiQu">
-    <p><anchor n="T.50.2059.0416a09"/><lb ed="T" n="0416a09"/><persName key="A003519">釋慧璩</persName>，<placeName key="PL000000008882">丹陽</placeName>人。出家止<placeName key="PL000000008823">瓦官寺</placeName>。<ptr target="fn02"/>讀覽經論，<lb ed="T" n="0416a10"/>涉獵書史。眾<ptr target="fn03"/>技多閑，而尤善唱導。出語成<lb ed="T" n="0416a11"/>章，動辭製作，臨時採博，罄無不妙。<ptr target="fn04"/>詣<persName key="A002604">宋<lb ed="T" n="0416a12"/>太祖文皇帝</persName>、車騎<persName key="A003520">臧質</persName>，並提携友善，雅相崇<lb ed="T" n="0416a13"/>愛。<persName key="A002646">譙王</persName>鎮<placeName key="PL000000027771">荊</placeName>，要與同行。後逆節還朝，於<placeName key="PL000000016284">梁<lb ed="T" n="0416a14"/>山</placeName>設會。頃之，<persName key="A002646">譙王</persName>敗，<persName key="A003519">璩</persName>還<placeName key="PL000000008976">京</placeName>。後<persName key="A002105">宋孝武</persName>設<lb ed="T" n="0416a15"/>齋，<persName key="A003519">璩</persName>唱導，<persName key="A002105">帝</persName>問<persName key="A003519">璩</persName>曰：「今日之集，何如<placeName key="PL000000016284">梁山</placeName>？」<lb ed="T" n="0416a16"/><persName key="A003519">璩</persName>曰：「天道助順，況復為逆？」<persName key="A002105">帝</persName>悅之。明旦，別<lb ed="T" n="0416a17"/>嚫一萬。後勅為<placeName key="PL000000008976">京邑</placeName>都維那。<date key="j18880181890941" notAfter-iso="0465" notBefore-iso="0457">大明</date>末，終於<lb ed="T" n="0416a18"/><placeName key="PL000000008823">寺</placeName>，年七十二。</p>
+    <p><anchor n="T.50.2059.0416a09"/><lb ed="T" n="0416a09"/><persName key="A003519">釋慧璩</persName>，<placeName key="PL000000008882">丹陽</placeName>人。出家止<placeName key="PL000000008823">瓦官寺</placeName>。<ptr target="fn02"/>讀覽經論，<lb ed="T" n="0416a10"/>涉獵書史。眾<ptr target="fn03"/>技多閑，而尤善唱導。出語成<lb ed="T" n="0416a11"/>章，動辭製作，臨時採博，罄無不妙。<ptr target="fn04"/>詣<persName key="A002604">宋<lb ed="T" n="0416a12"/>太祖文皇帝</persName>、車騎<persName key="A003520">臧質</persName>，並提携友善，雅相崇<lb ed="T" n="0416a13"/>愛。<persName key="A002646">譙王</persName>鎮<placeName key="PL000000027771">荊</placeName>，要與同行。後逆節還朝，於<placeName key="PL000000015129">梁<lb ed="T" n="0416a14"/>山</placeName>設會。頃之，<persName key="A002646">譙王</persName>敗，<persName key="A003519">璩</persName>還<placeName key="PL000000008976">京</placeName>。後<persName key="A002105">宋孝武</persName>設<lb ed="T" n="0416a15"/>齋，<persName key="A003519">璩</persName>唱導，<persName key="A002105">帝</persName>問<persName key="A003519">璩</persName>曰：「今日之集，何如<placeName key="PL000000015129">梁山</placeName>？」<lb ed="T" n="0416a16"/><persName key="A003519">璩</persName>曰：「天道助順，況復為逆？」<persName key="A002105">帝</persName>悅之。明旦，別<lb ed="T" n="0416a17"/>嚫一萬。後勅為<placeName key="PL000000008976">京邑</placeName>都維那。<date key="j18880181890941" notAfter-iso="0465" notBefore-iso="0457">大明</date>末，終於<lb ed="T" n="0416a18"/><placeName key="PL000000008823">寺</placeName>，年七十二。</p>
     <linkGrp>
         <link targets="#0416a09 #0416a10"/>
         <ptr target="#A003519" type="person"/>
@@ -20,13 +20,13 @@
     <linkGrp>
         <link targets="#0416a13 #0416a14"/>
         <ptr target="#A003519" type="person"/>
-        <ptr target="#PL000000016284" type="place"/>
+        <ptr target="#PL000000015129" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0416a14 #0416a17"/>
         <ptr target="#A003519" type="person"/>
         <ptr target="#A002105" type="person"/>
-        <ptr target="#PL000000016284" type="place"/>
+        <ptr target="#PL000000015129" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0416a17 #0416a18"/>

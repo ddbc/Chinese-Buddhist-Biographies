@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0356b17shiDaoLi">
-  <p><anchor n="T.50.2059.0356b17"/><lb ed="T" n="0356b17"/><persName key="A002212">釋道立</persName>，不知何許人。少出家，事<persName key="A001503">安公</persName>為師，<lb ed="T" n="0356b18"/>善《放光經》。又以《莊》《老》三玄，微應佛理，頗亦<lb ed="T" n="0356b19"/>屬意焉。性澄靖，不涉當世。後隨<persName key="A001503">安</persName>入<placeName key="PL000000042002">關</placeName>，隱<lb ed="T" n="0356b20"/><placeName key="PL000000008733">覆舟山</placeName>，巖居獨<ptr target="fn07"/>處，不受供養。每潛思入<lb ed="T" n="0356b21"/>禪，輒七日不起，如此者數矣。後夏初忽出<lb ed="T" n="0356b22"/>山，鳩集眾僧，自為講《大<ptr target="fn08"/>品》。或問其故，答<lb ed="T" n="0356b23"/>云：「<persName key="A002212">我</persName>止可至秋，為欲令所懷粗訖耳。」自<lb ed="T" n="0356b24"/>恣後數日，果無疾而終，時人謂知命者矣。</p>
+  <p><anchor n="T.50.2059.0356b17"/><lb ed="T" n="0356b17"/><persName key="A002212">釋道立</persName>，不知何許人。少出家，事<persName key="A001503">安公</persName>為師，<lb ed="T" n="0356b18"/>善《放光經》。又以《莊》《老》三玄，微應佛理，頗亦<lb ed="T" n="0356b19"/>屬意焉。性澄靖，不涉當世。後隨<persName key="A001503">安</persName>入<placeName key="PL000000042002">關</placeName>，隱<lb ed="T" n="0356b20"/><placeName key="PL000000057301">覆舟山</placeName>，巖居獨<ptr target="fn07"/>處，不受供養。每潛思入<lb ed="T" n="0356b21"/>禪，輒七日不起，如此者數矣。後夏初忽出<lb ed="T" n="0356b22"/>山，鳩集眾僧，自為講《大<ptr target="fn08"/>品》。或問其故，答<lb ed="T" n="0356b23"/>云：「<persName key="A002212">我</persName>止可至秋，為欲令所懷粗訖耳。」自<lb ed="T" n="0356b24"/>恣後數日，果無疾而終，時人謂知命者矣。</p>
   <linkGrp>
     <link targets="#0356b19 #0356b20"/>
     <ptr target="#A002212" type="person"/>
     <ptr target="#A001503" type="person"/>
-    <ptr target="#PL000000008733" type="place"/>
+    <ptr target="#PL000000057301" type="place"/>
   </linkGrp>
 </div>
