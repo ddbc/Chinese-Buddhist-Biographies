@@ -2,7 +2,7 @@
 <div xmlns="http://www.tei-c.org/ns/1.0" type="譯經" xml:id="gsz0712a23shiBuKong"><lb
 ed="T" n="0712a23"/><anchor n="T.50.2061.0712a23"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date><placeName key="PL000000042218">京兆大興善寺</placeName><persName key="A000095">不空</persName>傳（<persName key="A008843">慧朗</persName>）</head><p><lb
 ed="T" n="0712a24"/><persName key="A000095">釋不空</persName>，<name>梵</name>名<persName key="A000095">阿目佉跋折羅</persName>，<name>華</name>言<persName key="A000095">不空金剛</persName>，<lb
-ed="T" n="0712a25"/>止行二字，略也<ptr target="#n116"/>。本<placeName key="PL000000055420">北天竺</placeName>婆羅門<ptr rend="display:none;" type="glossary" target="#g117"/>族，幼失所<lb
+ed="T" n="0712a25"/>止行二字，略也<ptr target="#n116"/>。本<placeName key="PL000000055420">北天竺</placeName>婆羅門<ptr rend="display:none;" type="glossary" target="#g117"/>族<ptr target="#n292"/>，幼失所<lb
 ed="T" n="0712a26"/>天<ptr target="#n118"/>，隨叔父觀光<placeName key="PL000000000083">東國</placeName>。<date key="j19836731984037" from-iso="+0719-01-05" to-iso="+0720-01-04">年十五</date><ptr target="#n119"/>，師事<persName key="A000774">金剛智<lb
 ed="T" n="0712a27"/>三藏</persName>，初導以<name>梵</name>本悉曇章<ptr type="glossary" target="#g123"/>及聲明論<ptr type="glossary" target="#g124"/>，浹旬已<lb
 ed="T" n="0712a28"/>通徹矣。<ref target="#A000774" type="person">師</ref>大異之，與受菩薩戒<ptr type="glossary" target="#g120"/>，引入金剛<lb
@@ -37,7 +37,7 @@ ed="T" n="0712b27"/>遣使迎<ref target="#A000095" type="person">之</ref>。�
 ed="T" n="0712b28"/>見<persName key="A000095">空</persName>，<anchor xml:id="beg0712sgsz2"/>禮<anchor xml:id="end0712sgsz2"/>足請住宮中，七日供養。日以黃金<lb
 ed="T" n="0712b29"/>斛滿盛香水，<ref target="#A008837" type="person">王</ref>為<persName key="A000095">空</persName>躬自洗浴，次太子、后<pb ed="T" n="0712c" xml:id="T50.2061.0712c"/><lb
 ed="T" n="0712c01"/>妃、輔佐，如<ref target="#A008837" type="person">王</ref>之禮焉。<persName key="A000095">空</persName>始見<persName key="A008836">普賢阿闍梨</persName>，<lb
-ed="T" n="0712c02"/>遂奉獻金寶錦繡之屬，請開十八會《金剛頂》<ptr target="#n137"/><lb
+ed="T" n="0712c02"/>遂奉獻金寶錦繡之屬，請開十八會<ptr target="#n295"/>《金剛頂》<ptr target="#n137"/><lb
 ed="T" n="0712c03"/>瑜伽法門，毘盧遮那大悲胎藏<ptr target="#n138"/>、建立壇法，并<lb
 ed="T" n="0712c04"/>許<persName key="A000459">含光</persName>、<persName key="A008835">慧𧦪</persName>等同受五部灌頂<ptr type="glossary" target="#g97"/>。<persName key="A000095">空</persName>自爾學<lb
 ed="T" n="0712c05"/>無常師，廣求密藏及諸經論五百餘部，本<lb
@@ -54,7 +54,7 @@ ed="T" n="0712c15"/>暴。」<persName key="A000095">空</persName>奏立孔雀�
 ed="T" n="0712c16"/><ref target="#A000291" type="person">帝</ref>大悅，自持寶箱賜紫袈裟一副，親為披<lb
 ed="T" n="0712c17"/>擐，仍賜絹二百匹。後因一日大風卒起，詔<lb
 ed="T" n="0712c18"/><persName key="A000095">空</persName><anchor xml:id="beg0712003"/>禳<anchor xml:id="end0712003"/>止，請銀缾一枚作法加持，須臾戢<lb
-ed="T" n="0712c19"/>靜。忽因池鵝誤觸缾傾，其風又作，急暴過<lb
+ed="T" n="0712c19"/>靜<ptr type="glossary" target="#g48"/>。忽因池鵝誤觸缾傾，其風又作，急暴過<lb
 ed="T" n="0712c20"/>前，勅令再止，隨止隨効。<ref target="#A000291" type="person">帝</ref>乃賜號曰<persName key="A000095">智藏</persName><lb
 ed="T" n="0712c21"/>焉。</p><p><date key="j19946531995036" from-iso="+0749-01-27" to-iso="+0750-02-14"><name>天寶</name>八載</date>，許迴本國，乘驛騎五匹，至<placeName key="PL000000030464">南<lb
 ed="T" n="0712c22"/>海郡</placeName>，有勅再留<ptr target="#n145"/>。<date key="j19961301996483" from-iso="+0753-02-12" to-iso="+0754-01-31">十二載</date>，勅令赴<placeName key="PL000000045074">河</placeName>、<placeName key="PL000000046823">隴</placeName>節度<lb
@@ -111,7 +111,7 @@ ed="T" n="0713b14"/>及《普賢願行》、《出生無邊法門經》<ptr targ
 ed="T" n="0713b15"/>三歎息。其先受法者，偏令屬意觀菩提心本<lb
 ed="T" n="0713b16"/>尊大印，直<ptr target="#n160"/>詮阿字了法，不生證大覺身，若<lb
 ed="T" n="0713b17"/>指諸掌，重重<anchor xml:id="beg0713001"/>囑<anchor xml:id="end0713001"/>累<ptr target="#n161"/>。一夜，命弟子<persName key="A001641">趙遷</persName>：「持筆<lb
-ed="T" n="0713b18"/>硯來，<ref target="#A000095" type="person">吾</ref>略出《涅槃<anchor xml:id="beg0713002"/><choice resp="sgsz"><sic>茶</sic><corr>荼</corr></choice><anchor xml:id="end0713002"/>毘儀軌》以貽後代，<lb
+ed="T" n="0713b18"/>硯來，<ref target="#A000095" type="person">吾</ref>略出《涅槃<anchor xml:id="beg0713002"/>茶<anchor xml:id="end0713002"/><ptr target="#n391"/>毘儀軌》以貽後代，<lb
 ed="T" n="0713b19"/>使準此送終。」<persName key="A001641">遷</persName>稽首三請「幸乞慈悲久住。<lb
 ed="T" n="0713b20"/>不然，眾生何所依乎？」<persName key="A000095">空</persName>笑而已。俄而示疾，<lb
 ed="T" n="0713b21"/>上表告辭。勅使勞問，賜醫藥，加開府儀同三<lb
@@ -127,8 +127,8 @@ ed="T" n="0713c01"/>朝三日，賜絹布雜物，錢四十萬，造塔錢二百
 ed="T" n="0713c02"/>餘萬<ptr target="#n162"/>。勅功德使<persName key="A008839">李元琮</persName>知護喪事。<persName key="A000095">空</persName>未終<lb
 ed="T" n="0713c03"/>前，諸僧夢千仞寶臺摧，文殊新閣<anchor xml:id="beg0713003"/>頹<anchor xml:id="end0713003"/>，金剛<lb
 ed="T" n="0713c04"/>杵飛上天。又<placeName key="PL000000042218">興善寺</placeName>後池無故而涸，林竹生<lb
-ed="T" n="0713c05"/>實，庭花變萎。<date key="j20039902003990" when-iso="+0774-08-21">七月六日</date><anchor xml:id="beg0713sgsz3"/><choice resp="sgsz"><sic>茶</sic><corr>荼</corr></choice><anchor xml:id="end0713sgsz3"/>毘，<ref target="#A004379" type="person">帝</ref>詔高品<persName key="A008844">劉<lb
-ed="T" n="0713c06"/><anchor xml:id="beg0713sgsz4"/>僊<anchor xml:id="end0713sgsz4"/>鶴</persName>就<ref target="#PL000000042218" type="place">寺</ref>置祭，贈司空，諡曰<persName key="A000095">大辯廣正智<lb
+ed="T" n="0713c05"/>實，庭花變萎。<date key="j20039902003990" when-iso="+0774-08-21">七月六日</date><anchor xml:id="beg0713sgsz3"/>茶<anchor xml:id="end0713sgsz3"/>毘，<ref target="#A004379" type="person">帝</ref>詔高品<persName key="A008844">劉<lb
+ed="T" n="0713c06"/><anchor xml:id="beg0713sgsz4"/>僊<anchor xml:id="end0713sgsz4"/>鶴</persName>就<ref target="#PL000000042218" type="place">寺</ref>置祭，贈司空，諡曰<persName key="A000095">大辯<choice resp="sgsz"><sic>廣正</sic><corr>正廣</corr></choice>智<lb
 ed="T" n="0713c07"/>三藏</persName><ptr target="#n163"/>。火滅，收舍利數百粒。八十粒進內。其頂<lb
 ed="T" n="0713c08"/>骨不然，中有舍利一顆，半隱半現，勅於<ref target="#PL000000042218" type="place">本<lb
 ed="T" n="0713c09"/>院</ref>別起塔焉。</p><p><persName key="A000095">空</persName>之行化利物居多，於總持<lb

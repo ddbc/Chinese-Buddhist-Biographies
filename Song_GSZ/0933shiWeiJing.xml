@@ -1,42 +1,50 @@
 <?xml version='1.0' encoding='utf-8'?>
-<div xmlns="http://www.tei-c.org/ns/1.0" type="習禪" xml:id="gsz0784a21shiWeiJing">
-    <anchor n="T.50.2061.0784a21"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date>明州伏龍山<persName key="A010648">惟靖</persName>傳</head><p><lb
+<div xmlns="http://www.tei-c.org/ns/1.0" type="習禪" xml:id="gsz0784a21shiWeiJing"><lb
+ed="T" n="0784a21"/><anchor n="T.50.2061.0784a21"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date><placeName key="PL000000012461">明州伏龍山</placeName><persName key="A010648">惟靖</persName>傳</head><p><lb
 ed="T" n="0784a22"/><persName key="A010648">釋惟靖</persName>，<placeName key="PL000000009928">吳門</placeName>人也。年三十許，形奇貌古，且類<lb
 ed="T" n="0784a23"/>憨癡，入<placeName key="PL000000012166">國寧寺</placeName>，巡僧房唱曰：「要人出家<lb
-ed="T" n="0784a24"/>請留下。」至經藏院<!--找不到此地-->，見二眾闍<anchor xml:id="beg0784sgsz9"/>黎<anchor xml:id="end0784sgsz9"/>大德<persName key="A010650">慧政</persName>，<lb
-ed="T" n="0784a25"/>便跪拜伸誠，願容執侍。<persName key="A010650">政公</persName>允納，與翦飾。<lb
+ed="T" n="0784a24"/>請留下。」至<placeName key="PL000000057256">經藏院</placeName>，見二眾闍<anchor xml:id="beg0784sgsz9"/>黎<anchor xml:id="end0784sgsz9"/>大德<persName key="A010650">慧政</persName>，<lb
+ed="T" n="0784a25"/>便跪拜伸誠，願容執侍。<persName key="A010650">政<roleName>公</roleName></persName>允納，與翦飾。<lb
 ed="T" n="0784a26"/>於<placeName key="PL000000014411">天台</placeName>受具，暫歸謝<persName key="A010650">政</persName>，便尋訪名山。有知<lb
 ed="T" n="0784a27"/>識處，必經寒<anchor xml:id="beg0784sgsz10"/>燠<anchor xml:id="end0784sgsz10"/>。自爾勤於禪法，未嘗發<lb
-ed="T" n="0784a28"/>言，即居<persName key="A004834">定光禪師</persName>廢<placeName key="PL000000014708">金地道場</placeName>。侵星赴<placeName key="PL000000014691">禪<lb
+ed="T" n="0784a28"/>言，即居<persName key="A004834">定光<roleName>禪師</roleName>
+</persName>廢<placeName key="PL000000014708">金地道場</placeName>。侵星<ptr type="glossary" target="#g1623"/>赴<placeName key="PL000000014691">禪<lb
 ed="T" n="0784a29"/>林寺</placeName>晨粥，而多虎豹，隨到寺門，虎踞地若<pb ed="T" n="0784b" xml:id="T50.2061.0784b"/><lb
-ed="T" n="0784b01"/>伺候。<persName key="A010648">靖</persName>出，復隨至<placeName key="PL000000014708">金地</placeName>。遲明，巨迹極多。<persName key="A010648">靖</persName>恐<lb
+ed="T" n="0784b01"/>伺候。<persName key="A010648">靖</persName>出，復隨至<placeName key="PL000000014708">金地</placeName>。遲明<ptr type="glossary" target="#g1624"/>，巨迹極多。<persName key="A010648">靖</persName>恐<lb
 ed="T" n="0784b02"/>人知，以鋤滅虎跡。俄患背疽，困睡，有鴆鳥<lb
-ed="T" n="0784b03"/>糞于瘡所，非久全愈。又虞氷雪，備<anchor xml:id="beg0784sgsz11"/>粳<anchor xml:id="end0784sgsz11"/>粒半<lb
-ed="T" n="0784b04"/>斗，每日以銚合菜煮食，寘<anchor xml:id="beg0784sgsz12"/>粳<anchor xml:id="end0784sgsz12"/>於地窖中。過<lb
-ed="T" n="0784b05"/>期，用米常滿不耗。<persName key="A010648">靖</persName>乃築之而云：「<persName key="A010648">吾</persName>被此<lb
+ed="T" n="0784b03"/>糞于瘡所，非久全愈。又虞氷雪，備<anchor xml:id="beg0784sgsz11"/>粳<anchor xml:id="end0784sgsz11"/><ptr target="#n258"/>粒半<lb
+ed="T" n="0784b04"/>斗，每日以銚<ptr type="glossary" target="#g1625"/>合菜煮食，寘<anchor xml:id="beg0784sgsz12"/>粳<anchor xml:id="end0784sgsz12"/>於地窖中。過<lb
+ed="T" n="0784b05"/>期，用米常滿不耗。<persName key="A010648">靖</persName>乃築<ptr type="glossary" target="#g1626"/>之而云：「<ref type="person" target="#A010648">吾</ref>被此<lb
 ed="T" n="0784b06"/>物知，非理也。」尋居<placeName key="PL000000012461">伏龍山</placeName>，山可瞰海，峯勢<lb
-ed="T" n="0784b07"/>岧嶢，昔僧<persName key="A010653">鑒諸</persName>曾隱于是。<persName key="A010653">諸</persName>即唐王相國之<lb
+ed="T" n="0784b07"/>岧嶢<ptr type="glossary" target="#g1627"/>，昔僧<persName key="A010653">鑒諸</persName>曾隱于是。<persName key="A010653">諸</persName>即唐王相國之<lb
 ed="T" n="0784b08"/>母弟也，能文習道，刺史多往謁之。<persName key="A010648">靖</persName>續遁<lb
-ed="T" n="0784b09"/>此<placeName key="PL000000012461">山</placeName>，刺史<persName key="A007285">黃晟</persName>常請出州，供施繁委。末於<lb
+ed="T" n="0784b09"/>此<ref type="place" target="#PL000000012461">山</ref>，刺史<persName key="A007285">黃晟</persName>常請出<ref type="place" target="#PL000000012470">州</ref>
+，供施繁委。末於<lb
 ed="T" n="0784b10"/><placeName key="PL000000012481">奉川</placeName>北山置院示疾坐終，享齡七十餘。窆<lb
 ed="T" n="0784b11"/>于山下，塋塔存焉。</p>
     <linkGrp>
-        <link targets="#0784a23 #0784a24"/>
+        <link targets="#0784a22 #0784a22"/>
         <ptr target="#A010648" type="person"/>
+        <ptr target="#PL000000009928" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0784a23 #0784a25"/>
+        <ptr target="#A010648" type="person"/>
+        <ptr target="#A010650" type="person"/>
         <ptr target="#PL000000012166" type="place"/>
     </linkGrp>
     <linkGrp>
-        <link targets="#0784a24 #0784a25"/>
+        <link targets="#0784a26 #0784a26"/>
         <ptr target="#A010648" type="person"/>
-        <ptr target="#A010650" type="person"/>
+        <ptr target="#PL000000014411" type="place"/>
     </linkGrp>
     <linkGrp>
-        <link targets="#0784a26 #0784a28"/>
+        <link targets="#0784a28 #0784a28"/>
         <ptr target="#A010648" type="person"/>
         <ptr target="#PL000000014708" type="place"/>
     </linkGrp>
     <linkGrp>
-        <link targets="#0784a26 #0784a29"/>
+        <link targets="#0784a28 #0784a29"/>
         <ptr target="#A010648" type="person"/>
         <ptr target="#PL000000014691" type="place"/>
     </linkGrp>
@@ -46,8 +54,19 @@ ed="T" n="0784b11"/>于山下，塋塔存焉。</p>
         <ptr target="#PL000000012461" type="place"/>
     </linkGrp>
     <linkGrp>
+        <link targets="#0784b07 #0784b07"/>
+        <ptr target="#A010653" type="person"/>
+        <ptr target="#PL000000012461" type="place"/>
+    </linkGrp>
+    <linkGrp>
         <link targets="#0784b08 #0784b09"/>
         <ptr target="#A010648" type="person"/>
         <ptr target="#A007285" type="person"/>
+        <ptr target="#PL000000012470" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0784b09 #0784b10"/>
+        <ptr target="#A010648" type="person"/>
+        <ptr target="#PL000000012481" type="place"/>
     </linkGrp>
 </div>

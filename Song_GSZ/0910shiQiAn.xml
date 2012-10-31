@@ -1,49 +1,54 @@
 <?xml version='1.0' encoding='utf-8'?>
-<div xmlns="http://www.tei-c.org/ns/1.0" type="習禪" xml:id="gsz0776b21shiQiAn">
-        <anchor n="T.50.2061.0776b21"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date><placeName key="PL000000012844">杭州鹽官海昌院</placeName><persName key="A003862">齊安</persName>傳</head><p><lb
-ed="T" n="0776b22"/><persName key="A003862">釋齊安</persName>，俗姓李，實唐帝系之英。先人播<placeName key="PL000000013239">越</placeName>，故<lb
-ed="T" n="0776b23"/>生于<placeName key="PL000000012815">海門郡</placeName><ptr target="#n1484"/>焉，深避世榮，終祕氏族。<persName key="A003862">安</persName>在<lb
+<div xmlns="http://www.tei-c.org/ns/1.0" type="習禪" xml:id="gsz0776b21shiQiAn"><lb
+ed="T" n="0776b21"/><anchor n="T.50.2061.0776b21"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date><placeName key="PL000000012844">杭州鹽官海昌院<ptr target="#n278"/></placeName><persName key="A003862">齊安</persName>傳</head><p><lb
+ed="T" n="0776b22"/><persName key="A003862">釋齊安</persName>，俗姓<name>李</name>，實<name>唐</name>帝系之英。先人播越<ptr type="glossary" target="#g1567"/>，故<lb
+ed="T" n="0776b23"/>生于<placeName key="PL000000018407">海門郡</placeName><ptr target="#n1484"/>焉，深避世榮，終祕氏族。<persName key="A003862">安</persName>在<lb
 ed="T" n="0776b24"/>胎，母夢日兆<anchor xml:id="beg0776sgsz9"/><choice resp="sgsz"><sic>詳</sic><corr>祥</corr></choice><anchor xml:id="end0776sgsz9"/>。既誕而神光下燭。數歲，有<lb
-ed="T" n="0776b25"/>異僧欵門召見，摩頂曰：「鳳穴振儀，龍宮藏<lb
+ed="T" n="0776b25"/>異僧欵門召見，摩頂曰：「鳳穴<ptr type="glossary" target="#g1568"/>振儀，龍宮<ptr type="glossary" target="#g1569"/>藏<lb
 ed="T" n="0776b26"/>寶，紹終之業，其在斯乎！」及臻丱角，亟請出<lb
-ed="T" n="0776b27"/>家，父母<anchor xml:id="beg0776sgsz10"/>訶<anchor xml:id="end0776sgsz10"/>止。<persName key="A003862">安</persName>曰：「祿利之養，止於親爾。冥<lb
-ed="T" n="0776b28"/>報之利，不其遠邪？珪組之榮，止於家爾。濟<lb
+ed="T" n="0776b27"/>家，父母訶止。<persName key="A003862">安</persName>曰：「祿利之養，止於親爾。冥<lb
+ed="T" n="0776b28"/>報之利，不其遠邪？珪組<ptr type="glossary" target="#g1570"/>之榮，止於家爾。濟<lb
 ed="T" n="0776b29"/>拔之益，不其廣邪？」二親感其言而順從，遂<pb ed="T" n="0776c" xml:id="T50.2061.0776c"/><lb
-ed="T" n="0776c01"/>依<ref type="place" target="#PL000000013239">本郡</ref><persName key="A010518">雲琮禪師</persName>。雖<anchor xml:id="beg0776sgsz11"/><choice resp="sgsz"><sic>勒</sic><corr>勤</corr></choice><anchor xml:id="end0776sgsz11"/>勞謙默，和光同塵，<lb
+ed="T" n="0776c01"/>依<ref type="place" target="#PL000000018407">本郡</ref><persName key="A010518">雲琮<roleName>禪師</roleName></persName><ptr target="#n1569"/>。雖<anchor xml:id="beg0776sgsz11"/><choice resp="sgsz"><sic>勒</sic><corr>勤</corr></choice><anchor xml:id="end0776sgsz11"/>勞謙默，和光同塵，<lb
 ed="T" n="0776c02"/>而螢月殊暉，雞鶴異態。年滿登具，乃詣<placeName key="PL000000028928">南<lb
-ed="T" n="0776c03"/>嶽</placeName><persName key="A010519">智嚴律師</persName>，外<anchor xml:id="beg0776sgsz12"/>檢<anchor xml:id="end0776sgsz12"/>律儀，內照實相。後聞<placeName key="PL000000019334">南<lb
-ed="T" n="0776c04"/>康龔公山</placeName><persName key="A003623">大寂禪師</persName>隨化度人，慈緣幽感。裹<lb
-ed="T" n="0776c05"/>足振錫，一日造焉。<persName key="A003623">大寂</persName>欣其相依，論持不<lb
+ed="T" n="0776c03"/>嶽</placeName><persName key="A010519">智嚴<roleName>律師</roleName></persName><ptr target="#n1570"/>，外<anchor xml:id="beg0776sgsz12"/>檢<anchor xml:id="end0776sgsz12"/>律儀，內照實相。後聞<placeName key="PL000000019334">南<lb
+ed="T" n="0776c04"/>康龔公山</placeName><persName key="A003623">大寂<roleName>禪師</roleName></persName>隨化度人，慈緣幽感。裹<lb
+ed="T" n="0776c05"/>足振錫，一日造焉<ptr target="#n1577"/>。<persName key="A003623">大寂</persName>欣其相依，論持不<lb
 ed="T" n="0776c06"/>倦。及其蛻去，<persName key="A003862">安</persName>盡力送終。<date notBefore-iso="+0816-08-13" key="j20193232020606" notAfter-iso="+0820-02-17"><name>元和</name>末</date>，<persName key="A003862">安</persName>春秋<lb
 ed="T" n="0776c07"/>已逾七十，而遊<placeName key="PL000000013239">越</placeName>之<placeName key="PL000000011712">蕭山法樂寺</placeName>，以其古<lb
 ed="T" n="0776c08"/>製垣屋靡完，補壞扶傾，不克宴坐。時<placeName key="PL000000012844">海昌</placeName><lb
-ed="T" n="0776c09"/>有<persName key="A010520">法昕</persName>者，緇林翹楚，於放生池壖廢地肇<lb
+ed="T" n="0776c09"/>有<persName key="A010520">法昕</persName>者，緇林翹楚，於放生池壖<ptr type="glossary" target="#g253"/>廢地肇<lb
 ed="T" n="0776c10"/>葺禪居焉。<persName key="A010520">昕</persName>謙而不自有，延請<persName key="A003862">安</persName>主之，<lb
-ed="T" n="0776c11"/>四海參學者<anchor xml:id="beg0776sgsz13"/><choice resp="sgsz"><sic>麝</sic><corr>麏</corr></choice><anchor xml:id="end0776sgsz13"/>至焉。道化之盛，翕然推伏。<persName key="A003862">安</persName><lb
-ed="T" n="0776c12"/>不言寒暑，不下堂廡，無流眄，無傾聽，如<lb
-ed="T" n="0776c13"/>此者蓋有年矣。而又挺身魁岸，相好莊嚴，眉<lb
-ed="T" n="0776c14"/>毫紺垂，顱骨圓聳，望之者如仰嵩華而揖<lb
-ed="T" n="0776c15"/>滄溟，曾無測其高深也。以<date key="j20289882028988" when-iso="+0843-01-29">會昌二年壬<anchor xml:id="beg0776sgsz14"/>戌<anchor xml:id="end0776sgsz14"/><lb
-ed="T" n="0776c16"/>十二月二十<anchor xml:id="beg0776002"/>二<anchor xml:id="end0776002"/>日</date>泊然宴坐，俄爾示滅。先時<lb
+ed="T" n="0776c11"/>四海參學者<anchor xml:id="beg0776sgsz13"/><choice resp="sgsz"><sic>麝</sic><corr>麏</corr></choice><anchor xml:id="end0776sgsz13"/>至焉。道化之盛，翕然<ptr type="glossary" target="#g768"/>推伏。<persName key="A003862">安</persName><lb
+ed="T" n="0776c12"/>不言寒暑，不下堂廡，無流眄<ptr type="glossary" target="#g1571"/>，無傾聽，如<lb
+ed="T" n="0776c13"/>此者蓋有年矣。而又挺身魁岸<ptr type="glossary" target="#g1572"/>，相好莊嚴，眉<lb
+ed="T" n="0776c14"/>毫紺垂，顱骨圓聳，望之者如仰<placeName key="PL000000023253">嵩</placeName>、<placeName key="PL000000043539">華</placeName><ptr target="#n1571"/>而揖<lb
+ed="T" n="0776c15"/>滄溟，曾無測其高深也。以<date key="j20289882028988" when-iso="+0843-01-29"><name>會昌</name>二年壬<anchor xml:id="beg0776sgsz14"/>戌<anchor xml:id="end0776sgsz14"/><lb
+ed="T" n="0776c16"/>十二月二十<anchor xml:id="beg0776002"/>二<anchor xml:id="end0776002"/>日</date><ptr target="#n1572"/>泊然宴坐，俄爾示滅。先時<lb
 ed="T" n="0776c17"/>竹柏盡死，至是精彩益振。爰有清響叩戶，<lb
 ed="T" n="0776c18"/>祥光滿室，如環佩之鏘鳴，若劍戟之交射。<lb
 ed="T" n="0776c19"/>瑞相尤繁，事形別錄。又<persName key="A003862">安</persName>懸知<persName key="A003667">宣宗皇帝</persName>隱<lb
 ed="T" n="0776c20"/>曜緇行，將來法會，預誡知事曰：「當有異<lb
 ed="T" n="0776c21"/>人至此，禁雜言，止橫事，恐累佛法。」明日，<lb
 ed="T" n="0776c22"/>行脚僧數人參<anchor xml:id="beg0776sgsz15"/>禮<anchor xml:id="end0776sgsz15"/>，<persName key="A003862">安</persName>默識<ref type="person" target="#A003667">帝</ref>，遂令維那高位<lb
-        ed="T" n="0776c23"/>安置，<anchor xml:id="beg0776sgsz16"/>禮<anchor xml:id="end0776sgsz16"/>殊他等。<persName key="A003862">安</persName>每接談話，益知貴氣，乃<lb
+ed="T" n="0776c23"/>安置，<anchor xml:id="beg0776sgsz16"/>禮<anchor xml:id="end0776sgsz16"/>殊他等。<persName key="A003862">安</persName>每接談話，益知貴氣，乃<lb
 ed="T" n="0776c24"/>曰：「<ref type="person" target="#A003862">貧道</ref>謬為海眾圍繞，患齋不供。就上座<lb
 ed="T" n="0776c25"/>邊求一供疏。」<ref type="person" target="#A003667">帝</ref>為操翰攄辭，<persName key="A003862">安</persName>覽驚悚，知<lb
 ed="T" n="0776c26"/>供養僧齎去，所<anchor xml:id="beg0776sgsz17"/><choice resp="sgsz"><sic>護</sic><corr>獲</corr></choice><anchor xml:id="end0776sgsz17"/>豐厚，殆與常度不同。乃<lb
 ed="T" n="0776c27"/>語<ref type="person" target="#A003667">帝</ref>曰：「時至矣，無滯泥蟠。」囑以佛法後事<lb
-ed="T" n="0776c28"/>而去。<ref type="person" target="#A003667">帝</ref>本<persName key="A002120">憲宗</persName>第四子，<persName key="A004382">穆宗</persName>異母弟也，<persName key="A006570">武宗</persName><lb
-ed="T" n="0776c29"/>恒憚忌之，沈之<anchor xml:id="beg0776sgsz18"/>于<anchor xml:id="end0776sgsz18"/>宮廁，<anchor xml:id="beg0776003"/>宦<anchor xml:id="end0776003"/>者<persName key="A010521">仇公武</persName>潛施<pb ed="T" n="0777a" xml:id="T50.2061.0777a"/><lb
+ed="T" n="0776c28"/>而去。<ref type="person" target="#A003667">帝</ref>本<persName key="A002120">憲宗</persName>第四子<ptr target="#n1573"/>，<persName key="A004382">穆宗</persName>異母弟也，<persName key="A006570">武宗</persName><lb
+ed="T" n="0776c29"/>恒憚忌之，沈之<anchor xml:id="beg0776sgsz18"/>于<anchor xml:id="end0776sgsz18"/>宮廁，<anchor xml:id="beg0776003"/>宦<anchor xml:id="end0776003"/>者<persName key="A010521">仇公武</persName><ptr target="#n1579"/>潛施<pb ed="T" n="0777a" xml:id="T50.2061.0777a"/><lb
 ed="T" n="0777a01"/>拯護，俾髠髮為僧，縱之而逸。周遊天下，險<lb
-ed="T" n="0777a02"/>阻備嘗。因緣出授<placeName key="PL000000027764">江陵</placeName>少尹，實惡其在朝<lb
-ed="T" n="0777a03"/>耳。<persName key="A006570">武宗</persName>崩，左神策軍中尉<persName key="A010522">楊公</persName>諷宰臣百官<lb
+ed="T" n="0777a02"/>阻備嘗<ptr target="#n1574"/>。因緣出授<placeName key="PL000000027764">江陵</placeName>少尹，實惡其在朝<lb
+ed="T" n="0777a03"/>耳。<persName key="A006570">武宗</persName>崩，左神策軍中尉<persName key="A010522">楊<roleName>公</roleName></persName><ptr target="#n1575"/>諷宰臣百官<lb
 ed="T" n="0777a04"/>迎而立之，聞<persName key="A003862">安</persName>已終，愴悼久之。勅諡大師<lb
-ed="T" n="0777a05"/>曰<persName key="A003862">悟空</persName>，乃以御詩追悼。後右貂<persName key="A010523">盧簡求</persName>為<lb
+ed="T" n="0777a05"/>曰<persName key="A003862">悟空</persName><ptr target="#n1576"/>，乃以御詩追悼。後右貂<ptr type="glossary" target="#g1573"/><persName key="A010523">盧簡求</persName>為<lb
 ed="T" n="0777a06"/>建塔焉。</p>
+        <linkGrp>
+                <link targets="#0776b22 #0776b23"/>
+                <ptr target="#A003862" type="person"/>
+                <ptr target="#PL000000018407" type="place"/>
+        </linkGrp>
         <linkGrp>
                 <link targets="#0776c01 #0776c01"/>
                 <ptr target="#A003862" type="person"/>
@@ -71,6 +76,12 @@ ed="T" n="0777a06"/>建塔焉。</p>
                 <link targets="#0776c08 #0776c11"/>
                 <ptr target="#A003862" type="person"/>
                 <ptr target="#A010520" type="person"/>
+                <ptr target="#PL000000012844" type="place"/>
+        </linkGrp>
+        <linkGrp>
+                <link targets="#0776c15 #0776c16"/>
+                <ptr target="#A003862" type="person"/>
+                <ptr target="#j20289882028988" type="time"/>
         </linkGrp>
         <linkGrp>
                 <link targets="#0776c21 #0776c28"/>

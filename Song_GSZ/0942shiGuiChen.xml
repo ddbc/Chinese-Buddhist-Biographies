@@ -1,34 +1,39 @@
 <?xml version='1.0' encoding='utf-8'?>
-<div xmlns="http://www.tei-c.org/ns/1.0" type="習禪" xml:id="gsz0786c04shiGuiChen">
-    <anchor n="T.50.2061.0786c04"/><head><date from-iso="+0923-05-18" key="j20583162063308" to-iso="+0937-01-16">後唐</date>漳州羅漢院<persName key="A010683">桂琛</persName>傳</head><p><lb
-ed="T" n="0786c05"/><persName key="A010683">釋桂琛</persName>，俗姓李氏，<placeName key="PL000000013684">常山</placeName>人也。甫作童兒，篤<lb
+<div xmlns="http://www.tei-c.org/ns/1.0" type="習禪" xml:id="gsz0786c04shiGuiChen"><lb
+ed="T" n="0786c04"/><anchor n="T.50.2061.0786c04"/><head><date from-iso="+0923-05-18" key="j20583162063308" to-iso="+0937-01-16">後唐</date><placeName key="PL000000018037">漳州羅漢院</placeName><persName key="A010683">桂琛</persName>傳</head><p><lb
+ed="T" n="0786c05"/><persName key="A010683">釋桂琛</persName>，俗姓<name>李</name>氏，<placeName key="PL000000013684">常山</placeName>人也。甫作童兒，篤<lb
 ed="T" n="0786c06"/>求遠俗，齋茹一餐，調息終日。秉心<anchor xml:id="beg0786006"/>唯確<anchor xml:id="end0786006"/>，鄉<lb
 ed="T" n="0786c07"/>黨所欽。二親愛縛而莫辭，群從情纏而難<lb
-ed="T" n="0786c08"/>脫。既冠繼踰城之武，求師得解虎之儔，乃<lb
-ed="T" n="0786c09"/>事本府<placeName key="PL000000017527">萬歲寺</placeName><persName key="A010694">無相大師</persName>矣。初登戒地，例<lb
-ed="T" n="0786c10"/>學毘尼，為眾升臺宣戒本畢，將知志大<lb
+ed="T" n="0786c08"/>脫。既冠，繼踰城之武<ptr target="#n1717"/>，求師得解虎之儔<ptr target="#n264"/>，乃<lb
+ed="T" n="0786c09"/>事本府<placeName key="PL000000017527">萬歲寺</placeName><persName key="A010694">無相<roleName>大師</roleName></persName><ptr target="#n1718"/>矣。初登戒地，例<lb
+ed="T" n="0786c10"/>學毘尼<ptr type="glossary" target="#g900"/>，為眾升臺宣戒本畢，將知志大<lb
 ed="T" n="0786c11"/>安拘之於小道乎？乃自誨曰：「持犯束身，非<lb
 ed="T" n="0786c12"/>解脫也。依文作解，豈發聖乎？」於是誓訪南<lb
-ed="T" n="0786c13"/>宗，程僅萬里。初謁<persName key="A010588">雲居</persName>，後詣雪峯<persName key="A008370">玄沙</persName>兩<lb
+ed="T" n="0786c13"/>宗，程僅萬里。初謁<persName key="A010588">雲居</persName>，後詣<persName key="A003677"><anchor xml:id="beg0786sgsz16"/>雪<anchor xml:id="end0786sgsz16"/>峯</persName>、<persName key="A008370">玄沙</persName>兩<lb
 ed="T" n="0786c14"/>會，參訊勤恪。良以嗣緣有在，得旨於<persName key="A008370">宗一<lb
-ed="T" n="0786c15"/>大師</persName>，明暗<anchor xml:id="beg0786007"/>色<anchor xml:id="end0786007"/>空，廓然無惑。密行累載，處眾<lb
-ed="T" n="0786c16"/>韜藏。雖夜光所潛，而寶器終異，遂為故漳<lb
-ed="T" n="0786c17"/>牧太原<persName key="A010695">王公誠</persName>請於<placeName key="PL000000017166">閩城</placeName>西石山<placeName key="PL000000017145">建蓮宮</placeName><lb
-ed="T" n="0786c18"/>而止。駐錫一紀有半，來往二百眾。<persName key="A010683">琛</persName>以祕<lb
+ed="T" n="0786c15"/><roleName>大師</roleName></persName>，明暗<anchor xml:id="beg0786007"/>色<anchor xml:id="end0786007"/>空，廓然無惑。密行累載，處眾<lb
+ed="T" n="0786c16"/>韜藏。雖夜光所潛，而寶器終異，遂為故<placeName key="PL000000018048">漳</placeName><lb
+ed="T" n="0786c17"/>牧<placeName key="PL000000003794">太原</placeName><persName key="A010695">王</persName>公誠請於<placeName key="PL000000017166">閩城</placeName>西石山建蓮宮<lb
+ed="T" n="0786c18"/>而止<ptr target="#n1719"/>。駐錫一紀<ptr type="glossary" target="#g122"/>有半，來往二百眾。<persName key="A010683">琛</persName>以祕<lb
 ed="T" n="0786c19"/>重妙法，罔輕示徒，有密學懇求者，時為開<lb
-ed="T" n="0786c20"/>演。後<placeName key="PL000000018104">龍溪</placeName>為軍倅，<placeName key="PL000000031917">勤州</placeName>太保瑯瑘公志請於<lb
+ed="T" n="0786c20"/>演。後<placeName key="PL000000018104">龍溪</placeName>為軍倅<ptr type="glossary" target="#g64"/><placeName key="PL000000031917">勤州</placeName>太保<persName key="A023050">瑯瑘公志</persName>請於<lb
 ed="T" n="0786c21"/><placeName key="PL000000018037">羅漢院</placeName>為眾宣法，諱讓不獲，遂開方便。<lb
 ed="T" n="0786c22"/>不數載，南北參徒喪疑而往者，不可殫數。<lb
-ed="T" n="0786c23"/>有角立者，撫州<placeName key="PL000000019959">曹山</placeName><persName key="A000174">文益</persName>、江州<placeName key="PL000000018830">東禪</placeName><persName key="A010696">休復</persName>，咸<lb
+ed="T" n="0786c23"/>有角立<ptr type="glossary" target="#g1287"/>者，<placeName key="PL000000019959">撫州曹山</placeName><persName key="A000174">文益</persName>、<placeName key="PL000000018830">江州東禪</placeName><persName key="A010696">休復</persName>，咸<lb
 ed="T" n="0786c24"/>傳<persName key="A010683">琛</persName>旨，各為一方法眼，視其子則知其父<lb
-ed="T" n="0786c25"/>矣。以<date from-iso="+0928-01-31" key="j20600352060418" to-iso="+0929-02-17">天成三年</date>戊子秋，復<anchor xml:id="beg0786sgsz8"/><choice resp="sgsz"><sic>戒</sic><corr>屆</corr></choice><anchor xml:id="end0786sgsz8"/><placeName key="PL000000017166">閩城</placeName>舊止，遍<lb
-ed="T" n="0786c26"/>翫近城<name>梵</name><anchor xml:id="beg0786sgsz9"/><choice resp="sgsz"><sic>字</sic><corr>宇</corr></choice><anchor xml:id="end0786sgsz9"/>。已俄示疾，數日安坐告終，春<lb
-ed="T" n="0786c27"/>秋六十有二，僧臘四十。遺戒勿遵俗禮而<lb
-ed="T" n="0786c28"/>棺而墓。於是<anchor xml:id="beg0786sgsz10"/><choice resp="sgsz"><sic>茶</sic><corr>荼</corr></choice><anchor xml:id="end0786sgsz10"/>毘於城西院之東崗，收其<lb
-ed="T" n="0786c29"/>舍利，建塔于院之西，稟遺教也。則<date from-iso="+0936-01-17" key="j20629432062944" to-iso="+0936-01-18">清泰二<pb ed="T" n="0787a" xml:id="T50.2061.0787a"/><lb
-ed="T" n="0787a01"/>年十二月望日</date>也。<persName key="A010683">琛</persName>得法密付授耳。時<persName key="A003900">神晏<lb
-ed="T" n="0787a02"/>大師</persName>，<persName key="A003732">王<roleName>氏</roleName></persName>所重，以言事脅令捨<persName key="A008370">玄沙</persName>嗣<persName key="A003677">雪<lb
-ed="T" n="0787a03"/>峯</persName>，確乎不拔，終為<persName key="A003900">晏</persName>讒而凌轥，惜哉！</p>
+ed="T" n="0786c25"/>矣。以<date from-iso="+0928-07-25" key="j20602112060328" to-iso="+0928-11-19"><name>天成</name>三年戊子秋</date>，復<anchor xml:id="beg0786sgsz17"/><choice resp="sgsz"><sic>戒</sic><corr>屆</corr></choice><anchor xml:id="end0786sgsz17"/><placeName key="PL000000017166">閩城</placeName>舊止，遍<lb
+ed="T" n="0786c26"/>翫近城<name>梵</name><anchor xml:id="beg0786sgsz18"/><choice resp="sgsz"><sic>字</sic><corr>宇</corr></choice><anchor xml:id="end0786sgsz18"/>。已俄示疾，數日安坐告終，春<lb
+ed="T" n="0786c27"/>秋六十有二，僧臘四十<ptr target="#n267"/>。遺戒勿遵俗禮而<lb
+ed="T" n="0786c28"/>棺而墓。於是<anchor xml:id="beg0786sgsz20"/>茶<anchor xml:id="end0786sgsz20"/>毘於城西院之東<anchor xml:id="beg0786sgsz22"/>崗<anchor xml:id="end0786sgsz22"/>，收其<lb
+ed="T" n="0786c29"/>舍利，建塔于院之西，稟遺教也，則<date from-iso="+0936-01-17" key="j20629432062944" to-iso="+0936-01-18">清泰二<pb ed="T" n="0787a" xml:id="T50.2061.0787a"/><lb
+ed="T" n="0787a01"/>年十二月望日</date>也。<persName key="A010683">琛</persName>得法密付授，耳時<persName key="A003900">神晏<lb
+ed="T" n="0787a02"/><roleName>大師</roleName></persName>，<persName key="A003732">王<roleName>氏</roleName></persName>所重，以言事脅令捨<persName key="A008370">玄沙</persName>嗣<persName key="A003677">雪<lb
+ed="T" n="0787a03"/>峯</persName>，確乎不拔，終為<persName key="A003900">晏</persName>讒而凌轥<ptr type="glossary" target="#g1245"/>，惜哉！</p>
+    <linkGrp>
+        <link targets="#0786c05 #0786c05"/>
+        <ptr target="#A010683" type="person"/>
+        <ptr target="#PL000000013684" type="place"/>
+    </linkGrp>
     <linkGrp>
         <link targets="#0786c09 #0786c09"/>
         <ptr target="#A010683" type="person"/>
@@ -36,14 +41,22 @@ ed="T" n="0787a03"/>峯</persName>，確乎不拔，終為<persName key="A003900
         <ptr target="#PL000000017527" type="place"/>
     </linkGrp>
     <linkGrp>
-        <link targets="#0786c13 #0786c14"/>
+        <link targets="#0786c13 #0786c13"/>
         <ptr target="#A010683" type="person"/>
         <ptr target="#A010588" type="person"/>
+        <ptr target="#PL000000018911" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0786c13 #0786c14"/>
+        <ptr target="#A010683" type="person"/>
+        <ptr target="#A003677" type="person"/>
+        <ptr target="#PL000000017165" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0786c13 #0786c14"/>
         <ptr target="#A010683" type="person"/>
         <ptr target="#A008370" type="person"/>
+        <ptr target="#PL000000017165" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0786c16 #0786c18"/>
@@ -54,6 +67,7 @@ ed="T" n="0787a03"/>峯</persName>，確乎不拔，終為<persName key="A003900
     <linkGrp>
         <link targets="#0786c20 #0786c21"/>
         <ptr target="#A010683" type="person"/>
+        <ptr target="#A023050" type="person"/>
         <ptr target="#PL000000018037" type="place"/>
     </linkGrp>
     <linkGrp>
@@ -77,10 +91,10 @@ ed="T" n="0787a03"/>峯</persName>，確乎不拔，終為<persName key="A003900
         <ptr target="#PL000000018830" type="place"/>
     </linkGrp>
     <linkGrp>
-        <link targets="#0786c25 #0786c26"/>
+        <link targets="#0786c25 #0786c27"/>
         <ptr target="#A010683" type="person"/>
         <ptr target="#PL000000017166" type="place"/>
-        <ptr target="#j20600352060418" type="time"/>
+        <ptr target="#j20602112060328" type="time"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0787a01 #0787a02"/>

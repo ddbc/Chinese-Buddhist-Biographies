@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" type="習禪" xml:id="gsz0768c18shiLingMo"><lb
-ed="T" n="0768c18"/><anchor n="T.50.2061.0768c18"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date><placeName key="PL000000013358">婺州五洩山</placeName><persName key="A010420">靈默</persName>傳（<persName key="A010423">志閑</persName>）</head><p><lb
+ed="T" n="0768c18"/><anchor n="T.50.2061.0768c18"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date><placeName key="PL000000013358">婺州五洩山</placeName><persName key="A010420">靈默</persName>傳（<persName key="A022952">志閑</persName>）</head><p><lb
 ed="T" n="0768c19"/><persName key="A010420">釋靈默</persName>，俗姓<name>宣</name>，<placeName key="PL000000009739">毘陵</placeName>人也。本成立之歲<ptr type="glossary" target="#g1537"/>，悅學<lb
 ed="T" n="0768c20"/>忘疲，約以射策登第，以榮親里。承<placeName key="PL000000018603">豫章</placeName><persName key="A003623">馬<lb
 ed="T" n="0768c21"/><roleName>大師</roleName></persName>聚眾敷演。造禪關，<persName key="A003623">馬<roleName>師</roleName></persName>振容而示相，<lb
@@ -23,7 +23,7 @@ ed="T" n="0769a08"/>屬<placeName key="PL000000022160">平昌</placeName><persNa
 ed="T" n="0769a09"/>學徒散逸。時<placeName key="PL000000013376">暨陽</placeName>令<persName key="A010422">李胄</persName>狀舉靈山，許重<lb
 ed="T" n="0769a10"/>造院。<date key="j20199532019953" when-iso="+0818-05-05">十三年三月二十三日</date>，澡沐焚香，端<lb
 ed="T" n="0769a11"/>坐繩床，囑累時眾，溘然而絕。壽齡七十二，<lb
-ed="T" n="0769a12"/>法臘四十一<ptr target="#n1471"/>。高僧<persName key="A010423">志閑</persName>，道行峭拔，文辭婉麗，<lb
+ed="T" n="0769a12"/>法臘四十一<ptr target="#n1471"/>。高僧<persName key="A022952">志閑</persName>，道行峭拔，文辭婉麗，<lb
 ed="T" n="0769a13"/>亦<placeName key="PL000000000197">江左</placeName>之英達，為<persName key="A010420">默</persName>行錄焉。</p>
     <linkGrp>
         <link targets="#0768c19 #0768c19"/>
@@ -88,7 +88,7 @@ ed="T" n="0769a13"/>亦<placeName key="PL000000000197">江左</placeName>之英�
     </linkGrp>
     <linkGrp>
         <link targets="#0769a12 #0769a13"/>
-        <ptr target="#A010423" type="person"/>
+        <ptr target="#A022952" type="person"/>
         <ptr target="#PL000000000197" type="place"/>
     </linkGrp>
 </div>

@@ -1,16 +1,16 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" type="義解" xml:id="gsz0747c27shiZhenHui"><lb
-ed="T" n="0747c27"/><anchor n="T.50.2061.0747c27"/><head><date from-iso="+0923-05-18" key="j20583162063308" to-iso="+0937-01-16">後唐</date><placeName key="PL000000023307">東京相國寺</placeName><persName key="A009901">貞誨</persName>傳</head><p><lb
-ed="T" n="0747c28"/><persName key="A009901">釋貞誨</persName>，姓包氏，<placeName key="PL000000010157">吳郡常熟</placeName>人也。<date key="j20406482041012" from-iso="+0875-01-01" to-iso="+0875-12-31">年始十三</date>，出<lb
+ed="T" n="0747c27"/><anchor n="T.50.2061.0747c27"/><head><date from-iso="+0923-05-18" key="j20583162063308" to-iso="+0937-01-16">後唐</date><placeName key="PL000000023307"><supplied resp="sgsz">今</supplied>東京相國寺</placeName><ptr target="#n273"/><persName key="A009901">貞誨</persName>傳</head><p><lb
+ed="T" n="0747c28"/><persName key="A009901">釋貞誨</persName>，姓<name>包</name>氏，<placeName key="PL000000010157">吳郡常熟</placeName>人也。<date key="j20406482041012" from-iso="+0875-01-01" to-iso="+0875-12-31">年始十三</date>，出<lb
 ed="T" n="0747c29"/>家於本州<placeName key="PL000000009853">龍興寺</placeName>。其性沈靜，分陰是競<ptr type="glossary" target="#g1107"/>。方踰<pb ed="T" n="0748a" xml:id="T50.2061.0748a"/><lb
 ed="T" n="0748a01"/>一稔，誦徹《法華經》，如是恒業日周二部。<date key="j20428402043204" from-iso="+0881-01-01" to-iso="+0881-12-31">年<lb
 ed="T" n="0748a02"/>十九</date>，於<placeName key="PL000000010783">揚州</placeName>擇名師受具足<ptr type="glossary" target="#g33"/>法。自爾西之<lb
 ed="T" n="0748a03"/><placeName key="PL000000023581">伊洛</placeName>，北抵<placeName key="PL000000005710">晉</placeName>郊，凡有講筵，下風<ptr type="glossary" target="#g1108"/>求益，覈其<lb
 ed="T" n="0748a04"/>經論，窮其性相，輩流之間，罕齊馳騖<ptr type="glossary" target="#g1109"/>。至於<lb
-ed="T" n="0748a05"/>非朋弱友，弃背如也。唐<date from-iso="+0904-06-02" key="j20513922051509" to-iso="+0904-09-27">天祐元年</date>，至今<placeName key="PL000000023307">東京<lb
+ed="T" n="0748a05"/>非朋弱友，弃背如也。唐<date from-iso="+0904-06-02" key="j20513922051509" to-iso="+0904-09-27"><name>天祐</name>元年</date>，至今<placeName key="PL000000023307">東京<lb
 ed="T" n="0748a06"/>相國寺</placeName>寓舍，講導《法華經》十許遍，人未歸<lb
 ed="T" n="0748a07"/>重，則知奇貨<ptr type="glossary" target="#g1111"/>之售亦有時焉。及<ref type="person" target="#A003877">梁氏</ref>都于<lb
-ed="T" n="0748a08"/><ref type="place" target="#PL000000023328">是京</ref>，人物委輸<ptr type="glossary" target="#g1118"/>。<date from-iso="+0916-02-11" key="j20556632056017" to-iso="+0917-01-30">貞明二年</date>，會<placeName key="PL000000025555">宋州</placeName>帥<persName key="A009902">孔公</persName><ptr target="#n1112"/>仰<lb
+ed="T" n="0748a08"/><ref type="place" target="#PL000000023328">是京</ref>，人物委輸<ptr type="glossary" target="#g1118"/>。<date from-iso="+0916-02-11" key="j20556632056017" to-iso="+0917-01-30"><name>貞明</name>二年</date>，會<placeName key="PL000000025555">宋州</placeName>帥<persName key="A009902">孔公</persName><ptr target="#n1112"/>仰<lb
 ed="T" n="0748a09"/><persName key="A009901">誨</persName>風規<ptr type="glossary" target="#g737"/>，知其道行。便陳師友之禮，捨俸財，<lb
 ed="T" n="0748a10"/>置長講法華經堂於<placeName key="PL000000023310">西塔院</placeName>，從此翕然<ptr type="glossary" target="#g768"/>盛集。<lb
 ed="T" n="0748a11"/><persName key="A009901">誨</persName>旁讀大藏教文，二時<ptr type="glossary" target="#g1114"/><anchor xml:id="beg0748001"/>行<anchor xml:id="end0748001"/>道，精進罔疲。凡<lb
@@ -25,7 +25,7 @@ ed="T" n="0748a19"/>云：「勞其眾聖排空相迎。」滿百徒侶，爾日
 ed="T" n="0748a20"/>聞天樂之音，頃刻而卒，俗壽七十三，僧夏五<lb
 ed="T" n="0748a21"/>十四臘。於<ref type="place" target="#PL000000023307">寺</ref>講貫<ptr type="glossary" target="#g1247"/>三十餘年，經講計三十七<lb
 ed="T" n="0748a22"/>座，覽藏經二遍，修<placeName key="PL000000056086">彌勒內院</placeName>業。以<date key="j20626502062650" when-iso="+0935-03-30">其年二<lb
-ed="T" n="0748a23"/>月十八日</date>葬<placeName key="PL000000023302">浚郊</placeName>東寺莊之原，旛幢威儀<ptr rend="display:none;" type="glossary" target="#g261"/>，緇<lb
+ed="T" n="0748a23"/>月十八日</date>葬<placeName key="PL000000023331">浚郊</placeName>東寺莊之原，旛幢威儀<ptr rend="display:none;" type="glossary" target="#g261"/>，緇<lb
 ed="T" n="0748a24"/>白弟子約千餘人會送焉。</p>
     <linkGrp>
         <link targets="#0747c28 #0747c28"/>

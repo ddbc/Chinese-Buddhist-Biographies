@@ -2,12 +2,12 @@
 <div xmlns="http://www.tei-c.org/ns/1.0" type="譯經" xml:id="gsz0716c25shiDaoYin"><lb
 ed="T" n="0716c26"/><anchor n="T.50.2061.0716c25"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date><placeName key="PL000000034754">益州多寶寺</placeName><persName key="A008882">道因</persName>傳<ptr target="#n25"/>（<persName key="A005407">嵩公</persName> <persName key="A004354">寶暹</persName>）</head><p><lb
 ed="T" n="0716c26"/><persName key="A008882">釋道因</persName>，姓<name>侯</name>氏，<placeName key="PL000000024797">濮陽</placeName>人也。稟祜居醇<ptr type="glossary" target="#g276"/>，含章<ptr type="glossary" target="#g277"/><lb
-ed="T" n="0716c27"/>縱哲，<date key="j19358231937649" notBefore-iso="+0588-01-01" notAfter-iso="+0592-12-31">覃訏之歲</date><ptr type="glossary" target="#g278"/>，粹<anchor xml:id="begd1e2220"/>采<anchor xml:id="endd1e2220"/><ptr rend="display:none;" type="glossary" target="#g279"/>多奇，<date key="j19376501940205" notAfter-iso="+0599-12-31" notBefore-iso="+0593-01-01">髫齓之辰</date><ptr rend="display:none;" type="glossary" target="#g280"/>，殊姿特<lb
+ed="T" n="0716c27"/>縱哲，<date key="j19358231937649" notBefore-iso="+0588-01-01" notAfter-iso="+0592-12-31">覃訏之歲</date><ptr type="glossary" target="#g278"/>，粹<choice resp="sgsz"><sic>釆</sic><corr>采</corr></choice><ptr rend="display:none;" type="glossary" target="#g279"/>多奇，<date key="j19376501940205" notAfter-iso="+0599-12-31" notBefore-iso="+0593-01-01">髫齓之辰</date><ptr rend="display:none;" type="glossary" target="#g280"/>，殊姿特<lb
 ed="T" n="0716c28"/>茂。孝愛之節，慈順之風，率志于斯，因心<ptr type="glossary" target="#g281"/>以<lb
 ed="T" n="0716c29"/>極。年甫<date key="j19376521938016" from-iso="+0593-01-03" to-iso="+0594-01-02">七歲</date>，丁于內艱<ptr type="glossary" target="#g282"/>，嗌粒絕漿，殆乎滅<pb ed="T" n="0717a" xml:id="T50.2061.0717a"/><lb
 ed="T" n="0717a01"/>性<ptr type="glossary" target="#g283"/>。成人<ptr type="glossary" target="#g284"/>之德，見稱州里。<date key="j19387451939110" from-iso="+0596-01-01" to-iso="+0596-12-31">免喪</date><ptr rend="display:none;" type="glossary" target="#g285"/>之後，思酬<lb
 ed="T" n="0717a02"/>罔極<ptr type="glossary" target="#g286"/>，出家之志，人莫我移。便詣<placeName key="PL000000020295">靈巖寺</placeName>求<lb
-ed="T" n="0717a03"/>師誦習，曾不浹旬<ptr type="glossary" target="#g287"/>，通《涅槃經》二帙，舉眾驚<lb
+ed="T" n="0717a03"/>師誦習，曾不浹旬<ptr type="glossary" target="#g287"/>，通《涅槃經》二帙<ptr target="#n299"/>，舉眾驚<lb
 ed="T" n="0717a04"/>駭，謂為神童。落髮已來，砥礪其行，揣摩《義<lb
 ed="T" n="0717a05"/>章》<ptr target="#n288"/>，即講《涅槃》，宿齒名流，咸所歎服。</p><p>及升上<lb
 ed="T" n="0717a06"/>品<ptr type="glossary" target="#g289"/>，旋學律儀<ptr rend="display:none;" type="glossary" target="#g290"/>，又於<placeName key="PL000000009517">彭城</placeName><persName key="A005407">嵩<roleName>法師</roleName></persName><ptr target="#n26"/>所傳《攝大<lb
@@ -16,7 +16,7 @@ ed="T" n="0717a08"/>鳧趨，講室談筵，為之囂隘。遂依科戒而為<lb
 ed="T" n="0717a09"/>節文<ptr type="glossary" target="#g291"/>，年少沙門且令習律，曉《四分》<ptr target="#n28"/>者，方許<lb
 ed="T" n="0717a10"/>入聽。<persName key="A008882">因</persName>夏臘雖幼，業行<ptr rend="display:none;" type="glossary" target="#g292"/>攸高，獨於眾中，逈<lb
 ed="T" n="0717a11"/>見推揖，每敷《攝論》，即令覆講。</p><p>後隱<placeName key="PL000000021580">泰嶽</placeName>，<lb
-ed="T" n="0717a12"/>凡經四秋。將詣<placeName key="PL000000023581">洛中</placeName>，屬昏<anchor xml:id="beg0717sgsz1"/><choice resp="sgsz"><sic>李</sic><corr>季</corr></choice><anchor xml:id="end0717sgsz1"/>陵夷，法<anchor xml:id="beg0717001"/>綱<anchor xml:id="end0717001"/><lb
+ed="T" n="0717a12"/>凡經四秋。將詣<placeName key="PL000000023581">洛中</placeName>，屬昏<anchor xml:id="beg0717sgsz1"/><choice resp="sgsz"><sic>李</sic><corr>季</corr></choice><anchor xml:id="end0717sgsz1"/>陵夷，法<anchor xml:id="beg0717001"/><choice resp="sgsz"><sic>綱</sic><corr>網</corr></choice><anchor xml:id="end0717001"/><lb
 ed="T" n="0717a13"/>嚴峻，僧無徒侶，弗許遊方<ptr target="#n293"/>。於是杖錫出<lb
 ed="T" n="0717a14"/>山，孑焉超邁<ptr target="#n294"/>，恐<anchor xml:id="beg0717sgsz2"/><choice resp="sgsz"><sic>羅</sic><corr>罹</corr></choice><anchor xml:id="end0717sgsz2"/>刑憲，靜念<persName key="A002803">觀音</persName>。少選之<lb
 ed="T" n="0717a15"/>間，有僧歘<ptr type="glossary" target="#g295"/>至，皓然白首，請與偕行。迨至<placeName key="PL000000023590">銅<lb
@@ -29,7 +29,7 @@ ed="T" n="0717a21"/>徒來請，接武<ptr type="glossary" target="#g296"/>磨�
 ed="T" n="0717a22"/>峻，每至<persName key="A008882">因</persName>之論席，肅然改容，沈吟久之，方<lb
 ed="T" n="0717a23"/>用酬遣。<persName key="A008882">因</persName>抗音<ptr rend="display:none;" type="glossary" target="#g297"/>馳辯，雷驚波注，盡妙窮微，<lb
 ed="T" n="0717a24"/>藏牙折角<ptr type="glossary" target="#g298"/>。<placeName key="PL000000034805">益州</placeName>總管鄧國公<persName key="A008885">竇璡</persName>、行臺左僕<lb
-ed="T" n="0717a25"/>射<anchor xml:id="beg0717002"/><choice resp="sgsz"><sic>替</sic><corr>賛</corr></choice><anchor xml:id="end0717002"/>國公<persName key="A005740">竇軌</persName>、長史申國公<persName key="A008886">高士廉</persName>、范陽公<lb
+ed="T" n="0717a25"/>射<anchor xml:id="beg0717002"/><choice resp="sgsz"><sic>替</sic><corr>賛</corr></choice><anchor xml:id="end0717002"/>國公<persName key="A005740">竇軌</persName><ptr target="#n239"/>、長史申國公<persName key="A008886">高士廉</persName>、范陽公<lb
 ed="T" n="0717a26"/><persName key="A008888">盧承慶</persName>，及前後首僚，西南嶽牧，並國華朝秀，<lb
 ed="T" n="0717a27"/>重望崇班<ptr type="glossary" target="#g299"/>，共籍芳聲，俱申虔仰。乃於<placeName key="PL000000035021">彭門<lb
 ed="T" n="0717a28"/>山寺</placeName>習道安居。<ref type="place" target="#PL000000035021">此寺</ref>往經廢毀，院宇凋弊，<persName key="A008882">因</persName><lb

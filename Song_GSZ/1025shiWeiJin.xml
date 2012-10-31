@@ -3,7 +3,7 @@
 ed="T" n="0818b20"/><anchor n="T.50.2061.0818b20"/><head><date from-iso="+0923-05-18" key="j20583162063308" to-iso="+0937-01-16">後唐</date>南嶽般舟道場<persName key="A001066">惟勁</persName>傳</head><p><lb
 ed="T" n="0818b21"/><persName key="A001066">釋惟勁</persName>，<placeName key="PL000000018494">福州長溪</placeName>人也。節操精苦，奉養棲約，<lb
 ed="T" n="0818b22"/>破納擁身，衣無繒纊，號頭陀焉。初參<persName key="A003677">雪峯</persName>，<lb
-ed="T" n="0818b23"/>便探淵府。<date notBefore-iso="+0911-06-05" key="j20539512055611" notAfter-iso="+0915-12-21">乾化中</date>，入<placeName key="PL000000028928">嶽</placeName>住<placeName key="PL000000028946">報慈東藏</placeName>，亦號<lb
+ed="T" n="0818b23"/>便探淵府。<date notBefore-iso="+0911-06-05" key="j20539512055611" notAfter-iso="+0915-12-21"><name>乾化</name>中</date>，入<placeName key="PL000000028928">嶽</placeName>住<placeName key="PL000000028934">報慈東藏</placeName>，亦號<lb
 ed="T" n="0818b24"/><persName key="A001066">三生藏</persName>，中見<persName key="A002450">法藏禪師</persName>鑑燈，頓了如是廣<lb
 ed="T" n="0818b25"/>大法界重重帝網之門，因歎曰：「先達聖人，具<lb
 ed="T" n="0818b26"/>此不思議智慧方便，非小智之所能！」又<placeName key="PL000000028928">嶽</placeName>道<lb
@@ -16,9 +16,9 @@ ed="T" n="0818c03"/>家禽。後世安知？于今區別。」乃作五字頌，
 ed="T" n="0818c04"/>五章，覽者知其理事相融，燈有所屬，屬在<lb
 ed="T" n="0818c05"/>乎互相涉入，光影含容，顯華嚴性悔主伴交<lb
 ed="T" n="0818c06"/>光，非道家之器用也。<persName key="A011960">楚王馬<roleName>氏</roleName></persName>奏賜紫，署<lb
-ed="T" n="0818c07"/><persName key="A001066">寶聞大師</persName>，梁<date notBefore-iso="+0907-06-10" key="j20524952052858" notAfter-iso="+0908-06-07">開平中</date>也。<persName key="A001066">勁</persName>續《寶林傳》，蓋錄<lb
+ed="T" n="0818c07"/><persName key="A001066">寶聞大師</persName>，梁<date notBefore-iso="+0907-06-10" key="j20524952052858" notAfter-iso="+0908-06-07"><name>開平</name>中</date>也。<persName key="A001066">勁</persName>續《寶林傳》，蓋錄<lb
 ed="T" n="0818c08"/><date from-iso="+0785-02-18" key="j20078242015139" to-iso="+0805-02-28"><name>貞元</name></date>已後禪門祖祖相繼源脈者也。別著《南<lb
-ed="T" n="0818c09"/>嶽高僧傳》，未知卷數，亦一代禪宗達士，文<anchor xml:id="beg0818sgsz9"/>采<anchor xml:id="end0818sgsz9"/><lb
+ed="T" n="0818c09"/>嶽高僧傳》，未知卷數，亦一代禪宗達士，文采<lb
 ed="T" n="0818c10"/>可觀。後終于岳中也。</p>
     <p xml:id="pT50p0818c1101"><lb
 ed="T" n="0818c11"/>系曰：物涉疑似，難輒區分。<persName key="A001066">勁公</persName>誌鑑燈，若<lb
@@ -32,7 +32,7 @@ ed="T" n="0818c13"/>家也。故曰前事不忘，後世之元龜也。</p>
     <linkGrp>
         <link targets="#0818b23 #0818b26"/>
         <ptr target="#A001066" type="person"/>
-        <ptr target="#PL000000028946" type="place"/>
+        <ptr target="#PL000000028934" type="place"/>
         <ptr target="#j20539512055611" type="time"/>
     </linkGrp>
     <linkGrp>

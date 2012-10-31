@@ -1,18 +1,18 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" type="義解" xml:id="gsz0737a04shiChengGuan"><lb
 ed="T" n="0737a04"/><anchor n="T.50.2061.0737a04"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date><placeName key="PL000000005373">代州五臺山清涼寺</placeName><persName key="A001755">澄觀</persName>傳<ptr target="#n811"/></head><p><lb
-ed="T" n="0737a05"/><persName key="A001755">釋澄觀</persName>，姓夏侯氏，<placeName key="PL000000013241">越州山陰</placeName>人也。年甫<date key="j19942991994652" from-iso="+0748-02-08" to-iso="+0749-01-26">十一</date>，<lb
+ed="T" n="0737a05"/><persName key="A001755">釋澄觀</persName>，姓<name>夏侯</name>氏<ptr target="#n308"/>，<placeName key="PL000000013241">越州山陰</placeName>人也。年甫<date key="j19942991994652" from-iso="+0748-02-08" to-iso="+0749-01-26">十一</date>，<lb
 ed="T" n="0737a06"/>依<placeName key="PL000000013213">寶林寺</placeName>（今<placeName key="PL000000013195">應天山</placeName>）<persName key="A009495">霈禪師</persName>出家，誦《法華經》。<date key="j19953921995745" from-iso="+0751-02-05" to-iso="+0752-01-24">十四</date>，<lb
 ed="T" n="0737a07"/>遇恩得度，便隷<ref type="place" target="#PL000000013213">此寺</ref>。<persName key="A001755">觀</persName>俊朗高逸，弗可以<lb
 ed="T" n="0737a08"/>細務拘。遂遍尋名山，旁求祕藏，梯航<ptr type="glossary" target="#g812"/>既具，<lb
-ed="T" n="0737a09"/><anchor xml:id="beg0737sgsz1"/><choice resp="sgsz"><sic>壺</sic><corr>壼</corr></choice><anchor xml:id="end0737sgsz1"/>奧<ptr type="glossary" target="#g592"/>必臻。<date notBefore-iso="+0758-03-22" key="j19979941998806" notAfter-iso="+0760-06-11">乾元中</date>，依<placeName key="PL000000009026">潤州棲霞寺</placeName><persName key="A009496">醴律師</persName>，學<lb
+ed="T" n="0737a09"/><anchor xml:id="beg0737sgsz1"/><choice resp="sgsz"><sic>壺</sic><corr>壼</corr></choice><anchor xml:id="end0737sgsz1"/>奧<ptr type="glossary" target="#g592"/>必臻。<date notBefore-iso="+0758-03-22" key="j19979941998806" notAfter-iso="+0760-06-11"><name>乾元</name>中</date>，依<placeName key="PL000000009026">潤州棲霞寺</placeName><persName key="A009496">醴律師</persName>，學<lb
 ed="T" n="0737a10"/>「相部律」。<ref type="place" target="#PL000000013239">本州</ref>依<persName key="A004177">曇一</persName>，隷「南山律」。詣<placeName key="PL000000008820">金陵</placeName><persName key="A004182">玄<lb
 ed="T" n="0737a11"/>璧法師</persName>傳<placeName key="PL000000042002">關河</placeName>「三論」<ptr type="glossary" target="#g813"/>。「三論」之盛于<placeName key="PL000000000197">江表</placeName>，<persName key="A001755">觀</persName><lb
 ed="T" n="0737a12"/>之力也。<date notBefore-iso="+0766-12-22" key="j20011912005993" notAfter-iso="+0780-02-14"><name>大曆</name>中</date>，就<placeName key="PL000000008823">瓦棺寺</placeName>傳《起信》、《涅槃》。又<lb
 ed="T" n="0737a13"/>於<placeName key="PL000000010798">淮南</placeName><persName key="A002450">法藏</persName><ptr target="#n814"/>，受<persName key="A000136">海東</persName>《起信疏》義。却復<placeName key="PL000000011644">天竺</placeName><lb
-ed="T" n="0737a14"/><persName key="A004183">詵法師</persName>門，溫習《華嚴大經》。<date from-iso="+0772-02-13" key="j20030702003423" to-iso="+0773-01-31">七年</date>，往<placeName key="PL000000013448">剡溪</placeName>，從<lb
+ed="T" n="0737a14"/><persName key="A004183">詵<roleName>法師</roleName></persName>門，溫習《華嚴大經》。<date from-iso="+0772-02-13" key="j20030702003423" to-iso="+0773-01-31">七年</date>，往<placeName key="PL000000013448">剡溪</placeName>，從<lb
 ed="T" n="0737a15"/><placeName key="PL000000034805">成都</placeName><persName key="A009504">慧量法師</persName>，覆尋「三論」。<date from-iso="+0775-02-09" key="j20041622004516" to-iso="+0776-01-29">十年</date>，就<placeName key="PL000000009928">蘇州</placeName>，從<lb
-ed="T" n="0737a16"/><persName key="A001307">湛然法師</persName>習天台《止觀》、《法華》、《維摩》等經疏。解<lb
+ed="T" n="0737a16"/><persName key="A001307">湛然<roleName>法師</roleName></persName>習天台《止觀》、《法華》、《維摩》等經疏。解<lb
 ed="T" n="0737a17"/>從上智，性自天然，所學之文，如昨拋捨，<persName key="A021933">鮑<lb
 ed="T" n="0737a18"/>靜</persName>記井，<persName key="A009507">蔡邕</persName>後身，信可知矣。又謁<placeName key="PL000000008579">牛頭山</placeName><lb
 ed="T" n="0737a19"/><persName key="A010048">忠師</persName>、<placeName key="PL000000011848">徑山</placeName><persName key="A004218">欽師</persName>、<placeName key="PL000000023581">洛陽</placeName><persName key="A004220">無名師</persName>，咨決南宗禪法。<lb
@@ -27,12 +27,12 @@ ed="T" n="0737a27"/>往<placeName key="PL000000036087">峨嵋</placeName>，求�
 ed="T" n="0737a28"/>却還<placeName key="PL000000005250">五臺</placeName>，居<placeName key="PL000000005362">大華嚴寺</placeName>，專行「方等」懺法。時<lb
 ed="T" n="0737a29"/>寺主<persName key="A009526">賢林</persName>，請講大經，并演諸論。因慨《華嚴》<pb ed="T" n="0737b" xml:id="T50.2061.0737b"/><lb
 ed="T" n="0737b01"/>舊疏，文繁義約，惙然長想：「況<persName key="A002144">文殊</persName>主智，<persName key="A003079">普賢</persName><lb
-ed="T" n="0737b02"/>主理，<ref type="person" target="#A003079 #A002144">二聖</ref>合為<persName key="A004206">毘盧遮那</persName>，萬行兼通，即《<anchor xml:id="beg0737001"/><choice resp="sgsz"><sic>是</sic><corr>大</corr></choice><anchor xml:id="end0737001"/><lb
-ed="T" n="0737b03"/>華嚴》之義也。<ref type="person" target="#A001755">吾</ref>既遊<persName key="A003079">普賢</persName>之境界，泊<persName key="A002144">妙吉</persName>之<lb
+ed="T" n="0737b02"/>主理，<ref type="person" target="#A003079 #A002144">二聖</ref>合為<persName key="A004206">毘盧遮那</persName>，萬行兼通，即<anchor xml:id="beg0737001"/>是<anchor xml:id="end0737001"/><lb
+ed="T" n="0737b03"/>《華嚴》之義也<ptr target="#n309"/>。<ref type="person" target="#A001755">吾</ref>既遊<persName key="A003079">普賢</persName>之境界，泊<persName key="A002144">妙吉</persName>之<lb
 ed="T" n="0737b04"/>鄉原，不疏《毘盧》，有辜<ref type="person" target="#A003079 #A002144">二聖</ref>矣。」<persName key="A001755">觀</persName>將撰疏，<lb
 ed="T" n="0737b05"/>俄於寤寐之間，見一金人當陽挺立，以手<lb
 ed="T" n="0737b06"/>迎抱之，無何<ptr type="glossary" target="#g493"/>咀嚼都盡。覺即汗流，自喜吞<lb
-ed="T" n="0737b07"/>納光明遍照之徵也。起<date from-iso="+0784-01-31" key="j20074402008916" to-iso="+0788-02-15">興元元年正月，<name>貞元</name><lb
+ed="T" n="0737b07"/>納光明遍照之徵也。起<date from-iso="+0784-01-31" key="j20074402008916" to-iso="+0788-02-15"><name>興元</name>元年正月<ptr target="#n311"/>，<name>貞元</name><lb
 ed="T" n="0737b08"/>三年十二月</date>畢功，成二十軸，乃飯千僧以<lb
 ed="T" n="0737b09"/>落成也。後常思付授，忽夜夢身化為龍，矯<lb
 ed="T" n="0737b10"/>首于<placeName key="PL000000005319">南臺</placeName>，蟠尾于山北，拏攫碧落<ptr type="glossary" target="#g820"/>，鱗鬣耀<lb

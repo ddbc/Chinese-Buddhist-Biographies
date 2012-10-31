@@ -1,31 +1,36 @@
 <?xml version='1.0' encoding='utf-8'?>
-<div xmlns="http://www.tei-c.org/ns/1.0" type="習禪" xml:id="gsz0783b17shiHuiGong">
-    <anchor n="T.50.2061.0783b17"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date>天台紫凝山<persName key="A010623">慧恭</persName>傳</head><p><lb
-ed="T" n="0783b18"/><persName key="A010623">釋慧恭</persName>，俗姓羅氏，<placeName key="PL000000017166">福州閩</placeName>人也。家傳儒素，<lb
+<div xmlns="http://www.tei-c.org/ns/1.0" type="習禪" xml:id="gsz0783b17shiHuiGong"><lb
+ed="T" n="0783b17"/><anchor n="T.50.2061.0783b17"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date><placeName key="PL000000014540">天台紫凝山</placeName><persName key="A010623">慧恭</persName>傳</head><p><lb
+ed="T" n="0783b18"/><persName key="A010623">釋慧恭</persName>，俗姓<name>羅</name>氏，<placeName key="PL000000017166">福州閩</placeName>人也。家傳儒素，<lb
 ed="T" n="0783b19"/>不交非類。母妊之初，夢所居湧出浮圖，上<lb
-ed="T" n="0783b20"/>參于天。迨<persName key="A010623">恭</persName>誕生，嶷然聰悟。<date key="j20264032026768" from-iso="+0836-01-01" to-iso="+0836-12-31">年十七</date>，舉進<lb
-ed="T" n="0783b21"/>士，名隨計車。將到<placeName key="PL000000042189">京闕</placeName>，因遊終南山<placeName key="PL000000042514">奉日<lb
-ed="T" n="0783b22"/>寺</placeName>，目祖師遺像，釋然世<anchor xml:id="beg0783sgsz4"/>網<anchor xml:id="end0783sgsz4"/>，遂求出家。操執<lb
-ed="T" n="0783b23"/>僧事，備歷艱辛。<date key="j20282302028594" from-iso="+0841-01-01" to-iso="+0841-12-31">二十有二</date>，適值新創<placeName key="PL000000042180">安國<lb
+ed="T" n="0783b20"/>參于天。迨<persName key="A010623">恭</persName>誕生，嶷然<ptr type="glossary" target="#g1447"/>聰悟。<date key="j20264032026768" from-iso="+0836-01-01" to-iso="+0836-12-31">年十七</date>，舉進<lb
+ed="T" n="0783b21"/>士，名隨計車<ptr type="glossary" target="#g921"/>。將到<ref type="place" target="#PL000000042189">京闕</ref>，因遊<placeName key="PL000000042514">終南山奉日<lb
+ed="T" n="0783b22"/>寺</placeName>，目祖師遺像，釋然世<anchor xml:id="beg0783sgsz9"/>網<anchor xml:id="end0783sgsz9"/>，遂求出家。操執<lb
+ed="T" n="0783b23"/>僧事，備歷艱辛。<date key="j20282602028642" from-iso="+0841-01-31" to-iso="+0842-02-17">二十有二</date>，適值新創<placeName key="PL000000057259">安國<lb
 ed="T" n="0783b24"/>寺</placeName>受具足戒。尋乃遊方，緣嶮涉荒，而無難<lb
 ed="T" n="0783b25"/>色。嘗遇黑蛇傷指，不求醫而毒螫自銷。見<lb
-ed="T" n="0783b26"/>魑魅占山，諭罪福而妖物遄息。至武陵<placeName key="PL000000029435">德<lb
-ed="T" n="0783b27"/>山</placeName>，詣<persName key="A003868">宣鑒禪師</persName>，領會風飛，由茲道合。因挂<lb
-ed="T" n="0783b28"/>錫，施門人禮。<persName key="A003868">鑒公</persName>順世，後遊<placeName key="PL000000020056">玉山</placeName>，至<placeName key="PL000000020175">信州</placeName>，<lb
+ed="T" n="0783b26"/>魑魅占山，諭罪福而妖物遄息。至<placeName key="PL000000029435">武陵德<lb
+ed="T" n="0783b27"/>山</placeName>，詣<persName key="A003868">宣鑒<roleName>禪師</roleName></persName>，領會風飛，由茲道合。因挂<lb
+ed="T" n="0783b28"/>錫，施門人禮。<persName key="A003868">鑒<roleName>公</roleName></persName>順世後，遊<placeName key="PL000000020056">玉山</placeName>。至<placeName key="PL000000020175">信州</placeName>，<lb
 ed="T" n="0783b29"/>刺史營<placeName key="PL000000020132">西禪院</placeName>而禮之，其徒數百人。居歲<pb ed="T" n="0783c" xml:id="T50.2061.0783c"/><lb
-ed="T" n="0783c01"/>餘，以郛郭喧繁，復入福州長溪<placeName key="PL000000018481">馬冠山</placeName>。自<lb
-ed="T" n="0783c02"/><placeName key="PL000000018481">馬冠</placeName>抵泉州<placeName key="PL000000017887">富陽山</placeName>，所至之所，檀施<ptr type="glossary" target="#g237"/>臻集，<lb
+ed="T" n="0783c01"/>餘，以郛郭喧繁，復入<placeName key="PL000000018481">福州長溪馬冠山</placeName>。自<lb
+ed="T" n="0783c02"/><placeName key="PL000000018481">馬冠</placeName>抵<placeName key="PL000000017887">泉州富陽山</placeName>，所至之所，檀施<ptr type="glossary" target="#g237"/>臻集，<lb
 ed="T" n="0783c03"/>徒侶解鉢，禪坊立就，其為士庶嚮奉如此。<lb
-ed="T" n="0783c04"/><date from-iso="+0892-02-06" key="j20468932047631" to-iso="+0894-02-13">景福</date>三年，與門人遊<placeName key="PL000000038254">天台</placeName>，州牧<placeName key="PL000000042192">京兆</placeName><persName key="A010633">杜雄</persName>留<lb
-ed="T" n="0783c05"/>之而止。<persName key="A010633">杜</persName>因創<placeName key="PL000000014948">瑞龍院</placeName>於<placeName key="PL000000014540">紫凝山</placeName>，祈<persName key="A010623">恭</persName>興<lb
-ed="T" n="0783c06"/>揚法席，以悟淪迷。緇俗雲馳，香花山積。<date from-iso="+0903-12-27" key="j20512342051263" to-iso="+0904-01-25">天<lb
-ed="T" n="0783c07"/>復三年癸亥十二月</date>午時，命眾聲鐘，顧瞻<lb
+ed="T" n="0783c04"/><date from-iso="+0894-02-14" key="j20476322047985" to-iso="+0895-02-02"><name>景福</name>三年</date><ptr target="#n1681"/>，與門人遊<placeName key="PL000000014411">天台</placeName>，州牧<placeName key="PL000000042192">京兆</placeName><persName key="A010633">杜雄</persName>留<lb
+ed="T" n="0783c05"/>之而止。<persName key="A010633">杜</persName>因創<placeName key="PL000000014758">瑞龍院</placeName>於<placeName key="PL000000014540">紫凝山</placeName>，祈<persName key="A010623">恭</persName>興<lb
+ed="T" n="0783c06"/>揚法席，以悟淪迷。緇俗雲馳，香花山積。<date when-iso="+0903-12-28" key="j20512352051235"><name>天<lb
+ed="T" n="0783c07"/>復</name>三年癸亥十二月<supplied resp="sgsz">二日</supplied></date>午時<ptr target="#n1682"/>，命眾聲鐘，顧瞻<lb
 ed="T" n="0783c08"/>左右，促言云去。加趺瞑目，儼然而化，春秋八<lb
 ed="T" n="0783c09"/>十四，僧夏六十二。闡圓頓之宗，居道德之<lb
 ed="T" n="0783c10"/>最，歿無易名，塔無題<anchor xml:id="beg0783007"/>榜<anchor xml:id="end0783007"/>，足見浮名為桎<lb
-ed="T" n="0783c11"/>梏耳。門人上足<persName key="A011957">師遂</persName>植松負土，力崇塔廟，<lb
+ed="T" n="0783c11"/>梏耳。門人上足<persName key="A023031">師遂</persName>植松負土，力崇塔廟，<lb
 ed="T" n="0783c12"/>所謂法空不壞因緣矣。因緣有之，孝行曷<lb
 ed="T" n="0783c13"/>傷于道<anchor xml:id="beg0783008"/>云<anchor xml:id="end0783008"/>。</p>
+    <linkGrp>
+        <link targets="#0783b18 #0783b18"/>
+        <ptr target="#A010623" type="person"/>
+        <ptr target="#PL000000017166" type="place"/>
+    </linkGrp>
     <linkGrp>
         <link targets="#0783b20 #0783b22"/>
         <ptr target="#A010623" type="person"/>
@@ -35,8 +40,8 @@ ed="T" n="0783c13"/>傷于道<anchor xml:id="beg0783008"/>云<anchor xml:id="end
     <linkGrp>
         <link targets="#0783b23 #0783b24"/>
         <ptr target="#A010623" type="person"/>
-        <ptr target="#PL000000042180" type="place"/>
-        <ptr target="#j20282302028594" type="time"/>
+        <ptr target="#PL000000057259" type="place"/>
+        <ptr target="#j20282602028642" type="time"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0783b26 #0783b28"/>
@@ -65,10 +70,27 @@ ed="T" n="0783c13"/>傷于道<anchor xml:id="beg0783008"/>云<anchor xml:id="end
         <ptr target="#PL000000017887" type="place"/>
     </linkGrp>
     <linkGrp>
+        <link targets="#0783c04 #0783c04"/>
+        <ptr target="#A010623" type="person"/>
+        <ptr target="#PL000000014411" type="place"/>
+        <ptr target="#j20476322047985" type="time"/>
+    </linkGrp>
+    <linkGrp>
         <link targets="#0783c04 #0783c06"/>
         <ptr target="#A010623" type="person"/>
         <ptr target="#A010633" type="person"/>
-        <ptr target="#PL000000014948" type="place"/>
-        <ptr target="#j20468932047631" type="time"/>
+        <ptr target="#PL000000014758" type="place"/>
+        <ptr target="#j20476322047985" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0783c06 #0783c09"/>
+        <ptr target="#A010623" type="person"/>
+        <ptr target="#PL000000014758" type="place"/>
+        <ptr target="#j20512352051235" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0783c11 #0783c11"/>
+        <ptr target="#A010623" type="person"/>
+        <ptr target="#A023031" type="person"/>
     </linkGrp>
 </div>

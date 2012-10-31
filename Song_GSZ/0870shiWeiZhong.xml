@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" type="習禪" xml:id="gsz0763c08shiWeiZhong"><lb
-ed="T" n="0763c08"/><anchor n="T.50.2061.0763c08"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date><placeName key="PL000000018888">黃龍山</placeName><persName key="A004217">惟忠</persName>傳</head><p><lb
+ed="T" n="0763c08"/><anchor n="T.50.2061.0763c08"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date><placeName key="PL000000018888">黃龍山</placeName><persName key="A004217">惟忠</persName>傳<ptr target="#n1524"/></head><p><lb
 ed="T" n="0763c09"/><persName key="A004217">釋惟忠</persName>，姓童氏，<placeName key="PL000000034805">成都府</placeName>人也。幼從業於<placeName key="PL000000028723">大光<lb
 ed="T" n="0763c10"/>山</placeName><persName key="A010283">道願<roleName>禪師</roleName></persName>，神驥伏櫪<ptr type="glossary" target="#g1478"/>，雖止也，發蹄則超<lb
 ed="T" n="0763c11"/>忽千里焉。遊<placeName key="PL000000023253">嵩嶽</placeName>，見<persName key="A005612">神會<roleName>禪師</roleName></persName>，折疑沈默，<lb
@@ -11,7 +11,7 @@ ed="T" n="0763c15"/>初不知，獨居禪寂，㵎飲<anchor xml:id="beg0763003"
 ed="T" n="0763c16"/>而懷矣，山民無害。或聞空中聲云：「得<ref type="person" target="#A004217">師</ref>居<lb
 ed="T" n="0763c17"/>此，民之多幸，令我解脫也。」鄉人因號是山<lb
 ed="T" n="0763c18"/>為<placeName key="PL000000018888">伏龍</placeName>，言<persName key="A004217">忠</persName>弭伏鱗蟲之長，故此名焉。以<lb
-ed="T" n="0763c19"/><date from-iso="+0782-01-23" key="j20067022007084" to-iso="+0783-02-09">建中三年</date>入滅，報齡七十八。<date from-iso="+0782-10-16" key="j20069682006996" to-iso="+0782-11-13">其年九月</date>遷塔<lb
+ed="T" n="0763c19"/><date from-iso="+0782-01-23" key="j20067022007084" to-iso="+0783-02-09"><name>建中</name>三年</date>入滅，報齡七十八。<date from-iso="+0782-10-16" key="j20069682006996" to-iso="+0782-11-13">其年九月</date>遷塔<lb
 ed="T" n="0763c20"/>云。</p>
     <linkGrp>
         <link targets="#0763c09 #0763c09"/>

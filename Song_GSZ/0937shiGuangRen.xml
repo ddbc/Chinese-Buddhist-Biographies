@@ -1,37 +1,37 @@
 <?xml version='1.0' encoding='utf-8'?>
-<div xmlns="http://www.tei-c.org/ns/1.0" type="習禪" xml:id="gsz0785b18shiGuangRen">
-    <anchor n="T.50.2061.0785a25"/><head><date from-iso="+0907-06-10" key="j20524952058534" to-iso="+0923-12-22">梁</date>撫州疎山<persName key="A010678">光仁</persName>傳（<persName key="A009487">本仁</persName> <persName key="A010681">居遁</persName>）</head><p><lb
-ed="T" n="0785b18"/><persName key="A010678">釋光仁</persName>，不知何許人也。其形矬而么麼，幼<lb
+<div xmlns="http://www.tei-c.org/ns/1.0" type="習禪" xml:id="gsz0785b17shiGuangRen"><lb
+ed="T" n="0785b17"/><anchor n="T.50.2061.0785b17"/><head><date from-iso="+0907-06-10" key="j20524952058534" to-iso="+0923-12-22">梁</date><placeName key="PL000000019973">撫州疎山</placeName><persName key="A010678">光仁</persName>傳（<persName key="A009487">本仁</persName> <persName key="A010681">居遁</persName>）</head><p><lb
+ed="T" n="0785b18"/><persName key="A010678">釋光仁</persName>，不知何許人也。其形矬而么麼<ptr type="glossary" target="#g726"/>，幼<lb
 ed="T" n="0785b19"/>則氣槩凌物，精爽殆與常不同。早參<persName key="A009489">洞山</persName>，<lb
 ed="T" n="0785b20"/>深入玄奧，其辯給又多於人也。嘗問<persName key="A005255">香嚴<lb
-ed="T" n="0785b21"/>禪師</persName>，答微有偏負。曰：「某累繭重胝而至，得<lb
-ed="T" n="0785b22"/>無勞乎？」唾地而去。後居臨川<placeName key="PL000000019973">疎山</placeName>，毳客趨<lb
+ed="T" n="0785b21"/><roleName>禪師</roleName></persName>，答微有偏負<ptr target="#n1700"/>。曰：「<ref type="person" target="#A005255">某</ref>累繭重胝而至，得<lb
+ed="T" n="0785b22"/>無勞乎？」唾地而去。後居<placeName key="PL000000019973">臨川疎山</placeName>，毳客趨<lb
 ed="T" n="0785b23"/>請，頗有言辭，著《四大等頌略》、《華嚴長者論》，<lb
 ed="T" n="0785b24"/>行于世。終入龕中，已有白鹿至靈前屈<lb
-ed="T" n="0785b25"/>膝而起，時眾謂為作弔焉。次筠州<placeName key="PL000000019777">白水院</placeName><lb
+ed="T" n="0785b25"/>膝而起，時眾謂為作弔焉。次<placeName key="PL000000019777">筠州白水院</placeName><lb
 ed="T" n="0785b26"/><persName key="A009487">釋本仁</persName>，不知何許人也。得心於<persName key="A009489">洞山</persName>法席。<lb
-ed="T" n="0785b27"/>仁罕談道，而四方之人若影之附形，却之<lb
-ed="T" n="0785b28"/>還至。乃徇<placeName key="PL000000010986">丹陽</placeName>人請，住無幾時。<date notBefore-iso="+0901-05-18" key="j20502812051391" notAfter-iso="+0904-06-01">天復中</date>，至<lb
-ed="T" n="0785b29"/>洪井高安<placeName key="PL000000019777">白水院</placeName>聚徒。垂欲入滅，先觸處<pb ed="T" n="0785c" xml:id="T50.2061.0785c"/><lb
-ed="T" n="0785c01"/>告違，乃集眾焚香曰：「至香煙盡處，是某涅<lb
-ed="T" n="0785c02"/>槃時。」如其言，端坐而化。次龍牙山<persName key="A010681">釋居遁</persName>，<lb
-ed="T" n="0785c03"/>姓郭氏，臨川<placeName key="PL000000019880">南城</placeName>人也。年殆十四，警世無常<lb
-ed="T" n="0785c04"/>而守恬淡。白親往求出家于廬陵<placeName key="PL000000019370">滿田寺</placeName>。於<lb
-ed="T" n="0785c05"/><placeName key="PL000000023253">嵩山</placeName>受具戒，已思其擇木，乃參翠微<!--找不到此地-->禪會，<lb
-ed="T" n="0785c06"/>迷復未歸，莫知投詣。聞<persName key="A009489">洞上</persName>言玄格峻，而<lb
+ed="T" n="0785b27"/><persName key="A009487">仁</persName>罕談道，而四方之人若影之附形，却之<lb
+ed="T" n="0785b28"/>還至。乃徇<placeName key="PL000000010986">丹陽</placeName>人請，住無幾時<ptr target="#n1701"/>。<date notBefore-iso="+0901-05-18" key="j20502812051391" notAfter-iso="+0904-06-01"><name>天復</name>中</date>，至<lb
+ed="T" n="0785b29"/><placeName key="PL000000019777">洪井高安白水院</placeName>聚徒。垂欲入滅，先觸處<ptr type="glossary" target="#g1639"/><pb ed="T" n="0785c" xml:id="T50.2061.0785c"/><lb
+ed="T" n="0785c01"/>告違，乃集眾焚香曰：「至香煙盡處，是<ref type="person" target="#A009487">某</ref>涅<lb
+ed="T" n="0785c02"/>槃時。」如其言，端坐而化。次<placeName key="PL000000057065">龍牙山</placeName><persName key="A010681">釋居遁</persName>，<lb
+ed="T" n="0785c03"/>姓<name>郭</name>氏，<placeName key="PL000000019880">臨川南城</placeName>人也。<ref type="date" target="#j20308292031182">年殆十四</ref>，警世無常<lb
+ed="T" n="0785c04"/>而守恬淡。白親往求出家于<placeName key="PL000000019370">廬陵滿田寺</placeName><ptr target="#n1702"/>。於<lb
+ed="T" n="0785c05"/><placeName key="PL000000023253">嵩山</placeName>受具戒已，思其擇木，乃參<persName key="A010616">翠微</persName>禪會，<lb
+ed="T" n="0785c06"/>迷復未歸，莫知投詣<ptr target="#n1703"/>。聞<persName key="A009489">洞<choice resp="sgsz"><sic>上</sic><corr>山</corr></choice></persName>言玄格峻，而<lb
 ed="T" n="0785c07"/>躬造之。<persName key="A010681">遁</persName>少進問曰：「何謂祖意？」答曰：「若洞<lb
 ed="T" n="0785c08"/>水逆流，即當為說。」而於言下體解玄微<ptr type="glossary" target="#g773"/>。隱<lb
-ed="T" n="0785c09"/>眾栖息，七八年間孜孜戢曜，時不我知，久<lb
+ed="T" n="0785c09"/>眾栖息，七八年間孜孜戢曜<ptr type="glossary" target="#g48"/>，時不我知，久<lb
 ed="T" n="0785c10"/>則通矣。<persName key="A011960">天策府楚王馬<roleName>氏</roleName></persName>素藉芳音，奉之<lb
-ed="T" n="0785c11"/>若孝悌之門稟<anchor xml:id="beg0785sgsz6"/><choice resp="sgsz"><sic>毘</sic><corr>昆</corr></choice><anchor xml:id="end0785sgsz6"/>長矣。乃請居龍牙山<!--找不到此地-->妙<lb
-ed="T" n="0785c12"/>濟禪院<!--找不到此地-->，侁侁徒侶常聚半千。爰奏舉，詔賜<lb
-ed="T" n="0785c13"/>紫袈裟并師號證空焉，則<date notBefore-iso="+0915-12-22" key="j20556122056112" notAfter-iso="+0917-05-05">梁貞明初</date>也。方嶽<lb
-ed="T" n="0785c14"/>之下，號為禪窟，闚其室得其門者亦相繼<lb
-ed="T" n="0785c15"/>矣。至<date from-iso="+0923-09-18" key="j20584392058468" to-iso="+0923-10-17">龍德三年癸未歲八月</date>遘疾彌留，<date key="j20584812058481" when-iso="+0923-10-30">九<lb
-ed="T" n="0785c16"/>月十三日</date>歸寂。<persName key="A010681">遁</persName>出世近四十餘齡，語詳別<lb
-ed="T" n="0785c17"/>錄。</p>
+ed="T" n="0785c11"/>若孝悌之門稟<anchor xml:id="beg0785sgsz12"/><choice resp="sgsz"><sic>毘</sic><corr>昆</corr></choice><anchor xml:id="end0785sgsz12"/>長矣。乃請居<placeName key="PL000000056309">龍牙山妙<lb
+ed="T" n="0785c12"/>濟禪院</placeName>，侁侁<ptr type="glossary" target="#g49"/>徒侶常聚半千。爰奏舉，詔賜<lb
+ed="T" n="0785c13"/>紫袈裟并師號<persName key="A010681">證空</persName>焉，則<date notBefore-iso="+0915-12-22" key="j20556122056112" notAfter-iso="+0917-05-05">梁<name>貞明</name>初</date>也。方嶽<lb
+ed="T" n="0785c14"/>之下，號為「禪窟」，闚其室、得其門<ptr type="glossary" target="#g1381"/>者亦相繼<lb
+ed="T" n="0785c15"/>矣。至<date from-iso="+0923-09-18" key="j20584392058468" to-iso="+0923-10-17"><name>龍德</name>三年癸未歲八月</date>遘疾彌留，<date key="j20584812058481" when-iso="+0923-10-30">九<lb
+ed="T" n="0785c16"/>月十三日</date>歸寂<ptr target="#n1704"/>。<persName key="A010681">遁</persName>出世近四十餘齡，語詳別<lb
+ed="T" n="0785c17"/>錄<ptr target="#n1705"/>。</p>
     <linkGrp>
-        <link targets="#0785b19 #0785b19"/>
+        <link targets="#0785b19 #0785b20"/>
         <ptr target="#A010678" type="person"/>
         <ptr target="#A009489" type="person"/>
     </linkGrp>
@@ -49,6 +49,7 @@ ed="T" n="0785c17"/>錄。</p>
         <link targets="#0785b26 #0785b27"/>
         <ptr target="#A009487" type="person"/>
         <ptr target="#A009489" type="person"/>
+        <ptr target="#PL000000019687" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0785b28 #0785b28"/>
@@ -62,9 +63,15 @@ ed="T" n="0785c17"/>錄。</p>
         <ptr target="#j20502812051391" type="time"/>
     </linkGrp>
     <linkGrp>
-        <link targets="#0785c04 #0785c04"/>
+        <link targets="#0785c03 #0785c03"/>
+        <ptr target="#A010681" type="person"/>
+        <ptr target="#PL000000019880" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0785c03 #0785c04"/>
         <ptr target="#A010681" type="person"/>
         <ptr target="#PL000000019370" type="place"/>
+        <ptr target="#j20308292031182" type="time"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0785c04 #0785c05"/>
@@ -72,7 +79,13 @@ ed="T" n="0785c17"/>錄。</p>
         <ptr target="#PL000000023253" type="place"/>
     </linkGrp>
     <linkGrp>
-        <link targets="#0785c06 #0785c08"/>
+        <link targets="#0785c05 #0785c05"/>
+        <ptr target="#A010681" type="person"/>
+        <ptr target="#A010616" type="person"/>
+        <ptr target="#PL000000042513" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0785c06 #0785c10"/>
         <ptr target="#A010681" type="person"/>
         <ptr target="#A009489" type="person"/>
     </linkGrp>
@@ -80,5 +93,22 @@ ed="T" n="0785c17"/>錄。</p>
         <link targets="#0785c10 #0785c11"/>
         <ptr target="#A010681" type="person"/>
         <ptr target="#A011960" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0785c10 #0785c12"/>
+        <ptr target="#A010681" type="person"/>
+        <ptr target="#PL000000056309" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0785c13 #0785c13"/>
+        <ptr target="#A010681" type="person"/>
+        <ptr target="#PL000000056309" type="place"/>
+        <ptr target="#j20556122056112" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0785c15 #0785c16"/>
+        <ptr target="#A010681" type="person"/>
+        <ptr target="#PL000000056309" type="place"/>
+        <ptr target="#j20584812058481" type="time"/>
     </linkGrp>
 </div>

@@ -24,7 +24,7 @@ n="0709a22" ed="T"/>之畜。近以從<placeName key="PL000000024722">澶</place
 n="0709a23" ed="T"/>古及今，青史載千年之應。斯蓋<ref type="person" target="#A001640">陛下</ref>來從<lb
 n="0709a24" ed="T"/>不動之地，示為長壽之王。飜譯成經，製甚<lb
 n="0709a25" ed="T"/>深之御序；迴文作頌<ptr target="#n3"/>，演無盡之法音。仍降<lb
-n="0709a26" ed="T"/>鳳書，令編僧史。屬此<date from-iso="+0984-12-11" key="j20808042081961" to-iso="+0988-02-11">雍熙</date>之運，伸其<date from-iso="+0627-01-26" key="j19500921958296" to-iso="+0649-07-13">貞觀</date><lb
+n="0709a26" ed="T"/>鳳書，令編僧史。屬此<date from-iso="+0984-12-11" key="j20808042081961" to-iso="+0988-02-11">雍熙</date>之運，伸其<date from-iso="+0627-01-26" key="j19500921958296" to-iso="+0649-07-13"><name>貞觀</name></date><lb
 n="0709a27" ed="T"/>之風，合選兼才，豈當末學？得不擒犀截<lb
 n="0709a28" ed="T"/>角，搴翠刪毛，精求出類之人，取法表年<lb
 n="0709a29" ed="T"/>之史。所恨空門寡學，釋胄何知！或有可觀，<pb n="0709b" xml:id="T50.2061.0709b" ed="T"/><lb
@@ -40,7 +40,7 @@ n="0709b09" ed="T"/>營之至<ptr type="glossary" target="#g6"/>，謹言。</p>
 n="0709b10" ed="T"/><head>批答</head>
         <p xml:id="pT50p0709b1101"><lb
 n="0709b11" ed="T"/>勅<persName key="A001910">通慧大師贊寧</persName>，省所令<placeName key="PL000000023316">左街天壽寺</placeName>賜紫<lb
-n="0709b12" ed="T"/>僧<persName key="A019530">顯忠</persName>進編修《<anchor xml:id="beg0709003"/><corr>大</corr><anchor xml:id="end0709003"/>宋高僧傳》三十卷事，具<lb
+n="0709b12" ed="T"/>僧<persName key="A019530">顯忠</persName>進編修《<anchor xml:id="beg0709003"/>有宋<anchor xml:id="end0709003"/>高僧傳》三十卷事，具<lb
 n="0709b13" ed="T"/>悉。一乘妙道，六度玄門，代有奇人，迭恢聖<lb
 n="0709b14" ed="T"/>教。若無纂述，何以顯揚？繄爾真流，棲心法<lb
 n="0709b15" ed="T"/>苑，成茲編集，頗効辛勤。備觀該總之能，深<lb
@@ -53,20 +53,19 @@ n="0709b21" ed="T"/><head><lb
 n="0709b22" ed="T"/><anchor xml:id="beg0709005" n="0709005"/>宋<anchor xml:id="end0709005"/>高僧傳序</head><lb
 n="0709b23" ed="T"/><p xml:id="pT50p0709b2401"><lb
 n="0709b24" ed="T"/><ref type="person" target="A001910">臣</ref>聞賢劫綿長，世間宏廓，天與時而不盡，<lb
-n="0709b25" ed="T"/>地受富以無疆，最靈之氣牣<anchor xml:id="beg0709006" n="0709006"/>于<anchor xml:id="end0709006"/>中，大聖之<lb
+n="0709b25" ed="T"/>地受富以無疆，最靈之氣牣<anchor rend="display:none;" xml:id="beg0709006" n="0709006"/>于<anchor xml:id="end0709006"/>中，大聖之<lb
 n="0709b26" ed="T"/>師居于上。偉哉！<persName key="A002799">釋迦</persName>方隱，<persName key="A001428">彌勒</persName>未來，其間<lb
 n="0709b27" ed="T"/>出命世<ptr type="glossary" target="#g8"/>之人，此際多分身之聖，肆為僧相，<lb
 n="0709b28" ed="T"/>喜示沙門。言與行而可觀，槧兼觚<ptr type="glossary" target="#g8"/>而爭錄。<lb
-n="0709b29" ed="T"/>是以<persName key="A018659">王<anchor xml:id="beg0709sgsz2"/><choice resp="sgsz"><sic>巾</sic><corr>屮</corr></choice><anchor xml:id="end0709sgsz2"/></persName>《僧史》，<persName key="A002181">孫綽</persName>《道賢》，摹列傳以周流，
-            <pb n="0709c" xml:id="T50.2061.0709c" ed="T"/><lb
+n="0709b29" ed="T"/>是以<persName key="A018659">王<choice resp="sgsz"><sic>巾</sic><corr>屮</corr></choice></persName><ptr target="#n286"/>《僧史》，<persName key="A002181">孫綽</persName>《道賢》，摹列傳以周流，<pb n="0709c" xml:id="T50.2061.0709c" ed="T"/><lb
 n="0709c01" ed="T"/>象世家而布濩<ptr type="glossary" target="#g10"/>，蓋欲希<persName key="A002780">顏</persName>之者，慕<persName key="A009225">藺</persName>之儔，<lb
 n="0709c02" ed="T"/>成飛錫之應真<ptr type="glossary" target="#g11"/>，作曳山之上士。時則<persName key="A015418">裴子<lb
 n="0709c03" ed="T"/>野</persName>著《眾僧傳》，<persName key="A002687">釋法濟</persName>撰《高逸沙門傳》，<persName key="A003158">陸<anchor xml:id="beg0709sgsz3" n="0709sgsz3"/>杲<anchor xml:id="end0709sgsz3"/></persName><lb
 n="0709c04" ed="T"/>述《沙門傳》，<persName key="A001926">釋寶唱</persName>立《名僧傳》<ptr target="#n12"/>，斯皆河圖作<lb
 n="0709c05" ed="T"/>《洪範》之椎輪，土鼓為《咸池》之坏器。焉知來者，<lb
-n="0709c06" ed="T"/>靡曠其人。<persName key="A001724">慧皎</persName><anchor xml:id="beg0709007" n="0709007"/>刊<anchor xml:id="end0709007"/>修，用實行潛光之目；<persName key="A001519">道<lb
+n="0709c06" ed="T"/>靡曠其人。<persName key="A001724">慧皎</persName><anchor rend="display:none;" xml:id="beg0709007" n="0709007"/>刊<anchor xml:id="end0709007"/>修，用實行潛光之目；<persName key="A001519">道<lb
 n="0709c07" ed="T"/>宣</persName>緝綴，續高而不名之風，令六百載行道之<lb
-n="0709c08" ed="T"/>人弗墜于地者矣。爰自<date from-iso="+0627-01-26" to-iso="+0649-07-13" key="j19500921958296">貞觀</date>命章<ptr type="glossary" target="#g13"/>之後，<placeName key="PL000000042216">西<lb
+n="0709c08" ed="T"/>人弗墜于地者矣。爰自<date from-iso="+0627-01-26" to-iso="+0649-07-13" key="j19500921958296"><name>貞觀</name></date>命章<ptr type="glossary" target="#g13"/>之後，<placeName key="PL000000042216">西<lb
 n="0709c09" ed="T"/>明</placeName>絕筆<ptr type="glossary" target="#g14"/>已還<ptr target="#n15"/>，此作蔑聞，斯文將缺。時有再<lb
 n="0709c10" ed="T"/>至，肅殺過而繁華來；世無久虛，地天<anchor xml:id="beg0709008" n="0709008"/><choice resp="sgsz"><sic>奏</sic><corr>泰</corr></choice><anchor xml:id="end0709008"/><ptr target="#n16"/>而<lb
 n="0709c11" ed="T"/>聖明出。我<persName key="A001640">應運統天叡文英武大聖至明廣<lb
@@ -93,7 +92,7 @@ n="0710a01" ed="T"/>等分面徵搜，各塗搆集，如見一家之好，且<lb
 n="0710a02" ed="T"/>無諸國之殊，所以成十科者，易同拾取。其<lb
 n="0710a03" ed="T"/>正傳五百三十三人，附見一百三十人。矧<ptr rend="display:none;" type="glossary" target="#g325"/>復<lb
 n="0710a04" ed="T"/>逐科盡處，象史「論」以攄辭；因事言時，為<lb
-n="0710a05" ed="T"/>傳家之系斷。厥號《<anchor xml:id="beg0709sgsz5" n="0709sgsz5"/><corr>大</corr><anchor xml:id="end0709sgsz5"/>宋高僧傳》焉。庶幾乎<lb
+n="0710a05" ed="T"/>傳家之系斷。厥號《<anchor xml:id="beg0709sgsz5"/>有宋<anchor xml:id="end0709sgsz5"/>高僧傳》焉。庶幾乎<lb
 n="0710a06" ed="T"/>銅馬為式，選千里之駿駒<ptr type="glossary" target="#g24"/>；竹編見書，實六和<lb
 n="0710a07" ed="T"/>之年表<ptr type="glossary" target="#g25"/>。觀之者務進，悟之者思齊，皆登三<lb
 n="0710a08" ed="T"/>藐之山，悉入薩云之海<ptr type="glossary" target="#g26"/>，永資聖曆，俱助皇<lb

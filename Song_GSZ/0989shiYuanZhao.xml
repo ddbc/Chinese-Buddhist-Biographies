@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
-<div xmlns="http://www.tei-c.org/ns/1.0" type="明律" xml:id="gsz0804b17shiYuanZhao">
-    <anchor n="T.50.2061.0804b17"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date>京師西明寺<persName key="A001417">圓照</persName>傳（<persName key="A000454">利言</persName>）</head><p><lb
-ed="T" n="0804b18"/><persName key="A001417">釋圓照</persName>，姓張氏，<placeName key="PL000000042576">京兆藍田</placeName>人也。年方十歲，篤<lb
+<div xmlns="http://www.tei-c.org/ns/1.0" type="明律" xml:id="gsz0804b17shiYuanZhao"><lb
+ed="T" n="0804b17"/><anchor n="T.50.2061.0804b17"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date>京師<ptr target="#n279"/>西明寺<persName key="A001417">圓照</persName>傳（<persName key="A000454">利言</persName>）</head><p><lb
+ed="T" n="0804b18"/><persName key="A001417">釋圓照</persName>，姓<name>張</name>氏，<placeName key="PL000000042576">京兆藍田</placeName>人也。年方十歲，篤<lb
 ed="T" n="0804b19"/>願依<placeName key="PL000000042216">西明寺</placeName><persName key="A011183">景雲<roleName>律師</roleName></persName>。<persName key="A011183">雲</persName>亦一方匠手，四部<lb
 ed="T" n="0804b20"/>歸心。<persName key="A001417">照</persName>當應法，乃受近圓，謹愿執持，如懷<lb
 ed="T" n="0804b21"/>寶器。尋究經論，訪問師承，《維摩》、《法華》、《因明》、<lb
@@ -52,7 +52,7 @@ ed="T" n="0805a07"/>明寺</placeName><persName key="A011199">道邃</persName>�
 ed="T" n="0805a08"/>福寺</placeName><persName key="A011206">超證</persName>、<placeName key="PL000000042270">薦福寺</placeName><persName key="A010792">如淨</persName>、<placeName key="PL000000042420">青龍寺</placeName><persName key="A011208">惟幹</persName>、<placeName key="PL000000042180">章信寺</placeName><lb
 ed="T" n="0805a09"/><persName key="A011210">希照</persName>、<placeName key="PL000000042165">保壽寺</placeName><persName key="A011195">慧徹</persName>、<persName key="A001417">圓照</persName>共奉表謝。答詔云：<lb
 ed="T" n="0805a10"/>『師等道著依經，功超自覺，承雪宮之旨奧，<lb
-ed="T" n="0805a11"/>為火宅之涼颸。《四分律儀》，三乘扃鍵，須歸<lb
+ed="T" n="0805a11"/>為火宅<ptr type="glossary" target="#g1598"/>之涼颸。《四分律儀》，三乘扃鍵，須歸<lb
 ed="T" n="0805a12"/>總會，永息多門。一國三公，誰執其咎。初機<lb
 ed="T" n="0805a13"/>眩曜，迷復孔多，爰命有司<anchor xml:id="beg0805sgsz1"/><choice resp="sgsz"><sic>婢</sic><corr>俾</corr></choice><anchor xml:id="end0805sgsz1"/>供資費，所煩<lb
 ed="T" n="0805a14"/>筆削，竚見裁成。所謝知悉。』其日品官<persName key="A011212">楊崇<lb
@@ -74,7 +74,7 @@ ed="T" n="0805a29"/>篇題云：『勅僉定《四分律疏》卷第一，<place
 ed="T" n="0805b01"/>大德某等奉詔定』，以此為題也。」<persName key="A001417">照</persName>為首唱，<lb
 ed="T" n="0805b02"/>諸公和之。其間厥義非長，若農夫之去草；<lb
 ed="T" n="0805b03"/>其義合理，猶海客之采珠。可謂名解毘尼，<lb
-ed="T" n="0805b04"/>不看他面。俄屬<persName key="A004215">德宗</persName>即位，改元建中，<date from-iso="+0780-06-11" key="j20061112006140" to-iso="+0780-07-10">其年<lb
+ed="T" n="0805b04"/>不看他面。俄屬<persName key="A004215">德宗</persName>即位，改元<name>建中</name>，<date from-iso="+0780-06-11" key="j20061112006140" to-iso="+0780-07-10">其年<lb
 ed="T" n="0805b05"/>五月</date>《疏》草畢。<date when-iso="+0780-07-25" key="j20061552006155">六月望</date>，勅<persName key="A001417">圓照</persName>依國子學大曆<lb
 ed="T" n="0805b06"/>新定字樣抄寫進本。至<date key="j20063292006329" when-iso="+0781-01-15">十二月十二日</date>送<lb
 ed="T" n="0805b07"/>祠部進《新僉定疏》十卷。仍乞新舊兩《疏》許<lb

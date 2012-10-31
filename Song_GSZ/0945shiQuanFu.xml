@@ -1,54 +1,59 @@
 <?xml version='1.0' encoding='utf-8'?>
-<div xmlns="http://www.tei-c.org/ns/1.0" type="習禪" xml:id="gsz0787b06shiQuanFu">
-    <anchor n="T.50.2061.0787b06"/><head><date from-iso="+0936-12-05" key="j20632662067017" to-iso="+0947-03-14">晉</date>會稽清化院<persName key="A010700">全付</persName>傳</head><p><lb
-ed="T" n="0787b07"/><persName key="A010700">釋全付</persName>，<placeName key="PL000000010176">吳郡崑山</placeName>人也。幼隨父商<anchor xml:id="beg0787sgsz3"/>於<anchor xml:id="end0787sgsz3"/><placeName key="PL000000018603">豫章</placeName>，<lb
+<div xmlns="http://www.tei-c.org/ns/1.0" type="習禪" xml:id="gsz0787b06shiQuanFu"><lb
+ed="T" n="0787b06"/><anchor n="T.50.2061.0787b06"/><head><date from-iso="+0936-12-05" key="j20632662067017" to-iso="+0947-03-14">晉</date><placeName key="PL000000013231">會稽清化院</placeName><persName key="A010700">全付</persName>傳</head><p><lb
+ed="T" n="0787b07"/><persName key="A010700">釋全付</persName>，<placeName key="PL000000010176">吳郡崑山</placeName>人也。幼隨父商<anchor xml:id="beg0787sgsz3"/>於<anchor xml:id="end0787sgsz3"/><placeName key="PL000000018628">豫章</placeName>，<lb
 ed="T" n="0787b08"/>聞禪寂之說，乃有厭世之志。白求出家，父<lb
 ed="T" n="0787b09"/>慍形<anchor xml:id="beg0787sgsz4"/>於<anchor xml:id="end0787sgsz4"/>色。慍止，復白者三，父異其誠，率略<lb
-ed="T" n="0787b10"/>許之。遂詣<placeName key="PL000000026482">江夏</placeName>，投<persName key="A010712">清平大師</persName>。問曰：「<persName key="A010700">爾</persName>來何<lb
-ed="T" n="0787b11"/>求？」<persName key="A010700">付</persName>曰：「志求法也。」<persName key="A010712">清平師</persName>憐其幼而抱器，<lb
+ed="T" n="0787b10"/>許之。遂詣<placeName key="PL000000026483">江夏</placeName>，投<persName key="A010712">清平大師</persName>。問曰：「<persName key="A010700">爾</persName>來何<lb
+ed="T" n="0787b11"/>求？」<persName key="A010700">付</persName>曰：「志求法也。」<persName key="A010712">清平<roleName>師</roleName></persName>憐其幼而抱器，<lb
 ed="T" n="0787b12"/>撫以納之。夙興夜<anchor xml:id="beg0787sgsz5"/><choice resp="sgsz"><sic>號</sic><corr>寐</corr></choice><anchor xml:id="end0787sgsz5"/>，殊於群童。及長，為之<lb
 ed="T" n="0787b13"/>落飾，尋登戒度。奉師彌謹，<anchor xml:id="beg0787sgsz6"/><choice resp="sgsz"><sic>撿</sic><corr>檢</corr></choice><anchor xml:id="end0787sgsz6"/>身彌至，問法<lb
-ed="T" n="0787b14"/>無<anchor xml:id="beg0787sgsz7"/>厭<anchor xml:id="end0787sgsz7"/>飫，見性不齷齪，<persName key="A010712">清平</persName>頷而許之。一旦，<lb
+ed="T" n="0787b14"/>無厭飫，見性不齷齪，<persName key="A010712">清平</persName>頷而許之。一旦，<lb
 ed="T" n="0787b15"/>謂人曰：「<persName key="A010700">吾</persName>聞學無常師，<persName key="A010700">吾</persName>非匏<anchor xml:id="beg0787004"/>瓜<anchor xml:id="end0787004"/>，豈繫<lb
-ed="T" n="0787b16"/><anchor xml:id="beg0787005"/>于<anchor xml:id="end0787005"/>此而曠<anchor xml:id="beg0787sgsz8"/>于<anchor xml:id="end0787sgsz8"/>彼乎？」遂辭<persName key="A010712">師</persName>而抵宜春之<lb
-ed="T" n="0787b17"/><placeName key="PL000000019591">仰山</placeName>，<anchor xml:id="beg0787sgsz9"/>禮<anchor xml:id="end0787sgsz9"/>南塔<persName key="A010713">涌禪師</persName>。應對言語，深認<placeName key="PL000000019591">仰山</placeName><lb
-ed="T" n="0787b18"/>之勢，頓了直下之心。<placeName key="PL000000019591">仰山</placeName><anchor xml:id="beg0787006"/>囅<anchor xml:id="end0787006"/>然器重之。拳<lb
-ed="T" n="0787b19"/>拳伏膺，棲神累載。後遊<anchor xml:id="beg0787sgsz10"/>于<anchor xml:id="end0787sgsz10"/><placeName key="PL000000019384">廬陵</placeName>，<placeName key="PL000000019550">安福縣</placeName>宰<persName key="A010714">楊<lb
-ed="T" n="0787b20"/>公</persName>建<placeName key="PL000000019371">應國禪院</placeName>，請<persName key="A010700">付</persName>居之。禪徒子來，堂室<lb
-ed="T" n="0787b21"/>畟滿。<persName key="A010714">楊宰</persName>罷任，其鄉人復於鴿湖山<!--找不到此地-->建院，<lb
-ed="T" n="0787b22"/>迎以居之。廉使上聞，錫名曰清化禪院<!--找不到此地-->，禪<lb
-ed="T" n="0787b23"/>徒麕至，請問者牆進。皆不我屈，豈多讓于<lb
+ed="T" n="0787b16"/><anchor xml:id="beg0787005"/>于<anchor xml:id="end0787005"/>此而曠<anchor xml:id="beg0787sgsz8"/>于<anchor xml:id="end0787sgsz8"/>彼乎？<ptr target="#n1722"/>」遂辭<ref type="person" target="#A010712">師</ref>而抵<placeName key="PL000000019610">宜春</placeName>之<lb
+ed="T" n="0787b17"/><placeName key="PL000000019591">仰山</placeName>，<anchor xml:id="beg0787sgsz9"/>禮<anchor xml:id="end0787sgsz9"/><placeName key="PL000000057294">南塔</placeName><persName key="A010713">涌<roleName>禪師</roleName></persName>。應對言語，深認<persName key="A010713">仰山</persName><lb
+ed="T" n="0787b18"/>之勢，頓了直下之心。<persName key="A010713">仰山</persName><anchor xml:id="beg0787006"/>囅<anchor xml:id="end0787006"/><ptr target="#n259"/>然器重之。拳<lb
+ed="T" n="0787b19"/>拳伏膺，棲神累載。後遊<anchor xml:id="beg0787sgsz10"/>于<anchor xml:id="end0787sgsz10"/><placeName key="PL000000019383">廬陵</placeName>，<placeName key="PL000000019550">安福縣</placeName>宰<persName key="A010714">楊<lb
+ed="T" n="0787b20"/><roleName>公</roleName></persName>建<placeName key="PL000000019371">應國禪院</placeName>，請<persName key="A010700">付</persName>居之。禪徒子來，堂室<lb
+ed="T" n="0787b21"/>畟<ptr type="glossary" target="#g66"/>滿。<persName key="A010714">楊<roleName>宰</roleName></persName>罷任，其鄉人復於<placeName key="PL000000013199">鴿湖山</placeName>建院，<lb
+ed="T" n="0787b22"/>迎以居之。廉使上聞，錫名曰<placeName key="PL000000057293">清化禪院</placeName>，禪<lb
+ed="T" n="0787b23"/>徒麕至，請問者牆進<ptr type="glossary" target="#g67"/>，皆不我屈，豈多讓于<lb
 ed="T" n="0787b24"/>前輩乎？有同里僧謂<persName key="A010700">付</persName>曰：「父母之鄉，胡可<lb
-ed="T" n="0787b25"/>棄也？任緣徇世，願<persName key="A010700">師</persName>歸歟！」遂別鴿湖<!--找不到此地-->而還<lb
+ed="T" n="0787b25"/>棄也？任緣徇世，願<ref type="person" target="#A010700">師</ref>歸歟！」遂別<placeName key="PL000000013199">鴿湖</placeName>而還<lb
 ed="T" n="0787b26"/>故國。時<persName key="A006771">吳越文穆王錢<roleName>氏</roleName></persName>命升階，賜之衣衾<lb
-ed="T" n="0787b27"/>鉢器，有加禮焉。<date from-iso="+0937-02-18" key="j20633412063694" to-iso="+0938-02-06">丁<anchor xml:id="beg0787sgsz11"/><choice resp="sgsz"><sic>西</sic><corr>酉</corr></choice><anchor xml:id="end0787sgsz11"/></date>歲，錢城戍將。闢<placeName key="PL000000013200">雲峯<lb
+ed="T" n="0787b27"/>鉢器，有加禮焉。<date from-iso="+0937-02-18" key="j20633412063694" to-iso="+0938-02-06">丁<anchor xml:id="beg0787sgsz11"/><choice resp="sgsz"><sic>西</sic><corr>酉</corr></choice><anchor xml:id="end0787sgsz11"/></date>歲，<placeName key="PL000000011518">錢城</placeName>戍將。闢<placeName key="PL000000013200">雲峯<lb
 ed="T" n="0787b28"/>山</placeName>，建<placeName key="PL000000013231">清化禪院</placeName>，召以居之。次<persName key="A006772">忠獻王錢<roleName>氏</roleName></persName><lb
 ed="T" n="0787b29"/>遣使錫以紫袈裟，<persName key="A010700">付</persName>上章累讓，再賜之，又<pb ed="T" n="0787c" xml:id="T50.2061.0787c"/><lb
-ed="T" n="0787c01"/>讓之，遂<anchor xml:id="beg0787007"/><choice resp="sgsz"><sic>故</sic><corr>改</corr></choice><anchor xml:id="end0787007"/>以納衣。<persName key="A010700">付</persName>曰：「<persName key="A010700">吾</persName>非榮其賜而<lb
-ed="T" n="0787c02"/>飾讓也，恐後人之倣<persName key="A010700">吾</persName>而逞欲矣。」尋賜號<lb
+ed="T" n="0787c01"/>讓之，遂<anchor xml:id="beg0787007"/><choice resp="sgsz"><sic>故</sic><corr>改</corr></choice><anchor xml:id="end0787007"/>以納衣。<persName key="A010700">付</persName>曰：「<ref type="person" target="#A010700">吾</ref>非榮其賜而<lb
+ed="T" n="0787c02"/>飾讓也，恐後人之倣<ref type="person" target="#A010700">吾</ref>而逞欲矣。」尋賜號<lb
 ed="T" n="0787c03"/>曰<persName key="A010700">純一禪師</persName>，又固讓之。<persName key="A010700">付</persName>不以情忘情，故<lb
 ed="T" n="0787c04"/>情真；不以道求道，故道直。所居院之殿宇<lb
 ed="T" n="0787c05"/>堂室，人競崇建之。鑄鐘千餘斤。新額曰<placeName key="PL000000013231">雲<lb
-ed="T" n="0787c06"/>峯清化禪院</placeName>，雲水之侶輻湊，睠睠不欲捨<lb
-ed="T" n="0787c07"/>旃<ptr type="glossary" target="#g1050"/>。<date key="j20671512067208" from-iso="+0947-07-26" to-iso="+0947-09-21">開運四年丁未歲秋七月</date><!--規範資料庫無開運四年七月-->示疾，謂眾曰：<lb
+ed="T" n="0787c06"/>峯清化禪院</placeName>，雲水<ptr type="glossary" target="#g1517"/>之侶輻湊，睠睠<ptr type="glossary" target="#g68"/>不欲捨<lb
+ed="T" n="0787c07"/>旃<ptr type="glossary" target="#g1050"/>。<date key="j20671512067179" from-iso="+0947-07-26" to-iso="+0947-08-23"><name>開運</name>四年丁未歲秋七月</date>示疾，謂眾曰：<lb
 ed="T" n="0787c08"/>「生也法起，歿也法滅，起滅非言論所及也。」<lb
 ed="T" n="0787c09"/>安然而逝，有大雨疾風，以震林木拔矣。<anchor xml:id="beg0787sgsz12"/><choice resp="sgsz"><sic>亨</sic><corr>享</corr></choice><anchor xml:id="end0787sgsz12"/>年<lb
 ed="T" n="0787c10"/>六十六，臘四十有五。歸窆<anchor xml:id="beg0787sgsz13"/>於<anchor xml:id="end0787sgsz13"/>山之北塢，弟<lb
 ed="T" n="0787c11"/>子<persName key="A010715">應清</persName>等十餘人奉<persName key="A010700">師</persName>遺訓，不墜其道焉。<lb
-ed="T" n="0787c12"/>僧主<persName key="A010699">彙征</persName>為塔銘。<date from-iso="+0961-01-25" key="j20720832072466" to-iso="+0962-02-12">建隆二年</date>立。</p>
+ed="T" n="0787c12"/>僧主<persName key="A010699">彙征</persName>為塔銘，<date from-iso="+0961-01-25" key="j20720832072466" to-iso="+0962-02-12">建隆二年</date>立。</p>
+    <linkGrp>
+        <link targets="#0787b07 #0787b07"/>
+        <ptr target="#A010700" type="person"/>
+        <ptr target="#PL000000010176" type="place"/>
+    </linkGrp>
     <linkGrp>
         <link targets="#0787b07 #0787b08"/>
         <ptr target="#A010700" type="person"/>
-        <ptr target="#PL000000018603" type="place"/>
+        <ptr target="#PL000000018628" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0787b10 #0787b12"/>
         <ptr target="#A010700" type="person"/>
         <ptr target="#A010712" type="person"/>
-        <ptr target="#PL000000026482" type="place"/>
+        <ptr target="#PL000000026483" type="place"/>
     </linkGrp>
     <linkGrp>
-        <link targets="#0787b16 #0787b18"/>
+        <link targets="#0787b16 #0787b19"/>
         <ptr target="#A010700" type="person"/>
         <ptr target="#A010713" type="person"/>
         <ptr target="#PL000000019591" type="place"/>
@@ -60,9 +65,18 @@ ed="T" n="0787c12"/>僧主<persName key="A010699">彙征</persName>為塔銘。<
         <ptr target="#PL000000019371" type="place"/>
     </linkGrp>
     <linkGrp>
-        <link targets="#0787b26 #0787b28"/>
+        <link targets="#0787b21 #0787b24"/>
+        <ptr target="#A010700" type="person"/>
+        <ptr target="#PL000000057293" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0787b26 #0787b27"/>
         <ptr target="#A010700" type="person"/>
         <ptr target="#A006771" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0787b27 #0787b28"/>
+        <ptr target="#A010700" type="person"/>
         <ptr target="#PL000000013231" type="place"/>
         <ptr target="#j20633412063694" type="time"/>
     </linkGrp>
@@ -72,8 +86,20 @@ ed="T" n="0787c12"/>僧主<persName key="A010699">彙征</persName>為塔銘。<
         <ptr target="#A006772" type="person"/>
     </linkGrp>
     <linkGrp>
+        <link targets="#0787c07 #0787c09"/>
+        <ptr target="#A010700" type="person"/>
+        <ptr target="#PL000000013231" type="place"/>
+        <ptr target="#j20671512067179" type="time"/>
+    </linkGrp>
+    <linkGrp>
         <link targets="#0787c10 #0787c11"/>
         <ptr target="#A010700" type="person"/>
         <ptr target="#A010715" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0787c12 #0787c12"/>
+        <ptr target="#A010699" type="person"/>
+        <ptr target="#PL000000013200" type="place"/>
+        <ptr target="#j20720832072466" type="time"/>
     </linkGrp>
 </div>

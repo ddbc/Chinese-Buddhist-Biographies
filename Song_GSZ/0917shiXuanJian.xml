@@ -1,37 +1,47 @@
 <?xml version='1.0' encoding='utf-8'?>
-<div xmlns="http://www.tei-c.org/ns/1.0" type="習禪" xml:id="gsz0778b21shiXuanJian">
-    <anchor n="T.50.2061.0778b21"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date>朗州德山院<persName key="A003868">宣鑒</persName>傳</head><p><lb
-ed="T" n="0778b22"/><persName key="A003868">釋宣鑒</persName>，姓周氏，<placeName key="PL000000034811">劍南</placeName>人也。生惡葷羶，少多<lb
+<div xmlns="http://www.tei-c.org/ns/1.0" type="習禪" xml:id="gsz0778b21shiXuanJian"><lb
+ed="T" n="0778b21"/><anchor n="T.50.2061.0778b21"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date><placeName key="PL000000029435">朗州德山院</placeName><persName key="A003868">宣鑒</persName>傳</head><p><lb
+ed="T" n="0778b22"/><persName key="A003868">釋宣鑒</persName>，姓<name>周</name>氏，<placeName key="PL000000034811">劍南</placeName>人也。生惡葷羶，少多<lb
 ed="T" n="0778b23"/>英敏，宿齎異操，懇願出塵。大龍不屈於小<lb
-ed="T" n="0778b24"/>庭，俊鶚必騰其層漢，既除美飾，當預僧流。<lb
-ed="T" n="0778b25"/>從受近圓，即窮《律藏》，其諸性相，貫習偕通。<lb
-ed="T" n="0778b26"/>聞重湖間禪道大興，乃<anchor xml:id="beg0778sgsz4"/><choice resp="sgsz"><sic>杭</sic><corr>抗</corr></choice><anchor xml:id="end0778sgsz4"/>志雲遊，造<placeName key="PL000000029483">龍潭</placeName><persName key="A010427">信<lb
-ed="T" n="0778b27"/>禪師</persName>，則<persName key="A010291">石頭宗師</persName>之二葉也。始唯獨居一室，<lb
+ed="T" n="0778b24"/>庭，俊鶚必騰其層漢<ptr type="glossary" target="#g1584"/>，既除美飾，當預僧流。<lb
+ed="T" n="0778b25"/>從受近圓<ptr type="glossary" target="#g1188"/>，即窮律藏，其諸性相<ptr type="glossary" target="#g583"/>，貫習偕通。<lb
+ed="T" n="0778b26"/>聞<placeName key="PL000000028612">重湖</placeName><ptr target="#n1587"/>間禪道大興，乃<anchor xml:id="beg0778sgsz8"/><choice resp="sgsz"><sic>杭</sic><corr>抗</corr></choice><anchor xml:id="end0778sgsz8"/>志雲遊，造<placeName key="PL000000029483">龍潭</placeName><persName key="A010427">信<lb
+ed="T" n="0778b27"/><roleName>禪師</roleName></persName>，則<persName key="A010291">石頭<roleName>宗師</roleName></persName>之二葉也。始唯獨居一室，<lb
 ed="T" n="0778b28"/><persName key="A003868">鑒</persName>強供侍之。一夕<persName key="A010427">龍潭</persName>持一枝火授<persName key="A003868">鑒</persName>，<persName key="A003868">鑒</persName><lb
 ed="T" n="0778b29"/>接而行數步，且曰：「久聞<placeName key="PL000000029483">龍潭</placeName>到來，龍之與<pb ed="T" n="0778c" xml:id="T50.2061.0778c"/><lb
-ed="T" n="0778c01"/>潭，俱不見歟？」<persName key="A010427">信</persName>曰：「子親到矣。」機與教符，日<lb
-ed="T" n="0778c02"/>親丈室三十餘年。後止<placeName key="PL000000029560">澧陽</placeName>。居無何<ptr type="glossary" target="#g493"/>，<date from-iso="+0840-02-14" key="j20279082030170" to-iso="+0846-04-25">屬</date><persName key="A006570">武<lb
-ed="T" n="0778c03"/>宗</persName>搜揚。<anchor xml:id="beg0778sgsz5"/>洎<anchor xml:id="end0778sgsz5"/><date from-iso="+0847-02-10" key="j20304612035056" to-iso="+0859-09-10"><name>大中</name></date>還復法儀。<date from-iso="+0860-12-21" key="j20355242036679" to-iso="+0864-02-19">咸通</date>初，<placeName key="PL000000029412">武陵</placeName>太<lb
-ed="T" n="0778c04"/>守<persName key="A010547">薛延望</persName>堅請，始居<placeName key="PL000000029435">德山</placeName>，其道芬馨，四海禪<lb
-ed="T" n="0778c05"/>徒輻湊。伏臘，堂中常有半千人矣。其於訓<lb
+ed="T" n="0778c01"/>潭，俱不見歟？」<persName key="A010427">信</persName>曰：「子親到矣。」<ptr target="#n1588"/>機與教符，日<lb
+ed="T" n="0778c02"/>親丈室<ptr type="glossary" target="#g1025"/>三十餘年。後止<placeName key="PL000000029560">澧陽</placeName>。居無何<ptr type="glossary" target="#g493"/>，<date from-iso="+0840-02-14" key="j20279082030170" to-iso="+0846-04-25">屬</date><persName key="A006570">武<lb
+ed="T" n="0778c03"/>宗</persName>搜揚<ptr target="#n1591"/>。<anchor xml:id="beg0778sgsz10"/>洎<anchor xml:id="end0778sgsz10"/><date from-iso="+0847-02-10" key="j20304612035056" to-iso="+0859-09-10"><name>大中</name></date>還復法儀。<date from-iso="+0860-12-21" key="j20355242036679" to-iso="+0864-02-19"><name>咸通</name>初</date>，<placeName key="PL000000029413">武陵</placeName>太<lb
+ed="T" n="0778c04"/>守<persName key="A010547">薛延望</persName>堅請，始居<placeName key="PL000000029435">德山</placeName><ptr target="#n1589"/>，其道芬馨，四海禪<lb
+ed="T" n="0778c05"/>徒輻湊。伏、臘<ptr type="glossary" target="#g1585"/>，堂中常有半千人矣。其於訓<lb
 ed="T" n="0778c06"/>授，天險海深，難窺邊際。<persName key="A003677">雪峯</persName>參見，<persName key="A003868">鑒</persName>深肯<lb
-ed="T" n="0778c07"/>重。以<date key="j20373572037357" when-iso="+0865-12-28">咸通六年乙酉歲十二月三日</date>，忽告諸<lb
+ed="T" n="0778c07"/>重。以<date key="j20373572037357" when-iso="+0865-12-28"><name>咸通</name>六年乙酉歲十二月三日</date>，忽告諸<lb
 ed="T" n="0778c08"/>徒曰：「捫空追響，勞汝神邪？夢覺覺非，復<lb
 ed="T" n="0778c09"/>有何事？」言訖安坐而化，春秋八十四，僧臘六<lb
-ed="T" n="0778c10"/>十五。身據床坐，卓然七日如生在焉。天下<lb
-ed="T" n="0778c11"/>言激箭之禪道者，有<placeName key="PL000000029435">德山</placeName>門風焉。今<placeName key="PL000000027118">襄</placeName>、<placeName key="PL000000025497">鄧</placeName>、<lb
-ed="T" n="0778c12"/><placeName key="PL000000028309">漢東</placeName>法孫極盛者是。</p>
+ed="T" n="0778c10"/>十五<ptr target="#n1590"/>。身據床坐，卓然七日如生在焉。天下<lb
+ed="T" n="0778c11"/>言激箭之禪道者，有<persName key="A003868">德山</persName>門風焉。今<placeName key="PL000000027118">襄</placeName>、<placeName key="PL000000025497">鄧</placeName>、<lb
+ed="T" n="0778c12"/><placeName key="PL000000028309">漢東</placeName>法孫極盛者<anchor xml:id="beg0778sgsz11"/>是<anchor xml:id="end0778sgsz11"/>。</p>
+        <linkGrp>
+            <link targets="#0778b22 #0778b22"/>
+            <ptr target="#A003868" type="person"/>
+            <ptr target="#PL000000034811" type="place"/>
+        </linkGrp>
         <linkGrp>
             <link targets="#0778b26 #0778c02"/>
             <ptr target="#A003868" type="person"/>
             <ptr target="#A010427" type="person"/>
             <ptr target="#PL000000029483" type="place"/>
-            </linkGrp>
+        </linkGrp>
         <linkGrp>
             <link targets="#0778c02 #0778c03"/>
             <ptr target="#A003868" type="person"/>
             <ptr target="#PL000000029560" type="place"/>
-            <ptr target="#j20279082030170" type="time"/>
+        </linkGrp>
+        <linkGrp>
+            <link targets="#0778c03 #0778c04"/>
+            <ptr target="#A010547" type="person"/>
+            <ptr target="#PL000000029413" type="place"/>
+            <ptr target="#j20355242036679" type="time"/>
         </linkGrp>
         <linkGrp>
             <link targets="#0778c03 #0778c05"/>
@@ -39,5 +49,16 @@ ed="T" n="0778c12"/><placeName key="PL000000028309">漢東</placeName>法孫極�
             <ptr target="#A010547" type="person"/>
             <ptr target="#PL000000029435" type="place"/>
             <ptr target="#j20355242036679" type="time"/>
+        </linkGrp>
+        <linkGrp>
+            <link targets="#0778c06 #0778c06"/>
+            <ptr target="#A003868" type="person"/>
+            <ptr target="#A003677" type="person"/>
+        </linkGrp>
+        <linkGrp>
+            <link targets="#0778c07 #0778c10"/>
+            <ptr target="#A003868" type="person"/>
+            <ptr target="#PL000000029435" type="place"/>
+            <ptr target="#j20373572037357" type="time"/>
         </linkGrp>
     </div>

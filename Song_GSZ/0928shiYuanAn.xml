@@ -1,15 +1,20 @@
 <?xml version='1.0' encoding='utf-8'?>
-<div xmlns="http://www.tei-c.org/ns/1.0" type="習禪" xml:id="gsz0782c18shiYuanAn">
-    <anchor n="T.50.2061.0782c18"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date>澧州蘇溪<persName key="A009348">元安</persName>傳</head><p><lb
-ed="T" n="0782c19"/><persName key="A009348">釋元安</persName>，俗姓淡，<placeName key="PL000000042829">鳳翔遊麟</placeName>人也。丱年於<placeName key="PL000000042867"><anchor xml:id="beg0782sgsz5"/>岐<anchor xml:id="end0782sgsz5"/>陽<lb
-ed="T" n="0782c20"/>懷恩寺</placeName>從兄<persName key="A010615">祐律師</persName>出家。唯經與論，無不<lb
-ed="T" n="0782c21"/>窮核。乃問道<persName key="A010616">翠微</persName>，次<persName key="A003627">臨濟</persName>，各飡法味，<anchor xml:id="beg0782sgsz6"/><choice resp="sgsz"><sic>不</sic><corr>若</corr></choice><anchor xml:id="end0782sgsz6"/>飫<lb
-ed="T" n="0782c22"/>香積之盂也。斵彫復朴，逍遙自如。聞<persName key="A003669">夾山</persName><lb
-ed="T" n="0782c23"/>道盛德至，造<placeName key="PL000000029560">澧陽</placeName>當稽問轇轕，又增明淨。<lb
+<div xmlns="http://www.tei-c.org/ns/1.0" type="習禪" xml:id="gsz0782c18shiYuanAn"><lb
+ed="T" n="0782c18"/><anchor n="T.50.2061.0782c18"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date><placeName key="PL000000029555"><choice resp="sgsz"><sic>澧</sic><corr>朗</corr></choice>州蘇溪</placeName><ptr target="#n1674"/><persName key="A009348">元安</persName>傳</head><p><lb
+ed="T" n="0782c19"/><persName key="A009348">釋元安</persName>，俗姓<name>淡</name>，<placeName key="PL000000042995">鳳翔<choice resp="sgsz"><sic>遊麟</sic><corr>麟游</corr></choice></placeName>人也<ptr target="#n1662"/>。丱年於<placeName key="PL000000042867"><anchor xml:id="beg0782sgsz24"/>岐<anchor xml:id="end0782sgsz24"/>陽<lb
+ed="T" n="0782c20"/>懷恩寺</placeName>從兄<persName key="A010615">祐<roleName>律師</roleName></persName>出家。唯經與論，無不<lb
+ed="T" n="0782c21"/>窮<choice resp="sgsz"><sic>核</sic><corr>該</corr></choice><ptr target="#n1663"/>。乃問道<persName key="A010616">翠微</persName>，次<persName key="A003627">臨濟</persName>，各飡法味，<anchor xml:id="beg0782sgsz28"/><choice resp="sgsz"><sic>不</sic><corr>若</corr></choice><anchor xml:id="end0782sgsz28"/>飫<lb
+ed="T" n="0782c22"/>香積之盂也。斵彫復朴<ptr type="glossary" target="#g1616"/>，逍遙自如。聞<persName key="A003669">夾山</persName><lb
+ed="T" n="0782c23"/>道盛德至，造<placeName key="PL000000029560">澧陽</placeName>當稽問轇轕<ptr type="glossary" target="#g1617"/>，又增明淨。<lb
 ed="T" n="0782c24"/>後開<placeName key="PL000000029554">樂普山</placeName>，尋居<placeName key="PL000000029555">蘇溪</placeName>，答詶請益，多偶句華<lb
-ed="T" n="0782c25"/>美，為四海傳焉。以<date from-iso="+0899-01-20" key="j20494332049461" to-iso="+0899-02-17">昭宗光化元年戊午十二<lb
-ed="T" n="0782c26"/>月</date>遷滅，享壽六十五，法臘四十六矣。臨終<lb
+ed="T" n="0782c25"/>美，為四海傳焉。以<persName key="A003875">昭宗</persName><date from-iso="+0899-01-20" key="j20494332049461" to-iso="+0899-02-17"><name>光化</name>元年戊午十二<lb
+ed="T" n="0782c26"/>月</date><ptr target="#n1664"/>遷滅，享壽六十五，法臘四十六矣。臨終<lb
 ed="T" n="0782c27"/>告眾，頗多警策辭句云。</p>
+    <linkGrp>
+        <link targets="#0782c19 #0782c19"/>
+        <ptr target="#A009348" type="person"/>
+        <ptr target="#PL000000042995" type="place"/>
+    </linkGrp>
     <linkGrp>
         <link targets="#0782c19 #0782c21"/>
         <ptr target="#A009348" type="person"/>
@@ -41,5 +46,10 @@ ed="T" n="0782c27"/>告眾，頗多警策辭句云。</p>
         <link targets="#0782c24 #0782c24"/>
         <ptr target="#A009348" type="person"/>
         <ptr target="#PL000000029555" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0782c25 #0782c26"/>
+        <ptr target="#A009348" type="person"/>
+        <ptr target="#j20494332049461" type="time"/>
     </linkGrp>
 </div>

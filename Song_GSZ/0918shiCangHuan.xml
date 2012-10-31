@@ -1,47 +1,52 @@
 <?xml version='1.0' encoding='utf-8'?>
-<div xmlns="http://www.tei-c.org/ns/1.0" type="習禪" xml:id="gsz0778c13shiCangHuan">
-    <anchor n="T.50.2061.0778c13"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date>明州棲心寺<persName key="A010548">藏奐</persName>傳</head><p><lb
-ed="T" n="0778c14"/><persName key="A010548">釋藏奐</persName>，俗姓朱氏，<placeName key="PL000000008482">蘇州華亭</placeName>人也。母方娠及<lb
+<div xmlns="http://www.tei-c.org/ns/1.0" type="習禪" xml:id="gsz0778c13shiCangHuan"><lb
+ed="T" n="0778c13"/><anchor n="T.50.2061.0778c13"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date><placeName key="PL000000012202">明州棲心寺</placeName><persName key="A010548">藏奐</persName>傳</head><p><lb
+ed="T" n="0778c14"/><persName key="A010548">釋藏奐</persName>，俗姓<name>朱</name>氏，<placeName key="PL000000008482">蘇州華亭</placeName>人也。母方娠及<lb
 ed="T" n="0778c15"/>誕，常聞異香。為兒時甞墮井，有神人接持<lb
-ed="T" n="0778c16"/>而出。丱歲出家，禮<persName key="A010549">道曠禪師</persName>。及<date key="j20165422016906" from-iso="+0809-01-01" to-iso="+0809-12-31">弱冠</date>，詣<placeName key="PL000000023253">嵩<lb
+ed="T" n="0778c16"/>而出。丱歲出家，禮<persName key="A010549">道曠<roleName>禪師</roleName></persName>。及<date key="j20165422016906" from-iso="+0809-01-01" to-iso="+0809-12-31">弱冠</date>，詣<placeName key="PL000000023253">嵩<lb
 ed="T" n="0778c17"/>嶽</placeName>受具。母每思念涕泣，因一目不視，迨其<lb
 ed="T" n="0778c18"/>歸省，即日而明。母喪哀毀，廬墓間頗有徵<lb
 ed="T" n="0778c19"/>祥，孝感如是，由此顯名。尋遊方訪道，復<lb
-ed="T" n="0778c20"/>詣<placeName key="PL000000013358">五洩山</placeName>，遇<persName key="A010420">靈默大師</persName>。一言辨析，旨趣符<lb
-ed="T" n="0778c21"/>合，顯晦之道，日月之所然也。<date from-iso="+0841-02-08" key="j20282682030170" to-iso="+0846-04-25">會昌</date>、<date from-iso="+0847-02-10" key="j20304612035056" to-iso="+0859-09-10"><anchor xml:id="beg0778003"/><choice resp="sgsz"><sic>人</sic><corr>大</corr></choice><anchor xml:id="end0778003"/>中</date>，衰<lb
-ed="T" n="0778c22"/>而復盛。<anchor xml:id="beg0778sgsz6"/>唯<anchor xml:id="end0778sgsz6"/><persName key="A010548">奐</persName>居之，熒不能惑，焚不能熱，溺<lb
-ed="T" n="0778c23"/>不能濡者也。洎周洛再構<placeName key="PL000000023652">長壽寺</placeName>，勅度居<lb
+ed="T" n="0778c20"/>詣<placeName key="PL000000013358">五洩山</placeName>，遇<persName key="A010420">靈默<roleName>大師</roleName></persName><ptr target="#n1600"/>。一言辨析，旨趣符<lb
+ed="T" n="0778c21"/>合<ptr target="#n1601"/>，顯晦之道，日月之所然也。<date from-iso="+0841-02-08" key="j20282682030170" to-iso="+0846-04-25"><name>會昌</name></date>、<date from-iso="+0847-02-10" key="j20304612035056" to-iso="+0859-09-10"><anchor xml:id="beg0778003"/><name><choice resp="sgsz"><sic>人</sic><corr>大</corr></choice><anchor xml:id="end0778003"/>中</name></date>，衰<lb
+ed="T" n="0778c22"/>而復盛。<anchor xml:id="beg0778sgsz12"/>唯<anchor xml:id="end0778sgsz12"/><persName key="A010548">奐</persName>居之，熒不能惑，焚不能熱，溺<lb
+ed="T" n="0778c23"/>不能濡者也。洎<placeName key="PL000000023581">周洛</placeName><ptr type="glossary" target="#g1586"/>再構<placeName key="PL000000023652">長壽寺</placeName>，勅度居<lb
 ed="T" n="0778c24"/>焉。時內典焚毀，<name>梵</name>夾煨燼，手緝散落，實為<lb
-ed="T" n="0778c25"/>大藏。尋<placeName key="PL000000030463">南海</placeName><persName key="A010556">楊公</persName>收典<placeName key="PL000000009928">姑蘇</placeName>，請<persName key="A010548">奐</persName>歸于故<lb
-ed="T" n="0778c26"/>林，以建精舍。<date from-iso="+0858-01-23" key="j20344612034844" to-iso="+0859-02-10"><name>大中</name>十二年</date>，鄞水檀越<persName key="A010551">任景求</persName><lb
-ed="T" n="0778c27"/>捨宅為院，迎<persName key="A010548">奐</persName>居之。<placeName key="PL000000013475">剡</placeName>寇<persName key="A010552">求甫</persName>率徒二千，<lb
-ed="T" n="0778c28"/>執兵<anchor xml:id="beg0778sgsz7"/>晝<anchor xml:id="end0778sgsz7"/>入，<persName key="A010548">奐</persName>瞑目宴坐，色且無撓。盜眾皆悸<lb
-ed="T" n="0778c29"/>懾，叩頭謝<anchor xml:id="beg0778sgsz8"/><choice resp="sgsz"><sic>道</sic><corr>過</corr></choice><anchor xml:id="end0778sgsz8"/>。寇平，州奏請改額為<placeName key="PL000000012202">棲心寺</placeName>，<pb ed="T" n="0779a" xml:id="T50.2061.0779a"/><lb
+ed="T" n="0778c25"/>大藏。尋<placeName key="PL000000030463">南海</placeName><persName key="A010556">楊<roleName>公</roleName>收</persName>典<placeName key="PL000000009928">姑蘇</placeName><ptr target="#n1592"/>，請<persName key="A010548">奐</persName>歸于故<lb
+ed="T" n="0778c26"/>林，以建精舍。<date from-iso="+0858-01-23" key="j20344612034844" to-iso="+0859-02-10"><name>大中</name>十二年</date>，<placeName key="PL000000012471">鄞水</placeName>檀越<persName key="A010551">任景求</persName><ptr target="#n1593"/><lb
+ed="T" n="0778c27"/>捨宅為院，迎<persName key="A010548">奐</persName>居之。<placeName key="PL000000013475">剡</placeName>寇<persName key="A010552">求甫</persName><ptr target="#n1594"/>率徒二千，<lb
+ed="T" n="0778c28"/>執兵<anchor xml:id="beg0778sgsz14"/>晝<anchor xml:id="end0778sgsz14"/>入，<persName key="A010548">奐</persName>瞑目宴坐，色且無撓。盜眾皆悸<lb
+ed="T" n="0778c29"/>懾，叩頭謝<anchor xml:id="beg0778sgsz16"/><choice resp="sgsz"><sic>道</sic><corr>過</corr></choice><anchor xml:id="end0778sgsz16"/>。寇平，州奏請改額為<placeName key="PL000000012202">棲心寺</placeName>，<pb ed="T" n="0779a" xml:id="T50.2061.0779a"/><lb
 ed="T" n="0779a01"/>以旌<persName key="A010548">奐</persName>之德焉。凡一動止，禪者必集，環堂<lb
 ed="T" n="0779a02"/>擁榻，堵立雲會。<persName key="A010548">奐</persName>學識泉涌，指鑒<anchor xml:id="beg0779sgsz1"/>岐<anchor xml:id="end0779sgsz1"/>分。詰難<lb
-ed="T" n="0779a03"/>排縱之眾，攻堅索隱之士，皆立褰苦霧，坐<lb
-ed="T" n="0779a04"/>泮堅氷，一言入神，永破沈惑。以<date key="j20376222037622" when-iso="+0866-09-19">咸通七年<lb
+ed="T" n="0779a03"/>排<choice resp="sgsz"><sic>縱</sic><corr>疑</corr></choice>之眾<ptr target="#n1595"/>，攻堅索隱之士，皆立褰苦霧，坐<lb
+ed="T" n="0779a04"/>泮堅氷，一言入神，永破沈惑。以<date key="j20376222037622" when-iso="+0866-09-19"><name>咸通</name>七年<lb
 ed="T" n="0779a05"/>秋八月三日</date>現疾告終，享年七十七，僧臘<lb
-ed="T" n="0779a06"/>五十七。預命香水剃髮，謂弟子曰：「<persName key="A010548">吾</persName>七日<lb
-ed="T" n="0779a07"/>在矣。」及期而滅。門<anchor xml:id="beg0779sgsz2"/>人<anchor xml:id="end0779sgsz2"/>號慕，乃權窆天童巖，<lb
-ed="T" n="0779a08"/>已周三載。一日，異香凝空，遠近郁烈。弟子相<lb
-ed="T" n="0779a09"/>謂曰：「昔<persName key="A010548">師</persName>囑累，令三載後當焚<persName key="A010548">我</persName>身。今異<lb
-ed="T" n="0779a10"/>香若此。」乃發塔視之，儼若平生。以<date key="j20376222037622" when-iso="+0866-09-19">其年八<lb
+ed="T" n="0779a06"/>五十七。預命香水剃髮，謂弟子曰：「<ref type="person" target="#A010548">吾</ref>七日<lb
+ed="T" n="0779a07"/>在矣。」及期而滅。門<anchor xml:id="beg0779sgsz4"/>人<anchor xml:id="end0779sgsz4"/>號慕，乃權窆<placeName key="PL000000012278">天童</placeName>巖。<lb
+ed="T" n="0779a08"/>已周三載，一日異香凝空，遠近郁烈。弟子相<lb
+ed="T" n="0779a09"/>謂曰：「昔<ref type="person" target="#A010548">師</ref>囑累『令三載後當焚<ref type="person" target="#A010548">我</ref>身』，今異<lb
+ed="T" n="0779a10"/>香若此。」乃發塔視之，儼若平生。以<date key="j20387152038715" when-iso="+0869-09-16">其年八<lb
 ed="T" n="0779a11"/>月三日</date>依<placeName key="PL000000055436">西域</placeName>法焚之，獲舍利數千粒，其<lb
 ed="T" n="0779a12"/>色紅翠。<date from-iso="+0872-02-17" key="j20395992039952" to-iso="+0873-02-04">十三年</date>，弟子<persName key="A010553">戒休</persName>齎舍利，述行狀，<lb
-ed="T" n="0779a13"/>詣闕請諡。奉勅<anchor xml:id="beg0779sgsz3"/>褒<anchor xml:id="end0779sgsz3"/>誄，易名曰<persName key="A010548">心鑑</persName>，塔曰壽<lb
-ed="T" n="0779a14"/>相。<persName key="A010548">奐</persName>在洛下<placeName key="PL000000023652">長壽寺</placeName>謂眾曰：「昔四明<placeName key="PL000000012278">天童<lb
-ed="T" n="0779a15"/>山</placeName>僧<persName key="A010554">曇粹</persName>是<persName key="A010548">吾</persName>前生也，有墳塔存焉。」相去遼<lb
+ed="T" n="0779a13"/>詣闕請諡。奉勅<anchor xml:id="beg0779sgsz6"/>褒<anchor xml:id="end0779sgsz6"/>誄，易名曰<persName key="A010548">心鑑</persName><ptr target="#n1599"/>，塔曰<placeName key="PL000000056261">壽<lb
+ed="T" n="0779a14"/>相</placeName>。<persName key="A010548">奐</persName>在<placeName key="PL000000023652">洛下長壽寺</placeName>謂眾曰：「昔<placeName key="PL000000012278">四明天童<lb
+ed="T" n="0779a15"/>山</placeName>僧<persName key="A010554">曇粹</persName>是<ref type="person" target="#A010548">吾</ref>前生也，有墳塔存焉。」相去遼<lb
 ed="T" n="0779a16"/>遠，人有疑者，及追驗事實，皆如其言。初<persName key="A010551">任<lb
-ed="T" n="0779a17"/>生</persName>將迎<persName key="A010548">奐</persName>，人或難之。對曰：「治宅之始，有異<lb
+ed="T" n="0779a17"/><roleName>生</roleName></persName>將迎<persName key="A010548">奐</persName>，人或難之。對曰：「治宅之始，有異<lb
 ed="T" n="0779a18"/>僧令大其門，二十年之後，當有聖者居<lb
-ed="T" n="0779a19"/>之。」比<persName key="A010548">奐</persName>至止，果二十年矣。又<persName key="A010548">奐</persName>將離<placeName key="PL000000009928">姑蘇</placeName>，<lb
-ed="T" n="0779a20"/>為徒眾留擁，乃以椶拂與之曰：「<persName key="A010548">吾</persName>在此<lb
-ed="T" n="0779a21"/>矣，汝何疑焉？」暨乎潛行，眾方諭其深旨。又<lb
+ed="T" n="0779a19"/>之。」比<persName key="A010548">奐</persName>至止，果二十年矣<ptr target="#n1596"/>。又<persName key="A010548">奐</persName>將離<placeName key="PL000000009928">姑蘇</placeName>，<lb
+ed="T" n="0779a20"/>為徒眾留擁，乃以椶拂與之曰：「<ref type="person" target="#A010548">吾</ref><supplied resp="sgsz">弗</supplied>在此<lb
+ed="T" n="0779a21"/>矣，汝何疑焉？」<ptr target="#n1597"/>暨乎潛行，眾方諭其深旨。又<lb
 ed="T" n="0779a22"/>令寺之西北隅可為五百墩以鎮之。或曰：<lb
 ed="T" n="0779a23"/>「力何可致？」<persName key="A010548">奐</persName>曰：「不然，作一墩<anchor xml:id="beg0779001"/>植<anchor xml:id="end0779001"/>五株柏，<lb
-ed="T" n="0779a24"/>可也。」凡微言奧旨，皆此類也。刺<anchor xml:id="beg0779sgsz4"/>史<anchor xml:id="end0779sgsz4"/><persName key="A010555">崔琪</persName>撰塔<lb
+ed="T" n="0779a24"/>可也。」<ptr target="#n1598"/>凡微言奧旨，皆此類也。刺<anchor xml:id="beg0779sgsz8"/>史<anchor xml:id="end0779sgsz8"/><persName key="A010555">崔琪</persName>撰塔<lb
 ed="T" n="0779a25"/>碑，<placeName key="PL000000013517">金華縣</placeName>尉<persName key="A010550">邵朗</persName>題額焉。</p>
+    <linkGrp>
+        <link targets="#0778c14 #0778c14"/>
+        <ptr target="#A010548" type="person"/>
+        <ptr target="#PL000000008482" type="place"/>
+    </linkGrp>
     <linkGrp>
         <link targets="#0778c15 #0778c16"/>
         <ptr target="#A010548" type="person"/>
@@ -51,6 +56,7 @@ ed="T" n="0779a25"/>碑，<placeName key="PL000000013517">金華縣</placeName>�
         <link targets="#0778c16 #0778c17"/>
         <ptr target="#A010548" type="person"/>
         <ptr target="#PL000000023253" type="place"/>
+        <ptr target="#j20165422016906" type="time"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0778c20 #0778c21"/>
@@ -62,6 +68,11 @@ ed="T" n="0779a25"/>碑，<placeName key="PL000000013517">金華縣</placeName>�
         <link targets="#0778c23 #0778c24"/>
         <ptr target="#A010548" type="person"/>
         <ptr target="#PL000000023652" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0778c25 #0778c25"/>
+        <ptr target="#A010556" type="person"/>
+        <ptr target="#PL000000030463" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0778c25 #0778c26"/>
@@ -81,6 +92,11 @@ ed="T" n="0779a25"/>碑，<placeName key="PL000000013517">金華縣</placeName>�
         <ptr target="#A010548" type="person"/>
         <ptr target="#A010552" type="person"/>
         <ptr target="#PL000000012202" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0779a04 #0779a05"/>
+        <ptr target="#A010548" type="person"/>
+        <ptr target="#j20376222037622" type="time"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0779a12 #0779a12"/>

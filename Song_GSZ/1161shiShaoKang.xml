@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" type="讀誦" xml:id="gsz0867b11shiShaoKang"><lb
-ed="T" n="0867b11"/><anchor n="T.50.2061.0867b11"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date>睦州烏龍山淨土道場<persName key="A013578">少康</persName>傳</head><p><lb
+ed="T" n="0867b11"/><anchor n="T.50.2061.0867b11"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date>睦州烏龍山淨土道場<ptr target="#n284"/><persName key="A013578">少康</persName>傳</head><p><lb
 ed="T" n="0867b12"/><persName key="A013578">釋少康</persName>，俗姓周，<placeName key="PL000000014959">縉雲仙都山</placeName>人也。母<persName key="A019471">羅<roleName>氏</roleName></persName>因<lb
 ed="T" n="0867b13"/>夢遊<placeName key="PL000000031115">鼎湖峯</placeName>，得玉女手捧青蓮授曰：「此<anchor xml:id="beg0867sgsz1"/>華<anchor xml:id="end0867sgsz1"/><lb
 ed="T" n="0867b14"/>吉祥，寄於汝所，後生貴子，切當保惜！」及生<lb
@@ -24,7 +24,7 @@ ed="T" n="0867c02"/>至江陵<placeName key="PL000000027759">果願寺</placeNam
 ed="T" n="0867c03"/>人，徑往<placeName key="PL000000011957">新定</placeName>，緣在於彼。」言訖不見，止有香<lb
 ed="T" n="0867c04"/>光望西而去。洎到<placeName key="PL000000012005">睦郡</placeName>，入城乞食，得錢<lb
 ed="T" n="0867c05"/>誘掖小兒，能念阿彌陀佛一聲，即付一錢。<lb
-ed="T" n="0867c06"/>後經月餘，孩孺螘慕，念佛多者即給錢。如<lb
+ed="T" n="0867c06"/>後經月餘，孩孺螘慕<ptr type="glossary" target="#g931"/>，念佛多者即給錢。如<lb
 ed="T" n="0867c07"/>是一年，凡男女見<persName key="A013578">康</persName>，則云「阿彌陀佛」。遂於<lb
 ed="T" n="0867c08"/><placeName key="PL000000011985">烏龍山</placeName>，建<placeName key="PL000000011994">淨土道場</placeName>，築壇三級，聚人午夜<lb
 ed="T" n="0867c09"/>行道，唱讚二十四契，稱揚淨邦。每遇齋日<lb
@@ -37,7 +37,7 @@ ed="T" n="0867c15"/>天色斗變，狂風四起，百鳥悲鳴。<placeName key=
 ed="T" n="0867c16"/>時變白。今墳塔存于州東<placeName key="PL000000011986">臺子巖</placeName>，歲久唯<lb
 ed="T" n="0867c17"/>餘方石。石傍之土，相傳療疾，<placeName key="PL000000012005">州</placeName>民凡嬰眾<lb
 ed="T" n="0867c18"/>病，悉焚香取土，隨服多差。石之四隅若車<lb
-ed="T" n="0867c19"/>轍焉。漢<date key="j20680662068411" notAfter-iso="+0951-01-06" notBefore-iso="+0950-01-26">乾祐三年</date>，<placeName key="PL000000014411">天台山</placeName><persName key="A008355">德韶禪師</persName>重建其<lb
+ed="T" n="0867c19"/>轍焉。漢<date key="j20680662068411" notAfter-iso="+0951-01-06" notBefore-iso="+0950-01-26"><name>乾祐</name>三年</date>，<placeName key="PL000000014411">天台山</placeName><persName key="A008355">德韶禪師</persName>重建其<lb
 ed="T" n="0867c20"/>塔，至今高敞，時號<persName key="A013578">後善導</persName>焉。</p>
 <p><lb
 ed="T" n="0867c21"/>系曰：<persName key="A013578">康</persName>所述偈讚，皆附會鄭、衛之聲，變體而<lb

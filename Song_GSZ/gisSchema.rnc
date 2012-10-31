@@ -1,13 +1,13 @@
-default namespace = "http://www.tei-c.org/ns/Examples"
+default namespace = "http://www.tei-c.org/ns/1.0"
 namespace a = "http://relaxng.org/ns/compatibility/annotations/1.0"
-namespace ns1 = "http://www.tei-c.org/ns/1.0"
+namespace ns1 = "http://www.isocat.org/ns/dcr"
 namespace rng = "http://relaxng.org/ns/structure/1.0"
 namespace sch = "http://purl.oclc.org/dsdl/schematron"
 namespace xlink = "http://www.w3.org/1999/xlink"
 
-# Schema generated from ODD source 2011-04-24T04:49:51Z. 
-# Edition: 1.9.0. Last updated on February 25th 2011.
-# Edition Location: http://www.tei-c.org/Vault/P5/1.9.0/
+# Schema generated from ODD source 2012-10-01T11:36:44Z. 
+# Edition: 2.1.0. Last updated on 17th June 2012.
+# Edition Location: http://www.tei-c.org/Vault/P5/2.1.0/
 #
 
 #
@@ -48,8 +48,8 @@ data.namespace = xsd:anyURI
 data.pattern = xsd:token
 data.pointer = xsd:anyURI
 data.version = xsd:token { pattern = "[\d]+(\.[\d]+){0,2}" }
-data.key = xsd:string
 data.word = xsd:token { pattern = "(\p{L}|\p{N}|\p{P}|\p{S})+" }
+data.text = xsd:string
 data.code = xsd:anyURI
 data.name = xsd:Name
 data.enumerated = data.name
@@ -64,15 +64,10 @@ data.temporal.iso =
   | xsd:dateTime
   | xsd:token { pattern = "[0-9.,DHMPRSTWYZ/:+\-]+" }
 data.duration.iso = xsd:token { pattern = "[0-9.,DHMPRSTWYZ/:+\-]+" }
-macro.anyXML =
-  element * - (ns1:* | egXML) {
-    attribute * { text }*,
-    (text | macro.anyXML)*
-  }
 att.ascribed.attributes = att.ascribed.attribute.who
 att.ascribed.attribute.who =
   
-  ## 指出該元素內容所歸屬的個人或團體。
+  ## indicates the person, or group of people, to whom the element content is ascribed.
   attribute who {
     list { data.pointer, data.pointer* }
   }?
@@ -82,7 +77,7 @@ att.canonical.attribute.key =
   
   ## provides an externally-defined means of identifying the entity (or entities) being
   ##         named, using a coded value of some kind.
-  attribute key { data.key }?
+  attribute key { data.text }?
 att.canonical.attribute.ref =
   
   ##  (reference) provides an explicit means of locating a full definition for the entity being named by
@@ -94,7 +89,8 @@ att.ranging.attributes =
   att.ranging.attribute.atLeast,
   att.ranging.attribute.atMost,
   att.ranging.attribute.min,
-  att.ranging.attribute.max
+  att.ranging.attribute.max,
+  att.ranging.attribute.confidence
 att.ranging.attribute.atLeast =
   
   ## gives a minimum estimated value for the approximate measurement.
@@ -112,9 +108,14 @@ att.ranging.attribute.min =
 att.ranging.attribute.max =
   
   ## where the measurement summarizes more than one observation
-  ##       or a range, supplies the maximum value
-  ##       observed.
+  ##         or a range, supplies the maximum value
+  ##         observed.
   attribute max { data.numeric }?
+att.ranging.attribute.confidence =
+  
+  ## The degree of statistical confidence (between zero and one) that a value falls within the range
+  ##         specified by min and max, or the proportion of observed values that fall within that range.
+  attribute confidence { data.probability }?
 att.dimensions.attributes =
   att.ranging.attributes,
   att.dimensions.attribute.unit,
@@ -124,8 +125,8 @@ att.dimensions.attributes =
   att.dimensions.attribute.scope
 att.dimensions.attribute.unit =
   
-  ## 度量單位的名稱。
-  ## 被推薦的值包含: 1] cm (centimetres) ; 2] mm (millimetres) ; 3] in (inches) ; 4] lines; 5] chars (characters) 
+  ## names the unit used for the measurement
+  ## Suggested values include: 1] cm (centimetres) ; 2] mm (millimetres) ; 3] in (inches) ; 4] lines; 5] chars (characters) 
   attribute unit {
     
     ##  (centimetres) 
@@ -152,17 +153,16 @@ att.dimensions.attribute.extent =
   
   ## indicates the size of the object concerned using a project-specific vocabulary combining
   ##         quantity and units in a single string of words. 
-  attribute extent {
-    list { data.word, data.word* }
-  }?
+  attribute extent { data.text }?
 att.dimensions.attribute.precision =
   
   ## characterizes the precision of the values specified by the other attributes.
   attribute precision { data.certainty }?
 att.dimensions.attribute.scope =
   
-  ## 測量多個物件時，標明此度量的可應用範圍。
-  ## 實例值包含: 1] all; 2] most; 3] range
+  ## where the measurement summarizes more than one observation, specifies the applicability
+  ##         of this measurement.
+  ## Sample values include: 1] all; 2] most; 3] range
   attribute scope { data.enumerated }?
 att.breaking.attributes = att.breaking.attribute.break
 att.breaking.attribute.break =
@@ -172,18 +172,11 @@ att.breaking.attribute.break =
   ##	an orthographic token in the same way as whitespace.
   attribute break { data.enumerated }?
 att.datable.w3c.attributes =
-  att.datable.w3c.attribute.period,
   att.datable.w3c.attribute.when,
   att.datable.w3c.attribute.notBefore,
   att.datable.w3c.attribute.notAfter,
   att.datable.w3c.attribute.from,
   att.datable.w3c.attribute.to
-att.datable.w3c.attribute.period =
-  
-  ## supplies a pointer to some location defining a named
-  ##       period of time within which the datable item is understood to
-  ##       have occurred.
-  attribute period { data.pointer }?
 att.datable.w3c.attribute.when =
   
   ## supplies the value of the date or time in a standard form,
@@ -191,39 +184,78 @@ att.datable.w3c.attribute.when =
   attribute when { data.temporal.w3c }?
 att.datable.w3c.attribute.notBefore =
   
-  ## 以標準格式說明該事件可能發生的最早日期，例如年-月-日。
+  ## specifies the earliest possible date for the event in
+  ##	  standard form, e.g. yyyy-mm-dd.
   attribute notBefore { data.temporal.w3c }?
 att.datable.w3c.attribute.notAfter =
   
-  ## 以標準形式標明該事件可能的最晚日期，例如年-月-日。
+  ## specifies the latest possible date for the event in
+  ##	  standard form, e.g. yyyy-mm-dd.
   attribute notAfter { data.temporal.w3c }?
 att.datable.w3c.attribute.from =
   
-  ## 以標準格式表示該段時間的起始點。
+  ## indicates the starting point of the period in standard form, e.g. yyyy-mm-dd.
   attribute from { data.temporal.w3c }?
 att.datable.w3c.attribute.to =
   
-  ## 以標準格式表示該段時間的結束點。
+  ## indicates the ending point of the period in standard
+  ##	  form, e.g. yyyy-mm-dd.
   attribute to { data.temporal.w3c }?
 att.datable.attributes =
-  att.datable.w3c.attributes, att.datable.iso.attributes
+  att.datable.w3c.attributes,
+  att.datable.iso.attributes,
+  att.datable.custom.attributes,
+  att.datable.attribute.calendar,
+  att.datable.attribute.period
+att.datable.attribute.calendar =
+  
+  ## indicates the system or calendar to which the date represented by the content of this
+  ##         element belongs.
+  attribute calendar { data.pointer }?
+att.datable.attribute.period =
+  
+  ## supplies a pointer to some location defining a named
+  ##         period of time within which the datable item is understood to
+  ##         have occurred.
+  attribute period { data.pointer }?
+att.datcat.attributes =
+  att.datcat.attribute.datcat, att.datcat.attribute.valueDatcat
+att.datcat.attribute.datcat =
+  
+  ## contains a PID (persistent identifier) that aligns the given element with the appropriate 
+  ##         Data Category (or categories) in ISOcat.
+  attribute ns1:datcat {
+    list { data.pointer, data.pointer* }
+  }?
+att.datcat.attribute.valueDatcat =
+  
+  ## contains a PID (persistent identifier) that aligns the content of the given
+  ##         element or the value of the given attribute with the appropriate simple Data
+  ##         Category (or categories) in ISOcat.
+  attribute ns1:valueDatcat {
+    list { data.pointer, data.pointer* }
+  }?
 att.declarable.attributes = att.declarable.attribute.default
 att.declarable.attribute.default =
   
-  ## 當父元素被選擇時，指出此元素是否會被選擇。
+  ## indicates whether or not this element is selected by default when
+  ## its parent is selected.
   [ a:defaultValue = "false" ]
   attribute default {
     
-    ## 若父元素被選擇，則此元素會被選擇。
+    ## This element is selected if its parent is selected
     "true"
     | 
-      ## 此元素僅能被明確選擇，若此元素為其類別中之唯一，則父元素被選擇時，此元素會被選擇。
+      ## This element can only be selected explicitly, unless it is the
+      ## only one of its kind, in which case it is selected if its parent is selected.
       "false"
   }?
 att.declaring.attributes = att.declaring.attribute.decls
 att.declaring.attribute.decls =
   
-  ## 指明標頭內一個或多個可宣告元素，可應用於帶有此屬性與內容的元素上。
+  ## identifies one or more declarable elements within the
+  ## header, which are understood to apply to the element bearing this
+  ## attribute and its content.
   attribute decls {
     list { data.pointer, data.pointer* }
   }?
@@ -233,56 +265,63 @@ att.divLike.attributes =
   att.divLike.attribute.part
 att.divLike.attribute.org =
   
-  ##  (organization) 說明該區段內容的組合方式。
+  ##  (organization) specifies how the content of the division is organized.
   [ a:defaultValue = "uniform" ]
   attribute org {
     
-    ## 複合內容：未說明此區段目前內容的處理順序或相互關係。
+    ## composite content: i.e. no claim is made about the
+    ##		  sequence in which the immediate contents of this division
+    ##		  are to be processed, or their inter-relationships.
     "composite"
     | 
-      ## 一致內容：此區段目前的內容形成一個邏輯單位，且會依序處理。
+      ## uniform content: i.e. the immediate contents of this
+      ##		  element are regarded as forming a logical unit, to be
+      ##		  processed in sequence.
       "uniform"
   }?
 att.divLike.attribute.sample =
   
-  ## 指出此區段是否為來源文件的樣本，若為樣本，則說明出自哪一部分。
+  ## indicates whether this division is a sample of the
+  ##		original source and if so, from which part.
   [ a:defaultValue = "complete" ]
   attribute sample {
     
-    ## 區段的末端無資料
+    ## division lacks material present at end in source.
     "initial"
     | 
-      ## 區段的起始與末端無資料
+      ## division lacks material at start and end.
       "medial"
     | 
-      ## 區段的起始部分無資料
+      ## division lacks material at start.
       "final"
     | 
-      ## 來源文件中的樣本資料位置不明
+      ## position of sampled material within original unknown.
       "unknown"
     | 
-      ## 區段非樣本
+      ## division is not a sample.
       "complete"
   }?
 att.divLike.attribute.part =
   
-  ## 說明該區段是否被其他結構性元素切割，例如一段話語被兩個或多個詩節分開。
+  ## specifies whether or not the division is fragmented by
+  ##		some other structural element, for example a speech which is
+  ##		divided between two or more verse stanzas.
   [ a:defaultValue = "N" ]
   attribute part {
     
-    ##  (yes) 該區段某些方面不完整
+    ##  (yes) the division is incomplete in some respect
     "Y"
     | 
-      ##  (no) 該區段完整，或者未說明其完整性。
+      ##  (no) either the division is complete, or no claim is made as to its completeness.
       "N"
     | 
-      ##  (initial) 不完整區段的起始部分
+      ##  (initial) the initial part of an incomplete division
       "I"
     | 
-      ##  (medial) 不完整區段的中段部分
+      ##  (medial) a medial part of an incomplete division
       "M"
     | 
-      ##  (final) 不完整區段的末端部分 
+      ##  (final) the final part of an incomplete division
       "F"
   }?
 att.docStatus.attributes = att.docStatus.attribute.status
@@ -290,17 +329,18 @@ att.docStatus.attribute.status =
   
   ## describes the status of a document either currently or, when
   ## associated with a dated element, at the time indicated.
-  ## 實例值包含: 1] approved; 2] candidate; 3] cleared; 4] deprecated; 5] draft; 6] embargoed; 7] expired; 8] frozen; 9] galley; 10] proposed; 11] published; 12] recommendation; 13] submitted; 14] unfinished; 15] withdrawn
+  ## Sample values include: 1] approved; 2] candidate; 3] cleared; 4] deprecated; 5] draft; 6] embargoed; 7] expired; 8] frozen; 9] galley; 10] proposed; 11] published; 12] recommendation; 13] submitted; 14] unfinished; 15] withdrawn
   [ a:defaultValue = "draft" ] attribute status { data.enumerated }?
 att.responsibility.attributes =
   att.responsibility.attribute.cert, att.responsibility.attribute.resp
 att.responsibility.attribute.cert =
   
-  ##  (certainty) 表示該更動或詮釋的相關正確度。
+  ##  (certainty) signifies the degree of certainty associated with the intervention or interpretation.
   attribute cert { data.certainty }?
 att.responsibility.attribute.resp =
   
-  ##  (responsible party) 指出負責該更動或詮釋的代理者，例如編輯或轉錄者。
+  ##  (responsible party) indicates the agency responsible for the intervention or interpretation, for example an
+  ##         editor or transcriber.
   attribute resp {
     list { data.pointer, data.pointer* }
   }?
@@ -308,31 +348,35 @@ att.editLike.attributes =
   att.dimensions.attributes,
   att.responsibility.attributes,
   att.editLike.attribute.evidence,
-  att.editLike.attribute.source
+  att.editLike.attribute.source,
+  att.editLike.attribute.instant
 att.editLike.attribute.evidence =
   
-  ## 指出支持該更動或詮釋可信度或正確性的證明
-  ## 被推薦的值包含: 1] internal; 2] external; 3] conjecture
+  ## indicates the nature of the evidence supporting the reliability or accuracy of the
+  ##         intervention or interpretation.
+  ## Suggested values include: 1] internal; 2] external; 3] conjecture
   attribute evidence {
     list {
       (
-       ## 有內部證明得以支持
+       ## there is internal evidence to support the intervention.
        "internal"
        | 
-         ## 有外部證明得以支持
+         ## there is external evidence to support the intervention.
          "external"
        | 
-         ## 編輯、編目者或學者根據自身的專業來執行該更動或詮釋。
+         ## the intervention or interpretation has been made by the editor, cataloguer, or
+         ##             scholar on the basis of their expertise.
          "conjecture"
        | xsd:Name),
       (
-       ## 有內部證明得以支持
+       ## there is internal evidence to support the intervention.
        "internal"
        | 
-         ## 有外部證明得以支持
+         ## there is external evidence to support the intervention.
          "external"
        | 
-         ## 編輯、編目者或學者根據自身的專業來執行該更動或詮釋。
+         ## the intervention or interpretation has been made by the editor, cataloguer, or
+         ##             scholar on the basis of their expertise.
          "conjecture"
        | xsd:Name)*
     }
@@ -344,9 +388,15 @@ att.editLike.attribute.source =
   attribute source {
     list { data.pointer, data.pointer* }
   }?
+att.editLike.attribute.instant =
+  
+  ## Is this an instant revision?
+  [ a:defaultValue = "false" ] attribute instant { data.xTruthValue }?
 att.global.attributes =
   att.global.linking.attributes,
   att.global.analytic.attributes,
+  att.global.facs.attributes,
+  att.global.change.attributes,
   att.global.attribute.xmlid,
   att.global.attribute.n,
   att.global.attribute.xmllang,
@@ -356,21 +406,22 @@ att.global.attributes =
   att.global.attribute.xmlspace
 att.global.attribute.xmlid =
   
-  ##  (identifier) 提供一個獨特識別符碼，識別帶有該屬性的元素。 
+  ##  (identifier) provides a unique identifier for the element bearing the attribute.
   attribute xml:id { xsd:ID }?
 att.global.attribute.n =
   
-  ##  (number) 將元素標上一個數字 (或其他標號)，該標號在文件中未必是獨特的。 
-  attribute n {
-    list { data.word, data.word* }
-  }?
+  ##  (number) gives a number (or other label) for an element, which is not necessarily unique within
+  ##         the document.
+  attribute n { data.text }?
 att.global.attribute.xmllang =
   
-  ##  (language) 使用RFC3066的代碼，指出該元素內容的使用語言 
+  ##  (language) indicates the language of the element content using a tag generated
+  ##         according to BCP 47
+  ##          
   attribute xml:lang { data.language }?
 att.global.attribute.rend =
   
-  ##  (rendition) 指出該元素如何呈現於來源文件中 
+  ##  (rendition) indicates how the element in question was rendered or presented in the source text.
   attribute rend {
     list { data.word, data.word* }
   }?
@@ -383,8 +434,8 @@ att.global.attribute.rendition =
   }?
 att.global.attribute.xmlbase =
   
-  ## 提供一個基礎統一資源識別符 (URI)
-  ##         參照，可將相對統一資源識別符參照轉變為絕對統一資源識別符參照。 
+  ## provides a base URI reference with which applications can resolve relative URI
+  ##         references into absolute URI references.
   attribute xml:base { data.pointer }?
 att.global.attribute.xmlspace =
   
@@ -453,18 +504,26 @@ att.handFeatures.attribute.scope =
       ## this hand is used occasionally in the manuscript
       "minor"
   }?
+att.internetMedia.attributes = att.internetMedia.attribute.mimeType
+att.internetMedia.attribute.mimeType =
+  
+  ##  (MIME media type) specifies the applicable multimedia internet mail extension (MIME) media type
+  attribute mimeType {
+    list { data.word, data.word* }
+  }?
 att.interpLike.attributes =
   att.responsibility.attributes,
   att.interpLike.attribute.type,
   att.interpLike.attribute.inst
 att.interpLike.attribute.type =
   
-  ## 指出段落中所註解的現象類別。
-  ## 實例值包含: 1] image; 2] character; 3] theme; 4] allusion
+  ## indicates what kind of phenomenon is being noted in the passage.
+  ## Sample values include: 1] image; 2] character; 3] theme; 4] allusion
   attribute type { data.enumerated }?
 att.interpLike.attribute.inst =
   
-  ##  (instances) 連結到目前元素所代表的分析或解釋。
+  ##  (instances) points to instances of the analysis or interpretation represented
+  ## by the current element.
   attribute inst {
     list { data.pointer, data.pointer* }
   }?
@@ -490,32 +549,32 @@ att.placement.attributes = att.placement.attribute.place
 att.placement.attribute.place =
   
   ## 
-  ## 被推薦的值包含: 1] below; 2] bottom; 3] margin; 4] top; 5] opposite; 6] overleaf; 7] above; 8] end; 9] inline; 10] inspace
+  ## Suggested values include: 1] below; 2] bottom; 3] margin; 4] top; 5] opposite; 6] overleaf; 7] above; 8] end; 9] inline; 10] inspace
   attribute place {
     list {
       (
-       ## 行底
+       ## below the line
        "below"
        | 
-         ## 頁尾空白處
+         ## at the foot of the page
          "bottom"
        | 
          ## in the margin (left, right, or both)
          "margin"
        | 
-         ## 頁首空白處
+         ## at the top of the page
          "top"
        | 
-         ## 對頁頁面
+         ## on the opposite, i.e. facing, page
          "opposite"
        | 
-         ## 書頁反頁頁面
+         ## on the other side of the leaf
          "overleaf"
        | 
-         ## 行上方
+         ## above the line
          "above"
        | 
-         ## 註解出現於章節或書冊的結尾
+         ## at the end of e.g. chapter or volume.
          "end"
        | 
          ## within the body of the text.
@@ -525,28 +584,28 @@ att.placement.attribute.place =
          "inspace"
        | xsd:Name),
       (
-       ## 行底
+       ## below the line
        "below"
        | 
-         ## 頁尾空白處
+         ## at the foot of the page
          "bottom"
        | 
          ## in the margin (left, right, or both)
          "margin"
        | 
-         ## 頁首空白處
+         ## at the top of the page
          "top"
        | 
-         ## 對頁頁面
+         ## on the opposite, i.e. facing, page
          "opposite"
        | 
-         ## 書頁反頁頁面
+         ## on the other side of the leaf
          "overleaf"
        | 
-         ## 行上方
+         ## above the line
          "above"
        | 
-         ## 註解出現於章節或書冊的結尾
+         ## at the end of e.g. chapter or volume.
          "end"
        | 
          ## within the body of the text.
@@ -561,32 +620,65 @@ att.typed.attributes =
   att.typed.attribute.type, att.typed.attribute.subtype
 att.typed.attribute.type =
   
-  ## 用合適的分類標準或類型來描述該元素。
+  ## characterizes the element in some sense, using any convenient
+  ##  classification scheme or typology.
   attribute type { data.enumerated }?
 att.typed.attribute.subtype =
   
-  ## 若有需要，提供該元素的次要分類
+  ## provides a sub-categorization of the element, if needed
   attribute subtype { data.enumerated }?
 att.pointing.attributes =
-  att.pointing.attribute.target, att.pointing.attribute.evaluate
+  att.pointing.attribute.targetLang,
+  att.pointing.attribute.target,
+  att.pointing.attribute.evaluate
+att.pointing.attribute.targetLang =
+  
+  ## specifies the language of the content to be found at the destination referenced by target, using a language tag generated
+  ##         according to BCP 47.
+  attribute targetLang { data.language }?
+sch:pattern [
+  id = "targetLang-constraint-targetLang"
+  "\x{a}" ~
+  "      "
+  sch:rule [
+    context = "tei:*[@targetLang]"
+    "\x{a}" ~
+    "            "
+    sch:assert [
+      test = "count(@target)"
+      "@targetLang can only be used if @target is specified."
+    ]
+    "\x{a}" ~
+    "          "
+  ]
+  "\x{a}" ~
+  "   "
+]
 att.pointing.attribute.target =
   
-  ## 用一個或多個統一資源識別符參照 (URI References) 來說明參照所指位置。
+  ## specifies the destination of the reference by supplying one or more URI References
   attribute target {
     list { data.pointer, data.pointer* }
   }?
 att.pointing.attribute.evaluate =
   
-  ## 若指標的目標本身為指標，則在此說明其用意。
+  ## specifies the intended meaning when the target of a
+  ##       pointer is itself a pointer.
   attribute evaluate {
     
-    ## 若指向的元素本身為指標，則該指標的目標會被移除，依此類推，直到找到一個非指標的元素為止。
+    ## if the element pointed to is itself a pointer, then
+    ##	  the target of that pointer will be taken, and so on, until
+    ##	  an element is found which is not a pointer.
     "all"
     | 
-      ## 若指向的元素本身為指標，則該指標的目標(無論是否為指標)會作為這項指標的目標。
+      ## if the element pointed to is itself a pointer, then
+      ##	  its target (whether a pointer or not) is taken as the target
+      ##	  of this pointer.
       "one"
     | 
-      ## 尋找指標的目標元素時，未對目標進行不必要的延伸評估。
+      ## no further evaluation of targets is carried out
+      ##	  beyond that needed to find the element specified in the
+      ##	  pointer's target.
       "none"
   }?
 att.pointing.group.attributes =
@@ -596,13 +688,17 @@ att.pointing.group.attributes =
   att.pointing.group.attribute.targFunc
 att.pointing.group.attribute.domains =
   
-  ## 標明元素的識別符碼 (但非必備) ，此元素內容所指明的元素皆包含於這些元素當中。
+  ## optionally specifies the identifiers of the elements
+  ##       within which all elements indicated by the contents of this
+  ##       element lie.
   attribute domains {
     list { data.pointer, data.pointer, data.pointer* }
   }?
 att.pointing.group.attribute.targFunc =
   
-  ##  (target function) 描述每個元素標籤link、join、或alt當中的屬性targets的屬性值功能。
+  ##  (target function) describes the function of each of the values of the
+  ##       target attribute of the enclosed link,
+  ##       join, or alt tags.
   attribute targFunc {
     list { data.word, data.word, data.word* }
   }?
@@ -625,32 +721,42 @@ att.scoping.attribute.match =
   ##
   attribute match { text }?
 att.segLike.attributes =
-  att.segLike.attribute.function, att.segLike.attribute.part
+  att.datcat.attributes,
+  att.segLike.attribute.function,
+  att.segLike.attribute.part
 att.segLike.attribute.function =
   
-  ## 描述該分割的功能。
+  ## characterizes the function of the segment.
   attribute function { data.enumerated }?
 att.segLike.attribute.part =
   
-  ## 說明該分割段落是否被其他結構性元素所切割，例如一個子句被兩個或多個句子分開。
+  ## specifies whether or not the segment is fragmented by some other
+  ## structural element, for example a clause which is divided between two
+  ## or more sentences.
   [ a:defaultValue = "N" ]
   attribute part {
     
-    ##  (yes) 該分割的某些方面不完整
+    ##  (yes) the segment is incomplete in some respect
     "Y"
     | 
-      ##  (no) 該分割完整，或者未說明其完整性
+      ##  (no) either the segment is complete, or no claim is made as to
+      ## its completeness
       "N"
     | 
-      ##  (initial) 不完整分割的起始部分
+      ##  (initial) the initial part of an incomplete segment
       "I"
     | 
-      ##  (medial) 不完整分割的中段部分
+      ##  (medial) a medial part of an incomplete segment
       "M"
     | 
-      ##  (final) 不完整分割的末端部分
+      ##  (final) the final part of an incomplete segment
       "F"
   }?
+att.sortable.attributes = att.sortable.attribute.sortKey
+att.sortable.attribute.sortKey =
+  
+  ## supplies the sort key for this element in an index, list or group which contains it.
+  attribute sortKey { data.word }?
 att.sourced.attributes = att.sourced.attribute.ed
 att.sourced.attribute.ed =
   
@@ -663,12 +769,14 @@ att.sourced.attribute.ed =
 att.spanning.attributes = att.spanning.attribute.spanTo
 att.spanning.attribute.spanTo =
   
-  ## 指出文字段的結尾，該文字段以帶有此屬性的元素開頭。
+  ## indicates the end of a span initiated by the element
+  ##	bearing this attribute.
   attribute spanTo { data.pointer }?
 att.transcriptional.attributes =
   att.editLike.attributes,
   att.transcriptional.attribute.hand,
   att.transcriptional.attribute.status,
+  att.transcriptional.attribute.cause,
   att.transcriptional.attribute.seq
 att.transcriptional.attribute.hand =
   
@@ -681,19 +789,31 @@ att.transcriptional.attribute.status =
   ##       which include too much or too little text, or in the case of an
   ##       addition, an insertion which duplicates some of the text
   ##       already present.
-  ## 實例值包含: 1] duplicate; 2] duplicate-partial; 3] excessStart; 4] excessEnd; 5] shortStart; 6] shortEnd; 7] partial; 8] unremarkable
+  ## Sample values include: 1] duplicate; 2] duplicate-partial; 3] excessStart; 4] excessEnd; 5] shortStart; 6] shortEnd; 7] partial; 8] unremarkable
   [ a:defaultValue = "unremarkable" ]
   attribute status { data.enumerated }?
+att.transcriptional.attribute.cause =
+  
+  ## documents the presumed cause for the intervention.
+  attribute cause {
+    
+    ## repeated for the purpose of fixation
+    "fix"
+    | 
+      ## repeated to clarify a previously illegible or badly written text
+      ##    or mark
+      "unclear"
+  }?
 att.transcriptional.attribute.seq =
   
   ##  (sequence) assigns a sequence number related to the order in which
   ##       the encoded features carrying this attribute are believed to have occurred.
   attribute seq { data.count }?
-att.translatable.attributes = att.translatable.attribute.version
-att.translatable.attribute.version =
+att.translatable.attributes = att.translatable.attribute.versionDate
+att.translatable.attribute.versionDate =
   
-  ## 說明該翻譯版本來源的版本名稱或版本數
-  attribute version { data.word }?
+  ## specifies the date on which the source text was extracted and sent to the translator
+  attribute versionDate { data.temporal.w3c }?
 model.nameLike.agent = name | orgName | persName
 model.nameLike.agent_alternation = name | orgName | persName
 model.nameLike.agent_sequence = name, orgName, persName
@@ -769,17 +889,18 @@ model.pPart.editorial_sequenceOptional = choice?, abbr?, expan?
 model.pPart.editorial_sequenceOptionalRepeatable =
   choice*, abbr*, expan*
 model.pPart.editorial_sequenceRepeatable = choice+, abbr+, expan+
-model.pPart.transcriptional = sic | corr | reg | orig | add | del | app
+model.pPart.transcriptional =
+  sic | corr | reg | orig | add | del | app | supplied
 model.pPart.transcriptional_alternation =
-  sic | corr | reg | orig | add | del | app
+  sic | corr | reg | orig | add | del | app | supplied
 model.pPart.transcriptional_sequence =
-  sic, corr, reg, orig, add, del, app
+  sic, corr, reg, orig, add, del, app, supplied
 model.pPart.transcriptional_sequenceOptional =
-  sic?, corr?, reg?, orig?, add?, del?, app?
+  sic?, corr?, reg?, orig?, add?, del?, app?, supplied?
 model.pPart.transcriptional_sequenceOptionalRepeatable =
-  sic*, corr*, reg*, orig*, add*, del*, app*
+  sic*, corr*, reg*, orig*, add*, del*, app*, supplied*
 model.pPart.transcriptional_sequenceRepeatable =
-  sic+, corr+, reg+, orig+, add+, del+, app+
+  sic+, corr+, reg+, orig+, add+, del+, app+, supplied+
 model.pPart.edit = model.pPart.editorial | model.pPart.transcriptional
 model.pPart.edit_alternation =
   model.pPart.editorial_alternation
@@ -891,21 +1012,28 @@ model.global.meta_sequenceRepeatable =
   timeline+,
   join+,
   joinGrp+
-model.milestoneLike = milestone | pb | lb | anchor
-model.milestoneLike_alternation = milestone | pb | lb | anchor
-model.milestoneLike_sequence = milestone, pb, lb, anchor
-model.milestoneLike_sequenceOptional = milestone?, pb?, lb?, anchor?
+model.milestoneLike = milestone | gb | pb | lb | anchor
+model.milestoneLike_alternation = milestone | gb | pb | lb | anchor
+model.milestoneLike_sequence = milestone, gb, pb, lb, anchor
+model.milestoneLike_sequenceOptional =
+  milestone?, gb?, pb?, lb?, anchor?
 model.milestoneLike_sequenceOptionalRepeatable =
-  milestone*, pb*, lb*, anchor*
-model.milestoneLike_sequenceRepeatable = milestone+, pb+, lb+, anchor+
+  milestone*, gb*, pb*, lb*, anchor*
+model.milestoneLike_sequenceRepeatable =
+  milestone+, gb+, pb+, lb+, anchor+
 model.gLike = g
-model.biblLike = bibl | biblStruct | biblFull
-model.biblLike_alternation = bibl | biblStruct | biblFull
-model.biblLike_sequence = bibl, biblStruct, biblFull
-model.biblLike_sequenceOptional = bibl?, biblStruct?, biblFull?
+model.biblLike =
+  bibl | biblStruct | biblFull | listRelation | relationGrp
+model.biblLike_alternation =
+  bibl | biblStruct | biblFull | listRelation | relationGrp
+model.biblLike_sequence =
+  bibl, biblStruct, biblFull, listRelation, relationGrp
+model.biblLike_sequenceOptional =
+  bibl?, biblStruct?, biblFull?, listRelation?, relationGrp?
 model.biblLike_sequenceOptionalRepeatable =
-  bibl*, biblStruct*, biblFull*
-model.biblLike_sequenceRepeatable = bibl+, biblStruct+, biblFull+
+  bibl*, biblStruct*, biblFull*, listRelation*, relationGrp*
+model.biblLike_sequenceRepeatable =
+  bibl+, biblStruct+, biblFull+, listRelation+, relationGrp+
 model.headLike = head
 model.headLike_alternation = head
 model.headLike_sequence = head
@@ -990,6 +1118,12 @@ model.pLike_sequence = p, ab
 model.pLike_sequenceOptional = p?, ab?
 model.pLike_sequenceOptionalRepeatable = p*, ab*
 model.pLike_sequenceRepeatable = p+, ab+
+model.stageLike = notAllowed
+model.stageLike_alternation = notAllowed
+model.stageLike_sequence = empty
+model.stageLike_sequenceOptional = empty
+model.stageLike_sequenceOptionalRepeatable = empty
+model.stageLike_sequenceRepeatable = notAllowed
 model.entryPart = notAllowed
 model.global.edit = gap
 model.global.edit_alternation = gap
@@ -1009,66 +1143,96 @@ model.divPart_sequenceOptionalRepeatable =
   lg*
 model.divPart_sequenceRepeatable =
   model.lLike_sequenceRepeatable+, model.pLike_sequenceRepeatable+, lg+
-model.persTraitLike =
-  age | faith | langKnowledge | nationality | sex | socecStatus | trait
-model.persTraitLike_alternation =
-  age | faith | langKnowledge | nationality | sex | socecStatus | trait
-model.persTraitLike_sequence =
-  age, faith, langKnowledge, nationality, sex, socecStatus, trait
-model.persTraitLike_sequenceOptional =
-  age?, faith?, langKnowledge?, nationality?, sex?, socecStatus?, trait?
-model.persTraitLike_sequenceOptionalRepeatable =
-  age*, faith*, langKnowledge*, nationality*, sex*, socecStatus*, trait*
-model.persTraitLike_sequenceRepeatable =
-  age+, faith+, langKnowledge+, nationality+, sex+, socecStatus+, trait+
 model.persStateLike =
   persName
   | affiliation
+  | age
   | education
+  | faith
   | floruit
+  | langKnowledge
+  | nationality
   | occupation
   | residence
+  | sex
+  | socecStatus
   | state
+  | trait
 model.persStateLike_alternation =
   persName
   | affiliation
+  | age
   | education
+  | faith
   | floruit
+  | langKnowledge
+  | nationality
   | occupation
   | residence
+  | sex
+  | socecStatus
   | state
+  | trait
 model.persStateLike_sequence =
   persName,
   affiliation,
+  age,
   education,
+  faith,
   floruit,
+  langKnowledge,
+  nationality,
   occupation,
   residence,
-  state
+  sex,
+  socecStatus,
+  state,
+  trait
 model.persStateLike_sequenceOptional =
   persName?,
   affiliation?,
+  age?,
   education?,
+  faith?,
   floruit?,
+  langKnowledge?,
+  nationality?,
   occupation?,
   residence?,
-  state?
+  sex?,
+  socecStatus?,
+  state?,
+  trait?
 model.persStateLike_sequenceOptionalRepeatable =
   persName*,
   affiliation*,
+  age*,
   education*,
+  faith*,
   floruit*,
+  langKnowledge*,
+  nationality*,
   occupation*,
   residence*,
-  state*
+  sex*,
+  socecStatus*,
+  state*,
+  trait*
 model.persStateLike_sequenceRepeatable =
   persName+,
   affiliation+,
+  age+,
   education+,
+  faith+,
   floruit+,
+  langKnowledge+,
+  nationality+,
   occupation+,
   residence+,
-  state+
+  sex+,
+  socecStatus+,
+  state+,
+  trait+
 model.persEventLike = birth | death | event
 model.persEventLike_alternation = birth | death | event
 model.persEventLike_sequence = birth, death, event
@@ -1076,9 +1240,7 @@ model.persEventLike_sequenceOptional = birth?, death?, event?
 model.persEventLike_sequenceOptionalRepeatable = birth*, death*, event*
 model.persEventLike_sequenceRepeatable = birth+, death+, event+
 model.personLike = org | person | personGrp
-model.personPart =
-  model.persTraitLike | model.persStateLike | model.persEventLike | bibl
-model.placeTraitLike = climate | location | population | terrain | trait
+model.personPart = model.persStateLike | model.persEventLike | bibl
 model.placeNamePart =
   placeName | bloc | country | region | district | settlement | geogName
 model.placeNamePart_alternation =
@@ -1109,17 +1271,56 @@ model.placeNamePart_sequenceRepeatable =
   district+,
   settlement+,
   geogName+
-model.placeStateLike = model.placeNamePart | state
+model.placeStateLike =
+  model.placeNamePart
+  | climate
+  | location
+  | population
+  | state
+  | terrain
+  | trait
 model.placeStateLike_alternation =
-  model.placeNamePart_alternation | state
-model.placeStateLike_sequence = model.placeNamePart_sequence, state
+  model.placeNamePart_alternation
+  | climate
+  | location
+  | population
+  | state
+  | terrain
+  | trait
+model.placeStateLike_sequence =
+  model.placeNamePart_sequence,
+  climate,
+  location,
+  population,
+  state,
+  terrain,
+  trait
 model.placeStateLike_sequenceOptional =
-  model.placeNamePart_sequenceOptional?, state?
+  model.placeNamePart_sequenceOptional?,
+  climate?,
+  location?,
+  population?,
+  state?,
+  terrain?,
+  trait?
 model.placeStateLike_sequenceOptionalRepeatable =
-  model.placeNamePart_sequenceOptionalRepeatable*, state*
+  model.placeNamePart_sequenceOptionalRepeatable*,
+  climate*,
+  location*,
+  population*,
+  state*,
+  terrain*,
+  trait*
 model.placeStateLike_sequenceRepeatable =
-  model.placeNamePart_sequenceRepeatable+, state+
+  model.placeNamePart_sequenceRepeatable+,
+  climate+,
+  location+,
+  population+,
+  state+,
+  terrain+,
+  trait+
 model.placeEventLike = event
+model.orgPart = listOrg | listPerson | listPlace
 model.publicationStmtPart =
   date
   | publisher
@@ -1128,7 +1329,14 @@ model.publicationStmtPart =
   | authority
   | idno
   | availability
-model.glossLike = desc | gloss | precision | certainty | respons
+model.availabilityPart = licence
+model.certLike = certainty | respons
+model.certLike_alternation = certainty | respons
+model.certLike_sequence = certainty, respons
+model.certLike_sequenceOptional = certainty?, respons?
+model.certLike_sequenceOptionalRepeatable = certainty*, respons*
+model.certLike_sequenceRepeatable = certainty+, respons+
+model.glossLike = model.certLike | desc | gloss | precision
 model.quoteLike = quote | cit
 model.quoteLike_alternation = quote | cit
 model.quoteLike_sequence = quote, cit
@@ -1257,7 +1465,13 @@ model.global =
   | model.noteLike
   | model.global.edit
 model.biblPart =
-  model.respLike | model.imprintPart | relatedItem | edition | extent
+  model.respLike
+  | model.imprintPart
+  | bibl
+  | relatedItem
+  | textLang
+  | edition
+  | extent
 model.frontPart = notAllowed
 model.pPart.data =
   model.dateLike
@@ -1294,36 +1508,42 @@ model.inter =
   | model.biblLike
   | model.labelLike
   | model.listLike
+  | model.stageLike
   | model.qLike
 model.inter_alternation =
   model.egLike_alternation
   | model.biblLike_alternation
   | model.labelLike_alternation
   | model.listLike_alternation
+  | model.stageLike_alternation
   | model.qLike_alternation
 model.inter_sequence =
   model.egLike_sequence,
   model.biblLike_sequence,
   model.labelLike_sequence,
   model.listLike_sequence,
+  model.stageLike_sequence,
   model.qLike_sequence
 model.inter_sequenceOptional =
   model.egLike_sequenceOptional?,
   model.biblLike_sequenceOptional?,
   model.labelLike_sequenceOptional?,
   model.listLike_sequenceOptional?,
+  model.stageLike_sequenceOptional?,
   model.qLike_sequenceOptional?
 model.inter_sequenceOptionalRepeatable =
   model.egLike_sequenceOptionalRepeatable*,
   model.biblLike_sequenceOptionalRepeatable*,
   model.labelLike_sequenceOptionalRepeatable*,
   model.listLike_sequenceOptionalRepeatable*,
+  model.stageLike_sequenceOptionalRepeatable*,
   model.qLike_sequenceOptionalRepeatable*
 model.inter_sequenceRepeatable =
   model.egLike_sequenceRepeatable+,
   model.biblLike_sequenceRepeatable+,
   model.labelLike_sequenceRepeatable+,
   model.listLike_sequenceRepeatable+,
+  model.stageLike_sequenceRepeatable+,
   model.qLike_sequenceRepeatable+
 model.common = model.divPart | model.inter
 model.phrase =
@@ -1335,7 +1555,8 @@ model.phrase =
   | model.lPart
   | model.pPart.data
 model.limitedPhrase =
-  model.emphLike
+  model.hiLike
+  | model.emphLike
   | model.pPart.editorial
   | model.ptrLike
   | model.pPart.data
@@ -1365,7 +1586,13 @@ model.editorialDeclPart =
   | stdVals
   | interpretation
 model.profileDescPart =
-  creation | langUsage | textClass | textDesc | particDesc | settingDesc
+  creation
+  | langUsage
+  | textClass
+  | calendarDesc
+  | textDesc
+  | particDesc
+  | settingDesc
 model.resourceLike = notAllowed
 att.personal.attributes =
   att.naming.attributes,
@@ -1373,28 +1600,31 @@ att.personal.attributes =
   att.personal.attribute.sort
 att.personal.attribute.full =
   
-  ## 指出所提供的名稱元件是否完整，為一縮寫或僅為一字首字母。
+  ## indicates whether the name component is given in full, as an
+  ## abbreviation or simply as an initial.
   [ a:defaultValue = "yes" ]
   attribute full {
     
-    ## 該名稱元件的拼字完整。
+    ## the name component is spelled out in full.
     "yes"
     | 
-      ##  (abbreviated) 該名稱元件為縮寫形式。
+      ##  (abbreviated) the name component is given in an abbreviated form.
       "abb"
     | 
-      ##  (initial letter) 該名稱元件僅以一字首字母表示。
+      ##  (initial letter) the name component is indicated only by
+      ## one initial.
       "init"
   }?
 att.personal.attribute.sort =
   
-  ## 指明個人名稱中該名稱元件與其他元件之間的排列順序。
+  ## specifies the sort order of the name component in relation
+  ## to others within the personal name.
   attribute sort { data.count }?
 model.placeLike = place
 p =
   
-  ##  (段落) 標記散文的段落。
-  element ns1:p {
+  ##  (paragraph) marks paragraphs in prose. [3.1.  7.2.5. ]
+  element p {
     macro.paraContent,
     att.global.attributes,
     att.declaring.attributes,
@@ -1402,13 +1632,14 @@ p =
   }
 foreign =
   
-  ##  (外文) 標明所屬語言不同於週遭文字的字詞。
-  element ns1:foreign { macro.phraseSeq, att.global.attributes, empty }
+  ##  (foreign) identifies a word or phrase as belonging to some language other than that of the
+  ##                 surrounding text.  [3.3.2.1. ]
+  element foreign { macro.phraseSeq, att.global.attributes, empty }
 said =
   
   ##  (speech or thought) indicates passages thought or spoken aloud, whether explicitly indicated in the source or
-  ##     not, whether directly or indirectly reported, whether by real people or fictional characters.
-  element ns1:said {
+  ##     not, whether directly or indirectly reported, whether by real people or fictional characters. [3.3.3. ]
+  element said {
     macro.specialPara,
     att.global.attributes,
     att.ascribed.attributes,
@@ -1425,8 +1656,9 @@ said =
   }
 quote =
   
-  ##  (引文) 包含敘述者或作者引用自文本以外來源的字 (句) 詞或段落。
-  element ns1:quote {
+  ##  (quotation) contains a phrase or passage attributed by the narrator or author to some agency external
+  ##         to the text. [3.3.3.  4.3.1. ]
+  element quote {
     macro.specialPara,
     att.global.attributes,
     att.typed.attributes,
@@ -1434,24 +1666,27 @@ quote =
   }
 q =
   
-  ##  (引用的言詞、思想、或文字) 包含標記為 (看似)
-  ##     引用自他處的內容；在敘述文中，此元素用來標記直接或間接敘述；在字典中，用來標記實例或編者設計的範例；在寫本描述或其他上層資訊中，用來標記由來源文本中所摘錄的引文。
-  element ns1:q {
+  ##  (quoted) contains material which is distinguished from the
+  ##     surrounding text using quotation marks or a similar method, for any one of a variety of reasons including, but not limited to: direct
+  ##     speech or thought, technical terms or jargon, authorial distance, quotations from elsewhere, and
+  ##     passages that are mentioned but not used. [3.3.3. ]
+  element q {
     macro.specialPara,
     att.global.attributes,
     att.ascribed.attributes,
     
-    ## 可用來指出引文內容為言詞或思想，或者做更詳細的引文描述。
-    ## 被推薦的值包含: 1] spoken; 2] thought; 3] written; 4] soCalled; 5] foreign (foreign words) ; 6] distinct (linguistically distinct) ; 7] term (technical term) ; 8] emph (rhetorically emphasized) ; 9] mentioned
+    ## may be used to indicate whether the offset passage is spoken or thought, or to
+    ##         characterize it more finely.
+    ## Suggested values include: 1] spoken; 2] thought; 3] written; 4] soCalled; 5] foreign (foreign words) ; 6] distinct (linguistically distinct) ; 7] term (technical term) ; 8] emph (rhetorically emphasized) ; 9] mentioned
     attribute type {
       
-      ## 表示直接敘述，通常會標上引號。
+      ## representation of speech
       "spoken"
       | 
-        ## 表示思考內容，例如內心獨白。
+        ## representation of thought, e.g. internal monologue
         "thought"
       | 
-        ## 引用自一份書面來源文件。
+        ## quotation from a written source
         "written"
       | 
         ## authorial distance
@@ -1477,8 +1712,10 @@ q =
   }
 cit =
   
-  ## 從其他文件中引用的內容，並包含引用來源的書目參照資料。
-  element ns1:cit {
+  ##  (cited quotation) contains a quotation from some other document, together with a bibliographic reference to
+  ##     its source. In a dictionary it may contain an example text with at least one occurrence of the
+  ##     word form, used in the sense being described, or a translation of the headword, or an example.  [3.3.3.  4.3.1.  9.3.5.1. ]
+  element cit {
     (model.qLike
      | model.egLike
      | model.biblLike
@@ -1491,8 +1728,9 @@ cit =
   }
 desc =
   
-  ##  (描述) 包含一段簡短描述，說明一元素、屬性、或屬性值的應用與目的。
-  element ns1:desc {
+  ##  (description) contains a brief description of the object documented by its parent element, including its
+  ##     intended usage, purpose, or application where this is appropriate. [22.4.4.  22.4.5.  22.4.6.  22.4.7. ]
+  element desc {
     macro.limitedContent,
     att.global.attributes,
     att.translatable.attributes,
@@ -1500,8 +1738,9 @@ desc =
   }
 gloss =
   
-  ## 標明用來為另一個字詞下定義或提供註解的字詞。
-  element ns1:gloss {
+  ## identifies a phrase or word used to provide a gloss or definition for some other word or
+  ##     phrase. [3.3.4. ]
+  element gloss {
     macro.phraseSeq,
     att.global.attributes,
     att.declaring.attributes,
@@ -1509,34 +1748,33 @@ gloss =
     att.typed.attributes,
     att.pointing.attributes,
     
-    ##  (canonical reference) 用元素refsDecl在TEI標頭內所定義的標準參照來指明相關聯的元素term
-    ##          
+    ##  (canonical reference) identifies the associated term element using a canonical reference from a
+    ##         scheme defined in a refsDecl element in the TEI header
     attribute cRef { data.pointer }?,
     empty
   }
 term =
   
-  ## 包含作為專有名詞的一個單字、詞彙、或是表示符號。
-  element ns1:term {
+  ## contains a single-word, multi-word, or symbolic designation which is regarded as a technical
+  ##     term. [3.3.4. ]
+  element term {
     macro.phraseSeq,
     att.global.attributes,
     att.declaring.attributes,
     att.pointing.attributes,
     att.typed.attributes,
     att.canonical.attributes,
+    att.sortable.attributes,
     
     ## identifies the associated gloss element using a canonical reference from a
     ##           scheme defined in a refsDecl element in the TEI header
     attribute cRef { data.pointer }?,
-    
-    ## 提供索引中該專有名詞的排序關鍵。
-    attribute sortKey { data.word }?,
     empty
   }
 sic =
   
-  ##  (原文照錄) 包含看似錯誤但仍照實轉錄的文字 。
-  element ns1:sic {
+  ##  (Latin for thus or so) contains text reproduced although apparently incorrect or inaccurate. [3.4.1. ]
+  element sic {
     macro.paraContent,
     att.global.attributes,
     att.responsibility.attributes,
@@ -1544,8 +1782,8 @@ sic =
   }
 corr =
   
-  ##  (更正) 包含文本中看似錯誤並加以更正過後的文字。
-  element ns1:corr {
+  ##  (correction) contains the correct form of a passage apparently erroneous in the copy text. [3.4.1. ]
+  element corr {
     macro.paraContent,
     att.global.attributes,
     att.editLike.attributes,
@@ -1554,8 +1792,9 @@ corr =
   }
 choice =
   
-  ## 匯集文件中對於同一部分文字所有可供替換的不同標記。
-  element ns1:choice {
+  ## groups a number of alternative encodings for the same point in
+  ##         a text. [3.4. ]
+  element choice {
     (model.choicePart | choice)*,
     
     ## Resp statement for the choice.
@@ -1567,8 +1806,8 @@ choice =
   }
 reg =
   
-  ##  (一般化) 標誌一般化或規格化處理過的文字。
-  element ns1:reg {
+  ##  (regularization) contains a reading which has been regularized or normalized in some sense. [3.4.2.  12. ]
+  element reg {
     macro.paraContent,
     att.global.attributes,
     att.editLike.attributes,
@@ -1577,8 +1816,9 @@ reg =
   }
 orig =
   
-  ##  (原文格式) 標誌原文中呈現的文字，並且未經過任何修改或規格化處理。
-  element ns1:orig {
+  ##  (original form) contains a reading which is marked as following the original, rather than being normalized
+  ##         or corrected. [3.4.2.  12. ]
+  element orig {
     macro.paraContent,
     att.global.attributes,
     att.responsibility.attributes,
@@ -1586,31 +1826,35 @@ orig =
   }
 gap =
   
-  ##  (gap) 指出轉錄時被省略部分的位置，省略也許是出於
-  ##     TEI標頭裡描述的編輯上的理由、也許是因為抽樣轉錄而省略、或是因為資料不明難以辨認或聽懂。
-  element ns1:gap {
+  ##  (gap) indicates a point where material has been omitted in a transcription, whether for editorial
+  ##     reasons described in the TEI header, as part of sampling practice, or because the material is
+  ##     illegible, invisible, or inaudible. [3.4.3. ]
+  element gap {
     model.glossLike*,
     att.global.attributes,
     att.editLike.attributes,
     
-    ## 說明省略的原因。屬性值的例子有sampling、、inaudible、irrelevant、cancelled、cancelled
-    ##           and illegible。
+    ## gives the reason for omission. Sample values include sampling,
+    ##         inaudible, irrelevant, cancelled.
     attribute reason {
       list { data.word, data.word* }
     }?,
     
-    ## 若省略的內容是被身分明確的抄寫員由轉錄當中刻意刪除，則在此表明抄寫員的身分。
+    ## in the case of text omitted from the transcription because of deliberate deletion by an
+    ##         identifiable hand, signifies the hand which made the deletion.
     attribute hand { data.pointer }?,
     
-    ## 若省略是由於內容遭受損毀，且可識別損毀原因，則針對損毀原因加以分類。
-    ## 實例值包含: 1] rubbing; 2] mildew; 3] smoke
+    ## In the case of text omitted because of damage, categorizes the cause of the damage, if
+    ##         it can be identified.
+    ## Sample values include: 1] rubbing; 2] mildew; 3] smoke
     attribute agent { data.enumerated }?,
     empty
   }
 add =
   
-  ##  (插入) 包含由作者、抄寫者、註解者、或更正者在文本中插入的字母、單字或詞彙。
-  element ns1:add {
+  ##  (addition) contains letters, words, or phrases inserted in the text by an
+  ##         author, scribe, annotator, or corrector. [3.4.3. ]
+  element add {
     macro.paraContent,
     att.global.attributes,
     att.transcriptional.attributes,
@@ -1620,8 +1864,9 @@ add =
   }
 del =
   
-  ##  (刪除) 標記在文本中，由作者、抄寫者、註解者、或更正者刪除、標上刪除記號、或者標明為多餘或偽造的字母或單字。
-  element ns1:del {
+  ##  (deletion) contains a letter, word, or passage deleted, marked as deleted, or otherwise indicated as
+  ##     superfluous or spurious in the copy text by an author, scribe, annotator, or corrector. [3.4.3. ]
+  element del {
     macro.paraContent,
     att.global.attributes,
     att.transcriptional.attributes,
@@ -1630,8 +1875,8 @@ del =
   }
 name =
   
-  ##  (名稱，特定名稱) 包含一個特定名稱 或名詞詞組。
-  element ns1:name {
+  ##  (name, proper noun) contains a proper noun or noun phrase. [3.5.1. ]
+  element name {
     macro.phraseSeq,
     att.global.attributes,
     att.naming.attributes,
@@ -1640,60 +1885,30 @@ name =
   }
 rs =
   
-  ##  (參照字串) 包含一般名稱或參照字串。
-  element ns1:rs {
+  ##  (referencing string) contains a general purpose name or referring string. [13.2.1.  3.5.1. ]
+  element rs {
     macro.phraseSeq,
     att.global.attributes,
     att.naming.attributes,
-    
-    ## 更詳細指出參照字串所表示的對象。屬性值可包含人物、地點、船、元素等。
-    attribute type { data.enumerated }?,
+    att.typed.attributes,
     empty
   }
 email =
   
-  ## 包含一個電子郵件位址，標明電子郵件訊息可傳送的位置。
-  element ns1:email { macro.phraseSeq, att.global.attributes, empty }
+  ##  (electronic mail address) contains an e-mail address identifying a location to which
+  ##         e-mail messages can be delivered.
+  ##      [3.5.2. ]
+  element email { macro.phraseSeq, att.global.attributes, empty }
 date =
   
-  ## 包含任何格式的日期表示。
-  element ns1:date {
+  ## contains a date in any format. [3.5.4.  2.2.4.  2.5.  3.11.2.3.  15.2.3.  13.3.6. ]
+  element date {
     (text | model.gLike | model.phrase | model.global)*,
     
     ## The unique identifier for this date as derived from the DDBC Date
     ##                                 Authority Database.
     attribute key {
       xsd:string { pattern = "(j\d{14})|unknown" }
-    }?,
-    
-    ## 指明該日期表示所使用的曆法計算系統。
-    ## 被推薦的值包含: 1] Gregorian; 2] Julian; 3] Islamic; 4] Hebrew; 5] Revolutionary; 6] Iranian; 7] Coptic; 8] Chinese
-    attribute calendar {
-      
-      ## 格里高里曆
-      "Gregorian"
-      | 
-        ## 凱撒曆
-        "Julian"
-      | 
-        ## 伊斯蘭或穆斯林 (哈吉來) 陽曆
-        "Islamic"
-      | 
-        ## 希伯來或猶太陰陽曆
-        "Hebrew"
-      | 
-        ## 法國共和曆 
-        "Revolutionary"
-      | 
-        ## 伊朗或波斯 (Jalaali) 陽曆
-        "Iranian"
-      | 
-        ## 埃及古曆或亞歷山大曆
-        "Coptic"
-      | 
-        ## 中國陰陽曆
-        "Chinese"
-      | xsd:Name
     }?,
     att.datable.iso.attributes,
     att.duration.iso.attributes,
@@ -1703,8 +1918,8 @@ date =
   }
 time =
   
-  ## 包含一組字詞，以任何形式定義時間
-  element ns1:time {
+  ## contains a phrase defining a time of day in any format. [3.5.4. ]
+  element time {
     (text | model.gLike | model.phrase | model.global)*,
     att.global.attributes,
     att.datable.attributes,
@@ -1714,21 +1929,22 @@ time =
   }
 abbr =
   
-  ##  (縮寫) 包含任何形式的縮寫。
-  element ns1:abbr {
+  ##  (abbreviation) contains an abbreviation of any sort. [3.5.5. ]
+  element abbr {
     macro.phraseSeq,
     att.global.attributes,
     att.responsibility.attributes,
     
-    ## 標記者可以用合宜的分類方法將縮寫形式分類。
-    ## 實例值包含: 1] suspension; 2] contraction; 3] brevigraph; 4] superscription; 5] acronym; 6] title; 7] organization; 8] geographic
+    ## allows the encoder to classify the abbreviation according to some convenient
+    ##                 typology.
+    ## Sample values include: 1] suspension; 2] contraction; 3] brevigraph; 4] superscription; 5] acronym; 6] title; 7] organization; 8] geographic
     attribute type { data.enumerated }?,
     empty
   }
 expan =
   
-  ##  (縮寫還原) 包含一個縮寫詞的還原形式。
-  element ns1:expan {
+  ##  (expansion) contains the expansion of an abbreviation. [3.5.5. ]
+  element expan {
     macro.phraseSeq,
     att.global.attributes,
     att.editLike.attributes,
@@ -1736,8 +1952,8 @@ expan =
   }
 ptr =
   
-  ## 標明一個與其他位置相連結的指標。
-  element ns1:ptr {
+  ##  (pointer) defines a pointer to another location. [3.6.  16.1. ]
+  element ptr {
     empty
     >> sch:pattern [
          id = "ptr-constraint-ptrAtts"
@@ -1760,10 +1976,12 @@ ptr =
        ],
     att.global.attributes,
     att.pointing.attributes,
+    att.internetMedia.attributes,
     att.typed.attributes,
     att.declaring.attributes,
     
-    ##  (canonical reference) 用元素refsDecl在TEI標頭內所定義的標準參照來說明指標所指位置。
+    ##  (canonical reference) specifies the destination of the pointer by supplying a canonical reference from a
+    ##         scheme defined in a refsDecl element in the TEI header
     attribute cRef {
       list { data.word, data.word* }
     }?,
@@ -1771,8 +1989,8 @@ ptr =
   }
 ref =
   
-  ## 標明與其他位置互相參照的符號，或許包含附加的文字或註解。
-  element ns1:ref {
+  ##  (reference) defines a reference to another location, possibly modified by additional text or comment. [3.6.  16.1. ]
+  element ref {
     macro.paraContent
     >> sch:pattern [
          id = "ref-constraint-refAtts"
@@ -1799,41 +2017,45 @@ ref =
       xsd:string { pattern = "(A\d{6})|(G\d{6})" }
     }?,
     
-    ##  (canonical reference) 用元素refsDecl在TEI標頭內所定義的標準參照來說明參照所指位置。
+    ##  (canonical reference) specifies the destination of the reference by supplying a canonical reference from a
+    ##         scheme defined in a refsDecl element in the TEI header
     attribute cRef {
       list { data.word, data.word* }
     }?,
     att.global.attributes,
     att.pointing.attributes,
+    att.internetMedia.attributes,
     att.typed.attributes,
     att.declaring.attributes,
     empty
   }
 \list =
   
-  ##  (list) 包含以列表方式呈現的任何連續項目。
-  element ns1:list {
+  ##  (list) contains any sequence of items organized as a list. [3.7. ]
+  element list {
     ((model.divTop | model.global)*,
      ((item, model.global*)+
       | (label, model.global*, item, model.global*)+),
      (model.divBottom, model.global*)*),
     att.global.attributes,
+    att.sortable.attributes,
     
-    ## 描述列表的形式。
-    ## 被推薦的值包含: 1] ordered; 2] bulleted; 3] simple; 4] gloss
+    ## describes the form of the list.
+    ## Suggested values include: 1] ordered; 2] bulleted; 3] simple; 4] gloss
     [ a:defaultValue = "simple" ]
     attribute type {
       
-      ## 列表項目以數字或字母依順序排列。
+      ## list items are numbered or lettered. 
       "ordered"
       | 
-        ## 列表項目以黑點或其他印刷符號排列。
+        ## list items are marked with a bullet or other typographic device. 
         "bulleted"
       | 
-        ## 列表項目的排列沒有用數字或任何其他符號作標記。
+        ## list items are not numbered or bulleted. 
         "simple"
       | 
-        ## 各列表項目為一些字詞或概念下註解，每個項目之前並帶有標籤元素。
+        ## each list item glosses some term or concept, which is given by a label element
+        ##             preceding the list item.
         "gloss"
       | xsd:Name
     }?,
@@ -1841,25 +2063,38 @@ ref =
   }
 item =
   
-  ## 包含列表中的一個項目。
-  element ns1:item { macro.specialPara, att.global.attributes, empty }
+  ## contains one component of a list. [3.7.  2.5. ]
+  element item {
+    macro.specialPara,
+    att.global.attributes,
+    att.sortable.attributes,
+    empty
+  }
 label =
   
-  ## 包含和列表中某項目相關聯的標號；在詞彙表中則用來標記被定義的字詞。
-  element ns1:label { macro.phraseSeq, att.global.attributes, empty }
+  ## contains any label or heading used to identify part of a text,
+  ##   typically but not exclusively in a list or glossary. [3.7. ]
+  element label { macro.phraseSeq, att.global.attributes, empty }
 head =
   
-  ##  (標題) 包含任何種類的標題，如章節、列表、詞彙表、寫本描述等的標題。
-  element ns1:head {
-    macro.paraContent,
+  ##  (heading) contains any type of heading, for example the title of a section, or the heading of a list,
+  ##     glossary, manuscript description, etc. [4.2.1. ]
+  element head {
+    (text
+     | lg
+     | model.gLike
+     | model.phrase
+     | model.inter
+     | model.lLike
+     | model.global)*,
     att.global.attributes,
     att.typed.attributes,
     empty
   }
 note =
   
-  ## 包含附註或註釋。
-  element ns1:note {
+  ## contains a note or annotation. [3.8.1.  2.2.6.  3.11.2.6.  9.3.5.4. ]
+  element note {
     macro.specialPara,
     att.global.attributes,
     att.placement.attributes,
@@ -1867,10 +2102,11 @@ note =
     att.responsibility.attributes,
     att.typed.attributes,
     
-    ## 說明來源文件是否指出附註的確切參照位置。
+    ## indicates whether the copy text shows the exact place of reference for the note.
     [ a:defaultValue = "true" ] attribute anchored { data.truthValue }?,
     
-    ## 如果附註不是嵌在正文中，則用以標明附註所註段落的終點。
+    ## points to the end of the span to which the note is attached, if the note is not embedded
+    ##         in the text at that point.
     attribute targetEnd {
       list { data.pointer, data.pointer* }
     }?,
@@ -1878,20 +2114,22 @@ note =
   }
 index =
   
-  ##  (索引項目) 標誌一個因某種目的而被索引的位置。
-  element ns1:index {
+  ##  (index entry) marks a location to be indexed for whatever purpose. [3.8.2. ]
+  element index {
     (term, index?)*,
     att.global.attributes,
     att.spanning.attributes,
     
-    ## 提供該索引項目所屬索引名稱。
+    ## supplies a name to specify which index (of several) the index entry belongs to.
     attribute indexName { data.name }?,
     empty
   }
 milestone =
   
-  ## 標明文本中由標準參照系統變更所指示的任何區塊分界點，並且該章節未以任何結構性元素標記。
-  element ns1:milestone {
+  ## marks a boundary point separating any kind of section of a text, typically but not
+  ##     necessarily indicating a point at which some part of a standard reference system changes, where
+  ##     the change is not represented by a structural element. [3.10.3. ]
+  element milestone {
     empty,
     att.global.attributes,
     att.typed.attributes,
@@ -1899,44 +2137,44 @@ milestone =
     att.spanning.attributes,
     att.breaking.attributes,
     
-    ## 提供此分界段落所使用的通用單位名稱。
-    ## 被推薦的值包含: 1] page; 2] column; 3] line; 4] book; 5] poem; 6] canto; 7] speaker; 8] stanza; 9] act; 10] scene; 11] section; 12] absent; 13] unnumbered
+    ## provides a conventional name for the kind of section changing at this milestone.
+    ## Suggested values include: 1] page; 2] column; 3] line; 4] book; 5] poem; 6] canto; 7] speaker; 8] stanza; 9] act; 10] scene; 11] section; 12] absent; 13] unnumbered
     attribute unit {
       
-      ## 分頁 (和元素pb同義) 。
+      ## physical page breaks (synonymous with the pb element).
       "page"
       | 
-        ## 分段。
+        ## column breaks.
         "column"
       | 
-        ## 分行 (和元素lb同義) 。
+        ## line breaks (synonymous with the lb element).
         "line"
       | 
-        ## 所有稱為書、冊、或函等的單位。
+        ## any units termed book, liber, etc.
         "book"
       | 
-        ## 詩集中的單首詩。
+        ## individual poems in a collection.
         "poem"
       | 
-        ## 長詩的詩篇，或詩的大段落。
+        ## cantos or other major sections of a poem.
         "canto"
       | 
         ## changes of speaker or narrator.
         "speaker"
       | 
-        ## 一首詩、一本書、或一詩篇中的詩節。
+        ## stanzas within a poem, book, or canto.
         "stanza"
       | 
-        ## 劇本中的幕。
+        ## acts within a play.
         "act"
       | 
-        ## 劇本中的景。
+        ## scenes within a play or act.
         "scene"
       | 
-        ## 任何種類的段落。
+        ## sections of any kind.
         "section"
       | 
-        ## 該段文字未在參照版本中出現。
+        ## passages not present in the reference edition.
         "absent"
       | 
         ## passages present in the text, but not to be included as part of the reference.
@@ -1945,10 +2183,22 @@ milestone =
     },
     empty
   }
+gb =
+  
+  ##  (gathering begins) marks the point in a transcribed codex at which a new
+  ##   gathering or quire begins. [3.10.3. ]
+  element gb {
+    empty,
+    att.global.attributes,
+    att.typed.attributes,
+    att.spanning.attributes,
+    att.breaking.attributes,
+    empty
+  }
 pb =
   
-  ##  (分頁) 以標準參照系統來標記頁與頁之間的分界線。
-  element ns1:pb {
+  ##  (page break) marks the boundary between one page of a text and the next in a standard reference system. [3.10.3. ]
+  element pb {
     empty,
     att.global.attributes,
     att.typed.attributes,
@@ -1959,8 +2209,8 @@ pb =
   }
 lb =
   
-  ##  (分行) 標記某版本文本裡 (在印刷上) 的新起行。
-  element ns1:lb {
+  ##  (line break) marks the start of a new (typographic) line in some edition or version of a text. [3.10.3.  7.2.5. ]
+  element lb {
     empty,
     att.global.attributes,
     att.typed.attributes,
@@ -1971,28 +2221,36 @@ lb =
   }
 author =
   
-  ## 在書目參照中，包含一件作品的作者 (群) 姓名，無論是個人或是團體性質；這也是書目項目責任歸屬的主要陳述。
-  element ns1:author {
+  ## in a bibliographic reference, contains the name(s) of an
+  ##   author, personal or corporate, of a work; for example in the same
+  ##   form as that provided by a recognized bibliographic name authority.  [3.11.2.2.  2.2.1. ]
+  element author {
     macro.phraseSeq, att.global.attributes, att.naming.attributes, empty
   }
 editor =
   
-  ## 書目項目的次要責任歸屬，例如扮演編輯、編譯、翻譯等角色的個人、機構或組織 (或其他類似者) 的名稱。
-  element ns1:editor {
+  ## secondary statement of responsibility for a bibliographic item, for example the name of an
+  ##     individual, institution or organization, (or of several such) acting as editor, compiler,
+  ##     translator, etc.  [3.11.2.2. ]
+  element editor {
     macro.phraseSeq, att.global.attributes, att.naming.attributes, empty
   }
 respStmt =
   
-  ##  (責任陳述) 當未使用作者、編輯者等特定元素，或元素內容不足時，在此補充說明文件、版本、記錄、或是叢書的智慧內容所屬負責人的責任陳述。
-  element ns1:respStmt {
+  ##  (statement of responsibility) supplies a statement of responsibility for the intellectual content of a text, edition,
+  ##     recording, or series, where the specialized elements for authors, editors, etc. do not suffice
+  ##     or do not apply. May also be used to encode information about individuals or organizations 
+  ##     which have played a role in the production or distribution of a bibliographic work. [3.11.2.2.  2.2.1.  2.2.2.  2.2.5. ]
+  element respStmt {
     ((resp+, model.nameLike.agent+) | (model.nameLike.agent+, resp+)),
     att.global.attributes,
     empty
   }
 resp =
   
-  ## 包含一個詞彙，來描述個人智慧責任的類型。
-  element ns1:resp {
+  ##  (responsibility) contains a phrase describing the nature of a person's intellectual responsibility, or an organization's role 
+  ##     in the production or distribution of a work. [3.11.2.2.  2.2.1.  2.2.2.  2.2.5. ]
+  element resp {
     macro.phraseSeq.limited,
     att.global.attributes,
     att.canonical.attributes,
@@ -2000,55 +2258,60 @@ resp =
   }
 title =
   
-  ## 包含任何種類作品的完整題名
-  ##                     。
-  element ns1:title {
+  ## contains a title for any kind of work. [3.11.2.2.  2.2.1.  2.2.5. ]
+  element title {
     macro.paraContent,
     att.global.attributes,
     att.canonical.attributes,
     
-    ## 指出題名的書目層次，即該題名之所指可以是文章、書籍、期刊、叢書或未出版的項目。
+    ## indicates the bibliographic level for a title, that is, whether
+    ##                                         it identifies an article, book, journal, series, or
+    ##                                         unpublished material.
     attribute level {
       
-      ##  (analytic) 分析層題名
-      ##                                                   (文章、詩、或其他隸屬於一個較大作品的項目) 
+      ##  (analytic) analytic title (article, poem, or other item
+      ##                                                   published as part of a larger item) 
       "a"
       | 
-        ##  (monographic) 專題層題名
-        ##                                                   (書、選集、或其他獨立出版的項目，包含多冊作品的其中一冊) 
+        ##  (monographic) monographic title (book, collection, or
+        ##                                                   other item published as a distinct item,
+        ##                                                   including single volumes of multi-volume
+        ##                                                   works) 
         "m"
       | 
-        ##  (journal) 期刊層題名
+        ##  (journal) journal title 
         "j"
       | 
-        ##  (series) 叢書層題名
+        ##  (series) series title 
         "s"
       | 
-        ##  (unpublished) 未出版的項目題名 (包括未經商業刊物發表的專題論文) 
+        ##  (unpublished) title of unpublished material (including
+        ##                                                   theses and dissertations unless
+        ##                                                   published by a commercial press)
         "u"
     }?,
     
-    ## 用合適的分類方法將題名分類。
-    ## 實例值包含: 1] main; 2] sub (subordinate) ; 3] alt (alternate) ; 4] short; 5] desc (descriptive) 
+    ## classifies the title according to some convenient typology.
+    ## Sample values include: 1] main; 2] sub (subordinate) ; 3] alt (alternate) ; 4] short; 5] desc (descriptive) 
     attribute type { data.enumerated }?,
     empty
   }
 publisher =
   
-  ## 提供負責出版或發行書目項目的機構名稱。
-  element ns1:publisher {
-    macro.phraseSeq, att.global.attributes, empty
-  }
+  ## provides the name of the organization responsible for the publication or distribution of a
+  ##         bibliographic item. [3.11.2.3.  2.2.4. ]
+  element publisher { macro.phraseSeq, att.global.attributes, empty }
 pubPlace =
   
-  ## 包含書目項目的出版地名稱。
-  element ns1:pubPlace {
+  ##  (publication place) contains the name of the place where a bibliographic item was published. [3.11.2.3. ]
+  element pubPlace {
     macro.phraseSeq, att.global.attributes, att.naming.attributes, empty
   }
 bibl =
   
-  ##  (書目資料) 包含結構零散的書目資料，其中次要元件不一定會明確標記。
-  element ns1:bibl {
+  ##  (bibliographic citation) contains a loosely-structured bibliographic citation of which the sub-components may or may
+  ##     not be explicitly tagged.  [3.11.1.  2.2.7.  15.3.2. ]
+  element bibl {
     (text
      | model.gLike
      | model.highlighted
@@ -2061,33 +2324,38 @@ bibl =
     att.global.attributes,
     att.declarable.attributes,
     att.typed.attributes,
+    att.sortable.attributes,
     empty
   }
 biblStruct =
   
-  ##  (結構次要書目) 包含僅出現子節點的結構書目資料，並以特定順序呈現。
-  element ns1:biblStruct {
+  ##  (structured bibliographic citation) contains a structured bibliographic citation, in which only bibliographic sub-elements
+  ##     appear and in a specified order.  [3.11.1.  2.2.7.  15.3.2. ]
+  element biblStruct {
     (model.noteLike | idno | relatedItem)*,
     att.global.attributes,
     att.declarable.attributes,
     att.typed.attributes,
+    att.sortable.attributes,
     empty
   }
 listBibl =
   
-  ##  (書目列表) 包含任何種類的書目資料列表。
-  element ns1:listBibl {
+  ##  (citation list) contains a list of bibliographic citations of any kind.  [3.11.1.  2.2.7.  15.3.2. ]
+  element listBibl {
     (model.headLike*,
      (model.biblLike | model.milestoneLike | listBibl)+),
     att.global.attributes,
+    att.sortable.attributes,
     att.declarable.attributes,
     att.typed.attributes,
     empty
   }
 relatedItem =
   
-  ## 包含或參照到其他書目項目，該些項目與目前的書目項目在某種程度上相關，例如作為其組成或者替代項目。
-  element ns1:relatedItem {
+  ## contains or references some other bibliographic item which is related to the present one in
+  ##     some specified manner, for example as a constituent or alternative version of it. [3.11.2.5. ]
+  element relatedItem {
     ((model.biblLike | model.ptrLike)?)
     >> sch:pattern [
          id = "relatedItem-constraint-targetorcontent11"
@@ -2137,40 +2405,65 @@ relatedItem =
   }
 l =
   
-  ##  (詩行) 包含詩文的一行，也許是不完整的詩行。
-  element ns1:l {
+  ##  (verse line) contains a single, possibly incomplete, line of verse. [3.12.1.  3.12.  7.2.5. ]
+  element l {
     macro.paraContent,
     att.global.attributes,
     
-    ## 說明詩行的韻律表現是否完整。
+    ## specifies whether or not the line is metrically complete. 
     [ a:defaultValue = "N" ]
     attribute part {
       
-      ##  (yes) 韻律表現不完整的詩行
+      ##  (yes) the line is metrically incomplete
       "Y"
       | 
-        ##  (no) 詩行完整或未說明其完整性
+        ##  (no) either the line is complete, or no claim is made as to its completeness
         "N"
       | 
-        ##  (initial) 不完整詩行的起始部分
+        ##  (initial) the initial part of an incomplete line
         "I"
       | 
-        ##  (medial) 不完整詩行的中段部分
+        ##  (medial) a medial part of an incomplete line
         "M"
       | 
-        ##  (final) 不完整詩行的末端部分
+        ##  (final) the final part of an incomplete line
         "F"
     }?,
     empty
   }
 lg =
   
-  ##  (行組) 包含形式上視為一組的詩行，例如詩節、疊句、韻文段落等。 
-  element ns1:lg {
+  ##  (line group) contains one or more verse lines functioning as a formal unit, e.g. a stanza, refrain,
+  ##         verse paragraph, etc. [3.12.1.  3.12.  7.2.5. ]
+  element lg {
     ((model.divTop | model.global)*,
-     (model.lLike | lg),
-     (model.lLike | lg | model.global)*,
-     (model.divBottom, model.global*)*),
+     (model.lLike | model.stageLike | model.labelLike | lg),
+     (model.lLike
+      | model.stageLike
+      | model.labelLike
+      | model.global
+      | lg)*,
+     (model.divBottom, model.global*)*)
+    >> sch:pattern [
+         id = "lg-constraint-atleast1oflggapl"
+         "\x{a}" ~
+         "            "
+         sch:rule [
+           context = "tei:lg"
+           "\x{a}" ~
+           "               "
+           sch:assert [
+             test =
+               "count(descendant::tei:lg|descendant::tei:l|descendant::tei:gap) > 0"
+             "An <lg> \x{a}" ~
+             "        must contain at least one child <l>, <lg> or <gap>."
+           ]
+           "\x{a}" ~
+           "            "
+         ]
+         "\x{a}" ~
+         "         "
+       ],
     att.global.attributes,
     att.divLike.attributes,
     att.typed.attributes,
@@ -2179,32 +2472,51 @@ lg =
   }
 teiCorpus =
   
-  ## 包含一套用TEI編碼的文件集，由單一文集標頭以及一個 (或多個)
-  ##     TEI元素所組成，各TEI元素包含單一文本標頭和一個文本。
-  element ns1:teiCorpus {
+  ## contains the whole of a TEI encoded corpus, comprising a single corpus header and one or
+  ##     more TEI elements, each containing a single text header and a text. [4.  15.1. ]
+  element teiCorpus {
     (teiHeader, (TEI | teiCorpus)+),
     att.global.attributes,
     
-    ## TEI架構的版本
+    ## The version of the TEI scheme
     [ a:defaultValue = "5.0" ] attribute version { data.version }?,
+    empty
+  }
+textLang =
+  
+  ##  (text language) describes the languages and writing systems identified within the bibliographic work  
+  ##   being described, rather than its description.  [3.11.2.3.  10.6.6. ]
+  element textLang {
+    macro.phraseSeq,
+    att.global.attributes,
+    
+    ##  (main language) supplies a code which identifies the chief language used in the bibliographic work.
+    attribute mainLang { data.language }?,
+    
+    ##  (other languages) one or more codes identifying any other languages used in the bibliographic work.
+    attribute otherLangs {
+      list { data.language* }
+    }?,
     empty
   }
 teiHeader =
   
-  ##  (TEI標頭) 在所有符合TEI標準的文本起始的電子題名頁當中提供敘述性以及宣告性的資訊。
-  element ns1:teiHeader {
+  ##  (TEI Header) supplies the descriptive and declarative information making up an electronic title page
+  ##     prefixed to every TEI-conformant text. [2.1.1.  15.1. ]
+  element teiHeader {
     (fileDesc, model.teiHeaderPart*, revisionDesc?),
     att.global.attributes,
     
-    ## 標明標頭所附屬於的文件類型，例如文集或單一文本。
-    ## 實例值包含: 1] text; 2] corpus
+    ## specifies the kind of document to which the header is attached, for example whether it
+    ##         is a corpus or individual text.
+    ## Sample values include: 1] text; 2] corpus
     [ a:defaultValue = "text" ] attribute type { data.enumerated }?,
     empty
   }
 fileDesc =
   
-  ##  (檔案描述) 包含對電子檔案的完整書目敘述。
-  element ns1:fileDesc {
+  ##  (file description) contains a full bibliographic description of an electronic file. [2.2.  2.1.1. ]
+  element fileDesc {
     ((titleStmt,
       editionStmt?,
       extent?,
@@ -2217,117 +2529,139 @@ fileDesc =
   }
 titleStmt =
   
-  ##  (題名陳述) 匯集關於作品標題與作品智慧內容責任歸屬的資訊。
-  element ns1:titleStmt {
+  ##  (title statement) groups information about the title of a work and those responsible for its content. [2.2.1.  2.2. ]
+  element titleStmt {
     (title+, model.respLike*), att.global.attributes, empty
   }
 sponsor =
   
-  ## 標明贊助的組織或機構名稱。
-  element ns1:sponsor {
+  ## specifies the name of a sponsoring organization or institution. [2.2.1. ]
+  element sponsor {
     macro.phraseSeq.limited, att.global.attributes, empty
   }
 funder =
   
-  ##  (資助者) 標明負責資助一項計畫或文件製作的個人、機構或組織名稱。
-  element ns1:funder {
+  ##  (funding body) specifies the name of an individual, institution, or organization responsible for the
+  ##     funding of a project or text. [2.2.1. ]
+  element funder {
     macro.phraseSeq.limited, att.global.attributes, empty
   }
 principal =
   
-  ##  (主導研究者) 提供負責電子文件製作的主導研究者的姓名。
-  element ns1:principal {
+  ##  (principal researcher) supplies the name of the principal researcher responsible for the
+  ## creation of an electronic text. [2.2.1. ]
+  element principal {
     macro.phraseSeq.limited, att.global.attributes, empty
   }
 editionStmt =
   
-  ##  (版本陳述) 匯集文件某一版本的相關資訊。
-  element ns1:editionStmt {
+  ##  (edition statement) groups information relating to one edition of a text. [2.2.2.  2.2. ]
+  element editionStmt {
     (model.pLike+ | (edition, respStmt*)),
     att.global.attributes,
     empty
   }
 edition =
   
-  ##  (版本) 描述文件某一版本的特質。
-  element ns1:edition { macro.phraseSeq, att.global.attributes, empty }
+  ##  (edition) describes the particularities of one edition of a text. [2.2.2. ]
+  element edition { macro.phraseSeq, att.global.attributes, empty }
 extent =
   
-  ## 描述電子文件儲存在某一承載媒介時的約略大小，標以任何適用的單位。
-  element ns1:extent { macro.phraseSeq, att.global.attributes, empty }
+  ## describes the approximate size of a text as stored on some carrier medium, whether digital
+  ##     or non-digital, specified in any convenient units. [2.2.3.  2.2.  3.11.2.3. ]
+  element extent { macro.phraseSeq, att.global.attributes, empty }
 publicationStmt =
   
-  ##  (出版陳述) 匯集電子文件或其他類型文件的出版或發行相關資訊。
-  element ns1:publicationStmt {
+  ##  (publication statement) groups information concerning the publication or distribution of an electronic or other
+  ##     text.  [2.2.4.  2.2. ]
+  element publicationStmt {
     (model.pLike+ | model.publicationStmtPart+),
     att.global.attributes,
     empty
   }
 distributor =
   
-  ## 提供負責發行文件的個人或其他經銷商的名稱。
-  element ns1:distributor {
-    macro.phraseSeq, att.global.attributes, empty
-  }
+  ## supplies the name of a person or other agency responsible for the
+  ## distribution of a text. [2.2.4. ]
+  element distributor { macro.phraseSeq, att.global.attributes, empty }
 authority =
   
-  ##  (供應機構) 說明除了出版者或發行者之外，負責提供電子檔案的個人或其他經銷商的名稱。
-  element ns1:authority {
+  ##  (release authority) supplies the name of a person or other agency responsible for
+  ##   making an electronic file available, other than a publisher or
+  ##   distributor. [2.2.4. ]
+  element authority {
     macro.phraseSeq.limited, att.global.attributes, empty
   }
 idno =
   
-  ##  (識別代碼) 提供任何用來識別書目項目的標準或非標準編碼。
-  element ns1:idno {
-    macro.xtext,
+  ##  (identifier) supplies any form of identifier used to identify some object,
+  ##   such as a bibliographic item, a person, a title, an organization,
+  ##   etc. in a standardized way. [2.2.4.  2.2.5.  3.11.2.3. ]
+  element idno {
+    (text | model.gLike | idno)*,
     att.global.attributes,
+    att.sortable.attributes,
     
-    ## 表明編碼的種類，例如國際標準書號 (ISBN) 或其他標準系列編碼。
+    ## categorizes the identifier, for example as an ISBN, Social
+    ##       Security number, etc. 
     attribute type { data.enumerated }?,
     empty
   }
 availability =
   
-  ## 提供關於文件可利用性的資訊，例如使用或發行上的任何限制、版權狀態等。
-  element ns1:availability {
-    model.pLike+,
+  ## supplies information about the availability of a text, for example any restrictions on its
+  ##     use or distribution, its copyright status, any licence applying to it, etc. [2.2.4. ]
+  element availability {
+    (model.availabilityPart | model.pLike)+,
     att.global.attributes,
     att.declarable.attributes,
     
-    ## 提供一個代號，用來確認文件目前的可利用性。
+    ## supplies a code identifying the current availability of the text. 
     [ a:defaultValue = "unknown" ]
     attribute status {
       
-      ## 文件的可利用性不受限。
+      ## the text is freely available. 
       "free"
       | 
-        ## 文件狀態不明。
+        ## the status of the text is unknown. 
         "unknown"
       | 
-        ## 文件的可利用性受限制。
+        ## the text is not freely available. 
         "restricted"
     }?,
     empty
   }
+licence =
+  
+  ## contains information about a licence or other legal agreement
+  ##   applicable to the text. [2.2.4. ]
+  element licence {
+    macro.specialPara,
+    att.global.attributes,
+    att.pointing.attributes,
+    att.datable.attributes,
+    empty
+  }
 seriesStmt =
   
-  ##  (集叢陳述) 若出版品隸屬於某叢書，則在此匯集該叢書的相關資訊。
-  element ns1:seriesStmt {
+  ##  (series statement) groups information about the series, if any, to which a publication belongs. [2.2.5.  2.2. ]
+  element seriesStmt {
     (model.pLike+
-     | (title+, (idno | respStmt)*)),
+     | (title+, (editor | respStmt)*, idno*)),
     att.global.attributes,
     empty
   }
 notesStmt =
   
-  ##  (附註陳述) 收集其他部分的書目描述中所未記載的任何文件相關附註。
-  element ns1:notesStmt {
-    model.noteLike+, att.global.attributes, empty
-  }
+  ##  (notes statement) collects together any notes providing information about a text additional to that recorded
+  ##     in other parts of the bibliographic description. [2.2.6.  2.2. ]
+  element notesStmt { model.noteLike+, att.global.attributes, empty }
 sourceDesc =
   
-  ## 提供所製電子文件的一個或數個來源文件的書目描述。
-  element ns1:sourceDesc {
+  ##  (source description) describes the source from which an electronic text was derived or generated, typically a
+  ##     bibliographic description in the case of a digitized text, or a phrase such as "born digital"
+  ##     for a text which has no previous existence. [2.2.7. ]
+  element sourceDesc {
     (model.pLike+
      | (model.biblLike | model.sourceDescPart | model.listLike)+),
     att.global.attributes,
@@ -2336,8 +2670,9 @@ sourceDesc =
   }
 biblFull =
   
-  ## 包含結構完整的書目資料，其中呈現出TEI檔案描述內的所有元件。
-  element ns1:biblFull {
+  ##  (fully-structured bibliographic citation) contains a fully-structured bibliographic citation, in which all components of the TEI file
+  ##     description are present. [3.11.1.  2.2.  2.2.7.  15.3.2. ]
+  element biblFull {
     ((titleStmt,
       editionStmt?,
       extent?,
@@ -2347,20 +2682,24 @@ biblFull =
      sourceDesc*),
     att.global.attributes,
     att.declarable.attributes,
+    att.sortable.attributes,
     empty
   }
 encodingDesc =
   
-  ##  (編碼描述) 記錄電子文件和其ㄧ個或多個文件來源之間的關係。
-  element ns1:encodingDesc {
+  ##  (encoding description) documents the relationship between an electronic text and the
+  ## source or sources from which it was derived. [2.3.  2.1.1. ]
+  element encodingDesc {
     (model.encodingDescPart | model.pLike)+,
     att.global.attributes,
     empty
   }
 projectDesc =
   
-  ##  (計畫描述) 詳述將電子檔案編碼的目標或目的，以及其他關於檔案匯集或收集程序的任何資訊。
-  element ns1:projectDesc {
+  ##  (project description) describes in detail the aim or purpose for which an electronic file was encoded, together
+  ##     with any other relevant information concerning the process by which it was assembled or
+  ##     collected. [2.3.1.  2.3.  15.3.2. ]
+  element projectDesc {
     model.pLike+,
     att.global.attributes,
     att.declarable.attributes,
@@ -2368,8 +2707,9 @@ projectDesc =
   }
 samplingDecl =
   
-  ##  (取樣宣告) 以篇章描述的方式說明建立文集或文選時文件取樣的原理與方法。
-  element ns1:samplingDecl {
+  ##  (sampling declaration) contains a prose description of the rationale and methods used in sampling texts in the
+  ##     creation of a corpus or collection. [2.3.2.  2.3.  15.3.2. ]
+  element samplingDecl {
     model.pLike+,
     att.global.attributes,
     att.declarable.attributes,
@@ -2377,8 +2717,9 @@ samplingDecl =
   }
 editorialDecl =
   
-  ##  (編輯實行宣告) 提供文件編碼時使用的編輯原則與實行方法的細節。
-  element ns1:editorialDecl {
+  ##  (editorial practice declaration) provides details of editorial principles and practices applied
+  ## during the encoding of a text. [2.3.3.  2.3.  15.3.2. ]
+  element editorialDecl {
     (model.pLike | model.editorialDeclPart)+,
     att.global.attributes,
     att.declarable.attributes,
@@ -2386,34 +2727,34 @@ editorialDecl =
   }
 correction =
   
-  ##  (更正原則) 說明文本中的更正是在什麼情況下、如何產生的。
-  element ns1:correction {
+  ##  (correction principles) states how and under what circumstances corrections have been made in the text. [2.3.3.  15.3.2. ]
+  element correction {
     model.pLike+,
     att.global.attributes,
     att.declarable.attributes,
     
-    ## 指出文本更正的程度。
+    ## indicates the degree of correction applied to the text. 
     [ a:defaultValue = "unknown" ]
     attribute status {
       
-      ## 該文本以被徹底檢查校對過。
+      ## the text has been thoroughly checked and proofread. 
       "high"
       | 
-        ## 該文本被檢查過至少一次。
+        ## the text has been checked at least once. 
         "medium"
       | 
-        ## 該文本從未被檢查過。
+        ## the text has not been checked. 
         "low"
       | 
-        ## 更正狀態不明
+        ## the correction status of the text is unknown. 
         "unknown"
     }?,
     
-    ## 說明標示更正所採取的方法。
+    ## indicates the method adopted to indicate corrections within the text. 
     [ a:defaultValue = "silent" ]
     attribute method {
       
-      ## 直接在文本中更正
+      ## corrections have been made silently 
       "silent"
       | 
         ## corrections have been represented using markup
@@ -2423,20 +2764,21 @@ correction =
   }
 normalization =
   
-  ## 指出來源文件轉換成電子文本時規格化或標準化的程度。
-  element ns1:normalization {
+  ## indicates the extent of normalization or regularization of the original source carried out
+  ##     in converting it to electronic form. [2.3.3.  15.3.2. ]
+  element normalization {
     model.pLike+,
     att.global.attributes,
     att.declarable.attributes,
     
-    ## 指出任何規格化所實行的依據。
+    ## indicates the authority for any normalization carried out. 
     attribute source { data.pointer }?,
     
-    ## 指出標示規格化所採取的方法。
+    ## indicates the method adopted to indicate normalizations within the text. 
     [ a:defaultValue = "silent" ]
     attribute method {
       
-      ## 直接在文本中實行規格化
+      ## normalization made silently 
       "silent"
       | 
         ## normalization represented using markup 
@@ -2446,60 +2788,65 @@ normalization =
   }
 quotation =
   
-  ## 說明在編輯上是如何處理來源文件中的引文符號。
-  element ns1:quotation {
+  ## specifies editorial practice adopted with respect to quotation marks in the original.  [2.3.3.  15.3.2. ]
+  element quotation {
     model.pLike+,
     att.global.attributes,
     att.declarable.attributes,
     
-    ##  (quotation marks) 指出引文符號是否在文本中被保留為內容的一部份。
+    ##  (quotation marks) indicates whether or not quotation marks have been retained as content within the text. 
     [ a:defaultValue = "all" ]
     attribute marks {
       
-      ## 不保留任何引文符號
+      ## no quotation marks have been retained 
       "none"
       | 
-        ## 保留部分引文符號
+        ## some quotation marks have been retained 
         "some"
       | 
-        ## 保留所有引文符號
+        ## all quotation marks have been retained 
         "all"
     }?,
     
-    ## 說明引文符號如何標示於文本中。
+    ## specifies how quotation marks are indicated within the text.
     [ a:defaultValue = "unknown" ] attribute form { text }?,
     empty
   }
 hyphenation =
   
-  ## 概述來源文件裡的連字符號在電子化的版本中是如何被處理的。
-  element ns1:hyphenation {
+  ## summarizes the way in which hyphenation in a source text has been treated in an encoded
+  ##     version of it. [2.3.3.  15.3.2. ]
+  element hyphenation {
     model.pLike+,
     att.global.attributes,
     att.declarable.attributes,
     
-    ##  (end-of-line) 指出行末連字符號是否在文本中被保留。
+    ##  (end-of-line) indicates whether or not end-of-line hyphenation has been retained in a text.
     [ a:defaultValue = "some" ]
     attribute eol {
       
-      ## 保留所有行末連字符號，即使原文中的不被保留。
+      ## all end-of-line hyphenation has been retained, even though the lineation of the
+      ##             original may not have been. 
       "all"
       | 
-        ## 行末連字符號在某些情況下被保留。
+        ## end-of-line hyphenation has been retained in some cases. 
         "some"
       | 
-        ## 所有軟音的行末連字符號皆被移除：任何剩下的行末連字符號應該被保留。
+        ## all soft end-of-line hyphenation has been removed: any remaining end-od-line
+        ##             hyphenation should be retained. 
         "hard"
       | 
-        ## 所有行末連字符號皆被移除：剩下的是行中出現的行末連字符號。
+        ## all end-of-line hyphenation has been removed: any remaining hyphenation occurred
+        ##             within the line. 
         "none"
     }?,
     empty
   }
 segmentation =
   
-  ## 描述文件分割的原理方法，例如分割成句子、音調單位、字形層次等。
-  element ns1:segmentation {
+  ## describes the principles according to which the text has been segmented, for example into
+  ##     sentences, tone-units, graphemic strata, etc. [2.3.3.  15.3.2. ]
+  element segmentation {
     model.pLike+,
     att.global.attributes,
     att.declarable.attributes,
@@ -2507,8 +2854,8 @@ segmentation =
   }
 stdVals =
   
-  ##  (標準值) 明確說明文本中標準化日期或數值所使用的格式。
-  element ns1:stdVals {
+  ##  (standard values) specifies the format used when standardized date or number values are supplied. [2.3.3.  15.3.2. ]
+  element stdVals {
     model.pLike+,
     att.global.attributes,
     att.declarable.attributes,
@@ -2516,8 +2863,9 @@ stdVals =
   }
 interpretation =
   
-  ## 指出除了轉錄之外，文件中加入哪些分析性或詮釋性的資訊。
-  element ns1:interpretation {
+  ## describes the scope of any analytic or interpretive information added to the text in
+  ##     addition to the transcription.  [2.3.3. ]
+  element interpretation {
     model.pLike+,
     att.global.attributes,
     att.declarable.attributes,
@@ -2525,45 +2873,49 @@ interpretation =
   }
 tagsDecl =
   
-  ##  (標誌宣告) 提供關於應用在XML文件中的標誌的詳細資訊。
-  element ns1:tagsDecl {
+  ##  (tagging declaration) provides detailed information about the tagging applied to a document. [2.3.4.  2.3. ]
+  element tagsDecl {
     (rendition*, \namespace*), att.global.attributes, empty
   }
 tagUsage =
   
-  ## 提供文件中某個特定元素的使用資訊。
-  element ns1:tagUsage {
+  ## supplies information about the usage of a specific element within a text.  [2.3.4. ]
+  element tagUsage {
     macro.limitedContent,
     att.global.attributes,
     
-    ##  (element name) 該標籤所指明的元素名稱 (通用識別符碼)。
+    ##  (element name) the name (generic identifier) of the element indicated by the tag.
     attribute gi { data.name },
     
-    ## 指出該元素在文本中出現的次數。
+    ## specifies the number of occurrences of this element within the text.
     attribute occurs { data.count }?,
     
-    ##  (with unique identifier) 指出帶有明確全域屬性xml:id屬性值的元素在文本中的出現次數。
+    ##  (with unique identifier) specifies the number of occurrences of this element within the text which bear a
+    ##         distinct value for the global xml:id attribute. 
     attribute withId { data.count }?,
     
-    ## 標明元素rendition的識別符號，該符號定義此元素的呈現方法。
+    ## specifies the identifier of a rendition element which defines how this element
+    ##         is to be rendered.
     attribute render { data.pointer }?,
     empty
   }
 \namespace =
   
-  ## 提供其子元素所描述的元素所屬的名稱空間之正式名稱。 
-  element ns1:namespace {
+  ## supplies the formal name of the namespace to which the elements documented by its children
+  ##     belong.  [2.3.4. ]
+  element namespace {
     tagUsage+,
     att.global.attributes,
     
-    ## 名稱空間的正式完整名稱。
+    ## the full formal name of the namespace concerned.
     attribute name { data.namespace },
     empty
   }
 rendition =
   
-  ## 提供關於一個或多個元素預定呈現方式的資訊。
-  element ns1:rendition {
+  ## supplies information about the rendition or appearance of one or more elements in the source
+  ##     text. [2.3.4. ]
+  element rendition {
     macro.limitedContent,
     att.global.attributes,
     
@@ -2586,13 +2938,15 @@ rendition =
     ## where CSS is used, provides a way of defining
     ## pseudo-elements, that is, styling rules
     ## applicable to specific sub-portions of an element.
-    attribute scope { text }?,
+    ## Sample values include: 1] first-line; 2] first-letter; 3] before; 4] after
+    attribute scope { data.enumerated }?,
     empty
   }
 refsDecl =
   
-  ##  (參照宣告) 標明本文件與某一個權威參照標準的關係。
-  element ns1:refsDecl {
+  ##  (references declaration) specifies how canonical references are constructed for this
+  ##   text. [2.3.5.3.  2.3.  2.3.5. ]
+  element refsDecl {
     (model.pLike+ | cRefPattern+ | refState+),
     att.global.attributes,
     att.declarable.attributes,
@@ -2600,28 +2954,31 @@ refsDecl =
   }
 cRefPattern =
   
-  ##  (定義如何將標準參照轉換成統一資源識別符 (URI) 。) 標明將標準參照轉換成統一資源識別符的表示方法與取代模式。 
-  element ns1:cRefPattern {
+  ##  (canonical reference pattern) specifies an expression and replacement pattern for transforming a canonical reference into
+  ##     a URI.  [2.3.5.3.  2.3.5.  2.3.5.2. ]
+  element cRefPattern {
     model.pLike*,
     att.global.attributes,
     
-    ## 標明一個表示屬性cRef屬性值的固定方法。
+    ## specifies a regular expression against which the values of cRef attributes
+    ##         can be matched.
     attribute matchPattern { data.pattern },
     
-    ## 標明一個取代模式，一旦進行次要模式的替換，會自動提供統一資源識別符 (URI) 。
+    ## specifies a replacement pattern which, once subpattern substitution
+    ##         has been performed, provides a URI.
     attribute replacementPattern { text },
     empty
   }
 refState =
   
-  ##  (分界狀態) 標明分界方法所定義的權威參照標準裡其中一個組件。
-  element ns1:refState {
+  ##  (reference state) specifies one component of a canonical reference defined by the milestone method. [2.3.5.3.  2.3.5. ]
+  element refState {
     empty,
     att.global.attributes,
     att.sourced.attributes,
     
     ## indicates what kind of state is changing at this milestone.
-    ## 被推薦的值包含: 1] page; 2] column; 3] line; 4] book; 5] poem; 6] canto; 7] stanza; 8] act; 9] scene; 10] section; 11] absent
+    ## Suggested values include: 1] page; 2] column; 3] line; 4] book; 5] poem; 6] canto; 7] stanza; 8] act; 9] scene; 10] section; 11] absent
     attribute unit {
       
       ## page breaks in the reference edition. 
@@ -2668,28 +3025,32 @@ refState =
   }
 classDecl =
   
-  ##  (分類宣告) 包含一個或多個分類法，用來定義在文件中他處所使用之任何分類碼。
-  element ns1:classDecl { taxonomy+, att.global.attributes, empty }
+  ##  (classification declarations) contains one or more taxonomies defining any classificatory
+  ## codes used elsewhere in the text. [2.3.6.  2.3. ]
+  element classDecl { taxonomy+, att.global.attributes, empty }
 taxonomy =
   
-  ## 定義文件分類的類型學，可以是潛在地以書目資料的方式，或是明確地以結構分類法的方式來分類。
-  element ns1:taxonomy {
+  ## defines a typology either implicitly, by means of a bibliographic
+  ##     citation, or explicitly by a structured taxonomy. [2.3.6. ]
+  element taxonomy {
     (model.glossLike* | category+ | (model.biblLike, category*)),
     att.global.attributes,
     empty
   }
 category =
   
-  ## 在使用者定義之分類法當中，此元素包含一項個別的描述性類目，該類目可能位於一個更上層的類目之中。
-  element ns1:category {
+  ## contains an individual descriptive category, possibly nested within a superordinate
+  ##     category, within a user-defined taxonomy. [2.3.6. ]
+  element category {
     ((catDesc+ | model.glossLike*), category*),
     att.global.attributes,
     empty
   }
 catDesc =
   
-  ##  (類目描述) 描述分類法中或文件類型學中的某些類目，可用短文描述的型式，或是用TEI正式元素textDesc所使用的狀況參數。
-  element ns1:catDesc {
+  ##  (category description) describes some category within a taxonomy or text typology, either in the form of a brief
+  ##     prose description or in terms of the situational parameters used by the TEI formal textDesc. [2.3.6. ]
+  element catDesc {
     (text | model.limitedPhrase | model.catDescPart)*,
     att.global.attributes,
     empty
@@ -2698,13 +3059,13 @@ appInfo =
   
   ##  (application information) records information about an application which has
   ##   edited the TEI file. 
-  element ns1:appInfo {
+  element appInfo {
     model.applicationLike+, att.global.attributes, empty
   }
 application =
   
   ## provides information about an application which has acted upon the document.
-  element ns1:application {
+  element application {
     (model.labelLike+, (model.ptrLike* | model.pLike*)),
     att.global.attributes,
     att.typed.attributes,
@@ -2725,34 +3086,41 @@ application =
   }
 profileDesc =
   
-  ##  (文件背景描述) 提供文件非書目性方面的細節描述，特別是所使用的語言及次要語言、在何種情況下製作、參與人員及其環境背景。
-  element ns1:profileDesc {
+  ##  (text-profile description) provides a detailed description of non-bibliographic aspects of a text, specifically the
+  ##     languages and sublanguages used, the situation in which it was produced, the participants and
+  ##     their setting. [2.4.  2.1.1. ]
+  element profileDesc {
     model.profileDescPart*, att.global.attributes, empty
   }
 creation =
   
-  ## 包含關於文件建置的資訊。 
-  element ns1:creation {
-    macro.phraseSeq.limited, att.global.attributes, empty
+  ## contains information about the creation of a text. [2.4.1.  2.4. ]
+  element creation {
+    (text | model.limitedPhrase | listChange)*,
+    att.global.attributes,
+    att.datable.attributes,
+    empty
   }
 langUsage =
   
-  ##  (語言使用) 描述文件中使用的語言、次要語言、語域、方言等。
-  element ns1:langUsage {
+  ##  (language usage) describes the languages, sublanguages, registers, dialects, etc.
+  ## represented within a text. [2.4.2.  2.4.  15.3.2. ]
+  element langUsage {
     language+, att.global.attributes, att.declarable.attributes, empty
   }
 language =
   
-  ## 個別敘述文本中使用的語言或次要語言。
-  element ns1:language {
+  ## characterizes a single language or sublanguage used within a text. [2.4.2. ]
+  element language {
     macro.phraseSeq.limited,
     att.global.attributes,
     
-    ##  (identifier) 提供一語言代碼，其編碼方式定義在RFC 3066中 (或其系列中)
-    ##           ，用來識別此元素所紀錄的語言，並由全域屬性xml:lang所參照。
+    ##  (identifier) Supplies a language code constructed as defined in BCP 47 which is used to identify the
+    ##         language documented by this element, and which is referenced by the global
+    ##         xml:lang attribute.
     attribute ident { data.language },
     
-    ## 標明該文本使用此語言的大約比例 (以冊計) 。
+    ## specifies the approximate percentage (by volume) of the text which uses this language. 
     attribute usage {
       xsd:nonNegativeInteger { maxInclusive = "100" }
     }?,
@@ -2760,8 +3128,9 @@ language =
   }
 textClass =
   
-  ##  (文件分類) 匯集以標準分類架構、索引典等來描述文件性質或主題的資訊。
-  element ns1:textClass {
+  ##  (text classification) groups information which describes the nature or topic of a text in terms of a standard
+  ##     classification scheme, thesaurus, etc. [2.4.3. ]
+  element textClass {
     (classCode | catRef | keywords)*,
     att.global.attributes,
     att.declarable.attributes,
@@ -2769,69 +3138,103 @@ textClass =
   }
 keywords =
   
-  ## 包含標明文件主題或性質的關鍵詞或字詞列表。
-  element ns1:keywords {
+  ## contains a list of keywords or phrases identifying the topic or nature of a text. [2.4.3. ]
+  element keywords {
     (term+ | \list),
     att.global.attributes,
     
-    ## 標明相關關鍵詞所使用到的詞彙範圍。
+    ## identifies the controlled vocabulary within which the set of keywords concerned is
+    ##         defined. 
     attribute scheme { data.pointer },
     empty
   }
 classCode =
   
-  ##  (classification code) 包含文件在某標準分類系統中所屬的分類代碼。
-  element ns1:classCode {
+  ##  (classification code) contains the classification code used for this text in some standard classification system. [2.4.3. ]
+  element classCode {
     macro.phraseSeq.limited,
     att.global.attributes,
     
-    ## 說明使用中的分類系統或分類法。
+    ## identifies the classification system or taxonomy in use.
     attribute scheme { data.pointer },
     empty
   }
 catRef =
   
-  ##  (類目參照) 標明在某分類法或文件類型學中，一個或多個已定義之類目。
-  element ns1:catRef {
+  ##  (category reference) specifies one or more defined categories within some taxonomy or text typology. [2.4.3. ]
+  element catRef {
     empty,
     att.global.attributes,
     att.pointing.attributes,
     
-    ## 標明該分類架構，其中相關的類目群組已被定義
+    ## identifies the classification scheme within which the set of categories concerned is
+    ##         defined 
     attribute scheme { data.pointer }?,
     empty
   }
+calendarDesc =
+  
+  ##  (calendar description) contains a description of the calendar system used in any
+  ##   dating expression found in the text. [2.4.  2.4.4. ]
+  element calendarDesc { calendar+, att.global.attributes, empty }
+calendar =
+  
+  ## describes a calendar or dating system used in a dating formula in the text. [2.4.4. ]
+  element calendar {
+    model.pLike+, att.global.attributes, att.pointing.attributes, empty
+  }
 revisionDesc =
   
-  ##  (修訂描述) 概述檔案的修訂歷史。
-  element ns1:revisionDesc {
-    (\list | change+),
+  ##  (revision description) summarizes the revision history for a file. [2.5.  2.1.1. ]
+  element revisionDesc {
+    (\list | listChange | change+),
     att.global.attributes,
     att.docStatus.attributes,
     empty
   }
 change =
   
-  ## 概述多位研究者共享的某版本電子文本當中，某特定的內容變更或修正。
-  element ns1:change {
-    (text | model.limitedPhrase | model.inter | model.global)*,
-    att.global.attributes,
+  ## documents a change or set of changes made during the production
+  ##   of a source document, or during the revision of an electronic file. [2.5.  2.4.1. ]
+  element change {
+    macro.specialPara,
     att.ascribed.attributes,
     att.datable.attributes,
     att.docStatus.attributes,
+    att.global.attributes,
+    att.typed.attributes,
+    
+    ## points to one or more elements that belong to this change.
+    attribute target {
+      list { data.pointer, data.pointer* }
+    }?,
+    empty
+  }
+listChange =
+  
+  ## groups a number of change descriptions associated 
+  ## with either the creation of a source text or the revision of an encoded text. 
+  element listChange {
+    (listChange | change)+,
+    att.global.attributes,
+    att.sortable.attributes,
+    
+    ## indicates whether the ordering of its child change
+    ## elements is to be considered significant or not
+    [ a:defaultValue = "true" ] attribute ordered { data.truthValue }?,
     empty
   }
 geoDecl =
   
   ##  (geographic coordinates declaration) documents the notation and the datum used for geographic coordinates expressed as content of
   ##     the geo element elsewhere within the document.
-  element ns1:geoDecl {
+  element geoDecl {
     macro.phraseSeq,
     att.global.attributes,
     att.declarable.attributes,
     
     ## supplies a commonly used code name for the datum employed.
-    ## 被推薦的值包含: 1] WGS84 (World Geodetic System) ; 2] MGRS (Military Grid Reference System) ; 3] OSGB36 (ordnance survey great britain) ; 4] ED50 (European Datum coordinate system) 
+    ## Suggested values include: 1] WGS84 (World Geodetic System) ; 2] MGRS (Military Grid Reference System) ; 3] OSGB36 (ordnance survey great britain) ; 4] ED50 (European Datum coordinate system) 
     [ a:defaultValue = "WGS84" ]
     attribute datum {
       
@@ -2854,8 +3257,10 @@ geoDecl =
   }
 TEI =
   
-  ##  (TEI文件) 包含符合TEI標準的單一文件，由一個TEI標頭及一份文本組成，可單獨出現或是作為元素teiCorpus的一部分。
-  element ns1:TEI {
+  ##  (TEI document) contains a single TEI-conformant document,
+  ## comprising a TEI header and a text, either in isolation or as part of a
+  ## teiCorpus element. [4.  15.1. ]
+  element TEI {
     (teiHeader,
      ((model.resourceLike+, \text?) | \text))
     >> sch:ns [ prefix = "tei" uri = "http://www.tei-c.org/ns/1.0" ]
@@ -2865,14 +3270,16 @@ TEI =
        ],
     att.global.attributes,
     
-    ## TEI架構的版本
+    ## specifies the major version number of the TEI Guidelines against
+    ##       which this document is valid.
     attribute version { data.version }?,
     empty
   }
 \text =
   
-  ## 包含一份任何種類的文本，無論是單一或複合的，例如詩詞或戲劇、散文集、小說、字典、或是文集範例。
-  element ns1:text {
+  ## contains a single text of any kind, whether unitary or composite, for example a poem or
+  ##     drama, a collection of essays, a novel, a dictionary, or a corpus sample. [4.  15.1. ]
+  element text {
     (model.global*,
      (front, model.global*)?,
      (body | group),
@@ -2885,8 +3292,8 @@ TEI =
   }
 body =
   
-  ##  (正文) 單篇文章的整體部分，不包含正文前及正文後資訊。
-  element ns1:body {
+  ##  (text body) contains the whole body of a single unitary text, excluding any front or back matter. [4. ]
+  element body {
     (model.global*,
      (model.divTop, (model.global | model.divTop)*)?,
      (model.divGenLike, (model.global | model.divGenLike)*)?,
@@ -2902,9 +3309,10 @@ body =
   }
 group =
   
-  ## 包含複合文本的正文，所匯集的一連串單一文件 (或文件群組)
-  ##     ，因為某特殊目的被視為一個整體，例如一個作者的作品集合、一連串的散文集等。
-  element ns1:group {
+  ## contains the body of a composite text, grouping together a sequence of distinct texts (or
+  ##     groups of such texts) which are regarded as a unit for some purpose, for example the collected
+  ##     works of an author, a sequence of prose essays, etc. [4.  4.3.1.  15.1. ]
+  element group {
     ((model.divTop | model.global)*,
      ((\text | group), (\text | group | model.global)*),
      model.divBottom*),
@@ -2914,8 +3322,8 @@ group =
   }
 \div =
   
-  ##  (文本區段) 文本的正文前資訊、正文、及正文後資訊的分段。
-  element ns1:div {
+  ##  (text division) contains a subdivision of the front, body, or back of a text. [4.1. ]
+  element div {
     ((model.divTop | model.global)*,
      ((((model.divLike | model.divGenLike), model.global*)+
        | ((model.common, model.global*)+,
@@ -2929,22 +3337,30 @@ group =
   }
 byline =
   
-  ## 包含作品的主要責任陳述，出現在題名頁或作品開頭或結尾處。
-  element ns1:byline {
+  ## contains the primary statement of responsibility given for a work
+  ## on its title page or at the head or end of the work. [4.2.2.  4.5. ]
+  element byline {
     (text | model.gLike | model.phrase | model.global)*,
     att.global.attributes,
     empty
   }
 postscript =
   
-  ## contains a postscript, e.g. to a letter.
-  element ns1:postscript {
-    (model.common | model.global)*, att.global.attributes, empty
+  ## contains a postscript, e.g. to a letter. [4.2. ]
+  element postscript {
+    ((model.global | model.divTopPart)*,
+     model.common,
+     (model.global | model.common)*,
+     (model.divBottomPart, model.global*)*),
+    att.global.attributes,
+    empty
   }
 front =
   
-  ##  (正文前資訊) 包含位於文件最前端、正文之前的項目 (標頭、題名頁、前言、獻詞等) 。 
-  element ns1:front {
+  ##  (front matter) contains any prefatory matter (headers,
+  ## title page, prefaces, dedications, etc.)
+  ## found  at the start of a document, before the main body. [4.6.  4. ]
+  element front {
     ((model.frontPart | model.pLike.front | model.global)*,
      ((model.div1Like,
        (model.frontPart | model.div1Like | model.global)*)
@@ -2957,8 +3373,8 @@ front =
   }
 back =
   
-  ##  (正文後資訊) 在正文之後，包含附錄等。
-  element ns1:back {
+  ##  (back matter) contains any appendixes, etc. following the main part of a text. [4.7.  4. ]
+  element back {
     ((model.frontPart | model.pLike.front | model.global)*,
      ((model.div1Like,
        (model.frontPart | model.div1Like | model.global)*)
@@ -2971,8 +3387,8 @@ back =
   }
 s =
   
-  ##  (句子單元) 包含文字中一個句子組成的區段。
-  element ns1:s {
+  ##  (s-unit) contains a sentence-like division of a text. [17.1.  8.4.1. ]
+  element s {
     macro.phraseSeq
     >> sch:pattern [
          id = "s-constraint-noNestedS"
@@ -3000,8 +3416,8 @@ s =
   }
 w =
   
-  ##  (單字) 表示文法上 (但未必是拼字法上) 定義的單字。
-  element ns1:w {
+  ##  (word) represents a grammatical (not necessarily orthographic) word. [17.1. ]
+  element w {
     (text
      | model.gLike
      | seg
@@ -3015,8 +3431,9 @@ w =
     att.segLike.attributes,
     att.typed.attributes,
     
-    ## 指出在字典中該字的詞條形式。
-    attribute lemma { data.key }?,
+    ## provides a lemma for the word, such as an uninflected
+    ##       dictionary entry form.
+    attribute lemma { data.text }?,
     
     ## provides a pointer to a definition of the lemma for the
     ##       word, for example in an online lexicon. 
@@ -3025,8 +3442,8 @@ w =
   }
 c =
   
-  ##  (文字符號) 表示一個文字符號。
-  element ns1:c {
+  ##  (character) represents a character. [17.1. ]
+  element c {
     macro.xtext,
     att.global.attributes,
     att.segLike.attributes,
@@ -3036,9 +3453,9 @@ c =
 pc =
   
   ##  (punctuation character) a character or string of characters regarded as constituting a
-  ##   single punctuation mark.
-  element ns1:pc {
-    (text | model.gLike | c)*,
+  ##   single punctuation mark. [17.1. ]
+  element pc {
+    (text | model.gLike | c | model.pPart.edit)*,
     att.global.attributes,
     att.segLike.attributes,
     att.typed.attributes,
@@ -3053,8 +3470,7 @@ pc =
         ## the punctuation mark is not a word separator
         "weak"
       | 
-        ## the punctuation mark may or may not be a
-        ## word separator
+        ## the punctuation mark may or may not be a word separator
         "inter"
     }?,
     
@@ -3069,35 +3485,37 @@ pc =
 att.global.analytic.attributes = att.global.analytic.attribute.ana
 att.global.analytic.attribute.ana =
   
-  ##  (analysis) 指出一個或多個元素，其中包含帶有屬性ana的元素解釋。
+  ##  (analysis) indicates one or more elements containing interpretations of the
+  ## element on which the ana attribute appears.
   attribute ana {
     list { data.pointer, data.pointer* }
   }?
 span =
   
-  ## 將詮釋性註釋直接和一段文字段連結。
-  element ns1:span {
+  ## associates an interpretative annotation directly with a span of text. [17.3. ]
+  element span {
     macro.phraseSeq.limited,
     att.global.attributes,
     att.interpLike.attributes,
     
-    ## 指出被註解段落的起點；若沒有使用屬性to，則指出全部段落。
+    ## specifies the beginning of the passage being annotated; if not accompanied by a
+    ##         to attribute, then specifies the entire passage.
     attribute from { data.pointer },
     
-    ## 指出被註解段落的終點。
+    ## specifies the end of the passage being annotated.
     attribute to { data.pointer }?,
     empty
   }
 spanGrp =
   
-  ##  (文字段群組) 匯集文字段標籤。
-  element ns1:spanGrp {
+  ##  (span group) collects together span tags. [17.3. ]
+  element spanGrp {
     span*, att.global.attributes, att.interpLike.attributes, empty
   }
 interp =
   
-  ##  (解釋) 標明和某一文字段相連結的特定解釋性註釋。
-  element ns1:interp {
+  ##  (interpretation) summarizes a specific interpretative annotation which can be linked to a span of text. [17.3. ]
+  element interp {
     (text | model.gLike | model.glossLike)*,
     att.global.attributes,
     att.interpLike.attributes,
@@ -3105,8 +3523,8 @@ interp =
   }
 interpGrp =
   
-  ##  (解釋群組) 匯集一系列具有共同任務或類型的相關解釋。
-  element ns1:interpGrp {
+  ##  (interpretation group) collects together a set of related interpretations which share responsibility or type. [17.3. ]
+  element interpGrp {
     (model.glossLike*, interp+),
     att.global.attributes,
     att.interpLike.attributes,
@@ -3116,7 +3534,7 @@ precision =
   
   ## indicates the numerical accuracy or precision  associated
   ##   with some aspect of the text markup. 
-  element ns1:precision {
+  element precision {
     model.glossLike*,
     att.global.attributes,
     att.scoping.attributes,
@@ -3125,6 +3543,10 @@ precision =
     ##       value between 0 (none) and 1 (optimally precise)
     attribute degree { data.probability }?,
     
+    ## characterizes the precision of the element or attribute pointed 
+    ##         to by the precision element.
+    attribute precision { data.certainty }?,
+    
     ## supplies a standard deviation associated with the value in
     ##       question
     attribute stdDeviation { data.numeric }?,
@@ -3132,13 +3554,22 @@ precision =
   }
 certainty =
   
-  ## 指出標記文本某些部分的確定或不確定的程度。
-  element ns1:certainty {
+  ## indicates the degree of certainty associated
+  ##   with some aspect of the text markup.  [21.1.2. ]
+  element certainty {
     model.glossLike*,
     att.global.attributes,
     att.scoping.attributes,
     
-    ## 指出不確定標記的確切位置：元素的應用性、開始標籤或結束標籤的確切位置、特定屬性的屬性值等。
+    ##  (certainty) signifies the degree of certainty associated with the object pointed to by the certainty element.
+    attribute cert { data.certainty }?,
+    
+    ## indicates more exactly the aspect concerning which
+    ##       certainty is being expressed: specifically, whether the markup
+    ##       is correctly located, whether the correct element or attribute
+    ##       name has been used, or whether the content of the element or
+    ##       attribute is correct,
+    ##	etc.
     attribute locus {
       
       ## uncertainty concerns whether the name of the element
@@ -3162,27 +3593,38 @@ certainty =
         "value"
     },
     
-    ## 提供一個替代屬性值給指定標記部分—一個替代的類目識別符碼、轉錄、或屬性值，或是元素anchor (用來指出一個替代的開始或結束位置) 的識別符碼。若使用屬性assertedValue，則屬性degree中指出的確定程度適用於屬性assertedValue所指明的替代標記；若無使用，則確定程度適用於文本中的標記。
+    ## provides an alternative value for the aspect of the markup in
+    ## question—an alternative generic identifier, transcription,
+    ## or attribute value, or the identifier of an anchor element (to
+    ## indicate an alternative starting or ending location).  If an
+    ## assertedValue is given, the confidence level specified by
+    ## degree applies to the alternative markup specified by
+    ## assertedValue; if none is given, it applies to the markup
+    ## in the text.
     attribute assertedValue { data.pointer | data.name | data.word }?,
     
-    ## 指出在評估確定程度時所設想的情況。
+    ## indicates conditions assumed in the assignment of a degree
+    ##       of confidence.
     attribute given {
       list { data.pointer, data.pointer* }
     }?,
     
-    ## 指出屬性locus所指定的標記部分之確定程度。
+    ## indicates the degree of confidence assigned to the aspect
+    ## of the markup named by the locus attribute.
     attribute degree { data.probability }?,
     empty
   }
 respons =
   
-  ##  (責任) 指出標記一或多個特定元素某部分的負責人。
-  element ns1:respons {
+  ##  (responsibility) identifies the individual(s) responsible for some aspect of the
+  ## markup of particular element(s). [21.3. ]
+  element respons {
     model.glossLike*,
     att.global.attributes,
     att.scoping.attributes,
     
-    ## 指出標記責任所屬的特定部分。
+    ## indicates the specific aspect of the markup for which
+    ## responsibility is being assigned.
     attribute locus {
       list {
         (
@@ -3228,26 +3670,27 @@ respons =
       }
     },
     
-    ##  (responsible party) 指出負責電子文本指定部分的個人或機構。
+    ##  (responsible party) identifies the individual or agency responsible for the indicated
+    ## aspect of the electronic text.
     attribute resp { data.pointer },
     empty
   }
 g =
   
-  ##  (文字或字體) 非標準的文字或字體。
-  element ns1:g {
+  ##  (character or glyph) represents a non-standard character or glyph. [5. ]
+  element g {
     text,
     att.global.attributes,
     att.typed.attributes,
     
-    ## 連結到該文字或字體的描述。
+    ## points to a description of the character or glyph intended.
     attribute ref { data.pointer }?,
     empty
   }
 char =
   
-  ##  (文字) 提供一個文字的描述性資訊。
-  element ns1:char {
+  ##  (character) provides descriptive information about a character. 
+  element char {
     (charName?,
      model.glossLike*,
      charProp*,
@@ -3260,12 +3703,12 @@ char =
   }
 charName =
   
-  ##  (文字名稱) 包含一文字名稱，其表示法根據統一碼協定 (Unicode)。
-  element ns1:charName { text, att.global.attributes, empty }
+  ##  (character name) contains the name of a character, expressed following Unicode conventions. 
+  element charName { text, att.global.attributes, empty }
 charProp =
   
-  ##  (文字性質) 提供父文字或字體的性質名稱與性質值。
-  element ns1:charProp {
+  ##  (character property) provides a name and value for some property of the parent character or glyph. 
+  element charProp {
     ((unicodeName | localName), value),
     att.global.attributes,
     att.typed.attributes,
@@ -3273,16 +3716,16 @@ charProp =
   }
 charDecl =
   
-  ##  (文字描述) 提供文字或字體的描述性資訊。
-  element ns1:charDecl {
+  ##  (character declarations) provides information about nonstandard characters and glyphs. 
+  element charDecl {
     (desc?, (char | glyph)+),
     att.global.attributes,
     empty
   }
 glyph =
   
-  ##  (文字的形體) 提供一種字體的描述性資訊。
-  element ns1:glyph {
+  ##  (character glyph) provides descriptive information about a character glyph. 
+  element glyph {
     (glyphName?,
      model.glossLike*,
      charProp*,
@@ -3295,33 +3738,85 @@ glyph =
   }
 glyphName =
   
-  ##  (字體名稱) 包含一字體名稱，其表示法根據統一碼協定 (Unicode)。
-  element ns1:glyphName { text, att.global.attributes, empty }
+  ##  (character glyph name) contains the name of a glyph, expressed following Unicode conventions for character names. 
+  element glyphName { text, att.global.attributes, empty }
 localName =
   
-  ##  (當地定義的性質名稱) 包含某性質的地方性定義名稱。
-  element ns1:localName { text, att.global.attributes, empty }
+  ##  (locally-defined property name) contains a locally defined name for some property. 
+  element localName { text, att.global.attributes, empty }
 mapping =
   
-  ##  (文字對應) 包含與父文字或字體在某方面有所關聯的一個或多個文字，在屬性type中加以說明。
-  element ns1:mapping {
+  ##  (character mapping) contains one or more
+  ##	 characters which are related to the parent character or glyph
+  ##	 in some respect, as specified by the type
+  ##	 attribute.
+  ##
+  element mapping {
     macro.xtext, att.global.attributes, att.typed.attributes, empty
   }
 unicodeName =
   
-  ##  (統一碼性質名稱) 包含一個統一碼規範性質之註冊名稱。
-  element ns1:unicodeName {
+  ##  (unicode property name) contains the name of a registered Unicode normative or informative property. 
+  element unicodeName {
     text,
     att.global.attributes,
     
-    ## 說明該性質名稱是定義在哪一版本的統一碼標準 (Unicode Standard) 中。
+    ## specifies the version number of the Unicode Standard in which this property name is
+    ##         defined.
     attribute version { data.version }?,
     empty
   }
 value =
   
-  ##  (性質值) 包含一個性質值、屬性值、或其他分析值。
-  element ns1:value { macro.xtext, att.global.attributes, empty }
+  ##  (value) contains a single value for some property, attribute, or other
+  ##   analysis.
+  element value { macro.xtext, att.global.attributes, empty }
+att.datable.custom.attributes =
+  att.datable.custom.attribute.when-custom,
+  att.datable.custom.attribute.notBefore-custom,
+  att.datable.custom.attribute.notAfter-custom,
+  att.datable.custom.attribute.from-custom,
+  att.datable.custom.attribute.to-custom,
+  att.datable.custom.attribute.datingPoint,
+  att.datable.custom.attribute.datingMethod
+att.datable.custom.attribute.when-custom =
+  
+  ## supplies the value of a date or time in some standard form.
+  attribute when-custom {
+    list { data.word, data.word* }
+  }?
+att.datable.custom.attribute.notBefore-custom =
+  
+  ## specifies the earliest possible date for the event in some custom standard form.
+  attribute notBefore-custom {
+    list { data.word, data.word* }
+  }?
+att.datable.custom.attribute.notAfter-custom =
+  
+  ## specifies the latest possible date for the event in some custom standard form.
+  attribute notAfter-custom {
+    list { data.word, data.word* }
+  }?
+att.datable.custom.attribute.from-custom =
+  
+  ## indicates the starting point of the period in some standard form.
+  attribute from-custom {
+    list { data.word, data.word* }
+  }?
+att.datable.custom.attribute.to-custom =
+  
+  ## indicates the ending point of the period in some standard form.
+  attribute to-custom {
+    list { data.word, data.word* }
+  }?
+att.datable.custom.attribute.datingPoint =
+  
+  ## supplies a pointer to some location defining a named point in time with reference to which the datable item is understood to have occurred
+  attribute datingPoint { data.pointer }?
+att.datable.custom.attribute.datingMethod =
+  
+  ## supplies a pointer to a calendarDesc element or other means of interpreting the values of the custom dating attributes.
+  attribute datingMethod { data.pointer }?
 model.persNamePart =
   surname | forename | genName | nameLink | addName | roleName
 model.persNamePart_alternation =
@@ -3336,8 +3831,8 @@ model.persNamePart_sequenceRepeatable =
   surname+, forename+, genName+, nameLink+, addName+, roleName+
 orgName =
   
-  ##  (組織名稱) 包含一個組織名稱。
-  element ns1:orgName {
+  ##  (organization name) contains an organizational name.  [13.2.2. ]
+  element orgName {
     macro.phraseSeq,
     att.global.attributes,
     att.datable.attributes,
@@ -3348,8 +3843,10 @@ orgName =
   }
 persName =
   
-  ##  (個人名稱) 包含一個人名，可能是任何或全部屬於該人物的名字、姓氏、敬稱、或附加名等。
-  element ns1:persName {
+  ##  (personal name) contains a proper noun or proper-noun phrase referring to a
+  ##   person, possibly including one or more of
+  ##   the person's forenames, surnames, honorifics, added names, etc. [13.2.1. ]
+  element persName {
     macro.phraseSeq,
     att.global.attribute.xmlid,
     att.global.attribute.n,
@@ -3375,6 +3872,8 @@ persName =
     attribute ana {
       xsd:string { pattern = "#person" }
     }?,
+    att.global.facs.attributes,
+    att.global.change.attributes,
     att.datable.attributes,
     att.editLike.attributes,
     att.personal.attribute.full,
@@ -3392,8 +3891,8 @@ persName =
   }
 surname =
   
-  ## 包含一個家族姓氏，並非名字、教名、或綽號。
-  element ns1:surname {
+  ## contains a family (inherited) name, as opposed to a given, baptismal, or nick name. [13.2.1. ]
+  element surname {
     macro.phraseSeq,
     att.global.attributes,
     att.personal.attributes,
@@ -3402,8 +3901,8 @@ surname =
   }
 forename =
   
-  ## 包含名字或教名。
-  element ns1:forename {
+  ## contains a forename, given or baptismal name. [13.2.1. ]
+  element forename {
     macro.phraseSeq,
     att.global.attributes,
     att.personal.attributes,
@@ -3412,8 +3911,9 @@ forename =
   }
 genName =
   
-  ## 該名稱用來和其他相似名稱做區別，以個人的相對年紀或隸屬世代作依據。
-  element ns1:genName {
+  ##  (generational name component) contains a name component used to distinguish otherwise similar names on the basis of the relative ages or generations of the persons
+  ##         named. [13.2.1. ]
+  element genName {
     macro.phraseSeq,
     att.global.attributes,
     att.personal.attributes,
@@ -3422,14 +3922,16 @@ genName =
   }
 nameLink =
   
-  ##  (name link) 包含一個名稱中的連結字彙，但不屬於該名稱的一部份，例如 van der 或是 of。
-  element ns1:nameLink {
+  ##  (name link) contains a connecting phrase or link used within a name but not regarded as part of it, such as van der or
+  ##             of. [13.2.1. ]
+  element nameLink {
     macro.phraseSeq, att.global.attributes, att.typed.attributes, empty
   }
 addName =
   
-  ##  (附加名稱) 附加的名稱，例如綽號、稱號、或別名，或是在人名中出現的其他描述性措辭。
-  element ns1:addName {
+  ##  (additional name) contains an additional name component, such as a nickname, epithet, or alias, or any other descriptive phrase used within a personal
+  ##     name. [13.2.1. ]
+  element addName {
     macro.phraseSeq,
     att.global.attributes,
     att.personal.attributes,
@@ -3438,8 +3940,9 @@ addName =
   }
 roleName =
   
-  ## 包含一個身份名稱，代表個人在社會上所扮演的特殊角色或所處地位，例如官方頭銜或地位。
-  element ns1:roleName {
+  ## contains a name component which indicates that the referent has a particular role or position in society, such as an official title or
+  ##         rank. [13.2.1. ]
+  element roleName {
     macro.phraseSeq,
     att.global.attributes,
     att.personal.attributes,
@@ -3448,9 +3951,11 @@ roleName =
   }
 placeName =
   
-  ## 包含一個確切位置或相對位置的名稱。
-  element ns1:placeName {
+  ## contains an absolute or relative place name.  [13.2.3. ]
+  element placeName {
     macro.phraseSeq,
+    att.datable.attributes,
+    att.editLike.attributes,
     att.global.attribute.xmlid,
     att.global.attribute.n,
     att.global.attribute.xmllang,
@@ -3475,6 +3980,8 @@ placeName =
     attribute ana {
       xsd:string { pattern = "#place" }
     }?,
+    att.global.facs.attributes,
+    att.global.change.attributes,
     att.naming.attribute.role,
     att.naming.attribute.nymRef,
     
@@ -3484,14 +3991,13 @@ placeName =
     }?,
     att.canonical.attribute.ref,
     att.typed.attributes,
-    att.datable.attributes,
-    att.editLike.attributes,
     empty
   }
 bloc =
   
-  ##  (bloc) 包含一個地理政治區域名稱，由一個或多個國家所組成。
-  element ns1:bloc {
+  ##  (bloc) contains the name of a geo-political unit consisting of two or more nation states or
+  ##     countries. [13.2.3. ]
+  element bloc {
     macro.phraseSeq,
     att.global.attributes,
     att.naming.attributes,
@@ -3501,8 +4007,9 @@ bloc =
   }
 country =
   
-  ##  (country) 包含一個地理政治區域名稱，例如民族、國家、殖民地、或聯邦區域，範圍大於一般地區或行政地位較高，但小於國家聯盟性的地理政治區。
-  element ns1:country {
+  ##  (country) contains the name of a geo-political unit, such as a nation, country, colony, or
+  ##     commonwealth, larger than or administratively superior to a region and smaller than a bloc. [13.2.3. ]
+  element country {
     macro.phraseSeq,
     att.global.attributes,
     att.naming.attributes,
@@ -3512,8 +4019,9 @@ country =
   }
 region =
   
-  ## 包含行政單位的名稱，例如州、省、或郡，範圍大於主政區，但小於國家。
-  element ns1:region {
+  ## contains the name of an administrative unit such as a state, province, or county, larger
+  ##     than a settlement, but smaller than a country. [13.2.3. ]
+  element region {
     macro.phraseSeq,
     att.global.attributes,
     att.naming.attributes,
@@ -3523,8 +4031,8 @@ region =
   }
 district =
   
-  ## 包含任何次行政區名稱，例如教區、選區、或其他行政或地理單元。
-  element ns1:district {
+  ## contains the name of any kind of subdivision of a settlement, such as a parish, ward, or other administrative or geographic unit. [13.2.3. ]
+  element district {
     macro.phraseSeq,
     att.global.attributes,
     att.naming.attributes,
@@ -3534,8 +4042,8 @@ district =
   }
 settlement =
   
-  ## 包含主行政區的名稱，例如城市、鄉鎮、村莊等單一地理政治或行政單位。
-  element ns1:settlement {
+  ## contains the name of a settlement such as a city, town, or village identified as a single geo-political or administrative unit. [13.2.3. ]
+  element settlement {
     macro.phraseSeq,
     att.global.attributes,
     att.naming.attributes,
@@ -3545,27 +4053,28 @@ settlement =
   }
 offset =
   
-  ## 在時間或空間差距的表示中，該部分指出兩個地名、日期、或時間之間差距的方向性。
-  element ns1:offset {
+  ## that part of a relative temporal or spatial expression which indicates the direction of the offset between the two place names, dates, or
+  ##         times involved in the expression.  [13.2.3. ]
+  element offset {
     macro.xtext, att.global.attributes, att.typed.attributes, empty
   }
 geogName =
   
-  ##  (地理名稱) 與地形名稱結合的地名，例如威拉索溪谷、西奈山等。
-  element ns1:geogName {
+  ##  (geographical name) a name associated with some geographical feature such as Windrush Valley or Mount Sinai. [13.2.3. ]
+  element geogName {
     macro.phraseSeq,
+    att.datable.attributes,
+    att.editLike.attributes,
     att.global.attributes,
     att.naming.attributes,
-    
-    ## 提供該名稱在文化、語言或應用上的分類資訊。
-    attribute type { data.enumerated }?,
+    att.typed.attributes,
     empty
   }
 geogFeat =
   
   ##  (geographical feature name) contains a common noun identifying some geographical feature contained within a geographic
-  ##         name, such as valley, mount, etc.
-  element ns1:geogFeat {
+  ##         name, such as valley, mount, etc. [13.2.3. ]
+  element geogFeat {
     macro.xtext,
     att.global.attributes,
     att.naming.attributes,
@@ -3575,8 +4084,9 @@ geogFeat =
   }
 affiliation =
   
-  ##  (affiliation) 包含非正式性的描述，關於個人現在或過去隸屬的團體，例如雇主或贊助者。
-  element ns1:affiliation {
+  ##  (affiliation) contains an informal description of a person's present or past affiliation with some
+  ##         organization, for example an employer or sponsor. [15.2.2. ]
+  element affiliation {
     macro.phraseSeq,
     att.global.attributes,
     att.editLike.attributes,
@@ -3586,21 +4096,21 @@ affiliation =
   }
 age =
   
-  ##  (age) 標明個人的年齡。
-  element ns1:age {
+  ##  (age) specifies the age of a person.
+  element age {
     macro.phraseSeq.limited,
     att.global.attributes,
     att.editLike.attributes,
     att.datable.attributes,
     
-    ## 提供一個代表該年齡或年齡層的數字代碼
+    ## supplies a numeric code representing the age or age group
     attribute value { data.count }?,
     empty
   }
 birth =
   
-  ##  (birth) 包含個人的出生資訊，例如日期及地點等。
-  element ns1:birth {
+  ##  (birth) contains information about a person's birth, such as its date and place. [15.2.2. ]
+  element birth {
     macro.phraseSeq,
     att.global.attributes,
     att.editLike.attributes,
@@ -3611,7 +4121,7 @@ birth =
 climate =
   
   ##  (climate) contains information about the physical climate of a place.
-  element ns1:climate {
+  element climate {
     (model.headLike*,
      (model.pLike+ | model.labelLike+),
      (model.noteLike | model.biblLike)*,
@@ -3625,8 +4135,8 @@ climate =
   }
 death =
   
-  ##  (death) 包含個人的死亡資訊，例如日期及地點等。
-  element ns1:death {
+  ##  (death) contains information about a person's death, such as its date and place. [15.2.2. ]
+  element death {
     macro.phraseSeq,
     att.global.attributes,
     att.editLike.attributes,
@@ -3636,8 +4146,8 @@ death =
   }
 education =
   
-  ## 包含個人教育經歷的描述。
-  element ns1:education {
+  ## contains a description of the educational experience of a person. [15.2.2. ]
+  element education {
     macro.phraseSeq,
     att.global.attributes,
     att.editLike.attributes,
@@ -3647,8 +4157,8 @@ education =
   }
 event =
   
-  ##  (event) 任何未必是口說的或溝通上的現象或發生情況，例如偶然的噪音或其他影響溝通的事件。
-  element ns1:event {
+  ##  (event) contains data relating to any kind of significant event associated with a person, place, or organization.
+  element event {
     (model.headLike*,
      (model.pLike+ | model.labelLike+),
      (model.noteLike | model.biblLike)*,
@@ -3658,6 +4168,7 @@ event =
     att.editLike.attributes,
     att.typed.attributes,
     att.naming.attributes,
+    att.sortable.attributes,
     
     ## indicates the location of an event by pointing to a place element
     attribute where { data.pointer }?,
@@ -3665,18 +4176,19 @@ event =
   }
 faith =
   
-  ## 標明個人的宗教信仰或其他信念。
-  element ns1:faith {
+  ## specifies the faith, religion, or belief set of a person.
+  element faith {
     macro.phraseSeq,
     att.global.attributes,
     att.editLike.attributes,
     att.datable.attributes,
+    att.canonical.attributes,
     empty
   }
 floruit =
   
-  ## 包含個人活動時期的相關資訊。
-  element ns1:floruit {
+  ## contains information about a person's period of activity.
+  element floruit {
     macro.phraseSeq,
     att.global.attributes,
     att.datable.attributes,
@@ -3687,17 +4199,19 @@ geo =
   
   ##  (geographical coordinates) contains any expression of a set of geographic coordinates, representing a point, line, or area on the surface of the earth in some
   ##         notation.
-  element ns1:geo { text, att.global.attributes, empty }
+  element geo {
+    text, att.global.attributes, att.declaring.attributes, empty
+  }
 langKnowledge =
   
-  ##  (language knowledge) 包含個人的語言認知狀態，可用敘述的方式或元素langKnown的條列形式來表達。
-  element ns1:langKnowledge {
+  ##  (language knowledge) summarizes the state of a person's linguistic knowledge, either as prose or by a list of langKnown elements.
+  element langKnowledge {
     (model.pLike | langKnown+),
     att.global.attributes,
     att.datable.attributes,
     att.editLike.attributes,
     
-    ## 提供一個或多個有效的所指語言標籤
+    ## supplies one or more valid language tags for the languages specified
     attribute tags {
       list { data.language, data.language* }
     }?,
@@ -3705,72 +4219,82 @@ langKnowledge =
   }
 langKnown =
   
-  ##  (語言能力) 個人對於某單一語言的認知狀態。
-  element ns1:langKnown {
+  ##  (language known) summarizes the state of a person's linguistic competence, i.e., knowledge of a single language. [15.2.2. ]
+  element langKnown {
     macro.phraseSeq.limited,
     att.global.attributes,
     att.datable.attributes,
     att.editLike.attributes,
     
-    ## 用有效的語言標籤來表示所指語言。
+    ## supplies a valid language tag for the language concerned.
     attribute tag { data.language },
     
-    ## 用代號來表示個人對該語言的認知程度。
+    ## a code indicating the person's level of knowledge for this language 
     attribute level { data.word }?,
     empty
   }
 listOrg =
   
   ##  (list of organizations) contains a list of elements, each of which provides information about an identifiable
-  ##         organization. 
-  element ns1:listOrg {
-    (model.headLike*, (org | listOrg)+, (relationGrp | relation)*),
+  ##         organization.  [13.2.2. ]
+  element listOrg {
+    (model.headLike*,
+     (org | listOrg)+,
+     (listRelation | relationGrp | relation)*),
     att.global.attributes,
     att.typed.attributes,
     att.declarable.attributes,
+    att.sortable.attributes,
     empty
   }
 listEvent =
   
   ##  (list of events) contains a list of descriptions, each of which provides information
   ##     about an identifiable event. 
-  element ns1:listEvent {
-    (model.headLike*, (event | listEvent)+, (relation | relationGrp)*),
+  element listEvent {
+    (model.headLike*,
+     (event | listEvent)+,
+     (relation | relationGrp | listRelation)*),
     att.global.attributes,
     att.typed.attributes,
     att.declarable.attributes,
+    att.sortable.attributes,
     empty
   }
 listPerson =
   
-  ##  (list of persons) 人物描述清單，其中每個項目包含一個已知人物的相關資料，例如語言互動中的參與者、或是歷史來源中提及的人物。
-  element ns1:listPerson {
+  ##  (list of persons) contains a list of descriptions, each of which provides information about an identifiable
+  ##     person or a group of people, for example the participants in a language interaction, or the
+  ##     people referred to in a historical source.  [15.2.  2.4.  15.3.2. ]
+  element listPerson {
     (model.headLike*,
      (model.personLike | listPerson)+,
-     (relation | relationGrp)*),
+     (relation | listRelation | relationGrp)*),
     att.global.attributes,
     att.typed.attributes,
     att.declarable.attributes,
+    att.sortable.attributes,
     empty
   }
 listPlace =
   
   ##  (list of places) contains a list of places, optionally followed by a list of relationships (other than
   ##         containment) defined amongst them. 
-  element ns1:listPlace {
+  element listPlace {
     (model.headLike*,
      (model.placeLike | listPlace)+,
-     (relationGrp | relation)*),
+     (listRelation | relationGrp | relation)*),
     att.global.attributes,
     att.typed.attributes,
     att.declarable.attributes,
+    att.sortable.attributes,
     empty
   }
 location =
   
-  ## defines the location of a place as a set of geographical coordinates, in terms of a other named geo-political entities, or as an
+  ## defines the location of a place as a set of geographical coordinates, in terms of other named geo-political entities, or as an
   ##         address.
-  element ns1:location {
+  element location {
     (model.labelLike
      | model.placeNamePart
      | model.offsetLike
@@ -3786,8 +4310,8 @@ location =
   }
 nationality =
   
-  ## 包含一非正式的敘述，表示個人現在或過去擁有的國籍或公民身分。
-  element ns1:nationality {
+  ## contains an informal description of a person's present or past nationality or citizenship. [15.2.2. ]
+  element nationality {
     macro.phraseSeq,
     att.global.attributes,
     att.datable.attributes,
@@ -3797,34 +4321,40 @@ nationality =
   }
 occupation =
   
-  ## 包含非正式的敘述，表示個人所從事的行業或所屬的專業。
-  element ns1:occupation {
+  ## contains an informal description of a person's trade, profession or occupation. [15.2.2. ]
+  element occupation {
     macro.phraseSeq,
     att.global.attributes,
     att.datable.attributes,
     att.editLike.attributes,
     att.naming.attributes,
     
-    ## 提供標頭中元素taxonomy的識別符號，來標明所使用的分類系統或分類法。
+    ## identifies the classification system or taxonomy in use by supplying the identifier of a taxonomy element typically but not necessarily elsewhere in the
+    ##                 current document header.
     attribute scheme { data.pointer }?,
     
-    ## 標明分類系統或分類法中所定義的職業代碼，該分類系統或分類法由屬性scheme所定義。
+    ## identifies an occupation code defined within the classification system or taxonomy defined by the scheme
+    ##                 attribute.
     attribute code { data.pointer }?,
     empty
   }
 org =
   
   ##  (organization) provides information about an identifiable organization such as a business, a tribe, or
-  ##         any other grouping of people.
-  element ns1:org {
+  ##         any other grouping of people. [13.2.2. ]
+  element org {
     (model.headLike*,
      (model.pLike*
-      | (model.labelLike | model.nameLike | model.placeLike)*),
+      | (model.labelLike
+         | model.nameLike
+         | model.placeLike
+         | model.orgPart)*),
      (model.noteLike | model.biblLike)*,
      model.personLike*),
     att.global.attributes,
     att.typed.attributes,
     att.editLike.attributes,
+    att.sortable.attributes,
     
     ## specifies a primary role or classification for the organization.
     attribute role {
@@ -3832,52 +4362,68 @@ org =
     }?,
     empty
   }
-relationGrp =
+listRelation =
   
-  ##  (參與者關係) 描述一項語言互動中參與者之間的關係或社交關聯。
-  element ns1:relationGrp {
+  ## provides information about relationships identified amongst people, places, and
+  ##     organizations, either informally as prose or as formally expressed relation links.  [15.2.2. ]
+  element listRelation {
     (model.pLike+ | relation+),
     att.global.attributes,
     att.typed.attributes,
+    att.sortable.attributes,
+    empty
+  }
+relationGrp =
+  
+  ##  (relation group) provides information about relationships identified amongst people, places, and
+  ##     organizations, either informally as prose or as formally expressed relation links.  [15.2.2. ]
+  element relationGrp {
+    (model.pLike+ | relation+),
+    att.global.attributes,
+    att.typed.attributes,
+    att.sortable.attributes,
     empty
   }
 person =
   
-  ## 提供一個已知人物的相關資料，例如語言互動中的參與者、或是歷史來源中提及的人物。
-  element ns1:person {
+  ## provides information about an identifiable individual, for example a participant in a language interaction, or a person referred to in a
+  ##         historical source. [15.2.2. ]
+  element person {
     (model.pLike+ | (model.personPart | model.global)*),
     att.global.attributes,
     att.editLike.attributes,
+    att.sortable.attributes,
     
-    ## 說明該人物的主要角色或分類。
+    ## specifies a primary role or classification for the person.
     attribute role {
       list { data.enumerated, data.enumerated* }
     }?,
     
-    ## 指出該人物的性別。
+    ## specifies the sex of the person.
     attribute sex { data.sex }?,
     
-    ## 指出該人物所屬的年齡層。
+    ## specifies an age group for the person.
     attribute age { data.enumerated }?,
     empty
   }
 personGrp =
   
-  ##  (人物團體) 描述一個為分析目的而被視為單一個人的團體。
-  element ns1:personGrp {
+  ##  (personal group) describes a group of individuals treated as a single person for analytic purposes. [15.2.2. ]
+  element personGrp {
     (model.pLike+ | model.personPart*),
     att.global.attributes,
+    att.sortable.attributes,
     
-    ## 說明該團體在互動中所扮演的角色。
+    ## specifies the role of this group of participants in the interaction.
     attribute role { data.enumerated }?,
     
-    ## 指出該參與團體的性別。
+    ## specifies the sex of the participant group.
     attribute sex { data.sex | "mixed" }?,
     
-    ## 指出該參與者所屬的年齡層。
+    ## specifies the age group of the participants.
     attribute age { data.enumerated }?,
     
-    ## 提供該團體的 (約略) 大小。
+    ## specifies the size or approximate size of the group.
     attribute size {
       list { data.word, data.word* }
     }?,
@@ -3886,12 +4432,11 @@ personGrp =
 place =
   
   ## contains data about a geographic location
-  element ns1:place {
+  element place {
     (model.headLike*,
      (model.pLike*
       | (model.labelLike
          | model.placeStateLike
-         | model.placeTraitLike
          | model.placeEventLike)*),
      (model.noteLike | model.biblLike)*,
      (model.placeLike | listPlace)*),
@@ -3903,12 +4448,13 @@ place =
     att.global.attributes,
     att.typed.attributes,
     att.editLike.attributes,
+    att.sortable.attributes,
     empty
   }
 population =
   
   ## contains information about the population of a place.
-  element ns1:population {
+  element population {
     (model.headLike*,
      ((model.pLike+ | model.labelLike+),
       (model.noteLike | model.biblLike)*)?,
@@ -3922,8 +4468,9 @@ population =
   }
 relation =
   
-  ##  (人際關係) 描述在特定團體中，參與者彼此之間的關係或關聯。
-  element ns1:relation {
+  ##  (relationship) describes any kind of relationship or linkage amongst a
+  ##   specified group of objects, places, events or people. [15.2.2. ]
+  element relation {
     (desc?)
     >> sch:pattern [
          id = "relation-constraint-activemutual"
@@ -3967,28 +4514,29 @@ relation =
     att.global.attributes,
     att.datable.attributes,
     att.editLike.attributes,
-    att.naming.attributes,
+    att.canonical.attributes,
+    att.sortable.attributes,
     
-    ## 將人際關係分類，例如社交、私交、或其他等。
-    ## 被推薦的值包含: 1] social; 2] personal; 3] other
+    ## categorizes the relationship in some respect, e.g. as social, personal or other.
+    ## Suggested values include: 1] social; 2] personal; 3] other
     [ a:defaultValue = "personal" ]
     attribute type {
       
-      ## 社交生活上的關係
+      ## relationship concerned with social roles
       "social"
       | 
-        ## 私人生活上的關係，例如親屬、婚姻關係等
+        ## relationship concerned with personal roles, e.g. kinship, marriage, etc.
         "personal"
       | 
-        ## 其他關係
+        ## other kinds of relationship
         "other"
       | xsd:Name
     }?,
     
-    ## 提供該關係的確切名稱。
+    ## supplies a name for the kind of relationship of which this is an instance.
     attribute name { data.enumerated },
     
-    ## 指出非對等關係中的被動關係人。
+    ## identifies the passive participants in a non-mutual relationship.
     attribute passive {
       list { data.pointer, data.pointer* }
     }?,
@@ -4007,8 +4555,8 @@ relation =
   }
 residence =
   
-  ##  (住所) 描述個人過去或現在的住所。
-  element ns1:residence {
+  ##  (residence) describes a person's present or past places of residence. [15.2.2. ]
+  element residence {
     macro.phraseSeq,
     att.global.attributes,
     att.datable.attributes,
@@ -4018,8 +4566,8 @@ residence =
   }
 sex =
   
-  ## 指明個人性別。
-  element ns1:sex {
+  ## specifies the sex of a person.
+  element sex {
     macro.phraseSeq,
     att.global.attributes,
     att.editLike.attributes,
@@ -4031,25 +4579,25 @@ sex =
   }
 socecStatus =
   
-  ##  (社會經濟地位) 包含個人的社會或經濟地位的非正式描述。
-  element ns1:socecStatus {
+  ##  (socio-economic status) contains an informal description of a person's perceived social or economic status. [15.2.2. ]
+  element socecStatus {
     macro.phraseSeq,
     att.global.attributes,
     att.datable.attributes,
     att.editLike.attributes,
     att.naming.attributes,
     
-    ## 指出所使用的分類系統或分類法。
+    ## identifies the classification system or taxonomy in use.
     attribute scheme { data.pointer }?,
     
-    ## 所標明的地位代號被定義在由屬性source所規定的分類系統或分類法當中。 
+    ## identifies a status code defined within the classification system or taxonomy defined by the source attribute.
     attribute code { data.pointer }?,
     empty
   }
 state =
   
-  ## 標明分界方法所定義的權威參照標準裡其中ㄧ個組件。
-  element ns1:state {
+  ## contains a description of some status or quality attributed to a person, place, or organization often at some specific time or for a specific date range.
+  element state {
     (state+
      | (model.headLike*,
         model.pLike+,
@@ -4065,7 +4613,7 @@ state =
 terrain =
   
   ## contains information about the physical terrain of a place.
-  element ns1:terrain {
+  element terrain {
     (model.headLike*,
      (model.pLike+ | model.labelLike+),
      (model.noteLike | model.biblLike)*,
@@ -4079,8 +4627,9 @@ terrain =
   }
 trait =
   
-  ## contains a description of some culturally-determined and in principle unchanging characteristic attributed to a person or place.
-  element ns1:trait {
+  ## contains a description of some status or quality attributed to a person, place, or organization typically, but not necessarily, 
+  ##     independent of the volition or action of the holder and usually not at some specific time or for a specific date range.
+  element trait {
     (trait+
      | (model.headLike*,
         model.pLike+,
@@ -4095,13 +4644,14 @@ trait =
   }
 nym =
   
-  ##  (canonical name) 包含一標準名稱或任何部分名稱的定義。
-  element ns1:nym {
+  ##  (canonical name) contains the definition for a canonical name or name component of any kind. [13.3.5. ]
+  element nym {
     (model.entryPart*, model.pLike*, nym*),
     att.global.attributes,
     att.typed.attributes,
+    att.sortable.attributes,
     
-    ## 連結到組成的正式名稱
+    ## points to constituent nyms 
     attribute parts {
       list {
         data.pointer,
@@ -4210,12 +4760,15 @@ nym =
   }
 listNym =
   
-  ##  (list of canonical names) 包含一正式名稱列表，即任何事物的標準名稱。
-  element ns1:listNym {
-    (model.headLike*, (nym | listNym)+, (relationGrp | relation)*),
+  ##  (list of canonical names) contains a list of nyms, that is, standardized names for any thing.  [13.3.5. ]
+  element listNym {
+    (model.headLike*,
+     (nym | listNym)+,
+     (listRelation | relationGrp | relation)*),
     att.global.attributes,
     att.typed.attributes,
     att.declarable.attributes,
+    att.sortable.attributes,
     empty
   }
 att.datable.iso.attributes =
@@ -4230,30 +4783,31 @@ att.datable.iso.attribute.when-iso =
   attribute when-iso { data.temporal.iso }?
 att.datable.iso.attribute.notBefore-iso =
   
-  ## 以標準格式標明該事件可能發生的最早日期，例如年-月-日。
+  ## specifies the earliest possible date for the event in standard form, e.g. yyyy-mm-dd.
   attribute notBefore-iso { data.temporal.iso }?
 att.datable.iso.attribute.notAfter-iso =
   
-  ## 以標準格式標明該事件可能發生的最晚日期，例如年-月-日。
+  ## specifies the latest possible date for the event in standard form, e.g. yyyy-mm-dd.
   attribute notAfter-iso { data.temporal.iso }?
 att.datable.iso.attribute.from-iso =
   
-  ## 以標準格式表示該段時間的起始點。
+  ## indicates the starting point of the period in standard form.
   attribute from-iso { data.temporal.iso }?
 att.datable.iso.attribute.to-iso =
   
-  ## 以標準格式表示該段時間的結束點。
+  ## indicates the ending point of the period in standard form.
   attribute to-iso { data.temporal.iso }?
 att.duration.iso.attributes = att.duration.iso.attribute.dur-iso
 att.duration.iso.attribute.dur-iso =
   
-  ##  (時間長度) 指出此元素的時間長度。
+  ##  (duration) indicates the length of this element in time.
   attribute dur-iso { data.duration.iso }?
 model.rdgLike = rdg
 app =
   
-  ##  (學術編輯註解項目) 一項學術編輯註解，內含一個不必備主題以及至少一個對應本。
-  element ns1:app {
+  ##  (apparatus entry) contains one entry in a critical apparatus, with an optional
+  ## lemma and at least one reading. [12.1.1. ]
+  element app {
     (model.global*,
      (lem, model.global*, (wit, model.global*)?)?,
      ((model.rdgLike, model.global*, (wit, model.global*)?)
@@ -4278,19 +4832,43 @@ app =
          ]
          "\x{a}" ~
          "         "
+       ]
+    >> sch:pattern [
+         id = "app-constraint-atleast1rdg"
+         "\x{a}" ~
+         "            "
+         sch:rule [
+           context = "tei:app"
+           "\x{a}" ~
+           "               "
+           sch:assert [
+             test =
+               "count(descendant::tei:rdg[generate-id(current() ) = generate-id(ancestor::tei:app[1])]) > 0"
+             "An <app> \x{a}" ~
+             "        must contain at least one <rdg> element."
+           ]
+           "\x{a}" ~
+           "            "
+         ]
+         "\x{a}" ~
+         "         "
        ],
     att.global.attributes,
     
-    ## 利用合適的分類法將此元素所標記的變異分類。
+    ## classifies the variation contained in this element according to
+    ## some convenient typology.
     attribute type { data.enumerated }?,
     
-    ## 必要情況下，指出基礎文件中該主題的開端。
+    ## identifies the beginning of the lemma in the base text, if
+    ## necessary.
     attribute from { data.pointer }?,
     
-    ## 必要情況下，指出基礎文件中該主題的結尾。
+    ## identifies the endpoint of the lemma in the base text, if
+    ## necessary.
     attribute to { data.pointer }?,
     
-    ##  (location) 使用學術編輯註解標記的位置參照辦法時，指出變異的位置。
+    ##  (location) indicates the location of the variation, when the
+    ## location-referenced method of apparatus markup is used.
     attribute loc {
       list { data.word, data.word* }
     }?,
@@ -4298,8 +4876,8 @@ app =
   }
 lem =
   
-  ##  (主題) 包含一個原文變異的主題或基礎文件。
-  element ns1:lem {
+  ##  (lemma) contains the lemma, or base text, of a textual variation. [12.1. ]
+  element lem {
     (text
      | model.gLike
      | model.phrase
@@ -4308,12 +4886,13 @@ lem =
      | model.rdgPart)*,
     att.global.attributes,
     att.textCritical.attributes,
+    att.witnessed.attributes,
     empty
   }
 rdg =
   
-  ##  (對應本) 包含原文變異中的一個對應本。
-  element ns1:rdg {
+  ##  (reading) contains a single reading within a textual variation. [12.1. ]
+  element rdg {
     (text
      | model.gLike
      | model.phrase
@@ -4322,12 +4901,15 @@ rdg =
      | model.rdgPart)*,
     att.global.attributes,
     att.textCritical.attributes,
+    att.witnessed.attributes,
     empty
   }
 rdgGrp =
   
-  ##  (對應本群組) 原文變異中，匯集兩個或多個認為具有根源關係或於其他方面性質類似的對應本。
-  element ns1:rdgGrp {
+  ##  (reading group) within a textual variation,
+  ## groups two or more readings perceived to have a genetic
+  ## relationship or other affinity. [12.1. ]
+  element rdgGrp {
     ((rdgGrp, wit?)
      | ((lem, wit?)?, (model.rdgLike, wit?))*)+,
     att.global.attributes,
@@ -4336,27 +4918,30 @@ rdgGrp =
   }
 witDetail =
   
-  ## 進一步提供一個特殊對應本的特殊版本資訊。
-  element ns1:witDetail {
+  ##  (witness detail) gives further information about a particular witness, or
+  ## witnesses, to a particular reading. [12.1. ]
+  element witDetail {
     macro.phraseSeq,
     att.global.attributes,
     att.placement.attributes,
     att.responsibility.attributes,
     att.pointing.attributes,
     
-    ##  (witnesses) 標明細節資訊所指版本的一個或多個印記。
+    ##  (witnesses) indicates the sigil or sigla for the witnesses to which the
+    ## detail refers.
     attribute wit {
       list { data.pointer, data.pointer* }
     },
     
-    ## 版本的資訊種類。
+    ## describes the type of information given about the witness.
     attribute type { data.enumerated }?,
     empty
   }
 wit =
   
-  ## 原文變異中，表明已知對應本版本的一個或多個印記的列表。
-  element ns1:wit {
+  ## contains a list of one or more sigla of witnesses attesting a
+  ## given reading, in a textual variation. [12.1.4. ]
+  element wit {
     macro.phraseSeq,
     att.global.attributes,
     att.rdgPart.attributes,
@@ -4365,69 +4950,84 @@ wit =
 listWit =
   
   ##  (witness list) lists definitions for all the witnesses referred to by a critical
-  ##   apparatus, optionally grouped hierarchically.
-  element ns1:listWit {
+  ##   apparatus, optionally grouped hierarchically. [12.1. ]
+  element listWit {
     (model.headLike?, (witness | listWit)+),
     att.global.attributes,
+    att.sortable.attributes,
     empty
   }
 witness =
   
-  ## 包含學術編輯註解中所指的單一版本描述，或由一個印記所參照的版本列表。
-  element ns1:witness {
-    macro.limitedContent, att.global.attributes, empty
+  ## contains either a description of a single witness referred to
+  ## within the critical apparatus, or a list of witnesses which is to be
+  ## referred to by a single sigil. [12.1. ]
+  element witness {
+    macro.limitedContent,
+    att.global.attributes,
+    att.sortable.attributes,
+    empty
   }
 witStart =
   
-  ## 指明零散版本文字的開端或重新開始。
-  element ns1:witStart {
+  ##  (fragmented witness start) indicates the beginning, or resumption, of the text of a
+  ## fragmentary witness. [12.1.5. ]
+  element witStart {
     empty, att.global.attributes, att.rdgPart.attributes, empty
   }
 witEnd =
   
-  ## 指明零散版本文字的結尾或中止。
-  element ns1:witEnd {
+  ##  (fragmented witness end) indicates the end, or suspension, of the text of a fragmentary
+  ## witness. [12.1.5. ]
+  element witEnd {
     empty, att.global.attributes, att.rdgPart.attributes, empty
   }
 lacunaStart =
   
-  ## 指出於大致完整的文字版本中，一個缺文的開始。
-  element ns1:lacunaStart {
+  ## indicates the beginning of a lacuna in the text of a mostly
+  ## complete textual witness. [12.1.5. ]
+  element lacunaStart {
     empty, att.global.attributes, att.rdgPart.attributes, empty
   }
 lacunaEnd =
   
-  ## 指出於大致完整的文字版本中，一個缺文的結束。
-  element ns1:lacunaEnd {
+  ## indicates the end of a lacuna in a mostly complete textual
+  ## witness. [12.1.5. ]
+  element lacunaEnd {
     empty, att.global.attributes, att.rdgPart.attributes, empty
   }
 variantEncoding =
   
-  ## 宣告在標記不同版本中的變異字體時所使用的方法。
-  element ns1:variantEncoding {
+  ## declares the method used to encode text-critical variants. [12.1.1. ]
+  element variantEncoding {
     empty,
     att.global.attributes,
     
-    ## 指明標記變異的學術編輯註解時所使用的方法。
+    ## indicates which method is used to encode the apparatus of
+    ## variants.
     attribute method {
       
-      ## 學術編輯註解使用基礎文件中被參照的行數或其他標準參照架構。
+      ## apparatus uses line numbers or other canonical reference scheme
+      ## referenced in a base text.
       "location-referenced"
       | 
-        ## 學術編輯註解指出與基礎文件相關的各主題起始與結束的確切位置
+        ## apparatus indicates the precise locations of the beginning and
+        ## ending of each lemma relative to a base text.
         "double-end-point"
       | 
-        ## 文件中一個段落的多個替代讀本以平行方式呈現；不需要基礎文件
+        ## alternate readings of a passage are given in parallel in the
+        ## text; no notion of a base text is necessary.
         "parallel-segmentation"
     },
     
-    ## 指出該學術編輯註解出現在連續文字內部或其外部。
+    ## indicates whether the apparatus appears within the running text
+    ## or external to it.
     attribute location {
       
-      ## 學術編輯註解出現在連續文字內部
+      ## apparatus appears within the running text.
       "internal"
       | 
-        ## 學術編輯註解出現在基礎文件外部
+        ## apparatus appears outside the base text.
         "external"
     },
     empty
@@ -4436,45 +5036,51 @@ model.rdgPart = wit | witStart | witEnd | lacunaStart | lacunaEnd
 att.rdgPart.attributes = att.rdgPart.attribute.wit
 att.rdgPart.attribute.wit =
   
-  ##  (witness or witnesses) 一個或多個印記列表，指出於此處開始或結束的版本。
+  ##  (witness or witnesses) contains a list of one or more sigla indicating the witnesses
+  ## which begin or end at this point.
+  attribute wit {
+    list { data.pointer, data.pointer* }
+  }?
+att.witnessed.attributes = att.witnessed.attribute.wit
+att.witnessed.attribute.wit =
+  
+  ##  (witness or witnesses) contains a list of one or more pointers indicating the witnesses
+  ## which attest to a given reading.
   attribute wit {
     list { data.pointer, data.pointer* }
   }?
 att.textCritical.attributes =
   att.responsibility.attributes,
-  att.textCritical.attribute.wit,
   att.textCritical.attribute.type,
   att.textCritical.attribute.cause,
   att.textCritical.attribute.varSeq,
   att.textCritical.attribute.hand
-att.textCritical.attribute.wit =
-  
-  ##  (witness or witnesses) 包含一個或多個指標的一份列表，連結到已知對應本的版本。
-  attribute wit {
-    list { data.pointer, data.pointer* }
-  }?
 att.textCritical.attribute.type =
   
-  ## 用合宜的分類法將對應本分類。
-  ## 實例值包含: 1] substantive; 2] orthographic
+  ## classifies the reading according to some useful typology.
+  ## Sample values include: 1] substantive; 2] orthographic
   attribute type { data.enumerated }?
 att.textCritical.attribute.cause =
   
-  ## 利用可能來源的任何適當分類法，將變異對應本的產生原因分類。
-  ## 實例值包含: 1] homeoteleuton; 2] homeoarchy; 3] paleographicConfusion; 4] haplography; 5] dittography; 6] falseEmendation
+  ## classifies the cause for the variant reading, according to
+  ## any appropriate typology of possible origins.
+  ## Sample values include: 1] homeoteleuton; 2] homeoarchy; 3] paleographicConfusion; 4] haplography; 5] dittography; 6] falseEmendation
   attribute cause { data.enumerated }?
 att.textCritical.attribute.varSeq =
   
-  ##  (variant sequence) 當有理由假設任一主題的一系列變異對應本時，則提供一個數字，指出此對應本於連續系列中的位置。
+  ##  (variant sequence) provides a number indicating the position of this reading in a
+  ## sequence, when there is reason to presume a sequence to the variants
+  ## on any one lemma.
   attribute varSeq { data.count }?
 att.textCritical.attribute.hand =
   
-  ## 指出該版本中特定對應本的負責人。
+  ## signifies the hand responsible for a particular reading in the
+  ## witness.
   attribute hand { data.pointer }?
 link =
   
-  ## 定義元素或段落之間的關連或超文字連結，其他元素無法將此連結類型作更詳細說明。
-  element ns1:link {
+  ## defines an association or hypertextual link among elements or passages, of some type not more precisely specifiable by other elements. [16.1. ]
+  element link {
     empty
     >> sch:pattern [
          id = "link-constraint-linkTargets1"
@@ -4537,7 +5143,7 @@ link =
     att.pointing.attributes,
     att.typed.attributes,
     
-    ## 標明被連結元素或段落的識別符碼。
+    ## specifies the identifiers of the elements or passages to be linked or associated. 
     attribute targets {
       list { data.pointer, data.pointer, data.pointer* }
     }?,
@@ -4545,8 +5151,8 @@ link =
   }
 linkGrp =
   
-  ## 定義一群關連或超文字連結的集合。
-  element ns1:linkGrp {
+  ##  (link group) defines a collection of associations or hypertextual links. [16.1. ]
+  element linkGrp {
     (link | ptr | note)+,
     att.global.attributes,
     att.pointing.group.attributes,
@@ -4554,44 +5160,44 @@ linkGrp =
   }
 ab =
   
-  ##  (匿名區塊) 包含文件中任何隨機組合性層次的單元，匿名收容類似一個段落、但不包含段落語義的字詞或中間層元素。
-  element ns1:ab {
+  ##  (anonymous block) contains any arbitrary component-level unit of text, acting as an anonymous container for phrase or inter level elements analogous to, but without the semantic baggage of, a paragraph. [16.3. ]
+  element ab {
     macro.paraContent,
     att.global.attributes,
     att.typed.attributes,
     att.declaring.attributes,
     
-    ## 標明區塊是否完全。
+    ## specifies whether or not the block is complete. 
     [ a:defaultValue = "N" ]
     attribute part {
       
-      ##  (yes) 區塊不完全
+      ##  (yes) the block is incomplete
       "Y"
       | 
-        ##  (no) 區塊完全，或完全程度不明
+        ##  (no) either the block is complete, or no claim is made as to its completeness
         "N"
       | 
-        ##  (initial) 不完全區塊的起始部分
+        ##  (initial) the initial part of an incomplete block
         "I"
       | 
-        ##  (medial) 不完全區塊的中段部分
+        ##  (medial) a medial part of an incomplete block
         "M"
       | 
-        ##  (final) 不完全區塊的末端部分
+        ##  (final) the final part of an incomplete block
         "F"
     }?,
     empty
   }
 anchor =
   
-  ##  (錨點) 在文件中某一位置附上識別符碼，無論該位置是否符合一個文字性元素。
-  element ns1:anchor {
+  ##  (anchor point) attaches an identifier to a point within a text, whether or not it corresponds with a textual element. [8.4.2.  16.4. ]
+  element anchor {
     empty, att.global.attributes, att.typed.attributes, empty
   }
 seg =
   
-  ##  (隨機分割) 包含文件中任何隨機字詞層次的單元 (包括其他分割元素)。
-  element ns1:seg {
+  ##  (arbitrary segment) represents any segmentation of text below the chunk level. [16.3.  6.2.  7.2.5. ]
+  element seg {
     macro.paraContent,
     att.global.attributes,
     att.segLike.attributes,
@@ -4601,16 +5207,16 @@ seg =
   }
 when =
   
-  ## 指出一個時間點，相對或絕對於同一時間進程標籤裡的其他元素。
-  element ns1:when {
+  ## indicates a point in time either relative to other elements in the same timeline tag, or absolutely. [16.5.2. ]
+  element when {
     empty,
     att.global.attributes,
     
-    ## 提供一個絕對時間值。
+    ## supplies an absolute value for the time.
     attribute absolute { data.temporal.w3c }?,
     
-    ## 若未由父元素timeLine得到時間單位資訊，則在此指明屬性interval所使用的時間單位。
-    ## 被推薦的值包含: 1] d (days) ; 2] h (hours) ; 3] min (minutes) ; 4] s (seconds) ; 5] ms (milliseconds) 
+    ## specifies the unit of time in which the interval value is expressed, if this is not inherited from the parent timeline.
+    ## Suggested values include: 1] d (days) ; 2] h (hours) ; 3] min (minutes) ; 4] s (seconds) ; 5] ms (milliseconds) 
     attribute unit {
       
       ##  (days) 
@@ -4630,28 +5236,28 @@ when =
       | xsd:Name
     }?,
     
-    ## 指明時間區段中的數值部份
+    ## specifies the numeric portion of a time interval
     attribute interval {
       xsd:float { minExclusive = "0" }
       | "unknown"
     }?,
     
-    ## 指出一個參照點，用以確定現有元素when的時間，可於參照點的時間內加入區段而取得。
+    ## identifies the reference point for determining the time of the current when element, which is obtained by adding the interval to the time of the reference point.
     attribute since { data.pointer }?,
     empty
   }
 timeline =
   
-  ##  (時間進程) 提供一組整齊的時間順序點，可與口說文本的元素相連結，以建立該文本的時間組序。
-  element ns1:timeline {
+  ##  (timeline) provides a set of ordered points in time which can be linked to elements of a spoken text to create a temporal alignment of that text. [16.5.2. ]
+  element timeline {
     when+,
     att.global.attributes,
     
-    ## 標出時間進程的開頭，例如開始時間。
+    ## designates the origin of the timeline, i.e. the time at which it begins.
     attribute origin { data.pointer }?,
     
-    ## 指出符合時間進程屬性interval的屬性值或是符合其接續時間點的時間單位。
-    ## 被推薦的值包含: 1] d (days) ; 2] h (hours) ; 3] min (minutes) ; 4] s (seconds) ; 5] ms (milliseconds) 
+    ## specifies the unit of time corresponding to the interval value of the timeline or of its constituent points in time.
+    ## Suggested values include: 1] d (days) ; 2] h (hours) ; 3] min (minutes) ; 4] s (seconds) ; 5] ms (milliseconds) 
     attribute unit {
       
       ##  (days) 
@@ -4671,7 +5277,7 @@ timeline =
       | xsd:Name
     }?,
     
-    ## 指明時間區段中的數值部份
+    ## specifies the numeric portion of a time interval
     attribute interval {
       xsd:float { minExclusive = "0" }
       | "regular"
@@ -4681,8 +5287,8 @@ timeline =
   }
 join =
   
-  ## 標明文本中可能的不完整分割，指向構成此不完整分割的可能不連接元素。
-  element ns1:join {
+  ## identifies a possibly fragmented segment of text, by pointing at the possibly discontiguous elements which compose it. [16.7. ]
+  element join {
     (model.glossLike*)
     >> sch:pattern [
          id = "join-constraint-joinTargets1"
@@ -4745,35 +5351,35 @@ join =
     att.pointing.attributes,
     att.typed.attributes,
     
-    ## 標明與一個虛擬元素相連結的元素或段落識別符碼。
+    ## specifies the identifiers of the elements or passages to be joined into a virtual element.
     attribute targets {
       list { data.pointer, data.pointer, data.pointer* }
     }?,
     
-    ## 指出一個推斷該元素集合所代表的元素名稱。
+    ## specifies the name of an element which this aggregation may be understood to represent.
     attribute result { data.name }?,
     
-    ## 指出被連結的目標是否包含所指元素的完整部份 (完整樹狀圖包含根節點) ，或僅包含該目標的子元素 (樹狀分支部份) 。
+    ## indicates whether the targets to be joined include the entire element indicated (the entire subtree including its root), or just the children of the target (the branches of the subtree).
     [ a:defaultValue = "root" ]
     attribute scope {
       
-      ## 由屬性target所指明、具根節點的樹狀圖彼此連結，每個樹狀圖成為該連結所產生之虛擬元素的子元素。
+      ## the rooted subtrees indicated by the targets attribute are joined, each subtree become a child of the virtual element created by the join
       "root"
       | 
-        ## 由屬性target所指明的樹狀圖的子元素成為虛擬元素的子元素 (例如捨去樹狀圖的根節點) 。
+        ## the children of the subtrees indicated by the targets attribute become the children of the virtual element (i.e. the roots of the subtrees are discarded)
         "branches"
     }?,
     empty
   }
 joinGrp =
   
-  ##  (連結群組) 匯集一群連結元素與可能指標。
-  element ns1:joinGrp {
+  ##  (join group) groups a collection of join elements and possibly pointers. [16.7. ]
+  element joinGrp {
     (model.glossLike*, (join | ptr)+),
     att.global.attributes,
     att.pointing.group.attributes,
     
-    ## 描述此集合中匯集的連結結果。
+    ## describes the result of the joins gathered in this collection.
     attribute result { data.name }?,
     empty
   }
@@ -4788,48 +5394,60 @@ att.global.linking.attributes =
   att.global.linking.attribute.select
 att.global.linking.attribute.corresp =
   
-  ##  (corresponds) 連結到的元素在某方面符合現有元素。
+  ##  (corresponds) points to elements that correspond to the current
+  ##       element in some way.
   attribute corresp {
     list { data.pointer, data.pointer* }
   }?
 att.global.linking.attribute.synch =
   
-  ##  (synchronous) 連結到的元素和現有元素同時出現。
+  ##  (synchronous) points to elements that are synchronous with the current
+  ##       element.
   attribute synch {
     list { data.pointer, data.pointer* }
   }?
 att.global.linking.attribute.sameAs =
   
-  ## 連結到的元素和現有元素相同。
+  ## points to an element that is the same as the current
+  ##       element.
   attribute sameAs { data.pointer }?
 att.global.linking.attribute.copyOf =
   
-  ## 現有元素為所連結元素的複製本。
+  ## points to an element of which the current element is a
+  ##	copy.
   attribute copyOf { data.pointer }?
 att.global.linking.attribute.next =
   
-  ## 連結到現有元素所屬虛擬集合中的下一個元素。
+  ## points to the next element of a virtual aggregate of which
+  ##       the current element is part.
   attribute next { data.pointer }?
 att.global.linking.attribute.prev =
   
-  ##  (previous) 連結到現有元素所屬虛擬集合中的上一個元素。
+  ##  (previous) points to the previous element of a virtual aggregate of
+  ##       which the current element is part.
   attribute prev { data.pointer }?
 att.global.linking.attribute.exclude =
   
-  ## 連結到的元素是現有元素的專有替換元素。
+  ## points to elements that are in exclusive alternation
+  ##       with the current element.
   attribute exclude {
     list { data.pointer, data.pointer* }
   }?
 att.global.linking.attribute.select =
   
-  ## 選擇一個或多個替換；若選擇一個替換，則疑惑或不明確被標記為已解決。若選擇的替換多於一個，則疑惑或不明確的程度因為未選擇的替換而被標記為減低。
+  ## selects one or more alternants; if one alternant is
+  ##       selected, the ambiguity or uncertainty is marked as resolved. If
+  ##       more than one alternant is selected, the degree of ambiguity or
+  ##       uncertainty is marked as reduced by the number of alternants not
+  ##       selected.
   attribute select {
     list { data.pointer, data.pointer* }
   }?
 textDesc =
   
-  ##  (文本描述) 提供文本在情境特徵方面的相關描述。
-  element ns1:textDesc {
+  ##  (text description) provides a description of a text in terms of its
+  ## situational parameters. [15.2.1. ]
+  element textDesc {
     (model.textDescPart_sequence, purpose+),
     att.global.attributes,
     att.declarable.attributes,
@@ -4837,17 +5455,20 @@ textDesc =
   }
 particDesc =
   
-  ##  (參與描述) 描述在一個語言互動中可辨識的說話者、聲音或其他參與者。
-  element ns1:particDesc {
-    (model.pLike+ | (model.personLike | listPerson)+),
+  ##  (participation description) describes the identifiable speakers, voices, or other participants
+  ## in any kind of text.  [15.2. ]
+  element particDesc {
+    (model.pLike+ | (model.personLike | listPerson | listOrg)+),
     att.global.attributes,
     att.declarable.attributes,
     empty
   }
 settingDesc =
   
-  ##  (背景描述) 描述語言互動所發生的一個或多個背景，可用一段散文描述或是一系列的背景元素來表達。
-  element ns1:settingDesc {
+  ##  (setting description) describes the setting or settings within which a language
+  ## interaction takes place, either as a prose description or as a
+  ## series of setting elements. [15.2.  2.4. ]
+  element settingDesc {
     (model.pLike+ | (setting | model.placeLike | listPlace)+),
     att.global.attributes,
     att.declarable.attributes,
@@ -4855,12 +5476,16 @@ settingDesc =
   }
 channel =
   
-  ##  (主要途徑) 描述文本傳達的媒介或途徑。書面文本的途徑可能是印製、手稿、寫本、電子郵件等；口說文本則有廣播、電話、面對面交談等。
-  element ns1:channel {
+  ##  (primary channel) describes the medium or channel by which a text is delivered or
+  ## experienced. For a written text, this might be print, manuscript, e-mail, etc.;
+  ## for a spoken one, radio, telephone, face-to-face, etc. [15.2.1. ]
+  element channel {
     macro.phraseSeq.limited,
     att.global.attributes,
     
-    ## 說明該途徑為口說或書面模式。
+    ## specifies the mode of this channel with respect to speech and
+    ##          writing.
+    ##    
     [ a:defaultValue = "x" ]
     attribute mode {
       
@@ -4870,10 +5495,10 @@ channel =
         ##  (written) 
         "w"
       | 
-        ##  (spoken to be written) 為寫而說 (例如聽寫) 　
+        ##  (spoken to be written) e.g. dictation
         "sw"
       | 
-        ##  (written to be spoken) 為說而寫 (例如稿子) 　
+        ##  (written to be spoken) e.g. a script
         "ws"
       | 
         ##  (mixed) 
@@ -4886,135 +5511,166 @@ channel =
   }
 constitution =
   
-  ## 描述文本或文本樣本的內部結構，例如零碎的或完整的結構。
-  element ns1:constitution {
+  ## describes the internal composition of a text or text sample,
+  ## for example
+  ## as fragmentary, complete, etc. [15.2.1. ]
+  element constitution {
     macro.phraseSeq.limited,
     att.global.attributes,
     
-    ## 說明文本構成方式。
+    ## specifies how the text was constituted.
+    ##    
     [ a:defaultValue = "single" ]
     attribute type {
       
-      ## 單一完整的文本
+      ## a single complete text
+      ##     
       "single"
       | 
-        ## 文本由許多小項目所組成，每個個別項目都是完整的
+        ## a text made by combining several smaller
+        ##              items, each individually complete
+        ##     
         "composite"
       | 
-        ##  (fragments) 文本由許多小項目所組成，每個項目不一定完整
+        ##  (fragments) a text made by combining several smaller, not
+        ##              necessarily complete, items
+        ##     
         "frags"
       | 
-        ## 文本結構未知或未加以說明
+        ## composition unknown or unspecified
+        ##    
         "unknown"
     }?,
     empty
   }
 derivation =
   
-  ## 描述文本的特性與原創性的程度。
-  element ns1:derivation {
+  ## describes the nature and extent of originality of this text. [15.2.1. ]
+  element derivation {
     macro.phraseSeq.limited,
     att.global.attributes,
     
-    ## 將文本來歷分類。
-    ## 實例值包含: 1] original; 2] revision; 3] translation; 4] abridgment; 5] plagiarism; 6] traditional
+    ## categorizes the derivation of the text.
+    ##    
+    ## Sample values include: 1] original; 2] revision; 3] translation; 4] abridgment; 5] plagiarism; 6] traditional
     attribute type { data.enumerated }?,
     empty
   }
 domain =
   
-  ##  (應用領域) 描述該文本最重要的應用領域或是社會用途所在，例如私人與公共、教育、宗教等。
-  element ns1:domain {
+  ##  (domain of use) describes the most important social context in which the text was
+  ## realized or for which it is intended, for example private vs. public,
+  ## education, religion, etc. [15.2.1. ]
+  element domain {
     macro.phraseSeq.limited,
     att.global.attributes,
     
-    ## 將應用領域分類。
-    ## 實例值包含: 1] art; 2] domestic; 3] religious; 4] business; 5] education; 6] govt (government) ; 7] public
+    ## categorizes the domain of use.
+    ##    
+    ## Sample values include: 1] art; 2] domestic; 3] religious; 4] business; 5] education; 6] govt (government) ; 7] public
     attribute type { data.enumerated }?,
     empty
   }
 factuality =
   
-  ## 描述該文本內容可能被認定為想像的程度、所描繪的為虛構或真實的世界。
-  element ns1:factuality {
+  ## describes the extent to which the text may be regarded as
+  ## imaginative or non-imaginative, that is, as describing a fictional
+  ## or a non-fictional world.  [15.2.1. ]
+  element factuality {
     macro.phraseSeq.limited,
     att.global.attributes,
     
-    ## 將文本的真實性分類。
+    ## categorizes the factuality of the text.
+    ##    
     attribute type {
       
-      ## 文本為完全虛構
+      ## the text is to be regarded as entirely imaginative
+      ##   
       "fiction"
       | 
-        ## 文本完全根據事實
+        ## the text is to be regarded as entirely informative or factual
+        ##   
         "fact"
       | 
-        ## 文本內容部分虛構、部分根據事實
+        ## the text contains a mixture of fact and fiction
+        ##   
         "mixed"
       | 
-        ## 該文本不適宜使用虛構／真實的區分方法
+        ## the fiction/fact distinction is not regarded
+        ##     as helpful or appropriate to this text
+        ##    
         "inapplicable"
     }?,
     empty
   }
 interaction =
   
-  ## 描述文本創作者與體驗者之間互動關係的規範、基數和特性，例如回應或感嘆、評論等。
-  element ns1:interaction {
+  ## describes the extent, cardinality and nature of any interaction
+  ## among those producing and experiencing the text, for example in the
+  ## form of response or interjection, commentary, etc. [15.2.1. ]
+  element interaction {
     macro.phraseSeq.limited,
     att.global.attributes,
     
-    ## 說明文本中主動與被動參與者之間的互動程度。
+    ## specifies the degree of interaction between
+    ##   active and passive participants in the text. 
     attribute type {
       
-      ## 無任何互動，例如獨白
+      ## no interaction of any kind, e.g. a monologue 
       "none"
       | 
-        ## 某種程度上的互動，例如具有背景回應的獨白
+        ## some degree of interaction, e.g. a monologue with set responses 
         "partial"
       | 
-        ## 完全性的互動，例如面對面交談
+        ## complete interaction, e.g. a face to face conversation 
         "complete"
       | 
-        ## 這項特性在此不適當或不適用
+        ## this parameter is inappropriate or inapplicable in this case 
         "inapplicable"
     }?,
     
-    ## 說明創作文本部份內容的主動參與者 (或傳達者) 的人數。
-    ## 被推薦的值包含: 1] singular; 2] plural; 3] corporate; 4] unknown
+    ## specifies the number of active participants
+    ##    (or addressors) producing parts of the text. 
+    ## Suggested values include: 1] singular; 2] plural; 3] corporate; 4] unknown
     attribute active {
       
-      ## 一位傳達者
+      ## a single addressor 
       "singular"
       | 
-        ## 多位傳達者
+        ## many addressors 
         "plural"
       | 
-        ## 集體傳達者
+        ## a corporate addressor 
         "corporate"
       | 
-        ## 傳達人數未知或未指明
+        ## number of addressors unknown or unspecifiable 
         "unknown"
       | xsd:Name
     }?,
     
-    ## 說明文本內容的被動參與者 (或接收者) 的人數，被動參與者即為文本產生或呈現的對象。
-    ## 被推薦的值包含: 1] self; 2] single; 3] many; 4] group; 5] world
+    ## specifies the number of passive participants
+    ##    (or addressees) to whom a text is directed
+    ##    or in whose presence it is created or performed.
+    ##    
+    ## Suggested values include: 1] self; 2] single; 3] many; 4] group; 5] world
     attribute passive {
       
-      ## 文本內容傳遞給原創作者，例如日記
+      ## text is addressed to the originator e.g. a diary 
       "self"
       | 
-        ## 文本內容傳遞給另一個人，例如私人信件
+        ## text is addressed to one other person e.g. a personal letter 
         "single"
       | 
-        ## 文本內容傳遞給一群人數可計的對象，例如參與者身分皆明確的一場對話
+        ## text is addressed to a countable number of others
+        ##     e.g. a conversation in which all participants are identified 
         "many"
       | 
-        ## 文本內容傳遞給一群身分不明確但人數固定的參與者，例如授課
+        ## text is addressed to an undefined but fixed
+        ##     number of participants  e.g. a lecture 
         "group"
       | 
-        ## 文本內容傳遞給眾多身分不明確、數量亦不固定的參與者，例如出版的書籍
+        ## text is addressed to an undefined and indeterminately
+        ##     large number e.g. a published book 
         "world"
       | xsd:Name
     }?,
@@ -5022,49 +5678,58 @@ interaction =
   }
 preparedness =
   
-  ## 描述文本可能被視為經過準備或自然呈現的程度。
-  element ns1:preparedness {
+  ## describes the extent to which a text may be regarded as
+  ## prepared or spontaneous.  [15.2.1. ]
+  element preparedness {
     macro.phraseSeq.limited,
     att.global.attributes,
     
-    ## 說明準備程度的類型。
-    ## 實例值包含: 1] none; 2] scripted; 3] formulaic; 4] revised
+    ## a keyword characterizing the type of preparedness.
+    ##    
+    ## Sample values include: 1] none; 2] scripted; 3] formulaic; 4] revised
     attribute type { data.enumerated }?,
     empty
   }
 purpose =
   
-  ## 描述該文本的一項目的或溝通功能
-  element ns1:purpose {
+  ## characterizes a single purpose or communicative function of the
+  ## text. [15.2.1. ]
+  element purpose {
     macro.phraseSeq.limited,
     att.global.attributes,
     
-    ## 說明一項特定類型的目的。
-    ## 被推薦的值包含: 1] persuade; 2] express; 3] inform; 4] entertain
+    ## specifies a particular kind of purpose.
+    ##    
+    ## Suggested values include: 1] persuade; 2] express; 3] inform; 4] entertain
     attribute type {
       
-      ## 教導、廣告、宣傳等
+      ## didactic, advertising, propaganda, etc.
+      ##   
       "persuade"
       | 
-        ## 自我表達、自白等
+        ## self expression, confessional, etc.
+        ##   
         "express"
       | 
-        ## 傳達訊息、教育等
+        ## convey information, educate, etc.
+        ##   
         "inform"
       | 
-        ## 消遣、娛樂等
+        ## amuse, entertain, etc.
+        ##    
         "entertain"
       | xsd:Name
     }?,
     
-    ## 說明該目的所佔的重要性程度。
+    ## specifies the extent to which this purpose predominates.
     attribute degree { data.certainty }?,
     empty
   }
 setting =
   
-  ## 描述語言互動發生的一個特定背景。
-  element ns1:setting {
+  ## describes one particular setting in which a language
+  ##   interaction takes place. [15.2.3. ]
+  element setting {
     (model.pLike+
      | (model.nameLike.agent | model.dateLike | model.settingPart)*),
     att.global.attributes,
@@ -5073,14 +5738,48 @@ setting =
   }
 locale =
   
-  ## 包含簡短非正式的文字描述地點的性質，例如房間、餐廳、公園長椅等。
-  element ns1:locale {
+  ## contains a brief informal description of the kind of
+  ## place concerned, for example: a room, a restaurant, a park bench, etc. [15.2.3. ]
+  element locale {
     macro.phraseSeq.limited, att.global.attributes, empty
   }
 activity =
   
-  ## 包含簡短非正式的文字，描述一個對話參與者除了說話以外其他可能的動作。
-  element ns1:activity {
+  ## contains a brief informal description of what a participant in a
+  ## language interaction is doing other than speaking, if anything. [15.2.3. ]
+  element activity {
     macro.phraseSeq.limited, att.global.attributes, empty
+  }
+att.global.facs.attributes = att.global.facs.attribute.facs
+att.global.facs.attribute.facs =
+  
+  ##  (facsimile) points to all or part of an image which corresponds with the content of the element.
+  attribute facs {
+    list { data.pointer, data.pointer* }
+  }?
+att.global.change.attributes = att.global.change.attribute.change
+att.global.change.attribute.change =
+  
+  ## points to one or more change elements documenting
+  ##       a state or revision campaign to which the element bearing this
+  ##       attribute and its children have been assigned by the encoder.
+  attribute change {
+    list { data.pointer, data.pointer* }
+  }?
+supplied =
+  
+  ## signifies text supplied by the transcriber or editor for any
+  ##   reason, typically because the original cannot be read because of
+  ##   physical damage or loss to the original. [11.3.3.1. ]
+  element supplied {
+    macro.paraContent,
+    att.global.attributes,
+    att.editLike.attributes,
+    
+    ## indicates why the text has had to be supplied.
+    attribute reason {
+      list { data.word, data.word* }
+    }?,
+    empty
   }
 start = TEI | teiCorpus

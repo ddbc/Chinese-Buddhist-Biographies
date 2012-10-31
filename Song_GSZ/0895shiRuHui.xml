@@ -1,21 +1,21 @@
 <?xml version='1.0' encoding='utf-8'?>
-<div xmlns="http://www.tei-c.org/ns/1.0" type="習禪" xml:id="gsz0773b01shiRuHui"><pb n="0773b" xml:id="T50.2061.0773b" ed="T"/>
-    <anchor n="T.50.2061.0773b01"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date><placeName key="PL000000028637">長沙東寺</placeName><persName key="A010467">如會</persName>傳</head><p><lb
-ed="T" n="0773b02"/><persName key="A010467">釋如會</persName>，<placeName key="PL000000030617">韶州始興</placeName>人也。<date from-iso="+0773-02-01" key="j20034242003806" to-iso="+0774-02-18">大歷八年</date>，止<persName key="A004218">國一禪<lb
-ed="T" n="0773b03"/>師</persName>門下，後歸<persName key="A003623">大寂</persName>法集。時禪客仰慕，決求心<lb
-ed="T" n="0773b04"/>要，僧堂之內，床榻為之陷折，時號「<persName key="A010467">折床會</persName>」，猶<lb
+<div xmlns="http://www.tei-c.org/ns/1.0" type="習禪" xml:id="gsz0773b01shiRuHui"><pb n="0773b" xml:id="T50.2061.0773b" ed="T"/><lb
+ed="T" n="0773b01"/><anchor n="T.50.2061.0773b01"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date><placeName key="PL000000028637">長沙東寺</placeName><persName key="A010467">如會</persName>傳</head><p><lb
+ed="T" n="0773b02"/><persName key="A010467">釋如會</persName>，<placeName key="PL000000030617">韶州始興</placeName>人也。<date from-iso="+0773-02-01" key="j20034242003806" to-iso="+0774-02-18">大歷八年</date>，止<persName key="A004218">國一<roleName>禪<lb
+ed="T" n="0773b03"/>師</roleName></persName>門下，後歸<persName key="A003623">大寂</persName>法集。時禪客仰慕，決求心<lb
+ed="T" n="0773b04"/>要，僧堂之內，床榻為之陷折，時號<persName key="A010467">折床會</persName>，猶<lb
 ed="T" n="0773b05"/>言鑿佛<anchor xml:id="beg0773003"/>床<anchor xml:id="end0773003"/>也。後徇請居<placeName key="PL000000028637">長沙東寺</placeName>焉。自<lb
 ed="T" n="0773b06"/><persName key="A003623">大寂</persName>去世，其法門鼎盛，時無可敵，諺謂<placeName key="PL000000028637">東<lb
-ed="T" n="0773b07"/>寺</placeName>為「<placeName key="PL000000028637">禪窟</placeName>」，斷可知矣。時相國<persName key="A010468">崔公群</persName>慕<persName key="A010467">會</persName><lb
+ed="T" n="0773b07"/>寺</placeName>為「<placeName key="PL000000028637">禪窟</placeName>」，斷可知矣。時相國<persName key="A010468">崔<roleName>公</roleName>群</persName><ptr target="#n1539"/>慕<persName key="A010467">會</persName><lb
 ed="T" n="0773b08"/>之風，來謁于門，答對瀏<anchor xml:id="beg0773004"/>亮<anchor xml:id="end0773004"/>，辭咸造理。自爾<lb
 ed="T" n="0773b09"/>為師友之契。初<persName key="A010468">群</persName>與<persName key="A010469">皇甫鎛</persName>議上<persName key="A002120">憲宗</persName>尊<lb
-ed="T" n="0773b10"/>號，因被<persName key="A010469">鎛</persName>搆，出為<placeName key="PL000000028665">湖南</placeName>觀察，閑豫歸心于<lb
-ed="T" n="0773b11"/><persName key="A010467">會</persName>也。至<persName key="A004382">穆宗</persName><date from-iso="+0823-02-19" key="j20217042022057" to-iso="+0824-02-07">長慶癸卯歲</date>，終于<ref type="place" target="#PL000000028637">寺</ref>。春秋八<lb
-ed="T" n="0773b12"/>十。時井泉預枯，異香馝馥。遷塔于城南，廉使<lb
-ed="T" n="0773b13"/><persName key="A010395">李翱</persName>盡毀近城墳塔，唯留<persName key="A010467">會</persName>所瘞浮圖，以<lb
-ed="T" n="0773b14"/>筆題曰：「獨留此塔，以別賢愚矣。」<persName key="A010303">劉膳部軻</persName><lb
-ed="T" n="0773b15"/>著碑焉。勅諡<persName key="A010467">傳明大師</persName>，塔曰永際。亦呼所<lb
-ed="T" n="0773b16"/>居為「<persName key="A010467">夾山和尚</persName>」是歟。</p>
+ed="T" n="0773b10"/>號，因被<persName key="A010469">鎛</persName>搆，出為<placeName key="PL000000028665">湖南</placeName>觀察<ptr target="#n1540"/>，閑豫歸心于<lb
+ed="T" n="0773b11"/><persName key="A010467">會</persName>也。至<persName key="A004382">穆宗</persName><date from-iso="+0823-02-19" key="j20217042022057" to-iso="+0824-02-07"><name>長慶</name>癸卯歲</date>，終于<ref type="place" target="#PL000000028637">寺</ref>。春秋八<lb
+ed="T" n="0773b12"/>十。時井泉預枯，異香馝馥，遷塔于城南。廉使<lb
+ed="T" n="0773b13"/><persName key="A010395">李翱</persName>盡毀近城墳塔<ptr target="#n1541"/>，唯留<persName key="A010467">會</persName>所瘞浮圖，以<lb
+ed="T" n="0773b14"/>筆題曰：「獨留此塔，以別賢愚矣。」<persName key="A010303">劉<roleName>膳部</roleName>軻</persName><lb
+ed="T" n="0773b15"/>著碑焉。勅諡<persName key="A010467">傳明大師</persName>，塔曰<placeName>永際</placeName>。亦呼所<lb
+ed="T" n="0773b16"/>居為「<persName key="A010467">夾山和尚</persName>」是歟<ptr target="#n1542"/>。</p>
     <linkGrp>
         <link targets="#0773b02 #0773b02"/>
         <ptr target="#A010467" type="person"/>
@@ -59,5 +59,15 @@ ed="T" n="0773b16"/>居為「<persName key="A010467">夾山和尚</persName>」�
         <ptr target="#A010467" type="person"/>
         <ptr target="#PL000000028637" type="place"/>
         <ptr target="#j20217042022057" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0773b12 #0773b14"/>
+        <ptr target="#A010395" type="person"/>
+        <ptr target="#PL000000028665" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0773b14 #0773b15"/>
+        <ptr target="#A010303" type="person"/>
+        <ptr target="#PL000000028637" type="place"/>
     </linkGrp>
 </div>

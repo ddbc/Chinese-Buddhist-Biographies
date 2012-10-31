@@ -1,24 +1,24 @@
 <?xml version='1.0' encoding='utf-8'?>
-<div xmlns="http://www.tei-c.org/ns/1.0" type="習禪" xml:id="gsz0773b17shiTianRan">
-    <anchor n="T.50.2061.0773b17"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date><placeName key="PL000000025260">南陽丹霞山</placeName><persName key="A009460">天然</persName>傳</head><p><lb
+<div xmlns="http://www.tei-c.org/ns/1.0" type="習禪" xml:id="gsz0773b17shiTianRan"><lb
+ed="T" n="0773b17"/><anchor n="T.50.2061.0773b17"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date><placeName key="PL000000025260">南陽丹霞山</placeName><persName key="A009460">天然</persName>傳</head><p><lb
 ed="T" n="0773b18"/><persName key="A009460">釋天然</persName>，不知何許人也。少入法門，而性梗<lb
-ed="T" n="0773b19"/>槩，謁見<persName key="A010291">石頭禪師</persName>，默而識<ref type="person" target="#A009460">之</ref>，思召其自體<lb
-ed="T" n="0773b20"/>得實者，為立名<persName key="A009460">天然</persName>也。乃躬執爨，凡三年，<lb
-ed="T" n="0773b21"/>始遂落飾。後於<placeName key="PL000000028989">嶽寺</placeName><persName key="A010470">希律師</persName>受其戒法。造<lb
+ed="T" n="0773b19"/>槩，謁見<persName key="A010291">石頭<roleName>禪師</roleName></persName>，默而識<ref type="person" target="#A009460">之</ref>，思召其自體<lb
+ed="T" n="0773b20"/>得實者，為立名<persName key="A009460">天然</persName>也<ptr target="#n1544"/>。乃躬執爨，凡三年，<lb
+ed="T" n="0773b21"/>始遂落飾。後於<placeName key="PL000000028989">嶽寺</placeName><persName key="A010470">希<roleName>律師</roleName></persName>受其戒法。造<lb
 ed="T" n="0773b22"/><placeName key="PL000000018627">江西</placeName><persName key="A003623">大寂</persName>會，<persName key="A003623">寂</persName>以言誘<ref type="person" target="#A009460">之</ref>，譍答雅正。<persName key="A003623">大寂</persName><lb
-ed="T" n="0773b23"/>甚奇<ref type="person" target="#A009460">之</ref>。次居<placeName key="PL000000014412">天台華頂</placeName>三年，又<anchor xml:id="beg0773sgsz5"/>禮<anchor xml:id="end0773sgsz5"/><persName key="A004218">國一大<lb
-ed="T" n="0773b24"/>師</persName>。<date notBefore-iso="+0806-01-29" key="j20154742020606" notAfter-iso="+0820-02-17"><name>元和</name>中</date>，上<placeName key="PL000000023650">龍門香山</placeName>，與<persName key="A010392">伏牛禪師</persName>為物<lb
+ed="T" n="0773b23"/>甚奇<ref type="person" target="#A009460">之</ref>。次居<placeName key="PL000000014412">天台華頂</placeName>三年，又<anchor xml:id="beg0773sgsz10"/>禮<anchor xml:id="end0773sgsz10"/><persName key="A004218">國一<roleName>大<lb
+ed="T" n="0773b24"/>師</roleName></persName>。<date notBefore-iso="+0806-01-29" key="j20154742020606" notAfter-iso="+0820-02-17"><name>元和</name>中</date>，上<placeName key="PL000000023650">龍門香山</placeName>，與<persName key="A010392">伏牛<roleName>禪師</roleName></persName>為物<lb
 ed="T" n="0773b25"/>外之交。後於<placeName key="PL000000023573">慧林寺</placeName>遇大寒，<persName key="A009460">然</persName>乃焚木佛<lb
-ed="T" n="0773b26"/>像以禦之。人或譏<ref type="person" target="#A009460">之</ref>，曰：「<ref type="person" target="#A009460">吾</ref><anchor xml:id="beg0773sgsz6"/><choice resp="sgsz"><sic>茶</sic><corr>荼</corr></choice><anchor xml:id="end0773sgsz6"/>毘舍利。」曰：<lb
+ed="T" n="0773b26"/>像以禦之。人或譏<ref type="person" target="#A009460">之</ref>，曰：「<ref type="person" target="#A009460">吾</ref><anchor xml:id="beg0773sgsz12"/>茶<anchor xml:id="end0773sgsz12"/>毘舍利。」曰：<lb
 ed="T" n="0773b27"/>「木頭何有？」<persName key="A009460">然</persName>曰：「若爾者，何責<ref type="person" target="#A009460">我</ref>乎？」<date from-iso="+0808-07-24" key="j20163812016564" to-iso="+0809-01-23"><name>元和</name>三年</date>，<lb
-ed="T" n="0773b28"/>晨過<placeName key="PL000000023502">天津橋</placeName>，橫臥，會留守<persName key="A008723">鄭公</persName><ptr target="#n1477"/>出，呵之不<lb
+ed="T" n="0773b28"/>晨過<placeName key="PL000000023502">天津橋</placeName>，橫臥，會留守<persName key="A008723">鄭<roleName>公</roleName></persName><ptr target="#n1477"/>出，呵之不<lb
 ed="T" n="0773b29"/>去。乃徐仰曰：「無事僧。」<ref type="person" target="#A008723">留守</ref>異<ref type="person" target="#A009460">之</ref>，乃奉束素<pb ed="T" n="0773c" xml:id="T50.2061.0773c"/><lb
-ed="T" n="0773c01"/>衣兩襲，月給米麵。<placeName key="PL000000023581">洛下</placeName>翕然歸信。至<date from-iso="+0820-01-23" key="j20205812020698" to-iso="+0820-05-19">十五<lb
+ed="T" n="0773c01"/>衣兩襲，月給米麵<ptr target="#n399"/>。<placeName key="PL000000023581">洛下</placeName>翕然<ptr type="glossary" target="#g768"/>歸信。至<date from-iso="+0820-01-23" key="j20205812020698" to-iso="+0820-05-19">十五<lb
 ed="T" n="0773c02"/>年春</date>，言「<ref type="person" target="#A009460">吾</ref>思林泉」，乃<anchor xml:id="beg0773005"/><choice resp="sgsz"><sic>入</sic><corr>卜</corr></choice><anchor xml:id="end0773005"/><placeName key="PL000000025260">南陽丹霞山</placeName>結<lb
-ed="T" n="0773c03"/>菴。以<date from-iso="+0824-07-05" key="j20222062022234" to-iso="+0824-08-02">長慶四年六月</date>告門人曰：「備沐浴，<lb
+ed="T" n="0773c03"/>菴。以<date from-iso="+0824-07-05" key="j20222062022234" to-iso="+0824-08-02"><name>長慶</name>四年六月</date><ptr target="#n1543"/>告門人曰：「備沐浴，<lb
 ed="T" n="0773c04"/><ref type="person" target="#A009460">吾</ref>將欲行矣。」乃戴笠策杖入屨，垂一足，未<lb
 ed="T" n="0773c05"/>及地而卒，春秋八十六。膳部員外郎<persName key="A010303">劉軻</persName>撰<lb
-ed="T" n="0773c06"/>碑紀德焉。勅諡<persName key="A009460">智通禪師</persName>，塔號妙覺。</p>
+ed="T" n="0773c06"/>碑紀德焉。勅諡<persName key="A009460">智通禪師</persName>，塔號<placeName key="PL000000056978">妙覺</placeName>。</p>
     <linkGrp>
         <link targets="#0773b18 #0773b20"/>
         <ptr target="#A009460" type="person"/>
@@ -39,12 +39,8 @@ ed="T" n="0773c06"/>碑紀德焉。勅諡<persName key="A009460">智通禪師</p
     <linkGrp>
         <link targets="#0773b23 #0773b23"/>
         <ptr target="#A009460" type="person"/>
-        <ptr target="#PL000000014412" type="place"/>
-    </linkGrp>
-    <linkGrp>
-        <link targets="#0773b23 #0773b24"/>
-        <ptr target="#A009460" type="person"/>
         <ptr target="#A004218" type="person"/>
+        <ptr target="#PL000000014412" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0773b24 #0773b25"/>

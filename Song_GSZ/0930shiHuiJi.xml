@@ -1,24 +1,40 @@
 <?xml version='1.0' encoding='utf-8'?>
-<div xmlns="http://www.tei-c.org/ns/1.0" type="習禪" xml:id="gsz0783a27shiHuiJi">
-    <anchor n="T.50.2061.0783a27"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date>袁州仰山<persName key="A009491">慧寂</persName>傳</head><p><lb
-ed="T" n="0783a28"/><persName key="A009491">釋慧寂</persName>，俗姓葉，<placeName key="PL000000030712">韶州<anchor xml:id="beg0783001"/><choice resp="sgsz"><sic>須</sic><corr>湞</corr></choice><anchor xml:id="end0783001"/>昌</placeName>人也。登<date key="j20209252021289" from-iso="+0821-01-01" to-iso="+0821-12-31">年十五</date>，<lb
+<div xmlns="http://www.tei-c.org/ns/1.0" type="習禪" xml:id="gsz0783a27shiHuiJi"><lb
+ed="T" n="0783a27"/><anchor n="T.50.2061.0783a27"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date><placeName key="PL000000019598">袁州仰山</placeName><persName key="A009491">慧寂</persName>傳</head><p><lb
+ed="T" n="0783a28"/><persName key="A009491">釋慧寂</persName>，俗姓<name>葉</name>，<placeName key="PL000000030712">韶州<anchor xml:id="beg0783001"/><choice resp="sgsz"><sic>須</sic><corr>湞</corr></choice><anchor xml:id="end0783001"/>昌</placeName><ptr target="#n1677"/>人也。登<date key="j20209252021289" from-iso="+0821-01-01" to-iso="+0821-12-31">年十五</date>，<lb
 ed="T" n="0783a29"/>懇請出家，父母都不聽允止。<date key="j20216552022019" from-iso="+0823-01-01" to-iso="+0823-12-31">十七</date>再求堂<pb ed="T" n="0783b" xml:id="T50.2061.0783b"/><lb
-ed="T" n="0783b01"/>親，猶豫未決。其夜有<anchor xml:id="beg0783002"/>白<anchor xml:id="end0783002"/>光二道從<placeName key="PL000000030578">曹溪</placeName>發<lb
-ed="T" n="0783b02"/>來，直貫其舍。<anchor xml:id="beg0783003"/>時父<anchor xml:id="end0783003"/>母乃悟<persName key="A009491">是子</persName>至誠之所<lb
-ed="T" n="0783b03"/>感也。<persName key="A009491">寂</persName>乃斷左無名指及小指，器藉跪致<lb
-ed="T" n="0783b04"/>堂階曰：「答謝劬勞如此！」父<anchor xml:id="beg0783004"/>母<add resp="sgsz">知</add><anchor xml:id="end0783004"/>其不可留，<lb
-ed="T" n="0783b05"/>捨之。依<placeName key="PL000000030578">南華寺</placeName><persName key="A010621">通禪師</persName><ptr target="#n563"/>下削染，年及<date key="j20220202022385" from-iso="+0824-01-01" to-iso="+0824-12-31">十八</date>，<lb
-ed="T" n="0783b06"/>尚為息慈。營持道具，行尋知識。先見<persName key="A008874">耽源</persName>。<lb
-ed="T" n="0783b07"/>數年，良有所得。後參<persName key="A001984">大溈山禪師</persName>，提誘哀<lb
-ed="T" n="0783b08"/>之。棲泊十四五載，而足跋，時號<persName key="A009491"><anchor xml:id="beg0783005"/><choice resp="sgsz"><sic>跛</sic><corr>跋</corr></choice><anchor xml:id="end0783005"/>脚驅烏</persName>。<lb
-ed="T" n="0783b09"/>凡於商攉，多示其相。時<persName key="A010622">韋胄</persName>就<persName key="A009491">寂</persName>請伽<lb
-ed="T" n="0783b10"/><anchor xml:id="beg0783006"/>陀<anchor xml:id="end0783006"/>，乃將紙畫規圓相，圓圍下注云：「思而知<lb
+ed="T" n="0783b01"/>親，猶豫未決。其夜有<anchor xml:id="beg0783002"/>白<anchor xml:id="end0783002"/>光<ptr target="#n256"/>二道從<placeName key="PL000000030578">曹溪</placeName>發<lb
+ed="T" n="0783b02"/>來，直貫其舍。<anchor xml:id="beg0783003"/>時父<anchor xml:id="end0783003"/>母乃悟是子至誠之所<lb
+ed="T" n="0783b03"/>感也。<persName key="A009491">寂</persName>乃斷左無名指及小指，器藉<ptr type="glossary" target="#g1620"/>跪致<lb
+ed="T" n="0783b04"/>堂階曰：「答謝劬勞如此！」父<anchor xml:id="beg0783004"/>母<supplied resp="sgsz">知</supplied><anchor xml:id="end0783004"/>其不可留，<lb
+ed="T" n="0783b05"/>捨之，依<placeName key="PL000000030578">南華寺</placeName><persName key="A010621">通<roleName>禪師</roleName></persName><ptr target="#n563"/>下削染。年及<date key="j20220202022385" from-iso="+0824-01-01" to-iso="+0824-12-31">十八</date>，<lb
+ed="T" n="0783b06"/>尚為息慈<ptr type="glossary" target="#g964"/>。營持道具，行尋知識。先見<persName key="A008874">耽源</persName><ptr target="#n1678"/>，<lb
+ed="T" n="0783b07"/>數年，良有所得。後參<persName key="A001984">大溈山<roleName>禪師</roleName></persName>，提誘哀<lb
+ed="T" n="0783b08"/>之。棲泊十四五載，而足跋<ptr type="glossary" target="#g1621"/>，時號<persName key="A009491"><anchor xml:id="beg0783005"/>跛<anchor xml:id="end0783005"/>脚驅烏</persName><ptr type="glossary" target="#g964"/>。<lb
+ed="T" n="0783b09"/>凡於商攉，多示其相。時<persName key="A010622">韋<roleName><choice resp="sgsz"><sic>胄</sic><corr><g ref="#Z1176"/></corr></choice></roleName></persName>就<persName key="A009491">寂</persName>請伽<lb
+ed="T" n="0783b10"/><anchor xml:id="beg0783006"/>陀<anchor xml:id="end0783006"/><ptr type="glossary" target="#g1400"/>，乃將紙畫規圓相，圓圍下注云：「思而知<lb
 ed="T" n="0783b11"/>之，落第二頭。云不思而知，落第三首。」乃封<lb
-ed="T" n="0783b12"/>呈達。自爾有若干勢以示學人，謂之<placeName key="PL000000019591">仰山</placeName><lb
-ed="T" n="0783b13"/>門風也。海眾摳衣得道者，不可勝計，往往<lb
-ed="T" n="0783b14"/>有神異之者，<anchor xml:id="beg0783sgsz3"/><choice resp="sgsz"><sic>條</sic><corr>倐</corr></choice><anchor xml:id="end0783sgsz3"/>來忽去，人皆不測。後勅追<lb
-ed="T" n="0783b15"/>諡大師，曰<persName key="A009491">智通</persName>，塔號妙光矣。今傳《仰山法<lb
+ed="T" n="0783b12"/>呈達<ptr target="#n1679"/>。自爾有若干勢以示學人，謂之<persName key="A009491">仰山</persName><lb
+ed="T" n="0783b13"/>門風也。海眾摳衣得道者，不可勝計。往往<lb
+ed="T" n="0783b14"/>有神異之者，<anchor xml:id="beg0783sgsz7"/><choice resp="sgsz"><sic>條</sic><corr>倐</corr></choice><anchor xml:id="end0783sgsz7"/>來忽去，人皆不測<ptr target="#n1680"/>。後勅追<lb
+ed="T" n="0783b15"/>諡大師，曰<persName key="A009491"><choice resp="sgsz"><sic>智通</sic><corr>通智</corr></choice></persName><ptr target="#n1675"/>，塔號<placeName key="PL000000057195">妙光</placeName>矣。今傳《仰山法<lb
 ed="T" n="0783b16"/>示成圖相》，行于代也。</p>
+    <linkGrp>
+        <link targets="#0783a27 #0783a27"/>
+        <ptr target="#A009491" type="person"/>
+        <ptr target="#PL000000019598" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0783a28 #0783a28"/>
+        <ptr target="#A009491" type="person"/>
+        <ptr target="#PL000000030712" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0783a28 #0783a29"/>
+        <ptr target="#A009491" type="person"/>
+        <ptr target="#PL000000030712" type="place"/>
+        <ptr target="#j20209252021289" type="time"/>
+    </linkGrp>
     <linkGrp>
         <link targets="#0783a29 #0783b05"/>
         <ptr target="#A009491" type="person"/>
@@ -37,7 +53,7 @@ ed="T" n="0783b16"/>示成圖相》，行于代也。</p>
         <ptr target="#A001984" type="person"/>
     </linkGrp>
     <linkGrp>
-        <link targets="#0783b09 #0783b09"/>
+        <link targets="#0783b09 #0783b12"/>
         <ptr target="#A009491" type="person"/>
         <ptr target="#A010622" type="person"/>
     </linkGrp>
