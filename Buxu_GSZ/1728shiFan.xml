@@ -3,7 +3,7 @@
     <head><lb ed="X" n="0448b12"/>　　　　<persName key="A004697">無準範</persName>禪師傳</head>
     <p><anchor n="X.77.1524.0448b13"/><lb ed="X" n="0448b13"/><persName key="A004697">師範</persName>。<placeName key="PL000000035548">梓潼</placeName>雍氏子。<date key="j21542382154602" when-iso="1186">九歲</date>依<placeName key="PL000000055624">陰平山</placeName><persName key="A008742">道欽</persName>出家。經書過
         <lb ed="X" n="0448b14"/>目成誦。<date from-iso="1194-10-23" to-iso="1195-02-18" key="j21574552157573">紹熈五年冬</date>。登具戒。<date from-iso="1195-02-19" to-iso="1196-02-07" key="j21575742157927">明年</date>。<placeName key="PL000000034800">成都</placeName>坐夏。遇老宿
-        <lb ed="X" n="0448b15"/>名<persName key="A008744">堯</persName>者。<persName key="A004697">範</persName>請益坐禪之法。<persName key="A008744">堯</persName>曰。禪是何物。坐是何人。
+        <lb ed="X" n="0448b15"/>名<persName key="A021498">堯</persName>者。<persName key="A004697">範</persName>請益坐禪之法。<persName key="A021498">堯</persName>曰。禪是何物。坐是何人。
         <lb ed="X" n="0448b16"/><persName key="A004697">範</persName>受其語。晝夜體究。一日如廁提前話。有省。遂出<placeName key="PL000000034649">蜀</placeName>。
         <lb ed="X" n="0448b17"/>謁<persName key="A007385">佛炤</persName>於<placeName key="PL000000012309">育王</placeName>。<persName key="A007385">炤</persName>問何處人。曰。<placeName key="PL000000035754">劒州</placeName>人。<persName key="A007385">炤</persName>曰。將得劒
         <lb ed="X" n="0448b18"/>來否。<persName key="A004697">範</persName>隨聲便喝。<persName key="A007385">炤</persName>笑曰。這烏頭子亂做。<persName key="A004697">範</persName>嬾剃髮
@@ -41,7 +41,7 @@
     <linkGrp>
         <link targets="#0448b14 #0448b16"/>
         <ptr target="#A004697" type="person"/>
-        <ptr target="#A008744" type="person"/>
+        <ptr target="#A021498" type="person"/>
         <ptr target="#PL000000034800" type="place"/>
         <ptr target="#j21575742157927" type="time"/>
     </linkGrp>

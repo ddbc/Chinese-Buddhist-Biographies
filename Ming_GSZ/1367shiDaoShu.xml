@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0929b15shiDaoShu">
-  <p><anchor n="T.50.2062.0929b15"/><lb ed="T" n="0929b15"/><persName key="A004853">釋道樞</persName>號<persName key="A004853">懶菴</persName>。吳興<placeName key="PL000000013114">四安</placeName>徐氏子也。甞參<persName key="A008701">道<lb ed="T" n="0929b16"/>場慧禪師</persName>得授心印。道業日隆。初主<placeName key="PL000000012974">何山</placeName><lb ed="T" n="0929b17"/>移<placeName key="PL000000008937">華藏</placeName>。<date from-iso="1163" key="j21458792146063" to-iso="1163">隆興</date>初詔遷<placeName key="PL000000011596">靈隱</placeName>。<persName key="A000480">宋孝宗</persName>召入內<lb ed="T" n="0929b18"/>殿賜坐。問曰。禪道之要可得聞乎。對曰。此<lb ed="T" n="0929b19"/>事在<persName key="A000480">陛下</persName>堂堂日用應機處。本無知見起滅<lb ed="T" n="0929b20"/>之分聖凡迷悟之別。第護正念則與道相<lb ed="T" n="0929b21"/>應。亡情却物則業不能繫。盡去沈掉二病。<lb ed="T" n="0929b22"/>自忘問答之意。矧今見在般若光明中。何事<lb ed="T" n="0929b23"/>不成見也。上為之首肯。後以老乞退居明<lb ed="T" n="0929b24"/>教之永安<!--找不到此地-->。逍遙自適。甞題偈于壁曰。雪裏<lb ed="T" n="0929b25"/>梅花春信息。池中月色夜精神。年來可是無<lb ed="T" n="0929b26"/>佳趣。莫把家風舉似人。<date key="j21508402150869" notAfter-iso="1176-10-11" notBefore-iso="1176-09-12">淳熙丙申八月</date>示<lb ed="T" n="0929b27"/>微疾書偈而逝。塔于永安<!--找不到此地-->。</p>
+  <p><anchor n="T.50.2062.0929b15"/><lb ed="T" n="0929b15"/><persName key="A004853">釋道樞</persName>號<persName key="A004853">懶菴</persName>。吳興<placeName key="PL000000013114">四安</placeName>徐氏子也。甞參<persName key="A008701">道<lb ed="T" n="0929b16"/>場慧</persName>禪師得授心印。道業日隆。初主<placeName key="PL000000012974">何山</placeName><lb ed="T" n="0929b17"/>移<placeName key="PL000000057386">華藏</placeName>。<date from-iso="1163" key="j21458792146063" to-iso="1163">隆興</date>初詔遷<placeName key="PL000000011596">靈隱</placeName>。<persName key="A000480">宋孝宗</persName>召入內<lb ed="T" n="0929b18"/>殿賜坐。問曰。禪道之要可得聞乎。對曰。此<lb ed="T" n="0929b19"/>事在<persName key="A000480">陛下</persName>堂堂日用應機處。本無知見起滅<lb ed="T" n="0929b20"/>之分聖凡迷悟之別。第護正念則與道相<lb ed="T" n="0929b21"/>應。亡情却物則業不能繫。盡去沈掉二病。<lb ed="T" n="0929b22"/>自忘問答之意。矧今見在般若光明中。何事<lb ed="T" n="0929b23"/>不成見也。上為之首肯。後以老乞退居<persName key="A000821">明<lb ed="T" n="0929b24"/>教</persName>之<placeName key="PL000000057388">永安</placeName>。逍遙自適。甞題偈于壁曰。雪裏<lb ed="T" n="0929b25"/>梅花春信息。池中月色夜精神。年來可是無<lb ed="T" n="0929b26"/>佳趣。莫把家風舉似人。<date key="j21508402150869" notAfter-iso="1176-10-11" notBefore-iso="1176-09-12">淳熙丙申八月</date>示<lb ed="T" n="0929b27"/>微疾書偈而逝。塔于<placeName key="PL000000057388">永安</placeName>。</p>
   <linkGrp>
     <link targets="#0929b17 #0929b23"/>
     <ptr target="#A004853" type="person"/>
@@ -19,7 +19,7 @@
   <linkGrp>
     <link targets="#0929b16 #0929b17"/>
     <ptr target="#A004853" type="person"/>
-    <ptr target="#PL000000008937" type="place"/>
+    <ptr target="#PL000000057386" type="place"/>
   </linkGrp>
   <linkGrp>
     <link targets="#0929b17 #0929b17"/>

@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0929a05shiFaChang">
-  <p><anchor n="T.50.2062.0929a05"/><lb ed="T" n="0929a05"/><persName key="A008692">釋法常</persName><placeName key="PL000000023468">開封</placeName>人。即丞相<persName key="A008693">薛居正</persName>之後也。<date from-iso="1125-02-12" key="j21320002132353" to-iso="1126-01-31">宣和<lb ed="T" n="0929a06"/>七年</date>始解塵縛。遐思高舉遂依長沙益陽<placeName key="PL000000029629">華<lb ed="T" n="0929a07"/>嚴</placeName><persName key="A008694">軾公</persName>剃鬚髮。受田衣。見者獅王。居必寶<lb ed="T" n="0929a08"/>社。非法不言。異軌弗顧。深慕大乘不斥<lb ed="T" n="0929a09"/>小教。一日閱首楞嚴經。乃廓爾義天淵通<lb ed="T" n="0929a10"/>法海。自是肆遊淮泗放浪<placeName key="PL000000028622">湖湘</placeName>。後至台山<lb ed="T" n="0929a11"/><placeName key="PL000000014782">萬年</placeName>參謁<persName key="A008621">雪巢</persName>。一見機語契會。命掌翰牋。<lb ed="T" n="0929a12"/>未幾請令首眾。為僧入室。大有風彩。澹然<lb ed="T" n="0929a13"/>處世。不飾眾緣。室中唯一矮榻餘無長物。<lb ed="T" n="0929a14"/><date from-iso="1180-09-28" key="j21523172152346" to-iso="1180-10-27">紹興<!--佛人作淳熙-->庚子九月</date>望日語眾曰。吾一月後不復<lb ed="T" n="0929a15"/>留矣。至<date key="j21523672152367" when-iso="1180-11-17">十月二十一日</date>書漁父詞於室門<lb ed="T" n="0929a16"/>曰。此事楞嚴甞露布。梅花雪月交光處。一笑<lb ed="T" n="0929a17"/>寥寥空萬古。風甌語逈然。銀漢橫天宇。蝶<lb ed="T" n="0929a18"/>夢南華方栩栩。班班誰跨豐干虎。而今忘却<lb ed="T" n="0929a19"/>來時路。江山暮天涯目送鴻飛去。書畢就榻<lb ed="T" n="0929a20"/>收足而逝。塔于寺西南。</p>
+  <p><anchor n="T.50.2062.0929a05"/><lb ed="T" n="0929a05"/><persName key="A008692">釋法常</persName><placeName key="PL000000023468">開封</placeName>人。即丞相<persName key="A008693">薛居正</persName>之後也。<date from-iso="1125-02-12" key="j21320002132353" to-iso="1126-01-31">宣和<lb ed="T" n="0929a06"/>七年</date>始解塵縛。遐思高舉遂依長沙<placeName key="PL000000029632">益陽</placeName><persName key="A022043">華<lb ed="T" n="0929a07"/>嚴軾</persName>公剃鬚髮。受田衣。見者獅王。居必寶<lb ed="T" n="0929a08"/>社。非法不言。異軌弗顧。深慕大乘不斥<lb ed="T" n="0929a09"/>小教。一日閱首楞嚴經。乃廓爾義天淵通<lb ed="T" n="0929a10"/>法海。自是肆遊<placeName key="PL000000010520">淮泗</placeName>放浪<placeName key="PL000000028622">湖湘</placeName>。後至台山<lb ed="T" n="0929a11"/><placeName key="PL000000014782">萬年</placeName>參謁<persName key="A008621">雪巢</persName>。一見機語契會。命掌翰牋。<lb ed="T" n="0929a12"/>未幾請令首眾。為僧入室。大有風彩。澹然<lb ed="T" n="0929a13"/>處世。不飾眾緣。室中唯一矮榻餘無長物。<lb ed="T" n="0929a14"/><date from-iso="1180-09-28" key="j21523172152346" to-iso="1180-10-27">紹興<!--佛人作淳熙-->庚子九月</date>望日語眾曰。吾一月後不復<lb ed="T" n="0929a15"/>留矣。至<date key="j21523672152367" when-iso="1180-11-17">十月二十一日</date>書漁父詞於室門<lb ed="T" n="0929a16"/>曰。此事楞嚴甞露布。梅花雪月交光處。一笑<lb ed="T" n="0929a17"/>寥寥空萬古。風甌語逈然。銀漢橫天宇。蝶<lb ed="T" n="0929a18"/>夢南華方栩栩。班班誰跨豐干虎。而今忘却<lb ed="T" n="0929a19"/>來時路。江山暮天涯目送鴻飛去。書畢就榻<lb ed="T" n="0929a20"/>收足而逝。塔于寺西南。</p>
   <linkGrp>
     <link targets="#0929a05 #0929a06"/>
     <ptr target="#A008692" type="person"/>
@@ -19,8 +19,8 @@
   <linkGrp>
     <link targets="#0929a05 #0929a10"/>
     <ptr target="#A008692" type="person"/>
-    <ptr target="#A008694" type="person"/>
-    <ptr target="#PL000000029629" type="place"/>
+    <ptr target="#A022043" type="person"/>
+    <ptr target="#PL000000029632" type="place"/>
   </linkGrp>
   <linkGrp>
     <link targets="#0929a10 #0929a10"/>

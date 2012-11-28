@@ -4,7 +4,7 @@
     <p><anchor n="X.77.1524.0378a24"/><lb ed="X" n="0378a24"/><persName key="A001140">處咸</persName>。生<placeName key="PL000000014806">天台</placeName>王氏。<date key="j20943382094702" when-iso="1022">七歲</date>入<placeName key="PL000000014664">國清</placeName>。<date key="j20968952097259" when-iso="1029">十四</date>受具戒。力學無
         <lb ed="X" n="0378b01"/>對入<placeName key="PL000000014700">天封</placeName>。三年畢閱藏典。謁<persName key="A000252">神炤</persName>。深契教旨。為人恭
         <lb ed="X" n="0378b02"/>默自遜。<persName key="A000252">神炤</persName>託疾。命代宣。眾一聆而心服。初住赤城
-        <lb ed="X" n="0378b03"/><placeName key="PL000000014748">崇善</placeName>。<persName key="A019744">李庭芝</persName>守<placeName key="PL000000014899">台</placeName>。夢神人曰。公典<persName key="A004896">天台五祖</persName>臺下。有
+        <lb ed="X" n="0378b03"/><placeName key="PL000000014748">崇善</placeName>。<persName key="A017025">李庭芝</persName>守<placeName key="PL000000014899">台</placeName>。夢神人曰。公典<persName key="A004896">天台五祖</persName>臺下。有
         <lb ed="X" n="0378b04"/>龍頭九九和上。宜就見之。諮詢莫喻。有識者謂李曰。
         <lb ed="X" n="0378b05"/><persName key="A004896">天台五祖</persName>。昔居<placeName key="PL000000014519">赤城</placeName>。今<persName key="A001140">咸師</persName>住此。生于丙辰九月九
         <lb ed="X" n="0378b06"/>日。其龍頭九九之謂乎。李大愕。即命駕造訪師。為談
@@ -45,13 +45,13 @@
     </linkGrp>
     <linkGrp>
         <link targets="#0378b03 #0378b03"/>
-        <ptr target="#A019744" type="person"/>
+        <ptr target="#A017025" type="person"/>
         <ptr target="#PL000000014899" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0378b02 #0378b08"/>
         <ptr target="#A001140" type="person"/>
-        <ptr target="#A019744" type="person"/>
+        <ptr target="#A017025" type="person"/>
         <ptr target="#PL000000014748" type="place"/>
     </linkGrp>
     <linkGrp>

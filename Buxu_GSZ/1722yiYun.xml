@@ -6,12 +6,12 @@
         <lb ed="X" n="0446b17"/>師說法。遂自斷出家。徧游江湖。至<placeName key="PL000000009921">吳</placeName>。見<persName key="A022107">鐵菴一大</persName>禪。
         <lb ed="X" n="0446b18"/>為侍者。<persName key="A022107">鐵菴</persName>重之。時<persName key="A007385">佛炤</persName>倡道<placeName key="PL000000011596">靈隱</placeName>。師往依焉。及<persName key="A007385">佛<lb ed="X" n="0446b19"/>照</persName>移<placeName key="PL000000012309">育王</placeName>。師從其行。歷十年。為第一座。<persName key="A007385">佛炤</persName>聞其說
         <lb ed="X" n="0446b20"/>法。歎曰。此子提唱。宛如<persName key="A001504">雪堂行</persName>和尚。吾鉢袋有所付
-        <lb ed="X" n="0446b21"/>矣。遂出住<placeName key="PL000000012255">香山</placeName>。居五年。徙台州<placeName key="PL000000014870">光孝</placeName>。又徙鎮江<placeName key="PL000000010968">甘露</placeName>。
+        <lb ed="X" n="0446b21"/>矣。遂出住<placeName key="PL000000012184">香山</placeName>。居五年。徙台州<placeName key="PL000000014870">光孝</placeName>。又徙鎮江<placeName key="PL000000010968">甘露</placeName>。
         <lb ed="X" n="0446b22"/>會平江<placeName key="PL000000009973">虎丘</placeName><placeName key="PL000000009890">萬壽</placeName>。皆欲延師。師聞<placeName key="PL000000009890">萬壽</placeName>頗廢。即欣然
         <lb ed="X" n="0446b23"/>就之。淮南轉運使<persName key="A022108">虞公儔</persName>。又以<placeName key="PL000000009264">長蘆</placeName>來招。師與<persName key="A022108">虞公</persName>
         <lb ed="X" n="0446b24"/>有雅。故又從之。會<placeName key="PL000000012309">育王</placeName>虗席。朝命師補其處。時<persName key="A007385">佛炤</persName>
         <lb ed="X" n="0446c01"/>方居<placeName key="PL000000012318">東菴</placeName>。父子日相從。發明臨濟正宗。學者雲集。會
-        <lb ed="X" n="0446c02"/>有魔事。師即捨眾退居<placeName key="PL000000012255">香山</placeName>。葢將終焉。而朝命又起
+        <lb ed="X" n="0446c02"/>有魔事。師即捨眾退居<placeName key="PL000000012184">香山</placeName>。葢將終焉。而朝命又起
         <lb ed="X" n="0446c03"/>師。說法<placeName key="PL000000011683">淨慈</placeName>。恩光赫奕。都邑聳動。一日領眾。持鉢畿
         <lb ed="X" n="0446c04"/>邑。是夕寺災無遺宇。比師歸。獨<placeName key="PL000000055619">三門</placeName>巋然在瓦礫中。
         <lb ed="X" n="0446c05"/>師不動容曰。成壞相尋。亦豈有常。今日之壞。安知不
@@ -56,7 +56,7 @@
     <linkGrp>
         <link targets="#0446b21 #0446b21"/>
         <ptr target="#A009511" type="person"/>
-        <ptr target="#PL000000012255" type="place"/>
+        <ptr target="#PL000000012184" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0446b21 #0446b21"/>
@@ -93,7 +93,7 @@
     <linkGrp>
         <link targets="#0446c01 #0446c02"/>
         <ptr target="#A009511" type="person"/>
-        <ptr target="#PL000000012255" type="place"/>
+        <ptr target="#PL000000012184" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0446c03 #0446c07"/>

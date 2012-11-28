@@ -1,15 +1,10 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0909b29shiRuQi">
-  <p><anchor n="T.50.2062.0909b29"/><lb ed="T" n="0909b29"/><persName key="A000334">釋如玘</persName>字<persName key="A000334">具菴</persName>別號<persName key="A000334">太璞</persName>。得法于<persName key="A007947">文明海慧<lb ed="T" n="0909c01"/>繼絕宗公</persName>。<persName key="A000334">師</persName>學冠群英才逸三教。非但十<lb ed="T" n="0909c02"/>乘三觀九經<!--經名ID -->七史<!--經名ID -->。凡世間所有名言祕典無<lb ed="T" n="0909c03"/>不博綜。我　　<persName key="A003672">太祖高皇帝</persName>賜旨命住<placeName key="PL000000009061">天<lb ed="T" n="0909c04"/>界</placeName>。日與諸耆德闡揚教乘以備召問。命同<lb ed="T" n="0909c05"/><persName key="A000581">宗泐</persName>訂釋心經<!--經名ID -->楞伽<!--經名ID -->金剛<!--經名ID -->。奉　　旨頒行<lb ed="T" n="0909c06"/>天下。</p>
+  <p><anchor n="T.50.2062.0909b29"/><lb ed="T" n="0909b29"/><persName key="A000334">釋如玘</persName>字<persName key="A000334">具菴</persName>別號<persName key="A000334">太璞</persName>。得法于<persName key="A007947"><roleName>文明海慧</roleName><lb ed="T" n="0909c01"/>繼絕宗</persName>。<persName key="A000334">師</persName>學冠群英才逸三教。非但十<lb ed="T" n="0909c02"/>乘三觀九經<!--經名ID -->七史<!--經名ID -->。凡世間所有名言祕典無<lb ed="T" n="0909c03"/>不博綜。我　　<persName key="A003672">太祖高皇帝</persName>賜旨命住<placeName key="PL000000009061">天<lb ed="T" n="0909c04"/>界</placeName>。日與諸耆德闡揚教乘以備召問。命同<lb ed="T" n="0909c05"/><persName key="A000581">宗泐</persName>訂釋心經<!--經名ID -->楞伽<!--經名ID -->金剛<!--經名ID -->。奉　　旨頒行<lb ed="T" n="0909c06"/>天下。</p>
   <linkGrp>
     <link targets="#0909b29 #0909c01"/>
     <ptr target="#A000334" type="person"/>
-    <ptr target="#A008245" type="person"/>
-  </linkGrp>
-  <linkGrp>
-    <link targets="#0909b29 #0909c01"/>
-    <ptr target="#A000334" type="person"/>
-    <ptr target="#A008246" type="person"/>
+    <ptr target="#A007947" type="person"/>
   </linkGrp>
   <linkGrp>
     <link targets="#0909c03 #0909c06"/>

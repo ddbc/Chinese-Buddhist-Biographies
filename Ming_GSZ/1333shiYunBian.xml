@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0919c18shiYunBian">
-  <p><anchor n="T.50.2062.0919c18"/><lb ed="T" n="0919c18"/><persName key="A008449">釋雲辯</persName><placeName key="PL000000009924">姑蘇</placeName>人。初依<persName key="A008450">瑞峯章公</persName>得度。旋謁<lb ed="T" n="0919c19"/><persName key="A008451">穹窿圓和尚</persName>忽有所得遂通所見。<persName key="A008451">圓</persName>曰。<persName key="A008449">子</persName><lb ed="T" n="0919c20"/>雖得入未至當也。切宜著鞭。乃辭扣<persName key="A001411">圓<lb ed="T" n="0919c21"/>悟</persName>。值入室纔踵門。<persName key="A001411">悟</persName>遽曰。看脚下。<persName key="A008449">辯</persName>打<lb ed="T" n="0919c22"/>露柱一下。<persName key="A001411">悟</persName>曰。何不著實道取一句。<persName key="A008449">辯</persName>曰。<lb ed="T" n="0919c23"/><persName key="A001411">師</persName>若搖頭某便擺尾。<persName key="A001411">悟</persName>曰。爾試擺尾看。<persName key="A008449">辯</persName><lb ed="T" n="0919c24"/>翻筋斗而出。<persName key="A001411">悟</persName>大笑。由是知名。住後僧問。<lb ed="T" n="0919c25"/>如何是奪人不奪境。曰<persName key="A006758">覇王</persName>到<placeName key="PL000000016247">烏江</placeName>。僧曰。如<lb ed="T" n="0919c26"/>何是奪境不奪人。曰築壇拜將。僧曰。如何<lb ed="T" n="0919c27"/>是人境兩俱奪。曰萬里山河獲太平。僧曰。如<lb ed="T" n="0919c28"/>何是人境俱不奪。曰龍吟霧起虎嘯風生。僧<lb ed="T" n="0919c29"/>曰。向上還有事也無。曰當面蹉過。僧曰。真<lb ed="T" n="0920a01"/>個作家。曰白日鬼迷人。</p>
+  <p><anchor n="T.50.2062.0919c18"/><lb ed="T" n="0919c18"/><persName key="A008449">釋雲辯</persName><placeName key="PL000000009924">姑蘇</placeName>人。初依<persName key="A008450">瑞峯章</persName>公得度。旋謁<lb ed="T" n="0919c19"/><persName key="A014590">穹窿圓</persName>和尚忽有所得遂通所見。<persName key="A014590">圓</persName>曰。<persName key="A008449">子</persName><lb ed="T" n="0919c20"/>雖得入未至當也。切宜著鞭。乃辭扣<persName key="A001411">圓<lb ed="T" n="0919c21"/>悟</persName>。值入室纔踵門。<persName key="A001411">悟</persName>遽曰。看脚下。<persName key="A008449">辯</persName>打<lb ed="T" n="0919c22"/>露柱一下。<persName key="A001411">悟</persName>曰。何不著實道取一句。<persName key="A008449">辯</persName>曰。<lb ed="T" n="0919c23"/><persName key="A001411">師</persName>若搖頭某便擺尾。<persName key="A001411">悟</persName>曰。爾試擺尾看。<persName key="A008449">辯</persName><lb ed="T" n="0919c24"/>翻筋斗而出。<persName key="A001411">悟</persName>大笑。由是知名。住後僧問。<lb ed="T" n="0919c25"/>如何是奪人不奪境。曰<persName key="A006758">覇王</persName>到<placeName key="PL000000016247">烏江</placeName>。僧曰。如<lb ed="T" n="0919c26"/>何是奪境不奪人。曰築壇拜將。僧曰。如何<lb ed="T" n="0919c27"/>是人境兩俱奪。曰萬里山河獲太平。僧曰。如<lb ed="T" n="0919c28"/>何是人境俱不奪。曰龍吟霧起虎嘯風生。僧<lb ed="T" n="0919c29"/>曰。向上還有事也無。曰當面蹉過。僧曰。真<lb ed="T" n="0920a01"/>個作家。曰白日鬼迷人。</p>
   <linkGrp>
     <link targets="#0919c18 #0919c18"/>
     <ptr target="#A008449" type="person"/>
@@ -9,6 +9,6 @@
   <linkGrp>
     <link targets="#0919c18 #0919c20"/>
     <ptr target="#A008449" type="person"/>
-    <ptr target="#A008451" type="person"/>
+    <ptr target="#A014590" type="person"/>
   </linkGrp>
 </div>
