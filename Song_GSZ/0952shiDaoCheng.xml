@@ -1,32 +1,43 @@
 <?xml version='1.0' encoding='utf-8'?>
-<div xmlns="http://www.tei-c.org/ns/1.0" type="明律" xml:id="gsz0791b27shiDaoCheng">
-    <anchor n="T.50.2061.0791b27"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date>京兆恒濟寺<persName key="A008984">道成</persName>傳</head><p><lb
-ed="T" n="0791b28"/><persName key="A008984">釋道成</persName>者，不知何許人也。居<anchor xml:id="begd1e22676"/>於<anchor xml:id="endd1e22676"/><placeName key="PL000000042189">天邑</placeName>，演<lb
+<div xmlns="http://www.tei-c.org/ns/1.0" type="明律" xml:id="gsz0791b27shiDaoCheng"><lb
+ed="T" n="0791b27"/><anchor n="T.50.2061.0791b27"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date><placeName key="PL000000042139"><placeName>京兆</placeName><placeName>恒濟寺</placeName></placeName><persName key="A008984">道成</persName>傳</head><p><lb
+ed="T" n="0791b28"/><persName key="A008984">釋道成</persName>者，不知何許人也。居<anchor xml:id="begd1e22676"/>於<anchor xml:id="endd1e22676"/><ref type="place" target="#PL000000042189">天邑</ref><ptr type="glossary" target="#g145"/>，演<lb
 ed="T" n="0791b29"/>彼律乘。戒月揚光，圓而不缺；德瓶告實，滿<pb ed="T" n="0791c" xml:id="T50.2061.0791c"/><lb
-ed="T" n="0791c01"/>而不傾。當<date notBefore-iso="+0656-02-10" key="j19606991962581" notAfter-iso="+0661-04-06">顯慶中</date>，敷《四分》一宗，有同霧<lb
-ed="T" n="0791c02"/>市。時<persName key="A002468">文綱律匠</persName>雖先依<persName key="A001519">澄照大師</persName>，後習律<lb
+ed="T" n="0791c01"/>而不傾。當<date notBefore-iso="+0656-02-10" key="j19606991962581" notAfter-iso="+0661-04-06"><name>顯慶</name>中</date>，敷《四分》一宗，有同霧<lb
+ed="T" n="0791c02"/>市<ptr type="glossary" target="#g842"/>。時<persName key="A002468">文綱</persName>律匠雖先依<persName key="A001519">澄照<roleName>大師</roleName></persName>，後習律<lb
 ed="T" n="0791c03"/>文，乃登<persName key="A008984">成</persName>之堂奧矣。又<persName key="A001899">懷素</persName>著述，皆出其<lb
-ed="T" n="0791c04"/>門。<date notBefore-iso="+0685-02-12" key="j19712941972741" notAfter-iso="+0689-01-29"><name>垂拱</name>中</date>，<persName key="A000332">日照三藏</persName>譯《顯識》等經，<persName key="A002099">天后</persName>詔名<lb
+ed="T" n="0791c04"/>門。<date notBefore-iso="+0685-02-12" key="j19712941972741" notAfter-iso="+0689-01-29"><name>垂拱</name>中</date>，<persName key="A000332">日照<roleName>三藏</roleName></persName>譯《顯識》<ptr target="#n98"/>等經<ptr target="#n883"/>，<persName key="A002099">天后</persName>詔名<lb
 ed="T" n="0791c05"/>德十員助其法化，<persName key="A008984">成</persName>與<persName key="A000661">明恂</persName>、<persName key="A008981">嘉尚</persName>同預證<lb
 ed="T" n="0791c06"/>義。由是聲飛神甸，位首方壇，謂之梧桐多<lb
 ed="T" n="0791c07"/>棲鳳鳥，謂之芳沚頗秀蘭叢。門生孔多，無<lb
-ed="T" n="0791c08"/>過此集，然不詳終所。</p>
-    <p xml:id="pT50p0791c0901"><lb
-ed="T" n="0791c09"/>系曰：<persName key="A008984">成公</persName>與隋蔣州<persName key="A006381">道成</persName>同號而異實，二<lb
-ed="T" n="0791c10"/>者奚先？通曰：「隋<persName key="A006381">成</persName>也精乎《十誦》，著述尤多；<lb
-ed="T" n="0791c11"/>唐<persName key="A008984">成</persName>也傳乎《四分》，譯講偕妙。然其撰集則開<lb
+ed="T" n="0791c08"/>過此集，然不詳終所。</p><p xml:id="pT50p0791c0901"><lb
+ed="T" n="0791c09"/>系曰：<persName key="A008984">成<roleName>公</roleName></persName>與<date from-iso="+0581-03-06" key="j19333311946884" to-iso="+0618-04-15"><name>隋</name></date><placeName key="PL000000008904">蔣州</placeName><persName key="A006381">道成</persName>同號而異實，二<lb
+ed="T" n="0791c10"/>者奚先？通曰：「<date from-iso="+0581-03-06" key="j19333311946884" to-iso="+0618-04-15"><name>隋</name></date><persName key="A006381">成</persName>也精乎《十誦》<ptr target="#n882"/>，著述尤多；<lb
+ed="T" n="0791c11"/><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06"><name>唐</name></date><persName key="A008984">成</persName>也傳乎《四分》，譯講偕妙。然其撰集則開<lb
 ed="T" n="0791c12"/>悟迷淪，究其翻傳則陶甄教道。譬猶後焰<lb
 ed="T" n="0791c13"/>靡及乎前光，似寶或慚乎真寶，互有長短，<lb
 ed="T" n="0791c14"/>用則無遺也。」</p>
     <linkGrp>
+        <link targets="#0791b27 #0791b27"/>
+        <ptr target="#A008984" type="person"/>
+        <ptr target="#PL000000042139" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0791b28 #0791b28"/>
+        <ptr target="#A008984" type="person"/>
+        <ptr target="#PL000000042189" type="place"/>
+    </linkGrp>
+    <linkGrp>
         <link targets="#0791c02 #0791c02"/>
         <ptr target="#A001519" type="person"/>
         <ptr target="#A002468" type="person"/>
+        <ptr target="#j19606991962581" type="time"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0791c02 #0791c03"/>
         <ptr target="#A008984" type="person"/>
         <ptr target="#A002468" type="person"/>
+        <ptr target="#j19606991962581" type="time"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0791c03 #0791c04"/>
@@ -42,5 +53,11 @@ ed="T" n="0791c14"/>用則無遺也。」</p>
         <ptr target="#A008981" type="person"/>
         <ptr target="#PL000000042189" type="place"/>
         <ptr target="#j19712941972741" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0791c09 #0791c09"/>
+        <ptr target="#A006381" type="person"/>
+        <ptr target="#PL000000008904" type="place"/>
+        <ptr target="#j19333311946884" type="time"/>
     </linkGrp>
 </div>

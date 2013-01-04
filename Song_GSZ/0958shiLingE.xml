@@ -1,14 +1,19 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" type="明律" xml:id="gsz0794c28shiLingE"><lb
-ed="T" n="0794c28"/><anchor n="T.50.2061.0794c28"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date>京師崇聖寺<persName key="A010823">靈㟧</persName>傳</head><p><lb
-ed="T" n="0794c29"/><persName key="A010823">釋靈㟧</persName>者，不知何許人也。勤乎切問，靡憚<pb ed="T" n="0795a" xml:id="T50.2061.0795a"/><lb
-ed="T" n="0795a01"/>尋師。<date notBefore-iso="+0666-02-17" key="j19643591965156" notAfter-iso="+0668-04-24">乾封中</date>，於<placeName key="PL000000042216">西明寺</placeName>躬預<persName key="A001519">南山宣師</persName>法<lb
+ed="T" n="0794c28"/><anchor n="T.50.2061.0794c28"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date><placeName key="PL000000042229"><placeName>京師</placeName><placeName>崇聖寺</placeName></placeName><persName key="A010823">靈㟧</persName>傳</head><p><lb
+ed="T" n="0794c29"/><persName key="A010823">釋靈㟧</persName>者，不知何許人也。勤乎切問<ptr type="glossary" target="#g490"/>，靡憚<pb ed="T" n="0795a" xml:id="T50.2061.0795a"/><lb
+ed="T" n="0795a01"/>尋師。<date notBefore-iso="+0666-02-17" key="j19643591965156" notAfter-iso="+0668-04-24"><name>乾封</name>中</date>，於<placeName key="PL000000042216">西明寺</placeName>躬預<persName key="A001519"><persName>南山</persName><persName>宣<roleName>師</roleName></persName></persName>法<lb
 ed="T" n="0795a02"/>席。然其不拘常所，或近<persName key="A002468">文綱</persName>，或親<persName key="A010769">大慈</persName>，皆<lb
 ed="T" n="0795a03"/>求益也。末塗懼失<persName key="A001519">宣</persName>意，隨講收<anchor xml:id="begd1e23600"/>采<anchor xml:id="endd1e23600"/>所聞，號<lb
-ed="T" n="0795a04"/>之曰記，以解刪補鈔也。若然者推究造義<lb
-ed="T" n="0795a05"/>章之始，唯<persName key="A010769">慈</persName>與<persName key="A010823">㟧</persName>也。又別撰《輕重訣》，故<placeName key="PL000000023249">苑<lb
-ed="T" n="0795a06"/>陵</placeName><persName key="A010824">玄胄</persName>親覩其文，故援引之以解量處輕<lb
-ed="T" n="0795a07"/>重儀焉。金革之故，其訣湮滅，無復可尋矣。</p>
+ed="T" n="0795a04"/>之曰《記》<ptr target="#n942"/>，以解《刪補鈔》<ptr target="#n1290"/>也。若然者推究造義<lb
+ed="T" n="0795a05"/>章之始，唯<persName key="A010769">慈</persName>與<persName key="A010823">㟧</persName>也。又別撰《輕重訣》<ptr target="#n950"/>，故<placeName key="PL000000023249">苑<lb
+ed="T" n="0795a06"/>陵</placeName><persName key="A010824">玄胄</persName>親覩其文，故援引之以解《量處輕<lb
+ed="T" n="0795a07"/>重儀》<ptr target="#n867"/>焉。金革<ptr type="glossary" target="#g338"/>之故，其訣湮滅，無復可尋矣。</p>
+    <linkGrp>
+        <link targets="#0794c28 #0794c28"/>
+        <ptr target="#A010823" type="person"/>
+        <ptr target="#PL000000042229" type="place"/>
+    </linkGrp>
     <linkGrp>
         <link targets="#0795a01 #0795a02"/>
         <ptr target="#A010823" type="person"/>

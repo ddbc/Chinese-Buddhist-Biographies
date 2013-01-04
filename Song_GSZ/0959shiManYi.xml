@@ -1,12 +1,17 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" type="明律" xml:id="gsz0795a08shiManYi"><lb
-ed="T" n="0795a08"/><anchor n="T.50.2061.0795a08"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date>京兆崇福寺<persName key="A010776">滿意</persName>傳</head><p><lb
+ed="T" n="0795a08"/><anchor n="T.50.2061.0795a08"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date><placeName key="PL000000042324"><placeName>京兆</placeName><placeName>崇福寺</placeName></placeName><persName key="A010776">滿意</persName>傳</head><p><lb
 ed="T" n="0795a09"/><persName key="A010776">釋滿意</persName>，不知何許人也。風神峭拔，識量寬<lb
-ed="T" n="0795a10"/>和，經論旁通，專於律學。<date notBefore-iso="+0624-08-17" key="j19492001949949" notAfter-iso="+0626-09-05">武德末</date>，所遇<placeName key="PL000000001481">鄴都</placeName><lb
-ed="T" n="0795a11"/><persName key="A000747">法礪律師</persName>，作疏解曇無德律，遂往摳衣，明<lb
+ed="T" n="0795a10"/>和，經論旁通，專於律學。<date notBefore-iso="+0624-08-17" key="j19492001949949" notAfter-iso="+0626-09-05"><name>武德</name>末</date>，所遇<placeName key="PL000000001481">鄴都</placeName><lb
+ed="T" n="0795a11"/><persName key="A000747">法礪<roleName>律師</roleName></persName>，作疏<ptr target="#n903"/>解《曇無德律》<ptr target="#n70"/>，遂往摳衣，明<lb
 ed="T" n="0795a12"/>其授受。如是講導三十許年。乃傳付<placeName key="PL000000042420">觀音寺</placeName><lb
-ed="T" n="0795a13"/><persName key="A010825">大亮律師</persName>。<persName key="A010825">亮</persName>方授<placeName key="PL000000013239">越州</placeName><persName key="A004177">曇一</persName>。盛化之間，出龍<lb
-ed="T" n="0795a14"/>象之資，無過<persName key="A010776">意</persName>之門也矣。</p>
+ed="T" n="0795a13"/><persName key="A010825">大亮<roleName>律師</roleName></persName>。<persName key="A010825">亮</persName>方授<placeName key="PL000000013239">越州</placeName><persName key="A004177">曇一</persName>。盛化之間，出龍<lb
+ed="T" n="0795a14"/>象之資<ptr type="glossary" target="#g1172"/>，無過<persName key="A010776">意</persName>之門也矣<ptr target="#n929"/>。</p>
+    <linkGrp>
+        <link targets="#0795a08 #0795a08"/>
+        <ptr target="#A010776" type="person"/>
+        <ptr target="#PL000000042324" type="place"/>
+    </linkGrp>
     <linkGrp>
         <link targets="#0795a10 #0795a11"/>
         <ptr target="#A010776" type="person"/>
@@ -20,8 +25,18 @@ ed="T" n="0795a14"/>象之資，無過<persName key="A010776">意</persName>之�
         <ptr target="#A010825" type="person"/>
     </linkGrp>
     <linkGrp>
+        <link targets="#0795a12 #0795a13"/>
+        <ptr target="#A010825" type="person"/>
+        <ptr target="#PL000000042420" type="place"/>
+    </linkGrp>
+    <linkGrp>
         <link targets="#0795a13 #0795a13"/>
         <ptr target="#A004177" type="person"/>
         <ptr target="#A010825" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0795a13 #0795a13"/>
+        <ptr target="#A004177" type="person"/>
+        <ptr target="#PL000000013239" type="place"/>
     </linkGrp>
 </div>

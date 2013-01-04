@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" type="譯經" xml:id="gsz0712a23shiBuKong"><lb
-ed="T" n="0712a23"/><anchor n="T.50.2061.0712a23"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date><placeName key="PL000000042218">京兆大興善寺</placeName><persName key="A000095">不空</persName>傳（<persName key="A008843">慧朗</persName>）</head><p><lb
+ed="T" n="0712a23"/><anchor n="T.50.2061.0712a23"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date><placeName key="PL000000042218"><placeName>京兆</placeName><placeName>大興善寺</placeName></placeName><persName key="A000095">不空</persName>傳（<persName key="A008843">慧朗</persName>）</head><p><lb
 ed="T" n="0712a24"/><persName key="A000095">釋不空</persName>，<name>梵</name>名<persName key="A000095">阿目佉跋折羅</persName>，<name>華</name>言<persName key="A000095">不空金剛</persName>，<lb
 ed="T" n="0712a25"/>止行二字，略也<ptr target="#n116"/>。本<placeName key="PL000000055420">北天竺</placeName>婆羅門<ptr rend="display:none;" type="glossary" target="#g117"/>族<ptr target="#n292"/>，幼失所<lb
-ed="T" n="0712a26"/>天<ptr target="#n118"/>，隨叔父觀光<placeName key="PL000000000083">東國</placeName>。<date key="j19836731984037" from-iso="+0719-01-05" to-iso="+0720-01-04">年十五</date><ptr target="#n119"/>，師事<persName key="A000774">金剛智<lb
+ed="T" n="0712a26"/>天<ptr target="#n118"/>，隨叔父觀光<ref type="place" target="#PL000000000083">東國</ref>。<date key="j19836731984037" from-iso="+0719-01-05" to-iso="+0720-01-04">年十五</date><ptr target="#n119"/>，師事<persName key="A000774">金剛智<lb
 ed="T" n="0712a27"/>三藏</persName>，初導以<name>梵</name>本悉曇章<ptr type="glossary" target="#g123"/>及聲明論<ptr type="glossary" target="#g124"/>，浹旬已<lb
 ed="T" n="0712a28"/>通徹矣。<ref target="#A000774" type="person">師</ref>大異之，與受菩薩戒<ptr type="glossary" target="#g120"/>，引入金剛<lb
 ed="T" n="0712a29"/>界大曼荼羅，驗以擲花<ptr target="#n121"/>，知後大興教法。洎<pb ed="T" n="0712b" xml:id="T50.2061.0712b"/><lb
@@ -22,7 +22,7 @@ ed="T" n="0712b12"/><placeName key="PL000000030464">南海郡</placeName>，採�
 ed="T" n="0712b13"/>寺</placeName>相次度人百千萬眾。<persName key="A000095">空</persName>自對<ref target="#A002144" type="person">本尊</ref>祈請<lb
 ed="T" n="0712b14"/>旬日，感<persName key="A002144">文殊</persName>現身。及將登舟，<ref target="#A008787" type="person">採訪使</ref>召<lb
 ed="T" n="0712b15"/>誡<placeName key="PL000000030482">番禺</placeName>界蕃客大首領<persName key="A017844">伊習賓</persName>等曰：「今<persName key="A000095">三藏</persName><lb
-ed="T" n="0712b16"/>往<placeName key="PL000000048734">南天竺師子國</placeName>，宜約束船主，好將<persName key="A000095">三藏</persName><lb
+ed="T" n="0712b16"/>往<placeName key="PL000000048734"><placeName>南天竺</placeName><placeName>師子國</placeName></placeName>，宜約束船主，好將<persName key="A000095">三藏</persName><lb
 ed="T" n="0712b17"/>并弟子<persName key="A000459">含光</persName>、<persName key="A008835">慧<anchor xml:id="beg0712sgsz1"/>𧦬<anchor xml:id="end0712sgsz1"/></persName>等三七人、國信等達彼，無<lb
 ed="T" n="0712b18"/>令疎失。」</p><p><date key="j19920851992113" from-iso="+0742-01-16" to-iso="+0742-02-13">二十九年十二月</date>，附<placeName key="PL000000048739">崑崙</placeName><ptr target="#n132"/>舶，離<placeName key="PL000000030464">南<lb
 ed="T" n="0712b19"/>海</placeName>至<placeName key="PL000000048202">訶陵國</placeName>界，遇大黑風。眾商惶怖，各作<lb
@@ -111,7 +111,7 @@ ed="T" n="0713b14"/>及《普賢願行》、《出生無邊法門經》<ptr targ
 ed="T" n="0713b15"/>三歎息。其先受法者，偏令屬意觀菩提心本<lb
 ed="T" n="0713b16"/>尊大印，直<ptr target="#n160"/>詮阿字了法，不生證大覺身，若<lb
 ed="T" n="0713b17"/>指諸掌，重重<anchor xml:id="beg0713001"/>囑<anchor xml:id="end0713001"/>累<ptr target="#n161"/>。一夜，命弟子<persName key="A001641">趙遷</persName>：「持筆<lb
-ed="T" n="0713b18"/>硯來，<ref target="#A000095" type="person">吾</ref>略出《涅槃<anchor xml:id="beg0713002"/>茶<anchor xml:id="end0713002"/><ptr target="#n391"/>毘儀軌》以貽後代，<lb
+ed="T" n="0713b18"/>硯來，<ref target="#A000095" type="person">吾</ref>略出涅槃<anchor xml:id="beg0713002"/>茶<anchor xml:id="end0713002"/><ptr target="#n391"/>毘儀軌以貽後代，<lb
 ed="T" n="0713b19"/>使準此送終。」<persName key="A001641">遷</persName>稽首三請「幸乞慈悲久住。<lb
 ed="T" n="0713b20"/>不然，眾生何所依乎？」<persName key="A000095">空</persName>笑而已。俄而示疾，<lb
 ed="T" n="0713b21"/>上表告辭。勅使勞問，賜醫藥，加開府儀同三<lb
@@ -146,7 +146,7 @@ ed="T" n="0713c20"/>郎</persName>勿起，此影耳。」乃舉手示<persName 
 ed="T" n="0713c21"/>在手<ptr target="#n166"/>。</p><p>又<placeName key="PL000000023510">北邙山</placeName>有巨蛇，樵采者往往見之，<lb
 ed="T" n="0713c22"/>矯首若丘陵，夜常承吸露氣。見<persName key="A000095">空</persName>，人語曰：「<lb
 ed="T" n="0713c23"/>弟子惡報，<ref target="#A000095" type="person">和尚</ref>如何見度？每欲飜河水陷<lb
-ed="T" n="0713c24"/><placeName key="PL000000023581">洛陽城</placeName>以快所懷也。」<persName key="A000095">空</persName>為其受歸戒，說因<lb
+ed="T" n="0713c24"/><placeName key="PL000000023581">洛陽</placeName>城以快所懷也。」<persName key="A000095">空</persName>為其受歸戒，說因<lb
 ed="T" n="0713c25"/>果，且曰：「汝以瞋心故受，今那復恚恨乎？<ref target="#A000095" type="person">吾</ref><lb
 ed="T" n="0713c26"/>力何及？當思<ref target="#A000095" type="person">吾</ref>言，此身必捨矣。」後樵子見<lb
 ed="T" n="0713c27"/>蛇死㵎下，臭聞數里。</p><p><persName key="A000095">空</persName>凡應詔祈雨，無他<lb
@@ -169,7 +169,7 @@ ed="T" n="0714a14"/><persName key="A008847">徐浩</persName>書之，樹於<ref
     <p><lb
 ed="T" n="0714a15"/>系曰：傳教令輪<ptr type="glossary" target="#g100"/>者，<placeName key="PL000000000083">東夏</placeName>以<persName key="A000774">金剛智</persName>為始祖，<lb
 ed="T" n="0714a16"/><persName key="A000095">不空</persName>為二祖，<persName key="A008843">慧朗</persName>為三祖，已下宗承所損<lb
-ed="T" n="0714a17"/>益可知也。自後岐分派別。</p><p>咸曰：「傳瑜伽大<lb
+ed="T" n="0714a17"/>益可知也。自後岐分派別。</p><p>咸曰<ptr target="#n762"/>：「傳瑜伽大<lb
 ed="T" n="0714a18"/>教，多則多矣，而少驗者何？」亦猶羽嘉生應<lb
 ed="T" n="0714a19"/>龍，應龍生鳳皇，凰皇已降，生庶鳥矣<ptr target="#n171"/>。欲無<lb
 ed="T" n="0714a20"/>變革，其可得乎！</p>

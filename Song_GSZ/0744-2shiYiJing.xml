@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" type="譯經" xml:id="gsz0710b07shiYiJing"><lb
-n="0710b07" ed="T"/><anchor n="T.50.2061.0710b07"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date><placeName key="PL000000042270">京兆大薦福寺</placeName><persName key="A001470">義淨</persName>傳</head><p><lb
+n="0710b07" ed="T"/><anchor n="T.50.2061.0710b07"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date><placeName key="PL000000042270"><placeName>京兆</placeName><placeName>大薦福寺</placeName></placeName><persName key="A001470">義淨</persName>傳</head><p><lb
 ed="T" n="0710b08"/><persName key="A001470">釋義淨</persName>字<persName key="A001470">文明</persName>，姓<name>張</name>氏，<placeName key="PL000000002485">范陽</placeName>人也<ptr target="#n31"/>。髫齓之時，<lb
 ed="T" n="0710b09"/>辭親落髮，遍詢名匠，廣探群籍，內外<ptr type="glossary" target="#g32"/>閑習，<lb
 ed="T" n="0710b10"/>今古博通。<date key="j19581531958296" from-iso="+0649-02-20" to-iso="+0649-07-13">年十有五</date>，便萌其志，欲遊<placeName key="PL000000055436">西域</placeName>，<lb
@@ -17,24 +17,24 @@ ed="T" n="0710b20"/>五十萬頌，金剛座真容一鋪<ptr target="#n33"/>、�
 ed="T" n="0710b21"/>后</persName>親迎于<placeName key="PL000000023526">上東門</placeName>外，諸寺緇伍<ptr type="glossary" target="#g37"/>具<anchor xml:id="beg0710sgsz2a"/>幡<anchor xml:id="end0710sgsz2a"/>蓋歌樂<lb
 ed="T" n="0710b22"/>前導，勅於<placeName key="PL000000023657">佛授記寺</placeName>安置焉。</p><p>初與<placeName key="PL000000047983">于闐</placeName>三<lb
 ed="T" n="0710b23"/>藏<persName key="A001606">實叉難陀</persName>飜《華嚴經》<ptr target="#n38"/>。<date key="j19768801977143" from-iso="+0700-05-31" to-iso="+0701-02-18"><name>久視</name></date>之後乃<ref type="person" target="#A001470">自</ref>專譯。<lb
-ed="T" n="0710b24"/>起<date from-iso="+0699-11-30" key="j19766981978233" to-iso="+0704-02-13">庚子歲至<name>長安</name>癸卯</date>，於<placeName key="PL000000023665">福先寺</placeName>及<placeName key="PL000000042216">雍京西<lb
-ed="T" n="0710b25"/>明寺</placeName>譯《金光明最勝王》<ptr target="#n39"/>、《能斷金剛般若》<ptr target="#n40"/>、<ptr target="#n289"/>《彌勒<lb
-ed="T" n="0710b26"/>成佛》<ptr target="#n41"/>、《一字呪王》<ptr target="#n42"/>、《莊嚴王陀羅尼》<ptr target="#n43"/>、《長爪<name>梵</name>志》<ptr target="#n44"/>等<lb
+ed="T" n="0710b24"/>起<date from-iso="+0699-11-30" key="j19766981978233" to-iso="+0704-02-13">庚子歲至<name>長安</name>癸卯</date>，於<placeName key="PL000000023665">福先寺</placeName>及<placeName key="PL000000042216"><placeName>雍京</placeName><placeName>西<lb
+ed="T" n="0710b25"/>明寺</placeName></placeName>譯《金光明最勝王》<ptr target="#n39"/>、《能斷金剛般若》<ptr target="#n40"/>、<ptr target="#n289"/>《彌勒<lb
+ed="T" n="0710b26"/>成佛》<ptr target="#n41"/>、《一字呪王》<ptr target="#n42"/>、《莊嚴王陀羅尼》<ptr target="#n43"/>、《長爪梵志》<ptr target="#n44"/>等<lb
 ed="T" n="0710b27"/>經，《根本一切有部毘柰耶》<ptr target="#n45"/>、《尼陀那目得迦》<ptr target="#n46"/>、《百<lb
 ed="T" n="0710b28"/>一羯磨攝》<ptr target="#n47"/>等，《掌中》<ptr target="#n48"/>、《取因假設》<ptr target="#n49"/>、《六門教授》<ptr target="#n50"/>等論、<lb
 ed="T" n="0710b29"/>及《龍樹勸誡頌》<ptr target="#n51"/>，凡二十部。<placeName key="PL000000055420">北印度</placeName>沙門<persName key="A001922">阿儞<pb ed="T" n="0710c" xml:id="T50.2061.0710c"/><lb
-ed="T" n="0710c01"/>真那</persName>證<name>梵</name>文、義<ptr rend="display:none;" type="glossary" target="#g52"/>，沙門<persName key="A002448">波崙</persName>、<persName key="A001192"><anchor rend="display:none;" xml:id="beg0710003"/>復<anchor xml:id="end0710003"/>禮</persName>、<persName key="A002449">慧表</persName>、<persName key="A002480">智積</persName>等<lb
+ed="T" n="0710c01"/>真那</persName>證<name>梵</name>文、義<ptr rend="display:none;" type="glossary" target="#g52"/>，沙門<persName key="A002448">波崙</persName>、<persName key="A001192"><anchor xml:id="beg0710003"/>復<anchor xml:id="end0710003"/>禮</persName>、<persName key="A002449">慧表</persName>、<persName key="A002480">智積</persName>等<lb
 ed="T" n="0710c02"/>筆受<ptr rend="display:none;" type="glossary" target="#g53"/>、證文<ptr rend="display:none;" type="glossary" target="#g52"/>，沙門<persName key="A000746">法寶</persName>、<persName key="A002450">法藏</persName>、<persName key="A002451">德感</persName>、<persName key="A001179">勝莊</persName>、<persName key="A002452">神英</persName>、<persName key="A002453">仁<lb
 ed="T" n="0710c03"/>亮</persName>、<persName key="A002454">大儀</persName>、<persName key="A002455">慈訓</persName>等證義<ptr rend="display:none;" type="glossary" target="#g54"/>，成均太學助教<persName key="A002116">許觀</persName>監<lb
 ed="T" n="0710c04"/>護<ptr rend="display:none;" type="glossary" target="#g55"/>，繕寫進呈。<persName key="A002099">天后</persName>製《聖教序》<ptr target="#n56"/>，令標經首。</p><p><lb
-ed="T" n="0710c05"/>暨<persName key="A002100">和帝</persName><date key="j19786111978942" from-iso="+0705-02-25" to-iso="+0706-01-22"><name>神龍</name>元年乙巳</date>，於<placeName key="PL000000023610">東洛內道場</placeName>譯<lb
+ed="T" n="0710c05"/>暨<persName key="A002100">和帝</persName><date key="j19786111978942" from-iso="+0705-02-25" to-iso="+0706-01-22"><name>神龍</name>元年乙巳</date>，於<placeName key="PL000000023610"><placeName>東洛</placeName><placeName>內道場</placeName></placeName>譯<lb
 ed="T" n="0710c06"/>《孔雀王經》<ptr target="#n57"/>，又於<placeName key="PL000000023665">大福先寺</placeName>出《勝光天子》<ptr target="#n58"/>、《香王<lb
 ed="T" n="0710c07"/>菩薩呪》<ptr target="#n59"/>、《一切莊嚴王經》<ptr target="#n60"/>四部，沙門<persName key="A002456">盤度</persName>讀<name>梵</name><lb
 ed="T" n="0710c08"/>文，沙門<persName key="A002457">玄傘</persName>筆受<ptr rend="display:none;" type="glossary" target="#g53"/>，沙門<persName key="A002454">大儀</persName>證文，沙門<persName key="A001179">勝莊</persName>、<lb
 ed="T" n="0710c09"/><persName key="A002458">利貞</persName>證義<ptr rend="display:none;" type="glossary" target="#g54"/>，兵部侍郎<persName key="A002459">崔湜</persName>、給事中<persName key="A002460"><anchor xml:id="beg0710sgsz3" n="0710sgsz3"/><choice resp="sgsz"><sic>廬</sic><corr>盧</corr></choice><anchor xml:id="end0710sgsz3"/>粲</persName>潤文<lb
 ed="T" n="0710c10"/>正字<ptr rend="display:none;" type="glossary" target="#g70"/>，祕書監駙馬都尉<persName key="A002117">楊慎交</persName>監護<ptr rend="display:none;" type="glossary" target="#g55"/>。<ref target="#A002100" type="person">帝</ref>深崇<lb
 ed="T" n="0710c11"/>釋典，特抽叡思，製《大唐龍興三藏聖教序》<ptr target="#n32"/>。<lb
-ed="T" n="0710c12"/>又御<placeName key="PL000000023562">洛陽西門</placeName>，宣示群官新飜之經。</p><p><date from-iso="+0706-01-23" key="j19789431979326" to-iso="+0707-02-10">二年</date>，<persName key="A001470">淨</persName><lb
+ed="T" n="0710c12"/>又御<placeName key="PL000000023562"><placeName>洛陽</placeName><placeName>西門</placeName></placeName>，宣示群官新飜之經。</p><p><date from-iso="+0706-01-23" key="j19789431979326" to-iso="+0707-02-10">二年</date>，<persName key="A001470">淨</persName><lb
 ed="T" n="0710c13"/>隨<ref target="#A002100" type="person">駕</ref>歸<placeName key="PL000000042189">雍京</placeName>，置<placeName key="PL000000042271">飜經院</placeName>於<placeName key="PL000000042270">大薦福寺</placeName>，居之。<lb
 ed="T" n="0710c14"/><date key="j19793271979566" from-iso="+0707-02-11" to-iso="+0707-10-08">三年</date>，詔入內與同飜經沙門九旬坐夏<ptr type="glossary" target="#g61"/>。<ref target="#A002100" type="person">帝</ref><lb
 ed="T" n="0710c15"/>以昔居<placeName key="PL000000026748">房部</placeName>，幽厄無歸<ptr target="#n62"/>，祈念<persName key="A015237">藥師</persName>，遂蒙降<lb
@@ -63,20 +63,20 @@ ed="T" n="0711a08"/>卷。又出「說一切有部跋窣堵」<ptr target="#n77"
 ed="T" n="0711a09"/>跋渠<ptr type="glossary" target="#g79"/>之類，蓋<name>梵</name>音有<placeName>楚</placeName>、<placeName>夏</placeName><ptr type="glossary" target="#g80"/>耳，約七十八卷。<lb
 ed="T" n="0711a10"/><persName key="A001470">淨</persName>雖遍飜三藏，而偏攻律部，譯綴之暇，曲<lb
 ed="T" n="0711a11"/>授學徒。凡所行事皆尚急護<ptr type="glossary" target="#g81"/>。漉囊<ptr type="glossary" target="#g82"/>滌穢，特<lb
-ed="T" n="0711a12"/>異常倫。學侶傳行，遍于<placeName key="PL000000042189">京</placeName><placeName key="PL000000023581">洛</placeName>，美哉，亦遺法<lb
+ed="T" n="0711a12"/>異常倫。學侶傳行，遍于<placeName key="PL000000042189">京</placeName><placeName key="PL000000023581">洛</placeName>。美哉！亦遺法<lb
 ed="T" n="0711a13"/>之盛事也。</p><p><date key="j19815121981836" from-iso="+0713-02-04" to-iso="+0713-12-25"><name>先天</name>二年</date>卒，春秋七十九，法臘五<lb
 ed="T" n="0711a14"/>十九，葬事官供所出。「跋窣堵」唯存真本，未<lb
 ed="T" n="0711a15"/>暇覆疏，而逼泥曰<ptr type="glossary" target="#g83"/>。然其傳度經律，與<persName key="A000294">奘<lb
 ed="T" n="0711a16"/><roleName>師</roleName></persName>抗衡。比其著述，<persName key="A001470">淨</persName>多文。性傳密呪，最<lb
-ed="T" n="0711a17"/>盡其妙，二三合聲<ptr type="glossary" target="#g84"/>，爾時方曉矣。今塔在<placeName key="PL000000023647">洛京<lb
-ed="T" n="0711a18"/>龍門</placeName>北之高岡焉。</p>
-        <p><lb
+ed="T" n="0711a17"/>盡其妙，二三合聲<ptr type="glossary" target="#g84"/>，爾時方曉矣。今塔在<placeName key="PL000000023647"><placeName>洛京</placeName><placeName><lb
+ed="T" n="0711a18"/>龍門</placeName></placeName>北之高岡焉。</p>
+<p><lb
 ed="T" n="0711a19"/>系曰：「譯」之言「易」也，謂以所有易所無也。譬<lb
 ed="T" n="0711a20"/>諸枳橘焉，由易土而殖，橘化為枳。枳橘之<lb
 ed="T" n="0711a21"/>呼雖殊，而辛芳榦葉無異<ptr target="#n85"/>。又如<placeName key="PL000000055436">西域</placeName>尼拘<lb
 ed="T" n="0711a22"/>律陀樹<ptr type="glossary" target="#g1164"/>，即<placeName key="PL000000000083">東夏</placeName>之楊柳，名雖不同，樹體是<lb
 ed="T" n="0711a23"/>一。自<date from-iso="+0025-02-15" key="j17302372082329" to-iso="+0989-02-13"><name>漢</name>至今皇<name>宋</name></date>，飜譯之人多矣。<date from-iso="+0266-02-08" key="j18182531916500" to-iso="+0535-02-05"><name>晉</name>、<name>魏</name>之<lb
-ed="T" n="0711a24"/>際</date>，唯<placeName key="PL000000055425">西竺</placeName>人來，止稱尼拘耳。<ref type="place" target="#PL000000000083">此方</ref>參譯之<lb
+ed="T" n="0711a24"/>際</date>，唯<placeName key="PL000000055425">西竺</placeName>人來，止稱「尼拘」耳。<ref type="place" target="#PL000000000083">此方</ref>參譯之<lb
 ed="T" n="0711a25"/>士，因西僧指楊柳，始體言意。其後東僧往<lb
 ed="T" n="0711a26"/><ref type="place" target="#PL000000055425">彼</ref>，識尼拘是<placeName key="PL000000000083">東夏</placeName>之柳。兩土方言，一時洞了<lb
 ed="T" n="0711a27"/>焉。唯西唯東，二類之人未為盡善。東僧往<lb

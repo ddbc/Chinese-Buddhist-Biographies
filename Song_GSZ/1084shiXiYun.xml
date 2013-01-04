@@ -2,7 +2,7 @@
 <div xmlns="http://www.tei-c.org/ns/1.0" type="感通" xml:id="gsz0842b26shiXiYun"><lb
 ed="T" n="0842b26"/><anchor n="T.50.2061.0842b26"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date>洪州黃蘗山<persName key="A000490">希運</persName>傳</head><p><lb
 ed="T" n="0842b27"/><persName key="A000490">釋希運</persName>，<placeName key="PL000000017166">閩</placeName>人也。年及就<anchor xml:id="beg0842003"/>傅<anchor xml:id="end0842003"/>，鄉校推其慧利。<lb
-ed="T" n="0842b28"/>乃割愛投高安<placeName key="PL000000019778">黃蘗山寺</placeName>出家。迨成長也，<lb
+ed="T" n="0842b28"/>乃割愛投<placeName key="PL000000019688">高安黃蘗山寺</placeName>出家。迨成長也，<lb
 ed="T" n="0842b29"/>身量減<persName key="A019454">王商</persName>裁一尺所，額間隆起，號為<persName key="A000490">肉<pb ed="T" n="0842c" xml:id="T50.2061.0842c"/><lb
 ed="T" n="0842c01"/>珠</persName>。然倜儻不羈，人莫輕測。而乃觀方入<placeName key="PL000000014411">天<lb
 ed="T" n="0842c02"/>台</placeName>，偶逢一僧偕行，言笑自若。<persName key="A000490">運</persName>偷窺之，其<lb
@@ -20,17 +20,17 @@ ed="T" n="0842c13"/>之身忝甞禮<persName key="A001707">惠忠國師</persNam
 ed="T" n="0842c14"/>丈山禪師</persName>，所惜巍巍乎堂堂乎真大乘器也。」<lb
 ed="T" n="0842c15"/><persName key="A000490">運</persName>念受二過，記莂攸同，乃還<placeName key="PL000000018628">洪井</placeName>見<persName key="A001897">海禪<lb
 ed="T" n="0842c16"/>師</persName>，開了心趣，聲價彌高。徇命居<placeName key="PL000000019682">黃蘗</placeName>精舍，<lb
-ed="T" n="0842c17"/>昇平相<persName key="A003624">裴公休</persName>欽重躬謁，有詩贈焉。「曾傳達<lb
-ed="T" n="0842c18"/>士心中印額有圓珠七尺身。挂錫十年棲<lb
+ed="T" n="0842c17"/>昇平相<persName key="A003624">裴公休</persName>欽重躬謁，有詩贈焉：「曾傳達<lb
+ed="T" n="0842c18"/>士心中印，額有圓珠七尺身。挂錫十年棲<lb
 ed="T" n="0842c19"/>蜀水，浮盃今日渡漳濱。一千龍象隨高步，萬<lb
 ed="T" n="0842c20"/>里香<anchor xml:id="beg0842sgsz23"/>華<anchor xml:id="end0842sgsz23"/>結勝因。願欲事<persName key="A000490">師</persName>為弟子，不知將<lb
-ed="T" n="0842c21"/>法付何<anchor xml:id="tnote0842004"/>人！」則<persName key="A003624">裴相</persName>得法，出<persName key="A000490">運</persName>之門。以<date notBefore-iso="+0847-02-10" key="j20304612035056" notAfter-iso="+0859-09-10"><name>大中</name><lb
-ed="T" n="0842c22"/>中</date>終于所住寺，勅諡<persName key="A000490">斷際禪師</persName>，塔名廣業<!--找不到此地-->，<lb
+ed="T" n="0842c21"/>法付何<anchor xml:id="beg0842004"/>人<anchor xml:id="end0842004"/>！」<ptr target="#n609"/>則<persName key="A003624">裴相</persName>得法，出<persName key="A000490">運</persName>之門。以<date notBefore-iso="+0847-02-10" key="j20304612035056" notAfter-iso="+0859-09-10"><name>大中</name><lb
+ed="T" n="0842c22"/>中</date>終于所住寺，勅諡<persName key="A000490">斷際禪師</persName><ptr target="#n610"/>，塔名<placeName key="PL000000019686">廣業</placeName><ptr target="#n611"/>，<lb
 ed="T" n="0842c23"/>語錄而行于世。</p>
     <linkGrp>
         <link targets="#0842b28 #0842b28"/>
         <ptr target="#A000490" type="person"/>
-        <ptr target="#PL000000019778" type="place"/>
+        <ptr target="#PL000000019688" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0842c01 #0842c09"/>

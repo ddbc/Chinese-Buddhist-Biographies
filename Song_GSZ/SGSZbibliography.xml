@@ -1,0 +1,823 @@
+﻿   <?oxygen RNGSchema="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <!--file:/E:/projects/eXml/frameworks/tei/schema/xsd/p5/tei_all.xsd-->
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Song Gaoseng Zhuan bibliography</title>
+                <author>Zhang Boyong, Marcus Bingenheimer, John Kieschnick</author>
+            </titleStmt>
+            <publicationStmt>
+                <p> This is a bibliography for the "A Critical, Digital Edition of the Song gaoseng zhuan" project. It is funded by the Chiang Ching-Kuo Foundation for International Scholarly Exchange 蔣經國國際學術交流基金會 (RG001-D-09) at Dharma Drum Buddhist College. <date>September 2011</date>
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>created electronically </p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listBibl>
+                <bibl ana="book">
+                    <author><hi>CBETA T</hi></author>
+                    <title>Taisho Edition of the Chinese Buddhist canon as found in the CBETA corpus of Buddhist texts 《大正新脩大藏經》CBETA電子資料庫光碟版</title>
+                    <edition>Chinese Buddhist Electronic Text Association (CBETA)中華電子佛典協會<date>2005～</date>.</edition>
+                    <abbr>T</abbr>
+                </bibl>
+                <bibl ana="book">
+                    <author><hi>CBETA X</hi></author>
+                    <title>Shin Zokuzokyo Edition of the Chinese Buddhist canon as found in the CBETA corpus of Buddhist texts 《卍新纂續藏經》CBETA電子資料庫光碟版</title>
+                  <edition>Chinese Buddhist Electronic Text Association (CBETA)中華電子佛典協會<date>2005～</date>.</edition>
+                    <abbr>X</abbr>
+                </bibl>
+                <bibl ana="book">
+                    <author><hi>Cui</hi>, Naifu 崔乃夫 (Ed.)</author>
+                    <title>Zhonghua renmin gongheguo diming dacidian 中华人民共和国地名大词典 [The People's Republic of China place-name dictionary]</title>
+                    <edition>First Edition: Beijing Shangwu yinshuguan 北京商務印書館<date>2002</date>-08 5 vols.</edition>
+                    <abbr>地名</abbr>
+                </bibl>
+                <bibl ana="book">
+                    <author><hi>Zang</hi>, Lihe 臧勵龢 (Ed.)</author>
+                    <title>Zhong guo gujin diming dacidian 中國古今地名大辭典 [Dictionary of Chinese ancient and present toponyms]</title>
+                    <edition>First Edition: Taiwan Shangwu yinshuguan 臺灣商務印書館<date>1993[1931]</date>-03 1 vols.</edition>
+                    <abbr>中地</abbr>
+                </bibl>
+                <bibl ana="book">
+                    <author><hi>Wei</hi>, Songshan 魏嵩山 (Ed.)</author>
+                    <title>Zhong guo lishi diming dacidian 中国历史地名大辞典 [Dictionary of Chinese historical toponyms]</title>
+                    <edition>First Edition: Guangdong jiaoyu chubanshe 廣東教育出版社<date>1995</date></edition>
+                    <abbr>歷地魏</abbr>
+                </bibl>
+                <bibl ana="book">
+                    <author><hi>Shi</hi>, Weile 史為樂 (Ed.)</author>
+                  <title>Zhong guo lishi diming dacidian 中国历史地名大辞典 [Dictionary of Chinese historical toponyms]</title>
+                    <edition>Beijing: Zhong guo shehui kexue chubanshe 中國社會科學出版社<date>2005</date>-03 2 vols.</edition>
+                    <abbr>歷地史</abbr>
+                </bibl>
+                <bibl ana="book">
+                    <author><hi>Jin</hi>, Enhui 金恩輝 (Ed.)</author>
+                    <title>Zhong guo difangzhi zongmu tiyao 中國地方志總目提要 [Chinese local histories: a comprehensive annotated catalog]</title>
+                    <edition>Taipei: Hanmei tushu 漢美圖書有限公司<date>1996</date>-04 3 vols.</edition>
+                    <abbr>地志</abbr>
+                </bibl>
+                <bibl ana="book">
+                    <author><hi>Fang</hi>, Guoyu 方國瑜 (Ed.)</author>
+                    <title>Collection of historical materials on Yunnan 雲南史料叢刊</title>
+                    <edition><date>1998</date></edition>
+                    <abbr>雲南史</abbr>
+                </bibl>
+                <bibl ana="book">
+                    <author><hi>Shumuwenxian chubanshe</hi>書目文獻出版社 (Ed.)</author>
+                  <title>Riben cang Zhongguo han jian di fang zhi cong kan 日本藏中國罕見地方志叢刊 [Reprint series of rare gazetteers held in Japanese collections]</title>
+                    <edition>Beijing: Bibliography and Document Publishing House 書目文獻出版社<date>1990</date></edition>
+                    <abbr>罕見志</abbr>                    
+                </bibl>
+                <bibl ana="book">
+                    <author><hi>Yin</hi>, Mengxia 殷夢霞(Ed.)</author>
+                  <title>Riben cang Zhongguo han jian di fang zhi cong kan xu bian 日本藏中國罕見地方志叢刊續編 [Sequel reprint series of rare gazetteers held in Japanese collections]</title>
+                    <edition>Beijing Publishing House 北京圖書出版社<date>2003</date></edition>
+                    <abbr>罕志續</abbr>                    
+                </bibl>
+                <bibl ana="book">
+                  <author><hi>Chen</hi>, Yuanan 陳援菴 (Ed.)</author>
+                    <title>Shi shi yi nian lu 釋氏疑年錄 [Record of dubious dates of Buddhist monks]</title>
+                  <edition>Taipei Heavenly lotus publishing co., ltd 臺北，天華出版事業股份有限公司<date>1983</date>-05</edition>
+                    <abbr>疑年錄</abbr>                    
+                </bibl>
+                <bibl ana="book">
+                    <author><hi>Hummel</hi>, Arthur W. (Ed.)</author>
+                    <title>Eminent Chinese of the Ch'ing Period 清代名人傳略</title>
+                    <edition>Reprinted: Taipei Nantian shuju Ltd. 臺北，南天書局有限公司[SMC Publishing Inc.]<date>2002</date>[1991] 2 vols.</edition>
+                    <abbr>Hummel 2003</abbr>
+                </bibl>
+                <bibl ana="book">
+                    <author><hi>Fang</hi>, Zhaoying 房兆楹</author>
+                    <title>Dictionary of Ming Biography(1368-1644) 明代名人傳</title>
+                    <edition><date>1976</date>2 vols.</edition>
+                    <abbr>明名</abbr>
+                </bibl>
+                <bibl ana="book">
+                    <author><hi>Zang</hi>, Lihe 臧勵龢 (Ed.)</author>
+                    <title>Zhong guo renming dacidian 中國人名大辭典 [Dictionary of Chinese person's name]</title>
+                    <edition>Fifth Edition: Taiwan Shangwu yinshuguan 臺灣商務印書館<date>1980-12</date></edition>
+                    <abbr>中名</abbr>
+                </bibl>
+                <bibl ana="book">
+                  <author><hi>Shi</hi>, Mingfu 釋明復 (Ed.)</author>
+                    <title>Zhong guo foxue renming cidian中國佛學人名辭典 [Biographical dictionary of Chinese Buddhist names]</title>
+                    <edition>Second Edition: Kaohsiung Taigu, 太谷文化<date>1998</date></edition>
+                    <abbr>佛人</abbr>
+                </bibl>
+                <bibl ana="book">
+                    <author><hi>Shi</hi>, Zhenhua 釋震華</author>
+                    <title>Zhong guo fojiao renming dacidian中國佛教人名大辭典 [Dictionary of Chinese Buddhist names]</title>
+                    <edition>First Edition: Shanghai Lexicographical Publishing House 上海辭書出版社<date>2002 [1999]</date></edition>
+                    <abbr>佛名</abbr>
+                </bibl>
+                <bibl ana="book">
+                    <author><hi>Chen</hi>, Yutang 陳玉堂</author>
+                  <title>Zhongguo jin xian dai ren wu ming hao da ci dian 中國近現代人物名號大辭典</title>
+                    <edition>Hangzhou Zhejiang guji chubanshe浙江古籍出版社<date>1993</date></edition>
+                    <abbr>近人</abbr>
+                </bibl>
+                <bibl ana="book">
+                  <author><hi>Chen</hi>, Deyun 陳德蕓</author>
+                  <title>Gu jin ren wu bie ming suo yin 古今人物別名索引</title>
+                    <edition>Shanghai Bookstore Publishing House 上海書店印行<date>1982</date></edition>
+                    <abbr>別名</abbr>
+                </bibl>
+                <bibl ana="book">
+                  <author><hi>Shi</hi>, Ciyi 釋慈怡 (Ed.)</author>
+                    <title>Foguang da cidian 佛光大辭典 [Large Foguang Dictionary]</title>
+                    <edition>Taipei<date>1988</date>8 vols; CD-Version 3 (2003).</edition>
+                    <abbr>佛光</abbr>
+                </bibl>
+                <bibl ana="book">
+                    <author><hi>Lan</hi>, Jifu 藍吉富 (Ed.)</author>
+                    <title>Zhonghua fojiao baike quanshu 中華佛教百科全書 [Chinese Buddhist Encyclopaedia Version 3.0]</title>
+                    <edition>Tainan xian: Zhonghua fojiao baike wenxian jijinhui 財團法人中華佛教百科文獻基金會<date>1994</date>CD-Version 3 </edition>
+                    <abbr>佛百</abbr>
+                </bibl>
+                <bibl ana="book">
+                  <author><hi>Makita</hi>, Tairyo 牧田諦亮 (Ed.)</author>
+                  <title>Zhong guo gao seng chuan suo yin ; 1: Liang gao seng chuan suo yin 中國高僧傳索引第1卷：梁高僧傳索引</title>
+                    <edition>Kyoto Hei raku dera shoten 平樂寺書店<date>1972</date></edition>
+                    <abbr>梁僧索引</abbr>
+                </bibl>
+                <bibl ana="book">
+                    <author><hi>Makita</hi>, Tairyo 牧田諦亮; Suwa Gijun 諏訪義純 (Ed.)</author>
+                  <title>Zhong guo gao seng chuan suo yin ; 2 - 4: Tang gao seng chuan suo yin 中國高僧傳索引第2-4卷：唐高僧傳索引</title>
+                    <edition>Kyoto Hei raku dera shoten 平樂寺書店<date>1975</date></edition>
+                    <abbr>唐僧索引</abbr>
+                </bibl>
+			<bibl ana="book">
+                  <author><hi>Makita</hi>, Tairyo 牧田諦亮; Suwa Gijun 諏訪義純 (Ed.)</author>
+                  <title>Zhong guo gao seng chuan suo yin ; 5 - 6: Song gao seng chuan suo yin 中國高僧傳索引第5-6卷：宋高僧傳索引</title>
+                    <edition>Kyoto Hei raku dera shoten 平樂寺書店<date>1976~7</date></edition>
+                    <abbr>宋僧索引</abbr>
+                </bibl>
+			<bibl ana="book">
+                  <author><hi>Makita</hi>, Tairyo 牧田諦亮; Fujiyoshi, Masumi 藤善真澄; Shiga, Takayoshi滋賀高義 (Ed.)</author>
+                  <title>Zhong guo gao seng chuan suo yin; 7: Song gao seng chuan suo yin xia、Da ming gao seng chuan suo yin 中國高僧傳索引第7卷：宋高僧傳索引下、大明高僧傳索引</title>
+                    <edition>Kyoto Hei raku dera shoten 平樂寺書店<date>1978</date></edition>
+                    <abbr>宋明僧索引</abbr>
+                </bibl>
+                <bibl ana="book">
+                    <author><hi>Brook</hi>, Timothy</author>
+                    <title>Geographical Sources of Ming-Qing History</title>
+                    <edition>Ann Arbor: Center for Chinese Studies University of Michigan<date>2002 [1951]</date></edition>
+                    <abbr>Brook 2002</abbr>
+                </bibl>
+                <bibl ana="book">
+                    <author><hi>Demiéville</hi>, Paul (Ed.)</author>
+                    <title>Répertoire du Canon Bouddhique Sino-Japonais.大正大藏經總索引（改訂增補新版）</title>
+                    <edition>Paris : Libraire D’amérique et D’orient Adrien-Maisonneuve<date>1978</date></edition>
+                    <abbr> Demiéville 1978</abbr>
+                </bibl>
+                <bibl ana="book">
+                    <author><hi>Feng</hi>, Chengjun 馮承鈞 (Ed.)</author>
+                    <title>Xiyu shidi shiming 西域史地釋名 [Encyclopedia of the Western Regions(Xiyu)]</title>
+                    <edition>Kaohsiung Sun Yat-sen University Press 中山大學出版社<date>2002</date></edition>
+                    <abbr>西域釋</abbr>
+                </bibl>
+                <bibl ana="book">
+                    <author><hi>Ji</hi>, Xianlin 季羨林</author>
+                    <title>Commentary on Great Tang Records on the Western Regions 大唐西域記校注</title>
+                    <edition>Taipei Xinwenfeng Press  臺北，新文豐出版公司<date>1987</date></edition>
+                    <abbr>西域注</abbr>
+                </bibl>
+                <bibl ana="book">
+                    <author><hi>Hori</hi>, Kentoku 堀謙德</author>
+                    <title>Commentary on Records on the Western Regions 解說西域記</title>
+                    <edition>Tokyo 國書刊行會<date>1912 [1971]</date></edition>
+                    <abbr>西域解</abbr>
+                </bibl>
+                <bibl ana="book">
+                    <author><hi>Yu</hi>, Lingpo 于凌波</author>
+                    <title>Zhong guo jin dai fo men ren wu zhi 中國近代佛門人物誌 [Records of Buddhist persons in late imperial China]</title>
+                    <edition>Taipei hui ju chu ban she 臺北，慧炬出版社<date>1999 [1993]</date></edition>
+                    <abbr>近佛人</abbr>
+                </bibl>
+                <bibl ana="book">
+                    <author><hi>Li</hi>, Guoling 李國玲</author>
+                    <title>Song seng lu 宋僧錄 [Records of monks in Song dynasty]</title>
+                    <edition>Beijing Xian Zhuang Shuju 線裝書局<date>2001</date></edition>
+                    <abbr>宋僧錄</abbr>
+                </bibl>
+                <bibl ana="book">
+                    <author><hi>Li</hi>, Guoling 李國玲</author>
+                    <title>Song seng zhe shu kao 宋僧著述考 [Record of the works of Song dynasty monks]</title>
+                    <edition>Chengdou Sichuan University 四川大學<date>2007</date></edition>
+                    <abbr>宋僧著</abbr>
+                </bibl>
+                <bibl ana="book">
+                    <author><hi>Li</hi>, Fangmin 李芳民</author>
+                    <title>Tang wudai fosi ji kao 唐五代佛寺輯考 [Record of the temples of Tang and Wudai dynasty]</title>
+                    <edition>Beijing Shangwu yinshuguan 北京商務印書館<date>2006</date></edition>
+                    <abbr>唐寺考</abbr>
+                </bibl>
+                <bibl ana="book">
+                    <author><hi>Du</hi>, Jiexiang 杜潔祥 (Ed.)</author>
+                    <title>Zhongguo fosi shi zhi hui kan 中國佛寺史志彙刊 [Chinese Buddhist Temple Gazetteers]</title>
+                    <edition>Taipei: Mingwen Shuju 明文書局、丹青圖書公司<date>1980-1985</date></edition>
+                    <abbr>g</abbr>
+                </bibl>
+                <bibl ana="book">
+                    <author><hi>Huang</hi>, Xianian 黃夏年 (Ed.)</author>
+                    <title>Minguo fojiao qikan 民國佛教期刊《民國佛教期刊文獻集成》[Republican Era Buddhist Journals]</title>
+                    <edition>Beijing China National Microfilming Center for Library Resources 北京，全國圖書館文獻縮微複製中心<date>2006</date>209 vols.</edition>
+                    <abbr>m</abbr>
+                </bibl>
+                <bibl ana="book">
+                    <author><hi>Huang</hi>, Xianian 黃夏年 (Ed.)</author>
+                    <title>Minguo fojiao qikan bubian民國佛教期刊補編《民國佛教期刊文獻集成補編》[Republican Era Buddhist Journals, Supplement]</title>
+                    <edition>Beijing: China Bookstore 中國書店<date>2008</date>86 vols.</edition>
+                    <abbr>mb</abbr>
+                </bibl>
+                <bibl ana="book">
+                    <author><hi>Ji</hi>, Yun 紀昀 (Ed.)</author>
+                    <title>Siku Quanshu, Electronic version of Wen Yuan Ge 文淵閣四庫全書電子版 [Complete Library of the Four Treasuries]</title>
+                    <edition>Digital Heritage Publishing 香港，迪志文化出版<date>1999</date></edition>
+                    <abbr>淵四</abbr>
+                </bibl>
+			<bibl ana="book">
+                    <author><hi>Grayson</hi>, James Huntley</author>
+                    <title>Early Buddhism and Christianity in Korea</title>
+                    <edition>E. J. Brill, Leiden, The Netherlands<date>1985</date></edition>
+                    <abbr>Grayson 1985</abbr>
+                </bibl>
+              <bibl ana="book">
+                  <author><hi>Sastri</hi>, Hirananda</author>
+                    <title>Nalanda and its Epigraphic Material</title>
+                    <edition>SRI SATGURU PUBLICATIONS, Indological and Oriental publishers, Delhi<date>1986[1942]</date></edition>
+                    <abbr>Sastri 1986</abbr>
+                    </bibl>
+                <bibl ana="book">
+                    <author><hi>Guo</hi>, Peng 郭鵬</author>
+                    <title>Fo Guo Ji Zhu Yi 佛國記注譯 [Fo Guo Ji -  Translated modern Chinese]</title>
+                    <edition>Changchun Publishing 長春出版社<date>1995</date></edition>
+                    <abbr>佛國注</abbr>
+                </bibl>
+                <bibl ana="book">
+                    <author><hi>Wu</hi>, Yugui 吳玉貴</author>
+                    <title>Fo Guo Ji 佛國記[Fo Guo Ji -  Translated modern Chinese]</title>
+                    <edition>Kaohsiung Fo Guang Shan Zong Wu Wei Yuan Hui 佛光山宗務委員會<date>1996</date></edition>
+                    <abbr>佛國記</abbr>
+                </bibl>
+                <bibl ana="book">
+                    <author><hi>Shi</hi>, Shengyen 釋聖嚴</author>
+                    <title>Bubu lianhua 步步蓮華</title>
+                    <edition>Taipei: Dharma Drum 法鼓文化事業股份有限公司( rev. version 修訂版)<date>1998</date></edition>
+                    <abbr>釋聖嚴 1998</abbr>
+                </bibl>
+                <bibl ana="book">
+                    <author><hi>CBETA J</hi></author>
+                    <title>Shin Zokuzokyo Edition of the Chinese Buddhist canon as found in the CBETA corpus of Buddhist texts 《嘉興大藏經》CBETA電子資料庫光碟版</title>
+                    <edition>Chinese Buddhist Electronic Text Association (CBETA)中華電子佛典協會<date>2005~</date></edition>
+                    <abbr>J</abbr>
+                </bibl>
+                <bibl ana="book">
+                    <author><hi>Hasebe</hi>, Yukei 長谷部幽蹊</author>
+                    <title>Ming Qing fojiaoshi yanjiu xushuo 明清佛教史研究序說</title>
+                    <edition>Taipei: Xinwenfeng Press 臺北，新文豐出版公司<date>1979</date></edition>
+                    <abbr>明清序</abbr>
+                </bibl>
+                <bibl ana="book">
+                    <author><hi>Shi</hi>, Huijiao 釋慧皎 (Author); Tang, Yungtung 湯用彤 校注 (Ed.)</author>
+                    <title>Gaoseng zhuan 高僧傳</title>
+                    <edition>Beijing: Zhonghua 中華書局<date>1996</date></edition>
+                    <abbr>湯注</abbr>
+                </bibl>
+                <bibl ana="book">
+                    <author><hi>Zan</hi>, Ning 贊寧 (Author); Fan, Xiangyong 范祥雍 點校 (Ed.)</author>
+                    <title>Song gaoseng zhuan 宋高僧傳</title>
+                    <edition>Beijing: Zhonghua 中華書局<date>1993</date></edition>
+                    <abbr>范校</abbr>
+                </bibl>
+                <bibl ana="book">
+                  <author><hi>Min</hi>, Zhiting 閔智亭; Li, Yangzheng 李養正 (Ed.)</author>
+                    <title>Zhong Guo Dao Jiao Da Ci Dian 中國道教大辭典 [Dictionary of Taoism]</title>
+                    <edition>Taichung: Dongjiu 東久出版社<date>1996</date></edition>
+                    <abbr>道辭</abbr>
+                </bibl>
+                <bibl ana="book">
+                    <author><hi>Wu</hi>, Songdi 吳松弟</author>
+                    <title>Liang Tangshu Dilizhi Huishi 两唐书地理志汇释 [Compendium of guides to the Tang Gazetteers]</title>
+                    <edition>HeFei AnHui Educational Publishing 安徽教育出版社<date>2002-07</date></edition>
+                    <abbr>唐地釋</abbr>
+                </bibl>
+                <bibl ana="book">
+                    <author><hi>Cao</hi>, Wanru 曹婉如 等 (Ed.)</author>
+                    <title>An Atlas of Ancient Maps in China - From the Warring States Period to the Yuan Dynasty (476B.C. - A.D.1368) 中国古代地图集 战国－元</title>
+                    <edition>Beijing Cultural Relics Publishing House 文物出版社<date>1999-03 [1990-07]</date></edition>
+                    <abbr>古圖</abbr>
+                </bibl>
+                <bibl ana="book">
+                    <author><hi>Cao</hi>, Wanru 曹婉如 等 (Ed.)</author>
+			<title>An Atlas of Ancient Maps in China - The Ming Dynasty (1368 - 1644) 中国古代地图集 明代</title>
+                    <edition>Beijing Cultural Relics Publishing House 文物出版社<date>1995-10</date></edition>
+                    <abbr>明圖</abbr>
+                </bibl>
+                <bibl ana="book">
+                    <author><hi>Cao</hi>, Wanru 曹婉如 等 (Ed.)</author>
+			<title>An Atlas of Ancient Maps in China - The Qing Dynasty (1644 - 1911) 中国古代地图集 清代</title>
+                    <edition>Beijing Cultural Relics Publishing House 文物出版社<date>1997-12</date></edition>
+                    <abbr>清圖</abbr>
+                </bibl>
+                <bibl ana="book">
+                    <author><hi>Chang</hi>, Bide 昌彼得 等 (Ed.)</author>
+                    <title>Songren chuanji ziliao suoyin 宋人傳記資料索引 [Index of Song dynasty biography data]</title>
+                    <edition>Taipei TingWen Bookstore 臺北，鼎文書局<date>2001-06</date>Version 3</edition>
+                    <abbr>宋人</abbr>
+                </bibl>
+                <bibl ana="book">
+                    <author><hi>Wang</hi>, Deyi 王德毅 等 (Ed.)</author>
+                    <title>Yuanren chuanji ziliao suoyin 元人傳記資料索引 [Index of Yuan dynasty biography data]</title>
+                    <edition>Taipei Xinwenfeng Press 臺北，新文豐出版公司<date>1979-11</date></edition>
+                    <abbr>元人</abbr>
+                </bibl>
+                <bibl ana="book">
+                    <author><hi>Chang</hi>, Bide 昌彼得 等 (Ed.)</author>
+                    <title>Mingren chuanji ziliao suoyin 明人傳記資料索引 [Index of Ming dynasty biography data]</title>
+                    <edition>Taipei National Central Library 臺北，國立中央圖書館<date>1978-01</date>Version 2</edition>
+                    <abbr>明人</abbr>
+                </bibl>
+                <bibl ana="book">
+                    <author><hi>Yi</hi>, Nŭnghwa 李能和</author>
+                    <title> Chosŏn pulgyo t'ongsa 朝鮮佛教通史 [General History of Korean Buddhism]</title>
+                    <edition>Seoul: Kyunghee 慶熙出版社 <date>1967 [1918-03]</date></edition>
+                    <abbr>B31n0170</abbr>
+                </bibl>
+                <bibl ana="book">
+                  <author><hi>Shi</hi>, Yìnshùn 釋印順</author>
+                    <title>Study of the Abhidharma Literature (Primarily the Sarvāstivādin) and Its Masters 說一切有部為主的論書與論師之研究</title>
+                    <edition>Taipei: Zhengwen 正聞出版社<date>1992 [1968-06]</date></edition>
+                    <abbr>釋印順 1968</abbr>
+                </bibl>
+	<bibl ana="book">
+                    <author><hi>Zhao</hi>, Yixin 趙一新</author>
+                    <title>Hangzhou Fojiao Wenxian Congkan 杭州佛教文獻叢刊：慧因寺志</title>
+                    <edition>Hangzhoue Press 杭州出版社<date>2007-12</date></edition>
+                    <abbr>杭慧因</abbr>
+                </bibl>                
+                <bibl ana="book">
+                    <author><hi>Gao</hi>, Minghe 高明和</author>
+                    <title>Wutaishan Wenhua Congkan 五台山文化叢刊：Wutaishan Wenwu Jijin 五台山文物集錦</title>
+                    <edition>Taiyuan: Shanxi renmin 太原，山西人民出版社<date>2000-06</date></edition>
+                    <abbr>五集錦</abbr>
+                </bibl>                
+                <bibl ana="book">
+                  <author><hi>Chen</hi>, Yangjiong 陳揚炯; Feng Qiaoying 馮巧英</author>
+                    <title>Guqingliang chuan Guangqingliang chuan Xuqingliang chuan 古清涼傳‧廣清涼傳‧續清涼傳</title>
+                    <edition>Taiyuan 太原: Shanxi renmin 山西人民出版社  ISBN:7-203-00873-8X. <date>1989-05</date></edition>
+                    <abbr>清涼三傳</abbr>
+                </bibl>               
+                <bibl ana="book">
+                    <author><hi>Wang</hi>, Song 王頌</author>
+                    <title>Songdai Huayan Sixiang Yanjiu 宋代華嚴思想研究</title>
+                    <edition>Beijing: Religious Culture Publishing House 宗教文化出版社. ISBN:978-7-80123-959-4<date>2008-01</date>第一版,第一次印刷</edition>
+                  <abbr>王頌 2008</abbr>
+                </bibl>
+                <bibl ana="book">
+                    <author><hi>Wang</hi>, Zhiyong 王志勇</author>
+                    <title>Wutaishan Wenhua Congkan 五台山文化叢刊：Qingliangshan Chuanzhi Xuancui 清涼山傳志選粹 (崔玉卿點校)</title>
+                    <edition>Taiyuan 太原: Shanxi renmin 山西人民出版社.  ISBN:7-203-04016-X<date>2000-06</date></edition>
+                  <abbr>五選粹</abbr>                    
+                </bibl>
+	    <bibl ana="book">
+                  <author><hi>Zhao</hi>, Erxun 趙爾巽, et al. (Eds.)</author>
+                    <title>Draft History of Qing 清史稿</title>
+                    <edition>Taipei Hong's  Press 臺北市， 洪氏出版社<date>1981</date></edition>
+                    <abbr>清史稿</abbr>
+                </bibl>
+	    <bibl ana="book">
+                    <author><hi>Shun</hi>, Yingkui 孫映逵</author>
+                    <title>Tang Literary Authors Collate and Commentary 唐才子傳校注</title>
+                    <edition>Heibei Sheng, China Social Sciences Press  河北省，中國社會科學出版 : 新華經銷<date>1991</date></edition>
+                    <abbr>唐才子注</abbr>
+                </bibl>
+	<bibl ana="book">
+                <author><hi>Zhang</hi>, Tingyu 張廷玉</author>
+                    <title>History of Ming 明史</title>
+                    <edition>Taipei Hong's  Press 臺北市，洪氏出版社<date>1975</date></edition>
+                    <abbr>明史</abbr>
+                </bibl>
+                <bibl ana="book">
+                    <author><hi>Song</hi>, Lian 宋濓</author>
+                    <title>History of Yuan 元史</title>
+                    <edition>Taipei Hong's  Press 臺北市，洪氏出版社<date>1975</date></edition>
+                    <abbr>元史</abbr>
+                </bibl>                
+                <bibl ana="book">
+                    <author><hi>Shi</hi>, Shengyen 釋聖嚴</author>
+                    <title>A Cool Wind in a House of Fire火宅清涼（The Complete Works of Master Sheng-yen. Part 6 Volume 5 法鼓全集‧第六輯；第5冊）</title>
+                    <edition>Dharma Drum Publications Culture Co.,Ltd. 臺北市，法鼓文化事業股份有限公司<date>1999</date></edition>
+                    <abbr>釋聖嚴 1999</abbr>
+                </bibl>
+                <bibl ana="book">
+                    <author><hi>Nagasawa</hi>, Kazutoshi 長沢和俊 (Transl. &amp; Ed.)</author>
+                  <title>Faxian chuan, Songyun xingji 法顕伝　宋雲行紀 (Hokken den, Sōun kōki)</title>
+                    <edition>Tōkyo: Heibonsha 平凡社<date>1971</date></edition>
+                  <abbr>長沢和俊 1971</abbr>
+                </bibl>
+                <bibl ana="book">
+                    <author><hi>Adachi</hi>, Kiroku 足立喜六</author>
+	<title>Hokken den Chūa, Indu, Nankai kikō no kenkyū 法顯傳  中亞・印度・南海紀行の研究 (Research on Faxian's travels in India, Central Asia and the southern seas)</title>
+                    <edition>Tōkyo: Hōzōkan 法藏館 <date>1940</date>. Reprint: Tōkyo: Choeisha  鳥影社, 2006.</edition>
+                  <abbr>足立喜六 1940</abbr>
+                </bibl>
+		<bibl ana="book">
+                    <author><hi>Tang</hi>, Yungtung 湯用彤</author>
+                    <title>Han Wei Liang Jin Nan bei chao fo jiao shi 漢魏兩晉南北朝佛教史</title>
+                    <edition>Taipei: Mile 彌勒出版社<date>1982</date></edition>
+	<abbr>湯史</abbr>
+	</bibl>
+	<bibl ana="book">
+                    <author><hi>He</hi>, Xiaorong 何孝榮</author>
+                    <title>Ming Dynasty Nanjing temple research－Zhong guo she hui li shi yan jiu cong shu 明代南京寺院研究－中國社會歷史研究叢書</title>
+                    <edition>Beijing, China social sciences press 北京，中國社會科學出版社<date>2001.04</date></edition>
+                    <abbr>何孝榮 2001</abbr>
+                </bibl>
+                <bibl ana="book">
+                    <author><hi>Shi</hi>, Dayuan 釋大願</author>
+                    <title>Zhong guo fo si xun li di san ji 中國佛寺巡禮 第三集</title>
+                    <edition>Taipe, Ren cheng fo kan za zhi she  台北，人乘佛刊雜誌社,  ISBN: 978-957-8504-19-6<date>2008-12</date></edition>
+                    <abbr>釋大願 2009</abbr>
+                </bibl>
+                <bibl ana="book">
+                    <author><hi>Sakaino</hi>, Tetsu 境野哲  (Kōyō 黃洋)</author>
+                    <title>Shina Bukkyō shi kōwa Ⅰ 支那佛教史講話 上卷</title>
+                    <edition>Tōkyō: Kyōritsusha 共立社<date>1927</date></edition>
+                    <abbr>境野 1927上</abbr>
+                </bibl>
+              <bibl ana="book">
+                  <author><hi>Zheng</hi>, Tianting 鄭天挺; Tan, Qixiang 譚其驤 等 (Eds.)</author>
+                    <title>Dictionary of Chinese History 中国历史大辞典</title>
+                    <edition>Shanghai，Shanghai Lexicographical Publishing House 上海，上海辭書出版社<date>2000</date></edition>
+                    <abbr>史典</abbr>
+                </bibl>                
+                <bibl ana="book">
+                    <author><hi>Li</hi>, Song 李凇</author>
+                    <title>Statues Lintong 6 through the Northern Dynasties 臨潼六通北朝造像碑考釋（中國道教 1996年第2期，頁37-40）</title>
+                    <edition>Compilation and publication of the China Taoist Association 中國道教協會编辑出版<date>1996</date></edition>
+                    <abbr>李凇 1996</abbr>
+                </bibl>                
+              <bibl ana="book">
+                <author><hi>Shen</hi>, Qiwei 沈起煒; Xu, Guanglie 徐光烈 (Eds.)</author>
+                    <title>Official Dictionary of Chinese History 中国历代职官詞典</title>
+                    <edition>Shanghai, Shanghai Dictionary Publishing House 上海，上海辭書出版社<date>1998第1版第3刷</date></edition>
+                    <abbr>沈起煒 1998</abbr>
+                </bibl>                
+                <bibl ana="book">
+                  <author><hi>Qiu</hi>, Shusen 邱樹森 (Ed.)</author>
+                    <title>Official Dictionary of Chinese History 中國歷代職官辭典</title>
+                    <edition>Nanchang，Jiangxi Education Press 南昌，江西教育出版社<date>1991</date></edition>
+                    <abbr>邱樹森 1991</abbr>
+                </bibl>                
+                <bibl ana="book">
+                  <author><hi>Yu</hi>, Lunian 俞鹿年</author>
+                    <title>Dictionary of Chinese Bureaucracy 中國官制大辞典</title>
+                    <edition>Harbin，Heilongjiang People's Publishing House 哈爾濱，黑龍江人民出版社<date>1992</date></edition>
+                    <abbr>俞鹿年 1992</abbr>
+                </bibl>                
+                <bibl ana="book">
+                  <author><hi>Zhang</hi>, Xunliao 張勛燎; Bai, Bin 白彬</author>
+                    <title>Archaeology Chinese Taoism 中國道教考古</title>
+                    <edition>Beijing: Xuanzhuang 線裝書局<date>2006</date></edition>
+                    <abbr>道考</abbr>
+                </bibl>                
+                <bibl ana="book">
+                    <author><hi>Cao</hi>, Xun 曹汛</author>
+                    <title>萬佛堂石窟兩方北魏題記中的若干問題</title>
+                    <edition>Beijing, Cultural Relics Publishing House 北京，文物出版社<date>1957</date>. 文物 1980年第6期，頁63-69.</edition>
+                    <abbr>曹汛 1957</abbr>
+                </bibl>                
+              <bibl ana="book">
+                    <author><hi>Yan</hi>, Juanying 顏娟英 (Ed.)</author>
+                    <title> Selections of Buddhist Stone Rubbings from the Northern Dynasties 北朝佛教石刻拓片百品</title>
+                    <edition>Taipei: Academia Sinica Institute of History and Philology 中央研究院歷史語言研究所<date>2008</date></edition>
+                    <abbr>百品</abbr>
+                </bibl>                
+              <bibl ana="book">
+                <author><hi>Feng</hi>, Hejun 馮賀軍</author>
+                    <title>《重修七帝寺碑記》釋解</title>
+	<edition>Beijing, Palace Museum and editing rooms 北京，故宮博物院院刊編輯室<date>1958</date>《故宮博物院院刊》2005年第2期，頁62-75.</edition>
+                    <abbr>馮賀軍 1958</abbr>
+                </bibl>                
+              <bibl ana="book">
+                    <author><hi>Zhao</hi>, Yide 趙一德</author>
+                    <title>Hui Temple Appreciation (and note) 暉福寺賞析(并注)（《2005年雲岡國際學術研討會論文集．研究卷》，頁703-721）</title>
+                    <edition>Beijing, Cultural Relics Publishing House 北京，文物出版社<date>2006</date></edition>
+                    <abbr>趙一德 2006</abbr>
+                </bibl>                
+                <bibl ana="book">
+                    <author><hi>Liu</hi>, Yi 劉屹</author>
+                    <title>The Yao Boduo Stele as Evedence for Some Characters of Northern Taoism from the End of 5th Century to the Beginning of 6th Century 五、六世紀之交關中道教的特點——以「姚伯多碑」為中心（Medieval China Study 6(2006.12), p.1-22《中國中古史研究》6(2006.12)，頁1-22）</title>
+                    <edition>Lantai Publishing 蘭臺出版社 <date>2006</date></edition>
+                    <abbr>劉屹 2006</abbr>
+                </bibl>
+                <bibl ana="book">
+                    <author><hi>Liu</hi>, Zhaorui 劉昭瑞</author>
+                    <title>Peter Yao Wei Dynasty Taoist Statues 北魏姚伯多道教造像碑考論（《道家文化研究》9(2000.8)，頁302-318）</title>
+                    <edition>Shanghai, Shanghai Ancient Books Publishing House 上海，上海古籍出版社<date>1996</date></edition>
+                    <abbr>劉昭瑞 1996</abbr>
+                </bibl>
+              <bibl ana="book">
+                <author><hi>Mitsuyoshi</hi>, Saigusa 三枝充悳</author>
+                <title>Indo bukkyō jinmei jiten インド仏教人名辞典 [Biographical Dictionary of Indian Buddhism]</title>
+                <edition>Kyoto, France, Tibet Museum 京都，法蔵館<date>1987</date></edition>
+                    <abbr>インド仏教</abbr>
+                </bibl>
+                <bibl ana="book">
+                  <author><hi>Lü</hi>, Zongli 呂宗力</author>
+	<title>Zhongguo lidai guanzhi da cidian 中国历代官制大辞典  (Bureaucracy Dictionary of Chinese History)</title>
+                    <edition>Beijing, Beijing Publishing House 北京，北京出版社<date>1994</date></edition>
+                    <abbr>官典</abbr>
+                </bibl>
+                <bibl ana="book">
+                    <author><hi>Yan</hi>, Gengwang 嚴耕望 (Ed.)</author>
+                    <title>Academia Sinica Institute of History and Philology special issue: Tangdai Jiaotong Tukao 中央研究院歷史語言研究所專刊之八十三：《唐代交通圖考》</title>
+                    <edition>Institute of History and Philology, Academia Sinica  中央研究院歷史語言研究所<date>1985.05</date></edition>
+                    <abbr>唐交通</abbr>
+	</bibl>
+                <bibl ana="book">
+                  <author><hi>Tan</hi>, Qixiang 譚其驤 (Ed.)</author>
+                    <title>Historical Atlas of China 中國歷史地圖集</title>
+                    <edition>China Cartographic publishing house 中國地圖出版社<date>1996.6</date>河北第3次印刷</edition>
+                    <abbr>史圖</abbr>
+                </bibl>
+                <bibl ana="book">
+                    <author><hi>Akanuma</hi>, Chizen  赤沼智善 (Ed.)</author>
+                    <title>Dictionary of Indian Buddhist Terms 印度佛教固有名詞辞典</title>
+                    <edition>Kyoto: Hozōkan 法蔵館<date>1967</date></edition>
+                    <abbr>赤沼智善 1967</abbr>
+                </bibl>
+                <bibl ana="book">
+	<author><hi>Yunzeng</hi>, Yexijiangcheng  雲增．耶喜絳稱 (Author); Guo, Heqing (Translator) 郭和卿</author>
+                    <title>菩提道次第師師相承傳 : 莊嚴聖教最勝寶鬘</title>
+                    <edition>Taipei: Fukuchi Sound Publishing 福智之聲出版社<date>2004</date></edition>
+                    <abbr>雲增．耶喜絳稱 2004</abbr>
+                </bibl>
+	<bibl ana="book">
+	<author><hi>Zhou</hi>, Yiliang  周一良 (Author)</author>
+                    <title>Tang dai mi zong 唐代密宗 [Tantrism in China]</title>
+                    <edition>Shanghai: Far Eastern 遠東出版社<date>1996</date></edition>
+                    <abbr>周一良1996</abbr>
+                </bibl>
+                <bibl ana="book">
+                    <author><hi>Xu</hi>, Song 徐松 (Author), Li Jianchao 李健超 (Ed.)</author>
+                    <title>Zeng Ding Tang Liang Jing Cheng Fang Kao 增订唐两京城坊考</title>
+                    <edition>Xi'an: San Qin 三秦出版社<date>1996</date></edition>
+                    <abbr>城坊考</abbr>
+                </bibl>
+                <bibl ana="book">
+                    <author><hi>Yang</hi>, Hong Nian 楊鴻年</author>
+                    <title>Sui Tang liangjing fangli pu 隋唐兩京坊里譜</title>
+                    <edition>Shanghai: Guji 古籍出版社<date>1999</date></edition>
+                    <abbr>坊里譜</abbr>
+                </bibl>
+                <bibl ana="book">
+                  <author><hi>Zhu</hi>, Hengfu 朱恆夫; Wang, Xuejun 王學鈞; Zhao, Yi 趙益 (Trans &amp; Eds.); Pan, Boshi 潘栢世 (Ed.)</author>
+                    <title>Xinshi Gaoseng zhuan 新譯高僧傳(平)(上/下)</title>
+                    <edition>Taipei: San Min 三民書局 <date>2005</date></edition>
+                    <abbr>朱恆夫 2005</abbr>
+                </bibl>
+              <bibl ana="book">
+                <author><hi>Li</hi>, Xisheng 李熙昇</author>
+	<title>Hanʾguk inmyŏng taesajŏn 한국인명대사전  韓國人名大事典</title>
+                <edition>Seoul: Singu Munhwasa  新丘文化社<date>1983</date>. First edition 1967.</edition>
+                <abbr>韓名 1983</abbr>
+              </bibl>
+              <bibl ana="book">
+                <author><hi>Yu</hi>, Lingbo 于凌波 編撰</author>
+                <title>Xiàndài Fójiào rénwù cídiǎn  現代佛教人物辭典 [A Dictionary of Modern Buddhist Persons]</title>
+                <edition>Kaohsiung: Foguang Wenhua  佛光文化事業有限公司 2 vols.<date>1983</date></edition>
+                <abbr>現代佛人</abbr>
+              </bibl>
+                <bibl ana="book">
+	<author><hi>Xinwenfeng Press</hi>新文豐出版公司 編</author>
+                    <title>Shike shiliao xinbian 石刻史料新編 [New collections of historical stone inscriptions]</title>
+                    <edition>Taipei Xinwenfeng Press  臺北，新文豐出版公司<date>1977[1982], 1979, 1986, 2006. 4 series. 100 vols.</date></edition>
+                    <abbr>石刻</abbr>
+                </bibl>
+                <bibl ana="book">
+                    <author><hi>Liu</hi>, Zhangdong 刘长东</author>
+                    <title>Fazhao shi ji xin kao 法照事迹新考</title>
+                    <edition>Foxue yanjiu No.7 p38-45 佛學研究  (北京，中國佛教文化研究所 ) 第七期<date>1998.01.01</date></edition>
+                    <abbr>劉長東1998</abbr>
+                </bibl>
+                <bibl ana="book">
+                    <author><hi>Tsukamoto</hi>, Zenryū 塚本善隆</author>
+                    <title>Tōchūki no Jōdokyō 唐中期の浄土教 [Pure Land Buddhism during the Tang]</title>
+                    <edition>Kyōto: Hōzōkan 法蔵館<date>1975</date></edition>
+                    <abbr>塚本1975</abbr>
+                </bibl>
+              <bibl ana="book">
+                <author><hi>Mochizuki</hi>, Shinkō 望月信亨</author>
+                <title>Mochizuki Bukkyō daijiten 望月仏教大辞典</title>
+                <edition>Tokyo: Sekai Seiten Kankyokai  世界聖典刊協会<date>1977</date></edition>
+                <abbr>望月</abbr>
+              </bibl>
+                <bibl ana="book">
+                    <author><hi>Dai</hi>, Junliang 戴均良, et al. (Eds.)</author>
+                    <title>Zhongguo gujin diming dacidian 中国古今地名大词典 [Dictionary of ancient and present toponyms of China]</title>
+                    <edition>Shanghai: Shanghai Lexicographical Publishing House 上海辭書出版社<date>2005</date></edition>
+                    <abbr>地名戴</abbr>
+                </bibl>
+                <bibl ana="book">
+                    <author><hi>Twitchett</hi>Denis; Loewe, Michael (Eds.)</author>
+                    <title>The Cambridge History of China (Volume I: The Ch'in and Han Empires)[劍橋中國史 秦漢帝國]</title>
+                  <edition>Taipei: Cave books 敦煌書局<date>1987</date></edition>
+                    <abbr>劍橋．卷一</abbr>
+                </bibl>
+                <bibl ana="book">
+                    <author><hi>Ōsabe</hi>, Kazuo 長部和雄</author>
+                    <title>一行禪師の研究</title>
+                    <edition>Kobe, Kobe University of Commerce. 神戶，神戶商科大学学術研究会<date>1963</date></edition>
+                    <abbr>長部1963</abbr>
+                </bibl>
+                <bibl ana="book">
+                    <author><hi>Chen</hi>, Wancheng 陳萬成</author>
+                    <title>滬藏〈觀音證驗賦〉殘卷考辨</title>
+                    <edition>Hanxue yanjiu  漢學研究. Taipei: Center for Chinese Studies.Vol. 20-1, pp.85-99.<date>2002</date></edition>
+                    <abbr>陳萬成2002</abbr>
+                </bibl>
+                <bibl ana="book">
+                    <author><hi>Marcus</hi>Bingenheimer 馬德偉 (Ed.)</author>
+                    <title>Digital Archive of Chinese Buddhist Temple Gazetteers 中國佛教寺廟志數位典藏</title>
+                    <edition>Taipei: Dharma Drum Buddhist College 法鼓佛教學院<date>2011</date></edition>
+                    <abbr>佛寺志</abbr>
+                </bibl>
+                <bibl ana="book">
+                    <author><hi>Liang</hi>, Feng 梁丰</author>
+                    <title>从房山“石经题记”看唐代的邑社组织</title>
+                    <edition>Journal of National Museum of Chinese History  中国历史博物馆馆刊. (Beijing) Vol.10, pp 67-71, 76. <date>1987</date></edition>
+                    <abbr>梁丰1987</abbr>
+                </bibl>
+                <bibl ana="book">
+                    <author><hi>Dong</hi>, Gao 董誥 (Ed.); Lu, Xinyuan 陸心源 (Revised by)</author>
+                    <title>Zhong bian ying yin Quan Tang Wen ji shi yi fu suo yin 重編影印全唐文及拾遺附索引</title>
+                    <edition>Taipei: Dahua 大化書局<date>1987</date></edition>
+                    <abbr>全唐文</abbr>
+                </bibl>
+                <bibl ana="book">
+                    <author><hi>Guo</hi>, Qingfan 郭慶藩 (Ed.)</author>
+                    <title>Zhuangzi jishi 莊子集釋</title>
+                    <edition>Taipei: Huazheng 華正書局<date>1980</date></edition>
+                    <abbr>莊釋</abbr>
+                </bibl>
+                <bibl ana="book">
+                    <author><hi>Huang</hi>, Qijiang 黃啟江</author>
+                    <title>北宋汴京之寺院與佛教</title>
+                    <edition>國立編譯館館刊第十八卷第二期，頁115</edition>
+                    <abbr>北宋汴京之寺院與佛教</abbr>
+                </bibl>
+                <bibl ana="book">
+                    <author><hi>Ding</hi>, Fubao 丁福保</author>
+                    <title>佛學大辭典</title>
+                    <edition>Chinese Buddhist Electronic Text Association (CBETA)中華電子佛典協會<date>2005～</date></edition>
+                    <abbr>佛學</abbr>
+                </bibl>
+                <bibl ana="book">
+                    <author><hi>Qian</hi>, Wenzhong 錢文忠</author>
+                    <title>印度的古代漢語譯名及其來源</title>
+                    <edition>中國文化 Vol. 4, pp.177-181.<date>1991</date></edition>
+                    <abbr>錢文忠1991</abbr>
+                </bibl>
+                <bibl ana="book">
+                    <author><hi>Shi</hi>, Yìnshùn 釋印順</author>
+                    <title>Zhongguo chanzong shi 中國禪宗史</title>
+                    <edition>Taipei: Zhengwen 正聞出版社<date>1990.12</date>First edition 1971</edition>
+                    <abbr>釋印順 1971</abbr>
+                </bibl>
+                <bibl ana="book">
+                    <author><hi>Wu</hi>, Qiyu 吳其昱</author>
+                    <title>Heze Shenhui zhuan yanjiu 荷澤神會傳研究</title>
+                    <edition>台北 中央研究院歷史語言研究所集刊59: 4 pp.899-912<date>1988.12</date></edition>
+                    <abbr>吳其昱 1988</abbr>
+                </bibl>
+                <bibl ana="book">
+                    <author><hi>Shi</hi>, Jing 釋靜; Shi, Yun 釋筠</author>
+                    <title>Zu Tang Ji 祖堂集</title>
+                    <edition>上海 古籍出版社<date>1994.2</date></edition>
+                    <abbr>祖堂集</abbr>
+                </bibl>
+                <bibl ana="book">
+                    <author><hi>Wang</hi>, Niansun 王念孫</author>
+                    <title>Guang Ya Shu Zheng 廣雅疏證</title>
+                    <edition>台北 廣文書局<date>Second edition 1991.1</date>First edition 1971.10</edition>
+                    <abbr>廣雅疏證</abbr>
+                </bibl>
+                <bibl ana="book">
+                    <author><hi>Fan</hi>, Chialing 范佳玲</author>
+                    <title>Tzu-po Chen-k'o's Ideas on Meditation 紫柏真可禪學思想之研究</title>
+                    <edition>Taipei, Chung-Hwa Buddhist Studies n.3 305-333 台北 中華佛學研究 n.3 頁305-333<date>1999.03.01</date></edition>
+                    <abbr>范佳玲 1999</abbr>
+                </bibl>
+                <bibl ana="book">
+                    <author><hi>Zhang</hi>, Shuangdi 張雙棣</author>
+                    <title>Huainanzi jiaoshi 淮南子校釋</title>
+                    <edition>Beijing, Peking University Press 北京 北京大學出版社<date>1997.08</date>First edition</edition>
+                    <abbr>淮南子校釋</abbr>
+                </bibl>
+                <bibl ana="book">
+                    <author><hi>Wang</hi>, Xiangzhi 王象之</author>
+                    <title>Yudijisheng 輿地紀勝</title>
+                    <edition>Yangzhou, Guangling Guji Keyinshe 揚州 廣陵古籍刻印社<date>1991.11</date>First edition</edition>
+                    <abbr>輿地紀勝</abbr>
+                </bibl>
+                <bibl ana="book">
+                    <author><hi>Wang</hi>, Zhenguo 王振國</author>
+                    <title>略析《宋高僧傳》、《景德傳燈錄》關於部分禪宗人物傳記之誤失 -- 兼論高僧法如在禪史上的地位</title>
+                    <edition>Lanzhou, Journal of Dunhuang Studies pp 98-105 蘭州 敦煌學輯刊 pp 98-105<date>2002.1.1</date></edition>
+                    <abbr>王振國2002</abbr>
+                </bibl>
+                <bibl ana="book">
+                    <author><hi>Ruan</hi>, Yuan 阮元 (Ed.)</author>
+                    <title>Republish the Thirteen Classics of Song dynasty with annotation and apparatus (Scripta Sinica) 重刊宋本十三經注疏附校勘記（漢籍電子文獻資料庫）</title>
+                    <edition>Taipei, Institute of History and Philology of Academia Sinica 台北 中央研究院歷史語言研究所<date></date></edition>
+                    <abbr>十三經</abbr>
+                </bibl>
+                <bibl ana="book">
+                    <author><hi>Snellgrove</hi>, David L</author>
+                    <title>Indo-Tibetan Buddhism : Indian Buddhists and their Tibetansuccessors</title>
+                    <edition>Boston : Shambhala,<date>1987, 2002.</date></edition>
+                    <abbr>Snellgrove, Indo-Tibetan Buddhism</abbr>
+                </bibl>
+                <bibl ana="book">
+                    <author><hi>Lamotte</hi>, Etienne</author>
+                    <title>History of Indian Buddhism : from the origins to the Saka Era</title>
+                    <edition>Louvain : Peeters,<date>1988.</date></edition>
+                    <abbr>Lamotte, History of Indian Buddhism</abbr>
+                </bibl>
+                <bibl ana="book">
+                    <author><hi>Jian</hi>, Zongxiu 簡宗修</author>
+                    <title>《白居易集》中的北宗文獻與北宗禪師</title>
+                    <edition>Taipei, The Center for Buddhist Studies, National Taiwan University, pp 231-242. 佛學研究中心學報 第六期 頁213-242<date>2001.07</date></edition>
+                    <abbr>簡宗修2001</abbr>
+                </bibl>
+                <bibl ana="book">
+                    <author><hi>Zhong</hi>, Hua Shu Ju 中華書局 編輯部</author>
+                    <title>宋元方志叢刊</title>
+                    <edition>Beijing: Zhonghua 中華書局<date>1989.11</date></edition>
+                    <abbr>宋元方志</abbr>
+                </bibl>
+                <bibl ana="book">
+                    <author><hi>Huang</hi>, Zongsi 黃宗羲</author>
+                    <title>四明山志</title>
+                    <edition>四明 張壽鏞 約園刊本（影）<date>1936</date></edition>
+                    <abbr>四明山志</abbr>
+                </bibl>
+                <bibl ana="book">
+                    <author><hi>Wang</hi>, Liqi 王利器</author>
+                    <title>新語校注</title>
+                    <edition>Beijing: Zhonghua 中華書局<date>1986.08</date>First edition</edition>
+                    <abbr>新語校注</abbr>
+                </bibl>
+                <bibl ana="book">
+                    <author><hi>Li</hi>, Ye 李冶</author>
+                    <title>敬齋古今黈</title>
+                    <edition>Taipei Xinwenfeng Press  臺北，新文豐出版公司（叢書集成續編第十冊 影印 繆荃孫刻本 光緒壬寅(一九０二)，藕香零拾叢書）<date>1989</date></edition>
+                    <abbr>敬齋古今黈</abbr>
+                </bibl>
+                <bibl ana="book">
+                    <author><hi>Pan</hi>, Zhonggui 潘重規</author>
+                    <title>敦煌壇經新書</title>
+                    <edition>Taipei, The Corporate Body of the Buddha Educational Foundation  臺北，佛陀教育基金會<date>1994.08</date></edition>
+                    <abbr>敦煌壇經</abbr>
+                </bibl>
+                <bibl ana="book">
+                    <author><hi>Han</hi>, Shanzi 寒山子</author>
+                    <title>寒山詩集</title>
+                    <edition>Taipei, Hansheng Press 臺北，漢聲出版社<date>1973.03</date></edition>
+                    <abbr>寒山詩集</abbr>
+                </bibl>
+                <bibl ana="book">
+                    <author><hi>佛書刊行會</hi>編纂</author>
+                    <title>大日本佛教全書</title>
+                    <edition>日本，佛書刊行會<date>1980-1983（1990-1992）</date></edition>
+                    <abbr>日佛</abbr>
+                </bibl>
+                <bibl ana="book">
+                    <author><hi>MORO</hi>, Shigeki 師 茂樹</author>
+                    <title>新羅・真表伝の再検討</title>
+                    <edition>佛教史学会第 62 回大会<date>2011-11-12</date></edition>
+                    <abbr>師 2011</abbr>
+                </bibl>
+                <bibl ana="book">
+                    <author><hi>Makita</hi>, Tairyo 牧田諦亮; Tsukamoto, Zenryu 塚本善隆</author>
+                    <title>國譯一切經・和漢撰述部・史傳部十二・宋高僧伝</title>
+                    <edition>Tokyo,  Daito Publishing Co., Inc. 東京 大東出版社<date>1999.04.28[1959]</date>2nd. edition</edition>
+                    <abbr>日譯宋高僧伝</abbr>
+                </bibl>
+                <bibl ana="book">
+                    <author><hi>Yasuda</hi>, Junya 安田純也（徐興慶 編）</author>
+                    <title>朝鮮半島對占察法的吸收和發展──以《宋高僧傳・真表傳》的敘述為主線</title>
+                    <edition>Taipei,  National Taiwan University Press 台北 國立臺灣大學出版中心 《東亞文化交流與經典詮釋》頁471-497<date>2008.12</date>1st. edition</edition>
+                    <abbr>安田 2008</abbr>
+                </bibl>
+            </listBibl>
+        </body>
+    </text>
+</TEI>

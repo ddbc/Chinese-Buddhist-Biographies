@@ -1,33 +1,44 @@
 <?xml version='1.0' encoding='utf-8'?>
-<div xmlns="http://www.tei-c.org/ns/1.0" type="習禪" xml:id="gsz0788a18shiWenYi">
-    <anchor n="T.50.2061.0788a18"/><head><date from-iso="+0951-02-18" key="j20684542071729" to-iso="+0960-02-06">周</date>金陵<anchor xml:id="beg0788001"/>清涼<supplied>院</supplied><anchor xml:id="end0788001"/><persName key="A000174">文益</persName>傳</head><p><lb
-ed="T" n="0788a19"/><persName key="A000174">釋文益</persName>，姓魯氏，<placeName key="PL000000011893">餘杭</placeName>人也。年甫<date key="j20464922046856" from-iso="+0891-01-01" to-iso="+0891-12-31">七齡</date>，挺然出<lb
-ed="T" n="0788a20"/>俗，削染于新定<placeName key="PL000000011937">智通院</placeName>，依<persName key="A010729">全偉禪伯</persName>。<date key="j20512392051604" from-iso="+0904-01-01" to-iso="+0904-12-31">弱年</date>，<lb
-ed="T" n="0788a21"/>得形俱無作法於<placeName key="PL000000013226">越州開元寺</placeName>。于時謝俗<lb
+<div xmlns="http://www.tei-c.org/ns/1.0" type="習禪" xml:id="gsz0788a18shiWenYi"><lb
+ed="T" n="0788a18"/><anchor n="T.50.2061.0788a18"/><head><date from-iso="+0951-02-18" key="j20684542071729" to-iso="+0960-02-06">周</date><placeName key="PL000000008950"><placeName>金陵</placeName><placeName><anchor xml:id="beg0788001"/>清涼<supplied>院</supplied><anchor xml:id="end0788001"/></placeName></placeName><persName key="A000174">文益</persName>傳</head><p><lb
+ed="T" n="0788a19"/><persName key="A000174">釋文益</persName>，姓<name>魯</name>氏，<placeName key="PL000000011893">餘杭</placeName>人也。年甫<date key="j20464922046856" from-iso="+0891-01-01" to-iso="+0891-12-31">七齡</date>，挺然出<lb
+ed="T" n="0788a20"/>俗，削染于<placeName key="PL000000011937"><placeName>新定</placeName><placeName>智通院</placeName></placeName>，依<persName key="A010729">全偉<roleName>禪伯</roleName></persName>。<date key="j20512392051604" from-iso="+0904-01-01" to-iso="+0904-12-31">弱年</date>，<lb
+ed="T" n="0788a21"/>得形俱無作法<ptr type="glossary" target="#g33"/>於<placeName key="PL000000013226"><placeName>越州</placeName><placeName>開元寺</placeName></placeName>。于時謝俗<lb
 ed="T" n="0788a22"/>累以拂衣，出樊籠而矯翼。屬律匠<persName key="A010005">希覺<lb
-ed="T" n="0788a23"/>師</persName>盛化其徒于<placeName key="PL000000012309">鄮山育王寺</placeName>，甚得持犯之<lb
-ed="T" n="0788a24"/>趣。又遊文雅之場，<persName key="A010005">覺師</persName>許命為我門之游夏<lb
+ed="T" n="0788a23"/><roleName>師</roleName></persName>盛化其徒于<placeName key="PL000000012309"><placeName>鄮山</placeName><placeName>育王寺</placeName></placeName>，甚得持犯<ptr type="glossary" target="#g121"/>之<lb
+ed="T" n="0788a24"/>趣。又遊文雅之場，<persName key="A010005">覺<roleName>師</roleName></persName>許命為我門之<persName key="A021880">游</persName>、<persName key="A010088">夏</persName><lb
 ed="T" n="0788a25"/>也。尋則玄機一發，雜務俱<anchor xml:id="beg0788002"/><choice resp="sgsz"><sic>損</sic><corr>捐</corr></choice><anchor xml:id="end0788002"/>。振錫南遊，止<lb
-ed="T" n="0788a26"/><persName key="A003890">長慶禪師</persName>法會。已決疑滯，更約伴西出<placeName key="PL000000028608">湖<lb
-ed="T" n="0788a27"/>湘</placeName>，爾日暴雨不進，暫望西院寄度信宿，避<lb
-ed="T" n="0788a28"/>溪漲之患耳。遂參<persName key="A010730">宣法大師</persName>曾住漳浦<placeName key="PL000000018037">羅<lb
-ed="T" n="0788a29"/>漢</placeName>，<placeName key="PL000000017104">閩</placeName>人止呼<persName key="A010730">羅漢</persName>。<persName key="A010730">羅漢</persName>素知<persName key="A000174">益</persName>在<placeName key="PL000000017203">長慶</placeName>頴<pb ed="T" n="0788b" xml:id="T50.2061.0788b"/><lb
+ed="T" n="0788a26"/><persName key="A003890">長慶<roleName>禪師</roleName></persName>法會。已決疑滯<ptr target="#n813"/>，更約伴西出<placeName key="PL000000028608">湖<lb
+ed="T" n="0788a27"/>湘</placeName>。爾日暴雨不進，暫望<ref type="place" target="#PL000000017145">西院</ref>
+，寄度信宿<ptr type="glossary" target="#g499"/>，避<lb
+ed="T" n="0788a28"/>溪漲之患耳，遂參<persName key="A010683">宣法大師</persName><ptr target="#n405"/>──曾住<placeName key="PL000000018037"><placeName>漳浦</placeName><placeName>羅<lb
+ed="T" n="0788a29"/>漢</placeName></placeName>，<placeName key="PL000000017104">閩</placeName>人止呼<persName key="A010683">羅漢</persName>。<persName key="A010683">羅漢</persName>素知<persName key="A000174">益</persName>在<placeName key="PL000000017203">長慶</placeName>頴<pb ed="T" n="0788b" xml:id="T50.2061.0788b"/><lb
 ed="T" n="0788b01"/>脫，銳意接之，唱導之。由<persName key="A008370">玄沙</persName>與<persName key="A003677">雪峯</persName>血脈<lb
 ed="T" n="0788b02"/>殊異，<persName key="A000174">益</persName>疑山頓摧，正路斯得，欣欣然挂囊栖<lb
 ed="T" n="0788b03"/>止，變塗迴軌，確乎不拔。尋遊方却抵<placeName key="PL000000019849">臨川</placeName>，<lb
 ed="T" n="0788b04"/>邦伯命居<placeName key="PL000000019010">崇壽</placeName>。四遠之僧求<persName key="A000174">益</persName>者，不減千<lb
-ed="T" n="0788b05"/>計。<placeName key="PL000000000122">江南國</placeName>主<persName key="A006600">李氏始祖</persName>知重，迎住報恩禪院<!--找不到此地-->，<lb
-ed="T" n="0788b06"/>署號<persName key="A000174">淨慧</persName>。厥後微言欲絕，大夢誰醒？既傳<lb
-ed="T" n="0788b07"/>法而有歸，亦同凡而示滅，以<date key="j20711832071183" when-iso="+0958-08-09">周顯德五年<lb
-ed="T" n="0788b08"/>戊午歲秋七月十七日</date>有恙，<persName key="A006600">國主</persName>紆于方<lb
+ed="T" n="0788b05"/>計。<placeName key="PL000000000122">江南國</placeName>主<persName key="A006600">李<roleName>氏始祖</roleName></persName>知重，迎住<placeName key="PL000000009084">報恩禪院</placeName>，<lb
+ed="T" n="0788b06"/>署號<persName key="A000174">淨慧</persName><ptr target="#n815"/>。厥後微言欲絕，大夢誰醒？既傳<lb
+ed="T" n="0788b07"/>法而有歸，亦同凡而示滅，以<date key="j20711832071183" when-iso="+0958-08-09"><name>周</name><name>顯德</name>五年<lb
+ed="T" n="0788b08"/>戊午歲秋七月十七日</date>有恙，<ref type="person" target="#A006601">國主</ref>紆于方<lb
 ed="T" n="0788b09"/>丈問疾。<date key="j20712012071201" when-iso="+0958-08-27">閏月五日</date>，剃髮澡身，與眾言別，加<lb
-ed="T" n="0788b10"/>趺而盡，顏貌如生，俗年七十四，臘五十五。私<lb
-ed="T" n="0788b11"/>諡曰<persName key="A000174">大法眼</persName>，塔號無相。俾城下僧寺具威<lb
-ed="T" n="0788b12"/>儀禮迎引，奉全身於<placeName key="PL000000011044">江寧縣丹陽鄉</placeName>，起塔<lb
-ed="T" n="0788b13"/>焉。<persName key="A000174">益</persName>好為文筆，特慕支湯之體，時作偈頌<lb
-ed="T" n="0788b14"/>真讚，別形纂錄。法嗣弟子<placeName key="PL000000014411">天台</placeName><persName key="A008355">德韶</persName>、<persName key="A010735">慧明</persName>、<placeName key="PL000000018048">漳<lb
-ed="T" n="0788b15"/>州</placeName><persName key="A010730">智依</persName>、<placeName key="PL000000008734">鐘山</placeName><persName key="A010736">道<anchor xml:id="beg0788sgsz2"/>欽<anchor xml:id="end0788sgsz2"/></persName>、<placeName key="PL000000010986">潤州</placeName><persName key="A010737">光逸</persName>、<placeName key="PL000000019383">吉州</placeName><persName key="A010738">文遂</persName>。<placeName key="PL000000000197">江南</placeName>後<lb
-ed="T" n="0788b16"/>主為碑頌德，<persName key="A010740">韓熙載</persName>撰塔銘云。</p>
+ed="T" n="0788b10"/>趺而盡，顏貌如生，俗年七十四，臘五十五<ptr target="#n406"/>。私<lb
+ed="T" n="0788b11"/>諡曰<persName key="A000174">大法眼</persName>，塔號<placeName key="PL000000009077">無相</placeName>。俾城下僧寺具威<lb
+ed="T" n="0788b12"/>儀禮迎引，奉全身於<placeName key="PL000000011044"><placeName>江寧縣</placeName><placeName>丹陽鄉</placeName></placeName>，起塔<lb
+ed="T" n="0788b13"/>焉。<persName key="A000174">益</persName>好為文筆，特慕<name>支</name><persName key="A005195">湯</persName>之體<ptr target="#n816"/>，時作偈頌<lb
+ed="T" n="0788b14"/>真讚，別形纂錄。法嗣弟子<placeName key="PL000000014411">天台</placeName><persName key="A008355">德韶</persName>、<persName key="A010735">慧明</persName>、<placeName key="PL000000018024">漳<lb
+ed="T" n="0788b15"/>州</placeName><persName key="A010730">智依</persName>、<placeName key="PL000000008734">鐘山</placeName><persName key="A010736">道<anchor xml:id="beg0788sgsz2"/>欽<anchor xml:id="end0788sgsz2"/></persName>、<placeName key="PL000000010986">潤州</placeName><persName key="A021152">光逸</persName>、<placeName key="PL000000019383">吉州</placeName><persName key="A010738">文遂</persName>。<ref type="person" target="#A021837"><name>江南</name>後<lb
+ed="T" n="0788b16"/>主</ref>為碑頌德，<persName key="A010740">韓熙載</persName>撰塔銘云。</p>
+    <linkGrp>
+        <link targets="#0788a18 #0788a18"/>
+        <ptr target="#A000174" type="person"/>
+        <ptr target="#PL000000008950" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0788a19 #0788a19"/>
+        <ptr target="#A000174" type="person"/>
+        <ptr target="#PL000000011893" type="place"/>
+    </linkGrp>
     <linkGrp>
         <link targets="#0788a19 #0788a20"/>
         <ptr target="#A000174" type="person"/>
@@ -48,19 +59,24 @@ ed="T" n="0788b16"/>主為碑頌德，<persName key="A010740">韓熙載</persNam
         <ptr target="#PL000000012309" type="place"/>
     </linkGrp>
     <linkGrp>
-        <link targets="#0788a25 #0788a27"/>
+        <link targets="#0788a25 #0788a26"/>
         <ptr target="#A000174" type="person"/>
         <ptr target="#A003890" type="person"/>
-        <ptr target="#PL000000028608" type="place"/>
+        <ptr target="#PL000000017203" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0788a27 #0788a28"/>
+        <ptr target="#A000174" type="person"/>
+        <ptr target="#A010683" type="person"/>
+        <ptr target="#PL000000017145" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0788a28 #0788a29"/>
-        <ptr target="#A000174" type="person"/>
-        <ptr target="#A010730" type="person"/>
+        <ptr target="#A010683" type="person"/>
         <ptr target="#PL000000018037" type="place"/>
     </linkGrp>
     <linkGrp>
-        <link targets="#0788b04 #0788b05"/>
+        <link targets="#0788b03 #0788b04"/>
         <ptr target="#A000174" type="person"/>
         <ptr target="#PL000000019010" type="place"/>
     </linkGrp>
@@ -68,6 +84,25 @@ ed="T" n="0788b16"/>主為碑頌德，<persName key="A010740">韓熙載</persNam
         <link targets="#0788b05 #0788b06"/>
         <ptr target="#A000174" type="person"/>
         <ptr target="#A006600" type="person"/>
+        <ptr target="#PL000000000122" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0788b05 #0788b06"/>
+        <ptr target="#A000174" type="person"/>
+        <ptr target="#PL000000009084" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0788b07 #0788b08"/>
+        <ptr target="#A000174" type="person"/>
+        <ptr target="#A006601" type="person"/>
+        <ptr target="#PL000000008950" type="place"/>
+        <ptr target="#j20711832071183" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0788b09 #0788b10"/>
+        <ptr target="#A000174" type="person"/>
+        <ptr target="#PL000000008950" type="place"/>
+        <ptr target="#j20712012071201" type="time"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0788b14 #0788b15"/>
@@ -76,7 +111,33 @@ ed="T" n="0788b16"/>主為碑頌德，<persName key="A010740">韓熙載</persNam
         <ptr target="#A010735" type="person"/>
         <ptr target="#A010730" type="person"/>
         <ptr target="#A010736" type="person"/>
-        <ptr target="#A010737" type="person"/>
+        <ptr target="#A021152" type="person"/>
         <ptr target="#A010738" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0788b14 #0788b14"/>
+        <ptr target="#A008355" type="person"/>
+        <ptr target="#A010735" type="person"/>
+        <ptr target="#PL000000014411" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0788b14 #0788b15"/>
+        <ptr target="#A010730" type="person"/>
+        <ptr target="#PL000000018024" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0788b15 #0788b15"/>
+        <ptr target="#A010736" type="person"/>
+        <ptr target="#PL000000008734" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0788b15 #0788b15"/>
+        <ptr target="#A021152" type="person"/>
+        <ptr target="#PL000000010986" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0788b15 #0788b15"/>
+        <ptr target="#A010738" type="person"/>
+        <ptr target="#PL000000019383" type="place"/>
     </linkGrp>
 </div>

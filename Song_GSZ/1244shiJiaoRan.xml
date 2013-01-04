@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" type="雜科聲德" xml:id="gsz0891c22shiJiaoRan"><lb
 ed="T" n="0891c22"/><anchor n="T.50.2061.0891c22"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date><anchor xml:id="beg0891003"/>湖州<anchor xml:id="end0891003"/>杼山<persName key="A008833">皎然</persName>傳（<persName key="A013883">福琳</persName>）</head><p><lb
-ed="T" n="0891c23"/><persName key="A008833">釋皎然</persName>，<anchor xml:id="beg0891004"/>名<anchor xml:id="end0891004"/><persName key="A008833">晝</persName><ptr target="#n251"/>，姓謝氏，<placeName key="PL000000013106">長城</placeName>人，<persName key="A001869">康樂侯</persName>十世<lb
+ed="T" n="0891c23"/><persName key="A008833">釋皎然</persName>，<anchor xml:id="beg0891004"/><choice resp="sgsz"><sic>名</sic><corr>字</corr></choice><anchor xml:id="end0891004"/><persName key="A008833">晝</persName><ptr target="#n251"/>，姓<name>謝</name>氏，<placeName key="PL000000013106">長城</placeName>人，<persName key="A001869">康樂侯</persName>十世<lb
 ed="T" n="0891c24"/>孫也。幼負異才，性與道合，初脫羈絆，漸加<lb
 ed="T" n="0891c25"/>削染。登戒于<placeName key="PL000000011596">靈隱</placeName>戒壇<persName key="A010894">守直律師</persName>邊，聽毘尼<lb
 ed="T" n="0891c26"/>道，特所留心。於篇什中，吟詠情性，所謂造<lb
@@ -58,12 +58,12 @@ ed="T" n="0892b18"/>流布。<date key="j20165652016948" notAfter-iso="+0810-02-
 ed="T" n="0892b19"/>過舊院，就影堂傷悼彌久，遺題曰：「<persName key="A001503">道安</persName>已<lb
 ed="T" n="0892b20"/>返無何鄉，<persName key="A001204">慧遠</persName>來過舊草堂。余亦當時及門<lb
 ed="T" n="0892b21"/>者，共吟佳句一焚香。」其遺德，後賢所慕者<lb
-ed="T" n="0892b22"/>相繼有焉。又唐黃州<placeName key="PL000000026515">大石山</placeName><persName key="A013883">釋福琳</persName>，姓元氏，<lb
+ed="T" n="0892b22"/>相繼有焉。又唐<placeName key="PL000000026515">黃州大石山</placeName><persName key="A013883">釋福琳</persName>，姓<name>元</name>氏，<lb
 ed="T" n="0892b23"/><placeName key="PL000000027770">荊州</placeName>人也。父為<placeName key="PL000000027119">襄陽</placeName>判司，素崇釋氏。<persName key="A013883">琳</persName>幼<lb
 ed="T" n="0892b24"/>好佛門，恒循檢操，早知割愛，就玄靜寺<!--找不到此地--><persName key="A013888">謙<lb
 ed="T" n="0892b25"/>著師</persName>下剃染<ptr type="glossary" target="#g30"/>。登滿足法已，躬<anchor xml:id="beg0892sgsz1"/>禮<anchor xml:id="end0892sgsz1"/><persName key="A005612">荷澤祖師</persName>，<lb
 ed="T" n="0892b26"/>乃契真心。後至<placeName key="PL000000026525">黃陂</placeName>，剪茅營舍，終成大<lb
-ed="T" n="0892b27"/>院，安集四方禪侶。<persName key="A013883">琳</persName>終時年八十二，<date key="j20079122007941" notAfter-iso="+0785-06-15" notBefore-iso="+0785-05-17"><name>興元</name>二<lb
+ed="T" n="0892b27"/>院，安集四方禪侶。<persName key="A013883">琳</persName>終時年八十二，<date key="j20079122007941" notAfter-iso="+0785-06-15" notBefore-iso="+0785-05-17"><name>興元</name>二<ptr target="#n744"/><lb
 ed="T" n="0892b28"/>年四月</date>入塔。</p>
     <linkGrp>
         <link targets="#0891c24 #0891c26"/>

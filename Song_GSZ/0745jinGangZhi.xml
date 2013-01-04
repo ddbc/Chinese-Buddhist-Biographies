@@ -1,13 +1,13 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" type="譯經" xml:id="gsz0711b05jinGangZhi"><lb
-ed="T" n="0711b05"/><anchor n="T.50.2061.0711b05"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date><placeName key="PL000000023550">洛陽廣福寺</placeName><persName key="A000774">金剛智</persName>傳</head><p><lb
-ed="T" n="0711b06"/><persName key="A000774">釋跋日羅菩提</persName>，<name>華</name>言<persName key="A000774">金剛智</persName><ptr target="#n87"/>。<placeName key="PL000000048353">南印度摩賴耶<lb
-ed="T" n="0711b07"/>國</placeName>人也，<name>華</name>言「光明」，<ref target="#PL000000048353" type="place">其國</ref>境近<placeName key="PL000000048354">觀音宮殿補陀<lb
+ed="T" n="0711b05"/><anchor n="T.50.2061.0711b05"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date><placeName key="PL000000023550"><placeName>洛陽</placeName><placeName>廣福寺</placeName></placeName><persName key="A000774">金剛智</persName>傳</head><p><lb
+ed="T" n="0711b06"/><persName key="A000774">釋跋日羅菩提</persName>，<name>華</name>言<persName key="A000774">金剛智</persName><ptr target="#n87"/>。<placeName key="PL000000048353"><placeName>南印度</placeName><placeName>摩賴耶<lb
+ed="T" n="0711b07"/>國</placeName></placeName>人也，<name>華</name>言「光明」，<ref target="#PL000000048353" type="place">其國</ref>境近<persName key="A002803">觀音</persName>宮殿<placeName key="PL000000048354">補陀<lb
 ed="T" n="0711b08"/>落伽山</placeName>。<ref target="#A017824" type="person">父</ref>婆羅門<ptr rend="display:none;" type="glossary" target="#g117"/>善五明論<ptr type="glossary" target="#g88"/>，為<placeName key="PL000000048351">建支</placeName><ptr target="#n89"/>王師。<lb
 ed="T" n="0711b09"/><persName key="A000774">智</persName>生數歲，日誦萬言，目覽心傳，終身無忘。<lb
 ed="T" n="0711b10"/><date key="j19708861971251" from-iso="+0684-01-01" to-iso="+0684-12-31">年十六</date>，開悟佛理，不樂習<persName key="A017571">尼<anchor xml:id="beg0711sgsz4"/>揵<anchor xml:id="end0711sgsz4"/>子</persName>諸論<ptr type="glossary" target="#g485"/>，乃<lb
-ed="T" n="0711b11"/>削染出家，蓋<anchor xml:id="beg0711001"/>宿植<anchor xml:id="end0711001"/><ptr type="glossary" target="#g90"/>之力也。後隨師往<placeName key="PL000000048272">中印<lb
-ed="T" n="0711b12"/>度那爛陀寺</placeName>，學修多羅<ptr type="glossary" target="#g91"/>、阿毘達磨<ptr type="glossary" target="#g92"/>等。洎<ref type="date" target="#j19723471972712">登<lb
+ed="T" n="0711b11"/>削染出家，蓋<anchor xml:id="beg0711001"/>宿植<anchor xml:id="end0711001"/><ptr rend="display:none;" type="glossary" target="#g90"/>之力也。後隨師往<placeName key="PL000000048272"><placeName>中印<lb
+ed="T" n="0711b12"/>度</placeName><placeName>那爛陀寺</placeName></placeName>，學修多羅<ptr type="glossary" target="#g91"/>、阿毘達磨<ptr type="glossary" target="#g92"/>等。洎<ref type="date" target="#j19723471972712">登<lb
 ed="T" n="0711b13"/>戒法</ref>，遍聽十八部律。又詣<placeName key="PL000000055425">西印度</placeName>學小乘<lb
 ed="T" n="0711b14"/>諸論及瑜伽<ptr type="glossary" target="#g93"/>、三密<ptr type="glossary" target="#g94"/>、陀羅尼門<ptr type="glossary" target="#g95"/>。十餘年全通三<lb
 ed="T" n="0711b15"/>藏。次復遊<placeName key="PL000000048734">師子國</placeName>，登<placeName key="PL000000048735">楞伽山</placeName>，東行<placeName key="PL000000048205">佛誓</placeName>、<placeName key="PL000000048221">裸<lb
@@ -64,7 +64,7 @@ ed="T" n="0712a07"/>法要》<ptr target="#n111"/>各一卷，沙門<persName ke
 ed="T" n="0712a08"/>成文。復觀舊《隨求》<ptr target="#n112"/>本中有闕章句<ptr target="#n113"/>，加之滿<lb
 ed="T" n="0712a09"/>足。<persName key="A000774">智</persName>所譯總持、印契，凡至皆驗，祕密流行，為<lb
 ed="T" n="0712a10"/>其最也。<ref type="place" target="#PL000000042189 #PL000000023581">兩京</ref>稟學，濟度殊多，在家出家，傳之<lb
-ed="T" n="0712a11"/>相繼。</p><p><date key="j19886731988673" when-iso="+0732-09-13">二十年壬申八月既望</date><ptr target="#n114"/>，於<placeName key="PL000000023550">洛陽廣福寺</placeName><lb
+ed="T" n="0712a11"/>相繼。</p><p><date key="j19886731988673" when-iso="+0732-09-13">二十年壬申八月既望</date><ptr target="#n114"/>，於<placeName key="PL000000023550"><placeName>洛陽</placeName><placeName>廣福寺</placeName></placeName><lb
 ed="T" n="0712a12"/>命門人曰：「白月圓時，<ref target="#A000774" type="person">吾</ref>當去矣。」遂禮<persName key="A004206">毘盧<lb
 ed="T" n="0712a13"/>遮那佛</persName>，旋繞七匝，退歸<ref type="place" target="#PL000000023551">本院</ref>，焚香發願，頂<lb
 ed="T" n="0712a14"/>戴<name>梵</name>夾并新譯教法，付囑訖，寂然而化。壽七<lb
@@ -73,7 +73,7 @@ ed="T" n="0712a16"/>南<placeName key="PL000000023513">伊川</placeName>之右�
 ed="T" n="0712a17"/>勅諡國師之號。灌頂<ptr type="glossary" target="#g97"/>弟子中書侍郎<persName key="A008503">杜鴻漸</persName>，<lb
 ed="T" n="0712a18"/>素所歸奉，述碑紀德焉<ptr target="#n30"/>。</p>
         <p><lb
-ed="T" n="0712a19"/>系曰：五部曼拏羅法<ptr type="glossary" target="#g99"/>，攝取鬼物，必附麗童<lb
+ed="T" n="0712a19"/>系曰：五部曼拏羅法<ptr type="glossary" target="#g99"/>，攝取鬼物，必附麗<ptr type="glossary" target="#g157"/>童<lb
 ed="T" n="0712a20"/>男處女，去疾除祅也絕易。近世之人，用是<lb
 ed="T" n="0712a21"/>圖身口之利，乃寡徵驗，率為時所慢。吁，正<lb
 ed="T" n="0712a22"/>法醨薄，一至於此！</p>

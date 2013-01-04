@@ -2,9 +2,9 @@
 <div xmlns="http://www.tei-c.org/ns/1.0" type="明律" xml:id="gsz0806c11shiShangHeng"><lb
 ed="T" n="0806c11"/><anchor n="T.50.2061.0806c11"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date>撫州景雲寺<persName key="A011316">上恒</persName>傳<ptr target="#n1489"/></head><p><lb
 ed="T" n="0806c12"/><persName key="A011316">釋上恒</persName>，姓饒氏，<placeName key="PL000000019880">臨川南城</placeName>人也。童而有知，<lb
-ed="T" n="0806c13"/><date key="j19960881996452" from-iso="+0753-01-01" to-iso="+0753-12-31">志學之年</date>，發心捨家，從母黨在空門而求<lb
+ed="T" n="0806c13"/><date key="j19960881996452" from-iso="+0753-01-01" to-iso="+0753-12-31">志學之年</date>，發心捨家，從母黨<ptr target="#n481"/>在空門而求<lb
 ed="T" n="0806c14"/>攝受，教誦佛典，日計千言。壯齒，從<placeName key="PL000000028928">南嶽</placeName><persName key="A011293">大<lb
-ed="T" n="0806c15"/>圓大師</persName>納戒，而聽涉精苦。<date notBefore-iso="+0766-12-22" key="j20011912005747" notAfter-iso="+0779-06-13"><name>大曆</name>中</date>，不去父<lb
+ed="T" n="0806c15"/>圓<roleName>大師</roleName></persName>納戒<ptr target="#n482"/>，而聽涉精苦。<date notBefore-iso="+0766-12-22" key="j20011912005747" notAfter-iso="+0779-06-13"><name>大曆</name>中</date>，不去父<lb
 ed="T" n="0806c16"/>母之邦，請隷于<placeName key="PL000000019811">景雲寺</placeName>，修習無虧，亟淹年<lb
 ed="T" n="0806c17"/>序。《南山事鈔》，講貫<ptr type="glossary" target="#g1247"/>尤專。<date notBefore-iso="+0785-02-18" key="j20078242009652" notAfter-iso="+0790-02-20"><name>貞元</name>初</date>，徙居<anchor xml:id="beg0806sgsz5"/>豫<anchor xml:id="end0806sgsz5"/>章<placeName key="PL000000018582">龍<lb
 ed="T" n="0806c18"/>興寺</placeName>，與<placeName key="PL000000018775">廬阜</placeName><persName key="A008824">法真</persName>、<placeName key="PL000000014411">天台</placeName><persName key="A001984">靈祐</persName>、<placeName key="PL000000027429">荊門</placeName><persName key="A011321">法裔</persName>、<placeName key="PL000000018831">興果</placeName><lb
@@ -15,7 +15,7 @@ ed="T" n="0806c22"/>遷善滅罪者無央數眾。坐甘露壇二十許<lb
 ed="T" n="0806c23"/>年，十有八會，救拔群生，剡浮東震，男女得度<lb
 ed="T" n="0806c24"/>者一萬五千餘人。<date from-iso="+0581-02-22" key="j19333191936714" to-iso="+0590-06-10"><name>元和</name>十年</date>，微云乖悆，<date from-iso="+0815-02-17" key="j20187802019133" to-iso="+0816-02-05">十月<lb
 ed="T" n="0806c25"/><anchor xml:id="beg0806sgsz9"/>己<anchor xml:id="end0806sgsz9"/>亥</date>，化于廬山<placeName key="PL000000018801">東林寺</placeName>，歸全身于南岡<!--找不到此地-->石墳。<lb
-ed="T" n="0806c26"/>住世七十七年，安居五十五夏。門人等樹松<lb
+ed="T" n="0806c26"/>住世七十七年，安居五十五夏<ptr target="#n483"/>。門人等樹松<lb
 ed="T" n="0806c27"/>柏，<placeName key="PL000000003793">太原</placeName><persName key="A004029">白居易</persName>為石塔銘云。</p>
     <linkGrp>
         <link targets="#0806c13 #0806c15"/>

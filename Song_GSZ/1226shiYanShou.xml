@@ -1,20 +1,20 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" type="興福" xml:id="gsz0887a29shiYanShou"><lb
-ed="T" n="0887a29"/><anchor n="T.50.2061.0887a29"/><head><date from-iso="+0960-02-09" key="j20717322132856" to-iso="+1127-06-18"><anchor xml:id="begd1e49134"/>宋<anchor xml:id="endd1e49134"/></date>錢塘永明寺<persName key="A000282">延壽</persName>傳</head><pb n="0887b" xml:id="T50.2061.0887b" ed="T"/><p><lb
+ed="T" n="0887a29"/><anchor n="T.50.2061.0887a29"/><head><date from-iso="+0960-02-09" key="j20717322132856" to-iso="+1127-06-18"><anchor xml:id="begd1e49134"/>宋<anchor xml:id="endd1e49134"/></date><placeName key="PL000000011683">錢塘永明寺</placeName><persName key="A000282">延壽</persName>傳</head><pb n="0887b" xml:id="T50.2061.0887b" ed="T"/><p><lb
 ed="T" n="0887b01"/><persName key="A000282">釋延壽</persName>，姓王，本<placeName key="PL000000011520">錢塘</placeName>人也。<placeName key="PL000000011455">兩浙</placeName>有國時為<lb
 ed="T" n="0887b02"/>吏，督納軍須，其性純直，口無二言，誦徹法<lb
 ed="T" n="0887b03"/>華經，聲不輟響。屬翠巖<persName key="A013517">參公</persName>盛化，<persName key="A000282">壽</persName>捨妻<lb
-ed="T" n="0887b04"/>孥，削染登戒。甞於台嶺<placeName key="PL000000014536">天柱峯</placeName>九旬習定，<lb
-ed="T" n="0887b05"/>有鳥類尺鷃，巢棲于衣襵中。乃得<persName key="A008355">韶禪師</persName><lb
+ed="T" n="0887b04"/>孥，削染登戒。甞於<placeName key="PL000000014536">台嶺天柱峯</placeName>九旬習定，<lb
+ed="T" n="0887b05"/>有鳥類尺鷃，巢棲于衣襵中。乃得<persName key="A008355">韶<roleName>禪師</roleName></persName><lb
 ed="T" n="0887b06"/>決擇所見，遷遁于<placeName key="PL000000012459">雪竇山</placeName>，除誨人外，瀑布<lb
 ed="T" n="0887b07"/>前坐諷禪默。衣無繒纊，布襦卒歲。食無重<lb
 ed="T" n="0887b08"/>味，野蔬斷中。漢南國王錢氏最所欽尚，請<lb
 ed="T" n="0887b09"/><persName key="A000282">壽</persName>行方等懺，贖物類放生。汎愛慈柔，或非<lb
 ed="T" n="0887b10"/>理相<anchor xml:id="beg0887sgsz5"/>干<anchor xml:id="end0887sgsz5"/>，顏貌不動。誦法華計一萬三千許<lb
 ed="T" n="0887b11"/>部。多勵信人營造塔像。自無貯畜，雅好詩<lb
-ed="T" n="0887b12"/>道，著萬善同歸、宗鏡等錄數千萬言。<ref type="person" target="#A019512">高麗國<lb
+ed="T" n="0887b12"/>道，著萬善同歸、<anchor xml:id="beg0887sgsz6"/>宗鏡<anchor xml:id="end0887sgsz6"/><ptr target="#n737"/>等錄數千萬言。<ref type="person" target="#A019512">高麗國<lb
 ed="T" n="0887b13"/>王</ref>覽其錄，遣使遺金線織成袈裟、紫水精數<lb
-ed="T" n="0887b14"/>珠、金澡罐等。以<date key="j20775702077570" when-iso="+0976-02-03">開寶八年乙亥</date><!--太祖, 開寶, 八年, 十二月, 二十六日（《禪林僧寶傳》卷9〈永明智覺禪師〉）-->終于住寺，<lb
+ed="T" n="0887b14"/>珠、金澡罐等。以<date key="j20775702077570" when-iso="+0976-02-03"><name>開寶</name>八年乙亥</date><ptr target="#n738"/>終于住寺，<lb
 ed="T" n="0887b15"/>春秋七十二，法臘三十七。葬于<placeName key="PL000000011429">大慈山</placeName>，樹<lb
 ed="T" n="0887b16"/>亭誌焉。</p>
     <linkGrp>

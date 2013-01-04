@@ -3,7 +3,7 @@
 ed="T" n="0833b18"/><anchor n="T.50.2061.0833b18"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date>京師大安國寺<persName key="A012427">和和</persName>傳</head><p><lb
 ed="T" n="0833b19"/><persName key="A012427">釋和和</persName>者，莫詳氏族、本生。其為僧也狂而<lb
 ed="T" n="0833b20"/>不亂，愚而有知，罔測其由。發言多中，時<lb
-ed="T" n="0833b21"/>號為聖。<placeName key="PL000000042180">安國寺</placeName>中居住，出入無拘撿。見<placeName key="PL000000042180">本<lb
+ed="T" n="0833b21"/>號為聖。<placeName key="PL000000042147">安國寺</placeName><ptr target="#n558"/>中居住，出入無拘撿。見<placeName key="PL000000042147">本<lb
 ed="T" n="0833b22"/>寺</placeName>修營殿閣未就，有<ref type="person" target="#A019444">越國<!--找不到此地-->公主</ref>降<placeName key="PL000000023194"><anchor xml:id="beg0833004"/><choice resp="sgsz"><sic>榮</sic><corr>滎</corr></choice><anchor xml:id="end0833004"/>陽</placeName><lb
 ed="T" n="0833b23"/><persName key="A012428">鄭萬鈞</persName>，雖琴瑟相諧，而數年無子。<persName key="A012427">和</persName>因至<lb
 ed="T" n="0833b24"/>公主家，<persName key="A012428">鈞</persName>焚香灑掃以待之。主拜跪歸向，<lb
@@ -20,7 +20,7 @@ ed="T" n="0833c05"/>渭，量其位地，不可輕議哉。</p>
     <linkGrp>
         <link targets="#0833b21 #0833b21"/>
         <ptr target="#A012427" type="person"/>
-        <ptr target="#PL000000042180" type="place"/>
+        <ptr target="#PL000000042147" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0833b23 #0833b27"/>

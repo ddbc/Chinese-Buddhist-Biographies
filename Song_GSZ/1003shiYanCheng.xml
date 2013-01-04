@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" type="明律" xml:id="gsz0809b11shiYanCheng"><lb
-ed="T" n="0809b11"/><anchor n="T.50.2061.0809b11"/><head><date from-iso="+0907-06-10" key="j20524952058534" to-iso="+0923-12-22">梁</date>蘇州<ptr target="#n280"/>破山興福寺<persName key="A011646">彥偁</persName>傳（<persName key="A011648">壽闍<anchor xml:id="beg0809sgsz5"/>黎<anchor xml:id="end0809sgsz5"/></persName>）</head><p><lb
+ed="T" n="0809b11"/><anchor n="T.50.2061.0809b11"/><head><date from-iso="+0907-06-10" key="j20524952058534" to-iso="+0923-12-22">梁</date>蘇州<ptr target="#n280"/>破山興福寺<persName key="A011646">彥偁</persName>傳（<persName key="A011648">壽<anchor xml:id="beg0809sgsz5"/>闍黎<anchor xml:id="end0809sgsz5"/></persName>）</head><p><lb
 ed="T" n="0809b12"/><persName key="A011646">釋彥偁</persName>，姓<name>龔</name>氏，<placeName key="PL000000010157">吳郡常熟</placeName>人也。揭厲戒<choice resp="sgsz"><sic>津</sic><corr>律</corr></choice>，<lb
-ed="T" n="0809b13"/>錙銖塵務，勤求師範，唯善是從。末扣擊繼<lb
+ed="T" n="0809b13"/>錙銖<ptr type="glossary" target="#g170"/>塵務，勤求師範，唯善是從。末扣擊繼<lb
 ed="T" n="0809b14"/>宗記主，得其戶牗，乃於本生地講導，同好<lb
 ed="T" n="0809b15"/>鳩聚，律風孔扇，號為毘尼窟宅焉。先是<placeName key="PL000000010125">海<lb
 ed="T" n="0809b16"/>隅</placeName>，巫咸氏之遺壤，招真治之舊墟，古寺周圍<lb
@@ -19,7 +19,7 @@ ed="T" n="0809b26"/>六月</date>，終于山房，年九十九歲云。次<pers
 ed="T" n="0809b27"/><placeName key="PL000000010590">淮浦</placeName>左右，貞諒不群，防護正念，時少雙偶。<lb
 ed="T" n="0809b28"/>傳<persName key="A001519">南山</persName>律鈔<ptr target="#n1290"/>極成，不看他面。唐季<persName key="A007250">楊<roleName>氏</roleName></persName>奄<lb
 ed="T" n="0809b29"/>有<placeName key="PL000000010783">廣陵</placeName>，頻召供施。四遠崇重，食<anchor xml:id="beg0809sgsz13"/>唯<anchor xml:id="end0809sgsz13"/>正命。不<pb ed="T" n="0809c" xml:id="T50.2061.0809c"/><lb
-ed="T" n="0809c01"/>畜盈長，戶不施關。及臨壇度弟子，正秉<lb
+ed="T" n="0809c01"/>畜盈長，戶不施關。及臨壇度弟子，正<anchor xml:id="beg0809sgsz14"/>秉<anchor xml:id="end0809sgsz14"/><lb
 ed="T" n="0809c02"/>羯磨，未周三法，忽爾坐亡于覆釜之畔，聞<lb
 ed="T" n="0809c03"/>見驚歎歟！</p>
     <linkGrp>

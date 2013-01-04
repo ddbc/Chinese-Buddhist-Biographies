@@ -18,7 +18,7 @@ ed="T" n="0881c10"/>焉。<placeName key="PL000000013239">越州</placeName>廉�
 ed="T" n="0881c11"/>禪師</persName>舊化之地也。<persName key="A013748">質</persName>唯居草庵而止。<date key="j20358612035861" when-iso="+0861-11-23"><name>咸通</name>二<lb
 ed="T" n="0881c12"/>年十月十四日</date>，告眾言別。<date key="j20358622035862" when-iso="+0861-11-24">十五日</date>，端坐而化，<lb
 ed="T" n="0881c13"/>春秋八十四，僧臘六十二。窆于雲谷<!--找不到此地-->，建塔，<lb
-ed="T" n="0881c14"/><placeName key="PL000000013239">越州</placeName>刺史<persName key="A013755">段式</persName>為行錄焉。</p>
+ed="T" n="0881c14"/><placeName key="PL000000013239">越州</placeName>刺史<persName key="A000850">段式</persName>為行錄焉。</p>
     <linkGrp>
         <link targets="#0881b27 #0881b29"/>
         <ptr target="#A013748" type="person"/>
@@ -62,7 +62,7 @@ ed="T" n="0881c14"/><placeName key="PL000000013239">越州</placeName>刺史<per
     </linkGrp>
     <linkGrp>
         <link targets="#0881c14 #0881c14"/>
-        <ptr target="#A013755" type="person"/>
+        <ptr target="#A000850" type="person"/>
         <ptr target="#PL000000013239" type="place"/>
     </linkGrp>
 </div>

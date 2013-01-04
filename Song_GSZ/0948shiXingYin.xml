@@ -1,60 +1,74 @@
 <?xml version='1.0' encoding='utf-8'?>
-<div xmlns="http://www.tei-c.org/ns/1.0" type="習禪" xml:id="gsz0788b17shiXingYin">
-    <anchor n="T.50.2061.0788b17"/><head><date from-iso="+0951-02-18" key="j20684542071729" to-iso="+0960-02-06">周</date>廬山佛手巖<persName key="A010743">行因</persName>傳（<persName key="A009233">道潛</persName>）</head><p><lb
+<div xmlns="http://www.tei-c.org/ns/1.0" type="習禪" xml:id="gsz0788b17shiXingYin"><lb
+ed="T" n="0788b17"/><anchor n="T.50.2061.0788b17"/><head><date from-iso="+0951-02-18" key="j20684542071729" to-iso="+0960-02-06">周</date><placeName key="PL000000057396"><placeName>廬山</placeName><placeName>佛手巖</placeName></placeName><persName key="A010743">行因</persName>傳（<persName key="A009233">道潛</persName>）</head><p><lb
 ed="T" n="0788b18"/><persName key="A010743">釋行因</persName>，不詳姓氏，<placeName key="PL000000005471">雁門</placeName>人也。遊方問道于<lb
 ed="T" n="0788b19"/><placeName key="PL000000015039">江淮</placeName>，見<placeName key="PL000000018775">廬山</placeName>北有巖，遙望如垂手焉，手下<lb
 ed="T" n="0788b20"/>則深邃可三五丈許。<persName key="A010743">因</persName>獨棲禪觀于其中。偽<lb
-ed="T" n="0788b21"/>唐主<persName key="A006601">元宗</persName>聞之，三徵召不起。巖中夜闌，有異<lb
+ed="T" n="0788b21"/><name>唐</name>主<persName key="A006601">元宗</persName>聞之，三徵召不起。巖中夜闌，有異<lb
 ed="T" n="0788b22"/>鹿一臥<anchor xml:id="beg0788sgsz3"/>于<anchor xml:id="end0788sgsz3"/><persName key="A010743">因</persName>之石屋之側，又錦囊鳥一伏宿<lb
 ed="T" n="0788b23"/>于石壁下，二物都無驚怖。<persName key="A010743">因</persName>不度弟子，有<lb
 ed="T" n="0788b24"/>隣庵僧為之供侍。一日小疾，謂侍僧曰：「卷<lb
-ed="T" n="0788b25"/>上簾，<persName key="A010743">我</persName>去去。」簾方就鉤，下床三數步間立，<lb
+ed="T" n="0788b25"/>上簾，<ref type="person" target="#A010743">我</ref>去去。」簾方就鉤，下床三數步間立，<lb
 ed="T" n="0788b26"/>屹然而化，春秋七十許。<persName key="A006601">元宗</persName>命畫工寫真，<lb
 ed="T" n="0788b27"/>而闍維收遺骨，白塔在巖背焉。初<persName key="A010743">因</persName>傳禪<lb
-ed="T" n="0788b28"/>法于襄陽<placeName key="PL000000027165">鹿門山</placeName>，尋為<persName key="A006601">元宗</persName><anchor xml:id="beg0788sgsz4"/>堅<anchor xml:id="end0788sgsz4"/>請，於<placeName key="PL000000026412">棲賢<lb
-ed="T" n="0788b29"/>寺</placeName>開堂唱道，不及朞月<ptr type="glossary" target="#g1274"/>，<persName key="A009233">潛</persName>歸巖窟。初巖如<pb ed="T" n="0788c" xml:id="T50.2061.0788c"/><lb
+ed="T" n="0788b28"/>法于<placeName key="PL000000027165"><placeName>襄陽</placeName><placeName>鹿門山</placeName></placeName><ptr target="#n818"/>。尋為<persName key="A006601">元宗</persName><anchor xml:id="beg0788sgsz4"/>堅<anchor xml:id="end0788sgsz4"/>請，於<placeName key="PL000000018961">棲賢<lb
+ed="T" n="0788b29"/>寺</placeName>開堂唱道，不及朞月<ptr type="glossary" target="#g1274"/>，潛歸巖窟。初巖如<pb ed="T" n="0788c" xml:id="T50.2061.0788c"/><lb
 ed="T" n="0788c01"/>五指，中指上有松一株，<persName key="A010743">因</persName>終之日，此亦枯瘁。<lb
 ed="T" n="0788c02"/><persName key="A010743">因</persName>有經<anchor xml:id="beg0788sgsz5"/>籍<anchor xml:id="end0788sgsz5"/>之學，有問，則指擿先儒得失，章句<lb
 ed="T" n="0788c03"/>是非。談論不滯於方隅，開喻必含於教化，<lb
 ed="T" n="0788c04"/>實得道之良士也。</p>
     <p xml:id="pT50p0788c0501"><lb
 ed="T" n="0788c05"/>系曰：凡夫捨報，尸必一同也。佛則右脇，果位<lb
-ed="T" n="0788c06"/>坐亡，首搘地者現通，身立中者彰異。其惟<lb
-ed="T" n="0788c07"/>欲行步而化者，除<persName key="A012186">後僧會</persName>外，則<persName key="A010743">因公</persName>有焉。</p>
-    <p xml:id="pT50p0788c0801"><lb
-ed="T" n="0788c08"/>次<placeName key="PL000000011683">錢塘慧日永明寺</placeName><persName key="A009233">釋道潛</persName>，俗姓武，<placeName key="PL000000005165">蒲津</placeName>人<lb
-ed="T" n="0788c09"/>也。生而強壯，容姿端雅。成立則身長七尺許，<lb
-ed="T" n="0788c10"/>胸前黑子七點，若斗之綱魁焉。投中條山棲<lb
-ed="T" n="0788c11"/>巖<placeName key="PL000000005223">大通禪院</placeName>，<anchor xml:id="beg0788sgsz6"/>禮<anchor xml:id="end0788sgsz6"/><persName key="A010750">真寂禪師</persName>，為親教也。戒檢<lb
-ed="T" n="0788c12"/><anchor xml:id="beg0788003"/>嚴<anchor xml:id="end0788003"/>明，訥言敏行。<persName key="A010750">師</persName>亡之後，誓入雁門<placeName key="PL000000005250">五臺<lb
-ed="T" n="0788c13"/>山</placeName>，以精恪之故，躬覩<persName key="A002144">文殊</persName>聖容。後諸方無<lb
-ed="T" n="0788c14"/>定遊處。<anchor xml:id="beg0788004"/><choice resp="sgsz"><sic>未</sic><corr>末</corr></choice><anchor xml:id="end0788004"/>到<placeName key="PL000000019849">臨川</placeName>，見<placeName key="PL000000019010">崇壽</placeName><persName key="A000174">益禪師</persName>，頓明<lb
+ed="T" n="0788c06"/>坐亡，首搘<ptr type="glossary" target="#g125"/>地者現通，身立中者彰異。其惟<lb
+ed="T" n="0788c07"/>欲行步而化者，除<persName key="A012186">後僧會</persName>外<ptr target="#n820"/>，則<persName key="A010743">因<roleName>公</roleName></persName>有焉。</p><p xml:id="pT50p0788c0801"><lb
+ed="T" n="0788c08"/>次<placeName key="PL000000011683"><placeName>錢塘</placeName><placeName>慧日永明寺</placeName></placeName><persName key="A009233">釋道潛</persName>，俗姓<name>武</name>，<placeName key="PL000000005165">蒲津</placeName>人<lb
+ed="T" n="0788c09"/>也<ptr target="#n819"/>。生而強壯，容姿端雅。成立則身長七尺許，<lb
+ed="T" n="0788c10"/>胸前黑子七點，若斗之綱魁焉。投<placeName key="PL000000005223"><placeName>中條山</placeName><placeName>棲<lb
+ed="T" n="0788c11"/>巖</placeName><placeName>大通禪院</placeName></placeName>，<anchor xml:id="beg0788sgsz6"/>禮<anchor xml:id="end0788sgsz6"/><persName key="A010684">真寂<roleName>禪師</roleName></persName>，為親教<ptr type="glossary" target="#g128"/>也。戒檢<lb
+ed="T" n="0788c12"/><anchor xml:id="beg0788003"/>嚴<anchor xml:id="end0788003"/>明，訥言敏行。<ref type="person" target="#A010684">師</ref>亡之後，誓入<placeName key="PL000000005250"><placeName>雁門</placeName><placeName>五臺<lb
+ed="T" n="0788c13"/>山</placeName></placeName>，以精恪之故，躬覩<persName key="A002144">文殊</persName>聖容。後諸方無<lb
+ed="T" n="0788c14"/>定遊處。<anchor xml:id="beg0788004"/><choice resp="sgsz"><sic>未</sic><corr>末</corr></choice><anchor xml:id="end0788004"/>到<placeName key="PL000000019849">臨川</placeName>，見<placeName key="PL000000019010">崇壽</placeName><persName key="A000174">益<roleName>禪師</roleName></persName>，頓明<lb
 ed="T" n="0788c15"/>心決。次棲<placeName key="PL000000013661">衢州</placeName>古寺，覽閱藏經。嘗宴坐中，<lb
-ed="T" n="0788c16"/>見<persName key="A002144">文殊</persName>現形，不覺起而作<anchor xml:id="beg0788sgsz7"/>禮<anchor xml:id="end0788sgsz7"/>。及詣<placeName key="PL000000011519">杭</placeName>，<anchor xml:id="beg0788sgsz8"/>禮<anchor xml:id="end0788sgsz8"/><lb
+ed="T" n="0788c16"/>見<persName key="A002144">文殊</persName>現形，不覺起而作<anchor xml:id="beg0788sgsz7"/>禮<anchor xml:id="end0788sgsz7"/>。及詣<placeName key="PL000000011519">杭</placeName><ptr target="#n822"/>，<anchor xml:id="beg0788sgsz8"/>禮<anchor xml:id="end0788sgsz8"/><lb
 ed="T" n="0788c17"/><placeName key="PL000000012310">阿育王塔</placeName>，跪而頂戴，淚下如雨。問掌塔僧<lb
 ed="T" n="0788c18"/>曰：「舍利人不目擊，還實有否？」僧曰：「按傳記<lb
 ed="T" n="0788c19"/>云，藏在內角中，望若懸鐘焉。」<persName key="A009233">潛</persName>疑未已，遂<lb
 ed="T" n="0788c20"/>苦到跪<anchor xml:id="beg0788sgsz9"/>禮<anchor xml:id="end0788sgsz9"/>，更無間然。俄見舍利紅色在懸鐘<lb
-ed="T" n="0788c21"/>之外，蠢瞤而行。<persName key="A009233">潛</persName>悲喜交集。又<persName key="A010699">光文大師</persName>彙<lb
-ed="T" n="0788c22"/>征逈然肯重，自為檀越，請於山齋行三七<lb
-ed="T" n="0788c23"/>日《普賢懺》，忽見遍吉御象在塔寺三門亭<lb
-ed="T" n="0788c24"/>下。其象鼻直枕行懺所。<placeName key="PL000000008355">漢南國</placeName>王<persName key="A003552">錢<roleName>氏</roleName></persName>命入<lb
-ed="T" n="0788c25"/>王府受菩薩戒，造大伽藍，號<placeName key="PL000000011683">慧日永明</placeName>，請<lb
-ed="T" n="0788c26"/>以居之。假號曰<persName key="A009233">慈化定慧禪師</persName>，別給月俸<lb
-ed="T" n="0788c27"/>以施之，加優禮也。<date key="j20723662072366" when-iso="+0961-11-04">建隆二年辛酉九月十<lb
+ed="T" n="0788c21"/>之外，蠢瞤<ptr type="glossary" target="#g129"/>而行。<persName key="A009233">潛</persName>悲喜交集。又<persName key="A014740"><persName>光文大師</persName><persName>彙<lb
+ed="T" n="0788c22"/>征</persName></persName>逈然肯重，自為檀越，請於山齋行三七<lb
+ed="T" n="0788c23"/>日《普賢懺》，忽見<persName key="A003079">遍吉</persName>御象在塔寺三門亭<lb
+ed="T" n="0788c24"/>下，其象鼻直枕行懺所。<placeName key="PL000000008355">漢南國</placeName>王<persName key="A006774">錢<roleName>氏</roleName></persName>命入<lb
+ed="T" n="0788c25"/>王府受菩薩戒<ptr target="#n821"/>，造大伽藍，號<placeName key="PL000000011683">慧日永明</placeName>，請<lb
+ed="T" n="0788c26"/>以居之。假號曰<persName key="A009233">慈化定慧禪師</persName><ptr target="#n825"/>，別給月俸<lb
+ed="T" n="0788c27"/>以施之，加優禮也。<date key="j20723662072366" when-iso="+0961-11-04"><name>建隆</name>二年辛酉九月十<lb
 ed="T" n="0788c28"/>八日</date>示疾而終。入棺之際，有白光晝發，<anchor xml:id="beg0788sgsz10"/><choice resp="sgsz"><sic>字</sic><corr>孛</corr></choice><anchor xml:id="end0788sgsz10"/><lb
 ed="T" n="0788c29"/>孛瑩然，時眾皆覩。至<date from-iso="+0961-11-16" key="j20723782072407" to-iso="+0961-12-15">十月</date>內於<placeName key="PL000000011584">龍井山</placeName><anchor xml:id="beg0788sgsz11"/>茶<anchor xml:id="end0788sgsz11"/><pb ed="T" n="0789a" xml:id="T50.2061.0789a"/><lb
 ed="T" n="0789a01"/>毘，所收舍利夥多。有屠者自惟惡業，展襟<lb
-ed="T" n="0789a02"/>就火聚乞求，斯須獲七顆。屠家持於印氏<lb
-ed="T" n="0789a03"/>塔中。至<date from-iso="+0970-02-14" key="j20753902075744" to-iso="+0971-02-03">開寶庚午歲</date>，<placeName key="PL000000014411">天台</placeName><persName key="A008355">韶禪師</persName>建石塔，<lb
+ed="T" n="0789a02"/>就火聚乞求，斯須獲七顆。屠家持於<name>印</name>氏<lb
+ed="T" n="0789a03"/>塔中。至<date from-iso="+0970-02-14" key="j20753902075744" to-iso="+0971-02-03"><name>開寶</name>庚午歲</date>，<placeName key="PL000000014411">天台</placeName><persName key="A008355">韶<roleName>禪師</roleName></persName>建石塔，<lb
 ed="T" n="0789a04"/>緘其真骨，<date from-iso="+0973-02-11" key="j20764832076836" to-iso="+0974-01-30">癸酉歲</date>塔頂放白光焉。</p>
     <linkGrp>
-        <link targets="#0788b20 #0788b21"/>
+        <link targets="#0788b17 #0788b17"/>
         <ptr target="#A010743" type="person"/>
-        <ptr target="#A006601" type="person"/>
+        <ptr target="#PL000000057396" type="place"/>
     </linkGrp>
     <linkGrp>
-        <link targets="#0788b27 #0788b29"/>
+        <link targets="#0788b18 #0788b18"/>
+        <ptr target="#A010743" type="person"/>
+        <ptr target="#PL000000005471" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0788b18 #0788b19"/>
+        <ptr target="#A010743" type="person"/>
+        <ptr target="#PL000000015039" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0788b19 #0788b20"/>
+        <ptr target="#A010743" type="person"/>
+        <ptr target="#PL000000018775" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0788b20 #0788b21"/>
         <ptr target="#A010743" type="person"/>
         <ptr target="#A006601" type="person"/>
     </linkGrp>
@@ -64,19 +78,29 @@ ed="T" n="0789a04"/>緘其真骨，<date from-iso="+0973-02-11" key="j2076483207
         <ptr target="#PL000000027165" type="place"/>
     </linkGrp>
     <linkGrp>
-        <link targets="#0788b18 #0788b20"/>
+        <link targets="#0788b28 #0788b29"/>
         <ptr target="#A010743" type="person"/>
-        <ptr target="#PL000000018775" type="place"/>
+        <ptr target="#A006601" type="person"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0788b28 #0788b29"/>
         <ptr target="#A010743" type="person"/>
-        <ptr target="#PL000000026412" type="place"/>
+        <ptr target="#PL000000018961" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0788b29 #0788b29"/>
+        <ptr target="#A010743" type="person"/>
+        <ptr target="#PL000000057396" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0788c08 #0788c08"/>
+        <ptr target="#A009233" type="person"/>
+        <ptr target="#PL000000005165" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0788c10 #0788c11"/>
         <ptr target="#A009233" type="person"/>
-        <ptr target="#A010750" type="person"/>
+        <ptr target="#A010684" type="person"/>
         <ptr target="#PL000000005223" type="place"/>
     </linkGrp>
     <linkGrp>
@@ -103,16 +127,29 @@ ed="T" n="0789a04"/>緘其真骨，<date from-iso="+0973-02-11" key="j2076483207
     <linkGrp>
         <link targets="#0788c21 #0788c22"/>
         <ptr target="#A009233" type="person"/>
-        <ptr target="#A010699" type="person"/>
+        <ptr target="#A014740" type="person"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0788c24 #0788c25"/>
         <ptr target="#A009233" type="person"/>
-        <ptr target="#A003552" type="person"/>
+        <ptr target="#A006774" type="person"/>
+        <ptr target="#PL000000011519" type="place"/>
     </linkGrp>
     <linkGrp>
-        <link targets="#0788c24 #0788c27"/>
+        <link targets="#0788c25 #0788c26"/>
         <ptr target="#A009233" type="person"/>
         <ptr target="#PL000000011683" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0788c27 #0788c28"/>
+        <ptr target="#A009233" type="person"/>
+        <ptr target="#PL000000011683" type="place"/>
+        <ptr target="#j20723662072366" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0789a03 #0789a03"/>
+        <ptr target="#A008355" type="person"/>
+        <ptr target="#PL000000014411" type="place"/>
+        <ptr target="#j20753902075744" type="time"/>
     </linkGrp>
 </div>

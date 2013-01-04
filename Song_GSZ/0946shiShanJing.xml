@@ -1,13 +1,13 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" type="習禪" xml:id="gsz0787c13shiShanJing"><lb
-ed="T" n="0787c13"/><anchor n="T.50.2061.0787c13"/><head><date from-iso="+0936-12-05" key="j20632662067017" to-iso="+0947-03-14">晉</date><placeName key="PL000000056092">永興永安院</placeName><persName key="A010716">善靜</persName>傳（<persName key="A010725">靈照</persName>）</head><p><lb
-ed="T" n="0787c14"/><persName key="A010716">釋善靜</persName>，俗姓<name>王</name>氏，<placeName key="PL000000056456">長安金城</placeName>人也。父<persName key="A010717">朗</persName>，<date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date><placeName key="PL000000047250">威<lb
+ed="T" n="0787c13"/><anchor n="T.50.2061.0787c13"/><head><date from-iso="+0936-12-05" key="j20632662067017" to-iso="+0947-03-14">晉</date><placeName key="PL000000056092"><placeName>永興</placeName><placeName>永安院</placeName></placeName><persName key="A010716">善靜</persName>傳（<persName key="A010725">靈照</persName>）</head><p><lb
+ed="T" n="0787c14"/><persName key="A010716">釋善靜</persName>，俗姓<name>王</name>氏，<placeName key="PL000000056456"><placeName>長安</placeName><placeName>金城</placeName></placeName>人也。父<persName key="A010717">朗</persName>，<date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06"><name>唐</name></date><placeName key="PL000000047250">威<lb
 ed="T" n="0787c15"/>州</placeName>刺史。母<persName key="A019326">李<roleName>氏</roleName></persName><anchor xml:id="beg0787008"/>因<anchor xml:id="end0787008"/>夢聖容照爛金色，遂爾<lb
 ed="T" n="0787c16"/>娠焉。及生<anchor xml:id="beg0787sgsz14"/>岐<anchor xml:id="end0787sgsz14"/>嶷<ptr type="glossary" target="#g1447"/>。殆乎知學，博通群言，因<lb
 ed="T" n="0787c17"/>掌書奏于神策軍，中尉器重之。忽厭浮幻，潛<lb
-ed="T" n="0787c18"/>詣<placeName key="PL000000042505">終南豐德寺</placeName>，<anchor xml:id="beg0787sgsz16"/>禮<anchor xml:id="end0787sgsz16"/><persName key="A010719">廣度<roleName>禪師</roleName></persName>，<date key="j20439352044300" from-iso="+0884-01-01" to-iso="+0884-12-31">時年二十七<lb
+ed="T" n="0787c18"/>詣<placeName key="PL000000042505"><placeName>終南</placeName><placeName>豐德寺</placeName></placeName>，<anchor xml:id="beg0787sgsz16"/>禮<anchor xml:id="end0787sgsz16"/><persName key="A010719">廣度<roleName>禪師</roleName></persName>，<date key="j20439352044300" from-iso="+0884-01-01" to-iso="+0884-12-31">時年二十七<lb
 ed="T" n="0787c19"/>也</date>。洎乎削染受具，<date notBefore-iso="+0901-05-18" key="j20502812051391" notAfter-iso="+0904-06-01"><name>天復</name>中</date>南遊<placeName key="PL000000029554">樂普</placeName>，見<persName key="A009348">元<lb
-ed="T" n="0787c20"/>安</persName>禪裔，乃融心要。北還化徒于故里，結廬<lb
+ed="T" n="0787c20"/>安</persName>禪裔<ptr target="#n809"/>，乃融心要。北還化徒于故里，結廬<lb
 ed="T" n="0787c21"/>于終南<placeName key="PL000000042640">雲居山</placeName>，道俗歸之如市。又起遊<placeName key="PL000000036087">峨<lb
 ed="T" n="0787c22"/>嵋</placeName>，<anchor xml:id="beg0787sgsz17"/>禮<anchor xml:id="end0787sgsz17"/><persName key="A003079">普賢</persName>銀色世界。迴<placeName key="PL000000043854">興元</placeName>，連帥<ptr type="glossary" target="#g1521"/><persName key="A010722">王<roleName>公</roleName></persName><ptr target="#n1723"/><anchor xml:id="beg0787sgsz18"/>禮<anchor xml:id="end0787sgsz18"/>重<lb
 ed="T" n="0787c23"/>留之，後還故鄉，已黍離<ptr type="glossary" target="#g69"/>矣。留守<persName key="A010722">王<roleName>公</roleName></persName>營<placeName key="PL000000056092">永<lb
@@ -15,30 +15,38 @@ ed="T" n="0787c24"/>安禪院</placeName>以居之。以<date from-iso="+0946-11
 ed="T" n="0787c25"/>僧囑累，還方丈，東向，右脇而化，俗壽八十<lb
 ed="T" n="0787c26"/>九，僧臘六十。黑白之眾若喪嚴親。<date key="j20669812066981" when-iso="+0947-02-06">明年正<lb
 ed="T" n="0787c27"/>月八日</date>，<anchor xml:id="beg0787sgsz20"/>茶<anchor xml:id="end0787sgsz20"/>毘於城南，獲舍利數千粒。<date key="j20683102068310" when-iso="+0950-09-27"><name>漢</name><name>乾<lb
-ed="T" n="0787c28"/>祐</name>三年庚<anchor xml:id="beg0787sgsz21"/>戌<anchor xml:id="end0787sgsz21"/>八月八日</date>，遷塔于<placeName key="PL000000042094">長安義陽鄉</placeName>，<lb
+ed="T" n="0787c28"/>祐</name>三年庚<anchor xml:id="beg0787sgsz21"/>戌<anchor xml:id="end0787sgsz21"/>八月八日</date>，遷塔于<placeName key="PL000000042094"><placeName>長安</placeName><placeName>義陽鄉</placeName></placeName>，<lb
 ed="T" n="0787c29"/>石塔巋然。初，<persName key="A010716">靜</persName>率多先覺，往遊<placeName key="PL000000036690"><choice resp="sgsz"><sic>𤏡</sic><corr>僰</corr></choice>道</placeName>，避<persName key="A003875">昭<pb ed="T" n="0788a" xml:id="T50.2061.0788a"/><lb
 ed="T" n="0788a01"/>宗</persName>之蒙塵<ptr target="#n1724"/>。又生平洗沐，舍利隕落，皆收祕，不<lb
 ed="T" n="0788a02"/>許弟子示人。又嘗禪寂次<ptr type="glossary" target="#g1422"/>，窓外無何有白<lb
 ed="T" n="0788a03"/>鶴馴狎于庭，若有聽法之意。<persName key="A010716">靜</persName>令人驅斥<lb
-ed="T" n="0788a04"/>之。凡此殊徵，有而不有。<placeName key="PL000000042208">晉昌</placeName>軍府主<persName key="A010723">郭公</persName>歸<lb
+ed="T" n="0788a04"/>之。凡此殊徵，有而不有。<placeName key="PL000000042208">晉昌軍</placeName>府主<persName key="A010723">郭<roleName>公</roleName></persName>歸<lb
 ed="T" n="0788a05"/>信焉，營構禪院，命以居之。翰林學士<persName key="A010724">魚崇<lb
-ed="T" n="0788a06"/>諒</persName>為塔銘述德焉。次杭州<placeName key="PL000000011483">龍華寺</placeName><persName key="A010725">釋靈照</persName>，<lb
+ed="T" n="0788a06"/>諒</persName>為塔銘述德焉。次<placeName key="PL000000011483"><placeName>杭州</placeName><placeName>龍華寺</placeName></placeName><persName key="A010725">釋靈照</persName>，<lb
 ed="T" n="0788a07"/>本<placeName key="PL000000048554">高麗國</placeName>人也。重譯而來，學其祖法，入乎<lb
 ed="T" n="0788a08"/><placeName key="PL000000017104">閩越</placeName>，得心於<persName key="A003677">雪峯</persName>。苦志參陪，以節儉勤于<lb
 ed="T" n="0788a09"/>眾務，號<persName key="A010725">照布納</persName>焉。千眾畏服，而言語似涉<lb
 ed="T" n="0788a10"/>島夷。性介特，以恬淡自持。初住<placeName key="PL000000017785">齊雲山</placeName>，次<lb
-ed="T" n="0788a11"/>居越州<placeName key="PL000000013230">鑑清院</placeName>。嘗秖對副使<persName key="A019325">皮光業</persName>，語不<lb
-ed="T" n="0788a12"/>相投，被舉擯徙龍興<!--找不到此地-->焉。及<placeName key="PL000000013012">湖州</placeName>太守<persName key="A010727">錢公</persName><lb
-ed="T" n="0788a13"/>造報慈院<!--找不到此地-->請住，禪徒翕然<ptr type="glossary" target="#g768"/>。<placeName key="PL000000009928">吳</placeName><placeName key="PL000000013240">會</placeName>間僧捨三<lb
+ed="T" n="0788a11"/>居<placeName key="PL000000013230"><placeName>越州</placeName><placeName>鑑清院</placeName></placeName>。嘗秖對副使<persName key="A019325">皮光業</persName>，語不<lb
+ed="T" n="0788a12"/>相投，被舉擯徙<placeName key="PL000000013365">龍興</placeName>焉。及<placeName key="PL000000013012">湖州</placeName>太守<persName key="A010727">錢<roleName>公</roleName></persName><lb
+ed="T" n="0788a13"/>造<placeName key="PL000000057394">報慈院</placeName>請住<ptr target="#n812"/>，禪徒翕然<ptr type="glossary" target="#g768"/>。<placeName key="PL000000009928">吳</placeName><placeName key="PL000000013240">會</placeName>間僧捨三<lb
 ed="T" n="0788a14"/>衣披五納者，不可勝計。<persName key="A006772">忠獻王錢<roleName>氏</roleName></persName>造<placeName key="PL000000011483">龍<lb
-ed="T" n="0788a15"/>華寺</placeName>，迎取<placeName key="PL000000013517">金華</placeName>梁<persName key="A006833"><anchor xml:id="beg0788sgsz1"/>傅<anchor xml:id="end0788sgsz1"/>翕大士</persName>靈骨道具，寘于<lb
-ed="T" n="0788a16"/>此寺樹塔，命<persName key="A010725">照</persName>住持焉。終于此<placeName key="PL000000011483">寺</placeName>，遷塔大<lb
-ed="T" n="0788a17"/>慈山<!--找不到此地-->之峯。</p>
+ed="T" n="0788a15"/>華寺</placeName>，迎取<placeName key="PL000000013517">金華</placeName><date from-iso="+0502-05-02" key="j19045331924818" to-iso="+0557-11-14"><name>梁</name></date><persName key="A006833"><anchor xml:id="beg0788sgsz1"/>傅<anchor xml:id="end0788sgsz1"/>翕大士</persName>靈骨道具，寘于<lb
+ed="T" n="0788a16"/>此寺樹塔，命<persName key="A010725">照</persName>住持焉。終于此<ref type="place" target="#PL000000011483">寺</ref><ptr target="#n404"/>，遷塔<placeName key="PL000000011429">大<lb
+ed="T" n="0788a17"/>慈山</placeName>之峯。</p>
     <linkGrp>
         <link targets="#0787c14 #0787c15"/>
         <ptr target="#A010716" type="person"/>
         <ptr target="#A010717" type="person"/>
         <ptr target="#A019326" type="person"/>
+        <ptr target="#PL000000056456" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0787c14 #0787c15"/>
+        <ptr target="#A010716" type="person"/>
+        <ptr target="#A010717" type="person"/>
+        <ptr target="#A019326" type="person"/>
+        <ptr target="#PL000000047250" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0787c18 #0787c19"/>
@@ -70,9 +78,27 @@ ed="T" n="0788a17"/>慈山<!--找不到此地-->之峯。</p>
         <ptr target="#PL000000043854" type="place"/>
     </linkGrp>
     <linkGrp>
+        <link targets="#0787c23 #0787c24"/>
+        <ptr target="#A010716" type="person"/>
+        <ptr target="#A010722" type="person"/>
+        <ptr target="#PL000000056092" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0787c24 #0787c24"/>
+        <ptr target="#A010716" type="person"/>
+        <ptr target="#PL000000056092" type="place"/>
+        <ptr target="#j20668852066973" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0787c29 #0787c29"/>
+        <ptr target="#A010716" type="person"/>
+        <ptr target="#PL000000036690" type="place"/>
+    </linkGrp>
+    <linkGrp>
         <link targets="#0788a04 #0788a05"/>
         <ptr target="#A010716" type="person"/>
         <ptr target="#A010723" type="person"/>
+        <ptr target="#PL000000042208" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0788a06 #0788a07"/>
@@ -80,7 +106,7 @@ ed="T" n="0788a17"/>慈山<!--找不到此地-->之峯。</p>
         <ptr target="#PL000000048554" type="place"/>
     </linkGrp>
     <linkGrp>
-        <link targets="#0788a06 #0788a09"/>
+        <link targets="#0788a07 #0788a09"/>
         <ptr target="#A010725" type="person"/>
         <ptr target="#A003677" type="person"/>
         <ptr target="#PL000000017104" type="place"/>
@@ -101,6 +127,11 @@ ed="T" n="0788a17"/>慈山<!--找不到此地-->之峯。</p>
         <ptr target="#A019325" type="person"/>
     </linkGrp>
     <linkGrp>
+        <link targets="#0788a12 #0788a12"/>
+        <ptr target="#A010725" type="person"/>
+        <ptr target="#PL000000013365" type="place"/>
+    </linkGrp>
+    <linkGrp>
         <link targets="#0788a12 #0788a13"/>
         <ptr target="#A010725" type="person"/>
         <ptr target="#A010727" type="person"/>
@@ -109,6 +140,11 @@ ed="T" n="0788a17"/>慈山<!--找不到此地-->之峯。</p>
         <link targets="#0788a12 #0788a13"/>
         <ptr target="#A010727" type="person"/>
         <ptr target="#PL000000013012" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0788a12 #0788a13"/>
+        <ptr target="#A010725" type="person"/>
+        <ptr target="#PL000000057394" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0788a14 #0788a16"/>
