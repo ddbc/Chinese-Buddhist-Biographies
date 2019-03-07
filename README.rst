@@ -2,6 +2,10 @@
 DDBC Chinese Buddhist Biographies
 =================================
 
+Please be advised the ddbc/Chinese-Buddhist-Biographies has update to `DILA-edu/biographies`__.
+
+.. __: https://github.com/DILA-edu/biographies
+
 .. contents::
 
 
