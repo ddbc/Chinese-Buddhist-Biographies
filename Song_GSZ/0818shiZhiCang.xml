@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" type="義解" xml:id="gsz0740c02shiZhiCang"><lb
-ed="T" n="0740c02"/><anchor n="T.50.2061.0740c02"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date><placeName key="PL000000013360">越州暨陽杭烏山</placeName><persName key="A009653">智藏</persName>傳</head><p><lb
-ed="T" n="0740c03"/><persName key="A009653">釋智藏</persName>，姓皮氏，<placeName key="PL000000055425">西印度</placeName>種族，祖父從<placeName key="PL000000000083">華</placeName><ptr type="glossary" target="#g899"/>，世<lb
+ed="T" n="0740c02"/><anchor n="T.50.2061.0740c02"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date><placeName key="PL000000013360"><placeName>越州</placeName><placeName>暨陽</placeName><placeName>杭烏山</placeName></placeName><persName key="A009653">智藏</persName>傳</head><p><lb
+ed="T" n="0740c03"/><persName key="A009653">釋智藏</persName>，姓<name>皮</name>氏，<placeName key="PL000000055425">西印度</placeName>種族，祖父從<placeName key="PL000000000083">華</placeName><ptr rend="display:none;" type="glossary" target="#g899"/>，世<lb
 ed="T" n="0740c04"/>居官宦，後僑寓<placeName key="PL000000019383">廬陵</placeName>。<persName key="A009653">藏</persName>少入精舍，覩像設<lb
-ed="T" n="0740c05"/>之繁，乃陋俗求真，而於三學<ptr type="glossary" target="#g182"/>各所留心，<lb
+ed="T" n="0740c05"/>之繁，乃陋俗求真，而於三學<ptr rend="display:none;" type="glossary" target="#g182"/>各所留心，<lb
 ed="T" n="0740c06"/>唯《律藏》也最為精敏。<date from-iso="+0768-01-28" key="j20015932001976" to-iso="+0769-02-14"><name>大曆</name>三年</date>，遊<placeName key="PL000000018628">豫章</placeName>，因<lb
-ed="T" n="0740c07"/>隸名<placeName key="PL000000055626">天宮寺</placeName>，眾懇命臨壇秉度，時仰<anchor xml:id="beg0740sgsz3"/>炮<anchor xml:id="end0740sgsz3"/>烋<ptr type="glossary" target="#g539"/>，<lb
-ed="T" n="0740c08"/>號為「<persName key="A009653">律虎</persName>」。每登法座，提唱毘尼<ptr type="glossary" target="#g900"/>，堂盈席滿，<lb
-ed="T" n="0740c09"/>聽受無厭。<anchor xml:id="beg0740001"/><choice resp="sgsz"><sic>辯</sic><corr>辨</corr></choice><anchor xml:id="end0740001"/>名理，析微言，連環可解也。<lb
-ed="T" n="0740c10"/><date notBefore-iso="+0785-02-18" key="j20078242008947" notAfter-iso="+0788-03-17"><name>貞元</name>中</date><ptr type="glossary" target="#g901"/>，遇<persName key="A003623">大寂禪師</persName>，篤明心要。及遊<placeName key="PL000000013239">會稽</placeName>，<lb
+ed="T" n="0740c07"/>隸名<placeName key="PL000000055626">天宮寺</placeName>，眾懇命臨壇秉度，時仰<anchor xml:id="beg0740sgsz6"/>炮<anchor xml:id="end0740sgsz6"/>烋<ptr type="glossary" target="#g539"/>，<lb
+ed="T" n="0740c08"/>號為「律虎」。每登法座，提唱毘尼<ptr type="glossary" target="#g900"/>，堂盈席滿，<lb
+ed="T" n="0740c09"/>聽受無厭。<anchor xml:id="beg0740001"/><choice resp="sgsz"><sic>辯</sic><corr>辨</corr></choice><anchor xml:id="end0740001"/>名理，析微言，連環可解也<ptr target="#n1214"/>。<lb
+ed="T" n="0740c10"/><date notBefore-iso="+0785-02-18" key="j20078242008947" notAfter-iso="+0788-03-17"><name>貞元</name>中</date><ptr type="glossary" target="#g901"/>，遇<persName key="A003623">大寂<roleName>禪師</roleName></persName>，篤明心要。及遊<placeName key="PL000000013239">會稽</placeName>，<lb
 ed="T" n="0740c11"/>於<placeName key="PL000000013360">杭烏山</placeName>頂築小室安禪。乃著《華嚴經妙<lb
 ed="T" n="0740c12"/>義》。宣吐<anchor xml:id="beg0740002"/>亹亹<anchor xml:id="end0740002"/><ptr type="glossary" target="#g902"/>，學者歸焉。至<date from-iso="+0819-03-04" key="j20202562020285" to-iso="+0819-04-02"><name>元和</name>十四年二<lb
 ed="T" n="0740c13"/>月</date>，無疾而終，報齡七十九。焚收舍利圓淨<lb

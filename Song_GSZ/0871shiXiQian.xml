@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" type="習禪" xml:id="gsz0763c21shiXiQian"><lb
-ed="T" n="0763c21"/><anchor n="T.50.2061.0763c21"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date><ref type="place" target="#PL000000028939">南嶽石頭山</ref><persName key="A010291">希遷</persName>傳</head><p><lb
-ed="T" n="0763c22"/><persName key="A010291">釋希遷</persName>，姓陳氏，<placeName key="PL000000031099">端州高<anchor xml:id="beg0763004"/><choice resp="sgsz"><sic>安</sic><corr>要</corr></choice><anchor xml:id="end0763004"/></placeName><ptr target="#n1413"/>人也。母方懷孕，<lb
+ed="T" n="0763c21"/><anchor n="T.50.2061.0763c21"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date><placeName key="PL000000028939"><placeName>南嶽</placeName><placeName>石頭山</placeName></placeName><persName key="A010291">希遷</persName>傳<ptr rend="display:none;" target="#n2373"/></head><p><lb
+ed="T" n="0763c22"/><persName key="A010291">釋希遷</persName>，姓<name>陳</name>氏，<placeName key="PL000000031099"><placeName>端州</placeName><placeName>高<anchor xml:id="beg0763004"/><choice resp="sgsz"><sic>安</sic><corr>要</corr></choice><anchor xml:id="end0763004"/></placeName></placeName><ptr target="#n1413"/>人也。母方懷孕，<lb
 ed="T" n="0763c23"/>不喜葷血。及生岐嶷<ptr type="glossary" target="#g1447"/>，雖在孩提，不煩保<lb
-ed="T" n="0763c24"/>母。既冠<ptr target="#n1414"/>，然諾<ptr type="glossary" target="#g1480"/>自許，未嘗以氣色忤人。其鄉<lb
+ed="T" n="0763c24"/>母。既冠<ptr target="#n1414"/>，然諾<ptr rend="display:none;" type="glossary" target="#g1480"/>自許，未嘗以氣色忤人。其鄉<lb
 ed="T" n="0763c25"/>洞獠<ptr type="glossary" target="#g1481"/>，民畏鬼神，多淫祀，率以牛酒，祚作聖<lb
 ed="T" n="0763c26"/>望。<persName key="A010291">遷</persName>輒往毀叢祠<ptr type="glossary" target="#g1482"/>，奪牛而歸。歲盈數<anchor xml:id="beg0763005"/><choice resp="sgsz"><sic>千</sic><corr>十</corr></choice><anchor xml:id="end0763005"/><ptr target="#n1409"/>，<lb
 ed="T" n="0763c27"/>鄉老不能禁其理焉。聞<persName key="A001719">大鑒<roleName>禪師</roleName></persName>南來，學<lb
@@ -12,25 +12,25 @@ ed="T" n="0763c29"/><ref type="person" target="#A010291">之</ref>曰：「苟�
 ed="T" n="0764a01"/>既而靈機一發，廓若初霽。自是上下<placeName key="PL000000031276">羅浮</placeName>，<lb
 ed="T" n="0764a02"/>往來<placeName key="PLG00000000087">三峽</placeName>間。<date from-iso="+0728-02-19" key="j19870051987358" to-iso="+0729-02-06"><name>開元</name>十六年</date>，<placeName key="PL000000031276">羅浮</placeName>受具戒，<ref type="date" target="#j19870051987358">是年</ref><lb
 ed="T" n="0764a03"/>歸就<ref target="#PL000000019385" type="place">山</ref><ptr target="#n1415"/>，夢與<persName key="A001719">大鑒</persName>同乘一龜，泳於深池。覺<lb
-ed="T" n="0764a04"/>而占曰：「龜是靈智也，池是性海也。<ref type="person" target="#A010291">吾</ref>與<ref type="person" target="#A001719">師</ref>乘<lb
-ed="T" n="0764a05"/>靈智遊性海久矣，又何夢邪！」後聞<placeName key="PL000000019385">廬陵清<lb
-ed="T" n="0764a06"/><choice resp="sgsz"><sic>涼</sic><corr>原</corr></choice>山</placeName><ptr target="#n1155"/><persName key="A003666">思<roleName>禪師</roleName></persName>為<persName key="A001719">曹溪</persName>補處<ptr type="glossary" target="#g1484"/>，又攝衣從<ref type="person" target="#A003666">之</ref>。當<lb
+ed="T" n="0764a04"/>而占曰：「龜是靈智也，池是性海<ptr type="glossary" target="#g1156"/>也。<ref type="person" target="#A010291">吾</ref>與<ref type="person" target="#A001719">師</ref>乘<lb
+ed="T" n="0764a05"/>靈智遊性海久矣，又何夢邪！」後聞<placeName key="PL000000019385"><placeName>廬陵</placeName><placeName>清<lb
+ed="T" n="0764a06"/><choice resp="sgsz"><sic>涼</sic><corr>原</corr></choice>山</placeName></placeName><ptr target="#n1155"/><persName key="A003666">思<roleName>禪師</roleName></persName>為<persName key="A001719">曹溪</persName>補處<ptr type="glossary" target="#g1484"/>，又攝衣從<ref type="person" target="#A003666">之</ref>。當<lb
 ed="T" n="0764a07"/>時<persName key="A003666">思<roleName>公</roleName></persName>之門，學者麏至<ptr type="glossary" target="#g1310"/>。及<persName key="A010291">遷</persName>之來，乃曰：「角雖<lb
-ed="T" n="0764a08"/>多，一麟足矣。」<date notBefore-iso="+0742-02-14" key="j19921141993438" notAfter-iso="+0745-09-30"><name>天寶</name>初</date>，始造<placeName key="PL000000028939">衡山南寺</placeName><ptr target="#n1410"/>。<ref type="place" target="#PL000000028939">寺</ref>之東<lb
+ed="T" n="0764a08"/>多，一麟足矣。」<date notBefore-iso="+0742-02-14" key="j19921141993438" notAfter-iso="+0745-09-30"><name>天寶</name>初</date>，始造<placeName key="PL000000028939"><placeName>衡山</placeName><placeName>南寺</placeName></placeName><ptr target="#n1410"/>。<ref type="place" target="#PL000000028939">寺</ref>之東<lb
 ed="T" n="0764a09"/>有石狀如臺，乃結庵其上，杼載絕岳<ptr type="glossary" target="#g1485"/>。眾仰<lb
 ed="T" n="0764a10"/>之，號曰<persName key="A010291">石頭和尚</persName>焉。初，<placeName key="PL000000028928">嶽</placeName>中有<persName key="A010293">固</persName>、<persName key="A010199">瓚</persName>、<persName key="A004015">讓</persName>三<lb
 ed="T" n="0764a11"/>禪師，皆<persName key="A001719">曹溪</persName>門下，僉謂其徒曰：「彼<persName key="A010291">石頭</persName>真<lb
 ed="T" n="0764a12"/>師子吼，必能使汝眼清涼。」由是門人歸慕<lb
 ed="T" n="0764a13"/><anchor xml:id="beg0764sgsz2"/>焉<anchor xml:id="end0764sgsz2"/>。或問解脫，曰：「誰能縛汝？」問淨土，曰：「誰能<lb
-ed="T" n="0764a14"/>垢汝？」其答對簡速，皆此類也。<date from-iso="+0764-02-11" key="j20001462000499" to-iso="+0765-01-29">廣德二年</date>，門人<lb
+ed="T" n="0764a14"/>垢汝？」其答對簡速，皆此類也。<date from-iso="+0764-02-11" key="j20001462000499" to-iso="+0765-01-29"><name>廣德</name>二年</date>，門人<lb
 ed="T" n="0764a15"/>請下于<placeName key="PL000000028665">梁端</placeName><ptr target="#n1411"/>。自<placeName key="PL000000018627">江西</placeName>主<persName key="A003623">大寂</persName>，<placeName key="PL000000028665">湖南</placeName>主<persName key="A010291">石頭</persName>，<lb
 ed="T" n="0764a16"/>往來憧憧<ptr type="glossary" target="#g1486"/>，不見<ref type="person" target="#A003623 #A010291">二大士</ref>為無知矣。<date key="j20100032010003" when-iso="+0791-02-06"><name>貞元</name>六<lb
 ed="T" n="0764a17"/>年庚午歲十二月二十五日</date><ptr target="#n1412"/>順化，春秋九十<lb
 ed="T" n="0764a18"/>一，僧臘六十三。門人<persName key="A010296">慧朗</persName>、<persName key="A010297">振朗</persName>、<persName key="A010298">波利</persName>、<persName key="A010299">道悟</persName>、<persName key="A010301">道<lb
-ed="T" n="0764a19"/>銑</persName>、<persName key="A010302">智舟</persName>相與<ptr type="glossary" target="#g1487"/>建塔于東嶺。塔成三十載，國子<lb
+ed="T" n="0764a19"/>銑</persName>、<persName key="A010302">智舟</persName>相與<ptr rend="display:none;" type="glossary" target="#g1487"/>建塔于東嶺。塔成三十載，國子<lb
 ed="T" n="0764a20"/>博士<persName key="A010303">劉軻</persName>──素明玄理，欽尚祖風──與<persName key="A010301">道銑</persName>相<lb
 ed="T" n="0764a21"/>遇，盛述<ref type="person" target="#A010291">先師</ref>之道。<persName key="A010303">軻</persName>追仰前烈，為碑紀德，<lb
-ed="T" n="0764a22"/><date notBefore-iso="+0821-02-13" key="j20209682022078" notAfter-iso="+0824-02-28"><name>長慶</name>中</date>也。勅諡<persName key="A010291">無際大師</persName>，塔曰<placeName key="PL000000056419">見相</placeName>焉。</p>
+ed="T" n="0764a22"/><date notBefore-iso="+0821-02-13" key="j20209682022078" notAfter-iso="+0824-02-28"><name>長慶</name>中</date>也。勅謚<persName key="A010291">無際大師</persName>，塔曰<placeName key="PL000000056419">見相</placeName>焉。</p>
     <linkGrp>
         <link targets="#0763c22 #0763c22"/>
         <ptr target="#A010291" type="person"/>

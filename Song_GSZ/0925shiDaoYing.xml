@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" type="習禪" xml:id="gsz0781b09shiDaoYing"><lb
-ed="T" n="0781b09"/><anchor n="T.50.2061.0781b09"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date><placeName key="PL000000018911">洪州雲居山</placeName><persName key="A010588">道膺</persName>傳</head><p><lb
-ed="T" n="0781b10"/><persName key="A010588">釋道膺</persName>，姓<name>王</name>氏，<placeName key="PL000000001250">薊門玉田</placeName>人也。生而特異，神<lb
+ed="T" n="0781b09"/><anchor n="T.50.2061.0781b09"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date><placeName key="PL000000018911"><placeName>洪州</placeName><placeName>雲居山</placeName></placeName><persName key="A010588">道膺</persName>傳</head><p><lb
+ed="T" n="0781b10"/><persName key="A010588">釋道膺</persName>，姓<name>王</name>氏，<placeName key="PL000000001250"><placeName>薊門</placeName><placeName>玉田</placeName></placeName>人也。生而特異，神<lb
 ed="T" n="0781b11"/>彩朗然。處于<anchor xml:id="beg0781sgsz5"/><choice resp="sgsz"><sic>重</sic><corr>童</corr></choice><anchor xml:id="end0781sgsz5"/>丱，崆峒稟氣。宿心拔俗，爭<lb
 ed="T" n="0781b12"/>離火宅<ptr type="glossary" target="#g1598"/>之門；拭目尋師，遂攝鍛金之子<ptr target="#n1630"/>。師<lb
 ed="T" n="0781b13"/>授經法，誦徹復求。年偶蹉跎二十五，方於<placeName key="PL000000000755">范<lb
@@ -12,7 +12,7 @@ ed="T" n="0781b17"/>覩二使者冠服頗異，勉<persName key="A010588">膺</p
 ed="T" n="0781b18"/>知識邪？」未幾，有僧自<placeName key="PL000000018628">豫章</placeName>至，盛稱<persName key="A009489">洞上<roleName>禪<lb
 ed="T" n="0781b19"/>師</roleName></persName>言要。<persName key="A010588">膺</persName>感動神機，遂專造焉。如是<persName key="A009489">洞上</persName><lb
 ed="T" n="0781b20"/>垂接，復能領會。曾問曰：「<ref type="person" target="#A009489">我</ref>聞<persName key="A001711">思<roleName>大禪師</roleName></persName>向<placeName key="PL000000048414">倭<lb
-ed="T" n="0781b21"/>國</placeName>為王，虛耶？實耶？」<ptr target="#n1631"/>對曰：「。若是<persName key="A001711">思<roleName>師</roleName></persName>，佛亦不<lb
+ed="T" n="0781b21"/>國</placeName>為王，虛耶？實耶？」<ptr target="#n1631"/>對曰：「若是<persName key="A001711">思<roleName>師</roleName></persName>，佛亦不<lb
 ed="T" n="0781b22"/>作，況國王乎？」自爾<persName key="A009489">洞上</persName>印許<ptr target="#n1632"/>。初住<placeName key="PL000000019684">三峯</placeName>，後<lb
 ed="T" n="0781b23"/>就<placeName key="PL000000018911">雲居</placeName>提唱。時<date from-iso="+0882-07-23" key="j20434082052090" to-iso="+0906-05-01"><name>唐</name>之季</date>，<persName key="A019290">鍾<roleName>氏</roleName></persName>據有<placeName key="PL000000018628">洪井</placeName><ptr target="#n1633"/>，傾<lb
 ed="T" n="0781b24"/>委信誠。每一延請入<ref type="place" target="#PL000000018846">州</ref>，則預潔<placeName key="PL000000057092">甘子堂</placeName>以<lb
@@ -22,7 +22,7 @@ ed="T" n="0781b27"/>千餘眾。牛頭香樹圍遶者皆是栴檀<ptr type="glos
 ed="T" n="0781b28"/>王軒翔者不齊<ptr type="glossary" target="#g1600"/>尺鷃；四方饋供，千里風從。<lb
 ed="T" n="0781b29"/>如<placeName key="PL000000027764">荊南</placeName>帥<persName key="A012935">成汭</persName>遣齎檀施<ptr type="glossary" target="#g237"/>，動盈鉅萬。以<date from-iso="+0901-08-22" key="j20503772050465" to-iso="+0901-11-18"><name>天<pb ed="T" n="0781c" xml:id="T50.2061.0781c"/><lb
 ed="T" n="0781c01"/>復</name>元年辛酉秋</date>示疾，至<date key="j20505572050557" when-iso="+0902-02-18">明年正月三日</date>而<lb
-ed="T" n="0781c02"/>化焉。<placeName key="PL000000018628">豫章</placeName><persName key="A019290">南平王鍾<roleName>氏</roleName></persName>供其喪葬。時諸道禪<lb
+ed="T" n="0781c02"/>化焉。<placeName key="PL000000018628">豫章</placeName><persName key="A019290"><persName>南平王</persName><persName>鍾<roleName>氏</roleName></persName></persName>供其喪葬。時諸道禪<lb
 ed="T" n="0781c03"/>子各依鄉土所尚者，隨靈龕到處，列花樹<lb
 ed="T" n="0781c04"/>帳幔，粉麪之饌，謂之卓祭。一期<ptr type="glossary" target="#g1179"/>凶禮之盛，勿<lb
 ed="T" n="0781c05"/>過于時也，猗歟！<persName key="A010588">膺</persName>出世度人，滿足三十年<ptr target="#n1634"/>，<lb

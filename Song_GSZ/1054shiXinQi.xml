@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" type="感通" xml:id="gsz0833b03shiXinQi"><lb
-ed="T" n="0833b03"/><anchor n="T.50.2061.0833b03"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date>陝府<persName key="A012423">辛七師</persName>傳</head><p><lb
-ed="T" n="0833b04"/><persName key="A012423">釋辛七師</persName>者，不顯出家之號，時姓氏行次呼<lb
-ed="T" n="0833b05"/>之，既熟人耳，更無別召體焉，實<placeName key="PL000000025033">陝</placeName>人也。始<lb
+ed="T" n="0833b03"/><anchor n="T.50.2061.0833b03"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date><placeName key="PL000000025033">陝府</placeName><persName key="A012423">辛七師</persName><ptr target="#n2518"/>傳</head><p><lb
+ed="T" n="0833b04"/><persName key="A012423">釋辛七師</persName>者，不顯出家之號，時姓氏行次<ptr target="#n2517"/>呼<lb
+ed="T" n="0833b05"/>之，既熟人耳，更無別召體<ptr type="glossary" target="#g1601"/>焉，實<placeName key="PL000000025033">陝</placeName>人也。始<lb
 ed="T" n="0833b06"/>為兒時，甚聞謹肅，不甞狎弄，少即老成。其<lb
-ed="T" n="0833b07"/>父為<placeName key="PL000000025033">陝</placeName>郡守，觀<persName key="A012423">七師</persName>之作為，謂其母曰：「<persName key="A012423">是<lb
-ed="T" n="0833b08"/>子</persName>非常兒孺，善宜護養之。」年甫十歲，逈知<lb
-ed="T" n="0833b09"/>佛法可以宗尚，凡經卷冥然分其此華此<name>梵</name>，<lb
-ed="T" n="0833b10"/>都不緣師教。及鐘<anchor xml:id="beg0833002"/>荼<anchor xml:id="end0833002"/>蓼，陟屺之痛愈深，<lb
-ed="T" n="0833b11"/>雖親屬勸勉，益加柴毀。先是郡城南有瓦<lb
+ed="T" n="0833b07"/>父為<placeName key="PL000000025033">陝郡</placeName>守，觀<persName key="A012423">七師</persName>之作為，謂其母曰：「<ref type="person" target="#A012423">是<lb
+ed="T" n="0833b08"/>子</ref>非常兒孺，善宜護養之。」年甫十歲，逈知<lb
+ed="T" n="0833b09"/>佛法可以宗尚，凡經卷冥然分其此<name>華</name>此<name>梵</name>，<lb
+ed="T" n="0833b10"/>都不緣師教。及鐘<anchor xml:id="beg0833002"/>荼<anchor xml:id="end0833002"/>蓼<ptr type="glossary" target="#g905"/>，陟屺<ptr type="glossary" target="#g1711"/>之痛愈深，<lb
+ed="T" n="0833b11"/>雖親屬勸勉<ptr target="#n2519"/>，益加柴毀<ptr type="glossary" target="#g1710"/>。先是<ref type="place" target="#PL000000025033">郡城</ref>南有瓦<lb
 ed="T" n="0833b12"/>窰七所，一日哀號之際，發狂遁去，其家僮輩<lb
 ed="T" n="0833b13"/>躡迹尋之。見其入窰竈<ptr target="#n557"/>中端坐，身有奇<lb
 ed="T" n="0833b14"/>光，燦若金色。家僮驚，就問無言，懼而<anchor xml:id="beg0833003"/>徒<anchor xml:id="end0833003"/>步。<lb

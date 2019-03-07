@@ -1,24 +1,24 @@
 <?xml version='1.0' encoding='utf-8'?>
-<div xmlns="http://www.tei-c.org/ns/1.0" type="感通" xml:id="gsz0826b23shiAn">
-    <anchor n="T.50.2061.0826b23"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date><persName key="A012183">岸禪師</persName>傳</head><p><lb
-ed="T" n="0826b24"/><persName key="A012183">釋岸禪師</persName>，<placeName key="PL000000003793">并州</placeName>人也，約淨土為真歸之地。<lb
-ed="T" n="0826b25"/>行方等懺，服勤<ptr type="glossary" target="#g837"/>無缺。微有疾，作禪觀不虧，<lb
+<div xmlns="http://www.tei-c.org/ns/1.0" type="感通" xml:id="gsz0826b23shiAn"><lb
+ed="T" n="0826b23"/><anchor n="T.50.2061.0826b23"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date><persName key="A012183">岸禪師</persName>傳<ptr target="#n2418"/></head><p><lb
+ed="T" n="0826b24"/><persName key="A012183">釋岸禪師</persName>，<placeName key="PL000000003794">并州</placeName>人也，約淨土為真歸之地。<lb
+ed="T" n="0826b25"/>行方等懺<ptr type="glossary" target="#g1669"/>，服勤<ptr rend="display:none;" type="glossary" target="#g837"/>無缺。微有疾，作禪觀<ptr target="#n2419"/>不虧，<lb
 ed="T" n="0826b26"/>見<persName key="A002803">觀音</persName>、<persName key="A006106">勢至</persName>二菩薩現於空中，持久不滅。<lb
 ed="T" n="0826b27"/><persName key="A012183">岸</persName>召境內畫人，無能畫者，忽有二人云從<lb
 ed="T" n="0826b28"/><placeName key="PL000000042189">西京</placeName>來，欲往<placeName key="PL000000005250">五臺</placeName>，自樂輸工。畫菩薩形相<lb
-ed="T" n="0826b29"/>繢事畢，贈鞵二緉，忽隱無蹤。<persName key="A012183">岸</persName>知西方緣<pb ed="T" n="0826c" xml:id="T50.2061.0826c"/><lb
-ed="T" n="0826c01"/>熟，告諸弟子云：「<persName key="A012183">吾</persName>今往生，誰可偕行？」有小<lb
-ed="T" n="0826c02"/>童子稽顙曰：「願隨<persName key="A012183">師</persName>去。」乃令往辭父母，父<lb
+ed="T" n="0826b29"/>繢事畢，贈鞵二緉<ptr type="glossary" target="#g219"/>，忽隱無蹤。<persName key="A012183">岸</persName>知西方緣<pb ed="T" n="0826c" xml:id="T50.2061.0826c"/><lb
+ed="T" n="0826c01"/>熟，告諸弟子云：「<ref type="person" target="#A012183">吾</ref>今往生，誰可偕行？」有小<lb
+ed="T" n="0826c02"/>童子稽顙<ptr type="glossary" target="#g903"/>曰：「願隨<ref type="person" target="#A012183">師</ref>去。」乃令往辭父母，父<lb
 ed="T" n="0826c03"/>母謂為戲言，而令沐浴，著淨衣，入道場念<lb
 ed="T" n="0826c04"/>佛，須臾而終。<persName key="A012183">岸</persName>責曰：「何得前行？」時<persName key="A012183">岸</persName>索筆<lb
 ed="T" n="0826c05"/>讚二菩薩曰：「<persName key="A002803">觀音</persName>助遠接，<persName key="A006106">勢至</persName>輔遙迎，寶<lb
 ed="T" n="0826c06"/>瓶冠上顯，化佛頂前明。俱遊十方剎，持華<lb
-ed="T" n="0826c07"/>候九生。願以慈悲手，提獎共西行。」述讚已，<lb
-ed="T" n="0826c08"/>別諸弟子入道場，命門徒助<persName key="A012183">吾</persName>念佛，端坐<lb
+ed="T" n="0826c07"/>候九生<ptr type="glossary" target="#g1670"/>。願以慈悲手，提獎共西行。」述讚已，<lb
+ed="T" n="0826c08"/>別諸弟子入道場，命門徒助<ref type="person" target="#A012183">吾</ref>念佛，端坐<lb
 ed="T" n="0826c09"/>而終，春秋八十。時<date key="j19713001971300" when-iso="+0685-02-18"><name>垂拱</name>元年正月七日</date>也。</p>
     <linkGrp>
         <link targets="#0826b24 #0826b24"/>
         <ptr target="#A012183" type="person"/>
-        <ptr target="#PL000000003793" type="place"/>
+        <ptr target="#PL000000003794" type="place"/>
     </linkGrp>
 </div>

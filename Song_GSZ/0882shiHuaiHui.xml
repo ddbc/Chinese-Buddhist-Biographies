@@ -1,21 +1,21 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" type="習禪" xml:id="gsz0767c25shiHuaiHui"><lb
-ed="T" n="0767c25"/><anchor n="T.50.2061.0767c25"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date><placeName key="PL000000042180">雍京章敬寺</placeName><persName key="A010238">懷暉</persName>傳<ptr target="#n1456"/></head><p><lb
+ed="T" n="0767c25"/><anchor n="T.50.2061.0767c25"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date><placeName key="PL000000042180"><placeName>雍京</placeName><placeName>章敬寺</placeName></placeName><persName key="A010238">懷暉</persName>傳<ptr rend="display:none;" target="#n1456"/></head><p><lb
 ed="T" n="0767c26"/><persName key="A010238">釋懷暉</persName>，姓<name>謝</name>氏，<placeName key="PL000000017906">泉州</placeName>人也。<anchor xml:id="beg0767005"/>宿植<anchor xml:id="end0767005"/><ptr rend="display:none;" type="glossary" target="#g90"/>根深，出塵<lb
 ed="T" n="0767c27"/>志遠，迨乎進具，乃尚雲遊。<date notBefore-iso="+0785-02-18" key="j20078242009652" notAfter-iso="+0790-02-20"><name>貞元</name>初</date>，<anchor xml:id="beg0767sgsz26"/>禮<anchor xml:id="end0767sgsz26"/><placeName key="PL000000018628">洪州</placeName><lb
 ed="T" n="0767c28"/><persName key="A003623">大寂<roleName>禪師</roleName></persName>，頓明心要。時<placeName key="PL000000009523">彭城</placeName><persName key="A010396">劉濟</persName>頗德<persName key="A010238">暉</persName>，互<lb
-ed="T" n="0767c29"/>相推證。後潛<placeName key="PL000000021603">岨崍山</placeName>，次寓<placeName key="PL000000020295">齊州靈巖寺</placeName>。又<pb ed="T" n="0768a" xml:id="T50.2061.0768a"/><lb
+ed="T" n="0767c29"/>相推證。後潛<placeName key="PL000000021603">岨崍山</placeName>，次寓<placeName key="PL000000020295"><placeName>齊州</placeName><placeName>靈巖寺</placeName></placeName>。又<pb ed="T" n="0768a" xml:id="T50.2061.0768a"/><lb
 ed="T" n="0768a01"/>移卜<ptr type="glossary" target="#g1461"/><placeName key="PL000000024524">百家巖</placeName>，泉石幽奇。苦於禪子請問繁<lb
 ed="T" n="0768a02"/>雜，上<placeName key="PL000000005168">中條山</placeName>行禪法，為法者躡跡而往，<placeName key="PL000000005165">蒲<lb
-ed="T" n="0768a03"/>津</placeName>人皆化之。<date from-iso="+0808-02-04" key="j20162102016564" to-iso="+0809-01-23"><name>元和</name>三年</date>，<persName key="A002120">憲<anchor xml:id="beg0768sgsz1"/>宗<anchor xml:id="end0768sgsz1"/></persName>詔入於<placeName key="PL000000042181">章敬寺<lb
-ed="T" n="0768a04"/>毘盧遮那院</placeName>安置，則<date notBefore-iso="+0766-12-22" key="j20011912005747" notAfter-iso="+0779-06-13"><name>大曆</name>中</date>勅應天下名僧<lb
+ed="T" n="0768a03"/>津</placeName>人皆化之。<date from-iso="+0808-02-04" key="j20162102016564" to-iso="+0809-01-23"><name>元和</name>三年</date>，<persName key="A002120">憲<anchor xml:id="beg0768sgsz1"/>宗<anchor xml:id="end0768sgsz1"/></persName>詔入於<placeName key="PL000000042181"><placeName>章敬寺</placeName><lb
+ed="T" n="0768a04"/><placeName>毘盧遮那院</placeName></placeName>安置，則<date notBefore-iso="+0766-12-22" key="j20011912005747" notAfter-iso="+0779-06-13"><name>大曆</name>中</date>勅應天下名僧<lb
 ed="T" n="0768a05"/>大德三學通贍者並叢萃其中，屬誕辰<ptr target="#n1457"/>，多<lb
 ed="T" n="0768a06"/>於此修齋度僧焉。<persName key="A010238">暉</persName>既居上院，為人說禪<lb
 ed="T" n="0768a07"/>要，朝寮名士日來參問。復詔入<placeName key="PL000000042361">麟德殿</placeName>賜<lb
 ed="T" n="0768a08"/>齋，推居上座。<date from-iso="+0815-11-09" key="j20190452019133" to-iso="+0816-02-05"><name>元和</name>十年乙未冬</date>示疾，<date key="j20191152019115" when-iso="+0816-01-18">十二<lb
 ed="T" n="0768a09"/>月十一日</date>滅度，春秋六十二<ptr target="#n1458"/>。<date from-iso="+0816-03-07" key="j20191642019193" to-iso="+0816-04-05">越明年二月</date>，門<lb
-ed="T" n="0768a10"/>人<persName key="A010405">智朗</persName>、<persName key="A010406">志操</persName>等奉全身葬于<placeName key="PL000000042342">灞橋</placeName>北原。勅<lb
-ed="T" n="0768a11"/>諡<persName key="A010238">大宣教禪師</persName>，立碑于<ref type="place" target="#PL000000042180">寺</ref>門，<placeName key="PL000000005811">嶽陽</placeName>司倉<persName key="A005203">賈島</persName><lb
+ed="T" n="0768a10"/>人<persName key="A027106">智朗</persName>、<persName key="A010406">志操</persName>等奉全身葬于<placeName key="PL000000042342">灞橋</placeName>北原。勅<lb
+ed="T" n="0768a11"/>謚<persName key="A010238">大宣教禪師</persName>，立碑于<ref type="place" target="#PL000000042180">寺</ref>門，<placeName key="PL000000005811">嶽陽</placeName>司倉<persName key="A005203">賈島</persName><lb
 ed="T" n="0768a12"/>為文述德焉<ptr target="#n1460"/>。</p>
     <linkGrp>
         <link targets="#0767c26 #0767c26"/>
@@ -85,12 +85,12 @@ ed="T" n="0768a12"/>為文述德焉<ptr target="#n1460"/>。</p>
     <linkGrp>
         <link targets="#0768a09 #0768a10"/>
         <ptr target="#A010238" type="person"/>
-        <ptr target="#A010405" type="person"/>
+        <ptr target="#A027106" type="person"/>
         <ptr target="#A010406" type="person"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0768a09 #0768a10"/>
-        <ptr target="#A010405" type="person"/>
+        <ptr target="#A027106" type="person"/>
         <ptr target="#A010406" type="person"/>
         <ptr target="#j20191152019115" type="time"/>
         <ptr target="#PL000000042342" type="place"/>

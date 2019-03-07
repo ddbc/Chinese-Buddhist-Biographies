@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="jsz0192a23liuYanHe">
+    <p><anchor n="X.88.1646.0192a23"/><lb ed="X" n="0192a23"/><persName key="A003075">劉彥和</persName>名<persName key="A003075">勰</persName>。東莞<placeName key="PL000000021849">莒</placeName>人。少孤篤。志好學。家貧不娶。依<lb ed="X" n="0192a24"/>沙門<persName key="A001587">祐</persName>法師居十餘年。遂博通經論。因區分部類錄<lb ed="X" n="0192b01"/>而序之。<placeName key="PL000000021833">定林寺</placeName>經藏其所定也。<date key="j19045331906155" to-iso="0506-10-10" from-iso="0502-05-02">天監初</date>。除<persName key="A015861">南康王</persName>記<lb ed="X" n="0192b02"/>室兼東宮通事舍人。時七廟饗薦已用蔬果。而二郊<lb ed="X" n="0192b03"/>農社猶有犧牲。<persName key="A003075">彥和</persName>表言。二郊農社宜與七廟同改。<lb ed="X" n="0192b04"/>詔付尚書議。如所請。尋遷步兵校尉。其為文長於佛<lb ed="X" n="0192b05"/>理。時有道士造三破論。排抑佛道。<persName key="A003075">彥和</persName>作滅惑論以<lb ed="X" n="0192b06"/>斥之。其略曰。至道宗極。理歸乎一。妙法真境。本固無<lb ed="X" n="0192b07"/>二。佛之為道。空元無形而萬象並應。寂滅無心而元<lb ed="X" n="0192b08"/>智彌照。幽數潛會莫見其極。冥功自用靡識其然。顯<lb ed="X" n="0192b09"/>跡則金容以表聖。應俗則王宮以現生。拔愚以四禪<lb ed="X" n="0192b10"/>為始。進慧以十地為階。總龍鬼而均誘。涵蠢動而普<lb ed="X" n="0192b11"/>慈。權教無方不以道俗乖應。妙化無外豈以華戎阻<lb ed="X" n="0192b12"/>情。是以一音演法。殊譯共解。一乘敷教。異經同歸。經<lb ed="X" n="0192b13"/>異由權。故孔釋教殊而道契。解同由妙。故梵漢語隔<lb ed="X" n="0192b14"/>而化通。但感有精麤故教分道俗。亦地有東西故國<lb ed="X" n="0192b15"/>限內外。其彌綸神化陶鑄群生無異也。然至道雖一。<lb ed="X" n="0192b16"/>岐路生迷。九十六種俱號為道。聽名則邪正莫辨。驗<lb ed="X" n="0192b17"/>法則真偽自分。若以麤笑精。以偽謗真。是瞽對離朱<lb ed="X" n="0192b18"/>而曰我明也。尋有敕與沙門<persName key="A015865">慧震</persName>於<placeName key="PL000000021833">定林寺</placeName>證經。功<lb ed="X" n="0192b19"/>畢啟求出家。先燔鬢髮以自誓。敕許之。遂於寺變服。<lb ed="X" n="0192b20"/>改名<persName key="A003075">慧地</persName>。未期而卒(梁書)。</p> 
+    
+    <linkGrp>
+        <link targets="#0192a23 #0192a24"/>
+        <ptr target="#A003075" type="person"/>
+        <ptr target="#A001587" type="person"/>
+        <ptr target="unknown" type="place"/>
+        </linkGrp>
+    <linkGrp>
+        <link targets="#0192b01 #0192b04"/>
+        <ptr target="#A003075" type="person"/>
+        <ptr target="#A015861" type="person"/>
+        <ptr target="unknown" type="place"/>
+        <ptr target="#j19045331906155" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0192b18 #0192b20"/>
+        <ptr target="#A003075" type="person"/>
+        <ptr target="#A015865" type="person"/>
+        <ptr target="#PL000000021833" type="place"/>
+        </linkGrp>
+ </div>

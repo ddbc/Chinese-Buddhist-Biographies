@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="jsz0201b08yuYanBao">
+    <p><anchor n="X.88.1646.0201b08"/><lb ed="X" n="0201b08"/><persName key="A011347">庾彥寶</persName>名<persName key="A011347">詵</persName>。<placeName key="PL000000025427">新野</placeName>人也。博通經史緯候之學。而性尚<lb ed="X" n="0201b09"/>夷簡。特愛林泉。十畆之宅。山池居半。蔬食敝衣不修<lb ed="X" n="0201b10"/>產業。甞乘舟從<placeName key="PL000000027072">沮中</placeName>山舍還。載米一百五十石。有人<lb ed="X" n="0201b11"/>寄載三十石。及至家。寄載者曰。君三十石。我百五十<lb ed="X" n="0201b12"/>石。<persName key="A011347">彥寶</persName>默然恣其取足。鄰人或被誣為盜。妄攀<persName key="A011347">彥寶</persName>。<lb ed="X" n="0201b13"/><persName key="A011347">彥寶</persName>矜之。因以所藏書質錢二萬。令門生詐為其親<lb ed="X" n="0201b14"/>代酬之。鄰人獲免來謝。<persName key="A011347">彥寶</persName>曰。吾矜天下無辜。豈期<lb ed="X" n="0201b15"/>謝也。<persName key="A002098">梁武帝</persName>少與<persName key="A011347">彥寶</persName>善。及起兵。署為平西府記室。<lb ed="X" n="0201b16"/>不屈。<date from-iso="0520-02-06" key="j19110221913660" to-iso="0527-04-28">普通中</date>詔以為黃門侍郎。稱疾不起。晚年於宅<lb ed="X" n="0201b17"/>內建道場。六時禮懺。誦法華經每日一遍。夜中忽見<lb ed="X" n="0201b18"/>一道人自稱<persName key="A016473">願公</persName>。容止甚異。呼<persName key="A011347">彥寶</persName>為<persName key="A011347">上行先生</persName>。授<lb ed="X" n="0201b19"/>香而去。<date from-iso="0532-01-25" key="j19153931915776" to-iso="0533-02-11">中大通四年</date>晝寢。忽驚覺曰。<persName key="A016473">願公</persName>復來。不可<lb ed="X" n="0201b20"/>久住。言訖而逝。舉室咸聞空中唱云。<persName key="A011347">上行先生</persName>已生<lb ed="X" n="0201b21"/><placeName key="PL000000055477">彌陀淨域</placeName>矣。時年七十八。<persName key="A002098">武帝</persName>聞之。詔諡貞節先生(南史)。</p> 
+    
+    <linkGrp>
+        <link targets="#0201b10 #0201b12"/>
+        <ptr target="#A011347" type="person"/>
+        <ptr target="#PL000000027072" type="place"/>
+        </linkGrp>
+    <linkGrp>
+        <link targets="#0201b15 #0201b15"/>
+        <ptr target="#A011347" type="person"/>
+        <ptr target="#A002098" type="person"/>
+        <ptr target="unknown" type="place"/>
+        <ptr target="#j19153931915776" type="time"/>
+    </linkGrp>
+  
+ </div>

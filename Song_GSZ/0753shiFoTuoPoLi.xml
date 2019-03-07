@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" type="譯經" xml:id="gsz0717c15shiFoTuoPoLi"><lb
-ed="T" n="0717c15"/><anchor n="T.50.2061.0717c15"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date><placeName key="PL000000005250">五臺山</placeName><persName key="A000438">佛陀波利</persName>傳<ptr target="#n81"/>（<persName key="A002145">順貞</persName>）</head><p><lb
-ed="T" n="0717c16"/><persName key="A000438">釋佛陀波利</persName>，<name>華</name>言<persName key="A000438">覺護</persName><ptr target="#n300"/>，<placeName key="PL000000055418">北印度罽賓</placeName>國人。忘<lb
+ed="T" n="0717c15"/><anchor n="T.50.2061.0717c15"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date><placeName key="PL000000005250">五臺山</placeName><persName key="A000438">佛陀波利</persName>傳<ptr rend="display:none;" target="#n81"/>（<persName key="A002145">順貞</persName>）</head><p><lb
+ed="T" n="0717c16"/><persName key="A000438">釋佛陀波利</persName>，<name>華</name>言<persName key="A000438">覺護</persName><ptr target="#n300"/>，<placeName key="PL000000055418"><placeName>北印度</placeName><placeName>罽賓</placeName></placeName>國人。忘<lb
 ed="T" n="0717c17"/>身徇道，遍觀靈跡，聞<persName key="A002144">文殊師利</persName>在<placeName key="PL000000005250">清涼山</placeName>，<lb
 ed="T" n="0717c18"/>遠涉流沙，躬來禮謁，以<persName key="A002146">天皇</persName><date from-iso="+0676-12-21" key="j19683191968370" to-iso="+0677-02-10"><name>儀鳳</name>元年丙<lb
 ed="T" n="0717c19"/>子</date>，杖錫<placeName key="PL000000005250">五臺</placeName>，虔誠<anchor xml:id="beg0717sgsz7"/>禮<anchor xml:id="end0717sgsz7"/>拜，悲泣雨淚，冀覩聖<lb
@@ -19,7 +19,7 @@ ed="T" n="0718a01"/>山更<anchor xml:id="beg0718sgsz1"/>禮<anchor xml:id="end0
 ed="T" n="0718a02"/>增虔恪。</p><p>遂返<ref target="#PL000000055418" type="place">本國</ref>取得經迴<ptr target="#n301"/>，既達<ref target="#PL000000042189" type="place">帝城</ref>，便<lb
 ed="T" n="0718a03"/>求進見。有司具奏，<persName key="A002146">天皇</persName>賞其精誠，崇斯祕<lb
 ed="T" n="0718a04"/>典，下詔鴻臚寺典客令<persName key="A000523">杜行顗</persName>與<persName key="A000332">日照三藏</persName><lb
-ed="T" n="0718a05"/>於內共譯<ptr target="#n316"/>。譯訖，<anchor xml:id="beg0718001"/>䞋<anchor xml:id="end0718001"/>絹三十匹，經留在內。<persName key="A000438">波<lb
+ed="T" n="0718a05"/>於內共譯<ptr target="#n316"/>。譯訖，<anchor xml:id="beg0718001"/><choice resp="sgsz"><sic>䞋</sic><corr>儭</corr></choice><anchor xml:id="end0718001"/>絹三十匹，經留在內。<persName key="A000438">波<lb
 ed="T" n="0718a06"/>利</persName>垂泣奏曰：「委棄身命，志在利人。請<ref target="#A002146" type="person">帝</ref>流<lb
 ed="T" n="0718a07"/>行，是所望也。」<ref target="#A002146" type="person">帝</ref>愍<ref target="#A000438" type="person">其</ref>專切，遂留所譯之經，<lb
 ed="T" n="0718a08"/>還其<name>梵</name>本。<persName key="A000438">波利</persName>得經，彌復忻喜，乃向<placeName key="PL000000042216">西明<lb
@@ -29,7 +29,7 @@ ed="T" n="0718a11"/>頂尊勝陀羅尼經》，與前<persName key="A000523">杜
 ed="T" n="0718a12"/>文少有同異。<persName key="A000438">波利</persName>所願既畢，却持<name>梵</name>本入<lb
 ed="T" n="0718a13"/>于<placeName key="PL000000005250">五臺</placeName>，莫知所之。或云<persName key="A000438">波利</persName>隱<placeName key="PL000000005328">金剛窟</placeName>，今<lb
 ed="T" n="0718a14"/><placeName key="PL000000042029">永興龍首岡</placeName><ptr target="#n318"/>有<persName key="A000438">波利</persName>藏舍利之所焉。</p><p><date notBefore-iso="+0766-12-11" key="j20011802005993" notAfter-iso="+0780-02-14"><name>大曆</name><lb
-ed="T" n="0718a15"/>中</date><placeName key="PL000000028959">南嶽雲峯寺</placeName>沙門<persName key="A009238">法照</persName>入<placeName key="PL000000005250">五臺山</placeName><anchor xml:id="beg0718sgsz3"/>禮<anchor xml:id="end0718sgsz3"/><placeName key="PL000000005328">金<lb
+ed="T" n="0718a15"/>中</date><placeName key="PL000000028959"><placeName>南嶽</placeName><placeName>雲峯寺</placeName></placeName>沙門<persName key="A009238">法照</persName>入<placeName key="PL000000005250">五臺山</placeName><anchor xml:id="beg0718sgsz3"/>禮<anchor xml:id="end0718sgsz3"/><placeName key="PL000000005328">金<lb
 ed="T" n="0718a16"/>剛窟</placeName>，夜之未央，剋責撲地。忽見一僧長七尺<lb
 ed="T" n="0718a17"/>許，<name>梵</name>音朗暢，稱是<persName key="A000438">佛陀波利</persName>。問曰：「<ref target="#A009238" type="person">阿師</ref>如<lb
 ed="T" n="0718a18"/>此自苦，得無勞乎？有何願樂？」<persName key="A009238">照</persName>對曰：「願<lb
@@ -40,7 +40,7 @@ ed="T" n="0718a22"/>體酋健，光色閃爍。其院皆是異寶莊嚴<ptr rend
 ed="T" n="0718a23"/>不暇，樓觀複沓<ptr rend="display:none;" type="glossary" target="#g320"/>，殿宇連延，罘罳<ptr type="glossary" target="#g321"/>密緻，鈴鐸交<lb
 ed="T" n="0718a24"/>鳴，可二百所。間<ptr rend="display:none;" target="#n322"/>有祕藏，中緘《金剛般若》并<lb
 ed="T" n="0718a25"/>一切經法。人物魁偉，殆非常所覩也。<persName key="A002144">文殊大<lb
-ed="T" n="0718a26"/>聖</persName>處位尊嚴，擁從旁午<ptr type="glossary" target="#g323"/>。宣言慰勞，分茶賦食<lb
+ed="T" n="0718a26"/>聖</persName>處位尊嚴，擁從旁午<ptr type="glossary" target="#g89"/>。宣言慰勞，分茶賦食<lb
 ed="T" n="0718a27"/>訖，<persName key="A000438">波利</persName>引之出去。<persName key="A009238">照</persName>苦乞在寺，<persName key="A000438">波利</persName>不許。<lb
 ed="T" n="0718a28"/>臨別勉之，努力修進，再來可住。<persName key="A009238">照</persName>還至板<lb
 ed="T" n="0718a29"/>上躡履，迴眸之際，<persName key="A000438">波利</persName>隱焉。</p><pb ed="T" n="0718b" xml:id="T50.2061.0718b"/>
@@ -51,7 +51,7 @@ ed="T" n="0718b03"/>或分身易態，皆以之為遊戲耳，以之為利<lb
 ed="T" n="0718b04"/>物焉。其<persName key="A000438">佛陀波利</persName>出沒無恒，變化何極，出<lb
 ed="T" n="0718b05"/><placeName key="PL000000005328">金剛窟</placeName>接<persName key="A009238">法照師</persName>，蓋與<ref target="#A009238" type="person">之</ref>有緣，闖然<ptr rend="display:none;" type="glossary" target="#g327"/>而現。<lb
 ed="T" n="0718b06"/>故<persName key="A002188"><roleName>杜多</roleName>迦葉</persName><ptr type="glossary" target="#g566"/>久隱諸峯，<date from-iso="+0317-04-07" key="j18369381874651" to-iso="+0420-07-08"><name>晉</name></date><persName key="A000750">法顯</persName>往遊<placeName key="PL000000048268">靈鷲</placeName>，<lb
-ed="T" n="0718b07"/>見于山下焉。</p>
+    ed="T" n="0718b07"/>見于山下焉<ptr target="#n82"/>。</p>
     <linkGrp>
         <link targets="#0717c16 #0717c16"/>
         <ptr target="#A000438" type="person"/>

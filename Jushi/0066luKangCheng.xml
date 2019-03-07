@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="jsz0211c02luKangCheng">
+    <p><anchor n="X.88.1646.0211c02"/><lb ed="X" n="0211c02"/><persName key="A017004">陸康成</persName>不詳其里居。<date from-iso="0782-01-23" key="j20067022007084" to-iso="0783-02-09">官<placeName key="PL000000042192">京兆</placeName>法曹</date><!-- 建中三年，請對照前後文 -->。<ref target="#A017004" type="person">公</ref>退。忽見已故吏<lb ed="X" n="0211c03"/>抱案立於前。<persName key="A017004">康成</persName>驚曰。爾已下世。何得來。曰。此幽府<lb ed="X" n="0211c04"/>文簿。皆來年兵刃死者。<persName key="A017004">康成</persName>曰。得毋有我乎。吏檢示<lb ed="X" n="0211c05"/>之。<persName key="A017004">康成</persName>瞿然曰奈何。吏曰惟金剛經可託。特以報<ref target="#A017004" type="person">公</ref>。<lb ed="X" n="0211c06"/>言訖不見。<persName key="A017004">康成</persName>遂取金剛經誦之。日數十遍。<date from-iso="0783-11-04" key="j20073522007380" to-iso="0783-12-02">明年<persName key="A008866">朱<lb ed="X" n="0211c07"/>泚</persName>反</date><!-- 建中四年十 月，請參閱(http://zh.wikisource.org/zh-hant/舊唐書/卷200下，2010.06.30) -->。署為御史。<persName key="A017004">康成</persName>叱<persName key="A008866">泚</persName>曰。賊臣敢干國士。<persName key="A008866">泚</persName>怒令<lb ed="X" n="0211c08"/>數百騎環而射之。<persName key="A017004">康成</persName>默念金剛經。矢不能入。遂捨<lb ed="X" n="0211c09"/>之。<persName key="A017004">康成</persName>去之<placeName key="PL000000042627">終南山</placeName>老焉(報應記)。</p> 
+    
+    <linkGrp>
+        <link targets="#0211c02 #0211c06"/>
+        <ptr target="#A017004" type="person"/>
+        <ptr target="#PL000000042192" type="place"/>
+        <ptr target="#j20067022007084" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0211c06 #0211c09"/>
+        <ptr target="#A017004" type="person"/>
+        <ptr target="#A008866" type="person"/>
+        <ptr target="unknown" type="place"/>
+        <ptr target="#j20073522007380" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0211c09 #0211c09"/>
+        <ptr target="#A017004" type="person"/>
+        <ptr target="#PL000000042627" type="place"/>
+        </linkGrp>
+ </div>

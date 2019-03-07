@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="jsz0201b22liuXuanWen">
+    <p><anchor n="X.88.1646.0201b22"/><lb ed="X" n="0201b22"/><persName key="A016494">劉宣文</persName>名<persName key="A016494">慧斐</persName>。<placeName key="PL000000009533">彭城</placeName>人也。少博學。能文起家。<persName key="A005152">梁安成<lb ed="X" n="0201b23"/>王</persName>法曹行參軍。甞還<ref target="#PL000000008975" type="place">都</ref>。途經<placeName key="PL000000018775">匡山</placeName>。遇處士<persName key="A003159">張文逸</persName>。相<lb ed="X" n="0201b24"/>得甚歡。有終焉之志。遂居於<placeName key="PL000000018801">東林</placeName>。又於山北搆園。號<lb ed="X" n="0201c01"/><placeName key="PL000000018776">離垢園</placeName>。時人稱為<persName key="A016494">離垢先生</persName>。研精釋典。兼工篆隸。在<lb ed="X" n="0201c02"/>山手寫佛經二千餘卷。常所誦者百餘卷。晝夜行道<lb ed="X" n="0201c03"/>孜孜不怠。遠近欽慕之。<persName key="A005213">簡文</persName>臨<placeName key="PL000000018850">江州</placeName>。遺以几杖。論者<lb ed="X" n="0201c04"/>云。自<persName key="A001204">遠師</persName>沒後將三百年。始有<ref target="#A003159" type="person">張</ref><ref target="#A016494" type="person">劉</ref>之盛矣。<date from-iso="0537-01-29" key="j19172241917607" to-iso="0538-02-16">大同三<lb ed="X" n="0201c05"/>年</date>卒。<persName key="A003159">文逸</persName>。名<persName key="A003159"><!-- <date from ="0490" to-iso="0522" type="default" xml:id="d19000301912114"/> -->孝秀</persName>。南陽<placeName key="PL000000025202">宛</placeName>人。仕州中從事史。徙<placeName key="PL000000018861">尋陽</placeName>。<lb ed="X" n="0201c06"/>性通率耐冷。好佛氏書。謹持戒律。居<placeName key="PL000000018801">東林</placeName>。力田以供<lb ed="X" n="0201c07"/>山眾。僧有敗行。輙集眾佛前為羯磨而笞之。多有悔<lb ed="X" n="0201c08"/>過者。<date from-iso="0522-02-14" key="j19117611912114" to-iso="0523-02-02">普通三年</date>卒。室中聞有非常香氣。同時<persName key="A004519">阮士宗</persName>。<lb ed="X" n="0201c09"/>名<persName key="A004519">孝緒</persName>。<placeName key="PL000000023443">陳留</placeName>人。亦以清隱著名。末年蔬食斷酒。虔精<lb ed="X" n="0201c10"/>事佛。其恒供養石像。先有損壞。心欲補之。罄心敬禮。<lb ed="X" n="0201c11"/>一夜忽然完復(南史)。</p> 
+    
+    <linkGrp>
+        <link targets="#0201b22 #0201b23"/>
+        <ptr target="#A016494" type="person"/>
+        <ptr target="#A005152" type="person"/>
+        <ptr target="unknown" type="place"/>
+        </linkGrp>
+    <linkGrp>
+        <link targets="#0201b23 #0201b24"/>
+        <ptr target="#A016494" type="person"/>
+        <ptr target="#A003159" type="person"/>
+        <ptr target="#PL000000018775" type="place"/>
+        </linkGrp>
+    <linkGrp>
+        <link targets="#0201b24 #0201c03"/>
+        <ptr target="#A016494" type="person"/>
+        <ptr target="#PL000000018776" type="place"/>
+        </linkGrp>
+    <linkGrp>
+        <link targets="#0201c03 #0201c03"/>
+        <ptr target="#A016494" type="person"/>
+        <ptr target="#A005213" type="person"/>
+        <ptr target="#PL000000018850" type="place"/>
+        </linkGrp>
+    <linkGrp>
+        <link targets="#0201c05 #0201c05"/>
+        <ptr target="#A003159" type="person"/>
+        <ptr target="#PL000000018861" type="place"/>
+        <!-- <ptr target="#d19000301912114" type="time"/> -->
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0201c06 #0201c08"/>
+        <ptr target="#A003159" type="person"/>
+        <ptr target="#PL000000018801" type="place"/>
+        <!-- <ptr target="#d19000301912114" type="time"/> -->
+    </linkGrp>
+ </div>

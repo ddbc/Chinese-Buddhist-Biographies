@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" type="雜科聲德" xml:id="gsz0896a08shiWangMing"><lb
-ed="T" n="0896a08"/><anchor n="T.50.2061.0896a08"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date>幽州南瓦窰<persName key="A008815">亡名</persName>傳（<persName key="A013945"><anchor xml:id="beg0896001"/>祝融峯禪者<anchor xml:id="end0896001"/></persName>）</head><p><lb
+ed="T" n="0896a08"/><anchor n="T.50.2061.0896a08"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date>幽州南瓦窰<persName key="A008815">亡名</persName>傳（<persName key="A013945"><anchor xml:id="beg0896001"/><choice resp="sgsz"><sic>祝融峯禪者</sic><corr>禪者</corr></choice><anchor xml:id="end0896001"/></persName>）</head><p><lb
 ed="T" n="0896a09"/><persName key="A008815">釋亡名</persName>，履行尤峻，獨居<placeName key="PL000000000345">燕城南窰竈</placeName>間。<date key="j20513922051509" notAfter-iso="+0904-09-27" notBefore-iso="+0904-06-02"><name>天祐</name><lb
 ed="T" n="0896a10"/>中</date>，<placeName key="PL000000000368">幽</placeName>、<placeName key="PL000000000769"><anchor xml:id="beg0896002"/>薊<anchor xml:id="end0896002"/></placeName>不稔，道殍相望。因分衛迴，聞車轍<lb
 ed="T" n="0896a11"/>中呱呱之聲，憫而收歸，乃飢民所棄女子也。<lb
@@ -15,7 +15,7 @@ ed="T" n="0896a19"/>之，不令伍於下位。仍重其僧，謂為果位<lb
 ed="T" n="0896a20"/>中人也。別造精舍以處之，<persName key="A009919">劉</persName>一旬兩往謁<lb
 ed="T" n="0896a21"/>焉。其僧疾沒，門人入<anchor xml:id="beg0896sgsz7"/>訃<anchor xml:id="end0896sgsz7"/>，女方獨坐，聞之哀慟<lb
 ed="T" n="0896a22"/>而死焉。<persName key="A009919">劉</persName>為僧營塔標誌矣。又<placeName key="PL000000028929">祝融峯</placeName>禪者，<lb
-ed="T" n="0896a23"/><anchor xml:id="beg0896003"/>亡名<anchor xml:id="end0896003"/>為人抗直，不事威儀，每一舉揚，善<lb
+ed="T" n="0896a23"/><anchor xml:id="beg0896003"/><choice resp="sgsz"><sic>亡名</sic><corr>（亡名）</corr></choice><anchor xml:id="end0896003"/>為人抗直，不事威儀，每一舉揚，善<lb
 ed="T" n="0896a24"/>標宗要，道俗歸之若市。甞飲酒遇毒，當時<lb
 ed="T" n="0896a25"/>吐下，透落腐衣裂石，體中無惱。每有一蛇<lb
 ed="T" n="0896a26"/>一虎為衛護狀。迨終闍維，留骨一片，大如<lb

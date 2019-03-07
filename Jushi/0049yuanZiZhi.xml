@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="jsz0204b08yuanZiZhi">
+    <p><anchor n="X.88.1646.0204b08"/><lb ed="X" n="0204b08"/><persName key="A016674">元紫芝</persName>名<persName key="A016674">德秀</persName>。<placeName key="PL000000023579">河南</placeName>人。<date from-iso="0713-12-26" key="j19818371992113" to-iso="0742-02-13">開元中</date>登進士第。母喪。廬墓<lb ed="X" n="0204b09"/>側。食無鹽酪。藉無茵席。刺血繪像寫佛經。已而官<placeName key="PL000000023975">魯<lb ed="X" n="0204b10"/>山</placeName>令。歲滿携一縑駕柴車還。愛陸渾山水。居焉。家無<lb ed="X" n="0204b11"/>僕妾。歲饑。或日一爨。酌酒鼓琴自娛。生六十年未甞<lb ed="X" n="0204b12"/>識女色。<date from-iso="0754-02-01" key="j19964841996867" to-iso="0755-02-19">天寶十三年</date>卒(唐書)。</p> 
+    
+    <linkGrp>
+        <link targets="#0204b08 #0204b09"/>
+        <ptr target="#A016674" type="person"/>
+        <ptr target="#PL000000023579" type="place"/>
+        </linkGrp> 
+    <linkGrp>
+        <link targets="#0204b09 #0204b10"/>
+        <ptr target="#A016674" type="person"/>
+        <ptr target="#PL000000023975" type="place"/>
+        </linkGrp>
+ </div>

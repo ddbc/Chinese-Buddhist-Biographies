@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" type="感通" xml:id="gsz0830b04shiRuYi"><lb
-ed="T" n="0830b04"/><anchor n="T.50.2061.0830b04"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date>福州鐘山<persName key="A022940">如一</persName>傳</head><p><lb
+ed="T" n="0830b04"/><anchor n="T.50.2061.0830b04"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date><placeName key="PL000000017202"><placeName>福州</placeName><placeName>鐘山</placeName></placeName><persName key="A022940">如一</persName>傳</head><p><lb
 ed="T" n="0830b05"/><persName key="A022940">釋如一</persName>，不知何許人也。<date notBefore-iso="+0735-02-01" key="j19895441992113" notAfter-iso="+0742-02-13"><name>開元</name>末</date>為僧，典床<lb
-ed="T" n="0830b06"/>座。俄有僧遍身瘡疥，衣服繿縷，巡遶寺中。<lb
+ed="T" n="0830b06"/>座<ptr type="glossary" target="#g824"/>。俄有僧遍身瘡疥，衣服繿縷，巡遶寺中。<lb
 ed="T" n="0830b07"/>僧眾覩之，無不厭惡。唯<persName key="A022940">一</persName>見而<anchor xml:id="beg0830002"/><choice resp="sgsz"><sic>𢡞</sic><corr>憫</corr></choice><anchor xml:id="end0830002"/>焉，延<lb
 ed="T" n="0830b08"/>入常住別堂，安置度夏。夏末辭去，<persName key="A022940">一</persName>問：「去<lb
 ed="T" n="0830b09"/>何所？」答曰：「歸庵中。」又問：「庵在何也？」「只在<placeName key="PL000000017197">大<lb
@@ -10,8 +10,13 @@ ed="T" n="0830b10"/>乘寺</placeName>東。」<persName key="A022940">一</pers
 ed="T" n="0830b11"/>曰：「不信，但來相訪。」「<ref type="person" target="#A022940">某</ref>兩日後專來。」<persName key="A022940">一</persName>遂往，果<lb
 ed="T" n="0830b12"/>見前僧在巖口相候，因携手入一精舍，樓<lb
 ed="T" n="0830b13"/>閣森聳，殿堂交錯，且非人間景物。三日遣<persName key="A022940">一<lb
-ed="T" n="0830b14"/>公</persName>下山，迴首見悉是巖石，方知聖寺耳。<persName key="A022940">一</persName><lb
+ed="T" n="0830b14"/><roleName>公</roleName></persName>下山──迴首見悉是巖石，方知聖寺耳。<persName key="A022940">一</persName><lb
 ed="T" n="0830b15"/>由是倍力修進，願預聖流云。</p>
+    <linkGrp>
+        <link targets="#0830b04 #0830b04"/>
+        <ptr target="#A022940" type="person"/>
+        <ptr target="#PL000000017202" type="place"/>
+    </linkGrp>
     <linkGrp>
         <link targets="#0830b05 #0830b05"/>
         <ptr target="#A022940" type="person"/>

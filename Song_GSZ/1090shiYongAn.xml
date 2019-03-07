@@ -1,43 +1,48 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" type="感通" xml:id="gsz0845c15shiYongAn"><lb
-ed="T" n="0845c15"/><anchor n="T.50.2061.0845c15"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date>成都府<persName key="A012815">永安</persName>傳</head><p><lb
-ed="T" n="0845c16"/><persName key="A012815">釋永安</persName>，<placeName key="PL000000036649">眉州洪雅</placeName>人也。身裁么麼，面色黧䵟，<lb
+ed="T" n="0845c15"/><anchor n="T.50.2061.0845c15"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date><placeName key="PL000000034805">成都府</placeName><persName key="A012815">永安</persName>傳</head><p><lb
+ed="T" n="0845c16"/><persName key="A012815">釋永安</persName>，<placeName key="PL000000036649"><placeName>眉州</placeName><placeName>洪雅</placeName></placeName>人也。身裁么麼<ptr type="glossary" target="#g726"/>，面色黧䵟，<lb
 ed="T" n="0845c17"/>言音鄙惡，而識量寬舒，大抵不可貲也。<date from-iso="+0854-04-05" key="j20330722033101" to-iso="+0854-05-04"><name>大中</name><lb
-ed="T" n="0845c18"/>八年三月</date>中，詣<placeName key="PL000000034785">成都</placeName>，云造謁府帥<persName key="A010596">白公敏<lb
-ed="T" n="0845c19"/>中</persName>，請奏寺額。以其足跋，肩輿而至，人皆未<lb
-ed="T" n="0845c20"/>甞見其登圊<ptr target="#n1900"/>而旋溺也。故時呼為<persName key="A012815">無漏師</persName>，<lb
-ed="T" n="0845c21"/><persName key="A012815">安</persName>置<placeName key="PL000000034692">聖壽寺</placeName>中且十日。<persName key="A010596">白中</persName>令俾差僧五、<lb
+ed="T" n="0845c18"/>八年三月</date>中，詣<placeName key="PL000000034805">成都</placeName>，云造謁府帥<persName key="A010596">白<roleName>公</roleName>敏<lb
+ed="T" n="0845c19"/>中</persName>，請奏寺額。以其足<choice resp="sgsz"><sic>跋</sic><corr>跛</corr></choice><ptr type="glossary" target="#g1621"/>，肩輿而至。人皆未<lb
+ed="T" n="0845c20"/>甞見其登圊<ptr type="glossary" target="#g1786"/>而旋溺也，故時呼為<persName key="A012815">無漏師</persName>。<lb
+ed="T" n="0845c21"/><persName key="A012815">安</persName>置<placeName key="PL000000034692">聖壽寺</placeName>中且十日，<persName key="A010596">白<roleName>中令</roleName></persName>俾差僧五、<lb
 ed="T" n="0845c22"/>六，晝夜互守之而伺察焉。內外飲食，亦略<lb
-ed="T" n="0845c23"/>同常人，而無解衣去二行之意，詳其十辰<lb
-ed="T" n="0845c24"/>之積，便旋何所。畢不可知。司徒<persName key="A010596">白公</persName>奏額<lb
+ed="T" n="0845c23"/>同常人，而無解衣去二行<ptr type="glossary" target="#g1787"/>之意。詳其十辰<ptr type="glossary" target="#g1589"/><lb
+ed="T" n="0845c24"/>之積，便旋何所，畢不可知。司徒<persName key="A010596">白<roleName>公</roleName></persName>奏額<lb
 ed="T" n="0845c25"/>到日，便辭歸<placeName key="PL000000036573">眉郡</placeName>。判官<persName key="A012816">盧求</persName>見之，謂為小沙<lb
-ed="T" n="0845c26"/>彌耳，人云：「此<persName key="A012815">師</persName>年已八十餘矣！」</p>
-    <p xml:id="pT50p0845c2701"><lb
-ed="T" n="0845c27"/>系曰：<placeName key="PL000000035107">蜀</placeName>人謂<persName key="A012815">安公</persName>為<persName key="A012815">無漏師</persName>者，非也。夫斷<lb
-ed="T" n="0845c28"/>煩惱不復隨增，故永無種習，乃稱之無漏。<lb
-ed="T" n="0845c29"/>今以飲食之餘，歸于九孔，<persName key="A012815">安公</persName>止二竅不<pb ed="T" n="0846a" xml:id="T50.2061.0846a"/><lb
-ed="T" n="0846a01"/>流耳。瑜伽云「無內逼惱分也。」然其位次忍住<lb
-ed="T" n="0846a02"/>難知，啜茹如常，何緣不流二竅？觀夫對法<lb
-ed="T" n="0846a03"/>論中有清淨依止<ptr type="glossary" target="#g333"/>，住食示現依止。住食二種，<lb
-ed="T" n="0846a04"/>則羅漢菩薩佛也。若然者，<persName key="A012815">安公</persName>是示現依止<lb
-ed="T" n="0846a05"/>住食，雖食不食，滓穢奚生？必也正名，以召<lb
-ed="T" n="0846a06"/>其體哉。</p>
+ed="T" n="0845c26"/>彌耳，人云：「此<ref type="person" target="#A012815">師</ref>年已八十餘矣！」</p><p xml:id="pT50p0845c2701"><lb
+ed="T" n="0845c27"/>系曰：<placeName key="PL000000035107">蜀</placeName>人謂<persName key="A012815">安<roleName>公</roleName></persName>為<persName key="A012815">無漏師</persName>者，非也。夫斷<lb
+ed="T" n="0845c28"/>煩惱不復隨增<ptr type="glossary" target="#g1788"/>，故永無種習，乃稱之無漏<ptr type="glossary" target="#g432"/>。<lb
+ed="T" n="0845c29"/>今以飲食之餘，歸于九孔，<persName key="A012815">安<roleName>公</roleName></persName>止二竅不<pb ed="T" n="0846a" xml:id="T50.2061.0846a"/><lb
+ed="T" n="0846a01"/>流耳。《瑜伽》云無「內逼惱分」也<ptr target="#n1900"/>。然其位次、忍住<ptr type="glossary" target="#g164"/><lb
+ed="T" n="0846a02"/>難知，啜茹如常，何緣不流二竅？觀夫《對法<lb
+ed="T" n="0846a03"/>論》<ptr target="#n61"/>中有「清淨依止住食」、「示現依止住食」二種<ptr target="#n2731"/>，<lb
+ed="T" n="0846a04"/>則羅漢、菩薩、佛也。若然者，<persName key="A012815">安<roleName>公</roleName></persName>是示現依止<lb
+ed="T" n="0846a05"/>住食──雖食不食，滓穢奚生？必也正名，以召<lb
+ed="T" n="0846a06"/>其體<ptr type="glossary" target="#g1601"/>哉。</p>
     <linkGrp>
-        <link targets="#0845c17 #0845c20"/>
+        <link targets="#0845c16 #0845c16"/>
+        <ptr target="#A012815" type="person"/>
+        <ptr target="#PL000000036649" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0845c17 #0845c19"/>
         <ptr target="#A012815" type="person"/>
         <ptr target="#A010596" type="person"/>
-        <ptr target="#PL000000034785" type="place"/>
+        <ptr target="#PL000000034805" type="place"/>
         <ptr target="#j20330722033101" type="time"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0845c21 #0845c25"/>
         <ptr target="#A012815" type="person"/>
         <ptr target="#PL000000034692" type="place"/>
+        <ptr target="#j20330722033101" type="time"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0845c25 #0845c26"/>
         <ptr target="#A012815" type="person"/>
-        <ptr target="#A010596" type="person"/>
+        <ptr target="#A012816" type="person"/>
         <ptr target="#PL000000036573" type="place"/>
     </linkGrp>
 </div>

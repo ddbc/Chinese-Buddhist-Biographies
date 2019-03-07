@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" type="雜科聲德" xml:id="gsz0890c23shiChunTuo"><lb
-ed="T" n="0890c23"/><anchor n="T.50.2061.0890c23"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date>京<anchor xml:id="beg0890004"/>兆<anchor xml:id="end0890004"/>鎮國寺<persName key="A012790">純陀</persName>傳</head><p><lb
+ed="T" n="0890c23"/><anchor n="T.50.2061.0890c23"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date><anchor xml:id="beg0890004"/>京兆<anchor xml:id="end0890004"/>鎮國寺<persName key="A012790">純陀</persName>傳</head><p><lb
 ed="T" n="0890c24"/><persName key="A012790">釋純陀</persName>者，本<placeName key="PL000000055436">西域</placeName>人也，<name>梵</name>名無由翻就華<lb
 ed="T" n="0890c25"/>言也。從遊<placeName key="PL000000042189">京邑</placeName>，人所欽重。<date key="j19674991968318" notAfter-iso="+0676-12-20" notBefore-iso="+0674-09-23"><name>上元</name>中</date>便云東<lb
 ed="T" n="0890c26"/>渡，人見之，顏容若童穉之色，言已年六百歲<lb
 ed="T" n="0890c27"/>矣。或謂為八十歲人也。言談氣壯，舉動不<lb
-ed="T" n="0890c28"/>衰。<persName key="A004379"><anchor xml:id="beg0890sgsz5"/>代<anchor xml:id="end0890sgsz5"/>宗皇帝</persName>聞之，詔入，禮遇極豊，俾求留<lb
-ed="T" n="0890c29"/>年之道。<persName key="A012790">陀</persName>曰：「心神好靜，今為塵境汨之，何<pb ed="T" n="0891a" xml:id="T50.2061.0891a"/><lb
+ed="T" n="0890c28"/>衰。<persName key="A004379"><anchor xml:id="beg0890sgsz5"/>代<anchor xml:id="end0890sgsz5"/>宗皇帝</persName>聞之，詔入，禮遇極豐，俾求留<lb
+ed="T" n="0890c29"/>年之道。<persName key="A012790">陀</persName>曰：「心神好靜，今為塵境<anchor xml:id="beg0890sgsz7"/><choice resp="sgsz"><sic>汨</sic><corr>汩</corr></choice><anchor xml:id="end0890sgsz7"/><ptr type="glossary" target="#g1115"/>之，何<pb ed="T" n="0891a" xml:id="T50.2061.0891a"/><lb
 ed="T" n="0891a01"/>從冥寂乎？若離簡靜外，欲望留年，如登木<lb
-ed="T" n="0891a02"/>采芙蕖，其可得乎？<persName key="A004379">陛下</persName>欲長年，由簡潔<lb
+ed="T" n="0891a02"/><anchor xml:id="beg0891sgsz1"/><choice resp="sgsz"><sic>釆</sic><corr>采</corr></choice><anchor xml:id="end0891sgsz1"/>芙蕖，其可得乎？<persName key="A004379">陛下</persName>欲長年，由簡潔<lb
 ed="T" n="0891a03"/>安神。神安則壽永，寡慾則身安。術斯已往，<lb
 ed="T" n="0891a04"/><persName key="A012790">貧道</persName>所不知也。」<persName key="A004379">帝</persName>由是篤重之。以<date key="j20011912001238" notAfter-iso="+0767-02-07" notBefore-iso="+0766-12-22"><name>永泰</name>三<lb
 ed="T" n="0891a05"/>年</date><!--資料庫無永泰三年,應為<name>大曆</name>元年-->預知必逝，遣弟子齎衣鉢進上，<persName key="A004379">帝</persName>賜弟<lb

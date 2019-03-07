@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="jsz0229b03wuDeFu">
+    <p><anchor n="X.88.1646.0229b03"/><lb ed="X" n="0229b03"/><persName key="A017794">吳德夫</persName>名<persName key="A017794">恂</persName>。不詳其里居。<date from-iso="1078-01-23" key="j21148142115197" to-iso="1079-02-10">元豐元年</date>任<placeName key="PL000000018603">豫章</placeName>法曹。時<lb ed="X" n="0229b04"/>郡帥<persName key="A017793">王韶</persName>迎<persName key="A008470">晦堂禪師</persName>入城。舘於<placeName key="PL000000018578">大梵院</placeName>。咨訪大法。<lb ed="X" n="0229b05"/><persName key="A017794">德夫</persName>亦往叩焉。<persName key="A008470">晦堂</persName>曰。公平生學解即不問。父母未<lb ed="X" n="0229b06"/>生已前道將一句來。<persName key="A017794">德夫</persName>不能對。一日閱傳燈錄至<lb ed="X" n="0229b07"/>鄧隱峯倒卓而化。其衣順體不退。深以為疑。復趨問<lb ed="X" n="0229b08"/><persName key="A008470">晦堂</persName>。<persName key="A008470">晦堂</persName>笑曰。公今侍立。是順耶是逆也。曰是順。<persName key="A008470">晦<lb ed="X" n="0229b09"/>堂</persName>曰還疑否。曰不疑。<persName key="A008470">晦堂</persName>曰。自既不疑。何疑於彼。<persName key="A017794">德<lb ed="X" n="0229b10"/>夫</persName>言下大徹。即說偈曰。咄這多知俗漢。齩盡古今公<lb ed="X" n="0229b11"/>案。忽於狼籍堆頭。拾得蜣螂糞彈。明明不直分文。萬<lb ed="X" n="0229b12"/>兩黃金不換。等閒拈出示人。祇為走盤難看。時<ref target="#A017793" type="person">韶</ref>亦<lb ed="X" n="0229b13"/>於<persName key="A008470">晦堂</persName>得法。述頌曰。晝曾忘食夜忘眠。捧得驪珠欲<lb ed="X" n="0229b14"/>上天。却向自身都放下。四稜榻地恰團圓。後<persName key="A017794">德夫</persName>官<lb ed="X" n="0229b15"/>至秘書(五燈會元．林間錄)。<lb ed="X" n="0229b16"/><persName key="A001188">知歸子</persName>曰。觀諸賢問答及所論著。於心地法門豁如<lb ed="X" n="0229b17"/>矣。迹其出處之際。類能不繫於物。非其驗耶。以視<persName key="A013344">夏<lb ed="X" n="0229b18"/>竦</persName>．<persName key="A004027">呂惠卿</persName>之徒。濫廁傳燈者。其相去何如也。<lb ed="X" n="0229b19"/><persName key="A015017">汪大紳</persName>曰。歷歷孤明。巍巍獨坐。近來居士頗有這<lb ed="X" n="0229b20"/>般人物否。有則叫他到<persName key="A015017">大紳</persName>門下來看箭。</p> 
+    
+    <linkGrp>
+        <link targets="#0229b03 #0229b04"/>
+        <ptr target="#A008470" type="person"/>
+        <ptr target="#A017793" type="person"/>
+        <ptr target="#PL000000018578" type="place"/>
+        <ptr target="#j21148142115197" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0229b03 #0229b12"/>
+        <ptr target="#A008470" type="person"/>
+        <ptr target="#A017794" type="person"/>
+        <ptr target="#PL000000018578" type="place"/>
+        <ptr target="#j21148142115197" type="time"/>
+    </linkGrp>
+ </div>

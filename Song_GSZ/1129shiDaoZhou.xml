@@ -1,29 +1,44 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" type="遺身" xml:id="gsz0859a20shiZhiTong"><lb
-ed="T" n="0859a20"/><anchor n="T.50.2061.0859a20"/><head><date from-iso="+0936-12-05" key="j20632662067017" to-iso="+0947-03-14">晉</date>朔方靈武永福寺<persName key="A011523">道舟</persName>傳</head><p><lb
-ed="T" n="0859a21"/><persName key="A011523">釋道舟</persName>，姓管氏，<placeName key="PL000000047150">朔方迴樂</placeName>人也。髫年聰雅，<lb
-ed="T" n="0859a22"/>庠序有儀，雖誦詩書，樂聞釋典，決志出<lb
-ed="T" n="0859a23"/>家于龍興寺孔雀王院<!--找不到此地-->。爰得戒珠，漸圓心<lb
-ed="T" n="0859a24"/>月，吟哦唄讚，嘹亮可聽。乃率信士造永興<lb
-ed="T" n="0859a25"/>寺<ptr target="#n670"/>，功成不宰。辭靈帥<persName key="A013474">韓公洙</persName>，入<placeName key="PL000000047078">賀蘭山白<lb
-ed="T" n="0859a26"/>草谷</placeName>，立要持念，感枯泉重湧，有靈蛇游泳<lb
-ed="T" n="0859a27"/>于中。遂陟法臺談講也，道俗蜂屯，檀施<ptr type="glossary" target="#g237"/>山<lb
-ed="T" n="0859a28"/>積。讚唱音響，可遏行雲，獷悍之人，若鴟鴞<lb
+ed="T" n="0859a20"/><anchor n="T.50.2061.0859a20"/><head><date from-iso="+0936-12-05" key="j20632662067017" to-iso="+0947-03-14">晉</date><placeName key="PL000000059087"><placeName>朔方</placeName><placeName>靈武</placeName><placeName>永福寺</placeName></placeName><persName key="A011523">道舟</persName>傳</head><p><lb
+ed="T" n="0859a21"/><persName key="A011523">釋道舟</persName>，姓<name>管</name>氏，<placeName key="PL000000047150"><placeName>朔方</placeName><placeName>迴樂</placeName></placeName>人也。髫年聰雅，<lb
+ed="T" n="0859a22"/>庠序有儀，雖誦《詩》《書》，樂聞<name>釋</name>典，決志出<lb
+ed="T" n="0859a23"/>家于<placeName key="PL000000057922"><placeName>龍興寺</placeName><placeName>孔雀王院</placeName></placeName>。爰得戒珠，漸圓心<lb
+ed="T" n="0859a24"/>月，吟哦唄讚，嘹亮可聽。乃率信士造<placeName key="PL000000059087">永興<lb
+ed="T" n="0859a25"/>寺</placeName><ptr target="#n670"/>，功成不宰。辭<placeName key="PL000000047167">靈</placeName>帥<persName key="A013474">韓<roleName>公</roleName>洙</persName><ptr target="#n2941"/>，入<placeName key="PL000000047078"><placeName>賀蘭山</placeName><placeName>白<lb
+ed="T" n="0859a26"/>草谷</placeName></placeName>，立要持念，感枯泉重湧，有靈蛇游泳<lb
+ed="T" n="0859a27"/>于中──遂陟法臺談講也。道俗蜂屯，檀施<ptr type="glossary" target="#g237"/>山<lb
+ed="T" n="0859a28"/>積，讚唱音響，可遏行雲，獷悍之人，若鴟鴞<lb
 ed="T" n="0859a29"/>之革韻。乃<anchor xml:id="beg0859sgsz6"/>刺<anchor xml:id="end0859sgsz6"/>血<anchor xml:id="beg0859001"/><choice resp="sgsz"><sic>晝</sic><corr>畫</corr></choice><anchor xml:id="end0859001"/>大悲千手眼立像。屬<pb ed="T" n="0859b" xml:id="T50.2061.0859b"/><lb
 ed="T" n="0859b01"/>其亢陽，則絕食瞑目，要期<anchor xml:id="beg0859sgsz7"/>雨<anchor xml:id="end0859sgsz7"/>之通濟，方議<lb
-ed="T" n="0859b02"/>充腸。<date key="j20432312043614" notAfter-iso="+0883-02-14" notBefore-iso="+0882-01-27"><name>中和</name>二年</date>，聞<placeName key="PL000000042002">關輔</placeName>擾攘，乃於城南念定<lb
-ed="T" n="0859b03"/>院塔<!--找不到此地-->下，斷左肱焚之，供養大悲像。願倒冒<lb
-ed="T" n="0859b04"/>干戈，<placeName key="PL000000000214">中原</placeName>塞上，早見弭兵。言畢，迅雷風烈洪<lb
-ed="T" n="0859b05"/>澍焉。又嘗截左耳為民祈雨，復斷食七日<lb
-ed="T" n="0859b06"/>請雪，皆如其願。至于番<anchor xml:id="beg0859sgsz9"/><choice resp="sgsz"><sic>洛</sic><corr>落</corr></choice><anchor xml:id="end0859sgsz9"/><ptr type="glossary" target="#g87"/>，無不祇畏。以<lb
+ed="T" n="0859b02"/>充腸<ptr type="glossary" target="#g1933"/>。<date key="j20432312043614" notAfter-iso="+0883-02-14" notBefore-iso="+0882-01-27"><name>中和</name>二年</date>，聞<placeName key="PL000000042002">關輔</placeName>擾攘，乃於城南<placeName key="PL000000058972">念定<lb
+ed="T" n="0859b03"/>院</placeName>塔下，斷左肱焚之，供養大悲像，「願倒<choice resp="sgsz"><sic>冒</sic><corr>置</corr></choice><lb
+ed="T" n="0859b04"/>干戈<ptr type="glossary" target="#g1934"/>，<placeName key="PL000000000214">中原</placeName>、塞上，早見弭兵。」言畢，迅雷風烈洪<lb
+ed="T" n="0859b05"/>澍<ptr type="glossary" target="#g1935"/>焉。又嘗截左耳為民祈雨、復斷食七日<lb
+ed="T" n="0859b06"/>請雪，皆如其願。至于番<anchor xml:id="beg0859sgsz9"/><choice resp="sgsz"><sic>洛</sic><corr>落</corr></choice><anchor xml:id="end0859sgsz9"/><ptr type="glossary" target="#g87"/>，無不祇畏<ptr type="glossary" target="#g766"/>。以<lb
 ed="T" n="0859b07"/><date key="j20648232064823" when-iso="+0941-03-11"><name>天福</name>六年辛丑歲二月六日</date>，其夜未央，結加<lb
-ed="T" n="0859b08"/>趺坐，留累門人方畢而絕。享齡七十有八，<lb
+ed="T" n="0859b08"/>趺坐，留累門人方畢而絕，享齡七十有八。<lb
 ed="T" n="0859b09"/>遺骸不散，如入禪定，遂加漆紵焉。<date key="j20717322073130" notAfter-iso="+0963-12-08" notBefore-iso="+0960-02-09"><name>建隆</name>中</date>，<lb
-ed="T" n="0859b10"/><persName key="A013475">郭忠恕</persName>者博覽群籍小學，尤長篆隷，為能<lb
-ed="T" n="0859b11"/>多事，凌轢因過，投于北裔，詢<persName key="A011523">舟</persName>前烈，著碑<lb
+ed="T" n="0859b10"/><persName key="A013475">郭忠恕</persName>者──博覽群籍小學，尤長篆隷，為能<lb
+ed="T" n="0859b11"/>多事──，凌轢<ptr type="glossary" target="#g1936"/>因過，投于北裔<ptr target="#n2940"/>，詢<persName key="A011523">舟</persName>前烈，著碑<lb
 ed="T" n="0859b12"/>頌焉。</p>
     <linkGrp>
+        <link targets="#0859a21 #0859a21"/>
+        <ptr target="#A011523" type="person"/>
+        <ptr target="#PL000000047150" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0859a23 #0859a23"/>
+        <ptr target="#A011523" type="person"/>
+        <ptr target="#PL000000057922" type="place"/>
+    </linkGrp>
+    <linkGrp>
         <link targets="#0859a24 #0859a25"/>
+        <ptr target="#A011523" type="person"/>
+        <ptr target="#PL000000059087" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0859a25 #0859a26"/>
         <ptr target="#A011523" type="person"/>
         <ptr target="#A013474" type="person"/>
     </linkGrp>
@@ -31,5 +46,23 @@ ed="T" n="0859b12"/>頌焉。</p>
         <link targets="#0859a25 #0859a27"/>
         <ptr target="#A011523" type="person"/>
         <ptr target="#PL000000047078" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0859b02 #0859b05"/>
+        <ptr target="#A011523" type="person"/>
+        <ptr target="#PL000000058972" type="place"/>
+        <ptr target="#j20432312043614" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0859b06 #0859b08"/>
+        <ptr target="#A011523" type="person"/>
+        <ptr target="#PL000000059087" type="place"/>
+        <ptr target="#j20648232064823" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0859b06 #0859b08"/>
+        <ptr target="#A013475" type="person"/>
+        <ptr target="#PL000000047121" type="place"/>
+        <ptr target="#j20717322073130" type="time"/>
     </linkGrp>
 </div>

@@ -1,76 +1,81 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" type="感通" xml:id="gsz0836c01shiWuZhe"><pb n="0836c" xml:id="T50.2061.0836c" ed="T"/><lb
-ed="T" n="0836c01"/><anchor n="T.50.2061.0836c01"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date><anchor xml:id="beg0836005"/>代州五臺山<anchor xml:id="end0836005"/>華嚴寺<persName key="A009517">無著</persName>傳</head><p><lb
+ed="T" n="0836c01"/><anchor n="T.50.2061.0836c01"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date><placeName key="PL000000005362"><placeName><anchor xml:id="beg0836005"/>代州</placeName><placeName>五臺山<anchor xml:id="end0836005"/></placeName><placeName>華嚴寺</placeName></placeName><persName key="A009517">無著</persName>傳</head><p><lb
 ed="T" n="0836c02"/><persName key="A009517">釋無著</persName>，<placeName key="PL000000012521">永嘉</placeName>人也<ptr target="#n576"/>，識度寬明，秉操貞礭。留神<lb
 ed="T" n="0836c03"/>大道，約志遊方，抵于京師<placeName key="PL000000042591">雲華寺</placeName>，就<persName key="A001755">澄觀<lb
-ed="T" n="0836c04"/>法師</persName>研習華嚴之教。凡諸經論，志極旁通，然<lb
+ed="T" n="0836c04"/><roleName>法師</roleName></persName>研習華嚴之教。凡諸經論，志極旁通，然<lb
 ed="T" n="0836c05"/>於華藏海，終誓遨遊。以<date from-iso="+0767-02-08" key="j20012392001592" to-iso="+0768-01-27"><name>大曆</name>二年</date>入<placeName key="PL000000005250">五臺<lb
-ed="T" n="0836c06"/>山</placeName>，肆欲觀聖人之境界。<date key="j20013562001385" notAfter-iso="+0767-07-04" notBefore-iso="+0767-06-05">五月</date>，到<placeName key="PL000000005362">華嚴寺</placeName>挂<lb
-ed="T" n="0836c07"/>錫，始於堂中啜茶。見老僧寢陋，據北床。問<lb
-ed="T" n="0836c08"/>曰：「<persName key="A009517">子</persName>從南方來，還齎數珠請看。」<persName key="A009517">著</persName>乃躬度<lb
-ed="T" n="0836c09"/>之。迴視之間，失僧之所。于時神情𢠵<anchor xml:id="beg0836006"/>恍<anchor xml:id="end0836006"/>，疑<lb
-ed="T" n="0836c10"/>喜交生，曰：「昔僧明入此，覩石臼木杵，後得<lb
-ed="T" n="0836c11"/>入聖寺獲見聖賢。<persName key="A009517">我</persName>願止此，其為快乎！」<lb
-ed="T" n="0836c12"/>次由般若經樓見吉祥鳥<ptr target="#n577"/>羽毛蒨絢，雙飛<lb
-ed="T" n="0836c13"/>于頂上，望東北鼓翼而去。明日有白光兩<lb
+ed="T" n="0836c06"/>山</placeName><ptr target="#n2596"/>，肆欲觀聖人之境界。<date key="j20013562001385" notAfter-iso="+0767-07-04" notBefore-iso="+0767-06-05">五月</date>，到<placeName key="PL000000005362">華嚴寺</placeName>挂<lb
+ed="T" n="0836c07"/>錫。始於堂中啜茶，見老僧寢陋，據北床問<lb
+ed="T" n="0836c08"/>曰：「<ref type="person" target="#A009517">子</ref>從南方來，還齎數珠請看。」<ptr target="#n2603"/><persName key="A009517">著</persName>乃躬度<lb
+ed="T" n="0836c09"/>之。迴視之間，失僧之所。于時神情𢠵<anchor xml:id="beg0836006"/>恍<anchor xml:id="end0836006"/><ptr type="glossary" target="#g1054"/>，疑<lb
+ed="T" n="0836c10"/>喜交生，曰：「昔<persName key="A007008">僧明</persName>入此<ptr target="#n2595"/>，覩石臼木杵，後得<lb
+ed="T" n="0836c11"/>入聖寺獲見聖賢。<ref type="person" target="#A009517">我</ref>願止此，其為快乎！」<lb
+ed="T" n="0836c12"/>次由般若經樓見吉祥鳥羽毛蒨絢，雙飛<lb
+ed="T" n="0836c13"/>于頂上，望東北鼓翼而去。明日<ptr target="#n577"/>有白光兩<lb
 ed="T" n="0836c14"/>穗，入戶悠颺，少頃而滅。同房僧<persName key="A019445">法等</persName>見而驚<lb
 ed="T" n="0836c15"/>怪，言曰：「此何祥也？願期再現，斷眾生疑。」尋<lb
 ed="T" n="0836c16"/>覩光如前。因往<placeName key="PL000000005328">金剛窟</placeName>，望中致禮，方坐假<lb
 ed="T" n="0836c17"/>寐，聞叱牛三聲云：「飲水。」一翁古貌<anchor xml:id="beg0836sgsz12"/><choice resp="sgsz"><sic>壞</sic><corr>瓌</corr></choice><anchor xml:id="end0836sgsz12"/>形，服<lb
-ed="T" n="0836c18"/>麁短褐，曳麻屨，巾裹甚異。<persName key="A009517">著</persName>乃迎執其手，<lb
+ed="T" n="0836c18"/>麁短褐，曳麻屨，巾裹甚異<ptr target="#n2597"/>。<persName key="A009517">著</persName>乃迎執其手，<lb
 ed="T" n="0836c19"/>問「從何來？」翁曰：「山外求糧用來。」「居在何地？」<lb
-ed="T" n="0836c20"/>云：「求糧用在<placeName key="PL000000005250">臺山</placeName>。」翻質<persName key="A009517">著</persName>云：「師何戾止？」答<lb
-ed="T" n="0836c21"/>曰：「聞此有<placeName key="PL000000005328">金剛窟</placeName>，故來隨喜。」翁曰：「師困耶？」<lb
+ed="T" n="0836c20"/>云：「求糧用在<placeName key="PL000000005250">臺山</placeName>。」翻質<persName key="A009517">著</persName>云：「<ref type="person" target="#A009517">師</ref>何戾止？」答<lb
+ed="T" n="0836c21"/>曰：「聞此有<placeName key="PL000000005328">金剛窟</placeName>，故來隨喜。」翁曰：「<ref type="person" target="#A009517">師</ref>困耶？」<lb
 ed="T" n="0836c22"/>答曰：「否。」曰：「既不困憊，何輒睡乎？」<persName key="A009517">著</persName>曰：「凡夫<lb
-ed="T" n="0836c23"/>昏沈，胡可怪哉？」曰：「師若昏沈，可去啜煮荈<lb
+ed="T" n="0836c23"/>昏沈，胡可怪哉？」曰：「<ref type="person" target="#A009517">師</ref>若昏沈，可去啜煮荈<ptr type="glossary" target="#g1732"/><lb
 ed="T" n="0836c24"/>乎？」翁指東北，見精舍相距數步餘<ptr target="#n578"/>，<anchor xml:id="beg0836sgsz13"/>翁<anchor xml:id="end0836sgsz13"/>牽牛<lb
 ed="T" n="0836c25"/>前行，<persName key="A009517">著</persName>躡躅而隨。至寺門，喚<persName key="A012489">均提</persName>三聲，童<lb
 ed="T" n="0836c26"/>子譍唯開闔，年可十四、五，垂髮齊眉，衣褐<lb
 ed="T" n="0836c27"/>襦。牽牛入寺，見其地盡是瑠璃，堂舍廊廡<lb
 ed="T" n="0836c28"/>皆耀金色。其間華靡，非人間之制度。翁踞<lb
 ed="T" n="0836c29"/>白牙床<ptr target="#n581"/>，指錦墩揖<persName key="A009517">著</persName>坐。童子捧二甌茶，對<pb ed="T" n="0837a" xml:id="T50.2061.0837a"/><lb
-ed="T" n="0837a01"/>飲畢。擎玳瑁器，滿中酥酪，各賦一匙。<persName key="A009517">著</persName>咽<lb
-ed="T" n="0837a02"/>之，如有所證，神府明豁，悟宿事焉。翁曰：「師<lb
+ed="T" n="0837a01"/>飲畢。擎玳瑁器<ptr target="#n2602"/>，滿中酥酪，各賦一匙。<persName key="A009517">著</persName>咽<lb
+ed="T" n="0837a02"/>之，如有所證，神府明豁，悟宿事焉。翁曰：「<ref type="person" target="#A009517">師</ref><lb
 ed="T" n="0837a03"/>出家來，何營何慮乎？」答曰：「有修無證，大小<lb
-ed="T" n="0837a04"/>二乘，染指而已。」曰：「未知初出家時求何心？」<persName key="A009517">著</persName><lb
-ed="T" n="0837a05"/>云：「求大乘菩提心。」曰：「師以初心修即得。」又<lb
-ed="T" n="0837a06"/>問「齒臘幾何？」「三十一矣。」翁云：「師之純淑，年三<lb
-ed="T" n="0837a07"/>十八則其福根荄<anchor xml:id="beg0837001"/>植<anchor xml:id="end0837001"/>此地而榮茂歟？且徐<lb
+ed="T" n="0837a04"/>二乘，染指<ptr type="glossary" target="#g665"/>而已。」曰：「未知初出家時求何心？」<persName key="A009517">著</persName><lb
+ed="T" n="0837a05"/>云：「求大乘菩提心。」曰：「<ref type="person" target="#A009517">師</ref>以初心修即得。」又<lb
+ed="T" n="0837a06"/>問「齒臘幾何？」「三十一矣。」翁云：「<ref type="person" target="#A009517">師</ref>之純淑，年三<lb
+ed="T" n="0837a07"/>十八則其福根荄<anchor xml:id="beg0837001"/>植<anchor xml:id="end0837001"/>此地而榮茂歟！且徐<lb
 ed="T" n="0837a08"/>徐下山，好尋道路，勿傷厥足。吾年老朽，從<lb
 ed="T" n="0837a09"/>山外來，困極欲偃息也。」<persName key="A009517">著</persName>請：「寓一宵可乎？」<lb
-ed="T" n="0837a10"/>曰：「不可。緣師有兩伴相隨，今夜不見師<lb
-ed="T" n="0837a11"/>歸，憂愁曷已？此乃師有執情在。」<persName key="A009517">著</persName>曰：「<persName key="A002799">瞿曇</persName><lb
+ed="T" n="0837a10"/>曰：「不可。緣<ref type="person" target="#A009517">師</ref>有兩伴相隨，今夜不見<ref type="person" target="#A009517">師</ref><lb
+ed="T" n="0837a11"/>歸，憂愁曷已？此乃<ref type="person" target="#A009517">師</ref>有執情在。」<persName key="A009517">著</persName>曰：「<persName key="A002799">瞿曇</persName><lb
 ed="T" n="0837a12"/>弟子有何執處？雖然有伴，不顧戀他。」又問：<lb
-ed="T" n="0837a13"/>「持三衣否？」曰：「受戒已來持之。」曰：「此是封執<lb
-ed="T" n="0837a14"/>處。」<persName key="A009517">著</persName>曰：「亦有聖教在。若許住宿，心念捨<lb
+ed="T" n="0837a13"/>「持三衣<ptr type="glossary" target="#g1386"/>否？」曰：「受戒已來持之。」曰：「此是封執<lb
+ed="T" n="0837a14"/>處。」<persName key="A009517">著</persName>曰：「亦有聖教在。若許住宿，心念<ptr target="#n2598"/>捨<lb
 ed="T" n="0837a15"/>之。脫有強緣，佛故聽許。」曰：「若依小乘，無難<lb
-ed="T" n="0837a16"/>不得捨衣。宜從急護。」翁拂襟投袂而作，<persName key="A009517">著</persName><lb
-ed="T" n="0837a17"/>亦趨行。翁曰：「聽吾宣偈；一念淨心是菩提，<lb
+ed="T" n="0837a16"/>不得捨衣。宜從急護<ptr type="glossary" target="#g81"/>。」翁拂襟投袂而作，<persName key="A009517">著</persName><lb
+ed="T" n="0837a17"/>亦趨行。翁曰：「聽吾宣偈『一念淨心是菩提，<lb
 ed="T" n="0837a18"/>勝造恒沙七寶塔。寶塔究盡碎為塵，一念淨<lb
-ed="T" n="0837a19"/>心成正覺。<ptr target="#n582"/>」<persName key="A009517">著</persName>俯聽凝神，謝曰：「蒙宣密偈，若<lb
-ed="T" n="0837a20"/>飲醍醐<ptr type="glossary" target="#g883"/>。容入智門，敢忘指決。丈人可謂知<lb
-ed="T" n="0837a21"/>言，銘刻心府。」翁喚<persName key="A012489">均提</persName>可送<persName key="A009517">師</persName>去。臨行<lb
+ed="T" n="0837a19"/>心成正覺。』<ptr target="#n582"/>」<persName key="A009517">著</persName>俯聽凝神，謝曰：「蒙宣密偈，若<lb
+ed="T" n="0837a20"/>飲醍醐<ptr rend="display:none;" type="glossary" target="#g883"/>。容入智門，敢忘指決<ptr type="glossary" target="#g180"/>。丈人可謂知<lb
+ed="T" n="0837a21"/>言，銘刻心府。」翁喚<persName key="A012489">均提</persName>可送<ref type="person" target="#A009517">師</ref>去。臨行<lb
 ed="T" n="0837a22"/>拊背曰：「好去。」<persName key="A009517">著</persName>再折腰，與童子駢肩齊步，<lb
 ed="T" n="0837a23"/>至<placeName key="PL000000005328">金剛窟</placeName>前，問童子：「此何伽藍，不懸題額？」<lb
 ed="T" n="0837a24"/>童子指<placeName key="PL000000005328">金剛窟</placeName>反問<persName key="A009517">著</persName>云：「伊何窟乎？」曰：「先<lb
 ed="T" n="0837a25"/>代相傳，名<placeName key="PL000000005328">金剛窟</placeName>」童子曰：「金剛下有何字？」<lb
-ed="T" n="0837a26"/><persName key="A009517">著</persName>惟忖少選曰：「金剛下有般若<ptr target="#n583"/>。」童子唍爾，<lb
-ed="T" n="0837a27"/>「適入者<placeName key="PL000000005395">般若寺</placeName>也。」<persName key="A009517">著</persName>携童子手，揖顧而別。童<lb
-ed="T" n="0837a28"/>子瞠目視<persName key="A009517">著</persName>，如欲吐辭。<persName key="A009517">著</persName>曰：「送<persName key="A009517">我</persName>，可以言<lb
-ed="T" n="0837a29"/>代縞帶與玉<anchor xml:id="beg0837sgsz1"/>玦<anchor xml:id="end0837sgsz1"/>乎？」童子遂宣偈㖟云：「面上<pb ed="T" n="0837b" xml:id="T50.2061.0837b"/><lb
+ed="T" n="0837a26"/><persName key="A009517">著</persName>惟忖少選曰：「金剛下有般若。」童子唍爾，<lb
+ed="T" n="0837a27"/>「適入者<placeName key="PL000000005395">般若寺</placeName>也。<ptr target="#n583"/>」<persName key="A009517">著</persName>携童子手，揖顧而別。童<lb
+ed="T" n="0837a28"/>子瞠目視<persName key="A009517">著</persName>，如欲吐辭。<persName key="A009517">著</persName>曰：「送<ref type="person" target="#A009517">我</ref>可以言<lb
+ed="T" n="0837a29"/>代縞帶<ptr type="glossary" target="#g1733"/>與玉<anchor xml:id="beg0837sgsz1"/>玦<anchor xml:id="end0837sgsz1"/><ptr type="glossary" target="#g1734"/>乎？」童子遂宣偈㖟云：「面上<pb ed="T" n="0837b" xml:id="T50.2061.0837b"/><lb
 ed="T" n="0837b01"/>無瞋供養具，口裏無瞋吐妙香，心裏無瞋<lb
 ed="T" n="0837b02"/>是珍寶，無染無垢是真常<ptr target="#n586"/>。」偈終，恍惚之間，童<lb
-ed="T" n="0837b03"/>子及聖寺俱滅，唯見山林土石。悢悢盈懷，<lb
+ed="T" n="0837b03"/>子及聖寺<ptr target="#n2599"/>俱滅，唯見山林土石。悢悢<ptr type="glossary" target="#g1735"/>盈懷，<lb
 ed="T" n="0837b04"/>歔欷不已，歎曰：「緒言餘論，若笙鏞之末響，<lb
 ed="T" n="0837b05"/>猶在乎耳。」諦觀山翁立處，有白雲<anchor xml:id="beg0837002"/>冉冉<anchor xml:id="end0837002"/>湧<lb
-ed="T" n="0837b06"/>起，去地尋常許，變成五色雲霓，上有大聖<lb
+ed="T" n="0837b06"/>起，去地尋常許，變成五色雲霓，上有大聖<ptr type="glossary" target="#g1736"/><lb
 ed="T" n="0837b07"/>乘師子而諸菩薩圍遶。食頃，東方白雲<ptr target="#n590"/>一段，<lb
-ed="T" n="0837b08"/>漸遮菩薩面，群像與雲偕滅。<persName key="A009517">著</persName>倏見汾州<lb
-ed="T" n="0837b09"/><placeName key="PL000000006206">菩提寺</placeName>主僧<persName key="A012490">修政</persName>等六人，相將還至<placeName key="PL000000005328">窟</placeName>前，作<lb
+ed="T" n="0837b08"/>漸遮菩薩面，群像與雲偕滅。<persName key="A009517">著</persName>倏見<placeName key="PL000000006206"><placeName>汾州</placeName><lb
+ed="T" n="0837b09"/><placeName>菩提寺</placeName></placeName><ptr target="#n2600"/>主僧<persName key="A012490">修政</persName>等六人，相將<ptr type="glossary" target="#g1737"/>還至<ref type="place" target="#PL000000005328">窟</ref>前作<lb
 ed="T" n="0837b10"/><anchor xml:id="beg0837sgsz3"/>禮<anchor xml:id="end0837sgsz3"/>。忽聞山石振吼，聲如霹靂，諸僧奔走。良<lb
 ed="T" n="0837b11"/>久，寂無所覩。<persName key="A009517">著</persName>遂陳遭遇，六人悔責不見<lb
 ed="T" n="0837b12"/>聖容，咫尺綿邈，知罪障之屏翳歟！<persName key="A009517">著</persName>遂隱<lb
-ed="T" n="0837b13"/>此山而終。<date notBefore-iso="+0806-01-29" key="j20154742020606" notAfter-iso="+0820-02-17"><name>元和</name>中</date>門人<persName key="A012491">文一</persName>追述焉。</p>
+ed="T" n="0837b13"/>此山而終。<date notBefore-iso="+0806-01-29" key="j20154742020606" notAfter-iso="+0820-02-17"><name>元和</name>中</date>門人<persName key="A012491">文一</persName>追述焉<ptr target="#n2601"/>。</p>
+    <linkGrp>
+        <link targets="#0836c02 #0836c02"/>
+        <ptr target="#A009517" type="person"/>
+        <ptr target="#PL000000012521" type="place"/>
+    </linkGrp>
     <linkGrp>
         <link targets="#0836c03 #0836c05"/>
         <ptr target="#A009517" type="person"/>
@@ -107,6 +112,11 @@ ed="T" n="0837b13"/>此山而終。<date notBefore-iso="+0806-01-29" key="j20154
         <ptr target="#PL000000005395" type="place"/>
     </linkGrp>
     <linkGrp>
+        <link targets="#0837b08 #0837b09"/>
+        <ptr target="#A012490" type="person"/>
+        <ptr target="#PL000000006206" type="place"/>
+    </linkGrp>
+    <linkGrp>
         <link targets="#0837b08 #0837b12"/>
         <ptr target="#A009517" type="person"/>
         <ptr target="#A012490" type="person"/>
@@ -116,5 +126,10 @@ ed="T" n="0837b13"/>此山而終。<date notBefore-iso="+0806-01-29" key="j20154
         <link targets="#0837b13 #0837b13"/>
         <ptr target="#A009517" type="person"/>
         <ptr target="#A012491" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0837b13 #0837b13"/>
+        <ptr target="#A012491" type="person"/>
+        <ptr target="#j20154742020606" type="time"/>
     </linkGrp>
 </div>

@@ -1,19 +1,19 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" type="感通" xml:id="gsz0841b06shiPuMan"><lb
-ed="T" n="0841b06"/><anchor n="T.50.2061.0841b06"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date>潞州<persName key="A012747">普滿</persName>傳</head><p><lb
+ed="T" n="0841b06"/><anchor n="T.50.2061.0841b06"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date><placeName key="PL000000004130">潞州</placeName><persName key="A012747">普滿</persName>傳</head><p><lb
 ed="T" n="0841b07"/><persName key="A012747">釋普滿</persName>者，未知何許人也。於<placeName key="PL000000006221">汾</placeName>、<placeName key="PL000000005710">晉</placeName>間，所為<lb
 ed="T" n="0841b08"/>率意，不拘僧體，或歌或哭，莫喻其旨。以言<lb
-ed="T" n="0841b09"/>斥事，往必有徵，故時人以強練<persName key="A011670">萬迴</persName>待之。<lb
-ed="T" n="0841b10"/>或入稽胡<ptr target="#n1891"/>，激勸修善，至有罷弋獵者。<date notBefore-iso="+0780-02-15" key="j20059942006355" notAfter-iso="+0781-02-10"><name>建中</name><lb
+ed="T" n="0841b09"/>斥事，往必有徵，故時人以<persName key="A005932">強練</persName>、<persName key="A011670">萬迴</persName>待之。<lb
+ed="T" n="0841b10"/>或入<name>稽胡</name><ptr target="#n1891"/>，激勸修善，至有罷弋獵者。<date notBefore-iso="+0780-02-15" key="j20059942006355" notAfter-iso="+0781-02-10"><name>建中</name><lb
 ed="T" n="0841b11"/>初</date>，於<placeName key="PL000000004130">潞州</placeName>佛舍中題詩數篇而亡去。所記<lb
-ed="T" n="0841b12"/>者云：「此水連涇水，雙朱血滿川。青牛將赤<lb
+ed="T" n="0841b12"/>者云：「此水連涇水，雙朱血滿川；青牛將赤<lb
 ed="T" n="0841b13"/>虎，還號太平年。」題後，人莫能知。至<persName key="A008866">朱泚</persName>為<lb
 ed="T" n="0841b14"/><placeName key="PL000000045417">涇源</placeName>叛徒推擁，<ref type="person" target="#A004215">駕</ref>幸<placeName key="PL000000043115">奉天</placeName>。<anchor xml:id="beg0841sgsz5"/><choice resp="sgsz"><sic>干</sic><corr>于</corr></choice><anchor xml:id="end0841sgsz5"/>時天下徵兵，<lb
-ed="T" n="0841b15"/><placeName key="PL000000042002">關輔</placeName>賊據，圍逼連戰，人方解悟。此水者，<persName key="A008866">泚</persName>也。<lb
-ed="T" n="0841b16"/>涇水者，<placeName key="PL000000045417">涇州</placeName>來兵始亂也。雙朱，<persName key="A008866">泚</persName>與<persName key="A010457">滔</persName>也。青<lb
-ed="T" n="0841b17"/>牛者，<date from-iso="+0785-02-18" key="j20078242008178" to-iso="+0786-02-07"><name>興元</name>元年乙丑</date>。乙<anchor xml:id="beg0841sgsz7"/>木<anchor xml:id="end0841sgsz7"/>，青也。丑，牛也。其年<lb
-ed="T" n="0841b18"/>改元<name>貞元</name>，至<date from-iso="+0786-02-08" key="j20081792008532" to-iso="+0787-01-27">二年丙寅</date>。丙火，赤也；寅，虎也。<lb
-ed="T" n="0841b19"/>至是賊始平，故曰還號太平年也。</p>
+ed="T" n="0841b15"/><placeName key="PL000000042002">關輔</placeName>賊據，圍逼連戰，人方解悟。此水者，<persName key="A008866">泚</persName>也；<lb
+ed="T" n="0841b16"/>涇水者，<placeName key="PL000000045417">涇州</placeName>來兵始亂也；雙朱，<persName key="A008866">泚</persName>與<persName key="A010457">滔</persName>也；青<lb
+    ed="T" n="0841b17"/>牛者，<date from-iso="+0785-02-18" key="j20078242008178" to-iso="+0786-02-07"><name>興元</name><choice resp="sgsz"><sic>元</sic><corr>二</corr></choice>年乙丑</date>──乙<anchor xml:id="beg0841sgsz7"/>木<anchor xml:id="end0841sgsz7"/>，青也；丑，牛也──，其年<lb
+        ed="T" n="0841b18"/>改元<name>貞元</name>，至<date from-iso="+0786-02-08" key="j20081792008532" to-iso="+0787-01-27">二年丙寅</date>──丙火，赤也；寅，虎也──，<lb
+ed="T" n="0841b19"/>至是賊始平<ptr target="#n2643"/>，故曰還號太平年也。</p>
     <linkGrp>
         <link targets="#0841b07 #0841b09"/>
         <ptr target="#A012747" type="person"/>
@@ -29,6 +29,16 @@ ed="T" n="0841b19"/>至是賊始平，故曰還號太平年也。</p>
         <ptr target="#A012747" type="person"/>
         <ptr target="#PL000000004130" type="place"/>
         <ptr target="#j20059942006355" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0841b13 #0841b14"/>
+        <ptr target="#A008866" type="person"/>
+        <ptr target="#PL000000045417" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0841b14 #0841b14"/>
+        <ptr target="#A004215" type="person"/>
+        <ptr target="#PL000000043115" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0841b16 #0841b16"/>

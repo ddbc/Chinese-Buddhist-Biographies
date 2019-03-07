@@ -1,47 +1,57 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" type="護法" xml:id="gsz0818a19shiXuanChang"><lb
-ed="T" n="0818a19"/><anchor n="T.50.2061.0818a19"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date>京兆福壽寺<persName key="A009180">玄暢</persName>傳</head><p><lb
-ed="T" n="0818a20"/><persName key="A009180">釋玄暢</persName>，字<persName key="A009180">申之</persName>，俗姓陳氏，<placeName key="PL000000016956">宣城</placeName>人也。<persName key="A009180">暢</persName>爰<lb
-ed="T" n="0818a21"/>在弱齡，便持異操，戲則聚沙為塔，摘葉為<lb
-ed="T" n="0818a22"/>香。<date key="j20150812015445" from-iso="+0805-01-01" to-iso="+0805-12-31">年九歲</date>，於涇邑<placeName key="PL000000017025">水西寺</placeName>依<persName key="A011959">清逸</persName>上人，教<lb
-ed="T" n="0818a23"/>授經法。<date key="j20187332019097" from-iso="+0815-01-01" to-iso="+0815-12-31">年十九</date>，削髮。<date key="j20190982019463" from-iso="+0816-01-01" to-iso="+0816-12-31">二十歲</date>，往<placeName key="PL000000017165">福州</placeName>兜率戒<lb
+ed="T" n="0818a19"/><anchor n="T.50.2061.0818a19"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date><placeName key="PL000000042216"><placeName>京兆</placeName><placeName>福壽寺</placeName></placeName><persName key="A009180">玄暢</persName>傳</head><p><lb
+ed="T" n="0818a20"/><persName key="A009180">釋玄暢</persName>，字<persName key="A009180">申之</persName>，俗姓<name>陳</name>氏，<placeName key="PL000000016955">宣城</placeName>人也。<persName key="A009180">暢</persName>爰<lb
+ed="T" n="0818a21"/>在弱齡，便持異操，戲則聚沙為塔<ptr target="#n516"/>摘葉為<lb
+ed="T" n="0818a22"/>香。<date key="j20151182015472" from-iso="+0805-02-07" to-iso="+0806-01-27">年九歲</date>，於<placeName key="PL000000017025"><placeName>涇邑</placeName><placeName>水西寺</placeName></placeName>依<persName key="A011959">清逸</persName>上人，教<lb
+ed="T" n="0818a23"/>授經法。<date key="j20187802019133" from-iso="+0815-02-17" to-iso="+0816-02-05">年十九</date>，削髮。<date key="j20191342019487" from-iso="+0816-02-06" to-iso="+0817-01-24">二十歲</date>，往<placeName key="PL000000017165">福州</placeName>兜率戒<lb
 ed="T" n="0818a24"/>壇受具足戒，聽掇律科，深得宗旨。新繒細<lb
-ed="T" n="0818a25"/>縷，一染色佳，而往<placeName key="PL000000013239">越中</placeName>求聞異說。仰京室<lb
-ed="T" n="0818a26"/><placeName key="PL000000042216">西明寺</placeName>有<persName key="A001519">宣律師</persName>舊院，多藏毘尼教迹，因<lb
-ed="T" n="0818a27"/>栖<persName key="A011952">惠正律師</persName>法席。自入<placeName key="PL000000042189">京華</placeName>，漸萌頭角，受<lb
-ed="T" n="0818a28"/><placeName key="PL000000042189">京城</placeName>三學大德，益廣見聞。方事講談，遽鐘<lb
-ed="T" n="0818a29"/>堙厄，則<date from-iso="+0841-02-08" key="j20282682030170" to-iso="+0846-04-25"><name>會昌</name></date>廢教矣。時<placeName key="PL000000042189">京城</placeName>法侶頗甚徬徨，<pb ed="T" n="0818b" xml:id="T50.2061.0818b"/><lb
+ed="T" n="0818a25"/>縷，一染色佳，而往<placeName key="PL000000013239">越</placeName>中求聞異說。仰<ref type="place" target="#PL000000042189">京室</ref><lb
+ed="T" n="0818a26"/><placeName key="PL000000042216">西明寺</placeName>有<persName key="A001519">宣<roleName>律師</roleName></persName>舊院，多藏毘尼教迹，因<lb
+ed="T" n="0818a27"/>栖<persName key="A011952">惠正<roleName>律師</roleName></persName>法席。自入<ref type="place" target="#PL000000042189">京華</ref>，漸萌頭角，受<lb
+ed="T" n="0818a28"/><ref type="place" target="#PL000000042189">京城</ref>三學<ptr type="glossary" target="#g182"/>大德，益廣見聞。方事講談，遽鐘<lb
+ed="T" n="0818a29"/>堙厄<ptr type="glossary" target="#g1152"/>，則<date from-iso="+0841-02-08" key="j20282682030170" to-iso="+0846-04-25"><name>會昌</name></date>廢教矣！時<ref type="place" target="#PL000000042189">京城</ref>法侶頗甚徬徨，<pb ed="T" n="0818b" xml:id="T50.2061.0818b"/><lb
 ed="T" n="0818b01"/>兩街僧錄<persName key="A011953">靈宴</persName>、<persName key="A011954">辯章</persName>，同推<persName key="A009180">暢</persName>為首，上表論諫。<lb
 ed="T" n="0818b02"/>遂著《歷代帝王錄》，奏而弗聽。由是例從俗<lb
-ed="T" n="0818b03"/>服，寧弛道情，龍蛇伏蟄而待時，玉石同焚<lb
-ed="T" n="0818b04"/>而莫救。殆夫武皇厭代，<persName key="A003667">宣宗</persName>在天，坏戶重<lb
-ed="T" n="0818b05"/>開，炎崗息熾。<persName key="A009180">暢</persName>於<date notBefore-iso="+0847-02-10" key="j20304612035056" notAfter-iso="+0859-09-10"><name>大中</name>中</date>，凡遇誕辰，入內<lb
-ed="T" n="0818b06"/>談論，即賜紫袈裟，充內外臨壇大德。<persName key="A006571">懿宗</persName><lb
-ed="T" n="0818b07"/>欽其宿德，蕃錫屢臻。乃奏修《加懺悔一萬五<lb
-ed="T" n="0818b08"/>千佛名經》，又奏請《本生心地觀經》一部八卷，<lb
-ed="T" n="0818b09"/>皆入《藏》。<persName key="A009180">暢</persName>時充追福院<!--找不到此地-->首領，又充<placeName key="PL000000042422">總持寺</placeName><lb
+ed="T" n="0818b03"/>服，寧弛道情，龍蛇伏蟄<ptr target="#n1106"/>而待時，玉石同焚<lb
+ed="T" n="0818b04"/>而莫救。殆夫<persName key="A006570">武皇</persName>厭代，<persName key="A003667">宣宗</persName>在天，坏戶重<lb
+ed="T" n="0818b05"/>開，炎崗<ptr target="#n2233"/>息熾。<persName key="A009180">暢</persName>於<date notBefore-iso="+0847-02-10" key="j20304612035523" notAfter-iso="+0860-12-20"><name>大中</name>中</date>，凡遇誕辰<ptr target="#n980"/>，入內<lb
+ed="T" n="0818b06"/>談論，即賜紫袈裟<ptr target="#n2257"/>，充內外臨壇大德。<persName key="A006571">懿宗</persName><lb
+ed="T" n="0818b07"/>欽其宿德，蕃<ptr type="glossary" target="#g1140"/>錫屢臻。乃奏修加《懺悔一萬五<lb
+ed="T" n="0818b08"/>千佛名經》<ptr target="#n2258"/>，又奏請《本生心地觀經》<ptr target="#n976"/>一部八卷，<lb
+ed="T" n="0818b09"/>皆入藏。<persName key="A009180">暢</persName>時充<placeName key="PL000000058067">追福院</placeName>首領，又充<placeName key="PL000000042422">總持寺</placeName><lb
 ed="T" n="0818b10"/>都維那，尋署上座。<persName key="A009180">暢</persName>講律六十座，度法者<lb
-ed="T" n="0818b11"/>數千人，撰《顯正記》一十卷，科《六<anchor xml:id="beg0818sgsz5"/>帖<anchor xml:id="end0818sgsz5"/>名義圖》三<lb
-ed="T" n="0818b12"/>卷、《三寶五運》三卷，雖祖述舊聞，標題新目，<lb
-ed="T" n="0818b13"/>義出意表，文濟時須。<date notBefore-iso="+0874-12-21" key="j20406372042521" notAfter-iso="+0880-02-17"><name>乾符</name>中</date>，<persName key="A006571">懿宗</persName>簡自上<lb
-ed="T" n="0818b14"/>心，特賜<persName key="A009180">師</persName>號曰<persName key="A009180">法寶</persName>。<date key="j20407712040771" when-iso="+0875-05-04">二年三月二十一日</date><lb
+ed="T" n="0818b11"/>數千人，撰《顯正記》一十卷<ptr target="#n2261"/>、《科六<anchor xml:id="beg0818sgsz5"/>帖<anchor xml:id="end0818sgsz5"/>名義圖》三<lb
+ed="T" n="0818b12"/>卷、《三寶五運》三卷<ptr target="#n2259"/>，雖祖述舊聞，標題新目，<lb
+ed="T" n="0818b13"/>義出意表，文濟時須。<date notBefore-iso="+0874-12-21" key="j20406372042521" notAfter-iso="+0880-02-17"><name>乾符</name>中</date>，<persName key="A005228"><choice resp="sgsz"><sic>懿</sic><corr>僖</corr></choice>宗</persName><ptr target="#n2260"/>簡自上<lb
+    ed="T" n="0818b14"/>心，特賜<ref type="person" target="#A009180">師</ref>號曰<persName key="A009180">法寶</persName>。<date key="j20407712040771" when-iso="+0875-05-04">二年三月二十一日</date><lb
 ed="T" n="0818b15"/>示滅，俗齡七十九，僧臘五十九。弟子賜紫<persName key="A011956">惠<lb
-ed="T" n="0818b16"/>柔</persName>大德<persName key="A011957">師遂</persName>、<persName key="A011958">宗紹</persName>，以<date key="j20408042040804" when-iso="+0875-06-06">其年四月二十五日</date>窆<lb
-ed="T" n="0818b17"/><anchor xml:id="beg0818sgsz7"/>于<anchor xml:id="end0818sgsz7"/>長安邑高陽鄉<placeName key="PL000000042095">小梁村</placeName>。<date from-iso="+0877-01-22" key="j20414002041783" to-iso="+0878-02-09">四年丁酉歲</date>，尚書<lb
-ed="T" n="0818b18"/>禮部侍郎<persName key="A011955">崔沆</persName>與<persName key="A009180">暢</persName>交分殊深，著《碑》述遺<lb
+ed="T" n="0818b16"/>柔</persName>，大德<persName key="A011957">師遂</persName>、<persName key="A011958">宗紹</persName>，以<date key="j20408042040804" when-iso="+0875-06-06">其年四月二十五日</date>窆<lb
+ed="T" n="0818b17"/><anchor xml:id="beg0818sgsz7"/>于<anchor xml:id="end0818sgsz7"/><placeName key="PL000000042095"><placeName>長安邑</placeName><placeName>高陽鄉</placeName><placeName>小梁村</placeName></placeName>。<date from-iso="+0877-01-22" key="j20414002041783" to-iso="+0878-02-09">四年丁酉歲</date>，尚書<lb
+ed="T" n="0818b18"/>禮部侍郎<persName key="A011955">崔沆</persName>與<persName key="A009180">暢</persName>交分殊深，著碑述遺<lb
 ed="T" n="0818b19"/>跡焉。</p>
+    <linkGrp>
+        <link targets="#0818a20 #0818a20"/>
+        <ptr target="#A009180" type="person"/>
+        <ptr target="#PL000000016955" type="place"/>
+    </linkGrp>
     <linkGrp>
         <link targets="#0818a22 #0818a23"/>
         <ptr target="#A009180" type="person"/>
         <ptr target="#A011959" type="person"/>
         <ptr target="#PL000000017025" type="place"/>
-        <ptr target="#j20150812015445" type="time"/>
+        <ptr target="#j20151182015472" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0818a23 #0818a23"/>
+        <ptr target="#A009180" type="person"/>
+        <ptr target="#j20187802019133" type="time"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0818a23 #0818a24"/>
         <ptr target="#A009180" type="person"/>
         <ptr target="#PL000000017165" type="place"/>
-        <ptr target="#j20190982019463" type="time"/>
+        <ptr target="#j20191342019487" type="time"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0818a25 #0818a25"/>
@@ -49,32 +59,31 @@ ed="T" n="0818b19"/>跡焉。</p>
         <ptr target="#PL000000013239" type="place"/>
     </linkGrp>
     <linkGrp>
-        <link targets="#0818a25 #0818a26"/>
+        <link targets="#0818a25 #0818a25"/>
         <ptr target="#A009180" type="person"/>
+        <ptr target="#PL000000013239" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0818a25 #0818a27"/>
+        <ptr target="#A009180" type="person"/>
+        <ptr target="#A011952" type="person"/>
         <ptr target="#PL000000042216" type="place"/>
     </linkGrp>
     <linkGrp>
-        <link targets="#0818a26 #0818a27"/>
-        <ptr target="#A009180" type="person"/>
-        <ptr target="#A011952" type="person"/>
-    </linkGrp>
-    <linkGrp>
-        <link targets="#0818a29 #0818b01"/>
+        <link targets="#0818a29 #0818b02"/>
         <ptr target="#A009180" type="person"/>
         <ptr target="#A011953" type="person"/>
         <ptr target="#A011954" type="person"/>
+        <ptr target="#A006570" type="person"/>
         <ptr target="#PL000000042189" type="place"/>
         <ptr target="#j20282682030170" type="time"/>
-    </linkGrp>
-    <linkGrp>
-        <link targets="#0818b01 #0818b02"/>
-        <ptr target="#A009180" type="person"/>
-        <ptr target="#A006570" type="person"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0818b05 #0818b06"/>
         <ptr target="#A009180" type="person"/>
         <ptr target="#A003667" type="person"/>
+        <ptr target="#PL000000042189" type="place"/>
+        <ptr target="#j20304612035523" type="time"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0818b06 #0818b09"/>
@@ -84,12 +93,23 @@ ed="T" n="0818b19"/>跡焉。</p>
     <linkGrp>
         <link targets="#0818b09 #0818b10"/>
         <ptr target="#A009180" type="person"/>
+        <ptr target="#PL000000058067" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0818b09 #0818b10"/>
+        <ptr target="#A009180" type="person"/>
         <ptr target="#PL000000042422" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0818b13 #0818b14"/>
         <ptr target="#A009180" type="person"/>
-        <ptr target="#A006571" type="person"/>
+        <ptr target="#A005228" type="person"/>
+        <ptr target="#j20406372042521" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0818b14 #0818b15"/>
+        <ptr target="#A009180" type="person"/>
+        <ptr target="#j20407712040771" type="time"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0818b15 #0818b16"/>
@@ -101,10 +121,17 @@ ed="T" n="0818b19"/>跡焉。</p>
         <ptr target="#A011958" type="person"/>
         <ptr target="#A011957" type="person"/>
         <ptr target="#A011956" type="person"/>
+        <ptr target="#PL000000042095" type="place"/>
+        <ptr target="#j20408042040804" type="time"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0818b17 #0818b19"/>
         <ptr target="#A009180" type="person"/>
         <ptr target="#A011955" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0818b17 #0818b19"/>
+        <ptr target="#A011955" type="person"/>
+        <ptr target="#j20414002041783" type="time"/>
     </linkGrp>
 </div>

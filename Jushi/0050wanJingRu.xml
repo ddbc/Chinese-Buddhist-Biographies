@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="jsz0204b13wanJingRu">
+    <p><anchor n="X.88.1646.0204b13"/><lb ed="X" n="0204b13"/><persName key="A016677">萬敬儒</persName><placeName key="PL000000015063">合肥</placeName>人。親亡。廬墓側十八年。刺血寫佛經。斷<lb ed="X" n="0204b14"/>手二指輒復生。<date from-iso="0847-02-10" key="j20304612035056" to-iso="0859-09-10"><persName key="A003667">宣宗</persName>表其家</date><!-- 宣宗大中年間，請參見(http://zh.wikisource.org/zh-hant/新唐書/卷195,2010.06.18)-->。改所居曰<placeName key="PL000000015040">成孝鄉</placeName>(佛法金湯)。</p> 
+    
+    <linkGrp>
+        <link targets="#0204b13 #0204b14"/>
+        <ptr target="#A016677" type="person"/>
+        <ptr target="#PL000000015040" type="place"/>
+        <ptr target="#j20304612035056" type="time"/>
+    </linkGrp> 
+ </div>

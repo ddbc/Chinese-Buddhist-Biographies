@@ -1,30 +1,45 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" type="感通" xml:id="gsz0852a13shiShiJian"><lb
-ed="T" n="0852a13"/><anchor n="T.50.2061.0852a13"/><head><date from-iso="+0951-02-18" key="j20684542071729" to-iso="+0960-02-06">周</date>杭州湖光院<persName key="A012953">師簡</persName>傳</head><p><lb
-ed="T" n="0852a14"/><persName key="A012953">釋師簡</persName>，姓趙氏，<placeName key="PL000000012388">丹丘</placeName>人也。弗循戒範，放肆<lb
-ed="T" n="0852a15"/>恬然，擁破納衣，多誦詞偈。好懸記<placeName key="PL000000011519">杭</placeName>、<placeName key="PL000000013239">越</placeName>間<lb
-ed="T" n="0852a16"/>災福，初無信者，驗猶合符。於<persName key="A000008">一行</persName>、<persName key="A013851">景淳</persName>，山<lb
-ed="T" n="0852a17"/>經地理，別得徑門，常言昔泰山<persName key="A006977">道辯</persName>相塜得<lb
-ed="T" n="0852a18"/>術，餘無取焉。喜為人遷山相塚，吉凶如<lb
+ed="T" n="0852a13"/><anchor n="T.50.2061.0852a13"/><head><date from-iso="+0951-02-18" key="j20684542071729" to-iso="+0960-02-06">周</date><placeName key="PL000000011671"><placeName>杭州</placeName><placeName>湖光院</placeName></placeName><persName key="A012953">師簡</persName>傳</head><p><lb
+ed="T" n="0852a14"/><persName key="A012953">釋師簡</persName>，姓<name>趙</name>氏，<placeName key="PL000000012388">丹丘</placeName>人也。弗循戒範，放肆<lb
+ed="T" n="0852a15"/>恬然，擁破納衣<ptr type="glossary" target="#g1322"/>，多誦詞偈，好懸記<ptr type="glossary" target="#g1165"/><placeName key="PL000000011518">杭</placeName>、<placeName key="PL000000013265">越</placeName>間<lb
+ed="T" n="0852a16"/>災福。初無信者，驗猶合符。於<persName key="A000008">一行</persName>、<persName key="A013851">景淳</persName>山<lb
+ed="T" n="0852a17"/>經地理<ptr type="glossary" target="#g1811"/>別得徑門，常言：昔<placeName key="PL000000021580">泰山</placeName><persName key="A006977">道辯</persName>相塜得<lb
+ed="T" n="0852a18"/>術，餘無取焉。喜為人遷山<ptr type="glossary" target="#g1854"/>相塚，吉凶如<lb
 ed="T" n="0852a19"/>其言。居無定所，多遊族姓家，言腹飢，便求<lb
-ed="T" n="0852a20"/>雞肉餐。此外得美酒，啜數杯而去，初無言<lb
-ed="T" n="0852a21"/>謝。然長於勒書，大字題牌，寺觀門額，書成<lb
-ed="T" n="0852a22"/>相之，吉凶隨言，久近驗之。始居杭西湖<placeName key="PL000000011671">旁<lb
-ed="T" n="0852a23"/>院</placeName>，無疾而終。後有行客自<placeName key="PL000000028663">長沙</placeName>市中見，携<lb
-ed="T" n="0852a24"/>手話舊，寄言與<placeName key="PL000000011627">崇壽院</placeName>主，「汝先負錢若干，<lb
-ed="T" n="0852a25"/>今放<ptr type="glossary" target="#g1406"/>汝。我眠床芻薦下層，有紙裹肉脯屑，<lb
+ed="T" n="0852a20"/>雞肉餐。此外得美酒，啜數杯而去。初無言<lb
+ed="T" n="0852a21"/>謝，然長於勒書<ptr type="glossary" target="#g1855"/>──大字題牌、寺觀門額，書成<lb
+ed="T" n="0852a22"/>相之，吉凶隨言，久近驗之。始居<placeName key="PL000000011593"><placeName>杭</placeName><placeName>西湖</placeName></placeName>旁<lb
+ed="T" n="0852a23"/>院，無疾而終。後有行客自<placeName key="PL000000028663">長沙</placeName>市中見，携<lb
+ed="T" n="0852a24"/>手話舊，寄言與<placeName key="PL000000011627">崇壽院</placeName>主：「汝先負錢若干，<lb
+ed="T" n="0852a25"/>今放<ptr type="glossary" target="#g1406"/>汝。<ref type="person" target="#A012953">我</ref>眠床芻薦<ptr type="glossary" target="#g1853"/>下層，有紙裹肉脯屑，<lb
 ed="T" n="0852a26"/>必應腐敗，為棄之。」院僧依言，果然見之，因<lb
 ed="T" n="0852a27"/>寫貌供養。<persName key="A012953">簡</persName>曾言「尖頭屋已後火化去。」及<lb
-ed="T" n="0852a28"/>州南塔<date key="j20709902071373" notAfter-iso="+0959-02-15" notBefore-iso="+0958-01-28">戊午歲</date>被天火爇之，應言無爽矣。</p>
+ed="T" n="0852a28"/>州南塔<date key="j20709902071373" notAfter-iso="+0959-02-15" notBefore-iso="+0958-01-28">戊午歲</date>被天火爇之<ptr target="#n2834"/>，應言無爽矣。</p>
     <linkGrp>
-        <link targets="#0852a15 #0852a16"/>
+        <link targets="#0852a13 #0852a13"/>
         <ptr target="#A012953" type="person"/>
-        <ptr target="#PL000000011519" type="place"/>
+        <ptr target="#PL000000011671" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0852a14 #0852a14"/>
+        <ptr target="#A012953" type="person"/>
+        <ptr target="#PL000000012388" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0852a15 #0852a16"/>
         <ptr target="#A012953" type="person"/>
-        <ptr target="#PL000000013239" type="place"/>
+        <ptr target="#PL000000011518" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0852a15 #0852a16"/>
+        <ptr target="#A012953" type="person"/>
+        <ptr target="#PL000000013265" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0852a17 #0852a17"/>
+        <ptr target="#A006977" type="person"/>
+        <ptr target="#PL000000021580" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0852a22 #0852a23"/>

@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" type="習禪" xml:id="gsz0763c08shiWeiZhong"><lb
-ed="T" n="0763c08"/><anchor n="T.50.2061.0763c08"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date><placeName key="PL000000018888">黃龍山</placeName><persName key="A004217">惟忠</persName>傳<ptr target="#n1524"/></head><p><lb
-ed="T" n="0763c09"/><persName key="A004217">釋惟忠</persName>，姓童氏，<placeName key="PL000000034805">成都府</placeName>人也。幼從業於<placeName key="PL000000028723">大光<lb
+ed="T" n="0763c08"/><anchor n="T.50.2061.0763c08"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date><placeName key="PL000000018888">黃龍山</placeName><persName key="A004217">惟忠</persName>傳<ptr rend="display:none;" target="#n1524"/></head><p><lb
+ed="T" n="0763c09"/><persName key="A004217">釋惟忠</persName>，姓<name>童</name>氏，<placeName key="PL000000034805">成都府</placeName>人也。幼從業於<placeName key="PL000000028723">大光<lb
 ed="T" n="0763c10"/>山</placeName><persName key="A010283">道願<roleName>禪師</roleName></persName>，神驥伏櫪<ptr type="glossary" target="#g1478"/>，雖止也，發蹄則超<lb
 ed="T" n="0763c11"/>忽千里焉。遊<placeName key="PL000000023253">嵩嶽</placeName>，見<persName key="A005612">神會<roleName>禪師</roleName></persName>，折疑沈默，<lb
-ed="T" n="0763c12"/>處于大方。觀覽聖跡，見<placeName key="PL000000018888">黃龍山</placeName>欝翠而奇<lb
+ed="T" n="0763c12"/>處于大方<ptr type="glossary" target="#g1666"/>。觀覽聖跡，見<placeName key="PL000000018888">黃龍山</placeName>欝翠而奇<lb
 ed="T" n="0763c13"/>異，乃營茅舍。其窮溪極谷而多毒龍，噴氣<lb
 ed="T" n="0763c14"/>濛濛，山民犯者多如中瘴焉，醫工寡効。<persName key="A004217">忠</persName><lb
 ed="T" n="0763c15"/>初不知，獨居禪寂，㵎飲<anchor xml:id="beg0763003"/>木<anchor xml:id="end0763003"/>食<ptr type="glossary" target="#g1479"/>，其怪物皆卷<lb

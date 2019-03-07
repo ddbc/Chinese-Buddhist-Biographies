@@ -1,44 +1,51 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" type="護法" xml:id="gsz0818b20shiWeiJin"><lb
-ed="T" n="0818b20"/><anchor n="T.50.2061.0818b20"/><head><date from-iso="+0923-05-18" key="j20583162063308" to-iso="+0937-01-16">後唐</date>南嶽般舟道場<persName key="A001066">惟勁</persName>傳</head><p><lb
-ed="T" n="0818b21"/><persName key="A001066">釋惟勁</persName>，<placeName key="PL000000018494">福州長溪</placeName>人也。節操精苦，奉養棲約，<lb
-ed="T" n="0818b22"/>破納擁身，衣無繒纊，號頭陀焉。初參<persName key="A003677">雪峯</persName>，<lb
-ed="T" n="0818b23"/>便探淵府<ptr target="#n504"/>。<date notBefore-iso="+0898-09-20" key="j20493112050280" notAfter-iso="+0901-05-17"><name><choice resp="sgsz"><sic>乾</sic><corr>光</corr></choice>化</name>中</date><ptr target="#n505"/>，入<placeName key="PL000000028928">嶽</placeName>住<placeName key="PL000000028934">報慈東藏</placeName>，亦號<lb
-ed="T" n="0818b24"/><persName key="A001066">三生藏</persName>，中見<persName key="A002450">法藏禪師</persName>鑑燈<ptr target="#n507"/>，頓了如是廣<lb
-ed="T" n="0818b25"/>大法界重重帝網之門，因歎曰：「先達聖人，具<lb
-ed="T" n="0818b26"/>此不思議智慧方便，非小智之所能！」又<placeName key="PL000000028928">嶽</placeName>道<lb
+ed="T" n="0818b20"/><anchor n="T.50.2061.0818b20"/><head><date from-iso="+0923-05-18" key="j20583162063308" to-iso="+0937-01-16">後唐</date><placeName key="PL000000028935"><placeName>南嶽</placeName><placeName>般舟道場</placeName></placeName><persName key="A001066">惟勁</persName>傳</head><p><lb
+ed="T" n="0818b21"/><persName key="A001066">釋惟勁</persName>，<placeName key="PL000000018494"><placeName>福州</placeName><placeName>長溪</placeName></placeName>人也。節操精苦，奉養棲約，<lb
+ed="T" n="0818b22"/>破納擁身，衣無繒纊<ptr type="glossary" target="#g791"/>，號<persName key="A001066">頭陀</persName>焉。初參<persName key="A003677">雪峯</persName>，<lb
+ed="T" n="0818b23"/>便探淵府<ptr target="#n504"/>。<date notBefore-iso="+0894-02-14" key="j20476322050280" notAfter-iso="+0901-05-17"><name><anchor xml:id="beg0818sgsz8"/>乾<anchor xml:id="end0818sgsz8"/></name>、<name>化</name>中</date><ptr target="#n505"/>，入<ref type="place" target="#PL000000028928">嶽</ref>住<placeName key="PL000000028934">報慈東藏</placeName>──亦號<lb
+ed="T" n="0818b24"/><placeName key="PL000000028934">三生藏</placeName>──，中見<persName key="A002450">法藏<roleName>禪師</roleName></persName>鑑燈<ptr target="#n507"/>，頓了如是廣<lb
+ed="T" n="0818b25"/>大法界<ptr type="glossary" target="#g1153"/>重重<persName key="A002869">帝</persName>網<ptr type="glossary" target="#g1154"/>之門，因歎曰：「先達聖人，具<lb
+ed="T" n="0818b26"/>此不思議智慧方便，非小智之所能！」又<ref type="place" target="#PL000000028928">嶽</ref>道<lb
 ed="T" n="0818b27"/>觀中亦設此燈，往因廢教時竊移入仙壇<lb
-ed="T" n="0818b28"/>也。有遊<placeName key="PL000000028928">嶽</placeName>才人達士，留題頗多。<persName key="A001066">勁</persName>乃歎曰：<lb
-ed="T" n="0818b29"/>「盧橘夏熟，寧期<anchor xml:id="beg0818001"/>植<anchor xml:id="end0818001"/>在於<placeName key="PL000000023581">神都</placeName>；《舜韶》齊聞，不<pb ed="T" n="0818c" xml:id="T50.2061.0818c"/><lb
-ed="T" n="0818c01"/>覺頓忘於肉味。嗟其無識，不究本端。盜王<lb
-ed="T" n="0818c02"/>氏之青氈，以為舊物；認嶺南之孔雀，以作<lb
-ed="T" n="0818c03"/>家禽。後世安知？于今區別。」乃作五字頌，頌<lb
-ed="T" n="0818c04"/>五章，覽者知其理事相融，燈有所屬，屬在<lb
-ed="T" n="0818c05"/>乎互相涉入，光影含容，顯華嚴性悔主伴交<lb
-ed="T" n="0818c06"/>光，非道家之器用也。<persName key="A011960">楚王馬<roleName>氏</roleName></persName>奏賜紫，署<lb
-ed="T" n="0818c07"/><persName key="A001066">寶聞大師</persName>，梁<date notBefore-iso="+0907-06-10" key="j20524952052858" notAfter-iso="+0908-06-07"><name>開平</name>中</date>也。<persName key="A001066">勁</persName>續《寶林傳》，蓋錄<lb
+ed="T" n="0818b28"/>也。有遊<ref type="place" target="#PL000000028928">嶽</ref>才人達士，留題頗多。<persName key="A001066">勁</persName>乃歎曰：<lb
+ed="T" n="0818b29"/>「盧橘夏熟<ptr type="glossary" target="#g1155"/>，寧期<anchor xml:id="beg0818001"/>植<anchor xml:id="end0818001"/>在於<placeName key="PL000000023581">神都</placeName>？《舜韶》<placeName key="PL000000020229">齊</placeName>聞，不<pb ed="T" n="0818c" xml:id="T50.2061.0818c"/><lb
+ed="T" n="0818c01"/>覺頓忘於肉味<ptr target="#n2262"/>。嗟其無識，不究本端。盜<persName key="A023364">王<lb
+ed="T" n="0818c02"/><roleName>氏</roleName></persName>之青氈，以為舊物<ptr target="#n2263"/>；認<placeName key="PL000000030465">嶺南</placeName>之孔雀，以作<lb
+ed="T" n="0818c03"/>家禽<ptr target="#n2264"/>。後世安知？于今區別。」乃作五字頌，頌<lb
+ed="T" n="0818c04"/>五章<ptr target="#n2266"/>，覽者知其理事相融，燈有所屬，屬在<lb
+ed="T" n="0818c05"/>乎互相涉入，光影含容，顯華嚴性<anchor xml:id="beg0818sgsz9"/><choice resp="sgsz"><sic>悔</sic><corr>海</corr></choice><anchor xml:id="end0818sgsz9"/><ptr type="glossary" target="#g1156"/>主伴交<lb
+ed="T" n="0818c06"/>光，非道家之器用也。<persName key="A011960"><persName>楚王</persName><persName>馬<roleName>氏</roleName></persName></persName>奏賜紫，署<lb
+ed="T" n="0818c07"/><persName key="A001066">寶聞大師</persName><ptr target="#n2265"/>，梁<date notBefore-iso="+0907-06-10" key="j20524952052858" notAfter-iso="+0908-06-07"><name>開平</name>中</date>也。<persName key="A001066">勁</persName>續《寶林傳》<ptr target="#n2267"/>，蓋錄<lb
 ed="T" n="0818c08"/><date from-iso="+0785-02-18" key="j20078242015139" to-iso="+0805-02-28"><name>貞元</name></date>已後禪門祖祖相繼源脈者也。別著《南<lb
-ed="T" n="0818c09"/>嶽高僧傳》，未知卷數，亦一代禪宗達士，文采<lb
-ed="T" n="0818c10"/>可觀。後終于岳中也。</p>
+ed="T" n="0818c09"/>嶽高僧傳》<ptr target="#n2269"/>，未知卷數，亦一代禪宗達士，文采<lb
+ed="T" n="0818c10"/>可觀<ptr target="#n2268"/>。後終于<ref type="place" target="#PL000000028928">岳</ref>中也。</p>
     <p xml:id="pT50p0818c1101"><lb
-ed="T" n="0818c11"/>系曰：物涉疑似，難輒區分。<persName key="A001066">勁公</persName>誌鑑燈，若<lb
+ed="T" n="0818c11"/>系曰：物涉疑似，難輒區分。<persName key="A001066">勁<roleName>公</roleName></persName>誌《鑑燈》，若<lb
 ed="T" n="0818c12"/>遺物重獲歸家也。後之人必不敢攘物歸<lb
-ed="T" n="0818c13"/>家也。故曰前事不忘，後世之元龜也。</p>
+ed="T" n="0818c13"/>家也。故曰「前事不忘，後世之元龜<ptr target="#n2270"/>」也。</p>
+    <linkGrp>
+        <link targets="#0818b21 #0818b21"/>
+        <ptr target="#A001066" type="person"/>
+        <ptr target="#PL000000018494" type="place"/>
+    </linkGrp>
     <linkGrp>
         <link targets="#0818b22 #0818b23"/>
         <ptr target="#A001066" type="person"/>
         <ptr target="#A003677" type="person"/>
+        <ptr target="#PL000000017205" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0818b23 #0818b26"/>
         <ptr target="#A001066" type="person"/>
         <ptr target="#PL000000028934" type="place"/>
-        <ptr target="#j20539512055611" type="time"/>
+        <ptr target="#j20476322050280" type="time"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0818c06 #0818c07"/>
         <ptr target="#A001066" type="person"/>
         <ptr target="#A011960" type="person"/>
         <ptr target="#A003877" type="person"/>
+        <ptr target="#j20524952052858" type="time"/>
     </linkGrp>
 </div>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="jsz0191c20daoMaoGuan">
+    <p><anchor n="X.88.1646.0191c20"/><lb ed="X" n="0191c20"/><persName key="A015748">到茂灌</persName>名<persName key="A015748">溉</persName>。彭城<placeName key="PL000000009686">武原</placeName>人也。仕梁。歷官至吏部尚書。<lb ed="X" n="0191c21"/>以清白自修。不好聲色。虗室單牀旁無姬侍。冠履十<lb ed="X" n="0191c22"/>年一易。傳呼清路。示有朝章而已。後因疾失明。詔以<lb ed="X" n="0191c23"/>散騎常侍。就第養疾。生平敬信佛法。初與弟<persName key="A015749">洽</persName>共居<lb ed="X" n="0191c24"/>一齋。<date from-iso="0527-04-29" key="j19136611913945" to-iso="0528-02-07"><persName key="A015749">洽</persName>卒</date><!-- 大通元年，詳參見到洽詞條 -->。便捨為寺。<placeName key="PL000000008734">蔣山</placeName>有<placeName key="PL000000008757">延賢寺</placeName>。<persName key="A015748">茂灌</persName>先世所立<lb ed="X" n="0192a01"/>也。每得祿俸。皆充二寺。已而斷腥膻。別營小室。朝夕<lb ed="X" n="0192a02"/>從僧禮誦。<persName key="A002098">武帝</persName>為月致三淨饌。<date from-iso="0548-01-28" key="j19212401921623" to-iso="0549-02-14">太清二年</date>卒。臨終屬<lb ed="X" n="0192a03"/>其友<persName key="A015764">張綰</persName>．<persName key="A015766">劉之遴</persName>。敕子孫薄葬曰。氣絕便殮。殮以法<lb ed="X" n="0192a04"/>服。殮竟便葬。不須擇日。屏家人。請僧讀經贊唄。及卒。<lb ed="X" n="0192a05"/>顏色不變。手屈二指(南史)。</p> 
+    
+    <linkGrp>
+        <link targets="#0191c23 #0191c24"/>
+        <ptr target="#A015748" type="person"/>
+        <ptr target="#A015749" type="person"/>
+        <ptr target="unknown" type="place"/>
+        </linkGrp>
+    <linkGrp>
+        <link targets="#0192a01 #0192a02"/>
+        <ptr target="#A015748" type="person"/>
+        <ptr target="#A002098" type="person"/>
+        <ptr target="unknown" type="place"/>
+        </linkGrp>
+    <linkGrp>
+        <link targets="#0192a02 #0192a05"/>
+        <ptr target="#A015748" type="person"/>
+        <ptr target="#A015764" type="person"/>
+        <ptr target="#A015766" type="person"/>
+        <ptr target="unknown" type="place"/>
+        <ptr target="#j19212401921623" type="time"/>
+    </linkGrp>
+ </div>

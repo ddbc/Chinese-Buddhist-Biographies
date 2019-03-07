@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="jsz0226c18luZiYuan">
+    <p><anchor n="X.88.1646.0226c18"/><lb ed="X" n="0226c18"/><persName key="A017700">陸子元</persName>名<persName key="A017700">沅</persName>。會稽<placeName key="PL000000013257">山陰</placeName>人。試吏部再為第一監行在<lb ed="X" n="0226c19"/>都進奏院監尚書六部門。居官落落。守正不媚權勢。<lb ed="X" n="0226c20"/>歲滿遷大府寺丞。尋外轉。歷提舉<placeName key="PL000000017186">福建</placeName>市舶。以母憂<lb ed="X" n="0226c21"/>歸。中同僚<persName key="A017701">鄭興裔</persName>之言。得罪閒居。家明州<placeName key="PL000000012151">橫溪</placeName>之上。<lb ed="X" n="0226c22"/>客至語及<ref target="#A017701" type="person">鄭</ref>事。必曰<persName key="A017700">沅</persName>與<ref target="#A017701" type="person">鄭</ref>歷劫中冤耳。謹當以善<lb ed="X" n="0226c23"/>法解之。否則彼此酬酢無了時也。居常持法華經。晨<lb ed="X" n="0226c24"/>起即澡浴焚香。首唱偈曰。盥手清晨貝葉開。不求諸<lb ed="X" n="0227a01"/>佛不禳災。世緣斷處從他斷。劫火光中舞一回。然後<lb ed="X" n="0227a02"/>開卷而讀。不緩不急。聲如貫珠。日周一部。如是三十<lb ed="X" n="0227a03"/>年。年登八十。增至三部。宗教兩家靡不研究。復誦<persName key="A002843">彌<lb ed="X" n="0227a04"/>陀佛</persName>號。一意西馳。年八十五。沐浴冠服而化。口鼻間<lb ed="X" n="0227a05"/>出蓮華香。郁然彌日方息。事在<date from-iso="1194-01-31" key="j21571902157370" to-iso="1194-07-30">紹熈五年</date>(渭南文集．法喜志．法<lb ed="X" n="0227a06"/>華持驗記)。</p>    
+    <linkGrp>
+        <link targets="#0226c20 #0226c20"/>
+        <ptr target="#A017700" type="person"/>
+        <ptr target="#PL000000017186" type="place"/>
+        </linkGrp>
+    <linkGrp>
+        <link targets="#0226c21 #0226c21"/>
+        <ptr target="#A017700" type="person"/>
+        <ptr target="#A017701" type="person"/>
+        <ptr target="unknown" type="place"/>
+        </linkGrp>
+    <linkGrp>
+        <link targets="#0227a04 #0227a05"/>
+        <ptr target="#A017700" type="person"/>
+        <ptr target="#PL000000012151" type="place"/>
+        <ptr target="#j21571902157370" type="time"/>
+    </linkGrp>
+ </div>

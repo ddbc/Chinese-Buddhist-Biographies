@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" type="習禪" xml:id="gsz0780b17shiDaAn"><lb
-ed="T" n="0780b17"/><anchor n="T.50.2061.0780b17"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date><placeName key="PL000000017203">福州怡山院</placeName><persName key="A003636">大安</persName>傳</head><p><lb
+ed="T" n="0780b17"/><anchor n="T.50.2061.0780b17"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date><placeName key="PL000000017203"><placeName>福州</placeName><placeName>怡山院</placeName></placeName><persName key="A003636">大安</persName>傳</head><p><lb
 ed="T" n="0780b18"/><persName key="A003636">釋大安</persName>，姓<name>陳</name>氏，<placeName key="PL000000017166">閩城</placeName><ptr target="#n1619"/>人也。幼年入道，頓拂<lb
-ed="T" n="0780b19"/>塵蒙<ptr target="#n1620"/>。<date from-iso="+0817-01-25" key="j20194882019871" to-iso="+0818-02-12"><name>元和</name>十二年</date>，勅<placeName key="PL000000017141">建州浦城縣乾元寺</placeName>置<lb
+ed="T" n="0780b19"/>塵蒙<ptr target="#n1620"/>。<date from-iso="+0817-01-25" key="j20194882019871" to-iso="+0818-02-12"><name>元和</name>十二年</date>，勅<placeName key="PL000000017141"><placeName>建州</placeName><placeName>浦城縣</placeName><placeName>乾元寺</placeName></placeName>置<lb
 ed="T" n="0780b20"/><placeName key="PL000000057067">兜率壇</placeName>，始全戒足。時天雨桂子及地生朱<lb
 ed="T" n="0780b21"/>草，刺史<persName key="A010575">元錫</persName>手疏其瑞，上達<ref type="person" target="#A002120">冕旒</ref>，遂迴御<lb
 ed="T" n="0780b22"/><anchor xml:id="beg0780002"/><choice resp="sgsz"><sic>禮</sic><corr>札</corr></choice><anchor xml:id="end0780002"/>，詔改<placeName key="PL000000017141">鳳棲寺</placeName>號<placeName key="PL000000057067">靈感壇</placeName>焉。<persName key="A003636">安</persName>因往<placeName key="PL000000018628">洪<lb
@@ -23,7 +23,7 @@ ed="T" n="0780c07"/>中折。<date key="j20439022043902" when-iso="+0883-11-29">
 ed="T" n="0780c08"/>丈室，春秋九十一，臘六十七。續詔贈<persName key="A003636">圓智大<lb
 ed="T" n="0780c09"/>師</persName>，塔號<placeName key="PL000000057073">證真</placeName><ptr target="#n1622"/>。<persName key="A003636">安</persName>不嘗唾地，不處溫房，隨<lb
 ed="T" n="0780c10"/>化而衣，天雨而<anchor xml:id="beg0780005"/>浴<anchor xml:id="end0780005"/>。諮法弟子<persName key="A010579">慧長</persName>入<placeName key="PL000000042002">關</placeName>，揚<lb
-ed="T" n="0780c11"/><persName key="A003636">安</persName>之德，故有追諡也。<placeName key="PL000000002513">博陵</placeName><ref type="person" target="#A022982">司空相國</ref><ptr target="#n1623"/>仰慕<lb
+ed="T" n="0780c11"/><persName key="A003636">安</persName>之德，故有追謚也。<placeName key="PL000000002513">博陵</placeName><ref type="person" target="#A022982">司空相國</ref><ptr target="#n1623"/>仰慕<lb
 ed="T" n="0780c12"/>前烈，遂著文頌德。詩人<persName key="A010580">周朴</persName>篤重<persName key="A003636">安</persName>，時入<lb
 ed="T" n="0780c13"/>山致<anchor xml:id="beg0780sgsz12"/>禮<anchor xml:id="end0780sgsz12"/>焉。</p>
     <linkGrp>

@@ -1,22 +1,22 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" type="明律" xml:id="gsz0806b09shiYuanZhao"><lb
-ed="T" n="0806b09"/><anchor n="T.50.2061.0806b09"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date>京師章信寺<persName key="A011293">道澄</persName>傳</head><p><lb
-ed="T" n="0806b10"/><persName key="A011293">釋道澄</persName>，姓梁氏，<placeName key="PL000000042192">京兆</placeName>人也。父<persName key="A019402">涉</persName>中書舍人。生<lb
+ed="T" n="0806b09"/><anchor n="T.50.2061.0806b09"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date><placeName key="PL000000042180"><placeName>京師</placeName><placeName>章信寺</placeName></placeName><persName key="A011293">道澄</persName>傳</head><p><lb
+ed="T" n="0806b10"/><persName key="A011293">釋道澄</persName>，姓<name>梁</name>氏，<placeName key="PL000000042192">京兆</placeName>人也。父<persName key="A019402">涉</persName>中書舍人。生<lb
 ed="T" n="0806b11"/>而奇表，輒惡葷肴，出家如歸，無所顧戀。忽<lb
-ed="T" n="0806b12"/>遇禪僧，摩頂與立名曰<persName key="A011293">道澄</persName>，缾錫常隨，冥<lb
-ed="T" n="0806b13"/>合律範，號律沙彌也。受具之後，習聽《南山<lb
-ed="T" n="0806b14"/>律》於諸學處，微其玷缺。然性都率略，住寺不<lb
+ed="T" n="0806b12"/>遇禪僧，摩頂與立名曰<persName key="A011293">道澄</persName>。缾錫常隨，冥<lb
+ed="T" n="0806b13"/>合律範，號<persName key="A011293">律沙彌</persName>也。受具之後，習聽《南山<lb
+ed="T" n="0806b14"/>律》<ptr target="#n1290"/>於諸學處，微<ref type="person" target="#A011293">其</ref>玷缺。然性都率略，住寺不<lb
 ed="T" n="0806b15"/>恒，或<placeName key="PL000000042297">奉恩</placeName>、<placeName key="PL000000042412">莊嚴</placeName>、<placeName key="PL000000042657">草堂</placeName>等寺，所到便居，護生為<lb
-ed="T" n="0806b16"/>切。<date from-iso="+0781-02-02" key="j20063472006701" to-iso="+0782-01-22"><name>建中</name>二年</date>，坐夏<ptr type="glossary" target="#g61"/>於雲陽山<!--找不到此地-->，有虎哮吼入<lb
-ed="T" n="0806b17"/>其門。<persName key="A011293">澄</persName>徐語之，其虎搖尾<anchor xml:id="beg0806sgsz3"/>襵<anchor xml:id="end0806sgsz3"/>耳而退。徙居<lb
+ed="T" n="0806b16"/>切。<date from-iso="+0781-02-02" key="j20063472006701" to-iso="+0782-01-22"><name>建中</name>二年</date>，坐夏<ptr type="glossary" target="#g61"/>於<placeName key="PL000000057928">雲陽山</placeName>，有虎哮吼入<lb
+ed="T" n="0806b17"/><ref type="person" target="#A011293">其</ref>門。<persName key="A011293">澄</persName>徐語之，其虎搖尾<anchor xml:id="beg0806sgsz3"/>襵<anchor xml:id="end0806sgsz3"/>耳而退。徙居<lb
 ed="T" n="0806b18"/><placeName key="PL000000042180">章信寺</placeName>，或問其故，<persName key="A011293">澄</persName>曰：「出家者可滯一方<lb
-ed="T" n="0806b19"/>乎？<placeName key="PL000000055436">西域</placeName>三時分房，俾無貪著，觀門易立矣。<lb
-ed="T" n="0806b20"/>不然者，豈通方廣恕乎？」<date key="j20082152008215" when-iso="+0786-03-16"><name>貞元</name>二年二月八日</date>，<lb
-ed="T" n="0806b21"/><persName key="A004215">帝</persName>於<placeName key="PL000000042180">寺</placeName>受菩薩戒，京甸傾瞻，賜齎隆洽，所<lb
-ed="T" n="0806b22"/>受而迴施二田矣。<date from-iso="+0789-02-04" key="j20092712009624" to-iso="+0790-01-23">五年</date>，<persName key="A004215">帝</persName>幸其<placeName key="PL000000042180">寺</placeName>，問<persName key="A011293">澄</persName>修<lb
-ed="T" n="0806b23"/>心法門。又勅為妃主嬪御受菩薩戒。<date from-iso="+0800-05-02" key="j20133762013404" to-iso="+0800-05-30">十六<lb
+ed="T" n="0806b19"/>乎？<placeName key="PL000000055436">西域</placeName>三時分房<ptr type="glossary" target="#g717"/>，俾無貪著，『觀門』易立矣。<lb
+ed="T" n="0806b20"/>不然者，豈通方<ptr rend="display:none;" type="glossary" target="#g703"/>廣恕乎？」<date key="j20082152008215" when-iso="+0786-03-16"><name>貞元</name>二年二月八日</date>，<lb
+ed="T" n="0806b21"/><ref type="person" target="#A004215">帝</ref>於<ref type="place" target="#PL000000042180">寺</ref>受菩薩戒，<ref type="place" target="#PL000000042189">京甸</ref>傾瞻，賜齎隆洽，所<lb
+ed="T" n="0806b22"/>受而迴施二田<ptr target="#n1255"/>矣。<date from-iso="+0789-02-04" key="j20092712009624" to-iso="+0790-01-23">五年</date>，<ref type="person" target="#A004215">帝</ref>幸其<ref type="place" target="#PL000000042180">寺</ref>，問<persName key="A011293">澄</persName>修<lb
+ed="T" n="0806b23"/>心法門。又勅為妃主嬪御<ptr type="glossary" target="#g718"/>受菩薩戒。<date from-iso="+0800-05-02" key="j20133762013404" to-iso="+0800-05-30">十六<lb
 ed="T" n="0806b24"/>年四月</date>，勅賜號曰<persName key="A011293">大圓</persName>。<date key="j20146332014633" when-iso="+0803-10-11">十九年九月十八<lb
-ed="T" n="0806b25"/>日</date>，終于此<placeName key="PL000000042180">寺</placeName>焉。</p>
+ed="T" n="0806b25"/>日</date>，終于此<ref type="place" target="#PL000000042180">寺</ref>焉。</p>
     <linkGrp>
         <link targets="#0806b10 #0806b10"/>
         <ptr target="#A011293" type="person"/>
@@ -39,17 +39,22 @@ ed="T" n="0806b25"/>日</date>，終于此<placeName key="PL000000042180">寺</p
         <ptr target="#PL000000042657" type="place"/>
     </linkGrp>
     <linkGrp>
-        <link targets="#0806b16 #0806b19"/>
+        <link targets="#0806b16 #0806b17"/>
+        <ptr target="#A011293" type="person"/>
+        <ptr target="#PL000000057928" type="place"/>
+        <ptr target="#j20063472006701" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0806b17 #0806b20"/>
         <ptr target="#A011293" type="person"/>
         <ptr target="#PL000000042180" type="place"/>
-        <ptr target="#j20082152008215" type="time"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0806b20 #0806b22"/>
         <ptr target="#A011293" type="person"/>
         <ptr target="#A004215" type="person"/>
         <ptr target="#PL000000042180" type="place"/>
-        <ptr target="#j20063472006701" type="time"/>
+        <ptr target="#j20082152008215" type="time"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0806b22 #0806b23"/>
@@ -57,6 +62,12 @@ ed="T" n="0806b25"/>日</date>，終于此<placeName key="PL000000042180">寺</p
         <ptr target="#A004215" type="person"/>
         <ptr target="#PL000000042180" type="place"/>
         <ptr target="#j20092712009624" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0806b23 #0806b24"/>
+        <ptr target="#A011293" type="person"/>
+        <ptr target="#A004215" type="person"/>
+        <ptr target="#j20133762013404" type="time"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0806b24 #0806b25"/>

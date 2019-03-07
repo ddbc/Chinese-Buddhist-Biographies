@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="jsz0204c08wuZhang">
+    <p><anchor n="X.88.1646.0204c08"/><lb ed="X" n="0204c08"/><persName key="A011653">吳璋</persName>江南<placeName key="PL000000010242">吳江</placeName>人。母<persName key="A016700">陸氏</persName>。當<date from-iso="1423-02-20" key="j22408502241204" to-iso="1424-02-09">明永樂中</date><!-- 永樂癸卯年，請參見(X78n1542_p0102b08)-->以孀婦選給<lb ed="X" n="0204c09"/>內廷。母與焉。<date from-iso="1426-02-17" key="j22419432242296" to-iso="1427-02-05">宣德中</date><!-- 宣德丙午年，請參見(X78n1542_p0102b08)-->隨<persName key="A016707">淮王</persName>就封<placeName key="PL000000030563">韶州</placeName>。<persName key="A011653">璋</persName>往求之。舟<lb ed="X" n="0204c10"/>中供<persName key="A002803">觀音大士</persName>像。日夕哀禱。願必見母。中途下痢。遇<lb ed="X" n="0204c11"/>一僧療之獲瘳。既至。<persName key="A016707">韶淮王</persName>已徙<placeName key="PL000000020167">饒州</placeName>。復徒步往<placeName key="PL000000020167">饒</placeName>。<lb ed="X" n="0204c12"/>足指膚裂臥野寺中。復遇一道人塗以藥。立起過嶺。<lb ed="X" n="0204c13"/>蛇嚙其足仆於地。復見前道人再塗以藥。乃如故。一<lb ed="X" n="0204c14"/>夕宿孤村。有婦奔之。不納。方雪。急走出門。入一古廟<lb ed="X" n="0204c15"/>前。道人迎。笑謂曰。<ref target="#A011653" type="person">子</ref>其賢哉。出餅啗之。天明至<placeName key="PL000000020167">饒</placeName>訪<lb ed="X" n="0204c16"/>母。果在。乃啟<ref target="#A016707" type="person">王</ref>乞奉母歸。不許。復以死自誓。而後許<lb ed="X" n="0204c17"/>之(大慈錄)。</p> 
+    
+    <linkGrp>
+        <link targets="#0204c08 #0204c08"/>
+        <ptr target="#A011653" type="person"/>
+        <ptr target="#A016700" type="person"/>
+        <ptr target="unknown" type="place"/>
+        <ptr target="#j22408502241204" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0204c09 #0204c09"/>
+        <ptr target="#A016700" type="person"/>
+        <ptr target="#A016707" type="person"/>
+        <ptr target="#PL000000030563" type="place"/>
+        <ptr target="#j22419432242296" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0204c09 #0204c11"/>
+        <ptr target="#A011653" type="person"/>
+        <ptr target="#PL000000030563" type="place"/>
+        </linkGrp>
+    <linkGrp>
+        <link targets="#0204c15 #0204c17"/>
+        <ptr target="#A011653" type="person"/>
+        <ptr target="#A016700" type="person"/>
+        <ptr target="#A016707" type="person"/>
+        <ptr target="#PL000000020167" type="place"/>
+        </linkGrp>
+ </div>

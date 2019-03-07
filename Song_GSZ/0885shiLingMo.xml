@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" type="習禪" xml:id="gsz0768c18shiLingMo"><lb
-ed="T" n="0768c18"/><anchor n="T.50.2061.0768c18"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date><placeName key="PL000000013358">婺州五洩山</placeName><persName key="A010420">靈默</persName>傳（<persName key="A022952">志閑</persName>）</head><p><lb
-ed="T" n="0768c19"/><persName key="A010420">釋靈默</persName>，俗姓<name>宣</name>，<placeName key="PL000000009739">毘陵</placeName>人也。本成立之歲<ptr type="glossary" target="#g1537"/>，悅學<lb
+ed="T" n="0768c18"/><anchor n="T.50.2061.0768c18"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date><placeName key="PL000000013358"><placeName>婺州</placeName><placeName>五洩山</placeName></placeName><persName key="A010420">靈默</persName>傳（<persName key="A022952">志閑</persName>）</head><p><lb
+ed="T" n="0768c19"/><persName key="A010420">釋靈默</persName>，俗姓<name>宣</name>，<placeName key="PL000000009739">毘陵</placeName>人也。本成立之歲<ptr rend="display:none;" type="glossary" target="#g1537"/>，悅學<lb
 ed="T" n="0768c20"/>忘疲，約以射策登第，以榮親里。承<placeName key="PL000000018603">豫章</placeName><persName key="A003623">馬<lb
 ed="T" n="0768c21"/><roleName>大師</roleName></persName>聚眾敷演。造禪關，<persName key="A003623">馬<roleName>師</roleName></persName>振容而示相，<lb
 ed="T" n="0768c22"/><persName key="A010420">默</persName>密契玄機，便求披剃，若熟癰之待刺耳。<lb
@@ -12,11 +12,11 @@ ed="T" n="0768c26"/><ref type="person" target="#A001301">吾</ref>無異。」<p
 ed="T" n="0768c27"/>來馴，近林產子，意有所依。又住<placeName key="PL000000014707">東道場</placeName>，地<lb
 ed="T" n="0768c28"/>僻人稀，山神一夜震雷暴雨，懸崖委墜。投明，<lb
 ed="T" n="0768c29"/>大樹倒欹，庵側樹枝交絡，茅<anchor xml:id="beg0768sgsz8"/>苫<anchor xml:id="end0768sgsz8"/>略無少損。<pb ed="T" n="0769a" xml:id="T50.2061.0769a"/><lb
-ed="T" n="0769a01"/>遐邇聞旃<ptr type="glossary" target="#g1050"/>，皆來觀嘆。後遊<placeName key="PL000000013605">東白山</placeName>，俄然中<lb
+ed="T" n="0769a01"/>遐邇聞旃<ptr rend="display:none;" type="glossary" target="#g1050"/>，皆來觀嘆。後遊<placeName key="PL000000013605">東白山</placeName>，俄然中<lb
 ed="T" n="0769a02"/>毒，而不求醫，閉關宴坐。未幾，毒化流汗<lb
 ed="T" n="0769a03"/>而滴，乃復常矣。行次<placeName key="PL000000013563">浦陽</placeName>，盛化，有<placeName key="PL000000056928">陽靈</placeName>戍<lb
 ed="T" n="0769a04"/>將<persName key="A010421">李望</persName>請<persName key="A010420">默</persName>居<placeName key="PL000000013358">五洩</placeName>焉。<date notBefore-iso="+0806-01-29" key="j20154742016757" notAfter-iso="+0809-08-04"><name>元和</name>初</date>亢陽，田畯<ptr type="glossary" target="#g1538"/><lb
-ed="T" n="0769a05"/>惶惶。<persName key="A010420">默</persName>沿㵎見青蛇夭矯，瞪目如視行人，<lb
+ed="T" n="0769a05"/>惶惶。<persName key="A010420">默</persName>沿㵎見青蛇夭矯<ptr type="glossary" target="#g1681"/>，瞪目如視行人，<lb
 ed="T" n="0769a06"/>不動。咄之曰：「百姓溪竭苗死，汝胡不施雨<lb
 ed="T" n="0769a07"/>救民邪？」至夜果大雨，合境云足，民荷其賜。<lb
 ed="T" n="0769a08"/>屬<placeName key="PL000000022160">平昌</placeName><persName key="A009184">孟簡</persName>中丞廉問<placeName key="PL000000011308">浙東</placeName>廢管內蘭若，<lb

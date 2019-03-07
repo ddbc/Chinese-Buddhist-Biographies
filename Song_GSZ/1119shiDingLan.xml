@@ -1,33 +1,38 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" type="遺身" xml:id="gsz0856b03shiDingLan"><lb
-ed="T" n="0856b03"/><anchor n="T.50.2061.0856b03"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date>成都府福感寺<persName key="A010594">定蘭</persName>傳</head><p><lb
-ed="T" n="0856b04"/><persName key="A010594">釋定蘭</persName>，姓楊氏，<placeName key="PL000000034785">成都</placeName>人也。本闤闠間兇惡屠<lb
-ed="T" n="0856b05"/>沽類，天與厥性，悔往前非，誓預六和，化行<lb
-ed="T" n="0856b06"/><placeName key="PL000000034650">三蜀</placeName>。當爾時也，咸歸信焉。造伽藍一，號聖<lb
-ed="T" n="0856b07"/>壽<!--找不到此地-->歟。其緣未發，乃藏於傭保中耳。而父母<lb
-ed="T" n="0856b08"/>早亡，無資可以追往，每遇諱辰，<persName key="A010594">蘭</persName>悲哭咽<lb
-ed="T" n="0856b09"/>絕。輒裸露入<placeName key="PL000000034982">青城山</placeName>，縱蚊蚋䗈蠅唼咋膚<lb
-ed="T" n="0856b10"/>體，且云「捨內財也，用答劬勞。」<placeName key="PL000000035107">蜀</placeName>中有黑白<lb
-ed="T" n="0856b11"/>蟆，形如粟，𠯗人口及肉，而少見者。次則<lb
-ed="T" n="0856b12"/><anchor xml:id="beg0856sgsz11"/>刺<anchor xml:id="end0856sgsz11"/>血寫經，後則<anchor xml:id="beg0856sgsz12"/>煉<anchor xml:id="end0856sgsz12"/>臂，至于拔耳剜目，餧<lb
-ed="T" n="0856b13"/>飼鷙鳥猛獸。既而行步非扶導而觸物顛<lb
+ed="T" n="0856b03"/><anchor n="T.50.2061.0856b03"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date><placeName key="PL000000034767"><placeName>成都府</placeName><placeName>福感寺</placeName></placeName><persName key="A010594">定蘭</persName>傳</head><p><lb
+ed="T" n="0856b04"/><persName key="A010594">釋定蘭</persName>，姓<name>楊</name>氏，<placeName key="PL000000034805">成都</placeName>人也<ptr target="#n2906"/>。本闤闠<ptr type="glossary" target="#g580"/>間兇惡屠<lb
+ed="T" n="0856b05"/>沽類，天與厥性，悔往前非，誓預六和<ptr type="glossary" target="#g25"/>，化行<lb
+ed="T" n="0856b06"/><placeName key="PL000000034650">三蜀</placeName>。當爾時也，咸歸信焉。造伽藍一，號<placeName key="PL000000000662">聖<lb
+ed="T" n="0856b07"/>壽</placeName>歟。其緣未發，乃藏於傭保中耳。而父母<lb
+ed="T" n="0856b08"/>早亡，無資可以追往。每遇諱辰，<persName key="A010594">蘭</persName>悲哭咽<lb
+ed="T" n="0856b09"/>絕，輒裸露入<placeName key="PL000000034982">青城山</placeName>，縱蚊蚋䗈蠅唼咋膚<lb
+ed="T" n="0856b10"/>體，且云「捨內財<ptr type="glossary" target="#g1901"/>也，用答劬勞<ptr type="glossary" target="#g450"/>。」<placeName key="PL000000035107">蜀</placeName>中有黑白<lb
+ed="T" n="0856b11"/>蟆，形如粟，𠯗<ptr type="glossary" target="#g1902"/>人口及肉，而少見者<ptr target="#n2907"/>。次則<lb
+ed="T" n="0856b12"/><anchor xml:id="beg0856sgsz11"/>刺<anchor xml:id="end0856sgsz11"/>血寫經，後則<anchor xml:id="beg0856sgsz12"/>煉<anchor xml:id="end0856sgsz12"/>臂，至于拔耳剜目、餧<lb
+ed="T" n="0856b13"/>飼鷙鳥<ptr type="glossary" target="#g1121"/>猛獸。既而行步，非扶導而觸物顛<lb
 ed="T" n="0856b14"/>躓。後有異人，掌擎物若珠顆然，內空眥<lb
-ed="T" n="0856b15"/>中，斯須瞻矚如故。冥告曰：「南天王還<persName key="A010594">師</persName>眼<lb
-ed="T" n="0856b16"/>珠矣。」遠近驚駭。常謂人曰：「<persName key="A010594">吾</persName>聞善戒經中<lb
-ed="T" n="0856b17"/>名為無上施，<persName key="A010594">吾</persName>願勤行，速要上果矣。」<date key="j20311832031566" notAfter-iso="+0850-02-19" notBefore-iso="+0849-02-01"><name>大中</name><lb
+ed="T" n="0856b15"/>中<ptr target="#n2909"/>，斯須瞻矚如故。冥告曰：「<persName key="A018965">南天王</persName>還<ref type="person" target="#A010594">師</ref>眼<lb
+ed="T" n="0856b16"/>珠矣。」遠近驚駭。常謂人曰：「<ref type="person" target="#A010594">吾</ref>聞《善戒經》中<lb
+ed="T" n="0856b17"/>名為無上施<ptr target="#n2908"/>──<ref type="person" target="#A010594">吾</ref>願勤行，速要上果矣。」<date key="j20311832031566" notAfter-iso="+0850-02-19" notBefore-iso="+0849-02-01"><name>大中</name><lb
 ed="T" n="0856b18"/>三年</date>，<persName key="A003667">宣宗</persName>詔入內供養，仰其感應之故，以<lb
-ed="T" n="0856b19"/>優禮奉之。弟子有緣，恒執事左右。<date key="j20323052032334" notAfter-iso="+0852-03-28" notBefore-iso="+0852-02-28">六年二<lb
-ed="T" n="0856b20"/>月</date>中，又願焚然肩膊。<persName key="A003667">帝</persName>累勸勉，年耆且務<lb
-ed="T" n="0856b21"/>久長<anchor xml:id="beg0856003"/>修煉<anchor xml:id="end0856003"/><ptr type="glossary" target="#g75"/>。<persName key="A010594">蘭</persName>不奉詔，遂焚焉而絕。有緣表<lb
-ed="T" n="0856b22"/>請易名建塔，勅諡<persName key="A010594">覺性</persName>也，塔號<placeName key="PL000000034769">悟真</placeName>也。<lb
-ed="T" n="0856b23"/><placeName key="PL000000034785">蜀都</placeName>止呼<placeName key="PL000000034769">定蘭塔院</placeName>，于今香火不絕云。</p>
+ed="T" n="0856b19"/>優禮奉之。弟子<persName key="A010592">有緣</persName>，恒執事左右。<date key="j20323052032334" notAfter-iso="+0852-03-28" notBefore-iso="+0852-02-28">六年二<lb
+ed="T" n="0856b20"/>月中</date>，又願焚然肩膊。<ref type="person" target="#A003667">帝</ref>累勸勉，年耆且務<lb
+ed="T" n="0856b21"/>久長<anchor xml:id="beg0856003"/>修煉<anchor xml:id="end0856003"/><ptr type="glossary" target="#g75"/>。<persName key="A010594">蘭</persName>不奉詔，遂焚焉而絕。<persName key="A010592">有緣</persName>表<lb
+ed="T" n="0856b22"/>請易名建塔，勅謚<persName key="A010594">覺性</persName>也，塔號<placeName key="PL000000034769">悟真</placeName>也。<lb
+ed="T" n="0856b23"/><placeName key="PL000000034805">蜀都</placeName>止呼<placeName key="PL000000034769">定蘭塔院</placeName>，于今香火不絕云。</p>
+    <linkGrp>
+        <link targets="#0856b03 #0856b03"/>
+        <ptr target="#A010594" type="person"/>
+        <ptr target="#PL000000034767" type="place"/>
+    </linkGrp>
     <linkGrp>
         <link targets="#0856b05 #0856b07"/>
         <ptr target="#A010594" type="person"/>
-        <ptr target="#PL000000034650" type="place"/>
+        <ptr target="#PL000000000662" type="place"/>
     </linkGrp>
     <linkGrp>
-        <link targets="#0856b09 #0856b10"/>
+        <link targets="#0856b08 #0856b10"/>
         <ptr target="#A010594" type="person"/>
         <ptr target="#PL000000034982" type="place"/>
     </linkGrp>
@@ -35,12 +40,21 @@ ed="T" n="0856b23"/><placeName key="PL000000034785">蜀都</placeName>止呼<pla
         <link targets="#0856b17 #0856b18"/>
         <ptr target="#A010594" type="person"/>
         <ptr target="#A003667" type="person"/>
+        <ptr target="#A010592" type="person"/>
+        <ptr target="#PL000000042189" type="place"/>
         <ptr target="#j20311832031566" type="time"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0856b19 #0856b21"/>
         <ptr target="#A010594" type="person"/>
         <ptr target="#A003667" type="person"/>
+        <ptr target="#A010592" type="person"/>
+        <ptr target="#PL000000042189" type="place"/>
         <ptr target="#j20323052032334" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0856b21 #0856b22"/>
+        <ptr target="#A003667" type="person"/>
+        <ptr target="#A010592" type="person"/>
     </linkGrp>
 </div>

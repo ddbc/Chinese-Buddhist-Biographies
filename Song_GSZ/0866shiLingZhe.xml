@@ -1,27 +1,27 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" type="習禪" xml:id="gsz0761b13shiLingZhe"><lb
-ed="T" n="0761b13"/><anchor n="T.50.2061.0761b13"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date><placeName key="PL000000042148">京師大安國寺楞伽院</placeName><persName key="A010239">靈著</persName>傳（<persName key="A010246">法翫</persName>）</head><p><lb
-ed="T" n="0761b14"/><persName key="A010239">釋靈著</persName>，姓劉氏，<placeName key="PL000000035431">緜州巴西</placeName>人也。<ref target="#j19785561978920" type="date">年殆志學</ref><ptr type="glossary" target="#g1443"/>，方<lb
+ed="T" n="0761b13"/><anchor n="T.50.2061.0761b13"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date><placeName key="PL000000042148"><placeName>京師</placeName><placeName>大安國寺</placeName><placeName>楞伽院</placeName></placeName><persName key="A010239">靈著</persName>傳（<persName key="A010246">法翫</persName>）</head><p><lb
+ed="T" n="0761b14"/><persName key="A010239">釋靈著</persName>，姓<name>劉</name>氏，<placeName key="PL000000035431"><placeName>緜州</placeName><placeName>巴西</placeName></placeName>人也。<ref target="#j19785561978920" type="date">年殆志學</ref><ptr type="glossary" target="#g1443"/>，方<lb
 ed="T" n="0761b15"/>遂出家，登戒尋師，不下千里。<date key="j19876871988051" from-iso="+0730-01-01" to-iso="+0730-12-31">年四十</date>，精毘<lb
 ed="T" n="0761b16"/>尼<ptr type="glossary" target="#g900"/>道，兼講《涅槃》，一律一經，勤於付授。晚歲請<lb
 ed="T" n="0761b17"/>問<persName key="A009319">大照<roleName>禪師</roleName></persName>，領悟宗風，守志彌篤。後詣<placeName key="PL000000042189">長<lb
 ed="T" n="0761b18"/>安</placeName>，誕敷<ptr type="glossary" target="#g1444"/>禪法，慕道求<ref type="person" target="#A010239">師</ref>者不減千計，若<lb
 ed="T" n="0761b19"/>魚龍之會淵澤也。以<date key="j19936591993659" when-iso="+0746-05-09"><name>天寶</name>五載四月十日</date>申<lb
-ed="T" n="0761b20"/>時，示滅于<placeName key="PL000000042148">安國寺石楞伽經院</placeName>，享壽五十六，<lb
+ed="T" n="0761b20"/>時，示滅于<placeName key="PL000000042148"><placeName>安國寺</placeName><placeName>石楞伽經院</placeName></placeName>，享壽五十六，<lb
 ed="T" n="0761b21"/>僧夏三十六。將終，<ref type="place" target="#PL000000042147">寺</ref>中亟多變怪，蓋法門梁<lb
 ed="T" n="0761b22"/>棟之頹撓也。<persName key="A010239">著</persName>加趺而坐，怡然而化。<ref target="#j19936791993679">三七日</ref><lb
-ed="T" n="0761b23"/>後<anchor xml:id="beg0761003"/>茶<anchor xml:id="end0761003"/>毘，起塔于<placeName key="PL000000042029">龍首岡</placeName>，隣<persName key="A000438">佛陀波利</persName>藏舍<lb
-ed="T" n="0761b24"/>利之所，<persName key="A008912">帝女媧</persName>之墳右，以<date key="j19938351993835" when-iso="+0746-11-01">其年十月十日</date>遷<lb
+ed="T" n="0761b23"/>後<anchor xml:id="beg0761003"/>茶毘<anchor xml:id="end0761003"/>，起塔于<placeName key="PL000000042029">龍首岡</placeName>，隣<persName key="A000438">佛陀波利</persName>藏舍<lb
+ed="T" n="0761b24"/>利之所，<persName key="A008912">帝女媧</persName>之墳右<ptr target="#n1393"/>，以<date key="j19938351993835" when-iso="+0746-11-01">其年十月十日</date>遷<lb
 ed="T" n="0761b25"/>入塔焉。弟子<persName key="A010241">朗智</persName>、<persName key="A010242">道珣</persName>、<persName key="A010243">如一</persName>追慕<ref type="person" target="#A010239">師</ref>德，香<lb
-ed="T" n="0761b26"/>火不絕。內侍上柱國<placeName key="PL000000044976">天水</placeName><persName key="A010244">趙思侃</persName>命釋子<persName key="A010245">善<lb
-ed="T" n="0761b27"/>運</persName>撰碑于塔所焉。有<placeName key="PL000000011480">錢塘靈智寺</placeName><persName key="A010246">釋法翫</persName>，<lb
-ed="T" n="0761b28"/>俗姓馮，本<placeName key="PL000000017165">長樂</placeName>人也。隨祖宦于<placeName key="PL000000000197">江東</placeName>，遂為<lb
+ed="T" n="0761b26"/>火不絕。內侍上柱國<placeName key="PL000000044976">天水</placeName><persName key="A010244">趙思侃</persName>命<name>釋</name>子<persName key="A010245">善<lb
+ed="T" n="0761b27"/>運</persName>撰碑于塔所焉。有<placeName key="PL000000011480"><placeName>錢塘</placeName><placeName>靈智寺</placeName></placeName><persName key="A010246">釋法翫</persName>，<lb
+ed="T" n="0761b28"/>俗姓<name>馮</name>，本<placeName key="PL000000017165">長樂</placeName>人也。隨祖宦于<placeName key="PL000000000197">江東</placeName>，遂為<lb
 ed="T" n="0761b29"/><placeName key="PL000000011520">錢塘</placeName>人也。父<persName key="A010247">子通</persName>，字<persName key="A010247">元達</persName>，世襲冠裳，傳其<pb ed="T" n="0761c" xml:id="T50.2061.0761c"/><lb
 ed="T" n="0761c01"/>素業。然精覈百氏<ptr type="glossary" target="#g1445"/>之餘，執志慕<persName key="A002867">淨名</persName>之應<lb
 ed="T" n="0761c02"/>質，談論多召禪林之士，於家別室供<anchor xml:id="beg0761sgsz1"/>禮<anchor xml:id="end0761sgsz1"/>，願<lb
 ed="T" n="0761c03"/>生令嗣<ptr type="glossary" target="#g1446"/>。彌久，<persName key="A010246">翫</persName>誕于家，岐嶷<ptr type="glossary" target="#g1447"/>之性，天發端<lb
 ed="T" n="0761c04"/>謹。纔勝衣<ptr type="glossary" target="#g1448"/>也，啟<ref type="person" target="#A010247">父</ref>求出俗，固不阻留。披剃<lb
-ed="T" n="0761c05"/>登具，探賾<ptr type="glossary" target="#g331"/>三乘，如指掌焉。而性終耿介，於<lb
+ed="T" n="0761c05"/>登具，探賾<ptr rend="display:none;" type="glossary" target="#g331"/>三乘，如指掌焉。而性終耿介，於<lb
 ed="T" n="0761c06"/><ref type="place" target="#PL000000011480">此寺</ref>之深塢，實<placeName key="PL000000008367">淅江</placeName>之陽也，別構蘭若，去<lb
 ed="T" n="0761c07"/>伽藍敻<ptr type="glossary" target="#g1449"/>遠，終日安禪。時同志者造門請益，<lb
 ed="T" n="0761c08"/><persName key="A010246">翫</persName>隨事指南，多有所證。以<date key="j19928051992805" when-iso="+0744-01-06"><name>天寶</name>二載十二月<lb

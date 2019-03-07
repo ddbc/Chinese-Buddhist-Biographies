@@ -1,15 +1,15 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" type="讀誦" xml:id="gsz0862c05shiHuiWu"><lb
-ed="T" n="0862c05"/><anchor n="T.50.2061.0862c05"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date>京<anchor xml:id="beg0862002"/>兆<anchor xml:id="end0862002"/>禪定寺<persName key="A013533">慧悟</persName>傳</head><p><lb
-ed="T" n="0862c06"/><persName key="A013533">釋慧悟</persName>，未詳氏族。隱<placeName key="PL000000042007">太白山</placeName>中，持誦華嚴<lb
-ed="T" n="0862c07"/>經，服餌松木。忽於一時見一居士來云相<lb
-ed="T" n="0862c08"/>請。居士騰身入空，令<persName key="A013533">悟</persName>於衣襟中坐，攝以<lb
-ed="T" n="0862c09"/>飛行。至一道場，見五百異僧翔空而至，<persName key="A013533">悟</persName><lb
-ed="T" n="0862c10"/>奄就末行。居士語曰：「<persName key="A013533">師</persName>受持華嚴是佛境<lb
-ed="T" n="0862c11"/>界，何得於小聖下坐？」遂却引於半千人之<lb
-ed="T" n="0862c12"/>上。齋訖，居士曰：「本所齋意在<persName key="A013533">師</persName>一人，雖有<lb
+ed="T" n="0862c05"/><anchor n="T.50.2061.0862c05"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date><placeName key="PL000000042412"><placeName><anchor xml:id="beg0862002"/>京兆<anchor xml:id="end0862002"/></placeName><placeName> 禪定寺</placeName></placeName><ptr target="#n2975"/><persName key="A013533">慧悟</persName>傳</head><p><lb
+ed="T" n="0862c06"/><persName key="A013533">釋慧悟</persName>，未詳氏族。隱<placeName key="PL000000042007">太白山</placeName>中，持誦《華嚴<lb
+ed="T" n="0862c07"/>經》，服餌松<choice resp="sgsz"><sic>木</sic><corr>朮</corr></choice><ptr target="#n2976"/>。忽於一時見一居士來云相<lb
+ed="T" n="0862c08"/>請<ptr target="#n2977"/>。居士騰身入空，令<persName key="A013533">悟</persName>於衣襟中坐，攝以<lb
+ed="T" n="0862c09"/>飛行<ptr target="#n2978"/>。至一道場，見五百異僧翔空而至，<persName key="A013533">悟</persName><lb
+ed="T" n="0862c10"/>奄就末行。居士語曰：「<ref type="person" target="#A013533">師</ref>受持《華嚴》是佛境<lb
+ed="T" n="0862c11"/>界，何得於小聖<ptr type="glossary" target="#g514"/>下坐？」遂却引於半千人之<lb
+ed="T" n="0862c12"/>上。齋訖，居士曰：「本所齋意在<ref type="person" target="#A013533">師</ref>一人，雖有<lb
 ed="T" n="0862c13"/>五百羅漢來食，皆臨時相請耳。」齋訖，遂送還<lb
-ed="T" n="0862c14"/>本處，有如夢覺。即高宗<date key="j19585081960698" notAfter-iso="+0656-02-09" notBefore-iso="+0650-02-10">永徽</date>年中也。</p>
+ed="T" n="0862c14"/>本處，有如夢覺<ptr target="#n2979"/>。即<persName key="A002146">高宗</persName><date key="j19585081960698" notAfter-iso="+0656-02-09" notBefore-iso="+0650-02-10"><name>永徽</name></date>年中也。</p>
     <linkGrp>
         <link targets="#0862c06 #0862c14"/>
         <ptr target="#A013533" type="person"/>

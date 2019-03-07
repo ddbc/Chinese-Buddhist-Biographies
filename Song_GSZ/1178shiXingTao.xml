@@ -1,30 +1,35 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" type="讀誦" xml:id="gsz0871a21shiXingTao"><lb
-ed="T" n="0871a21"/><anchor n="T.50.2061.0871a21"/><head><date from-iso="+0951-02-18" key="j20684542071729" to-iso="+0960-02-06">周</date>會稽郡大善寺<persName key="A013624">行瑫</persName>傳</head><p><lb
-ed="T" n="0871a22"/><persName key="A013624">釋行瑫</persName>，姓陳氏，<placeName key="PL000000013106">湖州長城</placeName>人也。考曰<persName key="A019472">良</persName>，母<lb
+ed="T" n="0871a21"/><anchor n="T.50.2061.0871a21"/><head><date from-iso="+0951-02-18" key="j20684542071729" to-iso="+0960-02-06">周</date><placeName key="PL000000013226"><placeName>會稽郡</placeName><placeName>大善寺</placeName></placeName><persName key="A013624">行瑫</persName>傳</head><p><lb
+ed="T" n="0871a22"/><persName key="A013624">釋行瑫</persName>，姓<name>陳</name>氏，<placeName key="PL000000013106"><placeName>湖州</placeName><placeName>長城</placeName></placeName>人也。考曰<persName key="A019472">良</persName>，母<lb
 ed="T" n="0871a23"/><persName key="A019473">陶<roleName>氏</roleName></persName>，鍾愛之心與諸子異。然其敏利，又於<lb
-ed="T" n="0871a24"/><anchor xml:id="beg0871sgsz5"/><choice resp="sgsz"><sic>郡</sic><corr>群</corr></choice><anchor xml:id="end0871sgsz5"/>童<anchor xml:id="beg0871sgsz6"/>傑<anchor xml:id="end0871sgsz6"/>然而出。父母多途<ptr type="glossary" target="#g1407"/>礙其出家之志，終<lb
-ed="T" n="0871a25"/>弗能禁。唐<date from-iso="+0905-02-12" key="j20516472052001" to-iso="+0906-02-01"><name>天祐</name>二年</date>依<persName key="A013627">光遠師</persName>求于剃染<ptr type="glossary" target="#g30"/>。<lb
-ed="T" n="0871a26"/><date key="j20519702052334" from-iso="+0906-01-01" to-iso="+0906-12-31">年十有二</date>，誦法華經，月奇五辰而畢軸。次維<lb
-ed="T" n="0871a27"/>摩經盡。如<persName key="A001503">道安</persName>朝請經而暮納本焉，尋於<lb
-ed="T" n="0871a28"/>餘杭<placeName key="PL000000011473">龍興寺</placeName>受滿足戒，遂往金華<placeName key="PL000000013584">雙林寺</placeName><persName key="A013625">智<lb
-ed="T" n="0871a29"/>新</persName>傳<persName key="A001519">南山</persName>律鈔<ptr target="#n1290"/>，弭節服膺，流輩推揖。常食<pb ed="T" n="0871b" xml:id="T50.2061.0871b"/><lb
-ed="T" n="0871b01"/>時至，以不<anchor xml:id="beg0871003"/>𥽦<anchor xml:id="end0871003"/>之米與菜茹投小鼎中，參煮<lb
-ed="T" n="0871b02"/>而食。此外斷無重味。義解<ptr rend="display:none;" type="glossary" target="#g544"/>之心，理棼破木，都<lb
+ed="T" n="0871a24"/><anchor xml:id="beg0871sgsz5"/><choice resp="sgsz"><sic>郡</sic><corr>群</corr></choice><anchor xml:id="end0871sgsz5"/>童<anchor xml:id="beg0871sgsz6"/>傑<anchor xml:id="end0871sgsz6"/>然而出。父母多途<ptr rend="display:none;" type="glossary" target="#g1407"/>礙其出家之志，終<lb
+ed="T" n="0871a25"/>弗能禁。<placeName key="PL000000057656">唐</placeName><date from-iso="+0905-02-12" key="j20516472052001" to-iso="+0906-02-01"><name>天祐</name>二年</date>依<persName key="A013627">光遠<roleName>師</roleName></persName>求于剃染<ptr type="glossary" target="#g30"/>。<lb
+ed="T" n="0871a26"/><date key="j20520022052384" from-iso="+0906-02-02" to-iso="+0907-02-19">年十有二</date>，誦《法華經》，月奇五辰<ptr type="glossary" target="#g1589"/>而畢軸。次《維<lb
+ed="T" n="0871a27"/>摩經》盡，如<persName key="A001503">道安</persName>朝請經而暮納本焉<ptr target="#n3136"/>。尋於<lb
+ed="T" n="0871a28"/><placeName key="PL000000011473"><placeName>餘杭</placeName><placeName>龍興寺</placeName></placeName>受滿足戒，遂往<placeName key="PL000000013584"><placeName>金華</placeName><placeName>雙林寺</placeName></placeName><persName key="A013625">智<lb
+ed="T" n="0871a29"/>新</persName>傳<persName key="A001519">南山</persName>律鈔<ptr target="#n1290"/>，弭節<ptr type="glossary" target="#g2036"/>服膺，流輩推揖。常食<pb ed="T" n="0871b" xml:id="T50.2061.0871b"/><lb
+ed="T" n="0871b01"/>時至，以不<anchor xml:id="beg0871003"/>𥽦<anchor xml:id="end0871003"/><ptr type="glossary" target="#g2037"/>之米與菜茹<ptr type="glossary" target="#g2038"/>投小鼎中，參煮<lb
+ed="T" n="0871b02"/>而食，此外斷無重味。義解<ptr rend="display:none;" type="glossary" target="#g544"/>之心，理棼<ptr type="glossary" target="#g2039"/>破木<ptr type="glossary" target="#g2040"/>，都<lb
 ed="T" n="0871b03"/>無難色。甞謂人曰：「所好甚者，不見他物之<lb
-ed="T" n="0871b04"/>可好。<persName key="A013624">吾</persName>之好也，樂且無<anchor xml:id="beg0871sgsz8"/>荒<anchor xml:id="end0871sgsz8"/>也。」<date notBefore-iso="+0926-06-16" key="j20594412060821" notAfter-iso="+0930-03-27">後唐<name>天成</name>中</date>，<lb
-ed="T" n="0871b05"/>寓于<placeName key="PL000000011304">越</placeName>，樂若耶山水，披覽大藏教，服枲麻<lb
-ed="T" n="0871b06"/>之衣。<choice resp="sgsz"><sic>慕</sic><corr>募</corr></choice>道俗置看經道場於<placeName key="PL000000013226">寺</placeName>之西北隅。<lb
+ed="T" n="0871b04"/>可好。<ref type="person" target="#A013624">吾</ref>之好也，樂且無<anchor xml:id="beg0871sgsz8"/>荒<anchor xml:id="end0871sgsz8"/>也。」<placeName key="PL000000057656">後唐</placeName><date notBefore-iso="+0926-06-16" key="j20594412060821" notAfter-iso="+0930-03-27"><name>天成</name>中</date>，<lb
+ed="T" n="0871b05"/>寓于<placeName key="PL000000013265">越</placeName>，樂<placeName key="PL000000013191">若耶</placeName>山水，披覽大藏教，服枲麻<ptr type="glossary" target="#g760"/><lb
+ed="T" n="0871b06"/>之衣。<choice resp="sgsz"><sic>慕</sic><corr>募</corr></choice>道俗置<placeName key="PL000000055479">看經道場</placeName>於<ref type="place" target="#PL000000013226">寺</ref>之西北隅，<lb
 ed="T" n="0871b07"/>構樓閣堂宇，蔚成別院，供四方僧，曾無匱<lb
-ed="T" n="0871b08"/>乏。以<date from-iso="+0956-09-11" key="j20704862070486" to-iso="+0956-09-11"><name>顯德</name>三年壬子秋七月</date>示疾，終于此<lb
+ed="T" n="0871b08"/>乏。以<date from-iso="+0956-08-14" key="j20704582070486" to-iso="+0956-09-11"><name>顯德</name>三年壬子秋七月</date><ptr target="#n3137"/>示疾，終于此<lb
 ed="T" n="0871b09"/>院，報齡六十二，法臘四十四。<persName key="A013624">瑫</persName>性剛正，無面<lb
 ed="T" n="0871b10"/>諛，無背憎，足不趨豪貴之門，囊不畜盈餘<lb
 ed="T" n="0871b11"/>之物，房無閉戶，口無雜言。亦覽群書，旁探<lb
-ed="T" n="0871b12"/>經論，慨其<persName key="A013626">郭迻</persName>音義疎略，<persName key="A001729">慧琳</persName>音義不傳，遂<lb
-ed="T" n="0871b13"/>述大藏經音疏五百許卷，今行于<placeName key="PL000000008355">江浙</placeName>左右<lb
-ed="T" n="0871b14"/>僧坊。然其短者，不宜稱疏。若言疏，可以疏<lb
+ed="T" n="0871b12"/>經論，慨其<persName key="A013626">郭迻</persName>音義<ptr target="#n3138"/>疎略，<persName key="A001729">慧琳</persName>音義<ptr target="#n3139"/>不傳，遂<lb
+ed="T" n="0871b13"/>述大藏經音疏五百許卷<ptr target="#n3140"/>，今行于<placeName key="PL000000008367">江浙</placeName>左右<lb
+ed="T" n="0871b14"/>僧坊。然其短者，不宜稱「疏」──若言「疏」，可以疏<lb
 ed="T" n="0871b15"/>通一藏經，<persName key="A013624">瑫</persName>便過<persName key="A001019">慈恩</persName>百本幾倍矣。其耿介<lb
 ed="T" n="0871b16"/>持律，古之高邁也矣。</p>
+    <linkGrp>
+        <link targets="#0871a21 #0871a21"/>
+        <ptr target="#A013624" type="person"/>
+        <ptr target="#PL000000013226" type="place"/>
+    </linkGrp>
     <linkGrp>
         <link targets="#0871a22 #0871a24"/>
         <ptr target="#A013624" type="person"/>
@@ -39,6 +44,11 @@ ed="T" n="0871b16"/>持律，古之高邁也矣。</p>
         <ptr target="#j20516472052001" type="time"/>
     </linkGrp>
     <linkGrp>
+        <link targets="#0871a26 #0871a27"/>
+        <ptr target="#A013624" type="person"/>
+        <ptr target="#j20520022052384" type="time"/>
+    </linkGrp>
+    <linkGrp>
         <link targets="#0871a27 #0871a28"/>
         <ptr target="#A013624" type="person"/>
         <ptr target="#PL000000011473" type="place"/>
@@ -50,9 +60,20 @@ ed="T" n="0871b16"/>持律，古之高邁也矣。</p>
         <ptr target="#PL000000013584" type="place"/>
     </linkGrp>
     <linkGrp>
-        <link targets="#0871b04 #0871b08"/>
+        <link targets="#0871b04 #0871b06"/>
+        <ptr target="#A013624" type="person"/>
+        <ptr target="#PL000000013191" type="place"/>
+        <ptr target="#j20594412060821" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0871b06 #0871b08"/>
+        <ptr target="#A013624" type="person"/>
+        <ptr target="#PL000000055479" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0871b08 #0871b09"/>
         <ptr target="#A013624" type="person"/>
         <ptr target="#PL000000013226" type="place"/>
-        <ptr target="#j20594412060821" type="time"/>
+        <ptr target="#j20704582070486" type="time"/>
     </linkGrp>
 </div>

@@ -1,153 +1,163 @@
 <?xml version='1.0' encoding='utf-8'?>
-<div xmlns="http://www.tei-c.org/ns/1.0" type="感通" xml:id="gsz0822a02shiSengQie">
-    <anchor n="T.50.2061.0822a02"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date>泗州普光王寺<persName key="A011303">僧伽</persName>傳（<persName key="A012091">木叉</persName> <persName key="A019810">慧儼</persName> <persName key="A012089">慧岸</persName>）</head><p><lb
+<div xmlns="http://www.tei-c.org/ns/1.0" type="感通" xml:id="gsz0822a02shiSengQie"><lb
+ed="T" n="0822a02"/><anchor n="T.50.2061.0822a02"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date><placeName key="PL000000010612"><placeName>泗州</placeName><placeName>普光王寺</placeName></placeName><persName key="A011303">僧伽</persName>傳<ptr target="#n2330"/>（<persName key="A012091">木叉</persName> <persName key="A008993">慧儼</persName> <persName key="A012089">慧岸</persName>）</head><p><lb
 ed="T" n="0822a03"/><persName key="A011303">釋僧伽</persName>者，<placeName key="PL000000049641">葱嶺</placeName>北<placeName key="PL000000055075">何國</placeName>人也。自言俗姓<name>何</name>氏，<lb
 ed="T" n="0822a04"/>亦猶<persName key="A001046">僧會</persName>本<placeName key="PL000000055079">康居國</placeName>人，便命為<persName key="A001046">康僧會</persName>也。然<lb
-ed="T" n="0822a05"/>合有胡<name>梵</name>姓名，名既<name>梵</name>音，姓涉華語。詳其<lb
-ed="T" n="0822a06"/><placeName key="PL000000055075">何國</placeName>，在<placeName key="PL000000048704">碎葉國</placeName>東北，是<placeName key="PL000000048704">碎葉</placeName>附庸耳。<persName key="A011303">伽</persName>在本<lb
-ed="T" n="0822a07"/>土，少而出家。為僧之後，誓志遊方。始至<placeName key="PL000000045066">西<lb
-ed="T" n="0822a08"/>涼府</placeName>，次歷<placeName key="PL000000015039">江淮</placeName>，當<date from-iso="+0661-04-07" key="j19625821962840" to-iso="+0661-12-21"><name>龍朔</name>初年</date>也。登即隷名<lb
-ed="T" n="0822a09"/>於山陽<placeName key="PL000000010484">龍興寺</placeName><ptr target="#n512"/>。自此始露神異。初將弟子<lb
-ed="T" n="0822a10"/><persName key="A019810">慧儼</persName>同至<placeName key="PL000000010622">臨淮</placeName>，就<placeName key="PL000000010609">信義坊</placeName>居人乞地，下標<lb
+ed="T" n="0822a05"/>合有<name>胡</name>、<name>梵</name>姓名，名既<name>梵</name>音，姓涉<name>華</name>語。詳其<lb
+ed="T" n="0822a06"/><placeName key="PL000000055075">何國</placeName>，在<placeName key="PL000000048447">碎葉國</placeName>東北，是<placeName key="PL000000048447">碎葉</placeName>附庸耳。<persName key="A011303">伽</persName>在本<lb
+ed="T" n="0822a07"/>土，少而出家。為僧之後，誓志遊方。始至<placeName key="PL000000045051">西<lb
+ed="T" n="0822a08"/>涼府</placeName>，次歷<placeName key="PL000000015039">江淮</placeName><ptr target="#n2331"/>，當<date from-iso="+0661-02-08" key="j19625241962840" to-iso="+0661-12-21"><name>龍朔</name>初年</date>也。登即隷名<lb
+ed="T" n="0822a09"/>於<placeName key="PL000000010484"><placeName>山陽</placeName><placeName>龍興寺</placeName></placeName><ptr target="#n512"/>，自此始露神異。初將弟子<lb
+ed="T" n="0822a10"/><persName key="A008993">慧儼</persName>同至<placeName key="PL000000010623">臨淮</placeName>，就<placeName key="PL000000010609">信義坊</placeName>居人乞地<ptr target="#n2317"/>，下標<lb
 ed="T" n="0822a11"/>誌之，言決於此處建立伽藍。遂穴土獲古<lb
-ed="T" n="0822a12"/>碑，乃齊國<placeName key="PL000000010614">香積寺</placeName>也。得金像衣葉，刻普照王<lb
-ed="T" n="0822a13"/>佛字，居人歎異云：「天眼先見，吾曹安得不捨<lb
-ed="T" n="0822a14"/>乎？」其碑像由<date from-iso="+0785-02-18" key="j20078242015139" to-iso="+0805-02-28"><name>貞元</name></date>、<date notBefore-iso="+0821-02-13" key="j20209682022078" notAfter-iso="+0824-02-28"><name>長慶</name>中</date>兩遭災火，因亡<lb
-ed="T" n="0822a15"/>蹤矣。嘗臥賀跋氏家，身忽長其床榻各三尺<lb
-ed="T" n="0822a16"/>許，莫不驚怪。次現十一面觀音形，其家舉<lb
+ed="T" n="0822a12"/>碑，乃<placeName key="PL000000010614"><placeName>齊國</placeName><placeName>香積寺</placeName></placeName>也<ptr target="#n2332"/>。得金像衣葉，刻「普照王<lb
+ed="T" n="0822a13"/>佛」字，居人歎異云：「天眼先見，吾曹安得不捨<lb
+ed="T" n="0822a14"/>乎？」其碑像由<date notBefore-iso="+0785-02-18" key="j20078242015139" notAfter-iso="+0805-02-28"><name>貞元</name></date>、<date notBefore-iso="+0821-02-13" key="j20209682022078" notAfter-iso="+0824-02-28"><name>長慶</name>中</date>兩遭災火，因亡<lb
+ed="T" n="0822a15"/>蹤矣。嘗臥<name>賀跋</name>氏家，身忽長其床榻各三尺<lb
+ed="T" n="0822a16"/>許，莫不驚怪。次現<name>十一面觀音</name>形，其家舉<lb
 ed="T" n="0822a17"/>族欣慶，倍加信重，遂捨宅焉。其<placeName key="PL000000010614">香積寺</placeName>基，<lb
-ed="T" n="0822a18"/>即<ref type="place" target="#PL000000010612">今寺</ref>是也。由此奇異之蹤，旋萌不止。中宗<lb
-ed="T" n="0822a19"/>孝和帝<date from-iso="+0708-02-01" key="j19796821980065" to-iso="+0709-02-18"><name>景龍</name>二年</date>，遣使詔赴<placeName key="PL000000023610">內道場</placeName>，<persName key="A002100">帝</persName>御法<lb
-ed="T" n="0822a20"/>筵言談，造膝占對休咎，契若合符。仍褒<lb
+ed="T" n="0822a18"/>即<ref type="place" target="#PL000000010612">今寺</ref>是也。由此奇異之蹤，旋萌不止。<persName key="A002100">中宗<lb
+ed="T" n="0822a19"/>孝和帝</persName><date from-iso="+0708-02-01" key="j19796821980065" to-iso="+0709-02-18"><name>景龍</name>二年</date><ptr target="#n2320"/>，遣使詔赴<placeName key="PL000000023610">內道場</placeName>，<ref type="person" target="#A002100">帝</ref>御法<lb
+ed="T" n="0822a20"/>筵言談，造膝占對休咎<ptr type="glossary" target="#g1652"/>，契若合符。仍褒<lb
 ed="T" n="0822a21"/>飾其寺曰<placeName key="PL000000010612">普光王</placeName>。<date from-iso="+0710-02-08" key="j19804201980570" to-iso="+0710-07-08">四年庚戌</date>，示疾，勅自內<lb
 ed="T" n="0822a22"/>中往<placeName key="PL000000042270">薦福寺</placeName>安置。<date key="j19804801980480" when-iso="+0710-04-09">三月二日</date><ptr target="#n513"/>，儼然坐亡，神彩<lb
 ed="T" n="0822a23"/>猶生，止瞑目耳。俗齡八十三，法臘罔知。在<lb
-ed="T" n="0822a24"/>本國三十年，化唐土五十三載。<persName key="A002100">帝</persName>慘悼黯<lb
-ed="T" n="0822a25"/>然。于時穢氣充塞，而形體宛如，多現靈迹。<lb
-ed="T" n="0822a26"/>勅有司給絹三百疋，俾歸葬淮上，令群官<lb
-ed="T" n="0822a27"/>祖送，士庶填𨶮。<date key="j19805421980542" when-iso="+0710-06-10">五月五日</date>，抵于今所。<persName key="A002100">帝</persName>以<lb
-ed="T" n="0822a28"/>仰慕不忘，因問<persName key="A011670">萬迴師</persName>曰：「彼<persName key="A011303">僧伽</persName>者何人<lb
-ed="T" n="0822a29"/>也？」。對曰：「<persName key="A002803">觀音菩薩</persName>化身也。經可不云乎？應<pb ed="T" n="0822b" xml:id="T50.2061.0822b"/><lb
-ed="T" n="0822b01"/>以比丘身得度者，故現之沙門相也。」初<persName key="A011303">伽</persName><lb
-ed="T" n="0822b02"/>化行<placeName key="PL000000000197">江表</placeName>，止嘉禾<placeName key="PL000000012759">靈光寺</placeName>。彼澤國也，民家<lb
-ed="T" n="0822b03"/>漁梁矰弋交午。<persName key="A011303">伽</persName>苦敦喻，其諸殺業陷墮於<lb
+ed="T" n="0822a24"/>本國三十年，化<placeName key="PL000000000106">唐</placeName>土五十三載。<ref type="person" target="#A002100">帝</ref>慘悼黯<lb
+ed="T" n="0822a25"/>然。于時穢氣充塞，而形體宛如，多現靈迹<ptr target="#n2319"/>。<lb
+ed="T" n="0822a26"/>勅有司給絹三百疋，俾歸葬<placeName key="PL000000010623">淮</placeName>上，令群官<lb
+ed="T" n="0822a27"/>祖送<ptr type="glossary" target="#g1387"/>，士庶填𨶮<ptr type="glossary" target="#g1375"/>。<date key="j19805421980542" when-iso="+0710-06-10">五月五日</date>，抵于今所。<ref type="person" target="#A002100">帝</ref>以<lb
+ed="T" n="0822a28"/>仰慕不忘，因問<persName key="A011670">萬迴<roleName>師</roleName></persName>曰：「彼<persName key="A011303">僧伽</persName>者何人<lb
+ed="T" n="0822a29"/>也？」對曰：「<persName key="A002803">觀音菩薩</persName>化身也。經可不云乎？應<pb ed="T" n="0822b" xml:id="T50.2061.0822b"/><lb
+ed="T" n="0822b01"/>以比丘身得度者，故現之沙門相也。<ptr target="#n2318"/>」初<persName key="A011303">伽</persName><lb
+ed="T" n="0822b02"/>化行<placeName key="PL000000000197">江表</placeName>，止<placeName key="PL000000012759"><placeName>嘉禾</placeName><placeName>靈光寺</placeName></placeName>。彼澤國也，民家<lb
+ed="T" n="0822b03"/>漁梁<ptr type="glossary" target="#g1644"/>、矰弋<ptr type="glossary" target="#g1614"/>交午<ptr type="glossary" target="#g89"/>。<persName key="A011303">伽</persName>苦敦喻：其諸殺業陷墮於<lb
 ed="T" n="0822b04"/>人，宜疾別圖生計。時有裂網折竿者多<lb
 ed="T" n="0822b05"/>矣。<persName key="A011303">伽</persName>閑而宴息，見神告曰：「天方亢陽，百姓苗<lb
 ed="T" n="0822b06"/>死身胡藏？其懶龍耶！」<persName key="A011303">伽</persName>曰：「為之奈何？」神曰：<lb
 ed="T" n="0822b07"/>「若今夕但小指出窓隙外，其如人何？」<persName key="A011303">伽</persName>依<lb
-ed="T" n="0822b08"/>之，其夜霆擊異常，質明視指，微有紅線脈<lb
-ed="T" n="0822b09"/>焉。<persName key="A011303">伽</persName>曰：「<persName key="A011303">吾</persName>與此壤無緣。」乃行抵<placeName key="PL000000009723">晉陵</placeName>，見<lb
+ed="T" n="0822b08"/>之，其夜霆擊異常，質明<ptr type="glossary" target="#g438"/>視指，微有紅線脈<lb
+ed="T" n="0822b09"/>焉。<persName key="A011303">伽</persName>曰：「<ref type="person" target="#A011303">吾</ref>與此壤無緣。」乃行抵<placeName key="PL000000009723">晉陵</placeName>，見<lb
 ed="T" n="0822b10"/><placeName key="PL000000009714">國祥寺</placeName>荒廢，乃留衣於殿梁而去，後人聞<lb
-ed="T" n="0822b11"/>異香芬馥。<persName key="A011303">伽</persName>嘗記之曰：「伊寺有人王重興。」<lb
-ed="T" n="0822b12"/>去三十年後，果有僧俗姓<persName key="A012110">全</persName>，為檀那矣。<date notBefore-iso="+0696-04-25" key="j19753841975908" notAfter-iso="+0697-10-01">通<lb
-ed="T" n="0822b13"/>天萬歲中</date>於<placeName key="PL000000010513">山陽</placeName>眾中懸知嫌鄙<persName key="A011303">伽</persName>者，乃<lb
-ed="T" n="0822b14"/>昌言曰：「吾有五十萬錢奉助功德，勿生橫<lb
-ed="T" n="0822b15"/>議。」<persName key="A011303">伽</persName>於淮岸招呼一船曰：「汝有財施<persName key="A011303">吾</persName>，可<lb
-ed="T" n="0822b16"/>寬刑獄。汝所載者剽略得耳。」盜依言盡捨，<lb
+ed="T" n="0822b11"/>異香芬馥。<persName key="A011303">伽</persName>嘗記之曰：「伊寺有『人王』重興。」<lb
+ed="T" n="0822b12"/>去三十年後，果有僧俗姓<persName key="A012110">全</persName>，為檀那矣。<date notBefore-iso="+0696-04-25" key="j19753841975908" notAfter-iso="+0697-10-01"><name>通<lb
+ed="T" n="0822b13"/>天萬歲</name>中</date>於<placeName key="PL000000010513">山陽</placeName>眾中懸知嫌鄙<persName key="A011303">伽</persName>者，乃<lb
+ed="T" n="0822b14"/>昌言曰：「<ref type="person" target="#A011303">吾</ref>有五十萬錢奉助功德，勿生橫<lb
+ed="T" n="0822b15"/>議。」<persName key="A011303">伽</persName>於<placeName key="PL000000000195">淮</placeName>岸招呼一船曰：「汝有財施<ref type="person" target="#A011303">吾</ref>，可<lb
+ed="T" n="0822b16"/>寬刑獄。汝所載者，剽略得耳。」盜依言盡捨，<lb
 ed="T" n="0822b17"/>佛殿由是立成。無幾，盜敗，拘於<placeName key="PL000000010814">揚子縣</placeName>獄。<lb
-ed="T" n="0822b18"/><persName key="A011303">伽</persName>乘雲下，慰喻言無苦。不日，果赦文至，免<lb
+ed="T" n="0822b18"/><persName key="A011303">伽</persName>乘雲下，慰喻言：無苦。不日，果赦文至，免<lb
 ed="T" n="0822b19"/>死矣。昔在<placeName key="PL000000042189">長安</placeName>，駙馬都尉<persName key="A012088">武攸暨</persName>有疾，<persName key="A011303">伽</persName><lb
-ed="T" n="0822b20"/>以澡罐水噀之而愈，聲振天邑。後有疾者<lb
+ed="T" n="0822b20"/>以澡罐水噀<ptr type="glossary" target="#g1645"/>之而愈，聲振天邑。後有疾者<lb
 ed="T" n="0822b21"/>告之，或以柳枝拂者，或令洗石師子而<lb
 ed="T" n="0822b22"/>瘳，或擲水缾，或令謝過。驗非虛設，功不<lb
-ed="T" n="0822b23"/>唐捐。却彼身災，則求馬也；警其風厄，則索<lb
-ed="T" n="0822b24"/>扇歟。或認盜夫之錢，或咋黑繩之頸，或尋<lb
-ed="T" n="0822b25"/>羅漢之井，或悟裴氏之溺，或預知大雪，或<lb
-ed="T" n="0822b26"/>救旱飛雨，神變無方，測非恒度。<persName key="A002100">中宗</persName>勅恩<lb
-ed="T" n="0822b27"/>度弟子三人，<persName key="A012089">慧岸</persName>、<persName key="A019810">慧儼</persName>、<persName key="A012091">木叉</persName>各賜衣盂，令嗣<lb
-ed="T" n="0822b28"/>香火。洎乎已滅，多歷年所，甞現形往漢南<lb
-ed="T" n="0822b29"/>市<!--找不到此地-->漆器。及商人<persName key="A012092">李善信</persName>船至寺覓買齋器，<pb ed="T" n="0822c" xml:id="T50.2061.0822c"/><lb
-ed="T" n="0822c01"/>僧忽見塔中，形像凝然，而指曰：「正唯此僧來<lb
-ed="T" n="0822c02"/>求買矣。」遠近嗟<anchor xml:id="beg0822sgsz2"/>歎<anchor xml:id="end0822sgsz2"/>。又甞於洪井化易材木，結<lb
-ed="T" n="0822c03"/>筏而至焉。<date notBefore-iso="+0766-12-22" key="j20011912005747" notAfter-iso="+0779-06-13"><name>大曆</name>中</date>，州將勒寺知十驛，俾出<lb
-ed="T" n="0822c04"/>財供乘傳者。至十五年七月甲夜<!--找不到此時間-->，現形于<lb
+ed="T" n="0822b23"/>唐<ptr type="glossary" target="#g1646"/>捐。却彼身災，則求馬也；警其風厄，則索<lb
+ed="T" n="0822b24"/>扇歟。或認盜夫之錢，或咋黑繩<ptr type="glossary" target="#g1647"/>之頸，或尋<lb
+ed="T" n="0822b25"/>羅漢之井，或悟<persName key="A012108">裴<roleName>氏</roleName></persName>之溺，或預知大雪，或<lb
+ed="T" n="0822b26"/>救旱飛雨。神變無方，測非恒度<ptr type="glossary" target="#g1797"/>。<persName key="A002100">中宗</persName>勅恩<lb
+ed="T" n="0822b27"/>度弟子三人<ptr target="#n2329"/>──<persName key="A012089">慧岸</persName>、<persName key="A008993">慧儼</persName>、<persName key="A012091">木叉</persName><ptr target="#n2333"/>──各賜衣盂，令嗣<lb
+ed="T" n="0822b28"/>香火。洎乎已滅，多歷年所，甞現形往<placeName key="PL000000027353">漢南</placeName><lb
+ed="T" n="0822b29"/>市漆器。及商人<persName key="A012092">李善信</persName>船至<ref type="place" target="#PL000000010612">寺</ref>，覓買齋器<ptr type="glossary" target="#g1648"/><pb ed="T" n="0822c" xml:id="T50.2061.0822c"/><lb
+ed="T" n="0822c01"/>僧。忽見塔中形像，凝然而指曰：「正唯此僧來<lb
+ed="T" n="0822c02"/>求買矣！」遠近嗟<anchor xml:id="beg0822sgsz2"/>歎<anchor xml:id="end0822sgsz2"/>。又甞於<placeName key="PL000000018628">洪井</placeName>化易材木，結<lb
+ed="T" n="0822c03"/>筏而至焉。<date notBefore-iso="+0766-12-22" key="j20011912005993" notAfter-iso="+0780-02-14"><name>大曆</name>中</date>，州將勒寺知<ptr target="#n2321"/>十驛，俾出<lb
+ed="T" n="0822c04"/>財供乘傳者。至十五年七月甲夜<ptr target="#n2322"/>，現形于<lb
 ed="T" n="0822c05"/>內殿，乞免郵亭之役。<persName key="A004379">代宗</persName>勅中官<ptr type="glossary" target="#g932"/><persName key="A012098">馬奉誠</persName>宣<lb
 ed="T" n="0822c06"/>放，仍齎捨絹三百疋、雜綵千段、金澡罐、皇太<lb
 ed="T" n="0822c07"/>子衣一襲，令寫貌入內供養。又<date notBefore-iso="+0758-03-22" key="j19979941998806" notAfter-iso="+0760-06-11"><name>乾元</name>中</date>，州<lb
-ed="T" n="0822c08"/>牧<persName key="A012099">李</persName>（亡名）。有推步者云：「為土宿加臨，災當惡<lb
-ed="T" n="0822c09"/>弱。」<persName key="A011303">伽</persName>忽現形，撫<persName key="A012099">李</persName>背曰：「<persName key="A011303">吾</persName>來福至，汗出災<lb
-ed="T" n="0822c10"/>銷。」後無他咎。甞於燕師求氈罽，<anchor xml:id="beg0822sgsz3"/>稍<anchor xml:id="end0822sgsz3"/>是<placeName key="PL000000010623">泗州</placeName><lb
-ed="T" n="0822c11"/>寺僧。燕使齎所求物到，認塔中形信矣。遂<lb
-ed="T" n="0822c12"/>圖貌而歸，自燕薊展轉傳寫，無不遍焉。<date from-iso="+0821-02-13" key="j20209682021319" to-iso="+0822-01-30">長<lb
-ed="T" n="0822c13"/>慶元年</date>夜半，於州牧<persName key="A012100">蘇公</persName>寢室前歌曰：「<placeName key="PL000000015039">淮南</placeName><lb
+ed="T" n="0822c08"/>牧<persName key="A012099">李</persName>（亡名），有推步者云：「為土宿<ptr target="#n2323"/>加臨，災當惡<lb
+ed="T" n="0822c09"/>弱。」<persName key="A011303">伽</persName>忽現形，撫<persName key="A012099">李</persName>背曰：「<ref type="person" target="#A011303">吾</ref>來福至，汗出災<lb
+ed="T" n="0822c10"/>銷。」後無他咎。甞於<placeName key="PL000000000514">燕</placeName>師求氈罽<ptr type="glossary" target="#g310"/>，<anchor xml:id="beg0822sgsz3"/><choice resp="sgsz"><sic>稍</sic><corr>稱</corr></choice><anchor xml:id="end0822sgsz3"/>是<placeName key="PL000000010623">泗州</placeName><lb
+ed="T" n="0822c11"/>寺僧。<placeName key="PL000000000514">燕</placeName>使齎所求物到，認塔中形，信矣！遂<lb
+ed="T" n="0822c12"/>圖貌而歸。自<placeName key="PL000000000514">燕</placeName>、<placeName key="PL000000000769">薊</placeName>展轉傳寫，無不遍焉。<date from-iso="+0821-02-13" key="j20209682021319" to-iso="+0822-01-30"><name>長<lb
+ed="T" n="0822c13"/>慶</name>元年</date>夜半，於州牧<persName key="A012100">蘇<roleName>公</roleName></persName>寢室前歌曰：「<placeName key="PL000000000195">淮</placeName>南、<lb
 ed="T" n="0822c14"/><placeName key="PL000000000195">淮</placeName>北，自此福焉。自東自西，無不熟矣。」其年<lb
-ed="T" n="0822c15"/>獨<placeName key="PL000000010622">臨淮</placeName>境內有年耳。<date from-iso="+0822-01-31" key="j20213202021703" to-iso="+0823-02-18">二年</date>寺塔皆焚，唯<persName key="A011303">伽</persName>遺<lb
-ed="T" n="0822c16"/>形儼若無損。<date notBefore-iso="+0860-12-21" key="j20355242040147" notAfter-iso="+0873-08-18"><name>咸通</name>中</date>，<persName key="A010620">龐勛</persName>者本<placeName key="PL000000009517">徐州</placeName>戍卒，擅<lb
-ed="T" n="0822c17"/>離桂管，沿路劫掠，而攻<placeName key="PL000000010623">泗州</placeName>，圍逼其城。<persName key="A011303">伽</persName><lb
+ed="T" n="0822c15"/>獨<placeName key="PL000000010623">臨淮</placeName>境內有年耳。<date from-iso="+0822-01-31" key="j20213202021703" to-iso="+0823-02-18">二年</date>寺塔皆焚，唯<persName key="A011303">伽</persName>遺<lb
+ed="T" n="0822c16"/>形儼若無損。<date notBefore-iso="+0860-12-21" key="j20355242040147" notAfter-iso="+0873-08-18"><name>咸通</name>中</date>，<persName key="A010620">龐勛</persName>者──本<placeName key="PL000000009517">徐州</placeName>戍卒──，擅<lb
+ed="T" n="0822c17"/>離<placeName key="PL000000032257">桂管</placeName>，沿路劫掠而攻<placeName key="PL000000010623">泗州</placeName>，圍逼其城。<persName key="A011303">伽</persName><lb
 ed="T" n="0822c18"/>於塔頂現形，外寇皆睡，城中偶出擊之，驚<lb
-ed="T" n="0822c19"/>竄而陷，<placeName key="PL000000015989">宿州</placeName>以事奏聞，仍錫號<persName key="A011303">證聖大師</persName>也。<lb
-ed="T" n="0822c20"/><date from-iso="+0888-04-11" key="j20454972045509" to-iso="+0888-04-23"><name>文德</name>元年</date>，外寇侵軼，州將嬰城拒敵。<persName key="A011303">伽</persName>現<lb
+ed="T" n="0822c19"/>竄而陷<placeName key="PL000000015989">宿州</placeName><ptr target="#n2324"/>。以事奏聞，仍錫號<persName key="A011303">證聖大師</persName>也<ptr target="#n2325"/>。<lb
+ed="T" n="0822c20"/><date from-iso="+0888-04-11" key="j20454972045799" to-iso="+0889-02-07"><name>文德</name>元年</date>，外寇侵軼，州將嬰<ptr rend="display:none;" type="glossary" target="#g990"/>城拒敵。<persName key="A011303">伽</persName>現<lb
 ed="T" n="0822c21"/>形於城西北隅。寇見，知堅壘難下，駭而宵<lb
-ed="T" n="0822c22"/>遁。<date notBefore-iso="+0890-01-29" key="j20461552046912" notAfter-iso="+0892-02-25"><name>大順</name>中</date>彭門帥時溥令<persName key="A012101">張諫</persName>攻于北城，<lb
+ed="T" n="0822c22"/>遁<ptr target="#n2326"/>。<date notBefore-iso="+0890-01-29" key="j20461552046912" notAfter-iso="+0892-02-25"><name>大順</name>中</date><placeName key="PL000000009517">彭門</placeName>帥<persName key="A023418">時溥</persName>令<persName key="A012101">張諫</persName>攻于北城，<lb
 ed="T" n="0822c23"/>除勦戮外，有五百餘人拘鞠場中，<persName key="A012101">諫</persName>凭<anchor xml:id="beg0822sgsz4"/>桉<anchor xml:id="end0822sgsz4"/><lb
 ed="T" n="0822c24"/>恍惚間見僧衣紫，誨之曰：「此輩平人，何可<lb
 ed="T" n="0822c25"/>殺耶？不如捨之。」言畢不見。<persName key="A012101">諫</persName>遂縱之而<lb
 ed="T" n="0822c26"/>逸。<date from-iso="+0894-02-14" key="j20476322047985" to-iso="+0895-02-02"><name>乾寧</name>元年</date>，太守<persName key="A012102">臺蒙</persName>夢<persName key="A011303">伽</persName>云：「寒東南少備。」<lb
-ed="T" n="0822c27"/><persName key="A012102">蒙</persName>不喻旨，以綿衾法服施之。<date from-iso="+0895-01-04" key="j20479562047985" to-iso="+0895-02-02">十二月</date>晦夜<lb
+ed="T" n="0822c27"/><persName key="A012102">蒙</persName>不喻旨，以綿衾法服施之。<date key="j20479852047985" when-iso="+0895-02-02">十二月晦</date>夜<lb
 ed="T" n="0822c28"/>半，有兵士踰壘而入，<persName key="A012102">蒙</persName>初不知。復夢一僧<lb
 ed="T" n="0822c29"/>以錫杖置于心上，冷徹心骨，驚起。<persName key="A012102">蒙</persName>令<pb ed="T" n="0823a" xml:id="T50.2061.0823a"/><lb
-ed="T" n="0823a01"/>動鼓角，賊驚奔，獲首領姓韓，至是方曉矣。<lb
-ed="T" n="0823a02"/>由此多於塔頂現小僧狀，傾州瞻望，然有<lb
-ed="T" n="0823a03"/>吉凶表兆于時，乞風者分風，求子者得子，<lb
-ed="T" n="0823a04"/>今聞有躬<anchor xml:id="beg0823sgsz1"/>禮<anchor xml:id="end0823sgsz1"/>者。往往有全不見<persName key="A011303">伽</persName>形相者，<lb
+ed="T" n="0823a01"/>動鼓角，賊驚奔，獲首領姓<name>韓</name>，至是方曉矣。<lb
+ed="T" n="0823a02"/>由此多於塔頂現小僧狀，傾州瞻望。然有<lb
+ed="T" n="0823a03"/>吉凶表兆，于時乞風者分風，求子者得子。<lb
+ed="T" n="0823a04"/>今聞有躬<anchor xml:id="beg0823sgsz1"/>禮<anchor xml:id="end0823sgsz1"/>者，往往有全不見<persName key="A011303">伽</persName>形相者。<lb
 ed="T" n="0823a05"/>或見笑容者吉，不然則凶，其不可爰度者<lb
 ed="T" n="0823a06"/>如此。泊乎<persName key="A006586">周世宗</persName>有事于<placeName key="PL000000000197">江南</placeName>，先攻取<placeName key="PL000000021452">泗</placeName><lb
 ed="T" n="0823a07"/>上，<persName key="A011303">伽</persName>寄夢於州民，言不宜輕敵。如是達<lb
 ed="T" n="0823a08"/>于州牧，皆未之信。自爾家家夢同，告之，遂<lb
-ed="T" n="0823a09"/>降，全一郡生民，賴<persName key="A011303">伽</persName>之庇矣。天下凡造精<lb
+ed="T" n="0823a09"/>降<ptr target="#n2327"/>，全一郡生民，賴<persName key="A011303">伽</persName>之庇矣。天下凡造精<lb
 ed="T" n="0823a10"/>廬，必立<persName key="A011303">伽</persName>真相，牓曰<persName key="A011303">大聖僧伽和尚</persName>。有所<lb
-ed="T" n="0823a11"/>乞願，多遂人心。<persName key="A007761">李北海邕</persName>、胡著作浩各為碑<lb
-ed="T" n="0823a12"/>頌德。今上御宇也，留心于此，其年三月有<lb
+ed="T" n="0823a11"/>乞願，多遂人心。<persName key="A007761"><persName>李</persName><persName>北海</persName><persName>邕</persName></persName>、<persName key="A023422">胡<roleName>著作</roleName>浩</persName><ptr target="#n2328"/>各為碑<lb
+ed="T" n="0823a12"/>頌德。<ref type="person" target="#A001640">今上</ref>御宇也，留心于此，<date from-iso="+0976-04-08" key="j20776352077663" to-iso="+0976-05-06">其年三月</date>有<lb
 ed="T" n="0823a13"/>尼遊<placeName key="PL000000005250">五臺山</placeName>迴，因見<persName key="A011303">伽</persName>於塔頂，作孾孩相，<lb
 ed="T" n="0823a14"/>遂登剎柱，捨身命供養。<date from-iso="+0982-02-02" key="j20797612080144" to-iso="+0983-02-20"><name>太平興國</name>七年</date>，勅<lb
 ed="T" n="0823a15"/>高品<persName key="A012104">白承睿</persName>重蓋其塔，務從高敞，加其累<lb
 ed="T" n="0823a16"/>層。<date from-iso="+0983-02-21" key="j20801452080498" to-iso="+0984-02-09">八年</date>，遣使別送舍利寶貨，同葬于下基<lb
 ed="T" n="0823a17"/>焉。其日有僧<persName key="A013530">懷德</persName>預搆柴樓，自持蠟炬，焚<lb
-ed="T" n="0823a18"/>身供養。災燎之中，經聲不絕。又將欲建浮<lb
-ed="T" n="0823a19"/>圖，有巨木三根，<anchor xml:id="beg0823sgsz2"/>沼<anchor xml:id="end0823sgsz2"/>淮而下，至近浮橋且止，<lb
+ed="T" n="0823a18"/>身供養。災燎之中，經聲不絕<ptr target="#n2959"/>。又將欲建浮<lb
+ed="T" n="0823a19"/>圖，有巨木三根，<anchor xml:id="beg0823sgsz2"/>沼<choice resp="sgsz"><sic>沼</sic><corr>沿</corr></choice><anchor xml:id="end0823sgsz2"/><placeName key="PL000000000195">淮</placeName>而下，至近浮橋且止，<lb
 ed="T" n="0823a20"/>收為塔心柱焉。續勅殿頭高品<persName key="A012106">李庭訓</persName>主<lb
-ed="T" n="0823a21"/>之。先是此寺因竁中金<ptr type="glossary" target="#g1078"/>像刻其佛曰普照<lb
-ed="T" n="0823a22"/>王，乃以為寺額。後避<persName key="A002099">天后</persName>御名，以光字代<lb
-ed="T" n="0823a23"/>之。近宣索<persName key="A011303">僧伽</persName>實錄，上覽已，勅還其題額<lb
-ed="T" n="0823a24"/>曰<placeName key="PL000000010612">普照王寺</placeName>矣。弟子<persName key="A012091">木叉</persName>者，以<placeName key="PL000000055436">西域</placeName>言為<lb
-ed="T" n="0823a25"/>名，<name>華</name>言<persName key="A012091">解脫</persName>也。自幼從<persName key="A011303">伽</persName>為剃䰂<ptr type="glossary" target="#g635"/>弟子，<lb
+ed="T" n="0823a21"/>之。先是此寺因竁<ptr type="glossary" target="#g323"/>中金像刻其佛曰「普照<lb
+ed="T" n="0823a22"/>王」，乃以為寺額。後避<persName key="A002099">天后</persName>御名，以「光」字代<lb
+ed="T" n="0823a23"/>之。近宣索《<persName key="A011303">僧伽</persName>實錄》，<ref type="person" target="#A001640">上</ref>覽已，勅還其題額<lb
+ed="T" n="0823a24"/>曰<placeName key="PL000000010612">普照王寺</placeName>矣<ptr target="#n774"/>。弟子<persName key="A012091">木叉</persName>者，以<placeName key="PL000000055436">西域</placeName>言為<lb
+ed="T" n="0823a25"/>名，<name>華</name>言<persName key="A012091">解脫</persName>也。自幼從<persName key="A011303">伽</persName>為剃䰂<ptr rend="display:none;" type="glossary" target="#g635"/>弟子，<lb
 ed="T" n="0823a26"/>然則多顯靈異。<date from-iso="+0884-02-05" key="j20439702044323" to-iso="+0885-01-23"><name>中和</name>四年</date>，刺史<persName key="A012107">劉讓</persName>，厥父中<lb
-ed="T" n="0823a27"/>丞忽夜夢一紫衣僧云：「吾有弟子<persName key="A012091">木叉</persName>葬<lb
-ed="T" n="0823a28"/>寺之西，為日久矣，君能出之。」仍示其葬所。<lb
+ed="T" n="0823a27"/>丞忽夜夢一紫衣僧云：「<ref type="person" target="#A011303">吾</ref>有弟子<persName key="A012091">木叉</persName>葬<lb
+ed="T" n="0823a28"/>寺之西，為日久矣！君能出之？」仍示其葬所。<lb
 ed="T" n="0823a29"/>初夢都不介意，再夢如初，中丞得夢中所<pb ed="T" n="0823b" xml:id="T50.2061.0823b"/><lb
 ed="T" n="0823b01"/>示之處，欲施<anchor xml:id="beg0823sgsz4"/><choice resp="sgsz"><sic>斷</sic><corr>斸</corr></choice><anchor xml:id="end0823sgsz4"/>之，見有<anchor xml:id="beg0823sgsz5"/><choice resp="sgsz"><sic>二</sic><corr>一</corr></choice><anchor xml:id="end0823sgsz5"/><ptr target="#n262"/>姓占居，於是<lb
 ed="T" n="0823b02"/>饒錢市焉。開穴可三尺許，乃獲坐函，遂啟<lb
 ed="T" n="0823b03"/>之，於骨上有舍利放光。命焚之，收舍利<lb
 ed="T" n="0823b04"/>八百餘顆，表進上<persName key="A005228">僖宗皇帝</persName>，勅以其焚之<lb
-ed="T" n="0823b05"/>灰塑像，仍賜諡曰<persName key="A012091">真相大師</persName>。于今侍立于<lb
-ed="T" n="0823b06"/>左，若配饗焉。弟子<persName key="A019810">慧儼</persName>，未詳氏姓，生所恒<lb
+ed="T" n="0823b05"/>灰塑像，仍賜謚曰<persName key="A012091">真相大師</persName>。于今侍立于<lb
+ed="T" n="0823b06"/>左，若配饗<ptr type="glossary" target="#g1649"/>焉。弟子<persName key="A008993">慧儼</persName>，未詳氏姓、生所，恒<lb
 ed="T" n="0823b07"/>隨師<persName key="A011303">僧伽</persName>，執侍缾錫，從<placeName key="PL000000010514">楚州</placeName>發至<placeName key="PL000000010545">淮陰</placeName>，同<lb
-ed="T" n="0823b08"/>勸<placeName key="PL000000010400">東海</placeName><persName key="A012108">裴司馬</persName>，妻悋白金沙羅而墮水。抵<lb
-ed="T" n="0823b09"/><placeName key="PL000000010635">盱眙</placeName>，開羅漢井，宿<persName key="A012109">賀跋玄濟</persName>家。<persName key="A019810">儼</persName>侍十一<lb
-ed="T" n="0823b10"/>面<persName key="A002803">觀音菩薩</persName>旁。自爾詔<persName key="A011303">僧伽</persName>上<placeName key="PL000000042189">京師</placeName>。<persName key="A002100">中宗</persName><lb
-ed="T" n="0823b11"/>別勅度<persName key="A019810">儼</persName>并<persName key="A012089">慧岸</persName>、<persName key="A012091">木叉</persName>三人，各別賜衣鉢焉。</p>
+ed="T" n="0823b08"/>勸<placeName key="PL000000010400">東海</placeName><persName key="A012108">裴<roleName>司馬</roleName></persName>──妻悋白金<ptr type="glossary" target="#g1078"/>沙羅<ptr type="glossary" target="#g1650"/>而墮水。抵<lb
+ed="T" n="0823b09"/><placeName key="PL000000010635">盱眙</placeName>，開<name>羅漢井</name><ptr target="#n2335"/>、宿<persName key="A012109">賀跋玄濟</persName>家，<persName key="A008993">儼</persName>侍十一<lb
+ed="T" n="0823b10"/>面<persName key="A002803">觀音菩薩</persName>旁<ptr target="#n2334"/>。自爾詔<persName key="A011303">僧伽</persName>上<ref type="place" target="#PL000000042189">京師</ref>。<persName key="A002100">中宗</persName><lb
+ed="T" n="0823b11"/>別勅度<persName key="A008993">儼</persName>并<persName key="A012089">慧岸</persName>、<persName key="A012091">木叉</persName>三人，各別賜衣鉢焉。</p>
+    <linkGrp>
+        <link targets="#0822a03 #0822a03"/>
+        <ptr target="#A011303" type="person"/>
+        <ptr target="#PL000000055075" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0822a04 #0822a04"/>
+        <ptr target="#A001046" type="person"/>
+        <ptr target="#PL000000055079" type="place"/>
+    </linkGrp>
     <linkGrp>
         <link targets="#0822a07 #0822a08"/>
         <ptr target="#A011303" type="person"/>
-        <ptr target="#PL000000045066" type="place"/>
+        <ptr target="#PL000000045051" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0822a08 #0822a08"/>
         <ptr target="#A011303" type="person"/>
         <ptr target="#PL000000015039" type="place"/>
-        <ptr target="#j19625821962840" type="time"/>
+        <ptr target="#j19625241962840" type="time"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0822a08 #0822a09"/>
         <ptr target="#A011303" type="person"/>
-        <ptr target="#A019810" type="person"/>
+        <ptr target="#A008993" type="person"/>
         <ptr target="#PL000000010484" type="place"/>
-        <ptr target="#j19625821962840" type="time"/>
+        <ptr target="#j19625241962840" type="time"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0822a09 #0822a15"/>
         <ptr target="#A011303" type="person"/>
-        <ptr target="#A019810" type="person"/>
+        <ptr target="#A008993" type="person"/>
         <ptr target="#PL000000010614" type="place"/>
     </linkGrp>
     <linkGrp>
@@ -179,6 +189,7 @@ ed="T" n="0823b11"/>別勅度<persName key="A019810">儼</persName>并<persName 
         <link targets="#0822a27 #0822b01"/>
         <ptr target="#A002100" type="person"/>
         <ptr target="#A011670" type="person"/>
+        <ptr target="#j19804201980570" type="time"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0822b01 #0822b05"/>
@@ -212,7 +223,7 @@ ed="T" n="0823b11"/>別勅度<persName key="A019810">儼</persName>并<persName 
         <link targets="#0822b26 #0822b27"/>
         <ptr target="#A002100" type="person"/>
         <ptr target="#A012089" type="person"/>
-        <ptr target="#A019810" type="person"/>
+        <ptr target="#A008993" type="person"/>
         <ptr target="#A012091" type="person"/>
     </linkGrp>
     <linkGrp>
@@ -220,17 +231,25 @@ ed="T" n="0823b11"/>別勅度<persName key="A019810">儼</persName>并<persName 
         <ptr target="#A004379" type="person"/>
         <ptr target="#A012098" type="person"/>
         <ptr target="#PL000000042189" type="place"/>
-        <ptr target="#j20011912005747" type="time"/>
+        <ptr target="#j20011912005993" type="time"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0822c07 #0822c10"/>
         <ptr target="#A011303" type="person"/>
         <ptr target="#A012099" type="person"/>
+        <ptr target="#j19979941998806" type="time"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0822c13 #0822c15"/>
         <ptr target="#A011303" type="person"/>
         <ptr target="#A012100" type="person"/>
+        <ptr target="#j20209682021319" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0822c16 #0822c19"/>
+        <ptr target="#A010620" type="person"/>
+        <ptr target="#PL000000032257" type="place"/>
+        <ptr target="#j20355242040147" type="time"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0822c16 #0822c19"/>
@@ -243,7 +262,18 @@ ed="T" n="0823b11"/>別勅度<persName key="A019810">儼</persName>并<persName 
         <link targets="#0822c20 #0822c22"/>
         <ptr target="#A011303" type="person"/>
         <ptr target="#PL000000010623" type="place"/>
-        <ptr target="#j20454972045509" type="time"/>
+        <ptr target="#j20454972045799" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0822c22 #0822c26"/>
+        <ptr target="#A023418" type="person"/>
+        <ptr target="#A012101" type="person"/>
+        <ptr target="#j20461552046912" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0822c22 #0822c26"/>
+        <ptr target="#A023418" type="person"/>
+        <ptr target="#PL000000009517" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0822c22 #0822c26"/>
@@ -253,10 +283,10 @@ ed="T" n="0823b11"/>別勅度<persName key="A019810">儼</persName>并<persName 
         <ptr target="#j20461552046912" type="time"/>
     </linkGrp>
     <linkGrp>
-        <link targets="#0823a06 #0823a09"/>
-        <ptr target="#A011303" type="person"/>
-        <ptr target="#A006586" type="person"/>
+        <link targets="#0822c26 #0823a01"/>
+        <ptr target="#A012102" type="person"/>
         <ptr target="#PL000000010623" type="place"/>
+        <ptr target="#j20476322047985" type="time"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0823a12 #0823a14"/>
@@ -267,6 +297,12 @@ ed="T" n="0823b11"/>別勅度<persName key="A019810">儼</persName>并<persName 
         <link targets="#0823a14 #0823a15"/>
         <ptr target="#A001640" type="person"/>
         <ptr target="#A012104" type="person"/>
+        <ptr target="#j20797612080144" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0823a16 #0823a18"/>
+        <ptr target="#A013530" type="person"/>
+        <ptr target="#j20801452080498" type="time"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0823a20 #0823a21"/>
@@ -282,24 +318,25 @@ ed="T" n="0823b11"/>別勅度<persName key="A019810">儼</persName>并<persName 
         <link targets="#0823a26 #0823b05"/>
         <ptr target="#A012107" type="person"/>
         <ptr target="#A005228" type="person"/>
+        <ptr target="#j20439702044323" type="time"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0823b06 #0823b07"/>
         <ptr target="#A011303" type="person"/>
-        <ptr target="#A019810" type="person"/>
+        <ptr target="#A008993" type="person"/>
         <ptr target="#PL000000010514" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0823b06 #0823b08"/>
         <ptr target="#A011303" type="person"/>
-        <ptr target="#A019810" type="person"/>
+        <ptr target="#A008993" type="person"/>
         <ptr target="#A012108" type="person"/>
         <ptr target="#PL000000010545" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0823b08 #0823b09"/>
         <ptr target="#A011303" type="person"/>
-        <ptr target="#A019810" type="person"/>
+        <ptr target="#A008993" type="person"/>
         <ptr target="#A012109" type="person"/>
         <ptr target="#PL000000010635" type="place"/>
     </linkGrp>
@@ -307,8 +344,9 @@ ed="T" n="0823b11"/>別勅度<persName key="A019810">儼</persName>并<persName 
         <link targets="#0823b10 #0823b11"/>
         <ptr target="#A011303" type="person"/>
         <ptr target="#A002100" type="person"/>
-        <ptr target="#A019810" type="person"/>
+        <ptr target="#A008993" type="person"/>
         <ptr target="#A012089" type="person"/>
         <ptr target="#A012091" type="person"/>
+        <ptr target="#PL000000042189" type="place"/>
     </linkGrp>
 </div>

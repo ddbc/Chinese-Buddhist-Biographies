@@ -1,28 +1,28 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" type="義解" xml:id="gsz0737a04shiChengGuan"><lb
-ed="T" n="0737a04"/><anchor n="T.50.2061.0737a04"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date><placeName key="PL000000005373">代州五臺山清涼寺</placeName><persName key="A001755">澄觀</persName>傳<ptr target="#n811"/></head><p><lb
-ed="T" n="0737a05"/><persName key="A001755">釋澄觀</persName>，姓<name>夏侯</name>氏<ptr target="#n308"/>，<placeName key="PL000000013241">越州山陰</placeName>人也。年甫<date key="j19942991994652" from-iso="+0748-02-08" to-iso="+0749-01-26">十一</date>，<lb
-ed="T" n="0737a06"/>依<placeName key="PL000000013213">寶林寺</placeName>（今<placeName key="PL000000013195">應天山</placeName>）<persName key="A009495">霈禪師</persName>出家，誦《法華經》。<date key="j19953921995745" from-iso="+0751-02-05" to-iso="+0752-01-24">十四</date>，<lb
+ed="T" n="0737a04"/><anchor n="T.50.2061.0737a04"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date><placeName key="PL000000005373"><placeName>代州</placeName><placeName>五臺山</placeName><placeName>清涼寺</placeName></placeName><persName key="A001755">澄觀</persName>傳<ptr rend="display:none;" target="#n811"/></head><p><lb
+ed="T" n="0737a05"/><persName key="A001755">釋澄觀</persName>，姓<name>夏侯</name>氏<ptr target="#n308"/>，<placeName key="PL000000013241"><placeName>越州</placeName><placeName>山陰</placeName></placeName>人也。年甫<date key="j19942991994652" from-iso="+0748-02-08" to-iso="+0749-01-26">十一</date>，<lb
+ed="T" n="0737a06"/>依<placeName key="PL000000013213">寶林寺</placeName>（今<placeName key="PL000000013195">應天山</placeName>）<persName key="A009495">霈<roleName>禪師</roleName></persName>出家，誦《法華經》。<date key="j19953921995745" from-iso="+0751-02-05" to-iso="+0752-01-24">十四</date>，<lb
 ed="T" n="0737a07"/>遇恩得度，便隷<ref type="place" target="#PL000000013213">此寺</ref>。<persName key="A001755">觀</persName>俊朗高逸，弗可以<lb
-ed="T" n="0737a08"/>細務拘。遂遍尋名山，旁求祕藏，梯航<ptr type="glossary" target="#g812"/>既具，<lb
-ed="T" n="0737a09"/><anchor xml:id="beg0737sgsz1"/><choice resp="sgsz"><sic>壺</sic><corr>壼</corr></choice><anchor xml:id="end0737sgsz1"/>奧<ptr type="glossary" target="#g592"/>必臻。<date notBefore-iso="+0758-03-22" key="j19979941998806" notAfter-iso="+0760-06-11"><name>乾元</name>中</date>，依<placeName key="PL000000009026">潤州棲霞寺</placeName><persName key="A009496">醴律師</persName>，學<lb
-ed="T" n="0737a10"/>「相部律」。<ref type="place" target="#PL000000013239">本州</ref>依<persName key="A004177">曇一</persName>，隷「南山律」。詣<placeName key="PL000000008820">金陵</placeName><persName key="A004182">玄<lb
-ed="T" n="0737a11"/>璧法師</persName>傳<placeName key="PL000000042002">關河</placeName>「三論」<ptr type="glossary" target="#g813"/>。「三論」之盛于<placeName key="PL000000000197">江表</placeName>，<persName key="A001755">觀</persName><lb
-ed="T" n="0737a12"/>之力也。<date notBefore-iso="+0766-12-22" key="j20011912005993" notAfter-iso="+0780-02-14"><name>大曆</name>中</date>，就<placeName key="PL000000008823">瓦棺寺</placeName>傳《起信》、《涅槃》。又<lb
-ed="T" n="0737a13"/>於<placeName key="PL000000010798">淮南</placeName><persName key="A002450">法藏</persName><ptr target="#n814"/>，受<persName key="A000136">海東</persName>《起信疏》義。却復<placeName key="PL000000011644">天竺</placeName><lb
+ed="T" n="0737a08"/>細務拘。遂遍尋名山，旁求祕藏。梯航<ptr type="glossary" target="#g812"/>既具，<lb
+ed="T" n="0737a09"/><anchor xml:id="beg0737sgsz1"/><choice resp="sgsz"><sic>壺</sic><corr>壼</corr></choice><anchor xml:id="end0737sgsz1"/>奧<ptr rend="display:none;" type="glossary" target="#g592"/>必臻。<date notBefore-iso="+0758-03-22" key="j19979941998806" notAfter-iso="+0760-06-11"><name>乾元</name>中</date>，依<placeName key="PL000000009026"><placeName>潤州</placeName><placeName>棲霞寺</placeName></placeName><persName key="A009496">醴<roleName>律師</roleName></persName>，學<lb
+ed="T" n="0737a10"/><persName key="A000747">相部</persName><ptr type="glossary" target="#g2176"/>律<ptr target="#n911"/>。<ref type="place" target="#PL000000013239">本州</ref>依<persName key="A004177">曇一</persName>，隷「南山律」。詣<placeName key="PL000000008820">金陵</placeName><persName key="A004182">玄<lb
+ed="T" n="0737a11"/>璧<roleName>法師</roleName></persName>傳<placeName key="PL000000042002">關河</placeName>「三論」<ptr type="glossary" target="#g813"/>。「三論」之盛于<placeName key="PL000000000197">江表</placeName>，<persName key="A001755">觀</persName><lb
+ed="T" n="0737a12"/>之力也。<date notBefore-iso="+0766-12-22" key="j20011912005993" notAfter-iso="+0780-02-14"><name>大曆</name>中</date>，就<placeName key="PL000000008823">瓦棺寺</placeName>傳《起信》<ptr target="#n3277"/>、《涅槃》。又<lb
+ed="T" n="0737a13"/>於<placeName key="PL000000010798">淮南</placeName><persName key="A002450">法藏</persName>，受<persName key="A000136">海東</persName>《起信疏》<ptr target="#n3283"/>義<ptr target="#n814"/>。却復<placeName key="PL000000011644">天竺</placeName><lb
 ed="T" n="0737a14"/><persName key="A004183">詵<roleName>法師</roleName></persName>門，溫習《華嚴大經》。<date from-iso="+0772-02-13" key="j20030702003423" to-iso="+0773-01-31">七年</date>，往<placeName key="PL000000013448">剡溪</placeName>，從<lb
-ed="T" n="0737a15"/><placeName key="PL000000034805">成都</placeName><persName key="A009504">慧量法師</persName>，覆尋「三論」。<date from-iso="+0775-02-09" key="j20041622004516" to-iso="+0776-01-29">十年</date>，就<placeName key="PL000000009928">蘇州</placeName>，從<lb
-ed="T" n="0737a16"/><persName key="A001307">湛然<roleName>法師</roleName></persName>習天台《止觀》、《法華》、《維摩》等經疏。解<lb
+ed="T" n="0737a15"/><placeName key="PL000000034805">成都</placeName><persName key="A009504">慧量<roleName>法師</roleName></persName>，覆尋「三論」。<date from-iso="+0775-02-09" key="j20041622004516" to-iso="+0776-01-29">十年</date>，就<placeName key="PL000000009928">蘇州</placeName>，從<lb
+ed="T" n="0737a16"/><persName key="A001307">湛然<roleName>法師</roleName></persName>習天台《止觀》<ptr target="#n1173"/>、《法華》、《維摩》等經疏。解<lb
 ed="T" n="0737a17"/>從上智，性自天然，所學之文，如昨拋捨，<persName key="A021933">鮑<lb
-ed="T" n="0737a18"/>靜</persName>記井，<persName key="A009507">蔡邕</persName>後身，信可知矣。又謁<placeName key="PL000000008579">牛頭山</placeName><lb
-ed="T" n="0737a19"/><persName key="A010048">忠師</persName>、<placeName key="PL000000011848">徑山</placeName><persName key="A004218">欽師</persName>、<placeName key="PL000000023581">洛陽</placeName><persName key="A004220">無名師</persName>，咨決南宗禪法。<lb
-ed="T" n="0737a20"/>復見<persName key="A022004">慧雲禪師</persName>，了北宗玄理。<persName key="A001755">觀</persName>自謂己曰：<lb
-ed="T" n="0737a21"/>「五地聖人，身證真如<ptr type="glossary" target="#g763"/>，棲心佛境，於『後得智<ptr type="glossary" target="#g815"/>』<lb
-ed="T" n="0737a22"/>中起世俗念，學世間技藝。況<ref type="person" target="#A001755">吾</ref>學地<ptr type="glossary" target="#g816"/>，能忘<lb
-ed="T" n="0737a23"/>是心？」遂翻習經、傳、子、史、小學、《蒼》、《雅》<ptr type="glossary" target="#g818"/>、<placeName key="PL000000048207">天竺</placeName>「悉曇<ptr type="glossary" target="#g449"/>」<lb
+ed="T" n="0737a18"/>靜</persName>記井<ptr target="#n3284"/>，<persName key="A009507">蔡邕</persName>後身<ptr target="#n2424"/>，信可知矣。又謁<placeName key="PL000000008579">牛頭山</placeName><lb
+ed="T" n="0737a19"/><persName key="A010048">忠<roleName>師</roleName></persName>、<placeName key="PL000000011848">徑山</placeName><persName key="A004218">欽<roleName>師</roleName></persName>、<placeName key="PL000000023581">洛陽</placeName><persName key="A004220">無名師</persName>，咨決南宗禪法。<lb
+ed="T" n="0737a20"/>復見<persName key="A022004">慧雲<roleName>禪師</roleName></persName>，了北宗玄理。<persName key="A001755">觀</persName>自謂己曰：<lb
+ed="T" n="0737a21"/>「五地聖人，身證真如<ptr rend="display:none;" type="glossary" target="#g763"/>，棲心佛境，於『後得智』<ptr type="glossary" target="#g815"/><lb
+ed="T" n="0737a22"/>中起世俗念，學世間技藝。況<ref type="person" target="#A001755">吾</ref>學地<ptr rend="display:none;" type="glossary" target="#g816"/>，能忘<lb
+ed="T" n="0737a23"/>是心？」遂翻習經、傳、子、史、小學、《蒼》、《雅》<ptr type="glossary" target="#g818"/>、<placeName key="PL000000048207">天竺</placeName>悉曇<ptr type="glossary" target="#g449"/>、<lb
 ed="T" n="0737a24"/>諸部異執，《四圍》<ptr type="glossary" target="#g819"/>、五明<ptr type="glossary" target="#g88"/>、祕呪、儀軌，至于篇、頌、筆<lb
-ed="T" n="0737a25"/>語、書蹤，一皆博綜。多能之性，自天縱之。<date from-iso="+0776-01-30" key="j20045172004900" to-iso="+0777-02-16">大<lb
-ed="T" n="0737a26"/>曆十一年</date>，誓遊<placeName key="PL000000005250">五臺</placeName>，一一巡<anchor xml:id="beg0737sgsz2"/>禮<anchor xml:id="end0737sgsz2"/>，祥瑞愈繁。仍<lb
+ed="T" n="0737a25"/>語、書蹤，一皆博綜。多能之性，自天縱之。<date from-iso="+0776-01-30" key="j20045172004900" to-iso="+0777-02-16"><name>大<lb
+ed="T" n="0737a26"/>曆</name>十一年</date>，誓遊<placeName key="PL000000005250">五臺</placeName>，一一巡<anchor xml:id="beg0737sgsz2"/>禮<anchor xml:id="end0737sgsz2"/>，祥瑞愈繁。仍<lb
 ed="T" n="0737a27"/>往<placeName key="PL000000036087">峨嵋</placeName>，求見<persName key="A003079">普賢</persName>，登險陟高，備觀聖像。<lb
 ed="T" n="0737a28"/>却還<placeName key="PL000000005250">五臺</placeName>，居<placeName key="PL000000005362">大華嚴寺</placeName>，專行「方等」懺法。時<lb
 ed="T" n="0737a29"/>寺主<persName key="A009526">賢林</persName>，請講大經，并演諸論。因慨《華嚴》<pb ed="T" n="0737b" xml:id="T50.2061.0737b"/><lb
@@ -35,44 +35,44 @@ ed="T" n="0737b06"/>迎抱之，無何<ptr rend="display:none;" type="glossary" 
 ed="T" n="0737b07"/>納光明遍照之徵也。起<date from-iso="+0784-01-31" key="j20074402008916" to-iso="+0788-02-15"><name>興元</name>元年正月<ptr target="#n311"/>，<name>貞元</name><lb
 ed="T" n="0737b08"/>三年十二月</date>畢功，成二十軸，乃飯千僧以<lb
 ed="T" n="0737b09"/>落成也。後常思付授，忽夜夢身化為龍，矯<lb
-ed="T" n="0737b10"/>首于<placeName key="PL000000005319">南臺</placeName>，蟠尾于山北，拏攫碧落<ptr type="glossary" target="#g820"/>，鱗鬣耀<lb
-ed="T" n="0737b11"/>日。須臾，蜿蜓化為千數小龍，騰<anchor xml:id="beg0737sgsz3"/><choice resp="sgsz"><sic>耀</sic><corr>躍</corr></choice><anchor xml:id="end0737sgsz3"/>青冥<ptr type="glossary" target="#g820"/>，分<lb
+ed="T" n="0737b10"/>首于<placeName key="PL000000005319">南臺</placeName>，蟠尾于山北，拏攫碧落<ptr rend="display:none;" type="glossary" target="#g820"/>，鱗鬣耀<lb
+ed="T" n="0737b11"/>日。須臾，蜿蜓化為千數小龍，騰<anchor xml:id="beg0737sgsz3"/><choice resp="sgsz"><sic>耀</sic><corr>躍</corr></choice><anchor xml:id="end0737sgsz3"/>青冥<ptr rend="display:none;" type="glossary" target="#g820"/>，分<lb
 ed="T" n="0737b12"/>散而去。蓋取象乎教法支分流布也。<date from-iso="+0788-02-16" key="j20089172008946" to-iso="+0788-03-16">四年春<lb
-ed="T" n="0737b13"/>正月</date>，<ref type="place" target="#PL000000005362">寺</ref>主<persName key="A009526">賢林</persName>請講新疏。<date from-iso="+0791-02-12" key="j20100092010362" to-iso="+0792-01-31">七年</date>，<placeName key="PL000000003797">河東節度使</placeName><lb
+ed="T" n="0737b13"/>正月</date>，<ref type="place" target="#PL000000005362">寺</ref>主<persName key="A009526">賢林</persName>請講新疏。<date from-iso="+0791-02-12" key="j20100092010362" to-iso="+0792-01-31">七年</date>，<placeName key="PL000000003797">河東</placeName>節度使<lb
 ed="T" n="0737b14"/><persName key="A009527">李<roleName>公</roleName>自良</persName>復請於<placeName key="PL000000003781">崇福寺</placeName>講。<persName key="A004215">德宗</persName>降中使<lb
-ed="T" n="0737b15"/><persName key="A009528">李輔光</persName>宣詔入<placeName key="PL000000042189">都</placeName>，與<placeName key="PL000000055418">罽賓</placeName>三藏<persName key="A000993">般若</persName>譯<placeName key="PL000000048336">烏<lb
+ed="T" n="0737b15"/><persName key="A009528">李輔光</persName>宣詔入<ref type="place" target="#PL000000042189">都</ref>，與<placeName key="PL000000055418">罽賓</placeName>三藏<persName key="A000993">般若</persName>譯<placeName key="PL000000048336">烏<lb
 ed="T" n="0737b16"/>荼國</placeName>王所進《華嚴》後分四十卷。<persName key="A001755">觀</persName>苦辭，請明<lb
-ed="T" n="0737b17"/>年入。勅允。及具行，至<placeName key="PL000000005165">蒲津</placeName>，中令梁公<ptr type="glossary" target="#g821"/>留安<lb
-ed="T" n="0737b18"/>居<ptr type="glossary" target="#g61"/>，遂於<placeName key="PL000000005173">中條山棲巖寺</placeName>住。<ref type="place" target="#PL000000005173">寺</ref>有禪客，拳眉<lb
+ed="T" n="0737b17"/>年入。勅允。及具行，至<placeName key="PL000000005165">蒲津</placeName>，中令<name>梁</name>公<ptr rend="display:none;" type="glossary" target="#g821"/>留安<lb
+ed="T" n="0737b18"/>居<ptr rend="display:none;" type="glossary" target="#g61"/>，遂於<placeName key="PL000000005173"><placeName>中條山</placeName><placeName>棲巖寺</placeName></placeName>住。<ref type="place" target="#PL000000005173">寺</ref>有禪客，拳眉<lb
 ed="T" n="0737b19"/>翦髮，字曰<persName key="A009530">癡人</persName>，披短褐，操長策，狂歌雜語，<lb
-ed="T" n="0737b20"/>凡所指厈<ptr type="glossary" target="#g822"/>，皆多應驗。<persName key="A001755">觀</persName>未至之前，狂僧驅<lb
-ed="T" n="0737b21"/>眾僧洒掃曰：「不久菩薩來此。」復次壁畫<persName key="A021962">散<lb
+ed="T" n="0737b20"/>凡所指厈<ptr rend="display:none;" type="glossary" target="#g822"/>，皆多應驗。<persName key="A001755">觀</persName>未至之前，狂僧驅<lb
+ed="T" n="0737b21"/>眾僧洒掃曰：「不久菩薩來此」。復次壁畫<persName key="A021962">散<lb
 ed="T" n="0737b22"/>脂大將</persName>及山麋之怪，往往不息。<persName key="A001755">觀</persName>既止<ref type="place" target="#PL000000005173">此<lb
 ed="T" n="0737b23"/>寺</ref>，二事俱靜。<date from-iso="+0792-05-30" key="j20104822010510" to-iso="+0792-06-27">五月</date>，內中使<persName key="A009163">霍仙鳴</persName>傳宣催<lb
 ed="T" n="0737b24"/>入。<persName key="A001755">觀</persName>至，<ref type="person" target="#A004215">帝</ref>頗敦重，延入譯場刊正。又詔令<lb
-ed="T" n="0737b25"/>造疏。遂於<placeName key="PL000000042657">終南草堂寺</placeName>編成十卷，進呈，<lb
+ed="T" n="0737b25"/>造疏。遂於<placeName key="PL000000042657"><placeName>終南</placeName><placeName>草堂寺</placeName></placeName>編成十卷，進呈，<lb
 ed="T" n="0737b26"/>勅令兩街各講一遍為疏。時堂前池生五<lb
 ed="T" n="0737b27"/>枝合歡蓮華，一華皆有三節，人咸歎伏。尋<lb
-ed="T" n="0737b28"/>譯《守護國界主經》，<persName key="A001755">觀</persName>綴文潤色。<persName key="A004380">順宗</persName>在春<lb
-ed="T" n="0737b29"/>宮，嘗垂教令述《了義》一卷、《心要》一卷并《食<pb ed="T" n="0737c" xml:id="T50.2061.0737c"/><lb
+ed="T" n="0737b28"/>譯《守護國界主經》<ptr target="#n3285"/>，<persName key="A001755">觀</persName>綴文潤色。<persName key="A004380">順宗</persName>在春<lb
+ed="T" n="0737b29"/>宮，嘗垂教令述《了義》<ptr target="#n3286"/>一卷、《心要》<ptr target="#n3287"/>一卷并《食<pb ed="T" n="0737c" xml:id="T50.2061.0737c"/><lb
 ed="T" n="0737c01"/>肉得罪因緣》。洎至<placeName key="PL000000042189">長安</placeName>，頻加禮接。朝臣歸<lb
-ed="T" n="0737c02"/>向，則<persName key="A009531">齊相國<anchor xml:id="beg0737sgsz4"/><choice resp="sgsz"><sic>杭</sic><corr>抗</corr></choice><anchor xml:id="end0737sgsz4"/></persName>、<persName key="A009532">韋太常渠牟</persName>，皆結交最深。故<lb
+ed="T" n="0737c02"/>向，則<persName key="A009531">齊<roleName>相國</roleName><anchor xml:id="beg0737sgsz4"/><choice resp="sgsz"><sic>杭</sic><corr>抗</corr></choice><anchor xml:id="end0737sgsz4"/></persName>、<persName key="A009532">韋<roleName>太常</roleName>渠牟</persName>，皆結交最深。故<lb
 ed="T" n="0737c03"/>相<persName key="A009534">武元衡</persName>、<persName key="A009535">鄭絪</persName>、<persName key="A004369">李吉甫</persName>、<persName key="A009536">權德輿</persName>、<persName key="A009537">李逢吉</persName>、中書舍<lb
 ed="T" n="0737c04"/>人<persName key="A009538">錢徽</persName>、兵部侍郎<persName key="A009183">歸登</persName>、<placeName key="PL000000027118">襄陽</placeName>節度使<persName key="A004372">嚴綬</persName>、<placeName key="PL000000013239">越州</placeName><lb
 ed="T" n="0737c05"/>觀察使<persName key="A009184">孟簡</persName>、<placeName key="PL000000018628">洪州</placeName><persName key="A009540">韋丹</persName>，咸慕高風，或從戒<lb
 ed="T" n="0737c06"/>訓。以<date from-iso="+0806-01-29" key="j20154742020967" to-iso="+0821-02-12"><name>元和</name>年</date>卒，春秋七十餘<ptr target="#n823"/>。弟子傳法者<lb
 ed="T" n="0737c07"/>一百許人，餘堪講者千數。<persName key="A001755">觀</persName>甞於新創<placeName key="PL000000042591">雲花<lb
 ed="T" n="0737c08"/>寺</placeName>般若閣下畫《華藏世界圖相》<ptr target="#n824"/>，又著《隨疏演<lb
-ed="T" n="0737c09"/>義》四十卷，允<ref type="person" target="#A009531">齊相</ref>請述《華嚴經綱要》一卷《法<lb
-ed="T" n="0737c10"/>界玄鑑》一卷《三聖圓融觀》一卷《華嚴》、《法華》、《楞伽》、<lb
+ed="T" n="0737c09"/>義》四十卷<ptr target="#n3288"/>，允<persName key="A009531">齊<roleName>相</roleName></persName>請述《華嚴經綱要》一卷<ptr target="#n3289"/>、《法<lb
+ed="T" n="0737c10"/>界玄鑑》一卷<ptr target="#n3290"/>、《三聖圓融觀》一卷<ptr target="#n3291"/>、《華嚴》、《法華》、《楞伽》、<lb
 ed="T" n="0737c11"/>《中觀論》等。別行《小鈔疏》共三十卷。設無遮大<lb
-ed="T" n="0737c12"/>會十二中，其諸塑繢<ptr type="glossary" target="#g794"/>形像，繕寫經典，不可<lb
-ed="T" n="0737c13"/>殫述。門人<persName key="A009543">清沔</persName>記<persName key="A001755">觀</persName>平時《行狀》云：「<persName key="A001755">觀</persName>恒發<lb
-ed="T" n="0737c14"/>十願：『一長止方丈但三衣鉢，不畜長<ptr type="glossary" target="#g825"/>。二當<lb
-ed="T" n="0737c15"/>代名利，棄之如遺。三目不視女人。四身影<lb
-ed="T" n="0737c16"/>不落俗家。五未捨執受，長誦《法華經》。六長<lb
-ed="T" n="0737c17"/>讀大乘經典，普施含靈<ptr type="glossary" target="#g826"/>。七長講《華嚴大經》。<lb
-ed="T" n="0737c18"/>八一生晝夜不臥。九不邀名惑眾伐善。十<lb
+ed="T" n="0737c12"/>會十二中，其諸塑繢<ptr rend="display:none;" type="glossary" target="#g794"/>形像，繕寫經典，不可<lb
+ed="T" n="0737c13"/>殫述。門人<persName key="A009543">清沔</persName>記<persName key="A001755">觀</persName>平時行狀云：「<persName key="A001755">觀</persName>恒發<lb
+ed="T" n="0737c14"/>十願：『一、長止方丈但三衣鉢，不畜長<ptr type="glossary" target="#g825"/>；二、當<lb
+ed="T" n="0737c15"/>代名利，棄之如遺；三、目不視女人；四、身影<lb
+ed="T" n="0737c16"/>不落俗家；五、未捨執受，長誦《法華經》；六、長<lb
+ed="T" n="0737c17"/>讀大乘經典，普施含靈<ptr type="glossary" target="#g826"/>；七、長講《華嚴大經》；<lb
+ed="T" n="0737c18"/>八、一生晝夜不臥；九、不邀名惑眾伐善；十、<lb
 ed="T" n="0737c19"/>不退大慈悲普救法界。』」<persName key="A001755">觀</persName>逮盡形期，恒依<lb
 ed="T" n="0737c20"/>願而修行也。</p>
     <linkGrp>

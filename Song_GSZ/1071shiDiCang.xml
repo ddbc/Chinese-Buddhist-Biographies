@@ -1,37 +1,37 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" type="感通" xml:id="gsz0838c16shiDiCang"><lb
-ed="T" n="0838c16"/><anchor n="T.50.2061.0838c16"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date>池州九華山化城寺<persName key="A006680">地藏</persName>傳</head><p><lb
+ed="T" n="0838c16"/><anchor n="T.50.2061.0838c16"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date><placeName key="PL000000016838"><placeName>池州</placeName><placeName>九華山</placeName><placeName>化城寺</placeName></placeName><persName key="A006680">地藏</persName><ptr target="#n2618"/>傳</head><p><lb
 ed="T" n="0838c17"/><persName key="A006680">釋地藏</persName>，姓<name>金</name>氏，<placeName key="PL000000048606">新羅</placeName>國王之支屬也<ptr target="#n595"/>。慈心而<lb
-ed="T" n="0838c18"/>貌惡，頴悟天然。七尺成軀，頂聳奇，骨特高，<lb
-ed="T" n="0838c19"/><anchor xml:id="beg0838007"/><choice resp="sgsz"><sic>才</sic><corr>卞</corr></choice><anchor xml:id="end0838007"/><ptr type="glossary" target="#g74"/>力可敵十夫。甞自誨曰：「六籍寰中，三清<lb
-ed="T" n="0838c20"/>術內。唯第一義與方寸合。」于時落髮涉海，<lb
-ed="T" n="0838c21"/>捨舟而徒，振錫觀方，邂逅至<placeName key="PL000000043087">池陽</placeName>，覩<placeName key="PL000000016725">九子<lb
-ed="T" n="0838c22"/>山</placeName>焉。心甚樂之，乃逕造其峯，得谷中之地，<lb
+ed="T" n="0838c18"/>貌惡，頴悟天然。七尺成軀，頂聳奇骨特高，<lb
+ed="T" n="0838c19"/><anchor xml:id="beg0838007"/><choice resp="sgsz"><sic>才</sic><corr>卞</corr></choice><anchor xml:id="end0838007"/><ptr type="glossary" target="#g74"/>力可敵十夫<ptr target="#n2619"/>。甞自誨曰：「六籍<ptr  rend="display:none;" type="glossary" target="#g31"/>寰中，三清<ptr type="glossary" target="#g1749"/><lb
+ed="T" n="0838c20"/>術內，唯第一義<ptr type="glossary" target="#g474"/>與方寸合。」于時落髮涉海，<lb
+ed="T" n="0838c21"/>捨舟而徒，振錫觀方。邂逅至<placeName key="PL000000016923">池陽</placeName>，覩<placeName key="PL000000016725">九子<lb
+ed="T" n="0838c22"/>山</placeName>焉，心甚樂之，乃逕造其峯，得谷中之地，<lb
 ed="T" n="0838c23"/>面陽而寬平。其土黑壤，其泉滑甘，巖棲磵汲，<lb
 ed="T" n="0838c24"/>趣爾度日。<persName key="A006680">藏</persName>甞為毒螫，端坐無念。俄有美<lb
 ed="T" n="0838c25"/>婦人作<anchor xml:id="beg0838sgsz23"/>禮<anchor xml:id="end0838sgsz23"/>饋藥云：「小兒無知，願出泉以補<lb
-ed="T" n="0838c26"/>過。」言訖不見，視坐左右間潗<anchor xml:id="beg0838008"/>㵫<anchor xml:id="end0838008"/>然，時謂<lb
-ed="T" n="0838c27"/>為<placeName key="PL000000016725">九子</placeName>山神為湧泉資用也。其<placeName key="PL000000016725">山</placeName><date notBefore-iso="+0742-02-14" key="j19921141997410" notAfter-iso="+0756-08-15"><name>天寶</name>中</date><persName key="A005220">李<lb
+ed="T" n="0838c26"/>過。」言訖不見，視坐左右間潗<anchor xml:id="beg0838008"/>㵫<anchor xml:id="end0838008"/>然<ptr target="#n2620"/>，時謂<lb
+ed="T" n="0838c27"/>為<placeName key="PL000000016725">九子山</placeName>神為湧泉資用也。<ref type="place" target="#PL000000016725">其山</ref><date notBefore-iso="+0742-02-14" key="j19921141997410" notAfter-iso="+0756-08-15"><name>天寶</name>中</date><persName key="A005220">李<lb
 ed="T" n="0838c28"/>白</persName>遊此，號為<placeName key="PL000000016725">九華</placeName>焉。俗傳山神，婦女也。其<lb
 ed="T" n="0838c29"/>峯多冒雲霧，罕曾露頂歟。<persName key="A006680">藏</persName>素願持四大<pb ed="T" n="0839a" xml:id="T50.2061.0839a"/><lb
-ed="T" n="0839a01"/>部經，遂下<placeName key="PL000000016725">山</placeName>至<placeName key="PL000000015179">南陵</placeName>，有信士為繕寫，得以<lb
-ed="T" n="0839a02"/>歸<placeName key="PL000000016725">山</placeName>。<date notBefore-iso="+0756-08-16" key="j19974111997556" notAfter-iso="+0757-01-08"><name>至德</name>年初</date>，有<persName key="A007164">諸葛節</persName>率村父自麓登<lb
+ed="T" n="0839a01"/>部經<ptr type="glossary" target="#g1750"/>，遂下<ref type="place" target="#PL000000016725">山</ref>至<placeName key="PL000000015179">南陵</placeName>，有信士<ptr target="#n2621"/>為繕寫，得以<lb
+ed="T" n="0839a02"/>歸<ref type="place" target="#PL000000016725">山</ref>。<date notBefore-iso="+0756-08-16" key="j19974111997556" notAfter-iso="+0757-01-08"><name>至德</name>年初</date>，有<persName key="A007164">諸葛節</persName>率村父自麓登<lb
 ed="T" n="0839a03"/>高，深極無人，雲日鮮明，居唯<persName key="A006680">藏</persName>孤然閉目<lb
 ed="T" n="0839a04"/>石室。其房有折足鼎，鼎中白土和少米，烹<lb
-ed="T" n="0839a05"/>而食之。<anchor xml:id="beg0839sgsz1"/><choice resp="sgsz"><sic>郡</sic><corr>群</corr></choice><anchor xml:id="end0839sgsz1"/>老驚歎曰：「<persName key="A006680">和尚</persName>如斯苦行，我<placeName key="PL000000015185">曹<lb
-ed="T" n="0839a06"/>山</placeName>下列居之咎耳。」相與同構禪宇，不累載<lb
-ed="T" n="0839a07"/>而成大伽藍。<date notBefore-iso="+0780-02-15" key="j20059942006355" notAfter-iso="+0781-02-10"><name>建中</name>初</date><persName key="A007729">張公嚴</persName>典是邦，仰<persName key="A006680">藏</persName><lb
-ed="T" n="0839a08"/>之高風，因移舊額奏置寺焉。<placeName key="PL000000048606">本國</placeName>聞之，率<lb
+ed="T" n="0839a05"/>而食之。<anchor xml:id="beg0839sgsz1"/><choice resp="sgsz"><sic>郡</sic><corr>群</corr></choice><anchor xml:id="end0839sgsz1"/>老驚歎曰：「<ref type="person" target="#A006680">和尚</ref>如斯苦行，我曹<lb
+ed="T" n="0839a06"/>山下列居之咎耳。」相與同構禪宇，不累載<lb
+ed="T" n="0839a07"/>而成大伽藍。<date notBefore-iso="+0780-02-15" key="j20059942006355" notAfter-iso="+0781-02-10"><name>建中</name>初</date><persName key="A007729">張<roleName>公</roleName>嚴</persName>典是邦，仰<persName key="A006680">藏</persName><lb
+ed="T" n="0839a08"/>之高風，因移舊額奏置寺焉<ptr target="#n2622"/>。<ref type="place" target="#PL000000048606">本國</ref>聞之，率<lb
 ed="T" n="0839a09"/>以渡海相尋，其徒且多，無以資歲。<persName key="A006680">藏</persName>乃發<lb
 ed="T" n="0839a10"/>石得土，其色青白，不磣如麵，而供眾食。其<lb
 ed="T" n="0839a11"/>眾請法以資神，不以食而養命。南方號為<lb
-ed="T" n="0839a12"/>枯槁眾，莫不宗仰。<placeName key="PL000000016837">龍潭</placeName>之側有<placeName key="PL000000016779">白墡硎</placeName>，取<lb
-ed="T" n="0839a13"/>之無盡。以<date from-iso="+0803-01-31" key="j20143802014763" to-iso="+0804-02-18"><name>貞元</name>十九年</date>夏<ptr target="#n600"/>，忽召眾告別，罔<lb
+ed="T" n="0839a12"/>「枯槁眾」<ptr target="#n2623"/>，莫不宗仰。<placeName key="PL000000016837">龍潭</placeName>之側有<placeName key="PL000000016779">白墡硎</placeName>，取<lb
+ed="T" n="0839a13"/>之無盡。以<date from-iso="+0803-04-29" key="j20144682014555" to-iso="+0803-07-25"><name>貞元</name>十九年夏</date><ptr target="#n600"/>，忽召眾告別，罔<lb
 ed="T" n="0839a14"/>知攸往。但聞山嗚石隕，扣鐘嘶嗄，如趺而<lb
 ed="T" n="0839a15"/>滅。春秋九十九。其屍坐於函中，洎三稔開<lb
 ed="T" n="0839a16"/>將入塔，顏貌如生，舉舁之動骨節，若撼<lb
 ed="T" n="0839a17"/>金鎖焉。乃立小浮圖于<placeName key="PL000000016607">南臺</placeName>，是<persName key="A006680">藏</persName>宴坐之地<lb
-ed="T" n="0839a18"/>也。時徵士右拾遺<persName key="A006664">費冠卿</persName>序事存焉。<date notBefore-iso="+0847-02-10" key="j20304612035056" notAfter-iso="+0859-09-10"><name>大中</name>中</date><lb
+ed="T" n="0839a18"/>也。時徵士右拾遺<persName key="A006664">費冠卿</persName>序事存焉。<date notBefore-iso="+0847-02-10" key="j20304612035523" notAfter-iso="+0860-12-20"><name>大中</name>中</date><lb
 ed="T" n="0839a19"/>僧<persName key="A006882">應物</persName>亦紀其德哉。</p>
     <linkGrp>
         <link targets="#0838c17 #0838c20"/>
@@ -53,7 +53,6 @@ ed="T" n="0839a19"/>僧<persName key="A006882">應物</persName>亦紀其德哉�
         <link targets="#0838c29 #0839a02"/>
         <ptr target="#A006680" type="person"/>
         <ptr target="#PL000000015179" type="place"/>
-        <ptr target="#j19921141997410" type="time"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0839a02 #0839a07"/>
@@ -66,13 +65,19 @@ ed="T" n="0839a19"/>僧<persName key="A006882">應物</persName>亦紀其德哉�
         <link targets="#0839a07 #0839a08"/>
         <ptr target="#A006680" type="person"/>
         <ptr target="#A007729" type="person"/>
-        <ptr target="#PL000000016725" type="place"/>
+        <ptr target="#PL000000016838" type="place"/>
         <ptr target="#j20059942006355" type="time"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0839a12 #0839a13"/>
         <ptr target="#A006680" type="person"/>
         <ptr target="#PL000000016779" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0839a13 #0839a14"/>
+        <ptr target="#A006680" type="person"/>
+        <ptr target="#PL000000016838" type="place"/>
+        <ptr target="#j20144682014555" type="time"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0839a17 #0839a18"/>
@@ -83,6 +88,6 @@ ed="T" n="0839a19"/>僧<persName key="A006882">應物</persName>亦紀其德哉�
         <link targets="#0839a18 #0839a19"/>
         <ptr target="#A006882" type="person"/>
         <ptr target="#PL000000016725" type="place"/>
-        <ptr target="#j20304612035056" type="time"/>
+        <ptr target="#j20304612035523" type="time"/>
     </linkGrp>
 </div>

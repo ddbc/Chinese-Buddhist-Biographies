@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="jsz0224c18zhangDi">
+    <p><anchor n="X.88.1646.0224c18"/><lb ed="X" n="0224c18"/><persName key="A017650">張廸</persName><placeName key="PL000000011516">錢塘</placeName>人。官助教。從<persName key="A014352">圓淨法師</persName>受菩薩戒。專修淨<lb ed="X" n="0224c19"/>業。佛前然臂香為誓。每稱佛名其聲奮厲。至失音猶<lb ed="X" n="0224c20"/>不已。甞於靜室見白色頻伽飛舞於前。又有綠髮童<lb ed="X" n="0224c21"/>子合掌問訊。後三年。西向念佛名而化(佛祖統記)。</p> 
+    
+    <linkGrp>
+        <link targets="#0224c18 #0224c19"/>
+        <ptr target="#A017650" type="person"/>
+        <ptr target="#A014352" type="person"/>
+        <ptr target="unknown" type="place"/>
+        </linkGrp> 
+ </div>

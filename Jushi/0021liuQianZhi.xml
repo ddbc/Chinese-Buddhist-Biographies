@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="jsz0190b03liuQianZhi">
+    <p><anchor n="X.88.1646.0190b03"/><lb ed="X" n="0190b03"/><persName key="A007012">劉謙之</persName><persName key="A002158">魏孝文帝</persName>時中官也。<date from-iso="0477-01-31" key="j18953121903433" to-iso="0499-04-27">太和中</date>自傷刑餘。奏乞<lb ed="X" n="0190b04"/>入山修道。齎華嚴經一部。晝夜禮誦。絕粒飲水。經三<lb ed="X" n="0190b05"/>七日忽髯髭盡生。復丈夫相。神思通悟洞曉幽旨。遂<lb ed="X" n="0190b06"/>殫精造華嚴經論共六百卷。奏聞<persName key="A002158">孝文</persName>。倍加敬信。華<lb ed="X" n="0190b07"/>嚴一教遂盛於時(大唐內典錄．華嚴經疏鈔○疏鈔以<persName key="A007012">謙之</persName>為北齊人。又言感第三王<lb ed="X" n="0190b08"/>子焚身供養<persName key="A002144">文殊</persName>事。因而發心。按北齊無太和年號。且魏齊諸王子盡列於史。並無焚身事。今據內典錄削之)。</p> 
+    
+    <linkGrp>
+        <link targets="#0190b03 #0190b07"/>
+        <ptr target="#A007012" type="person"/>
+        <ptr target="#A002158" type="person"/>
+        <ptr target="unknown" type="place"/>
+        <ptr target="#j18953121903433" type="time"/>
+    </linkGrp>   
+ </div>

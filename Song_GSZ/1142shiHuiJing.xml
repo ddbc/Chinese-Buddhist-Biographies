@@ -1,16 +1,16 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" type="讀誦" xml:id="gsz0862c28shiHuiJing"><lb
-ed="T" n="0862c28"/><anchor n="T.50.2061.0862c28"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06"><anchor xml:id="beg0862003"/>唐<anchor xml:id="end0862003"/></date>太原府崇福寺<persName key="A013535">慧警</persName>傳</head><p><lb
-ed="T" n="0862c29"/><persName key="A013535">釋慧警</persName>，姓張氏，<placeName key="PL000000004787">祁</placeName>人也。少而聰悟，襁褓能言，<pb ed="T" n="0863a" xml:id="T50.2061.0863a"/><lb
-ed="T" n="0863a01"/>二親鞠愛，隣黨號為奇童。屬新譯大雲經，<lb
-ed="T" n="0863a02"/>經中有懸記<ptr type="glossary" target="#g1165"/>女主之文，<persName key="A002099">天后</persName>感斯聖莂，酷<lb
-ed="T" n="0863a03"/>重此經。<persName key="A013535">警</persName>方三歲，有教其誦通，其含嚼紆<lb
-ed="T" n="0863a04"/>欝，調致天然也。遂徹九重，乃詔諷之。<ref type="person" target="#A002099">帝</ref>大<lb
+ed="T" n="0862c28"/><anchor n="T.50.2061.0862c28"/><head><date from-iso="+0689-12-21" key="j19730671978610" to-iso="+0705-02-24"><anchor xml:id="beg0862003"/><choice resp="sgsz"><sic>唐</sic><corr>周</corr></choice><anchor xml:id="end0862003"/></date><placeName key="PL000000003781"><placeName>太原府</placeName><placeName>崇福寺</placeName></placeName><persName key="A013535">慧警</persName>傳</head><p><lb
+ed="T" n="0862c29"/><persName key="A013535">釋慧警</persName>，姓<name>張</name>氏，<placeName key="PL000000004787">祁</placeName>人也。少而聰悟，襁褓能言，<pb ed="T" n="0863a" xml:id="T50.2061.0863a"/><lb
+ed="T" n="0863a01"/>二親鞠愛，隣黨號為奇童。屬新譯<ptr target="#n2983"/>《大雲經》<ptr target="#n2981"/>，<lb
+ed="T" n="0863a02"/>經中有懸記<ptr type="glossary" target="#g1165"/>女主之文<ptr target="#n2982"/>，<persName key="A002099">天后</persName>感斯聖莂<ptr type="glossary" target="#g1980"/>，酷<lb
+ed="T" n="0863a03"/>重此經。<persName key="A013535">警</persName>方三歲，有教其誦通，其含嚼<ptr type="glossary" target="#g1981"/>紆<lb
+ed="T" n="0863a04"/>欝<ptr type="glossary" target="#g1982"/>，調致天然也。遂徹九重<ptr type="glossary" target="#g1162"/>，乃詔諷之。<ref type="person" target="#A002099">帝</ref>大<lb
 ed="T" n="0863a05"/>悅，撫其頂，勅授紫袈裟一副，後因出家。氣<lb
-ed="T" n="0863a06"/>貌剛介，學處堅固，充本寺上座。拯頓頹綱，人<lb
-ed="T" n="0863a07"/>皆畏憚。或於街陌見二眾失儀，片招譏醜，<lb
-ed="T" n="0863a08"/>必議懲誡，斷無寬理。後修禪法，虛室生白。<lb
-ed="T" n="0863a09"/>終時已八十餘齡矣。九子母院有遺影，并賜<lb
+ed="T" n="0863a06"/>貌剛介，學處堅固，充<ref type="place" target="#PL000000003781">本寺</ref>上座。拯頓頹綱，人<lb
+ed="T" n="0863a07"/>皆畏憚。或於街陌見二眾<ptr type="glossary" target="#g571"/>失儀，片招譏醜，<lb
+ed="T" n="0863a08"/>必議懲誡，斷無寬理。後修禪法，虛室生白<ptr target="#n1904"/>。<lb
+ed="T" n="0863a09"/>終時已八十餘齡矣。<placeName key="PL000000057284">九子母院</placeName>有遺影，并賜<lb
 ed="T" n="0863a10"/>紫衣存焉。</p>
     <linkGrp>
         <link targets="#0862c29 #0862c29"/>
@@ -21,5 +21,10 @@ ed="T" n="0863a10"/>紫衣存焉。</p>
         <link targets="#0863a04 #0863a05"/>
         <ptr target="#A013535" type="person"/>
         <ptr target="#A002099" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0863a06 #0863a07"/>
+        <ptr target="#A013535" type="person"/>
+        <ptr target="#PL000000003781" type="place"/>
     </linkGrp>
 </div>

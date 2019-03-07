@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="jsz0227a15qianTongBo">
+    <p><anchor n="X.88.1646.0227a15"/><lb ed="X" n="0227a15"/><persName key="A015229">錢同伯</persName>名<persName key="A015229">象祖</persName>。<placeName key="PL000000014897">台州</placeName>人。祖<persName key="A016436"><!-- <date from-iso="1118" to-iso="1177" type="default" xml:id="d21294012151315"/> -->端禮</persName>官參知政事。甞參<persName key="A008404">護<lb ed="X" n="0227a16"/>國元</persName>公有省。遂究極宗門旨趣。臨終書曰。浮世虗幻。<lb ed="X" n="0227a17"/>本無去來。四大五蘊。必歸終盡。盖為地水火風暫時<lb ed="X" n="0227a18"/>湊泊。不可錯認為己有。大丈夫當用處把定。立處皆<lb ed="X" n="0227a19"/>真。去留自在。是上來諸聖解脫路涅槃門也。吾今如<lb ed="X" n="0227a20"/>是。豈不快哉。置筆斂目而逝。<persName key="A015229">同伯</persName>以恩起家太常丞。<lb ed="X" n="0227a21"/>開禧中官參知政事。時<persName key="A017709">韓[傂-虎+(一/匕)]胄</persName>為相。欲用兵於金。<lb ed="X" n="0227a22"/><persName key="A015229">同伯</persName>執不可。遂罷知外郡。已而復起。<date from-iso="1207-01-01" key="j21619082162272" to-iso="1207-12-31">與<persName key="A007302">史彌遠</persName>謀</date><!-- 西元1207年，請參見(http://zh.wikipedia.org/zh-tw/史彌遠，2010.07.28) -->。共誅<lb ed="X" n="0227a23"/><persName key="A017709">[傂-虎+(一/匕)]胄</persName>。天下賴之。<date from-iso="1209-02-13" key="j21626822163036" to-iso="1210-02-02">嘉定二年</date>拜左丞相。尋罷歸。初<persName key="A015229">同伯</persName><lb ed="X" n="0227a24"/>問道於<persName key="A012772">此菴元</persName>公。<persName key="A012772">此菴</persName>曰。欲究此事。須得心法兩忘<lb ed="X" n="0227b01"/>乃可。法執未忘。契理亦非悟也。<persName key="A015229">同伯</persName>曰。纔涉脣吻便<lb ed="X" n="0227b02"/>落意思如何。<persName key="A012772">此菴</persName>曰本自無瘡勿傷之也。<persName key="A015229">同伯</persName>有省。<lb ed="X" n="0227b03"/>既而歸心<placeName key="PL000000055477">淨土</placeName>。守<placeName key="PL000000009248">金陵</placeName>日。於鄉州建接待寺十所。皆<lb ed="X" n="0227b04"/>以淨土極樂名之。創<placeName key="PL000000008575">止菴</placeName>與高僧談處其中。自致政<lb ed="X" n="0227b05"/>後修持益力。<date from-iso="1211-01-24" key="j21633922163775" to-iso="1212-02-11">嘉定四年</date>偶得微疾。書偈曰。菡萏香從<lb ed="X" n="0227b06"/>佛國來。琉璃地上絕纖埃。我心清淨超於彼。今日遙<lb ed="X" n="0227b07"/>知一朵開。僧有問起居者。答曰。不貪生。不怕死。不生<lb ed="X" n="0227b08"/>天上。不生人中。唯當往生<placeName key="PL000000055477">淨土</placeName>耳。言訖趺坐而化。時<lb ed="X" n="0227b09"/>天鼓震響。異香芬郁。郡人同夢空中聲云。<ref target="#A015229" type="person">錢丞相</ref>當<lb ed="X" n="0227b10"/>生西方淨土為<persName key="A015229">慈濟菩薩</persName>(佛祖統記．續綱目．往生傳．<placeName key="PL000000014897">台州</placeName>志)。</p> 
+    
+    <linkGrp>
+        <link targets="#0227a15 #0227a15"/>
+        <ptr target="#A015229" type="person"/>
+        <ptr target="#A016436" type="person"/>       
+        <ptr target="unknown" type="place"/>
+        </linkGrp>
+    <linkGrp>
+        <link targets="#0227a15 #0227a16"/>
+        <ptr target="#A008404" type="person"/>
+        <ptr target="#A016436" type="person"/>       
+        <ptr target="unknown" type="place"/>
+        <!-- <ptr target="#d21294012151315" type="time"/> -->
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0227a22 #0227a23"/>
+        <ptr target="#A015229" type="person"/>
+        <ptr target="#A007302" type="person"/> 
+        <ptr target="#A017709" type="person"/>
+        <ptr target="unknown" type="place"/>
+        <ptr target="#j21619082162272" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0227a23 #0227b03"/>
+        <ptr target="#A015229" type="person"/>
+        <ptr target="#A012772" type="person"/>
+        <ptr target="unknown" type="place"/>
+        </linkGrp>
+    <linkGrp>
+        <link targets="#0227b03 #0227b05"/>
+        <ptr target="#A015229" type="person"/>
+        <ptr target="#PL000000009248" type="place"/>
+        </linkGrp>
+    <linkGrp>
+        <link targets="#0227b04 #0227b04"/>
+        <ptr target="#A015229" type="person"/>
+        <ptr target="#PL000000008575" type="place"/>
+        </linkGrp>
+ </div>

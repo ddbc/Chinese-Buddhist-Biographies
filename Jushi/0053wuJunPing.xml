@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="jsz0204c18wuJunPing">
+    <p><anchor n="X.88.1646.0204c18"/><lb ed="X" n="0204c18"/><persName key="A016722">吳君平</persName>淅江<placeName key="PL000000012933">桐鄉</placeName>人。生<date from-iso="1573-02-12" key="j22956292312983" to-iso="1620-08-18">明萬歷間</date>。少孤。長而業儒。館<lb ed="X" n="0204c19"/>於<placeName key="PL000000011596">靈隱寺</placeName>。每念父母。涕泣如初喪。有僧謂言。欲報親<lb ed="X" n="0204c20"/>恩。莫如寫佛經。<persName key="A016722">君平</persName>然之。食淡四十九日。刺胸前血<lb ed="X" n="0204c21"/>寫金剛經一卷。既畢。僧俗聚觀。驗創痕。凡十有一。皆<lb ed="X" n="0204c22"/>合掌歎曰。希有事也。但補闕真言未寫。奈何。<persName key="A016722">君平</persName>復<lb ed="X" n="0204c23"/>刺胸出血補之。其夜夢父母立雲中謂曰。賴<ref target="#A016722" type="person">爾</ref>寫經<lb ed="X" n="0204c24"/>功德。我二人已得生<placeName key="PL000000055477">淨土</placeName>矣。佛憫爾誠。且畀爾一善<lb ed="X" n="0205a01"/>童子。是年果生子。數月後。與以肉食輒閉口不食。<persName key="A016722">君<lb ed="X" n="0205a02"/>平</persName>亦遂長齋誦經終其身(金剛持驗記)。</p> 
+    
+    <linkGrp>
+        <link targets="#0204c18 #0205a01"/>
+        <ptr target="#A016722" type="person"/>
+        <ptr target="#PL000000011596" type="place"/>
+        <ptr target="#j22956292312983" type="time"/>
+    </linkGrp> 
+ </div>

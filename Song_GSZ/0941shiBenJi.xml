@@ -1,18 +1,18 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" type="習禪" xml:id="gsz0786b16shiBenJi"><lb
-ed="T" n="0786b16"/><anchor n="T.50.2061.0786b16"/><head><date from-iso="+0907-06-10" key="j20524952058534" to-iso="+0923-12-22">梁</date><placeName key="PL000000019959">撫州曹山</placeName><persName key="A009449">本寂</persName>傳</head><p><lb
-ed="T" n="0786b17"/><persName key="A009449">釋本寂</persName>，姓<name>黃</name>氏，<placeName key="PL000000017601">泉州蒲田</placeName>人也。其邑<date notBefore-iso="+0835-03-10" key="j20261062052491" notAfter-iso="+0907-06-06"><name>唐</name>季</date>多<lb
+ed="T" n="0786b16"/><anchor n="T.50.2061.0786b16"/><head><date from-iso="+0907-06-10" key="j20524952058534" to-iso="+0923-12-22">梁</date><placeName key="PL000000019959"><placeName>撫州</placeName><placeName>曹山</placeName></placeName><persName key="A009449">本寂</persName>傳</head><p><lb
+ed="T" n="0786b17"/><persName key="A009449">釋本寂</persName>，姓<name>黃</name>氏，<placeName key="PL000000017601"><placeName>泉州</placeName><placeName>蒲田</placeName></placeName>人也。其邑<date notBefore-iso="+0835-03-10" key="j20261062052491" notAfter-iso="+0907-06-06"><name>唐</name>季</date>多<lb
 ed="T" n="0786b18"/>衣冠士子僑寓，儒風振起，號<placeName key="PL000000017601">小稷下</placeName>焉<ptr type="glossary" target="#g60"/>。<persName key="A009449">寂</persName><lb
 ed="T" n="0786b19"/>少染<name>魯</name>風<ptr type="glossary" target="#g62"/>，率多強學，自爾淳粹獨凝，道性<lb
-ed="T" n="0786b20"/>天發。<date key="j20344392034803" from-iso="+0858-01-01" to-iso="+0858-12-31">年惟十九</date>，二親始聽出家。入<placeName key="PL000000017137">福州<choice resp="sgsz"><sic>雲名</sic><corr>靈石</corr></choice><lb
-ed="T" n="0786b21"/>山</placeName><ptr target="#n1713"/>。<date key="j20366302036995" from-iso="+0864-01-01" to-iso="+0864-12-31">年二十五</date>，登于戒足，凡諸舉措，若老苾<lb
+ed="T" n="0786b20"/>天發。<date key="j20344392034803" from-iso="+0858-01-01" to-iso="+0858-12-31">年惟十九</date>，二親始聽出家。入<placeName key="PL000000017137"><placeName>福州</placeName><placeName><choice resp="sgsz"><sic>雲名</sic><corr>靈石</corr></choice><lb
+ed="T" n="0786b21"/>山</placeName></placeName><ptr target="#n1713"/>。<date key="j20366302036995" from-iso="+0864-01-01" to-iso="+0864-12-31">年二十五</date>，登于戒足，凡諸舉措，若老苾<lb
 ed="T" n="0786b22"/>芻。<date notBefore-iso="+0860-12-21" key="j20355242036679" notAfter-iso="+0864-02-19"><name>咸通</name>之初</date>，禪宗興盛，風起於<persName key="A001984">大溈</persName>也，至<lb
 ed="T" n="0786b23"/>如<persName key="A010291">石頭</persName>、<persName key="A010510">藥山</persName>其名寢頓。會<persName key="A009489">洞山</persName>憫物，高其<lb
 ed="T" n="0786b24"/><persName key="A010291">石頭</persName><ptr target="#n1714"/>，往來請益，學同<placeName key="PLG00000000035">洙泗</placeName>。<persName key="A009449">寂</persName>處眾如愚，發<lb
-ed="T" n="0786b25"/>言若訥。後被請住<placeName key="PL000000019959">臨川曹山</placeName>，參問之者堂<lb
+ed="T" n="0786b25"/>言若訥。後被請住<placeName key="PL000000019959"><placeName>臨川</placeName><placeName>曹山</placeName></placeName>，參問之者堂<lb
 ed="T" n="0786b26"/>盈室滿<ptr type="glossary" target="#g1381"/>。其所詶對，<anchor xml:id="beg0786sgsz14"/><choice resp="sgsz"><sic>邀</sic><corr>激</corr></choice><anchor xml:id="end0786sgsz14"/>射匪停，特為毳客標<lb
 ed="T" n="0786b27"/>準，故排五位<ptr type="glossary" target="#g1640"/>以銓量區域，無不盡其分<lb
-ed="T" n="0786b28"/>齊<ptr type="glossary" target="#g1641"/>也。復注《對<persName key="A004127">寒山子</persName>詩》<ptr target="#n1715"/>，流行<anchor xml:id="beg0786sgsz15"/><choice resp="sgsz"><sic>寓</sic><corr>㝢</corr></choice><anchor xml:id="end0786sgsz15"/>內，蓋以<persName key="A009449">寂</persName><lb
+ed="T" n="0786b28"/>齊<ptr type="glossary" target="#g1641"/>也。復注《對寒山子詩》<ptr target="#n1715"/>，流行<anchor xml:id="beg0786sgsz15"/><choice resp="sgsz"><sic>寓</sic><corr>㝢</corr></choice><anchor xml:id="end0786sgsz15"/>內，蓋以<persName key="A009449">寂</persName><lb
 ed="T" n="0786b29"/>素修舉業<ptr type="glossary" target="#g1642"/>之優也，文辭<anchor xml:id="beg0786004"/>遒<anchor xml:id="end0786004"/>麗，號富有法<pb ed="T" n="0786c" xml:id="T50.2061.0786c"/><lb
 ed="T" n="0786c01"/>才焉。尋示疾，終于山，春秋六十二，<anchor xml:id="beg0786005"/>僧<anchor xml:id="end0786005"/>臘三<lb
 ed="T" n="0786c02"/>十七<ptr target="#n1716"/>。弟子奉龕窆而樹塔。後<placeName key="PL000000028928">南嶽</placeName><persName key="A010511">玄泰</persName>著<lb

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="jsz0185a16zhuShuLan">
+    <p><anchor n="X.88.1646.0185a16"/><lb ed="X" n="0185a16"/><persName key="A000763">竺叔蘭</persName>本<placeName key="PL000000048207">天竺</placeName>人也。其大父<persName key="A014941">婁陀</persName>。好學有節操。時國<lb ed="X" n="0185a17"/>王無道。有為將者得罪懼誅。欲要<persName key="A014941">婁陀</persName>共反。<persName key="A014941">婁陀</persName>拒<lb ed="X" n="0185a18"/>之。遂殺<persName key="A014941">婁陀</persName>以作亂。<persName key="A014941">婁陀</persName>子<persName key="A014944">達摩尸羅</persName>。先在他國。聞<lb ed="X" n="0185a19"/>亂即與其婦兄二人之為沙門者犇<placeName key="PL000000000102">晉</placeName>。居於<placeName key="PL000000023621">河南</placeName>。生<lb ed="X" n="0185a20"/><persName key="A000763">叔蘭</persName>。<persName key="A000763">叔蘭</persName>幼從二舅受經法。一聞輒悟。通華梵語及<lb ed="X" n="0185a21"/>書。然性輕躁。好遊獵。甞遇虎墮馬。折其右臂。母數呵 <lb ed="X" n="0185a22"/>禁。終不改。已而為之蔬食乃止。頃之暴亡。三日而蘇。<lb ed="X" n="0185a23"/>自言入一朱門。金銀為堂。見一人自云是其大父。謂<lb ed="X" n="0185a24"/><persName key="A000763">叔蘭</persName>曰。<ref target="#A014941" type="person">吾</ref>脩善累年。今得此報。汝罪人。何得來耶。守<lb ed="X" n="0185b01"/>門者以杖驅之入竹林中。見其獵伴為鷹犬所啄齧。<lb ed="X" n="0185b02"/>流血號叫。<persName key="A000763">叔蘭</persName>走避數十步。值牛頭人欲扠之。<persName key="A000763">叔蘭</persName><lb ed="X" n="0185b03"/>曰。吾累世佛弟子。常供二沙門。何罪見治。牛頭曰。此<lb ed="X" n="0185b04"/>雖有福。不救獵罪。俄而見其兩舅來語牛頭曰。我等<lb ed="X" n="0185b05"/>二人恒受其供。惡少善多可得相免。二舅遂導之還 <lb ed="X" n="0185b06"/>家。俄而甦。於是改節修慈。專志經法。以<date from-iso="0291-04-24" key="j18274591827745" to-iso="0292-02-04">晉元康元年</date><lb ed="X" n="0185b07"/>譯出放光經及異維摩詰經十餘萬言。旋遭母喪。葬<lb ed="X" n="0185b08"/>畢遇<date key="j18320931836841" to-iso="0316-12-31" from-iso="0304-01-01"><persName key="A002888">石勒</persName>之亂</date>。避之<placeName key="PL000000027772">荊州</placeName>。後無疾忽告知識曰。<ref corresp="A000763" type="person">吾</ref>將<lb ed="X" n="0185b09"/>死矣。數日便卒(出三藏記集)。</p>     
+      
+    <linkGrp>
+        <link targets="#0185a18 #0185a20"/>
+        <ptr target="#A000763" type="person"/>
+        <ptr target="#A014944" type="person"/>
+        <ptr target="#PL000000023621" type="place"/>
+        </linkGrp>
+    <linkGrp>
+        <link targets="#0185b06 #0185b07"/>
+        <ptr target="#A000763" type="person"/>
+        <ptr target="#PL000000023621" type="place"/>
+        <ptr target="#j18274591827745" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0185b07 #0185b09"/>
+        <ptr target="#A000763" type="person"/>
+        <ptr target="#PL000000027772" type="place"/>
+        <ptr target="#j18320931836841" type="time"/>
+    </linkGrp>
+ </div>

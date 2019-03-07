@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" type="習禪" xml:id="gsz0768a13shiWeiKuan"><lb
-ed="T" n="0768a13"/><anchor n="T.50.2061.0768a13"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date><placeName key="PL000000042218">京兆興善寺</placeName><persName key="A010237">惟寬</persName>傳（<persName key="A010412">寶修</persName>）</head><p><lb
-ed="T" n="0768a14"/><persName key="A010237">釋惟寬</persName>，姓<name>祝</name>氏，<placeName key="PL000000013660">衢州信安</placeName>人也。祖曰<persName key="A010407">安</persName>，考<lb
+ed="T" n="0768a13"/><anchor n="T.50.2061.0768a13"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date><placeName key="PL000000042218"><placeName>京兆</placeName><placeName>興善寺</placeName></placeName><persName key="A010237">惟寬</persName>傳（<persName key="A010412">寶修</persName>）</head><p><lb
+ed="T" n="0768a14"/><persName key="A010237">釋惟寬</persName>，姓<name>祝</name>氏，<placeName key="PL000000013660"><placeName>衢州</placeName><placeName>信安</placeName></placeName>人也。祖曰<persName key="A010407">安</persName>，考<lb
 ed="T" n="0768a15"/>曰<persName key="A010408">皎</persName>。生<date key="j20012012001565" from-iso="+0767-01-01" to-iso="+0767-12-31">十三歲</date>，見殺生者，<anchor xml:id="beg0768sgsz2"/><choice resp="sgsz"><sic>盡</sic><corr>衋</corr></choice><anchor xml:id="end0768sgsz2"/><ptr type="glossary" target="#g1532"/>然不忍食。退<lb
-ed="T" n="0768a16"/>而出家，求翦髮於<persName key="A019195">僧曇</persName>，受尸羅於<persName key="A010409">僧崇</persName>，學<lb
+ed="T" n="0768a16"/>而出家，求翦髮於<persName key="A019195">僧曇</persName>，受尸羅<ptr type="glossary" target="#g904"/>於<persName key="A010409">僧崇</persName>，學<lb
 ed="T" n="0768a17"/>毘尼於<persName key="A010410">僧如</persName>，證大乘法於<persName key="A001563">止觀</persName>，成最上乘於<lb
 ed="T" n="0768a18"/><persName key="A003623">大寂道一</persName><ptr target="#n1461"/>。<date from-iso="+0790-01-24" key="j20096252010008" to-iso="+0791-02-11"><name>貞元</name>六年</date>，始行化於<placeName key="PL000000017165">閩</placeName>、<placeName key="PL000000013239">越</placeName>間，歲餘<lb
 ed="T" n="0768a19"/>而迴心改服者百數。<date from-iso="+0791-02-12" key="j20100092010362" to-iso="+0792-01-31">七年</date>，伏猛虎於<placeName key="PL000000013240">會稽</placeName>，<lb
@@ -14,7 +14,7 @@ ed="T" n="0768a23"/>德於<placeName key="PL000000023564">天宮寺</placeName>�
 ed="T" n="0768a24"/><placeName key="PL000000042147">安國寺</placeName>。<date from-iso="+0810-02-12" key="j20169492017302" to-iso="+0811-01-31">五年</date>，問道於<placeName key="PL000000042361">麟德殿</placeName>。<ref type="date" target="#j20169492017302">其年</ref>，復靈泉於<lb
 ed="T" n="0768a25"/><placeName key="PL000000042220">不空三藏池</placeName><ptr target="#n1462"/>。<date when-iso="+0817-03-25" key="j20195472019547">十二年二月晦</date>，大說於<placeName key="PL000000042221">傳法堂</placeName><lb
 ed="T" n="0768a26"/>訖，奄然而化。報齡六十三，僧夏三十九。歸葬<lb
-ed="T" n="0768a27"/>于<placeName key="PL000000042341"><choice resp="sgsz"><sic>[灞-雨+襾]</sic><corr>灞</corr></choice>陵</placeName>西原，詔諡曰<persName key="A010237">大徹禪師</persName>，塔號<placeName key="PL000000056926">元和正<lb
+ed="T" n="0768a27"/>于<placeName key="PL000000042341"><choice resp="sgsz"><sic><g ref="#Z1284"/></sic><corr>灞</corr></choice>陵</placeName>西原，詔謚曰<persName key="A010237">大徹禪師</persName>，塔號<placeName key="PL000000056926">元和正<lb
 ed="T" n="0768a28"/>真</placeName>。初，<persName key="A010237">寬</persName>說心要法三十年，度黑白眾殆及<lb
 ed="T" n="0768a29"/>百千萬，應病授藥，安可既<ptr type="glossary" target="#g1534"/>乎？<persName key="A004029">白樂天</persName>為宮<pb ed="T" n="0768b" xml:id="T50.2061.0768b"/><lb
 ed="T" n="0768b01"/>贊<ptr target="#n1463"/>時遇<persName key="A010237">寬</persName>，四詣法堂，每來垂一問，<persName key="A010237">寬</persName>答如<lb

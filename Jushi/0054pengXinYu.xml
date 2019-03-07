@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="jsz0205a03pengXinYu">
+    <p><anchor n="X.88.1646.0205a03"/><lb ed="X" n="0205a03"/><persName key="A011573">彭信宇</persName>名<persName key="A011573">有源</persName>。湖廣<placeName key="PL000000029630">益陽</placeName>人。少奉<persName key="A002803">觀音大士</persName>。日誦諸<lb ed="X" n="0205a04"/>經以祈親壽。父疾亟。刲臂肉和藥以進。尋愈。父歿母<lb ed="X" n="0205a05"/>亦病疽發於掌。<date key="j23188102318898" to-iso="1636-10-28" from-iso="1636-08-01">夜夢見<persName key="A002803">大士</persName></date><!-- 崇禎丙子秋，請參見(X78n1542_p0104c23)-->謂曰。汝母壽盡。若得人<lb ed="X" n="0205a06"/>肝服之。猶可救也。晨起視母。母方思食羊肝。<persName key="A011573">信宇</persName>曰。<lb ed="X" n="0205a07"/>天啟之矣。至夜禱於<persName key="A002803">大士</persName>。持刀刺胸。血湧膜開。至五<lb ed="X" n="0205a08"/>六刺。砉然心出。緣心得肺。緣肺得肝。而<persName key="A011573">信宇</persName>痛且絕<lb ed="X" n="0205a09"/>矣。頃之蘇。呼其妻煑肝進母。母食之而甘。病尋已。然<lb ed="X" n="0205a10"/>其肺既出。不復収。眾為禱於<persName key="A002803">大士</persName>。<persName key="A002803">大士</persName>見夢曰。是孝<lb ed="X" n="0205a11"/>子肺。収之無難。但世無孝子。欲出之百日令眾徧見<lb ed="X" n="0205a12"/>之耳。却後百日。肺既収。創合如故(明文偶鈔)。</p> 
+    
+    <linkGrp>
+        <link targets="#0205a03 #0205a09"/>
+        <ptr target="#A011573" type="person"/>
+        <ptr target="#PL000000029630" type="place"/>
+        <ptr target="#j23188102318898" type="time"/>
+    </linkGrp>
+ </div>

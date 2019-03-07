@@ -1,21 +1,26 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" type="感通" xml:id="gsz0843c21shiDaoYi"><lb
-ed="T" n="0843c21"/><anchor n="T.50.2061.0843c21"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date>五臺山清涼寺<persName key="A010378">道義</persName>傳</head><p><lb
-ed="T" n="0843c22"/><persName key="A010378">釋道義</persName>，<placeName key="PL000000013661">江東衢州</placeName>人也<ptr target="#n618"/>。<date notBefore-iso="+0713-12-26" key="j19818371992113" notAfter-iso="+0742-02-13"><name>開元</name>中</date>至<placeName key="PL000000005250">臺山</placeName>，於<lb
-ed="T" n="0843c23"/><placeName key="PL000000005373">清涼寺</placeName>粥院居止<ptr target="#n619"/>，典座<choice resp="sgsz"><sic><persName key="A010379">普</persName>請</sic><corr>請<persName key="A010379">普</persName></corr></choice>運柴，負重登<lb
-ed="T" n="0843c24"/>高，頗有難色。<persName key="A010378">義</persName>將竹鞋一緉<ptr type="glossary" target="#g219"/>轉貿人荷<anchor xml:id="beg0843sgsz25"/>擔<anchor xml:id="end0843sgsz25"/><ptr target="#n621"/>。<lb
-ed="T" n="0843c25"/>因披三事納衣。東北而行，可五里來，於楞<lb
-ed="T" n="0843c26"/>伽山<!--找不到此地-->下，逢一老僧，其貌古陋，引一童子名<lb
-ed="T" n="0843c27"/>字<persName key="A011050">覺一</persName>。老僧前行，<persName key="A011050">童子</persName>呼請<persName key="A010378">義</persName>東邊寺內啜<lb
-ed="T" n="0843c28"/>茶去，乃相隨入寺，遍<anchor xml:id="beg0843sgsz27"/>禮<anchor xml:id="end0843sgsz27"/>諸院。見大閣三層，<lb
+ed="T" n="0843c21"/><anchor n="T.50.2061.0843c21"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date><placeName key="PL000000005373"><placeName>五臺山</placeName><placeName>清涼寺</placeName></placeName><persName key="A010378">道義</persName>傳</head><p><lb
+ed="T" n="0843c22"/><persName key="A010378">釋道義</persName>，<placeName key="PL000000013661"><placeName>江東</placeName><placeName>衢州</placeName></placeName>人也<ptr target="#n618"/>。<date notBefore-iso="+0713-12-26" key="j19818371992113" notAfter-iso="+0742-02-13"><name>開元</name>中</date>至<placeName key="PL000000005250">臺山</placeName>，於<lb
+ed="T" n="0843c23"/><placeName key="PL000000005373">清涼寺</placeName>粥院居止<ptr target="#n619"/>，典座<ptr type="glossary" target="#g824"/><choice resp="sgsz"><sic>普請</sic><corr>請<persName key="A010379">普</persName></corr></choice>運柴，負重登<lb
+ed="T" n="0843c24"/>高，頗有難色。<persName key="A010378">義</persName>將竹鞋一緉<ptr type="glossary" target="#g219"/>轉貿人荷<anchor xml:id="beg0843sgsz27"/>擔<anchor xml:id="end0843sgsz27"/><ptr target="#n621"/>。<lb
+ed="T" n="0843c25"/>因披三事納衣<ptr type="glossary" target="#g1386"/>。東北而行，可五里來，於<placeName key="PL000000059376">楞<lb
+ed="T" n="0843c26"/>伽山</placeName><ptr target="#n2692"/>下，逢一老僧，其貌古陋，引一童子名<lb
+    ed="T" n="0843c27"/>字<persName key="A011050">覺一</persName>。老僧前行，<ref type="person" target="#A011050">童子</ref>呼請<persName key="A010378">義</persName>東邊寺內啜<lb
+ed="T" n="0843c28"/>茶去，乃相隨入寺，遍<anchor xml:id="beg0843sgsz28"/>禮<anchor xml:id="end0843sgsz28"/>諸院。見大閣三層，<lb
 ed="T" n="0843c29"/>上下九間，總如金色，閃爍其目。老僧令遣<pb ed="T" n="0844a" xml:id="T50.2061.0844a"/><lb
 ed="T" n="0844a01"/><persName key="A010378">義</persName>早還所止，山寒難住。唯諾辭出寺，行及<lb
 ed="T" n="0844a02"/>百步，迴顧唯是山林，乃知化寺也<ptr target="#n622"/>。却回<placeName key="PL000000042189">長<lb
-ed="T" n="0844a03"/>安</placeName>。<date from-iso="+0766-12-22" key="j20011912001238" to-iso="+0767-02-07"><name>大曆</name>元載</date>，具此事由奏<persName key="A004379">寶應元聖文武皇<lb
-ed="T" n="0844a04"/>帝</persName>，蒙勅置<placeName key="PL000000005372">金閣寺</placeName>，宣十節度助緣<ptr target="#n1896"/>。遂召<lb
-ed="T" n="0844a05"/>蓋造都料，一僧名<persName key="A019455">純陀</persName>，為度土木，造<placeName key="PL000000005372">金閣<lb
-ed="T" n="0844a06"/>一寺</placeName>。<persName key="A019455">陀</persName>元是西域那爛陀寺<placeName key="PL000000048273">喜鵲院</placeName>僧。<placeName key="PL000000005372">寺</placeName>成<lb
-ed="T" n="0844a07"/>後，勅賜<persName key="A019455">不空三藏</persName>焉。<persName key="A010378">義</persName>不測其終。</p>
+ed="T" n="0844a03"/>安</placeName>。<date from-iso="+0766-02-18" key="j20008842001238" to-iso="+0767-02-07"><name>大曆</name>元載</date>，具此事由奏<persName key="A004379">寶應元聖文武皇<lb
+ed="T" n="0844a04"/>帝</persName><ptr target="#n2693"/>，蒙勅置<placeName key="PL000000005372">金閣寺</placeName><ptr target="#n2694"/>，宣十節度<ptr type="glossary" target="#g1777"/>助緣<ptr target="#n1896"/>。遂召<lb
+ed="T" n="0844a05"/>蓋造都料，一僧名<persName key="A012790">純陀</persName>，為度土木<ptr target="#n2695"/>，造<placeName key="PL000000005372">金閣</placeName><lb
+ed="T" n="0844a06"/>一寺<ptr target="#n2696"/>。<persName key="A012790">陀</persName>元是<placeName key="PL000000048273"><placeName>西域</placeName><placeName>那爛陀寺</placeName><placeName>喜鵲院</placeName></placeName>僧。<ref type="place" target="#PL000000005372">寺</ref>成<lb
+ed="T" n="0844a07"/>後，勅賜<persName key="A000095">不空<roleName>三藏</roleName></persName>焉。<persName key="A010378">義</persName>不測其終。</p>
+    <linkGrp>
+        <link targets="#0843c22 #0843c22"/>
+        <ptr target="#A010378" type="person"/>
+        <ptr target="#PL000000013661" type="place"/>
+    </linkGrp>
     <linkGrp>
         <link targets="#0843c22 #0843c24"/>
         <ptr target="#A010378" type="person"/>
@@ -23,28 +28,33 @@ ed="T" n="0844a07"/>後，勅賜<persName key="A019455">不空三藏</persName>�
         <ptr target="#j19818371992113" type="time"/>
     </linkGrp>
     <linkGrp>
+        <link targets="#0843c25 #0843c27"/>
+        <ptr target="#A010378" type="person"/>
+        <ptr target="#A011050" type="person"/>
+        <ptr target="#PL000000059376" type="place"/>
+        <ptr target="#j19818371992113" type="time"/>
+    </linkGrp>
+    <linkGrp>
         <link targets="#0844a02 #0844a04"/>
         <ptr target="#A010378" type="person"/>
         <ptr target="#A004379" type="person"/>
         <ptr target="#PL000000042189" type="place"/>
+        <ptr target="#j20008842001238" type="time"/>
     </linkGrp>
     <linkGrp>
-        <link targets="#0843c25 #0844a02"/>
-        <ptr target="#A010378" type="person"/>
-        <ptr target="#A011050" type="person"/>
-        <ptr target="#PL000000005250" type="place"/>
-        <ptr target="#j20011912001238" type="time"/>
+        <link targets="#0844a03 #0844a06"/>
+        <ptr target="#A012790" type="person"/>
+        <ptr target="#PL000000005372" type="place"/>
+        <ptr target="#j20008842001238" type="time"/>
     </linkGrp>
     <linkGrp>
-        <link targets="#0844a02 #0844a03"/>
-        <ptr target="#A010378" type="person"/>
-        <ptr target="#A004379" type="person"/>
-        <ptr target="#PL000000042189" type="place"/>
-        <ptr target="#j20011912001238" type="time"/>
+        <link targets="#0844a06 #0844a06"/>
+        <ptr target="#A012790" type="person"/>
+        <ptr target="#PL000000048273" type="place"/>
     </linkGrp>
     <linkGrp>
-        <link targets="#0844a03 #0844a07"/>
-        <ptr target="#A004379" type="person"/>
-        <ptr target="#A019455" type="person"/>
+        <link targets="#0844a06 #0844a07"/>
+        <ptr target="#A000095" type="person"/>
+        <ptr target="#PL000000005372" type="place"/>
     </linkGrp>
 </div>

@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="jsz0224b10zhongLiJin">
+    <head><anchor n="X.88.1646.0224b10"/><lb ed="X" n="0224b10"/><ref target="#A017641" type="person">鍾離</ref><ref target="#A011771" type="person">孫</ref><ref target="#A017649" type="person">陸</ref><ref target="#A017650" type="person">張</ref><ref target="#A011817" type="person">孫</ref><ref target="#A017652" type="person">馬</ref><ref target="#A011773" type="person">左</ref><ref target="#A017656" type="person">范</ref><ref target="#A011890" type="person">胡</ref><ref target="#A017657" type="person">孫</ref><ref target="#A017662" type="person">朱</ref><ref target="#A017663 #A017669" type="persName">二王</ref><ref target="#A017674" type="person">吳</ref><ref target="#A010113" type="person">張</ref><ref target="#A017693" type="person">李</ref><lb ed="X" n="0224b11"/><ref target="#A017700" type="person">陸</ref><ref target="#A017703" type="person">閻</ref><ref target="#A015229" type="person">錢</ref><ref target="#A017743" type="person">昝</ref><ref target="#A014985" type="person">吳</ref><ref target="#A017747" type="person">陳</ref>傳</head>
+    <p><lb ed="X" n="0224b12"/><persName key="A017641">鍾離瑾</persName><placeName key="PL000000013263">會稽</placeName>人。母<persName key="A017643">任夫人</persName>。精修淨業。年九十八起居<lb ed="X" n="0224b13"/>如常。時一日忽戒<persName key="A017641">瑾</persName>曰。人人有箇彌陀。奈何拋去。處<lb ed="X" n="0224b14"/>處無非極樂。不解歸來。予將行矣。汝其念之。翼日晨<lb ed="X" n="0224b15"/>起焚香持佛名。頃之合掌而化。<persName key="A017641">瑾</persName>自是感奮。日行利<lb ed="X" n="0224b16"/>益二十事。後知<placeName key="PL000000019432">吉水縣</placeName>。將嫁女。為置媵。審之則舊令<lb ed="X" n="0224b17"/>女也。乃報姻家請緩婚期。而先遣舊令女姻家曰。公<lb ed="X" n="0224b18"/>安得獨為君子。予有猶子方擇偶。請平分奩具。俾同<lb ed="X" n="0224b19"/>親迎可乎。從之。夜夢舊令來謝曰。賤息荷<ref target="#A017641" type="person">公</ref>厚德。已<lb ed="X" n="0224b20"/>奏之上帝。當十世有祿。尋官<placeName key="PL000000011511">浙西</placeName>。與<persName key="A001832">慈雲式公</persName>論往<lb ed="X" n="0224b21"/>生指要。清修彌篤。<persName key="A017643">任夫人</persName>故有旃檀佛像。常頂戴行<lb ed="X" n="0224b22"/>道。及是<persName key="A017641">瑾</persName>方瞻禮。眉間忽迸出舍利數粒。未幾知<placeName key="PL000000023469">開<lb ed="X" n="0224b23"/>封府</placeName>。方夜半。忽起謂家人曰。<ref target="#A017643" type="person">夫人</ref>報我往生期至矣。<lb ed="X" n="0224b24"/>即趺跏坐逝。前一日舉家夢<persName key="A017641">瑾</persName>乘青蓮華。天樂圍繞。<lb ed="X" n="0224c01"/>乘空西邁。子<persName key="A017644"><!-- <date from-iso="0996" to-iso="1096" type="default" xml:id="d20848422118078"/> -->景融</persName>。官朝請大夫。徙居儀真<placeName key="PL000000010863">東園</placeName>側。常<lb ed="X" n="0224c02"/>誦觀無量壽佛經。修念佛三昧。甞曰。不識彌陀。彌陀<lb ed="X" n="0224c03"/>更在西方外。識得彌陀。彌陀只在自己家。一夕請僧<lb ed="X" n="0224c04"/><persName key="A017645">妙應</persName>誦普賢行願品。炷香聽畢。兩手作印而化。曾孫<lb ed="X" n="0224c05"/><persName key="A017646">松</persName>。官朝請大夫。主管<placeName key="PL000000014897">台州</placeName>崇道觀。<date from-iso="1165-02-20" key="j21466182149895" to-iso="1174-02-10">乾道中</date>寓居<placeName key="PL000000009924">蘇州</placeName>。<lb ed="X" n="0224c06"/>與<persName key="A017647">寶積實</persName>公結社修淨業。與者且百人。年八十六無<lb ed="X" n="0224c07"/>疾化去(佛祖統記．樂邦文類)。</p> 
+    
+    <linkGrp>
+        <link targets="#0224b12 #0224b15"/>
+        <ptr target="#A017641" type="person"/>
+        <ptr target="#A017643" type="person"/>
+        <ptr target="unknown" type="place"/>
+        </linkGrp>
+    <linkGrp>
+        <link targets="#0224b16 #0224b20"/>
+        <ptr target="#A017641" type="person"/>
+        <ptr target="#PL000000019432" type="place"/>
+        </linkGrp>
+    <linkGrp>
+        <link targets="#0224b20 #0224b21"/>
+        <ptr target="#A017641" type="person"/>
+        <ptr target="#A001832" type="person"/>
+        <ptr target="#PL000000011511" type="place"/>
+        </linkGrp>
+    <linkGrp>
+        <link targets="#0224b22 #0224b24"/>
+        <ptr target="#A017641" type="person"/>
+        <ptr target="#PL000000023469" type="place"/>
+        </linkGrp>
+    <linkGrp>
+        <link targets="#0224c01 #0224c01"/>
+        <ptr target="#A017641" type="person"/>
+        <ptr target="#A017644" type="person"/>
+        <ptr target="unknown" type="place"/>
+        </linkGrp>
+    <linkGrp>
+        <link targets="#0224c01 #0224c04"/>
+        <ptr target="#A017644" type="person"/>
+        <ptr target="#A017645" type="person"/>
+        <ptr target="#PL000000010863" type="place"/>
+        <!-- <ptr target="#d20848422118078" type="time"/> -->
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0224c04 #0224c06"/>
+        <ptr target="#A017646" type="person"/>
+        <ptr target="#A017647" type="person"/>
+        <ptr target="#PL000000009924" type="place"/>
+        <ptr target="#j21466182149895" type="time"/>
+    </linkGrp>
+ </div>

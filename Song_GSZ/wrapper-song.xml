@@ -9,14 +9,13 @@
           <title xml:lang="zh-Hant">宋高僧傳</title>
           <title xml:lang="en">Song Dynasty Collection of Biographies of Eminent Monks</title>
         </title>
-        <author><name xml:lang="zh-Latn">Zanning</name><name xml:lang="zh-Hant"
-          >釋贊寧</name>(919-1001)</author>
-        <editor>John Kieschnick</editor>
-        <editor>Bo-Yong Zhang 張伯雍</editor>
+        <author><name xml:lang="zh-Latn">Zanning</name><name xml:lang="zh-Hant">釋贊寧</name>(919-1001)</author>
+        <editor>John Henry Kieschnick</editor>
+        <editor>Chang, Po-Yung 張伯雍</editor>
         <editor>Marcus Bingenheimer</editor>
         <respStmt>
           <resp>Encoding, Markup</resp>
-          <name>Zhiwei Xu 許智偉, Bo-Yong Zhang 張伯雍</name>
+          <name>Zhiwei Xu 許智偉, Chang, Po-Yung 張伯雍</name>
         </respStmt>
         <respStmt>
           <resp>Programming, Interface Design</resp>
@@ -27,17 +26,14 @@
           <name>Ray Chou 周邦信</name>
         </respStmt>
         <principal>Marcus Bingenheimer</principal>
-        <funder>Chiang Ching-kuo Foundation for International Scholarly Exchange
-          蔣經國國際學術交流基金會</funder>
+        <funder>Chiang Ching-kuo Foundation for International Scholarly Exchange 蔣經國國際學術交流基金會</funder>
       </titleStmt>
       <publicationStmt>
-        <date>2008-2011</date>
+        <date>2008-2018</date>
         <publisher>Dharma Drum Buddhist College 法鼓佛教學院</publisher>
         <pubPlace>Jinshan, Taiwan 台灣新北市金山區</pubPlace>
         <availability status="free">
-          <p>This electronic text is distributed by Dharma Drum Buddhist College under a <ref
-              target="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution
-              Share-Alike Licence</ref>.</p>
+          <p>This electronic text is distributed by Dharma Drum Buddhist College under a <ref target="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution Share-Alike Licence</ref>.</p>
         </availability>
       </publicationStmt>
       <sourceDesc>
@@ -50,36 +46,33 @@
     <encodingDesc>
       <editorialDecl>
         <interpretation>
-          <ab>          
+          <ab>
           	<interpGrp>
           		<desc>Not recorded 不出校:</desc>
           		<interp>1. Semantically equivalent common variant characters 勅/勑, 眾/衆, 黃/黄  are not recorded.  (Authority on what is a variant is the MoE variant character dictionary 教育部異體字字典).　凡教育部《異體字字典》（http://140.111.1.40/main.htm）所認定互為異體字者。如：勅／勑、眾／衆、黃／黄、鐘／鍾。</interp>
-                        <interp xml:id="appType0">2. Characters which are commonly considered different characters, but used as semantic equivalents between the Taisho and the Qisha text:　於古文中屬互為通用（鐘=鍾，華=花，囑=屬，於=于，耶=邪，嘆=歎），或字形雖略有差異但依其文義可視為同一字者（巳=已，𡉏=圮，<g ref="#Z1201"/>=紀）。</interp>
+                        <interp xml:id="appType0">2. Characters which are commonly considered different characters, but used as semantic equivalents between the Taisho and the Qisha text:　於古文中屬互為通用（鐘=鍾，華=花，囑=屬，於=于，耶=邪，嘆=歎，謚=諡，羡=羨，歛=斂，俊=雋），或字形雖略有差異但依其文義可視為同一字者（巳=已，𡉏=圮，<g ref="#Z1201"/>=紀）。</interp>
           	</interpGrp>
           	<interpGrp>
-              <desc>1. Mistakes in the Taishō edition 大正藏錯誤者</desc>
-              <interp xml:id="appType1a">Mistake in the main text. The correct character is part of the Taishō apparatus (e.g. 水/永) // 大正藏已出校者</interp>
-              <interp xml:id="appType1b">Mistake in the main text. Newly identified when collated with the Qisha  (e.g. 蛟/蚊) 對校磧砂藏而新出校者</interp>
-            <interp xml:id="appType1c">Character in the main text is correct. Character given in the Taisho annotation is wrong. 大正藏校注為錯誤者</interp>
+              <desc>1. Mistakes or non-preferred readings in the Taishō edition. 大正藏錯誤者或非優先者（大正藏訛誤、義短者）</desc>
+              <interp xml:id="appType1a">Mistake or non-preferred reading in the Taishō main text. Such cases can generally be assumed to reflect the Jiaxing zang reading, though there could be mistakes readings that were introduced in the creation of the Taishō. In Type 1a the preferred reading is found in the Taishō apparatus. 1a makes no statement about the appearance of the text in the Qisha, but all instances where the Qisha supports the Song reading against the Taishō are considered non-preferred readings in the Taishō main text and are included in 1a. (e.g. 水/永) // 發現大正藏的錯誤或用字較為不當者。此情況假定為承襲自嘉興藏，即使並非如此。Type 1a表示大正藏校注之用字較正文適當。1a不考慮磧砂藏之用字為何，但若磧砂藏與宋版校注相符，則亦歸於此類。</interp>
+              <interp xml:id="appType1b">Mistake or non-preferred reading in the Taishō main text that has been newly identified in our collation with the Qisha edition.  (e.g. 蛟/蚊) 對校磧砂藏而新出校者</interp>
+            <interp xml:id="appType1c">Records an apparatus entry where the alternative reading given in the Taishō apparatus should be considered a mistake or non-preferred reading, and the character in the main text of the Taishō is considered correct. 大正藏校注為錯誤、義短者</interp>
             </interpGrp>
             <interpGrp>
-              <desc>2. Mistakes in the Qisha edition 磧砂藏錯誤者</desc>
-              <interp xml:id="appType2a">Already recognized in the Zhonghua shuju 中華書局 apparatus by Fan Xiangyong 范祥雍 //  范祥雍已出校於中華書局版者</interp>
-              <interp xml:id="appType2b">Mistakes newly identified when collated with the Taishō 對校大正藏而新出校者</interp>
+              <desc>2. Mistakes or non-preferred readings in the Qisha edition. 磧砂藏錯誤者或非優先者（磧砂藏訛誤、義短者）</desc>
+              <interp xml:id="appType2a">Mistake or non-preferred reading in the Qisha edition that was already identified by Fan Xiangyong 范祥雍 in the apparatus to his Zhonghua shuju 中華書局 edition (Fan 1986). //  范祥雍已出校於中華書局版或逕行修改者</interp>
+              <interp xml:id="appType2b">Mistake or non-preferred reading that has been newly identified in our collation of the Qisha with the Taishō text. 對校大正藏而新發現者</interp>
             </interpGrp>
             <interpGrp>
-              <desc>3. Variant characters 通義字者 (Taisho - Qisha)</desc>
-            <interp xml:id="appType3a">Where the variant character encodes additional semantic or grammatical information (only observed in the Qisha and the Southern Hungwu edition)  (禮/礼, 薦/荐) // 語義學或文法上有差異的異體字（禮/礼 使用上的差異僅見於磧砂藏與洪武南藏。「薦」作寺名或推舉解，「荐」作頻仍、屢次解，此大正藏與磧砂藏同。僅發生一次差異。）</interp>
-            <interp xml:id="appType3b">"Morphological variance" 詞法或寫法不同，但語意沒有差異。
-                Different characters used in compunds Taisho vs. Qisha 例如：服/伏 植/殖 有/大 杖/仗 隸/肄 皈/歸 縉/搢 廷/庭 采/彩 換/渙 慧/惠 旃/栴 瓈/<g ref="#Z1177"/>/璃 籍/藉 杼/抒 秉/受 苒/冉 悟/寤 鍊/練/煉 略/掠 阼/祚 支那/脂那 闐/遁 密/蜜 芻/蒭 輳/湊used equivalently in Taisho vs. Qisha (vide  服膺/伏膺 宿植/宿殖 杖錫/仗錫 隸習/肄習 有宋/大宋 皈戒/歸戒 縉紳/搢紳 朝廷/朝庭 文采/文彩 叛換/叛渙 察慧/察惠 旃檀/栴檀 玻瓈/玻<g ref="#Z1177"/>/玻璃 籍沒/藉沒 杼思/抒思 秉性/受性 苒苒/冉冉 警悟/警寤 修鍊/修練/修煉 剽略/剽掠 踐阼/踐祚 支那/脂那 于闐/于遁 迦濕密羅/迦濕蜜羅 苾芻/苾蒭 輻輳/輻湊)</interp>
-            </interpGrp>            
-            <interpGrp>
-            <desc>4. Undetermined 未決定</desc>
-          		<interp xml:id="appType4">Different characters or different character variants where the correct choice can't be determined from the context (e.g. 來/求)   //  各版本出現不同字或異體字，但無法判斷何者正確</interp>
+              <desc>3. Variant characters 不同字 - 難以判斷</desc>
+            <interp xml:id="appType3a">Where the variant character encodes additional semantic or grammatical information (only observed in the Qisha and the Southern Hungwu edition)  (禮/礼, 薦/荐, 嘆/歎？) // 語義學或文法上有差異的異體字──古今有別，今日混用者（禮/礼 此使用上的差異僅見於磧砂藏與洪武南藏。另外，「薦」作寺名或推舉解，「荐」作頻仍、屢次解，此大正藏與磧砂藏同。僅發生一次差異。）</interp>
+            <interp xml:id="appType3b">Marks variations that appear in compounds ("Morphological variance") 詞法不同（辭彙上的差異）- 難以判斷。
+                Different characters used in compunds Taisho vs. Qisha  (vide  服膺/伏膺 宿植/宿殖 杖錫/仗錫 隸習/肄習 有宋/大宋 皈戒/歸戒 縉紳/搢紳 朝廷/朝庭 文采/文彩 叛換/叛渙 察慧/察惠 旃檀/栴檀 玻瓈/玻<g ref="#Z1177"/>/玻璃 籍沒/藉沒 杼思/抒思 秉性/受性 苒苒/冉冉 警悟/警寤 修鍊/修練/修煉 剽略/剽掠 踐阼/踐祚 支那/脂那 于闐/于遁 迦濕密羅/迦濕蜜羅 苾芻/苾蒭 輻輳/輻湊)</interp>
+<interp xml:id="appType3c">Marks single character variations. 難以判斷之單一文字。</interp>
             </interpGrp>
             <interpGrp>
-              <desc>5. Others 其他</desc>
-            	<interp xml:id="appType5">e.g. Mistakes only in the Zhonghua shuju edition 僅發生於中華本之錯誤者</interp>
+              <desc>4. Others 其他</desc>
+            	<interp xml:id="appType4">e.g. Mistakes only in the Zhonghua shuju edition 例如僅發生於中華本之錯誤者</interp>
             </interpGrp>
           </ab>
         </interpretation>
@@ -714,7 +707,7 @@
         <pb n="0843a" xml:id="T50.2061.0843a" ed="T"/>
         <lb n="0843a02" ed="T"/>
         <anchor n="T.50.2061.0843a02"/>
-        <head><anchor xml:id="beg00843sgsz1"/>宋<anchor xml:id="end0843sgsz1"/>高僧傳卷第二十一</head>
+        <head><anchor xml:id="beg0843sgsz1"/>宋<anchor xml:id="end0843sgsz1"/>高僧傳卷第二十一</head>
         <lb n="0843a03" ed="T"/>
         <lb n="0843a04" ed="T"/>
         <byline n="Author"><anchor xml:id="beg0843sgsz2"/><date from-iso="+0960-02-09" key="j20717322132856" to-iso="+1127-06-18">宋</date><placeName key="PL000000023316"
@@ -873,12 +866,12 @@
       <div type="juan" n="26">
         <lb n="0872c15" ed="T"/>
         <anchor n="T.50.2061.0872c15"/>
-        <head><anchor xml:id="beg0872sgsz10"/>宋<anchor xml:id="end0872sgsz10"/>高僧傳卷第二十六</head>
+        <head><anchor xml:id="beg0872sgsz14"/>宋<anchor xml:id="end0872sgsz14"/>高僧傳卷第二十六</head>
         <lb n="0872c16" ed="T"/>
         <lb n="0872c17" ed="T"/>
-        <byline n="Author"><anchor xml:id="beg0872sgsz11"/><date from-iso="+0960-02-09" key="j20717322132856" to-iso="+1127-06-18">宋</date><placeName key="PL000000023316"
+        <byline n="Author"><anchor xml:id="beg0872sgsz15"/><date from-iso="+0960-02-09" key="j20717322132856" to-iso="+1127-06-18">宋</date><placeName key="PL000000023316"
             >左街天壽寺</placeName><persName key="A001910"><roleName>通慧大師<lb n="0872c18" ed="T"
-              />賜紫沙門</roleName>贊寧</persName>等奉 勅撰<anchor xml:id="end0872sgsz11"/></byline>
+              />賜紫沙門</roleName>贊寧</persName>等奉 勅撰<anchor xml:id="end0872sgsz15"/></byline>
         <lb n="0872c19" ed="T"/>
         <p>興福篇第九之一（正傳十四人附見二人）</p>
         <xi:include href="1180shiFaCheng.xml"/>

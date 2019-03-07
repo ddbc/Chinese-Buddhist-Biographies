@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="jsz0216a07wangMoJie">
+    <head><anchor n="X.88.1646.0216a07"/><lb ed="X" n="0216a07"/><persName key="A004031">王摩詰</persName><persName key="A003970">柳子厚</persName><persName key="A004029">白樂天</persName>傳</head>
+    <p><lb ed="X" n="0216a08"/><persName key="A004031">王摩詰</persName>名<persName key="A004031">維</persName>。世為<placeName key="PL000000004787">祁縣</placeName>人。後徙家於<placeName key="PL000000005199">蒲</placeName>。與弟<persName key="A008502">縉</persName>俱有<lb ed="X" n="0216a09"/>俊才。<date from-iso="0721-02-05" key="j19844351984789" to-iso="0722-01-25">開元九年</date>擢進士第。歷官至監察御史。母<persName key="A017355"><placeName key="PL000000002513">博陵<lb ed="X" n="0216a10"/>縣</placeName>君崔氏</persName>。持戒安禪。<persName key="A004031">摩詰</persName>於<placeName key="PL000000042576">藍田</placeName>營山莊。為母經行<lb ed="X" n="0216a11"/>之處。既卒。乃上表於朝。請施莊為寺。詔許之。<date from-iso="0752-12-30" key="j19960861997410" to-iso="0756-08-15">天寶末<lb ed="X" n="0216a12"/></date>為給事中。<persName key="A008454">安祿山</persName>陷<placeName key="PL000000042182">京師</placeName>。為所得。以藥下痢佯瘖。<persName key="A008454">祿<lb ed="X" n="0216a13"/>山</persName>迎置<placeName key="PL000000023582">洛陽</placeName>。迫為給事中。賊平論罪。時<persName key="A008502">縉</persName>已官刑部<lb ed="X" n="0216a14"/>侍郎。請削官贖兄罪。乃左遷太子中允。累遷尚書右<lb ed="X" n="0216a15"/>丞。在<placeName key="PL000000042182">京師</placeName>從<placeName key="PL000000042270">薦福寺</placeName><persName key="A014111">道光</persName>禪師遊。日飯數十名僧齋。<lb ed="X" n="0216a16"/>中無所有。唯藥鐺茶臼經案繩牀而已。居常不茹葷<lb ed="X" n="0216a17"/>血。不衣文綵。妻亡不再娶。三十年孤處一室。焚香獨<lb ed="X" n="0216a18"/>坐以禪誦為業。時與友人<persName key="A017356">裴廸</persName>往來山莊。彈琴嘯咏<lb ed="X" n="0216a19"/>樂之忘歸。同時有<persName key="A017359">魏處士</persName>者。高不仕之節。屢徵不應。<lb ed="X" n="0216a20"/><persName key="A004031">摩詰</persName>為書遺之曰。聖人知身之不足有也。故曰欲潔<lb ed="X" n="0216a21"/>其身而亂大倫。知名之無所著也。故曰欲使如來名<lb ed="X" n="0216a22"/>聲普聞。古之高者曰<persName key="A002863">許由</persName>。聞<persName key="A002433">堯</persName>讓。臨水而洗其耳。耳<lb ed="X" n="0216a23"/>非駐聲之地。聲無染耳之迹。惡外者垢內。病物者自<lb ed="X" n="0216a24"/>我。豈入道者之門與。<persName key="A002174">孔宣父</persName>云。我則異於是。無可無<lb ed="X" n="0216b01"/>不可。願足下思可不可之旨。無守默以為絕塵。以不<lb ed="X" n="0216b02"/>動為出世也。<date from-iso="0759-08-02" key="j19984921998520" to-iso="0759-08-30">乾元二年七月</date>有疾。以<persName key="A008502">縉</persName>在<placeName key="PL000000042848">鳳翔</placeName>。索筆<lb ed="X" n="0216b03"/>作別<persName key="A008502">縉</persName>書。又與親故書數幅。多敦厲奉佛修心之旨。<lb ed="X" n="0216b04"/>捨筆而逝(唐書．右丞文集)。</p> 
+    
+    <linkGrp>
+        <link targets="#0216a08 #0216a08"/>
+        <ptr target="#A004031" type="person"/>
+        <ptr target="#PL000000004787" type="place"/>
+        </linkGrp>
+    <linkGrp>
+        <link targets="#0216a08 #0216a08"/>
+        <ptr target="#A004031" type="person"/>
+        <ptr target="#PL000000005199" type="place"/>
+        </linkGrp>
+    <linkGrp>
+        <link targets="#0216a08 #0216a10"/>
+        <ptr target="#A004031" type="person"/>
+        <ptr target="#A008502" type="person"/>
+        <ptr target="#A017355" type="person"/>
+        <ptr target="unknown" type="place"/>
+        </linkGrp>
+    <linkGrp>
+        <link targets="#0216a10 #0216a11"/>
+        <ptr target="#A004031" type="person"/>
+        <ptr target="#A017355" type="person"/>
+        <ptr target="#PL000000042576" type="place"/>
+        </linkGrp>
+    <linkGrp>
+        <link targets="#0216a11 #0216a12"/>
+        <ptr target="#A004031" type="person"/>
+        <ptr target="#PL000000042182" type="place"/>
+        <ptr target="#j19960861997410" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0216a12 #0216a13"/>
+        <ptr target="#A004031" type="person"/>
+        <ptr target="#A008454" type="person"/>
+        <ptr target="#PL000000023582" type="place"/>
+        </linkGrp>
+    <linkGrp>
+        <link targets="#0216a15 #0216a18"/>
+        <ptr target="#A004031" type="person"/>
+        <ptr target="#A014111" type="person"/>
+        <ptr target="#PL000000042182" type="place"/>
+        </linkGrp>
+    <linkGrp>
+        <link targets="#0216a18 #0216a19"/>
+        <ptr target="#A004031" type="person"/>
+        <ptr target="#A017356" type="person"/>
+        <ptr target="#PL000000042576" type="place"/>
+        </linkGrp>
+    <linkGrp>
+        <link targets="#0216a19 #0216b02"/>
+        <ptr target="#A004031" type="person"/>
+        <ptr target="#A017359" type="person"/>
+        <ptr target="unknown" type="place"/>
+        </linkGrp>
+    <linkGrp>
+        <link targets="#0216b02 #0216b02"/>
+        <ptr target="#A008502" type="person"/>
+        <ptr target="#PL000000042848" type="place"/>
+        <ptr target="#j19984921998520" type="time"/>
+    </linkGrp>
+ </div>

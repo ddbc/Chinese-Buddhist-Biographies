@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="jsz0184c16anYuan">
+    <p><anchor n="X.88.1646.0184c16"/><lb ed="X" n="0184c16"/><persName key="A014804">安元</persName><placeName key="PL000000048413">安息國</placeName>人也。志性貞白。為優婆塞。嚴秉法戒。博<lb ed="X" n="0184c17"/>通群經。<date key="j17884261790419" to-iso="0189-11-24" from-iso="0184-06-10">漢靈帝末</date>游宦<placeName key="PL000000023521">洛陽</placeName>。官騎都尉。常與沙門講<lb ed="X" n="0184c18"/>論道義。時僧<persName key="A001912">佛調</persName>方譯法鏡經。<persName key="A014804">元</persName>口譯梵文。<persName key="A001912">佛調</persName>筆<lb ed="X" n="0184c19"/>受。詞旨兩得。見述後代(出三藏記集)。</p>     
+    
+    <linkGrp>
+        <link targets="#0184c16 #0184c17"/>
+        <ptr target="#A014804" type="person"/>
+        <ptr target="#PL000000048413" type="place"/>
+        </linkGrp>
+    <linkGrp>
+        <link targets="#0184c17 #0184c19"/>
+        <ptr target="#A014804" type="person"/>
+        <ptr target="#A001912" type="person"/>
+        <ptr target="#PL000000023521" type="place"/>
+        <ptr target="#j17884261790419" type="time"/>
+    </linkGrp>
+ </div>

@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" type="譯經" xml:id="gsz0722b10shiWuKong"><lb
-ed="T" n="0722b10"/><anchor n="T.50.2061.0722b10"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date><placeName key="PL000000042180">上都章敬寺</placeName><persName key="A009152">悟空</persName>傳<ptr target="#n224"/></head><p><lb
-ed="T" n="0722b11"/><persName key="A009152">釋悟空</persName>，<placeName key="PL000000043083">京兆雲陽</placeName>人，姓<name>車</name>氏，<placeName key="PL000000000130">後魏</placeName><name>拓跋</name>之遠<lb
+ed="T" n="0722b10"/><anchor n="T.50.2061.0722b10"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date><placeName key="PL000000042180"><placeName>上都</placeName><placeName>章敬寺</placeName></placeName><persName key="A009152">悟空</persName>傳<ptr rend="display:none;" target="#n224"/></head><p><lb
+ed="T" n="0722b11"/><persName key="A009152">釋悟空</persName>，<placeName key="PL000000043083"><placeName>京兆</placeName><placeName>雲陽</placeName></placeName>人，姓<name>車</name>氏，<placeName key="PL000000000130">後魏</placeName><name>拓跋</name>之遠<lb
 ed="T" n="0722b12"/>裔也。天假聰敏，志尚典墳<ptr type="glossary" target="#g418"/>，孝悌之聲，藹于<lb
 ed="T" n="0722b13"/>鄉里。屬<persName key="A000291">玄宗</persName>德被遐方，<placeName key="PL000000055418">罽賓國</placeName>願附<placeName key="PL000000000106">大唐</placeName>，<lb
 ed="T" n="0722b14"/>遣大首領<persName key="A009187">薩婆<anchor xml:id="beg0722002"/><choice resp="sgsz"><sic>遠</sic><corr>達</corr></choice><anchor xml:id="end0722002"/>幹</persName>與三藏<persName key="A009188">舍利越摩</persName>於<lb
@@ -11,7 +11,7 @@ ed="T" n="0722b17"/>邁。時<persName key="A009152">空</persName>未出，俗�
 ed="T" n="0722b18"/>府別將，令隨使臣自<placeName key="PL000000047826">安西</placeName>路去。至<date from-iso="+0753-02-12" key="j19961301996483" to-iso="+0754-01-31">十二<lb
 ed="T" n="0722b19"/>載</date>至<placeName key="PL000000049232">健陀羅國</placeName>，<placeName key="PL000000055418">罽賓</placeName>東都城也，其王禮接<lb
 ed="T" n="0722b20"/><placeName key="PL000000000106">唐</placeName>使。<ref type="person" target="#A009189">使</ref>迴，<persName key="A009152">空</persName>篤疾，留<placeName key="PL000000049232">健陀羅</placeName>。病中發願，痊<lb
-ed="T" n="0722b21"/>當出家。遂投<persName key="A009188">舍利越摩</persName>落髮，號<persName key="A009152">達摩<anchor xml:id="beg0722sgsz7"/>馱<anchor xml:id="end0722sgsz7"/>都</persName>，<lb
+ed="T" n="0722b21"/>當出家。遂投<persName key="A009188">舍利越摩</persName>落髮，號<persName key="A009152"><anchor xml:id="beg0722sgsz7"/>達摩馱都<anchor xml:id="end0722sgsz7"/></persName>，<lb
 ed="T" n="0722b22"/><name>華</name>言<persName key="A009152">法界</persName>，當<persName key="A004378">肅宗</persName><date from-iso="+0757-01-29" key="j19975771997960" to-iso="+0758-02-16"><name>至德</name>二年</date>也。洎<date when-iso="0759" key="j19982791998643">年二十<lb
 ed="T" n="0722b23"/>九</date>，於<placeName key="PL000000055417">迦濕彌羅國</placeName>受具足戒，<persName key="A009190">文殊矢涅地</persName><lb
 ed="T" n="0722b24"/>為親教師，<persName key="A009191">鄔不羼提</persName>為羯磨阿遮利耶<ptr rend="display:none;" type="glossary" target="#g422"/>，<persName key="A009192">馱里<lb

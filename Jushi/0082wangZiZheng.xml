@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="jsz0219b16wangZiZheng">
+    <p><anchor n="X.88.1646.0219b16"/><lb ed="X" n="0219b16"/><persName key="A017492">王子正</persName>名<persName key="A017492">隨</persName>。<placeName key="PL000000024707">河陽</placeName>人。登進士甲科。歷知州郡。其為政<lb ed="X" n="0219b17"/>外嚴而內寬。居常慕<persName key="A003624">裴公美</persName>之為人。以御史中丞出<lb ed="X" n="0219b18"/>鎮<placeName key="PL000000011515">錢塘</placeName>。往<placeName key="PL000000011431">興教寺</placeName>謁<persName key="A017494">小壽禪師</persName>。機語契合。自是踐履<lb ed="X" n="0219b19"/>日深竟明大法。時<persName key="A000085">長水法師子璿</persName>疏首楞嚴經既成。<lb ed="X" n="0219b20"/>屬<persName key="A017492">子正</persName>為之序。序曰。大佛頂義密因了義首楞嚴經<lb ed="X" n="0219b21"/>者。乃竺乾之洪範。法苑之寶典也。昔能仁以出震<placeName key="PL000000048207">五<lb ed="X" n="0219b22"/>天</placeName>。獨尊三界。舍金輪而啟物。現玉毫而應世。觀四生<lb ed="X" n="0219b23"/>之受苦也惠濟庶物。愍羣機之未悟也力垂善誘。於<lb ed="X" n="0219b24"/>是俯仰至理述宣微言。闢大慈之門。廓真如之海。以<lb ed="X" n="0219c01"/>為一切諸法唯依妄念而起。一切眾生不出因緣而<lb ed="X" n="0219c02"/>有。乃知生死輪轉貪欲為本。修證常樂禪慧為宗。則<lb ed="X" n="0219c03"/>斯經也可以辨識諸魔。破滅七趣。謂止及觀。修圓覺<lb ed="X" n="0219c04"/>妙明之心。發真歸元。證上乘至極之道。懿夫般剌譯<lb ed="X" n="0219c05"/>其義。房相筆其文。今<persName key="A000085">釋璿師</persName>學識兼高。辨才無礙。以<lb ed="X" n="0219c06"/>是經典為時教於一代。分妙理於十門。功濟大千。道<lb ed="X" n="0219c07"/>傳不二。信受則為世津梁。開悟則入佛知見。乃題經<lb ed="X" n="0219c08"/>以作疏。因疏以明理。故可以開前疑而决後滯。披迷<lb ed="X" n="0219c09"/>雲而覩慧日。隨志在外護。慙無內學。因獲覧閱。輙述<lb ed="X" n="0219c10"/>序引。歸依法寶。幸精究於真詮。讚揚佛乘。願普霑於<lb ed="X" n="0219c11"/>勝果。甞刪次傳燈錄為玉英集。行於世。明道中參知<lb ed="X" n="0219c12"/>政事。臨終書偈曰。畵堂燈不滅。彈指向誰說。去住本<lb ed="X" n="0219c13"/>尋常。春風掃殘雪。贈中書令。諡<persName key="A017492">章惠</persName>(東都事略．五燈會元．楞嚴經疏<lb ed="X" n="0219c14"/>序)。</p> 
+    
+    <linkGrp>
+        <link targets="#0219b17 #0219b19"/>
+        <ptr target="#A017492" type="person"/>
+        <ptr target="#A017494" type="person"/>
+        <ptr target="#PL000000011431" type="place"/>
+        </linkGrp>
+    <linkGrp>
+        <link targets="#0219b19 #0219b20"/>
+        <ptr target="#A017492" type="person"/>
+        <ptr target="#A000085" type="person"/>
+        <ptr target="unknown" type="place"/>
+        </linkGrp>
+ </div>

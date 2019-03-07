@@ -1,55 +1,72 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" type="遺身" xml:id="gsz0856c09shiQuanHuo"><lb
-ed="T" n="0856c09"/><anchor n="T.50.2061.0856c09"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date>鄂州巖頭<anchor xml:id="beg0856004"/>院<anchor xml:id="end0856004"/><persName key="A008167">全豁</persName>傳</head><p><lb
-ed="T" n="0856c10"/><persName key="A008167">釋全豁</persName>，俗姓柯氏，<placeName key="PL000000017906">泉州</placeName>人也。少而挺秀，器度<lb
-ed="T" n="0856c11"/>宏遠而疎略。<anchor xml:id="beg0856sgsz14"/>禮<anchor xml:id="end0856sgsz14"/><placeName key="PL000000003829">清源</placeName><persName key="A013238">誼公</persName>為師。往<placeName key="PL000000042189">長安</placeName>，造<lb
-ed="T" n="0856c12"/><placeName key="PL000000042216">西明寺</placeName>，<persName key="A001417">照公</persName>與受滿足法。即於左街<placeName key="PL000000042165">保壽<lb
+ed="T" n="0856c09"/><anchor n="T.50.2061.0856c09"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date><placeName key="PL000000028240"><placeName>鄂州</placeName><placeName>巖頭<anchor xml:id="beg0856004"/><choice resp="sgsz"><sic>院</sic><corr>山</corr></choice><anchor xml:id="end0856004"/></placeName></placeName><persName key="A008167">全豁</persName>傳</head><p><lb
+ed="T" n="0856c10"/><persName key="A008167">釋全豁</persName>，俗姓<name>柯</name>氏，<placeName key="PL000000017906">泉州</placeName>人也<ptr target="#n2913"/>。少而挺秀，器度<lb
+ed="T" n="0856c11"/>宏遠而疎略。<anchor xml:id="beg0856sgsz14"/>禮<anchor xml:id="end0856sgsz14"/><placeName key="PL000000019385">清源</placeName><persName key="A013238">誼<name>公</name></persName>為師。往<placeName key="PL000000042189">長安</placeName>，造<lb
+ed="T" n="0856c12"/><placeName key="PL000000042216">西明寺</placeName>，<persName key="A023854">照<name>公</name></persName>與受滿足法<ptr target="#n2914"/>。即於左街<placeName key="PL000000042165">保壽<lb
 ed="T" n="0856c13"/>寺</placeName>聽尋經律，決擇綱宗，垂成講導，振錫<lb
-ed="T" n="0856c14"/>南指。詣武陵<placeName key="PL000000029435">德山</placeName>。藥病相應，更無疑滯。後<lb
-ed="T" n="0856c15"/>居所隣洞庭，地曰臥龍。乃築室而投憩焉。<lb
-ed="T" n="0856c16"/>徒侶影隨。又居<placeName key="PL000000028239">唐年山</placeName>，山有石巖巉崪，立<lb
-ed="T" n="0856c17"/>院號<placeName key="PL000000028240">巖頭</placeName>歟。凡所施用，皆削繁總，兀然而<lb
+ed="T" n="0856c14"/>南指。詣<placeName key="PL000000029413">武陵</placeName><persName key="A003868">德山</persName>。藥病相應，更無疑滯。後<lb
+ed="T" n="0856c15"/>居所隣<placeName key="PL000000028612">洞庭</placeName>──地曰<placeName key="PL000000059399">臥龍</placeName>──，乃築室而投憩焉。<lb
+ed="T" n="0856c16"/>徒侶影隨。又居<placeName key="PL000000028239">唐年山</placeName>，山有石巖巉崪<ptr type="glossary" target="#g1634"/>，立<lb
+ed="T" n="0856c17"/>院號<placeName key="PL000000028240">巖頭</placeName>歟。凡所施用，皆削繁總<ptr type="glossary" target="#g1904"/>，兀然而<lb
 ed="T" n="0856c18"/>坐，任眾圍繞，曰：「汝何不思惟？家中有多少<lb
 ed="T" n="0856c19"/>事，實於逆順之境證得超越之相者。」<persName key="A008167">豁</persName>值<lb
-ed="T" n="0856c20"/><date key="j20443962045496" notAfter-iso="+0888-04-10" notBefore-iso="+0885-04-06"><name>光啟</name></date>已來，<placeName key="PL000000000214">中原</placeName>多事，諸侯角立，狂賊來剽掠，<lb
+ed="T" n="0856c20"/><date key="j20443962045496" notAfter-iso="+0888-04-10" notBefore-iso="+0885-04-06"><name>光啟</name></date>已來，<placeName key="PL000000000214">中原</placeName>多事<ptr target="#n2915"/>，諸侯角立，狂賊來剽掠，<lb
 ed="T" n="0856c21"/>眾皆迴避，<persName key="A008167">豁</persName>惟晏如。賊<anchor xml:id="beg0856sgsz17"/>責<anchor xml:id="end0856sgsz17"/>弗供饋，忿怒俾<lb
 ed="T" n="0856c22"/>揮刃之，曾無懼色。當<date key="j20451582045158" when-iso="+0887-05-08"><name>光啟</name>丁未歲夏四月<lb
 ed="T" n="0856c23"/>八日</date><ptr target="#n666"/>。門人權葬，葬後收焚之，獲舍利七七<lb
-ed="T" n="0856c24"/>粒。<persName key="A005228">僖宗</persName>賜諡曰<persName key="A008167">清嚴</persName>，塔號出塵。葬事，檀越<lb
+ed="T" n="0856c24"/>粒。<persName key="A005228">僖宗</persName>賜謚曰<persName key="A008167">清嚴</persName>，塔號<placeName key="PL000000003327">出塵</placeName>。葬事，檀越<lb
 ed="T" n="0856c25"/><persName key="A013248">田詠</persName>兄弟率財營構，<placeName key="PL000000028928">南嶽</placeName><persName key="A010511">釋玄泰</persName>撰碑頌<lb
-ed="T" n="0856c26"/>德，提唱斗峻，時號<persName key="A008167">巖頭</persName>法道，難其領會<lb
-ed="T" n="0856c27"/>焉。</p>
-    <p xml:id="pT50p0856c2801"><lb
-ed="T" n="0856c28"/>系曰：<persName key="A003641">休</persName>、<persName key="A008167">豁</persName>二師，何臨難無苟免乎？通曰：「凡<lb
+ed="T" n="0856c26"/>德<ptr target="#n2916"/>。提唱斗峻<ptr type="glossary" target="#g1905"/>，時號<persName key="A008167">巖頭法道</persName>，難其領會<lb
+ed="T" n="0856c27"/>焉。</p><p xml:id="pT50p0856c2801"><lb
+ed="T" n="0856c28"/>系曰：<persName key="A003641">休</persName>、<persName key="A008167">豁</persName>二師，何臨難無苟免乎<ptr type="glossary" target="#g1906"/>？通曰：「凡<lb
 ed="T" n="0856c29"/>夫之難，是菩薩之易。經生累捨，此烏<anchor xml:id="beg0856sgsz19"/><choice resp="sgsz"><sic>悕</sic><corr>恡</corr></choice><anchor xml:id="end0856sgsz19"/>哉？昔<pb ed="T" n="0857a" xml:id="T50.2061.0857a"/><lb
-ed="T" n="0857a01"/><persName key="A000366">安世高</persName>累累償債，去若拂塵。業累纔輕，苦<lb
+ed="T" n="0857a01"/><persName key="A000366">安世高</persName>累累償債<ptr target="#n2917"/>，去若拂塵。業累纔輕，苦<lb
 ed="T" n="0857a02"/>依身盡，換堅固之體耳。神仙或從刃殞者，<lb
 ed="T" n="0857a03"/>謂之劍解，況其正修證果之人？觀待道理，<lb
-ed="T" n="0857a04"/>不以不令終為恥也。」</p>
+ed="T" n="0857a04"/>不以不令<ptr type="glossary" target="#g1907"/>，終為恥也。」</p>
+    <linkGrp>
+        <link targets="#0856c10 #0856c10"/>
+        <ptr target="#A008167" type="person"/>
+        <ptr target="#PL000000017906" type="place"/>
+    </linkGrp>
     <linkGrp>
         <link targets="#0856c11 #0856c11"/>
         <ptr target="#A008167" type="person"/>
         <ptr target="#A013238" type="person"/>
+        <ptr target="#PL000000019385" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0856c11 #0856c12"/>
         <ptr target="#A008167" type="person"/>
-        <ptr target="#A001417" type="person"/>
+        <ptr target="#A023854" type="person"/>
         <ptr target="#PL000000042216" type="place"/>
     </linkGrp>
     <linkGrp>
-        <link targets="#0856c12 #0856c13"/>
+        <link targets="#0856c12 #0856c14"/>
         <ptr target="#A008167" type="person"/>
         <ptr target="#PL000000042165" type="place"/>
     </linkGrp>
     <linkGrp>
-        <link targets="#0856c13 #0856c14"/>
+        <link targets="#0856c14 #0856c14"/>
         <ptr target="#A008167" type="person"/>
-        <ptr target="#PL000000029435" type="place"/>
+        <ptr target="#A003868" type="person"/>
+        <ptr target="#PL000000029413" type="place"/>
     </linkGrp>
     <linkGrp>
-        <link targets="#0856c15 #0856c19"/>
+        <link targets="#0856c15 #0856c16"/>
+        <ptr target="#A008167" type="person"/>
+        <ptr target="#PL000000059399" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0856c16 #0856c17"/>
         <ptr target="#A008167" type="person"/>
         <ptr target="#PL000000028240" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0856c20 #0856c23"/>
+        <ptr target="#A008167" type="person"/>
+        <ptr target="#PL000000028240" type="place"/>
+        <ptr target="#j20451582045158" type="time"/>
     </linkGrp>
 </div>

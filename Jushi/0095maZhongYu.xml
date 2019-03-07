@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="jsz0225a07maZhongYu">
+    <p><anchor n="X.88.1646.0225a07"/><lb ed="X" n="0225a07"/><persName key="A017652">馬仲玉</persName>名<persName key="A017652">圩</persName>。廬州<placeName key="PL000000015060">合肥</placeName>人。父<persName key="A015228">忠肅公亮</persName>。守<placeName key="PL000000011515">杭州</placeName>日。<persName key="A001832">慈<lb ed="X" n="0225a08"/>雲式公</persName>授以淨土法門。遂全家奉佛。<date from-iso="1078-01-23" key="j21148142117736" to-iso="1086-01-23">元豐中</date><persName key="A017652">仲玉</persName>遇<lb ed="X" n="0225a09"/>僧<persName key="A017653">廣初</persName>。得天台十疑論。喜曰。吾今得所歸矣。遂依<persName key="A001832">慈<lb ed="X" n="0225a10"/>雲</persName>十念回向法。行之二十餘年。後更與<persName key="A009477">王敏仲</persName>往還。<lb ed="X" n="0225a11"/>益精進念佛。常以放生為佛事。歷守<placeName key="PL000000020589">淄川</placeName><placeName key="PL000000011957">新定</placeName>。以慈<lb ed="X" n="0225a12"/>惠為政。課誦經呪。觀想<placeName key="PL000000055477">西方</placeName>。日有常法。時<persName key="A017551">荊王夫人</persName><lb ed="X" n="0225a13"/>與其侍妾同修淨土。其妾已化。去已見夢於夫人。引<lb ed="X" n="0225a14"/>之遊於蓮池。見有朝服而坐華上者。曰此<persName key="A017652">馬圩</persName>．<persName key="A003554">楊傑</persName><lb ed="X" n="0225a15"/>也。時<persName key="A003554">傑</persName>已化去。而<persName key="A017652">仲玉</persName>尚無恙。<date from-iso="1102-01-28" key="j21235842123967" to-iso="1103-02-15">崇寧元年</date>得疾。盥沐<lb ed="X" n="0225a16"/>易衣端坐念佛而逝。有氣如青盖騰空而上。已而家<lb ed="X" n="0225a17"/>人十數同夢<persName key="A017652">仲玉</persName>曰。吾已得生<placeName key="PL000000055477">淨土</placeName>上品矣。其秋有<lb ed="X" n="0225a18"/>婢臥疾。亦念佛而逝。子<persName key="A017654">永逸</persName>亦行十念法。習十六觀。<lb ed="X" n="0225a19"/>閱三十餘年。已而得疾。見<persName key="A002843">阿彌陀佛</persName>及二菩薩來接<lb ed="X" n="0225a20"/>引。結印示寂。香氣滿室中。既殮。柩上產五色華。其光<lb ed="X" n="0225a21"/>爛然(樂邦文類)。</p> 
+    
+    <linkGrp>
+        <link targets="#0225a07 #0225a07"/>
+        <ptr target="#A015228" type="person"/>
+        <ptr target="#A017652" type="person"/>
+        <ptr target="unknown" type="place"/>
+        </linkGrp>
+    <linkGrp>
+        <link targets="#0225a07 #0225a08"/>
+        <ptr target="#A015228" type="person"/>
+        <ptr target="#A001832" type="person"/>
+        <ptr target="#PL000000011515" type="place"/>
+        </linkGrp>
+    <linkGrp>
+        <link targets="#0225a08 #0225a09"/>
+        <ptr target="#A017653" type="person"/>
+        <ptr target="#A017652" type="person"/>
+        <ptr target="unknown" type="place"/>
+        <ptr target="#j21148142117736" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0225a10 #0225a11"/>
+        <ptr target="#A009477" type="person"/>
+        <ptr target="#A017652" type="person"/>
+        <ptr target="unknown" type="place"/>
+        </linkGrp>
+    <linkGrp>
+        <link targets="#0225a12 #0225a15"/>
+        <ptr target="#A017551" type="person"/>
+        <ptr target="#A003554" type="person"/>
+        <ptr target="#A017652" type="person"/>
+        <ptr target="unknown" type="place"/>
+        </linkGrp>
+    <linkGrp>
+        <link targets="#0225a18 #0225a18"/>
+        <ptr target="#A017654" type="person"/>
+        <ptr target="#A017652" type="person"/>
+        <ptr target="unknown" type="place"/>
+        </linkGrp>
+ </div>

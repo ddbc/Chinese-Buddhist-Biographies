@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="jsz0226a23wuXinSou">
+    <p><anchor n="X.88.1646.0226a23"/><lb ed="X" n="0226a23"/><persName key="A017674">吳信叟</persName>名<persName key="A017674">秉信</persName>。<placeName key="PL000000012198">明州</placeName>人。<date from-iso="1131-02-07" key="j21341862145682" to-iso="1162-07-30">紹興中</date>官於朝。與<persName key="A008386">秦檜</persName>忤。斥<lb ed="X" n="0226a24"/>為黨人。歸而築菴城南。日夕宴坐。制一棺。夜臥其中。<lb ed="X" n="0226b01"/>至五更。令童子扣棺而歌曰。<persName key="A017674">吳信叟</persName>歸去來。三界無<lb ed="X" n="0226b02"/>安不可住。<placeName key="PL000000055477">西方淨土</placeName>有蓮胎。歸去來。聞唱即起。習禪<lb ed="X" n="0226b03"/>誦。久之<persName key="A008386">檜</persName>死。以禮部侍郎召。時停度僧之令。<persName key="A017674">信叟</persName>請<lb ed="X" n="0226b04"/>賣度牒以裕國用。因論及<persName key="A008386">檜</persName>黨。卒為<persName key="A008386">檜</persName>黨所中。論以<lb ed="X" n="0226b05"/>侫佛邀福。出知<placeName key="PL000000009735">常州</placeName>。<date from-iso="1156-01-31" key="j21433102143694" to-iso="1157-02-18">二十六年</date>復被召至<placeName key="PL000000011734">蕭山</placeName>驛舍<lb ed="X" n="0226b06"/>坐。頃之令家人靜聽。咸聞天樂之音。即曰。清淨界中<lb ed="X" n="0226b07"/>失念至此。金臺既至。吾當有行。言訖而逝(佛祖統記)。</p> 
+    
+    <linkGrp>
+        <link targets="#0226a23 #0226a24"/>
+        <ptr target="#A017674" type="person"/>
+        <ptr target="#A008386" type="person"/>
+        <ptr target="unknown" type="place"/>
+        <ptr target="#j21341862145682" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0226b05 #0226b07"/>
+        <ptr target="#A017674" type="person"/>
+        <ptr target="#PL000000011734" type="place"/>
+        <ptr target="#j21433102143694" type="time"/>
+    </linkGrp>
+ </div>

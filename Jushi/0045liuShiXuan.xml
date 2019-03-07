@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="jsz0204a07liuShiXuan">
+    <p><anchor n="X.88.1646.0204a07"/><lb ed="X" n="0204a07"/><persName key="A011581">劉士烜</persName>名<persName key="A011581">霽</persName>。<placeName key="PL000000021449">平原</placeName>人。<date from-iso="0502-05-02" key="j19045331911021" to-iso="0520-02-05">梁天監中</date>起家奉朝請。尋為建<lb ed="X" n="0204a08"/>康正。引疾歸。母<persName key="A016655">明氏</persName>寢疾。<persName key="A011581">士烜</persName>年已五十。晝夜侍閱<lb ed="X" n="0204a09"/>七旬。誦觀音經數至萬徧。夜夢一僧謂曰。<ref target="#A016655" type="person">夫人</ref>筭盡。<lb ed="X" n="0204a10"/>君精誠篤至。當延數旬耳。後六十餘日乃亡。居喪廬<lb ed="X" n="0204a11"/>墓。有雙白鶴翔於廬。服未終亦卒(梁書)。</p> 
+    
+    <linkGrp>
+        <link targets="#0204a08 #0204a10"/>
+        <ptr target="#A011581" type="person"/>
+        <ptr target="#A016655" type="person"/>
+        <ptr target="unknown" type="place"/>
+        </linkGrp>    
+ </div>

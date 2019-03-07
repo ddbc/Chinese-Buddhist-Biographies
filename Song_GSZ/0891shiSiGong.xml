@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" type="習禪" xml:id="gsz0771b08shiSiGong"><lb
-ed="T" n="0771b08"/><anchor n="T.50.2061.0771b08"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date><placeName key="PL000000027091">襄州夾石山</placeName><persName key="A010439">思公</persName>傳（<persName key="A010441">曇真</persName>）</head><p><lb
+ed="T" n="0771b08"/><anchor n="T.50.2061.0771b08"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date><placeName key="PL000000027091"><placeName>襄州</placeName><placeName>夾石山</placeName></placeName><persName key="A010439">思公</persName>傳（<persName key="A010441">曇真</persName>）</head><p><lb
 ed="T" n="0771b09"/><persName key="A010439">釋思<roleName>公</roleName></persName>，姓<name>李</name>氏，<placeName key="PL000000002384">恒陽</placeName>人也。早出家于本府<placeName key="PL000000002370">龍<lb
 ed="T" n="0771b10"/>興寺</placeName>。得度後，遊<placeName key="PL000000023513">伊</placeName>、<placeName key="PL000000023512">洛</placeName>間，見<persName key="A009319">普寂<roleName>禪師</roleName></persName>，開暢<lb
 ed="T" n="0771b11"/>禪法。<persName key="A009319">寂</persName>始見提誘，尋徹鉤深。至<placeName key="PL000000027119">南雍</placeName>，隱<placeName key="PL000000027091">夾<lb
@@ -8,14 +8,14 @@ ed="T" n="0771b12"/>石山</placeName>，翛然<ptr type="glossary" target="#g50
 ed="T" n="0771b13"/>績，請入城，謝病不應其命。<persName key="A022957">牛</persName>帥亦不奪<lb
 ed="T" n="0771b14"/>其志，檀施相望。學眾侁侁<ptr type="glossary" target="#g49"/>，若栴檀之圍遶<lb
 ed="T" n="0771b15"/>焉。以<date from-iso="+0784-01-31" key="j20074402007535" to-iso="+0784-05-05"><name>興元</name>初年</date>示疾歸滅，春秋八十四焉。<lb
-ed="T" n="0771b16"/><placeName key="PL000000016485"><anchor xml:id="beg0771sgsz3"/><choice resp="sgsz"><sic>毫</sic><corr>亳</corr></choice><anchor xml:id="end0771sgsz3"/>州安國院</placeName><persName key="A010441">釋曇真</persName>，姓<name>陳</name>，<placeName key="PL000000021111">維青</placeName><ptr target="#n1476"/>人也。少小隨<lb
+ed="T" n="0771b16"/><placeName key="PL000000016485"><placeName><anchor xml:id="beg0771sgsz3"/><choice resp="sgsz"><sic>毫</sic><corr>亳</corr></choice><anchor xml:id="end0771sgsz3"/>州</placeName><placeName>安國院</placeName></placeName><persName key="A010441">釋曇真</persName>，姓<name>陳</name>，<placeName key="PL000000021111">維青</placeName><ptr target="#n1476"/>人也。少小隨<lb
 ed="T" n="0771b17"/>父往<placeName key="PL000000009523">彭<anchor xml:id="beg0771002"/>城<anchor xml:id="end0771002"/></placeName>，鬻棗於逆旅，而亡所怙。<persName key="A010441">真</persName>嘆<lb
-ed="T" n="0771b18"/>恨無依，乃投<placeName key="PL000000009509">徐大雲寺</placeName>為僧。其土是<persName key="A005407">嵩<roleName>法<lb
+ed="T" n="0771b18"/>恨無依，乃投<placeName key="PL000000009509"><placeName>徐</placeName><placeName>大雲寺</placeName></placeName>為僧。其土是<persName key="A005407">嵩<roleName>法<lb
 ed="T" n="0771b19"/>師</roleName></persName>之後，經論藪澤，真翫習該通<ptr rend="display:none;" type="glossary" target="#g350"/>。後遊勝境，<lb
 ed="T" n="0771b20"/>入<placeName key="PL000000023253">嵩山</placeName>學禪觀。已至<placeName key="PL000000021318">任城</placeName>，邂逅<persName key="A010442">李<roleName>中丞</roleName>諷</persName><ptr target="#n1518"/><lb
 ed="T" n="0771b21"/>赴職<placeName key="PL000000016494">譙郡</placeName>，接真談道，抵掌盱衡，如披雲霧。<lb
 ed="T" n="0771b22"/><persName key="A010442">李</persName>恨相識之晚，請以同行。時聚風亭月觀，談<lb
-ed="T" n="0771b23"/>道達旦。<persName key="A010442">李</persName>後入為<placeName key="PL000000042189">京</placeName>尹，因從容<ptr type="glossary" target="#g1411"/>稱奏<persName key="A010441">真</persName>道<lb
+ed="T" n="0771b23"/>道達旦。<persName key="A010442">李</persName>後入為<placeName key="PL000000042189">京</placeName>尹，因從容<ptr rend="display:none;" type="glossary" target="#g1411"/>稱奏<persName key="A010441">真</persName>道<lb
 ed="T" n="0771b24"/><anchor xml:id="beg0771sgsz4"/>成<anchor xml:id="end0771sgsz4"/>德至。<persName key="A004215">德皇</persName>下詔徵，而不奉詔。<date from-iso="+0791-05-12" key="j20100982010126" to-iso="+0791-06-09"><name>貞元</name>七年<lb
 ed="T" n="0771b25"/>四月</date>示滅，門人建塔云。</p>
     <linkGrp>

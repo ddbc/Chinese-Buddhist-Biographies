@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" type="義解" xml:id="gsz0752b04shiYiJi"><lb
-ed="T" n="0752b04"/><anchor n="T.50.2061.0752b04"/><head><date from-iso="+0960-02-09" key="j20717322132856" to-iso="+1127-06-18"><anchor xml:id="beg0752sgsz1"/>宋<anchor xml:id="end0752sgsz1"/></date><placeName key="PL000000014778">天台山螺溪傳教院</placeName><ptr target="#n274"/><persName key="A010042">義寂</persName>傳</head><p><lb
-ed="T" n="0752b05"/><persName key="A010042">釋義寂</persName>字<persName key="A010042">常照</persName>，姓<name>胡</name>氏，<placeName key="PL000000012521">溫州永嘉</placeName>人也。母妊<lb
+ed="T" n="0752b04"/><anchor n="T.50.2061.0752b04"/><head><date from-iso="+0960-02-09" key="j20717322132856" to-iso="+1127-06-18"><anchor xml:id="beg0752sgsz1"/>宋<anchor xml:id="end0752sgsz1"/></date><placeName key="PL000000014778"><placeName>天台山</placeName><placeName>螺溪傳教院</placeName></placeName><ptr target="#n274"/><persName key="A010042">義寂</persName>傳</head><p><lb
+ed="T" n="0752b05"/><persName key="A010042">釋義寂</persName>字<persName key="A010042">常照</persName>，姓<name>胡</name>氏，<placeName key="PL000000012521"><placeName>溫州</placeName><placeName>永嘉</placeName></placeName>人也。母妊<lb
 ed="T" n="0752b06"/>娠公<anchor xml:id="beg0752003"/><choice resp="sgsz"><sic>白</sic><corr>日</corr></choice><anchor xml:id="end0752003"/>不喜葷血，生乃首蒙紫帽而誕焉。<lb
 ed="T" n="0752b07"/>幼啟二親，堅求去俗，旋入<placeName key="PL000000012500">開元伽藍</placeName>。師授<lb
 ed="T" n="0752b08"/>《法華經》，朞月<ptr type="glossary" target="#g1274"/>而徹，寺之耆老稱歎希有。受具<ptr type="glossary" target="#g33"/><lb
@@ -9,49 +9,49 @@ ed="T" n="0752b09"/>已，往<placeName key="PL000000013265">會稽</placeName>�
 ed="T" n="0752b10"/>山</placeName>研尋「止觀」，其所易解猶<placeName key="PL000000023601">河南</placeName><persName key="A005679">一遍照</persName>也。<lb
 ed="T" n="0752b11"/>先是<persName key="A001301">智者</persName>教迹，遠則<persName key="A008454">安</persName><persName key="A010333">史</persName>兵殘<ptr target="#n382"/>，近則<date from-iso="+0841-02-08" key="j20282682030170" to-iso="+0846-04-25"><name>會昌</name></date>焚<lb
 ed="T" n="0752b12"/>毀<ptr target="#n1291"/>，零編斷簡，本折枝摧，傳者何憑端正<anchor xml:id="beg0752004"/><choice resp="sgsz"><sic>甚</sic><corr>其</corr></choice><anchor xml:id="end0752004"/><lb
-ed="T" n="0752b13"/>學？<persName key="A010042">寂</persName>思鳩集也。適<placeName key="PL000000013514">金華</placeName>古藏中得《淨名疏》<lb
+ed="T" n="0752b13"/>學？<persName key="A010042">寂</persName>思鳩集也。適<placeName key="PL000000013514">金華</placeName>古藏中得《淨名疏》<ptr target="#n1197"/><lb
 ed="T" n="0752b14"/>而已。後欵告<ptr type="glossary" target="#g1296"/><persName key="A008355">韶<roleName>禪師</roleName></persName>，囑人泛舟於<placeName key="PL000000048414">日本國</placeName><lb
-ed="T" n="0752b15"/>購獲僅足。由是博聞多識。微<persName key="A010042">寂</persName>，此宗學者幾<lb
-ed="T" n="0752b16"/>握半珠為家寶歟？遂於<placeName key="PL000000014713">佛隴道場</placeName>、<placeName key="PL000000014664">國清寺</placeName><lb
-ed="T" n="0752b17"/>相繼講訓，今<persName key="A006774">許王錢氏</persName>在<placeName key="PL000000011455">兩浙</placeName>日，累請開<lb
+ed="T" n="0752b15"/>購獲僅足<ptr target="#n1198"/>。由是博聞多識。微<persName key="A010042">寂</persName>，此宗學者幾<lb
+ed="T" n="0752b16"/>握半珠為家寶歟<ptr target="#n1199"/>？遂於<placeName key="PL000000014713">佛隴道場</placeName>、<placeName key="PL000000014664">國清寺</placeName><lb
+ed="T" n="0752b17"/>相繼講訓，今<persName key="A006774"><persName>許王</persName><persName>錢<roleName>氏</roleName></persName></persName>在<placeName key="PL000000011455">兩浙</placeName>日，累請開<lb
 ed="T" n="0752b18"/>演<ptr target="#n1302"/>，私署<persName key="A010042">淨光大師</persName>并紫方袍，辭讓不却，受<lb
 ed="T" n="0752b19"/>而不稱。及興<placeName key="PL000000014778">螺溪道場</placeName>，四方學侶霧擁雲<lb
 ed="T" n="0752b20"/>屯。<date from-iso="+0980-01-26" key="j20790232079406" to-iso="+0981-02-12"><name>太平興國</name>五年</date>，朝廷條貫緇伍經業，<persName key="A010042">寂</persName>從<lb
 ed="T" n="0752b21"/><ref type="place" target="#PL000000014411">山</ref>入<ref type="place" target="#PL000000014899">州</ref>治寺，寺東樓安置。樓近大山，夜夢<lb
 ed="T" n="0752b22"/>剎柱陷沒于地，意頗惡之。自徙於西偏僧房，<lb
-ed="T" n="0752b23"/>其夜春雨甚，山崩樓圮。人咸謂<persName key="A010042">寂</persName>先見同修<lb
+ed="T" n="0752b23"/>其夜春雨甚，山崩樓<anchor xml:id="beg0752sgsz3"/>𡉏<anchor xml:id="end0752sgsz3"/><ptr target="#n1088"/>。人咸謂<persName key="A010042">寂</persName>先見同修<lb
 ed="T" n="0752b24"/>報得之眼焉<ptr target="#n1294"/>。因受<placeName key="PL000000014348">黃巖邑</placeName>人請，乘舟泛<ref type="place" target="#PL000000014308">江</ref><lb
-ed="T" n="0752b25"/>放生，講〈流水長者品〉<ptr target="#n1292"/>。至<placeName key="PL000000014338">海門靈石</placeName>，是<persName key="A001301">智者</persName><lb
+ed="T" n="0752b25"/>放生，講〈流水長者品〉<ptr target="#n1292"/>。至<placeName key="PL000000014338"><placeName>海門</placeName><placeName>靈石</placeName></placeName>，是<persName key="A001301">智者</persName><lb
 ed="T" n="0752b26"/>冬居道場也，勸人修寺塑像，入緣者繁沓。<lb
 ed="T" n="0752b27"/><ref type="person" target="#A001640">今上</ref>遣高品<persName key="A010043">衛紹欽</persName>入山重建，<placeName key="PL000000014338">壽昌寺</placeName>也<ptr target="#n1293"/>，<lb
 ed="T" n="0752b28"/>諸官同命受菩薩戒。<date notBefore-iso="+0984-12-11" key="j20808042081093" notAfter-iso="+0985-09-26"><name>雍熙</name>初</date>，<placeName key="PL000000014828">永安縣</placeName>請於<placeName key="PL000000014820">光<lb
-ed="T" n="0752b29"/>明寺</placeName>受戒。古殿像隳，腹中獲《發願辭》，即<date from-iso="+0865-02-04" key="j20370302037384" to-iso="+0866-01-24">唐<pb ed="T" n="0752c" xml:id="T50.2061.0752c"/><lb
+ed="T" n="0752b29"/>明寺</placeName>受戒。古殿像隳，腹中獲《發願辭》，即<placeName key="PL000000000106">唐</placeName><date from-iso="+0865-02-04" key="j20370302037384" to-iso="+0866-01-24"><pb ed="T" n="0752c" xml:id="T50.2061.0752c"/><lb
 ed="T" n="0752c01"/><name>咸通</name>六年</date>沙門<persName key="A010044">希皎</persName>施戒，勸七鄉人裝塑<lb
 ed="T" n="0752c02"/>尊像，願捨報為男子，童真出家，常布褐傳<lb
 ed="T" n="0752c03"/>法利樂眾生云。觀者皆意<persName key="A010042">寂</persName>之前身也。<date from-iso="+0987-02-06" key="j20815912081945" to-iso="+0988-01-26">四<lb
 ed="T" n="0752c04"/>年</date>，<placeName key="PL000000014900">臨海</placeName>、<placeName key="PL000000014971">縉雲</placeName>、<placeName key="PL000000013626">永康</placeName>、<placeName key="PL000000013614">東陽</placeName>諸邑請其施戒。<date from-iso="+0987-10-01" key="j20818282081856" to-iso="+0987-10-29">九月</date>，<lb
 ed="T" n="0752c05"/><persName key="A010042">寂</persName>至自<placeName key="PL000000013715">太末</placeName>，<date from-iso="+0987-10-30" key="j20818572081886" to-iso="+0987-11-28">十月</date>，寢疾<ref type="place" target="#PL000000014778">本院</ref>方丈。<date key="j20818902081890" when-iso="+0987-12-02">十一月<lb
-ed="T" n="0752c06"/>四日</date>，囑誡門人：「不許哭泣祭奠。應<ptr type="glossary" target="#g1409"/>緣俗禮<lb
+ed="T" n="0752c06"/>四日</date>，囑誡門人：「不許哭泣祭奠。應<ptr rend="display:none;" type="glossary" target="#g1409"/>緣俗禮<lb
 ed="T" n="0752c07"/>者，非<ref type="person" target="#A010042">吾</ref>弟子也。」即窆于方丈，樹小塔焉。享<lb
 ed="T" n="0752c08"/>年六十九，法臘五十矣。四方傳法弟子見星<lb
-ed="T" n="0752c09"/>而舍<ptr target="#n1295"/>者數百人。<persName key="A010042">寂</persName>平素講《法華經》并《玄義》共<lb
-ed="T" n="0752c10"/>二十許座，《光明》、《淨名》、《<name>梵</name>網》等經，《止觀》、《金<choice resp="sgsz"><sic>[鏍-糸+廾]</sic><corr>錍</corr></choice>》等<lb
+ed="T" n="0752c09"/>而舍<ptr target="#n1295"/>者數百人。<persName key="A010042">寂</persName>平素講《法華經》并《玄義》<ptr target="#n1171"/>共<lb
+ed="T" n="0752c10"/>二十許座，《光明》<ptr target="#n1192"/>、《淨名》、《梵網》<ptr target="#n1200"/>等經，《止觀》<ptr target="#n1173"/>、《金<choice resp="sgsz"><sic><g ref="#Z1254"/></sic><corr>錍</corr></choice>》<ptr target="#n1195"/>等<lb
 ed="T" n="0752c11"/>論，《法界》<ptr target="#n1296"/>、《還源》<ptr target="#n1297"/>等觀，《禪源詮》<ptr target="#n1298"/>、《永嘉集》<ptr target="#n1299"/>各數遍，所<lb
-ed="T" n="0752c12"/>著《止觀義例》、《法華十妙不二門科節》數卷。自<lb
+ed="T" n="0752c12"/>著《止觀義例》<ptr target="#n1201"/>、《法華十妙不二門科節》<ptr target="#n1202"/>數卷。自<lb
 ed="T" n="0752c13"/><persName key="A001301">智者</persName>捐世，六代傳法<persName key="A001307">湛然<roleName>師</roleName></persName>之後，二百餘齡，<lb
-ed="T" n="0752c14"/><persName key="A010042">寂</persName>受遺寄，最克<ptr type="glossary" target="#g560"/>負荷，其如炎蒸講貫<ptr type="glossary" target="#g1247"/>而無汗<lb
-ed="T" n="0752c15"/>之霑洽，曾<ptr type="glossary" target="#g1297"/>不久聽而勝解佛乘。每一談揚，<lb
-ed="T" n="0752c16"/>則摐金<ptr type="glossary" target="#g1298"/>玉應，召羽商和，彼九旬說妙<ptr target="#n1300"/>，相去幾<lb
-ed="T" n="0752c17"/>何？又甞寓<placeName key="PL000000012309">四明育王寺</placeName>，夢登<placeName key="PL000000014664">國清寺</placeName>上方，<lb
+ed="T" n="0752c14"/><persName key="A010042">寂</persName>受遺寄，最克<ptr rend="display:none;" type="glossary" target="#g560"/>負荷<ptr type="glossary" target="#g995"/>，其如炎蒸講貫<ptr rend="display:none;" type="glossary" target="#g1247"/>而無汗<lb
+ed="T" n="0752c15"/>之霑洽，曾<ptr rend="display:none;" type="glossary" target="#g1297"/>不久聽而勝解佛乘。每一談揚，<lb
+ed="T" n="0752c16"/>則摐金<ptr rend="display:none;" type="glossary" target="#g1298"/>玉應，召羽商和，彼九旬說妙<ptr target="#n1300"/>，相去幾<lb
+ed="T" n="0752c17"/>何？又甞寓<placeName key="PL000000012309"><placeName>四明</placeName><placeName>育王寺</placeName></placeName>，夢登<placeName key="PL000000014664">國清寺</placeName>上方，<lb
 ed="T" n="0752c18"/>有寶莊嚴幢座，題曰「文殊臺」，設枑梐<ptr type="glossary" target="#g1299"/>闌隔，<lb
 ed="T" n="0752c19"/>求入無由。俄覩<persName key="A002803">觀音菩薩</persName>從堂徐出，以手<lb
 ed="T" n="0752c20"/>攘却行馬<ptr type="glossary" target="#g1299"/>，低迂相接。斯須，覺已與<persName key="A002803">觀音</persName>身<lb
-ed="T" n="0752c21"/>泯合<ptr type="glossary" target="#g1300"/>不分，因而驚寤。自是之來，樂說無盡<lb
+ed="T" n="0752c21"/>泯合<ptr rend="display:none;" type="glossary" target="#g1300"/>不分，因而驚寤。自是之來，樂說無盡<lb
 ed="T" n="0752c22"/>矣。或曰：「入普門<ptr type="glossary" target="#g1301"/>智，乘利物悲。上合佛覺，證<lb
 ed="T" n="0752c23"/>無上故。下合眾生，凡同體故。開則群靈混<lb
 ed="T" n="0752c24"/>成一法，得是心者，非<persName key="A002803">觀音</persName>而誰歟？」是以講<lb
 ed="T" n="0752c25"/>談也，施戒也，自<placeName key="PL000000012518">甌越</placeName>之鄉迨<placeName key="PL000000020193">三天子障</placeName>，民<lb
-ed="T" n="0752c26"/>多咈戾<ptr type="glossary" target="#g1302"/>，俗尚畋獵<ptr type="glossary" target="#g1303"/>。受<persName key="A010042">寂</persName>之訓也，咸食椹革<lb
+ed="T" n="0752c26"/>多咈戾<ptr type="glossary" target="#g1302"/>，俗尚畋獵<ptr rend="display:none;" type="glossary" target="#g1303"/>。受<persName key="A010042">寂</persName>之訓也，咸食椹革<lb
 ed="T" n="0752c27"/>音<ptr type="glossary" target="#g1304"/>，說法之功，所謂善建。由是堂室間可見<lb
 ed="T" n="0752c28"/>者，曰<persName key="A001751">澄<anchor xml:id="beg0752005"/>彧<anchor xml:id="end0752005"/></persName>，曰<persName key="A022529">寶翔</persName>，曰<persName key="A010916">義通</persName>。及乎<placeName key="PL000000014899">台</placeName>之民<lb
 ed="T" n="0752c29"/>庶，曾受戒法，迎真相來州治<placeName key="PL000000014870">開元寺</placeName>祭饗，<pb ed="T" n="0753a" xml:id="T50.2061.0753a"/><lb

@@ -1,63 +1,74 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" type="感通" xml:id="gsz0850a14shiHuaiJun"><lb
-ed="T" n="0850a14"/><anchor n="T.50.2061.0850a14"/><head><date from-iso="+0936-12-05" key="j20632662067017" to-iso="+0947-03-14">晉</date>巴東<persName key="A012890">懷濬</persName>傳</head><p><lb
+ed="T" n="0850a14"/><anchor n="T.50.2061.0850a14"/><head><date from-iso="+0936-12-05" key="j20632662067017" to-iso="+0947-03-14">晉</date><placeName key="PL000000026929">巴東</placeName><persName key="A012890">懷濬</persName>傳</head><p><lb
 ed="T" n="0850a15"/><persName key="A012890">釋懷濬</persName>者，不知何許人。其為僧也，憨而且<lb
 ed="T" n="0850a16"/>狂，乃逆知未兆之事，其應如神。<date notBefore-iso="+0894-02-14" key="j20476322049310" notAfter-iso="+0898-09-19"><name>乾寧</name>中</date>，<lb
-ed="T" n="0850a17"/>無何至<placeName key="PL000000028457">巴東</placeName>。<persName key="A012890">濬</persName>且能<ref type="person" target="#A019218">草聖</ref>，筆法天然，或於<lb
-ed="T" n="0850a18"/>寺觀店肆壁書佛經道法，以至歌詩鄙俚之<lb
-ed="T" n="0850a19"/>詞，靡不集其筆端矣。與<persName key="A012890">之</persName>語，阿唯而已。里<lb
-ed="T" n="0850a20"/>人以神聖待<persName key="A012890">之</persName>。<anchor xml:id="beg0850002"/>刺<anchor xml:id="end0850002"/>史<persName key="A012894">于公</persName>患其惑眾，繫<lb
-ed="T" n="0850a21"/>獄詰<persName key="A012890">之</persName>，乃以詩通狀辭，意在閩川<!--找不到此地-->之西東，<lb
-ed="T" n="0850a22"/>然章句靡麗，州將異而釋<persName key="A012890">之</persName>。又詳其旨，疑<lb
-ed="T" n="0850a23"/>在海中，得非<persName key="A002288">杯渡</persName>之流乎？行旅經過，必維<lb
-ed="T" n="0850a24"/>舟而謁焉，辯其上下峽之吉凶，貿易經求物<lb
+ed="T" n="0850a17"/>無何至<placeName key="PL000000026929">巴東</placeName><ptr target="#n2797"/>。<persName key="A012890">濬</persName>且能<ref type="person" target="#A019218">草聖</ref>，筆法天然，或於<lb
+ed="T" n="0850a18"/>寺觀、店肆、壁書、佛經、道法，以至歌詩鄙俚之<lb
+ed="T" n="0850a19"/>詞，靡不集其筆端矣<ptr target="#n2798"/>。與<persName key="A012890">之</persName>語，「阿唯」而已。里<lb
+ed="T" n="0850a20"/>人以神聖待<ref type="person" target="#A012890">之</ref>。<anchor xml:id="beg0850002"/>刺<anchor xml:id="end0850002"/>史<persName key="A012894">于<roleName>公</roleName></persName><ptr target="#n2799"/>患其惑眾，繫<lb
+ed="T" n="0850a21"/>獄詰<ref type="person" target="#A012890">之</ref>，乃以詩通狀辭，意在<placeName key="PL000000055029">閩川</placeName>之西東，<lb
+ed="T" n="0850a22"/>然章句靡麗<ptr target="#n2800"/>，州將異而釋<persName key="A012890">之</persName>。又詳其旨，疑<lb
+ed="T" n="0850a23"/>在海中，得非<persName key="A002288">杯渡</persName>之流乎<ptr target="#n1249"/>？行旅經過，必維<lb
+ed="T" n="0850a24"/>舟<ptr type="glossary" target="#g1831"/>而謁焉──辯其上下<placeName key="PL000000000078">峽</placeName>之吉凶，貿易經求物<lb
 ed="T" n="0850a25"/>之利鈍。客子懇祈，唯書三、五行，終不明言，<lb
-ed="T" n="0850a26"/>其事微密驗。時<placeName key="PL000000027764">荊南</placeName>大校<persName key="A012895">周崇賓</persName>謁之，書遺<lb
-ed="T" n="0850a27"/>曰：「付皇都勘。」爾後入貢，因王師南討，遂縶<lb
-ed="T" n="0850a28"/>南府，終就戮也。押牙<persName key="A012896">孫道能</persName>謁之，書字曰<lb
-ed="T" n="0850a29"/>「付竹林寺<!--找不到此地-->」。其年物故，營葬於古竹林寺<!--找不到此地-->基<pb ed="T" n="0850b" xml:id="T50.2061.0850b"/><lb
-ed="T" n="0850b01"/>也。<persName key="A012897">皇甫鉉</persName>知州，乃畫一人荷<anchor xml:id="beg0850003"/><choice resp="sgsz"><sic>杖</sic><corr>校</corr></choice><anchor xml:id="end0850003"/>，一女子在<lb
+ed="T" n="0850a26"/>其事微密驗。時<placeName key="PL000000027770">荊南</placeName>大校<persName key="A012895">周崇賓</persName>謁之，書遺<lb
+ed="T" n="0850a27"/>曰：「付皇都勘<ptr type="glossary" target="#g1832"/>。」爾後入貢，因王師南討，遂縶<lb
+ed="T" n="0850a28"/><placeName key="PL000000027770">南府</placeName>，終就戮也。押牙<ptr type="glossary" target="#g1833"/><persName key="A012896">孫道能</persName>謁之，書字曰：<lb
+ed="T" n="0850a29"/>「付<placeName key="PL000000027770">竹林寺</placeName>。」其年物故，營葬於古<placeName key="PL000000027770">竹林寺</placeName>基<pb ed="T" n="0850b" xml:id="T50.2061.0850b"/><lb
+ed="T" n="0850b01"/>也。<persName key="A012897">皇甫鉉</persName>知州，乃畫一人荷<anchor xml:id="beg0850003"/><choice resp="sgsz"><sic>杖</sic><corr>校</corr></choice><anchor xml:id="end0850003"/><ptr type="glossary" target="#g1834"/>，一女子在<lb
 ed="T" n="0850b02"/>旁。尋為取民家女，遭訟，錮身入府矣。有<lb
-ed="T" n="0850b03"/><persName key="A012892">穆昭嗣</persName>者，<placeName key="PL000000048412">波斯</placeName>種也，幼好藥術，隨父謁之，<lb
+ed="T" n="0850b03"/><persName key="A012892">穆昭嗣</persName>者──<placeName key="PL000000048412">波斯</placeName>種也，幼好藥術──，隨父謁<ref type="person" target="#A012890">之</ref>，<lb
 ed="T" n="0850b04"/>乃畫道士乘雲提一匏壺，書云「指揮使高<lb
-ed="T" n="0850b05"/>某牒衙推」，<persName key="A012892">穆</persName>生後以醫術有効，南平王<persName key="A012891">高<lb
-ed="T" n="0850b06"/>從誨</persName>令其去道從儒，簡授攝府衙推。屬王<lb
+ed="T" n="0850b05"/>某牒衙推」，<persName key="A012892">穆<roleName>生</roleName></persName>後以醫術有効，<persName key="A012891"><persName>南平王</persName><persName>高<lb
+ed="T" n="0850b06"/>從誨</persName></persName>令其去道從儒，簡授攝府衙推<ptr target="#n2801"/>。屬王<lb
 ed="T" n="0850b07"/>師伐<placeName key="PL000000027770">荊州</placeName>，<persName key="A012890">濬</persName>乃為詩上<persName key="A012891">南平王</persName>曰：「馬頭漸<lb
-ed="T" n="0850b08"/>入<placeName key="PL000000010783"><anchor xml:id="beg0850sgsz1"/>揚州<anchor xml:id="end0850sgsz1"/></placeName>路，親眷應須洗眼看。」是年<ref type="person" target="#A012891">高氏</ref>輸<lb
-ed="T" n="0850b09"/>誠於<placeName key="PL000000010783">淮海</placeName>，遂解重圍。其他異跡多此類也。<lb
+ed="T" n="0850b08"/>入<placeName key="PL000000008903"><anchor xml:id="beg0850sgsz1"/>揚州<anchor xml:id="end0850sgsz1"/>路</placeName>，親眷應須洗眼看。」<date from-iso="+0937-02-18" key="j20633412063694" to-iso="+0938-02-06">是年</date><persName key="A012891">高<roleName>氏</roleName></persName>輸<lb
+ed="T" n="0850b09"/>誠於<placeName key="PL000000008903">淮海</placeName>，遂解重圍<ptr target="#n2803"/>。其他異跡多此類也。<lb
 ed="T" n="0850b10"/>甞一日題庭前<anchor xml:id="beg0850004"/>芭蕉<anchor xml:id="end0850004"/>葉云：「今日還債業，州<lb
-ed="T" n="0850b11"/>縣無更勘窮。」往來多見，殊不介意。忽為人<lb
-ed="T" n="0850b12"/>所害，身首異處，<anchor xml:id="begd1e38706"/>刺<anchor xml:id="endd1e38706"/>史為其茶毘焉。</p>
+ed="T" n="0850b11"/>縣無更勘窮<ptr type="glossary" target="#g1835"/>。<ptr target="#n2804"/>」往來多見，殊不介意。忽為人<lb
+ed="T" n="0850b12"/>所害，身首異處，<anchor xml:id="begd1e38706"/>刺<anchor xml:id="endd1e38706"/>史<ptr target="#n2802"/>為其茶毘焉。</p>
     <linkGrp>
         <link targets="#0850a16 #0850a20"/>
         <ptr target="#A012890" type="person"/>
-        <ptr target="#PL000000028457" type="place"/>
+        <ptr target="#PL000000026929" type="place"/>
+        <ptr target="#j20476322049310" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0850a20 #0850a22"/>
+        <ptr target="#A012890" type="person"/>
+        <ptr target="#A012894" type="person"/>
+        <ptr target="#PL000000026929" type="place"/>
         <ptr target="#j20476322049310" type="time"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0850a26 #0850a27"/>
         <ptr target="#A012890" type="person"/>
         <ptr target="#A012895" type="person"/>
+        <ptr target="#PL000000026929" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0850a26 #0850a27"/>
         <ptr target="#A012895" type="person"/>
-        <ptr target="#PL000000027764" type="place"/>
+        <ptr target="#PL000000027770" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0850a28 #0850a29"/>
         <ptr target="#A012890" type="person"/>
         <ptr target="#A012896" type="person"/>
+        <ptr target="#PL000000026929" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0850b01 #0850b02"/>
         <ptr target="#A012890" type="person"/>
         <ptr target="#A012897" type="person"/>
+        <ptr target="#PL000000026929" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0850b02 #0850b05"/>
         <ptr target="#A012890" type="person"/>
         <ptr target="#A012892" type="person"/>
+        <ptr target="#PL000000026929" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0850b05 #0850b06"/>
@@ -68,6 +79,11 @@ ed="T" n="0850b12"/>所害，身首異處，<anchor xml:id="begd1e38706"/>刺<an
     <linkGrp>
         <link targets="#0850b07 #0850b08"/>
         <ptr target="#A012890" type="person"/>
+        <ptr target="#A012891" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0850b08 #0850b09"/>
+        <ptr target="#A006600" type="person"/>
         <ptr target="#A012891" type="person"/>
     </linkGrp>
 </div>

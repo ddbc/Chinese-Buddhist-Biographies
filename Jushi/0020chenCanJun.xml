@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="jsz0190a11chenCanJun">
+    <p><anchor n="X.88.1646.0190a11"/><lb ed="X" n="0190a11"/><persName key="A015501">陳參軍</persName>名<persName key="A015501">鍼</persName>。荊州<placeName key="PL000000027813">華容</placeName>人。<persName key="A001301">天台智者禪師</persName>之兄也。仕<lb ed="X" n="0190a12"/>梁為<persName key="A005213">普安王</persName><!-- 晉安王，請參見T49n2035_p0200a22  -->中兵參軍。年四十遇仙人<persName key="A015506">張果</persName>謂之曰。<lb ed="X" n="0190a13"/>吾觀汝相。陽筭已盡。死在朞月。<ref target="#A015501" type="person">參軍</ref>懼以白<persName key="A001301">智者</persName>。<persName key="A001301">智<lb ed="X" n="0190a14"/>者</persName>授以童蒙止觀。教行方等懺法。先具十法。一者明<lb ed="X" n="0190a15"/>信因果。二者生重怖畏。三者深起慚愧。四者求滅罪<lb ed="X" n="0190a16"/>方法。所謂大乘經中明諸行法。應當如法修行。五者<lb ed="X" n="0190a17"/>發露先罪。六者斷相續心。七者起護法心。八者發大<lb ed="X" n="0190a18"/>誓願度脫眾生。九者常念十方諸佛。十者觀罪性無<lb ed="X" n="0190a19"/>生。具此十法莊嚴道場。著潔淨衣燒香散華。於三寶<lb ed="X" n="0190a20"/>前如法修行。一七三七一月三月。乃至經年專心懺<lb ed="X" n="0190a21"/>悔。即得重罪消滅禪定現前。<ref target="#A015501" type="person">參軍</ref>奉教修習夙夜不<lb ed="X" n="0190a22"/>怠。未及一載復見<persName key="A015506">果</persName>。<persName key="A015506">果</persName>大驚異曰服何藥而致此。曰<lb ed="X" n="0190a23"/>但修懺法未甞服食。果以手加額曰。奇哉道力。越死<lb ed="X" n="0190a24"/>超生。後<ref target="#A015501" type="person">參軍</ref>於禪定中升<placeName key="PL000000055448">天宮</placeName>見金殿。榜曰<persName key="A015501">陳鍼</persName>之<lb ed="X" n="0190b01"/>室。後十五年當生於此。及期。徧謁親知言別。端坐而<lb ed="X" n="0190b02"/>逝(佛祖統記．小止觀)。</p> 
+    
+    <linkGrp>
+        <link targets="#0190a11 #0190a12"/>
+        <ptr target="#A015501" type="person"/>
+        <ptr target="#A005213" type="person"/>
+        <ptr target="unknown" type="place"/>
+        </linkGrp>
+    <linkGrp>
+        <link targets="#0190a12 #0190a13"/>
+        <ptr target="#A015501" type="person"/>
+        <ptr target="#A015506" type="person"/>
+        <ptr target="unknown" type="place"/>
+        </linkGrp>
+    <linkGrp>
+        <link targets="#0190a12 #0190a21"/>
+        <ptr target="#A015501" type="person"/>
+        <ptr target="#A001301" type="person"/>
+        <ptr target="unknown" type="place"/>
+        </linkGrp>
+    <linkGrp>
+        <link targets="#0190a22 #0190a24"/>
+        <ptr target="#A015501" type="person"/>
+        <ptr target="#A015506" type="person"/>
+        <ptr target="unknown" type="place"/>
+        </linkGrp>   
+ </div>

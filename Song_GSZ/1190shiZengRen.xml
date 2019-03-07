@@ -1,36 +1,41 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" type="興福" xml:id="gsz0877a24shiZengRen"><lb
-ed="T" n="0877a24"/><anchor n="T.50.2061.0877a24"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date>朔方<anchor xml:id="beg0877002"/>靈武龍興寺<anchor xml:id="end0877002"/><persName key="A011109">增忍</persName>傳</head><p><lb
-ed="T" n="0877a25"/><persName key="A011109">釋增忍</persName>，俗姓史氏，<placeName key="PL000000023446">沛國陳留</placeName>人也。典謁之年，<lb
-ed="T" n="0877a26"/>登其鄉校。百氏簡策，寓目入神。藝文且工，<lb
-ed="T" n="0877a27"/>乃隨計吏，數舉不捷。<date notBefore-iso="+0841-02-08" key="j20282682028743" notAfter-iso="+0842-05-29"><name>會昌</name>初</date>，薄遊塞垣，訪<lb
-ed="T" n="0877a28"/>古<placeName key="PL000000047079">賀蘭山</placeName>中，得淨地者<placeName key="PL000000047078">白草谷</placeName>內，發菩提<lb
-ed="T" n="0877a29"/>心，頓挂儒冠，<anchor xml:id="beg0877sgsz4"/>直<anchor xml:id="end0877sgsz4"/>歸釋氏。乃薙草結<anchor xml:id="beg0877003"/>茅<anchor xml:id="end0877003"/>為<pb ed="T" n="0877b" xml:id="T50.2061.0877b"/><lb
-ed="T" n="0877b01"/>舍，倍切精進。<placeName key="PL000000006699">羌胡</placeName>之族，競臻供獻酥酪。至<lb
-ed="T" n="0877b02"/>五載，節使<persName key="A013703">李彥佐</persName>嘉其名節，於<placeName key="PL000000047106">龍興寺</placeName>建<lb
-ed="T" n="0877b03"/>別院，號<placeName key="PL000000047107">白草</placeName>焉，蓋取其始修道之本地也。<lb
-ed="T" n="0877b04"/><persName key="A011109">忍</persName>刺血寫諸經。<date from-iso="+0853-02-16" key="j20326592033012" to-iso="+0854-02-04"><name>大中</name>七年</date>，<persName key="A013703">李公</persName>慮其枯悴，<lb
-ed="T" n="0877b05"/>躬往敦<anchor xml:id="beg0877004"/><choice resp="sgsz"><sic>論</sic><corr>諭</corr></choice><anchor xml:id="end0877004"/>曰：「<persName key="A011109">師</persName>何獨善一身，行小乘行？胡<lb
-ed="T" n="0877b06"/>不延惜生性，任持教法，所利博哉！」<persName key="A011109">忍</persName>執情<lb
-ed="T" n="0877b07"/>膠固，遂著三教毀傷論以見志，<persName key="A011109">帥</persName>覽而益<lb
-ed="T" n="0877b08"/>加崇重。<date from-iso="+0855-01-26" key="j20333682033751" to-iso="+0856-02-13">九年</date>，因讀大悲經，究尋四十二臂<lb
-ed="T" n="0877b09"/>至無畏手，疑而結壇，浹旬禱請，自空中現<lb
-ed="T" n="0877b10"/>其正印，雙拳歷歷可觀。遂命畫工繪寫此<lb
-ed="T" n="0877b11"/>臂焉。或有譏謗者，<persName key="A011109">忍</persName>再精慤虔告，畫工濯<lb
-ed="T" n="0877b12"/>筆銅椀中，忽感寶性華一朵，枝趺𩬞葉，一皆<lb
+ed="T" n="0877a24"/><anchor n="T.50.2061.0877a24"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date><placeName key="PL000000047106"><placeName>朔方<anchor xml:id="beg0877002"/>靈武</placeName><placeName>龍興寺</placeName></placeName><anchor xml:id="end0877002"/><persName key="A011109">增忍</persName>傳</head><p><lb
+ed="T" n="0877a25"/><persName key="A011109">釋增忍</persName>，俗姓<name>史</name>氏，<placeName key="PL000000023446"><placeName>沛國</placeName><placeName>陳留</placeName></placeName>人也。典謁<ptr type="glossary" target="#g440"/>之年，<lb
+ed="T" n="0877a26"/>登其鄉校。百氏簡策，寓目<ptr type="glossary" target="#g572"/>入神。藝文且工，<lb
+ed="T" n="0877a27"/>乃隨計吏<ptr type="glossary" target="#g921"/>，數舉不捷。<date notBefore-iso="+0841-02-08" key="j20282682028743" notAfter-iso="+0842-05-29"><name>會昌</name>初</date>，薄遊<ptr type="glossary" target="#g674"/>塞垣，訪<lb
+ed="T" n="0877a28"/>古<placeName key="PL000000047079">賀蘭山</placeName>中，得淨地者<placeName key="PL000000047078">白草谷</placeName>內。發菩提<lb
+ed="T" n="0877a29"/>心，頓挂儒冠，<anchor xml:id="beg0877sgsz4"/><choice resp="sgsz"><sic>直</sic><corr>真</corr></choice><anchor xml:id="end0877sgsz4"/>歸<name>釋</name>氏。乃薙草結<anchor xml:id="beg0877003"/>茅<anchor xml:id="end0877003"/>為<pb ed="T" n="0877b" xml:id="T50.2061.0877b"/><lb
+ed="T" n="0877b01"/>舍，倍切<ptr type="glossary" target="#g2116"/>精進。<name>羌</name>胡之族<ptr type="glossary" target="#g2117"/>，競臻供獻酥酪。至<lb
+ed="T" n="0877b02"/><date from-iso="+0845-02-15" key="j20297362030089" to-iso="+0846-02-03">五載</date>，節使<persName key="A013703">李彥佐</persName><ptr target="#n3238"/>嘉其名節，於<placeName key="PL000000047106">龍興寺</placeName>建<lb
+ed="T" n="0877b03"/>別院，號<placeName key="PL000000047107">白草</placeName>焉──蓋取其始修道之本地也。<lb
+ed="T" n="0877b04"/><persName key="A011109">忍</persName>刺血寫諸經。<date from-iso="+0853-02-16" key="j20326592033012" to-iso="+0854-02-04"><name>大中</name>七年</date>，<persName key="A013703">李<roleName>公</roleName></persName>慮其枯悴，<lb
+ed="T" n="0877b05"/>躬往敦<anchor xml:id="beg0877004"/><choice resp="sgsz"><sic>論</sic><corr>諭</corr></choice><anchor xml:id="end0877004"/><ptr type="glossary" target="#g2118"/>曰：「<ref type="person" target="#A011109">師</ref>何獨善一身，行小乘行<ptr target="#n3240"/>？胡<lb
+ed="T" n="0877b06"/>不延惜生性<ptr type="glossary" target="#g2091"/>，任持教法？所利博哉！」<persName key="A011109">忍</persName>執情<lb
+ed="T" n="0877b07"/>膠固，遂著〈三教毀傷論〉<ptr target="#n3239"/>以見志。<ref type="person" target="#A013703">帥</ref>覽而益<lb
+ed="T" n="0877b08"/>加崇重。<date from-iso="+0855-01-26" key="j20333682033751" to-iso="+0856-02-13">九年</date>，因讀《大悲經》<ptr target="#n84"/>，究尋四十二臂<lb
+ed="T" n="0877b09"/>至「無畏手<ptr target="#n3241"/>」，疑而結壇，浹旬<ptr type="glossary" target="#g287"/>禱請，自空中現<lb
+ed="T" n="0877b10"/>其正印<ptr type="glossary" target="#g2119"/>，雙拳歷歷可觀。遂命畫工繪寫此<lb
+ed="T" n="0877b11"/>臂焉。或有譏謗者，<persName key="A011109">忍</persName>再精慤<ptr type="glossary" target="#g2120"/>虔告，畫工濯<lb
+ed="T" n="0877b12"/>筆銅椀中，忽感寶性華<ptr type="glossary" target="#g2122"/>一朵，枝趺𩬞<ptr type="glossary" target="#g2121"/>葉，一皆<lb
 ed="T" n="0877b13"/>鮮明，覩者驚<anchor xml:id="beg0877sgsz5"/>歎<anchor xml:id="end0877sgsz5"/>。至<date key="j20394012039401" when-iso="+0871-08-03"><name>咸通</name>十二年七月十日</date><lb
 ed="T" n="0877b14"/>示滅于<placeName key="PL000000047107">白草院</placeName>，春秋五十九。以<date key="j20395262039526" when-iso="+0871-12-06">十月十七<lb
-ed="T" n="0877b15"/>日</date>藏神于水館<!--找不到此地-->之南，建塔焉。初<persName key="A011109">忍</persName>刺血寫<lb
-ed="T" n="0877b16"/>經，總二百八十三卷。畫盧舍那閣三十五<lb
-ed="T" n="0877b17"/>尺，門一丈六尺。起樣畫大悲功德三軸，自<lb
-ed="T" n="0877b18"/>著大悲論六卷，並藏諸篋笥焉。後節使<persName key="A013704">唐<lb
-ed="T" n="0877b19"/>恒夫</persName>仰其遺跡，奏乞旌勸，勅諡<persName key="A011109">大師</persName>曰<persName key="A011109">廣<lb
-ed="T" n="0877b20"/>慧</persName>，塔曰念定。弟子<persName key="A013705">無轍</persName>，亦致遠之高足，齎<lb
+ed="T" n="0877b15"/>日</date>藏神于<placeName key="PL000000055050">水館</placeName>之南，建塔焉。初，<persName key="A011109">忍</persName>刺血寫<lb
+ed="T" n="0877b16"/>經，總二百八十三卷。畫<persName key="A004206">盧舍那</persName>，閣三十五<lb
+ed="T" n="0877b17"/>尺，門一丈六尺。起樣畫《大悲功德》<ptr target="#n3242"/>三軸，自<lb
+ed="T" n="0877b18"/>著《大悲論》六卷，並藏諸篋笥焉。後節使<persName key="A013704">唐<lb
+ed="T" n="0877b19"/>恒夫</persName>仰其遺跡，奏乞旌勸<ptr type="glossary" target="#g2123"/>，勅謚<ref type="person" target="#A011109">大師</ref>曰<persName key="A011109">廣<lb
+ed="T" n="0877b20"/>慧</persName>，塔曰<placeName key="PL000000055045">念定</placeName>。弟子<persName key="A013705">無轍</persName>，亦致遠之高足，齎<lb
 ed="T" n="0877b21"/>血書經二卷、瑞<anchor xml:id="beg0877sgsz7"/>華<anchor xml:id="end0877sgsz7"/>椀一<anchor xml:id="beg0877005"/>枚<anchor xml:id="end0877005"/>，詣闕奏呈，宣賜<lb
-ed="T" n="0877b22"/>紫衣。<date notBefore-iso="+0901-05-18" key="j20502812051391" notAfter-iso="+0904-06-01"><name>天復</name>中</date>終。及梁<date from-iso="+0911-06-05" key="j20539512055611" to-iso="+0915-12-21"><name>乾化</name></date>初，中書令西平王<lb
-ed="T" n="0877b23"/><persName key="A013706">韓公遜</persName>錄遺跡奏聞，<persName key="A003877">太祖</persName>勅致諡曰<persName key="A011109">法空</persName>，<lb
-ed="T" n="0877b24"/>別賜紫方袍，塞垣榮之。後唐<date notBefore-iso="+0923-05-18" key="j20583162059413" notAfter-iso="+0926-05-19"><name>同光</name>中</date>，從事<persName key="A013707">薛<lb
+ed="T" n="0877b22"/>紫衣。<date notBefore-iso="+0901-05-18" key="j20502812051391" notAfter-iso="+0904-06-01"><name>天復</name>中</date>終。及<placeName key="PL000000048181">梁</placeName><date from-iso="+0911-06-05" key="j20539512054186" to-iso="+0912-01-26"><name>乾化</name></date>初，中書令<persName key="A013706"><persName>西平王</persName><lb
+ed="T" n="0877b23"/><persName>韓<roleName>公</roleName>遜</persName></persName>錄遺跡奏聞，<persName key="A003877">太祖</persName>勅致謚曰<persName key="A011109">法空</persName>，<lb
+ed="T" n="0877b24"/>別賜紫方袍，塞垣榮之。<placeName key="PL000000057656">後唐</placeName><date notBefore-iso="+0923-05-18" key="j20583162059440" notAfter-iso="+0926-06-15"><name>同光</name>中</date>，從事<persName key="A013707">薛<lb
 ed="T" n="0877b25"/>昭紀</persName>為碑焉。</p>
+    <linkGrp>
+        <link targets="#0877a25 #0877a25"/>
+        <ptr target="#A011109" type="person"/>
+        <ptr target="#PL000000023446" type="place"/>
+    </linkGrp>
     <linkGrp>
         <link targets="#0877a27 #0877b01"/>
         <ptr target="#A011109" type="person"/>
@@ -42,17 +47,23 @@ ed="T" n="0877b25"/>昭紀</persName>為碑焉。</p>
         <ptr target="#A011109" type="person"/>
         <ptr target="#A013703" type="person"/>
         <ptr target="#PL000000047107" type="place"/>
-        <ptr target="#j20282682028743" type="time"/>
+        <ptr target="#j20297362030089" type="time"/>
     </linkGrp>
     <linkGrp>
-        <link targets="#0877b04 #0877b05"/>
+        <link targets="#0877b04 #0877b08"/>
         <ptr target="#A011109" type="person"/>
         <ptr target="#A013703" type="person"/>
         <ptr target="#PL000000047107" type="place"/>
         <ptr target="#j20326592033012" type="time"/>
     </linkGrp>
     <linkGrp>
-        <link targets="#0877b13 #0877b13"/>
+        <link targets="#0877b08 #0877b13"/>
+        <ptr target="#A011109" type="person"/>
+        <ptr target="#PL000000047107" type="place"/>
+        <ptr target="#j20333682033751" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0877b13 #0877b14"/>
         <ptr target="#A011109" type="person"/>
         <ptr target="#PL000000047107" type="place"/>
         <ptr target="#j20394012039401" type="time"/>
@@ -63,8 +74,26 @@ ed="T" n="0877b25"/>昭紀</persName>為碑焉。</p>
         <ptr target="#A013705" type="person"/>
     </linkGrp>
     <linkGrp>
-        <link targets="#0877b22 #0877b23"/>
+        <link targets="#0877b21 #0877b21"/>
+        <ptr target="#A013705" type="person"/>
+        <ptr target="#PL000000042189" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0877b22 #0877b22"/>
+        <ptr target="#A013705" type="person"/>
+        <ptr target="#j20394012039401" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0877b22 #0877b24"/>
         <ptr target="#A003877" type="person"/>
         <ptr target="#A013706" type="person"/>
+        <ptr target="#PL000000048181" type="place"/>
+        <ptr target="#j20539512054186" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0877b24 #0877b25"/>
+        <ptr target="#A013707" type="person"/>
+        <ptr target="#PL000000057656" type="place"/>
+        <ptr target="#j20583162059440" type="time"/>
     </linkGrp>
 </div>

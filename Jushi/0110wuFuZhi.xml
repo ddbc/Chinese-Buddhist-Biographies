@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="jsz0227b21wuFuZhi">
+    <p><anchor n="X.88.1646.0227b21"/><lb ed="X" n="0227b21"/><persName key="A014985">吳復之</persName>名<persName key="A014985">克己</persName>。自号<persName key="A014985">鎧菴居士</persName>。居於婺之<placeName key="PL000000013561">浦江</placeName>。少讀<lb ed="X" n="0227b22"/>周官。慨然有濟世之志。既不得志。隱於<placeName key="PL000000013556">左溪</placeName>。苦目疾。<lb ed="X" n="0227b23"/>或勸令禱<persName key="A002803">圓通大士</persName>。<persName key="A014985">復之</persName>曰。臨危不變乃真丈夫。或<lb ed="X" n="0227b24"/>舉<persName key="A007733">杜祁公</persName>言。君未讀佛書。何以知其不及<persName key="A002174">孔</persName><persName key="A004486">孟</persName>。<persName key="A014985">復之</persName><lb ed="X" n="0227c01"/>試持大士號。疾良已。遂起深信心。讀楞嚴至空生心<lb ed="X" n="0227c02"/>內猶雲點太清。豁如發蒙。既讀宗鏡錄。遇<persName key="A017647">寶積實公</persName><lb ed="X" n="0227c03"/>謂曰。此書無規矩。不若看止觀。令即境觀二字倚為<lb ed="X" n="0227c04"/>几杖。服食已而果有悟入。歎曰。至哉規矩之說。所謂<lb ed="X" n="0227c05"/>至方以方天下之不方。至圓以圓天下之不圓者乎。<lb ed="X" n="0227c06"/>著法華樞鍵。回向<placeName key="PL000000055477">極樂</placeName>曰。不讀法華。無以明我心本<lb ed="X" n="0227c07"/>具妙法。不生安養。無以證我心本具妙法。如來諄諄<lb ed="X" n="0227c08"/>示誨。智者懇懇宏經。佛祖垂慈。初無異轍也。<date from-iso="1165-02-20" key="j21466182149895" to-iso="1174-02-10">乾道中</date><lb ed="X" n="0227c09"/>寓<placeName key="PL000000009924">蘇州</placeName>。與<persName key="A017647">實公</persName>為蓮社。命工繪十界九品圖於兩廡。<lb ed="X" n="0227c10"/>一示萬法唯心。一指<placeName key="PL000000055477">西方</placeName>徑路。社友<persName key="A017646">鍾離松</persName>為之記。<lb ed="X" n="0227c11"/><date key="j21647792164867" to-iso="1215-02-07" from-iso="1214-11-11">嘉定七年冬</date>終於<placeName key="PL000000008348">寶山</placeName>。遺言以僧禮茶毗。壽七十五<lb ed="X" n="0227c12"/>(佛祖統記．樂邦文類)。</p> 
+    
+    <linkGrp>
+        <link targets="#0227b21 #0227b22"/>
+        <ptr target="#A014985" type="person"/>
+        <ptr target="#PL000000013556" type="place"/>
+        </linkGrp>
+    <linkGrp>
+        <link targets="#0227c08 #0227c10"/>
+        <ptr target="#A014985" type="person"/>
+        <ptr target="#A017646" type="person"/>
+        <ptr target="#A017647" type="person"/>
+        <ptr target="#PL000000009924" type="place"/>
+        <ptr target="#j21466182149895" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0227c11 #0227c11"/>
+        <ptr target="#A014985" type="person"/>
+        <ptr target="#PL000000008348" type="place"/>
+        <ptr target="#j21647792164867" type="time"/>
+    </linkGrp>
+ </div>

@@ -1,27 +1,27 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" type="習禪" xml:id="gsz0756c07shiShenHui"><lb
-ed="T" n="0756c07"/><anchor n="T.50.2061.0756c07"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date><placeName key="PL000000023656">洛京荷澤寺</placeName><persName key="A005612">神會</persName>傳</head><p><lb
+ed="T" n="0756c07"/><anchor n="T.50.2061.0756c07"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date><placeName key="PL000000023656"><placeName>洛京</placeName><placeName>荷澤寺</placeName></placeName><persName key="A005612">神會</persName>傳</head><p><lb
 ed="T" n="0756c08"/><persName key="A005612">釋神會</persName>，姓<name>高</name><ptr target="#n359"/>，<placeName key="PL000000027118">襄陽</placeName>人也<ptr target="#n360"/>。年方幼學，厥性惇明，<lb
-ed="T" n="0756c09"/>從師傳授五經，克<ptr type="glossary" target="#g560"/>通幽賾<ptr type="glossary" target="#g331"/>。次尋莊老，靈府<lb
-ed="T" n="0756c10"/>廓然。覽《後漢書》，知<persName key="A002799">浮圖</persName>之說。由是於釋教<lb
+ed="T" n="0756c09"/>從師傳授五經，克<ptr rend="display:none;" type="glossary" target="#g560"/>通幽賾<ptr rend="display:none;" type="glossary" target="#g331"/>。次尋《莊》《老》，靈府<lb
+ed="T" n="0756c10"/>廓然。覽《後漢書》，知<persName key="A002799">浮圖</persName>之說。由是於<name>釋</name>教<lb
 ed="T" n="0756c11"/>留神，乃無仕進之意，辭親投本府<placeName key="PL000000027111">國昌寺</placeName><lb
 ed="T" n="0756c12"/><persName key="A010084">顥元<roleName>法師</roleName></persName>下出家。其諷誦群經，易同反掌。<lb
-ed="T" n="0756c13"/>全大律儀，匪貪講貫<ptr type="glossary" target="#g1247"/>。聞<placeName key="PL000000030577">嶺表曹侯溪</placeName><persName key="A001719">慧能<lb
-ed="T" n="0756c14"/><roleName>禪師</roleName></persName>盛揚法道，學者駿奔，乃斆<persName key="A007249">善財</persName>南方參<lb
-ed="T" n="0756c15"/>問，裂裳裹足<ptr type="glossary" target="#g1360"/>，以千里為跬步<ptr type="glossary" target="#g1361"/>之間耳<ptr target="#n1327"/>。及<lb
+ed="T" n="0756c13"/>全大律儀，匪貪講貫<ptr rend="display:none;" type="glossary" target="#g1247"/>。聞<placeName key="PL000000030577"><placeName>嶺表</placeName><placeName>曹侯溪</placeName></placeName><persName key="A001719">慧能<lb
+ed="T" n="0756c14"/><roleName>禪師</roleName></persName>盛揚法道<ptr target="#n1330"/>，學者駿奔，乃斆<persName key="A007249">善財</persName>南方參<lb
+ed="T" n="0756c15"/>問，裂裳裹足<ptr rend="display:none;" type="glossary" target="#g1360"/>，以千里為跬步<ptr type="glossary" target="#g1361"/>之間耳<ptr target="#n1327"/>。及<lb
 ed="T" n="0756c16"/>見，<persName key="A001719">能</persName>問<persName key="A005612">會</persName>曰：「從何所來？」答曰：「無所從來。」<lb
 ed="T" n="0756c17"/><persName key="A001719">能</persName>曰：「<ref type="person" target="#A005612">汝</ref>不歸去？」答曰：「一無所歸。」<persName key="A001719">能</persName>曰：「<ref type="person" target="#A005612">汝</ref>太<lb
 ed="T" n="0756c18"/>茫茫。」答曰：「身緣在路。」<persName key="A001719">能</persName>曰：「由自未到？」答<lb
 ed="T" n="0756c19"/>曰：「今已得到，且無滯留。」<ptr target="#n1328"/>居<placeName key="PL000000030577">曹溪</placeName>數載，後遍<lb
-ed="T" n="0756c20"/>尋名跡<ptr target="#n1329"/>。<date from-iso="+0720-02-17" key="j19840811984434" to-iso="+0721-02-04"><name>開元</name>八年</date>，勅配住<placeName key="PL000000025196">南陽龍興寺</placeName>。續<lb
+ed="T" n="0756c20"/>尋名跡<ptr target="#n1329"/>。<date from-iso="+0720-02-17" key="j19840811984434" to-iso="+0721-02-04"><name>開元</name>八年</date>，勅配住<placeName key="PL000000025196"><placeName>南陽</placeName><placeName>龍興寺</placeName></placeName>。續<lb
 ed="T" n="0756c21"/>於<placeName key="PL000000023581">洛陽</placeName>大行禪法，聲彩發揮<ptr target="#n361"/>。先是，<ref type="place" target="#PL000000042189 #PL000000023581">兩京</ref>之<lb
 ed="T" n="0756c22"/>間皆宗<persName key="A009582">神秀</persName>，若不淰之魚鮪附沼龍<ptr type="glossary" target="#g1353"/>也。從<lb
 ed="T" n="0756c23"/>見<persName key="A005612">會</persName>明心<ref type="person" target="#A001719">六祖</ref>之風，蕩其漸修之<anchor xml:id="beg0756004"/>道<anchor xml:id="end0756004"/>矣。<lb
 ed="T" n="0756c24"/>南北二宗時始判焉，致<persName key="A009319">普寂</persName>之門盈而後虛。<lb
 ed="T" n="0756c25"/><date notBefore-iso="+0742-02-14" key="j19921141997410" notAfter-iso="+0756-08-15"><name>天寶</name>中</date>，御史<persName key="A010080">盧弈</persName>阿比<ptr type="glossary" target="#g1354"/>於<persName key="A009319">寂</persName>，誣奏<persName key="A005612">會</persName>聚徒疑<lb
 ed="T" n="0756c26"/>萌不利。<persName key="A000291">玄宗</persName>召赴<placeName key="PL000000042189">京</placeName>，時<ref type="person" target="#A000291">駕</ref>幸<placeName key="PL000000042439">昭應湯池</placeName>，得<lb
-ed="T" n="0756c27"/>對言理允愜，勅移往<placeName key="PL000000026800">均部</placeName>。<date from-iso="+0754-02-01" key="j19964841996867" to-iso="+0755-02-19">二年</date>，勅徙<placeName key="PL000000027844">荊州<lb
-ed="T" n="0756c28"/>開元寺般若院</placeName>住焉<ptr target="#n1331"/>。<date from-iso="+0755-02-20" key="j19968681997221" to-iso="+0756-02-08">十四年</date>，<placeName key="PL000000000370">范陽</placeName><persName key="A008454">安祿山</persName>舉<lb
+ed="T" n="0756c27"/>對言理允愜，勅移往<placeName key="PL000000026800">均部</placeName><ptr type="glossary" target="#g2176"/>。<date from-iso="+0754-02-01" key="j19964841996867" to-iso="+0755-02-19">二年</date>，勅徙<placeName key="PL000000027844"><placeName>荊州</placeName><lb
+ed="T" n="0756c28"/><placeName>開元寺</placeName><placeName>般若院</placeName></placeName>住焉<ptr target="#n1331"/>。<date from-iso="+0755-02-20" key="j19968681997221" to-iso="+0756-02-08">十四年</date>，<placeName key="PL000000000370">范陽</placeName><persName key="A008454">安祿山</persName>舉<lb
 ed="T" n="0756c29"/>兵內向，<ref type="place" target="#PL000000042189 #PL000000023581">兩京</ref>版蕩，<ref type="person" target="#A000291">駕</ref>幸<placeName key="PL000000037154">巴</placeName>、<placeName key="PL000000035107">蜀</placeName>。副元帥<persName key="A008714">郭子儀</persName><pb ed="T" n="0757a" xml:id="T50.2061.0757a"/><lb
 ed="T" n="0757a01"/>率兵平殄，然於飛輓<ptr type="glossary" target="#g1355"/>索然。用右僕射<persName key="A010086">裴冕</persName><lb
 ed="T" n="0757a02"/>權計，大府各置戒壇度僧，僧稅緡謂之香<lb
@@ -35,7 +35,7 @@ ed="T" n="0757a09"/>匠<ptr type="glossary" target="#g1358"/>併功齊力，為�
 ed="T" n="0757a10"/><persName key="A005612">會</persName>之敷演，顯發<persName key="A001719">能<roleName>祖</roleName></persName>之宗風，使<persName key="A009582">秀</persName>之門寂寞<lb
 ed="T" n="0757a11"/>矣。<date notBefore-iso="+0758-03-22" key="j19979941998315" notAfter-iso="+0759-02-06"><name><choice resp="sgsz"><sic>上</sic><corr>乾</corr></choice>元</name>元年</date>，囑別門人，避座望空頂<anchor xml:id="beg0757sgsz1"/>禮<anchor xml:id="end0757sgsz1"/>，歸<lb
 ed="T" n="0757a12"/>方丈，其夜示滅。受生<choice resp="sgsz"><sic>九十三</sic><corr>七十五</corr></choice>歲矣，即<date key="j19988291998829" when-iso="+0760-07-04">建午月<lb
-ed="T" n="0757a13"/>十三日</date>也<ptr target="#n1334"/>。遷塔于<placeName key="PL000000023547">洛陽寶應寺</placeName>，勅諡大師<lb
+ed="T" n="0757a13"/>十三日</date>也<ptr target="#n1334"/>。遷塔于<placeName key="PL000000023547"><placeName>洛陽</placeName><placeName>寶應寺</placeName></placeName>，勅謚「大師」<lb
 ed="T" n="0757a14"/>曰<persName key="A005612">真宗</persName>，塔號<placeName key="PL000000056192">般若</placeName>焉<ptr target="#n1335"/>。</p><p><lb
 ed="T" n="0757a15"/>系曰：修其教不易其俗，齊其政不易其<lb
 ed="T" n="0757a16"/>宜者，貴其漸也。<persName key="A005612">會<roleName>師</roleName></persName>自南徂北，行<placeName key="PL000000030577">曹溪</placeName>之<lb

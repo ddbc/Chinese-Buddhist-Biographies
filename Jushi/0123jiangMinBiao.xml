@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="jsz0232c10jiangMinBiao">
+    <p><anchor n="X.88.1646.0232c10"/><lb ed="X" n="0232c10"/><persName key="A017833">江民表</persName>名<persName key="A017833">公望</persName>。<placeName key="PL000000012014">嚴州</placeName>人也。登進士第。<date from-iso="1101-02-07" key="j21232292123583" to-iso="1102-01-27">建中靖國元年</date><lb ed="X" n="0232c11"/>拜左司諫。極論<date from-iso="1085-04-07" key="j21174452122885" to-iso="1100-02-28">哲宗朝</date>朋黨之禍。為將來戒。時內苑<lb ed="X" n="0232c12"/>稍畜珍禽奇獸。<persName key="A017833">民表</persName>以為言。<persName key="A003935">徽宗</persName>立。縱之。既出知<placeName key="PL000000009623">淮<lb ed="X" n="0232c13"/>陽軍</placeName>。<persName key="A009525">蔡京</persName>為政。嫉諸言事者。編管<placeName key="PL000000019183">南安</placeName><!-- 南安軍，請參見(http://zh.wikisource.org/zh-hant/宋史/卷346，2010.08.10) -->。居常與妻<persName key="A017843">俞<lb ed="X" n="0232c14"/>氏</persName>蔬食清齋。修念佛三昧。著念佛方便文曰。世出世<lb ed="X" n="0232c15"/>間之法。欲得成辦省力。莫若繫心一緣。即如稱念<persName key="A002843">阿<lb ed="X" n="0232c16"/>彌陀佛</persName>。有巧方便。無用動口。不出音聲。微以舌根敲<lb ed="X" n="0232c17"/>擊前齒。心念隨應。音聲歷然。聲不越竅。聞性內融。心<lb ed="X" n="0232c18"/>印舌機。機抽念根。從聞入流。反聞自性。是三融會。念<lb ed="X" n="0232c19"/>念圓通。久久遂成唯心識觀。若是利根之人。念念不<lb ed="X" n="0232c20"/>生。心心無所。六根杳寂。諸識消除。法法全真。門門絕<lb ed="X" n="0232c21"/>待。瞥爾遂成真如實觀。初機後學。一心攝念如來。乃<lb ed="X" n="0232c22"/>至營辦家事種種作務。亦自不相妨礙。都攝六根。淨<lb ed="X" n="0232c23"/>念相繼。不過旬月便成三昧。所謂自心作佛。自心是<lb ed="X" n="0232c24"/>佛。自心見佛。有子早亡。見夢於其舅。乞<persName key="A017833">民表</persName>就<placeName key="PL000000011989">天寧<lb ed="X" n="0233a01"/>寺</placeName>轉寶積經。祈生善處。且言見冥中金字碑云。<persName key="A017833">江公<lb ed="X" n="0233a02"/>望</persName>身居言責。志慕苦空。躬事焚修。心無愛染。動靜不<lb ed="X" n="0233a03"/>違佛法。語默時契宗風。名預脫乎幽關。身必歸乎<placeName key="PL000000055477">淨<lb ed="X" n="0233a04"/>土</placeName>。後遇赦得歸。無疾而化(宋史．樂邦文類．佛法金湯)。</p> 
+    
+    <linkGrp>
+        <link targets="#0232c10 #0232c13"/>
+        <ptr target="#A017833" type="person"/>
+        <ptr target="#A003935" type="person"/>
+        <ptr target="#A009525" type="person"/>
+        <ptr target="unknown" type="place"/>
+        <ptr target="#j21232292123583" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0232c12 #0232c13"/>
+        <ptr target="#A017833" type="person"/>
+        <ptr target="#PL000000009623" type="place"/>
+        </linkGrp>
+    <linkGrp>
+        <link targets="#0232c13 #0232c14"/>
+        <ptr target="#A017833" type="person"/>
+        <ptr target="#A017843" type="person"/>
+        <ptr target="#PL000000019183" type="place"/>
+        </linkGrp>
+ </div>

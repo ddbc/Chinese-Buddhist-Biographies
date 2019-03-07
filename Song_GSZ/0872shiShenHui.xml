@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" type="習禪" xml:id="gsz0764a23shiShenHui"><lb
-ed="T" n="0764a23"/><anchor n="T.50.2061.0764a23"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date><placeName key="PL000000034714">成都府淨眾寺</placeName><persName key="A010304">神會</persName>傳</head><p><lb
-ed="T" n="0764a24"/><persName key="A010304">釋神會</persName>，俗姓石，本<placeName key="PL000000055436">西域</placeName>人也。祖父徙居，因<lb
-ed="T" n="0764a25"/>家于<placeName key="PL000000042848"><anchor xml:id="beg0764sgsz3"/>岐<anchor xml:id="end0764sgsz3"/></placeName>，遂為<placeName key="PL000000042848">鳳翔</placeName>人矣。<persName key="A010304">會</persName>至性懸解<ptr type="glossary" target="#g1343"/>，明智<lb
+ed="T" n="0764a23"/><anchor n="T.50.2061.0764a23"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date><placeName key="PL000000034714"><placeName>成都府</placeName><placeName>淨眾寺</placeName></placeName><persName key="A010304">神會</persName>傳<ptr rend="display:none;" target="#n2374"/></head><p><lb
+ed="T" n="0764a24"/><persName key="A010304">釋神會</persName>，俗姓<name>石</name>，本<placeName key="PL000000055436">西域</placeName>人也。祖父徙居，因<lb
+ed="T" n="0764a25"/>家于<placeName key="PL000000042848"><anchor xml:id="beg0764sgsz3"/>岐<anchor xml:id="end0764sgsz3"/></placeName>，遂為<placeName key="PL000000042848">鳳翔</placeName>人矣。<persName key="A010304">會</persName>至性懸解<ptr rend="display:none;" type="glossary" target="#g1343"/>，明智<lb
 ed="T" n="0764a26"/>內發，大璞不耀，時未知之。年<date key="j19946271994991" from-iso="+0749-01-01" to-iso="+0749-12-31">三十</date>，方入<placeName key="PL000000035107">蜀</placeName>，<lb
 ed="T" n="0764a27"/>謁<persName key="A010305">無相<roleName>大師</roleName></persName>，利根頓悟，冥契心印<ptr type="glossary" target="#g1434"/>。<persName key="A010305">無相</persName>歎<lb
 ed="T" n="0764a28"/>曰：「<ref type="person" target="#A010305">吾</ref>道今在<ref type="person" target="#A010304">汝</ref>矣！」爾後德充慧廣，欝為禪<lb
@@ -10,13 +10,13 @@ ed="T" n="0764a29"/>宗。其<anchor xml:id="beg0764sgsz4"/><choice resp="sgsz">
 ed="T" n="0764b01"/>不見有身。」當其凝閉<ptr type="glossary" target="#g1488"/>無象，則土木其質。及<lb
 ed="T" n="0764b02"/>夫妙用默濟，雲行雨施，蚩蚩群甿<ptr type="glossary" target="#g1489"/>，陶然知化，<lb
 ed="T" n="0764b03"/>覩貌遷善，聞言革非。至於廓蕩，昭洗執<lb
-ed="T" n="0764b04"/>縛<ptr type="glossary" target="#g1490"/>，上、中、下性隨分<ptr type="glossary" target="#g1491"/>令入。以<date key="j20114082011408" when-iso="+0794-12-12"><name>貞元</name>十年十一<lb
+ed="T" n="0764b04"/>縛<ptr rend="display:none;" type="glossary" target="#g1490"/>，上、中、下性隨分<ptr type="glossary" target="#g1491"/>令入。以<date key="j20114082011408" when-iso="+0794-12-12"><name>貞元</name>十年十一<lb
 ed="T" n="0764b05"/>月十二日</date>示疾，儼然加<anchor xml:id="beg0764sgsz5"/>趺<anchor xml:id="end0764sgsz5"/>坐滅，春秋七十五，<lb
 ed="T" n="0764b06"/>法臘三十六。沙門<persName key="A010306">那提</persName>得<ref type="person" target="#A010304">師</ref>之道，傳授將<lb
 ed="T" n="0764b07"/>來。以<date key="j20118912011891" when-iso="+0796-04-08">十二年二月二十二日</date>，門人弟子緇俗<lb
 ed="T" n="0764b08"/>遷座于<ref type="place" target="#PL000000034714">本院</ref>之北隅，孺慕<ptr type="glossary" target="#g1493"/><ref type="person" target="#A010304">師</ref>德，號哭之聲，<lb
 ed="T" n="0764b09"/>山林為之變色。初，<persName key="A010304">會</persName>傳法在<ref type="place" target="#PL000000035107">坤維</ref><ptr type="glossary" target="#g1492"/>，四遠禪<lb
-ed="T" n="0764b10"/>徒臻萃<ptr type="glossary" target="#g1405"/>于寺。時<persName key="A004370"><roleName>南康王</roleName>韋<roleName>公</roleName>臯</persName>最歸心于<persName key="A010304">會</persName>，<lb
+ed="T" n="0764b10"/>徒臻萃<ptr type="glossary" target="#g1405"/>于寺。時<persName key="A004370"><persName>南康王</persName><persName>韋<roleName>公</roleName>臯</persName></persName>最歸心于<persName key="A010304">會</persName>，<lb
 ed="T" n="0764b11"/>及卒，哀咽追仰<ptr type="glossary" target="#g236"/>，蓋粗入<persName key="A010304">會</persName>之門，得其禪要。<lb
 ed="T" n="0764b12"/>為立碑，<ref type="person" target="#A004370">自</ref>撰文并書，禪宗榮<ref type="person" target="#A010304">之</ref>。</p>
         <linkGrp>

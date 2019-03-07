@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" type="感通" xml:id="gsz0852c01shiDianDian"><pb n="0852c" xml:id="T50.2061.0852c" ed="T"/><lb
-ed="T" n="0852c01"/><anchor n="T.50.2061.0852c01"/><head><date from-iso="+0960-02-09" key="j20717322132856" to-iso="+1127-06-18"><anchor xml:id="begd1e39321"/>宋<anchor xml:id="endd1e39321"/></date><choice resp="sgsz"><sic>卬</sic><corr>邛</corr></choice>州<ptr target="#n282"/>大邑靈鷲山寺<persName key="A013011">點點師</persName>傳</head><p><lb
-ed="T" n="0852c02"/><persName key="A013011">釋點點師</persName>者，不知何許人也。孟氏<date key="j20636952073588" notAfter-iso="+0965-03-10" notBefore-iso="+0938-02-07">廣政中</date>，<lb
-ed="T" n="0852c03"/>隱<anchor xml:id="beg0852sgsz11"/><choice resp="sgsz"><sic>卬</sic><corr>邛</corr></choice><anchor xml:id="end0852sgsz11"/>南大邑<placeName key="PL000000034948">山寺</placeName>，多遊𢌅肆中。雖事削染，<lb
+ed="T" n="0852c01"/><anchor n="T.50.2061.0852c01"/><head><date from-iso="+0960-02-09" key="j20717322132856" to-iso="+1127-06-18"><anchor xml:id="begd1e39321"/>宋<anchor xml:id="endd1e39321"/></date><placeName key="PL000000034948"><placeName><choice resp="sgsz"><sic>卬</sic><corr>邛</corr></choice>州<ptr target="#n282"/></placeName><placeName>大邑</placeName><placeName>靈鷲山寺</placeName></placeName><persName key="A013011">點點師</persName>傳</head><p><lb
+ed="T" n="0852c02"/><persName key="A013011">釋點點師</persName>者，不知何許人也。<persName key="A006599">孟<roleName>氏</roleName></persName><date key="j20636952073588" notAfter-iso="+0965-03-10" notBefore-iso="+0938-02-07"><name>廣政</name>中</date>，<lb
+ed="T" n="0852c03"/>隱<placeName key="PL000000035059"><anchor xml:id="beg0852sgsz11"/><choice resp="sgsz"><sic>卬</sic><corr>邛</corr></choice><anchor xml:id="end0852sgsz11"/></placeName>南<placeName key="PL000000034954">大邑</placeName><ref type="place" target="#PL000000034948">山寺</ref>，多遊𢌅<ptr type="glossary" target="#g640"/>肆中。雖事削染，<lb
 ed="T" n="0852c04"/>恒若風狂。或與人接，必指點而言，故目是<lb
 ed="T" n="0852c05"/>稱焉。有命齋食者，酒肉不間，率以為常，<lb
 ed="T" n="0852c06"/>俚人亦不之厭也。日之夕矣，乃市黃白麻紙<lb
@@ -10,22 +10,21 @@ ed="T" n="0852c07"/>筆墨，寘懷袖以歸。行數里，沈酣而至瞑矣。
 ed="T" n="0852c08"/>所居之室，雖有外戶，且無四壁。入後闔扉，<lb
 ed="T" n="0852c09"/>人不得造。初隣僧小童，躡足伺之，見秉燭<lb
 ed="T" n="0852c10"/>箕踞，陳紙筆於前，訶責大書，莫曉其文字。<lb
-ed="T" n="0852c11"/>往往咄嗟如決斷處置。久之，明闇間熟視閃<lb
-ed="T" n="0852c12"/>爍，若有人森列狀如曹吏，則襦裳非世之<lb
+ed="T" n="0852c11"/>往往咄嗟如決斷處置。久之，明闇間熟視，閃<lb
+ed="T" n="0852c12"/>爍若有人森列，狀如曹吏，則襦裳非世之<lb
 ed="T" n="0852c13"/>服飾。觀者怖懼而退。詰旦，微詢其事，怒而弗<lb
-ed="T" n="0852c14"/>答。居數載，<anchor xml:id="beg0852sgsz13"/><choice resp="sgsz"><sic>卬</sic><corr>邛</corr></choice><anchor xml:id="end0852sgsz13"/>笮<!--找不到此地-->之人咸神異之，後不知其<lb
-ed="T" n="0852c15"/>終。</p>
-    <p xml:id="pT50p0852c1601"><lb
-ed="T" n="0852c16"/>系曰：<persName key="A013011">點點師</persName>而能劾鬼，別無高潔軌生物<lb
+ed="T" n="0852c14"/>答。居數載，<placeName key="PL000000035059"><anchor xml:id="beg0852sgsz13"/><choice resp="sgsz"><sic>卬</sic><corr>邛</corr></choice><anchor xml:id="end0852sgsz13"/></placeName>、<placeName key="PL000000037754">笮</placeName>之人咸神異之，後不知其<lb
+ed="T" n="0852c15"/>終。</p><p xml:id="pT50p0852c1601"><lb
+ed="T" n="0852c16"/>系曰：<persName key="A013011">點點師</persName>而能劾鬼，別無高潔，軌生物<lb
 ed="T" n="0852c17"/>善，亦與古人判冥司事者同邪？通曰：「所作<lb
-ed="T" n="0852c18"/>在心，如不從正道力中生，則與五斗米道<lb
-ed="T" n="0852c19"/>同。如不從有心符禁中起，則感鬼神歸信<lb
-ed="T" n="0852c20"/>驅策之耳。故善戒經云：『若須神通應感化<lb
-ed="T" n="0852c21"/>度，為示神足。』莊嚴論中菩薩以神通變化<lb
-ed="T" n="0852c22"/>而為戲喜。又或此是辟支行位人也，故論云：<lb
-ed="T" n="0852c23"/>『獨覺依彼。』彼村落乞食，以身濟度，不以語<lb
-ed="T" n="0852c24"/>言，示現種種神通境界，為令誹謗者歸向<lb
-ed="T" n="0852c25"/>故。」</p>
+ed="T" n="0852c18"/>在心，如不從正道力中生，則與<name>五斗米道</name><lb
+ed="T" n="0852c19"/>同。如不從有心符禁<ptr type="glossary" target="#g1859"/>中起，則感鬼神歸信<lb
+ed="T" n="0852c20"/>驅策之耳。故《善戒經》云：『若須神通應感化<lb
+ed="T" n="0852c21"/>度，為示神足<ptr type="glossary" target="#g1860"/>。』<ptr target="#n2844"/>《莊嚴論》中菩薩以神通變化<lb
+ed="T" n="0852c22"/>而為戲喜<ptr target="#n2845"/>。又或此是辟支行位<ptr type="glossary" target="#g59"/>人也，故論云：<lb
+ed="T" n="0852c23"/>『獨覺依彼彼村落乞食，以身濟度。不以語<lb
+ed="T" n="0852c24"/>言示現種種神通境界，為令誹謗者歸向<lb
+ed="T" n="0852c25"/>故。』<ptr target="#n2846"/>」</p>
     <linkGrp>
         <link targets="#0852c02 #0852c05"/>
         <ptr target="#A013011" type="person"/>

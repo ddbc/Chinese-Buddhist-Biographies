@@ -340,7 +340,7 @@ att.responsibility.attribute.cert =
 att.responsibility.attribute.resp =
   
   ##  (responsible party) indicates the agency responsible for the intervention or interpretation, for example an
-  ##         editor or transcriber.
+  ##     editor or transcriber.
   attribute resp {
     list { data.pointer, data.pointer* }
   }?
@@ -2518,7 +2518,7 @@ fileDesc =
   ##  (file description) contains a full bibliographic description of an electronic file. [2.2.  2.1.1. ]
   element fileDesc {
     ((titleStmt,
-      editionStmt?,
+  editionStmt?,
       extent?,
       publicationStmt,
       seriesStmt?,
@@ -2674,7 +2674,7 @@ biblFull =
   ##     description are present. [3.11.1.  2.2.  2.2.7.  15.3.2. ]
   element biblFull {
     ((titleStmt,
-      editionStmt?,
+  editionStmt?,
       extent?,
       publicationStmt,
       seriesStmt?,

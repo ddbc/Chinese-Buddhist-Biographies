@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="jsz0224c08sunLiang">
+    <p><anchor n="X.88.1646.0224c08"/><lb ed="X" n="0224c08"/><persName key="A011771">孫良</persName><placeName key="PL000000011516">錢塘</placeName>人。隱居閱大藏。尤得華嚴之旨。甞依<persName key="A000129">大智<lb ed="X" n="0224c09"/>律師</persName>受菩薩戒。日課佛名萬聲。二十年不輟。忽令家<lb ed="X" n="0224c10"/>人請僧唱佛名。方半日。望空合掌曰。世尊菩薩已荷<lb ed="X" n="0224c11"/>降臨。即退坐而化(佛祖統記)。</p> 
+    
+    <linkGrp>
+        <link targets="#0224c08 #0224c09"/>
+        <ptr target="#A000129" type="person"/>
+        <ptr target="#A011771" type="person"/>
+        <ptr target="unknown" type="place"/>
+        </linkGrp> 
+ </div>

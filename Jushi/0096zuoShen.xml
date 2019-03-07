@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="jsz0225a22zuoShen">
+    <p><anchor n="X.88.1646.0225a22"/><lb ed="X" n="0225a22"/><persName key="A011773">左伸</persName>天台<placeName key="PL000000014900">臨海</placeName>人。從法師<persName key="A000252">神照</persName>受菩薩戒。遂造<persName key="G000014">西方<lb ed="X" n="0225a23"/>三聖</persName>像求生<placeName key="PL000000055477">淨土</placeName>。誦法華經三千四百部。金剛經二<lb ed="X" n="0225a24"/>萬卷。<date key="j21212212121309" to-iso="1095-11-05" from-iso="1095-08-09">紹聖二年秋</date>有疾。命其子沙門<persName key="A017655">淨圓</persName>唱法華首<lb ed="X" n="0225b01"/>題。已而夢三偉人立江臯。召<persName key="A011773">伸</persName>登舟。復請僧誦阿彌<lb ed="X" n="0225b02"/>陀經。遽曰。我已見佛光。即端坐結印而化(法華持驗記．佛祖統<lb ed="X" n="0225b03"/>記)。</p>
+    
+    <linkGrp>
+        <link targets="#0225a22 #0225a22"/>
+        <ptr target="#A011773" type="person"/>
+        <ptr target="#A000252" type="person"/>
+        <ptr target="unknown" type="place"/>
+        </linkGrp>
+    <linkGrp>
+        <link targets="#0225a24 #0225b02"/>
+        <ptr target="#A011773" type="person"/>
+        <ptr target="#A017655" type="person"/>
+        <ptr target="unknown" type="place"/>
+        <ptr target="#j21212212121309" type="time"/>
+    </linkGrp>
+ </div>

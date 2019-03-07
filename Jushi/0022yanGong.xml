@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="jsz0190b09yanGong">
+    <p><anchor n="X.88.1646.0190b09"/><lb ed="X" n="0190b09"/><persName key="A015523">嚴恭</persName><placeName key="PL000000017107">泉州</placeName>人也。<date from-iso="0581-03-06" key="j19333311940611" to-iso="0601-02-10">隋開皇中</date>客於<placeName key="PL000000010795">揚州</placeName>。造精舍。寫法華<lb ed="X" n="0190b10"/>經。道俗崇敬常送錢供給。後有人從貸經錢一萬。<persName key="A015523">恭</persName><lb ed="X" n="0190b11"/>不獲已與之。貸者載至中路。船覆失錢。是日<persName key="A015523">恭</persName>入庫。<lb ed="X" n="0190b12"/>見一萬錢如新出水。怪之。已而其人以船覆告。乃知<lb ed="X" n="0190b13"/>庫中錢即其所貸也。一商人至<placeName key="PL000000020128">衖亭湖</placeName>祭神。夜夢神<lb ed="X" n="0190b14"/>云。諸君以所贈物與<persName key="A015523">嚴法華</persName>為書經用也。其他感應<lb ed="X" n="0190b15"/>甚眾。<persName key="A015523">恭</persName>遂以書經終。<date key="j19455911946768" to-iso="0617-12-20" from-iso="0614-09-30">大業末</date>。子孫猶傳其業。群盜相<lb ed="X" n="0190b16"/>約不入其里。里人賴之。同時益州<placeName key="PL000000034844">新繁</placeName>有<persName key="A015531"><!-- <date from-iso="0557" to-iso="0666" type="default" xml:id="d19245011964676"/> -->荀生</persName>者。居<lb ed="X" n="0190b17"/>縣西三十里許曰<placeName key="PL000000034845">王李村</placeName>。工書。然自重不肯為人書。<lb ed="X" n="0190b18"/>人雖辱毆之。不顧也。一日把筆走前村。向空中四面<lb ed="X" n="0190b19"/>書般若經。數日而畢曰。好令諸天讀之。人初不覺其<lb ed="X" n="0190b20"/>異。其後大雷雨。牧牛小兒住其地中可丈許。雨不能<lb ed="X" n="0190b21"/>濕。自後遇雨牧兒輙避雨其處。<date from-iso="0618-06-21" key="j19469511949949" to-iso="0626-09-05">武德中</date>有異僧語村<lb ed="X" n="0190b22"/>人曰。此地空中有般若經。諸天於上設葢覆之。不可<lb ed="X" n="0190b23"/>輕踐。村人遂以闌楯周之。齋日設供。每聞天樂聲(冥報<lb ed="X" n="0190b24"/>記．三寶感通記)。<lb ed="X" n="0190c01"/><persName key="A001188">知歸子</persName>曰。數君之奉法。可謂專且勤矣。其能格天人<lb ed="X" n="0190c02"/>而度生死也。宜哉。夫陽氣奮而萌芽作。秋風至而木<lb ed="X" n="0190c03"/>葉零。至誠而不動者。不亦鮮乎。</p> 
+    
+    <linkGrp>
+        <link targets="#0190b09 #0190b10"/>
+        <ptr target="#A015523" type="person"/>
+        <ptr target="#PL000000010795" type="place"/>
+        <ptr target="#j19333311940611" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0190b16 #0190b19"/>
+        <ptr target="#A015531" type="person"/>
+        <ptr target="#PL000000034844" type="place"/>
+        <!-- <ptr target="#d19245011964676" type="time"/> -->
+    </linkGrp>
+ </div>

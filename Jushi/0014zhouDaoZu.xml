@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="jsz0189a04zhouDaoZu">
+    <p><anchor n="X.88.1646.0189a04"/><lb ed="X" n="0189a04"/><persName key="A002738">周道祖</persName>名<persName key="A002738">續之</persName>。<placeName key="PL000000005488">雁門</placeName>人。父歿。過江居<placeName key="PL000000018605">豫章</placeName>。<date from-iso="0369-01-01" key="j18558351856199" to-iso="0369-12-31">年十二</date>詣<lb ed="X" n="0189a05"/><persName key="A002831">范寗</persName>受業。通五經五緯。養志窮居。精研老易。既而入<lb ed="X" n="0189a06"/>廬山<placeName key="PL000000018771">白蓮社</placeName>。以為身不可遺。餘累宜絕。遂終身不娶<lb ed="X" n="0189a07"/>妻。布衣蔬食。朝命徵太學博士。不就。<persName key="A002043">劉裕</persName>北伐。世子<lb ed="X" n="0189a08"/>守<placeName key="PL000000009534">彭城</placeName>。迎之舘於<placeName key="PL000000008371">安東寺</placeName>。延入講禮。月餘還山。<persName key="A002043">裕</persName>還<lb ed="X" n="0189a09"/>鎮。復遣使迎之。宋受禪。為開舘<placeName key="PL000000008795">東郭</placeName>外。招集生徒以<lb ed="X" n="0189a10"/>禮經教授。或問。身為處士。時踐王庭。何也。答曰。心馳<lb ed="X" n="0189a11"/>魏闕者。以江湖為桎梏。情致兩忘者。市朝亦巖穴耳。<lb ed="X" n="0189a12"/>時號<persName key="A002738">通隱先生</persName>。未幾移疾<placeName key="PL000000008734">鍾山</placeName>。<date from-iso="0423-01-29" key="j18755861875969" to-iso="0424-02-16">景平元年</date>卒。年六十<lb ed="X" n="0189a13"/>七(宋書)。</p> 
+    
+    <linkGrp>
+        <link targets="#0189a04 #0189a04"/>
+        <ptr target="#A002738" type="person"/>
+        <ptr target="#PL000000018605" type="place"/>
+        </linkGrp>
+    <linkGrp>
+        <link targets="#0189a04 #0189a05"/>
+        <ptr target="#A002738" type="person"/>
+        <ptr target="#A002831" type="person"/>
+        <ptr target="unknown" type="place"/>
+        <ptr target="#j18558351856199" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0189a06 #0189a07"/>
+        <ptr target="#A002738" type="person"/>
+        <ptr target="#PL000000018771" type="place"/>
+        </linkGrp>
+    <linkGrp>
+        <link targets="#0189a07 #0189a08"/>
+        <ptr target="#A002738" type="person"/>
+        <ptr target="#PL000000008371" type="place"/>
+        </linkGrp>
+    <linkGrp>
+        <link targets="#0189a09 #0189a09"/>
+        <ptr target="#A002738" type="person"/>
+        <ptr target="#PL000000008795" type="place"/>
+        </linkGrp>
+    <linkGrp>
+        <link targets="#0189a12 #0189a13"/>
+        <ptr target="#A002738" type="person"/>
+        <ptr target="#PL000000008734" type="place"/>
+        <ptr target="#j18755861875969" type="time"/>
+    </linkGrp>     
+ </div>

@@ -1,35 +1,61 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" type="讀誦" xml:id="gsz0865c19shiSanDao"><lb
-ed="T" n="0865c19"/><anchor n="T.50.2061.0865c19"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date>吉州龍興寺<persName key="A013559">三刀法師</persName>傳</head><p><lb
-ed="T" n="0865c20"/><persName key="A013559">釋三刀法師</persName>者，本姓曹，<placeName key="PL000000019384">廬陵</placeName>人也<ptr target="#n684"/>。天然之性，<lb
-ed="T" n="0865c21"/>嗜於蔬食。羈貫成童，志願出家。于時自江<lb
-ed="T" n="0865c22"/>以西，從<date key="j19968182000104" notAfter-iso="+0763-12-31" notBefore-iso="+0755-01-01">安史之亂</date>。南方不寧，多事土扶，故強<lb
+ed="T" n="0865c19"/><anchor n="T.50.2061.0865c19"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date><placeName key="PL000000019365"><placeName>吉州</placeName><placeName>龍興寺</placeName></placeName><persName key="A013559">三刀<roleName>法師</roleName></persName>傳</head><p><lb
+ed="T" n="0865c20"/><persName key="A013559">釋三刀<roleName>法師</roleName></persName>者，本姓<name>曹</name>，<placeName key="PL000000019383">廬陵</placeName>人也<ptr target="#n684"/>。天然之性，<lb
+ed="T" n="0865c21"/>嗜於蔬食。羈貫<ptr type="glossary" target="#g1861"/>成童，志願出家。于時自<placeName key="PL000000000150">江</placeName><lb
+ed="T" n="0865c22"/>以西，從<persName key="A008454">安</persName><persName key="A010333">史</persName>之亂，南方不寧，多事土扶<ptr type="glossary" target="#g2001"/>，故強<lb
 ed="T" n="0865c23"/>兼弱，兵革未休。<date key="j20033642003393" notAfter-iso="+0773-01-01" notBefore-iso="+0772-12-03"><name>大曆</name>七年十一月</date><ptr target="#n685"/>，<placeName key="PL000000030464">廣州</placeName><persName key="A013560">呂<roleName>大<lb
-ed="T" n="0865c24"/>夫</roleName></persName>被翻城，奉<placeName key="PL000000018628">洪州</placeName><persName key="A013561">路嗣恭</persName>。牒<placeName key="PL000000019383">吉州</placeName><anchor xml:id="beg0865sgsz11"/>刺<anchor xml:id="end0865sgsz11"/>史<persName key="A013562">劉<lb
-ed="T" n="0865c25"/>寧</persName>徵兵三千人，同收<placeName key="PL000000030482">番禺</placeName>。法師舊名<persName key="A013559">伯連</persName>，<lb
-ed="T" n="0865c26"/>其為人也強渥而貌惡，且心循良，恒持誦金<lb
-ed="T" n="0865c27"/>剛經，以筒盛經，佩之于身，誓不婚娶。然不<lb
+ed="T" n="0865c24"/>夫</roleName></persName>被翻城。<choice resp="sgsz"><sic>奉</sic><corr>承</corr></choice><ptr target="#n3040"/><placeName key="PL000000018628">洪州</placeName><persName key="A013561">路嗣恭</persName>牒<ptr type="glossary" target="#g2002"/><placeName key="PL000000019383">吉州</placeName><anchor xml:id="beg0865sgsz11"/>刺<anchor xml:id="end0865sgsz11"/>史<persName key="A013562">劉<lb
+ed="T" n="0865c25"/>寧</persName><ptr target="#n3039"/>徵兵三千人，同收<placeName key="PL000000030482">番禺</placeName>。法師舊名<persName key="A013559">伯連</persName>，<lb
+ed="T" n="0865c26"/>其為人也強渥而貌惡，且心循良，恒持誦《金<lb
+ed="T" n="0865c27"/>剛經》，以筒盛經，佩之于身，誓不婚娶。然不<lb
 ed="T" n="0865c28"/>揚此善于他，惟密行愈至。無何<ptr rend="display:none;" type="glossary" target="#g493"/>，被括為軍。<lb
 ed="T" n="0865c29"/>呈閱之時，又選充行營小將，非其所好，遂<pb ed="T" n="0866a" xml:id="T50.2061.0866a"/><lb
-ed="T" n="0866a01"/>亡命焉。時徵兵頗急，牒諸處要害捕逐，於<lb
-ed="T" n="0866a02"/>本州洋口擒送。<persName key="A013562">劉寧</persName>令於朱木橋<!--找不到此地-->處死，三<lb
-ed="T" n="0866a03"/>下刃俱折。<persName key="A013562">劉</persName>怪問之，遂言素志捨家，恒持<lb
-ed="T" n="0866a04"/>經法，如斯怯懦，恐衂軍威，是以亡耳。問「經<lb
-ed="T" n="0866a05"/>何在？」曰：「被獲時遺墜。」遂令搜取，果數百步<lb
+ed="T" n="0866a01"/>亡命焉。時徵兵頗急，牒諸處要害捕逐。於<lb
+ed="T" n="0866a02"/>本州<placeName key="PL000000056757">洋口</placeName>擒送<persName key="A013562">劉寧</persName>，令於<placeName key="PL000000055643">朱木橋</placeName>處死。三<lb
+ed="T" n="0866a03"/>下刃俱折，<persName key="A013562">劉</persName>怪問之，遂言素志捨家，恒持<lb
+ed="T" n="0866a04"/>經法，如斯怯懦，恐衂軍威，是以亡耳。問經<lb
+ed="T" n="0866a05"/>何在？曰：「被獲時遺墜。」遂令搜取，果數百步<lb
 ed="T" n="0866a06"/>外得之，竹筒有刃痕而幾絕。<persName key="A013562">劉</persName>拱手稱<anchor xml:id="beg0866sgsz1"/>歎<anchor xml:id="end0866sgsz1"/><lb
 ed="T" n="0866a07"/>久之，乃縱其為僧。奏聞，勅下本道號<persName key="A013559">三刀<lb
-ed="T" n="0866a08"/>法師</persName>，配本郡<placeName key="PL000000018582">龍興寺</placeName>。後加精進，卒于住<lb
+ed="T" n="0866a08"/>法師</persName>，配本郡<placeName key="PL000000019365">龍興寺</placeName>。後加精進，卒于住<lb
 ed="T" n="0866a09"/>所。</p>
+    <linkGrp>
+        <link targets="#0865c20 #0865c20"/>
+        <ptr target="#A013559" type="person"/>
+        <ptr target="#PL000000019383" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0865c23 #0865c24"/>
+        <ptr target="#A013560" type="person"/>
+        <ptr target="#PL000000030464" type="place"/>
+        <ptr target="#j20033642003393" type="time"/>
+    </linkGrp>
     <linkGrp>
         <link targets="#0865c24 #0865c25"/>
         <ptr target="#A013561" type="person"/>
         <ptr target="#A013562" type="person"/>
     </linkGrp>
     <linkGrp>
-        <link targets="#0865c25 #0866a07"/>
-        <ptr target="#A013559" type="person"/>
+        <link targets="#0865c24 #0865c25"/>
+        <ptr target="#A013561" type="person"/>
+        <ptr target="#PL000000018628" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0865c24 #0865c25"/>
         <ptr target="#A013562" type="person"/>
         <ptr target="#PL000000019383" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0866a01 #0866a02"/>
+        <ptr target="#A013559" type="person"/>
+        <ptr target="#PL000000056757" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0866a02 #0866a07"/>
+        <ptr target="#A013559" type="person"/>
+        <ptr target="#A013562" type="person"/>
+        <ptr target="#PL000000055643" type="place"/>
         <ptr target="#j20033642003393" type="time"/>
     </linkGrp>
     <linkGrp>
@@ -40,6 +66,6 @@ ed="T" n="0866a09"/>所。</p>
     <linkGrp>
         <link targets="#0866a08 #0866a08"/>
         <ptr target="#A013559" type="person"/>
-        <ptr target="#PL000000018582" type="place"/>
+        <ptr target="#PL000000019365" type="place"/>
     </linkGrp>
 </div>

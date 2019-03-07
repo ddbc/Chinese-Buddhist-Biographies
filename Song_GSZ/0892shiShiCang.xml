@@ -1,16 +1,16 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" type="習禪" xml:id="gsz0771b26shiShiCang"><lb
-ed="T" n="0771b26"/><anchor n="T.50.2061.0771b26"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date><placeName key="PL000000002496">定州大像山定真院<ptr target="#n277"/></placeName><persName key="A010443">石藏</persName>傳</head><p><lb
-ed="T" n="0771b27"/><persName key="A010443">釋石藏</persName>，姓<name>呂</name>，<placeName key="PL000000028309">漢東</placeName>人也。年隣小學，露成人<ptr type="glossary" target="#g284"/><lb
+ed="T" n="0771b26"/><anchor n="T.50.2061.0771b26"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date><placeName key="PL000000002496"><placeName>定州</placeName><placeName>大像山</placeName><placeName>定真院<ptr target="#n277"/></placeName></placeName><persName key="A010443">石藏</persName>傳</head><p><lb
+ed="T" n="0771b27"/><persName key="A010443">釋石藏</persName>，姓<name>呂</name>，<placeName key="PL000000028309">漢東</placeName>人也。年隣小學，露成人<ptr rend="display:none;" type="glossary" target="#g284"/><lb
 ed="T" n="0771b28"/>之度，跪告堂親，願為佛子。遂志入<placeName key="PL000000028294">開元<lb
 ed="T" n="0771b29"/>寺</placeName>削染受戒，剋願<anchor xml:id="beg0771sgsz6"/>禮<anchor xml:id="end0771sgsz6"/><placeName key="PL000000023253">嵩山</placeName><persName key="A009319">寂<roleName>禪師</roleName></persName>，豁悟禪<pb ed="T" n="0771c" xml:id="T50.2061.0771c"/><lb
-ed="T" n="0771c01"/>法。至<placeName key="PL000000002492">中山大像峯</placeName>間石室，孤坐冥寂，數夏安<lb
+ed="T" n="0771c01"/>法。至<placeName key="PL000000002492"><placeName>中山</placeName><placeName>大像峯</placeName></placeName>間石室，孤坐冥寂，數夏安<lb
 ed="T" n="0771c02"/>然。同好者望風而至，蔚成叢眾。陶化<placeName key="PL000000002513">博陵</placeName>，<lb
 ed="T" n="0771c03"/>人咸欣戴。會州帥<persName key="A010444">李<roleName>公</roleName>卓</persName>翹仰之切，命入城<lb
 ed="T" n="0771c04"/>住，貴親玄論。謝云：「野性難拘，不閑禮法，恐<lb
 ed="T" n="0771c05"/>玷威陵。」<persName key="A010444">卓</persName>躬登山訪問，欵密交談，深開昏<lb
 ed="T" n="0771c06"/>昧。遂奏院題額曰<placeName key="PL000000002496">定真</placeName>焉。<persName key="A010443">藏</persName>預白眾訣<lb
-ed="T" n="0771c07"/>別，明日坐亡，春秋八十<anchor xml:id="beg0771003"/>三<anchor xml:id="end0771003"/>。<date from-iso="+0800-02-03" key="j20132872013315" to-iso="+0800-03-02"><name>貞元</name>十六年正<lb
+ed="T" n="0771c07"/>別，明日坐亡，春秋八十<anchor xml:id="beg0771003"/><choice resp="sgsz"><sic>三</sic><corr>二</corr></choice><anchor xml:id="end0771003"/>。<date from-iso="+0800-02-03" key="j20132872013315" to-iso="+0800-03-02"><name>貞元</name>十六年正<lb
 ed="T" n="0771c08"/>月</date>入塔，立碑頌德云。</p>
     <linkGrp>
         <link targets="#0771b27 #0771b27"/>

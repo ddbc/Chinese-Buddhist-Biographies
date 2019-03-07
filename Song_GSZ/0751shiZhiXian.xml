@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" type="譯經" xml:id="gsz0717b23shiZhiXian"><lb
-ed="T" n="0717b23"/><anchor n="T.50.2061.0717b23"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date><placeName key="PL000000048202">波凌國</placeName><persName key="A000871">智賢</persName>傳<ptr target="#n72"/>（<persName key="A001438">會寧</persName>）</head><p><lb
+ed="T" n="0717b23"/><anchor n="T.50.2061.0717b23"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date><placeName key="PL000000048202">波凌國</placeName><persName key="A000871">智賢</persName>傳<ptr rend="display:none;" target="#n72"/>（<persName key="A001438">會寧</persName>）</head><p><lb
 ed="T" n="0717b24"/><persName key="A000871">釋若那跋陀羅</persName>，<name>華</name>言<persName key="A000871">智賢</persName>，<placeName key="PL000000048202">南海波凌</placeName>（亦曰<placeName key="PL000000048202">訶凌</placeName>）國<lb
 ed="T" n="0717b25"/>人也，善三藏學。<date notBefore-iso="+0664-02-05" key="j19636161964354" notAfter-iso="+0666-02-12"><name>麟德</name>年中</date>，有<placeName key="PL000000034785">成都</placeName>沙門<persName key="A001438">會<lb
 ed="T" n="0717b26"/>寧</persName>欲往<placeName key="PL000000048207">天竺</placeName>，觀<anchor xml:id="beg0717sgsz5"/>禮<anchor xml:id="end0717sgsz5"/>聖跡，泛舶西遊，路經<lb

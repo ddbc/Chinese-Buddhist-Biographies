@@ -1,44 +1,61 @@
 <?xml version='1.0' encoding='utf-8'?>
-<div xmlns="http://www.tei-c.org/ns/1.0" type="感通" xml:id="gsz0823b12shiHuiAn">
-    <anchor n="T.50.2061.0823b12"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date>嵩嶽少林寺<persName key="A010232">慧安</persName>傳</head><p><lb
-ed="T" n="0823b13"/><persName key="A010232">釋慧安</persName>，姓衛氏，<placeName key="PL000000027065">荊州支江</placeName>人也<ptr target="#n1161"/>。其貌端雅，紺<lb
-ed="T" n="0823b14"/>䰂<ptr type="glossary" target="#g635"/>青目，降神乃隋<date from-iso="+0581-03-06" key="j19333311935151" to-iso="+0586-02-28"><name>開皇</name>初年</date>也。<persName key="A010232">安</persName>受性寬裕，<lb
-ed="T" n="0823b15"/>不染俗塵，修學法門，無不該貫。<date from-iso="+0597-01-26" key="j19391361939519" to-iso="+0598-02-13">文帝十七<lb
-ed="T" n="0823b16"/>年</date>，勅條括天下私度僧尼，勘<persName key="A010232">安</persName>云，本無名<lb
-ed="T" n="0823b17"/>姓，亡入山谷。<date notBefore-iso="+0605-01-28" key="j19420591946768" notAfter-iso="+0617-12-20"><name>大業</name>中</date>，開通濟渠，追集夫丁，<lb
-ed="T" n="0823b18"/>飢殍相望。<persName key="A010232">安</persName>巡乞多鉢食，救其病乏，存濟<lb
-ed="T" n="0823b19"/>者眾。<persName key="A004413">煬帝</persName>聞之，詔<persName key="A010232">安</persName>，遂潛入<placeName key="PL000000026781">太和山</placeName>。至<persName key="A004413">帝</persName><lb
-ed="T" n="0823b20"/>幸<placeName key="PL000000010789">江都</placeName>，海內擾攘，乃杖錫登衡嶽寺<!--找不到此地-->，行頭<lb
-ed="T" n="0823b21"/>陀法。<date notBefore-iso="+0627-01-26" key="j19500921958296" notAfter-iso="+0649-07-13"><name>貞觀</name>中</date>，至<placeName key="PL000000028082">蘄州</placeName>，<anchor xml:id="beg0823sgsz6"/>禮<anchor xml:id="end0823sgsz6"/><persName key="A000237">忍大師</persName>。<date from-iso="+0664-02-05" key="j19636161963970" to-iso="+0665-01-24"><name>麟德</name>元年</date><lb
-ed="T" n="0823b22"/>遊<placeName key="PL000000042627">終南山</placeName>，石壁而止。時所居原谷之間，早霜<lb
+<div xmlns="http://www.tei-c.org/ns/1.0" type="感通" xml:id="gsz0823b12shiHuiAn"><lb
+ed="T" n="0823b12"/><anchor n="T.50.2061.0823b12"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date><placeName key="PL000000023255"><placeName>嵩嶽</placeName><placeName>少林寺</placeName></placeName><persName key="A010232">慧安</persName>傳</head><p><lb
+ed="T" n="0823b13"/><persName key="A010232">釋慧安</persName><ptr target="#n1161"/>，姓<name>衛</name>氏<ptr target="#n2336"/>，<placeName key="PL000000027065"><placeName>荊州</placeName><placeName>支江</placeName></placeName>人也。其貌端雅，紺<lb
+ed="T" n="0823b14"/>䰂<ptr rend="display:none;" type="glossary" target="#g635"/>青目，降神乃<placeName key="PL000000000105">隋</placeName><date notBefore-iso="+0581-03-06" key="j19333311935151" notAfter-iso="+0586-02-28"><name>開皇</name>初年</date>也。<persName key="A010232">安</persName>受性寬裕，<lb
+ed="T" n="0823b15"/>不染俗塵，修學法門，無不該貫。<persName key="A004324">文帝</persName><date from-iso="+0597-01-26" key="j19391361939519" to-iso="+0598-02-13">十七<lb
+ed="T" n="0823b16"/>年</date>，勅條括天下私度僧尼，勘<persName key="A010232">安</persName>，云本無名<lb
+ed="T" n="0823b17"/>姓，亡入山谷。<date notBefore-iso="+0605-01-28" key="j19420591946768" notAfter-iso="+0617-12-20"><name>大業</name>中</date>，開<placeName key="PL000000058505">通濟渠</placeName>，追集夫丁，<lb
+ed="T" n="0823b18"/>飢殍相望<ptr target="#n2338"/>。<persName key="A010232">安</persName>巡乞多鉢食，救其病乏，存濟<lb
+ed="T" n="0823b19"/>者眾。<persName key="A004413">煬帝</persName>聞之，詔<persName key="A010232">安</persName>，遂潛入<placeName key="PL000000026781">太和山</placeName>。至<ref type="person" target="#A004413">帝</ref><lb
+ed="T" n="0823b20"/>幸<placeName key="PL000000010789">江都</placeName>，海內擾攘，乃杖錫登<placeName key="PL000000028989">衡嶽寺</placeName>，行頭<lb
+ed="T" n="0823b21"/>陀法。<date notBefore-iso="+0627-01-26" key="j19500921958507" notAfter-iso="+0650-02-09"><name>貞觀</name>中</date>，至<placeName key="PL000000028082">蘄州</placeName>，<anchor xml:id="beg0823sgsz6"/>禮<anchor xml:id="end0823sgsz6"/><persName key="A000237">忍<roleName>大師</roleName></persName><ptr target="#n2339"/>。<date from-iso="+0664-02-05" key="j19636161963970" to-iso="+0665-01-24"><name>麟德</name>元年</date>，<lb
+ed="T" n="0823b22"/>遊<placeName key="PL000000042627">終南山</placeName>石壁而止。時所居原谷之間，早霜<lb
 ed="T" n="0823b23"/>傷苗稼，<persName key="A010232">安</persName>居處獨無。四十里外皆苦<persName key="A019431">青女</persName>之<lb
-ed="T" n="0823b24"/>災矣。<persName key="A002146">天皇大帝</persName>聞而召焉，<persName key="A010232">安</persName>不奉詔。<date from-iso="+0683-02-05" key="j19705561970883" to-iso="+0683-12-29"><name>永淳</name><lb
-ed="T" n="0823b25"/>二年</date>至<placeName key="PL000000024155">滑臺</placeName>，草亭居止，中坐繩床，四方坦<lb
-ed="T" n="0823b26"/>露。勅造寺以處之，號<placeName key="PL000000024132">招提</placeName>是也。如是却<lb
-ed="T" n="0823b27"/>還家鄉<placeName key="PL000000027023">玉泉寺</placeName>，時<persName key="A009582">神秀禪師</persName>新歸寂，咸請住<lb
-ed="T" n="0823b28"/>持。<persName key="A010232">安</persName>弗從命。<date from-iso="+0699-05-08" key="j19764921976520" to-iso="+0699-06-05">天后聖曆二年四月</date>，告門人<lb
+ed="T" n="0823b24"/>災矣。<persName key="A002146">天皇大帝</persName>聞而召焉，<persName key="A010232">安</persName>不奉詔<ptr target="#n2342"/>。<date from-iso="+0683-02-05" key="j19705561970883" to-iso="+0683-12-29"><name>永淳</name><lb
+ed="T" n="0823b25"/>二年</date><ptr target="#n2341"/>至<placeName key="PL000000024155">滑臺</placeName>，草亭居止，中坐繩床，四方坦<lb
+ed="T" n="0823b26"/>露。勅造寺以處之，號<placeName key="PL000000024132">招提</placeName>是也<ptr target="#n2340"/>。如是却<lb
+ed="T" n="0823b27"/>還家鄉<placeName key="PL000000027023">玉泉寺</placeName>，時<persName key="A009582">神秀<roleName>禪師</roleName></persName>新歸寂，咸請住<lb
+ed="T" n="0823b28"/>持。<persName key="A010232">安</persName>弗從命。<persName key="A002099">天后</persName><date from-iso="+0699-05-08" key="j19764921976520" to-iso="+0699-06-05"><name>聖曆</name>二年四月</date>，告門人<lb
 ed="T" n="0823b29"/>學眾曰：「各歸閉戶。」至三更，有神人至，扈<pb ed="T" n="0823c" xml:id="T50.2061.0823c"/><lb
-ed="T" n="0823c01"/>衛森森，和鈴鉠鉠，風雨偕至。其神旋繞其院<lb
+ed="T" n="0823c01"/>衛森森，和鈴<ptr type="glossary" target="#g1651"/>鉠鉠，風雨偕至。其神旋繞其院<lb
 ed="T" n="0823c02"/>數遭，<persName key="A010232">安</persName>與之語，丁寧教誡，再拜而去。或問其<lb
-ed="T" n="0823c03"/>故，曰：「吾為<placeName key="PL000000023253">嵩山</placeName>神受菩薩戒也。」<persName key="A002099">天后</persName>甞問<lb
+ed="T" n="0823c03"/>故，曰：「<ref type="person" target="#A010232">吾</ref>為<placeName key="PL000000023253">嵩山</placeName>神受菩薩戒<ptr type="glossary" target="#g120"/>也。」<persName key="A002099">天后</persName>甞問<lb
 ed="T" n="0823c04"/><persName key="A010232">安</persName>甲子，對曰：「不記也。」曰：「何不記耶？」乃曰：「生<lb
 ed="T" n="0823c05"/>死之身如循環乎？環無起盡，何用記為？而<lb
-ed="T" n="0823c06"/>又此心流注，<anchor xml:id="beg0823sgsz7"/>中間無閒<anchor xml:id="end0823sgsz7"/>，見漚起滅者，亦妄想<lb
+ed="T" n="0823c06"/>又此心流注<ptr type="glossary" target="#g1653"/>，<anchor xml:id="beg0823sgsz7"/>中間無閒<anchor xml:id="end0823sgsz7"/>，見漚起滅者，亦妄想<lb
 ed="T" n="0823c07"/>耳。從初識至動相滅時，亦只如此，何年月<lb
-ed="T" n="0823c08"/>可記耶？」<persName key="A002099">天后</persName>稽顙焉。聞<persName key="A010232">安</persName>闕井，勅為鑿焉。<lb
+ed="T" n="0823c08"/>可記耶？」<persName key="A002099">天后</persName>稽顙<ptr type="glossary" target="#g903"/>焉。聞<persName key="A010232">安</persName>闕井，勅為鑿焉。<lb
 ed="T" n="0823c09"/><persName key="A010232">安</persName>曰：「此下有赤祥，慎其傷物。」將及泉，見蝦<lb
-ed="T" n="0823c10"/>䗫金色，蠢然出沮洳間，合其懸記<ptr type="glossary" target="#g1165"/>。<persName key="A002100">帝</persName>倍加<lb
-ed="T" n="0823c11"/>欽重。殆<date from-iso="+0706-10-16" key="j19792091979237" to-iso="+0706-11-13">中宗<name>神龍</name>二年九月</date>，勅令中官<ptr type="glossary" target="#g932"/>賜紫<lb
-ed="T" n="0823c12"/>袈裟并絹，度弟子二七人。復詔<persName key="A010232">安</persName>并<persName key="A012115">靜禪<lb
-ed="T" n="0823c13"/>師</persName>入中禁受供施。<date from-iso="+0707-02-11" key="j19793271979566" to-iso="+0707-10-08">三年</date>，賜摩納一副，便辭<lb
+ed="T" n="0823c10"/>䗫金色，蠢然出沮洳<ptr type="glossary" target="#g1654"/>間，合其懸記<ptr type="glossary" target="#g1165"/>。<ref type="person" target="#A002099">帝</ref>倍加<lb
+ed="T" n="0823c11"/>欽重。殆<persName key="A002100">中宗</persName><date from-iso="+0706-10-16" key="j19792091979237" to-iso="+0706-11-13"><name>神龍</name>二年九月</date>，勅令中官<ptr type="glossary" target="#g932"/>賜紫<lb
+ed="T" n="0823c12"/>袈裟并絹，度弟子二七人。復詔<persName key="A010232">安</persName>并<persName key="A012115">靜<name>禪<lb
+ed="T" n="0823c13"/>師</name></persName>入中禁受供施。<date from-iso="+0707-02-11" key="j19793271979566" to-iso="+0707-10-08">三年</date>，賜摩納<ptr type="glossary" target="#g1327"/>一副，便辭<lb
 ed="T" n="0823c14"/>歸<placeName key="PL000000023255">少林寺</placeName>。至<date key="j19801271980127" when-iso="+0709-04-21"><name>景龍</name>三年三月三日</date><ptr target="#n515"/>，囑門人<lb
-ed="T" n="0823c15"/>曰：「<persName key="A010232">吾</persName>死已，將屍向林間，待野火自焚之。勿<lb
-ed="T" n="0823c16"/>違<persName key="A010232">吾</persName>願！」俄爾萬迴和尚來見，<persName key="A010232">安</persName>猖狂執手，<lb
-ed="T" n="0823c17"/>言論移刻，旁侍傾耳都不體會。至<date key="j19801321980132" when-iso="+0709-04-26">八日</date>，閉<lb
+ed="T" n="0823c15"/>曰：「<ref type="person" target="#A010232">吾</ref>死已，將屍向林間，待野火自焚之。勿<lb
+ed="T" n="0823c16"/>違<ref type="person" target="#A010232">吾</ref>願！<ptr target="#n2337"/>」俄爾<persName key="A011670">萬迴</persName>和尚來見，<persName key="A010232">安</persName>猖狂執手，<lb
+ed="T" n="0823c17"/>言論移刻<ptr type="glossary" target="#g1655"/>，旁侍傾耳都不體會。至<date key="j19801321980132" when-iso="+0709-04-26">八日</date>，閉<lb
 ed="T" n="0823c18"/>戶，偃身而寂。春秋一百三十許歲，起<date from-iso="+0582-02-11" key="j19336731934026" to-iso="+0583-01-30"><name>開皇</name><lb
 ed="T" n="0823c19"/>二年</date>，至<date from-iso="+0709-02-19" key="j19800661980419" to-iso="+0710-02-07"><name>景龍</name>三年</date>故也。火焚屍畢，收舍利<lb
 ed="T" n="0823c20"/>八十粒，內五粒紅紫色進內，餘散施隨力<lb
-ed="T" n="0823c21"/>造塔。<date from-iso="+0713-02-04" key="j19815121981836" to-iso="+0713-12-25"><name>先天</name>二年</date>門人建浮圖焉。</p>
+ed="T" n="0823c21"/>造塔。<date from-iso="+0713-02-04" key="j19815121981836" to-iso="+0713-12-25"><name>先天</name>二年</date>門人建浮圖焉<ptr target="#n2343"/>。</p>
+    <linkGrp>
+        <link targets="#0823b13 #0823b14"/>
+        <ptr target="#A010232" type="person"/>
+        <ptr target="#PL000000027065" type="place"/>
+        <ptr target="#j19333311935151" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0823b15 #0823b17"/>
+        <ptr target="#A010232" type="person"/>
+        <ptr target="#j19391361939519" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0823b17 #0823b19"/>
+        <ptr target="#A010232" type="person"/>
+        <ptr target="#PL000000058505" type="place"/>
+        <ptr target="#j19420591946768" type="time"/>
+    </linkGrp>
     <linkGrp>
         <link targets="#0823b19 #0823b19"/>
         <ptr target="#A010232" type="person"/>
@@ -59,7 +76,7 @@ ed="T" n="0823c21"/>造塔。<date from-iso="+0713-02-04" key="j19815121981836" 
         <ptr target="#A010232" type="person"/>
         <ptr target="#A000237" type="person"/>
         <ptr target="#PL000000028082" type="place"/>
-        <ptr target="#j19500921958296" type="time"/>
+        <ptr target="#j19500921958507" type="time"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0823b21 #0823b23"/>
@@ -84,25 +101,38 @@ ed="T" n="0823c21"/>造塔。<date from-iso="+0713-02-04" key="j19815121981836" 
         <ptr target="#PL000000027023" type="place"/>
     </linkGrp>
     <linkGrp>
+        <link targets="#0823b28 #0823c03"/>
+        <ptr target="#A010232" type="person"/>
+        <ptr target="#PL000000023253" type="place"/>
+        <ptr target="#j19764921976520" type="time"/>
+    </linkGrp>
+    <linkGrp>
         <link targets="#0823c03 #0823c08"/>
         <ptr target="#A010232" type="person"/>
         <ptr target="#A002099" type="person"/>
     </linkGrp>
     <linkGrp>
-        <link targets="#0823c08 #0823c10"/>
+        <link targets="#0823c08 #0823c11"/>
         <ptr target="#A010232" type="person"/>
-        <ptr target="#A002100" type="person"/>
+        <ptr target="#A002099" type="person"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0823c11 #0823c13"/>
         <ptr target="#A010232" type="person"/>
         <ptr target="#A002100" type="person"/>
+        <ptr target="#A012115" type="person"/>
         <ptr target="#j19792091979237" type="time"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0823c13 #0823c14"/>
         <ptr target="#A010232" type="person"/>
         <ptr target="#A002100" type="person"/>
+        <ptr target="#j19793271979566" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0823c13 #0823c14"/>
+        <ptr target="#A010232" type="person"/>
+        <ptr target="#PL000000023255" type="place"/>
         <ptr target="#j19793271979566" type="time"/>
     </linkGrp>
     <linkGrp>

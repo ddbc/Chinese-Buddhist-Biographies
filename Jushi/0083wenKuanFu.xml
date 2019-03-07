@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="jsz0219c15wenKuanFu">
+    <p><anchor n="X.88.1646.0219c15"/><lb ed="X" n="0219c15"/><persName key="A007247">文寬夫</persName>名<persName key="A007247">彥博</persName>。汾州<placeName key="PL000000004872">介休</placeName>人也。歷仕<persName key="A006606">仁</persName><persName key="A004800">英</persName><persName key="A003936">神</persName><persName key="A003934">哲</persName>四朝。<lb ed="X" n="0219c16"/>出入將相五十餘年。官至太師。甞兼譯經潤文使。封<lb ed="X" n="0219c17"/>潞國公。初鎮<placeName key="PL000000001538">北京</placeName>。時<persName key="A017499">華嚴洞老</persName>來別。<persName key="A007247">寬夫</persName>曰。法師老<lb ed="X" n="0219c18"/>矣復何往。曰入滅去。<persName key="A007247">寬夫</persName>以為戲言。既去。使人候之。<lb ed="X" n="0219c19"/>果入滅矣。大異之。及闍維。親往臨視。以琉璃瓶置座<lb ed="X" n="0219c20"/>前祝曰。佛法果靈。願舍利入吾瓶。俄有煙自空而降<lb ed="X" n="0219c21"/>入瓶中。傾之獲舍利無算。乃皈信佛法。晚向道益力。<lb ed="X" n="0219c22"/>專念<persName key="A002843">阿彌陀佛</persName>。晨夕行坐未甞少懈。發願云。願我常<lb ed="X" n="0219c23"/>精進。勤修一切善。願我了心宗。廣度諸含識。居<placeName key="PL000000023468">京師</placeName><lb ed="X" n="0219c24"/>與<persName key="A017504">淨嚴法師</persName>集十萬人為淨土會。年九十二卒。諡<persName key="A007247">忠<lb ed="X" n="0220a01"/>烈</persName>(東都事略．林間錄．佛祖統紀．佛法金湯)。</p> 
+    
+    <linkGrp>
+        <link targets="#0219c17 #0219c21"/>
+        <ptr target="#A007247" type="person"/>
+        <ptr target="#A017499" type="person"/>
+        <ptr target="#PL000000001538" type="place"/>
+        </linkGrp>
+    <linkGrp>
+        <link targets="#0219c23 #0219c24"/>
+        <ptr target="#A007247" type="person"/>
+        <ptr target="#A017504" type="person"/>
+        <ptr target="#PL000000023468" type="place"/>
+        </linkGrp>
+ </div>

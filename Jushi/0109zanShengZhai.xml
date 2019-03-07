@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="jsz0227b11zanShengZhai">
+    <p><anchor n="X.88.1646.0227b11"/><lb ed="X" n="0227b11"/><persName key="A017743">昝省齋</persName>名<persName key="A017743">定國</persName>。<placeName key="PL000000012198">明州</placeName>人。為州學諭。常修淨業。結西歸<lb ed="X" n="0227b12"/>社。<date key="j21597592160120" to-iso="1202-02-08" from-iso="1201-02-12">嘉泰初</date>於小江慧光建<placeName key="PL000000012157">淨土院</placeName>。結石塔於池。為鄉<lb ed="X" n="0227b13"/>民藏骨之所。月二八日集僧俗院中誦觀經及佛號。<lb ed="X" n="0227b14"/>為擘窠圖。勸人念佛。有鐵工<persName key="A017744">計公</persName>者。年將七十。喪明。<lb ed="X" n="0227b15"/>因從受念佛圖。誦至四圖。兩目瞭然。如是三載。滿十<lb ed="X" n="0227b16"/>七圖。一日方念佛次。忽瞑半日復甦。謂其子曰。我已<lb ed="X" n="0227b17"/>見<placeName key="PL000000055477">西方</placeName>佛菩薩矣。<persName key="A017743">昝學諭</persName>是勸導之首。當分六圖與<lb ed="X" n="0227b18"/>之。並為致謝也。西向坐逝。<date from-iso="1211-01-24" key="j21633922163775" to-iso="1212-02-11">嘉定四年</date>。<persName key="A017743">省齋</persName>夢青童告<lb ed="X" n="0227b19"/>曰。佛今告君三日當往生彼國。至日沐浴更衣速稱<lb ed="X" n="0227b20"/>佛號。端坐而化(佛祖統記)。</p> 
+    
+    <linkGrp>
+        <link targets="#0227b11 #0227b14"/>
+        <ptr target="#A017743" type="person"/>
+        <ptr target="#PL000000012157" type="place"/>
+        </linkGrp>
+    <linkGrp>
+        <link targets="#0227b14 #0227b18"/>
+        <ptr target="#A017743" type="person"/>
+        <ptr target="#A017744" type="person"/>
+        <ptr target="#PL000000012198" type="place"/>
+        </linkGrp>
+    <linkGrp>
+        <link targets="#0227b18 #0227b20"/>
+        <ptr target="#A017743" type="person"/>
+        <ptr target="#PL000000012198" type="place"/>
+        <ptr target="#j21633922163775" type="time"/>
+    </linkGrp>
+ </div>

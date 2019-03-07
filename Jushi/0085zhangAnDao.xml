@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="jsz0220a12zhangAnDao">
+    <p><anchor n="X.88.1646.0220a12"/><lb ed="X" n="0220a12"/><persName key="A003619">張安道</persName>名<persName key="A003619">方平</persName>。<placeName key="PL000000025550">宋城</placeName>人。累官太子太師。敡歷中外。望<lb ed="X" n="0220a13"/>重一世。<date from-iso="1041-12-22" key="j21016332104240" to-iso="1049-02-10">慶歷中</date>為<placeName key="PL000000015718">滁州</placeName>守。遊<placeName key="PL000000015725">瑯琊山</placeName>。抵藏院。偶見楞<lb ed="X" n="0220a14"/>伽經。取視之。恍然如獲舊物。讀至世間離生滅。猶如<lb ed="X" n="0220a15"/>虗空華。宿障氷釋。遂明心要。作偈曰。一念在生滅。千<lb ed="X" n="0220a16"/>機縛有無。神鋒輕舉處。透出走盤珠。暮年以此經授<lb ed="X" n="0220a17"/><persName key="A003555">蘇子瞻</persName>。輔以錢三十萬使印施江淮間。<persName key="A007519">王介甫</persName>問<persName key="A003619">安<lb ed="X" n="0220a18"/>道</persName>曰。<persName key="A002174">孔</persName><persName key="A004486">孟</persName>去世後千餘年。絕無人焉。何也。<persName key="A003619">安道</persName>曰。豈<lb ed="X" n="0220a19"/>為無人。亦有過之者。<persName key="A007519">介甫</persName>曰何人。<persName key="A003619">安道</persName>曰。<persName key="A003623">馬祖一</persName>。<persName key="A010451">汾<lb ed="X" n="0220a20"/>陽無業</persName>。<persName key="A003677">雪峯存</persName>。<persName key="A008167">巖頭奯</persName>。<persName key="A009460">丹霞然</persName>。<persName key="A003703">雲門偃</persName>。<persName key="A007519">介甫</persName>未喻。<persName key="A003619">安<lb ed="X" n="0220a21"/>道</persName>曰。儒門淡泊。收拾不住。皆歸釋氏耳。<persName key="A007519">介甫</persName>歎服。後<lb ed="X" n="0220a22"/>以語<persName key="A001050">張天覺</persName>。<persName key="A001050">天覺</persName>撫几曰。至哉此論也。卒諡<persName key="A003619">文定</persName>(<persName key="A003555">東坡</persName><lb ed="X" n="0220a23"/>文集．佛祖統紀)。</p> 
+    
+    <linkGrp>
+        <link targets="#0220a13 #0220a16"/>
+        <ptr target="#A003619" type="person"/>
+        <ptr target="#PL000000015725" type="place"/>
+        <ptr target="#j21016332104240" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0220a16 #0220a17"/>
+        <ptr target="#A003619" type="person"/>
+        <ptr target="#A003555" type="person"/>
+        <ptr target="unknown" type="place"/>
+        </linkGrp>
+    <linkGrp>
+        <link targets="#0220a17 #0220a21"/>
+        <ptr target="#A003619" type="person"/>
+        <ptr target="#A007519" type="person"/>
+        <ptr target="unknown" type="place"/>
+        </linkGrp>
+    <linkGrp>
+        <link targets="#0220a17 #0220a21"/>
+        <ptr target="#A001050" type="person"/>
+        <ptr target="#A007519" type="person"/>
+        <ptr target="unknown" type="place"/>
+        </linkGrp>
+ </div>

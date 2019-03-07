@@ -1,22 +1,22 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" type="讀誦" xml:id="gsz0866c05shiZhiDeng"><lb
-ed="T" n="0866c05"/><anchor n="T.50.2061.0866c05"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date><placeName key="PL000000027758">荊州天崇寺</placeName><persName key="A013573">智燈</persName>傳</head><p><lb
+ed="T" n="0866c05"/><anchor n="T.50.2061.0866c05"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date><placeName key="PL000000027758"><placeName>荊州</placeName><placeName>天崇寺</placeName></placeName><persName key="A013573">智燈</persName>傳</head><p><lb
 ed="T" n="0866c06"/><persName key="A013573">釋智燈</persName>，不知何許人也<ptr target="#n687"/>。矜莊<anchor xml:id="beg0866sgsz13"/>己<anchor xml:id="end0866sgsz13"/>行，嚴厲時<lb
-ed="T" n="0866c07"/>中，守護戒科，恒持金剛般若，勤不知倦。<date key="j20078242015139" notAfter-iso="+0805-02-28" notBefore-iso="+0785-02-18">貞<lb
-ed="T" n="0866c08"/>元中</date>，遇疾而死。弟子啟手猶熱，不即入木。<lb
+ed="T" n="0866c07"/>中，守護戒科，恒持《金剛般若》<ptr target="#n3066"/>，勤不知倦。<date notBefore-iso="+0785-02-18" key="j20078242015139" notAfter-iso="+0805-02-28"><name>貞<lb
+ed="T" n="0866c08"/>元</name>中</date>，遇疾而死。弟子啟手猶熱，不即入木。<lb
 ed="T" n="0866c09"/>經七日還蘇，云：「初見冥中若王者，以念經<lb
-ed="T" n="0866c10"/>故，合掌降階，因問訊曰：『更容上人十年在<lb
-ed="T" n="0866c11"/>世，勉出生死。』因問：『人間眾僧中後食薏苡<lb
-ed="T" n="0866c12"/><anchor xml:id="beg0866sgsz15"/>仁<anchor xml:id="end0866sgsz15"/>為藥食，還是已否？』曰：『此大違本教。』<persName key="A013573">燈</persName>報<lb
-ed="T" n="0866c13"/>云：『律中有正非正開遮之條如何？』王曰：『此<lb
+ed="T" n="0866c10"/>故，合掌降階，因問訊曰：『更容<ref type="person" target="#A013573">上人</ref>十年在<lb
+ed="T" n="0866c11"/>世，勉<ptr type="glossary" target="#g2008"/>出生死。』因問：『人間眾僧中後食薏苡<lb
+ed="T" n="0866c12"/><anchor xml:id="beg0866sgsz15"/>仁<anchor xml:id="end0866sgsz15"/><ptr type="glossary" target="#g2009"/>為藥食<ptr type="glossary" target="#g2010"/>，還是已否？』曰：『此大違本教。』<ptr target="#n3068"/><persName key="A013573">燈</persName>報<lb
+ed="T" n="0866c13"/>云：『律中有正、非正開遮<ptr type="glossary" target="#g1222"/>之條如何？<ptr target="#n3067"/>』王曰：『此<lb
 ed="T" n="0866c14"/>乃後人加之，非佛意也。』」遠近聞之，<placeName key="PL000000027764">渚宮</placeName>僧<lb
-ed="T" n="0866c15"/><choice resp="sgsz"><sic>至有中後無有飲水者</sic><corr>僧衆中後無飲藥者</corr></choice><ptr target="#n688"/>。</p><p xml:id="pT50p0866c1601"><lb
-ed="T" n="0866c16"/>系曰：小乘尚開食五淨物，薏苡非五穀正<lb
+ed="T" n="0866c15"/>至有中後無有飲水者<ptr target="#n688"/>。</p><p xml:id="pT50p0866c1601"><lb
+ed="T" n="0866c16"/>系曰：小乘尚開食五淨物<ptr type="glossary" target="#g2011"/>，薏苡非五穀正<lb
 ed="T" n="0866c17"/>食也。疑其冥官因機垂誡，嫌于時比丘太<lb
 ed="T" n="0866c18"/>慢戒法，故此嚴警開制。實諸佛常法也，非<lb
 ed="T" n="0866c19"/>後人之加釀焉。</p>
     <linkGrp>
-        <link targets="#0866c06 #0866c06"/>
+        <link targets="#0866c05 #0866c05"/>
         <ptr target="#A013573" type="person"/>
         <ptr target="#PL000000027758" type="place"/>
     </linkGrp>

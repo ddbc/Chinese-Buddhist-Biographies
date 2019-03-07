@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="jsz0227a07yanBangRong">
+    <p><anchor n="X.88.1646.0227a07"/><lb ed="X" n="0227a07"/><persName key="A017703">閻邦榮</persName>池州<placeName key="PL000000016921">青陽</placeName>人。中年甞遇僧勸修淨業。持往生<lb ed="X" n="0227a08"/>呪。遂斷葷血。每旦向西誦呪千遍。又率諸男女同聲<lb ed="X" n="0227a09"/>誦之。積二十年。<date key="j21557432155743" when-iso="1190-02-14">紹熈元年正月朔</date>。閱大涅槃經歎曰。<lb ed="X" n="0227a10"/>人生夢幻耳。吾何戀乎。<date key="j21558022155802" when-iso="1190-04-14">三月朔</date>。聞異香芬馥彌日不<lb ed="X" n="0227a11"/>歇。其子夢<persName key="A002843">阿彌陀佛</persName>放大光明。徧照堂宇皆作金色。<lb ed="X" n="0227a12"/><date key="j21558072155807" when-iso="1190-04-19">越五日</date>晨起。如常課誦訖。顧家人曰。我今日當行。慎<lb ed="X" n="0227a13"/>勿相攪。遂面西瞑目跏趺而坐。日過中。瞿然起曰。我<lb ed="X" n="0227a14"/>去也。便起立。行數步。舒手結印微笑而化(樂邦文類)。</p> 
+    
+    <linkGrp>
+        <link targets="#0227a09 #0227a10"/>
+        <ptr target="#A017703" type="person"/>
+        <ptr target="#PL000000016921" type="place"/>
+        <ptr target="#j21557432155743" type="time"/>
+    </linkGrp> 
+    <linkGrp>
+        <link targets="#0227a12 #0227a14"/>
+        <ptr target="#A017703" type="person"/>
+        <ptr target="#PL000000016921" type="place"/>
+        <ptr target="#j21558072155807" type="time"/>
+    </linkGrp>
+ </div>

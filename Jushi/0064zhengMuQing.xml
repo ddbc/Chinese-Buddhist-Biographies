@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="jsz0211b17zhengMuQing">
+    <p><anchor n="X.88.1646.0211b17"/><lb ed="X" n="0211b17"/><persName key="A016990">鄭牧卿</persName><placeName key="PL000000023194">滎陽</placeName>人。舉家修淨業。<date from-iso="0733-01-25" key="j19888071989190" to-iso="0734-02-12">開元中</date><!-- 開元二十一年，請參閱(X78n1546_p0157b05) -->病篤。或勸進魚<lb ed="X" n="0211b18"/>肉。不許。手執香爐一心西向。忽聞異香蔚然。遂逝。其<lb ed="X" n="0211b19"/>舅尚書<persName key="A009912">蘇頲</persName>。夢寶蓮華開。<persName key="A016990">牧卿</persName>坐其上(佛祖統紀)。</p> 
+    
+    <linkGrp>
+        <link targets="#0211b17 #0211b18"/>
+        <ptr target="#A016990" type="person"/>
+        <ptr target="#PL000000023194" type="place"/>
+        <ptr target="#j19888071989190" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0211b19 #0211b19"/>
+        <ptr target="#A016990" type="person"/>
+        <ptr target="#A009912" type="person"/>
+        <ptr target="unknown" type="place"/>
+        <ptr target="#j19888071989190" type="time"/>
+    </linkGrp>
+ </div>

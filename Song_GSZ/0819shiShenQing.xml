@@ -1,13 +1,13 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" type="義解" xml:id="gsz0740c17shiShenQing"><lb
-ed="T" n="0740c17"/><anchor n="T.50.2061.0740c17"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date><placeName key="PL000000035459">梓州慧義寺</placeName><persName key="A000988">神清</persName>傳（<persName key="A018957">義將</persName>）</head><p><lb
-ed="T" n="0740c18"/><persName key="A000988">釋神清</persName>，字<persName key="A000988">靈庾</persName>，俗姓章氏，<placeName key="PL000000035636">綿州昌明</placeName>人也。<lb
+ed="T" n="0740c17"/><anchor n="T.50.2061.0740c17"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date><placeName key="PL000000035459"><placeName>梓州</placeName><placeName>慧義寺</placeName></placeName><persName key="A000988">神清</persName>傳（<persName key="A018957">義將</persName>）</head><p><lb
+ed="T" n="0740c18"/><persName key="A000988">釋神清</persName>，字<persName key="A000988">靈庾</persName>，俗姓<name>章</name>氏，<placeName key="PL000000035636"><placeName>綿州</placeName><placeName>昌明</placeName></placeName>人也。<lb
 ed="T" n="0740c19"/>生于<placeName key="PL000000055633">大安山</placeName>下，昆季相次三人出俗，皆有<lb
 ed="T" n="0740c20"/>名望，<persName key="A000988">清</persName>居乎仲。處胎之際，母頓惡葷羶。及<lb
-ed="T" n="0740c21"/>為兒，雖隨戲弄，遇像<anchor xml:id="beg0740sgsz4"/>禮<anchor xml:id="end0740sgsz4"/>足，逢僧稽顙<ptr type="glossary" target="#g903"/>。年十<lb
-ed="T" n="0740c22"/>三，受學於<placeName key="PL000000055635">綿州開元寺</placeName><persName key="A009655">辯智法師</persName>。于時勅條<lb
+ed="T" n="0740c21"/>為兒，雖隨戲弄，遇像<anchor xml:id="beg0740sgsz8"/>禮<anchor xml:id="end0740sgsz8"/>足，逢僧稽顙<ptr type="glossary" target="#g903"/>。年十<lb
+ed="T" n="0740c22"/>三，受學於<placeName key="PL000000055635"><placeName>綿州</placeName><placeName>開元寺</placeName></placeName><persName key="A009655">辯智<roleName>法師</roleName></persName>。于時勅條<lb
 ed="T" n="0740c23"/>嚴峻，出家者限念經千紙，方許落髮。<persName key="A000988">清</persName>即<lb
-ed="T" n="0740c24"/>誦《法華》、《維摩》、《楞伽》、《佛頂》等經，有同再理。時<lb
+ed="T" n="0740c24"/>誦《法華》、《維摩》、《楞伽》<ptr target="#n52"/>、《佛頂》<ptr target="#n3308"/>等經，有同再理。時<lb
 ed="T" n="0740c25"/>故相<persName key="A009656">喬琳</persName>為<placeName key="PL000000035429">綿郡</placeName>太守，驚其幼俊，躬而降<lb
 ed="T" n="0740c26"/>禮請削染焉，則<date notBefore-iso="+0766-12-22" key="j20011912005747" notAfter-iso="+0779-06-13"><name>大曆</name>中</date>也。至年十七，聽習<lb
 ed="T" n="0740c27"/>粗通，即講《法華》一經。歲滿，<placeName key="PL000000035459">慧義寺</placeName>依<persName key="A009657">如律<lb
@@ -19,23 +19,23 @@ ed="T" n="0741a03"/>門蘭若</placeName>，即<placeName key="PL000000035491">�
 ed="T" n="0741a04"/>喜作編聯，蓋巨富其才，亦鑿深于學。三教<lb
 ed="T" n="0741a05"/>俱曉，該<ptr rend="display:none;" type="glossary" target="#g350"/>玄鑒極，彝倫咸敘<ptr type="glossary" target="#g907"/>，萬人之敵也。受業<lb
 ed="T" n="0741a06"/>弟子黑白四方，計一千餘人。前後撰成《法華<lb
-ed="T" n="0741a07"/>玄箋》十卷，《釋氏年誌》三十卷。《新律疏要訣》十<lb
-ed="T" n="0741a08"/>卷，亦謂《清鈔》，《二眾初學儀》一卷，《有宗七十五<lb
-ed="T" n="0741a09"/>法疏》一卷，亦名《法源記》。此蓋解小乘所計<lb
+ed="T" n="0741a07"/>玄箋》十卷、《釋氏年誌》三十卷、《新律疏要訣》十<lb
+ed="T" n="0741a08"/>卷──亦謂《清鈔》、《二眾初學儀》一卷、《有宗七十五<lb
+ed="T" n="0741a09"/>法疏》一卷──亦名《法源記》。此蓋解小乘所計<lb
 ed="T" n="0741a10"/>五位色心、心所不相應無為等法，體性業用，<lb
 ed="T" n="0741a11"/>一皆詳括，故云「法源」也。《識心論》、《澄觀論》、《俱舍<lb
 ed="T" n="0741a12"/>義鈔》<ptr target="#n325"/>數卷，《北山參玄語錄》<ptr target="#n326"/>十卷，都計百餘軸，<lb
 ed="T" n="0741a13"/>並行於代。就中《語錄》博該<ptr rend="display:none;" type="glossary" target="#g350"/>三教，最為南北<lb
 ed="T" n="0741a14"/>鴻儒、名僧、高士之所披翫焉。<ref type="place" target="#PL000000035459">寺</ref>居<placeName key="PL000000035491">郪城</placeName>之<lb
-ed="T" n="0741a15"/>北，<placeName key="PL000000055638">長平山</placeName>陰，故云「<placeName key="PL000000035459">北山</placeName>」，統三教玄旨，實而為<lb
+ed="T" n="0741a15"/>北，<placeName key="PL000000055638">長平山</placeName>陰，故云「北山」，統三教玄旨，實而為<lb
 ed="T" n="0741a16"/>錄，故云《參玄》也。觀<persName key="A000988">清</persName>之述作，少分明二權<lb
 ed="T" n="0741a17"/>一實<ptr type="glossary" target="#g908"/>之經旨，大分明小乘律論之深奧焉。<persName key="A000988">清</persName><lb
 ed="T" n="0741a18"/>貌古且奇，皙白而光瑩。相國<persName key="A009660">崔龜從</persName>時從事<lb
-ed="T" n="0741a19"/><placeName key="PL000000035490">東川</placeName>，序真讚云：「與<persName key="A000294">奘三藏</persName>道顏同，攝物異，<lb
+ed="T" n="0741a19"/><placeName key="PL000000035490">東川</placeName>，序真讚云：「與<persName key="A000294">奘<roleName>三藏</roleName></persName>道顏同，攝物異，<lb
 ed="T" n="0741a20"/>時一體耳。」門人數多，其出倫者<persName key="A018957">義將</persName>也。獨<lb
-ed="T" n="0741a21"/>明《俱舍》，兼善《起信》，海內學人望風而至。<date notBefore-iso="+0836-01-26" key="j20264282027904" notAfter-iso="+0840-02-10">開<lb
-ed="T" n="0741a22"/>成中</date>北山俱舍宗不泯者，<persName key="A000988">清</persName>之餘素乎。<placeName key="PL000000035490">東川</placeName><lb
-ed="T" n="0741a23"/>涌潭<ptr target="#n909"/>僧正<persName key="A009661">顏公</persName>著碑，<ref type="place" target="#PL000000035459">本寺</ref>講律臨壇<persName key="A009662">光肇</persName>，<lb
+ed="T" n="0741a21"/>明《俱舍》<ptr target="#n1429"/>，兼善《起信》<ptr target="#n3277"/>，海內學人望風而至。<date notBefore-iso="+0836-01-26" key="j20264282027904" notAfter-iso="+0840-02-10"><name>開<lb
+ed="T" n="0741a22"/>成</name>中</date>北山俱舍宗不泯者，<persName key="A000988">清</persName>之餘素乎。<placeName key="PL000000035490">東川</placeName><lb
+ed="T" n="0741a23"/>涌潭<ptr rend="display:none;" target="#n909"/>僧正<persName key="A009661">顏<roleName>公</roleName></persName>著碑，<ref type="place" target="#PL000000035459">本寺</ref>講律臨壇<persName key="A009662">光肇</persName>，<lb
 ed="T" n="0741a24"/>別附《語錄》，略記<persName key="A000988">清</persName>言行矣。</p>
     <linkGrp>
         <link targets="#0740c18 #0740c18"/>

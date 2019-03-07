@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="jsz0220a24zhaoYueDao">
+    <p><anchor n="X.88.1646.0220a24"/><lb ed="X" n="0220a24"/><persName key="A005166">趙閱道</persName>名<persName key="A005166">忭</persName>。衢州<placeName key="PL000000013658">西安</placeName>人。氣宇清逸。喜慍不形於色。<lb ed="X" n="0220b01"/><date from-iso="1022-03-29" key="j20944252109438" to-iso="1063-05-06"><persName key="A006606">仁宗</persName>朝</date>官御史。勁直敢言。<date from-iso="1067-01-31" key="j21108042117444" to-iso="1085-04-06"><persName key="A003936">神宗</persName>朝</date>擢參知政事。屢陳<lb ed="X" n="0220b02"/>新法之害。歷知諸州。民懷其惠。<persName key="A005166">閱道</persName>年四十餘。屏去<lb ed="X" n="0220b03"/>聲色。居常蔬食。究心宗教。初在<placeName key="PL000000013659">衢</placeName>與<persName key="A017527">慧來禪師</persName>遊。<persName key="A017527">慧<lb ed="X" n="0220b04"/>來</persName>不容措一辭。及在<placeName key="PL000000021108">青州</placeName>時時冥坐。忽聞雷震。大悟<lb ed="X" n="0220b05"/>作偈曰。默坐公堂虗隱几。心源不動湛如水。一聲霹<lb ed="X" n="0220b06"/>靂頂門開。喚起從前自家的。<persName key="A017527">慧來</persName>聞而笑曰。<persName key="A005166">趙閱道</persName><lb ed="X" n="0220b07"/>撞彩耳。<date key="j21148142115471" to-iso="1079-11-11" from-iso="1078-01-23">元豐初</date>以太子太保致仕。作<placeName key="PL000000013635">高齋</placeName>居之。禪誦<lb ed="X" n="0220b08"/>精嚴。日延一僧與之對飯。甞作偈曰。腰佩黃金已退<lb ed="X" n="0220b09"/>藏。箇中消息也尋常。時人要識<placeName key="PL000000013635">高齋</placeName>老。只是柯村<persName key="A005166">趙<lb ed="X" n="0220b10"/>四郎</persName>。注云。切忌錯認。日所為事。夜必露香以告於天。<lb ed="X" n="0220b11"/><date from-iso="1084-02-15" key="j21170282117382" to-iso="1085-02-03">七年</date>卒。年七十七。先期徧辭親友。其子<persName key="A017530">屼</persName>。見其形色<lb ed="X" n="0220b12"/>異常。問後事。<persName key="A005166">閱道</persName>厲聲叱之。遺<persName key="A017527">慧來</persName>書曰。非師平日<lb ed="X" n="0220b13"/>警誨。至此必不得力矣。少頃趺坐而化(東都事略．五燈會元．<persName key="A005166">趙清<lb ed="X" n="0220b14"/>獻</persName>集)。<lb ed="X" n="0220b15"/><persName key="A001188">知歸子</persName>曰。<persName key="A009420">明遠</persName>之學於天台三觀之旨。知所致力矣。<lb ed="X" n="0220b16"/><persName key="A017492">子正</persName>與<persName key="A001446">楊大年</persName>並號參禪有得。觀其去來之際。非其<lb ed="X" n="0220b17"/>驗耶。<ref target="#A007247" type="person">文</ref><ref target="#A004864" type="person">富</ref><ref target="#A003619" type="person">張</ref><ref target="#A005166" type="person">趙</ref>平生勳德具載於史。<ref target="#A001188" type="person">予</ref>獨序其學道<lb ed="X" n="0220b18"/>之始卒。以著其所存者如此。<lb ed="X" n="0220b19"/><persName key="A015017">汪大紳</persName>云。以<ref target="#A007247" type="person">文</ref><ref target="#A004864" type="person">富</ref>勳名若未了此一著。亦祇是一<lb ed="X" n="0220b20"/>場大夢耳。讀至此。令我勳名之念氷消矣。</p> 
+    
+    <linkGrp>
+        <link targets="#0220b01 #0220b01"/>
+        <ptr target="#A005166" type="person"/>
+        <ptr target="#A006606" type="person"/>
+        <ptr target="unknown" type="place"/>
+        <ptr target="#j20944252109438" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0220b01 #0220b02"/>
+        <ptr target="#A005166" type="person"/>
+        <ptr target="#A003936" type="person"/>
+        <ptr target="unknown" type="place"/>
+        <ptr target="#j21108042117444" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0220b03 #0220b04"/>
+        <ptr target="#A005166" type="person"/>
+        <ptr target="#A017527" type="person"/>
+        <ptr target="unknown" type="place"/>
+        </linkGrp>
+    <linkGrp>
+        <link targets="#0220b07 #0220b07"/>
+        <ptr target="#A005166" type="person"/>
+        <ptr target="#PL000000013635" type="place"/>
+        </linkGrp>
+    <linkGrp>
+        <link targets="#0220b11 #0220b13"/>
+        <ptr target="#A005166" type="person"/>
+        <ptr target="#A017527" type="person"/>
+        <ptr target="#A017530" type="person"/>
+        <ptr target="unknown" type="place"/>
+        <ptr target="#j21170282117382" type="time"/>
+    </linkGrp>
+ </div>

@@ -1,84 +1,86 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" type="感通" xml:id="gsz0851b01shiSengJian"><pb n="0851b" xml:id="T50.2061.0851b" ed="T"/><lb
-ed="T" n="0851b01"/><anchor n="T.50.2061.0851b01"/><head><date from-iso="+0951-02-18" key="j20684542071729" to-iso="+0960-02-06">周</date>偽蜀淨眾寺<persName key="A012925">僧緘</persName>傳（<persName key="A012950">大慈寺亡名</persName>）</head><p><lb
-ed="T" n="0851b02"/><persName key="A012925">釋僧緘</persName>者，俗名<persName key="A012925">緘</persName>也，姓王氏，<placeName key="PL000000042192">京兆</placeName>人。少而察<lb
-ed="T" n="0851b03"/>慧，辭氣絕群。<date key="j20341072034460" notAfter-iso="+0858-01-22" notBefore-iso="+0857-02-03"><name>大中</name>十一年</date>，<persName key="A012933">杜審權</persName>下對策成<lb
-ed="T" n="0851b04"/>事祕書監<persName key="A012934">馮涓</persName>即同年也。<date key="j20406372042521" notAfter-iso="+0880-02-17" notBefore-iso="+0874-12-21"><name>乾符</name>中</date>，巢寇充斥，<lb
+ed="T" n="0851b01"/><anchor n="T.50.2061.0851b01"/><head><date from-iso="+0951-02-18" key="j20684542071729" to-iso="+0960-02-06">周</date><placeName key="PL000000034714"><placeName>偽蜀</placeName><placeName>淨眾寺</placeName></placeName><persName key="A012925">僧緘</persName>傳（<persName key="A012950">大慈寺亡名</persName>）</head><p><lb
+ed="T" n="0851b02"/><persName key="A012925">釋僧緘</persName>者，俗名<persName key="A012925">緘</persName>也，姓<name>王</name>氏，<placeName key="PL000000042192">京兆</placeName>人。少而察<lb
+ed="T" n="0851b03"/>慧<ptr type="glossary" target="#g1843"/>，辭氣絕群。<date from-iso="+0857-02-03" key="j20341072034460" to-iso="+0858-01-22"><name>大中</name>十一年</date>，<persName key="A012933">杜審權</persName>下對策成<lb
+ed="T" n="0851b04"/>事祕書監──<persName key="A012934">馮涓</persName>即同年也<ptr target="#n2820"/>。<date key="j20406372042521" notAfter-iso="+0880-02-17" notBefore-iso="+0874-12-21"><name>乾符</name>中</date>，<persName key="A012934">巢</persName>寇充斥<ptr target="#n981"/>，<lb
 ed="T" n="0851b05"/>隨流避亂。至<placeName key="PL000000027764"><anchor xml:id="beg0851sgsz1"/>渚<anchor xml:id="end0851sgsz1"/>宮</placeName>投中<anchor xml:id="beg0851002"/><choice resp="sgsz"><sic>今</sic><corr>令</corr></choice><anchor xml:id="end0851002"/><persName key="A012935">成汭</persName>，<persName key="A012935">汭</persName>攻<placeName key="PL000000010783">淮<lb
-ed="T" n="0851b06"/>海</placeName>，不利，遂削髮出家。屬<persName key="A012937">雷滿</persName>據<placeName key="PL000000027770">荊州</placeName>，<placeName key="PL000000027118">襄州</placeName><lb
-ed="T" n="0851b07"/><persName key="A012938">趙凝</persName>攻破之。<persName key="A003877">梁祖</persName>遣<persName key="A007869">高季昌</persName>誅滅焉，<placeName key="PL000000027764">江陵</placeName><lb
-ed="T" n="0851b08"/>遂屬<persName key="A007869">高<roleName>氏</roleName></persName>。<persName key="A012925">緘</persName>避地<placeName key="PL000000034513">夔</placeName><placeName key="PL000000026833">峽</placeName>間。後唐<date key="j20589412059324" notAfter-iso="+0926-02-19" notBefore-iso="+0925-02-01"><name>同光</name>三年</date>入<lb
+ed="T" n="0851b06"/>海</placeName>，不利<ptr target="#n1070"/>，遂削髮出家。屬<persName key="A012937">雷滿</persName>據<placeName key="PL000000027770">荊州</placeName>，<placeName key="PL000000027118">襄州</placeName><lb
+ed="T" n="0851b07"/><persName key="A012938">趙<supplied resp="sgsz">匡</supplied>凝</persName>攻破之。<persName key="A003877">梁祖</persName>遣<persName key="A007869">高季昌</persName>誅滅焉，<placeName key="PL000000027764">江陵</placeName><lb
+ed="T" n="0851b08"/>遂屬<persName key="A007869">高<roleName>氏</roleName></persName><ptr target="#n2821"/>。<persName key="A012925">緘</persName>避地<placeName key="PL000000034513">夔</placeName><placeName key="PL000000026833">峽</placeName>間。<placeName key="PL000000057656">後唐</placeName><date from-iso="+0925-02-01" key="j20589412059324" to-iso="+0926-02-19"><name>同光</name>三年</date>入<lb
 ed="T" n="0851b09"/><placeName key="PL000000034802">蜀</placeName>，尋訪<persName key="A012934">馮涓</persName>，已死矣。遂居<placeName key="PL000000034714">淨眾寺</placeName>，而髭髮<lb
-ed="T" n="0851b10"/>皓然，且面色紅潤，逍遙然，人不測其情偽。<lb
-ed="T" n="0851b11"/>有<placeName key="PL000000034814">華陽</placeName>進士<persName key="A012940">王處厚</persName>者，<date key="j20698982070281" notAfter-iso="+0956-02-19" notBefore-iso="+0955-02-01">乙卯歲</date>於偽蜀落<lb
-ed="T" n="0851b12"/>第，則<date key="j20698982070281" notAfter-iso="+0956-02-19" notBefore-iso="+0955-02-01">周<name>顯德</name>二年</date>也，入<placeName key="PL000000034714">寺</placeName>寫憂於松竹間，<lb
+ed="T" n="0851b10"/>皓然，且面色紅潤逍遙然，人不測其情偽<ptr type="glossary" target="#g1846"/>。<lb
+ed="T" n="0851b11"/>有<placeName key="PL000000034775">華陽</placeName>進士<persName key="A012940">王處厚</persName>者──<date from-iso="+0955-02-01" key="j20698982070281" to-iso="+0956-02-19">乙卯歲</date>於偽<placeName key="PL000000000117">蜀</placeName>落<lb
+ed="T" n="0851b12"/>第<ptr target="#n2831"/>，則<date from-iso="+0955-02-01" key="j20698982070281" to-iso="+0956-02-19"><name>周</name><name>顯德</name>二年</date>也──，入<ref type="place" target="#PL000000034714">寺</ref>寫憂於松竹間，<lb
 ed="T" n="0851b13"/>見<persName key="A012925">緘</persName>。<persName key="A012925">緘</persName>曰：「得非<persName key="A012940">王處厚</persName>乎？」<persName key="A012940">處厚</persName>驚曰：「未甞<lb
 ed="T" n="0851b14"/>相狎，何遽呼耶？」<persName key="A012925">緘</persName>曰：「偶知耳。」遂說本<persName key="A004169">唐文宗</persName><lb
-ed="T" n="0851b15"/><date key="j20231922024000" notAfter-iso="+0829-06-03" notBefore-iso="+0827-03-18"><name>大和</name>初</date>生，止今一百三十餘載矣。<persName key="A012940">處厚</persName>曰：「<persName key="A012940">某</persName><lb
-ed="T" n="0851b16"/>身跡奚若？」<persName key="A012940">子</persName>將來之事極於明年。而今而後，<lb
-ed="T" n="0851b17"/>事可知矣。」意言蜀將亡也。囑令勿洩。明日<lb
-ed="T" n="0851b18"/>再尋，<anchor xml:id="beg0851sgsz3"/>杳<anchor xml:id="end0851sgsz3"/>沈聲跡。一日，復扣關自來云：「暫去<lb
-ed="T" n="0851b19"/><anchor xml:id="beg0851sgsz5"/>禮<anchor xml:id="end0851sgsz5"/><placeName key="PL000000036087">峨眉</placeName>，結夏<ptr type="glossary" target="#g61"/>於黑水<!--找不到此地-->方還。」<persName key="A012925">緘</persName>於案頭拈<lb
+ed="T" n="0851b15"/><date key="j20231922024000" notAfter-iso="+0829-06-03" notBefore-iso="+0827-03-18"><name>大和</name>初</date>生，止今一百三十餘載矣<ptr target="#n2823"/>。<persName key="A012940">處厚</persName>曰：「<ref type="person" target="#A012940">某</ref><lb
+ed="T" n="0851b16"/>身跡<ptr type="glossary" target="#g1847"/>奚若？」「<ref type="person" target="#A012940">子</ref>將來之事極<ptr type="glossary" target="#g1848"/>於明年。而今而後，<lb
+ed="T" n="0851b17"/>事可知矣。」意言<placeName key="PL000000000117">蜀</placeName>將亡也，囑令勿洩。明日<lb
+ed="T" n="0851b18"/>再尋，<anchor xml:id="beg0851sgsz3"/>杳<anchor xml:id="end0851sgsz3"/>沈聲跡<ptr target="#n2824"/>。一日<ptr target="#n2825"/>，復扣關自來云：「暫去<lb
+ed="T" n="0851b19"/><anchor xml:id="beg0851sgsz5"/>禮<anchor xml:id="end0851sgsz5"/><placeName key="PL000000036087">峨眉</placeName>，結夏<ptr type="glossary" target="#g61"/>於<placeName key="PL000000036360">黑水</placeName>方還。」<persName key="A012925">緘</persName>於案頭拈<lb
 ed="T" n="0851b20"/>文卷覽之，則<persName key="A012940">處厚</persName>府試賦藁，曰：「考乎真偽，非<lb
-ed="T" n="0851b21"/><persName key="A012940">君</persName>燭下之文。何多誑乎？」遂探懷抽賦藁示<lb
+ed="T" n="0851b21"/><ref type="person" target="#A012940">君</ref>燭下之文。何多誑乎？」遂探懷抽賦藁示<lb
 ed="T" n="0851b22"/>之，「此豈非程試真本乎？」<persName key="A012940">處厚</persName>驚竦不已，乃<lb
-ed="T" n="0851b23"/>曰：「<persName key="A012940">僕</persName>試後偶加潤色，用補燭下倉卒之過<lb
-ed="T" n="0851b24"/>也。<persName key="A012925">師</persName>何從得是本也？」<persName key="A012925">緘</persName>曰：「非但一賦，<persName key="A012940">君</persName>平<lb
+ed="T" n="0851b23"/>曰：「<ref type="person" target="#A012940">僕</ref>試後偶加潤色，用補燭下倉卒之過<lb
+ed="T" n="0851b24"/>也。<ref type="person" target="#A012925">師</ref>何從得是本也？」<persName key="A012925">緘</persName>曰：「非但一賦，<ref type="person" target="#A012940">君</ref>平<lb
 ed="T" n="0851b25"/>生所作之者，皆貯之矣。」明日訪之，携<persName key="A012940">處厚</persName><lb
-ed="T" n="0851b26"/>入<placeName key="PL000000034714">寺</placeName>之北隅，同謁故太尉豳公<persName key="A012943">杜琮</persName>之祠<lb
+ed="T" n="0851b26"/>入<ref type="place" target="#PL000000034714">寺</ref>之北隅，同謁故太尉<persName key="A019698"><persName>豳公</persName><persName>杜琮</persName></persName>之祠<ptr target="#n2827"/><lb
 ed="T" n="0851b27"/>坐於西廡下，俄有數吏服色厖雜，自堂宇<lb
-ed="T" n="0851b28"/>間綴行而出，降階再拜。<persName key="A012925">緘</persName>曰：「新官在此，便<lb
-ed="T" n="0851b29"/>可庭參。」<persName key="A012940">處厚</persName>惶懅而作。<persName key="A012925">緘</persName>曰：「此輩將為<persName key="A012940">君</persName><pb ed="T" n="0851c" xml:id="T50.2061.0851c"/><lb
-ed="T" n="0851c01"/>之驅策，又何懼乎？寧知<placeName key="PL000000021580">泰山</placeName>舉<persName key="A012940">君</persName>為司命<lb
+ed="T" n="0851b28"/>間綴行<ptr type="glossary" target="#g1844"/>而出，降階再拜。<persName key="A012925">緘</persName>曰：「新官在此，便<lb
+ed="T" n="0851b29"/>可庭參<ptr type="glossary" target="#g1845"/>。」<persName key="A012940">處厚</persName>惶懅而作。<persName key="A012925">緘</persName>曰：「此輩將為<ref type="person" target="#A012940">君</ref><pb ed="T" n="0851c" xml:id="T50.2061.0851c"/><lb
+ed="T" n="0851c01"/>之驅策，又何懼乎？寧知<persName key="A020332">泰山</persName><ptr target="#n2832"/>舉<ref type="person" target="#A012940">君</ref>為司命<lb
 ed="T" n="0851c02"/>否？仍以夙負壯圖，未酬前志，請候登第<lb
 ed="T" n="0851c03"/>後施行。復檢官祿簿，見來春一牓人數已<lb
-ed="T" n="0851c04"/>定，<persName key="A012940">君</persName>亦預其間，斯乃陰<anchor xml:id="beg0851sgsz7"/>注<anchor xml:id="end0851sgsz7"/>陽受也。策人世<lb
+ed="T" n="0851c04"/>定，<ref type="person" target="#A012940">君</ref>亦預其間，斯乃陰<anchor xml:id="beg0851sgsz7"/>注<anchor xml:id="end0851sgsz7"/>陽受也。策人世<lb
 ed="T" n="0851c05"/>之名，食幽府之祿，此陽注陰受也。」<persName key="A012940">處厚</persName>震駭，<lb
 ed="T" n="0851c06"/>不知所裁，但問：「明年及第人姓名為誰耶？」<lb
-ed="T" n="0851c07"/><persName key="A012925">緘</persName>索紙筆，立書一短封與之，誡之嚴密藏<lb
-ed="T" n="0851c08"/>之，脫洩，禍不旋踵。須臾吏散。<persName key="A012925">緘</persName>携手出廟，<lb
+ed="T" n="0851c07"/><persName key="A012925">緘</persName>索紙筆，立書一短封與之，誡之：「嚴密藏<lb
+ed="T" n="0851c08"/>之。脫洩，禍不旋踵。」<ptr target="#n2828"/>須臾吏散。<persName key="A012925">緘</persName>携手出廟，<lb
 ed="T" n="0851c09"/>及瞑而去。至春試罷，<persName key="A012925">緘</persName>來<persName key="A012940">處厚</persName>家，留一簡<lb
-ed="T" n="0851c10"/>云：「暫還弊廬，無復再面也。」後往<placeName key="PL000000034714">寺</placeName>僧堂中<lb
+ed="T" n="0851c10"/>云：「暫還弊廬，無復再面也。」後往寺僧堂中<lb
 ed="T" n="0851c11"/>問之，已他適矣。乃<anchor xml:id="beg0851sgsz9"/>拆<anchor xml:id="end0851sgsz9"/>短封視之，但書四<lb
-ed="T" n="0851c12"/>句云「周成同成，二王殊名。王居一焉，百日<lb
-ed="T" n="0851c13"/>為程。」及乎牓出，驗之有八士也。二王，<persName key="A012940">處厚</persName><lb
-ed="T" n="0851c14"/>與<persName key="A012949">王慎言</persName>也，<persName key="A012940">王</persName>居一焉。惡其百日為程，<persName key="A012940">處<lb
+ed="T" n="0851c12"/>句云「<persName key="A009051">周成</persName>同成，二<name>王</name>殊名，<persName key="A012940">王</persName>居一焉，百日<lb
+ed="T" n="0851c13"/>為程。」及乎牓出，驗之有八士也<ptr target="#n2826"/>。二<name>王</name>，<persName key="A012940">處厚</persName><lb
+ed="T" n="0851c14"/>與<persName key="A012949">王慎言</persName>也，<persName key="A012940">王</persName>居一焉<ptr target="#n2829"/>。惡其「百日為程」，<persName key="A012940">處<lb
 ed="T" n="0851c15"/>厚</persName>唯狎同年，置酒高會，極遂性之歡。由是<lb
-ed="T" n="0851c16"/>荒亂不起，是夜暴亡。同年皆夢<persName key="A012940">處厚</persName>藍袍槐<lb
-ed="T" n="0851c17"/>笏，驅殿而行。驗其策名之榮，止一百二十日<lb
-ed="T" n="0851c18"/>也。詳其<persName key="A012925">緘</persName>之生於文宗<date key="j20231922024000" notAfter-iso="+0829-06-03" notBefore-iso="+0827-03-18"><name><anchor xml:id="beg0851003"/>太<anchor xml:id="end0851003"/>和</name>初</date>也，成身在<lb
-ed="T" n="0851c19"/>宣宗<date key="j20304612035056" to-iso="+0859-09-10" from-iso="+0847-02-10"><name>大中</name></date>，<persName key="A012940">王處厚</persName>遇之已一百三十餘歲也。<lb
-ed="T" n="0851c20"/>次偽王蜀城都<placeName key="PL000000034705">大慈寺</placeName>僧<persName key="A012950"><anchor xml:id="beg0851004"/>亡名<anchor xml:id="end0851004"/></persName>恒諷誦法華<lb
-ed="T" n="0851c21"/>經，令人樂聞。時至分衛，取足而已。身微所<lb
-ed="T" n="0851c22"/>苦，有示方藥。伊<persName key="A012950">僧</persName>策杖入青城<placeName key="PL000000034985">大面山</placeName>採<lb
+ed="T" n="0851c16"/>荒亂不起，是夜暴亡<ptr target="#n2822"/>。同年皆夢<persName key="A012940">處厚</persName>藍袍槐<lb
+ed="T" n="0851c17"/>笏，驅殿而行。驗其策名<ptr type="glossary" target="#g937"/>之榮，止一百二十日<lb
+ed="T" n="0851c18"/>也<ptr target="#n2830"/>。詳其<persName key="A012925">緘</persName>之生於<persName key="A004169">文宗</persName><date key="j20231922024000" notAfter-iso="+0829-06-03" notBefore-iso="+0827-03-18"><name><anchor xml:id="beg0851003"/>太和<anchor xml:id="end0851003"/></name>初</date>也，成身在<lb
+ed="T" n="0851c19"/><persName key="A003667">宣宗</persName><date key="j20304612035056" to-iso="+0859-09-10" from-iso="+0847-02-10"><name>大中</name></date>，<persName key="A012940">王處厚</persName>遇之已一百三十餘歲也。<lb
+ed="T" n="0851c20"/>次，偽<placeName key="PL000000059383">王蜀</placeName>城都<placeName key="PL000000034705">大慈寺</placeName>僧<ref type="person" target="#A012950"><anchor xml:id="beg0851004"/><choice resp="sgsz"><sic>亡名</sic><corr>（亡名）</corr></choice><anchor xml:id="end0851004"/></ref>恒諷誦《法華<lb
+ed="T" n="0851c21"/>經》，令人樂聞。時至分衛<ptr type="glossary" target="#g602"/>，取足而已。身微所<lb
+ed="T" n="0851c22"/>苦，有示方藥。<ref type="person" target="#A012950">伊僧</ref>策杖入<placeName key="PL000000034985"><placeName>青城</placeName><placeName>大面山</placeName></placeName>採<lb
 ed="T" n="0851c23"/>藥。㳂溪越險，忽然雲霧四起，不知所適。有<lb
-ed="T" n="0851c24"/>頃，見一翁，<persName key="A012950">僧</persName>揖之，序寒暄，問「何以至此！」<persName key="A012950">僧</persName><lb
-ed="T" n="0851c25"/>曰：「為<anchor xml:id="beg0851005"/>採<anchor xml:id="end0851005"/>少藥也。」翁曰：「莊舍不遠，略迂神<lb
-ed="T" n="0851c26"/>足，得否？」<persName key="A012950">僧</persName>曰：「迷方失路，願隨居士。」少頃雲<lb
+ed="T" n="0851c24"/>頃，見一翁，<ref type="person" target="#A012950">僧</ref>揖之，序<ptr type="glossary" target="#g1849"/>寒暄問「何以至此？」<ref type="person" target="#A012950">僧</ref><lb
+ed="T" n="0851c25"/>曰：「為<anchor xml:id="beg0851005"/>採<anchor xml:id="end0851005"/>少藥<ptr type="glossary" target="#g1850"/>也。」翁曰：「莊舍不遠，略迂神<lb
+ed="T" n="0851c26"/>足，得否？」<ref type="person" target="#A012950">僧</ref>曰：「迷方失路，願隨居士。」少頃雲<lb
 ed="T" n="0851c27"/>散，見一宅宇陰森。既近，翁曰：「且先報莊主<lb
-ed="T" n="0851c28"/>人矣。」<persName key="A012950">僧</persName>入門覩事，皆非凡調。問曰：「還齋否？」<lb
-ed="T" n="0851c29"/>曰：「未食。」焚香且覺非常欝悖，請念所業經。<pb ed="T" n="0852a" xml:id="T50.2061.0852a"/><lb
-ed="T" n="0852a01"/>其<persName key="A012950">僧</persName>朗聲誦經，勉令誦徹部。所饋齋饌，皆<lb
+ed="T" n="0851c28"/>人矣。」<ref type="person" target="#A012950">僧</ref>入門覩事，皆非凡調。問曰：「還齋否？」<lb
+ed="T" n="0851c29"/>曰：「未食。」焚香且覺非常欝悖<ptr type="glossary" target="#g2175"/>，請念所業<ptr type="glossary" target="#g21"/>經。<pb ed="T" n="0852a" xml:id="T50.2061.0852a"/><lb
+ed="T" n="0852a01"/><ref type="person" target="#A012950">其僧</ref>朗聲誦經，勉令誦徹部。所饋齋饌，皆<lb
 ed="T" n="0852a02"/><placeName key="PL000000034705">大慈寺</placeName>前食物。齋畢，青衣負竹器以香草<lb
-ed="T" n="0852a03"/>薦之，乃施錢五貫，令師市胡餅之費。翁合<lb
-ed="T" n="0852a04"/>掌送出。或問，云：「此<persName key="A008894">孫思邈先生</persName>也。」到寺已<lb
-ed="T" n="0852a05"/>經月餘矣。其錢將入寺，則黃金貨泉也。王<lb
-ed="T" n="0852a06"/>氏聞之，收金錢，別給錢五百貫。其<persName key="A012950">僧</persName>散施<lb
-ed="T" n="0852a07"/>之，將知仙民恒在名山。次嘉州<placeName key="PL000000036378">羅目縣</placeName>有訴<lb
-ed="T" n="0852a08"/><persName key="A008894">孫山人</persName>賃驢不償直，乞追攝。問小童，云：「是<lb
+ed="T" n="0852a03"/>薦之，乃<ptr rend="display:none;" type="glossary" target="#g1657"/>施錢五貫，令<ref type="person" target="#A012950">師</ref>市胡餅之費。翁合<lb
+ed="T" n="0852a04"/>掌送出。或問，云：「此<persName key="A008894">孫思邈<roleName>先生</roleName></persName>也。」到寺已<lb
+ed="T" n="0852a05"/>經月餘矣。其錢將入寺，則黃金貨泉<ptr type="glossary" target="#g1851"/>也。<name>王</name><lb
+    ed="T" n="0852a06"/>氏<ptr target="#n2833"/>聞之，收金錢，別給錢五百貫。<ref type="person" target="#A012950">其僧</ref>散施<lb
+ed="T" n="0852a07"/>之，將知仙民恒在名山。次<placeName key="PL000000036376"><placeName>嘉州</placeName><placeName>羅目縣</placeName></placeName>有訴：<lb
+ed="T" n="0852a08"/><persName key="A008894">孫<roleName>山人</roleName></persName>賃驢不償直，乞追攝。問小童，云：「是<lb
 ed="T" n="0852a09"/><persName key="A008894">孫思邈</persName>也。」縣令驚怪，出錢代償。其人居山<lb
-ed="T" n="0852a10"/>下，及出縣路，見<persName key="A008894">孫公</persName>取錢二百以授之，<lb
-ed="T" n="0852a11"/>曰：「吾元伺汝於此，何遽怪乎？」得金錢僧不<lb
+ed="T" n="0852a10"/>下，及出縣路，見<persName key="A008894">孫<roleName>公</roleName></persName>取錢二百以授之，<lb
+ed="T" n="0852a11"/>曰：「<ref type="person" target="#A008894">吾</ref>元伺汝於此，何遽怪乎？」得金錢僧不<lb
 ed="T" n="0852a12"/>知其終所。</p>
     <linkGrp>
-        <link targets="#0851b03 #0851b04"/>
-        <ptr target="#A012933" type="person"/>
-        <ptr target="#A012934" type="person"/>
+        <link targets="#0851b02 #0851b02"/>
+        <ptr target="#A012925" type="person"/>
+        <ptr target="#PL000000042192" type="place"/>
     </linkGrp>
     <linkGrp>
-        <link targets="#0851b04 #0851b04"/>
+        <link targets="#0851b03 #0851b04"/>
         <ptr target="#A012925" type="person"/>
+        <ptr target="#A012933" type="person"/>
         <ptr target="#A012934" type="person"/>
+        <ptr target="#j20341072034460" type="time"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0851b04 #0851b06"/>
@@ -91,6 +93,12 @@ ed="T" n="0852a12"/>知其終所。</p>
         <link targets="#0851b06 #0851b07"/>
         <ptr target="#A012937" type="person"/>
         <ptr target="#A012938" type="person"/>
+        <ptr target="#PL000000027770" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0851b06 #0851b07"/>
+        <ptr target="#A012938" type="person"/>
+        <ptr target="#PL000000027118" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0851b07 #0851b07"/>
@@ -113,21 +121,35 @@ ed="T" n="0852a12"/>知其終所。</p>
         <ptr target="#PL000000026833" type="place"/>
     </linkGrp>
     <linkGrp>
-        <link targets="#0851b08 #0851c13"/>
+        <link targets="#0851b08 #0851b09"/>
+        <ptr target="#A012925" type="person"/>
+        <ptr target="#PL000000034714" type="place"/>
+        <ptr target="#j20589412059324" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0851b11 #0851b17"/>
         <ptr target="#A012925" type="person"/>
         <ptr target="#A012940" type="person"/>
         <ptr target="#PL000000034714" type="place"/>
-        <ptr target="#j20589412059324" type="time"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0851b18 #0851b18"/>
         <ptr target="#A012925" type="person"/>
         <ptr target="#PL000000036087" type="place"/>
-        <ptr target="#j20589412059324" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0851b18 #0851b19"/>
+        <ptr target="#A012925" type="person"/>
+        <ptr target="#PL000000036360" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0851c20 #0851c22"/>
         <ptr target="#A012950" type="person"/>
         <ptr target="#PL000000034705" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0851c22 #0852a05"/>
+        <ptr target="#A012950" type="person"/>
+        <ptr target="#PL000000034985" type="place"/>
     </linkGrp>
 </div>

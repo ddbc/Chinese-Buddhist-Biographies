@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="jsz0204a23siMaQiaoQing">
+    <p><anchor n="X.88.1646.0204a23"/><lb ed="X" n="0204a23"/><persName key="A016666">司馬喬卿</persName><placeName key="PL000000024671">河內</placeName>人。<date from-iso="0650-02-10" key="j19585081960698" to-iso="0656-02-09">唐永徽中</date>官<placeName key="PL000000010783">揚州</placeName>戶曹。遭母喪。毀<lb ed="X" n="0204a24"/>瘠刺胸前血寫金剛經一卷。所居廬上生芝草二莖。<lb ed="X" n="0204b01"/>經九日。長尺有八寸。綠莖朱盖。日瀝汁一升。食之味<lb ed="X" n="0204b02"/>如蜜。盡而復生。如是數四。一時士大夫多傳異之(法苑<lb ed="X" n="0204b03"/>珠林)。</p> 
+    
+    <linkGrp>
+        <link targets="#0204a23 #0204b03"/>
+        <ptr target="#A016666" type="person"/>
+        <ptr target="#PL000000010783" type="place"/>
+        <ptr target="#j19585081960698" type="time"/>
+    </linkGrp>    
+ </div>

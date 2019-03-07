@@ -1,40 +1,63 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" type="興福" xml:id="gsz0878c03shiDingGuang"><lb
-ed="T" n="0878c03"/><anchor n="T.50.2061.0878c03"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date>成都福感寺<persName key="A013711">定光</persName>傳</head><p><lb
+ed="T" n="0878c03"/><anchor n="T.50.2061.0878c03"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date><placeName key="PL000000034767"><placeName>成都</placeName><placeName>福感寺</placeName></placeName><persName key="A013711">定光</persName>傳</head><p><lb
 ed="T" n="0878c04"/><persName key="A013711">釋定光</persName>者，不知何許人也。爰從入法，厥性<lb
-ed="T" n="0878c05"/>弗拘，糲食斷中，麁襦卒歲。方於庸<placeName key="PL000000035107">蜀</placeName>化導<lb
-ed="T" n="0878c06"/>有緣，事或多魔，教鍾中𠘶。俄遭<date from-iso="+0840-02-14" key="j20279082030170" to-iso="+0846-04-25">武宗</date>毀廢，<lb
-ed="T" n="0878c07"/>例反儒宗。及乎佛日重暉，僧倫咸序，<persName key="A013711">光</persName>同<lb
-ed="T" n="0878c08"/>締構寺宇，因鑄大鐘，計赤金萬餘斤。爾日鼓<lb
-ed="T" n="0878c09"/>籥灰飛，投鑪火熾，有祥煙兩道自浮圖相輪<lb
-ed="T" n="0878c10"/>最高處出，冉冉射上，若虹蜺焉。萬人引望，五<lb
+ed="T" n="0878c05"/>弗拘，糲食斷中<ptr target="#n1893"/>，麁襦<ptr type="glossary" target="#g2067"/>卒歲。方於<placeName key="PL000000034649">庸蜀</placeName><ptr target="#n3330"/>化導<lb
+ed="T" n="0878c06"/>有緣，事或多魔，教鍾中𠘶<ptr type="glossary" target="#g2150"/>。俄遭<persName key="A006570">武宗</persName>毀廢，<lb
+ed="T" n="0878c07"/>例反<ptr type="glossary" target="#g2151"/>儒宗。及乎佛日重暉，僧倫咸序，<persName key="A013711">光</persName>同<lb
+ed="T" n="0878c08"/>締構寺宇，因鑄大鐘，計赤金<ptr type="glossary" target="#g1078"/>萬餘斤。爾日鼓<lb
+ed="T" n="0878c09"/>籥灰飛<ptr target="#n3331"/>，投鑪火熾，有祥煙兩道自浮圖相輪<ptr type="glossary" target="#g1727"/><lb
+ed="T" n="0878c10"/>最高處出，冉冉射上，若虹蜺<ptr type="glossary" target="#g2152"/>焉。萬人引望，五<lb
 ed="T" n="0878c11"/>色騰凌，相感如然，信鼓斯應。其塔是<persName key="A002034">阿育王</persName><lb
-ed="T" n="0878c12"/>藏舍利之所。<date notBefore-iso="+0827-03-18" key="j20231922024000" notAfter-iso="+0829-06-03"><name>大和</name>初</date>南蠻<persName key="A019481">蒙傞顛</persName>剽掠入益<lb
-ed="T" n="0878c13"/>城，分蠻卒舍于寺內廊廡，皆烹炙熏灼，僧<lb
+ed="T" n="0878c12"/>藏舍利之所。<date notBefore-iso="+0827-03-18" key="j20231922024000" notAfter-iso="+0829-06-03"><name>大和</name>初</date>南蠻<persName key="A019481">蒙傞顛</persName>剽掠入<placeName key="PL000000034805">益<lb
+ed="T" n="0878c13"/>城</placeName><ptr target="#n3333"/>，分蠻卒舍于<ref type="place" target="#PL000000034767">寺</ref>內廊廡，皆烹炙熏灼，僧<lb
 ed="T" n="0878c14"/>皆奔迸。時塔頂出四道濃煙，分穗直上空<lb
-ed="T" n="0878c15"/>虛，至夜。蠻蜑覩此奇異，乃禁止污穢。此塔<lb
-ed="T" n="0878c16"/>先在西北四十餘步，<date notBefore-iso="+0908-02-10" key="j20527402054570" notAfter-iso="+0913-02-13"><name>天寶</name>末</date>長史<persName key="A012387">章仇兼瓊</persName><lb
-ed="T" n="0878c17"/>赴<anchor xml:id="beg0878010"/><choice resp="sgsz"><sic>在</sic><corr>任</corr></choice><anchor xml:id="end0878010"/>，至<placeName key="PL000000035743">劍門</placeName>，見一人長一丈餘，持戟當<lb
-ed="T" n="0878c18"/>路。<persName key="A012387">兼瓊</persName>驚問，對曰：「某是大石寺<!--找不到此地-->護塔神，故<lb
-ed="T" n="0878c19"/>來奉迎，且有少事咨祈大夫也。緣大石寺<lb
-ed="T" n="0878c20"/>塔<!--找不到此地-->在西南，未為極善，今請移東北四十二<lb
+ed="T" n="0878c15"/>虛，至夜。蠻蜑<ptr type="glossary" target="#g2153"/>覩此奇異，乃禁止污穢。此塔<lb
+ed="T" n="0878c16"/>先在西北四十餘步，<date notBefore-iso="+0735-02-01" key="j19895441992113" notAfter-iso="+0742-02-13"><name><choice resp="sgsz"><sic>天寶</sic><corr resp="ZBY">開元</corr></choice></name>末</date>長史<persName key="A012387">章仇兼瓊</persName><lb
+ed="T" n="0878c17"/>赴<anchor xml:id="beg0878010"/><choice resp="sgsz"><sic>在</sic><corr resp="宋">任</corr></choice><anchor xml:id="end0878010"/><ptr target="#n3332"/>，至<placeName key="PL000000035743">劍門</placeName>，見一人長一丈餘，持戟當<lb
+ed="T" n="0878c18"/>路。<persName key="A012387">兼瓊</persName>驚問，對曰：「某是<placeName key="PL000000034767">大石寺</placeName>護塔神，故<lb
+ed="T" n="0878c19"/>來奉迎，且有少事咨祈大夫也。緣<placeName key="PL000000034767">大石寺</placeName><lb
+ed="T" n="0878c20"/>塔在西南，未為極善，今請移東北四十二<lb
 ed="T" n="0878c21"/>步。伏望便掘石此下，以鎮舍利。」<persName key="A012387">兼瓊</persName>曰：「此<lb
 ed="T" n="0878c22"/>易耳。」遂隱厥形，到府數日，乃令量其地處，<lb
 ed="T" n="0878c23"/>先掘，果得巨石，其深無際。促石匠數十人<lb
 ed="T" n="0878c24"/>鏨鑿之，至夜，輒填滿。遣人潛伺之，見有<lb
 ed="T" n="0878c25"/>白彘數十以喙推石末塞之，隨以舌舐，其<lb
 ed="T" n="0878c26"/>堅如鐵銅矣。<persName key="A012387">章仇</persName>止令勿鑿，遂移塔於<lb
-ed="T" n="0878c27"/>今所，即金<anchor xml:id="beg0878sgsz12"/>華<anchor xml:id="end0878sgsz12"/><!--找不到此地-->舊寺基也。<persName key="A013711">光</persName>鐘亦移入新寺<!--找不到此地--><lb
+ed="T" n="0878c27"/>今所，即<placeName key="PL000000055040">金<anchor xml:id="beg0878sgsz12"/>華<anchor xml:id="end0878sgsz12"/></placeName>舊寺基也。<persName key="A013711">光</persName>鐘亦移入<ref type="place" target="#PL000000034767">新寺</ref><lb
 ed="T" n="0878c28"/>焉。</p>
+    <linkGrp>
+        <link targets="#0878c03 #0878c03"/>
+        <ptr target="#A013711" type="person"/>
+        <ptr target="#PL000000034767" type="place"/>
+    </linkGrp>
     <linkGrp>
         <link targets="#0878c05 #0878c06"/>
         <ptr target="#A013711" type="person"/>
-        <ptr target="#PL000000035107" type="place"/>
+        <ptr target="#PL000000034649" type="place"/>
     </linkGrp>
     <linkGrp>
-        <link targets="#0878c16 #0878c27"/>
+        <link targets="#0878c12 #0878c13"/>
+        <ptr target="#A019481" type="person"/>
+        <ptr target="#PL000000034805" type="place"/>
+        <ptr target="#j20231922024000" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0878c16 #0878c22"/>
         <ptr target="#A012387" type="person"/>
         <ptr target="#PL000000035743" type="place"/>
-        <ptr target="#j20527402054570" type="time"/>
+        <ptr target="#j19895441992113" type="time"/>
+        <note target="sgszNots.xml#n3332"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0878c22 #0878c27"/>
+        <ptr target="#A012387" type="person"/>
+        <ptr target="#PL000000034767" type="place"/>
+        <ptr target="#j19895441992113" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0878c27 #0878c28"/>
+        <ptr target="#A013711" type="person"/>
+        <ptr target="#PL000000034767" type="place"/>
     </linkGrp>
 </div>

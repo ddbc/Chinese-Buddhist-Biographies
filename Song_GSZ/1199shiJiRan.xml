@@ -1,98 +1,98 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" type="興福" xml:id="gsz0880a03shiJiRan"><lb
-ed="T" n="0880a03"/><anchor n="T.50.2061.0880a03"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date>剡沃洲山禪院<persName key="A013730">寂然</persName>傳</head><p><lb
-ed="T" n="0880a04"/><persName key="A013730">釋寂然</persName>，姓白氏，不知何許人也。名節素奇，<lb
-ed="T" n="0880a05"/>踵四聖種，故號<persName key="A013730">頭陀</persName>焉。<date key="j20235052023888" notAfter-iso="+0829-02-11" notBefore-iso="+0828-01-25"><name>大和</name>二年</date>，振錫觀<lb
-ed="T" n="0880a06"/>方，訪<placeName key="PL000000014411">天台</placeName>勝境。到剡<placeName key="PL000000013444">沃洲山</placeName>者，在<placeName key="PL000000013336">天姥</placeName>岑<lb
-ed="T" n="0880a07"/>之陰，對天台<placeName key="PL000000014412">華頂</placeName>、<placeName key="PL000000014519">赤城</placeName>，北望<placeName key="PL000000012277">四明</placeName>，金庭<placeName key="PL000000013455">石<lb
-ed="T" n="0880a08"/>鼓山</placeName>介焉西北。<anchor xml:id="beg0880002"/>北有<anchor xml:id="end0880002"/><placeName key="PL000000013333">支遁嶺</placeName>、<placeName key="PL000000013334">養馬坡</placeName>、<placeName key="PL000000013341">放鶴</placeName><lb
-ed="T" n="0880a09"/>岑次焉。<date key="j18182531896159" notAfter-iso="+0479-05-28" notBefore-iso="+0266-02-08">晉宋</date>已來，茲山洞開。初有羅漢白道<lb
-ed="T" n="0880a10"/>猷言<placeName key="PL000000055436">西域</placeName>來，戾止是山。次<persName key="A002204">竺法潛</persName>、<persName key="A002205">支道林</persName>居<lb
+ed="T" n="0880a03"/><anchor n="T.50.2061.0880a03"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date><placeName key="PL000000013444"><placeName>剡</placeName><placeName>沃洲山禪院</placeName></placeName><persName key="A013730">寂然</persName>傳</head><p><lb
+ed="T" n="0880a04"/><persName key="A013730">釋寂然</persName>，姓<name>白</name>氏，不知何許人也。名節素奇，<lb
+ed="T" n="0880a05"/>踵四聖<ptr type="glossary" target="#g1036"/>種，故號<persName key="A013730">頭陀</persName>焉。<date key="j20235052023888" notAfter-iso="+0829-02-11" notBefore-iso="+0828-01-25"><name>大和</name>二年</date>，振錫觀<lb
+ed="T" n="0880a06"/>方，訪<placeName key="PL000000014411">天台</placeName>勝境到<placeName key="PL000000013475">剡</placeName>。</p><p><placeName key="PL000000013444">沃洲山</placeName>者，在<placeName key="PL000000013336">天姥岑</placeName><lb
+ed="T" n="0880a07"/>之陰，對<placeName key="PL000000014412"><placeName>天台</placeName><placeName>華頂</placeName></placeName>、<placeName key="PL000000014519">赤城</placeName>；北望<placeName key="PL000000012277">四明</placeName>，<placeName key="PL000000013440">金庭</placeName>、<placeName key="PL000000013455">石<lb
+ed="T" n="0880a08"/>鼓山</placeName>介焉；西北<anchor xml:id="beg0880002"/><choice resp="sgsz"><sic>北有</sic><corr>有</corr></choice><anchor xml:id="end0880002"/><ptr target="#n3349"/><placeName key="PL000000013333">支遁嶺</placeName>，<placeName key="PL000000013334">養馬坡</placeName>、<placeName key="PL000000013341">放鶴<lb
+ed="T" n="0880a09"/>岑</placeName>次焉。<date from-iso="+0266-02-08" key="j18182531874651" to-iso="+0420-07-08"><name>晉</name></date>、<date from-iso="+0420-07-11" key="j18746541896160" to-iso="+0479-05-29"><name>宋</name></date>已來，<ref type="place" target="#PL000000013444">茲山</ref><ptr target="#n3350"/>洞開。初有羅漢<persName key="A002299">白道<lb
+ed="T" n="0880a10"/>猷</persName>──言<placeName key="PL000000055436">西域</placeName>來──戾止<ptr rend="display:none;" type="glossary" target="#g1057"/><ref type="place" target="#PL000000013444">是山</ref>。次<persName key="A002204">竺法潛</persName>、<persName key="A002205">支道林</persName>居<lb
 ed="T" n="0880a11"/>焉。高人勝士，接踵而棲此中。至於<persName key="A002712">戴逵</persName>、<persName key="A002704">王<lb
-ed="T" n="0880a12"/>羲之</persName>、<persName key="A002696">郗超</persName>、<persName key="A002181">孫綽</persName>、<persName key="A002695">許詢</persName>遊憩其間矣。見是中<lb
+ed="T" n="0880a12"/>羲之</persName>、<persName key="A002696">郗超</persName>、<persName key="A002181">孫綽</persName>、<persName key="A002695">許詢</persName>遊憩其間矣！</p><p>見是中<lb
 ed="T" n="0880a13"/>景異，聞名士多居，如歸故鄉，戀而不能捨<lb
-ed="T" n="0880a14"/>去。既行道化，盛集禪徒。浙東廉使<persName key="A009452">元相國<lb
-ed="T" n="0880a15"/>稹</persName>聞之，始為卜築。次<persName key="A010473">陸</persName>中丞臨越知之，助<lb
+ed="T" n="0880a14"/>去。既<ptr type="glossary" target="#g2172"/>行道化，盛集禪徒。<placeName key="PL000000011308">浙東</placeName>廉使<persName key="A009452">元<roleName>相國</roleName><lb
+ed="T" n="0880a15"/>稹</persName><ptr target="#n3353"/>聞之，始為卜築<ptr type="glossary" target="#g1461"/>。次<persName key="A010473">陸</persName>中丞臨<placeName key="PL000000013239">越</placeName>知之<ptr target="#n3351"/>，助<lb
 ed="T" n="0880a16"/>其完葺。三年欝成大院，五年而佛事興。<persName key="A013730">然</persName>每<lb
-ed="T" n="0880a17"/>為往來禪侶談說心要，後終于山院。<date key="j20253362025719" notAfter-iso="+0834-02-16" notBefore-iso="+0833-01-29"><name>大和</name><lb
-ed="T" n="0880a18"/>七年</date>，時<persName key="A013730">白樂天</persName>在<placeName key="PL000000023579">河南</placeName>保釐為記，<persName key="A006962">劉賓客禹<lb
+ed="T" n="0880a17"/>為往來禪侶談說心要，後終于<ref type="place" target="#PL000000013444">山院</ref>。<date from-iso="+0833-01-29" key="j20253362025719" to-iso="+0834-02-16"><name>大和</name><lb
+ed="T" n="0880a18"/>七年</date>，時<persName key="A004029">白樂天</persName>在<placeName key="PL000000023580">河南</placeName><ptr target="#n3352"/>保釐<ptr type="glossary" target="#g1262"/>為記<ptr target="#n3354"/>，<persName key="A006962">劉<roleName>賓客</roleName>禹<lb
 ed="T" n="0880a19"/>錫</persName>書之。</p>
     <linkGrp>
         <link targets="#0880a05 #0880a06"/>
         <ptr target="#A013730" type="person"/>
-        <ptr target="#PL000000014411" type="place"/>
+        <ptr target="#PL000000013475" type="place"/>
         <ptr target="#j20235052023888" type="time"/>
     </linkGrp>
     <linkGrp>
-        <link targets="#0880a05 #0880a09"/>
-        <ptr target="#A013730" type="person"/>
+        <link targets="#0880a09 #0880a12"/>
+        <ptr target="#A002299" type="person"/>
         <ptr target="#PL000000013444" type="place"/>
-        <ptr target="#j20235052023888" type="time"/>
+        <ptr target="#j18182531896160" type="time"/>
     </linkGrp>
     <linkGrp>
-        <link targets="#0880a05 #0880a09"/>
-        <ptr target="#A013730" type="person"/>
-        <ptr target="#PL000000013336" type="place"/>
-        <ptr target="#j20235052023888" type="time"/>
+        <link targets="#0880a09 #0880a12"/>
+        <ptr target="#A002204" type="person"/>
+        <ptr target="#PL000000013444" type="place"/>
+        <ptr target="#j18182531896160" type="time"/>
     </linkGrp>
     <linkGrp>
-        <link targets="#0880a05 #0880a09"/>
-        <ptr target="#A013730" type="person"/>
-        <ptr target="#PL000000014412" type="place"/>
-        <ptr target="#j20235052023888" type="time"/>
+        <link targets="#0880a09 #0880a12"/>
+        <ptr target="#A002205" type="person"/>
+        <ptr target="#PL000000013444" type="place"/>
+        <ptr target="#j18182531896160" type="time"/>
     </linkGrp>
     <linkGrp>
-        <link targets="#0880a05 #0880a09"/>
-        <ptr target="#A013730" type="person"/>
-        <ptr target="#PL000000014519" type="place"/>
-        <ptr target="#j20235052023888" type="time"/>
+        <link targets="#0880a09 #0880a12"/>
+        <ptr target="#A002712" type="person"/>
+        <ptr target="#PL000000013444" type="place"/>
+        <ptr target="#j18182531896160" type="time"/>
     </linkGrp>
     <linkGrp>
-        <link targets="#0880a05 #0880a09"/>
-        <ptr target="#A013730" type="person"/>
-        <ptr target="#PL000000012277" type="place"/>
-        <ptr target="#j20235052023888" type="time"/>
+        <link targets="#0880a09 #0880a12"/>
+        <ptr target="#A002704" type="person"/>
+        <ptr target="#PL000000013444" type="place"/>
+        <ptr target="#j18182531896160" type="time"/>
     </linkGrp>
     <linkGrp>
-        <link targets="#0880a05 #0880a09"/>
-        <ptr target="#A013730" type="person"/>
-        <ptr target="#PL000000013455" type="place"/>
-        <ptr target="#j20235052023888" type="time"/>
+        <link targets="#0880a09 #0880a12"/>
+        <ptr target="#A002696" type="person"/>
+        <ptr target="#PL000000013444" type="place"/>
+        <ptr target="#j18182531896160" type="time"/>
     </linkGrp>
     <linkGrp>
-        <link targets="#0880a05 #0880a09"/>
-        <ptr target="#A013730" type="person"/>
-        <ptr target="#PL000000013333" type="place"/>
-        <ptr target="#j20235052023888" type="time"/>
+        <link targets="#0880a09 #0880a12"/>
+        <ptr target="#A002181" type="person"/>
+        <ptr target="#PL000000013444" type="place"/>
+        <ptr target="#j18182531896160" type="time"/>
     </linkGrp>
     <linkGrp>
-        <link targets="#0880a05 #0880a09"/>
-        <ptr target="#A013730" type="person"/>
-        <ptr target="#PL000000013334" type="place"/>
-        <ptr target="#j20235052023888" type="time"/>
-    </linkGrp>
-    <linkGrp>
-        <link targets="#0880a05 #0880a09"/>
-        <ptr target="#A013730" type="person"/>
-        <ptr target="#PL000000013341" type="place"/>
-        <ptr target="#j20235052023888" type="time"/>
+        <link targets="#0880a09 #0880a12"/>
+        <ptr target="#A002695" type="person"/>
+        <ptr target="#PL000000013444" type="place"/>
+        <ptr target="#j18182531896160" type="time"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0880a14 #0880a15"/>
-        <ptr target="#A013730" type="person"/>
         <ptr target="#A009452" type="person"/>
+        <ptr target="#A013730" type="person"/>
         <ptr target="#PL000000013444" type="place"/>
     </linkGrp>
     <linkGrp>
-        <link targets="#0880a14 #0880a16"/>
-        <ptr target="#A013730" type="person"/>
+        <link targets="#0880a15 #0880a16"/>
         <ptr target="#A010473" type="person"/>
+        <ptr target="#A013730" type="person"/>
+        <ptr target="#PL000000013239" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0880a16 #0880a17"/>
+        <ptr target="#A013730" type="person"/>
         <ptr target="#PL000000013444" type="place"/>
     </linkGrp>
     <linkGrp>
-        <link targets="#0880a17 #0880a18"/>
-        <ptr target="#A013730" type="person"/>
-        <ptr target="#PL000000023579" type="place"/>
+        <link targets="#0880a17 #0880a19"/>
+        <ptr target="#A004029" type="person"/>
+        <ptr target="#A006962" type="person"/>
+        <ptr target="#PL000000023580" type="place"/>
         <ptr target="#j20253362025719" type="time"/>
     </linkGrp>
 </div>

@@ -1,27 +1,27 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" type="習禪" xml:id="gsz0766a13shiDaoYi"><lb
-n="0766a13" ed="T"/><anchor n="T.50.2061.0766a13"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date><placeName key="PL000000018582">洪州開元寺</placeName><persName key="A003623">道一</persName>傳（<persName key="A010347">智藏</persName>）</head><p><lb
-ed="T" n="0766a14"/><persName key="A003623">釋道一</persName><ptr target="#n1438"/>，姓馬氏，<placeName key="PL000000035365">漢州</placeName>人也。華以喻性，不植於<lb
+n="0766a13" ed="T"/><anchor n="T.50.2061.0766a13"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date><placeName key="PL000000018582"><placeName>洪州</placeName><placeName>開元寺</placeName></placeName><persName key="A003623">道一</persName>傳（<persName key="A010347">智藏</persName>）</head><p><lb
+ed="T" n="0766a14"/><persName key="A003623">釋道一</persName><ptr rend="display:none;" target="#n1438"/>，姓<name>馬</name>氏，<placeName key="PL000000035365">漢州</placeName>人也。華以喻性，不植於<lb
 ed="T" n="0766a15"/>高原；浪以辯識，發明於溟海。生而凝重，虎視<lb
 ed="T" n="0766a16"/>牛行。舌過鼻準，足文大字<ptr target="#n1439"/>。根塵雖同於法<lb
 ed="T" n="0766a17"/>體，相表特異於幻形，既云在凡之境，亦應<lb
 ed="T" n="0766a18"/>隨機之教。年方稚孺，厭視塵躅，脫落愛取，<lb
 ed="T" n="0766a19"/>遊步恬曠，削髮於<placeName key="PL000000035943">資州</placeName><persName key="A010342">唐和尚</persName>，受具於<placeName key="PL000000034104">渝州</placeName><lb
 ed="T" n="0766a20"/><persName key="A010343">圓<roleName>律師</roleName></persName><ptr target="#n1440"/>。示威儀之旨，曉開制之端，浣衣鍛<lb
-ed="T" n="0766a21"/>金，觀門都錯，大龍香象，羈絆則難。權變無方，<lb
-ed="T" n="0766a22"/>機緣有待。聞<placeName key="PL000000028928">衡嶽</placeName>有<persName key="A004015">讓<roleName>禪師</roleName></persName>，即<persName key="A001719">曹溪六祖</persName><lb
+ed="T" n="0766a21"/>金，觀門都錯，大龍香象<ptr rend="display:none;" type="glossary" target="#g1520"/>，羈絆則難。權變無方，<lb
+ed="T" n="0766a22"/>機緣有待。聞<placeName key="PL000000028928">衡嶽</placeName>有<persName key="A004015">讓<roleName>禪師</roleName></persName>，即<placeName key="PL000000030577">曹溪</placeName><persName key="A001719">六祖</persName><lb
 ed="T" n="0766a23"/>之前後也，於是出<placeName key="PL000000037464">岷</placeName>、<placeName key="PL000000036087">峨</placeName>、<placeName key="PL000000034983">玉壘</placeName>之深阻，詣靈<lb
 ed="T" n="0766a24"/>桂貞篁之幽寂。<persName key="A003623">一</persName>見<persName key="A004015">讓<roleName>公</roleName></persName>，泯然無際，頓門不<lb
 ed="T" n="0766a25"/>俟於三請<ptr target="#n1441"/>，作者是齊於七人<ptr target="#n1442"/>。以為法離文<lb
-ed="T" n="0766a26"/>字，猶傳蠧露，聖無方所，亦寄清源，遂於<placeName key="PL000000019808">臨<lb
-ed="T" n="0766a27"/>川棲</placeName>、<placeName key="PL000000019334">南康龔公</placeName>二山<ptr target="#n380"/>，所遊無滯，隨攝而化。<lb
+ed="T" n="0766a26"/>字，猶傳蠧露，聖無方所，亦寄清源，遂於<placeName key="PL000000019808"><placeName>臨<lb
+ed="T" n="0766a27"/>川</placeName><placeName>棲</placeName></placeName>、<placeName key="PL000000019334"><placeName>南康</placeName><placeName>龔公</placeName></placeName>二山<ptr target="#n380"/>，所遊無滯，隨攝而化。<lb
 ed="T" n="0766a28"/>先是，此峯岫間魑魅叢居，人莫敢近，犯之<lb
 ed="T" n="0766a29"/>者<anchor xml:id="beg0766sgsz4"/><choice resp="sgsz"><sic>炎</sic><corr>災</corr></choice><anchor xml:id="end0766sgsz4"/>釁立生。當<persName key="A003623">一</persName>宴息于是，有神衣紫玄冠<pb ed="T" n="0766b" xml:id="T50.2061.0766b"/><lb
 ed="T" n="0766b01"/>致禮言：「捨此地為清淨<name>梵</name>場。」語終不見。自<lb
 ed="T" n="0766b02"/>爾猛鷙毒螫，變心馴擾；沓貪背<anchor xml:id="beg0766001"/><choice resp="sgsz"><sic>僧</sic><corr>憎</corr></choice><anchor xml:id="end0766001"/>，即事廉<lb
 ed="T" n="0766b03"/>讓。郡守<placeName key="PL000000005197">河東</placeName><persName key="A003624">裴<roleName>公</roleName></persName>家奉正信，躬勤諮稟。降<lb
 ed="T" n="0766b04"/>英明簡貴之重，窮智術慧解之能。每至海<lb
-ed="T" n="0766b05"/>霞歛空，山月凝照，心與境寂，道隨悟深。自<lb
+ed="T" n="0766b05"/>霞<anchor xml:id="beg0766002"/><choice resp="sgsz"><sic>歛</sic><corr>斂</corr></choice><anchor xml:id="end0766002"/>空，山月凝照，心與境寂，道隨悟深。自<lb
 ed="T" n="0766b06"/>明者在乎周物，博施者期乎濟眾。居無何<ptr rend="display:none;" type="glossary" target="#g493"/>，<lb
 ed="T" n="0766b07"/><persName key="A003624">裴<roleName>公</roleName></persName>移典<placeName key="PL000000015064">廬江</placeName>、<placeName key="PL000000016346">壽春</placeName>二牧，於其進修惟勤，率<lb
 ed="T" n="0766b08"/>化不墜。<date notBefore-iso="+0766-12-22" key="j20011912005747" notAfter-iso="+0779-06-13"><name>大曆</name>中</date>、聖恩溥洽，隷名於<placeName key="PL000000018582">開元精<lb
@@ -37,25 +37,25 @@ ed="T" n="0766b17"/>中，幽偏自久。是謀薪火塵劫<ptr type="glossary" 
 ed="T" n="0766b18"/>阜地靈之吉。亞相觀察使<placeName key="PL000000044997">隴西</placeName><persName key="A010359">李<roleName>公</roleName></persName>藩寄嚴<lb
 ed="T" n="0766b19"/>厲，素所欽承，于以率徒依歸，緬懷助理。爰<lb
 ed="T" n="0766b20"/>用營福，道在觀化，情存飾終，輟諸侯之旌<lb
-ed="T" n="0766b21"/>旗，資釋子之幢蓋。其時日變明悔，人萃遐<lb
+ed="T" n="0766b21"/>旗，資<name>釋</name>子之幢蓋。其時日變明悔，人萃遐<lb
 ed="T" n="0766b22"/>邇，檝覆水而為陸，炬通宵而成晝。山門子<lb
 ed="T" n="0766b23"/>來，財施如積；邑里僧供，飯香普熏。自昔<persName key="A009319">華嚴</persName><lb
 ed="T" n="0766b24"/>歸真於<placeName key="PL000000023253">嵩</placeName>陽，<persName key="A001349">善導</persName>瘞塔於<placeName key="PL000000042627">秦嶺</placeName>，禮視<anchor xml:id="beg0766sgsz8"/>𪗋<anchor xml:id="end0766sgsz8"/>、斬<ptr type="glossary" target="#g1525"/>，<lb
 ed="T" n="0766b25"/>人傾國城，哀送之盛，今則三之。初於林中<lb
-ed="T" n="0766b26"/>經行，座下開示，平等垂法，不標於四科<ptr type="glossary" target="#g98"/>，安<lb
+ed="T" n="0766b26"/>經行<ptr type="glossary" target="#g1047"/>，座下開示，平等垂法，不標於四科<ptr type="glossary" target="#g98"/>，安<lb
 ed="T" n="0766b27"/>恬告盡，刻期於<date key="j20089472008975" from-iso="+0788-03-17" to-iso="+0788-04-14">二月</date>，此明<persName key="A003623">一</persName>終之先兆也。<lb
 ed="T" n="0766b28"/>示疾云逝，俾葬遠山，凡百攀援<ptr type="glossary" target="#g1526"/>，願留近郭。<lb
 ed="T" n="0766b29"/>終遂窮僻，式遵理命，此又明<persName key="A003623">一</persName>晦跡之素<pb ed="T" n="0766c" xml:id="T50.2061.0766c"/><lb
 ed="T" n="0766c01"/>誠也。將歸靈龕，爰泝淺瀨，人力未濟，舟行<lb
-ed="T" n="0766c02"/>為遲。膏雨<ptr type="glossary" target="#g1527"/>驟下於遠空，窮溪遄變於深涉，<lb
+ed="T" n="0766c02"/>為遲。膏雨<ptr rend="display:none;" type="glossary" target="#g1527"/>驟下於遠空，窮溪遄變於深涉，<lb
 ed="T" n="0766c03"/>此又明<persName key="A003623">一</persName>通神之應感也。惟<persName key="A003623">一</persName>知真在空，無<lb
-ed="T" n="0766c04"/>我於有，是二俱離，假<persName key="A003623">一</persName>為乘。示生死者人<lb
+ed="T" n="0766c04"/>我於有，是二俱離，假一為乘。示生死者人<lb
 ed="T" n="0766c05"/>能作佛，辨邪正者魔亦似聖。現身不留於<lb
 ed="T" n="0766c06"/>大士，負手俄萎於哲人<ptr target="#n1444"/>。弟子<persName key="A010347">智藏</persName>、<persName key="A010348">鎬英</persName>、<persName key="A010349">崇泰</persName><lb
-ed="T" n="0766c07"/>等奉其喪紀，<persName key="A002120">憲宗</persName>追諡曰<persName key="A003623">大寂禪師</persName>，<placeName key="PL000000010986">丹陽</placeName>公<lb
+ed="T" n="0766c07"/>等奉其喪紀，<persName key="A002120">憲宗</persName>追謚曰<persName key="A003623">大寂禪師</persName>，<placeName key="PL000000010986">丹陽</placeName>公<lb
 ed="T" n="0766c08"/><persName key="A010350">包佶</persName>為碑紀述，<persName key="A009536">權德輿</persName>為塔銘。今<placeName key="PL000000018931">海昏縣</placeName>影<lb
-ed="T" n="0766c09"/>堂存焉。又<date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date><placeName key="PL000000019103">虔州西堂</placeName><persName key="A010347">釋智藏</persName>，姓廖氏，<placeName key="PL000000019245">虔化</placeName><lb
-ed="T" n="0766c10"/>人也。生有奇表，親黨異其偉器。<date key="j20289602029324" from-iso="+0843-01-01" to-iso="+0843-12-31">八歲</date>從<ref type="person" target="#A003623">師</ref>，<lb
+ed="T" n="0766c09"/>堂存焉。又<date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date><placeName key="PL000000019103"><placeName>虔州</placeName><placeName>西堂</placeName></placeName><persName key="A010347">釋智藏</persName><ptr target="#n2378"/>，姓<name>廖</name>氏，<placeName key="PL000000019245">虔化</placeName><lb
+ed="T" n="0766c10"/>人也。生有奇表，親黨異其偉器。<date key="j20289602029324" from-iso="+0843-01-01" to-iso="+0843-12-31">八歲</date>從<ref type="person" target="#A003623">師</ref><ptr target="#n2379"/>，<lb
 ed="T" n="0766c11"/>道趣高邈。隨<persName key="A003623">大寂</persName>移居<placeName key="PL000000019334">龔公山</placeName>，後謁<placeName key="PL000000011848">徑山</placeName><lb
 ed="T" n="0766c12"/><persName key="A004218">國一<roleName>禪師</roleName></persName>，與其談論周旋，人皆改觀。屬元<lb
 ed="T" n="0766c13"/>戎<persName key="A013561">路嗣恭</persName>請<persName key="A003623">大寂</persName>居府，<persName key="A010347">藏</persName>乃迴<ref type="place" target="#PL000000019114">郡</ref>，得<persName key="A003623">大寂</persName><lb
@@ -63,7 +63,7 @@ ed="T" n="0766c14"/>付授納袈裟。時亞相<persName key="A010359">李<roleN
 ed="T" n="0766c15"/>郎<persName key="A017377">裴<roleName>公</roleName>通</persName>皆傾心順教。<date key="j20184922018492" when-iso="+0814-05-05"><name>元和</name>九年四月八日</date><lb
 ed="T" n="0766c16"/>終，春秋八十，夏臘五十五。即遷于塔<ptr target="#n1459"/>，諫議<lb
 ed="T" n="0766c17"/>大夫<persName key="A010351">韋綬</persName>追問<persName key="A010347">藏</persName>言行，編入《圖經》。太守<persName key="A009365">李渤</persName><lb
-ed="T" n="0766c18"/>請旌表，至<date from-iso="+0821-02-13" key="j20209682021319" to-iso="+0822-01-30"><name>長慶</name>元年</date>諡<persName key="A010347">大覺禪師</persName>云。</p>
+ed="T" n="0766c18"/>請旌表，至<date from-iso="+0821-02-13" key="j20209682021319" to-iso="+0822-01-30"><name>長慶</name>元年</date>謚<persName key="A010347">大覺禪師</persName>云。</p>
     <linkGrp>
         <link targets="#0766a14 #0766a14"/>
         <ptr target="#A003623" type="person"/>

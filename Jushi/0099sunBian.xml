@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="jsz0225b22sunBian">
+    <p><anchor n="X.88.1646.0225b22"/><lb ed="X" n="0225b22"/><persName key="A017657">孫忭</persName><placeName key="PL000000011516">錢塘</placeName>人。號<persName key="A017657">無諍居士</persName>。幼學易。歎曰。窮理盡性。易<lb ed="X" n="0225b23"/>之教也。烏用于祿為。遂掩關晦迹。居絕俗務。沙門<persName key="A017658">守<lb ed="X" n="0225b24"/>寧</persName>與之交。謂曰。<persName key="A004029">白樂天</persName>以儒修身。以釋治心。君聞之<lb ed="X" n="0225c01"/>乎。<persName key="A017657">忭</persName>有省。遂日閱華嚴．金剛諸經。以<placeName key="PL000000055477">淨土</placeName>為歸。母<persName key="A017659">龔<lb ed="X" n="0225c02"/>氏</persName>誦阿彌陀經。持佛名。晝夜不輟。偶得疾。請<persName key="A011793">清照律<lb ed="X" n="0225c03"/>師</persName>指示西歸。說法未終。端坐而化。老妾<persName key="A017661">于氏</persName>亦專持<lb ed="X" n="0225c04"/>佛名。忽夢<persName key="A017659">龔氏</persName>告曰。吾已得生淨土矣。汝後七日亦<lb ed="X" n="0225c05"/>當來也。至期果逝。頃之。<persName key="A017657">忭</persName>夢至蓮池。見<persName key="A011793">清照</persName>在側。旁<lb ed="X" n="0225c06"/>一人授以梵字帖。不識。其人曰。請十三日齋耳。時方<lb ed="X" n="0225c07"/>十二月。及期忽得疾。有僧問疾欲為祈禱。<persName key="A017657">忭</persName>曰。生死<lb ed="X" n="0225c08"/>已定。何必禱。即報<persName key="A011793">清照</persName>云。當暫相違。遂跏趺作印西<lb ed="X" n="0225c09"/>向坐脫。翼日<persName key="A011793">清照</persName>至。為說法封龕。歸菴三日亦逝(佛祖<lb ed="X" n="0225c10"/>統記)。</p> 
+    
+    <linkGrp>
+        <link targets="#0225b23 #0225c01"/>
+        <ptr target="#A017657" type="person"/>
+        <ptr target="#A017658" type="person"/>
+        <ptr target="unknown" type="place"/>
+        </linkGrp>
+    <linkGrp>
+        <link targets="#0225c01 #0225c05"/>
+        <ptr target="#A011793" type="person"/>
+        <ptr target="#A017657" type="person"/>
+        <ptr target="#A017659" type="person"/>
+        <ptr target="#A017661" type="person"/>
+        <ptr target="unknown" type="place"/>
+        </linkGrp>
+ </div>

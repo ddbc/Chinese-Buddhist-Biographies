@@ -1,19 +1,19 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" type="義解" xml:id="gsz0746b05shiYanHui"><lb
-ed="T" n="0746b05"/><anchor n="T.50.2061.0746b05"/><head><date from-iso="+0907-06-10" key="j20524952058534" to-iso="+0923-12-22">梁</date><placeName key="PL000000024131">滑州明福寺</placeName><persName key="A009862">彥暉</persName>傳</head><p><lb
-ed="T" n="0746b06"/><persName key="A009862">釋彥暉</persName>，姓孫氏，今<placeName key="PL000000024333">東京陽武縣</placeName>人也。佩觽<ptr type="glossary" target="#g827"/>之<lb
+ed="T" n="0746b05"/><anchor n="T.50.2061.0746b05"/><head><date from-iso="+0907-06-10" key="j20524952058534" to-iso="+0923-12-22">梁</date><placeName key="PL000000024131"><placeName>滑州</placeName><placeName>明福寺</placeName></placeName><persName key="A009862">彥暉</persName>傳</head><p><lb
+ed="T" n="0746b06"/><persName key="A009862">釋彥暉</persName>，姓<name>孫</name>氏，今<placeName key="PL000000024333"><placeName>東京</placeName><placeName>陽武縣</placeName></placeName>人也。佩觽<ptr type="glossary" target="#g827"/>之<lb
 ed="T" n="0746b07"/>歲，聞父讀《金剛般若》，瞪目凝聽，澹然歡喜。又<lb
 ed="T" n="0746b08"/>屬家內齋僧，磬、<name>梵</name>俱作，於簾幕之下合掌<lb
 ed="T" n="0746b09"/>欣然。登<date key="j20329782033342" from-iso="+0854-01-01" to-iso="+0854-12-31">年十五</date>，隨師學法，往<placeName key="PL000000003794">太原</placeName>、<placeName key="PL000000042192">京兆</placeName>、<placeName key="PL000000023581">洛<lb
-ed="T" n="0746b10"/>陽</placeName>聽采<ptr type="glossary" target="#g1058"/>忘勞。<date key="j20348042035168" from-iso="+0859-01-01" to-iso="+0859-12-31">年滿</date>，於<placeName key="PL000000023264">嵩山少室寺</placeName>受大戒，<lb
-ed="T" n="0746b11"/>隷習<ptr type="glossary" target="#g923"/>毘尼<ptr type="glossary" target="#g900"/>，頗通深趣<ptr rend="display:none;" type="glossary" target="#g428"/>。次尋經論，皆討玄源。<lb
+ed="T" n="0746b10"/>陽</placeName>聽采<ptr type="glossary" target="#g1058"/>忘勞。<date key="j20348042035168" from-iso="+0859-01-01" to-iso="+0859-12-31">年滿</date>，於<placeName key="PL000000023264"><placeName>嵩山</placeName><placeName>少室寺</placeName></placeName>受大戒，<lb
+ed="T" n="0746b11"/>隷習<ptr rend="display:none;" type="glossary" target="#g923"/>毘尼<ptr type="glossary" target="#g900"/>，頗通深趣<ptr rend="display:none;" type="glossary" target="#g428"/>。次尋經論，皆討玄源。<lb
 ed="T" n="0746b12"/>且曰：「為善不同，同歸乎治<ptr target="#n1059"/>。治則戒、定、慧也。<lb
 ed="T" n="0746b13"/>入聖機械<ptr target="#n1060"/>，此三治性之極致也。」屆<placeName key="PL000000023581">洛都</placeName>，先達<lb
 ed="T" n="0746b14"/>無不推伏。至乎四部<ptr type="glossary" target="#g98"/>悉仰柔明，臨鑑則戚<lb
 ed="T" n="0746b15"/>少欣多，執瓶則荷輕持重。三衣之外，百一<ptr type="glossary" target="#g1061"/><lb
 ed="T" n="0746b16"/>之資，量足而供，更無餘長。所行慈、忍，匪事<lb
 ed="T" n="0746b17"/>規求。不畜門徒，惟勞自己，勤勤化導，默默<lb
-ed="T" n="0746b18"/>進修。是故<ref type="place" target="#PL000000024155">南燕</ref>之人號為<persName key="A009862">佛子</persName>。初寄<placeName key="PL000000024131">明福<lb
+ed="T" n="0746b18"/>進修。是故<placeName key="PL000000024155">南燕</placeName>之人號為<persName key="A009862">佛子</persName>。初寄<placeName key="PL000000024131">明福<lb
 ed="T" n="0746b19"/>寺</placeName>，講《百法論》也，四海英髦<ptr type="glossary" target="#g22"/>，風趨波委，恒溢<lb
 ed="T" n="0746b20"/>百餘，且多俊邁，精研論席，鑽仰經宗。其間<lb
 ed="T" n="0746b21"/>碩學兼才，故有分為上、下十惡。十惡者，若八<lb
@@ -22,7 +22,7 @@ ed="T" n="0746b23"/>宗、因、喻三<ptr type="glossary" target="#g496"/>，�
 ed="T" n="0746b24"/>吟詠風騷，擊論談經，聲清口捷，讚揚<name>梵</name>唄，<lb
 ed="T" n="0746b25"/>表白導宣。蓋因題目<ptr type="glossary" target="#g1243"/>之分，乃極才能之際，<lb
 ed="T" n="0746b26"/>云惡則倒背之言，乃是極善也。其門弟子為<lb
-ed="T" n="0746b27"/>若此也。<persName key="A009862">暉</persName>《因明》、《百法》二論各講百許遍，出<lb
+ed="T" n="0746b27"/>若此也。<persName key="A009862">暉</persName>《因明》<ptr target="#n1175"/>、《百法》<ptr target="#n1274"/>二論各講百許遍，出<lb
 ed="T" n="0746b28"/>弟子一百五十餘人，著鈔曰《滑臺》，盛行于<lb
 ed="T" n="0746b29"/>世。以<date key="j20540412054041" when-iso="+0911-09-03"><name>乾化</name>元年秋八月三日</date>，氣力薾然<ptr type="glossary" target="#g165"/>而奄<pb ed="T" n="0746c" xml:id="T50.2061.0746c"/><lb
 ed="T" n="0746c01"/>化矣。春秋七十二，法臘五十二。<placeName key="PL000000024155">滑</placeName>人追慕其<lb

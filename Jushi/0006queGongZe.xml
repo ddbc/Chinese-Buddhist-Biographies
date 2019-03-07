@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="jsz0185b17queGongZe">
+    <p><anchor n="X.88.1646.0185b17"/><lb ed="X" n="0185b17"/><persName key="A014967">闕公則</persName>者<placeName key="PL000000000935">趙</placeName>人也。<date from-iso="0266-02-08" key="j18182531827115" to-iso="0290-05-15">晉武帝時</date>居於<placeName key="PL000000023710">洛陽</placeName>。蕭然恬放。日<lb ed="X" n="0185b18"/>常誦正法華經。既卒。其友為設會於<placeName key="PL000000023663">白馬寺</placeName>。至夕轉<lb ed="X" n="0185b19"/>經。忽聞空中有聲。仰視一人形色光麗曰。我<persName key="A014967">闕公則</persName><lb ed="X" n="0185b20"/>也。生西方安樂世界。與諸上人來此聽經。堂中人共<lb ed="X" n="0185b21"/>見之。有<placeName key="PL000000024488">汲郡</placeName><persName key="A002502">衛士度</persName>者。受業於<persName key="A014967">公則</persName>。其母常飯僧。是<lb ed="X" n="0185b22"/>日將中。忽空中下鉢正落母前。諦視之乃<persName key="A014967">公則</persName>常所<lb ed="X" n="0185b23"/>用鉢也。有飯滿中。其香充堂。食者七日不飢。<persName key="A002205">支道林</persName><lb ed="X" n="0185b24"/>為之讚曰。大哉<persName key="A014967">闕公</persName>。歆虗納靈。神化西域。跡應<placeName key="PL000000023710">東京</placeName>。<lb ed="X" n="0185c01"/>徘徊霄墟。流響耀形。豈欽一贊。示以匪冥(大唐內典錄．念佛寶<lb ed="X" n="0185c02"/>王三昧論○按他書譔引。<persName key="A014967">公則</persName>為<ref target="#PL000000018771" type="place">東林社</ref>中人。今據二書正之)。</p>
+    
+    <linkGrp>
+        <link targets="#0185b17 #0185b18"/>
+        <ptr target="#A014967" type="person"/>
+        <ptr target="#PL000000023710" type="place"/>
+        <ptr target="#j18182531827115" type="time"/>
+    </linkGrp>  
+    <linkGrp>
+        <link targets="#0185b21 #0185b21"/>
+        <ptr target="#A014967" type="person"/>
+        <ptr target="#A002502" type="person"/>
+        <ptr target="unknown" type="place"/>
+        </linkGrp>
+ </div>

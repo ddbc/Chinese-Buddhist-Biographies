@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" type="譯經" xml:id="gsz0719b05shiTiYunBanRuo"><lb
-ed="T" n="0719b05"/><anchor n="T.50.2061.0719b05"/><head><date from-iso="+0689-12-21" key="j19730671978610" to-iso="+0705-02-24">周</date><placeName key="PL000000023665">洛京魏國東寺</placeName><persName key="A001210">天智</persName>傳<ptr target="#n109"/></head><p><lb
+ed="T" n="0719b05"/><anchor n="T.50.2061.0719b05"/><head><date from-iso="+0689-12-21" key="j19730671978610" to-iso="+0705-02-24">周</date><placeName key="PL000000023665"><placeName>洛京</placeName><placeName>魏國東寺</placeName></placeName><persName key="A001210">天智</persName>傳<ptr rend="display:none;" target="#n109"/></head><p><lb
 ed="T" n="0719b06"/><persName key="A001210">釋提雲般若</persName>，或云<persName key="A001210">提雲陀若那</persName>，<name>華</name>言<persName key="A001210">天智</persName>，<lb
 ed="T" n="0719b07"/><placeName key="PL000000047983">于闐國</placeName>人也。學通大小，解兼真俗<ptr type="glossary" target="#g344"/>，呪術禪<lb
 ed="T" n="0719b08"/>門，無不諳曉。<date from-iso="+0689-01-30" key="j19727421973066" to-iso="+0689-12-20"><name><anchor xml:id="beg0719002"/><choice resp="sgsz"><sic>水</sic><corr>永</corr></choice><anchor xml:id="end0719002"/>昌</name>元年</date>，來屆于此，謁<persName key="A002099">天后</persName><lb

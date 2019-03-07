@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" type="習禪" xml:id="gsz0757a24shiTanCui"><lb
-ed="T" n="0757a24"/><anchor n="T.50.2061.0757a24"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date><placeName key="PL000000011013">潤州竹林寺</placeName><persName key="A010097">曇璀</persName>傳</head><p><lb
-ed="T" n="0757a25"/><persName key="A010097">釋曇璀</persName>，俗姓顧氏，<placeName key="PL000000009928">吳郡</placeName>人也。肇國著姓，其來<lb
+ed="T" n="0757a24"/><anchor n="T.50.2061.0757a24"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date><placeName key="PL000000011013"><placeName>潤州</placeName><placeName>竹林寺</placeName></placeName><persName key="A010097">曇璀</persName>傳</head><p><lb
+ed="T" n="0757a25"/><persName key="A010097">釋曇璀</persName>，俗姓<name>顧</name>氏，<placeName key="PL000000009928">吳郡</placeName>人也。肇國著姓，其來<lb
 ed="T" n="0757a26"/>彌光。丞相<ptr target="#n1336"/>有佐命之勳，尚書<ptr target="#n1337"/>有挺濟之譽。衣<lb
 ed="T" n="0757a27"/>冠鼎胄<ptr type="glossary" target="#g1362"/>，<placeName key="PL000000021580">太嶽</placeName>峻<placeName key="PL000000021580">岱峯</placeName>之高<ptr target="#n1338"/>；令問<ptr type="glossary" target="#g546"/>徽猷<ptr type="glossary" target="#g548"/>，<placeName key="PL000000000150">江</placeName><placeName key="PL000000026396">漢</placeName>為<lb
-ed="T" n="0757a28"/><placeName key="PL000000000197">南國</placeName>之紀<ptr type="glossary" target="#g1186"/>。星象降精<ptr type="glossary" target="#g1363"/>，靈祇効祉<ptr type="glossary" target="#g1364"/>，德備胎教，<lb
+ed="T" n="0757a28"/><placeName key="PL000000000197">南國</placeName>之紀<ptr type="glossary" target="#g1186"/>。星象降精<ptr rend="display:none;" type="glossary" target="#g1363"/>，靈祇効祉<ptr type="glossary" target="#g1364"/>，德備胎教，<lb
 ed="T" n="0757a29"/>香符夢徵。玄珪<ptr type="glossary" target="#g1365"/>應上聖之祥，神寶<ptr type="glossary" target="#g1366"/>蓄<placeName key="PL000000000193">河</placeName><placeName key="PL000000005527">汾</placeName><pb ed="T" n="0757b" xml:id="T50.2061.0757b"/><lb
 ed="T" n="0757b01"/>之氣。特受異準，生而不凡，襁褓之日而童<lb
 ed="T" n="0757b02"/>蒙來求，佩觽<ptr type="glossary" target="#g827"/>之時而忘身殉道。和敏而純<lb
@@ -23,13 +23,13 @@ ed="T" n="0757b14"/><roleName>法師</roleName></persName>，咸<anchor xml:id="
 ed="T" n="0757b15"/>往實歸<ptr type="glossary" target="#g1372"/>。<persName key="A002099">則天<roleName>皇母</roleName></persName>臨朝，龔行<ptr type="glossary" target="#g1373"/>佛事，高其道<lb
 ed="T" n="0757b16"/>業，周勤詔書。時<placeName key="PL000000009026">棲霞</placeName><persName key="A010101">約<roleName>法師</roleName></persName>，<name>梵</name>門之秀傑，躬<lb
 ed="T" n="0757b17"/>以敦勸朝天，抗詔皇明<ptr type="glossary" target="#g1374"/>，恐未然也。<persName key="A010097">璀</persName>曰：「<persName key="A019020"><anchor xml:id="beg0757003"/><choice resp="sgsz"><sic>岐</sic><corr>支</corr></choice><anchor xml:id="end0757003"/><lb
-ed="T" n="0757b18"/>伯</persName>辭<persName key="A002434">帝舜</persName>之師，<persName key="A002707"><anchor xml:id="beg0757sgsz3"/>干<anchor xml:id="end0757sgsz3"/>木</persName>謝<persName key="A002864">文侯</persName>之命，<persName key="A009180">玄暢</persName>以<lb
+ed="T" n="0757b18"/>伯</persName>辭<persName key="A002434">帝舜</persName>之師，<persName key="A002707"><anchor xml:id="beg0757sgsz3"/>干<anchor xml:id="end0757sgsz3"/>木</persName>謝<persName key="A002864">文侯</persName>之命，<persName key="A000298">玄暢</persName>以<lb
 ed="T" n="0757b19"/>善論而抗<ref type="person" target="#A002604">宋主</ref><ptr target="#n1339"/>，<persName key="A001204">惠遠</persName>不下山而傲<placeName key="PL000000037386">齊后</placeName><ptr target="#n1340"/>，彼<lb
-ed="T" n="0757b20"/>何人哉！」由是遁北阜，踰東岡，考槃<ptr type="glossary" target="#g1375"/>雲冥，<lb
+ed="T" n="0757b20"/>何人哉！」由是遁北阜，踰東岡，考槃<ptr type="glossary" target="#g345"/>雲冥，<lb
 ed="T" n="0757b21"/>後止于<placeName key="PL000000011013">竹林</placeName>之隩<ptr type="glossary" target="#g1376"/>，葺宇簋缶<ptr type="glossary" target="#g1377"/>而告老焉。既<lb
 ed="T" n="0757b22"/>而紹列聖之鴻徽，繼前賢之能事，翼亮皇<lb
 ed="T" n="0757b23"/><name>梵</name>，保寧天人。俄端然入定，七日而滅，春秋<lb
-ed="T" n="0757b24"/>六十二。是歲<date key="j19738691973869" when-iso="+0692-03-02">天授三年二月六日</date>也。<ref type="date" target="#j19738701973870">翌日</ref>，依<lb
+ed="T" n="0757b24"/>六十二。是歲<date key="j19738691973869" when-iso="+0692-03-02"><name>天授</name>三年二月六日</date>也。<ref type="date" target="#j19738701973870">翌日</ref>，依<lb
 ed="T" n="0757b25"/>天竺法火化，遺骸收灰建塔，士庶含酸，悉<lb
 ed="T" n="0757b26"/>皆號慟。門弟子<persName key="A010103">僧感</persName>、<persName key="A010104">僧頵</persName>等刻石紀事，奉<lb
 ed="T" n="0757b27"/>全師<anchor xml:id="beg0757sgsz4"/>禮<anchor xml:id="end0757sgsz4"/>。正議大夫使持節<placeName key="PL000000010986">潤州</placeName>刺史<ptr target="#n1341"/><placeName key="PL000000026334">汝南郡</placeName><lb
@@ -96,7 +96,7 @@ ed="T" n="0757b29"/>美焉。</p>
         </linkGrp>
         <linkGrp>
                 <link targets="#0757b18 #0757b19"/>
-                <ptr target="#A009180" type="person"/>
+                <ptr target="#A000298" type="person"/>
                 <ptr target="#A002604" type="person"/>
         </linkGrp>
         <linkGrp>

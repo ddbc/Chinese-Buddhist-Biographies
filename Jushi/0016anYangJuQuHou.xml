@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="jsz0189b20anYangJuQuHou">
+    <head><anchor n="X.88.1646.0189b20"/><lb ed="X" n="0189b20"/><ref target="#A000751" type="person">安陽</ref><ref target="#A011226" type="person">董</ref><ref target="#A014023" type="person">何</ref><ref target="#A015494" type="person">魏</ref><ref target="#A015501" type="person">陳</ref><ref target="#A007012" type="person">劉</ref>傳</head>
+    <p><lb ed="X" n="0189b21"/><persName key="A000751">安陽沮渠侯</persName><persName key="A000751">京聲</persName>者。<placeName key="PL000000046755">天水臨城</placeName><!-- 應為盧水，請參見人名規範資料庫沮渠京聲詞條 -->縣人。<placeName key="PL000000041987">河西</placeName>王<persName key="A002559">蒙遜</persName>之<lb ed="X" n="0189b22"/>從弟也。為人疎通彊識。幼稟五戒銳意內典。少時甞<lb ed="X" n="0189b23"/>到<placeName key="PL000000047989">于闐國</placeName>。經<placeName key="PL000000047980">衢摩帝太寺</placeName>。遇<placeName key="PL000000048207">天竺</placeName>法師<persName key="A015463">佛陀斯陀</persName>。咨<lb ed="X" n="0189b24"/>問道義從受禪要秘密治病經。既而東歸<placeName key="PL000000047486">高昌</placeName>。求得<lb ed="X" n="0189c01"/><persName key="A002803">觀世音</persName>．<persName key="A001428">彌勒</persName>二觀經各一卷。及還<placeName key="PL000000041987">河西</placeName>。即譯出禪要。<lb ed="X" n="0189c02"/>居數年。<date from-iso="0439-02-01" key="j18814331881698" to-iso="0439-10-24"><persName key="A002596">魏主燾</persName>破<placeName key="PL000000041987">河西</placeName></date><!-- 北涼哀王永和七年 -->。<persName key="A000751">安陽</persName>奔<placeName key="PL000000000136">宋</placeName>。晦志卑身不交世<lb ed="X" n="0189c03"/>務。常遊止塔寺。初出<persName key="A002803">觀世音</persName><persName key="A001428">彌勒</persName>二觀經。<placeName key="PL000000008882">丹陽尹</placeName><persName key="A002587">孟<lb ed="X" n="0189c04"/>顗</persName>見而善之。請與相見。厚設供養。至<date from-iso="0455-02-04" key="j18872801887633" to-iso="0456-01-23">孝建二年</date>。比丘<lb ed="X" n="0189c05"/>尼<persName key="A002603">慧濬</persName>聞其諷禪經。請得傳寫。遂出為五卷。其年於<lb ed="X" n="0189c06"/>鍾山<placeName key="PL000000008743">定林寺</placeName>續出佛母泥洹經一卷。<persName key="A000751">安陽</persName>居絕妻拏。<lb ed="X" n="0189c07"/>不樂榮利。從容法侶宣通經典。是以緇白交敬禮焉。<lb ed="X" n="0189c08"/><date from-iso="0464-01-26" key="j18905581890726" to-iso="0464-07-12">大明末</date><!-- 應為大明八年，請參見人名規範資料庫沮渠京聲詞條 -->遘疾而卒(出三藏記集)。</p> 
+    
+    <linkGrp>
+        <link targets="#0189b21 #0189b22"/>
+        <ptr target="#A000751" type="person"/>
+        <ptr target="#A002559" type="person"/>
+        <ptr target="unknown" type="place"/>
+        </linkGrp>
+    <linkGrp>
+        <link targets="#0189b22 #0189b24"/>
+        <ptr target="#A000751" type="person"/>
+        <ptr target="#A015463" type="person"/>
+        <ptr target="#PL000000047980" type="place"/>
+        </linkGrp>
+    <linkGrp>
+        <link targets="#0189b24 #0189c01"/>
+        <ptr target="#A000751" type="person"/>
+        <ptr target="#PL000000047486" type="place"/>
+        </linkGrp>
+    <linkGrp>
+        <link targets="#0189c02 #0189c02"/>
+        <ptr target="#A000751" type="person"/>
+        <ptr target="#PL000000000136" type="place"/>
+        <ptr target="#j18814331881698" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0189c02 #0189c04"/>
+        <ptr target="#A000751" type="person"/>
+        <ptr target="#A002587" type="person"/>
+        <ptr target="unknown" type="place"/>
+        </linkGrp>
+    <linkGrp>
+        <link targets="#0189c04 #0189c05"/>
+        <ptr target="#A000751" type="person"/>
+        <ptr target="#A002603" type="person"/>
+        <ptr target="unknown" type="place"/>
+        <ptr target="#j18872801887633" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0189c05 #0189c06"/>
+        <ptr target="#A000751" type="person"/>
+        <ptr target="#PL000000008743" type="place"/>
+        <ptr target="#j18872801887633" type="time"/>
+    </linkGrp>
+ </div>

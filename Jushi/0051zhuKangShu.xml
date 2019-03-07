@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="jsz0204b15zhuKangShu">
+    <p><anchor n="X.88.1646.0204b15"/><lb ed="X" n="0204b15"/><persName key="A016688">朱康叔</persName>名<persName key="A016688">壽昌</persName>。揚州<placeName key="PL000000015859">天長</placeName>人。以父蔭為將作監。<date from-iso="1064-01-27" key="j21097042110803" to-iso="1067-01-30">宋治<lb ed="X" n="0204b16"/>平</date>中。歷官知<placeName key="PL000000036532">閬州</placeName><placeName key="PL000000017010">廣德軍</placeName>。<persName key="A016688">康叔</persName>七歲。父官<placeName key="PL000000042188">長安</placeName>出其<lb ed="X" n="0204b17"/>母<persName key="A016691">劉氏</persName>嫁民間。<persName key="A016688">康叔</persName>既仕。念母行四方。求之飲食罕<lb ed="X" n="0204b18"/>御酒肉。每於佛前灼臂燒頂刺血寫經。冀遂其志。<date key="j21111812112089" to-iso="1070-08-08" from-iso="1068-02-12">熙<lb ed="X" n="0204b19"/>寧初</date>棄官入<placeName key="PL000000042002">秦</placeName>。與家人訣。誓不見母不復還。行次<placeName key="PL000000043352">同<lb ed="X" n="0204b20"/>州</placeName>得焉。<persName key="A016688">康叔</persName>念報母恩。欲度眾苦。觀諸教門。切近周<lb ed="X" n="0204b21"/>至。莫如<persName key="A002098">梁武</persName>所著懺法。然其文繁旨秘。觀者不能盡<lb ed="X" n="0204b22"/>了。乃更為韵語。使一切人歌詠讚歎俱獲福利。<persName key="A003555">蘇子<lb ed="X" n="0204b23"/>贍</persName>為說偈曰。<ref target="#A016688" type="person">長者</ref>失母。常自念言。母本生我。我生母<lb ed="X" n="0204b24"/>去。有我無母。不如無我。誓以此生。出生入死。母若不<lb ed="X" n="0204c01"/>見。我亦隨盡。在眾人中。猶如狂人。終日皇皇。四十餘<lb ed="X" n="0204c02"/>年。乃見其母。我初不記。母之長短。大小肥瘠。云何一<lb ed="X" n="0204c03"/>見。便知是母。母子天性。自然冥契。如磁石針。不謀而<lb ed="X" n="0204c04"/>合。我未見母。不求何獲。既見母已。即無所求。諸佛子<lb ed="X" n="0204c05"/>等。歌咏懺文。既懺罪已。當求佛道。如我所說。作求母<lb ed="X" n="0204c06"/>觀。尋起通判<placeName key="PL000000005213">河中</placeName>。居數年。母卒。涕泣失明。有白烏集<lb ed="X" n="0204c07"/>其墓上。後知<placeName key="PL000000026469">鄂州</placeName>代。還卒於家(<persName key="A003555">東坡</persName>文集．東都事略)。</p> 
+    
+    <linkGrp>
+        <link targets="#0204b15 #0204b16"/>
+        <ptr target="#A016688" type="person"/>
+        <ptr target="#PL000000017010" type="place"/>
+        <ptr target="#j21097042110803" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0204b17 #0204b19"/>
+        <ptr target="#A016688" type="person"/>
+        <ptr target="#PL000000042002" type="place"/>
+        <ptr target="#j21111812112089" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0204b19 #0204b20"/>
+        <ptr target="#A016688" type="person"/>
+        <ptr target="#A016691" type="person"/>
+        <ptr target="#PL000000043352" type="place"/>
+        <ptr target="#j21097042110803" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0204c06 #0204c06"/>
+        <ptr target="#A016688" type="person"/>
+        <ptr target="#PL000000005213" type="place"/>
+        </linkGrp>
+    <linkGrp>
+        <link targets="#0204c07 #0204c07"/>
+        <ptr target="#A016688" type="person"/>
+        <ptr target="#PL000000026469" type="place"/>
+        </linkGrp>
+ </div>

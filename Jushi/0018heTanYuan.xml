@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="jsz0189c23heTanYuan">
+    <p><anchor n="X.88.1646.0189c23"/><lb ed="X" n="0189c23"/><persName key="A014023">何曇遠</persName><placeName key="PL000000016440">廬江</placeName>人。宋御史中丞<persName key="A015492">萬壽</persName>之子也。少奉法持<lb ed="X" n="0189c24"/>菩薩戒。<date from-iso="0432-02-18" key="j18788931879247" to-iso="0433-02-06">年十八</date><!-- 元嘉九年，請參見T53n2122_p0400b10 -->居父喪。哀毀成疾。遂歸心淨土。請僧<lb ed="X" n="0190a01"/>數人於家懺悔宿業。久而益虔。<date key="j18792921879292" when-iso="0433-03-23">一夕轉經竟</date><!-- 元嘉十年二月十六日，請參見T53n2122_p0400b10 -->。眾僧已<lb ed="X" n="0190a02"/>眠。<persName key="A014023">曇遠</persName>忽自歌誦。僧異而問之。曰。見佛身黃金色。光<lb ed="X" n="0190a03"/>丈餘。自西而至。幡花翼從。充滿虗空。佛熈怡微笑詔<lb ed="X" n="0190a04"/><persName key="A014023">曇遠</persName>速去。<persName key="A014023">曇遠</persName>素羸弱。至是神色壯厲。便取香花散<lb ed="X" n="0190a05"/>之空中。至五更忽然而終。宅中芬香數日乃歇(冥祥記)。</p> 
+        
+    <linkGrp>
+        <link targets="#0189c23 #0189c24"/>
+        <ptr target="#A014023" type="person"/>
+        <ptr target="#A015492" type="person"/>
+        <ptr target="#PL000000016440" type="place"/>
+        <ptr target="#j18788931879247" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0190a01 #0190a05"/>
+        <ptr target="#A014023" type="person"/>
+        <ptr target="#PL000000016440" type="place"/>
+        <ptr target="#j18792921879292" type="time"/>
+    </linkGrp>
+ </div>

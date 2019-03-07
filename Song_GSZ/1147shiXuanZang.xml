@@ -1,20 +1,30 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" type="讀誦" xml:id="gsz0863c15shiXuanZang"><lb
-ed="T" n="0863c15"/><anchor n="T.50.2061.0863c15"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date>荊州白馬寺<persName key="A009306">玄奘</persName>傳</head><p><lb
-ed="T" n="0863c16"/><persName key="A009306">釋玄奘</persName>，<placeName key="PL000000027764">江陵</placeName>人也。通大小乘學，尤明法華<lb
-ed="T" n="0863c17"/>正典，別是命家。自五十載中，日誦七遍，甞<lb
-ed="T" n="0863c18"/>因淨室焚香，感天人來傾聽。齋講之時，徵祥<lb
+ed="T" n="0863c15"/><anchor n="T.50.2061.0863c15"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date><placeName key="PL000000027753"><placeName>荊州</placeName><placeName>白馬寺</placeName></placeName><persName key="A009306">玄奘</persName>傳</head><p><lb
+ed="T" n="0863c16"/><persName key="A009306">釋玄奘</persName>，<placeName key="PL000000027770">江陵</placeName>人也。通大小乘學，尤明《法華》<ptr target="#n2996"/><lb
+ed="T" n="0863c17"/>正典，別是命家<ptr type="glossary" target="#g162"/>。自五十載中，日誦七遍，甞<lb
+ed="T" n="0863c18"/>因淨室<ptr type="glossary" target="#g1985"/>焚香，感天人來傾聽。齋講<ptr type="glossary" target="#g1986"/>之時，徵祥<lb
 ed="T" n="0863c19"/>合沓。與<persName key="A009309">道俊</persName>同被召，在<placeName key="PL000000042189">京</placeName>二載。<date key="j19801021980102" when-iso="+0709-03-27"><name>景龍</name>三年<lb
 ed="T" n="0863c20"/>二月八日</date>，<persName key="A002100">孝和帝</persName>於<placeName key="PL000000042281">林光殿</placeName>解齋，時諸學士<lb
 ed="T" n="0863c21"/>同觀盛集。<persName key="A009306">奘</persName>等告乞還鄉，詔賜御詩，諸學<lb
-ed="T" n="0863c22"/>士大僚奉和。中書令<persName key="A002109">李嶠</persName>詩云：「三乘歸淨域，<lb
-ed="T" n="0863c23"/>萬騎餞通莊。就日離亭近，彌天別路長。<placeName key="PL000000027764">荊<lb
-ed="T" n="0863c24"/>南</placeName>旋杖鉢，渭北限津梁。何日紆真果，重來<lb
+ed="T" n="0863c22"/>士大僚奉和。中書令<persName key="A002109">李嶠</persName>詩云：「三乘<ptr target="#n3003"/>歸淨域，<lb
+ed="T" n="0863c23"/>萬騎餞通莊<ptr type="glossary" target="#g1987"/>。就日離亭<ptr type="glossary" target="#g1988"/>近，彌天別路長。<placeName key="PL000000027770">荊<lb
+ed="T" n="0863c24"/>南</placeName>旋杖鉢，<placeName key="PL000000042014">渭</placeName>北限津梁<ptr target="#n3004"/>。何日紆真果，重來<lb
 ed="T" n="0863c25"/>入帝鄉？」中書舍人<persName key="A002474">李<anchor xml:id="beg0863002"/><choice resp="sgsz"><sic>又</sic><corr>乂</corr></choice><anchor xml:id="end0863002"/></persName>云：「初日承歸旨，秋<lb
-ed="T" n="0863c26"/>風起贈言。漢珠留道味，江璧返真源。地出<lb
-ed="T" n="0863c27"/>南關遠，天迴北斗尊，寧知一柱觀，却啟四禪<lb
-ed="T" n="0863c28"/>門。」更有諸公詩送，此不殫錄。<persName key="A009306">奘</persName><anchor xml:id="beg0863sgsz9"/>歸<anchor xml:id="end0863sgsz9"/>，終本<lb
-ed="T" n="0863c29"/>寺焉。</p>
+ed="T" n="0863c26"/>風<ptr target="#n3005"/>起贈言。<placeName key="PL000000027770">漢</placeName><ptr target="#n1148"/>珠留道味，<placeName key="PL000000027770">江</placeName>璧返真源。地出<lb
+ed="T" n="0863c27"/><ref type="place" target="#A010548">南關</ref><ptr target="#n3006"/>遠，天迴北斗尊，寧知<placeName key="PL000000059565">一柱觀</placeName>，却啟四禪<lb
+ed="T" n="0863c28"/>門<ptr type="glossary" target="#g1197"/>。」<ptr target="#n3009"/>更有諸公詩送，此不殫錄。<persName key="A009306">奘</persName><anchor xml:id="beg0863sgsz9"/>歸<supplied resp="sgsz">鄉</supplied><anchor xml:id="end0863sgsz9"/>，終<ref type="place" target="#PL000000027753">本<lb
+ed="T" n="0863c29"/>寺</ref>焉。</p>
+    <linkGrp>
+        <link targets="#0863c15 #0863c15"/>
+        <ptr target="#A009306" type="person"/>
+        <ptr target="#PL000000027753" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0863c16 #0863c16"/>
+        <ptr target="#A009306" type="person"/>
+        <ptr target="#PL000000027770" type="place"/>
+    </linkGrp>
     <linkGrp>
         <link targets="#0863c19 #0863c19"/>
         <ptr target="#A009306" type="person"/>
@@ -22,17 +32,18 @@ ed="T" n="0863c29"/>寺焉。</p>
         <ptr target="#PL000000042189" type="place"/>
     </linkGrp>
     <linkGrp>
-        <link targets="#0863c16 #0863c16"/>
-        <ptr target="#A009306" type="person"/>
-        <ptr target="#PL000000027764" type="place"/>
-    </linkGrp>
-    <linkGrp>
         <link targets="#0863c19 #0863c27"/>
         <ptr target="#A009306" type="person"/>
+        <ptr target="#A009309" type="person"/>
         <ptr target="#A002100" type="person"/>
         <ptr target="#A002109" type="person"/>
         <ptr target="#A002474" type="person"/>
         <ptr target="#PL000000042281" type="place"/>
         <ptr target="#j19801021980102" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0863c28 #0863c29"/>
+        <ptr target="#A009306" type="person"/>
+        <ptr target="#PL000000027753" type="place"/>
     </linkGrp>
 </div>

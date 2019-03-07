@@ -1,22 +1,22 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" type="習禪" xml:id="gsz0771c17shiZiZai"><lb
-n="0771c17" ed="T"/><anchor n="T.50.2061.0771c17"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date><placeName key="PL000000025190">洛京伏牛山</placeName><persName key="A010392">自在</persName>傳（<persName key="A010447">一鉢和尚</persName> <persName key="A005287">南印</persName>）</head><p><lb
+n="0771c17" ed="T"/><anchor n="T.50.2061.0771c17"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date><placeName key="PL000000025190"><placeName>洛京</placeName><placeName>伏牛山</placeName></placeName><persName key="A010392">自在</persName>傳（<persName key="A010447">一鉢和尚</persName> <persName key="A005287">南印</persName>）</head><p><lb
 ed="T" n="0771c18"/><persName key="A010392">釋自在</persName>俗姓<name>李</name>，<placeName key="PL000000013012">吳興</placeName>人也，生有奇瑞。稍長，<lb
 ed="T" n="0771c19"/>坐則加趺，親黨異之。辭所愛投<placeName key="PL000000011848">徑山</placeName>出家<ptr target="#n397"/>，<lb
-ed="T" n="0771c20"/>於<placeName key="PL000000012005">新定</placeName>登戒。及諸方參學，從<placeName key="PL000000019349">南康</placeName><persName key="A003623">道一<roleName>禪</roleName><lb
-ed="T" n="0771c21"/>師</persName>法席，懸解<ptr type="glossary" target="#g1343"/>真宗，逸蹤流輩，道譽孔昭，行<lb
+ed="T" n="0771c20"/>於<placeName key="PL000000012005">新定</placeName>登戒。及諸方參學，從<placeName key="PL000000019349">南康</placeName><persName key="A003623">道一<roleName>禪<lb
+ed="T" n="0771c21"/>師</roleName></persName>法席，懸解<ptr rend="display:none;" type="glossary" target="#g1343"/>真宗，逸蹤流輩，道譽孔昭，行<lb
 ed="T" n="0771c22"/><anchor xml:id="beg0771sgsz16"/>止<anchor xml:id="end0771sgsz16"/>優游。多隱山谷，四方禪侶叢萃其門。<date notBefore-iso="+0806-01-29" key="j20154742020606" notAfter-iso="+0820-02-17"><name>元和</name><lb
-ed="T" n="0771c23"/>中</date>，居<placeName key="PL000000023650">洛下香山</placeName>，與<persName key="A009460">天然<roleName>禪師</roleName></persName>為莫逆之交。<lb
+ed="T" n="0771c23"/>中</date>，居<placeName key="PL000000023650"><placeName>洛下</placeName><placeName>香山</placeName></placeName>，與<persName key="A009460">天然<roleName>禪師</roleName></persName>為莫逆之交。<lb
 ed="T" n="0771c24"/>所遊必好古，思得前賢遺跡以快逸觀。<placeName key="PL000000023647">龍<lb
-ed="T" n="0771c25"/>門山</placeName>得<ref type="person" target="#A001357">後<name>魏</name>三藏</ref>翻經處；<placeName key="PL000000024601">王屋山</placeName>得<persName key="A004688">稠<name>禪師</name></persName><lb
+ed="T" n="0771c25"/>門山</placeName>得<ref type="person" target="#A001357"><name>後魏</name>三藏</ref>翻經處；<placeName key="PL000000024601">王屋山</placeName>得<persName key="A004688">稠<roleName>禪師</roleName></persName><lb
 ed="T" n="0771c26"/>解虎鬪處<ptr target="#n264"/>，此山飲甘泉，改為<placeName key="PL000000024605">甘泉寺</placeName>；<placeName key="PL000000023253">嵩山</placeName><lb
 ed="T" n="0771c27"/>得<name>梵</name>法師馬跑泉。居無戀著，所著《三傷歌》<ptr target="#n1519"/>，<lb
-ed="T" n="0771c28"/>辭理俱美，警發迷蒙，有益於代。<date from-iso="+0907-11-08" key="j20526462059263" to-iso="+0925-12-20">前<name>蜀</name></date><persName key="A006589">王<roleName>氏</roleName></persName><lb
-ed="T" n="0771c29"/>偽<date notBefore-iso="+0919-02-09" key="j20567572057302" notAfter-iso="+0920-08-07">乾德初</date>，有小軍使<name>陳</name>公娶<persName key="A008497">高<roleName>中令</roleName>駢</persName>諸孫<pb ed="T" n="0772a" xml:id="T50.2061.0772a"/><lb
+ed="T" n="0771c28"/>辭理俱美，警發迷蒙，有益於代。<date from-iso="+0907-11-08" key="j20526462059263" to-iso="+0925-12-20"><name>前蜀</name></date><persName key="A006589">王<roleName>氏</roleName></persName><lb
+ed="T" n="0771c29"/>偽<date notBefore-iso="+0919-02-09" key="j20567572057302" notAfter-iso="+0920-08-07"><name>乾德</name>初</date><ptr target="#n2645"/>，有小軍使<name>陳</name>公娶<persName key="A008497">高<roleName>中令</roleName>駢</persName>諸孫<pb ed="T" n="0772a" xml:id="T50.2061.0772a"/><lb
 ed="T" n="0772a01"/>女，<ref type="person" target="#A008497">若人</ref>持不殺二十餘年，後在<placeName key="PL000000035107">蜀</placeName>為男婚<lb
 ed="T" n="0772a02"/>娶，禮須屠宰。<persName key="A008497">高</persName>初不欲，親戚言：「自己持戒，<lb
 ed="T" n="0772a03"/>行禮酒筵將何以娛賓也？」依違<ptr type="glossary" target="#g1143"/>之際，遂多庖<lb
-ed="T" n="0772a04"/>割。俄未浹旬，得疾頗異，口但慌言，已而三<lb
+ed="T" n="0772a04"/>割。俄未浹旬<ptr type="glossary" target="#g287"/>，得疾頗異，口但慌言，已而三<lb
 ed="T" n="0772a05"/>宿還蘇，述冥間之事。初被黑衣使者追攝<lb
 ed="T" n="0772a06"/>入<placeName key="PL000000042848"><anchor xml:id="beg0772sgsz2"/>岐<anchor xml:id="end0772sgsz2"/>府</placeName>城隍廟，廟神峨冠大袖，與一金甲武<lb
 ed="T" n="0772a07"/>士<anchor xml:id="beg0772sgsz3"/><choice resp="sgsz"><sic>唔</sic><corr>晤</corr></choice><anchor xml:id="end0772sgsz3"/>坐。使者領<persName key="A008497">高</persName>見神，武士言語紛紜讓<lb
@@ -24,27 +24,27 @@ ed="T" n="0772a08"/><persName key="A008497">高</persName>破戒，仍扼腕<anc
 ed="T" n="0772a09"/>二十年食寢不遑，豈期忽起殺心，頓虧戒<lb
 ed="T" n="0772a10"/>檢？命雖未盡，罪亦頗深，須送冥司懲其故<lb
 ed="T" n="0772a11"/>犯。」城隍神問<persName key="A008497">高</persName>曰：「<ref type="person" target="#A008497">汝</ref>更修何善追贖過尤<lb
-ed="T" n="0772a12"/>乎？」<persName key="A008497">高</persName>常誦持《上生經》<ptr target="#n1520"/>，其數已多，于時懵然<lb
+ed="T" n="0772a12"/>乎？」<persName key="A008497">高</persName>常誦持《上生經》<ptr target="#n772"/>，其數已多，于時懵然<lb
 ed="T" n="0772a13"/>都無記憶，恐懼之間白曰：「誦得《三傷頌》、《一鉢<lb
 ed="T" n="0772a14"/>和尚歌》<ptr target="#n1521"/>。」遂合掌向神厲聲而念，神與武士<lb
-ed="T" n="0772a15"/>聳耳擎拳立聽，顏色漸怡。及卒章，神皆涕<lb
+ed="T" n="0772a15"/>聳耳擎拳<ptr type="glossary" target="#g1660"/>立聽，顏色漸怡。及卒章，神皆涕<lb
 ed="T" n="0772a16"/>淚，乃謂<persName key="A008497">高</persName>曰：「且歸人間，宜切營善。」拜辭未<lb
 ed="T" n="0772a17"/>畢，颯然起坐，備陳厥事。自此《三傷》《一鉢》之歌<lb
 ed="T" n="0772a18"/>頌，人皆傳寫諷誦焉。《一鉢和尚》者<ptr target="#n1522"/>歌詞叶理，<lb
-ed="T" n="0772a19"/>激勸憂思之深，然文體涉里巷，豈加<ptr target="#n1523"/>《三傷》<lb
+ed="T" n="0772a19"/>激勸憂思之深，然文體涉里巷，豈加<ptr rend="display:none;" target="#n1523"/>《三傷》<lb
 ed="T" n="0772a20"/>之典雅乎？<persName key="A010392">在</persName>遣弟子去<placeName key="PL000000000197">江南</placeName>，選山水之最<lb
-ed="T" n="0772a21"/>者，「<ref type="person" target="#A010392">吾</ref>願往中終老」。到<placeName key="PL000000018987">江州都昌縣</placeName>有好林<lb
-ed="T" n="0772a22"/>泉，迴報。<persName key="A010392">在</persName>行至<placeName key="PL000000023951">葉縣</placeName>，道俗所留。往<placeName key="PL000000028294">隋州開<lb
-ed="T" n="0772a23"/>元寺</placeName>示滅，年八十一，則<date from-iso="+0821-02-13" key="j20209682021319" to-iso="+0822-01-30"><name>長慶</name>元年</date>也。</p>
+ed="T" n="0772a21"/>者，「<ref type="person" target="#A010392">吾</ref>願往中終老」。到<placeName key="PL000000018987"><placeName>江州</placeName><placeName>都昌縣</placeName></placeName>有好林<lb
+ed="T" n="0772a22"/>泉，迴報。<persName key="A010392">在</persName>行至<placeName key="PL000000023951">葉縣</placeName>，道俗所留。往<placeName key="PL000000028294"><placeName>隋州</placeName><placeName>開<lb
+ed="T" n="0772a23"/>元寺</placeName></placeName>示滅，年八十一，則<date from-iso="+0821-02-13" key="j20209682021319" to-iso="+0822-01-30"><name>長慶</name>元年</date>也。</p>
     <p><lb
 ed="T" n="0772a24"/>系曰：稽諸律藏，出家者犯戒，則招二罪，一<lb
-ed="T" n="0772a25"/>違制，二業道也。<persName key="A008497">高<roleName>氏</roleName></persName>在家素不受戒，無違<lb
+ed="T" n="0772a25"/>違制，二業道<ptr type="glossary" target="#g1760"/>也。<persName key="A008497">高<roleName>氏</roleName></persName>在家素不受戒，無違<lb
 ed="T" n="0772a26"/>制愆，俗容有業道罪，寧得有護戒神邪？<lb
-ed="T" n="0772a27"/>況<persName key="A008497">高<roleName>氏</roleName></persName>既持不殺，則冥然感止持無作之善<lb
-ed="T" n="0772a28"/>生焉。因鮮克有終，致遭幽責，告諸五眾，<lb
+ed="T" n="0772a27"/>況<persName key="A008497">高<roleName>氏</roleName></persName>既持不殺，則冥然感止持無作<ptr type="glossary" target="#g1761"/>之善<lb
+ed="T" n="0772a28"/>生焉。因「鮮克有終」<ptr type="glossary" target="#g1762"/>，致遭幽責，告諸五眾，<lb
 ed="T" n="0772a29"/><anchor xml:id="beg0772sgsz5"/>當<anchor xml:id="end0772sgsz5"/>畏護戒之神。夫如是，明則有戒法，幽則<pb ed="T" n="0772b" xml:id="T50.2061.0772b"/><lb
 ed="T" n="0772b01"/>有鬼神歟！</p><p xml:id="pT50p0772b0201"><lb
-ed="T" n="0772b02"/>次<placeName key="PL000000034692">成都府元和聖壽寺</placeName><persName key="A005287">釋南印</persName><ptr target="#n1524"/>，姓<name>張</name>氏。明寤<lb
+ed="T" n="0772b02"/>次<placeName key="PL000000034692"><placeName>成都府</placeName><placeName>元和聖壽寺</placeName></placeName><persName key="A005287">釋南印</persName><ptr rend="display:none;" target="#n1524"/>，姓<name>張</name>氏。明寤<lb
 ed="T" n="0772b03"/>之性，受益無厭，得<persName key="A001719">曹溪</persName>深旨，無以為證。<lb
 ed="T" n="0772b04"/>見<placeName key="PL000000034714">淨眾寺</placeName><persName key="A010304">會<roleName>師</roleName></persName>，所謂落機之錦，濯以增<anchor xml:id="beg0772sgsz6"/><choice resp="sgsz"><sic>研</sic><corr>妍</corr></choice><anchor xml:id="end0772sgsz6"/>，<lb
 ed="T" n="0772b05"/>銜燭之龍<ptr type="glossary" target="#g1555"/>，行而破暗。<persName key="A005287">印</persName>自<placeName key="PL000000027764">江陵</placeName>入<placeName key="PL000000035107">蜀</placeName>，於<placeName key="PL000000034674">蜀<lb
@@ -52,7 +52,7 @@ ed="T" n="0772b06"/>江</placeName>之南壖<ptr type="glossary" target="#g253"/
 ed="T" n="0772b07"/><date key="j20078242008178" from-iso="+0785-02-18" to-iso="+0786-02-07"><name>貞元</name>初年</date>也。<persName key="A004371">高<roleName>司空</roleName>崇文</persName>平<persName key="A009181">劉闢</persName>之後<ptr target="#n1525"/>，改<lb
 ed="T" n="0772b08"/>此寺為<placeName key="PL000000034692">元和聖壽</placeName>，初名<placeName key="PL000000034692">寶應</placeName>也。<persName key="A005287">印</persName>化緣將<lb
 ed="T" n="0772b09"/>畢，於<date notBefore-iso="+0821-02-13" key="j20209682021319" notAfter-iso="+0822-01-30"><name>長慶</name>初</date>示疾入滅。營塔葬<anchor xml:id="beg0772001"/>於<anchor xml:id="end0772001"/><ref type="place" target="#PL000000034692">寺</ref>中。<lb
-ed="T" n="0772b10"/><date notBefore-iso="+0841-02-08" key="j20282682030170" notAfter-iso="+0846-04-25"><name>會昌</name>中</date>毀塔，<date from-iso="+0847-02-10" key="j20304612035056" to-iso="+0859-09-10"><name>大中</name></date>復於<placeName key="PL000000034692">江北寶應</placeName>舊基上<lb
+ed="T" n="0772b10"/><date notBefore-iso="+0841-02-08" key="j20282682030170" notAfter-iso="+0846-04-25"><name>會昌</name>中</date>毀塔，<date from-iso="+0847-02-10" key="j20304612035056" to-iso="+0859-09-10"><name>大中</name></date>復於江北<placeName key="PL000000034692">寶應</placeName>舊基上<lb
 ed="T" n="0772b11"/>創此寺，還名「聖壽」。<persName key="A005287">印</persName>弟子傳嗣有<persName key="A010450">義俛</persName>，復<lb
 ed="T" n="0772b12"/>興禪法焉。</p>
     <linkGrp>

@@ -1,35 +1,48 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" type="感通" xml:id="gsz0850b13shiXingZun"><lb
-ed="T" n="0850b13"/><anchor n="T.50.2061.0850b13"/><head><date from-iso="+0936-12-05" key="j20632662067017" to-iso="+0947-03-14">晉</date>閬州光國院<persName key="A012900">行遵</persName>傳</head><p><lb
-ed="T" n="0850b14"/><persName key="A012900">釋行遵</persName>，福州<persName key="A003732">閩王</persName>王氏之仲子。<persName key="A006575">後唐莊宗</persName><date key="j20527592059413" notAfter-iso="+0926-05-19" notBefore-iso="+0908-02-29">即<lb
-ed="T" n="0850b15"/>位</date>，入<placeName key="PL000000023581">洛</placeName>進方物，因留京邸。<date key="j20591392059413" notAfter-iso="+0926-05-19" notBefore-iso="+0925-08-18"><name>同光</name><anchor xml:id="beg0850sgsz5"/>末<anchor xml:id="end0850sgsz5"/></date>，會<persName key="A006576">明宗</persName><lb
-ed="T" n="0850b16"/>將入，兵亂相仍，乃自剪飾，變服為僧，竄身<lb
-ed="T" n="0850b17"/><placeName key="PL000000034649">巴蜀</placeName>。逮晉<date key="j20658812067017" notAfter-iso="+0947-03-14" notBefore-iso="+0944-02-02"><name>開運</name>中</date>狀貌若七十餘，然壯力<lb
-ed="T" n="0850b18"/>不衰。或詢其年臘，則必杜默。於閬中寓<placeName key="PL000000036517">光<lb
+ed="T" n="0850b13"/><anchor n="T.50.2061.0850b13"/><head><date from-iso="+0936-12-05" key="j20632662067017" to-iso="+0947-03-14">晉</date><placeName key="PL000000036517"><placeName>閬州</placeName><placeName>光國院</placeName></placeName><persName key="A012900">行遵</persName>傳</head><p><lb
+ed="T" n="0850b14"/><persName key="A012900">釋行遵</persName>，<placeName key="PL000000017165">福州</placeName><persName key="A003732">閩王</persName><name>王</name>氏之仲子<ptr target="#n2805"/>。<placeName key="PL000000057656">後唐</placeName><persName key="A006575">莊宗</persName><date notBefore-iso="+0923-05-18" key="j20583162059413" notAfter-iso="+0926-05-19">即<lb
+ed="T" n="0850b15"/>位</date>，入<placeName key="PL000000023638">洛</placeName>進方物，因留京邸。<date notBefore-iso="+0925-08-18" key="j20591392059413" notAfter-iso="+0926-05-19"><name>同光</name><anchor xml:id="beg0850sgsz5"/>末<anchor xml:id="end0850sgsz5"/></date>，會<persName key="A006576">明宗</persName><lb
+ed="T" n="0850b16"/>將入<ptr target="#n2806"/>，兵亂相仍，乃自剪飾，變服為僧，竄身<lb
+ed="T" n="0850b17"/><placeName key="PL000000034649">巴蜀</placeName>。逮<placeName key="PL000000000124">晉</placeName><date key="j20658812067017" notAfter-iso="+0947-03-14" notBefore-iso="+0944-02-02"><name>開運</name>中</date>狀貌若七十餘，然壯力<lb
+ed="T" n="0850b18"/>不衰。或詢其年臘，則必杜默<ptr rend="display:none;" type="glossary" target="#g1383"/>。於<placeName key="PL000000036535">閬中</placeName>寓<placeName key="PL000000036517">光<lb
 ed="T" n="0850b19"/>國禪院</placeName>，院徒以律法住持，人不之知<persName key="A012900">遵</persName>之<lb
-ed="T" n="0850b20"/>能否。有<persName key="A012906">李</persName>氏子家命齋，飲噉之次，欻起出<lb
+ed="T" n="0850b20"/>能否<ptr target="#n2807"/>。有<persName key="A012906">李</persName>氏子家命齋，飲噉之次，欻<ptr type="glossary" target="#g1836"/>起出<lb
 ed="T" n="0850b21"/>門呌噪，若有所責。謂<persName key="A012906">李</persName>曰：「今夜有火，自<lb
 ed="T" n="0850b22"/>東南至于西北街，隣居咸令備之。」是夕果<lb
 ed="T" n="0850b23"/>然煨燼無遺。眾聚問其故，曰：「昨一婦女衣<lb
-ed="T" n="0850b24"/>紅秉炬而過，老僧恨追不及耳。」又於<persName key="A012907">趙法<lb
-ed="T" n="0850b25"/>曹</persName>家，指桃樹下云：「有如許錢。」不言其數，<lb
+ed="T" n="0850b24"/>紅秉炬而過，老僧恨追不及耳。」又於<persName key="A012907">趙<roleName>法<lb
+ed="T" n="0850b25"/>曹</roleName></persName>家，指桃樹下云：「有如許錢。」不言其數，<lb
 ed="T" n="0850b26"/><persName key="A012907">趙</persName>乃召人發之，畚鍤方興，適遇客至，為家<lb
-ed="T" n="0850b27"/>僮所取。喧喧之際，盡化為青泥。人各爭得<lb
-ed="T" n="0850b28"/>百餘，後圬墁之，<anchor xml:id="beg0850005"/>門<anchor xml:id="end0850005"/>壁壞，往往而有焉。<persName key="A012900">遵</persName>或<lb
-ed="T" n="0850b29"/>經人塚墓，知其家吉凶。至於風角鳥獸，聞<pb ed="T" n="0850c" xml:id="T50.2061.0850c"/><lb
+ed="T" n="0850b27"/>僮所取。喧喧之際，盡化為青泥，人各爭得<lb
+ed="T" n="0850b28"/>百餘，後圬墁<ptr type="glossary" target="#g1837"/>之。<anchor xml:id="beg0850005"/><choice resp="sgsz"><sic>門</sic><corr>間</corr></choice><anchor xml:id="end0850005"/>壁壞，往往而有焉。<persName key="A012900">遵</persName>或<lb
+ed="T" n="0850b29"/>經人塚墓，知其家吉凶。至於風角<ptr type="glossary" target="#g1838"/>鳥獸，聞<pb ed="T" n="0850c" xml:id="T50.2061.0850c"/><lb
 ed="T" n="0850c01"/>見之間，預言災福，後必契合，故州閭遠近，咸<lb
-ed="T" n="0850c02"/>以預言用為口實。終于晉安玉山<!--找不到此地-->，緇徒為<lb
+ed="T" n="0850c02"/>以預言用為口實<ptr type="glossary" target="#g1325"/>。終于<placeName key="PL000000059385"><placeName>晉安</placeName><placeName>玉山</placeName></placeName>，緇徒為<lb
 ed="T" n="0850c03"/>其茶毘焉。</p>
+    <linkGrp>
+        <link targets="#0850b14 #0850b14"/>
+        <ptr target="#A012900" type="person"/>
+        <ptr target="#A003732" type="person"/>
+        <ptr target="#PL000000017165" type="place"/>
+    </linkGrp>
     <linkGrp>
         <link targets="#0850b14 #0850b15"/>
         <ptr target="#A012900" type="person"/>
-        <ptr target="#PL000000023581" type="place"/>
-        <ptr target="#j20527592059413" type="time"/>
+        <ptr target="#A006575" type="person"/>
+        <ptr target="#PL000000023638" type="place"/>
+        <ptr target="#j20583162059413" type="time"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0850b15 #0850b17"/>
         <ptr target="#A012900" type="person"/>
         <ptr target="#PL000000034649" type="place"/>
+        <ptr target="#j20591392059413" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0850b15 #0850b17"/>
+        <ptr target="#A006576" type="person"/>
+        <ptr target="#PL000000023638" type="place"/>
         <ptr target="#j20591392059413" type="time"/>
     </linkGrp>
     <linkGrp>
@@ -47,5 +60,10 @@ ed="T" n="0850c03"/>其茶毘焉。</p>
         <link targets="#0850b24 #0850b28"/>
         <ptr target="#A012900" type="person"/>
         <ptr target="#A012907" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0850c02 #0850c02"/>
+        <ptr target="#A012900" type="person"/>
+        <ptr target="#PL000000059385" type="place"/>
     </linkGrp>
 </div>
