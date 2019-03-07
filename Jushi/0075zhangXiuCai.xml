@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="jsz0215c19zhangXiuCai">
+    <p><anchor n="X.88.1646.0215c19"/><lb ed="X" n="0215c19"/><persName key="A010145">張秀才</persName>名<persName key="A010145">拙</persName>。謁<persName key="A010581">石霜</persName>諸公。<persName key="A010581">石霜</persName>問<ref target="#A010145" type="person">秀才</ref>何名。曰名<persName key="A010145">拙</persName>。<lb ed="X" n="0215c20"/><persName key="A010581">石霜</persName>曰。覓巧尚不可得。拙自何來。<ref target="#A010145" type="person">張</ref>忽有省。呈偈曰。<lb ed="X" n="0215c21"/>光明寂照徧河沙。凡聖含靈共我家。一念不生全體<lb ed="X" n="0215c22"/>現。六根纔動被雲遮。斷除煩惱重增病。趨向真如亦<lb ed="X" n="0215c23"/>是邪。隨順世緣無罣礙。涅槃生死等空華(五燈會元)。<lb ed="X" n="0215c24"/><persName key="A001188">知歸子</persName>曰。自<placeName key="PL000000030578">曹溪</placeName>之化行。而居士之究心祖道者多<lb ed="X" n="0216a01"/>矣。予閱傳燈諸錄。錄諸子問答機緣如此。其他行事<lb ed="X" n="0216a02"/>不得而詳也。</p> 
+    
+    <linkGrp>
+        <link targets="#0215c19 #0215c23"/>
+        <ptr target="#A010145" type="person"/>
+        <ptr target="#A010581" type="person"/>
+        <ptr target="unknown" type="place"/>
+        </linkGrp> 
+ </div>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="jsz0211a20niuSiYuan">
+    <p><anchor n="X.88.1646.0211a20"/><lb ed="X" n="0211a20"/><persName key="A016966">牛思遠</persName>名<persName key="A016966">騰</persName>。不詳其里居。少挺異操。沉靜寡言。早歲<lb ed="X" n="0211a21"/>明經擢第。<date from-iso="0684-10-22" key="j19730671978610" to-iso="0705-02-24">天后時</date>以舅<persName key="A016978">裴炎</persName>得罪。貶為牂牁<placeName key="PL000000038835">建安</placeName>丞。<lb ed="X" n="0211a22"/>中丞<persName key="A016975">崔察</persName>欲害之。有異人授以神呪得免。遂篤信佛<lb ed="X" n="0211a23"/>道。雖已婚宦。如守戒僧。口不妄談。目不妄視。在<placeName key="PL000000038944">牂牁</placeName><lb ed="X" n="0211a24"/>大布釋教。置道場數處。夷人皆漬其化。居三年。<placeName key="PL000000037940">莊周</placeName><lb ed="X" n="0211b01"/>獠反。轉入<placeName key="PL000000038944">牂牁</placeName>。遠近皆殺。長吏應之。<placeName key="PL000000038835">建安</placeName>大豪起兵<lb ed="X" n="0211b02"/>劫。<persName key="A016966">思遠</persName>坐樹下。將戮之。忽有旁人持刀斬守者頭。置<lb ed="X" n="0211b03"/><persName key="A016966">思遠</persName>籠中舁而走。事平還視事。後宰數邑。皆計日受<lb ed="X" n="0211b04"/>俸。人服其清。尋棄官。精心釋教以終其身(紀聞)。</p> 
+    
+    <linkGrp>
+        <link targets="#0211a21 #0211a21"/>
+        <ptr target="#A016966" type="person"/>
+        <ptr target="#A016978" type="person"/>
+        <ptr target="unknown" type="place"/>
+        </linkGrp>
+    <linkGrp>
+        <link targets="#0211a22 #0211a23"/>
+        <ptr target="#A016966" type="person"/>
+        <ptr target="#A016975" type="person"/>
+        <ptr target="unknown" type="place"/>
+        </linkGrp>
+    <linkGrp>
+        <link targets="#0211a24 #0211b03"/>
+        <ptr target="#A016966" type="person"/>
+        <ptr target="#PL000000038835" type="place"/>
+        </linkGrp>
+ </div>

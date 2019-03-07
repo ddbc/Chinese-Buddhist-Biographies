@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="jsz0219a14chaoMingYuan">
+    <head><anchor n="X.88.1646.0219a14"/><lb ed="X" n="0219a14"/><ref target="#A009420" type="person">晁</ref><ref target="#A017492" type="person">王</ref><ref target="#A007247" type="person">文</ref><ref target="#A004864" type="person">富</ref><ref target="#A003619" type="person">張</ref><ref target="#A005166" type="person">趙</ref>傳</head>
+    <p><lb ed="X" n="0219a15"/><persName key="A009420">晁明遠</persName>名<persName key="A009420">迥</persName>。世為<placeName key="PL000000024741">清豐</placeName>人。父<persName key="A017485">儉</persName>。徙家<placeName key="PL000000036613">彭門</placeName>。<persName key="A009420">明遠</persName>幼能<lb ed="X" n="0219a16"/>文。<date from-iso="0980-01-26" key="j20790232079406" to-iso="0981-02-12">太平興國五年</date>登進士第。<date key="j20851332085339" to-iso="0997-05-12" from-iso="0996-10-18">至道末</date>官翰林學士。性<lb ed="X" n="0219a17"/>樂易淳固。服道甚篤。歷官臨事未甞挾情害人。<persName key="A000946">真宗</persName><lb ed="X" n="0219a18"/>數稱為長者。初受學於<persName key="A015625">劉海蟾</persName>。得煉形服氣之術。後<lb ed="X" n="0219a19"/>學釋氏。以止觀為宗。在禁苑中與同僚偶坐。有汲水<lb ed="X" n="0219a20"/>者趨而過。語同僚曰。觀空純熟。目無全人。所著書有<lb ed="X" n="0219a21"/>道院別集。多發明空理。其一云。人生世間。其夢無數。<lb ed="X" n="0219a22"/>無數之夢。一一稱我。一一之我。豈非空乎。歷劫之中。<lb ed="X" n="0219a23"/>其身無數。無數之身。一一稱我。一一之我。又非空乎。<lb ed="X" n="0219a24"/>夢既是空。身亦如夢。何以迷著。念念爭空。又云。人生<lb ed="X" n="0219b01"/>有身。而後有名。人人各以身名自執。為我己之身名。<lb ed="X" n="0219b02"/>自無始來。生化出沒亦已無數。不知定以何時何處<lb ed="X" n="0219b03"/>之身執為我耶。定以何時何處之名垂之不朽耶。靜<lb ed="X" n="0219b04"/>思好身後名者不亦悠悠哉。又作七審。一一切妄念<lb ed="X" n="0219b05"/>能息否。二一切外緣稍簡省否。三一切觸境能不動<lb ed="X" n="0219b06"/>否。四一切語言能慎密否。五一切黑白滅分別否。六<lb ed="X" n="0219b07"/>夢想之間不顛倒否。七方寸之中得恬愉否。書之座<lb ed="X" n="0219b08"/>右。終身自考以驗道力。<date key="j20944252094501" to-iso="1022-06-13" from-iso="1022-03-29">仁宗即位</date>。以太子少保致仕。<lb ed="X" n="0219b09"/>居<placeName key="PL000000023405">昭德坊</placeName>。里名其堂曰凝寂。時習安坐。鞭心入理。晝<lb ed="X" n="0219b10"/>課心經。夜則數息。戒家人無輙有請。其夫人密覘之。<lb ed="X" n="0219b11"/>見其瞑目端坐。鬚髮搖風。凝然如木偶。一夕夢遊西<lb ed="X" n="0219b12"/>北方國。入大山洞中。群僧列而誦經。<persName key="A009420">明遠</persName>合掌禮之。<lb ed="X" n="0219b13"/>顧見一道士向<persName key="A009420">明遠</persName>作禮。趨而避之。居一月卒。年八<lb ed="X" n="0219b14"/>十四。諡<persName key="A009420">文元</persName>。其後<persName key="A017491">李昌齡</persName>紀<persName key="A009420">明遠</persName>事。謂其前生實淨<lb ed="X" n="0219b15"/>居天主云(東都事略．道院錄．法藏碎金．文元逸事)。</p> 
+    
+    <linkGrp>
+        <link targets="#0219a15 #0219a15"/>
+        <ptr target="#A009420" type="person"/>
+        <ptr target="#A017485" type="person"/>
+        <ptr target="#PL000000036613" type="place"/>
+        </linkGrp>
+    <linkGrp>
+        <link targets="#0219a17 #0219a18"/>
+        <ptr target="#A009420" type="person"/>
+        <ptr target="#A000946" type="person"/>
+        <ptr target="unknown" type="place"/>
+        </linkGrp>
+    <linkGrp>
+        <link targets="#0219a18 #0219a18"/>
+        <ptr target="#A009420" type="person"/>
+        <ptr target="#A015625" type="person"/>
+        <ptr target="unknown" type="place"/>
+        </linkGrp>
+    <linkGrp>
+        <link targets="#0219b08 #0219b09"/>
+        <ptr target="#A009420" type="person"/>
+        <ptr target="#PL000000023405" type="place"/>
+        <ptr target="#j20944252094501" type="time"/>
+    </linkGrp>
+ </div>

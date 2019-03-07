@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="jsz0202c13zhangHongZhen">
+    <head><anchor n="X.88.1646.0202c13"/><lb ed="X" n="0202c13"/><persName key="A016607">張洪賑</persName><persName key="A016612">張廷珪</persName><persName key="A016631">辛替否</persName>傳</head>
+    <p><lb ed="X" n="0202c14"/><persName key="A016607">張洪賑</persName>名<persName key="A016607">普惠</persName>。常山<placeName key="PL000000001084">九門</placeName>人。其學精於三禮。兼善春<lb ed="X" n="0202c15"/>秋百家之說。仕<placeName key="PL000000000130">魏</placeName>為諫議大夫。每朝廷有大議。必據<lb ed="X" n="0202c16"/>經義反覆陳論。無少屈。時<persName key="A002045">孝明帝</persName>不親視朝。郊廟之<lb ed="X" n="0202c17"/>事都委有司。營造寺像略無休息。<persName key="A016607">洪賑</persName>上書曰。臣聞<lb ed="X" n="0202c18"/>明德卹祀。<persName key="A002431">成湯</persName>光六百之祚。嚴父配天。<persName key="A002174">孔子</persName>稱<persName key="A004008">周公</persName><lb ed="X" n="0202c19"/>其人也。故能馨香遠聞。福傳遐世。伏惟<ref target="#A002045" type="person">陛下</ref>重暉纂<lb ed="X" n="0202c20"/>統。欽明文。思天地屬心。百神佇望。故宜敦崇祀禮。咸<lb ed="X" n="0202c21"/>秩無文。而告朔朝廟不親於明堂。甞禘郊社多委於<lb ed="X" n="0202c22"/>有司。殖不急之冥業。損巨費於生民。減祿削力近供<lb ed="X" n="0202c23"/>無事之僧。崇飾雲殿遠邀未然之報。昧爽之臣稽首<lb ed="X" n="0202c24"/>於外。元寂之僧遨遊於內。愆禮忤時。人靈未穆。愚謂<lb ed="X" n="0203a01"/>從朝夕之因。求祇劫之果。未若先萬國之歡心以事<lb ed="X" n="0203a02"/>其親。使天下和平。災害不生者也。伏願淑慎威儀。萬<lb ed="X" n="0203a03"/>邦作式。躬致郊廟之虔。親紆朔望之禮。釋奠成均。竭<lb ed="X" n="0203a04"/>心千畆。孝道可以通神明。德教可以光四海。則一人<lb ed="X" n="0203a05"/>有慶兆民賴之。然後精進三寶。信心如來。道由化深。<lb ed="X" n="0203a06"/>故諸漏可盡。法隨禮積。故彼岸可登。量撤僧寺不急<lb ed="X" n="0203a07"/>之奉。還復百官久折之秩。已興之構務從簡成。將來<lb ed="X" n="0203a08"/>之造權令停息。庶節用愛人。法俗俱賴。尋遷尚書右<lb ed="X" n="0203a09"/>丞。出為<placeName key="PL000000025960">東豫州</placeName>刺史。<date from-iso="0525-07-17" key="j19130101913207" to-iso="0526-01-30">卒</date><!-- 孝昌元年，請參見(http://zh.wikisource.org/zh-hant/魏書/卷78,2010.06.17)-->諡宣恭(魏書．廣宏明集)。</p> 
+    
+    <linkGrp>
+        <link targets="#0202c14 #0202c12"/>
+        <ptr target="#A016607" type="person"/>
+        <ptr target="#PL000000000130" type="place"/>
+        </linkGrp>
+    <linkGrp>
+        <link targets="#0202c16 #0203a08"/>
+        <ptr target="#A016607" type="person"/>
+        <ptr target="#A002045" type="person"/>
+        <ptr target="unknown" type="place"/>
+        </linkGrp>
+    <linkGrp>
+        <link targets="#0203a09 #0203a09"/>
+        <ptr target="#A016607" type="person"/>
+        <ptr target="#PL000000025960" type="place"/>
+        </linkGrp>
+ </div>

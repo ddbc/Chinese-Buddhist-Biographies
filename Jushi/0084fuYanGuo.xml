@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="jsz0220a02fuYanGuo">
+    <p><anchor n="X.88.1646.0220a02"/><lb ed="X" n="0220a02"/><persName key="A004864">富彥國</persName>名<persName key="A004864">弼</persName>。<placeName key="PL000000023601">河南</placeName>人。<date from-iso="1041-12-22" key="j21016332104240" to-iso="1049-02-10">慶歷中</date>與<persName key="A007247">文寬夫</persName>並相天下。稱<lb ed="X" n="0220a03"/>為<persName key="G000048">富文</persName>。封<persName key="A004864">鄭國公</persName>。<persName key="A005166">趙閱道</persName>甞貽書策之曰。執事富貴<lb ed="X" n="0220a04"/>已極。道德甚盛。所未甚留意者如來一大事因緣而<lb ed="X" n="0220a05"/>已。願益勉之。<persName key="A004864">彥國</persName>以為然。守<placeName key="PL000000016491">亳州</placeName>日。聞<persName key="A017510">修顒禪師</persName>主<lb ed="X" n="0220a06"/><placeName key="PL000000015565">投子</placeName>。遂往參謁。<ref target="#A017510" type="person">顒</ref>見即呼曰。相公已入來。<persName key="A004864">富弼</persName>猶在<lb ed="X" n="0220a07"/>外。<persName key="A004864">彥國</persName>汗出浹背有省。即延至府中居兩月。日有發<lb ed="X" n="0220a08"/>明。後呈<ref target="#A017510" type="person">顒</ref>書曰。<ref target="#A004864" type="person">弼</ref>遭遇和尚。即無始以來忘失事一<lb ed="X" n="0220a09"/>旦認得。此後定須拔出生死海。不是尋常恩知。雖盡<lb ed="X" n="0220a10"/>力道斷道不出也。年八十餘卒。<date key="j21177372118492" to-iso="1088-02-18" from-iso="1086-01-24">元祐初</date>加太師。諡<persName key="A004864">文<lb ed="X" n="0220a11"/>忠</persName>(東都事略．五燈會元．湘湖野錄)。</p> 
+    
+    <linkGrp>
+        <link targets="#0220a02 #0220a03"/>
+        <ptr target="#A004864" type="person"/>
+        <ptr target="#A007247" type="person"/>
+        <ptr target="unknown" type="place"/>
+        <ptr target="#j21016332104240" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0220a03 #0220a05"/>
+        <ptr target="#A004864" type="person"/>
+        <ptr target="#A005166" type="person"/>
+        <ptr target="unknown" type="place"/>
+        <ptr target="#j21016332104240" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0220a05 #0220a10"/>
+        <ptr target="#A004864" type="person"/>
+        <ptr target="#A017510" type="person"/>
+        <ptr target="#PL000000015565" type="place"/>
+        </linkGrp>
+ </div>

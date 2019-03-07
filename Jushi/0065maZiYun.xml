@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="jsz0211b20maZiYun">
+    <p><anchor n="X.88.1646.0211b20"/><lb ed="X" n="0211b20"/><persName key="A016994">馬子雲</persName>不詳其里居。舉孝廉。任<placeName key="PL000000017029">涇縣</placeName>尉。充本郡租綱。<lb ed="X" n="0211b21"/>督運入<ref target="#PL000000042182" type="place">京</ref>。舟溺沉米萬斛。繫獄中。<persName key="A016994">子雲</persName>專心念佛。閱<lb ed="X" n="0211b22"/>五年遇赦得出。隱<placeName key="PL000000015179">南陵</placeName>山寺中。持一食齋。<date from-iso="0751-02-05" key="j19953921995745" to-iso="0752-01-24">天寶十年</date><lb ed="X" n="0211b23"/>卒於<placeName key="PL000000017029">涇</placeName>。先謂人曰。吾因數奇。遂精持內教。今西方業<lb ed="X" n="0211b24"/>成。當往生<placeName key="PL000000055477">安樂世界</placeName>爾。明日沐浴衣新衣。端坐合掌。<lb ed="X" n="0211c01"/>俄而異香滿室。<persName key="A016994">子雲</persName>云。佛來矣。遂逝(紀聞)。</p> 
+    
+    <linkGrp>
+        <link targets="#0211b20 #0211b20"/>
+        <ptr target="#A016994" type="person"/>
+        <ptr target="#PL000000017029" type="place"/>
+        </linkGrp>
+    <linkGrp>
+        <link targets="#0211b21 #0211b22"/>
+        <ptr target="#A016994" type="person"/>
+        <ptr target="#PL000000015179" type="place"/>
+        </linkGrp>
+    <linkGrp>
+        <link targets="#0211b22 #0211c01"/>
+        <ptr target="#A016994" type="person"/>
+        <ptr target="#PL000000017029" type="place"/>
+        <ptr target="#j19953921995745" type="time"/>
+    </linkGrp>
+ </div>

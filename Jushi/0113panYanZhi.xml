@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="jsz0228b23panYanZhi">
+    <p><anchor n="X.88.1646.0228b23"/><lb ed="X" n="0228b23"/><persName key="A017781">潘延之</persName>名<persName key="A017781">興嗣</persName>。家<placeName key="PL000000018603">豫章</placeName>東湖上。懷道耽隱。自<date from-iso="1056-10-29" key="j21070582109438" to-iso="1063-05-06">嘉祐</date>以<lb ed="X" n="0228b24"/>來公卿交章薦不起。琴書自娛。號<persName key="A017781">清逸居士</persName>。甞問道<lb ed="X" n="0228c01"/>於<persName key="A003921">黃龍南</persName>公。得其密意。一日<persName key="A003921">南公</persName>弟子<persName key="A014509">源公</persName>訪之。見<lb ed="X" n="0228c02"/>其拂琴次。<persName key="A014509">源公</persName>曰老老大大猶弄個線索在。對曰也<lb ed="X" n="0228c03"/>要彈教響。<persName key="A014509">源</persName>曰也不少。對曰知心能幾人。<persName key="A001673">覺範洪</persName>公<lb ed="X" n="0228c04"/>題其像曰。毗盧無生之藏。震旦有道之器。談妙義借<lb ed="X" n="0228c05"/>身為舌。擎大千以手為地。機鋒不減龐蘊而解文字<lb ed="X" n="0228c06"/>禪。行藏大類孺子而值休明世。舒王強之而不可。神<lb ed="X" n="0228c07"/>考致之而不起。此天下士大夫所共聞。然公豈止於<lb ed="X" n="0228c08"/>是而已哉(石門文字禪．金湯徵文錄)。</p> 
+    
+    <linkGrp>
+        <link targets="#0228b24 #0228c01"/>
+        <ptr target="#A017781" type="person"/>
+        <ptr target="#A003921" type="person"/>
+        <ptr target="unknown" type="place"/>
+        </linkGrp> 
+    <linkGrp>
+        <link targets="#0228c01 #0228c01"/>
+        <ptr target="#A003921" type="person"/>
+        <ptr target="#A014509" type="person"/>
+        <ptr target="unknown" type="place"/>
+        </linkGrp>
+    <linkGrp>
+        <link targets="#0228c01 #0228c03"/>
+        <ptr target="#A017781" type="person"/>
+        <ptr target="#A014509" type="person"/>
+        <ptr target="unknown" type="place"/>
+        </linkGrp>
+ </div>

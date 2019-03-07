@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="jsz0201a07liuShiGuang">
+    <p><anchor n="X.88.1646.0201a07"/><lb ed="X" n="0201a07"/><persName key="A016460">劉士光</persName>名<persName key="A016460">歊</persName>。<placeName key="PL000000022211">平原</placeName>人也。<date from-iso="0498-01-01" key="j19029521903316" to-iso="0498-12-31">年十一</date>讀<persName key="A002718">莊子</persName>逍遙篇。即能<lb ed="X" n="0201a08"/>為客說其大義。及長博學有文。已而精心學佛。不娶<lb ed="X" n="0201a09"/>不仕。神僧<persName key="A002296">誌公</persName>遇之於<placeName key="PL000000008763">興皇寺</placeName>。驚起曰。隱居學道。清<lb ed="X" n="0201a10"/>淨登真。如此三說。<date from-iso="0518-01-01" key="j19102561910620" to-iso="0518-12-31">年三十一</date>著革終論。其略曰。夫形<lb ed="X" n="0201a11"/>也者無知之質也。神也者有知之性也。有知不獨存。<lb ed="X" n="0201a12"/>依無知以自立。故形之於神。逆旅之舘耳。及其死也。<lb ed="X" n="0201a13"/>神去此而適彼也。神已去此。舘何用存。神已適彼。祭<lb ed="X" n="0201a14"/>何所祭。而<persName key="A004008">姬</persName><persName key="A002174">孔</persName>之教不然者。其有以乎。蓋禮樂之興<lb ed="X" n="0201a15"/>出於澆薄俎豆。綴兆生於俗敝。施靈筵。陳棺槨。設饋<lb ed="X" n="0201a16"/>奠。建邱隴。盖欲孝子有追思之地耳。今欲剪截煩厚<lb ed="X" n="0201a17"/>務從儉易。不傷存者之念。有合至人之道。氣絕不須<lb ed="X" n="0201a18"/>復魄。盥洗而斂。以一千錢市棺單故裙衫衣巾枕履。<lb ed="X" n="0201a19"/>此外送往之具。棺中常物及餘閣之祭。一不得有所<lb ed="X" n="0201a20"/>施。斂畢載以露車歸以舊山。隨得一地。地足為塪。塪<lb ed="X" n="0201a21"/>足容棺。不須博甓。不勞封樹。勿設祭饗。勿置几筵。其<lb ed="X" n="0201a22"/>蒸甞繼嗣。言像所絕。事止余身。無傷世教。<date key="j19106681910756" to-iso="0519-05-16" from-iso="0519-02-17">明年春</date>有<lb ed="X" n="0201a23"/>人為其庭中栽柿。<persName key="A016460">士光</persName>曰。吾不及見此實矣。至<date key="j19108451910933" to-iso="0519-11-09" from-iso="0519-08-13">秋</date>而<lb ed="X" n="0201a24"/>亡。親故誄其行。諡曰貞節先生。族弟<persName key="A016461"><!-- <date from ="0497" to-iso="0518" type="default" xml:id="d18843241910667"/> -->彥度</persName>。名<persName key="A016461">訐</persName>。少喪<lb ed="X" n="0201b01"/>二親。哀毀幾滅性。及長事伯父母及兄姊。友孝篤至<lb ed="X" n="0201b02"/>性愛潔清。兄為娶妻有日矣。<persName key="A016461">彥度</persName>聞而逃。乃已本州<lb ed="X" n="0201b03"/>辟為主簿。不就。主者強起之。乃掛檄於樹。復逃去。<persName key="A016461">彥<lb ed="X" n="0201b04"/>度</persName>深信佛法。曾與<persName key="A016460">士光</persName>聽講於<placeName key="PL000000008734">鍾山</placeName>諸寺。因共卜築<lb ed="X" n="0201b05"/><placeName key="PL000000008758">宋熙寺</placeName>東澗。有終焉之志。<date from-iso="0518-01-29" key="j19102841910667" to-iso="0519-02-16">天監十七年</date>卒於<persName key="A016460">士光</persName>舍。<lb ed="X" n="0201b06"/>年三十一。遺言勿立後嗣。其他終制與<persName key="A016460">士光</persName>略同。宗<lb ed="X" n="0201b07"/>友相與刊碑立銘。諡曰元貞處士(梁書)。</p> 
+    
+    <linkGrp>
+        <link targets="#0201a08 #0201a10"/>
+        <ptr target="#A016460" type="person"/>
+        <ptr target="#A002296" type="person"/>
+        <ptr target="#PL000000008763" type="place"/>
+        </linkGrp>
+    <linkGrp>
+        <link targets="#0201a10 #0201a22"/>
+        <ptr target="#A016460" type="person"/>
+        <ptr target="#PL000000022211" type="place"/>
+        <ptr target="#j19102561910620" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0201a24 #0201a24"/>
+        <ptr target="#A016460" type="person"/>
+        <ptr target="#A016461" type="person"/>
+        <ptr target="unknown" type="place"/>
+        <ptr target="#j19106681910756" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0201b04 #0201b04"/>
+        <ptr target="#A016460" type="person"/>
+        <ptr target="#A016461" type="person"/>
+        <ptr target="#PL000000008734" type="place"/>
+        <!-- <ptr target="#d18843241910667" type="time"/> -->
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0201b05 #0201b07"/>
+        <ptr target="#A016461" type="person"/>
+        <ptr target="#PL000000022211" type="place"/>
+        <ptr target="#j19102841910667" type="time"/>
+    </linkGrp>
+ </div>

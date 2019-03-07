@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="jsz0215b19chenCao">
+    <p><anchor n="X.88.1646.0215b19"/><lb ed="X" n="0215b19"/><persName key="A003990">陳操</persName>不詳其里居。為<placeName key="PL000000012005">睦州</placeName>刺史。參<persName key="A003629">陳尊宿</persName>。一日<persName key="A003629">尊宿</persName><lb ed="X" n="0215b20"/>看金剛經。<ref target="#A003990" type="person">操</ref>問曰。六朝翻譯。此當第幾譯。<persName key="A003629">尊宿</persName>舉經<lb ed="X" n="0215b21"/>起云。一切有為法。如夢幻泡影。有省。遂嗣法焉。後官<lb ed="X" n="0215b22"/>至尚書。齋僧次。拈胡餅問僧。<placeName key="PL000000018571">江西</placeName><placeName key="PL000000028622">湖南</placeName>還有這個麼。<lb ed="X" n="0215b23"/>僧曰尚書適來喫箇甚麼。<ref target="#A003990" type="person">操</ref>曰敲鐘謝響。後躬自行<lb ed="X" n="0215b24"/>餅。一僧展手擬接。<ref target="#A003990" type="person">操</ref>却縮手。僧無語。<ref target="#A003990" type="person">操</ref>曰果然。甞訪<lb ed="X" n="0215c01"/><persName key="A003991">資福和尚</persName>。<ref target="#A003991" type="person">和尚</ref>見<ref target="#A003990" type="person">操</ref>便畫一圓相。<ref target="#A003990" type="person">操</ref>曰弟子與麼來<lb ed="X" n="0215c02"/>早是不著便。更畫一圓相。<ref target="#A003991" type="person">和尚</ref>於中著一點。<ref target="#A003990" type="person">操</ref>曰將<lb ed="X" n="0215c03"/>謂是南番舶主。<ref target="#A003991" type="person">和尚</ref>便歸方丈閉却門(五燈會元．先覺宗乘)。</p> 
+    
+    <linkGrp>
+        <link targets="#0215b19 #0215b19"/>
+        <ptr target="#A003990" type="person"/>
+        <ptr target="#PL000000012005" type="place"/>
+        </linkGrp>
+    <linkGrp>
+        <link targets="#0215b19 #0215b21"/>
+        <ptr target="#A003990" type="person"/>
+        <ptr target="#A003629" type="person"/>
+        <ptr target="unknown" type="place"/>
+        </linkGrp>
+    <linkGrp>
+        <link targets="#0215b24 #0215c03"/>
+        <ptr target="#A003990" type="person"/>
+        <ptr target="#A003991" type="person"/>
+        <ptr target="unknown" type="place"/>
+        </linkGrp>
+ </div>

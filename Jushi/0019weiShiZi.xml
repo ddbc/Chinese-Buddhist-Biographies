@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="jsz0190a06weiShiZi">
+    <p><anchor n="X.88.1646.0190a06"/><lb ed="X" n="0190a06"/><persName key="A015494">魏世子</persName><placeName key="PL000000015084">梁郡</placeName>人。生當<date from-iso="0420-07-11" key="j18746541896160" to-iso="0479-05-28">宋世</date>。奉佛精進。率諸子女修西<lb ed="X" n="0190a07"/>方淨業。唯婦獨不信。<date key="j18761841878785" to-iso="0431-11-02" from-iso="0424-09-18">其<persName key="A015537">女</persName>病死七日復蘇</date><!-- 宋元嘉初，請參見T47n1963_p0099a13 -->。即升高座<lb ed="X" n="0190a08"/>誦無量壽經。下啟父言。兒去便往<placeName key="PL000000055477">無量壽國</placeName>。兒及父<lb ed="X" n="0190a09"/>兄池中各有大蓮華。當生其內。唯母獨無。不勝此悲。<lb ed="X" n="0190a10"/>故歸啟報。語竟而瞑。母自是亦奉法焉(冥祥記)。</p> 
+    
+    <linkGrp>
+        <link targets="#0190a06 #0190a10"/>
+        <ptr target="#A015494" type="person"/>
+        <ptr target="#A015537" type="person"/>
+        <ptr target="#PL000000015084" type="place"/>
+        <ptr target="#j18761841878785" type="time"/>
+    </linkGrp>   
+ </div>

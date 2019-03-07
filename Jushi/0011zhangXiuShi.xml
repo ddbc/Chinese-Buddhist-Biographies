@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="jsz0188a04zhangXiuShi">
+    <p><anchor n="X.88.1646.0188a04"/><lb ed="X" n="0188a04"/><persName key="A002814">張秀實</persName>名<persName key="A002814">詮</persName>。<persName key="A002813">野</persName>之族子也。尚情高逸。好古樂道。荷鉏<lb ed="X" n="0188a05"/>力田。帶經不釋。以散騎常侍徵不起。<persName key="A015129">庾悅</persName>憐其貧。薦<lb ed="X" n="0188a06"/>為<placeName key="PL000000018863">尋陽</placeName>令。亦不應。已而入<placeName key="PL000000018775">廬山</placeName>依<persName key="A001204">遠公</persName>。研窮佛經深<lb ed="X" n="0188a07"/>有悟入。<date from-iso="0423-01-29" key="j18755861875969" to-iso="0424-02-16">宋景平元年</date>西向念佛無疾而卒。年六十五<lb ed="X" n="0188a08"/>(<placeName key="PL000000018801">東林</placeName>傳)。</p> 
+    
+    <linkGrp>
+        <link targets="#0188a04 #0188a04"/>
+        <ptr target="#A002814" type="person"/>
+        <ptr target="#A002813" type="person"/>
+        <ptr target="unknown" type="place"/>
+        </linkGrp>
+    <linkGrp>
+        <link targets="#0188a06 #0188a07"/>
+        <ptr target="#A002814" type="person"/>
+        <ptr target="#A001204" type="person"/>
+        <ptr target="#PL000000018775" type="place"/>
+        </linkGrp>
+ </div>

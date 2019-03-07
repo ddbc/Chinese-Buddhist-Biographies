@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="jsz0189a14leiZhongLun">
+    <p><anchor n="X.88.1646.0189a14"/><lb ed="X" n="0189a14"/><persName key="A002810">雷仲倫</persName>名<persName key="A002810">次宗</persName>。<placeName key="PL000000018612">南昌</placeName>人。少入<placeName key="PL000000018775">廬山</placeName>事<persName key="A001204">遠師</persName>。篤志好學<lb ed="X" n="0189a15"/>不交世務。精於毛詩．三禮之學。本州辟從事。朝以員<lb ed="X" n="0189a16"/>外散騎侍郎徵。並不就。年五十餘。與子姪書。以言所<lb ed="X" n="0189a17"/>守曰。夫生之修短咸有定分。定分之外不可以智力<lb ed="X" n="0189a18"/>求。但當於所稟之中順而勿害耳。吾少嬰羸患。為性<lb ed="X" n="0189a19"/>好閒。故在童稚之年已懷遠迹之意。暨於<date from-iso="0405-01-01" key="j18689841869348" to-iso="0405-12-31">弱冠</date>。遂託<lb ed="X" n="0189a20"/>業<placeName key="PL000000018775">廬山</placeName>。逮事釋<ref target="#A001204" type="person">和尚</ref>。於時師友淵源務訓弘道。外慕<lb ed="X" n="0189a21"/>等夷內懷悱發。於是洗氣神明玩心墳典。勉志勤躬<lb ed="X" n="0189a22"/>夜以繼日。爰有山水之好。晤言之歎。實足以通理輔<lb ed="X" n="0189a23"/>性。成夫亹亹之業。樂以忘憂。不知朝日之晏矣。自游<lb ed="X" n="0189a24"/>道䬸風二十餘載。淵匠既傾。良朋凋索。續以釁逆違<lb ed="X" n="0189b01"/>天。備甞荼蓼。疇昔誠願頓盡一朝。心慮荒散情意衰<lb ed="X" n="0189b02"/>損。故遂與汝曹歸耕壟畔山居谷飲。人理久絕日月<lb ed="X" n="0189b03"/>不處。忽復十年。崦嵫將迫前塗幾何。及今耄未至昏<lb ed="X" n="0189b04"/>衰不及頓。尚可厲志於所期。縱心於所託。棲誠來生<lb ed="X" n="0189b05"/>之津梁。專氣暮年之攝養。在心所期盡於此矣。自今<lb ed="X" n="0189b06"/>以往。家事大小一勿見關。<date from-iso="0438-02-11" key="j18810781881432" to-iso="0439-01-31">宋元嘉十五年</date>徵至<ref target="#PL000000008975" type="place">京師</ref><lb ed="X" n="0189b07"/>開舘<placeName key="PL000000008640">雞籠山</placeName>。聚徒教授。除給事中。不就。頃之還<placeName key="PL000000018775">廬山</placeName>。<lb ed="X" n="0189b08"/><date from-iso="0448-01-23" key="j18847111885094" to-iso="0449-02-09">二十五年</date>又徵詣<ref target="#PL000000008975" type="place">京師</ref>為築室<placeName key="CN0320102M02AA">鍾山</placeName>西巖下。謂之<placeName key="PL000000008735">招<lb ed="X" n="0189b09"/>隱舘</placeName>。使為皇太子諸王講喪服經。是歲卒。年六十三<lb ed="X" n="0189b10"/>(宋書)。<lb ed="X" n="0189b11"/><persName key="A001188">知歸子</persName>曰。<placeName key="PL000000018771">白蓮社</placeName>一百二十三人。居士之可得紀者<lb ed="X" n="0189b12"/>七人焉。才敏如<persName key="A001869">康樂</persName>。欲求入社。<persName key="A001204">遠公</persName>拒之。誠慎所與<lb ed="X" n="0189b13"/>哉。而七人之外。流風遺書不可得而見矣。予亦不得<lb ed="X" n="0189b14"/>而稱之也。</p> 
+    
+    <linkGrp>
+        <link targets="#0189a14 #0189a20"/>
+        <ptr target="#A002810" type="person"/>
+        <ptr target="#A001204" type="person"/>
+        <ptr target="#PL000000018775" type="place"/>
+        <ptr target="#j18689841869348" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0189b06 #0189b07"/>
+        <ptr target="#A002810" type="person"/>       
+        <ptr target="#PL000000008640" type="place"/>
+        <ptr target="#j18810781881432" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0189b08 #0189b09"/>
+        <ptr target="#A002810" type="person"/>       
+        <ptr target="#PL000000008735" type="place"/>
+        <ptr target="#j18847111885094" type="time"/>
+    </linkGrp>
+ </div>

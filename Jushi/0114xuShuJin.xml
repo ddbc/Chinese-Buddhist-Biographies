@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="jsz0228c09xuShuJin">
+    <p><anchor n="X.88.1646.0228c09"/><lb ed="X" n="0228c09"/><persName key="A017788">許叔矜</persName>名<persName key="A017788">式</persName>。<placeName key="PL000000009924">蘇州</placeName>人。舉進士。名著<date from-iso="0984-12-11" key="j20808042087792" to-iso="1004-01-30">雍咸間</date>。官尚書祠<lb ed="X" n="0228c10"/>部郎中。出知<placeName key="PL000000018674">洪州</placeName>。參<persName key="A014346">洞山曉聰</persName>。得正法眼。甞贈<persName key="A014346">曉聰</persName><lb ed="X" n="0228c11"/>詩。有句云。夜坐連雲石。春栽帶雨松。一日與<persName key="A008345">泐潭澄</persName>．<lb ed="X" n="0228c12"/><persName key="A017789">上藍溥</persName>坐頃。<persName key="A008345">泐潭</persName>問曰。夜坐連雲石。春栽帶雨松。當<lb ed="X" n="0228c13"/>時答<persName key="A014346">洞山</persName>甚麼語。<persName key="A017788">叔矜</persName>曰今日放衙早。<persName key="A008345">泐潭</persName>曰。聞答<lb ed="X" n="0228c14"/><placeName key="PL000000010633">泗州</placeName>大聖<placeName key="PL000000010785">揚州</placeName>出現語是否。<persName key="A017788">叔矜</persName>曰。別點茶來。<persName key="A008345">泐潭</persName><lb ed="X" n="0228c15"/>曰名不虗傳。<persName key="A017788">叔矜</persName>曰和尚早晚回山。<persName key="A008345">泐潭</persName>曰今日被<lb ed="X" n="0228c16"/><persName key="A017789">上藍</persName>覷破。<persName key="A017789">上藍</persName>便喝。<persName key="A008345">泐潭</persName>曰須你始得。<persName key="A017788">叔矜</persName>曰。不奈<lb ed="X" n="0228c17"/>船何。打破戽斗。後官至轉運使。卒贈禮部尚書(五燈會元．<lb ed="X" n="0228c18"/><placeName key="PL000000009924">蘇州</placeName>志)。</p> 
+    
+    <linkGrp>
+        <link targets="#0228c10 #0228c11"/>
+        <ptr target="#A017788" type="person"/>
+        <ptr target="#A014346" type="person"/>
+        <ptr target="#PL000000018674" type="place"/>
+        </linkGrp>
+    <linkGrp>
+        <link targets="#0228c11 #0228c17"/>
+        <ptr target="#A017788" type="person"/>
+        <ptr target="#A008345" type="person"/>
+        <ptr target="#A017789" type="person"/>
+        <ptr target="unknown" type="place"/>
+        </linkGrp>
+ </div>

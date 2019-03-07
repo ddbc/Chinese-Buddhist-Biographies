@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="jsz0224c22sunShiErLang">
+    <p><anchor n="X.88.1646.0224c22"/><lb ed="X" n="0224c22"/><persName key="A011817">孫十二郎</persName>名<persName key="A011817">忠</persName>。<placeName key="PL000000012199">明州</placeName>人。早慕<placeName key="PL000000055477">西方</placeName>。蔬食持戒。於府城<lb ed="X" n="0224c23"/>東築菴。鑿二池種白蓮。臨池建閣。月集眾為念佛會。<lb ed="X" n="0224c24"/>甞見佛身現空中。趨出呼其二子至同拜禮焉。久之<lb ed="X" n="0225a01"/>始隱。後人因名其地為<placeName key="PL000000012162">駐佛巷</placeName>。<date from-iso="1093-02-05" key="j21203062120659" to-iso="1094-01-24">元祐八年</date>。<persName key="A014454">釋可久</persName>神<lb ed="X" n="0225a02"/>遊<placeName key="PL000000055477">西方</placeName>三日而蘇。言池中金臺標<persName key="A014454">可久</persName>名。其次則<persName key="A011817">孫<lb ed="X" n="0225a03"/>十二郎</persName>也。遂逝。久之<persName key="A011817">十二郎</persName>得疾。請道俗百人為念<lb ed="X" n="0225a04"/>佛會。忽仰視虗空合掌問訊。手結雙印怡然而化。闔<lb ed="X" n="0225a05"/>城皆聞天樂異香漸向西沒。二子能繼其業。亦向西<lb ed="X" n="0225a06"/>坐化(佛祖統記)。</p> 
+    
+    <linkGrp>
+        <link targets="#0224c22 #0225a01"/>
+        <ptr target="#A011817" type="person"/>
+        <ptr target="#PL000000012162" type="place"/>
+        </linkGrp> 
+    <linkGrp>
+        <link targets="#225a01 #225a03"/>
+        <ptr target="#A011817" type="person"/>
+        <ptr target="#A014454" type="person"/>
+        <ptr target="unknown" type="place"/>
+        <ptr target="#j21203062120659" type="time"/>
+    </linkGrp>
+ </div>

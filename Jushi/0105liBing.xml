@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="jsz0226c07liBing">
+    <p><anchor n="X.88.1646.0226c07"/><lb ed="X" n="0226c07"/><persName key="A017693">李秉</persName><date key="j21428082145682" to-iso="1162-07-30" from-iso="1154-09-16">紹興末</date>為內廷。官歷三朝。爵武功大夫。管御藥<lb ed="X" n="0226c08"/>院。乞宮祠以去。<persName key="A017693">秉</persName>壯歲慕禪宗。參<persName key="A012808">淨慈自得禪師</persName>有<lb ed="X" n="0226c09"/>省。既別<persName key="A012808">自得</persName>。作拄杖頌寄之曰。得來拄杖元無價。分<lb ed="X" n="0226c10"/>付知音好受持。千里同風了無說。夜深月上珊瑚枝。<lb ed="X" n="0226c11"/>已而歸心淨土。刻龍舒淨土文以勸世。持誦謹篤。逾<lb ed="X" n="0226c12"/>三十年。子<persName key="A017696">元長</persName>。偕諸同好結淨業會於<placeName key="PL000000011408">傳法寺</placeName>。<persName key="A017693">秉</persName>與<lb ed="X" n="0226c13"/>焉。<date key="j21610292161116" to-iso="1204-10-31" from-iso="1204-08-05">嘉泰四年秋</date>有疾。減食却劑。神色愈警。及冬。夢中<lb ed="X" n="0226c14"/>忽見彌陀現相。越七日凌晨見金華滿室中。呼二子<lb ed="X" n="0226c15"/>掖起。別親友。索筆書曰。六十一年盡亂道。些兒見處<lb ed="X" n="0226c16"/>却也好。而今驀直往<placeName key="PL000000055477">西方</placeName>。萬劫長離生死老。置筆整<lb ed="X" n="0226c17"/>手結印而逝(樂邦文類)。</p> 
+    
+    <linkGrp>
+        <link targets="#0226c08 #0226c10"/>
+        <ptr target="#A017693" type="person"/>
+        <ptr target="#A012808" type="person"/>
+        <ptr target="unknown" type="place"/>
+        </linkGrp>
+    <linkGrp>
+        <link targets="#0226c12 #0226c13"/>
+        <ptr target="#A017693" type="person"/>
+        <ptr target="#A017696" type="person"/>
+        <ptr target="#PL000000011408" type="place"/>
+        </linkGrp>
+ </div>

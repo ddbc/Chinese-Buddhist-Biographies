@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="jsz0200a24liuLingYu">
+    <head><anchor n="X.88.1646.0200a24"/><lb ed="X" n="0200a24"/><ref target="#A002973" type="person">劉</ref><ref target="#A003067" type="person">明</ref><ref target="#A016460" type="person">劉</ref><ref target="#A011347" type="person">庾</ref><ref target="#A016494" type="person">劉</ref><ref target="#A004737" type="person">向</ref><ref target="#A016518" type="person">馮</ref><ref target="#A011184" type="person">李</ref>傳</head>
+    <p><lb ed="X" n="0200b01"/><persName key="A002973">劉靈預</persName>名<persName key="A002973">虬</persName>。<placeName key="PL000000025201">南陽</placeName>人。徙居<placeName key="PL000000027766">江陵</placeName>。<date from-iso="0466-01-10" key="j18912731893480" to-iso="0472-01-26">宋太始中</date>為<placeName key="PL000000027043">當陽</placeName>令。<lb ed="X" n="0200b02"/>罷官歸。<persName key="A003056">豫章王</persName>辟為<placeName key="PL000000027771">荊州</placeName>別駕。不應。<date from-iso="0485-02-02" key="j18982361898589" to-iso="0486-01-21">齊永明三年</date>徵<lb ed="X" n="0200b03"/>為通直郎。亦不就。<persName key="A002655">竟陵王</persName>聞<persName key="A002973">靈預</persName>精釋教。致書通意。<lb ed="X" n="0200b04"/>要其東下曰。僕迹塵珪組。心逸江湖。未面自親。聞風<lb ed="X" n="0200b05"/>如舊。而回駕之念。徒軫式閭之禮無階。君矯然獨遠。<lb ed="X" n="0200b06"/>確乎難拔宣習質文昭辨。空有所謂忘言之人。可論<lb ed="X" n="0200b07"/>天人之際。豈能鳳舉鶴翻有心儀萃。覘濠射之冥遊。<lb ed="X" n="0200b08"/>屈祇鷲之法侶。闡三乘於窮子。發二諦於困蒙。有是<lb ed="X" n="0200b09"/>因也。何其暢與。答曰。<persName key="A002973">虬</persName>四節臥病。三時營灌。暢餘音<lb ed="X" n="0200b10"/>於山澤。託暮情於魚鳥。寧非唐虞厚恩。周召宏施。遠<lb ed="X" n="0200b11"/>澤既灑。仁規先著。敢收樵牧之嫌。敬報軾鼃之義。家<lb ed="X" n="0200b12"/>居衣麤布衣。禮佛長齋。注法華經。講涅槃．大小品。以<lb ed="X" n="0200b13"/>江陵<placeName key="PL000000026393">西沙洲</placeName>去人遠。乃徙居之。<date from-iso="0495-02-12" key="j19018981902251" to-iso="0496-01-31">建武二年</date>詔徵國子<lb ed="X" n="0200b14"/>博士。不就。其冬得疾。正晝有白雲徘徊檐戶間。香氣<lb ed="X" n="0200b15"/>滿室。空中磬聲鏗然。是日卒。年五十八(南齊書．廣宏明集)。</p> 
+    
+    <linkGrp>
+        <link targets="#0200b01 #0200b01"/>
+        <ptr target="#A002973" type="person"/>
+        <ptr target="#PL000000027766" type="place"/>
+        </linkGrp>
+    <linkGrp>
+        <link targets="#0200b01 #0200b02"/>
+        <ptr target="#A002973" type="person"/>
+        <ptr target="#PL000000027043" type="place"/>
+        <ptr target="#j18912731893480" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0200b03 #0200b11"/>
+        <ptr target="#A002655" type="person"/>
+        <ptr target="#A002973" type="person"/>
+        <ptr target="unknown" type="place"/>
+        </linkGrp>
+    <linkGrp>
+        <link targets="#0200b12 #0200b15"/>
+        <ptr target="#A002973" type="person"/>
+        <ptr target="#PL000000026393" type="place"/>
+        <ptr target="#j19018981902251" type="time"/>
+    </linkGrp>
+ </div>

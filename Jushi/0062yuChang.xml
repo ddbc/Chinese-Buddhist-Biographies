@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="jsz0211b05yuChang">
+    <p><anchor n="X.88.1646.0211b05"/><lb ed="X" n="0211b05"/><persName key="A016982">于昶</persName>不詳其里居。<date from-iso="0684-10-22" key="j19730671978610" to-iso="0705-02-24">天后朝</date>任<placeName key="PL000000003793">并州</placeName>錄事。晝決曹務。夜<lb ed="X" n="0211b06"/>判冥司。每知災咎陰為之備凡六年。丁母憂。持金剛<lb ed="X" n="0211b07"/>經日以為課。更不復為冥吏矣。年八十四將終。忽聞<lb ed="X" n="0211b08"/>奇香。遽謂左右曰。西方聖人來迎我也。即向西連稱<lb ed="X" n="0211b09"/>佛名而逝(報應記)。</p> 
+    
+    <linkGrp>
+        <link targets="#0211b05 #0211b06"/>
+        <ptr target="#A016982" type="person"/>
+        <ptr target="#PL000000003793" type="place"/>
+        <ptr target="#j19730671978610" type="time"/>
+    </linkGrp> 
+ </div>

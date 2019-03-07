@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="jsz0189c09dongJi">
+    <p><anchor n="X.88.1646.0189c09"/><lb ed="X" n="0189c09"/><persName key="A011226">董吉</persName><placeName key="PL000000012145">於潛</placeName>人也。奉法三世。至<persName key="A011226">吉</persName>尤精進。恒齋戒誦首<lb ed="X" n="0189c10"/>楞嚴經。所居村人有疾病。請<persName key="A011226">吉</persName>誦經輙愈。<date from-iso="0326-04-16" key="j18402341843456" to-iso="0335-02-10"><ref target="#PL000000012145" type="place">同縣</ref><persName key="A015476">何晃</persName><lb ed="X" n="0189c11"/>亦奉法。卒中毒</date><!-- 咸和中，請參見(T53n2122_p0417b24) -->。請<persName key="A011226">吉</persName>往會。溪水暴漲不得度。<persName key="A011226">吉</persName>默禱<lb ed="X" n="0189c12"/>於<persName key="A002803">大士</persName>。裸而戴囊經以度。及岸忽囊經為水漂沒。甚<lb ed="X" n="0189c13"/>悲恨。至<persName key="A015476">晃</persName>家懺悔自責。俛仰之間乃見經囊在高座<lb ed="X" n="0189c14"/>上。啟視之。未甞沾濕。於是縣人一時皆奉法。<persName key="A011226">吉</persName>家西<lb ed="X" n="0189c15"/>北有山高險。中多妖魅犯害居民。<persName key="A011226">吉</persName>欲降之。乃闢山<lb ed="X" n="0189c16"/>地四五畆。構造小屋。設高座。轉首楞嚴經百餘日。民<lb ed="X" n="0189c17"/>害遂止。後有數人來謁曰。聞<ref target="#A011226" type="person">君</ref>德行清肅。故來相觀。<lb ed="X" n="0189c18"/>并請一事。想當見聽。吾世有此山。今<ref target="#A011226" type="person">君</ref>來止。慮相犯<lb ed="X" n="0189c19"/>冒。當更作界分。以殺樹為斷。<persName key="A011226">吉</persName>知是山鬼。乃曰。<ref target="#A011226" type="person">僕</ref>貪<lb ed="X" n="0189c20"/>此寂靜。讀誦經典。不干君等。願見祐助。鬼許諾而去。<lb ed="X" n="0189c21"/>越一宿。自<persName key="A011226">吉</persName>所闢地四際之外。樹皆枯死如焚焉(冥祥<lb ed="X" n="0189c22"/>記)。</p> 
+    
+    <linkGrp>
+        <link targets="#0189c09 #0189c10"/>
+        <ptr target="#A011226" type="person"/>
+        <ptr target="#PL000000012145" type="place"/>
+        </linkGrp> 
+    <linkGrp>
+        <link targets="#0189c10 #0189c14"/>
+        <ptr target="#A011226" type="person"/>
+        <ptr target="#A015476" type="person"/>
+        <ptr target="#PL000000012145" type="place"/>
+        <ptr target="#j18402341843456" type="time"/>
+    </linkGrp>   
+ </div>

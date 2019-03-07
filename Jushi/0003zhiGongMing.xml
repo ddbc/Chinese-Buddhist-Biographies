@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="jsz0184c20zhiGongMing">
+    <p><anchor n="X.88.1646.0184c20"/><lb ed="X" n="0184c20"/><persName key="A000164">支恭明</persName><!--請參照(http://www.fjdh.com/wumin/HTML/65753.html，2010.04.29)-->名<persName key="A000164">謙</persName>。一名<persName key="A000164">越</persName>。<placeName key="PL000000055438">大月支</placeName>人也。大父<persName key="A014890">法度</persName>以<date from-iso="0168-01-25" key="j17824451790419" to-iso="0189-11-24">漢靈<lb ed="X" n="0184c21"/>帝世</date>率國人數百歸化。拜率善中郎將。<persName key="A000164">恭明</persName><date key="j17941091796299" to-iso="0205-12-31" from-iso="0200-01-01">年七歲</date><lb ed="X" n="0184c22"/>騎竹馬戲於鄰家。為狗所嚙傷脛。鄰人欲殺狗取肝<lb ed="X" n="0184c23"/>傅瘡。<persName key="A000164">恭明</persName>曰。天生此狗。為人守吠。我若不來。終不見<lb ed="X" n="0184c24"/>嚙。失在於我。非關於狗。殺之得差尚不可為。況無益<lb ed="X" n="0185a01"/>而招大罪。由是鄉人數十家感其言。悉不復殺生。<date key="j17952041797395" to-iso="0208-12-31" from-iso="0203-01-01">十<lb ed="X" n="0185a02"/>歲</date>學書。<date key="j17963001798490" to-iso="0211-12-31" from-iso="0206-01-01">十三歲</date>學梵書。通六國語。博覽經籍。兼綜藝<lb ed="X" n="0185a03"/>術。甞受業於<persName key="A002171">支亮</persName>。<persName key="A002171">亮</persName>又受業於<persName key="A000163">支讖</persName>。當<date from-iso="0146-07-26" key="j17745921790419" to-iso="0189-11-24">桓靈世</date>。新出<lb ed="X" n="0185a04"/>佛經多<persName key="A000163">讖</persName>所譯。當世稱之曰。天下博知。無出<persName key="G000036">三支</persName>。<date key="j17990251801912" to-iso="0221-05-14" from-iso="0213-06-18">献<lb ed="X" n="0185a05"/>帝末</date>遭寇亂。<persName key="A000164">恭明</persName>與鄉人數十避地歸<placeName key="PL000000000101">吳</placeName>。初發日惟<lb ed="X" n="0185a06"/>有一被。有客隨之大寒無被。<persName key="A000164">恭明</persName>呼與共臥。夜將半<lb ed="X" n="0185a07"/>客奪被而去。明旦同侶問被所在。語以故。咸曰何不<lb ed="X" n="0185a08"/>相告。答曰。我若相告。卿等必以刼罪罪之。豈宜以一<lb ed="X" n="0185a09"/>被而殺一人乎。聞者歎服。既至<placeName key="PL000000000101">吳</placeName>。<placeName key="PL000000000101">吳</placeName>主<persName key="A002169">孫權</persName>聞其博<lb ed="X" n="0185a10"/>學有才。即召見之 。問經中深隱之義。<persName key="A000164">恭明</persName>應機釋難<lb ed="X" n="0185a11"/>無疑不析。<persName key="A002169">權</persName>甚悅。拜為博士。使輔導東宮。甞譯摩詰．<lb ed="X" n="0185a12"/>大般泥洹．法句．瑞應．本起等二十七經。辭旨文雅盛<lb ed="X" n="0185a13"/>傳於世。其後<date key="j18132171813379" to-iso="0252-10-05" from-iso="0252-04-26">太子即位</date><!--請參照(http://www.fjdh.com/wumin/HTML/65753.html，2010.04.29)-->。遂隱於<placeName key="PL000000010057">穹窿山</placeName>。不交世務。從<lb ed="X" n="0185a14"/>道人<persName key="A000748">竺法蘭</persName>更鍊五戒。凡所游從皆沙門而已。<date key="j18134671815608" to-iso="0258-11-12" from-iso="0253-01-01">年六<lb ed="X" n="0185a15"/>十</date><!--請參照(http://www.fjdh.com/wumin/HTML/65753.html，2010.04.29)-->卒於山中(出三藏記集)。</p>     
+  
+    <linkGrp>
+        <link targets="#0185a03 #0185a03"/>
+        <ptr target="#A000164" type="person"/>
+        <ptr target="#A002171" type="person"/>
+        <ptr target="unknown" type="place"/>
+        </linkGrp>
+    <linkGrp>
+        <link targets="#0185a03 #0185a03"/>
+        <ptr target="#A000163" type="person"/>
+        <ptr target="#A002171" type="person"/>
+        <ptr target="unknown" type="place"/>
+        </linkGrp>
+    <linkGrp>
+        <link targets="#185a04 #185a09"/>
+        <ptr target="#A000164" type="person"/>
+        <ptr target="#PL000000000101" type="place"/>
+        <ptr target="#j17990251801912" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#185a09 #185a13"/>
+        <ptr target="#A000164" type="person"/>
+        <ptr target="#A002169" type="person"/>
+        <ptr target="#PL000000000101" type="place"/>
+        </linkGrp>
+    <linkGrp>
+        <link targets="#185a13 #185a13"/>
+        <ptr target="#A000164" type="person"/>
+        <ptr target="#PL000000010057" type="place"/>
+        <ptr target="#j18132171813379" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#185a13 #185a14"/>
+        <ptr target="#A000164" type="person"/>        
+        <ptr target="#A000748" type="person"/>
+        <ptr target="#PL000000010057" type="place"/>
+        </linkGrp>
+ </div>

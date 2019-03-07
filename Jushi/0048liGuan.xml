@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="jsz0204b04liGuan">
+    <p><anchor n="X.88.1646.0204b04"/><lb ed="X" n="0204b04"/><persName key="A016668">李觀</persName><placeName key="PL000000044997">隴西</placeName>人。<date from-iso="0656-02-10" key="j19606991962581" to-iso="0661-04-06">顯慶中</date>寓<placeName key="PL000000023194">滎陽</placeName>。遭父喪。刺血寫金剛般<lb ed="X" n="0204b05"/>若心經．隨願往生經各一卷。異香發於院。郁然連日。<lb ed="X" n="0204b06"/>香及其鄰　(法苑珠林○按此<persName key="A016668">李觀</persName>與唐書所載字<persName key="A016671">元賓</persName>者。先後相懸。法喜志．金湯錄合為一人。<lb ed="X" n="0204b07"/>非也)。</p> 
+    
+    <linkGrp>
+        <link targets="#0204b04 #0204b06"/>
+        <ptr target="#A016668" type="person"/>
+        <ptr target="#PL000000023194" type="place"/>
+        <ptr target="#j19606991962581" type="time"/>
+    </linkGrp>    
+ </div>

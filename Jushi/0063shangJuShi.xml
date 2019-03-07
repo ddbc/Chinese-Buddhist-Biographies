@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="jsz0211b10shangJuShi">
+    <p><anchor n="X.88.1646.0211b10"/><lb ed="X" n="0211b10"/><persName key="A016986">商居士</persName>遺其名。<placeName key="PL000000003438">三河縣</placeName>人。年七歲能通佛書。後廬於<lb ed="X" n="0211b11"/>縣西田中。有佛書數百千卷。閱誦未甞一日廢。從而<lb ed="X" n="0211b12"/>師者百輩。每行其骨體珊然若戞玉之音。年九十餘。<lb ed="X" n="0211b13"/>一日湯沐具冠帶悉召門弟子會食告之曰。吾旦暮<lb ed="X" n="0211b14"/>且死。當以火燼吾尸。慎無逆吾旨。是夕坐逝。後三日<lb ed="X" n="0211b15"/>焚之。視其骨若鈎鎖之相屬也。於是里人建塔以奉<lb ed="X" n="0211b16"/>焉(宣室志)。</p> 
+    
+    <linkGrp>
+        <link targets="#0211b10 #0211b16"/>
+        <ptr target="#A016986" type="person"/>
+        <ptr target="#PL000000003438" type="place"/>
+        </linkGrp> 
+ </div>

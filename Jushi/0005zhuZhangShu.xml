@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="jsz0185b10zhuZhangShu">
+    <p><anchor n="X.88.1646.0185b10"/><lb ed="X" n="0185b10"/><persName key="A009360">竺長舒</persName>亦<placeName key="PL000000048207">天竺</placeName>人也。<date key="j18182531827012" to-iso="0290-02-01" from-iso="0266-02-08">晉初</date>內徙居於<placeName key="PL000000023710">吳</placeName><!--雒陽，請參照〈T53n2122_p0459a21〉-->。奉法精至。尤<lb ed="X" n="0185b11"/>虔誦觀世音經。比鄰失火。<persName key="A009360">長舒</persName>家在下風。勅家人不<lb ed="X" n="0185b12"/>得動。唯一心念<persName key="A002803">觀世音</persName>。頃之火忽自熄。有諸少年心<lb ed="X" n="0185b13"/>怪之。後一夕密束炬擲其屋。四擲皆滅。乃大驚以為<lb ed="X" n="0185b14"/>神。各走還家。明晨相率詣<persName key="A009360">長舒</persName>稽顙謝。自說昨事。<persName key="A009360">長<lb ed="X" n="0185b15"/>舒</persName>曰。我無神力。止念<persName key="A002803">觀世音</persName>力耳。諸君但當洗心信<lb ed="X" n="0185b16"/>向。毋自恐也。於是鄉里間咸知奉法(辨正論)。</p>     
+      
+    <linkGrp>
+        <link targets="#0185b10 #0185b10"/>
+        <ptr target="#A009360" type="person"/>
+        <ptr target="#PL000000023710" type="place"/>
+        <ptr target="#j18182531827012" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0185b10 #0185b16"/>
+        <ptr target="#A009360" type="person"/>
+        <ptr target="#PL000000023710" type="place"/>
+        </linkGrp>
+ </div>

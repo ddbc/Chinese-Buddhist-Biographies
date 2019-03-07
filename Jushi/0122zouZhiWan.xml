@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="jsz0232b10zouZhiWan">
+    <p><anchor n="X.88.1646.0232b10"/><lb ed="X" n="0232b10"/><persName key="A011238">鄒志完</persName>名<persName key="A011238">浩</persName>。常州<placeName key="PL000000009722">晉陵</placeName>人也。舉進士。歷官<placeName key="PL000000027136">襄陽</placeName>教授。<lb ed="X" n="0232b11"/><date from-iso="1098-02-10" key="j21221372122885" to-iso="1100-02-28">元符中</date>召對。除右正言。時<persName key="A017009">章惇</persName>擅政。<persName key="A011238">志完</persName>三上疏劾。<lb ed="X" n="0232b12"/><persName key="A017009">惇</persName>未報。會詔立<persName key="A017841">劉后</persName>。復上疏爭之。<lb ed="X" n="0232b12"/><persName key="A017009">惇</persName>因詆其狂妄。除<lb ed="X" n="0232b13"/>名。貶<placeName key="PL000000031873">新州</placeName>。<date key="j21228862122971" to-iso="1100-05-25" from-iso="1100-03-01"><persName key="A003935">徽宗</persName>即位</date>。召復故官。遷司諫。歷吏部兵部<lb ed="X" n="0232b14"/>侍郎。<persName key="A009525">蔡京</persName>用事。再斥<placeName key="PL000000028995">衡山</placeName>別駕。<placeName key="PL000000029829">永州</placeName>安置。復除名。羈<lb ed="X" n="0232b15"/><placeName key="PL000000032445">昭州</placeName>。移<placeName key="PL000000026427">漢陽軍</placeName>。初<persName key="A011238">志完</persName>官<placeName key="PL000000027147">襄州</placeName>。夢詣大剎。見<persName key="A002803">白衣大<lb ed="X" n="0232b16"/>士</persName>親為說法。覺而繪所見為之像。其後在<placeName key="PL000000032445">昭州</placeName>供奉<lb ed="X" n="0232b17"/>益虔日。跪像前誦華嚴經。有舍利出於袖間。像後生<lb ed="X" n="0232b18"/>竹三竿。垂枝下覆。與世所畫普陀巖竹無以異也。讀<lb ed="X" n="0232b19"/>華嚴合論。作頌曰。華嚴佛菩薩。悲智咸徧周。廣開方<lb ed="X" n="0232b20"/>便門。主伴互酬請。於無言說中。說法無數量。我讀誦<lb ed="X" n="0232b21"/>思惟。獲從信根入。闇逢照世燈。病遇雪山藥。無價大<lb ed="X" n="0232b22"/>寶珠。衣內忽然得。願盡未來際。滿足普賢行。一切導<lb ed="X" n="0232b23"/>師前。一一興供養。一切眾生前。一一作利益。持經繼<lb ed="X" n="0232b24"/>有人。悉冀同我願。自號<persName key="A011238">道鄉居士</persName>。作道鄉歌曰。要識<lb ed="X" n="0232c01"/>道鄉去處。只在微塵裏許。不立四至封疆。不問二儀<lb ed="X" n="0232c02"/>寒暑。日月常放光明。鳥獸率來儀舞。其俗無譽無非。<lb ed="X" n="0232c03"/>其民無喜無怒。別是一種乾坤。全異<placeName key="PL000000000083">九州</placeName>風土。師曠<lb ed="X" n="0232c04"/>傾耳莫聞。離婁拭目莫覩。誰知有個冥蒙。踏著從來<lb ed="X" n="0232c05"/>門戶。入也不動脚根。居也不記年所。行住坐臥虗徐。<lb ed="X" n="0232c06"/>色聲臭味愚魯。偶然成矩成規。未甞為鼠為虎。任他<lb ed="X" n="0232c07"/>卜度縱橫。逈脫機關取與。人間天上無朋。可謂自今<lb ed="X" n="0232c08"/>自古。<date from-iso="1107-02-02" key="j21254152125798" to-iso="1108-02-20">大觀元年</date>復直龍圖閣。乞歸養親。六年而卒。年<lb ed="X" n="0232c09"/>五十二(宋史．道鄉集．漁隱叢話)。</p> 
+    
+    <linkGrp>
+        <link targets="#0232b10 #0232b10"/>
+        <ptr target="#A011238" type="person"/>
+        <ptr target="#PL000000027136" type="place"/>
+        </linkGrp>
+    <linkGrp>
+        <link targets="#0232b11 #0232b13"/>
+        <ptr target="#A011238" type="person"/>
+        <ptr target="#A017009" type="person"/>
+        <ptr target="#A017841" type="person"/>
+        <ptr target="unknown" type="place"/>
+        <ptr target="#j21221372122885" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0232b11 #0232b13"/>
+        <ptr target="#A011238" type="person"/>
+        <ptr target="#PL000000031873" type="place"/>
+        <ptr target="#j21221372122885" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0232b13 #0232b15"/>
+        <ptr target="#A011238" type="person"/>
+        <ptr target="#A003935" type="person"/>
+        <ptr target="#A009525" type="person"/>
+        <ptr target="unknown" type="place"/>
+        <ptr target="#j21228862122971" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0232b13 #0232b14"/>
+        <ptr target="#A011238" type="person"/>
+        <ptr target="#PL000000028995" type="place"/>
+        </linkGrp>
+    <linkGrp>
+        <link targets="#0232b13 #0232b14"/>
+        <ptr target="#A011238" type="person"/>
+        <ptr target="#PL000000029829" type="place"/>
+        </linkGrp>
+    <linkGrp>
+        <link targets="#0232b13 #0232b15"/>
+        <ptr target="#A011238" type="person"/>
+        <ptr target="#PL000000032445" type="place"/>
+        </linkGrp>
+    <linkGrp>
+        <link targets="#0232b13 #0232b15"/>
+        <ptr target="#A011238" type="person"/>
+        <ptr target="#PL000000026427" type="place"/>
+        </linkGrp>
+    <linkGrp>
+        <link targets="#0232b15 #0232b16"/>
+        <ptr target="#A011238" type="person"/>
+        <ptr target="#PL000000027147" type="place"/>
+        </linkGrp>
+    <linkGrp>
+        <link targets="#0232b15 #0232b18"/>
+        <ptr target="#A011238" type="person"/>
+        <ptr target="#PL000000032445" type="place"/>
+        </linkGrp>
+ </div>

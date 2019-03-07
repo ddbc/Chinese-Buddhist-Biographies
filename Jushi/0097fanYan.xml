@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="jsz0225b04fanYan">
+    <p><anchor n="X.88.1646.0225b04"/><lb ed="X" n="0225b04"/><persName key="A017656">范儼</persName><placeName key="PL000000011514">仁和</placeName>人。居常蔬食。不牽世緣。曰百年旅泊耳。尚<lb ed="X" n="0225b05"/>何求哉。日誦法華經。手書一部。求生<placeName key="PL000000055477">淨土</placeName>。<date from-iso="1107-02-02" key="j21254152126890" to-iso="1111-02-16">大觀中</date>忽<lb ed="X" n="0225b06"/>見<persName key="A003079">普賢</persName>乘六牙白象放金色光謂<persName key="A017656">儼</persName>曰。汝常誦法華。<lb ed="X" n="0225b07"/>念<persName key="A002843">彌陀佛</persName>。得生<placeName key="PL000000055477">淨土</placeName>。故來相報。越一夕。覩眾聖授手。<lb ed="X" n="0225b08"/>就座合掌而逝(佛祖統記)。</p> 
+    
+    <linkGrp>
+        <link targets="#0225b04 #0225b08"/>
+        <ptr target="#A017656" type="person"/>
+        <ptr target="#PL000000011514" type="place"/>
+        <ptr target="#j21254152126890" type="time"/>
+    </linkGrp> 
+ </div>

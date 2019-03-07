@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="jsz0226a18wangZhong">
+    <p><anchor n="X.88.1646.0226a18"/><lb ed="X" n="0226a18"/><persName key="A017669">王衷</persName><placeName key="PL000000012747">嘉禾</placeName>人。居錢塘之<placeName key="PL000000011560">孤山</placeName>。<date from-iso="1111-02-17" key="j21268912129755" to-iso="1118-12-21">政和間</date>舉隱逸不起。甞<lb ed="X" n="0226a19"/>參<persName key="A011684">小本</persName>禪師未有所入。偶聞僧誦彌陀經有感。遂專<lb ed="X" n="0226a20"/>心淨業。日誦阿彌陀經七過。佛號萬聲。十九年未甞<lb ed="X" n="0226a21"/>間斷。即所居為蓮社。無問道俗貴賤咸得與會。一日<lb ed="X" n="0226a22"/>無疾沐浴面西跏趺而化(佛祖統記．樂邦文類)。</p> 
+    
+    <linkGrp>
+        <link targets="#0226a18 #0226a18"/>
+        <ptr target="#A017669" type="person"/>
+        <ptr target="#PL000000011560" type="place"/>
+        </linkGrp>
+    <linkGrp>
+        <link targets="#0226a18 #0226a19"/>
+        <ptr target="#A017669" type="person"/>
+        <ptr target="#A011684" type="person"/>
+        <ptr target="unknown" type="place"/>
+        </linkGrp> 
+ </div>

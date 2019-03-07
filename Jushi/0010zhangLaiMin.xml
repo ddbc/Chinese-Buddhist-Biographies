@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="jsz0187c23zhangLaiMin">
+    <head><anchor n="X.88.1646.0187c23"/><lb ed="X" n="0187c23"/><ref target="#A002813 #A002814" type="persName">二張</ref><ref target="#A015132" type="person">王</ref><ref target="#A002812" type="person">宗</ref><ref target="#A002738" type="person">周</ref><ref target="#A002810" type="person">雷</ref>傳</head><p><lb ed="X" n="0187c24"/><persName key="A002813">張萊民</persName>名<persName key="A002813">野</persName>。<placeName key="PL000000018863">尋陽</placeName>人也。性孝友。田宅悉推與弟。甘苦<lb ed="X" n="0188a01"/>與九族共之。州郡屢辟不應。朝命拜散騎常侍亦不<lb ed="X" n="0188a02"/>就。入廬山<placeName key="PL000000018771">白蓮社</placeName>。稱<persName key="A001204">遠公</persName>門人。<date from-iso="0418-02-22" key="j18737841874124" to-iso="0419-01-28">義熈十四年</date>與家人<lb ed="X" n="0188a03"/>別入室端坐而逝。年六十九(<placeName key="PL000000018801">東林</placeName>傳)。</p> 
+    
+    <linkGrp>
+        <link targets="#0187c24 #0188a01"/>
+        <ptr target="#A002813" type="person"/>
+        <ptr target="#PL000000018863" type="place"/>
+        </linkGrp>
+    <linkGrp>
+        <link targets="#0188a02 #0188a02"/>
+        <ptr target="#A002813" type="person"/>
+        <ptr target="#A001204" type="person"/>
+        <ptr target="#PL000000018771" type="place"/>
+        </linkGrp>
+ </div>

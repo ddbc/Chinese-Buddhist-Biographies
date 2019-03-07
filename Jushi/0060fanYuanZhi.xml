@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="jsz0211a14fanYuanZhi">
+    <p><anchor n="X.88.1646.0211a14"/><lb ed="X" n="0211a14"/><persName key="A016955">樊元智</persName><placeName key="PL000000045890">安定</placeName>人。弱齡好道。居<ref target="#PL000000042182" type="place">京城</ref>南。依<persName key="A000525">杜順和尚</persName>。<persName key="A000525">杜<lb ed="X" n="0211a15"/>順</persName>令習華嚴為業。仍依經修普賢行。每誦經。口中頻<lb ed="X" n="0211a16"/>獲舍利。前後數百粒。有時夜誦。口放光明照及四十<lb ed="X" n="0211a17"/>餘里。遠近驚異。年九十二無疾而終。茶毗時牙齒變<lb ed="X" n="0211a18"/>為舍利。得百餘粒。悉放光明。數日不歇。僧俗建塔以<lb ed="X" n="0211a19"/>為供養(華嚴經疏鈔．華嚴感應傳)。</p> 
+    
+    <linkGrp>
+        <link targets="#0211a14 #0211a15"/>
+        <ptr target="#A000525" type="person"/>
+        <ptr target="#A016955" type="person"/>
+        <ptr target="unknown" type="place"/>
+        </linkGrp> 
+ </div>

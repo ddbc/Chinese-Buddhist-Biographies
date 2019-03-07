@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="jsz0228c19guoGongFu">
+    <p><anchor n="X.88.1646.0228c19"/><lb ed="X" n="0228c19"/><persName key="A017790">郭功父</persName>名<persName key="A017790">祥正</persName>。<placeName key="PL000000015323">當塗</placeName>人也。母夢<persName key="A005220">李太白</persName>而生。及長工<lb ed="X" n="0228c20"/>詩。<date from-iso="1068-02-12" key="j21111812114813" to-iso="1078-01-22">熈寧中</date>知<placeName key="PL000000029254">武岡縣</placeName>僉書保信軍節度判官。尋致仕。<lb ed="X" n="0228c21"/>隱於<placeName key="PL000000015305">青山</placeName>。自號<persName key="A017790">淨空居士</persName>。渡江謁<placeName key="PL000000015476">舒州</placeName><persName key="A003723">白雲端</persName>公。<persName key="A003723">白<lb ed="X" n="0228c22"/>雲</persName>上堂曰。夜來枕上作得一頌。謝<persName key="A017790">功父</persName>遠訪之勤。當<lb ed="X" n="0228c23"/>須舉似諸方。要與天下有鼻孔衲僧脫却著肉汗衫。<lb ed="X" n="0228c24"/>莫言不道。乃曰。上大人。邱乙己。化三千。七十士。爾小<lb ed="X" n="0229a01"/>生。八九子。佳作仁。可知禮也。<persName key="A017790">功父</persName>切疑。後聞小兒誦<lb ed="X" n="0229a02"/>之。忽有省。以書報<persName key="A003723">白雲</persName>。<persName key="A003723">白雲</persName>以偈答曰。藏身不用縮<lb ed="X" n="0229a03"/>頭。斂跡何須收脚。金烏半夜撩天。玉兔趕他不著。一<lb ed="X" n="0229a04"/>日<persName key="A003723">白雲</persName>問曰牛淳乎。曰淳矣。<persName key="A003723">白雲</persName>叱之。<persName key="A017790">功父</persName>拱手而<lb ed="X" n="0229a05"/>立。<persName key="A003723">白雲</persName>曰淳乎淳乎。乃贈偈曰。牛來山中。水足草足。<lb ed="X" n="0229a06"/>牛出山去。東觸西觸。甞到<ref target="#A003723" type="person">雲</ref>居請<persName key="A009839">佛印</persName>升座。拈香曰。<lb ed="X" n="0229a07"/>覺地相逢一何早。鶻臭布衫今脫了。要識<ref target="#A003723" type="person">雲</ref>居一句<lb ed="X" n="0229a08"/>玄。珍重後園驢喫草。召大眾曰。此一瓣香薰天炙地<lb ed="X" n="0229a09"/>去也。<persName key="A009839">佛印</persName>曰。今日不著便。被這漢當面塗糊。便打。乃<lb ed="X" n="0229a10"/>曰。謝<ref target="#A017790" type="person">公</ref>千里來相訪。共話東山竹徑深。借與一龍騎<lb ed="X" n="0229a11"/>出洞。若逢天旱便為霖。擲拄杖下座。<persName key="A017790">功父</persName>拜起。<persName key="A009839">佛印</persName><lb ed="X" n="0229a12"/>曰收得龍麼。<persName key="A017790">功父</persName>曰已在這裏。<persName key="A009839">佛印</persName>曰作麼生騎。<persName key="A017790">功<lb ed="X" n="0229a13"/>父</persName>擺手作舞便行。<persName key="A009839">佛印</persName>拊掌曰祇有這漢猶較些子。<lb ed="X" n="0229a14"/>後復起知<placeName key="PL000000031114">端州</placeName>。尋棄去。老於家(東都事略．五燈會元)。</p> 
+    
+    <linkGrp>
+        <link targets="#0228c20 #0228c20"/>
+        <ptr target="#A017790" type="person"/>
+        <ptr target="#PL000000029254" type="place"/>
+        <ptr target="#j21111812114813" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0228c20 #0228c21"/>
+        <ptr target="#A017790" type="person"/>
+        <ptr target="#PL000000015305" type="place"/>
+        </linkGrp>
+    <linkGrp>
+        <link targets="#0228c21 #0229a01"/>
+        <ptr target="#A017790" type="person"/>
+        <ptr target="#A003723" type="person"/>
+        <ptr target="#PL000000015476" type="place"/>
+        </linkGrp>
+    <linkGrp>
+        <link targets="#0229a06 #0229a13"/>
+        <ptr target="#A017790" type="person"/>
+        <ptr target="#A009839" type="person"/>
+        <ptr target="unknown" type="place"/>
+        </linkGrp>
+    <linkGrp>
+        <link targets="#0229a14 #0229a14"/>
+        <ptr target="#A017790" type="person"/>
+        <ptr target="#PL000000031114" type="place"/>
+        </linkGrp>
+ </div>

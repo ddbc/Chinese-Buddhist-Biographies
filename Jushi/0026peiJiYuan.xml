@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="jsz0192a06peiJiYuan">
+    <p><anchor n="X.88.1646.0192a06"/><lb ed="X" n="0192a06"/><persName key="A015418">裴幾原</persName>名<persName key="A015418">子野</persName>。河東<placeName key="PL000000004996">聞喜</placeName>人。少好學工文。有至性。居<lb ed="X" n="0192a07"/>父喪盡禮。每之墓所。哭泣處草為之枯。有白兔馴擾<lb ed="X" n="0192a08"/>其側。<date from-iso="0502-05-02" key="j19045331911021" to-iso="0520-02-05">梁天監中</date>為著作郎。掌國史及起居注。<date key="j19136611913894" to-iso="0527-12-18" from-iso="0527-04-29">大通初</date><lb ed="X" n="0192a09"/>累遷鴻臚卿。尋領步兵校尉。在禁省十餘年。靜默自<lb ed="X" n="0192a10"/>守未嘗有所請謁。所得俸悉以分戚黨之貧者。借官
+        <lb ed="X" n="0192a11"/>地二畝起屋數間。妻子恒苦飢寒。晚年深信佛法。持<lb ed="X" n="0192a12"/>其教戒。飯麥食蔬終其身。<date from-iso="0530-02-15" key="j19146841915038" to-iso="0531-02-04">大通二年</date><!-- 中大通二年，請參見裴子野詞條 -->卒。先是預尅死<lb ed="X" n="0192a13"/>日。及期自省移病詣同畆<persName key="A015795">劉之亨</persName>曰。吾其逝矣。遺命<lb ed="X" n="0192a14"/>喪葬務從節制。諡曰貞子。同時<persName key="A015805">劉士深</persName>。名<persName key="A015805">杳</persName>。<placeName key="PL000000022333">平原</placeName>人。<lb ed="X" n="0192a15"/>亦好學彊記。<date key="j19045331906155" to-iso="0506-10-10" from-iso="0502-05-02">天監初</date>官太學博士。後代<persName key="A015418">幾原</persName>為著作<lb ed="X" n="0192a16"/>郎。累遷尚書左丞。<date from-iso="0536-02-10" key="j19168701917223" to-iso="0537-01-28">大同二年</date>卒。<persName key="A015805">士深</persName>自讀佛經。常行<lb ed="X" n="0192a17"/>慈忍。中年喪母便長斷腥血。治身清儉無他嗜好。性<lb ed="X" n="0192a18"/>不自伐。不論人長短。臨終遺命以法服殮。載以露車<lb ed="X" n="0192a19"/>還葬舊墓。勿設靈筵勿致祭醊。其子遵行之。又有<persName key="A015816"><!-- <date from-iso="0457" to-iso="0548" type="default" xml:id="d18879771921623"/> -->任<lb ed="X" n="0192a20"/>孝恭</persName>者。<placeName key="PL000000010656">臨淮</placeName>人。亦善屬文。<date from-iso="0502-05-02" key="j19045331921743" to-iso="0549-06-14">武帝時</date>官司文侍郎。初從<lb ed="X" n="0192a21"/>蕭寺<persName key="A000729">雲法師</persName>讀經論本佛理。已而蔬食持戒。<date from-iso="0548-01-28" key="j19212401921623" to-iso="0549-02-14">太清二<lb ed="X" n="0192a22"/>年</date><persName key="A004282">侯景</persName>陷<placeName key="PL000000008617">臺城</placeName>。為所殺(梁書)。</p> 
+    
+    <linkGrp>
+        <link targets="#0192a06 #0192a14"/>
+        <ptr target="#A015418" type="person"/>
+        <ptr target="#A015795" type="person"/>
+        <ptr target="unknown" type="place"/>
+        <ptr target="#j19146841915038" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0192a14 #0192a19"/>
+        <ptr target="#A015805" type="person"/>
+        <ptr target="#PL000000022333" type="place"/>
+        <ptr target="#j19168701917223" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0192a19 #0192a22"/>
+        <ptr target="#A015816" type="person"/>
+        <ptr target="#A000729" type="person"/>
+        <ptr target="unknown" type="place"/>
+        <!-- <ptr target="#d18879771921623" type="time"/> -->
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0192a21 #0192a22"/>
+        <ptr target="#A015816" type="person"/>
+        <ptr target="#A004282" type="person"/>
+        <ptr target="#PL000000008617" type="place"/>
+        <ptr target="#j19212401921623" type="time"/>
+    </linkGrp>
+ </div>

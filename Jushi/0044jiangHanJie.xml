@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="jsz0203c20jiangHanJie">
+    <head><anchor n="X.88.1646.0203c20"/><lb ed="X" n="0203c20"/><ref target="#A016649" type="person">江</ref><ref target="#A011581" type="person">劉</ref><ref target="#A016657" type="person">張</ref><ref target="#A016666" type="person">司馬</ref><ref target="#A016668" type="person">李</ref><ref target="#A016674" type="person">元</ref><ref target="#A016677" type="person">萬</ref><ref target="#A016688" type="person">朱</ref><ref target="#A011653 #A016722" type="persName">二吳</ref><ref target="#A011573" type="person">彭</ref><ref target="#A016727" type="person">高</ref>傳</head>
+    <p><lb ed="X" n="0203c21"/><persName key="A016649">江含潔</persName>名<persName key="A016649">紑</persName>。濟陽<placeName key="PL000000010651">考城</placeName>人。父<persName key="A016651">蒨</persName>。為梁光祿大夫。<persName key="A016649">含潔</persName><lb ed="X" n="0203c22"/>年十三。父病眼。<persName key="A016649">含潔</persName>侍疾。將期月衣不解帶。夜夢一<lb ed="X" n="0203c23"/>僧云。患眼者飲慧眼水必差。其叔父<persName key="A016652">祿</persName>與<placeName key="PL000000008792">草堂寺</placeName><persName key="A005037">智<lb ed="X" n="0203c24"/>者</persName>法師善。往訪之。<persName key="A005037">智者</persName>曰。無量壽經云。慧眼見真。能<lb ed="X" n="0204a01"/>度彼岸。<persName key="A016651">蒨</persName>乃同<persName key="A005037">智者</persName>啟聞。捨同夏縣界<placeName key="PL000000008574">牛屯</placeName>里宅為<lb ed="X" n="0204a02"/>寺。乞賜嘉名。敕曰。慧眼是五眼之一。可以慧眼為名。<lb ed="X" n="0204a03"/>寺成。泄故井水。清洌異常。乃悟所夢。取水洗眼。並以<lb ed="X" n="0204a04"/>煑藥而病遂差。<persName key="A015861">南康王</persName>為<placeName key="PL000000015294">南州</placeName>。召<persName key="A016649">含潔</persName>為主簿。<persName key="A016649">含潔</persName><lb ed="X" n="0204a05"/>頗好老莊。尤善佛義。不樂仕進。及父<date from-iso="0527-04-29" key="j19136611913945" to-iso="0528-02-07">卒</date><!-- 大通元年，請參見(http://zh.wikisource.org/zh-hant/梁書/卷21,2010.06.18)-->。廬於墓。頃之<lb ed="X" n="0204a06"/>亦卒(梁書)。</p> 
+    
+    <linkGrp>
+        <link targets="#0203c21 #0203c22"/>        
+        <ptr target="#A016649" type="person"/>
+        <ptr target="#A016651" type="person"/>
+        <ptr target="unknown" type="place"/>
+        </linkGrp>
+    <linkGrp>
+        <link targets="#0203c21 #0203c23"/>        
+        <ptr target="#A016649" type="person"/>
+        <ptr target="#A016651" type="person"/>
+        <ptr target="#A016652" type="person"/>
+        <ptr target="unknown" type="place"/>
+        </linkGrp>
+    <linkGrp>
+        <link targets="#0203c23 #0204a02"/>        
+        <ptr target="#A005037" type="person"/>
+        <ptr target="#A016651" type="person"/>
+        <ptr target="#A016652" type="person"/>
+        <ptr target="#PL000000008574" type="place"/>
+        </linkGrp>
+    <linkGrp>
+        <link targets="#0204a03 #0204a04"/>        
+        <ptr target="#A016649" type="person"/>
+        <ptr target="#A016651" type="person"/>
+        <ptr target="#PL000000008574" type="place"/>
+        </linkGrp>
+ </div>

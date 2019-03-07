@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="jsz0215c04ganXingZhe">
+    <p><anchor n="X.88.1646.0215c04"/><lb ed="X" n="0215c04"/><persName key="A007166">甘行者</persName>名<persName key="A007166">贄</persName>。<placeName key="PL000000016631">池州</placeName>人。嗣法<persName key="A003889">南泉願禪師</persName>。一日入<placeName key="PL000000016915">南泉</placeName><lb ed="X" n="0215c05"/>設齋。<persName key="A000490">黃蘗運</persName>為首座。<persName key="A007166">行者</persName>請施財。答曰財法二施等<lb ed="X" n="0215c06"/>無差別。<persName key="A007166">行者</persName>曰甚麼道爭消得<persName key="A007166">贄</persName>嚫。便將出去。須臾<lb ed="X" n="0215c07"/>復入曰請施財。<persName key="A000490">黃蘗</persName>曰。財法二施等無差別。乃嚫。<persName key="A007166">行<lb ed="X" n="0215c08"/>者</persName>甞接待往來。有僧問曰<persName key="A007166">行者</persName>接待不易。<persName key="A007166">行者</persName>曰譬<lb ed="X" n="0215c09"/>如餧驢餧馬。<persName key="A010510">藥山</persName>令供養主行乞至<persName key="A007166">行者</persName>家。<persName key="A007166">行者</persName>問<lb ed="X" n="0215c10"/>從何來。曰<persName key="A010510">藥山</persName>。<persName key="A007166">行者</persName>曰來作麼。曰教化<persName key="A007166">行者</persName>。曰將得<lb ed="X" n="0215c11"/>藥來麼。曰<persName key="A007166">行者</persName>有甚麼病。<persName key="A007166">行者</persName>便捨銀兩錠。歸舉呈。<lb ed="X" n="0215c12"/><persName key="A010510">藥山</persName>曰。速還之。子著賊了也。主即送還。<persName key="A007166">行者</persName>曰。彼中<lb ed="X" n="0215c13"/>有人。加銀施之。<persName key="A008167">巖頭奯</persName>禪師甞舍<persName key="A007166">行者</persName>家度夏。補衣<lb ed="X" n="0215c14"/>次。<persName key="A007166">行者</persName>趨過。<persName key="A008167">巖頭</persName>以針作劄勢。<persName key="A007166">行者</persName>整衣謝。妻問云<lb ed="X" n="0215c15"/>作麼。<persName key="A007166">行者</persName>曰說不得。妻曰也要大家知。乃舉前話。妻<lb ed="X" n="0215c16"/>頓悟乃云。此去三十年後。須知一回飲水一回咽。其<lb ed="X" n="0215c17"/>女子聞之亦悟曰。誰知盡大地人性命被<ref target="#A008167" type="person">奯</ref>上座劄<lb ed="X" n="0215c18"/>將去也(五燈會元．先覺宗乘)。</p> 
+    
+    <linkGrp>
+        <link targets="#0215c04 #0215c04"/>
+        <ptr target="#A007166" type="person"/>
+        <ptr target="#A003889" type="person"/>
+        <ptr target="unknown" type="place"/>
+        </linkGrp>
+    <linkGrp>
+        <link targets="#0215c04 #0215c07"/>
+        <ptr target="#A007166" type="person"/>
+        <ptr target="#A000490" type="person"/>
+        <ptr target="#PL000000016915" type="place"/>
+        </linkGrp>
+    <linkGrp>
+        <link targets="#0215c09 #0215c13"/>
+        <ptr target="#A007166" type="person"/>
+        <ptr target="#A010510" type="person"/>
+        <ptr target="unknown" type="place"/>
+        </linkGrp>
+    <linkGrp>
+        <link targets="#0215c13 #0215c14"/>
+        <ptr target="#A007166" type="person"/>
+        <ptr target="#A008167" type="person"/>
+        <ptr target="unknown" type="place"/>
+        </linkGrp>
+ </div>

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="jsz0227c13chenJunZhang">
+    <p><anchor n="X.88.1646.0227c13"/><lb ed="X" n="0227c13"/><persName key="A017747">陳君璋</persName><placeName key="PL000000014346">黃巖</placeName>人。生於元時。<date from-iso="1351-01-01" key="j22145032214867" to-iso="1351-12-31">年四十</date><!-- 1351年，請參見(X87n1616_p0129b04)。 -->歸心佛法。與妻<persName key="A017748">葉<lb ed="X" n="0227c14"/>氏</persName>誦法華經回向<placeName key="PL000000055477">極樂</placeName>。歷二十年。<date from-iso="1370-02-05" key="j22214782221831" to-iso="1371-01-24">疾篤</date><!-- 洪武庚戌年，請參見(X87n1616_p0129b04)。 -->。命其子<persName key="A017749">景星</persName><lb ed="X" n="0227c15"/>扶之坐曰。吾歸去。<persName key="A017749">景星</persName>曰歸何處去。曰沒處去。令死<lb ed="X" n="0227c16"/>後用桑門闍維法。合掌稱<persName key="A002843">阿彌陀佛</persName>而逝(往生集)。<lb ed="X" n="0227c17"/><persName key="A001188">知歸子</persName>曰。<date from-iso="0960-02-09" key="j20717322188290" to-iso="1279-03-26">宋世</date>宗風大盛。而其時傳天台教者每以<lb ed="X" n="0227c18"/>淨土為歸。故士大夫篤志<placeName key="PL000000055477">西方</placeName>者視唐時稱盛焉。嗚<lb ed="X" n="0227c19"/>呼。百年如電。六道如環。生此界中。不歸<placeName key="PL000000055477">淨土</placeName>。將安所<lb ed="X" n="0227c20"/>終乎。<lb ed="X" n="0227c21"/><persName key="A015017">汪大紳</persName>云。此一卷氷雪文也。日復一過。我懷如何<lb ed="X" n="0227c22"/>矣○念佛繙經。至口鼻間皆出蓮花香。則淨業成<lb ed="X" n="0227c23"/>矣。心心念佛。心心種蓮。心開見性。花開見佛。是為<lb ed="X" n="0227c24"/>極樂。</p> 
+    
+    <linkGrp>
+        <link targets="#0227c13 #0227c14"/>
+        <ptr target="#A017747" type="person"/>
+        <ptr target="#A017748" type="person"/>
+        <ptr target="#PL000000014346" type="place"/>
+        <ptr target="#j22145032214867" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0227c14 #0227c16"/>
+        <ptr target="#A017747" type="person"/>
+        <ptr target="#A017749" type="person"/>
+        <ptr target="#PL000000014346" type="place"/>
+        <ptr target="#j22214782221831" type="time"/>
+    </linkGrp>
+ </div>

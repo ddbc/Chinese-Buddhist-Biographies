@@ -1,0 +1,4373 @@
+default namespace = "http://www.tei-c.org/ns/1.0"
+namespace a = "http://relaxng.org/ns/compatibility/annotations/1.0"
+namespace rng = "http://relaxng.org/ns/structure/1.0"
+namespace sch = "http://purl.oclc.org/dsdl/schematron"
+namespace teix = "http://www.tei-c.org/ns/Examples"
+namespace xlink = "http://www.w3.org/1999/xlink"
+
+# Schema generated from ODD source 2010-10-05T08:45:44-04:00. 
+# Edition: 1.7.0. Last updated on July 6th 2010.
+#
+
+#
+macro.paraContent =
+  (text | model.gLike | model.phrase | model.inter | model.global)*
+macro.limitedContent = (text | model.limitedPhrase | model.inter)*
+macro.phraseSeq = (text | model.gLike | model.phrase | model.global)*
+macro.phraseSeq.limited = (text | model.limitedPhrase | model.global)*
+macro.specialPara =
+  (text
+   | model.gLike
+   | model.phrase
+   | model.inter
+   | model.divPart
+   | model.global)*
+macro.xtext = (text | model.gLike)*
+att.ascribed.attributes = att.ascribed.attribute.who, empty
+att.ascribed.attribute.who =
+  
+  ## 指出該元素內容所歸屬的個人或團體。
+  attribute who {
+    list { xsd:anyURI+ }
+  }?
+att.canonical.attributes =
+  att.canonical.attribute.key, att.canonical.attribute.ref, empty
+att.canonical.attribute.key =
+  
+  ## provides an externally-defined means of identifying the entity (or entities) being
+  ##         named, using a coded value of some kind.
+  attribute key { xsd:string }?
+att.canonical.attribute.ref =
+  
+  ##  (reference) provides an explicit means of locating a full definition for the entity being named by
+  ##         means of one or more URIs.
+  attribute ref {
+    list { xsd:anyURI+ }
+  }?
+att.ranging.attributes =
+  att.ranging.attribute.atLeast,
+  att.ranging.attribute.atMost,
+  att.ranging.attribute.min,
+  att.ranging.attribute.max,
+  empty
+att.ranging.attribute.atLeast =
+  
+  ## gives a minimum estimated value for the approximate measurement.
+  attribute atLeast {
+    xsd:double
+    | xsd:token { pattern = "(\-?[\d]+/\-?[\d]+)" }
+    | xsd:decimal
+  }?
+att.ranging.attribute.atMost =
+  
+  ## gives a maximum estimated value for the approximate measurement.
+  attribute atMost {
+    xsd:double
+    | xsd:token { pattern = "(\-?[\d]+/\-?[\d]+)" }
+    | xsd:decimal
+  }?
+att.ranging.attribute.min =
+  
+  ## where the measurement summarizes more than one observation
+  ##       or a range, supplies the minimum value
+  ##         observed.
+  attribute min {
+    xsd:double
+    | xsd:token { pattern = "(\-?[\d]+/\-?[\d]+)" }
+    | xsd:decimal
+  }?
+att.ranging.attribute.max =
+  
+  ## where the measurement summarizes more than one observation
+  ##       or a range, supplies the maximum value
+  ##       observed.
+  attribute max {
+    xsd:double
+    | xsd:token { pattern = "(\-?[\d]+/\-?[\d]+)" }
+    | xsd:decimal
+  }?
+att.dimensions.attributes =
+  att.ranging.attributes,
+  att.dimensions.attribute.unit,
+  att.dimensions.attribute.quantity,
+  att.dimensions.attribute.extent,
+  att.dimensions.attribute.precision,
+  att.dimensions.attribute.scope,
+  empty
+att.dimensions.attribute.unit =
+  
+  ## 度量單位的名稱。
+  ## Suggested values include: 1] cm (centimetrescentimètrescentímetroscentimetri); 2] mm (millimetresmillimètresmilímetrosmillimetri); 3] in (inchespoucespulgadaspollici); 4] lines; 5] chars (characters문자caracterescaratteri)
+  attribute unit {
+    
+    ##  (centimetres) 
+    "cm"
+    | 
+      ##  (millimetres) 
+      "mm"
+    | 
+      ##  (inches) 
+      "in"
+    | 
+      ## lines of text
+      "lines"
+    | 
+      ##  (characters) characters of text
+      "chars"
+    | xsd:Name
+  }?
+att.dimensions.attribute.quantity =
+  
+  ## specifies the length in the units specified
+  attribute quantity {
+    xsd:double
+    | xsd:token { pattern = "(\-?[\d]+/\-?[\d]+)" }
+    | xsd:decimal
+  }?
+att.dimensions.attribute.extent =
+  
+  ## indicates the size of the object concerned using a project-specific vocabulary combining
+  ##         quantity and units in a single string of words. 
+  attribute extent {
+    list {
+      xsd:token { pattern = "(\p{L}|\p{N}|\p{P}|\p{S})+" }+
+    }
+  }?
+att.dimensions.attribute.precision =
+  
+  ## characterizes the precision of the values specified by the other attributes.
+  attribute precision { "high" | "medium" | "low" | "unknown" }?
+att.dimensions.attribute.scope =
+  
+  ## 測量多個物件時，標明此度量的可應用範圍。
+  ## Sample values include: 1] all; 2] most; 3] range
+  attribute scope { xsd:Name }?
+att.datable.w3c.attributes =
+  att.datable.w3c.attribute.period,
+  att.datable.w3c.attribute.when,
+  att.datable.w3c.attribute.notBefore,
+  att.datable.w3c.attribute.notAfter,
+  att.datable.w3c.attribute.from,
+  att.datable.w3c.attribute.to,
+  empty
+att.datable.w3c.attribute.period =
+  
+  ## supplies a pointer to some location defining a named
+  ##       period of time within which the datable item is understood to
+  ##       have occurred.
+  attribute period { xsd:anyURI }?
+att.datable.w3c.attribute.when =
+  
+  ## supplies the value of the date or time in a standard form,
+  ##       e.g. yyyy-mm-dd.
+  attribute when {
+    xsd:date
+    | xsd:gYear
+    | xsd:gMonth
+    | xsd:gDay
+    | xsd:gYearMonth
+    | xsd:gMonthDay
+    | xsd:time
+    | xsd:dateTime
+  }?
+att.datable.w3c.attribute.notBefore =
+  
+  ## 以標準格式說明該事件可能發生的最早日期，例如年-月-日。
+  attribute notBefore {
+    xsd:date
+    | xsd:gYear
+    | xsd:gMonth
+    | xsd:gDay
+    | xsd:gYearMonth
+    | xsd:gMonthDay
+    | xsd:time
+    | xsd:dateTime
+  }?
+att.datable.w3c.attribute.notAfter =
+  
+  ## 以標準形式標明該事件可能的最晚日期，例如年-月-日。
+  attribute notAfter {
+    xsd:date
+    | xsd:gYear
+    | xsd:gMonth
+    | xsd:gDay
+    | xsd:gYearMonth
+    | xsd:gMonthDay
+    | xsd:time
+    | xsd:dateTime
+  }?
+att.datable.w3c.attribute.from =
+  
+  ## 以標準格式表示該段時間的起始點。
+  attribute from {
+    xsd:date
+    | xsd:gYear
+    | xsd:gMonth
+    | xsd:gDay
+    | xsd:gYearMonth
+    | xsd:gMonthDay
+    | xsd:time
+    | xsd:dateTime
+  }?
+att.datable.w3c.attribute.to =
+  
+  ## 以標準格式表示該段時間的結束點。
+  attribute to {
+    xsd:date
+    | xsd:gYear
+    | xsd:gMonth
+    | xsd:gDay
+    | xsd:gYearMonth
+    | xsd:gMonthDay
+    | xsd:time
+    | xsd:dateTime
+  }?
+att.datable.attributes =
+  att.datable.w3c.attributes, att.datable.iso.attributes, empty
+att.declarable.attributes = att.declarable.attribute.default, empty
+att.declarable.attribute.default =
+  
+  ## 當父元素被選擇時，指出此元素是否會被選擇。
+  [ a:defaultValue = "false" ]
+  attribute default {
+    
+    ## 若父元素被選擇，則此元素會被選擇。
+    "true"
+    | 
+      ## 此元素僅能被明確選擇，若此元素為其類別中之唯一，則父元素被選擇時，此元素會被選擇。
+      "false"
+  }?
+att.declaring.attributes = att.declaring.attribute.decls, empty
+att.declaring.attribute.decls =
+  
+  ## 指明標頭內一個或多個可宣告元素，可應用於帶有此屬性與內容的元素上。
+  attribute decls {
+    list { xsd:anyURI+ }
+  }?
+att.divLike.attributes =
+  att.divLike.attribute.org,
+  att.divLike.attribute.sample,
+  att.divLike.attribute.part,
+  empty
+att.divLike.attribute.org =
+  
+  ##  (organization) 說明該區段內容的組合方式。
+  [ a:defaultValue = "uniform" ]
+  attribute org {
+    
+    ## 複合內容：未說明此區段目前內容的處理順序或相互關係。
+    "composite"
+    | 
+      ## 一致內容：此區段目前的內容形成一個邏輯單位，且會依序處理。
+      "uniform"
+  }?
+att.divLike.attribute.sample =
+  
+  ## 指出此區段是否為來源文件的樣本，若為樣本，則說明出自哪一部分。
+  [ a:defaultValue = "complete" ]
+  attribute sample {
+    
+    ## 區段的末端無資料
+    "initial"
+    | 
+      ## 區段的起始與末端無資料
+      "medial"
+    | 
+      ## 區段的起始部分無資料
+      "final"
+    | 
+      ## 來源文件中的樣本資料位置不明
+      "unknown"
+    | 
+      ## 區段非樣本
+      "complete"
+  }?
+att.divLike.attribute.part =
+  
+  ## 說明該區段是否被其他結構性元素切割，例如一段話語被兩個或多個詩節分開。
+  [ a:defaultValue = "N" ]
+  attribute part {
+    
+    ##  (yes) 該區段某些方面不完整
+    "Y"
+    | 
+      ##  (no) 該區段完整，或者未說明其完整性。
+      "N"
+    | 
+      ##  (initial) 不完整區段的起始部分
+      "I"
+    | 
+      ##  (medial) 不完整區段的中段部分
+      "M"
+    | 
+      ##  (final) 不完整區段的末端部分 
+      "F"
+  }?
+att.docStatus.attributes = att.docStatus.attribute.status, empty
+att.docStatus.attribute.status =
+  
+  ## describes the status of a document either currently or, when
+  ## associated with a dated element, at the time indicated.
+  ## Sample values include: 1] candidate; 2] recommendation; 3] submitted; 4] approved; 5] deprecated; 6] proposed; 7] cleared; 8] embargoed; 9] draft; 10] frozen; 11] expired; 12] unfinished; 13] draft; 14] galley; 15] published; 16] withdrawn; 17] expired 
+  [ a:defaultValue = "draft" ] attribute status { xsd:Name }?
+att.responsibility.attributes =
+  att.responsibility.attribute.cert,
+  att.responsibility.attribute.resp,
+  empty
+att.responsibility.attribute.cert =
+  
+  ##  (certainty) 表示該更動或詮釋的相關正確度。
+  attribute cert { "high" | "medium" | "low" | "unknown" }?
+att.responsibility.attribute.resp =
+  
+  ##  (responsible party) 指出負責該更動或詮釋的代理者，例如編輯或轉錄者。
+  attribute resp {
+    list { xsd:anyURI+ }
+  }?
+att.editLike.attributes =
+  att.dimensions.attributes,
+  att.responsibility.attributes,
+  att.editLike.attribute.evidence,
+  att.editLike.attribute.source,
+  empty
+att.editLike.attribute.evidence =
+  
+  ## 指出支持該更動或詮釋可信度或正確性的證明
+  ## Suggested values include: 1] internal; 2] external; 3] conjecture
+  attribute evidence {
+    
+    ## 有內部證明得以支持
+    "internal"
+    | 
+      ## 有外部證明得以支持
+      "external"
+    | 
+      ## 編輯、編目者或學者根據自身的專業來執行該更動或詮釋。
+      "conjecture"
+    | xsd:Name
+  }?
+att.editLike.attribute.source =
+  
+  ## contains a list of one or more pointers indicating the sources which support the given
+  ##         reading.
+  attribute source {
+    list { xsd:anyURI+ }
+  }?
+att.global.attributes =
+  att.global.linking.attributes,
+  att.global.analytic.attributes,
+  att.global.attribute.xmlid,
+  att.global.attribute.n,
+  att.global.attribute.xmllang,
+  att.global.attribute.rend,
+  att.global.attribute.rendition,
+  att.global.attribute.xmlbase,
+  att.global.attribute.xmlspace,
+  empty
+att.global.attribute.xmlid =
+  
+  ##  (identifier) 提供一個獨特識別符碼，識別帶有該屬性的元素。 
+  attribute xml:id { xsd:ID }?
+att.global.attribute.n =
+  
+  ##  (number) 將元素標上一個數字 (或其他標號)，該標號在文件中未必是獨特的。 
+  attribute n {
+    list {
+      xsd:token { pattern = "(\p{L}|\p{N}|\p{P}|\p{S})+" }+
+    }
+  }?
+att.global.attribute.xmllang =
+  
+  ##  (language) 使用RFC3066的代碼，指出該元素內容的使用語言 
+  attribute xml:lang { xsd:language }?
+att.global.attribute.rend =
+  
+  ##  (rendition) 指出該元素如何呈現於來源文件中 
+  attribute rend {
+    list {
+      xsd:token { pattern = "(\p{L}|\p{N}|\p{P}|\p{S})+" }+
+    }
+  }?
+att.global.attribute.rendition =
+  
+  ## points to a description of the rendering or presentation used for this element in the
+  ##         source text.
+  attribute rendition {
+    list { xsd:anyURI+ }
+  }?
+att.global.attribute.xmlbase =
+  
+  ## 提供一個基礎統一資源識別符 (URI)
+  ##         參照，可將相對統一資源識別符參照轉變為絕對統一資源識別符參照。 
+  attribute xml:base { xsd:anyURI }?
+att.global.attribute.xmlspace =
+  
+  ## signals an intention about how white space should be 
+  ##       managed by  applications. 
+  attribute xml:space {
+    
+    ## the processor should treat white space according to the
+    ##	default XML white space handling rules
+    "default"
+    | 
+      ## the processor should preserve unchanged any and all
+      ##	white space in the source
+      "preserve"
+  }?
+att.handFeatures.attributes =
+  att.handFeatures.attribute.scribe,
+  att.handFeatures.attribute.script,
+  att.handFeatures.attribute.medium,
+  att.handFeatures.attribute.scope,
+  empty
+att.handFeatures.attribute.scribe =
+  
+  ## gives a standard name or other identifier for the scribe
+  ## believed to be responsible for this hand.
+  attribute scribe { xsd:Name }?
+att.handFeatures.attribute.script =
+  
+  ## characterizes the particular script or writing style used by
+  ## this hand, for example secretary, copperplate, Chancery, Italian, etc.
+  attribute script {
+    list { xsd:Name+ }
+  }?
+att.handFeatures.attribute.medium =
+  
+  ## describes the tint or type of ink, e.g. brown, or other
+  ## writing medium, e.g. pencil
+  attribute medium { xsd:Name }?
+att.handFeatures.attribute.scope =
+  
+  ## specifies how widely this  hand is used in the manuscript.
+  attribute scope {
+    
+    ## only this hand is used throughout the manuscript
+    "sole"
+    | 
+      ## this hand is used through most of the manuscript
+      "major"
+    | 
+      ## this hand is used occasionally in the manuscript
+      "minor"
+  }?
+att.interpLike.attributes =
+  att.responsibility.attributes,
+  att.interpLike.attribute.type,
+  att.interpLike.attribute.inst,
+  empty
+att.interpLike.attribute.type =
+  
+  ## 指出段落中所註解的現象類別。
+  ## Sample values include: 1] image; 2] character; 3] theme; 4] allusion
+  attribute type { xsd:Name }?
+att.interpLike.attribute.inst =
+  
+  ##  (instances) 連結到目前元素所代表的分析或解釋。
+  attribute inst {
+    list { xsd:anyURI+ }
+  }?
+att.naming.attributes =
+  att.canonical.attributes,
+  att.naming.attribute.role,
+  att.naming.attribute.nymRef,
+  empty
+att.naming.attribute.role =
+  
+  ## may be used to specify further information about the entity referenced by
+  ## this name, for example the occupation of a person, or the status of a place. 
+  attribute role { xsd:Name }?
+att.naming.attribute.nymRef =
+  
+  ##  (reference to the canonical name) provides a means of locating the canonical form
+  ##       (nym) of the names associated with the object
+  ##        named by
+  ##       the element bearing it.
+  attribute nymRef {
+    list { xsd:anyURI+ }
+  }?
+att.placement.attributes = att.placement.attribute.place, empty
+att.placement.attribute.place =
+  
+  ## 
+  ## Suggested values include: 1] below; 2] bottom; 3] margin; 4] top; 5] opposite; 6] overleaf; 7] above; 8] end; 9] inline; 10] inspace
+  attribute place {
+    list {
+      (
+       ## 行底
+       "below"
+       | 
+         ## 頁尾空白處
+         "bottom"
+       | 
+         ## in the margin (left, right, or both)
+         "margin"
+       | 
+         ## 頁首空白處
+         "top"
+       | 
+         ## 對頁頁面
+         "opposite"
+       | 
+         ## 書頁反頁頁面
+         "overleaf"
+       | 
+         ## 行上方
+         "above"
+       | 
+         ## 註解出現於章節或書冊的結尾
+         "end"
+       | 
+         ## within the body of the text.
+         "inline"
+       | 
+         ##  in a predefined space, for example left by an earlier scribe.
+         "inspace"
+       | xsd:Name)+
+    }
+  }?
+att.typed.attributes =
+  att.typed.attribute.type, att.typed.attribute.subtype, empty
+att.typed.attribute.type =
+  
+  ## 用合適的分類標準或類型來描述該元素。
+  attribute type { xsd:Name }?
+att.typed.attribute.subtype =
+  
+  ## 若有需要，提供該元素的次要分類
+  attribute subtype { xsd:Name }?
+att.pointing.attributes =
+  att.pointing.attribute.target, att.pointing.attribute.evaluate, empty
+att.pointing.attribute.target =
+  
+  ## 用一個或多個統一資源識別符參照 (URI References) 來說明參照所指位置。
+  attribute target {
+    list { xsd:anyURI+ }
+  }?
+att.pointing.attribute.evaluate =
+  
+  ## 若指標的目標本身為指標，則在此說明其用意。
+  attribute evaluate {
+    
+    ## 若指向的元素本身為指標，則該指標的目標會被移除，依此類推，直到找到一個非指標的元素為止。
+    "all"
+    | 
+      ## 若指向的元素本身為指標，則該指標的目標(無論是否為指標)會作為這項指標的目標。
+      "one"
+    | 
+      ## 尋找指標的目標元素時，未對目標進行不必要的延伸評估。
+      "none"
+  }?
+att.pointing.group.attributes =
+  att.pointing.attributes,
+  att.typed.attributes,
+  att.pointing.group.attribute.domains,
+  att.pointing.group.attribute.targFunc,
+  empty
+att.pointing.group.attribute.domains =
+  
+  ## 標明元素的識別符碼 (但非必備) ，此元素內容所指明的元素皆包含於這些元素當中。
+  attribute domains {
+    list { xsd:anyURI, xsd:anyURI+ }
+  }?
+att.pointing.group.attribute.targFunc =
+  
+  ##  (target function) 描述每個元素標籤link、join、或alt當中的屬性targets的屬性值功能。
+  attribute targFunc {
+    list {
+      xsd:token { pattern = "(\p{L}|\p{N}|\p{P}|\p{S})+" },
+      xsd:token { pattern = "(\p{L}|\p{N}|\p{P}|\p{S})+" }+
+    }
+  }?
+att.scoping.attributes =
+  att.scoping.attribute.target, att.scoping.attribute.match, empty
+att.scoping.attribute.target =
+  
+  ## points at one or several  elements or  sets of elements by
+  ##       means of one or more
+  ##       data pointers, using the URI syntax.
+  attribute target {
+    list { xsd:anyURI+ }
+  }?
+att.scoping.attribute.match =
+  
+  ## supplies an arbitrary XPath expression identifying a set
+  ##       of nodes, selected within the context identified by the
+  ##       target attribute if this is supplied, or within the
+  ##       context of the element bearing this attribute if it is not.
+  ##
+  attribute match { text }?
+att.segLike.attributes =
+  att.segLike.attribute.function, att.segLike.attribute.part, empty
+att.segLike.attribute.function =
+  
+  ## 描述該分割的功能。
+  attribute function { xsd:Name }?
+att.segLike.attribute.part =
+  
+  ## 說明該分割段落是否被其他結構性元素所切割，例如一個子句被兩個或多個句子分開。
+  [ a:defaultValue = "N" ]
+  attribute part {
+    
+    ##  (yes) 該分割的某些方面不完整
+    "Y"
+    | 
+      ##  (no) 該分割完整，或者未說明其完整性
+      "N"
+    | 
+      ##  (initial) 不完整分割的起始部分
+      "I"
+    | 
+      ##  (medial) 不完整分割的中段部分
+      "M"
+    | 
+      ##  (final) 不完整分割的末端部分
+      "F"
+  }?
+att.sourced.attributes = att.sourced.attribute.ed, empty
+att.sourced.attribute.ed =
+  
+  ##  (edition) supplies an arbitrary identifier for the source edition in which
+  ##       the associated feature (for example, a  page, column, or line
+  ##       break) occurs at this point in the text.
+  attribute ed {
+    list { xsd:anyURI+ }
+  }?
+att.spanning.attributes = att.spanning.attribute.spanTo, empty
+att.spanning.attribute.spanTo =
+  
+  ## 指出文字段的結尾，該文字段以帶有此屬性的元素開頭。
+  attribute spanTo { xsd:anyURI }?
+att.transcriptional.attributes =
+  att.editLike.attributes,
+  att.transcriptional.attribute.hand,
+  att.transcriptional.attribute.status,
+  att.transcriptional.attribute.seq,
+  empty
+att.transcriptional.attribute.hand =
+  
+  ## signifies the hand of the agent which made the intervention.
+  attribute hand { xsd:anyURI }?
+att.transcriptional.attribute.status =
+  
+  ## indicates the effect of the intervention, for example in
+  ##       the case of a deletion, strikeouts
+  ##       which include too much or too little text, or in the case of an
+  ##       addition, an insertion which duplicates some of the text
+  ##       already present.
+  ## Sample values include: 1] duplicate; 2] duplicate-partial; 3] excessStart; 4] excessEnd; 5] shortStart; 6] shortEnd; 7] partial; 8] unremarkable
+  [ a:defaultValue = "unremarkable" ] attribute status { xsd:Name }?
+att.transcriptional.attribute.seq =
+  
+  ##  (sequence) assigns a sequence number related to the order in which
+  ##       the encoded features carrying this attribute are believed to have occurred.
+  attribute seq { xsd:nonNegativeInteger }?
+att.translatable.attributes = att.translatable.attribute.version, empty
+att.translatable.attribute.version =
+  
+  ## 說明該翻譯版本來源的版本名稱或版本數
+  attribute version {
+    xsd:token { pattern = "(\p{L}|\p{N}|\p{P}|\p{S})+" }
+  }?
+model.nameLike.agent = name | orgName | persName
+model.segLike = s | w | c | pc | seg
+model.hiLike = notAllowed
+model.emphLike = foreign | gloss | term | title
+model.highlighted = model.hiLike | model.emphLike
+model.dateLike = date | time
+model.measureLike = geo
+model.graphicLike = notAllowed
+model.offsetLike = offset | geogFeat
+model.pPart.editorial = choice | abbr | expan
+model.pPart.transcriptional = sic | corr | reg | orig | add | del | app
+model.pPart.edit = model.pPart.editorial | model.pPart.transcriptional
+model.ptrLike = ptr | ref
+model.lPart = notAllowed
+model.global.meta =
+  index
+  | span
+  | spanGrp
+  | interp
+  | interpGrp
+  | precision
+  | certainty
+  | respons
+  | link
+  | linkGrp
+  | timeline
+  | join
+  | joinGrp
+model.milestoneLike = milestone | pb | lb | anchor
+model.gLike = g
+model.biblLike = bibl | biblStruct | biblFull
+model.headLike = head
+model.labelLike = desc | label
+model.listLike =
+  \list
+  | listBibl
+  | listOrg
+  | listEvent
+  | listPerson
+  | listPlace
+  | listNym
+  | listWit
+model.noteLike = note | witDetail
+model.lLike = l
+model.pLike = p | ab
+model.entryPart = notAllowed
+model.global.edit = gap
+model.divPart = model.lLike | model.pLike | lg
+model.persTraitLike =
+  age | faith | langKnowledge | nationality | sex | socecStatus | trait
+model.persStateLike =
+  persName
+  | affiliation
+  | education
+  | floruit
+  | occupation
+  | residence
+  | state
+model.persEventLike = birth | death | event
+model.personLike = org | person | personGrp
+model.personPart =
+  model.persTraitLike | model.persStateLike | model.persEventLike | bibl
+model.placeTraitLike = climate | location | population | terrain | trait
+model.placeNamePart =
+  placeName | bloc | country | region | district | settlement | geogName
+model.placeStateLike = model.placeNamePart | state
+model.placeEventLike = event
+model.publicationStmtPart =
+  date
+  | publisher
+  | pubPlace
+  | distributor
+  | authority
+  | idno
+  | availability
+model.glossLike = desc | gloss | precision | certainty | respons
+model.quoteLike = quote | cit
+model.qLike = model.quoteLike | said | q
+model.respLike =
+  author | editor | respStmt | sponsor | funder | principal
+model.divTopPart = model.headLike
+model.divTop = model.divTopPart
+model.pLike.front = head
+model.divBottomPart = postscript
+model.divBottom = model.divBottomPart
+model.choicePart = sic | corr | reg | orig | abbr | expan | seg
+model.imprintPart = publisher | pubPlace | distributor
+model.catDescPart = textDesc
+model.settingPart = locale | activity
+model.textDescPart_sequence =
+  channel,
+  constitution,
+  derivation,
+  domain,
+  factuality,
+  interaction,
+  preparedness
+model.addressLike = email | affiliation
+model.nameLike =
+  model.nameLike.agent
+  | model.offsetLike
+  | model.placeStateLike
+  | rs
+  | idno
+  | model.persNamePart
+model.global =
+  model.global.meta
+  | model.milestoneLike
+  | model.noteLike
+  | model.global.edit
+model.biblPart =
+  model.respLike | model.imprintPart | relatedItem | edition | extent
+model.frontPart = notAllowed
+model.pPart.data =
+  model.dateLike
+  | model.measureLike
+  | model.addressLike
+  | model.nameLike
+model.inter =
+  model.biblLike | model.labelLike | model.listLike | model.qLike
+model.common = model.divPart | model.inter
+model.phrase =
+  model.segLike
+  | model.highlighted
+  | model.graphicLike
+  | model.pPart.edit
+  | model.ptrLike
+  | model.lPart
+  | model.pPart.data
+model.limitedPhrase =
+  model.emphLike
+  | model.pPart.editorial
+  | model.ptrLike
+  | model.pPart.data
+model.divLike = \div
+model.divGenLike = notAllowed
+model.div1Like = notAllowed
+model.applicationLike = application
+model.teiHeaderPart = encodingDesc | profileDesc
+model.sourceDescPart = notAllowed
+model.encodingDescPart =
+  projectDesc
+  | samplingDecl
+  | editorialDecl
+  | tagsDecl
+  | refsDecl
+  | classDecl
+  | appInfo
+  | geoDecl
+  | charDecl
+  | variantEncoding
+model.editorialDeclPart =
+  correction
+  | normalization
+  | quotation
+  | hyphenation
+  | segmentation
+  | stdVals
+  | interpretation
+model.profileDescPart =
+  creation | langUsage | textClass | textDesc | particDesc | settingDesc
+model.resourceLike = notAllowed
+att.personal.attributes =
+  att.naming.attributes,
+  att.personal.attribute.full,
+  att.personal.attribute.sort,
+  empty
+att.personal.attribute.full =
+  
+  ## 指出所提供的名稱元件是否完整，為一縮寫或僅為一字首字母。
+  [ a:defaultValue = "yes" ]
+  attribute full {
+    
+    ## 該名稱元件的拼字完整。
+    "yes"
+    | 
+      ##  (abbreviated) 該名稱元件為縮寫形式。
+      "abb"
+    | 
+      ##  (initial letter) 該名稱元件僅以一字首字母表示。
+      "init"
+  }?
+att.personal.attribute.sort =
+  
+  ## 指明個人名稱中該名稱元件與其他元件之間的排列順序。
+  attribute sort { xsd:nonNegativeInteger }?
+model.placeLike = place
+p =
+  
+  ##  (段落) 標記散文的段落。
+  element p {
+    macro.paraContent,
+    att.global.attributes,
+    att.declaring.attributes,
+    empty
+  }
+foreign =
+  
+  ##  (外文) 標明所屬語言不同於週遭文字的字詞。
+  element foreign { macro.phraseSeq, att.global.attributes, empty }
+said =
+  
+  ##  (speech or thought) indicates passages thought or spoken aloud, whether explicitly indicated in the source or
+  ##     not, whether directly or indirectly reported, whether by real people or fictional characters.
+  element said {
+    macro.specialPara,
+    att.global.attributes,
+    att.ascribed.attributes,
+    
+    ## may be used to indicate whether the quoted matter is regarded as having been vocalized
+    ##         or signed.
+    [ a:defaultValue = "unknown" ]
+    attribute aloud { xsd:boolean | "unknown" | "inapplicable" }?,
+    
+    ## may be used to indicate whether the quoted matter is regarded as direct or indirect
+    ##         speech.
+    [ a:defaultValue = "true" ]
+    attribute direct { xsd:boolean | "unknown" | "inapplicable" }?,
+    empty
+  }
+quote =
+  
+  ##  (引文) 包含敘述者或作者引用自文本以外來源的字 (句) 詞或段落。
+  element quote {
+    macro.specialPara,
+    att.global.attributes,
+    att.typed.attributes,
+    empty
+  }
+q =
+  
+  ##  (引用的言詞、思想、或文字) 包含標記為 (看似)
+  ##     引用自他處的內容；在敘述文中，此元素用來標記直接或間接敘述；在字典中，用來標記實例或編者設計的範例；在寫本描述或其他上層資訊中，用來標記由來源文本中所摘錄的引文。
+  element q {
+    macro.specialPara,
+    att.global.attributes,
+    att.ascribed.attributes,
+    
+    ## 可用來指出引文內容為言詞或思想，或者做更詳細的引文描述。
+    ## Suggested values include: 1] spoken; 2] thought; 3] written; 4] soCalled; 5] foreign (foreign wordspalabras extranjerasmots étrangersparole straniere); 6] distinct (linguistically distinctlingüisticamente distintolinguistiquement distinctlinguisticamente distinto); 7] term (technical termtérmino técnicoterme techniquetermine tecnico); 8] emph (rhetorically emphasizedénfasis retóricomis en valeur par un procédé rhétorique.retoricamente marcato); 9] mentioned
+    attribute type {
+      
+      ## 表示直接敘述，通常會標上引號。
+      "spoken"
+      | 
+        ## 表示思考內容，例如內心獨白。
+        "thought"
+      | 
+        ## 引用自一份書面來源文件。
+        "written"
+      | 
+        ## authorial distance
+        "soCalled"
+      | 
+        ##  (foreign words) 
+        "foreign"
+      | 
+        ##  (linguistically distinct) 
+        "distinct"
+      | 
+        ##  (technical term) 
+        "term"
+      | 
+        ##  (rhetorically emphasized) 
+        "emph"
+      | 
+        ## refering to itself, not its normal referant
+        "mentioned"
+      | xsd:Name
+    }?,
+    empty
+  }
+cit =
+  
+  ## 從其他文件中引用的內容，並包含引用來源的書目參照資料。
+  element cit {
+    (model.qLike
+     | model.biblLike
+     | model.ptrLike
+     | model.global
+     | model.entryPart)+,
+    att.global.attributes,
+    att.typed.attributes,
+    empty
+  }
+desc =
+  
+  ##  (描述) 包含一段簡短描述，說明一元素、屬性、或屬性值的應用與目的。
+  element desc {
+    macro.limitedContent,
+    att.global.attributes,
+    att.translatable.attributes,
+    empty
+  }
+gloss =
+  
+  ## 標明用來為另一個字詞下定義或提供註解的字詞。
+  element gloss {
+    macro.phraseSeq,
+    att.global.attributes,
+    att.declaring.attributes,
+    att.translatable.attributes,
+    att.typed.attributes,
+    att.pointing.attributes,
+    
+    ##  (canonical reference) 用元素refsDecl在TEI標頭內所定義的標準參照來指明相關聯的元素term
+    attribute cRef { xsd:anyURI }?,
+    empty
+  }
+term =
+  
+  ## 包含作為專有名詞的一個單字、詞彙、或是表示符號。
+  element term {
+    macro.phraseSeq,
+    att.global.attributes,
+    att.declaring.attributes,
+    att.pointing.attributes,
+    att.typed.attributes,
+    att.canonical.attributes,
+    
+    ## identifies the associated gloss element using a canonical reference from a
+    ##           scheme defined in a refsDecl element in the TEI header
+    attribute cRef { xsd:anyURI }?,
+    
+    ## 提供索引中該專有名詞的排序關鍵。
+    attribute sortKey {
+      xsd:token { pattern = "(\p{L}|\p{N}|\p{P}|\p{S})+" }
+    }?,
+    empty
+  }
+sic =
+  
+  ##  (原文照錄) 包含看似錯誤但仍照實轉錄的文字 。
+  element sic {
+    macro.paraContent,
+    att.global.attributes,
+    att.responsibility.attributes,
+    empty
+  }
+corr =
+  
+  ##  (更正) 包含文本中看似錯誤並加以更正過後的文字。
+  element corr {
+    macro.paraContent,
+    att.global.attributes,
+    att.editLike.attributes,
+    att.typed.attributes,
+    empty
+  }
+choice =
+  
+  ## 匯集文件中對於同一部分文字所有可供替換的不同標記。
+  element choice {
+    (model.choicePart | choice)*, att.global.attributes, empty
+  }
+reg =
+  
+  ##  (一般化) 標誌一般化或規格化處理過的文字。
+  element reg {
+    macro.paraContent,
+    att.global.attributes,
+    att.editLike.attributes,
+    att.typed.attributes,
+    empty
+  }
+orig =
+  
+  ##  (原文格式) 標誌原文中呈現的文字，並且未經過任何修改或規格化處理。
+  element orig {
+    macro.paraContent,
+    att.global.attributes,
+    att.responsibility.attributes,
+    empty
+  }
+gap =
+  
+  ##  (gap) 指出轉錄時被省略部分的位置，省略也許是出於
+  ##     TEI標頭裡描述的編輯上的理由、也許是因為抽樣轉錄而省略、或是因為資料不明難以辨認或聽懂。
+  element gap {
+    model.glossLike*,
+    att.global.attributes,
+    att.editLike.attributes,
+    
+    ## 說明省略的原因。屬性值的例子有sampling、、inaudible、irrelevant、cancelled、cancelled
+    ##           and illegible。
+    attribute reason {
+      list {
+        xsd:token { pattern = "(\p{L}|\p{N}|\p{P}|\p{S})+" }+
+      }
+    }?,
+    
+    ## 若省略的內容是被身分明確的抄寫員由轉錄當中刻意刪除，則在此表明抄寫員的身分。
+    attribute hand { xsd:anyURI }?,
+    
+    ## 若省略是由於內容遭受損毀，且可識別損毀原因，則針對損毀原因加以分類。
+    ## Sample values include: 1] rubbing; 2] mildew; 3] smoke
+    attribute agent { xsd:Name }?,
+    empty
+  }
+add =
+  
+  ##  (插入) 包含由作者、抄寫者、註解者、或更正者在文本中插入的字母、單字或詞彙。
+  element add {
+    macro.paraContent,
+    att.global.attributes,
+    att.transcriptional.attributes,
+    att.placement.attributes,
+    att.typed.attributes,
+    empty
+  }
+del =
+  
+  ##  (刪除) 標記在文本中，由作者、抄寫者、註解者、或更正者刪除、標上刪除記號、或者標明為多餘或偽造的字母或單字。
+  element del {
+    macro.paraContent,
+    att.global.attributes,
+    att.transcriptional.attributes,
+    att.typed.attributes,
+    empty
+  }
+name =
+  
+  ##  (名稱，特定名稱) 包含一個特定名稱 或名詞詞組。
+  element name {
+    macro.phraseSeq,
+    att.global.attributes,
+    att.naming.attributes,
+    att.typed.attributes,
+    empty
+  }
+rs =
+  
+  ##  (參照字串) 包含一般名稱或參照字串。
+  element rs {
+    macro.phraseSeq,
+    att.global.attributes,
+    att.naming.attributes,
+    
+    ## 更詳細指出參照字串所表示的對象。屬性值可包含人物、地點、船、元素等。
+    attribute type { xsd:Name }?,
+    empty
+  }
+email =
+  
+  ## 包含一個電子郵件位址，標明電子郵件訊息可傳送的位置。
+  element email { macro.phraseSeq, att.global.attributes, empty }
+date =
+  
+  ## 包含任何格式的日期表示。
+  element date {
+    (text | model.gLike | model.phrase | model.global)*,
+    
+    ## The unique identifier for this date as derived from the DDBC Date
+    ##                                 Authority Database.
+    attribute key { xsd:string }?,
+    
+    ## 指明該日期表示所使用的曆法計算系統。
+    ## Suggested values include: 1] Gregorian; 2] Julian; 3] Islamic; 4] Hebrew; 5] Revolutionary; 6] Iranian; 7] Coptic; 8] Chinese
+    attribute calendar {
+      
+      ## 格里高里曆
+      "Gregorian"
+      | 
+        ## 凱撒曆
+        "Julian"
+      | 
+        ## 伊斯蘭或穆斯林 (哈吉來) 陽曆
+        "Islamic"
+      | 
+        ## 希伯來或猶太陰陽曆
+        "Hebrew"
+      | 
+        ## 法國共和曆 
+        "Revolutionary"
+      | 
+        ## 伊朗或波斯 (Jalaali) 陽曆
+        "Iranian"
+      | 
+        ## 埃及古曆或亞歷山大曆
+        "Coptic"
+      | 
+        ## 中國陰陽曆
+        "Chinese"
+      | xsd:Name
+    }?,
+    att.global.attribute.xmlid,
+    att.global.attribute.n,
+    att.global.attribute.xmllang,
+    att.global.attribute.rend,
+    att.global.attribute.rendition,
+    att.global.attribute.xmlbase,
+    att.global.attribute.xmlspace,
+    att.global.linking.attributes,
+    
+    ##  (analysis) Allows a value restricted by a regEx.
+    attribute ana {
+      xsd:token { pattern = "#time" }
+    }?,
+    att.datable.attributes,
+    att.editLike.attributes,
+    att.typed.attributes,
+    empty
+  }
+time =
+  
+  ## 包含一組字詞，以任何形式定義時間
+  element time {
+    (text | model.gLike | model.phrase | model.global)*,
+    att.global.attributes,
+    att.datable.attributes,
+    att.editLike.attributes,
+    att.typed.attributes,
+    empty
+  }
+abbr =
+  
+  ##  (縮寫) 包含任何形式的縮寫。
+  element abbr {
+    macro.phraseSeq,
+    att.global.attributes,
+    att.responsibility.attributes,
+    
+    ## 標記者可以用合宜的分類方法將縮寫形式分類。
+    ## Sample values include: 1] suspension; 2] contraction; 3] brevigraph; 4] superscription; 5] acronym; 6] title; 7] organization; 8] geographic
+    attribute type { xsd:Name }?,
+    empty
+  }
+expan =
+  
+  ##  (縮寫還原) 包含一個縮寫詞的還原形式。
+  element expan {
+    macro.phraseSeq,
+    att.global.attributes,
+    att.editLike.attributes,
+    empty
+  }
+ptr =
+  
+  ## 標明一個與其他位置相連結的指標。
+  element ptr {
+    empty
+    >> sch:pattern [
+         id = "ptr-constraint-ptrAtts"
+         sch:rule [
+           context = "tei:ptr"
+           sch:report [
+             test = "@target and @cRef"
+             "Only one of the\x{a}" ~
+             "	attributes 'target' and 'cRef' may be supplied."
+           ]
+         ]
+       ],
+    att.global.attributes,
+    att.pointing.attributes,
+    att.typed.attributes,
+    att.declaring.attributes,
+    
+    ##  (canonical reference) 用元素refsDecl在TEI標頭內所定義的標準參照來說明指標所指位置。
+    attribute cRef {
+      list {
+        xsd:token { pattern = "(\p{L}|\p{N}|\p{P}|\p{S})+" }+
+      }
+    }?,
+    empty
+  }
+ref =
+  
+  ## 標明與其他位置互相參照的符號，或許包含附加的文字或註解。
+  element ref {
+    macro.paraContent
+    >> sch:pattern [
+         id = "ref-constraint-refAtts"
+         sch:rule [
+           context = "tei:ref"
+           sch:report [
+             test = "@target and @cRef"
+             "Only one of the\x{a}" ~
+             "	attributes 'target' and 'cRef' may be supplied."
+           ]
+         ]
+       ],
+    att.global.attributes,
+    att.pointing.attributes,
+    att.typed.attributes,
+    att.declaring.attributes,
+    
+    ##  (canonical reference) 用元素refsDecl在TEI標頭內所定義的標準參照來說明參照所指位置。
+    attribute cRef {
+      list {
+        xsd:token { pattern = "(\p{L}|\p{N}|\p{P}|\p{S})+" }+
+      }
+    }?,
+    empty
+  }
+\list =
+  
+  ##  (list) 包含以列表方式呈現的任何連續項目。
+  element list {
+    ((model.divTop | model.global)*,
+     ((item, model.global*)+
+      | (label, model.global*, item, model.global*)+),
+     (model.divBottom, model.global*)*),
+    att.global.attributes,
+    
+    ## 描述列表的形式。
+    ## Suggested values include: 1] ordered; 2] bulleted; 3] simple; 4] gloss
+    [ a:defaultValue = "simple" ]
+    attribute type {
+      
+      ## 列表項目以數字或字母依順序排列。
+      "ordered"
+      | 
+        ## 列表項目以黑點或其他印刷符號排列。
+        "bulleted"
+      | 
+        ## 列表項目的排列沒有用數字或任何其他符號作標記。
+        "simple"
+      | 
+        ## 各列表項目為一些字詞或概念下註解，每個項目之前並帶有標籤元素。
+        "gloss"
+      | xsd:Name
+    }?,
+    empty
+  }
+item =
+  
+  ## 包含列表中的一個項目。
+  element item { macro.specialPara, att.global.attributes, empty }
+label =
+  
+  ## 包含和列表中某項目相關聯的標號；在詞彙表中則用來標記被定義的字詞。
+  element label { macro.phraseSeq, att.global.attributes, empty }
+head =
+  
+  ##  (標題) 包含任何種類的標題，如章節、列表、詞彙表、寫本描述等的標題。
+  element head {
+    macro.paraContent,
+    att.global.attributes,
+    att.typed.attributes,
+    empty
+  }
+note =
+  
+  ## 包含附註或註釋。
+  element note {
+    macro.specialPara,
+    att.global.attributes,
+    att.placement.attributes,
+    att.pointing.attributes,
+    att.responsibility.attributes,
+    att.typed.attributes,
+    
+    ## 說明來源文件是否指出附註的確切參照位置。
+    [ a:defaultValue = "true" ] attribute anchored { xsd:boolean }?,
+    
+    ## 如果附註不是嵌在正文中，則用以標明附註所註段落的終點。
+    attribute targetEnd {
+      list { xsd:anyURI+ }
+    }?,
+    empty
+  }
+index =
+  
+  ##  (索引項目) 標誌一個因某種目的而被索引的位置。
+  element index {
+    (term, index?)*,
+    att.global.attributes,
+    att.spanning.attributes,
+    
+    ## 提供該索引項目所屬索引名稱。
+    attribute indexName { xsd:Name }?,
+    empty
+  }
+milestone =
+  
+  ## 標明文本中由標準參照系統變更所指示的任何區塊分界點，並且該章節未以任何結構性元素標記。
+  element milestone {
+    empty,
+    att.global.attributes,
+    att.typed.attributes,
+    att.sourced.attributes,
+    
+    ## 提供此分界段落所使用的通用單位名稱。
+    ## Suggested values include: 1] page; 2] column; 3] line; 4] book; 5] poem; 6] canto; 7] speaker; 8] stanza; 9] act; 10] scene; 11] section; 12] absent; 13] unnumbered
+    attribute unit {
+      
+      ## 分頁 (和元素pb同義) 。
+      "page"
+      | 
+        ## 分段。
+        "column"
+      | 
+        ## 分行 (和元素lb同義) 。
+        "line"
+      | 
+        ## 所有稱為書、冊、或函等的單位。
+        "book"
+      | 
+        ## 詩集中的單首詩。
+        "poem"
+      | 
+        ## 長詩的詩篇，或詩的大段落。
+        "canto"
+      | 
+        ## changes of speaker or narrator.
+        "speaker"
+      | 
+        ## 一首詩、一本書、或一詩篇中的詩節。
+        "stanza"
+      | 
+        ## 劇本中的幕。
+        "act"
+      | 
+        ## 劇本中的景。
+        "scene"
+      | 
+        ## 任何種類的段落。
+        "section"
+      | 
+        ## 該段文字未在參照版本中出現。
+        "absent"
+      | 
+        ## passages present in the text, but not to be included as part of the reference.
+        "unnumbered"
+      | xsd:Name
+    },
+    empty
+  }
+pb =
+  
+  ##  (分頁) 以標準參照系統來標記頁與頁之間的分界線。
+  element pb {
+    empty,
+    att.global.attributes,
+    att.typed.attributes,
+    att.sourced.attributes,
+    empty
+  }
+lb =
+  
+  ##  (分行) 標記某版本文本裡 (在印刷上) 的新起行。
+  element lb {
+    empty,
+    att.global.attributes,
+    att.typed.attributes,
+    att.sourced.attributes,
+    empty
+  }
+author =
+  
+  ## 在書目參照中，包含一件作品的作者 (群) 姓名，無論是個人或是團體性質；這也是書目項目責任歸屬的主要陳述。
+  element author {
+    macro.phraseSeq, att.global.attributes, att.naming.attributes, empty
+  }
+editor =
+  
+  ## 書目項目的次要責任歸屬，例如扮演編輯、編譯、翻譯等角色的個人、機構或組織 (或其他類似者) 的名稱。
+  element editor {
+    macro.phraseSeq, att.global.attributes, att.naming.attributes, empty
+  }
+respStmt =
+  
+  ##  (責任陳述) 當未使用作者、編輯者等特定元素，或元素內容不足時，在此補充說明文件、版本、記錄、或是叢書的智慧內容所屬負責人的責任陳述。
+  element respStmt {
+    ((resp+, model.nameLike.agent+) | (model.nameLike.agent+, resp+)),
+    att.global.attributes,
+    empty
+  }
+resp =
+  
+  ## 包含一個詞彙，來描述個人智慧責任的類型。
+  element resp {
+    macro.phraseSeq.limited,
+    att.global.attributes,
+    att.canonical.attributes,
+    empty
+  }
+title =
+  
+  ## 包含任何種類作品的完整題名
+  ##                     。
+  element title {
+    macro.paraContent,
+    att.global.attributes,
+    att.canonical.attributes,
+    
+    ## 指出題名的書目層次，即該題名之所指可以是文章、書籍、期刊、叢書或未出版的項目。
+    attribute level {
+      
+      ##  (analytic) 分析層題名
+      ##                                                   (文章、詩、或其他隸屬於一個較大作品的項目) 
+      "a"
+      | 
+        ##  (monographic) 專題層題名
+        ##                                                   (書、選集、或其他獨立出版的項目，包含多冊作品的其中一冊) 
+        "m"
+      | 
+        ##  (journal) 期刊層題名
+        "j"
+      | 
+        ##  (series) 叢書層題名
+        "s"
+      | 
+        ##  (unpublished) 未出版的項目題名 (包括未經商業刊物發表的專題論文) 
+        "u"
+    }?,
+    
+    ## 用合適的分類方法將題名分類。
+    ## Sample values include: 1] main; 2] sub (subordinate부titre de
+    ## niveau inférieur, titre de partiesubordinatosubtítulo, título de una parte); 3] alt (alternate이명titre
+    ## alternatif, souvent dans une autre
+    ## langue, par lequel l'oeuvre est
+    ## également connualternativotítulo
+    ## alternativo, a menudo en otra lengua por
+    ## la cual la obra es también conocida.); 4] short; 5] desc (descriptive기술적paraphrase descriptive de l'oeuvre
+    ## ayant les fonctions d'un titredescrittivoparáfrasis descriptiva que funciona
+    ## como el título de una obra.)
+    attribute type { xsd:Name }?,
+    empty
+  }
+publisher =
+  
+  ## 提供負責出版或發行書目項目的機構名稱。
+  element publisher { macro.phraseSeq, att.global.attributes, empty }
+pubPlace =
+  
+  ## 包含書目項目的出版地名稱。
+  element pubPlace {
+    macro.phraseSeq, att.global.attributes, att.naming.attributes, empty
+  }
+bibl =
+  
+  ##  (書目資料) 包含結構零散的書目資料，其中次要元件不一定會明確標記。
+  element bibl {
+    (text
+     | model.gLike
+     | model.highlighted
+     | model.pPart.data
+     | model.pPart.edit
+     | model.segLike
+     | model.ptrLike
+     | model.biblPart
+     | model.global)*,
+    att.global.attributes,
+    att.declarable.attributes,
+    att.typed.attributes,
+    empty
+  }
+biblStruct =
+  
+  ##  (結構次要書目) 包含僅出現子節點的結構書目資料，並以特定順序呈現。
+  element biblStruct {
+    (model.noteLike | idno | relatedItem)*,
+    att.global.attributes,
+    att.declarable.attributes,
+    att.typed.attributes,
+    empty
+  }
+listBibl =
+  
+  ##  (書目列表) 包含任何種類的書目資料列表。
+  element listBibl {
+    (model.headLike*,
+     (model.biblLike | model.milestoneLike | listBibl)+),
+    att.global.attributes,
+    att.declarable.attributes,
+    att.typed.attributes,
+    empty
+  }
+relatedItem =
+  
+  ## 包含或參照到其他書目項目，該些項目與目前的書目項目在某種程度上相關，例如作為其組成或者替代項目。
+  element relatedItem {
+    ((model.biblLike | model.ptrLike)?)
+    >> sch:pattern [
+         id = "relatedItem-constraint-targetorcontent1"
+         sch:rule [
+           context = "tei:relatedItem"
+           sch:report [
+             test = "@target and count( child::* ) > 0"
+             "If the 'target' attribute is used, the\x{a}" ~
+             "        relatedItem element must be empty"
+           ]
+         ]
+       ]
+    >> sch:pattern [
+         id = "relatedItem-constraint-targetorcontent1"
+         sch:rule [
+           context = "tei:relatedItem"
+           sch:assert [
+             test = "@target or child::*"
+             "A relatedItem element should have either a 'target' attribute\x{a}" ~
+             "        or a child element to indicate the related bibliographic item"
+           ]
+         ]
+       ],
+    att.global.attributes,
+    att.typed.attributes,
+    
+    ## points to the related bibliographic element by means of an
+    ##       absolute or relative URI reference
+    attribute target { xsd:anyURI }?,
+    empty
+  }
+l =
+  
+  ##  (詩行) 包含詩文的一行，也許是不完整的詩行。
+  element l {
+    macro.paraContent,
+    att.global.attributes,
+    
+    ## 說明詩行的韻律表現是否完整。
+    [ a:defaultValue = "N" ]
+    attribute part {
+      
+      ##  (yes) 韻律表現不完整的詩行
+      "Y"
+      | 
+        ##  (no) 詩行完整或未說明其完整性
+        "N"
+      | 
+        ##  (initial) 不完整詩行的起始部分
+        "I"
+      | 
+        ##  (medial) 不完整詩行的中段部分
+        "M"
+      | 
+        ##  (final) 不完整詩行的末端部分
+        "F"
+    }?,
+    empty
+  }
+lg =
+  
+  ##  (行組) 包含形式上視為一組的詩行，例如詩節、疊句、韻文段落等。 
+  element lg {
+    ((model.divTop | model.global)*,
+     (model.lLike | lg),
+     (model.lLike | lg | model.global)*,
+     (model.divBottom, model.global*)*),
+    att.global.attributes,
+    att.divLike.attributes,
+    att.typed.attributes,
+    att.declaring.attributes,
+    empty
+  }
+teiCorpus =
+  
+  ## 包含一套用TEI編碼的文件集，由單一文集標頭以及一個 (或多個)
+  ##     TEI元素所組成，各TEI元素包含單一文本標頭和一個文本。
+  element teiCorpus {
+    (teiHeader, (TEI | teiCorpus)+),
+    att.global.attributes,
+    
+    ## TEI架構的版本
+    [ a:defaultValue = "5.0" ]
+    attribute version {
+      xsd:token { pattern = "[\d]+(\.[\d]+){0,2}" }
+    }?,
+    empty
+  }
+teiHeader =
+  
+  ##  (TEI標頭) 在所有符合TEI標準的文本起始的電子題名頁當中提供敘述性以及宣告性的資訊。
+  element teiHeader {
+    (fileDesc, model.teiHeaderPart*, revisionDesc?),
+    att.global.attributes,
+    
+    ## 標明標頭所附屬於的文件類型，例如文集或單一文本。
+    ## Sample values include: 1] text; 2] corpus
+    [ a:defaultValue = "text" ] attribute type { xsd:Name }?,
+    empty
+  }
+fileDesc =
+  
+  ##  (檔案描述) 包含對電子檔案的完整書目敘述。
+  element fileDesc {
+    ((titleStmt,
+      editionStmt?,
+      extent?,
+      publicationStmt,
+      seriesStmt?,
+      notesStmt?),
+     sourceDesc+),
+    att.global.attributes,
+    empty
+  }
+titleStmt =
+  
+  ##  (題名陳述) 匯集關於作品標題與作品智慧內容責任歸屬的資訊。
+  element titleStmt {
+    (title+, model.respLike*), att.global.attributes, empty
+  }
+sponsor =
+  
+  ## 標明贊助的組織或機構名稱。
+  element sponsor {
+    macro.phraseSeq.limited, att.global.attributes, empty
+  }
+funder =
+  
+  ##  (資助者) 標明負責資助一項計畫或文件製作的個人、機構或組織名稱。
+  element funder {
+    macro.phraseSeq.limited, att.global.attributes, empty
+  }
+principal =
+  
+  ##  (主導研究者) 提供負責電子文件製作的主導研究者的姓名。
+  element principal {
+    macro.phraseSeq.limited, att.global.attributes, empty
+  }
+editionStmt =
+  
+  ##  (版本陳述) 匯集文件某一版本的相關資訊。
+  element editionStmt {
+    (model.pLike+ | (edition, respStmt*)),
+    att.global.attributes,
+    empty
+  }
+edition =
+  
+  ##  (版本) 描述文件某一版本的特質。
+  element edition { macro.phraseSeq, att.global.attributes, empty }
+extent =
+  
+  ## 描述電子文件儲存在某一承載媒介時的約略大小，標以任何適用的單位。
+  element extent { macro.phraseSeq, att.global.attributes, empty }
+publicationStmt =
+  
+  ##  (出版陳述) 匯集電子文件或其他類型文件的出版或發行相關資訊。
+  element publicationStmt {
+    (model.pLike+ | model.publicationStmtPart+),
+    att.global.attributes,
+    empty
+  }
+distributor =
+  
+  ## 提供負責發行文件的個人或其他經銷商的名稱。
+  element distributor { macro.phraseSeq, att.global.attributes, empty }
+authority =
+  
+  ##  (供應機構) 說明除了出版者或發行者之外，負責提供電子檔案的個人或其他經銷商的名稱。
+  element authority {
+    macro.phraseSeq.limited, att.global.attributes, empty
+  }
+idno =
+  
+  ##  (識別代碼) 提供任何用來識別書目項目的標準或非標準編碼。
+  element idno {
+    text,
+    att.global.attributes,
+    
+    ## 表明編碼的種類，例如國際標準書號 (ISBN) 或其他標準系列編碼。
+    attribute type { xsd:Name }?,
+    empty
+  }
+availability =
+  
+  ## 提供關於文件可利用性的資訊，例如使用或發行上的任何限制、版權狀態等。
+  element availability {
+    model.pLike+,
+    att.global.attributes,
+    att.declarable.attributes,
+    
+    ## 提供一個代號，用來確認文件目前的可利用性。
+    [ a:defaultValue = "unknown" ]
+    attribute status {
+      
+      ## 文件的可利用性不受限。
+      "free"
+      | 
+        ## 文件狀態不明。
+        "unknown"
+      | 
+        ## 文件的可利用性受限制。
+        "restricted"
+    }?,
+    empty
+  }
+seriesStmt =
+  
+  ##  (集叢陳述) 若出版品隸屬於某叢書，則在此匯集該叢書的相關資訊。
+  element seriesStmt {
+    (model.pLike+
+     | (title+, (idno | respStmt)*)),
+    att.global.attributes,
+    empty
+  }
+notesStmt =
+  
+  ##  (附註陳述) 收集其他部分的書目描述中所未記載的任何文件相關附註。
+  element notesStmt { model.noteLike+, att.global.attributes, empty }
+sourceDesc =
+  
+  ## 提供所製電子文件的一個或數個來源文件的書目描述。
+  element sourceDesc {
+    (model.pLike+
+     | (model.biblLike | model.sourceDescPart | model.listLike)+),
+    att.global.attributes,
+    att.declarable.attributes,
+    empty
+  }
+biblFull =
+  
+  ## 包含結構完整的書目資料，其中呈現出TEI檔案描述內的所有元件。
+  element biblFull {
+    ((titleStmt,
+      editionStmt?,
+      extent?,
+      publicationStmt,
+      seriesStmt?,
+      notesStmt?),
+     sourceDesc*),
+    att.global.attributes,
+    att.declarable.attributes,
+    empty
+  }
+encodingDesc =
+  
+  ##  (編碼描述) 記錄電子文件和其ㄧ個或多個文件來源之間的關係。
+  element encodingDesc {
+    (model.encodingDescPart | model.pLike)+,
+    att.global.attributes,
+    empty
+  }
+projectDesc =
+  
+  ##  (計畫描述) 詳述將電子檔案編碼的目標或目的，以及其他關於檔案匯集或收集程序的任何資訊。
+  element projectDesc {
+    model.pLike+,
+    att.global.attributes,
+    att.declarable.attributes,
+    empty
+  }
+samplingDecl =
+  
+  ##  (取樣宣告) 以篇章描述的方式說明建立文集或文選時文件取樣的原理與方法。
+  element samplingDecl {
+    model.pLike+,
+    att.global.attributes,
+    att.declarable.attributes,
+    empty
+  }
+editorialDecl =
+  
+  ##  (編輯實行宣告) 提供文件編碼時使用的編輯原則與實行方法的細節。
+  element editorialDecl {
+    (model.pLike | model.editorialDeclPart)+,
+    att.global.attributes,
+    att.declarable.attributes,
+    empty
+  }
+correction =
+  
+  ##  (更正原則) 說明文本中的更正是在什麼情況下、如何產生的。
+  element correction {
+    model.pLike+,
+    att.global.attributes,
+    att.declarable.attributes,
+    
+    ## 指出文本更正的程度。
+    [ a:defaultValue = "unknown" ]
+    attribute status {
+      
+      ## 該文本以被徹底檢查校對過。
+      "high"
+      | 
+        ## 該文本被檢查過至少一次。
+        "medium"
+      | 
+        ## 該文本從未被檢查過。
+        "low"
+      | 
+        ## 更正狀態不明
+        "unknown"
+    }?,
+    
+    ## 說明標示更正所採取的方法。
+    [ a:defaultValue = "silent" ]
+    attribute method {
+      
+      ## 直接在文本中更正
+      "silent"
+      | 
+        ## corrections have been represented using markup
+        "markup"
+    }?,
+    empty
+  }
+normalization =
+  
+  ## 指出來源文件轉換成電子文本時規格化或標準化的程度。
+  element normalization {
+    model.pLike+,
+    att.global.attributes,
+    att.declarable.attributes,
+    
+    ## 指出任何規格化所實行的依據。
+    attribute source { xsd:anyURI }?,
+    
+    ## 指出標示規格化所採取的方法。
+    [ a:defaultValue = "silent" ]
+    attribute method {
+      
+      ## 直接在文本中實行規格化
+      "silent"
+      | 
+        ## normalization represented using markup 
+        "markup"
+    }?,
+    empty
+  }
+quotation =
+  
+  ## 說明在編輯上是如何處理來源文件中的引文符號。
+  element quotation {
+    model.pLike+,
+    att.global.attributes,
+    att.declarable.attributes,
+    
+    ##  (quotation marks) 指出引文符號是否在文本中被保留為內容的一部份。
+    [ a:defaultValue = "all" ]
+    attribute marks {
+      
+      ## 不保留任何引文符號
+      "none"
+      | 
+        ## 保留部分引文符號
+        "some"
+      | 
+        ## 保留所有引文符號
+        "all"
+    }?,
+    
+    ## 說明引文符號如何標示於文本中。
+    [ a:defaultValue = "unknown" ] attribute form { text }?,
+    empty
+  }
+hyphenation =
+  
+  ## 概述來源文件裡的連字符號在電子化的版本中是如何被處理的。
+  element hyphenation {
+    model.pLike+,
+    att.global.attributes,
+    att.declarable.attributes,
+    
+    ##  (end-of-line) 指出行末連字符號是否在文本中被保留。
+    [ a:defaultValue = "some" ]
+    attribute eol {
+      
+      ## 保留所有行末連字符號，即使原文中的不被保留。
+      "all"
+      | 
+        ## 行末連字符號在某些情況下被保留。
+        "some"
+      | 
+        ## 所有軟音的行末連字符號皆被移除：任何剩下的行末連字符號應該被保留。
+        "hard"
+      | 
+        ## 所有行末連字符號皆被移除：剩下的是行中出現的行末連字符號。
+        "none"
+    }?,
+    empty
+  }
+segmentation =
+  
+  ## 描述文件分割的原理方法，例如分割成句子、音調單位、字形層次等。
+  element segmentation {
+    model.pLike+,
+    att.global.attributes,
+    att.declarable.attributes,
+    empty
+  }
+stdVals =
+  
+  ##  (標準值) 明確說明文本中標準化日期或數值所使用的格式。
+  element stdVals {
+    model.pLike+,
+    att.global.attributes,
+    att.declarable.attributes,
+    empty
+  }
+interpretation =
+  
+  ## 指出除了轉錄之外，文件中加入哪些分析性或詮釋性的資訊。
+  element interpretation {
+    model.pLike+,
+    att.global.attributes,
+    att.declarable.attributes,
+    empty
+  }
+tagsDecl =
+  
+  ##  (標誌宣告) 提供關於應用在XML文件中的標誌的詳細資訊。
+  element tagsDecl {
+    (rendition*, \namespace*), att.global.attributes, empty
+  }
+tagUsage =
+  
+  ## 提供文件中某個特定元素的使用資訊。
+  element tagUsage {
+    macro.limitedContent,
+    att.global.attributes,
+    
+    ##  (element name) 該標籤所指明的元素名稱 (通用識別符碼)。
+    attribute gi { xsd:Name },
+    
+    ## 指出該元素在文本中出現的次數。
+    attribute occurs { xsd:nonNegativeInteger }?,
+    
+    ##  (with unique identifier) 指出帶有明確全域屬性xml:id屬性值的元素在文本中的出現次數。
+    attribute withId { xsd:nonNegativeInteger }?,
+    
+    ## 標明元素rendition的識別符號，該符號定義此元素的呈現方法。
+    attribute render { xsd:anyURI }?,
+    empty
+  }
+\namespace =
+  
+  ## 提供其子元素所描述的元素所屬的名稱空間之正式名稱。 
+  element namespace {
+    tagUsage+,
+    att.global.attributes,
+    
+    ## 名稱空間的正式完整名稱。
+    attribute name { xsd:anyURI },
+    empty
+  }
+rendition =
+  
+  ## 提供關於一個或多個元素預定呈現方式的資訊。
+  element rendition {
+    macro.limitedContent,
+    att.global.attributes,
+    
+    ## identifies the language used to describe the rendition.
+    attribute scheme {
+      
+      ## Cascading Stylesheet Language
+      "css"
+      | 
+        ## Extensible Stylesheet Language Formatting Objects
+        "xslfo"
+      | 
+        ## Informal free text description
+        "free"
+      | 
+        ## A user-defined rendition description language
+        "other"
+    }?,
+    
+    ## where CSS is used, provides a way of defining
+    ## pseudo-elements, that is, styling rules
+    ## applicable to specific sub-portions of an element.
+    attribute scope { text }?,
+    empty
+  }
+refsDecl =
+  
+  ##  (參照宣告) 標明本文件與某一個權威參照標準的關係。
+  element refsDecl {
+    (model.pLike+ | cRefPattern+ | refState+),
+    att.global.attributes,
+    att.declarable.attributes,
+    empty
+  }
+cRefPattern =
+  
+  ##  (定義如何將標準參照轉換成統一資源識別符 (URI) 。) 標明將標準參照轉換成統一資源識別符的表示方法與取代模式。 
+  element cRefPattern {
+    model.pLike*,
+    att.global.attributes,
+    
+    ## 標明一個表示屬性cRef屬性值的固定方法。
+    attribute matchPattern { xsd:token },
+    
+    ## 標明一個取代模式，一旦進行次要模式的替換，會自動提供統一資源識別符 (URI) 。
+    attribute replacementPattern { text },
+    empty
+  }
+refState =
+  
+  ##  (分界狀態) 標明分界方法所定義的權威參照標準裡其中一個組件。
+  element refState {
+    empty,
+    att.global.attributes,
+    att.sourced.attributes,
+    
+    ## indicates what kind of state is changing at this milestone.
+    ## Suggested values include: 1] page; 2] column; 3] line; 4] book; 5] poem; 6] canto; 7] stanza; 8] act; 9] scene; 10] section; 11] absent
+    attribute unit {
+      
+      ## page breaks in the reference edition. 
+      "page"
+      | 
+        ## column breaks. 
+        "column"
+      | 
+        ## line breaks. 
+        "line"
+      | 
+        ## any units termed book, liber, etc. 
+        "book"
+      | 
+        ## individual poems in a collection. 
+        "poem"
+      | 
+        ## cantos or other major sections of a poem. 
+        "canto"
+      | 
+        ## stanzas within a poem, book, or canto. 
+        "stanza"
+      | 
+        ## acts within a play. 
+        "act"
+      | 
+        ## scenes within a play or act. 
+        "scene"
+      | 
+        ## sections of any kind. 
+        "section"
+      | 
+        ## passages not present in the reference edition.
+        "absent"
+      | xsd:Name
+    },
+    
+    ## specifies the fixed length of the reference component.
+    attribute length { xsd:nonNegativeInteger }?,
+    
+    ##  (delimiter) supplies a delimiting string following the reference component.
+    attribute delim { text }?,
+    empty
+  }
+classDecl =
+  
+  ##  (分類宣告) 包含一個或多個分類法，用來定義在文件中他處所使用之任何分類碼。
+  element classDecl { taxonomy+, att.global.attributes, empty }
+taxonomy =
+  
+  ## 定義文件分類的類型學，可以是潛在地以書目資料的方式，或是明確地以結構分類法的方式來分類。
+  element taxonomy {
+    (model.glossLike* | category+ | (model.biblLike, category*)),
+    att.global.attributes,
+    empty
+  }
+category =
+  
+  ## 在使用者定義之分類法當中，此元素包含一項個別的描述性類目，該類目可能位於一個更上層的類目之中。
+  element category {
+    ((catDesc+ | model.glossLike*), category*),
+    att.global.attributes,
+    empty
+  }
+catDesc =
+  
+  ##  (類目描述) 描述分類法中或文件類型學中的某些類目，可用短文描述的型式，或是用TEI正式元素textDesc所使用的狀況參數。
+  element catDesc {
+    (text | model.limitedPhrase | model.catDescPart)*,
+    att.global.attributes,
+    empty
+  }
+appInfo =
+  
+  ##  (application information) records information about an application which has
+  ##   edited the TEI file. 
+  element appInfo {
+    model.applicationLike+, att.global.attributes, empty
+  }
+application =
+  
+  ## provides information about an application which has acted upon the document.
+  element application {
+    (model.labelLike+, (model.ptrLike* | model.pLike*)),
+    att.global.attributes,
+    att.typed.attributes,
+    att.datable.attributes,
+    
+    ## Supplies an identifier for the application, independent of its version number or display
+    ##         name.
+    attribute ident { xsd:Name },
+    
+    ## Supplies a version number for the application, independent of its identifier or display
+    ##         name.
+    attribute version {
+      xsd:token {
+        pattern = "[\d]+[a-z]*[\d]*(\.[\d]+[a-z]*[\d]*){0,3}"
+      }
+    },
+    empty
+  }
+profileDesc =
+  
+  ##  (文件背景描述) 提供文件非書目性方面的細節描述，特別是所使用的語言及次要語言、在何種情況下製作、參與人員及其環境背景。
+  element profileDesc {
+    model.profileDescPart*, att.global.attributes, empty
+  }
+creation =
+  
+  ## 包含關於文件建置的資訊。 
+  element creation {
+    macro.phraseSeq.limited, att.global.attributes, empty
+  }
+langUsage =
+  
+  ##  (語言使用) 描述文件中使用的語言、次要語言、語域、方言等。
+  element langUsage {
+    language+, att.global.attributes, att.declarable.attributes, empty
+  }
+language =
+  
+  ## 個別敘述文本中使用的語言或次要語言。
+  element language {
+    macro.phraseSeq.limited,
+    att.global.attributes,
+    
+    ##  (identifier) 提供一語言代碼，其編碼方式定義在RFC 3066中 (或其系列中)
+    ##           ，用來識別此元素所紀錄的語言，並由全域屬性xml:lang所參照。
+    attribute ident { xsd:language },
+    
+    ## 標明該文本使用此語言的大約比例 (以冊計) 。
+    attribute usage {
+      xsd:nonNegativeInteger { maxInclusive = "100" }
+    }?,
+    empty
+  }
+textClass =
+  
+  ##  (文件分類) 匯集以標準分類架構、索引典等來描述文件性質或主題的資訊。
+  element textClass {
+    (classCode | catRef | keywords)*,
+    att.global.attributes,
+    att.declarable.attributes,
+    empty
+  }
+keywords =
+  
+  ## 包含標明文件主題或性質的關鍵詞或字詞列表。
+  element keywords {
+    (term+ | \list),
+    att.global.attributes,
+    
+    ## 標明相關關鍵詞所使用到的詞彙範圍。
+    attribute scheme { xsd:anyURI },
+    empty
+  }
+classCode =
+  
+  ##  (classification code) 包含文件在某標準分類系統中所屬的分類代碼。
+  element classCode {
+    macro.phraseSeq.limited,
+    att.global.attributes,
+    
+    ## 說明使用中的分類系統或分類法。
+    attribute scheme { xsd:anyURI },
+    empty
+  }
+catRef =
+  
+  ##  (類目參照) 標明在某分類法或文件類型學中，一個或多個已定義之類目。
+  element catRef {
+    empty,
+    att.global.attributes,
+    att.pointing.attributes,
+    
+    ## 標明該分類架構，其中相關的類目群組已被定義
+    attribute scheme { xsd:anyURI }?,
+    empty
+  }
+revisionDesc =
+  
+  ##  (修訂描述) 概述檔案的修訂歷史。
+  element revisionDesc {
+    (\list | change+),
+    att.global.attributes,
+    att.docStatus.attributes,
+    empty
+  }
+change =
+  
+  ## 概述多位研究者共享的某版本電子文本當中，某特定的內容變更或修正。
+  element change {
+    (text | model.limitedPhrase | model.inter | model.global)*,
+    att.global.attributes,
+    att.ascribed.attributes,
+    att.datable.attributes,
+    att.docStatus.attributes,
+    empty
+  }
+geoDecl =
+  
+  ##  (geographic coordinates declaration) documents the notation and the datum used for geographic coordinates expressed as content of
+  ##     the geo element elsewhere within the document.
+  element geoDecl {
+    macro.phraseSeq,
+    att.global.attributes,
+    att.declarable.attributes,
+    
+    ## supplies a commonly used code name for the datum employed.
+    ## Suggested values include: 1] WGS84 (World Geodetic System세계 측지 시스템Sistema Geodésico MundialSystème Géodésique Mondialsistema geodetico mondiale); 2] MGRS (Military Grid Reference System군사 좌표 참조 시스템Sistema de Coordenadas MGRSSystème de Référence du Réseau Militaire,
+    ##             (MGRS).sistema di riferimento delle coordinate MGRS); 3] OSGB36 (ordnance survey great britain영국 육지 측량부Système de coordonnées de Grande-Bretagne (OSGB) sistema di riferimento a reticolato OSGB36); 4] ED50 (European Datum coordinate system유럽 자료 좌표 시스템Sistema de coordinadas European Datumsystème de coordonnées de données européen.sistema di riferimento ED50)
+    [ a:defaultValue = "WGS84" ]
+    attribute datum {
+      
+      ##  (World Geodetic System) a pair of numbers to be interpreted as latitude followed by longitude according to
+      ##             the World Geodetic System.
+      "WGS84"
+      | 
+        ##  (Military Grid Reference System) the values supplied are geospatial entity object codes, based on
+        "MGRS"
+      | 
+        ##  (ordnance survey great britain) the value supplied is to be interpreted as a British National Grid Reference.
+        "OSGB36"
+      | 
+        ##  (European Datum coordinate system) the value supplied is to be interpreted as latitude followed by longitude according
+        ##             to the European Datum coordinate system.
+        "ED50"
+      | xsd:Name
+    }?,
+    empty
+  }
+TEI =
+  
+  ##  (TEI文件) 包含符合TEI標準的單一文件，由一個TEI標頭及一份文本組成，可單獨出現或是作為元素teiCorpus的一部分。
+  element TEI {
+    (teiHeader,
+     ((model.resourceLike+, \text?) | \text))
+    >> sch:ns [ prefix = "tei" uri = "http://www.tei-c.org/ns/1.0" ]
+    >> sch:ns [
+         prefix = "rng"
+         uri = "http://relaxng.org/ns/structure/1.0"
+       ],
+    att.global.attributes,
+    
+    ## TEI架構的版本
+    attribute version {
+      xsd:token { pattern = "[\d]+(\.[\d]+){0,2}" }
+    }?,
+    empty
+  }
+\text =
+  
+  ## 包含一份任何種類的文本，無論是單一或複合的，例如詩詞或戲劇、散文集、小說、字典、或是文集範例。
+  element text {
+    (model.global*,
+     (front, model.global*)?,
+     (body | group),
+     model.global*,
+     (back, model.global*)?),
+    att.global.attributes,
+    att.declaring.attributes,
+    att.typed.attributes,
+    empty
+  }
+body =
+  
+  ##  (正文) 單篇文章的整體部分，不包含正文前及正文後資訊。
+  element body {
+    (model.global*,
+     (model.divTop, (model.global | model.divTop)*)?,
+     (model.divGenLike, (model.global | model.divGenLike)*)?,
+     ((model.divLike, (model.global | model.divGenLike)*)+
+      | (model.div1Like, (model.global | model.divGenLike)*)+
+      | ((model.common, model.global*)+,
+         ((model.divLike, (model.global | model.divGenLike)*)+
+          | (model.div1Like, (model.global | model.divGenLike)*)+)?)),
+     (model.divBottom, model.global*)*),
+    att.global.attributes,
+    att.declaring.attributes,
+    empty
+  }
+group =
+  
+  ## 包含複合文本的正文，所匯集的一連串單一文件 (或文件群組)
+  ##     ，因為某特殊目的被視為一個整體，例如一個作者的作品集合、一連串的散文集等。
+  element group {
+    ((model.divTop | model.global)*,
+     ((\text | group), (\text | group | model.global)*),
+     model.divBottom*),
+    att.global.attributes,
+    att.declaring.attributes,
+    empty
+  }
+\div =
+  
+  ##  (文本區段) 文本的正文前資訊、正文、及正文後資訊的分段。
+  element div {
+    ((model.divTop | model.global)*,
+     ((((model.divLike | model.divGenLike), model.global*)+
+       | ((model.common, model.global*)+,
+          ((model.divLike | model.divGenLike), model.global*)*)),
+      (model.divBottom, model.global*)*)?),
+    att.global.attributes,
+    att.divLike.attributes,
+    att.typed.attributes,
+    att.declaring.attributes,
+    empty
+  }
+postscript =
+  
+  ## contains a postscript, e.g. to a letter.
+  element postscript {
+    (model.common | model.global)*, att.global.attributes, empty
+  }
+front =
+  
+  ##  (正文前資訊) 包含位於文件最前端、正文之前的項目 (標頭、題名頁、前言、獻詞等) 。 
+  element front {
+    ((model.frontPart | model.pLike.front | model.global)*,
+     ((model.div1Like,
+       (model.frontPart | model.div1Like | model.global)*)
+      | (model.divLike,
+         (model.frontPart | model.divLike | model.global)*))?,
+     (model.divBottomPart, (model.divBottomPart | model.global)*)?),
+    att.global.attributes,
+    att.declaring.attributes,
+    empty
+  }
+back =
+  
+  ##  (正文後資訊) 在正文之後，包含附錄等。
+  element back {
+    ((model.frontPart | model.pLike.front | model.global)*,
+     ((model.div1Like,
+       (model.frontPart | model.div1Like | model.global)*)
+      | (model.divLike,
+         (model.frontPart | model.divLike | model.global)*))?,
+     (model.divBottomPart, (model.divBottomPart | model.global)*)?),
+    att.global.attributes,
+    att.declaring.attributes,
+    empty
+  }
+s =
+  
+  ##  (句子單元) 包含文字中一個句子組成的區段。
+  element s {
+    macro.phraseSeq
+    >> sch:pattern [
+         id = "s-constraint-noNestedS"
+         sch:rule [
+           context = "tei:s"
+           sch:report [
+             test = "tei:s"
+             "You may not nest one s element within\x{a}" ~
+             "      another: use seg instead"
+           ]
+         ]
+       ],
+    att.global.attributes,
+    att.segLike.attributes,
+    att.typed.attributes,
+    empty
+  }
+w =
+  
+  ##  (單字) 表示文法上 (但未必是拼字法上) 定義的單字。
+  element w {
+    (text
+     | model.gLike
+     | seg
+     | w
+     | c
+     | model.global
+     | model.lPart
+     | model.hiLike
+     | model.pPart.edit)*,
+    att.global.attributes,
+    att.segLike.attributes,
+    att.typed.attributes,
+    
+    ## 指出在字典中該字的詞條形式。
+    attribute lemma { xsd:string }?,
+    
+    ## provides a pointer to a definition for the root form of this word
+    ##       form.
+    attribute lemmaRef { xsd:anyURI }?,
+    empty
+  }
+c =
+  
+  ##  (文字符號) 表示一個文字符號。
+  element c {
+    macro.xtext,
+    att.global.attributes,
+    att.segLike.attributes,
+    att.typed.attributes,
+    empty
+  }
+pc =
+  
+  ##  (punctuation character) a character or string of characters regarded as constituting a
+  ##   single punctuation mark.
+  element pc {
+    (text | model.gLike | c)*,
+    att.global.attributes,
+    att.segLike.attributes,
+    att.typed.attributes,
+    
+    ## indicates the extent to which this punctuation mark
+    ##       conventionally separates words or phrases
+    attribute force {
+      
+      ## the punctuation mark is a word separator
+      "strong"
+      | 
+        ## the punctuation mark is not a word separator
+        "weak"
+      | 
+        ## the punctuation mark may or may not be a
+        ## word separator
+        "inter"
+    }?,
+    
+    ## provides a name for the kind of unit delimited by  this punctuation mark.
+    attribute unit { xsd:Name }?,
+    
+    ## indicates whether this punctuation mark precedes or
+    ##       follows the unit it delimits.
+    attribute pre { xsd:boolean }?,
+    empty
+  }
+att.global.analytic.attributes =
+  att.global.analytic.attribute.ana, empty
+att.global.analytic.attribute.ana =
+  
+  ##  (analysis) 指出一個或多個元素，其中包含帶有屬性ana的元素解釋。
+  attribute ana {
+    list { xsd:anyURI+ }
+  }?
+span =
+  
+  ## 將詮釋性註釋直接和一段文字段連結。
+  element span {
+    macro.phraseSeq.limited,
+    att.global.attributes,
+    att.interpLike.attributes,
+    
+    ## 指出被註解段落的起點；若沒有使用屬性to，則指出全部段落。
+    attribute from { xsd:anyURI },
+    
+    ## 指出被註解段落的終點。
+    attribute to { xsd:anyURI }?,
+    empty
+  }
+spanGrp =
+  
+  ##  (文字段群組) 匯集文字段標籤。
+  element spanGrp {
+    span*, att.global.attributes, att.interpLike.attributes, empty
+  }
+interp =
+  
+  ##  (解釋) 標明和某一文字段相連結的特定解釋性註釋。
+  element interp {
+    (text | model.gLike | model.glossLike)*,
+    att.global.attributes,
+    att.interpLike.attributes,
+    empty
+  }
+interpGrp =
+  
+  ##  (解釋群組) 匯集一系列具有共同任務或類型的相關解釋。
+  element interpGrp {
+    (model.glossLike*, interp+),
+    att.global.attributes,
+    att.interpLike.attributes,
+    empty
+  }
+precision =
+  
+  ## indicates the numerical accuracy or precision  associated
+  ##   with some aspect of the text markup. 
+  element precision {
+    model.glossLike*,
+    att.global.attributes,
+    att.scoping.attributes,
+    
+    ## indicates the degree of precision to be assigned as a
+    ##       value between 0 (none) and 1 (optimally precise)
+    attribute degree {
+      xsd:double { minInclusive = "0" maxInclusive = "1" }
+    }?,
+    
+    ## supplies a standard deviation associated with the value in
+    ##       question
+    attribute stdDeviation {
+      xsd:double
+      | xsd:token { pattern = "(\-?[\d]+/\-?[\d]+)" }
+      | xsd:decimal
+    }?,
+    empty
+  }
+certainty =
+  
+  ## 指出標記文本某些部分的確定或不確定的程度。
+  element certainty {
+    model.glossLike*,
+    att.global.attributes,
+    att.scoping.attributes,
+    
+    ## 指出不確定標記的確切位置：元素的應用性、開始標籤或結束標籤的確切位置、特定屬性的屬性值等。
+    attribute locus {
+      
+      ## uncertainty concerns whether the name of the element
+      ##	  or attribute  used is correctly applied.
+      "name"
+      | 
+        ## uncertainty concerns whether the start of the element
+        ##	  is correctly identified.
+        "start"
+      | 
+        ## uncertainty concerns whether the end of the element
+        ##	  is correctly identified.
+        "end"
+      | 
+        ## uncertainty concerns both the start and the end of the
+        ##	  element.
+        "location"
+      | 
+        ## uncertainty concerns the content (for an element) or
+        ##	  the value (for an attribute)
+        "value"
+    },
+    
+    ## 提供一個替代屬性值給指定標記部分—一個替代的類目識別符碼、轉錄、或屬性值，或是元素anchor (用來指出一個替代的開始或結束位置) 的識別符碼。若使用屬性assertedValue，則屬性degree中指出的確定程度適用於屬性assertedValue所指明的替代標記；若無使用，則確定程度適用於文本中的標記。
+    attribute assertedValue {
+      xsd:anyURI
+      | xsd:Name
+      | xsd:token { pattern = "(\p{L}|\p{N}|\p{P}|\p{S})+" }
+    }?,
+    
+    ## 指出在評估確定程度時所設想的情況。
+    attribute given {
+      list { xsd:anyURI+ }
+    }?,
+    
+    ## 指出屬性locus所指定的標記部分之確定程度。
+    attribute degree {
+      xsd:double { minInclusive = "0" maxInclusive = "1" }
+    }?,
+    empty
+  }
+respons =
+  
+  ##  (責任) 指出標記一或多個特定元素某部分的負責人。
+  element respons {
+    model.glossLike*,
+    att.global.attributes,
+    att.scoping.attributes,
+    
+    ## 指出標記責任所屬的特定部分。
+    attribute locus {
+      list {
+        (
+         ## responsibility is being assigned concerning the name of the element
+         ##	  or attribute used.
+         "name"
+         | 
+           ## responsibility is being assigned concerning the start of the element
+           ##	  concerned.
+           "start"
+         | 
+           ## responsibility is being assigned concerning the end of the element
+           ##	  concerned.
+           "end"
+         | 
+           ## responsibility is being assigned concerning the location of the element
+           ##	  concerned.
+           "location"
+         | 
+           ## responsibility is being assigned concerning the content (for an element) or
+           ##	  the value (for an attribute)
+           "value")+
+      }
+    },
+    
+    ##  (responsible party) 指出負責電子文本指定部分的個人或機構。
+    attribute resp { xsd:anyURI },
+    empty
+  }
+g =
+  
+  ##  (文字或字體) 非標準的文字或字體。
+  element g {
+    text,
+    att.global.attributes,
+    att.typed.attributes,
+    
+    ## 連結到該文字或字體的描述。
+    attribute ref { xsd:anyURI }?,
+    empty
+  }
+char =
+  
+  ##  (文字) 提供一個文字的描述性資訊。
+  element char {
+    (charName?,
+     model.glossLike*,
+     charProp*,
+     mapping*,
+     empty*,
+     model.graphicLike*,
+     model.noteLike*),
+    att.global.attributes,
+    empty
+  }
+charName =
+  
+  ##  (文字名稱) 包含一文字名稱，其表示法根據統一碼協定 (Unicode)。
+  element charName { text, att.global.attributes, empty }
+charProp =
+  
+  ##  (文字性質) 提供父文字或字體的性質名稱與性質值。
+  element charProp {
+    ((unicodeName | localName), value),
+    att.global.attributes,
+    att.typed.attributes,
+    empty
+  }
+charDecl =
+  
+  ##  (文字描述) 提供文字或字體的描述性資訊。
+  element charDecl {
+    (desc?, (char | glyph)+),
+    att.global.attributes,
+    empty
+  }
+glyph =
+  
+  ##  (文字的形體) 提供一種字體的描述性資訊。
+  element glyph {
+    (glyphName?,
+     model.glossLike*,
+     charProp*,
+     mapping*,
+     empty*,
+     model.noteLike*),
+    att.global.attributes,
+    empty
+  }
+glyphName =
+  
+  ##  (字體名稱) 包含一字體名稱，其表示法根據統一碼協定 (Unicode)。
+  element glyphName { text, att.global.attributes, empty }
+localName =
+  
+  ##  (當地定義的性質名稱) 包含某性質的地方性定義名稱。
+  element localName { text, att.global.attributes, empty }
+mapping =
+  
+  ##  (文字對應) 包含與父文字或字體在某方面有所關聯的一個或多個文字，在屬性type中加以說明。
+  element mapping {
+    macro.xtext, att.global.attributes, att.typed.attributes, empty
+  }
+unicodeName =
+  
+  ##  (統一碼性質名稱) 包含一個統一碼規範性質之註冊名稱。
+  element unicodeName {
+    text,
+    att.global.attributes,
+    
+    ## 說明該性質名稱是定義在哪一版本的統一碼標準 (Unicode Standard) 中。
+    attribute version {
+      xsd:token { pattern = "[\d]+(\.[\d]+){0,2}" }
+    }?,
+    empty
+  }
+value =
+  
+  ##  (性質值) 包含一個性質值、屬性值、或其他分析值。
+  element value { macro.xtext, att.global.attributes, empty }
+model.persNamePart =
+  surname | forename | genName | nameLink | addName | roleName
+orgName =
+  
+  ##  (組織名稱) 包含一個組織名稱。
+  element orgName {
+    macro.phraseSeq,
+    att.global.attributes,
+    att.datable.attributes,
+    att.editLike.attributes,
+    att.personal.attributes,
+    att.typed.attributes,
+    empty
+  }
+persName =
+  
+  ##  (個人名稱) 包含一個人名，可能是任何或全部屬於該人物的名字、姓氏、敬稱、或附加名等。
+  element persName {
+    macro.phraseSeq,
+    att.global.attribute.xmlid,
+    att.global.attribute.n,
+    att.global.attribute.xmllang,
+    att.global.attribute.rend,
+    att.global.attribute.rendition,
+    att.global.attribute.xmlbase,
+    att.global.attribute.xmlspace,
+    
+    ##  (corresponds) Key for the authority database.
+    attribute corresp {
+      xsd:token { pattern = "(A\d{6})|(G\d{6})" }
+    }?,
+    att.global.linking.attribute.synch,
+    att.global.linking.attribute.sameAs,
+    att.global.linking.attribute.copyOf,
+    att.global.linking.attribute.next,
+    att.global.linking.attribute.prev,
+    att.global.linking.attribute.exclude,
+    att.global.linking.attribute.select,
+    
+    ##  (analysis) Allows a value restricted by a regEx.
+    attribute ana {
+      xsd:token { pattern = "#person" }
+    }?,
+    att.datable.attributes,
+    att.editLike.attributes,
+    att.personal.attribute.full,
+    att.personal.attribute.sort,
+    att.naming.attribute.role,
+    att.naming.attribute.nymRef,
+    
+    ## Key for the authority database.
+    attribute key {
+      xsd:token { pattern = "(A\d{6})|(G\d{6})|unknown" }
+    }?,
+    att.canonical.attribute.ref,
+    att.typed.attributes,
+    empty
+  }
+surname =
+  
+  ## 包含一個家族姓氏，並非名字、教名、或綽號。
+  element surname {
+    macro.phraseSeq,
+    att.global.attributes,
+    att.personal.attributes,
+    att.typed.attributes,
+    empty
+  }
+forename =
+  
+  ## 包含名字或教名。
+  element forename {
+    macro.phraseSeq,
+    att.global.attributes,
+    att.personal.attributes,
+    att.typed.attributes,
+    empty
+  }
+genName =
+  
+  ## 該名稱用來和其他相似名稱做區別，以個人的相對年紀或隸屬世代作依據。
+  element genName {
+    macro.phraseSeq,
+    att.global.attributes,
+    att.personal.attributes,
+    att.typed.attributes,
+    empty
+  }
+nameLink =
+  
+  ##  (name link) 包含一個名稱中的連結字彙，但不屬於該名稱的一部份，例如 van der 或是 of。
+  element nameLink {
+    macro.phraseSeq, att.global.attributes, att.typed.attributes, empty
+  }
+addName =
+  
+  ##  (附加名稱) 附加的名稱，例如綽號、稱號、或別名，或是在人名中出現的其他描述性措辭。
+  element addName {
+    macro.phraseSeq,
+    att.global.attributes,
+    att.personal.attributes,
+    att.typed.attributes,
+    empty
+  }
+roleName =
+  
+  ## 包含一個身份名稱，代表個人在社會上所扮演的特殊角色或所處地位，例如官方頭銜或地位。
+  element roleName {
+    macro.phraseSeq,
+    att.global.attributes,
+    att.personal.attributes,
+    att.typed.attributes,
+    empty
+  }
+placeName =
+  
+  ## 包含一個確切位置或相對位置的名稱。
+  element placeName {
+    macro.phraseSeq,
+    att.global.attribute.xmlid,
+    att.global.attribute.n,
+    att.global.attribute.xmllang,
+    att.global.attribute.rend,
+    att.global.attribute.rendition,
+    att.global.attribute.xmlbase,
+    att.global.attribute.xmlspace,
+    
+    ##  (corresponds) Key for the authority database.
+    attribute corresp {
+      xsd:token { pattern = "\w{2}(\w|\d){7}\w\d{2}\w{2}" }
+    }?,
+    att.global.linking.attribute.synch,
+    att.global.linking.attribute.sameAs,
+    att.global.linking.attribute.copyOf,
+    att.global.linking.attribute.next,
+    att.global.linking.attribute.prev,
+    att.global.linking.attribute.exclude,
+    att.global.linking.attribute.select,
+    
+    ##  (analysis) Allows a value restricted by a regEx.
+    attribute ana {
+      xsd:token { pattern = "#place" }
+    }?,
+    att.naming.attribute.role,
+    att.naming.attribute.nymRef,
+    
+    ## Key for the authority database.
+    attribute key {
+      xsd:token { pattern = "(\w{2}(\w|\d){7}\w\d{2}\w{2})|unknown" }
+    }?,
+    att.canonical.attribute.ref,
+    att.typed.attributes,
+    att.datable.attributes,
+    att.editLike.attributes,
+    empty
+  }
+bloc =
+  
+  ##  (bloc) 包含一個地理政治區域名稱，由一個或多個國家所組成。
+  element bloc {
+    macro.phraseSeq,
+    att.global.attributes,
+    att.naming.attributes,
+    att.typed.attributes,
+    att.datable.attributes,
+    empty
+  }
+country =
+  
+  ##  (country) 包含一個地理政治區域名稱，例如民族、國家、殖民地、或聯邦區域，範圍大於一般地區或行政地位較高，但小於國家聯盟性的地理政治區。
+  element country {
+    macro.phraseSeq,
+    att.global.attributes,
+    att.naming.attributes,
+    att.typed.attributes,
+    att.datable.attributes,
+    empty
+  }
+region =
+  
+  ## 包含行政單位的名稱，例如州、省、或郡，範圍大於主政區，但小於國家。
+  element region {
+    macro.phraseSeq,
+    att.global.attributes,
+    att.naming.attributes,
+    att.typed.attributes,
+    att.datable.attributes,
+    empty
+  }
+district =
+  
+  ## 包含任何次行政區名稱，例如教區、選區、或其他行政或地理單元。
+  element district {
+    macro.phraseSeq,
+    att.global.attributes,
+    att.naming.attributes,
+    att.typed.attributes,
+    att.datable.attributes,
+    empty
+  }
+settlement =
+  
+  ## 包含主行政區的名稱，例如城市、鄉鎮、村莊等單一地理政治或行政單位。
+  element settlement {
+    macro.phraseSeq,
+    att.global.attributes,
+    att.naming.attributes,
+    att.typed.attributes,
+    att.datable.attributes,
+    empty
+  }
+offset =
+  
+  ## 在時間或空間差距的表示中，該部分指出兩個地名、日期、或時間之間差距的方向性。
+  element offset {
+    macro.xtext, att.global.attributes, att.typed.attributes, empty
+  }
+geogName =
+  
+  ##  (地理名稱) 與地形名稱結合的地名，例如威拉索溪谷、西奈山等。
+  element geogName {
+    macro.phraseSeq,
+    att.global.attributes,
+    att.naming.attributes,
+    
+    ## 提供該名稱在文化、語言或應用上的分類資訊。
+    attribute type { xsd:Name }?,
+    empty
+  }
+geogFeat =
+  
+  ##  (geographical feature name) contains a common noun identifying some geographical feature contained within a geographic
+  ##         name, such as valley, mount, etc.
+  element geogFeat {
+    macro.xtext,
+    att.global.attributes,
+    att.naming.attributes,
+    att.typed.attributes,
+    att.datable.attributes,
+    empty
+  }
+affiliation =
+  
+  ##  (affiliation) 包含非正式性的描述，關於個人現在或過去隸屬的團體，例如雇主或贊助者。
+  element affiliation {
+    macro.phraseSeq,
+    att.global.attributes,
+    att.editLike.attributes,
+    att.datable.attributes,
+    att.naming.attributes,
+    empty
+  }
+age =
+  
+  ##  (age) 標明個人的年齡。
+  element age {
+    macro.phraseSeq.limited,
+    att.global.attributes,
+    att.editLike.attributes,
+    att.datable.attributes,
+    
+    ## 提供一個代表該年齡或年齡層的數字代碼
+    attribute value { xsd:nonNegativeInteger }?,
+    empty
+  }
+birth =
+  
+  ##  (birth) 包含個人的出生資訊，例如日期及地點等。
+  element birth {
+    macro.phraseSeq,
+    att.global.attributes,
+    att.editLike.attributes,
+    att.datable.attributes,
+    att.naming.attributes,
+    empty
+  }
+climate =
+  
+  ##  (climate) contains information about the physical climate of a place.
+  element climate {
+    (model.headLike*,
+     (model.pLike+ | model.labelLike+),
+     (model.noteLike | model.biblLike)*,
+     climate*),
+    att.global.attributes,
+    att.datable.attributes,
+    att.editLike.attributes,
+    att.naming.attributes,
+    att.typed.attributes,
+    empty
+  }
+death =
+  
+  ##  (death) 包含個人的死亡資訊，例如日期及地點等。
+  element death {
+    macro.phraseSeq,
+    att.global.attributes,
+    att.editLike.attributes,
+    att.datable.attributes,
+    att.naming.attributes,
+    empty
+  }
+education =
+  
+  ## 包含個人教育經歷的描述。
+  element education {
+    macro.phraseSeq,
+    att.global.attributes,
+    att.editLike.attributes,
+    att.datable.attributes,
+    att.naming.attributes,
+    empty
+  }
+event =
+  
+  ##  (event) 任何未必是口說的或溝通上的現象或發生情況，例如偶然的噪音或其他影響溝通的事件。
+  element event {
+    (model.headLike*,
+     (model.pLike+ | model.labelLike+),
+     (model.noteLike | model.biblLike)*,
+     event*),
+    att.global.attributes,
+    att.datable.attributes,
+    att.editLike.attributes,
+    att.typed.attributes,
+    att.naming.attributes,
+    
+    ## indicates the location of an event by pointing to a place element
+    attribute where { xsd:anyURI }?,
+    empty
+  }
+faith =
+  
+  ## 標明個人的宗教信仰或其他信念。
+  element faith {
+    macro.phraseSeq,
+    att.global.attributes,
+    att.editLike.attributes,
+    att.datable.attributes,
+    empty
+  }
+floruit =
+  
+  ## 包含個人活動時期的相關資訊。
+  element floruit {
+    macro.phraseSeq,
+    att.global.attributes,
+    att.datable.attributes,
+    att.editLike.attributes,
+    empty
+  }
+geo =
+  
+  ##  (geographical coordinates) contains any expression of a set of geographic coordinates, representing a point, line, or area on the surface of the earth in some
+  ##         notation.
+  element geo { text, att.global.attributes, empty }
+langKnowledge =
+  
+  ##  (language knowledge) 包含個人的語言認知狀態，可用敘述的方式或元素langKnown的條列形式來表達。
+  element langKnowledge {
+    (model.pLike | langKnown+),
+    att.global.attributes,
+    att.datable.attributes,
+    att.editLike.attributes,
+    
+    ## 提供一個或多個有效的所指語言標籤
+    attribute tags {
+      list { xsd:language+ }
+    }?,
+    empty
+  }
+langKnown =
+  
+  ##  (語言能力) 個人對於某單一語言的認知狀態。
+  element langKnown {
+    macro.phraseSeq.limited,
+    att.global.attributes,
+    att.datable.attributes,
+    att.editLike.attributes,
+    
+    ## 用有效的語言標籤來表示所指語言。
+    attribute tag { xsd:language },
+    
+    ## 用代號來表示個人對該語言的認知程度。
+    attribute level {
+      xsd:token { pattern = "(\p{L}|\p{N}|\p{P}|\p{S})+" }
+    }?,
+    empty
+  }
+listOrg =
+  
+  ##  (list of organizations) contains a list of elements, each of which provides information about an identifiable
+  ##         organization. 
+  element listOrg {
+    (model.headLike*, (org | listOrg)+, (relationGrp | relation)*),
+    att.global.attributes,
+    att.typed.attributes,
+    att.declarable.attributes,
+    empty
+  }
+listEvent =
+  
+  ##  (list of events) contains a list of descriptions, each of which provides information
+  ##     about an identifiable event. 
+  element listEvent {
+    (model.headLike*, (event | listEvent)+, (relation | relationGrp)*),
+    att.global.attributes,
+    att.typed.attributes,
+    att.declarable.attributes,
+    empty
+  }
+listPerson =
+  
+  ##  (list of persons) 人物描述清單，其中每個項目包含一個已知人物的相關資料，例如語言互動中的參與者、或是歷史來源中提及的人物。
+  element listPerson {
+    (model.headLike*,
+     (model.personLike | listPerson)+,
+     (relation | relationGrp)*),
+    att.global.attributes,
+    att.typed.attributes,
+    att.declarable.attributes,
+    empty
+  }
+listPlace =
+  
+  ##  (list of places) contains a list of places, optionally followed by a list of relationships (other than
+  ##         containment) defined amongst them. 
+  element listPlace {
+    (model.headLike*,
+     (model.placeLike | listPlace)+,
+     (relationGrp | relation)*),
+    att.global.attributes,
+    att.typed.attributes,
+    att.declarable.attributes,
+    empty
+  }
+location =
+  
+  ## defines the location of a place as a set of geographical coordinates, in terms of a other named geo-political entities, or as an
+  ##         address.
+  element location {
+    (model.labelLike
+     | model.placeNamePart
+     | model.offsetLike
+     | model.measureLike
+     | model.addressLike
+     | model.noteLike
+     | model.biblLike)*,
+    att.global.attributes,
+    att.typed.attributes,
+    att.datable.attributes,
+    att.editLike.attributes,
+    empty
+  }
+nationality =
+  
+  ## 包含一非正式的敘述，表示個人現在或過去擁有的國籍或公民身分。
+  element nationality {
+    macro.phraseSeq,
+    att.global.attributes,
+    att.datable.attributes,
+    att.editLike.attributes,
+    att.naming.attributes,
+    empty
+  }
+occupation =
+  
+  ## 包含非正式的敘述，表示個人所從事的行業或所屬的專業。
+  element occupation {
+    macro.phraseSeq,
+    att.global.attributes,
+    att.datable.attributes,
+    att.editLike.attributes,
+    att.naming.attributes,
+    
+    ## 提供標頭中元素taxonomy的識別符號，來標明所使用的分類系統或分類法。
+    attribute scheme { xsd:anyURI }?,
+    
+    ## 標明分類系統或分類法中所定義的職業代碼，該分類系統或分類法由屬性scheme所定義。
+    attribute code { xsd:anyURI }?,
+    empty
+  }
+org =
+  
+  ##  (organization) provides information about an identifiable organization such as a business, a tribe, or
+  ##         any other grouping of people.
+  element org {
+    (model.headLike*,
+     (model.pLike*
+      | (model.labelLike | model.nameLike | model.placeLike)*),
+     (model.noteLike | model.biblLike)*,
+     model.personLike*),
+    att.global.attributes,
+    att.typed.attributes,
+    att.editLike.attributes,
+    
+    ## specifies a primary role or classification for the organization.
+    attribute role {
+      list {
+        xsd:token { pattern = "(\p{L}|\p{N}|\p{P}|\p{S})+" }+
+      }
+    }?,
+    empty
+  }
+relationGrp =
+  
+  ##  (參與者關係) 描述一項語言互動中參與者之間的關係或社交關聯。
+  element relationGrp {
+    (model.pLike+ | relation+),
+    att.global.attributes,
+    att.typed.attributes,
+    empty
+  }
+person =
+  
+  ## 提供一個已知人物的相關資料，例如語言互動中的參與者、或是歷史來源中提及的人物。
+  element person {
+    (model.pLike+ | (model.personPart | model.global)*),
+    att.global.attributes,
+    att.editLike.attributes,
+    
+    ## 說明該人物的主要角色或分類。
+    attribute role {
+      list { xsd:Name+ }
+    }?,
+    
+    ## 指出該人物的性別。
+    attribute sex { "0" | "1" | "2" | "9" }?,
+    
+    ## 指出該人物所屬的年齡層。
+    attribute age { xsd:Name }?,
+    empty
+  }
+personGrp =
+  
+  ##  (人物團體) 描述一個為分析目的而被視為單一個人的團體。
+  element personGrp {
+    (model.pLike+ | model.personPart*),
+    att.global.attributes,
+    
+    ## 說明該團體在互動中所扮演的角色。
+    attribute role { xsd:Name }?,
+    
+    ## 指出該參與團體的性別。
+    attribute sex { ("0" | "1" | "2" | "9") | "mixed" }?,
+    
+    ## 指出該參與者所屬的年齡層。
+    attribute age { xsd:Name }?,
+    
+    ## 提供該團體的 (約略) 大小。
+    attribute size {
+      list {
+        xsd:token { pattern = "(\p{L}|\p{N}|\p{P}|\p{S})+" }+
+      }
+    }?,
+    empty
+  }
+place =
+  
+  ## contains data about a geographic location
+  element place {
+    (model.headLike*,
+     (model.pLike*
+      | (model.labelLike
+         | model.placeStateLike
+         | model.placeTraitLike
+         | model.placeEventLike)*),
+     (model.noteLike | model.biblLike)*,
+     (model.placeLike | listPlace)*),
+    
+    ## Key for the authority database.
+    attribute key {
+      xsd:token { pattern = "(\w{2}(\w|\d){7}\w\d{2}\w{2})|unknown" }
+    }?,
+    att.global.attributes,
+    att.typed.attributes,
+    att.editLike.attributes,
+    empty
+  }
+population =
+  
+  ## contains information about the population of a place.
+  element population {
+    (model.headLike*,
+     ((model.pLike+ | model.labelLike+),
+      (model.noteLike | model.biblLike)*)?,
+     population*),
+    att.global.attributes,
+    att.datable.attributes,
+    att.editLike.attributes,
+    att.naming.attributes,
+    att.typed.attributes,
+    empty
+  }
+relation =
+  
+  ##  (人際關係) 描述在特定團體中，參與者彼此之間的關係或關聯。
+  element relation {
+    (desc?)
+    >> sch:pattern [
+         id = "relation-constraint-activemutual"
+         sch:rule [
+           context = "tei:relation"
+           sch:report [
+             test = "@active and @mutual"
+             "Only one of the attributes\x{a}" ~
+             "	'active' and 'mutual' may be supplied"
+           ]
+         ]
+       ]
+    >> sch:pattern [
+         id = "relation-constraint-activepassive"
+         sch:rule [
+           context = "tei:relation"
+           sch:report [
+             test = "@passive and not(@active)"
+             "the attribute 'passive'\x{a}" ~
+             "	may be supplied only if the attribute 'active' is\x{a}" ~
+             "	supplied"
+           ]
+         ]
+       ],
+    att.global.attributes,
+    att.datable.attributes,
+    att.editLike.attributes,
+    att.naming.attributes,
+    
+    ## 將人際關係分類，例如社交、私交、或其他等。
+    ## Suggested values include: 1] social; 2] personal; 3] other
+    [ a:defaultValue = "personal" ]
+    attribute type {
+      
+      ## 社交生活上的關係
+      "social"
+      | 
+        ## 私人生活上的關係，例如親屬、婚姻關係等
+        "personal"
+      | 
+        ## 其他關係
+        "other"
+      | xsd:Name
+    }?,
+    
+    ## 提供該關係的確切名稱。
+    attribute name { xsd:Name },
+    
+    ## 指出非對等關係中的被動關係人。
+    attribute passive {
+      list { xsd:anyURI+ }
+    }?,
+    (
+     ## identifies the active participants in a non-mutual relationship, or all the participants in a mutual
+     ##                     one.
+     attribute active {
+       list { xsd:anyURI+ }
+     }?
+     | 
+       ## supplies a list of participants amongst all of whom the relationship holds equally.
+       attribute mutual {
+         list { xsd:anyURI+ }
+       }?),
+    empty
+  }
+residence =
+  
+  ##  (住所) 描述個人過去或現在的住所。
+  element residence {
+    macro.phraseSeq,
+    att.global.attributes,
+    att.datable.attributes,
+    att.editLike.attributes,
+    att.naming.attributes,
+    empty
+  }
+sex =
+  
+  ## 指明個人性別。
+  element sex {
+    macro.phraseSeq,
+    att.global.attributes,
+    att.editLike.attributes,
+    att.datable.attributes,
+    
+    ##
+    attribute value { "0" | "1" | "2" | "9" }?,
+    empty
+  }
+socecStatus =
+  
+  ##  (社會經濟地位) 包含個人的社會或經濟地位的非正式描述。
+  element socecStatus {
+    macro.phraseSeq,
+    att.global.attributes,
+    att.datable.attributes,
+    att.editLike.attributes,
+    att.naming.attributes,
+    
+    ## 指出所使用的分類系統或分類法。
+    attribute scheme { xsd:anyURI }?,
+    
+    ## 所標明的地位代號被定義在由屬性source所規定的分類系統或分類法當中。 
+    attribute code { xsd:anyURI }?,
+    empty
+  }
+state =
+  
+  ## 標明分界方法所定義的權威參照標準裡其中ㄧ個組件。
+  element state {
+    (state+
+     | (model.headLike*,
+        model.pLike+,
+        (model.noteLike | model.biblLike)*)
+     | (model.labelLike | model.noteLike | model.biblLike)*),
+    att.global.attributes,
+    att.datable.attributes,
+    att.editLike.attributes,
+    att.typed.attributes,
+    att.naming.attributes,
+    empty
+  }
+terrain =
+  
+  ## contains information about the physical terrain of a place.
+  element terrain {
+    (model.headLike*,
+     (model.pLike+ | model.labelLike+),
+     (model.noteLike | model.biblLike)*,
+     terrain*),
+    att.global.attributes,
+    att.datable.attributes,
+    att.editLike.attributes,
+    att.naming.attributes,
+    att.typed.attributes,
+    empty
+  }
+trait =
+  
+  ## contains a description of some culturally-determined and in principle unchanging characteristic attributed to a person or place .
+  element trait {
+    (trait+
+     | (model.headLike*,
+        model.pLike+,
+        (model.noteLike | model.biblLike)*)
+     | (model.labelLike | model.noteLike | model.biblLike)*),
+    att.global.attributes,
+    att.datable.attributes,
+    att.editLike.attributes,
+    att.naming.attributes,
+    att.typed.attributes,
+    empty
+  }
+nym =
+  
+  ##  (canonical name) 包含一標準名稱或任何部分名稱的定義。
+  element nym {
+    (model.entryPart*, model.pLike*, nym*),
+    att.global.attributes,
+    att.typed.attributes,
+    
+    ## 連結到組成的正式名稱
+    
+    ## Sorry, unable to create schema that uses actual counts minOccurs=1 and maxOccurs=100; approximating to minOccurs=1 and maxOccurs=unbounded.
+    attribute parts {
+      list { xsd:anyURI, xsd:anyURI* }
+    }?,
+    empty
+  }
+listNym =
+  
+  ##  (list of canonical names) 包含一正式名稱列表，即任何事物的標準名稱。
+  element listNym {
+    (model.headLike*, (nym | listNym)+, (relationGrp | relation)*),
+    att.global.attributes,
+    att.typed.attributes,
+    att.declarable.attributes,
+    empty
+  }
+att.datable.iso.attributes =
+  att.datable.iso.attribute.when-iso,
+  att.datable.iso.attribute.notBefore-iso,
+  att.datable.iso.attribute.notAfter-iso,
+  att.datable.iso.attribute.from-iso,
+  att.datable.iso.attribute.to-iso,
+  empty
+att.datable.iso.attribute.when-iso =
+  
+  ## supplies the value of a date or time in a standard form.
+  attribute when-iso {
+    xsd:date
+    | xsd:gYear
+    | xsd:gMonth
+    | xsd:gDay
+    | xsd:gYearMonth
+    | xsd:gMonthDay
+    | xsd:time
+    | xsd:dateTime
+    | xsd:token { pattern = "[0-9.,DHMPRSTWYZ/:+\-]+" }
+  }?
+att.datable.iso.attribute.notBefore-iso =
+  
+  ## 以標準格式標明該事件可能發生的最早日期，例如年-月-日。
+  attribute notBefore-iso {
+    xsd:date
+    | xsd:gYear
+    | xsd:gMonth
+    | xsd:gDay
+    | xsd:gYearMonth
+    | xsd:gMonthDay
+    | xsd:time
+    | xsd:dateTime
+    | xsd:token { pattern = "[0-9.,DHMPRSTWYZ/:+\-]+" }
+  }?
+att.datable.iso.attribute.notAfter-iso =
+  
+  ## 以標準格式標明該事件可能發生的最晚日期，例如年-月-日。
+  attribute notAfter-iso {
+    xsd:date
+    | xsd:gYear
+    | xsd:gMonth
+    | xsd:gDay
+    | xsd:gYearMonth
+    | xsd:gMonthDay
+    | xsd:time
+    | xsd:dateTime
+    | xsd:token { pattern = "[0-9.,DHMPRSTWYZ/:+\-]+" }
+  }?
+att.datable.iso.attribute.from-iso =
+  
+  ## 以標準格式表示該段時間的起始點。
+  attribute from-iso {
+    xsd:date
+    | xsd:gYear
+    | xsd:gMonth
+    | xsd:gDay
+    | xsd:gYearMonth
+    | xsd:gMonthDay
+    | xsd:time
+    | xsd:dateTime
+    | xsd:token { pattern = "[0-9.,DHMPRSTWYZ/:+\-]+" }
+  }?
+att.datable.iso.attribute.to-iso =
+  
+  ## 以標準格式表示該段時間的結束點。
+  attribute to-iso {
+    xsd:date
+    | xsd:gYear
+    | xsd:gMonth
+    | xsd:gDay
+    | xsd:gYearMonth
+    | xsd:gMonthDay
+    | xsd:time
+    | xsd:dateTime
+    | xsd:token { pattern = "[0-9.,DHMPRSTWYZ/:+\-]+" }
+  }?
+model.rdgLike = rdg
+app =
+  
+  ##  (學術編輯註解項目) 一項學術編輯註解，內含一個不必備主題以及至少一個對應本。
+  element app {
+    (model.global*,
+     (lem, model.global*, (wit, model.global*)?)?,
+     ((model.rdgLike, model.global*, (wit, model.global*)?)
+      | (rdgGrp, model.global*, (wit, model.global*)?))*),
+    att.global.attributes,
+    
+    ## 利用合適的分類法將此元素所標記的變異分類。
+    attribute type { xsd:Name }?,
+    
+    ## 必要情況下，指出基礎文件中該主題的開端。
+    attribute from { xsd:anyURI }?,
+    
+    ## 必要情況下，指出基礎文件中該主題的結尾。
+    attribute to { xsd:anyURI }?,
+    
+    ##  (location) 使用學術編輯註解標記的位置參照辦法時，指出變異的位置。
+    attribute loc {
+      list {
+        xsd:token { pattern = "(\p{L}|\p{N}|\p{P}|\p{S})+" }+
+      }
+    }?,
+    empty
+  }
+lem =
+  
+  ##  (主題) 包含一個原文變異的主題或基礎文件。
+  element lem {
+    (text
+     | model.gLike
+     | model.phrase
+     | model.inter
+     | model.global
+     | model.rdgPart)*,
+    att.global.attributes,
+    att.textCritical.attributes,
+    empty
+  }
+rdg =
+  
+  ##  (對應本) 包含原文變異中的一個對應本。
+  element rdg {
+    (text
+     | model.gLike
+     | model.phrase
+     | model.inter
+     | model.global
+     | model.rdgPart)*,
+    att.global.attributes,
+    att.textCritical.attributes,
+    empty
+  }
+rdgGrp =
+  
+  ##  (對應本群組) 原文變異中，匯集兩個或多個認為具有根源關係或於其他方面性質類似的對應本。
+  element rdgGrp {
+    ((rdgGrp, wit?)
+     | ((lem, wit?)?, (model.rdgLike, wit?))*)+,
+    att.global.attributes,
+    att.textCritical.attributes,
+    empty
+  }
+witDetail =
+  
+  ## 進一步提供一個特殊對應本的特殊版本資訊。
+  element witDetail {
+    macro.phraseSeq,
+    att.global.attributes,
+    att.placement.attributes,
+    att.responsibility.attributes,
+    att.pointing.attributes,
+    
+    ##  (witnesses) 標明細節資訊所指版本的一個或多個印記。
+    attribute wit {
+      list { xsd:anyURI+ }
+    },
+    
+    ## 版本的資訊種類。
+    attribute type { xsd:Name }?,
+    empty
+  }
+wit =
+  
+  ## 原文變異中，表明已知對應本版本的一個或多個印記的列表。
+  element wit {
+    macro.phraseSeq,
+    att.global.attributes,
+    att.rdgPart.attributes,
+    empty
+  }
+listWit =
+  
+  ##  (witness list) lists definitions for all the witnesses referred to by a critical
+  ##   apparatus, optionally grouped hierarchically.
+  element listWit {
+    (model.headLike?, (witness | listWit)+),
+    att.global.attributes,
+    empty
+  }
+witness =
+  
+  ## 包含學術編輯註解中所指的單一版本描述，或由一個印記所參照的版本列表。
+  element witness { macro.limitedContent, att.global.attributes, empty }
+witStart =
+  
+  ## 指明零散版本文字的開端或重新開始。
+  element witStart {
+    empty, att.global.attributes, att.rdgPart.attributes, empty
+  }
+witEnd =
+  
+  ## 指明零散版本文字的結尾或中止。
+  element witEnd {
+    empty, att.global.attributes, att.rdgPart.attributes, empty
+  }
+lacunaStart =
+  
+  ## 指出於大致完整的文字版本中，一個缺文的開始。
+  element lacunaStart {
+    empty, att.global.attributes, att.rdgPart.attributes, empty
+  }
+lacunaEnd =
+  
+  ## 指出於大致完整的文字版本中，一個缺文的結束。
+  element lacunaEnd {
+    empty, att.global.attributes, att.rdgPart.attributes, empty
+  }
+variantEncoding =
+  
+  ## 宣告在標記不同版本中的變異字體時所使用的方法。
+  element variantEncoding {
+    empty,
+    att.global.attributes,
+    
+    ## 指明標記變異的學術編輯註解時所使用的方法。
+    attribute method {
+      
+      ## 學術編輯註解使用基礎文件中被參照的行數或其他標準參照架構。
+      "location-referenced"
+      | 
+        ## 學術編輯註解指出與基礎文件相關的各主題起始與結束的確切位置
+        "double-end-point"
+      | 
+        ## 文件中一個段落的多個替代讀本以平行方式呈現；不需要基礎文件
+        "parallel-segmentation"
+    },
+    
+    ## 指出該學術編輯註解出現在連續文字內部或其外部。
+    attribute location {
+      
+      ## 學術編輯註解出現在連續文字內部
+      "internal"
+      | 
+        ## 學術編輯註解出現在基礎文件外部
+        "external"
+    },
+    empty
+  }
+model.rdgPart = wit | witStart | witEnd | lacunaStart | lacunaEnd
+att.rdgPart.attributes = att.rdgPart.attribute.wit, empty
+att.rdgPart.attribute.wit =
+  
+  ##  (witness or witnesses) 一個或多個印記列表，指出於此處開始或結束的版本。
+  attribute wit {
+    list { xsd:anyURI+ }
+  }?
+att.textCritical.attributes =
+  att.responsibility.attributes,
+  att.textCritical.attribute.wit,
+  att.textCritical.attribute.type,
+  att.textCritical.attribute.cause,
+  att.textCritical.attribute.varSeq,
+  att.textCritical.attribute.hand,
+  empty
+att.textCritical.attribute.wit =
+  
+  ##  (witness or witnesses) 包含一個或多個指標的一份列表，連結到已知對應本的版本。
+  attribute wit {
+    list { xsd:anyURI+ }
+  }?
+att.textCritical.attribute.type =
+  
+  ## 用合宜的分類法將對應本分類。
+  ## Sample values include: 1] substantive (substantif); 2] orthographic (orthographique)
+  attribute type { xsd:Name }?
+att.textCritical.attribute.cause =
+  
+  ## 利用可能來源的任何適當分類法，將變異對應本的產生原因分類。
+  ## Sample values include: 1] homeoteleuton; 2] homeoarchy; 3] paleographicConfusion; 4] haplography; 5] dittography; 6] falseEmendation
+  attribute cause { xsd:Name }?
+att.textCritical.attribute.varSeq =
+  
+  ##  (variant sequence) 當有理由假設任一主題的一系列變異對應本時，則提供一個數字，指出此對應本於連續系列中的位置。
+  attribute varSeq { xsd:nonNegativeInteger }?
+att.textCritical.attribute.hand =
+  
+  ## 指出該版本中特定對應本的負責人。
+  attribute hand { xsd:anyURI }?
+link =
+  
+  ## 定義元素或段落之間的關連或超文字連結，其他元素無法將此連結類型作更詳細說明。
+  element link {
+    empty
+    >> sch:pattern [
+         id = "link-constraint-linkTargets1"
+         sch:rule [
+           context = "tei:link"
+           sch:report [
+             test = "@target and @targets"
+             "You may not supply both \x{a}" ~
+             "	@target and @targets"
+           ]
+         ]
+       ]
+    >> sch:pattern [
+         id = "link-constraint-linkTargets2"
+         sch:rule [
+           context = "tei:link"
+           sch:report [
+             test = "not(@target) and not(@targets)"
+             "You must\x{a}" ~
+             "	supply either @target or @targets"
+           ]
+         ]
+       ]
+    >> sch:pattern [
+         id = "link-constraint-linkTargets3"
+         sch:rule [
+           context = "tei:link"
+           sch:assert [
+             test = "contains(@target,' ')"
+             "You must supply at least two\x{a}" ~
+             "values for @target"
+           ]
+         ]
+       ],
+    att.global.attributes,
+    att.pointing.attributes,
+    att.typed.attributes,
+    
+    ## 標明被連結元素或段落的識別符碼。
+    attribute targets {
+      list { xsd:anyURI, xsd:anyURI+ }
+    }?,
+    empty
+  }
+linkGrp =
+  
+  ## 定義一群關連或超文字連結的集合。
+  element linkGrp {
+    (link | ptr | note)+,
+    att.global.attributes,
+    att.pointing.group.attributes,
+    empty
+  }
+ab =
+  
+  ##  (匿名區塊) 包含文件中任何隨機組合性層次的單元，匿名收容類似一個段落、但不包含段落語義的字詞或中間層元素。
+  element ab {
+    macro.paraContent,
+    att.global.attributes,
+    att.typed.attributes,
+    att.declaring.attributes,
+    
+    ## 標明區塊是否完全。
+    [ a:defaultValue = "N" ]
+    attribute part {
+      
+      ##  (yes) 區塊不完全
+      "Y"
+      | 
+        ##  (no) 區塊完全，或完全程度不明
+        "N"
+      | 
+        ##  (initial) 不完全區塊的起始部分
+        "I"
+      | 
+        ##  (medial) 不完全區塊的中段部分
+        "M"
+      | 
+        ##  (final) 不完全區塊的末端部分
+        "F"
+    }?,
+    empty
+  }
+anchor =
+  
+  ##  (錨點) 在文件中某一位置附上識別符碼，無論該位置是否符合一個文字性元素。
+  element anchor {
+    empty, att.global.attributes, att.typed.attributes, empty
+  }
+seg =
+  
+  ##  (隨機分割) 包含文件中任何隨機字詞層次的單元 (包括其他分割元素)。
+  element seg {
+    macro.paraContent,
+    att.global.attributes,
+    att.segLike.attributes,
+    att.typed.attributes,
+    att.responsibility.attributes,
+    empty
+  }
+when =
+  
+  ## 指出一個時間點，相對或絕對於同一時間進程標籤裡的其他元素。
+  element when {
+    empty,
+    att.global.attributes,
+    
+    ## 提供一個絕對時間值。
+    attribute absolute {
+      xsd:date
+      | xsd:gYear
+      | xsd:gMonth
+      | xsd:gDay
+      | xsd:gYearMonth
+      | xsd:gMonthDay
+      | xsd:time
+      | xsd:dateTime
+    }?,
+    
+    ## 若未由父元素timeLine得到時間單位資訊，則在此指明屬性interval所使用的時間單位。
+    ## Suggested values include: 1] d (daysjoursgiornidías); 2] h (hoursheuresorehoras); 3] min (minutesminutosminuti); 4] s (secondssecondessecondisegundos); 5] ms (millisecondsmillisecondesmillesimi di secondomilésimas de segundo)
+    attribute unit {
+      
+      ##  (days) 
+      "d"
+      | 
+        ##  (hours) 
+        "h"
+      | 
+        ##  (minutes) 
+        "min"
+      | 
+        ##  (seconds) 
+        "s"
+      | 
+        ##  (milliseconds) 
+        "ms"
+      | xsd:Name
+    }?,
+    
+    ## 指明時間區段中的數值部份
+    attribute interval {
+      xsd:float { minExclusive = "0" }
+      | "unknown"
+    }?,
+    
+    ## 指出一個參照點，用以確定現有元素when的時間，可於參照點的時間內加入區段而取得。
+    attribute since { xsd:anyURI }?,
+    empty
+  }
+timeline =
+  
+  ##  (時間進程) 提供一組整齊的時間順序點，可與口說文本的元素相連結，以建立該文本的時間組序。
+  element timeline {
+    when+,
+    att.global.attributes,
+    
+    ## 標出時間進程的開頭，例如開始時間。
+    attribute origin { xsd:anyURI }?,
+    
+    ## 指出符合時間進程屬性interval的屬性值或是符合其接續時間點的時間單位。
+    ## Suggested values include: 1] d (daysjoursgiornidías); 2] h (hoursheuresorehoras); 3] min (minutesminutosminuti); 4] s (secondssecondessecondisegundos); 5] ms (millisecondsmillisecondesmillesimi di secondomilésimas de segundo)
+    attribute unit {
+      
+      ##  (days) 
+      "d"
+      | 
+        ##  (hours) 
+        "h"
+      | 
+        ##  (minutes) 
+        "min"
+      | 
+        ##  (seconds) 
+        "s"
+      | 
+        ##  (milliseconds) 
+        "ms"
+      | xsd:Name
+    }?,
+    
+    ## 指明時間區段中的數值部份
+    attribute interval {
+      xsd:float { minExclusive = "0" }
+      | "regular"
+      | "irregular"
+    }?,
+    empty
+  }
+join =
+  
+  ## 標明文本中可能的不完整分割，指向構成此不完整分割的可能不連接元素。
+  element join {
+    (model.glossLike*)
+    >> sch:pattern [
+         id = "join-constraint-joinTargets1"
+         sch:rule [
+           context = "tei:join"
+           sch:report [
+             test = "@target and @targets"
+             "You may not supply both \x{a}" ~
+             "	@target and @targets"
+           ]
+         ]
+       ]
+    >> sch:pattern [
+         id = "join-constraint-joinTargets2"
+         sch:rule [
+           context = "tei:join"
+           sch:report [
+             test = "not(@target) and not(@targets)"
+             "You must\x{a}" ~
+             "	supply either @target or @targets"
+           ]
+         ]
+       ]
+    >> sch:pattern [
+         id = "join-constraint-joinTargets3"
+         sch:rule [
+           context = "tei:join"
+           sch:assert [
+             test = "contains(@target,' ')"
+             "You must supply at least two\x{a}" ~
+             "values for @target"
+           ]
+         ]
+       ],
+    att.global.attributes,
+    att.pointing.attributes,
+    att.typed.attributes,
+    
+    ## 標明與一個虛擬元素相連結的元素或段落識別符碼。
+    attribute targets {
+      list { xsd:anyURI, xsd:anyURI+ }
+    }?,
+    
+    ## 指出一個推斷該元素集合所代表的元素名稱。
+    attribute result { xsd:Name }?,
+    
+    ## 指出被連結的目標是否包含所指元素的完整部份 (完整樹狀圖包含根節點) ，或僅包含該目標的子元素 (樹狀分支部份) 。
+    [ a:defaultValue = "root" ]
+    attribute scope {
+      
+      ## 由屬性target所指明、具根節點的樹狀圖彼此連結，每個樹狀圖成為該連結所產生之虛擬元素的子元素。
+      "root"
+      | 
+        ## 由屬性target所指明的樹狀圖的子元素成為虛擬元素的子元素 (例如捨去樹狀圖的根節點) 。
+        "branches"
+    }?,
+    empty
+  }
+joinGrp =
+  
+  ##  (連結群組) 匯集一群連結元素與可能指標。
+  element joinGrp {
+    (model.glossLike*, (join | ptr)+),
+    att.global.attributes,
+    att.pointing.group.attributes,
+    
+    ## 描述此集合中匯集的連結結果。
+    attribute result { xsd:Name }?,
+    empty
+  }
+att.global.linking.attributes =
+  att.global.linking.attribute.corresp,
+  att.global.linking.attribute.synch,
+  att.global.linking.attribute.sameAs,
+  att.global.linking.attribute.copyOf,
+  att.global.linking.attribute.next,
+  att.global.linking.attribute.prev,
+  att.global.linking.attribute.exclude,
+  att.global.linking.attribute.select,
+  empty
+att.global.linking.attribute.corresp =
+  
+  ##  (corresponds) 連結到的元素在某方面符合現有元素。
+  attribute corresp {
+    list { xsd:anyURI+ }
+  }?
+att.global.linking.attribute.synch =
+  
+  ##  (synchronous) 連結到的元素和現有元素同時出現。
+  attribute synch {
+    list { xsd:anyURI+ }
+  }?
+att.global.linking.attribute.sameAs =
+  
+  ## 連結到的元素和現有元素相同。
+  attribute sameAs { xsd:anyURI }?
+att.global.linking.attribute.copyOf =
+  
+  ## 現有元素為所連結元素的複製本。
+  attribute copyOf { xsd:anyURI }?
+att.global.linking.attribute.next =
+  
+  ## 連結到現有元素所屬虛擬集合中的下一個元素。
+  attribute next { xsd:anyURI }?
+att.global.linking.attribute.prev =
+  
+  ##  (previous) 連結到現有元素所屬虛擬集合中的上一個元素。
+  attribute prev { xsd:anyURI }?
+att.global.linking.attribute.exclude =
+  
+  ## 連結到的元素是現有元素的專有替換元素。
+  attribute exclude {
+    list { xsd:anyURI+ }
+  }?
+att.global.linking.attribute.select =
+  
+  ## 選擇一個或多個替換；若選擇一個替換，則疑惑或不明確被標記為已解決。若選擇的替換多於一個，則疑惑或不明確的程度因為未選擇的替換而被標記為減低。
+  attribute select {
+    list { xsd:anyURI+ }
+  }?
+textDesc =
+  
+  ##  (文本描述) 提供文本在情境特徵方面的相關描述。
+  element textDesc {
+    (model.textDescPart_sequence, purpose+),
+    att.global.attributes,
+    att.declarable.attributes,
+    empty
+  }
+particDesc =
+  
+  ##  (參與描述) 描述在一個語言互動中可辨識的說話者、聲音或其他參與者。
+  element particDesc {
+    (model.pLike+ | (model.personLike | listPerson)+),
+    att.global.attributes,
+    att.declarable.attributes,
+    empty
+  }
+settingDesc =
+  
+  ##  (背景描述) 描述語言互動所發生的一個或多個背景，可用一段散文描述或是一系列的背景元素來表達。
+  element settingDesc {
+    (model.pLike+ | (setting | model.placeLike | listPlace)+),
+    att.global.attributes,
+    att.declarable.attributes,
+    empty
+  }
+channel =
+  
+  ##  (主要途徑) 描述文本傳達的媒介或途徑。書面文本的途徑可能是印製、手稿、寫本、電子郵件等；口說文本則有廣播、電話、面對面交談等。
+  element channel {
+    macro.phraseSeq.limited,
+    att.global.attributes,
+    
+    ## 說明該途徑為口說或書面模式。
+    [ a:defaultValue = "x" ]
+    attribute mode {
+      
+      ##  (spoken) 
+      "s"
+      | 
+        ##  (written) 
+        "w"
+      | 
+        ##  (spoken to be written) 為寫而說 (例如聽寫) 　
+        "sw"
+      | 
+        ##  (written to be spoken) 為說而寫 (例如稿子) 　
+        "ws"
+      | 
+        ##  (mixed) 
+        "m"
+      | 
+        ##  (unknown or inapplicable) 
+        "x"
+    }?,
+    empty
+  }
+constitution =
+  
+  ## 描述文本或文本樣本的內部結構，例如零碎的或完整的結構。
+  element constitution {
+    macro.phraseSeq.limited,
+    att.global.attributes,
+    
+    ## 說明文本構成方式。
+    [ a:defaultValue = "single" ]
+    attribute type {
+      
+      ## 單一完整的文本
+      "single"
+      | 
+        ## 文本由許多小項目所組成，每個個別項目都是完整的
+        "composite"
+      | 
+        ##  (fragments) 文本由許多小項目所組成，每個項目不一定完整
+        "frags"
+      | 
+        ## 文本結構未知或未加以說明
+        "unknown"
+    }?,
+    empty
+  }
+derivation =
+  
+  ## 描述文本的特性與原創性的程度。
+  element derivation {
+    macro.phraseSeq.limited,
+    att.global.attributes,
+    
+    ## 將文本來歷分類。
+    ## Sample values include: 1] original; 2] revision; 3] translation; 4] abridgment; 5] plagiarism; 6] traditional
+    attribute type { xsd:Name }?,
+    empty
+  }
+domain =
+  
+  ##  (應用領域) 描述該文本最重要的應用領域或是社會用途所在，例如私人與公共、教育、宗教等。
+  element domain {
+    macro.phraseSeq.limited,
+    att.global.attributes,
+    
+    ## 將應用領域分類。
+    ## Sample values include: 1] art; 2] domestic; 3] religious; 4] business; 5] education; 6] govt (government정부gouvernementgovernativogubernamental y legal); 7] public
+    attribute type { xsd:Name }?,
+    empty
+  }
+factuality =
+  
+  ## 描述該文本內容可能被認定為想像的程度、所描繪的為虛構或真實的世界。
+  element factuality {
+    macro.phraseSeq.limited,
+    att.global.attributes,
+    
+    ## 將文本的真實性分類。
+    attribute type {
+      
+      ## 文本為完全虛構
+      "fiction"
+      | 
+        ## 文本完全根據事實
+        "fact"
+      | 
+        ## 文本內容部分虛構、部分根據事實
+        "mixed"
+      | 
+        ## 該文本不適宜使用虛構／真實的區分方法
+        "inapplicable"
+    }?,
+    empty
+  }
+interaction =
+  
+  ## 描述文本創作者與體驗者之間互動關係的規範、基數和特性，例如回應或感嘆、評論等。
+  element interaction {
+    macro.phraseSeq.limited,
+    att.global.attributes,
+    
+    ## 說明文本中主動與被動參與者之間的互動程度。
+    attribute type {
+      
+      ## 無任何互動，例如獨白
+      "none"
+      | 
+        ## 某種程度上的互動，例如具有背景回應的獨白
+        "partial"
+      | 
+        ## 完全性的互動，例如面對面交談
+        "complete"
+      | 
+        ## 這項特性在此不適當或不適用
+        "inapplicable"
+    }?,
+    
+    ## 說明創作文本部份內容的主動參與者 (或傳達者) 的人數。
+    ## Suggested values include: 1] singular; 2] plural; 3] corporate; 4] unknown
+    attribute active {
+      
+      ## 一位傳達者
+      "singular"
+      | 
+        ## 多位傳達者
+        "plural"
+      | 
+        ## 集體傳達者
+        "corporate"
+      | 
+        ## 傳達人數未知或未指明
+        "unknown"
+      | xsd:Name
+    }?,
+    
+    ## 說明文本內容的被動參與者 (或接收者) 的人數，被動參與者即為文本產生或呈現的對象。
+    ## Suggested values include: 1] self; 2] single; 3] many; 4] group; 5] world
+    attribute passive {
+      
+      ## 文本內容傳遞給原創作者，例如日記
+      "self"
+      | 
+        ## 文本內容傳遞給另一個人，例如私人信件
+        "single"
+      | 
+        ## 文本內容傳遞給一群人數可計的對象，例如參與者身分皆明確的一場對話
+        "many"
+      | 
+        ## 文本內容傳遞給一群身分不明確但人數固定的參與者，例如授課
+        "group"
+      | 
+        ## 文本內容傳遞給眾多身分不明確、數量亦不固定的參與者，例如出版的書籍
+        "world"
+      | xsd:Name
+    }?,
+    empty
+  }
+preparedness =
+  
+  ## 描述文本可能被視為經過準備或自然呈現的程度。
+  element preparedness {
+    macro.phraseSeq.limited,
+    att.global.attributes,
+    
+    ## 說明準備程度的類型。
+    ## Sample values include: 1] none; 2] scripted; 3] formulaic; 4] revised
+    attribute type { xsd:Name }?,
+    empty
+  }
+purpose =
+  
+  ## 描述該文本的一項目的或溝通功能
+  element purpose {
+    macro.phraseSeq.limited,
+    att.global.attributes,
+    
+    ## 說明一項特定類型的目的。
+    ## Suggested values include: 1] persuade; 2] express; 3] inform; 4] entertain
+    attribute type {
+      
+      ## 教導、廣告、宣傳等
+      "persuade"
+      | 
+        ## 自我表達、自白等
+        "express"
+      | 
+        ## 傳達訊息、教育等
+        "inform"
+      | 
+        ## 消遣、娛樂等
+        "entertain"
+      | xsd:Name
+    }?,
+    
+    ## 說明該目的所佔的重要性程度。
+    attribute degree { "high" | "medium" | "low" | "unknown" }?,
+    empty
+  }
+setting =
+  
+  ## 描述語言互動發生的一個特定背景。
+  element setting {
+    (model.pLike+
+     | (model.nameLike.agent | model.dateLike | model.settingPart)*),
+    att.global.attributes,
+    att.ascribed.attributes,
+    empty
+  }
+locale =
+  
+  ## 包含簡短非正式的文字描述地點的性質，例如房間、餐廳、公園長椅等。
+  element locale {
+    macro.phraseSeq.limited, att.global.attributes, empty
+  }
+activity =
+  
+  ## 包含簡短非正式的文字，描述一個對話參與者除了說話以外其他可能的動作。
+  element activity {
+    macro.phraseSeq.limited, att.global.attributes, empty
+  }
+start = TEI | teiCorpus

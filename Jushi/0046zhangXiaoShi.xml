@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="jsz0204a12zhangXiaoShi">
+    <p><anchor n="X.88.1646.0204a12"/><lb ed="X" n="0204a12"/><persName key="A016657">張孝始</persName>名<persName key="A016657">元</persName>。河北<placeName key="PL000000005150">芮城</placeName>人。祖<persName key="A016658">成</persName>。仕周。假<placeName key="PL000000005695">平陽</placeName>郡守。父<lb ed="X" n="0204a13"/><persName key="A016659">延儁</persName>。歷州郡功曹主簿。<persName key="A016657">孝始</persName>性仁孝。敬信佛法。兒時<lb ed="X" n="0204a14"/>見村陌間有棄狗子者。收養之。其叔父怒之曰。何用<lb ed="X" n="0204a15"/>為。對曰。有生之類。莫不重其性命。天生之而人棄之。<lb ed="X" n="0204a16"/>非其道也。見而不収是不仁也。其祖喪明三年。<persName key="A016657">孝始</persName><lb ed="X" n="0204a17"/>年十六。晝夜誦佛經禮拜祈福。後讀藥師經。見盲者<lb ed="X" n="0204a18"/>得視之言。遂請七僧然七燈七日七夜轉藥師經。唱<lb ed="X" n="0204a19"/>言。<persName key="A016657">元</persName>為孫不孝。使祖喪明。今以燈光普施法界。願祖<lb ed="X" n="0204a20"/>目復明。<persName key="A016657">元</persName>罪深重。願瞎<persName key="A016657">元</persName>眼。至第七日。夢一老翁以<lb ed="X" n="0204a21"/>金鎞刮其祖目。後三日。祖目果明。縣博士<persName key="A016662">楊軏</persName>等上<lb ed="X" n="0204a22"/>其孝行。詔表其門(北史)。</p> 
+    
+    <linkGrp>
+        <link targets="0204a12 #0204a13"/>
+        <ptr target="#A016657" type="person"/>
+        <ptr target="#A016658" type="person"/>
+        <ptr target="#A016659" type="person"/>
+        <ptr target="unknown" type="place"/>
+        </linkGrp>
+    <linkGrp>
+        <link targets="0204a16 #0204a21"/>
+        <ptr target="#A016657" type="person"/>
+        <ptr target="#A016658" type="person"/>
+        <ptr target="unknown" type="place"/>
+        </linkGrp>
+ </div>

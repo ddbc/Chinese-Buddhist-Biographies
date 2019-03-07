@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="jsz0215a24wangJingChu">
+    <head><anchor n="X.88.1646.0215a24"/><lb ed="X" n="0215a24"/><persName key="A017324">王敬初</persName><persName key="A003990">陳操</persName><persName key="A007166">甘行者</persName><persName key="A010145">張秀才</persName>傳</head>
+    <p><lb ed="X" n="0215b01"/><persName key="A017324">王敬初</persName><placeName key="PL000000027118">襄州</placeName>人。初見<placeName key="PL000000012005">睦州</placeName><persName key="A003629">陳尊宿</persName>。<persName key="A003629">尊宿</persName>曰。今日何故<lb ed="X" n="0215b02"/>入院遲。<persName key="A017324">敬初</persName>曰。看打毬來。<persName key="A003629">尊宿</persName>曰。人打毬。馬打毬。答<lb ed="X" n="0215b03"/>曰人打毬。曰人困麼。曰困。曰露柱困麼。<persName key="A017324">敬初</persName>惘然。歸<lb ed="X" n="0215b04"/>至私第。中夜忽然有省。明日見<persName key="A003629">尊宿</persName>以告。<persName key="A003629">尊宿</persName>曰。露<lb ed="X" n="0215b05"/>柱困麼。曰困。歷官至常侍視事次。<persName key="A017329">米和尚</persName>至。<persName key="A017324">敬初</persName>舉<lb ed="X" n="0215b06"/>筆示之。<ref target="#A017329" type="person">米</ref>曰還判得虗空否。<persName key="A017324">敬初</persName>擲筆入宅。更不復<lb ed="X" n="0215b07"/>出。<ref target="#A017329" type="person">米</ref>疑之。明日屬<placeName key="PL000000024069">鼓山</placeName>供養主探其意。<ref target="#A017329" type="person">米</ref>亦隨至。匿<lb ed="X" n="0215b08"/>於屏間。供養主問曰。昨日<persName key="A017329">米和尚</persName>有何言句便不相<lb ed="X" n="0215b09"/>見。答曰。獅子咬人。韓盧逐塊。<ref target="#A017329" type="person">米</ref>聞即省前過。遽出笑<lb ed="X" n="0215b10"/>曰我會也。<persName key="A017324">敬初</persName>曰試道看。<ref target="#A017329" type="person">米</ref>曰請<ref target="#A017324" type="person">常侍</ref>舉。<persName key="A017324">敬初</persName>豎起<lb ed="X" n="0215b11"/>一箸。<ref target="#A017329" type="person">米</ref>曰這野狐精。<persName key="A017324">敬初</persName>曰這漢徹也。一日問僧。一<lb ed="X" n="0215b12"/>切眾生還有佛性也無。僧曰無。<persName key="A017324">敬初</persName>指壁上畫狗曰<lb ed="X" n="0215b13"/>這箇還有也無。僧不對。<persName key="A017324">敬初</persName>代答曰看齩著汝。又甞<lb ed="X" n="0215b14"/>與<persName key="A003627">臨濟</persName>到僧堂問曰。這一堂僧還看經麼。<persName key="A003627">臨濟</persName>曰不<lb ed="X" n="0215b15"/>看經。曰還習禪麼。曰不習禪。<persName key="A017324">敬初</persName>曰。既不看經又不<lb ed="X" n="0215b16"/>習禪。畢竟作個甚麼。曰總教伊成佛作祖去。<persName key="A017324">敬初</persName>曰。<lb ed="X" n="0215b17"/>金屑雖貴。落眼成翳。<persName key="A003627">臨濟</persName>曰。將謂你是俗漢。後嗣法<lb ed="X" n="0215b18"/><placeName key="PL000000028694">溈山</placeName><persName key="A001984">祐公</persName>(五燈會元．先覺宗乘)。</p> 
+    
+    <linkGrp>
+        <link targets="#0215b01 #0215b05"/>
+        <ptr target="#A017324" type="person"/>
+        <ptr target="#A003629" type="person"/>
+        <ptr target="unknown" type="place"/>
+        </linkGrp> 
+    <linkGrp>
+        <link targets="#0215b05 #0215b11"/>
+        <ptr target="#A017324" type="person"/>
+        <ptr target="#A017329" type="person"/>
+        <ptr target="unknown" type="place"/>
+        </linkGrp>
+    <linkGrp>
+        <link targets="#0215b13 #0215b17"/>
+        <ptr target="#A017324" type="person"/>
+        <ptr target="#A003627" type="person"/>
+        <ptr target="unknown" type="place"/>
+        </linkGrp>
+    <linkGrp>
+        <link targets="#0215b17 #0215b18"/>
+        <ptr target="#A017324" type="person"/>
+        <ptr target="#A001984" type="person"/>
+        <ptr target="unknown" type="place"/>
+        </linkGrp>
+ </div>
