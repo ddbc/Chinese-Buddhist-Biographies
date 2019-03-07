@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0397b05daoFu">
-    <head><lb ed="X" n="0397b05"/>　　　　<persName key="A015696">鳳頭祖師</persName>傳</head>
-    <p><anchor n="X.77.1524.0397b06"/><lb ed="X" n="0397b06"/><persName key="A015696">道孚</persName>。字<persName key="A015696">信庵</persName>。<placeName key="PL000000009004">江浦</placeName>劉氏子。善習表於兒戲。利根發于
+    <head><lb ed="X" n="0397b05"/>　　　　<persName key="A008899">鳳頭祖師</persName>傳</head>
+    <p><anchor n="X.77.1524.0397b06"/><lb ed="X" n="0397b06"/><persName key="A008899">道孚</persName>。字<persName key="A008899">信庵</persName>。<placeName key="PL000000009004">江浦</placeName>劉氏子。善習表於兒戲。利根發于
         <lb ed="X" n="0397b07"/>童心。<date key="j22353212235686" when-iso="1408">七歲</date>入學堂。先生授以書。不肯讀。讀又不肯竟。
         <lb ed="X" n="0397b08"/>曰。此書非我所喜。先生亦非我師。乃依<placeName key="PL000000008741">靈谷</placeName><persName key="A007068">慶叟</persName>。為
         <lb ed="X" n="0397b09"/>弟子。落髮衣緇。昕夕禮<persName key="A002803">觀音</persName>。發聰智。通唯識涅槃諸
@@ -11,8 +11,8 @@
         <lb ed="X" n="0397b13"/><placeName key="PL000000000323">京師</placeName>。館於<placeName key="PL000000000244">慶壽丈室</placeName>。師執侍惟謹。　上嘉之。賜西服
         <lb ed="X" n="0397b14"/>茜衣。師牢讓不服。尋游<placeName key="PLG00000000018">江浙</placeName>。受滿分戒。入<placeName key="PL000000005250">五臺</placeName>。覩聖
         <lb ed="X" n="0397b15"/>相攝身光中。奇幻百出。轉念之頃。倐忽不見。歎曰。古
-        <lb ed="X" n="0397b16"/>人所云。一翳在眼。空華亂墜。因自號<persName key="A015696">知幻子</persName>。　<persName key="A006683">英廟</persName>
-        <lb ed="X" n="0397b17"/>聞師名。召見大悅。呼為<persName key="A015696">鳳頭</persName>和尚。葢以師頭前銳起
+        <lb ed="X" n="0397b16"/>人所云。一翳在眼。空華亂墜。因自號<persName key="A008899">知幻子</persName>。　<persName key="A006683">英廟</persName>
+        <lb ed="X" n="0397b17"/>聞師名。召見大悅。呼為<persName key="A008899">鳳頭</persName>和尚。葢以師頭前銳起
         <lb ed="X" n="0397b18"/>也。尋授僧錄講經。未幾告退。結茆于山中。扁曰松樾。
         <lb ed="X" n="0397b19"/>屏息諸緣。不妄交接。唯苦心真寔之士。得以相依。餐
         <lb ed="X" n="0397b20"/>服遐異。悠然自適。若將終身焉。先是。司禮<persName key="A021695">阮公簡</persName>。得
@@ -43,35 +43,35 @@
     
     <linkGrp>
         <link targets="#0397b06 #0397b07"/>
-        <ptr target="#A015696" type="person"/>
+        <ptr target="#A008899" type="person"/>
         <ptr target="#PL000000009004" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0397b07 #0397b07"/>
-        <ptr target="#A015696" type="person"/>
+        <ptr target="#A008899" type="person"/>
         <ptr target="#j22353212235686" type="time"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0397b07 #0397b11"/>
         <ptr target="#A007068" type="person"/>
-        <ptr target="#A015696" type="person"/>
+        <ptr target="#A008899" type="person"/>
         <ptr target="#PL000000008741" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0397b11 #0397b12"/>
-        <ptr target="#A015696" type="person"/>
+        <ptr target="#A008899" type="person"/>
         <ptr target="#A021694" type="person"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0397b11 #0397b13"/>
-        <ptr target="#A015696" type="person"/>
+        <ptr target="#A008899" type="person"/>
         <ptr target="#A021694" type="person"/>
         <ptr target="#PL000000000244" type="place"/>
         <ptr target="#j22419432242296" type="time"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0397b11 #0397b14"/>
-        <ptr target="#A015696" type="person"/>
+        <ptr target="#A008899" type="person"/>
         <ptr target="#A021694" type="person"/>
         <ptr target="#A006682" type="person"/>
         <ptr target="#PL000000000323" type="place"/>
@@ -79,22 +79,22 @@
     </linkGrp>
     <linkGrp>
         <link targets="#0397b14 #0397b14"/>
-        <ptr target="#A015696" type="person"/>
+        <ptr target="#A008899" type="person"/>
         <ptr target="#PLG00000000018" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0397b14 #0397b16"/>
-        <ptr target="#A015696" type="person"/>
+        <ptr target="#A008899" type="person"/>
         <ptr target="#PL000000005250" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0397b16 #0397b18"/>
-        <ptr target="#A015696" type="person"/>
+        <ptr target="#A008899" type="person"/>
         <ptr target="#A006683" type="person"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0397b20 #0397c05"/>
-        <ptr target="#A015696" type="person"/>
+        <ptr target="#A008899" type="person"/>
         <ptr target="#A021695" type="person"/>
         <ptr target="#PL000000000432" type="place"/>
     </linkGrp>
@@ -106,23 +106,23 @@
     </linkGrp>
     <linkGrp>
         <link targets="#0397c06 #0397c08"/>
-        <ptr target="#A015696" type="person"/>
+        <ptr target="#A008899" type="person"/>
         <ptr target="#A021699" type="person"/>
         <ptr target="#PL000000000360" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0397c08 #0397c09"/>
-        <ptr target="#A015696" type="person"/>
+        <ptr target="#A008899" type="person"/>
         <ptr target="#PL000000000252" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0397c10 #0397c11"/>
-        <ptr target="#A015696" type="person"/>
+        <ptr target="#A008899" type="person"/>
         <ptr target="#PL000000000323" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0397c13 #0397c15"/>
-        <ptr target="#A015696" type="person"/>
+        <ptr target="#A008899" type="person"/>
         <ptr target="#j22530552253055" type="time"/>
     </linkGrp>
 </div>

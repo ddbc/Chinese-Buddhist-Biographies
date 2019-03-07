@@ -59,19 +59,6 @@
         <ptr target="#PL000000034801" type="place"/>
     </linkGrp>
     <linkGrp>
-        <link targets="#0435c22 #0435c23"/>
-        <ptr target="#A004475" type="person"/>
-        <ptr target="#A008416" type="person"/>
-        <ptr target="#PL000000015465" type="place"/>
-    </linkGrp>
-    <linkGrp>
-        <link targets="#0435c21 #0436a03"/>
-        <ptr target="#A008412" type="person"/>
-        <ptr target="#A014620" type="person"/>
-        <ptr target="#A008416" type="person"/>
-        <ptr target="#PL000000015465" type="place"/>
-    </linkGrp>
-    <linkGrp>
         <link targets="#0436a03 #0436a04"/>
         <ptr target="#A008412" type="person"/>
         <ptr target="#PL000000055534" type="place"/>

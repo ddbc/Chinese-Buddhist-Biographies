@@ -28,8 +28,8 @@
         <lb ed="X" n="0475a19"/>行者。皆弗之見。或謂為<persName key="A002144">文殊</persName>化身云。師乃就山建<placeName key="PL000000005402">靈<lb ed="X" n="0475a20"/>鷲菴</placeName>。四方聞之。不遠千里。負餱糧來獻者。日繽紛也。
         <lb ed="X" n="0475a21"/>師悉儲之。以食游學之僧。多至千餘人。雖丁歲大儉。
         <lb ed="X" n="0475a22"/>亦不拒也。<date from-iso="1348-10-31" to-iso="1349-01-26" key="j22137112213798">至正戊子冬</date>。<persName key="A006676">順帝</persName>遣使者。召至<placeName key="PL000000000317">燕都</placeName>。慰勞
-        <lb ed="X" n="0475a23"/>甚至。<placeName key="PL000000048207">天竺</placeName>僧<persName key="A022299">指空</persName>。久留<placeName key="PL000000000317">燕</placeName>。相傳能前知。號為三百歲。
-        <lb ed="X" n="0475a24"/>人敬之如神。師往與叩擊。<persName key="A022299">空</persName>瞪視不答。及出<persName key="A022299">空</persName>歎曰。
+        <lb ed="X" n="0475a23"/>甚至。<placeName key="PL000000048207">天竺</placeName>僧<persName key="A000842">指空</persName>。久留<placeName key="PL000000000317">燕</placeName>。相傳能前知。號為三百歲。
+        <lb ed="X" n="0475a24"/>人敬之如神。師往與叩擊。<persName key="A000842">空</persName>瞪視不答。及出<persName key="A000842">空</persName>歎曰。
         <lb ed="X" n="0475b01"/>此真有道者也。夕大雪。有紅光自師室中起。上接霄
         <lb ed="X" n="0475b02"/>漢。<persName key="A006676">帝</persName>驚歎。賜以金紋伽黎衣。遣歸。<date from-iso="1349-01-27" to-iso="1350-02-14" key="j22137992214182">明年</date>復召見。命建
         <lb ed="X" n="0475b03"/>壇祈雨。輒應。賜<persName key="A008223">寂炤圓明</persName>之號。賜予一以賑饑乏。詔
@@ -108,13 +108,13 @@
     </linkGrp>
     <linkGrp>
         <link targets="#0475a23 #0475a23"/>
-        <ptr target="#A022299" type="person"/>
+        <ptr target="#A000842" type="person"/>
         <ptr target="#PL000000048207" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0475a23 #0475b01"/>
         <ptr target="#A008223" type="person"/>
-        <ptr target="#A022299" type="person"/>
+        <ptr target="#A000842" type="person"/>
         <ptr target="#PL000000000317" type="place"/>
         <ptr target="#j22137112213798" type="time"/>
     </linkGrp>

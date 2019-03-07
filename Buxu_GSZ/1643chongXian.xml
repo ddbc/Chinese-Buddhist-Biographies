@@ -70,12 +70,6 @@
         <ptr target="#PL000000008820" type="place"/>
     </linkGrp>
     <linkGrp>
-        <link targets="#0417a01 #0417a06"/>
-        <ptr target="#A000885" type="person"/>  
-        <ptr target="#A008416" type="person"/>
-        <ptr target="#PL000000027462" type="place"/>
-    </linkGrp>
-    <linkGrp>
         <link targets="#0417a06 #0417a11"/>
         <ptr target="#A000885" type="person"/>  
         <ptr target="#A021941" type="person"/>
