@@ -8,19 +8,19 @@
                </linkGrp>
                <linkGrp>
                               <link targets="#0355b06 #0355b08"/>
-                              <ptr target="#A002196" type="person"/>
+                              <ptr target="#A002195" type="person"/>
                               <ptr target="#A001503" type="person"/>
                               <ptr target="#PL000000004428" type="place"/>
                               <ptr type="time" target="#j18472881848919"/>
                </linkGrp>
                <linkGrp>
                               <link targets="#0355b08 #0355b09"/>
-                              <ptr target="#A002196" type="person"/>
+                              <ptr target="#A002195" type="person"/>
                               <ptr target="#PL000000027923" type="place"/>
                </linkGrp>
                <linkGrp>
                               <link targets="#0355b09 #0355b11"/>
-                              <ptr target="#A002196" type="person"/>
+                              <ptr target="#A002195" type="person"/>
                               <ptr target="#A014991" type="person"/>
                               <ptr target="#PL000000027116" type="place"/>
                </linkGrp>
