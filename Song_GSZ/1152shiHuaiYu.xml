@@ -1,29 +1,49 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" type="讀誦" xml:id="gsz0865a05shiHuaiYu"><lb
-ed="T" n="0865a05"/><anchor n="T.50.2061.0865a05"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date>台州湧泉寺<persName key="A011809">懷玉</persName>傳</head><p><lb
-ed="T" n="0865a06"/><persName key="A011809">釋懷玉</persName>，姓高，<placeName key="PL000000012388">丹丘</placeName>人也。執持律法，名節峭<lb
-ed="T" n="0865a07"/>然。一食長坐，蚤虱恣生，唯一布衣，行懺悔之<lb
-ed="T" n="0865a08"/>法課。其一日念彌陀佛五萬，口通誦彌陀<lb
-ed="T" n="0865a09"/>經三十萬卷。至<date key="j19922691992269" when-iso="+0742-07-19"><name>天寶</name>元年六月九日</date>，俄見西<lb
+ed="T" n="0865a05"/><anchor n="T.50.2061.0865a05"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date><placeName key="PL000000014872"><placeName>台州</placeName><placeName>湧泉寺</placeName></placeName><persName key="A011809">懷玉</persName>傳</head><p><lb
+ed="T" n="0865a06"/><persName key="A011809">釋懷玉</persName>，姓<name>高</name>，<placeName key="PL000000012388">丹丘</placeName>人也。執持律法，名節峭<lb
+ed="T" n="0865a07"/>然。一食<ptr type="glossary" target="#g2000"/>長坐，蚤虱恣生，唯一布衣，行懺悔之<lb
+ed="T" n="0865a08"/>法課<ptr target="#n3022"/>。其一日念<persName key="A002843">彌陀佛</persName>五萬口，通誦《彌陀<lb
+ed="T" n="0865a09"/>經》三十萬卷<ptr target="#n3023"/>。至<date key="j19922691992269" when-iso="+0742-07-19"><name>天寶</name>元年六月九日</date>，俄見西<lb
 ed="T" n="0865a10"/>方聖像數若恒沙，有一人擎白銀臺，從窓<lb
-ed="T" n="0865a11"/>而入。<persName key="A011809">玉</persName>云：「<persName key="A011809">我</persName>合得金臺。」銀臺却出，<persName key="A011809">玉</persName>倍虔<lb
+ed="T" n="0865a11"/>而入。<persName key="A011809">玉</persName>云：「<ref type="person" target="#A011809">我</ref>合得金臺。」銀臺却出，<persName key="A011809">玉</persName>倍虔<lb
 ed="T" n="0865a12"/>志。後空聲報云：「頭上已有光暈矣。請<anchor xml:id="beg0865001"/>跏<anchor xml:id="end0865001"/>趺<lb
 ed="T" n="0865a13"/>結彌陀佛印。」時佛光充室，<persName key="A011809">玉</persName>手約人退曰：<lb
-ed="T" n="0865a14"/>「莫觸此光明。」至<date key="j19922731992273" when-iso="+0742-07-23">十三日</date>丑時，再有白毫光<lb
-ed="T" n="0865a15"/>現，聖眾滿空。<persName key="A011809">玉</persName>云：「若聞異香，<persName key="A011809">我</persName>報將盡。」弟<lb
-ed="T" n="0865a16"/>子<persName key="A013557">慧命</persName>問：「<persName key="A011809">師</persName>今往何剎？」<persName key="A011809">玉</persName>以偈云：「清淨皎<lb
-ed="T" n="0865a17"/>潔無塵垢，蓮華化生為父母。<persName key="A011809">我</persName>修道來經<lb
-ed="T" n="0865a18"/>十劫，出示閻浮厭眾苦。一生苦行超十劫，<lb
+ed="T" n="0865a14"/>「莫觸此光明。」至<date key="j19922731992273" when-iso="+0742-07-23">十三日</date>丑時<ptr target="#n3024"/>，再有白毫光<lb
+ed="T" n="0865a15"/>現，聖眾滿空。<persName key="A011809">玉</persName>云：「若聞異香，<ref type="person" target="#A011809">我</ref>報將盡。」弟<lb
+ed="T" n="0865a16"/>子<persName key="A013557">慧命</persName>問：「<ref type="person" target="#A011809">師</ref>今往何剎？」<persName key="A011809">玉</persName>以偈云：「清淨皎<lb
+ed="T" n="0865a17"/>潔無塵垢，蓮華化生為父母。<ref type="person" target="#A011809">我</ref>修道來經<lb
+ed="T" n="0865a18"/>十劫<ptr target="#n3025"/>，出示<placeName key="PL000000055469">閻浮</placeName>厭眾苦。一生苦行超十劫，<lb
 ed="T" n="0865a19"/>永離娑婆歸淨土。」<persName key="A011809">玉</persName>說偈已，香氣盈空，海<lb
 ed="T" n="0865a20"/>眾遍滿，見<persName key="A002843">阿彌陀佛</persName>、<persName key="A002803">觀音</persName>、<persName key="A006106">勢至</persName>身紫金色，共<lb
 ed="T" n="0865a21"/>御金剛臺來迎。<persName key="A011809">玉</persName>含笑而終，肉身現在。後<lb
-ed="T" n="0865a22"/>有讚云：「我<persName key="A011809">師</persName>一念登初地，佛國笙歌兩度<lb
+ed="T" n="0865a22"/>有讚云：「<ref type="person" target="#A011809">我師</ref>一念登初地<ptr type="glossary" target="#g1802"/>，佛國笙歌兩度<lb
 ed="T" n="0865a23"/>來。唯有門前古槐樹，枝低只為挂銀臺。」一<lb
-ed="T" n="0865a24"/>云是<placeName key="PL000000014901">台州</placeName><anchor xml:id="beg0865002"/>刺<anchor xml:id="end0865002"/>史<persName key="A012079">段懷然</persName>詩也。</p>
+ed="T" n="0865a24"/>云是<placeName key="PL000000014901">台州</placeName><anchor xml:id="beg0865002"/>刺<anchor xml:id="end0865002"/>史<persName key="A012079">段懷然</persName>詩也<ptr target="#n3026"/>。</p>
     <linkGrp>
-        <link targets="#0865a06 #0865a21"/>
+        <link targets="#0865a05 #0865a05"/>
+        <ptr target="#A011809" type="person"/>
+        <ptr target="#PL000000014872" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0865a06 #0865a06"/>
+        <ptr target="#A011809" type="person"/>
+        <ptr target="#PL000000012388" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0865a09 #0865a13"/>
+        <ptr target="#A011809" type="person"/>
+        <ptr target="#j19922691992269" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0865a14 #0865a21"/>
         <ptr target="#A011809" type="person"/>
         <ptr target="#A013557" type="person"/>
+        <ptr target="#j19922731992273" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0865a24 #0865a24"/>
+        <ptr target="#A012079" type="person"/>
         <ptr target="#PL000000014901" type="place"/>
     </linkGrp>
 </div>

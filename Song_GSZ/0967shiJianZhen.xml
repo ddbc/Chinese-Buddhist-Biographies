@@ -1,51 +1,56 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" type="明律" xml:id="gsz0797a24shiJianZhen"><lb
-ed="T" n="0797a24"/><anchor n="T.50.2061.0797a24"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date><anchor xml:id="beg0797sgsz6"/>揚<anchor xml:id="end0797sgsz6"/>州大雲寺<persName key="A010883">鑒真</persName>傳</head><p><lb
-ed="T" n="0797a25"/><persName key="A010883">釋鑒真</persName>，姓淳于氏，<placeName key="PL000000010799">廣陵江陽縣</placeName>人也。總丱俊<lb
-ed="T" n="0797a26"/>明，器度宏博，能典謁矣。隨父入<placeName key="PL000000010775">大雲寺</placeName>，見<lb
+ed="T" n="0797a24"/><anchor n="T.50.2061.0797a24"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date><placeName key="PL000000010775"><placeName><anchor xml:id="beg0797sgsz6"/>揚<anchor xml:id="end0797sgsz6"/>州</placeName><placeName>大雲寺</placeName></placeName><persName key="A010883">鑒真</persName>傳</head><p><lb
+ed="T" n="0797a25"/><persName key="A010883">釋鑒真</persName>，姓<name>淳于</name>氏，<placeName key="PL000000010799"><placeName>廣陵</placeName><placeName>江陽縣</placeName></placeName>人也。總丱俊<lb
+ed="T" n="0797a26"/>明，器度宏博，能典謁矣<ptr type="glossary" target="#g440"/>。隨父入<placeName key="PL000000010775">大雲寺</placeName><ptr target="#n1076"/>，見<lb
 ed="T" n="0797a27"/>佛像，感動夙心，因白父求出家。父奇其志，<lb
-ed="T" n="0797a28"/>許焉。登便就<persName key="A010884">智滿禪師</persName>，循其獎訓。屬<date from-iso="+0701-11-30" key="j19774281977495" to-iso="+0702-02-05">天后<lb
-ed="T" n="0797a29"/><name>長安</name>元年</date>，詔於天下度僧。乃為息慈配住<pb ed="T" n="0797b" xml:id="T50.2061.0797b"/><lb
-ed="T" n="0797b01"/>本寺，後改為<placeName key="PL000000010775">龍興</placeName>。殆<date from-iso="+0705-02-25" key="j19786111978942" to-iso="+0706-01-22">中宗孝和帝<name>神龍</name>元年</date>，<lb
-ed="T" n="0797b02"/>從<persName key="A008876">道岸律師</persName>受菩薩戒。<date from-iso="+0707-10-09" key="j19795671979681" to-iso="+0708-01-31"><name>景龍</name>元年</date>，詣<placeName key="PL000000042189">長安</placeName>。<lb
-ed="T" n="0797b03"/>至<date key="j19797681979768" when-iso="+0708-04-27">二年三月二十八日</date>，於<placeName key="PL000000042269">實際寺</placeName>依荊州<persName key="A008970">恒<lb
-ed="T" n="0797b04"/>景律師</persName>邊得戒。雖新發意，有老成風，觀<lb
-ed="T" n="0797b05"/>光<placeName key="PL000000042189">兩</placeName><placeName key="PL000000023581">京</placeName>，名師陶誘。三藏教法，數稔該通，動必<lb
-ed="T" n="0797b06"/>研幾，曾無矜伐。言旋<placeName key="PL000000000092">淮海</placeName>，以戒律化誘，欝<lb
+ed="T" n="0797a28"/>許焉。登便就<persName key="A010884">智滿<roleName>禪師</roleName></persName>，循其獎訓<ptr type="glossary" target="#g927"/>。屬<persName key="A002099">天后</persName><lb
+ed="T" n="0797a29"/><date from-iso="+0701-11-30" key="j19774281977495" to-iso="+0702-02-05"><name>長安</name>元年</date>，詔於天下度僧。乃為息慈<ptr type="glossary" target="#g964"/>配住<pb ed="T" n="0797b" xml:id="T50.2061.0797b"/><lb
+ed="T" n="0797b01"/>本寺，後改為<placeName key="PL000000010775">龍興</placeName>。殆<persName key="A002100">中宗孝和帝</persName><date from-iso="+0705-02-25" key="j19786111978942" to-iso="+0706-01-22"><name>神龍</name>元年</date>，<lb
+ed="T" n="0797b02"/>從<persName key="A008876">道岸<roleName>律師</roleName></persName>受菩薩戒。<date from-iso="+0707-10-09" key="j19795671979681" to-iso="+0708-01-31"><name>景龍</name>元年</date>，詣<placeName key="PL000000042189">長安</placeName><ptr target="#n1078"/>。<lb
+ed="T" n="0797b03"/>至<date key="j19797681979768" when-iso="+0708-04-27">二年三月二十八日</date>，於<placeName key="PL000000042269">實際寺</placeName>依<placeName key="PL000000027770">荊州</placeName><persName key="A008970">恒<lb
+ed="T" n="0797b04"/>景<roleName>律師</roleName></persName>邊得戒。雖新發意，有老成風，觀<lb
+ed="T" n="0797b05"/>光<ref type="place" target="#PL000000042189 #PL000000023581">兩京</ref>，名師陶誘。三藏教法，數稔該通，動必<lb
+ed="T" n="0797b06"/>研幾<ptr rend="display:none;" type="glossary" target="#g441"/>，曾無矜伐<ptr target="#n1079"/>。言旋<placeName key="PL000000000092">淮海</placeName>，以戒律化誘，欝<lb
 ed="T" n="0797b07"/>為一方宗首。氷池印月，適足清明；<anchor xml:id="beg0797sgsz7"/><choice resp="sgsz"><sic>貌</sic><corr>猊</corr></choice><anchor xml:id="end0797sgsz7"/>座<lb
 ed="T" n="0797b08"/>揚音，良多響答。時<placeName key="PL000000048414">日本國</placeName>有沙門<persName key="A010886">榮叡</persName>、<persName key="A010887">普照</persName><lb
-ed="T" n="0797b09"/>等東來募法，用補缺然。於<date notBefore-iso="+0713-12-26" key="j19818371992113" notAfter-iso="+0742-02-13"><name>開元</name>年中</date>，達于<lb
-ed="T" n="0797b10"/><placeName key="PL000000010783"><anchor xml:id="beg0797sgsz8"/>揚<anchor xml:id="end0797sgsz8"/>州</placeName>，爰來請問，<anchor xml:id="beg0797sgsz9"/>禮<anchor xml:id="end0797sgsz9"/><persName key="A010883">真</persName>足曰：「<placeName key="PL000000048414">我國</placeName>在海之中，<lb
+ed="T" n="0797b09"/>等東來募法，用補缺然。於<date notBefore-iso="+0713-12-26" key="j19818371992113" notAfter-iso="+0742-02-13"><name>開元</name>年中</date><ptr target="#n1080"/>，達于<lb
+ed="T" n="0797b10"/><placeName key="PL000000010783"><anchor xml:id="beg0797sgsz8"/>揚<anchor xml:id="end0797sgsz8"/>州</placeName>，爰來請問，<anchor xml:id="beg0797sgsz9"/>禮<anchor xml:id="end0797sgsz9"/><persName key="A010883">真</persName>足曰：「<ref type="place" target="#PL000000048414">我國</ref>在海之中，<lb
 ed="T" n="0797b11"/>不知距<placeName key="PL000000020249">齊州</placeName>幾千萬里。雖有法而無傳<lb
 ed="T" n="0797b12"/>法人，譬猶終夜有求於幽室，非燭何見乎？<lb
-ed="T" n="0797b13"/>願<persName key="A010883">師</persName>可能輟此方之利樂，為海東之導師<lb
-ed="T" n="0797b14"/>乎！」<persName key="A010883">真</persName>觀其所以，察其翹勤，乃問之曰：「昔聞<lb
-ed="T" n="0797b15"/><placeName key="PL000000028928">南岳</placeName><persName key="A001711">思禪師</persName>生彼為國王，興隆佛法，是乎？<lb
-ed="T" n="0797b16"/>又聞<placeName key="PL000000048414">彼國</placeName><persName key="A010888">長屋</persName>曾造千袈裟來施<placeName key="PL000000000083">中華</placeName>名德，<lb
+ed="T" n="0797b13"/>願<ref type="person" target="#A010883">師</ref>可能輟此方之利樂，為<ref type="place" target="#PL000000048414">海東</ref>之導師<lb
+ed="T" n="0797b14"/>乎！」<ptr target="#n1082"/><persName key="A010883">真</persName>觀其所以，察其翹勤，乃問之曰：「昔聞<lb
+ed="T" n="0797b15"/><placeName key="PL000000028928">南岳</placeName><persName key="A001711">思<roleName>禪師</roleName></persName>生彼為國王，興隆佛法，是乎？<lb
+ed="T" n="0797b16"/>又聞<ref type="place" target="#PL000000048414">彼國</ref><persName key="A010888">長屋</persName>曾造千袈裟來施<placeName key="PL000000000083">中華</placeName>名德，<lb
 ed="T" n="0797b17"/>復於衣緣繡偈云：『山川異域，風月同天，寄<lb
 ed="T" n="0797b18"/>諸佛子，共結來緣。』以此思之，誠是佛法有<lb
 ed="T" n="0797b19"/>緣之地也。」默許行焉。所言<persName key="A010888">長屋</persName>者，則相國<lb
-ed="T" n="0797b20"/>也。<persName key="A010883">真</persName>乃<choice resp="sgsz"><sic>慕</sic><corr>募</corr></choice>比丘<persName key="A010889">思託</persName>等一十四人，買舟自<lb
-ed="T" n="0797b21"/><placeName key="PL000000010783">廣陵</placeName>齎經律法離岸，乃<date from-iso="+0743-07-01" key="j19926161992644" to-iso="+0743-07-29"><name>天寶</name>二載六月</date>也。<lb
-ed="T" n="0797b22"/>至<placeName key="PL000000013239">越州</placeName>浦，止<placeName key="PL000000013202">署風山</placeName>。<persName key="A010883">真</persName>夜夢甚靈異。纔出<lb
-ed="T" n="0797b23"/>洋，遇惡風濤，舟人顧其垂沒，有投棄𣝕香<lb
-ed="T" n="0797b24"/>木者。聞空中聲云：「勿棄投。」時見舳艫各<lb
+ed="T" n="0797b20"/>也。<persName key="A010883">真</persName>乃<choice resp="sgsz"><sic>慕</sic><corr>募</corr></choice>比丘<persName key="A010889">思託</persName>等一十四人<ptr target="#n1091"/>，買舟自<lb
+ed="T" n="0797b21"/><placeName key="PL000000010783">廣陵</placeName>齎經、律法離岸，乃<date from-iso="+0743-07-01" key="j19926161992644" to-iso="+0743-07-29"><name>天寶</name>二載六月</date>也<ptr target="#n1092"/>。<lb
+ed="T" n="0797b22"/>至<placeName key="PL000000013239">越州</placeName>浦，止<placeName key="PL000000013202">署風山</placeName>。<persName key="A010883">真</persName>夜夢甚靈異<ptr target="#n1096"/>。纔出<lb
+ed="T" n="0797b23"/>洋，遇惡風濤，舟人顧其垂沒，有投棄𣝕香<ptr type="glossary" target="#g443"/><lb
+ed="T" n="0797b24"/>木者。聞空中聲云：「勿棄投」，時見舳艫各<lb
 ed="T" n="0797b25"/>有神將介甲操仗焉，尋時風定。俄漂入蛇<lb
-ed="T" n="0797b26"/>海，其蛇長三丈餘，色若錦文。後入魚海，魚<lb
+ed="T" n="0797b26"/>海，其蛇長三丈餘<ptr target="#n1097"/>，色若錦文。後入魚海，魚<lb
 ed="T" n="0797b27"/>長尺餘，飛滿空中。次一洋，純見飛鳥集<anchor xml:id="begd1e24329"/>於<anchor xml:id="endd1e24329"/><lb
 ed="T" n="0797b28"/>舟背，壓之幾沒。洎出鳥海，乏水。俄泊一島，<lb
-ed="T" n="0797b29"/>池且泓澄，人飲甘美。相次達<anchor xml:id="begd1e24339"/>於<anchor xml:id="endd1e24339"/><placeName key="PL000000048414">日本</placeName>，<ref type="person" target="#A019335">其國王</ref><pb ed="T" n="0797c" xml:id="T50.2061.0797c"/><lb
-ed="T" n="0797c01"/>歡喜迎入城大寺安止。初於盧遮那殿前<lb
-ed="T" n="0797c02"/>立壇，為<ref type="person" target="#A019335">國王</ref><anchor xml:id="beg0797001"/>授<anchor xml:id="end0797001"/>菩薩戒。次夫人、王子等，<lb
+ed="T" n="0797b29"/>池且泓澄，人飲甘美。相次達<anchor xml:id="begd1e24339"/>於<anchor xml:id="endd1e24339"/><placeName key="PL000000048414">日本</placeName><ptr target="#n1098"/>，<ref type="person" target="#A019335">其國王</ref><pb ed="T" n="0797c" xml:id="T50.2061.0797c"/><lb
+ed="T" n="0797c01"/>歡喜迎入城<ref type="place" target="#PL000000057551">大寺</ref>安止。初於<placeName key="PL000000057554">盧遮那殿</placeName>前<lb
+ed="T" n="0797c02"/>立壇，為<ref type="person" target="#A019335">國王</ref><anchor xml:id="beg0797001"/>授<anchor xml:id="end0797001"/>菩薩戒<ptr target="#n1101"/>。次夫人、王子等，<lb
 ed="T" n="0797c03"/>然後教本土有德沙門足滿十員，度沙彌<persName key="A010890">澄<lb
-ed="T" n="0797c04"/>修</persName>等四百人，用白四羯磨法也。又有王子<lb
+ed="T" n="0797c04"/>修</persName>等四百人，用白四羯磨法<ptr type="glossary" target="#g444"/>也。又有王子<lb
 ed="T" n="0797c05"/><persName key="A019336">一品親田</persName>捨宅造寺，號<placeName key="PL000000048431">招提</placeName>，施水田一百<lb
-ed="T" n="0797c06"/>頃。自是已來，長敷律藏，受教者多，<placeName key="PL000000048414">彼國</placeName>號<lb
-ed="T" n="0797c07"/><persName key="A010883">大和尚</persName>，傳戒律之始祖也。以日本<date key="j19999141999914" when-iso="+0763-06-24">天平寶<lb
-ed="T" n="0797c08"/>字七年癸卯歲五月五日</date>，無疾辭眾，坐亡，身<lb
-ed="T" n="0797c09"/>不傾壞，乃<date from-iso="+0763-08-28" key="j19999792000145" to-iso="+0764-02-10">唐代宗廣德元年</date>矣。春秋七十七，<lb
-ed="T" n="0797c10"/>至今其身不施苧漆，國王貴人信士時將寶<lb
+ed="T" n="0797c06"/>頃<ptr target="#n1102"/>。自是已來，長敷律藏，受教者多，<ref type="place" target="#PL000000048414">彼國</ref>號<lb
+ed="T" n="0797c07"/><persName key="A010883">大和尚</persName>，傳戒律之始祖也。以<placeName key="PL000000048414">日本</placeName><date key="j19999141999914" when-iso="+0763-06-24"><name>天平寶<lb
+ed="T" n="0797c08"/>字</name>七年癸卯歲五月五日</date>，無疾辭眾，坐亡，身<lb
+ed="T" n="0797c09"/>不傾壞，乃<persName key="A004379">唐代宗</persName><date from-iso="+0763-08-28" key="j19999792000145" to-iso="+0764-02-10"><name>廣德</name>元年</date>矣。春秋七十七<ptr target="#n1103"/>。<lb
+ed="T" n="0797c10"/>至今其身不施苧漆，國王、貴人、信士時將寶<lb
 ed="T" n="0797c11"/>香塗之。僧<persName key="A010889">思託</persName>著《東征傳》<anchor xml:id="beg0797sgsz11"/><choice resp="sgsz"><sic>祥</sic><corr>詳</corr></choice><anchor xml:id="end0797sgsz11"/>述焉。</p>
+    <linkGrp>
+        <link targets="#0797a25 #0797a25"/>
+        <ptr target="#A010883" type="person"/>
+        <ptr target="#PL000000010799" type="place"/>
+    </linkGrp>
     <linkGrp>
         <link targets="#0797a26 #0797a28"/>
         <ptr target="#A010883" type="person"/>
@@ -59,9 +64,10 @@ ed="T" n="0797c11"/>香塗之。僧<persName key="A010889">思託</persName>著�
         <ptr target="#j19774281977495" type="time"/>
     </linkGrp>
     <linkGrp>
-        <link targets="#0797b02 #0797b02"/>
+        <link targets="#0797b01 #0797b02"/>
         <ptr target="#A010883" type="person"/>
         <ptr target="#A008876" type="person"/>
+        <ptr target="#j19786111978942" type="time"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0797b02 #0797b02"/>
@@ -107,21 +113,31 @@ ed="T" n="0797c11"/>香塗之。僧<persName key="A010889">思託</persName>著�
         <ptr target="#PL000000013239" type="place"/>
     </linkGrp>
     <linkGrp>
+        <link targets="#0797b22 #0797b22"/>
+        <ptr target="#A010883" type="person"/>
+        <ptr target="#PL000000013202" type="place"/>
+    </linkGrp>
+    <linkGrp>
         <link targets="#0797b29 #0797c01"/>
         <ptr target="#A010883" type="person"/>
         <ptr target="#A019335" type="person"/>
-        <ptr target="#PL000000048414" type="place"/>
+        <ptr target="#PL000000057554" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0797c02 #0797c04"/>
         <ptr target="#A010883" type="person"/>
         <ptr target="#A010890" type="person"/>
-        <ptr target="#PL000000048414" type="place"/>
+        <ptr target="#PL000000057554" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0797c04 #0797c05"/>
         <ptr target="#A010883" type="person"/>
         <ptr target="#A019336" type="person"/>
         <ptr target="#PL000000048431" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0797c07 #0797c08"/>
+        <ptr target="#A010883" type="person"/>
+        <ptr target="#j19999141999914" type="time"/>
     </linkGrp>
 </div>

@@ -1,40 +1,55 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" type="讀誦" xml:id="gsz0870a15shiHongChu"><lb
-ed="T" n="0870a15"/><anchor n="T.50.2061.0870a15"/><head><date from-iso="+0907-06-10" key="j20524952058534" to-iso="+0923-12-22">梁</date>溫州大雲寺<persName key="A013608">鴻楚</persName>傳</head><p><lb
-ed="T" n="0870a16"/><persName key="A013608">釋鴻楚</persName>，字<persName key="A013608">方外</persName>，姓唐氏，<placeName key="PL000000012521">永嘉</placeName>人也。生而符彩，<lb
-ed="T" n="0870a17"/>且異群兒。及甫髫齡，器度宏曠。<persName key="A013608">楚</persName>之外，昆<lb
-ed="T" n="0870a18"/>弟皆出俗越之龍宮伽藍，遂祈二親，亦願<lb
-ed="T" n="0870a19"/>隨往。網疎魚脫，籠揭鶴飛，杜若殖于蘭洲，新<lb
-ed="T" n="0870a20"/>繒染于絳色，互相切直，誦習彌通，<date key="j20424742042839" from-iso="+0880-01-01" to-iso="+0880-12-31">年二十三</date>，<lb
-ed="T" n="0870a21"/>方升上品無作。及迴本郡，時州將<persName key="A013609">朱褒</persName>知<lb
-ed="T" n="0870a22"/>其名節，欽揖愈勤。唐<date key="j20461552046912" notAfter-iso="+0892-02-25" notBefore-iso="+0890-01-29"><name>大順</name>中</date>以城南有廢<placeName key="PL000000012503">大<lb
-ed="T" n="0870a23"/>雲寺</placeName><anchor xml:id="beg0870sgsz4"/>荒<anchor xml:id="end0870sgsz4"/>墌，表聞<persName key="A003875">昭宗</persName>，欲重締構。<persName key="A003875">帝</persName>俞其請。<lb
-ed="T" n="0870a24"/>於是百工俱作，<persName key="A013608">楚</persName>躬主之。施利程功，不愆<lb
-ed="T" n="0870a25"/>于素，而講經<anchor xml:id="beg0870sgsz7"/>禮<anchor xml:id="end0870sgsz7"/>像，無相奪倫。<persName key="A003552">武肅王錢<roleName>氏</roleName></persName>，<date key="j20546012054851" notAfter-iso="+0913-11-21" notBefore-iso="+0913-03-16">乾<lb
-ed="T" n="0870a26"/>化初</date>年於杭州<placeName key="PL000000011473">龍興寺</placeName>開度戒壇，召<persName key="A013608">楚</persName>足<lb
+ed="T" n="0870a15"/><anchor n="T.50.2061.0870a15"/><head><date from-iso="+0907-06-10" key="j20524952058534" to-iso="+0923-12-22">梁</date><placeName key="PL000000012503"><placeName>溫州</placeName><placeName>大雲寺</placeName></placeName><persName key="A013608">鴻楚</persName>傳</head><p><lb
+ed="T" n="0870a16"/><persName key="A013608">釋鴻楚</persName>，字<persName key="A013608">方外</persName>，姓<name>唐</name>氏，<placeName key="PL000000012522">永嘉</placeName>人也。生而符彩<ptr type="glossary" target="#g2027"/><lb
+ed="T" n="0870a17"/>且異群兒。及甫髫齡<ptr type="glossary" target="#g280"/>，器度宏曠。<persName key="A013608">楚</persName>之外，昆<lb
+ed="T" n="0870a18"/>弟皆出俗<placeName key="PL000000013239">越</placeName>之<placeName key="PL000000013453">龍宮</placeName>伽藍，遂祈二親，亦願<lb
+ed="T" n="0870a19"/>隨往。網疎魚脫，籠揭鶴飛，杜若殖于蘭洲<ptr target="#n1743"/>，新<lb
+ed="T" n="0870a20"/>繒染于絳色<ptr type="glossary" target="#g553"/>，互相切直<ptr type="glossary" target="#g2028"/>，誦習彌通。<date key="j20425222042876" from-iso="+0880-02-18" to-iso="+0881-02-06">年二十三</date>，<lb
+ed="T" n="0870a21"/>方升上品<ptr type="glossary" target="#g289"/>無作<ptr type="glossary" target="#g1761"/>。及迴<ref type="place" target="#PL000000012522">本郡</ref>，時州將<persName key="A013609">朱褒</persName><ptr target="#n3133"/>知<lb
+ed="T" n="0870a22"/>其名節，欽揖愈勤。<placeName key="PL000000000106">唐</placeName><date key="j20461552046912" notAfter-iso="+0892-02-25" notBefore-iso="+0890-01-29"><name>大順</name>中</date>以城南有廢<placeName key="PL000000012503">大<lb
+ed="T" n="0870a23"/>雲寺</placeName><anchor xml:id="beg0870sgsz4"/>荒<anchor xml:id="end0870sgsz4"/>墌，表聞<persName key="A003875">昭宗</persName>，欲重締構。<ref type="person" target="#A003875">帝</ref>俞其請。<lb
+ed="T" n="0870a24"/>於是百工俱作，<persName key="A013608">楚</persName>躬主之。施利程功<ptr type="glossary" target="#g2029"/>，不愆<lb
+ed="T" n="0870a25"/>于素；而講經<anchor xml:id="beg0870sgsz7"/>禮<anchor xml:id="end0870sgsz7"/>像，無相奪倫。<persName key="A003552"><persName>武肅王</persName><persName>錢<roleName>氏</roleName></persName></persName>，<date key="j20546012054851" notAfter-iso="+0913-11-21" notBefore-iso="+0913-03-16"><name>乾<lb
+ed="T" n="0870a26"/>化</name>初</date>年於<placeName key="PL000000011473"><placeName>杭州</placeName><placeName>龍興寺</placeName></placeName>開度戒壇，召<persName key="A013608">楚</persName>足<lb
 ed="T" n="0870a27"/>臨壇員數，因奏薦<persName key="A003877">梁太祖</persName>，賜紫衣并號，固<lb
-ed="T" n="0870a28"/>讓弗聽，終不披著。自言涼德，何稱法門命<lb
-ed="T" n="0870a29"/>數之服？時詩人<persName key="A013610">鄭說</persName>南遊，訪<persName key="A013611">鴻靜法師</persName>，邂逅<pb ed="T" n="0870b" xml:id="T50.2061.0870b"/><lb
-ed="T" n="0870b01"/>與<persName key="A013608">楚</persName>會。體知高行，杼詩贈<persName key="A013608">楚</persName>云：「架上紫衣<lb
+ed="T" n="0870a28"/>讓弗聽，終不披著──自言涼德，何稱法門命<lb
+ed="T" n="0870a29"/>數之服？時詩人<persName key="A013610">鄭說</persName>南遊，訪<persName key="A013611">鴻靜<roleName>法師</roleName></persName>，邂逅<pb ed="T" n="0870b" xml:id="T50.2061.0870b"/><lb
+ed="T" n="0870b01"/>與<persName key="A013608">楚</persName>會。體知高行，杼<ptr type="glossary" target="#g2030"/>詩贈<persName key="A013608">楚</persName>云：「架上紫衣<lb
 ed="T" n="0870b02"/>閑不著，案頭金字坐長看。」<persName key="A013608">楚</persName>寬慈，人未甞<lb
-ed="T" n="0870b03"/>見其慍色。神氣清爽，厥頤豐下，且皤其腹。<lb
-ed="T" n="0870b04"/>目不邪視，顧必迴身。世俗之言，不輕掉舌。<lb
-ed="T" n="0870b05"/>所講法華經，計五十許座。一日，<persName key="A013608">楚</persName>之講堂中<lb
-ed="T" n="0870b06"/>忽生蓮華，重<anchor xml:id="beg0870001"/>柎<anchor xml:id="end0870001"/>複葉，香氣芬荂。以<date key="j20616632061663" when-iso="+0932-07-16">長興三<lb
+ed="T" n="0870b03"/>見其慍色。神氣清爽，厥頤豐下，且皤其腹<ptr type="glossary" target="#g1814"/>。<lb
+ed="T" n="0870b04"/>目不邪視，顧必迴身。世俗之言，不輕掉舌<ptr type="glossary" target="#g2031"/>。<lb
+ed="T" n="0870b05"/>所講《法華經》，計五十許座。一日，<persName key="A013608">楚</persName>之講堂中<lb
+ed="T" n="0870b06"/>忽生蓮華，<anchor xml:id="beg0870001"/>重柎<anchor xml:id="end0870001"/>複葉，香氣芬荂。以<date key="j20616632061663" when-iso="+0932-07-16"><name>長興</name>三<lb
 ed="T" n="0870b07"/>年壬辰六月五日</date>，無疾而化。俗齡七十五，法<lb
-ed="T" n="0870b08"/>臘五十二。道俗孺慕<ptr type="glossary" target="#g1493"/>。其年遷塔于慈雲右岡<lb
-ed="T" n="0870b09"/>焉。<persName key="A013608">楚</persName>講貫<ptr type="glossary" target="#g1247"/>外，深夜行道誦經。將逝夕，燈光忽<lb
-ed="T" n="0870b10"/>暗，經聲絕微，告門人曰：「勞爾給使，<persName key="A013608">吾</persName>將往<lb
-ed="T" n="0870b11"/>矣。」其所臥之榻中先有白蛇，其大若肱，恒<lb
-ed="T" n="0870b12"/>同臥處。長誡童侍，無妄驚擾。生常撰上生<lb
-ed="T" n="0870b13"/>經鈔，<anchor xml:id="fxT50p0870b01"/>刺血寫法華經一部，至今<placeName key="PL000000012521">永嘉</placeName>人謂<lb
+ed="T" n="0870b08"/>臘五十二。道俗孺慕<ptr type="glossary" target="#g1493"/>。其年遷塔于<placeName key="PL000000011466">慈雲</placeName><ptr target="#n3124"/>右岡<lb
+ed="T" n="0870b09"/>焉。<persName key="A013608">楚</persName>講貫<ptr rend="display:none;" type="glossary" target="#g1247"/>外，深夜行道誦經。將逝夕，燈光忽<lb
+ed="T" n="0870b10"/>暗，經聲絕微，告門人曰：「勞爾給使<ptr type="glossary" target="#g2032"/>，<ref type="person" target="#A013608">吾</ref>將往<lb
+ed="T" n="0870b11"/>矣。」其所臥之榻中先有白蛇──其大若肱，恒<lb
+ed="T" n="0870b12"/>同臥處──，長誡童侍，無妄驚擾。生常撰《上生<lb
+ed="T" n="0870b13"/>經鈔》，刺血寫《法華經》一部，至今<placeName key="PL000000012522">永嘉</placeName>人謂<lb
 ed="T" n="0870b14"/>為僧寶中異寶焉。</p>
+    <linkGrp>
+        <link targets="#0870a16 #0870a16"/>
+        <ptr target="#A013608" type="person"/>
+        <ptr target="#PL000000012522" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0870a17 #0870a20"/>
+        <ptr target="#A013608" type="person"/>
+        <ptr target="#PL000000013453" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0870a20 #0870a21"/>
+        <ptr target="#A013608" type="person"/>
+        <ptr target="#PL000000013453" type="place"/>
+        <ptr target="#j20425222042876" type="time"/>
+    </linkGrp>
     <linkGrp>
         <link targets="#0870a20 #0870a22"/>
         <ptr target="#A013608" type="person"/>
         <ptr target="#A013609" type="person"/>
-        <ptr target="#PL000000012521" type="place"/>
-        <ptr target="#j20424742042839" type="time"/>
+        <ptr target="#PL000000012522" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0870a22 #0870a23"/>
@@ -43,22 +58,24 @@ ed="T" n="0870b14"/>為僧寶中異寶焉。</p>
         <ptr target="#j20461552046912" type="time"/>
     </linkGrp>
     <linkGrp>
-        <link targets="#0870a22 #0870a25"/>
+        <link targets="#0870a24 #0870a25"/>
         <ptr target="#A013608" type="person"/>
-        <ptr target="#A013609" type="person"/>
         <ptr target="#PL000000012503" type="place"/>
-        <ptr target="#j20461552046912" type="time"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0870a25 #0870a28"/>
         <ptr target="#A013608" type="person"/>
         <ptr target="#A003552" type="person"/>
-        <ptr target="#A003877" type="person"/>
         <ptr target="#j20546012054851" type="time"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0870a25 #0870a28"/>
-        <ptr target="#A013608" type="person"/>
+        <ptr target="#A003877" type="person"/>
+        <ptr target="#A003552" type="person"/>
+        <ptr target="#j20546012054851" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0870a25 #0870a28"/>
         <ptr target="#A003552" type="person"/>
         <ptr target="#PL000000011473" type="place"/>
         <ptr target="#j20546012054851" type="time"/>
@@ -67,6 +84,15 @@ ed="T" n="0870b14"/>為僧寶中異寶焉。</p>
         <link targets="#0870a29 #0870b02"/>
         <ptr target="#A013608" type="person"/>
         <ptr target="#A013610" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0870a29 #0870b02"/>
+        <ptr target="#A013610" type="person"/>
         <ptr target="#A013611" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0870b06 #0870b08"/>
+        <ptr target="#A013608" type="person"/>
+        <ptr target="#j20616632061663" type="time"/>
     </linkGrp>
 </div>

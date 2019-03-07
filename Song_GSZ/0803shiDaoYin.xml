@@ -1,56 +1,56 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" type="義解" xml:id="gsz0734b15shiDaoYin"><lb
-ed="T" n="0734b15"/><anchor n="T.50.2061.0734b15"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date><placeName key="PL000000042420">長安青龍寺</placeName><persName key="A001525">道氤</persName>傳</head><p><lb
-ed="T" n="0734b16"/><persName key="A001525">釋道氤</persName>，俗姓長孫，<placeName key="PL000000042687">長安高陵</placeName>人也。父<persName key="A009385">容</persName>，殿中<lb
+ed="T" n="0734b15"/><anchor n="T.50.2061.0734b15"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date><placeName key="PL000000042420"><placeName>長安</placeName><placeName>青龍寺</placeName></placeName><persName key="A001525">道氤</persName>傳</head><p><lb
+ed="T" n="0734b16"/><persName key="A001525">釋道氤</persName>，俗姓<name>長孫</name>，<placeName key="PL000000042687"><placeName>長安</placeName><placeName>高陵</placeName></placeName>人也。父<persName key="A009385">容</persName>，殿中<lb
 ed="T" n="0734b17"/>侍御史。母<persName key="A021704">馬<roleName>氏</roleName></persName>夢五色雲覆頂，因有娠焉。<lb
 ed="T" n="0734b18"/><ref type="person" target="#A021704">母</ref>常聽講讀大乘經，曉夜不輟，意行<persName key="A017981">太任</persName><lb
-ed="T" n="0734b19"/>之胎教也。逮乎誕彌，異香芬馥，成于童稚，<lb
+ed="T" n="0734b19"/>之胎教也<ptr target="#n716"/>。逮乎誕彌，異香芬馥，成于童稚，<lb
 ed="T" n="0734b20"/>神氣俊秀，學問詳明。應進士科，一舉擢第，<lb
 ed="T" n="0734b21"/>名喧<ref type="place" target="#PL000000042189"><anchor xml:id="beg0734001"/><choice resp="sgsz"><sic>曰</sic><corr>日</corr></choice><anchor xml:id="end0734001"/></ref>下，才調清奇，榮耀親里。後有<name>梵</name>僧<lb
-ed="T" n="0734b22"/>扣門分衛<ptr type="glossary" target="#g602"/>，飯訖，願寓宵宿。<persName key="A001525">氤</persName>接之談話，言<lb
+ed="T" n="0734b22"/>扣門分衛<ptr rend="display:none;" type="glossary" target="#g602"/>，飯訖，願寓宵宿。<persName key="A001525">氤</persName>接之談話，言<lb
 ed="T" n="0734b23"/>皆詣理，<name>梵</name>僧稱歎。明曉辭訣，方出門，閃然<lb
-ed="T" n="0734b24"/>不見。<persName key="A001525">氤</persName>由此無調選<ptr type="glossary" target="#g731"/>之心矣，乞願出家。將<lb
+ed="T" n="0734b24"/>不見。<persName key="A001525">氤</persName>由此無調選之心矣<ptr type="glossary" target="#g731"/>，乞願出家。將<lb
 ed="T" n="0734b25"/>知良珠度寸，雖有百仞之水，不能掩其<lb
 ed="T" n="0734b26"/>雲<ptr target="#n732"/>也，何君親而能阻入道之猛<anchor xml:id="beg0734sgsz3"/><choice resp="sgsz"><sic>別</sic><corr>利</corr></choice><anchor xml:id="end0734sgsz3"/>心焉？乃<lb
-ed="T" n="0734b27"/><anchor xml:id="beg0734sgsz4"/>禮<anchor xml:id="end0734sgsz4"/><placeName key="PL000000042261">京招福寺</placeName><persName key="A009387">慎言律師</persName>為師，請益無替<ptr rend="display:none;" type="glossary" target="#g522"/>。及<lb
-ed="T" n="0734b28"/>登戒法，旋學律科，又隷經論，如是內外<ptr type="glossary" target="#g32"/>偕<lb
-ed="T" n="0734b29"/>通矣。時有<placeName key="PL000000042218">興善寺</placeName><persName key="A001192">復禮法師</persName>善屬文<ptr type="glossary" target="#g733"/>，謂<persName key="A001525">氤</persName><pb ed="T" n="0734c" xml:id="T50.2061.0734c"/><lb
-ed="T" n="0734c01"/>曰：「籍<ptr type="glossary" target="#g734"/><ref type="person" target="#A001525">汝</ref>少俊，可為<ref type="person" target="#A001192">余</ref>造《西方讚》一本。」遂襞<ptr type="glossary" target="#g736"/><lb
+ed="T" n="0734b27"/><anchor xml:id="beg0734sgsz4"/>禮<anchor xml:id="end0734sgsz4"/><placeName key="PL000000042261">京招福寺</placeName><persName key="A009387">慎言<roleName>律師</roleName></persName>為師，請益無替<ptr rend="display:none;" type="glossary" target="#g522"/>。及<lb
+ed="T" n="0734b28"/>登戒法，旋學律科，又隷經論，如是內外<ptr rend="display:none;" type="glossary" target="#g32"/>偕<lb
+ed="T" n="0734b29"/>通矣。時有<placeName key="PL000000042218">興善寺</placeName><persName key="A001192">復禮<roleName>法師</roleName></persName>善屬文<ptr rend="display:none;" type="glossary" target="#g733"/>，謂<persName key="A001525">氤</persName><pb ed="T" n="0734c" xml:id="T50.2061.0734c"/><lb
+ed="T" n="0734c01"/>曰：「籍<ptr rend="display:none;" type="glossary" target="#g734"/><ref type="person" target="#A001525">汝</ref>少俊，可為<ref type="person" target="#A001192">余</ref>造《西方讚》一本。」遂襞<ptr type="glossary" target="#g736"/><lb
 ed="T" n="0734c02"/>紙援毫，略不停綴。斯須已就，其辭典麗，清<lb
-ed="T" n="0734c03"/>淨佛國，境物莊嚴，臨文若現前矣。<persName key="A001192">禮師</persName>讀<lb
+ed="T" n="0734c03"/>淨佛國，境物莊嚴，臨文若現前矣。<persName key="A001192">禮<roleName>師</roleName></persName>讀<lb
 ed="T" n="0734c04"/>訖，顧左右諸德曰：「奇才秀句，<ref type="person" target="#A001192">吾</ref>輩莫能測<lb
 ed="T" n="0734c05"/>也。」自後<anchor xml:id="beg0734sgsz5"/>服膺<anchor xml:id="end0734sgsz5"/>窓案，晝夜精勵，辯給<ptr rend="display:none;" type="glossary" target="#g551"/>難詶，善<lb
-ed="T" n="0734c06"/>於立破<ptr type="glossary" target="#g738"/>。<persName key="A001192">禮師</persName>仰其風規<ptr type="glossary" target="#g737"/>，甞於稠人廣眾中<lb
+ed="T" n="0734c06"/>於立破<ptr type="glossary" target="#g738"/>。<persName key="A001192">禮<roleName>師</roleName></persName>仰其風規<ptr type="glossary" target="#g737"/>，甞於稠人廣眾中<lb
 ed="T" n="0734c07"/>宣言曰：「<persName key="A001525">氤</persName>之論端，勢若泉<anchor xml:id="beg0734sgsz6"/>涌<anchor xml:id="end0734sgsz6"/>。」從此聞<ref type="person" target="#A000291">天</ref>，供<lb
 ed="T" n="0734c08"/>奉朝廷。<persName key="A000291">玄宗</persName>幸<placeName key="PL000000023581">雒</placeName>，勅與<persName key="A009389">良秀</persName>、<persName key="A009390">法修</persName>隨<ref type="person" target="#A000291">駕</ref>。御<lb
-ed="T" n="0734c09"/>史<persName key="A009392">李竫</persName>同請<persName key="A001525">氤</persName>於<placeName key="PL000000023564">天宮寺</placeName>講《淨業障經》，其疏<lb
+ed="T" n="0734c09"/>史<persName key="A009392">李竫</persName>同請<persName key="A001525">氤</persName>於<placeName key="PL000000023564">天宮寺</placeName>講《淨業障經》<ptr target="#n3266"/>，其疏<lb
 ed="T" n="0734c10"/>亦<persName key="A001525">氤</persName>之著述也。時<persName key="A000008">一行禪師</persName>國之師匠，過慮<lb
 ed="T" n="0734c11"/>將來佛法誰堪扞禦？誰可闡揚？奏召天下<lb
-ed="T" n="0734c12"/>英髦<ptr type="glossary" target="#g22"/>學兼內外<ptr type="glossary" target="#g32"/>者，集<anchor xml:id="beg0734sgsz7"/>于<anchor xml:id="end0734sgsz7"/><placeName key="PL000000023665">洛京福先寺</placeName>，大建<lb
-ed="T" n="0734c13"/>論場。<persName key="A001525">氤</persName>為眾推許，乃首登座，於「瑜伽」、「唯識」、<lb
-ed="T" n="0734c14"/>「因明」、「百法」等論，竪立大義六科，敵論諸師<lb
+ed="T" n="0734c12"/>英髦<ptr rend="display:none;" type="glossary" target="#g22"/>學兼內外<ptr rend="display:none;" type="glossary" target="#g32"/>者，集<anchor xml:id="beg0734sgsz7"/>于<anchor xml:id="end0734sgsz7"/><placeName key="PL000000023665"><placeName>洛京</placeName><placeName>福先寺</placeName></placeName>，大建<lb
+ed="T" n="0734c13"/>論場。<persName key="A001525">氤</persName>為眾推許，乃首登座，於《瑜伽》<ptr target="#n1511"/>、《唯識》<ptr target="#n767"/>、<lb
+ed="T" n="0734c14"/>《因明》<ptr target="#n801"/>、《百法》<ptr target="#n1274"/>等論，竪立大義六科，敵論諸師<lb
 ed="T" n="0734c15"/>茫然屈伏。<persName key="A000008">一行</persName>驚異曰：「大法梁棟，<ref type="person" target="#A001525">伊人</ref>應焉。<lb
 ed="T" n="0734c16"/><ref type="person" target="#A000008">余</ref>心有憑，死亦足矣。」及乎<ref type="person" target="#A000291">大駕</ref>西還，勅令<lb
 ed="T" n="0734c17"/>扈從。乃有小疾，上表，<ref type="person" target="#A000291">帝</ref>降中使賜藥并方，<lb
-ed="T" n="0734c18"/>詔曰：「<ref type="person" target="#A001525">法師</ref>將息<ptr type="glossary" target="#g739"/>，<ref type="person" target="#A000291">朕</ref>此藥并方甚好，服食必<lb
+ed="T" n="0734c18"/>詔曰：「<ref type="person" target="#A001525">法師</ref>將息<ptr rend="display:none;" type="glossary" target="#g739"/>，<ref type="person" target="#A000291">朕</ref>此藥并方甚好，服食必<lb
 ed="T" n="0734c19"/>差。所患痊愈，早來<placeName key="PL000000042189">西京</placeName>。」其顧遇也若此。仍<lb
 ed="T" n="0734c20"/>屬此際<persName key="A000008">一行</persName>遷神，勅令<ref type="person" target="#A018843">東宮</ref>已下京官九品<lb
-ed="T" n="0734c21"/>已上並送至<placeName key="PL000000042576">銅人原藍田</placeName>設齋，推<persName key="A001525">氤</persName>表白，<lb
-ed="T" n="0734c22"/>法事方畢。宰相<persName key="A002473">張燕公說</persName>執<persName key="A001525">氤</persName>手曰：「釋門俊<lb
+ed="T" n="0734c21"/>已上並送至<placeName key="PL000000042576"><placeName>銅人原</placeName><placeName>藍田</placeName></placeName>設齋，推<persName key="A001525">氤</persName>表白，<lb
+ed="T" n="0734c22"/>法事方畢。宰相<persName key="A002473"><persName>張</persName><persName>燕公</persName><persName>說</persName></persName>執<persName key="A001525">氤</persName>手曰：「釋門俊<lb
 ed="T" n="0734c23"/>彥，宇內罕匹。幸附口錄向所導文一本，置<lb
 ed="T" n="0734c24"/>于篋<anchor xml:id="beg0734sgsz8"/>笥<anchor xml:id="end0734sgsz8"/>。」由是其文流行天下也。<date from-iso="+0730-01-27" key="j19877131988096" to-iso="+0731-02-14"><name>開元</name>十八<lb
 ed="T" n="0734c25"/>年</date>，於<placeName key="PL000000042214">花萼樓</placeName>對御定二教優劣，<persName key="A001525">氤</persName>雄論奮發，<lb
 ed="T" n="0734c26"/>河傾海注。道士<persName key="A009394">尹謙</persName>對答失次，理屈辭殫，論<lb
-ed="T" n="0734c27"/>宗乖舛。<ref type="person" target="#A000291">帝</ref>再三歎羨，詔賜絹伍伯匹，用充<lb
+ed="T" n="0734c27"/>宗乖舛。<ref type="person" target="#A000291">帝</ref>再三歎<anchor xml:id="beg0734sgsz9"/><choice resp="sgsz"><sic>羡</sic><corr>羨</corr></choice><anchor xml:id="end0734sgsz9"/><ptr target="#n1087"/>，詔賜絹伍伯匹，用充<lb
 ed="T" n="0734c28"/>法施。別集《對御論衡》一本，盛傳于代。後撰《大<lb
 ed="T" n="0734c29"/>乘法寶五門名教》并《信法儀》各一卷、《唯識疏》六<pb ed="T" n="0735a" xml:id="T50.2061.0735a"/><lb
 ed="T" n="0735a01"/>卷、《法華經疏》六卷、《御注金剛經疏》六卷<ptr target="#n740"/>。初，<persName key="A000291">玄<lb
 ed="T" n="0735a02"/>宗</persName>注經，至「若有人先世罪業應墮惡道，乃至<lb
-ed="T" n="0735a03"/>罪業則為消滅」，雖提兔翰<ptr type="glossary" target="#g741"/>，頗見狐疑，慮貽<lb
+ed="T" n="0735a03"/>罪業則為消滅」<ptr target="#n2899"/>，雖提兔翰<ptr type="glossary" target="#g741"/>，頗見狐疑，慮貽<lb
 ed="T" n="0735a04"/>謬解之愆，或作餘師<ptr type="glossary" target="#g664"/>之義。遂詔<persName key="A001525">氤</persName>決擇經<lb
-ed="T" n="0735a05"/>之功力，剖判是非。奏曰：「佛力<ptr type="glossary" target="#g742"/>經力，十聖<ptr type="glossary" target="#g743"/>三賢<ptr type="glossary" target="#g744"/>，<lb
+ed="T" n="0735a05"/>之功力，剖判是非。奏曰：「佛力<ptr rend="display:none;" type="glossary" target="#g742"/>經力，十聖<ptr rend="display:none;" type="glossary" target="#g743"/>三賢<ptr type="glossary" target="#g744"/>，<lb
 ed="T" n="0735a06"/>亦不可測。<ref type="person" target="#A000291">陛下</ref>曩於般若會中，聞熏不一，<lb
-ed="T" n="0735a07"/>更沈注想，自發現行。」<ref type="person" target="#A000291">帝</ref>於是豁然若憶疇<lb
+ed="T" n="0735a07"/>更沈注想，自發現行。」<ptr target="#n3267"/><ref type="person" target="#A000291">帝</ref>於是豁然若憶疇<lb
 ed="T" n="0735a08"/>昔，下筆不休，終無滯礙也<ptr target="#n745"/>。續宣<persName key="A001525">氤</persName>造疏<lb
 ed="T" n="0735a09"/>矣。四海嚮風，學徒鱗萃，於<placeName key="PL000000042420">青龍寺</placeName>執新疏，<lb
 ed="T" n="0735a10"/>聽者數盈千計，至于<placeName key="PL000000042216">西明</placeName>、<placeName key="PL000000042324">崇福</placeName>二寺。講堂悉<lb
@@ -60,15 +60,15 @@ ed="T" n="0735a13"/>子齎遺表云：「<ref type="person" target="#A001525">�
 ed="T" n="0735a14"/>緇伍，許自精修。雖常袒右肩，無施舉袂之<lb
 ed="T" n="0735a15"/>役。而執錫舒步，得蠲<ptr type="glossary" target="#g746"/>負載之勞。屬以時暢<lb
 ed="T" n="0735a16"/>玄功<ptr type="glossary" target="#g747"/>，德揚真化；不謂勤劬慕學，造次養生。<lb
-ed="T" n="0735a17"/>今月十六日苦腸忽加，湯藥無救。泉門<ptr type="glossary" target="#g748"/>自掩，<lb
-ed="T" n="0735a18"/>安沐堯風；夜臺<ptr type="glossary" target="#g749"/>一歸，寧逢舜日。有定瘞<ptr type="glossary" target="#g750"/>於<lb
-ed="T" n="0735a19"/>蒼隴，無再謁於丹墀<ptr type="glossary" target="#g751"/>。」云。時<ref type="person" target="#A000291">帝</ref>覽惻怛<ptr type="glossary" target="#g752"/>，遣中<lb
+ed="T" n="0735a17"/><date key="j19915671991567" when-iso="+0740-08-16">今月十六日</date>苦腸忽加，湯藥無救。泉門<ptr type="glossary" target="#g748"/>自掩，<lb
+ed="T" n="0735a18"/>安沐<persName key="A002433">堯</persName>風；夜臺<ptr type="glossary" target="#g749"/>一歸，寧逢<persName key="A002434">舜</persName>日。有定瘞<ptr type="glossary" target="#g750"/>於<lb
+ed="T" n="0735a19"/>蒼隴，無再謁於丹墀<ptr type="glossary" target="#g751"/>」<ptr target="#n3268"/>云。時<ref type="person" target="#A000291">帝</ref>覽惻怛<ptr rend="display:none;" type="glossary" target="#g752"/>，遣中<lb
 ed="T" n="0735a20"/>使內給事<persName key="A009398">賈文瓌</persName>將絹五十匹，就院弔贈，<lb
 ed="T" n="0735a21"/>宣口勅奉問<persName key="A001525">氤</persName>弟子等：「適聞<ref type="person" target="#A001525">法師</ref>遷神寂<lb
 ed="T" n="0735a22"/>滅，痛惜良深，未審擬於何處安厝？賜到絹<lb
 ed="T" n="0735a23"/>帛等。」聖恩追悼，生榮死哀，光于僧伍。俗壽七<lb
 ed="T" n="0735a24"/>十三，僧臘五十三。以其年秋<date key="j19915911991591" when-iso="+0740-09-09">八月十<anchor xml:id="beg0735001"/>二<anchor xml:id="end0735001"/>日</date><lb
-ed="T" n="0735a25"/>葬于<placeName key="PL000000042657">終南山陰逍遙園</placeName>側，白塔存焉。</p>
+ed="T" n="0735a25"/>葬于<placeName key="PL000000042627">終南山</placeName>陰<placeName key="PL000000042657">逍遙園</placeName>側，白塔存焉。</p>
     <linkGrp>
         <link targets="#0734b16 #0734b17"/>
         <ptr target="#A001525" type="person"/>
@@ -146,6 +146,11 @@ ed="T" n="0735a25"/>葬于<placeName key="PL000000042657">終南山陰逍遙園<
         <link targets="#0735a10 #0735a12"/>
         <ptr target="#A001525" type="person"/>
         <ptr target="#PL000000042324" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0735a17 #0735a17"/>
+        <ptr target="#A001525" type="person"/>
+        <ptr target="#j19915671991567" type="time"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0735a12 #0735a24"/>

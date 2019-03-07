@@ -1,36 +1,41 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" type="興福" xml:id="gsz0876c06shiZiYu"><lb
-ed="T" n="0876c06"/><anchor n="T.50.2061.0876c06"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date>湖州大雲寺<persName key="A010808">子瑀</persName>傳</head><p><lb
-ed="T" n="0876c07"/><persName key="A010808">釋子瑀</persName><ptr target="#n709"/>字<persName key="A010808">真瑛</persName>，姓沈氏，吳興<placeName key="PL000000013084">德清</placeName>人也。其先<lb
-ed="T" n="0876c08"/><choice resp="sgsz"><sic>亡</sic><corr>仕</corr></choice>國<ptr target="#n710"/>於<name>沈</name>，因以為氏，春秋<persName key="A013693">沈子</persName>之後也。<persName key="A010808">瑀</persName><lb
+ed="T" n="0876c06"/><anchor n="T.50.2061.0876c06"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date><placeName key="PL000000012985"><placeName>湖州</placeName><placeName>大雲寺</placeName></placeName><persName key="A010808">子瑀</persName>傳</head><p><lb
+ed="T" n="0876c07"/><persName key="A010808">釋子瑀</persName><ptr target="#n709"/>字<persName key="A010808">真瑛</persName>，姓<name>沈</name>氏，<placeName key="PL000000013084"><placeName>吳興</placeName><placeName>德清</placeName></placeName>人也。其先<lb
+ed="T" n="0876c08"/><choice resp="sgsz"><sic>亡</sic><corr>世</corr></choice>國<ptr target="#n710"/>於<name>沈</name>，因以為氏，<date from-iso="-769-01-01" key="j14401891574597" to-iso="-402-12-31">春秋</date><name>沈</name>子<ptr target="#n3218"/>之後也。<ptr target="#n3219"/><persName key="A010808">瑀</persName><lb
 ed="T" n="0876c09"/>生而聰慧，不以師授。年未總角，辭親出家，<lb
-ed="T" n="0876c10"/>以<date notBefore-iso="+0692-04-25" key="j19739231974106" notAfter-iso="+0692-10-25">如意年中</date>大赦度人，壞衣削䰂<ptr type="glossary" target="#g635"/>，煤炱世<lb
-ed="T" n="0876c11"/>事，於洛京<placeName key="PL000000023665">大福先寺</placeName>受戒。勤勤祈請，假寐<lb
-ed="T" n="0876c12"/>三日之夕，見有神人儼然在目，倏往忽來，<lb
+ed="T" n="0876c10"/>以<date notBefore-iso="+0692-04-25" key="j19739231974106" notAfter-iso="+0692-10-25"><name>如意</name>年中</date>大赦度人，壞衣<ptr type="glossary" target="#g971"/>削䰂<ptr rend="display:none;" type="glossary" target="#g635"/>，煤炱<ptr target="#n3220"/>世<lb
+ed="T" n="0876c11"/>事，於<placeName key="PL000000023665"><placeName>洛京</placeName><placeName>大福先寺</placeName></placeName>受戒<ptr target="#n3221"/>。勤勤祈請，<supplied resp="sgsz">不遑</supplied>假寐<ptr target="#n3222"/>。<lb
+ed="T" n="0876c12"/>三日之夕，見有神人儼然<ptr target="#n3223"/>在目，倏往忽來，<lb
 ed="T" n="0876c13"/>或同或異，得非至誠乎？於是燭如來燈，<lb
-ed="T" n="0876c14"/>佩菩薩印。證聖中歸于<placeName key="PL000000012985">大雲道場</placeName>，堅執律<lb
-ed="T" n="0876c15"/>柄，僧綱釐舉，不亦宜哉！<persName key="A010808">瑀</persName>素履純厖，無咎<lb
-ed="T" n="0876c16"/>無譽。使天下之士有外道焉，有闡提焉，<lb
-ed="T" n="0876c17"/>心如飄風，言若泉涌，撓我聖教，擠我妙門，<lb
-ed="T" n="0876c18"/><persName key="A010808">瑀</persName>示以從容<ptr type="glossary" target="#g1411"/>，誘以方便，莫不稽<anchor xml:id="beg0876004"/>首<anchor xml:id="end0876004"/>挫色<lb
-ed="T" n="0876c19"/>而聞命焉。常<anchor xml:id="beg0876sgsz9"/>禮<anchor xml:id="end0876sgsz9"/>一萬五千佛名兼慈悲懺，<lb
-ed="T" n="0876c20"/>日夜一匝，或二日三日一匝。夜有聖僧九人<lb
-ed="T" n="0876c21"/>降於<anchor xml:id="beg0876sgsz11"/>禮<anchor xml:id="end0876sgsz11"/>懺之所，相與行道，彈指而去。或夜無<lb
+ed="T" n="0876c14"/>佩菩薩印。<date notBefore-iso="+0694-11-26" key="j19748681975200" notAfter-iso="+0695-10-24"><name>證聖</name>中</date>歸于<placeName key="PL000000012985">大雲道場</placeName>，堅執律<lb
+ed="T" n="0876c15"/>柄，僧綱釐<ptr type="glossary" target="#g2112"/>舉，不亦宜哉！<persName key="A010808">瑀</persName>素履純厖<ptr type="glossary" target="#g2113"/>，無咎<lb
+ed="T" n="0876c16"/>無譽<ptr type="glossary" target="#g2115"/>。使天下之士有外道焉！有闡提<ptr type="glossary" target="#g2114"/>焉──<lb
+ed="T" n="0876c17"/>心如飄風，言若泉涌，撓我聖教，擠我妙門──，<lb
+ed="T" n="0876c18"/><persName key="A010808">瑀</persName>示以從容<ptr rend="display:none;" type="glossary" target="#g1411"/>，誘以方便，莫不稽<anchor xml:id="beg0876004"/>首<anchor xml:id="end0876004"/>挫色<lb
+ed="T" n="0876c19"/>而聞命焉！常<anchor xml:id="beg0876sgsz9"/>禮<anchor xml:id="end0876sgsz9"/>一萬五千佛名兼慈悲懺，<lb
+ed="T" n="0876c20"/>日夜一匝，或二日、三日一匝。夜有聖僧九人<lb
+ed="T" n="0876c21"/>降於<anchor xml:id="beg0876sgsz11"/>禮<anchor xml:id="end0876sgsz11"/>懺之所，相與行道，彈指<ptr type="glossary" target="#g507"/>而去。或夜無<lb
 ed="T" n="0876c22"/>燈燭，心口是念，圓光照室，如坐月中。如此<lb
-ed="T" n="0876c23"/>則往往有之。<persName key="A010808">瑀</persName>慨德清<anchor xml:id="beg0876sgsz13"/><choice resp="sgsz"><sic>徧</sic><corr>偏</corr></choice><anchor xml:id="end0876sgsz13"/>邑<ptr target="#n711"/>，未有塔寺，遂<lb
+ed="T" n="0876c23"/>則往往有之。<persName key="A010808">瑀</persName>慨<placeName key="PL000000013084">德清</placeName><anchor xml:id="beg0876sgsz13"/><choice resp="sgsz"><sic>徧</sic><corr>偏</corr></choice><anchor xml:id="end0876sgsz13"/>邑<ptr target="#n711"/>，未有塔寺，遂<lb
 ed="T" n="0876c24"/>銳懷營構。一唱齊和，乃成精宇。前後寫經<lb
 ed="T" n="0876c25"/>三藏<ptr target="#n713"/>，凡一萬六千卷。<date notBefore-iso="+0742-02-14" key="j19921141993438" notAfter-iso="+0745-09-30"><name>天寶</name>初</date>，<placeName key="PL000000012110">臨安</placeName><persName key="A013697">足法師</persName>死，<lb
 ed="T" n="0876c26"/>經三宿，將入地獄，冥中見<persName key="A010808">瑀</persName>引至王所，謂<lb
-ed="T" n="0876c27"/>王曰：「此人能講涅槃經，王宜宥之。」王曰：「唯<lb
-ed="T" n="0876c28"/>聞<persName key="A013698">巖崙師</persName>能講，不聞此師名，何也？」如是再<lb
-ed="T" n="0876c29"/>三，王不能屈，因赦之。曾是鄉人施<anchor xml:id="beg0876005"/>𤛴牛<anchor xml:id="end0876005"/><ptr type="glossary" target="#g103"/><pb ed="T" n="0877a" xml:id="T50.2061.0877a"/><lb
-ed="T" n="0877a01"/>者，天然不孕，因而出乳，其通感如是。以<date from-iso="+0752-01-25" key="j19957461996129" to-iso="+0753-02-11">十<lb
-ed="T" n="0877a02"/>一年</date>秋禪坐而終。<date from-iso="+0753-02-12" key="j19961301996483" to-iso="+0754-01-31">十二年</date>春，將啟靈龕，欲焚<lb
-ed="T" n="0877a03"/>之，容色不變，如生，雖少林孕髭，蘄春育髮，<lb
+ed="T" n="0876c27"/>王曰：「此人能講《涅槃經》，王宜宥之。」王曰：「唯<lb
+ed="T" n="0876c28"/>聞<persName key="A013698">巖崙<roleName>師</roleName></persName>能講<ptr target="#n3224"/>，不聞此師名，何也？」如是再<lb
+ed="T" n="0876c29"/>三，王不能屈，因赦之。曾是<ptr target="#n3225"/>，鄉人施<anchor xml:id="beg0876005"/>𤛴牛<anchor xml:id="end0876005"/><ptr type="glossary" target="#g103"/><pb ed="T" n="0877a" xml:id="T50.2061.0877a"/><lb
+ed="T" n="0877a01"/>者──天然不孕──，因而出乳，其通感如是。以<date from-iso="+0752-08-18" key="j19959521996040" to-iso="+0752-11-14">十<lb
+ed="T" n="0877a02"/>一年秋</date>禪坐而終<ptr target="#n3226"/>。<date from-iso="+0753-02-12" key="j19961301996218" to-iso="+0753-05-11">十二年春</date>，將啟靈龕，欲焚<lb
+ed="T" n="0877a03"/>之，容色不變，如生，雖<placeName key="PL000000023255">少林</placeName>孕髭<ptr target="#n3227"/>，<placeName key="PL000000028082">蘄春</placeName>育髮<ptr target="#n3228"/>，<lb
 ed="T" n="0877a04"/>何獨嘉也？大理評事攝監察御史<persName key="A013696">姚淡</persName>、主客<lb
-ed="T" n="0877a05"/>郎中<persName key="A013695">姚<anchor xml:id="beg0877sgsz1"/>泲<anchor xml:id="end0877sgsz1"/></persName>、刺史<persName key="A013694">楊慧才</persName>偕歸信焉。</p>
+ed="T" n="0877a05"/>郎中<persName key="A013695"><anchor xml:id="beg0877sgsz1"/>姚泲<anchor xml:id="end0877sgsz1"/></persName>、刺史<persName key="A013694">楊慧才</persName><ptr target="#n3229"/>偕歸信焉。</p>
     <linkGrp>
-        <link targets="#0876c10 #0876c14"/>
+        <link targets="#0876c07 #0876c07"/>
+        <ptr target="#A010808" type="person"/>
+        <ptr target="#PL000000013084" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0876c10 #0876c11"/>
         <ptr target="#A010808" type="person"/>
         <ptr target="#PL000000023665" type="place"/>
         <ptr target="#j19739231974106" type="time"/>
@@ -39,7 +44,23 @@ ed="T" n="0877a05"/>郎中<persName key="A013695">姚<anchor xml:id="beg0877sgsz
         <link targets="#0876c14 #0876c15"/>
         <ptr target="#A010808" type="person"/>
         <ptr target="#PL000000012985" type="place"/>
-        <ptr target="#j19739231974106" type="time"/>
+        <ptr target="#j19748681975200" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0876c25 #0876c29"/>
+        <ptr target="#A013697" type="person"/>
+        <ptr target="#PL000000012110" type="place"/>
+        <ptr target="#j19921141993438" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0876c25 #0876c29"/>
+        <ptr target="#A010808" type="person"/>
+        <ptr target="#j19921141993438" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0877a01 #0877a02"/>
+        <ptr target="#A010808" type="person"/>
+        <ptr target="#j19959521996040" type="time"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0877a04 #0877a05"/>

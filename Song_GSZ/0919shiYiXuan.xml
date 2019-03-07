@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" type="習禪" xml:id="gsz0779a26shiYiXuan"><lb
-ed="T" n="0779a26"/><anchor n="T.50.2061.0779a26"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date><placeName key="PL000000000850">真定府臨濟院</placeName><persName key="A003627">義玄</persName>傳</head><p><lb
-ed="T" n="0779a27"/><persName key="A003627">釋義玄</persName>，俗姓<name>邢</name>，<placeName key="PL000000022766">曹州南華</placeName>人也。參學諸方，<lb
+ed="T" n="0779a26"/><anchor n="T.50.2061.0779a26"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date><placeName key="PL000000000850"><placeName>真定府</placeName><placeName>臨濟院</placeName></placeName><persName key="A003627">義玄</persName>傳</head><p><lb
+ed="T" n="0779a27"/><persName key="A003627">釋義玄</persName>，俗姓<name>邢</name>，<placeName key="PL000000022766"><placeName>曹州</placeName><placeName>南華</placeName></placeName>人也。參學諸方，<lb
 ed="T" n="0779a28"/>不憚艱苦。因見<placeName key="PL000000019682">黃檗山</placeName><persName key="A000490">運<roleName>禪師</roleName></persName>，鳴啄同時，<lb
 ed="T" n="0779a29"/>了然通徹。乃北歸鄉土，俯徇<placeName key="PL000000001058">趙</placeName>人之請，住<pb ed="T" n="0779b" xml:id="T50.2061.0779b"/><lb
 ed="T" n="0779b01"/><anchor xml:id="beg0779sgsz9"/><choice resp="sgsz"><sic>子</sic><corr>于</corr></choice><anchor xml:id="end0779sgsz9"/>城南<placeName key="PL000000000850">臨濟</placeName>焉<ptr target="#n1602"/>。罷唱經論之徒，皆親堂室，<lb
 ed="T" n="0779b02"/>示人心要，頗與<persName key="A003868">德山</persName>相類。以<date key="j20375112037511" when-iso="+0866-05-31"><name>咸通</name>七年丙<lb
-ed="T" n="0779b03"/><anchor xml:id="beg0779sgsz10"/>戌<anchor xml:id="end0779sgsz10"/>歲四月十日</date><ptr target="#n1603"/>示滅。勅諡<persName key="A003627">慧照大師</persName>，塔號<lb
+ed="T" n="0779b03"/><anchor xml:id="beg0779sgsz10"/>戌<anchor xml:id="end0779sgsz10"/>歲四月十日</date><ptr target="#n1603"/>示滅。勅謚<persName key="A003627">慧照大師</persName>，塔號<lb
 ed="T" n="0779b04"/><placeName key="PL000000057056">澄<choice resp="sgsz"><sic>虛</sic><corr>靈</corr></choice></placeName><ptr target="#n1604"/>。言教頗行于世，今<placeName key="PL000000002384">恒陽</placeName>號<persName key="A003627">臨濟</persName>禪宗<lb
 ed="T" n="0779b05"/>焉。</p>
     <linkGrp>

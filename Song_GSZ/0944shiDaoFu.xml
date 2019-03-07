@@ -1,20 +1,20 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" type="習禪" xml:id="gsz0787a18shiDaoFu"><lb
-ed="T" n="0787a18"/><anchor n="T.50.2061.0787a18"/><head><date from-iso="+0923-05-18" key="j20583162063308" to-iso="+0937-01-16">後唐</date><placeName key="PL000000011527">杭州龍冊寺</placeName><persName key="A010691">道怤</persName>傳</head><p><lb
-ed="T" n="0787a19"/><persName key="A010691">釋道怤</persName>，俗姓<name>陳</name>，<placeName key="PL000000012521">永嘉</placeName>人也。丱總<ptr type="glossary" target="#g635"/>之年，性殊<anchor xml:id="beg0787sgsz1"/>常<anchor xml:id="end0787sgsz1"/><lb
+ed="T" n="0787a18"/><anchor n="T.50.2061.0787a18"/><head><date from-iso="+0923-05-18" key="j20583162063308" to-iso="+0937-01-16">後唐</date><placeName key="PL000000011527"><placeName>杭州</placeName><placeName>龍冊寺</placeName></placeName><persName key="A010691">道怤</persName>傳</head><p><lb
+ed="T" n="0787a19"/><persName key="A010691">釋道怤</persName>，俗姓<name>陳</name>，<placeName key="PL000000012521">永嘉</placeName>人也。丱總<ptr rend="display:none;" type="glossary" target="#g635"/>之年，性殊<anchor xml:id="beg0787sgsz1"/>常<anchor xml:id="end0787sgsz1"/><lb
 ed="T" n="0787a20"/>準，而惡鯹血之氣。親黨強啖以枯魚，且虞<lb
 ed="T" n="0787a21"/>嘔噦。求出家<anchor xml:id="beg0787001"/>於<anchor xml:id="end0787001"/><placeName key="PL000000012500">開元寺</placeName>。具戒已，遊<placeName key="PL000000017104">閩</placeName>入<placeName key="PL000000023022">楚</placeName>，<lb
-ed="T" n="0787a22"/>言參問善知識，要決了生死根源。見<placeName key="PL000000019959">臨川<lb
-ed="T" n="0787a23"/>曹山</placeName><persName key="A009449">寂<roleName>公</roleName></persName>，<anchor xml:id="beg0787sgsz2"/>大<anchor xml:id="end0787sgsz2"/>有徵詰，若<persName key="A005916">曇詢</persName>之<anchor xml:id="beg0787002"/><choice resp="sgsz"><sic>間</sic><corr>問</corr></choice><anchor xml:id="end0787002"/><persName key="A004688">僧稠</persName><lb
+ed="T" n="0787a22"/>言參問善知識，要決了生死根源。見<placeName key="PL000000019959"><placeName>臨川</placeName><lb
+ed="T" n="0787a23"/><placeName>曹山</placeName></placeName><persName key="A009449">寂<roleName>公</roleName></persName>，<anchor xml:id="beg0787sgsz2"/>大<anchor xml:id="end0787sgsz2"/>有徵詰，若<persName key="A005916">曇詢</persName>之<anchor xml:id="beg0787002"/><choice resp="sgsz"><sic>間</sic><corr>問</corr></choice><anchor xml:id="end0787002"/><persName key="A004688">僧稠</persName><lb
 ed="T" n="0787a24"/>也<ptr target="#n1721"/>。終頓息疑於<persName key="A003677">雪峯</persName>，<placeName key="PL000000017104">閩</placeName>中謂之<persName key="A010691">小怤布納</persName>。<lb
-ed="T" n="0787a25"/>時<placeName key="PL000000003793">太原</placeName>同名，年臘之高故。暨迴<placeName key="PL000000008355">浙</placeName>，住<placeName key="PL000000013230">越州鑑<lb
-ed="T" n="0787a26"/>清院</placeName>。時<persName key="A019325">皮光業</persName>者，<persName key="A017628">日休</persName>之子，辭學宏贍，探賾<ptr type="glossary" target="#g331"/><lb
+ed="T" n="0787a25"/>時<placeName key="PL000000003793">太原</placeName>同名，年臘之高故。暨迴<placeName key="PL000000008355">浙</placeName>，住<placeName key="PL000000013230"><placeName>越州</placeName><placeName>鑑<lb
+ed="T" n="0787a26"/>清院</placeName></placeName><ptr target="#n2794"/>。時<persName key="A019325">皮光業</persName>者，<persName key="A017628">日休</persName>之子，辭學宏贍，探賾<ptr rend="display:none;" type="glossary" target="#g331"/><lb
 ed="T" n="0787a27"/>禪門，嘗深擊難焉。退而謂人曰：「<persName key="A010691">怤<roleName>公</roleName></persName>之道，崇<lb
-ed="T" n="0787a28"/>論閎議，莫臻其極。」<persName key="A003552">武肅王錢<roleName>氏</roleName></persName>欽慕，命居<placeName key="PL000000011435">天<lb
-ed="T" n="0787a29"/>龍寺</placeName>，私署<persName key="A010691">順德大師</persName>。次<persName key="A006771">文穆王錢<roleName>氏</roleName></persName>創<placeName key="PL000000011527">龍冊<pb ed="T" n="0787b" xml:id="T50.2061.0787b"/><lb
+ed="T" n="0787a28"/>論閎議，莫臻其極。」<persName key="A003552"><persName>武肅王</persName><persName>錢<roleName>氏</roleName></persName></persName>欽慕，命居<placeName key="PL000000011435">天<lb
+ed="T" n="0787a29"/>龍寺</placeName>，私署<persName key="A010691">順德大師</persName>。次<persName key="A006771"><persName>文穆王</persName><persName>錢<roleName>氏</roleName></persName></persName>創<placeName key="PL000000011527">龍冊<pb ed="T" n="0787b" xml:id="T50.2061.0787b"/><lb
 ed="T" n="0787b01"/>寺</placeName>，請<persName key="A010691">怤</persName>居之，<placeName key="PL000000008355">吳越</placeName>禪學自此而興。以<date from-iso="+0937-09-13" key="j20635482063576" to-iso="+0937-10-11"><name>天福</name><lb
-ed="T" n="0787b02"/>丁酉歲八月</date>示滅，春秋七十<ptr target="#n271"/>。<anchor xml:id="beg0787003"/>茶<anchor xml:id="end0787003"/>毘于<placeName key="PL000000011429">大慈<lb
-ed="T" n="0787b03"/>山</placeName>塢，收拾舍利，起塔於<placeName key="PL000000012377">龍姥山</placeName>前。故僧主<lb
+ed="T" n="0787b02"/>丁酉歲八月</date>示滅，春秋七十<ptr target="#n271"/>。<anchor xml:id="beg0787003"/>茶毘<anchor xml:id="end0787003"/>于<placeName key="PL000000012299">大慈<lb
+ed="T" n="0787b03"/>山</placeName>塢，收拾舍利，起塔於<placeName key="PL000000012377">龍姥山</placeName><ptr target="#n523"/>前。故僧主<lb
 ed="T" n="0787b04"/><persName key="A014740">彙征</persName>撰塔銘。今<placeName key="PL000000012971">舍利院</placeName>，弟子主之，香火相綴<lb
 ed="T" n="0787b05"/>焉。</p>
     <linkGrp>

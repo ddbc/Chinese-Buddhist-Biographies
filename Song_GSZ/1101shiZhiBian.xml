@@ -1,49 +1,53 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" type="感通" xml:id="gsz0848c09shiZhiBian"><lb
-ed="T" n="0848c09"/><anchor n="T.50.2061.0848c09"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date>鄴都開元寺<persName key="A012859">智𧦪</persName>傳</head><p><lb
+ed="T" n="0848c09"/><anchor n="T.50.2061.0848c09"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date><placeName key="PL000000001505"><placeName>鄴都</placeName><placeName>開元寺</placeName></placeName><persName key="A012859">智𧦪</persName>傳</head><p><lb
 ed="T" n="0848c10"/><persName key="A012859">釋智𧦪</persName>，不知何許人也。少而英偉，長勤<name>梵</name><lb
 ed="T" n="0848c11"/>學，凡諸經論，一聽入神。其所講宣也，音辯<lb
-ed="T" n="0848c12"/>瀏亮。每臨臺座，自謂超絕。所患者聽眾無<lb
-ed="T" n="0848c13"/>幾。虞其以水傳器，器器不空，繄我獨無，乃<lb
+ed="T" n="0848c12"/>瀏亮。每臨臺座，自謂超絕──所患者聽眾無<lb
+ed="T" n="0848c13"/>幾<ptr target="#n2761"/>。虞其以水傳器，器器不空<ptr target="#n2760"/>，繄我獨無<ptr type="glossary" target="#g1816"/>，乃<lb
 ed="T" n="0848c14"/>辜佛意。遂負箱帙遍歷名山，以詢智者。末<lb
-ed="T" n="0848c15"/>至衡嶽寺<!--找不到此地-->，憩息月餘。甞於寺<!--找不到此地-->閑齋，獨自尋<lb
-ed="T" n="0848c16"/>繹疏義，復自咎責曰：「所解義理，莫違聖意<lb
-ed="T" n="0848c17"/>乎？」<anchor xml:id="beg0848003"/><choice resp="sgsz"><sic>況</sic><corr>沈</corr></choice><anchor xml:id="end0848003"/>思兀然，偶舉首見老僧振錫而入，<lb
-ed="T" n="0848c18"/>曰：「<persName key="A012859">師</persName>讀何經論？窮何義理？」<persName key="A012859">𧦪</persName>疑其<placeName key="PL000000028928">名嶽</placeName>之<lb
-ed="T" n="0848c19"/>內，車轍原中，羅漢混凡，曾何可測？乃自述本<lb
+ed="T" n="0848c15"/>至<placeName key="PL000000028989">衡嶽寺</placeName>，憩息月餘，甞於<ref type="place" target="#PL000000028989">寺</ref>閑齋，獨自尋<lb
+ed="T" n="0848c16"/>繹<ptr type="glossary" target="#g1818"/>疏義，復自咎責曰：「所解義理，莫違聖意<lb
+ed="T" n="0848c17"/>乎？」<anchor xml:id="beg0848003"/><choice resp="sgsz"><sic>況</sic><corr>沈</corr></choice><anchor xml:id="end0848003"/>思，兀然偶舉首見老僧振錫而入，<lb
+ed="T" n="0848c18"/>曰：「<ref type="person" target="#A012859">師</ref>讀何經論？窮何義理？」<persName key="A012859">𧦪</persName>疑其名嶽之<lb
+ed="T" n="0848c19"/>內，車轍<choice resp="sgsz"><sic>原</sic><corr>源</corr></choice>中，羅漢混凡<ptr target="#n2762"/>，曾何可測？乃自述本<lb
 ed="T" n="0848c20"/>緣，因加悔責。又曰：「儻蒙賢達指南，請受甘<lb
-ed="T" n="0848c21"/>心，鈐口結舌，不復開演矣。」老僧笑曰：「<persName key="A012859">師</persName>識<lb
+ed="T" n="0848c21"/>心<ptr type="glossary" target="#g1817"/>，鈐<ptr type="glossary" target="#g431"/>口結舌，不復開演矣。」老僧笑曰：「<ref type="person" target="#A012859">師</ref>識<lb
 ed="T" n="0848c22"/>至廣，豈不知此義？大聖猶不能度無緣之<lb
-ed="T" n="0848c23"/>人，況其初心乎？<persName key="A012859">師</persName>只是與眾生無緣耳。」<persName key="A012859">𧦪</persName><lb
-ed="T" n="0848c24"/>曰：「豈終世若此乎？」老僧曰：「吾試為<persName key="A012859">爾</persName>結緣。」<lb
-ed="T" n="0848c25"/>遂問<persName key="A012859">𧦪</persName>「今有幾貲糧耶？」<persName key="A012859">𧦪</persName>曰：「自北徂南，<lb
-ed="T" n="0848c26"/>裂裳裹足，已經萬里，所齎皆罄竭矣。見受<lb
-ed="T" n="0848c27"/><anchor xml:id="beg0848sgsz3"/>持<anchor xml:id="end0848sgsz3"/>九條衣而已。」老僧曰：「只此可矣。必宜鬻<lb
-ed="T" n="0848c28"/>之，以所易之直，皆作麋餅、油食之調。」<persName key="A012859">𧦪</persName>如<lb
-ed="T" n="0848c29"/>言作之，約數十人食，遂相與至埛野之中，<pb ed="T" n="0849a" xml:id="T50.2061.0849a"/><lb
-ed="T" n="0849a01"/>散掇餅餌，焚香長跪呪曰：「今日食<persName key="A012859">我</persName>施者，<lb
-ed="T" n="0849a02"/>願當來之世與<persName key="A012859">我</persName>為法屬，<persName key="A012859">我</persName>當教之，得至<lb
-ed="T" n="0849a03"/>菩提。」言訖，烏鳥亂下啄拾。地上螻螘蠅蠁莫<lb
-ed="T" n="0849a04"/>徵其數。老僧曰：「爾後二十年，方可歸開法<lb
+ed="T" n="0848c23"/>人<ptr target="#n2763"/>，況其初心乎？<ref type="person" target="#A012859">師</ref>只是與眾生無緣耳。」<persName key="A012859">𧦪</persName><lb
+ed="T" n="0848c24"/>曰：「豈終世若此乎？」老僧曰：「吾試為<ref type="person" target="#A012859">爾</ref>結緣。」<lb
+ed="T" n="0848c25"/>遂問<persName key="A012859">𧦪</persName>「今有幾貲糧耶<ptr target="#n2769"/>？」<persName key="A012859">𧦪</persName>曰：「自北徂南，<lb
+ed="T" n="0848c26"/>裂裳裹足<ptr rend="display:none;" type="glossary" target="#g1360"/>，已經萬里，所齎皆罄竭矣。見受<lb
+ed="T" n="0848c27"/><anchor xml:id="beg0848sgsz3"/>持<anchor xml:id="end0848sgsz3"/>九條衣<ptr type="glossary" target="#g1723"/>而已<ptr target="#n2764"/>。」老僧曰：「只此可矣！必宜鬻<lb
+ed="T" n="0848c28"/>之，以所易之直，皆作麋餅、油食之調<ptr type="glossary" target="#g266"/>。」<persName key="A012859">𧦪</persName>如<lb
+ed="T" n="0848c29"/>言作之，約數十人食<ptr target="#n2765"/>，遂相與至埛<ptr type="glossary" target="#g797"/>野之中，<pb ed="T" n="0849a" xml:id="T50.2061.0849a"/><lb
+ed="T" n="0849a01"/>散掇<ptr type="glossary" target="#g1819"/>餅餌，焚香長跪呪曰：「今日食<persName key="A012859">我</persName>施者，<lb
+ed="T" n="0849a02"/>願當來之世與<ref type="person" target="#A012859">我</ref>為法屬，<ref type="person" target="#A012859">我</ref>當教之，得至<lb
+ed="T" n="0849a03"/>菩提。」言訖，烏鳥亂下啄拾，地上螻螘蠅蠁莫<lb
+ed="T" n="0849a04"/>徵其數<ptr target="#n2766"/>。老僧曰：「爾後二十年<ptr target="#n2770"/>，方可歸開法<lb
 ed="T" n="0849a05"/>席。今且周遊，未宜講說也。」言訖而去。<persName key="A012859">𧦪</persName>由<lb
 ed="T" n="0849a06"/>是精進道力，不倦研摩，義味滋多，志在傳<lb
-ed="T" n="0849a07"/>授。至二十年，却歸河<anchor xml:id="beg0849001"/><choice resp="sgsz"><sic>比</sic><corr>北</corr></choice><anchor xml:id="end0849001"/>，盛化<placeName key="PL000000001481">鄴</placeName>中，聽眾<lb
+ed="T" n="0849a07"/>授。至二十年，却歸<placeName key="PL000000001520">河<anchor xml:id="beg0849001"/><choice resp="sgsz"><sic>比</sic><corr>北</corr></choice></placeName><anchor xml:id="end0849001"/><ptr target="#n2767"/>，盛化<placeName key="PL000000001481">鄴</placeName>中，聽眾<lb
 ed="T" n="0849a08"/>盈千數人，皆年二十已來，其老者無二三<lb
-ed="T" n="0849a09"/>人焉。</p>
-    <p xml:id="pT50p0849a1001"><lb
-ed="T" n="0849a10"/>系曰：中有末位，變定難移。今世所修，必招<lb
-ed="T" n="0849a11"/>當果。今<persName key="A012859">智𧦪</persName>依異僧之教，令二十年後待<lb
+ed="T" n="0849a09"/>人焉<ptr target="#n2768"/>。</p><p xml:id="pT50p0849a1001"><lb
+ed="T" n="0849a10"/>系曰：中有<ptr type="glossary" target="#g861"/>末位，變定難移，今世所修，必招<lb
+ed="T" n="0849a11"/>當果<ptr target="#n2771"/>。今<persName key="A012859">智𧦪</persName>依異僧之教，令二十年後待<lb
 ed="T" n="0849a12"/>聽徒，一如其言，如此則當生修當生<anchor xml:id="beg0849002"/>果<anchor xml:id="end0849002"/>，故<lb
-ed="T" n="0849a13"/>弗誣矣。詩曰：「俟河之清，人壽幾何？」將知永<lb
+ed="T" n="0849a13"/>弗誣矣。詩曰：「俟河之清，人壽幾何？<ptr target="#n2772"/>」將知永<lb
 ed="T" n="0849a14"/>壽之人，河清屢見矣。</p>
+    <linkGrp>
+        <link targets="#0848c09 #0848c09"/>
+        <ptr target="#A012859" type="person"/>
+        <ptr target="#PL000000001505" type="place"/>
+    </linkGrp>
     <linkGrp>
         <link targets="#0848c15 #0849a07"/>
         <ptr target="#A012859" type="person"/>
-        <ptr target="#PL000000028928" type="place"/>
+        <ptr target="#PL000000028989" type="place"/>
     </linkGrp>
     <linkGrp>
-        <link targets="#0849a06 #0849a09"/>
+        <link targets="#0849a07 #0849a09"/>
         <ptr target="#A012859" type="person"/>
-        <ptr target="#PL000000001481" type="place"/>
+        <ptr target="#PL000000001520" type="place"/>
     </linkGrp>
 </div>

@@ -1,20 +1,31 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" type="明律" xml:id="gsz0801b28shiZhiHong"><lb
-ed="T" n="0801b28"/><anchor n="T.50.2061.0801b28"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date>吳郡雙林寺<persName key="A000504">志鴻</persName>傳</head><p><lb
-ed="T" n="0801b29"/><persName key="A000504">釋志鴻</persName>，俗姓錢氏，<placeName key="PL000000013087">湖州長城下若</placeName>人。本名<persName key="A000504">儼</persName>，<pb ed="T" n="0801c" xml:id="T50.2061.0801c"/><lb
-ed="T" n="0801c01"/><persName key="A000504">志鴻</persName>字也。少出俗于石門鄉寺<!--找不到此地-->，則梁靜林<!--找不到此地-->也。<lb
-ed="T" n="0801c02"/>削染受具訖，往<placeName key="PL000000009928">茂苑</placeName>，親<persName key="A011021">道恒師</persName>盛集，研覈<lb
-ed="T" n="0801c03"/>精微。時<persName key="A011164">曇清</persName><persName key="A011073">省躬</persName>，互相切磋，卒成洪緒。然慊<lb
-ed="T" n="0801c04"/>先德<persName key="A001519">釋南山</persName>《鈔》。商略不均，否臧無准，捕蟬<lb
-ed="T" n="0801c05"/>忘後，補袞不完，囊括<persName key="A010769">大慈</persName>、<persName key="A010823">靈㠋</persName>已下四十餘<lb
-ed="T" n="0801c06"/>師記鈔之玄，勒成二十卷，號《搜玄錄》。<date from-iso="+0766-12-22" key="j20011912005747" to-iso="+0779-06-13"><name>大曆</name></date><lb
-ed="T" n="0801c07"/>中，《華嚴疏》主<persName key="A001755">澄觀</persName>披尋，乃為序冠于首。然其<lb
+ed="T" n="0801b28"/><anchor n="T.50.2061.0801b28"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date><placeName key="PL000000057733"><placeName>吳郡</placeName><placeName>雙林寺</placeName></placeName><persName key="A000504">志鴻</persName>傳</head><p><lb
+ed="T" n="0801b29"/><persName key="A000504">釋志鴻</persName>，俗姓<name>錢</name>氏，<placeName key="PL000000013087"><placeName>湖州</placeName><placeName>長城</placeName><placeName>下若</placeName></placeName>人。本名<persName key="A000504">儼</persName>，<pb ed="T" n="0801c" xml:id="T50.2061.0801c"/><lb
+ed="T" n="0801c01"/><persName key="A000504">志鴻</persName>字也。少出俗于<placeName key="PL000000013087">石門鄉</placeName>寺，則<placeName key="PL000000000138">梁</placeName>
+<placeName key="PL000000057733">靜林</placeName>也。<lb
+ed="T" n="0801c02"/>削染受具訖，往<placeName key="PL000000009928">茂苑</placeName>，親<persName key="A011021">道恒<roleName>師</roleName></persName>盛集，研覈<lb
+ed="T" n="0801c03"/>精微。時<persName key="A011164">曇清</persName>、<persName key="A011073">省躬</persName>，互相切磋，卒成洪緒。然慊<ptr type="glossary" target="#g543"/><lb
+ed="T" n="0801c04"/>先德<persName key="A001519">釋南山</persName>《鈔》<ptr target="#n1290"/>商略<ptr type="glossary" target="#g556"/>不均，否臧無准，捕蟬<lb
+ed="T" n="0801c05"/>忘後<ptr target="#n456"/>，補袞不完。囊括<persName key="A010769">大慈</persName>、<persName key="A010823">靈㠋</persName>已下四十餘<lb
+ed="T" n="0801c06"/>師記鈔之玄，勒成二十卷，號《搜玄錄》<ptr target="#n1731"/>。<date notBefore-iso="+0766-12-22" key="j20011912005747" notAfter-iso="+0779-06-13"><name>大曆</name><lb
+ed="T" n="0801c07"/>中</date>，《華嚴疏》主<persName key="A001755">澄觀</persName>披尋，乃為序冠于首<ptr target="#n1732"/>。然其<lb
 ed="T" n="0801c08"/>解判不無所長，其如科節繁碎，是其短也。<lb
 ed="T" n="0801c09"/>春秋一百有八歲，勅署為<persName key="A000504">長壽大師</persName>焉。近世<lb
-ed="T" n="0801c10"/>止行其字而已。今<placeName key="PL000000013584">雙林</placeName>累遭兵革，加以水<lb
-ed="T" n="0801c11"/>潦，碑碣失蹤，<anchor xml:id="beg0801004"/>閟<anchor xml:id="end0801004"/>於言行也。吁！其<persName key="A000504">儼公</persName>氏<lb
-ed="T" n="0801c12"/>族本生必與<persName key="A001519">南山宣律</persName>師相同，亦為美事<lb
+ed="T" n="0801c10"/>止行其字而已。今<placeName key="PL000000057733">雙林</placeName>累遭兵革，加以水<lb
+ed="T" n="0801c11"/>潦，碑碣失蹤，<anchor xml:id="beg0801004"/>閟<anchor xml:id="end0801004"/>於言行也。吁！其<persName key="A000504">儼<roleName>公</roleName></persName>氏<lb
+ed="T" n="0801c12"/>族本生必與<placeName key="PL000000042627">南山</placeName><persName key="A001519">宣<roleName>律師</roleName></persName>相同<ptr target="#n850"/>，亦為美事<lb
 ed="T" n="0801c13"/>矣。</p>
+    <linkGrp>
+        <link targets="#0801b29 #0801b29"/>
+        <ptr target="#A000504" type="person"/>
+        <ptr target="#PL000000013087" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0801c01 #0801c01"/>
+        <ptr target="#A000504" type="person"/>
+        <ptr target="#PL000000057733" type="place"/>
+    </linkGrp>
     <linkGrp>
         <link targets="#0801c02 #0801c03"/>
         <ptr target="#A000504" type="person"/>
@@ -28,8 +39,13 @@ ed="T" n="0801c13"/>矣。</p>
         <ptr target="#A011073" type="person"/>
     </linkGrp>
     <linkGrp>
+        <link targets="#0801c06 #0801c07"/>
+        <ptr target="#A001755" type="person"/>
+        <ptr target="#j20011912005747" type="time"/>
+    </linkGrp>
+    <linkGrp>
         <link targets="#0801c10 #0801c11"/>
         <ptr target="#A000504" type="person"/>
-        <ptr target="#PL000000013584" type="place"/>
+        <ptr target="#PL000000057733" type="place"/>
     </linkGrp>
 </div>

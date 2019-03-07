@@ -1,34 +1,65 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" type="讀誦" xml:id="gsz0869c14shiShenZhi"><lb
-ed="T" n="0869c14"/><anchor n="T.50.2061.0869c14"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date>越州諸暨保<anchor xml:id="beg0869006"/>壽<anchor xml:id="end0869006"/>院<persName key="A013602">神智</persName>傳</head><p><lb
-ed="T" n="0869c15"/><persName key="A013602">釋神智</persName>，<placeName key="PL000000013594">婺州義烏</placeName>人也，俗姓力。力氏之先，黃<lb
-ed="T" n="0869c16"/>帝臣<anchor xml:id="beg0869sgsz15"/>牧<anchor xml:id="end0869sgsz15"/>之後。漢有魯郡相<persName key="A013603">力歸</persName>，因官居<placeName key="PL000000021539">兗</placeName>，<lb
-ed="T" n="0869c17"/>遂為<placeName key="PL000000020229">魯</placeName>人也。祖考皆田畯，而以朴素相㳂。<lb
-ed="T" n="0869c18"/><persName key="A013602">智</persName>少有貞操，懇樂捨家，就雲門寺<!--找不到此地--><persName key="A013604">惟孝</persName>為<lb
-ed="T" n="0869c19"/>師。<date key="j20245772024941" from-iso="+0831-01-01" to-iso="+0831-12-31">年十二</date>，一食斷中，持大悲心呪，應法登<lb
+ed="T" n="0869c14"/><anchor n="T.50.2061.0869c14"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date><placeName key="PL000000012326"><placeName>越州</placeName><placeName>諸暨<anchor xml:id="beg0869006"/>保壽院<anchor xml:id="end0869006"/></placeName></placeName><persName key="A013602">神智</persName>傳</head><p><lb
+ed="T" n="0869c15"/><persName key="A013602">釋神智</persName>，<placeName key="PL000000013594"><placeName>婺州</placeName><placeName>義烏</placeName></placeName>人也，俗姓<name>力</name>。<name>力</name>氏之先，<persName key="A004009">黃<lb
+ed="T" n="0869c16"/>帝</persName>臣<persName key="A024507"><anchor xml:id="beg0869sgsz15"/>牧<anchor xml:id="end0869sgsz15"/></persName>之後。<placeName>漢</placeName>有<placeName key="PL000000021505">魯郡</placeName>相<persName key="A013603">力歸</persName>，因官居<placeName key="PL000000021539">兗</placeName>，<lb
+ed="T" n="0869c17"/>遂為<placeName key="PL000000021505">魯</placeName>人也。祖考皆田畯<ptr type="glossary" target="#g1538"/>，而以朴素相㳂。<lb
+ed="T" n="0869c18"/><persName key="A013602">智</persName>少有貞操，懇樂捨家，就<placeName key="PL000000013295">雲門寺</placeName><persName key="A013604">惟孝</persName>為<lb
+ed="T" n="0869c19"/>師。<date key="j20242432024626" from-iso="+0830-02-01" to-iso="+0831-02-19">年十二</date>，一食斷中<ptr target="#n1893"/>；持〈大悲心呪〉<ptr target="#n3121"/>，應法登<lb
 ed="T" n="0869c20"/>戒，峻勵恪勤。俄屬<date key="j20282682030170" notAfter-iso="+0846-04-25" notBefore-iso="+0841-02-08"><name>會昌</name></date>滅法，<persName key="A013602">智</persName>形服雖殊，<lb
-ed="T" n="0869c21"/>誓重為僧，磨不磷而涅不淄，于時見矣。<date key="j20304612031609" notAfter-iso="+0850-04-03" notBefore-iso="+0847-02-10">大<lb
-ed="T" n="0869c22"/>中初年</date>，復道。巡遊<placeName key="PL000000013376">暨陽</placeName>，考于禪室，且曰：「營<lb
-ed="T" n="0869c23"/>廷之魚，潛于藪澤，宜哉。此處<persName key="A013602">吾</persName>之藪澤也。」恒<lb
+ed="T" n="0869c21"/>誓重為僧，磨不磷而涅不淄<ptr type="glossary" target="#g1542"/>，于時見矣。<date from-iso="+0847-01-25" key="j20304452030828" to-iso="+0848-02-12"><name>大<lb
+ed="T" n="0869c22"/>中</name>初年</date>，復道。巡遊<placeName key="PL000000013376">暨陽</placeName>，考<ptr type="glossary" target="#g1064"/>于禪室，且曰：「營<lb
+ed="T" n="0869c23"/>廷之魚，潛于藪澤<ptr target="#n3122"/>，宜哉！此處<ref type="person" target="#A013602">吾</ref>之藪澤也。」恒<lb
 ed="T" n="0869c24"/>呪水盃以救百疾，飲之多差。百姓相率，日給<lb
 ed="T" n="0869c25"/>無算，號<persName key="A013602">大悲和尚</persName>焉。<date key="j20304612035056" notAfter-iso="+0859-09-10" notBefore-iso="+0847-02-10"><name>大中</name>中</date>，入<placeName key="PL000000042192">京兆</placeName>，時昇<lb
-ed="T" n="0869c26"/>平相國<persName key="A003624">裴公休</persName>預夢<persName key="A013602">智</persName>來，迨乎相見欣然。<lb
+ed="T" n="0869c26"/>平相國<persName key="A003624">裴<roleName>公</roleName>休</persName>預夢<persName key="A013602">智</persName>來，迨乎相見，欣然。<lb
 ed="T" n="0869c27"/>相國女<anchor xml:id="beg0869007"/><choice resp="sgsz"><sic>卽</sic><corr>郎</corr></choice><anchor xml:id="end0869007"/>鬼神所被，<persName key="A013602">智</persName>持呪，七日平復。遂<lb
-ed="T" n="0869c28"/>奏請院額曰<placeName key="PL000000012326"><name>大中</name>聖壽</placeName>，仍賜左神策軍鐘<lb
-ed="T" n="0869c29"/>一口、天后繡㡧、藏經五千卷。<persName key="A003624">裴君</persName>為書殿額。<pb ed="T" n="0870a" xml:id="T50.2061.0870a"/><lb
+ed="T" n="0869c28"/>奏請院額曰<placeName key="PL000000012326">大中聖壽</placeName>，仍賜左神策軍鐘<lb
+ed="T" n="0869c29"/>一口、<persName key="A002099">天后</persName>繡㡧、藏經五千卷。<persName key="A003624">裴<roleName>君</roleName></persName>為書殿額。<pb ed="T" n="0870a" xml:id="T50.2061.0870a"/><lb
 ed="T" n="0870a01"/><persName key="A013602">智</persName>以<date key="j20450322045061" notAfter-iso="+0887-01-31" notBefore-iso="+0887-01-02"><name>光啟</name>丙午歲十二月</date>，終于<placeName key="PL000000013605">東白山</placeName>，春秋<lb
 ed="T" n="0870a02"/>六十八，法臘四十八。遷座歸<placeName key="PL000000013376">暨陽</placeName>南山入<lb
 ed="T" n="0870a03"/>塔焉。</p>
     <linkGrp>
+        <link targets="#0869c14 #0869c14"/>
+        <ptr target="#A013602" type="person"/>
+        <ptr target="#PL000000012326" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0869c15 #0869c15"/>
+        <ptr target="#A013602" type="person"/>
+        <ptr target="#PL000000013594" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0869c15 #0869c16"/>
+        <ptr target="#A004009" type="person"/>
+        <ptr target="#A024507" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0869c16 #0869c16"/>
+        <ptr target="#A013603" type="person"/>
+        <ptr target="#PL000000021539" type="place"/>
+    </linkGrp>
+    <linkGrp>
         <link targets="#0869c18 #0869c19"/>
         <ptr target="#A013602" type="person"/>
         <ptr target="#A013604" type="person"/>
+        <ptr target="#PL000000013295" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0869c19 #0869c20"/>
+        <ptr target="#A013602" type="person"/>
+        <ptr target="#j20242432024626" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0869c20 #0869c21"/>
+        <ptr target="#A013602" type="person"/>
+        <ptr target="#j20282682030170" type="time"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0869c21 #0869c23"/>
         <ptr target="#A013602" type="person"/>
         <ptr target="#PL000000013376" type="place"/>
-        <ptr target="#j20304612031609" type="time"/>
+        <ptr target="#j20304452030828" type="time"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0869c25 #0869c28"/>

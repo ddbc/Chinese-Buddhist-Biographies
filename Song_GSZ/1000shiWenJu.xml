@@ -1,23 +1,53 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" type="明律" xml:id="gsz0808b09shiWenJu"><lb
-ed="T" n="0808b09"/><anchor n="T.50.2061.0808b09"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date>天台山國清寺<persName key="A011607">文舉</persName>傳</head><p><lb
-ed="T" n="0808b10"/><persName key="A011607">釋文舉</persName>，姓張氏，<placeName key="PL000000013615">婺州東陽</placeName>人也。年甫<anchor xml:id="beg0808001"/><choice resp="sgsz"><sic>至</sic><corr>志</corr></choice><anchor xml:id="end0808001"/>學，<lb
-ed="T" n="0808b11"/>遂投師請法。<date key="j20088712009236" from-iso="+0788-01-01" to-iso="+0788-12-31">十九</date>落䰂<ptr type="glossary" target="#g635"/>，始墮息慈。<date from-iso="+0787-01-28" key="j20085332008916" to-iso="+0788-02-15"><name>貞元</name>三<lb
-ed="T" n="0808b12"/>年</date>，勅度得戒。後十五年間，以《四分律》為學，<lb
-ed="T" n="0808b13"/>時術之，晝夜翹勤，遂登講訓。次通《法華經疏<lb
-ed="T" n="0808b14"/>義》，得<persName key="A001301">智者</persName>之膏腴焉。<persName key="A011607">舉</persName>身量六尺餘，其形<lb
+ed="T" n="0808b09"/><anchor n="T.50.2061.0808b09"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date><placeName key="PL000000014664"><placeName>天台山</placeName><placeName>國清寺</placeName></placeName><persName key="A011607">文舉</persName>傳</head><p><lb
+ed="T" n="0808b10"/><persName key="A011607">釋文舉</persName>，姓<name>張</name>氏，<placeName key="PL000000013615"><placeName>婺州</placeName><placeName>東陽</placeName></placeName>人也。<date key="j20038072004161" from-iso="+0774-02-19" to-iso="+0775-02-08">年甫<anchor xml:id="beg0808001"/><choice resp="sgsz"><sic>至</sic><corr>志</corr></choice><anchor xml:id="end0808001"/>學</date><ptr type="glossary" target="#g1443"/>，<lb
+ed="T" n="0808b11"/>遂投師請法。<date key="j20052552005608" from-iso="+0778-02-06" to-iso="+0779-01-25">十九</date>落䰂<ptr rend="display:none;" type="glossary" target="#g635"/>，始墮息慈<ptr type="glossary" target="#g964"/>。<date from-iso="+0787-01-28" key="j20085332008916" to-iso="+0788-02-15"><name>貞元</name>三<lb
+ed="T" n="0808b12"/>年</date>，勅度得戒。<date key="j20052552014379" notBefore-iso="+0778-02-06" notAfter-iso="+0803-01-30">後十五年間</date>，以《四分律》<ptr target="#n70"/>為學，<lb
+ed="T" n="0808b13"/>時術<ptr type="glossary" target="#g817"/>之，晝夜翹勤，遂登講訓。次通《法華經》疏<lb
+ed="T" n="0808b14"/>義，得<persName key="A001301">智者</persName>之膏腴焉。<persName key="A011607">舉</persName>身量六尺餘，其形<lb
 ed="T" n="0808b15"/>如山，其貌如玉，靜若止水，動如浮雲。目不<lb
-ed="T" n="0808b16"/>迴視，口無戲言，四威儀中，無非律範。<placeName key="PL000000014380">丹丘</placeName><lb
-ed="T" n="0808b17"/>二眾，仰為繩準。其奔走他方聽受者，與<persName key="A010413">佛窟<lb
-ed="T" n="0808b18"/>則公</persName>禪道並驅而相高也。尋勅為<placeName key="PL000000014664">國清寺</placeName>大<lb
-ed="T" n="0808b19"/>德。先是<persName key="A001301">智者大師</persName>答<persName key="A004413">隋煬帝</persName>問，立七日金<lb
-ed="T" n="0808b20"/>光明道場<!--找不到此地-->，每年九月，遐邇征鎮侯伯差人送<lb
-ed="T" n="0808b21"/>供，事既無礙，黑白二眾無遠不屆，人纔填<lb
-ed="T" n="0808b22"/>委，飲食闕焉。典座僧患之。<date notBefore-iso="+0827-03-18" key="j20231922026427" notAfter-iso="+0836-01-25"><name>大和</name>中</date>主事僧<persName key="A011624">清<lb
+ed="T" n="0808b16"/>迴視，口無戲言，四威儀<ptr type="glossary" target="#g1065"/>中，無非律範。<placeName key="PL000000014380">丹丘</placeName><lb
+ed="T" n="0808b17"/>二眾<ptr type="glossary" target="#g571"/>，仰為繩準。其奔走他方聽受者，與<placeName key="PL000000014704">佛窟</placeName><lb
+ed="T" n="0808b18"/><persName key="A010413">則<roleName>公</roleName></persName>禪道並驅而相高也。尋勅為<placeName key="PL000000014664">國清寺</placeName>大<lb
+ed="T" n="0808b19"/>德。先是<persName key="A001301">智者<roleName>大師</roleName></persName>答<persName key="A004413">隋煬帝</persName>問，立「七日金<lb
+ed="T" n="0808b20"/>光明道場」，每年九月，遐邇征鎮<ptr type="glossary" target="#g823"/>侯伯差人送<lb
+ed="T" n="0808b21"/>供，事既無礙<ptr type="glossary" target="#g471"/>，黑白二眾無遠不屆，人纔填<lb
+ed="T" n="0808b22"/>委<ptr rend="display:none;" type="glossary" target="#g624"/>，飲食闕焉。典座<ptr type="glossary" target="#g824"/>僧患之。<date notBefore-iso="+0827-03-18" key="j20231922026427" notAfter-iso="+0836-01-25"><name>大和</name>中</date>主事僧<persName key="A011624">清<lb
 ed="T" n="0808b23"/>蘊</persName>咨謀於<persName key="A011607">舉</persName>，置寺莊田十二頃。自此光明<lb
 ed="T" n="0808b24"/>會不聞告乏，<persName key="A011607">舉</persName>之功歟！以<date from-iso="+0842-06-17" key="j20287622028790" to-iso="+0842-07-15"><name>會昌</name>二年五月</date><lb
-ed="T" n="0808b25"/>化去，門人<persName key="A011623">幼清</persName>立塔于寺之西峯。春秋八十<lb
-ed="T" n="0808b26"/>三，僧夏五十五。<persName key="A010414">韓<anchor xml:id="beg0808002"/>又<anchor xml:id="end0808002"/></persName>為碑頌德也。</p>
+ed="T" n="0808b25"/>化去，門人<persName key="A011623">幼清</persName>立塔于<ref type="place" target="#PL000000014664">寺</ref>之西峯。春秋八十<lb
+ed="T" n="0808b26"/>三，僧夏五十五。<persName key="A010414">韓<anchor xml:id="beg0808002"/><choice resp="sgsz"><sic>又</sic><corr>乂</corr></choice><anchor xml:id="end0808002"/></persName>為碑頌德也<ptr target="#n1862"/>。</p>
+    <linkGrp>
+        <link targets="#0808b10 #0808b10"/>
+        <ptr target="#A011607" type="person"/>
+        <ptr target="#PL000000013615" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0808b10 #0808b11"/>
+        <ptr target="#A011607" type="person"/>
+        <ptr target="#j20038072004161" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0808b11 #0808b11"/>
+        <ptr target="#A011607" type="person"/>
+        <ptr target="#j20052552005608" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0808b11 #0808b12"/>
+        <ptr target="#A011607" type="person"/>
+        <ptr target="#j20085332008916" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0808b12 #0808b14"/>
+        <ptr target="#A011607" type="person"/>
+        <ptr target="#j20052552014379" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0808b17 #0808b18"/>
+        <ptr target="#A010413" type="person"/>
+        <ptr target="#PL000000014704" type="place"/>
+    </linkGrp>
     <linkGrp>
         <link targets="#0808b18 #0808b19"/>
         <ptr target="#A011607" type="person"/>
@@ -33,6 +63,11 @@ ed="T" n="0808b26"/>三，僧夏五十五。<persName key="A010414">韓<anchor x
         <ptr target="#A011607" type="person"/>
         <ptr target="#A011624" type="person"/>
         <ptr target="#j20231922026427" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0808b24 #0808b25"/>
+        <ptr target="#A011607" type="person"/>
+        <ptr target="#j20287622028790" type="time"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0808b24 #0808b25"/>

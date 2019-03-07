@@ -1,13 +1,13 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" type="習禪" xml:id="gsz0761c16shiXuanSu"><lb
-ed="T" n="0761c16"/><anchor n="T.50.2061.0761c16"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date><placeName key="PL000000009186">潤州幽棲寺</placeName><persName key="A010251">玄素</persName>傳</head><p><lb
-ed="T" n="0761c17"/><persName key="A010251">釋玄素</persName>，字<persName key="A010251">道清</persName>，俗緣馬氏，<placeName key="PL000000011063">潤州延陵</placeName>人也。生<lb
-ed="T" n="0761c18"/>有異度，幼而深仁，乳育安靜。髫齓<ptr rend="display:none;" type="glossary" target="#g280"/>希<ptr type="glossary" target="#g1451"/>尚，求<lb
-ed="T" n="0761c19"/>歸釋門，父母從之，出依淨域。以<date notBefore-iso="+0692-04-25" key="j19739231974106" notAfter-iso="+0692-10-25">如意年中</date>，<lb
-ed="T" n="0761c20"/>始奉制度，隷名于<placeName key="PL000000008801">江寧長壽寺</placeName>。進具已後，戒<lb
+ed="T" n="0761c16"/><anchor n="T.50.2061.0761c16"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date><placeName key="PL000000009186"><placeName>潤州</placeName><placeName>幽棲寺</placeName></placeName><persName key="A010251">玄素</persName>傳<ptr rend="display:none;" target="#n2366"/></head><p><lb
+ed="T" n="0761c17"/><persName key="A010251">釋玄素</persName>，字<persName key="A010251">道清</persName>，俗緣<name>馬</name>氏，<placeName key="PL000000011063"><placeName>潤州</placeName><placeName>延陵</placeName></placeName>人也。生<lb
+ed="T" n="0761c18"/>有異度，幼而深仁，乳育安靜。髫齓<ptr type="glossary" target="#g280"/>希<ptr rend="display:none;" type="glossary" target="#g1451"/>尚，求<lb
+ed="T" n="0761c19"/>歸<name>釋</name>門，父母從之，出依淨域。以<date notBefore-iso="+0692-04-25" key="j19739231974106" notAfter-iso="+0692-10-25"><name>如意</name>年中</date>，<lb
+ed="T" n="0761c20"/>始奉制度，隷名于<placeName key="PL000000008801"><placeName>江寧</placeName><placeName>長壽寺</placeName></placeName>。進具已後，戒<lb
 ed="T" n="0761c21"/>光騰燭，定水澄漣，思入玄微<ptr type="glossary" target="#g773"/>，行逾人表。既<lb
-ed="T" n="0761c22"/>解色空，常慕宗匠。晚年乃南入<placeName key="PL000000009186">青山幽棲<lb
-ed="T" n="0761c23"/>寺</placeName><ptr target="#n1394"/>，因事<persName key="A010051">威<roleName>禪師</roleName></persName>，躬歷彌載，撞鐘大鳴。<persName key="A010051">威</persName>誨<lb
+ed="T" n="0761c22"/>解色空，常慕宗匠。晚年乃南入<placeName key="PL000000009186"><placeName>青山</placeName><placeName>幽棲<lb
+ed="T" n="0761c23"/>寺</placeName></placeName><ptr target="#n1394"/>，因事<persName key="A010051">威<roleName>禪師</roleName></persName>，躬歷彌載，撞鐘大鳴<ptr type="glossary" target="#g405"/>。<persName key="A010051">威</persName>誨<lb
 ed="T" n="0761c24"/>以勝法，得其不刊<ptr type="glossary" target="#g690"/>之旨。從是伏形苦節，交<lb
 ed="T" n="0761c25"/>養恬和，敗納<ptr type="glossary" target="#g1322"/><anchor xml:id="beg0761005"/>襯<anchor xml:id="end0761005"/>身，寒暑不易，貴賤怨親，曾<lb
 ed="T" n="0761c26"/>無喜慍，時目之為嬰兒行<ptr type="glossary" target="#g1452"/>菩薩。道業既高，<lb
@@ -40,16 +40,16 @@ ed="T" n="0762a23"/>但真乘妙理，絕相難思；嘉瑞靈祥，應感必有
 ed="T" n="0762a24"/>《經》云：「隨緣赴感」<ptr target="#n1396"/>，即其事也。有門弟子<persName key="A010257">法鑑</persName><lb
 ed="T" n="0762a25"/>及<placeName key="PL000000009928">吳中</placeName><persName key="A004218">法欽</persName>，此二大士重光道原，僉具別<lb
 ed="T" n="0762a26"/>傳。受菩薩戒弟子吏部侍郎<persName key="A010258">齊澣</persName>、<placeName key="PL000000030464">廣州</placeName>都督<lb
-ed="T" n="0762a27"/><persName key="A019134">粱<supplied>昇</supplied>卿</persName>、<placeName key="PL000000010986">潤州</placeName>刺史<persName key="A010260">徐嶠</persName>、<placeName key="PL000000042192">京兆</placeName><persName key="A010261">韋昭理</persName>、給事中<persName key="A010262">韓賞</persName>、<lb
-ed="T" n="0762a28"/>御史中丞<persName key="A010263">李<anchor xml:id="beg0762sgsz2"/>丹<anchor xml:id="end0762sgsz2"/></persName>、禮部<persName key="A010264">崔令欽</persName>，並道流人望，咸<lb
+ed="T" n="0762a27"/><persName key="A019134">粱<supplied resp="sgsz">昇</supplied>卿</persName>、<placeName key="PL000000010986">潤州</placeName>刺史<persName key="A010260">徐嶠</persName>、<placeName key="PL000000042192">京兆</placeName><persName key="A010261">韋昭理</persName>、給事中<persName key="A010262">韓賞</persName>、<lb
+ed="T" n="0762a28"/>御史中丞<persName key="A010263"><anchor xml:id="beg0762sgsz2"/>李丹<anchor xml:id="end0762sgsz2"/></persName>、禮部<persName key="A010264">崔令欽</persName>，並道流人望，咸<lb
 ed="T" n="0762a29"/>欵師資，亦甞問道於<persName key="A004218">徑山</persName>，猶<persName key="A019135">樂正子春</persName>於<pb ed="T" n="0762b" xml:id="T50.2061.0762b"/><lb
 ed="T" n="0762b01"/><ref type="person" target="#A002174">夫子</ref><ptr target="#n1397"/>。洗心瞻仰，天漢<ptr type="glossary" target="#g1456"/>彌高；水鑑明心，悟深者<lb
-ed="T" n="0762b02"/>眾矣。洎<date notBefore-iso="+0827-03-18" key="j20231922026427" notAfter-iso="+0836-01-25"><name><anchor xml:id="beg0762001"/>太<anchor xml:id="end0762001"/>和</name>中</date>，遠慕遺風，高其令德，追<lb
-ed="T" n="0762b03"/>諡<persName key="A010251">大律<roleName>禪師</roleName></persName>，<placeName key="PL000000056377"><anchor xml:id="beg0762sgsz3"/>太<anchor xml:id="end0762sgsz3"/>和大寶杭之塔</placeName><ptr target="#n1398"/>。後人多以<lb
+ed="T" n="0762b02"/>眾矣。洎<date notBefore-iso="+0827-03-18" key="j20231922026427" notAfter-iso="+0836-01-25"><name><anchor xml:id="beg0762001"/>太和<anchor xml:id="end0762001"/></name>中</date>，遠慕遺風，高其令德，追<lb
+ed="T" n="0762b03"/>謚<persName key="A010251">大律<roleName>禪師</roleName></persName>，<placeName key="PL000000056377"><anchor xml:id="beg0762sgsz3"/>太和<anchor xml:id="end0762sgsz3"/>大寶杭之塔</placeName><ptr target="#n1398"/>。後人多以<lb
 ed="T" n="0762b04"/>俗氏召之曰<persName key="A010251">馬祖</persName>，或以姓名兼稱曰<persName key="A010251">馬素</persName><lb
 ed="T" n="0762b05"/>是也。</p>
     <p><lb
-ed="T" n="0762b06"/>系曰：<persName key="A001503">彌天</persName>以出家子咸姓釋氏，懸合後到<lb
+ed="T" n="0762b06"/>系曰：<persName key="A001503">彌天</persName>以出家子咸姓<name>釋</name>氏，懸合後到<lb
 ed="T" n="0762b07"/>《阿含經》<ptr target="#n1399"/>，可不務乎？<persName key="A010251">素<roleName>師</roleName></persName>以俗姓呼之，必有<lb
 ed="T" n="0762b08"/>由矣。噫，繁盛法嗣，猶不能遏此訛稱，則知<lb
 ed="T" n="0762b09"/><persName key="A010251">素<roleName>師</roleName></persName>名翼一飛，四海仰止，故登俗域。今警將<lb

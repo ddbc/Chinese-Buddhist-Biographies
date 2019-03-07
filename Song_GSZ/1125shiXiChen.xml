@@ -1,75 +1,103 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" type="遺身" xml:id="gsz0857c12shiXiChen"><lb
-ed="T" n="0857c12"/><anchor n="T.50.2061.0857c12"/><head><date from-iso="+0936-12-05" key="j20632662067017" to-iso="+0947-03-14">晉</date>太原永和三學院<persName key="A009945">息塵</persName>傳</head><p><lb
-ed="T" n="0857c13"/><persName key="A009945">釋息塵</persName>，姓楊氏，<placeName key="PL000000003793">并州</placeName>人也。父遷貿有無，營<lb
+ed="T" n="0857c12"/><anchor n="T.50.2061.0857c12"/><head><date from-iso="+0936-12-05" key="j20632662067017" to-iso="+0947-03-14">晉</date><placeName key="PL000000003784"><placeName>太原</placeName><placeName>永和</placeName><placeName>三學院</placeName></placeName><persName key="A009945">息塵</persName>傳</head><p><lb
+ed="T" n="0857c13"/><persName key="A009945">釋息塵</persName>，姓<name>楊</name>氏，<placeName key="PL000000003794">并州</placeName>人也。父遷貿有無，營<lb
 ed="T" n="0857c14"/>利而已。其母氏甞夢人服裝偉麗，稱寄宵<lb
 ed="T" n="0857c15"/>宿，便覺娠妊。生而有異，童稚不群。每聞鐘<lb
 ed="T" n="0857c16"/>唄之音，凝神側耳。年方十二，因夢金<anchor xml:id="beg0857sgsz21"/>人<anchor xml:id="end0857sgsz21"/>瑰<lb
 ed="T" n="0857c17"/>奇之狀，引之入精廬。明旦告白二親，懇求<lb
 ed="T" n="0857c18"/>出家。未允之前，泣而不食。父母憫其天然，<lb
-ed="T" n="0857c19"/>情何厭塞，遂曲順之。即投草堂院<!--找不到此地-->，從師誦<lb
-ed="T" n="0857c20"/>淨名經菩薩戒，達宵不寐。將周一祀，捨本<lb
+ed="T" n="0857c19"/>情何厭塞，遂曲順之。即投<placeName key="PL000000059401">草堂院</placeName>，從師誦<lb
+ed="T" n="0857c20"/>《淨名經》、《菩薩戒》<ptr target="#n54"/>，達宵不寐。將周一祀<ptr type="glossary" target="#g1230"/>，捨本<lb
 ed="T" n="0857c21"/>諷通。年當十七，便聽習維摩講席，粗知大<lb
-ed="T" n="0857c22"/>義。及乎弱冠，乃圓上品，執持律範，曾無缺<lb
-ed="T" n="0857c23"/>然。年二十三，文義斡通，於崇福寺<!--找不到此地--><persName key="A013461">宗感法師</persName><lb
-ed="T" n="0857c24"/>勝集傳授。復學因明、唯識，不虧敷演，學徒<lb
-ed="T" n="0857c25"/>頴脫者數人。崇福寺<persName key="A013464">辯才大師</persName>、<persName key="A019464">從式</persName>最為高<lb
-ed="T" n="0857c26"/>足。於<date key="j20516472052001" notAfter-iso="+0906-02-01" notBefore-iso="+0905-02-12"><name>天祐</name>二年</date>，李氏奄有<placeName key="PL000000005197">河東</placeName>，<persName key="A009891">武皇帝</persName>請<lb
-ed="T" n="0857c27"/>居大安寺<placeName key="PL000000003786">淨土院</placeName>，四事供養。專覽藏教，<anchor xml:id="beg0857002"/>修<lb
-ed="T" n="0857c28"/>鍊<anchor xml:id="end0857002"/><ptr type="glossary" target="#g75"/>上生業，設無遮大齋，前後五會。<persName key="A009945">塵</persName>甞以<lb
+ed="T" n="0857c22"/>義。及乎弱冠，乃圓上品<ptr type="glossary" target="#g289"/>，執持律範，曾無缺<lb
+ed="T" n="0857c23"/>然。年二十三，文義斡通，於<placeName key="PL000000003781">崇福寺</placeName><ptr rend="display:none;" target="#n2930"/><persName key="A013461">宗感<roleName>法師</roleName></persName><lb
+ed="T" n="0857c24"/>勝集傳授。復學因明<ptr target="#n801"/>、唯識<ptr target="#n2928"/>，不虧敷演，學徒<lb
+ed="T" n="0857c25"/>頴脫者數人。<placeName key="PL000000003781">崇福寺</placeName><persName key="A013464"><persName>辯才大師</persName><persName>從式</persName></persName>最為高<lb
+ed="T" n="0857c26"/>足。於<date key="j20516472052001" notAfter-iso="+0906-02-01" notBefore-iso="+0905-02-12"><name>天祐</name>二年</date>，<persName key="A009891">李<roleName>氏</roleName></persName>奄有<placeName key="PL000000005198">河東</placeName>，<persName key="A009891">武皇帝</persName>請<lb
+ed="T" n="0857c27"/>居<placeName key="PL000000003786"><placeName>大安寺</placeName><placeName>淨土院</placeName></placeName>，四事供養<ptr type="glossary" target="#g1914"/>。專覽藏教<ptr type="glossary" target="#g1915"/>，<anchor xml:id="beg0857002"/>修<lb
+ed="T" n="0857c28"/>鍊<anchor xml:id="end0857002"/><ptr type="glossary" target="#g75"/>上生業<ptr target="#n1052"/>，設無遮<ptr type="glossary" target="#g379"/>大齋，前後五會。<persName key="A009945">塵</persName>甞以<lb
 ed="T" n="0857c29"/>身飼狼虎，入山谷中，其獸近嗅而奔走。又<pb ed="T" n="0858a" xml:id="T50.2061.0858a"/><lb
-ed="T" n="0858a01"/>於林薄裸體，以啖蚊虻。乃遊仙巖嶽寺<!--找不到此地-->，養<lb
+ed="T" n="0858a01"/>於林薄<ptr type="glossary" target="#g1910"/>裸體，以啖蚊虻。乃遊<placeName key="PL000000028989"><placeName>仙巖</placeName><placeName>嶽寺</placeName></placeName>，養<lb
 ed="T" n="0858a02"/>道棲神。復看大藏經匝，設齋，然一指，伸<lb
-ed="T" n="0858a03"/>其報慶。彼寺有聖觀音菩薩像，長爥七燈，<lb
+ed="T" n="0858a03"/>其報慶。<ref type="place" target="#PL000000028989">彼寺</ref>有聖<persName key="A002803">觀音菩薩</persName>像，長爥七燈，<lb
 ed="T" n="0858a04"/>香<anchor xml:id="beg0858sgsz1"/>華<anchor xml:id="end0858sgsz1"/>供獻。後被諸生就請下山，城內傳揚<lb
-ed="T" n="0858a05"/>大論，四序無輟。逐月設沐浴，臨河就沼，投<lb
-ed="T" n="0858a06"/>飼水族。以<anchor xml:id="beg0858sgsz3"/>己<anchor xml:id="end0858sgsz3"/>噠嚫，旋贖羽毛，沈潛高明，以<lb
+ed="T" n="0858a05"/>大論<ptr target="#n55"/>，四序無輟。逐月設沐浴，臨河就沼，投<lb
+ed="T" n="0858a06"/>飼水族；以<anchor xml:id="beg0858sgsz3"/>己<anchor xml:id="end0858sgsz3"/>噠嚫<ptr type="glossary" target="#g1276"/>，旋贖羽毛──沈潛高明<ptr type="glossary" target="#g1916"/>，以<lb
 ed="T" n="0858a07"/>遂生性。或施牢獄人食，或賑惠貧乏，或捐<lb
-ed="T" n="0858a08"/><anchor xml:id="beg0858001"/>旛<anchor xml:id="end0858001"/>蓋於淨明<!--找不到此地-->、金藏<!--找不到此地-->二塔。後唐<date key="j20611272061509" notAfter-iso="+0932-02-13" notBefore-iso="+0931-01-27">長興二年</date>，眾請<lb
-ed="T" n="0858a09"/>於大安國寺後建<placeName key="PL000000003784">三學院</placeName>一所，供待四方<lb
-ed="T" n="0858a10"/>聽眾。時又講華嚴新經，傳授於崇福寺<persName key="A013467">繼暉<lb
-ed="T" n="0858a11"/>法師</persName>。由是三年不出院門，一字一<anchor xml:id="beg0858sgsz5"/>禮<anchor xml:id="end0858sgsz5"/>華嚴<lb
-ed="T" n="0858a12"/>經一遍，字字<anchor xml:id="beg0858sgsz7"/>禮<anchor xml:id="end0858sgsz7"/>大佛名經，共一百二十卷。復<lb
-ed="T" n="0858a13"/><anchor xml:id="beg0858002"/>煉<anchor xml:id="end0858002"/>一指，前後計然五指。時<persName key="A006579">晉高祖</persName>潛躍<placeName key="PL000000003796">晉<lb
-ed="T" n="0858a14"/>陽</placeName>，最多欽重。洎乎龍飛，<persName key="A009945">塵</persName>每入<placeName key="PL000000023581">洛京</placeName>朝覲，<lb
-ed="T" n="0858a15"/>必延內殿從容<ptr type="glossary" target="#g1410"/>，錫賚頗豐。<persName key="A006579">帝</persName>賜紫服并懿<lb
-ed="T" n="0858a16"/>號，固讓方俞。<persName key="A009945">塵</persName>聞鳳翔府<placeName key="PL000000042886">法門寺</placeName>有佛中指<lb
-ed="T" n="0858a17"/>骨節真身，乃辭<persName key="A006579">帝</persName>往<placeName key="PL000000042874"><anchor xml:id="beg0858sgsz9"/>岐<anchor xml:id="end0858sgsz9"/>陽</placeName>瞻<anchor xml:id="beg0858sgsz11"/>禮<anchor xml:id="end0858sgsz11"/>，覩其希奇，<lb
+ed="T" n="0858a08"/><anchor xml:id="beg0858001"/>旛<anchor xml:id="end0858001"/>蓋於<placeName key="PL000000059235">淨明</placeName>、<placeName key="PL000000059054">金藏</placeName>二塔。<placeName key="PL000000057656">後唐</placeName><date key="j20611272061509" from-iso="+0932-02-13" to-iso="+0931-01-27"><name>長興</name>二年</date>，眾請<lb
+ed="T" n="0858a09"/>於<placeName key="PL000000005907">大安國寺</placeName>後建<placeName key="PL000000003784">三學院</placeName>一所，供待四方<lb
+ed="T" n="0858a10"/>聽眾。時又講華嚴新經<ptr target="#n2156"/>，傳授於<placeName key="PL000000003781">崇福寺</placeName><persName key="A013467">繼暉<lb
+ed="T" n="0858a11"/><roleName>法師</roleName></persName>。由是三年不出院門，一字一<anchor xml:id="beg0858sgsz5"/>禮<anchor xml:id="end0858sgsz5"/>《華嚴<lb
+ed="T" n="0858a12"/>經》一遍，字字<anchor xml:id="beg0858sgsz7"/>禮<anchor xml:id="end0858sgsz7"/>大佛名經<ptr target="#n1001"/>，共一百二十卷。復<lb
+ed="T" n="0858a13"/><anchor xml:id="beg0858002"/>煉<anchor xml:id="end0858002"/>一指，前後計然五指。時<persName key="A006579">晉高祖</persName>潛躍<placeName key="PL000000003731">晉<lb
+ed="T" n="0858a14"/>陽</placeName>，最多欽重。洎乎龍飛，<persName key="A009945">塵</persName>每入<placeName key="PL000000023638">洛京</placeName>朝覲，<lb
+ed="T" n="0858a15"/>必延內殿從容<ptr type="glossary" target="#g1410"/>，錫賚頗豐。<ref type="person" target="#A006579">帝</ref>賜紫服并懿<lb
+ed="T" n="0858a16"/>號，固讓方俞。<persName key="A009945">塵</persName>聞<placeName key="PL000000042886"><placeName>鳳翔府</placeName><placeName>法門寺</placeName></placeName>有佛中指<lb
+ed="T" n="0858a17"/>骨節真身，乃辭<ref type="person" target="#A006579">帝</ref>往<placeName key="PL000000042847"><anchor xml:id="beg0858sgsz9"/>岐<anchor xml:id="end0858sgsz9"/>陽</placeName>瞻<anchor xml:id="beg0858sgsz11"/>禮<anchor xml:id="end0858sgsz11"/>，覩其希奇，<lb
 ed="T" n="0858a18"/>又然一指。<persName key="A009945">塵</persName>之雙手唯存二指耳。續於<placeName key="PL000000042792">天<lb
-ed="T" n="0858a19"/>柱寺</placeName>，就<persName key="A013469">楚倫法師</persName>學俱舍論。方經數日，微<lb
-ed="T" n="0858a20"/>有疾生，至七月二十七日辰時枕肱而逝，<lb
+ed="T" n="0858a19"/>柱寺</placeName>，就<persName key="A013469">楚倫<roleName>法師</roleName></persName>學《俱舍論》<ptr target="#n1429"/>。方經數日，微<lb
+ed="T" n="0858a20"/>有疾生，至七月二十七日辰時<ptr target="#n2929"/>枕肱而逝，<lb
 ed="T" n="0858a21"/>俗年六十三，臘四十四。平常唯衣大布，不<lb
 ed="T" n="0858a22"/>蓄盈長。六時<anchor xml:id="beg0858sgsz13"/>禮<anchor xml:id="end0858sgsz13"/>佛，未曾少缺。<placeName key="PL000000047360">隴坻</placeName>之間聞<lb
 ed="T" n="0858a23"/>其示滅，黑白二眾具威儀送焚之，得舍利<lb
-ed="T" n="0858a24"/>數百粒。弟子以靈骨歸于<placeName key="PL000000003793">太原</placeName>，<persName key="A006579">晉祖</persName>勅葬<lb
-ed="T" n="0858a25"/>于晉水之西山<!--找不到此地-->，小塔至今存焉。</p>
+ed="T" n="0858a24"/>數百粒。弟子以靈骨歸于<placeName key="PL000000003794">太原</placeName>，<persName key="A006579">晉祖</persName>勅葬<lb
+ed="T" n="0858a25"/>于<placeName key="PL000000058935">晉水</placeName>之西山，小塔至今存焉。</p>
 <p xml:id="pT50p0858a2601"><lb
-ed="T" n="0858a26"/>系曰：<persName key="A009945">塵師</persName>捐捨，詎能愈其精進乎？脫落浮<lb
+ed="T" n="0858a26"/>系曰：<persName key="A009945">塵<roleName>師</roleName></persName>捐捨，詎能愈其精進乎？脫落浮<lb
 ed="T" n="0858a27"/>榮，豈能勝其義解<ptr rend="display:none;" type="glossary" target="#g544"/>乎？若然者，不可以一名<lb
-ed="T" n="0858a28"/>名矣。厥猶瞻蔔<anchor xml:id="beg0858sgsz15"/>華<anchor xml:id="end0858sgsz15"/>焉，色黃而<anchor xml:id="beg0858003"/><choice resp="sgsz"><sic>矣</sic><corr>美</corr></choice><anchor xml:id="end0858003"/>，則真金<lb
-ed="T" n="0858a29"/>謝其色；香芬而遠，則牛頭愧其香。多名生<pb ed="T" n="0858b" xml:id="T50.2061.0858b"/><lb
-ed="T" n="0858b01"/>乎一體者，其<persName key="A009945">塵公</persName>歟！</p>
+ed="T" n="0858a28"/>名矣。厥猶瞻蔔<ptr type="glossary" target="#g525"/><anchor xml:id="beg0858sgsz15"/>華<anchor xml:id="end0858sgsz15"/>焉，色黃而<anchor xml:id="beg0858003"/><choice resp="sgsz"><sic>矣</sic><corr>美</corr></choice><anchor xml:id="end0858003"/>，則真金<lb
+ed="T" n="0858a29"/>謝其色；香芬而遠，則牛頭<ptr type="glossary" target="#g1599"/>愧其香。多名生<pb ed="T" n="0858b" xml:id="T50.2061.0858b"/><lb
+ed="T" n="0858b01"/>乎一體者，其<persName key="A009945">塵<roleName>公</roleName></persName>歟！</p>
+    <linkGrp>
+        <link targets="#0857c13 #0857c13"/>
+        <ptr target="#A009945" type="person"/>
+        <ptr target="#PL000000003794" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0857c19 #0857c21"/>
+        <ptr target="#A009945" type="person"/>
+        <ptr target="#PL000000059401" type="place"/>
+    </linkGrp>
     <linkGrp>
         <link targets="#0857c23 #0857c24"/>
         <ptr target="#A009945" type="person"/>
         <ptr target="#A013461" type="person"/>
+        <ptr target="#PL000000003781" type="place"/>
     </linkGrp>
     <linkGrp>
-        <link targets="#0857c25 #0857c25"/>
+        <link targets="#0857c24 #0857c26"/>
         <ptr target="#A009945" type="person"/>
         <ptr target="#A013464" type="person"/>
-        <ptr target="#A019464" type="person"/>
+        <ptr target="#PL000000003781" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0857c26 #0857c26"/>
+        <ptr target="#A009891" type="person"/>
+        <ptr target="#PL000000005198" type="place"/>
+        <ptr target="#j20516472052001" type="time"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0857c26 #0857c27"/>
         <ptr target="#A009945" type="person"/>
         <ptr target="#A009891" type="person"/>
-    </linkGrp>
-    <linkGrp>
-        <link targets="#0857c26 #0857c28"/>
-        <ptr target="#A009945" type="person"/>
         <ptr target="#PL000000003786" type="place"/>
         <ptr target="#j20516472052001" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0858a01 #0858a04"/>
+        <ptr target="#A009945" type="person"/>
+        <ptr target="#PL000000028989" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0858a08 #0858a08"/>
+        <ptr target="#A009945" type="person"/>
+        <ptr target="#PL000000059235" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0858a08 #0858a08"/>
+        <ptr target="#A009945" type="person"/>
+        <ptr target="#PL000000059054" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0858a08 #0858a10"/>
@@ -83,15 +111,25 @@ ed="T" n="0858b01"/>乎一體者，其<persName key="A009945">塵公</persName>�
         <ptr target="#A013467" type="person"/>
     </linkGrp>
     <linkGrp>
+        <link targets="#0858a10 #0858a11"/>
+        <ptr target="#A013467" type="person"/>
+        <ptr target="#PL000000003781" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0858a13 #0858a14"/>
+        <ptr target="#A006579" type="person"/>
+        <ptr target="#PL000000003731" type="place"/>
+    </linkGrp>
+    <linkGrp>
         <link targets="#0858a14 #0858a16"/>
         <ptr target="#A009945" type="person"/>
         <ptr target="#A006579" type="person"/>
-        <ptr target="#PL000000023581" type="place"/>
+        <ptr target="#PL000000023638" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0858a16 #0858a18"/>
         <ptr target="#A009945" type="person"/>
-        <ptr target="#PL000000042874" type="place"/>
+        <ptr target="#PL000000042886" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0858a18 #0858a19"/>

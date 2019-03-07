@@ -1,29 +1,39 @@
 <?xml version='1.0' encoding='utf-8'?>
-<div xmlns="http://www.tei-c.org/ns/1.0" type="明律" xml:id="gsz0799c01shiQiHan"><pb n="0799c" xml:id="T50.2061.0799c" ed="T"/>
-    <anchor n="T.50.2061.0799c01"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date><placeName key="PL000000009973">吳郡東虎丘寺</placeName><persName key="A010976">齊翰</persName>傳</head><p><lb
-ed="T" n="0799c02"/><persName key="A010976">釋齊翰</persName>，字<persName key="A010976">等至</persName>，<placeName key="PL000000013012">吳興</placeName>沈氏之子。高祖陳國子<lb
-ed="T" n="0799c03"/>祭酒，曾祖隋<placeName key="PL000000001522">魏州</placeName>司馬，祖考三世不仕。<persName key="A010976">翰</persName>綺<lb
-ed="T" n="0799c04"/>歲<ptr type="glossary" target="#g882"/>從父至山寺，蹈高靜無塵之躅，惻然有<lb
+<div xmlns="http://www.tei-c.org/ns/1.0" type="明律" xml:id="gsz0799c01shiQiHan"><pb n="0799c" xml:id="T50.2061.0799c" ed="T"/><anchor n="T.50.2061.0799c01"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date><placeName key="PL000000009973"><placeName>吳郡</placeName><placeName>東虎丘寺</placeName></placeName><persName key="A010976">齊翰</persName>傳</head><p><lb
+ed="T" n="0799c02"/><persName key="A010976">釋齊翰</persName>，字<persName key="A010976">等至</persName>，<placeName key="PL000000013012">吳興</placeName><name>沈</name>氏之子。高祖<placeName key="PL000000000074">陳</placeName>國子<lb
+ed="T" n="0799c03"/>祭酒，曾祖<placeName key="PL000000001517"><placeName>隋</placeName><placeName>魏州</placeName></placeName>司馬，祖、考三世不仕。<persName key="A010976">翰</persName>綺<lb
+ed="T" n="0799c04"/>歲<ptr rend="display:none;" type="glossary" target="#g882"/>從父至山寺，蹈高靜無塵之躅，惻然有<lb
 ed="T" n="0799c05"/>宿命之知，固請捨家。至<date key="j19948931994893" when-iso="+0749-09-24"><name>天寶</name>八載八月五<lb
 ed="T" n="0799c06"/>日</date>奉制度，配名<placeName key="PL000000009886">永定寺</placeName>。<date from-iso="+0750-11-08" key="j19953031995332" to-iso="+0750-12-07">九載十月</date>，躋五分<lb
-ed="T" n="0799c07"/>壇納形俱戒，移名開元<!--找不到此地-->。<date notBefore-iso="+0766-12-22" key="j20011912005747" notAfter-iso="+0779-06-13"><name>大曆</name>中</date>轉隷<placeName key="PL000000009973">武丘</placeName>，<lb
-ed="T" n="0799c08"/>皆兩州道俗所請從命也。<persName key="A010976">翰</persName>道性淵默，外則<lb
-ed="T" n="0799c09"/>淡然。迹不近名，身不關事，長在一室，寂如<lb
-ed="T" n="0799c10"/>無人，豈比夫駢行鼓簧之士哉？顓門相<lb
-ed="T" n="0799c11"/>部《義疏》<ptr target="#n437"/>，精敏罕儔。明法華經，<anchor xml:id="beg0799003"/>主<anchor xml:id="end0799003"/>蘇湖戒<lb
-ed="T" n="0799c12"/>壇<ptr target="#n442"/>，每當請首，則今時所謂壇長也。<date from-iso="+0775-02-09" key="j20041622004516" to-iso="+0776-01-29"><name>大曆</name>十年</date><lb
+ed="T" n="0799c07"/>壇納形俱戒<ptr target="#n1251"/>，移名<placeName key="PL000000009882">開元</placeName>。<date notBefore-iso="+0766-12-22" key="j20011912005747" notAfter-iso="+0779-06-13"><name>大曆</name>中</date><ptr target="#n1254"/>轉隷<placeName key="PL000000009973">武丘</placeName>，<lb
+ed="T" n="0799c08"/>皆<ref type="place" target="#PL000000009928 #PL000000013012">兩州</ref>道俗所請從命也。<persName key="A010976">翰</persName>道性淵默，外則<lb
+ed="T" n="0799c09"/>淡然<ptr target="#n1252"/>。迹不近名，身不關事，長在一室，寂如<lb
+ed="T" n="0799c10"/>無人，豈比夫駢行鼓簧<ptr type="glossary" target="#g508"/>之士哉？顓門<ptr type="glossary" target="#g999"/><placeName key="PL000000024082">相<lb
+ed="T" n="0799c11"/>部</placeName><ptr type="glossary" target="#g2176"/>義疏<ptr target="#n437"/>，精敏罕儔。明《法華經》，<anchor xml:id="beg0799003"/>主<anchor xml:id="end0799003"/><placeName key="PL000000009928">蘇</placeName><placeName key="PL000000013012">湖</placeName>戒<lb
+ed="T" n="0799c12"/>壇<ptr target="#n442"/>，每當請首，則今時所謂「壇長」也。<date from-iso="+0775-02-09" key="j20041622004516" to-iso="+0776-01-29"><name>大曆</name>十年</date><lb
 ed="T" n="0799c13"/>入<placeName key="PL000000009885">流水念佛道場</placeName>，是夜西方念中頓現，蓋純<lb
 ed="T" n="0799c14"/>誠之所致也。即以其年終<anchor xml:id="begd1e24911"/>於<anchor xml:id="endd1e24911"/>本院，春秋六<lb
 ed="T" n="0799c15"/>十八，法臘二十六<ptr target="#n448"/>。<persName key="A010976">翰</persName>遇疾之日，謂門弟子<lb
-ed="T" n="0799c16"/>曰：「有鶴從空飛下，迴翔<persName key="A010976">我</persName>前，爾曹見乎？必<lb
-ed="T" n="0799c17"/>謝之期，小聖猶病，安能免哉？」受業門人<persName key="A010977">如隱</persName>、<lb
-ed="T" n="0799c18"/>戒壇<persName key="A010978">宣兌</persName>等<ptr target="#n449"/>。與<placeName key="PL000000013012">吳興</placeName><persName key="A008833">皎然</persName>結法門昆弟之交，<lb
+ed="T" n="0799c16"/>曰：「有鶴從空飛下，迴翔<ref type="person" target="#A010976">我</ref>前，爾曹見乎？必<lb
+ed="T" n="0799c17"/>謝<ptr type="glossary" target="#g516"/>之期，小聖<ptr type="glossary" target="#g514"/>猶病，安能免哉？」受業門人<persName key="A010977">如隱</persName>、<lb
+ed="T" n="0799c18"/>戒壇<persName key="A010978">宣兌</persName>等<ptr target="#n449"/>。與<placeName key="PL000000013012">吳興</placeName><persName key="A008833">皎然</persName>結法門昆弟之交<ptr target="#n1253"/>，<lb
 ed="T" n="0799c19"/>俱高潔，難可輕慕焉。</p>
+    <linkGrp>
+        <link targets="#0799c02 #0799c02"/>
+        <ptr target="#A010976" type="person"/>
+        <ptr target="#PL000000013012" type="place"/>
+    </linkGrp>
     <linkGrp>
         <link targets="#0799c05 #0799c06"/>
         <ptr target="#A010976" type="person"/>
         <ptr target="#PL000000009886" type="place"/>
         <ptr target="#j19948931994893" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0799c06 #0799c07"/>
+        <ptr target="#A010976" type="person"/>
+        <ptr target="#PL000000009882" type="place"/>
+        <ptr target="#j19953031995332" type="time"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0799c07 #0799c08"/>
@@ -35,6 +45,12 @@ ed="T" n="0799c19"/>俱高潔，難可輕慕焉。</p>
         <link targets="#0799c12 #0799c14"/>
         <ptr target="#A010976" type="person"/>
         <ptr target="#PL000000009885" type="place"/>
+        <ptr target="#j20041622004516" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0799c14 #0799c14"/>
+        <ptr target="#A010976" type="person"/>
+        <ptr target="#PL000000009973" type="place"/>
         <ptr target="#j20041622004516" type="time"/>
     </linkGrp>
     <linkGrp>

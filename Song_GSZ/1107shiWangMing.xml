@@ -1,38 +1,37 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" type="感通" xml:id="gsz0850c04shiWangMing"><lb
-ed="T" n="0850c04"/><anchor n="T.50.2061.0850c04"/><head><date from-iso="+0936-12-05" key="j20632662067017" to-iso="+0947-03-14">晉</date>襄州<persName key="A012911">亡名</persName>傳</head><p><lb
+ed="T" n="0850c04"/><anchor n="T.50.2061.0850c04"/><head><date from-iso="+0936-12-05" key="j20632662067017" to-iso="+0947-03-14">晉</date><placeName key="PL000000027125">襄州</placeName><persName key="A012911">亡名</persName>傳</head><p><lb
 ed="T" n="0850c05"/><persName key="A012911">釋亡名</persName>，不知何許人也。觀方問道，不憚<lb
 ed="T" n="0850c06"/>艱辛。勝境名山，必約巡訪矣。<date key="j20632532065331" notAfter-iso="+0942-08-01" notBefore-iso="+0936-11-22"><name>天福</name>中</date>，至<placeName key="PL000000027118">襄<lb
 ed="T" n="0850c07"/>州</placeName>禪院挂錫，與一僧循良守法，同九旬禁<lb
-ed="T" n="0850c08"/>足。其人庠序言多詭激，稱名曰<persName key="A012914">法本</persName>，朝昏<lb
-ed="T" n="0850c09"/>共處，心雅相於，若久要之法屬焉。<persName key="A012914">法本</persName>云：<lb
-ed="T" n="0850c10"/>「出家習學，即在鄴都西山<placeName key="PL000000001456">竹林寺</placeName>。<placeName key="PL000000001456">寺</placeName>前有石<lb
-ed="T" n="0850c11"/>柱，他日有暇，必請相訪。」其僧追念前約，因<lb
+ed="T" n="0850c08"/>足<ptr target="#n2808"/>。其人庠序<ptr type="glossary" target="#g1839"/>，言多詭激<ptr type="glossary" target="#g1840"/>，稱名曰<persName key="A012914">法本</persName>。朝昏<lb
+ed="T" n="0850c09"/>共處，心雅相於<ptr target="#n2809"/>，若久要<ptr type="glossary" target="#g1841"/>之法屬焉。<persName key="A012914">法本</persName>云：<lb
+ed="T" n="0850c10"/>「出家習學，即在<placeName key="PL000000001524">鄴都</placeName>西山<placeName key="PL000000001410">竹林寺</placeName>──<ref type="place" target="#PL000000001410">寺</ref>前有石<lb
+ed="T" n="0850c11"/>柱。他日有暇，必請相訪。<ptr target="#n2810"/>」<ref type="person" target="#A012911">其僧</ref>追念前約，因<lb
 ed="T" n="0850c12"/>往尋問。洎至山下村中，投一蘭若止宿，問<lb
-ed="T" n="0850c13"/>彼僧曰：「此去<placeName key="PL000000001456">竹林寺</placeName>近遠？」僧乃遙指孤峯之<lb
+ed="T" n="0850c13"/>彼僧曰：「此去<placeName key="PL000000001410">竹林寺</placeName>近遠？」僧乃遙指孤峯之<lb
 ed="T" n="0850c14"/>側曰：「彼處是也。古老相傳，昔聖賢所居之<lb
 ed="T" n="0850c15"/>地，今但有名存耳，故無精廬淨舍立佛安<lb
-ed="T" n="0850c16"/>僧之所也。」<persName key="A012911">僧</persName>疑之，詰<anchor xml:id="beg0850sgsz9"/>旦<anchor xml:id="end0850sgsz9"/>而往，既覩竹叢，叢<lb
-ed="T" n="0850c17"/>中果有石柱，茫然不知其涯涘。<persName key="A012911">僧</persName>憶<persName key="A012914">法本</persName><lb
-ed="T" n="0850c18"/>臨別之言，但扣其柱，即見其人。遂以小杖<lb
+ed="T" n="0850c16"/>僧之所也。」<ref type="person" target="#A012911">僧</ref>疑之，詰<anchor xml:id="beg0850sgsz9"/>旦<anchor xml:id="end0850sgsz9"/><ptr type="glossary" target="#g408"/>而往，既覩竹叢，叢<lb
+ed="T" n="0850c17"/>中果有石柱，茫然不知其涯涘<ptr type="glossary" target="#g1842"/>。<ref type="person" target="#A012911">僧</ref>憶<persName key="A012914">法本</persName><lb
+ed="T" n="0850c18"/>臨別之言：但扣其柱，即見其人。遂以小杖<lb
 ed="T" n="0850c19"/>擊柱數聲，乃覺風雲四起，咫尺莫窺，俄爾豁<lb
-ed="T" n="0850c20"/>開，樓臺對聳，身在三門之下。逡巡，<persName key="A012914">法本</persName>自<lb
-ed="T" n="0850c21"/>內而出，見之甚喜。問<placeName key="PL000000040462">南中</placeName>之舊事，說<placeName key="PL000000027118">襄</placeName><placeName key="PL000000025497">鄧</placeName><lb
-ed="T" n="0850c22"/>之土風，乃引度重門，升祕殿，領參尊宿，若<lb
+ed="T" n="0850c20"/>開，樓臺對聳，身在三門之下。逡巡<ptr rend="display:none;" type="glossary" target="#g1586"/>，<persName key="A012914">法本</persName>自<lb
+ed="T" n="0850c21"/>內而出，見之甚喜。問<placeName key="PL000000027117">南</placeName>中<ptr target="#n2811"/>之舊事，說<placeName key="PL000000027118">襄</placeName><placeName key="PL000000025497">鄧</placeName><lb
+ed="T" n="0850c22"/>之土風<ptr target="#n2812"/>，乃引度重門，升祕殿，領參尊宿<ptr type="glossary" target="#g1722"/>──若<lb
 ed="T" n="0850c23"/>綱任焉。顧問再三，<persName key="A012914">法本</persName>曰：「早年<placeName key="PL000000027119">襄陽</placeName>同時禁<lb
 ed="T" n="0850c24"/>足，曾期相訪，故及山門也。」尊宿曰：「善。可飯<lb
 ed="T" n="0850c25"/>後請出，在此無座。」言無凡僧之位次也。食<lb
 ed="T" n="0850c26"/>畢，<persName key="A012914">法本</persName>送至三門相別。既而天地昏暗，不知<lb
 ed="T" n="0850c27"/>所向。頃之，宛在竹叢石柱之側，餘並莫覩。<lb
-ed="T" n="0850c28"/>其<persName key="A012911">僧</persName>出述其事，罔知伊<persName key="A012911">僧</persName>其終焉。</p>
-    <p xml:id="pT50p0850c2901"><lb
-ed="T" n="0850c29"/>系曰：入<placeName key="PL000000001456">竹林</placeName><persName key="A012911">僧</persName>，何人也？通曰：「遇仙之士，亦<pb ed="T" n="0851a" xml:id="T50.2061.0851a"/><lb
+ed="T" n="0850c28"/><ref type="person" target="#A012911">其僧</ref>出述其事，罔知<ref type="person" target="#A012911">伊僧</ref>其終焉。</p><p xml:id="pT50p0850c2901"><lb
+ed="T" n="0850c29"/>系曰：入<placeName key="PL000000001410">竹林</placeName><ref type="person" target="#A012911">僧</ref>，何人也？通曰：「遇仙之士，亦<pb ed="T" n="0851a" xml:id="T50.2061.0851a"/><lb
 ed="T" n="0851a01"/>仙之士，聖寺之遊，豈容凡穢？一則顯聖寺之<lb
 ed="T" n="0851a02"/>在人間，一則知聖僧之參緇伍。無輕僧寶，<lb
 ed="T" n="0851a03"/>凡聖混然。此傳新述於數人，振古已聞於<lb
-ed="T" n="0851a04"/>幾處。且如<anchor xml:id="beg0851001"/><choice resp="sgsz"><sic>此</sic><corr>北</corr></choice><anchor xml:id="end0851001"/><date key="j19292721931823" notAfter-iso="+0577-01-18" notBefore-iso="+0570-01-24">齊武平中</date>，<persName key="A006826">釋圓通</persName>曾瞻講下<lb
-ed="T" n="0851a05"/>僧病，其僧夏滿病差，約來鄴中鼓山<placeName key="PL000000001410">竹林寺</placeName>，<lb
-ed="T" n="0851a06"/>事跡略同。此蓋前後到聖寺也。</p>
+ed="T" n="0851a04"/>幾處。且如<anchor xml:id="beg0851001"/><choice resp="sgsz"><sic>此</sic><corr>北</corr></choice><anchor xml:id="end0851001"/><date key="j19292721931823" notAfter-iso="+0577-01-18" notBefore-iso="+0570-01-24"><name>齊</name><name>武平</name>中</date>，<persName key="A006826">釋圓通</persName>曾瞻講下<lb
+ed="T" n="0851a05"/>僧病，其僧夏滿病差，約來<placeName key="PL000000001482">鄴</placeName>中<placeName key="PL000000001410"><placeName>鼓山</placeName><placeName>竹林寺</placeName></placeName>，<lb
+ed="T" n="0851a06"/>事跡略同<ptr target="#n2813"/>。此蓋前後到聖寺也。</p>
     <linkGrp>
         <link targets="#0850c06 #0850c11"/>
         <ptr target="#A012911" type="person"/>
@@ -44,6 +43,12 @@ ed="T" n="0851a06"/>事跡略同。此蓋前後到聖寺也。</p>
         <link targets="#0850c12 #0850c27"/>
         <ptr target="#A012911" type="person"/>
         <ptr target="#A012914" type="person"/>
-        <ptr target="#PL000000001456" type="place"/>
+        <ptr target="#PL000000001410" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0851a04 #0851a06"/>
+        <ptr target="#A006826" type="person"/>
+        <ptr target="#PL000000001410" type="place"/>
+        <ptr target="#j19292721931823" type="time"/>
     </linkGrp>
 </div>

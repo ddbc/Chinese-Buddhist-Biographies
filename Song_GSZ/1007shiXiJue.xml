@@ -1,42 +1,42 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" type="明律" xml:id="gsz0810b15shiXiJue"><lb
-ed="T" n="0810b15"/><anchor n="T.50.2061.0810b15"/><head><date from-iso="+0947-03-15" key="j20670182068464" to-iso="+0951-02-28">漢</date>錢塘千佛寺<persName key="A010005">希覺</persName>傳</head><p><lb
-ed="T" n="0810b16"/><persName key="A010005">釋希覺</persName>，字<persName key="A010005">順之</persName>，姓商氏，世居<placeName key="PL000000009723">晉陵</placeName>。<persName key="A010005">覺</persName>生於<lb
-ed="T" n="0810b17"/><placeName key="PL000000009786"><anchor xml:id="beg0810001"/>溧<anchor xml:id="end0810001"/>陽</placeName>，家系儒墨，屬唐季喪亂，累被剽略，自<lb
+ed="T" n="0810b15"/><anchor n="T.50.2061.0810b15"/><head><date from-iso="+0947-03-15" key="j20670182068464" to-iso="+0951-02-28">漢</date><placeName key="PL000000058085"><placeName>錢塘</placeName><placeName>千佛寺</placeName></placeName><persName key="A010005">希覺</persName>傳</head><p><lb
+ed="T" n="0810b16"/><persName key="A010005">釋希覺</persName>，字<persName key="A010005">順之</persName>，姓<name>商</name>氏，世居<placeName key="PL000000009739">晉陵</placeName>。<persName key="A010005">覺</persName>生於<lb
+ed="T" n="0810b17"/><placeName key="PL000000009786"><anchor xml:id="beg0810001"/>溧<anchor xml:id="end0810001"/>陽</placeName>，家系<name>儒</name><name>墨</name>，屬<date notBefore-iso="+0835-03-10" key="j20261062052491" notAfter-iso="+0907-06-06"><name>唐</name>季</date>喪亂，累被剽略，自<lb
 ed="T" n="0810b18"/>爾貧窶。嘗傭書于給事中<persName key="A009976">羅隱</persName>家，偶問名<lb
-ed="T" n="0810b19"/>居，<persName key="A009976">隱</persName>曰：「<placeName key="PL000000009739">毘陵</placeName>商家兒，何至於此！」歎息再三，<lb
-ed="T" n="0810b20"/>多與<anchor xml:id="beg0810sgsz9"/><choice resp="sgsz"><sic>顧</sic><corr>雇</corr></choice><anchor xml:id="end0810sgsz9"/>直，勸歸鄉修學。至年二十五，歎<lb
-ed="T" n="0810b21"/>曰：「時不我與。或服<anchor xml:id="beg0810sgsz11"/><choice resp="sgsz"><sic>晚</sic><corr>冕</corr></choice><anchor xml:id="end0810sgsz11"/>乘軒，皆一期爾！」忽求<lb
-ed="T" n="0810b22"/>出家于<placeName key="PL000000012500">溫州開元寺</placeName>，<date from-iso="+0888-04-24" key="j20455102045799" to-iso="+0889-02-07"><name>文德</name>元年</date>也。<date notBefore-iso="+0889-02-08" key="j20458002046154" notAfter-iso="+0890-01-28"><name>龍紀</name>中</date>受<lb
-ed="T" n="0810b23"/>戒，續揣摩《律部》，稟教于<placeName key="PL000000042216">西明寺</placeName><persName key="A011638">慧則律師</persName>，<lb
+ed="T" n="0810b19"/>居，<persName key="A009976">隱</persName>曰：「<placeName key="PL000000009739">毘陵</placeName><name>商</name>家兒，何至於此！」歎息再三，<lb
+ed="T" n="0810b20"/>多與<anchor xml:id="beg0810sgsz9"/><choice resp="sgsz"><sic>顧</sic><corr>雇</corr></choice><anchor xml:id="end0810sgsz9"/>直<ptr type="glossary" target="#g946"/>，勸歸鄉修學。至年二十五，歎<lb
+ed="T" n="0810b21"/>曰：「時不我與<ptr rend="display:none;" type="glossary" target="#g947"/>。或服<anchor xml:id="beg0810sgsz11"/><choice resp="sgsz"><sic>晚</sic><corr>冕</corr></choice><anchor xml:id="end0810sgsz11"/>乘軒<ptr type="glossary" target="#g948"/>，皆一期<ptr type="glossary" target="#g1179"/>爾！」忽求<lb
+ed="T" n="0810b22"/>出家于<placeName key="PL000000012500"><placeName>溫州</placeName><placeName>開元寺</placeName></placeName>，<date from-iso="+0888-02-20" key="j20454462045799" to-iso="+0889-02-07"><name>文德</name>元年</date>也。<date notBefore-iso="+0889-02-08" key="j20458002046154" notAfter-iso="+0890-01-28"><name>龍紀</name>中</date>受<lb
+ed="T" n="0810b23"/>戒，續揣摩律部，稟教于<placeName key="PL000000042216">西明寺</placeName><persName key="A011638">慧則<roleName>律師</roleName></persName>，<lb
 ed="T" n="0810b24"/>時在<placeName key="PL000000014411">天台山</placeName>也。<persName key="A011638">則</persName>乃<persName key="A009180">法寶大師</persName>之高足。<date from-iso="+0880-02-18" key="j20425222043063" to-iso="+0881-08-12"><name>廣明</name></date><lb
-ed="T" n="0810b25"/>中，<placeName key="PL000000042002">關中</placeName>喪亂，避地<placeName key="PL000000000197">江表</placeName>，<persName key="A010005">覺</persName>始窺其牆，終見<lb
-ed="T" n="0810b26"/>室家瓌富。以則出《集要記》解<persName key="A001519">南山</persName>鈔<ptr target="#n1290"/>，不稱<lb
+ed="T" n="0810b25"/>中，<placeName key="PL000000042002">關中</placeName>喪亂<ptr target="#n981"/>，避地<placeName key="PL000000000197">江表</placeName>，<persName key="A010005">覺</persName>始窺其牆，終見<lb
+ed="T" n="0810b26"/>室家瓌富<ptr target="#n584"/>。以<persName key="A011638">則</persName>出《集要記》<ptr target="#n1884"/>解<persName key="A001519">南山</persName>鈔<ptr target="#n1290"/>，不稱<lb
 ed="T" n="0810b27"/>所懷。何耶？古德妄相穿鑿，各競師門，流宕忘<lb
-ed="T" n="0810b28"/>返，<persName key="A010005">覺</persName>遂著記廣之，曰《增暉錄》，蓋取<persName key="A006014">曹植</persName><lb
-ed="T" n="0810b29"/>云「螢燭末光，增暉日月。」謙言增暉《集要》之<pb ed="T" n="0810c" xml:id="T50.2061.0810c"/><lb
-ed="T" n="0810c01"/>日月也，二十卷成部。<placeName key="PL000000000150">浙</placeName>之東西，盛行斯錄。<lb
-ed="T" n="0810c02"/>暨乎<persName key="A011638">則公</persName>長往，乃講訓于<placeName key="PL000000012521">永嘉</placeName>。武肅王錢氏<lb
-ed="T" n="0810c03"/><persName key="A007286">季弟鏵</persName>牧是郡，深禮重焉。尋為愚僧所誣<lb
-ed="T" n="0810c04"/><anchor xml:id="beg0810002"/><choice resp="sgsz"><sic>塑</sic><corr>愬</corr></choice><anchor xml:id="end0810002"/>，釋而不問，徙於杭<placeName key="PL000000011487">大錢寺</placeName>。<persName key="A006771">文穆王</persName>造千<lb
-ed="T" n="0810c05"/>佛伽藍<!--找不到此地-->，召為寺主，借紫，私署曰<persName key="A010005">文光大師</persName><lb
-ed="T" n="0810c06"/>焉。四方學者騁騖而臻。<persName key="A010005">覺</persName>外學偏多，長<anchor xml:id="beg0810sgsz13"/><choice resp="sgsz"><sic>有</sic><corr>於</corr></choice><anchor xml:id="end0810sgsz13"/>易<lb
-ed="T" n="0810c07"/>道，著《會釋記》二十卷，解《易》，至上下《繫》及末<lb
+ed="T" n="0810b28"/>返，<persName key="A010005">覺</persName>遂著記廣之，曰《增暉錄》<ptr target="#n1898"/>，蓋取<persName key="A006014">曹植</persName><lb
+ed="T" n="0810b29"/>云「螢燭末光，增暉日月。<ptr target="#n1949"/>」謙言增暉《集要》之<pb ed="T" n="0810c" xml:id="T50.2061.0810c"/><lb
+ed="T" n="0810c01"/>日月也，二十卷成部。<placeName key="PL000000008367">浙</placeName>之東西，盛行斯錄。<lb
+ed="T" n="0810c02"/>暨乎<persName key="A011638">則<roleName>公</roleName></persName>長往，乃講訓于<placeName key="PL000000012522">永嘉</placeName>。<persName key="A003552"><persName>武肅王</persName><persName>錢<roleName>氏</roleName></persName></persName><lb
+ed="T" n="0810c03"/>季弟<persName key="A007286">鏵</persName>牧是郡，深禮重焉。尋為愚僧所誣<lb
+ed="T" n="0810c04"/><anchor xml:id="beg0810002"/><choice resp="sgsz"><sic>塑</sic><corr>愬</corr></choice><anchor xml:id="end0810002"/><ptr type="glossary" target="#g955"/>，釋而不問，徙於<placeName key="PL000000011487"><placeName>杭</placeName><placeName>大錢寺</placeName></placeName>。<persName key="A006771">文穆王</persName>造<placeName key="PL000000058085">千<lb
+ed="T" n="0810c05"/>佛伽藍</placeName>，召為寺主，借紫<ptr type="glossary" target="#g956"/>，私署曰<persName key="A010005">文光大師</persName><lb
+ed="T" n="0810c06"/>焉。四方學者騁騖<ptr type="glossary" target="#g957"/>而臻。<persName key="A010005">覺</persName>外學偏多，長<anchor xml:id="beg0810sgsz13"/><choice resp="sgsz"><sic>有</sic><corr>於</corr></choice><anchor xml:id="end0810sgsz13"/>《易》<lb
+ed="T" n="0810c07"/>道，著《會釋記》二十卷<ptr target="#n2129"/>，解《易》，至上、下〈繫〉及末<lb
 ed="T" n="0810c08"/>文甚備。常為人敷演此經，付授于都僧正<lb
-ed="T" n="0810c09"/><persName key="A001910">贊寧</persName>。及乎老病，乞解見任僧職。既遂所懷，<lb
-ed="T" n="0810c10"/>唯嘯傲山房，以吟詠為樂。年八十一，然猶<lb
+ed="T" n="0810c09"/><persName key="A001910">贊寧</persName>。及乎老病，乞解見任<ptr rend="display:none;" type="glossary" target="#g958"/>僧職。既遂所懷，<lb
+ed="T" n="0810c10"/>唯嘯傲山房，以吟詠為樂。<date from-iso="+0944-02-02" key="j20658812066264" to-iso="+0945-02-19">年八十一</date>，然猶<lb
 ed="T" n="0810c11"/>抄書籍異本，曾無告倦。未終之前，捨衣<lb
-ed="T" n="0810c12"/>物，作現前僧得施，復普飯一城僧。自此困<lb
-ed="T" n="0810c13"/>憊，每睡，見有一人純衣紫服，肌膚軟弱如<lb
-ed="T" n="0810c14"/>綿纊焉，意似相伴。纔欲召弟子將至，此<lb
-ed="T" n="0810c15"/>人舒徐下床，後還如故。親向<persName key="A001910">贊寧</persName>說此，某<lb
-ed="T" n="0810c16"/>知是天人耳。囑託言畢而絕，享年八十五。<lb
-ed="T" n="0810c17"/>生常所著擬<placeName key="PL000000000197">江東</placeName>《讒書》五卷，雜詩賦十五卷，<lb
-ed="T" n="0810c18"/>注林鼎《金陵懷古》百韻詩、雜體四十章。<persName key="A010005">覺</persName>之<lb
+ed="T" n="0810c12"/>物，作現前僧<ptr type="glossary" target="#g959"/>得施，復普飯一城僧。自此困<lb
+ed="T" n="0810c13"/>憊，每睡，見有一人純衣<ptr type="glossary" target="#g960"/>紫服，肌膚軟弱如<lb
+ed="T" n="0810c14"/>綿纊<ptr type="glossary" target="#g791"/>焉，意似相伴。纔欲召弟子將至，此<lb
+ed="T" n="0810c15"/>人舒徐<ptr rend="display:none;" type="glossary" target="#g1220"/>下床，後還如故。親向<persName key="A001910">贊寧</persName>說此，<ref type="person" target="#A001910">某</ref><lb
+ed="T" n="0810c16"/>知是天人耳。囑託言畢而絕，享年<date from-iso="+0948-02-18" key="j20673582067711" to-iso="+0949-02-05">八十五</date>。<lb
+ed="T" n="0810c17"/>生常所著擬<persName key="A009976">江東</persName>《讒書》五卷<ptr target="#n2130"/>，《雜詩賦》十五卷，<lb
+ed="T" n="0810c18"/>注<persName key="A023373">林鼎</persName>《金陵懷古》百韻詩、雜體四十章。<persName key="A010005">覺</persName>之<lb
 ed="T" n="0810c19"/>執持，未嘗弛放，勤於講訓，切於進修。學則<lb
-ed="T" n="0810c20"/>彌老而不休，官則奉身而知退，可謂高尚<lb
-ed="T" n="0810c21"/>其事，名節俱全，長者之風，藹然如在。所居<lb
-ed="T" n="0810c22"/>號釋氏西齋，慕<persName key="A011669">吳兢</persName>之蘊積編簡焉。</p>
+ed="T" n="0810c20"/>彌老而不休，官則奉身<ptr type="glossary" target="#g961"/>而知退，可謂高尚<lb
+ed="T" n="0810c21"/>其事，名節俱全，長者之風，藹然<ptr type="glossary" target="#g598"/>如在。所居<lb
+ed="T" n="0810c22"/>號<placeName key="PL000000058091">釋氏西齋</placeName>，慕<persName key="A011669">吳兢</persName>之蘊積編簡焉。</p>
     <linkGrp>
         <link targets="#0810b16 #0810b17"/>
         <ptr target="#A010005" type="person"/>
@@ -46,12 +46,13 @@ ed="T" n="0810c22"/>號釋氏西齋，慕<persName key="A011669">吳兢</persNam
         <link targets="#0810b18 #0810b20"/>
         <ptr target="#A010005" type="person"/>
         <ptr target="#A009976" type="person"/>
+        <ptr target="#j20261062052491" type="time"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0810b22 #0810b22"/>
         <ptr target="#A010005" type="person"/>
         <ptr target="#PL000000012500" type="place"/>
-        <ptr target="#j20455102045799" type="time"/>
+        <ptr target="#j20454462045799" type="time"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0810b22 #0810b23"/>
@@ -59,6 +60,11 @@ ed="T" n="0810c22"/>號釋氏西齋，慕<persName key="A011669">吳兢</persNam
         <ptr target="#A011638" type="person"/>
         <ptr target="#PL000000042216" type="place"/>
         <ptr target="#j20458002046154" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0810b22 #0810b24"/>
+        <ptr target="#A010005" type="person"/>
+        <ptr target="#PL000000014411" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0810b24 #0810b24"/>
@@ -75,7 +81,12 @@ ed="T" n="0810c22"/>號釋氏西齋，慕<persName key="A011669">吳兢</persNam
         <link targets="#0810c02 #0810c03"/>
         <ptr target="#A010005" type="person"/>
         <ptr target="#A007286" type="person"/>
-        <ptr target="#PL000000012521" type="place"/>
+        <ptr target="#PL000000012522" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0810c02 #0810c03"/>
+        <ptr target="#A003552" type="person"/>
+        <ptr target="#A007286" type="person"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0810c04 #0810c04"/>
@@ -88,13 +99,28 @@ ed="T" n="0810c22"/>號釋氏西齋，慕<persName key="A011669">吳兢</persNam
         <ptr target="#A006771" type="person"/>
     </linkGrp>
     <linkGrp>
+        <link targets="#0810c04 #0810c05"/>
+        <ptr target="#A010005" type="person"/>
+        <ptr target="#PL000000058085" type="place"/>
+    </linkGrp>
+    <linkGrp>
         <link targets="#0810c08 #0810c09"/>
         <ptr target="#A010005" type="person"/>
         <ptr target="#A001910" type="person"/>
     </linkGrp>
     <linkGrp>
+        <link targets="#0810c10 #0810c10"/>
+        <ptr target="#A010005" type="person"/>
+        <ptr target="#j20658812066264" type="time"/>
+    </linkGrp>
+    <linkGrp>
         <link targets="#0810c11 #0810c16"/>
         <ptr target="#A010005" type="person"/>
         <ptr target="#A001910" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0810c16 #0810c16"/>
+        <ptr target="#A010005" type="person"/>
+        <ptr target="#j20673582067711" type="time"/>
     </linkGrp>
 </div>

@@ -1,63 +1,75 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" type="讀誦" xml:id="gsz0866a10shiDaGuang"><lb
-ed="T" n="0866a10"/><anchor n="T.50.2061.0866a10"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date>湖州法華寺<persName key="A013564">大光</persName>傳</head><p><lb
-ed="T" n="0866a11"/><persName key="A013564">釋大光</persName>，俗姓唐氏，生于邑之<placeName key="PL000000013136">安吉</placeName>也。母<persName key="A019470">梅<lb
-ed="T" n="0866a12"/><roleName>氏</roleName></persName><anchor xml:id="beg0866sgsz3"/>寄<anchor xml:id="end0866sgsz3"/>孕而夢協靈祥在娠乃惡葷臭焉。既<lb
-ed="T" n="0866a13"/>誕能言，不為戲弄。未<anchor xml:id="beg0866001"/>齓<anchor xml:id="end0866001"/>之歲，思求佛乘<lb
-ed="T" n="0866a14"/><anchor xml:id="beg0866002"/>矣<anchor xml:id="end0866002"/>。願念法華，三月通貫，經聲一發，頑鄙革<lb
-ed="T" n="0866a15"/>心。及遂出家，而尋登戒，西遊<placeName key="PL000000042189">京邑</placeName>，朝見<lb
-ed="T" n="0866a16"/><persName key="A004378">肅宗</persName>。<persName key="A004378">帝</persName>召對禁中，拱而<anchor xml:id="beg0866sgsz5"/>歎<anchor xml:id="end0866sgsz5"/>曰：「昔夢<placeName key="PL000000008352">吳</placeName>僧，口<lb
-ed="T" n="0866a17"/>持大乘，五光隨發，音容宛若，適朕願兮。」因<lb
-ed="T" n="0866a18"/>賜名<persName key="A013564">大光</persName>。屬<persName key="A004378">帝</persName>降誕節，齋于定國寺<!--找不到此地-->，因賜<lb
-ed="T" n="0866a19"/>墨詔，許天下名寺意往者住持。令中官<ptr type="glossary" target="#g932"/><persName key="A013571">趙<lb
-ed="T" n="0866a20"/>溫</persName>送于<placeName key="PL000000042321">千福寺</placeName>住<placeName key="PL000000042322">持經道場</placeName>。其誦經作<placeName key="PL000000008352">吳</placeName><lb
-ed="T" n="0866a21"/>音，遼遼通於聖聽，<persName key="A004378">帝</persName>甚異其事，令中官而<lb
-ed="T" n="0866a22"/>宣諭焉。後居<placeName key="PL000000042576">藍田</placeName>精舍，先期而寺僧夢天<lb
-ed="T" n="0866a23"/>童來降，曰：「<persName key="A013564">大光</persName>經聲通于有頂。」<persName key="A013564">光</persName>一日宴坐，<lb
+ed="T" n="0866a10"/><anchor n="T.50.2061.0866a10"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date><placeName key="PL000000012908"><placeName>湖州</placeName><placeName>法華寺</placeName></placeName><persName key="A013564">大光</persName>傳</head><p><lb
+ed="T" n="0866a11"/><persName key="A013564">釋大光</persName>，俗姓<name>唐</name>氏，生于邑之<placeName key="PL000000013136">安吉</placeName>也。母<persName key="A019470">梅<lb
+ed="T" n="0866a12"/><roleName>氏</roleName></persName><ptr target="#n3041"/><anchor xml:id="beg0866sgsz3"/>寄<anchor xml:id="end0866sgsz3"/>孕<ptr target="#n3042"/>而夢協靈祥，在娠乃惡葷臭焉。既<lb
+ed="T" n="0866a13"/>誕能言，不為戲弄。未<anchor xml:id="beg0866001"/>齓<anchor xml:id="end0866001"/>之歲，思求佛乘，<lb
+ed="T" n="0866a14"/><anchor xml:id="beg0866002"/><choice resp="sgsz"><sic>矣</sic><corr>矢</corr></choice><anchor xml:id="end0866002"/>願念《法華》。三月通貫，經聲一發，頑鄙革<lb
+ed="T" n="0866a15"/>心。及遂出家，而尋登戒，西遊<ref type="place" target="#PL000000042189">京邑</ref><ptr target="#n3043"/>，朝見<lb
+ed="T" n="0866a16"/><persName key="A004378">肅宗</persName>。<ref type="person" target="#A004378">帝</ref>召對禁中，拱而<anchor xml:id="beg0866sgsz5"/>歎<anchor xml:id="end0866sgsz5"/>曰：「昔夢<placeName key="PL000000013012">吳</placeName>僧，口<lb
+ed="T" n="0866a17"/>持大乘，五光隨發，音容宛若，適<ref type="person" target="#A004378">朕</ref>願兮。」因<lb
+ed="T" n="0866a18"/>賜名<persName key="A013564">大光</persName><ptr target="#n3050"/>。屬<ref type="person" target="#A004378">帝</ref>降誕節，齋于<placeName key="PL000000055502">定國寺</placeName><ptr target="#n3044"/>。因賜<lb
+ed="T" n="0866a19"/>墨詔：許天下名寺意往者住持<ptr target="#n3045"/>。令中官<ptr type="glossary" target="#g932"/><persName key="A013571">趙<lb
+ed="T" n="0866a20"/>溫</persName><ptr target="#n3046"/>送于<placeName key="PL000000042321">千福寺</placeName>住<placeName key="PL000000042322">持經道場</placeName>。其誦經作<placeName key="PL000000013012">吳</placeName><lb
+ed="T" n="0866a21"/>音，遼遼通於聖聽，<ref type="person" target="#A004378">帝</ref>甚異其事，令中官而<lb
+ed="T" n="0866a22"/>宣諭焉<ptr target="#n3047"/>。後居<placeName key="PL000000042576">藍田</placeName>精舍。先期而寺僧夢天<lb
+ed="T" n="0866a23"/>童來降，曰：「<persName key="A013564">大光</persName>經聲通于<placeName>有頂</placeName><ptr type="glossary" target="#g1203"/><ptr target="#n3048"/>。」<persName key="A013564">光</persName>一日宴坐，<lb
 ed="T" n="0866a24"/>自見神手從天而下撫其心，乃憶先達<persName key="A012344">抱玉<lb
-ed="T" n="0866a25"/>大師</persName>甞誌斯言，令高其法音，當有神之輔<lb
-ed="T" n="0866a26"/>翼。又別夕夢神僧乳見於心，命<persName key="A013564">光</persName>口吮，自<lb
+ed="T" n="0866a25"/><roleName>大師</roleName></persName>甞誌斯言，令高其法音，當有神之輔<lb
+ed="T" n="0866a26"/>翼<ptr target="#n3049"/>。又別夕夢神僧乳見於心，命<persName key="A013564">光</persName>口吮，自<lb
 ed="T" n="0866a27"/>爾功力顯暢，形神不勞。又尋山探幽，偶墜<lb
 ed="T" n="0866a28"/>窮谷，龍泉莫測，淪溺其間，心靈了然，都無<lb
-ed="T" n="0866a29"/>惑亂。因思本經多寶塔，為誠願持此支品<pb ed="T" n="0866b" xml:id="T50.2061.0866b"/><lb
+ed="T" n="0866a29"/>惑亂。因思本經〈多寶塔〉<ptr target="#n3017"/>，為誠願持此支品<pb ed="T" n="0866b" xml:id="T50.2061.0866b"/><lb
 ed="T" n="0866b01"/>十萬遍，恍然奮身脫泉，若有神捧焉。後詔<lb
-ed="T" n="0866b02"/>住<placeName key="PL000000042260">資聖</placeName><anchor xml:id="beg0866003"/><choice resp="sgsz"><sic>等</sic><corr>寺</corr></choice><anchor xml:id="end0866003"/>，此寺趙國公<persName key="A013568">長孫無忌</persName>宅，<date key="j19628781963261" notAfter-iso="+0663-02-15" notBefore-iso="+0662-01-28"><name>龍朔</name><lb
-ed="T" n="0866b03"/>二年</date>為<persName key="A002435">文德皇后</persName>追福造。<date from-iso="+0703-08-21" key="j19780571978086" to-iso="+0703-09-19"><name>長安</name><choice resp="sgsz"><sic>七年</sic><corr>三年七月</corr></choice></date><ptr target="#n686"/>，遭火蕩<lb
+ed="T" n="0866b02"/>住<placeName key="PL000000042260">資聖</placeName><anchor xml:id="beg0866003"/><choice resp="sgsz"><sic>等</sic><corr>寺</corr></choice><anchor xml:id="end0866003"/>──<ref type="place" target="#PL000000042260">此寺</ref><persName key="A013568"><persName>趙國公</persName><persName>長孫無忌</persName></persName>宅，<date key="j19632621963615" notAfter-iso="+0664-02-04" notBefore-iso="+0663-02-16"><name>龍朔</name><lb
+ed="T" n="0866b03"/><choice resp="sgsz"><sic>二</sic><corr>三</corr></choice>年</date>為<persName key="A002435">文德皇后</persName>追福造。<date from-iso="+0703-08-21" key="j19780571978086" to-iso="+0703-09-19"><name>長安</name><choice resp="sgsz"><sic>七年</sic><corr>三年七月</corr></choice></date><ptr target="#n686"/>，遭火蕩<lb
 ed="T" n="0866b04"/>盡，唯於灰中，得數部經，不損一字。以事<lb
 ed="T" n="0866b05"/>奏聞，百姓捨施，數日之間已盈鉅萬，遂再<lb
-ed="T" n="0866b06"/>造<placeName key="PL000000042260">其寺</placeName>。<persName key="A013564">光</persName>覽此經，倍加精進。後以偏感有<lb
-ed="T" n="0866b07"/>親在<placeName key="PL000000008352">吳</placeName>，未答慈力，表乞歸省養，詔旨未<lb
-ed="T" n="0866b08"/>允。遂生有妄之疾，策蹇強力，將投于淵。<lb
-ed="T" n="0866b09"/>驢伏不前，群烏拂頂，心既曉覺，疾亦隨瘳。乃<lb
+ed="T" n="0866b06"/>造<ref type="place" target="#PL000000042260">其寺</ref>。──<persName key="A013564">光</persName>覽此經，倍加精進。後以偏感有<lb
+ed="T" n="0866b07"/>親在<placeName key="PL000000013012">吳</placeName>，未答慈力，表乞歸省養，詔旨未<lb
+ed="T" n="0866b08"/>允。遂生有妄<ptr target="#n3051"/>之疾，策蹇<ptr type="glossary" target="#g2003"/>強力，將投于淵。<lb
+ed="T" n="0866b09"/>驢伏不前，群烏拂頂，心既曉覺，疾亦隨瘳。<ptr target="#n3052"/>乃<lb
 ed="T" n="0866b10"/>以經頂荷行道，忽有詔許還。既止<placeName key="PL000000013011">烏程</placeName>，構<lb
-ed="T" n="0866b11"/>營寶塔，日持<anchor xml:id="beg0866sgsz7"/>華<anchor xml:id="end0866sgsz7"/>偈成報往願焉。<date key="j20005002000883" notAfter-iso="+0766-02-17" notBefore-iso="+0765-01-30"><name>永泰</name>元年</date>，<lb
-ed="T" n="0866b12"/>浙西廉使<persName key="A011010">韋元甫</persName>表請<persName key="A013564">光</persName>為六郡別勅道場<lb
-ed="T" n="0866b13"/>持念之首。<date key="j20034242003806" notAfter-iso="+0774-02-18" notBefore-iso="+0773-02-01"><name>大曆</name>癸丑歲</date>，<persName key="A004865">顏魯公真卿</persName>領郡。相<lb
-ed="T" n="0866b14"/>國<persName key="A010516">李紳</persName>父為<placeName key="PL000000013011">烏程</placeName>宰，<persName key="A010516">紳</persName>未朞歲，乳病<anchor xml:id="beg0866sgsz9"/>暴<anchor xml:id="end0866sgsz9"/>作而<lb
-ed="T" n="0866b15"/>不啼，不鑒者七辰。召<persName key="A013564">光</persName>至，命乳母洗滌焚<lb
-ed="T" n="0866b16"/>香，乃朗諷經分別功德品。遂超席而坐，拱<lb
-ed="T" n="0866b17"/>手開眸，<persName key="A013564">光</persName>授飲杯水，令強乳哺之，疾乃徐<lb
-ed="T" n="0866b18"/>愈。<persName key="A013564">光</persName>笑而謂曰：「汝何願返之遄速乎？」因以<lb
-ed="T" n="0866b19"/><persName key="A013564">光</persName>名易<persName key="A010516">紳</persName>小字。<date key="j20078242015139" notAfter-iso="+0805-02-28" notBefore-iso="+0785-02-18"><name>貞元</name>中</date>，<persName key="A010516">紳</persName>重遊霅上，泊舟<lb
-ed="T" n="0866b20"/>之次，<persName key="A013564">光</persName>早遲竚于溪側，而笑言戲撫之，若<lb
-ed="T" n="0866b21"/>稚孺焉。後<persName key="A010516">紳</persName><anchor xml:id="beg0866sgsz10"/>刺<anchor xml:id="end0866sgsz10"/>于<placeName key="PL000000013012">吳興</placeName>，飲醉于館，<persName key="A013564">光</persName>引<lb
-ed="T" n="0866b22"/>宿於道場。夜分將醒，白光滿室，朗然若晝，<lb
-ed="T" n="0866b23"/>往覘<persName key="A013564">光公</persName>宴坐，<name>梵</name>音方作。<persName key="A013564">光</persName>起面門如開，<lb
-ed="T" n="0866b24"/>毫相經音向息，<persName key="A013564">光</persName>色隨斂。<persName key="A010516">紳</persName>歸<placeName key="PL000000042189">京</placeName>相辭，<persName key="A013564">光</persName><lb
-ed="T" n="0866b25"/>曰：「<persName key="A010516">汝</persName>得徑山之言，<persName key="A013564">吾</persName>則無以為諭。行矣自<lb
+ed="T" n="0866b11"/>營寶塔；日持《<supplied resp="sgsz">法</supplied><anchor xml:id="beg0866sgsz7"/>華<anchor xml:id="end0866sgsz7"/>》偈<ptr target="#n3053"/>，成報往願焉。<date key="j20005002000883" notAfter-iso="+0766-02-17" notBefore-iso="+0765-01-30"><name>永泰</name>元年</date>，<lb
+ed="T" n="0866b12"/><placeName key="PL000000008363">浙西</placeName>廉使<persName key="A011010">韋元甫</persName>表請<persName key="A013564">光</persName>為六郡別勅道場<lb
+ed="T" n="0866b13"/>持念之首<ptr target="#n3054"/>。<date key="j20034242003806" notAfter-iso="+0774-02-18" notBefore-iso="+0773-02-01"><name>大曆</name>癸丑歲</date>──<persName key="A004865"><persName>顏</persName><persName>魯公</persName><persName>真卿</persName></persName>領郡<ptr target="#n3055"/>，相<lb
+ed="T" n="0866b14"/>國<persName key="A010516">李紳</persName>父為<placeName key="PL000000013011">烏程</placeName>宰──，<persName key="A010516">紳</persName>未朞歲，乳病<anchor xml:id="beg0866sgsz9"/>暴<anchor xml:id="end0866sgsz9"/>作而<lb
+ed="T" n="0866b15"/>不啼不鑒<ptr target="#n3056"/>者七辰<ptr type="glossary" target="#g1589"/>。召<persName key="A013564">光</persName>至，命乳母洗滌焚<lb
+ed="T" n="0866b16"/>香，乃朗諷經〈分別功德品〉<ptr target="#n3057"/>。遂<choice resp="sgsz"><sic>超</sic><corr>起</corr></choice>席而坐，拱<lb
+ed="T" n="0866b17"/>手開眸。<persName key="A013564">光</persName>授飲杯水，令強乳哺之，疾乃徐<lb
+ed="T" n="0866b18"/>愈<ptr target="#n3058"/>。<persName key="A013564">光</persName>笑而謂曰：「汝何願返之遄速乎？」因以<lb
+ed="T" n="0866b19"/><persName key="A013564">光</persName>名易<persName key="A010516">紳</persName>小字。<date notBefore-iso="+0785-02-18" key="j20078242015139" notAfter-iso="+0805-02-28"><name>貞元</name>中</date>，<persName key="A010516">紳</persName>重遊<placeName key="PL000000013012">霅上</placeName>，泊舟<lb
+ed="T" n="0866b20"/>之次，<persName key="A013564">光</persName>早遲<ptr type="glossary" target="#g2004"/>竚于溪側，而笑言戲撫之，若<lb
+ed="T" n="0866b21"/>稚孺焉。後<persName key="A010516">紳</persName><anchor xml:id="beg0866sgsz10"/>刺<anchor xml:id="end0866sgsz10"/>于<placeName key="PL000000013012">吳興</placeName><ptr target="#n3059"/>，飲醉于館，<persName key="A013564">光</persName>引<lb
+ed="T" n="0866b22"/>宿於道場。夜分<ptr type="glossary" target="#g2005"/>將醒，白光滿室，朗然若晝。<lb
+ed="T" n="0866b23"/>往覘，<persName key="A013564">光<roleName>公</roleName></persName>宴坐，<name>梵</name>音方作，光起面門，如開<lb
+ed="T" n="0866b24"/>毫相。經音向息，光色隨斂<ptr target="#n3060"/>。<persName key="A010516">紳</persName>歸<ref type="place" target="#PL000000042189">京</ref>相辭<ptr target="#n3062"/>，<persName key="A013564">光</persName><lb
+ed="T" n="0866b25"/>曰：「<ref type="person" target="#A010516">汝</ref>得<persName key="A004218">徑山</persName>之言，<ref type="person" target="#A013564">吾</ref>則無以為諭。行矣自<lb
 ed="T" n="0866b26"/>愛，去留有時。他日位處廟堂，以教法為外<lb
-ed="T" n="0866b27"/>護乎？」<date key="j20154432015472" notAfter-iso="+0806-01-27" notBefore-iso="+0805-12-29">永<name>貞元</name>年十二月</date>黑月既夕，示滅于<placeName key="PL000000042322">持<lb
-ed="T" n="0866b28"/>經道場</placeName>，獸嘷鳥墜，山木驚振。異香芬馥，信宿<lb
-ed="T" n="0866b29"/>不消。<anchor xml:id="beg0866sgsz11"/>刺<anchor xml:id="end0866sgsz11"/>史<persName key="A013569">顏防</persName>深愴悼之。<persName key="A013564">光</persName>一納四十歲<pb ed="T" n="0866c" xml:id="T50.2061.0866c"/><lb
-ed="T" n="0866c01"/>無浣濯，而戒香欝然。一飯七十載，徵驗絕<lb
-ed="T" n="0866c02"/>多。故相<persName key="A010516">李公紳</persName>素於空門寡信，頗規僧過，<lb
-ed="T" n="0866c03"/>而敦重<persName key="A013564">光公</persName>，自著碑題云「墨詔<placeName key="PL000000042322">持經</placeName>大德神<lb
-ed="T" n="0866c04"/>異碑銘」，布衣<persName key="A007599">楊夔</persName>書云。</p>
+ed="T" n="0866b27"/>護<ptr type="glossary" target="#g2006"/>乎？<ptr target="#n3063"/>」<date key="j20154432015472" notAfter-iso="+0806-01-27" notBefore-iso="+0805-12-29"><name>永貞</name>元年十二月黑月</date><ptr type="glossary" target="#g2007"/>既夕，示滅于<ref type="place" target="#PL000000012908">持<lb
+ed="T" n="0866b28"/>經道場</ref>，獸嘷鳥墜，山木驚振。異香芬馥，信宿<ptr type="glossary" target="#g499"/><lb
+ed="T" n="0866b29"/>不消。<anchor xml:id="beg0866sgsz11"/>刺<anchor xml:id="end0866sgsz11"/>史<persName key="A013569">顏防</persName><ptr target="#n3061"/>深愴悼之。<persName key="A013564">光</persName>一納四十歲<pb ed="T" n="0866c" xml:id="T50.2061.0866c"/><lb
+ed="T" n="0866c01"/>無浣濯，而戒香欝然；一飯七十載，徵驗絕<lb
+ed="T" n="0866c02"/>多<ptr target="#n3065"/>。故相<persName key="A010516">李<roleName>公</roleName>紳</persName>素於空門寡信，頗規僧過，<lb
+ed="T" n="0866c03"/>而敦重<persName key="A013564">光<roleName>公</roleName></persName>，自著碑題云「墨詔持經大德神<lb
+ed="T" n="0866c04"/>異碑銘」<ptr target="#n3064"/>，布衣<persName key="A007599">楊夔</persName>書云。</p>
+    <linkGrp>
+        <link targets="#0866a11 #0866a13"/>
+        <ptr target="#A013564" type="person"/>
+        <ptr target="#A019470" type="person"/>
+        <ptr target="#PL000000013136" type="place"/>
+    </linkGrp>
     <linkGrp>
         <link targets="#0866a15 #0866a18"/>
         <ptr target="#A013564" type="person"/>
         <ptr target="#A004378" type="person"/>
         <ptr target="#PL000000042189" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0866a18 #0866a18"/>
+        <ptr target="#A013564" type="person"/>
+        <ptr target="#PL000000055502" type="place"/>
+        <ptr target="#j19992911999291" type="time"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0866a19 #0866a20"/>
@@ -82,8 +94,18 @@ ed="T" n="0866c04"/>異碑銘」，布衣<persName key="A007599">楊夔</persNam
         <ptr target="#PL000000042576" type="place"/>
     </linkGrp>
     <linkGrp>
+        <link targets="#0866a24 #0866a26"/>
+        <ptr target="#A013564" type="person"/>
+        <ptr target="#A012344" type="person"/>
+    </linkGrp>
+    <linkGrp>
         <link targets="#0866b01 #0866b01"/>
         <ptr target="#A013564" type="person"/>
+        <ptr target="#PL000000042260" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0866b02 #0866b02"/>
+        <ptr target="#A013568" type="person"/>
         <ptr target="#PL000000042260" type="place"/>
     </linkGrp>
     <linkGrp>
@@ -92,9 +114,11 @@ ed="T" n="0866c04"/>異碑銘」，布衣<persName key="A007599">楊夔</persNam
         <ptr target="#PL000000013011" type="place"/>
     </linkGrp>
     <linkGrp>
-        <link targets="#0866b11 #0866b12"/>
+        <link targets="#0866b11 #0866b13"/>
         <ptr target="#A004379" type="person"/>
         <ptr target="#A011010" type="person"/>
+        <ptr target="#A013564" type="person"/>
+        <ptr target="#j20005002000883" type="time"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0866b13 #0866b19"/>
@@ -107,10 +131,17 @@ ed="T" n="0866c04"/>異碑銘」，布衣<persName key="A007599">楊夔</persNam
         <link targets="#0866b19 #0866b21"/>
         <ptr target="#A013564" type="person"/>
         <ptr target="#A010516" type="person"/>
+        <ptr target="#PL000000013012" type="place"/>
         <ptr target="#j20078242015139" type="time"/>
     </linkGrp>
     <linkGrp>
-        <link targets="#0866b21 #0866b27"/>
+        <link targets="#0866b21 #0866b24"/>
+        <ptr target="#A013564" type="person"/>
+        <ptr target="#A010516" type="person"/>
+        <ptr target="#PL000000013012" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0866b24 #0866b27"/>
         <ptr target="#A013564" type="person"/>
         <ptr target="#A010516" type="person"/>
         <ptr target="#PL000000013012" type="place"/>
@@ -118,7 +149,7 @@ ed="T" n="0866c04"/>異碑銘」，布衣<persName key="A007599">楊夔</persNam
     <linkGrp>
         <link targets="#0866b27 #0866b28"/>
         <ptr target="#A013564" type="person"/>
-        <ptr target="#PL000000042322" type="place"/>
+        <ptr target="#PL000000012908" type="place"/>
         <ptr target="#j20154432015472" type="time"/>
     </linkGrp>
 </div>

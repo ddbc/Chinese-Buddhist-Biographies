@@ -1,43 +1,63 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" type="明律" xml:id="gsz0809c04shiCongLi"><lb
-ed="T" n="0809c04"/><anchor n="T.50.2061.0809c04"/><head><date from-iso="+0923-05-18" key="j20583162063308" to-iso="+0937-01-16">後唐</date>天台山福田寺<persName key="A011649">從禮</persName>傳</head><p><lb
-ed="T" n="0809c05"/><persName key="A011649">釋從禮</persName>，<placeName key="PL000000027119">襄陽</placeName>人也。善事父母，頗揚鄉里之<lb
-ed="T" n="0809c06"/>譽。迨喪偏親，乃果決捨家，于時年已壯矣。<lb
+ed="T" n="0809c04"/><anchor n="T.50.2061.0809c04"/><head><date from-iso="+0923-05-18" key="j20583162063308" to-iso="+0937-01-16">後唐</date><placeName key="PL000000014782"><placeName>天台山</placeName><placeName>福田寺</placeName></placeName><persName key="A011649">從禮</persName>傳</head><p><lb
+ed="T" n="0809c05"/><persName key="A011649">釋從禮</persName>，<placeName key="PL000000027118">襄陽</placeName>人也。善事父母，頗揚鄉里之<lb
+ed="T" n="0809c06"/>譽。迨喪偏親<ptr type="glossary" target="#g925"/>，乃果決捨家，于時年已壯矣。<lb
 ed="T" n="0809c07"/>及登具足，請師傳授戒文。念性殊乖，卒難<lb
 ed="T" n="0809c08"/>捨本，往往睡魔相撓。<persName key="A011649">禮</persName>忿其昏濁，作鐵錐<lb
-ed="T" n="0809c09"/><anchor xml:id="beg0809sgsz15"/>刺<anchor xml:id="end0809sgsz15"/>額兼掌，由是流血，直逾半稔，方遂誦<lb
-ed="T" n="0809c10"/>通。自爾精持律範，造次顛沛必於是。以<date notBefore-iso="+0911-06-05" key="j20539512054363" notAfter-iso="+0912-07-21">梁<lb
+ed="T" n="0809c09"/><anchor xml:id="beg0809sgsz15"/>刺<anchor xml:id="end0809sgsz15"/>額兼掌，由是流血，<anchor xml:id="beg0809sgsz16"/>直<anchor xml:id="end0809sgsz16"/>逾半稔，方遂誦<lb
+ed="T" n="0809c10"/>通。自爾精持律範，造次顛沛必於是<ptr type="glossary" target="#g619"/>。以<placeName key="PL000000048181">梁</placeName><date notBefore-iso="+0911-06-05" key="j20539512054363" notAfter-iso="+0912-07-21"><lb
 ed="T" n="0809c11"/><name>乾化</name>中</date>遊<placeName key="PL000000014411">天台</placeName>，乃挂錫于<placeName key="PL000000014782">平田精舍</placeName>。後推<lb
-ed="T" n="0809c12"/>為<placeName key="PL000000014782">寺</placeName>之上座。持重安詳，喜慍不形于色，唯<lb
-ed="T" n="0809c13"/>行慈忍。恒示眾曰：「波羅提木叉是<persName key="A011649">我</persName>大師，<lb
+ed="T" n="0809c12"/>為<ref type="place" target="#PL000000014782">寺</ref>之上座。持重安詳，喜慍不形于色，唯<lb
+ed="T" n="0809c13"/>行慈忍。恒示眾曰：「波羅提木叉<ptr type="glossary" target="#g1202"/>是<ref type="person" target="#A011649">我</ref>大師，<lb
 ed="T" n="0809c14"/>須知出家非戒，則若猿𤣓之脫鎖焉。」每所<lb
-ed="T" n="0809c15"/>行持，切於布薩，誡眾令護惜浮囊。時夏亢<lb
-ed="T" n="0809c16"/>陽，主事僧來告「將營羅漢齋，奈何園蔬<lb
-ed="T" n="0809c17"/>枯悴！請<ref type="person" target="#A011649">闍<anchor xml:id="beg0809sgsz17"/>黎<anchor xml:id="end0809sgsz17"/></ref>為祈禱。」<persName key="A011649">禮</persName>曰：「但焚香於真君<lb
-ed="T" n="0809c18"/>堂<!--找不到此地-->。」<persName key="A011265">真君</persName>者，<persName key="A011265">周靈王太子</persName>，久聞仙去，以仙官受<lb
-ed="T" n="0809c19"/>任為<persName key="A011267">桐栢真人</persName>右弼，王領五嶽，司侍帝晨。<lb
+ed="T" n="0809c15"/>行持<ptr type="glossary" target="#g121"/>，切於布薩<ptr type="glossary" target="#g1291"/>，誡眾令護惜浮囊<ptr type="glossary" target="#g387"/>。時夏亢<lb
+ed="T" n="0809c16"/>陽，主事僧來告「將營羅漢齋<ptr type="glossary" target="#g922"/>，奈何園蔬<lb
+ed="T" n="0809c17"/>枯悴！請<ref type="person" target="#A011649"><anchor xml:id="beg0809sgsz17"/>闍黎<anchor xml:id="end0809sgsz17"/></ref>為祈禱。」<persName key="A011649">禮</persName>曰：「但焚香於真君<lb
+ed="T" n="0809c18"/>堂。」<persName key="A011267">真君</persName>者，<persName key="A011265">周靈王</persName>太子，久聞仙去，以仙官受<lb
+ed="T" n="0809c19"/>任為<persName key="A011267">桐栢真人</persName>‧<persName key="A011267">右弼王</persName>‧領<placeName key="PLG00000000008">五嶽</placeName>‧司侍帝晨‧<lb
 ed="T" n="0809c20"/><persName key="A011267">王子喬</persName>來治此山，是故<placeName key="PL000000014411">天台山</placeName>僧坊道觀，皆<lb
 ed="T" n="0809c21"/>塑<persName key="A011267">右弼</persName>形像，薦以香果而已。自此俗間號<lb
-ed="T" n="0809c22"/>為山王土地，非也。時主事向仙祠而呪曰：<lb
-ed="T" n="0809c23"/>「上座要雨，以滋枯悴。」至夜，雲起雨霏，三日而<lb
+ed="T" n="0809c22"/>為「山王土地」，非也。時主事向仙祠而呪曰：<lb
+ed="T" n="0809c23"/>「<ref type="person" target="#A011649">上座</ref>要雨以滋枯悴。」至夜，雲起雨霏，三日而<lb
 ed="T" n="0809c24"/>止。又僧厨闕用水槽棧，而山上有赤樹中<lb
-ed="T" n="0809c25"/>為材，來白<persName key="A011649">禮</persName>。<persName key="A011649">禮</persName>曰：「某向<persName key="A011265">真君</persName>道去，但庀<lb
+ed="T" n="0809c25"/>為材，來白<persName key="A011649">禮</persName>。<persName key="A011649">禮</persName>曰：「某向<persName key="A011267">真君</persName>道去，但庀<ptr type="glossary" target="#g924"/><lb
 ed="T" n="0809c26"/>徒具器以伺之。」無何<ptr rend="display:none;" type="glossary" target="#g493"/>，大風卒起，曳<anchor xml:id="beg0809002"/><choice resp="sgsz"><sic>什</sic><corr>仆</corr></choice><anchor xml:id="end0809002"/>其<lb
-ed="T" n="0809c27"/>樹，取用足焉。其感動鬼神，率多此類。兩浙<lb
-ed="T" n="0809c28"/><persName key="A003552">武肅王錢<roleName>氏</roleName></persName>聞之，召入州府，建金光明道<lb
-ed="T" n="0809c29"/>場<!--找不到此地-->，檀施<ptr type="glossary" target="#g237"/>優渥。迴施眾僧，身唯一布納。通夜<pb ed="T" n="0810a" xml:id="T50.2061.0810a"/><lb
+ed="T" n="0809c27"/>樹，取用足焉。其感動鬼神，率多此類。<ref type="place" target="#PL000000008363 #PL000000011308">兩<name>浙</name></ref><lb
+ed="T" n="0809c28"/><persName key="A003552"><persName>武肅王</persName><persName>錢<roleName>氏</roleName></persName></persName>聞之，召入州府，建金光明道<lb
+ed="T" n="0809c29"/>場<ptr type="glossary" target="#g2014"/>，檀施<ptr type="glossary" target="#g237"/>優渥。迴施眾僧，身唯一布納<ptr type="glossary" target="#g1322"/>。通夜<pb ed="T" n="0810a" xml:id="T50.2061.0810a"/><lb
 ed="T" n="0810a01"/>不寐，一食常坐，且無盈長。<date from-iso="+0925-11-24" key="j20592372059266" to-iso="+0925-12-23"><name>同光</name>三年乙酉歲<lb
 ed="T" n="0810a02"/>冬十一月</date>入滅，春秋七十九，僧臘五十二。火<lb
 ed="T" n="0810a03"/>葬，收舍利，立塔存焉。</p>
     <linkGrp>
-        <link targets="#0809c10 #0809c13"/>
+        <link targets="#0809c05 #0809c05"/>
+        <ptr target="#A011649" type="person"/>
+        <ptr target="#PL000000027118" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0809c10 #0809c11"/>
         <ptr target="#A011649" type="person"/>
         <ptr target="#PL000000014782" type="place"/>
         <ptr target="#j20539512054363" type="time"/>
     </linkGrp>
     <linkGrp>
+        <link targets="#0809c18 #0809c18"/>
+        <ptr target="#A011267" type="person"/>
+        <ptr target="#A011265" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0809c20 #0809c20"/>
+        <ptr target="#A011267" type="person"/>
+        <ptr target="#PL000000014411" type="place"/>
+    </linkGrp>
+    <linkGrp>
         <link targets="#0809c27 #0809c29"/>
         <ptr target="#A011649" type="person"/>
         <ptr target="#A003552" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0810a01 #0810a02"/>
+        <ptr target="#A011649" type="person"/>
+        <ptr target="#j20592372059266" type="time"/>
     </linkGrp>
 </div>

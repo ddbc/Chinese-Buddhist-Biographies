@@ -1,65 +1,77 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" type="明律" xml:id="gsz0796b14shiFaShen"><lb
-ed="T" n="0796b14"/><anchor n="T.50.2061.0796b14"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date><anchor xml:id="beg0796sgsz3"/>揚<anchor xml:id="end0796sgsz3"/>州龍興寺<persName key="A009590">法慎</persName>傳</head><p><lb
-ed="T" n="0796b15"/><persName key="A009590">釋法慎</persName>，姓郭氏，<placeName key="PL000000010789">江都</placeName>人也。孩抱之歲，誓齒空<lb
-ed="T" n="0796b16"/>門，親愛所鍾，志不可奪。從<anchor xml:id="beg0796sgsz4"/>遙<anchor xml:id="end0796sgsz4"/>臺<persName key="A008984">成律師</persName>受<lb
-ed="T" n="0796b17"/>具戒。依<placeName key="PL000000042324">太原寺</placeName>東塔，體解律文，絕其所疑，<lb
+ed="T" n="0796b14"/><anchor n="T.50.2061.0796b14"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date><placeName key="PL000000010775"><placeName><anchor xml:id="beg0796sgsz3"/>揚州<anchor xml:id="end0796sgsz3"/></placeName><placeName>龍興寺</placeName></placeName><persName key="A009590">法慎</persName>傳</head><p><lb
+ed="T" n="0796b15"/><persName key="A009590">釋法慎</persName>，姓<name>郭</name>氏，<placeName key="PL000000010789">江都</placeName>人也。孩抱之歲，誓齒<ptr type="glossary" target="#g410"/>空<lb
+ed="T" n="0796b16"/>門，親愛所鍾，志不可奪。從<placeName key="PL000000043132"><anchor xml:id="beg0796sgsz4"/><choice resp="sgsz"><sic>遙</sic><corr>瑤</corr></choice><anchor xml:id="end0796sgsz4"/>臺</placeName><persName key="A008984">成<roleName>律師</roleName></persName>受<lb
+ed="T" n="0796b17"/>具戒<ptr target="#n1065"/>。依<placeName key="PL000000042324">太原寺</placeName><persName key="A001899">東塔</persName>，體解律文，絕其所疑，<lb
 ed="T" n="0796b18"/>時賢推服。或一言曲分於象表，精理自得於<lb
-ed="T" n="0796b19"/>環中，聲振<placeName key="PL000000042189">京師</placeName>，如晞愛日。諸寺眾請綱領，<lb
-ed="T" n="0796b20"/>乃默然而東歸。既還<placeName key="PL000000010783"><anchor xml:id="beg0796sgsz5"/>揚<anchor xml:id="end0796sgsz5"/>都</placeName>，俯允郡願，恒誦<lb
-ed="T" n="0796b21"/>《金剛般<anchor xml:id="beg0796sgsz6"/>若<anchor xml:id="end0796sgsz6"/>經》、《如意輪》。般若佛心，我得此心，眾<lb
-ed="T" n="0796b22"/>生亦得。如意勝願，我如此願，眾生亦如。謂「<ref type="person" target="#A001301">天<lb
+ed="T" n="0796b19"/>環中<ptr type="glossary" target="#g411"/>，聲振<ref type="place" target="#PL000000042189">京師</ref>，如晞愛日<ptr target="#n1031"/>。諸寺眾請綱領，<lb
+ed="T" n="0796b20"/>乃默然而東歸。既還<placeName key="PL000000010783"><anchor xml:id="beg0796sgsz5"/>揚<anchor xml:id="end0796sgsz5"/>都</placeName>，俯允<choice resp="sgsz"><sic>郡</sic><corr>群</corr></choice>願<ptr target="#n1032"/>，恒誦<lb
+ed="T" n="0796b21"/>《金剛般<anchor xml:id="beg0796sgsz6"/>若<anchor xml:id="end0796sgsz6"/>經》<ptr target="#n1033"/>、《如意輪》<ptr target="#n1035"/>。般若佛心，我得此心，眾<lb
+ed="T" n="0796b22"/>生亦得。如意勝願，我如此願，眾生亦如<ptr target="#n1036"/>。謂「<ref type="person" target="#A001301">天<lb
 ed="T" n="0796b23"/>台</ref>止觀，包一切經義；<ref type="person" target="#A000237">東山</ref>法門，是一切佛乘。<lb
-ed="T" n="0796b24"/>色空兩亡，定慧雙照，不可得而稱也。」<persName key="A009590">慎</persName>暑<lb
-ed="T" n="0796b25"/>不攝齊，食不求飽，居不易坐。四方捨施，<lb
+ed="T" n="0796b24"/>色空兩亡，定慧雙照，不可得而稱也。」<persName key="A009590">慎</persName><ptr target="#n1037"/>暑<lb
+ed="T" n="0796b25"/>不攝齊<ptr type="glossary" target="#g412"/>，食不求飽，居不易坐。四方捨施，<lb
 ed="T" n="0796b26"/>歸於大眾，一身有無，均於最下。朝廷之士銜<lb
-ed="T" n="0796b27"/>命往還，路出<placeName key="PL000000010783">維<anchor xml:id="beg0796sgsz7"/>揚<anchor xml:id="end0796sgsz7"/></placeName>，終歲百數，不踐門閾，以<lb
+ed="T" n="0796b27"/>命往還，路出<placeName key="PL000000010783">維<anchor xml:id="beg0796sgsz7"/>揚<anchor xml:id="end0796sgsz7"/></placeName>，終歲百數，不踐門閾<ptr type="glossary" target="#g641"/>，以<lb
 ed="T" n="0796b28"/>為大羞。仰承一盻，如洗飢渴。<persName key="A009590">慎</persName>與人子<lb
 ed="T" n="0796b29"/>言依於孝，與人臣言依於忠，與人上言<pb ed="T" n="0796c" xml:id="T50.2061.0796c"/><lb
-ed="T" n="0796c01"/>依於仁，與人下言依於禮。佛教儒行，合而<lb
-ed="T" n="0796c02"/>為一。學者流誤，故親校經論。延來者聽<lb
+ed="T" n="0796c01"/>依於仁，與人下言依於禮<ptr target="#n1038"/>。佛教儒行，合而<lb
+ed="T" n="0796c02"/>為一。學者流誤，故親校<ptr target="#n1039"/>經論。延來者聽<lb
 ed="T" n="0796c03"/>受，故大起僧坊。將警群迷，故廣圖菩薩因<lb
 ed="T" n="0796c04"/>地。善護諸命，故曲濟眾生壽量。以文字度<lb
-ed="T" n="0796c05"/>人，故工於翰墨。以法皆佛法，故兼<app xml:id="beg0796sgsz15"/><choice resp="sgsz"><sic>釆</sic><corr>采</corr></choice><anchor xml:id="end0796sgsz15"/>儒流。<lb
-ed="T" n="0796c06"/>以我慢為防，故自負衣鉢。以規<anchor xml:id="beg0796sgsz16"/><choice resp="sgsz"><sic>規</sic><corr>矩</corr></choice><anchor xml:id="end0796sgsz16"/>為任，<lb
-ed="T" n="0796c07"/>故綱正緇林。以發揮道宗，故上行恭禮。以<lb
+ed="T" n="0796c05"/>人，故工於翰墨。以法皆佛法，故兼<anchor xml:id="beg0796sgsz15"/><choice resp="sgsz"><sic>釆</sic><corr>采</corr></choice><anchor xml:id="end0796sgsz15"/>儒流。<lb
+ed="T" n="0796c06"/>以我慢<ptr type="glossary" target="#g416"/>為防，故自負衣鉢。以規<anchor xml:id="beg0796sgsz16"/>規<anchor xml:id="end0796sgsz16"/>為任<ptr target="#n1041"/>，<lb
+ed="T" n="0796c07"/>故綱正緇林。以發揮道宗，故上行恭禮<ptr target="#n1042"/>。以<lb
 ed="T" n="0796c08"/>感慕遺迹，故不遠他邦。以龍象參議，故再<lb
-ed="T" n="0796c09"/>至<placeName key="PL000000042189">京國</placeName>。以軌度端明，故研精《律部》歟！黃門<lb
+ed="T" n="0796c09"/>至<ref type="place" target="#PL000000042189">京國</ref>。以軌度端明，故研精律部歟！黃門<lb
 ed="T" n="0796c10"/>侍郎<persName key="A002111">盧藏用</persName>才高名重，罕於推挹，一見于<persName key="A009590">慎</persName>，<lb
-ed="T" n="0796c11"/>慕味循環，不能離坐。退而歎曰：「宇宙之內，信<lb
-ed="T" n="0796c12"/>有高人！」<persName key="A002111">黃門</persName>於院中置以經藏，嚴以香燈，<lb
-ed="T" n="0796c13"/>天地無疆，像法常在。太子少保<persName key="A009070">陸象先</persName>、兵部<lb
-ed="T" n="0796c14"/>尚書<persName key="A010854">畢構</persName>、少府監<persName key="A010855">陸餘慶</persName>、吏部侍郎<persName key="A010205">嚴挺之</persName>、<placeName key="PL000000023579">河<lb
+ed="T" n="0796c11"/>慕味循環<ptr rend="display:none;" type="glossary" target="#g530"/>，不能離坐。退而歎曰：「宇宙之內，信<lb
+ed="T" n="0796c12"/>有高人！<ptr target="#n1043"/>」<persName key="A002111">黃門</persName>於院中置以經藏，嚴以香燈，<lb
+ed="T" n="0796c13"/>天地無疆，像法常在。太子少保<persName key="A009070">陸象先</persName>、<choice resp="sgsz"><sic>兵</sic><corr>吏</corr></choice>部<lb
+ed="T" n="0796c14"/>尚書<ptr target="#n1045"/><persName key="A010854">畢構</persName>、少府監<persName key="A010855">陸餘慶</persName>、吏部侍郎<persName key="A010205">嚴挺之</persName><ptr target="#n1046"/>、<placeName key="PL000000023580">河<lb
 ed="T" n="0796c15"/>南</placeName>尹<persName key="A010856">崔希逸</persName>、太尉<persName key="A010069">房琯</persName>、中書侍郎平章事<persName key="A010270">崔渙</persName>、<lb
-ed="T" n="0796c16"/>禮部尚書<persName key="A010255">李憕</persName>、辭人<persName key="A010857">王昌齡</persName>、著作郎<persName key="A010858">綦母潛</persName>，僉<lb
-ed="T" n="0796c17"/>所瞻奉，願同灑掃。感動朝宰如此。以<date key="j19945781994578" when-iso="+0748-11-13">天<lb
-ed="T" n="0796c18"/>寶七載十月十四日</date>晨興盥漱，就胡床加趺，<lb
+ed="T" n="0796c16"/>禮部尚書<persName key="A010255">李憕</persName>、辭人<persName key="A010857">王昌齡</persName><ptr target="#n1047"/>、著作郎<persName key="A010858">綦母潛</persName>，僉<lb
+ed="T" n="0796c17"/>所瞻奉，願同灑掃。感動朝宰如此。以<date key="j19945781994578" when-iso="+0748-11-13"><name>天<lb
+ed="T" n="0796c18"/>寶</name>七載十月十四日</date>晨興盥漱，就胡床加趺，<lb
 ed="T" n="0796c19"/>心奉西方，既<anchor xml:id="beg0796sgsz18"/><choice resp="sgsz"><sic>嚑</sic><corr>曛</corr></choice><anchor xml:id="end0796sgsz18"/>而滅於<placeName key="PL000000010775">龍興寺</placeName>別院，春秋八<lb
-ed="T" n="0796c20"/>十三，夏六十二。緇素弟子，北距<placeName key="PL000000021458">泗</placeName><placeName key="PL000000021981">沂</placeName>，南踰<lb
-ed="T" n="0796c21"/><placeName key="PL000000030465">嶺徼</placeName>，望哭者千族，會葬者萬人。其上首曰<placeName key="PL000000013240">會<lb
-ed="T" n="0796c22"/>稽</placeName><persName key="A004177">曇一</persName>、<placeName key="PL000000017166">閩</placeName>僧<persName key="A010861">懷一</persName>、<placeName key="PL000000019349">南康</placeName><persName key="A010862">崇叡</persName>、<placeName key="PL000000009723">晉陵</placeName><persName key="A010863">義宣</persName>、錢塘<placeName key="PL000000011484">譚<lb
-ed="T" n="0796c23"/>山寺</placeName><persName key="A010864">惠鸞</persName>、<placeName key="PL000000023581">洛京</placeName><persName key="A010865">法瑜</persName>、<persName key="A010866">崇元</persName>、<placeName key="PL000000011009">鶴林寺</placeName><persName key="A010867">法勵</persName>、<persName key="A009589">法海</persName>、<placeName key="PL000000010783">維<lb
-ed="T" n="0796c24"/><anchor xml:id="beg0796sgsz20"/>揚<anchor xml:id="end0796sgsz20"/></placeName><persName key="A013822">惠凝</persName>、<persName key="A010879">明幽</persName>、<persName key="A001984">靈祐</persName>、<persName key="A009591">靈一</persName>等，罔不成樂說辯<lb
-ed="T" n="0796c25"/>才入《法華》三昧。眾所知識，物之依怙。天上<lb
+ed="T" n="0796c20"/>十三，夏六十二<ptr target="#n1048"/>。緇素弟子，北距<placeName key="PL000000021458">泗</placeName><placeName key="PL000000021981">沂</placeName>，南踰<lb
+ed="T" n="0796c21"/><placeName key="PL000000030465">嶺</placeName>徼<ptr type="glossary" target="#g417"/>，望哭者千族，會葬者萬人。其上首曰<placeName key="PL000000013239">會<lb
+ed="T" n="0796c22"/>稽</placeName><persName key="A004177">曇一</persName>、<placeName key="PL000000017165">閩</placeName>僧<persName key="A010861">懷一</persName>、<placeName key="PL000000019114">南康</placeName><persName key="A010862">崇叡</persName>、<placeName key="PL000000009739">晉陵</placeName><persName key="A010863">義宣</persName>、<placeName key="PL000000011484"><placeName>錢塘</placeName><placeName>譚<lb
+ed="T" n="0796c23"/>山寺</placeName></placeName><persName key="A010864">惠鸞</persName>、<placeName key="PL000000023581">洛京</placeName><persName key="A010865">法瑜</persName>、<persName key="A010866">崇元</persName>、<placeName key="PL000000011009">鶴林寺</placeName><persName key="A010867">法勵</persName>、<persName key="A009589">法海</persName>、<placeName key="PL000000010783">維<lb
+ed="T" n="0796c24"/><anchor xml:id="beg0796sgsz20"/>揚<anchor xml:id="end0796sgsz20"/></placeName><persName key="A013822">惠凝</persName>、<persName key="A010879">明幽</persName>、<persName key="A023322">靈祐</persName>、<persName key="A009591">靈一</persName>等<ptr target="#n1049"/>，罔不成樂說辯<lb
+ed="T" n="0796c25"/>才<ptr target="#n1050"/>，入法華三昧<ptr type="glossary" target="#g178"/>。眾所知識，物之依怙。天上<ptr target="#n1051"/><lb
 ed="T" n="0796c26"/>甘露，正味調柔；人中象王，利根成熟。音樂樹<lb
-ed="T" n="0796c27"/>下，長流福慧之泉；雪山峯頂，仰見清涼之月。<lb
+ed="T" n="0796c27"/>下，長流福慧之泉<ptr target="#n1053"/>；雪山峯頂，仰見清涼之月<ptr target="#n1054"/>。<lb
 ed="T" n="0796c28"/>金剛決定，煩惱無餘。優曇開敷，香潔盈滿。法<lb
-ed="T" n="0796c29"/>施之恩，郡居之感，哀奉色身，經始靈塔<anchor xml:id="begd1e24155"/>於<anchor xml:id="endd1e24155"/><pb ed="T" n="0797a" xml:id="T50.2061.0797a"/><lb
-ed="T" n="0797a01"/>蕪城西<placeName key="PL000000010756">蜀岡之原</placeName>。像教也，<persName key="A010879">幽公</persName>自幼及衰，恒<lb
+ed="T" n="0796c29"/>施之恩，郡居之感<ptr target="#n1057"/>，哀奉色身，經始<ptr type="glossary" target="#g388"/>靈塔<anchor xml:id="begd1e24155"/>於<anchor xml:id="endd1e24155"/><pb ed="T" n="0797a" xml:id="T50.2061.0797a"/><lb
+ed="T" n="0797a01"/><placeName key="PL000000010783">蕪城</placeName>西<placeName key="PL000000010756">蜀岡</placeName>之原，像教也。<persName key="A010879">幽<roleName>公</roleName></persName>自幼及衰<ptr target="#n1058"/>，恒<lb
 ed="T" n="0797a02"/>所親侍，後請吏部員外郎<placeName key="PL000000001058">趙郡</placeName><persName key="A000519">李華</persName>為碑<lb
-ed="T" n="0797a03"/>紀述，<date from-iso="+0774-01-21" key="j20037782003806" to-iso="+0774-02-18"><name>大曆</name>八年癸丑十二月</date>也。大理司直<persName key="A010880">張<lb
-ed="T" n="0797a04"/>從申</persName>書，<placeName key="PL000000001058">趙郡</placeName><persName key="A008672">李陽氷</persName>題額。其塔亦<persName key="A010879">幽公</persName>經度。<lb
-ed="T" n="0797a05"/>建塔之地，廣袤如素，高卑得中。周臨四衢，<lb
+ed="T" n="0797a03"/>紀述<ptr target="#n1061"/>，<date from-iso="+0774-01-21" key="j20037782003806" to-iso="+0774-02-18"><name>大曆</name>八年癸丑十二月</date>也。大理司直<persName key="A010880">張<lb
+ed="T" n="0797a04"/>從申</persName>書，<placeName key="PL000000001058">趙郡</placeName><persName key="A008672">李陽氷</persName>題額。其塔亦<persName key="A010879">幽<roleName>公</roleName></persName>經度。<lb
+ed="T" n="0797a05"/>建塔之地，廣袤<ptr target="#n1063"/>如素，高卑得中。周臨四衢，<lb
 ed="T" n="0797a06"/>平視千里。門人環蒔列柏，薦以名香。其塔<lb
 ed="T" n="0797a07"/>屬<date notBefore-iso="+0841-02-08" key="j20282682030170" notAfter-iso="+0846-04-25"><name>會昌</name>中</date>，例皆毀焉。</p>
+    <linkGrp>
+        <link targets="#0796b14 #0796b14"/>
+        <ptr target="#A009590" type="person"/>
+        <ptr target="#PL000000010775" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0796b15 #0796b15"/>
+        <ptr target="#A009590" type="person"/>
+        <ptr target="#PL000000010789" type="place"/>
+    </linkGrp>
     <linkGrp>
         <link targets="#0796b16 #0796b16"/>
         <ptr target="#A009590" type="person"/>
         <ptr target="#A008984" type="person"/>
+        <ptr target="#PL000000043132" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0796b17 #0796b18"/>
         <ptr target="#A009590" type="person"/>
+        <ptr target="#A001899" type="person"/>
         <ptr target="#PL000000042324" type="place"/>
     </linkGrp>
     <linkGrp>
@@ -84,6 +96,11 @@ ed="T" n="0797a07"/>屬<date notBefore-iso="+0841-02-08" key="j20282682030170" n
         <ptr target="#PL000000042189" type="place"/>
     </linkGrp>
     <linkGrp>
+        <link targets="#0796b14 #0796b15"/>
+        <ptr target="#A010856" type="person"/>
+        <ptr target="#PL000000023580" type="place"/>
+    </linkGrp>
+    <linkGrp>
         <link targets="#0796c17 #0796c20"/>
         <ptr target="#A009590" type="person"/>
         <ptr target="#PL000000010775" type="place"/>
@@ -102,9 +119,54 @@ ed="T" n="0797a07"/>屬<date notBefore-iso="+0841-02-08" key="j20282682030170" n
         <ptr target="#A009589" type="person"/>
         <ptr target="#A013822" type="person"/>
         <ptr target="#A010879" type="person"/>
-        <ptr target="#A001984" type="person"/>
+        <ptr target="#A023322" type="person"/>
         <ptr target="#A009591" type="person"/>
         <ptr target="#A009590" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0796c21 #0796c22"/>
+        <ptr target="#A004177" type="person"/>
+        <ptr target="#PL000000013239" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0796c22 #0796c22"/>
+        <ptr target="#A010861" type="person"/>
+        <ptr target="#PL000000017165" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0796c22 #0796c22"/>
+        <ptr target="#A010862" type="person"/>
+        <ptr target="#PL000000019114" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0796c22 #0796c22"/>
+        <ptr target="#A010863" type="person"/>
+        <ptr target="#PL000000009739" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0796c22 #0796c23"/>
+        <ptr target="#A010864" type="person"/>
+        <ptr target="#PL000000011484" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0796c23 #0796c23"/>
+        <ptr target="#A010865" type="person"/>
+        <ptr target="#A010866" type="person"/>
+        <ptr target="#PL000000023581" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0796c23 #0796c23"/>
+        <ptr target="#A010867" type="person"/>
+        <ptr target="#A009589" type="person"/>
+        <ptr target="#PL000000011009" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0796c23 #0796c24"/>
+        <ptr target="#A013822" type="person"/>
+        <ptr target="#A010879" type="person"/>
+        <ptr target="#A023322" type="person"/>
+        <ptr target="#A009591" type="person"/>
+        <ptr target="#PL000000010783" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0797a01 #0797a02"/>
@@ -115,11 +177,13 @@ ed="T" n="0797a07"/>屬<date notBefore-iso="+0841-02-08" key="j20282682030170" n
         <link targets="#0797a02 #0797a03"/>
         <ptr target="#A000519" type="person"/>
         <ptr target="#A010879" type="person"/>
+        <ptr target="#j20037782003806" type="time"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0797a03 #0797a05"/>
         <ptr target="#A010880" type="person"/>
         <ptr target="#A010879" type="person"/>
         <ptr target="#A008672" type="person"/>
+        <ptr target="#j20037782003806" type="time"/>
     </linkGrp>
 </div>

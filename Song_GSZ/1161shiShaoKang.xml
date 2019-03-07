@@ -1,76 +1,77 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" type="讀誦" xml:id="gsz0867b11shiShaoKang"><lb
-ed="T" n="0867b11"/><anchor n="T.50.2061.0867b11"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date>睦州烏龍山淨土道場<ptr target="#n284"/><persName key="A013578">少康</persName>傳</head><p><lb
-ed="T" n="0867b12"/><persName key="A013578">釋少康</persName>，俗姓周，<placeName key="PL000000014959">縉雲仙都山</placeName>人也。母<persName key="A019471">羅<roleName>氏</roleName></persName>因<lb
-ed="T" n="0867b13"/>夢遊<placeName key="PL000000031115">鼎湖峯</placeName>，得玉女手捧青蓮授曰：「此<anchor xml:id="beg0867sgsz1"/>華<anchor xml:id="end0867sgsz1"/><lb
-ed="T" n="0867b14"/>吉祥，寄於汝所，後生貴子，切當保惜！」及生<lb
-ed="T" n="0867b15"/><persName key="A013578">康</persName>之日，青光滿室，香似芙蕖。迨綳褓之年，<lb
-ed="T" n="0867b16"/>眼碧脣朱，齒得佛之一相，恒端坐含笑。時<lb
-ed="T" n="0867b17"/>鄉中善相人也，目之，「此子將相之才，不語，<lb
-ed="T" n="0867b18"/>吾弗知也」。年甫七歲，抱入靈山寺<!--找不到此地-->中，佛生日<lb
+ed="T" n="0867b11"/><anchor n="T.50.2061.0867b11"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date><placeName key="PL000000011994"><placeName>睦州</placeName><placeName>烏龍山</placeName><placeName>淨土道場</placeName></placeName><ptr target="#n284"/><persName key="A013578">少康</persName>傳</head><p><lb
+ed="T" n="0867b12"/><persName key="A013578">釋少康</persName>，俗姓<name>周</name>，<placeName key="PL000000014959"><placeName>縉雲</placeName><placeName>仙都山</placeName></placeName>人也<ptr target="#n3088"/>。母<persName key="A019471">羅<roleName>氏</roleName></persName>因<lb
+ed="T" n="0867b13"/>夢遊<placeName key="PL000000031115">鼎湖峯</placeName>，得玉女<ptr rend="display:none;" type="glossary" target="#g2013"/>手捧青蓮授曰：「此<anchor xml:id="beg0867sgsz2"/>華<anchor xml:id="end0867sgsz2"/><lb
+ed="T" n="0867b14"/>吉祥，寄於<ref type="person" target="#A019471">汝</ref>所，後生貴子，切當保惜！」及生<lb
+ed="T" n="0867b15"/><persName key="A013578">康</persName>之日，青光滿室，香似芙蕖。迨綳褓之年<ptr target="#n3077"/>，<lb
+ed="T" n="0867b16"/>眼碧脣朱，齒得佛之一相<ptr target="#n3079"/>，恒端坐含笑<ptr target="#n3078"/>。時<lb
+ed="T" n="0867b17"/>鄉中善相人也，目之：「<ref type="person" target="#A013578">此子</ref>將相之才，不語，<lb
+ed="T" n="0867b18"/>吾弗知也」。年甫七歲，抱入<placeName key="PL000000014916">靈山寺</placeName>中，佛生日<lb
 ed="T" n="0867b19"/><anchor xml:id="beg0867sgsz3"/>禮<anchor xml:id="end0867sgsz3"/>聖容，<ref type="person" target="#A019471">母</ref>問<persName key="A013578">康</persName>曰：「識否？」忽發言云：「<persName key="A002799">釋迦牟<lb
-ed="T" n="0867b20"/>尼佛</persName>。」聞皆怪之，蓋生來不言語也。由是父<lb
-ed="T" n="0867b21"/><ref type="person" target="#A019471">母</ref>捨其出家。年十有五，所誦之經已終五<lb
-ed="T" n="0867b22"/>部。於<placeName key="PL000000013176">越州嘉祥寺</placeName>受戒，便就伊寺學毘<lb
-ed="T" n="0867b23"/>尼。五夏之後，往<placeName key="PL000000008820">上元</placeName>龍興寺，聽華嚴經、瑜伽<lb
-ed="T" n="0867b24"/>論。<date key="j20078242015139" notAfter-iso="+0805-02-28" notBefore-iso="+0785-02-18"><name>貞元</name>初</date>，至于洛京<placeName key="PL000000023663">白馬寺</placeName>殿，見物放光，<lb
-ed="T" n="0867b25"/>遂探取為何經法，乃<persName key="A001349">善導</persName>行西方化導文也。<lb
-ed="T" n="0867b26"/><persName key="A013578">康</persName>見歡喜，呪之曰：「<persName key="A013578">我</persName>若與淨土有緣，惟此<lb
+ed="T" n="0867b20"/>尼佛</persName>。」聞皆怪之──蓋生來不言語也。由是父<lb
+ed="T" n="0867b21"/><ref type="person" target="#A019471">母</ref>捨其出家<ptr target="#n3080"/>。年十有五，所誦之經已終五<lb
+ed="T" n="0867b22"/>部，於<placeName key="PL000000013176"><placeName>越州</placeName><placeName>嘉祥寺</placeName></placeName>受戒，便就<ref type="place" target="#PL000000013176">伊寺</ref>學毘<lb
+ed="T" n="0867b23"/>尼<ptr target="#n3081"/>。五夏之後，往<placeName key="PL000000055431"><placeName>上元</placeName><placeName>龍興寺</placeName></placeName>，聽《華嚴經》、《瑜伽<lb
+ed="T" n="0867b24"/>論》<ptr target="#n1511"/>。<date notBefore-iso="+0785-02-18" key="j20078242009652" notAfter-iso="+0790-02-20"><name>貞元</name>初</date>，至于<placeName key="PL000000023663"><placeName>洛京</placeName><placeName>白馬寺</placeName></placeName>殿，見物放光，<lb
+ed="T" n="0867b25"/>遂探取為何經法，乃<persName key="A001349">善導</persName>〈行西方化導文〉也<ptr target="#n3089"/>。<lb
+ed="T" n="0867b26"/><persName key="A013578">康</persName>見歡喜，呪之曰：「<ref type="person" target="#A013578">我</ref>若與淨土有緣，惟此<lb
 ed="T" n="0867b27"/>軸文斯光再現！」所誓纔終，果重閃爍中有化<lb
-ed="T" n="0867b28"/>佛菩薩無算。遂之長安<placeName key="PL000000042174">善導影堂</placeName>內乞願<lb
-ed="T" n="0867b29"/>見<persName key="A001349">善導</persName>。真像化為佛身，謂<persName key="A013578">康</persName>曰：「<persName key="A013578">汝</persName>依<persName key="A001349">吾</persName>施<pb ed="T" n="0867c" xml:id="T50.2061.0867c"/><lb
-ed="T" n="0867c01"/>設，利樂眾生，同生安養。」<persName key="A013578">康</persName>如有所證，南<lb
-ed="T" n="0867c02"/>至江陵<placeName key="PL000000027759">果願寺</placeName>，遇一法師，謂<persName key="A013578">康</persName>曰：「<persName key="A013578">汝</persName>欲化<lb
-ed="T" n="0867c03"/>人，徑往<placeName key="PL000000011957">新定</placeName>，緣在於彼。」言訖不見，止有香<lb
-ed="T" n="0867c04"/>光望西而去。洎到<placeName key="PL000000012005">睦郡</placeName>，入城乞食，得錢<lb
-ed="T" n="0867c05"/>誘掖小兒，能念阿彌陀佛一聲，即付一錢。<lb
+ed="T" n="0867b28"/>佛菩薩無算<ptr target="#n3082"/>。遂之<placeName key="PL000000042174"><placeName>長安</placeName><placeName>善導影堂</placeName></placeName>內乞願。<lb
+ed="T" n="0867b29"/>見<persName key="A001349">善導</persName>真像化為佛身，謂<persName key="A013578">康</persName>曰：「<ref type="person" target="#A013578">汝</ref>依<ref type="person" target="#A001349">吾</ref>施<pb ed="T" n="0867c" xml:id="T50.2061.0867c"/><lb
+ed="T" n="0867c01"/>設<ptr type="glossary" target="#g1184"/>，利樂眾生，同生安養<ptr type="glossary" target="#g843"/>。」<persName key="A013578">康</persName>如有所證，南<lb
+ed="T" n="0867c02"/>至<placeName key="PL000000027759"><placeName>江陵</placeName><placeName>果願寺</placeName></placeName>，遇一法師，謂<persName key="A013578">康</persName>曰：「<ref type="person" target="#A013578">汝</ref>欲化<lb
+ed="T" n="0867c03"/>人，徑往<placeName key="PL000000012005">新定</placeName>，緣在於彼。」言訖不見，止有香<lb
+ed="T" n="0867c04"/>光望西而去。洎到<placeName key="PL000000012005">睦郡</placeName><ptr target="#n3083"/>，入城乞食，得錢，<lb
+ed="T" n="0867c05"/>誘掖<ptr type="glossary" target="#g2017"/>小兒──能念「阿彌陀佛」一聲，即付一錢。<lb
 ed="T" n="0867c06"/>後經月餘，孩孺螘慕<ptr type="glossary" target="#g931"/>，念佛多者即給錢。如<lb
-ed="T" n="0867c07"/>是一年，凡男女見<persName key="A013578">康</persName>，則云「阿彌陀佛」。遂於<lb
-ed="T" n="0867c08"/><placeName key="PL000000011985">烏龍山</placeName>，建<placeName key="PL000000011994">淨土道場</placeName>，築壇三級，聚人午夜<lb
+ed="T" n="0867c07"/>是一年，凡男女見<persName key="A013578">康</persName>，則云「阿彌陀佛」<ptr target="#n3084"/>。遂於<lb
+ed="T" n="0867c08"/><placeName key="PL000000011985">烏龍山</placeName>建<placeName key="PL000000011994">淨土道場</placeName><ptr target="#n3085"/>，築壇三級，聚人午夜<lb
 ed="T" n="0867c09"/>行道，唱讚二十四契，稱揚淨邦。每遇齋日<lb
 ed="T" n="0867c10"/>雲集，所化三千許人。登座，令男女弟子望<lb
-ed="T" n="0867c11"/><persName key="A013578">康</persName>面門，即高聲唱阿彌陀佛。佛從口出，連<lb
+ed="T" n="0867c11"/><persName key="A013578">康</persName>面門，即高聲唱「阿彌陀佛」，佛從口出，連<lb
 ed="T" n="0867c12"/>誦十聲，十佛若連珠狀，告曰：「汝見佛身，即<lb
-ed="T" n="0867c13"/>得往生。」以<date key="j20151402015327" notAfter-iso="+0805-09-04" notBefore-iso="+0805-03-01"><name>貞元</name>二十一年</date>十月示眾囑累，<lb
+    ed="T" n="0867c13"/>得往生。」以<date key="j20153832015412" notAfter-iso="+0805-11-28" notBefore-iso="+0805-10-30"><name>貞元</name>二十一年十月</date><ptr target="#n3086"/>示眾囑累，<lb
 ed="T" n="0867c14"/>止勸急修淨土。言畢<anchor xml:id="beg0867sgsz5"/>跏<anchor xml:id="end0867sgsz5"/>趺，身放光明而逝。<lb
 ed="T" n="0867c15"/>天色斗變，狂風四起，百鳥悲鳴。<placeName key="PL000000011985">烏龍山</placeName>也一<lb
 ed="T" n="0867c16"/>時變白。今墳塔存于州東<placeName key="PL000000011986">臺子巖</placeName>，歲久唯<lb
-ed="T" n="0867c17"/>餘方石。石傍之土，相傳療疾，<placeName key="PL000000012005">州</placeName>民凡嬰眾<lb
+ed="T" n="0867c17"/>餘方石。石傍之土，相傳療疾，<ref type="place" target="#PL000000012005">州</ref>民凡嬰眾<lb
 ed="T" n="0867c18"/>病，悉焚香取土，隨服多差。石之四隅若車<lb
-ed="T" n="0867c19"/>轍焉。漢<date key="j20680662068411" notAfter-iso="+0951-01-06" notBefore-iso="+0950-01-26"><name>乾祐</name>三年</date>，<placeName key="PL000000014411">天台山</placeName><persName key="A008355">德韶禪師</persName>重建其<lb
-ed="T" n="0867c20"/>塔，至今高敞，時號<persName key="A013578">後善導</persName>焉。</p>
-<p><lb
-ed="T" n="0867c21"/>系曰：<persName key="A013578">康</persName>所述偈讚，皆附會鄭、衛之聲，變體而<lb
-ed="T" n="0867c22"/>作，非哀非樂，不怨不怒，得處中曲韻。譬<lb
-ed="T" n="0867c23"/>猶善醫以餳蜜塗逆口之藥，誘嬰兒之入<lb
-ed="T" n="0867c24"/>口耳。苟非大權入假，何能運此方便，度無<lb
-ed="T" n="0867c25"/>極者乎？唱佛佛形從口而出，<persName key="A001349">善導</persName>同此作<lb
-ed="T" n="0867c26"/>佛事，故非小緣哉。</p>
+ed="T" n="0867c19"/>轍焉。<placeName key="PL000000057659">漢</placeName><date key="j20680662068449" notAfter-iso="+0951-02-13" notBefore-iso="+0950-01-26"><name>乾祐</name>三年</date>，<placeName key="PL000000014411">天台山</placeName><persName key="A008355">德韶<roleName>禪師</roleName></persName>重建其<lb
+ed="T" n="0867c20"/>塔，至今高敞，時號<persName key="A013578">後善導</persName>焉<ptr target="#n3087"/>。</p><p><lb
+ed="T" n="0867c21"/>系曰：<persName key="A013578">康</persName>所述偈讚，皆附會<placeName key="PL000000057302">鄭</placeName>、<placeName key="PL000000057230">衛</placeName>之聲<ptr type="glossary" target="#g2018"/>，變體而<lb
+ed="T" n="0867c22"/>作，非哀非樂，不怨不怒，得處中<ptr type="glossary" target="#g2173"/>曲韻。譬<lb
+ed="T" n="0867c23"/>猶善醫以餳蜜塗逆口<ptr type="glossary" target="#g1823"/>之藥，誘嬰兒之入<lb
+ed="T" n="0867c24"/>口耳。苟非大權入假<ptr type="glossary" target="#g2174"/>，何能運此方便，度無<lb
+ed="T" n="0867c25"/>極<ptr type="glossary" target="#g935"/>者乎？唱佛佛形從口而出，<persName key="A001349">善導</persName>同此作<lb
+ed="T" n="0867c26"/>佛事<ptr target="#n3090"/>，故非小緣哉！</p>
     <linkGrp>
-        <link targets="#0867b14 #0867b18"/>
+        <link targets="#0867b12 #0867b15"/>
         <ptr target="#A013578" type="person"/>
         <ptr target="#A019471" type="person"/>
+        <ptr target="#PL000000014959" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0867b18 #0867b21"/>
         <ptr target="#A013578" type="person"/>
         <ptr target="#A019471" type="person"/>
+        <ptr target="#PL000000014916" type="place"/>
     </linkGrp>
     <linkGrp>
-        <link targets="#0867b22 #0867b23"/>
+        <link targets="#0867b21 #0867b23"/>
         <ptr target="#A013578" type="person"/>
         <ptr target="#PL000000013176" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0867b23 #0867b24"/>
         <ptr target="#A013578" type="person"/>
-        <ptr target="#PL000000008820" type="place"/>
+        <ptr target="#PL000000055431" type="place"/>
     </linkGrp>
     <linkGrp>
-        <link targets="#0867b23 #0867b28"/>
+        <link targets="#0867b24 #0867b28"/>
         <ptr target="#A013578" type="person"/>
         <ptr target="#PL000000023663" type="place"/>
-        <ptr target="#j20078242015139" type="time"/>
+        <ptr target="#j20078242009652" type="time"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0867b28 #0867c01"/>
@@ -96,6 +97,17 @@ ed="T" n="0867c26"/>佛事，故非小緣哉。</p>
         <link targets="#0867c13 #0867c14"/>
         <ptr target="#A013578" type="person"/>
         <ptr target="#PL000000011994" type="place"/>
-        <ptr target="#j20151402015327" type="time"/>
+        <ptr target="#j20153832015412" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0867c19 #0867c20"/>
+        <ptr target="#A008355" type="person"/>
+        <ptr target="#PL000000011986" type="place"/>
+        <ptr target="#j20680662068449" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0867c19 #0867c20"/>
+        <ptr target="#A008355" type="person"/>
+        <ptr target="#PL000000014411" type="place"/>
     </linkGrp>
 </div>

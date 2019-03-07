@@ -1,42 +1,62 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" type="護法" xml:id="gsz0814a14shiShenWu"><lb
-ed="T" n="0814a14"/><anchor n="T.50.2061.0814a14"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date>潤州石圯山<persName key="A011756">神悟</persName>傳</head><p><lb
-ed="T" n="0814a15"/><persName key="A011756">釋神悟</persName>，字<persName key="A011756">通性</persName>，<placeName key="PL000000044997">隴西</placeName>李氏之子。其先屬西晉<lb
-ed="T" n="0814a16"/>版蕩，遷家于<placeName key="PL000000009867">吳之長水</placeName>也。世襲儒素，幼為<lb
+ed="T" n="0814a14"/><anchor n="T.50.2061.0814a14"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date><placeName key="PL000000010967"><placeName>潤州</placeName><placeName>石<anchor xml:id="beg0814sgsz1"/>𡉏<anchor xml:id="end0814sgsz1"/>山</placeName></placeName><persName key="A011756">神悟</persName>傳</head><p><lb
+ed="T" n="0814a15"/><persName key="A011756">釋神悟</persName>，字<persName key="A011756">通性</persName>，<placeName key="PL000000044997">隴西</placeName><name>李</name>氏之子。其先屬<placeName key="PL000000000102">西晉</placeName><lb
+ed="T" n="0814a16"/>版蕩，遷家于<placeName key="PL000000009928">吳</placeName>之<placeName key="PL000000012751">長水</placeName>也。世襲儒素<ptr type="glossary" target="#g1509"/>，幼為<lb
 ed="T" n="0814a17"/>諸生。及<date key="j19796511980016" from-iso="+0708-01-01" to-iso="+0708-12-31">冠</date>，忽嬰惡疾<ptr target="#n491"/>，有不可救之狀。咎<lb
-ed="T" n="0814a18"/>心補行，力將何施？<date notBefore-iso="+0713-12-26" key="j19818371992113" notAfter-iso="+0742-02-13"><name>開元</name>中</date>詣<persName key="A011757">溪光律師</persName>，請<lb
-ed="T" n="0814a19"/>耆域之方，執門人之禮。師示以遣業之教，<lb
-ed="T" n="0814a20"/>一曰理懺，二曰事懺。此二者，聖之所授，行必<lb
+ed="T" n="0814a18"/>心補行，力將何施？<date notBefore-iso="+0713-12-26" key="j19818371992113" notAfter-iso="+0742-02-13"><name>開元</name>中</date>詣<persName key="A011757">溪光<roleName>律師</roleName></persName>，請<lb
+ed="T" n="0814a19"/><persName key="A016692">耆域</persName>之方<ptr target="#n2201"/>，執門人之禮。師示以遣業之教，<lb
+ed="T" n="0814a20"/>一曰理懺，二曰事懺<ptr type="glossary" target="#g1034"/>。此二者，聖之所授<ptr target="#n2202"/>，行必<lb
 ed="T" n="0814a21"/>有徵。遂於菩提像前，秉不屈之心，爇難捐<lb
-ed="T" n="0814a22"/>之指。<anchor xml:id="beg0814001"/>于<anchor xml:id="end0814001"/>時有異光如月朣朧<ptr target="#n492"/>紺宮，極苦<lb
-ed="T" n="0814a23"/>可以感神明，至精可以動天地。蓋人之難<lb
-ed="T" n="0814a24"/>事歟！<date from-iso="+0745-02-10" key="j19932061993559" to-iso="+0746-01-29"><name>天寶</name>四年</date>，受具足戒，身始披緇。<date from-iso="+0749-01-27" key="j19946531995036" to-iso="+0750-02-14">八年</date>，<lb
+ed="T" n="0814a22"/>之指。<anchor xml:id="beg0814001"/>于<anchor xml:id="end0814001"/>時<ptr target="#n2203"/>有異光如月朣朧<ptr target="#n492"/>紺宮<ptr type="glossary" target="#g668"/>，極苦<lb
+ed="T" n="0814a23"/>可以感神明<ptr target="#n2204"/>，至精可以動天地。蓋人<ptr target="#n2205"/>之難<lb
+ed="T" n="0814a24"/>事歟！<date from-iso="+0745-02-10" key="j19932061993559" to-iso="+0746-01-29"><name>天寶</name>四年</date><ptr target="#n2206"/>，受具足戒，身始披緇。<date from-iso="+0749-01-27" key="j19946531995036" to-iso="+0750-02-14">八年</date><ptr target="#n2207"/>，<lb
 ed="T" n="0814a25"/>舉<anchor xml:id="beg0814sgsz3"/>尤<anchor xml:id="end0814sgsz3"/>異行，名隷于寺。逮其晚節，益見苦心。<lb
-ed="T" n="0814a26"/>每置法華道場九旬，入長行<anchor xml:id="beg0814sgsz5"/>禮<anchor xml:id="end0814sgsz5"/>念觀佛三昧，<lb
-ed="T" n="0814a27"/>於斯現前因。語門人曰：「夫陰薄日以何傷，<lb
+ed="T" n="0814a26"/>每<ptr target="#n2208"/>置法華道場九旬，入長行<anchor xml:id="beg0814sgsz5"/>禮<anchor xml:id="end0814sgsz5"/>念觀佛三昧，<lb
+ed="T" n="0814a27"/>於斯現前因。語門人曰：「夫陰薄日以<ptr target="#n2209"/>何傷，<lb
 ed="T" n="0814a28"/>風運空而不動，苟達於妄，誰非性也。」方結<lb
-ed="T" n="0814a29"/>宇於勞勞山東。中據<placeName key="PL000000010967">石<app type="cb-app" xml:id="begd1e28793"/>圯<anchor xml:id="endd1e28793"/></placeName>，達分仙徑，諸猛<pb ed="T" n="0814b" xml:id="T50.2061.0814b"/><lb
+ed="T" n="0814a29"/>宇於<placeName key="PL000000058207">勞勞山</placeName>東，中據<placeName key="PL000000010967">石<anchor xml:id="beg0814sgsz6"/>𡉏<anchor xml:id="end0814sgsz6"/></placeName>，達分<ptr type="glossary" target="#g1040"/>仙徑。諸猛<pb ed="T" n="0814b" xml:id="T50.2061.0814b"/><lb
 ed="T" n="0814b01"/>獸馴於禪榻<ptr target="#n493"/>，祥雲低於法堂。中夜有山神<lb
-ed="T" n="0814b02"/>現形，謂<persName key="A011756">悟</persName>曰：「弟子即隋故新成侯<persName key="A011762">曹世安</persName>，生<lb
-ed="T" n="0814b03"/>為列侯，死典南嶺。今<persName key="A011756">師</persName>至止，願以此地永<lb
+ed="T" n="0814b02"/>現形<ptr target="#n2210"/>，謂<persName key="A011756">悟</persName>曰：「弟子即<placeName key="PL000000000105">隋</placeName>故<persName key="A011762"><persName>新成侯</persName><ptr target="#n2211"/><persName>曹世安</persName></persName>，生<lb
+ed="T" n="0814b03"/>為列侯，死典南嶺。今<ref type="person" target="#A011756">師</ref>至止，願以此地永<lb
 ed="T" n="0814b04"/>奉經行。」言訖隱而不見。故吏部員外<persName key="A000519">李華</persName>、殿<lb
 ed="T" n="0814b05"/>中侍御史<persName key="A011763">崔益</persName>同謁<persName key="A011756">悟</persName>，嘗問<persName key="A002174">孔</persName><persName key="A002104">老</persName>聖教優<lb
-ed="T" n="0814b06"/>劣，請陳題品。對曰：「路伽邪<ptr target="#n494"/>典籍皆心外法，<lb
+ed="T" n="0814b06"/>劣，請陳題品<ptr type="glossary" target="#g156"/>。對曰：「路伽邪<ptr target="#n494"/>典籍皆心外法，<lb
 ed="T" n="0814b07"/>味之者勞而無證，其猶澤朽思華，乾池映<lb
-ed="T" n="0814b08"/>月，比其釋教，<anchor xml:id="beg0814002"/>夫<anchor xml:id="end0814002"/>何遠乎？<ptr target="#n495"/>」如是往復，應答如<lb
-ed="T" n="0814b09"/>流。<persName key="A000519">華</persName>、<persName key="A011763">益</persName>拱手，無以抗敵。其<anchor xml:id="beg0814sgsz7"/><choice resp="sgsz"><sic>扦</sic><corr>扞</corr></choice><anchor xml:id="end0814sgsz7"/>護釋門，疆場<lb
+ed="T" n="0814b08"/>月，比其<name>釋</name>教，<anchor xml:id="beg0814002"/>夫<anchor xml:id="end0814002"/>何遠乎？<ptr target="#n495"/>」如是往復，應答如<lb
+ed="T" n="0814b09"/>流。<persName key="A000519">華</persName>、<persName key="A011763">益</persName>拱手，無以抗敵。其<anchor xml:id="beg0814sgsz7"/><choice resp="sgsz"><sic>扦</sic><corr>扞</corr></choice><anchor xml:id="end0814sgsz7"/>護<name>釋</name>門疆<choice resp="sgsz"><sic>場</sic><corr>埸</corr></choice>，<lb
 ed="T" n="0814b10"/>疇敢侵軼乎？<persName key="A000519">華</persName>乃一代之文宗，與<persName key="A011764">蕭頴士</persName>齊<lb
 ed="T" n="0814b11"/>名，筆語過之。若此之儒，孰能觝角也。凡諸<lb
 ed="T" n="0814b12"/>不逞之徒疑經難法者，<persName key="A011756">悟</persName>必近取諸身，遠喻<lb
-ed="T" n="0814b13"/>於物，如理答酬，無不垂頭搭翼者。<date from-iso="+0751-02-05" key="j19953921995745" to-iso="+0752-01-24">十年辛<lb
-ed="T" n="0814b14"/>卯</date>春，寢疾，加趺坐而逝。享齡六十三，法臘二<lb
-ed="T" n="0814b15"/>十六。闍維之日，獲舍利五百餘粒，珠顆纍纍，<lb
+ed="T" n="0814b13"/>於物，如理答酬，無不垂頭搭翼者。<date from-iso="+0751-02-05" key="j19953921995479" to-iso="+0751-05-03">十年辛<lb
+ed="T" n="0814b14"/>卯春</date>，寢疾，加趺坐而逝。享齡六十三，法臘二<lb
+ed="T" n="0814b15"/>十六<ptr target="#n2212"/> 。闍維之日，獲舍利五百餘粒，珠顆纍纍，<lb
 ed="T" n="0814b16"/>粲然在矚。門人<persName key="A011767">湛一</persName>、<persName key="A011768">圓一</persName>等主之，遷塔焉。</p>
+    <linkGrp>
+        <link targets="#0814a16 #0814a16"/>
+        <ptr target="#A011756" type="person"/>
+        <ptr target="#PL000000012751" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0814a17 #0814a17"/>
+        <ptr target="#A011756" type="person"/>
+        <ptr target="#j19796511980016" type="time"/>
+    </linkGrp>
     <linkGrp>
         <link targets="#0814a18 #0814a21"/>
         <ptr target="#A011756" type="person"/>
         <ptr target="#A011757" type="person"/>
         <ptr target="#j19818371992113" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0814a24 #0814a24"/>
+        <ptr target="#A011756" type="person"/>
+        <ptr target="#j19932061993559" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0814a24 #0814a25"/>
+        <ptr target="#A011756" type="person"/>
+        <ptr target="#j19946531995036" type="time"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0814a29 #0814b04"/>
@@ -49,6 +69,11 @@ ed="T" n="0814b16"/>粲然在矚。門人<persName key="A011767">湛一</persNam
         <ptr target="#A011763" type="person"/>
         <ptr target="#A000519" type="person"/>
         <ptr target="#PL000000010967" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0814b13 #0814b14"/>
+        <ptr target="#A011756" type="person"/>
+        <ptr target="#j19953921995479" type="time"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0814b16 #0814b16"/>

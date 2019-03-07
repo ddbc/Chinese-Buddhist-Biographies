@@ -1,24 +1,29 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" type="興福" xml:id="gsz0872c20shiFaCheng"><lb
-n="0872c20" ed="T"/><anchor n="T.50.2061.0872c20"/><head><date from-iso="+0689-12-21" key="j19730671978610" to-iso="+0705-02-24">周</date>京師<persName key="A013635">法成</persName>傳</head><p><lb
-ed="T" n="0872c21"/><persName key="A013635">釋法成</persName>，本姓王，名<persName key="A013635">守慎</persName>，官至監察御史。屬<lb
-ed="T" n="0872c22"/><persName key="A002099">天后</persName>猜貳，信酷吏羅織，乃避法官，乞出家為<lb
-ed="T" n="0872c23"/>僧。苦節勤於化導，聲發響隨，行高質直。<date key="j19774281978588" notAfter-iso="+0705-02-02" notBefore-iso="+0701-11-30">長<lb
-ed="T" n="0872c24"/>安中</date>，於<placeName key="PL000000042192">京兆</placeName>西市疏鑿大坎，號曰海池<lb
-ed="T" n="0872c25"/>焉，支分永安渠以注之，以為放生之所。池<lb
-ed="T" n="0872c26"/>上佛屋經樓，皆成所造。穿池之際，獲古石，<lb
-ed="T" n="0872c27"/>銘云「百年為市，而後為池。」自隋朝置都立<lb
-ed="T" n="0872c28"/>市，至于時正一百年矣。<date key="j19683711968724" notAfter-iso="+0678-01-30" notBefore-iso="+0677-02-11">儀鳳二年</date>，望氣者<lb
-ed="T" n="0872c29"/>云：「此坊有異氣。」勅掘之，得石函，函內貯佛<pb ed="T" n="0873a" xml:id="T50.2061.0873a"/><lb
+n="0872c20" ed="T"/><anchor n="T.50.2061.0872c20"/><head><date from-iso="+0689-12-21" key="j19730671978610" to-iso="+0705-02-24">周</date><placeName key="PL000000042189">京師</placeName><persName key="A013635">法成</persName>傳</head><p><lb
+ed="T" n="0872c21"/><persName key="A013635">釋法成</persName>，本姓<name>王</name>，名<persName key="A013635">守慎</persName>，官至監察御史<ptr target="#n2038"/>。屬<lb
+ed="T" n="0872c22"/><persName key="A002099">天后</persName>猜貳<ptr type="glossary" target="#g2061"/>，信酷吏羅織<ptr type="glossary" target="#g2062"/>，乃避法官，乞出家為<lb
+ed="T" n="0872c23"/>僧<ptr target="#n2098"/>。苦節勤於化導，聲發響隨，行高質直。<date key="j19774281978588" notAfter-iso="+0705-02-02" notBefore-iso="+0701-11-30"><name>長<lb
+ed="T" n="0872c24"/>安</name>中</date>，於<placeName key="PL000000057509"><placeName>京兆</placeName><placeName>西市</placeName></placeName>疏鑿大坎，號曰「海池」<lb
+ed="T" n="0872c25"/>焉──支分<placeName key="PL000000055427">永安渠</placeName>以注之，以為放生之所。池<lb
+ed="T" n="0872c26"/>上佛屋經樓，皆<persName key="A013635">成</persName>所造。穿池之際，獲古石，<lb
+ed="T" n="0872c27"/>銘云「百年為市，而後為池。」自<placeName key="PL000000000105">隋朝</placeName>置都立<lb
+ed="T" n="0872c28"/>市，至于時正一百年矣<ptr target="#n2988"/>。<date key="j19683711968724" notAfter-iso="+0678-01-30" notBefore-iso="+0677-02-11"><name>儀鳳</name>二年</date>，望氣者<lb
+ed="T" n="0872c29"/>云：「此坊<ptr target="#n2039"/>有異氣。」勅掘之，得石函，函內貯佛<pb ed="T" n="0873a" xml:id="T50.2061.0873a"/><lb
 ed="T" n="0873a01"/>舍利萬餘粒，光色粲爛而堅剛。勅於此處<lb
 ed="T" n="0873a02"/>造<placeName key="PL000000042151">光宅寺</placeName>，仍散舍利於<placeName key="PL000000042189">京</placeName>寺及諸州府各<lb
-ed="T" n="0873a03"/>四十九粒。<persName key="A002099">武后</persName>於此始置七寶臺，遂改寺<lb
-ed="T" n="0873a04"/>額，<persName key="A013635">成公</persName>居之。行其激勸，多以崇福為<anchor xml:id="beg0873sgsz1"/>己<anchor xml:id="end0873sgsz1"/>任<lb
+ed="T" n="0873a03"/>四十九粒。<persName key="A002099">武后</persName>於此始置<placeName key="PL000000055415">七寶臺</placeName>，遂改寺<lb
+ed="T" n="0873a04"/>額，<persName key="A013635">成<roleName>公</roleName></persName>居之。行其激勸，多以崇福<ptr type="glossary" target="#g2063"/>為<anchor xml:id="beg0873sgsz1"/>己<anchor xml:id="end0873sgsz1"/>任<lb
 ed="T" n="0873a05"/>焉。</p>
     <linkGrp>
         <link targets="#0872c23 #0872c28"/>
         <ptr target="#A013635" type="person"/>
-        <ptr target="#PL000000042192" type="place"/>
+        <ptr target="#PL000000057509" type="place"/>
         <ptr target="#j19774281978588" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0872c28 #0873a04"/>
+        <ptr target="#A013635" type="person"/>
+        <ptr target="#PL000000042151" type="place"/>
     </linkGrp>
 </div>

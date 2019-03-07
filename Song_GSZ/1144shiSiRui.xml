@@ -1,25 +1,29 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" type="讀誦" xml:id="gsz0863a21shiSiRui"><lb
-ed="T" n="0863a21"/><anchor n="T.50.2061.0863a21"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date>太原府崇福寺<persName key="A013538">思睿</persName>傳</head><p><lb
-ed="T" n="0863a22"/><persName key="A013538">釋思睿</persName>，姓王氏，<placeName key="PL000000003793">太原</placeName>人也。夙通禪理，復貫<lb
-ed="T" n="0863a23"/>律宗，慈悲仁讓，忤無慍容。<persName key="A013538">睿</persName>素嬰羸瘵，乃<lb
-ed="T" n="0863a24"/>立志法筵，專祈藥上，恪勤不懈。尋見感徵，<lb
-ed="T" n="0863a25"/>忽心力勇銳，<anchor xml:id="beg0863001"/>辯<anchor xml:id="end0863001"/>猶瓶注。因誦十輪經，日徹<lb
+ed="T" n="0863a21"/><anchor n="T.50.2061.0863a21"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date><placeName key="PL000000003781"><placeName>太原府</placeName><placeName>崇福寺</placeName></placeName><persName key="A013538">思睿</persName>傳</head><p><lb
+ed="T" n="0863a22"/><persName key="A013538">釋思睿</persName>，姓<name>王</name>氏，<placeName key="PL000000003794">太原</placeName>人也。夙通禪理，復貫<lb
+ed="T" n="0863a23"/>律宗，慈悲仁讓，忤無慍容。<persName key="A013538">睿</persName>素嬰<ptr rend="display:none;" type="glossary" target="#g990"/>羸瘵<ptr type="glossary" target="#g1984"/>，乃<lb
+ed="T" n="0863a24"/>立志法筵，專祈<persName key="A019595">藥上</persName>，恪勤不懈。尋見感徵，<lb
+ed="T" n="0863a25"/>忽心力勇銳，<anchor xml:id="beg0863001"/>辯<anchor xml:id="end0863001"/>猶瓶注。因誦《十輪經》<ptr target="#n2984"/>，日徹<lb
 ed="T" n="0863a26"/>數紙，翌日倍之，後又倍之，自爾智刃不可<lb
-ed="T" n="0863a27"/>當矣。<date key="j19818371992113" notAfter-iso="+0742-02-13" notBefore-iso="+0713-12-26"><name>開元</name>中</date>杖錫<placeName key="PL000000023255">嵩少</placeName>問道。時<persName key="A008784">義福禪師</persName><lb
-ed="T" n="0863a28"/>禪林密緻，造難其人，一言相入，若石投水，<lb
-ed="T" n="0863a29"/>既飲甘露，五載而還。趺坐居定，日不解膝，<pb ed="T" n="0863b" xml:id="T50.2061.0863b"/><lb
+ed="T" n="0863a27"/>當矣。<date key="j19818371992113" notAfter-iso="+0742-02-13" notBefore-iso="+0713-12-26"><name>開元</name>中</date>杖錫<placeName key="PL000000023255">嵩少</placeName>問道。時<persName key="A008784">義福<roleName>禪師</roleName></persName><lb
+ed="T" n="0863a28"/>禪林密緻，造難其人<ptr target="#n2985"/>，一言相入，若石投水<ptr target="#n2986"/>。<lb
+ed="T" n="0863a29"/>既飲甘露<ptr type="glossary" target="#g1466"/>，五載而還。趺坐居定，日不解膝，<pb ed="T" n="0863b" xml:id="T50.2061.0863b"/><lb
 ed="T" n="0863b01"/>遠邇擊問，求其玄理，如堵牆焉<ptr type="glossary" target="#g1450"/>。春秋六十<lb
-ed="T" n="0863b02"/>六，卒于所住院。</p>
-    <p xml:id="pT50p0863b0301"><lb
+ed="T" n="0863b02"/>六，卒于所住院。</p><p xml:id="pT50p0863b0301"><lb
 ed="T" n="0863b03"/>系曰：誦經不貴多，要在神解。<persName key="A013535">慧警</persName>三歲通<lb
-ed="T" n="0863b04"/>大雲經，差為奇俊。<persName key="A013536">崇政</persName>終通千紙，得力在<lb
-ed="T" n="0863b05"/>乎不奉詔赴<placeName key="PL000000042180">章信新寺</placeName>。<persName key="A013538">睿公</persName>諷徹十輪，後<lb
-ed="T" n="0863b06"/>咨禪道，故經偈云：「雖誦千章，不如一句」<lb
+ed="T" n="0863b04"/>《大雲經》，差為奇俊。<persName key="A013536">崇政</persName>終通千紙，得力在<lb
+ed="T" n="0863b05"/>乎不奉詔赴<placeName key="PL000000042180">章信</placeName>新寺。<persName key="A013538">睿<roleName>公</roleName></persName>諷徹《十輪》，後<lb
+ed="T" n="0863b06"/>咨禪道，故經偈云：「雖誦千章，不如一句」<ptr target="#n2987"/><lb
 ed="T" n="0863b07"/>者，如渡溪杖策，到岸必捨焉。</p>
     <linkGrp>
+        <link targets="#0863a22 #0863a22"/>
+        <ptr target="#A013538" type="person"/>
+        <ptr target="#PL000000003794" type="place"/>
+    </linkGrp>
+    <linkGrp>
         <link targets="#0863a27 #0863a29"/>
-        <ptr target="#A013536" type="person"/>
+        <ptr target="#A013538" type="person"/>
         <ptr target="#A008784" type="person"/>
         <ptr target="#PL000000023255" type="place"/>
         <ptr target="#j19818371992113" type="time"/>

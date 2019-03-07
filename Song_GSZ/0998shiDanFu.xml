@@ -1,20 +1,25 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" type="明律" xml:id="gsz0808a05shiDanFu"><lb
-ed="T" n="0808a05"/><anchor n="T.50.2061.0808a05"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date>越州開元寺<persName key="A011561">丹甫</persName>傳</head><p><lb
+ed="T" n="0808a05"/><anchor n="T.50.2061.0808a05"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date><placeName key="PL000000013226"><placeName>越州</placeName><placeName>開元寺</placeName></placeName><persName key="A011561">丹甫</persName>傳</head><p><lb
 ed="T" n="0808a06"/><persName key="A011561">釋丹甫</persName>者，不知何許人也。性多警達，言必<lb
-ed="T" n="0808a07"/>剛直，講授<anchor xml:id="beg0808sgsz1"/>唯<anchor xml:id="end0808sgsz1"/>勤，執持雅正。<placeName key="PL000000013240">會稽</placeName>風土，律範淵<lb
-ed="T" n="0808a08"/>府也。<persName key="A011561">甫</persName>之唱導，從之者若玄金之就礠石<lb
-ed="T" n="0808a09"/>焉。本習業於<persName key="A011564">亘文律師</persName>法集，<persName key="A011564">文</persName>即<persName key="A011073">省躬</persName>之游<lb
-ed="T" n="0808a10"/>夏也，<persName key="A011561">甫</persName>即<persName key="A011073">躬</persName>之嗣孫。順正命章，斡通祕賾<ptr type="glossary" target="#g331"/>。<lb
+ed="T" n="0808a07"/>剛直，講授<anchor xml:id="beg0808sgsz1"/>唯<anchor xml:id="end0808sgsz1"/>勤，執持雅正。<placeName key="PL000000013239">會稽</placeName>風土，律範淵<lb
+ed="T" n="0808a08"/>府<ptr type="glossary" target="#g688"/>也。<persName key="A011561">甫</persName>之唱導，從之者若玄金<ptr type="glossary" target="#g811"/>之就礠石<lb
+ed="T" n="0808a09"/>焉。本習業於<persName key="A011564">亘文<roleName>律師</roleName></persName>法集，<persName key="A011564">文</persName>即<persName key="A011073">省躬</persName>之<persName key="A021880">游</persName><lb
+ed="T" n="0808a10"/><persName key="A010088">夏</persName>也<ptr target="#n797"/>，<persName key="A011561">甫</persName>即<persName key="A011073">躬</persName>之嗣孫。順正命章<ptr type="glossary" target="#g13"/>，斡通祕賾<ptr rend="display:none;" type="glossary" target="#g331"/>。<lb
 ed="T" n="0808a11"/>越自<persName key="A004177">曇一</persName>、<persName key="A010815">玄儼</persName>之後，罕能追躡，<persName key="A011561">甫</persName>之聲塵<lb
-ed="T" n="0808a12"/>邁于前烈。然爾時<persName key="A011632">允文</persName>匠手，<ref type="person" target="#A000747">相部</ref>風行，<persName key="A011561">甫</persName>介<lb
+ed="T" n="0808a12"/>邁于前烈。然爾時<persName key="A011632">允文</persName>匠手，<placeName key="PL000000024082">相部</placeName><ptr target="#n3250"/>風行，<persName key="A011561">甫</persName>介<lb
 ed="T" n="0808a13"/>于大律之間，行事之時，草從風偃焉。<date notBefore-iso="+0870-06-20" key="j20389922040147" notAfter-iso="+0873-08-18"><name>咸通</name>末</date><lb
 ed="T" n="0808a14"/>出門生<persName key="A011562">智章</persName>等傳講，今亦法嗣存焉。或聞<lb
-ed="T" n="0808a15"/>著《手記》，尋且未獲，吁，惜哉！</p>
+ed="T" n="0808a15"/>著《手記》<ptr target="#n1859"/>，尋且未獲，吁！惜哉！</p>
+    <linkGrp>
+        <link targets="#0808a05 #0808a05"/>
+        <ptr target="#A011561" type="person"/>
+        <ptr target="#PL000000013226" type="place"/>
+    </linkGrp>
     <linkGrp>
         <link targets="#0808a07 #0808a07"/>
         <ptr target="#A011561" type="person"/>
-        <ptr target="#PL000000013240" type="place"/>
+        <ptr target="#PL000000013239" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0808a08 #0808a08"/>
@@ -30,5 +35,6 @@ ed="T" n="0808a15"/>著《手記》，尋且未獲，吁，惜哉！</p>
         <link targets="#0808a13 #0808a14"/>
         <ptr target="#A011561" type="person"/>
         <ptr target="#A011562" type="person"/>
+        <ptr target="#j20389922040147" type="time"/>
     </linkGrp>
 </div>

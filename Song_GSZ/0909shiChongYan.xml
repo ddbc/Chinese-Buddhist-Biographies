@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" type="習禪" xml:id="gsz0776b09shiChongYan"><lb
-ed="T" n="0776b09"/><anchor n="T.50.2061.0776b09"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date><placeName key="PL000000010769"><anchor xml:id="beg0776sgsz7"/>揚州<anchor xml:id="end0776sgsz7"/>慧照寺</placeName><persName key="A010515">崇演</persName>傳</head><p><lb
+ed="T" n="0776b09"/><anchor n="T.50.2061.0776b09"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date><placeName key="PL000000010769"><placeName><anchor xml:id="beg0776sgsz7"/>揚州<anchor xml:id="end0776sgsz7"/></placeName><placeName>慧照寺</placeName></placeName><persName key="A010515">崇演</persName>傳</head><p><lb
 ed="T" n="0776b10"/><persName key="A010515">釋崇演</persName>，姓<name>段</name>氏，<placeName key="PL000000021676">東平</placeName>人也。出家于本州<placeName key="PL000000021655">龍興<lb
-ed="T" n="0776b11"/>寺</placeName><persName key="A002130">慧超<roleName>法師</roleName></persName>之門。遊方問道，見<placeName key="PL000000023260">嵩陽</placeName><persName key="A009319">善寂<roleName>禪<lb
+ed="T" n="0776b11"/>寺</placeName><persName key="A002130">慧超<roleName>法師</roleName></persName>之門。遊方問道，見<placeName key="PL000000023260">嵩陽</placeName><persName key="A010517">善寂<roleName>禪<lb
 ed="T" n="0776b12"/>師</roleName></persName><ptr target="#n1568"/>，示其心法。後居<placeName key="PL000000010610">都梁山</placeName>，當<anchor xml:id="beg0776sgsz8"/>于<anchor xml:id="end0776sgsz8"/><placeName key="PL000000010590">淮浦</placeName>，四面<lb
-ed="T" n="0776b13"/>來商毳客影附焉。相國<persName key="A010516">李<roleName>公</roleName>紳</persName>鎮撫<placeName key="PL000000010783">廣陵</placeName><ptr target="#n1483"/>，而<lb
-ed="T" n="0776b14"/>性剛嚴，少所接與，偏輕釋子。或允相見，必<lb
+ed="T" n="0776b13"/>來商，毳客影附焉。相國<persName key="A010516">李<roleName>公</roleName>紳</persName>鎮撫<placeName key="PL000000010783">廣陵</placeName><ptr target="#n1483"/>，而<lb
+ed="T" n="0776b14"/>性剛嚴，少所接與，偏輕<name>釋</name>子。或允相見，必<lb
 ed="T" n="0776b15"/>問難鋒起，祇應不供者，多咄叱而出。<persName key="A010516">紳</persName>遣衙<lb
 ed="T" n="0776b16"/>吏<persName key="A019234">章幼成</persName>傳意召<persName key="A010515">演</persName>入府，詶對詣理，談論<lb
 ed="T" n="0776b17"/>鏗然。<persName key="A010516">紳</persName>惘然，翻不測其畛域，特加歸信，請<lb
@@ -26,7 +26,7 @@ ed="T" n="0776b20"/>日</date>全身入塔云。</p>
     <linkGrp>
         <link targets="#0776b11 #0776b12"/>
         <ptr target="#A010515" type="person"/>
-        <ptr target="#A009319" type="person"/>
+        <ptr target="#A010517" type="person"/>
         <ptr target="#PL000000023260" type="place"/>
     </linkGrp>
     <linkGrp>

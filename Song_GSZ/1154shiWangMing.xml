@@ -1,38 +1,43 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" type="讀誦" xml:id="gsz0865b07shiWuMing"><lb
-ed="T" n="0865b07"/><anchor n="T.50.2061.0865b07"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date>洛陽廣愛寺<persName key="A013558">亡名</persName>傳</head><p><lb
-ed="T" n="0865b08"/><persName key="A013558">釋亡名</persName>，<placeName key="PL000000023194"><anchor xml:id="beg0865005"/><choice resp="sgsz"><sic>榮</sic><corr>滎</corr></choice><anchor xml:id="end0865005"/>陽</placeName>人也。居止<placeName key="PL000000023549">洛中廣愛寺</placeName>，以精<lb
-ed="T" n="0865b09"/>習毘尼，慎防戒法，避其譏醜，罕有缺然。<date key="j19674991968318" notAfter-iso="+0676-12-20" notBefore-iso="+0674-09-23">上<lb
-ed="T" n="0865b10"/>元中</date>東歸寧省，路及<placeName key="PL000000023194"><anchor xml:id="beg0865sgsz2"/><choice resp="sgsz"><sic>榮</sic><corr>滎</corr></choice><anchor xml:id="end0865sgsz2"/>陽</placeName>，道宿于逆旅。方<lb
+ed="T" n="0865b07"/><anchor n="T.50.2061.0865b07"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date><placeName key="PL000000023549"><placeName>洛陽</placeName><placeName>廣愛寺</placeName></placeName><persName key="A013558">亡名</persName>傳</head><p><lb
+ed="T" n="0865b08"/><persName key="A013558">釋亡名</persName>，<placeName key="PL000000023069"><anchor xml:id="beg0865005"/><choice resp="sgsz"><sic>榮</sic><corr>滎</corr></choice><anchor xml:id="end0865005"/>陽</placeName>人也。居止<placeName key="PL000000023549"><placeName>洛中</placeName><placeName>廣愛寺</placeName></placeName><ptr target="#n3030"/>，以精<lb
+ed="T" n="0865b09"/>習毘尼<ptr type="glossary" target="#g900"/>，慎防戒法，避其譏醜，罕有缺然。<date notBefore-iso="+0674-09-23" key="j19674991968318" notAfter-iso="+0676-12-20"><name>上<lb
+ed="T" n="0865b10"/>元</name>中</date><ptr target="#n3031"/>東歸寧省<ptr type="glossary" target="#g399"/>，路及<placeName key="PL000000023069"><anchor xml:id="beg0865sgsz2"/><choice resp="sgsz"><sic>榮</sic><corr>滎</corr></choice><anchor xml:id="end0865sgsz2"/>陽</placeName>，道宿于逆旅<ptr rend="display:none;" type="glossary" target="#g1513"/>。方<lb
 ed="T" n="0865b11"/>解囊脫屨，欲漉水盥塵。次有僧至，頗見<lb
-ed="T" n="0865b12"/>貌剛而率略，與<persName key="A013558">律師</persName>並房安置。其後到僧<lb
+ed="T" n="0865b12"/>貌剛而率略，與<ref type="person" target="#A013558">律師</ref>並房安置。其後到僧<lb
 ed="T" n="0865b13"/>謂主人曰：「貧道遠來，疲頓餒乏。主人有美<lb
-ed="T" n="0865b14"/>酒酤滿罌，<anchor xml:id="beg0865006"/>粱<anchor xml:id="end0865006"/>肉買半肩，物至酬直，無至<lb
+ed="T" n="0865b14"/>酒酤滿罌，<anchor xml:id="beg0865006"/>粱<anchor xml:id="end0865006"/>肉買半肩<ptr target="#n3032"/>，物至酬直，無至<lb
 ed="T" n="0865b15"/>遲也。」主人遽依請辦，僧飲啖之，都無孑遺。<lb
-ed="T" n="0865b16"/>其<persName key="A013558">律師</persName>呵之曰：「身披法服，對俗士恣行飲<lb
-ed="T" n="0865b17"/>啖，不知慚<anchor xml:id="beg0865007"/>赧<anchor xml:id="end0865007"/>。」其僧不答，初夜索水盥漱，<lb
-ed="T" n="0865b18"/>端身趺坐，緩發<name>梵</name>音，誦華嚴經，初舉題目，<lb
+ed="T" n="0865b16"/>其<ref type="person" target="#A013558">律師</ref>呵之曰：「身披法服，對俗士恣行飲<lb
+ed="T" n="0865b17"/>啖，不知慚<anchor xml:id="beg0865007"/>赧<anchor xml:id="end0865007"/>？」其僧不答，初夜索水盥漱，<lb
+ed="T" n="0865b18"/>端身趺坐，緩發<name>梵</name>音，誦《華嚴經》，初舉題目，<lb
 ed="T" n="0865b19"/>次言「如是我聞」已下。其僧口角兩發金色光，<lb
-ed="T" n="0865b20"/>聞者垂泣，見者<anchor xml:id="beg0865sgsz3"/>歎<anchor xml:id="end0865sgsz3"/>嗟。<persName key="A013558">律師</persName>亦生羨慕，竊自<lb
+ed="T" n="0865b20"/>聞者垂泣，見者<anchor xml:id="beg0865sgsz3"/>歎<anchor xml:id="end0865sgsz3"/>嗟<ptr target="#n3033"/>。<ref type="person" target="#A013558">律師</ref>亦生羨慕，竊自<lb
 ed="T" n="0865b21"/>念言「彼酒肉僧，乃能誦斯大經！」比至三更，<lb
 ed="T" n="0865b22"/>猶聞誦經，聲聲不絕，四<anchor xml:id="beg0865sgsz5"/>帙<anchor xml:id="end0865sgsz5"/>欲滿，口中光明<lb
 ed="T" n="0865b23"/>轉更增熾，遍於庭宇，透於窓隙，照明兩房。<lb
-ed="T" n="0865b24"/><persName key="A013558">律師</persName>初不知是光，而云「彼客何不息燈，損<lb
-ed="T" n="0865b25"/>主人油燼？」<persName key="A013558">律師</persName>因起如廁，方窺見金色光<lb
+ed="T" n="0865b24"/><ref type="person" target="#A013558">律師</ref>初不知是光，而云「彼客何不息燈，損<lb
+ed="T" n="0865b25"/>主人油燼？」<ref type="person" target="#A013558">律師</ref>因起如廁，方窺見金色光<lb
 ed="T" n="0865b26"/>明自僧之口兩角而出。誦至五<anchor xml:id="beg0865sgsz7"/>帙<anchor xml:id="end0865sgsz7"/>已上，其<lb
 ed="T" n="0865b27"/>光漸收，却入僧口。夜將五更，誦終六<anchor xml:id="beg0865sgsz9"/>帙<anchor xml:id="end0865sgsz9"/>，僧<lb
-ed="T" n="0865b28"/>乃却臥。須臾天明，<persName key="A013558">律師</persName>涕泣而來，五體投地，<lb
-ed="T" n="0865b29"/>求哀懺過輕謗賢聖之罪。<persName key="A013558">律師</persName>喜遇異人，<pb ed="T" n="0865c" xml:id="T50.2061.0865c"/><lb
+ed="T" n="0865b28"/>乃却臥。須臾天明，<ref type="person" target="#A013558">律師</ref>涕泣而來，五體投地，<lb
+ed="T" n="0865b29"/>求哀懺過「輕謗賢聖」之罪。<ref type="person" target="#A013558">律師</ref>喜遇異人，<pb ed="T" n="0865c" xml:id="T50.2061.0865c"/><lb
 ed="T" n="0865c01"/>後加勤苦，卒成高名，莫知終地。</p>
+    <linkGrp>
+        <link targets="#0865b08 #0865b08"/>
+        <ptr target="#A013558" type="person"/>
+        <ptr target="#PL000000023069" type="place"/>
+    </linkGrp>
     <linkGrp>
         <link targets="#0865b08 #0865b09"/>
         <ptr target="#A013558" type="person"/>
         <ptr target="#PL000000023549" type="place"/>
     </linkGrp>
     <linkGrp>
-        <link targets="#0865b08 #0865b29"/>
+        <link targets="#0865b09 #0865b29"/>
         <ptr target="#A013558" type="person"/>
-        <ptr target="#PL000000023194" type="place"/>
+        <ptr target="#PL000000023069" type="place"/>
         <ptr target="#j19674991968318" type="time"/>
     </linkGrp>
 </div>

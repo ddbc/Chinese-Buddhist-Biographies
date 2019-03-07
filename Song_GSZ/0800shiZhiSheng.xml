@@ -1,19 +1,19 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" type="義解" xml:id="gsz0733c25shiZhiSheng"><lb
-ed="T" n="0733c25"/><anchor n="T.50.2061.0733c25"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date><placeName key="PL000000042324">京兆西崇福寺</placeName><persName key="A001261">智昇</persName>傳</head><p><lb
-ed="T" n="0733c26"/><persName key="A001261">釋智昇</persName>，未<anchor xml:id="beg0733sgsz14"/><choice resp="sgsz"><sic>祥</sic><corr>詳</corr></choice><anchor xml:id="end0733sgsz14"/>何許人也。義理懸通，二乘俱<lb
-ed="T" n="0733c27"/>學，然於「毘尼」，尤善其宗。此外文性愈高<ptr type="glossary" target="#g709"/>，博<lb
-ed="T" n="0733c28"/>達今古，每慊<ptr type="glossary" target="#g710"/><persName key="A001883">聶道真</persName>、<persName key="A001503">道安</persName>，至于<persName key="A000657">明佺</persName>、<persName key="A001519">宣律<lb
-ed="T" n="0733c29"/>師</persName>各著《大藏目錄》，記其翻傳年代人物者，<pb ed="T" n="0734a" xml:id="T50.2061.0734a"/><lb
-ed="T" n="0734a01"/>謂之《晉錄》、《魏漢》等錄，乃於<date from-iso="+0730-01-27" key="j19877131988096" to-iso="+0731-02-14">開元十八年歲次<lb
-ed="T" n="0734a02"/>庚午</date>，撰《開元釋教錄》二十卷，最為精要。何<lb
+ed="T" n="0733c25"/><anchor n="T.50.2061.0733c25"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date><placeName key="PL000000042324"><placeName>京兆</placeName><placeName>西崇福寺</placeName></placeName><persName key="A001261">智昇</persName>傳</head><p><lb
+ed="T" n="0733c26"/><persName key="A001261">釋智昇</persName><ptr target="#n3258"/>，未<anchor xml:id="beg0733sgsz14"/><choice resp="sgsz"><sic>祥</sic><corr>詳</corr></choice><anchor xml:id="end0733sgsz14"/>何許人也。義理懸通，二乘俱<lb
+ed="T" n="0733c27"/>學，然於「毘尼」，尤善其宗。此外，文性<ptr rend="display:none;" type="glossary" target="#g709"/>愈高，博<lb
+ed="T" n="0733c28"/>達今古，每慊<ptr rend="display:none;" type="glossary" target="#g710"/><persName key="A001883">聶道真</persName>、<persName key="A001503">道安</persName>，至于<persName key="A000657">明佺</persName>、<persName key="A001519">宣<roleName>律<lb
+ed="T" n="0733c29"/>師</roleName></persName>各著《大藏》目錄<ptr target="#n3259"/>，記其翻傳年代人物者，<pb ed="T" n="0734a" xml:id="T50.2061.0734a"/><lb
+ed="T" n="0734a01"/>謂之<date from-iso="+0317-04-07" key="j18369381874651" to-iso="+0420-07-08">晉</date>錄、<date from-iso="+0220-12-11" key="j18017581818249" to-iso="+0266-02-04">魏</date>、<date from-iso="+0025-08-03" key="j17304061801742" to-iso="+0220-11-25">漢</date>等錄，乃於<date from-iso="+0730-01-27" key="j19877131988096" to-iso="+0731-02-14"><name>開元</name>十八年歲次<lb
+ed="T" n="0734a02"/>庚午</date>，撰《開元釋教錄》<ptr target="#n3260"/>二十卷，最為精要。何<lb
 ed="T" n="0734a03"/>耶？諸師於同本異出、舊目新名，多惑其文，真<lb
 ed="T" n="0734a04"/>偽相亂。或一經為兩本，或支品作別翻，一<lb
-ed="T" n="0734a05"/>一裁量，少無過者。如其舊錄<ref type="person" target="#A004239">江泌女子</ref>誦出<lb
-ed="T" n="0734a06"/>經，黜而不留，可謂藻鑑<ptr type="glossary" target="#g711"/>。杜塞妖偽之源，有<lb
-ed="T" n="0734a07"/>茲獨斷。後之<persName key="A001417">圓照</persName>《貞元錄》也，文體意宗，相岠<lb
+ed="T" n="0734a05"/>一裁量，少無過者。如其舊錄<persName key="A013786">江泌</persName><ref type="person" target="#A004239">女子</ref>誦出<lb
+ed="T" n="0734a06"/>經<ptr target="#n3261"/>，黜而不留，可謂藻鑑<ptr type="glossary" target="#g711"/>。杜塞妖偽之源，有<lb
+ed="T" n="0734a07"/>茲獨斷。後之<persName key="A001417">圓照</persName>《貞元錄》<ptr target="#n3262"/>也，文體意宗，相岠<lb
 ed="T" n="0734a08"/>不知幾百數里哉。<date notBefore-iso="+0664-02-05" key="j19636161964358" notAfter-iso="+0666-02-16"><name>麟德</name>中</date><persName key="A001519">道宣</persName>出《內典錄》十<lb
-ed="T" n="0734a09"/>卷，<persName key="A001582">靖邁</persName>出《圖紀》四卷，<persName key="A001261">昇</persName>各續一卷。經法之<lb
+ed="T" n="0734a09"/>卷<ptr target="#n3263"/>，<persName key="A001582">靖邁</persName>出《圖紀》四卷<ptr target="#n1099"/>，<persName key="A001261">昇</persName>各續一卷<ptr target="#n3264"/>。經法之<lb
 ed="T" n="0734a10"/>譜，無出<persName key="A001261">昇</persName>之右矣。</p>
     <linkGrp>
         <link targets="#0734a01 #0734a02"/>

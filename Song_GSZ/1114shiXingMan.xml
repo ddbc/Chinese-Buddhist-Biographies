@@ -1,32 +1,54 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" type="感通" xml:id="gsz0852c26shiXingMan"><lb
-ed="T" n="0852c26"/><anchor n="T.50.2061.0852c26"/><head><date from-iso="+0960-02-09" key="j20717322132856" to-iso="+1127-06-18"><anchor xml:id="beg0852sgsz15"/>宋<anchor xml:id="end0852sgsz15"/></date>天台山智者禪院<persName key="A009651">行滿</persName>傳</head><p><lb
-ed="T" n="0852c27"/><persName key="A009651">釋行滿</persName>者，<placeName key="PL000000034017">萬州南浦</placeName>人也。羇貫成童，厥性明<lb
-ed="T" n="0852c28"/><anchor xml:id="beg0852sgsz17"/><choice resp="sgsz"><sic>點</sic><corr>黠</corr></choice><anchor xml:id="end0852sgsz17"/>，篤辭所親，求為佛子。受戒方畢，聞重湖<lb
-ed="T" n="0852c29"/>間，禪道隆盛，<persName key="A010581">石霜</persName>之門，濟濟多士，遂往求解。<pb ed="T" n="0853a" xml:id="T50.2061.0853a"/><lb
-ed="T" n="0853a01"/>屬諸禪師棄代，<persName key="A009651">滿</persName>往<placeName key="PL000000018603"><anchor xml:id="beg0853sgsz1"/>豫<anchor xml:id="end0853sgsz1"/>章</placeName>，觀諸法席，既得<lb
-ed="T" n="0853a02"/>安然。次聞<placeName key="PL000000014411">天台</placeName>靈聖之跡，由是結束遊之，<lb
-ed="T" n="0853a03"/>棲華頂峯下<placeName key="PL000000014700">智者院</placeName>，知眾僧茶竈。見人怡<lb
+ed="T" n="0852c26"/><anchor n="T.50.2061.0852c26"/><head><date from-iso="+0960-02-09" key="j20717322132856" to-iso="+1127-06-18"><anchor xml:id="beg0852sgsz15"/>宋<anchor xml:id="end0852sgsz15"/></date><placeName key="PL000000014700"><placeName>天台山</placeName><placeName>智者禪院</placeName></placeName><persName key="A009651">行滿</persName>傳</head><p><lb
+ed="T" n="0852c27"/><persName key="A009651">釋行滿</persName>者，<placeName key="PL000000034017"><placeName>萬州</placeName><placeName>南浦</placeName></placeName>人也。羇貫成童<ptr type="glossary" target="#g1861"/>，厥性明<lb
+ed="T" n="0852c28"/><anchor xml:id="beg0852sgsz17"/><choice resp="sgsz"><sic>點</sic><corr>黠</corr></choice><anchor xml:id="end0852sgsz17"/><ptr type="glossary" target="#g1862"/>，篤辭所親，求為佛子。受戒方畢，聞<placeName key="PL000000028612">重湖</placeName><lb
+ed="T" n="0852c29"/>間禪道隆盛，<persName key="A010581">石霜</persName>之門濟濟多士，遂往求解。<pb ed="T" n="0853a" xml:id="T50.2061.0853a"/><lb
+ed="T" n="0853a01"/>屬諸禪師棄代，<persName key="A009651">滿</persName>往<placeName key="PL000000018628"><anchor xml:id="beg0853sgsz1"/>豫<anchor xml:id="end0853sgsz1"/>章</placeName>，觀諸法席，既得<lb
+ed="T" n="0853a02"/>安然。次聞<placeName key="PL000000014411">天台</placeName>靈聖之跡<ptr target="#n2847"/>，由是結束<ptr type="glossary" target="#g1863"/>遊之，<lb
+ed="T" n="0853a03"/>棲<placeName key="PL000000014412">華頂峯</placeName>下<placeName key="PL000000014700">智者院</placeName>，知眾僧茶竈。見人怡<lb
 ed="T" n="0853a04"/>懌，居幾十載，未覩其慍色。臥一土床，空其<lb
-ed="T" n="0853a05"/>下，燒糞掃而煖之。每日脫衣就床，則蚤𧒢<lb
-ed="T" n="0853a06"/>蟄<anchor xml:id="beg0853001"/><choice resp="sgsz"><sic>蜇</sic><corr>蟄</corr></choice><anchor xml:id="end0853001"/>焉唼之，及餧飼得所，還著衣如故。<lb
+ed="T" n="0853a05"/>下，燒糞掃<ptr type="glossary" target="#g1864"/>而煖之。每日脫衣就床，則蚤𧒢<lb
+ed="T" n="0853a06"/>蟄<anchor xml:id="beg0853001"/><choice resp="sgsz"><sic>蜇</sic><corr>蟄</corr></choice><anchor xml:id="end0853001"/><ptr type="glossary" target="#g1865"/>焉唼之，及餧飼得所，還著衣如故。<lb
 ed="T" n="0853a07"/>或人潛捫其衣，蚤𧒢寂無蹤矣。先是居房<lb
 ed="T" n="0853a08"/>檻外有巨松，橫枝之上寄生小樹。每遇<persName key="A009651">滿</persName><lb
-ed="T" n="0853a09"/>出坐也，其寄生木必嫋嫋而側，時謂此樹作<lb
-ed="T" n="0853a10"/><anchor xml:id="beg0853sgsz3"/>禮<anchor xml:id="end0853sgsz3"/>茶頭也。或不信者，專伺<persName key="A009651">滿</persName>出，則紛紛然。<lb
+ed="T" n="0853a09"/>出坐也，其寄生木必嫋嫋<ptr type="glossary" target="#g1866"/>而側，時謂此樹作<lb
+ed="T" n="0853a10"/><anchor xml:id="beg0853sgsz3"/>禮<anchor xml:id="end0853sgsz3"/><ref type="person" target="#A009651">茶頭</ref>也。或不信者，專伺<persName key="A009651">滿</persName>出，則紛紛然。<lb
 ed="T" n="0853a11"/><persName key="A009651">滿</persName>去，則屹立亭亭，更無動搖。雖隨眾食，量<lb
 ed="T" n="0853a12"/>少分而止。四十年內，人未見其便溺。以<date key="j20749702077860" notAfter-iso="+0976-11-19" notBefore-iso="+0968-12-21"><name>開寶</name></date><lb
-ed="T" n="0853a13"/>中預向人說「<persName key="A009651">我</persName>當行矣」。令眾僧念<persName key="A002144">文殊</persName>名<lb
+ed="T" n="0853a13"/>中預向人說「<ref type="person" target="#A009651">我</ref>當行矣」。令眾僧念<persName key="A002144">文殊</persName>名<lb
 ed="T" n="0853a14"/>號相助，默焉坐化，春秋年可八十餘。<persName key="A009651">滿</persName>多<lb
 ed="T" n="0853a15"/>作偈頌以唱道焉。</p>
    <linkGrp>
+       <link targets="#0852c27 #0852c27"/>
+        <ptr target="#A009651" type="person"/>
+       <ptr target="#PL000000034017" type="place"/>
+   </linkGrp>
+    <linkGrp>
+        <link targets="#0852c28 #0852c29"/>
+        <ptr target="#A009651" type="person"/>
+        <ptr target="#A010581" type="person"/>
+        <ptr target="#PL000000028612" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0853a01 #0853a01"/>
+        <ptr target="#A009651" type="person"/>
+        <ptr target="#PL000000018628" type="place"/>
+    </linkGrp>
+    <linkGrp>
         <link targets="#0853a01 #0853a02"/>
         <ptr target="#A009651" type="person"/>
-        <ptr target="#PL000000018603" type="place"/>
+        <ptr target="#PL000000018628" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0853a03 #0853a04"/>
         <ptr target="#A009651" type="person"/>
         <ptr target="#PL000000014700" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0853a12 #0853a14"/>
+        <ptr target="#A009651" type="person"/>
+        <ptr target="#PL000000014700" type="place"/>
+        <ptr target="#j20749702077860" type="time"/>
     </linkGrp>
 </div>

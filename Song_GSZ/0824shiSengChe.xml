@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" type="義解" xml:id="gsz0744c15shiSengChe"><lb
-ed="T" n="0744c15"/><anchor n="T.50.2061.0744c15"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date><placeName key="PL000000042147">京兆大安國寺</placeName><persName key="A009802">僧徹</persName>傳</head><p><lb
+ed="T" n="0744c15"/><anchor n="T.50.2061.0744c15"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date><placeName key="PL000000042147"><placeName>京兆</placeName><placeName>大安國寺</placeName></placeName><persName key="A009802">僧徹</persName>傳</head><p><lb
 ed="T" n="0744c16"/><persName key="A009802">釋僧徹</persName>，不知何許人也。敏利天資，高邁逸<lb
 ed="T" n="0744c17"/>類，稚歲聰頴，而慕<persName key="A000753">悟達國師</persName>，若<persName key="A002780">顏回</persName>之肖<lb
 ed="T" n="0744c18"/><persName key="A002174">仲尼</persName>也。既而時親<ref type="person" target="#A000753">函丈</ref><ptr type="glossary" target="#g1025"/>，頗見幽微，隨侍翼<lb
@@ -9,11 +9,11 @@ ed="T" n="0744c20"/>有新義別章，咸囑付<persName key="A009802">徹</pers
 ed="T" n="0744c21"/>經疏》著《法鑑》四卷，《大無量壽經疏》著《法燈》<lb
 ed="T" n="0744c22"/>二卷，《勝鬘師子吼經疏》著《法苑》十卷。觀乎<lb
 ed="T" n="0744c23"/><persName key="A000753">悟達</persName>為疏，若<persName key="A009816">左丘明</persName>之傳也。<persName key="A009802">徹</persName>述三法鈔，<lb
-ed="T" n="0744c24"/>猶<persName key="A007298">杜</persName>、<persName key="A009819">服</persName>之集解歟？初居<placeName key="PL000000042176">法乾內寺</placeName>，<ref type="person" target="#A009802">師</ref>資角<lb
+ed="T" n="0744c24"/>猶<persName key="A007298">杜</persName>、<persName key="A009819">服</persName>之集解歟<ptr target="#n3328"/>？初居<placeName key="PL000000042176">法乾內寺</placeName>，<ref type="person" target="#A009802">師</ref>資角<lb
 ed="T" n="0744c25"/>立，聲彩風行，凡百官寮無不奉仰率由。<persName key="A009802">徹</persName>內<lb
-ed="T" n="0744c26"/>外<ptr type="glossary" target="#g32"/>兼學，辭筆特高，唱予和汝<ptr type="glossary" target="#g1026"/>，同氣相求<ptr type="glossary" target="#g1027"/>。尋<lb
+ed="T" n="0744c26"/>外<ptr rend="display:none;" type="glossary" target="#g32"/>兼學，辭筆特高，唱予和汝<ptr rend="display:none;" type="glossary" target="#g1026"/>，同氣相求<ptr rend="display:none;" type="glossary" target="#g1027"/>。尋<lb
 ed="T" n="0744c27"/>充左右街應制，每屬誕辰<ptr target="#n1028"/>，升<placeName key="PL000000042361">麟德殿</placeName>法座<lb
-ed="T" n="0744c28"/>講談，勅賜紫袈裟。<persName key="A006571">懿宗皇帝</persName>留心釋氏，頗<lb
+ed="T" n="0744c28"/>講談，勅賜紫袈裟。<persName key="A006571">懿宗</persName>皇帝留心<name>釋</name>氏，頗<lb
 ed="T" n="0744c29"/>異前朝。遇八齋日，必<ref type="place" target="#PL000000042276">內中</ref>飯僧數盈萬計。<pb ed="T" n="0745a" xml:id="T50.2061.0745a"/><lb
 ed="T" n="0745a01"/><ref type="person" target="#A006571">帝</ref>因法集，躬為讚唄，<persName key="A009802">徹</persName>則升臺朗詠。寵錫<lb
 ed="T" n="0745a02"/>繁博，勅造栴檀木講座以賜<ref type="person" target="#A009802">之</ref>。又勅<ref type="place" target="#PL000000042410 #PL000000042270 #PL000000042216 #PL000000042412">兩街<lb
@@ -30,12 +30,12 @@ ed="T" n="0745a12"/>事。初<persName key="A009802">徹</persName>經江論海�
 ed="T" n="0745a13"/>貫，既循<persName key="A000753">悟達國師</persName>義意，寄呈所見，蒙迴八<lb
 ed="T" n="0745a14"/>十四字云：「觀君《法苑》思沖虛，解我真乘刃<lb
 ed="T" n="0745a15"/>有餘。若使<persName key="A001502">龍光</persName>時可待，應憐<persName key="A001598">僧肇</persName>論成初。<lb
-ed="T" n="0745a16"/>五車外典<ptr type="glossary" target="#g32"/>知難敵，九趣<ptr type="glossary" target="#g1032"/>多才恐不如。蕭寺<ptr type="glossary" target="#g1033"/><lb
+ed="T" n="0745a16"/>五車外典<ptr rend="display:none;" type="glossary" target="#g32"/>知難敵，九趣<ptr type="glossary" target="#g1032"/>多才恐不如。蕭寺<ptr type="glossary" target="#g1033"/><lb
 ed="T" n="0745a17"/>講軒橫淡蕩，帝鄉雲樹正扶疎。幾生曾得闍<lb
 ed="T" n="0745a18"/>踰意，今日堪將貝葉書。一振微言冠千古，<lb
 ed="T" n="0745a19"/>何人執卷問吾廬？」覽茲獎飾，悲喜盈<anchor xml:id="beg0745001"/>襟<anchor xml:id="end0745001"/>。<lb
-ed="T" n="0745a20"/>以<date notBefore-iso="+0880-02-18" key="j20425222043063" notAfter-iso="+0881-08-12"><name>廣明</name>中</date><ptr target="#n1034"/>，<persName key="A008599">巢</persName>寇犯<ref type="place" target="#PL000000042189">闕</ref>，<persName key="A005228">僖宗</persName>幸<placeName key="PL000000035107">蜀</placeName>。<ref type="date" target="#j20428512042851">其夕</ref><persName key="A009802">徹</persName><ref type="place" target="#PL000000042276">內</ref><lb
-ed="T" n="0745a21"/>宿，<ref type="date" target="#j20428522042852">明日</ref>倉黃與<persName key="A002039">杜光庭先生</persName>扈從入於<placeName key="PL000000037464">岷</placeName>、<lb
+ed="T" n="0745a20"/>以<date notBefore-iso="+0880-02-18" key="j20425222043063" notAfter-iso="+0881-08-12"><name>廣明</name>中</date><ptr rend="display:none;" target="#n1034"/>，<persName key="A008599">巢</persName>寇犯<ref type="place" target="#PL000000042189">闕</ref>，<persName key="A005228">僖宗</persName>幸<placeName key="PL000000035107">蜀</placeName>。<ref type="date" target="#j20428512042851">其夕</ref><persName key="A009802">徹</persName><ref type="place" target="#PL000000042276">內</ref><lb
+ed="T" n="0745a21"/>宿，<ref type="date" target="#j20428522042852">明日</ref>倉黃與<persName key="A002039">杜光庭<roleName>先生</roleName></persName>扈從入於<placeName key="PL000000037464">岷</placeName>、<lb
 ed="T" n="0745a22"/><placeName key="PL000000036087">峨</placeName>。再見<persName key="A000753">悟達</persName>，痛序艱難。<persName key="A009802">徹</persName>極多著述，碑頌<lb
 ed="T" n="0745a23"/>歌詩。不知所終。內翰侍郎<persName key="A009824">樂朋龜</persName>為真讚，<lb
 ed="T" n="0745a24"/><placeName key="PL000000042848">鳳翔</placeName>、<placeName key="PL000000035989">嘉州</placeName>皆寫其真相。弟子<placeName key="PL000000042002">秦</placeName>、<placeName key="PL000000035107">蜀</placeName>之間愈多<lb

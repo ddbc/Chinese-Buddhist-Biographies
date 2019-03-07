@@ -1,42 +1,55 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" type="遺身" xml:id="gsz0860b07shiShaoYan"><lb
-ed="T" n="0860b07"/><anchor n="T.50.2061.0860b07"/><head><date from-iso="+0960-02-09" key="j20717322132856" to-iso="+1127-06-18"><anchor xml:id="begd1e41447"/>宋<anchor xml:id="endd1e41447"/></date>杭州真身寶塔寺<persName key="A013525">紹巖</persName>傳</head><p><lb
-ed="T" n="0860b08"/><persName key="A013525">釋紹巖</persName>，俗姓劉，<placeName key="PL000000042191">雍州</placeName>人也。母<persName key="A019465">張<roleName>氏</roleName></persName>始娠，夢寤<lb
-ed="T" n="0860b09"/>甚奇。及生也，神姿瓌偉。至長也，器度宏深。<lb
-ed="T" n="0860b10"/><date key="j20516052051969" from-iso="+0905-01-01" to-iso="+0905-12-31">七</date>歲苦求出家於<persName key="A013526">高安禪師</persName>，<date key="j20556222055987" from-iso="+0916-01-01" to-iso="+0916-12-31">十八</date>進具於<persName key="A013527">懷<lb
-ed="T" n="0860b11"/>暉律師</persName>，凡百經書，覽同溫習。自是遊諸方<lb
-ed="T" n="0860b12"/>聖跡，洎入<placeName key="PL000000009863">吳會</placeName>，棲息<placeName key="PL000000014411">天台</placeName>、<placeName key="PL000000012277">四明山</placeName>，與<persName key="A008355">德韶<lb
-ed="T" n="0860b13"/>禪師</persName>共決疑滯於<placeName key="PL000000019849">臨川</placeName><persName key="A000174">益公</persName>，遂於錢塘湖<placeName key="PL000000011673">水<lb
-ed="T" n="0860b14"/>心寺挂</placeName>錫。恒諷持法華經無晝夜，俄感陸<lb
-ed="T" n="0860b15"/>地庭間生蓮華。舉城人瞻矚。<persName key="A013525">巖</persName>亟命搴而<lb
+ed="T" n="0860b07"/><anchor n="T.50.2061.0860b07"/><head><date from-iso="+0960-02-09" key="j20717322132856" to-iso="+1127-06-18"><anchor xml:id="begd1e41447"/>宋<anchor xml:id="endd1e41447"/></date><placeName key="PL000000011485"><placeName>杭州</placeName><placeName>真身寶塔寺</placeName></placeName><persName key="A013525">紹巖</persName>傳</head><p><lb
+ed="T" n="0860b08"/><persName key="A013525">釋紹巖</persName>，俗姓<name>劉</name>，<placeName key="PL000000042192">雍州</placeName>人也。母<persName key="A019465">張<roleName>氏</roleName></persName>始娠，夢寤<lb
+ed="T" n="0860b09"/>甚奇。及生也，神姿瓌偉；至長也，器度宏深。<lb
+ed="T" n="0860b10"/><date key="j20516472052001" from-iso="+0905-02-12" to-iso="+0906-02-01">七</date>歲苦求出家於<persName key="A013526">高安<roleName>禪師</roleName></persName>，<date key="j20556632056017" from-iso="+0916-02-11" to-iso="+0917-01-30">十八</date>進具於<persName key="A013527">懷<lb
+ed="T" n="0860b11"/>暉<roleName>律師</roleName></persName>，凡百經書，覽同溫習。自是遊諸方<lb
+ed="T" n="0860b12"/>聖跡，洎入<placeName key="PL000000009925">吳</placeName><placeName key="PL000000013265">會</placeName>，棲息<placeName key="PL000000014411">天台</placeName>、<placeName key="PL000000012277">四明山</placeName>，與<persName key="A008355">德韶<lb
+ed="T" n="0860b13"/><roleName>禪師</roleName></persName>共決疑滯於<placeName key="PL000000019852">臨川</placeName><persName key="A000174">益<roleName>公</roleName></persName><ptr target="#n2951"/>。遂於<placeName key="PL000000011673"><placeName>錢塘湖</placeName><placeName>水<lb
+ed="T" n="0860b14"/>心寺</placeName></placeName>挂錫<ptr target="#n2954"/>，恒諷持《法華經》無晝夜，俄感陸<lb
+ed="T" n="0860b15"/>地庭間生蓮華<ptr target="#n2955"/>，舉城人瞻矚。<persName key="A013525">巖</persName>亟命搴而<lb
 ed="T" n="0860b16"/>蹂之。以<date key="j20720832072466" notAfter-iso="+0962-02-12" notBefore-iso="+0961-01-25"><name>建隆</name>二年辛酉</date>，經願云滿，誓同<persName key="A003397">藥<lb
-ed="T" n="0860b17"/>王</persName>焚身以供養。時<persName key="A006774">漢南國王錢<roleName>氏</roleName></persName>篤重歸<lb
+ed="T" n="0860b17"/>王</persName>焚身以供養。時<placeName key="PL000000008355">漢南國</placeName>王<persName key="A006774">錢<roleName>氏</roleName></persName>篤重歸<lb
 ed="T" n="0860b18"/>心，苦留乃止。尋潛遁，投身<placeName key="PL000000008369">曹娥江</placeName>，用飼魚<lb
-ed="T" n="0860b19"/>腹。會有漁者拯之，云有神人扶足，求溺<lb
-ed="T" n="0860b20"/>弗可，衣敷水面，而驚濤迅激，<persName key="A013525">巖</persName>如坐寶臺。<lb
+ed="T" n="0860b19"/>腹。會有漁者拯之，云「有神人扶足，求溺<lb
+ed="T" n="0860b20"/>弗可，衣敷水面，而驚濤迅激，<persName key="A013525">巖</persName>如坐寶臺。」<lb
 ed="T" n="0860b21"/>然水火二緣俱為未濟，恒怏惋其懷。乃於<lb
-ed="T" n="0860b22"/>越<placeName key="PL000000011566">法華山</placeName>安置。續召於<placeName key="PL000000011485">杭塔寺</placeName>，造<placeName key="PL000000011486">上方淨<lb
-ed="T" n="0860b23"/>院</placeName>以居之。<date key="j19617861961814" notAfter-iso="+0659-03-01" notBefore-iso="+0659-02-01"><name>開寶</name>四年七月</date>有疾，不求藥石，<lb
-ed="T" n="0860b24"/>作偈累篇示門徒，曰：「<persName key="A013525">吾</persName>誦經二萬部，決以<lb
-ed="T" n="0860b25"/>安養為期。」<anchor xml:id="beg0860sgsz5"/>跏<anchor xml:id="end0860sgsz5"/>趺坐亡，享齡七十三，法臘五<lb
-ed="T" n="0860b26"/>十五。喪事官供，茶毘于<placeName key="PL000000011584">龍井山</placeName>，獲舍利無<lb
+ed="T" n="0860b22"/><placeName key="PL000000055585"><placeName>越</placeName><placeName>法華山</placeName></placeName>安置。續召於<placeName key="PL000000011485"><placeName>杭</placeName><placeName>塔寺</placeName></placeName>，造<placeName key="PL000000011486">上方淨<lb
+ed="T" n="0860b23"/>院</placeName>以居之<ptr target="#n2952"/>。<date key="j20759212075950" notAfter-iso="+0971-08-28" notBefore-iso="+0971-07-30"><name>開寶</name>四年七月</date>有疾，不求藥石，<lb
+ed="T" n="0860b24"/>作偈累篇示門徒，曰：「<ref type="person" target="#A013525">吾</ref>誦經二萬部，決以<lb
+ed="T" n="0860b25"/>安養為期。」<ptr target="#n2953"/><anchor xml:id="beg0860sgsz5"/>跏<anchor xml:id="end0860sgsz5"/>趺坐亡，享齡七十三，法臘五<lb
+ed="T" n="0860b26"/>十五。喪事官供，茶毘于<placeName key="PL000000011541">龍井山</placeName>，獲舍利無<lb
 ed="T" n="0860b27"/>算。遺骨若玉瑩然。遂收合作石函，寘于影<lb
-ed="T" n="0860b28"/>堂。<anchor xml:id="beg0860002"/><choice resp="sgsz"><sic>大</sic><corr>泰</corr></choice><anchor xml:id="end0860002"/>寧軍節度使贈太師<persName key="A013528">孫承祐</persName>為碑紀<lb
+ed="T" n="0860b28"/>堂。<placeName key="PL000000021536"><anchor xml:id="beg0860002"/><choice resp="sgsz"><sic>大</sic><corr>泰</corr></choice><anchor xml:id="end0860002"/>寧軍</placeName>節度使贈太師<persName key="A013528">孫承祐</persName>為碑紀<lb
 ed="T" n="0860b29"/>述焉。</p>
+    <linkGrp>
+        <link targets="#0860b08 #0860b09"/>
+        <ptr target="#A013525" type="person"/>
+        <ptr target="#A019465" type="person"/>
+        <ptr target="#PL000000014411" type="place"/>
+    </linkGrp>
     <linkGrp>
         <link targets="#0860b10 #0860b10"/>
         <ptr target="#A013525" type="person"/>
         <ptr target="#A013526" type="person"/>
+        <ptr target="#j20516472052001" type="time"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0860b10 #0860b11"/>
         <ptr target="#A013525" type="person"/>
         <ptr target="#A013527" type="person"/>
+        <ptr target="#j20556632056017" type="time"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0860b12 #0860b12"/>
         <ptr target="#A013525" type="person"/>
-        <ptr target="#PL000000009863" type="place"/>
+        <ptr target="#PL000000009925" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0860b12 #0860b12"/>
+        <ptr target="#A013525" type="person"/>
+        <ptr target="#PL000000013265" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0860b12 #0860b12"/>
@@ -53,6 +66,7 @@ ed="T" n="0860b29"/>述焉。</p>
         <ptr target="#A013525" type="person"/>
         <ptr target="#A008355" type="person"/>
         <ptr target="#A000174" type="person"/>
+        <ptr target="#PL000000019852" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0860b13 #0860b15"/>
@@ -60,25 +74,36 @@ ed="T" n="0860b29"/>述焉。</p>
         <ptr target="#PL000000011673" type="place"/>
     </linkGrp>
     <linkGrp>
-        <link targets="#0860b16 #0860b20"/>
+        <link targets="#0860b16 #0860b18"/>
         <ptr target="#A013525" type="person"/>
         <ptr target="#A006774" type="person"/>
-        <ptr target="#PL000000008369" type="place"/>
+        <ptr target="#PL000000008355" type="place"/>
         <ptr target="#j20720832072466" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0860b18 #0860b20"/>
+        <ptr target="#A013525" type="person"/>
+        <ptr target="#PL000000008369" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0860b21 #0860b22"/>
         <ptr target="#A013525" type="person"/>
-        <ptr target="#PL000000011566" type="place"/>
+        <ptr target="#PL000000055585" type="place"/>
     </linkGrp>
     <linkGrp>
-        <link targets="#0860b21 #0860b23"/>
-        <ptr target="#A013525" type="person"/>
-        <ptr target="#PL000000011485" type="place"/>
-    </linkGrp>
-    <linkGrp>
-        <link targets="#0860b21 #0860b23"/>
+        <link targets="#0860b22 #0860b23"/>
         <ptr target="#A013525" type="person"/>
         <ptr target="#PL000000011486" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0860b23 #0860b25"/>
+        <ptr target="#A013525" type="person"/>
+        <ptr target="#PL000000011486" type="place"/>
+        <ptr target="#j20759212075950" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0860b28 #0860b28"/>
+        <ptr target="#A013528" type="person"/>
+        <ptr target="#PL000000021536" type="place"/>
     </linkGrp>
 </div>

@@ -1,76 +1,120 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" type="感通" xml:id="gsz0834c22shiHuiZhongo"><lb
-ed="T" n="0834c22"/><anchor n="T.50.2061.0834c22"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date>昇州莊嚴寺<persName key="A010048">惠忠</persName>傳（<persName key="A009179">圓寂</persName>）</head><p><lb
-ed="T" n="0834c23"/><persName key="A010048">釋惠忠</persName>，俗姓王，潤州<placeName key="PL000000008820">上元</placeName>人也。初在母孕，<lb
-ed="T" n="0834c24"/>忽遇異僧，謂曰：「所生<persName key="A010048">貴子</persName>，當為天人矣。」誕<lb
-ed="T" n="0834c25"/>育已來，不食葷腥，有異常童。稟性敦厚。<date key="j19785561978920" from-iso="+0705-01-01" to-iso="+0705-12-31">年<lb
+ed="T" n="0834c22"/><anchor n="T.50.2061.0834c22"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date><placeName key="PL000000008702"><placeName>昇州</placeName><placeName>莊嚴寺</placeName></placeName><persName key="A010048">惠忠</persName>傳（<persName key="A009179">圓寂</persName>）</head><p><lb
+ed="T" n="0834c23"/><persName key="A010048">釋惠忠</persName>，俗姓<name>王</name>，<placeName key="PL000000008820"><placeName>潤州</placeName><placeName>上元</placeName></placeName>人也。初在母孕，<lb
+ed="T" n="0834c24"/>忽遇異僧，謂曰：「所生<ref type="person" target="#A010048">貴子</ref>，當為天人矣。」誕<lb
+ed="T" n="0834c25"/>育已來，不食葷腥，有異常童。稟性敦厚。<date key="j19785891978942" from-iso="+0705-02-03" to-iso="+0705-12-31">年<lb
 ed="T" n="0834c26"/>二十三</date>，以經業見度，即<date from-iso="+0705-02-25" key="j19786111978942" to-iso="+0706-01-22"><name>神龍</name>元年</date>也。遂配<lb
-ed="T" n="0834c27"/><placeName key="PL000000008702">莊嚴寺</placeName>，志節高簡，為時輩所推。聞<persName key="A010051">牛頭山<lb
-ed="T" n="0834c28"/>威禪師</persName>襲<persName key="A001361">達磨</persName>蹤，得佛法印，遂造<placeName key="PL000000008579">山</placeName><anchor xml:id="beg0834sgsz22"/>禮<anchor xml:id="end0834sgsz22"/>謁。<lb
+ed="T" n="0834c27"/><placeName key="PL000000008702">莊嚴寺</placeName>，志節高簡，為時輩所推。聞<placeName key="PL000000008579">牛頭山</placeName><lb
+ed="T" n="0834c28"/><persName key="A010051">威<roleName>禪師</roleName></persName>襲<persName key="A001361">達磨</persName>蹤，得佛法印，遂造<ref type="place" target="#PL000000008579">山</ref><anchor xml:id="beg0834sgsz22"/>禮<anchor xml:id="end0834sgsz22"/>謁。<lb
 ed="T" n="0834c29"/><persName key="A010051">威</persName>見<persName key="A010048">忠</persName>，乃曰：「山主來矣。」因為說法，頓悟上<pb ed="T" n="0835a" xml:id="T50.2061.0835a"/><lb
-ed="T" n="0835a01"/>乘。<persName key="A010051">威</persName>既得人，如<persName key="A002104">老<roleName>氏</roleName></persName>之逢<persName key="A002037">尹喜</persName>，乃命入室<lb
-ed="T" n="0835a02"/>付法傳燈，并委山門之事，遂出鄽聚。<persName key="A010048">忠</persName>即<lb
-ed="T" n="0835a03"/>繼踵茲峯，夙夜精勵。常頭陀山澤，飲泉藉<lb
-ed="T" n="0835a04"/>草，一食延時，每用一鐺，眾味同煮，用畢懸<lb
-ed="T" n="0835a05"/>於樹杪，方復繩床晏坐。終日如杌，衣不易<lb
+ed="T" n="0835a01"/>乘。<persName key="A010051">威</persName>既得人，如<persName key="A002104">老<roleName>氏</roleName></persName>之逢<persName key="A002037">尹喜</persName><ptr target="#n2548"/>，乃命入室<lb
+ed="T" n="0835a02"/>付法傳燈，并委山門之事，遂出鄽聚<ptr target="#n2549"/>。<persName key="A010048">忠</persName>即<lb
+ed="T" n="0835a03"/>繼踵茲峯，夙夜精勵。常頭陀<ptr type="glossary" target="#g357"/>山澤，飲泉藉<lb
+ed="T" n="0835a04"/>草，一食延時<ptr type="glossary" target="#g1716"/>。每用一鐺，眾味同煮，用畢懸<lb
+ed="T" n="0835a05"/>於樹杪，方復繩床晏坐。終日如杌<ptr type="glossary" target="#g1593"/>，衣不易<lb
 ed="T" n="0835a06"/>時，寒暑一納，積四十年，遂彰靈應非一。州<lb
 ed="T" n="0835a07"/>牧明賢，頻詣山<anchor xml:id="beg0835sgsz1"/>禮<anchor xml:id="end0835sgsz1"/>謁，再請至郡，施化道俗。<lb
-ed="T" n="0835a08"/><date from-iso="+0742-02-14" key="j19921141993438" to-iso="+0745-09-30"><name>天寶</name>初年</date>始出止<placeName key="PL000000008702">莊嚴</placeName>。<persName key="A010048">忠</persName>以為梁朝舊寺，<placeName key="PL000000008702">莊<lb
-ed="T" n="0835a09"/>嚴</placeName>最盛，今已歲古凋殘，興懷修葺。遂於殿<lb
-ed="T" n="0835a10"/>東擬創法堂，先有古木，鵲巢其頂，工人將<lb
+ed="T" n="0835a08"/><date notBefore-iso="+0742-02-14" key="j19921141993438" notAfter-iso="+0745-09-30"><name>天寶</name>初年</date>始出止<placeName key="PL000000008702">莊嚴</placeName>。<persName key="A010048">忠</persName>以為<placeName key="PL000000000138">梁</placeName>朝舊寺，<placeName key="PL000000008702">莊<lb
+ed="T" n="0835a09"/>嚴</placeName>最盛，今已歲古凋殘，興懷修葺，遂於殿<lb
+ed="T" n="0835a10"/>東擬創法堂。先有古木，鵲巢其頂，工人將<lb
 ed="T" n="0835a11"/>欲伐之。<persName key="A010048">忠</persName>曰：「且止，待鵲移去，始當伐之。」<lb
 ed="T" n="0835a12"/>因至樹祝曰：「此地造堂，當速移去。」言畢，其<lb
 ed="T" n="0835a13"/>鵲競銜柴遷寓他樹。合郭道俗觀者如堵<ptr type="glossary" target="#g1450"/>，<lb
 ed="T" n="0835a14"/>莫不<anchor xml:id="beg0835sgsz3"/>歎<anchor xml:id="end0835sgsz3"/>異。又立基未定，忽有二神人為<lb
-ed="T" n="0835a15"/><anchor xml:id="beg0835001"/><choice resp="sgsz"><sic>上</sic><corr>卜</corr></choice><anchor xml:id="end0835001"/>其處，因乃定焉。雖汲引無廢，神曠不<lb
-ed="T" n="0835a16"/>撓，四方之侶，相依日至。以<date from-iso="+0768-01-28" key="j20015932001976" to-iso="+0769-02-14"><name>大曆</name>三年</date>山門<lb
-ed="T" n="0835a17"/>石室前有<persName key="A010048">忠</persName>挂衣藤<ptr target="#n573"/>，是歲盛夏忽然枯悴。靈<lb
+ed="T" n="0835a15"/><anchor xml:id="beg0835001"/><choice resp="sgsz"><sic>上</sic><corr>卜</corr></choice><anchor xml:id="end0835001"/>其處，因乃定焉。雖汲引<ptr type="glossary" target="#g1717"/>無廢，神曠不<lb
+ed="T" n="0835a16"/>撓，四方之侶，相依日至。以<date from-iso="+0768-01-28" key="j20015932001976" to-iso="+0769-02-14"><name>大曆</name>三年</date>──山門<lb
+ed="T" n="0835a17"/>石室前有<persName key="A010048">忠</persName>挂衣藤<ptr target="#n573"/>──，是歲盛夏忽然枯悴。靈<lb
 ed="T" n="0835a18"/>芝仙<anchor xml:id="beg0835002"/>菌<anchor xml:id="end0835002"/>，且不復生。至<date from-iso="+0768-10-20" key="j20018592001887" to-iso="+0768-11-17">九月</date>，<persName key="A010048">忠</persName>演法高座，無<lb
 ed="T" n="0835a19"/>故水出遶座而轉。至<date key="j20021382002138" when-iso="+0769-07-26">四年六月十五日</date>，集<lb
-ed="T" n="0835a20"/>眾布薩，至晚乃命侍者剃髮浴軀。是夜瑞<lb
-ed="T" n="0835a21"/>雲覆剎，天樂聞空，十六朝怡然坐化。時風雨<lb
-ed="T" n="0835a22"/>震蕩，樹木摧折，和州<placeName key="PL000000016235">延祚寺</placeName>僧徒其夕咸見<lb
+ed="T" n="0835a20"/>眾布薩<ptr type="glossary" target="#g1291"/>，至晚乃命侍者剃髮浴軀。是夜瑞<lb
+ed="T" n="0835a21"/>雲覆剎，天樂聞空，<date key="j20021392002139" when-iso="+0769-07-27">十六</date>朝怡然坐化。時風雨<lb
+ed="T" n="0835a22"/>震蕩，樹木摧折，<placeName key="PL000000016235"><placeName>和州</placeName><placeName>延祚寺</placeName></placeName><ptr target="#n2552"/>僧徒其夕咸見<lb
 ed="T" n="0835a23"/>白虹直東西，貫于山中，鳥獸哀鳴，林壑巖<lb
-ed="T" n="0835a24"/>間哭聲數日方止。岳牧<persName key="A010987">韋公損</persName>聞而哀愴，遣<lb
-ed="T" n="0835a25"/>使贈賻，并令<placeName key="PL000000008820">上元</placeName>令<persName key="A012466">劉君</persName>備威儀送歸山。<lb
+ed="T" n="0835a24"/>間哭聲數日方止。岳牧<ptr type="glossary" target="#g1718"/><persName key="A010987">韋<roleName>公</roleName>損</persName>聞而哀愴，遣<lb
+ed="T" n="0835a25"/>使贈賻，并令<placeName key="PL000000008820">上元</placeName>令<persName key="A012466">劉<roleName>君</roleName></persName>備威儀送歸山。<lb
 ed="T" n="0835a26"/>于時炎蒸，至<date key="j20021592002159" when-iso="+0769-08-16">七月七</date>，天降雨絕凉。<date key="j20021602002160" when-iso="+0769-08-17">八日</date>神<lb
 ed="T" n="0835a27"/>柩出，纖塵不飛。又有群鶴徘徊輿上，送至<lb
-ed="T" n="0835a28"/>山門。瘞後數日，墳內放光，照于山林。<date from-iso="+0770-02-05" key="j20023322002685" to-iso="+0771-01-24">五年</date><lb
-ed="T" n="0835a29"/>春，依外國法<anchor xml:id="beg0835sgsz7"/>茶<anchor xml:id="end0835sgsz7"/>毘，獲舍利不可勝計，圓細<pb ed="T" n="0835b" xml:id="T50.2061.0835b"/><lb
+ed="T" n="0835a28"/>山門。瘞後數日，墳內放光，照于山林。<date from-iso="+0770-02-05" key="j20023322002419" to-iso="+0770-05-03">五年<lb
+ed="T" n="0835a29"/>春</date>，依外國法<anchor xml:id="beg0835sgsz7"/>茶毘<anchor xml:id="end0835sgsz7"/>，獲舍利不可勝計，圓細<pb ed="T" n="0835b" xml:id="T50.2061.0835b"/><lb
 ed="T" n="0835b01"/>如珠，光彩瑩徹。遠近道俗有恨無所剋獲，<lb
 ed="T" n="0835b02"/>咸於焚身處煨燼中至求，凡百千人，皆得<lb
-ed="T" n="0835b03"/>舍利。故知法身圓應，感物無窮，聖力潛通，光<lb
+ed="T" n="0835b03"/>舍利。故知法身圓應<ptr target="#n2550"/>，感物無窮，聖力潛通，光<lb
 ed="T" n="0835b04"/>騰千古。門人起木塔。春秋八十七矣。身逾<lb
 ed="T" n="0835b05"/>七尺，霜眉徑寸，儀容殊偉，燕<anchor xml:id="beg0835sgsz9"/><choice resp="sgsz"><sic>𪁟</sic><corr>頷</corr></choice><anchor xml:id="end0835sgsz9"/>龍腮，神氣孤<lb
 ed="T" n="0835b06"/>拔，色如金聚，含光玉潤，若<name>梵</name>僧。所居帳幃<lb
 ed="T" n="0835b07"/>弗張，蚊蚋不犯。曾居蘭若幽棲，松竹深邃，<lb
 ed="T" n="0835b08"/>甞有虎鹿並各產子，馴遶<anchor xml:id="beg0835sgsz11"/>入<anchor xml:id="end0835sgsz11"/>室，曾無懼色。<lb
 ed="T" n="0835b09"/><date from-iso="+0739-02-17" key="j19910211991374" to-iso="+0740-02-05"><name>開元</name>二十七年</date>，<placeName key="PL000000008820">上元</placeName>令<persName key="A012467">長孫遂</persName>初脫略異聞，<lb
-ed="T" n="0835b10"/>躬造<placeName key="PL000000008579">山</placeName>詢驗。及到山半，猛虎當路瓟吼，遂<lb
+ed="T" n="0835b10"/>躬造<ref type="person" target="#PL000000008579">山</ref>詢驗。及到山半，猛虎當路瓟吼，遂<lb
 ed="T" n="0835b11"/>乃驚怖，莫知所為<ptr target="#n574"/>。<persName key="A010048">忠</persName>聞，出林曉喻，虎<anchor xml:id="beg0835003"/>因<anchor xml:id="end0835003"/><lb
-ed="T" n="0835b12"/>寢聲，伏于林中。遂恐<anchor xml:id="beg0835sgsz12"/>懾<anchor xml:id="end0835sgsz12"/>，合掌<anchor xml:id="beg0835sgsz13"/>禮<anchor xml:id="end0835sgsz13"/>謝而迴。<persName key="A010048">忠</persName>又<lb
+ed="T" n="0835b12"/>寢聲，伏于林中。<persName key="A012467">遂</persName>恐<anchor xml:id="beg0835sgsz12"/>懾<anchor xml:id="end0835sgsz12"/>，合掌<anchor xml:id="beg0835sgsz13"/>禮<anchor xml:id="end0835sgsz13"/>謝而迴。<persName key="A010048">忠</persName>又<lb
 ed="T" n="0835b13"/>向<placeName key="PL000000009928">吳郡</placeName>，<placeName key="PL000000008584">具戒院</placeName>中有凌霄藤，盛夏萎悴，人擬<lb
-ed="T" n="0835b14"/>伐之。<persName key="A010051">威大師</persName>曰：「勿翦。<persName key="A010048">惠忠</persName>還日，其藤更生。」<lb
+ed="T" n="0835b14"/>伐之。<persName key="A010051">威<roleName>大師</roleName></persName>曰：「勿翦！<persName key="A010048">惠忠</persName>還日，其藤更生。」<lb
 ed="T" n="0835b15"/>人不之信，及秋，<persName key="A010048">忠</persName>還，其藤重茂矣。又昔有<lb
 ed="T" n="0835b16"/>供僧穀倉在莊，夜有<anchor xml:id="beg0835sgsz15"/><choice resp="sgsz"><sic>張</sic><corr>強</corr></choice><anchor xml:id="end0835sgsz15"/>盜來竊之，虎乃吼<lb
 ed="T" n="0835b17"/>喚逐之。盜棄負器而逃。其類夥多，良難驟<lb
-ed="T" n="0835b18"/>述。<persName key="A010048">忠</persName>著見性序及行路難，精旨妙密，盛行<lb
-ed="T" n="0835b19"/><anchor xml:id="beg0835sgsz17"/><choice resp="sgsz"><sic>干</sic><corr>于</corr></choice><anchor xml:id="end0835sgsz17"/>世。又<placeName key="PL000000001481">鄴</placeName>中<persName key="A009179">釋圓寂</persName>，氏族生地俱不可尋。<lb
-ed="T" n="0835b20"/>初從<placeName key="PL000000023253">嵩山</placeName>見<persName key="A010232">老安禪師</persName>，道契相符，莫測涯<lb
-ed="T" n="0835b21"/>岸。以高宗<date from-iso="+0671-02-18" key="j19661861966540" to-iso="+0672-02-07"><name>咸亨</name>二年</date>生，計終歲已一百有<lb
+ed="T" n="0835b18"/>述。<persName key="A010048">忠</persName>著《見性序》<ptr target="#n2551"/>及《行路難》，精旨妙密，盛行<lb
+ed="T" n="0835b19"/><anchor xml:id="beg0835sgsz17"/><choice resp="sgsz"><sic>干</sic><corr>于</corr></choice><anchor xml:id="end0835sgsz17"/>世。又<placeName key="PL000000001481">鄴</placeName>中<persName key="A009179">釋圓寂</persName><ptr target="#n1495"/>，氏族生地俱不可尋。<lb
+ed="T" n="0835b20"/>初從<placeName key="PL000000023253">嵩山</placeName>見<persName key="A010232">老安<roleName>禪師</roleName></persName>，道契相符，莫測涯<lb
+ed="T" n="0835b21"/>岸。以<persName key="A002146">高宗</persName><date from-iso="+0671-02-18" key="j19661861966540" to-iso="+0672-02-07"><name>咸亨</name>二年</date>生，計終歲已一百有<lb
 ed="T" n="0835b22"/>奇年矣。<placeName key="PL000000027118">襄州</placeName>節度使<persName key="A004372">嚴綬</persName>，傾心供養，亦號<persName key="A009179">無<lb
 ed="T" n="0835b23"/>生和尚</persName>焉。</p>
+    <linkGrp>
+        <link targets="#0834c23 #0834c23"/>
+        <ptr target="#A010048" type="person"/>
+        <ptr target="#PL000000008820" type="place"/>
+    </linkGrp>
     <linkGrp>
         <link targets="#0834c25 #0834c27"/>
         <ptr target="#A010048" type="person"/>
         <ptr target="#PL000000008702" type="place"/>
-        <ptr target="#j19785561978920" type="time"/>
+        <ptr target="#j19785891978942" type="time"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0834c27 #0835a02"/>
         <ptr target="#A010048" type="person"/>
         <ptr target="#A010051" type="person"/>
         <ptr target="#PL000000008579" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0835a01 #0835a01"/>
+        <ptr target="#A002104" type="person"/>
+        <ptr target="#A002037" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0835a02 #0835a07"/>
+        <ptr target="#A010048" type="person"/>
+        <ptr target="#PL000000008579" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0835a08 #0835a08"/>
+        <ptr target="#A010048" type="person"/>
+        <ptr target="#PL000000008702" type="place"/>
+        <ptr target="#j19921141993438" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0835a18 #0835a19"/>
+        <ptr target="#A010048" type="person"/>
+        <ptr target="#PL000000008702" type="place"/>
+        <ptr target="#j20018592001887" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0835a19 #0835a21"/>
+        <ptr target="#A010048" type="person"/>
+        <ptr target="#PL000000008702" type="place"/>
+        <ptr target="#j20021382002139" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0835a24 #0835a25"/>
+        <ptr target="#A010987" type="person"/>
+        <ptr target="#A012466" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0835b09 #0835b09"/>
+        <ptr target="#A012467" type="person"/>
+        <ptr target="#PL000000008820" type="place"/>
+        <ptr target="#j19910211991374" type="time"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0835b09 #0835b12"/>
@@ -85,7 +129,17 @@ ed="T" n="0835b23"/>生和尚</persName>焉。</p>
         <ptr target="#PL000000009928" type="place"/>
     </linkGrp>
     <linkGrp>
-        <link targets="#0835b19 #0835b21"/>
+        <link targets="#0835b13 #0835b14"/>
+        <ptr target="#A010051" type="person"/>
+        <ptr target="#PL000000008584" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0835b19 #0835b19"/>
+        <ptr target="#A009179" type="person"/>
+        <ptr target="#PL000000001481" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0835b20 #0835b21"/>
         <ptr target="#A009179" type="person"/>
         <ptr target="#A010232" type="person"/>
         <ptr target="#PL000000023253" type="place"/>

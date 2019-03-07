@@ -1,22 +1,43 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" type="感通" xml:id="gsz0839b27shiHuaiKong"><lb
-ed="T" n="0839b27"/><anchor n="T.50.2061.0839b27"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date>徐州安豐山<persName key="A012622">懷空</persName>傳</head><p><lb
-ed="T" n="0839b28"/><persName key="A012622">釋懷空</persName>，姓梁氏，<placeName key="PL000000036535">閬州</placeName>人也。幼適本州<placeName key="PL000000036516">耆闍山<lb
-ed="T" n="0839b29"/>廣福院</placeName>削染。得戒之後，遊方慕學，於<persName key="A003623">大寂</persName><pb ed="T" n="0839c" xml:id="T50.2061.0839c"/><lb
-ed="T" n="0839c01"/>禪法洗然明暢。後至彭城<placeName key="PL000000009502">安豐山</placeName>挂錫宴<lb
-ed="T" n="0839c02"/>默，不數載間，成大伽藍。甞有一僧乘空而<lb
+ed="T" n="0839b27"/><anchor n="T.50.2061.0839b27"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date><placeName key="PL000000009502"><placeName>徐州</placeName><placeName>安豐山</placeName></placeName><persName key="A012622">懷空</persName>傳</head><p><lb
+ed="T" n="0839b28"/><persName key="A012622">釋懷空</persName>，姓<name>梁</name>氏，<placeName key="PL000000036535">閬州</placeName>人也。幼適本州<placeName key="PL000000036516"><placeName>耆闍山</placeName><lb
+ed="T" n="0839b29"/><placeName>廣福院</placeName></placeName>削染。得戒之後，遊方慕學，於<persName key="A003623">大寂</persName><pb ed="T" n="0839c" xml:id="T50.2061.0839c"/><lb
+ed="T" n="0839c01"/>禪法洗然明暢。後至<placeName key="PL000000009502"><placeName>彭城</placeName><placeName>安豐山</placeName></placeName>挂錫宴<lb
+ed="T" n="0839c02"/>默<ptr rend="display:none;" type="glossary" target="#g1049"/>，不數載間，成大伽藍。甞有一僧乘空而<lb
 ed="T" n="0839c03"/>至，遶垣牆不息。或躡蓮華，或時履地，人<lb
 ed="T" n="0839c04"/><anchor xml:id="beg0839004"/><choice resp="sgsz"><sic>或</sic><corr>咸</corr></choice><anchor xml:id="end0839004"/>瞻覩。數日之後，<anchor xml:id="beg0839sgsz7"/>禮<anchor xml:id="end0839sgsz7"/>辭<persName key="A012622">空</persName>，且曰：「我三五稔<lb
 ed="T" n="0839c05"/>却來依附。」言訖不見。<persName key="A012622">空</persName>以<date from-iso="+0784-01-31" key="j20074402007823" to-iso="+0785-02-17"><name>興元</name>元年</date>滅度，<lb
 ed="T" n="0839c06"/>春秋八十八。<date from-iso="+0821-03-12" key="j20209952021023" to-iso="+0821-04-09"><name>長慶</name>元年二月</date>，方遷入塔云。</p>
+    <linkGrp>
+        <link targets="#0839b28 #0839b28"/>
+        <ptr target="#A012622" type="person"/>
+        <ptr target="#PL000000036535" type="place"/>
+    </linkGrp>
     <linkGrp>
         <link targets="#0839b28 #0839b29"/>
         <ptr target="#A012622" type="person"/>
         <ptr target="#PL000000036516" type="place"/>
     </linkGrp>
     <linkGrp>
+        <link targets="#0839b29 #0839c01"/>
+        <ptr target="#A012622" type="person"/>
+        <ptr target="#A003623" type="person"/>
+    </linkGrp>
+    <linkGrp>
         <link targets="#0839c01 #0839c05"/>
         <ptr target="#A012622" type="person"/>
         <ptr target="#PL000000009502" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0839c01 #0839c05"/>
+        <ptr target="#A012622" type="person"/>
+        <ptr target="#PL000000009502" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0839c05 #0839c06"/>
+        <ptr target="#A012622" type="person"/>
+        <ptr target="#PL000000009502" type="place"/>
+        <ptr target="#j20074402007823" type="time"/>
     </linkGrp>
 </div>

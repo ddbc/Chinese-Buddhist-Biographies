@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" type="譯經" xml:id="gsz0716c25shiDaoYin"><lb
-ed="T" n="0716c26"/><anchor n="T.50.2061.0716c25"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date><placeName key="PL000000034754">益州多寶寺</placeName><persName key="A008882">道因</persName>傳<ptr target="#n25"/>（<persName key="A005407">嵩公</persName> <persName key="A004354">寶暹</persName>）</head><p><lb
+ed="T" n="0716c26"/><anchor n="T.50.2061.0716c25"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date><placeName key="PL000000034754"><placeName>益州</placeName><placeName>多寶寺</placeName></placeName><persName key="A008882">道因</persName>傳<ptr rend="display:none;" target="#n25"/>（<persName key="A005407">嵩公</persName> <persName key="A004354">寶暹</persName>）</head><p><lb
 ed="T" n="0716c26"/><persName key="A008882">釋道因</persName>，姓<name>侯</name>氏，<placeName key="PL000000024797">濮陽</placeName>人也。稟祜居醇<ptr type="glossary" target="#g276"/>，含章<ptr type="glossary" target="#g277"/><lb
-ed="T" n="0716c27"/>縱哲，<date key="j19358231937649" notBefore-iso="+0588-01-01" notAfter-iso="+0592-12-31">覃訏之歲</date><ptr type="glossary" target="#g278"/>，粹<choice resp="sgsz"><sic>釆</sic><corr>采</corr></choice><ptr rend="display:none;" type="glossary" target="#g279"/>多奇，<date key="j19376501940205" notAfter-iso="+0599-12-31" notBefore-iso="+0593-01-01">髫齓之辰</date><ptr rend="display:none;" type="glossary" target="#g280"/>，殊姿特<lb
+ed="T" n="0716c27"/>縱哲，<date key="j19358231937649" notBefore-iso="+0588-01-01" notAfter-iso="+0592-12-31">覃訏之歲</date><ptr type="glossary" target="#g278"/>，粹<choice resp="sgsz"><sic>釆</sic><corr>采</corr></choice><ptr rend="display:none;" type="glossary" target="#g279"/>多奇，<date key="j19376501940205" notAfter-iso="+0599-12-31" notBefore-iso="+0593-01-01">髫齓之辰</date><ptr type="glossary" target="#g280"/>，殊姿特<lb
 ed="T" n="0716c28"/>茂。孝愛之節，慈順之風，率志于斯，因心<ptr type="glossary" target="#g281"/>以<lb
 ed="T" n="0716c29"/>極。年甫<date key="j19376521938016" from-iso="+0593-01-03" to-iso="+0594-01-02">七歲</date>，丁于內艱<ptr type="glossary" target="#g282"/>，嗌粒絕漿，殆乎滅<pb ed="T" n="0717a" xml:id="T50.2061.0717a"/><lb
-ed="T" n="0717a01"/>性<ptr type="glossary" target="#g283"/>。成人<ptr type="glossary" target="#g284"/>之德，見稱州里。<date key="j19387451939110" from-iso="+0596-01-01" to-iso="+0596-12-31">免喪</date><ptr rend="display:none;" type="glossary" target="#g285"/>之後，思酬<lb
+ed="T" n="0717a01"/>性<ptr type="glossary" target="#g283"/>。成人<ptr rend="display:none;" type="glossary" target="#g284"/>之德，見稱州里。<date key="j19387451939110" from-iso="+0596-01-01" to-iso="+0596-12-31">免喪</date><ptr rend="display:none;" type="glossary" target="#g285"/>之後，思酬<lb
 ed="T" n="0717a02"/>罔極<ptr type="glossary" target="#g286"/>，出家之志，人莫我移。便詣<placeName key="PL000000020295">靈巖寺</placeName>求<lb
 ed="T" n="0717a03"/>師誦習，曾不浹旬<ptr type="glossary" target="#g287"/>，通《涅槃經》二帙<ptr target="#n299"/>，舉眾驚<lb
 ed="T" n="0717a04"/>駭，謂為神童。落髮已來，砥礪其行，揣摩《義<lb
@@ -44,7 +44,7 @@ ed="T" n="0717b07"/>譯校定<name>梵</name>本，兼充證義<ptr rend="displa
 ed="T" n="0717b08"/>有難文，同加參酌，新翻弗墜，<persName key="A008882">因</persName>有力焉。<placeName key="PL000000042131">慧<lb
 ed="T" n="0717b09"/>日寺</placeName>主<persName key="A008889"><anchor xml:id="beg0717sgsz3"/>楷<anchor xml:id="end0717sgsz3"/><roleName>法師</roleName></persName>者，聰爽溫贍<ptr type="glossary" target="#g306"/>，聲藹鴻都<ptr type="glossary" target="#g307"/>，首建<lb
 ed="T" n="0717b10"/>法筵，請開奧義。<ref target="#PL000000042189" type="place">帝城</ref>緇俗，具來諮稟，欣焉<lb
-ed="T" n="0717b11"/>相顧，得所未聞。<persName key="A008882">因</persName>研幾史籍，尤好《老》、《莊》，<lb
+ed="T" n="0717b11"/>相顧，得所未聞。<persName key="A008882">因</persName>研幾<ptr rend="display:none;" type="glossary" target="#g441"/>史籍，尤好《老》、《莊》，<lb
 ed="T" n="0717b12"/>咀其菁華，含其腴潤，包四始<ptr type="glossary" target="#g63"/>於風律<ptr type="glossary" target="#g308"/>，綜五<lb
 ed="T" n="0717b13"/>聲於文緒，故所講訓，內外該通。其專業者，<lb
 ed="T" n="0717b14"/>《涅槃》、《華嚴》、《大品》<ptr target="#n37"/>、《維摩》、《法華》、《楞伽》<ptr target="#n52"/>等經，《十地》<ptr target="#n53"/>、《地持》<ptr target="#n54"/>、<lb
@@ -52,7 +52,7 @@ ed="T" n="0717b15"/>《毘曇》、《智度》<ptr target="#n55"/>、《攝大�
 ed="T" n="0717b16"/>律。其《攝論》、《維摩》仍著章疏。</p><p>已而能事畢矣，<lb
 ed="T" n="0717b17"/>示疾終于<placeName key="PL000000042131">長安慧日寺</placeName>，則<date key="j19615001961500" when-iso="+0658-04-21"><name>顯慶</name>三年三月十<lb
 ed="T" n="0717b18"/>一日</date>也，春秋七十二。越<date from-iso="+0659-02-01" key="j19617861961814" to-iso="+0659-03-01">明年正月</date>，旋神座于<lb
-ed="T" n="0717b19"/><placeName key="PL000000034805">益部</placeName>，<date key="j19618221961822" when-iso="+0659-03-09">二月八日</date>窆于<placeName key="PL000000035021">彭門光化寺</placeName>石經之側。<lb
+ed="T" n="0717b19"/><placeName key="PL000000034805">益部</placeName><ptr type="glossary" target="#g2176"/>，<date key="j19618221961822" when-iso="+0659-03-09">二月八日</date>窆于<placeName key="PL000000035021">彭門光化寺</placeName>石經之側。<lb
 ed="T" n="0717b20"/>道俗送葬，數有數千。弟子<persName key="A008890">玄<anchor xml:id="beg0717sgsz4"/>凝<anchor xml:id="end0717sgsz4"/></persName>等嗣其香<lb
 ed="T" n="0717b21"/>火。至<date notBefore-iso="+0661-04-08" key="j19625831963615" notAfter-iso="+0664-02-04"><name>龍朔</name>中</date>，中臺司藩大夫<persName key="A008892">李儼</persName>製碑，<persName key="A008893">歐陽<lb
 ed="T" n="0717b22"/>通</persName>書焉。</p>

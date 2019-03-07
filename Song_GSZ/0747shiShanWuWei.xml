@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" type="譯經" xml:id="gsz0714b07shiShanWuWei"><lb
-ed="T" n="0714b07"/><anchor n="T.50.2061.0714b07"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date><placeName key="PL000000023661">洛京聖善寺</placeName><persName key="A001342">善無畏</persName>傳（<persName key="A008849">達摩掬多</persName>）</head><p><lb
+ed="T" n="0714b07"/><anchor n="T.50.2061.0714b07"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date><placeName key="PL000000023661"><placeName>洛京</placeName><placeName>聖善寺</placeName></placeName><persName key="A001342">善無畏</persName>傳（<persName key="A008849">達摩掬多</persName>）</head><p><lb
 ed="T" n="0714b08"/><persName key="A001342">釋善無畏</persName>，本<placeName key="PL000000048208">中印度</placeName>人也。<persName key="A002799">釋迦如來</persName>季父<persName key="A002576">甘露<lb
 ed="T" n="0714b09"/>飯王</persName>之後，<name>梵</name>名<persName key="A001342">戍婆揭羅僧訶</persName>，<name>華</name>言<persName key="A001342">淨師子</persName><ptr target="#n13"/>，<lb
 ed="T" n="0714b10"/>義翻為<persName key="A001342">善無畏</persName>；一云<persName key="A001342">輸波迦羅</persName>，此名<persName key="A001342">無畏</persName>，<lb
@@ -23,11 +23,11 @@ ed="T" n="0714b26"/>尋越窮荒，又逾毒水，纔至<placeName key="PL000000
 ed="T" n="0714b27"/>其王。王之夫人，乃<persName key="A001342">畏</persName>之女兄也<ptr target="#n296"/>，因問捨位之<lb
 ed="T" n="0714b28"/>由，稱歎不足。是日携手同歸，慈雲布陰，一<lb
 ed="T" n="0714b29"/>境丕變。</p><p><persName key="A001342">畏</persName>風儀爽俊，聰叡超群，解究五乘<ptr type="glossary" target="#g181"/>，<pb ed="T" n="0714c" xml:id="T50.2061.0714c"/><lb
-ed="T" n="0714c01"/>道該三學<ptr type="glossary" target="#g182"/>，總持、禪觀<ptr rend="display:none;" type="glossary" target="#g183"/>，妙達其源。藝術伎能，悉<lb
+ed="T" n="0714c01"/>道該三學<ptr rend="display:none;" type="glossary" target="#g182"/>，總持、禪觀<ptr rend="display:none;" type="glossary" target="#g183"/>，妙達其源。藝術伎能，悉<lb
 ed="T" n="0714c02"/>聞精練。初詣<placeName key="PL000000048272">那爛陀寺</placeName>，此云<placeName key="PL000000048272">施無厭</placeName>也，像<lb
 ed="T" n="0714c03"/>法<ptr type="glossary" target="#g184"/>之泉源，眾聖之會府。<persName key="A001342">畏</persName>乃捨傳國寶珠瑩<lb
 ed="T" n="0714c04"/>于大像之額，晝如月魄<ptr rend="display:none;" type="glossary" target="#g185"/>，夜若曦輪<ptr type="glossary" target="#g186"/>焉。<ref target="#PL000000048272" type="place">寺</ref>有<lb
-ed="T" n="0714c05"/><persName key="A008849">達摩掬多</persName>者，掌定門<ptr rend="display:none;" type="glossary" target="#g187"/>之祕鑰，佩<persName key="A002799">如來</persName>之密<lb
+ed="T" n="0714c05"/><persName key="A008849">達摩掬多</persName>者，掌定門<ptr rend="display:none;" type="glossary" target="#g187"/>之祕鑰，<anchor xml:id="beg0714sgsz3"/><choice resp="sgsz"><sic><g ref="#Z1247"/></sic><corr>佩</corr></choice><anchor xml:id="end0714sgsz3"/><persName key="A002799">如來</persName>之密<lb
 ed="T" n="0714c06"/>印<ptr rend="display:none;" type="glossary" target="#g188"/>，顏如四十許，其實八百歲也，<persName key="A000294">玄奘<roleName>三藏</roleName></persName>昔<lb
 ed="T" n="0714c07"/>曾見之。<persName key="A001342">畏</persName>投身接足<ptr rend="display:none;" type="glossary" target="#g189"/>，奉為本師<ptr rend="display:none;" type="glossary" target="#g190"/>。一日侍食<ptr rend="display:none;" type="glossary" target="#g191"/><lb
 ed="T" n="0714c08"/>之次，旁有一僧，<placeName key="PL000000000083">震旦</placeName>人也，<persName key="A001342">畏</persName><anchor xml:id="beg0714004"/><choice resp="sgsz"><sic>現</sic><corr>視</corr></choice><anchor xml:id="end0714004"/>其鉢中<lb
@@ -42,7 +42,7 @@ ed="T" n="0714c16"/>脫吉祥之海<ptr rend="display:none;" type="glossary" tar
 ed="T" n="0714c17"/>一燈<ptr rend="display:none;" type="glossary" target="#g198"/>而已。根殊性異，燈亦無邊。由是有百億<lb
 ed="T" n="0714c18"/><persName key="A002799">釋迦</persName>微塵三昧<ptr rend="display:none;" type="glossary" target="#g199"/>，菩薩以綱<ptr target="#n200"/>總攝於諸定，頓<lb
 ed="T" n="0714c19"/>升階位，隣於大覺，此其旨也。</p><p>于時<persName key="A001342">畏</persName>周行<lb
-ed="T" n="0714c20"/>大荒<ptr rend="display:none;" target="#n201"/>，遍<anchor xml:id="beg0714sgsz2"/>禮<anchor xml:id="end0714sgsz2"/>聖迹，不憚艱險。凡所履處，皆三<lb
+ed="T" n="0714c20"/>大荒<ptr rend="display:none;" target="#n201"/>，遍<anchor xml:id="beg0714sgsz4"/>禮<anchor xml:id="end0714sgsz4"/>聖迹，不憚艱險。凡所履處，皆三<lb
 ed="T" n="0714c21"/>返<ptr rend="display:none;" type="glossary" target="#g202"/>焉。又入<placeName key="PL000000048244">雞足山</placeName>，為<persName key="A002188">迦葉</persName>剃頭<ptr target="#n203"/>，受<persName key="A002803">觀音</persName>摩<lb
 ed="T" n="0714c22"/>頂。甞結夏<ptr type="glossary" target="#g61"/>於<placeName key="PL000000048268">靈鷲</placeName>，有猛獸前導，深入山穴。<lb
 ed="T" n="0714c23"/>穴明如晝，見<persName key="A002799">牟尼</persName>像，<ref target="#A002144 #A003079" type="person">左右侍者</ref>如生焉。時<lb
@@ -108,7 +108,7 @@ ed="T" n="0715b24"/>耶<ptr type="glossary" target="#g900"/>也，即祕密禁�
 ed="T" n="0715b25"/>不合輒讀誦，猶未受具人<ptr type="glossary" target="#g4"/>盜聽戒律也。<lb
 ed="T" n="0715b26"/>所出《虛空藏菩薩能滿諸願最勝心陀羅尼<lb
 ed="T" n="0715b27"/>求聞持法》一卷，即《金剛頂》<name>梵</name>本經《成就一切<lb
-ed="T" n="0715b28"/>義圖》<ptr target="#n211"/>略譯少分耳。</p><p><persName key="A001342">畏</persName>性愛恬簡，靜慮<ptr rend="display:none;" type="glossary" target="#g227"/>怡神，<lb
+ed="T" n="0715b28"/>義圖》<ptr target="#n211"/>略譯少分耳。</p><p><persName key="A001342">畏</persName>性愛恬簡，靜慮<ptr type="glossary" target="#g227"/>怡神，<lb
 ed="T" n="0715b29"/>時開禪觀，獎勸初學。奉儀形<ptr rend="display:none;" type="glossary" target="#g228"/>者蓮華敷於<pb ed="T" n="0715c" xml:id="T50.2061.0715c"/><lb
 ed="T" n="0715c01"/>眼界，稟言說<ptr rend="display:none;" type="glossary" target="#g229"/>者甘露潤於心田，超然覺明，<lb
 ed="T" n="0715c02"/>日有人矣。法侶請謁，唯尊奉長老<ptr rend="display:none;" type="glossary" target="#g230"/><persName key="A001922">寶思惟<roleName>三<lb
@@ -141,7 +141,7 @@ ed="T" n="0715c28"/><persName key="A001519">宣</persName>捫蝨投于地，<per
 ed="T" n="0715c29"/>方知是大菩薩，詰旦攝衣作禮焉。若觀此<pb ed="T" n="0716a" xml:id="T50.2061.0716a"/><lb
 ed="T" n="0716a01"/>說，<persName key="A001519">宣</persName>滅至<date notBefore-iso="+0713-12-26" key="j19818371992113" notAfter-iso="+0742-02-13"><name>開元</name>中</date>僅五十載矣，如<persName key="A001342">畏</persName>出沒<lb
 ed="T" n="0716a02"/>無常，非人之所測也<ptr target="#n233"/>。</p><p><date key="j19884521988806" from-iso="+0732-02-05" to-iso="+0733-01-24">二十年</date>，求還<placeName key="PL000000055436">西域</placeName>，優<lb
-ed="T" n="0716a03"/>詔不許。<date key="j19898451989845" when-iso="+0735-11-29">二十三年乙亥十<supplied>一</supplied>月七日</date><ptr target="#n297"/>，右脅累足，<lb
+ed="T" n="0716a03"/>詔不許。<date key="j19898451989845" when-iso="+0735-11-29">二十三年乙亥十<supplied resp="sgsz">一</supplied>月七日</date><ptr target="#n297"/>，右脅累足，<lb
 ed="T" n="0716a04"/>奄然而化，享齡九十九，僧臘八十。法侶淒涼，<lb
 ed="T" n="0716a05"/>皇心震悼，贈「鴻臚卿」<ptr target="#n214"/>。遣鴻臚丞<persName key="A016811">李<choice resp="sgsz"><sic>現</sic><corr>峴</corr></choice></persName><ptr target="#n1156"/>具威<lb
 ed="T" n="0716a06"/>儀、<persName key="A000614">賓<roleName>律師</roleName></persName>護喪事<ptr target="#n234"/>。<date key="j19916431991643" when-iso="+0740-10-31">二十八年十月三日</date>，葬<lb
@@ -154,7 +154,7 @@ ed="T" n="0716a12"/>有同<persName key="A002174">孔</persName>墓之戀<ptr ta
 ed="T" n="0716a13"/>黑皮隱隱，骨其露焉。累朝旱澇，皆就祈請。徵<lb
 ed="T" n="0716a14"/>驗隨生，且多檀施<ptr type="glossary" target="#g237"/>。錦繡巾帊<ptr rend="display:none;" type="glossary" target="#g238"/>，覆之如偃息<lb
 ed="T" n="0716a15"/>耳。每一出龕，置于低榻，香汁浴之。<placeName key="PL000000023581">洛中</placeName>豪<lb
-ed="T" n="0716a16"/>右爭施<anchor xml:id="beg0716sgsz3"/><choice resp="sgsz"><sic>彈</sic><corr>禪</corr></choice><anchor xml:id="end0716sgsz3"/>帊、淨巾、澡豆<ptr rend="display:none;" type="glossary" target="#g239"/>，以資浴事。<ref target="#A001640" type="person"><anchor xml:id="beg0716001"/>上<anchor xml:id="end0716001"/></ref>禳禱，<lb
+ed="T" n="0716a16"/>右爭施<anchor xml:id="beg0716sgsz3"/><choice resp="sgsz"><sic>彈</sic><corr>禪</corr></choice><anchor xml:id="end0716sgsz3"/>帊、淨巾、澡豆<ptr rend="display:none;" type="glossary" target="#g239"/>，以資浴事。<ref target="#A001640" type="person"><anchor xml:id="beg0716001"/><choice resp="sgsz"><sic>上</sic><corr>今上</corr></choice><anchor xml:id="end0716001"/></ref>禳禱，<lb
 ed="T" n="0716a17"/>多遣使臣往加供施，必稱心願焉。</p>
     <linkGrp>
         <link targets="#0714b11 #0714b13"/>

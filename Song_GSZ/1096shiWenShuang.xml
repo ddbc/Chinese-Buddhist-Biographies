@@ -1,22 +1,22 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" type="感通" xml:id="gsz0847c10shiWenShuang"><lb
-ed="T" n="0847c10"/><anchor n="T.50.2061.0847c10"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date>太原崇福寺<persName key="A012840">文爽</persName>傳</head><p><lb
+ed="T" n="0847c10"/><anchor n="T.50.2061.0847c10"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date><placeName key="PL000000003781"><placeName>太原</placeName><placeName>崇福寺</placeName></placeName><persName key="A012840">文爽</persName>傳</head><p><lb
 ed="T" n="0847c11"/><persName key="A012840">釋文爽</persName>，不詳姓氏、何許人也。早解塵纓，抉<lb
-ed="T" n="0847c12"/>開愛網，從師問道，天然不睡。縱困憊之極，<lb
+ed="T" n="0847c12"/>開愛網，從師問道。天然不睡，縱困憊之極，<lb
 ed="T" n="0847c13"/>亦唯趺坐，此行長坐頭陀也。後獨棲丘隴<lb
-ed="T" n="0847c14"/>間，霖雨浹旬，旁無童侍，有蛇入<persName key="A012840">爽</persName>手中蟠<lb
+ed="T" n="0847c14"/>間，霖雨浹旬<ptr type="glossary" target="#g287"/>，旁無童侍，有蛇入<persName key="A012840">爽</persName>手中蟠<lb
 ed="T" n="0847c15"/>屈。時有人召齋，彼怪至時不赴，主重來<lb
 ed="T" n="0847c16"/>請，見蛇，驚懼失聲，蛇乃徐徐而下。固命往<lb
-ed="T" n="0847c17"/>食，<persName key="A012840">爽</persName>辭過中，不食終夕。翌日有狼呀張<lb
+ed="T" n="0847c17"/>食，<persName key="A012840">爽</persName>辭過中，不食終夕<ptr target="#n2750"/>。翌日有狼呀張<lb
 ed="T" n="0847c18"/>其口，奮躍欲噬咋之狀者三，<persName key="A012840">爽</persName>憫其饑火<lb
 ed="T" n="0847c19"/>所熬，復自念曰：「穢囊無悋施汝一飡，願疾<lb
-ed="T" n="0847c20"/>成堅固之身。汝受<persName key="A012840">吾</persName>施，同歸善會。」斯須，狼<lb
+ed="T" n="0847c20"/>成堅固之身。汝受<ref type="person" target="#A012840">吾</ref>施，同歸善會。」斯須，狼<lb
 ed="T" n="0847c21"/>乃弭耳而退。及乎卒日，空中鐘磬交響，遲<lb
-ed="T" n="0847c22"/>久方息。門徒鄉人聚送殯之。爾日有<anchor xml:id="beg0847004"/>旛<anchor xml:id="end0847004"/>數<lb
+ed="T" n="0847c22"/>久方息。門徒鄉人聚送殯之。爾日有<anchor xml:id="beg0847004"/><choice resp="sgsz"><sic>旙</sic><corr>幡</corr></choice><anchor xml:id="end0847004"/>數<lb
 ed="T" n="0847c23"/>十口蔽空前導，異香普熏，舉眾悲<anchor xml:id="beg0847sgsz17"/>歎<anchor xml:id="end0847sgsz17"/>，如失<lb
 ed="T" n="0847c24"/>恃怙焉。</p>
     <linkGrp>
-        <link targets="#0847c11 #0847c24"/>
+        <link targets="#0847c10 #0847c10"/>
         <ptr target="#A012840" type="person"/>
         <ptr target="#PL000000003781" type="place"/>
     </linkGrp>

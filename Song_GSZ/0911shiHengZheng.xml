@@ -1,23 +1,23 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" type="習禪" xml:id="gsz0777a07shiHengZheng"><lb
-ed="T" n="0777a07"/><anchor n="T.50.2061.0777a07"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date><placeName key="PL000000042524">京師<ptr target="#n279"/>聖壽寺</placeName><persName key="A010524">恒政</persName>傳</head><p><lb
+ed="T" n="0777a07"/><anchor n="T.50.2061.0777a07"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date><placeName key="PL000000042524"><placeName>京師<ptr target="#n279"/></placeName><placeName>聖壽寺</placeName></placeName><persName key="A010524">恒政</persName>傳</head><p><lb
 ed="T" n="0777a08"/><persName key="A010524">釋恒政</persName><ptr target="#n1578"/>，姓<name>周</name>氏，<placeName key="PL000000022207">平原</placeName>人也。未入法前，隨入<lb
 ed="T" n="0777a09"/>鄉校，殊不嗜書籍。或見佛經，耽味不捨。後<lb
 ed="T" n="0777a10"/>棄俗從師，就本州<placeName key="PL000000022187">延和寺</placeName><persName key="A010525">詮澄<roleName>法師</roleName></persName>下受<lb
-ed="T" n="0777a11"/>誦經法。既登戒已，問道於<placeName key="PL000000023255">嵩少</placeName>，<anchor xml:id="beg0777sgsz1"/>決<anchor xml:id="end0777sgsz1"/>了無壅，<lb
-ed="T" n="0777a12"/>遁跡<placeName key="PL000000043316">三峯</placeName>，放蕩自<anchor xml:id="beg0777001"/>在<anchor xml:id="end0777001"/>。無幾，入<placeName key="PL000000042627">太一山</placeName>中，甫<lb
+ed="T" n="0777a11"/>誦經法。既登戒已，問道於<placeName key="PL000000023255">嵩少</placeName><ptr target="#n2660"/>，<anchor xml:id="beg0777sgsz1"/>決<anchor xml:id="end0777sgsz1"/>了無壅，<lb
+ed="T" n="0777a12"/>遁跡<placeName key="PL000000043316">三峯</placeName>，放蕩<anchor xml:id="beg0777001"/>自在<anchor xml:id="end0777001"/>。無幾，入<placeName key="PL000000042627">太一山</placeName>中，甫<lb
 ed="T" n="0777a13"/>行風教，學人螘慕<ptr type="glossary" target="#g931"/>。<date notBefore-iso="+0827-03-18" key="j20231922026427" notAfter-iso="+0836-01-25"><name><anchor xml:id="beg0777sgsz2"/>太<anchor xml:id="end0777sgsz2"/>和</name>中</date>，<persName key="A004169">文宗皇帝</persName>酷嗜蜃<lb
 ed="T" n="0777a14"/>蛤，㳂海官吏先時遞進，人亦勞止<ptr type="glossary" target="#g1285"/>。一日，御<lb
 ed="T" n="0777a15"/>饌中盈柈而進，有擘不張呀者，<ref type="person" target="#A004169">帝</ref>觀其異，<lb
 ed="T" n="0777a16"/>即焚香祝之。俄為<persName key="A002803">菩薩</persName>形，<name>梵</name>相克全，儀容<lb
 ed="T" n="0777a17"/>可愛，遂致於金粟檀香合，以玉綿錦覆之，<lb
-ed="T" n="0777a18"/>賜<placeName key="PL000000042218">興善寺</placeName>，令致<anchor xml:id="beg0777sgsz4"/>禮<anchor xml:id="end0777sgsz4"/>之。始宣問群臣：「斯何瑞<lb
+ed="T" n="0777a18"/>賜<placeName key="PL000000042218">興善寺</placeName>，令致<anchor xml:id="beg0777sgsz4"/>禮<anchor xml:id="end0777sgsz4"/>之。始宣問<ptr type="glossary" target="#g779"/>群臣：「斯何瑞<lb
 ed="T" n="0777a19"/>也？」相國<persName key="A009040">李<roleName>公</roleName>德裕</persName>奏曰：「<ref type="person" target="#A009040">臣</ref>不足知，唯知聖<lb
 ed="T" n="0777a20"/>德昭應。其諸佛理，聞<placeName key="PL000000042627">終南山</placeName>有<persName key="A010524">恒政<roleName>禪師</roleName></persName>，大<lb
 ed="T" n="0777a21"/>明佛法，博聞強識。」詔入宣問，<persName key="A010524">政</persName>曰：「<ref type="person" target="#A010524">貧道</ref>聞物<lb
 ed="T" n="0777a22"/>無虛應，此乃啟沃<ref type="person" target="#A004169">陛下</ref>之信心耳。故契經<ptr type="glossary" target="#g1122"/><lb
 ed="T" n="0777a23"/>中應以此身得度者，即現此身而為說法<lb
-ed="T" n="0777a24"/>也。」<ref type="person" target="#A004169">帝</ref>曰：「<persName key="A002803">菩薩</persName>身已見，未聞說法。」<persName key="A010524">政</persName>曰：「<ref type="person" target="#A004169">陛下</ref><lb
+ed="T" n="0777a24"/>也。<ptr target="#n2661"/>」<ref type="person" target="#A004169">帝</ref>曰：「<persName key="A002803">菩薩</persName>身已見，未聞說法。」<persName key="A010524">政</persName>曰：「<ref type="person" target="#A004169">陛下</ref><lb
 ed="T" n="0777a25"/>覩此為常？非常耶？信？非信耶？」<ref type="person" target="#A004169">帝</ref>曰：「希奇事，<lb
 ed="T" n="0777a26"/><ref type="person" target="#A004169">朕</ref>深信焉。」<persName key="A010524">政</persName>曰：「<ref type="person" target="#A004169">陛下</ref>已聞說法了。」皇情悅<lb
 ed="T" n="0777a27"/>豫，得未曾有，勅天下寺院各立<persName key="A002803">觀音</persName>像，以<lb
@@ -31,10 +31,10 @@ ed="T" n="0777b05"/>焉。</p><p><lb
 ed="T" n="0777b06"/>系曰：蜃蛤中胡得<persName key="A002803">菩薩</persName>像乎？通曰：「有所警<lb
 ed="T" n="0777b07"/>發，時一現耳。近聞偽<date from-iso="+0923-05-18" key="j20583162063308" to-iso="+0937-01-16">唐</date><name>李</name>氏國境荐饑<ptr rend="display:none;" type="glossary" target="#g104"/>，陂湖<lb
 ed="T" n="0777b08"/>間多生蠯蚌，百姓競取而食。其年免殍仆<lb
-ed="T" n="0777b09"/>者十有七八。明年豐，民猶采之。無何<ptr rend="display:none;" type="glossary" target="#g493"/>，有獲<lb
+ed="T" n="0777b09"/>者十有七八。明年豐，民猶<anchor xml:id="beg0777sgsz5"/><choice resp="sgsz"><sic>釆</sic><corr>采</corr></choice><anchor xml:id="end0777sgsz5"/>之。無何<ptr rend="display:none;" type="glossary" target="#g493"/>，有獲<lb
 ed="T" n="0777b10"/>巨蚌可二尺餘，提歸擘磔，擊𤅢<ptr type="glossary" target="#g1575"/>曾無少損。<lb
 ed="T" n="0777b11"/>其人呪垂放之，俄自開張，吐出佛像，長僅<lb
-ed="T" n="0777b12"/>尺許，相好具全，若真珠色，號曰：『珠佛』焉。獻<lb
+ed="T" n="0777b12"/>尺許，相好<ptr type="glossary" target="#g1213"/>具全，若真珠色，號曰：『珠佛』焉。獻<lb
 ed="T" n="0777b13"/><name>李</name>氏，後遺與<name>梵</name>僧焉。此意所不及處現形<lb
 ed="T" n="0777b14"/>者，蓋經中化肉山、魚米以資饑饉。歲既豐<lb
 ed="T" n="0777b15"/>登，胡不屬厭，故現相止足之<anchor xml:id="beg0777003"/><choice resp="sgsz"><sic>地</sic><corr>也</corr></choice><anchor xml:id="end0777003"/>。」</p>

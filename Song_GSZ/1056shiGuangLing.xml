@@ -1,38 +1,51 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" type="感通" xml:id="gsz0833c06shiGuangLing"><lb
-ed="T" n="0833c06"/><anchor n="T.50.2061.0833c06"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date><anchor xml:id="beg0833sgsz12"/>揚<anchor xml:id="end0833sgsz12"/>州孝感寺<persName key="A012433">廣陵大師</persName>傳</head><p><lb
-ed="T" n="0833c07"/><persName key="A012433">釋廣陵大師</persName>者，<placeName key="PL000000010783">維<anchor xml:id="beg0833sgsz13"/>揚<anchor xml:id="end0833sgsz13"/></placeName>人也，不言法名，<placeName key="PL000000000092">淮海</placeName><lb
-ed="T" n="0833c08"/>之間，競呼<persName key="A012433">廣陵大師</persName>也。形質寢陋，性多桀黠，<lb
-ed="T" n="0833c09"/>真率之狀，與屠沽輩相類，止沙門形異耳。好<lb
-ed="T" n="0833c10"/>嗜酒啖肉，常衣繐裘，厚重可知，盛暑亦不<lb
+ed="T" n="0833c06"/><anchor n="T.50.2061.0833c06"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date><placeName key="PL000000010778"><placeName><anchor xml:id="beg0833sgsz12"/>揚<anchor xml:id="end0833sgsz12"/>州</placeName><placeName>孝感寺</placeName></placeName><persName key="A012433">廣陵大師</persName><ptr target="#n2528"/>傳</head><p><lb
+ed="T" n="0833c07"/><persName key="A012433">釋廣陵大師</persName>者，<placeName key="PL000000010783">維<anchor xml:id="beg0833sgsz13"/>揚<anchor xml:id="end0833sgsz13"/></placeName>人也，不言法名，<placeName key="PL000000010783">淮海</placeName><lb
+ed="T" n="0833c08"/>之間，競呼<persName key="A012433">廣陵大師</persName>也<ptr target="#n2529"/>。形質寢陋，性多桀黠<ptr type="glossary" target="#g1714"/>，<lb
+ed="T" n="0833c09"/>真率之狀，與屠沽輩相類，止沙門形異耳<ptr target="#n2530"/>。好<lb
+ed="T" n="0833c10"/>嗜酒啖肉，常衣繐裘<ptr target="#n2531"/>──厚重可知──，盛暑亦不<lb
 ed="T" n="0833c11"/>暫脫，蚤虱聚其上。僑寓<placeName key="PL000000010778">孝感寺</placeName>，獨一室，每夕<lb
 ed="T" n="0833c12"/>闔扉而寢，率以為常。或狂悖性發，則屠犬<lb
 ed="T" n="0833c13"/>彘，日聚惡少鬪<anchor xml:id="beg0833sgsz15"/><choice resp="sgsz"><sic>驅</sic><corr>敺</corr></choice><anchor xml:id="end0833sgsz15"/>，或醉臥道傍，<placeName key="PL000000010783"><anchor xml:id="beg0833sgsz17"/>揚<anchor xml:id="end0833sgsz17"/></placeName>民以是<lb
-ed="T" n="0833c14"/>惡之。<date notBefore-iso="+0785-02-18" key="j20078242015139" notAfter-iso="+0805-02-28"><name>貞元</name>中</date>，有一少壯素以力聞，甞一日<lb
-ed="T" n="0833c15"/>少壯與人賭博，<persName key="A012433">大師</persName>大怒，以手擊碎博局。<lb
-ed="T" n="0833c16"/>少壯笑曰：「騃兒何敢逆壯士耶？」<persName key="A012433">大師</persName>且罵而<lb
-ed="T" n="0833c17"/>唾其面，於是索少壯鬪擊，觀者圍匝千數。<lb
+ed="T" n="0833c14"/>惡之。<date notBefore-iso="+0785-02-18" key="j20078242015327" notAfter-iso="+0805-09-04"><name>貞元</name>中</date>，有一少壯素以力聞，甞一日<lb
+ed="T" n="0833c15"/>少壯與人賭博<ptr target="#n2532"/>，<persName key="A012433">大師</persName>大怒，以手擊碎博局。<lb
+ed="T" n="0833c16"/>少壯笑曰：「騃兒<ptr type="glossary" target="#g1308"/>何敢逆壯士耶？」<persName key="A012433">大師</persName>且罵而<lb
+ed="T" n="0833c17"/>唾其面，於是索少壯鬪擊，觀者圍匝<ptr target="#n2533"/>千數。<lb
 ed="T" n="0833c18"/>少壯為<persName key="A012433">大師</persName>所困，迸道而逃。自此人方知<lb
 ed="T" n="0833c19"/>有神力焉。亦於稠人廣眾中自負其力，往<lb
-ed="T" n="0833c20"/>往入闤闠間剽奪人錢帛，市人皆畏其勇<lb
+ed="T" n="0833c20"/>往入闤闠<ptr type="glossary" target="#g580"/>間剽奪人錢帛，市人皆畏其勇<lb
 ed="T" n="0833c21"/>而莫敢拒。後有一耆年僧，召<persName key="A012433">大師</persName>誡勅之<lb
-ed="T" n="0833c22"/>曰：「<persName key="A012433">汝</persName>胡不謹守戒法，奈何食酒肉，屠犬豕，<lb
+ed="T" n="0833c22"/>曰：「<ref type="person" target="#A012433">汝</ref>胡不謹守戒法，奈何食酒肉，屠犬豕，<lb
 ed="T" n="0833c23"/>彊<anchor xml:id="beg0833005"/>抄<anchor xml:id="end0833005"/>市人錢物，又與無賴子弟鬪競，不律<lb
-ed="T" n="0833c24"/>儀甚，豈是僧人本事耶！一旦眾所不容，執<lb
-ed="T" n="0833c25"/>見官吏，桉法治之，何處逃隱？且深累佛法。」<lb
+ed="T" n="0833c24"/>儀甚，豈是僧人本事耶？一旦眾所不容，執<lb
+ed="T" n="0833c25"/>見官吏，桉法治之，何處逃隱？且深累佛法。<ptr target="#n2534"/>」<lb
 ed="T" n="0833c26"/><persName key="A012433">大師</persName>怒色對之曰：「蠅蚋徒喋<ptr target="#n559"/>羶腥，爾安知<lb
-ed="T" n="0833c27"/>鴻鵠之志<ptr target="#n560"/>乎？然則我道非爾所知也。且我<lb
+ed="T" n="0833c27"/>鴻鵠<ptr target="#n560"/>之志乎？然則<ref type="person" target="#A012433">我</ref>道非爾所知也。且<ref type="person" target="#A012433">我</ref><lb
 ed="T" n="0833c28"/>清中混外者，豈同爾齷齪無大度乎？」耆年<lb
 ed="T" n="0833c29"/>且不能屈。後一日自外來歸，入室閉戶，有<pb ed="T" n="0834a" xml:id="T50.2061.0834a"/><lb
-ed="T" n="0834a01"/>於門隙覘之。見<persName key="A012433">大師</persName>坐席放神光，自眉<lb
+ed="T" n="0834a01"/>於門隙覘之──見<persName key="A012433">大師</persName>坐席放神光，自眉<lb
 ed="T" n="0834a02"/>間晃朗，照物洞然。觀者驚報，少頃寺僧奔至，<lb
 ed="T" n="0834a03"/>瞻<anchor xml:id="beg0834sgsz1"/>禮<anchor xml:id="end0834sgsz1"/>稱<anchor xml:id="beg0834sgsz2"/>歎<anchor xml:id="end0834sgsz2"/>，或有懺悔曾謗之者，或有彈指<lb
-ed="T" n="0834a04"/>讚詠之者。明日群僧伺候<persName key="A012433">大師</persName>出，焚香致<lb
+ed="T" n="0834a04"/>讚詠之者<ptr target="#n2535"/>。明日群僧伺候<persName key="A012433">大師</persName>出，焚香致<lb
 ed="T" n="0834a05"/><anchor xml:id="beg0834sgsz4"/>禮<anchor xml:id="end0834sgsz4"/>。及開戶，瞑<anchor xml:id="beg0834sgsz6"/>目<anchor xml:id="end0834sgsz6"/>如入禪定，已長往矣。自<lb
-ed="T" n="0834a06"/>此<placeName key="PL000000010783">廣陵</placeName>人寫貌供養，號之為<persName key="A012433">大師</persName>焉<ptr target="#n561"/>。</p>
+ed="T" n="0834a06"/>此<placeName key="PL000000010783">廣陵</placeName>人寫貌供養，號之為<persName key="A012433">大師<supplied resp="sgsz">佛</supplied></persName>焉<ptr target="#n561"/>。</p>
     <linkGrp>
-        <link targets="#0833c11 #0833c14"/>
+        <link targets="#0833c11 #0833c12"/>
         <ptr target="#A012433" type="person"/>
         <ptr target="#PL000000010778" type="place"/>
+        <ptr target="#j20078242015327" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0833c14 #0833c29"/>
+        <ptr target="#A012433" type="person"/>
+        <ptr target="#PL000000010783" type="place"/>
+        <ptr target="#j20078242015327" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0833c29 #0834a06"/>
+        <ptr target="#A012433" type="person"/>
+        <ptr target="#PL000000010778" type="place"/>
+        <ptr target="#j20078242015327" type="time"/>
     </linkGrp>
 </div>

@@ -1,32 +1,37 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" type="感通" xml:id="gsz0838b15shiGuangFu"><lb
-ed="T" n="0838b15"/><anchor n="T.50.2061.0838b15"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date>袁州陽<anchor xml:id="beg0838sgsz13"/>岐<anchor xml:id="end0838sgsz13"/>山<persName key="A010318">廣敷</persName>傳</head><p><lb
-ed="T" n="0838b16"/><persName key="A010318">釋廣敷</persName>，俗姓鄭，<placeName key="PL000000024377">南燕</placeName>人也。少依京望大德<persName key="A012510">思<lb
-ed="T" n="0838b17"/>浩</persName>下，承乎法訓。登戒畢，遊<placeName key="PL000000023253">嵩、少</placeName>、<placeName key="PLG00000000013">兩京</placeName>。遇<persName key="A005612">神<lb
-ed="T" n="0838b18"/>會禪師</persName>，大明玄旨。至宜春<placeName key="PL000000019592">陽<anchor xml:id="beg0838sgsz15"/>岐<anchor xml:id="end0838sgsz15"/>山</placeName>挂錫，是<lb
-ed="T" n="0838b19"/>中峯巒積翠，洞穴涉幽，芝<anchor xml:id="beg0838005"/>菌<anchor xml:id="end0838005"/>之苗，參于草<lb
+ed="T" n="0838b15"/><anchor n="T.50.2061.0838b15"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date><placeName key="PL000000019592"><placeName>袁州</placeName><placeName><anchor xml:id="beg0838sgsz13"/>陽岐山<anchor xml:id="end0838sgsz13"/></placeName></placeName><persName key="A010318">廣敷</persName>傳</head><p><lb
+ed="T" n="0838b16"/><persName key="A010318">釋廣敷</persName>，俗姓<name>鄭</name>，<placeName key="PL000000024377">南燕</placeName>人也。少依<placeName key="PL000000042189">京</placeName>望大德<persName key="A012510">思<lb
+ed="T" n="0838b17"/>浩</persName>下，承乎法訓。登戒畢，遊<placeName key="PL000000023255">嵩少</placeName>、<ref type="place" target="#PLG00000000013">兩<name>京</name></ref>，遇<persName key="A005612">神<lb
+ed="T" n="0838b18"/>會<roleName>禪師</roleName></persName>，大明玄旨。至<placeName key="PL000000019592"><placeName>宜春</placeName><placeName><anchor xml:id="beg0838sgsz15"/>陽岐山<anchor xml:id="end0838sgsz15"/></placeName></placeName>挂錫──是<lb
+ed="T" n="0838b19"/>中，峯巒積翠洞穴涉幽，芝<anchor xml:id="beg0838005"/>菌<anchor xml:id="end0838005"/>之苗參于草<lb
 ed="T" n="0838b20"/><anchor xml:id="beg0838sgsz17"/><choice resp="sgsz"><sic>奔</sic><corr>卉</corr></choice><anchor xml:id="end0838sgsz17"/>。<persName key="A010318">敷</persName>終日瞑目，木食<ptr type="glossary" target="#g1479"/>度辰。時有峨冠羽帔，<lb
 ed="T" n="0838b21"/>馭鶴驂鸞者，始則<anchor xml:id="beg0838sgsz19"/>乍<anchor xml:id="end0838sgsz19"/>往倏來，後則登庵造<lb
 ed="T" n="0838b22"/>膝。其仙客所到，必輕雲薄霧，隨步而至。擁<lb
-ed="T" n="0838b23"/>從者天丁力士令遠去，對晤談論移晷。其後<lb
+ed="T" n="0838b23"/>從者天丁、力士令遠去，對晤談論移晷。其後<lb
 ed="T" n="0838b24"/>道化既成，於<date key="j20078862007886" when-iso="+0785-04-21"><name>貞元</name>元年三月四日</date>入滅，春秋<lb
-ed="T" n="0838b25"/>九十一云。</p>
-    <p xml:id="pT50p0838b2601"><lb
-ed="T" n="0838b26"/>系曰：神仙道異，談論豈同乎？通曰：「昔小有真<lb
-ed="T" n="0838b27"/>人能談空理，方諸山神仙建浮圖者信崇<lb
-ed="T" n="0838b28"/>佛道，止不削染，號在家菩薩。又雪山諸仙<lb
+ed="T" n="0838b25"/>九十一云。</p><p xml:id="pT50p0838b2601"><lb
+ed="T" n="0838b26"/>系曰：神仙道異，談論豈同乎？通曰：「昔<persName key="A017927">小有真<lb
+ed="T" n="0838b27"/>人</persName>能談空理，方諸山神仙建浮圖者信崇<lb
+ed="T" n="0838b28"/>佛道，止不削染，號『在家菩薩』。又雪山諸仙<lb
 ed="T" n="0838b29"/>善五明論<ptr type="glossary" target="#g88"/>求度者同也。然其相似道，必須<pb ed="T" n="0838c" xml:id="T50.2061.0838c"/><lb
-ed="T" n="0838c01"/>甄簡。若<placeName key="PL000000055436">西域</placeName>二十諦中五唯量五大，與釋<lb
+ed="T" n="0838c01"/>甄簡。若<placeName key="PL000000055436">西域</placeName>二十諦<ptr type="glossary" target="#g1748"/>中五唯量五大，與<name>釋</name><lb
 ed="T" n="0838c02"/>氏法名同。所計天殊，良難區別哉。」</p>
+    <linkGrp>
+        <link targets="#0838b16 #0838b16"/>
+        <ptr target="#A010318" type="person"/>
+        <ptr target="#PL000000023253" type="place"/>
+    </linkGrp>
     <linkGrp>
         <link targets="#0838b16 #0838b17"/>
         <ptr target="#A010318" type="person"/>
         <ptr target="#A012510" type="person"/>
+        <ptr target="#PL000000042189" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0838b17 #0838b17"/>
         <ptr target="#A010318" type="person"/>
-        <ptr target="#PL000000023253" type="place"/>
+        <ptr target="#PL000000023255" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0838b17 #0838b17"/>
@@ -42,5 +47,11 @@ ed="T" n="0838c02"/>氏法名同。所計天殊，良難區別哉。」</p>
         <link targets="#0838b18 #0838b22"/>
         <ptr target="#A010318" type="person"/>
         <ptr target="#PL000000019592" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0838b24 #0838b25"/>
+        <ptr target="#A010318" type="person"/>
+        <ptr target="#PL000000019592" type="place"/>
+        <ptr target="#j20078862007886" type="time"/>
     </linkGrp>
 </div>

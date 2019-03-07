@@ -1,30 +1,50 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" type="明律" xml:id="gsz0809b11shiYanCheng"><lb
-ed="T" n="0809b11"/><anchor n="T.50.2061.0809b11"/><head><date from-iso="+0907-06-10" key="j20524952058534" to-iso="+0923-12-22">梁</date>蘇州<ptr target="#n280"/>破山興福寺<persName key="A011646">彥偁</persName>傳（<persName key="A011648">壽<anchor xml:id="beg0809sgsz5"/>闍黎<anchor xml:id="end0809sgsz5"/></persName>）</head><p><lb
-ed="T" n="0809b12"/><persName key="A011646">釋彥偁</persName>，姓<name>龔</name>氏，<placeName key="PL000000010157">吳郡常熟</placeName>人也。揭厲戒<choice resp="sgsz"><sic>津</sic><corr>律</corr></choice>，<lb
-ed="T" n="0809b13"/>錙銖<ptr type="glossary" target="#g170"/>塵務，勤求師範，唯善是從。末扣擊繼<lb
-ed="T" n="0809b14"/>宗記主，得其戶牗，乃於本生地講導，同好<lb
-ed="T" n="0809b15"/>鳩聚，律風孔扇，號為毘尼窟宅焉。先是<placeName key="PL000000010125">海<lb
-ed="T" n="0809b16"/>隅</placeName>，巫咸氏之遺壤，招真治之舊墟，古寺周圍<lb
-ed="T" n="0809b17"/>不全，垝垣而已。甞一夜有虎中獵人箭，伏<lb
+ed="T" n="0809b11"/><anchor n="T.50.2061.0809b11"/><head><date from-iso="+0907-06-10" key="j20524952058534" to-iso="+0923-12-22">梁</date><placeName key="PL000000010127"><placeName>蘇州<ptr target="#n280"/></placeName><placeName>破山</placeName><placeName>興福寺</placeName></placeName><persName key="A011646">彥偁</persName>傳（<persName key="A011648">壽<anchor xml:id="beg0809sgsz5"/>闍黎<anchor xml:id="end0809sgsz5"/></persName>）</head><p><lb
+ed="T" n="0809b12"/><persName key="A011646">釋彥偁</persName>，姓<name>龔</name>氏，<placeName key="PL000000010157"><placeName>吳郡</placeName><placeName>常熟</placeName></placeName>人也。揭厲<ptr type="glossary" target="#g1031"/>戒<choice resp="sgsz"><sic>津</sic><corr>律</corr></choice>，<lb
+ed="T" n="0809b13"/>錙銖<ptr type="glossary" target="#g170"/>塵務，勤求師範，唯善是從。末扣擊《繼<lb
+ed="T" n="0809b14"/>宗》記<ref type="person" target="#A023367">主</ref><ptr target="#n1880"/>，得其戶牗<ptr type="glossary" target="#g906"/>，乃於<ref type="place" target="#PL000000010157">本生地</ref>講導，同好<lb
+ed="T" n="0809b15"/>鳩聚，律風孔<ptr type="glossary" target="#g909"/>扇，號為<name>毘尼窟宅</name>焉。先是<placeName key="PL000000010157">海<lb
+ed="T" n="0809b16"/>隅</placeName>，<persName key="A023368">巫咸氏</persName>之遺壤，<placeName key="PL000000010125">招真治</placeName><ptr target="#n1879"/>之舊墟，古寺周圍<lb
+ed="T" n="0809b17"/>不全，垝垣<ptr type="glossary" target="#g914"/>而已。甞一夜有虎中獵人箭，伏<lb
 ed="T" n="0809b18"/>於寺閣，哮吼不止。<persName key="A011646">偁</persName>憫之，忙係鞵，秉炬下<lb
 ed="T" n="0809b19"/>閣，言欲拔之。弟子輩扶遏且止者三四，伺<lb
-ed="T" n="0809b20"/>其更闌各睡，乃自持炬就拔其箭。虎耽耳<lb
-ed="T" n="0809b21"/>舐矢鏃血，顧<persName key="A011646">偁</persName>而瞑目焉。質明，獵師<persName key="A011647">朱德</persName>就<lb
-ed="T" n="0809b22"/>寺尋虎，<persName key="A011646">偁</persName>告示其箭，<persName key="A011647">朱德</persName>悛心罷獵焉。<lb
-ed="T" n="0809b23"/><persName key="A003552">武肅王錢<roleName>氏</roleName></persName>知重，每設冥齋，召行持明法。<lb
+ed="T" n="0809b20"/>其更闌各睡，乃自持炬就拔其箭。虎耽耳<ptr type="glossary" target="#g917"/><lb
+ed="T" n="0809b21"/>舐矢鏃血，顧<persName key="A011646">偁</persName>而瞑目焉。質明<ptr type="glossary" target="#g438"/>，獵師<persName key="A011647">朱德</persName>就<lb
+ed="T" n="0809b22"/>寺尋虎，<persName key="A011646">偁</persName>告示其箭，<persName key="A011647">朱德</persName>悛心<ptr type="glossary" target="#g858"/>罷獵焉。<lb
+ed="T" n="0809b23"/><persName key="A003552"><persName>武肅王</persName><persName>錢<roleName>氏</roleName></persName></persName>知重，每設冥齋，召行持明法<ptr type="glossary" target="#g249"/>。<lb
 ed="T" n="0809b24"/>時覆肩衣自肱而墮，還自<anchor xml:id="beg0809sgsz9"/><choice resp="sgsz"><sic>塔</sic><corr>搭</corr></choice><anchor xml:id="end0809sgsz9"/>上，或見鬼物隨<lb
-ed="T" n="0809b25"/>侍焉。所謂道德盛則鬼神助也。以<date from-iso="+0920-06-24" key="j20572582057316" to-iso="+0920-08-21"><name>貞明</name>六年<lb
-ed="T" n="0809b26"/>六月</date>，終于山房，年九十九歲云。次<persName key="A011648">壽闍<anchor xml:id="beg0809sgsz11"/>黎<anchor xml:id="end0809sgsz11"/></persName>者，<lb
-ed="T" n="0809b27"/><placeName key="PL000000010590">淮浦</placeName>左右，貞諒不群，防護正念，時少雙偶。<lb
-ed="T" n="0809b28"/>傳<persName key="A001519">南山</persName>律鈔<ptr target="#n1290"/>極成，不看他面。唐季<persName key="A007250">楊<roleName>氏</roleName></persName>奄<lb
-ed="T" n="0809b29"/>有<placeName key="PL000000010783">廣陵</placeName>，頻召供施。四遠崇重，食<anchor xml:id="beg0809sgsz13"/>唯<anchor xml:id="end0809sgsz13"/>正命。不<pb ed="T" n="0809c" xml:id="T50.2061.0809c"/><lb
+ed="T" n="0809b25"/>侍焉。所謂道德盛則鬼神助也。以<date from-iso="+0920-06-24" key="j20572582057286" to-iso="+0920-07-22"><name>貞明</name>六年<lb
+ed="T" n="0809b26"/>六月</date>，終于山房，年九十九歲云。</p><p>次<persName key="A011648">壽<roleName><anchor xml:id="beg0809sgsz11"/>闍黎<anchor xml:id="end0809sgsz11"/></roleName></persName>者，<lb
+ed="T" n="0809b27"/><placeName key="PL000000010590">淮浦</placeName>左右，貞諒<ptr type="glossary" target="#g1431"/>不群，防護正念，時少雙偶。<lb
+ed="T" n="0809b28"/>傳<persName key="A001519">南山</persName>律鈔<ptr target="#n1290"/>極成，不看他面<ptr type="glossary" target="#g680"/>。<date notBefore-iso="+0835-03-10" key="j20261062052491" notAfter-iso="+0907-06-06"><name>唐</name>季</date><persName key="A007250">楊<roleName>氏</roleName></persName>奄<ptr type="glossary" target="#g1005"/><lb
+ed="T" n="0809b29"/>有<placeName key="PL000000010783">廣陵</placeName>，頻召供施。四遠崇重，食<anchor xml:id="beg0809sgsz13"/>唯<anchor xml:id="end0809sgsz13"/>正命<ptr type="glossary" target="#g918"/>。不<pb ed="T" n="0809c" xml:id="T50.2061.0809c"/><lb
 ed="T" n="0809c01"/>畜盈長，戶不施關。及臨壇度弟子，正<anchor xml:id="beg0809sgsz14"/>秉<anchor xml:id="end0809sgsz14"/><lb
-ed="T" n="0809c02"/>羯磨，未周三法，忽爾坐亡于覆釜之畔，聞<lb
+ed="T" n="0809c02"/>羯磨<ptr type="glossary" target="#g390"/>，未周三法<ptr type="glossary" target="#g538"/>，忽爾坐亡于覆釜<ptr type="glossary" target="#g920"/>之畔，聞<lb
 ed="T" n="0809c03"/>見驚歎歟！</p>
+    <linkGrp>
+        <link targets="#0809b11 #0809b11"/>
+        <ptr target="#A011646" type="person"/>
+        <ptr target="#PL000000010127" type="place"/>
+    </linkGrp>
     <linkGrp>
         <link targets="#0809b12 #0809b12"/>
         <ptr target="#A011646" type="person"/>
+        <ptr target="#PL000000010157" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0809b13 #0809b14"/>
+        <ptr target="#A011646" type="person"/>
+        <ptr target="#A023367" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0809b14 #0809b14"/>
+        <ptr target="#A011646" type="person"/>
+        <ptr target="#PL000000010157" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0809b15 #0809b16"/>
+        <ptr target="#A023368" type="person"/>
         <ptr target="#PL000000010157" type="place"/>
     </linkGrp>
     <linkGrp>
@@ -33,8 +53,25 @@ ed="T" n="0809c03"/>見驚歎歟！</p>
         <ptr target="#A011647" type="person"/>
     </linkGrp>
     <linkGrp>
+        <link targets="#0809b23 #0809b23"/>
+        <ptr target="#A011646" type="person"/>
+        <ptr target="#A003552" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0809b25 #0809b26"/>
+        <ptr target="#A011646" type="person"/>
+        <ptr target="#j20572582057286" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0809b26 #0809b27"/>
+        <ptr target="#A011648" type="person"/>
+        <ptr target="#PL000000010590" type="place"/>
+    </linkGrp>
+    <linkGrp>
         <link targets="#0809b28 #0809b29"/>
         <ptr target="#A011648" type="person"/>
         <ptr target="#A007250" type="person"/>
+        <ptr target="#PL000000010783" type="place"/>
+        <ptr target="#j20261062052491" type="time"/>
     </linkGrp>
 </div>

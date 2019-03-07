@@ -1,22 +1,38 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" type="興福" xml:id="gsz0878b18shiSengJie"><lb
-n="0878b18" ed="T"/><anchor n="T.50.2061.0878b18"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date>京師光宅寺<persName key="A013710">僧竭</persName>傳</head><p><lb
+n="0878b18" ed="T"/><anchor n="T.50.2061.0878b18"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date><placeName key="PL000000042151"><placeName>京師</placeName><placeName>光宅寺</placeName></placeName><persName key="A013710">僧竭</persName>傳</head><p><lb
 ed="T" n="0878b19"/><persName key="A013710">釋僧竭</persName>者，不知何許人也，生在佛家，化行<lb
-ed="T" n="0878b20"/>神甸。護珠言戒，止水澄心。每嗟靳固之夫，<lb
-ed="T" n="0878b21"/>不自檀那之度，乃於<date key="j20059942007439" notAfter-iso="+0784-01-30" notBefore-iso="+0780-02-15"><name>建中</name>中</date>造曼殊堂<!--找不到此地-->，擬<lb
+ed="T" n="0878b20"/><ref target="#PL000000042189" type="placeName">神甸</ref><ptr target="#n3329"/>。護珠言戒<ptr type="glossary" target="#g254"/>，止水澄心。每嗟靳固<ptr type="glossary" target="#g1951"/>之夫，<lb
+ed="T" n="0878b21"/>不自檀那<ptr type="glossary" target="#g2146"/>之度，乃於<date key="j20059942007439" notAfter-iso="+0784-01-30" notBefore-iso="+0780-02-15"><name>建中</name>中</date>造<placeName key="PL000000008646">曼殊堂</placeName>，擬<lb
 ed="T" n="0878b22"/>摹<placeName key="PL000000005439">五臺</placeName>之聖相。議築臺至于水際，<persName key="A013710">竭</persName>懼傷<lb
 ed="T" n="0878b23"/>生命，俾立三日道場，呪其多足至無足，當<lb
-ed="T" n="0878b24"/>移竄相避，勿成某<name>梵</name>行之難。將知至誠所<lb
-ed="T" n="0878b25"/>感，徵驗弗虛，掘土及泉，了無蠢動焉。常<lb
-ed="T" n="0878b26"/>以複素為漉袋，遇汲有蟲，投諸井坎，時<lb
-ed="T" n="0878b27"/>號護生井，恒盈不涸。又觀其飛蛾蠛蠓，錯<lb
+ed="T" n="0878b24"/>移竄相避，勿成<ref type="person" target="#A013710">某</ref>梵行<ptr type="glossary" target="#g2147"/>之難。將知至誠所<lb
+ed="T" n="0878b25"/>感，徵驗弗虛，掘土及泉，了無蠢動<ptr type="glossary" target="#g962"/>焉。常<lb
+ed="T" n="0878b26"/>以複素為漉袋<ptr type="glossary" target="#g82"/>，遇汲有蟲，投諸井坎，時<lb
+ed="T" n="0878b27"/>號「護生井」，恒盈不涸。又觀其飛蛾、蠛蠓<ptr type="glossary" target="#g2148"/>，錯<lb
 ed="T" n="0878b28"/>認火明為可飛之路，故犯之，乃鑄銅蟾<lb
-ed="T" n="0878b29"/>為息煙調。天下傳其制度。其曼殊院<!--找不到此地-->甞轉<pb ed="T" n="0878c" xml:id="T50.2061.0878c"/><lb
-ed="T" n="0878c01"/>經，每勅賜香。此寺本<placeName key="PL000000028945">七寶臺寺</placeName>，內有<persName key="A002099">天后</persName><lb
+ed="T" n="0878b29"/>為息煙調。天下傳其制度。其<placeName key="PL000000008646">曼殊院</placeName>甞轉<pb ed="T" n="0878c" xml:id="T50.2061.0878c"/><lb
+ed="T" n="0878c01"/>經<ptr type="glossary" target="#g2149"/>，每勅賜香。<ref type="place" target="#PL000000042151">此寺</ref>本<placeName key="PL000000042151">七寶臺寺</placeName>，內有<persName key="A002099">天后</persName><lb
 ed="T" n="0878c02"/>所造之臺，<persName key="A013710">竭</persName>居于中焉。</p>
     <linkGrp>
-        <link targets="#0878c01 #0878c02"/>
+        <link targets="#0878b18 #0878b18"/>
         <ptr target="#A013710" type="person"/>
-        <ptr target="#PL000000028945" type="place"/>
+        <ptr target="#PL000000042151" type="place"/>
+    </linkGrp>
+    <linkGrp>
+    	<link targets="#0878b21 #0878b21"/>
+    	<ptr target="#A013710" type="person"/>
+    	<ptr target="#PL000000008646" type="place"/>
+    	<ptr target="#j20059942007439" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0878c01 #0878c01"/>
+        <ptr target="#A002099" type="person"/>
+        <ptr target="#PL000000008646" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0878c01 #0878c01"/>
+        <ptr target="#A013710" type="person"/>
+        <ptr target="#PL000000008646" type="place"/>
     </linkGrp>
 </div>

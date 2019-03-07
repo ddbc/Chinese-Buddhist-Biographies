@@ -1,40 +1,50 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" type="明律" xml:id="gsz0806c28shiHuiLin"><lb
-ed="T" n="0806c28"/><anchor n="T.50.2061.0806c28"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date><placeName key="PL000000011648">錢塘永福寺</placeName><persName key="A011333">慧琳</persName>傳</head><p><lb
-ed="T" n="0806c29"/><persName key="A011333">釋慧琳</persName>，字<persName key="A011333">抱玉</persName>，俗姓柯，<placeName key="PL000000011957">新安</placeName>人也。丱齡受<pb ed="T" n="0807a" xml:id="T50.2061.0807a"/><lb
-ed="T" n="0807a01"/>業于靈隱<placeName key="PL000000012953">西峯</placeName>，為<persName key="A011511">金和尚</persName>弟子，所傳法要，斷<lb
-ed="T" n="0807a02"/>無重問。<date notBefore-iso="+0766-12-22" key="j20011912002330" notAfter-iso="+0770-02-03"><name>大曆</name>初</date>，受具足戒於靈山會，習學<lb
+ed="T" n="0806c28"/><anchor n="T.50.2061.0806c28"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date><placeName key="PL000000011648"><placeName>錢塘</placeName><placeName>永福寺</placeName></placeName><persName key="A011333">慧琳</persName>傳</head><p><lb
+ed="T" n="0806c29"/><persName key="A011333">釋慧琳</persName>，字<persName key="A011333">抱玉</persName>，俗姓<name>柯</name>，<placeName key="PL000000015653">新安</placeName>人也。丱齡受<pb ed="T" n="0807a" xml:id="T50.2061.0807a"/><lb
+ed="T" n="0807a01"/>業于<placeName key="PL000000011567"><placeName>靈隱</placeName><placeName>西峯</placeName></placeName>，為<persName key="A011511">金<roleName>和尚</roleName></persName>弟子，所傳法要，斷<lb
+ed="T" n="0807a02"/>無重問。<date notBefore-iso="+0766-12-22" key="j20011912002330" notAfter-iso="+0770-02-03"><name>大曆</name>初</date>，受具足戒於<placeName key="PL000000012279">靈山</placeName>會，習學<lb
 ed="T" n="0807a03"/>三教，一領無遺。不樂聲華，止好泉石，一<lb
-ed="T" n="0807a04"/>入<placeName key="PL000000012081">天眼</placeName>二十餘年，<placeName key="PL000000012081">天眼</placeName>即<placeName key="PL000000012081">天目</placeName>也。<placeName key="PL000000012081">其山</placeName>高三<lb
+ed="T" n="0807a04"/>入<placeName key="PL000000012081">天眼</placeName>二十餘年。<placeName key="PL000000012081">天眼</placeName>即<placeName key="PL000000012081">天目</placeName>也，<ref type="place" target="#PL000000012081">其山</ref>高三<lb
 ed="T" n="0807a05"/>千丈，周圍三百里，與<placeName key="PL000000015458">天柱</placeName>、<placeName key="PL000000018775">廬阜</placeName>等相儔匹。上<lb
 ed="T" n="0807a06"/>有二湖，謂為左右目，登涉艱阻，數日乃到<lb
-ed="T" n="0807a07"/>巔頂，多蛟龍，池潭三所。最上池，人不可近，<lb
+ed="T" n="0807a07"/>巔頂。多蛟龍，池潭三所。最上池，人不可近，<lb
 ed="T" n="0807a08"/>氣臭逆人，不可久視。或說山神作白鹿形，<lb
-ed="T" n="0807a09"/>每五月與震澤龍會，必暴風雨焉。<persName key="A011333">琳</persName>居此，<lb
+ed="T" n="0807a09"/>每五月與<placeName key="PL000000008559">震澤</placeName>龍會，必暴風雨焉。<persName key="A011333">琳</persName>居此，<lb
 ed="T" n="0807a10"/>率多妖異，而心不撓。<date from-iso="+0807-02-15" key="j20158562016209" to-iso="+0808-02-03"><name>元和</name>丁亥</date>，太守禮部<lb
-ed="T" n="0807a11"/>員外城南<persName key="A011514"><anchor xml:id="beg0807001"/>杜<anchor xml:id="end0807001"/>陟</persName>。請出<placeName key="PL000000011648">永福寺</placeName>登壇。至<date from-iso="+0809-01-24" key="j20165652016948" to-iso="+0810-02-11"><anchor xml:id="beg0807sgsz1"/>己<anchor xml:id="end0807sgsz1"/><lb
-ed="T" n="0807a12"/>丑歲</date>春，<anchor xml:id="beg0807002"/>刺<anchor xml:id="end0807002"/>史兵部郎中<persName key="A010494">裴常棣</persName>召臨<placeName key="PLG00000000023">天竺<lb
-ed="T" n="0807a13"/>寺</placeName>壇。度人畢，歸<placeName key="PL000000011648">寺</placeName>講訓生徒，向二十載。郡<lb
+ed="T" n="0807a11"/>員外城南<persName key="A011514"><anchor xml:id="beg0807001"/>杜<anchor xml:id="end0807001"/>陟</persName>請出<placeName key="PL000000011648">永福寺</placeName>登壇。至<date from-iso="+0809-01-24" key="j20165652016682" to-iso="+0809-05-21"><anchor xml:id="beg0807sgsz1"/>己<anchor xml:id="end0807sgsz1"/><lb
+ed="T" n="0807a12"/>丑歲春</date><ptr target="#n1845"/>，<anchor xml:id="beg0807002"/>刺<anchor xml:id="end0807002"/>史兵部郎中<persName key="A010494">裴常棣</persName>召臨<placeName key="PL000000011627">天竺<lb
+ed="T" n="0807a13"/>寺</placeName>壇。度人畢，歸<ref type="place" target="#PL000000011648">寺</ref>講訓生徒，向二十載。郡<lb
 ed="T" n="0807a14"/>守左司郎中<persName key="A011517">陸則</persName>、刑部侍郎<persName key="A011331">楊憑</persName>、給事中<persName key="A011147">盧<lb
-ed="T" n="0807a15"/>元輔</persName>、中書舍人<persName key="A004029">白居易</persName>、太府卿<persName key="A011519">李幼公</persName>、刑部<lb
+ed="T" n="0807a15"/>元輔</persName>、中書舍人<persName key="A004029">白居易</persName>、太府卿<persName key="A011519">李幼公</persName><ptr target="#n1846"/>、刑部<lb
 ed="T" n="0807a16"/>郎中<persName key="A011520">崔鄯</persName>、刑部郎中<persName key="A011521">路異</persName>相繼九邦伯，皆以<lb
-ed="T" n="0807a17"/>公退至院，致<anchor xml:id="beg0807sgsz3"/>禮<anchor xml:id="end0807sgsz3"/>稽問佛法宗意，染指性相。<lb
-ed="T" n="0807a18"/>此諸名公簪組上流，辭學高度，或號<persName key="A011333">毘曇孔<lb
-ed="T" n="0807a19"/>子</persName>，或名<persName key="A011333">勝力菩薩</persName>，非<persName key="A011333">琳</persName>何以感動哉？<date key="j20250942025094" when-iso="0832"><name><anchor xml:id="beg0807003"/>太和<anchor xml:id="end0807003"/></name><lb
+ed="T" n="0807a17"/>公退<ptr rend="display:none;" type="glossary" target="#g757"/>至院，致<anchor xml:id="beg0807sgsz3"/>禮<anchor xml:id="end0807sgsz3"/>稽問佛法宗意，染指性相<ptr type="glossary" target="#g583"/>。<lb
+ed="T" n="0807a18"/>此諸名公簪組<ptr type="glossary" target="#g1437"/>上流，辭學高度，或號<persName key="A011333">毘曇孔<lb
+ed="T" n="0807a19"/>子</persName>，或名<persName key="A011333">勝力<anchor xml:id="beg0807sgsz4"/>菩<anchor xml:id="end0807sgsz4"/>薩</persName>，非<persName key="A011333">琳</persName>何以感動哉？<date key="j20250942025094" when-iso="0832"><name><anchor xml:id="beg0807003"/>太和<anchor xml:id="end0807003"/></name><lb
 ed="T" n="0807a20"/>六年四月二十五日</date>示滅，享壽八十有三，法<lb
-ed="T" n="0807a21"/>臘六十四。以<date key="j20251112025111" when-iso="+0832-06-18">其年五月十二日</date>葬于今永安<lb
-ed="T" n="0807a22"/>寺<!--找不到此地-->西山之陽，碼碯坡<!--找不到此地-->之左，石塔巋然存矣。</p>
+ed="T" n="0807a21"/>臘六十四。以<date key="j20251112025111" when-iso="+0832-06-18">其年五月十二日</date>葬于今<placeName key="PL000000057984">永安<lb
+ed="T" n="0807a22"/>寺</placeName>西山之陽，<placeName key="PL000000011647">碼碯坡</placeName>之左，石塔巋然存矣。</p>
+    <linkGrp>
+        <link targets="#0806c29 #0806c29"/>
+        <ptr target="#A011333" type="person"/>
+        <ptr target="#PL000000015653" type="place"/>
+    </linkGrp>
     <linkGrp>
         <link targets="#0807a01 #0807a02"/>
         <ptr target="#A011333" type="person"/>
         <ptr target="#A011511" type="person"/>
-        <ptr target="#PL000000012953" type="place"/>
+        <ptr target="#PL000000011567" type="place"/>
     </linkGrp>
     <linkGrp>
-        <link targets="#0807a02 #0807a10"/>
+        <link targets="#0807a02 #0807a03"/>
         <ptr target="#A011333" type="person"/>
-        <ptr target="#PL000000012953" type="place"/>
+        <ptr target="#PL000000012279" type="place"/>
         <ptr target="#j20011912002330" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0807a03 #0807a10"/>
+        <ptr target="#A011333" type="person"/>
+        <ptr target="#PL000000012081" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0807a10 #0807a11"/>
@@ -47,8 +57,8 @@ ed="T" n="0807a22"/>寺<!--找不到此地-->西山之陽，碼碯坡<!--找不�
         <link targets="#0807a11 #0807a13"/>
         <ptr target="#A011333" type="person"/>
         <ptr target="#A010494" type="person"/>
-        <ptr target="#PLG00000000023" type="place"/>
-        <ptr target="#j20165652016948" type="time"/>
+        <ptr target="#PL000000011627" type="place"/>
+        <ptr target="#j20165652016682" type="time"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0807a13 #0807a17"/>
@@ -91,5 +101,10 @@ ed="T" n="0807a22"/>寺<!--找不到此地-->西山之陽，碼碯坡<!--找不�
         <ptr target="#A011333" type="person"/>
         <ptr target="#A011521" type="person"/>
         <ptr target="#PL000000011648" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0807a19 #0807a20"/>
+        <ptr target="#A011333" type="person"/>
+        <ptr target="#j20250942025094" type="time"/>
     </linkGrp>
 </div>

@@ -1,25 +1,47 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" type="遺身" xml:id="gsz0860a01shiShouXian"><pb n="0860a" xml:id="T50.2061.0860a" ed="T"/><lb
-ed="T" n="0860a01"/><anchor n="T.50.2061.0860a01"/><head><date from-iso="+0960-02-09" key="j20717322132856" to-iso="+1127-06-18"><anchor xml:id="beg0860001"/>宋<anchor xml:id="end0860001"/></date>衡陽大聖寺<persName key="A013523">守賢</persName>傳</head><p><lb
-ed="T" n="0860a02"/><persName key="A013523">釋守賢</persName>，姓丘氏，<placeName key="PL000000017947">泉州永春</placeName>人也。少而聰達，淵<lb
-ed="T" n="0860a03"/>懿沈厚，誓投吉祥院<!--找不到此地-->從師披剪焉。後遊學<lb
-ed="T" n="0860a04"/>栖<persName key="A003703">雲門禪師</persName>道場，明了心決，趨彼<placeName key="PL000000028910">衡陽</placeName>，眾<lb
-ed="T" n="0860a05"/>推說法，納衣練若之人，若百<anchor xml:id="beg0860sgsz1"/><choice resp="sgsz"><sic>州</sic><corr>川</corr></choice><anchor xml:id="end0860sgsz1"/>之會于朝夕<lb
-ed="T" n="0860a06"/>池矣。<persName key="A013523">賢</persName>不衣繒纊，布衣皮袴而已。度伏臘<lb
+ed="T" n="0860a01"/><anchor n="T.50.2061.0860a01"/><head><date from-iso="+0960-02-09" key="j20717322132856" to-iso="+1127-06-18"><anchor xml:id="beg0860001"/>宋<anchor xml:id="end0860001"/></date><placeName key="PL000000058797"><placeName>衡陽</placeName><placeName>大聖寺</placeName></placeName><persName key="A013523">守賢</persName>傳</head><p><lb
+ed="T" n="0860a02"/><persName key="A013523">釋守賢</persName>，姓<name>丘</name>氏，<placeName key="PL000000017947"><placeName>泉州</placeName><placeName>永春</placeName></placeName>人也。少而聰達，淵<lb
+ed="T" n="0860a03"/>懿沈厚，誓投<placeName key="PL000000058635">吉祥院</placeName>從師披剪焉。後遊學<lb
+ed="T" n="0860a04"/>栖<persName key="A003703">雲門<roleName>禪師</roleName></persName>道場，明了心決。趨彼<placeName key="PL000000028910">衡陽</placeName>，眾<lb
+ed="T" n="0860a05"/>推說法，納衣<ptr type="glossary" target="#g1322"/>練若<ptr type="glossary" target="#g1541"/>之人，若百<anchor xml:id="beg0860sgsz1"/><choice resp="sgsz"><sic>州</sic><corr>川</corr></choice><anchor xml:id="end0860sgsz1"/>之會于朝夕<lb
+ed="T" n="0860a06"/>池<ptr type="glossary" target="#g1942"/>矣。<persName key="A013523">賢</persName>不衣繒纊<ptr type="glossary" target="#g791"/>，布衣皮袴而已。度伏臘<ptr type="glossary" target="#g1585"/><lb
 ed="T" n="0860a07"/>必無更易，脇不著席，唯坐藤床，瞑目通宵。<lb
-ed="T" n="0860a08"/>除有問者，隨其啟發，雍容自持。<date key="j20731312074969" notAfter-iso="+0968-12-20" notBefore-iso="+0963-12-09">乾德中</date>，告<lb
-ed="T" n="0860a09"/>眾曰：「<persName key="A013523">吾</persName>有債願未酬，心終不了。」明日，入南<lb
-ed="T" n="0860a10"/>窯山<!--找不到此地-->，投身飼虎。弟子輩去尋，見雙脛皮袴<lb
+ed="T" n="0860a08"/>除<ptr target="#n2950"/>有問者，隨其啟發<ptr target="#n939"/>，雍容自持。<date key="j20731312074969" notAfter-iso="+0968-12-20" notBefore-iso="+0963-12-09"><name>乾德</name>中</date>，告<lb
+ed="T" n="0860a09"/>眾曰：「<ref type="person" target="#A013523">吾</ref>有債願未酬，心終不了。」明日，入<placeName key="PL000000058609">南<lb
+ed="T" n="0860a10"/>窯山</placeName>，投身飼虎。弟子輩去尋，見雙脛皮袴<lb
 ed="T" n="0860a11"/>纏且存耳。收闍維之，得舍利無數。報齡七<lb
 ed="T" n="0860a12"/>十四。今小浮圖藏遺體焉。</p>
+    <linkGrp>
+        <link targets="#0860a01 #0860a01"/>
+        <ptr target="#A013523" type="person"/>
+        <ptr target="#PL000000058797" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0860a02 #0860a02"/>
+        <ptr target="#A013523" type="person"/>
+        <ptr target="#PL000000017947" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0860a03 #0860a03"/>
+        <ptr target="#A013523" type="person"/>
+        <ptr target="#PL000000058635" type="place"/>
+    </linkGrp>
     <linkGrp>
         <link targets="#0860a03 #0860a04"/>
         <ptr target="#A013523" type="person"/>
         <ptr target="#A003703" type="person"/>
+        <ptr target="#PL000000030654" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0860a04 #0860a06"/>
         <ptr target="#A013523" type="person"/>
         <ptr target="#PL000000028910" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0860a08 #0860a11"/>
+        <ptr target="#A013523" type="person"/>
+        <ptr target="#PL000000058609" type="place"/>
+        <ptr target="#j20731312074969" type="time"/>
     </linkGrp>
 </div>

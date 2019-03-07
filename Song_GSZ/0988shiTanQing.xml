@@ -1,36 +1,57 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" type="明律" xml:id="gsz0804a27shiTanQing"><lb
-ed="T" n="0804a27"/><anchor n="T.50.2061.0804a27"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date>衡嶽寺<persName key="A011164">曇清</persName>傳</head><p><lb
-ed="T" n="0804a28"/><persName key="A011164">釋曇清</persName>，未詳何許人也。幼持邊幅，罔或<lb
-ed="T" n="0804a29"/>迷方，以謹昏呶，究窮佛旨。乃負笈來<placeName key="PL000000009928">吳</placeName>北<pb ed="T" n="0804b" xml:id="T50.2061.0804b"/><lb
-ed="T" n="0804b01"/>院<persName key="A011021">道恒宗師</persName>法會，與<persName key="A011073">省躬</persName>猶滕、薛之前後也<ptr target="#n1488"/>。<lb
-ed="T" n="0804b02"/>旋留<placeName key="PL000000028928">南嶽</placeName>化徒，適會<date notBefore-iso="+0806-01-29" key="j20154742020606" notAfter-iso="+0820-02-17"><name>元和</name>中</date>閬州<placeName key="PL000000036515">龍<anchor xml:id="beg0804sgsz9"/><choice resp="sgsz"><sic>與</sic><corr>興</corr></choice><anchor xml:id="end0804sgsz9"/>寺</placeName><lb
-ed="T" n="0804b03"/>結界，時<persName key="A011176">義嵩</persName>講<persName key="A001899">素</persName>新《疏》，傑出輩流，因云：「《僧<lb
-ed="T" n="0804b04"/>祇律》云：齊七樹相去，爾所作羯磨者，名善<lb
-ed="T" n="0804b05"/>作羯磨。準此四面，皆取六十三步等，如是<lb
-ed="T" n="0804b06"/>自然界約，令作法界上僧。」須盡集時，<persName key="A011164">清</persName>遂<lb
-ed="T" n="0804b07"/>廣徵難，如是往返，經州涉省，下兩街新舊<lb
-ed="T" n="0804b08"/>章南山三宗共定奪，<persName key="A011176">嵩公</persName>虧理。時故相<persName key="A011177">令狐<lb
-ed="T" n="0804b09"/>楚</persName>猶為禮部外郎，判轉牒，據兩街傳律斷<lb
-ed="T" n="0804b10"/><persName key="A011164">曇清</persName>義為正，天下聲唱，勇執紀綱，<persName key="A011164">清</persName>能干<lb
-ed="T" n="0804b11"/>城矣。後著記號《顯宗》焉。</p>
-    <p xml:id="pT50p0804b1201"><lb
-ed="T" n="0804b12"/>系曰：<persName key="A011164">清公</persName>南山宗崛起別峰，人咸景仰，與<lb
-ed="T" n="0804b13"/><persName key="A011176">嵩</persName>、<persName key="A011179">悟</persName>二公遇于必爭之地，<persName key="A011164">清</persName>果得俊，矧<ptr rend="display:none;" type="glossary" target="#g325"/>夫<lb
-ed="T" n="0804b14"/>閬苑也，僻用律文，三隅不反。既成圖狀，學<lb
-ed="T" n="0804b15"/>者流傳，致其<persName key="A011176">嵩公</persName>如填海底。至<date notBefore-iso="+0847-02-10" key="j20304612035056" notAfter-iso="+0859-09-10"><name>大中</name>中</date><persName key="A009180">玄<lb
-ed="T" n="0804b16"/>暢公</persName>荐加褒貶，貶<persName key="A011176">嵩</persName><anchor xml:id="beg0804sgsz13"/><choice resp="sgsz"><sic>之</sic><corr>又</corr></choice><anchor xml:id="end0804sgsz13"/>轉沈尾閭中矣。</p>
+ed="T" n="0804a27"/><anchor n="T.50.2061.0804a27"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date><placeName key="PL000000028989">衡嶽寺</placeName><persName key="A011164">曇清</persName>傳</head><p><lb
+ed="T" n="0804a28"/><persName key="A011164">釋曇清</persName>，未詳何許人也。幼持邊幅<ptr type="glossary" target="#g650"/>，罔或<lb
+ed="T" n="0804a29"/>迷方<ptr type="glossary" target="#g651"/>，以謹昏呶<ptr type="glossary" target="#g655"/>，究窮佛旨。乃負笈來<placeName key="PL000000057836"><placeName>吳</placeName><placeName>北<pb ed="T" n="0804b" xml:id="T50.2061.0804b"/><lb
+ed="T" n="0804b01"/>院</placeName></placeName><persName key="A011021">道恒<roleName>宗師</roleName></persName>法會，與<persName key="A011073">省躬</persName>猶<name>滕</name>、<name>薛</name>之前後也<ptr target="#n1488"/>。<lb
+ed="T" n="0804b02"/>旋留<placeName key="PL000000028928">南嶽</placeName>化徒，適會<date notBefore-iso="+0806-01-29" key="j20154742020967" notAfter-iso="+0821-02-12"><name>元和</name>中</date><placeName key="PL000000036515"><placeName>閬州</placeName><placeName>龍<anchor xml:id="beg0804sgsz9"/><choice resp="sgsz"><sic>與</sic><corr>興</corr></choice><anchor xml:id="end0804sgsz9"/>寺</placeName></placeName><lb
+ed="T" n="0804b03"/>結界<ptr type="glossary" target="#g656"/>，時<persName key="A011176">義嵩</persName>講<persName key="A001899">素</persName>新《疏》<ptr target="#n902"/>，傑出輩流<ptr rend="display:none;" type="glossary" target="#g630"/>，因云：「《僧<lb
+ed="T" n="0804b04"/>祇律》云：『齊七樹相去，爾所作羯磨者，名善<lb
+ed="T" n="0804b05"/>作羯磨。<ptr target="#n1761"/>』準此四面，皆取六十三步等，如是<lb
+ed="T" n="0804b06"/>自然界約，令作法界上僧。<ptr target="#n1762"/>」須<ptr type="glossary" target="#g657"/>盡集時，<persName key="A011164">清</persName>遂<lb
+ed="T" n="0804b07"/>廣徵難。如是往返，經州涉省，下兩街新、舊<lb
+ed="T" n="0804b08"/>章<ptr target="#n1550"/>、<persName key="A001519">南山</persName>三宗共定奪，<persName key="A011176">嵩<roleName>公</roleName></persName>虧理<ptr target="#n1763"/>。時故相<persName key="A011177">令狐<lb
+ed="T" n="0804b09"/>楚</persName>猶為禮部外郎，判轉牒<ptr type="glossary" target="#g658"/>，據兩街傳律斷<lb
+ed="T" n="0804b10"/><persName key="A011164">曇清</persName>義為正，天下聲唱「勇執紀綱，<persName key="A011164">清</persName>能干<lb
+ed="T" n="0804b11"/>城<ptr type="glossary" target="#g509"/>矣」。後著記號《顯宗》<ptr target="#n1764"/>焉。</p><p xml:id="pT50p0804b1201"><lb
+ed="T" n="0804b12"/>系曰：<persName key="A011164">清<roleName>公</roleName></persName><persName key="A001519">南山</persName>宗崛起別峰，人咸景仰，與<lb
+ed="T" n="0804b13"/><persName key="A011176">嵩</persName>、<persName key="A011179">悟</persName>二公遇于必爭之地，<persName key="A011164">清</persName>果得俊。矧<ptr rend="display:none;" type="glossary" target="#g325"/>夫<lb
+ed="T" n="0804b14"/><placeName key="PL000000036515">閬苑</placeName>也，僻<ptr type="glossary" target="#g1359"/>用律文，三隅不反<ptr target="#n939"/>。既成圖狀<ptr target="#n1765"/>，學<lb
+ed="T" n="0804b15"/>者流傳，致其<persName key="A011176">嵩<roleName>公</roleName></persName>如填海<ptr type="glossary" target="#g663"/>底。至<date notBefore-iso="+0847-02-10" key="j20304612035523" notAfter-iso="+0860-12-20"><name>大中</name>中</date><persName key="A009180">玄<lb
+ed="T" n="0804b16"/>暢<roleName>公</roleName></persName>荐<ptr rend="display:none;" type="glossary" target="#g104"/>加褒貶，貶<persName key="A011176">嵩</persName><anchor xml:id="beg0804sgsz13"/><choice resp="sgsz"><sic>之</sic><corr>又</corr></choice><anchor xml:id="end0804sgsz13"/>轉沈尾閭<ptr type="glossary" target="#g660"/>中矣。</p>
+    <linkGrp>
+        <link targets="#0804a27 #0804a27"/>
+        <ptr target="#A011164" type="person"/>
+        <ptr target="#PL000000028989" type="place"/>
+    </linkGrp>
     <linkGrp>
         <link targets="#0804a29 #0804b01"/>
         <ptr target="#A011164" type="person"/>
         <ptr target="#A011021" type="person"/>
         <ptr target="#A011073" type="person"/>
-        <ptr target="#PL000000009928" type="place"/>
+        <ptr target="#PL000000057836" type="place"/>
     </linkGrp>
     <linkGrp>
-        <link targets="#0804b03 #0804b10"/>
+        <link targets="#0804b02 #0804b02"/>
+        <ptr target="#A011164" type="person"/>
+        <ptr target="#PL000000028928" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0804b02 #0804b07"/>
+        <ptr target="#A011164" type="person"/>
+        <ptr target="#A011176" type="person"/>
+        <ptr target="#PL000000036515" type="place"/>
+        <ptr target="#j20154742020967" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0804b08 #0804b10"/>
         <ptr target="#A011164" type="person"/>
         <ptr target="#A011176" type="person"/>
         <ptr target="#A011177" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0804b15 #0804b16"/>
+        <ptr target="#A009180" type="person"/>
+        <ptr target="#j20304612035523" type="time"/>
     </linkGrp>
 </div>

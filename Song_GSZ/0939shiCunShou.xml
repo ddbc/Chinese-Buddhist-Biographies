@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" type="習禪" xml:id="gsz0786a09shiCunShou"><lb
-ed="T" n="0786a09"/><anchor n="T.50.2061.0786a09"/><head><date from-iso="+0907-06-10" key="j20524952058534" to-iso="+0923-12-22">梁</date><placeName key="PL000000005173">河中府棲巖山</placeName><persName key="A010684">存壽</persName>傳</head><p><lb
+ed="T" n="0786a09"/><anchor n="T.50.2061.0786a09"/><head><date from-iso="+0907-06-10" key="j20524952058534" to-iso="+0923-12-22">梁</date><placeName key="PL000000005173"><placeName>河中府</placeName><placeName>棲巖山</placeName></placeName><persName key="A010684">存壽</persName>傳</head><p><lb
 ed="T" n="0786a10"/><persName key="A010684">釋存壽</persName>，不知何許人也<ptr target="#n263"/>。清標勝範，造次奚<lb
 ed="T" n="0786a11"/>及<ptr type="glossary" target="#g56"/>。罷尋經論，勇冠輩流。往問律於<persName key="A010581">石霜<roleName>禪<lb
-ed="T" n="0786a12"/>師</roleName></persName>，決了前疑。虛舟<ptr type="glossary" target="#g57"/>不繫，乃為枯木眾<ptr target="#n1711"/>之椔<lb
+ed="T" n="0786a12"/>師</roleName></persName>，決了前疑。虛舟<ptr rend="display:none;" type="glossary" target="#g57"/>不繫，乃為枯木眾<ptr target="#n1711"/>之椔<lb
 ed="T" n="0786a13"/>杌<ptr type="glossary" target="#g1593"/>矣。後還<placeName key="PL000000005199">蒲坂</placeName>，緇素歸心。時<persName key="A010685"><name><anchor xml:id="beg0786sgsz1"/>冀<anchor xml:id="end0786sgsz1"/>王</name>友謙</persName>受<lb
 ed="T" n="0786a14"/>封<ptr target="#n1710"/>屏翰<ptr type="glossary" target="#g58"/>，好奇侚異，聞人一善，厚<anchor xml:id="beg0786sgsz2"/>禮<anchor xml:id="end0786sgsz2"/>下之。<ref type="person" target="#A010685">王</ref><lb
 ed="T" n="0786a15"/>召入府齋，論道談玄，不覺膝之前席，頗<lb
@@ -12,7 +12,7 @@ ed="T" n="0786a17"/>人四百許員，尼眾百數。<persName key="A010684">壽
 ed="T" n="0786a18"/>物。喜慍之色，人未嘗見，望之若孤松凌雪<lb
 ed="T" n="0786a19"/>焉。終時春秋九十三，加趺而坐，一月後髭髮<lb
 ed="T" n="0786a20"/>再生，重剃入塔。塔之亭，每有虎旋遶，𠫗跡<lb
-ed="T" n="0786a21"/>時繁。勅諡為<persName key="A010684">真寂大師</persName>焉<ptr target="#n1712"/>。</p>
+ed="T" n="0786a21"/>時繁。勅謚為<persName key="A010684">真寂大師</persName>焉<ptr target="#n1712"/>。</p>
     <linkGrp>
         <link targets="#0786a09 #0786a09"/>
         <ptr target="#A010684" type="person"/>

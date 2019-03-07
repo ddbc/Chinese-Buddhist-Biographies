@@ -1,16 +1,16 @@
 <?xml version='1.0' encoding='utf-8'?>
-<div xmlns="http://www.tei-c.org/ns/1.0" type="感通" xml:id="gsz0821a27shiFaXi">
-    <anchor n="T.50.2061.0821a27"/><head><date from-iso="+0581-03-06" key="j19333311946884" to-iso="+0618-04-15">隋</date>江都宮<persName key="A004801">法喜</persName>傳</head><p><lb
+<div xmlns="http://www.tei-c.org/ns/1.0" type="感通" xml:id="gsz0821a27shiFaXi"><lb
+ed="T" n="0821a27"/><anchor n="T.50.2061.0821a27"/><head><date from-iso="+0581-03-06" key="j19333311946884" to-iso="+0618-04-15">隋</date><placeName key="PL000000058463">江都宮</placeName><persName key="A004801">法喜</persName>傳</head><p><lb
 ed="T" n="0821a28"/><persName key="A004801">釋法喜</persName>，<placeName key="PL000000030467">南海</placeName>人也，形容寢陋，短弱迂疎，可年<lb
 ed="T" n="0821a29"/>四十許。<placeName key="PL000000023027">嶺表</placeName>耆老咸言：「兒童時見識之，顏貌<pb ed="T" n="0821b" xml:id="T50.2061.0821b"/><lb
 ed="T" n="0821b01"/>如今無異。」蠻蜒間相傳云已三百歲矣。亦自<lb
-ed="T" n="0821b02"/>言舊識廬山<persName key="A001204">慧遠法師</persName>，說晉、宋朝事，歷歷<lb
-ed="T" n="0821b03"/>如信宿前耳。平素時悄<anchor xml:id="beg0821sgsz4"/>然<anchor xml:id="end0821sgsz4"/>，見人必語，語必<lb
-ed="T" n="0821b04"/>含深意，吉凶之徵，有如影響。人亦不欲與<lb
-ed="T" n="0821b05"/><persName key="A004801">喜</persName>相見，懼直言災惡忤逆意也。陳朝<persName key="A012075">馬靜</persName><lb
+ed="T" n="0821b02"/>言舊識<placeName key="PL000000018775">廬山</placeName><persName key="A001204">慧遠<roleName>法師</roleName></persName>，說<placeName key="PL000000000103">晉</placeName>、<placeName key="PL000000000136">宋</placeName>朝事，歷歷<lb
+ed="T" n="0821b03"/>如信宿<ptr type="glossary" target="#g499"/>前耳。平素時悄<anchor xml:id="beg0821sgsz4"/>然<anchor xml:id="end0821sgsz4"/>，見人必語，語必<lb
+ed="T" n="0821b04"/>含深意，吉凶之徵，有如影響<ptr type="glossary" target="#g1253"/>。人亦不欲與<lb
+ed="T" n="0821b05"/><persName key="A004801">喜</persName>相見，懼直言災惡忤逆意也。<placeName key="PL000000000074">陳</placeName>朝<persName key="A012075">馬靜</persName><lb
 ed="T" n="0821b06"/>為<placeName key="PL000000030478">廣州</placeName>刺史，方上任，<persName key="A004801">喜</persName>直入州上廳事，畫<lb
 ed="T" n="0821b07"/>地作馬頭形，以示其子而去。<persName key="A012075">靜</persName>本<placeName key="PL000000043119">扶風</placeName>名<lb
-ed="T" n="0821b08"/>族，雄勇多武略，不閑事體。及臨州也，每<lb
+ed="T" n="0821b08"/>族，雄勇多武略，不閑事體<ptr type="glossary" target="#g1258"/>。及臨州也，每<lb
 ed="T" n="0821b09"/>出行部，從甲士數萬，旌旗劍戟，若虹霓映<lb
 ed="T" n="0821b10"/>乎霜雪，言以此可用威邊徼。其奢僣過度，<lb
 ed="T" n="0821b11"/>王者之不若，被人誣告謀反。<persName key="A012075">靜</persName>懼，即遣妻<lb
@@ -22,21 +22,31 @@ ed="T" n="0821b16"/>左右擒而斬之<ptr target="#n1885"/>。此畫地之明�
 ed="T" n="0821b17"/>見，皆同此類。<persName key="A004413">煬帝</persName>聞之，追來<placeName key="PL000000010795">揚州</placeName>。未久，宮<lb
 ed="T" n="0821b18"/>內樹一堂新成。<persName key="A004801">喜</persName>怱怱升堂觀覽，俄驚走<lb
 ed="T" n="0821b19"/>下階，唱言「幾壓殺」！其日夜闌，大雨堂崩，斃者<lb
-ed="T" n="0821b20"/>數人<ptr target="#n510"/>，其後又於宮內環走，言索羊頭。<persName key="A004413">帝</persName>聞<lb
-ed="T" n="0821b21"/>惡之，責以狂言，勅鎖著一室。數日，三衛於<lb
+ed="T" n="0821b20"/>數人<ptr target="#n510"/>，其後又於宮內環走，言索羊頭。<ref type="person" target="#A004413">帝</ref>聞<lb
+ed="T" n="0821b21"/>惡之，責以狂言，勅鎖著一室。數日，三衛<ptr type="glossary" target="#g1260"/>於<lb
 ed="T" n="0821b22"/>市見<persName key="A004801">喜</persName>坦率遊行。還奏，勅所司覆驗禁閉<lb
 ed="T" n="0821b23"/>之處，門鎖如故。守當者云：「<persName key="A004801">喜</persName>見在室內。」於<lb
 ed="T" n="0821b24"/>是開戶，見袈裟覆一聚白骨，其鎖貫項骨<lb
-ed="T" n="0821b25"/>不脫。<persName key="A004413">帝</persName>甚驚怪，勅遣長史<persName key="A012077">王恒</persName>疾往驗之，<lb
+ed="T" n="0821b25"/>不脫。<ref type="person" target="#A004413">帝</ref>甚驚怪，勅遣長史<persName key="A012077">王恒</persName>疾往驗之，<lb
 ed="T" n="0821b26"/>袈裟覆白骨，骨皆鉤鎖相連，鐵鎖縻其項<lb
-ed="T" n="0821b27"/>骨。<persName key="A004413">帝</persName>聞愕然稱歎，尤增信重，勅令勿輕搖<lb
+ed="T" n="0821b27"/>骨。<ref type="person" target="#A004413">帝</ref>聞，愕然稱歎，尤增信重。勅令勿輕搖<lb
 ed="T" n="0821b28"/>蕩，曰：「聖者神變無方。」至暮，<persName key="A004801">喜</persName>還在室，或言<lb
-ed="T" n="0821b29"/>或笑，守門復奏。<persName key="A004413">帝</persName>令脫鎖，縱其所適。有於<pb ed="T" n="0821c" xml:id="T50.2061.0821c"/><lb
+ed="T" n="0821b29"/>或笑，守門復奏。<ref type="person" target="#A004413">帝</ref>令脫鎖，縱其所適。有於<pb ed="T" n="0821c" xml:id="T50.2061.0821c"/><lb
 ed="T" n="0821c01"/>一日赴數家齋食，或時飲酒啖肉，都無拘<lb
-ed="T" n="0821c02"/>忌。俄而有疾，常所臥床自撤薦席，<anchor xml:id="beg0821sgsz5"/><g ref="#Z1205"/><anchor xml:id="end0821sgsz5"/>簀而<lb
-ed="T" n="0821c03"/>欹寢。令人於下鋪炭甚熾，數日而終，半身<lb
-ed="T" n="0821c04"/>焦爛。葬于香山寺<!--找不到此地-->側。後四年<ptr target="#n511"/>，<placeName key="PL000000030467">南海郡</placeName>奏<persName key="A004801">喜</persName><lb
-ed="T" n="0821c05"/>見還在<placeName key="PL000000030467">郡</placeName>。勅遣開棺，空無所有矣。</p>
+ed="T" n="0821c02"/>忌。俄而有疾，常所臥床自撤薦席，<anchor xml:id="beg0821sgsz5"/><choice resp="sgsz"><sic><g ref="#Z1205"/></sic><corr>櫬</corr></choice><anchor xml:id="end0821sgsz5"/>簀而<lb
+ed="T" n="0821c03"/>欹寢<ptr type="glossary" target="#g1261"/>。令人於下鋪炭甚熾，數日而終，半身<lb
+ed="T" n="0821c04"/>焦爛。葬于<placeName key="PL000000023650">香山寺</placeName>側。後，<date from-iso="+0608-01-26" key="j19431521943535" to-iso="+0609-02-12">四年</date><ptr target="#n511"/>，<placeName key="PL000000030467">南海郡</placeName>奏<persName key="A004801">喜</persName><lb
+ed="T" n="0821c05"/>見還在<ref type="place" target="#PL000000030467">郡</ref>。勅遣開棺，空無所有矣。</p>
+    <linkGrp>
+        <link targets="#0821a27 #0821a27"/>
+        <ptr target="#A004801" type="person"/>
+        <ptr target="#PL000000058463" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0821a28 #0821a28"/>
+        <ptr target="#A004801" type="person"/>
+        <ptr target="#PL000000030467" type="place"/>
+    </linkGrp>
     <linkGrp>
         <link targets="#0821b05 #0821b07"/>
         <ptr target="#A004801" type="person"/>

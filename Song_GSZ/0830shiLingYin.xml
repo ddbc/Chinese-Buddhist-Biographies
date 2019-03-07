@@ -1,15 +1,15 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" type="義解" xml:id="gsz0747a05shiLingYin"><lb
-ed="T" n="0747a05"/><anchor n="T.50.2061.0747a05"/><head><date from-iso="+0923-05-18" key="j20583162063308" to-iso="+0937-01-16">後唐</date><placeName key="PL000000023817">洛陽長水</placeName><persName key="A009885">令諲</persName>傳</head><p><lb
-ed="T" n="0747a06"/><persName key="A009885">釋令諲</persName>，姓楊氏，<placeName key="PL000000025142">陝府閿鄉</placeName>人也。幼而履操，迴<lb
-ed="T" n="0747a07"/>求出俗，得<ref type="place" target="#PL000000025142">本邑</ref>之師，授《淨名經》。年既應法，<lb
+ed="T" n="0747a05"/><anchor n="T.50.2061.0747a05"/><head><date from-iso="+0923-05-18" key="j20583162063308" to-iso="+0937-01-16">後唐</date><placeName key="PL000000023817"><placeName>洛陽</placeName><placeName>長水</placeName></placeName><persName key="A009885">令諲</persName>傳</head><p><lb
+ed="T" n="0747a06"/><persName key="A009885">釋令諲</persName>，姓<name>楊</name>氏，<placeName key="PL000000025142"><placeName>陝府</placeName><placeName>閿鄉</placeName></placeName>人也。幼而履操，迴<lb
+ed="T" n="0747a07"/>求出俗，得<ref type="place" target="#PL000000025142">本邑</ref>之師，授《淨名經》<ptr target="#n1177"/>。年既應法，<lb
 ed="T" n="0747a08"/>乃納戒<choice resp="sgsz"><sic>津</sic><corr>律</corr></choice><ptr target="#n1159"/>，大、小乘教兼而學之。於名數<ptr type="glossary" target="#g1068"/>法<lb
-ed="T" n="0747a09"/>門，染成淳粹。《彌陀》、《中觀》斡及膏腴，聲光振<lb
-ed="T" n="0747a10"/>發，莫之與京。因遊<placeName key="PL000000023817">洛南長水</placeName>，遇歸心檀信<lb
-ed="T" n="0747a11"/>構伽藍，就中講貫<ptr type="glossary" target="#g1247"/>。一論一經，三十載中宣<lb
-ed="T" n="0747a12"/>化，計各五十餘遍。日別誦《維摩》、《上生》以為恒<lb
+ed="T" n="0747a09"/>門，染成淳粹。《彌陀》<ptr target="#n1179"/>、《中觀》<ptr target="#n1551"/>斡及膏腴，聲光振<lb
+ed="T" n="0747a10"/>發，莫之與京。因遊<placeName key="PL000000023817"><placeName>洛南</placeName><placeName>長水</placeName></placeName>，遇歸心檀信<lb
+ed="T" n="0747a11"/>構伽藍，就中講貫<ptr rend="display:none;" type="glossary" target="#g1247"/>。一論一經，三十載中宣<lb
+ed="T" n="0747a12"/>化，計各五十餘遍。日別誦《維摩》、《上生》<ptr target="#n772"/>以為恒<lb
 ed="T" n="0747a13"/>課。執行持心而絕瑕<anchor xml:id="beg0747sgsz3"/><choice resp="sgsz"><sic>類</sic><corr>纇</corr></choice><anchor xml:id="end0747sgsz3"/>，遠近宗承，若望梅<lb
-ed="T" n="0747a14"/>者得飲焉。以<date from-iso="+0935-02-11" key="j20626032062957" to-iso="+0936-01-31">清泰二年乙未</date>歲終于邑寺，<lb
+ed="T" n="0747a14"/>者得飲焉。以<date from-iso="+0935-02-11" key="j20626032062957" to-iso="+0936-01-31"><name>清泰</name>二年乙未</date>歲終于邑寺，<lb
 ed="T" n="0747a15"/>春秋七十一，法臘五十一。其年遷于山麓，<lb
 ed="T" n="0747a16"/>徇西域法火葬，獲舍利，學人、檀越共建塔<lb
 ed="T" n="0747a17"/>焉。</p>

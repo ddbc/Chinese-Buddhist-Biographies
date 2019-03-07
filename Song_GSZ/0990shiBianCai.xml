@@ -1,36 +1,41 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" type="明律" xml:id="gsz0806a07shiBianCai"><lb
-n="0806a07" ed="T"/><anchor n="T.50.2061.0806a07"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date>朔方龍興寺<persName key="A011240">辯才</persName>傳</head><p><lb
-ed="T" n="0806a08"/><persName key="A011240">釋辯才</persName>，姓李氏，<placeName key="PL000000027119">襄陽</placeName>人也。母氏妊之，倏惡<lb
+n="0806a07" ed="T"/><anchor n="T.50.2061.0806a07"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date><placeName key="PL000000047106"><placeName>朔方</placeName><placeName>龍興寺</placeName></placeName><persName key="A011240">辯才</persName>傳</head><p><lb
+ed="T" n="0806a08"/><persName key="A011240">釋辯才</persName>，姓<name>李</name>氏，<placeName key="PL000000027118">襄陽</placeName>人也。母氏妊之，倏惡<lb
 ed="T" n="0806a09"/>葷血，冥然一食，虛淡終辰。及其誕彌，異香<lb
-ed="T" n="0806a10"/>盈室，宗黨怪焉。<date key="j19876871988051" from-iso="+0730-01-01" to-iso="+0730-12-31">七歲</date>依<placeName key="PL000000027106">峴山</placeName><persName key="A011241">寂禪師</persName>出家，<lb
-ed="T" n="0806a11"/>厥長者明記：每受經法，必以等身為限。字<lb
-ed="T" n="0806a12"/>不重問，義不再思，<persName key="A011241">師</persName>甚器之。<date key="j19909741991338" from-iso="+0739-01-01" to-iso="+0739-12-31">年十六</date>，遂削<lb
+ed="T" n="0806a10"/>盈室，宗黨怪焉。<date key="j19876871988051" from-iso="+0730-01-01" to-iso="+0730-12-31">七歲</date>依<placeName key="PL000000027106">峴山</placeName><persName key="A011241">寂<roleName>禪師</roleName></persName>出家。<lb
+ed="T" n="0806a11"/>厥長者明記，每受經法，必以等身為限，字<lb
+ed="T" n="0806a12"/>不重問，義不再思。<ref type="person" target="#A011241">師</ref>甚器之。<date key="j19909741991338" from-iso="+0739-01-01" to-iso="+0739-12-31">年十六</date>，遂削<lb
 ed="T" n="0806a13"/>髮，隷本州<placeName key="PL000000027107">大雲寺</placeName>。次乃周遊列郡，登陟名<lb
-ed="T" n="0806a14"/>山，就荊州<placeName key="PL000000027023">玉泉寺</placeName>納具戒。聞長安<placeName key="PL000000042180">安國寺</placeName><lb
-ed="T" n="0806a15"/><persName key="A011242">懷威律師</persName>、<placeName key="PL000000042225">報恩寺</placeName><persName key="A011243">義頒律師</persName>，法門具瞻，師資表<lb
+ed="T" n="0806a14"/>山，就<placeName key="PL000000027023"><placeName>荊州</placeName><placeName>玉泉寺</placeName></placeName>納具戒。聞<placeName key="PL000000042147"><placeName>長安</placeName><placeName>安國寺</placeName></placeName><lb
+ed="T" n="0806a15"/><persName key="A011242">懷威<roleName>律師</roleName></persName>、<placeName key="PL000000042225">報恩寺</placeName><persName key="A011243">義頒<roleName>律師</roleName></persName>，法門具瞻<ptr type="glossary" target="#g712"/>，師資表<lb
 ed="T" n="0806a16"/>率，遂伏膺請業。有疑必決，無義不通，廁<lb
 ed="T" n="0806a17"/>于二宗，推為上首。<date from-iso="+0755-02-20" key="j19968681997221" to-iso="+0756-02-08"><name>天寶</name>十四載</date>，<persName key="A000291">玄宗</persName>以北<lb
 ed="T" n="0806a18"/>方人也，稟剛氣，多訛風，列剎之中，餘習騎<lb
-ed="T" n="0806a19"/>射，有教無類，何可止息。詔以<persName key="A011240">才</persName>為教誡，臨<lb
-ed="T" n="0806a20"/>壇度人。<date notBefore-iso="+0756-08-16" key="j19974111997556" notAfter-iso="+0757-01-08"><name>至德</name>初</date>，<persName key="A004378">肅宗</persName>即位是邦也。宰臣<persName key="A008503">杜<lb
-ed="T" n="0806a21"/>鴻漸</persName>奏<persName key="A011240">才</persName>住龍興寺<!--找不到此地-->，詔加朔方管內教授大<lb
-ed="T" n="0806a22"/>德。俾其訓勵，革獫狁之風，循毘尼之道。復<lb
-ed="T" n="0806a23"/>命為國建法華道場<!--找不到此地-->。及駕迴，既復<placeName key="PLG00000000013">兩京</placeName>，累<lb
+ed="T" n="0806a19"/>射，有教無類，何可止息<ptr target="#n1833"/>。詔以<persName key="A011240">才</persName>為教誡，臨<lb
+ed="T" n="0806a20"/>壇度人。<date notBefore-iso="+0756-08-16" key="j19974111997556" notAfter-iso="+0757-01-08"><name>至德</name>初</date>，<persName key="A004378">肅宗</persName>即位<ref type="place" target="#PL000000047166">是邦</ref>也<ptr target="#n382"/>。宰臣<persName key="A008503">杜<lb
+ed="T" n="0806a21"/>鴻漸</persName>奏<persName key="A011240">才</persName>住<placeName key="PL000000047106">龍興寺</placeName>，詔加<placeName key="PL000000047166">朔方</placeName>管內教授大<lb
+ed="T" n="0806a22"/>德<ptr target="#n1834"/>。俾其訓勵，革<name>獫狁</name>之風，循毘尼<ptr type="glossary" target="#g900"/>之道。復<lb
+ed="T" n="0806a23"/>命為國建<placeName key="PL000000047106">法華道場</placeName>。及駕迴，既復<placeName key="PLG00000000013">兩京</placeName>，累<lb
 ed="T" n="0806a24"/>降璽書，末塗尤於大乘頓教留心。<date from-iso="+0766-02-18" key="j20008842001190" to-iso="+0766-12-21"><name>永泰</name>二<lb
-ed="T" n="0806a25"/>年</date>，賊臣<persName key="A011283">僕固懷恩</persName>外招誘蕃戎，內贔金革。<lb
-ed="T" n="0806a26"/><persName key="A011240">才</persName>勸勉毳裘，不誅華族。<date from-iso="+0768-01-28" key="j20015932001976" to-iso="+0769-02-14"><name>大曆</name>三載</date>追入充<lb
-ed="T" n="0806a27"/><placeName key="PL000000042180">章信寺</placeName>大德。時府帥<anchor xml:id="beg0806001"/>虢<anchor xml:id="end0806001"/>國<persName key="A011285">常公</persName>素仰<persName key="A011240">才</persName>名，<lb
-ed="T" n="0806a28"/>與護戎<persName key="A011286">任公</persName>，時親道論。<date from-iso="+0778-02-06" key="j20052552005608" to-iso="+0779-01-25">十三年</date>冬，現身有<lb
+ed="T" n="0806a25"/>年</date>，賊臣<persName key="A011283">僕固懷恩</persName>外招誘蕃戎，內贔金革<ptr target="#n1836"/>。<lb
+ed="T" n="0806a26"/><persName key="A011240">才</persName>勸勉毳裘<ptr type="glossary" target="#g714"/>，不誅<name>華</name>族<ptr target="#n1835"/>。<date from-iso="+0768-01-28" key="j20015932001976" to-iso="+0769-02-14"><name>大曆</name>三載</date>追入充<lb
+ed="T" n="0806a27"/><placeName key="PL000000042180">章信寺</placeName>大德。時府帥<persName key="A011285"><persName><anchor xml:id="beg0806001"/>虢<anchor xml:id="end0806001"/>國</persName><persName>常<roleName>公</roleName></persName></persName>素仰<persName key="A011240">才</persName>名，<lb
+ed="T" n="0806a28"/>與護戎<persName key="A011286">任<roleName>公</roleName></persName>，時親道論。<date from-iso="+0778-10-29" key="j20055202005608" to-iso="+0779-01-25">十三年冬</date>，現身有<lb
 ed="T" n="0806a29"/>疾，至<date key="j20055872005587" when-iso="+0779-01-04">暮冬八日</date>，垂誡門徒已，安坐繩床，<pb ed="T" n="0806b" xml:id="T50.2061.0806b"/><lb
 ed="T" n="0806b01"/>默然歸滅，春秋五十六。越<date from-iso="+0779-02-25" key="j20056392005668" to-iso="+0779-03-26">已未歲二月</date>遷神<lb
-ed="T" n="0806b02"/>於寺<!--找不到此地-->內西北隅。先是有邑子石顒從役于<lb
+ed="T" n="0806b02"/>於寺內西北隅。先是有邑子<ptr type="glossary" target="#g371"/><persName key="A023360">石顒</persName>從役于<lb
 ed="T" n="0806b03"/>城上，其夜未渠，聞管絃之聲自西至，乃天<lb
 ed="T" n="0806b04"/>樂也。異香從空散下，則生淨方之兆也。<persName key="A011240">才</persName><lb
-ed="T" n="0806b05"/>自<placeName key="PL000000042189">長安</placeName>而旋于塞上，既受<persName key="A011285"><anchor xml:id="begd1e26692"/>虢<anchor xml:id="endd1e26692"/>公</persName>知遇，大<lb
-ed="T" n="0806b06"/>營福業，成此精廬，皆<persName key="A011240">才</persName>之敦勸矣。勅諡大<lb
-ed="T" n="0806b07"/>師曰<persName key="A011240">能覺</persName>，仍賜紫衣一副，追遠之榮，聲聞<lb
-ed="T" n="0806b08"/><placeName key="PL000000000129">塞外</placeName>。<date notBefore-iso="+0901-05-18" key="j20502812051391" notAfter-iso="+0904-06-01"><name>天復</name>中</date><anchor xml:id="beg0806002"/>廷<anchor xml:id="end0806002"/>尉評<persName key="A011245">王儋</persName>為碑頌德云。</p>
+ed="T" n="0806b05"/>自<placeName key="PL000000042189">長安</placeName>而旋于塞上<ptr type="glossary" target="#g715"/>，既受<persName key="A011285"><anchor xml:id="begd1e26692"/>虢<anchor xml:id="endd1e26692"/>公</persName>知遇，大<lb
+ed="T" n="0806b06"/>營福業，成此精廬，皆<persName key="A011240">才</persName>之敦勸矣。勅謚大<lb
+ed="T" n="0806b07"/>師曰<persName key="A011240">能覺</persName>，仍賜紫衣一副，追遠<ptr type="glossary" target="#g716"/>之榮，聲聞<lb
+ed="T" n="0806b08"/>塞外。<date notBefore-iso="+0901-05-18" key="j20502812051391" notAfter-iso="+0904-06-01"><name>天復</name>中</date><anchor xml:id="beg0806002"/>廷<anchor xml:id="end0806002"/>尉評<persName key="A011245">王儋</persName>為碑頌德云。</p>
+    <linkGrp>
+        <link targets="#0806a08 #0806a08"/>
+        <ptr target="#A011240" type="person"/>
+        <ptr target="#PL000000027118" type="place"/>
+    </linkGrp>
     <linkGrp>
         <link targets="#0806a10 #0806a10"/>
         <ptr target="#A011240" type="person"/>
@@ -48,26 +53,30 @@ ed="T" n="0806b08"/><placeName key="PL000000000129">塞外</placeName>。<date n
         <link targets="#0806a14 #0806a14"/>
         <ptr target="#A011240" type="person"/>
         <ptr target="#PL000000027023" type="place"/>
-        <ptr target="#j19909741991338" type="time"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0806a14 #0806a15"/>
         <ptr target="#A011240" type="person"/>
         <ptr target="#A011242" type="person"/>
-        <ptr target="#PL000000042180" type="place"/>
-        <ptr target="#j19909741991338" type="time"/>
+        <ptr target="#PL000000042147" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0806a15 #0806a15"/>
         <ptr target="#A011240" type="person"/>
         <ptr target="#A011243" type="person"/>
         <ptr target="#PL000000042225" type="place"/>
-        <ptr target="#j19909741991338" type="time"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0806a17 #0806a20"/>
         <ptr target="#A000291" type="person"/>
         <ptr target="#A011240" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0806a20 #0806a20"/>
+        <ptr target="#A004378" type="person"/>
+        <ptr target="#A008503" type="person"/>
+        <ptr target="#PL000000047166" type="place"/>
+        <ptr target="#j19974111997556" type="time"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0806a20 #0806a22"/>
@@ -76,27 +85,43 @@ ed="T" n="0806b08"/><placeName key="PL000000000129">塞外</placeName>。<date n
         <ptr target="#A011240" type="person"/>
     </linkGrp>
     <linkGrp>
-        <link targets="#0806a23 #0806a24"/>
+        <link targets="#0806a21 #0806a22"/>
         <ptr target="#A011240" type="person"/>
-        <ptr target="#PLG00000000013" type="place"/>
+        <ptr target="#PL000000047106" type="place"/>
+        <ptr target="#j19974111997556" type="time"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0806a24 #0806a26"/>
         <ptr target="#A011240" type="person"/>
-        <ptr target="#A011283" type="person"/>
         <ptr target="#j20008842001190" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0806a26 #0806a27"/>
+        <ptr target="#A011240" type="person"/>
+        <ptr target="#PL000000042180" type="place"/>
+        <ptr target="#j20015932001976" type="time"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0806a26 #0806a28"/>
         <ptr target="#A011240" type="person"/>
         <ptr target="#A011285" type="person"/>
         <ptr target="#A011286" type="person"/>
-        <ptr target="#PL000000042180" type="place"/>
         <ptr target="#j20015932001976" type="time"/>
     </linkGrp>
     <linkGrp>
-        <link targets="#0806b04 #0806b06"/>
+        <link targets="#0806a28 #0806b01"/>
         <ptr target="#A011240" type="person"/>
-        <ptr target="#A011285" type="person"/>
+        <ptr target="#j20055872005587" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0806a28 #0806b04"/>
+        <ptr target="#A023360" type="person"/>
+        <ptr target="#PL000000042189" type="place"/>
+        <ptr target="#j20055872005587" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0806b08 #0806b08"/>
+        <ptr target="#A011245" type="person"/>
+        <ptr target="#j20502812051391" type="time"/>
     </linkGrp>
 </div>

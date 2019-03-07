@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" type="譯經" xml:id="gsz0719b14shiHuiZhi"><lb
-ed="T" n="0719b14"/><anchor n="T.50.2061.0719b14"/><head><date from-iso="+0689-12-21" key="j19730671978610" to-iso="+0705-02-24">周</date><placeName key="PL000000023657">洛京佛授記寺</placeName><persName key="A001727">慧智</persName>傳（<persName key="A000657">明佺</persName>）<ptr target="#n122"/></head><p><lb
+ed="T" n="0719b14"/><anchor n="T.50.2061.0719b14"/><head><date from-iso="+0689-12-21" key="j19730671978610" to-iso="+0705-02-24">周</date><placeName key="PL000000023657"><placeName>洛京</placeName><placeName>佛授記寺</placeName></placeName><persName key="A001727">慧智</persName>傳（<persName key="A000657">明佺</persName>）<ptr rend="display:none;" target="#n122"/></head><p><lb
 ed="T" n="0719b15"/><persName key="A001727">釋慧智</persName>，其父<placeName key="PL000000048207">印度</placeName>人，婆羅門<ptr rend="display:none;" type="glossary" target="#g117"/>種，因使遊<ref type="place" target="#PL000000000106">此<lb
 ed="T" n="0719b16"/>方</ref>而生於<persName key="A001727">智</persName>。少而精勤，有出俗之志。<date from-iso="+0649-07-14" key="j19582971970884" to-iso="+0683-12-30"><name>天皇</name><lb
 ed="T" n="0719b17"/>時</date>從長年婆羅門<ptr rend="display:none;" type="glossary" target="#g117"/>僧，奉勅度為弟子。本既<lb

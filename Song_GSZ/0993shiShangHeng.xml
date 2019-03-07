@@ -1,28 +1,32 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" type="明律" xml:id="gsz0806c11shiShangHeng"><lb
-ed="T" n="0806c11"/><anchor n="T.50.2061.0806c11"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date>撫州景雲寺<persName key="A011316">上恒</persName>傳<ptr target="#n1489"/></head><p><lb
-ed="T" n="0806c12"/><persName key="A011316">釋上恒</persName>，姓饒氏，<placeName key="PL000000019880">臨川南城</placeName>人也。童而有知，<lb
-ed="T" n="0806c13"/><date key="j19960881996452" from-iso="+0753-01-01" to-iso="+0753-12-31">志學之年</date>，發心捨家，從母黨<ptr target="#n481"/>在空門而求<lb
-ed="T" n="0806c14"/>攝受，教誦佛典，日計千言。壯齒，從<placeName key="PL000000028928">南嶽</placeName><persName key="A011293">大<lb
-ed="T" n="0806c15"/>圓<roleName>大師</roleName></persName>納戒<ptr target="#n482"/>，而聽涉精苦。<date notBefore-iso="+0766-12-22" key="j20011912005747" notAfter-iso="+0779-06-13"><name>大曆</name>中</date>，不去父<lb
-ed="T" n="0806c16"/>母之邦，請隷于<placeName key="PL000000019811">景雲寺</placeName>，修習無虧，亟淹年<lb
-ed="T" n="0806c17"/>序。《南山事鈔》，講貫<ptr type="glossary" target="#g1247"/>尤專。<date notBefore-iso="+0785-02-18" key="j20078242009652" notAfter-iso="+0790-02-20"><name>貞元</name>初</date>，徙居<anchor xml:id="beg0806sgsz5"/>豫<anchor xml:id="end0806sgsz5"/>章<placeName key="PL000000018582">龍<lb
-ed="T" n="0806c18"/>興寺</placeName>，與<placeName key="PL000000018775">廬阜</placeName><persName key="A008824">法真</persName>、<placeName key="PL000000014411">天台</placeName><persName key="A001984">靈祐</persName>、<placeName key="PL000000027429">荊門</placeName><persName key="A011321">法裔</persName>、<placeName key="PL000000018831">興果</placeName><lb
-ed="T" n="0806c19"/><persName key="A011324">神湊</persName>、<placeName key="PL000000018931">建昌</placeName><persName key="A011327">慧璡</persName>遊也，塤箎合韻，水乳相資。法<lb
-ed="T" n="0806c20"/>付王臣，故與<persName key="A011329">姜相國公輔</persName>、<persName key="A004865">顏魯公真卿</persName>、<persName key="A011331">楊<anchor xml:id="beg0806sgsz7"/>憑<anchor xml:id="end0806sgsz7"/></persName>、<lb
-ed="T" n="0806c21"/><persName key="A009540">韋丹</persName>四君友善。提振禁防，故講《四分律》，而<lb
-ed="T" n="0806c22"/>遷善滅罪者無央數眾。坐甘露壇二十許<lb
-ed="T" n="0806c23"/>年，十有八會，救拔群生，剡浮東震，男女得度<lb
-ed="T" n="0806c24"/>者一萬五千餘人。<date from-iso="+0581-02-22" key="j19333191936714" to-iso="+0590-06-10"><name>元和</name>十年</date>，微云乖悆，<date from-iso="+0815-02-17" key="j20187802019133" to-iso="+0816-02-05">十月<lb
-ed="T" n="0806c25"/><anchor xml:id="beg0806sgsz9"/>己<anchor xml:id="end0806sgsz9"/>亥</date>，化于廬山<placeName key="PL000000018801">東林寺</placeName>，歸全身于南岡<!--找不到此地-->石墳。<lb
+ed="T" n="0806c11"/><anchor n="T.50.2061.0806c11"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date><placeName key="PL000000019811"><placeName>撫州</placeName><placeName>景雲寺</placeName></placeName><persName key="A011316">上恒</persName>傳<ptr target="#n1489"/></head><p><lb
+ed="T" n="0806c12"/><persName key="A011316">釋上恒</persName>，姓<name>饒</name>氏，<placeName key="PL000000019880"><placeName>臨川</placeName><placeName>南城</placeName></placeName>人也。童而有知，<lb
+ed="T" n="0806c13"/><date key="j19960881996452" from-iso="+0753-01-01" to-iso="+0753-12-31">志學之年</date><ptr type="glossary" target="#g1443"/>，發心捨家，從母黨<ptr target="#n481"/>在空門而求<lb
+ed="T" n="0806c14"/>攝受，教誦佛典，日計千言。壯齒<ptr type="glossary" target="#g755"/>，從<placeName key="PL000000028928">南嶽</placeName><persName key="A011293">大<lb
+ed="T" n="0806c15"/>圓<roleName>大師</roleName></persName>納戒<ptr target="#n482"/>而聽涉精苦。<date notBefore-iso="+0766-12-22" key="j20011912005747" notAfter-iso="+0779-06-13"><name>大曆</name>中</date><ptr target="#n1838"/>，不去父<lb
+ed="T" n="0806c16"/>母之邦，請隷于<placeName key="PL000000019811">景雲寺</placeName>。修習無虧，亟淹<ptr type="glossary" target="#g745"/>年<lb
+ed="T" n="0806c17"/>序。《南山事鈔》<ptr target="#n1290"/>，講貫<ptr rend="display:none;" type="glossary" target="#g1247"/>尤專。<date notBefore-iso="+0785-02-18" key="j20078242009652" notAfter-iso="+0790-02-20"><name>貞元</name>初</date><ptr target="#n1840"/>，徙居<placeName key="PL000000018593"><placeName><anchor xml:id="beg0806sgsz6"/>豫<anchor xml:id="end0806sgsz6"/>章</placeName><placeName>龍<lb
+ed="T" n="0806c18"/>興寺</placeName></placeName>，與<placeName key="PL000000018775">廬阜</placeName><persName key="A023361">法真</persName><ptr target="#n1841"/>、<placeName key="PL000000014411">天台</placeName><persName key="A023362">靈祐</persName>、<placeName key="PL000000027429">荊門</placeName><persName key="A011321">法裔</persName><ptr target="#n1842"/>、<placeName key="PL000000018831">興果</placeName><lb
+ed="T" n="0806c19"/><persName key="A011324">神湊</persName>、<placeName key="PL000000018931">建昌</placeName><persName key="A011327">慧璡</persName>遊也<ptr target="#n1839"/>，塤箎<ptr type="glossary" target="#g1130"/>合韻，水乳相資。法<lb
+ed="T" n="0806c20"/>付王臣，故與<persName key="A011329">姜<roleName>相國</roleName>公輔</persName>、<persName key="A004865"><persName>顏</persName><persName>魯公</persName><persName>真卿</persName></persName>、<persName key="A011331">楊<anchor xml:id="beg0806sgsz7"/>憑<anchor xml:id="end0806sgsz7"/></persName>、<lb
+ed="T" n="0806c21"/><persName key="A009540">韋丹</persName>四君友善。提振禁防，故講《四分律》<ptr target="#n70"/>，而<lb
+ed="T" n="0806c22"/>遷善滅罪者無央數<ptr type="glossary" target="#g1166"/>眾。坐<placeName key="PL000000018804">甘露壇</placeName>二十許<lb
+ed="T" n="0806c23"/>年，十有八會，救拔群生，<placeName key="PL000000000083"><placeName>剡浮</placeName><placeName>東震</placeName></placeName>，男女得度<lb
+ed="T" n="0806c24"/>者一萬五千餘人<ptr target="#n1844"/>。<date from-iso="+0815-02-17" key="j20187802019133" to-iso="+0816-02-05"><name>元和</name>十年</date>，微云乖悆<ptr type="glossary" target="#g220"/>，<date when-iso="+0815-11-10" key="j20190462019046">十月<lb
+ed="T" n="0806c25"/><anchor xml:id="beg0806sgsz9"/>己<anchor xml:id="end0806sgsz9"/>亥</date>，化于<placeName key="PL000000018801"><placeName>廬山</placeName><placeName>東林寺</placeName></placeName><ptr target="#n1843"/>，歸全身于南岡石墳。<lb
 ed="T" n="0806c26"/>住世七十七年，安居五十五夏<ptr target="#n483"/>。門人等樹松<lb
-ed="T" n="0806c27"/>柏，<placeName key="PL000000003793">太原</placeName><persName key="A004029">白居易</persName>為石塔銘云。</p>
+ed="T" n="0806c27"/>柏，<placeName key="PL000000003794">太原</placeName><persName key="A004029">白居易</persName>為石塔銘云。</p>
     <linkGrp>
-        <link targets="#0806c13 #0806c15"/>
+        <link targets="#0806c12 #0806c12"/>
+        <ptr target="#A011316" type="person"/>
+        <ptr target="#PL000000019880" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0806c14 #0806c15"/>
         <ptr target="#A011316" type="person"/>
         <ptr target="#A011293" type="person"/>
         <ptr target="#PL000000028928" type="place"/>
-        <ptr target="#j19960881996452" type="time"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0806c15 #0806c17"/>
@@ -33,17 +37,47 @@ ed="T" n="0806c27"/>柏，<placeName key="PL000000003793">太原</placeName><per
     <linkGrp>
         <link targets="#0806c17 #0806c19"/>
         <ptr target="#A011316" type="person"/>
-        <ptr target="#A008824" type="person"/>
-        <ptr target="#A001984" type="person"/>
+        <ptr target="#A023361" type="person"/>
+        <ptr target="#A023362" type="person"/>
         <ptr target="#A011321" type="person"/>
         <ptr target="#A011324" type="person"/>
         <ptr target="#A011327" type="person"/>
         <ptr target="#j20078242009652" type="time"/>
     </linkGrp>
     <linkGrp>
+        <link targets="#0806c17 #0806c19"/>
+        <ptr target="#A011316" type="person"/>
+        <ptr target="#PL000000018593" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0806c17 #0806c19"/>
+        <ptr target="#A023361" type="person"/>
+        <ptr target="#PL000000018775" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0806c17 #0806c19"/>
+        <ptr target="#A023362" type="person"/>
+        <ptr target="#PL000000014411" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0806c17 #0806c19"/>
+        <ptr target="#A011321" type="person"/>
+        <ptr target="#PL000000027429" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0806c17 #0806c19"/>
+        <ptr target="#A011324" type="person"/>
+        <ptr target="#PL000000018831" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0806c17 #0806c19"/>
+        <ptr target="#A011327" type="person"/>
+        <ptr target="#PL000000018931" type="place"/>
+    </linkGrp>
+    <linkGrp>
         <link targets="#0806c17 #0806c18"/>
         <ptr target="#A011316" type="person"/>
-        <ptr target="#PL000000018582" type="place"/>
+        <ptr target="#PL000000018593" type="place"/>
         <ptr target="#j20078242009652" type="time"/>
     </linkGrp>
     <linkGrp>
@@ -56,9 +90,19 @@ ed="T" n="0806c27"/>柏，<placeName key="PL000000003793">太原</placeName><per
         <ptr target="#j20078242009652" type="time"/>
     </linkGrp>
     <linkGrp>
+        <link targets="#0806c22 #0806c22"/>
+        <ptr target="#A011316" type="person"/>
+        <ptr target="#PL000000018804" type="place"/>
+    </linkGrp>
+    <linkGrp>
         <link targets="#0806c24 #0806c25"/>
         <ptr target="#A011316" type="person"/>
         <ptr target="#PL000000018801" type="place"/>
-        <ptr target="#j20187802019133" type="time"/>
+        <ptr target="#j20190462019046" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0806c27 #0806c27"/>
+        <ptr target="#A004029" type="person"/>
+        <ptr target="#PL000000003794" type="place"/>
     </linkGrp>
 </div>

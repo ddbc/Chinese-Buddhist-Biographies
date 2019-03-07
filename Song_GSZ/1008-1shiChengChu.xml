@@ -1,49 +1,60 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" type="明律" xml:id="gsz0810c23shiChengChu"><lb
-ed="T" n="0810c23"/><anchor n="T.50.2061.0810c23"/><head><date from-iso="+0951-02-18" key="j20684542071729" to-iso="+0960-02-06">周</date>東京相國寺<persName key="A011673">澄楚</persName>傳</head><p><lb
-ed="T" n="0810c24"/><persName key="A011673">釋澄楚</persName>，姓宗氏，不知何許人也。爰祖暨考，<lb
-ed="T" n="0810c25"/>偕賁丘園，高蹈不仕。母<persName key="A019412">趙<roleName>氏</roleName></persName>妊<persName key="A011673">楚</persName>也，忽畏<lb
+ed="T" n="0810c23"/><anchor n="T.50.2061.0810c23"/><head><date from-iso="+0951-02-18" key="j20684542071729" to-iso="+0960-02-06">周</date><placeName key="PL000000023307"><placeName>東京</placeName><placeName>相國寺</placeName></placeName><persName key="A011673">澄楚</persName>傳</head><p><lb
+ed="T" n="0810c24"/><persName key="A011673">釋澄楚</persName>，姓<name>宗</name>氏，不知何許人也。爰祖暨考，<lb
+ed="T" n="0810c25"/>偕賁丘園<ptr type="glossary" target="#g1217"/>，高蹈不仕。母<persName key="A019412">趙<roleName>氏</roleName></persName>妊<persName key="A011673">楚</persName>也，忽畏<lb
 ed="T" n="0810c26"/>羶臊之臭。及乎誕生之夕，光爛充室，隣落咸<lb
-ed="T" n="0810c27"/>驚。洎當<date key="j20479532048317" from-iso="+0895-01-01" to-iso="+0895-12-31">七歲</date>，親黨携<persName key="A011673">之</persName>入寺，見佛像，輒<lb
-ed="T" n="0810c28"/>嗟歎而作<anchor xml:id="beg0810sgsz15"/>禮<anchor xml:id="end0810sgsz15"/>。歸家問父曰：「唯佛獨爾，餘者如<lb
-ed="T" n="0810c29"/>何？」父曰：「蠢動皆佛，何況人矣。」<persName key="A011673">楚</persName>曰：「<persName key="A011673">兒</persName>願學<pb ed="T" n="0811a" xml:id="T50.2061.0811a"/><lb
-ed="T" n="0811a01"/>佛，聊報二親劬勞。」其父默而許旃<ptr type="glossary" target="#g1050"/>。至<date key="j20490492049413" from-iso="+0898-01-01" to-iso="+0898-12-31">十歲</date>，<lb
+ed="T" n="0810c27"/>驚。洎當<date key="j20479862048339" from-iso="+0895-02-03" to-iso="+0896-01-22">七歲</date>，親黨携<ref type="person" target="#A011673">之</ref>入寺，見佛像，輒<lb
+ed="T" n="0810c28"/>嗟歎而作<anchor xml:id="beg0810sgsz15"/>禮<anchor xml:id="end0810sgsz15"/>。歸家問父曰：「唯佛獨爾？餘者如<lb
+ed="T" n="0810c29"/>何？」父曰：「蠢動<ptr type="glossary" target="#g962"/>皆佛，何況人矣？」<persName key="A011673">楚</persName>曰：「<ref type="person" target="#A011673">兒</ref>願學<pb ed="T" n="0811a" xml:id="T50.2061.0811a"/><lb
+ed="T" n="0811a01"/>佛，聊報二親劬勞<ptr type="glossary" target="#g450"/>。」其父默而許旃<ptr rend="display:none;" type="glossary" target="#g1050"/>。至<date key="j20490782049461" from-iso="+0898-01-30" to-iso="+0899-02-17">十歲</date>，<lb
 ed="T" n="0811a02"/>於<placeName key="PL000000023307">相國寺</placeName><anchor xml:id="beg0811sgsz1"/>禮<anchor xml:id="end0811sgsz1"/><persName key="A011675">智明</persName>為師。未幾，有童子聚<lb
-ed="T" n="0811a03"/>戲而招誘之，<persName key="A011673">楚</persName>曰：「汝何愚騃好嬉戲耶？且<lb
-ed="T" n="0811a04"/>雪山善財亦童子，還如是否？」旁有聞者奇<lb
-ed="T" n="0811a05"/>之曰：「<persName key="A011673">子</persName>異日成法門偉器必矣。」受具已來，<lb
-ed="T" n="0811a06"/>習新章《律部》，獨能<anchor xml:id="beg0811001"/><choice resp="sgsz"><sic>輒</sic><corr>趣</corr></choice><anchor xml:id="end0811001"/>入毘奈耶窟穴。然其<lb
+ed="T" n="0811a03"/>戲而招誘之，<persName key="A011673">楚</persName>曰：「汝何愚騃<ptr type="glossary" target="#g1308"/>！好嬉戲耶？且<lb
+ed="T" n="0811a04"/><placeName>雪山</placeName><persName key="A007249">善財</persName>亦童子，還如是否？」旁有聞者奇<lb
+ed="T" n="0811a05"/>之曰：「<ref type="person" target="#A011673">子</ref>異日成法門偉器必矣。」受具已來，<lb
+ed="T" n="0811a06"/>習新章律部<ptr target="#n902"/>，獨能<anchor xml:id="beg0811001"/><choice resp="sgsz"><sic>輒</sic><corr>趣</corr></choice><anchor xml:id="end0811001"/>入毘奈耶<ptr target="#n900"/>窟穴。然其<lb
 ed="T" n="0811a07"/>擊難酬答，露牙伸爪，時號<persName key="A011673">律虎</persName>焉。王公大<lb
 ed="T" n="0811a08"/>人請益者，<anchor xml:id="beg0811sgsz3"/>日<anchor xml:id="end0811sgsz3"/>且眾矣。<persName key="A006579">晉高祖</persName>聞而欽仰，詔入<lb
 ed="T" n="0811a09"/>內道場，賜紫袈裟，尋署大師，號<persName key="A011673">真法</persName>焉。自<lb
 ed="T" n="0811a10"/>此皇宮妃主有慕法者求出家，命<persName key="A011673">楚</persName>落髮<lb
-ed="T" n="0811a11"/>度戒。表裏氷霜，更無他物，命為《新章律》宗<lb
+ed="T" n="0811a11"/>度戒。表裏氷霜<ptr target="#n2131"/>，更無他物，命為《新章律》宗<lb
 ed="T" n="0811a12"/>主焉。以<date key="j20716502071650" when-iso="+0959-11-19"><name>顯德</name>六年十月十一日</date>無疾而終，<lb
 ed="T" n="0811a13"/>首北面西，示佛涅槃相也。俗齡七十一，僧夏<lb
 ed="T" n="0811a14"/>五十。始末臨壇度僧尼八千餘人。門人<persName key="A011677">慧照</persName><lb
-ed="T" n="0811a15"/>等依<placeName key="PL000000055436">西域</placeName>法焚之，得碎身，分構甎塔緘<lb
-ed="T" n="0811a16"/>藏之。左街首座<persName key="A011679">悟皎</persName>作《舍利塔記》焉。</p>
-    <p xml:id="pT50p0811a1701"><lb
-ed="T" n="0811a17"/>系曰：<persName key="A011673">楚師</persName>明律，時號宗主者何？通曰：「律有<lb
+ed="T" n="0811a15"/>等依<placeName key="PL000000055436">西域</placeName>法焚之，得碎身<ptr type="glossary" target="#g963"/>，分構甎塔緘<lb
+ed="T" n="0811a16"/>藏之。左街首座<persName key="A011679">悟皎</persName>作《舍利塔記》焉。</p><p xml:id="pT50p0811a1701"><lb
+ed="T" n="0811a17"/>系曰：<persName key="A011673">楚<roleName>師</roleName></persName>明律，時號宗主者何？通曰：「律有<lb
 ed="T" n="0811a18"/>三宗，<persName key="A000747">礪</persName>、<persName key="A001899">素</persName>、<persName key="A001519">宣</persName>是歟。宗各有主，故云也。」觀夫是<lb
-ed="T" n="0811a19"/>名也，豈無稽古乎？通曰：「宗主二字，出《阿含<lb
-ed="T" n="0811a20"/>經》也。」</p><milestone unit="page" rend="pagebreak"/>
+ed="T" n="0811a19"/>名也，豈無稽古<ptr type="glossary" target="#g965"/>乎？通曰：「『宗主』二字，出《阿含<lb
+ed="T" n="0811a20"/>經》也。<ptr target="#n2132"/>」</p><milestone unit="page" rend="pagebreak"/>
     <linkGrp>
         <link targets="#0810c25 #0810c27"/>
         <ptr target="#A011673" type="person"/>
         <ptr target="#A019412" type="person"/>
     </linkGrp>
     <linkGrp>
+        <link targets="#0810c27 #0810c27"/>
+        <ptr target="#A011673" type="person"/>
+        <ptr target="#A019412" type="person"/>
+        <ptr target="#j20479862048339" type="time"/>
+    </linkGrp>
+    <linkGrp>
         <link targets="#0811a01 #0811a02"/>
         <ptr target="#A011673" type="person"/>
         <ptr target="#A011675" type="person"/>
         <ptr target="#PL000000023307" type="place"/>
-        <ptr target="#j20490492049413" type="time"/>
+        <ptr target="#j20490782049461" type="time"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0811a08 #0811a09"/>
         <ptr target="#A011673" type="person"/>
         <ptr target="#A006579" type="person"/>
+        <ptr target="#PL000000023327" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0811a12 #0811a12"/>
+        <ptr target="#A011673" type="person"/>
+        <ptr target="#j20716502071650" type="time"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0811a14 #0811a15"/>

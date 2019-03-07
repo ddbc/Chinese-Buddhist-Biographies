@@ -1,26 +1,30 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" type="感通" xml:id="gsz0840b04shiFaCang"><lb
-ed="T" n="0840b04"/><anchor n="T.50.2061.0840b04"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date><anchor xml:id="beg0840002"/>江州廬山<anchor xml:id="end0840002"/>五老峯<persName key="A012647">法藏</persName>傳</head><p><lb
-ed="T" n="0840b05"/><persName key="A012647">釋法藏</persName>，俗姓周氏，<placeName key="PL000000019349">南康</placeName>人也。穉齡爽俊，始研<lb
+ed="T" n="0840b04"/><anchor n="T.50.2061.0840b04"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date><placeName key="PL000000018780"><placeName><anchor xml:id="beg0840002"/>江州</placeName><placeName>廬山<anchor xml:id="end0840002"/></placeName><placeName>五老峯</placeName></placeName><persName key="A012647">法藏</persName>傳</head><p><lb
+ed="T" n="0840b05"/><persName key="A012647">釋法藏</persName>，俗姓<name>周</name>氏，<placeName key="PL000000019114">南康</placeName>人也。穉齡爽俊，始研<lb
 ed="T" n="0840b06"/>尋史籍，而於醫方明得其工巧，同<persName key="A012648">支法存</persName><lb
 ed="T" n="0840b07"/>之妙用焉。有門僧臥疾，幾云不救，<persName key="A012647">藏</persName>切<lb
-ed="T" n="0840b08"/>脈處方，信宿平復。其僧多接談玄，自爾萌<lb
-ed="T" n="0840b09"/>出塵之意。年已長矣，懇辭親，投本郡平田山<lb
-ed="T" n="0840b10"/><placeName key="PL000000019336">寶積院</placeName><persName key="A012663">從願師</persName>下受教，納戒。後遊謁<persName key="A003623">大寂<lb
-ed="T" n="0840b11"/>禪師</persName>，言喻若石之投水。翛然北下<placeName key="PL000000018775">廬山</placeName>登<lb
-ed="T" n="0840b12"/><placeName key="PL000000018780">五老峯</placeName>，愛其靈異，獨止寒林，<anchor xml:id="begd1e35900"/><choice resp="sgsz"><sic>釆</sic><corr>采</corr></choice><anchor xml:id="endd1e35900"/>橡栗，掬溪<lb
-ed="T" n="0840b13"/>㵎，聊延形氣，而止數年。有二仙乘雲而來，<lb
+ed="T" n="0840b08"/>脈處方，信宿<ptr type="glossary" target="#g499"/>平復。其僧多接談玄，自爾萌<lb
+ed="T" n="0840b09"/>出塵之意。年已長矣，懇辭親，投本郡<placeName key="PL000000019336"><placeName>平田山</placeName><lb
+ed="T" n="0840b10"/><placeName>寶積院</placeName></placeName><persName key="A012663">從願<roleName>師</roleName></persName>下受教，納戒。後遊謁<persName key="A003623">大寂<lb
+ed="T" n="0840b11"/><roleName>禪師</roleName></persName>，言喻若石之投水。翛然<ptr type="glossary" target="#g501"/>北下<placeName key="PL000000018775">廬山</placeName>登<lb
+ed="T" n="0840b12"/><placeName key="PL000000018780">五老峯</placeName>，愛其靈異，獨止寒林，<anchor xml:id="beg0840sgsz1"/><choice resp="sgsz"><sic>釆</sic><corr>采</corr></choice><anchor xml:id="end0840sgsz1"/>橡栗，掬溪<lb
+ed="T" n="0840b13"/>㵎，聊延形氣<ptr type="glossary" target="#g1756"/>，而止數年。有二仙乘雲而來，<lb
 ed="T" n="0840b14"/>終日談論，或留宵宿，或經月不來，或繼日<lb
 ed="T" n="0840b15"/>而至。他人有見者，旁說不同。及乎學僧臻<lb
 ed="T" n="0840b16"/>萃，全無蹤跡。又一日告辭<persName key="A012647">藏</persName>云：「且歸山去，<lb
-ed="T" n="0840b17"/>師當好住。」由是道且馨香，檀越共營一院。<lb
-ed="T" n="0840b18"/><date notBefore-iso="+0825-02-02" key="j20224182023128" notAfter-iso="+0827-01-13"><name>寶<anchor xml:id="beg0840003"/>曆<anchor xml:id="end0840003"/></name>中</date>示滅，年八十二。其年三月四日入<lb
-ed="T" n="0840b19"/>塔云。</p>
-    <p xml:id="pT50p0840b2001"><lb
+ed="T" n="0840b17"/><ref type="person" target="#A012647">師</ref>當好住。」由是道且馨香，檀越共營一院。<lb
+ed="T" n="0840b18"/><date notBefore-iso="+0825-02-02" key="j20224182023191" notAfter-iso="+0827-03-17"><name>寶<anchor xml:id="beg0840003"/>曆<anchor xml:id="end0840003"/></name>中</date>示滅，年八十二<ptr target="#n2634"/>。其年三月四日入<lb
+ed="T" n="0840b19"/>塔云。</p><p xml:id="pT50p0840b2001"><lb
 ed="T" n="0840b20"/>系曰：<persName key="A012647">藏</persName>隱<placeName key="PL000000018780">五老峯</placeName>時，二仙來終日談論者，何？<lb
-ed="T" n="0840b21"/>通曰：「昔<persName key="A002016">劉向</persName>輯列仙云：『若干人見于內典<lb
-ed="T" n="0840b22"/>歟。』又<persName key="A012668">裴</persName>、<persName key="A012666">周</persName>、<persName key="A011267">桐栢</persName>三真人弟子，各半學佛法，可<lb
-ed="T" n="0840b23"/>非來問道乎？詩中草蟲之應阜螽同也。」</p>
+ed="T" n="0840b21"/>通曰：「昔<persName key="A002016">劉向</persName>輯《列仙》云：『若干人見于內典<lb
+ed="T" n="0840b22"/>歟。』又<persName key="A012668">裴</persName>、<persName key="A009800">周</persName>、<persName key="A011267">桐栢</persName>三真人弟子，各半學佛法<ptr target="#n2635"/>，可<lb
+ed="T" n="0840b23"/>非來問道乎？《詩》中草蟲之應阜螽<ptr target="#n2636"/>同也。」</p>
+    <linkGrp>
+        <link targets="#0840b05 #0840b05"/>
+        <ptr target="#A012647" type="person"/>
+        <ptr target="#PL000000019114" type="place"/>
+    </linkGrp>
     <linkGrp>
         <link targets="#0840b09 #0840b10"/>
         <ptr target="#A012647" type="person"/>
@@ -36,5 +40,11 @@ ed="T" n="0840b23"/>非來問道乎？詩中草蟲之應阜螽同也。」</p>
         <link targets="#0840b11 #0840b17"/>
         <ptr target="#A012647" type="person"/>
         <ptr target="#PL000000018780" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0840b18 #0840b18"/>
+        <ptr target="#A012647" type="person"/>
+        <ptr target="#PL000000018780" type="place"/>
+        <ptr target="#j20224182023191" type="time"/>
     </linkGrp>
 </div>

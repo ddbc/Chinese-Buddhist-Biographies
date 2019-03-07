@@ -2,17 +2,17 @@
 <div xmlns="http://www.tei-c.org/ns/1.0" type="習禪" xml:id="gsz0784b20shiYuanShao"><lb
 n="0784b20" ed="T"/><anchor n="T.50.2061.0784b20"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date><anchor xml:id="beg0784002" n="0784002"/><supplied resp="sgsz">今</supplied>東京<anchor xml:id="end0784002"/><placeName key="PL000000023413">封禪寺</placeName><persName key="A010654">圓紹</persName>傳</head><p><lb
 ed="T" n="0784b21"/><persName key="A010654">釋圓紹</persName>，姓<name>孫</name>氏，其先<placeName key="PL000000012060">富陽</placeName>人也，祖官于<placeName key="PL000000024377">南<lb
-ed="T" n="0784b22"/>燕</placeName>，因為<placeName key="PL000000024153">滑臺白馬</placeName>人焉。年及識環<ptr type="glossary" target="#g1628"/>，天然俊<lb
+ed="T" n="0784b22"/>燕</placeName>，因為<placeName key="PL000000024153"><placeName>滑臺</placeName><placeName>白馬</placeName></placeName>人焉。年及識環<ptr type="glossary" target="#g1628"/>，天然俊<lb
 ed="T" n="0784b23"/>邁。隣兒戲玩，我且恬然；群從追隨，我惟閑靜。<lb
 ed="T" n="0784b24"/>年當<date key="j20234812023846" from-iso="+0828-01-01" to-iso="+0828-12-31">十八</date>，方遂志出家，師事<placeName key="PL000000024131">明福寺</placeName><persName key="A023033">正覺<lb
 ed="T" n="0784b25"/><roleName>禪師</roleName></persName>。<persName key="A023033">覺</persName>見而異之，訓諸徒弟，獨許<persName key="A010654">紹</persName>耳，曰：<lb
-ed="T" n="0784b26"/>「真空門之偉器也。」至<date key="j20249422025307" from-iso="+0832-01-01" to-iso="+0832-12-31">年二十二</date>，於<placeName key="PL000000057258">相州義檀</placeName><lb
+ed="T" n="0784b26"/>「真空門之偉器也。」至<date key="j20249422025307" from-iso="+0832-01-01" to-iso="+0832-12-31">年二十二</date>，於<placeName key="PL000000057258"><placeName>相州</placeName><placeName>義檀</placeName></placeName><lb
 ed="T" n="0784b27"/><persName key="A010656">香燈<roleName>律師</roleName></persName>邊受具。登即尋師訪道，效祖參<lb
 ed="T" n="0784b28"/>玄，二翼<ptr type="glossary" target="#g1629"/>之餘，一盂之外，必無他物。唯誓禪<lb
 ed="T" n="0784b29"/>宗立雪傳衣<ptr target="#n1687"/>，是其素望也。至于<placeName key="PL000000028665">三湘</placeName><ptr target="#n1690"/>、<placeName key="PL000000000191">五嶺</placeName>、<pb ed="T" n="0784c" xml:id="T50.2061.0784c"/><lb
-ed="T" n="0784c01"/><placeName key="PL000000034805">二蜀</placeName>、<ref type="place" target="#PL000000042189 #PL000000023581">兩京</ref>，凡曰叢林，一皆參<anchor xml:id="beg0784sgsz28"/>禮<anchor xml:id="end0784sgsz28"/>。既探至賾<ptr type="glossary" target="#g331"/>，<lb
-ed="T" n="0784c02"/>頓了心機，乃挂錫於<placeName key="PL000000023412">夷門</placeName>，即<placeName key="PL000000023413">倉垣水南寺</placeName>，<lb
-ed="T" n="0784c03"/>今為<placeName key="PL000000023413">開寶</placeName>也。<date from-iso="+0856-02-14" key="j20337522034106" to-iso="+0857-02-02"><name>大中</name>十年</date>，適遇唐相國<persName key="A003624">裴<roleName>公</roleName>休</persName><lb
+ed="T" n="0784c01"/><placeName key="PL000000034805">二蜀</placeName>、<ref type="place" target="#PL000000042189 #PL000000023581">兩京</ref>，凡曰叢林，一皆參<anchor xml:id="beg0784sgsz28"/>禮<anchor xml:id="end0784sgsz28"/>。既探至賾<ptr rend="display:none;" type="glossary" target="#g331"/>，<lb
+ed="T" n="0784c02"/>頓了心機，乃挂錫於<placeName key="PL000000023412">夷門</placeName>，即<placeName key="PL000000023413"><placeName>倉垣</placeName><placeName>水南寺</placeName></placeName>，<lb
+ed="T" n="0784c03"/>今為<placeName key="PL000000023413">開寶</placeName>也。<date from-iso="+0856-02-14" key="j20337522034106" to-iso="+0857-02-02"><name>大中</name>十年</date>，適遇<placeName key="PL000000000106">唐</placeName>相國<persName key="A003624">裴<roleName>公</roleName>休</persName><lb
 ed="T" n="0784c04"/>罷調<ref type="place" target="#PL000000023329"><name>商</name>鼎</ref>，來鎮<ref type="place" target="#PL000000023329"><name>魏</name>郊</ref><ptr target="#n1688"/>。同氣相求，一言道合，<lb
 ed="T" n="0784c05"/>即命居<ref type="place" target="#PL000000023467">今東</ref><placeName key="PL000000057262">上方院</placeName>也。<persName key="A010654">紹</persName>將聚禪徒，患其<lb
 ed="T" n="0784c06"/>迫窄，遂開<placeName key="PL000000057262">上院</placeName>之西，損上益下。時檀施<ptr type="glossary" target="#g237"/>臻<lb
@@ -37,7 +37,7 @@ ed="T" n="0784c24"/>心淘選，近一千粒，溫潤玉潔，璨爛珠圓，驗
 ed="T" n="0784c25"/>五分<ptr type="glossary" target="#g1633"/>之熏成，匪一生之構集。四眾虔仰，復迎<lb
 ed="T" n="0784c26"/>入塔，即<persName key="A003875">昭宗<roleName>皇帝</roleName></persName><date from-iso="+0898-01-30" key="j20490782049461" to-iso="+0899-02-17">戊午歲</date>也。<placeName key="PL000000025556">睢陽</placeName>相國<persName key="A010659">袁象<lb
 ed="T" n="0784c27"/>先</persName>理于<placeName key="PL000000023328">浚郊</placeName>。弟子<persName key="A010658">惠靄</persName>等兾終法乳，列狀<lb
-ed="T" n="0784c28"/>乞舉行諡禮，<date from-iso="+0913-02-14" key="j20545712054590" to-iso="+0913-03-05"><name>梁</name><name>乾化</name>三年癸酉</date>，<persName key="A003877">太祖</persName>勅易名<lb
+ed="T" n="0784c28"/>乞舉行謚禮，<date from-iso="+0913-02-14" key="j20545712054590" to-iso="+0913-03-05"><name>梁</name><name>乾化</name>三年癸酉</date>，<persName key="A003877">太祖</persName>勅易名<lb
 ed="T" n="0784c29"/>曰<persName key="A010654">定覺</persName>，塔曰<placeName key="PL000000057265">靈化</placeName>。至<date from-iso="+0918-10-13" key="j20566382056667" to-iso="+0918-11-11"><name>貞明</name>四年九月</date>，<persName key="A010658">惠靄</persName><pb ed="T" n="0785a" xml:id="T50.2061.0785a"/><lb
 ed="T" n="0785a01"/>等欲旌表師德立碑，勅允，<placeName key="PL000000023331">開封</placeName>尹<persName key="A010657">王<roleName>公</roleName>瓚</persName><lb
 ed="T" n="0785a02"/>之文也。</p>

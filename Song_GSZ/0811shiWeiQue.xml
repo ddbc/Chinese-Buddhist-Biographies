@@ -1,26 +1,26 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" type="義解" xml:id="gsz0738b14shiWeiQue"><lb
-n="0738b14" ed="T"/><anchor n="T.50.2061.0738b14"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date><placeName key="PL000000042324">京師崇福寺</placeName><persName key="A008962">惟慤</persName><anchor xml:id="beg0738002"/><choice resp="sgsz"><sic>傳一</sic><corr>傳</corr></choice><anchor xml:id="end0738002"/>（<persName key="A009585">慧震</persName> <persName key="A008963">弘沇</persName>）</head><p><lb
-ed="T" n="0738b15"/><persName key="A008962">釋惟慤</persName>，俗姓連氏，齊大夫<persName key="A001384">稱</persName>之後，本<placeName key="PL000000043356"><anchor xml:id="beg0738sgsz8"/>憑翊<anchor xml:id="end0738sgsz8"/></placeName>人，<lb
+n="0738b14" ed="T"/><anchor n="T.50.2061.0738b14"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date><placeName key="PL000000042324"><placeName>京師</placeName><placeName>崇福寺</placeName></placeName><persName key="A008962">惟慤</persName><anchor xml:id="beg0738002"/><choice resp="sgsz"><sic>傳一</sic><corr>傳</corr></choice><anchor xml:id="end0738002"/>（<persName key="A009585">慧震</persName> <persName key="A008963">弘沇</persName>）</head><p><lb
+ed="T" n="0738b15"/><persName key="A008962">釋惟慤</persName>，俗姓<name>連</name>氏，<name>齊</name>大夫<persName key="A001384">稱</persName>之後，本<placeName key="PL000000043356"><anchor xml:id="beg0738sgsz8"/>憑翊<anchor xml:id="end0738sgsz8"/></placeName>人，<lb
 ed="T" n="0738b16"/>官居<placeName key="PL000000004129">上黨</placeName>，為<placeName key="PL000000004130">潞</placeName>人也。九歲割愛，冠年納戒。<lb
 ed="T" n="0738b17"/>母氏昆弟歸于法門，故<persName key="A008962">慤</persName>從其受教，瀾漪<lb
-ed="T" n="0738b18"/>內湛，葳𦼆<ptr type="glossary" target="#g836"/>外發。嗜學服勤<ptr type="glossary" target="#g837"/>，必無倦色。乃辭<lb
+ed="T" n="0738b18"/>內湛，葳𦼆<ptr rend="display:none;" type="glossary" target="#g836"/>外發。嗜學服勤<ptr rend="display:none;" type="glossary" target="#g837"/>，必無倦色。乃辭<lb
 ed="T" n="0738b19"/>渭陽<ptr type="glossary" target="#g838"/>，尋師隷業，或經筵首席，或論集前驅，<lb
 ed="T" n="0738b20"/>或參問禪宗，或附麗<ptr type="glossary" target="#g157"/>律匠。其志淵曠，欲皆<lb
 ed="T" n="0738b21"/>吞納之。年臨不惑，尚住<placeName key="PL000000023581">神都</placeName>，因受舊相<persName key="A000646">房<lb
-ed="T" n="0738b22"/>公融</persName>宅請。未飯之前，宅中出經函云：「<ref type="person" target="#A000646">相公</ref><lb
-ed="T" n="0738b23"/>在<placeName key="PL000000030464">南海</placeName>知南銓，預其翻經，躬親筆受<ptr rend="display:none;" type="glossary" target="#g53"/>《首楞<lb
-ed="T" n="0738b24"/>嚴經》一部，留家供養。今筵中正有十僧，每<lb
+ed="T" n="0738b22"/><roleName>公</roleName>融</persName>宅請。未飯之前，宅中出經函云：「<ref type="person" target="#A000646">相公</ref><lb
+ed="T" n="0738b23"/>在<placeName key="PL000000030464">南海</placeName>知南銓<ptr target="#n3298"/>，預其翻經，躬親筆受<ptr rend="display:none;" type="glossary" target="#g53"/>《首楞<lb
+ed="T" n="0738b24"/>嚴經》一部<ptr target="#n3297"/>，留家供養。今筵中正有十僧，每<lb
 ed="T" n="0738b25"/>人可開題一卷。」<persName key="A008962">慤</persName>坐居第四，舒經見<persName key="A002822">富樓<lb
 ed="T" n="0738b26"/>那</persName>問生起義<ptr target="#n839"/>，覺其文婉，其理玄，發願撰疏，<lb
 ed="T" n="0738b27"/>疏通經義。及歸院，矢誓寫<persName key="A002144">文殊菩薩</persName>像，別<lb
 ed="T" n="0738b28"/>誦名號，計一十年，厥志堅強，遂有冥感，忽<lb
 ed="T" n="0738b29"/>夢<persName key="A002144">妙吉祥</persName>乘狻猊<ptr type="glossary" target="#g840"/>自<persName key="A008962">慤</persName>之口入。由茲下筆，<pb ed="T" n="0738c" xml:id="T50.2061.0738c"/><lb
-ed="T" n="0738c01"/>若<persName key="A002799">大覺</persName>之被<persName key="A002868">善現</persName>談「般若<ptr type="glossary" target="#g26"/>」焉。起<date from-iso="+0766-12-22" key="j20011912001238" to-iso="+0767-02-07"><name>大曆</name>元年<lb
-ed="T" n="0738c02"/>丙午</date>也。及將徹簡<ptr type="glossary" target="#g841"/>，於臥寐中見由口而<lb
+ed="T" n="0738c01"/>若<persName key="A002799">大覺</persName>之被<persName key="A002868">善現</persName>談「般若<ptr rend="display:none;" type="glossary" target="#g26"/>」焉。起<date from-iso="+0766-12-22" key="j20011912001238" to-iso="+0767-02-07"><name>大曆</name>元年<lb
+ed="T" n="0738c02"/>丙午</date>也。及將徹簡<ptr rend="display:none;" type="glossary" target="#g841"/>，於臥寐中見由口而<lb
 ed="T" n="0738c03"/>出，在乎華嚴宗中<persName key="A002144">文殊</persName>智也。勒成三卷，自<lb
 ed="T" n="0738c04"/>謂從淺智中衍出矣。于今盛行。一說《楞嚴<lb
-ed="T" n="0738c05"/>經》初是<placeName key="PL000000027025">荊州度門寺</placeName><persName key="A009582">神秀禪師</persName>在內時得本，<lb
+ed="T" n="0738c05"/>經》初是<placeName key="PL000000027025"><placeName>荊州</placeName><placeName>度門寺</placeName></placeName><persName key="A009582">神秀<roleName>禪師</roleName></persName>在內時得本，<lb
 ed="T" n="0738c06"/>後因<placeName key="PL000000001725">館陶</placeName>沙門<persName key="A009585">慧震</persName>於<placeName key="PL000000027025">度門寺</placeName>傳出，<persName key="A008962">慤</persName>遇之<lb
 ed="T" n="0738c07"/>著疏解之。後有<persName key="A008963"><anchor xml:id="beg0738003"/>弘<anchor xml:id="end0738003"/>沇<roleName>法師</roleName></persName>者，<placeName key="PL000000035107">蜀</placeName>人也，作<lb
 ed="T" n="0738c08"/>義章，開釋此經，號《資中疏》。其中亦引<persName key="A009585">震法<lb

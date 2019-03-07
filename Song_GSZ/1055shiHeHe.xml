@@ -1,24 +1,24 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" type="感通" xml:id="gsz0833b18shiHeHe"><lb
-ed="T" n="0833b18"/><anchor n="T.50.2061.0833b18"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date>京師大安國寺<persName key="A012427">和和</persName>傳</head><p><lb
+ed="T" n="0833b18"/><anchor n="T.50.2061.0833b18"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date><placeName key="PL000000042147"><placeName>京師</placeName><placeName>大安國寺</placeName></placeName><persName key="A012427">和和</persName><ptr target="#n2520"/>傳</head><p><lb
 ed="T" n="0833b19"/><persName key="A012427">釋和和</persName>者，莫詳氏族、本生。其為僧也狂而<lb
-ed="T" n="0833b20"/>不亂，愚而有知，罔測其由。發言多中，時<lb
-ed="T" n="0833b21"/>號為聖。<placeName key="PL000000042147">安國寺</placeName><ptr target="#n558"/>中居住，出入無拘撿。見<placeName key="PL000000042147">本<lb
-ed="T" n="0833b22"/>寺</placeName>修營殿閣未就，有<ref type="person" target="#A019444">越國<!--找不到此地-->公主</ref>降<placeName key="PL000000023194"><anchor xml:id="beg0833004"/><choice resp="sgsz"><sic>榮</sic><corr>滎</corr></choice><anchor xml:id="end0833004"/>陽</placeName><lb
-ed="T" n="0833b23"/><persName key="A012428">鄭萬鈞</persName>，雖琴瑟相諧，而數年無子。<persName key="A012427">和</persName>因至<lb
-ed="T" n="0833b24"/>公主家，<persName key="A012428">鈞</persName>焚香灑掃以待之。主拜跪歸向，<lb
-ed="T" n="0833b25"/><persName key="A012428">鈞</persName>祈告之曰：「某自叨選尚，願得一子為<lb
-ed="T" n="0833b26"/>嗣，唯<persName key="A012427">師</persName>能致之乎？」<persName key="A012427">和</persName>曰：「易耳。但遺<persName key="A012427">我</persName>三千<lb
-ed="T" n="0833b27"/>疋絹，主當誕二男。」<persName key="A012428">鈞</persName>勤重如聽佛語，出絹<lb
+ed="T" n="0833b20"/>不亂，愚而有知，罔測其由<ptr target="#n2521"/>。發言多中，時<lb
+ed="T" n="0833b21"/>號為聖。<placeName key="PL000000042147">安國寺</placeName><ptr target="#n558"/>中居住，出入無拘撿。見<ref type="place" target="#PL000000042147">本<lb
+ed="T" n="0833b22"/>寺</ref>修營殿閣未就──有<persName key="A019444"><choice resp="sgsz"><sic>越</sic><corr>代</corr></choice>國公主</persName><ptr target="#n2522"/>降<persName key="A012428"><persName><anchor xml:id="beg0833004"/><choice resp="sgsz"><sic>榮</sic><corr>滎</corr></choice><anchor xml:id="end0833004"/>陽</persName><lb
+ed="T" n="0833b23"/><persName>鄭萬鈞</persName></persName>，雖琴瑟相諧，而數年無子<ptr target="#n2523"/>──<persName key="A012427">和</persName>因<ptr target="#n2524"/>至<lb
+ed="T" n="0833b24"/><ref type="person" target="#A019444">公主</ref>家，<persName key="A012428">鈞</persName>焚香灑掃以待之。<ref type="person" target="#A019444">主</ref>拜跪歸向<ptr target="#n2525"/>，<lb
+ed="T" n="0833b25"/><persName key="A012428">鈞</persName>祈告之曰：「某自叨選尚<ptr type="glossary" target="#g1712"/>，願得一子為<lb
+ed="T" n="0833b26"/>嗣，唯<ref type="person" target="#A012427">師</ref>能致之乎？」<persName key="A012427">和</persName>曰：「易耳！但遺<ref type="person" target="#A012427">我</ref>三千<lb
+ed="T" n="0833b27"/>疋絹，<ref type="person" target="#A019444">主</ref>當誕二男。」<persName key="A012428">鈞</persName>勤重<ptr rend="display:none;" type="glossary" target="#g250"/>如聽<name>佛</name>語，出絹<lb
 ed="T" n="0833b28"/>如所求施之。<persName key="A012427">和</persName>取付修寺殿閣功德主。乃<lb
-ed="T" n="0833b29"/>曰：「主有娠矣，<persName key="A012427">吾</persName>令二天人下為公主作兒。<pb ed="T" n="0833c" xml:id="T50.2061.0833c"/><lb
-ed="T" n="0833c01"/>所憂者公主不能併妊二子乎？為㝈乳包<lb
-ed="T" n="0833c02"/>羞耳。<persName key="A012427">吾</persName>俾其同年而前後誕之。」果如其言，<lb
+ed="T" n="0833b29"/>曰：「<ref type="person" target="#A019444">主</ref>有娠矣，<ref type="person" target="#A012427">吾</ref>令二天人下為<ref type="person" target="#A019444">公主</ref>作兒。<pb ed="T" n="0833c" xml:id="T50.2061.0833c"/><lb
+ed="T" n="0833c01"/>所憂者<ref type="person" target="#A019444">公主</ref>不能併妊二子乎？為㝈乳包<lb
+ed="T" n="0833c02"/>羞耳<ptr target="#n2526"/>。<ref type="person" target="#A012427">吾</ref>俾其同年而前後誕之。」果如其言，<lb
 ed="T" n="0833c03"/>歲初年末，各生之矣。長曰<persName key="A012429">潛耀</persName>，次曰<persName key="A012430">晦明</persName>，<lb
-ed="T" n="0833c04"/>皆美丈夫，後博涉成事焉。<placeName key="PL000000042189">京邑</placeName>之間傳<anchor xml:id="beg0833sgsz11"/>揚<anchor xml:id="end0833sgsz11"/>沸<lb
-ed="T" n="0833c05"/>渭，量其位地，不可輕議哉。</p>
+ed="T" n="0833c04"/>皆美丈夫，後博涉成事焉<ptr target="#n2527"/>。<ref type="place" target="#PL000000042189">京邑</ref>之間傳<anchor xml:id="beg0833sgsz11"/>揚<anchor xml:id="end0833sgsz11"/>沸<lb
+ed="T" n="0833c05"/>渭<ptr type="glossary" target="#g1713"/>，量其位地，不可輕議哉。</p>
     <linkGrp>
-        <link targets="#0833b21 #0833b21"/>
+        <link targets="#0833b19 #0833b21"/>
         <ptr target="#A012427" type="person"/>
         <ptr target="#PL000000042147" type="place"/>
     </linkGrp>

@@ -1,14 +1,19 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" type="明律" xml:id="gsz0796b05shiQuan"><lb
-ed="T" n="0796b05"/><anchor n="T.50.2061.0796b05"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date>五臺山<persName key="A010852">詮律師</persName>傳</head><p><lb
-ed="T" n="0796b06"/><persName key="A010852">釋詮律師</persName>者，<placeName key="PL000000005439">五臺縣</placeName>人也。綵服出家，冠年受<lb
-ed="T" n="0796b07"/>戒，儀則清雅，眾稟綱繩。習毘尼宗祕菩薩<lb
+ed="T" n="0796b05"/><anchor n="T.50.2061.0796b05"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date><placeName key="PL000000005250">五臺山</placeName><persName key="A010852">詮<roleName>律師</roleName></persName>傳</head><p><lb
+ed="T" n="0796b06"/><persName key="A010852">釋詮<roleName>律師</roleName></persName>者，<placeName key="PL000000005439">五臺縣</placeName>人也。綵服<ptr type="glossary" target="#g423"/>出家，冠年受<lb
+ed="T" n="0796b07"/>戒，儀則清雅，眾稟綱繩。習毘尼宗<ptr type="glossary" target="#g900"/>，祕菩薩<lb
 ed="T" n="0796b08"/>行。<persName key="A010852">詮</persName>除訓徒外，守默無撓，遠近有事，靡不<lb
-ed="T" n="0796b09"/>豫知，人謂為得他心通也。一食終日，弊衣<lb
+ed="T" n="0796b09"/>豫知，人謂為得他心通<ptr type="glossary" target="#g396"/>也。一食終日，弊衣<lb
 ed="T" n="0796b10"/>遮體，不貯顆粒，房無縷綜。其強本節用，<lb
-ed="T" n="0796b11"/>造次不可及也。入滅之日，祥雲欝密，天樂錚<lb
+ed="T" n="0796b11"/>造次<ptr type="glossary" target="#g409"/>不可及也。入滅之日，祥雲欝密，天樂錚<lb
 ed="T" n="0796b12"/>摐，闔寺僧徒皆聞異香馚馥。乃召集寺眾，<lb
 ed="T" n="0796b13"/>執手告辭，囑累門人，加趺而滅云。</p>
+    <linkGrp>
+        <link targets="#0796b05 #0796b05"/>
+        <ptr target="#A010852" type="person"/>
+        <ptr target="#PL000000005250" type="place"/>
+    </linkGrp>
     <linkGrp>
         <link targets="#0796b06 #0796b06"/>
         <ptr target="#A010852" type="person"/>

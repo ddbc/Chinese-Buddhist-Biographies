@@ -1,29 +1,56 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" type="興福" xml:id="gsz0878c29shiZhenGan"><lb
-ed="T" n="0878c29"/><anchor n="T.50.2061.0878c29"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date>吳郡嘉禾<ptr target="#n719"/><persName key="A013712">貞幹</persName>傳</head><pb n="0879a" xml:id="T50.2061.0879a" ed="T"/><p><lb
-ed="T" n="0879a01"/><persName key="A013712">釋貞幹</persName>，俗姓武氏，<placeName key="PL000000003893">雲中</placeName>人也。神宇高邈，以禪<lb
-ed="T" n="0879a02"/>默為務。曳錫踽步，南訪靈跡，及至故<anchor xml:id="beg0879sgsz1"/>障<anchor xml:id="end0879sgsz1"/>，<lb
-ed="T" n="0879a03"/>有崑山寺<!--找不到此地-->者，林泉秀茂，則宋<persName key="A001800">支曇諦</persName>甞考室<lb
-ed="T" n="0879a04"/>于此，味道崇化二十餘載，基蹠存焉。至<date notBefore-iso="+0424-09-18" key="j18761841886591" notAfter-iso="+0453-03-17">元<lb
-ed="T" n="0879a05"/>嘉中</date>創成大伽藍。屬<date from-iso="+0840-02-14" key="j20279082030170" to-iso="+0846-04-25">武宗</date>廢教，其寺屏除。<lb
-ed="T" n="0879a06"/><persName key="A013712">幹</persName>至止於茲，與<placeName key="PL000000002485">范陽</placeName><persName key="A013713">盧君襲</persName>同興<persName key="A013714">弘覺法<lb
-ed="T" n="0879a07"/>師</persName>第二生名跡，寺成，進士<persName key="A013716">姚扶</persName>有詩。<persName key="A013712">幹</persName>後遊<lb
-ed="T" n="0879a08"/>今<placeName key="PL000000012746">秀州</placeName>長水，見<placeName key="PL000000012759">靈光寺</placeName>，邑民欲樹巨殿。時<lb
-ed="T" n="0879a09"/><persName key="A013713">盧</persName>令移邑字民，欣然相遇，<persName key="A013712">幹</persName>悉先知。或云<lb
-ed="T" n="0879a10"/>「得他心宿命之明焉」。遂請<persName key="A013712">幹</persName>首唱，而惡偃<lb
+ed="T" n="0878c29"/><anchor n="T.50.2061.0878c29"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date><placeName key="PL000000012751"><placeName>吳郡</placeName><placeName>嘉禾</placeName></placeName><ptr target="#n719"/><persName key="A013712">貞幹</persName>傳</head><pb n="0879a" xml:id="T50.2061.0879a" ed="T"/><p><lb
+ed="T" n="0879a01"/><persName key="A013712">釋貞幹</persName>，俗姓<name>武</name>氏，<placeName key="PL000000003893">雲中</placeName>人也。神宇高邈，以禪<lb
+ed="T" n="0879a02"/>默為務。曳錫踽步<ptr type="glossary" target="#g2154"/>，南訪靈跡，及至<placeName key="PL000000013136">故<anchor xml:id="beg0879sgsz1"/><choice resp="sgsz"><sic>障</sic><corr>鄣</corr></choice><anchor xml:id="end0879sgsz1"/></placeName>，<lb
+ed="T" n="0879a03"/>有<placeName key="PL000000049696">崑山寺</placeName>者，林泉秀茂，則<date from-iso="+0420-07-11" key="j18746541896160" to-iso="+0479-05-29"><name>宋</name></date><ptr target="#n3336"/><persName key="A001800">支曇諦</persName>甞考室<ptr type="glossary" target="#g2155"/><lb
+ed="T" n="0879a04"/>于此，味道<ptr type="glossary" target="#g2156"/>崇化二十餘載，基蹠存焉！至<date notBefore-iso="+0424-09-18" key="j18761841886591" notAfter-iso="+0453-03-17"><name>元<lb
+ed="T" n="0879a05"/>嘉</name>中</date>創成大伽藍。屬<persName key="A006570">武宗</persName>廢教，<ref type="place" target="#PL000000049696">其寺</ref>屏除。<lb
+ed="T" n="0879a06"/><persName key="A013712">幹</persName>至止於<ref type="place" target="#PL000000049696">茲</ref>，與<placeName key="PL000000002485">范陽</placeName><persName key="A013713">盧君襲</persName>同興<persName key="A002854">弘覺<roleName>法<lb
+ed="T" n="0879a07"/>師</roleName></persName>第二生<ptr target="#n3335"/>名跡。寺成，進士<persName key="A013716">姚扶</persName>有詩。<persName key="A013712">幹</persName>後遊<lb
+ed="T" n="0879a08"/>今<placeName key="PL000000012747"><name>秀州</name><name>長水</name></placeName>，見<placeName key="PL000000012759">靈光寺</placeName>，邑民欲樹巨殿<ptr target="#n3337"/>。時<lb
+ed="T" n="0879a09"/><persName key="A013713">盧<roleName>令</roleName></persName>移邑字民<ptr type="glossary" target="#g2157"/>，欣然相遇，<persName key="A013712">幹</persName>悉先知。或云<lb
+ed="T" n="0879a10"/>得他心<ptr type="glossary" target="#g396"/>、宿命<ptr type="glossary" target="#g2158"/>之明焉！遂請<persName key="A013712">幹</persName>首唱。而惡偃<lb
 ed="T" n="0879a11"/>室之囂，寓殿基後，編苫為淺室而居。四方<lb
 ed="T" n="0879a12"/>檀信，弗召自臻。又與僧令<persName key="A013715">恭君道</persName>等累歲方<lb
 ed="T" n="0879a13"/>成今殿。其最高廣，海內罕比。事畢，挈弊囊，<lb
 ed="T" n="0879a14"/>振舊錫歸北，莫知其終。</p>
     <linkGrp>
+        <link targets="#0879a01 #0879a01"/>
+        <ptr target="#A013712" type="person"/>
+        <ptr target="#PL000000003893" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0879a02 #0879a02"/>
+        <ptr target="#A013712" type="person"/>
+        <ptr target="#PL000000049696" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0879a03 #0879a04"/>
+        <ptr target="#A001800" type="person"/>
+        <ptr target="#PL000000049696" type="place"/>
+    </linkGrp>
+    <linkGrp>
         <link targets="#0879a06 #0879a07"/>
         <ptr target="#A013712" type="person"/>
         <ptr target="#A013713" type="person"/>
+        <ptr target="#PL000000049696" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0879a07 #0879a07"/>
+        <ptr target="#A013716" type="person"/>
+        <ptr target="#PL000000049696" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0879a07 #0879a09"/>
         <ptr target="#A013712" type="person"/>
-        <ptr target="#A013713" type="person"/>    
+        <ptr target="#A013713" type="person"/>
+        <ptr target="#PL000000012759" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0879a12 #0879a13"/>
+        <ptr target="#A013712" type="person"/>
+        <ptr target="#A013715" type="person"/>
         <ptr target="#PL000000012759" type="place"/>
     </linkGrp>
 </div>

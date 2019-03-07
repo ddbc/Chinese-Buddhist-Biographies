@@ -1,34 +1,33 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" type="遺身" xml:id="gsz0855b11shiZhengShou"><lb
-ed="T" n="0855b11"/><anchor n="T.50.2061.0855b11"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date>漢東山光寺<persName key="A013167">正壽</persName>傳（<persName key="A013168">慥禪師</persName>）</head><p><lb
+ed="T" n="0855b11"/><anchor n="T.50.2061.0855b11"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date><placeName key="PL000000028295"><placeName>漢東</placeName><placeName>山光寺</placeName></placeName><persName key="A013167">正壽</persName>傳（<persName key="A013168">慥禪師</persName>）</head><p><lb
 ed="T" n="0855b12"/><persName key="A013167">釋正壽</persName>者，不知何許人也。風儀峻整，節概<lb
 ed="T" n="0855b13"/>高強，肩錫曳囊，宗師皆謁。然以因緣相扣，<lb
-ed="T" n="0855b14"/>附麗<ptr type="glossary" target="#g157"/>有歸，於南塔<persName key="A013168">慥禪師</persName>門，決開疑網，密<lb
-ed="T" n="0855b15"/>修資益。後<persName key="A013167">壽</persName>杜默于隨部山寺，人皆不識。<lb
-ed="T" n="0855b16"/>時<persName key="A013169">譙王重福</persName>者，<persName key="A002100">中宗</persName>次子也，<date key="j19786111978849" notAfter-iso="+0705-10-21" notBefore-iso="+0705-02-25"><name>神龍</name>初</date><persName key="A012119">韋庶人</persName><lb
-ed="T" n="0855b17"/>譖云「與<persName key="A013171">張易之</persName>兄<persName key="A013172">弟</persName>構成重潤之罪」，遷均<lb
-ed="T" n="0855b18"/>州，<anchor xml:id="beg0855002"/>刺<anchor xml:id="end0855002"/>史密加防守，不聽視事。<persName key="A012119">韋后</persName>臨朝，<lb
+ed="T" n="0855b14"/>附麗<ptr type="glossary" target="#g157"/>有歸，於<placeName key="PL000000028297">南塔</placeName><persName key="A013168">慥<roleName>禪師</roleName></persName>門，決開疑網，密<lb
+ed="T" n="0855b15"/>修資益。後<persName key="A013167">壽</persName>杜默于<placeName key="PL000000028309">隨部</placeName><ptr type="glossary" target="#g2176"/>山寺，人皆不識。<lb
+ed="T" n="0855b16"/>時<persName key="A013169"><persName>譙王</persName><persName>重福</persName></persName>者──<persName key="A002100">中宗</persName>次子也──，<date key="j19786111978849" notAfter-iso="+0705-10-21" notBefore-iso="+0705-02-25"><name>神龍</name>初</date><persName key="A012119">韋<roleName>庶人</roleName></persName><lb
+ed="T" n="0855b17"/>譖云「與<ref type="person" target="#A013171 #A013172"><name>張易之</name>兄弟</ref>構成<persName key="A023850">重潤</persName>之罪。<ptr target="#n2893"/>」遷<placeName key="PL000000026800">均<lb
+ed="T" n="0855b18"/>州</placeName><anchor xml:id="beg0855002"/>刺<anchor xml:id="end0855002"/>史──密加防守，不聽視事<ptr target="#n2894"/>。<persName key="A012119">韋后</persName>臨朝，<lb
 ed="T" n="0855b19"/>添兵士捍衛。及<persName key="A012119">韋<roleName>氏</roleName></persName>被誅，<persName key="A002461">睿宗</persName>即位，轉<placeName key="PL000000037201">集<lb
-ed="T" n="0855b20"/>州</placeName><anchor xml:id="beg0855sgsz6"/>刺<anchor xml:id="end0855sgsz6"/>史。未行，然忽忽不樂<ptr type="glossary" target="#g1252"/>，而歸心於<persName key="A013168">慥禪<lb
-ed="T" n="0855b21"/>師</persName>，為其造生藏塔<!--找不到此地-->，舉高七十尺，極為宏壯。<lb
-ed="T" n="0855b22"/>于時<persName key="A013168">慥師</persName>疾已危篤，<persName key="A013169">譙王</persName>使問師「後孰繼高<lb
-ed="T" n="0855b23"/>躅？」<persName key="A013168">慥</persName>曰：「<persName key="A013168">貧道</persName>有<persName key="A013167">正壽</persName>在。」<persName key="A013169">王</persName>問諸僧：「誰為<persName key="A013167">正<lb
-ed="T" n="0855b24"/>壽</persName>？」或曰：「和尚有弟子在山，光迹韜晦。」<persName key="A013169">王</persName>遣<lb
-ed="T" n="0855b25"/>使召到，<persName key="A013167">壽</persName>白<persName key="A013168">慥師</persName>曰：「喜王為檀越，其塔已<lb
-ed="T" n="0855b26"/>成，某欲為先試，得否？」<persName key="A013168">慥</persName>曰：「善，為<anchor xml:id="beg0855sgsz7"/><choice resp="sgsz"><sic>否</sic><corr>吾</corr></choice><anchor xml:id="end0855sgsz7"/>試。」是時<lb
-ed="T" n="0855b27"/><persName key="A013167">壽</persName>攝衣合掌入塔，<app type="cb-app" xml:id="begd1e40096"/>斂<anchor xml:id="endd1e40096"/>容瞑目，結加趺坐，便<lb
+ed="T" n="0855b20"/>州</placeName><anchor xml:id="beg0855sgsz7"/>刺<anchor xml:id="end0855sgsz7"/>史<ptr target="#n2895"/>。未行，然忽忽不樂<ptr rend="display:none;" type="glossary" target="#g1252"/>，而歸心於<persName key="A013168">慥<roleName>禪<lb
+ed="T" n="0855b21"/>師</roleName></persName>，為其造生藏塔，舉高七十尺，極為宏壯。<lb
+ed="T" n="0855b22"/>于時<persName key="A013168">慥<roleName>師</roleName></persName>疾已危篤，<persName key="A013169">譙王</persName>使問<ref type="person" target="#A013168">師</ref>「後孰繼高<lb
+ed="T" n="0855b23"/>躅？」<persName key="A013168">慥</persName>曰：「<ref type="person" target="#A013168">貧道</ref>有<persName key="A013167">正壽</persName>在。」<ref type="person" target="#A013169">王</ref>問諸僧：「誰為<persName key="A013167">正<lb
+ed="T" n="0855b24"/>壽</persName>？」或曰：「<ref type="person" target="#A013168">和尚</ref>有弟子在<placeName key="PL000000028295">山光</placeName>，迹韜晦。」<ref type="person" target="#A013169">王</ref>遣<lb
+ed="T" n="0855b25"/>使召到，<persName key="A013167">壽</persName>白<persName key="A013168">慥<roleName>師</roleName></persName>曰：「喜<ref type="person" target="#A013169">王</ref>為檀越，其塔已<lb
+ed="T" n="0855b26"/>成，<ref type="person" target="#A013167">某</ref>欲為先試，得否？」<persName key="A013168">慥</persName>曰：「善，為<ref type="person" target="#A013168"><anchor xml:id="beg0855sgsz8"/><choice resp="sgsz"><sic>否</sic><corr>吾</corr></choice><anchor xml:id="end0855sgsz8"/></ref>試。」是時<lb
+ed="T" n="0855b27"/><persName key="A013167">壽</persName>攝衣合掌入塔，<anchor xml:id="beg0855sgsz9"/><choice resp="sgsz"><sic>歛</sic><corr>斂</corr></choice><anchor xml:id="end0855sgsz9"/>容瞑目，結加趺坐，便<lb
 ed="T" n="0855b28"/>即滅度，全身不散，時號為<persName key="A013167">試塔和尚</persName>。<persName key="A013169">譙王</persName><lb
 ed="T" n="0855b29"/>聞已，歎嗟終日曰：「弟子猶爾！」乃別議改圖，<pb ed="T" n="0855c" xml:id="T50.2061.0855c"/><lb
-ed="T" n="0855c01"/>為<persName key="A013168">慥禪師</persName>營構焉。</p>
-    <p xml:id="pT50p0855c0201"><lb
-ed="T" n="0855c02"/>系曰：先人有奪人之心，<persName key="A013167">壽公</persName>先其<persName key="A013168">慥</persName>矣。夫<lb
-ed="T" n="0855c03"/>直往者必能逕來也。業累弗羇，樊籠弗罩，<lb
+ed="T" n="0855c01"/>為<persName key="A013168">慥<roleName>禪師</roleName></persName>營構焉。</p><p xml:id="pT50p0855c0201"><lb
+ed="T" n="0855c02"/>系曰：先人有奪人之心<ptr target="#n2896"/>，<persName key="A013167">壽<roleName>公</roleName></persName>先其<persName key="A013168">慥</persName>矣。夫<lb
+ed="T" n="0855c03"/>直往者必能逕來也──業累弗羇<ptr target="#n2897"/>，樊籠弗罩<ptr target="#n2898"/>，<lb
 ed="T" n="0855c04"/>脫羇開罩，生死自由。既然自由，已躋果位<lb
-ed="T" n="0855c05"/>矣。俗諦觀之，<persName key="A013167">壽公</persName>出藍之青也矣。而能<anchor xml:id="beg0855003"/><choice resp="sgsz"><sic>乘</sic><corr>秉</corr></choice><anchor xml:id="end0855003"/><lb
-ed="T" n="0855c06"/>心矯跡，出其師之前，一日千里，其是之謂<lb
+ed="T" n="0855c05"/>矣！俗諦<ptr type="glossary" target="#g1898"/>觀之，<persName key="A013167">壽<roleName>公</roleName></persName>出藍之青也矣。而能<anchor xml:id="beg0855003"/><choice resp="sgsz"><sic>乘</sic><corr>秉</corr></choice><anchor xml:id="end0855003"/><lb
+ed="T" n="0855c06"/>心矯跡<ptr type="glossary" target="#g1899"/>，出其師之前，一日千里<ptr type="glossary" target="#g1900"/>，其是之謂<lb
 ed="T" n="0855c07"/>乎！</p>
     <linkGrp>
-        <link targets="#0855b12 #0855b12"/>
+        <link targets="#0855b11 #0855b11"/>
         <ptr target="#A013167" type="person"/>
         <ptr target="#PL000000028295" type="place"/>
     </linkGrp>
@@ -36,6 +35,7 @@ ed="T" n="0855c07"/>乎！</p>
         <link targets="#0855b14 #0855b14"/>
         <ptr target="#A013167" type="person"/>
         <ptr target="#A013168" type="person"/>
+        <ptr target="#PL000000028297" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0855b16 #0855b16"/>
@@ -46,6 +46,17 @@ ed="T" n="0855c07"/>乎！</p>
         <link targets="#0855b16 #0855b17"/>
         <ptr target="#A012119" type="person"/>
         <ptr target="#A013169" type="person"/>
+        <ptr target="#j19786111978849" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0855b17 #0855b18"/>
+        <ptr target="#A013169" type="person"/>
+        <ptr target="#PL000000026800" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0855b19 #0855b20"/>
+        <ptr target="#A013169" type="person"/>
+        <ptr target="#PL000000037201" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0855b20 #0855b24"/>

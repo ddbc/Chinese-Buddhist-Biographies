@@ -1,28 +1,28 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" type="遺身" xml:id="gsz0858b02shiDaoYu"><lb
-ed="T" n="0858b02"/><anchor n="T.50.2061.0858b02"/><head><date from-iso="+0936-12-05" key="j20632662067017" to-iso="+0947-03-14">晉</date>天台山平田寺<persName key="A012044">道育</persName>傳</head><p><lb
-ed="T" n="0858b03"/><persName key="A012044">釋道育</persName>，<placeName key="PL000000048606">新羅國</placeName>人也，本國姓氏未所詳練。<lb
-ed="T" n="0858b04"/>自<date key="j20468932047247" from-iso="+0892-02-06" to-iso="+0893-01-25">唐<name>景福</name>壬子歲</date>來遊于<placeName key="PL000000014411">天台</placeName>，遲迴而挂<lb
+ed="T" n="0858b02"/><anchor n="T.50.2061.0858b02"/><head><date from-iso="+0936-12-05" key="j20632662067017" to-iso="+0947-03-14">晉</date><placeName key="PL000000014782"><placeName>天台山</placeName><placeName>平田寺</placeName></placeName><persName key="A012044">道育</persName>傳</head><p><lb
+ed="T" n="0858b03"/><persName key="A012044">釋道育</persName>，<placeName key="PL000000048606">新羅國</placeName>人也<ptr target="#n2931"/>，本國姓氏未所詳練。<lb
+ed="T" n="0858b04"/>自<date key="j20468932047247" from-iso="+0892-02-06" to-iso="+0893-01-25">唐<name>景福</name>壬子歲</date>來遊于<placeName key="PL000000014411">天台</placeName>，遲迴<ptr type="glossary" target="#g1925"/>而挂<lb
 ed="T" n="0858b05"/>錫於<placeName key="PL000000014782">平田寺</placeName>眾堂中。慈愛接物，然終不捨<lb
-ed="T" n="0858b06"/>島夷言音。恒持一鉢受食，食訖，略經行而<lb
-ed="T" n="0858b07"/>常坐，脇不著席。日中灑掃殿廊，料理常住<ptr type="glossary" target="#g151"/>，<lb
-ed="T" n="0858b08"/>得殘羨之食，雖色惡氣變，收貯于器，齋時<lb
-ed="T" n="0858b09"/>自食。與僧供湢浴煎茶，遇薪木中蠢蠢，乃<lb
+ed="T" n="0858b06"/>島夷言音。恒持一鉢受食，食訖，略經行<ptr type="glossary" target="#g1047"/>而<lb
+ed="T" n="0858b07"/>常坐，脇不著席。日中灑掃殿廊，料理常住<ptr type="glossary" target="#g151"/>；<lb
+ed="T" n="0858b08"/>得殘羨<ptr type="glossary" target="#g1917"/>之食──雖色惡氣變──，收貯于器，齋時<lb
+ed="T" n="0858b09"/>自食。與僧供<ptr type="glossary" target="#g1919"/>湢浴<ptr type="glossary" target="#g1918"/>、煎茶，遇薪木中蠢蠢，乃<lb
 ed="T" n="0858b10"/>置之遠地，護生偏切。所服皆大布納，其<lb
-ed="T" n="0858b11"/>重難荷。每至夏首秋<anchor xml:id="beg0858sgsz17"/>末<anchor xml:id="end0858sgsz17"/>，日昳，乃裸露胸背<lb
-ed="T" n="0858b12"/>䏶腨，云飼蚊蚋虻蛭雜色蟲螫齧，至於血<lb
+ed="T" n="0858b11"/>重難荷。每至夏首秋<anchor xml:id="beg0858sgsz17"/>末<anchor xml:id="end0858sgsz17"/>，日昳<ptr type="glossary" target="#g1920"/>，乃裸露胸背<lb
+ed="T" n="0858b12"/>䏶腨<ptr type="glossary" target="#g1921"/>，云飼蚊、蚋、虻、蛭雜色蟲，螫齧至於血<lb
 ed="T" n="0858b13"/>流于地。如是行之四十餘載，未甞少廢。凡<lb
-ed="T" n="0858b14"/>對晤賓客，止云伊伊二字，殊不通華語。然<lb
-ed="T" n="0858b15"/>其會認人意，且無差脫。頂髮垂白，眉亦尨<lb
-ed="T" n="0858b16"/>焉。身出紺赤色舍利，有如珠顆，人或求之，<lb
-ed="T" n="0858b17"/>隨意皆獲。至<date key="j20639702063970" when-iso="+0938-11-09">晉<name>天福</name>三年戊<anchor xml:id="beg0858sgsz19"/>戌<anchor xml:id="end0858sgsz19"/>歲十月十日</date>，<lb
+ed="T" n="0858b14"/>對晤賓客，止云「伊伊」二字，殊不通<name>華</name>語。然<lb
+ed="T" n="0858b15"/>其會認人意，且無差脫。頂髮垂白，眉亦尨<ptr type="glossary" target="#g1344"/><lb
+ed="T" n="0858b16"/>焉。身出紺<ptr type="glossary" target="#g1922"/>赤色舍利──有如珠顆──，人或求之，<lb
+ed="T" n="0858b17"/>隨意皆獲。至<placeName key="PL000000000124">晉</placeName><date key="j20639702063970" when-iso="+0938-11-09"><name>天福</name>三年戊<anchor xml:id="beg0858sgsz19"/>戌<anchor xml:id="end0858sgsz19"/>歲十月十日</date>，<lb
 ed="T" n="0858b18"/>終于僧堂中，揣其年八十餘耳。寺僧<anchor xml:id="beg0858sgsz21"/><choice resp="sgsz"><sic><g ref="#Z1197"/></sic><corr>舁</corr></choice><anchor xml:id="end0858sgsz21"/>上<lb
 ed="T" n="0858b19"/>山後焚之，灰中得舍利不可勝數。或有<lb
-ed="T" n="0858b20"/>得巨骨者。<date key="j20626032062957" from-iso="+0935-02-11" to-iso="+0936-01-31">後唐清泰二年</date>，曾遊<placeName key="PL000000014394">石梁</placeName>，迴與<lb
-ed="T" n="0858b21"/><persName key="A012044">育</persName>同宿堂內。時春煦，亦燒榾柮柴以自熏<lb
+ed="T" n="0858b20"/>得巨骨者。<placeName key="PL000000057656">後唐</placeName><date key="j20626032062957" from-iso="+0935-02-11" to-iso="+0936-01-31"><name>清泰</name>二年</date>，曾遊<placeName key="PL000000014426">石梁</placeName>，迴與<lb
+ed="T" n="0858b21"/><persName key="A012044">育</persName>同宿堂內<ptr target="#n2932"/>──時春煦，亦燒榾柮<ptr type="glossary" target="#g1923"/>柴以自熏<lb
 ed="T" n="0858b22"/>灼，口中嘮嘮，通夜不輟。或云凡供養羅漢<lb
-ed="T" n="0858b23"/>大齋日，<persName key="A012044">育</persName>則不食。人或見迎羅漢時問：「何<lb
-ed="T" n="0858b24"/>不去殿內受供？」口云「伊伊去」。或云「飼蟲」。<lb
+ed="T" n="0858b23"/>大齋日<ptr type="glossary" target="#g922"/>，<persName key="A012044">育</persName>則不食。人或見迎羅漢時問：「何<lb
+ed="T" n="0858b24"/>不去殿內受供？」口云「伊伊去」。或云「飼蟲」<ptr type="glossary" target="#g1924"/>，<lb
 ed="T" n="0858b25"/>時見群虎嗅之，盤桓而去矣。</p>
     <linkGrp>
         <link targets="#0858b03 #0858b03"/>
@@ -36,9 +36,16 @@ ed="T" n="0858b25"/>時見群虎嗅之，盤桓而去矣。</p>
         <ptr target="#j20468932047247" type="time"/>
     </linkGrp>
     <linkGrp>
-        <link targets="#0858b20 #0858b25"/>
+        <link targets="#0858b17 #0858b18"/>
         <ptr target="#A012044" type="person"/>
-        <ptr target="#PL000000014394" type="place"/>
+        <ptr target="#PL000000014782" type="place"/>
+        <ptr target="#j20639702063970" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0858b20 #0858b22"/>
+        <ptr target="#A012044" type="person"/>
+        <ptr target="#A001910" type="person"/>
+        <ptr target="#PL000000014426" type="place"/>
         <ptr target="#j20626032062957" type="time"/>
     </linkGrp>
 </div>

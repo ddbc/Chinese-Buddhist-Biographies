@@ -1,21 +1,21 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" type="遺身" xml:id="gsz0855a26shiSengCang"><lb
-n="0855a26" ed="T"/><anchor n="T.50.2061.0855a26"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date>汾州<persName key="A013165">僧藏</persName>傳</head><p><lb
+n="0855a26" ed="T"/><anchor n="T.50.2061.0855a26"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date><placeName key="PL000000006221">汾州</placeName><persName key="A013165">僧藏</persName>傳</head><p><lb
 ed="T" n="0855a27"/><persName key="A013165">釋僧藏</persName>者，<placeName key="PL000000006221">西河</placeName>人也。弱齡拔俗，氣茂神清，允<lb
-ed="T" n="0855a28"/>迪循良，恪居下位。迨霑戒善，密護根塵。見<lb
-ed="T" n="0855a29"/>仁祠必<anchor xml:id="beg0855sgsz4"/>禮<anchor xml:id="end0855sgsz4"/>之，逢碩德則盡禮。苟遇僧俗<pb ed="T" n="0855b" xml:id="T50.2061.0855b"/><lb
-ed="T" n="0855b01"/>施拜，乃俯僂而走，如迴避令長焉。若當眾<lb
-ed="T" n="0855b02"/>務也，則同淨人，屈<anchor xml:id="beg0855sgsz5"/>己<anchor xml:id="end0855sgsz5"/>猶臧獲焉。見他人故<lb
+ed="T" n="0855a28"/>迪<ptr type="glossary" target="#g786"/>循良，恪居下位<ptr target="#n2889"/>。迨霑戒善，密護根塵。見<lb
+ed="T" n="0855a29"/>仁祠<ptr type="glossary" target="#g1894"/>必<anchor xml:id="beg0855sgsz4"/>禮<anchor xml:id="end0855sgsz4"/>之，逢碩德則盡禮。苟遇僧俗<pb ed="T" n="0855b" xml:id="T50.2061.0855b"/><lb
+ed="T" n="0855b01"/>施拜，乃俯僂而走，如迴避令長<ptr type="glossary" target="#g1895"/>焉。若當眾<lb
+ed="T" n="0855b02"/>務也，則同淨人<ptr type="glossary" target="#g695"/>，屈<anchor xml:id="beg0855sgsz5"/>己<anchor xml:id="end0855sgsz5"/>猶臧獲<ptr type="glossary" target="#g1896"/>焉。見他人故<lb
 ed="T" n="0855b03"/>衣，則潛加澣濯，別事紐縫。至于炎暑，乃脫<lb
-ed="T" n="0855b04"/>衣入草莽間，從蛟蚋䗈蛭唼齧，蠆芥血流，<lb
-ed="T" n="0855b05"/>忍而汗洽。而恒念彌陀佛號，雖巧曆者不<lb
-ed="T" n="0855b06"/>能定算數矣。確志冥心，未甞少缺。及預<lb
+ed="T" n="0855b04"/>衣入草莽間，從<anchor xml:id="beg0855sgsz6"/><choice resp="sgsz"><sic>蛟</sic><corr>蚊</corr></choice><anchor xml:id="end0855sgsz6"/>蚋䗈蛭唼齧，蠆芥<ptr type="glossary" target="#g1897"/>血流，<lb
+ed="T" n="0855b05"/>忍而汗洽。而恒念<persName key="A002843">彌陀佛</persName>號，雖巧曆者不<lb
+ed="T" n="0855b06"/>能定算數矣<ptr target="#n2890"/>。確志冥心，未甞少缺。及預<lb
 ed="T" n="0855b07"/>知報盡，謂瞻病者曰：「山僧多幸，得諸天人<lb
-ed="T" n="0855b08"/>次第來迎。」<persName key="A013165">藏</persName>又言：「<persName key="A013165">吾</persName>瞑目聞往淨土，聚諸<lb
-ed="T" n="0855b09"/>上善人散花，方迴此耳。正當捨壽。」合掌念<lb
-ed="T" n="0855b10"/>佛，安然而終矣。</p>
+ed="T" n="0855b08"/>次第來迎。」<ptr target="#n2891"/><persName key="A013165">藏</persName>又言：「<ref type="person" target="#A013165">吾</ref>瞑目聞往淨土，聚諸<lb
+ed="T" n="0855b09"/>上善人散花，方迴此耳──正當捨壽。」合掌念<lb
+ed="T" n="0855b10"/>佛，安然而終矣。<ptr target="#n2892"/></p>
     <linkGrp>
-        <link targets="#0855a27 #0855a28"/>
+        <link targets="#0855a27 #0855a27"/>
         <ptr target="#A013165" type="person"/>
         <ptr target="#PL000000006221" type="place"/>
     </linkGrp>

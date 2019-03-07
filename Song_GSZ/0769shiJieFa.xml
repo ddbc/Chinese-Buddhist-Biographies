@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" type="譯經" xml:id="gsz0721a29shiJieFa"><lb
-ed="T" n="0721a29"/><anchor n="T.50.2061.0721a29"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date><placeName key="PL000000047610">北庭龍興寺</placeName><persName key="A000089">戒法</persName>傳<ptr target="#n194"/></head><pb n="0721b" xml:id="T50.2061.0721b" ed="T"/><p><lb
+ed="T" n="0721a29"/><anchor n="T.50.2061.0721a29"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date><placeName key="PL000000047610"><placeName>北庭</placeName><placeName>龍興寺</placeName></placeName><persName key="A000089">戒法</persName>傳<ptr rend="display:none;" target="#n194"/></head><pb n="0721b" xml:id="T50.2061.0721b" ed="T"/><p><lb
 ed="T" n="0721b01"/><persName key="A000089">釋尸羅達摩</persName>，<name>華</name>言<persName key="A000089">戒法</persName>也，本<placeName key="PL000000047984">于闐</placeName>人。學業<lb
 ed="T" n="0721b02"/>該通，善知<name>華</name><name>梵</name>，居于<ref target="#PL000000047984" type="place">是國</ref>，為大法師。<name>唐</name><date notBefore-iso="+0785-02-18" key="j20078242015327" notAfter-iso="+0805-09-04"><name>貞<lb
 ed="T" n="0721b03"/>元</name>中</date>，<persName key="A009152">悟空</persName>迴至<placeName key="PL000000047628">北庭</placeName>，其本道節度使<persName key="A009153">楊襲古</persName><lb
@@ -10,7 +10,7 @@ ed="T" n="0721b06"/><persName key="A009156">善信</persName>證義<ptr rend="di
 ed="T" n="0721b07"/>傳纔畢，繕寫欲終，遇<placeName key="PL000000047628">北庭</placeName>宣慰中使<persName key="A009157">段明秀</persName><lb
 ed="T" n="0721b08"/>事訖迴，與<placeName key="PL000000047628">北庭</placeName>奏事官<persName key="A009158">牛昕</persName>、<placeName key="PL000000047826">安西</placeName>奏事官<persName key="A009159">程<lb
 ed="T" n="0721b09"/>鍔</persName>等相隨入朝，為<placeName key="PL000000045828">沙</placeName>、<placeName key="PL000000045074">河</placeName>不通，取<placeName key="PL000000048875">迴鶻</placeName>路<ptr target="#n195"/>，其<lb
-ed="T" n="0721b10"/><name>梵</name>夾留<placeName key="PL000000047610">北庭龍興寺</placeName>藏。齎所譯<name>唐</name>本至<ref target="#PL000000042189" type="place">京</ref>，<lb
+ed="T" n="0721b10"/><name>梵</name>夾留<placeName key="PL000000047610"><placeName>北庭</placeName><placeName>龍興寺</placeName></placeName>藏。齎所譯<name>唐</name>本至<ref target="#PL000000042189" type="place">京</ref>，<lb
 ed="T" n="0721b11"/>即<date from-iso="+0789-02-04" key="j20092712009624" to-iso="+0790-01-23"><name>貞元</name>五載</date>也<ptr target="#n388"/>。<persName key="A000089">法</persName>譯事方終，却迴<placeName key="PL000000047984">豁丹</placeName>，<placeName key="PL000000047984">豁丹</placeName><lb
 ed="T" n="0721b12"/>一云<placeName key="PL000000047984">于遁</placeName>，此皆<ref target="#PL000000055433" type="place">嶺</ref>北人之呼召耳，若<placeName key="PL000000048207">五印度</placeName><lb
 ed="T" n="0721b13"/>語云<placeName key="PL000000047984">瞿薩怛那</placeName>，<name>華</name>言<placeName key="PL000000047984">乳國</placeName>，亦云<placeName key="PL000000047984">地乳</placeName><ptr target="#n196"/>也。</p>
